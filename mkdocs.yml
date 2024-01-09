@@ -107,3 +107,4 @@ plugins:
 
 # Link naar GitHub repo (nu nog even mijn eigen repo)
 repo_url: https://github.com/ruthkoole/algoritmekader-test
+edit_uri: edit/main/docs/

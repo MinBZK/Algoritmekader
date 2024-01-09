@@ -106,5 +106,5 @@ plugins:
         enable_creation_date: true
 
 # Link naar GitHub repo (nu nog even mijn eigen repo)
-repo_url: https://github.com/ruthkoole/algoritmekader-test
+repo_url: https://github.com/MinBZK/Algoritmekader
 edit_uri: edit/main/docs/

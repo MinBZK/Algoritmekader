@@ -56,9 +56,15 @@ Overzicht van welke rollen belangrijk zijn te betrekken bij dit bouwblok.
 
 <div class="grid cards" markdown>
 
-- __dats scientist__ beschijf waarom deze rol belangrijk is
-- __projectleider__ beschijf waarom deze rol belangrijk is
-- __jurist__ beschijf waarom deze rol belangrijk is
+- __technische expert__ bron: handreiking non-discriminatie by design
+- __projectleider__ bron: handreiking non-discriminatie by design
+- __jurist__ bron: handreiking non-discriminatie by design
+- __functionaris gegevensbescherming__ bron: handreiking non-discriminatie by design
+- __relevante stakeholders__ bron: handreiking non-discriminatie by design
+- __domein expert__ bron: handreiking non-discriminatie by design
+- __data steward__ bron: handreiking non-discriminatie by design
+- __data analist__ bron: handreiking non-discriminatie by design
+- __beleid__ bron: evaluatie handreiking non-discriminatie by design door ADR
 
 </div>
 ## Best practices
@@ -76,4 +82,12 @@ Overzicht van welke rollen belangrijk zijn te betrekken bij dit bouwblok.
 ## Aanbevelingen
 [Rathenau](https://www.rathenau.nl/nl/digitalisering/algoritmes-afwegen)
 * Geef als uitvoeringsorganisatie meer inzicht in hoe biastoetsing plaatsvindt 
-* Zet een nationaal kennisplatform voor biastoetsing op waar expertise kan worden ontwikkeld en gedeeld. Bepaal welke mate van standaardisatie gewenst is en of wettelijke eisen nodig zijn. 
+* Zet een nationaal kennisplatform voor biastoetsing op waar expertise kan worden ontwikkeld en gedeeld. Bepaal welke mate van standaardisatie gewenst is en of wettelijke eisen nodig zijn.
+* 
+[ADR](https://open.overheid.nl/documenten/7052294a-e70a-4084-88da-d09ae5f202cb/file)
+* Plaats de handreiking in een kader in relatie tot andere instrumenten 
+* Overweeg een risicogerichte benadering voor de toepassing van de handreiking 
+* Werk aan het vergroten van bewustzijn voor algoritmen en (data-)ethiek in de organisatie 
+* Zorg voor duidelijkheid in taken en verantwoordelijkheden van verschillende betrokkenen 
+* Beleg verantwoordelijkheid voor de handreiking en borg de (blijvende) aandacht ervoor 
+* Verplichte toepassing van de handreiking kan bestaande initiatieven tenietdoen 

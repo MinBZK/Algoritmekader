@@ -24,13 +24,9 @@ Het inkopen van algoritmen en kunstmatige intelligentie door overheidsinstelling
 
 ### Ontwikkelen
 
-
 ### Validatie
 
-
-
 ### Implementatie
-
 
 ## Normen
 
@@ -65,7 +61,6 @@ Overzicht van welke rollen belangrijk zijn te betrekken bij dit bouwblok.
 </div>
 
 ## Best practices
-
 
 !!! example "Voorbeeld"
 

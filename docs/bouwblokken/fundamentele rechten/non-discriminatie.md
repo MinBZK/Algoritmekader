@@ -44,7 +44,7 @@ Onderstaand een overzicht van de minimale vereisten die volgen uit geldende wet-
 
     | **Norm**                          | **Uitleg**                               | **Bron** |
     |-----------------------------------|------------------------------------------|----------|
-    | [Norm 1](../../normen/transparantie/norm1.md)    | Korte uitleg over norm 1                |          |
+    | Verbod op ongelijke behandeling in gelijke omstandigheden. Discriminatie wegens godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht of op welke grond dan ook, is niet toegestaan    | Korte uitleg over norm 1                |          | IKA1.0
     | Norm 2                             | Korte uitleg over norm 2                |          |
     | Norm 3                             | Korte uitleg over norm 3                |          |
     | Norm 4                             | Korte uitleg over norm 4                |          |

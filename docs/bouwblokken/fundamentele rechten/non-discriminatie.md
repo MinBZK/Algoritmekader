@@ -91,7 +91,7 @@ Overzicht van welke rollen belangrijk zijn te betrekken bij dit bouwblok.
 * Beleg verantwoordelijkheid voor de handreiking en borg de (blijvende) aandacht ervoor 
 * Verplichte toepassing van de handreiking kan bestaande initiatieven tenietdoen 
 
-[Toetsingskader ADR](https://open.overheid.nl/documenten/61b54381-d331-40ed-8fce-b2883b195f25/file)https://open.overheid.nl/documenten/61b54381-d331-40ed-8fce-b2883b195f25/file)
+[Toetsingskader ADR](https://open.overheid.nl/documenten/61b54381-d331-40ed-8fce-b2883b195f25/file)
 * De definitie van de verschillende groepen en de gewenste prestatie van het model voor deze groepen zijn opgenomen in de functionele eisen.
 * De mate van geaccepteerde bias in de uitkomst is opgenomen in de functionele eisen en uitgewerkt in meetbare prestatiecriteria.
 * De methoden om bias te voorkomen, detecteren en corrigeren zijn vastgelegd.

@@ -19,7 +19,6 @@ Een overzicht van welke fasen van de levenscyclus relevant zijn voor dit bouwblo
 - [x] Data verkenning en data preparatie
 - [x] Ontwikkelen
 - [x] **Validatie** (1)  
-        { .annotate }
        
 - [x] Implementatie
 - [x] **Monitoren** *met daarbij een uitleg waarom deze fase van de levenscyclus belangrijk is voor dit bouwblok*
@@ -83,7 +82,7 @@ Overzicht van welke rollen belangrijk zijn te betrekken bij dit bouwblok.
 [Rathenau](https://www.rathenau.nl/nl/digitalisering/algoritmes-afwegen)
 * Geef als uitvoeringsorganisatie meer inzicht in hoe biastoetsing plaatsvindt 
 * Zet een nationaal kennisplatform voor biastoetsing op waar expertise kan worden ontwikkeld en gedeeld. Bepaal welke mate van standaardisatie gewenst is en of wettelijke eisen nodig zijn.
-* 
+
 [ADR](https://open.overheid.nl/documenten/7052294a-e70a-4084-88da-d09ae5f202cb/file)
 * Plaats de handreiking in een kader in relatie tot andere instrumenten 
 * Overweeg een risicogerichte benadering voor de toepassing van de handreiking 
@@ -91,3 +90,12 @@ Overzicht van welke rollen belangrijk zijn te betrekken bij dit bouwblok.
 * Zorg voor duidelijkheid in taken en verantwoordelijkheden van verschillende betrokkenen 
 * Beleg verantwoordelijkheid voor de handreiking en borg de (blijvende) aandacht ervoor 
 * Verplichte toepassing van de handreiking kan bestaande initiatieven tenietdoen 
+
+[Toetsingskader ADR]([https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai](https://open.overheid.nl/documenten/61b54381-d331-40ed-8fce-b2883b195f25/file)https://open.overheid.nl/documenten/61b54381-d331-40ed-8fce-b2883b195f25/file)
+* De definitie van de verschillende groepen en de gewenste prestatie van het model voor deze groepen zijn opgenomen in de functionele eisen.
+* De mate van geaccepteerde bias in de uitkomst is opgenomen in de functionele eisen en uitgewerkt in meetbare prestatiecriteria.
+* De methoden om bias te voorkomen, detecteren en corrigeren zijn vastgelegd.
+* De mate van bias in de data, dataverzameling en het model zijn in kaart gebracht.
+* Tijdens de ontwikkeling van het model is beoordeeld of er een verschil bestaat tussen de prestatie van het model tussen verschillende subgroepen. De prestatiemetrieken afleidbaar uit de confusionmatrix zijn vergeleken voor deze subgroepen.
+* De uitkomstbias van productiedata is beoordeeld voor de verschillende subgroepen en voldoet aan de prestatiecriteria.
+* Bij de geconstateerde bias is beoordeeld of deze op discriminatie duidt.

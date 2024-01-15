@@ -21,8 +21,8 @@ Een overzicht van welke fasen van de levenscyclus relevant zijn voor dit bouwblo
 - [x] **Validatie** (1)  
        
 - [x] Implementatie
-- [x] **Monitoren** *met daarbij een uitleg waarom deze fase van de levenscyclus belangrijk is voor dit bouwblok*
-- [] **Archiveren** *met daarbij een uitleg waarom deze fase van de levenscyclus belangrijk is voor dit bouwblok*
+- [x] **Monitoren** 
+- [] **Archiveren** 
 
 </div>
  1.  met daarbij een uitleg waarom deze fase van de levenscyclus belangrijk is voor dit bouwblok. In welke zin moet dit bouwblok aan bod komen tijdens deze fase?
@@ -66,18 +66,7 @@ Overzicht van welke rollen belangrijk zijn te betrekken bij dit bouwblok.
 - __beleid__ bron: evaluatie handreiking non-discriminatie by design door ADR
 
 </div>
-## Best practices
-!!! example "Voorbeeld"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
-    euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
-    purus auctor massa, nec semper lorem quam in massa.
-
-??? info "Meer weten?"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
-    euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
-    purus auctor massa, nec semper lorem quam in massa.
 ## Aanbevelingen
 [Rathenau](https://www.rathenau.nl/nl/digitalisering/algoritmes-afwegen)
 * Geef als uitvoeringsorganisatie meer inzicht in hoe biastoetsing plaatsvindt 
@@ -100,7 +89,7 @@ Overzicht van welke rollen belangrijk zijn te betrekken bij dit bouwblok.
 * De uitkomstbias van productiedata is beoordeeld voor de verschillende subgroepen en voldoet aan de prestatiecriteria.
 * Bij de geconstateerde bias is beoordeeld of deze op discriminatie duidt.
 
-[College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dce)
+[College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dce) (Richtlijnen)
 * Overheidsinstanties mogen bij opsporings- en handhavingsbevoegdheden, met het oog op effectiviteit, efficiëntie en kostenbesparing, gebruik maken van risicoprofielen. Binnen deze risicoprofielen mogen ervaringsgegevens die tot een bepaalde vooronderstelling leiden een rol spelen, tenzij dit leidt tot discriminatie op grond van ras of nationaliteit
 * Risicoprofielen die uitsluitend of in doorslaggevende mate gebaseerd zijn op ras (waaronder etniciteit en afkomst) zijn in strijd met het discriminatieverbod;
 * Risicoprofielen die zich richten op één bepaalde afkomst of nationaliteit hebben een stigmatiserend effect en zijn daarom strijdig met het discriminatieverbod;

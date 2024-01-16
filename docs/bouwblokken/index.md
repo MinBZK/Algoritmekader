@@ -42,6 +42,8 @@ Hier komt een beschrijving van de welke bouwblokken er zijn.
     Voorbeeld van het blok fundamentele rechten, dat ongetwijfeld nog verschillende onderwerpen zal bevatten. 
 
     [:octicons-arrow-right-24: Fundamentele rechten](../bouwblokken/fundamentele%20rechten/index.md)
+    
+    [:octicons-arrow-right-24: Non-discriminatie](../bouwblokken/fundamentele%20rechten/non-discriminatie.md)
 
 -   :fontawesome-solid-building-columns:{ .lg .middle } __Governance__
 

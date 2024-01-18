@@ -12,22 +12,14 @@ Schrijf hier een tekst over wat [title] is en waarom dit belangrijk is voor een 
 ## Levenscyclus
 Een overzicht van welke fasen van de levenscyclus relevant zijn voor dit bouwblok. 
 
-<div class="annotate" markdown>
-
 - [x] Probleemanalyse
 - [x] Ontwerp
 - [x] Data verkenning en data preparatie
 - [x] Ontwikkelen
-- [x] **Validatie** (1)  
-       
+- [x] Validatie  
 - [x] Implementatie
-- [x] **Monitoren** 
-- [] **Archiveren** 
-
-</div>
- 1.  met daarbij een uitleg waarom deze fase van de levenscyclus belangrijk is voor dit bouwblok. In welke zin moet dit bouwblok aan bod komen tijdens deze fase?
-
-
+- [x] Monitoren
+- [ ] Archiveren
 
 ## Normen
 
@@ -69,10 +61,12 @@ Overzicht van welke rollen belangrijk zijn te betrekken bij dit bouwblok.
 
 ## Aanbevelingen
 [Rathenau](https://www.rathenau.nl/nl/digitalisering/algoritmes-afwegen)
+
 * Geef als uitvoeringsorganisatie meer inzicht in hoe biastoetsing plaatsvindt 
 * Zet een nationaal kennisplatform voor biastoetsing op waar expertise kan worden ontwikkeld en gedeeld. Bepaal welke mate van standaardisatie gewenst is en of wettelijke eisen nodig zijn.
 
 [ADR](https://open.overheid.nl/documenten/7052294a-e70a-4084-88da-d09ae5f202cb/file)
+
 * Plaats de handreiking in een kader in relatie tot andere instrumenten 
 * Overweeg een risicogerichte benadering voor de toepassing van de handreiking 
 * Werk aan het vergroten van bewustzijn voor algoritmen en (data-)ethiek in de organisatie 
@@ -81,6 +75,7 @@ Overzicht van welke rollen belangrijk zijn te betrekken bij dit bouwblok.
 * Verplichte toepassing van de handreiking kan bestaande initiatieven tenietdoen 
 
 [Toetsingskader ADR](https://open.overheid.nl/documenten/61b54381-d331-40ed-8fce-b2883b195f25/file)
+
 * De definitie van de verschillende groepen en de gewenste prestatie van het model voor deze groepen zijn opgenomen in de functionele eisen.
 * De mate van geaccepteerde bias in de uitkomst is opgenomen in de functionele eisen en uitgewerkt in meetbare prestatiecriteria.
 * De methoden om bias te voorkomen, detecteren en corrigeren zijn vastgelegd.
@@ -90,6 +85,7 @@ Overzicht van welke rollen belangrijk zijn te betrekken bij dit bouwblok.
 * Bij de geconstateerde bias is beoordeeld of deze op discriminatie duidt.
 
 [College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dce) (Richtlijnen)
+
 * Overheidsinstanties mogen bij opsporings- en handhavingsbevoegdheden, met het oog op effectiviteit, efficiëntie en kostenbesparing, gebruik maken van risicoprofielen. Binnen deze risicoprofielen mogen ervaringsgegevens die tot een bepaalde vooronderstelling leiden een rol spelen, tenzij dit leidt tot discriminatie op grond van ras of nationaliteit
 * Risicoprofielen die uitsluitend of in doorslaggevende mate gebaseerd zijn op ras (waaronder etniciteit en afkomst) zijn in strijd met het discriminatieverbod;
 * Risicoprofielen die zich richten op één bepaalde afkomst of nationaliteit hebben een stigmatiserend effect en zijn daarom strijdig met het discriminatieverbod;

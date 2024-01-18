@@ -42,8 +42,8 @@ Hier komt een beschrijving van de welke bouwblokken er zijn.
     Voorbeeld van het blok fundamentele rechten, dat ongetwijfeld nog verschillende onderwerpen zal bevatten. 
 
     [Fundamentele rechten](../bouwblokken/fundamentele%20rechten/index.md)
-    
-    [Fundamentele rechten](../bouwblokken/fundamentele%20rechten/non-discriminatie.md)
+
+    [Non-discriminatie](../bouwblokken/fundamentele%20rechten/non-discriminatie.md)
 
 -   __Governance__
 

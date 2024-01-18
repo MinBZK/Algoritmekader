@@ -1,11 +1,14 @@
 ---
 title: 1. Informeren van betrokkenen
+tags:
+    - bouwblok/transparantie
+    - levenscyclus/ontwerp
+    - levenscyclus/implementatie
 ---
 
 !!! info "Disclaimer"
 
     Het Algoritmekader is nog volop in ontwikkeling. Op deze plek willen we vooral aan de slag gaan op een open en transparante wijze. Het is dus niet definitief. Dat betekent dat er dingen opstaan die niet af zijn en soms zelfs fout. Mocht er iets niet kloppen, laat het ons weten via [GitHub](https://github.com/MinBZK/Algoritmekader).
-
 
 ## Norm
 **De gebruiker informeert de natuurlijke persoon die wordt blootgesteld aan een AI-systeem tijdig, duidelijk en begrijpelijk dat ze interageren met een AI-systeem, tenzij dit vanzelfsprekend is gezien de omstandigheden en de context van gebruik.**
@@ -24,6 +27,9 @@ Betrokkenen zijn niet op de hoogte dat hun persoonsgegevens worden verwerkt midd
 - [Toetsingskader Algemene Rekenkamer](https://www.rekenkamer.nl/onderwerpen/algoritmes-digitaal-toetsingskader), 2.23
 
 - [Onderzoekskader Algoritmes, Auditdienst Rijk](https://open.overheid.nl/documenten/61b54381-d331-40ed-8fce-b2883b195f25/file), PRI.8
+
+#### Standaarden
+Als de standaarden bekend zijn, kunnen we hier verwijzen naar de relevante standaarden. 
 
 ## Uitleg
 Het moet voor burgers die te maken hebben met algoritmes duidelijk zijn

@@ -1,5 +1,6 @@
 ---
-title: 
+title: Norm 8
+summary: hier staat een korte samenvatting over norm 8
 ---
 
 !!! info "Disclaimer"

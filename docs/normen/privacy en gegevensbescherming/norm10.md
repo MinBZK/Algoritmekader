@@ -1,5 +1,6 @@
 ---
-title: 
+title: Norm 10
+summary: hier staat een korte samenvatting over norm 10
 ---
 
 !!! info "Disclaimer"

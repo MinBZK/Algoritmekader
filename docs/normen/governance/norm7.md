@@ -1,5 +1,6 @@
 ---
-title: 
+title: Norm 7
+summary: hier staat een korte samenvatting over norm 7
 ---
 
 !!! info "Disclaimer"

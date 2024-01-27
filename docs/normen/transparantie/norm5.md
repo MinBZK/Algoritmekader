@@ -1,5 +1,6 @@
 ---
-title: 
+title: Norm 5
+summary: hier staat een korte samenvatting over norm 5
 ---
 
 !!! info "Disclaimer"

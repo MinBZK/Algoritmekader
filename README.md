@@ -15,7 +15,7 @@ Het Algoritmekader is nog volop in ontwikkeling. Op deze Github willen we vooral
 
 We ontwikkelen het algoritmekader open source via GitHub. Voor de documentatie maken we gebruik van [Markdown](https://www.markdownguide.org/basic-syntax/) bestanden. Dit bestandsformaat wordt door veel verschillende tools ondersteund, en maakt het eenvoudig versiebeheer op het algoritmekader toe te passen. Hierdoor hebben we grip op reviews en verschillende versies van het kader.
 
-Vooralsnog maken we tijdens de ontwikkelfase gebruik van [mkdocs](https://www.mkdocs.org/) en [material for mkdocs](https://squidfunk.github.io/mkdocs-material/) om de documtentatie inzichtelijk te maken op een website. Hiermee faciliteren we ook al in de ontwikkelfase interactiviteit en flexibiliteit. Uiteindelijk is de bedoeling dat het algoritmekader onderdeel wordt van een bestaande overheidswebsite zoals [Digitale Overheid](www.digitaleoverheid.nl).
+Vooralsnog maken we tijdens de ontwikkelfase gebruik van [mkdocs](https://www.mkdocs.org/) en [material for mkdocs](https://squidfunk.github.io/mkdocs-material/) om de documentatie inzichtelijk te maken op een website. Hiermee faciliteren we ook al in de ontwikkelfase interactiviteit en flexibiliteit. Uiteindelijk is de bedoeling dat het algoritmekader onderdeel wordt van een bestaande overheidswebsite zoals [Digitale Overheid](www.digitaleoverheid.nl).
 
 Als je wilt bijdragen aan het algoritmekader, is dat voor ons het makkelijkst via GitHub en de markdown bestanden. Hieronder volgen een aantal mogelijkheden hoe je dat kan doen:
 

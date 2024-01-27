@@ -71,8 +71,26 @@ nav:
           - bouwblokken/transparantie/index.md
     - Normen:
         - normen/index.md
-        - Transparantie:   
-            - normen/transparantie/norm1.md
+        - Conformiteitsbeoordeling:
+            - normen/conformiteitsbeoordeling/index.md
+        - Data:
+            - normen/data/index.md
+        - Duurzaamheid:
+            - normen/duurzaamheid/index.md
+        - Fundamentele rechten:
+            - normen/fundamentele rechten/index.md
+        - Governance:
+          - normen/governance/index.md
+        - Inkoop:
+          - normen/inkoop/index.md
+        - Menselijke controle:
+          - normen/menselijke controle/index.md
+        - Privacy en gegevensbescherming:
+          - normen/privacy en gegevensbescherming/index.md
+        - Technische robuustheid en veiligheid:
+          - normen/technische robuustheid en veiligheid/index.md
+        - Transparantie:
+          - normen/transparantie/index.md
     - Instrumenten: instrumenten/index.md
 
 # Extra opties

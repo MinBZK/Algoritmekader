@@ -1,5 +1,6 @@
 ---
-title: 
+title: Norm 9
+summary: hier staat een korte samenvatting over norm 9
 ---
 
 !!! info "Disclaimer"

@@ -1,6 +1,6 @@
 ---
-title: Norm 4
-summary: hier staat een korte samenvatting over norm 4
+title: Norm 1
+summary: hier staat een korte samenvatting over norm 1
 ---
 
 !!! info "Disclaimer"
@@ -9,7 +9,7 @@ summary: hier staat een korte samenvatting over norm 4
 
 
 ## Norm
-**Het algoritme is in goede geordende staat en voldoet aan de Archiefwet 1995, dit betekent dat het algoritme duurzaam toegankelijk is (vindbaar, beschikbaar, leesbaar, interpreteerbaar, betrouwbaar en toekomstbestendig. Voor iedereen die daar recht op heeft en voor zo lang als noodzakelijk.**
+** **
 
 ## Risico
 In progress
@@ -17,6 +17,7 @@ In progress
 ## Bronnen
 
 #### Wet- en regelgeving
+
 
 #### Toetsingskaders
 
@@ -29,7 +30,6 @@ Hierbij kan verwezen worden naar informatie over het algoritme in het [Algoritme
 
 ## Rollen
 Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoering van deze norm. 
-
 
 
 ## Best practices

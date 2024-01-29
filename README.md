@@ -11,7 +11,7 @@ Belangrijk uitgangspunt bij de ontwikkeling van het kader is om zoveel mogelijk 
 ## Disclaimer
 Het Algoritmekader is nog volop in ontwikkeling. Op deze Github willen we vooral aan de slag gaan op een open en transparante wijze. Het is dus niet definitief. Dat betekent dat er dingen opstaan die niet af zijn en soms zelfs fout. Mocht er iets niet kloppen, laat het ons weten.
 
-## Hoe kan je bijdragen aan de ontwikkeling van het algortimekader?
+## Hoe kan je bijdragen aan de ontwikkeling van het algoritmekader?
 
 We ontwikkelen het algoritmekader open source via GitHub. Voor de documentatie maken we gebruik van [Markdown](https://www.markdownguide.org/basic-syntax/) bestanden. Dit bestandsformaat wordt door veel verschillende tools ondersteund, en maakt het eenvoudig versiebeheer op het algoritmekader toe te passen. Hierdoor hebben we grip op reviews en verschillende versies van het kader.
 
@@ -27,7 +27,7 @@ Als je wilt bijdragen aan het algoritmekader, is dat voor ons het makkelijkst vi
 5. Het team van het algoritmekader gaat aan de slag met jouw issue en zal mogelijk contact opnemen voor een verduidelijking of oplossing. 
 
 ### Ben je collaborator? Maak gebruik van branches!
-Indien je door het team van algortimekader bent toegevoegd als *collaborator*, kan je eenvoudiger aanpassingen doen aan het algoritmekader. Hieronder volgt een instructie hoe dat werkt. 
+Indien je door het team van algoritmekader bent toegevoegd als *collaborator*, kan je eenvoudiger aanpassingen doen aan het algoritmekader. Hieronder volgt een instructie hoe dat werkt. 
 
 #### Branches
 We werken met verschillende *branches*, waardoor we vrij kunnen ontwikkelen, zonder dat dat gelijk invloed heeft op de versie in *productie*. Linksbovenin zie je de verschillende branches die er zijn (zie afbeelding voor een voorbeeld). De *main* branch is de versie van het algoritmekader die gekoppeld is aan https://minbzk.github.io/Algoritmekader/. 

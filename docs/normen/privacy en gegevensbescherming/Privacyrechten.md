@@ -1,6 +1,6 @@
 ---
-title: Norm 8
-summary: hier staat een korte samenvatting over norm 8
+title: Privacyrechten
+summary: hier staat een korte samenvatting over norm 10
 ---
 
 !!! info "Disclaimer"
@@ -9,22 +9,21 @@ summary: hier staat een korte samenvatting over norm 8
 
 
 ## Norm
-**Gegevens worden niet langer worden bewaard dan nodig (opslagbeperking).**
+**Betrokkenen kunnen een beroep doen op hun privacyrechten.**
 
 ## Risico
-In progress
+Betrokkenen hebben geen controle over hun persoonsgegevens doordat ze geen beroep kunnen doen op hun privacyrechten.
 
 ## Bronnen
 
 #### Wet- en regelgeving
-
-- [Algemene Verordening Gegevensbescherming (AVG)](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679&qid=1685451198313), artikel 
+- [Algemene Verordening Gegevensbescherming (AVG)](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679&qid=1685451198313), artikel 15-21 AVG
 
 #### Toetsingskaders
 
 
 ## Uitleg
-
+De persoonsgegevens kunnen worden ingezien, gerectificeerd, verwijderd of beperkt om een juiste uitvoering te kunnen geven aan de rechten van betrokkenen.
 
 ## Hoe?
 Hierbij kan verwezen worden naar informatie over het algoritme in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 

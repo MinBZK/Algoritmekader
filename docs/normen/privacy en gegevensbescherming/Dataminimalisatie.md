@@ -1,5 +1,5 @@
 ---
-title: Norm 6
+title: Dataminimalisatie
 summary: hier staat een korte samenvatting over norm 6
 ---
 
@@ -12,19 +12,19 @@ summary: hier staat een korte samenvatting over norm 6
 **De verwerkte persoonsgegevens zijn toereikend, ter zake dienend en beperkt tot het noodzakelijke (dataminimalisatie).**
 
 ## Risico
-In progress
+De verwerkte persoonsgegevens zijn niet proportioneel en relevant in relatie tot het doel.
 
 ## Bronnen
 
 #### Wet- en regelgeving
 
-- [Algemene Verordening Gegevensbescherming (AVG)](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679&qid=1685451198313), artikel 
+- [Algemene Verordening Gegevensbescherming (AVG)](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679&qid=1685451198313), artikel 5 lid 1 onder c AVG
 
 #### Toetsingskaders
 
 
 ## Uitleg
-
+Wanneer persoonsgegevens worden verwerkt dan moeten zij voor het doel toereikend en ter zake dienend zijn. Verder mogen er niet meer persoonsgegevens worden verwerkt dan noodzakelijk voor het doel. Met andere woorden: er mogen, gelet op het doel, niet te veel, maar ook niet te weinig gegevens worden verwerkt. Wanneer namelijk te weinig gegevens worden verwerkt, dan kan er ten onrechte een onvolledig beeld ontstaan van de betrokkene.
 
 ## Hoe?
 Hierbij kan verwezen worden naar informatie over het algoritme in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 

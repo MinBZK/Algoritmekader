@@ -1,5 +1,5 @@
 ---
-title: Norm 11
+title: Geautomatiseerde besluitvorming
 summary: hier staat een korte samenvatting over norm 11
 ---
 
@@ -12,22 +12,26 @@ summary: hier staat een korte samenvatting over norm 11
 **Betrokkenen hebben het recht om niet onderworpen te worden aan een enkel op geautomatiseerde verwerking, waaronder proflering, gebaseerd besluit, wanneer dit rechtsgevolgen heeft voor hen of het hen anderszins in aanzienlijke mate tref.**
 
 ## Risico
-In progress
+Een betrokkene ondervindt aanmerkelijke gevolgen door een geautomatiseerd besluit, zonder dat deze een beroep op menselijke tussenkomst kan doen.  
 
 ## Bronnen
 
 #### Wet- en regelgeving
 
-- [Algemene Verordening Gegevensbescherming (AVG)](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679&qid=1685451198313), artikel 
+- [Algemene Verordening Gegevensbescherming (AVG)](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679&qid=1685451198313), artikel 22 AVG
 
 #### Toetsingskaders
 
 
 ## Uitleg
+Als regel geldt een algemeen verbod op uitsluitend geautomatiseerde individuele besluitvorming, met inbegrip van profilering waaraan voor de betrokkene juridische of 
+anderszins aanmerkelijke gevolgen zijn verbonden. 
+
+Op grond van artikel 40 van de Uitvoeringswet AVG (UAVG) geldt het verbod op uitsluitend geautomatiseerde individuele besluitvorming, anders dan op basis van profilering, niet als deze besluitvorming noodzakelijk is om te voldoen aan een wettelijke plicht of als het noodzakelijk is om een taak van algemeen belang uit te voeren.
 
 
 ## Hoe?
-. Hierbij kan verwezen worden naar informatie over het algoritme in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
+Hierbij kan verwezen worden naar informatie over het algoritme in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
 
 ## Rollen
 Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoering van deze norm. 

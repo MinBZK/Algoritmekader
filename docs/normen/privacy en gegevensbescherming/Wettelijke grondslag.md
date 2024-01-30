@@ -1,6 +1,6 @@
 ---
-title: Norm 9
-summary: hier staat een korte samenvatting over norm 9
+title: Wettelijke grondslag
+summary: hier staat een korte samenvatting over norm 5
 ---
 
 !!! info "Disclaimer"
@@ -9,21 +9,27 @@ summary: hier staat een korte samenvatting over norm 9
 
 
 ## Norm
-**Het algoritme verwerkt alleen bijzondere persoonsgegevens, strafrechtelijke gegevens of nationale identificatienummers (o.a. BSN) als deze op basis van een wettelijke uitzondering verwerkt mogen worden.**
+**Elke verwerking van persoonsgegevens moet gerechtvaardigd zijn.**
 
 ## Risico
-In progress
+De verwerking (inclusief het verzamelen) van de persoonsgegevens door het algoritme is niet gebaseerd op een wettelijke grondslag.
 
 ## Bronnen
 
 #### Wet- en regelgeving
 
-- [Algemene Verordening Gegevensbescherming (AVG)](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679&qid=1685451198313), artikel 
+- [Algemene Verordening Gegevensbescherming (AVG)](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679&qid=1685451198313), artikel 6 AVG
 
 #### Toetsingskaders
--
-## Uitleg
 
+
+## Uitleg
+De AVG noemt de volgende wettelijke grondslagen: 
+•	Uitvoering van een overeenkomst waarbij de betrokkene partij is
+•	Voldoen aan een wettelijke verplichting
+•	Noodzakelijk voor vitaal belang van betrokkene
+•	Noodzakelijk voor vervulling van een taak van algemeen belang of uitoefening openbaar gezag
+•	Gerechtvaardigd belang van verwerkingsverantwoordelijke of een derde
 
 ## Hoe?
 Hierbij kan verwezen worden naar informatie over het algoritme in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 

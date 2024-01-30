@@ -1,6 +1,6 @@
 --- 
 tags:
-    - levenscyclus/probleemanalyse
+    - probleemanalyse
 ---
 
 # Probleemanalyse

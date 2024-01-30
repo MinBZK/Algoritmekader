@@ -1,6 +1,6 @@
 --- 
 tags:
-    - levenscyclus/monitoren
+    - monitoren
 ---
 
 # Monitoren

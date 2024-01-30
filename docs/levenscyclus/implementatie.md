@@ -1,6 +1,6 @@
 --- 
 tags:
-    - levenscyclus/implementatie
+    - implementatie
 ---
 
 # Implementatie

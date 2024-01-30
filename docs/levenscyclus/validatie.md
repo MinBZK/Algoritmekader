@@ -1,6 +1,6 @@
 --- 
 tags:
-    - levenscyclus/validatie
+    - validatie
 ---
 
 # Validatie

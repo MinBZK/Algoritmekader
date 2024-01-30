@@ -1,6 +1,6 @@
 --- 
 tags:
-    - levenscyclus/archiveren
+    - archiveren
 ---
 
 # Archiveren

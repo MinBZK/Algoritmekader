@@ -1,6 +1,6 @@
 --- 
 tags:
-    - levenscyclus/ontwikkelen
+    - ontwikkelen
 ---
 
 # Ontwikkelen

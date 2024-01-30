@@ -1,9 +1,8 @@
 ---
 title: 1. Informeren van betrokkenen
 tags:
-    - bouwblok/transparantie
-    - levenscyclus/ontwerp
-    - levenscyclus/implementatie
+    - ontwerp
+    - implementatie
 ---
 
 !!! info "Disclaimer"

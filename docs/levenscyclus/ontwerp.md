@@ -1,6 +1,6 @@
 --- 
 tags:
-    - levenscyclus/ontwerp
+    - ontwerp
 ---
 
 # Ontwerp

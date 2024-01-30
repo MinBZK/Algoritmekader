@@ -1,6 +1,6 @@
 --- 
 tags:
-    - levenscyclus/data verkenning en preparatie
+    - data verkenning en preparatie
 ---
 
 # Data verkenning en preparatie

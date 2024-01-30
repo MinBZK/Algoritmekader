@@ -167,7 +167,6 @@ plugins:
     - git-revision-date-localized:
         enable_creation_date: true
     - tags:
-        tags_hierarchy: true
         tags_file: tags.md
 
 # Link naar GitHub repo (nu nog even mijn eigen repo)

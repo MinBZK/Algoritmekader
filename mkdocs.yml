@@ -160,6 +160,7 @@ extra:
     - icon: fontawesome/brands/github 
       link: https://github.com/MinBZK/Algoritmekader
 
+
 plugins:
     - glightbox
     - search

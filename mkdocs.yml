@@ -71,8 +71,68 @@ nav:
           - bouwblokken/transparantie/index.md
     - Normen:
         - normen/index.md
-        - Transparantie:   
-            - normen/transparantie/norm1.md
+        - Conformiteitsbeoordeling:
+           - normen/conformiteitsbeoordeling/index.md
+           - normen/conformiteitsbeoordeling/norm1.md
+        - Data:
+           - normen/data/index.md
+           - normen/data/norm1.md
+        - Duurzaamheid:
+           - normen/duurzaamheid/index.md
+           - normen/duurzaamheid/norm1.md
+           - normen/duurzaamheid/norm2.md
+        - Fundamentele rechten:
+           - normen/fundamentele rechten/index.md
+           - normen/fundamentele rechten/norm1.md
+        - Governance:
+           - normen/governance/index.md
+           - normen/governance/norm1.md
+           - normen/governance/norm2.md
+           - normen/governance/norm3.md
+           - normen/governance/norm4.md
+           - normen/governance/norm5.md
+           - normen/governance/norm6.md
+           - normen/governance/norm7.md
+           - normen/governance/norm8.md
+        - Inkoop:
+           - normen/inkoop/index.md
+           - normen/inkoop/norm1.md
+        - Menselijke controle:
+           - normen/menselijke controle/index.md
+           - normen/menselijke controle/norm1.md
+           - normen/menselijke controle/norm2.md
+           - normen/menselijke controle/norm3.md
+           - normen/menselijke controle/norm4.md
+        - Privacy en gegevensbescherming:
+           - normen/privacy en gegevensbescherming/index.md
+           - normen/privacy en gegevensbescherming/norm1.md
+           - normen/privacy en gegevensbescherming/norm2.md
+           - normen/privacy en gegevensbescherming/norm3.md
+           - normen/privacy en gegevensbescherming/norm4.md
+           - normen/privacy en gegevensbescherming/norm5.md
+           - normen/privacy en gegevensbescherming/norm6.md
+           - normen/privacy en gegevensbescherming/norm7.md
+           - normen/privacy en gegevensbescherming/norm8.md
+           - normen/privacy en gegevensbescherming/norm9.md
+           - normen/privacy en gegevensbescherming/norm10.md
+           - normen/privacy en gegevensbescherming/norm11.md
+           - normen/privacy en gegevensbescherming/norm12.md
+        - Technische robuustheid en veiligheid:
+           - normen/technische robuustheid en veiligheid/index.md
+           - normen/technische robuustheid en veiligheid/norm1.md
+           - normen/technische robuustheid en veiligheid/norm2.md
+           - normen/technische robuustheid en veiligheid/norm3.md
+           - normen/technische robuustheid en veiligheid/norm4.md
+           - normen/technische robuustheid en veiligheid/norm5.md
+           - normen/technische robuustheid en veiligheid/norm6.md
+        - Transparantie:
+           - normen/transparantie/index.md
+           - normen/transparantie/norm1.md
+           - normen/transparantie/norm2.md
+           - normen/transparantie/norm3.md
+           - normen/transparantie/norm4.md
+           - normen/transparantie/norm5.md
+
     - Instrumenten: instrumenten/index.md
 
 # Extra opties

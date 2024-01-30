@@ -14,14 +14,15 @@ tags:
 **De gebruiker informeert de natuurlijke persoon die wordt blootgesteld aan een AI-systeem tijdig, duidelijk en begrijpelijk dat ze interageren met een AI-systeem, tenzij dit vanzelfsprekend is gezien de omstandigheden en de context van gebruik.**
 
 ## Risico
-Betrokkenen zijn niet op de hoogte dat hun persoonsgegevens worden verwerkt middels een algoritme, waardoor zij geen controle hebben.
+- Betrokkenen die niet op de hoogte zijn van de verwerking van hun persoonsgegevens, waaronder betekenisvolle informatie over de logica van de verwerking, zijn niet in staat om hun rechten uit te oefenen om bijvoorbeeld fouten te corrigeren.
+- Gebrek aan transparantie van verwerkingen van persoonsgegevens door middel van algoritmes kan de rechtmatigheid van verwerkingen ondermijnen.
 
 ## Bronnen
 
 #### Wet- en regelgeving
 - [AI Act](https://artificialintelligenceact.eu/wp-content/uploads/2023/08/AI-Mandates-20-June-2023.pdf), artikel 52
 
-- [Algemene Verordening Gegevensbescherming (AVG)](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679&qid=1685451198313), artikel 12-14
+- [Algemene Verordening Gegevensbescherming (AVG)](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679&qid=1685451198313), artikel 5 en 12-14
 
 #### Toetsingskaders
 - [Toetsingskader Algemene Rekenkamer](https://www.rekenkamer.nl/onderwerpen/algoritmes-digitaal-toetsingskader), 2.23

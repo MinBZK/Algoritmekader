@@ -42,11 +42,11 @@ Op deze pagina staat een overzicht van de normen die we tot nu toe hebben verzam
 | :fontawesome-solid-gear: Technische robuustheid en veiligheid | [Norm4](../normen/technische%20robuustheid%20en%20veiligheid/norm4.md) |
 | :fontawesome-solid-gear: Technische robuustheid en veiligheid | [Norm5](../normen/technische%20robuustheid%20en%20veiligheid/norm5.md) |
 | :fontawesome-solid-gear: Technische robuustheid en veiligheid | [Norm6](../normen/technische%20robuustheid%20en%20veiligheid/norm6.md) |
-| :fontawesome-solid-magnifying-glass:Transparantie             | [Norm1](../normen/transparantie/norm1.md)                              |
-| :fontawesome-solid-magnifying-glass:Transparantie             | [Norm2](../normen/transparantie/norm2.md)                              |
-| :fontawesome-solid-magnifying-glass:Transparantie             | [Norm3](../normen/transparantie/norm3.md)                              |
-| :fontawesome-solid-magnifying-glass:Transparantie             | [Norm4](../normen/transparantie/norm4.md)                              |
-| :fontawesome-solid-magnifying-glass:Transparantie             | [Norm5](../normen/transparantie/norm5.md)                              |
+| :fontawesome-solid-magnifying-glass: Transparantie             | [Norm1](../normen/transparantie/norm1.md)                              |
+| :fontawesome-solid-magnifying-glass: Transparantie             | [Norm2](../normen/transparantie/norm2.md)                              |
+| :fontawesome-solid-magnifying-glass: Transparantie             | [Norm3](../normen/transparantie/norm3.md)                              |
+| :fontawesome-solid-magnifying-glass: Transparantie             | [Norm4](../normen/transparantie/norm4.md)                              |
+| :fontawesome-solid-magnifying-glass: Transparantie             | [Norm5](../normen/transparantie/norm5.md)                              |
 
 
 !!! opmerking "Nog te doen"

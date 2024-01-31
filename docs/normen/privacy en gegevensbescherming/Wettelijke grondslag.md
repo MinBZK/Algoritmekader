@@ -1,5 +1,5 @@
 ---
-title: Norm 5
+title: Wettelijke grondslag
 summary: hier staat een korte samenvatting over norm 5
 ---
 
@@ -12,19 +12,24 @@ summary: hier staat een korte samenvatting over norm 5
 **Elke verwerking van persoonsgegevens moet gerechtvaardigd zijn.**
 
 ## Risico
-In progress
+De verwerking (inclusief het verzamelen) van de persoonsgegevens door het algoritme is niet gebaseerd op een wettelijke grondslag.
 
 ## Bronnen
 
 #### Wet- en regelgeving
 
-- [Algemene Verordening Gegevensbescherming (AVG)](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679&qid=1685451198313), artikel 
+- [Algemene Verordening Gegevensbescherming (AVG)](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679&qid=1685451198313), artikel 6 AVG
 
 #### Toetsingskaders
 
 
 ## Uitleg
-
+De AVG noemt de volgende wettelijke grondslagen: 
+•	Uitvoering van een overeenkomst waarbij de betrokkene partij is
+•	Voldoen aan een wettelijke verplichting
+•	Noodzakelijk voor vitaal belang van betrokkene
+•	Noodzakelijk voor vervulling van een taak van algemeen belang of uitoefening openbaar gezag
+•	Gerechtvaardigd belang van verwerkingsverantwoordelijke of een derde
 
 ## Hoe?
 

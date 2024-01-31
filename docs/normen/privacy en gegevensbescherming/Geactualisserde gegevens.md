@@ -1,5 +1,5 @@
 ---
-title: Norm 7
+title: Geactualisserde gegevens
 summary: hier staat een korte samenvatting over norm 7
 ---
 
@@ -12,19 +12,19 @@ summary: hier staat een korte samenvatting over norm 7
 **De gegevens zijn juist en zo nodig geactualiseerd.**
 
 ## Risico
-In progress
+De kwaliteit en integriteit van data is niet voldoende geborgd.
 
 ## Bronnen
 
 #### Wet- en regelgeving
 
-- [Algemene Verordening Gegevensbescherming (AVG)](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679&qid=1685451198313), artikel 
+- [Algemene Verordening Gegevensbescherming (AVG)](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679&qid=1685451198313), artikel 5 lid 1 sub d AVG
 
 #### Toetsingskaders
 
 
 ## Uitleg
-
+Als de gegevens die in het algoritme worden gebruikt onjuist zijn, zullen ook besluiten of profielen die daaruit voortkomen onjuist zijn. Besluiten zijn mogelijk genomen op basis van verouderde gegevens of de onjuiste interpretatie van externe gegevens. Zelfs wanneer ruwe gegevens correct worden opgeslagen, is de gegevensreeks mogelijk niet geheel representatief of kunnen de analysegegevens ongemerkt vooroordelen bevatten.
 
 ## Hoe?
 

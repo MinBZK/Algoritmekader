@@ -105,18 +105,18 @@ nav:
            - normen/menselijke controle/norm4.md
         - Privacy en gegevensbescherming:
            - normen/privacy en gegevensbescherming/index.md
-           - normen/privacy en gegevensbescherming/norm1.md
-           - normen/privacy en gegevensbescherming/norm2.md
-           - normen/privacy en gegevensbescherming/norm3.md
-           - normen/privacy en gegevensbescherming/norm4.md
-           - normen/privacy en gegevensbescherming/norm5.md
-           - normen/privacy en gegevensbescherming/norm6.md
-           - normen/privacy en gegevensbescherming/norm7.md
-           - normen/privacy en gegevensbescherming/norm8.md
-           - normen/privacy en gegevensbescherming/norm9.md
-           - normen/privacy en gegevensbescherming/norm10.md
-           - normen/privacy en gegevensbescherming/norm11.md
-           - normen/privacy en gegevensbescherming/norm12.md
+           - normen/privacy en gegevensbescherming/Rollen en verantwoordelijkheden.md
+           - normen/privacy en gegevensbescherming/GEB en DPIA.md
+           - normen/privacy en gegevensbescherming/Rechmatige verwerking.md
+           - normen/privacy en gegevensbescherming/Doelbinding.md
+           - normen/privacy en gegevensbescherming/Wettelijke grondslag.md
+           - normen/privacy en gegevensbescherming/Dataminimalisatie.md
+           - normen/privacy en gegevensbescherming/Geactualisserde gegevens.md
+           - normen/privacy en gegevensbescherming/Opslagbeperking.md
+           - normen/privacy en gegevensbescherming/Bijzondere persoonsgegevens.md
+           - normen/privacy en gegevensbescherming/Privacyrechten.md
+           - normen/privacy en gegevensbescherming/Geautomatiseerde besluitvorming.md
+           - normen/privacy en gegevensbescherming/Privacy by Design.md
         - Technische robuustheid en veiligheid:
            - normen/technische robuustheid en veiligheid/index.md
            - normen/technische robuustheid en veiligheid/norm1.md

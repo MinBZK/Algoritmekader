@@ -1,6 +1,6 @@
 ---
-title: Norm 9
-summary: hier staat een korte samenvatting over norm 9
+title: Privacyrechten
+summary: hier staat een korte samenvatting over norm 10
 ---
 
 !!! info "Disclaimer"
@@ -9,21 +9,21 @@ summary: hier staat een korte samenvatting over norm 9
 
 
 ## Norm
-**Het algoritme verwerkt alleen bijzondere persoonsgegevens, strafrechtelijke gegevens of nationale identificatienummers (o.a. BSN) als deze op basis van een wettelijke uitzondering verwerkt mogen worden.**
+**Betrokkenen kunnen een beroep doen op hun privacyrechten.**
 
 ## Risico
-In progress
+Betrokkenen hebben geen controle over hun persoonsgegevens doordat ze geen beroep kunnen doen op hun privacyrechten.
 
 ## Bronnen
 
 #### Wet- en regelgeving
-
-- [Algemene Verordening Gegevensbescherming (AVG)](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679&qid=1685451198313), artikel 
+- [Algemene Verordening Gegevensbescherming (AVG)](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679&qid=1685451198313), artikel 15-21 AVG
 
 #### Toetsingskaders
--
-## Uitleg
 
+
+## Uitleg
+De persoonsgegevens kunnen worden ingezien, gerectificeerd, verwijderd of beperkt om een juiste uitvoering te kunnen geven aan de rechten van betrokkenen.
 
 ## Hoe?
 
@@ -33,4 +33,3 @@ Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoeri
 
 
 ## Best practices
-

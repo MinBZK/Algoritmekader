@@ -24,18 +24,18 @@ Op deze pagina staat een overzicht van de normen die we tot nu toe hebben verzam
 | :fontawesome-solid-person-circle-check: Menselijke controle   | [Norm2](../normen/menselijke%20controle/norm2.md)                      |
 | :fontawesome-solid-person-circle-check: Menselijke controle   | [Norm3](../normen/menselijke%20controle/norm3.md)                      |
 | :fontawesome-solid-person-circle-check: Menselijke controle   | [Norm4](../normen/menselijke%20controle/norm4.md)                      |
-| :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Norm1](../normen/privacy%20en%20gegevensbescherming/norm1.md)         |
-| :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Norm2](../normen/privacy%20en%20gegevensbescherming/norm2.md)         |
-| :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Norm3](../normen/privacy%20en%20gegevensbescherming/norm3.md)         |
-| :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Norm4](../normen/privacy%20en%20gegevensbescherming/norm4.md)         |
-| :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Norm5](../normen/privacy%20en%20gegevensbescherming/norm5.md)         |
-| :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Norm6](../normen/privacy%20en%20gegevensbescherming/norm6.md)         |
-| :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Norm7](../normen/privacy%20en%20gegevensbescherming/norm7.md)         |
-| :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Norm8](../normen/privacy%20en%20gegevensbescherming/norm8.md)         |
-| :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Norm9](../normen/privacy%20en%20gegevensbescherming/norm9.md)         |
-| :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Norm10](../normen/privacy%20en%20gegevensbescherming/norm10.md)       |
-| :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Norm11](../normen/privacy%20en%20gegevensbescherming/norm11.md)       |
-| :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Norm12](../normen/privacy%20en%20gegevensbescherming/norm12.md)       |
+| :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Norm1](../normen/privacy%20en%20gegevensbescherming/Rollen%20en%20verantwoordlijkheden.md)         |
+| :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Norm2](../normen/privacy%20en%20gegevensbescherming/GEB%20en%20DPIA.md)         |
+| :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Norm3](../normen/privacy%20en%20gegevensbescherming/Rechmatige%20verwerking.md)         |
+| :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Norm4](../normen/privacy%20en%20gegevensbescherming/Doelbinding.md)         |
+| :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Norm5](../normen/privacy%20en%20gegevensbescherming/Wettelijke%20grondslag.md)         |
+| :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Norm6](../normen/privacy%20en%20gegevensbescherming/Dataminimalisatie.md)         |
+| :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Norm7](../normen/privacy%20en%20gegevensbescherming/Geactualisserde%20gegevens.md)         |
+| :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Norm8](../normen/privacy%20en%20gegevensbescherming/Opslagbeperking.md)         |
+| :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Norm9](../normen/privacy%20en%20gegevensbescherming/Bijzondere%20persoonsgegevens.md)         |
+| :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Norm10](../normen/privacy%20en%20gegevensbescherming/Privacyrechten.md)       |
+| :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Norm11](../normen/privacy%20en%20gegevensbescherming/Geautomatiseerde%20besluitvorming.md)       |
+| :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Norm12](../normen/privacy%20en%20gegevensbescherming/Privacy%20by%20Design.md)       |
 | :fontawesome-solid-gear: Technische robuustheid en veiligheid | [Norm1](../normen/technische%20robuustheid%20en%20veiligheid/norm1.md) |
 | :fontawesome-solid-gear: Technische robuustheid en veiligheid | [Norm2](../normen/technische%20robuustheid%20en%20veiligheid/norm2.md) |
 | :fontawesome-solid-gear: Technische robuustheid en veiligheid | [Norm3](../normen/technische%20robuustheid%20en%20veiligheid/norm3.md) |

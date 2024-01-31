@@ -1,5 +1,5 @@
 ---
-title: Norm 8
+title: Opslagbeperking
 summary: hier staat een korte samenvatting over norm 8
 ---
 
@@ -12,19 +12,20 @@ summary: hier staat een korte samenvatting over norm 8
 **Gegevens worden niet langer worden bewaard dan nodig (opslagbeperking).**
 
 ## Risico
-In progress
+Persoonsgegevens worden langer bewaard dan nodig. 
 
 ## Bronnen
 
 #### Wet- en regelgeving
 
-- [Algemene Verordening Gegevensbescherming (AVG)](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679&qid=1685451198313), artikel 
+- [Algemene Verordening Gegevensbescherming (AVG)](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679&qid=1685451198313), artikel 5, lid 1, onder e AVG, Archiefwet
 
 #### Toetsingskaders
 
 
 ## Uitleg
-
+Persoonsgegevens mogen niet langer bewaard worden dan noodzakelijk voor het doel van de verwerking. 
+Wanneer de gegevens niet langer noodzakelijk zijn, dan moeten zij worden vernietigd of gewist.
 
 ## Hoe?
 

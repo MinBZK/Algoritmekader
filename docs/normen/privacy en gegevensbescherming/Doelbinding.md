@@ -9,9 +9,9 @@ summary: hier staat een korte samenvatting over norm 4
 
 
 ## Norm
-**Persoonsgegevens mogen alleen voor welbepaalde, uitdrukkelijk omschreven en gerechtvaardigde doeleinden worden verzameld en mogen vervolgens niet verder op een met die doeleinden onverenigbare wijze worden verwerkt (doelbinding).
+**Persoonsgegevens mogen alleen voor welbepaalde, uitdrukkelijk omschreven en gerechtvaardigde doeleinden worden verzameld en mogen vervolgens niet verder op een met die doeleinden onverenigbare wijze worden verwerkt (doelbinding).**
 
-AI ACT uitzondering:
+**AI ACT uitzondering:
 Persoonsgegevens die rechtmatig zijn verzameld voor andere doeleinden mogen alleen worden verwerkt binnen een AI-regelgevingssandbox voor de ontwikkeling, training en testen van innovatieve AI-systemen, onder strikte voorwaarden.(zie art. 54 AI Act)**
 
 ## Risico

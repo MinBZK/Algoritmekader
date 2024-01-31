@@ -9,9 +9,9 @@ summary: hier staat een korte samenvatting over norm 9
 
 
 ## Norm
-**Het algoritme verwerkt persoonsgegevens die alleen op basis van een wettelijke uitzondering verwerkt mogen worden, zoals bijzondere persoonsgegevens (o.a. gegevens m.b.t. ras of afkomst, religie, gezondheid of seksuele geaardheid), strafrechtelijke gegevens of nationale identificatienummers (o.a. BSN).
+**Het algoritme verwerkt persoonsgegevens die alleen op basis van een wettelijke uitzondering verwerkt mogen worden, zoals bijzondere persoonsgegevens (o.a. gegevens m.b.t. ras of afkomst, religie, gezondheid of seksuele geaardheid), strafrechtelijke gegevens of nationale identificatienummers (o.a. BSN).**
 
-AI Act uitzondering: 
+**AI Act uitzondering: 
 Voor zover dit strikt noodzakelijk is met het oog op het waarborgen van de detectie en correctie van vooringenomenheid met betrekking tot AI-systemen kunnen de aanbieders van dergelijke systemen bij wijze van uitzondering bijzondere categorieën van persoonlijke gegevens verwerken onder voorbehoud van passende waarborgen voor de fundamentele rechten en vrijheden van natuurlijke personen (zie art. 10 AI Act)**
 
 ## Risico

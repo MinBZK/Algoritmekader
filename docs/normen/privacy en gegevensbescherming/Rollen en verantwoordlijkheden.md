@@ -31,7 +31,6 @@ Uw organisatie is een gezamenlijke verwerkingsverantwoordelijke als zij samen me
 De verwerker verwerkt persoonsgegevens uitsluitend ten behoeve van de verwerkingsverantwoordelijke. De taken van de verwerker jegens de verwerkingsverantwoordelijke moeten in een verwerkersovereenkomst of een andere rechtshandeling worden gespecificeerd.
 
 ## Hoe?
-Hierbij kan verwezen worden naar informatie over het algoritme in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
 
 ## Rollen
 Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoering van deze norm. 
@@ -39,7 +38,6 @@ Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoeri
 
 
 ## Best practices
-Voorbeeld toevoegen van hoe er in een brief aan een burger verwezen wordt naar het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
 
 
 

@@ -27,14 +27,11 @@ De verwerkte persoonsgegevens zijn niet proportioneel en relevant in relatie tot
 Wanneer persoonsgegevens worden verwerkt dan moeten zij voor het doel toereikend en ter zake dienend zijn. Verder mogen er niet meer persoonsgegevens worden verwerkt dan noodzakelijk voor het doel. Met andere woorden: er mogen, gelet op het doel, niet te veel, maar ook niet te weinig gegevens worden verwerkt. Wanneer namelijk te weinig gegevens worden verwerkt, dan kan er ten onrechte een onvolledig beeld ontstaan van de betrokkene.
 
 ## Hoe?
-Hierbij kan verwezen worden naar informatie over het algoritme in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
 
 ## Rollen
 Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoering van deze norm. 
 
 
 ## Best practices
-Voorbeeld toevoegen van hoe er in een brief aan een burger verwezen wordt naar het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
-
 
 

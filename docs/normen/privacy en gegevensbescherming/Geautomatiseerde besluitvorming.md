@@ -22,7 +22,6 @@ Een betrokkene ondervindt aanmerkelijke gevolgen door een geautomatiseerd beslui
 
 #### Toetsingskaders
 
-
 ## Uitleg
 Als regel geldt een algemeen verbod op uitsluitend geautomatiseerde individuele besluitvorming, met inbegrip van profilering waaraan voor de betrokkene juridische of 
 anderszins aanmerkelijke gevolgen zijn verbonden. 
@@ -31,7 +30,6 @@ Op grond van artikel 40 van de Uitvoeringswet AVG (UAVG) geldt het verbod op uit
 
 
 ## Hoe?
-Hierbij kan verwezen worden naar informatie over het algoritme in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
 
 ## Rollen
 Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoering van deze norm. 
@@ -39,7 +37,5 @@ Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoeri
 
 
 ## Best practices
-Voorbeeld toevoegen van hoe er in een brief aan een burger verwezen wordt naar het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
-
 
 

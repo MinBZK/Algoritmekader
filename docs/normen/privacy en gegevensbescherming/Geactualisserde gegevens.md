@@ -27,15 +27,8 @@ De kwaliteit en integriteit van data is niet voldoende geborgd.
 Als de gegevens die in het algoritme worden gebruikt onjuist zijn, zullen ook besluiten of profielen die daaruit voortkomen onjuist zijn. Besluiten zijn mogelijk genomen op basis van verouderde gegevens of de onjuiste interpretatie van externe gegevens. Zelfs wanneer ruwe gegevens correct worden opgeslagen, is de gegevensreeks mogelijk niet geheel representatief of kunnen de analysegegevens ongemerkt vooroordelen bevatten.
 
 ## Hoe?
-Hierbij kan verwezen worden naar informatie over het algoritme in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
 
 ## Rollen
 Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoering van deze norm. 
 
-
-
 ## Best practices
-Voorbeeld toevoegen van hoe er in een brief aan een burger verwezen wordt naar het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
-
-
-

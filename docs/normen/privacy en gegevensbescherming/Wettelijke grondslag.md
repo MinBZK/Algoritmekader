@@ -32,7 +32,6 @@ De AVG noemt de volgende wettelijke grondslagen:
 •	Gerechtvaardigd belang van verwerkingsverantwoordelijke of een derde
 
 ## Hoe?
-Hierbij kan verwezen worden naar informatie over het algoritme in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
 
 ## Rollen
 Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoering van deze norm. 
@@ -40,7 +39,3 @@ Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoeri
 
 
 ## Best practices
-Voorbeeld toevoegen van hoe er in een brief aan een burger verwezen wordt naar het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
-
-
-

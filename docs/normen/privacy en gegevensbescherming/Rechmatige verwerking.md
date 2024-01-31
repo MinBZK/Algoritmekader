@@ -27,7 +27,6 @@ De verwerking van persoonsgegevens gebeurt niet rechtmatig, behoorlijk of transp
 Uitgangspunt is dat persoonsgegevens alleen mogen worden verwerkt voor gerechtvaardigde doeleinden. Dit betekent dat de verwerking noodzakelijk moet zijn met het oog op het bereiken van specifieke doelen. Wanneer het gerechtvaardigd is om persoonsgegevens te verwerken, moet de verwerking ervan vervolgens netjes en verantwoord gebeuren. Ten slotte moet duidelijk zijn voor welke doelen persoonsgegevens worden verwerkt en hoe dat gebeurt. Transparantie van de verwerking is een fundamenteel vereiste van de AVG. De inzet van een algoritme is voor de betrokkene vaak onzichtbaar. De mate waarin mensen dergelijke processen begrijpen, verschilt per persoon. Voor sommigen kan het moeilijk zijn de complexe technieken te begrijpen.
 
 ## Hoe?
-Hierbij kan verwezen worden naar informatie over het algoritme in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
 
 ## Rollen
 Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoering van deze norm. 
@@ -35,7 +34,4 @@ Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoeri
 -
 
 ## Best practices
-Voorbeeld toevoegen van hoe er in een brief aan een burger verwezen wordt naar het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
-
-
 

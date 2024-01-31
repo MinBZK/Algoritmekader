@@ -29,7 +29,6 @@ De Autoriteit Persoonsgegevens (AP) heeft daarnaast een (niet uitputtende) lijst
 De inzet van machine learning en deep learning valt in veel gevallen onder ‘gebruik van nieuwe technologieën’. Dat is een van de criteria voor een verplichte DPIA. 
 
 ## Hoe?
-Hierbij kan verwezen worden naar informatie over het algoritme in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
 
 ## Rollen
 Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoering van deze norm. 
@@ -37,7 +36,5 @@ Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoeri
 
 
 ## Best practices
-Voorbeeld toevoegen van hoe er in een brief aan een burger verwezen wordt naar het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
-
 
 

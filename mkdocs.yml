@@ -71,8 +71,68 @@ nav:
           - bouwblokken/transparantie/index.md
     - Normen:
         - normen/index.md
-        - Transparantie:   
-            - normen/transparantie/norm1.md
+        - Conformiteitsbeoordeling:
+           - normen/conformiteitsbeoordeling/index.md
+           - normen/conformiteitsbeoordeling/norm1.md
+        - Data:
+           - normen/data/index.md
+           - normen/data/norm1.md
+        - Duurzaamheid:
+           - normen/duurzaamheid/index.md
+           - normen/duurzaamheid/norm1.md
+           - normen/duurzaamheid/norm2.md
+        - Fundamentele rechten:
+           - normen/fundamentele rechten/index.md
+           - normen/fundamentele rechten/norm1.md
+        - Governance:
+           - normen/governance/index.md
+           - normen/governance/norm1.md
+           - normen/governance/norm2.md
+           - normen/governance/norm3.md
+           - normen/governance/norm4.md
+           - normen/governance/norm5.md
+           - normen/governance/norm6.md
+           - normen/governance/norm7.md
+           - normen/governance/norm8.md
+        - Inkoop:
+           - normen/inkoop/index.md
+           - normen/inkoop/norm1.md
+        - Menselijke controle:
+           - normen/menselijke controle/index.md
+           - normen/menselijke controle/norm1.md
+           - normen/menselijke controle/norm2.md
+           - normen/menselijke controle/norm3.md
+           - normen/menselijke controle/norm4.md
+        - Privacy en gegevensbescherming:
+           - normen/privacy en gegevensbescherming/index.md
+           - normen/privacy en gegevensbescherming/Rollen en verantwoordelijkheden.md
+           - normen/privacy en gegevensbescherming/GEB en DPIA.md
+           - normen/privacy en gegevensbescherming/Rechmatige verwerking.md
+           - normen/privacy en gegevensbescherming/Doelbinding.md
+           - normen/privacy en gegevensbescherming/Wettelijke grondslag.md
+           - normen/privacy en gegevensbescherming/Dataminimalisatie.md
+           - normen/privacy en gegevensbescherming/Geactualisserde gegevens.md
+           - normen/privacy en gegevensbescherming/Opslagbeperking.md
+           - normen/privacy en gegevensbescherming/Bijzondere persoonsgegevens.md
+           - normen/privacy en gegevensbescherming/Privacyrechten.md
+           - normen/privacy en gegevensbescherming/Geautomatiseerde besluitvorming.md
+           - normen/privacy en gegevensbescherming/Privacy by Design.md
+        - Technische robuustheid en veiligheid:
+           - normen/technische robuustheid en veiligheid/index.md
+           - normen/technische robuustheid en veiligheid/norm1.md
+           - normen/technische robuustheid en veiligheid/norm2.md
+           - normen/technische robuustheid en veiligheid/norm3.md
+           - normen/technische robuustheid en veiligheid/norm4.md
+           - normen/technische robuustheid en veiligheid/norm5.md
+           - normen/technische robuustheid en veiligheid/norm6.md
+        - Transparantie:
+           - normen/transparantie/index.md
+           - normen/transparantie/norm1.md
+           - normen/transparantie/norm2.md
+           - normen/transparantie/norm3.md
+           - normen/transparantie/norm4.md
+           - normen/transparantie/norm5.md
+
     - Instrumenten: instrumenten/index.md
 
 # Extra opties
@@ -87,9 +147,9 @@ markdown_extensions:
     - md_in_html
     - pymdownx.tasklist:
         custom_checkbox: true
-    # - pymdownx.emoji:
-    #     emoji_index: !!python/name:material.extensions.emoji.twemoji
-    #     emoji_generator: !!python/name:material.extensions.emoji.to_svg
+    - pymdownx.emoji:
+        emoji_index: !!python/name:material.extensions.emoji.twemoji
+        emoji_generator: !!python/name:material.extensions.emoji.to_svg
     - pymdownx.snippets:
         auto_append:
             - includes/abbreviations.md
@@ -100,11 +160,14 @@ extra:
     - icon: fontawesome/brands/github 
       link: https://github.com/MinBZK/Algoritmekader
 
+
 plugins:
     - glightbox
     - search
     - git-revision-date-localized:
         enable_creation_date: true
+    - tags:
+        tags_file: tags.md
 
 # Link naar GitHub repo (nu nog even mijn eigen repo)
 repo_url: https://github.com/MinBZK/Algoritmekader

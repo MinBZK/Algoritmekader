@@ -1,1 +1,1 @@
-*[bouwblok]: uitleg over wat een bouwblok is
+<!-- Hier kunnen we op een gegeven moment definities van termen neerzetten -->

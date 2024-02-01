@@ -17,4 +17,4 @@ Zie het [Implementatiekader](https://www.rijksoverheid.nl/documenten/rapporten/2
 
 
 ## Bijdragen?
-We werken open source via [GitHub](https://github.com/MinBZK/Algoritmekader).
+We werken open source via [GitHub](https://github.com/MinBZK/Algoritmekader). Je kan ook een issue maken. 

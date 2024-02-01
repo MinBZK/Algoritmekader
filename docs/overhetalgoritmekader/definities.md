@@ -13,6 +13,8 @@ Dit is een brede definitie die de maximale reikwijdte weergeeft van algoritmes w
 Rekenkamer schrijft “om een probleem op te lossen of een vraag te beantwoorden”, verstaan we daar ook onder “om een taak of proces uit te voeren of tot
 een besluit te komen”. In het uitvoeren van een taak of het komen tot een besluit kunnen één of meer algoritmes voorkomen. Daarnaast hebben we het bij het Algoritmekader over zowel Artificiële Intelligentie (AI) als algoritmes. De essentie is dat AI is opgebouwd uit algoritmes. Maar niet alle algoritmes zijn AI. 
 
+![Infographic](5113 Infogr Relatie AI en algoritmes.jpg)
+
 !!! opmerking "Gebruikte terminologie"
     De termen hoog-risico, impactvol, AI en Algoritmes worden veel door elkaar gebruikt.
     Wij hanteren uitsluitend de volgende twee termen:
@@ -26,7 +28,7 @@ een besluit te komen”. In het uitvoeren van een taak of het komen tot een besl
     Het omvat de hoog-risico AI-systemen zoals gedefinieerd in de AI-verordening én
     de algoritmes die we daarnaast als impactvol beschouwen. 
 
-### Relatie scope Algoritmekader en de AI-Verordening
+## Relatie scope Algoritmekader en de AI-Verordening
 Op dit moment wordt op EU-niveau de AI-verordening ontwikkeld, die naar verwachting van toepassing wordt op een deel van de algoritmes in gebruik bij de overheid. In de
 AI-verordening zijn AI-systemen onderverdeeld in verschillende categorieën: verboden praktijken, hoog-risico AI-systemen, AI-systemen met manipulatierisico’s en AI-systemen
 met geen/minimale risico’s. Afhankelijk van de categorie waarin een AI-systeem valt, gelden zwaardere of minder zware eisen waar die systemen aan moeten voldoen.

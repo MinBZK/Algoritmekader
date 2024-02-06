@@ -6,7 +6,7 @@ Op deze pagina lees je hoe je kunt bijdragen aan de ontwikkeling van het Algorit
 
 ## Hoe kun je bijdragen?
 Dat kan op verschillende manieren. Kijk welke manier jou het beste past. 
-1 t/m 5 zijn geschikte manieren voor wie die nog niet zo bekend zijn met Github. 
+1 t/m 5 zijn geschikte manieren voor gebruikers die nog niet zo bekend zijn met Github. 
 5 en 6 Geven input voor ervaren Github gebruikers, die op de voor hen bekende manieren een bijdrage kunnen leveren.
 
 ### 1. Sluit je aan bij een werkgroep ###

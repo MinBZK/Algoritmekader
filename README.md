@@ -13,7 +13,7 @@ Dat kan op verschillende manieren. Kijk welke manier jou het beste past.
 Regelmatig starten er nieuwe werkgroepen op blouwblokken of thema's. Deelname kost gemiddeld 3-4 uur per week. Wil je op een van de onderwerpen meewerken? Stuur dan een bericht naar algoritmes@minbzk.nl 
 
 ### 2. Neem deel aan een sprintreview ###
-We werken in sprints van 2 of 3 weken, gevolgd door een open online review. Zo blijf je op de hoogte en kun je een bijdrage leveren. [Bekijk de agenda op Algoritmes Pleio](https://algoritmes.pleio.nl/events) voor de komende bijeenkomsten. 
+We werken in sprints van 3 of 4 weken, gevolgd door een open online review. Zo blijf je op de hoogte en kun je een bijdrage leveren. [Bekijk de agenda op Algoritmes Pleio](https://algoritmes.pleio.nl/events) voor de komende bijeenkomsten. 
 
 ### 3. Stuur een e-mail naar [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
 1. Stuur ons je vraag of opmerking, met een duidelijke toelichting. We reageren binnen enkele dagen op je mail. 

@@ -1,6 +1,6 @@
 ---
-title: Norm 2
-summary: hier staat een korte samenvatting over norm 2
+title: Transparante besluitsvorming
+
 ---
 
 !!! info "Disclaimer"
@@ -12,21 +12,22 @@ summary: hier staat een korte samenvatting over norm 2
 **Besluitvorming dient transparant te zijn en moet zorgvuldig tot stand komen.**
 
 ## Risico
-In progress
+Gebrek aan transparantie, waardoor niet kan worden achterhaald of aan een besluit een zorgvuldig proces vooraf is gegaan en of het voldoet aan andere vereisten.
 
 ## Bronnen
 
 #### Wet- en regelgeving
-
+Artikel 3:2 en 3:46 Awb, artikel 1.1 en 2.5 Woo
 
 #### Toetsingskaders
 
 
-## Uitleg
+## Toelichting
+Bij de voorbereiding van een besluit dient het bestuursorgaan alle relevante informatie te verzamelen en de belangen van betrokkenen zorgvuldig af te wegen. Het besluit mag geen onredelijke of discriminerende gevolgen voor betrokkenen hebben.
 
-
-## Hoe?
-Hierbij kan verwezen worden naar informatie over het algoritme in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
+## Maatregelen
+Algoritmen en modellen dienen transparant, betrouwbaar en controleerbaar te zijn, zodat achterhaald kan worden op basis van welke afwegingen een besluit is genomen. 
+Richt een procedure in waardoor kan worden voldaan aan het recht op toegang tot publieke informatie.
 
 ## Rollen
 Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoering van deze norm. 

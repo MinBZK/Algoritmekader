@@ -1,6 +1,6 @@
 ---
-title: Norm 1
-summary: hier staat een korte samenvatting over norm 1
+title: Risicobeheer
+
 ---
 
 !!! info "Disclaimer"
@@ -9,7 +9,7 @@ summary: hier staat een korte samenvatting over norm 1
 
 
 ## Norm
-** **
+**Er moet een risicobeheersysteem worden opgezet, geïmplementeerd, gedocumenteerd en onderhouden met betrekking tot hoog risico AI-systemen gedurende de volledige levenscyclus.**
 
 ## Risico
 In progress
@@ -17,19 +17,22 @@ In progress
 ## Bronnen
 
 #### Wet- en regelgeving
+- [AI Act](https://artificialintelligenceact.eu/wp-content/uploads/2023/08/AI-Mandates-20-June-2023.pdf), artikel 9
+
 
 
 #### Toetsingskaders
 
 
-## Uitleg
+## Toelichting
 
 
-## Hoe?
+## Maatregelen
 Hierbij kan verwezen worden naar informatie over het algoritme in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
 
 ## Rollen
 Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoering van deze norm. 
+
 
 
 ## Best practices

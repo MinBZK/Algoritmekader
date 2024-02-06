@@ -1,6 +1,6 @@
 ---
-title: Norm 2
-summary: hier staat een korte samenvatting over norm 2
+title: AI geletterdheid
+
 ---
 
 !!! info "Disclaimer"
@@ -9,7 +9,7 @@ summary: hier staat een korte samenvatting over norm 2
 
 
 ## Norm
-**AI-systemen moeten worden ontwikkeld en gebruikt op een duurzame en milieuvriendelijke manier, evenals op een manier die ten goede komt aan alle mensen, terwijl de langetermijneffecten op het individu, de samenleving en de democratie worden gecontroleerd en beoordeeld.**
+**Aanbieders en gebruikers van AI-systemen moeten maatregelen nemen om ervoor te zorgen dat hun personeel en andere personen die betrokken zijn bij de werking en het gebruik van AI-systemen namens hen, een voldoende niveau van AI-geletterdheid hebben.**
 
 ## Risico
 In progress
@@ -17,16 +17,15 @@ In progress
 ## Bronnen
 
 #### Wet- en regelgeving
-- [AI Act](https://artificialintelligenceact.eu/wp-content/uploads/2023/08/AI-Mandates-20-June-2023.pdf), recital 46a
-
+- [AI Act](https://artificialintelligenceact.eu/wp-content/uploads/2023/08/AI-Mandates-20-June-2023.pdf), artikel 4
 
 #### Toetsingskaders
 
 
-## Uitleg
+## Toelichting
 
 
-## Hoe?
+## Maatregelen
 Hierbij kan verwezen worden naar informatie over het algoritme in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
 
 ## Rollen

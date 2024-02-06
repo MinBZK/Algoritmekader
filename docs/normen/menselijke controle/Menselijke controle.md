@@ -1,6 +1,6 @@
 ---
-title: Norm 1
-summary: hier staat een korte samenvatting over norm 1
+title: Menselijke controle
+
 ---
 
 !!! info "Disclaimer"
@@ -9,7 +9,7 @@ summary: hier staat een korte samenvatting over norm 1
 
 
 ## Norm
-**Verbod op ongelijke behandeling in gelijke omstandigheden. Discriminatie wegens godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht of op welke grond dan ook, is niet toegestaan.**
+**Er is een gepaste mate van menselijke controle voor het specifieke algoritme en de specifieke gebruikssituatie.**
 
 ## Risico
 In progress
@@ -18,18 +18,18 @@ In progress
 
 #### Wet- en regelgeving
 
-
 #### Toetsingskaders
 
+## Toelichting
 
-## Uitleg
 
-
-## Hoe?
+## Maatregelen
 Hierbij kan verwezen worden naar informatie over het algoritme in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
+
 
 ## Rollen
 Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoering van deze norm. 
+
 
 
 ## Best practices

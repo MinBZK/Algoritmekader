@@ -1,6 +1,6 @@
 ---
-title: Norm 1
-summary: hier staat een korte samenvatting over norm 1
+title: n.t.b.
+
 ---
 
 !!! info "Disclaimer"
@@ -9,7 +9,7 @@ summary: hier staat een korte samenvatting over norm 1
 
 
 ## Norm
-**Zorgvuldig handelen bij de ontwikkeling en de inzet algoritmen (zorgvuldigheidsbeginsel).**
+** **
 
 ## Risico
 In progress
@@ -22,10 +22,10 @@ In progress
 #### Toetsingskaders
 
 
-## Uitleg
+## Toelichting
 
 
-## Hoe?
+## Maatregelen
 Hierbij kan verwezen worden naar informatie over het algoritme in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
 
 ## Rollen

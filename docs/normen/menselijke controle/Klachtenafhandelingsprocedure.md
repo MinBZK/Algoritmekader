@@ -1,6 +1,6 @@
 ---
-title: Norm 5
-summary: hier staat een korte samenvatting over norm 5
+title: Klachtenafhandelingsprocedure
+
 ---
 
 !!! info "Disclaimer"
@@ -9,25 +9,22 @@ summary: hier staat een korte samenvatting over norm 5
 
 
 ## Norm
-**De inzet en werking van het algoritme is gepubliceerd in een register en inzichtelijk voor belanghebbende.**
+**Klachtenafhandelingsprocedures moeten aanwezig zijn.**
 
 ## Risico
-In progress
+Betrokkenen zijn niet op de hoogte dat hun persoonsgegevens worden verwerkt middels een algoritme, waardoor zij geen controle hebben.
 
 ## Bronnen
 
 #### Wet- en regelgeving
-- [AI Act](https://artificialintelligenceact.eu/wp-content/uploads/2023/08/AI-Mandates-20-June-2023.pdf), artikel 60
-
-
+- [AI Act](https://artificialintelligenceact.eu/wp-content/uploads/2023/08/AI-Mandates-20-June-2023.pdf), recital 58a
 
 #### Toetsingskaders
 
+## Toelichting
 
-## Uitleg
 
-
-## Hoe?
+## Maatregelen
 Hierbij kan verwezen worden naar informatie over het algoritme in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
 
 ## Rollen

@@ -1,6 +1,6 @@
 ---
-title: Norm 4
-summary: hier staat een korte samenvatting over norm 4
+title: Archiveren
+
 ---
 
 !!! info "Disclaimer"
@@ -21,10 +21,10 @@ In progress
 #### Toetsingskaders
 
 
-## Uitleg
+## Toelichting
 
 
-## Hoe?
+## Maatregelen
 Hierbij kan verwezen worden naar informatie over het algoritme in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
 
 ## Rollen

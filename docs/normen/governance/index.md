@@ -1,6 +1,6 @@
 ---
 title: Governance
-summary: Hier staat een korte samenvatting over dit onderwerp
+
 ---
 
 !!! info "Disclaimer"

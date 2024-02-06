@@ -1,6 +1,6 @@
 ---
-title: Norm 1
-summary: hier staat een korte samenvatting over norm 1
+title: Motiveringsbeginsel
+
 ---
 
 !!! info "Disclaimer"
@@ -9,27 +9,27 @@ summary: hier staat een korte samenvatting over norm 1
 
 
 ## Norm
-**Er is een gepaste mate van menselijke controle voor het specifieke algoritme en de specifieke gebruikssituatie.**
+**Een besluit berust op een deugdelijke motivering.**
 
 ## Risico
-In progress
+Het besluit is onvoldoende gemotiveerd.
 
 ## Bronnen
 
 #### Wet- en regelgeving
+Artikel 3:46 - 3:50 Awb, Jurisprudentie over AERIUS (ABRvS 18 juli 2018, ECLI:NL:RVS:2018:2454), Hof van Justitie C-274/18. 
 
 #### Toetsingskaders
 
-## Uitleg
 
+## Toelichting
+Een besluit dient te berusten op een deugdelijke motivering. De motivering wordt vermeld bij de bekendmaking van het besluit. 
 
-## Hoe?
-Hierbij kan verwezen worden naar informatie over het algoritme in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
-
+## Maatregelen
+Richt een procedure in waarmee bij een besluit uit eigen beweging gemaakte keuzes en gebruikte gegevens en aannames openbaar worden gemaakt.
 
 ## Rollen
 Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoering van deze norm. 
-
 
 
 ## Best practices

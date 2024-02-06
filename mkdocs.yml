@@ -73,36 +73,36 @@ nav:
         - normen/index.md
         - Conformiteitsbeoordeling:
            - normen/conformiteitsbeoordeling/index.md
-           - normen/conformiteitsbeoordeling/norm1.md
+           - normen/conformiteitsbeoordeling/n.t.b..md
         - Data:
            - normen/data/index.md
-           - normen/data/norm1.md
+           - normen/data/n.t.b..md
         - Duurzaamheid:
            - normen/duurzaamheid/index.md
-           - normen/duurzaamheid/norm1.md
-           - normen/duurzaamheid/norm2.md
+           - normen/duurzaamheid/Bewerkstellig duurzaamheid.md
         - Fundamentele rechten:
            - normen/fundamentele rechten/index.md
-           - normen/fundamentele rechten/norm1.md
+           - normen/fundamentele rechten/Non discriminatie.md
         - Governance:
            - normen/governance/index.md
-           - normen/governance/norm1.md
-           - normen/governance/norm2.md
-           - normen/governance/norm3.md
-           - normen/governance/norm4.md
-           - normen/governance/norm5.md
-           - normen/governance/norm6.md
-           - normen/governance/norm7.md
-           - normen/governance/norm8.md
+           - normen/governance/Data governance.md
+           - normen/governance/Rollen en verantwoordlijkheden.md
+           - normen/governance/Eigenaarschap en beheer.md
+           - normen/governance/Archiveren.md
+           - normen/governance/Risicobeheer.md
+           - normen/governance/Aantoonbaarheid.md
+           - normen/governance/Kwaliteitsmanagementsysteem.md
+           - normen/governance/Mensenrechteneffectbeoordeling.md
+           - normen/governance/Zorgvuldigheidsbeginsel.md
         - Inkoop:
            - normen/inkoop/index.md
-           - normen/inkoop/norm1.md
+           - normen/inkoop/n.t.b..md
         - Menselijke controle:
            - normen/menselijke controle/index.md
-           - normen/menselijke controle/norm1.md
-           - normen/menselijke controle/norm2.md
-           - normen/menselijke controle/norm3.md
-           - normen/menselijke controle/norm4.md
+           - normen/menselijke controle/Menselijke controle.md
+           - normen/menselijke controle/Klachtenafhandelingsprocedure.md
+           - normen/menselijke controle/Autonomie.md
+           - normen/menselijke controle/AI geletterdheid.md
         - Privacy en gegevensbescherming:
            - normen/privacy en gegevensbescherming/index.md
            - normen/privacy en gegevensbescherming/Rollen en verantwoordelijkheden.md
@@ -126,11 +126,11 @@ nav:
            - normen/technische robuustheid en veiligheid/Algoritme continuïteit.md
         - Transparantie:
            - normen/transparantie/index.md
-           - normen/transparantie/norm1.md
-           - normen/transparantie/norm2.md
-           - normen/transparantie/norm3.md
-           - normen/transparantie/norm4.md
-           - normen/transparantie/norm5.md
+           - normen/transparantie/Informeren over interactie met AI systemen.md
+           - normen/transparantie/Transparante besluitsvorming.md
+           - normen/transparantie/Motiveringsbeginsel.md
+           - normen/transparantie/Traceerbaarheid.md
+           - normen/transparantie/Algoritmeregister.md
 
     - Instrumenten: instrumenten/index.md
 

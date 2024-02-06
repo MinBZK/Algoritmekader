@@ -1,6 +1,6 @@
 ---
-title: Norm 1
-summary: hier staat een korte samenvatting over norm 1
+title: n.t.b.
+summary: hier staat een korte samenvatting over de norm
 ---
 
 !!! info "Disclaimer"
@@ -9,7 +9,7 @@ summary: hier staat een korte samenvatting over norm 1
 
 
 ## Norm
-**Hoge risico AI systemen moeten een data governance system implementeren.**
+** **
 
 ## Risico
 In progress
@@ -17,21 +17,19 @@ In progress
 ## Bronnen
 
 #### Wet- en regelgeving
-- [AI Act](https://artificialintelligenceact.eu/wp-content/uploads/2023/08/AI-Mandates-20-June-2023.pdf), artikel 10
 
 
 #### Toetsingskaders
 
 
-## Uitleg
+## Toelichting
 
 
-## Hoe?
+## Maatregelen
 Hierbij kan verwezen worden naar informatie over het algoritme in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
 
 ## Rollen
 Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoering van deze norm. 
-
 
 
 ## Best practices

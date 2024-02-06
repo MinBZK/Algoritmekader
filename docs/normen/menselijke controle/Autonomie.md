@@ -1,6 +1,6 @@
 ---
-title: Norm 4
-summary: hier staat een korte samenvatting over norm 4
+title: Autonomie
+
 ---
 
 !!! info "Disclaimer"
@@ -9,7 +9,7 @@ summary: hier staat een korte samenvatting over norm 4
 
 
 ## Norm
-**Aanbieders en gebruikers van AI-systemen moeten maatregelen nemen om ervoor te zorgen dat hun personeel en andere personen die betrokken zijn bij de werking en het gebruik van AI-systemen namens hen, een voldoende niveau van AI-geletterdheid hebben.**
+**AI-systemen moeten worden ontwikkeld en gebruikt als een instrument dat mensen dient, de menselijke waardigheid en persoonlijke autonomie respecteert, en dat op een manier functioneert die op passende wijze kan worden gecontroleerd en overzien door mensen.**
 
 ## Risico
 In progress
@@ -17,21 +17,21 @@ In progress
 ## Bronnen
 
 #### Wet- en regelgeving
-- [AI Act](https://artificialintelligenceact.eu/wp-content/uploads/2023/08/AI-Mandates-20-June-2023.pdf), artikel 4
+- [AI Act](https://artificialintelligenceact.eu/wp-content/uploads/2023/08/AI-Mandates-20-June-2023.pdf), Recital 58a
+
 
 #### Toetsingskaders
 
+## Toelichting
 
-## Uitleg
 
-
-## Hoe?
+## Maatregelen
 Hierbij kan verwezen worden naar informatie over het algoritme in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
 
 ## Rollen
 Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoering van deze norm. 
 
-
+-
 ## Best practices
 Voorbeeld toevoegen van hoe er in een brief aan een burger verwezen wordt naar het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
 

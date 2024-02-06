@@ -1,6 +1,6 @@
 ---
-title: Norm 2
-summary: hier staat een korte samenvatting over norm 2
+title: n.t.b.
+summary: hier staat een korte samenvatting over norm 1
 ---
 
 !!! info "Disclaimer"
@@ -9,7 +9,7 @@ summary: hier staat een korte samenvatting over norm 2
 
 
 ## Norm
-**Rollen en verantwoordlijkheden m.b.t. de verwerking van persoonsgegevens zijn gespecificeerd.**
+** **
 
 ## Risico
 In progress
@@ -22,15 +22,14 @@ In progress
 #### Toetsingskaders
 
 
-## Uitleg
+## Toelichting
 
 
-## Hoe?
+## Maatregelen
 Hierbij kan verwezen worden naar informatie over het algoritme in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
 
 ## Rollen
 Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoering van deze norm. 
-
 
 
 ## Best practices

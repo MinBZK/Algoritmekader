@@ -1,6 +1,6 @@
 ---
 title: Opslagbeperking
-summary: hier staat een korte samenvatting over norm 8
+
 ---
 
 !!! info "Disclaimer"
@@ -21,14 +21,16 @@ Persoonsgegevens worden langer bewaard dan nodig.
 - [Algemene Verordening Gegevensbescherming (AVG)](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679&qid=1685451198313), artikel 5, lid 1, onder e AVG, Archiefwet
 
 #### Toetsingskaders
+ADR PRI.11
 
-
-## Uitleg
+## Toelichting
 Persoonsgegevens mogen niet langer bewaard worden dan noodzakelijk voor het doel van de verwerking. 
 Wanneer de gegevens niet langer noodzakelijk zijn, dan moeten zij worden vernietigd of gewist.
 
-## Hoe?
-Hierbij kan verwezen worden naar informatie over het algoritme in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
+## Maatregelen
+Stel de bewaartermijnen vast. Zorg voor vernietigingsprocedure, een document waaruit blijkt dat dit ingeregeld en/of uitgevoerd is. 
+
+Documenteer de maatregelen in de DPIA.  
 
 ## Rollen
 Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoering van deze norm. 

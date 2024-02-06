@@ -1,6 +1,6 @@
 ---
 title: Privacyrechten
-summary: hier staat een korte samenvatting over norm 10
+
 ---
 
 !!! info "Disclaimer"
@@ -20,13 +20,18 @@ Betrokkenen hebben geen controle over hun persoonsgegevens doordat ze geen beroe
 - [Algemene Verordening Gegevensbescherming (AVG)](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679&qid=1685451198313), artikel 15-21 AVG
 
 #### Toetsingskaders
+ADR PRI.9
+ARK 3.12/3.15
 
-
-## Uitleg
+## Toelichting
 De persoonsgegevens kunnen worden ingezien, gerectificeerd, verwijderd of beperkt om een juiste uitvoering te kunnen geven aan de rechten van betrokkenen.
 
-## Hoe?
-Hierbij kan verwezen worden naar informatie over het algoritme in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
+## Maatregelen
+Geef aan hoe invulling wordt gegeven aan de rechten van betrokkenen. 
+
+Stel een procedure vast waarmee o.a. aan verzoekers informatie kan worden verstrekt over geautomatiseerde verwerking van persoonsgegevens en de onderliggende logica en het belang en de verwachte gevolgen van de verwerking. 
+
+Indien de rechten van de betrokkene worden beperkt, bepaal op grond van welke wettelijke uitzonderingen dat is toegestaan en leg dit vast. 
 
 ## Rollen
 Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoering van deze norm. 

@@ -1,6 +1,6 @@
 ---
-title: Privacy by Design
-summary: hier staat een korte samenvatting over norm 12
+title: Privacy by Design en by Default
+
 ---
 
 !!! info "Disclaimer"
@@ -21,9 +21,9 @@ Ontwerp en opzet van het algoritme zijn onvoldoende gericht op  de bescherming v
 - [Algemene Verordening Gegevensbescherming (AVG)](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679&qid=1685451198313), artikel 25 AVG
 
 #### Toetsingskaders
+ARK 3.02
 
-
-## Uitleg
+## Toelichting
 Zorg ervoor dat een zo klein mogelijke inbreuk op de persoonlijke levenssfeer wordt gemaakt bij de inzet van het algoritme (met verwerking van persoonsgegevens), bijvoorbeeld door het 
 toepassen van pseudonimisering en het inbouwen van andere technische waarborgen. 
 
@@ -35,8 +35,14 @@ Bij het bepalen van de verwerkingsmiddelen en de verwerking moet u rekening houd
 Deze elementen bepalen gezamenlijk welke technische en organisatorische maatregelen u moet nemen om de gegevensbeschermingsbeginselen (artikel 5 AVG) op een doeltreffende manier uit te voeren en de nodige waarborgen in te bouwen ter naleving van de eisen uit de AVG.
 
 
-## Hoe?
-Hierbij kan verwezen worden naar informatie over het algoritme in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
+## Maatregelen
+Data georiënteerde ontwerp strategieën:
+•	Minimaliseer: beperk zoveel mogelijk de verwerking van gegevens. Selecteer voor het verzamelen. Verwijder waar mogelijk.
+•	Scheid: scheid persoonsgegevens zoveel mogelijk van elkaar en werk zo gedistribueerd mogelijk
+•	Abstraheer: aggregeer tot het hoogst mogelijke niveau. Beperk zoveel mogelijk het detail waarin persoonsgegevens worden verwerkt
+•	Bescherm/maak onherleidbaar: Voorkom dat gegevens openbaar worden. Beveilig gegevens. Verbreek waar mogelijk de link tussen personen en gegevens (anonimiseer en pseudonimiseer)
+
+Leg dit vast in de DPIA. 
 
 ## Rollen
 Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoering van deze norm. 

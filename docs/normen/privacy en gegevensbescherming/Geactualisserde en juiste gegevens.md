@@ -1,6 +1,6 @@
 ---
-title: Geactualisserde gegevens
-summary: hier staat een korte samenvatting over norm 7
+title: Geactualisserde en juiste gegevens
+
 ---
 
 !!! info "Disclaimer"
@@ -23,11 +23,17 @@ De kwaliteit en integriteit van data is niet voldoende geborgd.
 #### Toetsingskaders
 
 
-## Uitleg
+## Toelichting
 Als de gegevens die in het algoritme worden gebruikt onjuist zijn, zullen ook besluiten of profielen die daaruit voortkomen onjuist zijn. Besluiten zijn mogelijk genomen op basis van verouderde gegevens of de onjuiste interpretatie van externe gegevens. Zelfs wanneer ruwe gegevens correct worden opgeslagen, is de gegevensreeks mogelijk niet geheel representatief of kunnen de analysegegevens ongemerkt vooroordelen bevatten.
 
-## Hoe?
-Hierbij kan verwezen worden naar informatie over het algoritme in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
+## Maatregelen
+Verwerkingsverantwoordelijken moeten in alle stappen van het algoritmeproces juistheid in het oog houden, in het bijzonder bij:
+• het verzamelen van gegevens;
+• het analyseren van gegevens;
+• het opstellen van model; of
+• het toepassen van een model om een besluit met betrekking tot de persoon te nemen
+
+Documenteer de maatregelen in de DPIA. 
 
 ## Rollen
 Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoering van deze norm. 

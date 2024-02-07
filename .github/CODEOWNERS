@@ -2,9 +2,9 @@
 
 # These owners will be the default owners for everything in
 # the repo. Unless a later match takes precedence,
-# @BartdeVisser @IsabelBarbera @HaitskevdLinde @giuliaboss @ruthkoole @jaspervanderheide and @MarjoleinKortemann will be requested for
+# @IlseZandbergen @cloevgeest @Jellie2022 @BartdeVisser @IsabelBarbera @HaitskevdLinde @giuliaboss @ruthkoole @jaspervanderheide and @MarjoleinKortemann will be requested for
 # review when someone opens a pull request.
-* @BartdeVisser @IsabelBarbera @HaitskevdLinde @giuliaboss @ruthkoole @jaspervanderheide @MarjoleinKortemann
+* @IlseZandbergen @cloevgeest @Jellie2022 @BartdeVisser @IsabelBarbera @HaitskevdLinde @giuliaboss @ruthkoole @jaspervanderheide @MarjoleinKortemann
 
 # Order is important; the last matching pattern takes the most
 # precedence. When someone opens a pull request that only
@@ -12,10 +12,6 @@
 # owner(s) will be requested for a review.
 # *.js    @js-owner # Remove '#' where necessary to activate it
 
-# You can also use email addresses if you prefer. They'll be
-# used to look up users just like we do for commit author
-# emails.
-# *.go docs@example.com # Remove '#' where necessary to activate it
 
 # Teams can be specified as code owners as well. Teams should
 # be identified in the format @org/team-name. Teams must have

@@ -41,7 +41,5 @@ Betrek de communicatieadviseur om duidelijk te communiceren naar de burger.
 De projectleider kent de inhoud van het algoritme en de werking ervan. 
 
 ## Best practices
-Voorbeeld toevoegen van hoe er in een brief aan een burger verwezen wordt naar het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
-
 
 

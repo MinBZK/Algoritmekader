@@ -86,7 +86,7 @@ nav:
         - Governance:
            - normen/governance/index.md
            - normen/governance/Data governance.md
-           - normen/governance/Rollen en verantwoordlijkheden.md
+           - normen/governance/Rollen en verantwoordelijkheden.md
            - normen/governance/Eigenaarschap en beheer.md
            - normen/governance/Archiveren.md
            - normen/governance/Risicobeheer.md
@@ -110,12 +110,12 @@ nav:
            - normen/privacy en gegevensbescherming/Doelbinding.md
            - normen/privacy en gegevensbescherming/Dataminimalisatie.md
            - normen/privacy en gegevensbescherming/Rechtmatigheid en grondslag.md
-           - normen/privacy en gegevensbescherming/Geactualisserde gegevens.md
+           - normen/privacy en gegevensbescherming/Geactualisserde en juiste gegevens.md
            - normen/privacy en gegevensbescherming/Opslagbeperking.md
            - normen/privacy en gegevensbescherming/Bijzondere persoonsgegevens.md
            - normen/privacy en gegevensbescherming/Privacyrechten.md
            - normen/privacy en gegevensbescherming/Geautomatiseerde besluitvorming en profileren.md
-           - normen/privacy en gegevensbescherming/Privacy by Design.md
+           - normen/privacy en gegevensbescherming/Privacy by Design en by Default.md
         - Technische robuustheid en veiligheid:
            - normen/technische robuustheid en veiligheid/index.md
            - normen/technische robuustheid en veiligheid/Informatiebeveiliging.md
@@ -145,9 +145,9 @@ markdown_extensions:
     - md_in_html
     - pymdownx.tasklist:
         custom_checkbox: true
-    # - pymdownx.emoji:
-    #     emoji_index: !!python/name:material.extensions.emoji.twemoji
-    #     emoji_generator: !!python/name:material.extensions.emoji.to_svg
+    - pymdownx.emoji:
+        emoji_index: !!python/name:material.extensions.emoji.twemoji
+        emoji_generator: !!python/name:material.extensions.emoji.to_svg
     - pymdownx.snippets:
         auto_append:
             - includes/abbreviations.md
@@ -158,11 +158,14 @@ extra:
     - icon: fontawesome/brands/github 
       link: https://github.com/MinBZK/Algoritmekader
 
+
 plugins:
     - glightbox
     - search
     - git-revision-date-localized:
         enable_creation_date: true
+    - tags:
+        tags_file: tags.md
 
 # Link naar GitHub repo (nu nog even mijn eigen repo)
 repo_url: https://github.com/MinBZK/Algoritmekader

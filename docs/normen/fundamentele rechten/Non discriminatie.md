@@ -35,6 +35,7 @@ EC/AI HLEG April 2019 - hoofdstuk II. 1.1, 1.5
 - Er is sprake van een objectieve rechtvaardiging als sprake is van een legitiem doel en het middel dat wordt gebruikt om het doel te bereiken is passend, noodzakelijk en evenredig. Om te bepalen of een algoritme verboden onderscheid maakt, moet worden bekeken of door het algoritme sprake is van een ongelijke behandeling van een persoon of groep personen in verhouding tot anderen in een vergelijkbare situatie.
 
 Verdacht onderscheid op basis van onder andere:
+
 - Burgerlijke staat
 - Handicap/chronische ziekte
 - Geslacht (incl. genderidentiteit)

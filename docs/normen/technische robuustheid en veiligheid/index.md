@@ -1,6 +1,6 @@
 ---
 title: Technische robuustheid en veiligheid
-summary: Hier staat een korte samenvatting over dit onderwerp
+
 ---
 
 !!! info "Disclaimer"

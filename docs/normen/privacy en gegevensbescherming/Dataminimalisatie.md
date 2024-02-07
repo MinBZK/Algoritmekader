@@ -1,6 +1,6 @@
 ---
 title: Dataminimalisatie
-summary: hier staat een korte samenvatting over norm 6
+
 ---
 
 !!! info "Disclaimer"
@@ -21,12 +21,16 @@ De verwerkte persoonsgegevens zijn niet proportioneel en relevant in relatie tot
 - [Algemene Verordening Gegevensbescherming (AVG)](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679&qid=1685451198313), artikel 5 lid 1 onder c AVG
 
 #### Toetsingskaders
+ARK 2.18
 
-
-## Uitleg
+## Toelichting
 Wanneer persoonsgegevens worden verwerkt dan moeten zij voor het doel toereikend en ter zake dienend zijn. Verder mogen er niet meer persoonsgegevens worden verwerkt dan noodzakelijk voor het doel. Met andere woorden: er mogen, gelet op het doel, niet te veel, maar ook niet te weinig gegevens worden verwerkt. Wanneer namelijk te weinig gegevens worden verwerkt, dan kan er ten onrechte een onvolledig beeld ontstaan van de betrokkene.
 
-## Hoe?
+## Maatregelen
+Beoordeel welke persoonsgegevens voor het algoritme nodig zijn en hoe lang deze moeten worden bewaard. Gebruik waar mogelijk geanonimiseerde of gepseudonimiseerde gegevens te gebruiken. 
+
+Documenteer deze analyse in de DPIA. 
+
 
 ## Rollen
 Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoering van deze norm. 

@@ -1,6 +1,6 @@
 ---
-title: Duurzaamheid
-summary: Hier staat een korte samenvatting over dit onderwerp
+title: Fundamentele rechten
+
 ---
 
 !!! info "Disclaimer"

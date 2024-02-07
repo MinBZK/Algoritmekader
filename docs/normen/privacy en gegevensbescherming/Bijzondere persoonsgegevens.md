@@ -1,6 +1,6 @@
 ---
 title: Bijzondere persoonsgegevens
-summary: hier staat een korte samenvatting over norm 9
+
 ---
 
 !!! info "Disclaimer"
@@ -9,9 +9,9 @@ summary: hier staat een korte samenvatting over norm 9
 
 
 ## Norm
-**Het algoritme verwerkt persoonsgegevens die alleen op basis van een wettelijke uitzondering verwerkt mogen worden, zoals bijzondere persoonsgegevens (o.a. gegevens m.b.t. ras of afkomst, religie, gezondheid of seksuele geaardheid), strafrechtelijke gegevens of nationale identificatienummers (o.a. BSN).
+**Het algoritme verwerkt persoonsgegevens die alleen op basis van een wettelijke uitzondering verwerkt mogen worden, zoals bijzondere persoonsgegevens (o.a. gegevens m.b.t. ras of afkomst, religie, gezondheid of seksuele geaardheid), strafrechtelijke gegevens of nationale identificatienummers (o.a. BSN).**
 
-AI Act uitzondering: 
+**AI Verordening uitzondering: 
 Voor zover dit strikt noodzakelijk is met het oog op het waarborgen van de detectie en correctie van vooringenomenheid met betrekking tot AI-systemen kunnen de aanbieders van dergelijke systemen bij wijze van uitzondering bijzondere categorieën van persoonlijke gegevens verwerken onder voorbehoud van passende waarborgen voor de fundamentele rechten en vrijheden van natuurlijke personen (zie art. 10 AI Act)**
 
 ## Risico
@@ -25,8 +25,9 @@ Verwerking van bijzondere persoonsgegevens (o.a. gegevens m.b.t. ras of afkomst,
 - Concept jan 2024 AI Act art. 10 lid 5 en 6
 
 #### Toetsingskaders
--
-## Uitleg
+ADR PRI.7
+
+## Toelichting
 Bijzondere persoonsgegevens zijn gegevens m.b.t.:
 • ras of etnische afkomst
 • politieke opvattingen
@@ -42,8 +43,10 @@ Verwerking hiervan is verboden tenzij hierop één van de wettelijke uitzonderin
 De voorwaarden voor de verwerking van strafrechtelijke gegevens zijn vastgelegd in artikel 10 AVG en Paragraaf 3.2 UAVG, de voorwaarden voor de verwerking van een nationaal identificatienummer in artikel 87 AVG en Wet algemene bepalingen burgerservicenummer (Wabb)
 
 
-## Hoe?
-Hierbij kan verwezen worden naar informatie over het algoritme in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
+## Maatregelen
+Persoonsgegevens van bijzondere categorieën mogen alleen worden verwerkt als aan een van de in artikel 9, lid 2, genoemde voorwaarden en aan een voorwaarde van artikel 6 is voldaan. Beoordeel en leg dit vast.
+
+Indien bij de geautomatiseerde besluitvorming (zoals beschreven in artikel 22 lid 1) de in artikel 9, lid 1, bedoelde bijzondere categorieën van persoonsgegevens betrokken zijn, moet er ook voor worden gezorgd dat wordt voldaan aan de vereisten van artikel 22, lid 4.
 
 ## Rollen
 Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoering van deze norm. 
@@ -51,7 +54,5 @@ Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoeri
 
 
 ## Best practices
-Voorbeeld toevoegen van hoe er in een brief aan een burger verwezen wordt naar het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
-
 
 

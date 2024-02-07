@@ -1,5 +1,5 @@
 ---
-title: 1. Informeren over interactie met AI systemen
+title: Informeren over interactie met AI systemen
 ---
 
 !!! info "Disclaimer"

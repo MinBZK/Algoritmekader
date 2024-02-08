@@ -1,7 +1,7 @@
 # Algoritmekader
 We ontwikkelen het Algoritmekader op een open manier via Github. Bekijk [de ontwikkelomgeving van het Algoritmekader](https://minbzk.github.io/Algoritmekader/). 
 
-**Dit is de Github repo voor het Algoritmekader!**
+**Dit is de Github repo voor het Algoritmekader**
 Op deze pagina lees je hoe je kunt bijdragen aan de ontwikkeling van het Algoritmekader. Boven deze tekst vind je de bestanden voor het kader. We gebruiken Markdown en Mkdocs. Meer daarover lees je onder punt 5. 
 
 ## Hoe kun je bijdragen?
@@ -10,7 +10,7 @@ Dat kan op verschillende manieren. Kijk welke manier jou het beste past.
 5 en 6 Geven input voor ervaren Github gebruikers, die op de voor hen bekende manieren een bijdrage kunnen leveren.
 
 ### 1. Sluit je aan bij een werkgroep ###
-Regelmatig starten er nieuwe werkgroepen op blouwblokken of thema's. Deelname kost gemiddeld 3-4 uur per week. Wil je op een van de onderwerpen meewerken? Stuur dan een bericht naar algoritmes@minbzk.nl 
+Regelmatig starten er nieuwe werkgroepen op bouwblokken of thema's. Deelname kost gemiddeld 3-4 uur per week. Wil je op een van de onderwerpen meewerken? Stuur dan een bericht naar algoritmes@minbzk.nl 
 
 ### 2. Neem deel aan een sprintreview ###
 We werken in sprints van 3 of 4 weken, gevolgd door een open online review. Zo blijf je op de hoogte en kun je een bijdrage leveren. [Bekijk de agenda op Algoritmes Pleio](https://algoritmes.pleio.nl/events) voor de komende bijeenkomsten. 

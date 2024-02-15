@@ -47,19 +47,19 @@ Om te bepalen of een algoritme in aanmerking komt voor publicatie in het Algorit
 ![Hulpmiddel selectie publicatie Algoritmeregister 
 Wél publicatie in het register als: 
 *  Hoog risico volgens AI-Act 
-** Hoogrisico algoritmes volgens de voorlopige definitie van de AI-Act in 8 toepassingsgebieden. 
+    * Hoogrisico algoritmes volgens de voorlopige definitie van de AI-Act in 8 toepassingsgebieden. 
 * Impact op betrokkenen 
-** Algoritme heeft directe rechtsgevolgen voor betrokkenen 
-** Algoritme beïnvloedt hoe de overheid een betrokkenen of groep classificeert. 
+    * Algoritme heeft directe rechtsgevolgen voor betrokkenen 
+    * Algoritme beïnvloedt hoe de overheid een betrokkenen of groep classificeert. 
 
 Mogelijke publicatie:
 * Andere overwegingen 
-** demystificatie 
-** Maatschappelijk debat
-** Media aandacht 
-** Toezichthouder 
-** Vragen van burgers of media 
-** Onderdeel van een Woo-verzoek 
+    * demystificatie 
+    * Maatschappelijk debat
+    * Media aandacht 
+    * Toezichthouder
+    * Vragen van burgers of media 
+    * Onderdeel van een Woo-verzoek 
 
 Mogelijke uitzonderingsgronden. In uitzonderlijke gevallen worden algoritmes maar gedeeltelijk of helemaal niet gepubliceerd. 
 * Wettelijke uitzonderingsgronden zoals in de Wet open overheid of de Wet politiegegevens 

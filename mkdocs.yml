@@ -2,8 +2,8 @@
 
 site_name: Algoritmekader [concept]
 site_description: Concept van het algoritmekader. Het doel daarvan is om overheden op praktische wijze te ondersteunen, zodat zij op een wettige en ethisch verantwoorde wijze algoritmes en AI-systemen gebruiken.
-# watch:
-#     - includes/
+watch:
+    - includes/
 
 ### theme settings ###
 theme: 

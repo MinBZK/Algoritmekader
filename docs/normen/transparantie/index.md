@@ -1,6 +1,6 @@
 ---
 title: Transparantie
-summary: Hier staat een korte samenvatting over dit onderwerp
+
 ---
 
 !!! info "Disclaimer"

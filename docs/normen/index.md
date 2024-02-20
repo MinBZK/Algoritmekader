@@ -26,9 +26,8 @@ Op deze pagina staat een overzicht van de normen die we tot nu toe hebben verzam
 | :fontawesome-solid-person-circle-check: Menselijke controle   | [Menselijke controle](../normen/menselijke%20controle/Menselijke%20controle.md)                                                  |
 | :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Rollen en verantwoordelijkheden](../normen/privacy%20en%20gegevensbescherming/Rollen%20en%20verantwoordelijkheden.md)            |
 | :fontawesome-solid-lock: Privacy en gegevensbescherming       | [GEB en DPIA](../normen/privacy%20en%20gegevensbescherming/GEB%20DPIA%20en%20voorafgaande%20raadpleging%20AP%20.md)                                                   |
-| :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Rechtmatige verwerking](../normen/privacy%20en%20gegevensbescherming/Rechmatige%20verwerking.md)                                |
+| :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Rechtmatigheid en grondslag](../normen/privacy%20en%20gegevensbescherming/Rechtmatigheid%20en%20grondslag.md)                                |
 | :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Doelbinding](../normen/privacy%20en%20gegevensbescherming/Doelbinding.md)                                                       |
-| :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Wettelijke grondslag](../normen/privacy%20en%20gegevensbescherming/Wettelijke%20grondslag.md)                                   |
 | :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Dataminimalisatie](../normen/privacy%20en%20gegevensbescherming/Dataminimalisatie.md)                                           |
 | :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Geactualiseerde gegevens](../normen/privacy%20en%20gegevensbescherming/Geactualisserde%20en%20juiste%20gegevens.md)                           |
 | :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Opslagbeperking](../normen/privacy%20en%20gegevensbescherming/Opslagbeperking.md)                                               |

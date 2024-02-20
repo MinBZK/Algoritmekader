@@ -4,6 +4,8 @@ title: Definities
 
 Op deze pagina geven we een overzicht van definities die gehanteerd worden door het Algoritmekader. Deze definities komen overeen met de definities zoals die geformuleerd zijn voor het [Algoritmeregister](https://algoritmes.overheid.nl/nl). De informatie op deze pagina is afkomstig uit de [Handreiking Algoritmeregister](https://algoritmes.pleio.nl/attachment/entity/83fb2500-6b45-434d-93c9-7534e0b740b3).
 
+Op deze pagina beschrijven we de meest belangrijke definities. Daarnaast houden we voor het algoritmekader ook een algemene [begrippenlijst](https://github.com/MinBZK/Algoritmekader/blob/main/includes/abbreviations.md) bij. 
+
 ### Definitie van een algoritme
 Er zijn veel definities van een algoritme. Voor het algoritmekader hanteren we de definitie van de Algemene Rekenkamer:
 

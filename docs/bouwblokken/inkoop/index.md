@@ -1,7 +1,7 @@
 !!! info "Disclaimer"
 Het Algoritmekader is nog volop in ontwikkeling. Op deze plek willen we vooral aan de slag gaan op een open en transparante wijze. Het is dus niet definitief. Dat betekent dat er dingen opstaan die niet af zijn en soms zelfs fout. Mocht er iets niet kloppen, laat het ons weten via [GitHub](https://github.com/MinBZK/Algoritmekader).
 
-# Het inkopen van algoritmen en kunstmatige intelligentie door overheidsinstellingen
+# Publieke inkoop van algoritmen en kunstmatige intelligentie
 Door middel van publieke inkoop wordt door overheidsinstellingen software ingekocht. Deze software wordt ingekocht om ambtenaren te ondersteunen met hun werkzaamheden en om zo maatschappelijk waarden te creëren. Het kan bijvoorbeeld gaan om het inkopen van een systeem waarmee een aanvraag voor een subsidie kan worden behandeld. Het virtueel vergaderen of het digitaal samenwerken aan documenten zijn hier ook voorbeelden van.  
 
 Software wordt vaak ontwikkeld door gespecialiseerde leveranciers en bevat in toenemende mate algoritmen en AI. Deze algoritmen en AI kunnen eenvoudig van aard zijn, zoals het maken van een eenvoudige berekening. Zij kunnen complexer van aard zijn, zoals een voorspelling geven of het genereren van nieuwe informatie. In het laatste geval kan worden gedacht aan ChatGPT of Google Bard. 
@@ -10,17 +10,18 @@ Het gebruik maken van software met algoritmen en AI biedt kansen waarmee maatsch
 
 In dit deel van het Algoritmekader wordt nader ingegaan op deze normen. Er worden ook suggesties gedaan hoe deze normen kunnen worden nageleefd, wie daarbij betrokken kunnen zijn en waar mogelijk worden voorbeelden gegeven. Het publiek inkopen van algoritmen en AI wordt ook gekoppeld aan de algoritme levenscyclus. Dit geeft een duidelijker beeld van wanneer bepaalde normen, bij het ontwikkelen van algoritmen en AI, moeten worden geadresseerd.  
  
-
 ## Algoritme levenscyclus
-Algoritmen en AI kunnen een grote impact hebben op onze maatschappij. Daarom is het van belang dat deze op een verantwoorde manier worden ontwikkeld en gebruikt. Het toepassen van de algoritme levenscyclus is hiervoor een bruikbare leidraad. De algoritme levenscyclus bestaat uit meerdere fasen. De werkzaamheden die noodzakelijk zijn om een verantwoord algoritme of AI te ontwikkelen, kunnen logisch worden gekoppeld aan deze fasen. Dit geeft een bruikbaar overzicht voor ontwikkelaars of opdrachtgevers wanneer welke werkzaamheden moeten worden uitgevoerd. Het geeft daarmee ook het inzicht welke werkzaamheden moeten zijn afgerond als algoritmen en AI in de markt worden gezet door leveranciers. Voor de omvang van de werkzaamheden speelt de risico-classificatie van de betreffende algoritmen en AI een belangrijk rol.
-
+Algoritmen en AI kunnen een grote impact hebben op onze maatschappij. Daarom is het van belang dat deze op een verantwoorde manier worden ontwikkeld en gebruikt. Het toepassen van de algoritme levenscyclus is hierover een bruikbare leidraad. De algoritme levenscyclus bestaat uit meerdere fasen. De werkzaamheden die noodzakelijk zijn om een verantwoord algoritme of AI te ontwikkelen, kunnen logisch worden gekoppeld aan deze fasen. Dit geeft een bruikbaar overzicht voor ontwikkelaars of opdrachtgevers wanneer welke werkzaamheden moeten worden uitgevoerd. Het laat ook zien welke werkzaamheden moeten zijn afgerond als algoritmen en AI in de markt mogen worden gezet door leveranciers. Voor de omvang van de werkzaamheden speelt de risico-classificatie van de betreffende algoritmen en AI een belangrijk rol. Bij hoge risico toepassing zal meer moeten worden gedaan om risico’s te mitigeren dan bij lage risico toepassingen. 
 Bij het publiek inkopen van software met bijbehorende algoritmen en AI zijn de wensen van de behoeftesteller en de doelstellingen van de organisatie van groot belang. Dit kan tot verschillende situaties leiden: 
+
 •	Een al ontwikkelde kant-en-klare oplossing voldoet direct aan deze wensen;
 •	Een al ontwikkelde oplossing moet eerst worden aangepast voordat deze kan worden gebruikt;
 •	Er moet een nieuwe oplossing worden ontwikkeld om te voldoen aan de wensen. 
 
-Deze inschatting is bepalend voor welke werkzaamheden moeten worden uitgevoerd om tot de gewenste oplossing te komen. Dit is relevant voor zowel de leverancier als de opdrachtgever. Het is aannemelijk dat als het om risicovollere algoritmen en AI gaat, de opdrachtgever een intensievere bijdrage moet leveren aan de samenwerking. De inzichten uit de algoritme levenscyclus kunnen ondersteunen bij bijvoorbeeld het maken van make-or-buy beslissingen, bepalen van de inkoopstrategie, aanbestedingsvorm, de totstandkoming van de selectie- en gunningseisen,  contractspecificaties en de uitvoering en management van het contract. 
+Deze inschatting is bepalend voor wat van een product mag worden verwacht. Dit is relevant voor zowel de leverancier als de opdrachtgever. Het is aannemelijk dat als het om een risicovoll nog te ontwikkelen algoritmen of AI gaat, de opdrachtgever een intensievere bijdrage moet leveren aan de samenwerking. Als een kant-en-klare oplossing wordt afgenomen, dan zal de leverancier moeten laten zien dat de ontwikkelde algoritmen en AI voldoen aan alle normen en moet dit kunnen aantonen. 
 
+De inzichten uit de algoritme levenscyclus kunnen ondersteunen bij bijvoorbeeld het maken van make-or-buy beslissingen, bepalen van de inkoopstrategie, te hanteren aanbestedingsvorm, de totstandkoming van de selectie- en gunningseisen,  contractspecificaties en de uitvoering en management van het contract. 
+ 
 ### Probleemanalyse
 In deze fase van de algoritme levenscyclus is er nog geen algoritme of AI ontwikkeld. Er wordt onderzocht ‘of’ een algoritme of AI kan bijdragen aan het oplossen van een specifiek probleem of wens. Een leverancier kan zelf vaststellen of een algoritme of AI kan bijdragen aan het oplossen van een (potentieel) probleem of het realiseren van een wens. Via publieke inkoop kan ook een specifieke vraag onder de aandacht worden gebracht marktconsultatie of worden voorgelegd met een aanbesteding. Het is hier van belang om te beoordelen of de beoogde oplossingsrichting, het ontwikkelen en gebruiken van een algoritme of AI, is toegestaan. 
 

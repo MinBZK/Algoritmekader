@@ -37,7 +37,7 @@ Zo kan het afhankelijk van de specifieke toepassing noodzakelijk zijn om normen 
 Contractmanagement activiteiten ten behoeve van naleving van deze normen in de uitvoeringsfase verdient in het bijzonder aandacht. Door technologische ontwikkelingen is het denkbaar dat leveranciers proactief hun dienstverlening (met impactvolle algoritmen en AI) proberen te verbeteren. 
 Een andere situatie is het doorvoeren van wezenlijke wijzigingen, al dan niet op verzoek van opdrachtgever, aan de al ingekochte algoritmen en AI. Dat kan betekenen dat werkzaamheden opnieuw moeten worden uitgevoerd. Hierbij kan worden gedacht aan het opnieuw uitvoeren van een bias analyse of het opnieuw ondergaan van een conformiteitsbeoordeling als het gaat om hoge risico AI-systemen. 
 
-In dit overzicht wordt ook een suggestie gedaan waar in het proces van publieke inkoop deze normen het best kunnen worden geadresseerd. 
+In dit overzicht wordt ook een suggestie gedaan waar in het proces van publieke inkoop deze normen het best kunnen worden geadresseerd. Voor het inkoopproces wordt aansluiting gezocht bij de uitwerking van PIANOo. Hiervoor kan de volgende link worden geraadpleegd: https://www.pianoo.nl/nl/inkoopproces. 
 
 === "Laag risico" 
 

@@ -17,7 +17,7 @@ De algoritme levenscyclus bestaat uit meerdere fasen. De werkzaamheden die noodz
 
 Bij het publiek inkopen van software met bijbehorende algoritmen en AI zijn de wensen van de behoeftesteller en de doelstellingen van de organisatie van groot belang. Na een(markt)verkenning kan dit tot verschillende situaties leiden: 
 
-•	Een al ontwikkelde kant-en-klare oplossing voldoet aan deze wensen en doelstellingen;
+•	Een al ontwikkelde kant-en-klare oplossing voldoet aan de wensen en doelstellingen;
 
 •	Een al ontwikkelde oplossing moet eerst worden aangepast voordat deze kan worden gebruikt;
 

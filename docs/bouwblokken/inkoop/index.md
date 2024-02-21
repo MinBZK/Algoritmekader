@@ -40,7 +40,7 @@ Hieronder staat een overzicht van de normen die voortkomen uit wet- en regelgevi
 
 Contractmanagement activiteiten ten behoeve van naleving van deze normen in de uitvoeringsfase verdient in het bijzonder aandacht. Door technologische ontwikkelingen is het denkbaar dat leveranciers proactief hun dienstverlening (met impactvolle algoritmen en AI) proberen te verbeteren. Een andere situatie is het doorvoeren van wezenlijke wijzigingen, al dan niet op verzoek van opdrachtgever, aan de al ingekochte algoritmen en AI. Dat kan betekenen dat werkzaamheden opnieuw moeten worden uitgevoerd. Hierbij kan worden gedacht aan het opnieuw uitvoeren van een bias analyse of het opnieuw ondergaan van een conformiteitsbeoordeling als het gaat om hoge risico AI-systemen. 
 
-Per normen wordt een suggestie gedaan waar gedurende het proces van publieke inkoop deze logischerwijs kunnen worden geaddresseerd.   
+In dit overzicht wordt ook een suggestie gedaan waar in het proces van publieke inkoop deze normen het best kunnen worden geadresseerd. 
 
 === "Laag risico" 
 

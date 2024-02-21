@@ -4,16 +4,21 @@ Het Algoritmekader is nog volop in ontwikkeling. Op deze plek willen we vooral a
 # Publieke inkoop van algoritmen en AI
 Door middel van publieke inkoop wordt door overheidsinstellingen software ingekocht. Deze software wordt ingekocht om ambtenaren te ondersteunen met hun werkzaamheden en om zo maatschappelijk waarden te creëren. Het kan bijvoorbeeld gaan om het inkopen van een systeem waarmee een aanvraag voor een subsidie kan worden behandeld. Het virtueel vergaderen of het digitaal samenwerken aan documenten zijn hier ook voorbeelden van.  
 
+
 Software wordt vaak ontwikkeld door gespecialiseerde leveranciers en bevat in toenemende mate algoritmen en AI. Deze algoritmen en AI kunnen eenvoudig van aard zijn, zoals het maken van een eenvoudige berekening. Zij kunnen complexer van aard zijn, zoals een voorspelling geven of het genereren van nieuwe informatie. In het laatste geval kan worden gedacht aan toepassingen als ChatGPT of Google Bard. 
 
+
 Het gebruik maken van software met algoritmen en AI biedt kansen waarmee maatschappelijke waarden kunnen worden gerealiseerd. Er zijn ook risico’s als deze technologie onjuist wordt ontwikkelt of gebruikt. Dat is in het bijzonder van belang als algoritmen en AI van invloed zijn op overheidsbesluitvorming. Door bij publieke inkoop van software met algoritmen en AI rekening te houden met bepaalde normen en uit te voeren werkzaamheden, kunnen risico’s worden voorkomen of gemitigeerd. 
+
 
 In dit deel van het Algoritmekader wordt nader ingegaan op deze normen. Er worden ook suggesties gedaan hoe deze normen kunnen worden nageleefd, wie daarbij betrokken kunnen zijn en waar mogelijk worden voorbeelden gegeven. Er wordt ook uitgelegd hoe inzichten uit de algoritme levenscyclus kunnen bijdragen aan het publiek inkopen van algoritmen en AI. De algoritme levenscyclus geeft een beeld van wanneer bepaalde normen, bij het ontwikkelen van algoritmen en AI, moeten worden geadresseerd en wat van een ontwikkeld product mag worden verwacht. 
  
 ## Algoritme levenscyclus
 Algoritmen en AI kunnen een grote impact hebben op onze maatschappij. Daarom is het van belang dat deze op een verantwoorde manier worden ontwikkeld en gebruikt. Het toepassen van de algoritme levenscyclus is hierover een bruikbare leidraad. Inzichten uit de algoritme levenscyclus kunnen ook bijdragen bij het publiek inkopen van software met algoritmen en AI. 
 
+
 De algoritme levenscyclus bestaat uit meerdere fasen. De werkzaamheden die noodzakelijk zijn om een verantwoord algoritme of AI te ontwikkelen, kunnen logisch worden gekoppeld aan deze fasen. Dit geeft een bruikbaar overzicht voor bijvoorbeeld ontwikkelaars, inkopers of opdrachtgevers wanneer welke werkzaamheden moeten worden uitgevoerd. Het laat ook zien welke werkzaamheden moeten zijn afgerond als algoritmen en AI in de markt mogen worden gezet door leveranciers. Voor de omvang van de werkzaamheden speelt de risico-classificatie van de betreffende algoritmen en AI een belangrijke rol. Bij hoge risico toepassingen zal meer moeten worden gedaan om risico’s te mitigeren dan bij lage risico toepassingen. 
+
 
 Bij het publiek inkopen van software met bijbehorende algoritmen en AI zijn de wensen van de behoeftesteller en de doelstellingen van de organisatie van groot belang. Na een(markt)verkenning kan dit tot verschillende situaties leiden: 
 
@@ -23,7 +28,9 @@ Bij het publiek inkopen van software met bijbehorende algoritmen en AI zijn de w
 
 •	Er moet een nieuwe oplossing worden ontwikkeld om te voldoen aan de wensen en doelstellingen. 
 
+
 Deze inschatting is bepalend voor wat wel en niet van een product mag worden verwacht en welke werkzaamheden nog moeten worden uitgevoerd. Dit is relevant voor zowel de leverancier als de opdrachtgever. Het is aannemelijk dat als het om risicovollere, nog te ontwikkelen, algoritmen of AI gaat, de opdrachtgever een intensievere bijdrage moet leveren aan de samenwerking. Als een kant-en-klare oplossing wordt afgenomen, dan zal de leverancier moeten kunnen aantonen dat de ontwikkelde algoritmen en AI voldoen aan de normen.
+
 
 De inzichten uit de algoritme levenscyclus kunnen ondersteunen bij bijvoorbeeld het maken van make-or-buy beslissingen, bepalen van de inkoopstrategie, te hanteren aanbestedingsvorm, de totstandkoming van de selectie- en gunningseisen, contractspecificaties en de uitvoering en management van het contract. De algoritme levenscyclus kan worden geraadpleegd via het tabblad boven aan deze pagina. 
  
@@ -31,7 +38,9 @@ De inzichten uit de algoritme levenscyclus kunnen ondersteunen bij bijvoorbeeld 
 
 Hieronder staat een overzicht van de normen die voortkomen uit wet- en regelgeving en van toepassing zijn bij publieke inkoop van software met algoritmen en AI. Dat kan op verschillende manieren plaatsvinden. Het is van belang om met de betrokken actoren per inkoopproces te verkennen hoe deze normen tot uiting moeten komen. Afhankelijk van de specifieke toepassing kan het noodzakelijk zijn om deze normen te concretiseren, bijvoorbeeld in een programma van eisen. Deze normen kunnen bijvoorbeeld ook worden vertaald naar inkoopbeleid of door ze te ondervangen in contractuele voorwaarden. Daarmee worden ze generiek toepasbaar bij toekomstige aanbestedingen. 
 
+
 Contractmanagement activiteiten ten behoeve van naleving van deze normen in de uitvoeringsfase verdient in het bijzonder aandacht. Door technologische ontwikkelingen is het denkbaar dat leveranciers proactief hun dienstverlening (met impactvolle algoritmen en AI) proberen te verbeteren. Een andere situatie is het doorvoeren van wezenlijke wijzigingen, al dan niet op verzoek van opdrachtgever, aan de al ingekochte algoritmen en AI. Dat kan betekenen dat werkzaamheden opnieuw moeten worden uitgevoerd. Hierbij kan worden gedacht aan het opnieuw uitvoeren van een bias analyse of het opnieuw ondergaan van een conformiteitsbeoordeling als het gaat om hoge risico AI-systemen. 
+
 
 Per normen wordt een suggestie gedaan waar gedurende het proces van publieke inkoop deze logischerwijs kunnen worden geaddresseerd.   
 

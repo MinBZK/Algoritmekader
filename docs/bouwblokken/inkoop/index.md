@@ -57,7 +57,7 @@ Overzicht van welke rollen belangrijk zijn te betrekken bij dit bouwblok.
 
 <div class="grid cards" markdown>
 
-- __Strategisch inkoop adviseur_ beschijf waarom deze rol belangrijk is
+- __Strategisch inkoopadviseur__ beschijf waarom deze rol belangrijk is
 - __Leveranciersmanager__ beschijf waarom deze rol belangrijk is
 - __Beleidsmedewerker__ beschijf waarom deze rol belangrijk is
 - __Inkoopadviseur__ beschijf waarom deze rol belangrijk is

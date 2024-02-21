@@ -57,10 +57,20 @@ Overzicht van welke rollen belangrijk zijn te betrekken bij dit bouwblok.
 
 <div class="grid cards" markdown>
 
-- __dats scientist__ beschijf waarom deze rol belangrijk is
-- __projectleider__ beschijf waarom deze rol belangrijk is
-- __jurist__ beschijf waarom deze rol belangrijk is
-
+- __Strategisch inkoop adviseur_ beschijf waarom deze rol belangrijk is
+- __Leveranciersmanager__ beschijf waarom deze rol belangrijk is
+- __Beleidsmedewerker__ beschijf waarom deze rol belangrijk is
+- __Inkoopadviseur__ beschijf waarom deze rol belangrijk is
+- __Contractbeheerder__ beschijf waarom deze rol belangrijk is
+- __Aanbestedingsjurist__ beschijf waarom deze rol belangrijk is
+- __Behoeftesteller__ beschijf waarom deze rol belangrijk is
+- __Ethicus__ beschijf waarom deze rol belangrijk is
+- __Data Scientist__ beschijf waarom deze rol belangrijk is
+- __Gebruiker__ beschijf waarom deze rol belangrijk is
+- __Privacy Officer__ beschijf waarom deze rol belangrijk is
+- __Security Officer__ beschijf waarom deze rol belangrijk is
+- __Leverancier__ beschijf waarom deze rol belangrijk is
+- __Data Engineer__ beschijf waarom deze rol belangrijk is
 </div>
 
 ## Best practices

@@ -21,7 +21,7 @@ Bij het publiek inkopen van software met bijbehorende algoritmen en AI zijn de w
 
 •	Een al ontwikkelde oplossing moet eerst worden aangepast voordat deze kan worden gebruikt;
 
-•	Er moet een nieuwe oplossing worden ontwikkeld om te voldoen. 
+•	Er moet een nieuwe oplossing worden ontwikkeld om te voldoen aan de wensen en doelstellingen. 
 
 Deze inschatting is bepalend voor wat wel en niet van een product mag worden verwacht en welke werkzaamheden moeten worden uitgevoerd. Dit is relevant voor zowel de leverancier als de opdrachtgever. Het is aannemelijk dat als het om risicovollere, nog te ontwikkelen, algoritmen of AI gaat, de opdrachtgever een intensievere bijdrage moet leveren aan de samenwerking. Als een kant-en-klare oplossing wordt afgenomen, dan zal de leverancier moeten kunnen aantonen dat de ontwikkelde algoritmen en AI voldoen aan de normen.
 

@@ -13,19 +13,17 @@ In dit deel van het Algoritmekader wordt nader ingegaan op deze normen die van t
 ## Algoritme levenscyclus
 Algoritmen en AI kunnen een grote impact hebben op onze maatschappij. Daarom is het van belang dat deze op een verantwoorde manier worden ontwikkeld en gebruikt. Het toepassen van de algoritme levenscyclus is hierover een bruikbare leidraad. Inzichten uit de algoritme levenscyclus kunnen ook bijdragen bij het publiek inkopen van software met algoritmen en AI. 
 
-De algoritme levenscyclus bestaat uit meerdere fasen. De werkzaamheden die noodzakelijk zijn om een verantwoord algoritme of AI te ontwikkelen, kunnen logisch worden gekoppeld aan deze fasen. Dit geeft een bruikbaar overzicht voor bijvoorbeeld ontwikkelaars, inkopers of opdrachtgevers wanneer welke werkzaamheden moeten worden uitgevoerd. Het laat ook zien welke werkzaamheden moeten zijn afgerond als algoritmen en AI in de markt mogen worden gezet door leveranciers. Voor de omvang van de werkzaamheden speelt de risico-classificatie van de betreffende algoritmen en AI een belangrijke rol. Bij hoge risico toepassingen zal meer moeten worden gedaan om risico’s te mitigeren dan bij lage risico toepassingen. 
+De algoritme levenscyclus bestaat uit meerdere fasen. De werkzaamheden die noodzakelijk zijn om een verantwoord algoritme of AI te ontwikkelen, kunnen logisch worden gekoppeld aan deze fasen. Dit geeft een bruikbaar overzicht voor bijvoorbeeld ontwikkelaars, inkopers of opdrachtgevers wanneer welke werkzaamheden moeten worden uitgevoerd en door wie. Het laat ook zien welke werkzaamheden moeten zijn afgerond als algoritmen en AI in de markt mogen worden gezet door leveranciers. Voor de omvang van de werkzaamheden speelt de risico-classificatie van de betreffende algoritmen en AI een belangrijke rol. Bij hoge risico toepassingen zal meer moeten worden gedaan om risico’s te mitigeren dan bij lage risico toepassingen. 
 
-Bij het publiek inkopen van software met bijbehorende algoritmen en AI zijn de wensen van de behoeftesteller en de doelstellingen van de organisatie van groot belang. Na een(markt)verkenning kan dit tot verschillende situaties leiden: 
+Bij het publiek inkopen van software met bijbehorende algoritmen en AI zijn de wensen van de behoeftesteller en de doelstellingen van de organisatie van groot belang. Na een(markt)verkenning kan dit tot verschillende inzichten opleveren: 
 
-•	Een al ontwikkelde kant-en-klare oplossing voldoet aan de wensen en doelstellingen;
+•	Een al ontwikkelde, kant-en-klare oplossing voldoet aan de wensen en doelstellingen;
 
 •	Een al ontwikkelde oplossing moet eerst worden aangepast voordat deze kan worden gebruikt;
 
 •	Er moet een nieuwe oplossing worden ontwikkeld om te voldoen aan de wensen en doelstellingen. 
 
-
-Deze inschatting is bepalend voor wat wel en niet van een product mag worden verwacht en welke werkzaamheden nog moeten worden uitgevoerd. Dit is relevant voor zowel de leverancier als de opdrachtgever. Het is aannemelijk dat als het om risicovollere, nog te ontwikkelen, algoritmen of AI gaat, de opdrachtgever een intensievere bijdrage moet leveren aan de samenwerking. Als een kant-en-klare oplossing wordt afgenomen, dan zal de leverancier moeten kunnen aantonen dat de ontwikkelde algoritmen en AI voldoen aan de normen.
-
+Deze inschatting is bepalend voor wat wel en niet van een in te kopen product mag worden verwacht en welke werkzaamheden nog moeten worden uitgevoerd voordat het product geschikt voor gebruik is. Dit is relevant voor zowel de leverancier als de opdrachtgever. Het is aannemelijk dat als het om risicovollere, nog te ontwikkelen, algoritmen of AI gaat, de opdrachtgever een intensievere bijdrage moet leveren aan de samenwerking. Als een kant-en-klare oplossing wordt afgenomen, dan zal de leverancier moeten kunnen aantonen dat de ontwikkelde algoritmen en AI voldoen aan de normen. 
 
 De inzichten uit de algoritme levenscyclus kunnen ondersteunen bij bijvoorbeeld het maken van make-or-buy beslissingen, bepalen van de inkoopstrategie, te hanteren aanbestedingsvorm, de totstandkoming van de selectie- en gunningseisen, contractspecificaties en de uitvoering en management van het contract. De algoritme levenscyclus kan worden geraadpleegd via het tabblad boven aan deze pagina. 
  

@@ -27,15 +27,14 @@ Deze inschatting is bepalend voor wat wel en niet van een product mag worden ver
 
 De inzichten uit de algoritme levenscyclus kunnen ondersteunen bij bijvoorbeeld het maken van make-or-buy beslissingen, bepalen van de inkoopstrategie, te hanteren aanbestedingsvorm, de totstandkoming van de selectie- en gunningseisen, contractspecificaties en de uitvoering en management van het contract. De algoritme levenscyclus kan worden geraadpleegd via het tabblad boven aan deze pagina. 
  
-
 ## Normen
 
-Onderstaand een overzicht van de minimale vereisten die volgen uit geldende wet- en regelgeving, toetingskaders en andere bronnen
+Hieronder staat een overzicht van de normen die voortkomen uit wet- en regelgeving. Deze normen zullen bij publieke inkoop van software met algoritmen en AI moeten worden toegepast. Dat kan op verschillende manieren plaatsvinden. Zo kunnen deze normen worden vertaald naar inkoopbeleid van een publieke organisaties of ze worden ondervangen in contractuele voorwaarden. Afhankelijk van de specifieke toepassing kan het noodzakelijk zijn om deze normen te concretiseren, bijvoorbeeld in een Programma van Eisen. Het is van belang om met de betrokken actoren (per geval) te verkennen hoe deze normen tot uiting moeten komen. Contractmanagement activiteiten ten behoeve van naleving van deze normen in de uitvoeringsfase verdient in het bijzonder aandacht vanwege technologische vooruitgang en verbeteringen. Per normen wordt een suggestie gedaan waar gedurende het proces van publieke inkoop deze logischerwijs kunnen worden geaddresseerd.   
 
 === "Laag risico" 
 
-    | **Norm**                          | **Uitleg**                               | **Bron** |
-    |-----------------------------------|------------------------------------------|----------|
+    | **Norm**                          | **Uitleg**                               | **Bron** | **Inkoopproces** |
+    |-----------------------------------|------------------------------------------|----------|------------------|
     | [Norm 1](../../normen/transparantie/norm1.md)    | Korte uitleg over norm 1                |          |
     | Norm 2                             | Korte uitleg over norm 2                |          |
     

@@ -28,7 +28,7 @@ De inzichten uit de algoritme levenscyclus kunnen ondersteunen bij bijvoorbeeld 
 ## Normen
 
 Hieronder staat een overzicht van de normen die voortkomen uit wet- en regelgeving en van toepassing zijn bij publieke inkoop van software met algoritmen en AI. Het toepassen van deze normen kan op verschillende manieren plaatsvinden. Het is van belang om dit met de betrokken actoren per inkoopproces te verkennen. 
-Zo kan het afhankelijk van de specifieke toepassing noodzakelijk zijn om normen te concretiseren, bijvoorbeeld in een programma van eisen. De normen kunnen ook worden vertaald naar inkoopbeleid of door ze te ondervangen in contractuele voorwaarden. Daarmee worden ze generiek toepasbaar bij toekomstige aanbestedingen. 
+Zo kan het afhankelijk van de specifieke toepassing noodzakelijk zijn om normen te concretiseren, bijvoorbeeld in een programma van eisen. De normen kunnen ook worden vertaald naar inkoopbeleid of contractuele voorwaarden. Hiermee worden ze generiek toepasbaar bij toekomstige aanbestedingen. 
 
 Contractmanagement activiteiten ten behoeve van naleving van deze normen in de uitvoeringsfase verdient in het bijzonder aandacht. Door technologische ontwikkelingen is het denkbaar dat leveranciers proactief hun dienstverlening (met impactvolle algoritmen en AI) proberen te verbeteren. 
 Een andere situatie is het doorvoeren van wezenlijke wijzigingen, al dan niet op verzoek van opdrachtgever, aan de al ingekochte algoritmen en AI. Dat kan betekenen dat opnieuw aan bepaalde normen moet worden getoetst, wat betekent dat bepaalde werkzaamheden ook opnieuw moeten worden uitgevoerd. Hierbij kan worden gedacht aan het  uitvoeren van een bias analyse of het ondergaan van een conformiteitsbeoordeling als het gaat om hoge risico AI-systemen. 

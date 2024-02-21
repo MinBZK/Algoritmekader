@@ -2,7 +2,7 @@
 Het Algoritmekader is nog volop in ontwikkeling. Op deze plek willen we vooral aan de slag gaan op een open en transparante wijze. Het is dus niet definitief. Dat betekent dat er dingen opstaan die niet af zijn en soms zelfs fout. Mocht er iets niet kloppen, laat het ons weten via [GitHub](https://github.com/MinBZK/Algoritmekader).
 
 # Publieke inkoop van algoritmen en AI
-Overheidsinstellingen kopen regelmatig software in. Deze software wordt ingekocht om ambtenaren te ondersteunen met hun werkzaamheden en om zo maatschappelijk waarden te creëren. Het kan bijvoorbeeld gaan om het inkopen van een systeem waarmee een aanvraag voor een subsidie kan worden behandeld. Het virtueel vergaderen of het digitaal samenwerken aan documenten zijn hier ook voorbeelden van.  
+Overheidsinstellingen kopen frequent software in. Deze software wordt ingekocht om ambtenaren te ondersteunen met hun werkzaamheden en om zo maatschappelijk waarden te creëren. Het kan bijvoorbeeld gaan om het inkopen van een systeem waarmee een aanvraag voor een subsidie kan worden behandeld. Het virtueel vergaderen of het digitaal samenwerken aan documenten zijn hier ook voorbeelden van.  
 
 Software wordt vaak ontwikkeld door gespecialiseerde leveranciers en bevat in toenemende mate algoritmen en AI. Deze algoritmen en AI kunnen eenvoudig van aard zijn, zoals het maken van een eenvoudige berekening. Zij kunnen complexer van aard zijn, zoals een voorspelling geven of het genereren van nieuwe informatie. In het laatste geval kan worden gedacht aan toepassingen als ChatGPT of Google Bard. 
 

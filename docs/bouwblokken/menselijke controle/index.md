@@ -1,6 +1,7 @@
 ---
 title: Menselijke controle
-summary: Hier staat een korte samenvatting over dit onderwerp
+icon: material/account-check
+status: todo
 ---
 
-Hier komt een beschrijving van dit bouwblok
+!!! note "status: dit bouwblok moet nog ontwikkeld worden"

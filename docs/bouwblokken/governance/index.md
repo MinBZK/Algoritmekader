@@ -1,6 +1,7 @@
 ---
 title: Governance
-summary: Hier staat een korte samenvatting over dit onderwerp
+icon: material/bank
+status: todo
 ---
 
-Hier komt een beschrijving van dit bouwblok
+!!! note "status: dit bouwblok moet nog ontwikkeld worden"

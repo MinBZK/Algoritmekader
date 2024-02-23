@@ -1,6 +1,7 @@
 ---
 title: Conformiteitsbeoordeling
-summary: Hier staat een korte samenvatting over dit onderwerp
+icon: material/check-circle
+status: todo 
 ---
 
-Hier komt een beschrijving van de welke bouwblokken er zijn
+!!! note "status: dit bouwblok moet nog ontwikkeld worden"

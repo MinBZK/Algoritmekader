@@ -9,10 +9,11 @@ title: Bijzondere persoonsgegevens
 
 
 ## Norm
-**Het algoritme verwerkt persoonsgegevens die alleen op basis van een wettelijke uitzondering verwerkt mogen worden, zoals bijzondere persoonsgegevens (o.a. gegevens m.b.t. ras of afkomst, religie, gezondheid of seksuele geaardheid), strafrechtelijke gegevens of nationale identificatienummers (o.a. BSN).**
 
-**AI Verordening uitzondering: 
-Voor zover dit strikt noodzakelijk is met het oog op het waarborgen van de detectie en correctie van vooringenomenheid met betrekking tot AI-systemen kunnen de aanbieders van dergelijke systemen bij wijze van uitzondering bijzondere categorieën van persoonlijke gegevens verwerken onder voorbehoud van passende waarborgen voor de fundamentele rechten en vrijheden van natuurlijke personen (zie art. 10 AI Act)**
+#### Het algoritme verwerkt persoonsgegevens die alleen op basis van een wettelijke uitzondering verwerkt mogen worden, zoals bijzondere persoonsgegevens (o.a. gegevens m.b.t. ras of afkomst, religie, gezondheid of seksuele geaardheid), strafrechtelijke gegevens of nationale identificatienummers (o.a. BSN).
+
+##### AI Verordening uitzondering: 
+Voor zover dit strikt noodzakelijk is met het oog op het waarborgen van de detectie en correctie van vooringenomenheid met betrekking tot AI-systemen kunnen de aanbieders van dergelijke systemen bij wijze van uitzondering bijzondere categorieën van persoonlijke gegevens verwerken onder voorbehoud van passende waarborgen voor de fundamentele rechten en vrijheden van natuurlijke personen (zie art. 10 AI Act)
 
 ## Risico
 Verwerking van bijzondere persoonsgegevens (o.a. gegevens m.b.t. ras of afkomst, religie, gezondheid of seksuele geaardheid), strafrechtelijke gegevens of nationale identificatienummers (o.a. BSN) is alleen toegestaan als hierop een wettelijke uitzondering van toepassing is.

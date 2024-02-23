@@ -1,6 +1,6 @@
 ---
 title: Transparantie
-summary: Hier staat een korte samenvatting over dit onderwerp
+icon: material/magnify
 ---
 
-Hier komt een beschrijving van dit bouwblok
+!!! note "status: dit bouwblok moet nog ontwikkeld worden"

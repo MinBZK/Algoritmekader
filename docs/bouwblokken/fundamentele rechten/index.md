@@ -1,6 +1,6 @@
 ---
-title: Duurzaamheid
-summary: Hier staat een korte samenvatting over dit onderwerp
+title: Fundamenetele rechten
+icon: material/scale-balance
 ---
 
-Hier komt een beschrijving van dit bouwblok
+!!! note "status: dit bouwblok moet nog ontwikkeld worden"

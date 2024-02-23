@@ -1,10 +1,11 @@
+---
+title: Het inkopen van algoritmen en kunstmatige intelligentie door overheidsinstellingen
+icon: material/cart
+---
+
 # Het inkopen van algoritmen en kunstmatige intelligentie door overheidsinstellingen
 
-!!! info "Disclaimer"
-
-    Het Algoritmekader is nog volop in ontwikkeling. Op deze plek willen we vooral aan de slag gaan op een open en transparante wijze. Het is dus niet definitief. Dat betekent dat er dingen opstaan die niet af zijn en soms zelfs fout. Mocht er iets niet kloppen, laat het ons weten via [GitHub](https://github.com/MinBZK/Algoritmekader).
-
-
+!!! note "status: dit bouwblok is in ontwikkeling"
 
 ## Levenscyclus
 
@@ -21,7 +22,6 @@
 
 
 ### Validatie
-
 
 
 ### Implementatie
@@ -59,19 +59,9 @@ Overzicht van welke rollen belangrijk zijn te betrekken bij dit bouwblok.
 
 ## Best practices
 
-
-!!! example "Voorbeeld"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
-    euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
-    purus auctor massa, nec semper lorem quam in massa.
-
-??? info "Meer weten?"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
-    euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
-    purus auctor massa, nec semper lorem quam in massa.
-
 ## Ervaringen
 
-Je kan ook dingen **dikgedrukt** maken. 
+!!! info "Disclaimer"
+
+    Het Algoritmekader is nog volop in ontwikkeling. Op deze plek willen we vooral aan de slag gaan op een open en transparante wijze. Het is dus niet definitief. Dat betekent dat er dingen opstaan die niet af zijn en soms zelfs fout. Mocht er iets niet kloppen, laat het ons weten via [GitHub](https://github.com/MinBZK/Algoritmekader).
+

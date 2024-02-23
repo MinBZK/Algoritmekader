@@ -10,19 +10,19 @@ theme:
     name: material
     language: nl
     palette:
-        primary: blue
+        - primary: blue
     features:
         - navigation.indexes
         - navigation.tabs
         - navigation.tabs.sticky
-        - navigation.path
         - navigation.top
         - navigation.tracking
-        # - navigation.footer
+        - navigation.instant
         - search.highlight
         - search.suggest
         - content.action.edit
         - content.tooltips
+        - content.tabs.link
     icon:
         logo: fontawesome/solid/house
         annotation: fontawesome/solid/circle-info
@@ -45,31 +45,27 @@ nav:
         - levenscyclus/archiveren.md
     - Bouwblokken:
         - bouwblokken/index.md
-        - Conformiteitsbeoordeling:
-            - bouwblokken/conformiteitsbeoordeling/index.md
-            - bouwblokken/conformiteitsbeoordeling/audit.md
-            - bouwblokken/conformiteitsbeoordeling/toezicht.md
-        - Data:
-            - bouwblokken/data/index.md
-            - bouwblokken/data/data kwaliteit.md
-            - bouwblokken/data/data governance.md
-        - Duurzaamheid:
-            - bouwblokken/duurzaamheid/index.md
         - Fundamentele rechten:
             - bouwblokken/fundamentele rechten/index.md
             - bouwblokken/fundamentele rechten/non-discriminatie.md
-        - Governance:
-          - bouwblokken/governance/index.md
-        - Inkoop:
-          - bouwblokken/inkoop/index.md
-        - Menselijke controle:
-          - bouwblokken/menselijke controle/index.md
+        - Publieke inkoop:
+            - bouwblokken/inkoop/index.md
         - Privacy en gegevensbescherming:
-          - bouwblokken/privacy en gegevensbescherming/index.md
-        - Technische robuustheid en veiligheid:
-          - bouwblokken/technische robuustheid en veiligheid/index.md
+            - bouwblokken/privacy en gegevensbescherming/index.md
         - Transparantie:
-          - bouwblokken/transparantie/index.md
+            - bouwblokken/transparantie/index.md
+        - Conformiteitsbeoordeling:
+            - bouwblokken/conformiteitsbeoordeling/index.md
+        - Data:
+            - bouwblokken/data/index.md
+        - Duurzaamheid:
+            - bouwblokken/duurzaamheid/index.md
+        - Governance:
+            - bouwblokken/governance/index.md
+        - Menselijke controle:
+            - bouwblokken/menselijke controle/index.md
+        - Technische robuustheid en veiligheid:
+            - bouwblokken/technische robuustheid en veiligheid/index.md
     - Normen:
         - normen/index.md
         - Conformiteitsbeoordeling:
@@ -143,6 +139,8 @@ markdown_extensions:
     - attr_list
     - abbr
     - md_in_html
+    - toc:
+        permalink: true
     - pymdownx.tasklist:
         custom_checkbox: true
     - pymdownx.emoji:
@@ -153,19 +151,22 @@ markdown_extensions:
             - includes/begrippenlijst.md
 
 # Extra opties voor footer
-extra:
-  social:
-    - icon: fontawesome/brands/github 
-      link: https://github.com/MinBZK/Algoritmekader
-
+extra: 
+    social:
+        - icon: fontawesome/brands/github 
+          link: https://github.com/MinBZK/Algoritmekader
+    status:
+        new: Deze pagina is in ontwikkeling
+        deprecated: Deze pagina wordt binnenkort verwijderd
+        todo: Dit bouwblok moet nog ontwikkeld worden
 
 plugins:
     - glightbox
     - search
     - git-revision-date-localized:
         enable_creation_date: true
-    - tags:
-        tags_file: tags.md
+    # - tags:
+        # tags_file: tags.md
 
 # Link naar GitHub repo (nu nog even mijn eigen repo)
 repo_url: https://github.com/MinBZK/Algoritmekader

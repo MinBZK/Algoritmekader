@@ -37,11 +37,9 @@ In dit overzicht wordt ook een suggestie gedaan waar in het proces van publieke 
 
 | **Norm**                                                                                                                  | **Uitleg**                  | **verplicht voor hoog-risico AI systemen (AI Act)** |    **verplicht voor impactvolle algoritmes**    | **verplicht voor niet-impactvolle algoritmes**  |
 |---------------------------------------------------------------------------------------------------------------------------|-----------------------------|:---------------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
-| [Continuïteit](../../normen/technische%20robuustheid%20en%20veiligheid/Algoritme%20continuïteit.md)                       | Korte uitleg over deze norm |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
-| [Betrouwbare uitkomsten](../../normen/technische%20robuustheid%20en%20veiligheid/Betrouwbare%20algoritme%20uitkomsten.md) |                             |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } |   :material-close:{ style="color: #EF5350" }    |
-| [Data is representatief](../../normen/technische%20robuustheid%20en%20veiligheid/Data%20is%20representatief.md)           |                             |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } |   :material-close:{ style="color: #EF5350" }    |
-| [Doel en keuze algoritme](../../normen/technische%20robuustheid%20en%20veiligheid/Doel%20en%20keuze%20algoritme.md)       |                             |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } |   :material-close:{ style="color: #EF5350" }    |
-| [Informatiebeveiliging](../../normen/technische%20robuustheid%20en%20veiligheid/Informatiebeveiliging.md)                 |                             |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
+| Transparantie                     | De werking van het algoritme en AI-systeem moet transparantie zijn |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
+
+
 ## Maatregelen
 Onderstaand bieden we een overzicht van alle normen die van toepassing zijn op data waaraan een overheidsorganisatie volgens geldende wet- en regelgeving aan moet voldoen bij het gebruik van algoritmes.
 

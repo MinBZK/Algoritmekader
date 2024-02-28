@@ -35,22 +35,13 @@ Dat kan betekenen dat opnieuw aan bepaalde normen moet worden getoetst. Bepaalde
 
 In dit overzicht wordt ook een suggestie gedaan waar in het proces van publieke inkoop deze normen het best kunnen worden geadresseerd. Voor het inkoopproces wordt aansluiting gezocht bij de uitwerking van PIANOo, het Expertisecentrum Aanbesteden van het ministerie van Economische Zaken en Klimaat. Hiervoor kan de volgende link worden geraadpleegd: https://www.pianoo.nl/nl/inkoopproces. 
 
-=== "Laag risico" 
-
-    | **Norm**                          | **Uitleg**                               | **Bron** | **Inkoopproces** |
-    |-----------------------------------|------------------------------------------|----------|------------------|
-    | [Norm 1](../../normen/transparantie/norm1.md)    | Korte uitleg over norm 1                |          |
-    | Norm 2                             | Korte uitleg over norm 2                |          |
-    
-=== "Hoog risico"
-
-    | **Norm**                          | **Uitleg**                               | **Bron** |
-    |-----------------------------------|------------------------------------------|----------|
-    | [Norm 1](../../normen/transparantie/norm1.md)    | Korte uitleg over norm 1                |          |
-    | Norm 2                             | Korte uitleg over norm 2                |          |
-    | Norm 3                             | Korte uitleg over norm 3                |          |
-    | Norm 4                             | Korte uitleg over norm 4                |          |
-
+| **Norm**                                                                                                                  | **Uitleg**                  | **verplicht voor hoog-risico AI systemen (AI Act)** |    **verplicht voor impactvolle algoritmes**    | **verplicht voor niet-impactvolle algoritmes**  |
+|---------------------------------------------------------------------------------------------------------------------------|-----------------------------|:---------------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
+| [Continuïteit](../../normen/technische%20robuustheid%20en%20veiligheid/Algoritme%20continuïteit.md)                       | Korte uitleg over deze norm |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
+| [Betrouwbare uitkomsten](../../normen/technische%20robuustheid%20en%20veiligheid/Betrouwbare%20algoritme%20uitkomsten.md) |                             |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } |   :material-close:{ style="color: #EF5350" }    |
+| [Data is representatief](../../normen/technische%20robuustheid%20en%20veiligheid/Data%20is%20representatief.md)           |                             |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } |   :material-close:{ style="color: #EF5350" }    |
+| [Doel en keuze algoritme](../../normen/technische%20robuustheid%20en%20veiligheid/Doel%20en%20keuze%20algoritme.md)       |                             |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } |   :material-close:{ style="color: #EF5350" }    |
+| [Informatiebeveiliging](../../normen/technische%20robuustheid%20en%20veiligheid/Informatiebeveiliging.md)                 |                             |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
 ## Maatregelen
 Onderstaand bieden we een overzicht van alle normen die van toepassing zijn op data waaraan een overheidsorganisatie volgens geldende wet- en regelgeving aan moet voldoen bij het gebruik van algoritmes.
 

@@ -28,7 +28,7 @@ In progress
 ## Maatregelen
 Onderstaand bieden we een overzicht van alle normen die van toepassing zijn op data waaraan een overheidsorganisatie volgens geldende wet- en regelgeving aan moet voldoen bij het gebruik van algoritmes.
 
-| **Norm**                                                                                                                  | **Uitleg**                  | **verplicht voor hoog-risico AI systemen (AI Act)** |    **verplicht voor impactvolle algoritmes**    | **verplicht voor niet-impactvolle algoritmes**  |
+| **Norm**                                                                                                                  | **Uitleg**                  | **Fase Algoritme Levenscyclus** |    **Inkoopproces**    | **verplicht voor niet-impactvolle algoritmes**  |
 |---------------------------------------------------------------------------------------------------------------------------|-----------------------------|:---------------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
 | [Continuïteit](../../normen/technische%20robuustheid%20en%20veiligheid/Algoritme%20continuïteit.md)                       | Korte uitleg over deze norm |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
 | [Betrouwbare uitkomsten](../../normen/technische%20robuustheid%20en%20veiligheid/Betrouwbare%20algoritme%20uitkomsten.md) |                             |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } |   :material-close:{ style="color: #EF5350" }    |

@@ -51,6 +51,13 @@ In dit overzicht wordt ook een suggestie gedaan waar in het proces van publieke 
     | Norm 3                             | Korte uitleg over norm 3                |          |
     | Norm 4                             | Korte uitleg over norm 4                |          |
 
+## Maatregelen
+Onderstaand bieden we een overzicht van alle normen die van toepassing zijn op data waaraan een overheidsorganisatie volgens geldende wet- en regelgeving aan moet voldoen bij het gebruik van algoritmes.
+
+| **Maatregelen bij norm: transparantie**                                                                                                                  | **Uitleg**                  | **Fase Algoritme Levenscyclus** |    **Inkoopproces**    | **Betrokken actoren**  |
+|---------------------------------------------------------------------------------------------------------------------------|-----------------------------|:---------------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
+| Verkrijgen van technische documentatie                      | Het is van belang dat informatie over het algoritme wordt vastlegd in documentatie, ten behoeve van controlerende taken en het aflegging van verantwoording |   Ontwikkel en validatiefase    | Contractbeheer | Data Engineer, Data Scientist, Product Owner, Contractbeheer |
+
 
 ## Rollen
 Overzicht van welke rollen belangrijk zijn te betrekken bij dit bouwblok. 

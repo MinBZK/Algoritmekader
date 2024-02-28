@@ -25,16 +25,6 @@ De inzichten uit de algoritme levenscyclus kunnen ondersteunen bij bijvoorbeeld 
  
 ## Normen
 
-Hieronder staat een overzicht van de normen die voortkomen uit wet- en regelgeving en van toepassing zijn bij publieke inkoop van software met algoritmen en AI. Het toepassen van deze normen kan op verschillende manieren plaatsvinden. Het is van belang om dit met de betrokken actoren per inkoopproces te verkennen. 
-Zo kan het afhankelijk van de specifieke toepassing noodzakelijk zijn om normen te concretiseren, bijvoorbeeld in een programma van eisen. De normen kunnen ook worden vertaald naar inkoopbeleid of contractuele voorwaarden. Hiermee worden ze generiek toepasbaar bij toekomstige aanbestedingen. 
-
-Contractmanagement activiteiten ten behoeve van naleving van deze normen in de uitvoeringsfase verdient in het bijzonder aandacht. Door technologische ontwikkelingen is het denkbaar dat leveranciers proactief hun dienstverlening (met nieuwe impactvolle algoritmen en AI) proberen te verbeteren. 
-Een andere situatie is het doorvoeren van wezenlijke wijzigingen, al dan niet op verzoek van opdrachtgever, aan de al ingekochte algoritmen en AI. 
-
-Dat kan betekenen dat opnieuw aan bepaalde normen moet worden getoetst. Bepaalde werkzaamheden moeten dan ook opnieuw worden uitgevoerd. Hierbij kan worden gedacht aan het uitvoeren van een bias analyse of het ondergaan van een conformiteitsbeoordeling als het gaat om hoge risico AI-systemen. Het is aannemelijk dat ook dit ook gevolgen heeft voor de activiteiten van de opdrachtgevende organisatie. 
-
-In dit overzicht wordt ook een suggestie gedaan waar in het proces van publieke inkoop deze normen het best kunnen worden geadresseerd. Voor het inkoopproces wordt aansluiting gezocht bij de uitwerking van PIANOo, het Expertisecentrum Aanbesteden van het ministerie van Economische Zaken en Klimaat. Hiervoor kan de volgende link worden geraadpleegd: https://www.pianoo.nl/nl/inkoopproces. 
-
 | **Norm**                                                                                                                  | **Uitleg**                  | **verplicht voor hoog-risico AI systemen (AI Act)** |    **verplicht voor impactvolle algoritmes**    | **verplicht voor niet-impactvolle algoritmes**  |
 |---------------------------------------------------------------------------------------------------------------------------|-----------------------------|:---------------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
 | Transparantie                     | De werking van het algoritme en AI-systeem moet transparantie zijn |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |

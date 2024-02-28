@@ -9,6 +9,7 @@ title: Rollen en verantwoordlijkheden
 
 
 ## Norm
+
 **Rollen en verantwoordlijkheden m.b.t. de verwerking van persoonsgegevens zijn gespecificeerd.**
 
 ## Risico
@@ -18,10 +19,11 @@ Rollen en verantwoordelijkheden m.b.t. de verwerking van persoonsgegeven in het 
 
 #### Wet- en regelgeving
 
-- [Algemene Verordening Gegevensbescherming (AVG)](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679&qid=1685451198313), artikel 24,26,27, 28,29 AVG
+- [Algemene Verordening Gegevensbescherming (AVG)](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679&qid=1685451198313), artikel 24, 26,27, 28, 29
 
 #### Toetsingskaders
 ADR PRI.1
+
 ARK 3.09
 
 ## Toelichting
@@ -32,12 +34,10 @@ Uw organisatie is een gezamenlijke verwerkingsverantwoordelijke als zij samen me
 De verwerker verwerkt persoonsgegevens uitsluitend ten behoeve van de verwerkingsverantwoordelijke. De taken van de verwerker jegens de verwerkingsverantwoordelijke moeten in een verwerkersovereenkomst of een andere rechtshandeling worden gespecificeerd.
 
 ## Maatregelen
- Ga van alle betrokken partijen na wat hun rol is en documenteer deze. Zorg ervoor dat met alle verwerkers een verwerkersovereenkomst is afgesloten. 
+Ga van alle betrokken partijen na wat hun rol is en documenteer deze. Zorg ervoor dat met alle verwerkers een verwerkersovereenkomst is afgesloten. 
 
 ## Rollen
 Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoering van deze norm. 
-
-
 
 ## Best practices
 

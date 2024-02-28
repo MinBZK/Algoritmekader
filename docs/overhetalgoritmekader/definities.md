@@ -2,16 +2,16 @@
 title: Definities
 ---
 
-Op deze pagina geven we een overzicht van definities die gehanteerd worden door het Algoritmekader. Deze definities komen overeen met de definities zoals die geformuleerd zijn voor het [Algoritmeregister](https://algoritmes.overheid.nl/nl). De informatie op deze pagina is afkomstig uit de [Handreiking Algoritmeregister](https://algoritmes.pleio.nl/attachment/entity/83fb2500-6b45-434d-93c9-7534e0b740b3).
+Welke definities gebruikt het Algoritmekader? Je vindt een overzicht op deze pagina. Deze definities komen overeen met de definities van het het [Algoritmeregister](https://algoritmes.overheid.nl/nl), zie daarvoor de [Handreiking Algoritmeregister](https://algoritmes.pleio.nl/attachment/entity/83fb2500-6b45-434d-93c9-7534e0b740b3).
+
+De meest belangrijke definities staan hieronder. Daarnaast heeft het Algoritmekader ook een eigen [begrippenlijst](https://github.com/MinBZK/Algoritmekader/blob/main/includes/abbreviations.md) bij. 
 
 ### Definitie van een algoritme
 Er zijn veel definities van een algoritme. Voor het algoritmekader hanteren we de definitie van de Algemene Rekenkamer:
 
 > 'Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden.’
 
-Dit is een brede definitie die de maximale reikwijdte weergeeft van algoritmes waarvoor het Algoritmekader relevant is. Waar de definitie van de Algemene
-Rekenkamer schrijft “om een probleem op te lossen of een vraag te beantwoorden”, verstaan we daar ook onder “om een taak of proces uit te voeren of tot
-een besluit te komen”. In het uitvoeren van een taak of het komen tot een besluit kunnen één of meer algoritmes voorkomen. Daarnaast hebben we het bij het Algoritmekader over zowel Artificiële Intelligentie (AI) als algoritmes. De essentie is dat AI is opgebouwd uit algoritmes. Maar niet alle algoritmes zijn AI. 
+Dit is een brede definitie die de maximale reikwijdte weergeeft van algoritmes waarvoor het Algoritmekader relevant is. Waar de definitie van de Algemene Rekenkamer schrijft “om een probleem op te lossen of een vraag te beantwoorden”, verstaan we daar ook onder “om een taak of proces uit te voeren of tot een besluit te komen”. In het uitvoeren van een taak of het komen tot een besluit kunnen één of meer algoritmes voorkomen. Daarnaast hebben we het bij het Algoritmekader over zowel Artificiële Intelligentie (AI) als algoritmes. De essentie is dat AI is opgebouwd uit algoritmes. Maar niet alle algoritmes zijn AI. 
 
 ![Infographic](5113 Infogr Relatie AI en algoritmes.jpg)
 

@@ -22,6 +22,7 @@ theme:
         - search.highlight
         - search.suggest
         - content.action.edit
+        - content.tooltips
     icon:
         logo: fontawesome/solid/house
         annotation: fontawesome/solid/circle-info
@@ -130,7 +131,6 @@ nav:
            - normen/transparantie/Motiveringsbeginsel.md
            - normen/transparantie/Traceerbaarheid.md
            - normen/transparantie/Algoritmeregister.md
-
     - Instrumenten: instrumenten/index.md
 
 # Extra opties
@@ -150,7 +150,7 @@ markdown_extensions:
         emoji_generator: !!python/name:material.extensions.emoji.to_svg
     - pymdownx.snippets:
         auto_append:
-            - includes/abbreviations.md
+            - includes/begrippenlijst.md
 
 # Extra opties voor footer
 extra:

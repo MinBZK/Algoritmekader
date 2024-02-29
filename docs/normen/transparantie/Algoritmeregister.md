@@ -32,8 +32,13 @@ Ontbreken transparantie voor burgers/bedrijven/stakeholders (belanghebbenden)
 ## Maatregelen
 Onderstaand overzicht laat zien welke denkbare maatregelen kunnen worden getroffen om te voldoen aan de normen. Deze maatregelen dienen ter inspiratie. Organisaties zullen zelf moeten bepalen of zij deze maatregelen toepassen. 
 
+
+Selecteer eerst de gebruikte techniek
+
 === "Rekenregels"
 
+    De maatregelen zijn afhankelijk van het risiconiveau van het algoritme. 
+    
     === "impactvol"
 
         | **Maatregelen bij norm: Transparantie** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |

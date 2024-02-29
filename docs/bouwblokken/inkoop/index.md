@@ -30,12 +30,13 @@ De inzichten uit de algoritme levenscyclus kunnen ondersteunen bij bijvoorbeeld 
 | Transparantie                     | De werking van het algoritme en AI-systeem moet transparant zijn |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
 
 
-## Maatregelen
-Onderstaand bieden we een overzicht van alle normen die van toepassing zijn op data waaraan een overheidsorganisatie volgens geldende wet- en regelgeving aan moet voldoen bij het gebruik van algoritmes.
-
-| **Maatregelen bij norm: transparantie**                                                                                                                  | **Uitleg**                  | **Fase Algoritme Levenscyclus** |    **Inkoopproces**    | **Betrokken actoren**  |
+| **Maatregelen bij norm: Transparantie**                                                                                                                  | **Uitleg**                  | **Fase Algoritme Levenscyclus** |    **Inkoopproces**    | **Betrokken actoren**  |
 |---------------------------------------------------------------------------------------------------------------------------|-----------------------------|:---------------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
-| Verkrijgen van technische documentatie                      | Het is van belang dat informatie over het algoritme wordt vastlegd in documentatie, ten behoeve van controlerende taken en het aflegging van verantwoording |   Ontwikkel en validatiefase    | Contractbeheer | Data Engineer, Data Scientist, Product Owner, Contractbeheer |
+| Bij de output van het algoritme moet waar mogelijk worden getoond welke variabelen een stuwend of dalend effect hebben gehad op de voorspelling. | Hiermee is het voor de gebruiker en belanghebbende inzichtelijker wat heeft bijgedragen aan een hogere of lagere voorspellende waarde. |  Ontwerp-, Ontwikkel-, Validatie- en Implementatiefase    | Selectiefase en Contractbeheer | Data Engineer, Data Scientist, Product Owner, Behoeftesteller, Inkoopadviseur en Contractbeheerder |
+| |                             |     |  |     |
+|          |                             |      |  |      |
+|     |                             |    |  |   |
+|             |                             |    |   |  |
 
 
 ## Rollen

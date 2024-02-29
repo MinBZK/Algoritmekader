@@ -26,15 +26,15 @@ In progress
 
 
 ## Maatregelen
-Onderstaand bieden we een overzicht van alle normen die van toepassing zijn op data waaraan een overheidsorganisatie volgens geldende wet- en regelgeving aan moet voldoen bij het gebruik van algoritmes.
+Onderstaand overzicht laat zien welke denkbare maatregelen kunnen worden getroffen om te voldoen aan de normen. Deze maatregelen dienen ter inspiratie. Organisaties zullen zelf moeten bepalen of zij deze maatregelen toepassen. 
 
-| **Maatregelen bij norm: transparante besluitvorming**                                                                                                                  | **Uitleg**                  | **Fase Algoritme Levenscyclus** |    **Inkoopproces**    | **Betrokken actoren**  |
+| **Denkbare maatregelen bij norm: transparante besluitvorming**                                                                                                                  | **Uitleg**                  | **Fase Algoritme Levenscyclus** |    **Inkoopproces**    | **Betrokken actoren**  |
 |---------------------------------------------------------------------------------------------------------------------------|-----------------------------|:---------------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
 | Bij de output van het model moet waar mogelijk worden getoond welke variabelen een stuwend of dalend effect hebben gehad op de voorspelling het model | Hiermee is het voor de gebruiker inzichtelijker wat heeft bijgedragen aan een hogere of lagere voorspellende waarde. |  Ontwerp-, Ontwikkel-, Validatie- en Implementatiefase    | Selectiefase en Contractbeheer | Data Engineer, Data Scientist, Product Owner, Behoeftesteller en Contractbeheer |
-| [Betrouwbare uitkomsten](../../normen/technische%20robuustheid%20en%20veiligheid/Betrouwbare%20algoritme%20uitkomsten.md) |                             |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } |   :material-close:{ style="color: #EF5350" }    |
-| [Data is representatief](../../normen/technische%20robuustheid%20en%20veiligheid/Data%20is%20representatief.md)           |                             |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } |   :material-close:{ style="color: #EF5350" }    |
-| [Doel en keuze algoritme](../../normen/technische%20robuustheid%20en%20veiligheid/Doel%20en%20keuze%20algoritme.md)       |                             |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } |   :material-close:{ style="color: #EF5350" }    |
-| [Informatiebeveiliging](../../normen/technische%20robuustheid%20en%20veiligheid/Informatiebeveiliging.md)                 |                             |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
+| |                             |     |  |     |
+|          |                             |      |  |      |
+|     |                             |    |  |   |
+|             |                             |    |   |  |
 
 
 ## Rollen

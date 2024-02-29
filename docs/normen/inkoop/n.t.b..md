@@ -30,7 +30,7 @@ Onderstaand overzicht laat zien welke denkbare maatregelen kunnen worden getroff
 
 | **Maatregelen bij norm: Transparante besluitvorming**                                                                                                                  | **Uitleg**                  | **Fase Algoritme Levenscyclus** |    **Inkoopproces**    | **Betrokken actoren**  |
 |---------------------------------------------------------------------------------------------------------------------------|-----------------------------|:---------------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
-| Bij de output van het algoritme moet waar mogelijk worden getoond welke variabelen een stuwend of dalend effect hebben gehad op de voorspelling. | Hiermee is het voor de gebruiker inzichtelijker wat heeft bijgedragen aan een hogere of lagere voorspellende waarde. |  Ontwerp-, Ontwikkel-, Validatie- en Implementatiefase    | Selectiefase en Contractbeheer | Data Engineer, Data Scientist, Product Owner, Behoeftesteller en Contractbeheer |
+| Bij de output van het algoritme moet waar mogelijk worden getoond welke variabelen een stuwend of dalend effect hebben gehad op de voorspelling. | Hiermee is het voor de gebruiker inzichtelijker wat heeft bijgedragen aan een hogere of lagere voorspellende waarde. |  Ontwerp-, Ontwikkel-, Validatie- en Implementatiefase    | Selectiefase en Contractbeheer | Data Engineer, Data Scientist, Product Owner, Behoeftestellerz, Inkoopadviseur en Contractbeheerder |
 | |                             |     |  |     |
 |          |                             |      |  |      |
 |     |                             |    |  |   |

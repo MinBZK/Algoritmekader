@@ -28,7 +28,7 @@ In progress
 ## Maatregelen
 Onderstaand overzicht laat zien welke denkbare maatregelen kunnen worden getroffen om te voldoen aan de normen. Deze maatregelen dienen ter inspiratie. Organisaties zullen zelf moeten bepalen of zij deze maatregelen toepassen. 
 
-| **Denkbare maatregelen bij norm: transparante besluitvorming**                                                                                                                  | **Uitleg**                  | **Fase Algoritme Levenscyclus** |    **Inkoopproces**    | **Betrokken actoren**  |
+| **Maatregelen bij norm: Transparante besluitvorming**                                                                                                                  | **Uitleg**                  | **Fase Algoritme Levenscyclus** |    **Inkoopproces**    | **Betrokken actoren**  |
 |---------------------------------------------------------------------------------------------------------------------------|-----------------------------|:---------------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
 | Bij de output van het model moet waar mogelijk worden getoond welke variabelen een stuwend of dalend effect hebben gehad op de voorspelling het model | Hiermee is het voor de gebruiker inzichtelijker wat heeft bijgedragen aan een hogere of lagere voorspellende waarde. |  Ontwerp-, Ontwikkel-, Validatie- en Implementatiefase    | Selectiefase en Contractbeheer | Data Engineer, Data Scientist, Product Owner, Behoeftesteller en Contractbeheer |
 | |                             |     |  |     |

@@ -8,7 +8,7 @@ title: Archiveren
     Het Algoritmekader is nog volop in ontwikkeling. Op deze plek willen we vooral aan de slag gaan op een open en transparante wijze. Het is dus niet definitief. Dat betekent dat er dingen opstaan die niet af zijn en soms zelfs fout. Mocht er iets niet kloppen, laat het ons weten via [GitHub](https://github.com/MinBZK/Algoritmekader).
 
 ## Eis
-# Algoritmen en AI-systemen, inclusief toelichting en bijbehorende documentatie worden bewaard conform de Archiefwet.
+# Algoritmen en AI-systemen, inclusief toelichting en bijbehorende documentatie worden bewaard en vernietigd conform de Archiefwet.
 
 | **Eis**                                                                                                                  | **Uitleg**                  | **verplicht voor hoog-risico AI systemen (AI Act)** |    **verplicht voor impactvolle algoritmes**    | **verplicht voor niet-impactvolle algoritmes**  |
 |---------------------------------------------------------------------------------------------------------------------------|-----------------------------|:---------------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
@@ -41,7 +41,7 @@ Selecteer eerst de gebruikte techniek
     
     === "impactvol"
 
-        | **Maatregelen bij norm: Technische documentatie** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
+        | **Maatregelen bij norm: Archiveren** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
         |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|
         |  De technische werking van het algoritme is beschreven in het Algoritmeregister | In het Algoritmeregister moeten impactvolle algoritmen worden opgenomen. Onderdeel hiervan is een beschrijving geven van de technische werking. | Validatie-, Implementatie en Monitoringsfase | Fase 3: Uitvoering opdracht: Contractbeheer | Product Owner, Data Scientist, Proceseigenaar, Functioneel Beheerder, Architect, leverancier |
 

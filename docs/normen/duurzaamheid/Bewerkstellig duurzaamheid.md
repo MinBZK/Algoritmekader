@@ -39,5 +39,89 @@ Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoeri
 
 ## Best practices
 
+De werking van het algoritme en AI-systeem moet transparant zijn
+Norm	Uitleg	verplicht voor hoog-risico AI systemen (AI Act)	verplicht voor impactvolle algoritmes	verplicht voor niet-impactvolle algoritmes
+De werking van het algoritme en AI-systeem moet transparant zijn		:material-check-bold:{ style="color: #4DB6AC" }	:material-check-bold:{ style="color: #4DB6AC" }	:material-close:{ style="color: #EF5350" }
+Risico
+Ontbreken transparantie voor burgers/bedrijven/stakeholders (belanghebbenden)
+
+Bronnen
+Wet- en regelgeving
+AI Act, artikel 60
+Toetsingskader
+EC/AI HLEG April 2019 - Hoofdstuk II.1.4
+ARK 2.23/2.07
+Standaarden
+Maatregelen
+Onderstaand overzicht laat zien welke denkbare maatregelen kunnen worden getroffen om te voldoen aan de normen. Deze maatregelen dienen ter inspiratie. Organisaties zullen zelf moeten bepalen of zij deze maatregelen toepassen.
+
+Selecteer eerst de gebruikte techniek
+
+=== "Rekenregels"
+
+De maatregelen zijn afhankelijk van het risiconiveau van het algoritme. 
+
+=== "impactvol"
+
+    | **Maatregelen bij norm: Transparantie** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
+    |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|
+    |                                         |            |                                 |                  |                       |
+    |                                         |            |                                 |                  |                       |
+
+=== "niet impactvol"
+
+    je hoeft niks te doen
+=== "Machine learning"
+
+=== "hoog risico AI Act"
+    
+    | **Maatregelen bij norm: Transparantie**                                                                                                          | **Uitleg**                                                                                                                             |            **Fase Algoritme Levenscyclus**            |        **Inkoopproces**        |                                       **Betrokken actoren**                                        |
+    |--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------:|:------------------------------:|:--------------------------------------------------------------------------------------------------:|
+    | Bij de output van het algoritme moet waar mogelijk worden getoond welke variabelen een stuwend of dalend effect hebben gehad op de voorspelling. | Hiermee is het voor de gebruiker en belanghebbende inzichtelijker wat heeft bijgedragen aan een hogere of lagere voorspellende waarde. | Ontwerp-, Ontwikkel-, Validatie- en Implementatiefase | Selectiefase en Contractbeheer | Data Engineer, Data Scientist, Product Owner, Behoeftesteller, Inkoopadviseur en Contractbeheerder |
+    |                                                                                                                                                  |                                                                                                                                        |                                                       |                                |                                                                                                    |
+
+=== "impactvol"
+
+    | **Maatregelen bij norm: Transparantie**                                                                                                          | **Uitleg**                                                                                                                             |            **Fase Algoritme Levenscyclus**            |        **Inkoopproces**        |                                       **Betrokken actoren**                                        |
+    |--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------:|:------------------------------:|:--------------------------------------------------------------------------------------------------:|
+    | Bij de output van het algoritme moet waar mogelijk worden getoond welke variabelen een stuwend of dalend effect hebben gehad op de voorspelling. | Hiermee is het voor de gebruiker en belanghebbende inzichtelijker wat heeft bijgedragen aan een hogere of lagere voorspellende waarde. | Ontwerp-, Ontwikkel-, Validatie- en Implementatiefase | Selectiefase en Contractbeheer | Data Engineer, Data Scientist, Product Owner, Behoeftesteller, Inkoopadviseur en Contractbeheerder |
+    |                                                                                                                                                  |                                                                                                                                        |                                                       |                                |                                                                                                    |
+
+=== "niet impactvol"
+    
+    | **Maatregelen bij norm: Transparantie** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
+    |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|
+    |                                         |            |                                 |                  |                       |
+    |                                         |            |                                 |                  |                       |
+=== "Generatieve AI"
+
+=== "hoog risico AI"
+
+    | **Maatregelen bij norm: Transparantie** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
+    |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|
+    |                                         |            |                                 |                  |                       |
+    |                                         |            |                                 |                  |                       |
+
+=== "impactvol"
+
+    | **Maatregelen bij norm: Transparantie** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
+    |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|
+    |                                         |            |                                 |                  |                       |
+    |                                         |            |                                 |                  |                       |
+
+=== "niet impactvol"
+
+    | **Maatregelen bij norm: Transparantie** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
+    |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|
+    |                                         |            |                                 |                  |                       |
+    |                                         |            |                                 |                  |                       |
+Toelichting
+
+
+Maatregelen
+
+
+
+
 
 

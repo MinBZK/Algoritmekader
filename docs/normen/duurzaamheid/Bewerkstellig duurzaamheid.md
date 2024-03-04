@@ -63,7 +63,7 @@ De maatregelen zijn afhankelijk van het risiconiveau van het algoritme.
     
 === "impactvol"
 
-   | **Maatregelen bij norm: Duurzaamheid ** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
+    | **Maatregelen bij norm: Duurzaamheid ** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
     |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|
     | Uitvoeren impactanalyse | Inventariseer de impact op het milieu en neem deze mee bij de modelkeuze en ontwikkeling. Maak de consequentie expliciet en leg deze op het juiste niveau vast. Neem indien nodig tegenmaatregelen. Een ultimate tegenmaatregel kan zijn het (tijdelijk) stopzetten van het algoritme. | Ontwerp-, Ontwikkel-, Validatie en Monitoringsfase | Fase 1 Voorbereidende fase: Inkoopstrategie, Beleidsdoelen bij opdracht en specificeren. Fase 3: Uitvoeren Opdracht:  | Duurzaamheidsadviseur, Data Scientist, Data Engineer, Beleidsmedewerker |
     | Maak duurzaamheidsafwegingen onderdeel van make-or-buy beslissingen |            |                                 |                  |                       |

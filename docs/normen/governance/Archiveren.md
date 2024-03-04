@@ -65,7 +65,7 @@ Selecteer eerst de gebruikte techniek
 
     === "niet impactvol"
         
-        | **Maatregelen bij norm: Technische documentatie** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
+        | **Maatregelen bij norm: Archiveren** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
         |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|
         | Er hoeven geen maatregelen te worden getroffen. |           |                                 |                  |                       |
 
@@ -74,17 +74,17 @@ Selecteer eerst de gebruikte techniek
 
     === "hoog risico AI"
 
-        | **Maatregelen bij norm: Technische documentatie** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
+        | **Maatregelen bij norm: Archiveren** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
         |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|
         |  |   |  | |  |  
 
     === "impactvol"
 
-        | **Maatregelen bij norm: Technische documentatie** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
+        | **Maatregelen bij norm: Archiveren** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
         |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|
         |   |  | |  |  |
 
-        | **Maatregelen bij norm: Technische documentatie** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
+        | **Maatregelen bij norm: Archiveren** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
         |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|
         |  Er hoeven geen maatregelen te worden getroffen |            |                                 |                  |                       |
         |                                         |            |                                 |                  |                       |

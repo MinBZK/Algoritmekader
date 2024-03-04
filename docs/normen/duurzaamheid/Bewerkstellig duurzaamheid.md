@@ -31,27 +31,8 @@ AI-systemen moeten worden ontwikkeld en gebruikt op een duurzame en milieuvriend
 
 ## Maatregelen
 Aanbeveling; geen maatregel:
-Inventariseer de impact op het milieu en neem deze mee bij de modelkeuze en ontwikkeling. Maak de consequentie expliciet en leg deze op het juiste niveau vast. Neem indien nodig tegenmaatregelen. Een ultimate tegenmaatregel kan zijn het (tijdelijk) stopzetten van het algoritme.
-
-## Rollen
-Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoering van deze norm. 
 
 
-## Best practices
-
-De werking van het algoritme en AI-systeem moet transparant zijn
-Norm	Uitleg	verplicht voor hoog-risico AI systemen (AI Act)	verplicht voor impactvolle algoritmes	verplicht voor niet-impactvolle algoritmes
-De werking van het algoritme en AI-systeem moet transparant zijn		:material-check-bold:{ style="color: #4DB6AC" }	:material-check-bold:{ style="color: #4DB6AC" }	:material-close:{ style="color: #EF5350" }
-Risico
-Ontbreken transparantie voor burgers/bedrijven/stakeholders (belanghebbenden)
-
-Bronnen
-Wet- en regelgeving
-AI Act, artikel 60
-Toetsingskader
-EC/AI HLEG April 2019 - Hoofdstuk II.1.4
-ARK 2.23/2.07
-Standaarden
 Maatregelen
 Onderstaand overzicht laat zien welke denkbare maatregelen kunnen worden getroffen om te voldoen aan de normen. Deze maatregelen dienen ter inspiratie. Organisaties zullen zelf moeten bepalen of zij deze maatregelen toepassen.
 
@@ -63,14 +44,15 @@ De maatregelen zijn afhankelijk van het risiconiveau van het algoritme.
 
 === "impactvol"
 
-    | **Maatregelen bij norm: Transparantie** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
+    | **Maatregelen bij norm: Duurzaamheid** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
     |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|
-    |                                         |            |                                 |                  |                       |
-    |                                         |            |                                 |                  |                       |
+    | Uitvoeren impactanalyse | Inventariseer de impact op het milieu en neem deze mee bij de modelkeuze en ontwikkeling. Maak de consequentie expliciet en leg deze op het juiste niveau vast. Neem indien nodig tegenmaatregelen. Een ultimate tegenmaatregel kan zijn het (tijdelijk) stopzetten van het algoritme. | Ontwerp-, Ontwikkel-, Validatie en Monitoringsfase | Fase 1 Voorbereidende fase: Inkoopstrategie, Beleidsdoelen bij opdracht en specificeren. Fase 3: Uitvoeren Opdracht:  | Duurzaamheidsadviseur, Data Scientist, Data Engineer, Beleidsmedewerker |
+    | Maak duurzaamheidsafwegingen onderdeel van make-or-buy beslissingen |            |                                 |                  |                       |
 
 === "niet impactvol"
 
-    je hoeft niks te doen
+    Er hoeven geen maatregelen te worden getroffen. 
+    
 === "Machine learning"
 
 === "hoog risico AI Act"

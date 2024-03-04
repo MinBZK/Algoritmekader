@@ -105,7 +105,7 @@ Selecteer eerst de gebruikte techniek
 
 
 ## Best practices
-Voorbeeld toevoegen van hoe er in een brief aan een burger verwezen wordt naar het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
+
 
 
 

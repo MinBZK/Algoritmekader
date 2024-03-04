@@ -43,7 +43,7 @@ Selecteer eerst de gebruikte techniek
 
         | **Maatregelen bij norm: Archiveren** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
         |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|
-        |   |  | |  |  |
+        | Bepalen welke informatie moet worden aangemerkt als archiefbescheiden en voor welke termijn deze moeten worden bewaard | Hierbij kan worden gedacht aan de broncode, trainings- en testdata, (technische)documentatie of de output | Ontwikkel-, Validatie, Implementatie, Archiveren | Fase 3: Uitvoeren opdracht: Contractbeheer | Informatieadviseur, Data Scientist, Proceseigenaar, Privacy Officer |
 
     === "niet impactvol"
 
@@ -56,12 +56,12 @@ Selecteer eerst de gebruikte techniek
         
         | **Maatregelen bij norm: Archiveren**                                                                                                          | **Uitleg**                                                                                                                             |            **Fase Algoritme Levenscyclus**            |        **Inkoopproces**        |                                       **Betrokken actoren**                                        |
         |--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------:|:------------------------------:|:--------------------------------------------------------------------------------------------------:|
-           |   |  | |  |  |                                                                                                                                                                       
+          | Bepalen welke informatie moet worden aangemerkt als archiefbescheiden en voor welke termijn deze moeten worden bewaard | Hierbij kan worden gedacht aan de broncode, trainings- en testdata, (technische)documentatie of de output | Ontwikkel-, Validatie, Implementatie, Archiveren | Fase 3: Uitvoeren opdracht: Contractbeheer | Informatieadviseur, Data Scientist, Proceseigenaar, Privacy Officer |                                                                                                                                                                      
 
     === "impactvol"
 
         | **Maatregelen bij norm: Archiveren**                                                                                                          | **Uitleg**                                                                                                                             |            **Fase Algoritme Levenscyclus**            |        **Inkoopproces**        |                                       **Betrokken actoren**                             |--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------:|:------------------------------:|:--------------------------------------------------------------------------------------------------:|
-          |   |  | |  |  |                                                                  
+         | Bepalen welke informatie moet worden aangemerkt als archiefbescheiden en voor welke termijn deze moeten worden bewaard | Hierbij kan worden gedacht aan de broncode, trainings- en testdata, (technische)documentatie of de output | Ontwikkel-, Validatie, Implementatie, Archiveren | Fase 3: Uitvoeren opdracht: Contractbeheer | Informatieadviseur, Data Scientist, Proceseigenaar, Privacy Officer |                                                                  
 
     === "niet impactvol"
         
@@ -76,13 +76,13 @@ Selecteer eerst de gebruikte techniek
 
         | **Maatregelen bij norm: Archiveren** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
         |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|
-        |  |   |  | |  |  
+        | Bepalen welke informatie moet worden aangemerkt als archiefbescheiden en voor welke termijn deze moeten worden bewaard | Hierbij kan worden gedacht aan de broncode, trainings- en testdata, (technische)documentatie of de output | Ontwikkel-, Validatie, Implementatie, Archiveren | Fase 3: Uitvoeren opdracht: Contractbeheer | Informatieadviseur, Data Scientist, Proceseigenaar, Privacy Officer |
 
     === "impactvol"
 
         | **Maatregelen bij norm: Archiveren** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
         |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|
-        |   |  | |  |  |
+        | Bepalen welke informatie moet worden aangemerkt als archiefbescheiden en voor welke termijn deze moeten worden bewaard | Hierbij kan worden gedacht aan de broncode, trainings- en testdata, (technische)documentatie of de output | Ontwikkel-, Validatie, Implementatie, Archiveren | Fase 3: Uitvoeren opdracht: Contractbeheer | Informatieadviseur, Data Scientist, Proceseigenaar, Privacy Officer |
 
         | **Maatregelen bij norm: Archiveren** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
         |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|

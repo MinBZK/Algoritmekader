@@ -62,8 +62,8 @@ Selecteer eerst de gebruikte techniek
         
         | **Maatregelen bij norm: Technische documentatie**                                                                                                          | **Uitleg**                                                                                                                             |            **Fase Algoritme Levenscyclus**            |        **Inkoopproces**        |                                       **Betrokken actoren**                                        |
         |--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------:|:------------------------------:|:--------------------------------------------------------------------------------------------------:|
-        | Bij de output van het algoritme moet waar mogelijk worden getoond welke variabelen een stuwend of dalend effect hebben gehad op de voorspelling. | Hiermee is het voor de gebruiker en belanghebbende inzichtelijker wat heeft bijgedragen aan een hogere of lagere voorspellende waarde. | Ontwerp-, Ontwikkel-, Validatie- en Implementatiefase | Selectiefase en Contractbeheer | Data Engineer, Data Scientist, Product Owner, Behoeftesteller, Inkoopadviseur en Contractbeheerder |
-        |                                                                                                                                                  |                                                                                                                                        |                                                       |                                |                                                                                                    |
+        Informatie over het AI-systeem is uitgewerkt conform bijlage IV AI-verordening. Deze informatie wordt periodiek bijgewerkt. | Bijlage IV bevat de aspecten die minimaal beschreven moeten worden als het gaat om hoge risico AI-systemen. | Ontwikkel-, Validatie, Implementatie en Monitoringsfase. | Fase 1: Voorbereiding opdracht: Specificeren, Fase 3: Uitvoeren opdracht Contractbeheer | Product Owner, Data Scientist, Proceseigenaar, Functioneel Beheerder, Architect |
+                                                                                                                                                                                         
 
     === "impactvol"
 
@@ -84,7 +84,7 @@ Selecteer eerst de gebruikte techniek
 
         | **Maatregelen bij norm: Technische documentatie** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
         |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|
-        |                                         |            |                                 |                  |                       |
+        | Informatie over het AI-systeem is uitgewerkt conform bijlage IV AI-verordening. Deze informatie wordt periodiek bijgewerkt. | Bijlage IV bevat de aspecten die minimaal beschreven moeten worden als het gaat om hoge risico AI-systemen. | Ontwikkel-, Validatie, Implementatie en Monitoringsfase. | Fase 1: Voorbereiding opdracht: Specificeren, Fase 3: Uitvoeren opdracht Contractbeheer | Product Owner, Data Scientist, Proceseigenaar, Functioneel Beheerder, Architect |
         |                                         |            |                                 |                  |                       |
 
     === "impactvol"

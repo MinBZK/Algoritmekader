@@ -57,39 +57,37 @@ De maatregelen zijn afhankelijk van het risiconiveau van het algoritme.
 
 === "hoog risico AI Act"
     
-    | **Maatregelen bij norm: Transparantie**                                                                                                          | **Uitleg**                                                                                                                             |            **Fase Algoritme Levenscyclus**            |        **Inkoopproces**        |                                       **Betrokken actoren**                                        |
-    |--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------:|:------------------------------:|:--------------------------------------------------------------------------------------------------:|
-    | Bij de output van het algoritme moet waar mogelijk worden getoond welke variabelen een stuwend of dalend effect hebben gehad op de voorspelling. | Hiermee is het voor de gebruiker en belanghebbende inzichtelijker wat heeft bijgedragen aan een hogere of lagere voorspellende waarde. | Ontwerp-, Ontwikkel-, Validatie- en Implementatiefase | Selectiefase en Contractbeheer | Data Engineer, Data Scientist, Product Owner, Behoeftesteller, Inkoopadviseur en Contractbeheerder |
-    |                                                                                                                                                  |                                                                                                                                        |                                                       |                                |                                                                                                    |
-
+    | **Maatregelen bij norm: Duurzaamheid**                                                                                                          | **Uitleg**                                                                                                                             |            **Fase Algoritme Levenscyclus**            |        **Inkoopproces**        |                                       **Betrokken actoren**                                        |
+    | Uitvoeren impactanalyse | Inventariseer de impact op het milieu en neem deze mee bij de modelkeuze en ontwikkeling. Maak de consequentie expliciet en leg deze op het juiste niveau vast. Neem indien nodig tegenmaatregelen. Een ultimate tegenmaatregel kan zijn het (tijdelijk) stopzetten van het algoritme. | Ontwerp-, Ontwikkel-, Validatie en Monitoringsfase | Fase 1 Voorbereidende fase: Inkoopstrategie, Beleidsdoelen bij opdracht en specificeren. Fase 3: Uitvoeren Opdracht:  | Duurzaamheidsadviseur, Data Scientist, Data Engineer, Beleidsmedewerker |
+    | Maak duurzaamheidsafwegingen onderdeel van make-or-buy beslissingen |            |                                 |                  |                       |
+    
 === "impactvol"
 
-    | **Maatregelen bij norm: Transparantie**                                                                                                          | **Uitleg**                                                                                                                             |            **Fase Algoritme Levenscyclus**            |        **Inkoopproces**        |                                       **Betrokken actoren**                                        |
-    |--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------:|:------------------------------:|:--------------------------------------------------------------------------------------------------:|
-    | Bij de output van het algoritme moet waar mogelijk worden getoond welke variabelen een stuwend of dalend effect hebben gehad op de voorspelling. | Hiermee is het voor de gebruiker en belanghebbende inzichtelijker wat heeft bijgedragen aan een hogere of lagere voorspellende waarde. | Ontwerp-, Ontwikkel-, Validatie- en Implementatiefase | Selectiefase en Contractbeheer | Data Engineer, Data Scientist, Product Owner, Behoeftesteller, Inkoopadviseur en Contractbeheerder |
-    |                                                                                                                                                  |                                                                                                                                        |                                                       |                                |                                                                                                    |
-
+    | **Maatregelen bij norm: Duurzaamheid**                                                                                                          | **Uitleg**                                                                                                                             |            **Fase Algoritme Levenscyclus**            |        **Inkoopproces**        |                                       **Betrokken actoren**                                        |
+   | Uitvoeren impactanalyse | Inventariseer de impact op het milieu en neem deze mee bij de modelkeuze en ontwikkeling. Maak de consequentie expliciet en leg deze op het juiste niveau vast. Neem indien nodig tegenmaatregelen. Een ultimate tegenmaatregel kan zijn het (tijdelijk) stopzetten van het algoritme. | Ontwerp-, Ontwikkel-, Validatie en Monitoringsfase | Fase 1 Voorbereidende fase: Inkoopstrategie, Beleidsdoelen bij opdracht en specificeren. Fase 3: Uitvoeren Opdracht:  | Duurzaamheidsadviseur, Data Scientist, Data Engineer, Beleidsmedewerker |
+    | Maak duurzaamheidsafwegingen onderdeel van make-or-buy beslissingen |            |                                 |                  |                       |
+                                                                                                 
 === "niet impactvol"
     
-    | **Maatregelen bij norm: Transparantie** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
+    | **Maatregelen bij norm: Duurzaamheid** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
     |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|
     |                                         |            |                                 |                  |                       |
     |                                         |            |                                 |                  |                       |
+
 === "Generatieve AI"
 
 === "hoog risico AI"
 
     | **Maatregelen bij norm: Transparantie** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
     |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|
-    |                                         |            |                                 |                  |                       |
-    |                                         |            |                                 |                  |                       |
+    | Uitvoeren impactanalyse | Inventariseer de impact op het milieu en neem deze mee bij de modelkeuze en ontwikkeling. Maak de consequentie expliciet en leg deze op het juiste niveau vast. Neem indien nodig tegenmaatregelen. Een ultimate tegenmaatregel kan zijn het (tijdelijk) stopzetten van het algoritme. | Ontwerp-, Ontwikkel-, Validatie en Monitoringsfase | Fase 1 Voorbereidende fase: Inkoopstrategie, Beleidsdoelen bij opdracht en specificeren. Fase 3: Uitvoeren Opdracht:  | Duurzaamheidsadviseur, Data Scientist, Data Engineer, Beleidsmedewerker |
+    | Maak duurzaamheidsafwegingen onderdeel van make-or-buy beslissingen |            |                                 |                  |                       |
 
 === "impactvol"
 
     | **Maatregelen bij norm: Transparantie** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
-    |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|
-    |                                         |            |                                 |                  |                       |
-    |                                         |            |                                 |                  |                       |
+      | Uitvoeren impactanalyse | Inventariseer de impact op het milieu en neem deze mee bij de modelkeuze en ontwikkeling. Maak de consequentie expliciet en leg deze op het juiste niveau vast. Neem indien nodig tegenmaatregelen. Een ultimate tegenmaatregel kan zijn het (tijdelijk) stopzetten van het algoritme. | Ontwerp-, Ontwikkel-, Validatie en Monitoringsfase | Fase 1 Voorbereidende fase: Inkoopstrategie, Beleidsdoelen bij opdracht en specificeren. Fase 3: Uitvoeren Opdracht:  | Duurzaamheidsadviseur, Data Scientist, Data Engineer, Beleidsmedewerker |
+    | Maak duurzaamheidsafwegingen onderdeel van make-or-buy beslissingen |            |                                 |                  |                       |
 
 === "niet impactvol"
 
@@ -97,10 +95,7 @@ De maatregelen zijn afhankelijk van het risiconiveau van het algoritme.
     |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|
     |                                         |            |                                 |                  |                       |
     |                                         |            |                                 |                  |                       |
-Toelichting
 
-
-Maatregelen
 
 
 

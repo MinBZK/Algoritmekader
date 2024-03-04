@@ -7,41 +7,12 @@ title: Archiveren
 
     Het Algoritmekader is nog volop in ontwikkeling. Op deze plek willen we vooral aan de slag gaan op een open en transparante wijze. Het is dus niet definitief. Dat betekent dat er dingen opstaan die niet af zijn en soms zelfs fout. Mocht er iets niet kloppen, laat het ons weten via [GitHub](https://github.com/MinBZK/Algoritmekader).
 
-
 ## Eis
-**Overheidsorganen zijn verplicht de onder hen berustende archiefbescheiden, waaronder algoritmen, AI-systemen en bijbehorende bescheiden, in goede, geordende en toegankelijke staat te brengen en te bewaren, alsmede zorg te dragen voor de vernietiging van de daarvoor in aanmerking komende archiefbescheiden**
-
-## Risico
-In progress
-
-## Bronnen
-
-#### Wet- en regelgeving
-Artikel 3 Archiefwet
-
-#### Toetsingskaders
-
-
-## Toelichting
-Algoritmes die een organisatie gebruikt, dienen bewaard te worden, omdat daarin is vastgelegd waarop de geautomatiseerde besluitvorming van de organisatie gebaseerd is. Om de besluiten van een organisatie goed te kunnen verantwoorden, is het nodig dat de onderliggende algoritmes inclusief toelichting en bijbehorende documentatie worden bewaard
-
-## Maatregelen
-
-## Rollen
-Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoering van deze norm. 
-
-
-
-## Best practices
-
-## Eis
-**Overheidsorganen zijn verplicht de onder hen berustende archiefbescheiden, waaronder algoritmen, AI-systemen en bijbehorende bescheiden, in goede, geordende en toegankelijke staat te brengen en te bewaren, alsmede zorg te dragen voor de vernietiging van de daarvoor in aanmerking komende archiefbescheiden**
-
-# Algoritmen en AI-systemen, inclusief toelichting en bijbehorende documentatie worden bewaard.
+# Algoritmen en AI-systemen, inclusief toelichting en bijbehorende documentatie worden bewaard conform de Archiefwet.
 
 | **Eis**                                                                                                                  | **Uitleg**                  | **verplicht voor hoog-risico AI systemen (AI Act)** |    **verplicht voor impactvolle algoritmes**    | **verplicht voor niet-impactvolle algoritmes**  |
 |---------------------------------------------------------------------------------------------------------------------------|-----------------------------|:---------------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
-| Aantoonbare werking van het algoritmen of AI-systeem | Technische documentatie of de technische werking vab algoritmen en AI moet worden opgesteld. Op deze manier wordt aangetoont dat algoritmen of AI voldoen aan de eisen, en de nationale toezichthoudende autoriteiten en aangemelde instanties voorzien van de nodige informatie om de naleving van de eisen te beoordelen |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-close:{ style="color: #EF5350" } |
+| Algoritmen en AI-systemen, inclusief toelichting en bijbehorende documentatie worden bewaard conform de Archiefwet | Overheidsorganen zijn verplicht de onder hen berustende archiefbescheiden, waaronder algoritmen, AI-systemen en bijbehorende bescheiden, in goede, geordende en toegankelijke staat te brengen en te bewaren, alsmede zorg te dragen voor de vernietiging van de daarvoor in aanmerking komende archiefbescheiden |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-close:{ style="color: #EF5350" } |
 
 
 ## Risico

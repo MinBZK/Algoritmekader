@@ -18,8 +18,6 @@ title: Aantoonbaarheid
 | Technische documentatie moet worden opgesteld | Technische documentatie moet worden opgesteld op een manier die aantoont dat het hoog risico AI-systeem voldoet aan de eisen, en de nationale toezichthoudende autoriteiten en aangemelde instanties voorzien van de nodige informatie om de naleving van de eisen voor het AI-systeem te beoordelen |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-close:{ style="color: #EF5350" } |
 
 
-
-
 ## Risico
 In progress
 
@@ -36,14 +34,73 @@ In progress
 #### Standaarden
 
 
-## Toelichting
-
-
 ## Maatregelen
-Hierbij kan verwezen worden naar informatie over het algoritme in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). 
+Onderstaand overzicht laat zien welke denkbare maatregelen kunnen worden getroffen om te voldoen aan de normen. Deze maatregelen dienen ter inspiratie. Organisaties zullen zelf moeten bepalen of zij deze maatregelen toepassen. 
 
-## Rollen
-Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoering van deze norm. 
+
+Selecteer eerst de gebruikte techniek
+
+=== "Rekenregels"
+
+    De maatregelen zijn afhankelijk van het risiconiveau van het algoritme. 
+    
+    === "impactvol"
+
+        | **Maatregelen bij norm: Transparantie** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
+        |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|
+        |                                         |            |                                 |                  |                       |
+        |                                         |            |                                 |                  |                       |
+
+    === "niet impactvol"
+
+        je hoeft niks te doen
+
+    
+=== "Machine learning"
+
+    === "hoog risico AI Act"
+        
+        | **Maatregelen bij norm: Transparantie**                                                                                                          | **Uitleg**                                                                                                                             |            **Fase Algoritme Levenscyclus**            |        **Inkoopproces**        |                                       **Betrokken actoren**                                        |
+        |--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------:|:------------------------------:|:--------------------------------------------------------------------------------------------------:|
+        | Bij de output van het algoritme moet waar mogelijk worden getoond welke variabelen een stuwend of dalend effect hebben gehad op de voorspelling. | Hiermee is het voor de gebruiker en belanghebbende inzichtelijker wat heeft bijgedragen aan een hogere of lagere voorspellende waarde. | Ontwerp-, Ontwikkel-, Validatie- en Implementatiefase | Selectiefase en Contractbeheer | Data Engineer, Data Scientist, Product Owner, Behoeftesteller, Inkoopadviseur en Contractbeheerder |
+        |                                                                                                                                                  |                                                                                                                                        |                                                       |                                |                                                                                                    |
+
+    === "impactvol"
+
+        | **Maatregelen bij norm: Transparantie**                                                                                                          | **Uitleg**                                                                                                                             |            **Fase Algoritme Levenscyclus**            |        **Inkoopproces**        |                                       **Betrokken actoren**                                        |
+        |--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------:|:------------------------------:|:--------------------------------------------------------------------------------------------------:|
+        | Bij de output van het algoritme moet waar mogelijk worden getoond welke variabelen een stuwend of dalend effect hebben gehad op de voorspelling. | Hiermee is het voor de gebruiker en belanghebbende inzichtelijker wat heeft bijgedragen aan een hogere of lagere voorspellende waarde. | Ontwerp-, Ontwikkel-, Validatie- en Implementatiefase | Selectiefase en Contractbeheer | Data Engineer, Data Scientist, Product Owner, Behoeftesteller, Inkoopadviseur en Contractbeheerder |
+        |                                                                                                                                                  |                                                                                                                                        |                                                       |                                |                                                                                                    |
+
+    === "niet impactvol"
+        
+        | **Maatregelen bij norm: Transparantie** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
+        |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|
+        |                                         |            |                                 |                  |                       |
+        |                                         |            |                                 |                  |                       |
+=== "Generatieve AI"
+
+    === "hoog risico AI"
+
+        | **Maatregelen bij norm: Transparantie** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
+        |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|
+        |                                         |            |                                 |                  |                       |
+        |                                         |            |                                 |                  |                       |
+
+    === "impactvol"
+
+        | **Maatregelen bij norm: Transparantie** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
+        |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|
+        |                                         |            |                                 |                  |                       |
+        |                                         |            |                                 |                  |                       |
+
+    === "niet impactvol"
+
+        | **Maatregelen bij norm: Transparantie** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
+        |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|
+        |                                         |            |                                 |                  |                       |
+        |                                         |            |                                 |                  |                       |
+
 
 
 

@@ -16,7 +16,7 @@ title: Archiveren
 
 
 ## Risico
-In progress
+Zonder goede toepassing van de Archiefwet is het voor betrokkene(n) of derden niet mogelijk om achteraf te controleren wat de werking van algoritmen en AI-systemen was. 
 
 ## Bronnen
 

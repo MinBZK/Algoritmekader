@@ -23,7 +23,7 @@ Artikel 3 Archiefwet
 
 
 ## Toelichting
-
+Algoritmes die een organisatie gebruikt, dienen bewaard te worden, omdat daarin is vastgelegd waarop de geautomatiseerde besluitvorming van de organisatie gebaseerd is. Om de besluiten van een organisatie goed te kunnen verantwoorden, is het nodig dat de onderliggende algoritmes inclusief toelichting en bijbehorende documentatie worden bewaard
 
 ## Maatregelen
 

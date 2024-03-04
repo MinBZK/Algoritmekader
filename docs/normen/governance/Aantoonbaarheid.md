@@ -75,8 +75,9 @@ Selecteer eerst de gebruikte techniek
         
         | **Maatregelen bij norm: Technische documentatie** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
         |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|
-        |                                         |            |                                 |                  |                       |
-        |                                         |            |                                 |                  |                       |
+        | Er hoeven geen maatregelen te worden getroffen. |           |                                 |                  |                       |
+
+       
 === "Generatieve AI"
 
     === "hoog risico AI"
@@ -95,7 +96,7 @@ Selecteer eerst de gebruikte techniek
 
         | **Maatregelen bij norm: Technische documentatie** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
         |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|
-        |                                         |            |                                 |                  |                       |
+        |  Er hoeven geen maatregelen te worden getroffen |            |                                 |                  |                       |
         |                                         |            |                                 |                  |                       |
 
 

@@ -15,7 +15,7 @@ title: Aantoonbaarheid
 
 | **Norm**                                                                                                                  | **Uitleg**                  | **verplicht voor hoog-risico AI systemen (AI Act)** |    **verplicht voor impactvolle algoritmes**    | **verplicht voor niet-impactvolle algoritmes**  |
 |---------------------------------------------------------------------------------------------------------------------------|-----------------------------|:---------------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
-| Technische documentatie moet worden opgesteld | Technische documentatie moet worden opgesteld op een manier die aantoont dat het hoog risico AI-systeem voldoet aan de eisen, en de nationale toezichthoudende autoriteiten en aangemelde instanties voorzien van de nodige informatie om de naleving van de eisen voor het AI-systeem te beoordelen |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-close:{ style="color: #EF5350" } |
+| Aantoonbare werking van het algoritmen of AI-systeem | Technische documentatie moet worden opgesteld op een manier die aantoont dat het hoog risico AI-systeem voldoet aan de eisen, en de nationale toezichthoudende autoriteiten en aangemelde instanties voorzien van de nodige informatie om de naleving van de eisen voor het AI-systeem te beoordelen |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-close:{ style="color: #EF5350" } |
 
 
 ## Risico

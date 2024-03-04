@@ -11,7 +11,7 @@ title: Aantoonbaarheid
 ## Eis
 **.**
 
-# De werking van het algoritmen of AI-systeem is aantoonbaar
+# De werking van het algoritmen of AI-systeem is aantoonbaar.
 
 | **Eis**                                                                                                                  | **Uitleg**                  | **verplicht voor hoog-risico AI systemen (AI Act)** |    **verplicht voor impactvolle algoritmes**    | **verplicht voor niet-impactvolle algoritmes**  |
 |---------------------------------------------------------------------------------------------------------------------------|-----------------------------|:---------------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|

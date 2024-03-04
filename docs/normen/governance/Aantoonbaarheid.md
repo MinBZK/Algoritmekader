@@ -25,7 +25,8 @@ In progress
 
 #### Wet- en regelgeving
 - [AI Act](https://artificialintelligenceact.eu/wp-content/uploads/2023/08/AI-Mandates-20-June-2023.pdf), artikel 11
-- Bijlage IV bij AI-verordening 
+- Bijlage IV bij AI-verordening
+- Handreiking Algoritmeregister
 
 
 #### Toetsingskaders

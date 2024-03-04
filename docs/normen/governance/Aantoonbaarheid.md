@@ -18,7 +18,7 @@ In progress
 
 #### Wet- en regelgeving
 - [AI Act](https://artificialintelligenceact.eu/wp-content/uploads/2023/08/AI-Mandates-20-June-2023.pdf), artikel 11
-- Annex IV bij AI-Verordening 
+- Annex IV bij AI-verordening 
 
 
 

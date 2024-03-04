@@ -12,7 +12,7 @@ title: Archiveren
 
 | **Eis**                                                                                                                  | **Uitleg**                  | **verplicht voor hoog-risico AI systemen (AI Act)** |    **verplicht voor impactvolle algoritmes**    | **verplicht voor niet-impactvolle algoritmes**  |
 |---------------------------------------------------------------------------------------------------------------------------|-----------------------------|:---------------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
-| Algoritmen en AI-systemen, inclusief toelichting en bijbehorende documentatie worden bewaard conform de Archiefwet | Overheidsorganen zijn verplicht de onder hen berustende archiefbescheiden, waaronder algoritmen, AI-systemen en bijbehorende bescheiden, in goede, geordende en toegankelijke staat te brengen en te bewaren, alsmede zorg te dragen voor de vernietiging van de daarvoor in aanmerking komende archiefbescheiden |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-close:{ style="color: #EF5350" } |
+| Algoritmen en AI-systemen, inclusief toelichting en bijbehorende documentatie worden bewaard en vernietigd conform de Archiefwet | Overheidsorganen zijn verplicht de onder hen berustende archiefbescheiden, waaronder algoritmen, AI-systemen en bijbehorende bescheiden, in goede, geordende en toegankelijke staat te brengen en te bewaren, alsmede zorg te dragen voor de vernietiging van de daarvoor in aanmerking komende archiefbescheiden |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-close:{ style="color: #EF5350" } |
 
 
 ## Risico
@@ -43,7 +43,7 @@ Selecteer eerst de gebruikte techniek
 
         | **Maatregelen bij norm: Archiveren** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
         |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|
-        |  De technische werking van het algoritme is beschreven in het Algoritmeregister | In het Algoritmeregister moeten impactvolle algoritmen worden opgenomen. Onderdeel hiervan is een beschrijving geven van de technische werking. | Validatie-, Implementatie en Monitoringsfase | Fase 3: Uitvoering opdracht: Contractbeheer | Product Owner, Data Scientist, Proceseigenaar, Functioneel Beheerder, Architect, leverancier |
+        |   |  | |  |  |
 
     === "niet impactvol"
 
@@ -54,17 +54,14 @@ Selecteer eerst de gebruikte techniek
 
     === "hoog risico AI Act"
         
-        | **Maatregelen bij norm: Technische documentatie**                                                                                                          | **Uitleg**                                                                                                                             |            **Fase Algoritme Levenscyclus**            |        **Inkoopproces**        |                                       **Betrokken actoren**                                        |
+        | **Maatregelen bij norm: Archiveren**                                                                                                          | **Uitleg**                                                                                                                             |            **Fase Algoritme Levenscyclus**            |        **Inkoopproces**        |                                       **Betrokken actoren**                                        |
         |--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------:|:------------------------------:|:--------------------------------------------------------------------------------------------------:|
-        Informatie over het AI-systeem is uitgewerkt door de ontwikkelaar conform bijlage IV AI-verordening en wordt periodiek bijgewerkt. | Bijlage IV bevat de aspecten die minimaal beschreven moeten worden als het gaat om hoge risico AI-systemen. | Ontwikkel-, Validatie, Implementatie en Monitoringsfase. | Fase 1: Voorbereiding opdracht: Specificeren, Fase 3: Uitvoeren opdracht Contractbeheer | Product Owner, Data Scientist, Proceseigenaar, Functioneel Beheerder, Architect, Leverancier |
-        |  De technische werking van het algoritme is beschreven in het Algoritmeregister | In het Algoritmeregister moeten impactvolle algoritmen worden opgenomen. Onderdeel hiervan is een beschrijving geven van de technische werking. | Validatie-, Implementatie en Monitoringsfase | Fase 3: Uitvoering opdracht: Contractbeheer | Product Owner, Data Scientist, Proceseigenaar, Functioneel Beheerder, Architect, leverancier |                                                                                                                                                                                  
+           |   |  | |  |  |                                                                                                                                                                       
 
     === "impactvol"
 
-        | **Maatregelen bij norm: Technische documentatie**                                                                                                          | **Uitleg**                                                                                                                             |            **Fase Algoritme Levenscyclus**            |        **Inkoopproces**        |                                       **Betrokken actoren**                             |--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------:|:------------------------------:|:--------------------------------------------------------------------------------------------------:|
-        |  De technische werking van het algoritme is beschreven | In het Algoritmeregister moeten impactvolle algoritmen worden opgenomen. Onderdeel hiervan is een beschrijving geven van de technische werking. | Validatie-, Implementatie en Monitoringsfase | Fase 3: Uitvoering opdracht: Contractbeheer | Product Owner, Data Scientist, Proceseigenaar, Functioneel Beheerder, Architect, leverancier |
-    
-        |                                                                                                                                                  |                                                                                                                                        |                                                       |                                |                                                                                                    |
+        | **Maatregelen bij norm: Archiveren**                                                                                                          | **Uitleg**                                                                                                                             |            **Fase Algoritme Levenscyclus**            |        **Inkoopproces**        |                                       **Betrokken actoren**                             |--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------:|:------------------------------:|:--------------------------------------------------------------------------------------------------:|
+          |   |  | |  |  |                                                                  
 
     === "niet impactvol"
         
@@ -79,15 +76,13 @@ Selecteer eerst de gebruikte techniek
 
         | **Maatregelen bij norm: Technische documentatie** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
         |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|
-        | Informatie over het AI-systeem is uitgewerkt conform bijlage IV AI-verordening. Deze informatie wordt periodiek bijgewerkt. | Bijlage IV bevat de aspecten die minimaal beschreven moeten worden als het gaat om hoge risico AI-systemen. | Ontwikkel-, Validatie, Implementatie en Monitoringsfase. | Fase 1: Voorbereiding opdracht: Specificeren, Fase 3: Uitvoeren opdracht Contractbeheer | Product Owner, Data Scientist, Proceseigenaar, Functioneel Beheerder, Architect |
-        |  De technische werking van het algoritme is beschreven in het Algoritmeregister | In het Algoritmeregister moeten impactvolle algoritmen worden opgenomen. Onderdeel hiervan is een beschrijving geven van de technische werking. | Validatie-, Implementatie en Monitoringsfase | Fase 3: Uitvoering opdracht: Contractbeheer | Product Owner, Data Scientist, Proceseigenaar, Functioneel Beheerder, Architect, leverancier |
+        |  |   |  | |  |  
 
     === "impactvol"
 
         | **Maatregelen bij norm: Technische documentatie** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
         |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|
-       |  De technische werking van het algoritme is beschreven in het Algoritmeregister | In het Algoritmeregister moeten impactvolle algoritmen worden opgenomen. Onderdeel hiervan is een beschrijving geven van de technische werking. | Validatie-, Implementatie en Monitoringsfase | Fase 3: Uitvoering opdracht: Contractbeheer | Product Owner, Data Scientist, Proceseigenaar, Functioneel Beheerder, Architect, leverancier |
-    === "niet impactvol"
+        |   |  | |  |  |
 
         | **Maatregelen bij norm: Technische documentatie** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
         |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|

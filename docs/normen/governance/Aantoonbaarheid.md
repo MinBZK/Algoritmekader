@@ -11,7 +11,7 @@ title: Aantoonbaarheid
 ## Norm
 **.**
 
-# Technische documentatie moet worden opgesteld. 
+# Technische documentatie
 
 | **Norm**                                                                                                                  | **Uitleg**                  | **verplicht voor hoog-risico AI systemen (AI Act)** |    **verplicht voor impactvolle algoritmes**    | **verplicht voor niet-impactvolle algoritmes**  |
 |---------------------------------------------------------------------------------------------------------------------------|-----------------------------|:---------------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|

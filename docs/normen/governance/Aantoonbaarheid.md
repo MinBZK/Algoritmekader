@@ -49,7 +49,7 @@ Selecteer eerst de gebruikte techniek
 
         | **Maatregelen bij norm: Technische documentatie** | **Uitleg** | **Fase Algoritme Levenscyclus** | **Inkoopproces** | **Betrokken actoren** |
         |-----------------------------------------|------------|:-------------------------------:|:----------------:|:---------------------:|
-        |  De technische werking van het algoritme is beschreven | In het Algoritmeregister moeten impactvolle algoritmen worden opgenomen. Onderdeel hiervan is een beschrijving geven van de technische werking. | Validatie-, Implementatie en Monitoringsfase | Fase 3: Uitvoering opdracht: Contractbeheer | Product Owner, Data Scientist, Proceseigenaar, Functioneel Beheerder, Architect, leverancier |
+        |  De technische werking van het algoritme is beschreven in het Algoritmeregister | In het Algoritmeregister moeten impactvolle algoritmen worden opgenomen. Onderdeel hiervan is een beschrijving geven van de technische werking. | Validatie-, Implementatie en Monitoringsfase | Fase 3: Uitvoering opdracht: Contractbeheer | Product Owner, Data Scientist, Proceseigenaar, Functioneel Beheerder, Architect, leverancier |
 
     === "niet impactvol"
 

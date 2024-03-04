@@ -53,7 +53,7 @@ Selecteer eerst de gebruikte techniek
 
     === "niet impactvol"
 
-        je hoeft niks te doen
+        Er hoeven geen maatregelen te worden getroffen.
 
     
 === "Machine learning"
@@ -69,7 +69,7 @@ Selecteer eerst de gebruikte techniek
 
         | **Maatregelen bij norm: Technische documentatie**                                                                                                          | **Uitleg**                                                                                                                             |            **Fase Algoritme Levenscyclus**            |        **Inkoopproces**        |                                       **Betrokken actoren**                                        |
         |--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------:|:------------------------------:|:--------------------------------------------------------------------------------------------------:|
-        | Bij de output van het algoritme moet waar mogelijk worden getoond welke variabelen een stuwend of dalend effect hebben gehad op de voorspelling. | Hiermee is het voor de gebruiker en belanghebbende inzichtelijker wat heeft bijgedragen aan een hogere of lagere voorspellende waarde. | Ontwerp-, Ontwikkel-, Validatie- en Implementatiefase | Selectiefase en Contractbeheer | Data Engineer, Data Scientist, Product Owner, Behoeftesteller, Inkoopadviseur en Contractbeheerder |
+    
         |                                                                                                                                                  |                                                                                                                                        |                                                       |                                |                                                                                                    |
 
     === "niet impactvol"

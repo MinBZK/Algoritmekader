@@ -160,6 +160,10 @@ extra:
         deprecated: Deze pagina wordt binnenkort verwijderd
         todo: Dit bouwblok moet nog ontwikkeld worden
 
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
+  
 plugins:
     - glightbox
     - search

@@ -1,12 +1,12 @@
 ---
-title: Bouwblokken
+title: Thema's
 ---
 
-Bij het algoritmekader hebben we 10 bouwblokken gedefinieerd. Deze bouwblokken geven structuur aan het algoritmekader. 
+Bij het algoritmekader hebben we 10 thema's gedefinieerd. Deze thema geven structuur aan het algoritmekader. 
 
-Deze bouwblokken worden één voor één opgepakt.
+Deze thema's worden één voor één opgepakt.
 
-## Bouwblokken in ontwikkeling
+## thema in ontwikkeling
 
 <div class="grid cards" markdown>
 
@@ -16,9 +16,9 @@ Deze bouwblokken worden één voor één opgepakt.
 
     Het bouwblok fundamentele rechten is opgesplitst in verschillende delen
 
-    [:octicons-arrow-right-24: Naar fundamentele rechten](../bouwblokken/fundamentele%20rechten/index.md)
+    [:octicons-arrow-right-24: Naar fundamentele rechten](../thema/fundamentele%20rechten/index.md)
 
-    [:octicons-arrow-right-24: Naar bias en non-discriminatie](../bouwblokken/fundamentele%20rechten/non-discriminatie.md)
+    [:octicons-arrow-right-24: Naar bias en non-discriminatie](../thema/fundamentele%20rechten/non-discriminatie.md)
 
 -   :material-cart: __Publieke inkoop__ *(in ontwikkeling)*
 
@@ -26,7 +26,7 @@ Deze bouwblokken worden één voor één opgepakt.
 
     Hier kunnen we een korte tekst kwijt over publieke inkoop
 
-    [:octicons-arrow-right-24: Naar publieke inkoop](../bouwblokken/inkoop/index.md)
+    [:octicons-arrow-right-24: Naar publieke inkoop](../thema/inkoop/index.md)
 
 -   :material-shield-lock: __Privacy en gegevensbescherming__ *(in ontwikkeling)*
 
@@ -34,7 +34,7 @@ Deze bouwblokken worden één voor één opgepakt.
 
     Hier kunnen we een korte tekst kwijt over privacy en gegevensbescherming
 
-    [:octicons-arrow-right-24: Naar privacy en gegevensbescherming](../bouwblokken/privacy%20en%20gegevensbescherming/index.md)
+    [:octicons-arrow-right-24: Naar privacy en gegevensbescherming](../thema/privacy%20en%20gegevensbescherming/index.md)
 
 -   :material-magnify: __Transparantie__ *(in ontwikkeling)*
 
@@ -42,11 +42,11 @@ Deze bouwblokken worden één voor één opgepakt.
 
     Hier kunnen we een korte tekst kwijt over transparantie
 
-    [:octicons-arrow-right-24: Naar transparantie](../bouwblokken/transparantie/index.md)
+    [:octicons-arrow-right-24: Naar transparantie](../thema/transparantie/index.md)
 
 </div>
 
-## Bouwblokken nog te doen
+## thema nog te doen
 
 <div class="grid cards" markdown>
 
@@ -56,7 +56,7 @@ Deze bouwblokken worden één voor één opgepakt.
 
     Hier kunnen we een korte tekst kwijt over conformiteitsbeoordeling
 
-    [:octicons-arrow-right-24: Naar conformiteitsbeoordeling](../bouwblokken/conformiteitsbeoordeling/index.md)
+    [:octicons-arrow-right-24: Naar conformiteitsbeoordeling](../thema/conformiteitsbeoordeling/index.md)
 
 -   :material-database: __Data__ *(nog te doen)*
 
@@ -64,7 +64,7 @@ Deze bouwblokken worden één voor één opgepakt.
 
     Hier kunnen we een korte tekst kwijt over data
 
-    [:octicons-arrow-right-24: Naar data](../bouwblokken/data/index.md)
+    [:octicons-arrow-right-24: Naar data](../thema/data/index.md)
 
 -   :material-leaf: __Duurzaamheid__ *(nog te doen)*
 
@@ -72,7 +72,7 @@ Deze bouwblokken worden één voor één opgepakt.
 
     Hier kunnen we een korte tekst kwijt over duurzaamheid
 
-    [:octicons-arrow-right-24: Naar duurzaamheid](../bouwblokken/duurzaamheid/index.md)
+    [:octicons-arrow-right-24: Naar duurzaamheid](../thema/duurzaamheid/index.md)
 
 -   :material-bank: __Governance__ *(nog te doen)*
 
@@ -80,7 +80,7 @@ Deze bouwblokken worden één voor één opgepakt.
 
     Hier kunnen we een korte tekst kwijt over governance
 
-    [:octicons-arrow-right-24: Naar governance](../bouwblokken/governance/index.md)
+    [:octicons-arrow-right-24: Naar governance](../thema/governance/index.md)
 
 -   :material-account-check: __Menselijke controle__ *(nog te doen)*
 
@@ -88,7 +88,7 @@ Deze bouwblokken worden één voor één opgepakt.
 
     Hier kunnen we een korte tekst kwijt over menselijke controle
 
-    [:octicons-arrow-right-24: Naar menselijke controle](../bouwblokken/menselijke%20controle/index.md)
+    [:octicons-arrow-right-24: Naar menselijke controle](../thema/menselijke%20controle/index.md)
 
 -   :material-cog: __Technische robuustheid en veiligheid__ *(nog te doen)*
 
@@ -96,7 +96,7 @@ Deze bouwblokken worden één voor één opgepakt.
 
     Hier kunnen we een korte tekst kwijt over technische robuustheid en veiligheid
 
-    [:octicons-arrow-right-24: Naar technische robuustheid en veiligheid](../bouwblokken/technische%20robuustheid%20en%20veiligheid/index.md)
+    [:octicons-arrow-right-24: Naar technische robuustheid en veiligheid](../thema/technische%20robuustheid%20en%20veiligheid/index.md)
 
 </div>
 

@@ -30,5 +30,14 @@ De inzichten uit de algoritme levenscyclus kunnen ondersteunen bij bijvoorbeeld 
 | [Archiveren](../../vereisten/governance/Archiveren.md) | De grondslag van de Archiefwet is dat, als de overheid de informatie bewaart die voortkomt uit de verschillende werkprocessen, aan de hand van deze informatie de werkprocessen kunnen worden gereconstrueerd en kan worden nagegaan hoe besluiten tot stand zijn gekomen. De oordeelsvorming over hoe zaken zijn verlopen kan dan worden overgelaten aan anderen |:material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
 | 
 
+## Relevante documentatie ##
+
+
+
+
+
+
+
+
 
 

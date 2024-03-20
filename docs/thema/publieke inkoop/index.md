@@ -27,7 +27,7 @@ De inzichten uit de algoritme levenscyclus kunnen ondersteunen bij bijvoorbeeld 
 
 | **Vereisten**                                                                                                                  | **Uitleg**                  | **verplicht voor hoog-risico AI systemen (AI Act)** |    **verplicht voor impactvolle algoritmes**    | **verplicht voor niet-impactvolle algoritmes**  |
 |---------------------------------------------------------------------------------------------------------------------------|-----------------------------|:---------------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
-| Transparantie                     | De werking van het algoritme en AI-systeem moet transparant zijn |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
+| tags: Archiveren                    | De werking van het algoritme en AI-systeem moet transparant zijn |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
 
 ## Maatregelen
 Onderstaand overzicht laat zien welke denkbare maatregelen kunnen worden getroffen om te voldoen aan de normen. Deze maatregelen dienen ter inspiratie. Organisaties zullen zelf moeten bepalen of zij deze maatregelen toepassen. 

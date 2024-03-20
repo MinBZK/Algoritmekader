@@ -14,6 +14,7 @@ hide: navigation
 Archiefbescheiden die gaan over algoritmen en AI-systemen worden bewaard en vernietigd conform de Archiefwet.
 
 ## Toelichting
+De grondslag van de Archiefwet is dat, als de overheid de informatie bewaart die voortkomt uit de verschillende werkprocessen, aan de hand van deze informatie de werkprocessen kunnen worden gereconstrueerd en kan worden nagegaan hoe besluiten tot stand zijn gekomen. De oordeelsvorming over hoe zaken zijn verlopen kan dan worden overgelaten aan anderen: het archief faciliteert. 
 
 ## Bronnen
 
@@ -21,7 +22,6 @@ Archiefbescheiden die gaan over algoritmen en AI-systemen worden bewaard en vern
 |---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | Wet- en regelgeving | [Art. 3 Archiefwet](https://wetten.overheid.nl/BWBR0007376/2022-05-01)                                                                                                       | Hier nog ruimte om aan te geven wat de wetgeving precies zegt |
 | Wet- en regelgeving | [Art 15 lid 2 Archiefwet](https://wetten.overheid.nl/BWBR0007376/2022-05-01)                                                                                                 | Hier nog ruimte om aan te geven wat de wetgeving precies zegt |
-| Toetingskader       | [Toetsingskader Algemene Rekenkamer](https://www.rekenkamer.nl/onderwerpen/algoritmes-digitaal-toetsingskader/documenten/publicaties/2021/01/28/download-het-toetsingskader) | Hier nog ruimte om aan te geven wat de wetgeving precies zegt |
 
 ## Wanneer van toepassing?
 

@@ -38,7 +38,7 @@ Onderstaand bieden we een overzicht van alle normen die van toepassing zijn op d
 
 | **Norm**                              | **Uitleg**                  | **verplicht voor hoog-risico AI systemen (AI Act)** |    **verplicht voor impactvolle algoritmes**    | **verplicht voor niet-impactvolle algoritmes**  |
 |---------------------------------------|-----------------------------|:---------------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
-| [n.t.b.](../../normen/data/n.t.b..md) | Korte uitleg over deze norm |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
+| [n.t.b.](../../vereisten/data/n.t.b..md) | Korte uitleg over deze norm |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
 |                                       |                             |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } |   :material-close:{ style="color: #EF5350" }    |
 
 ??? question "vragen"

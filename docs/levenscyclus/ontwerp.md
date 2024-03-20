@@ -1,6 +1,5 @@
 --- 
-tags:
-    - levenscyclus/ontwerp
+title: Ontwerp
 ---
 
 # Ontwerp
@@ -11,6 +10,14 @@ Hier wordt het conceptuele ontwerp van het AI-systeem gemaakt. Dit omvat het bep
 ## Vereisten
 
 ## Maatregelen
+
+=== "Laag risico"
+
+    <!-- list levenscyclus/ontwerp risico/laag-risico -->
+
+=== "Hoog risico"
+
+    <!-- list levenscyclus/ontwerp risico/hoog-risico -->
 
 
 !!! info "Disclaimer"

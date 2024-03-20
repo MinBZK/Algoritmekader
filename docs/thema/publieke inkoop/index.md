@@ -31,7 +31,7 @@ De inzichten uit de algoritme levenscyclus kunnen ondersteunen bij bijvoorbeeld 
 | 
 
 ## Relevante documentatie ##
-[Europees modelcontractbepalingen AI-systemen (hoog risico)] (https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_template_High_Risk%20NL.pdf)
+[Europees modelcontractbepalingen AI-systemen (hoog risico)](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_template_High_Risk%20NL.pdf)
 
 
 

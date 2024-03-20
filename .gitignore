@@ -1,2 +1,5 @@
 # build files
 site
+
+# python cache
+**/__pycache__/**

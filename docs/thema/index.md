@@ -26,7 +26,7 @@ Deze thema's worden één voor één opgepakt.
 
     Hier kunnen we een korte tekst kwijt over publieke inkoop
 
-    [:octicons-arrow-right-24: Naar publieke inkoop](../thema/inkoop/index.md)
+    [:octicons-arrow-right-24: Naar publieke inkoop](../thema/publieke inkoop/index.md )
 
 -   :material-shield-lock: __Privacy en gegevensbescherming__ *(in ontwikkeling)*
 

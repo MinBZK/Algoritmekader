@@ -23,9 +23,9 @@ Het maken van een goede inschatting van de situatie is van groot belang. Het is 
 
 De inzichten uit de algoritme levenscyclus kunnen ondersteunen bij bijvoorbeeld het maken van make-or-buy beslissingen, bepalen van de inkoopstrategie, te hanteren aanbestedingsvorm, de totstandkoming van de selectie- en gunningseisen, contractspecificaties en de uitvoering en management van het contract. De algoritme levenscyclus kan worden geraadpleegd via het tabblad boven aan deze pagina. 
  
-## Normen
+## Vereisten
 
-| **Norm**                                                                                                                  | **Uitleg**                  | **verplicht voor hoog-risico AI systemen (AI Act)** |    **verplicht voor impactvolle algoritmes**    | **verplicht voor niet-impactvolle algoritmes**  |
+| **Vereisten**                                                                                                                  | **Uitleg**                  | **verplicht voor hoog-risico AI systemen (AI Act)** |    **verplicht voor impactvolle algoritmes**    | **verplicht voor niet-impactvolle algoritmes**  |
 |---------------------------------------------------------------------------------------------------------------------------|-----------------------------|:---------------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
 | Transparantie                     | De werking van het algoritme en AI-systeem moet transparant zijn |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
 

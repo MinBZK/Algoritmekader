@@ -27,7 +27,8 @@ De inzichten uit de algoritme levenscyclus kunnen ondersteunen bij bijvoorbeeld 
 
 | **Vereisten**                                                                                                                  | **Uitleg**                  | **verplicht voor hoog-risico AI systemen (AI Act)** |    **verplicht voor impactvolle algoritmes**    | **verplicht voor niet-impactvolle algoritmes**  |
 |---------------------------------------------------------------------------------------------------------------------------|-----------------------------|:---------------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
-| tags: - Archiveren                    | De werking van het algoritme en AI-systeem moet transparant zijn |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
+| De Archiefwet moet worden toegepast                    | De grondslag van de Archiefwet is dat, als de overheid de informatie bewaart die voortkomt uit de verschillende werkprocessen, aan de hand van deze informatie de werkprocessen kunnen worden gereconstrueerd en kan worden nagegaan hoe besluiten tot stand zijn gekomen. De oordeelsvorming over hoe zaken zijn verlopen kan dan worden overgelaten aan anderen: het archief
+faciliteert.  |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
 
 ## Maatregelen
 Onderstaand overzicht laat zien welke denkbare maatregelen kunnen worden getroffen om te voldoen aan de normen. Deze maatregelen dienen ter inspiratie. Organisaties zullen zelf moeten bepalen of zij deze maatregelen toepassen. 

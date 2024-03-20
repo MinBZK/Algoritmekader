@@ -27,7 +27,7 @@ Deze inschatting is dus bepalend wat wel en niet van een product mag worden verw
 De inzichten uit de algoritme levenscyclus kunnen ondersteunen bij bijvoorbeeld de behoeftestelling, het maken van make-or-buy beslissingen, de te hanteren aanbestedingsvorm, de totstandkoming van de selectie- en gunningseisen, contractspecificaties en de uitvoering en management van het contract. De algoritme levenscyclus kan worden geraadpleegd het tabblad boven aan deze pagina.  Per fase en per type algoritme of AI kan worden bekeken aan welke vereisten moet worden voldaan en welke beheersmaatregelen kunnen worden getroffen. 
 
  
-## Normen
+## Vereisten
 
 | **Norm**                                                                                                                  | **Uitleg**                  | **verplicht voor hoog-risico AI systemen (AI Act)** |    **verplicht voor impactvolle algoritmes**    | **verplicht voor niet-impactvolle algoritmes**  |
 |---------------------------------------------------------------------------------------------------------------------------|-----------------------------|:---------------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|

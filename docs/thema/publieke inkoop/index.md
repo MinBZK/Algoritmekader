@@ -31,42 +31,4 @@ De inzichten uit de algoritme levenscyclus kunnen ondersteunen bij bijvoorbeeld 
 
 
 
-## Rollen
-Overzicht van welke rollen belangrijk zijn te betrekken bij dit bouwblok. 
-
-<div class="grid cards" markdown>
-
-- __Strategisch inkoopadviseur__ beschijf waarom deze rol belangrijk is
-- __Leveranciersmanager__ beschijf waarom deze rol belangrijk is
-- __Beleidsmedewerker__ beschijf waarom deze rol belangrijk is
-- __Inkoopadviseur__ beschijf waarom deze rol belangrijk is
-- __Contractbeheerder__ beschijf waarom deze rol belangrijk is
-- __Aanbestedingsjurist__ beschijf waarom deze rol belangrijk is
-- __Behoeftesteller__ beschijf waarom deze rol belangrijk is
-- __Ethicus__ beschijf waarom deze rol belangrijk is
-- __Data Scientist__ beschijf waarom deze rol belangrijk is
-- __Gebruiker__ beschijf waarom deze rol belangrijk is
-- __Privacy Officer__ beschijf waarom deze rol belangrijk is
-- __Security Officer__ beschijf waarom deze rol belangrijk is
-- __Leverancier__ beschijf waarom deze rol belangrijk is
-- __Data Engineer__ beschijf waarom deze rol belangrijk is
-</div>
-
-## Best practices
-
-
-!!! example "Voorbeeld"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
-    euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
-    purus auctor massa, nec semper lorem quam in massa.
-
-??? info "Meer weten?"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
-    euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
-    purus auctor massa, nec semper lorem quam in massa.
-
-
-    Het Algoritmekader is nog volop in ontwikkeling. Op deze plek willen we vooral aan de slag gaan op een open en transparante wijze. Het is dus niet definitief. Dat betekent dat er dingen opstaan die niet af zijn en soms zelfs fout. Mocht er iets niet kloppen, laat het ons weten via [GitHub](https://github.com/MinBZK/Algoritmekader).
 

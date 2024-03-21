@@ -17,6 +17,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Add url
+        run: echo 'site_url: https://minbzk.github.io/Algoritmekader/pr-preview/pr-${{github.event.number}}' >> mkdocs.yml
+
       - uses: actions/setup-python@v5
         if: github.event.action != 'closed' 
         with:
@@ -29,7 +32,7 @@ jobs:
 
       - name: build preview
         if: github.event.action != 'closed' 
-        run: mkdocs build
+        run: mkdocs build  }}
 
       - uses: actions/upload-artifact@v4
         if: github.event.action != 'closed' 

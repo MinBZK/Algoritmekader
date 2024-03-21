@@ -5,15 +5,17 @@ on:
       - main
 
 jobs:
-  build:
-    name: pages-build-deployment
+  deploy:
+    name: deploy main
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout main
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Deploy MkDocs
-        uses: mhausenblas/mkdocs-deploy-gh-pages@1.26
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          REQUIREMENTS: requirements.txt
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+          cache: 'pip'
+        
+      - run: pip install -r requirements.txt
+
+      - run: mkdocs gh-deploy --force

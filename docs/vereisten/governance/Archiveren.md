@@ -41,7 +41,7 @@ De aanbevolen maatregelen zijn afhankelijk van de gebruikte techiek van het algo
     | [Bewaren documenten volgens bewaartermijn](../../maatregelen/archiveren.md) | [Toetsingskader Algemene Rekenkamer, 4.01](https://www.rekenkamer.nl/onderwerpen/algoritmes-digitaal-toetsingskader/documenten/publicaties/2021/01/28/download-het-toetsingskader) | :material-close:{ style="color: #EF5350" }    | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
     | [Beperkingen aan openbaarheid](../../maatregelen/beperkingen aan openbaarheid.md) | Algoritmekader | :material-close:{ style="color: #EF5350" }    | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
     | [Toepassen vereisten Archiefwet in inkoopproces](../../maatregelen/Toepassen vereisten Archiefwet in inkoopproces.md) | Algoritmekader | :material-close:{ style="color: #EF5350" }    | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
-    | Duurzaam toegankelijk maken archiefbescheiden | Algoritmekader | :material-close:{ style="color: #EF5350" }    | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
+    | [Duurzaam toegankelijk maken archiefbescheiden](../../maatregelen/archiveren.md) | Algoritmekader | :material-close:{ style="color: #EF5350" }    | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
 
 === "Machine learning"
 

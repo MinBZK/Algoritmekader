@@ -9,6 +9,7 @@ hide: navigation
 
 # Archiveren 
 
+
 ## Vereiste
 Archiefbescheiden die gaan over algoritmen en AI-systemen worden bewaard en vernietigd conform de Archiefwet.
 

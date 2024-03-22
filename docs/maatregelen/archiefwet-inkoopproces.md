@@ -1,11 +1,19 @@
 ---
-title: Documenten archiveren volgens bewaartermijnen
-tags:
-- levenscyclus/ontwikkel
-- actoren/informatiebeheerder
-- actoren/proceseigenaar
-- risico/hoog-risico
-- inkoopproces/fase
+title: Archiefwet onderdeel van inkoopproces
+bron: Algoritmekader
+toepassingen:
+- niet-impactvol
+- impactvol
+- hoog-risico
+levenscyclus:
+- ontwerp
+techniek:
+- rekenregel
+- machine-learning
+- generatieve-AI
+rollen:
+- proceseigenaar
+- contractbeheerder
 ---
 
 <!-- tags -->
@@ -20,6 +28,7 @@ Het is van belang dat marktpartijen tijdig kunnen beoordelen of hun voorzieninge
 Zonder goede toepassing van de Archiefwet is het voor betrokkene(n) of derden niet mogelijk om achteraf te controleren wat de werking van algoritmen en AI-systemen was.
 
 ## Bronnen
+Algoritmekader
 
 ## Voorbeeld
 Heb je een goed voorbeeld? Laat het ons weten!

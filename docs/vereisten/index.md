@@ -35,11 +35,11 @@ Op deze pagina staat een overzicht van de vereisten die we tot nu toe hebben ver
 | :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Privacyrechten](../vereisten/privacy%20en%20gegevensbescherming/Privacyrechten.md)                                                 |
 | :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Geautomatiseerde besluitvorming en profileren](../vereisten/privacy%20en%20gegevensbescherming/Geautomatiseerde%20besluitvorming%20en%20profileren.md)             |
 | :fontawesome-solid-lock: Privacy en gegevensbescherming       | [Privacy by design](../vereisten/privacy%20en%20gegevensbescherming/Privacy%20by%20Design%20en%20by%20Default.md)                                       |
-| :fontawesome-solid-gear: Technische robuustheid en veiligheid | [Algoritme continuiteit](../vereisten/technische%20robuustheid%20en%20veiligheid/Algoritme%20continuïteit.md)                       |
-| :fontawesome-solid-gear: Technische robuustheid en veiligheid | [Betrouwbare algoritme uitkomsten](../vereisten/technische%20robuustheid%20en%20veiligheid/Betrouwbare%20algoritme%20uitkomsten.md) |
-| :fontawesome-solid-gear: Technische robuustheid en veiligheid | [Data is representatief](../vereisten/technische%20robuustheid%20en%20veiligheid/Data%20is%20representatief.md)                     |
-| :fontawesome-solid-gear: Technische robuustheid en veiligheid | [Doel en keuze algoritme](../vereisten/technische%20robuustheid%20en%20veiligheid/Doel%20en%20keuze%20algoritme.md)                 |
-| :fontawesome-solid-gear: Technische robuustheid en veiligheid | [Informatiebeveiliging](../vereisten/technische%20robuustheid%20en%20veiligheid/Informatiebeveiliging.md)                           |
+| :fontawesome-solid-gear: Technische robuustheid en veiligheid | [Algoritme continuiteit](../vereisten/technische-robuustheid-en-veiligheid/Algoritme%20continuïteit.md)                       |
+| :fontawesome-solid-gear: Technische robuustheid en veiligheid | [Betrouwbare algoritme uitkomsten](../vereisten/technische-robuustheid-en-veiligheid/Betrouwbare%20algoritme%20uitkomsten.md)  |
+| :fontawesome-solid-gear: Technische robuustheid en veiligheid | [Data is representatief](../vereisten/technische-robuustheid-en-veiligheid/Data%20is%20representatief.md)                     |
+| :fontawesome-solid-gear: Technische robuustheid en veiligheid | [Doel en keuze algoritme](../vereisten/technische-robuustheid-en-veiligheid/Doel%20en%20keuze%20algoritme.md)                 |
+| :fontawesome-solid-gear: Technische robuustheid en veiligheid | [Informatiebeveiliging](../vereisten/technische-robuustheid-en-veiligheid/Informatiebeveiliging.md)                           |
 | :fontawesome-solid-magnifying-glass: Transparantie            | [Algoritmeregister](../vereisten/transparantie/Algoritmeregister.md)                                                                |
 | :fontawesome-solid-magnifying-glass: Transparantie            | [Informeren over interactie](../vereisten/transparantie/Informeren%20over%20interactie%20met%20AI%20systemen.md)                    |
 | :fontawesome-solid-magnifying-glass: Transparantie            | [Motiveringsbeginsel](../vereisten/transparantie/Motiveringsbeginsel.md)                                                            |

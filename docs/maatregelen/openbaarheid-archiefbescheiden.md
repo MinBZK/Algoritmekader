@@ -1,11 +1,22 @@
 ---
-title: Documenten archiveren volgens bewaartermijnen
-tags:
-- levenscyclus/ontwikkel
-- actoren/informatiebeheerder
-- actoren/proceseigenaar
-- risico/hoog-risico
-- inkoopproces/fase
+title: Openbaarheid van de archiefbescheiden
+bron: Algoritmekader
+toepassingen:
+- niet-impactvol
+- impactvol
+- hoog-risico
+levenscyclus:
+- ontwerp
+- ontwikkelen
+- archiveren
+techniek:
+- rekenregel
+- machine-learning
+- generatieve-AI
+rollen:
+- informatiebeheerder
+- proceseigenaar
+- contractbeheerder
 ---
 
 <!-- tags -->

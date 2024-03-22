@@ -2,7 +2,6 @@
 title: Ontwerp
 ---
 
-# Ontwerp
 Hier wordt het conceptuele ontwerp van het AI-systeem gemaakt. Dit omvat het bepalen van de architectuur, algoritmen en benodigde middelen voor de implementatie.
 
 ## Onderwerp/bouwblok
@@ -11,14 +10,7 @@ Hier wordt het conceptuele ontwerp van het AI-systeem gemaakt. Dit omvat het bep
 
 ## Maatregelen
 
-=== "Laag risico"
-
-    <!-- list levenscyclus/ontwerp risico/laag-risico -->
-
-=== "Hoog risico"
-
-    <!-- list levenscyclus/ontwerp risico/hoog-risico -->
-
+<!-- list levenscyclus/ontwerp -->
 
 !!! info "Disclaimer"
 

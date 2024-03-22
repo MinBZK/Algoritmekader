@@ -21,6 +21,7 @@ theme:
         - search.highlight
         - search.suggest
         - content.action.edit
+        - content.action.view
         - content.tooltips
         - content.tabs.link
     icon:
@@ -37,7 +38,7 @@ nav:
         - levenscyclus/index.md 
         - levenscyclus/probleemanalyse.md
         - levenscyclus/ontwerp.md
-        - levenscyclus/data verkenning en data preparatie.md
+        - levenscyclus/dataverkenning-en-datapreparatie.md
         - levenscyclus/ontwikkelen.md
         - levenscyclus/validatie.md
         - levenscyclus/implementatie.md
@@ -65,7 +66,14 @@ nav:
         - Menselijke controle:
             - thema/menselijke controle/index.md
         - Technische robuustheid en veiligheid:
-            - thema/technische robuustheid en veiligheid/index.md
+            - thema/technische-robuustheid-en-veiligheid/index.md
+    - Rollen:
+        - rollen/index.md
+        - rollen/contractbeheerder.md
+        - rollen/informatiebeheerder.md
+        - rollen/leverancier.md
+        - rollen/proceseigenaar.md
+        - rollen/data-scientist.md
     - Vereisten:
         - vereisten/index.md
         - Conformiteitsbeoordeling:
@@ -114,12 +122,12 @@ nav:
            - vereisten/privacy en gegevensbescherming/Geautomatiseerde besluitvorming en profileren.md
            - vereisten/privacy en gegevensbescherming/Privacy by Design en by Default.md
         - Technische robuustheid en veiligheid:
-           - vereisten/technische robuustheid en veiligheid/index.md
-           - vereisten/technische robuustheid en veiligheid/Informatiebeveiliging.md
-           - vereisten/technische robuustheid en veiligheid/Data is representatief.md
-           - vereisten/technische robuustheid en veiligheid/Doel en keuze algoritme.md
-           - vereisten/technische robuustheid en veiligheid/Betrouwbare algoritme uitkomsten.md
-           - vereisten/technische robuustheid en veiligheid/Algoritme continuïteit.md
+           - vereisten/technische-robuustheid-en-veiligheid/index.md
+           - vereisten/technische-robuustheid-en-veiligheid/Informatiebeveiliging.md
+           - vereisten/technische-robuustheid-en-veiligheid/Data is representatief.md
+           - vereisten/technische-robuustheid-en-veiligheid/Doel en keuze algoritme.md
+           - vereisten/technische-robuustheid-en-veiligheid/Betrouwbare algoritme uitkomsten.md
+           - vereisten/technische-robuustheid-en-veiligheid/Algoritme continuïteit.md
         - Transparantie:
            - vereisten/transparantie/index.md
            - vereisten/transparantie/Informeren over interactie met AI systemen.md
@@ -129,7 +137,11 @@ nav:
            - vereisten/transparantie/Algoritmeregister.md
     - Maatregelen:
         - maatregelen/index.md
-        - maatregelen/archiveren.md
+        - maatregelen/bewaartermijnen.md
+        - maatregelen/bewaartermijnen-onderliggende-systemen.md
+        - maatregelen/archiefwet-inkoopproces.md
+        - maatregelen/openbaarheid-archiefbescheiden.md
+        - maatregelen/duurzaam-toegankelijkheid-archiefbescheiden.md
     - Instrumenten: instrumenten/index.md
 
 # Extra opties
@@ -179,7 +191,7 @@ plugins:
     #     tags_file: tags.md
 
 hooks:
-    - src/overrides/hooks/shortcodes.py
+    - src/overrides/hooks/tags.py
     - src/overrides/hooks/lists.py
 
 # Link naar GitHub repo (nu nog even mijn eigen repo)

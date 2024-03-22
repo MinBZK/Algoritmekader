@@ -96,7 +96,7 @@ Deze thema's worden één voor één opgepakt.
 
     Hier kunnen we een korte tekst kwijt over technische robuustheid en veiligheid
 
-    [:octicons-arrow-right-24: Naar technische robuustheid en veiligheid](../thema/technische%20robuustheid%20en%20veiligheid/index.md)
+    [:octicons-arrow-right-24: Naar technische robuustheid en veiligheid](../thema/technische-robuustheid-en-veiligheid/index.md)
 
 </div>
 

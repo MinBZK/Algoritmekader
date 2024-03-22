@@ -1,7 +1,13 @@
-!!! info "Disclaimer"
-Het Algoritmekader is nog volop in ontwikkeling. Op deze plek willen we vooral aan de slag gaan op een open en transparante wijze. Het is dus niet definitief. Dat betekent dat er dingen opstaan die niet af zijn en soms zelfs fout. Mocht er iets niet kloppen, laat het ons weten via [GitHub](https://github.com/MinBZK/Algoritmekader).
+---
+title: Publieke inkoop van algoritmen en AI
+icon: material/cart
+---
 
-# Publieke inkoop van algoritmen en AI
+
+!!! info "Disclaimer"
+    Het Algoritmekader is nog volop in ontwikkeling. Op deze plek willen we vooral aan de slag gaan op een open en transparante wijze. Het is dus niet definitief. Dat betekent dat er dingen opstaan die niet af zijn en soms zelfs fout. Mocht er iets niet kloppen, laat het ons weten via [GitHub](https://github.com/MinBZK/Algoritmekader).
+
+
 Overheidsinstellingen kopen frequent software in. Deze software wordt ingekocht om ambtenaren te ondersteunen met hun werkzaamheden en om zo maatschappelijk waarden te creëren. Het kan bijvoorbeeld gaan om het inkopen van een systeem waarmee een aanvraag voor een subsidie kan worden behandeld. Voorzieningen waarmee virtueel kan worden vergaderd of het digitaal kunnen samenwerken aan documenten zijn hier ook voorbeelden van.  
 
 Software wordt vaak ontwikkeld door gespecialiseerde leveranciers. Deze software bevat in toenemende mate algoritmen en AI. Deze algoritmen en AI kunnen eenvoudig van aard zijn, zoals het maken van een eenvoudige berekening. Er zijn ook complexere vormen, zoals een voorspelling geven of het genereren van nieuwe informatie. In het laatste geval kan worden gedacht aan toepassingen als ChatGPT of Google Bard. Het gebruik maken van software met algoritmen en AI biedt kansen waarmee maatschappelijke waarden kunnen worden gerealiseerd. Er zijn ook risico’s als deze technologie onjuist wordt ontwikkelt of gebruikt. Dat is in het bijzonder van belang als algoritmen en AI van invloed zijn op overheidsbesluitvorming. 

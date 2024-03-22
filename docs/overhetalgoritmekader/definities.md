@@ -4,7 +4,7 @@ title: Definities
 
 Welke definities gebruikt het Algoritmekader? Je vindt een overzicht op deze pagina. Deze definities komen overeen met de definities van het het [Algoritmeregister](https://algoritmes.overheid.nl/nl), zie daarvoor de [Handreiking Algoritmeregister](https://algoritmes.pleio.nl/attachment/entity/83fb2500-6b45-434d-93c9-7534e0b740b3).
 
-De meest belangrijke definities staan hieronder. Daarnaast heeft het Algoritmekader ook een eigen [begrippenlijst](../../includes/begrippenlijst.md) bij. 
+De meest belangrijke definities staan hieronder. Daarnaast heeft het Algoritmekader ook een eigen [begrippenlijst](../../../includes/begrippenlijst.md) bij. 
 
 ### Definitie van een algoritme
 Er zijn veel definities van een algoritme. Voor het algoritmekader hanteren we de definitie van de Algemene Rekenkamer:

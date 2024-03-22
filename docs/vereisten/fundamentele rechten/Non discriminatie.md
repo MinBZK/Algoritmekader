@@ -81,13 +81,13 @@ Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoeri
 
 
 ## Best practices
-Het is aan te bevelen om hiervoor de handreiking non-discriminatie by design te gebruiken.
+Het is aan te bevelen om hiervoor de [handreiking non-discriminatie by design](https://open.overheid.nl/documenten/ronl-3f9fa69c-acf4-444d-96e1-5c48df00eb3c/pdf) te gebruiken.
 
-https://open.overheid.nl/documenten/ronl-3f9fa69c-acf4-444d-96e1-5c48df00eb3c/pdf
 
-Indien risicoprofielen worden ingezet en bestaat een risico op discriminatie, dan kan de Beslisboom van het College van de Rechten van de Mens worden gebruikt.
+
+Indien risicoprofielen worden ingezet en bestaat een risico op discriminatie, dan kan de [Beslisboom van het College van de Rechten van de Mens](https://publicaties.mensenrechten.nl/file/6ac9f9ec-c837-23b1-0032-5c2e684db188.pdf) worden gebruikt.
  
-https://publicaties.mensenrechten.nl/file/2aecbba3-e0ab-015f-5e51-93293b16ecca.pdf
+
 
 
 

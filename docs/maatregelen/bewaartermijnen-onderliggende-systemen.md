@@ -26,10 +26,10 @@ rollen:
 <!-- tags -->
 
 ## Maatregel
-Zorg ervoor dat de vereisten met betrekking tot bewaartermijnen correct worden vertaald naar de algoritmische toepassing of het AI-systeem en de onderliggende systemen. Controleer of deze maatregel is getroffen en zorg dat dit aantoonbaar is.
+Zorg ervoor dat de vereisten met betrekking tot bewaartermijnen correct worden vertaald naar het algoritme of AI en de onderliggende systemen. Controleer of deze maatregel is getroffen en zorg dat dit aantoonbaar is.
 
 ## Toelichting
-Hierbij kan worden gedacht aan het inrichten van de bewaartermijn voor logbestanden bij Cloudoplossingen of het bewaren van de output van algoritmen of AI-systemen in zaaksystemen. 
+Hierbij kan worden gedacht aan het inrichten van de bewaartermijn voor logbestanden bij Cloudoplossingen of het bewaren van de output van algoritmen of AI in zaaksystemen. 
 
 ## Risico
 Zonder goede toepassing van de Archiefwet is het voor betrokkene(n) of derden niet mogelijk om achteraf te controleren wat de werking van algoritmen en AI-systemen was.

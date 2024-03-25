@@ -23,7 +23,7 @@ rollen:
 Stel vast hoe de archiefbescheiden op een duurzame wijze toegankelijk kunnen worden gemaakt. 
 
 ## Toelichting
-Het moet mogelijk zijn dat archiefbescheiden daadwerkelijk overhandigd kunnen worden aan betrokken partijen. Denk hierbij aan burgers, onderneming, toezichthouder of rechters. 
+Het moet mogelijk zijn dat archiefbescheiden daadwerkelijk overhandigd kunnen worden aan betrokken partijen. Denk hierbij aan burgers, onderneming, toezichthouder of rechters. Overleg hierover met de verantwoordelijke binnen de organisatie voor het toepassen van de Archiefwet.
 
 ## Risico
 Zonder goede toepassing van de Archiefwet is het voor betrokkene(n) of derden niet mogelijk om achteraf te controleren wat de werking van algoritmen en AI-systemen was.

@@ -21,10 +21,10 @@ rollen:
 <!-- tags -->
 
 ## Maatregel
-Er moet worden vastgesteld welke documenten, data of informatie bewaard moeten worden over of van het algoritme of het AI-systeem en voor hoelang. 
+Stel de bewaartermijn vast voor de archiefbescheiden.  
 
 ## Toelichting
-Hierbij kan worden gedacht aan de broncode, trainings- en testdata, (technische) documentatie en de output. 
+Overleg hierover met de verantwoordelijke binnen de organisatie voor het toepassen van de Archiefwet. 
 
 ## Risico
 Zonder goede toepassing van de Archiefwet is het voor betrokkene(n) of derden niet mogelijk om achteraf te controleren wat de werking van algoritmen en AI-systemen was.

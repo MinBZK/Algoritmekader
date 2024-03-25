@@ -32,7 +32,7 @@ De grondslag van de Archiefwet is dat, als de overheid de informatie bewaart die
 ## Risico
 Zonder goede toepassing van de Archiefwet is het voor betrokkene(n) of derden niet mogelijk om achteraf te controleren wat de werking van algoritmen en AI-systemen was.
 
-## Standaarden
+## Normen
 In afwachting van normalisatieproces
 
 ## Maatregelen

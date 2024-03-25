@@ -1,63 +1,53 @@
 ---
-title: n.t.b.
-
+title: Verbod op schenden Auteursrechten
+hide: navigation
 ---
 
 !!! info "Disclaimer"
 
     Het Algoritmekader is nog volop in ontwikkeling. Op deze plek willen we vooral aan de slag gaan op een open en transparante wijze. Het is dus niet definitief. Dat betekent dat er dingen opstaan die niet af zijn en soms zelfs fout. Mocht er iets niet kloppen, laat het ons weten via [GitHub](https://github.com/MinBZK/Algoritmekader).
 
+# Archiveren 
 
-## Norm
-** **
+## Vereiste
+Archiefbescheiden die gaan over algoritmen en AI-systemen worden bewaard en vernietigd conform de Archiefwet.
 
-## Risico
-In progress
+## Toelichting
+De grondslag van de Archiefwet is dat, als de overheid de informatie bewaart die voortkomt uit de verschillende werkprocessen, aan de hand van deze informatie de werkprocessen kunnen worden gereconstrueerd en kan worden nagegaan hoe besluiten tot stand zijn gekomen. De oordeelsvorming over hoe zaken zijn verlopen kan dan worden overgelaten aan anderen: het archief faciliteert. 
 
 ## Bronnen
 
-#### Wet- en regelgeving
+| **Type**            | **Bron**                                                                                                                                                                     | **Toelichting**                                               |
+|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| Wet- en regelgeving | [Art. 3 Archiefwet](https://wetten.overheid.nl/BWBR0007376/2022-05-01)                                                                                                       | Hier nog ruimte om aan te geven wat de wetgeving precies zegt |
+| Wet- en regelgeving | [Art 15 lid 2 Archiefwet](https://wetten.overheid.nl/BWBR0007376/2022-05-01)                                                                                                 | Hier nog ruimte om aan te geven wat de wetgeving precies zegt |
 
+## Wanneer van toepassing?
 
-#### Toetsingskaders
+| **hoog-risico AI systemen (AI Act)** |    **impactvolle algoritmes**    | **niet-impactvolle algoritmes**  |
+|:---------------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
+|   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-close:{ style="color: #EF5350" } |
 
-
-## Toelichting
-
-## Normen
-
-| **Norm**                                                                                                                  | **Uitleg**                  | **verplicht voor hoog-risico AI systemen (AI Act)** |    **verplicht voor impactvolle algoritmes**    | **verplicht voor niet-impactvolle algoritmes**  |
-|---------------------------------------------------------------------------------------------------------------------------|-----------------------------|:---------------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
-| Transparantie                     | De werking van het algoritme en AI-systeem moet transparant zijn |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
+## Risico
+Zonder goede toepassing van de Archiefwet is het voor betrokkene(n) of derden niet mogelijk om achteraf te controleren wat de werking van algoritmen en AI-systemen was.
 
 ## Maatregelen
-Onderstaand overzicht laat zien welke denkbare maatregelen kunnen worden getroffen om te voldoen aan de normen. Deze maatregelen dienen ter inspiratie. Organisaties zullen zelf moeten bepalen of zij deze maatregelen toepassen. 
+
+De aanbevolen maatregelen zijn afhankelijk van de gebruikte techiek van het algoritme. Selecteer hieronder de gebruikt techniek. 
 
 === "Rekenregels"
 
-    | **Maatregelen bij norm: Transparantie**                                                                                                          | **Uitleg**                                                                                                                             |            **Fase Algoritme Levenscyclus**            |        **Inkoopproces**        |                                       **Betrokken actoren**                                        |
-    |--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------:|:------------------------------:|:--------------------------------------------------------------------------------------------------:|
-    | Bij de output van het algoritme moet waar mogelijk worden getoond welke variabelen een stuwend of dalend effect hebben gehad op de voorspelling. | Hiermee is het voor de gebruiker en belanghebbende inzichtelijker wat heeft bijgedragen aan een hogere of lagere voorspellende waarde. | Ontwerp-, Ontwikkel-, Validatie- en Implementatiefase | Selectiefase en Contractbeheer | Data Engineer, Data Scientist, Product Owner, Behoeftesteller, Inkoopadviseur en Contractbeheerder |
-    |                                                                                                                                                  |                                                                                                                                        |                                                       |                                |                                                                                                    |
+    <!-- list techniek/rekenregel -->
 
 === "Machine learning"
 
-    | **Maatregelen bij norm: Transparantie**                                                                                                          | **Uitleg**                                                                                                                             |            **Fase Algoritme Levenscyclus**            |        **Inkoopproces**        |                                       **Betrokken actoren**                                        |
-    |--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------:|:------------------------------:|:--------------------------------------------------------------------------------------------------:|
-    | Bij de output van het algoritme moet waar mogelijk worden getoond welke variabelen een stuwend of dalend effect hebben gehad op de voorspelling. | Hiermee is het voor de gebruiker en belanghebbende inzichtelijker wat heeft bijgedragen aan een hogere of lagere voorspellende waarde. | Ontwerp-, Ontwikkel-, Validatie- en Implementatiefase | Selectiefase en Contractbeheer | Data Engineer, Data Scientist, Product Owner, Behoeftesteller, Inkoopadviseur en Contractbeheerder |
-    |                                                                                                                                                  |                                                                                                                                        |                                                       |                                |                                                                                                    |
+    <!-- list techniek/machine-learning -->
 
 === "Generatieve AI"
 
-    | **Maatregelen bij norm: Transparantie**                                                                                                          | **Uitleg**                                                                                                                             |            **Fase Algoritme Levenscyclus**            |        **Inkoopproces**        |                                       **Betrokken actoren**                                        |
-    |--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------:|:------------------------------:|:--------------------------------------------------------------------------------------------------:|
-    | Bij de output van het algoritme moet waar mogelijk worden getoond welke variabelen een stuwend of dalend effect hebben gehad op de voorspelling. | Hiermee is het voor de gebruiker en belanghebbende inzichtelijker wat heeft bijgedragen aan een hogere of lagere voorspellende waarde. | Ontwerp-, Ontwikkel-, Validatie- en Implementatiefase | Selectiefase en Contractbeheer | Data Engineer, Data Scientist, Product Owner, Behoeftesteller, Inkoopadviseur en Contractbeheerder |
-    |                                                                                                                                                  |                                                                                                                                        |                                                       |                                |                                                                                                    |
+    <!-- list techniek/generatieve-AI -->
 
-
-## Rollen
-Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoering van deze norm. 
-
+!!! note "opmerking"
 
 
 ## Best practices

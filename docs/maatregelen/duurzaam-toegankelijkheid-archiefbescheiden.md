@@ -1,5 +1,5 @@
 ---
-title: Duurzaam toegankelijkheid archiefbescheiden
+title: Duurzame toegankelijkheid archiefbescheiden
 bron: Algoritmekader
 toepassingen:
 - niet-impactvol

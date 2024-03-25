@@ -6,7 +6,7 @@ toepassingen:
 - impactvol
 - hoog-risico
 levenscyclus:
-- probleem analyse
+- probleemanalyse
 techniek:
 - rekenregel
 - machine-learning

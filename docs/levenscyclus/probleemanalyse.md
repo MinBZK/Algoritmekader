@@ -6,7 +6,7 @@ In deze fase wordt het probleem gedefinieerd dat moet worden opgelost. Het omvat
 
 ## Maatregelen
 
-<!-- list levenscyclus/probleemanalayse -->
+<!-- list levenscyclus/probleemanalyse -->
     
 !!! info "Disclaimer"
 

@@ -17,10 +17,9 @@ De grondslag van de Archiefwet is dat, als de overheid de informatie bewaart die
 
 ## Bronnen
 
-| **Type**            | **Bron**                                                                                                                                                                     | **Toelichting**                                               |
-|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| Wet- en regelgeving | [Art. 3 Archiefwet](https://wetten.overheid.nl/BWBR0007376/2022-05-01)                                                                                                       | Hier nog ruimte om aan te geven wat de wetgeving precies zegt |
-| Wet- en regelgeving | [Art 15 lid 2 Archiefwet](https://wetten.overheid.nl/BWBR0007376/2022-05-01)                                                                                                 | Hier nog ruimte om aan te geven wat de wetgeving precies zegt |
+| **Type**            | **Bron**                                                                                                                                                                     ||---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| Wet- en regelgeving | [Art. 3 Archiefwet](https://wetten.overheid.nl/BWBR0007376/2022-05-01)                                                                                                       | 
+| Wet- en regelgeving | [Art 15 lid 2 Archiefwet](https://wetten.overheid.nl/BWBR0007376/2022-05-01)                                                                                                 | 
 
 ## Wanneer van toepassing?
 

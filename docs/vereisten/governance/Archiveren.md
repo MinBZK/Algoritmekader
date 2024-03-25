@@ -1,5 +1,5 @@
 ---
-title: Archiveren
+title: Toepassen Archiefwet
 hide: navigation
 ---
 

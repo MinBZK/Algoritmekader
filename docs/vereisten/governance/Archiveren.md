@@ -16,11 +16,10 @@ Archiefbescheiden die gaan over algoritmen en AI-systemen worden bewaard en vern
 De grondslag van de Archiefwet is dat, als de overheid de informatie bewaart die voortkomt uit de verschillende werkprocessen, aan de hand van deze informatie de werkprocessen kunnen worden gereconstrueerd en kan worden nagegaan hoe besluiten tot stand zijn gekomen. De oordeelsvorming over hoe zaken zijn verlopen kan dan worden overgelaten aan anderen: het archief faciliteert. 
 
 ## Bronnen
-
-| **Type**            | **Bron**                                                                                                                                                                     | --------------|---------|----------|
-
-| Wet- en regelgeving | [Art. 3 Archiefwet](https://wetten.overheid.nl/BWBR0007376/2022-05-01)                                                                                                       | 
-| Wet- en regelgeving | [Art 15 lid 2 Archiefwet](https://wetten.overheid.nl/BWBR0007376/2022-05-01)                                                                                                 | 
+| **Type** |    **Bron**   | 
+|:---------------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
+| Wet- en regelgeving  | [Art. 3 Archiefwet](https://wetten.overheid.nl/BWBR0007376/2022-05-01)  | 
+| Wet- en regelgeving  | [Art 15 lid 2 Archiefwet](https://wetten.overheid.nl/BWBR0007376/2022-05-01)  
 
 ## Wanneer van toepassing?
 

@@ -23,7 +23,7 @@ rollen:
 Stel vast of beperkingen aan openbaarheid van de archiefbescheiden moeten worden gesteld.
 
 ## Toelichting
-Het moet voor mogelijk zijn dat de archiefbescheiden daadwerkelijk overhandigd kunnen worden aan betrokken partijen. Denk hierbij aan burgers, onderneming, toezichthouder of rechters. 
+Het moet mogelijk zijn dat archiefbescheiden daadwerkelijk overhandigd kunnen worden aan betrokken partijen. Denk hierbij aan burgers, onderneming, toezichthouder of rechters. 
 
 ## Risico
 Zonder goede toepassing van de Archiefwet is het voor betrokkene(n) of derden niet mogelijk om achteraf te controleren wat de werking van algoritmen en AI-systemen was.

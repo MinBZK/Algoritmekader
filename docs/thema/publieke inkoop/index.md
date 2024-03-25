@@ -20,21 +20,18 @@ Het publiek inkopen van algoritmen en AI wordt ook gekoppeld aan de algoritme le
 
  
 ## Algoritme levenscyclus
-Algoritmen en AI kunnen een grote impact hebben op onze maatschappij. Daarom is het van belang dat deze op een verantwoorde manier worden ontwikkeld en gebruikt. Het toepassen van de algoritme levenscyclus is hierover een bruikbare leidraad. De algoritme levenscyclus bestaat uit meerdere fasen en is bruikbaar voor verschillende vormen van algoritmen en AI. Denk hierbij aan eenvoudige rekenregels, machine learning en generatieve AI. 
+Algoritmen en AI kunnen een grote impact hebben op onze maatschappij. Daarom is het van belang dat deze op een verantwoorde manier worden ontwikkeld en gebruikt. Het toepassen van de algoritme levenscyclus is hierover een bruikbare leidraad. De algoritme levenscyclus bestaat uit meerdere fasen. De werkzaamheden die noodzakelijk zijn om een verantwoord algoritme of AI te ontwikkelen, kunnen logisch worden gekoppeld aan deze fasen. 
+Deze levenscyclus kan worden gebruikt voor alle typen algoritmen en AI. Het verschilt uiteraard wel per type wat moet worden gedaan en dit is mede afhankelijk van de risico classificatie. Bij hoge risico toepassing zal meer moeten worden gedaan om risico’s te mitigeren dan als er sprake is van lage risico toepassingen. De levenscyclus geeft een bruikbaar overzicht voor leveranciers en opdrachtgevers wanneer welke werkzaamheden moeten worden uitgevoerd. Het laat ook zien welke werkzaamheden moeten zijn afgerond als algoritmen en AI in de markt mogen worden gezet en klaar zijn voor gebruik. 
 
-De werkzaamheden die noodzakelijk zijn om een verantwoord algoritme of AI te ontwikkelen, kunnen logisch worden gekoppeld aan deze fasen. Dit geeft een bruikbaar overzicht voor bijvoorbeeld ontwikkelaars, inkopers of opdrachtgevers wanneer welke werkzaamheden moeten worden uitgevoerd en door wie. Het laat ook zien welke werkzaamheden moeten zijn afgerond als algoritmen en AI in de markt mogen worden gezet door leveranciers. Voor de omvang van de werkzaamheden speelt de risico-classificatie van de betreffende algoritmen en AI een belangrijke rol. Bij hoge risico toepassingen zal meer moeten worden gedaan om risico’s te mitigeren dan bij lage risico toepassingen. 
-
-Bij het publiek inkopen van software met bijbehorende algoritmen en AI zijn de wensen van de behoeftesteller en de doelstellingen van de organisatie van groot belang. Na een(markt)verkenning kan dit verschillende inzichten en de volgende situaties opleveren: 
-
-•	Een al ontwikkelde, kant-en-klare oplossing voldoet aan de wensen en doelstellingen;
-
+Bij het publiek inkopen van software met bijbehorende algoritmen en AI zijn de wensen van de behoeftesteller en de doelstellingen van de organisatie van groot belang. Dit kan tot verschillende situaties leiden: 
+•	Een al ontwikkelde kant-en-klare oplossing voldoet direct aan deze wensen en doelstellingen;
 •	Een al ontwikkelde oplossing moet eerst worden aangepast voordat deze kan worden gebruikt;
+•	Er moet een nieuwe oplossing worden ontwikkeld om te voldoen aan de wensen. 
 
-•	Er moet een nieuwe oplossing worden ontwikkeld om te voldoen aan de wensen en doelstellingen. 
+Deze inschatting is dus bepalend wat wel en niet van een product mag worden verwacht. Dit is relevant voor zowel de leverancier als de opdrachtgever. Het is aannemelijk dat als het om risicovolle (nog te ontwikkelen) algoritmen of AI gaat, de opdrachtgever een intensieve bijdrage moet leveren aan de samenwerking om het product te kunnen gebruiken. De opdrachtgever zal bijvoorbeeld moeten aangeven wat de juridische en ethische grenzen zijn van de uiteindelijk werking van het algoritme of AI. Als een kant-en-klare oplossing wordt afgenomen, dan zal de leverancier moeten laten zien dat de ontwikkelde algoritmen en AI voldoen aan alle vereisten en moet dit kunnen aantonen. 
 
-Het maken van een goede inschatting van de situatie is van groot belang. Het bepaalt in belangrijke mate wat van een in te kopen product mag worden verwacht. Daarnaast geeft het een inzicht in welke werkzaamheden nog moeten worden uitgevoerd voordat het product geschikt is voor gebruik. Dit is relevant voor zowel de leverancier als de opdrachtgever. Als een kant-en-klare oplossing wordt aangeboden, dan zal de leverancier moeten kunnen aantonen dat de ontwikkelde algoritmen en AI voldoen aan de geldende normen. Als het gaat om een risicovolle, nog te ontwikkelen, algoritmen of AI, dan zal de opdrachtgever naar verwachting zelf een intensievere bijdrage moet leveren aan de samenwerking.
+De inzichten uit de algoritme levenscyclus kunnen ondersteunen bij bijvoorbeeld de behoeftestelling, het maken van make-or-buy beslissingen, de te hanteren aanbestedingsvorm, de totstandkoming van de selectie- en gunningseisen, contractspecificaties en de uitvoering en management van het contract. De algoritme levenscyclus kan worden geraadpleegd via het tabblad boven aan deze pagina. Per fase en per type algoritme of AI kan worden bekeken aan welke vereisten moet worden voldaan en welke beheersmaatregelen kunnen worden getroffen. 
 
-De inzichten uit de algoritme levenscyclus kunnen ondersteunen bij bijvoorbeeld het maken van make-or-buy beslissingen, bepalen van de inkoopstrategie, te hanteren aanbestedingsvorm, de totstandkoming van de selectie- en gunningseisen, contractspecificaties en de uitvoering en management van het contract. De algoritme levenscyclus kan worden geraadpleegd via het tabblad boven aan deze pagina. 
  
 ## Vereisten
 

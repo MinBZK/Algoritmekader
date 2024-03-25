@@ -1,6 +1,6 @@
 ---
 title: Vaststellen archiefbescheiden
-bron: 4.01 ITGC Toetingskader Algemene rekenkamer
+bron: 
 toepassingen:
 - niet-impactvol
 - impactvol
@@ -15,22 +15,21 @@ techniek:
 rollen:
 - informatiebeheerder
 - proceseigenaar
-- contractbeheerder
 ---
 
 <!-- tags -->
 
 ## Maatregel
-Stel de bewaartermijn vast voor de archiefbescheiden.  
+Er moet worden vastgesteld welke documenten, data of informatie van het algoritme of het AI-systeem moeten gelden als archiefbescheiden. 
 
 ## Toelichting
-Overleg hierover met de verantwoordelijke binnen de organisatie voor het toepassen van de Archiefwet. 
+Hierbij kan worden gedacht aan de broncode, trainings- en testdata, (technische) documentatie en de output. Overleg hierover met de verantwoordelijke binnen de organisatie voor het toepassen van de Archiefwet. 
 
 ## Risico
 Zonder goede toepassing van de Archiefwet is het voor betrokkene(n) of derden niet mogelijk om achteraf te controleren wat de werking van algoritmen en AI-systemen was.
 
 ## Bronnen
-4.01 ITGC Toetingskader Algemene rekenkamer
+
 
 ## Voorbeeld
 Heb jij een goed voorbeeld? Laat het ons weten!

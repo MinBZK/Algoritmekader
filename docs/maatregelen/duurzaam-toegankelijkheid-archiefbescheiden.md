@@ -20,7 +20,7 @@ rollen:
 <!-- tags -->
 
 ## Maatregel
-Stel vast of beperkingen aan openbaarheid van de archiefbescheiden moeten worden gesteld.
+Stel vast hoe de archiefbescheiden op een duurzame wijze toegankelijk kunnen worden gemaakt. 
 
 ## Toelichting
 Het moet mogelijk zijn dat archiefbescheiden daadwerkelijk overhandigd kunnen worden aan betrokken partijen. Denk hierbij aan burgers, onderneming, toezichthouder of rechters. 

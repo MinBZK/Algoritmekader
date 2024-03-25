@@ -41,6 +41,12 @@ De inzichten uit de algoritme levenscyclus kunnen ondersteunen bij bijvoorbeeld 
 | [Non-discriminatie](../../vereisten/fundamentele%20rechten/Non%20discriminatie.md) | .........                                                                                                                                                                                                                                                                                                                                                         |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
 | [Verbod schenden Auteursrechten](../../vereisten/inkoop/verbod-schenden-auteursrechten.md )                            | Bepaalde vormen van algoritmen en AI worden ontwikkeld op basis van grote hoeveelheden data. Deze data wordt gebruikt voor het trainingen en testen van algoritmen en AI. Deze data mag geen inbreuk maken op Auteursrechten. Ook de gegenereerde output van algoritmen en AI mag geen inbreuk maken op deze rechten.  |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
 
+style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
+| [Kwaliteitsmanagementsysteem](../../vereisten/governance/kwaliteitsmanagamentsysteem.md) | De ontwikkelaar van een AI-systeem of een 'general purpose AI model' die deze op de markt plaatst zal een kwaliteitsmanagementsysteem toepassen waarmee wordt voldaan aan de verplichtingen die voortkomen uit de AI-verordening.   |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
+
+
+
+
 ## Nuttige informatie
 [Europese modelcontractbepalingen AI-systemen (hoog risico)](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_template_High_Risk%20NL.pdf)
 

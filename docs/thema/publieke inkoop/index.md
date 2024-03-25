@@ -26,7 +26,9 @@ Deze levenscyclus kan worden gebruikt voor alle typen algoritmen en AI. Het vers
 Bij het publiek inkopen van software met bijbehorende algoritmen en AI zijn de wensen van de behoeftesteller en de doelstellingen van de organisatie van groot belang. Dit kan tot verschillende situaties leiden:
 
 •	Een al ontwikkelde kant-en-klare oplossing voldoet direct aan deze wensen en doelstellingen;
+
 •	Een al ontwikkelde oplossing moet eerst worden aangepast voordat deze kan worden gebruikt;
+
 •	Er moet een nieuwe oplossing worden ontwikkeld om te voldoen aan de wensen. 
 
 Deze inschatting is dus bepalend wat wel en niet van een product mag worden verwacht. Dit is relevant voor zowel de leverancier als de opdrachtgever. Het is aannemelijk dat als het om risicovolle (nog te ontwikkelen) algoritmen of AI gaat, de opdrachtgever een intensieve bijdrage moet leveren aan de samenwerking om het product te kunnen gebruiken. De opdrachtgever zal bijvoorbeeld moeten aangeven wat de juridische en ethische grenzen zijn van de uiteindelijk werking van het algoritme of AI. Als een kant-en-klare oplossing wordt afgenomen, dan zal de leverancier moeten laten zien dat de ontwikkelde algoritmen en AI voldoen aan alle vereisten en moet dit kunnen aantonen. 

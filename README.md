@@ -29,6 +29,8 @@ We werken in sprints van 3 of 4 weken, gevolgd door een open online review. Zo b
 ### 5. Stuur een *pull request*
 Kun je niet uit de voeten met de issues? Bijvoorbeeld omdat je verschillende wijzigingsvoorstellen wilt doen. We houden het aantal collaborators zeer beperkt. Gebruik bijvoorbeeld [Fork en doe een Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks). Het team van Algoritmekader bekijkt daarna jouw aanpassingen en kan bij akkoord jouw aanpassingen *mergen*. Er zijn ook andere manieren om een pull request te doen. [Meer daarover](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). 
 
+*Let op:* Het normenkader wordt momenteel buiten de github-repository aangepast. zolang het normenkader niet gereed is voor publieke ontwikkeling accepteren we geen externe pull requests op dit onderdeel van het algoritmekader. 
+
 We werken met [Markdown](https://www.markdownguide.org/basic-syntax/) bestanden. Dit bestandsformaat wordt door veel verschillende tools ondersteund, en maakt het eenvoudig versiebeheer toe te passen. Tijdens de ontwikkelfase gebruiken we [mkdocs](https://www.mkdocs.org/) en [material for mkdocs](https://squidfunk.github.io/mkdocs-material/) voor de presentatie op [de ontwikkelomgeving](https://minbzk.github.io/Algoritmekader/). Zo werken we direct aan de interactiviteit en flexibiliteit van het kader. Uiteindelijk landt het Algoritmekader op een bestaande overheidswebsite zoals [Digitale Overheid](https://www.digitaleoverheid.nl/).
    
 ### 6. Iets aanpassen in de navigatie van de website?

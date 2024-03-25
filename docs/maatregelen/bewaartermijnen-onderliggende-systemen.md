@@ -19,7 +19,7 @@ rollen:
 - informatiebeheerder
 - proceseigenaar
 - contractbeheerder
-- Aanbieder
+- aanbieder
 - data-scientist
 ---
 

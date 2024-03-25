@@ -34,6 +34,7 @@ nav:
     - Over het algoritmekader: 
         - overhetalgoritmekader/index.md
         - overhetalgoritmekader/definities.md
+        - overhetalgoritmekader/Begrippen-en-definities.md
     - Levenscyclus:
         - levenscyclus/index.md 
         - levenscyclus/probleemanalyse.md
@@ -74,6 +75,7 @@ nav:
         - rollen/leverancier.md
         - rollen/proceseigenaar.md
         - rollen/data-scientist.md
+        - rollen/aanbieder.md
     - Vereisten:
         - vereisten/index.md
         - Conformiteitsbeoordeling:
@@ -101,7 +103,7 @@ nav:
            - vereisten/governance/Zorgvuldigheidsbeginsel.md
         - Inkoop:
            - vereisten/inkoop/index.md
-           - vereisten/inkoop/n.t.b..md
+           - vereisten/inkoop/verbod-schenden-auteursrechten.md
         - Menselijke controle:
            - vereisten/menselijke controle/index.md
            - vereisten/menselijke controle/Menselijke controle.md
@@ -142,6 +144,7 @@ nav:
         - maatregelen/archiefwet-inkoopproces.md
         - maatregelen/openbaarheid-archiefbescheiden.md
         - maatregelen/duurzaam-toegankelijkheid-archiefbescheiden.md
+        - maatregelen/vaststellen-archiefbescheiden.md
     - Instrumenten: instrumenten/index.md
 
 # Extra opties

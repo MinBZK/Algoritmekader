@@ -20,7 +20,7 @@ rollen:
 <!-- tags -->
 
 ## Maatregel
-Er moet worden vastgesteld welke documenten, data of informatie van het algoritme of het AI-systeem moeten gelden als archiefbescheiden. 
+Er moet worden vastgesteld welke documenten, data of informatie van het algoritme of het AI-systeem gelden als archiefbescheiden. 
 
 ## Toelichting
 Hierbij kan worden gedacht aan de broncode, trainings- en testdata, (technische) documentatie en de output. Overleg hierover met de verantwoordelijke binnen de organisatie voor het toepassen van de Archiefwet. 

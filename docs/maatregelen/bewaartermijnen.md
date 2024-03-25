@@ -1,5 +1,5 @@
 ---
-title: Bewaartermijnen bij archiefbescheiden
+title: Duiden bewaartermijnen bij archiefbescheiden
 bron: 4.01 ITGC Toetingskader Algemene rekenkamer
 toepassingen:
 - niet-impactvol

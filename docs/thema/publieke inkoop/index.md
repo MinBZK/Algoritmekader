@@ -23,9 +23,12 @@ Het publiek inkopen van algoritmen en AI wordt ook gekoppeld aan de algoritme le
 Algoritmen en AI kunnen een grote impact hebben op onze maatschappij. Daarom is het van belang dat deze op een verantwoorde manier worden ontwikkeld en gebruikt. Het toepassen van de algoritme levenscyclus is hierover een bruikbare leidraad. De algoritme levenscyclus bestaat uit meerdere fasen. De werkzaamheden die noodzakelijk zijn om een verantwoord algoritme of AI te ontwikkelen, kunnen logisch worden gekoppeld aan deze fasen. 
 Deze levenscyclus kan worden gebruikt voor alle typen algoritmen en AI. Het verschilt uiteraard wel per type wat moet worden gedaan en dit is mede afhankelijk van de risico classificatie. Bij hoge risico toepassing zal meer moeten worden gedaan om risico’s te mitigeren dan als er sprake is van lage risico toepassingen. De levenscyclus geeft een bruikbaar overzicht voor leveranciers en opdrachtgevers wanneer welke werkzaamheden moeten worden uitgevoerd. Het laat ook zien welke werkzaamheden moeten zijn afgerond als algoritmen en AI in de markt mogen worden gezet en klaar zijn voor gebruik. 
 
-Bij het publiek inkopen van software met bijbehorende algoritmen en AI zijn de wensen van de behoeftesteller en de doelstellingen van de organisatie van groot belang. Dit kan tot verschillende situaties leiden: 
+Bij het publiek inkopen van software met bijbehorende algoritmen en AI zijn de wensen van de behoeftesteller en de doelstellingen van de organisatie van groot belang. Dit kan tot verschillende situaties leiden:
+
 •	Een al ontwikkelde kant-en-klare oplossing voldoet direct aan deze wensen en doelstellingen;
+
 •	Een al ontwikkelde oplossing moet eerst worden aangepast voordat deze kan worden gebruikt;
+
 •	Er moet een nieuwe oplossing worden ontwikkeld om te voldoen aan de wensen. 
 
 Deze inschatting is dus bepalend wat wel en niet van een product mag worden verwacht. Dit is relevant voor zowel de leverancier als de opdrachtgever. Het is aannemelijk dat als het om risicovolle (nog te ontwikkelen) algoritmen of AI gaat, de opdrachtgever een intensieve bijdrage moet leveren aan de samenwerking om het product te kunnen gebruiken. De opdrachtgever zal bijvoorbeeld moeten aangeven wat de juridische en ethische grenzen zijn van de uiteindelijk werking van het algoritme of AI. Als een kant-en-klare oplossing wordt afgenomen, dan zal de leverancier moeten laten zien dat de ontwikkelde algoritmen en AI voldoen aan alle vereisten en moet dit kunnen aantonen. 

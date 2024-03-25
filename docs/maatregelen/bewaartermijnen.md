@@ -1,5 +1,5 @@
 ---
-title: Bewaartermijnen documenten
+title: Bewaartermijnen bij archiefbescheiden
 bron: 4.01 ITGC Toetingskader Algemene rekenkamer
 toepassingen:
 - niet-impactvol
@@ -21,7 +21,7 @@ rollen:
 <!-- tags -->
 
 ## Maatregel
-Er moet worden vastgesteld welke documenten of informatie bewaard moeten worden over of van het algoritme of het AI-systeem. De bewaartermijn is afgestemd op de eisen van wet- en regelgeving en op de controle- en auditcyclus van de betreffende gegevens. 
+Er moet worden vastgesteld welke documenten, data of informatie bewaard moeten worden over of van het algoritme of het AI-systeem en voor hoelang. 
 
 ## Toelichting
 Hierbij kan worden gedacht aan de broncode, trainings- en testdata, (technische) documentatie en de output. 

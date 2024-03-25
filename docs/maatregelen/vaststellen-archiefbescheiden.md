@@ -1,5 +1,5 @@
 ---
-title: Duiden bewaartermijnen bij archiefbescheiden
+title: Vaststellen archiefbescheiden
 bron: 4.01 ITGC Toetingskader Algemene rekenkamer
 toepassingen:
 - niet-impactvol

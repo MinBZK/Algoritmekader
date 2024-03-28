@@ -1,10 +1,12 @@
---- 
-title: Implementatie
+---
+title: Privacy en gegevensbescherming
+icon: material/shield-lock
 ---
 
-In deze fase wordt het AI-model in de praktijk gebracht en geïntegreerd in het bedrijfsproces. Het wordt operationeel en begint te werken met echte gegevens.
+Hier komt een beschrijving van dit bouwblok
 
-#<!-- list levenscyclus/implementatie -->
+!!! note "status: dit bouwblok is in ontwikkeling"
+
 
 !!! info "Disclaimer"
 

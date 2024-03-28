@@ -10,19 +10,20 @@ theme:
     name: material
     language: nl
     palette:
-        primary: blue
+        - primary: blue
     features:
         - navigation.indexes
         - navigation.tabs
         - navigation.tabs.sticky
-        - navigation.path
         - navigation.top
         - navigation.tracking
-        # - navigation.footer
+        - navigation.instant
         - search.highlight
         - search.suggest
         - content.action.edit
+        - content.action.view
         - content.tooltips
+        - content.tabs.link
     icon:
         logo: fontawesome/solid/house
         annotation: fontawesome/solid/circle-info
@@ -33,104 +34,117 @@ nav:
     - Over het algoritmekader: 
         - overhetalgoritmekader/index.md
         - overhetalgoritmekader/definities.md
+        - overhetalgoritmekader/Begrippen-en-definities.md
     - Levenscyclus:
         - levenscyclus/index.md 
         - levenscyclus/probleemanalyse.md
         - levenscyclus/ontwerp.md
-        - levenscyclus/data verkenning en data preparatie.md
+        - levenscyclus/dataverkenning-en-datapreparatie.md
         - levenscyclus/ontwikkelen.md
         - levenscyclus/validatie.md
         - levenscyclus/implementatie.md
         - levenscyclus/monitoren.md
         - levenscyclus/archiveren.md
-    - Bouwblokken:
-        - bouwblokken/index.md
-        - Conformiteitsbeoordeling:
-            - bouwblokken/conformiteitsbeoordeling/index.md
-            - bouwblokken/conformiteitsbeoordeling/audit.md
-            - bouwblokken/conformiteitsbeoordeling/toezicht.md
-        - Data:
-            - bouwblokken/data/index.md
-            - bouwblokken/data/data kwaliteit.md
-            - bouwblokken/data/data governance.md
-        - Duurzaamheid:
-            - bouwblokken/duurzaamheid/index.md
+    - Thema's:
+        - thema/index.md
         - Fundamentele rechten:
-            - bouwblokken/fundamentele rechten/index.md
-            - bouwblokken/fundamentele rechten/non-discriminatie.md
-        - Governance:
-          - bouwblokken/governance/index.md
-        - Inkoop:
-          - bouwblokken/inkoop/index.md
-        - Menselijke controle:
-          - bouwblokken/menselijke controle/index.md
+            - thema/fundamentele rechten/index.md
+            - thema/fundamentele rechten/non-discriminatie.md
+        - Publieke inkoop:
+            - thema/publieke inkoop/index.md
         - Privacy en gegevensbescherming:
-          - bouwblokken/privacy en gegevensbescherming/index.md
-        - Technische robuustheid en veiligheid:
-          - bouwblokken/technische robuustheid en veiligheid/index.md
+            - thema/privacy en gegevensbescherming/index.md
         - Transparantie:
-          - bouwblokken/transparantie/index.md
-    - Normen:
-        - normen/index.md
+            - thema/transparantie/index.md
         - Conformiteitsbeoordeling:
-           - normen/conformiteitsbeoordeling/index.md
-           - normen/conformiteitsbeoordeling/n.t.b..md
+            - thema/conformiteitsbeoordeling/index.md
         - Data:
-           - normen/data/index.md
-           - normen/data/n.t.b..md
+            - thema/data/index.md
         - Duurzaamheid:
-           - normen/duurzaamheid/index.md
-           - normen/duurzaamheid/Bewerkstellig duurzaamheid.md
-        - Fundamentele rechten:
-           - normen/fundamentele rechten/index.md
-           - normen/fundamentele rechten/Non discriminatie.md
+            - thema/duurzaamheid/index.md
         - Governance:
-           - normen/governance/index.md
-           - normen/governance/Data governance.md
-           - normen/governance/Rollen en verantwoordelijkheden.md
-           - normen/governance/Eigenaarschap en beheer.md
-           - normen/governance/Archiveren.md
-           - normen/governance/Risicobeheer.md
-           - normen/governance/Aantoonbaarheid.md
-           - normen/governance/Kwaliteitsmanagementsysteem.md
-           - normen/governance/Mensenrechteneffectbeoordeling.md
-           - normen/governance/Zorgvuldigheidsbeginsel.md
-        - Inkoop:
-           - normen/inkoop/index.md
-           - normen/inkoop/n.t.b..md
+            - thema/governance/index.md
         - Menselijke controle:
-           - normen/menselijke controle/index.md
-           - normen/menselijke controle/Menselijke controle.md
-           - normen/menselijke controle/Klachtenafhandelingsprocedure.md
-           - normen/menselijke controle/Autonomie.md
-           - normen/menselijke controle/AI geletterdheid.md
-        - Privacy en gegevensbescherming:
-           - normen/privacy en gegevensbescherming/index.md
-           - normen/privacy en gegevensbescherming/Rollen en verantwoordelijkheden.md
-           - normen/privacy en gegevensbescherming/GEB DPIA en voorafgaande raadpleging AP .md
-           - normen/privacy en gegevensbescherming/Doelbinding.md
-           - normen/privacy en gegevensbescherming/Dataminimalisatie.md
-           - normen/privacy en gegevensbescherming/Rechtmatigheid en grondslag.md
-           - normen/privacy en gegevensbescherming/Geactualisserde en juiste gegevens.md
-           - normen/privacy en gegevensbescherming/Opslagbeperking.md
-           - normen/privacy en gegevensbescherming/Bijzondere persoonsgegevens.md
-           - normen/privacy en gegevensbescherming/Privacyrechten.md
-           - normen/privacy en gegevensbescherming/Geautomatiseerde besluitvorming en profileren.md
-           - normen/privacy en gegevensbescherming/Privacy by Design en by Default.md
+            - thema/menselijke controle/index.md
         - Technische robuustheid en veiligheid:
-           - normen/technische robuustheid en veiligheid/index.md
-           - normen/technische robuustheid en veiligheid/Informatiebeveiliging.md
-           - normen/technische robuustheid en veiligheid/Data is representatief.md
-           - normen/technische robuustheid en veiligheid/Doel en keuze algoritme.md
-           - normen/technische robuustheid en veiligheid/Betrouwbare algoritme uitkomsten.md
-           - normen/technische robuustheid en veiligheid/Algoritme continuïteit.md
+            - thema/technische-robuustheid-en-veiligheid/index.md
+    - Rollen:
+        - rollen/index.md
+        - rollen/contractbeheerder.md
+        - rollen/informatiebeheerder.md
+        - rollen/leverancier.md
+        - rollen/proceseigenaar.md
+        - rollen/data-scientist.md
+        - rollen/aanbieder.md
+    - Vereisten:
+        - vereisten/index.md
+        - Conformiteitsbeoordeling:
+           - vereisten/conformiteitsbeoordeling/index.md
+           - vereisten/conformiteitsbeoordeling/n.t.b..md
+        - Data:
+           - vereisten/data/index.md
+           - vereisten/data/n.t.b..md
+        - Duurzaamheid:
+           - vereisten/duurzaamheid/index.md
+           - vereisten/duurzaamheid/Bewerkstellig duurzaamheid.md
+        - Fundamentele rechten:
+           - vereisten/fundamentele rechten/index.md
+           - vereisten/fundamentele rechten/Non discriminatie.md
+        - Governance:
+           - vereisten/governance/index.md
+           - vereisten/governance/Data governance.md
+           - vereisten/governance/Rollen en verantwoordelijkheden.md
+           - vereisten/governance/Eigenaarschap en beheer.md
+           - vereisten/governance/Archiveren.md
+           - vereisten/governance/Risicobeheer.md
+           - vereisten/governance/Aantoonbaarheid.md
+           - vereisten/governance/Kwaliteitsmanagementsysteem.md
+           - vereisten/governance/Mensenrechteneffectbeoordeling.md
+           - vereisten/governance/Zorgvuldigheidsbeginsel.md
+        - Inkoop:
+           - vereisten/inkoop/index.md
+           - vereisten/inkoop/verbod-schenden-auteursrechten.md
+        - Menselijke controle:
+           - vereisten/menselijke controle/index.md
+           - vereisten/menselijke controle/Menselijke controle.md
+           - vereisten/menselijke controle/Klachtenafhandelingsprocedure.md
+           - vereisten/menselijke controle/Autonomie.md
+           - vereisten/menselijke controle/AI geletterdheid.md
+        - Privacy en gegevensbescherming:
+           - vereisten/privacy en gegevensbescherming/index.md
+           - vereisten/privacy en gegevensbescherming/Rollen en verantwoordelijkheden.md
+           - vereisten/privacy en gegevensbescherming/GEB DPIA en voorafgaande raadpleging AP .md
+           - vereisten/privacy en gegevensbescherming/Doelbinding.md
+           - vereisten/privacy en gegevensbescherming/Dataminimalisatie.md
+           - vereisten/privacy en gegevensbescherming/Rechtmatigheid en grondslag.md
+           - vereisten/privacy en gegevensbescherming/Geactualisserde en juiste gegevens.md
+           - vereisten/privacy en gegevensbescherming/Opslagbeperking.md
+           - vereisten/privacy en gegevensbescherming/Bijzondere persoonsgegevens.md
+           - vereisten/privacy en gegevensbescherming/Privacyrechten.md
+           - vereisten/privacy en gegevensbescherming/Geautomatiseerde besluitvorming en profileren.md
+           - vereisten/privacy en gegevensbescherming/Privacy by Design en by Default.md
+        - Technische robuustheid en veiligheid:
+           - vereisten/technische-robuustheid-en-veiligheid/index.md
+           - vereisten/technische-robuustheid-en-veiligheid/Informatiebeveiliging.md
+           - vereisten/technische-robuustheid-en-veiligheid/Data is representatief.md
+           - vereisten/technische-robuustheid-en-veiligheid/Doel en keuze algoritme.md
+           - vereisten/technische-robuustheid-en-veiligheid/Betrouwbare algoritme uitkomsten.md
+           - vereisten/technische-robuustheid-en-veiligheid/Algoritme continuïteit.md
         - Transparantie:
-           - normen/transparantie/index.md
-           - normen/transparantie/Informeren over interactie met AI systemen.md
-           - normen/transparantie/Transparante besluitsvorming.md
-           - normen/transparantie/Motiveringsbeginsel.md
-           - normen/transparantie/Traceerbaarheid.md
-           - normen/transparantie/Algoritmeregister.md
+           - vereisten/transparantie/index.md
+           - vereisten/transparantie/Informeren over interactie met AI systemen.md
+           - vereisten/transparantie/Transparante besluitsvorming.md
+           - vereisten/transparantie/Motiveringsbeginsel.md
+           - vereisten/transparantie/Traceerbaarheid.md
+           - vereisten/transparantie/Algoritmeregister.md
+    - Maatregelen:
+        - maatregelen/index.md
+        - maatregelen/bewaartermijnen.md
+        - maatregelen/bewaartermijnen-onderliggende-systemen.md
+        - maatregelen/archiefwet-inkoopproces.md
+        - maatregelen/openbaarheid-archiefbescheiden.md
+        - maatregelen/duurzaam-toegankelijkheid-archiefbescheiden.md
+        - maatregelen/vaststellen-archiefbescheiden.md
     - Instrumenten: instrumenten/index.md
 
 # Extra opties
@@ -143,6 +157,8 @@ markdown_extensions:
     - attr_list
     - abbr
     - md_in_html
+    - toc:
+        permalink: true
     - pymdownx.tasklist:
         custom_checkbox: true
     - pymdownx.emoji:
@@ -153,19 +169,33 @@ markdown_extensions:
             - includes/begrippenlijst.md
 
 # Extra opties voor footer
-extra:
-  social:
-    - icon: fontawesome/brands/github 
-      link: https://github.com/MinBZK/Algoritmekader
+extra: 
+    social:
+        - icon: fontawesome/brands/github 
+          link: https://github.com/MinBZK/Algoritmekader
+    status:
+        new: Deze pagina is in ontwikkeling
+        deprecated: Deze pagina wordt binnenkort verwijderd
+        todo: Dit bouwblok moet nog ontwikkeld worden
 
+extra_css:
+  - stylesheets/extra.css
 
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
+  
 plugins:
     - glightbox
     - search
     - git-revision-date-localized:
         enable_creation_date: true
-    - tags:
-        tags_file: tags.md
+    # - tags:
+    #     tags_file: tags.md
+
+hooks:
+    - src/overrides/hooks/tags.py
+    - src/overrides/hooks/lists.py
 
 # Link naar GitHub repo (nu nog even mijn eigen repo)
 repo_url: https://github.com/MinBZK/Algoritmekader

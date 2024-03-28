@@ -1,0 +1,25 @@
+.mdx-badge {
+    font-size: .85em;
+    display: inline-block;
+    margin: .2rem .3rem;
+}
+
+.mdx-badge__icon {
+    border-top-left-radius: .1rem;
+    border-bottom-left-radius: .1rem;
+
+    background: var(--md-accent-fg-color--transparent);
+    padding: .2rem;
+}
+
+.mdx-badge__text {
+    border-bottom-right-radius: .1rem;
+    border-top-right-radius: .1rem;
+
+    box-shadow: 0 0 0 1px inset var(--md-accent-fg-color--transparent);
+    padding: .2rem .3rem;
+}
+
+.mdx-badge a {
+    color: var(--md-accent-fg-color);
+}

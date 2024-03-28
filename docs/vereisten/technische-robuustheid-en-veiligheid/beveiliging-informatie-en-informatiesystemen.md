@@ -22,6 +22,7 @@ Informatiebeveiliging is het proces van vaststellen van de vereiste beveiliging 
 | Beleid | [Baseline Informatiebeveiliging Overheid](https://www.bio-overheid.nl/) |  |
 | Beleid | [Besluit Besluit voorschrift informatiebeveiliging rijksdienst 2007](https://wetten.overheid.nl/BWBR0022141/2007-07-01) |  |
 
+
 ## Wanneer van toepassing?
 
 | **hoog-risico AI systemen (AI Act)** |    **impactvolle algoritmes**    | **niet-impactvolle algoritmes**  |

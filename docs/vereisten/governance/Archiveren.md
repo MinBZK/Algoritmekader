@@ -29,10 +29,10 @@ Volgens de Archiefwet moeten overheden informatie bewaren. Op basis van deze inf
 
 | **hoog-risico AI systemen (AI Act)** |    **impactvolle algoritmes**    | **niet-impactvolle algoritmes**  |
 |:---------------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
-|   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-close:{ style="color: #EF5350" } |
+|   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
 
 ## Risico
-Zonder goede toepassing van de Archiefwet is het voor betrokkene(n) of derden niet mogelijk om achteraf te controleren wat de werking van algoritmen en AI-systemen was.
+Zonder goede toepassing van de Archiefwet is het voor betrokkene(n) of derden niet mogelijk om achteraf te reconstrueren en te controleren hoe besluiten, waar algoritmen en AI aan hebben bijgedragen, tot stand zijn gekomen. Het nalaten om archiefbescheiden na verloop van tijd te verwijderen brengt risico's met zich mee op het gebied van privacy en informatiebeveiliging 
 
 ## Normen
 In afwachting van normalisatieproces

@@ -1,5 +1,5 @@
 ---
-title: Verbod schenden auteursrechten
+title: Verbod op schenden auteursrechten
 hide: navigation
 ---
 

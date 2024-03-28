@@ -1,5 +1,5 @@
 ---
-title: Toepassen Archiefwet
+title: De Archiefwet is ook van toepassing op algoritmen en AI.
 hide: navigation
 ---
 
@@ -10,17 +10,19 @@ hide: navigation
 # Archiveren 
 
 ## Vereiste
-Archiefbescheiden die gaan over algoritmen en AI-systemen worden bewaard en vernietigd conform de Archiefwet.
+Overheidsorganen zijn verplicht de onder hen berustende archiefbescheiden in goede, geordende en toegankelijke staat te brengen en te bewaren, alsmede zorg te dragen voor de vernietiging van de daarvoor in aanmerking komende archiefbescheiden.
 
 ## Toelichting
-De grondslag van de Archiefwet is dat, als de overheid de informatie bewaart die voortkomt uit de verschillende werkprocessen, aan de hand van deze informatie de werkprocessen kunnen worden gereconstrueerd en kan worden nagegaan hoe besluiten tot stand zijn gekomen. De oordeelsvorming over hoe zaken zijn verlopen kan dan worden overgelaten aan anderen: het archief faciliteert. 
+Volgens de Archiefwet moeten overheden informatie bewaren. Op basis van deze informatie moet  gereconstrueerd kunnen worden hoe besluiten, ook in de context van algoritmen en AI, tot stand zijn gekomen. Informatie over en van algoritmen en AI moet daarom ook bewaard en vernietigd worden.
 
 ## Bronnen
 
 | **Type**            | **Bron**                                                                                                                                                                     | **Toelichting**                                               |
 |---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| Wet- en regelgeving | [Art. 3 Archiefwet](https://wetten.overheid.nl/BWBR0007376/2022-05-01)                                                                                                     | |
-| Wet- en regelgeving | [Art 15 lid 2 Archiefwet](https://wetten.overheid.nl/BWBR0007376/2022-05-01)                                                                                            |  |
+| Wet- en regelgeving | [Art. 3 Archiefwet](https://wetten.overheid.nl/BWBR0007376/2022-05-01)  | |
+| Wet- en regelgeving | [Art 15 lid 2 Archiefwet](https://wetten.overheid.nl/BWBR0007376/2022-05-01) |  |
+| Wet- en regelgeving | [Archiefbesluit 1995](https://wetten.overheid.nl/BWBR0007748/2020-01-01) |  |
+| Wet- en regelgeving | [Archiefregeling](https://wetten.overheid.nl/BWBR0027041/2014-01-01) |  |
 
 
 ## Wanneer van toepassing?

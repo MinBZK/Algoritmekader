@@ -20,7 +20,7 @@ Bepaalde vormen van algoritmen en AI worden ontwikkeld op basis van grote hoevee
 | **Type**            | **Bron**           | **Toelichting**       
 |---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | Wet- en regelgeving | [Art. 1, 4-9, 10, 13, 15n jo 15o Auteurswet](https://wetten.overheid.nl/BWBR0001886/2022-10-01) |  |
-| Wet- en regelgeving | [Art. 3 en 4 DSM-Richtlijn](https://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=CELEX:32019L0790&from=PL) | Hier nog ruimte om aan te geven wat de wetgeving precies zegt |
+| Wet- en regelgeving | [Art. 3 en 4 DSM-Richtlijn](https://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=CELEX:32019L0790&from=PL) |  |
 
 ## Wanneer van toepassing?
 

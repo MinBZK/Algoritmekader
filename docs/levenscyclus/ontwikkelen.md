@@ -1,10 +1,12 @@
 --- 
-tags:
-    - ontwikkelen
+title: Ontwikkelen
 ---
 
-# Ontwikkelen
 Dit is de fase waarin het AI-model of algoritme wordt gebouwd. Als het gaat om AI-modellen, omvat het trainen van modellen met behulp van de voorbereide gegevens.
+
+## Maatregelen
+
+<!-- list levenscyclus/ontwikkelen -->
 
 !!! info "Disclaimer"
 

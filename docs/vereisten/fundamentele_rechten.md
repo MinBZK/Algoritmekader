@@ -36,7 +36,7 @@ Fundamentele vrijheden, mensenrechten en grondrechten worden beschermd bij de in
 | Bron                        |
 |-----------------------------|
 |Grondwet en internationale verdragen|
-|Art 29a AI-verordening|
+|Art 27 AI-verordening|
 
 ## Wanneer van toepassing? 
 

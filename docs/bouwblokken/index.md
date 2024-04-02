@@ -38,7 +38,7 @@ icon: material/cube
 
     Hier kunnen we een korte tekst kwijt over transparantie
 
-    [:octicons-arrow-right-24: Naar transparantie](../bouwblokken/transparantie/)
+    [:octicons-arrow-right-24: Naar transparantie](../bouwblokken/transparantie/index.md)
 
 -   :material-check-circle: __Conformiteitsbeoordeling__ *(nog te doen)*
 

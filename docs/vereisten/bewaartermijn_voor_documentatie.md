@@ -38,6 +38,7 @@ Dit waarborgt dat de autoriteiten toegang hebben tot relevante informatie voor c
 | Bron                        |
 |-----------------------------|
 |Artikel 18(1) Bewaring van documentatie- AI verordening|
+|Artikel 16(d) Verplichtingen van aanbieders van AI-systemen met een hoog risico - AI veordening|
 
 ## Wanneer van toepassing? 
 

@@ -63,7 +63,6 @@ def on_env(env, config: MkDocsConfig, files: Files):
 
 
 def _create_table_row(file: File):
-    rekenregels = file.page.meta.get("toepassingen", [])
 
     return "".join(
         [

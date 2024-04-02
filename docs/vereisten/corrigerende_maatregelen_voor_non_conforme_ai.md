@@ -38,6 +38,7 @@ Ze moeten ook alle relevante partijen, zoals distributeurs, exploitanten en impo
 | Bron                        |
 |-----------------------------|
 |Artikel 20(1) Corrigerende maatregelen en mededelingsverplichting- AI verordening|
+|Artikel 16(j) Verplichtingen van aanbieders van AI-systemen met een hoog risico - AI veordening|
 
 ## Wanneer van toepassing? 
 

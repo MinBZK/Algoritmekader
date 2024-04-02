@@ -39,6 +39,7 @@ Deze logs moeten ten minste zes maanden worden bewaard, tenzij anders bepaald do
 | Bron                        |
 |-----------------------------|
 |Artikel 19(1) Automatisch gegenereerde logs- AI verordening|
+|Artikel 16(e) Verplichtingen van aanbieders van AI-systemen met een hoog risico - AI veordening|
 
 ## Wanneer van toepassing? 
 

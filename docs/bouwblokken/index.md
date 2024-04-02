@@ -1,57 +1,95 @@
 ---
 title: Bouwblokken
 summary: Hier staat een korte samenvatting over dit onderwerp
+icon: material/cube
 ---
 
-Bij het algoritmekader hebben we 10 bouwblokken gedefinieerd. Deze bouwblokken geven structuur aan het algoritmekader. 
+<div class="grid cards" markdown>
 
-### :fontawesome-solid-square-check: [Conformiteitsbeoordeling](../bouwblokken/conformiteitsbeoordeling/index.md)
+-   :material-scale-balance: __Fundamentele rechten__ *(in ontwikkeling)*
 
-- [audit]( ../bouwblokken/conformiteitsbeoordeling/audit.md)
+    ---
 
-- [toezicht]( ../bouwblokken/conformiteitsbeoordeling/toezicht.md)
+    Het bouwblok fundamentele rechten is opgesplitst in verschillende delen
 
---- 
+    [:octicons-arrow-right-24: Naar fundamentele rechten](../bouwblokken/fundamentele-rechten/index.md)
 
-### :fontawesome-solid-database: [Data](../bouwblokken/data/index.md)
+    [:octicons-arrow-right-24: Naar bias en non-discriminatie](../bouwblokken/fundamentele-rechten/non-discriminatie.md)
 
-- [data kwaliteit](../bouwblokken/data/data%20kwaliteit.md)
+-   :material-cart: __Publieke inkoop__ *(in ontwikkeling)*
 
-- [data governance](../bouwblokken/data/data%20governance.md)
+    ---
 
----
+    Hier kunnen we een korte tekst kwijt over publieke inkoop
 
-### :fontawesome-solid-leaf: [Duurzaamheid](../bouwblokken/duurzaamheid/index.md)
+    [:octicons-arrow-right-24: Naar publieke inkoop](../bouwblokken/publieke-inkoop/index.md)
 
---- 
+-   :material-shield-lock: __Privacy en gegevensbescherming__ *(in ontwikkeling)*
 
-### :material-scale-balance: [Fundamentele rechten](../bouwblokken/fundamentele%20rechten/index.md)
+    ---
 
-- [non-discriminatie](../bouwblokken/fundamentele%20rechten/non-discriminatie.md)
+    Hier kunnen we een korte tekst kwijt over privacy en gegevensbescherming
 
----
+    [:octicons-arrow-right-24: Naar privacy en gegevensbescherming](../bouwblokken/privacy-en-gegevensbescherming/index.md)
 
-### :fontawesome-solid-building-columns: [Governance](../bouwblokken/governance/index.md)
+-   :material-magnify: __Transparantie__ *(in ontwikkeling)*
 
----
+    ---
 
-### :fontawesome-solid-cart-shopping: [Inkoop](../bouwblokken/inkoop/index.md)
+    Hier kunnen we een korte tekst kwijt over transparantie
 
----
+    [:octicons-arrow-right-24: Naar transparantie](../bouwblokken/transparantie/)
 
-### :fontawesome-solid-person-circle-check: [Menselijke controle](../bouwblokken/menselijke%20controle/index.md)
+-   :material-check-circle: __Conformiteitsbeoordeling__ *(nog te doen)*
 
----
+    ---
 
-### :fontawesome-solid-lock: [Privacy en gegevensbescherming](../bouwblokken/privacy%20en%20gegevensbescherming/index.md)
+    Hier kunnen we een korte tekst kwijt over conformiteitsbeoordeling
 
----
+    [:octicons-arrow-right-24: Naar conformiteitsbeoordeling](../bouwblokken/conformiteitsbeoordeling/index.md)
 
-### :fontawesome-solid-gear: [Technische robuustheid en veiligheid](../bouwblokken/technische%20robuustheid%20en%20veiligheid/index.md)
+-   :material-database: __Data__ *(nog te doen)*
 
----
+    ---
 
-### :fontawesome-solid-magnifying-glass: [Transparantie](../bouwblokken/transparantie/index.md)
+    Hier kunnen we een korte tekst kwijt over data
+
+    [:octicons-arrow-right-24: Naar data](../bouwblokken/data/index.md)
+
+-   :material-leaf: __Duurzaamheid__ *(nog te doen)*
+
+    ---
+
+    Hier kunnen we een korte tekst kwijt over duurzaamheid
+
+    [:octicons-arrow-right-24: Naar duurzaamheid](../bouwblokken/duurzaamheid/index.md)
+
+-   :material-bank: __Governance__ *(nog te doen)*
+
+    ---
+
+    Hier kunnen we een korte tekst kwijt over governance
+
+    [:octicons-arrow-right-24: Naar governance](../bouwblokken/governance/index.md)
+
+-   :material-account-check: __Menselijke controle__ *(nog te doen)*
+
+    ---
+
+    Hier kunnen we een korte tekst kwijt over menselijke controle
+
+    [:octicons-arrow-right-24: Naar menselijke controle](../bouwblokken/menselijke-controle/index.md)
+
+-   :material-cog: __Technische robuustheid en veiligheid__ *(nog te doen)*
+
+    ---
+
+    Hier kunnen we een korte tekst kwijt over technische robuustheid en veiligheid
+
+    [:octicons-arrow-right-24: Naar technische robuustheid en veiligheid](../bouwblokken/technische-robuustheid-en-veiligheid/index.md)
+
+</div>
+
 
 !!! info "Disclaimer"
 

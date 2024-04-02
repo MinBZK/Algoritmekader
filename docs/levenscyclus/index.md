@@ -1,4 +1,7 @@
-# Levenscyclus
+--- 
+title: Levenscyclus
+icon: material/reload
+--- 
 
 !!! info "Disclaimer"
 

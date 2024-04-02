@@ -1,4 +1,6 @@
-# Over het algoritmekader
+--- 
+title: Over het algoritmekader
+---
 
 Overheidsorganisaties moeten weten wat de eisen zijn voor verantwoorde inzet van algoritmes. Er zijn al verschillende instrumenten ontwikkeld die helpen wet- en regelgeving beter toe te passen. Het algoritmekader gaat prioriteiten aanbrengen in deze instrumenten en stroomlijnt ze, zodat overheden in alle fasen van de levenscyclus van algoritmische toepassingen praktische handvatten hebben. Best practices, use cases en input van eindgebruikers en de toezichthouder helpen tot een goed en gedragen algoritmekader voor alle overheden te komen.
 

@@ -1,9 +1,10 @@
 ---
-title: Welkom bij het algoritmekader!
+title: Algoritmekader
 summary: Het ministerie van BZK gaat aan de slag met een Algoritmekader. Het doel daarvan is om overheden op praktische wijze te ondersteunen, zodat zij op een wettige en ethisch verantwoorde wijze algoritmes en AI-systemen gebruiken.
+hide:
+  - navigation
 ---
 
-# Algoritmekader 
 Wil de overheid effectief en verantwoord gebruik kunnen maken van algoritmes en (daarmee) van Artificiële Intelligentie (AI), dan stelt dat eisen aan de manier waarop we daarmee omgaan. Tegelijkertijd zien we ook dat wat nodig is voor verantwoorde inzet enorm in ontwikkeling is, bijvoorbeeld door de snelle opkomst van (generatieve) AI. In relatief korte tijd komen er veel nieuwe mogelijkheden, maar ook nieuwe wetten, regels, normen en instrumenten. Veel overheden zien soms door de bomen het bos niet meer. Want hoe voldoe je aan de minimale normen? Wanneer is er sprake van verantwoorde inzet? En: welk instrument pas je wanneer toe?  
 
 Met het Algoritmekader werken we als overheid samen aan de antwoorden daarop. Dat doen we open; iedereen kan deze ontwikkeling volgen en eraan bijdragen. We maken bij de ontwikkeling gebruik van wat er al is: wetten, normen, regels, instrumenten en expertise. Het kader brengt dit samen op een logische manier. Zodat overheden in alle fasen van de levenscyclus van algoritmische en AI-toepassingen praktische handvatten hebben. Best practices, use cases en input van eindgebruikers en de toezichthouder helpen te komen tot een goed en gedragen Algoritmekader voor alle overheden. Het kader wordt een praktisch hulpmiddel om algoritmes en AI verantwoord te kunnen inzetten en te voldoen aan de minimale eisen die wet- en regelgeving daaraan stellen. 

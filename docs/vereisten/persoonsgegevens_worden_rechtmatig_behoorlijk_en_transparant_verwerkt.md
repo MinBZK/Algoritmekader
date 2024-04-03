@@ -1,6 +1,6 @@
 ---
 title: Persoonsgegeven worden rechtmatig, behoorlijk en transparant verwerkt 
-toelichting: De verwerking van persoonsgegevens moet eerlijk en rechtmatig plaatsvinden, wat betekent dat het voldoet aan de principes van rechtmatigheid, behoorlijkheid en transparantie dit houdt in dat de verwerking gebaseerd moet zijn op een van de wettelijke grondslagen die zijn vastgesteld in de algemene verordening gegevensbescherming (avg) 
+toelichting: De verwerking van persoonsgegevens moet eerlijk en rechtmatig plaatsvinden, wat betekent dat het voldoet aan de principes van rechtmatigheid, behoorlijkheid en transparantie. Dit houdt in dat de verwerking gebaseerd moet zijn op een van de wettelijke grondslagen die zijn vastgesteld in de Algemene Verordening Gegevensbescherming (AVG). 
 status_vereiste: 
  - Geldend
 levenscyclus: 
@@ -32,7 +32,7 @@ De verwerking van persoonsgegevens op een eerlijke en rechtmatige manier moet ge
 ## Toelichting 
 
 De verwerking van persoonsgegevens moet eerlijk en rechtmatig plaatsvinden, wat betekent dat het voldoet aan de principes van rechtmatigheid, behoorlijkheid en transparantie.
-Dit houdt in dat de verwerking gebaseerd moet zijn op een van de wettelijke grondslagen die zijn vastgesteld in de Algemene Verordening Gegevensbescherming (AVG).
+dit houdt in dat de verwerking gebaseerd moet zijn op een van de wettelijke grondslagen die zijn vastgesteld in de algemene verordening gegevensbescherming (avg).
 
 
 ## Bronnen 

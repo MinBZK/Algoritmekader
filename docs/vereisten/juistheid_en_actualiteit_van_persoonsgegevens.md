@@ -1,6 +1,6 @@
 ---
 title: Juistheid en actualiteit van gegevens
-toelichting: De te verwerken gegevens moeten nauwkeurig zijn en indien nodig regelmatig worden bijgewerkt dit waarborgt dat de informatie die wordt gebruikt bij gegevensverwerking actueel en betrouwbaar is, wat essentieel is om de integriteit van de gegevens te behouden en nauwkeurige resultaten te garanderen het bijhouden van juiste en actuele gegevens draagt bij aan transparantie en vertrouwen in de verwerking van persoonsgegevens
+toelichting: De te verwerken gegevens moeten nauwkeurig zijn en indien nodig regelmatig worden bijgewerkt. Dit waarborgt dat de informatie die wordt gebruikt bij gegevensverwerking actueel en betrouwbaar is, wat essentieel is om de integriteit van de gegevens te behouden en nauwkeurige resultaten te garanderen. Het bijhouden van juiste en actuele gegevens draagt bij aan transparantie en vertrouwen in de verwerking van persoonsgegevens.
 status_vereiste: 
  - Geldend
 levenscyclus: 
@@ -31,8 +31,8 @@ De te verwerken gegevens zijn juist, nauwkeurig en zo nodig geactualiseerd
 ## Toelichting 
 
 De te verwerken gegevens moeten nauwkeurig zijn en indien nodig regelmatig worden bijgewerkt.
-Dit waarborgt dat de informatie die wordt gebruikt bij gegevensverwerking actueel en betrouwbaar is, wat essentieel is om de integriteit van de gegevens te behouden en nauwkeurige resultaten te garanderen.
-Het bijhouden van juiste en actuele gegevens draagt bij aan transparantie en vertrouwen in de verwerking van persoonsgegevens.
+dit waarborgt dat de informatie die wordt gebruikt bij gegevensverwerking actueel en betrouwbaar is, wat essentieel is om de integriteit van de gegevens te behouden en nauwkeurige resultaten te garanderen.
+het bijhouden van juiste en actuele gegevens draagt bij aan transparantie en vertrouwen in de verwerking van persoonsgegevens.
 
 ## Bronnen 
 

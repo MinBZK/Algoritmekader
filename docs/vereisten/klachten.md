@@ -1,6 +1,6 @@
 ---
 title: Klachten indienen bij markttoezichtautoriteit 
-toelichting: Naast andere opties voor juridische stappen, heeft iedereen die gelooft dat de regels van deze verordening zijn geschonden, het recht om een klacht in te dienen bij de relevante markttoezichtautoriteit deze klachten moeten goed onderbouwd zijn en kunnen worden ingediend door zowel individuen als organisaties deze maatregel biedt een mechanisme om vermeende schendingen van de verordening aan te pakken en draagt bij aan de handhaving van de regels met betrekking tot gegevensbescherming en ai
+toelichting: Naast andere opties voor juridische stappen, heeft iedereen die gelooft dat de regels van deze verordening zijn geschonden, het recht om een klacht in te dienen bij de relevante markttoezichtautoriteit. Deze klachten moeten goed onderbouwd zijn en kunnen worden ingediend door zowel individuen als organisaties. Deze maatregel biedt een mechanisme om vermeende schendingen van de verordening aan te pakken en draagt bij aan de handhaving van de regels met betrekking tot gegevensbescherming en AI.
 status_vereiste: 
  - Treedt in werking op DATUM
 levenscyclus: 
@@ -31,8 +31,8 @@ Onverminderd andere administratieve of gerechtelijke rechtsmiddelen, kan elke na
 ## Toelichting 
 
 Naast andere opties voor juridische stappen, heeft iedereen die gelooft dat de regels van deze verordening zijn geschonden, het recht om een klacht in te dienen bij de relevante markttoezichtautoriteit.
-Deze klachten moeten goed onderbouwd zijn en kunnen worden ingediend door zowel individuen als organisaties.
-Deze maatregel biedt een mechanisme om vermeende schendingen van de verordening aan te pakken en draagt bij aan de handhaving van de regels met betrekking tot gegevensbescherming en AI.
+deze klachten moeten goed onderbouwd zijn en kunnen worden ingediend door zowel individuen als organisaties.
+deze maatregel biedt een mechanisme om vermeende schendingen van de verordening aan te pakken en draagt bij aan de handhaving van de regels met betrekking tot gegevensbescherming en ai.
 
 ## Bronnen 
 

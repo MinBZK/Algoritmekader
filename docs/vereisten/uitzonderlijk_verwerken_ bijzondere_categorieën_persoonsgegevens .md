@@ -1,6 +1,6 @@
 ---
 title: 
-toelichting: Voor zover strikt noodzakelijk voor het detecteren en corrigeren van vooringenomenheid met betrekking tot ai-systemen met een hoog risico, mogen aanbieders van dergelijke systemen uitzonderlijk speciale categorieën persoonsgegevens verwerken deze verwerking moet gepaard gaan met passende waarborgen voor de fundamentele rechten en vrijheden van natuurlijke personen
+toelichting: Voor zover strikt noodzakelijk voor het detecteren en corrigeren van vooringenomenheid met betrekking tot AI-systemen met een hoog risico, mogen aanbieders van dergelijke systemen uitzonderlijk speciale categorieën persoonsgegevens verwerken. Deze verwerking moet gepaard gaan met passende waarborgen voor de fundamentele rechten en vrijheden van natuurlijke personen.
 status_vereiste: 
  - Treedt in werking op DATUM
 levenscyclus: 
@@ -29,8 +29,8 @@ Voor zover dit strikt noodzakelijk is om de opsporing en correctie van vertekeni
 
 ## Toelichting 
 
-Voor zover strikt noodzakelijk voor het detecteren en corrigeren van vooringenomenheid met betrekking tot AI-systemen met een hoog risico, mogen aanbieders van dergelijke systemen uitzonderlijk speciale categorieën persoonsgegevens verwerken.
-Deze verwerking moet gepaard gaan met passende waarborgen voor de fundamentele rechten en vrijheden van natuurlijke personen.
+Voor zover strikt noodzakelijk voor het detecteren en corrigeren van vooringenomenheid met betrekking tot ai-systemen met een hoog risico, mogen aanbieders van dergelijke systemen uitzonderlijk speciale categorieën persoonsgegevens verwerken.
+deze verwerking moet gepaard gaan met passende waarborgen voor de fundamentele rechten en vrijheden van natuurlijke personen.
 
 ## Bronnen 
 

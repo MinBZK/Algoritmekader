@@ -46,7 +46,7 @@ nav:
         - levenscyclus/archiveren.md
     - Bouwblokken:
         - bouwblokken/index.md
-        - ... | bouwblokken/*/index.md
+        - ... | bouwblokken/*/*.md
     - Rollen:
         - rollen/index.md
     - Vereisten:

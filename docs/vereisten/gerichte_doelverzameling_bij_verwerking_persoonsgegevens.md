@@ -1,6 +1,6 @@
 ---
 title: Gerichte doelverzameling
-toelichting: Persoonsgegevens mogen alleen worden verzameld voor specifieke, duidelijk omschreven en gerechtvaardigde doeleinden het is niet toegestaan om deze gegevens verder te verwerken op een manier die niet verenigbaar is met deze oorspronkelijke doeleinden deze regel, bekend als doelbinding, zorgt ervoor dat persoonsgegevens alleen worden gebruikt zoals bedoeld en voorkomt misbruik van gegevens voor andere doeleinden dit waarborgt de privacy van individuen en versterkt het vertrouwen in gegevensverwerking
+toelichting: Persoonsgegevens mogen alleen worden verzameld voor specifieke, duidelijk omschreven en gerechtvaardigde doeleinden. Het is niet toegestaan om deze gegevens verder te verwerken op een manier die niet verenigbaar is met deze oorspronkelijke doeleinden. Deze regel, bekend als doelbinding, zorgt ervoor dat persoonsgegevens alleen worden gebruikt zoals bedoeld en voorkomt misbruik van gegevens voor andere doeleinden. Dit waarborgt de privacy van individuen en versterkt het vertrouwen in gegevensverwerking.
 status_vereiste: 
  - Geldend
  - Treed in werking op DATUM
@@ -32,9 +32,9 @@ Persoonsgegevens mogen alleen voor welbepaalde, uitdrukkelijk omschreven en gere
 ## Toelichting 
 
 Persoonsgegevens mogen alleen worden verzameld voor specifieke, duidelijk omschreven en gerechtvaardigde doeleinden.
-Het is niet toegestaan om deze gegevens verder te verwerken op een manier die niet verenigbaar is met deze oorspronkelijke doeleinden.
-Deze regel, bekend als doelbinding, zorgt ervoor dat persoonsgegevens alleen worden gebruikt zoals bedoeld en voorkomt misbruik van gegevens voor andere doeleinden.
-Dit waarborgt de privacy van individuen en versterkt het vertrouwen in gegevensverwerking.
+het is niet toegestaan om deze gegevens verder te verwerken op een manier die niet verenigbaar is met deze oorspronkelijke doeleinden.
+deze regel, bekend als doelbinding, zorgt ervoor dat persoonsgegevens alleen worden gebruikt zoals bedoeld en voorkomt misbruik van gegevens voor andere doeleinden.
+dit waarborgt de privacy van individuen en versterkt het vertrouwen in gegevensverwerking.
 
 ## Bronnen 
 

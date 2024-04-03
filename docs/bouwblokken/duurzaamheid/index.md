@@ -10,6 +10,7 @@ Hier komt een beschrijving van dit bouwblok
 
 <!-- list_vereisten bouwblok/duurzaamheid -->
 
+
 ## Maatregelen
 
 <!-- list_maatregelen bouwblok/duurzaamheid -->

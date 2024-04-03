@@ -1,6 +1,6 @@
 ---
 title: Automatische logregistratie voor hoog-risico ai
-toelichting: Ai-systemen met een hoog risico zijn ontworpen met functionaliteiten die gebeurtenissen gedurende hun levenscyclus automatisch registreren, wat vaak wordt aangeduid als "logs" deze logs bieden een traceerbaarheidsmechanisme waarmee exploitanten en autoriteiten incidenten en fouten kunnen analyseren, naleving kunnen controleren en mogelijke risico's kunnen identificeren en aanpakken het doel van deze registratie is om de transparantie en verantwoordingsplicht van ai-systemen te vergroten, waardoor het beheer van risico's en incidenten verbetert
+toelichting: AI-systemen met een hoog risico zijn ontworpen met functionaliteiten die gebeurtenissen gedurende hun levenscyclus automatisch registreren, wat vaak wordt aangeduid als "logs". Deze logs bieden een traceerbaarheidsmechanisme waarmee exploitanten en autoriteiten incidenten en fouten kunnen analyseren, naleving kunnen controleren en mogelijke risico's kunnen identificeren en aanpakken. Het doel van deze registratie is om de transparantie en verantwoordingsplicht van AI-systemen te vergroten, waardoor het beheer van risico's en incidenten verbetert.
 status_vereiste: 
  - Treedt in werking op DATUM
 levenscyclus: 
@@ -28,9 +28,9 @@ AI-systemen met een hoog risico zijn dusdanig technisch vormgegeven dat gebeurte
 
 ## Toelichting 
 
-AI-systemen met een hoog risico zijn ontworpen met functionaliteiten die gebeurtenissen gedurende hun levenscyclus automatisch registreren, wat vaak wordt aangeduid als "logs".
-Deze logs bieden een traceerbaarheidsmechanisme waarmee exploitanten en autoriteiten incidenten en fouten kunnen analyseren, naleving kunnen controleren en mogelijke risico's kunnen identificeren en aanpakken.
-Het doel van deze registratie is om de transparantie en verantwoordingsplicht van AI-systemen te vergroten, waardoor het beheer van risico's en incidenten verbetert.
+Ai-systemen met een hoog risico zijn ontworpen met functionaliteiten die gebeurtenissen gedurende hun levenscyclus automatisch registreren, wat vaak wordt aangeduid als "logs".
+deze logs bieden een traceerbaarheidsmechanisme waarmee exploitanten en autoriteiten incidenten en fouten kunnen analyseren, naleving kunnen controleren en mogelijke risico's kunnen identificeren en aanpakken.
+het doel van deze registratie is om de transparantie en verantwoordingsplicht van ai-systemen te vergroten, waardoor het beheer van risico's en incidenten verbetert.
 
 ## Bronnen 
 

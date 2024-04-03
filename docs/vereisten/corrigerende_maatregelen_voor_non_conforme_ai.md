@@ -1,6 +1,6 @@
 ---
 title: Corrigerende maatregelen voor non-conforme ai 
-toelichting: Aanbieders van ai-systemen met een hoog risico die constateren dat hun systeem niet aan de verordening voldoet, moeten onmiddellijk corrigerende acties ondernemen, zoals het terugroepen of uit de handel nemen van het systeem ze moeten ook alle relevante partijen, zoals distributeurs, exploitanten en importeurs, op de hoogte stellen van deze maatregelen
+toelichting: Aanbieders van AI-systemen met een hoog risico die constateren dat hun systeem niet aan de verordening voldoet, moeten onmiddellijk corrigerende acties ondernemen, zoals het terugroepen of uit de handel nemen van het systeem. Ze moeten ook alle relevante partijen, zoals distributeurs, exploitanten en importeurs, op de hoogte stellen van deze maatregelen.
 status_vereiste: 
  - Treedt in werking op DATUM
 levenscyclus: 
@@ -30,8 +30,8 @@ Zij stellen de distributeurs van het betrokken AI-systeem met een hoog risico en
 
 ## Toelichting 
 
-Aanbieders van AI-systemen met een hoog risico die constateren dat hun systeem niet aan de verordening voldoet, moeten onmiddellijk corrigerende acties ondernemen, zoals het terugroepen of uit de handel nemen van het systeem.
-Ze moeten ook alle relevante partijen, zoals distributeurs, exploitanten en importeurs, op de hoogte stellen van deze maatregelen.
+Aanbieders van ai-systemen met een hoog risico die constateren dat hun systeem niet aan de verordening voldoet, moeten onmiddellijk corrigerende acties ondernemen, zoals het terugroepen of uit de handel nemen van het systeem.
+ze moeten ook alle relevante partijen, zoals distributeurs, exploitanten en importeurs, op de hoogte stellen van deze maatregelen.
 
 ## Bronnen 
 

@@ -1,6 +1,6 @@
 ---
 title: Beschermen van persoonsgegevens
-toelichting: Voor de ontwikkeling en gebruik van algoritmen en ai is dat nodig deze data kan persoonsgegevens bevatten deze persoonsgegevens moeten worden beschermd de organisatie zal technische en organisatorische maatregelen moeten treffen om de data en de algoritmische toepassing of ai-systeem voldoende te beschermen hierbij kan worden gedacht aan dataminimalisatie, het pseudonomiseren of aggregeren van persoonsgegevens per toepassing moet worden onderzocht welke maatregelen hiervoor geschikt zijn 
+toelichting: Voor de ontwikkeling en gebruik van algoritmen en AI is dat nodig. Deze data kan persoonsgegevens bevatten. Deze persoonsgegevens moeten worden beschermd. De organisatie zal technische en organisatorische maatregelen moeten treffen om de data en de algoritmische toepassing of AI-systeem voldoende te beschermen. Hierbij kan worden gedacht aan dataminimalisatie, het pseudonomiseren of aggregeren van persoonsgegevens. Per toepassing moet worden onderzocht welke maatregelen hiervoor geschikt zijn. 
 
 
 status_vereiste: 
@@ -33,12 +33,12 @@ van personen, treffen de verwerkingsverantwoordelijke en de verwerker passende t
 
 ## Toelichting 
 
-Voor de ontwikkeling en gebruik van algoritmen en AI is dat nodig.
-Deze data kan persoonsgegevens bevatten.
-Deze persoonsgegevens moeten worden beschermd.
-De organisatie zal technische en organisatorische maatregelen moeten treffen om de data en de algoritmische toepassing of AI-systeem voldoende te beschermen.
-Hierbij kan worden gedacht aan dataminimalisatie, het pseudonomiseren of aggregeren van persoonsgegevens.
-Per toepassing moet worden onderzocht welke maatregelen hiervoor geschikt zijn.
+Voor de ontwikkeling en gebruik van algoritmen en ai is dat nodig.
+deze data kan persoonsgegevens bevatten.
+deze persoonsgegevens moeten worden beschermd.
+de organisatie zal technische en organisatorische maatregelen moeten treffen om de data en de algoritmische toepassing of ai-systeem voldoende te beschermen.
+hierbij kan worden gedacht aan dataminimalisatie, het pseudonomiseren of aggregeren van persoonsgegevens.
+per toepassing moet worden onderzocht welke maatregelen hiervoor geschikt zijn.
 
 
 

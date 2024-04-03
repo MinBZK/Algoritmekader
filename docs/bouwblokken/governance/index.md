@@ -8,7 +8,7 @@ Hier komt een beschrijving van dit bouwblok.
 
 ## Vereisten
 
-<!-- list_vereisten bouwblok/governance-->
+<!-- list_vereisten bouwblok/governance -->
 
 ## Maatregelen
 

@@ -1,6 +1,6 @@
 ---
 title: Documentatie beoordeling niet-hoog-risico ai
-toelichting: Een aanbieder die oordeelt dat een ai-systeem geen hoog risico vormt, documenteert deze beoordeling voorafgaand aan het in de handel brengen of in gebruik nemen van het systeem en voldoet aan de registratievereisten op verzoek van de nationale autoriteiten verstrekt de aanbieder de documentatie van de beoordeling
+toelichting: Een aanbieder die oordeelt dat een AI-systeem geen hoog risico vormt, documenteert deze beoordeling voorafgaand aan het in de handel brengen of in gebruik nemen van het systeem en voldoet aan de registratievereisten. Op verzoek van de nationale autoriteiten verstrekt de aanbieder de documentatie van de beoordeling.
 status_vereiste: 
  - Treedt in werking op DATUM
 levenscyclus: 
@@ -31,8 +31,8 @@ Op verzoek van de nationale bevoegde autoriteiten verstrekt de aanbieder de docu
 
 ## Toelichting 
 
-Een aanbieder die oordeelt dat een AI-systeem geen hoog risico vormt, documenteert deze beoordeling voorafgaand aan het in de handel brengen of in gebruik nemen van het systeem en voldoet aan de registratievereisten.
-Op verzoek van de nationale autoriteiten verstrekt de aanbieder de documentatie van de beoordeling.
+Een aanbieder die oordeelt dat een ai-systeem geen hoog risico vormt, documenteert deze beoordeling voorafgaand aan het in de handel brengen of in gebruik nemen van het systeem en voldoet aan de registratievereisten.
+op verzoek van de nationale autoriteiten verstrekt de aanbieder de documentatie van de beoordeling.
 
 ## Bronnen 
 

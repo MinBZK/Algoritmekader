@@ -1,6 +1,6 @@
 ---
 title: Beschrijven en toewijzen van verantwoordelijkheden
-toelichting: Bij het verwerken van persoonsgegevens voor algoritmen en ai-systemen moeten de verantwoordelijkheden duidelijk beschreven en toegewezen zijn de verwerkingsverantwoordelijke is degene die ervoor zorg dat deze verantwoordelijkheden worden nageleefd en kan dit aantonen, wat bekend staat als de verantwoordingsplicht deze maatregelen zijn essentieel om de naleving van regelgeving met betrekking tot gegevensbescherming te waarborgen en het vertrouwen van gebruikers in de verwerking van hun gegevens te vergroten
+toelichting: Bij het verwerken van persoonsgegevens voor algoritmen en AI-systemen moeten de verantwoordelijkheden duidelijk beschreven en toegewezen zijn. De verwerkingsverantwoordelijke is degene die ervoor zorg dat deze verantwoordelijkheden worden nageleefd en kan dit aantonen, wat bekend staat als de verantwoordingsplicht. Deze maatregelen zijn essentieel om de naleving van regelgeving met betrekking tot gegevensbescherming te waarborgen en het vertrouwen van gebruikers in de verwerking van hun gegevens te vergroten.
 status_vereiste: 
  - Geldend
 levenscyclus: 
@@ -32,9 +32,9 @@ De verwerkingsverantwoordelijke is verantwoordelijk voor de naleving van lid 1 e
 
 ## Toelichting 
 
-Bij het verwerken van persoonsgegevens voor algoritmen en AI-systemen moeten de verantwoordelijkheden duidelijk beschreven en toegewezen zijn.
-De verwerkingsverantwoordelijke is degene die ervoor zorg dat deze verantwoordelijkheden worden nageleefd en kan dit aantonen, wat bekend staat als de verantwoordingsplicht.
-Deze maatregelen zijn essentieel om de naleving van regelgeving met betrekking tot gegevensbescherming te waarborgen en het vertrouwen van gebruikers in de verwerking van hun gegevens te vergroten.
+Bij het verwerken van persoonsgegevens voor algoritmen en ai-systemen moeten de verantwoordelijkheden duidelijk beschreven en toegewezen zijn.
+de verwerkingsverantwoordelijke is degene die ervoor zorg dat deze verantwoordelijkheden worden nageleefd en kan dit aantonen, wat bekend staat als de verantwoordingsplicht.
+deze maatregelen zijn essentieel om de naleving van regelgeving met betrekking tot gegevensbescherming te waarborgen en het vertrouwen van gebruikers in de verwerking van hun gegevens te vergroten.
 
 ## Bronnen 
 

@@ -55,7 +55,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
     for file in files:
         if not file.src_path.endswith(".md"):
             continue
-
+        
         # Find and replace all external asset URLs in current page
         file.page.content = re.sub(
             r"<!-- list_vereisten (.*?) -->", replace, file.page.content, flags=re.I | re.M
@@ -64,10 +64,18 @@ def on_env(env, config: MkDocsConfig, files: Files):
 
 def _create_table_row(file: File):
 
+    print(file.dest_path)
+    print(file.dest_uri)
+    print(file.abs_dest_path)
+    print(file.abs_src_path)
+    print(file.src_path)
+    print(file.src_uri)
+
+
     return "".join(
         [
             "<tr>",
-            f'<td><a href="{_resolve(file.dest_path)}">{file.page.title}</a></td>',
+            f'<td><a href="{"../../" + file.dest_path}">{file.page.title}</a></td>',
             f"<td>{file.page.meta.get('toelichting', '')}</td>",
             "</tr>",
         ]

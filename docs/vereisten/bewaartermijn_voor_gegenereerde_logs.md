@@ -1,6 +1,6 @@
 ---
 title: Bewaartermijn voor gegenereerde logs 
-toelichting: Aanbieders van ai-systemen met een hoog risico moeten de automatisch gegenereerde logs bewaren volgens de voorschriften van artikel 12, lid 1, zolang deze logs onder hun controle vallen deze logs moeten ten minste zes maanden worden bewaard, tenzij anders bepaald door unie- of nationale wetgeving met betrekking tot gegevensbescherming, om te voldoen aan de relevante voorschriften en verantwoordingsplicht
+toelichting: Aanbieders van AI-systemen met een hoog risico moeten de automatisch gegenereerde logs bewaren volgens de voorschriften van artikel 12, lid 1, zolang deze logs onder hun controle vallen. Deze logs moeten ten minste zes maanden worden bewaard, tenzij anders bepaald door Unie- of nationale wetgeving met betrekking tot gegevensbescherming, om te voldoen aan de relevante voorschriften en verantwoordingsplicht.
 status_vereiste: 
  - Treedt in werking op DATUM
 levenscyclus: 
@@ -31,8 +31,8 @@ Onverminderd het toepasselijke Unie- of nationale recht worden deze logs bewaard
 
 ## Toelichting 
 
-Aanbieders van AI-systemen met een hoog risico moeten de automatisch gegenereerde logs bewaren volgens de voorschriften van artikel 12, lid 1, zolang deze logs onder hun controle vallen.
-Deze logs moeten ten minste zes maanden worden bewaard, tenzij anders bepaald door Unie- of nationale wetgeving met betrekking tot gegevensbescherming, om te voldoen aan de relevante voorschriften en verantwoordingsplicht.
+Aanbieders van ai-systemen met een hoog risico moeten de automatisch gegenereerde logs bewaren volgens de voorschriften van artikel 12, lid 1, zolang deze logs onder hun controle vallen.
+deze logs moeten ten minste zes maanden worden bewaard, tenzij anders bepaald door unie- of nationale wetgeving met betrekking tot gegevensbescherming, om te voldoen aan de relevante voorschriften en verantwoordingsplicht.
 
 ## Bronnen 
 

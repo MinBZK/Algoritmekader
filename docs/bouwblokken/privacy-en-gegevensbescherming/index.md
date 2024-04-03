@@ -8,7 +8,8 @@ Hier komt een beschrijving van dit bouwblok.
 
 ## Vereisten
 
-<!-- list_vereisten bouwblok/privacy-en-gegevensbescherming-->
+<!-- list_vereisten bouwblok/privacy-en-gegevensbescherming -->
+
 
 ## Maatregelen
 

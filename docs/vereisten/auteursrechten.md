@@ -1,6 +1,6 @@
 ---
 title: Verbod op schenden auteursrechten
-toelichting: Bepaalde vormen van algoritmen en ai worden ontwikkeld op basis van grote hoeveelheden data deze data wordt gebruikt voor het trainen en testen van algoritmen en ai het gebruiken van deze data mag geen inbreuk maken op auteursrechten van diegene die deze rechten heeft ook de gegenereerde output van algoritmen en ai mag geen inbreuk maken op deze rechten 
+toelichting: Bepaalde vormen van algoritmen en AI worden ontwikkeld op basis van grote hoeveelheden data. Deze data wordt gebruikt voor het trainen en testen van algoritmen en AI. Het gebruiken van deze data mag geen inbreuk maken op Auteursrechten van diegene die deze rechten heeft. Ook de gegenereerde output van algoritmen en AI mag geen inbreuk maken op deze rechten. 
 status_vereiste: 
  - Geldend
 levenscyclus: 
@@ -29,10 +29,10 @@ Auteursrechten mogen niet geschonden worden bij het ontwikkelen en gebruiken van
 
 ## Toelichting 
 
-Bepaalde vormen van algoritmen en AI worden ontwikkeld op basis van grote hoeveelheden data.
-Deze data wordt gebruikt voor het trainen en testen van algoritmen en AI.
-Het gebruiken van deze data mag geen inbreuk maken op Auteursrechten van diegene die deze rechten heeft.
-Ook de gegenereerde output van algoritmen en AI mag geen inbreuk maken op deze rechten.
+Bepaalde vormen van algoritmen en ai worden ontwikkeld op basis van grote hoeveelheden data.
+deze data wordt gebruikt voor het trainen en testen van algoritmen en ai.
+het gebruiken van deze data mag geen inbreuk maken op auteursrechten van diegene die deze rechten heeft.
+ook de gegenereerde output van algoritmen en ai mag geen inbreuk maken op deze rechten.
 
 
 ## Bronnen 

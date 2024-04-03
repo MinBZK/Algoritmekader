@@ -10,6 +10,7 @@ Hier komt een beschrijving van dit bouwblok.
 
 <!-- list_vereisten bouwblok/transparantie -->
 
+
 ## Maatregelen
 
 <!-- list_maatregelen bouwblok/transparantie -->

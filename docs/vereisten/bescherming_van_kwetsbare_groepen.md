@@ -1,6 +1,6 @@
 ---
 title: Bescherming van kwetsbare groepen
-toelichting: Bescherm de privacy van kinderen en kwetsbare groepen door ervoor te zorgen dat de verwerking van hun persoonsgegevens voldoet aan de algemene verordening gegevensbescherming (avg) dit omvat het nemen van passende maatregelen om ervoor te zorgen dat de verwerking van persoonsgegevens veilig en rechtmatig is, en dat de rechten van deze groepen worden gerespecteerd het waarborgen van privacy voor deze groepen draagt bij aan een veilige en vertrouwde online omgeving waarin hun gegevens worden beschermd
+toelichting: Bescherm de privacy van kinderen en kwetsbare groepen door ervoor te zorgen dat de verwerking van hun persoonsgegevens voldoet aan de Algemene Verordening Gegevensbescherming (AVG). Dit omvat het nemen van passende maatregelen om ervoor te zorgen dat de verwerking van persoonsgegevens veilig en rechtmatig is, en dat de rechten van deze groepen worden gerespecteerd. Het waarborgen van privacy voor deze groepen draagt bij aan een veilige en vertrouwde online omgeving waarin hun gegevens worden beschermd.
 status_vereiste: 
  - Geldend
 levenscyclus: 
@@ -29,9 +29,9 @@ Bescherm de privacy van kinderen en kwetsbare groepen en neem passende maatregel
 
 ## Toelichting 
 
-Bescherm de privacy van kinderen en kwetsbare groepen door ervoor te zorgen dat de verwerking van hun persoonsgegevens voldoet aan de Algemene Verordening Gegevensbescherming (AVG).
-Dit omvat het nemen van passende maatregelen om ervoor te zorgen dat de verwerking van persoonsgegevens veilig en rechtmatig is, en dat de rechten van deze groepen worden gerespecteerd.
-Het waarborgen van privacy voor deze groepen draagt bij aan een veilige en vertrouwde online omgeving waarin hun gegevens worden beschermd.
+Bescherm de privacy van kinderen en kwetsbare groepen door ervoor te zorgen dat de verwerking van hun persoonsgegevens voldoet aan de algemene verordening gegevensbescherming (avg).
+dit omvat het nemen van passende maatregelen om ervoor te zorgen dat de verwerking van persoonsgegevens veilig en rechtmatig is, en dat de rechten van deze groepen worden gerespecteerd.
+het waarborgen van privacy voor deze groepen draagt bij aan een veilige en vertrouwde online omgeving waarin hun gegevens worden beschermd.
 
 ## Bronnen 
 

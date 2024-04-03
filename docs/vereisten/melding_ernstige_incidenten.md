@@ -1,6 +1,6 @@
 ---
 title: Melden van ernstige incidenten 
-toelichting: Aanbieders van ai-systemen met een hoog risico die binnen de eu worden verhandeld, moeten ernstige incidenten melden bij de markttoezichtautoriteiten van de lidstaten waar het incident heeft plaatsgevonden dit meldingsproces is bedoeld om snel en adequaat te reageren op ernstige incidenten die zich voordoen bij het gebruik van deze ai-systemen, en om passende maatregelen te nemen ter bescherming van de consumenten en het publiek het doel is om de veiligheid en betrouwbaarheid van ai-systemen te waarborgen en mogelijke risico's voor gebruikers te minimaliseren
+toelichting: Aanbieders van AI-systemen met een hoog risico die binnen de EU worden verhandeld, moeten ernstige incidenten melden bij de markttoezichtautoriteiten van de lidstaten waar het incident heeft plaatsgevonden. Dit meldingsproces is bedoeld om snel en adequaat te reageren op ernstige incidenten die zich voordoen bij het gebruik van deze AI-systemen, en om passende maatregelen te nemen ter bescherming van de consumenten en het publiek. Het doel is om de veiligheid en betrouwbaarheid van AI-systemen te waarborgen en mogelijke risico's voor gebruikers te minimaliseren.
 status_vereiste: 
  - Treedt in werking op DATUM
 levenscyclus: 
@@ -29,9 +29,9 @@ Aanbieders van in de Europese Unie in de handel gebrachte AI-systemen met een ho
 
 ## Toelichting 
 
-Aanbieders van AI-systemen met een hoog risico die binnen de EU worden verhandeld, moeten ernstige incidenten melden bij de markttoezichtautoriteiten van de lidstaten waar het incident heeft plaatsgevonden.
-Dit meldingsproces is bedoeld om snel en adequaat te reageren op ernstige incidenten die zich voordoen bij het gebruik van deze AI-systemen, en om passende maatregelen te nemen ter bescherming van de consumenten en het publiek.
-Het doel is om de veiligheid en betrouwbaarheid van AI-systemen te waarborgen en mogelijke risico's voor gebruikers te minimaliseren.
+Aanbieders van ai-systemen met een hoog risico die binnen de eu worden verhandeld, moeten ernstige incidenten melden bij de markttoezichtautoriteiten van de lidstaten waar het incident heeft plaatsgevonden.
+dit meldingsproces is bedoeld om snel en adequaat te reageren op ernstige incidenten die zich voordoen bij het gebruik van deze ai-systemen, en om passende maatregelen te nemen ter bescherming van de consumenten en het publiek.
+het doel is om de veiligheid en betrouwbaarheid van ai-systemen te waarborgen en mogelijke risico's voor gebruikers te minimaliseren.
 
 ## Bronnen 
 

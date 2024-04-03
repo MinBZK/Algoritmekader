@@ -1,6 +1,6 @@
 ---
 title: Verbod op schenden databankenrechten
-toelichting: Het databankenrecht beschermt tegen kopiëren of oneigenlijk gebruik van gegevens in een databank degene die een substantiële financiële investering heeft verricht om de databank tot stand te brengen, krijgt een verbodsrecht en kan zo anderen verbieden de databank te gebruiken voor het ontwikkelen van algoritme en ai is data nodig de data die hiervoor wordt gebruikt mag niet ongeoorloofd zijn verkregen uit een databank 
+toelichting: Het databankenrecht beschermt tegen kopiëren of oneigenlijk gebruik van gegevens in een databank. Degene die een substantiële financiële investering heeft verricht om de databank tot stand te brengen, krijgt een verbodsrecht en kan zo anderen verbieden de databank te gebruiken. Voor het ontwikkelen van algoritme en AI is data nodig. De data die hiervoor wordt gebruikt mag niet ongeoorloofd zijn verkregen uit een databank. 
 status_vereiste: 
  - Geldend
 levenscyclus: 
@@ -30,9 +30,9 @@ Het is verboden onbevoegd data op te vragen of te hergebruiken uit een databank,
 ## Toelichting 
 
 Het databankenrecht beschermt tegen kopiëren of oneigenlijk gebruik van gegevens in een databank.
-Degene die een substantiële financiële investering heeft verricht om de databank tot stand te brengen, krijgt een verbodsrecht en kan zo anderen verbieden de databank te gebruiken.
-Voor het ontwikkelen van algoritme en AI is data nodig.
-De data die hiervoor wordt gebruikt mag niet ongeoorloofd zijn verkregen uit een databank.
+degene die een substantiële financiële investering heeft verricht om de databank tot stand te brengen, krijgt een verbodsrecht en kan zo anderen verbieden de databank te gebruiken.
+voor het ontwikkelen van algoritme en ai is data nodig.
+de data die hiervoor wordt gebruikt mag niet ongeoorloofd zijn verkregen uit een databank.
 
 
 ## Bronnen 

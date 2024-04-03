@@ -1,6 +1,6 @@
 ---
 title: Bewaartermijn voor documentatie 
-toelichting: De aanbieder moet gedurende tien jaar na het op de markt brengen of in gebruik nemen van het ai-systeem met een hoog risico de vereiste documentatie beschikbaar houden voor de nationale autoriteiten dit waarborgt dat de autoriteiten toegang hebben tot relevante informatie voor controle en naleving van de voorschriften gedurende deze periode
+toelichting: De aanbieder moet gedurende tien jaar na het op de markt brengen of in gebruik nemen van het AI-systeem met een hoog risico de vereiste documentatie beschikbaar houden voor de nationale autoriteiten. Dit waarborgt dat de autoriteiten toegang hebben tot relevante informatie voor controle en naleving van de voorschriften gedurende deze periode.
 status_vereiste: 
  - Treedt in werking op DATUM
 levenscyclus: 
@@ -30,8 +30,8 @@ De aanbieder houdt gedurende een periode van tien jaar nadat het AI-systeem met 
 
 ## Toelichting 
 
-De aanbieder moet gedurende tien jaar na het op de markt brengen of in gebruik nemen van het AI-systeem met een hoog risico de vereiste documentatie beschikbaar houden voor de nationale autoriteiten.
-Dit waarborgt dat de autoriteiten toegang hebben tot relevante informatie voor controle en naleving van de voorschriften gedurende deze periode.
+De aanbieder moet gedurende tien jaar na het op de markt brengen of in gebruik nemen van het ai-systeem met een hoog risico de vereiste documentatie beschikbaar houden voor de nationale autoriteiten.
+dit waarborgt dat de autoriteiten toegang hebben tot relevante informatie voor controle en naleving van de voorschriften gedurende deze periode.
 
 ## Bronnen 
 

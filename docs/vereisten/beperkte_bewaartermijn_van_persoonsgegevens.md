@@ -1,6 +1,6 @@
 ---
 title: Beperkte bewaartermijn van persoonsgegevens
-toelichting: Gegevens mogen niet langer worden bewaard dan nodig is voor het beoogde doel, zoals vereist door het principe van opslagbeperking deze maatregel waarborgt dat persoonsgegevens niet langer worden bewaard dan strikt noodzakelijk is, waardoor risico's met betrekking tot gegevensbescherming worden verminderd en de privacy van individuen wordt beschermd het naleven van de opslagbeperking draagt bij aan een efficiënte gegevensverwerking en bevordert het vertrouwen van individuen in hoe hun gegevens worden beheerd
+toelichting: Gegevens mogen niet langer worden bewaard dan nodig is voor het beoogde doel, zoals vereist door het principe van opslagbeperking. Deze maatregel waarborgt dat persoonsgegevens niet langer worden bewaard dan strikt noodzakelijk is, waardoor risico's met betrekking tot gegevensbescherming worden verminderd en de privacy van individuen wordt beschermd. Het naleven van de opslagbeperking draagt bij aan een efficiënte gegevensverwerking en bevordert het vertrouwen van individuen in hoe hun gegevens worden beheerd.
 status_vereiste: 
  - Geldend
 levenscyclus: 
@@ -30,8 +30,8 @@ Gegevens worden niet langer bewaard dan nodig (opslagbeperking)
 ## Toelichting 
 
 Gegevens mogen niet langer worden bewaard dan nodig is voor het beoogde doel, zoals vereist door het principe van opslagbeperking.
-Deze maatregel waarborgt dat persoonsgegevens niet langer worden bewaard dan strikt noodzakelijk is, waardoor risico's met betrekking tot gegevensbescherming worden verminderd en de privacy van individuen wordt beschermd.
-Het naleven van de opslagbeperking draagt bij aan een efficiënte gegevensverwerking en bevordert het vertrouwen van individuen in hoe hun gegevens worden beheerd.
+deze maatregel waarborgt dat persoonsgegevens niet langer worden bewaard dan strikt noodzakelijk is, waardoor risico's met betrekking tot gegevensbescherming worden verminderd en de privacy van individuen wordt beschermd.
+het naleven van de opslagbeperking draagt bij aan een efficiënte gegevensverwerking en bevordert het vertrouwen van individuen in hoe hun gegevens worden beheerd.
 
 ## Bronnen 
 

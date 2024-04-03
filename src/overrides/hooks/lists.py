@@ -64,14 +64,6 @@ def on_env(env, config: MkDocsConfig, files: Files):
 
 def _create_table_row(file: File):
 
-    print(file.dest_path)
-    print(file.dest_uri)
-    print(file.abs_dest_path)
-    print(file.abs_src_path)
-    print(file.src_path)
-    print(file.src_uri)
-
-
     return "".join(
         [
             "<tr>",

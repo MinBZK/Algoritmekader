@@ -18,6 +18,7 @@ theme:
         - navigation.top
         - navigation.tracking
         - navigation.instant
+        - navigation.footer
         - search.highlight
         - search.suggest
         - content.action.edit

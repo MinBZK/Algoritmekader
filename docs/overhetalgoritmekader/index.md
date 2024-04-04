@@ -1,12 +1,16 @@
-# Over het algoritmekader
+## Over het algoritmekader
 In de afgelopen jaren is het steeds duidelijker geworden dat het van belang is dat algoritme en AI op een verantwoorde manier worden ontwikkeld en gebruikt. Er is sprake van een toename van wet- en regelgeving waar overheidsorganisatie aan gebonden zijn. Daarnaast is een duidelijk trend waar te nemen dat organisaties steeds meer vanuit publieke waarden en een ethische invalshoek deze materie benaderen. Deze ontwikkelingen dienen bij te dragen  aan het beschermen van de individuen en de maatschappij voor de mogelijk nadelige gevolgen van de inzet van algoritmen en AI. 
 
+### Levenscyclus, vereisten, maatregelen en rollen. 
 In het Algoritmekader wordt inzichtelijk gemaakt aan welke vereisten overheidsorganisaties moeten voldoen. Daarbij wordt ook aangegeven hoe zij hier op een betekenisvolle wijze invulling aan kunnen geven (maatregelen). Het Algoritmekader is zodanig ingericht dat gebruikers vanuit verschillende invalshoeken informatie kunnen raadplegen die voor hen relevant is. Zo kan vanuit de algoritme levenscyclus worden onderzocht in welke fase aan welke vereisten aandacht moet worden besteed. Ook de denkbare maatregelen worden hierbij getoond. Het is ook mogelijk om vanuit een specifieke rol, bijvoorbeeld een ethicus of data scientist, te raadplegen aan welke vereisten of maatregelen zij logischerwijs aandacht aan moeten besteden. 
 
+### Type technologie en risico classificatie
 Het Algoritmekader geeft gebruikers ook de mogelijkheid om informatie te 'filteren' op basis van type technologie en de risico classificatie. Zo kunnen gebruikers snel zien wat zij in een bepaalde situaties moeten doen. In het geval van een hoge risico AI-systeem waarbij persoonsgegeven worden verwerkt zullen aan meer vereisten moeten worden voldaan dan in het geval van een eenvoudige rekenregel die geen impact heeft op individuen of de maatschappij. 
 
+### Standaarden en kennisborging
 Een belangrijk uitgangspunt van het Algoritmekader is dat bestaande kennis zoveel mogelijk wordt gebundeld en aansluiting wordt gezocht bij relevante ontwikkelingen. Door deze bundeling kunnen organisaties leren van elkaars ervaringen. Daarnaast is het proces van standaardisering op nationaal, Europees en Internationaal niveau gaande. De standaarden zullen in grote mate gaan duiden 'hoe' organisaties invulling kunnen geven aan specifieke vereisten. De kracht achter standaarden is dat deze door gespecialiseerde organisaties zijn opgesteld en gedragen zijn door bredere consensus. Het volgen van deze standaarden levert een 'vermoeden van conformiteit op' en is daarmee bijzonder waardevol om onderdeel te maken van het Algoritmekader. 
 
+### Best practises en instrumenten
 In het Algoritmekader wordt geprobeerd om zoveel mogelijk 'best practises' te koppelen aan vereisten en maatregelen die organisaties kunnen treffen. Daarmee wordt de materie tastbaarder en praktischer. Zo zijn rapporten te vinden van uitgevoerde bias analyses, gepubliceerde broncode van door overheidsorganisatie ontwikkeld algoritmen, specifieke adviezen en belangrijke uitspraken. Er wordt ook een overzicht gegeven van bruikbare instrumenten die kunnen worden gehanteerd.  
 
 ## Status van het Algoritmekader

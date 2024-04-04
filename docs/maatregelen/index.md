@@ -9,6 +9,9 @@ Een maatregel kan bijvoorbeeld zijn 'onderzoek het ontwikkelde algoritme op onbe
 
 Om tot een overzicht van de maatregelen te komen is naar een aantal waardevolle bronnen gekeken. Het Toetsingskader Algoritmes van de Algemene Rekenkamer en het Onderzoekskader algoritmes van de Audit Dienst Rijk zijn daar goede voorbeelden van. Daarnaast is ook de kennis van experts binnen het team Algoritmekader toegevoegd om te kunnen duiden welke maatregelen in de praktijk kunnen worden getroffen om te voldoen aan de vereisten. 
 
+Op nationaal, Europees en internationaal niveau wordt momenteel gewerkt aan de totstandkoming van standaarden. Deze standaarden worden opgesteld door gespecialiseerde organisaties (NEN, JTC21 en ISO) en ondergaan uitgebreid proces. Dit proces zorgt uiteindelijk voor brede consensus voor de standaarden. Het naleven van de standaarden levert een vermoeden van conformiteit op, ofwel, door het naleven van standaarden is de kans groot dat organisaties voldoen aan de vereisten. Waar mogelijk zullen de standaarden onderdeel worden van het Algoritmekader en tot uiting komen in de laag van 'maatregelen'. Er zal een verwijzing worden gemaakt naar de betreffende standaard. Hierover moeten nog nadere afspraken worden gemaakt met deze organisaties. 
+
+
 
 
 

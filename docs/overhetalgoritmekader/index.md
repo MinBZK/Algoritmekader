@@ -7,7 +7,7 @@ In het Algoritmekader wordt inzichtelijk gemaakt aan welke vereisten overheidsor
 ### Type technologie en risico classificatie
 Het Algoritmekader geeft gebruikers ook de mogelijkheid om informatie te 'filteren' op basis van type technologie en de risico classificatie. Zo kunnen gebruikers snel zien wat zij in een bepaalde situaties moeten doen. In het geval van een hoge risico AI-systeem waarbij persoonsgegeven worden verwerkt zullen aan meer vereisten moeten worden voldaan dan in het geval van een eenvoudige rekenregel die geen impact heeft op individuen of de maatschappij. 
 
-### Standaarden en kennisborging
+### Kennisborging en standaarden
 Een belangrijk uitgangspunt van het Algoritmekader is dat bestaande kennis zoveel mogelijk wordt gebundeld en aansluiting wordt gezocht bij relevante ontwikkelingen. Door deze bundeling kunnen organisaties leren van elkaars ervaringen. Daarnaast is het proces van standaardisering op nationaal, Europees en Internationaal niveau gaande. De standaarden zullen in grote mate gaan duiden 'hoe' organisaties invulling kunnen geven aan specifieke vereisten. De kracht achter standaarden is dat deze door gespecialiseerde organisaties zijn opgesteld en gedragen zijn door bredere consensus. Het volgen van deze standaarden levert een 'vermoeden van conformiteit op' en is daarmee bijzonder waardevol om onderdeel te maken van het Algoritmekader. 
 
 ### Best practises en instrumenten

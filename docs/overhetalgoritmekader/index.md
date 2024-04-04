@@ -13,7 +13,7 @@ Het Algoritmekader is op zichzelf niet verplicht voor overheidsorganisaties om t
 ## Doorontwikkeling
 7 juli 2023 is het [concept Implementatiekader](https://www.rijksoverheid.nl/documenten/rapporten/2023/06/30/implementatiekader-verantwoorde-inzet-van-algoritmen) naar de kamer verstuurd, vergezeld door de Kamerbrief 'Verzamelbrief Algoritmes Reguleren'. Dit kan worden beschouwd als de eerste versie van het Algoritmekader. Het implementatiekader verantwoorde inzet van algoritmen is in oktober 2023 hernoemd naar 'het Algoritmekader'
 
-In oktober 2023 is gestart met de doorontwikkeling van het Algoritmekader, zowel op inhoud als op vorm. Een belangrijk doel hierbij is dat het Algoritmekader praktisch en bruikbaar moet worden gemaakt voor gebruikers. Hierboven is globaal beschreven hoe hier invulling aan wordt gegeven. 
+In oktober 2023 is gestart met de doorontwikkeling van het Algoritmekader, zowel op inhoud als op vorm. Dat betekent dat we inhoudelijke toevoegingen moeten doen (denk aan hetgeen voortkomt uit de AI-verordening) en moeten onderzoeken hoe we de informatie zo optimaal mogelijk aan de gebruikers kunnen tonen zodat zij het effectief kunnen gebruiken binnen hun werkzaamheden (praktisch maken). Hierboven is globaal beschreven hoe hier invulling aan wordt gegeven en dit moet worden verfijnd. 
 
 Eind 2024 zal de tweede versie van het Algoritmekader worden opgeleverd. Hierna zal het Algoritmekader in 'beheer' worden genomen, wat betekent dat doorlopend de laatste ontwikkelingen worden toegevoegd zodat het actueel en betrouwbaar blijft. 
 

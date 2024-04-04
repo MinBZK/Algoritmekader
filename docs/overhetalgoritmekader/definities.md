@@ -2,7 +2,7 @@
 title: Definities
 ---
 
-Welke definities gebruikt het Algoritmekader? Je vindt een overzicht op deze pagina. Deze definities komen overeen met de definities van het het [Algoritmeregister](https://algoritmes.overheid.nl/nl), zie daarvoor de [Handreiking Algoritmeregister](https://algoritmes.pleio.nl/attachment/entity/83fb2500-6b45-434d-93c9-7534e0b740b3)
+Welke definities gebruikt het Algoritmekader? Je vindt een overzicht op deze pagina. Deze definities komen overeen met de definities van het het [Algoritmeregister](https://algoritmes.overheid.nl/nl), zie daarvoor de [Handreiking Algoritmeregister](https://algoritmes.pleio.nl/wiki/view/19bb6e9e-7a97-43d5-bef3-b1d66e59f4ff/handreiking-algoritmeregister)
 
 ### Definitie van een algoritme
 Er zijn veel definities van een algoritme. Voor het algoritmekader hanteren we de definitie van de Algemene Rekenkamer:
@@ -37,7 +37,7 @@ aan de volgende eisen:
 verordening en moet o.a. autonome elementen bevatten, en
 
 2. Het AI-systeem wordt in een van de toepassingsgebieden van ANNEX III ingezet
-zoals biometrie, kritieke infrastructuur en rechtshandhaving. Bovenstaande betreft een versimpelde beschrijving van de AI-verordening. In bijlage 2 van de [Handreiking Algoritmeregister](https://algoritmes.pleio.nl/attachment/entity/83fb2500-6b45-434d-93c9-7534e0b740b3) is meer informatie te vinden over de AI-verordening. Aangezien de AI-verordening nog in onderhandeling is, bestaat de kans dat de classificatie van hoog-risico AI-systemen nog wordt aangepast. 
+zoals biometrie, kritieke infrastructuur en rechtshandhaving. Bovenstaande betreft een versimpelde beschrijving van de AI-verordening. In bijlage 2 van de [Handreiking Algoritmeregister](https://algoritmes.pleio.nl/wiki/view/19bb6e9e-7a97-43d5-bef3-b1d66e59f4ff/handreiking-algoritmeregister) is meer informatie te vinden over de AI-verordening. Aangezien de AI-verordening nog in onderhandeling is, bestaat de kans dat de classificatie van hoog-risico AI-systemen nog wordt aangepast. 
 
 ### Definitie van impactvolle algoritmes
 Om te bepalen of een algoritme in aanmerking komt voor publicatie in het Algoritmeregister, is een hulpmiddel 'Selectie' gemaakt. Het zijn dezelfde algoritmes die relevant zijn voor het Algoritmekader. Dit hulpmiddel wordt hieronder weergegeven in de figuur, en is ook leidend voor het Algoritmekader.
@@ -62,7 +62,7 @@ Mogelijke uitzonderingsgronden. In uitzonderlijke gevallen worden algoritmes maa
 * 'Gaming the System'  
 * Valt buiten categorie A t/m C](5113 Infogr Publicatie in Algoritmeregister (002).jpg)
 
-Voor meer toelichting over dit hulpmiddel verwijzen we naar de [Handreiking Algoritmeregister](https://algoritmes.pleio.nl/attachment/entity/83fb2500-6b45-434d-93c9-7534e0b740b3). 
+Voor meer toelichting over dit hulpmiddel verwijzen we naar de [Handreiking Algoritmeregister](https://algoritmes.pleio.nl/wiki/view/19bb6e9e-7a97-43d5-bef3-b1d66e59f4ff/handreiking-algoritmeregister).
 
 !!! info "Disclaimer"
 

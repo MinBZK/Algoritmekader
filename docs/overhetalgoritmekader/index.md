@@ -7,20 +7,16 @@ Het Algoritmekader geeft gebruikers ook de mogelijkheid om informatie te 'filter
 
 Een belangrijk uitgangspunt van het Algoritmekader is dat bestaande kennis zoveel mogelijk wordt gebundeld en beschikbaar wordt gesteld. Organisaties kunnen leren van elkaars ervaringen. In het Algoritmekader wordt geprobeerd om zoveel mogelijk 'best practises' te koppelen aan maatregelen die organisaties kunnen treffen, zodat de materie tastbaarder en praktischer wordt. Zo zijn rapporten te vinden van uitgevoerde bias analyses, gepubliceerde broncode van door overheidsorganisatie ontwikkeld algoritmen, specifieke adviezen en belangrijke uitspraken. 
 
-
-7 juli 2023 is het [concept Implementatiekader](https://www.rijksoverheid.nl/documenten/rapporten/2023/06/30/implementatiekader-verantwoorde-inzet-van-algoritmen) naar de kamer verstuurd, vergezeld door de Kamerbrief 'Verzamelbrief Algoritmes Reguleren'.
-
-
-## Uitgangspunt: Publieke waarden, mensenrechten en ethische principes
-
-Het verantwoord inzetten van algoritmen betekent dat de inzet wettig, ethisch en robuust is. Dit betekent dat ten minste voldaan moet worden aan wet- en regelgeving en dat de inzet in lijn is met publieke waarden en ethische principes. Het algoritmekader neemt dit dan ook als uitgangspunt.
-
-Voor de structuur is aangesloten op de ethische richtsnoeren die ook een basis vormen voor de Europese AI Verordening. Deze richtsnoeren omvatten belangrijke publieke waarden zoals menselijke controle, rechtvaardigheid, privacy en non-discriminatie. In deze thema’s zijn de belangrijkste bestaande verplichtingen en richtlijnen in kaart gebracht, en worden maatregelen en waarborgen aangereikt. 
-
-
 ## Doorontwikkeling
+7 juli 2023 is het [concept Implementatiekader](https://www.rijksoverheid.nl/documenten/rapporten/2023/06/30/implementatiekader-verantwoorde-inzet-van-algoritmen) naar de kamer verstuurd, vergezeld door de Kamerbrief 'Verzamelbrief Algoritmes Reguleren'. In oktober 2023 is gestart met de doorontwikkeling van het Algoritmekader. Zowel op inhoud als op vorm. Een belangrijk doel hierbij is dat het Algoritmekader praktisch en bruikbaar wordt voor gebruikers. Eind 2024 zal de tweede versie worden opgeleverd, gevolgd door een beheerfase waarin doorlopend de laatste ontwikkelingen worden 
 
-Hoe deze governance (waaronder een heldere verdeling van bevoegdheden en verantwoordelijkheden) binnen de overheid invulling krijgt, is nog onderwerp van gesprek. Dit wordt  meegenomen in de verdere doorontwikkeling van het algoritmekader.
+
+
+
+
+
+
+
 
 !!! info "Disclaimer"
 

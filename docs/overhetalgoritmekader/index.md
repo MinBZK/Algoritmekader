@@ -1,4 +1,8 @@
-## Over het algoritmekader
+---
+title: Over het Algoritmekader
+---
+
+## Over het Algoritmekader
 In de afgelopen jaren is het steeds duidelijker geworden dat het van belang is dat algoritme en AI op een verantwoorde manier worden ontwikkeld en gebruikt. Er is sprake van een toename van wet- en regelgeving waar overheidsorganisatie aan gebonden zijn. Daarnaast is een duidelijk trend waar te nemen dat organisaties steeds meer vanuit publieke waarden en een ethische invalshoek deze materie benaderen. Deze ontwikkelingen dienen bij te dragen  aan het beschermen van de individuen en de maatschappij voor de mogelijk nadelige gevolgen van de inzet van algoritmen en AI. 
 
 ### Algoritme levenscyclus, vereisten, maatregelen en rollen. 

@@ -10,10 +10,13 @@ Een belangrijk uitgangspunt van het Algoritmekader is dat bestaande kennis zovee
 Het Algoritmekader is op zichzelf niet verplicht voor overheidsorganisaties om te gebruiken, maar het gaat wel uit van bestaande vereisten op basis van wet- en regelgeving waar zij aan gebonden zijn. Overheden wordt aanbevolen het kader te volgen, maar mogen te allen tijde zelf bepalen hoe zij invulling geven aan de vereisten, wie daarbij betrokken zijn, onder wiens verantwoordelijkheid en wanneer. Kortom, de vereisten zijn verplicht en de maatregelen (hoe kan hieraan worden voldaan) zijn ter inspiratie om organisaties op weg te helpen. 
 
 ## Doorontwikkeling
-7 juli 2023 is het [concept Implementatiekader](https://www.rijksoverheid.nl/documenten/rapporten/2023/06/30/implementatiekader-verantwoorde-inzet-van-algoritmen) naar de kamer verstuurd, vergezeld door de Kamerbrief 'Verzamelbrief Algoritmes Reguleren'. In oktober 2023 is gestart met de doorontwikkeling van het Algoritmekader, zowel op inhoud als op vorm. Een belangrijk doel hierbij is dat het Algoritmekader praktisch en bruikbaar moet worden gemaakt voor gebruikers. Hierboven is beschreven hoe hier invulling aan wordt gegeven. 
+7 juli 2023 is het [concept Implementatiekader](https://www.rijksoverheid.nl/documenten/rapporten/2023/06/30/implementatiekader-verantwoorde-inzet-van-algoritmen) naar de kamer verstuurd, vergezeld door de Kamerbrief 'Verzamelbrief Algoritmes Reguleren'. 
+
+In oktober 2023 is gestart met de doorontwikkeling van het Algoritmekader, zowel op inhoud als op vorm. Een belangrijk doel hierbij is dat het Algoritmekader praktisch en bruikbaar moet worden gemaakt voor gebruikers. Hierboven is globaal beschreven hoe hier invulling aan wordt gegeven. 
 
 Eind 2024 zal de tweede versie van het Algoritmekader worden opgeleverd. Hierna zal het Algoritmekader in 'beheer' worden genomen, wat betekent dat doorlopend de laatste ontwikkelingen worden toegevoegd zodat het actueel en betrouwbaar blijft. 
 
+## Samenwerking met de omgeving
 
 
 

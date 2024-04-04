@@ -8,7 +8,11 @@ Het Algoritmekader geeft gebruikers ook de mogelijkheid om informatie te 'filter
 Een belangrijk uitgangspunt van het Algoritmekader is dat bestaande kennis zoveel mogelijk wordt gebundeld en beschikbaar wordt gesteld. Organisaties kunnen leren van elkaars ervaringen. In het Algoritmekader wordt geprobeerd om zoveel mogelijk 'best practises' te koppelen aan maatregelen die organisaties kunnen treffen, zodat de materie tastbaarder en praktischer wordt. Zo zijn rapporten te vinden van uitgevoerde bias analyses, gepubliceerde broncode van door overheidsorganisatie ontwikkeld algoritmen, specifieke adviezen en belangrijke uitspraken. 
 
 ## Doorontwikkeling
-7 juli 2023 is het [concept Implementatiekader](https://www.rijksoverheid.nl/documenten/rapporten/2023/06/30/implementatiekader-verantwoorde-inzet-van-algoritmen) naar de kamer verstuurd, vergezeld door de Kamerbrief 'Verzamelbrief Algoritmes Reguleren'. In oktober 2023 is gestart met de doorontwikkeling van het Algoritmekader. Zowel op inhoud als op vorm. Een belangrijk doel hierbij is dat het Algoritmekader praktisch en bruikbaar wordt voor gebruikers. Eind 2024 zal de tweede versie worden opgeleverd, gevolgd door een beheerfase waarin doorlopend de laatste ontwikkelingen worden 
+7 juli 2023 is het [concept Implementatiekader](https://www.rijksoverheid.nl/documenten/rapporten/2023/06/30/implementatiekader-verantwoorde-inzet-van-algoritmen) naar de kamer verstuurd, vergezeld door de Kamerbrief 'Verzamelbrief Algoritmes Reguleren'. In oktober 2023 is gestart met de doorontwikkeling van het Algoritmekader, zowel op inhoud als op vorm. Een belangrijk doel hierbij is dat het Algoritmekader praktisch en bruikbaar moet worden gemaakt voor gebruikers. Hierboven is beschreven hoe hier invulling aan wordt gegeven. 
+
+Eind 2024 zal de tweede versie van het Algoritmekader worden opgeleverd. Hierna zal het Algoritmekader in 'beheer' worden genomen, wat betekent dat doorlopend de laatste ontwikkelingen worden toegevoegd zodat het actueel en betrouwbaar blijft. 
+
+
 
 
 

@@ -17,6 +17,10 @@ In oktober 2023 is gestart met de doorontwikkeling van het Algoritmekader, zowel
 Eind 2024 zal de tweede versie van het Algoritmekader worden opgeleverd. Hierna zal het Algoritmekader in 'beheer' worden genomen, wat betekent dat doorlopend de laatste ontwikkelingen worden toegevoegd zodat het actueel en betrouwbaar blijft. 
 
 ## Samenwerking met de omgeving
+Een belangrijk uitgangspunt van het Algoritmekader is dat het kader op een open en transparante manier wordt ontwikkeld. Dat betekent dat open communicatiekanelen worden ingezet en waar dit passend is worden bijvoorbeeld werkgroepen opgestart om bepaalde aspecten diepgaand te verkennen. In beginsel werkt het team Algoritmekader, al dan niet met werkgroepen en samenwerkingspartijen, informatie over algoritmen en AI uit. Zodra deze informatie op 'niveau' is, wordt dit in Git geplaatst en daarmee 'gepubliceerd'.  
+
+Werken in Github is voor het team Algoritmekader nieuw en experimenteel. Het biedt de mogelijkheid voor alle geïnteresseerd om hun kennis en zienswijze te delen, en daarmee het Algoritmekader te verbeteren. Tegelijkertijd vraagt dit om een aangepaste werkwijze en is hier bepaalde expertise voor nodig. Het begin is gemaakt het team Algoritmekader is lerende om hier op de juiste manier mee om te gaan. 
+
 
 
 

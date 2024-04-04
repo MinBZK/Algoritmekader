@@ -1,7 +1,7 @@
 ## Over het algoritmekader
 In de afgelopen jaren is het steeds duidelijker geworden dat het van belang is dat algoritme en AI op een verantwoorde manier worden ontwikkeld en gebruikt. Er is sprake van een toename van wet- en regelgeving waar overheidsorganisatie aan gebonden zijn. Daarnaast is een duidelijk trend waar te nemen dat organisaties steeds meer vanuit publieke waarden en een ethische invalshoek deze materie benaderen. Deze ontwikkelingen dienen bij te dragen  aan het beschermen van de individuen en de maatschappij voor de mogelijk nadelige gevolgen van de inzet van algoritmen en AI. 
 
-### Levenscyclus, vereisten, maatregelen en rollen. 
+### Algoritme levenscyclus, vereisten, maatregelen en rollen. 
 In het Algoritmekader wordt inzichtelijk gemaakt aan welke vereisten overheidsorganisaties moeten voldoen. Daarbij wordt ook aangegeven hoe zij hier op een betekenisvolle wijze invulling aan kunnen geven (maatregelen). Het Algoritmekader is zodanig ingericht dat gebruikers vanuit verschillende invalshoeken informatie kunnen raadplegen die voor hen relevant is. Zo kan vanuit de algoritme levenscyclus worden onderzocht in welke fase aan welke vereisten aandacht moet worden besteed. Ook de denkbare maatregelen worden hierbij getoond. Het is ook mogelijk om vanuit een specifieke rol, bijvoorbeeld een ethicus of data scientist, te raadplegen aan welke vereisten of maatregelen zij logischerwijs aandacht aan moeten besteden. 
 
 ### Type technologie en risico classificatie

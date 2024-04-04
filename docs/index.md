@@ -8,7 +8,9 @@ Wil de overheid effectief en verantwoord gebruik kunnen maken van algoritmes e
 
 Met het Algoritmekader werken we als overheid samen aan de antwoorden daarop. Dat doen we open; iedereen kan deze ontwikkeling volgen en eraan bijdragen. We maken bij de ontwikkeling gebruik van wat er al is: vereisten uit wet- en regelgeving, maatregelen uit de praktijk en standaardisatie, best practises en instrumenten. Het kader brengt dit samen op een logische manier. Zodat overheden in alle fasen van de levenscyclus van algoritmische en AI-toepassingen praktische handvatten hebben. Best practices, use cases en input van eindgebruikers helpen te komen tot een goed en gedragen Algoritmekader voor alle overheden. Het kader wordt een praktisch hulpmiddel om algoritmes en AI verantwoord te kunnen inzetten en te voldoen aan de (minimale) vereisten die wet- en regelgeving daaraan stellen.
 
-De informatie in het Algoritmekader is logisch aan elkaar gekoppeld, zodat gebruikers interactief door de informatie kunnen navigeren. Er kan worden gestart vanuit de algoritme levenscyclus, de vereisten, maatregelen en rollen. De informatie ook ook 'gelaagd' opgebouwd. Er kan worden doorgeklikt om meer gedetailleerde informatie te raadplegen. Daarnaast kan ook de zoekbalk worden benut en zal het spoedig  mogelijk worden om exports naar PDF te maken van de geraadpleegde informatie. 
+De informatie in het Algoritmekader is logisch aan elkaar gekoppeld, zodat gebruikers interactief door de informatie kunnen navigeren. Er kan worden gestart vanuit de algoritme levenscyclus, de vereisten, maatregelen en rollen via de bovenstaande tabs. De informatie is 'gelaagd' opgebouwd. Dat betekent dat kan worden doorgeklikt om meer gedetailleerde informatie te raadplegen. De zoekbalk kan eveneens worden benut en spoedig is het mogelijk om exports naar PDF te maken van de geraadpleegde informatie. 
+
+Zie het tabje 'over het Algoritmekader' voor meer informatie over de (door)ontwikkeling van het Algoritmekader. 
 
 !!! info "Disclaimer"
 

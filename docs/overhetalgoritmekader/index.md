@@ -3,7 +3,7 @@ In afgelopen jaren is het steeds duidelijker geworden dat het van belang is dat 
 
 In het Algoritmekader wordt inzichtelijk gemaakt aan welke vereisten overheidsorganisaties moeten voldoen én hoe zij daar op een betekenisvolle wijze invulling aan kunnen geven. Het Algoritmekader is zodanig ingericht dat gebruikers vanuit verschillende invalshoeken informatie kunnen raadplegen die voor hen relevant is. Zo kan vanuit de algoritme levenscyclus worden onderzocht in welke fase aan welke vereisten aandacht moet worden besteed en welke maatregelen daarvoor kunnen worden getroffen. Het is ook mogelijk om vanuit een specifieke rol, bijvoorbeeld een ethicus of data scientist, te raadplegen aan welke vereisten of maatregelen zij logischerwijs aandacht aan moeten besteden. 
 
-Een ander belangrijk 
+Het Algoritmekader geeft gebruikers ook de mogelijkheid om informatie te 'filteren' op basis van het type technologie  en op basis van de risico classificatie. Zo kunnen gebruikers snel zien wat zij in een bepaalde situatie al dan niet moeten doen om algoritmen en AI op een verantwoorde manier te ontwikkelen en te gebruiken. In het geval een hoge risico AI-systeem zullen aan vereisten moeten worden voldaan dan in het geval van een eenvoudige rekenregel die geen impact heeft op individuen of de maatschappij.  
 
 
 

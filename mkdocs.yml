@@ -143,6 +143,7 @@ markdown_extensions:
     - attr_list
     - abbr
     - md_in_html
+    - footnotes
     - pymdownx.tasklist:
         custom_checkbox: true
     - pymdownx.emoji:

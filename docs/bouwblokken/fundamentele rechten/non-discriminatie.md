@@ -8,31 +8,43 @@ title: Bias en non-discriminatie
 
 ## Wat en waarom?
 Algoritmes worden binnen de overheid veelvuldig ingezet om publieke taken uit te voeren. Dit biedt veel kansen, maar er zijn ook risico's aan verbonden.
-Zo kan bias[^1] in het algoritme leiden tot een ongelijke en oneerlijke behandeling van burgers of groepen, en kan er ook sprake zijn van discriminerende effecten. 
-In dit bouwblok van het algoritmekader besteden we aandacht aan de onderwerpen bias en non-discriminatie. 
-We werken we uit wat bias is, hoe bias kan ontstaan, hoe we dit kunnen signaleren en welke maatregelen er genomen kunnen worden om dit te voorkomen.
+Hoewel algoritmes in sommige gevallen kunnen bijdragen aan het tegengaan van discriminatie, kan bias[^1] in het algoritme ook leiden tot een ongelijke en oneerlijke behandeling van burgers of groepen, en kan er ook sprake zijn van discriminerende effecten. 
+In dit bouwblok van het algoritmekader besteden we aandacht aan de onderwerpen bias, eerlijkheid en non-discriminatie. 
+We werken uit wat bias is, hoe bias kan ontstaan, hoe we dit kunnen signaleren, welke maatregelen er genomen kunnen worden om dit te voorkomen en geven we handvatten wat te doen wanneer een (onwenselijke) bias is gesignaleerd. 
+
+Hierbij is het goed om op te merken dat het omgaan met het thema bias gedurende het ontwikkelen, inkopen of gebruik van het algoritme vraagt om continue aandacht voor dit onderwerp. 
+Het betreft geen probleem dat eenmalig kan worden weggenomen, maar het vraagt voortdurende reflectie op eerlijkheid en rechtvaardigheid van het systeem. 
 
 [^1]: In het Nederlands vertaald als vooringenomenheid, vooroordeel of neiging
 
-Dit wordt uitgewerkt in vereisten die weergeven wat er vanuit wet- en regelgeving vereist is om bias en discriminatie tegen te gaan. 
+Dit bouwblok wordt uitgewerkt in vereisten die weergeven wat er vanuit wet- en regelgeving en bestaande toetsingskaders vereist is om bias en discriminatie tegen te gaan. 
 Daarbij worden er suggesties gedaan hoe deze vereisten kunnen worden nageleefd met concrete maatregelen, en welke actoren daarbij betrokken kunnen zijn. 
 Waar mogelijk worden concrete voorbeelden en best practices uit de praktijk gegeven en zal worden aangegeven bij welk type algoritmen of AI dit relevant is.
 Deze vereisten en maatregelen worden ook gekoppeld aan de algoritme levenscyclus. 
-Dit geeft een beeld van wanneer bepaalde vereisten, bij het ontwikkelen van algoritmen en AI, moeten worden geadresseerd. 
-Dit moet bijdragen aan een goed samenspel met de verschillende actoren, zodat de kansen van algoritmen en AI worden benut en de negatieve gevolgen worden voorkomen.  
+Dit geeft een beeld van wanneer bepaalde vereisten of maatregelen, bij het ontwikkelen van algoritmen en AI, moeten worden geadresseerd.   
 
 Door bij de ontwikkeling van algoritmes rekening te houden met vereisten die voorkomen uit wet- en regelgeving, het type algoritme of AI en de potentiële risico’s die ontstaan bij het gebruiken ervan, kunnen negatieve gevolgen worden voorkomen. 
-Bias en non-discriminatie speelt daarom een belangrijke rol bij de totstandkoming van verantwoord ontwikkelde algoritmen en AI en het gebruik daarvan door ambtenaren. 
+ 
+De onderwerpen bias en non-discriminatie spelen daarom een belangrijke rol bij de totstandkoming van verantwoord ontwikkelde algoritmen en AI en het gebruik daarvan door ambtenaren. 
 
 ### Wat is bias?
 *Bias* is een Engelse term die in het Nederlands wordt vertaald als vooringenomenheid, vooroordeel of neiging. 
-Omdat niet één van die termen helemaal de lading van het begrip *bias* dekt, maken we in het Algoritmekader wel gebruik van de term *bias*. 
+Omdat niet één van die termen helemaal de lading van het begrip *bias* dekt, maken we in het Algoritmekader gebruik van de term *bias*. 
 De term *bias* heeft verschillende betekenissen afhankelijk van de context waarin het gebruikt wordt en de disciplines die daarbij betrokken zijn. 
 Vaak wordt er naar bias gekeken als een technisch concept, maar het omvat daarnaast ook menselijke aspecten. 
-Om beter de verschillende betekennissen van het begrip *bias* te begrijpen, maken we onderscheid in drie verschillende aspecten van bias: algoritmische bias, statistische bias en menselijke bias.
+Om beter de verschillende betekennissen van het begrip *bias* te begrijpen, maken we onderscheid in drie verschillende aspecten van bias: statistische bias, systemische bias en menselijke bias.
 
-#### Algoritmische bias 
-We spreken van algoritmische bias als er sprake is van een *systematisch verschil in behandeling van bepaalde objecten, mensen of groepen in vergelijking met anderen*[^2].
+#### Statistische bias
+Statistische bias wordt gedefinieerd als *een consistente numerieke afwijking van een schatting ten opzichte van de werkelijke onderliggende waarde*. 
+Dit fenomeen kan in allerlei verschillende contexten plaatsvinden, niet alleen bij het gebruik van algoritmes of AI. 
+Een voorbeeld is wanneer een bepaalde meting van een waarde niet goed gekalibreerd is en er sprake is van een consistente afwijking van de te meten waarde (bijvoorbeeld dat we consistent 10% hoger meten). 
+In de context van algoritmes en AI kan deze vorm van bias voorkomen wanneer er een steekproef wordt gebruikt die niet representatief is voor de populatie, en de schattingen op basis van de steekproef vervolgens systematisch afwijken van de werkelijke waarde in de gebruikte doelpopulatie.
+Statistische bias duidt op een systematische fout die gemaakt wordt door het algoritme. 
+Deze fout kan hetzelfde zijn voor alle groepen en hoeft daardoor niet in alle gevallen te duiden op ongelijke behandeling of discriminerende effecten. 
+Voorbeelden van statistische bias zijn meetfouten (measurement bias), foute data of data op een te simpele manier representeren (representatie bias).
+
+#### Systemische bias 
+We spreken van systemische bias als er sprake is van een *systematisch verschil in behandeling van bepaalde objecten, mensen of groepen in vergelijking met anderen*[^2].
 Dit systematische verschil of onderscheid kan zowel op een directe als op een indirecte manier ontstaan. 
 
 > De [Algemene wet gelijke behandeling](https://wetten.overheid.nl/BWBR0006502/2020-01-01) spreekt van **direct onderscheid** wanneer *een persoon op een andere wijze wordt behandeld dan een ander in een vergelijkbare situatie wordt, is of zou worden behandeld, op grond van godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat*.
@@ -41,47 +53,36 @@ Dit systematische verschil of onderscheid kan zowel op een directe als op een in
 
 [^2]: Zie [ISO/IEC TR 24027:2021 en](https://www.nen.nl/iso-iec-tr-24027-2021-en-289193) [^3]
 
-Een gecontateerd systematische onderscheid is niet altijd fout en is niet altijd verboden. 
+Een geconstateerd systematische onderscheid is niet altijd fout en is niet altijd verboden. 
 Het geconstateerde onderscheid kan in bepaalde situaties en onder bepaalde voorwaarden gerechtvaardigd zijn. 
 Voor direct onderscheid kan er bijvoorbeeld sprake zijn van een wettelijke uitzondering die het gemaakte onderscheid toelaat. 
 Voor indirect onderscheid geldt dat behalve een wettelijke uitzondering er ook een objectieve rechtvaardiging kan bestaan, waarmee het geconstateerde onderscheid in bepaalde gevallen toelaatbaar kan zijn. 
 
-Een eventueel systematisch verschil in behandeling van bepaalde groepen is in sommige gevallen inherent aan het gebruik van algoritmes an AI. 
-Immers, verschillende gevallen vragen soms om verschillende behandelingen, en in veel gevallen worden algoritmes en AI juist ingezet om te oordelen in welke gevallen een situatie anders is. 
-In deze gevallen zal er altijd na moeten worden gegaan of er sprake is van een objectieve rechtvaardiging.
+Het maken van een eventueel onderscheid is in sommige gevallen nauw verbonden met het gebruik van algoritmes en AI. 
+Soms worden algoritmes en AI bijvoorbeeld juist ingezet om op een zo objectief mogelijke manier te bepalen welke groepen meer of minder belang hebben bij een andere behandeling. 
+In deze gevallen zal er altijd na moeten worden gegaan of er sprake is van een objectieve rechtvaardiging voor het gemaakte onderscheid.
 
 In de context van algoritmes en AI wordt de term *unfairness* gebruikt wanneer er sprake is van een ongerechtvaardigd onderscheid die bepaalde groepen meer bevoordeelt dan andere [^5]. 
 In de Nederlandse taal spreken we dan van oneerlijkheid of onrechtvaardigheid (of in positieve zin van respectievelijk fairness, eerlijkheid en rechtvaardigheid). 
-Oneerlijk gedrag van algoritmes en AI-systemen kunnen leiden tot het niet naleven van gevestigde overtuigingen en normen, wat voorkeursbehandeling en discriminatie in de hand kan werken. 
+Oneerlijk gedrag van algoritmes en AI-systemen kan leiden tot het niet naleven van gevestigde overtuigingen en normen, wat voorkeursbehandeling en discriminatie in de hand kan werken. 
 
 [^5]: Zie [NEN-EN-ISO/IEC 22989:2023 en](https://www.nen.nl/nen-en-iso-iec-22989-2023-en-312642) [^3] 
 
-Ongerechtvaardigde algoritmische bias is vaak een gevolg van bepaalde processen of systemen die gebruikt worden op zo'n wijze dat bepaalde groepen bevoordeeld worden en andere groepen benadeeld worden.
-Dit is vaak geen bewuste vorm van vooringenomenheid, maar kan bijvoorbeeld ontstaan doordat de meerderheid bestaande regels of normen volgt.
-
-!!! note "Opmerking"
-    Wanneer we in de context van algoritmes spreken over bias, wordt vaak deze betekenis van bias bedoeld. 
-    Dit heeft als gevolg dat wanneer de term *bias* in het algoritmekader afzonderlijk wordt gebruikt, deze betekenis wordt bedoeld. Alle andere betekenissen van bias zullen specifiek benoemd worden.
-
-#### Statistische bias
-Statistische bias wordt gedefinieerd als *een consistente numerieke afwijking van een schatting ten opzichte van de werkelijke onderliggende waarde*. 
-Deze vorm van bias komt bijvoorbeeld voor wanneer er een steekproef wordt gebruikt die niet representatief is voor de populatie, en de schattingen op basis van de steekproef vervolgens systematisch afwijken van de werkelijke waarde.
-Statistische bias duidt op een systematische fout die gemaakt wordt door het algoritme. Deze fouten kunnen vrij zijn van vooroordelen of discriminerende bedoelingen. 
-Voorbeelden van statistische bias zijn meetfouten (measurement bias), foute data of data op een te simpele manier representeren (representatie bias).
+Ongerechtvaardigde systemische bias is vaak een gevolg van bepaalde processen of systemen die gebruikt worden op zo'n wijze dat bepaalde groepen bevoordeeld worden en andere groepen benadeeld worden.
+Dit is vaak geen bewuste vorm van vooringenomenheid, maar kan bijvoorbeeld ontstaan doordat de meerderheid bestaande regels of normen volgt, en het systeem geoptimaliseerd is op de meerderheid.
 
 #### Menselijke bias 
 Menselijke bias omvat de systematische fouten in het menselijk denken. 
 Deze menselijke vooroordelen zijn vaak impliciet van aard en hebben betrekking op de manier waarop een individu bepaalde informatie waarneemt en verwerkt om bijvoorbeeld een beslissing te nemen. 
-In de context van algoritmes kan deze vorm van bias voorkomen tijdens de ontwikkeling van een algoritme, waarbij menselijke vooroordelen verwerkt kunnen worden in het algoritme (bijvoorbeeld wanneer er gebruik wordt gemaakt van rekenregels).
-Daarnaast kan menselijke bias voorkomen tijdens de afhandeling, wanneer een door een algoritme geselecteerde groep handmatig wordt afgehandeld. 
-Voorbeelden van vormen menselijke bias is wanneer er voorkeur wordt geven aan de voorspellingen van een algoritme die reeds bestaande overtuigigngen bevestigen (confirmation bias/bevestigingsbias), of wanneer mensen de neiging hebben om voorkeur te geven aan suggesties die door het algoritme worden gedaan (automatiseringsbias).
+In de context van algoritmes kan deze vorm van bias invloed hebben op hoe data wordt verzameld, op de wijze waarop het algoritme wordt geoptimaliseerd en de besluiten die door mensen worden genomen op basis van het algoritme.
+Voorbeelden van vormen menselijke bias is wanneer er voorkeur wordt geven aan de voorspellingen van een algoritme die reeds bestaande overtuigingen bevestigen (confirmation bias/bevestigingsbias), of wanneer mensen de neiging hebben om voorkeur te geven aan suggesties die door het algoritme worden gedaan (automatiseringsbias)
 
 ## Gebruikte definities
 Onderstaand bieden we een overzicht van de gebruikte definities in het algoritmekader die betrekking hebben op het onderwerp bias en non-discriminatie. 
 
 | Term of begrip                   | Definitie                                                                                                                                                                                                                                                                                                            | Bron                                                                                                                                                                                      |
 |----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| (systemische/algoritmische) bias | systematisch verschil in behandeling van bepaalde objecten, mensen of groepen in vergelijking met andere.                                                                                                                                                                                                            | [ISO/IEC TR 24027:2021 en](https://www.nen.nl/iso-iec-tr-24027-2021-en-289193) [^3]                                                                                                       |
+| systemische bias | systematisch verschil in behandeling van bepaalde objecten, mensen of groepen in vergelijking met andere.                                                                                                                                                                                                            | [ISO/IEC TR 24027:2021 en](https://www.nen.nl/iso-iec-tr-24027-2021-en-289193) [^3]                                                                                                       |
 | directe discriminatie            | de ongelijke behandeling van een persoon of groep personen ten opzichte van andere personen in een vergelijkbare situatie, op grond van een beschermd persoonskenmerk (discriminatiegrond).                                                                                                                          | [College voor de rechten van de mens, Discriminatie door risicoprofielen - een mensenrechtelijk toetsingskader](https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dce) |
 | indirecte discriminatie          | wanneer een ogenschijnlijk neutrale bepaling, maatstaf of handelwijze personen met een bepaald beschermd persoonskenmerk (discriminatiegrond) in vergelijking met andere personen in het bijzonder benadeelt, tenzij hiervoor een objectieve rechtvaardiging bestaat.                                                | [College voor de rechten van de mens, Discriminatie door risicoprofielen - een mensenrechtelijk toetsingskader](https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dce) |
 | direct onderscheid               | indien een persoon op een andere wijze wordt behandeld dan een ander in een vergelijkbare situatie wordt, is of zou worden behandeld, op grond van godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat                       | [Algemene wet gelijke behandeling](https://wetten.overheid.nl/BWBR0006502/2020-01-01)                                                                                                     |
@@ -108,8 +109,8 @@ Omdat bias op verschillende manieren kan ontstaan, zijn er allerlei verschillend
 | historische bias           | Verwijzend naar de langdurige vooroordelen die in de loop der tijd in de samenleving zijn gecodeerd. Verwant aan, maar verschillend van, vooroordelen in historische beschrijving, of de interpretatie, analyse en verklaring van de geschiedenis. Een veel voorkomend voorbeeld van historische vooringenomenheid is de neiging om de wereld te bekijken vanuit een Westers of Europees perspectief               | [NIST, Towards a Standard for identifying and managing bias in artificial intelligence](https://www.nist.gov/publications/towards-standard-identifying-and-managing-bias-artificial-intelligence) |
 | activiteitenbias           | Een soort selectievooroordeel dat optreedt wanneer systemen/platforms hun trainingsgegevens krijgen van de meest actieve gebruikers, in plaats van minder actieve (of inactieve) gebruikers.                                                                                                                                                                                                                       | [NIST, Towards a Standard for identifying and managing bias in artificial intelligence](https://www.nist.gov/publications/towards-standard-identifying-and-managing-bias-artificial-intelligence) |
 | versterkingsbias           | Ontstaat wanneer de verdeling over voorspellingsoutputs scheef is in vergelijking met de prior-verdeling van het voorspellingsdoel.                                                                                                                                                                                                                                                                                | [NIST, Towards a Standard for identifying and managing bias in artificial intelligence](https://www.nist.gov/publications/towards-standard-identifying-and-managing-bias-artificial-intelligence) |
-| verankeringsbias           | Een cognitieve bias, de invloed van een bepaald referentiepunt of anker op de beslissingen van mensen. Vaak vollediger aangeduid als anchoring-and-adjustment, of anchoring-and-adjusting: nadat een anker is vastgesteld, passen mensen zich onvoldoende aan vanuit dat ankerpunt om tot een definitief antwoord te komen. Beslissers zijn bevooroordeeld ten opzichte van een aanvankelijk gepresenteerde waarde | [NIST, Towards a Standard for identifying and managing bias in artificial intelligence](https://www.nist.gov/publications/towards-standard-identifying-and-managing-bias-artificial-intelligence) |
 | cognitieve bias            | Een brede term die in het algemeen verwijst naar een systematisch patroon van afwijking van rationele oordeels- en besluitvorming. In vele decennia van onderzoek naar oordeelsvorming en besluitvorming is een grote verscheidenheid aan cognitieve vertekeningen geïdentificeerd, waarvan sommige adaptieve mentale snelkoppelingen zijn die bekend staan als heuristieken.                                      | [NIST, Towards a Standard for identifying and managing bias in artificial intelligence](https://www.nist.gov/publications/towards-standard-identifying-and-managing-bias-artificial-intelligence) |
+| verankeringsbias           | Een cognitieve bias, de invloed van een bepaald referentiepunt of anker op de beslissingen van mensen. Vaak vollediger aangeduid als anchoring-and-adjustment, of anchoring-and-adjusting: nadat een anker is vastgesteld, passen mensen zich onvoldoende aan vanuit dat ankerpunt om tot een definitief antwoord te komen. Beslissers zijn bevooroordeeld ten opzichte van een aanvankelijk gepresenteerde waarde | [NIST, Towards a Standard for identifying and managing bias in artificial intelligence](https://www.nist.gov/publications/towards-standard-identifying-and-managing-bias-artificial-intelligence) |
 | gedragsbias                | systematische verstoringen in gebruikersgedrag tussen platforms of contexten, of tussen gebruikers die zijn vertegenwoordigd in verschillende datasets                                                                                                                                                                                                                                                             | [NIST, Towards a Standard for identifying and managing bias in artificial intelligence](https://www.nist.gov/publications/towards-standard-identifying-and-managing-bias-artificial-intelligence) |
 | implementatie bias         | Ontstaat wanneer systemen worden gebruikt als beslissingshulp voor mensen, omdat de menselijke tussenpersoon kan handelen op voorspellingen op manieren die meestal niet zijn gemodelleerd in het systeem. Het zijn echter nog steeds individuen die het gebruikte systeem gebruiken                                                                                                                               | [NIST, Towards a Standard for identifying and managing bias in artificial intelligence](https://www.nist.gov/publications/towards-standard-identifying-and-managing-bias-artificial-intelligence) |
 | evaluatie bias             | Ontstaat wanneer de test- of externe benchmarkpopulaties niet in gelijke mate de verschillende delen van de gebruikerspopulatie vertegenwoordigen of door het gebruik van prestatiemaatstaven die niet geschikt zijn voor de manier waarop het model zal worden gebruikt                                                                                                                                           | [NIST, Towards a Standard for identifying and managing bias in artificial intelligence](https://www.nist.gov/publications/towards-standard-identifying-and-managing-bias-artificial-intelligence) |

@@ -4,8 +4,15 @@ title: Ontwerp
 
 Hier wordt het conceptuele ontwerp van het AI-systeem gemaakt. Dit omvat het bepalen van de architectuur, algoritmen en benodigde middelen voor de implementatie.
 
-## Onderwerp/bouwblok
+- Let hierbij op een goede afweging tussen technische benodigheden en vereisten. Bijvoorbeeld een simpeler algoritme is beter uitlegbaar.
+- Als er nog data moet worden verzameld, let ook op risico's m.b.t. bias in dataverzameling 
 
+Overal in de AI-levenscyclus geleden vereisten.
+- (Ethische) risico's moeten helder zijn.
+- De governance rondom AI moet duidelijk zijn. Wie in de organisatie gaat over naleven van AI-wetgeving.
+- Transparantie en navolgbaarheid van processen moet op orde zijn.
+
+Hieronder komen maatregelen die relevant zijn tijdens deze fase in de levenscyclus:
 ## Vereisten
 
 ## Maatregelen

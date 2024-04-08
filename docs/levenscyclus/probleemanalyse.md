@@ -12,12 +12,14 @@ Enkele vragen waar je aan kan denken:
 - Welke stakeholders moet je betrekken? Komt er gevoelige data bij kijken?
 - Zijn er goede voorbeelden om te volgen (zowel technisch als qua verantwoord werken)?
 
-Overal in de AI-levenscyclus geleden vereisten.
-- (Ethische) risico's moeten helder zijn.
-- De governance rondom AI moet duidelijk zijn. Wie in de organisatie gaat over naleven van AI-wetgeving.
-- Transparantie en navolgbaarheid van processen moet op orde zijn.
+In de _gehele_ AI-levenscyclus is van belang:
+- (Ethische) risico's zijn in kaart gebracht.
+- De AI governance is duidelijk. (Wie in de organisatie gaat over naleven van AI-wetgeving.)
+- Transparantie en navolgbaarheid van modellen en processen.
 
-Hieronder komen maatregelen die relevant zijn tijdens de probleemanalyse:
+Hieronder komen vereisten en maatregelen die relevant zijn tijdens deze fase in de levenscyclus:
+
+## Vereisten 
 
 ## Maatregelen
 

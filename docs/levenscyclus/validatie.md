@@ -2,13 +2,21 @@
 title: Validatie
 ---
 
-Nadat het model is ontwikkeld, wordt het gevalideerd om ervoor te zorgen dat het goed presteert op nieuwe, niet eerder geziene gegevens. Dit omvat het evalueren van de nauwkeurigheid en prestaties van het model. Validatie is een interatief proces dat plaatsvindt op verschillende momenten van de levenscyclus.
+Nadat het model is ontwikkeld, wordt het gevalideerd om ervoor te zorgen dat het goed presteert op nieuwe, niet eerder geziene gegevens. Dit omvat het iteratief evalueren van de nauwkeurigheid en prestaties van het model. 
 
-## Onderwerp/bouwblok
+De levenscyclus is een versimpeling van de volgordelijkheid: Validatie is een continue proces dat plaatsvindt op verschillende momenten van de levenscyclus. Wel is het zo dat na implementatie van het AI-model validatie van extra belang is, bijvoorbeeld door zaken als data-drift (de data in de echte wereld past niet meer bij de originele trainingsdata).
 
-## Vereisten
+In de _gehele_ AI-levenscyclus is van belang:
+- (Ethische) risico's zijn in kaart gebracht.
+- De AI governance is duidelijk. (Wie in de organisatie gaat over naleven van AI-wetgeving.)
+- Transparantie en navolgbaarheid van modellen en processen.
+
+Hieronder komen vereisten en maatregelen die relevant zijn tijdens deze fase in de levenscyclus:
+
+## Vereisten 
 
 ## Maatregelen
+
 
 <!-- list levenscyclus/validatie -->
 

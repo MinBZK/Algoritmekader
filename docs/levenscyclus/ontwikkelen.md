@@ -4,6 +4,15 @@ title: Ontwikkelen
 
 Dit is de fase waarin het AI-model of algoritme wordt gebouwd. Als het gaat om AI-modellen, omvat het trainen van modellen met behulp van de voorbereide gegevens.
 
+In de _gehele_ AI-levenscyclus is van belang:
+- (Ethische) risico's zijn in kaart gebracht.
+- De AI governance is duidelijk. (Wie in de organisatie gaat over naleven van AI-wetgeving.)
+- Transparantie en navolgbaarheid van modellen en processen.
+
+Hieronder komen vereisten en maatregelen die relevant zijn tijdens deze fase in de levenscyclus:
+
+## Vereisten 
+
 ## Maatregelen
 
 <!-- list levenscyclus/ontwikkelen -->

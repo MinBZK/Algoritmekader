@@ -2,7 +2,7 @@
 title: Dataverkenning en datapreparatie
 ---
 
-In deze fase worden relevante datasets geïdentificeerd, wanneer nodig verzameld, en geanalyseerd. Ook worden de gegevens opgeschoond en geschikt gemaakt. 
+In deze fase worden relevante datasets geïdentificeerd en wanneer nodig wordt nieuwe data verzameld; vervolgens worden deze datasets opgeschoond en geanalyseerd. 
 
 Het is van belang dat dataverzameling op de juiste manier gebeurd, en dat bestaande datasets die gebruikt gaan worden van goede kwaliteit zijn. Daarbij is het van belang dat opschoning van datasets (een standaard stap in het proces data science) geen nieuwe onvoorziene effecten met zich meebrengt. 
 

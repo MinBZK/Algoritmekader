@@ -1,62 +1,29 @@
 ---
-title: Non-discriminatie
-summary: hier staat een korte samenvatting over dit onderwerp
+title: Bias en non-discriminatie
 ---
 !!! info "Disclaimer"
 
     Het Algoritmekader is nog volop in ontwikkeling. Op deze plek willen we vooral aan de slag gaan op een open en transparante wijze. Het is dus niet definitief. Dat betekent dat er dingen opstaan die niet af zijn en soms zelfs fout. Mocht er iets niet kloppen, laat het ons weten via [GitHub](https://github.com/MinBZK/Algoritmekader).
 
-## Waarom?
-Schrijf hier een tekst over wat [title] is en waarom dit belangrijk is voor een verantwoord gebruik van algoritmes bij overheidsorganisaties. 
+Algoritmes worden binnen de overheid veelvuldig ingezet om publieke taken uit te voeren. Dit biedt veel kansen, maar er zijn ook risico's aan verbonden.
+Hoewel algoritmes in sommige gevallen kunnen bijdragen aan het tegengaan van discriminatie, kan bias[^1] in het algoritme ook leiden tot een ongelijke en oneerlijke behandeling van burgers of groepen, en kan er ook sprake zijn van discriminerende effecten. 
+In dit bouwblok van het algoritmekader besteden we aandacht aan de onderwerpen bias, eerlijkheid en non-discriminatie. 
+We werken uit wat bias is, hoe bias kan ontstaan, hoe we dit kunnen signaleren, welke maatregelen er genomen kunnen worden om dit te voorkomen en geven we handvatten wat te doen wanneer een (onwenselijke) bias is gesignaleerd. 
 
-## Levenscyclus
-Een overzicht van welke fasen van de levenscyclus relevant zijn voor dit bouwblok. 
+Hierbij is het goed om op te merken dat het omgaan met het thema bias gedurende het ontwikkelen, inkopen of gebruik van het algoritme vraagt om continue aandacht voor dit onderwerp. 
+Het betreft geen probleem dat eenmalig kan worden weggenomen, maar het vraagt voortdurende reflectie op eerlijkheid en rechtvaardigheid van het systeem. 
 
-- [x] Probleemanalyse
-- [x] Ontwerp
-- [x] Data verkenning en data preparatie
-- [x] Ontwikkelen
-- [x] Validatie  
-- [x] Implementatie
-- [x] Monitoren
-- [ ] Archiveren
+[^1]: In het Nederlands vertaald als vooringenomenheid, vooroordeel of neiging
 
-## Normen
+Dit bouwblok wordt uitgewerkt in vereisten die weergeven wat er vanuit wet- en regelgeving en bestaande toetsingskaders vereist is om bias en discriminatie tegen te gaan. 
+Daarbij worden er suggesties gedaan hoe deze vereisten kunnen worden nageleefd met concrete maatregelen, en welke actoren daarbij betrokken kunnen zijn. 
+Waar mogelijk worden concrete voorbeelden en best practices uit de praktijk gegeven en zal worden aangegeven bij welk type algoritmen of AI dit relevant is.
+Deze vereisten en maatregelen worden ook gekoppeld aan de algoritme levenscyclus. 
+Dit geeft een beeld van wanneer bepaalde vereisten of maatregelen, bij het ontwikkelen van algoritmen en AI, moeten worden geadresseerd.   
 
-Onderstaand een overzicht van de minimale vereisten die volgen uit geldende wet- en regelgeving, toetingskaders en andere bronnen
+Door bij de ontwikkeling van algoritmes rekening te houden met vereisten die voorkomen uit wet- en regelgeving, het type algoritme of AI en de potentiële risico’s die ontstaan bij het gebruiken ervan, kunnen negatieve gevolgen worden voorkomen. 
 
-=== "Laag risico" 
-
-    | **Norm**                          | **Uitleg**                               | **Bron** |
-    |-----------------------------------|------------------------------------------|----------|
-    | Norm 2                             | Korte uitleg over norm 2                |          |
-    
-=== "Hoog risico"
-
-     **Norm**                          | **Uitleg**                               | **Bron** 
-    -----------------------------------|------------------------------------------|----------
-     Verbod op ongelijke behandeling in gelijke omstandigheden. Discriminatie wegens godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht of op welke grond dan ook, is niet toegestaan    | Korte uitleg over norm 1                |          | IKA1.0
-     Norm 2                             | Korte uitleg over norm 2                |          
-     Norm 3                             | Korte uitleg over norm 3                |          
-     Norm 4                             | Korte uitleg over norm 4                |          
-
-
-## Rollen
-Overzicht van welke rollen belangrijk zijn te betrekken bij dit bouwblok. 
-
-<div class="grid cards" markdown>
-
-- __technische expert__ bron: handreiking non-discriminatie by design
-- __projectleider__ bron: handreiking non-discriminatie by design
-- __jurist__ bron: handreiking non-discriminatie by design
-- __functionaris gegevensbescherming__ bron: handreiking non-discriminatie by design
-- __relevante stakeholders__ bron: handreiking non-discriminatie by design
-- __domein expert__ bron: handreiking non-discriminatie by design
-- __data steward__ bron: handreiking non-discriminatie by design
-- __data analist__ bron: handreiking non-discriminatie by design
-- __beleid__ bron: evaluatie handreiking non-discriminatie by design door ADR
-
-</div>
+De onderwerpen bias en non-discriminatie spelen daarom een belangrijke rol bij de totstandkoming van verantwoord ontwikkelde algoritmen en AI en het gebruik daarvan door ambtenaren. 
 
 ## Aanbevelingen
 [Rathenau](https://www.rathenau.nl/nl/digitalisering/algoritmes-afwegen)

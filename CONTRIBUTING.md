@@ -38,10 +38,10 @@ Voordat je een [Issues](https://github.com/MinBZK/Algoritmekader/issues) gaat aa
 
 Als je jouw vraag nog steeds wilt stellen, kan je een [Issue](https://github.com/MinBZK/Algoritmekader/issues) aanmaken. 
 
-    1. Gebruik daarvoor de knop new issue.
-    2. Schrijf je vraag of opmerking is en geef een heldere toelichting.
-    3. Anderen kunnen nu opmerkingen toevoegen aan jouw issue.
-    3. Het team van het Algoritmekader zal deze issue labelen als `question` en pakt jouw issue zo snel mogelijk op. Mogelijk neemt het team van het Algoritmekader contact op voor een verduidelijking of een oplossing.
+1. Gebruik daarvoor de knop new issue.
+2. Schrijf je vraag of opmerking is en geef een heldere toelichting.
+3. Anderen kunnen nu opmerkingen toevoegen aan jouw issue.
+4. Het team van het Algoritmekader zal deze issue labelen als `question` en pakt jouw issue zo snel mogelijk op. Mogelijk neemt het team van het Algoritmekader contact op voor een verduidelijking of een oplossing.
 
 ### Stel een vraag via mail
 
@@ -59,16 +59,16 @@ Voor sommige bouwblokken wordt er gewerkt met werkgroepen, om de informatie verd
 ### Neem deel aan een sprint review / klankbord / demo
 Het team van het algoritmekader werkt in sprints van ongeveer 3 weken. Daarin werken we toe naar de volgende release van het Algoritmekader. Ongeveer eens in de 6 weken vindt er een nieuwe release plaats. Wanneer er een release is, wordt deze altijd toegelicht en gepresenteerd in een open online review / demo. Deze kan je vrijblijvend volgen. Zo blijf je op de hoogte en kun je een bijdrage leveren. [Bekijk de agenda op Algoritmes Pleio](https://algoritmes.pleio.nl/events) voor de komende bijeenkomsten. 
 
-## Ik wil een fout / bug melden
+### Ik wil een fout / bug melden
 Heb je een foutje gevonden in het Algoritmekader? Dan kan je deze melden door een [Issue](https://github.com/MinBZK/Algoritmekader/issues) aan te maken. 
 
 Voordat je een [Issues](https://github.com/MinBZK/Algoritmekader/issues) gaat aanmaken, kan je bekijken of jouw gevonden fout al tussen de bestaande [Issues](https://github.com/MinBZK/Algoritmekader/issues) staat. 
 
 Als je de gevonden fout nog steeds wilt melden, kan je een [Issue](https://github.com/MinBZK/Algoritmekader/issues) aanmaken. 
 
-    1. Gebruik daarvoor de knop new issue.
-    2. Beschrijf de fout duidelijk en geef een heldere toelichting. Voeg waar mogelijk een screenshot toe. 
-    3. Het team van het Algoritmekader zal deze issue labelen als `bug` en pakt jouw issue zo snel mogelijk op. Mogelijk neemt het team van het Algoritmekader contact op voor een verduidelijking of een oplossing.
+1. Gebruik daarvoor de knop new issue.
+2. Beschrijf de fout duidelijk en geef een heldere toelichting. Voeg waar mogelijk een screenshot toe. 
+3. Het team van het Algoritmekader zal deze issue labelen als `bug` en pakt jouw issue zo snel mogelijk op. Mogelijk neemt het team van het Algoritmekader contact op voor een verduidelijking of een oplossing.
    
 ### Ik wil een verbetering voorstellen
 Heb je een suggestie of wil je een verbetering voorstellen? Dat kan gaan om een compleet nieuwe functionaliteit van de site of om kleine verbeteringen. Het volgen van onderstaande instructie helpt het team van het algoritmekader om je suggestie te begrijpen en gerelateerde suggesties te vinden.
@@ -85,9 +85,9 @@ voor de meerderheid van onze gebruikers en niet slechts voor een kleine groep.
 
 Als je jouw suggestie nog steeds wilt doen, kan je een [Issue](https://github.com/MinBZK/Algoritmekader/issues) aanmaken. 
 
-    1. Gebruik daarvoor de knop new issue.
-    2. Beschrijf duidelijk jouw suggestie en geef een heldere toelichting en onderbouwing waarom dit een goede toevoeging zal zijn aan het Algoritmekader
-    3. Het team van het Algoritmekader zal deze issue labelen als `enhancement` en pakt jouw issue zo snel mogelijk op. Mogelijk neemt het team van het Algoritmekader contact op voor een verduidelijking of een oplossing.
+1. Gebruik daarvoor de knop new issue.
+2. Beschrijf duidelijk jouw suggestie en geef een heldere toelichting en onderbouwing waarom dit een goede toevoeging zal zijn aan het Algoritmekader
+3. Het team van het Algoritmekader zal deze issue labelen als `enhancement` en pakt jouw issue zo snel mogelijk op. Mogelijk neemt het team van het Algoritmekader contact op voor een verduidelijking of een oplossing.
    
 > Afhankelijk van de complexiteit en het onderwerp van jouw suggestie kan het even duren voordat deze wordt opgepakt door het team van het Algoritmekader. 
 
@@ -109,4 +109,10 @@ We werken met [Markdown](https://www.markdownguide.org/basic-syntax/) bestanden.
 Dit is bestandsformaat voor platte tekstbestanden en wordt door veel verschillende tools ondersteund. Dit maakt het eenvoudig om versiebeheer op het Algoritmekader toe te passen. 
 
 Daarnaast maken gebruik van [mkdocs](https://www.mkdocs.org/) en [material for mkdocs](https://squidfunk.github.io/mkdocs-material/) om de informatie op een interactieve wijze inzichtelijk te maken op de website van [het Algoritmekader](https://minbzk.github.io/Algoritmekader/). 
+
+#### Wil je een nieuwe pagina aanmaken?
+In het [mkdocs.yml](https://github.com/MinBZK/Algoritmekader/blob/main/mkdocs.yml) bestand staan de settings voor deze website. 
+In principe hoef je hier niets aan aan te passen, maar als je een nieuwe pagina wilt aanmaken kan het nodig zijn om hier een aanpassing in te doen.
+Onderdeel van deze settings is namelijk de navigatie voor de site (welke pagina's zijn zichtbaar, en welke pagina's vallen daaronder). Dit staat in de nav: sectie. 
+Indien je een nieuwe pagina wilt toevoegen, is het vaak nodig deze wijziging ook door te voeren in het [mkdocs.yml](https://github.com/MinBZK/Algoritmekader/blob/main/mkdocs.yml) bestand.
 

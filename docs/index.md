@@ -24,10 +24,7 @@ Waardengedreven met algoritmes en AI werken, betekent dat er aandacht moet zijn 
 
 Aan deze opsomming zie je al dat op een verantwoorde manier met AI en algoritmes werken niet de verantwoordelijkheid is of kan zijn van één enkele professional in een organisatie. 
 Het vraagt bewustzijn en adequaat optreden van alle betrokkenen. 
-Van data scientists en beleidsmedewerkers, tot inkopers en bestuurders. En voor elk van deze professionals zijn andere vereisten en maatregelen relevant.  
-
-Daarom maken we een Algoritmekader dat voor elk van deze professionals op een praktische manier te raadplegen is. 
-Waarbij ze niet stranden in een overload aan informatie, maar kunnen vinden wat voor hen nuttig is. 
+Van data scientists en beleidsmedewerkers, tot inkopers en bestuurders. En voor elk van deze professionals zijn andere vereisten en maatregelen relevant. Daarom maken we een Algoritmekader dat voor elk van deze professionals op een praktische manier te raadplegen is. Waarbij ze niet stranden in een overload aan informatie, maar kunnen vinden wat voor hen nuttig is. 
 
 Bij het bouwen aan het Algoritmekader maken we zoveel mogelijk gebruik van wat er al is: vereisten uit wet- en regelgeving en standaarden, maatregelen uit de praktijk (best practises) en instrumenten. Het kader brengt dit samen op een logische manier in een interactieve kennisbank. Zodat overheden in alle fasen van de levenscyclus van algoritmische en AI-toepassingen praktische handvatten hebben. Het kader wordt een praktisch hulpmiddel om algoritmes en AI verantwoord te kunnen inzetten en te voldoen aan de (minimale) vereisten die wet- en regelgeving daaraan stellen. 
 

@@ -66,6 +66,7 @@ markdown_extensions:
     - attr_list
     - abbr
     - md_in_html
+    - footnotes
     - toc:
         permalink: true
     - pymdownx.tasklist:

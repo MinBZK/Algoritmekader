@@ -110,3 +110,9 @@ Dit is bestandsformaat voor platte tekstbestanden en wordt door veel verschillen
 
 Daarnaast maken gebruik van [mkdocs](https://www.mkdocs.org/) en [material for mkdocs](https://squidfunk.github.io/mkdocs-material/) om de informatie op een interactieve wijze inzichtelijk te maken op de website van [het Algoritmekader](https://minbzk.github.io/Algoritmekader/). 
 
+#### Wil je een nieuwe pagina aanmaken?
+In het [mkdocs.yml](https://github.com/MinBZK/Algoritmekader/blob/main/mkdocs.yml) bestand staan de settings voor deze website. 
+In principe hoef je hier niets aan aan te passen, maar als je een nieuwe pagina wilt aanmaken kan het nodig zijn om hier een aanpassing in te doen.
+Onderdeel van deze settings is namelijk de navigatie voor de site (welke pagina's zijn zichtbaar, en welke pagina's vallen daaronder). Dit staat in de nav: sectie. 
+Indien je een nieuwe pagina wilt toevoegen, is het vaak nodig deze wijziging ook door te voeren in het [mkdocs.yml](https://github.com/MinBZK/Algoritmekader/blob/main/mkdocs.yml) bestand.
+

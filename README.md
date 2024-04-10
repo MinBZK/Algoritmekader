@@ -5,8 +5,8 @@ We ontwikkelen het Algoritmekader op een open manier via Github.
 
 Deze repository wordt deployed op [https://minbzk.github.io/Algoritmekader](https://minbzk.github.io/Algoritmekader/). 
 
-**Dit is de Github repository voor het Algoritmekader**
-In deze repository oontwikkelen wij het Algoritmekader. Boven op deze pagina vind je de bestanden van het Algoritmekader. 
+### Dit is de Github repository voor het Algoritmekader
+In deze repository ontwikkelen wij het Algoritmekader. Boven op deze pagina vind je de bestanden van het Algoritmekader. 
 De informatie van het algoritmekader wordt uitgewerkt in verschillende markdown bestanden (een bestandsformaat voor platte tekstbestanden). 
 Deze bestanden worden inzichtelijk gemaakt met behulp van [mkdocs](https://www.mkdocs.org/) en [material for mkdocs](https://squidfunk.github.io/mkdocs-material/).
 

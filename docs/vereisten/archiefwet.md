@@ -1,5 +1,5 @@
 ---
-title: De archiefwet is ook van toepassing op algoritmen en ai
+title: De archiefwet is van toepassing op algoritmen en AI
 toelichting: Volgens de Archiefwet moeten overheden informatie bewaren. Op basis van deze informatie moet  gereconstrueerd kunnen worden hoe besluiten, ook in de context van algoritmen en AI, tot stand zijn gekomen. Informatie over en van algoritmen en AI moet daarom ook bewaard en vernietigd worden.
 status_vereiste: 
  - Geldend

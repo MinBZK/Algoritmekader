@@ -20,8 +20,8 @@ Het kan medewerkers met vergelijkbare rollen ook een inzicht geven in wat er nod
 Het laat daarnaast zien dat het rand voorwaardelijk is dat er voldoende ruimte is om met een multidisciplinair team, en al dan niet met een aanbieder, te kunnen samenwerken om tot een verantwoorde inzet van algoritmes en AI te komen. 
 
 Als een rol wordt opgenomen in het Algoritmekader, dan wordt geprobeerd om dit aan te laten sluiten bij wat doorgaans wordt gehanteerd binnen (omvangrijkere) organisaties. 
-Er wordt enkel een beknopte omschrijving gegeven bij deze rol en geen functieprofiel. 
-Vooralsnog wordt enkel de rol gekoppeld aan vereisten en maatregelen en niet de verantwoordelijke afdeling, directie etc. (bijvoorbeeld CIO of CDO). 
+Er wordt een beknopte omschrijving gegeven bij deze rol en geen functieprofiel. 
+Vooralsnog wordt de rol gekoppeld aan vereisten en maatregelen en niet de verantwoordelijke afdeling, directie etc. (bijvoorbeeld CIO of CDO). 
 Hier wordt wel al verwezen naar het nog te ontwikkelen gedeelte [Governance](../bouwblokken/governance/index.md) van het Algoritmekader. 
 Aan dit bouwblok wordt onmiddels gewerkt. 
 

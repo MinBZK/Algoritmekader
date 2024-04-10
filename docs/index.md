@@ -29,15 +29,9 @@ Van data scientists en beleidsmedewerkers, tot inkopers en bestuurders. En voor 
 Daarom maken we een Algoritmekader dat voor elk van deze professionals op een praktische manier te raadplegen is. 
 Waarbij ze niet stranden in een overload aan informatie, maar kunnen vinden wat voor hen nuttig is. 
 
-Bij het bouwen aan het Algoritmekader maken we zoveel mogelijk gebruik van wat er al is: vereisten uit wet- en regelgeving en standaarden, maatregelen uit de praktijk (best practises) en instrumenten.  
+Bij het bouwen aan het Algoritmekader maken we zoveel mogelijk gebruik van wat er al is: vereisten uit wet- en regelgeving en standaarden, maatregelen uit de praktijk (best practises) en instrumenten. Het kader brengt dit samen op een logische manier in een interactieve kennisbank. Zodat overheden in alle fasen van de levenscyclus van algoritmische en AI-toepassingen praktische handvatten hebben. Het kader wordt een praktisch hulpmiddel om algoritmes en AI verantwoord te kunnen inzetten en te voldoen aan de (minimale) vereisten die wet- en regelgeving daaraan stellen. 
 
-Het kader brengt dit samen op een logische manier in een interactieve kennisbank. 
-Zodat overheden in alle fasen van de levenscyclus van algoritmische en AI-toepassingen praktische handvatten hebben. Het kader wordt een praktisch hulpmiddel om algoritmes en AI verantwoord te kunnen inzetten en te voldoen aan de (minimale) vereisten die wet- en regelgeving daaraan stellen. 
-
-De informatie in het Algoritmekader is logisch aan elkaar gekoppeld, zodat gebruikers interactief door de informatie kunnen navigeren. 
-Er kan worden gestart vanuit de algoritme levenscyclus, de bouwblokken, de vereisten, maatregelen en rollen via de bovenstaande tabs. 
-De informatie is 'gelaagd' opgebouwd. Dat betekent dat kan worden doorgeklikt om meer gedetailleerde informatie te raadplegen. 
-De zoekbalk kan eveneens worden benut en spoedig is het mogelijk om exports naar PDF te maken van de geraadpleegde informatie.  
+De informatie in het Algoritmekader is logisch aan elkaar gekoppeld, zodat gebruikers interactief door de informatie kunnen navigeren. Er kan worden gestart vanuit de algoritme levenscyclus, de bouwblokken, de vereisten, maatregelen en rollen via de bovenstaande tabs. De informatie is 'gelaagd' opgebouwd. Dat betekent dat kan worden doorgeklikt om meer gedetailleerde informatie te raadplegen. De zoekbalk kan eveneens worden benut en spoedig is het mogelijk om exports naar PDF te maken van de geraadpleegde informatie.  
 
 We werken open en samen aan het Algoritmekader; iedereen kan deze ontwikkeling volgen en eraan bijdragen.
 We werken samen met verschillende overheidsorganisaties en kennisinstellingen. 

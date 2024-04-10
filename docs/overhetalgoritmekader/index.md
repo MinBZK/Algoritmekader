@@ -8,7 +8,7 @@ Dit betekent dat er aandacht moet zijn voor zaken als rollen en verantwoordelijk
 Maar hoe doe je dat dan? Hier helpt het Algoritmekader je bij: een interactieve kennisbank waarin je kunt zoeken naar informatie op basis van een onderwerp, een fase uit de levenscyclus of jouw rol.  
 
 ### Levenscyclus van een algoritme, vereisten, maatregelen en rollen
-n het Algoritmekader wordt inzichtelijk gemaakt aan welke vereisten overheidsorganisaties moeten voldoen. 
+In het Algoritmekader wordt inzichtelijk gemaakt aan welke vereisten overheidsorganisaties moeten voldoen. 
 Daarbij wordt ook aangegeven hoe zij hier op een betekenisvolle wijze invulling aan kunnen geven (maatregelen).
 Het Algoritmekader is zodanig ingericht dat gebruikers vanuit verschillende invalshoeken informatie kunnen raadplegen die voor hen relevant is. 
 Zo kan vanuit de algoritme levenscyclus worden onderzocht in welke fase aan welke vereisten en maatregelen aandacht moet worden besteed. 

@@ -1,3 +1,8 @@
 # build files
 site
 .venv/
+
+#  python cache
+**/__pycache__/**
+
+src/overrides/hooks/create_vereisten.py

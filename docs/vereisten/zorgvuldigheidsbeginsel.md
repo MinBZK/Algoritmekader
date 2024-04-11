@@ -1,14 +1,20 @@
 ---
-title: 
-toelichting: 
+title: Relevante feiten en belangen zijn bekend 
+toelichting: Dit beginsel vereist dat een besluit met de nodige zorgvuldigheid wordt voorbereid en genomen. Dit vraagt onder meer om een zorgvuldig onderzoek naar feiten, een zorgvuldige beslissingsprocedure en een deugdelijke besluitvorming. Dit betekent dat  algoritmes en AI zodanig moet worden ontwikkeld en gebruikt, dat dit passend is ter ondersteuning van de wettelijke taak en de bijbehorende beslissing of besluitvorming.  
 status_vereiste: 
  - Geldend
+ - 
 levenscyclus: 
 - probleemanalyse
 - ontwerp
 - dataverkenning-en-datapreparatie
+- ontwikkelen
+- validatie
+- implementatie
+- monitoren
+- archiveren
 bouwblok: 
-- fundamentele-rechten
+- governance
 rekenregels: 
 - niet-impactvol: Ja
 - impactvol: Ja
@@ -25,18 +31,21 @@ generatieve-ai:
 <!-- tags -->
 ## Vereiste
 
-Fundamentele vrijheden, mensenrechten en grondrechten worden beschermd bij de inzet van algoritmes en AI.
+De ontwikkeling en het gebruik van algoritmes en AI-systeem komt zorgvuldig tot stand.
 
 ## Toelichting 
 
-
+Dit beginsel vereist dat een besluit met de nodige zorgvuldigheid wordt voorbereid en genomen.
+dit vraagt onder meer om een zorgvuldig onderzoek naar feiten, een zorgvuldige beslissingsprocedure en een deugdelijke besluitvorming.
+dit betekent dat  algoritmes en ai zodanig moet worden ontwikkeld en gebruikt, dat dit passend is ter ondersteuning van de wettelijke taak en de bijbehorende beslissing of besluitvorming.
+ 
 
 ## Bronnen 
 
 | Bron                        |
 |-----------------------------|
-|Grondwet en internationale verdragen|
-|Art 27 AI-verordening|
+|Artikel 3.2 Awb |
+|Artikel 3.4 Awb|
 
 ## Wanneer van toepassing? 
 
@@ -60,7 +69,8 @@ Fundamentele vrijheden, mensenrechten en grondrechten worden beschermd bij de in
 
 ## Risico 
 
-Grondrechten kunnen worden aangetast door de inzet van algoritmes
+De werking van het algoritmes of AI sluit niet of onvoldoende aan bij de juridische en ethische grenzen van de te ondersteunen wettelijke taak.
+Hierdoor kunnen ongewenste gevolgen ontstaan zoals een onjuist of onzorgvuldig genomen besluit op een aanvraag.
 
 ## Normen 
 

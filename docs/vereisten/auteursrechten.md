@@ -1,6 +1,6 @@
 ---
-title: Verbod op schenden auteursrechten
-toelichting: Bepaalde vormen van algoritmen en AI worden ontwikkeld op basis van grote hoeveelheden data. Deze data wordt gebruikt voor het trainen en testen van algoritmen en AI. Het gebruiken van deze data mag geen inbreuk maken op Auteursrechten van diegene die deze rechten heeft. Ook de gegenereerde output van algoritmen en AI mag geen inbreuk maken op deze rechten. 
+title: Auteursrechten mogen niet worden geschonden
+toelichting: Bepaalde vormen van algoritmes en AI worden ontwikkeld op basis van grote hoeveelheden data. Deze data wordt gebruikt voor het trainen en testen van algoritmes en AI. Het gebruiken van deze data mag geen inbreuk maken op Auteursrechten van diegene die deze rechten heeft. Ook de gegenereerde output van algoritmes en AI mag geen inbreuk maken op deze rechten. 
 status_vereiste: 
  - Geldend
 levenscyclus: 
@@ -25,14 +25,14 @@ generatieve-ai:
 <!-- tags -->
 ## Vereiste
 
-Auteursrechten mogen niet geschonden worden bij het ontwikkelen en gebruiken van algoritmen en AI.
+Auteursrechten mogen niet geschonden worden bij het ontwikkelen en gebruiken van algoritmes en AI.
 
 ## Toelichting 
 
-Bepaalde vormen van algoritmen en ai worden ontwikkeld op basis van grote hoeveelheden data.
-deze data wordt gebruikt voor het trainen en testen van algoritmen en ai.
+Bepaalde vormen van algoritmes en ai worden ontwikkeld op basis van grote hoeveelheden data.
+deze data wordt gebruikt voor het trainen en testen van algoritmes en ai.
 het gebruiken van deze data mag geen inbreuk maken op auteursrechten van diegene die deze rechten heeft.
-ook de gegenereerde output van algoritmen en ai mag geen inbreuk maken op deze rechten.
+ook de gegenereerde output van algoritmes en ai mag geen inbreuk maken op deze rechten.
 
 
 ## Bronnen 
@@ -68,11 +68,8 @@ ook de gegenereerde output van algoritmen en ai mag geen inbreuk maken op deze r
 
 ## Risico 
 
-Het is onduidelijk of de ontwikkelaar van het algoritme of AI voldoende rekening heeft gehouden met de rechten van auteurs wiens werken al dan niet zijn gebruikt als trainingsdata voor het ontwikkelde algoritme of AI.
-Daardoor ontstaat het risico, bv.
-bij scraping van data van het internet, dat auteursrechten worden geschonden.
-
-
+Het niet voldoen aan het auteursrecht in AI-systemen en algoritmes kan leiden tot onrechtmatig gebruik van auteursrechtelijk beschermde inhoud, wat kan resulteren in mogelijke juridische geschillen, boetes en schadevergoedingen voor inbreuk op het auteursrecht.
+Bovendien kan het niet naleven van het auteursrecht het vertrouwen van gebruikers en belanghebbenden ondermijnen, wat kan leiden tot reputatieschade en gebrek aan vertrouwen.
   
 
 ## Normen 

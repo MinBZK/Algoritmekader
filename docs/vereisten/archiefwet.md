@@ -1,6 +1,6 @@
 ---
-title: De archiefwet is van toepassing op algoritmen en AI
-toelichting: Volgens de Archiefwet moeten overheden informatie bewaren. Op basis van deze informatie moet  gereconstrueerd kunnen worden hoe besluiten, ook in de context van algoritmen en AI, tot stand zijn gekomen. Informatie over en van algoritmen en AI moet daarom ook bewaard en vernietigd worden.
+title: De archiefwet is ook van toepassing op algoritmes en ai
+toelichting: Volgens de Archiefwet moeten overheden informatie bewaren. Op basis van deze informatie moet  gereconstrueerd kunnen worden hoe besluiten, ook in de context van algoritmes en AI, tot stand zijn gekomen. Informatie over en van algoritmes en AI moet daarom ook bewaard en vernietigd worden.
 status_vereiste: 
  - Geldend
 levenscyclus: 
@@ -32,8 +32,8 @@ Overheidsorganen zijn verplicht de onder hen berustende archiefbescheiden in goe
 ## Toelichting 
 
 Volgens de archiefwet moeten overheden informatie bewaren.
-op basis van deze informatie moet  gereconstrueerd kunnen worden hoe besluiten, ook in de context van algoritmen en ai, tot stand zijn gekomen.
-informatie over en van algoritmen en ai moet daarom ook bewaard en vernietigd worden.
+op basis van deze informatie moet  gereconstrueerd kunnen worden hoe besluiten, ook in de context van algoritmes en ai, tot stand zijn gekomen.
+informatie over en van algoritmes en ai moet daarom ook bewaard en vernietigd worden.
 
 ## Bronnen 
 
@@ -66,7 +66,7 @@ informatie over en van algoritmen en ai moet daarom ook bewaard en vernietigd wo
 
 ## Risico 
 
-Zonder goede toepassing van de Archiefwet is het voor betrokkene(n) of derden niet mogelijk om achteraf te reconstrueren en te controleren hoe besluiten, waar algoritmen en AI aan hebben bijgedragen, tot stand zijn gekomen.
+Zonder goede toepassing van de Archiefwet is het voor betrokkene(n) of derden niet mogelijk om achteraf te reconstrueren en te controleren hoe besluiten, waar algoritmes en AI aan hebben bijgedragen, tot stand zijn gekomen.
 Het nalaten om archiefbescheiden na verloop van tijd te verwijderen brengt risico's met zich mee op het gebied van privacy en informatiebeveiliging 
  
 

@@ -1,25 +1,26 @@
 ---
-title: Beschermen van persoonsgegevens
-toelichting: Voor de ontwikkeling en gebruik van algoritmen en AI is dat nodig. Deze data kan persoonsgegevens bevatten. Deze persoonsgegevens moeten worden beschermd. De organisatie zal technische en organisatorische maatregelen moeten treffen om de data en de algoritmische toepassing of AI-systeem voldoende te beschermen. Hierbij kan worden gedacht aan dataminimalisatie, het pseudonomiseren of aggregeren van persoonsgegevens. Per toepassing moet worden onderzocht welke maatregelen hiervoor geschikt zijn. 
-
-
+title: Beveiliging van verwerking
+toelichting: Voor de ontwikkeling en gebruik van algoritmes en AI is dat data nodig. Deze data kan persoonsgegevens bevatten die moeten worden beschermd. De organisatie zal technische en organisatorische maatregelen moeten treffen om de data en de algoritmische toepassing of AI-systeem voldoende te beschermen. Hierbij kan worden gedacht aan dataminimalisatie, het pseudonimiseren of aggregeren van persoonsgegevens. Per toepassing moet worden onderzocht welke maatregelen hiervoor geschikt zijn. 
 status_vereiste: 
  - Geldend
 levenscyclus: 
 - dataverkenning-en-datapreparatie
 - ontwikkelen
+- validatie
+- monitoren
+- archiveren
 bouwblok: 
 - privacy-en-gegevensbescherming
 - data
 rekenregels: 
-- niet-impactvol: Nee
+- niet-impactvol: ja
 - impactvol: Ja
 machine-learning: 
-- niet-impactvol: Nee
+- niet-impactvol: ja
 - impactvol: Ja
 - hoog-risico: Ja
 generatieve-ai: 
-- niet-impactvol: Nee
+- niet-impactvol: ja
 - impactvol: Ja
 - hoog-risico: Ja
 ---
@@ -33,14 +34,11 @@ van personen, treffen de verwerkingsverantwoordelijke en de verwerker passende t
 
 ## Toelichting 
 
-Voor de ontwikkeling en gebruik van algoritmen en ai is dat nodig.
-deze data kan persoonsgegevens bevatten.
-deze persoonsgegevens moeten worden beschermd.
+Voor de ontwikkeling en gebruik van algoritmes en ai is dat data nodig.
+deze data kan persoonsgegevens bevatten die moeten worden beschermd.
 de organisatie zal technische en organisatorische maatregelen moeten treffen om de data en de algoritmische toepassing of ai-systeem voldoende te beschermen.
-hierbij kan worden gedacht aan dataminimalisatie, het pseudonomiseren of aggregeren van persoonsgegevens.
+hierbij kan worden gedacht aan dataminimalisatie, het pseudonimiseren of aggregeren van persoonsgegevens.
 per toepassing moet worden onderzocht welke maatregelen hiervoor geschikt zijn.
-
-
 
 
 ## Bronnen 
@@ -71,8 +69,8 @@ per toepassing moet worden onderzocht welke maatregelen hiervoor geschikt zijn.
 
 ## Risico 
 
-Er kunnen risico's ontstaan zoals ongeautoriseerde toegang, vernietiging, onrechtmatige verwerking, verlies, wijziging of niet-toegestane verwerking van persoonsgegevens.
-
+Er kunnen risico's ontstaan zoals potentiële cyberaanvallen en datalekken.
+Dit kan leiden bijvoorbeeld tot verlies of diefstal van gevoelige gegevens, verstoring van organisatieprocessen,ongeautoriseerde toegang, vernietiging en onrechtmatige verwerking.
 
 ## Normen 
 

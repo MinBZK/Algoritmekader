@@ -1,6 +1,6 @@
 ---
-title: Geb/dpia verplicht bij hoog risico
-toelichting: Een Gegevensbeschermingseffectbeoordeling (GEB) of Data Protection Impact Assessment (DPIA) is verplicht wanneer de verwerking van persoonsgegevens waarschijnlijk een hoog risico met zich meebrengt voor de rechten en vrijheden van natuurlijke personen. Deze beoordeling identificeert en beperkt potentiële risico's en zorgt ervoor dat passende maatregelen worden genomen om de privacy van individuen te beschermen. Deze verplichting draagt bij aan een zorgvuldige en verantwoorde omgang met persoonsgegevens, waardoor de privacy van individuen wordt gewaarborgd.
+title: Een geb/dpia is verplicht bij hoog risico
+toelichting: Een Gegevensbeschermingseffectbeoordeling (GEB) of Data Protection Impact Assessment (DPIA) is verplicht wanneer de verwerking van persoonsgegevens waarschijnlijk een hoog risico met zich meebrengt voor de rechten en vrijheden van natuurlijke personen. Deze beoordeling identificeert en beperkt potentiële risico's en zorgt ervoor dat passende maatregelen worden genomen om de privacy van individuen te beschermen. Deze verplichting draagt bij aan een zorgvuldige en verantwoorde omgang met persoonsgegevens in AI-systemen en algoritmes, waardoor de privacy van individuen wordt gewaarborgd.
 
 status_vereiste: 
  - Geldend
@@ -27,13 +27,13 @@ generatieve-ai:
 <!-- tags -->
 ## Vereiste
 
-Een gegevensbeschermingseffectbeoordeling / Data Protection Impact Assessment (GEB / DPIA) is verplicht, indien een verwerking van persoonsgegevens waarschijnlijk een hoog risico inhoudt voor de rechten en vrijheden van natuurlijke personen.
+Een gegevensbeschermingseffectbeoordeling (DPIA) is verplicht, indien een verwerking van persoonsgegevens waarschijnlijk een hoog risico inhoudt voor de rechten en vrijheden van natuurlijke personen.
 
 ## Toelichting 
 
 Een gegevensbeschermingseffectbeoordeling (geb) of data protection impact assessment (dpia) is verplicht wanneer de verwerking van persoonsgegevens waarschijnlijk een hoog risico met zich meebrengt voor de rechten en vrijheden van natuurlijke personen.
 deze beoordeling identificeert en beperkt potentiële risico's en zorgt ervoor dat passende maatregelen worden genomen om de privacy van individuen te beschermen.
-deze verplichting draagt bij aan een zorgvuldige en verantwoorde omgang met persoonsgegevens, waardoor de privacy van individuen wordt gewaarborgd.
+deze verplichting draagt bij aan een zorgvuldige en verantwoorde omgang met persoonsgegevens in ai-systemen en algoritmes, waardoor de privacy van individuen wordt gewaarborgd.
 
 
 ## Bronnen 
@@ -64,7 +64,8 @@ deze verplichting draagt bij aan een zorgvuldige en verantwoorde omgang met pers
 
 ## Risico 
 
-Bij de verwerking van persoonsgegevens zijn de risico's voor de rechten en vrijheden van betrokkenen zijn niet bekend en niet gemitigeerd.
+Het niet evalueren van de impact van het verwerking van persoonsgegevens in AI-systemen en algoritmes kan resulteren in het niet onderkennen van de bijbehorende risico's  en het niet op tijd te mitigieren van deze risico's.
+Dit kan leiden tot potentiële schendingen van de rechten en vrijheden van betrokkenen.
 
 ## Normen 
 

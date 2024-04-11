@@ -1,6 +1,6 @@
 ---
-title: Verbod op discriminatie
-toelichting: Overheidsinstanties moeten zich bij het uitvoeren van hun taken onthouden van discriminatie, ook wanneer er gebruik wordt gemaakt van algoritmes of AI. Wanneer er algoritmes worden gebruikt om selecties te maken van burgers, dienen we te streven naar een gelijke behandeling van personen of groepen ten opzichte van andere personen in een vergelijkbare situatie. hierbij is het belangrijk te beseffen dat discriminatie ook op indirecte wijze kan ontstaan. Hiervan is sprake wanneer een ogenschijnlijk neutrale bepaling, maatstaf of handelwijze personen met een beschermd persoonskenmerk in vergelijking met andere personen in het bijzonder benadeelt, tenzij hiervoor een objectieve rechtvaardiging bestaat. 
+title: Ai-systemen en algoritmes mogen niet discrimineren
+toelichting: Overheidsinstanties moeten zich bij het uitvoeren van hun taken onthouden van discriminatie, ook wanneer er gebruik wordt gemaakt van algoritmes of AI. Wanneer er algoritmes worden gebruikt om selecties te maken van burgers, dienen we te streven naar een gelijke behandeling van personen of groepen ten opzichte van andere personen in een vergelijkbare situatie. Hierbij is het belangrijk te beseffen dat discriminatie ook op indirecte wijze kan ontstaan. Hiervan is sprake wanneer een ogenschijnlijk neutrale bepaling, maatstaf of handelwijze personen met een beschermd persoonskenmerk in vergelijking met andere personen in het bijzonder benadeelt, tenzij hiervoor een objectieve rechtvaardiging bestaat. 
 status_vereiste: 
  - Geldend
 levenscyclus: 
@@ -47,7 +47,7 @@ hiervan is sprake wanneer een ogenschijnlijk neutrale bepaling, maatstaf of hand
 |Grondwet Artikel 1|
 |EVRM Artikel 1 en 14, jo. 21 HvEU |
 |Algemene wet gelijke behandeling, Protocol 12 2.2, Artikel 1 lid 1 sub c|
-|Aritkel 9 AVG|
+|Artikel 9 AVG|
 |Artikel 2:4 Awb|
 
 ## Wanneer van toepassing? 
@@ -72,9 +72,7 @@ hiervan is sprake wanneer een ogenschijnlijk neutrale bepaling, maatstaf of hand
 
 ## Risico 
 
-Het model creëert onwenselijke systematische afwijking voor specifieke personen, groepen of andere eenheden (bias).
-Deze onwenselijke systematische afwijking kan duiden op directe of indirecte discriminerende effecten van de inzet van het algoritme.
-
+Het risico bestaat dat het model onwenselijke systematische afwijkingen creëert voor specifieke personen, groepen of andere eenheden, wat kan duiden op directe of indirecte discriminerende effecten van het algoritme.
 
 ## Normen 
 

@@ -29,7 +29,7 @@ De standaarden zullen in grote mate gaan duiden 'hoe' organisaties invulling kun
 De kracht achter standaarden is dat deze door gespecialiseerde organisaties zijn opgesteld en gedragen zijn door brede consensus. 
 Het volgen van deze standaarden levert een 'vermoeden van conformiteit op' en is daarmee bijzonder waardevol om onderdeel te maken van het Algoritmekader.  
 
-### Best practises en instrumenten
+### Best practices en instrumenten
 In het Algoritmekader wordt geprobeerd om zoveel mogelijk 'best practises' te koppelen aan vereisten en maatregelen die organisaties kunnen treffen. 
 Daarmee wordt de materie tastbaarder en praktischer. 
 Zo zijn rapporten te vinden van uitgevoerde bias analyses, gepubliceerde broncode van door overheidsorganisatie ontwikkeld algoritmes, specifieke adviezen en belangrijke uitspraken. 

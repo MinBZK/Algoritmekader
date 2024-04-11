@@ -70,4 +70,3 @@ Tegelijkertijd vraagt dit om een aangepaste werkwijze en is hier bepaalde expert
 Het begin is gemaakt en het team Algoritmekader is nog lerende om hier optimaal invulling aan te geven. 
 Voor nu betekent dit concreet dat het langer kan duren voordat wordt gereageerd op suggesties of toevoegingen. 
 Er wordt gewerkt aan het inrichten van goede processen om snel en kundig te reageren. 
-

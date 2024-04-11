@@ -34,11 +34,11 @@ van personen, treffen de verwerkingsverantwoordelijke en de verwerker passende t
 
 ## Toelichting 
 
-Voor de ontwikkeling en gebruik van algoritmes en ai is dat data nodig.
-deze data kan persoonsgegevens bevatten die moeten worden beschermd.
-de organisatie zal technische en organisatorische maatregelen moeten treffen om de data en de algoritmische toepassing of ai-systeem voldoende te beschermen.
-hierbij kan worden gedacht aan dataminimalisatie, het pseudonimiseren of aggregeren van persoonsgegevens.
-per toepassing moet worden onderzocht welke maatregelen hiervoor geschikt zijn.
+Voor de ontwikkeling en gebruik van algoritmes en AI is dat data nodig.
+Deze data kan persoonsgegevens bevatten die moeten worden beschermd.
+De organisatie zal technische en organisatorische maatregelen moeten treffen om de data en de algoritmische toepassing of AI-systeem voldoende te beschermen.
+Hierbij kan worden gedacht aan dataminimalisatie, het pseudonimiseren of aggregeren van persoonsgegevens.
+Per toepassing moet worden onderzocht welke maatregelen hiervoor geschikt zijn.
 
 
 ## Bronnen 

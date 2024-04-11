@@ -31,9 +31,9 @@ Overheidsorganen zijn verplicht de onder hen berustende archiefbescheiden in goe
 
 ## Toelichting 
 
-Volgens de archiefwet moeten overheden informatie bewaren.
-op basis van deze informatie moet  gereconstrueerd kunnen worden hoe besluiten, ook in de context van algoritmes en ai, tot stand zijn gekomen.
-informatie over en van algoritmes en ai moet daarom ook bewaard en vernietigd worden.
+Volgens de Archiefwet moeten overheden informatie bewaren.
+Op basis van deze informatie moet  gereconstrueerd kunnen worden hoe besluiten, ook in de context van algoritmes en AI, tot stand zijn gekomen.
+Informatie over en van algoritmes en AI moet daarom ook bewaard en vernietigd worden.
 
 ## Bronnen 
 

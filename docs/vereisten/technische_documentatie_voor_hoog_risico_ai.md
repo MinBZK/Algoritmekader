@@ -36,27 +36,27 @@ De documentatie omvat ten minste de in bijlage IV uiteengezette elementen.
 
 ## Toelichting 
 
-De technische documentatie van een ai-systeem met een hoog risico wordt voorafgaand aan het in de handel brengen of in gebruik nemen opgesteld en regelmatig bijgewerkt.
-deze documentatie moet duidelijk aantonen dat het systeem voldoet aan de vereisten van de verordening, zodat nationale autoriteiten en aangemelde instanties de naleving kunnen beoordelen.
-de documentatie bevat ten minste de elementen zoals uiteengezet in bijlage iv.
+De technische documentatie van een AI-systeem met een hoog risico wordt voorafgaand aan het in de handel brengen of in gebruik nemen opgesteld en regelmatig bijgewerkt.
+Deze documentatie moet duidelijk aantonen dat het systeem voldoet aan de vereisten van de verordening, zodat nationale autoriteiten en aangemelde instanties de naleving kunnen beoordelen.
+De documentatie bevat ten minste de elementen zoals uiteengezet in bijlage IV.
 1.
-een algemene beschrijving van het ai-syseem.
+Een algemene beschrijving van het AI-syseem.
 2.
-een gedetailleerde beschrijving van de elementen van het ai systeem en het proces voor de ontwikkeling ervan.
+Een gedetailleerde beschrijving van de elementen van het AI systeem en het proces voor de ontwikkeling ervan.
 3.
-gedetailleerde informatie over de monitoring, werking en controle van het ai-systeem.
+Gedetailleerde informatie over de monitoring, werking en controle van het AI-systeem.
 4.
-een beschrijving van de geschiktheid van de prestatiestatistieken.
+Een beschrijving van de geschiktheid van de prestatiestatistieken.
 5.
-een gedetailleerde beschrijving van het systeem voor risicobeheer overeenkomstig artikel 9 van de ai verordening.
+Een gedetailleerde beschrijving van het systeem voor risicobeheer overeenkomstig artikel 9 van de AI verordening.
 6.
-een beschrijving van de wijzigingen die tijdens de levensduur worden aangebracht.
+Een beschrijving van de wijzigingen die tijdens de levensduur worden aangebracht.
 7.
-een lijst van normen die worden toegepast.
+Een lijst van normen die worden toegepast.
 8.
-een exemplaar van de eu-conformiteitsverklaring.
+Een exemplaar van de EU-conformiteitsverklaring.
 9.
-een gedetailleerde beschrijving voor evaluatie van prestaties nadat het systeem in handel is gebracht, in overeenstemming met artikel 72 van de ai verordening.
+Een gedetailleerde beschrijving voor evaluatie van prestaties nadat het systeem in handel is gebracht, in overeenstemming met artikel 72 van de AI verordening.
 
 ## Bronnen 
 

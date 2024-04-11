@@ -34,9 +34,9 @@ De verwerkingsverantwoordelijke is verantwoordelijk voor de naleving van de begi
 
 ## Toelichting 
 
-Bij het verwerken van persoonsgegevens voor algoritmes en ai-systemen moeten de verantwoordelijkheden duidelijk beschreven en toegewezen zijn.
-de verwerkingsverantwoordelijke is degene die ervoor zorgt dat deze verantwoordelijkheden worden nageleefd en kan dit aantonen, wat bekend staat als de verantwoordingsplicht.
-deze maatregelen zijn essentieel om de naleving van regelgeving met betrekking tot gegevensbescherming te waarborgen en het vertrouwen van gebruikers in de verwerking van hun gegevens te vergroten.
+Bij het verwerken van persoonsgegevens voor algoritmes en AI-systemen moeten de verantwoordelijkheden duidelijk beschreven en toegewezen zijn.
+De verwerkingsverantwoordelijke is degene die ervoor zorgt dat deze verantwoordelijkheden worden nageleefd en kan dit aantonen, wat bekend staat als de verantwoordingsplicht.
+Deze maatregelen zijn essentieel om de naleving van regelgeving met betrekking tot gegevensbescherming te waarborgen en het vertrouwen van gebruikers in de verwerking van hun gegevens te vergroten.
 
 ## Bronnen 
 

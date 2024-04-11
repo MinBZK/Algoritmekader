@@ -36,8 +36,8 @@ De ontwikkeling en het gebruik van algoritmes en AI-systeem komt zorgvuldig tot 
 ## Toelichting 
 
 Dit beginsel vereist dat een besluit met de nodige zorgvuldigheid wordt voorbereid en genomen.
-dit vraagt onder meer om een zorgvuldig onderzoek naar feiten, een zorgvuldige beslissingsprocedure en een deugdelijke besluitvorming.
-dit betekent dat  algoritmes en ai zodanig moet worden ontwikkeld en gebruikt, dat dit passend is ter ondersteuning van de wettelijke taak en de bijbehorende beslissing of besluitvorming.
+Dit vraagt onder meer om een zorgvuldig onderzoek naar feiten, een zorgvuldige beslissingsprocedure en een deugdelijke besluitvorming.
+Dit betekent dat  algoritmes en AI zodanig moet worden ontwikkeld en gebruikt, dat dit passend is ter ondersteuning van de wettelijke taak en de bijbehorende beslissing of besluitvorming.
  
 
 ## Bronnen 

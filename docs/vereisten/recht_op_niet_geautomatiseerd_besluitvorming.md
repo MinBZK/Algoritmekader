@@ -30,8 +30,8 @@ Betrokkenen hebben het recht om niet onderworpen te worden aan een enkel op geau
 ## Toelichting 
 
 Mensen hebben het recht om niet onderworpen te worden aan beslissingen die uitsluitend gebaseerd zijn op geautomatiseerde verwerking, zoals profilering, als dit aanzienlijke gevolgen voor hen heeft of hen op een andere manier aanzienlijk beïnvloedt.
-dit recht biedt bescherming tegen mogelijke negatieve effecten van volledig geautomatiseerde besluitvormingssystemen, en waarborgt dat individuen kunnen rekenen op menselijke tussenkomst en beoordeling bij belangrijke beslissingen die hen kunnen treffen.
-uitgangspunt is dat voor elk individueel geval een zorgvuldige beoordeling van de kenmerken en omstandigheden plaatsvindt voordat een besluit wordt genomen.
+Dit recht biedt bescherming tegen mogelijke negatieve effecten van volledig geautomatiseerde besluitvormingssystemen, en waarborgt dat individuen kunnen rekenen op menselijke tussenkomst en beoordeling bij belangrijke beslissingen die hen kunnen treffen.
+Uitgangspunt is dat voor elk individueel geval een zorgvuldige beoordeling van de kenmerken en omstandigheden plaatsvindt voordat een besluit wordt genomen.
 
 ## Bronnen 
 

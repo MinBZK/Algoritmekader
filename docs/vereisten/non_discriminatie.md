@@ -34,10 +34,10 @@ Directe en indirecte discriminatie wegens godsdienst, levensovertuiging, politie
 
 ## Toelichting 
 
-Overheidsinstanties moeten zich bij het uitvoeren van hun taken onthouden van discriminatie, ook wanneer er gebruik wordt gemaakt van algoritmes of ai.
-wanneer er algoritmes worden gebruikt om selecties te maken van burgers, dienen we te streven naar een gelijke behandeling van personen of groepen ten opzichte van andere personen in een vergelijkbare situatie.
-hierbij is het belangrijk te beseffen dat discriminatie ook op indirecte wijze kan ontstaan.
-hiervan is sprake wanneer een ogenschijnlijk neutrale bepaling, maatstaf of handelwijze personen met een beschermd persoonskenmerk in vergelijking met andere personen in het bijzonder benadeelt, tenzij hiervoor een objectieve rechtvaardiging bestaat.
+Overheidsinstanties moeten zich bij het uitvoeren van hun taken onthouden van discriminatie, ook wanneer er gebruik wordt gemaakt van algoritmes of AI.
+Wanneer er algoritmes worden gebruikt om selecties te maken van burgers, dienen we te streven naar een gelijke behandeling van personen of groepen ten opzichte van andere personen in een vergelijkbare situatie.
+Hierbij is het belangrijk te beseffen dat discriminatie ook op indirecte wijze kan ontstaan.
+Hiervan is sprake wanneer een ogenschijnlijk neutrale bepaling, maatstaf of handelwijze personen met een beschermd persoonskenmerk in vergelijking met andere personen in het bijzonder benadeelt, tenzij hiervoor een objectieve rechtvaardiging bestaat.
 
 
 ## Bronnen 

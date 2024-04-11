@@ -50,10 +50,10 @@ Gegevensverwerking moet in verhouding staan tot het beoogde doel en persoonsgege
 
 ## Toelichting 
 
-Proportionaliteit vereist dat de omvang van gegevensverwerking voor de ontwikkeling van een algoritmes of ai en voor het genereren van de benodigde output in balans is met het beoogde doel.
-subsidiariteit benadrukt dat persoonsgegevens alleen moeten worden verwerkt als dit de enige geschikte manier is om het doel te bereiken.
-deze principes waarborgen dat de privacy van individuen wordt gerespecteerd en dat gegevensverwerking niet verder gaat dan noodzakelijk is voor legitieme doeleinden.
-het is van belang om deze principes te hanteren om te bepalen of en in welke vorm een algoritmes en ai moet toegepast en om tot een passende mate van gegevensverwerking te komen om het doel te bereiken.
+Proportionaliteit vereist dat de omvang van gegevensverwerking voor de ontwikkeling van een algoritmes of AI en voor het genereren van de benodigde output in balans is met het beoogde doel.
+Subsidiariteit benadrukt dat persoonsgegevens alleen moeten worden verwerkt als dit de enige geschikte manier is om het doel te bereiken.
+Deze principes waarborgen dat de privacy van individuen wordt gerespecteerd en dat gegevensverwerking niet verder gaat dan noodzakelijk is voor legitieme doeleinden.
+Het is van belang om deze principes te hanteren om te bepalen of en in welke vorm een algoritmes en AI moet toegepast en om tot een passende mate van gegevensverwerking te komen om het doel te bereiken.
 
 
 

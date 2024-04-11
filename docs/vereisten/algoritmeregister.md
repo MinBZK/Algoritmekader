@@ -31,9 +31,9 @@ Bestuursorganen publiceren algoritmes met impact en hoog-risico AI-systemen in h
 
 ## Toelichting 
 
-Het publiceren van impactvolle algoritmes en ai draagt bij aan transparantie voor belanghebbenden en derden over welke algoritmes en ai worden gebruikt door de overheid.
-het is vastgesteld beleid dat overheidsinstellingen, tenzij er uitsluitingsgronden zijn, de door hen gebruikte impactvolle algoritmes en hoogrisico ai-systemen publiceren in het algoritmeregister.
-er wordt gewerkt aan wetgeving om het bij wet verplicht te stellen.
+Het publiceren van impactvolle algoritmes en AI draagt bij aan transparantie voor belanghebbenden en derden over welke algoritmes en AI worden gebruikt door de overheid.
+Het is vastgesteld beleid dat overheidsinstellingen, tenzij er uitsluitingsgronden zijn, de door hen gebruikte impactvolle algoritmes en hoogrisico AI-systemen publiceren in het algoritmeregister.
+Er wordt gewerkt aan wetgeving om het bij wet verplicht te stellen.
 
 
 ## Bronnen 

@@ -1,7 +1,7 @@
 ---
-title: Governance
+title: Menselijke controle
 summary: Hier staat een korte samenvatting over dit onderwerp
-icon: material/bank
+icon: material/account-check
 ---
 
 Hier komt een beschrijving van dit bouwblok.
@@ -13,8 +13,9 @@ Hier komt een beschrijving van dit bouwblok.
 
 ## Vereisten
 
-<!-- list_vereisten bouwblok/governance -->
+<!-- list_vereisten bouwblok/menselijke-controle -->
+
 
 ## Maatregelen
 
-<!-- list_maatregelen bouwblok/governance-->
+<!-- list_maatregelen bouwblok/menselijke-controle-->

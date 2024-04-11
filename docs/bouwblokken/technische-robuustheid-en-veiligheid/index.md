@@ -1,7 +1,7 @@
 ---
-title: Governance
+title: Technische robuustheid en veiligheid
 summary: Hier staat een korte samenvatting over dit onderwerp
-icon: material/bank
+icon: material/cog
 ---
 
 Hier komt een beschrijving van dit bouwblok.
@@ -13,8 +13,8 @@ Hier komt een beschrijving van dit bouwblok.
 
 ## Vereisten
 
-<!-- list_vereisten bouwblok/governance -->
+<!-- list_vereisten bouwblok/technische-robuustheid-en-veiligheid -->
 
 ## Maatregelen
 
-<!-- list_maatregelen bouwblok/governance-->
+<!-- list_maatregelen bouwblok/technische-robuustheid-en-veiligheid -->

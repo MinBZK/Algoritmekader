@@ -41,6 +41,7 @@ jobs:
           path: ./site/
 
       - name: Deploy preview
+        if: github.event.pull_request.head.repo.full_name == github.repository && github.actor != 'dependabot[bot]'
         uses: rossjrw/pr-preview-action@v1
         with:
           source-dir: ./site/

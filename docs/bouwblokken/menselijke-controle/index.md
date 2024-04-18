@@ -4,6 +4,8 @@ summary: Hier staat een korte samenvatting over dit onderwerp
 icon: material/account-check
 ---
 
+![menselijke-controle](../../afbeeldingen/bouwblokken/menselijke-controle.jpg "visuele weergave menselijke controle"){align="right"; width="50%"}
+
 Hier komt een beschrijving van dit bouwblok.
 
 !!! info "Opmerking"

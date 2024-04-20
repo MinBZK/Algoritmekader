@@ -8,6 +8,7 @@ watch:
 ### theme settings ###
 theme: 
     name: material
+    custom_dir: overrides
     language: nl
     palette:
         - primary: blue
@@ -86,11 +87,15 @@ extra:
 
 extra_css:
   - stylesheets/extra.css
+  - https://cdn.jsdelivr.net/npm/daisyui@4.4.23/dist/full.min.css
 
 extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - javascripts/tablesort.js
-  
+  - https://cdn.jsdelivr.net/npm/daisyui@4.4.23/dist/full.min.js  # If you need DaisyUI's JavaScript
+  - https://cdn.tailwindcss.com  # Remove if not using Tailwind
+  - https://unpkg.com/htmx.org@1.9.12
+
 plugins:
     - glightbox
     - search

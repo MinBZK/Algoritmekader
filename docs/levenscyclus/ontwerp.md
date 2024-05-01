@@ -1,10 +1,17 @@
 --- 
-tags:
-    - ontwerp
+title: Ontwerp
 ---
 
-# Ontwerp
 Hier wordt het conceptuele ontwerp van het AI-systeem gemaakt. Dit omvat het bepalen van de architectuur, algoritmen en benodigde middelen voor de implementatie.
+
+## Vereisten
+
+<!-- list_vereisten levenscyclus/ontwerp -->
+
+## Maatregelen
+
+<!-- list_maatregelen levenscyclus/ontwerp -->
+
 
 !!! info "Disclaimer"
 

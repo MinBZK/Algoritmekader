@@ -3,7 +3,7 @@ title: Publieke inkoop
 icon: material/cart
 ---
 
-![publieke-inkoop](../../afbeeldingen/bouwblokken/inkoop.jpg "visuele weergave publieke inkoop"){align="right"; width="50%"}
+![publieke-inkoop](../../afbeeldingen/bouwblokken/publieke-inkoop.jpg "visuele weergave publieke inkoop"){align="right"; width="50%"}
 
 Door middel van publieke inkoop wordt door overheidsinstellingen software ingekocht. Deze software wordt ingekocht om ambtenaren te ondersteunen met hun werkzaamheden om zo maatschappelijk waarden te creëren. Het kan bijvoorbeeld gaan om het inkopen van een systeem waarmee een aanvraag voor een subsidie of vergunning kan worden behandeld. Het virtueel vergaderen of het digitaal samenwerken aan documenten zijn hier ook voorbeelden van. 
 

@@ -4,6 +4,8 @@ summary: Hier staat een korte samenvatting over dit onderwerp
 icon: material/magnify
 ---
 
+![transparantie](../../afbeeldingen/bouwblokken/transparantie.jpg "visuele weergave transparantie"){align="right"; width="50%"}
+
 Hier komt een beschrijving van dit bouwblok.
 
 !!! info "Opmerking"

@@ -2,12 +2,19 @@
 title: Bouwblokken
 summary: Hier staat een korte samenvatting over dit onderwerp
 icon: material/cube
+hide:
+    - toc
+    - navigation
 ---
 
 <div class="grid cards" markdown>
 
--   :material-scale-balance: __Fundamentele rechten__ *(in ontwikkeling)*
+-   ### [Fundamentele rechten](../bouwblokken/fundamentele-rechten/index.md)
 
+    ---
+
+    ![fundamentele-rechten](../afbeeldingen/iconen/fundamentele-rechten.png)
+    
     ---
 
     Het bouwblok fundamentele rechten is opgesplitst in verschillende delen
@@ -16,31 +23,47 @@ icon: material/cube
 
     [:octicons-arrow-right-24: Naar bias en non-discriminatie](../bouwblokken/fundamentele-rechten/non-discriminatie.md)
 
--   :material-cart: __Publieke inkoop__ *(in ontwikkeling)*
-
+-   ### [Publieke inkoop](../bouwblokken/publieke-inkoop/index.md)
+    
+    ---
+  
+    ![publieke-inkoop](../afbeeldingen/iconen/inkoop.png)
+    
     ---
 
-    Hier kunnen we een korte tekst kwijt over publieke inkoop
+    Op deze pagina vind je relevante informatie wanneer je als overheidsorganisatie algoritmes of AI wilt inkopen. 
 
     [:octicons-arrow-right-24: Naar publieke inkoop](../bouwblokken/publieke-inkoop/index.md)
 
--   :material-shield-lock: __Privacy en gegevensbescherming__ *(in ontwikkeling)*
+-   ### [Privacy en gegevensbescherming](../bouwblokken/privacy-en-gegevensbescherming/index.md)
 
     ---
 
-    Hier kunnen we een korte tekst kwijt over privacy en gegevensbescherming
+    ![privacy-en-gegevensbescherming](../afbeeldingen/iconen/privacy-en-gegevensbescherming.png)
+    
+    ---
+
+    Op deze pagina vind je relevante informatie over privacy en gegevensbescherming die van belang is wanneer je gebruik maakt van algoritmes of AI. 
 
     [:octicons-arrow-right-24: Naar privacy en gegevensbescherming](../bouwblokken/privacy-en-gegevensbescherming/index.md)
 
--   :material-magnify: __Transparantie__ *(in ontwikkeling)*
+-   ### [Transparantie](../bouwblokken/transparantie/index.md)
+    
+    ---
+
+    ![transparantie](../afbeeldingen/iconen/transparantie.png)
 
     ---
 
-    Hier kunnen we een korte tekst kwijt over transparantie
+    Op deze pagina vind je de relevantie informatie over transparantie die van belang is wanneer je gebruik maakt van algoritmes of AI.
 
     [:octicons-arrow-right-24: Naar transparantie](../bouwblokken/transparantie/index.md)
 
--   :material-check-circle: __Conformiteitsbeoordeling__ *(nog te doen)*
+-   ### [Conformiteitsbeoordeling](../bouwblokken/conformiteitsbeoordeling/index.md)
+    
+    ---
+
+    ![conformiteitsbeoordeling](../afbeeldingen/iconen/conformiteitsbeoordeling.png)
 
     ---
 
@@ -48,7 +71,11 @@ icon: material/cube
 
     [:octicons-arrow-right-24: Naar conformiteitsbeoordeling](../bouwblokken/conformiteitsbeoordeling/index.md)
 
--   :material-database: __Data__ *(nog te doen)*
+-   ### [Data](../bouwblokken/data/index.md)
+    
+    ---
+
+    ![data](../afbeeldingen/iconen/data.png)
 
     ---
 
@@ -56,7 +83,11 @@ icon: material/cube
 
     [:octicons-arrow-right-24: Naar data](../bouwblokken/data/index.md)
 
--   :material-leaf: __Duurzaamheid__ *(nog te doen)*
+-   ### [Duurzaamheid](../bouwblokken/duurzaamheid/index.md)
+    
+    ---
+
+    ![duurzaamheid](../afbeeldingen/iconen/duurzaamheid.png)
 
     ---
 
@@ -64,7 +95,11 @@ icon: material/cube
 
     [:octicons-arrow-right-24: Naar duurzaamheid](../bouwblokken/duurzaamheid/index.md)
 
--   :material-bank: __Governance__ *(nog te doen)*
+-   ### [Governance](../bouwblokken/governance/index.md)
+    
+    ---
+
+    ![governance](../afbeeldingen/iconen/governance.png)
 
     ---
 
@@ -72,7 +107,11 @@ icon: material/cube
 
     [:octicons-arrow-right-24: Naar governance](../bouwblokken/governance/index.md)
 
--   :material-account-check: __Menselijke controle__ *(nog te doen)*
+-   ### [Menselijke controle](../bouwblokken/menselijke-controle/index.md)
+    
+    ---
+
+    ![menselijke-controle](../afbeeldingen/iconen/menselijke-controle.png)
 
     ---
 
@@ -80,7 +119,11 @@ icon: material/cube
 
     [:octicons-arrow-right-24: Naar menselijke controle](../bouwblokken/menselijke-controle/index.md)
 
--   :material-cog: __Technische robuustheid en veiligheid__ *(nog te doen)*
+-   ### [Technische robuustheid en veiligheid](../bouwblokken/technische-robuustheid-en-veiligheid/index.md)
+    
+    ---
+
+    ![technische-robuustheid-en-veiligheid](../afbeeldingen/iconen/technische-robuustheid-en-veiligheid.png)
 
     ---
 

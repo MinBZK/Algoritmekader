@@ -9,10 +9,15 @@ Maar hoe doe je dat dan? Hier helpt het Algoritmekader je bij: een interactieve 
 
 ### Levenscyclus van een algoritme, vereisten, maatregelen en rollen
 In het Algoritmekader wordt inzichtelijk gemaakt aan welke vereisten overheidsorganisaties moeten voldoen. 
-Daarbij wordt ook aangegeven hoe zij hier op een betekenisvolle wijze invulling aan kunnen geven (maatregelen).
+Daarbij wordt ook aangegeven hoe zij hier op een betekenisvolle wijze invulling aan kunnen geven (maatregelen). 
+
+![levenscyclus](../afbeeldingen/levenscyclus/levenscyclus.jpg "visuele weergave levenscyclus van een algoritme"){align="right"; width="60%"}
+
 Het Algoritmekader is zodanig ingericht dat gebruikers vanuit verschillende invalshoeken informatie kunnen raadplegen die voor hen relevant is. 
 Zo kan vanuit de algoritme levenscyclus worden onderzocht in welke fase aan welke vereisten en maatregelen aandacht moet worden besteed. 
 Het is ook mogelijk om vanuit een specifieke rol, bijvoorbeeld een ethicus of data scientist, te raadplegen bij welke vereisten of maatregelen zij logischerwijs betrokken zijn.  
+
+
 
 ### Type technologie en risicoclassificatie
 Het Algoritmekader geeft gebruikers de mogelijkheid om informatie te 'filteren'. 

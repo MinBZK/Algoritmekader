@@ -4,6 +4,8 @@ summary: Hier staat een korte samenvatting over dit onderwerp
 icon: material/database
 ---
 
+![data](../../afbeeldingen/bouwblokken/data.jpg "visuele weergave data"){align="right"; width="50%"}
+
 Hier komt een beschrijving van dit bouwblok. 
 
 !!! info "Opmerking"

@@ -1,15 +1,22 @@
 ---
+# vul hier een titel in voor deze maatregel
 title: Bewaartermijnen implementeren in de onderliggende systemen
+# geef hier een korte toelichting van deze maatregel
 toelichting: Zorg dat bewaartermijnen zijn geimplementeerd in het onderliggende technische systeem, zodat data en resultaten gedurende de bewaartermijnen bewaard worden. 
+# vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste:
 - archiefwet 
+- bewaartermijn_voor_documentatie
+# vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 
 - archiveren
 - implementatie
+# vul hier de bouwblokken in die horen bij deze maatregel
 bouwblok: 
 - technische-robuustheid-en-veiligheid
 ---
 
+<!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->
 <!-- tags -->
 
 ## Maatregel
@@ -23,12 +30,11 @@ Zorg dat bewaartermijnen zijn geimplementeerd in het onderliggende technische sy
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
-<!-- Dit moet nog geimplementeerd worden -->
 
-<!-- list_vereisten vereiste/technische-robuustheid-en-veiligheid -->
+<!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
+<!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen 
-
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
 | Bron                        |

@@ -76,4 +76,4 @@ In afwachting van het standaardisatieproces.
 
 ## Maatregelen 
 
-Hier komt een lijst met relevante maatregelen om te voldoen aan dit vereiste. 
+<!-- list_maatregelen vereiste/archiefwet -->

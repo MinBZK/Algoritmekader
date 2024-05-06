@@ -2,7 +2,7 @@
 title: Dataverkenning en datapreparatie
 ---
 
-In deze fase worden relevante datasets geidentificeerd en genaliseerd om inziichten te krijgen. Daarna worden de gegevens verzameld, gereinigd en voorbereid voor gebruik.
+In deze fase worden relevante datasets geïdentificeerd en geanalyseerd om inzicht te krijgen. Daarna worden de gegevens verzameld, gereinigd en voorbereid voor gebruik.
 
 ## Vereisten
 

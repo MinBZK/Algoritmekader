@@ -57,7 +57,7 @@ Het interactief kunnen doorzoeken van de informatie is daar een voorbeeld van.
 
 Eind 2024 zal de tweede versie van het Algoritmekader worden opgeleverd. 
 Dan moeten de vereisten en de maatregelen zijn uitgewerkt voor zover dan bekend. 
-Hierna zal het Algoritmekader in 'beheer' worden genomen. Dat betekent dat doorlopend de laatste ontwikkelingen, gin afstemming met de omgeving, worden toegevoegd zodat het Algoritmekader actueel en betrouwbaar blijft.  
+Hierna zal het Algoritmekader in 'beheer' worden genomen. Dat betekent dat doorlopend de laatste ontwikkelingen, in afstemming met de omgeving, worden toegevoegd zodat het Algoritmekader actueel en betrouwbaar blijft.  
 
 ## Samenwerking met de omgeving
 Een belangrijk uitgangspunt van het Algoritmekader is dat het kader op een open en transparante manier wordt ontwikkeld. 

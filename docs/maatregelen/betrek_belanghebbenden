@@ -53,6 +53,8 @@ In de fase van monitoren is het van belang belanghebbenden te betrekken bij de e
 Dit kan bijvoorbeeld in de vorm van een survey of focusgroep.
 Zij kunnen problemen in de praktijk naar voren brengen, die niet altijd terug te vinden is in de data.
 
+Terugkoppelen aan buitenwereld.
+
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 
@@ -64,9 +66,9 @@ Zij kunnen problemen in de praktijk naar voren brengen, die niet altijd terug te
 
 | Bron                        |
 |-----------------------------|
-| [Toetsingskader Algemene Rekenkamer 2.09](https://www.rekenkamer.nl/onderwerpen/algoritmes-digitaal-toetsingskader)      |        
-| [The Fairness Handbook](https://openresearch.amsterdam/nl/media/inline/2022/7/14/fairness_handbook.pdf)      |        
-| [Handreiking non-discriminatie by design](https://open.overheid.nl/repository/ronl-3f9fa69c-acf4-444d-96e1-5c48df00eb3c/1/pdf/bijlage-1-handreiking-non-discriminatie-by-design.pdf)      |     
+| [Toetsingskader Algemene Rekenkamer 2.09](https://www.rekenkamer.nl/onderwerpen/algoritmes-digitaal-toetsingskader) |        
+| [The Fairness Handbook](https://openresearch.amsterdam/nl/media/inline/2022/7/14/fairness_handbook.pdf) |        
+| [Handreiking non-discriminatie by design](https://open.overheid.nl/repository/ronl-3f9fa69c-acf4-444d-96e1-5c48df00eb3c/1/pdf/bijlage-1-handreiking-non-discriminatie-by-design.pdf) |     
 | Ethics Guidelines for Trustworthy AI |
 
 
@@ -81,5 +83,7 @@ Ontwikkelaars kunnen bijvoorbeeld missen dat in de context van het algoritme een
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
 Richt een burgerpanel in.
 
+Methodologie van Waag, Civic AI lab, Stakeholder escalation ladder.
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
+
 

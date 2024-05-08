@@ -1,9 +1,8 @@
 ---
-title: Impactvolle algoritmes en ai worden gepubliceerd in het algoritmeregister
+title: Impactvolle algoritmes en AI-systemen worden gepubliceerd in het algoritmeregister
 toelichting: Het publiceren van impactvolle algoritmes en AI draagt bij aan transparantie voor belanghebbenden en derden over welke algoritmes en AI worden gebruikt door de overheid. Het is vastgesteld beleid dat overheidsinstellingen, tenzij er uitsluitingsgronden zijn, de door hen gebruikte impactvolle algoritmes en hoogrisico AI-systemen publiceren in het algoritmeregister. Er wordt gewerkt aan wetgeving om het bij wet verplicht te stellen. 
 status_vereiste: 
- - Geldend
- - 
+ - geldend
 levenscyclus: 
 - ontwikkelen
 - validatie
@@ -31,7 +30,7 @@ Bestuursorganen publiceren algoritmes met impact en hoog-risico AI-systemen in h
 
 ## Toelichting 
 
-Het publiceren van impactvolle algoritmes en AI draagt bij aan transparantie voor belanghebbenden en derden over welke algoritmes en AI worden gebruikt door de overheid.
+Het publiceren van impactvolle algoritmes en AI-systemen draagt bij aan transparantie voor belanghebbenden en derden over welke algoritmes en AI worden gebruikt door de overheid.
 Het is vastgesteld beleid dat overheidsinstellingen, tenzij er uitsluitingsgronden zijn, de door hen gebruikte impactvolle algoritmes en hoogrisico AI-systemen publiceren in het algoritmeregister.
 Er wordt gewerkt aan wetgeving om het bij wet verplicht te stellen.
 
@@ -40,8 +39,8 @@ Er wordt gewerkt aan wetgeving om het bij wet verplicht te stellen.
 
 | Bron                        |
 |-----------------------------|
-|Handreiking Algoritmeregister|
-|Werkagenda|
+|[Handreiking Algoritmeregister](https://www.digitaleoverheid.nl/wp-content/uploads/sites/8/2023/12/Handreiking-Algoritmeregister-versie-1.0.pdf)|
+|Geactualiseerde Werkagenda Waardengedreven Digitaliseren 2024](https://open.overheid.nl/documenten/8fb16ed3-0946-49d5-bf1a-96724f1762d6/file)|
 |Kamerbrieven|
 
 ## Wanneer van toepassing? 
@@ -68,11 +67,6 @@ Er wordt gewerkt aan wetgeving om het bij wet verplicht te stellen.
 
 Door het niet publiceren van impactvolle of hoog risico AI -systemen in het Algoritmeregister, is het voor betrokkenen of belanghebbenden niet mogelijk om de overheid kritisch te volgen, te bevragen en te controleren op de inzet van deze technologiën die hen kunnen raken.
 
-
-## Normen 
-
-In afwachting van het standaardisatieproces. 
-
 ## Maatregelen 
 
-Hier komt een lijst met relevante maatregelen om te voldoen aan dit vereiste. 
+<!-- list_maatregelen vereiste/algoritmeregister -->

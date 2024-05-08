@@ -1,5 +1,5 @@
 ---
-title: Impactvolle algoritmes en AI-systemen worden gepubliceerd in het algoritmeregister
+title: Impactvolle algoritmes en AI-systemen worden gepubliceerd in het Nederlandse algoritmeregister
 toelichting: Het publiceren van impactvolle algoritmes en AI draagt bij aan transparantie voor belanghebbenden en derden over welke algoritmes en AI worden gebruikt door de overheid. Het is vastgesteld beleid dat overheidsinstellingen, tenzij er uitsluitingsgronden zijn, de door hen gebruikte impactvolle algoritmes en hoogrisico AI-systemen publiceren in het algoritmeregister. Er wordt gewerkt aan wetgeving om het bij wet verplicht te stellen. 
 status_vereiste: 
  - geldend
@@ -26,7 +26,7 @@ generatieve-ai:
 <!-- tags -->
 ## Vereiste
 
-Bestuursorganen publiceren algoritmes met impact en hoog-risico AI-systemen in het Algoritmeregister.
+Bestuursorganen publiceren algoritmes met impact en hoog-risico AI-systemen in het Nederlandse Algoritmeregister.
 
 ## Toelichting 
 
@@ -65,7 +65,7 @@ Er wordt gewerkt aan wetgeving om het bij wet verplicht te stellen.
 
 ## Risico 
 
-Door het niet publiceren van impactvolle of hoog risico AI -systemen in het Algoritmeregister, is het voor betrokkenen of belanghebbenden niet mogelijk om de overheid kritisch te volgen, te bevragen en te controleren op de inzet van deze technologiën die hen kunnen raken.
+Door het niet publiceren van impactvolle of hoog risico AI -systemen in het Algoritmeregister, is het voor betrokkenen of belanghebbenden minder goed mogelijk om de overheid kritisch te volgen, te bevragen en te controleren op de inzet van deze technologiën die hen kunnen raken. Bij het onjuist of onvolledig publiceren in het Algortimeregister ontstaat er een risico dat betrokkenen en belanghebbenden onjuiste inschattingen maken van de risico of relevante risico's over het hoofd zien en daardoor in hun rechten worden beperkt.
 
 ## Maatregelen 
 

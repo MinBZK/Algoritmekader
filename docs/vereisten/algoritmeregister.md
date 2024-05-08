@@ -26,7 +26,7 @@ generatieve-ai:
 <!-- tags -->
 ## Vereiste
 
-Bestuursorganen publiceren algoritmes met impact en hoog-risico AI-systemen in het Nederlandse Algoritmeregister.
+Bestuursorganen publiceren algoritmes met impact en hoog-risico AI-systemen in het [Nederlandse Algoritmeregister](https://algoritmes.overheid.nl/nl).
 
 ## Toelichting 
 

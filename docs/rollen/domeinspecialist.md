@@ -1,14 +1,14 @@
 ---
-title: Data scientist
+title: Domeinspecialist
 ---
 
 ## Vereisten
 
-<!-- list_vereisten rollen/data-scientist -->
+<!-- list_vereisten rollen/domeinspecialist -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/data-scientist -->
+<!-- list_maatregelen rollen/domeinspecialist -->
 
 !!! info "Disclaimer"
 

@@ -1,14 +1,14 @@
 ---
-title: Data scientist
+title: Privacy-officer
 ---
 
 ## Vereisten
 
-<!-- list_vereisten rollen/data-scientist -->
+<!-- list_vereisten rollen/privacy-officer -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/data-scientist -->
+<!-- list_maatregelen rollen/privacy-officer -->
 
 !!! info "Disclaimer"
 

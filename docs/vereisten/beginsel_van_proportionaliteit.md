@@ -1,6 +1,6 @@
 ---
-title: Proportionaliteit en subsidiariteit
-toelichting: Proportionaliteit vereist dat de omvang van gegevensverwerking voor de ontwikkeling van een algoritmes of AI en voor het genereren van de benodigde output in balans is met het beoogde doel. Subsidiariteit benadrukt dat persoonsgegevens alleen moeten worden verwerkt als dit de enige geschikte manier is om het doel te bereiken. Deze principes waarborgen dat de privacy van individuen wordt gerespecteerd en dat gegevensverwerking niet verder gaat dan noodzakelijk is voor legitieme doeleinden. Het is van belang om deze principes te hanteren om te bepalen of en in welke vorm een algoritmes en AI moet toegepast en om tot een passende mate van gegevensverwerking te komen om het doel te bereiken. 
+title: Proportionaliteit
+toelichting: Proportionaliteit vereist dat de omvang van gegevensverwerking voor de ontwikkeling van een algoritmes of AI en voor het genereren van de benodigde output in balans is met het beoogde doel. Dit principe waarborgt dat de privacy van individuen wordt gerespecteerd en dat gegevensverwerking niet verder gaat dan redelijk is voor legitieme doeleinden. Het is van belang om dit principe te hanteren om te bepalen of en in welke vorm een algoritmes en AI moet toegepast en om tot een passende mate van gegevensverwerking te komen om het doel te bereiken. 
 
 
 
@@ -39,7 +39,7 @@ generatieve-ai:
 <!-- tags -->
 ## Vereiste
 
-Gegevensverwerking moet in verhouding staan tot het beoogde doel en persoonsgegevens mogen alleen verwerkt worden als er geen minder ingrijpende manier is om het doel te bereiken.
+Gegevensverwerking of het algoritme moet in verhouding staan tot het beoogde doel.
 
 
 
@@ -51,9 +51,6 @@ Gegevensverwerking moet in verhouding staan tot het beoogde doel en persoonsgege
 ## Toelichting 
 
 Proportionaliteit vereist dat de impact van gegevensverwerking op de persoonlijke levenssfeer voor de toepassing van een algoritme of AI en voor het genereren van de benodigde output in balans is met het beoogde doel.
-Subsidiariteit benadrukt dat het doel op de minst vergaande manier moet worden bereikt. Dat betekent soms dat een verwerking helemaal niet hoeft plaats te vinden omdat het doel op een andere manier bereikt kan worden of soms dat er privacy by design maatregelen kunnen worden toegepast om de verwerking zelf te minimaliseren. 
-Het is van belang om deze principes te hanteren om te bepalen of en in welke vorm een algoritmes en AI moet toegepast en om tot een passende mate van gegevensverwerking te komen om het doel te bereiken.
-
 
 
 
@@ -96,7 +93,7 @@ Het is van belang om deze principes te hanteren om te bepalen of en in welke vor
 
 ## Risico 
 
-Zonder toetsing aan het proportinaliteits- en subsidiariteitsbeginsel ontstaat het risico dat er een onnodig zware en daardoor onrechtmatige inbreuk wordt gemaakt op de privacyrechten van betrokkenen.
+Zonder toetsing aan het proportinaliteitsbeginsel ontstaat het risico dat er een onnodig zware en daardoor onrechtmatige inbreuk wordt gemaakt op de privacyrechten van betrokkenen.
 
 
 ## Normen 

@@ -12,7 +12,7 @@ levenscyclus:
 - ontwikkelen
 # vul hier de bouwblokken in die horen bij deze maatregel
 bouwblok: 
-- publieke-Inkoop
+- publieke-inkoop
 ---
 
 <!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->

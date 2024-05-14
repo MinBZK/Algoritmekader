@@ -6,14 +6,11 @@ toelichting: Neem in de conceptovereenkomst op dat de leverancier garandeert dat
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste:
 - auteursrechten 
-  
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
-levenscyclus: 
-- 
-- 
+# levenscyclus:
 # vul hier de bouwblokken in die horen bij deze maatregel
 bouwblok: 
-- Publieke Inkoop
+- publieke-inkoop
 ---
 
 <!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->

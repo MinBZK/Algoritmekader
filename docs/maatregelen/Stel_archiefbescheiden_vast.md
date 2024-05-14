@@ -9,15 +9,14 @@ vereiste: Archiefwet
 levenscyclus: 
 - ontwerp
 - ontwikkelen
-
 # vul hier de rollen in die betrokken kunnen zijn bij het realiseren van deze maatregel
 Rollen:
 - Informatiebeheerder
 - Archief deskundige
+- Jurist
 - Data scientist
 - Inkoop adviseur
 - Proceseigenaar
-
 # vul hier de bouwblokken in die horen bij deze maatregel
 bouwblok: 
 - Publieke-Inkoop

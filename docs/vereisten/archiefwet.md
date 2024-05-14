@@ -69,11 +69,6 @@ Informatie over en van algoritmes en AI moet daarom ook bewaard en vernietigd wo
 Zonder goede toepassing van de Archiefwet is het voor betrokkene(n) of derden niet mogelijk om achteraf te reconstrueren en te controleren hoe besluiten, waar algoritmes en AI aan hebben bijgedragen, tot stand zijn gekomen.
 Het nalaten om archiefbescheiden na verloop van tijd te verwijderen brengt risico's met zich mee op het gebied van privacy en informatiebeveiliging 
  
-
-## Normen 
-
-In afwachting van het standaardisatieproces. 
-
 ## Maatregelen 
 
 <!-- list_maatregelen vereiste/archiefwet -->

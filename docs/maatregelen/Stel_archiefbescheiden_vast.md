@@ -34,9 +34,6 @@ Stel vast welke documenten, data of informatie van het algoritme of het AI-syste
 <!-- Geef hier een toelichting van deze maatregel -->
 Hierbij kan worden gedacht aan de broncode, trainings- en testdata, (technische) documentatie en de output. Overleg hierover met de verantwoordelijke binnen de organisatie voor het toepassen van de Archiefwet. 
 
-## Rollen 
-<!-- Vul hier in welke rollen kunnen bijdragen aan het realiseren van deze maatregel-->
-
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 

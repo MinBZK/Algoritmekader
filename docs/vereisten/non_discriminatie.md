@@ -2,7 +2,7 @@
 title: AI-systemen en algoritmes mogen niet discrimineren
 toelichting: Overheidsinstanties moeten zich bij het uitvoeren van hun taken onthouden van discriminatie, ook wanneer er gebruik wordt gemaakt van algoritmes of AI. Wanneer er algoritmes worden gebruikt om selecties te maken van burgers, dienen we te streven naar een gelijke behandeling van personen of groepen ten opzichte van andere personen in een vergelijkbare situatie. Hierbij is het belangrijk te beseffen dat discriminatie ook op indirecte wijze kan ontstaan. Hiervan is sprake wanneer een ogenschijnlijk neutrale bepaling, maatstaf of handelwijze personen met een beschermd persoonskenmerk in vergelijking met andere personen in het bijzonder benadeelt, tenzij hiervoor een objectieve rechtvaardiging bestaat. 
 status_vereiste: 
- - Geldend
+ - geldend
 levenscyclus: 
 - probleemanalyse
 -  dataverkenning-en-datapreparatie

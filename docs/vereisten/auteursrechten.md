@@ -43,7 +43,7 @@ Ook de gegenereerde output van algoritmes en AI mag geen inbreuk maken op deze r
 |[Artikel 4-9 Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=2&z=2022-10-01&g=2022-10-01) |
 |[Artikel 10 Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2022-10-01&g=2022-10-01) |
 |[Artikel 13 Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=5&artikel=13&z=2022-10-01&g=2022-10-01) |
-|[Artikel 15n jo. 15o Auteurswet])https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15n&z=2022-10-01&g=2022-10-01)|
+|[Artikel 15n jo. 15o Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15n&z=2022-10-01&g=2022-10-01)|
 |[Artikel 3 en 4 van de DSM-richtlijn (EU 2019/790)](https://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=CELEX:32019L0790&from=PL)|
 
 ## Wanneer van toepassing? 

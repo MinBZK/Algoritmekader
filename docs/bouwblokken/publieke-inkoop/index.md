@@ -50,8 +50,6 @@ Zie hieronder bij bruikbare informatie en bronnen in het bijzonder de Europese m
 
 ## Bruikbare informatie en bronnen
 
-Hier volgt een overzicht van bruikbare informatie of bronnen die kunnen worden geraadpleegd bij het publiek inkopen van softwaren met algoritmen en AI. 
-
 [Europese modelcontractbepalingen AI-systemen (hoog risico)](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_template_High_Risk%20NL.pdf)
 
 [Europese modelcontractbepalingen AI-systemen (niet hoog risico)](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_Template_NON_HIGH_RISK_NL.pdf)

@@ -46,15 +46,19 @@ In de laag van 'maatregelen' wordt ook uitgewerkt wat vanuit publieke inkoop kan
 <!-- list_maatregelen bouwblok/publieke-inkoop -->
 
 
-## Nuttige informatie
+## Bruikbare informatie of bronnen
+
+Hier volgt een overzicht van bruikbare informatie of bronnen die kunnen worden geraadpleegd bij het publiek inkopen van softwaren met algoritmen en AI. 
+
 [Europese modelcontractbepalingen AI-systemen (hoog risico)](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_template_High_Risk%20NL.pdf)
 
 [Europese modelcontractbepalingen AI-systemen (niet hoog risico)](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_Template_NON_HIGH_RISK_NL.pdf)
 
 [Contractvoorwaarden voor algoritmen gemeente Amsterdam](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/contractvoorwaarden-algoritmen/)
 
+[Inkoopproces](https://www.pianoo.nl/nl/inkoopproces)
 
-
+[Community of Practis Digitale Innovatie] (https://www.pianoo.nl/nl/themas/innovatie/netwerken/community-practice-digitale-innovaties)
 
 
 

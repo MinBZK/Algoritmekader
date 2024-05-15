@@ -2,7 +2,7 @@
 title: Een DPIA is verplicht bij hoog risico
 toelichting: Een Data Protection Impact Assessment (DPIA) is verplicht, indien een verwerking van persoonsgegevens waarschijnlijk een hoog risico inhoudt voor de rechten en vrijheden van natuurlijke personen. Deze beoordeling identificeert en beperkt potentiële risico's en zorgt ervoor dat passende maatregelen worden genomen om de privacy van individuen te beschermen. Deze verplichting draagt bij aan een zorgvuldige en verantwoorde omgang met persoonsgegevens in AI-systemen en algoritmes, waardoor de privacy van individuen wordt gewaarborgd.
 status_vereiste: 
- - Geldend
+ - geldend
 levenscyclus: 
 - ontwerp
 - dataverkenning-en-datapreparatie

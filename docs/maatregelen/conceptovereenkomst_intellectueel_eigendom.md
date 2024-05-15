@@ -1,6 +1,6 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Niet schenden auteursrechten opnemen in conceptovereenkomst
+title: Conceptovereenkomst intellectueel eigendom
 # geef hier een korte toelichting van deze maatregel
 toelichting: Niet schenden auteursrechten opnemen in conceptovereenkomst
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel

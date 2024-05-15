@@ -1,6 +1,6 @@
 ---
 title: Proportionaliteit en subsidiariteit
-toelichting: Proportionaliteit vereist dat de omvang van gegevensverwerking voor de ontwikkeling van een algoritmes of AI en voor het genereren van de benodigde output in balans is met het beoogde doel. Dit principe waarborgt dat de privacy van individuen wordt gerespecteerd en dat gegevensverwerking niet verder gaat dan redelijk is voor legitieme doeleinden. Het is van belang om dit principe te hanteren om te bepalen of en in welke vorm een algoritmes en AI moet toegepast en om tot een passende mate van gegevensverwerking te komen om het doel te bereiken. 
+toelichting: Proportionaliteit vereist dat de impact van gegevensverwerking op de persoonlijke levenssfeer voor de toepassing van een algoritme of AI-systeem en voor het genereren van de benodigde output in balans is met het beoogde doel. Subsidiariteit benadrukt dat persoonsgegevens alleen moeten worden verwerkt als dit de enige geschikte manier is om het doel te bereiken. Deze principes waarborgen dat de privacy van individuen wordt gerespecteerd en dat gegevensverwerking niet verder gaat dan redelijk is voor legitieme doeleinden. Het is van belang om deze principes te hanteren om te bepalen of en in welke vorm een algoritme of AI-systeem moet toegepast en om tot een passende mate van gegevensverwerking te komen om het doel te bereiken. 
 
 
 

@@ -39,7 +39,7 @@ generatieve-ai:
 <!-- tags -->
 ## Vereiste
 
-Gegevensverwerking of het algoritme moet in verhouding staan tot het beoogde doel.
+Gegevensverwerking moet in verhouding staan tot het beoogde doel en persoonsgegevens mogen alleen verwerkt worden als er geen minder ingrijpende manier is om het doel te bereiken.
 
 
 

@@ -58,7 +58,7 @@ Hier volgt een overzicht van bruikbare informatie of bronnen die kunnen worden g
 
 [Inkoopproces](https://www.pianoo.nl/nl/inkoopproces)
 
-[Community of Practis Digitale Innovatie] (https://www.pianoo.nl/nl/themas/innovatie/netwerken/community-practice-digitale-innovaties)
+[Community of Practis Digitale Innovatie](https://www.pianoo.nl/nl/themas/innovatie/netwerken/community-practice-digitale-innovaties)
 
 
 

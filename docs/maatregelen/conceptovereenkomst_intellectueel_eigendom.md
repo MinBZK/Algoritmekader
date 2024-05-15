@@ -1,8 +1,8 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Niet schenden intellectueel eigendom in conceptovereenkomst
+title: Niet schenden intellectueel eigendom opnemen in conceptovereenkomst
 # geef hier een korte toelichting van deze maatregel
-toelichting: Neem in de conceptovereenkomst op dat de aanbieder garandeert dat geen intellectueel eigendom zal worden geschonden
+toelichting: Niet schenden intellectueel eigendom opnemen in conceptovereenkomst
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
 - Auteursrechten

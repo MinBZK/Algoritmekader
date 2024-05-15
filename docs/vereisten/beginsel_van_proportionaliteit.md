@@ -51,7 +51,9 @@ Gegevensverwerking moet in verhouding staan tot het beoogde doel en persoonsgege
 ## Toelichting 
 
 Proportionaliteit vereist dat de impact van gegevensverwerking op de persoonlijke levenssfeer voor de toepassing van een algoritme of AI en voor het genereren van de benodigde output in balans is met het beoogde doel.
-
+- Subsidiariteit benadrukt dat persoonsgegevens alleen moeten worden verwerkt als dit de enige geschikte manier is om het doel te bereiken. 
+Deze principes waarborgen dat de privacy van individuen wordt gerespecteerd en dat gegevensverwerking niet verder gaat dan noodzakelijk is voor legitieme doeleinden.
+Het is van belang om deze principes te hanteren om te bepalen of en in welke vorm een algoritmes en AI moet toegepast en om tot een passende mate van gegevensverwerking te komen om het doel te bereiken.
 
 
 
@@ -93,7 +95,7 @@ Proportionaliteit vereist dat de impact van gegevensverwerking op de persoonlijk
 
 ## Risico 
 
-Zonder toetsing aan het proportinaliteitsbeginsel ontstaat het risico dat er een onnodig zware en daardoor onrechtmatige inbreuk wordt gemaakt op de privacyrechten van betrokkenen.
+Zonder toetsing aan het proportinaliteits- en subsidiariteitsbeginsel ontstaat het risico dat er een onnodig zware en daardoor onrechtmatige inbreuk wordt gemaakt op de privacyrechten van betrokkenen.
 
 
 ## Normen 

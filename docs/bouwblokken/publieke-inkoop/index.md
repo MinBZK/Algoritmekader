@@ -41,7 +41,7 @@ Nagenoeg alle vereisten die gelden voor algoritmen en AI kunnen een plek krijgen
 
 In de laag van 'maatregelen' wordt ook uitgewerkt wat vanuit publieke inkoop kan worden gedaan om op een betekenisvolle wijze invulling aan te geven aan de betreffende vereiste. Daarvoor kan ook op het tabblad 'publieke inkoop' worden geklikt om deze maatregelen te filteren.
 
-Zie hieronder bij bruikbare informatie en bronnen in het bijzonder de Europese modelcontractbepaling voor hoog risico en niet hoog risico systemen. Dit geeft een beeld hoe de vereisten onderdeel kunnen worden gemaakt van modelcontractbepalingen.  
+Zie hieronder bij bruikbare informatie en bronnen in het bijzonder de Europese modelcontractbepaling voor (niet) hoog risico AI-systemen en contractvoorwaarden voor algoritmen. Dit geeft een beeld hoe de vereisten onderdeel kunnen worden gemaakt van contractvoorwaarden.   
 
 ## Maatregelen
 

@@ -9,10 +9,10 @@ levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
 - ontwikkelen
-- validatie
+- verificatie-en-validatie
 - implementatie
-- monitoren
-- archiveren
+- monitoring-en-beheer
+- uitfaseren
 bouwblok: 
 - governance
 rekenregels: 

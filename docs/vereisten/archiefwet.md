@@ -4,8 +4,9 @@ toelichting: Volgens de Archiefwet moeten overheden informatie bewaren. Op basis
 status_vereiste: 
  - Geldend
 levenscyclus: 
-- archiveren
+- uitfaseren
 - implementatie
+- monitoring-en-beheer
 bouwblok: 
 - technische-robuustheid-en-veiligheid
 - governance

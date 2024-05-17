@@ -1,14 +1,14 @@
 ---
-title: Data scientist
+title: Inkoopadviseur
 ---
 
 ## Vereisten
 
-<!-- list_vereisten rollen/data-scientist -->
+<!-- list_vereisten rollen/inkoopadviseur -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/data-scientist -->
+<!-- list_maatregelen rollen/inkoopadviseur -->
 
 !!! info "Disclaimer"
 

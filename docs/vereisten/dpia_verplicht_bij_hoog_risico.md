@@ -10,6 +10,8 @@ levenscyclus:
 - validatie
 bouwblok: 
 - privacy-en-gegevensbescherming
+rollen:
+- privacy-officer
 rekenregels: 
 - niet-impactvol: Nee
 - impactvol: Ja

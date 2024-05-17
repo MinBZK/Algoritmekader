@@ -37,25 +37,28 @@ De inzichten uit de algoritme levenscyclus kunnen ondersteunen bij bijvoorbeeld 
 
 ## Vereisten
 
-<!-- list_vereisten bouwblok/publieke-inkoop -->
+Nagenoeg alle vereisten die gelden voor algoritmen en AI kunnen een plek krijgen in het publiek inkoopproces. Daarom is ervoor gekozen om hier niet een opsomming te geven van al deze vereisten, maar verwijzen we naar het onderdeel 'vereisten' (https://minbzk.github.io/Algoritmekader/vereisten/) in het Algoritmekader.
+
+In de laag van 'maatregelen' wordt ook uitgewerkt wat vanuit publieke inkoop kan worden gedaan om op een betekenisvolle wijze invulling aan te geven aan de betreffende vereiste. Daarvoor kan ook op het tabblad 'publieke inkoop' worden geklikt om deze maatregelen te filteren.
+
+Zie hieronder bij bruikbare informatie en bronnen in het bijzonder de Europese modelcontractbepaling voor (niet) hoog risico AI-systemen en contractvoorwaarden voor algoritmen. Dit geeft een beeld hoe de vereisten onderdeel kunnen worden gemaakt van contractvoorwaarden.   
 
 ## Maatregelen
 
 <!-- list_maatregelen bouwblok/publieke-inkoop -->
 
-| **Vereisten**                                                                      | **Uitleg**                                                                                                                                                                                                                                                                                                                                                        | **verplicht voor hoog-risico AI systemen (AI Act)** |    **verplicht voor impactvolle algoritmes**    | **verplicht voor niet-impactvolle algoritmes**  |
-|------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
-| [Archiveren](../../vereisten/archiefwet.md )                            | De grondslag van de Archiefwet is dat, als de overheid de informatie bewaart die voortkomt uit de verschillende werkprocessen, aan de hand van deze informatie de werkprocessen kunnen worden gereconstrueerd en kan worden nagegaan hoe besluiten tot stand zijn gekomen. De oordeelsvorming over hoe zaken zijn verlopen kan dan worden overgelaten aan anderen |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
-| [Non-discriminatie](../../vereisten/non_discriminatie.md) | Verbod op ongelijke behandeling in gelijke omstandigheden. Discriminatie wegens godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht of op welke grond dan ook, is niet toegestaan.                                                                                                                                                                                                                                                                                                                                                       |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
-| [Verbod schenden Auteursrechten](../../vereisten/auteursrechten.md)                            | Bepaalde vormen van algoritmen en AI worden ontwikkeld op basis van grote hoeveelheden data. Deze data wordt gebruikt voor het trainingen en testen van algoritmen en AI. Deze data mag geen inbreuk maken op Auteursrechten. Ook de gegenereerde output van algoritmen en AI mag geen inbreuk maken op deze rechten.  |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
 
-## Nuttige informatie
+## Bruikbare informatie en bronnen
+
 [Europese modelcontractbepalingen AI-systemen (hoog risico)](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_template_High_Risk%20NL.pdf)
 
 [Europese modelcontractbepalingen AI-systemen (niet hoog risico)](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_Template_NON_HIGH_RISK_NL.pdf)
 
 [Contractvoorwaarden voor algoritmen gemeente Amsterdam](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/contractvoorwaarden-algoritmen/)
 
+[Inkoopproces](https://www.pianoo.nl/nl/inkoopproces)
+
+[Community of Practis Digitale Innovatie](https://www.pianoo.nl/nl/themas/innovatie/netwerken/community-practice-digitale-innovaties)
 
 
 

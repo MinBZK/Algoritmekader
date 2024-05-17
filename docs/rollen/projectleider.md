@@ -1,14 +1,14 @@
 ---
-title: Data scientist
+title: Projectleider
 ---
 
 ## Vereisten
 
-<!-- list_vereisten rollen/data-scientist -->
+<!-- list_vereisten rollen/projectleider -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/data-scientist -->
+<!-- list_maatregelen rollen/projectleider -->
 
 !!! info "Disclaimer"
 

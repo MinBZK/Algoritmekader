@@ -4,6 +4,8 @@ summary: Hier staat een korte samenvatting over dit onderwerp
 icon: material/leaf
 ---
 
+![duurzaamheid](../../afbeeldingen/bouwblokken/duurzaamheid.jpg "visuele weergave duurzaamheid"){align="right"; width="50%"}
+
 Onze impact op natuur en milieu is groot. 
 Er zijn grote doelen gesteld om duurzamer te gaan leven en werken. Binnen alle overheidsorganisaties, op allerlei verschillende gebieden, wordt gekeken hoe er duurzamer te werk kan worden gegaan, dus ook bij ICT-voorzieningen. 
 

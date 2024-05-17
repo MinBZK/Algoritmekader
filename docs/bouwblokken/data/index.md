@@ -4,6 +4,8 @@ summary: Hier staat een korte samenvatting over dit onderwerp
 icon: material/database
 ---
 
+![data](../../afbeeldingen/bouwblokken/data.jpg "visuele weergave data"){align="right"; width="50%"}
+
 Het ontwikkelen en gebruiken van algoritmes en AI-systemen kan niet gepaard gaan zonder het verwerken van data. 
 In het geval van AI wordt data gebruikt om het algoritme te trainen, te valideren en te testen. 
 Wanneer beslissingen worden genomen op basis van de output van een algoritme of AI-systeem, dan wordt deze beslissing ook genomen op basis van de onderliggende data. 

@@ -57,5 +57,5 @@ Zie hieronder bij bruikbare informatie en bronnen in het bijzonder de Europese m
 [Contractvoorwaarden voor algoritmen gemeente Amsterdam](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/contractvoorwaarden-algoritmen/)
 
 [Inkoopproces](https://www.pianoo.nl/nl/inkoopproces)
-
+ 
 [Community of Practis Digitale Innovatie](https://www.pianoo.nl/nl/themas/innovatie/netwerken/community-practice-digitale-innovaties)

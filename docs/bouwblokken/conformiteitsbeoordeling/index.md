@@ -4,6 +4,8 @@ summary: Hier staat een korte samenvatting over dit onderwerp
 icon: material/check-circle
 ---
 
+![conformiteitsbeoordeling](../../afbeeldingen/bouwblokken/conformiteitsbeoordeling.jpg "visuele weergave conformiteitsbeoordeling"){align="right"; width="50%"}
+
 Hier komt een beschrijving van dit bouwblok.
 
 !!! info "Opmerking"

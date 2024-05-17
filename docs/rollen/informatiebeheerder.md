@@ -1,14 +1,14 @@
 ---
-title: Data scientist
+title: Informatiebeheerder
 ---
 
 ## Vereisten
 
-<!-- list_vereisten rollen/data-scientist -->
+<!-- list_vereisten rollen/informatiebeheerder -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/data-scientist -->
+<!-- list_maatregelen rollen/informatiebeheerder -->
 
 !!! info "Disclaimer"
 

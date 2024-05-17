@@ -49,7 +49,7 @@ nav:
         - bouwblokken/index.md
         - ... | bouwblokken/*/*.md
     - Rollen:
-        - rollen/index.md
+        - ... | rollen/*.md
     - Vereisten:
         - ... | vereisten/*.md
     - Maatregelen:

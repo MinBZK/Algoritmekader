@@ -4,6 +4,8 @@ summary: Hier staat een korte samenvatting over dit onderwerp
 icon: material/scale-balance
 ---
 
+![fundamentele-rechten](../../afbeeldingen/bouwblokken/fundamentele-rechten.jpg "visuele weergave fundamentele rechten"){align="right"; width="50%"}
+
 Hier komt een beschrijving van dit bouwblok.
 
 !!! info "Opmerking"

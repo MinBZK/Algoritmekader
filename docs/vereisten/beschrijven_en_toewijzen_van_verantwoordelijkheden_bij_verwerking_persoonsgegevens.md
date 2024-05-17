@@ -7,8 +7,8 @@ levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
 - ontwikkelen
-- monitoren
-- archiveren
+- monitoring-en-beheer
+- uitfaseren
 bouwblok: 
 - governance
 - privacy-en-gegevensbescherming

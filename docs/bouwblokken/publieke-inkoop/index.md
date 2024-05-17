@@ -37,7 +37,7 @@ De inzichten uit de algoritme levenscyclus kunnen ondersteunen bij bijvoorbeeld 
 
 ## Vereisten
 
-Nagenoeg alle vereisten die gelden voor algoritmen en AI kunnen een plek krijgen in het publiek inkoopproces. Daarom is ervoor gekozen om hier niet een opsomming te geven van al deze vereisten, maar wordt verwezen we naar het gedeelte  ['vereisten'](https://minbzk.github.io/Algoritmekader/vereisten/) in het Algoritmekader.
+Nagenoeg alle vereisten die gelden voor algoritmen en AI kunnen een plek krijgen in het publiek inkoopproces. Daarom is ervoor gekozen om hier niet een opsomming te geven van al deze vereisten, maar wordt verwezen we naar het gedeelte  ['Vereisten'](https://minbzk.github.io/Algoritmekader/vereisten/) in het Algoritmekader.
 
 In de laag van 'maatregelen' bij de vereisten voor algoritmes en AI-systemen, wordt uitgewerkt wat vanuit publieke inkoop kan worden gedaan om op een betekenisvolle manier invulling te geven aan deze vereisten. Daarvoor kan ook op het tabblad 'publieke inkoop' worden geklikt om deze maatregelen te filteren. 
 

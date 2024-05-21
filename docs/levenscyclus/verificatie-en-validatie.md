@@ -1,24 +1,24 @@
---- 
+---
 title: Verificatie en validatie
 ---
 
-Bij de verificatie en validatie van het algoritme of AI-systeem dient bepaald te worden of het algoritme of AI-systeem gebouwd is volgens de (technische) specificaties en voldoet aan de beoogde doelstellingen. 
-Hiervoor moeten technische, maar ook organisatorische maatregelen worden getroffen.  
+Bij de verificatie en validatie van het algoritme of AI-systeem dient bepaald te worden of het algoritme of AI-systeem gebouwd is volgens de (technische) specificaties en voldoet aan de beoogde doelstellingen.
+Hiervoor moeten technische, maar ook organisatorische maatregelen worden getroffen.
 
-Bij verificatie kan worden gedacht aan het (laten) controleren of het algoritme of AI-systeem voldoet aan de (technische) specificaties, bijvoorbeeld door een interne of externe audit of in de toekomst een conformiteitsbeoordeling voor hoog risico AI-systemen. 
-Hiermee kan (onafhankelijk) worden vastgesteld of het systeem voldoet aan de vereisten die organisaties daaraan stellen. 
-Op basis van bevindingen uit een audit of conformiteitsbeoordeling, is het denkbaar dat het ontwikkelteam nog bepaalde maatregelen moet treffen om te voldoen aan de specificaties. 
+Bij verificatie kan worden gedacht aan het (laten) controleren of het algoritme of AI-systeem voldoet aan de (technische) specificaties, bijvoorbeeld door een interne of externe audit of in de toekomst een conformiteitsbeoordeling voor hoog risico AI-systemen.
+Hiermee kan (onafhankelijk) worden vastgesteld of het systeem voldoet aan de vereisten die organisaties daaraan stellen.
+Op basis van bevindingen uit een audit of conformiteitsbeoordeling, is het denkbaar dat het ontwikkelteam nog bepaalde maatregelen moet treffen om te voldoen aan de specificaties.
 
-Bij het valideren van een algoritme of AI-systeem moet worden bepaald of het goed genoeg presteert en of het geschikt is voor het beoogde doel van het systeem. 
-Wanneer het een AI-systeem betreft, is het belangrijk dat dit gevalideerd wordt op nieuwe, niet eerder geziene data. 
-Het valideren betreft het iteratief evalueren van de nauwkeurigheid en prestaties van het systeem. 
-Daarnaast is het ook belangrijk om te valideren of het algoritme gelijke prestaties toont voor verschillende groepen en om te testen hoe het algoritme presteert in uitzonderlijke gevallen. 
-Het is net als in de ontwerpfase belangrijk dat een multidisciplinair team beoordeelt of de werking passend en bijvoorbeeld non-discriminatoir is. 
-In het geval van impactvolle algoritmen of hoog risico AI-systemen, is het raadzaam om een onafhankelijke commissie of partij te betrekken die een advies geeft over de werking van het algoritme of AI-systeem.  
+Bij het valideren van een algoritme of AI-systeem moet worden bepaald of het goed genoeg presteert en of het geschikt is voor het beoogde doel van het systeem.
+Wanneer het een AI-systeem betreft, is het belangrijk dat dit gevalideerd wordt op nieuwe, niet eerder geziene data.
+Het valideren betreft het iteratief evalueren van de nauwkeurigheid en prestaties van het systeem.
+Daarnaast is het ook belangrijk om te valideren of het algoritme gelijke prestaties toont voor verschillende groepen en om te testen hoe het algoritme presteert in uitzonderlijke gevallen.
+Het is net als in de ontwerpfase belangrijk dat een multidisciplinair team beoordeelt of de werking passend en bijvoorbeeld non-discriminatoir is.
+In het geval van impactvolle algoritmen of hoog risico AI-systemen, is het raadzaam om een onafhankelijke commissie of partij te betrekken die een advies geeft over de werking van het algoritme of AI-systeem.
 
-In praktijk zal vaak na validatie weer worden teruggegaan naar de ontwikkelfase om prestaties van het model te verbeteren voorafgaand aan implementatie van de oplossing. 
-Het is ook denkbaar dat het algoritme of AI-systeem onvoldoende aansluit bij de doelstellingen en het gebruik ervan moet wordt beëindigd. 
-Een andere conclusie kan zijn dat het presteert conform verwachting en naar de implementatiefase kan worden gegaan.  
+In praktijk zal vaak na validatie weer worden teruggegaan naar de ontwikkelfase om prestaties van het model te verbeteren voorafgaand aan implementatie van de oplossing.
+Het is ook denkbaar dat het algoritme of AI-systeem onvoldoende aansluit bij de doelstellingen en het gebruik ervan moet wordt beëindigd.
+Een andere conclusie kan zijn dat het presteert conform verwachting en naar de implementatiefase kan worden gegaan.
 
 ## Vereisten
 
@@ -27,7 +27,6 @@ Een andere conclusie kan zijn dat het presteert conform verwachting en naar de i
 ## Maatregelen
 
 <!-- list_maatregelen levenscyclus/verificatie-en-validatie -->
-
 
 !!! info "Disclaimer"
 

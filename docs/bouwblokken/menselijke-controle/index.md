@@ -6,9 +6,6 @@ icon: material/account-check
 
 ![menselijke-controle](../../afbeeldingen/bouwblokken/menselijke-controle.jpg "visuele weergave menselijke controle"){align="right"; width="50%"}
 
-Menselijk toezicht 
-
- 
 
 Bij het uitvoeren van publieke taken is het van belang dat natuurlijke personen toezicht kunnen houden of deze taken correct worden uitgevoerd en dat kan worden bijgestuurd als dat nodig is. Datzelfde geldt voor als overheidsinstantie algoritme en AI-systemen gebruiken bij het ondersteunen van deze taken. Het is van belang dat zowel bij de ontwikkeling en als het gebruik door natuurlijke personen kan worden ingegrepen. Hier kan worden gedacht aan het verkeerd (gaan) werken van een AI-systeem en dat hierdoor de output onbetrouwbaar en onjuist wordt. In dergelijke gevallen zal een menselijk toezichthouder in staat moeten zijn om deze situatie te signaleren en het algoritme of AI-systeem (tijdelijk) te kunnen stoppen.  
 

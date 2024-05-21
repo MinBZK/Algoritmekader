@@ -65,7 +65,8 @@ Er wordt gewerkt aan wetgeving om het bij wet verplicht te stellen.
 
 ## Risico 
 
-Door het niet publiceren van impactvolle of hoog risico AI -systemen in het Algoritmeregister, is het voor betrokkenen of belanghebbenden minder goed mogelijk om de overheid kritisch te volgen, te bevragen en te controleren op de inzet van deze technologieën die hen kunnen raken. Bij het onjuist of onvolledig publiceren in het Algortimeregister ontstaat er een risico dat betrokkenen en belanghebbenden onjuiste inschattingen maken van de risico's of relevante risico's over het hoofd zien en daardoor in hun rechten worden beperkt.
+Door het niet publiceren van impactvolle of hoog risico AI -systemen in het Algoritmeregister, is het voor betrokkenen of belanghebbenden minder goed mogelijk om de overheid kritisch te volgen, te bevragen en te controleren op de inzet van deze technologieën die hen kunnen raken. 
+Bij het onjuist of onvolledig publiceren in het Algortimeregister ontstaat er een risico dat betrokkenen en belanghebbenden onjuiste inschattingen maken over het gebruik van het algoritme of het AI-systeem en daardoor in hun rechten worden beperkt.
 
 ## Maatregelen 
 

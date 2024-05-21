@@ -6,7 +6,7 @@ status_vereiste:
 levenscyclus: 
 - ontwerp
 - ontwikkelen
-- monitoren 
+- monitoring-en-beheer 
 bouwblok: 
 - privacy-en-gegevensbescherming
 rekenregels: 

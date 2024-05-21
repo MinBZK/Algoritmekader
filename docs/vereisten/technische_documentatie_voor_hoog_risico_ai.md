@@ -7,9 +7,9 @@ levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
 - ontwikkelen
-- validatie
+- verificatie-en-validatie
 - implementatie
-- monitoren
+- monitoring-en-beheer
 bouwblok: 
 - governance
 - technische-robuustheid-en-veiligheid

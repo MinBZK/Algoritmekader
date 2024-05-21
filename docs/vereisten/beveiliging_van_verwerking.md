@@ -6,9 +6,9 @@ status_vereiste:
 levenscyclus: 
 - dataverkenning-en-datapreparatie
 - ontwikkelen
-- validatie
-- monitoren
-- archiveren
+- verificatie-en-validatie
+- monitoring-en-beheer
+- uitfaseren
 bouwblok: 
 - privacy-en-gegevensbescherming
 - data

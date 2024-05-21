@@ -6,8 +6,8 @@ status_vereiste:
 levenscyclus: 
 - ontwerp
 - ontwikkelen
-- monitoren
-- archiveren
+- monitoring-en-beheer
+- uitfaseren
 bouwblok: 
 - governance
 - technische-robuustheid-en-veiligheid

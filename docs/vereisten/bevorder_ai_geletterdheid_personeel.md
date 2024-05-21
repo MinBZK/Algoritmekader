@@ -7,7 +7,7 @@ levenscyclus:
 - probleemanalyse
 - ontwerp
 - implementatie
-- monitoren
+- monitoring-en-beheer
 bouwblok: 
 - menselijke-controle
 - governance

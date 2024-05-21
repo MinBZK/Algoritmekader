@@ -6,7 +6,7 @@ status_vereiste:
 levenscyclus: 
 - ontwerp
 - dataverkenning-en-datapreparatie
-- validatie
+- verificatie-en-validatie
 bouwblok: 
 - governance
 - data

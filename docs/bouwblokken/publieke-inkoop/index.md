@@ -3,12 +3,13 @@ title: Publieke inkoop
 icon: material/cart
 ---
 
+![publieke-inkoop](../../afbeeldingen/bouwblokken/publieke-inkoop.jpg "visuele weergave publieke inkoop"){align="right"; width="50%"}
+
+Door middel van publieke inkoop wordt door overheidsinstellingen software ingekocht. Deze software wordt ingekocht om ambtenaren te ondersteunen met hun werkzaamheden om zo maatschappelijk waarden te creëren. Het kan bijvoorbeeld gaan om het inkopen van een systeem waarmee een aanvraag voor een subsidie of vergunning kan worden behandeld. Het virtueel vergaderen of het digitaal samenwerken aan documenten zijn hier ook voorbeelden van. 
 
 !!! info "Disclaimer"
     Het Algoritmekader is nog volop in ontwikkeling. Op deze plek willen we vooral aan de slag gaan op een open en transparante wijze. Het is dus niet definitief. Dat betekent dat er dingen opstaan die niet af zijn en soms zelfs fout. Mocht er iets niet kloppen, laat het ons weten via [GitHub](https://github.com/MinBZK/Algoritmekader).
 
-
-Door middel van publieke inkoop wordt door overheidsinstellingen software ingekocht. Deze software wordt ingekocht om ambtenaren te ondersteunen met hun werkzaamheden om zo maatschappelijk waarden te creëren. Het kan bijvoorbeeld gaan om het inkopen van een systeem waarmee een aanvraag voor een subsidie of vergunning kan worden behandeld. Het virtueel vergaderen of het digitaal samenwerken aan documenten zijn hier ook voorbeelden van. 
 
 Software met algoritmen  en AI wordt vaak ontwikkeld door gespecialiseerde aanbieders en bevat steeds meer algoritmen en AI. Het komt ook voor dat de overheid deze technologie zelf ontwikkelt. Deze algoritmen en AI kunnen eenvoudig van aard zijn, zoals het maken van een eenvoudige berekening. Zij kunnen complexer van aard zijn, zoals een voorspelling geven of het genereren van informatie. In het laatste geval kan worden gedacht aan ChatGPT, Google Bard of Co-Pilot.
 Er zijn verschillende type technologieën die vallen onder het bereik van algoritmen en AI. In dit kader drukken we deze uit als ‘rekenregel’, ‘machine learning’ en ‘generatieve AI’. Elke technologie heeft eigen bijzondere aandachtspunten. Ook de bijbehorende risico’s kunnen per type verschillen. Het identificeren van deze risico’s en het treffen van beheersmaatregelen is daarbij van belang. Dat geldt in het bijzonder als algoritmen en AI bijdragen aan de totstandkoming van overheidsbesluitvorming en impactvolle beslissingen die burgers en ondernemingen raken. 
@@ -37,25 +38,33 @@ De inzichten uit de algoritme levenscyclus kunnen ondersteunen bij bijvoorbeeld 
 
 ## Vereisten
 
-<!-- list_vereisten bouwblok/publieke-inkoop -->
+Nagenoeg alle vereisten die gelden voor algoritmen en AI kunnen een plek krijgen in het publiek inkoopproces. Daarom is ervoor gekozen om hier niet een opsomming te geven van al deze vereisten, maar wordt verwezen we naar het gedeelte  ['Vereisten'](https://minbzk.github.io/Algoritmekader/vereisten/) in het Algoritmekader.
+
+In de laag van 'maatregelen' bij de vereisten voor algoritmes en AI-systemen, wordt uitgewerkt wat vanuit publieke inkoop kan worden gedaan om op een betekenisvolle manier invulling te geven aan deze vereisten. Daarvoor kan ook op het tabblad 'publieke inkoop' worden geklikt om deze maatregelen te filteren. 
+
+Zie hieronder bij bruikbare informatie en bronnen in het bijzonder de Europese modelcontractbepaling voor (niet) hoog risico AI-systemen en contractvoorwaarden voor algoritmen. Dit geeft een beeld hoe de vereisten onderdeel kunnen worden gemaakt van contractvoorwaarden.   
 
 ## Maatregelen
 
+Hieronder volgt een overzicht van de maatregelen die (voor zover zijn uitgewerkt) kunnen worden getroffen om invulling te geven aan de vereisten. 
+
+
 <!-- list_maatregelen bouwblok/publieke-inkoop -->
 
-| **Vereisten**                                                                      | **Uitleg**                                                                                                                                                                                                                                                                                                                                                        | **verplicht voor hoog-risico AI systemen (AI Act)** |    **verplicht voor impactvolle algoritmes**    | **verplicht voor niet-impactvolle algoritmes**  |
-|------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
-| [Archiveren](../../vereisten/archiefwet.md )                            | De grondslag van de Archiefwet is dat, als de overheid de informatie bewaart die voortkomt uit de verschillende werkprocessen, aan de hand van deze informatie de werkprocessen kunnen worden gereconstrueerd en kan worden nagegaan hoe besluiten tot stand zijn gekomen. De oordeelsvorming over hoe zaken zijn verlopen kan dan worden overgelaten aan anderen |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
-| [Non-discriminatie](../../vereisten/non_discriminatie.md) | Verbod op ongelijke behandeling in gelijke omstandigheden. Discriminatie wegens godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht of op welke grond dan ook, is niet toegestaan.                                                                                                                                                                                                                                                                                                                                                       |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
-| [Verbod schenden Auteursrechten](../../vereisten/auteursrechten.md)                            | Bepaalde vormen van algoritmen en AI worden ontwikkeld op basis van grote hoeveelheden data. Deze data wordt gebruikt voor het trainingen en testen van algoritmen en AI. Deze data mag geen inbreuk maken op Auteursrechten. Ook de gegenereerde output van algoritmen en AI mag geen inbreuk maken op deze rechten.  |   :material-check-bold:{ style="color: #4DB6AC" }   | :material-check-bold:{ style="color: #4DB6AC" } | :material-check-bold:{ style="color: #4DB6AC" } |
+!!! info "Disclaimer"
+    Het Algoritmekader is nog volop in ontwikkeling. Er wordt momenteel hard gewerkt, mede door de Werkgroep Publieke Inkoop, om maatregelen te definiëren vanuit het perspectief publieke inkoop bij de vereisten. Mocht er iets niet kloppen, laat het ons weten via [GitHub](https://github.com/MinBZK/Algoritmekader) of via algoritmes@minbzk.nl.
 
-## Nuttige informatie
+## Bruikbare informatie en bronnen
+
 [Europese modelcontractbepalingen AI-systemen (hoog risico)](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_template_High_Risk%20NL.pdf)
 
 [Europese modelcontractbepalingen AI-systemen (niet hoog risico)](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_Template_NON_HIGH_RISK_NL.pdf)
 
 [Contractvoorwaarden voor algoritmen gemeente Amsterdam](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/contractvoorwaarden-algoritmen/)
 
+[Inkoopproces](https://www.pianoo.nl/nl/inkoopproces)
+
+[Community of Practis Digitale Innovatie](https://www.pianoo.nl/nl/themas/innovatie/netwerken/community-practice-digitale-innovaties)
 
 
 

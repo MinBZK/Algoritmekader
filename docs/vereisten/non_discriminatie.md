@@ -7,9 +7,9 @@ levenscyclus:
 - probleemanalyse
 -  dataverkenning-en-datapreparatie
 - ontwerp
-- validatie
+- verificatie-en-validatie
 - implementatie
-- monitoren
+- monitoring-en-beheer
 bouwblok: 
 - fundamentele-rechten
 rekenregels: 

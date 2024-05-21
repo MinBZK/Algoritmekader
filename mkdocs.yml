@@ -41,10 +41,10 @@ nav:
         - levenscyclus/ontwerp.md
         - levenscyclus/dataverkenning-en-datapreparatie.md
         - levenscyclus/ontwikkelen.md
-        - levenscyclus/validatie.md
+        - levenscyclus/verificatie-en-validatie.md
         - levenscyclus/implementatie.md
-        - levenscyclus/monitoren.md
-        - levenscyclus/archiveren.md
+        - levenscyclus/monitoring-en-beheer.md
+        - levenscyclus/uitfaseren.md
     - Bouwblokken:
         - bouwblokken/index.md
         - ... | bouwblokken/*/*.md

@@ -106,6 +106,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
 
             if new_files.name in list_of_vereisten:
                 list.append(new_files)
+                print(new_files)
 
         return "".join(
             [

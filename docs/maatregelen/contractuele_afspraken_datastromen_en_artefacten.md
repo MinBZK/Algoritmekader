@@ -1,0 +1,43 @@
+---
+title: Contractuele afspraken over data en artefacten
+toelichting: Maak (contractuele) afspraken met aanbieder wie eigenaar is van de data en artefacten die ontstaan bij het gebruik van algoritmen en AI. 
+vereiste:
+- auteursrechten
+levenscyclus:
+- ontwerp
+- monitoring-en-beheer
+bouwblok:
+- publieke-inkoop
+rollen:
+- proceseigenaar
+- behoeftesteller
+- inkoopadviseur
+- contractbeheerder
+- aanbestedingsjurist
+- aanbieder
+---
+
+<!-- tags -->
+## Maatregel
+
+Maak (contractuele) afspraken met aanbieder wie eigenaar is van de data en artefacten die ontstaan bij het gebruik van algoritmen en AI.
+
+
+## Toelichting
+
+Hier kan worden gedacht aan de initile trainingsdataset, outputdata (richting gebruikers) en nieuwe trainingsdata (vanuit gebruikers).
+
+## Bijbehorende vereiste(n)
+
+<!-- list_vereisten_on_maatregelen_page -->
+
+## Bronnen
+
+| Bron                        |
+|-----------------------------|
+|Algoritmekader|
+
+## Voorbeeld
+
+Heb jij een goed voorbeeld? Laat het ons weten!
+

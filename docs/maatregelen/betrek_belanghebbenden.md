@@ -11,9 +11,9 @@ levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
 - ontwikkelen
-- validatie
+- verificatie-en-validatie
 - implementatie
-- monitoren
+- monitoring-en-beheer
 # vul hier de bouwblokken in die horen bij deze maatregel
 bouwblok: 
 - fundamentele-rechten

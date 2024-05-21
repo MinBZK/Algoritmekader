@@ -6,9 +6,9 @@ status_vereiste:
  - 
 levenscyclus: 
 - ontwikkelen
-- validatie
+- verificatie-en-validatie
 - implementatie
-- monitoren
+- monitoring-en-beheer
 bouwblok: 
 - transparantie
 rekenregels: 

@@ -4,6 +4,8 @@ summary: Hier staat een korte samenvatting over dit onderwerp
 icon: material/leaf
 ---
 
+![duurzaamheid](../../afbeeldingen/bouwblokken/duurzaamheid.jpg "visuele weergave duurzaamheid"){align="right"; width="50%"}
+
 Hier komt een beschrijving van dit bouwblok.
 
 !!! info "Opmerking"

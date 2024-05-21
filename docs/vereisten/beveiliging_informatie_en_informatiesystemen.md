@@ -6,10 +6,10 @@ status_vereiste:
 levenscyclus: 
 - ontwerp
 - implementatie
-- monitoren
+- monitoring-en-beheer
 - dataverkenning-en-datapreparatie
-- validatie
-- archiveren 
+- verificatie-en-validatie
+- uitfaseren 
 bouwblok: 
 - technische-robuustheid-en-veiligheid
 rekenregels: 

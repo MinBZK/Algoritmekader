@@ -112,7 +112,7 @@ def _badge_rollen(page: Page, files: Files, rol: str):
     return _badge(
         icon=f"[:{icon}:]({href_rol} 'Rollen')",
         text=f"[{rol.capitalize().replace('-', ' ')}]({href_fase})",
-        color="green",
+        color="deep-orange",
     )
 
 

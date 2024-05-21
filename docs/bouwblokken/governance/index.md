@@ -14,11 +14,9 @@ Het Algoritmekader laat zien aan welke vereisten moet worden gedaan, hoe daar in
 
 In dit deel van het Algoritmekader worden de volgende zaken uitgewerkt; 
 
-een verzameling praktijkvoorbeelden die tonen hoe organisaties hun governance kunnen inrichten om verantwoord met algoritmes en AI-systemen om te gaan. Daarbij worden goede praktijkvoorbeelden samengevat op hoofdlijnen; 
-
-een handreiking hoe om te gaan met een governancestructuur die rekening houdt met verschillende niveaus van complexiteit van een organisatie.  
-
-Uitwerken van governance-maatregelen en koppeling aan rollen die hier logischerwijs bij passen, waarmee invulling kan worden gegeven aan een vereiste.  
+- een verzameling praktijkvoorbeelden die tonen hoe organisaties hun governance kunnen inrichten om verantwoord met algoritmes en AI-systemen om te gaan. Daarbij worden goede praktijkvoorbeelden samengevat op hoofdlijnen; 
+- een handreiking hoe om te gaan met een governancestructuur die rekening houdt met verschillende niveaus van complexiteit van een organisatie.  
+- uitwerken van governance-maatregelen en koppeling aan rollen die hier logischerwijs bij passen, waarmee invulling kan worden gegeven aan een vereiste.  
 
  
 

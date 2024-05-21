@@ -4,6 +4,8 @@ summary: Hier staat een korte samenvatting over dit onderwerp
 icon: material/cog
 ---
 
+![technische-robuustheid-en-veiligheid](../../afbeeldingen/bouwblokken/technische-robuustheid-en-veiligheid.jpg "visuele weergave technische robuustheid en veiligheid"){align="right"; width="50%"}
+
 Hier komt een beschrijving van dit bouwblok.
 
 !!! info "Opmerking"

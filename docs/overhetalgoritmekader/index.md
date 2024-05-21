@@ -9,14 +9,19 @@ Maar hoe doe je dat dan? Hier helpt het Algoritmekader je bij: een interactieve 
 
 ### Levenscyclus van een algoritme, vereisten, maatregelen en rollen
 In het Algoritmekader wordt inzichtelijk gemaakt aan welke vereisten overheidsorganisaties moeten voldoen. 
-Daarbij wordt ook aangegeven hoe zij hier op een betekenisvolle wijze invulling aan kunnen geven (maatregelen).
+Daarbij wordt ook aangegeven hoe zij hier op een betekenisvolle wijze invulling aan kunnen geven (maatregelen). 
+
+![levenscyclus](../afbeeldingen/levenscyclus/levenscyclus.jpg "visuele weergave levenscyclus van een algoritme"){align="right"; width="60%"}
+
 Het Algoritmekader is zodanig ingericht dat gebruikers vanuit verschillende invalshoeken informatie kunnen raadplegen die voor hen relevant is. 
 Zo kan vanuit de algoritme levenscyclus worden onderzocht in welke fase aan welke vereisten en maatregelen aandacht moet worden besteed. 
 Het is ook mogelijk om vanuit een specifieke rol, bijvoorbeeld een ethicus of data scientist, te raadplegen bij welke vereisten of maatregelen zij logischerwijs betrokken zijn.  
 
+
+
 ### Type technologie en risicoclassificatie
 Het Algoritmekader geeft gebruikers de mogelijkheid om informatie te 'filteren'. 
-Dit kan bijvoorbeeld worden gedaan op basis van type technologie en risico classificatie. 
+Dit kan bijvoorbeeld worden gedaan op basis van type technologie en risicoclassificatie. 
 Zo kunnen gebruikers snel zien wat zij in een bepaalde situaties moeten doen. 
 In het geval van een hoge risico AI-systeem waarbij persoonsgegevens worden verwerkt zullen aan meer vereisten moeten worden voldaan dan in het geval van een eenvoudige rekenregel die geen impact heeft op individuen of de maatschappij. 
 Deze inzichten moeten overheidsorganisaties helpen om effectief en gericht hun middelen in te kunnen zetten. 
@@ -43,9 +48,8 @@ Overheden wordt aanbevolen het kader te volgen, maar mogen te allen tijde zelf b
 Kortom, de vereisten zijn verplicht en de maatregelen (hoe kan hieraan worden voldaan aan de vereisten) zijn ter inspiratie om organisaties op weg te helpen.  
 
 ## Doorontwikkeling
-7 juli 2023 is het [concept Implementatiekader](https://www.rijksoverheid.nl/documenten/rapporten/2023/06/30/implementatiekader-verantwoorde-inzet-van-algoritmen) naar de kamer verstuurd, vergezeld door de Kamerbrief 'Verzamelbrief Algoritmes Reguleren'. 
-Dit kan worden beschouwd als de eerste versie van het Algoritmekader. H
-et implementatiekader verantwoorde inzet van algoritmen is in oktober 2023 hernoemd naar 'het Algoritmekader'. 
+7 juli 2023 is de [eerste versie van het Implementatiekader](https://www.rijksoverheid.nl/documenten/rapporten/2023/06/30/implementatiekader-verantwoorde-inzet-van-algoritmen) naar de Tweede Kamer verstuurd, vergezeld door de Kamerbrief 'Verzamelbrief algoritmen reguleren'. 
+Dit kan worden beschouwd als de eerste versie van het Algoritmekader. Het implementatiekader verantwoorde inzet van algoritmen is in oktober 2023 hernoemd naar 'het Algoritmekader'. 
 
 In oktober 2023 is gestart met de doorontwikkeling van het Algoritmekader, zowel op inhoud als op vorm. Dat betekent dat inhoudelijke toevoegingen worden gedaan (denk aan hetgeen voortkomt uit de AI-verordening) en er wordt onderzocht hoe informatie zo optimaal mogelijk aan gebruikers getoond kan worden. 
 Het doel is dat het Algoritmekader gebruikers op een praktische wijze helpt bij het uitvoeren van hun werkzaamheden. 
@@ -53,7 +57,7 @@ Het interactief kunnen doorzoeken van de informatie is daar een voorbeeld van.
 
 Eind 2024 zal de tweede versie van het Algoritmekader worden opgeleverd. 
 Dan moeten de vereisten en de maatregelen zijn uitgewerkt voor zover dan bekend. 
-Hierna zal het Algoritmekader in 'beheer' worden genomen. Dat betekent dat doorlopend de laatste ontwikkelingen, blijvend in afstemming met de omgeving, worden toegevoegd zodat het Algoritmekader actueel en betrouwbaar blijft.  
+Hierna zal het Algoritmekader in 'beheer' worden genomen. Dat betekent dat doorlopend de laatste ontwikkelingen, in afstemming met de omgeving, worden toegevoegd zodat het Algoritmekader actueel en betrouwbaar blijft.  
 
 ## Samenwerking met de omgeving
 Een belangrijk uitgangspunt van het Algoritmekader is dat het kader op een open en transparante manier wordt ontwikkeld. 

@@ -4,6 +4,8 @@ summary: Hier staat een korte samenvatting over dit onderwerp
 icon: material/bank
 ---
 
+![governance](../../afbeeldingen/bouwblokken/governance.jpg "visuele weergave governance"){align="right"; width="50%"}
+
 Hier komt een beschrijving van dit bouwblok.
 
 !!! info "Opmerking"

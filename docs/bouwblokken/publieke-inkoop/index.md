@@ -3,12 +3,13 @@ title: Publieke inkoop
 icon: material/cart
 ---
 
+![publieke-inkoop](../../afbeeldingen/bouwblokken/publieke-inkoop.jpg "visuele weergave publieke inkoop"){align="right"; width="50%"}
+
+Door middel van publieke inkoop wordt door overheidsinstellingen software ingekocht. Deze software wordt ingekocht om ambtenaren te ondersteunen met hun werkzaamheden om zo maatschappelijk waarden te creëren. Het kan bijvoorbeeld gaan om het inkopen van een systeem waarmee een aanvraag voor een subsidie of vergunning kan worden behandeld. Het virtueel vergaderen of het digitaal samenwerken aan documenten zijn hier ook voorbeelden van. 
 
 !!! info "Disclaimer"
     Het Algoritmekader is nog volop in ontwikkeling. Op deze plek willen we vooral aan de slag gaan op een open en transparante wijze. Het is dus niet definitief. Dat betekent dat er dingen opstaan die niet af zijn en soms zelfs fout. Mocht er iets niet kloppen, laat het ons weten via [GitHub](https://github.com/MinBZK/Algoritmekader).
 
-
-Door middel van publieke inkoop wordt door overheidsinstellingen software ingekocht. Deze software wordt ingekocht om ambtenaren te ondersteunen met hun werkzaamheden om zo maatschappelijk waarden te creëren. Het kan bijvoorbeeld gaan om het inkopen van een systeem waarmee een aanvraag voor een subsidie of vergunning kan worden behandeld. Het virtueel vergaderen of het digitaal samenwerken aan documenten zijn hier ook voorbeelden van. 
 
 Software met algoritmen  en AI wordt vaak ontwikkeld door gespecialiseerde aanbieders en bevat steeds meer algoritmen en AI. Het komt ook voor dat de overheid deze technologie zelf ontwikkelt. Deze algoritmen en AI kunnen eenvoudig van aard zijn, zoals het maken van een eenvoudige berekening. Zij kunnen complexer van aard zijn, zoals een voorspelling geven of het genereren van informatie. In het laatste geval kan worden gedacht aan ChatGPT, Google Bard of Co-Pilot.
 Er zijn verschillende type technologieën die vallen onder het bereik van algoritmen en AI. In dit kader drukken we deze uit als ‘rekenregel’, ‘machine learning’ en ‘generatieve AI’. Elke technologie heeft eigen bijzondere aandachtspunten. Ook de bijbehorende risico’s kunnen per type verschillen. Het identificeren van deze risico’s en het treffen van beheersmaatregelen is daarbij van belang. Dat geldt in het bijzonder als algoritmen en AI bijdragen aan de totstandkoming van overheidsbesluitvorming en impactvolle beslissingen die burgers en ondernemingen raken. 

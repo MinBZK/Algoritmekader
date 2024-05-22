@@ -62,3 +62,7 @@ We ontwikkelen het Algoritmekader op een open manier via [GitHub](https://github
 Neem contact op via [GitHub](https://github.com/MinBZK/Algoritmekader) of stuur een email naar [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).
 
 [Stuur een mail :fontawesome-solid-paper-plane:](mailto:algoritmes@minbzk.nl?subject=Vraag%20over%20het%20algoritmekader){ .md-button }
+
+### Wil je op de hoogte blijven?
+Schrijf je in voor de maandelijkse [nieuwsbrief](https://algoritmeregister.email-provider.eu/memberforms/subscribe/standalone/form/?a=1pjwwoyxrs&l=vdfr1sbovb) over algoritmes. 
+

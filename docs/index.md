@@ -56,9 +56,9 @@ Wil je hier meer over weten, lees dan verder op de pagina waar we dit toelichten
 Zie het [Implementatiekader](https://www.rijksoverheid.nl/documenten/rapporten/2023/06/30/implementatiekader-verantwoorde-inzet-van-algoritmen) dat in juni 2023 naar de Tweede Kamer is verzonden. 
 
 ## Bijdragen aan het algoritmekader?
-We ontwikkelen het Algoritmekader op een open manier via [GitHub](https://github.com/MinBZK/Algoritmekader). Bekijk de [ontwikkelomgeving](https://github.com/MinBZK/Algoritmekader) van het Algoritmekader.
+We ontwikkelen het Algoritmekader op een open manier via [GitHub](https://github.com/MinBZK/Algoritmekader). Bekijk de [ontwikkelomgeving](https://github.com/MinBZK/Algoritmekader) van het Algoritmekader en lees onze [Contributing Guidelines](overhetalgoritmekader/CONTRIBUTING.md).
 
 ### Heb je een vraag of opmerking? 
-Neem contact op via [GitHub](https://github.com/MinBZK/Algoritmekader) en lees onze [Contributing Guidelines](https://github.com/MinBZK/Algoritmekader/blob/main/CONTRIBUTING.md) of stuur een email naar algoritmes@minbzk.nl.
+Neem contact op via [GitHub](https://github.com/MinBZK/Algoritmekader) of stuur een email naar [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).
 
 [Stuur een mail :fontawesome-solid-paper-plane:](mailto:algoritmes@minbzk.nl?subject=Vraag%20over%20het%20algoritmekader){ .md-button }

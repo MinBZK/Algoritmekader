@@ -29,6 +29,3 @@ Organisaties zullen hier hoe dan ook aandacht aan moeten besteden.
 Dit is anders als het gaat om bijvoorbeeld het vereiste van het opnemen van algoritmes en AI in het Algoritmeregister. 
 Dit is van belang bij impactvolle algoritmische toepassingen en hoog-risico AI-systemen. 
 Voor de niet-impactvolle rekenregels is dit niet noodzakelijk en kan daardoor achterwege blijven. 
-
-## Vereisten
-<!-- list_vereisten levenscyclus/ -->

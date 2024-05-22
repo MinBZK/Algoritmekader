@@ -1,5 +1,5 @@
 ---
-title: Aanbieder stelt het niveau van de te leveren training vast met behulp van de gebruiksverantwoordelijke 
+title: Vastellen niveau van benodigde training voor gebruik algoritmen en AI-systemen
 toelichting: Laat de aanbieder aangeven op welk niveau de noodzakelijkerwijs te leveren training passend is voor het beoogde doel, waarbij de opdrachtgever vooraf inzicht geeft in het bestaande niveau, zodat een aanbieder concreet kan zijn over eventuele verschillen tussen beiden. 
 vereiste:
 - bevorder_ai_geletterdheid_personeel
@@ -11,6 +11,7 @@ bouwblok:
 rollen:
 - aanbieder
 - proceseigenaar
+- inkoopadviseur
 ---
 
 <!-- tags -->

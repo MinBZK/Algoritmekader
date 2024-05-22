@@ -1,6 +1,6 @@
 ---
-title: Een autorisatiematrix wordt opgesteld voor het algoritme of AI-systeem 
-toelichting: Uitsluitend bevoegde personen mogen de data verwerken. 
+title: Stel een autorisatiematrix op
+toelichting: Uitsluitend bevoegde personen mogen de data verwerken en mogen werken aan de ontwikkeling van de algoritmes en AI-systemen. Maak hierover afspraken met de aanbieder. 
 vereiste:
 - beveiliging_van_verwerking
 levenscyclus:
@@ -10,16 +10,19 @@ levenscyclus:
 - implementatie
 bouwblok:
 - privacy-en-gegevensbescherming
+- technische-robuustheid-en-veiligheid
 rollen:
 - proceseigenaar
 - aanbieder
 - security-officer
+- inkoopadviseur
 ---
 
 <!-- tags -->
 ## Maatregel
 
-Uitsluitend bevoegde personen mogen de data verwerken.
+Uitsluitend bevoegde personen mogen de data verwerken en mogen werken aan de ontwikkeling van de algoritmes en AI-systemen.
+Maak hierover afspraken met de aanbieder.
 
 
 ## Toelichting

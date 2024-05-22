@@ -1,5 +1,5 @@
 ---
-title: Garantie in conceptovereenkomst dat aanbieder auteursrechten niet schendt met de trainingsdata
+title: Garantie in conceptovereenkomst dat auteursrechten niet worden geschonden met de trainingsdata
 toelichting: Neem in de conceptovereenkomst op dat de aanbieder garandeert dat auteursrechten met de verwerkte of te verwerken trainingsdata niet zullen worden geschonden en deze dit gedurende de ontwikkeling en levensduur actief bewaakt. 
 vereiste:
 - auteursrechten
@@ -13,6 +13,7 @@ rollen:
 - behoeftesteller
 - inkoopadviseur
 - aanbestedingsjurist
+- contractbeheerder
 ---
 
 <!-- tags -->

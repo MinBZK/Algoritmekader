@@ -1,5 +1,5 @@
 ---
-title: Vastellen bewaartermijnen voor archiefbescheiden
+title: Vaststellen bewaartermijnen voor archiefbescheiden
 toelichting: Stel de bewaartermijnen vast voor de archiefbescheiden. 
 vereiste:
 - archiefwet

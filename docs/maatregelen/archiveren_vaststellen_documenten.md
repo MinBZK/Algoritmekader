@@ -1,5 +1,5 @@
 ---
-title: Archiveren vaststellen documeten
+title: Archiefbescheiden vaststellen
 toelichting: Stel vast welke documenten, (samengesteld geheel van) data/informatie van/in het algoritme of het AI-systeem gelden als "archiefbescheiden" in de zin van artikel 1 c Archiefwet en documenteer daarvan een overzicht, bij voorkeur vastgesteld door een daartoe bevoegde. 
 vereiste:
 - archiefwet
@@ -15,7 +15,6 @@ rollen:
 - archiefdeskundige
 - data-scientist
 - jurist
-- inkoopadviseur
 ---
 
 <!-- tags -->

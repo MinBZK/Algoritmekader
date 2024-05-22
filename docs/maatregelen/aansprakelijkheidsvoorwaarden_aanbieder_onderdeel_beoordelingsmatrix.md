@@ -14,7 +14,6 @@ rollen:
 - inkoopadviseur
 - contractbeheerder
 - aanbestedingsjurist
-- gemandateerd-verantwoordelijke
 ---
 
 <!-- tags -->

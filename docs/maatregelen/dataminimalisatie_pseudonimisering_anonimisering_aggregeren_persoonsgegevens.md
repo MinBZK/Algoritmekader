@@ -1,5 +1,5 @@
 ---
-title: Pas maatregelen als dataminimalisatie, pseudonimisering, anonimisering of aggregeren van persoonsgegevens toe bij het verwerken van de (trainings)data 
+title: Pas maatregelen toe om (persoons)gegevens te beschermen
 toelichting: Pas maatregelen als dataminimalisatie, pseudonimisering, anonimisering of aggregeren van persoonsgegevens toe bij het verwerken van de (trainings)data. 
 vereiste:
 - beveiliging_van_verwerking
@@ -9,6 +9,7 @@ levenscyclus:
 - ontwikkelen
 bouwblok:
 - privacy-en-gegevensbescherming
+- technische-robuustheid-en-veiligheid
 rollen:
 - proceseigenaar
 - aanbieder

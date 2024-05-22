@@ -1,5 +1,5 @@
 ---
-title: Restrisico's en hoe hier mee om te gaan met betrekking tot schending auteursrechten zijn inzichtelijk gemaakt
+title: Restrisico's met betrekking tot schending auteursrechten zijn inzichtelijk gemaakt
 toelichting: Maak in de beoordelingsmatrix, beoordeling, beoordelingsproces en/of werkwijze van beoordelingscommissies helder op welke wijze c.q. volgens welk proces wordt omgegaan met mogelijke onvermijdelijk resterende auteursrechtelijke risico's, het vaststellen van de onvermijdelijkheid en hoe deze resterende risico's in de beoordeling werking hebben of kunnen hebben.
 vereiste:
 - auteursrechten

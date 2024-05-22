@@ -1,5 +1,5 @@
 ---
-title: Bewaartermijnen zijn toegepast in het algoritme of AI-systeem
+title: Bewaartermijnen zijn toegepast 
 toelichting: Zorg ervoor dat de vereisten met betrekking tot bewaartermijnen correct zijn of worden vertaald naar het algoritme of AI-systeem en de onderliggende systemen. Controleer of deze maatregelen zijn getroffen en zorg dat dit aantoonbaar is.
 vereiste:
 - archiefwet

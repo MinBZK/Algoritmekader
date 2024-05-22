@@ -1,28 +1,28 @@
 ---
-title: Beveiliging van verwerking
-toelichting: Voor de ontwikkeling en gebruik van algoritmes en AI is dat data nodig. Deze data kan persoonsgegevens bevatten die moeten worden beschermd. De organisatie zal technische en organisatorische maatregelen moeten treffen om de data en de algoritmische toepassing of AI-systeem voldoende te beschermen. Hierbij kan worden gedacht aan dataminimalisatie, het pseudonimiseren of aggregeren van persoonsgegevens. Per toepassing moet worden onderzocht welke maatregelen hiervoor geschikt zijn.
-status_vereiste:
-  - Geldend
-levenscyclus:
-  - dataverkenning-en-datapreparatie
-  - ontwikkelen
-  - verificatie-en-validatie
-  - monitoring-en-beheer
-  - uitfaseren
-bouwblok:
-  - privacy-en-gegevensbescherming
-  - data
-rekenregels:
-  - niet-impactvol: ja
-  - impactvol: Ja
-machine-learning:
-  - niet-impactvol: ja
-  - impactvol: Ja
-  - hoog-risico: Ja
-generatieve-ai:
-  - niet-impactvol: ja
-  - impactvol: Ja
-  - hoog-risico: Ja
+title: Beveiliging van de verwerking
+toelichting: Voor de ontwikkeling en gebruik van algoritmes en AI is dat data nodig. Deze data kan persoonsgegevens bevatten die moeten worden beschermd. De organisatie zal technische en organisatorische maatregelen moeten treffen om de data en de algoritmische toepassing of AI-systeem voldoende te beschermen. Hierbij kan worden gedacht aan dataminimalisatie, het pseudonimiseren of aggregeren van persoonsgegevens. Per toepassing moet worden onderzocht welke maatregelen hiervoor geschikt zijn. 
+status_vereiste: 
+ - geldend
+levenscyclus: 
+- dataverkenning-en-datapreparatie
+- ontwikkelen
+- verificatie-en-validatie
+- monitoring-en-beheer
+- uitfaseren
+bouwblok: 
+- privacy-en-gegevensbescherming
+- data
+rekenregels: 
+- niet-impactvol: ja
+- impactvol: Ja
+machine-learning: 
+- niet-impactvol: ja
+- impactvol: Ja
+- hoog-risico: Ja
+generatieve-ai: 
+- niet-impactvol: ja
+- impactvol: Ja
+- hoog-risico: Ja
 ---
 
 <!-- tags -->
@@ -42,9 +42,9 @@ Per toepassing moet worden onderzocht welke maatregelen hiervoor geschikt zijn.
 
 ## Bronnen
 
-| Bron           |
-| -------------- |
-| Artikel 32 AVG |
+| Bron                        |
+|-----------------------------|
+|[Artikel 32 Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32016R0679)|
 
 ## Wanneer van toepassing?
 
@@ -71,10 +71,7 @@ Per toepassing moet worden onderzocht welke maatregelen hiervoor geschikt zijn.
 Er kunnen risico's ontstaan zoals potentiële cyberaanvallen en datalekken.
 Dit kan leiden bijvoorbeeld tot verlies of diefstal van gevoelige gegevens, verstoring van organisatieprocessen,ongeautoriseerde toegang, vernietiging en onrechtmatige verwerking.
 
-## Normen
-
-In afwachting van het standaardisatieproces.
 
 ## Maatregelen
 
-Hier komt een lijst met relevante maatregelen om te voldoen aan dit vereiste.
+<!-- list_maatregelen vereiste/beveiliging_van_verwerking -->

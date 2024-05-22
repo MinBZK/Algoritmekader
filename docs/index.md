@@ -45,10 +45,10 @@ Zie het [Implementatiekader](https://www.rijksoverheid.nl/documenten/rapporten/2
 
 ## Bijdragen aan het algoritmekader?
 
-We ontwikkelen het Algoritmekader op een open manier via [GitHub](https://github.com/MinBZK/Algoritmekader). Bekijk de [ontwikkelomgeving](https://github.com/MinBZK/Algoritmekader) van het Algoritmekader.
+We ontwikkelen het Algoritmekader op een open manier via [GitHub](https://github.com/MinBZK/Algoritmekader). Bekijk de [ontwikkelomgeving](https://github.com/MinBZK/Algoritmekader) van het Algoritmekader en onze [Contributing Guidelines](overhetalgoritmekader/CONTRIBUTING.md) voor meer informatie over hoe je kan bijdragen.
 
 ### Heb je een vraag of opmerking?
 
-Neem contact op via [GitHub](https://github.com/MinBZK/Algoritmekader) (zie punt 4 of 5) of stuur een email naar algoritmes@minbzk.nl.
+Neem contact op via [GitHub](https://github.com/MinBZK/Algoritmekader) of stuur een email naar [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).
 
 [Stuur een mail :fontawesome-solid-paper-plane:](mailto:algoritmes@minbzk.nl?subject=Vraag%20over%20het%20algoritmekader){ .md-button }

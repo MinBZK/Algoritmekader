@@ -160,7 +160,7 @@ Het [Handvest van de grondrechten van de Europese Unie, artikel 21](https://eur-
 - genetische kenmerken
 - taal
 - godsdienst
-- politieke of andree denkbeelden
+- politieke of andere denkbeelden
 - het behoren tot een nationale minderheid
 - vermogen
 - geboorte

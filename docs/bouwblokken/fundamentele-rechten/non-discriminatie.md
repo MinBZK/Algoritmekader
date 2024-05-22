@@ -8,7 +8,7 @@ title: Bias en non-discriminatie
 
 ## Wat en waarom?
 Algoritmes worden binnen de overheid veelvuldig ingezet om publieke taken uit te voeren. Dit biedt veel kansen, maar er zijn ook risico's aan verbonden.
-Hoewel algoritmes in sommige gevallen kunnen bijdragen aan het tegengaan van discriminatie, kan bias[^1] in het algoritme ook leiden tot een ongelijke en oneerlijke behandeling van burgers of groepen, en kan er ook sprake zijn van discriminerende effecten. 
+Hoewel algoritmes in sommige gevallen kunnen bijdragen aan het tegengaan van discriminatie, kan bias[^1] in het algoritme leiden tot een ongelijke en oneerlijke behandeling van burgers of groepen, en kan er sprake zijn van discriminerende effecten. 
 In dit bouwblok van het algoritmekader besteden we aandacht aan de onderwerpen bias, eerlijkheid en non-discriminatie. 
 We werken uit wat bias is, hoe bias kan ontstaan, hoe we dit kunnen signaleren, welke maatregelen er genomen kunnen worden om dit te voorkomen en geven we handvatten wat te doen wanneer een (onwenselijke) bias is gesignaleerd. 
 

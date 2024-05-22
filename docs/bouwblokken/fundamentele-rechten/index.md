@@ -17,7 +17,9 @@ Denk hierbij aan het verbod op ongelijke behandeling of het recht op eerbiedigin
 Het is van belang hier in een vroeg stadium aandacht aan te besteden door dit te analyseren. 
 Een zorgvuldige aanpak tijdens de ontwikkeling van een algoritme kan ervoor zorgen dat er tijdig wordt geanticipeerd en maatregelen worden getroffen om een ongerechtvaardigde inbreuk op grondrechten te voorkomen. 
 
+
 Een aantal wezenlijke grondrechten die vaak worden geraakt met de inzet van algoritmen en AI, komen ook afzonderlijk in andere onderdelen van het Algoritmekader aan bod. 
+
 Dit geldt bijvoorbeeld op het recht op persoonsgegevensbescherming in het bouwblok [Privacy en gegevensbescherming](../../bouwblokken/privacy-en-gegevensbescherming/index.md) of het verbod op ongelijke behandeling in het bouwblok [Bias en non-discriminatie](non-discriminatie.md).  
 
 In dit bouwblok van het algoritmekader beschrijven we wat de vereisten zijn rondom het beschermen van fundamentele rechten. 

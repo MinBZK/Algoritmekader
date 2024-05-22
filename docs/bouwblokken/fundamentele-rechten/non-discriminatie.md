@@ -74,7 +74,7 @@ Dit is vaak geen bewuste vorm van vooringenomenheid, maar kan bijvoorbeeld ontst
 #### Menselijke bias 
 Menselijke bias omvat systematische fouten in het menselijk denken. 
 Deze menselijke vooroordelen zijn vaak impliciet van aard en hebben betrekking op de manier waarop een individu bepaalde informatie waarneemt en verwerkt om bijvoorbeeld een beslissing te nemen. 
-In de context van algoritmes kan deze vorm van bias invloed hebben op hoe data wordt verzameld, op de wijze waarop het algoritme wordt geoptimaliseerd en de besluiten die door mensen worden genomen op basis van het algoritme.
+In de context van algoritmes kan deze vorm van bias invloed hebben op de verzamelde data, op de wijze waarop het algoritme wordt geoptimaliseerd en de besluiten die door mensen worden genomen op basis van het algoritme.
 Voorbeelden van vormen menselijke bias is wanneer er voorkeur wordt geven aan de voorspellingen van een algoritme die reeds bestaande overtuigingen bevestigen (confirmation bias/bevestigingsbias), of wanneer mensen de neiging hebben om voorkeur te geven aan suggesties die door het algoritme worden gedaan (automatiseringsbias)
 
 ## Gebruikte definities

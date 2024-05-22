@@ -29,8 +29,8 @@ De onderwerpen bias en non-discriminatie spelen daarom een belangrijke rol bij d
 *Bias* is een Engelse term die in het Nederlands wordt vertaald als vooringenomenheid, vooroordeel of neiging. 
 Omdat niet één van die termen helemaal de lading van het begrip *bias* dekt, maken we in het Algoritmekader gebruik van de term *bias*. 
 De term *bias* heeft verschillende betekenissen afhankelijk van de context waarin het gebruikt wordt en de disciplines die daarbij betrokken zijn. 
-Vaak wordt er naar bias gekeken als een technisch concept, maar het omvat daarnaast ook menselijke aspecten. 
-Om beter de verschillende betekenissen van het begrip *bias* te begrijpen, maken we onderscheid tussen drie verschillende aspecten van bias: statistische bias, systemische bias en menselijke bias.
+Vaak wordt er naar bias gekeken als een technisch concept, maar het omvat daarnaast menselijke aspecten. 
+We maken we onderscheid tussen drie verschillende aspecten van bias: statistische bias, systemische bias en menselijke bias.
 
 #### Statistische bias
 Statistische bias wordt gedefinieerd als *een consistente numerieke afwijking van een schatting ten opzichte van de werkelijke onderliggende waarde*.[^2]

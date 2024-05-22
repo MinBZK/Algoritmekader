@@ -35,6 +35,7 @@ nav:
     - Over het algoritmekader: 
         - overhetalgoritmekader/index.md
         - overhetalgoritmekader/definities.md
+        - overhetalgoritmekader/CONTRIBUTING.md
     - Levenscyclus:
         - levenscyclus/index.md 
         - levenscyclus/probleemanalyse.md

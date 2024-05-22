@@ -19,7 +19,7 @@ rollen:
 <!-- tags -->
 ## Maatregel
 
-Laat de aanbieder aangeven welke mate van kennisoverdracht en ondersteuning bij de organisatorische implementatie onderdeel is van de aanbesteding en in hoeverre deze als opleiding of training zelfstandig herhaald gebruikt kan worden na implementatie als het systeem in productie c.q.
+Laat de aanbieder aangeven welke mate van kennisoverdracht en ondersteuning bij de organisatorische implementatie onderdeel is van de aanbesteding en in hoeverre deze als opleiding of training zelfstandig herhaald kan worden na implementatie als het systeem in productie c.q.
 in gebruik is.
 
 

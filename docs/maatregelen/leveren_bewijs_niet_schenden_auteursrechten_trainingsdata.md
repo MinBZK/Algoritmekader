@@ -26,8 +26,8 @@ Maak het al dan niet kunnen leveren van bewijs door een aanbieder dat auteursrec
 Algoritmen en AI worden veelal getraind aan de hand van een omvangrijke hoeveelheid data.
 Op basis van de data wordt het algoritme of AI getraind om, op een later moment, de (door de eindgebruiker gewenste) uitkomsten te kunnen genereren.
 
-Wanneer grote hoeveelheden data, bijvoorbeeld door deze te scrapen van internet worden gebruikt voor de training van algoritmen of AI, is het zeer aannemelijk (of: nagenoeg zeker) dat zich onder de gescrapete inhoud (ook) veel auteursrechtelijk beschermde werken bevinden, zoals bijvoorbeeld e-books en fotos.
-De gebruikte auteursrechtelijke werken kunnen soms bijvoorbeeld uit illegale bron verkregen zijn, en ook los daarvan zijn rechthebbenden veelal niet op de hoogte van het feit dat hun auteursrechtelijke werken voor de ontwikkeling van een algoritme of AI.
+Wanneer grote hoeveelheden data, bijvoorbeeld door deze te scrapen van internet, worden gebruikt voor de training van algoritmen of AI, is het zeer aannemelijk (of: nagenoeg zeker) dat zich onder de gescrapete inhoud (ook) veel auteursrechtelijk beschermde werken bevinden, zoals bijvoorbeeld e-books en afbeeldingen.
+De gebruikte auteursrechtelijke werken kunnen soms bijvoorbeeld uit illegale bron verkregen zijn, en ook los daarvan zijn rechthebbenden veelal niet op de hoogte van het feit dat hun auteursrechtelijke werken voor de ontwikkeling van een algoritme of AI gebruikt worden.
 
 
 Onder auteursrechtjuristen wordt aangenomen dat het gebruik van auteursrechtelijke beschermde werken ter training van algoritme of AI (waarschijnlijk) een verveelvoudigingshandeling is die de rechthebbende kan verbieden.

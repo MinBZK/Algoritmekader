@@ -25,7 +25,7 @@ Maak het al dan niet kunnen leveren van bewijs door een aanbieder dat auteursrec
 
 ## Toelichting
 
-Laat de aanbieder(s) uitleggen en (aantoonbaar) onderbouwen of de output van een (potentile) inbreuk maakt op auteursrechten.
+Laat de aanbieder(s) uitleggen en (aantoonbaar) onderbouwen of de output van een algoritme een (potentiële) inbreuk maakt op auteursrechten.
 Maak een jurist onderdeel van de beoordeling hiervan.
 
 

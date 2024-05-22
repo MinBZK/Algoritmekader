@@ -17,11 +17,11 @@ rollen:
 <!-- tags -->
 ## Maatregel
 
-Laat de aanbieder aangeven welke vormen van onderhoud aan het algoritme of AI-systeem onderdeel zijn van de aanbesteding, met name het oppakken van signalen vanuit het gebruik, ongeacht de bron waar het signaal vandaan komt, en de snelheid en mate van reactie (CtR/CtF) en verwerking in het betreffende systeem.
+Laat de aanbieder aangeven welke vormen van onderhoud aan het algoritme of AI-systeem onderdeel zijn van de aanbesteding, met name het oppakken van signalen vanuit het gebruik, ongeacht de bron waar het signaal vandaan komt. Laat hen ook aangeven wat de snelheid en mate van reactie, en verwerking in het betreffende systeem is.
 
 ## Toelichting
 
-Om te zorgen dat bij een probleem met het algoritme of AI systeem, op tijd en correct wordt gehandeld, is het van belang dat duidelijk is welke onderhoud wel en niet door de aanbieder wordt verzorgd en op welke termijn (Call to Respond/Call to Fix).
+Om te zorgen dat bij een probleem met het algoritme of AI systeem, op tijd en correct wordt gehandeld, is het van belang dat duidelijk is welk onderhoud wel en niet door de aanbieder wordt verzorgd en op welke termijn.
 
 
 ## Bijbehorende vereiste(n)

@@ -1,6 +1,6 @@
 ---
 title: Pas maatregelen toe om (persoons)gegevens te beschermen
-toelichting: Pas maatregelen als dataminimalisatie, pseudonimisering, anonimisering of aggregeren van persoonsgegevens toe bij het verwerken van de (trainings)data. 
+toelichting: Pas maatregelen toe als dataminimalisatie, pseudonimisering, anonimisering of aggregeren van persoonsgegevens bij het verwerken van de (trainings)data. 
 vereiste:
 - beveiliging_van_verwerking
 levenscyclus:
@@ -21,7 +21,7 @@ rollen:
 <!-- tags -->
 ## Maatregel
 
-Pas maatregelen als dataminimalisatie, pseudonimisering, anonimisering of aggregeren van persoonsgegevens toe bij het verwerken van de (trainings)data.
+Pas maatregelen toe als dataminimalisatie, pseudonimisering, anonimisering of aggregeren van persoonsgegevens bij het verwerken van de (trainings)data.
 
 
 ## Toelichting

@@ -30,7 +30,7 @@ Dit kan aanvullend als specialis op bijvoorbeeld voorwaarden die in de ARBIT of 
 
 
 Het is moeilijk om te bepalen wanneer en of de output van een algoritme of AI een inbreuk maakt op auteursrechten.
-Redenen hiervoor is dat onduidelijk is of de uiteindelijk gegenereerde output naar auteursrechtelijke maatstaven (of in andere gevallen: naar maatstaven van andere intellectuele-eigendomsrechten, zoals databankenrechten, merkrechten of modelrechten) voldoende afstand houdt van (onder andere) de originele werken die ooit aan de training van de generatieve AI-tool ten grondslag hebben gelegen.
+Reden hiervoor is dat onduidelijk is of de uiteindelijk gegenereerde output naar auteursrechtelijke maatstaven (of in andere gevallen: naar maatstaven van andere intellectuele-eigendomsrechten, zoals databankenrechten, merkrechten of modelrechten) voldoende afstand houdt van (onder andere) de originele werken die ooit aan de training van de generatieve AI-tool ten grondslag hebben gelegen.
 Is dat niet het geval, dan kan bij veel vormen van gebruik van de output immers sprake zijn van een inbreuk op intellectuele eigendomsrechten.
 
 ## Bijbehorende vereiste(n)

@@ -22,10 +22,10 @@ Bespreek met het projectteam welke onderdelen van de technische documentatie, al
 
 ## Toelichting
 
-Bij publieke inkoop is het nodig duidelijke afspraken te hebben voor wie dit document invult en welke informatie bij welke partij vandaan komt.
-De aanbieder zal een belangrijk deel van de technische documentatie moeten aanleveren, maar bij gebruik door de gebruiksverantwoordelijkheden zal deze informatie moeten worden aangevuld.
+Bij publieke inkoop is het nodig duidelijke afspraken te hebben over wie dit document invult en welke informatie bij welke partij vandaan komt.
+De aanbieder zal een belangrijk deel van de technische documentatie moeten aanleveren, maar bij gebruik door de gebruiksverantwoordelijken zal deze informatie moeten worden aangevuld.
 
-Hierbij is het van belang dat de documentatie aansluit bij de verschillende gebruikers van het systeem, en waarbij rekening wordt gehouden met verschillende toepassingen of versies.
+Hierbij is het van belang dat de documentatie aansluit bij de verschillende gebruikers van het systeem, waarbij rekening wordt gehouden met verschillende toepassingen of versies.
 
 ## Bijbehorende vereiste(n)
 

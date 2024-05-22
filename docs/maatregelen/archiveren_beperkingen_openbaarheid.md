@@ -24,7 +24,7 @@ Stel vast of beperkingen aan openbaarheid van de archiefbescheiden moeten worden
 
 Er zijn gevallen waarbij het openbaren van archiefbescheiden is uitgesloten.
 Overleg hierover met de verantwoordelijke binnen de organisatie voor het toepassen van de Archiefwet.
-Stem in het begin van het proces (pro-actief) met opdrachtgever af wat de wenselijkheid is t.a.v.
+Stem in het begin van het proces (pro-actief) met de opdrachtgever af wat de wenselijkheid is t.a.v.
 transparantie/openheid (uitgangspunt zou 'open, tenzij' moeten zijn).
 
 ## Bijbehorende vereiste(n)

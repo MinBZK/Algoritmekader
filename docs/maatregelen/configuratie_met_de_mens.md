@@ -29,11 +29,16 @@ bouwblok:
 -	Gebruik duidelijke werkinstructies en protocollen om te voorkomen dat beslissingen, gebaseerd op de output van het systeem, door (automation) bias worden beïnvloed.
 -	Stel een structuur op voor het melden van mogelijke problemen met het systeem.
 -	Opleiding van medewerkers over:
--	AI en algoritmes;
--	het systeem waarmee ze gaan werken;
--	de rol van het systeem in hun werkwijze;
--	de risico's die aan het gebruik van een systeem verbonden zijn (bijv. (automation) bias, false positives/negatives);
--	de maatregelen die genomen zijn om deze risico’s te beperken (bijv. Willekeurige of fictieve casussen, transparantie over de output).
+	-	AI en algoritmes;
+
+	-	het systeem waarmee ze gaan werken;
+
+	-	de rol van het systeem in hun werkwijze;
+
+	-	de risico's die aan het gebruik van een systeem verbonden zijn (bijv. (automation) bias, false positives/negatives);
+
+	-	de maatregelen die genomen zijn om deze risico’s te beperken (bijv. Willekeurige of fictieve casussen, transparantie over de output).
+
 -	Bespreek regelmatig de uitdagingen die medewerkers ondervinden bij het werken met het systeem (bijv. tijdsdruk).
 -	Documenteer alle keuzes en de onderliggende redenen/afwegingen rondom  menselijke tussenkomst en overzicht, bijvoorbeeld in een Algoritme Impact Assessment. Evalueer en pas gemaakte keuzes waar nodig aan.
 

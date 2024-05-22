@@ -23,7 +23,7 @@ Stel vast hoe de archiefbescheiden op een duurzame wijze toegankelijk kunnen wor
 
 Het moet mogelijk zijn dat de archiefbescheiden daadwerkelijk overhandigd kunnen worden aan betrokken partijen.
 Denk hierbij aan burgers, onderneming, toezichthouder of rechters.
-Duurzaam betekent hier met behoud van functie en kwaliteit voor langere termijn in tijd.
+Duurzaam betekent hier met behoud van functie en kwaliteit voor langere tijd.
 Onderzoek welke voorziening hiervoor beschikbaar is binnen de organisatie.
 
 

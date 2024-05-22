@@ -25,7 +25,7 @@ Verken of aanbieder maatregelen heeft genomen om te voorkomen dat auteursrechten
 
 ## Toelichting
 
-Als 'open gaten' worden ervaren, dan is het van belang om hierover met de aanbieder in gesprek te gaan, bijvoorbeeld door een marktconsultantie of algemene materie gerelateerde gesprekken.De ARVODI (24.7) en ARBIT (art 8.5 & 8.6) adresseren het schenden van intellectueel eigendom.
+Als 'open gaten' worden ervaren, dan is het van belang om hierover met de aanbieder in gesprek te gaan, bijvoorbeeld door een marktconsultatie of algemene materie gerelateerde gesprekken. De ARVODI (24.7) en ARBIT (art 8.5 & 8.6) adresseren het schenden van intellectueel eigendom.
 
 
 ## Bijbehorende vereiste(n)

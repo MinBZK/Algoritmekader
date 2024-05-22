@@ -25,13 +25,13 @@ Maak de aansprakelijkheidsvoorwaarden die een aanbieder ten aanzien van auteursr
 ## Toelichting
 
 Eindgebruikers kunnen er niet altijd op vertrouwen, en ook niet (eenvoudig) nagaan, of datgene wat zij door middel van een algoritme of AI-systeem laten genereren, inbreuk maakt op rechten van derden.
-Wat de omvang van de kans is dat zij vanwege het gebruik van gegenereerde output aansprakelijk worden gesteld, is in het verlengde daarvan evenmin vast te stellen.
+Hoe groot de kans is dat zij vanwege het gebruik van gegenereerde output aansprakelijk worden gesteld, is in het verlengde daarvan evenmin vast te stellen.
 Er zijn wel voorbeelden waarbij gebruikers voor een eventuele inbreuk aansprakelijk kunnen worden gesteld.
 
 Op dit moment zijn ons (nog) geen gevallen of rechtszaken bekend waarin eindgebruikers (of hun werkgevers) aansprakelijk werden gesteld voor een inbreuk op het intellectuele-eigendomsrecht vanwege het gebruik van op basis van algoritme of AI gegenereerde inhoud.
 Feit is echter wel dat een dergelijke aansprakelijkstelling in voorkomende gevallen dus mogelijk zullen zijn, te meer nu de aanbieders van algoritmen en AI in hun algemene voorwaarden het risico voor aansprakelijkheid (waaronder vanwege inbreuken op intellectuele eigendom) volledig of grotendeels uitsluiten, of zelfs verlangen dat gebruikers hen vrijwaren voor de gevolgen van eventuele aansprakelijkstellingen.
 
-Maak een beoordeling in hoeverre de aansprakelijkheidsvoorwaarden van de aanbier passend worden geacht gezien de toepassing.
+Maak een beoordeling in hoeverre de aansprakelijkheidsvoorwaarden van de aanbieder passend worden geacht gezien de toepassing.
 Maak een jurist onderdeel van de beoordeling hiervan.
 
 

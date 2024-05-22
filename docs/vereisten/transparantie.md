@@ -70,4 +70,9 @@ Onvoldoende transparantie kan leiden tot een gebrek aan begrip over hoe het AI-s
 
 ## Maatregelen 
 
-<!-- list_maatregelen vereiste/transparantie -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/transparantie -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/transparantie boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/transparantie bouwblok/publieke-inkoop -->

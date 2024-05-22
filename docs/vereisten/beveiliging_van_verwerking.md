@@ -76,4 +76,9 @@ Dit kan leiden bijvoorbeeld tot verlies of diefstal van gevoelige gegevens, vers
 
 ## Maatregelen 
 
-<!-- list_maatregelen vereiste/beveiliging_van_verwerking -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/beveiliging_van_verwerking -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/beveiliging_van_verwerking boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/beveiliging_van_verwerking bouwblok/publieke-inkoop -->

@@ -72,4 +72,9 @@ Het nalaten om archiefbescheiden na verloop van tijd te verwijderen brengt risic
 
 ## Maatregelen 
 
-<!-- list_maatregelen vereiste/archiefwet -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/archiefwet -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/archiefwet boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/archiefwet bouwblok/publieke-inkoop -->

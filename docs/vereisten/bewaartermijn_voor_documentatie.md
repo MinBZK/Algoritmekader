@@ -69,4 +69,9 @@ Niet voldoen aan de bewaartermijn kan leiden tot juridische consequenties en kan
 
 ## Maatregelen 
 
-<!-- list_maatregelen vereiste/bewaartermijn_voor_documentatie --> 
+=== "Allen"
+	<!-- list_maatregelen vereiste/bewaartermijn_voor_documentatie -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/bewaartermijn_voor_documentatie boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/bewaartermijn_voor_documentatie bouwblok/publieke-inkoop -->

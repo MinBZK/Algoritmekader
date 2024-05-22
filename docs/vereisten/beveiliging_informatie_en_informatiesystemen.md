@@ -72,4 +72,9 @@ Er kunnen risico's ontstaan zoals ongeautoriseerde toegang, vernietiging, verlie
 
 ## Maatregelen 
 
-<!-- list_maatregelen vereiste/beveiliging_informatie_en_informatiesystemen -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/beveiliging_informatie_en_informatiesystemen -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/beveiliging_informatie_en_informatiesystemen boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/beveiliging_informatie_en_informatiesystemen bouwblok/publieke-inkoop -->

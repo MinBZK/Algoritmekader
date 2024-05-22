@@ -44,4 +44,9 @@ Ontbreken van automatische logregistratie kan leiden tot een gebrek aan transpar
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/automatische_logregistratie -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/automatische_logregistratie -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/automatische_logregistratie boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/automatische_logregistratie bouwblok/publieke-inkoop -->

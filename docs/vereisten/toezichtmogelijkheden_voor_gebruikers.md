@@ -57,4 +57,9 @@ Ontbreken van betekenisvol menselijk toezicht kan leiden tot gebrek aan controle
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/toezichtmogelijkheden_voor_gebruikers -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/toezichtmogelijkheden_voor_gebruikers -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/toezichtmogelijkheden_voor_gebruikers boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/toezichtmogelijkheden_voor_gebruikers bouwblok/publieke-inkoop -->

@@ -50,4 +50,9 @@ Het niet voldoen aan deze verplichtingen kan leiden tot juridische en ethische c
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/Verplichtingen_van_aanbieders_van_ai_modellen_voor_algemene_doeleinden_ -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/Verplichtingen_van_aanbieders_van_ai_modellen_voor_algemene_doeleinden_ -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/Verplichtingen_van_aanbieders_van_ai_modellen_voor_algemene_doeleinden_ boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/Verplichtingen_van_aanbieders_van_ai_modellen_voor_algemene_doeleinden_ bouwblok/publieke-inkoop -->

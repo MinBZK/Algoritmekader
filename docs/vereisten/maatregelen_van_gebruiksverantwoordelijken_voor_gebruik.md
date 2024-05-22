@@ -36,4 +36,9 @@ Het niet naleven van deze maatregelen kan leiden tot onjuist gebruik van de AI-s
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/maatregelen_van_gebruiksverantwoordelijken_voor_gebruik -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/maatregelen_van_gebruiksverantwoordelijken_voor_gebruik -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/maatregelen_van_gebruiksverantwoordelijken_voor_gebruik boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/maatregelen_van_gebruiksverantwoordelijken_voor_gebruik bouwblok/publieke-inkoop -->

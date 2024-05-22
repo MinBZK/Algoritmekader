@@ -40,4 +40,9 @@ Het niet melden van ernstige incidenten kan leiden tot vertraagde reactie op pot
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/melding_ernstige_incidenten -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/melding_ernstige_incidenten -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/melding_ernstige_incidenten boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/melding_ernstige_incidenten bouwblok/publieke-inkoop -->

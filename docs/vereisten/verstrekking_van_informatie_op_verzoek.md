@@ -44,4 +44,9 @@ Weigering om informatie te verstrekken kan leiden tot juridische sancties en kan
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/verstrekking_van_informatie_op_verzoek -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/verstrekking_van_informatie_op_verzoek -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/verstrekking_van_informatie_op_verzoek boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/verstrekking_van_informatie_op_verzoek bouwblok/publieke-inkoop -->

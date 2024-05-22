@@ -49,4 +49,9 @@ Gebrek aan nauwkeurigheid, robuustheid of cyberbeveiliging kan leiden tot onbetr
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/ontwerp_voor_nauwkeurigheid_robuustheid_en_cyberbeveiliging -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/ontwerp_voor_nauwkeurigheid_robuustheid_en_cyberbeveiliging -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/ontwerp_voor_nauwkeurigheid_robuustheid_en_cyberbeveiliging boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/ontwerp_voor_nauwkeurigheid_robuustheid_en_cyberbeveiliging bouwblok/publieke-inkoop -->

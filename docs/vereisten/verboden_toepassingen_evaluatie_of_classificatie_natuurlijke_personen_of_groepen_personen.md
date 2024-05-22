@@ -1,6 +1,6 @@
 ---
 title: Verboden toepassingen bij evaluatie of classificatie van personen of groepen personen 
-toelichting: Het in de handel brengen, het in gebruik stellen of het gebruiken van AI-systemen voor de evaluatie of classificatie van natuurlijke personen of groepen personen gedurende een bepaalde periode op basis van hun sociale gedrag of bekende, afgeleide of voorspelde persoonlijke of persoonlijkheidskenmerken, waarbij de sociale score een of beide van de volgende gevolgen heeft. i) de nadelige of ongunstige behandeling van bepaalde natuurlijke personen of groepen personen in een sociale context die geen verband houdt met de context waarin de data oorspronkelijk werden gegenereerd of verzameld; ii) de nadelige of ongunstige behandeling van bepaalde natuurlijke personen of groepen personen die ongerechtvaardigd of onevenredig met hun sociale gedrag of de ernst hiervan is.
+toelichting: Het in de handel brengen, het in gebruik stellen of het gebruiken van AI-systemen voor de evaluatie of classificatie van natuurlijke personen of groepen personen gedurende een bepaalde periode op basis van hun sociale gedrag of bekende, afgeleide of voorspelde persoonlijke of persoonlijkheidskenmerken, waarbij de sociale score een of beide van de volgende gevolgen heeft; i) de nadelige of ongunstige behandeling van bepaalde natuurlijke personen of groepen personen in een sociale context die geen verband houdt met de context waarin de data oorspronkelijk werden gegenereerd of verzameld; ii) de nadelige of ongunstige behandeling van bepaalde natuurlijke personen of groepen personen die ongerechtvaardigd of onevenredig met hun sociale gedrag of de ernst hiervan is.
 status_vereiste:
 - nog-niet-geldend
 levenscyclus:
@@ -26,9 +26,7 @@ gedurende een bepaalde periode op basis van hun sociale gedrag of bekende,
 afgeleide of voorspelde persoonlijke of persoonlijkheidskenmerken, waarbij de
 sociale score een of beide van de volgende gevolgen heeft:
 
-1. de nadelige of ongunstige behandeling van bepaalde natuurlijke personen of
-groepen personen in een sociale context die geen verband houdt met de context
-waarin de data oorspronkelijk werden gegenereerd of verzameld;
+1. de nadelige of ongunstige behandeling van bepaalde natuurlijke personen of groepen personen in een sociale context die geen verband houdt met de context waarin de data oorspronkelijk werden gegenereerd of verzameld;
 
 2. de nadelige of ongunstige behandeling van bepaalde natuurlijke personen of
 groepen personen die ongerechtvaardigd of onevenredig met hun sociale
@@ -60,4 +58,9 @@ Het risico ontstaat dat personen of bepaalde groepen worden gediscrimineerd en u
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/verboden_toepassingen_evaluatie_of_classificatie_natuurlijke_personen_of_groepen_personen -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/verboden_toepassingen_evaluatie_of_classificatie_natuurlijke_personen_of_groepen_personen -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/verboden_toepassingen_evaluatie_of_classificatie_natuurlijke_personen_of_groepen_personen boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/verboden_toepassingen_evaluatie_of_classificatie_natuurlijke_personen_of_groepen_personen bouwblok/publieke-inkoop -->

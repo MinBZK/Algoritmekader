@@ -42,4 +42,9 @@ Het niet of onvoldoende bewaren van logs kan het vermogen belemmeren om incident
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/bewaartermijn_voor_gegenereerde_logs -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/bewaartermijn_voor_gegenereerde_logs -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/bewaartermijn_voor_gegenereerde_logs boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/bewaartermijn_voor_gegenereerde_logs bouwblok/publieke-inkoop -->

@@ -44,4 +44,9 @@ Zonder monitoring door gebruiksverantwoordelijken en (waar nodig) het informeren
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_monitoren_werking_ hoog_risico_AI-systeem -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_monitoren_werking_ hoog_risico_AI-systeem -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_monitoren_werking_ hoog_risico_AI-systeem boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_monitoren_werking_ hoog_risico_AI-systeem bouwblok/publieke-inkoop -->

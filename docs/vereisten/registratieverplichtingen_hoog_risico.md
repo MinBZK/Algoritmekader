@@ -42,4 +42,9 @@ Niet naleven van deze verplichtingen kan leiden tot juridische en operationele p
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/registratieverplichtingen_hoog_risico -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/registratieverplichtingen_hoog_risico -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/registratieverplichtingen_hoog_risico boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/registratieverplichtingen_hoog_risico bouwblok/publieke-inkoop -->

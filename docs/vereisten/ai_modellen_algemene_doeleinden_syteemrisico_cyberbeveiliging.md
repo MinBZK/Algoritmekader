@@ -43,4 +43,9 @@ Niet voldoen aan deze verplichtingen kan leiden tot risico's op veiligheidsincid
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/ai_modellen_algemene_doeleinden_syteemrisico_cyberbeveiliging -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/ai_modellen_algemene_doeleinden_syteemrisico_cyberbeveiliging -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/ai_modellen_algemene_doeleinden_syteemrisico_cyberbeveiliging boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/ai_modellen_algemene_doeleinden_syteemrisico_cyberbeveiliging bouwblok/publieke-inkoop -->

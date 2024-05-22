@@ -43,4 +43,9 @@ Gebrek aan transparantie en verantwoording bij risicobeoordeling kan leiden tot 
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/documentatie_beoordeling_niet_hoog_risico_ai -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/documentatie_beoordeling_niet_hoog_risico_ai -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/documentatie_beoordeling_niet_hoog_risico_ai boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/documentatie_beoordeling_niet_hoog_risico_ai bouwblok/publieke-inkoop -->

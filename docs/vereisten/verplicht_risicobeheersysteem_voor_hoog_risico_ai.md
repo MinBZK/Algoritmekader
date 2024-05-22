@@ -50,4 +50,9 @@ Het ontbreken van risicobeheer kan leiden tot schade aan gebruikers of derden en
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/verplicht_risicobeheersysteem_voor_hoog_risico_ai -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/verplicht_risicobeheersysteem_voor_hoog_risico_ai -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/verplicht_risicobeheersysteem_voor_hoog_risico_ai boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/verplicht_risicobeheersysteem_voor_hoog_risico_ai bouwblok/publieke-inkoop -->

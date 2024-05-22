@@ -36,4 +36,9 @@ Gebrek aan klachtrecht verhindert het AI-bureau om tijdig en zorgvuldig te kunne
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/recht_klacht_indienen_bij_ai_bureau -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/recht_klacht_indienen_bij_ai_bureau -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/recht_klacht_indienen_bij_ai_bureau boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/recht_klacht_indienen_bij_ai_bureau bouwblok/publieke-inkoop -->

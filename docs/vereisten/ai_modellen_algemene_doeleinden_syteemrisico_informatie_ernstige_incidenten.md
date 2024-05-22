@@ -40,4 +40,9 @@ Niet voldoen aan deze verplichtingen kan leiden tot risico's op veiligheidsincid
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/ai_modellen_algemene_doeleinden_syteemrisico_informatie_ernstige_incidenten -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/ai_modellen_algemene_doeleinden_syteemrisico_informatie_ernstige_incidenten -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/ai_modellen_algemene_doeleinden_syteemrisico_informatie_ernstige_incidenten boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/ai_modellen_algemene_doeleinden_syteemrisico_informatie_ernstige_incidenten bouwblok/publieke-inkoop -->

@@ -40,4 +40,9 @@ Het kan leiden tot juridische procedures en reputatieschade voor organisaties.
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/corrigerende_maatregelen_voor_non_conforme_ai -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/corrigerende_maatregelen_voor_non_conforme_ai -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/corrigerende_maatregelen_voor_non_conforme_ai boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/corrigerende_maatregelen_voor_non_conforme_ai bouwblok/publieke-inkoop -->

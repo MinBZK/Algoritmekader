@@ -44,4 +44,9 @@ Als gebruiksverantwoordelijke geen duidelijke, inhoudelijke toelichting geeft ov
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/Recht_of_uitleg_AI-besluiten -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/Recht_of_uitleg_AI-besluiten -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/Recht_of_uitleg_AI-besluiten boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/Recht_of_uitleg_AI-besluiten bouwblok/publieke-inkoop -->

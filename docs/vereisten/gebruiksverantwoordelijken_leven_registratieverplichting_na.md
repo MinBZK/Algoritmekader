@@ -1,6 +1,7 @@
 ---
 title: Gebruiksverantwoordelijken, zijnde overheidsinstanties of instellingen, organen of instanties van de Unie, leven de registratieverplichting na als het gaat om een hoog risico AI-systeem
-toelichting: Gebruiksverantwoordelijken van AI-systemen met een hoog risico die de hoedanigheid van overheidsinstanties of instellingen, organen of instanties van de Unie hebben, leven de in artikel 49 bedoelde registratieverplichtingen na. Wanneer deze gebruiksverantwoordelijke vaststellen dat het AI-systeem met een hoog risico dat zij voornemens zijn te gebruiken niet in de in artikel 71 bedoelde EU-databank is geregistreerd, gebruiken zij dat systeem niet en stellen zij de aanbieder of de distributeur daarvan in kennis.
+toelichting: Gebruiksverantwoordelijken van AI-systemen met een hoog risico die de hoedanigheid van overheidsinstanties of instellingen, organen of instanties van de Unie hebben, leven de in artikel 49 bedoelde registratieverplichtingen na. Wanneer deze gebruiksverantwoordelijke vaststellen dat het AI-systeem met een hoog risico dat zij voornemens zijn te gebruiken niet in de in artikel 71 bedoelde EU-databank is
+geregistreerd, gebruiken zij dat systeem niet en stellen zij de aanbieder of de distributeur daarvan in kennis.
 status_vereiste:
 - nog-niet-geldend
 levenscyclus:
@@ -48,4 +49,9 @@ Zonder registratie van het hoge risico AI-systeem en het registreren welke organ
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_leven_registratieverplichting_na -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_leven_registratieverplichting_na -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_leven_registratieverplichting_na boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_leven_registratieverplichting_na bouwblok/publieke-inkoop -->

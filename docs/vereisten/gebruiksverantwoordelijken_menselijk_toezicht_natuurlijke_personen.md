@@ -38,4 +38,9 @@ Als de natuurlijke toezichthouder geen effectief toezicht kan houden op het hoog
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_menselijk_toezicht_natuurlijke_personen -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_menselijk_toezicht_natuurlijke_personen -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_menselijk_toezicht_natuurlijke_personen boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_menselijk_toezicht_natuurlijke_personen bouwblok/publieke-inkoop -->

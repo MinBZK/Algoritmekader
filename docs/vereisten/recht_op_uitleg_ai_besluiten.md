@@ -43,4 +43,9 @@ Gebrek aan een veilige omgeving kan ertoe leiden dat klokkenluiders geen melding
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/recht_op_uitleg_ai_besluiten -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/recht_op_uitleg_ai_besluiten -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/recht_op_uitleg_ai_besluiten boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/recht_op_uitleg_ai_besluiten bouwblok/publieke-inkoop -->

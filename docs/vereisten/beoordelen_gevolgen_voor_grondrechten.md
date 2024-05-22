@@ -42,4 +42,9 @@ Het niet uitvoeren van deze beoordeling kan leiden tot schendingen van de grondr
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/beoordelen_gevolgen_voor_grondrechten -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/beoordelen_gevolgen_voor_grondrechten -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/beoordelen_gevolgen_voor_grondrechten boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/beoordelen_gevolgen_voor_grondrechten bouwblok/publieke-inkoop -->

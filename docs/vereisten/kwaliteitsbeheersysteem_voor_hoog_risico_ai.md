@@ -47,4 +47,9 @@ Zonder toepassing van een kwaliteitsbeheersysteem kunnen risico's ontstaan voor 
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/kwaliteitsbeheersysteem_voor_hoog_risico_ai -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/kwaliteitsbeheersysteem_voor_hoog_risico_ai -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/kwaliteitsbeheersysteem_voor_hoog_risico_ai boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/kwaliteitsbeheersysteem_voor_hoog_risico_ai bouwblok/publieke-inkoop -->

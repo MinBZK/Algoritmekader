@@ -46,4 +46,9 @@ Een aanbieder kan niet nagaan of een AI-systeem blijvend voldoet aan voorschrift
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/monitoring_na_het_in_de_handel_brengen -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/monitoring_na_het_in_de_handel_brengen -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/monitoring_na_het_in_de_handel_brengen boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/monitoring_na_het_in_de_handel_brengen bouwblok/publieke-inkoop -->

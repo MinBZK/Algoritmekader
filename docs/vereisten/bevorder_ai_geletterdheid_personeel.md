@@ -69,4 +69,9 @@ Dit kan leiden tot inefficiëntie, fouten, en mogelijk schade aan organisaties, 
 
 ## Maatregelen 
 
-<!-- list_maatregelen vereiste/bevorder_ai_geletterdheid_personeel -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/bevorder_ai_geletterdheid_personeel -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/bevorder_ai_geletterdheid_personeel boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/bevorder_ai_geletterdheid_personeel bouwblok/publieke-inkoop -->

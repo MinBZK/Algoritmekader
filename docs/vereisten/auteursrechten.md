@@ -73,4 +73,9 @@ Bovendien kan het niet naleven van het auteursrecht het vertrouwen van gebruiker
 
 ## Maatregelen 
 
-<!-- list_maatregelen vereiste/auteursrechten -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/auteursrechten -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/auteursrechten boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/auteursrechten bouwblok/publieke-inkoop -->

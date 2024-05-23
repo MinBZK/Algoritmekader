@@ -74,4 +74,9 @@ Hierdoor kunnen ongewenste gevolgen ontstaan zoals een onjuist of onzorgvuldig g
 
 ## Maatregelen 
 
-<!-- list_maatregelen vereiste/zorgvuldigheidsbeginsel -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/zorgvuldigheidsbeginsel -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/zorgvuldigheidsbeginsel boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/zorgvuldigheidsbeginsel bouwblok/publieke-inkoop -->

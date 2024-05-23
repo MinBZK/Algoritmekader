@@ -16,7 +16,9 @@ from re import Match
 
 # @todo
 def on_env(env, config: MkDocsConfig, files: Files):
-    def replace(match: Match):
+
+    # function to create list of vereisten
+    def replace_vereisten(match: Match):
         type = match.groups()[0]
         types = re.split(r"\s+", type)
         type_value_bundle = [y.split("/") for y in types]
@@ -51,16 +53,94 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 "</table>",
             ]
         )
+    
+    # function to create list of maatregelen
+    def replace_maatregelen(match: Match):
+        type = match.groups()[0]
+        types = re.split(r"\s+", type)
+        type_value_bundle = [y.split("/") for y in types]
 
+        list: List[File] = []
+        for file in files:
+            if not file.src_path.startswith("maatregelen/"):
+                continue
+
+            if not file.src_path.endswith(".md"):
+                continue
+
+            if all(
+                value in file.page.meta.get(type, [])
+                for type, value in type_value_bundle
+            ):
+                
+                list.append(file)
+
+        return "".join(
+            [
+                "<table>",
+                "<thead>",
+                "<tr>",
+                '<th role="columnheader"><strong>Maatregel</strong></th>',
+                '<th role="columnheader"><strong>Uitleg</strong></th>',
+                "</tr>",
+                "</thead>",
+                "<tbody>",
+                *([_create_table_row(item) for item in list]),
+                "</tbody>",
+                "</table>",
+            ]
+        )
+
+    # function to create list of vereisten on maatregelen page
+    def replace_vereisten_on_maatregelen_page(match: Match):
+
+        list_of_vereisten = file.page.meta.get('vereiste', '')
+
+        list: List[File] = []
+        for new_files in files:
+            if not new_files.src_path.startswith("vereisten/"):
+                continue
+
+            if not new_files.src_path.endswith(".md"):
+                continue
+
+            if new_files.name in list_of_vereisten:
+                list.append(new_files)
+
+        return "".join(
+            [
+                "<table>",
+                "<thead>",
+                "<tr>",
+                '<th role="columnheader"><strong>Vereiste</strong></th>',
+                '<th role="columnheader"><strong>Uitleg</strong></th>',
+                "</tr>",
+                "</thead>",
+                "<tbody>",
+                *([_create_table_row(item) for item in list]),
+                "</tbody>",
+                "</table>",
+            ]
+        )
+    
     for file in files:
         if not file.src_path.endswith(".md"):
             continue
         
-        # Find and replace all external asset URLs in current page
+        # Find and replace all strings in current page to list of vereisten
         file.page.content = re.sub(
-            r"<!-- list_vereisten (.*?) -->", replace, file.page.content, flags=re.I | re.M
+            r"<!-- list_vereisten (.*?) -->", replace_vereisten, file.page.content, flags=re.I | re.M
         )
 
+        # Find and replace all strings in current page to list of maatregelen
+        file.page.content = re.sub(
+            r"<!-- list_maatregelen (.*?) -->", replace_maatregelen, file.page.content, flags=re.I | re.M
+        )
+
+        # Find and replace all strings in current page to list of vereisten on maatregelen page
+        file.page.content = re.sub(
+            r"<!-- list_vereisten_on_maatregelen_page -->", replace_vereisten_on_maatregelen_page, file.page.content, flags=re.I | re.M
+        )
 
 def _create_table_row(file: File):
 
@@ -78,10 +158,3 @@ def _resolve(dest_path: str):
     path = posixpath.relpath(dest_path)
     return "/" + posixpath.sep.join(path.split(posixpath.sep)[:-1])
 
-
-# def _icon_true():
-#     return '<span class="twemoji" style="color: #4DB6AC"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m9 20.42-6.21-6.21 2.83-2.83L9 14.77l9.88-9.89 2.83 2.83L9 20.42Z"></path></svg></span>'
-
-
-# def _icon_false():
-#     return '<span class="twemoji" style="color: #EF5350"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"></path></svg></span>'

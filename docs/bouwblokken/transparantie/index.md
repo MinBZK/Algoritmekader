@@ -6,7 +6,8 @@ icon: material/magnify
 
 ![transparantie](../../afbeeldingen/bouwblokken/transparantie.jpg "visuele weergave transparantie"){align="right"; width="50%"}
 
-Om openheid te bieden en controleerbaarheid te zijn moeten overheidsinstanties transparant zijn over inzet van algoritmen en AI. 
+Om openheid te bieden en controleerbaarheid te zijn moeten overheidsinstanties transparant zijn over inzet van algoritmen en AI-systemen. 
+
 Het is van belang dat overheden nadenken over hun besluitvormingsprocessen en dat zij de werking en toegevoegde waarde van het inzetten van een algoritme kunnen uitleggen.
 Dit is bijzonder relevant als een algoritme of AI-systeem impact heeft en besluiten maakt of de totstandkoming van besluitvorming die burgers raken ondersteunt.  
 

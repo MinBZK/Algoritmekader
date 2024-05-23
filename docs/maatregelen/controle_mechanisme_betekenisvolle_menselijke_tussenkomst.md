@@ -2,7 +2,7 @@
 title: Controle mechanisme voor betekenisvolle menselijke tussenkomst bij gebruiken output 
 toelichting: Zorg voor een controle mechanisme waarmee kan worden voorkomen dat gebruikers belangrijke output van algoritmen en AI-systemen, zonder betekenisvolle menselijke tussenkomst, bv. enkel met doorklikken, kunnen overnemen.  
 vereiste:
-- recht_op_niet_geautomatiseerde_besluitvorming
+- recht_op_niet_geautomatiseerd_besluitvorming
 levenscyclus:
 - ontwikkelen
 - monitoring-en-beheer

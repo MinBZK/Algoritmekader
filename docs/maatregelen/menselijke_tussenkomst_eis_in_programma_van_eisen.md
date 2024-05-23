@@ -2,7 +2,7 @@
 title: Menselijke tussenkomst is een vast onderdeel van het Programma van Eisen bij aanbestedingen
 toelichting: Neem menselijke tussenkomst op als standaard eis in het Programma van Eisen. 
 vereiste:
-- recht_op_niet_geautomatiseerde_besluitvorming
+- recht_op_niet_geautomatiseerd_besluitvorming
 levenscyclus:
 - ontwikkelen
 - monitoring-en-beheer

@@ -21,6 +21,7 @@ Bovendien is belangrijk dat beslissingen niet worden ervaren als ‘black box’
 
 ## Het Algoritmekader
 Waardengedreven met algoritmes en AI werken, betekent dat er aandacht moet zijn voor zaken als:
+
 1. rollen en verantwoordelijkheden (governance);
 2. risico’s op bias/discriminatie vroegtijdig detecteren;
 3. het veilig kunnen verweken van gegevens;

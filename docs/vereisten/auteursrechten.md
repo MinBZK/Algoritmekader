@@ -2,7 +2,7 @@
 title: Auteursrechten mogen niet worden geschonden
 toelichting: Bepaalde vormen van algoritmes en AI worden ontwikkeld op basis van grote hoeveelheden data. Deze data wordt gebruikt voor het trainen en testen van algoritmes en AI. Het gebruiken van deze data mag geen inbreuk maken op Auteursrechten van diegene die deze rechten heeft. Ook de gegenereerde output van algoritmes en AI mag geen inbreuk maken op deze rechten. 
 status_vereiste: 
- - Geldend
+ - geldend
 levenscyclus: 
 - dataverkenning-en-datapreparatie
 - ontwerp
@@ -39,12 +39,12 @@ Ook de gegenereerde output van algoritmes en AI mag geen inbreuk maken op deze r
 
 | Bron                        |
 |-----------------------------|
-|Artikel 1 Auteurswet|
-|Artikel 4-9 Auteurswet|
-|Artikel 10 Auteurswet|
-|Artikel 13 Auteurswet|
-|Artikel 15n jo. 15o Auteurswet|
-|Artikel 3 en 4 van de DSM-richtlijn (EU 2019/790)|
+|[Artikel 1 Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=1&artikel=1&z=2022-10-01&g=2022-10-01) |
+|[Artikel 4-9 Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=2&z=2022-10-01&g=2022-10-01) |
+|[Artikel 10 Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2022-10-01&g=2022-10-01) |
+|[Artikel 13 Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=5&artikel=13&z=2022-10-01&g=2022-10-01) |
+|[Artikel 15n jo. 15o Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15n&z=2022-10-01&g=2022-10-01)|
+|[Artikel 3 en 4 van de DSM-richtlijn (EU 2019/790)](https://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=CELEX:32019L0790&from=PL)|
 
 ## Wanneer van toepassing? 
 
@@ -70,12 +70,12 @@ Ook de gegenereerde output van algoritmes en AI mag geen inbreuk maken op deze r
 
 Het niet voldoen aan het auteursrecht in AI-systemen en algoritmes kan leiden tot onrechtmatig gebruik van auteursrechtelijk beschermde inhoud, wat kan resulteren in mogelijke juridische geschillen, boetes en schadevergoedingen voor inbreuk op het auteursrecht.
 Bovendien kan het niet naleven van het auteursrecht het vertrouwen van gebruikers en belanghebbenden ondermijnen, wat kan leiden tot reputatieschade en gebrek aan vertrouwen.
-  
-
-## Normen 
-
-In afwachting van het standaardisatieproces. 
 
 ## Maatregelen 
 
-Hier komt een lijst met relevante maatregelen om te voldoen aan dit vereiste. 
+=== "Allen"
+	<!-- list_maatregelen vereiste/auteursrechten -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/auteursrechten boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/auteursrechten bouwblok/publieke-inkoop -->

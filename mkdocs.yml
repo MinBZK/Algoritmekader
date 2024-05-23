@@ -35,21 +35,22 @@ nav:
     - Over het algoritmekader: 
         - overhetalgoritmekader/index.md
         - overhetalgoritmekader/definities.md
+        - overhetalgoritmekader/CONTRIBUTING.md
     - Levenscyclus:
         - levenscyclus/index.md 
         - levenscyclus/probleemanalyse.md
         - levenscyclus/ontwerp.md
         - levenscyclus/dataverkenning-en-datapreparatie.md
         - levenscyclus/ontwikkelen.md
-        - levenscyclus/validatie.md
+        - levenscyclus/verificatie-en-validatie.md
         - levenscyclus/implementatie.md
-        - levenscyclus/monitoren.md
-        - levenscyclus/archiveren.md
+        - levenscyclus/monitoring-en-beheer.md
+        - levenscyclus/uitfaseren.md
     - Bouwblokken:
         - bouwblokken/index.md
         - ... | bouwblokken/*/*.md
     - Rollen:
-        - rollen/index.md
+        - ... | rollen/*.md
     - Vereisten:
         - ... | vereisten/*.md
     - Maatregelen:

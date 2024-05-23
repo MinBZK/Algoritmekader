@@ -1,16 +1,17 @@
 ---
-title: Een geb/dpia is verplicht bij hoog risico
-toelichting: Een Gegevensbeschermingseffectbeoordeling (GEB) of Data Protection Impact Assessment (DPIA) is verplicht wanneer de verwerking van persoonsgegevens waarschijnlijk een hoog risico met zich meebrengt voor de rechten en vrijheden van natuurlijke personen. Deze beoordeling identificeert en beperkt potentiële risico's en zorgt ervoor dat passende maatregelen worden genomen om de privacy van individuen te beschermen. Deze verplichting draagt bij aan een zorgvuldige en verantwoorde omgang met persoonsgegevens in AI-systemen en algoritmes, waardoor de privacy van individuen wordt gewaarborgd.
-
+title: Een DPIA is verplicht bij hoog risico
+toelichting: Een Data Protection Impact Assessment (DPIA) is verplicht, indien een verwerking van persoonsgegevens waarschijnlijk een hoog risico inhoudt voor de rechten en vrijheden van natuurlijke personen. Deze beoordeling identificeert en beperkt potentiële risico's en zorgt ervoor dat passende maatregelen worden genomen om de privacy van individuen te beschermen. Deze verplichting draagt bij aan een zorgvuldige en verantwoorde omgang met persoonsgegevens in AI-systemen en algoritmes, waardoor de privacy van individuen wordt gewaarborgd.
 status_vereiste: 
- - Geldend
+ - geldend
 levenscyclus: 
 - ontwerp
 - dataverkenning-en-datapreparatie
 - ontwikkelen
-- validatie
+- verificatie-en-validatie
 bouwblok: 
 - privacy-en-gegevensbescherming
+rollen:
+- privacy-officer
 rekenregels: 
 - niet-impactvol: Nee
 - impactvol: Ja
@@ -25,22 +26,25 @@ generatieve-ai:
 ---
 
 <!-- tags -->
+
 ## Vereiste
 
 Een gegevensbeschermingseffectbeoordeling (DPIA) is verplicht, indien een verwerking van persoonsgegevens waarschijnlijk een hoog risico inhoudt voor de rechten en vrijheden van natuurlijke personen.
 
 ## Toelichting 
 
-Een Gegevensbeschermingseffectbeoordeling (GEB) of Data Protection Impact Assessment (DPIA) is verplicht wanneer de verwerking van persoonsgegevens waarschijnlijk een hoog risico met zich meebrengt voor de rechten en vrijheden van natuurlijke personen.
-Deze beoordeling identificeert en beperkt potentiële risico's en zorgt ervoor dat passende maatregelen worden genomen om de privacy van individuen te beschermen.
+Een Gegevensbeschermingseffectbeoordeling (GEB) of Data Protection Impact Assessment (DPIA) is verplicht wanneer de verwerking van persoonsgegevens waarschijnlijk een hoog risico met zich meebrengt voor de rechten en vrijheden van natuurlijke personen. 
+Deze beoordeling identificeert en beperkt potentiële risico's en zorgt ervoor dat passende maatregelen worden genomen om de privacy van individuen te beschermen. 
 Deze verplichting draagt bij aan een zorgvuldige en verantwoorde omgang met persoonsgegevens in AI-systemen en algoritmes, waardoor de privacy van individuen wordt gewaarborgd.
 
+Gebruiksverantwoordelijken van AI-systemen met een hoog risico gebruiken die informatie op grond van artikel 13 AI Verordening om hun verplichting na te komen om een gegevensbeschermingseffectbeoordeling uit te voeren. 
 
 ## Bronnen 
 
 | Bron                        |
 |-----------------------------|
-|Artikel 35 AVG|
+|[Artikel 35 Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679) |
+|[Artikel 26(9) Verordening Artificiële Intelligentie](https://www.europarl.europa.eu/doceo/document/TA-9-2024-0138-FNL-COR01_NL.pdf) |
 
 ## Wanneer van toepassing? 
 
@@ -67,10 +71,11 @@ Deze verplichting draagt bij aan een zorgvuldige en verantwoorde omgang met pers
 Het niet evalueren van de impact van het verwerking van persoonsgegevens in AI-systemen en algoritmes kan resulteren in het niet onderkennen van de bijbehorende risico's  en het niet op tijd te mitigieren van deze risico's.
 Dit kan leiden tot potentiële schendingen van de rechten en vrijheden van betrokkenen.
 
-## Normen 
-
-In afwachting van het standaardisatieproces. 
-
 ## Maatregelen 
 
-Hier komt een lijst met relevante maatregelen om te voldoen aan dit vereiste. 
+=== "Allen"
+	<!-- list_maatregelen vereiste/dpia_verplicht_bij_hoog_risico -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/dpia_verplicht_bij_hoog_risico boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/dpia_verplicht_bij_hoog_risico bouwblok/publieke-inkoop -->

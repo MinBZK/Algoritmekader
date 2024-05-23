@@ -1,14 +1,14 @@
 ---
-title: Transparantie in ontwerp voor hoog-risico ai
+title: Transparantie in ontwerp voor hoog-risico AI
 toelichting: AI-systemen met een hoog risico worden ontworpen en ontwikkeld met een hoge mate van transparantie, zodat gebruikers de output van het systeem kunnen begrijpen en correct kunnen gebruiken. Dit zorgt ervoor dat de aanbieders en gebruikers kunnen voldoen aan de verplichtingen zoals uiteengezet in de relevante regelgeving, waardoor de betrouwbaarheid en verantwoordelijkheid van het gebruik van deze systemen worden verzekerd. In artikel 13 lid 3 is een overzicht gegeven van de informatie die gebruikersinstructies tenminste moeten bevatten. 
 status_vereiste: 
- - Nog niet geldend
+ - nog-niet-geldend
 levenscyclus: 
 - ontwerp
 - ontwikkelen
-- validatie
+- verificatie-en-validatie
 - implementatie
-- monitoren
+- monitoring-en-beheer
 bouwblok: 
 - transparantie
 rekenregels: 
@@ -25,10 +25,11 @@ generatieve-ai:
 ---
 
 <!-- tags -->
+
 ## Vereiste
 
-AI-systemen met een hoog risico worden op zodanige wijze ontworpen en ontwikkeld dat de werking ervan voldoende transparant is om exploitanten in staat te stellen de output van een systeem te interpreteren en op passende wijze te gebruiken.
-Een passende soort en mate van transparantie wordt gewaarborgd met het oog op de naleving van de relevante verplichtingen van de aanbieder en de exploitant zoals uiteengezet in afdeling 3 van Artikel 13 van de AI verordening.
+AI-systemen met een hoog risico worden op zodanige wijze ontworpen en ontwikkeld dat de werking ervan voldoende transparant is om gebruiksverantwoordelijken in staat te stellen de output van een systeem te interpreteren en op passende wijze te gebruiken.
+Een passende soort en mate van transparantie wordt gewaarborgd met het oog op de naleving van de relevante verplichtingen van de aanbieder en de gebruiksverantwoordelijke zoals uiteengezet in afdeling 3 van Artikel 13 van de AI verordening.
 
 ## Toelichting 
 
@@ -41,7 +42,7 @@ In artikel 13 lid 3 is een overzicht gegeven van de informatie die gebruikersins
 
 | Bron                        |
 |-----------------------------|
-|Artikel 13(1) Transparantie en informatieverstrekking aan exploitanten- AI verordening|
+|[Artikel 13(1) Verordening Artificiële Intelligentie](https://www.europarl.europa.eu/doceo/document/TA-9-2024-0138-FNL-COR01_NL.pdf)|
 
 ## Wanneer van toepassing? 
 
@@ -67,11 +68,11 @@ In artikel 13 lid 3 is een overzicht gegeven van de informatie die gebruikersins
 
 Onvoldoende transparantie kan leiden tot een gebrek aan begrip over hoe het AI-systeem functioneert, wat de effectiviteit van de inzet ervan kan belemmeren en de naleving van wettelijke verplichtingen in gevaar kan brengen.
 
-
-## Normen 
-
-In afwachting van het standaardisatieproces. 
-
 ## Maatregelen 
 
-Hier komt een lijst met relevante maatregelen om te voldoen aan dit vereiste. 
+=== "Allen"
+	<!-- list_maatregelen vereiste/transparantie -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/transparantie boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/transparantie bouwblok/publieke-inkoop -->

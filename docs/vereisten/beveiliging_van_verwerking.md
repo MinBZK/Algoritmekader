@@ -1,14 +1,14 @@
 ---
-title: Beveiliging van verwerking
+title: Beveiliging van de verwerking
 toelichting: Voor de ontwikkeling en gebruik van algoritmes en AI is dat data nodig. Deze data kan persoonsgegevens bevatten die moeten worden beschermd. De organisatie zal technische en organisatorische maatregelen moeten treffen om de data en de algoritmische toepassing of AI-systeem voldoende te beschermen. Hierbij kan worden gedacht aan dataminimalisatie, het pseudonimiseren of aggregeren van persoonsgegevens. Per toepassing moet worden onderzocht welke maatregelen hiervoor geschikt zijn. 
 status_vereiste: 
- - Geldend
+ - geldend
 levenscyclus: 
 - dataverkenning-en-datapreparatie
 - ontwikkelen
-- validatie
-- monitoren
-- archiveren
+- verificatie-en-validatie
+- monitoring-en-beheer
+- uitfaseren
 bouwblok: 
 - privacy-en-gegevensbescherming
 - data
@@ -26,6 +26,7 @@ generatieve-ai:
 ---
 
 <!-- tags -->
+
 ## Vereiste
 
 Rekening houdend met de stand van de techniek, de uitvoeringskosten, alsook met de aard, de omvang, de context en de verwerkingsdoeleinden en de qua waarschijnlijkheid en ernst uiteenlopende risico's voor de rechten en vrijheden 
@@ -45,7 +46,7 @@ Per toepassing moet worden onderzocht welke maatregelen hiervoor geschikt zijn.
 
 | Bron                        |
 |-----------------------------|
-|Artikel 32 AVG|
+|[Artikel 32 Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32016R0679)|
 
 ## Wanneer van toepassing? 
 
@@ -72,10 +73,12 @@ Per toepassing moet worden onderzocht welke maatregelen hiervoor geschikt zijn.
 Er kunnen risico's ontstaan zoals potentiële cyberaanvallen en datalekken.
 Dit kan leiden bijvoorbeeld tot verlies of diefstal van gevoelige gegevens, verstoring van organisatieprocessen,ongeautoriseerde toegang, vernietiging en onrechtmatige verwerking.
 
-## Normen 
-
-In afwachting van het standaardisatieproces. 
 
 ## Maatregelen 
 
-Hier komt een lijst met relevante maatregelen om te voldoen aan dit vereiste. 
+=== "Allen"
+	<!-- list_maatregelen vereiste/beveiliging_van_verwerking -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/beveiliging_van_verwerking boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/beveiliging_van_verwerking bouwblok/publieke-inkoop -->

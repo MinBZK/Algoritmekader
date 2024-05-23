@@ -7,8 +7,8 @@ levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
 - ontwikkelen
-- monitoren
-- archiveren
+- monitoring-en-beheer
+- uitfaseren
 bouwblok: 
 - governance
 - privacy-en-gegevensbescherming
@@ -75,4 +75,9 @@ In afwachting van het standaardisatieproces.
 
 ## Maatregelen 
 
-Hier komt een lijst met relevante maatregelen om te voldoen aan dit vereiste. 
+=== "Allen"
+	<!-- list_maatregelen vereiste/beschrijven_en_toewijzen_van_verantwoordelijkheden_bij_verwerking_persoonsgegevens -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/beschrijven_en_toewijzen_van_verantwoordelijkheden_bij_verwerking_persoonsgegevens boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/beschrijven_en_toewijzen_van_verantwoordelijkheden_bij_verwerking_persoonsgegevens bouwblok/publieke-inkoop -->

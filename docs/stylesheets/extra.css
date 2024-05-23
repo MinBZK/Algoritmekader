@@ -23,3 +23,7 @@
 .mdx-badge a {
     color: var(--md-accent-fg-color);
 }
+
+.md-typeset .grid {
+    grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr))
+  }

@@ -73,4 +73,9 @@ Dit kan leiden tot potentiële schendingen van de rechten en vrijheden van betro
 
 ## Maatregelen 
 
-<!-- list_maatregelen vereiste/dpia_verplicht_bij_hoog_risico --> 
+=== "Allen"
+	<!-- list_maatregelen vereiste/dpia_verplicht_bij_hoog_risico -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/dpia_verplicht_bij_hoog_risico boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/dpia_verplicht_bij_hoog_risico bouwblok/publieke-inkoop -->

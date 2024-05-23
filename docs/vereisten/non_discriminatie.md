@@ -76,4 +76,10 @@ Hiervan is sprake wanneer een ogenschijnlijk neutrale bepaling, maatstaf of hand
 Het risico bestaat dat het model onwenselijke systematische afwijkingen creëert voor specifieke personen, groepen of andere eenheden, wat kan duiden op directe of indirecte discriminerende effecten van het algoritme.
 
 ## Maatregelen 
-<!-- list_maatregelen vereiste/non-discriminatie -->
+
+=== "Allen"
+	<!-- list_maatregelen vereiste/non_discriminatie -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/non_discriminatie boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/non_discriminatie bouwblok/publieke-inkoop -->

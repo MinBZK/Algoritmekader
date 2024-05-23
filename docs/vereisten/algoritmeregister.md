@@ -70,4 +70,9 @@ Bij het onjuist of onvolledig publiceren in het Algortimeregister ontstaat er ee
 
 ## Maatregelen 
 
-<!-- list_maatregelen vereiste/algoritmeregister -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/algoritmeregister -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/algoritmeregister boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/algoritmeregister bouwblok/publieke-inkoop -->

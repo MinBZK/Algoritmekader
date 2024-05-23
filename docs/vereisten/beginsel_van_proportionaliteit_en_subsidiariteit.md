@@ -78,4 +78,9 @@ Zonder toetsing aan het proportinaliteits- en subsidiariteitsbeginsel ontstaat h
 
 ## Maatregelen 
 
-<!-- list_maatregelen vereiste/beginsel_van_proportionaliteit_en_subsidiariteit -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/beginsel_van_proportionaliteit_en_subsidiariteit -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/beginsel_van_proportionaliteit_en_subsidiariteit boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/beginsel_van_proportionaliteit_en_subsidiariteit bouwblok/publieke-inkoop -->

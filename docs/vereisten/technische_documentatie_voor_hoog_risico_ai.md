@@ -84,4 +84,9 @@ Onvolledige of ontoereikende technische documentatie kan leiden tot onduidelijkh
 
 ## Maatregelen 
 
-<!-- list_maatregelen vereiste/technische_documentatie_voor_hoog_risico_ai.md -->
+=== "Allen"
+	<!-- list_maatregelen vereiste/technische_documentatie_voor_hoog_risico_ai -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/technische_documentatie_voor_hoog_risico_ai boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/technische_documentatie_voor_hoog_risico_ai bouwblok/publieke-inkoop -->

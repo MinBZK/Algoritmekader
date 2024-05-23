@@ -71,4 +71,10 @@ Gebruik van laagkwalitatieve of bevooroordeelde datasets kan leiden tot onbetrou
 Onvoldoende kwaliteitsborging van testdata kan leiden tot vertekende resultaten en gebrekkige prestaties van het AI-systeem bij gebruik in de praktijk.
 
 ## Maatregelen 
-<!-- list_maatregelen vereiste/kwaliteitscriteria_voor_data -->
+
+=== "Allen"
+	<!-- list_maatregelen vereiste/kwaliteit_voor_data -->
+=== "Governance"
+	<!-- list_maatregelen vereiste/kwaliteit_voor_data boubwlok/governance -->
+=== "Publieke inkoop"
+	<!-- list_maatregelen vereiste/kwaliteit_voor_data bouwblok/publieke-inkoop -->

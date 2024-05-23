@@ -14,10 +14,7 @@ Omdat de levenscyclus van een algoritme en AI aanzet tot nadenken over de inzet 
 Wat is het doel, gaat het gebruik ervan wel naar verwachting, wanneer moet wat worden gedaan en wat als het gebruik ten einde loopt? 
 In praktijk kan het zo zijn dat de levenscyclus anders verloopt, bijvoorbeeld omdat na validatie en verificatie eerst terug naar de tekentafel moet worden gegaan (ontwerpfase) omdat het nog niet aan de wensen of vereisten voldoet.  
 
-  ![Levenscyclus](levenscyclus.jpg)
-
-!!! note "opmerking"
-    De fasen van de levenscyclus zijn recent aangepast. Het bijbehorende figuur krijgt nog een update en wordt zo snel mogelijk aangepast. 
+  ![Levenscyclus](../afbeeldingen/levenscyclus/levenscyclus.jpg)
 
 ## Verschillende versies levenscyclus 
 De stappen in de levenscyclus van het Algoritmekader zijn gebaseerd op een samenvoeging van meer dan tien verschillende levenscyclusmodellen. 

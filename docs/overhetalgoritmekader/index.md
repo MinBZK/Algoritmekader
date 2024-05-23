@@ -4,6 +4,7 @@ title: Over het Algoritmekader
 
 Het is van belang dat algoritmes en AI op een verantwoorde manier worden ontwikkeld en gebruikt. 
 Dit betekent dat er aandacht moet zijn voor zaken als:
+
 1. rollen en verantwoordelijkheden (governance);
 2. risico’s op bias/discriminatie vroegtijdig detecteren;
 3. de uitvoering van mensenrechtentoetsen (zoals IAMA’s);

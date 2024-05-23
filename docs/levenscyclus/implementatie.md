@@ -16,6 +16,7 @@ Een kenmerkend element van deze fase is dat vanaf nu betrokkenen onderhevig zijn
 Beslissingen en besluiten komen nu bijvoorbeeld mede of geheel door de werking van het algoritme of AI-systeem tot stand. 
 Waar passend, bijvoorbeeld bij impactvolle of hoog risico AI-systemen wordt dit duidelijk gecommuniceerd naar betrokken, voordat de oplossing volledig is geïmplementeerd.  
 
+
 ## Vereisten
 
 <!-- list_vereisten levenscyclus/implementatie -->

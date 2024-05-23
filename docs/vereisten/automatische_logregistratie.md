@@ -17,7 +17,7 @@ bouwblok:
 <!-- tags -->
 ## Vereiste
 
-AI-systemen met een hoog risico zijn dusdanig technisch vormgegeven dat gebeurtenissen gedurende hun levenscyclus automatisch worden geregistreerd (“logs”).
+AI-systemen met een hoog risico zijn dusdanig technisch vormgegeven dat gebeurtenissen gedurende hun levenscyclus automatisch worden geregistreerd (“logs”). Voor alle AI-systemen bij bestuursorganen is hoofdstuk 12.4 van de BIO van toepassing met generieke verplichtingen tot het loggen en monitoren. Voor zover het AI-systeem persoonsgegevens verwerkt zorgen artikel 5 en 32 van de AVG ook voor een verplichting om verwerkingen te loggen en monitoren.
 
 ## Toelichting
 
@@ -28,19 +28,23 @@ Het doel van deze registratie is om de transparantie en verantwoordingsplicht va
 
 Voor AI-systemen met een hoog-risico voorziet de loggingcapaciteit ten minste in: a) de registratie van de duur van elk gebruik van het systeem; b) de referentiedatabank aan de hand waarvan de inputdata zijn gecontroleerd door het systeem; c) de inputdata ten aanzien waarvan de zoekopdracht een match heeft opgeleverd; d) de identificatie van natuurlijke personen die betrokken zijn bij de verificatie van de resultaten.
 
+Voor AI-systemen die door bestuursorganen worden gebruikt of AI-systmen die persoonsgegevens verwerken leveren de BIO en AVG vergelijkbare verplichingen op die ook van toepassing zijn op AI-systmen die niet gezien worden als een AI-systeem met hoog risico. Daarbij komen nog verplichtingen om de logs doorlopend of periodiek te monitoren op incidenten.
+
 
 ## Bronnen
 
 | Bron                        |
 |-----------------------------|
 |Artikel 12 Registratie- AI verordening|
+|Baseline Informatiebeveiliging Overheid hoofdstuk 12.4|
+|Artikel 5 en 32 AVG|
 
 ## Wanneer van toepassing?
-
+Op AI-systemen met hoog risico, AI-systmeen onder de verantwoordelijkheid van bestuursorganen en AI-systemen die persoonsgegevens verwerken.
 
 ## Risico
 
-Ontbreken van automatische logregistratie kan leiden tot een gebrek aan transparantie en traceerbaarheid van het AI-systeem, wat het vermogen om verantwoordelijkheid te nemen en eventuele problemen aan te pakken belemmert.
+Ontbreken van automatische logregistratie kan leiden tot een gebrek aan transparantie en traceerbaarheid van het AI-systeem, wat het vermogen om verantwoordelijkheid te nemen en eventuele problemen aan te pakken belemmert en betrokkenen wiens persoonsgegevens worden verwerkt of geraakt worden door beslissingen van het AI-systeem in hun rechten kunnen worden beperkt.
 
 ## Maatregelen
 

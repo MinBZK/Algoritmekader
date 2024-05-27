@@ -6,17 +6,17 @@ icon: material/magnify
 
 ![transparantie](../../afbeeldingen/bouwblokken/transparantie.jpg "visuele weergave transparantie"){align="right"; width="50%"}
 
-Om openheid te bieden en controleerbaarheid te zijn moeten overheidsinstanties transparant zijn over inzet van algoritmen en AI-systemen. 
+Om openheid te bieden en controleerbaar te zijn moeten overheidsinstanties transparant zijn over inzet van algoritmen en AI-systemen. 
 
 Het is van belang dat overheden nadenken over hun besluitvormingsprocessen en dat zij de werking en toegevoegde waarde van het inzetten van een algoritme kunnen uitleggen.
-Dit is bijzonder relevant als een algoritme of AI-systeem impact heeft en besluiten maakt of de totstandkoming van besluitvorming die burgers raken ondersteunt.  
+Dit is bijzonder relevant als een algoritme of AI-systeem, al dan niet geautomatiseerd, impact heeft op besluitvorming die burgers raakt.  
 
-Als burgers geen kennis kunnen nemen van de gebruikte algoritmes en in hoeverre diens output hen raakt, kunnen zij zich niet verdedigen tegen nadelige gevolgen zoals discriminatie of een onjuist genomen beslissing of besluit. 
+Transparantie vergemakkelijkt het voor burgers om zich te verdedigen tegen nadelige gevolgen van algoritmes, bijvoorbeeld bij het vermoeden van discriminatie of onjuiste besluitvorming.
 Daarnaast versterkt transparantie de controlerende functie van burgers en journalistiek, omdat burgers kunnen aangeven of een uitleg over een algoritmisch systeem duidelijk is en of zij de werking van het systeem hetzelfde ervaren. 
 
 Transparantie bij algoritmes en AI gaat zowel over het bekendmaken van de inzet en bijbehorende doelen, als ook over openheid van het type model en de gebruikte factoren. 
 Gebruikers moeten in staat zijn om de werking en de output van een algoritme of AI-systeem te begrijpen, zodat zij onderbouwde beslissingen of besluiten kunnen nemen. 
-Dit betekent bijvoorbeeld ook dat gebruikers bewust moet worden gemaakt dat zij communiceren of interageren met een algoritme of AI-systeem, dat zij worden geïnformeerd over de mogelijkheden en beperkingen van een systeem en dat betrokkenen worden geïnformeerd over hun rechten. 
+Dit betekent bijvoorbeeld ook dat gebruikers bewust moet worden gemaakt dat zij communiceren of samenwerken met een algoritme of AI-systeem, dat zij worden geïnformeerd over de mogelijkheden en beperkingen van een systeem en dat betrokkenen worden geïnformeerd over hun rechten. 
 
  In dit bouwblok van het algoritmekader besteden we aandacht aan transparantie naar gebruikers en betrokkenen, transparantie door documentatie en opname in het [algoritmeregister]( https://algoritmes.overheid.nl/nl), uitlegbaarheid en traceerbaarheid van een besluit. 
  Hier worden de vereisten uitgewerkt die bestaan op basis van wet- en regelgeving en bestaand beleid met betrekking tot transparantie van algoritmen en AI. 

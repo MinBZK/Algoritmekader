@@ -26,4 +26,4 @@ Hier wordt wel al verwezen naar het nog te ontwikkelen gedeelte [Governance](../
 Aan dit bouwblok wordt onmiddels gewerkt. 
 
 !!! note "Opmerking"
-    Hier volgt in een volgende versie een opsomming van de verschillende rollen. 
+    Er is al een aantal rollen toegevoegd aan het algoritmekader. Dit wordt nog aangvuld, en de rollen worden nog gekoppeld aan vereisten en maatregelen. 

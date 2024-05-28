@@ -4,6 +4,7 @@ title: Over het Algoritmekader
 
 Het is van belang dat algoritmes en AI op een verantwoorde manier worden ontwikkeld en gebruikt. 
 Dit betekent dat er aandacht moet zijn voor zaken als:
+
 1. rollen en verantwoordelijkheden (governance);
 2. risico’s op bias/discriminatie vroegtijdig detecteren;
 3. de uitvoering van mensenrechtentoetsen (zoals IAMA’s);
@@ -12,6 +13,9 @@ Dit betekent dat er aandacht moet zijn voor zaken als:
 Maar hoe doe je dat dan? Hier helpt het Algoritmekader je bij: een interactieve kennisbank waarin je kunt zoeken naar informatie op basis van een onderwerp, een fase uit de levenscyclus of jouw rol.  
 
 ### Levenscyclus van een algoritme, vereisten, maatregelen en rollen
+
+![levenscyclus](../afbeeldingen/levenscyclus/levenscyclus.jpg "visuele weergave levenscyclus van een algoritme"){align="right"; width="60%"}
+
 Het Algoritmekader maakt inzichtelijk aan welke vereisten overheidsorganisaties moeten voldoen. 
 Daarbij wordt ook aangegeven hoe zij hier op een betekenisvolle wijze invulling aan kunnen geven (maatregelen).
 Het Algoritmekader is zo ingericht dat gebruikers vanuit verschillende invalshoeken informatie kunnen raadplegen die voor hen relevant is. 
@@ -20,11 +24,11 @@ Het is ook mogelijk om vanuit een specifieke rol, bijvoorbeeld een ethicus of da
 
 ### Type technologie en risicoclassificatie
 Het Algoritmekader geeft gebruikers de mogelijkheid om informatie te 'filteren'. 
+
 Dit kun je bijvoorbeeld doen op basis van type technologie en risico classificatie. 
 Zo kunnen gebruikers snel zien wat zij in een bepaalde situatie moeten doen. 
 In het geval van een hoog risico AI-systeem waarbij persoonsgegevens worden verwerkt moet je aan meer vereisten voldoen dan dan bij een eenvoudige rekenregel die geen impact heeft op individuen of de maatschappij. 
-Deze inzichten helpen overheidsorganisaties om effectief en gericht hun middelen in te zetten. 
-Aan deze functionaliteit wordt momenteel gewerkt.  
+Deze inzichten helpen overheidsorganisaties om effectief en gericht hun middelen in te zetten.  
 
 !!! note "Opmerking"
     Aan deze functionaliteit wordt nog gewerkt. Meer hierover zal volgen in een volgende versie. 
@@ -50,9 +54,8 @@ Overheden wordt aanbevolen het kader te volgen, maar mogen te allen tijde zelf b
 Kortom, de vereisten zijn verplicht en de maatregelen (hoe kan men hieraan voldoen) zijn ter inspiratie om organisaties op weg te helpen.  
 
 ## Doorontwikkeling
-7 juli 2023 is het [concept Implementatiekader](https://www.rijksoverheid.nl/documenten/rapporten/2023/06/30/implementatiekader-verantwoorde-inzet-van-algoritmen) naar de kamer verstuurd, vergezeld door de Kamerbrief 'Verzamelbrief Algoritmes Reguleren'. 
-Dit kan worden beschouwd als de eerste versie van het Algoritmekader. H
-et implementatiekader verantwoorde inzet van algoritmen is in oktober 2023 hernoemd naar 'het Algoritmekader'. 
+7 juli 2023 is de [eerste versie van het Implementatiekader](https://www.rijksoverheid.nl/documenten/rapporten/2023/06/30/implementatiekader-verantwoorde-inzet-van-algoritmen) naar de Tweede Kamer verstuurd, vergezeld door de Kamerbrief 'Verzamelbrief algoritmen reguleren'. 
+Dit kan worden beschouwd als de eerste versie van het Algoritmekader. Het implementatiekader verantwoorde inzet van algoritmen is in oktober 2023 hernoemd naar 'het Algoritmekader'. 
 
 In oktober 2023 is gestart met de doorontwikkeling van het Algoritmekader, zowel op inhoud als op vorm. Dat betekent dat inhoudelijke toevoegingen worden gedaan (denk aan hetgeen voortkomt uit de AI-verordening) en er wordt onderzocht hoe informatie zo optimaal mogelijk aan gebruikers getoond kan worden. 
 Het doel is dat het Algoritmekader gebruikers op een praktische wijze helpt bij het uitvoeren van hun werkzaamheden. 

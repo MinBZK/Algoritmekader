@@ -1,12 +1,13 @@
 ---
 title: Bias en non-discriminatie
+toc:
+    toc_depth: 1
 ---
 
 !!! info "Disclaimer"
 
     Het Algoritmekader is nog volop in ontwikkeling. Op deze plek willen we vooral aan de slag gaan op een open en transparante wijze. Het is dus niet definitief. Dat betekent dat er dingen opstaan die niet af zijn en soms zelfs fout. Mocht er iets niet kloppen, laat het ons weten via [GitHub](https://github.com/MinBZK/Algoritmekader).
 
-## Wat en waarom?
 Algoritmes worden binnen de overheid veelvuldig ingezet om publieke taken uit te voeren. Dit biedt veel kansen, maar er zijn ook risico's aan verbonden.
 Hoewel algoritmes in sommige gevallen kunnen bijdragen aan het tegengaan van discriminatie, kan bias in het algoritme leiden tot een ongelijke en oneerlijke behandeling van burgers of groepen, en kan er sprake zijn van discriminerende effecten. 
 In dit bouwblok van het algoritmekader besteden we aandacht aan de onderwerpen bias, eerlijkheid en non-discriminatie. 
@@ -102,7 +103,7 @@ Deze menselijke vooroordelen zijn vaak impliciet van aard en hebben betrekking o
 In de context van algoritmes kan deze vorm van bias invloed hebben op de verzamelde data, op de wijze waarop het algoritme wordt geoptimaliseerd en de besluiten die door mensen worden genomen op basis van het algoritme.
 Voorbeelden van vormen menselijke bias zijn wanneer er voorkeur wordt geven aan de voorspellingen van een algoritme die reeds bestaande overtuigingen bevestigen (bevestigingsbias), of wanneer mensen de neiging hebben om voorkeur te geven aan suggesties die door het algoritme worden gedaan (automatiseringsbias)
 
-## Gebruikte definities
+## Overzicht van gebruikte definities
 Onderstaand bieden we een overzicht van de gebruikte definities in het algoritmekader die betrekking hebben op het onderwerp bias en non-discriminatie. 
 
 | Term of begrip               | Definitie                                                                                                                                                                                                                                                                                                            | Bron                                                                                                                                                                                      |
@@ -122,6 +123,7 @@ Onderstaand bieden we een overzicht van de gebruikte definities in het algoritme
 [^3]: Hoewel het gebruik van de NEN-ISO-normen in het Algoritmekader auteursrechtelijk is beschermd, heeft het Nederlands Normalisatie Instituut (NEN) voor het gebruik in het Algoritmekader toestemming verleend. Zie [nen.nl](https://www.nen.nl/) voor meer informatie over NEN en het gebruik van hun producten.
 [^4]: De term ground truth impliceert niet dat de gelabelde invoergegevens consistent overeenkomen met de werkelijke waarde van de doelvariabelen.
 
+### Verschillende vormen van bias
 Omdat bias op verschillende manieren kan ontstaan, zijn er allerlei verschillende vormen van bias, die hieronder gedefinieerd worden. Deze lijst is niet uitputtend. 
 
 | Begrip              | Definitie                                                                                                                                                                                                                                                                                                                                                                                                          | Bron                                                                                                                                                                                              |
@@ -206,43 +208,52 @@ Het [Handvest van de grondrechten van de Europese Unie, artikel 21](https://eur-
 
 is verboden. Daarnaast wordt expliciet vermeld dat binnen de werkingssfeer van de Verdragen en onverminderd de bijzondere bepalingen ervan, iedere discriminatie op grond van nationaliteit verboden is.
 
-## Aanbevelingen
-[Rathenau](https://www.rathenau.nl/nl/digitalisering/algoritmes-afwegen)
+## Vereisten
 
-* Geef als uitvoeringsorganisatie meer inzicht in hoe biastoetsing plaatsvindt 
-* Zet een nationaal kennisplatform voor biastoetsing op waar expertise kan worden ontwikkeld en gedeeld. Bepaal welke mate van standaardisatie gewenst is en of wettelijke eisen nodig zijn.
+<!-- list_vereisten bouwblok/bias-en-non-discriminatie -->
 
-[ADR](https://open.overheid.nl/documenten/7052294a-e70a-4084-88da-d09ae5f202cb/file)
+## Maatregelen
 
-* Plaats de handreiking in een kader in relatie tot andere instrumenten 
-* Overweeg een risicogerichte benadering voor de toepassing van de handreiking 
-* Werk aan het vergroten van bewustzijn voor algoritmen en (data-)ethiek in de organisatie 
-* Zorg voor duidelijkheid in taken en verantwoordelijkheden van verschillende betrokkenen 
-* Beleg verantwoordelijkheid voor de handreiking en borg de (blijvende) aandacht ervoor 
-* Verplichte toepassing van de handreiking kan bestaande initiatieven tenietdoen 
+<!-- list_maatregelen bouwblok/bias-en-non-discriminatie -->
 
-[Toetsingskader ADR](https://open.overheid.nl/documenten/61b54381-d331-40ed-8fce-b2883b195f25/file)
+!!! note "Aanbevelingen vanuit documenten (nog te verwerken)"
 
-* De definitie van de verschillende groepen en de gewenste prestatie van het model voor deze groepen zijn opgenomen in de functionele eisen.
-* De mate van geaccepteerde bias in de uitkomst is opgenomen in de functionele eisen en uitgewerkt in meetbare prestatiecriteria.
-* De methoden om bias te voorkomen, detecteren en corrigeren zijn vastgelegd.
-* De mate van bias in de data, dataverzameling en het model zijn in kaart gebracht.
-* Tijdens de ontwikkeling van het model is beoordeeld of er een verschil bestaat tussen de prestatie van het model tussen verschillende subgroepen. De prestatiemetrieken afleidbaar uit de confusionmatrix zijn vergeleken voor deze subgroepen.
-* De uitkomstbias van productiedata is beoordeeld voor de verschillende subgroepen en voldoet aan de prestatiecriteria.
-* Bij de geconstateerde bias is beoordeeld of deze op discriminatie duidt.
+    [Rathenau](https://www.rathenau.nl/nl/digitalisering/algoritmes-afwegen)
 
-[College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dce) (Richtlijnen)
+    * Geef als uitvoeringsorganisatie meer inzicht in hoe biastoetsing plaatsvindt 
+    * Zet een nationaal kennisplatform voor biastoetsing op waar expertise kan worden ontwikkeld en gedeeld. Bepaal welke mate van standaardisatie gewenst is en of wettelijke eisen nodig zijn.
 
-* Overheidsinstanties mogen bij opsporings- en handhavingsbevoegdheden, met het oog op effectiviteit, efficiëntie en kostenbesparing, gebruik maken van risicoprofielen. Binnen deze risicoprofielen mogen ervaringsgegevens die tot een bepaalde vooronderstelling leiden een rol spelen, tenzij dit leidt tot discriminatie op grond van ras of nationaliteit
-* Risicoprofielen die uitsluitend of in doorslaggevende mate gebaseerd zijn op ras (waaronder etniciteit en afkomst) zijn in strijd met het discriminatieverbod;
-* Risicoprofielen die zich richten op één bepaalde afkomst of nationaliteit hebben een stigmatiserend effect en zijn daarom strijdig met het discriminatieverbod;
-* Risicoprofielen die uitsluitend gebaseerd zijn op nationaliteit zijn zeer moeilijk te rechtvaardigen;
-* Risicoprofielen waarin ras of nationaliteit mede een rol speelt, kunnen slechts gerechtvaardigd worden door zeer zwaarwegende redenen;
-* Het gebruik van ras of nationaliteit als selectiecriterium binnen een risicoprofiel is nooit toegestaan als er geen objectieve relatie kan worden aangetoond tussen dit selectiecriterium en het legitieme doel van het profiel;
-* In alle gevallen moeten de selectiecriteria  binnen een risicoprofiel samen voldoende relevant en objectief (geschikt) zijn om op een effectieve wijze bij te dragen aan de verwezenlijking van het nagestreefde legitieme doel;
-* Het gebruik van ras of nationaliteit als selectiecriterium binnen een risicoprofiel moet daarnaast noodzakelijk zijn om het gewenste doel tebereiken.
-* Selectiebeslissingen moeten te allen tijde uitlegbaar zijn.
-  
+    [ADR](https://open.overheid.nl/documenten/7052294a-e70a-4084-88da-d09ae5f202cb/file)
+
+    * Plaats de handreiking in een kader in relatie tot andere instrumenten 
+    * Overweeg een risicogerichte benadering voor de toepassing van de handreiking 
+    * Werk aan het vergroten van bewustzijn voor algoritmen en (data-)ethiek in de organisatie 
+    * Zorg voor duidelijkheid in taken en verantwoordelijkheden van verschillende betrokkenen 
+    * Beleg verantwoordelijkheid voor de handreiking en borg de (blijvende) aandacht ervoor 
+    * Verplichte toepassing van de handreiking kan bestaande initiatieven tenietdoen 
+
+    [Toetsingskader ADR](https://open.overheid.nl/documenten/61b54381-d331-40ed-8fce-b2883b195f25/file)
+
+    * De definitie van de verschillende groepen en de gewenste prestatie van het model voor deze groepen zijn opgenomen in de functionele eisen.
+    * De mate van geaccepteerde bias in de uitkomst is opgenomen in de functionele eisen en uitgewerkt in meetbare prestatiecriteria.
+    * De methoden om bias te voorkomen, detecteren en corrigeren zijn vastgelegd.
+    * De mate van bias in de data, dataverzameling en het model zijn in kaart gebracht.
+    * Tijdens de ontwikkeling van het model is beoordeeld of er een verschil bestaat tussen de prestatie van het model tussen verschillende subgroepen. De prestatiemetrieken afleidbaar uit de confusionmatrix zijn vergeleken voor deze subgroepen.
+    * De uitkomstbias van productiedata is beoordeeld voor de verschillende subgroepen en voldoet aan de prestatiecriteria.
+    * Bij de geconstateerde bias is beoordeeld of deze op discriminatie duidt.
+
+    [College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dce)
+
+    * Overheidsinstanties mogen bij opsporings- en handhavingsbevoegdheden, met het oog op effectiviteit, efficiëntie en kostenbesparing, gebruik maken van risicoprofielen. Binnen deze risicoprofielen mogen ervaringsgegevens die tot een bepaalde vooronderstelling leiden een rol spelen, tenzij dit leidt tot discriminatie op grond van ras of nationaliteit
+    * Risicoprofielen die uitsluitend of in doorslaggevende mate gebaseerd zijn op ras (waaronder etniciteit en afkomst) zijn in strijd met het discriminatieverbod;
+    * Risicoprofielen die zich richten op één bepaalde afkomst of nationaliteit hebben een stigmatiserend effect en zijn daarom strijdig met het discriminatieverbod;
+    * Risicoprofielen die uitsluitend gebaseerd zijn op nationaliteit zijn zeer moeilijk te rechtvaardigen;
+    * Risicoprofielen waarin ras of nationaliteit mede een rol speelt, kunnen slechts gerechtvaardigd worden door zeer zwaarwegende redenen;
+    * Het gebruik van ras of nationaliteit als selectiecriterium binnen een risicoprofiel is nooit toegestaan als er geen objectieve relatie kan worden aangetoond tussen dit selectiecriterium en het legitieme doel van het profiel;
+    * In alle gevallen moeten de selectiecriteria  binnen een risicoprofiel samen voldoende relevant en objectief (geschikt) zijn om op een effectieve wijze bij te dragen aan de verwezenlijking van het nagestreefde legitieme doel;
+    * Het gebruik van ras of nationaliteit als selectiecriterium binnen een risicoprofiel moet daarnaast noodzakelijk zijn om het gewenste doel tebereiken.
+    * Selectiebeslissingen moeten te allen tijde uitlegbaar zijn.
+    
 ## Mogelijke hulpmiddelen en methoden
 * [Fairness Handbook](https://amsterdamintelligence.com/resources/the-fairness-handbook)
 * [Handreiking non-discriminatie-by-design](https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design)

@@ -14,7 +14,7 @@ In dit bouwblok van het algoritmekader besteden we aandacht aan de onderwerpen b
 We werken uit wat bias is, hoe bias kan ontstaan, hoe we dit kunnen signaleren, welke maatregelen er genomen kunnen worden om dit te voorkomen en geven we handvatten wat te doen wanneer een (onwenselijke) bias is gesignaleerd. 
 
 Hierbij is het goed om op te merken dat het omgaan met het thema bias gedurende het ontwikkelen, inkopen of gebruik van het algoritme vraagt om continue aandacht voor dit onderwerp. 
-Het betreft geen probleem dat eenmalig kan worden weggenomen, maar het vraagt voortduren om reflectie op eerlijkheid en rechtvaardigheid van het systeem. 
+Het betreft geen probleem dat eenmalig kan worden weggenomen. Het vraagt voortdurend om reflectie op eerlijkheid en rechtvaardigheid van het systeem. 
 
 Dit bouwblok wordt uitgewerkt in vereisten die weergeven wat er vanuit wet- en regelgeving en bestaande toetsingskaders vereist is om bias en discriminatie tegen te gaan. 
 Daarbij worden er suggesties gedaan hoe deze vereisten kunnen worden nageleefd met concrete maatregelen, en welke actoren daarbij betrokken kunnen zijn. 

@@ -42,6 +42,9 @@ Het algoritme dient niet het beoogde doel en onderliggend probleem.
 Zonder eenduidigheid over het doel is geen sturing op en verantwoording over het algoritme mogelijk. 
 Er is dan een groter risico op fouten en/of verschillen in interpretatie. 
 
+Wanneer doelstellingen niet meetbaar zijn gemaakt, is het onmogelijk om achteraf te kwantificeren of de doelstellingen zijn behaald. 
+Doelstellingen zijn in dat geval moeilijk bespreekbaar.  
+
 ## Bronnen
 | Bron                                                                                                                                                                     |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

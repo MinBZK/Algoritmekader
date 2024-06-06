@@ -1,5 +1,7 @@
 ---
 title: Vereisten
+hide:
+- navigation
 ---
 
 Een kernelement van het Algoritmekader is het beschrijven van de vereisten waar overheidsorganisaties aan moeten voldoen als zij algoritmes en AI (laten) ontwikkelen en gebruiken. 

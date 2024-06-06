@@ -1,5 +1,7 @@
 ---
 title: Maatregelen
+hide:
+- navigation
 ---
 
 De maatregelen die zijn opgenomen in het Algoritmekader geven aan 'hoe' overheidsorganisaties invulling *kunnen* geven aan specifieke vereisten.
@@ -34,3 +36,15 @@ Hierover moeten nog nadere afspraken worden gemaakt met deze standaardisatieorga
 
 !!! note "Opmerking"
     Hier volgt in een volgende versie een opsomming van de maatregelen. 
+
+=== "Probleemanalyse"
+
+    <!-- list_maatregelen levenscyclus/probleemanalyse bouwblok/governance -->
+
+=== "Ontwerp"
+
+    <!-- list_maatregelen levenscyclus/ontwerp -->
+
+=== "Ontwikkelen"
+
+    <!-- list_maatregelen levenscyclus/ontwikkelen -->

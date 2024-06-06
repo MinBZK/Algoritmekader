@@ -11,6 +11,8 @@ rollen:
 - projectleider
 - opdrachtgever
 - domeinspecialist
+hide:
+- navigation
 ---
 
 <!-- tags -->

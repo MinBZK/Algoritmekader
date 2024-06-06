@@ -9,6 +9,8 @@ bouwblok:
 - governance
 rollen:
 - projectleider
+- opdrachtgever
+- domeinspecialist
 ---
 
 <!-- tags -->

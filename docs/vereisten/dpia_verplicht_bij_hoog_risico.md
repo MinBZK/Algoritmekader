@@ -37,7 +37,7 @@ Een Gegevensbeschermingseffectbeoordeling (GEB) of Data Protection Impact Assess
 Deze beoordeling identificeert en beperkt potentiële risico's en zorgt ervoor dat passende maatregelen worden genomen om de privacy van individuen te beschermen. 
 Deze verplichting draagt bij aan een zorgvuldige en verantwoorde omgang met persoonsgegevens in AI-systemen en algoritmes, waardoor de privacy van individuen wordt gewaarborgd.
 
-Deze beoordeling van een hoog risico is niet noodzakelijk dezelfde beoordeling als voor een hoog-risico AI-systeem. Volgens [Besluit lijst verwerkingen persoonsgegevens waarvoor een gegevensbeschermingseffectbeoordeling (DPIA) verplicht is, Autoriteit Persoonsgegevens](https://wetten.overheid.nl/BWBR0042812/2019-11-27) moet voor het uitvoeren van een DPIA in ieder geval uitgegaan worden van een hoog risico als er sprake is van één van de volgende voorwaarden:
+Let op: de DPIA verplichting is niet gebaseerd op de hoog-risico criteria uit de AI-act. Volgens [Besluit lijst verwerkingen persoonsgegevens waarvoor een gegevensbeschermingseffectbeoordeling (DPIA) verplicht is, Autoriteit Persoonsgegevens](https://wetten.overheid.nl/BWBR0042812/2019-11-27) moet voor het uitvoeren van een DPIA in ieder geval uitgegaan worden van een hoog risico als er sprake is van één van de volgende voorwaarden:
  1. Evaluatie of scoretoekenning
  2. Geautomatiseerde besluitvorming met rechtsgevolg of vergelijkbaar wezenlijk gevolg
  3. Stelselmatige monitoring

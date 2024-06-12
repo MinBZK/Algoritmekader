@@ -40,7 +40,6 @@ Voor AI-systemen die door bestuursorganen worden gebruikt of AI-systmen die pers
 |Artikel 5 en 32 AVG|
 
 ## Wanneer van toepassing?
-Op AI-systemen met hoog risico, AI-systmeen onder de verantwoordelijkheid van bestuursorganen en AI-systemen die persoonsgegevens verwerken.
 
 ## Risico
 

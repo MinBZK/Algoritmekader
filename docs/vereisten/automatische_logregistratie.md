@@ -17,7 +17,7 @@ bouwblok:
 <!-- tags -->
 ## Vereiste
 
-AI-systemen met een hoog risico zijn dusdanig technisch vormgegeven dat gebeurtenissen gedurende hun levenscyclus automatisch worden geregistreerd (“logs”). Voor alle AI-systemen bij bestuursorganen is hoofdstuk 12.4 van de BIO van toepassing met generieke verplichtingen tot het loggen en monitoren. Voor zover het AI-systeem persoonsgegevens verwerkt zorgen artikel 5 en 32 van de AVG ook voor een verplichting om verwerkingen te loggen en monitoren.
+Algoritmes en AI-systemen zijn dusdanig technisch vormgegeven dat gebeurtenissen gedurende hun levenscyclus automatisch worden geregistreerd (“logs”). 
 
 
 ## Toelichting

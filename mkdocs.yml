@@ -61,7 +61,11 @@ nav:
 markdown_extensions: 
     - pymdownx.tabbed:
         alternate_style: true
-    - pymdownx.superfences
+    - pymdownx.superfences:
+        custom_fences:
+            - name: mermaid
+              class: mermaid
+              format: !!python/name:pymdownx.superfences.fence_code_format
     - pymdownx.details
     - admonition
     - attr_list
@@ -97,7 +101,8 @@ plugins:
     - search
     - git-revision-date-localized:
         enable_creation_date: true
-    - awesome-pages
+    - awesome-pages:
+        collapse_single_pages: true
 
 hooks:
     - src/overrides/hooks/tags.py

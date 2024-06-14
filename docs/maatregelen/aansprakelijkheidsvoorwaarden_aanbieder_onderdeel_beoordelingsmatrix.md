@@ -1,5 +1,6 @@
 ---
 title: Aansprakelijkheidsvoorwaarden worden beoordeeld in de aanbesteding 
+urn: "urn:nl:ak:mr:1.0:"
 toelichting: Maak de aansprakelijkheidsvoorwaarden die een aanbieder ten aanzien van auteursrechten kan geven een vast onderdeel van de wedstrijd/inkoop/beoordeelingsmatrix als ook de vaste beoordeling hiervan. 
 vereiste:
 - auteursrechten
@@ -14,9 +15,12 @@ rollen:
 - inkoopadviseur
 - contractbeheerder
 - aanbestedingsjurist
+hide:
+- navigation
 ---
 
 <!-- tags -->
+
 ## Maatregel
 
 Maak de aansprakelijkheidsvoorwaarden die een aanbieder ten aanzien van auteursrechten kan geven een vast onderdeel van de wedstrijd/inkoop/beoordeelingsmatrix als ook de vaste beoordeling hiervan.
@@ -41,10 +45,10 @@ Maak een jurist onderdeel van de beoordeling hiervan.
 
 ## Bronnen
 
-| Bron                        |
-|-----------------------------|
-|Algoritmekader|
-|https://open.overheid.nl/documenten/16d72572-da6b-422c-8cf8-cdc95a523093/file|
+| Bron                                                                                                                                                                                     |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Algoritmekader                                                                                                                                                                           |
+| [Advies Landsadvocaat Pels Rijcken over het gebruik van generatieve AI-tools door medewerkers van de Staat](https://open.overheid.nl/documenten/16d72572-da6b-422c-8cf8-cdc95a523093/file) |
 
 ## Voorbeeld
 

@@ -11,9 +11,12 @@ rollen:
 - proceseigenaar
 - informatiebeheerder
 - archiefdeskundige
+hide:
+- navigation
 ---
 
 <!-- tags -->
+
 ## Maatregel
 
 Stel vast hoe de archiefbescheiden op een duurzame wijze toegankelijk kunnen worden gemaakt.
@@ -35,7 +38,7 @@ Onderzoek welke voorziening hiervoor beschikbaar is binnen de organisatie.
 
 | Bron                        |
 |-----------------------------|
-|Algoritmekader|
+| Algoritmekader |
 
 ## Voorbeeld
 

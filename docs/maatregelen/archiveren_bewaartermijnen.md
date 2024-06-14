@@ -13,9 +13,12 @@ rollen:
 - proceseigenaar
 - informatiebeheerder
 - archiefdeskundige
+hide:
+- navigation
 ---
 
 <!-- tags -->
+
 ## Maatregel
 
 Stel de bewaartermijnen vast voor de archiefbescheiden.

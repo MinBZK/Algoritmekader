@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TAD - Nieuw project</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .cta-button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h2>U heeft de volgende maatregelen geselecteerd</h2>
+        <div id="instruments-list"></div>
+        <a href="newproject.html" class="cta-button">Start uw project</a>
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const urlParams = new URLSearchParams(window.location.search);
+            const instrumentsData = urlParams.get('instruments');
+
+            if (instrumentsData) {
+                const instrumentsArray = JSON.parse(decodeURIComponent(instrumentsData));
+                const instrumentsListDiv = document.getElementById('instruments-list');
+
+                if (instrumentsArray.length > 0) {
+                    const ul = document.createElement('ul');
+                    instrumentsArray.forEach(instrument => {
+                        const li = document.createElement('li');
+                        li.textContent = instrument;
+                        ul.appendChild(li);
+                    });
+                    instrumentsListDiv.appendChild(ul);
+                } else {
+                    instrumentsListDiv.textContent = 'No instruments received.';
+                }
+            } else {
+                const instrumentsListDiv = document.getElementById('instruments-list');
+                instrumentsListDiv.textContent = 'No instruments data found.';
+            }
+        });
+    </script>
+</body>
+
+</html>

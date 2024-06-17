@@ -1,29 +1,185 @@
-.mdx-badge {
-    font-size: .85em;
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: black;
+}
+
+.card {
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    position: relative;
+    z-index: 1;
+    color: black;
+    font-size: 14px;
+    font-weight: 600;
+    width: auto;
+    /* Ensure card is above .hide */
+}
+
+.card:hover .hide {
+    display: block;
+}
+
+.badge {
     display: inline-block;
-    margin: .2rem .3rem;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 20px;
+    position: relative;
+    /* Ensure the badge is a relative container */
+    z-index: 1;
+    /* Ensure badge is above other content */
 }
 
-.mdx-badge__icon {
-    border-top-left-radius: .1rem;
-    border-bottom-left-radius: .1rem;
-
-    background: var(--md-accent-fg-color--transparent);
-    padding: .2rem;
+.badge-neutral {
+    background-color: #6c757d;
 }
 
-.mdx-badge__text {
-    border-bottom-right-radius: .1rem;
-    border-top-right-radius: .1rem;
-
-    box-shadow: 0 0 0 1px inset var(--md-accent-fg-color--transparent);
-    padding: .2rem .3rem;
+.cursor-pointer {
+    cursor: pointer;
 }
 
-.mdx-badge a {
-    color: var(--md-accent-fg-color);
+.hide {
+    display: none;
+    position: absolute;
+    top: calc(100% + 10px);
+    /* Position below the badge */
+    right: 0;
+    width: 100%;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 10;
+    /* Ensure .hide is above .card and .badge */
+    width: 200px;
+    color: black;
 }
 
-.md-typeset .grid {
-    grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr))
-  }
+.hide ul {
+    padding: 10px;
+    margin: 0;
+    list-style-type: none;
+    width: 100%;
+}
+
+.hide ul li {
+    margin-bottom: 5px;
+}
+
+.clear-storage {
+    display: block;
+    /* Ensure button is block-level for full width */
+    width: 100%;
+    /* Full width for the button */
+    padding: 10px 20px;
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: center;
+    /* Center button text */
+}
+
+#send-button {
+    display: block;
+    /* Ensure button is block-level for full width */
+    width: 100%;
+    /* Full width for the button */
+    padding: 10px 20px;
+    background-color: #007bff;
+    /* Blue background */
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: center;
+    /* Center button text */
+    margin-top: 10px;
+    /* Adjust margin as needed */
+}
+
+#send-button:hover {
+    background-color: #0056b3;
+    /* Darker blue on hover */
+}
+
+.clear-storage:hover {
+    background-color: #c82333;
+}
+
+#instrument-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+#instrument-table th,
+#instrument-table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+#instrument-table th {
+    background-color: #007bff;
+    color: #fff;
+}
+
+#instrument-table td button {
+    padding: 8px 12px;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#instrument-table td button.disabled-button {
+    background-color: #6c757d;
+    cursor: not-allowed;
+}
+
+#instrument-table td button:hover {
+    background-color: #218838;
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 10px;
+    }
+
+    .card,
+    .clear-storage {
+        padding: 10px;
+    }
+}
+
+/* Add this style to your existing CSS */
+
+.delete-button {
+    padding: 8px 12px;
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: normal;
+    /* Ensure the button text is not bold */
+}
+
+.delete-button:hover {
+    background-color: #c82333;
+}

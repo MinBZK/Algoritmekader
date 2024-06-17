@@ -6,8 +6,9 @@ watch:
     - includes/
 
 ### theme settings ###
-theme: 
+theme:
     name: material
+    custom_dir: overrides
     language: nl
     palette:
         - primary: blue
@@ -29,38 +30,38 @@ theme:
         logo: fontawesome/solid/house
         annotation: fontawesome/solid/circle-info
 
-# Navigation for the site 
+# Navigation for the site
 nav:
     - Home: index.md
-    - Over het algoritmekader: 
-        - overhetalgoritmekader/index.md
-        - overhetalgoritmekader/definities.md
-        - overhetalgoritmekader/CONTRIBUTING.md
+    - Over het algoritmekader:
+          - overhetalgoritmekader/index.md
+          - overhetalgoritmekader/definities.md
+          - overhetalgoritmekader/CONTRIBUTING.md
     - Levenscyclus:
-        - levenscyclus/index.md 
-        - levenscyclus/probleemanalyse.md
-        - levenscyclus/ontwerp.md
-        - levenscyclus/dataverkenning-en-datapreparatie.md
-        - levenscyclus/ontwikkelen.md
-        - levenscyclus/verificatie-en-validatie.md
-        - levenscyclus/implementatie.md
-        - levenscyclus/monitoring-en-beheer.md
-        - levenscyclus/uitfaseren.md
+          - levenscyclus/index.md
+          - levenscyclus/probleemanalyse.md
+          - levenscyclus/ontwerp.md
+          - levenscyclus/dataverkenning-en-datapreparatie.md
+          - levenscyclus/ontwikkelen.md
+          - levenscyclus/verificatie-en-validatie.md
+          - levenscyclus/implementatie.md
+          - levenscyclus/monitoring-en-beheer.md
+          - levenscyclus/uitfaseren.md
     - Bouwblokken:
-        - bouwblokken/index.md
-        - ... | bouwblokken/*/*.md
+          - bouwblokken/index.md
+          - ... | bouwblokken/*/*.md
     - Rollen:
-        - ... | rollen/*.md
+          - ... | rollen/*.md
     - Vereisten:
-        - ... | vereisten/*.md
+          - ... | vereisten/*.md
     - Maatregelen:
-        - ... | maatregelen/*.md
+          - ... | maatregelen/*.md
     - Instrumenten: instrumenten/index.md
 
 # Extra opties
-markdown_extensions: 
+markdown_extensions:
     - pymdownx.tabbed:
-        alternate_style: true
+          alternate_style: true
     - pymdownx.superfences
     - pymdownx.details
     - admonition
@@ -69,34 +70,38 @@ markdown_extensions:
     - md_in_html
     - footnotes
     - toc:
-        permalink: true
+          permalink: true
     - pymdownx.tasklist:
-        custom_checkbox: true
+          custom_checkbox: true
     - pymdownx.emoji:
-        emoji_index: !!python/name:material.extensions.emoji.twemoji
-        emoji_generator: !!python/name:material.extensions.emoji.to_svg
+          emoji_index: !!python/name:material.extensions.emoji.twemoji
+          emoji_generator: !!python/name:material.extensions.emoji.to_svg
     - pymdownx.snippets:
-        auto_append:
-            - includes/begrippenlijst.md
+          auto_append:
+              - includes/begrippenlijst.md
 
 # Extra opties voor footer
-extra: 
+extra:
     social:
-        - icon: fontawesome/brands/github 
+        - icon: fontawesome/brands/github
           link: https://github.com/MinBZK/Algoritmekader
 
 extra_css:
-  - stylesheets/extra.css
+    - stylesheets/extra.css
 
 extra_javascript:
-  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
-  - javascripts/tablesort.js
-  
+    - https://cdnjs.cloudflare.com/ajax/libs/markdown-it/13.0.1/markdown-it.min.js
+    - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+    - javascripts/tablesort.js
+    - path: javascripts/maatregelen.js
+      type: module
+    - javascripts/extra.js
+
 plugins:
     - glightbox
     - search
     - git-revision-date-localized:
-        enable_creation_date: true
+          enable_creation_date: true
     - awesome-pages
 
 hooks:

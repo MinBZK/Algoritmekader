@@ -93,9 +93,12 @@ extra_javascript:
     - https://cdnjs.cloudflare.com/ajax/libs/markdown-it/13.0.1/markdown-it.min.js
     - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
     - javascripts/tablesort.js
+    - path: javascripts/extra.js
+      type: module
     - path: javascripts/maatregelen.js
       type: module
-    - javascripts/extra.js
+    - path: javascripts/main.js
+      type: module
 
 plugins:
     - glightbox

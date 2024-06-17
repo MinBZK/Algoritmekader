@@ -23,10 +23,13 @@ Onderdeel van het bouwblok Fundamentele rechten is het onderwerp [Bias en non-di
   <table id="instrument-table">
     <thead>
       <tr>
-        <th>URN</th>
-        <th>Naam</th>
-        <th>Uitleg</th>
         <th></th>
+        <th>Titel</th>
+        <th>Toelichting</th>
+        <th>Vereiste</th>
+        <th>Levenscyclus</th>
+        <th>Bouwblok</th>
+        <th>Rollen</th>
       </tr>
     </thead>
     <tbody class="instrument-list-body">

@@ -7,7 +7,6 @@ document.addEventListener("DOMContentLoaded", function () {
     let storedInstrumentsList = document.querySelector('.stored-instruments-list');
     let sendButton = document.getElementById('send-button');
     let cartBadge = document.querySelector('.myDIV');
-    let hideDiv = document.querySelector('.hide');
 
     updateDisplay();
     renderMaatregelenList();
@@ -21,15 +20,31 @@ document.addEventListener("DOMContentLoaded", function () {
         updateDisplay();
         renderMaatregelenList();
         renderStoredMaatregelen();
-        console.log(maatregelen);
         logNewURL();
+    });
+
+    sendButton.addEventListener("click", (event) => {
+        event.preventDefault();
+        const maatregelenData = encodeURIComponent(JSON.stringify(getSelectedMaatregelen()));
+        const url = `otherpage.html?maatregelen=${maatregelenData}`;
+
+        localStorage.removeItem('maatregelen');
+        maatregelen.forEach(maatregel => {
+            maatregel.selected = false;
+        });
+        updateDisplay();
+        renderMaatregelenList();
+        renderStoredMaatregelen();
+
+        console.log("Redirecting to:", url);
+        window.location.href = url;
     });
 
     function updateDisplay() {
         const count = getSelectedMaatregelen().length;
-        console.log('Count:', count);
         counterDisplayElem.textContent = count;
         cartBadge.querySelector('h1').textContent = count;
+        renderStoredMaatregelen();
     }
 
     function renderStoredMaatregelen() {
@@ -52,6 +67,8 @@ document.addEventListener("DOMContentLoaded", function () {
             li.appendChild(deleteButton);
             storedInstrumentsList.appendChild(li);
         });
+
+        logNewURL(); // Log the updated URL whenever the list is rendered
     }
 
     function logNewURL() {

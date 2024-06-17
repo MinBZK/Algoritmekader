@@ -4,63 +4,100 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TAD - Nieuw project</title>
+    <title>Other Page</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            line-height: 1.6;
-            padding: 20px;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: #f0f0f0;
         }
 
-        .container {
-            max-width: 600px;
-            margin: 0 auto;
+        h1 {
+            color: #333;
         }
 
-        .cta-button {
-            display: inline-block;
-            padding: 10px 20px;
+        .selected-maatregelen-list {
+            list-style: none;
+            padding: 0;
+            margin: 20px 0;
+            width: 300px;
+        }
+
+        .selected-maatregelen-list li {
+            background-color: #fff;
+            padding: 10px;
+            margin: 5px 0;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+
+        .button-container {
+            margin-top: 20px;
+        }
+
+        .start-project-button {
             background-color: #007bff;
             color: white;
-            text-decoration: none;
+            padding: 10px 20px;
+            border: none;
             border-radius: 4px;
-            margin-top: 20px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        .start-project-button:hover {
+            background-color: #0056b3;
         }
     </style>
 </head>
 
 <body>
-    <div class="container">
-        <h2>U heeft de volgende maatregelen geselecteerd</h2>
-        <div id="instruments-list"></div>
-        <a href="newproject.html" class="cta-button">Start uw project</a>
+    <h1>Welkom in de TAD tool</h1>
+    <h2>Dit zijn uw geselecteerde maatregelen</h2>
+    <ul class="selected-maatregelen-list"></ul>
+
+    <div class="button-container">
+        <button class="start-project-button" onclick="startProject()">Start Project</button>
     </div>
 
     <script>
         document.addEventListener("DOMContentLoaded", function () {
-            const urlParams = new URLSearchParams(window.location.search);
-            const instrumentsData = urlParams.get('instruments');
+            function getUrlParameter(name) {
+                name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+                var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+                var results = regex.exec(location.search);
+                return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+            }
 
-            if (instrumentsData) {
-                const instrumentsArray = JSON.parse(decodeURIComponent(instrumentsData));
-                const instrumentsListDiv = document.getElementById('instruments-list');
+            const maatregelenData = getUrlParameter('maatregelen');
+            console.log("Maatregelen data from URL:", maatregelenData);
 
-                if (instrumentsArray.length > 0) {
-                    const ul = document.createElement('ul');
-                    instrumentsArray.forEach(instrument => {
-                        const li = document.createElement('li');
-                        li.textContent = instrument;
-                        ul.appendChild(li);
-                    });
-                    instrumentsListDiv.appendChild(ul);
-                } else {
-                    instrumentsListDiv.textContent = 'No instruments received.';
-                }
+            if (maatregelenData) {
+                const selectedMaatregelen = JSON.parse(maatregelenData);
+
+                const maatregelenList = document.querySelector('.selected-maatregelen-list');
+                selectedMaatregelen.forEach(maatregel => {
+                    const li = document.createElement('li');
+                    li.textContent = maatregel.title;
+                    maatregelenList.appendChild(li);
+                });
+
+                console.log("Selected Maatregelen:", selectedMaatregelen);
             } else {
-                const instrumentsListDiv = document.getElementById('instruments-list');
-                instrumentsListDiv.textContent = 'No instruments data found.';
+                console.log("No maatregelen data found in URL.");
             }
         });
+
+        function startProject() {
+            // Add functionality to start the project here
+            alert('Starting project with selected maatregelen!');
+        }
     </script>
 </body>
 

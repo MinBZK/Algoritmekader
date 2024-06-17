@@ -49,23 +49,24 @@ This file is copied from the original theme and modified to add the TAD dialog
 
     <div class="card">
       <div class="badge badge-neutral cursor-pointer myDIV">
-        <p>Items: </p>
-        <h1 class="counter-display">0</h1>
+        <div class="cart-header">
+          <p>Items:</p>
+          <h1 class="counter-display">0</h1>
+        </div>
         <div class="hide">
           <ul class="stored-instruments-list"></ul>
           <!-- Form to send localStorage data to another page -->
           <form id="send-instruments-form" method="POST">
             <input type="hidden" name="instruments" id="instruments-data">
-            <button type="submit" id="send-button">Start project</button>
-            <button class="clear-storage">Alles verwijderen</button>
+            <div class="button-group">
+              <button type="submit" id="send-button" class="action-button">Start project</button>
+              <button type="button" class="clear-storage action-button">Alles verwijderen</button>
+            </div>
           </form>
         </div>
       </div>
     </div>
 
-    </div>
-    <div id="tadcategorydialog"></div>
-    </div>
     {% if "material/search" in config.plugins %}
     <label class="md-header__button md-icon" for="__search">
       {% set icon = config.theme.icon.search or "material/magnify" %}

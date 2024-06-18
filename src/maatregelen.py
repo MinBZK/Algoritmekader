@@ -3,31 +3,13 @@ from html.parser import HTMLParser
 from pathlib import Path
 
 import yaml
-from mkdocs.structure.files import File, Files
+from mkdocs.structure.files import Files
 from mkdocs.structure.pages import Page
 
 
-def on_files(files, config, **kwargs):
-    #print(f"config: {config}")
-    print(f"files: {files}")
-
-    maatregelen=[]
-    for file in files:
-        myfile: File = file
-
-        if myfile.src_uri.endswith('index.md'):
-            continue
-            
-        if not myfile.src_uri.endswith(".md"):
-            continue
-    
-        
-        if myfile.src_uri.startswith("maatregelen/"):
-            mypath = Path(myfile.src_uri)
-
-            # maybe we need to html encode the names
-            maatregelen.append(mypath.name)
-
+def on_config(config):
+    with open("maatregelen.json", "w") as f:
+        f.write("[")
 
 def on_page_markdown(markdown: str, page: Page, config, files: Files ):
     myfile = page.file
@@ -35,10 +17,20 @@ def on_page_markdown(markdown: str, page: Page, config, files: Files ):
     if myfile.src_uri.endswith('index.md'):
         return
         
-    if not myfile.src_uri.endswith(".md"):
+    if not myfile.src_uri.startswith("maatregelen/"):
         return
 
-    
-    if myfile.src_uri.startswith("maatregelen/"):
-        print(myfile.src_uri)
-        print(page.meta)
+    print(myfile.src_uri)
+    filepath = Path(myfile.src_uri)
+    maatregel = {}
+    maatregel["filename"] = filepath.stem
+    maatregel["meta"] = {k:v for k, v in page.meta.items() if 'git' not in k}
+
+    with open("maatregelen.json", "a") as f:
+        json.dump(maatregel, f)
+        f.write(",")
+
+
+def on_env(env, config, files: Files ):
+    with open("maatregelen.json", "a") as f:
+        f.write("]")

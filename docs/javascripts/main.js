@@ -1,5 +1,6 @@
 import { maatregelen, toggleMaatregel, updateButtonState, renderMaatregelenList, updateMaatregelenInLocalStorage, renderStoredMaatregelen } from './maatregelen.js';
 
+// Event listener for DOMContentLoaded to ensure the DOM is fully loaded before executing scripts
 document.addEventListener("DOMContentLoaded", function () {
     let counterDisplayElem = document.querySelector('.counter-display');
     let clearStorageButton = document.querySelector('.clear-storage');
@@ -8,10 +9,12 @@ document.addEventListener("DOMContentLoaded", function () {
     let sendButton = document.getElementById('send-button');
     let cartBadge = document.querySelector('.myDIV');
 
+    // Initial rendering of the display and stored maatregelen
     updateDisplay();
     renderMaatregelenList();
     renderStoredMaatregelen();
 
+    // Event listener for clearing localStorage
     clearStorageButton.addEventListener("click", () => {
         localStorage.removeItem('maatregelen');
         maatregelen.forEach(maatregel => {
@@ -23,6 +26,7 @@ document.addEventListener("DOMContentLoaded", function () {
         logNewURL();
     });
 
+    // Event listener for sending selected maatregelen to another page
     sendButton.addEventListener("click", (event) => {
         event.preventDefault();
         const maatregelenData = encodeURIComponent(JSON.stringify(getSelectedMaatregelen()));
@@ -40,6 +44,7 @@ document.addEventListener("DOMContentLoaded", function () {
         window.location.href = url;
     });
 
+    // Function to update the display of the counter and stored maatregelen
     function updateDisplay() {
         const count = getSelectedMaatregelen().length;
         counterDisplayElem.textContent = count;
@@ -47,6 +52,7 @@ document.addEventListener("DOMContentLoaded", function () {
         renderStoredMaatregelen();
     }
 
+    // Function to render the stored maatregelen in the list
     function renderStoredMaatregelen() {
         storedInstrumentsList.innerHTML = '';
 
@@ -71,16 +77,19 @@ document.addEventListener("DOMContentLoaded", function () {
         logNewURL(); // Log the updated URL whenever the list is rendered
     }
 
+    // Function to log the new URL with selected maatregelen
     function logNewURL() {
         const maatregelenData = encodeURIComponent(JSON.stringify(getSelectedMaatregelen()));
         const url = `otherpage.html?maatregelen=${maatregelenData}`;
         console.log("New URL:", url);
     }
 
+    // Function to get the selected maatregelen
     function getSelectedMaatregelen() {
         return maatregelen.filter(maatregel => maatregel.selected);
     }
 
+    // Event listener for toggling the selection of a maatregel
     instrumentTableBody.addEventListener('click', (event) => {
         if (event.target.classList.contains('toggle-button')) {
             const row = event.target.closest('tr');

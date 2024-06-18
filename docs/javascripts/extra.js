@@ -54,25 +54,25 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     }
 
-    function logNewURL() {
-        const maatregelenData = encodeURIComponent(JSON.stringify(getSelectedMaatregelen()));
-        const url = `otherpage.html?maatregelen=${maatregelenData}`;
-        console.log("New URL:", url);
-    }
+    // function logNewURL() {
+    //     const maatregelenData = encodeURIComponent(JSON.stringify(getSelectedMaatregelen()));
+    //     const url = `otherpage.html?maatregelen=${maatregelenData}`;
+    //     console.log("New URL:", url);
+    // }
 
-    function getSelectedMaatregelen() {
-        return maatregelen.filter(maatregel => maatregel.selected);
-    }
+    // function getSelectedMaatregelen() {
+    //     return maatregelen.filter(maatregel => maatregel.selected);
+    // }
 
-    instrumentTableBody.addEventListener('click', (event) => {
-        if (event.target.classList.contains('toggle-button')) {
-            const row = event.target.closest('tr');
-            const title = row.cells[0].textContent;
-            toggleMaatregel(title);
-            updateDisplay();
-            updateMaatregelenInLocalStorage();
-        }
-    });
+    // instrumentTableBody.addEventListener('click', (event) => {
+    //     if (event.target.classList.contains('toggle-button')) {
+    //         const row = event.target.closest('tr');
+    //         const title = row.cells[0].textContent;
+    //         toggleMaatregel(title);
+    //         updateDisplay();
+    //         updateMaatregelenInLocalStorage();
+    //     }
+    // });
 
-    console.log("Maatregelen:", maatregelen);
+    // console.log("Maatregelen:", maatregelen);
 });

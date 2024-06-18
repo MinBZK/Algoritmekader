@@ -2,22 +2,27 @@ import * as yaml from "https://cdn.skypack.dev/js-yaml";
 
 let maatregelen = [];
 
+// On window load, fetch and render the maatregelen
 window.onload = function () {
     getMaatregelen();
 }
 
+// Function to get the path prefix for fetching files
 function getPathPrefix() {
     return "/maatregelen_raw/"
 }
 
+// Async function to fetch maatregelen from a list and parse them
 async function getMaatregelen() {
     let pathPrefix = getPathPrefix();
 
     try {
+        // Fetch the list of maatregelen file names
         const response = await fetch(pathPrefix + "maatregelen.txt");
         const data = await response.text();
         const lines = data.split("\n").filter(el => el != null && el !== "");
 
+        // Fetch and parse each maatregel file
         for (const fileName of lines) {
             try {
                 const fileResponse = await fetch(pathPrefix + fileName.trim() + ".txt");
@@ -45,14 +50,17 @@ async function getMaatregelen() {
     }
 }
 
+// Function to render the list of maatregelen in a table
 function renderMaatregelenList() {
     try {
         const tableBody = document.querySelector('.instrument-list-body');
         tableBody.innerHTML = '';
 
+        // Create a table row for each maatregel
         maatregelen.forEach(maatregel => {
             const row = document.createElement('tr');
 
+            // Action cell with toggle button
             const actionCell = document.createElement('td');
             const actionButton = document.createElement('button');
             updateButtonState(actionButton, maatregel.title);
@@ -65,6 +73,7 @@ function renderMaatregelenList() {
             });
             actionCell.appendChild(actionButton);
 
+            // Other cells for maatregel details
             const titleCell = document.createElement('td');
             titleCell.textContent = maatregel.title || '';
 
@@ -83,6 +92,7 @@ function renderMaatregelenList() {
             const rollenCell = document.createElement('td');
             rollenCell.textContent = maatregel.rollen ? maatregel.rollen.join(', ') : '';
 
+            // Append cells to row
             row.appendChild(actionCell);
             row.appendChild(titleCell);
             row.appendChild(toelichtingCell);
@@ -91,6 +101,7 @@ function renderMaatregelenList() {
             row.appendChild(bouwblokCell);
             row.appendChild(rollenCell);
 
+            // Append row to table body
             tableBody.appendChild(row);
         });
 
@@ -99,6 +110,7 @@ function renderMaatregelenList() {
     }
 }
 
+// Function to toggle the selection state of a maatregel
 function toggleMaatregel(title) {
     const index = maatregelen.findIndex(maatregel => maatregel.title === title);
     if (index !== -1) {
@@ -107,6 +119,7 @@ function toggleMaatregel(title) {
     }
 }
 
+// Function to update the button state based on selection
 function updateButtonState(button, title) {
     const maatregel = maatregelen.find(m => m.title === title);
     if (maatregel && maatregel.selected) {
@@ -118,10 +131,12 @@ function updateButtonState(button, title) {
     }
 }
 
+// Function to update the maatregelen in localStorage
 function updateMaatregelenInLocalStorage() {
     localStorage.setItem('maatregelen', JSON.stringify(maatregelen));
 }
 
+// Function to render the stored maatregelen in the list
 function renderStoredMaatregelen() {
     const storedInstrumentsList = document.querySelector('.stored-instruments-list');
     storedInstrumentsList.innerHTML = '';
@@ -145,10 +160,12 @@ function renderStoredMaatregelen() {
     });
 }
 
+// Function to get the selected maatregelen
 function getSelectedMaatregelen() {
     return maatregelen.filter(maatregel => maatregel.selected);
 }
 
+// Function to log the new URL with selected maatregelen
 function logNewURL() {
     const maatregelenData = encodeURIComponent(JSON.stringify(getSelectedMaatregelen()));
     const url = `otherpage.html?maatregelen=${maatregelenData}`;

@@ -1,6 +1,6 @@
 ---
 title: Impact Assessment Mensenrechten en Algoritmes
-toelichting: hier komt nog een toelichting
+toelichting: hier komt nog een toelichting later 
 vereiste:
 - beoordelen_gevolgen_voor_grondrechten
 levenscyclus:

@@ -108,6 +108,9 @@ plugins:
 hooks:
     - src/overrides/hooks/tags.py
     - src/overrides/hooks/lists.py
+    - src/maatregelen.py
+
+
 
 # Link naar GitHub repo
 repo_url: https://github.com/MinBZK/Algoritmekader

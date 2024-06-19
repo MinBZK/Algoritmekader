@@ -1,5 +1,3 @@
-import * as yaml from "https://cdn.skypack.dev/js-yaml";
-
 let maatregelen = [];
 
 // On window load, fetch and render the maatregelen
@@ -7,41 +5,41 @@ window.onload = function () {
     getMaatregelen();
 }
 
-// Function to get the path prefix for fetching files
-function getPathPrefix() {
-    return "/maatregelen_raw/"
+// Function to construct the correct path to the JSON file
+function getFilePath() {
+    return "../../maatregelen.json";
 }
 
-// Async function to fetch maatregelen from a list and parse them
+// Async function to fetch maatregelen from a JSON file and parse them
 async function getMaatregelen() {
-    let pathPrefix = getPathPrefix();
+    const filePath = getFilePath(); // Path to the JSON file
+    console.log(`Fetching JSON from: ${filePath}`);
 
     try {
-        // Fetch the list of maatregelen file names
-        const response = await fetch(pathPrefix + "maatregelen.txt");
-        const data = await response.text();
-        const lines = data.split("\n").filter(el => el != null && el !== "");
-
-        // Fetch and parse each maatregel file
-        for (const fileName of lines) {
-            try {
-                const fileResponse = await fetch(pathPrefix + fileName.trim() + ".txt");
-                const mdData = await fileResponse.text();
-                const regex = /---(.*?)---/gs;
-                const matches = [...mdData.matchAll(regex)];
-                if (matches.length > 0) {
-                    const codeBlocks = matches[0][1].trim();
-                    const myJSONBlock = yaml.load(codeBlocks);
-                    if (myJSONBlock) {
-                        maatregelen.push(myJSONBlock);
-                    }
-                } else {
-                    console.warn(`No YAML front matter found in ${fileName}`);
-                }
-            } catch (e) {
-                console.error(`Error fetching or parsing ${fileName}:`, e);
-            }
+        // Fetch the maatregelen JSON file from the specified folder
+        const response = await fetch(filePath);
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
         }
+        const data = await response.json();
+
+        // Process each maatregel from the JSON data
+        data.forEach(item => {
+            const meta = item.meta;
+            if (meta) {
+                maatregelen.push({
+                    title: meta.title || 'No title',
+                    toelichting: meta.toelichting || '',
+                    vereiste: meta.vereiste || [],
+                    levenscyclus: meta.levenscyclus || [],
+                    bouwblok: meta.bouwblok || [],
+                    rollen: meta.rollen || [],
+                    selected: false // Initialize the selection state
+                });
+            } else {
+                console.warn(`No meta found for item: ${JSON.stringify(item)}`);
+            }
+        });
 
         console.log("Maatregelen loaded:", maatregelen);
         renderMaatregelenList();
@@ -54,6 +52,10 @@ async function getMaatregelen() {
 function renderMaatregelenList() {
     try {
         const tableBody = document.querySelector('.instrument-list-body');
+        if (!tableBody) {
+            console.error('Table body not found');
+            return;
+        }
         tableBody.innerHTML = '';
 
         // Create a table row for each maatregel
@@ -139,6 +141,10 @@ function updateMaatregelenInLocalStorage() {
 // Function to render the stored maatregelen in the list
 function renderStoredMaatregelen() {
     const storedInstrumentsList = document.querySelector('.stored-instruments-list');
+    if (!storedInstrumentsList) {
+        console.error('Stored instruments list not found');
+        return;
+    }
     storedInstrumentsList.innerHTML = '';
 
     getSelectedMaatregelen().forEach(maatregel => {

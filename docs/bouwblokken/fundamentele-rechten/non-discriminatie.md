@@ -41,8 +41,9 @@ De afgelopen jaren is duidelijk geworden dat ook algoritmes en AI-systemen discr
 Omdat niet één van die termen helemaal de lading van het begrip *bias* dekt, maken we in het Algoritmekader gebruik van de term *bias*. 
 De term *bias* heeft verschillende betekenissen afhankelijk van de context waarin het gebruikt wordt en de disciplines die daarbij betrokken zijn. 
 Vaak wordt er naar bias gekeken als een technisch concept, maar het omvat daarnaast ook menselijke aspecten. 
-We starten met een verduidelijking hoe het begrip bias in algoritmische context gebruikt wordt. 
-Vervolgens maken we onderscheid tussen drie verschillende aspecten van bias: statistische bias, systemische bias en menselijke bias.
+We starten met een verduidelijking hoe het begrip bias in algoritmische context gebruikt wordt en hoe dit in verhouding staat tot discriminatie. 
+Vervolgens maken we onderscheid tussen drie verschillende aspecten van bias: statistische bias, systemische bias en menselijke bias. 
+Deze drie aspecten van bias kunnen los van elkaar bestaan, maar kunnen juist in combinatie met elkaar tot problemen leiden. 
 
 #### Bias in algoritmische context
 Het concept bias wordt in algoritmische context gedefinieerd als *een systematisch verschil in behandeling van bepaalde objecten, mensen of groepen in vergelijking met anderen*.[^2]
@@ -99,7 +100,7 @@ Een veel voorkomend voorbeeld van systemische bias is historische bias.
 
 #### Menselijke bias 
 Menselijke bias omvat systematische fouten in het menselijk denken. 
-Deze menselijke vooroordelen zijn vaak impliciet van aard en hebben betrekking op de manier waarop een individu bepaalde informatie waarneemt en verwerkt om bijvoorbeeld een beslissing te nemen. 
+Deze (onbewuste) menselijke vooroordelen zijn vaak impliciet van aard en hebben betrekking op de manier waarop een individu bepaalde informatie waarneemt en verwerkt om bijvoorbeeld een beslissing te nemen. 
 In de context van algoritmes kan deze vorm van bias invloed hebben op de verzamelde data, op de wijze waarop het algoritme wordt geoptimaliseerd en de besluiten die door mensen worden genomen op basis van het algoritme.
 Voorbeelden van vormen menselijke bias zijn wanneer er voorkeur wordt geven aan de voorspellingen van een algoritme die reeds bestaande overtuigingen bevestigen (bevestigingsbias), of wanneer mensen de neiging hebben om voorkeur te geven aan suggesties die door het algoritme worden gedaan (automatiseringsbias)
 

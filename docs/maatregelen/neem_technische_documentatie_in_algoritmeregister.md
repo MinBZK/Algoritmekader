@@ -43,4 +43,4 @@ Met het opstellen van technische documentatie over algoritmes en AI-systemen wor
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
 | Algoritmekader |
-| Handreiking Algoritemregister[https://www.digitaleoverheid.nl/wp-content/uploads/sites/8/2023/12/Handreiking-Algoritmeregister-versie-1.0.pdf].
+| Handreiking Algoritmeregister [https://www.digitaleoverheid.nl/wp-content/uploads/sites/8/2023/12/Handreiking-Algoritmeregister-versie-1.0.pdf]|

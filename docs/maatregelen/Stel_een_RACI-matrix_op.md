@@ -11,6 +11,7 @@ levenscyclus:
 - dataverkenning-en-datapreparatie
 - ontwikkel
 - implementatie
+- monitoring-en-beheer
 # vul hier de bouwblokken in die horen bij deze maatregel
 bouwblok:
 - privacy en gegevensbescherming

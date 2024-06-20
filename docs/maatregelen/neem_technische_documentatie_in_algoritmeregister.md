@@ -2,7 +2,7 @@
 # vul hier een titel in voor deze maatregel
 title: Neem technische documentatie op in het algoritmeregister
 # geef hier een korte toelichting van deze maatregel
-toelichting: Neem passende informatie uit technische documentatie op in het algoritmeregister
+toelichting: Neem geschikte informatie uit technische documentatie op in het algoritmeregister
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: algoritmeregister
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
@@ -31,7 +31,7 @@ Neem geschikte informatie uit technische documentatie op in het algoritmeregiste
 
 ## Toelichting 
 <!-- Geef hier een toelichting van deze maatregel -->
-Met het opstellen van technische documentatie over algoritmes en AI-systemen wordt belangrijke informatie vastlegd die moet worden opgenomen, of relevant is om, in het algoritmeregister. De Handreiking Algoritmeregister kan worden geraadpleegd om te bepalen of het algoritme of AI-systeem moet worden gepubliceerd. 
+Met het opstellen van technische documentatie over algoritmes en AI-systemen wordt belangrijke informatie vastlegd die moet worden opgenomen of kan worden opgenomen in het algoritmeregister. De Handreiking Algoritmeregister kan worden geraadpleegd om te bepalen of het algoritme of AI-systeem moet worden gepubliceerd. 
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

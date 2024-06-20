@@ -17,27 +17,6 @@ Onderdeel van het bouwblok Fundamentele rechten is het onderwerp [Bias en non-di
 <!-- list_vereisten bouwblok/fundamentele-rechten -->
 
 ## Maatregelen
-
-<!-- list_maatregelen bouwblok/fundamentele-rechten -->
-<div class="maatregelen-list">
-  <table id="instrument-table">
-    <thead>
-      <tr>
-        <th></th>
-        <th>Titel</th>
-        <th>Toelichting</th>
-        <th>Vereiste</th>
-        <th>Levenscyclus</th>
-        <th>Bouwblok</th>
-        <th>Rollen</th>
-      </tr>
-    </thead>
-    <tbody class="instrument-list-body">
-      <!-- Instruments will be dynamically added here -->
-    </tbody>
-  </table>
-</div>
-
     
 
  

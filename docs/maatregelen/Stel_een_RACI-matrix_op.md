@@ -5,7 +5,6 @@ title: Stel een RACI-matrix op
 toelichting: Stel een RACI-matrix op waarbij de rollen en verantwoordelijkheden worden beschreven en toebedeeld bij het verwerken van persoonsgegevens
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: beschrijven_en_toewijzen_van_verantwoordelijkheden_bij_verwerking_persoonsgegevens
-- 
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 
 - ontwerp

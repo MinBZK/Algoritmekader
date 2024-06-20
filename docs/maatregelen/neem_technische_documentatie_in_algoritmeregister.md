@@ -2,7 +2,7 @@
 # vul hier een titel in voor deze maatregel
 title: Neem technische documentatie op in het algoritmeregister
 # geef hier een korte toelichting van deze maatregel
-toelichting: Neem geschikte informatie uit technische documentatie op in het algoritmeregister
+toelichting: Neem passende informatie uit technische documentatie op in het algoritmeregister
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: algoritmeregister
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel

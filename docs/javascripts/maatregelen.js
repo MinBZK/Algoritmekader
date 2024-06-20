@@ -128,7 +128,7 @@ function updateButtonState(button, title) {
         button.textContent = 'Toegevoegd';
         button.style.backgroundColor = '#28a745';
     } else {
-        button.textContent = 'Voeg Toe';
+        button.textContent = 'Voeg toe';
         button.style.backgroundColor = '#007bff';
     }
 }

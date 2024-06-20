@@ -1,6 +1,6 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Stel een RACI-matrix op voor het verwerken van persoonsgegevens
+title: Stel een RACI-matrix op
 # geef hier een korte toelichting van deze maatregel
 toelichting: Stel een RACI-matrix op waarbij de rollen en verantwoordelijkheden worden beschreven en toebedeeld bij het verwerken van persoonsgegevens
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel

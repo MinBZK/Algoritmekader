@@ -46,9 +46,9 @@ Het is van belang om de rollen en verantwoordelijkheden over en gedurende de geh
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
-| Bron |
 | Algoritmekader |
-|  |        
+
+       
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->

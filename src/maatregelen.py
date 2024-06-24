@@ -10,7 +10,7 @@ maatregelen_list = []
 def on_config(config):
     # Maak het JSON-bestand leeg aan het begin door een lege array te schrijven
     with open("docs/maatregelen.json", "w") as f:
-        f.write("[")
+        json.dump([], f)
 
 
 def on_page_markdown(markdown: str, page: Page, config, files: Files):
@@ -36,9 +36,4 @@ def on_page_markdown(markdown: str, page: Page, config, files: Files):
 def on_env(env, config, files: Files):
     # Schrijf alle items in de lijst naar het JSON-bestand in één keer
     with open("docs/maatregelen.json", "w") as f:
-        f.write("[")
-        for i, maatregel in enumerate(maatregelen_list):
-            json.dump(maatregel, f)
-            if i < len(maatregelen_list) - 1:
-                f.write(",")
-        f.write("]")
+        json.dump(maatregelen_list, f, indent=4)

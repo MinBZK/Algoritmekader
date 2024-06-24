@@ -1,4 +1,11 @@
-import { maatregelen, toggleMaatregel, updateButtonState, renderMaatregelenList, updateMaatregelenInLocalStorage, renderStoredMaatregelen } from './maatregelen.js';
+import {
+    maatregelen,
+    toggleMaatregel,
+    updateButtonState,
+    renderMaatregelenList,
+    updateMaatregelenInLocalStorage,
+    renderStoredMaatregelen
+} from './maatregelen.js';
 
 // Event listener for DOMContentLoaded to ensure the DOM is fully loaded before executing scripts
 document.addEventListener("DOMContentLoaded", function () {

@@ -3,112 +3,112 @@
 site_name: Algoritmekader [concept]
 site_description: Concept van het algoritmekader. Het doel daarvan is om overheden op praktische wijze te ondersteunen, zodat zij op een wettige en ethisch verantwoorde wijze algoritmes en AI-systemen gebruiken.
 watch:
-    - includes/
+      - includes/
 
 ### theme settings ###
 theme:
-    name: material
-    custom_dir: overrides
-    language: nl
-    palette:
-        - primary: blue
-    features:
-        - navigation.indexes
-        - navigation.tabs
-        - navigation.tabs.sticky
-        - navigation.top
-        - navigation.tracking
-        - navigation.instant
-        - navigation.footer
-        - search.highlight
-        - search.suggest
-        - content.action.edit
-        - content.action.view
-        - content.tooltips
-        - content.tabs.link
-    icon:
-        logo: fontawesome/solid/house
-        annotation: fontawesome/solid/circle-info
+      name: material
+      custom_dir: overrides
+      language: nl
+      palette:
+            - primary: blue
+      features:
+            - navigation.indexes
+            - navigation.tabs
+            - navigation.tabs.sticky
+            - navigation.top
+            - navigation.tracking
+            - navigation.instant
+            - navigation.footer
+            - search.highlight
+            - search.suggest
+            - content.action.edit
+            - content.action.view
+            - content.tooltips
+            - content.tabs.link
+      icon:
+            logo: fontawesome/solid/house
+            annotation: fontawesome/solid/circle-info
 
 # Navigation for the site
 nav:
-    - Home: index.md
-    - Over het algoritmekader:
-          - overhetalgoritmekader/index.md
-          - overhetalgoritmekader/definities.md
-          - overhetalgoritmekader/CONTRIBUTING.md
-    - Levenscyclus:
-          - levenscyclus/index.md
-          - levenscyclus/probleemanalyse.md
-          - levenscyclus/ontwerp.md
-          - levenscyclus/dataverkenning-en-datapreparatie.md
-          - levenscyclus/ontwikkelen.md
-          - levenscyclus/verificatie-en-validatie.md
-          - levenscyclus/implementatie.md
-          - levenscyclus/monitoring-en-beheer.md
-          - levenscyclus/uitfaseren.md
-    - Bouwblokken:
-          - bouwblokken/index.md
-          - ... | bouwblokken/*/*.md
-    - Rollen:
-          - ... | rollen/*.md
-    - Vereisten:
-          - ... | vereisten/*.md
-    - Maatregelen:
-          - ... | maatregelen/*.md
-    - Instrumenten: instrumenten/index.md
+      - Home: index.md
+      - Over het algoritmekader:
+              - overhetalgoritmekader/index.md
+              - overhetalgoritmekader/definities.md
+              - overhetalgoritmekader/CONTRIBUTING.md
+      - Levenscyclus:
+              - levenscyclus/index.md
+              - levenscyclus/probleemanalyse.md
+              - levenscyclus/ontwerp.md
+              - levenscyclus/dataverkenning-en-datapreparatie.md
+              - levenscyclus/ontwikkelen.md
+              - levenscyclus/verificatie-en-validatie.md
+              - levenscyclus/implementatie.md
+              - levenscyclus/monitoring-en-beheer.md
+              - levenscyclus/uitfaseren.md
+      - Bouwblokken:
+              - bouwblokken/index.md
+              - ... | bouwblokken/*/*.md
+      - Rollen:
+              - ... | rollen/*.md
+      - Vereisten:
+              - ... | vereisten/*.md
+      - Maatregelen:
+              - ... | maatregelen/*.md
+      - Instrumenten: instrumenten/index.md
 
 # Extra opties
 markdown_extensions:
-    - pymdownx.tabbed:
-          alternate_style: true
-    - pymdownx.superfences
-    - pymdownx.details
-    - admonition
-    - attr_list
-    - abbr
-    - md_in_html
-    - footnotes
-    - toc:
-          permalink: true
-    - pymdownx.tasklist:
-          custom_checkbox: true
-    - pymdownx.emoji:
-          emoji_index: !!python/name:material.extensions.emoji.twemoji
-          emoji_generator: !!python/name:material.extensions.emoji.to_svg
-    - pymdownx.snippets:
-          auto_append:
-              - includes/begrippenlijst.md
+      - pymdownx.tabbed:
+              alternate_style: true
+      - pymdownx.superfences
+      - pymdownx.details
+      - admonition
+      - attr_list
+      - abbr
+      - md_in_html
+      - footnotes
+      - toc:
+              permalink: true
+      - pymdownx.tasklist:
+              custom_checkbox: true
+      - pymdownx.emoji:
+              emoji_index: !!python/name:material.extensions.emoji.twemoji
+              emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      - pymdownx.snippets:
+              auto_append:
+                    - includes/begrippenlijst.md
 
 # Extra opties voor footer
 extra:
-    social:
-        - icon: fontawesome/brands/github
-          link: https://github.com/MinBZK/Algoritmekader
+      social:
+            - icon: fontawesome/brands/github
+              link: https://github.com/MinBZK/Algoritmekader
 
 extra_css:
-    - stylesheets/extra.css
+      - stylesheets/extra.css
 
 extra_javascript:
-    - https://cdnjs.cloudflare.com/ajax/libs/markdown-it/13.0.1/markdown-it.min.js
-    - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
-    - javascripts/tablesort.js
-    - path: javascripts/maatregelen.js
-      type: module
-    - path: javascripts/main.js
-      type: module
+      - https://cdnjs.cloudflare.com/ajax/libs/markdown-it/13.0.1/markdown-it.min.js
+      - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+      - javascripts/tablesort.js
+      - path: javascripts/maatregelen.js
+        type: module
+      - path: javascripts/main.js
+        type: module
 
 plugins:
-    - glightbox
-    - search
-    - git-revision-date-localized:
-          enable_creation_date: true
-    - awesome-pages
+      - glightbox
+      - search
+      - git-revision-date-localized:
+              enable_creation_date: true
+      - awesome-pages
 
 hooks:
-    - src/overrides/hooks/tags.py
-    - src/overrides/hooks/lists.py
-    - src/maatregelen.py
+      - src/overrides/hooks/tags.py
+      - src/overrides/hooks/lists.py
+      - src/maatregelen.py
 
 # Link naar GitHub repo
 repo_url: https://github.com/MinBZK/Algoritmekader

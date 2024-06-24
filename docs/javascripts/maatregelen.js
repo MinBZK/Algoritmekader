@@ -42,7 +42,7 @@ async function getMaatregelen() {
         });
 
         console.log("Maatregelen loaded:", maatregelen);
-        renderMaatregelenList();
+        renderMaatregelenList(); // Render the maatregelen list after loading data
     } catch (error) {
         console.error('Error fetching maatregelen:', error);
     }
@@ -156,14 +156,16 @@ function renderStoredMaatregelen() {
         deleteButton.classList.add('delete-button');
         deleteButton.addEventListener('click', () => {
             toggleMaatregel(maatregel.title);
+            updateDisplay();
             renderStoredMaatregelen();
             updateMaatregelenInLocalStorage();
-            logNewURL(); // Log the updated URL
         });
 
         li.appendChild(deleteButton);
         storedInstrumentsList.appendChild(li);
     });
+
+    logNewURL(); // Log the updated URL whenever the list is rendered
 }
 
 // Function to get the selected maatregelen
@@ -178,4 +180,12 @@ function logNewURL() {
     console.log("New URL:", url);
 }
 
-export { renderMaatregelenList, toggleMaatregel, updateButtonState, updateMaatregelenInLocalStorage, renderStoredMaatregelen, maatregelen };
+export {
+    getMaatregelen,
+    renderMaatregelenList,
+    toggleMaatregel,
+    updateButtonState,
+    updateMaatregelenInLocalStorage,
+    renderStoredMaatregelen,
+    maatregelen
+};

@@ -6,16 +6,17 @@ import {
     updateMaatregelenInLocalStorage,
     renderStoredMaatregelen,
     getMaatregelen,
-    updateDisplay
+    updateDisplay,
+    loadMaatregelenFromLocalStorage
 } from './maatregelen.js';
 
 document.addEventListener("DOMContentLoaded", function () {
-    const counterDisplayElem = document.querySelector('.counter-display');
-    const clearStorageButton = document.querySelector('.clear-storage');
-    const instrumentTableBody = document.querySelector('.instrument-list-body');
-    const storedInstrumentsList = document.querySelector('.stored-instruments-list');
-    const sendButton = document.getElementById('send-button');
-    const cartBadge = document.querySelector('.myDIV');
+    let counterDisplayElem = document.querySelector('.counter-display');
+    let clearStorageButton = document.querySelector('.clear-storage');
+    let instrumentTableBody = document.querySelector('.instrument-list-body');
+    let storedInstrumentsList = document.querySelector('.stored-instruments-list');
+    let sendButton = document.getElementById('send-button');
+    let cartBadge = document.querySelector('.myDIV');
 
     console.log("Elements selected:", {
         counterDisplayElem,
@@ -31,8 +32,6 @@ document.addEventListener("DOMContentLoaded", function () {
         return;
     }
 
-    // Load initial state from localStorage and render
-    loadMaatregelenFromLocalStorage();
     updateDisplay();
     renderMaatregelenList();
     renderStoredMaatregelen();
@@ -46,10 +45,10 @@ document.addEventListener("DOMContentLoaded", function () {
         updateDisplay();
         renderMaatregelenList();
         renderStoredMaatregelen();
+        logNewURL();
     });
 
     sendButton.addEventListener("click", (event) => {
-        console.log("Send button clicked");
         event.preventDefault();
         const maatregelenData = encodeURIComponent(JSON.stringify(getSelectedMaatregelen()));
         const url = `otherpage.html?maatregelen=${maatregelenData}`;
@@ -70,11 +69,24 @@ document.addEventListener("DOMContentLoaded", function () {
         return maatregelen.filter(maatregel => maatregel.selected);
     }
 
+    function updateDisplay() {
+        const count = getSelectedMaatregelen().length;
+        counterDisplayElem.textContent = count;
+        cartBadge.querySelector('h1').textContent = count;
+        renderStoredMaatregelen();
+    }
+
+    function logNewURL() {
+        const maatregelenData = encodeURIComponent(JSON.stringify(getSelectedMaatregelen()));
+        const url = `otherpage.html?maatregelen=${maatregelenData}`;
+        console.log("New URL:", url);
+    }
+
     instrumentTableBody.addEventListener('click', (event) => {
         console.log("Table body clicked");
         if (event.target.classList.contains('toggle-button')) {
             const row = event.target.closest('tr');
-            const title = row.cells[1].textContent;
+            const title = row.cells[0].textContent;
             console.log("Toggle button clicked for:", title);
             toggleMaatregel(title);
             updateDisplay();
@@ -84,21 +96,3 @@ document.addEventListener("DOMContentLoaded", function () {
 
     console.log("Maatregelen:", maatregelen);
 });
-
-// Function to load maatregelen from localStorage
-function loadMaatregelenFromLocalStorage() {
-    const storedMaatregelen = localStorage.getItem('maatregelen');
-    if (storedMaatregelen) {
-        maatregelen = JSON.parse(storedMaatregelen);
-        renderMaatregelenList();
-        renderStoredMaatregelen();
-        updateDisplay(); // Ensure the display is updated when the state is loaded
-    }
-}
-
-// Function to log the new URL with selected maatregelen
-function logNewURL() {
-    const maatregelenData = encodeURIComponent(JSON.stringify(getSelectedMaatregelen()));
-    const url = `otherpage.html?maatregelen=${maatregelenData}`;
-    console.log("New URL:", url);
-}

@@ -1,11 +1,5 @@
 let maatregelen = [];
 
-// On window load, fetch and render the maatregelen from localStorage if available
-window.onload = function () {
-    loadMaatregelenFromLocalStorage();
-    getMaatregelen();
-}
-
 // Function to load maatregelen from localStorage
 function loadMaatregelenFromLocalStorage() {
     const storedMaatregelen = localStorage.getItem('maatregelen');
@@ -13,7 +7,7 @@ function loadMaatregelenFromLocalStorage() {
         maatregelen = JSON.parse(storedMaatregelen);
         renderMaatregelenList();
         renderStoredMaatregelen();
-        updateDisplay(); // Ensure the display is updated when the state is loaded
+        updateDisplay();
     }
 }
 
@@ -54,7 +48,7 @@ async function getMaatregelen() {
         console.log("Maatregelen loaded:", maatregelen);
         renderMaatregelenList();
         renderStoredMaatregelen();
-        updateDisplay(); // Ensure the display is updated when the state is loaded
+        updateDisplay();
     } catch (error) {
         console.error('Error fetching maatregelen:', error);
     }
@@ -81,7 +75,7 @@ function renderMaatregelenList() {
                 toggleMaatregel(maatregel.title);
                 updateButtonState(actionButton, maatregel.title);
                 updateMaatregelenInLocalStorage();
-                updateDisplay(); // Ensure the display is updated when the state changes
+                updateDisplay();
             });
             actionCell.appendChild(actionButton);
 
@@ -124,8 +118,10 @@ function toggleMaatregel(title) {
     const index = maatregelen.findIndex(maatregel => maatregel.title === title);
     if (index !== -1) {
         maatregelen[index].selected = !maatregelen[index].selected;
+        console.log("Toggled maatregel:", maatregelen[index]);
+        updateMaatregelenInLocalStorage();
         renderMaatregelenList();
-        updateDisplay(); // Ensure the display is updated when the state changes
+        updateDisplay();
     }
 }
 
@@ -143,6 +139,7 @@ function updateButtonState(button, title) {
 
 // Function to update the maatregelen in localStorage
 function updateMaatregelenInLocalStorage() {
+    console.log("Updated maatregelen in localStorage:", maatregelen);
     localStorage.setItem('maatregelen', JSON.stringify(maatregelen));
 }
 
@@ -164,7 +161,7 @@ function renderStoredMaatregelen() {
         deleteButton.classList.add('delete-button');
         deleteButton.addEventListener('click', () => {
             toggleMaatregel(maatregel.title);
-            updateDisplay(); // Ensure the display is updated when the state changes
+            updateDisplay();
             renderStoredMaatregelen();
             updateMaatregelenInLocalStorage();
         });
@@ -183,7 +180,8 @@ function getSelectedMaatregelen() {
 
 // Function to log the new URL with selected maatregelen
 function logNewURL() {
-    const maatregelenData = encodeURIComponent(JSON.stringify(getSelectedMaatregelen()));
+    const selectedMaatregelen = getSelectedMaatregelen();
+    const maatregelenData = encodeURIComponent(JSON.stringify(selectedMaatregelen));
     const url = `otherpage.html?maatregelen=${maatregelenData}`;
     console.log("New URL:", url);
 }
@@ -203,6 +201,11 @@ function updateDisplay() {
     renderStoredMaatregelen();
 }
 
+window.onload = function () {
+    loadMaatregelenFromLocalStorage();
+    getMaatregelen();
+}
+
 export {
     getMaatregelen,
     renderMaatregelenList,
@@ -211,5 +214,6 @@ export {
     updateMaatregelenInLocalStorage,
     renderStoredMaatregelen,
     maatregelen,
-    updateDisplay
+    updateDisplay,
+    loadMaatregelenFromLocalStorage
 };

@@ -1,8 +1,20 @@
 let maatregelen = [];
 
-// On window load, fetch and render the maatregelen
+// On window load, fetch and render the maatregelen from localStorage if available
 window.onload = function () {
+    loadMaatregelenFromLocalStorage();
     getMaatregelen();
+}
+
+// Function to load maatregelen from localStorage
+function loadMaatregelenFromLocalStorage() {
+    const storedMaatregelen = localStorage.getItem('maatregelen');
+    if (storedMaatregelen) {
+        maatregelen = JSON.parse(storedMaatregelen);
+        renderMaatregelenList();
+        renderStoredMaatregelen();
+        updateDisplay(); // Ensure the display is updated when the state is loaded
+    }
 }
 
 // Function to construct the correct path to the JSON file
@@ -12,18 +24,16 @@ function getFilePath() {
 
 // Async function to fetch maatregelen from a JSON file and parse them
 async function getMaatregelen() {
-    const filePath = getFilePath(); // Path to the JSON file
+    const filePath = getFilePath();
     console.log(`Fetching JSON from: ${filePath}`);
 
     try {
-        // Fetch the maatregelen JSON file from the specified folder
         const response = await fetch(filePath);
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
         const data = await response.json();
 
-        // Process each maatregel from the JSON data
         data.forEach(item => {
             const meta = item.meta;
             if (meta) {
@@ -34,7 +44,7 @@ async function getMaatregelen() {
                     levenscyclus: meta.levenscyclus || [],
                     bouwblok: meta.bouwblok || [],
                     rollen: meta.rollen || [],
-                    selected: false // Initialize the selection state
+                    selected: false
                 });
             } else {
                 console.warn(`No meta found for item: ${JSON.stringify(item)}`);
@@ -42,7 +52,9 @@ async function getMaatregelen() {
         });
 
         console.log("Maatregelen loaded:", maatregelen);
-        renderMaatregelenList(); // Render the maatregelen list after loading data
+        renderMaatregelenList();
+        renderStoredMaatregelen();
+        updateDisplay(); // Ensure the display is updated when the state is loaded
     } catch (error) {
         console.error('Error fetching maatregelen:', error);
     }
@@ -58,11 +70,9 @@ function renderMaatregelenList() {
         }
         tableBody.innerHTML = '';
 
-        // Create a table row for each maatregel
         maatregelen.forEach(maatregel => {
             const row = document.createElement('tr');
 
-            // Action cell with toggle button
             const actionCell = document.createElement('td');
             const actionButton = document.createElement('button');
             updateButtonState(actionButton, maatregel.title);
@@ -71,11 +81,10 @@ function renderMaatregelenList() {
                 toggleMaatregel(maatregel.title);
                 updateButtonState(actionButton, maatregel.title);
                 updateMaatregelenInLocalStorage();
-                logNewURL(); // Log the updated URL
+                updateDisplay(); // Ensure the display is updated when the state changes
             });
             actionCell.appendChild(actionButton);
 
-            // Other cells for maatregel details
             const titleCell = document.createElement('td');
             titleCell.textContent = maatregel.title || '';
 
@@ -94,7 +103,6 @@ function renderMaatregelenList() {
             const rollenCell = document.createElement('td');
             rollenCell.textContent = maatregel.rollen ? maatregel.rollen.join(', ') : '';
 
-            // Append cells to row
             row.appendChild(actionCell);
             row.appendChild(titleCell);
             row.appendChild(toelichtingCell);
@@ -103,7 +111,6 @@ function renderMaatregelenList() {
             row.appendChild(bouwblokCell);
             row.appendChild(rollenCell);
 
-            // Append row to table body
             tableBody.appendChild(row);
         });
 
@@ -118,6 +125,7 @@ function toggleMaatregel(title) {
     if (index !== -1) {
         maatregelen[index].selected = !maatregelen[index].selected;
         renderMaatregelenList();
+        updateDisplay(); // Ensure the display is updated when the state changes
     }
 }
 
@@ -156,7 +164,7 @@ function renderStoredMaatregelen() {
         deleteButton.classList.add('delete-button');
         deleteButton.addEventListener('click', () => {
             toggleMaatregel(maatregel.title);
-            updateDisplay();
+            updateDisplay(); // Ensure the display is updated when the state changes
             renderStoredMaatregelen();
             updateMaatregelenInLocalStorage();
         });
@@ -165,7 +173,7 @@ function renderStoredMaatregelen() {
         storedInstrumentsList.appendChild(li);
     });
 
-    logNewURL(); // Log the updated URL whenever the list is rendered
+    logNewURL();
 }
 
 // Function to get the selected maatregelen
@@ -180,6 +188,21 @@ function logNewURL() {
     console.log("New URL:", url);
 }
 
+// Function to update the display of the counter and stored maatregelen
+function updateDisplay() {
+    const count = getSelectedMaatregelen().length;
+    console.log("Updating display, count:", count);
+    const counterDisplayElem = document.querySelector('.counter-display');
+    const cartBadge = document.querySelector('.myDIV');
+    if (counterDisplayElem) {
+        counterDisplayElem.textContent = count;
+    }
+    if (cartBadge) {
+        cartBadge.querySelector('h1').textContent = count;
+    }
+    renderStoredMaatregelen();
+}
+
 export {
     getMaatregelen,
     renderMaatregelenList,
@@ -187,5 +210,6 @@ export {
     updateButtonState,
     updateMaatregelenInLocalStorage,
     renderStoredMaatregelen,
-    maatregelen
+    maatregelen,
+    updateDisplay
 };

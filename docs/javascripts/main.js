@@ -4,25 +4,41 @@ import {
     updateButtonState,
     renderMaatregelenList,
     updateMaatregelenInLocalStorage,
-    renderStoredMaatregelen
+    renderStoredMaatregelen,
+    getMaatregelen,
+    updateDisplay
 } from './maatregelen.js';
 
-// Event listener for DOMContentLoaded to ensure the DOM is fully loaded before executing scripts
 document.addEventListener("DOMContentLoaded", function () {
-    let counterDisplayElem = document.querySelector('.counter-display');
-    let clearStorageButton = document.querySelector('.clear-storage');
-    let instrumentTableBody = document.querySelector('.instrument-list-body');
-    let storedInstrumentsList = document.querySelector('.stored-instruments-list');
-    let sendButton = document.getElementById('send-button');
-    let cartBadge = document.querySelector('.myDIV');
+    const counterDisplayElem = document.querySelector('.counter-display');
+    const clearStorageButton = document.querySelector('.clear-storage');
+    const instrumentTableBody = document.querySelector('.instrument-list-body');
+    const storedInstrumentsList = document.querySelector('.stored-instruments-list');
+    const sendButton = document.getElementById('send-button');
+    const cartBadge = document.querySelector('.myDIV');
 
-    // Initial rendering of the display and stored maatregelen
+    console.log("Elements selected:", {
+        counterDisplayElem,
+        clearStorageButton,
+        instrumentTableBody,
+        storedInstrumentsList,
+        sendButton,
+        cartBadge
+    });
+
+    if (!counterDisplayElem || !clearStorageButton || !instrumentTableBody || !storedInstrumentsList || !sendButton || !cartBadge) {
+        console.error("One or more DOM elements not found. Ensure the HTML contains the correct elements with the specified selectors.");
+        return;
+    }
+
+    // Load initial state from localStorage and render
+    loadMaatregelenFromLocalStorage();
     updateDisplay();
     renderMaatregelenList();
     renderStoredMaatregelen();
 
-    // Event listener for clearing localStorage
     clearStorageButton.addEventListener("click", () => {
+        console.log("Clear storage button clicked");
         localStorage.removeItem('maatregelen');
         maatregelen.forEach(maatregel => {
             maatregel.selected = false;
@@ -30,11 +46,10 @@ document.addEventListener("DOMContentLoaded", function () {
         updateDisplay();
         renderMaatregelenList();
         renderStoredMaatregelen();
-        logNewURL();
     });
 
-    // Event listener for sending selected maatregelen to another page
     sendButton.addEventListener("click", (event) => {
+        console.log("Send button clicked");
         event.preventDefault();
         const maatregelenData = encodeURIComponent(JSON.stringify(getSelectedMaatregelen()));
         const url = `otherpage.html?maatregelen=${maatregelenData}`;
@@ -51,56 +66,16 @@ document.addEventListener("DOMContentLoaded", function () {
         window.location.href = url;
     });
 
-    // Function to update the display of the counter and stored maatregelen
-    function updateDisplay() {
-        const count = getSelectedMaatregelen().length;
-        counterDisplayElem.textContent = count;
-        cartBadge.querySelector('h1').textContent = count;
-        renderStoredMaatregelen();
-    }
-
-    // Function to render the stored maatregelen in the list
-    function renderStoredMaatregelen() {
-        storedInstrumentsList.innerHTML = '';
-
-        getSelectedMaatregelen().forEach(maatregel => {
-            const li = document.createElement('li');
-            li.textContent = maatregel.title;
-
-            const deleteButton = document.createElement('button');
-            deleteButton.textContent = 'Verwijder';
-            deleteButton.classList.add('delete-button');
-            deleteButton.addEventListener('click', () => {
-                toggleMaatregel(maatregel.title);
-                updateDisplay();
-                renderStoredMaatregelen();
-                updateMaatregelenInLocalStorage();
-            });
-
-            li.appendChild(deleteButton);
-            storedInstrumentsList.appendChild(li);
-        });
-
-        logNewURL(); // Log the updated URL whenever the list is rendered
-    }
-
-    // Function to log the new URL with selected maatregelen
-    function logNewURL() {
-        const maatregelenData = encodeURIComponent(JSON.stringify(getSelectedMaatregelen()));
-        const url = `otherpage.html?maatregelen=${maatregelenData}`;
-        console.log("New URL:", url);
-    }
-
-    // Function to get the selected maatregelen
     function getSelectedMaatregelen() {
         return maatregelen.filter(maatregel => maatregel.selected);
     }
 
-    // Event listener for toggling the selection of a maatregel
     instrumentTableBody.addEventListener('click', (event) => {
+        console.log("Table body clicked");
         if (event.target.classList.contains('toggle-button')) {
             const row = event.target.closest('tr');
-            const title = row.cells[0].textContent;
+            const title = row.cells[1].textContent;
+            console.log("Toggle button clicked for:", title);
             toggleMaatregel(title);
             updateDisplay();
             updateMaatregelenInLocalStorage();
@@ -109,3 +84,21 @@ document.addEventListener("DOMContentLoaded", function () {
 
     console.log("Maatregelen:", maatregelen);
 });
+
+// Function to load maatregelen from localStorage
+function loadMaatregelenFromLocalStorage() {
+    const storedMaatregelen = localStorage.getItem('maatregelen');
+    if (storedMaatregelen) {
+        maatregelen = JSON.parse(storedMaatregelen);
+        renderMaatregelenList();
+        renderStoredMaatregelen();
+        updateDisplay(); // Ensure the display is updated when the state is loaded
+    }
+}
+
+// Function to log the new URL with selected maatregelen
+function logNewURL() {
+    const maatregelenData = encodeURIComponent(JSON.stringify(getSelectedMaatregelen()));
+    const url = `otherpage.html?maatregelen=${maatregelenData}`;
+    console.log("New URL:", url);
+}

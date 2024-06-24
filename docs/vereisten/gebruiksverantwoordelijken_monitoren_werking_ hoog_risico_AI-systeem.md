@@ -8,6 +8,8 @@ levenscyclus:
 bouwblok:
 - governance
 - menselijke-controle
+hide:
+- navigation
 ---
 
 <!-- tags -->

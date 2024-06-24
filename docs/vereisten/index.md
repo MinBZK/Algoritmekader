@@ -1,5 +1,6 @@
 ---
 title: Vereisten
+hide: navigation
 ---
 
 Een kernelement van het Algoritmekader is het beschrijven van de vereisten waar overheidsorganisaties aan moeten voldoen als zij algoritmes en AI (laten) ontwikkelen en gebruiken. 
@@ -29,3 +30,40 @@ Organisaties zullen hier hoe dan ook aandacht aan moeten besteden.
 Dit is anders als het gaat om bijvoorbeeld het vereiste van het opnemen van algoritmes en AI in het Algoritmeregister. 
 Dit is van belang bij impactvolle algoritmische toepassingen en hoog-risico AI-systemen. 
 Voor de niet-impactvolle rekenregels is dit niet noodzakelijk en kan daardoor achterwege blijven. 
+
+
+## Overzicht van vereisten
+
+Onderstand volgt een overzicht van maatregelen per fase van de levenscyclus. 
+
+??? simple "Probleemanalyse"
+
+    <!-- list_vereisten levenscyclus/probleemanalyse -->
+
+??? simple "Ontwerp"
+
+    <!-- list_vereisten levenscyclus/ontwerp -->
+
+??? simple "Dataverkenning en datapreparatie"
+
+    <!-- list_vereisten levenscyclus/dataverkenning-en-datapreparatie -->
+
+??? simple "Ontwikkelen"
+
+    <!-- list_vereisten levenscyclus/ontwikkelen -->
+
+??? simple "Verificatie en validatie"
+
+    <!-- list_vereisten levenscyclus/verificatie-en-validatie -->
+    
+??? simple "Implementatie"
+
+    <!-- list_vereisten levenscyclus/implementatie -->
+    
+??? simple "Monitoring en beheer"
+
+    <!-- list_vereisten levenscyclus/monitoring-en-beheer -->
+    
+??? simple "Uitfaseren"
+
+    <!-- list_vereisten levenscyclus/uitfaseren -->

@@ -11,6 +11,8 @@ levenscyclus:
 bouwblok:
 - governance
 - fundamentele-rechten
+hide:
+- navigation
 ---
 
 <!-- tags -->

@@ -14,6 +14,8 @@ levenscyclus:
 - uitfaseren
 bouwblok:
 - governance
+hide:
+- navigation
 ---
 
 <!-- tags -->

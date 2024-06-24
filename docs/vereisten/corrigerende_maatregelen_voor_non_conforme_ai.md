@@ -9,6 +9,8 @@ levenscyclus:
 - implementatie
 bouwblok:
 - governance
+hide:
+- navigation
 ---
 
 <!-- tags -->

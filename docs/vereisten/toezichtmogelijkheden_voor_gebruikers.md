@@ -12,6 +12,8 @@ levenscyclus:
 - monitoring-en-beheer
 bouwblok:
 - menselijke-controle
+hide:
+- navigation
 ---
 
 <!-- tags -->

@@ -82,7 +82,7 @@ Bespreek de vereiste met aanbieder.
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Ga met aanbieder in gesprek over in hoeverre deze invulling heeft gegeven of gaat geven aan de vereiste. Op basis van nieuwe of gewijzigde wet- en regelgeving is het denkbaar dat een aanbieder van algoritmes of AI-systemen nog niet of niet meer voldoet aan deze vereisten. Dit kan in het bijzonder relevant zijn bij al afgesloten overeenkomsten. 
+Ga met aanbieder in gesprek over in hoeverre deze invulling heeft gegeven of gaat geven aan de vereiste. Op basis van nieuwe of gewijzigde wet- en regelgeving is het denkbaar dat een aanbieder van algoritmes of AI-systemen nog niet of niet meer voldoet aan deze vereisten. 
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

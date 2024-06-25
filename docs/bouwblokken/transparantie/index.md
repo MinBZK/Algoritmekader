@@ -11,7 +11,7 @@ Om openheid te bieden en controleerbaar te zijn moeten overheidsinstanties trans
 Het is van belang dat overheden nadenken over hun besluitvormingsprocessen en dat zij de werking en toegevoegde waarde van het inzetten van een algoritme kunnen uitleggen.
 Dit is bijzonder relevant als een algoritme of AI-systeem, al dan niet geautomatiseerd, impact heeft op besluitvorming die burgers raakt.  
 
-Transparantie vergemakkelijkt het voor burgers om zich te verdedigen tegen nadelige gevolgen van algoritmes, bijvoorbeeld bij het vermoeden van discriminatie of onjuiste besluitvorming.
+Als burgers geen kennis kunnen nemen van de gebruikte algoritmes en in hoeverre diens output hen raakt, worden ze onrechtmatig beperkt in de mogelijkheid om zicht te verdedigen tegen nadelige gevolgen zoals discriminatie of een onjuist genomen beslissing of besluit.
 Daarnaast versterkt transparantie de controlerende functie van burgers en journalistiek, omdat burgers kunnen aangeven of een uitleg over een algoritmisch systeem duidelijk is en of zij de werking van het systeem hetzelfde ervaren. 
 
 Transparantie bij algoritmes en AI gaat zowel over het bekendmaken van de inzet en bijbehorende doelen, als ook over openheid van het type model en de gebruikte factoren. 

@@ -26,13 +26,17 @@ rollen:
 Het Impact Assessment voor Mensenrechten bij de inzet van Algoritmes (IAMA) is een instrument voor overheidsorganen om een interdisciplinaire dialoog en besluitvorming te faciliteren bij de ontwikkeling en inzet van algoritmische systemen. Het IAMA stelt een reeks vragen die moeten worden besproken en beantwoord om een zorgvuldige afweging van de inzet van algoritmen te waarborgen. Dit proces is onderverdeeld in drie fasen: voorbereiding, input en throughput, en output en toezicht, waarbij steeds aandacht wordt besteed aan de impact op mensenrechten. Het IAMA fungeert als naslagwerk voor de besluitvorming en is gekoppeld aan andere relevante richtlijnen en instrumenten, zoals de gegevensbeschermingseffectbeoordeling (GEB). Hierdoor biedt het een overkoepelend kader dat helpt om algoritmen verantwoord te implementeren en mogelijke risico’s, zoals inbreuken op grondrechten, te identificeren en te mitigeren.
 
 
-
-
-
-
 ## Toelichting
 
 Relevantie van het IAMA voor het Algoritmekader en de specifieke bouwblokken volgt nog.
+
+## Auteur(s)
+Het IAMA is ontwikkeld door de [Utrecht Data School](https://dataschool.nl/iama/). De auteurs van het IAMA zijn prof. mr. Janneke Gerards, dr. Mirko Tobias Schäfer, Arthur Vankan en Iris Muis, allen werkzaam aan de Universiteit Utrecht. Opdrachtgever voor de ontwikkeling is het Ministerie van Binnenlandse Zaken.
+
+## Bouwblok
+Dit instrument hoort bij het bouwblok [Fundamentele Rechten](../bouwblokken/fundamentele-rechten/index.md).
+
+## Levenscyclus
 
 
 ## Bijbehorende vereiste(n)

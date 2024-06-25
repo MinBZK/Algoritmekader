@@ -43,7 +43,7 @@ Relevantie van het IAMA voor het Algoritmekader en de specifieke bouwblokken vol
 
 | Bron                        |
 |-----------------------------|
-|[IAMA](https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes)|
+|[Impact Assessment Mensenrechten en Algoritmes](https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes)|
 
 ## Voorbeeld
 

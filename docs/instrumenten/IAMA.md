@@ -30,7 +30,7 @@ Het Impact Assessment voor Mensenrechten bij de inzet van Algoritmes (IAMA) is e
 
 Relevantie van het IAMA voor het Algoritmekader en de specifieke bouwblokken volgt nog.
 
-## Auteur(s)
+## Auteur
 Het IAMA is ontwikkeld door de [Utrecht Data School](https://dataschool.nl/iama/). De auteurs van het IAMA zijn prof. mr. Janneke Gerards, dr. Mirko Tobias Schäfer, Arthur Vankan en Iris Muis, allen werkzaam aan de Universiteit Utrecht. Opdrachtgever voor de ontwikkeling is het Ministerie van Binnenlandse Zaken.
 
 ## Bouwblok
@@ -39,7 +39,7 @@ Dit instrument hoort bij het bouwblok [Fundamentele Rechten](../bouwblokken/fund
 ## Levenscyclus
 
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereisten
 
 <!-- list_vereisten_on_maatregelen_page -->
 

@@ -95,7 +95,7 @@ hide:
 
     [:octicons-arrow-right-24: Naar duurzaamheid](../bouwblokken/duurzaamheid/index.md)
 
--   ### [Governance](../bouwblokken/governance/index.md)
+-   ### [Governance](../governance/index.md)
     
     ---
 
@@ -105,7 +105,7 @@ hide:
 
     Hier kunnen we een korte tekst kwijt over governance
 
-    [:octicons-arrow-right-24: Naar governance](../bouwblokken/governance/index.md)
+    [:octicons-arrow-right-24: Naar governance](../governance/index.md)
 
 -   ### [Menselijke controle](../bouwblokken/menselijke-controle/index.md)
     

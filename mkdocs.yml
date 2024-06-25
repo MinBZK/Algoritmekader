@@ -36,6 +36,12 @@ nav:
         - overhetalgoritmekader/index.md
         - overhetalgoritmekader/definities.md
         - overhetalgoritmekader/CONTRIBUTING.md
+    - Governance:
+        - governance/index.md
+        - governance/governance-structuur.md
+        - governance/politiek-bestuurlijk-kader.md
+        - governance/interactie-burgers-en-omgeving.md
+        - governance/volwassenheidsniveau.md
     - Levenscyclus:
         - levenscyclus/index.md 
         - levenscyclus/probleemanalyse.md

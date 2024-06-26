@@ -1,6 +1,6 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Creëer ruimte in de aanbesteding om opdrachtgever en aanbieder/opdrachtnemer te laten samenwerken om deze vereiste te realiseren.
+title: Creëer ruimte in het contract om opdrachtgever en aanbieder/opdrachtnemer te laten samenwerken om deze vereiste te realiseren.
 # geef hier een korte toelichting van deze maatregel
 toelichting: Om op een betekenisvolle manier invulling te geven bepaalde vereisten, kan het noodzakelijk zijn dat opdrachtgever en aanbieder/opdrachtnemer (innovatief) moet samenwerken om deze vereiste te realiseren. 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
@@ -66,10 +66,8 @@ Maak de vereiste onderdeel van contractvoorwaarden
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
- Om op een betekenisvolle manier invulling te geven bepaalde vereisten, kan het noodzakelijk zijn dat opdrachtgever en aanbieder/opdrachtnemer (innovatief) moeten samenwerken om deze vereiste te realiseren. Dit kan verschillende redenen hebben en is in het bijzonder relevant bij algoritmes en AI. Op basis van nieuwe wet- en regelgeving (bv. AI-Verordening) kunnen aanbieders mogelijk nog niet voldoen aan deze nieuwe vereisten of is onduidelijk op welke manier hier invulling aan moet worden gegeven. 
+Om op een betekenisvolle manier invulling te geven aan bepaalde vereisten, kan het noodzakelijk zijn dat opdrachtgever en aanbieder/opdrachtnemer (innovatief) moeten samenwerken. Op basis van nieuwe wet- en regelgeving (bv. AI-Verordening) kunnen aanbieders mogelijk nog niet voldoen aan deze nieuwe vereisten of is onduidelijk op welke manier hier invulling aan moet worden gegeven. In de context van algoritmes en AI kan het voor bepaalde onderwerpen zoals non-discriminatie, transparantie en eerbiedigen van fundamentele rechten van belang zijn om dit gezamenlijk te verkennen hoe hier invulling aan moet worden gegeven. Het is van belang om dit te verkennen bij de behoeftestelling op welke onderwerpen dit mogelijk van toepassing is. 
  
-In dergelijke gevallen kan het relevant zijn om hier op innovatieve wijze aan samen te werken. De situatie kan zich ook voordoen dat bij inschrijving niet met zekerheid kan worden gesteld dat wordt voldaan aan een vereiste. Bijvoorbeeld, of  algoritmes en AI-systemen al dan niet discrimineren, moet uiteindelijk worden beoordeeld door de opdrachtgever (politiek bestuurlijke afweging). Hetzelfde geldt voor het beoordelen welke maatschappelijke impact of fundamentele recht worden geraakt met de inzet van de betreffende algoritmes en AI en welke maatregelen op basis daarvan moeten worden getroffen. Dit vraagt om een samenspel tussen opdrachtgever en opdrachtnemer en in dergelijke gevallen is er ruimte nodig in het contract om dit te kunnen doen. 
-
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 

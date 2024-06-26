@@ -42,6 +42,9 @@ nav:
         - governance/politiek-bestuurlijk-kader.md
         - governance/interactie-burgers-en-omgeving.md
         - governance/volwassenheidsniveau.md
+        - governance/levenscyclus.md
+        - governance/rollen_en_verantwoordelijkheden.md
+        - governance/type_algoritme.md
     - Levenscyclus:
         - levenscyclus/index.md 
         - levenscyclus/probleemanalyse.md

@@ -77,8 +77,6 @@ rollen:
 - inkoopadviseur
 - contractbeheerder
 - aanbestedingsjurist
-- aanbieder
-- opdrachtnemer
 
 ---
 

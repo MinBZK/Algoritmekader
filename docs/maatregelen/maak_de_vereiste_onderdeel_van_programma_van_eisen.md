@@ -2,7 +2,7 @@
 # vul hier een titel in voor deze maatregel
 title: Maak de vereiste onderdeel van het programma van eisen
 # geef hier een korte toelichting van deze maatregel
-toelichting: Door de vereiste onderdeel te maken van het programma van eisen bij de aanbesteding, is het voor aanbieders duidelijk dat hun oplossing hieraan moet voldoen.  
+toelichting: Door de vereiste onderdeel te maken van het programma van eisen bij de aanbesteding, is het voor aanbieders duidelijk aan welke specifieke eisen hun oplossing moet voldoen.  
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
 - archiefwet
@@ -69,6 +69,17 @@ levenscyclus:
 # vul hier de bouwblokken in die horen bij deze maatregel
 bouwblok: 
 - publieke-inkoop
+# geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn
+rollen:
+- proceseigenaar
+- behoeftesteller
+- data scientist
+- inkoopadviseur
+- contractbeheerder
+- aanbestedingsjurist
+- aanbieder
+- opdrachtnemer
+
 ---
 
 <!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->

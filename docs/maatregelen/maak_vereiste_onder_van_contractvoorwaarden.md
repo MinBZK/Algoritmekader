@@ -74,7 +74,6 @@ bouwblok:
 rollen:
 - proceseigenaar
 - behoeftesteller
-- data scientist
 - inkoopadviseur
 - contractbeheerder
 - aanbestedingsjurist

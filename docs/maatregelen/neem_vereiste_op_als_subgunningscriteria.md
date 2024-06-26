@@ -43,10 +43,10 @@ bouwblok:
 rollen:
 - proceseigenaar
 - behoeftesteller
-- data scientist
+- data-scientist
 - ethicus
-- privacy officer
-- security officer
+- privacy-officer
+- security-officer
 - inkoopadviseur
 - contractbeheerder
 - aanbestedingsjurist

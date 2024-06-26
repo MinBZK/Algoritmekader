@@ -74,7 +74,13 @@ bouwblok:
 
 # geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn
 rollen:
+- proceseigenaar
+- behoeftesteller
 - inkoopadviseur
+- contractbeheerder
+- aanbestedingsjurist
+- aanbieder
+- opdrachtnemer
  
 ---
 

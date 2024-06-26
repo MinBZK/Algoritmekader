@@ -34,6 +34,13 @@ levenscyclus:
 bouwblok: 
 - publieke-inkoop
 ---
+# geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn
+rollen:
+- proceseigenaar
+- behoeftesteller
+- inkoopadviseur
+- contractbeheerder
+- aanbestedingsjurist
 
 <!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->
 <!-- tags -->

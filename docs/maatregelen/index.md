@@ -36,15 +36,3 @@ Hierover moeten nog nadere afspraken worden gemaakt met deze standaardisatieorga
 
 !!! note "Opmerking"
     Hier volgt in een volgende versie een opsomming van de maatregelen. 
-
-=== "Probleemanalyse"
-
-    <!-- list_maatregelen levenscyclus/probleemanalyse bouwblok/governance -->
-
-=== "Ontwerp"
-
-    <!-- list_maatregelen levenscyclus/ontwerp -->
-
-=== "Ontwikkelen"
-
-    <!-- list_maatregelen levenscyclus/ontwikkelen -->

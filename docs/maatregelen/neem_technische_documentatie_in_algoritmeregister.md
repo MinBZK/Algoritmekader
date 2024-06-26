@@ -7,7 +7,7 @@ toelichting: Neem geschikte informatie uit technische documentatie op in het alg
 vereiste: algoritmeregister
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 
-- ontwikkel
+- ontwikkelen
 - verificatie-en-validatie
 - implementatie
 - monitoring-en-beheer

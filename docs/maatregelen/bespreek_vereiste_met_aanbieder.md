@@ -1,8 +1,8 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Bespreek de vereiste met aanbieder
+title: Bespreek de vereiste met aanbieder of opdrachtnemer
 # geef hier een korte toelichting van deze maatregel
-toelichting: Ga met aanbieder in gesprek over in hoeverre invulling is gegeven of kan worden gegeven aan de vereiste. 
+toelichting: Ga met aanbieder of opdrachtnemer in gesprek over in hoeverre invulling is gegeven of kan worden gegeven aan de vereiste. 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
 - archiefwet

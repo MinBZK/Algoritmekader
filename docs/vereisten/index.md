@@ -34,7 +34,7 @@ Voor de niet-impactvolle rekenregels is dit niet noodzakelijk en kan daardoor ac
 
 ## Overzicht van vereisten
 
-Onderstand volgt een overzicht van maatregelen per fase van de levenscyclus. 
+Onderstand volgt een overzicht van vereisten per fase van de levenscyclus. 
 
 ??? simple "Probleemanalyse"
 

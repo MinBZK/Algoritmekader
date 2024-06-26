@@ -49,7 +49,7 @@ Overweeg om een bronvermelding te laten opnemen.
 | Bron                        |
 |-----------------------------|
 |Algoritmekader|
-| [Advies Landsadvocaat Pels Rijcken over het gebruik van generatieve AI-tools door medewerkers van de Staat](https://open.overheid.nl/documenten/16d72572-da6b-422c-8cf8-cdc95a523093/file) |
+| [Advies Landsadvocaat Pels Rijcken over het gebruik van generatieve AI-tools door medewerkers van de Staat](https://www.rijksoverheid.nl/documenten/brieven/2023/10/10/1-advies-landsadvocaat-pels-rijcken) |
 
 ## Voorbeeld
 

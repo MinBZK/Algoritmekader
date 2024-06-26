@@ -12,17 +12,6 @@ levenscyclus:
 bouwblok: 
 - governance
 - privacy-en-gegevensbescherming
-rekenregels: 
-- niet-impactvol: ja
-- impactvol: Ja
-machine-learning: 
-- niet-impactvol: ja
-- impactvol: Ja
-- hoog-risico: Ja
-generatieve-ai: 
-- niet-impactvol: ja
-- impactvol: Ja
-- hoog-risico: Ja
 ---
 
 <!-- tags -->

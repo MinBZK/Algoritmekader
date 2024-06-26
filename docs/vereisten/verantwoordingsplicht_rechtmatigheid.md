@@ -45,8 +45,11 @@ Deze vereiste is van toepassing op alle algoritmen die persoonsgegevens verwerke
 
 ## Risico 
 
-- De verwerking van persoonsgegevens moet niet alleen rechtmatig zijn, maar moet aantoonbaar rechtmatig plaatsvindinden. Dit vraagt een niveau van documentatie en onderbouwing waar veel projecten niet op voorbereid zijn.
-- Aantoonbare compliance kan lastig gemaakt worden door gebrekkige transparantie door leveranciers.
+Het aantoonbaarheidsvereiste heeft niet direct gevolgen voor specifieke risico's voor betrokkenen. Het niet naleven van deze norm moet worden gekwalificeerd als een onrechtmatigheid, niet als een risico voor de rechten en vrijheden van betrokkenen onder de AVG. Het moeten voldoen aan het aantoonbaarheidsvereiste kan wel risico's hebben voor de organisatie die een algortime inzet. Enkele risico's zijn:
+- Aantoonbaarheidsvereisten vragen in de praktijk veel documentatie. Deze documentatie kan via de Woo opgevraagd worden. Het ontbreken van documentatie kan door externen vaak relatief makkelijk in verband worden gebracht met een overtreding van deze vereisten.
+- Algoritmen die van nature slecht inzichtelijk en uitlegbaar zijn (zoals deep-learning) hebben een zeer hoge drempel om aan deze vereiste te voldoen. Aantonen van rechtmatigheid is voor een belangrijk deel afhankelijk van inzicht in de werking van het algoritme. De inzet van een algortime kan dus mogelijk tegengehouden worden door deze vereisten.
+- Bij leveranciers die niet of gedeeltelijke transparant zijn over hun product of dienstverlening ontstaat een vergelijkbaar risico. Waar de Woo uitzonderingen heeft voor bedrijfsgeheimen heeft de AVG daar maar beperkte ruimte voor. Het is dus mogelijk dat leveranciers terughoudend zullen zijn met het delen van informatie die onder de AVG ook aan betrokkenen gecommuniceerd moeten worden.
+- Samenwerkingen en externe leveranciers kunnen niet gebruikt worden om de aantoonbaarheidsvereisten op af te schuiven. Onafhankelijk van de onderlingen afspraken daarover hebben alle verwerkingsverantwoordelijken de verplichting om aan deze vereisten te kunnen voldoen. 
 
 ## Normen 
 

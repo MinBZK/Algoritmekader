@@ -73,6 +73,15 @@ bouwblok:
 - publieke-inkoop
 -----
 
+# vul hier de bouwblokken in die horen bij deze maatregel
+rollen:
+- Proceseigenaar
+- Behoeftesteller
+- Inkoopadviseur
+- Contractbeheerder
+- Aanbestedingsjurist
+
+
 <!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->
 <!-- tags -->
 

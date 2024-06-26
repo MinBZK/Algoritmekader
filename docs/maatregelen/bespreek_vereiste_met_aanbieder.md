@@ -3,9 +3,6 @@
 title: Bespreek de vereiste met aanbieder
 # geef hier een korte toelichting van deze maatregel
 toelichting: Ga met aanbieder in gesprek over in hoeverre invulling is gegeven of kan worden gegeven aan de vereiste. 
-# geef hier een korte toelichting welke rollen hierbij zijn betrokken
-rollen:
-- inkoopadviseur
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
 - archiefwet
@@ -74,6 +71,7 @@ levenscyclus:
 # vul hier de bouwblokken in die horen bij deze maatregel
 bouwblok: 
 - publieke-inkoop
+
 -----
 <!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->
 <!-- tags -->

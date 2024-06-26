@@ -3,6 +3,9 @@
 title: Bespreek de vereiste met aanbieder
 # geef hier een korte toelichting van deze maatregel
 toelichting: Ga met aanbieder in gesprek over in hoeverre invulling is gegeven of kan worden gegeven aan de vereiste. 
+# geef hier een korte toelichting welke rollen hierbij zijn betrokken
+rollen:
+- inkoopadviseur
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
 - archiefwet

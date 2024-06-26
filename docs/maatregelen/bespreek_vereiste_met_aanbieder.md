@@ -71,17 +71,8 @@ levenscyclus:
 # vul hier de bouwblokken in die horen bij deze maatregel
 bouwblok: 
 - publieke-inkoop
-# vul hier de rollen in die horen bij deze maatregel
-rollen:
-- Proceseigenaar
-- Behoeftesteller
-- Inkoopadviseur
-- Contractbeheerder
-- Aanbestedingsjurist
-
-
-
-
+# vul hier een titel in voor deze maatregel
+title: Bespreek de vereiste met aanbieder
 -----
 
 <!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->

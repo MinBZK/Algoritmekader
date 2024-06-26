@@ -71,6 +71,7 @@ levenscyclus:
 # vul hier de bouwblokken in die horen bij deze maatregel
 bouwblok: 
 - publieke-inkoop
+-----
 # vul hier de bouwblokken in die horen bij deze maatregel
 rollen:
 - Proceseigenaar

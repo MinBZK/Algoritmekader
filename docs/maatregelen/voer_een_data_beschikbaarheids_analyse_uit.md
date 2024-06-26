@@ -39,7 +39,7 @@ Voer voorafgaand aan een aanbesteding een data beschikbaarheids- en kwaliteitsan
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Het is van belang om voorafgaand aan een aanbesteding vast te stellen of de data die noodzakelijk is om een algoritme of AI-systeem te ontwikkelen beschikbaar is of gaat worden en van voldoende kwaliteit is. Een dergelijke analyse levert inzichten op welke problemen er eventueel op dit vlak kunnen ontstaan. 
+Het is van belang om voorafgaand aan een aanbesteding vast te stellen of de data die noodzakelijk is om een algoritme of AI-systeem te ontwikkelen beschikbaar is, gaat worden en of de data van voldoende kwaliteit is. Het is hierbij eveneens van belang om te onderzoek of en hoe data (infrastructuur) vanuit de eigen organisatie of die van een aanbieder beschikbaar kan worden gesteld. Een dergelijke analyse levert inzichten op welke problemen er eventueel op dit vlak kunnen ontstaan.
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

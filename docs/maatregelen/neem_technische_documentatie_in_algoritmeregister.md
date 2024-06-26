@@ -16,9 +16,9 @@ bouwblok:
 - transparantie
 rollen:
 - proceseigenaar
-- privacy officer
-- data scientist
-- data engineer
+- privacy-officer
+- data-scientist
+- data-engineer
 - beleidsmedewerker
 ---
 

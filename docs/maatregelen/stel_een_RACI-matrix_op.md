@@ -9,18 +9,18 @@ vereiste: beschrijven_en_toewijzen_van_verantwoordelijkheden_bij_verwerking_pers
 levenscyclus: 
 - ontwerp
 - dataverkenning-en-datapreparatie
-- ontwikkel
+- ontwikkelen
 - implementatie
 - monitoring-en-beheer
 # vul hier de bouwblokken in die horen bij deze maatregel
 bouwblok:
-- privacy en gegevensbescherming
+- privacy-en-gegevensbescherming
 - governance
 rollen:
 - proceseigenaar
-- privacy officer
-- data scientist
-- data engineer
+- privacy-officer
+- data-scientist
+- data-engineer
 - inkoopadviseur
 - contractbeheerder
 - aanbieder

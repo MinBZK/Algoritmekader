@@ -82,7 +82,7 @@ rollen:
 - aanbieder
 - opdrachtnemer
 
- 
+
 ---
 
 <!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->
@@ -94,7 +94,7 @@ Bespreek de vereiste met aanbieder.
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Ga met aanbieder en/of opdrachtnemers in gesprek over in hoeverre deze invulling heeft gegeven of gaat geven aan de vereiste. Op basis van nieuwe of gewijzigde wet- en regelgeving is het denkbaar dat een aanbieder van algoritmes of AI-systemen nog niet of niet meer voldoet aan deze vereiste. Indien van toepassing, laat de aanbieder inzichtelijk maken welke stappen deze gaat zetten om hieraan te gaan voldoen. Dit is ook relevant bij reeds afgesloten contracten.  
+Ga met een aanbieder en/of met opdrachtnemers in gesprek over in hoeverre deze invulling heeft gegeven of gaat geven aan de vereiste. Op basis van nieuwe of gewijzigde wet- en regelgeving is het denkbaar dat een aanbieder van algoritmes of AI-systemen nog niet of niet meer voldoet aan deze vereiste. Indien van toepassing, laat de aanbieder inzichtelijk maken welke stappen deze gaat zetten om hieraan te gaan voldoen. Dit is ook relevant bij reeds afgesloten contracten.  
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

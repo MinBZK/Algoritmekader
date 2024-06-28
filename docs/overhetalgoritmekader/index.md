@@ -4,7 +4,7 @@ hide: toc
 ---
 **Het algoritmekader is een hulpmiddel voor overheden die algoritmes of AI (artificiële intelligentie) gebruiken. 
 Hierin zoek je de regels en adviezen op per situatie. De informatie in het Algoritmekader is nog niet betrouwbaar. 
-Het is een concept. De definitieve versie verschijnt rond 2025.**
+Het is een concept. De definitieve versie verschijnt eind 2024.**
 
 ## Verantwoord gebruik van algoritmes en AI
 In het Algoritmekader vind je informatie over verantwoord gebruik van algoritmes en AI. Bijvoorbeeld:

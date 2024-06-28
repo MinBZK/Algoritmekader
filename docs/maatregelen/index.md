@@ -32,5 +32,24 @@ Er zal een verwijzing worden gemaakt naar de betreffende standaard.
 Hierover moeten nog nadere afspraken worden gemaakt met deze standaardisatieorganisaties.
 
 
-!!! note "Opmerking"
-    Hier volgt in een volgende versie een opsomming van de maatregelen. 
+## Maatregelen
+<div class="maatregelen-list">
+  <table id="instrument-table">
+    <thead>
+      <tr>
+        <th></th>
+        <th>Titel</th>
+        <th>Toelichting</th>
+        <th>Vereiste</th>
+        <th>Levenscyclus</th>
+        <th>Bouwblok</th>
+        <th>Rollen</th>
+      </tr>
+    </thead>
+    <tbody class="instrument-list-body">
+      <!-- Instruments will be dynamically added here -->
+    </tbody>
+  </table>
+</div>
+
+    

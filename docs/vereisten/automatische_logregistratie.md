@@ -44,7 +44,6 @@ Voor AI-systemen die door bestuursorganen worden gebruikt of AI-systmen die pers
 ## Risico
 
 Ontbreken van automatische logregistratie kan leiden tot een gebrek aan transparantie en traceerbaarheid van het AI-systeem, wat het vermogen om verantwoordelijkheid te nemen en eventuele problemen aan te pakken belemmert en betrokkenen wiens persoonsgegevens worden verwerkt of geraakt worden door beslissingen van het AI-systeem in hun rechten kunnen worden beperkt.
-=======
 
 ## Wanneer van toepassing?
 

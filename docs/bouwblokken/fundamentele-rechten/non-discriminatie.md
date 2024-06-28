@@ -33,8 +33,8 @@ De onderwerpen bias en non-discriminatie spelen daarom een belangrijke rol bij d
 
 > Allen die zich in Nederland bevinden, worden in gelijke gevallen gelijk behandeld. Discriminatie wegens godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, handicap, seksuele gerichtheid of op welke grond dan ook, is niet toegestaan. 
 
-Non-discriminatie is dus de basis van ons rechtssysteem en onze samenleving. 
-De afgelopen jaren is duidelijk geworden dat ook algoritmes en AI-systemen discriminatoire effecten kunnen hebben.  
+De prominente positie in de Grondwet benadrukt het belang van het mensenrecht in Nederland. 
+De afgelopen jaren hebben incidenten in de praktijk de aandacht gericht op de discriminatoire effecten die algoritmes en AI-systemen kunnen hebben.
 
 ### Bias
 *Bias* is een Engelse term die in het Nederlands wordt vertaald als vooroordeel, vooringenomenheid of neiging. 
@@ -69,13 +69,13 @@ In deze gevallen zal er altijd na moeten worden gegaan of er sprake is van een o
 
 Wanneer er geen rechtvaardiging is voor het gemaakte onderscheid, spreken we van een verboden direct of indirect onderscheid, ofwel discriminatie. 
 Het algoritme of AI-systeem mag in dat geval niet gebruikt worden.
-Bias vormt daarmee een risico voor discriminatie.
+Bias vormt daarmee een risico op discriminatie.
 
 ##### Fairness 
 In de context van algoritmes en AI wordt de term *unfairness* gebruikt wanneer er sprake is van een ongerechtvaardigd onderscheid waarbij bepaalde groepen meer bevoordeeld worden dan andere.[^5] 
 In de Nederlandse taal spreken we dan van oneerlijkheid of onrechtvaardigheid (of in positieve zin van respectievelijk fairness, eerlijkheid en rechtvaardigheid). 
 Wanneer we het hebben over fairness hebben we het minder over de juridische kant van discriminatie en verboden onderscheid. 
-Ook als er wel een objectieve rechtvaardiging bestaat voor een gemaakt onderscheid, kan je je afvragen of het gemaakte onderscheid ethisch wenselijk is. 
+Ook als er wel een objectieve rechtvaardiging bestaat voor een gemaakt onderscheid, kan afgevraagd worden of het gemaakte onderscheid ethisch wenselijk is. 
 
 [^5]: Zie [NEN-EN-ISO/IEC 22989:2023 en](https://www.nen.nl/nen-en-iso-iec-22989-2023-en-312642) [^3] 
 
@@ -217,44 +217,6 @@ is verboden. Daarnaast wordt expliciet vermeld dat binnen de werkingssfeer van d
 
 <!-- list_maatregelen bouwblok/bias-en-non-discriminatie -->
 
-!!! note "Aanbevelingen vanuit documenten (nog te verwerken)"
-
-    [Rathenau](https://www.rathenau.nl/nl/digitalisering/algoritmes-afwegen)
-
-    * Geef als uitvoeringsorganisatie meer inzicht in hoe biastoetsing plaatsvindt 
-    * Zet een nationaal kennisplatform voor biastoetsing op waar expertise kan worden ontwikkeld en gedeeld. Bepaal welke mate van standaardisatie gewenst is en of wettelijke eisen nodig zijn.
-
-    [ADR](https://open.overheid.nl/documenten/7052294a-e70a-4084-88da-d09ae5f202cb/file)
-
-    * Plaats de handreiking in een kader in relatie tot andere instrumenten 
-    * Overweeg een risicogerichte benadering voor de toepassing van de handreiking 
-    * Werk aan het vergroten van bewustzijn voor algoritmen en (data-)ethiek in de organisatie 
-    * Zorg voor duidelijkheid in taken en verantwoordelijkheden van verschillende betrokkenen 
-    * Beleg verantwoordelijkheid voor de handreiking en borg de (blijvende) aandacht ervoor 
-    * Verplichte toepassing van de handreiking kan bestaande initiatieven tenietdoen 
-
-    [Toetsingskader ADR](https://open.overheid.nl/documenten/61b54381-d331-40ed-8fce-b2883b195f25/file)
-
-    * De definitie van de verschillende groepen en de gewenste prestatie van het model voor deze groepen zijn opgenomen in de functionele eisen.
-    * De mate van geaccepteerde bias in de uitkomst is opgenomen in de functionele eisen en uitgewerkt in meetbare prestatiecriteria.
-    * De methoden om bias te voorkomen, detecteren en corrigeren zijn vastgelegd.
-    * De mate van bias in de data, dataverzameling en het model zijn in kaart gebracht.
-    * Tijdens de ontwikkeling van het model is beoordeeld of er een verschil bestaat tussen de prestatie van het model tussen verschillende subgroepen. De prestatiemetrieken afleidbaar uit de confusionmatrix zijn vergeleken voor deze subgroepen.
-    * De uitkomstbias van productiedata is beoordeeld voor de verschillende subgroepen en voldoet aan de prestatiecriteria.
-    * Bij de geconstateerde bias is beoordeeld of deze op discriminatie duidt.
-
-    [College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dce)
-
-    * Overheidsinstanties mogen bij opsporings- en handhavingsbevoegdheden, met het oog op effectiviteit, efficiëntie en kostenbesparing, gebruik maken van risicoprofielen. Binnen deze risicoprofielen mogen ervaringsgegevens die tot een bepaalde vooronderstelling leiden een rol spelen, tenzij dit leidt tot discriminatie op grond van ras of nationaliteit
-    * Risicoprofielen die uitsluitend of in doorslaggevende mate gebaseerd zijn op ras (waaronder etniciteit en afkomst) zijn in strijd met het discriminatieverbod;
-    * Risicoprofielen die zich richten op één bepaalde afkomst of nationaliteit hebben een stigmatiserend effect en zijn daarom strijdig met het discriminatieverbod;
-    * Risicoprofielen die uitsluitend gebaseerd zijn op nationaliteit zijn zeer moeilijk te rechtvaardigen;
-    * Risicoprofielen waarin ras of nationaliteit mede een rol speelt, kunnen slechts gerechtvaardigd worden door zeer zwaarwegende redenen;
-    * Het gebruik van ras of nationaliteit als selectiecriterium binnen een risicoprofiel is nooit toegestaan als er geen objectieve relatie kan worden aangetoond tussen dit selectiecriterium en het legitieme doel van het profiel;
-    * In alle gevallen moeten de selectiecriteria  binnen een risicoprofiel samen voldoende relevant en objectief (geschikt) zijn om op een effectieve wijze bij te dragen aan de verwezenlijking van het nagestreefde legitieme doel;
-    * Het gebruik van ras of nationaliteit als selectiecriterium binnen een risicoprofiel moet daarnaast noodzakelijk zijn om het gewenste doel tebereiken.
-    * Selectiebeslissingen moeten te allen tijde uitlegbaar zijn.
-    
 ## Mogelijke hulpmiddelen en methoden
 * [Fairness Handbook](https://amsterdamintelligence.com/resources/the-fairness-handbook)
 * [Handreiking non-discriminatie-by-design](https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design)

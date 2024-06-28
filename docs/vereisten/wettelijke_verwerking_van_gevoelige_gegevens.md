@@ -9,6 +9,8 @@ levenscyclus:
 bouwblok:
 - privacy-en-gegevensbescherming
 - fundamentele-rechten
+hide:
+- navigation
 ---
 
 <!-- tags -->

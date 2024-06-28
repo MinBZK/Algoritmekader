@@ -9,6 +9,8 @@ levenscyclus:
 - ontwikkelen
 bouwblok:
 - fundamentele-rechten
+hide:
+- navigation
 ---
 
 <!-- tags -->

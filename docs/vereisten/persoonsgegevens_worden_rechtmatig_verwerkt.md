@@ -9,6 +9,8 @@ levenscyclus:
 - dataverkenning-en-datapreparatie
 bouwblok:
 - privacy-en-gegevensbescherming
+hide:
+- navigation
 ---
 
 <!-- tags -->

@@ -13,6 +13,8 @@ levenscyclus:
 - uitfaseren
 bouwblok:
 - transparantie
+hide:
+- navigation
 ---
 
 <!-- tags -->

@@ -8,6 +8,8 @@ levenscyclus:
 - dataverkenning-en-datapreparatie
 bouwblok:
 - data
+hide:
+- navigation
 ---
 
 <!-- tags -->

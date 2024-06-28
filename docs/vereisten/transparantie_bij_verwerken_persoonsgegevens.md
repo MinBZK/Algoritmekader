@@ -17,16 +17,14 @@ levenscyclus:
 bouwblok:
 - privacy-en-gegevensbescherming
 - transparantie
+hide:
+- navigation
 ---
 
 <!-- tags -->
 ## Vereiste
 
 De verwerking van persoonsgegevens moet transparant zijn.
-
-
-
-
 ## Toelichting
 
 Een betrokkene moet op de hoogte worden gesteld van het feit dat er verwerking plaatsvindt van diens persoonsgegevens en van de doeleinden daarvan (zoals ook is verwoord in het beginsel van transparante verwerking, artikel 5 AVG).

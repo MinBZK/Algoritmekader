@@ -10,6 +10,8 @@ levenscyclus:
 - ontwikkelen
 bouwblok:
 - privacy-en-gegevensbescherming
+hide:
+- navigation
 ---
 
 <!-- tags -->

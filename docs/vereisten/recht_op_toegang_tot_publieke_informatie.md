@@ -12,6 +12,8 @@ levenscyclus:
 - monitoring-en-beheer
 bouwblok:
 - transparantie
+hide:
+- navigation
 ---
 
 <!-- tags -->

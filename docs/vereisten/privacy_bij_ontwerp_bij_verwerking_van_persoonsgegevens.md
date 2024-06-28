@@ -11,6 +11,8 @@ levenscyclus:
 bouwblok:
 - privacy-en-gegevensbescherming
 - data
+hide:
+- navigation
 ---
 
 <!-- tags -->

@@ -3,9 +3,7 @@ title: Bias en non-discriminatie
 icon: material/equal-box
 ---
 
-!!! info "Disclaimer"
-
-    Het Algoritmekader is nog volop in ontwikkeling. Op deze plek willen we vooral aan de slag gaan op een open en transparante wijze. Het is dus niet definitief. Dat betekent dat er dingen opstaan die niet af zijn en soms zelfs fout. Mocht er iets niet kloppen, laat het ons weten via [GitHub](https://github.com/MinBZK/Algoritmekader).
+![bias-en-non-discriminatie](../../afbeeldingen/bouwblokken/bias-en-non-discriminatie.jpg){align="right"; width="50%"}
 
 ## Wat en waarom?
 Algoritmes worden binnen de overheid veelvuldig ingezet om publieke taken uit te voeren. Dit biedt veel kansen, maar er zijn ook risico's aan verbonden.
@@ -212,6 +210,11 @@ is verboden. Daarnaast wordt expliciet vermeld dat binnen de werkingssfeer van d
 * [Fairness Handbook](https://amsterdamintelligence.com/resources/the-fairness-handbook)
 * [Handreiking non-discriminatie-by-design](https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design)
 * [College voor de rechten van de mens, Discriminatie door risicoprofielen - een mensenrechtelijk toetsingskader](https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dce)
+
+!!! info "Disclaimer"
+
+    Het Algoritmekader is nog volop in ontwikkeling. Op deze plek willen we vooral aan de slag gaan op een open en transparante wijze. Het is dus niet definitief. Dat betekent dat er dingen opstaan die niet af zijn en soms zelfs fout. Mocht er iets niet kloppen, laat het ons weten via [GitHub](https://github.com/MinBZK/Algoritmekader).
+
 
 ## Vereisten
 

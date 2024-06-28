@@ -27,11 +27,8 @@ Het Impact Assessment voor Mensenrechten bij de inzet van Algoritmes (IAMA) is e
 
 
 ## Relevantie
-Het IAMA kan op dit moment op veel politieke belangstelling rekenen. In zowel de Eerste als Tweede Kamer zijn hierover moties ingediend en vragen gesteld. Er is in de Tweede Kamer een [motie ingediend](https://www.tweedekamer.nl/kamerstukken/moties/detail?id=2022D12329&did=2022D12329) om mensenrechten assessments (zoals het IAMA) te verplichten voorafgaand aan het gebruik van algoritmes wanneer deze worden ingezet om evaluaties van, of beslissingen over mensen te maken (i.e. impactvolle algoritmes).   In een andere motie wordt bovendien gevraagd om de uitkomsten van deze assessments te publiceren in het algoritmeregister.  De Eerste Kamer heeft daarbij verzocht om mensenrechtentoetsen met betrekking tot AI-gebruik uit te voeren en te herhalen, en dat deze toetsen moeten worden gepubliceerd.  
+Het IAMA kan op dit moment op veel politieke en internationale belangstelling rekenen. In zowel de Eerste als Tweede Kamer zijn hierover [moties ingediend](https://www.tweedekamer.nl/kamerstukken/moties/detail?id=2022D12329&did=2022D12329) en vragen gesteld. Daarbij is het IAMA een van de weinige instrumenten in de EU die een interdisciplinaire discussie rondom (de ontwikkeling, inzet en monitoring van) algoritmes, AI en mensenrechten initieert en bevordert. 
 
-
-Dit instrument hoort bij het bouwblok [Fundamentele Rechten](../bouwblokken/fundamentele-rechten/index.md).
-Aanvullen in welke levenscyclus dit isntrument relevant is.
 
 ## Auteur
 Het IAMA is ontwikkeld door de [Utrecht Data School](https://dataschool.nl/iama/). De auteurs van het IAMA zijn prof. mr. Janneke Gerards, dr. Mirko Tobias Schäfer, Arthur Vankan en Iris Muis, allen werkzaam aan de Universiteit Utrecht. Opdrachtgever voor de ontwikkeling is het Ministerie van Binnenlandse Zaken.

@@ -1,5 +1,6 @@
 ---
 title: Bias en non-discriminatie
+icon: material/equal-box
 ---
 
 !!! info "Disclaimer"
@@ -211,3 +212,11 @@ is verboden. Daarnaast wordt expliciet vermeld dat binnen de werkingssfeer van d
 * [Fairness Handbook](https://amsterdamintelligence.com/resources/the-fairness-handbook)
 * [Handreiking non-discriminatie-by-design](https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design)
 * [College voor de rechten van de mens, Discriminatie door risicoprofielen - een mensenrechtelijk toetsingskader](https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dce)
+
+## Vereisten
+
+<!-- list_vereisten bouwblok/bias-en-non-discriminatie -->
+
+## Maatregelen
+
+<!-- list_maatregelen bouwblok/bias-en-non-discriminatie -->

@@ -27,7 +27,7 @@ Het Impact Assessment voor Mensenrechten bij de inzet van Algoritmes (IAMA) is e
 
 
 ## Relevantie
-Het IAMA kan op dit moment op veel politieke en internationale belangstelling rekenen. In zowel de Eerste als Tweede Kamer zijn hierover [moties ingediend](https://www.tweedekamer.nl/kamerstukken/moties/detail?id=2022D12329&did=2022D12329) en vragen gesteld. Daarbij is het IAMA een van de weinige instrumenten in de EU die een interdisciplinaire discussie rondom (de ontwikkeling, inzet en monitoring van) algoritmes, AI en mensenrechten initieert en bevordert. 
+Het IAMA kan op dit moment op veel politieke en internationale belangstelling rekenen. In zowel de Eerste als Tweede Kamer zijn hierover [moties ingediend](https://www.tweedekamer.nl/kamerstukken/moties/detail?id=2022D12329&did=2022D12329) en vragen gesteld. Daarbij is het IAMA een van de weinige instrumenten in de EU die een interdisciplinaire discussie rondom (de ontwikkeling, inzet en monitoring van) algoritmes, AI en grondrechten initieert en bevordert. 
 
 
 ## Auteur

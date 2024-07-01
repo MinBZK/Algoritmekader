@@ -33,7 +33,7 @@ De Woo is niet van toepassing op informatie die al openbaar is (uitspraken van d
 Er kunnen uitsluitingsgronden bestaan voor het openbaarmaken van documenten (artikel 5.1 Woo).
 
 In de context van het ontwikkelen en gebruiken van algoritmes en AI-systemen is het van belang dat tijdig wordt vastgesteld welke documenten in aanmerking komen voor openbaarmaking.
-Dit moet worden bekeken in het licht van wat 'actief' openbaargemaakt wordt, dus pro-actief vanuit overheidinstanties zelf, of wat op 'verzoek' van iemand moet worden geopenbaard.
+Dit moet worden bekeken in het licht van wat 'actief' moet worden geopenbaard, dus proactief vanuit overheidsinstanties zelf, of wat op 'verzoek' van iemand moet worden geopenbaard.
 
 ## Bronnen
 

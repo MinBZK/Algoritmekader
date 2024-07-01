@@ -10,6 +10,7 @@ levenscyclus:
 - ontwikkelen
 bouwblok:
 - privacy-en-gegevensbescherming
+- data
 hide:
 - navigation
 ---
@@ -39,7 +40,7 @@ In de context van algoritmes en AI is het van belang dat ook daar wordt onderzoc
 
 ## Risico
 
-Als er geen rekening wordt gehouden met de juistheid, nauwkeurigheid en volledigheid van persoonsgegevens, kunnen kwaliteit en integriteit van data is niet voldoende worden gewaarborgd.
+Als er geen rekening wordt gehouden met de juistheid, nauwkeurigheid en volledigheid van persoonsgegevens, kunnen kwaliteit en integriteit van data niet voldoende worden gewaarborgd.
 
 ## Maatregelen
 

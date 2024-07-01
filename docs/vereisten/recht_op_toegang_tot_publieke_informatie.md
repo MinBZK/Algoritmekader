@@ -26,7 +26,7 @@ Een bestuursorgaan draagt er zoveel mogelijk zorg voor dat de informatie die het
 
 Bij het ontwikkelen en gebruiken van algoritmes en AI kunnen documenten en publieke informatie ontstaan die (op verzoek) in aanmerking komen voor openbaarmaking.
 Het kunnen openbaren van publieke informatie is in het belang van een democratische rechtstaat.
-De Woo gaat uit van een recht op openbaarheid van publieke informatie.
+De Wet open overheid gaat uit van een recht op openbaarheid van publieke informatie.
 Iedereenkan een verzoek tot openbaarmaking van publieke informatie doen bij een bestuursorgaan zonder daarbij een belang te stellen (artikel 4.1 Woo).
 De aan een verzoeker verstrekte informatie wordt openbaar voor iedereen.
 De Woo is niet van toepassing op informatie die al openbaar is (uitspraken van de Afdeling bestuursrechtspraak van de Raad van State van 1 december 2010 (ECLI:NL:RVS:2010:BNS6990) en 20 oktober 2010 (ECLI:NL:RVS:2010:BO1165)).

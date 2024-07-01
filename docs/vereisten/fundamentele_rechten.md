@@ -21,7 +21,7 @@ Fundamentele vrijheden, mensenrechten en grondrechten worden beschermd bij de in
 
 ## Toelichting
 
-Mensrechten gelden voor alle mensen op de wereld.
+Mensenrechten gelden voor alle mensen op de wereld.
 De mensenrechten in Nederland zijn beschermd door nationale wetten en internationale verdragen.
 In Nederland staan veel mensenrechten in hoofdstuk 1 van de Grondwet.
 Deze rechten heten ook wel ’grondrechten’.
@@ -30,8 +30,8 @@ Om mensenrechten te beschermen zijn ze op Europees en internationaal niveau in v
 
 
 Mensenrechten kunnen soms onder druk komen te staan.
-De inzet van algoitmes en AI-systemen kan bijvoorbeeld een bedreiging vormen voor de privacy van burgers, voor het  recht op gelijke behandeling en voor het recht op behoorlijk bestuur.
-Het is daarom belangrijk om al in een vroeg stadium van de toepassing van het algoritme aandacht te besteden aan een eventuele inbreuk op fundamentele rechten en vrijheden van burgers.
+De inzet van algoritmes en AI-systemen kan bijvoorbeeld een bedreiging vormen voor de privacy van burgers, voor het  recht op gelijke behandeling en voor het recht op behoorlijk bestuur.
+Het is daarom belangrijk om tijdig te onderzoeken of er sprake is of kan zijn van een eventuele inbreuk op fundamentele rechten en vrijheden van burgers. Het is van belang dat maatregelen worden getroffen om een eventuele inbreuk te voorkomen.
 
 ## Bronnen
 

@@ -18,7 +18,7 @@ hide:
 <!-- tags -->
 ## Vereiste
 
-Pas privacy en gegevensbescherming toe door goed ontwerp en door standaardinstellingen
+Privacy en gegevensbescherming door goed ontwerp en door standaardinstellingen
 
 ## Toelichting
 

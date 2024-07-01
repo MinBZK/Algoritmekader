@@ -27,7 +27,7 @@ Aanbieders van AI-modellen voor algemene doeleinden moeten (technische) informat
 
 Aanbieders van AI-modellen voor algemene doeleinden hebben een bijzondere rol en verantwoordelijkheid binnen de AI-waardeketen.
 Zij leveren modellen die de basis kunnen vormen voor een reeks systemen verder in de AI-waardeketen, veelal aangeboden door aanbieders verder in de AI-waardeketen.
-Dit vraagt om om een goed inzicht in de modellen en hun capaciteiten, zowel qua integratie van de modellen in hun producten als qua naleving van hun verplichtingen.
+Dit vraagt om een goed inzicht in de modellen en hun capaciteiten, zowel qua integratie van de modellen in hun producten als qua naleving van hun verplichtingen.
 
 
 Er zijn derhalve evenredige transparantiemaatregelen nodig, zoals opstelling en bijwerking van documentatie en verstrekking van informatie over het AI-model voor algemeen gebruik door de aanbieders verder in de AI-waardeketen.

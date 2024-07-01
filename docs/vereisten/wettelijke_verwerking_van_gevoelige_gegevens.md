@@ -1,6 +1,6 @@
 ---
-title: Wettelijke uitzondering nodig voor verwerken bijzondere categoriën persoonsgegevens
-toelichting: Bijzondere categoriën van persoonsgegevens mogen alleen worden verwerkt op basis van een wettelijke uitzondering.
+title: Wettelijke uitzondering nodig voor verwerken bijzondere categorieën persoonsgegevens
+toelichting: Bijzondere categorieën van persoonsgegevens mogen alleen worden verwerkt op basis van een wettelijke uitzondering.
 status_vereiste:
 - geldend
 levenscyclus:
@@ -16,7 +16,7 @@ hide:
 <!-- tags -->
 ## Vereiste
 
-Bijzondere categoriën van persoonsgegevens mogen alleen worden verwerkt op basis van een wettelijke uitzondering.
+Bijzondere categorieën van persoonsgegevens mogen alleen worden verwerkt op basis van een wettelijke uitzondering.
 
 ## Toelichting
 
@@ -25,10 +25,10 @@ Dit komt doordat de context van de verwerking ervan significante risico's kan me
 Denk hierbij aan persoonsgegevens als ras, ethnische afkomst, politieke opvattingen of religieuze of levenschouwelijke overtuigingen.
 
 
-Bijzondere categoriën persoonsgegevens mogen alleen worden verwerkt als er hier een wettelijke uitzondering voor is (art.
+Bijzondere categorieën persoonsgegevens mogen alleen worden verwerkt als er hier een wettelijke uitzondering voor is (art.
 9 AVG en art.
 30 UAVG).
-Deze vereiste is ook van toepassing bij het ontwikkelen en gebruiken van algoritmes of AI-systemen en stelt daarmee beperkingen aan het mogen verwerken van deze categoriën persoonsgegevens, bv.
+Deze vereiste is ook van toepassing bij het ontwikkelen en gebruiken van algoritmes of AI-systemen en stelt daarmee beperkingen aan het mogen verwerken van deze categorieën persoonsgegevens, bv.
 ten behoeve van trainingsdata of het genereren van de beoogde output.
 
 ## Bronnen
@@ -44,7 +44,7 @@ ten behoeve van trainingsdata of het genereren van de beoogde output.
 
 ## Risico
 
-Het (onrechtmatige) verwerken van bijzondere categoriën persoonsgegevens brengt risico's met zich mee op het gebied van respecteren van de persoonlijke levenssfeer en discriminatie.
+Het (onrechtmatige) verwerken van bijzondere categorieën persoonsgegevens brengt risico's met zich mee op het gebied van respecteren van de persoonlijke levenssfeer en discriminatie.
 
 
 ## Maatregelen

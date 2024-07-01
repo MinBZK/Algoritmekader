@@ -17,7 +17,6 @@ hide:
 ## Vereiste
 
 De verwerking van persoonsgegevens moet rechtmatig plaatsvinden.
-De verwerking (inclusief het verzamelen) moet worden gebaseerd op een van de wettelijke grondslagen die zijn genoemd in de AVG.
 
 ## Toelichting
 

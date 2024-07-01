@@ -21,7 +21,7 @@ Bij het doorlopen, periodieke systematische toetsing en actualisatie van het ris
 ## Toelichting
 
 Bij de uitvoering van het in de leden 1 tot en met 7 van art.
-9 AI-Verordening bedoelde systeem voor risicobeheer houden aanbieders rekening met de vraag of het beoogde doel van het AI-systeem met een hoog risico waarschijnlijk negatieve gevolgen zal hebben voor personen jonger dan 18 jaar en, in voorkomend geval, voor andere groepen kwetsbare personen.
+9 AI-Verordening bedoelde systeem voor risicobeheer houden aanbieders rekening met de vraag of het beoogde doel van het AI-systeem met een hoog risico waarschijnlijk negatieve gevolgen zal hebben voor personen jonger dan 18 jaar en, in voorkomend geval, voor andere groepen kwetsbare personen. Er moet een grondige risicoanalyse plaatsvinden en worden vertaald naar mitigerende maatregelen om het risico te elimineren of te mitigeren.
 
 ## Bronnen
 

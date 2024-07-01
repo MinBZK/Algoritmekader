@@ -42,7 +42,7 @@ een inkoper, ontwikkelaar, data scientist, proceseigenaar en archief deskundige)
 
 | Bron                        |
 |-----------------------------|
-|[Toetsingskader Algemene Rekenkamer 4.06](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)|
+| Algoritmekader |
 |[Rekenen en rekenschap. Essay over Algoritmes en de Archiefwet](https://www.inspectie-oe.nl/binaries/inspectie-oe/documenten/publicatie/2021/01/21/rekenen-en-rekenschap/Rekenen+en+rekenschap%2C+Algoritme+en+de+Archiefwet+essay+door+Petra+Helwig+BJu+Tijdschrift+voor+Toezicht++aflevering+1+2020.pdf)|
 
 ## Voorbeeld

@@ -119,8 +119,12 @@ def _badge_rollen(page: Page, files: Files, rol: str):
 # Create badge for bouwblok
 def _badge_bouwblok(page: Page, files: Files, blok: str):
     icon = "material-cube"
-    href_bouwblok = _resolve_path("bouwblokken/index.md", page, files)
-    href_fase = _resolve_path(f"bouwblokken/{blok}/index.md", page, files)
+    if blok == 'governance':
+        href_bouwblok = _resolve_path("governance/index.md", page, files)
+        href_fase = _resolve_path(f"governance/index.md", page, files)
+    else:
+        href_bouwblok = _resolve_path("bouwblokken/index.md", page, files)
+        href_fase = _resolve_path(f"bouwblokken/{blok}/index.md", page, files)
     return _badge(
         icon=f"[:{icon}:]({href_bouwblok} 'Bouwblok')",
         text=f"[{blok.capitalize().replace('-', ' ')}]({href_fase})",

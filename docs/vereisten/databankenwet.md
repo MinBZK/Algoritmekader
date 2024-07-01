@@ -15,14 +15,14 @@ hide:
 <!-- tags -->
 ## Vereiste
 
-Het is verboden om zonder goedkeuring van de producent een databanken op te vragen en/of te hergebruiken.
+Het is verboden om zonder goedkeuring van de producent een databank op te vragen en/of te hergebruiken.
 
 ## Toelichting
 
 De Databankrichtlijn en Databankenwet beschermt de producten/fabrikanten van databanken tegen onrechtmatige toe-eigening van een databank.
 Degene die een substantiële financiële en professionele investering heeft verricht om de inhoud van de databank te verkijgen en te verzamelen, krijgt een verbodsrecht en kan zo anderen verbieden de databank te gebruiken.
-Bij verkrijgen gaat het om 'het verzamelen van de werken, gegevens of andere zelfstandige elementen die tezamen de inhoud van de databank vormen'.
-Dit recht bestaat naast het recht op bescherming op de originele keuze of rangschikking van de inhoud van databanken (auteurswet).
+Bij verkrijgen gaat het om "het verzamelen van de werken, gegevens of andere zelfstandige elementen die tezamen de inhoud van de databank vormen".
+Dit recht bestaat naast het recht op bescherming van de originele keuze of rangschikking van de inhoud van databanken (auteurswet).
  
 
 Voor het ontwikkelen van algoritme en AI is data nodig.

@@ -11,6 +11,8 @@ levenscyclus:
 - monitoring-en-beheer
 bouwblok:
 - fundamentele-rechten
+hide:
+- navigation
 ---
 
 <!-- tags -->

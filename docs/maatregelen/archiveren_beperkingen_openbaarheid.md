@@ -13,9 +13,12 @@ rollen:
 - informatiebeheerder
 - archiefdeskundige
 - jurist
+hide:
+- navigation
 ---
 
 <!-- tags -->
+
 ## Maatregel
 
 Stel vast of beperkingen aan openbaarheid van de archiefbescheiden moeten worden gesteld.
@@ -35,7 +38,7 @@ transparantie/openheid (uitgangspunt zou 'open, tenzij' moeten zijn).
 
 | Bron                        |
 |-----------------------------|
-|Algoritmekader|
+| Algoritmekader |
 
 ## Voorbeeld
 

@@ -8,6 +8,8 @@ levenscyclus:
 - verificatie-en-validatie
 bouwblok:
 - governance
+hide:
+- navigation
 ---
 
 <!-- tags -->

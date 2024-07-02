@@ -31,3 +31,39 @@ Organisaties zullen hier hoe dan ook aandacht aan moeten besteden.
 Dit is anders als het gaat om bijvoorbeeld het vereiste om algoritmes en AI op te nemen in het Algoritmeregister. 
 Dit is van belang bij impactvolle algoritmische toepassingen en hoog-risico AI-systemen. 
 Voor de niet-impactvolle rekenregels is dit niet noodzakelijk en kan daardoor achterwege blijven. 
+
+## Overzicht van vereisten
+
+Onderstaand volgt een overzicht van vereisten per fase van de levenscyclus. 
+
+??? simple "Probleemanalyse"
+
+    <!-- list_vereisten levenscyclus/probleemanalyse -->
+
+??? simple "Ontwerp"
+
+    <!-- list_vereisten levenscyclus/ontwerp -->
+
+??? simple "Dataverkenning en datapreparatie"
+
+    <!-- list_vereisten levenscyclus/dataverkenning-en-datapreparatie -->
+
+??? simple "Ontwikkelen"
+
+    <!-- list_vereisten levenscyclus/ontwikkelen -->
+
+??? simple "Verificatie en validatie"
+
+    <!-- list_vereisten levenscyclus/verificatie-en-validatie -->
+    
+??? simple "Implementatie"
+
+    <!-- list_vereisten levenscyclus/implementatie -->
+    
+??? simple "Monitoring en beheer"
+
+    <!-- list_vereisten levenscyclus/monitoring-en-beheer -->
+    
+??? simple "Uitfaseren"
+
+    <!-- list_vereisten levenscyclus/uitfaseren -->

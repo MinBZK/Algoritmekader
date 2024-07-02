@@ -13,6 +13,8 @@ rollen:
 - proceseigenaar
 - privacy-officer
 - inkoopadviseur
+hide:
+- navigation
 ---
 
 <!-- tags -->

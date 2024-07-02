@@ -12,6 +12,8 @@ levenscyclus:
 bouwblok:
 - governance
 - technische-robuustheid-en-veiligheid
+hide:
+- navigation
 ---
 
 <!-- tags -->

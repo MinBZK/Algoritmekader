@@ -20,7 +20,7 @@ Het is ook denkbaar dat bepaalde maatregelen aan meerdere vereisten kunnen worde
 Dit moet organisaties helpen om met hun beschikbare middelen effectief en gericht te komen tot een verantwoorde ontwikkeling en inzet van algoritmes en AI.
 
 Om tot een overzicht van de maatregelen te komen is naar een aantal waardevolle bronnen gekeken.
-Het [Toetsingskader Algoritmes](https://www.rekenkamer.nl/onderwerpen/algoritmes-digitaal-toetsingskader) van de Algemene Rekenkamer en het [Onderzoekskader algoritmes](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)van de Auditdienst Rijk zijn daar goede voorbeelden van.
+Het [Toetsingskader Algoritmes](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) van de Algemene Rekenkamer en het [Onderzoekskader algoritmes](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)van de Auditdienst Rijk zijn daar goede voorbeelden van.
 Daarnaast is ook de kennis van experts binnen en buiten het team Algoritmekader toegevoegd om te kunnen duiden welke maatregelen in de praktijk kunnen worden getroffen om te voldoen aan de vereisten.
  
 ## Standaarden
@@ -33,6 +33,39 @@ Waar mogelijk zullen de standaarden onderdeel worden van het Algoritmekader en t
 Er zal een verwijzing worden gemaakt naar de betreffende standaard.
 Hierover moeten nog nadere afspraken worden gemaakt met deze standaardisatieorganisaties.
 
+## Overzicht van maatregelen
 
-!!! note "Opmerking"
-    Hier volgt in een volgende versie een opsomming van de maatregelen. 
+Onderstaand volgt een overzicht van maatregelen per fase van de levenscyclus. 
+
+??? simple "Probleemanalyse"
+
+    <!-- list_maatregelen levenscyclus/probleemanalyse -->
+
+??? simple "Ontwerp"
+
+    <!-- list_maatregelen levenscyclus/ontwerp -->
+
+??? simple "Dataverkenning en datapreparatie"
+
+    <!-- list_maatregelen levenscyclus/dataverkenning-en-datapreparatie -->
+
+??? simple "Ontwikkelen"
+
+    <!-- list_maatregelen levenscyclus/ontwikkelen -->
+
+??? simple "Verificatie en validatie"
+
+    <!-- list_maatregelen levenscyclus/verificatie-en-validatie -->
+    
+??? simple "Implementatie"
+
+    <!-- list_maatregelen levenscyclus/implementatie -->
+    
+??? simple "Monitoring en beheer"
+
+    <!-- list_maatregelen levenscyclus/monitoring-en-beheer -->
+    
+??? simple "Uitfaseren"
+
+    <!-- list_maatregelen levenscyclus/uitfaseren -->
+

@@ -22,8 +22,8 @@ Bepaal en documenteer waarom het gewenst of nodig is om een algoritme in te zett
 
 ## Toelichting
 
-- Bepaal waarom het gewenst of nodig is om een algoritme in te zetten, of dat er ook alternatieven zijn om het probleem op te lossen. 
-Documenteer de onderbouwing waarom een algoritme een betere oplossing kan bieden dan een niet-geautomatiseerd of niet-digitaal proces. 
+- Bepaal waarom het gewenst of nodig is om een algoritme in te zetten, en of er ook alternatieven zijn om het probleem op te lossen. 
+Documenteer de onderbouwing waarom een algoritme een betere oplossing zou bieden dan een niet-geautomatiseerd of niet-digitaal proces. 
 
 - Maak een bewuste afweging of een algoritme het juiste middel is om [het probleem](../maatregelen/formuleren_probleemdefinitie.md) op doelmatige en doeltreffende wijze op te lossen, en documenteer deze afweging. 
 

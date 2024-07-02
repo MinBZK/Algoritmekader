@@ -19,7 +19,7 @@ hide:
 
 ## Maatregel
 Bepaal wat de impact van het in te zetten algoritme is voor betrokkenen (personen of groepen).
-Bepaal vervolgens of de er groepen zijn waarbij de impact van het algoritme dermate groot kan zijn, dat het wenselijk is om deze groepen extra bescherming te bieden.
+Bepaal vervolgens of er groepen zijn waarbij de impact van het algoritme dermate groot kan zijn, dat het wenselijk is om deze groepen extra bescherming te bieden.
 
 ## Toelichting
 - Verschillende groepen kunnen op een andere manier geraakt worden door het inzetten van een algoritme. Dit is afhankelijk van de context waarin het algoritme wordt ingezet, en dient daardoor bij iedere toepassing opnieuw bekeken te worden. 

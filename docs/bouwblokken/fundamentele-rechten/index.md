@@ -38,3 +38,7 @@ Onderdeel van het bouwblok Fundamentele rechten is het onderwerp [Bias en non-di
 ## Maatregelen
 
 <!-- list_maatregelen bouwblok/fundamentele-rechten -->
+
+## Instrumenten
+
+<!-- list_instrumenten bouwblok/fundamentele-rechten -->

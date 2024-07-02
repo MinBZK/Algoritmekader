@@ -91,6 +91,43 @@ def on_env(env, config: MkDocsConfig, files: Files):
             ]
         )
 
+    # function to create list of instrumenten
+    def replace_instrumenten(match: Match):
+        type = match.groups()[0]
+        types = re.split(r"\s+", type)
+        type_value_bundle = [y.split("/") for y in types]
+
+        list: List[File] = []
+        for file in files:
+            if not file.src_path.startswith("instrumenten/"):
+                continue
+
+            if not file.src_path.endswith(".md"):
+                continue
+
+            if all(
+                value in file.page.meta.get(type, [])
+                for type, value in type_value_bundle
+            ):
+                
+                list.append(file)
+
+        return "".join(
+            [
+                "<table>",
+                "<thead>",
+                "<tr>",
+                '<th role="columnheader"><strong>Instrument</strong></th>',
+                '<th role="columnheader"><strong>Uitleg</strong></th>',
+                "</tr>",
+                "</thead>",
+                "<tbody>",
+                *([_create_table_row(item) for item in list]),
+                "</tbody>",
+                "</table>",
+            ]
+        )
+
     # function to create list of vereisten on maatregelen page
     def replace_vereisten_on_maatregelen_page(match: Match):
 
@@ -135,6 +172,11 @@ def on_env(env, config: MkDocsConfig, files: Files):
         # Find and replace all strings in current page to list of maatregelen
         file.page.content = re.sub(
             r"<!-- list_maatregelen (.*?) -->", replace_maatregelen, file.page.content, flags=re.I | re.M
+        )
+
+        # Find and replace all strings in current page to list of instrumenten
+        file.page.content = re.sub(
+            r"<!-- list_instrumenten (.*?) -->", replace_instrumenten, file.page.content, flags=re.I | re.M
         )
 
         # Find and replace all strings in current page to list of vereisten on maatregelen page

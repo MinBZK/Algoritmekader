@@ -25,7 +25,7 @@ Waardengedreven met algoritmes en AI werken, betekent dat er aandacht moet zijn 
 1. rollen en verantwoordelijkheden (governance);
 2. risico’s op bias/discriminatie vroegtijdig detecteren;
 3. het veilig kunnen verweken van gegevens;
-4. de uitvoering van mensenrechtentoetsen (zoals IAMA’s);
+4. de uitvoering van mensenrechtentoetsen (zoals [IAMA’s](instrumenten/IAMA.md));
 5. adequate inkoopvoorwaarden afspreken voor algoritmes die de overheid inkoopt bij derden. 
 
 Aan deze opsomming zie je al dat op een verantwoorde manier met AI en algoritmes werken niet de verantwoordelijkheid is of kan zijn van één enkele professional in een organisatie. 

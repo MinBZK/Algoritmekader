@@ -1,6 +1,7 @@
 ---
 title: Maatregelen
-hide: navigation
+hide:
+- navigation
 ---
 
 De maatregelen die zijn opgenomen in het Algoritmekader geven aan 'hoe' overheidsorganisaties invulling *kunnen* geven aan specifieke vereisten.
@@ -34,7 +35,7 @@ Hierover moeten nog nadere afspraken worden gemaakt met deze standaardisatieorga
 
 ## Overzicht van maatregelen
 
-Onderstand volgt een overzicht van maatregelen per fase van de levenscyclus. 
+Onderstaand volgt een overzicht van maatregelen per fase van de levenscyclus. 
 
 ??? simple "Probleemanalyse"
 
@@ -67,3 +68,4 @@ Onderstand volgt een overzicht van maatregelen per fase van de levenscyclus.
 ??? simple "Uitfaseren"
 
     <!-- list_maatregelen levenscyclus/uitfaseren -->
+

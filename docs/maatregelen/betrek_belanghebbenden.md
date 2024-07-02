@@ -64,14 +64,14 @@ Terugkoppelen aan buitenwereld.
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
-| Bron                        |
-|-----------------------------|
-| [Toetsingskader Algemene Rekenkamer 2.12](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) |        
-| [The Fairness Handbook](https://openresearch.amsterdam/nl/media/inline/2022/7/14/fairness_handbook.pdf) |        
-| [Handreiking non-discriminatie by design](https://open.overheid.nl/repository/ronl-3f9fa69c-acf4-444d-96e1-5c48df00eb3c/1/pdf/bijlage-1-handreiking-non-discriminatie-by-design.pdf) |     
-| Ethics Guidelines for Trustworthy AI |
 
-
+| Bron                                                                                                                                                                                 |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Toetsingskader Algemene Rekenkamer 2.12](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)                         |
+| [The Fairness Handbook](https://openresearch.amsterdam/nl/media/inline/2022/7/14/fairness_handbook.pdf)                                                                              |
+| [Handreiking non-discriminatie by design](https://open.overheid.nl/repository/ronl-3f9fa69c-acf4-444d-96e1-5c48df00eb3c/1/pdf/bijlage-1-handreiking-non-discriminatie-by-design.pdf) |
+| Ethics Guidelines for Trustworthy AI                                                                                                                                                 |
+| [Onderzoekskader Algoritmes Auditdienst Rijk, SV.10](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)                               |
 
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->

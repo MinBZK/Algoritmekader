@@ -28,4 +28,4 @@ Let wel: Het Algoritmekader schrijft niet voor hoe een organisatie ingericht moe
 
 ## Maatregelen
 
-<!-- list_maatregelen bouwblok/governance-->
+<!-- list_maatregelen bouwblok/governance -->

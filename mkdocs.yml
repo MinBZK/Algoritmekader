@@ -36,6 +36,15 @@ nav:
         - overhetalgoritmekader/index.md
         - overhetalgoritmekader/definities.md
         - overhetalgoritmekader/CONTRIBUTING.md
+    - Governance:
+        - governance/index.md
+        - governance/governance-structuur.md
+        - governance/politiek-bestuurlijk-kader.md
+        - governance/interactie-burgers-en-omgeving.md
+        - governance/volwassenheidsniveau.md
+        - governance/levenscyclus.md
+        - governance/rollen_en_verantwoordelijkheden.md
+        - governance/type_algoritme.md
     - Levenscyclus:
         - levenscyclus/index.md 
         - levenscyclus/probleemanalyse.md
@@ -71,6 +80,7 @@ markdown_extensions:
     - footnotes
     - toc:
         permalink: true
+        toc_depth: 3
     - pymdownx.tasklist:
         custom_checkbox: true
     - pymdownx.emoji:

@@ -13,6 +13,8 @@ rollen:
 - behoeftesteller
 - inkoopadviseur
 - privacy-officer
+hide:
+- navigation
 ---
 
 <!-- tags -->

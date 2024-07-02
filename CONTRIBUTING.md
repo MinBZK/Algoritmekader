@@ -21,7 +21,7 @@ We kijken uit naar alle bijdragen! 🎉
 - [Code of Conduct](#code-of-conduct)
 - [Ik heb een vraag](#ik-heb-een-vraag)
 - [Ik wil iets bijdragen](#ik-wil-iets-bijdragen)
-- [Ik wil een fout of bug melden](#ik-wil-een-fout--bug-melden)
+- [Ik wil een fout of bug melden](#ik-wil-een-fout-of-bug-melden)
 - [Hoe we werken op GitHub](#hoe-we-werken-op-github)
 
 ## Code of Conduct
@@ -59,7 +59,7 @@ Voor sommige bouwblokken wordt er gewerkt met werkgroepen, om de informatie verd
 ### Neem deel aan een sprint review / klankbord / demo
 Het team van het algoritmekader werkt in sprints van ongeveer 3 weken. Daarin werken we toe naar de volgende release van het Algoritmekader. Ongeveer eens in de 6 weken vindt er een nieuwe release plaats. Wanneer er een release is, wordt deze altijd toegelicht en gepresenteerd in een open online review / demo. Deze kan je vrijblijvend volgen. Zo blijf je op de hoogte en kun je een bijdrage leveren. [Bekijk de agenda op Algoritmes Pleio](https://algoritmes.pleio.nl/events) voor de komende bijeenkomsten. 
 
-## Ik wil een fout / bug melden
+## Ik wil een fout of bug melden
 Heb je een foutje gevonden in het Algoritmekader? Dan kan je deze melden door een [Issue](https://github.com/MinBZK/Algoritmekader/issues) aan te maken. 
 
 Voordat je een [Issues](https://github.com/MinBZK/Algoritmekader/issues) gaat aanmaken, kan je bekijken of jouw gevonden fout al tussen de bestaande [Issues](https://github.com/MinBZK/Algoritmekader/issues) staat. 

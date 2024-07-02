@@ -14,6 +14,8 @@ rollen:
 - behoeftesteller
 - proceseigenaar
 - inkoopadviseur
+hide:
+- navigation
 ---
 
 <!-- tags -->

@@ -14,7 +14,7 @@ Er is een groot aanbod aan instrumenten die kunnen worden ingezet tijdens de ont
 [^1]: Definitie opgesteld door team Algoritmekader 
 
 Instrumenten worden ontwikkeld door de verschillende partijen, zoals de overheid, wetenschap en industrie. 
-Bekende voorbeelden hiervan zijn het IAMA (UU) en het Toetsingskader Algoritmes (ARK). 
+Bekende voorbeelden hiervan zijn het [IAMA](IAMA.md) (UU) en het Toetsingskader Algoritmes (ARK). 
 Het team Algoritmekader heeft verschillende instrumenten geanalyseerd. 
 Wat opvalt is dat er (veel) overlap zit tussen deze instrumenten wat betreft doel en onderwerpen. 
 Het is voor gebruikers ook niet altijd duidelijk wanneer welk instrument kan of moeten worden ingezet en of het dan alle relevante aspecten van een onderwerp dekt. 

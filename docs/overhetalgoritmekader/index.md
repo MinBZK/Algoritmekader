@@ -7,7 +7,7 @@ Dit betekent dat er aandacht moet zijn voor zaken als:
 
 1. rollen en verantwoordelijkheden (governance);
 2. risico’s op bias/discriminatie vroegtijdig detecteren;
-3. de uitvoering van mensenrechtentoetsen (zoals IAMA’s);
+3. de uitvoering van mensenrechtentoetsen (zoals [IAMA’s](../instrumenten/IAMA.md));
 4. adequate inkoopvoorwaarden afspreken voor algoritmes die de overheid inkoopt bij derden. 
 
 Maar hoe doe je dat dan? Hier helpt het Algoritmekader je bij: een interactieve kennisbank waarin je kunt zoeken naar informatie op basis van een onderwerp, een fase uit de levenscyclus of jouw rol.  

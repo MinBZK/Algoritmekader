@@ -8,6 +8,8 @@ levenscyclus:
 - ontwerp
 bouwblok:
 - governance
+hide:
+- navigation
 ---
 
 <!-- tags -->

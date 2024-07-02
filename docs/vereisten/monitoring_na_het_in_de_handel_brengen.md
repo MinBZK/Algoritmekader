@@ -1,13 +1,14 @@
 ---
 title: Monitoring na het in handel brengen 
 toelichting: Aanbieders moeten een systeem voor monitoring na het in de handel brengen vaststellen en documenteren op een manier die evenredig is aan de aard van de AI-technologieën en de risico’s van het AI-systeem met een hoog risico.
-
 status_vereiste:
 - nog-niet-geldend
 levenscyclus:
 - monitoring-en-beheer
 bouwblok:
 - privacy-en-gegevensbescherming
+hide:
+- navigation
 ---
 
 <!-- tags -->

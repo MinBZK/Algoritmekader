@@ -30,7 +30,7 @@ Zij leveren modellen die de basis kunnen vormen voor een reeks systemen verder i
 Dit vraagt om een goed inzicht in de modellen en hun capaciteiten, zowel qua integratie van de modellen in hun producten als qua naleving van hun verplichtingen.
 
 
-Er zijn derhalve evenredige transparantiemaatregelen nodig, zoals opstelling en bijwerking van documentatie en verstrekking van informatie over het AI-model voor algemeen gebruik door de aanbieders verder in de AI-waardeketen.
+Er zijn daarom evenredige transparantiemaatregelen nodig, zoals opstelling en bijwerking van documentatie en verstrekking van informatie over het AI-model voor algemeen gebruik door de aanbieders verder in de AI-waardeketen.
 De aanbieder van het AI-model voor algemene doeleinden dient technische documentatie op te stellen en bij te werken om deze op verzoek te kunnen overleggen aan het AI-bureau en de nationale bevoegde autoriteiten.
 De minimaal in de documentatie op te nemen elementen moeten worden vastgelegd volgens bijlage XII van de AI-Verordening.
 Hierbij is het ook van belang dat de aanbieder van AI-modellen voor algemene doelstelling beleid opstellen voor naleving van auteursrechten en naburige rechten (artikel 4, lid 3 Richtlijn (EU) 2019/790).

@@ -82,6 +82,8 @@ rollen:
 - aanbieder
 - opdrachtnemer
 
+hide:
+- navigation
 
 ---
 

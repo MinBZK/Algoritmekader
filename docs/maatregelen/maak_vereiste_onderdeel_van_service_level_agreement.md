@@ -31,6 +31,8 @@ levenscyclus:
 # vul hier de bouwblokken in die horen bij deze maatregel
 bouwblok: 
 - publieke-inkoop
+hide:
+- navigation
 ---
 # geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn
 rollen:

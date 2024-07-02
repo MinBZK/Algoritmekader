@@ -38,6 +38,8 @@ levenscyclus:
 # vul hier de bouwblokken in die horen bij deze maatregel
 bouwblok: 
 - publieke-inkoop
+hide:
+- navigation
 ---
 
 <!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->

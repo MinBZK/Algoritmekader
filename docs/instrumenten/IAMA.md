@@ -5,7 +5,10 @@ vereiste:
 - beoordelen_gevolgen_voor_grondrechten
 - fundamentele_rechten
 levenscyclus:
+- probleemanalyse
 - ontwerp
+- verificatie-en-validatie
+- implementatie
 bouwblok:
 - fundamentele-rechten
 rollen:

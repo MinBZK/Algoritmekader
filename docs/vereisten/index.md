@@ -1,5 +1,7 @@
 ---
 title: Vereisten
+hide:
+- navigation
 ---
 
 Een kernelement van het Algoritmekader is het beschrijven van de vereisten waar overheidsorganisaties aan moeten voldoen als zij algoritmes en AI (laten) ontwikkelen en gebruiken. 
@@ -23,9 +25,9 @@ Dit moet gebruikers helpen om te duiden welke vereisten in welke situaties moete
     Aan deze functionaliteit wordt nog gewerkt. Meer hierover zal volgen in een volgende versie. 
 
 ### Voorbeeld
-Ter illustratie, ongeacht het type technologie, zijn discriminerende algoritmes en AI verboden en het vereisten van non-discriminatie moet in alle gevallen worden toegepast. 
+Ter illustratie, ongeacht het type technologie, zijn discriminerende algoritmes en AI verboden en het vereiste van non-discriminatie moet in alle gevallen worden toegepast. 
 De mate waarin dit speelt kan verschillen en het aantal te treffen maatregelen ook. 
 Organisaties zullen hier hoe dan ook aandacht aan moeten besteden. 
-Dit is anders als het gaat om bijvoorbeeld het vereiste van het opnemen van algoritmes en AI in het Algoritmeregister. 
+Dit is anders als het gaat om bijvoorbeeld het vereiste om algoritmes en AI op te nemen in het Algoritmeregister. 
 Dit is van belang bij impactvolle algoritmische toepassingen en hoog-risico AI-systemen. 
 Voor de niet-impactvolle rekenregels is dit niet noodzakelijk en kan daardoor achterwege blijven. 

@@ -1,5 +1,7 @@
 ---
 title: Maatregelen
+hide:
+- navigation
 ---
 
 De maatregelen die zijn opgenomen in het Algoritmekader geven aan 'hoe' overheidsorganisaties invulling *kunnen* geven aan specifieke vereisten.

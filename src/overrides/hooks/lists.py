@@ -190,7 +190,7 @@ def _create_table_row(file: File):
         [
             "<tr>",
             f'<td><a href="{"../../" + file.dest_path}">{file.page.title}</a></td>',
-            f"<td>{file.page.meta.get('toelichting', '')}</td>",
+            f"<td>{file.page.meta.get('toelichting', '')}</td>"
             "</tr>",
         ]
     )
@@ -199,4 +199,3 @@ def _create_table_row(file: File):
 def _resolve(dest_path: str):
     path = posixpath.relpath(dest_path)
     return "/" + posixpath.sep.join(path.split(posixpath.sep)[:-1])
-

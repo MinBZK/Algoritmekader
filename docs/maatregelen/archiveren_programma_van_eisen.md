@@ -15,6 +15,8 @@ rollen:
 - inkoopadviseur
 - informatiebeheerder
 - archiefdeskundige
+hide:
+- navigation
 ---
 
 <!-- tags -->
@@ -38,7 +40,7 @@ Daarbij kunnen bijvoorbeeld vragen opgenomen worden over of aanbieders vereisten
 
 | Bron                        |
 |-----------------------------|
-|Algoritmekader|
+| Algoritmekader |
 
 ## Voorbeeld
 

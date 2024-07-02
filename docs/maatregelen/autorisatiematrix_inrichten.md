@@ -16,14 +16,16 @@ rollen:
 - aanbieder
 - security-officer
 - inkoopadviseur
+hide:
+- navigation
 ---
 
 <!-- tags -->
+
 ## Maatregel
 
 Uitsluitend bevoegde personen mogen de data verwerken en mogen werken aan de ontwikkeling van de algoritmes en AI-systemen.
 Maak hierover afspraken met de aanbieder.
-
 
 ## Toelichting
 

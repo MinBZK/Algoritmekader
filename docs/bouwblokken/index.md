@@ -21,8 +21,6 @@ hide:
 
     [:octicons-arrow-right-24: Naar fundamentele rechten](../bouwblokken/fundamentele-rechten/index.md)
 
-    [:octicons-arrow-right-24: Naar bias en non-discriminatie](../bouwblokken/fundamentele-rechten/non-discriminatie.md)
-
 -   ### [Publieke inkoop](../bouwblokken/publieke-inkoop/index.md)
     
     ---
@@ -59,17 +57,17 @@ hide:
 
     [:octicons-arrow-right-24: Naar transparantie](../bouwblokken/transparantie/index.md)
 
--   ### [Conformiteitsbeoordeling](../bouwblokken/conformiteitsbeoordeling/index.md)
+-   ### [Bias en non-discriminatie](../bouwblokken/bias-en-non-discriminatie/index.md)
     
     ---
 
-    ![conformiteitsbeoordeling](../afbeeldingen/iconen/conformiteitsbeoordeling.png)
+    ![bias-en-non-discriminatie](../afbeeldingen/iconen/bias-en-non-discriminatie.png)
 
     ---
 
-    Hier kunnen we een korte tekst kwijt over conformiteitsbeoordeling
+    Op deze pagina vind je de relevantie informatie over bias en non-discriminatie die van belang is wanneer je gebruik maakt van algoritmes of AI.
 
-    [:octicons-arrow-right-24: Naar conformiteitsbeoordeling](../bouwblokken/conformiteitsbeoordeling/index.md)
+    [:octicons-arrow-right-24: Naar bias en non-discriminatie](../bouwblokken/bias-en-non-discriminatie/index.md)
 
 -   ### [Data](../bouwblokken/data/index.md)
     
@@ -95,7 +93,7 @@ hide:
 
     [:octicons-arrow-right-24: Naar duurzaamheid](../bouwblokken/duurzaamheid/index.md)
 
--   ### [Governance](../bouwblokken/governance/index.md)
+-   ### [Governance](../governance/index.md)
     
     ---
 
@@ -105,7 +103,7 @@ hide:
 
     Hier kunnen we een korte tekst kwijt over governance
 
-    [:octicons-arrow-right-24: Naar governance](../bouwblokken/governance/index.md)
+    [:octicons-arrow-right-24: Naar governance](../governance/index.md)
 
 -   ### [Menselijke controle](../bouwblokken/menselijke-controle/index.md)
     

@@ -20,7 +20,7 @@ hide:
 ## Maatregel
 
 Het doel en de eventuele subdoelen van het algoritme moeten zo specifiek mogelijk zijn geformuleerd, en waar mogelijk gekwantificeerd. 
-Maak de consequenties van het algoritme specifiek en leg deze op het juiste niveau vast.
+Maak de consequenties van het algoritme specifiek en zorg dat het doel van het algoritme formeel is vastgesteld en vastgelegd. 
 
 ## Toelichting
 

@@ -79,6 +79,7 @@ markdown_extensions:
     - footnotes
     - toc:
         permalink: true
+        toc_depth: 3
     - pymdownx.tasklist:
         custom_checkbox: true
     - pymdownx.emoji:

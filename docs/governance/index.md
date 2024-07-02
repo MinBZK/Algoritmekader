@@ -4,7 +4,7 @@ summary: Hier staat een korte samenvatting over dit onderwerp
 icon: material/bank
 ---
 
-![governance](../../afbeeldingen/bouwblokken/governance.jpg "visuele weergave governance"){align="right"; width="50%"}
+![governance](../afbeeldingen/bouwblokken/governance.jpg "visuele weergave governance"){align="right"; width="50%"}
 
 Governance is een breed begrip, en er bestaan verschillende opvattingen van. In essentie gaat het over het inrichten van de organisatie, processen en bijbehorende verantwoordelijkheden.
 Een belangrijk aspect van governance is bepalen wie waarvoor verantwoordelijk is. Dit kan op verschillende niveaus: van (inter)nationaal niveau, naar organisatieniveau naar het niveau van het AI-systeem. In het Algoritmekader wordt gefocust op het niveau van organisatie en AI-systeem.  

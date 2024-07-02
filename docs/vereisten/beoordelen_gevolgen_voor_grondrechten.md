@@ -48,3 +48,8 @@ Het niet uitvoeren van deze beoordeling kan leiden tot schendingen van de grondr
 	<!-- list_maatregelen vereiste/beoordelen_gevolgen_voor_grondrechten boubwlok/governance -->
 === "Publieke inkoop"
 	<!-- list_maatregelen vereiste/beoordelen_gevolgen_voor_grondrechten bouwblok/publieke-inkoop -->
+
+
+## Instrumenten
+
+<!-- list_instrumenten vereiste/beoordelen_gevolgen_voor_grondrechten -->

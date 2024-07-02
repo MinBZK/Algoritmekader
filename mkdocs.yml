@@ -64,7 +64,8 @@ nav:
         - ... | vereisten/*.md
     - Maatregelen:
         - ... | maatregelen/*.md
-    - Instrumenten: instrumenten/index.md
+    - Instrumenten:
+        - ... | instrumenten/*.md
 
 # Extra opties
 markdown_extensions: 

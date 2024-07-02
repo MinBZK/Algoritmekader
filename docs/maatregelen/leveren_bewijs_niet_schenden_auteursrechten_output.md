@@ -15,6 +15,8 @@ rollen:
 - contractbeheerder
 - aanbestedingsjurist
 - gemandateerd-verantwoordelijke
+hide:
+- navigation
 ---
 
 <!-- tags -->

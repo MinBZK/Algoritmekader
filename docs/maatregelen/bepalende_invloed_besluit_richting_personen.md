@@ -15,6 +15,8 @@ rollen:
 - inkoopadviseur
 - ethicus
 - jurist
+hide:
+- navigation
 ---
 
 <!-- tags -->

@@ -12,6 +12,8 @@ rollen:
 - aanbieder
 - behoeftesteller
 - inkoopadviseur
+hide:
+- navigation
 ---
 
 <!-- tags -->

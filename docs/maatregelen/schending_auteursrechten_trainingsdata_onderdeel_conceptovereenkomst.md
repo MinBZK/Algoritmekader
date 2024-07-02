@@ -14,6 +14,8 @@ rollen:
 - inkoopadviseur
 - aanbestedingsjurist
 - contractbeheerder
+hide:
+- navigation
 ---
 
 <!-- tags -->

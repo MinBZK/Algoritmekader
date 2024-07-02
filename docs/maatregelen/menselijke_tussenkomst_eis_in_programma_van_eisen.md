@@ -13,6 +13,8 @@ rollen:
 - proceseigenaar
 - gebruiker
 - inkoopadviseur
+hide:
+- navigation
 ---
 
 <!-- tags -->

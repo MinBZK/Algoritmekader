@@ -9,6 +9,8 @@ levenscyclus:
 bouwblok:
 - transparantie
 - governance
+hide:
+- navigation
 ---
 
 <!-- tags -->

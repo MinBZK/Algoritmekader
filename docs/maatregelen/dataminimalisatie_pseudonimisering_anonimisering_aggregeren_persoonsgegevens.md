@@ -16,6 +16,8 @@ rollen:
 - data-engineer
 - security-officer
 - privacy-officer
+hide:
+- navigation
 ---
 
 <!-- tags -->
@@ -23,10 +25,7 @@ rollen:
 
 Pas maatregelen toe als dataminimalisatie, pseudonimisering, anonimisering of aggregeren van persoonsgegevens bij het verwerken van de (trainings)data.
 
-
 ## Toelichting
-
-
 
 ## Bijbehorende vereiste(n)
 

@@ -10,6 +10,8 @@ levenscyclus:
 - monitoring-en-beheer
 bouwblok:
 - governance
+hide:
+- navigation
 ---
 
 <!-- tags -->

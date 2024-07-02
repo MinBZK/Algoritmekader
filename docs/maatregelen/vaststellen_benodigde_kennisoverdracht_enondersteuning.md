@@ -14,6 +14,8 @@ rollen:
 - behoeftesteller
 - inkoopadviseur
 - contractbeheerder
+hide:
+- navigation
 ---
 
 <!-- tags -->

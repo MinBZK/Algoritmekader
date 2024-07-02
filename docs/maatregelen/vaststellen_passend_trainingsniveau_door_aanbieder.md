@@ -12,6 +12,8 @@ rollen:
 - aanbieder
 - proceseigenaar
 - inkoopadviseur
+hide:
+- navigation
 ---
 
 <!-- tags -->

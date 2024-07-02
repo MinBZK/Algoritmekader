@@ -25,5 +25,23 @@
 }
 
 .md-typeset .grid {
-    grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr))
+    grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr))
+ }
+
+:root {
+    --md-admonition-icon--simple: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58 13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42Z"/></svg>')
+  }
+  .md-typeset .admonition.simple,
+  .md-typeset details.simple {
+    border-color: rgb(5, 80, 141);
+  }
+  .md-typeset .simple > .admonition-title,
+  .md-typeset .simple > summary {
+    background-color: rgba(185, 185, 185, 0.1);
+  }
+  .md-typeset .simple > .admonition-title::before,
+  .md-typeset .simple > summary::before {
+    background-color: rgb(5, 80, 141);
+    -webkit-mask-image: var(--md-admonition-icon--simple);
+            mask-image: var(--md-admonition-icon--simple);
   }

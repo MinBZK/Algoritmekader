@@ -12,6 +12,8 @@ rollen:
 - proceseigenaar
 - gebruiker
 - aanbieder
+hide:
+- navigation
 ---
 
 <!-- tags -->

@@ -62,7 +62,7 @@ Neem de vereiste op als een subgunningscriteria bij gunningscriteria beste prijs
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Door de vereiste op te nemen als subgunningscriteria, ontstaat een mogelijkheid voor aanbieders om zich te onderscheiden. In de context van algoritmes en AI is dit in het bijzonder relevant, bijvoorbeeld in relatie tot vereisten als non-discriminatie, eerbiedigen privacyrechten of het verbod of schenden auteursrechten. Door vereisten te vertalen naar een subgunningscriteria, kan een inhoudelijke beoordeling worden gemaakt in hoeverre een aanbieder hier invulling aan geeft.
+Door de vereiste op te nemen als subgunningscriteria, ontstaat een mogelijkheid voor aanbieders om zich te onderscheiden. In de context van algoritmes en AI is dit in het bijzonder relevant, bijvoorbeeld in relatie tot vereisten als non-discriminatie, eerbiedigen privacyrechten of het verbod op schenden auteursrechten. Door vereisten te vertalen naar een subgunningscriteria, kan een inhoudelijke beoordeling worden gemaakt in hoeverre een aanbieder hier invulling aan geeft.
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

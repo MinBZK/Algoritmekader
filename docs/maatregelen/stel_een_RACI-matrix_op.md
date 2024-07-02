@@ -35,7 +35,9 @@ Stel een RACI-matrix op waarbij de rollen en verantwoordelijkheden worden beschr
 
 ## Toelichting 
 <!-- Geef hier een toelichting van deze maatregel -->
-Het is van belang om de rollen en verantwoordelijkheden over en gedurende de gehele levenscyclus te beschrijven en eventueel onderdeel te maken van conceptovereenkomsten. Tijdens de ontwikkelfase worden bijvoorbeeld andere (risicovolle)werkzaamheden uitgevoerd dan in de implementatie- of monitoring en beheerfase. Doorgaans zijn ook andere actoren betrokken in verschillende fases en in de praktijk kunnen taken en verantwoordelijkheden opnieuw worden belegd. 
+Het is van belang om de rollen en verantwoordelijkheden over en gedurende de gehele levenscyclus te beschrijven en eventueel onderdeel te maken van conceptovereenkomsten. 
+Tijdens de ontwikkelfase worden bijvoorbeeld andere (risicovolle) werkzaamheden uitgevoerd dan in de implementatie- of monitoring en beheerfase. 
+Doorgaans zijn ook andere actoren betrokken in verschillende fases en in de praktijk kunnen taken en verantwoordelijkheden opnieuw worden belegd. 
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

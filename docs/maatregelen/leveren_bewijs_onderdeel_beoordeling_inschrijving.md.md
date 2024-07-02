@@ -49,7 +49,7 @@ bouwblok:
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Door aanbieders bewijs te laten leveren dat zij voldoen aan de vereiste, kan worden beoordeeld door opdrachtgever in hoeverre daadwerkelijk wordt voldaan aan deze vereiste. Op deze manier worden aanbieders aangespoord om te motiveren wat zij hebben gedaan om te voldoen aan de vereiste.  
+Door de inschrijver/aanbieder bewijs te laten leveren dat deze voldoet aan de vereiste, kan worden beoordeeld door opdrachtgever in hoeverre daadwerkelijk wordt voldaan aan deze vereiste. Op deze manier worden inschrijvers/aanbieders aangespoord om te motiveren wat zij hebben gedaan om te voldoen aan de vereiste.  
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

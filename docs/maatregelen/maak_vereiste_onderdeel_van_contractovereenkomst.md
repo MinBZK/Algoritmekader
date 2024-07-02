@@ -81,7 +81,7 @@ Maak de vereiste onderdeel van de contractovereenkomst
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Door de vereiste onderdeel te namen van de contractovereenkomst, zijn deze voorwaarden voor opdrachtgever richting aanbieder/opdrachtnemer afdwingbaar. Het is van belang dat een afweging wordt gemaakt in hoeverre de betreffende vereiste van toepassing is. 
+Door de vereiste onderdeel te namen van de contractovereenkomst, zijn deze voorwaarden voor opdrachtgever richting aanbieder/opdrachtnemer afdwingbaar. Het is van belang dat bij de behoeftestelling een afweging wordt gemaakt in hoeverre de betreffende vereiste van toepassing is. 
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

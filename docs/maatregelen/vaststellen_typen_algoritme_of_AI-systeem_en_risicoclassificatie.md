@@ -27,7 +27,10 @@ bouwblok:
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Het verschilt per typen algoritmen of AI-systemen welke vereisten hierop van toepassing is en waar een aanbieder of gebruiksverantwoordelijke aan moet voldoen. Dit is mede afhankelijk van de bijbehorende risicoclassificatie. Hiervoor kan in de nabije toekomst de 'beslisboom' in het Algoritmekader voor worden gebruikt'. Deze stap is van groot belang, omdat dit ook bepalend is welke contractuele verplichtingen moeten worden gecreëerd tussen opdrachtgever en opdrachtnemer/aanbieder. H
+Het verschilt per typen algoritmen of AI-systemen welke vereisten hierop van toepassing is en waar een aanbieder of gebruiksverantwoordelijke aan moet voldoen. 
+Dit is mede afhankelijk van de bijbehorende risicoclassificatie. 
+Hiervoor kan in de nabije toekomst de 'beslisboom' in het Algoritmekader voor worden gebruikt'. 
+Deze stap is van groot belang, omdat dit ook bepalend is welke contractuele verplichtingen moeten worden gecreëerd tussen opdrachtgever en opdrachtnemer/aanbieder. 
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

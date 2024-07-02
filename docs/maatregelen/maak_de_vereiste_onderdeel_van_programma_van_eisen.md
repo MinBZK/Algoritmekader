@@ -89,7 +89,9 @@ rollen:
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Door de vereiste onderdeel te maken van het programma van eisen, is het voor aanbieders duidelijk dat hun oplossing hieraan moet voldoen. Afhankelijk van de specifieke toepassing, context en noodzaak kan een vereiste in het programma van eisen concreet worden gemaakt. Het is hierbij van belang om dit af te wegen tegen zaken die mogelijk al zijn geregeld door middel van algemene inkoopvoorwaarden die gelden voor algoritmes en AI.   
+Door de vereiste onderdeel te maken van het programma van eisen, is het voor aanbieders duidelijk dat hun oplossing hieraan moet voldoen. 
+Afhankelijk van de specifieke toepassing, context en noodzaak kan een vereiste in het programma van eisen concreet worden gemaakt. 
+Het is hierbij van belang om dit af te wegen tegen zaken die mogelijk al zijn geregeld door middel van algemene inkoopvoorwaarden die gelden voor algoritmes en AI.   
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

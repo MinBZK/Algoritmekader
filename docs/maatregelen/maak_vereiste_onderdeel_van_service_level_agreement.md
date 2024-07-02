@@ -15,11 +15,9 @@ vereiste:
 - kwaliteitsbeheersysteem_voor_hoog_risico_ai
 - kwaliteitscriteria_voor_data
 - monitoring_na_het_in_de_handel_brengen
-- recht_op_uitleg_ai_besluiten
 - risicobeheersing
 - toezichtmogelijkheden_voor_gebruikers
 - traceerbare_besluitvorming
-- transparantie
 - transparantie_bij_verwerken_persoonsgegevens
 - verplicht_risicobeheersysteem_voor_hoog_risico_ai
 - toegankelijkheidseisen_hoog_risico
@@ -51,7 +49,7 @@ Maak de vereiste onderdeel van Service Level Agreement
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Onderzoek of het relevant is om de vereiste onderdeel te maken van de Service Level Agreement. Met een SLA kunnen specifieke afspraken worden gemaakt over de kwaliteit van de dienstverlening. Hierbij kan worden gedacht aan onderwerpen als incidentmanagement, servicemanagement, verantwoordelijkheden matrix, hersteltijd en beveiliging.  
+Onderzoek of het relevant is om de vereiste onderdeel te maken van de Service Level Agreement (SLA). Met een SLA kunnen specifieke afspraken worden gemaakt over de kwaliteit van de dienstverlening. Hierbij kan worden gedacht aan onderwerpen als incidentmanagement, servicemanagement, verantwoordelijkheden matrix, hersteltijd en beveiliging.  Laat de aanbieder aangeven welke vormen van onderhoud aan het algoritme of AI-systeem nodig zijn en de snelheid waarmee signalen vanuit gebruik, ongeacht de bron, kunnen worden verwerkt in het systeem.
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

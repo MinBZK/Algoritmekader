@@ -84,7 +84,7 @@ In de context van algoritmes en AI kan het voor bepaalde onderwerpen zoals non-d
 | Bron                        |
 |-----------------------------|
 | Algoritmekader |  
-| Ruimte voor Innovatie in het contract [https://www.pianoo.nl/sites/default/files/media/documents/Inspiratiebundel-Ruimte-voor-innovatie-in-het-contract-juni2020.pdf] |
+| (Ruimte voor Innovatie in het contract)[https://www.pianoo.nl/sites/default/files/media/documents/Inspiratiebundel-Ruimte-voor-innovatie-in-het-contract-juni2020.pdf] |
 
 
 ## Voorbeeld

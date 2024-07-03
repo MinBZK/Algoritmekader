@@ -54,7 +54,6 @@ Het aantoonbaarheidsvereiste heeft niet direct gevolgen voor specifieke risico's
 - Samenwerkingen en externe leveranciers kunnen niet gebruikt worden om de aantoonbaarheidsvereisten op af te schuiven. Onafhankelijk van de onderlingen afspraken daarover hebben alle verwerkingsverantwoordelijken de verplichting om aan deze vereisten te kunnen voldoen. 
 
 
-**De verwerkingsverantwoordelijke is in staat om aan te tonen dat de verwerking van persoonsgegevens voldoet aan de normen uit artikel 5 lid 1 van de AVG.** 
 
 ## Maatregelen 
 

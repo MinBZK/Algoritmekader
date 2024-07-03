@@ -7,6 +7,7 @@ levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
 - ontwikkelen
+- verificatie-en-validatie
 - monitoring-en-beheer
 - archiveren
 bouwblok: 

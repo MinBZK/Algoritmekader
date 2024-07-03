@@ -64,7 +64,7 @@ hide:
 
 ## Maatregel
 <!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
-Maak de vereiste onderdeel van contractvoorwaarden 
+Creëer ruimte in het contract om opdrachtgever en aanbieder/opdrachtnemer te laten samenwerken om deze vereiste te realiseren.
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->

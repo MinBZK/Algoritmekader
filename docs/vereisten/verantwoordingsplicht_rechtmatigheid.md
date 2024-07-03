@@ -51,7 +51,7 @@ Het aantoonbaarheidsvereiste heeft niet direct gevolgen voor specifieke risico's
 - Aantoonbaarheidsvereisten vragen in de praktijk veel documentatie. Deze documentatie kan via de Woo opgevraagd worden. Het ontbreken van documentatie kan door externen vaak relatief makkelijk in verband worden gebracht met een overtreding van deze vereisten.
 - Algoritmen die van nature slecht inzichtelijk en uitlegbaar zijn (zoals deep-learning) hebben een zeer hoge drempel om aan deze vereiste te voldoen. Aantonen van rechtmatigheid is voor een belangrijk deel afhankelijk van inzicht in de werking van het algoritme. De inzet van een algortime kan dus mogelijk tegengehouden worden door deze vereisten.
 - Bij leveranciers die niet of gedeeltelijke transparant zijn over hun product of dienstverlening ontstaat een vergelijkbaar risico. Waar de Woo uitzonderingen heeft voor bedrijfsgeheimen heeft de AVG daar maar beperkte ruimte voor. Het is dus mogelijk dat leveranciers terughoudend zullen zijn met het delen van informatie die onder de AVG ook aan betrokkenen gecommuniceerd moeten worden.
-- Samenwerkingen en externe leveranciers kunnen niet gebruikt worden om de aantoonbaarheidsvereisten op af te schuiven. Onafhankelijk van de onderlingen afspraken daarover hebben alle verwerkingsverantwoordelijken de verplichting om aan deze vereisten te kunnen voldoen. 
+- Samenwerkingsverbanden en externe leveranciers kunnen niet als argumenten worden gebruikt om de aantoonbaarheidsvereisten op af te schuiven. Onafhankelijk van de onderlinge afspraken daarover hebben alle verwerkingsverantwoordelijken de verplichting om aan deze vereisten te kunnen voldoen. 
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: Verantwoordingsplicht voor de rechtmatigheid van de verwerking
-toelichting: Bij het verwerken van persoonsgegevens voor algoritmes en AI-systemen moeten de verantwoordelijkheden kunnen aantonen dat de verwerking rechtmatig is.
+toelichting: Bij het verwerken van persoonsgegevens voor algoritmes en AI-systemen moeten de verantwoordelijken kunnen aantonen dat de verwerking rechtmatig is.
 status_vereiste: 
  - Geldend
 levenscyclus: 

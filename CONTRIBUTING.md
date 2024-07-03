@@ -1,3 +1,8 @@
+---
+hide:
+- toc
+---
+
 # Bijdragen aan het Algoritmekader
 
 Allereerst, bedankt dat je de tijd hebt genomen om een bijdrage te leveren! ❤️

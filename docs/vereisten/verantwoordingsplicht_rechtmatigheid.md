@@ -17,7 +17,7 @@ bouwblok:
 <!-- tags -->
 ## Vereiste
 
-De verantwoordelijkheden moeten bij de verwerking van persoonsgegevens door algoritmes en AI-systemen kunnen aantonen dat de verwerkingen rechtmatig plaatsvinden.
+De verantwoordelijken moeten bij de verwerking van persoonsgegevens door algoritmes en AI-systemen kunnen aantonen dat de verwerkingen rechtmatig plaatsvinden.
 - Dit betekent concreet dat de volgende punten aangetoond kunnen worden:
  - Rechtmatigheid, behoorlijkheid en transparantie.
  - Doelbinding.

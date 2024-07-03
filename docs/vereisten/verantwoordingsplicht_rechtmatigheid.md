@@ -7,7 +7,7 @@ levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
 - ontwikkelen
-- monitoren
+- monitoring-en-beheer
 - archiveren
 bouwblok: 
 - governance

@@ -70,6 +70,8 @@ levenscyclus:
 # vul hier de bouwblokken in die horen bij deze maatregel
 bouwblok: 
 - publieke-inkoop
+hide:
+- navigation
 ---
 
 <!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->
@@ -95,9 +97,9 @@ Door de vereiste onderdeel te namen van de contractovereenkomst, zijn deze voorw
 | Bron                        |
 |-----------------------------|
 | Algoritmekader |  
-| Contractvoorwaarden gemeente Amsterdam [https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/contractvoorwaarden-algoritmen/] |
-| Europese Inkoopvoorwaarden Hoog Risico [https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_template_High_Risk%20NL.pdf] |
-| Europese Inkoopvoorwaarden Laag Risico [https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_Template_NON_HIGH_RISK_NL.pdf] |
+| [Contractvoorwaarden gemeente Amsterdam](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/contractvoorwaarden-algoritmen/) |
+| [Europese Inkoopvoorwaarden Hoog Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_template_High_Risk%20NL.pdf) |
+| [Europese Inkoopvoorwaarden Laag Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_Template_NON_HIGH_RISK_NL.pdf) |
 
 
 ## Voorbeeld

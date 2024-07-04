@@ -20,6 +20,8 @@ rollen:
 - data-scientist
 - data-engineer
 - beleidsmedewerker
+hide:
+- navigation
 ---
 
 <!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->
@@ -41,6 +43,8 @@ Met het opstellen van technische documentatie over algoritmes en AI-systemen wor
 
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
+| Bron |
+|----------------|
 | Algoritmekader |
 | [Handreiking Algoritmeregister](https://www.digitaleoverheid.nl/wp-content/uploads/sites/8/2023/12/Handreiking-Algoritmeregister-versie-1.0.pdf) |
 | [Publicatiestandaard](https://algoritmes.pleio.nl/attachment/entity/a47f2708-48bd-4a10-8893-ab24ac8c7207) |

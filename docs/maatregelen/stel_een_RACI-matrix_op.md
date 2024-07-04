@@ -1,18 +1,31 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Stel archiefbescheiden vast
+title: Stel een RACI-matrix op
 # geef hier een korte toelichting van deze maatregel
-toelichting: Stel vast welke documenten, data of informatie van het algoritme of het AI-systeem gelden als archiefbescheiden.
+toelichting: Stel een RACI-matrix op waarbij de rollen en verantwoordelijkheden worden beschreven en toebedeeld bij het verwerken van persoonsgegevens
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
-vereiste: 
-- archiefwet
+vereiste: beschrijven_en_toewijzen_van_verantwoordelijkheden_bij_verwerking_persoonsgegevens
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 
 - ontwerp
+- dataverkenning-en-datapreparatie
 - ontwikkelen
+- implementatie
+- monitoring-en-beheer
 # vul hier de bouwblokken in die horen bij deze maatregel
-bouwblok: 
-- publieke-inkoop
+bouwblok:
+- privacy-en-gegevensbescherming
+- governance
+rollen:
+- proceseigenaar
+- privacy-officer
+- data-scientist
+- data-engineer
+- inkoopadviseur
+- contractbeheerder
+- aanbieder
+hide:
+- navigation
 ---
 
 <!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->
@@ -20,11 +33,13 @@ bouwblok:
 
 ## Maatregel
 <!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
-Stel vast welke documenten, data of informatie van het algoritme of het AI-systeem gelden als archiefbescheiden. Formeer een multi-discipinaire groep (bestaande uit bv. een inkoper, ontwikkelaar, data scientist en archief deskundige) om deze maatregel toe te passen.
+Stel een RACI-matrix op waarbij de rollen en verantwoordelijkheden worden beschreven en toebedeeld bij het verwerken van persoonsgegevens.
 
 ## Toelichting 
 <!-- Geef hier een toelichting van deze maatregel -->
-Hierbij kan worden gedacht aan de broncode, trainings- en testdata, (technische) documentatie en de output. Overleg hierover met de verantwoordelijke binnen de organisatie voor het toepassen van de Archiefwet. 
+Het is van belang om de rollen en verantwoordelijkheden over en gedurende de gehele levenscyclus te beschrijven en eventueel onderdeel te maken van conceptovereenkomsten. 
+Tijdens de ontwikkelfase worden bijvoorbeeld andere (risicovolle) werkzaamheden uitgevoerd dan in de implementatie- of monitoring en beheerfase. 
+Doorgaans zijn ook andere actoren betrokken in verschillende fases en in de praktijk kunnen taken en verantwoordelijkheden opnieuw worden belegd. 
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
@@ -35,11 +50,12 @@ Hierbij kan worden gedacht aan de broncode, trainings- en testdata, (technische)
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
-| Bron                        |
-|-----------------------------|
-| [Toetsingskader Algemene Rekenkamer 4.01](https://www.rekenkamer.nl/onderwerpen/algoritmes-digitaal-toetsingskader) |        
+| Algoritmekader |
+
+       
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
 
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
+

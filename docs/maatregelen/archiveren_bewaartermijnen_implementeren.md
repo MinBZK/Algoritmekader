@@ -16,9 +16,12 @@ rollen:
 - data-engineer
 - data-scientist
 - security-officer
+hide:
+- navigation
 ---
 
 <!-- tags -->
+
 ## Maatregel
 
 Zorg ervoor dat de vereisten met betrekking tot bewaartermijnen correct zijn of worden vertaald naar het algoritme of AI-systeem en de onderliggende systemen.
@@ -37,7 +40,7 @@ Een aanbieder moet
 
 | Bron                        |
 |-----------------------------|
-|Algoritmekader|
+| Algoritmekader |
 
 ## Voorbeeld
 

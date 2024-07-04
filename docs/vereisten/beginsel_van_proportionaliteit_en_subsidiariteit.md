@@ -26,6 +26,8 @@ generatieve-ai:
 - niet-impactvol: Nee
 - impactvol: Ja
 - hoog-risico: Ja
+hide:
+- navigation
 ---
 
 <!-- tags -->

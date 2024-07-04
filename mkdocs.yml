@@ -19,6 +19,7 @@ theme:
         - navigation.tracking
         - navigation.instant
         - navigation.footer
+        - navigation.prune
         - search.highlight
         - search.suggest
         - content.action.edit
@@ -36,6 +37,15 @@ nav:
         - overhetalgoritmekader/index.md
         - overhetalgoritmekader/definities.md
         - overhetalgoritmekader/CONTRIBUTING.md
+    - Governance:
+        - governance/index.md
+        - governance/governance-structuur.md
+        - governance/politiek-bestuurlijk-kader.md
+        - governance/interactie-burgers-en-omgeving.md
+        - governance/volwassenheidsniveau.md
+        - governance/levenscyclus.md
+        - governance/rollen_en_verantwoordelijkheden.md
+        - governance/type_algoritme.md
     - Levenscyclus:
         - levenscyclus/index.md 
         - levenscyclus/probleemanalyse.md
@@ -55,13 +65,18 @@ nav:
         - ... | vereisten/*.md
     - Maatregelen:
         - ... | maatregelen/*.md
-    - Instrumenten: instrumenten/index.md
+    - Instrumenten:
+        - ... | instrumenten/*.md
 
 # Extra opties
 markdown_extensions: 
     - pymdownx.tabbed:
         alternate_style: true
-    - pymdownx.superfences
+    - pymdownx.superfences:
+        custom_fences:
+            - name: mermaid
+              class: mermaid
+              format: !!python/name:pymdownx.superfences.fence_code_format
     - pymdownx.details
     - admonition
     - attr_list
@@ -70,8 +85,10 @@ markdown_extensions:
     - footnotes
     - toc:
         permalink: true
+        toc_depth: 3
     - pymdownx.tasklist:
         custom_checkbox: true
+        clickable_checkbox: true
     - pymdownx.emoji:
         emoji_index: !!python/name:material.extensions.emoji.twemoji
         emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -97,7 +114,8 @@ plugins:
     - search
     - git-revision-date-localized:
         enable_creation_date: true
-    - awesome-pages
+    - awesome-pages:
+        collapse_single_pages: true
 
 hooks:
     - src/overrides/hooks/tags.py

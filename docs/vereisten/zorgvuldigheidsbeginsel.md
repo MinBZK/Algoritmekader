@@ -25,6 +25,8 @@ generatieve-ai:
 - niet-impactvol: Ja
 - impactvol: Ja
 - hoog-risico: Ja
+hide:
+- navigation
 ---
 
 <!-- tags -->
@@ -38,6 +40,8 @@ De ontwikkeling en het gebruik van algoritmes en AI-systemen komt zorgvuldig tot
 Dit beginsel vereist dat een besluit met de nodige zorgvuldigheid wordt voorbereid en genomen.
 Dit vraagt onder meer om een zorgvuldig onderzoek naar feiten, een zorgvuldige beslissingsprocedure en een deugdelijke besluitvorming.
 Dit betekent dat  algoritmes en AI zodanig moet worden ontwikkeld en gebruikt, dat dit passend is ter ondersteuning van de wettelijke taak en de bijbehorende beslissing of besluitvorming.
+
+Het doel en eventuele subdoelen van het algoritme of AI-systeem moet helder zijn gedefinieerd, ook in relatie tot het maatschappelijke resultaat (outcome), en wordt gedeeld door de eigenaar, ontwikkelaar en gebruiker van het algoritme. Een bewuste afweging of het algoritme het juiste middel is om het probleem op doelmatige en doeltreffende wijze op te lossen is gemaakt en vastgelegd. 
  
 
 ## Bronnen 

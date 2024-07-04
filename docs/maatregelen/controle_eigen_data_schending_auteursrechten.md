@@ -12,6 +12,8 @@ rollen:
 - proceseigenaar
 - informatiebeheerder
 - jurist
+hide:
+- navigation
 ---
 
 <!-- tags -->

@@ -9,6 +9,8 @@ levenscyclus:
 - ontwikkelen
 bouwblok:
 - technische-robuustheid-en-veiligheid
+hide:
+- navigation
 ---
 
 <!-- tags -->

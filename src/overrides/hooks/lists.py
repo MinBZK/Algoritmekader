@@ -129,7 +129,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
         )
     
      # function to create list of maatregelen
-    def replace_maatregelen(match: Match):
+    def replace_maatregelen_1(match: Match):
         type = match.groups()[0]
         types = re.split(r"\s+", type)
         type_value_bundle = [y.split("/") for y in types]
@@ -256,7 +256,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
 
         # Find and replace all strings in current page to list of maatregelen
         file.page.content = re.sub(
-            r"<!-- list_maatregelen_1 (.*?) -->", replace_maatregelen, file.page.content, flags=re.I | re.M
+            r"<!-- list_maatregelen_1 (.*?) -->", replace_maatregelen_1, file.page.content, flags=re.I | re.M
         )
 
         # Find and replace all strings in current page to list of instrumenten

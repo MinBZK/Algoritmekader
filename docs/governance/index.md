@@ -24,8 +24,8 @@ Let wel: Het Algoritmekader schrijft niet voor hoe een organisatie ingericht moe
 
 ## Vereisten
 
-<!-- list_vereisten bouwblok/governance -->
+<!-- list_vereisten_1 bouwblok/governance -->
 
 ## Maatregelen
 
-<!-- list_maatregelen bouwblok/governance -->
+<!-- list_maatregelen_1 bouwblok/governance -->

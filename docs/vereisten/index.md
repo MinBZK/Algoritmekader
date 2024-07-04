@@ -38,32 +38,32 @@ Onderstaand volgt een overzicht van vereisten per fase van de levenscyclus.
 
 ??? simple "Probleemanalyse"
 
-    <!-- list_vereisten levenscyclus/probleemanalyse -->
+    <!-- list_vereisten_1 levenscyclus/probleemanalyse -->
 
 ??? simple "Ontwerp"
 
-    <!-- list_vereisten levenscyclus/ontwerp -->
+    <!-- list_vereisten_1 levenscyclus/ontwerp -->
 
 ??? simple "Dataverkenning en datapreparatie"
 
-    <!-- list_vereisten levenscyclus/dataverkenning-en-datapreparatie -->
+    <!-- list_vereisten_1 levenscyclus/dataverkenning-en-datapreparatie -->
 
 ??? simple "Ontwikkelen"
 
-    <!-- list_vereisten levenscyclus/ontwikkelen -->
+    <!-- list_vereisten_1 levenscyclus/ontwikkelen -->
 
 ??? simple "Verificatie en validatie"
 
-    <!-- list_vereisten levenscyclus/verificatie-en-validatie -->
+    <!-- list_vereisten_1 levenscyclus/verificatie-en-validatie -->
     
 ??? simple "Implementatie"
 
-    <!-- list_vereisten levenscyclus/implementatie -->
+    <!-- list_vereisten_1 levenscyclus/implementatie -->
     
 ??? simple "Monitoring en beheer"
 
-    <!-- list_vereisten levenscyclus/monitoring-en-beheer -->
+    <!-- list_vereisten_1 levenscyclus/monitoring-en-beheer -->
     
 ??? simple "Uitfaseren"
 
-    <!-- list_vereisten levenscyclus/uitfaseren -->
+    <!-- list_vereisten_1 levenscyclus/uitfaseren -->

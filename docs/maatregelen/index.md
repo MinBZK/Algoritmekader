@@ -39,33 +39,33 @@ Onderstaand volgt een overzicht van maatregelen per fase van de levenscyclus.
 
 ??? simple "Probleemanalyse"
 
-    <!-- list_maatregelen levenscyclus/probleemanalyse -->
+    <!-- list_maatregelen_1 levenscyclus/probleemanalyse -->
 
 ??? simple "Ontwerp"
 
-    <!-- list_maatregelen levenscyclus/ontwerp -->
+    <!-- list_maatregelen_1 levenscyclus/ontwerp -->
 
 ??? simple "Dataverkenning en datapreparatie"
 
-    <!-- list_maatregelen levenscyclus/dataverkenning-en-datapreparatie -->
+    <!-- list_maatregelen_1 levenscyclus/dataverkenning-en-datapreparatie -->
 
 ??? simple "Ontwikkelen"
 
-    <!-- list_maatregelen levenscyclus/ontwikkelen -->
+    <!-- list_maatregelen_1 levenscyclus/ontwikkelen -->
 
 ??? simple "Verificatie en validatie"
 
-    <!-- list_maatregelen levenscyclus/verificatie-en-validatie -->
+    <!-- list_maatregelen_1 levenscyclus/verificatie-en-validatie -->
     
 ??? simple "Implementatie"
 
-    <!-- list_maatregelen levenscyclus/implementatie -->
+    <!-- list_maatregelen_1 levenscyclus/implementatie -->
     
 ??? simple "Monitoring en beheer"
 
-    <!-- list_maatregelen levenscyclus/monitoring-en-beheer -->
+    <!-- list_maatregelen_1 levenscyclus/monitoring-en-beheer -->
     
 ??? simple "Uitfaseren"
 
-    <!-- list_maatregelen levenscyclus/uitfaseren -->
+    <!-- list_maatregelen_1 levenscyclus/uitfaseren -->
 

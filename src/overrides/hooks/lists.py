@@ -48,7 +48,44 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 "</tr>",
                 "</thead>",
                 "<tbody>",
-                *([_create_table_row(item) for item in list]),
+                *([_create_table_row_2(item) for item in list]),
+                "</tbody>",
+                "</table>",
+            ]
+        )
+    
+    # function to create list of vereisten
+    def replace_vereisten_1(match: Match):
+        type = match.groups()[0]
+        types = re.split(r"\s+", type)
+        type_value_bundle = [y.split("/") for y in types]
+
+        list: List[File] = []
+        for file in files:
+            if not file.src_path.startswith("vereisten/"):
+                continue
+
+            if not file.src_path.endswith(".md"):
+                continue
+
+            if all(
+                value in file.page.meta.get(type, [])
+                for type, value in type_value_bundle
+            ):
+                
+                list.append(file)
+
+        return "".join(
+            [
+                "<table>",
+                "<thead>",
+                "<tr>",
+                '<th role="columnheader"><strong>Vereiste</strong></th>',
+                '<th role="columnheader"><strong>Uitleg</strong></th>',
+                "</tr>",
+                "</thead>",
+                "<tbody>",
+                *([_create_table_row_1(item) for item in list]),
                 "</tbody>",
                 "</table>",
             ]
@@ -85,7 +122,44 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 "</tr>",
                 "</thead>",
                 "<tbody>",
-                *([_create_table_row(item) for item in list]),
+                *([_create_table_row_2(item) for item in list]),
+                "</tbody>",
+                "</table>",
+            ]
+        )
+    
+     # function to create list of maatregelen
+    def replace_maatregelen(match: Match):
+        type = match.groups()[0]
+        types = re.split(r"\s+", type)
+        type_value_bundle = [y.split("/") for y in types]
+
+        list: List[File] = []
+        for file in files:
+            if not file.src_path.startswith("maatregelen/"):
+                continue
+
+            if not file.src_path.endswith(".md"):
+                continue
+
+            if all(
+                value in file.page.meta.get(type, [])
+                for type, value in type_value_bundle
+            ):
+                
+                list.append(file)
+
+        return "".join(
+            [
+                "<table>",
+                "<thead>",
+                "<tr>",
+                '<th role="columnheader"><strong>Maatregel</strong></th>',
+                '<th role="columnheader"><strong>Uitleg</strong></th>',
+                "</tr>",
+                "</thead>",
+                "<tbody>",
+                *([_create_table_row_1(item) for item in list]),
                 "</tbody>",
                 "</table>",
             ]
@@ -122,7 +196,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 "</tr>",
                 "</thead>",
                 "<tbody>",
-                *([_create_table_row(item) for item in list]),
+                *([_create_table_row_2(item) for item in list]),
                 "</tbody>",
                 "</table>",
             ]
@@ -154,7 +228,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 "</tr>",
                 "</thead>",
                 "<tbody>",
-                *([_create_table_row(item) for item in list]),
+                *([_create_table_row_2(item) for item in list]),
                 "</tbody>",
                 "</table>",
             ]
@@ -169,9 +243,20 @@ def on_env(env, config: MkDocsConfig, files: Files):
             r"<!-- list_vereisten (.*?) -->", replace_vereisten, file.page.content, flags=re.I | re.M
         )
 
+         # Find and replace all strings in current page to list of vereisten
+        file.page.content = re.sub(
+            r"<!-- list_vereisten_1 (.*?) -->", replace_vereisten_1, file.page.content, flags=re.I | re.M
+        )
+
+
         # Find and replace all strings in current page to list of maatregelen
         file.page.content = re.sub(
             r"<!-- list_maatregelen (.*?) -->", replace_maatregelen, file.page.content, flags=re.I | re.M
+        )
+
+        # Find and replace all strings in current page to list of maatregelen
+        file.page.content = re.sub(
+            r"<!-- list_maatregelen_1 (.*?) -->", replace_maatregelen, file.page.content, flags=re.I | re.M
         )
 
         # Find and replace all strings in current page to list of instrumenten
@@ -184,12 +269,23 @@ def on_env(env, config: MkDocsConfig, files: Files):
             r"<!-- list_vereisten_on_maatregelen_page -->", replace_vereisten_on_maatregelen_page, file.page.content, flags=re.I | re.M
         )
 
-def _create_table_row(file: File):
+def _create_table_row_1(file: File):
 
     return "".join(
         [
             "<tr>",
-            f'<td><a href="{"../../" + file.dest_path}">{file.page.title}</a></td>',
+            f'<td><a href="{f"../" + file.dest_path}">{file.page.title}</a></td>',
+            f"<td>{file.page.meta.get('toelichting', '')}</td>"
+            "</tr>",
+        ]
+    )
+
+def _create_table_row_2(file: File):
+
+    return "".join(
+        [
+            "<tr>",
+            f'<td><a href="{f"../../" + file.dest_path}">{file.page.title}</a></td>',
             f"<td>{file.page.meta.get('toelichting', '')}</td>"
             "</tr>",
         ]

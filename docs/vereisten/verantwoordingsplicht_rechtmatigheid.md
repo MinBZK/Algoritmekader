@@ -40,7 +40,7 @@ Deze maatregelen zijn essentieel om de naleving van regelgeving met betrekking t
 | Bron                        |
 |-------------|
 |Artikel 5 AVG|
-| [Verantwoordingsplicht](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/avg-algemeen/verantwoordingsplicht)]
+| [Verantwoordingsplicht](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/avg-algemeen/verantwoordingsplicht)] |
 
 ## Wanneer van toepassing? 
 Deze vereiste is van toepassing op alle algoritmen die persoonsgegevens verwerken.

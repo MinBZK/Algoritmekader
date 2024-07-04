@@ -22,10 +22,10 @@ De verantwoordelijken moeten bij de verwerking van persoonsgegevens door algorit
 Dit betekent concreet dat de volgende punten aangetoond kunnen worden:
 
  - Rechtmatigheid, behoorlijkheid en transparantie
- - Doelbinding.
- - Minimale gegevensverwerking.
- - Juistheid.
- - Opslagbeperking.
+ - Doelbinding
+ - Minimale gegevensverwerking
+ - Juistheid
+ - Opslagbeperking
  - Integriteit en vertrouwelijkheid
 Een aandachtpunt daarbij is dat de rechtmatigheid van de verwerking ten opzichte van andere gerelateerde wetgeving zoals de AI Act en de Algemene wet gelijke behandeling ook moeten kunnen worden aangetoond voor zover de rechtmatigheid van de verwerking onder de AVG daarvan afhankelijk is.
 

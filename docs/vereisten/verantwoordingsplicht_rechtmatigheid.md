@@ -9,7 +9,7 @@ levenscyclus:
 - ontwikkelen
 - verificatie-en-validatie
 - monitoring-en-beheer
-- archiveren
+- uitfaseren
 bouwblok: 
 - governance
 - privacy-en-gegevensbescherming

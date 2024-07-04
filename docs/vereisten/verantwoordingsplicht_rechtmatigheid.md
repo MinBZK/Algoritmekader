@@ -54,8 +54,6 @@ Het aantoonbaarheidsvereiste heeft niet direct gevolgen voor specifieke risico's
 - Bij leveranciers die niet of gedeeltelijke transparant zijn over hun product of dienstverlening ontstaat een vergelijkbaar risico. Waar de Woo uitzonderingen heeft voor bedrijfsgeheimen heeft de AVG daar maar beperkte ruimte voor. Het is dus mogelijk dat leveranciers terughoudend zullen zijn met het delen van informatie die onder de AVG ook aan betrokkenen gecommuniceerd moeten worden.
 - Samenwerkingsverbanden en externe leveranciers kunnen niet als argumenten worden gebruikt om de aantoonbaarheidsvereisten op af te schuiven. Onafhankelijk van de onderlinge afspraken daarover hebben alle verwerkingsverantwoordelijken de verplichting om aan deze vereisten te kunnen voldoen. 
 
-
-
 ## Maatregelen 
 
 - Uitgangspunt is dat de rechtmatigheid van de verwerking van persoonsgegevensmoet kunnen worden aangetoond. Dit betekent concreet dat de volgende punten aangetoond kunnen worden:

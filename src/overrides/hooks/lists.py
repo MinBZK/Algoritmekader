@@ -190,7 +190,7 @@ def _create_table_row(file: File):
         [
             "<tr>",
             f'<td><a href="{file.dest_path}">{file.page.title}</a></td>',
-            f'<td><a href="{file.abs_dest_path}">{file.page.title}</a></td>',
+            f'<td><a href="{file.url}">{file.page.title}</a></td>',
             f"<td>{file.page.meta.get('toelichting', '')}</td>"
             "</tr>",
         ]

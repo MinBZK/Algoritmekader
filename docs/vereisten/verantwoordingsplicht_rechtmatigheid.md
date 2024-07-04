@@ -21,7 +21,7 @@ bouwblok:
 De verantwoordelijken moeten bij de verwerking van persoonsgegevens door algoritmes en AI-systemen kunnen aantonen dat de verwerkingen rechtmatig plaatsvinden.
 Dit betekent concreet dat de volgende punten aangetoond kunnen worden:
 
- - Rechtmatigheid, behoorlijkheid en transparantie.
+ - Rechtmatigheid, behoorlijkheid en transparantie
  - Doelbinding.
  - Minimale gegevensverwerking.
  - Juistheid.

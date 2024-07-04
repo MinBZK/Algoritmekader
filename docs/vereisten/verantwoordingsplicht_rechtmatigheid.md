@@ -56,10 +56,4 @@ Het aantoonbaarheidsvereiste heeft niet direct gevolgen voor specifieke risico's
 
 ## Maatregelen 
 
-- Uitgangspunt is dat de rechtmatigheid van de verwerking van persoonsgegevensmoet kunnen worden aangetoond. Dit betekent concreet dat de volgende punten aangetoond kunnen worden:
- - Rechtmatigheid, behoorlijkheid en transparantie.
- - Doelbinding.
- - Minimale gegevensverwerking.
- - Juistheid.
- - Opslagbeperking.
- - Integriteit en vertrouwelijkheid
+<!-- list_maatregelen vereiste/verantwoordingsplicht_rechtmatigheid -->

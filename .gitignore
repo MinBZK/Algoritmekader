@@ -6,3 +6,4 @@ site
 **/__pycache__/**
 
 src/overrides/hooks/create_vereisten.py
+.Rproj.user

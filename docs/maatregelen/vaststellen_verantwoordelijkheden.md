@@ -35,10 +35,10 @@ Nadat de verantwoordelijkheden zijn beschreven en toegewezen, zullen deze moeten
 ## Bijbehorende vereiste(n)
 
 <!-- list_vereisten_on_maatregelen_page -->
-- dpia_verplicht_bij_hoog_risico
-- transparantie_bij_verwerken_persoonsgegevens
-- zorgvuldigheidsbeginsel
-- verantwoordingsplicht_rechtmatigheid
+dpia_verplicht_bij_hoog_risico
+transparantie_bij_verwerken_persoonsgegevens
+zorgvuldigheidsbeginsel
+verantwoordingsplicht_rechtmatigheid
 
 ## Risico
 Door het ontbreken of niet helder omschrijven en vaststellen verantwoordelijkheden, dat persoonsgegevens onrechtmatig worden verwerkt.

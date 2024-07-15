@@ -3,6 +3,8 @@ title: Persoonsgegevens die worden verwerkt voor het ontwikkelen en gebruiken va
 toelichting: Er is een overzicht opgesteld welke persoonsgegevens worden verwerkt, om welke categorie persoonsgegevens het gaat en er is een onderbouwing gegeven waarom deze passend zijn voor verwerking. 
 vereiste:
 - persoonsgegevens_worden_rechtmatig_verwerkt
+- beginsel_van_proportionaliteit_en_subsidiariteit.md
+  
 levenscyclus:
 - ontwerp
 - dataverkenning en datapreparatie

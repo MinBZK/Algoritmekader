@@ -5,7 +5,8 @@ vereiste:
 - algoritmeregister
 - transparantie
 - transparantie_bij_verwerken_persoonsgegevens
-
+- zorgvuldigheidsbeginsel
+  
 levenscyclus:
 - ontwerp
 - ontwikkel
@@ -33,7 +34,7 @@ hide:
  Publiceer de ontwikkeling en gebruik van een algoritme of AI-systeem in het Algoritmeregister.  
 
 ## Toelichting
-- De regering wil dat de overheid algoritmes verantwoord gebruikt. Mensen moeten erop kunnen vertrouwen dat algoritmes voldoen aan de waarden en normen van de samenleving.
+- De regering wil dat de overheid algoritmes en AI-systemen verantwoord gebruikt. Mensen moeten erop kunnen vertrouwen dat algoritmes voldoen aan de waarden en normen van de samenleving.
 - Er moet uitleg zijn over hoe algoritmes en AI-systemen werken.
 - Wanneer de overheid open is over algoritmes en hun toepassing, kunnen burgers, organisaties en media haar kritisch volgen en controleren of ze de wet en de regels volgt.
 - Impactvolle algoritmes en hoog risico AI-systemen moeten daarom worden gepubliceerd in het Algoritmeregister.

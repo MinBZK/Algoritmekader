@@ -1,6 +1,6 @@
 ---
 title: Persoonsgegevens die worden verwerkt voor het ontwikkelen en gebruiken van algoritmes en AI-systemen zijn beschreven en onderbouwd. 
-toelichting: Er is een overzicht opgesteld welke persoonsgegevens mogen worden verwerkt en om welke categorie persoonsgegevens het gaat. 
+toelichting: Er is een overzicht opgesteld welke persoonsgegevens worden verwerkt, om welke categorie persoonsgegevens het gaat en er is een onderbouwing gegeven waarom deze passend zijn voor verwerking. 
 vereiste:
 - persoonsgegevens_worden_rechtmatig_verwerkt
 levenscyclus:
@@ -24,14 +24,14 @@ hide:
 
 ## Maatregel
 
-Het doel en de eventuele subdoelen van het algoritme moeten zo specifiek mogelijk zijn geformuleerd, en waar mogelijk gekwantificeerd. 
-Maak de consequenties van het algoritme specifiek en zorg dat het doel van het algoritme formeel is vastgesteld en vastgelegd. 
+Er is een overzicht opgesteld welke persoonsgegevens mogen worden verwerkt en om welke categorie persoonsgegevens het gaat. Het principe van dataminimalisatie is toegepast, zodat het minimum aantal persoonsgegevens wordt verwerkt om het beoogde doel te bereiken. 
 
 ## Toelichting
 
 - Er is een overzicht opgesteld welke persoonsgegevens mogen worden verwerkt mogen worden verwerkt.
 - Bij de persoonsgegevens is aangegeven om wat voor categorie persoonsgegevens het gaat.
 - Per kenmerk is toegelicht waarom deze noodzakelijk is om te verwerken voor het ontwikkelen en gebruiken van het algoritme of AI-systeem.
+- Het principe van dataminimalisatie is toegepast, wat betekent dat een keuze is gemaakt of een persoonsgegevens al dan niet strikt noodzakelijk is om het doel te bereiken of dat verwerking ervan achterwege kan blijven.
 - Voor het beschermen van deze persoonsgegevens wordt per kenmerk aangegeven op welke manier deze kan worden beschermd (anonimiseren, pseudonomiseren, aggregeren). 
 - Een DPIA kan worden gebruikt om bovenstaande activiteiten uit te voeren.
   

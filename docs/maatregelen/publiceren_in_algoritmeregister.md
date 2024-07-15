@@ -34,7 +34,7 @@ hide:
 
 ## Toelichting
 - De regering wil dat de overheid algoritmes verantwoord gebruikt. Mensen moeten erop kunnen vertrouwen dat algoritmes voldoen aan de waarden en normen van de samenleving.
-- Er moet uitleg zijn over hoe algoritmes werken.
+- Er moet uitleg zijn over hoe algoritmes en AI-systemen werken.
 - Wanneer de overheid open is over algoritmes en hun toepassing, kunnen burgers, organisaties en media haar kritisch volgen en controleren of ze de wet en de regels volgt.
 - Impactvolle algoritmes en hoog risico AI-systemen moeten daarom worden gepubliceerd in het Algoritmeregister.
 - Er is een Handreiking Algoritmeregister opgesteld met informatie over het publiceren van algoritmes en AI-systemen in het Algoritmeregister.
@@ -53,10 +53,11 @@ Betrokkenen zijn niet op de hoogte dat hun persoonsgegevens worden verwerkt met 
 
 | [Handreiking Algoritmeregister](https://www.digitaleoverheid.nl/wp-content/uploads/sites/8/2023/12/Handreiking-Algoritmeregister-versie-1.0.pdf)|
 | [Algoritmeregister Publicatiestandaard](https://regels.overheid.nl/publicaties/algoritmeregister-publicatiestandaard#:~:text=De%20publicatiestandaard%20is%20gericht%20op,op%20andere%20manier%20te%20organiseren.)|
-| [Gemeente Groningen, Algoritmeregister: Eerste Hulp bij Geldzaken](https://algoritmes.overheid.nl/nl/algoritme/eerste-hulp-bij-geldzaken-gemeente-groningen/55597555)|
-| [Gemeente Amsterdam, Algoritemregister: Blurring as a Service](https://algoritmeregister.amsterdam.nl/ai-system/blurring-as-a-service/1132/)|
-| [Juryrapport Best Beschreven Algoritme](https://algoritmes.pleio.nl/attachment/entity/ea60f239-dcaf-4eb0-9661-c2e7ffb633ea)
+| [Toetsingskader Algoritmes Algemene Rekenkamer, 3.12](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) |
+| [Onderzoekskader Algoritmes Auditdienst Rijk, PRI.8]
 
 ## Voorbeeld
 
-Heb jij een goed voorbeeld? Laat het ons weten!
+| [Gemeente Groningen, Algoritmeregister: Eerste Hulp bij Geldzaken](https://algoritmes.overheid.nl/nl/algoritme/eerste-hulp-bij-geldzaken-gemeente-groningen/55597555)|
+| [Gemeente Amsterdam, Algoritemregister: Blurring as a Service](https://algoritmeregister.amsterdam.nl/ai-system/blurring-as-a-service/1132/)|
+| [Juryrapport Best Beschreven Algoritme](https://algoritmes.pleio.nl/attachment/entity/ea60f239-dcaf-4eb0-9661-c2e7ffb633ea) |

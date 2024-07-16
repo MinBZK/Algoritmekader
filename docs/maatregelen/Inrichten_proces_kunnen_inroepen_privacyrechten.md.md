@@ -33,8 +33,8 @@ Richt een proces in waarmee betrokkenen hun privacyrechten kunnen inroepen als a
 
 - Betrokkenen moeten hun persoonsgegevens kunnen inzien, rectificeren, laten verwijderen of het gebruik ervan beperken bij het toepassen van algorimtes en AI-systemen.
 - Betrokkenen moeten hun verzoek kunnen indienen bij de betreffende organisatie. Denk hierbij aan het inrichten van een privacyloket.
-- Er zullen vervolgens afspraken moeten worden gemaakt door servicemanagement in te richten hoe deze verzoeken effectief kunnen worden behandeld door bijvoorbeeld door het ontwikkel- of beheerteam (aanbieder).
-- Bij het inrichten van het servicemanagement moet zijn nagedacht over hoe een verzoek tot het inzien, rectificeren, verwijderen of beperken van de verwerking van persoonsgegevens op een betekenisvolle manier kan of moet worden behandeld.
+- Er zullen  afspraken moeten worden gemaakt door servicemanagement in te richten hoe deze verzoeken effectief kunnen worden behandeld door bijvoorbeeld door het ontwikkel- of beheerteam (aanbieder).
+- Bij het inrichten van  servicemanagement moet zijn nagedacht over hoe een verzoek tot het inzien, rectificeren, verwijderen of beperken van de verwerking van persoonsgegevens op een betekenisvolle manier kan of moet worden behandeld.
   
 ## Bijbehorende vereiste(n)
 

@@ -39,10 +39,10 @@ Beschrijf de rollen en verantwoordelijkheden voor het ontwikkelen en gebruiken v
 
 ## Toelichting 
 <!-- Geef hier een toelichting van deze maatregel -->
-- Duidelijkheid en borging van rollen en verantwoordelijkheden zorgen voor een effectief en verantwoord verloop van het proces rondom de inzet van een algoritme.
+- Duidelijkheid en borging van rollen en verantwoordelijkheden zorgen voor een effectief en verantwoord verloop van het proces rondom de ontwikkeling, inkoop en gebruik  van een algoritme.
 - Zeker wanneer ongewenste effecten optreden en maatregelen nodig zijn, is duidelijkheid over rollen, verantwoordelijkheden en bijbehorende besluitvormingsstructuren van belang.
-- Een RACI-matrix/VERI-model is een passend middel om de verantwoordelijkheden (Responsible/Verantwoordelijk, Accountable/Eindverantwoordelijk, Consulted/Geraadpleegd, Informed/Geïnfomeerd) te bepalen.
-- Aanvullend hierop kan het wenselijk zijn om specifieke activiteiten te benoemen, bijvoorbeeld wie en hoe data moet worden geleverd of verwerkt om een onderzoek naar bewuste vooringenomenheid uit te voeren. 
+- Een RACI-matrix/VERI-matrix is een passend middel om de verantwoordelijkheden (Responsible/Verantwoordelijk, Accountable/Eindverantwoordelijk, Consulted/Geraadpleegd, Informed/Geïnfomeerd) te bepalen.
+- Aanvullend hierop kan het wenselijk zijn om specifieke, gevoelige activiteiten nader uit te werken in concrete taken en verantwoordelijkheden, bijvoorbeeld welke stappen moeten worden gezet om data veilig te leveren ten behoeve van een onderzoek naar onbwuste vooringenomenheid.  
 
 ## Risico
 De sturing en verantwoording is ontoereikend of niet geborgd, waardoor er onvoldoende betrokkenheid of capaciteit van verantwoordelijken, belanghebbenden of deskundigheid is in de organisatie wat de kans vergroot op fouten en ongewenste effecten.
@@ -57,8 +57,7 @@ De sturing en verantwoording is ontoereikend of niet geborgd, waardoor er onvold
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
 | [Toetsingskader Algoritmes Algemene Rekenkamer, 1.06](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) |
-| [Onderzoekskader Algoritmes Auditdienst Rijk, SV.9 ](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)                    |
-| Algoritmekader | 
+| [Onderzoekskader Algoritmes Auditdienst Rijk, SV.9 ](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)| | Algoritmekader | 
        
 
 ## Voorbeeld

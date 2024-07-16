@@ -4,6 +4,7 @@ toelichting: Met een PSA wordt een concreet en doelgericht ICT-architectuurkader
 vereiste:
 - ontwerp_voor_nauwkeurigheid_robuustheid_en_cyberbeveiliging
 - zorgvuldigheidsbeginsel
+- privacy_bij_ontwerp_bij_verwerking_van_persoonsgegevens
   
 levenscyclus:
 - ontwerp

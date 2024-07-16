@@ -11,7 +11,7 @@ vereiste:
 levenscyclus: 
 - probleemanalyse
 - ontwerp
-- ontwikkelen
+- ontwikkel
 # vul hier de bouwblokken in die horen bij deze maatregel
 bouwblok: 
 - governance

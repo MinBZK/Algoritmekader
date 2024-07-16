@@ -16,8 +16,8 @@ levenscyclus:
 - monitoring-en-beheer
 # vul hier de bouwblokken in die horen bij deze maatregel
 bouwblok: 
-- fundamentele-rechten
 - governance
+- fundamentele rechten
 hide:
 - navigation
 ---

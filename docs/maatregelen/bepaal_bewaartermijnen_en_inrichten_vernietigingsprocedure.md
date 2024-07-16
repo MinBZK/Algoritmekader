@@ -46,7 +46,7 @@ verwerkingsdoeleinden noodzakelijk is.
 
 | Bron                        |
 |-----------------------------|
-|| [Onderzoekskader Algoritmes Auditdienst Rijk, PRI.11](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)                    |
+| [Onderzoekskader Algoritmes Auditdienst Rijk, PRI.11](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)                    |
 | [Toetsingskader Algoritmes Algemene Rekenkamer, 3.17](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)|
 | Algoritmekader |
 

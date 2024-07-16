@@ -52,5 +52,5 @@ Betrokkenen hebben geen controle over hun persoonsgegevens doordat ze geen beroe
 
 ## Voorbeeld
 
-Heb jij een goed voorbeeld? Laat het ons weten!
+| [Privacyverzoek Gemeente Amsterdam](https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/Privacy.aspx/fPrivacyVerzoek) |
 

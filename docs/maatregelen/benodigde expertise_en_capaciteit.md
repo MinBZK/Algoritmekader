@@ -36,7 +36,7 @@ hide:
 
 ## Maatregel
 <!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
-- Bepaal welke expertise en capaciteit noodzakelijk is voor het ontwikkelen, inkopen en gebruiken van algoritmes en AI-systemen.
+Bepaal welke expertise en capaciteit noodzakelijk is voor het ontwikkelen, inkopen en gebruiken van algoritmes en AI-systemen en stel vast of er voldoende expertise en capaciteit beschikbaar is.
   
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->

@@ -44,6 +44,9 @@ Beschrijf de rollen en verantwoordelijkheden voor het ontwikkelen en gebruiken v
 - Een RACI-matrix/VERI-model is een passend middel om de verantwoordelijkheden (Responsible/Verantwoordelijk, Accountable/Eindverantwoordelijk, Consulted/Geraadpleegd, Informed/Geïnfomeerd) te bepalen.
 - Aanvullend hierop kan het wenselijk zijn om specifieke activiteiten te benoemen, bijvoorbeeld wie en hoe data moet worden geleverd of verwerkt om een onderzoek naar bewuste vooringenomenheid uit te voeren. 
 
+## Risico
+De sturing en verantwoording is ontoereikend of niet geborgd, waardoor er onvoldoende betrokkenheid of capaciteit van verantwoordelijken, belanghebbenden of deskundigheid is in de organisatie wat de kans vergroot op fouten en ongewenste effecten.
+
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 
@@ -60,6 +63,5 @@ Beschrijf de rollen en verantwoordelijkheden voor het ontwikkelen en gebruiken v
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
-
 | [Rapport Kleur Bekennen, Algemene Rekenkamer, p. 114, figuuer 5-4](https://rekenkamer.rotterdam.nl/wp-content/uploads/2024/05/RO2205-kleur-bekennen-vervolgonderzoek-algoritmes-rekenkamer-rotterdam.pdf)|
 

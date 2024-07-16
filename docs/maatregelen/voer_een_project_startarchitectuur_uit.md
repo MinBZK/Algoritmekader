@@ -1,6 +1,7 @@
 ---
 title: Voer een Project Startarchitectuur (PSA) uit als algoritmes of AI-systemen worden ontwikkeld of ingekocht.
 toelichting: Met een PSA wordt een concreet en doelgericht ICT-architectuurkader opgesteld, waarbinnen het project moet worden uitgevoerd.
+vereiste:
 - ontwerp_voor_nauwkeurigheid_robuustheid_en_cyberbeveiliging
 - zorgvuldigheidsbeginsel
   

@@ -51,7 +51,7 @@ Het algoritme of AI-systeem kan niet of na verloop van tijd niet meer functioner
 | Bron                                                                                                                                                                     |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-| [Project Startarchitectuur, NORA](https://www.noraonline.nl/wiki/PSA_(Project_Startarchitectuur) |
+| [Project Startarchitectuur, NORA](https://www.noraonline.nl/wiki/PSA_(Project_Startarchitectuur)|
 | Algoritmekader | 
 
 ## Voorbeeld

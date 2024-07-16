@@ -35,11 +35,13 @@ hide:
 
 ## Toelichting
 - De regering wil dat de overheid algoritmes en AI-systemen verantwoord gebruikt. Mensen moeten erop kunnen vertrouwen dat algoritmes voldoen aan de waarden en normen van de samenleving.
-- Er moet uitleg zijn over hoe algoritmes en AI-systemen werken.
 - Wanneer de overheid open is over algoritmes en hun toepassing, kunnen burgers, organisaties en media haar kritisch volgen en controleren of ze de wet en de regels volgt.
 - Impactvolle algoritmes en hoog risico AI-systemen moeten daarom worden gepubliceerd in het Algoritmeregister.
+- In het Algoritmeregister moet uitleg zijn over hoe algoritmes en AI-systemen, of het proces wat hiermee wordt ondersteund werkt.
 - Er is een Handreiking Algoritmeregister opgesteld met informatie over het publiceren van algoritmes en AI-systemen in het Algoritmeregister.
 - De Algoritmeregister Publicatiestandaard kan overheidsorganisaties ondersteunen bij het helpen invullen van het Algoritmeregister.
+- Er zijn gevallen waarin het publiceren van algoritmes of AI-systemen in het Algoritmeregister achterwege moet blijven. Deze gevallen zijn beschreven in de Handreiking van het Algoritmeregister.
+- Impactvolle algoritme en hoog risico AI-systemen moet al tijdens de ontwikkeling ervan worden gepubliceerd in het Algoritmeregister. 
     
   ## Bijbehorende vereiste(n)
 
@@ -56,6 +58,7 @@ Betrokkenen zijn niet op de hoogte dat hun persoonsgegevens worden verwerkt met 
 | [Algoritmeregister Publicatiestandaard](https://regels.overheid.nl/publicaties/algoritmeregister-publicatiestandaard#:~:text=De%20publicatiestandaard%20is%20gericht%20op,op%20andere%20manier%20te%20organiseren.)|
 | [Toetsingskader Algoritmes Algemene Rekenkamer, 3.12](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) |
 | [Onderzoekskader Algoritmes Auditdienst Rijk, PRI.8](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) |
+| [Toetsingskader Algoritmes Algemene Rekenkamer, 3.14, 3.16](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)|
 
 ## Voorbeeld
 

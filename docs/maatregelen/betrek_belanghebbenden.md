@@ -17,6 +17,7 @@ levenscyclus:
 # vul hier de bouwblokken in die horen bij deze maatregel
 bouwblok: 
 - fundamentele-rechten
+- governance
 hide:
 - navigation
 ---
@@ -81,6 +82,7 @@ Ontwikkelaars kunnen bijvoorbeeld missen dat in de context van het algoritme een
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
+
 Richt een burgerpanel in.
 
 Methodologie van Waag, Civic AI lab, Stakeholder escalation ladder.

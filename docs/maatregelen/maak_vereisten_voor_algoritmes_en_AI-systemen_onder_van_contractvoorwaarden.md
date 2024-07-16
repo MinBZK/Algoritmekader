@@ -1,6 +1,6 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Maak de vereiste onderdeel van contractvoorwaarden
+title: Maak vereisten voor algoritmes en AI-systemen onderdeel van contractvoorwaarden
 # geef hier een korte toelichting van deze maatregel
 toelichting: Door de vereiste onderdeel te maken van contractvoorwaarden, is het voor aanbieders vooraf duidelijk waar zij aan moeten voldoen. 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
@@ -90,10 +90,11 @@ Maak de vereiste onderdeel van contractvoorwaarden
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Door de vereiste onderdeel te maken van contractvoorwaarden, is voor aanbieder vooraf duidelijk aan welke voorwaarden zij moeten voldoen als zijn algoritmes en AI-systemen willen aanbieden. 
-Het is van belang om een afweging te maken in welke gevallen contractvoorwaarden worden ingezet en welke vereisten daarbij horen. 
-Welke vereisten onderdeel moeten worden gemaakt van contractvoorwaarden is afhankelijk van de beoogde toepassing. 
-Er zijn meer vereiste van toepassing bij impactvolle en hoog risico AI-systemen, waarmee burgers potentieel in aanmerkelijke mate kunnen worden getroffen dan bij geen impactvolle of laag risico AI-systemen. 
+- Er moeten heldere afspraken zijn gemaakt met de aanbieder van het algoritme of AI-systeem. Dit geldt in het bijzonder als het algorimte of AI-systeem is ontwikkeld door een externe aanbieder.
+- Door vereisten die gelden voor algoritmes en AI-systemen onderdeel te maken van contractvoorwaarden, is voor aanbieder vooraf duidelijk aan welke voorwaarden zij moeten voldoen als zijn algoritmes en AI-systemen willen aanbieden aan overheidsorganisaties.
+- Het is van belang om een afweging te maken in welke gevallen de contractvoorwaarden worden ingezet en welke vereisten daar onderdeel van moeten worden gemaakt.
+- Welke vereisten onderdeel moeten worden gemaakt van contractvoorwaarden is afhankelijk van de beoogde toepassing, de technologie en de bijbehorende risicoclassificatie.
+- Er zijn meer vereiste van toepassing bij impactvolle en hoog risico AI-systemen, waarmee burgers potentieel in aanmerkelijke mate kunnen worden getroffen dan bij geen impactvolle of laag risico AI-systemen. 
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
@@ -107,12 +108,14 @@ Er zijn meer vereiste van toepassing bij impactvolle en hoog risico AI-systemen,
 | Bron                        |
 |-----------------------------|
 | Algoritmekader |  
-| [Contractvoorwaarden gemeente Amsterdam](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/contractvoorwaarden-algoritmen/) |
-| [Europese Inkoopvoorwaarden Hoog Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_template_High_Risk%20NL.pdf) |
-| [Europese Inkoopvoorwaarden Laag Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_Template_NON_HIGH_RISK_NL.pdf)|
+| [Onderzoekskader Algoritmes Auditdienst Rijk, SV.11](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)| | Algoritmekader | 
 
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
+| [Contractvoorwaarden gemeente Amsterdam](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/contractvoorwaarden-algoritmen/) |
+| [Europese Inkoopvoorwaarden Hoog Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_template_High_Risk%20NL.pdf) |
+| [Europese Inkoopvoorwaarden Laag Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_Template_NON_HIGH_RISK_NL.pdf)|
+
 
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

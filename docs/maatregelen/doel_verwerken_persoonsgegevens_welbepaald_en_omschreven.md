@@ -28,8 +28,9 @@ Het doel voor het verwerken van persoonsgegevens met een algoritme of AI-systeem
 
 ## Toelichting
 
-- Persoonsgegevens mogen alleen worden verwerkt voor een ‘welbepaald, uitdrukkelijk omschreven en gerechtvaardigd’ doel.
-- De verwerking van persoonsgevens voor het ontwikkelen en gebruiken van het algoritme of AI-systeem is verenigbaar met het oorspronkelijke verwerkingsdoel (doelbinding).
+- Persoonsgegevens mogen alleen worden verwerkt voor een ‘welbepaald, uitdrukkelijk omschreven en gerechtvaardigd’ doel;
+- De  wettelijke grondslag / wettelijke taak voor de verwerking van de persoonsgegevens moet zijn beschreven, bijvoorbeeld in een DPIA;
+- De verwerking van persoonsgevens voor het ontwikkelen en gebruiken van het algoritme of AI-systeem moet verenigbaar met het oorspronkelijke verwerkingsdoel (doelbinding);
 - Eventuele verdere (subsidiaire) verwerkingen, zoals het verwerken van persoonsgegevens voor een onderzoek naar onbewuste vooringenomenheid, moeten uitdrukkelijk worden omschreven.
   
 ## Bijbehorende vereiste(n)
@@ -38,13 +39,13 @@ Het doel voor het verwerken van persoonsgegevens met een algoritme of AI-systeem
 
 
 ## Risico
-Als het doel voor het verwerken van persoonsgegevens onvoldoende is omschreven en onderbouwd, ontstaat het risico dan onnodig persoonsgegevens worden verwerken en een inbreuk wordt gemaakt op privacyrechten van betrokkenen.
+Als het doel voor het verwerken van persoonsgegevens onvoldoende is omschreven en onderbouwd, ontstaat het risico dat onrechtmatig persoonsgegevens worden verwerken en een inbreuk wordt gemaakt op privacyrechten van betrokkenen.
 
 
 ## Bronnen
 | Bron                                                                                                                                                                     |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Toetsingskader Algoritmes Algemene Rekenkamer, 3.05](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) |
+| [Toetsingskader Algoritmes Algemene Rekenkamer, 3.01, 3.05](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) |
 | [Onderzoekskader Algoritmes Auditdienst Rijk, PRI.4](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)                    |
 | Algoritmekader | 
 

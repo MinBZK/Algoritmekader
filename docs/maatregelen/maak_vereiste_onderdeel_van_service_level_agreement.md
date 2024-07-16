@@ -1,6 +1,6 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Maak de vereiste onderdeel van Service Level Agreement
+title: Maak vereisten voor algoritmes en AI-systemen onderdeel van Service Level Agreement
 # geef hier een korte toelichting van deze maatregel
 toelichting: Onderzoek of het relevant is om de vereiste onderdeel te maken van de Service Level Agreement. Met een SLA kunnen specifieke afspraken worden gemaakt over de kwaliteit van de dienstverlening.
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
@@ -64,6 +64,7 @@ Onderzoek of het relevant is om de vereiste onderdeel te maken van de Service Le
 | Bron                        |
 |-----------------------------|
 | Algoritmekader |        
+| | [Onderzoekskader Algoritmes Auditdienst Rijk, SV.11 ](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)| | Algoritmekader | 
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->

@@ -45,7 +45,7 @@ Voer een Project Startarchitectuur (PSA) uit als algoritmes of AI-systemen worde
 <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
-Het algoritme of AI-systeem kan niet of na verloop van tijd niet meer functioneren, doordat onverwachte of ongwenste wijzigingen in het applicatielandschap plaatsvinden. 
+Het algoritme of AI-systeem kan niet of na verloop van tijd niet meer functioneren, doordat onverwachte of ongewenst wijzigingen in het applicatielandschap plaatsvinden. 
 
 ## Bronnen
 | Bron                                                                                                                                                                     |

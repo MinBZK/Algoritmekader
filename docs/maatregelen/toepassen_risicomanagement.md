@@ -122,7 +122,7 @@ Risico's worden niet (tijdig) vastgesteld en adequaat geadresseerd en behandeld.
 
 | Bron                        |
 |-----------------------------|
-| [Onderzoekskader Algoritmes Auditdienst Rijk, SV.12 ](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)| 
+| [Onderzoekskader Algoritmes Auditdienst Rijk, SV.13 ](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)| 
 | [Toetsingskader Algoritmes Algemene Rekenkamer, 1.03](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) |
 | Algoritmekader |        
 

@@ -107,6 +107,8 @@ Pas risicobeheer gestructureerd toe voorafgaand en gedurende de ontwikkeling en 
 - Maak inzichtelijk op welke niveaus risicobeheer kan en moet worden belegd bij het ontwikkelen en gebruiken van algoritmes en AI-systemen.
 - Daarbij gaat het om het identificeren, analyseren, evalueren (tav risk apetite), behandelen (risicoreactie, o.a. maatregelen), monitoren & beoordelen en communiceren & rapporteren van risico's.
 - Gedurende de levenscyclus van een algoritme of AI-systemen kunnen nieuwe risico's ontstaan waar mogelijk nieuwe maatregelen voor moeten worden getroffen. Het is van belang dat iteratief wordt gewerkt aan mitigerende maatregelen en dat risicobeheer periodiek wordt toegepast.
+
+Let op! Sommige maatregelen in het Algoritmekader gaan dieper in op het uitvoeren van risicoanalyse. 
    
 ## Risico
 Risico's worden niet (tijdig) vastgesteld en adequaat geadresseerd en behandeld.  

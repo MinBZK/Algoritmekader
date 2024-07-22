@@ -65,7 +65,8 @@ hide:
   
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-- Er moet in een proces zijn beschreven wanneer het gebruik van algoritmes en AI-systemen moet worden stopgezet. 
+- Er moet in een proces zijn beschreven wanneer het gebruik van algoritmes en AI-systemen moet worden stopgezet.
+- Het is van belang dat bij het ontwerp van algoritmes en AI-systemen er rekening wordt gehouden met dat het werkproces ook zonder het algoritme of AI-systeem kan worden uitgevoerd.
 - Als blijkt dat het algoritme of AI-systeem ongewenst functioneert, dan moeten (technische) maatregelen zijn getroffen waarmee het gebruik daadwerkelijk kan worden stopgezet.
 - Het is van belang dat bij het ontwerp van algoritmes en AI-systemen er rekening wordt gehouden met dat het werkproces ook zonder het algoritme of AI-systeem kan worden uitgevoerd.
 - Hiervoor zullen (technische) maatregelen moeten worden getroffen, zoals een stopknop of werkinstructies voor medewerkers.

@@ -30,7 +30,7 @@ Nadat de verantwoordelijkheden zijn beschreven en toegewezen, zullen deze moeten
 
 - Het doel van vaststelling is dat de verwerkersverantwoordelijke de verantwoordelijkheid neemt en actief een keuze maakt om de persoonsgegevens op de beoogde wijze en met de bijbehorende verantwoordelijkheden te (laten) verwerken. Hiermee worden afspraken geformaliseerd.
 - Vaststelling van de verantwoordelijkheden kan plaatsvinden door beleidsdocumenten, werkinstructies, verwerkersovereenkomst of een PIA/DPIA, mits de verantwoordelijkheden voldoende duidelijk zijn beschreven, formeel vast te stellen door de verwerkersverantwoordelijke.
-- Vatstelling door de verwerkersverantwoordelijke is verplicht voorafgaand aan de verwerking van persoonsgegevens.
+- Vaststelling door de verwerkersverantwoordelijke is verplicht voorafgaand aan de verwerking van persoonsgegevens.
 - Bij de ontwikkeling en gebruiken van algoritmes en AI-systemen is het denkbaar dat de noodzaak voor het verwerken van persoonsgegevens wijzigt en dat meer of andere verwerkingen moeten plaatsvinden. Het is van belang dat wederom wordt beoordeeld wat dit betekent voor de bijbehorende verantwoordelijkheden. Als er sprake is van een wezenlijke wijziging ten opzichte van de al vastgestelde situatie, bijvoorbeeld doordat er meer persoonsgegevens worden verwerkt door een andere partij, dan zal de verwerkingsverantwoordelijke opnieuw tot vaststelling moeten overgaan om de afspraken te formaliseren.
 
 ## Bijbehorende vereiste(n)

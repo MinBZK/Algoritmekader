@@ -1,5 +1,5 @@
 ---
-title: Vaststellen verantwoordelijkheden
+title: Vaststellen verantwoordelijkheden bij verwerken persoonsgegevens
 toelichting: Nadat de verantwoordelijkheden zijn beschreven en toegewezen, zullen deze moeten worden vastgesteld door de verwerkersverantwoordelijke.  
 vereiste:
 - beschrijven_en_toewijzen_van_verantwoordelijkheden_bij_verwerking_persoonsgegevens

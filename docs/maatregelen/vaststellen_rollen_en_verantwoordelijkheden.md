@@ -31,7 +31,7 @@ De rollen en verantwoordelijkheden zijn vastgesteld door de verantwoordelijke(n)
 - Het doel van vaststelling is dat de verantwoordelijke(n) de verantwoordelijkheid neemt en actief een keuze maakt om het algoritme of AI-systemen te (laten) ontwikkelen of gebruiken op de beoogde wijze en met de bijbehorende verantwoordelijkheden.
 - Hiermee worden afspraken geformaliseerd. 
 - Vaststelling van de verantwoordelijkheden kan plaatsvinden door beleidsdocumenten, werkinstructies, verwerkersovereenkomst of een PIA/DPIA, mits de verantwoordelijkheden voldoende duidelijk zijn beschreven.
-- Vaststelling door de verwerkersverantwoordelijke is verplicht voorafgaand aan het (laten) ontwikkelen of gebruiken van algoritmes of AI-systemen.
+- Vaststelling door de verantwoordelijke(n) is verplicht voorafgaand aan het (laten) ontwikkelen of gebruiken van algoritmes of AI-systemen.
 - Gedurende de levenscyclus kan het voorkomen dat rollen en verantwoordelijkheden opnieuw moet worden beschreven en vastgesteld.
 
 ## Bijbehorende vereiste(n)

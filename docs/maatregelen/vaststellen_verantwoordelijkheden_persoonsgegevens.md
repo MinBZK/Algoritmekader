@@ -10,6 +10,7 @@ levenscyclus:
 - verficatie en validatie
 bouwblok:
 - privacy_en_gegevensbescherming
+- governance
 rollen:
 - proceseigenaar
 - verwerkersverantwoordelijke

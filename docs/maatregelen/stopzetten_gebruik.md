@@ -69,6 +69,7 @@ hide:
 - Als blijkt dat het algoritme of AI-systeem ongewenst functioneert, dan moeten (technische) maatregelen zijn getroffen waarmee het gebruik daadwerkelijk kan worden stopgezet.
 - Het is van belang dat bij het ontwerp van algoritmes en AI-systemen er rekening wordt gehouden met dat het werkproces ook zonder het algoritme of AI-systeem kan worden uitgevoerd.
 - Hiervoor zullen (technische) maatregelen moeten worden getroffen, zoals een stopknop of werkinstructies voor medewerkers.
+- Maak aantoonbaar dat deze maatregelen zijn getroffen.
 - De proceseigenaar of een menselijk toezichthouder moet in staat zijn om het algoritme of AI-systeem op elk moment te kunnen beëindigen. 
    
 ## Risico

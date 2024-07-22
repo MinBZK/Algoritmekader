@@ -67,6 +67,7 @@ hide:
 <!-- Geef hier een toelichting van deze maatregel -->
 - Het is van belang dat een proces wordt ingericht waarmee periodiek de kwaliteit van algoritmes of AI-systemen wordt geëvalueerd.
 - Bij kwaliteit van een algoritme of AI-systeem kan worden gedacht aan doeltreffenheid, doelmatigheid, betrouwbaarheid en accuraatheid (geschiktheid) en non-discriminatie.
+- Hieronder vallen het analyseren en evalueren van ingediende klachten en incidenten.
 - Na verloop van tijd kan de accuraatheid van machine learning modellen bijvoorbeeld wijzigen of kan het gebeuren dat bepaalde groepen (indien van toepassing) anders worden behandeld.
 - Het is van belang dat monitoringsactiviteiten worden ingericht om deze kwaliteitsaspecten tijdig te beoordelen.
 - Als er ongewenste wijzigingen plaatsvinden met betrekking tot de kwaliteit, moeten die worden geëvalueerd en zullen maatregelen moeten worden getroffen om deze te herstellen.
@@ -88,7 +89,7 @@ Zonder evaluatie van de kwaliteit van het algoritme is er geen goede sturing, be
 
 | Bron                        |
 |-----------------------------|
-| [Onderzoekskader Algoritmes Auditdienst Rijk, SV.16 ](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)| 
+| [Onderzoekskader Algoritmes Auditdienst Rijk, SV.16, SV.17 ](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)| 
 | [Toetsingskader Algoritmes Algemene Rekenkamer, 1.08](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) |
 | Algoritmekader |        
 

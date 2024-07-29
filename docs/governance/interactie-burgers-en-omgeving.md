@@ -1,8 +1,9 @@
---
-title: Interactie-burgers-en-omgeving
+---
+title: Interactie met burgers en omgeving
 summary: Hier staat een korte samenvatting over dit onderwerp
 icon: material/bank
 ---
+
 Bij het vormgeven van de algoritme en AI governance is het van belang om na te denken over de interactie met burgers en andere belangrijke stakeholder zowel binnen als buiten de organisatie. Er moet worden nagedacht in welke gevallen dit passend is en welke processen, mechanismen en structuren hierbij kunnen helpen. Bijvoorbeeld het instellen van een centraal contactpunt voor vragen, en de wijze waarop een burger in beroep kan gaan op een besluit.
 
 

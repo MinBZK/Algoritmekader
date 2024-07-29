@@ -61,8 +61,7 @@ Stel vast dat wetgeving en (lokaal) beleid correct is vertaald naar de uitvoerin
 ## Risico
 Een beslissing of besluit wordt niet conform wetgeving genomen en is daarmee onrechtmatig, als geen goede vertaling wordt gemaakt van wetgeving naar het algoritme. 
 
-## Bronnen
-
+| Bron                                                                                                                                                                     |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 
 |[Wetsanalyse](https://wendbarewetsuitvoering.pleio.nl/page/view/918f9a63-4383-410e-b526-4b8fb67b1c40/het-boek-wetsanalyse)|

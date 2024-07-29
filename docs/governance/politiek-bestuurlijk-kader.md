@@ -1,5 +1,5 @@
 ---
-title: Volwassenheidsniveau
+title: Politiek-bestuurlijk kader
 summary: Hier staat een korte samenvatting over dit onderwerp
 icon: material/bank
 ---

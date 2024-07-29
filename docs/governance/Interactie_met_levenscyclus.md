@@ -1,5 +1,5 @@
 ---
-title: Levenscyclus voor algoritmes en AI
+title: Interactie met de levenscyclus
 summary: Hier staat een korte samenvatting over dit onderwerp
 icon: material/bank
 ---

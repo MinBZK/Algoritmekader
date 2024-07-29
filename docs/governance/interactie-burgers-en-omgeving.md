@@ -19,5 +19,6 @@ Bij het vormgeven van de algoritme en AI governance is het van belang om na te d
 
 <!-- list_maatregelen_1 bouwblok/governance -->
 
+## Voorbeeld
 
 

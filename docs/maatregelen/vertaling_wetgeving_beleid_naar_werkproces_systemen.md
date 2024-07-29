@@ -69,4 +69,4 @@ Een beslissing of besluit wordt niet conform wetgeving genomen en is daarmee onr
 
 ## Voorbeeld
 
-| 
+|[Handleiding Wetanalyse](https://wendbarewetsuitvoering.pleio.nl/attachment/805680a2-1c37-4831-bbfb-2d602ca7d65c) | 

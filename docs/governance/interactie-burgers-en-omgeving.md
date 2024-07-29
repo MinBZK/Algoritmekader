@@ -1,5 +1,5 @@
 --
-Interactie-burgers-en-omgeving
+title: Interactie-burgers-en-omgeving
 summary: Hier staat een korte samenvatting over dit onderwerp
 icon: material/bank
 ---

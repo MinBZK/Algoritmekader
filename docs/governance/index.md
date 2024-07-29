@@ -16,8 +16,7 @@ Binnen een organisatie kan algoritme en AI governance niet los worden gezien van
 
 In de bijbehorende paragraven werken we uit welke delen algoritme en AI governance bestaat en hoe dit kan worden toegepast. We geven de hoofdlijnen mee in een ‘blauwdruk’ afgestemd op o.a. formaat van de organisatie. Let wel: het is altijd een proces om te kijken hoe in jouw organisatie hoe dit in te passen is. 
 
-
-
+![Algoritme en AI governance ladder, TNO, 2024](https://github.com/user-attachments/assets/b7a237be-6caf-4266-910b-5fd05f4dc93b){align="right"; width="50%"}
 
 
 

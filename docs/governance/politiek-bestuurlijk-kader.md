@@ -27,6 +27,6 @@ Een politiek-bestuurlijk kader is dus noodzakelijk om het voorgaande te bewerkst
 
 
 
-## Bronnen
+| ## Bronnen |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Kleur bekennen - vervolgonderzoek algoritmes|(https://rekenkamer.rotterdam.nl/onderzoeken/kleur-bekennen/) |

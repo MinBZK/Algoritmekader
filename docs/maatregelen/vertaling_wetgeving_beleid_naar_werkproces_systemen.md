@@ -2,7 +2,7 @@
 title: Stel vast dat wetgeving en (lokaal) beleid correct is vertaald naar de uitvoering van het te ondersteunen werkproces en de onderliggende systemen. 
 toelichting: Wet- en regelgeving of beleid bevat de basisregels voor algoritmes en AI-systemen. Het is van belang dat een goede vertaling wordt gemaakt van deze regels naar het algoritme of AI-systeem.
 
-levenscyclus
+vereiste:
 - zorgvuldigheidsbeginsel
 - transparantie
 - motiveringsbeginsel

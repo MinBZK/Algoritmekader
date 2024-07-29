@@ -6,21 +6,20 @@ icon: material/bank
 
 ![governance](../afbeeldingen/bouwblokken/governance.jpg "visuele weergave governance"){align="right"; width="50%"}
 
-Governance is een breed begrip, en er bestaan verschillende opvattingen van. In essentie gaat het over het inrichten van de organisatie, processen en bijbehorende verantwoordelijkheden.
-Een belangrijk aspect van governance is bepalen wie waarvoor verantwoordelijk is. Dit kan op verschillende niveaus: van (inter)nationaal niveau, naar organisatieniveau naar het niveau van het AI-systeem. In het Algoritmekader wordt gefocust op het niveau van organisatie en AI-systeem.  
+Governance gaat over de inrichting van een organisatie en daar bijbehorende processen, regels, gebruiken en bijbehorende verantwoordelijkheden. Dit onderdeel gaat over governance over AI en algoritmes en systemen waarin deze verwerkt zijn. Let op dat “governance” in verschillende contexten anders gebruikt kan worden, daarom spreken wij verder van  “algoritme en AI governance”. 
 
-Het Algoritmekader laat zien aan welke vereisten moet worden gedaan, hoe daar invulling aan kan worden gegeven (maatregelen) en welke rollen daar logischerwijs bij betrokken zijn. 
-Governance raakt in zekere zin al deze elementen doordat het deze, op verschillende niveaus, met elkaar verbindt.  
+De noodzaak van governance is om grip te hebben op algoritmes en AI binnen een organisatie. Mede gezien de AI-verordening, die 1 augustus 2025 gefaseerd in werking zal treden, is het van belang dat organisaties zich organiseren om deze wet correct te kunnen uitvoeren. Bewustzijn bij bestuur en organisatie is daarvoor een belangrijk vertrekpunt.  
 
-In dit deel van het Algoritmekader worden de volgende zaken uitgewerkt; 
+Algoritme en AI governance bestaat op verschillende niveaus: van (inter)nationaal niveau, naar organisatieniveau naar het niveau van het AI-systeem (zie Figuur 1). In het Algoritmekader wordt gefocust op de twee niveaus van organisatie en AI-systeem (lifecycle).
 
-- een verzameling praktijkvoorbeelden die tonen hoe organisaties hun governance kunnen inrichten om verantwoord met algoritmes en AI-systemen om te gaan. Daarbij worden goede praktijkvoorbeelden samengevat op hoofdlijnen; 
-- een handreiking hoe om te gaan met een governancestructuur die rekening houdt met verschillende niveaus van complexiteit van een organisatie.  
-- uitwerken van governance-maatregelen en koppeling aan rollen die hier logischerwijs bij passen, waarmee invulling kan worden gegeven aan een vereiste.  
+Binnen een organisatie kan algoritme en AI governance niet los worden gezien van de algemene governance, data-governance en IT-governance. Per organisatie zal verschillen in hoeverre dit daar is ontwikkeld. De omvang van een organisatie is ook een belangrijk aspect. Algoritme en AI governance moet aansluiten bij de strategie, doelstellingen en publieke waarden van een organisatie, waarbij moet worden voldaan aan wettelijke vereisten en ethische principes  (Mäntymäki et al., 2022) 
 
-De eerste twee punten zijn breed en geven algemene handvatten voor governance, het laatste punt gaat specifiek in op de vereisten/maatregelen. 
+In de bijbehorende paragraven werken we uit welke delen algoritme en AI governance bestaat en hoe dit kan worden toegepast. We geven de hoofdlijnen mee in een ‘blauwdruk’ afgestemd op o.a. formaat van de organisatie. Let wel: het is altijd een proces om te kijken hoe in jouw organisatie hoe dit in te passen is. 
 
-Let wel: Het Algoritmekader schrijft niet voor hoe een organisatie ingericht moet worden qua eindverantwoordelijken/governance. We proberen met behulp van voorbeelden praktische handvatten te bieden over hoe organisaties dit kunnen inrichten.  
+
+
+
+
 
 ## Vereisten
 

@@ -64,7 +64,8 @@ Een beslissing of besluit wordt niet conform wetgeving genomen en is daarmee onr
 ## Bronnen
 | Bron                                                                                                                                                                     |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Wetsanalyse voor een werkbare uitvoering van wetgeving met ICT, A. Ausems, J. Bulles en M. Lokin, Boom Juridisch, Den Haag 2021, p. 16 en 42 |
+| [Wetsanalyse voor een werkbare uitvoering van wetgeving met ICT, A. Ausems, J. Bulles en M. Lokin, Boom Juridisch, Den Haag 2021, p. 16 en 42] |
+| [Wetsanalyse](https://regels.overheid.nl/docs/methods/WETSANALYSE) |
 
 ## Voorbeeld
 

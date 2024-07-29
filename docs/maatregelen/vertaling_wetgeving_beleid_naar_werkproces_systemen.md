@@ -6,7 +6,7 @@ vereiste:
 - zorgvuldigheidsbeginsel
 - transparantie
 - motiveringsbeginsel
-- datakwaliteit
+- kwaliteitscriteria_voor_data
   
 levenscyclus:
 - ontwerp

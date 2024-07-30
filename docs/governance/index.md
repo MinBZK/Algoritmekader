@@ -6,7 +6,7 @@ icon: material/bank
 
 Governance gaat over de inrichting van een organisatie en daar bijbehorende processen, regels, gebruiken en bijbehorende verantwoordelijkheden. Dit onderdeel gaat over governance over AI en algoritmes en systemen waarin deze verwerkt zijn. Let op dat “governance” in verschillende contexten anders gebruikt kan worden, daarom spreken wij verder van  “algoritme en AI governance”. 
 
-De noodzaak van governance is om grip te hebben op algoritmes en AI binnen een organisatie. Mede gezien de AI-verordening, die 1 augustus 2025 gefaseerd in werking zal treden, is het van belang dat organisaties zich organiseren om deze wet correct te kunnen uitvoeren. Bewustzijn bij bestuur en organisatie is daarvoor een belangrijk vertrekpunt.  
+De noodzaak van governance is om grip te hebben op algoritmes en AI binnen een organisatie. Mede gezien de AI-verordening, die 1 augustus 2024 gefaseerd in werking zal treden, is het van belang dat organisaties zich organiseren om deze wet correct te kunnen uitvoeren. Bewustzijn bij bestuur en organisatie is daarvoor een belangrijk vertrekpunt.  
 
 Algoritme en AI governance bestaat op verschillende niveaus: van (inter)nationaal niveau, naar organisatieniveau naar het niveau van het AI-systeem (zie Figuur hieronder). In het Algoritmekader wordt gefocust op de twee niveaus van organisatie en AI-systeem (lifecycle).
 

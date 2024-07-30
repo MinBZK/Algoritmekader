@@ -38,7 +38,7 @@ Steeds meer organisaties kopen algoritmische toepassingen in die veel impact heb
 | Bron                        |
 |-----------------------------|
 |[Modelbepalingen voor gemeenten voor verantwoord gebruik van Algoritmische toepassingen](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/contractvoorwaarden-algoritmen/)|
-|[Contractvoorwaarden voor het inkopen van artificiële intelligentie (AI)]([https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_Template_NON_HIGH_RISK_NL.pdf](https://www.pianoo.nl/nl/document/21644/contractvoorwaarden-voor-het-inkopen-van-artificiele-intelligentie-ai))|
+|[Contractvoorwaarden voor het inkopen van artificiële intelligentie (AI)](https://www.pianoo.nl/nl/document/21644/contractvoorwaarden-voor-het-inkopen-van-artificiele-intelligentie-ai)|
 |[AI-module bij de modelovereenkomst ARBIT-2022](https://www.pianoo.nl/nl/actueel/nieuws/nieuw-ai-module-bij-de-modelovereenkomst-arbit-2022)|
 
 ## Voorbeeld

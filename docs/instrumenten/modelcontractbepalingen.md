@@ -1,7 +1,7 @@
 ---
 title: Modelcontractbepalingen
 toelichting: Modelbepalingen kunnen helpen om een contract op te stellen dat een organisatie in staat stelt veilige en verantwoorde algoritmen of AI-systemen in te kopen.
-vereiste:
+<!-- vereisten moeten nog worden toegevoegd. -->
 levenscyclus:
 - probleemanalyse
 - ontwerp

@@ -28,6 +28,14 @@ Modelbepalingen kunnen helpen om een contract op te stellen dat een organisatie 
 
 Steeds meer organisaties kopen algoritmische toepassingen in die veel impact hebben op gebruikers of beslissingen. Het is daarom van belang dat aanbestedende overheidsorganisaties afspraken maken met leveranciers, zodat de werking van de algoritmische toepassing transparant is en op een veilige en verantwoorde manier gebruikt wordt. Verschillende organisaties hebben daarom (voorbeeld-)contractvoorwaarden voor het inkopen van AI-systemen beschikbaar gesteld. Denk aan de Europese Commissie en de Gemeente Amsterdam.
 
+### Europese Commissie
+De Europese contractvoorwaarden voor AI bieden aanbestedende organisaties de mogelijkheid om specifieke clausules op te nemen in de overeenkomst. Op deze manier worden afspraken gemaakt over onderwerpen die in lijn zijn met de aankomende AI-Act. Er zijn 2 versies van de AI-inkoopvoorwaarden opgesteld: een set voorwaarden voor AI-toepassingen met een hoog-risicoprofiel en een set voorwaarden voor AI-toepassingen met een laag-risicoprofiel.
+
+### Gemeente Amsterdam
+De Europese contractvoorwaarden voor AI zijn gebaseerd op onder andere de modelbepalingen die de Gemeente Amsterdam al eerder opstelde. Deze dienen als voorbeeld voor andere gemeenten die algoritmische toepassingen willen inkopen.
+
+### AI-module bij ARBIT-2022
+Hier volgt nog tekst.
 
 ## Bijbehorende vereisten
 

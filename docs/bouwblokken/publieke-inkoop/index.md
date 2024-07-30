@@ -56,6 +56,11 @@ Hieronder volgt een overzicht van de maatregelen die (voor zover zijn uitgewerkt
 !!! info "Disclaimer"
     Het Algoritmekader is nog volop in ontwikkeling. Er wordt momenteel hard gewerkt, mede door de Werkgroep Publieke Inkoop, om maatregelen te definiëren vanuit het perspectief publieke inkoop bij de vereisten. Mocht er iets niet kloppen, laat het ons weten via [GitHub](https://github.com/MinBZK/Algoritmekader) of via algoritmes@minbzk.nl.
 
+## Instrumenten
+Hieronder volgt een overzicht van instrumenten die kunnen worden gebruikt om invulling te geven aan de vereisten en maatregelen.
+
+<!-- list_instrumenten bouwblok/publieke-inkoop -->
+
 ## Bruikbare informatie en bronnen
 
 [Europese modelcontractbepalingen AI-systemen (hoog risico)](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_template_High_Risk%20NL.pdf)

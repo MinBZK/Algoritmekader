@@ -1,5 +1,5 @@
 ---
-title: Bouwblokken
+title: Onderwerpen
 summary: Hier staat een korte samenvatting over dit onderwerp
 icon: material/cube
 hide:
@@ -9,7 +9,7 @@ hide:
 
 <div class="grid cards" markdown>
 
--   ### [Fundamentele rechten](../bouwblokken/fundamentele-rechten/index.md)
+-   ## [Grondrechten](../bouwblokken/fundamentele-rechten/index.md)
 
     ---
 
@@ -17,11 +17,11 @@ hide:
     
     ---
 
-    Het bouwblok fundamentele rechten is opgesplitst in verschillende delen
+    Hulp bij het beschermen van grondrechten en mensenrechten in algoritmes of AI. Bijvoorbeeld het beoordelen van de gevolgen per grondrecht.
 
-    [:octicons-arrow-right-24: Naar fundamentele rechten](../bouwblokken/fundamentele-rechten/index.md)
+    [:octicons-arrow-right-24: Grondrechten](../bouwblokken/fundamentele-rechten/index.md)
 
--   ### [Publieke inkoop](../bouwblokken/publieke-inkoop/index.md)
+-   ## [Publieke inkoop](../bouwblokken/publieke-inkoop/index.md)
     
     ---
   
@@ -29,11 +29,11 @@ hide:
     
     ---
 
-    Op deze pagina vind je relevante informatie wanneer je als overheidsorganisatie algoritmes of AI wilt inkopen. 
+    Hulp bij het publiek inkopen van software met algoritmen en AI. Met hulpmiddelen zoals modelcontracten en de PIANOo-handreiking Inkoop van algoritmes en AI. 
 
-    [:octicons-arrow-right-24: Naar publieke inkoop](../bouwblokken/publieke-inkoop/index.md)
+    [:octicons-arrow-right-24: Publieke inkoop](../bouwblokken/publieke-inkoop/index.md)
 
--   ### [Privacy en gegevensbescherming](../bouwblokken/privacy-en-gegevensbescherming/index.md)
+-   ## [Privacy en gegevens](../bouwblokken/privacy-en-gegevensbescherming/index.md)
 
     ---
 
@@ -41,11 +41,11 @@ hide:
     
     ---
 
-    Op deze pagina vind je relevante informatie over privacy en gegevensbescherming die van belang is wanneer je gebruik maakt van algoritmes of AI. 
+    Hulp bij verantwoord gebruik van gegevens voor algoritmes en AI-systemen, zoals persoonsgegevens en privacygevoelige gegevens. 
 
     [:octicons-arrow-right-24: Naar privacy en gegevensbescherming](../bouwblokken/privacy-en-gegevensbescherming/index.md)
 
--   ### [Transparantie](../bouwblokken/transparantie/index.md)
+-   ## [Transparantie](../bouwblokken/transparantie/index.md)
     
     ---
 
@@ -53,11 +53,11 @@ hide:
 
     ---
 
-    Op deze pagina vind je de relevantie informatie over transparantie die van belang is wanneer je gebruik maakt van algoritmes of AI.
+    Hulp bij transparant zijn over algoritmes en AI-systemen, zoals gebruikers informeren en publiceren in het algoritmeregister.
 
-    [:octicons-arrow-right-24: Naar transparantie](../bouwblokken/transparantie/index.md)
+    [:octicons-arrow-right-24: Transparantie](../bouwblokken/transparantie/index.md)
 
--   ### [Bias en non-discriminatie](../bouwblokken/bias-en-non-discriminatie/index.md)
+-   ## [Bias en non-discriminatie](../bouwblokken/bias-en-non-discriminatie/index.md)
     
     ---
 
@@ -65,11 +65,11 @@ hide:
 
     ---
 
-    Op deze pagina vind je de relevantie informatie over bias en non-discriminatie die van belang is wanneer je gebruik maakt van algoritmes of AI.
+    Hulp bij het voorkomen van bias en discriminatie in algoritmes en AI. Met aanbevelingen en hulpmiddelen zoals het Fairness Handbook.
 
-    [:octicons-arrow-right-24: Naar bias en non-discriminatie](../bouwblokken/bias-en-non-discriminatie/index.md)
+    [:octicons-arrow-right-24: Bias en non-discriminatie](../bouwblokken/bias-en-non-discriminatie/index.md)
 
--   ### [Data](../bouwblokken/data/index.md)
+-   ## [Data](../bouwblokken/data/index.md)
     
     ---
 
@@ -77,11 +77,11 @@ hide:
 
     ---
 
-    Hier kunnen we een korte tekst kwijt over data
+    Hulp bij het verantwoord selecteren en verwerken van data voor je algoritmes en AI-systemen. Gebruik bijvoorbeeld de toolbox verantwoord datagebruik.
 
     [:octicons-arrow-right-24: Naar data](../bouwblokken/data/index.md)
 
--   ### [Duurzaamheid](../bouwblokken/duurzaamheid/index.md)
+-   ## [Duurzaamheid](../bouwblokken/duurzaamheid/index.md)
     
     ---
 
@@ -89,11 +89,11 @@ hide:
 
     ---
 
-    Hier kunnen we een korte tekst kwijt over duurzaamheid
+    Hulp bij het maken van duurzame keuzes voor hardware en software. Bijvoorbeeld voor de aanschaf van apparaten of het energieverbruik van trainen en data-opslag.
 
-    [:octicons-arrow-right-24: Naar duurzaamheid](../bouwblokken/duurzaamheid/index.md)
+    [:octicons-arrow-right-24: Duurzaamheid](../bouwblokken/duurzaamheid/index.md)
 
--   ### [Governance](../governance/index.md)
+-   ## [Governance](../governance/index.md)
     
     ---
 
@@ -101,11 +101,11 @@ hide:
 
     ---
 
-    Hier kunnen we een korte tekst kwijt over governance
+    Hulp bij het verantwoordelijk omgaan met algoritmes en AI-systemen. Bijvoorbeeld het vastleggen van rollen en verantwoordelijkheden.
 
-    [:octicons-arrow-right-24: Naar governance](../governance/index.md)
+    [:octicons-arrow-right-24: Governance](../governance/index.md)
 
--   ### [Menselijke controle](../bouwblokken/menselijke-controle/index.md)
+-   ## [Menselijke controle](../bouwblokken/menselijke-controle/index.md)
     
     ---
 
@@ -113,11 +113,11 @@ hide:
 
     ---
 
-    Hier kunnen we een korte tekst kwijt over menselijke controle
+    Hulp bij de controle als mens over algoritmes en AI-systemen. Bijvoorbeeld kunnen ingrijpen bij onbetrouwbare resultaten.
 
-    [:octicons-arrow-right-24: Naar menselijke controle](../bouwblokken/menselijke-controle/index.md)
+    [:octicons-arrow-right-24: Menselijke controle](../bouwblokken/menselijke-controle/index.md)
 
--   ### [Technische robuustheid en veiligheid](../bouwblokken/technische-robuustheid-en-veiligheid/index.md)
+-   ## [Technische robuustheid en veiligheid](../bouwblokken/technische-robuustheid-en-veiligheid/index.md)
     
     ---
 
@@ -125,14 +125,14 @@ hide:
 
     ---
 
-    Hier kunnen we een korte tekst kwijt over technische robuustheid en veiligheid
+    Hulp bij het bewaken van de prestaties van algoritmes en AI. En beveiliging van de systemen tegen bijvoorbeeld cyberaanvallen.
 
-    [:octicons-arrow-right-24: Naar technische robuustheid en veiligheid](../bouwblokken/technische-robuustheid-en-veiligheid/index.md)
+    [:octicons-arrow-right-24: Technische robuustheid en veiligheid](../bouwblokken/technische-robuustheid-en-veiligheid/index.md)
 
 </div>
 
 
-!!! info "Disclaimer"
+!!! Help ons deze pagina te verbeteren
 
-    Het Algoritmekader is nog volop in ontwikkeling. Op deze plek willen we vooral aan de slag gaan op een open en transparante wijze. Het is dus niet definitief. Dat betekent dat er dingen opstaan die niet af zijn en soms zelfs fout. Mocht er iets niet kloppen, laat het ons weten via [GitHub](https://github.com/MinBZK/Algoritmekader).
+    Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/bouwblokken/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).
 

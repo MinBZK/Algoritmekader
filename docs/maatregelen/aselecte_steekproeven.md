@@ -34,6 +34,7 @@ Populaties veranderen immers over tijd. Een selectie die het meest effectief was
 Door alleen risicogestuurd te selecteren, wordt dit niet inzichtelijk, omdat bepaalde groepen zelden tot nooit gecontroleerd worden.
 Door de aanvullende mogelijkheid van monitoring, kan over tijd beoordeeld worden of er nog steeds sprake is van de meest proportionele vorm.
 
+Per context zal het verschillen hoeveel zaken aselect geselecteerd moeten worden.
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
@@ -46,7 +47,7 @@ Door de aanvullende mogelijkheid van monitoring, kan over tijd beoordeeld worden
 
 | Bron                        |
 |-----------------------------|
-
+|[Rapportage Algoritmerisico's Nederland voorjaar 2024 (pp. 36-41)](https://www.autoriteitpersoonsgegevens.nl/documenten/rapportage-ai-algoritmerisicos-nederland-ran-voorjaar-2024)|
 
 
 ## Risico 

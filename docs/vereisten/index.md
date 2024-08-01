@@ -13,10 +13,10 @@ Welke eisen gelden voor jouw organisatie, hangt af van:
 - het risiconiveau van je product
 - de [fase in de levenscyclus](https://minbzk.github.io/Algoritmekader/levenscyclus/) van je project
 
-### Voorbeelden
-Alleen impactvolle algoritmes en hoog-risico-AI-systemen moet je [publiceren in het Algoritmeregister](https://minbzk.github.io/Algoritmekader/vereisten/algoritmeregister/index.html). Voor rekenregels is dit niet verplicht.
+### Voorbeeld
+> Impactvolle algoritmes en AI-systemen worden gepubliceerd in het Nederlandse algoritmeregister.
 
-Het [verbod op discriminatie](https://minbzk.github.io/Algoritmekader/vereisten/non_discriminatie/index.html) geldt voor elk risiconiveau.
+Deze eis geldt alleen voor impactvolle algoritmes en hoog-risico-AI-systemen. Rekenregels hoef je niet te registreren in het algoritmeregister.
 
 ## Overzicht eisen
 - [Aanbieders van AI-systemen met een hoog risico kunnen aantonen dat het AI-systeem in overeenstemming is met de vereisten uit de AI-verordening](https://minbzk.github.io/Algoritmekader/vereisten/aantoonbaarheid_vereisten_hoog_risico/)

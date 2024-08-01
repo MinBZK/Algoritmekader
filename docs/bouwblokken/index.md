@@ -1,138 +1,42 @@
 ---
-title: Bouwblokken
+title: Onderwerpen
 summary: Hier staat een korte samenvatting over dit onderwerp
 icon: material/cube
 hide:
     - toc
     - navigation
 ---
+# Onderwerpen
 
-<div class="grid cards" markdown>
+## [Bias en non-discriminatie](https://minbzk.github.io/Algoritmekader/bouwblokken/bias-en-non-discriminatie/)
+Hulp bij het voorkomen van bias en discriminatie in algoritmes en AI. Met aanbevelingen en hulpmiddelen zoals het Fairness Handbook.
 
--   ### [Fundamentele rechten](../bouwblokken/fundamentele-rechten/index.md)
+## [Data](https://minbzk.github.io/Algoritmekader/bouwblokken/data/)
+Hulp bij het verantwoord selecteren en verwerken van data voor je algoritmes en AI-systemen. Gebruik bijvoorbeeld de toolbox verantwoord datagebruik.
 
-    ---
+## [Duurzaamheid](https://minbzk.github.io/Algoritmekader/bouwblokken/duurzaamheid/)
+Hulp bij het maken van duurzame keuzes voor hardware en software. Bijvoorbeeld voor de aanschaf van apparaten of het energieverbruik van trainen en data-opslag.
 
-    ![fundamentele-rechten](../afbeeldingen/iconen/fundamentele-rechten.png)
-    
-    ---
+## [Governance](https://minbzk.github.io/Algoritmekader/governance/)
+Hulp bij het verantwoordelijk omgaan met algoritmes en AI-systemen. Bijvoorbeeld het vastleggen van rollen en verantwoordelijkheden.
 
-    Het bouwblok fundamentele rechten is opgesplitst in verschillende delen
+## [Grondrechten](https://minbzk.github.io/Algoritmekader/bouwblokken/fundamentele-rechten/)
+Hulp bij het beschermen van grondrechten en mensenrechten in algoritmes of AI. Bijvoorbeeld het beoordelen van de gevolgen per grondrecht.
 
-    [:octicons-arrow-right-24: Naar fundamentele rechten](../bouwblokken/fundamentele-rechten/index.md)
+## [Menselijke controle](https://minbzk.github.io/Algoritmekader/bouwblokken/menselijke-controle/)
+Hulp bij de controle als mens over algoritmes en AI-systemen. Bijvoorbeeld kunnen ingrijpen bij onbetrouwbare resultaten.
 
--   ### [Publieke inkoop](../bouwblokken/publieke-inkoop/index.md)
-    
-    ---
-  
-    ![publieke-inkoop](../afbeeldingen/iconen/inkoop.png)
-    
-    ---
+## [Privacy en gegevens](https://minbzk.github.io/Algoritmekader/bouwblokken/privacy-en-gegevensbescherming/)
+Hulp bij verantwoord gebruik van gegevens voor algoritmes en AI-systemen, zoals persoonsgegevens en privacygevoelige gegevens.
 
-    Op deze pagina vind je relevante informatie wanneer je als overheidsorganisatie algoritmes of AI wilt inkopen. 
+## [Publieke inkoop](https://minbzk.github.io/Algoritmekader/bouwblokken/publieke-inkoop/)
+Hulp bij het publiek inkopen van software met algoritmen en AI. Met hulpmiddelen zoals modelcontracten en de PIANOo-handreiking Inkoop van algoritmes en AI.
 
-    [:octicons-arrow-right-24: Naar publieke inkoop](../bouwblokken/publieke-inkoop/index.md)
+## [Technische robuustheid en veiligheid](https://minbzk.github.io/Algoritmekader/bouwblokken/technische-robuustheid-en-veiligheid/)
+Hulp bij het bewaken van de prestaties van algoritmes en AI. En beveiliging van de systemen tegen bijvoorbeeld cyberaanvallen.
 
--   ### [Privacy en gegevensbescherming](../bouwblokken/privacy-en-gegevensbescherming/index.md)
+## [Transparantie](https://minbzk.github.io/Algoritmekader/bouwblokken/transparantie/)
+Hulp bij transparant zijn over algoritmes en AI-systemen, zoals gebruikers informeren en publiceren in het algoritmeregister.
 
-    ---
-
-    ![privacy-en-gegevensbescherming](../afbeeldingen/iconen/privacy-en-gegevensbescherming.png)
-    
-    ---
-
-    Op deze pagina vind je relevante informatie over privacy en gegevensbescherming die van belang is wanneer je gebruik maakt van algoritmes of AI. 
-
-    [:octicons-arrow-right-24: Naar privacy en gegevensbescherming](../bouwblokken/privacy-en-gegevensbescherming/index.md)
-
--   ### [Transparantie](../bouwblokken/transparantie/index.md)
-    
-    ---
-
-    ![transparantie](../afbeeldingen/iconen/transparantie.png)
-
-    ---
-
-    Op deze pagina vind je de relevantie informatie over transparantie die van belang is wanneer je gebruik maakt van algoritmes of AI.
-
-    [:octicons-arrow-right-24: Naar transparantie](../bouwblokken/transparantie/index.md)
-
--   ### [Bias en non-discriminatie](../bouwblokken/bias-en-non-discriminatie/index.md)
-    
-    ---
-
-    ![bias-en-non-discriminatie](../afbeeldingen/iconen/bias-en-non-discriminatie.png)
-
-    ---
-
-    Op deze pagina vind je de relevantie informatie over bias en non-discriminatie die van belang is wanneer je gebruik maakt van algoritmes of AI.
-
-    [:octicons-arrow-right-24: Naar bias en non-discriminatie](../bouwblokken/bias-en-non-discriminatie/index.md)
-
--   ### [Data](../bouwblokken/data/index.md)
-    
-    ---
-
-    ![data](../afbeeldingen/iconen/data.png)
-
-    ---
-
-    Hier kunnen we een korte tekst kwijt over data
-
-    [:octicons-arrow-right-24: Naar data](../bouwblokken/data/index.md)
-
--   ### [Duurzaamheid](../bouwblokken/duurzaamheid/index.md)
-    
-    ---
-
-    ![duurzaamheid](../afbeeldingen/iconen/duurzaamheid.png)
-
-    ---
-
-    Hier kunnen we een korte tekst kwijt over duurzaamheid
-
-    [:octicons-arrow-right-24: Naar duurzaamheid](../bouwblokken/duurzaamheid/index.md)
-
--   ### [Governance](../governance/index.md)
-    
-    ---
-
-    ![governance](../afbeeldingen/iconen/governance.png)
-
-    ---
-
-    Hier kunnen we een korte tekst kwijt over governance
-
-    [:octicons-arrow-right-24: Naar governance](../governance/index.md)
-
--   ### [Menselijke controle](../bouwblokken/menselijke-controle/index.md)
-    
-    ---
-
-    ![menselijke-controle](../afbeeldingen/iconen/menselijke-controle.png)
-
-    ---
-
-    Hier kunnen we een korte tekst kwijt over menselijke controle
-
-    [:octicons-arrow-right-24: Naar menselijke controle](../bouwblokken/menselijke-controle/index.md)
-
--   ### [Technische robuustheid en veiligheid](../bouwblokken/technische-robuustheid-en-veiligheid/index.md)
-    
-    ---
-
-    ![technische-robuustheid-en-veiligheid](../afbeeldingen/iconen/technische-robuustheid-en-veiligheid.png)
-
-    ---
-
-    Hier kunnen we een korte tekst kwijt over technische robuustheid en veiligheid
-
-    [:octicons-arrow-right-24: Naar technische robuustheid en veiligheid](../bouwblokken/technische-robuustheid-en-veiligheid/index.md)
-
-</div>
-
-
-!!! info "Disclaimer"
-
-    Het Algoritmekader is nog volop in ontwikkeling. Op deze plek willen we vooral aan de slag gaan op een open en transparante wijze. Het is dus niet definitief. Dat betekent dat er dingen opstaan die niet af zijn en soms zelfs fout. Mocht er iets niet kloppen, laat het ons weten via [GitHub](https://github.com/MinBZK/Algoritmekader).
-
+## Help ons deze pagina te verbeteren
+Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/bouwblokken/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

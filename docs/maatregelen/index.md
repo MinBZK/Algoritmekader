@@ -1,5 +1,6 @@
 ---
 title: Maatregelen
+summary: Overzicht van aanbevolen maatregelen voor overheden die algoritmes of AI ontwikkelen of gebruiken. De maatregelen helpen om te voldoen aan de eisen.
 hide:
 - navigation
 ---

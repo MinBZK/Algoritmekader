@@ -4,7 +4,7 @@ hide:
 - navigation
 ---
 # Eisen
-Overzicht van de eisen waar overheden aan moeten voldoen als zij algoritmes of AI-systemen ontwikkelen of gebruiken. Deze eisen zijn gebaseerd op de wetten en regels voor het uitvoeren van wettelijke taken, zoals de Grondwet.
+Overzicht van eisen waar overheden aan moeten voldoen als zij algoritmes of AI-systemen ontwikkelen of gebruiken. Deze eisen zijn gebaseerd op de wetten en regels voor het uitvoeren van wettelijke taken, zoals de Grondwet.
 
 ## Aantal eisen verschilt per situatie
 Welke eisen gelden voor jouw organisatie, hangt af van:

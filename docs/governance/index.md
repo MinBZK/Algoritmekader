@@ -1,6 +1,6 @@
 ---
 title: Governance
-summary: Hier staat een korte samenvatting over dit onderwerp
+summary: Hulp voor overheden bij de governance (beleid en onderhoud) van hun algoritmes of AI-systemen.
 icon: material/bank
 ---
 # Governance

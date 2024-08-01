@@ -23,6 +23,7 @@ De regering wil dat de overheid algoritmes verantwoord gebruikt. Mensen moeten e
 
 Je kunt [hier meer lezen](https://algoritmes.overheid.nl/nl/footer/over) over de doelen van het Algoritmeregister .
 
+
 ## Relevantie
 
 

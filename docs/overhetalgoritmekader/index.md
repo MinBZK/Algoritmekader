@@ -1,5 +1,6 @@
 ---
 title: Over het Algoritmekader
+summary: Het Algoritmekader is een open source website van het Ministerie van Binnenlandse Zaken, met alle regels voor overheden die algoritmes of AI gebruiken.
 ---
 # Over het algoritmekader 
 Het algoritmekader is een hulpmiddel voor overheden die algoritmes of AI (artificiële intelligentie) gebruiken. Hierin zoek je de regels en adviezen op per situatie. De informatie in het Algoritmekader is nog niet betrouwbaar. Het is een testversie. De definitieve versie verschijnt eind 2024.

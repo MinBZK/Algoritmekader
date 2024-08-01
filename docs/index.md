@@ -23,17 +23,18 @@ Vind snel de betekenis van begrippen als algoritme, AI-systeem, hoog-risico-AI e
 - [Aanbevolen instrumenten](https://minbzk.github.io/Algoritmekader/instrumenten/)
 
 ## Onderwerpen
-- [Governance](https://minbzk.github.io/Algoritmekader/governance/)
-- [Levenscyclus van algoritmes en AI](https://minbzk.github.io/Algoritmekader/levenscyclus/)
-- [Publieke inkoop](https://minbzk.github.io/Algoritmekader/bouwblokken/publieke-inkoop/)
-- [Grondrechten](https://minbzk.github.io/Algoritmekader/bouwblokken/fundamentele-rechten/)
 - [Bias en non-discriminatie](https://minbzk.github.io/Algoritmekader/bouwblokken/bias-en-non-discriminatie/)
-- [Privacy en gegevensbescherming](https://minbzk.github.io/Algoritmekader/bouwblokken/privacy-en-gegevensbescherming/)
 - [Data verwerken](https://minbzk.github.io/Algoritmekader/bouwblokken/data/)
+- [Duurzaamheid](https://minbzk.github.io/Algoritmekader/bouwblokken/duurzaamheid/)
+- [Governance](https://minbzk.github.io/Algoritmekader/governance/)
+- [Grondrechten](https://minbzk.github.io/Algoritmekader/bouwblokken/fundamentele-rechten/)
+- [Levenscyclus van algoritmes en AI](https://minbzk.github.io/Algoritmekader/levenscyclus/)
 - [Menselijke controle](https://minbzk.github.io/Algoritmekader/bouwblokken/menselijke-controle/)
+- [Privacy en gegevensbescherming](https://minbzk.github.io/Algoritmekader/bouwblokken/privacy-en-gegevensbescherming/)
+- [Publieke inkoop](https://minbzk.github.io/Algoritmekader/bouwblokken/publieke-inkoop/)
 - [Robuustheid en veiligheid](https://minbzk.github.io/Algoritmekader/bouwblokken/technische-robuustheid-en-veiligheid/)
 - [Transparantie](https://minbzk.github.io/Algoritmekader/bouwblokken/transparantie/)
-- [Duurzaamheid](https://minbzk.github.io/Algoritmekader/bouwblokken/duurzaamheid/)
+
 
 ## Informatie voor:
 - [Aanbestedingsjuristen](https://minbzk.github.io/Algoritmekader/rollen/aanbestedingsjurist/)

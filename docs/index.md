@@ -13,7 +13,7 @@ Alle regels, tips en hulpmiddelen voor verantwoord gebruik van algoritmes en AI.
 Deze website is een testversie. Alle versies ontstaan op een open manier. Iedereen mag [opmerkingen of suggesties](https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/CONTRIBUTING/) geven.
 
 ## Wat is een algoritme?
-Betekenis van de begrippen algoritme, AI-systeem, hoog-risico-AI, impactvolle algoritmes en meer ...
+Vind snel de betekenis van begrippen als algoritme, AI-systeem, hoog-risico-AI en impactvolle algoritmes.
 
 [Woordenlijst](https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/definities/)
 

@@ -1,16 +1,17 @@
 ---
 title: Rollen
+summary: Hulp bij het bepalen van rollen en verantwoordelijkheden om als overheid verantwoordelijk om te gaan met algoritmes en AI.
 icon: material/account
 ---
 # Rollen
 Verantwoorde algoritmes en AI-systemen zijn mogelijk als mensen in verschillende rollen goed samenwerken, op het juiste moment.
 
 ## Bepaal zelf rollen en verantwoordelijkheden
-Organisaties bepalen zelf welke rollen of functies zij hebben voor dit proces en welke taken en verantwoordelijkheden hierbij horen. 
+Organisaties bepalen zelf de namen van hun rollen of functies en de taken en verantwoordelijkheden die hierbij horen. 
 Sommige organisaties hebben bijvoorbeeld minder rollen, omdat zij verschillende expertises combineren in één rol. Of rollen hebben andere namen.
 
 ## Voorbeelden van rollen
-De volgende rollen passen bij de manier van werken van grote organisaties. Andere rollen zijn ook mogelijk:
+De volgende rollen passen bij de manier van werken van grote organisaties zoals overheden. Andere rollen zijn ook mogelijk:
 - [Aanbestedingsjurist](https://minbzk.github.io/Algoritmekader/rollen/aanbestedingsjurist/)
 - [Aanbieder](https://minbzk.github.io/Algoritmekader/rollen/aanbieder/)
 - [Archiefdeskundige](https://minbzk.github.io/Algoritmekader/rollen/archiefdeskundige/)

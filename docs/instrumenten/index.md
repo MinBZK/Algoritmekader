@@ -1,6 +1,6 @@
 ---
 title: Instrumenten
-summary: Hier staat een korte samenvatting over dit onderwerp
+summary: Overzicht van de aanbevolen instrumenten voor overheden die algoritmes of AI ontwikkelen of gebruiken. De instrumenten helpen om te voldoen aan de eisen.
 ---
 # Instrumenten
 Overzicht van de instrumenten voor het verantwoord ontwikkelen, gebruiken, beoordelen en monitoren van algoritmes en AI-systemen.

@@ -12,7 +12,7 @@ Een belangrijk aspect van governance is bepalen wie waarvoor verantwoordelijk is
 Het Algoritmekader laat zien aan welke vereisten moet worden gedaan, hoe daar invulling aan kan worden gegeven (maatregelen) en welke rollen daar logischerwijs bij betrokken zijn. 
 Governance raakt in zekere zin al deze elementen doordat het deze, op verschillende niveaus, met elkaar verbindt.  
 
-In dit deel van het Algoritmekader worden de volgende zaken uitgewerkt; 
+In dit deel van het Algoritmekader worden de volgende zaken uitgewerkt: 
 
 - een verzameling praktijkvoorbeelden die tonen hoe organisaties hun governance kunnen inrichten om verantwoord met algoritmes en AI-systemen om te gaan. Daarbij worden goede praktijkvoorbeelden samengevat op hoofdlijnen; 
 - een handreiking hoe om te gaan met een governancestructuur die rekening houdt met verschillende niveaus van complexiteit van een organisatie.  

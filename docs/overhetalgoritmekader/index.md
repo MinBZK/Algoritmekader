@@ -22,7 +22,7 @@ Het Algoritmekader is een website van het Ministerie van Binnenlandse Zaken en K
 - adviezen en ervaringen van experts, zoals wetenschappers
 
 ## Iedereen mag meedenken
-Tot ongeveer 2025 is het Algoritmekader een conceptversie. De informatie komt open source tot stand. Dat betekent dat iedereen zijn mening mag geven of een voorstel mag doen:
+Tot ongeveer 2025 is het Algoritmekader een testversie. De informatie komt open source tot stand. Dat betekent dat iedereen zijn mening mag geven of een voorstel mag doen:
 - Geef je [vraag of wijziging](https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/CONTRIBUTING/) door.
 - Sluit je aan bij een [werkgroep](https://algoritmes.pleio.nl/).
 - Doe mee aan een [online vergadering](https://algoritmes.pleio.nl/events) zoals onze sprintreview of demo.

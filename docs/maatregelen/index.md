@@ -19,8 +19,8 @@ De maatregelen zijn niet verplicht. Het zijn adviezen uit:
 
 Deze maatregel helpt om te voldoen aan de eis om niet te discrimineren. Maar deze maatregel is niet verplicht. Je organisatie mag ook eigen maatregelen nemen. Zolang je uiteindelijk maar voldoet aan de eis.
 
-[!TIP]
-Kies maatregelen die gebaseerd zijn op een standaard. Je product krijgt hierdoor een ‘vermoeden van conformiteit’. Dit betekent dat de kans groot is dat je organisatie voldoet aan de eisen.
+> [!TIP]
+> Kies maatregelen die gebaseerd zijn op een standaard. Je product krijgt hierdoor een ‘vermoeden van conformiteit’. Dit betekent dat de kans groot is dat je organisatie voldoet aan de eisen.
 
 ## Aantal maatregelen verschilt per situatie
 Welke maatregelen handig zijn in jouw situatie, hangt af van:
@@ -28,8 +28,8 @@ Welke maatregelen handig zijn in jouw situatie, hangt af van:
 - de [eisen](https://minbzk.github.io/Algoritmekader/vereisten/) waar jouw organisatie aan moet voldoen
 - jouw [rol](https://minbzk.github.io/Algoritmekader/rollen/) in de organisatie
 
-[!TIP]
-Met 1 maatregel voldoe je soms aan meerdere eisen.
+> [!TIP]
+> Met 1 maatregel voldoe je soms aan meerdere eisen.
 
 ## Overzicht maatregelen
 - [Aansprakelijkheidsvoorwaarden worden beoordeeld in de aanbesteding](https://minbzk.github.io/Algoritmekader/maatregelen/aansprakelijkheidsvoorwaarden_aanbieder_onderdeel_beoordelingsmatrix/index.html)

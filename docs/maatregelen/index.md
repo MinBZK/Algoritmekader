@@ -1,10 +1,10 @@
 ---
 title: Maatregelen
 hide:
-- navigation
+  - navigation
 ---
 
-De maatregelen die zijn opgenomen in het Algoritmekader geven aan 'hoe' overheidsorganisaties invulling *kunnen* geven aan specifieke vereisten.
+De maatregelen die zijn opgenomen in het Algoritmekader geven aan 'hoe' overheidsorganisaties invulling _kunnen_ geven aan specifieke vereisten.
 Deze laag is aan het Algoritmekader toegevoegd, omdat het organisaties handvatten kan geven om zelf op een betekenisvolle wijze invulling te geven aan de vereisten.
 In het Algoritmekader zijn al deze maatregelen gekoppeld aan de levenscyclus van een algoritme, vereisten en rollen.
 Daarmee is inzichtelijk wanneer en met wie deze maatregelen logischerwijs in stelling kunnen worden gebracht.
@@ -22,8 +22,9 @@ Dit moet organisaties helpen om met hun beschikbare middelen effectief en gerich
 Om tot een overzicht van de maatregelen te komen is naar een aantal waardevolle bronnen gekeken.
 Het [Toetsingskader Algoritmes](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) van de Algemene Rekenkamer en het [Onderzoekskader algoritmes](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)van de Auditdienst Rijk zijn daar goede voorbeelden van.
 Daarnaast is ook de kennis van experts binnen en buiten het team Algoritmekader toegevoegd om te kunnen duiden welke maatregelen in de praktijk kunnen worden getroffen om te voldoen aan de vereisten.
- 
+
 ## Standaarden
+
 Op nationaal, Europees en internationaal niveau wordt momenteel gewerkt aan de totstandkoming van standaarden.
 Deze standaarden worden opgesteld door gespecialiseerde organisaties (NEN, JTC21 en ISO) en ondergaan een uitgebreid proces.
 Dit proces zorgt uiteindelijk voor brede consensus voor de standaarden.
@@ -35,7 +36,9 @@ Hierover moeten nog nadere afspraken worden gemaakt met deze standaardisatieorga
 
 ## Overzicht van maatregelen
 
-Onderstaand volgt een overzicht van maatregelen per fase van de levenscyclus. 
+Onderstaand volgt een overzicht van maatregelen per fase van de levenscyclus.
+
+<!-- list_maatregelen levenscyclus -->
 
 ??? simple "Probleemanalyse"
 
@@ -56,16 +59,15 @@ Onderstaand volgt een overzicht van maatregelen per fase van de levenscyclus.
 ??? simple "Verificatie en validatie"
 
     <!-- list_maatregelen_1 levenscyclus/verificatie-en-validatie -->
-    
+
 ??? simple "Implementatie"
 
     <!-- list_maatregelen_1 levenscyclus/implementatie -->
-    
+
 ??? simple "Monitoring en beheer"
 
     <!-- list_maatregelen_1 levenscyclus/monitoring-en-beheer -->
-    
+
 ??? simple "Uitfaseren"
 
     <!-- list_maatregelen_1 levenscyclus/uitfaseren -->
-

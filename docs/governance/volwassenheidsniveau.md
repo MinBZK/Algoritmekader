@@ -10,6 +10,7 @@ Het is raadzaam om een model te hanteren om het volwassenheidsniveau te bepalen 
  
 ![Krijger, J., Thuis, T., de Ruiter, M. et al. The AI ethics maturity model: a holistic approach to advancing ethical data science in organizations. AI Ethics 3, 355–367 (2023)](https://github.com/user-attachments/assets/07860cdc-9d6c-46f4-aace-cfcdf71e114d)
 
+Andere voorbeelden zijn de NIST-based AI-governance maturity model of het IBDS datavolwassenheid.
 
 
 

@@ -5,16 +5,16 @@ vereiste:
 - beschrijven_en_toewijzen_van_verantwoordelijkheden_bij_verwerking_persoonsgegevens
 levenscyclus:
 - ontwerp
-- dataverkenning en datapreparatie
-- ontwikkel
-- verficatie en validatie
+- dataverkenning-en-datapreparatie
+- ontwikkelen
+- verficatie-en-validatie
 bouwblok:
-- privacy_en_gegevensbescherming
+- privacy-en-gegevensbescherming
 - governance
 rollen:
 - proceseigenaar
 - verwerkersverantwoordelijke
-- privacy officer
+- privacy-officer
 
 hide:
 - navigation

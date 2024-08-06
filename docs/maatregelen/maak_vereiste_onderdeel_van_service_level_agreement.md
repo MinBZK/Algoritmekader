@@ -38,7 +38,7 @@ rollen:
 - inkoopadviseur
 - contractbeheerder
 - aanbestedingsjurist
-- data scientist
+- data-scientist
 - aanbieder
   
 hide:

@@ -10,7 +10,7 @@ levenscyclus:
 - ontwikkelen
 - implementatie
 - monitoring-en-beheer
-- verficatie-en-validatie
+- verificatie-en-validatie
 bouwblok:
 - governance
 rollen:

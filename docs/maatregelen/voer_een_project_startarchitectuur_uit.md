@@ -15,10 +15,8 @@ bouwblok:
 - privacy-en-gegevensbescherming
 rollen:
 - proceseigenaar
-- informatiearchitect
-- solution-architect
 - informatie-analist
-- data engineer
+- data-engineer
 - privacy-officer
 - security-officer
 - inkoopadviseur

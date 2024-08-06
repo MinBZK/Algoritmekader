@@ -8,19 +8,13 @@ vereiste:
 - kwaliteitscriteria_voor_data
 - melding_ernstige_incidenten
 - ontwerp_voor_nauwkeurigheid_robuustheid_en_cyberbeveiliging
-- privacy_bij_ontwerp_bij_verwerking_van_persoonsgegevens
-- verboden_toepassingen_evaluatie_of_classificatie_natuurlijke_personen_of_groepen_personen
-- verplicht_risicobeheersysteem_voor_hoog_risico_ai
 - fundamentele_rechten
 - beoordelen_gevolgen_voor_grondrechten
 - beveiliging_informatie_en_informatiesystemen
 - beveiliging_van_verwerking
-- inroepen_privacyrecht_bij_verwerking_persoonsgegevens
 - non_discriminatie
 - archiefwet
 - auteursrechten
-- toegankelijkheidseisen_hoog_risico
-- toezichtmogelijkheden_voor_gebruikers
 - beginsel_van_proportionaliteit_en_subsidiariteit
 - beschrijven_en_toewijzen_van_verantwoordelijkheden_bij_verwerking_persoonsgegevens
 - bevorder_ai_geletterdheid_personeel
@@ -31,7 +25,7 @@ vereiste:
 - gebruiksverantwoordelijken_bewaren_automatisch_gegenereerde_logs
 - gebruiksverantwoordelijken_leven_registratieverplichting_na
 - gebruiksverantwoordelijken_menselijk_toezicht_natuurlijke_personen
-- gebruiksverantwoordelijken_monitoren_werking_ hoog_risico_AI-systeem
+- gebruiksverantwoordelijken_monitoren_werking_hoog_risico_AI-systeem
 - inroepen_privacyrecht_bij_verwerking_persoonsgegevens
 - juistheid_en_actualiteit_van_persoonsgegevens
 - minimale_verwerking_van_persoonsgegevens
@@ -52,7 +46,6 @@ vereiste:
 - verplichtingen_van_aanbieders_van_ai_modellen_voor_algemene_doeleinden_met_systeemrisico
 - verstrekking_van_informatie_op_verzoek
 - wettelijke_verwerking_van_gevoelige_gegevens
-
 levenscyclus: 
 - probleemanalyse
 - ontwerp

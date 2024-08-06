@@ -1,10 +1,6 @@
 ---
-# vul hier een titel in voor deze maatregel
 title: Richt een proces in voor een periodieke evaluatie van de kwaliteit van het algoritme of AI-systeem.
-# geef hier een korte toelichting van deze maatregel
 toelichting: Bij kwaliteit kan worden gedacht aan doeltreffenheid, doelmatigheid, betrouwbaarheid en accuraatheid (geschiktheid) en non-discriminatie.
-
-# vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
 - zorgvuldigheidsbeginsel
 - kwaliteitsbeheersysteem_voor_hoog_risico_ai
@@ -22,8 +18,6 @@ vereiste:
 - juistheid_en_actualiteit_van_persoonsgegevens
 - toegankelijkheidseisen_hoog_risico
 
-  
-# vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 
 - ontwerp
 - dataverkenning-en-datapreparatie
@@ -32,18 +26,13 @@ levenscyclus:
 - implementatie
 - monitoring-en-beheer
 - uitfaseren
-  
-# vul hier de bouwblokken in die horen bij deze maatregel
 bouwblok: 
 - governance
-
-# geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn
 rollen:
 - proceseigenaar
 - beleidsmedewerker
 - data-engineer
 - data-scientist
-- architect
 - informatiebeheerder
 - privacy-officer
 - security-officer

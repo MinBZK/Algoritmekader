@@ -1,10 +1,6 @@
 ---
-# vul hier een titel in voor deze maatregel
 title: Pas risicobeheer gestructureerd toe voorafgaand en gedurende de ontwikkeling en gebruik van algoritmes en AI-systemen.
-# geef hier een korte toelichting van deze maatregel
 toelichting: Alle stappen van risicobeheer worden periodiek uitgevoerd en op het juiste niveau in de organisatie behandeld.
-
-# vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
 - automatische_logregistratie
 - zorgvuldigheidsbeginsel
@@ -57,8 +53,6 @@ vereiste:
 - verstrekking_van_informatie_op_verzoek
 - wettelijke_verwerking_van_gevoelige_gegevens
 
-  
-# vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 
 - probleemanalyse
 - ontwerp
@@ -68,18 +62,13 @@ levenscyclus:
 - implementatie
 - monitoring-en-beheer
 - uitfaseren
-  
-# vul hier de bouwblokken in die horen bij deze maatregel
 bouwblok: 
 - governance
-
-# geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn
 rollen:
 - proceseigenaar
 - beleidsmedewerker
 - data-engineer
 - data-scientist
-- architect
 - informatiebeheerder
 - privacy-officer
 - security-officer

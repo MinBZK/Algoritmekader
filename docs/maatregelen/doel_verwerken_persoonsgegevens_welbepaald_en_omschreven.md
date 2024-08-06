@@ -9,7 +9,7 @@ levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
 - ontwikkelen
-- verficatie-en-validatie
+- verificatie-en-validatie
 - implementatie
 bouwblok:
 - privacy-en-gegevensbescherming

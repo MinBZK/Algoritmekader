@@ -36,7 +36,6 @@ rollen:
 - beleidsmedewerker
 - data-engineer
 - data-scientist
-- architect
 - informatiebeheerder
 - privacy-officer
 - security-officer

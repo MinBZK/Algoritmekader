@@ -41,8 +41,8 @@ Bepaal welke expertise en capaciteit noodzakelijk is voor het ontwikkelen, inkop
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
 - Bepaal in een vroege fase (probleemanalyse en ontwerpfase) welke expertise en capaciteit noodzakelijk is voor het ontwikkelen, inkopen en gebruiken van algoritmes en AI-systemen.
-- Dit is sterk afhankelijk van de specifieke toepassing en de (eerste) inzichten die voortkomen uit risicoanalyses. Hoe complexere en risicovolle de toepassing, des te meer expertise en capaciteit is noodzakelijk is. 
-- Interne en externe actoren die betrokken zijn bij het ontwikkelen, inkopen en gebruik moeten over voldoende expertise en capaciteit beschikken om hun taken naar behoren uit te voeren.
+- Dit is sterk afhankelijk van de specifieke toepassing en de (eerste) inzichten die voortkomen uit risicoanalyses. Hoe complexer en risicovoller de toepassing, des te meer expertise en capaciteit noodzakelijk is. 
+- [Interne en externe actoren die betrokken zijn bij het ontwikkelen](/betrek_belanghebbenden), inkopen en gebruik moeten over voldoende expertise en capaciteit beschikken om hun taken naar behoren uit te voeren.
 - Stel vast of er afhankelijkheden van externe aanbieders ontstaan.  
 - Bepaal voorafgaand aan het (laten)ontwikkelen of inkopen van algoritmes en AI-systemen of voldoende expertise en capaciteit beschikbaar is om tot een verantwoorde inzet ervan te komen.
 - Leg de keuze of er voldoende expertise en capaciteit beschikbaar is vast en onderbouw dit in projectdocumentatie.      

@@ -13,7 +13,6 @@ bouwblok:
 - governance
 rollen:
 - proceseigenaar
-- verwerkersverantwoordelijke
 - privacy-officer
 
 hide:

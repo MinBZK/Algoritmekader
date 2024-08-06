@@ -8,7 +8,12 @@ theme:
     logo_text: Algoritmekader [concept]
     font: false 
     palette:
-        - primary: blue
+        - scheme: custom
+          primary: '#154273'
+          accent: '#B9D6EC'
+          background: '#111111'
+          text: '#154273'
+        - primary: custom
     features:
         - navigation.indexes
         - navigation.tabs
@@ -27,6 +32,7 @@ theme:
     icon:
         logo: fontawesome/solid/house
         annotation: fontawesome/solid/circle-info
+    logo: https://overheid.nl/themes/contrib/koopoverheid_theme/logo.svg
 
 nav:
     - Home: index.md

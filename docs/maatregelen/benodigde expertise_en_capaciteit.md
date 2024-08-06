@@ -45,7 +45,7 @@ Bepaal welke expertise en capaciteit noodzakelijk is voor het ontwikkelen, inkop
 - [Interne en externe actoren die betrokken zijn bij het ontwikkelen](/betrek_belanghebbenden), inkopen en gebruik moeten over voldoende expertise en capaciteit beschikken om hun taken naar behoren uit te voeren.
 - Stel vast of er afhankelijkheden van externe aanbieders ontstaan.  
 - Bepaal voorafgaand aan het (laten)ontwikkelen of inkopen van algoritmes en AI-systemen of voldoende expertise en capaciteit beschikbaar is om tot een verantwoorde inzet ervan te komen.
-- Leg de keuze of er voldoende expertise en capaciteit beschikbaar is vast en onderbouw dit in projectdocumentatie.      
+- Leg vast of er voldoende expertise en capaciteit beschikbaar is en onderbouw dit in projectdocumentatie.      
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

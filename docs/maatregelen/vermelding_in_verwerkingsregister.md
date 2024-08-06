@@ -6,19 +6,19 @@ vereiste:
 
 levenscyclus:
 - ontwerp
-- ontwikkel
-- verificatie en validatie
+- ontwikkelen
+- verificatie-en-validatie
 - implementatie
 - monitoring-en-beheer
 - uitfaseren
   
 bouwblok:
 - transparantie
-- privacy_en_gegevensbescherming
+- privacy-en-gegevensbescherming
 rollen:
 - proceseigenaar
 - beleidsmedewerker
-- privacy officer
+- privacy-officer
 - aanbieder
   
 hide:

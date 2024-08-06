@@ -22,7 +22,7 @@ bouwblok:
 rollen:
 - proceseigenaar
 - beleidsmedewerker
-- informatieanalist
+- informatie-analist
 - jurist
 - ethicus
 - data-engineer

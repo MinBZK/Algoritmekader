@@ -9,10 +9,9 @@ vereiste:
 - toezichtmogelijkheden_voor_gebruikers
   
 levenscyclus:
-- ontwikkelen
 - ontwerp
-- ontwikkel
-- verificatie_en_validatie
+- ontwikkelen
+- verificatie-en-validatie
 - implementatie
 - monitoring-en-beheer
 bouwblok:

@@ -15,9 +15,9 @@ bouwblok:
 rollen:
 - proceseigenaar
 - aanbieder
-- data engineer
-- data scientist
-- security officer
+- data-engineer
+- data-scientist
+- security-officer
 hide:
 - navigation
 ---

@@ -78,3 +78,7 @@ Bij het onjuist of onvolledig publiceren in het Algortimeregister ontstaat er ee
 	<!-- list_maatregelen vereiste/algoritmeregister boubwlok/governance -->
 === "Publieke inkoop"
 	<!-- list_maatregelen vereiste/algoritmeregister bouwblok/publieke-inkoop -->
+
+## Instrumenten
+
+<!-- list_instrumenten vereiste/algoritmeregister -->

@@ -27,3 +27,7 @@ Door deze vereisten in de levenscyclus te integreren, kunnen de gebruikers inzic
 ## Maatregelen
 
 <!-- list_maatregelen bouwblok/privacy-en-gegevensbescherming-->
+
+## Instrumenten
+
+<!-- list_instrumenten bouwblok/privacy-en-gegevensbescherming -->

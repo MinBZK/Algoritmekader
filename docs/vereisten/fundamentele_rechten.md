@@ -64,3 +64,7 @@ Grondrechten kunnen worden aangetast door de inzet van algoritmes
 	<!-- list_maatregelen vereiste/fundamentele_rechten boubwlok/governance -->
 === "Publieke inkoop"
 	<!-- list_maatregelen vereiste/fundamentele_rechten bouwblok/publieke-inkoop -->
+
+## Instrumenten
+
+<!-- list_instrumenten vereiste/fundamentele_rechten -->

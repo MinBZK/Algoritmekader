@@ -11,6 +11,7 @@ levenscyclus:
 - implementatie
 bouwblok:
 - fundamentele-rechten
+- transparantie
 rollen:
 - projectleider
 - aanbieder

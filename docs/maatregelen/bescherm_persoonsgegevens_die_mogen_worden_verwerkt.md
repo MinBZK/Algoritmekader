@@ -30,7 +30,7 @@ Pas maatregelen toe als pseudonimiseren, anonimisering of aggregeren van persoon
 ## Toelichting
 - Als is vastgesteld welke persoonsgegevens mogen worden verwerkt voor het ontwikkelen en gebruiken van algoritmes en AI-systemen, moet worden nagegaan of er maatregelen kunnen worden getroffen om deze te beschermen.
 - Hierbij kan worden gedacht aan het pseudonomiseren, anonimiseren of aggregeren van persoonsgegevens.
-- Het bepalen of persoonsgegevens al dan niet mogen worden verwerkt voor het ontwikkelen en gebruiken van algoritmes en AI-systemen moet in samenhang worden bekeken met maatregelen die kunnen worden getroffen om deze gegevens te beschermen. 
+- Het bepalen of persoonsgegevens mogen worden verwerkt voor algoritmes en AI-systemen moet worden bekeken in samenhang met maatregelen die kunnen worden getroffen om deze gegevens te beschermen. 
 
 
 ## Bijbehorende vereiste(n)

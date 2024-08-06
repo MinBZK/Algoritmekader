@@ -39,7 +39,7 @@ Voer een Project Startarchitectuur (PSA) uit als algoritmes of AI-systemen worde
 - De PSA richt zich daarbij op de kaders die op een project van toepassing zijn en wat de oplossing bijdraagt aan het realiseren van de gewenste, toekomstige architectuur, wat de implicaties zullen zijn voor bestaande voorzieningen en waar het project zal afwijken van bestaande beelden.
 - Met de PSA wordt een concreet en doelgericht ICT-architectuurkader opgesteld, waarbinnen het project moet worden uitgevoerd. 
 - De PSA maakt concreet wat architectuur voor een project betekent.
-- Door een PSA uit te voeren ontstaan inzichten hoe het betreffende algoritme of AI-systeem zo optimaal mogelijk onderdeel kan worden gemaakt van het bestaande applicatielandschap, waarmee bijvoorbeeld kan worden voorkomen dat het algoritme of AI-systeem na verloop van tijd geen input meer kan ontvangen door onverwachte wijzigingen aan een zaaksysteem.
+- Door een PSA uit te voeren ontstaan inzichten hoe het betreffende algoritme of AI-systeem zo optimaal mogelijk onderdeel kan worden gemaakt van het bestaande applicatielandschap, waarmee bijvoorbeeld kan worden voorkomen dat het algoritme of AI-systeem na verloop van tijd geen input meer kan ontvangen door onverwachte wijzigingen in systemen.
 - Onderwerpen als privacy, informatiebeheer en beheer worden hierin ook globaal meegenomen. 
   
 ## Bijbehorende vereiste(n)

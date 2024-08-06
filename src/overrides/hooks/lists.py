@@ -59,7 +59,6 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 *[_create_table_row_2(item) for item in list],
                 "</tbody>",
                 "</table>",
-                "<script src='filter.js'></script>",
             ]
         )
 
@@ -92,6 +91,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
 
         return "".join(
             [
+                '<div class="filter-container">',
                 '<input type="text" id="filterInput" onkeyup="filterTable()" placeholder="Zoek op maatregel...">',
                 '<select id="filterSelect" onchange="filterTable()">',
                 '<option value="">Filter op rol...</option>',
@@ -101,6 +101,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 '<option value="">Filter op levenscyclus...</option>',
                 *(f'<option value="{lc}">{lc}</option>' for lc in levenscyclus),
                 "</select>",
+                "</div>",
                 "<table id='myTable'>",
                 "<thead>",
                 "<tr>",
@@ -114,7 +115,6 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 *[_create_table_row_2(item) for item in list],
                 "</tbody>",
                 "</table>",
-                "<script src='filter.js'></script>",
             ]
         )
 
@@ -169,7 +169,6 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 *[_create_table_row_2(item) for item in list],
                 "</tbody>",
                 "</table>",
-                "<script src='filter.js'></script>",
             ]
         )
 

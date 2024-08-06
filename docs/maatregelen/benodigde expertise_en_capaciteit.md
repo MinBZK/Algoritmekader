@@ -1,22 +1,14 @@
 ---
-# vul hier een titel in voor deze maatregel
 title: Bepaal welke expertise en capaciteit noodzakelijk is voor het ontwikkelen, inkopen en gebruiken van algoritmes en AI-systemen en stel vast of er voldoende expertise en capaciteit beschikbaar is.
-# geef hier een korte toelichting van deze maatregel
 toelichting: De capaciteit en deskundigheid bij de ontwikkeling, het inkopen en gebruiken van algoritme en AI-systemen moet toereikend zijn om tot een verantwoorde toepassing te komen.
-# vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
 - zorgvuldigheidsbeginsel
-
-# vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 
 - probleemanalyse
 - ontwerp
 - ontwikkelen
-# vul hier de bouwblokken in die horen bij deze maatregel
 bouwblok: 
 - governance
-
-# geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn
 rollen:
 - proceseigenaar
 - behoeftesteller
@@ -31,7 +23,6 @@ hide:
 
 ---
 
-<!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->
 <!-- tags -->
 
 ## Maatregel

@@ -1,11 +1,8 @@
 ---
-# vul hier een titel in voor deze maatregel
 title: Betrek belanghebbenden
-# geef hier een korte toelichting van deze maatregel
 toelichting: Breng in kaart welke belanghebbenden er zijn en betrek hen op verschillende momenten in de levenscyclus.
 vereiste:
 - 
-# vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 
 - probleemanalyse
 - ontwerp
@@ -14,10 +11,9 @@ levenscyclus:
 - verificatie-en-validatie
 - implementatie
 - monitoring-en-beheer
-# vul hier de bouwblokken in die horen bij deze maatregel
 bouwblok: 
 - governance
-- fundamentele rechten
+- fundamentele-rechten
 rollen:
 - projectleider
 hide:

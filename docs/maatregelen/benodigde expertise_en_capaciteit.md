@@ -15,8 +15,8 @@ rollen:
 - beleidsmedewerker
 - inkoopadviseur
 - aanbieder
-- data scientist
-- data engineer
+- data-scientist
+- data-engineer
 
 hide:
 - navigation

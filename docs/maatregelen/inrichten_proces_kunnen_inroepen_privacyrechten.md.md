@@ -6,7 +6,7 @@ vereiste:
   
 levenscyclus:
 - ontwerp
-- ontwikkel
+- ontwikkelen
 - verificatie-en-validatie
 - monitoring-en-beheer
 bouwblok:

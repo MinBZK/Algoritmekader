@@ -21,9 +21,9 @@ vereiste:
 
 levenscyclus:
 - ontwerp
-- data verkennen en datapreparatie
-- ontwikkel
-- verificatie en validatie
+- dataverkenning-en-datapreparatie
+- ontwikkelen
+- verificatie-en-validatie
 - implementatie
 - monitoring-en-beheer
 - uitfaseren
@@ -34,12 +34,12 @@ bouwblok:
 rollen:
 - proceseigenaar
 - beleidsmedewerker
-- data engineer
-- data scientist
+- data-engineer
+- data-scientist
 - architect
 - informatiebeheerder
-- privacy officer
-- security officer
+- privacy-officer
+- security-officer
 - ethicus
   
 hide:

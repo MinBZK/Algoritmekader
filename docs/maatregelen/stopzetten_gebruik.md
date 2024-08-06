@@ -25,8 +25,8 @@ vereiste:
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 
 - ontwerp
-- dataverkenning en datapreparatie
-- ontwikkel
+- dataverkenning-en-datapreparatie
+- ontwikkelen
 - verificatie-en-validatie
 - implementatie
 - monitoring-en-beheer
@@ -40,16 +40,16 @@ bouwblok:
 rollen:
 - proceseigenaar
 - beleidsmedewerker
-- data engineer
-- data scientist
+- data-engineer
+- data-scientist
 - architect
 - informatiebeheerder
-- privacy officer
-- security officer
+- privacy-officer
+- security-officer
 - ethicus
 - inkoopadviseur
 - contractbeheerder
-- menselijk toezichthouder
+- menselijk-toezichthouder
 
 hide:
 - navigation

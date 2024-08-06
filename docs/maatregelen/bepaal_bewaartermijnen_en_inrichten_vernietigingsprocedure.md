@@ -1,5 +1,5 @@
 ---
-title: Bepaal de bewaartermijen en richt een vernietigingsprocesdure voor de verwerkte (persoons)gegevens. 
+title: Bepaal de bewaartermijen en richt een vernietigingsprocesdure in voor de verwerkte (persoons)gegevens. 
 toelichting: Zorg ervoor dat de vereisten met betrekking tot bewaartermijnen en de vernietiging correct zijn of worden vertaald naar het algoritme of AI-systeem en de onderliggende systemen. Controleer of deze maatregelen zijn getroffen en zorg dat dit aantoonbaar is.
 vereiste:
 - archiefwet
@@ -26,7 +26,7 @@ hide:
 
 ## Maatregel
 
-Bepaal de bewaartermijen en richt een vernietigingsprocesdure voor de verwerkte (persoons)gegevens.
+Bepaal de bewaartermijen en richt een vernietigingsprocesdure in voor de verwerkte (persoons)gegevens.
 
 ## Toelichting
 

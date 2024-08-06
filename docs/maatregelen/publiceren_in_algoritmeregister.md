@@ -9,7 +9,7 @@ vereiste:
   
 levenscyclus:
 - ontwerp
-- ontwikkel
+- ontwikkelen
 - verificatie-en-validatie
 - implementatie
 - monitoring-en-beheer
@@ -17,6 +17,7 @@ levenscyclus:
   
 bouwblok:
 - transparantie
+
 rollen:
 - proceseigenaar
 - beleidsmedewerker

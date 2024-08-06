@@ -238,8 +238,6 @@ def on_env(env, config: MkDocsConfig, files: Files):
         if not file.src_path.endswith(".md"):
             continue
         
-        print(file)
-        
         # Find and replace all strings in current page to list of vereisten
         file.page.content = re.sub(
             r"<!-- list_vereisten (.*?) -->", replace_vereisten, file.page.content, flags=re.I | re.M

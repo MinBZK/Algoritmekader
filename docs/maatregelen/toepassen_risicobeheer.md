@@ -6,7 +6,7 @@ toelichting: Alle stappen van risicobeheer worden periodiek uitgevoerd en op het
 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
-- automatische logregistratie
+- automatische_logregistratie
 - zorgvuldigheidsbeginsel
 - kwaliteitsbeheersysteem_voor_hoog_risico_ai
 - kwaliteitscriteria_voor_data
@@ -62,8 +62,8 @@ vereiste:
 levenscyclus: 
 - probleemanalyse
 - ontwerp
-- dataverkenning en datapreparatie
-- ontwikkel
+- dataverkenning-en-datapreparatie
+- ontwikkelen
 - verificatie-en-validatie
 - implementatie
 - monitoring-en-beheer
@@ -77,12 +77,12 @@ bouwblok:
 rollen:
 - proceseigenaar
 - beleidsmedewerker
-- data engineer
-- data scientist
+- data-engineer
+- data-scientist
 - architect
 - informatiebeheerder
-- privacy officer
-- security officer
+- privacy-officer
+- security-officer
 - ethicus
 - inkoopadviseur
 

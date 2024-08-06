@@ -5,31 +5,32 @@ title: Maak het leveren van bewijs voor het voldoen aan de vereiste onderdeel va
 toelichting: Door aanbieders bewijs te laten leveren dat zij voldoen aan de vereiste, kan worden beoordeeld in hoeverre daadwerkelijk wordt voldaan aan deze vereiste.
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
-- Recht_op_uitleg_AI-besluiten
+- recht-op-uitleg-AI-besluiten
 - auteursrechten
 - databankenwet
-- bescherming_van_kwetsbare_groepen
-- bevorder_ai_geletterdheid_personeel
-- corrigerende_maatregelen_voor_non_conforme_ai
-- uitzonderlijk_verwerken_ bijzondere_categorieen_persoonsgegevens 
-- fundamentele_rechten
-- kwaliteitsbeheersysteem_voor_hoog_risico_ai
-- kwaliteitscriteria_voor_data
-- beoordelen_gevolgen_voor_grondrechten
-- non_discriminatie
-- minimale_verwerking_van_persoonsgegevens
-- privacy_bij_ontwerp_bij_verwerking_van_persoonsgegevens
-- recht_op_niet_geautomatiseerd_besluitvorming
+- bescherming-van-kwetsbare-groepen
+- bevorder-ai-geletterdheid-personeel
+- corrigerende-maatregelen-voor-non-conforme-ai
+- uitzonderlijk-verwerken- bijzondere-categorieen-persoonsgegevens 
+- fundamentele-rechten
+- kwaliteitsbeheersysteem-voor-hoog-risico-ai
+- kwaliteitscriteria-voor-data
+- beoordelen-gevolgen-voor-grondrechten
+- non-discriminatie
+- minimale-verwerking-van-persoonsgegevens
+- privacy-bij-ontwerp-bij-verwerking-van-persoonsgegevens
+- recht-op-niet-geautomatiseerd-besluitvorming
 - risicobeheersing
-- risicobeoordeling_voor_jongeren_en_kwetsbaren
-- toezichtmogelijkheden_voor_gebruikers
-- traceerbare_besluitvorming
+- risicobeoordeling-voor-jongeren-en-kwetsbaren
+- toezichtmogelijkheden-voor-gebruikers
+- traceerbare-besluitvorming
 - transparantie
-- transparantie_bij_verwerken_persoonsgegevens
-- verplicht_risicobeheersysteem_voor_hoog_risico_ai
-- toegankelijkheidseisen_hoog_risico
-- verstrekking_van_informatie_op_verzoek
-- recht_op_toegang_tot_publieke_informatie
+- transparantie-bij-verwerken-persoonsgegevens
+- verplicht-risicobeheersysteem-voor-hoog-risico-ai
+- toegankelijkheidseisen-hoog-risico
+- verstrekking-van-informatie-op-verzoek
+- recht-op-toegang-tot-publieke-informatie
+
 
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 

@@ -5,19 +5,19 @@ vereiste:
 - dpia_verplicht_bij_hoog_risico
 levenscyclus:
 - ontwerp
-- dataverkenning en datapreparatie
-- ontwikkel
-- verficatie en validatie
+- dataverkenning-en-datapreparatie
+- ontwikkelen
+- verficatie-en-validatie
 - implementatie
 bouwblok:
-- privacy_en_gegevensbescherming
+- privacy-en-gegevensbescherming
 rollen:
 - proceseigenaar
-- data scientist
-- data engineer
+- data-scientist
+- data-engineer
 - aanbieder
-- privacy officer
-- security officer
+- privacy-officer
+- security-officer
 - ethicus
 - beleidsmedewerker
 

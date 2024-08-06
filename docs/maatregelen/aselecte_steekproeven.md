@@ -18,23 +18,38 @@ bouwblok:
 <!-- tags -->
 
 ## Maatregel
-Uitvoeren van aselecte steekproeven aanvullend op risicogestuurde selectie.
+Uitvoeren van aselecte steekproeven als aanvulling wanneer gebruik gemaakt wordt van risicogestuurde selectie.
 
 ## Toelichting 
 <!-- Geef hier een toelichting van deze maatregel -->
 Aselecte steekproeven kunnen een waardevolle toevoeging zijn bij risicogestuurde selectie.
 
-Door aselecte steekproeven te doen naast risicogestuurde selectie kan automation bias beperkt te worden.
-De behandelaar weet dan bij het toewijzen van een casus niet of deze risicogestuurd geselecteerd is of aselect.
-Daardoor wordt beperkt dat een behandelaar met tunnelvisie een zaak bekijkt.
-De behandelaar weet immers dat er tussen de selecties zaken zitten waar niet sprake is van verhoogd risico.
-
-Het toevoegen van aselecte steekproeven maakt het ook mogelijk om over tijd te beoordelen of het algoritme nog voldoende effectief is.
+Het toevoegen van aselecte steekproeven maakt het mogelijk om over tijd te beoordelen of het algoritme nog voldoende effectief is.
 Populaties veranderen immers over tijd. Een selectie die het meest effectief was bij ingebruikname, kan over tijd dat niet meer zijn.
 Door alleen risicogestuurd te selecteren, wordt dit niet inzichtelijk, omdat bepaalde groepen zelden tot nooit gecontroleerd worden.
 Door de aanvullende mogelijkheid van monitoring, kan over tijd beoordeeld worden of er nog steeds sprake is van de meest proportionele vorm.
+Als dat niet zo is, kan bijvoorbeeld gekozen worden voor aanpassing van de risicogestuurde selectie of overgaan op volledig aselect.
 
-Per context zal het verschillen hoeveel zaken aselect geselecteerd moeten worden.
+De maatregel gaat daarmee niet direct discriminatie tegen, omdat er sprake kan zijn van discriminatie ongeacht de effectiviteit van de risicogestuurde selectie.
+Een lagere effectiviteit maakt het echter lastiger het gemaakte onderscheid te rechtvaardigen.
+
+Bij AI-systemen die verder leren op basis van verkregen data kan daarnaast sprake zijn van een reinforcing feedbackloop.
+Het toevoegen van aselecte steekproeven kan deze feedbackloop beperken.
+
+Het is aan te bevelen om, waar mogelijk, behandelaars niet in te lichten of een casus toegewezen is op basis van een risicogestuurd of aselecte selectie.
+Daardoor wordt beperkt dat een behandelaar met tunnelvisie een zaak bekijkt.
+De behandelaar weet immers dat er tussen de selecties zaken zitten waar niet sprake is van verhoogd risico.
+Op die manier kan automation bias beperkt te worden.
+Niet in alle gevallen zal dit mogelijk zijn, omdat de behandelaar ook uit andere aangeleverde gegevens kan halen op basis waarvan een casus geselecteerd is.
+Het is dan belang om op andere wijze de tunnelvisie tegen te gaan.
+
+De precieze inzet van aselecte steekproeven zal afhangen van de context.
+Zo verschilt het per context hoeveel zaken aselect geselecteerd moeten worden.
+Het meest wenselijk is dat de steekproef groot genoeg is dat deze statistisch vergeleken kan worden.
+
+In sommige gevallen zal de impact van een selectie ook dusdanig zijn, dat het zich niet leent voor aselecte steekproef.
+Zo kan een aselecte steekproef wel de basis zijn voor bureauonderzoek, maar mogelijk niet als enige basis voor een huisbezoek.
+Deze belangenenafweging moet per context gemaakt worden.
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

@@ -6,11 +6,11 @@ vereiste:
 levenscyclus:
 - probleemanalyse
 - ontwerp
-- dataverkenning en datapreparatie
-- ontwikkel
+- dataverkenning-en-datapreparatie
+- ontwikkelen
 - implementatie
-- monitoring_en_beheer
-- verficatie_en_validatie
+- monitoring-en-beheer
+- verficatie-en-validatie
 bouwblok:
 - governance
 rollen:

@@ -45,7 +45,7 @@ Beschrijf de rollen en verantwoordelijkheden voor het ontwikkelen en gebruiken v
 - Aanvullend hierop kan het wenselijk zijn om specifieke, gevoelige activiteiten nader uit te werken in concrete taken en verantwoordelijkheden, bijvoorbeeld welke stappen moeten worden gezet om data veilig te leveren ten behoeve van een onderzoek naar onbwuste vooringenomenheid.  
 
 ## Risico
-De sturing en verantwoording is ontoereikend of niet geborgd, waardoor er onvoldoende betrokkenheid of capaciteit van verantwoordelijken, belanghebbenden of deskundigheid is in de organisatie wat de kans vergroot op fouten en ongewenste effecten.
+De sturing en verantwoording is ontoereikend of niet geborgd, waardoor er onvoldoende betrokkenheid of capaciteit is van verantwoordelijken. Ook kan er dan onvoldoende deskundigheid in de organisatie zijn, wat de kans vergroot op fouten en ongewenste effecten.
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

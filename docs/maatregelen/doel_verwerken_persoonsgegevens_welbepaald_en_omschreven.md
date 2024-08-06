@@ -6,15 +6,15 @@ vereiste:
 - zorgvuldigheidsbeginsel  
 levenscyclus:
 - ontwerp
-- dataverkenning en datapreparatie
-- ontwikkel
-- verficatie en validatie
+- dataverkenning-en-datapreparatie
+- ontwikkelen
+- verficatie-en-validatie
 - implementatie
 bouwblok:
-- privacy_en_gegevensbescherming
+- privacy-en-gegevensbescherming
 rollen:
 - proceseigenaar
-- privacy officer
+- privacy-officer
 
 hide:
 - navigation

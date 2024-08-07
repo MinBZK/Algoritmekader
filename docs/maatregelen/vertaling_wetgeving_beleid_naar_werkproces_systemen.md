@@ -39,7 +39,7 @@ Stel vast dat wetgeving en (lokaal) beleid correct is vertaald naar de uitvoerin
  
 ## Toelichting
 - Systemen die overheidsorganisaties inzetten voor bijvoorbeeld het verlenen van subsidies, vergunningen of bijstandsuitkeringen moeten de regels en processtappen volgen die in wetgeving zijn voorgeschreven.
-- Er is een vertaling nodig van deze regels en processtappen naar de uitvoering van het werkproces en onderliggende systemen.
+- Er is een vertaling nodig van deze regels en processtappen naar de uitvoering van het werkproces, het datagebruik en onderliggende systemen.
 - Algoritmes en AI-systemen moeten ook voldoen aan deze regels en processtappen.
 - Als algoritmes of AI-systemen worden ontwikkeld, moet worden onderzocht wat deze regels zijn en hoe deze moeten worden toegepast bij het ontwikkelen van algoritmes of AI-systemen.
 - Het moeten voldoen aan wetgeving en beleid kan dus in zekere zin 'begrenzend' werken op wat mag worden gedaan met algoritmes en AI-systemen. Dit is mede afhankelijk van de risico classificatie van de specifieke toepassing. 

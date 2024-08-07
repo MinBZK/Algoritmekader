@@ -33,7 +33,7 @@ Uitvoeren van een [DPIA](../instrumenten/DPIA.md) en formuleren van mitigerende 
 
 ## Toelichting
 
-- Verifieer of een DPIA over het werkproces is uitgevoerd dat wordt of zal worden ondersteund met een algoritme of AI-systeem.
+- Verifieer of een DPIA is uitgevoerd over het werkproces dat wordt of zal worden ondersteund met een algoritme of AI-systeem.
 - Voer een risico analyse uit om de privacyrisico's met de inzet van algoritmes en AI-systemen in beeld te brengen en bepaal welke impact dit heeft op betrokkenen.
 - Organisatorische en technische maatregelen moeten worden getroffen om persoonsgegevens bij de ontwikkeling en het gebruik van het algoritme of AI-systeem te beschermen.
 - Beleg de mitigerende maatregelen bij betrokken actoren. Denk bijvoorbeeld het toekennen van de maatregelen als anonimiseren en pseudonimiseren van persoonsgegevens aan een data engineer, voordat deze kunnen worden gebruikt ten behoeve van het ontwikkelen of controleren van het algoritme of AI-systeem. 

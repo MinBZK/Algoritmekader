@@ -1,5 +1,5 @@
 ---
-title: Richt (technische) controle mechanismen in voor menselijk tussenkomst waarmee de output van een algoritme of AI-systeem kan worden gecontroleerd.
+title: Richt (technische) controlemechanismen in voor menselijk tussenkomst waarmee de output van een algoritme of AI-systeem kan worden gecontroleerd.
 toelichting: Als algoritme of AI-systemen worden ingezet om te ondersteunen het nemen van beslissingen en besluiten door overheidsorganisaties, kan het noodzakelijk zijn om menselijke tussenkomst in te richten om foutieve output te signaleren en te corrigeren. 
 vereiste:
 - recht_op_niet_geautomatiseerd_besluitvorming

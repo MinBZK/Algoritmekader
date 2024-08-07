@@ -1,5 +1,5 @@
 ---
-title: verplichtingen van aanbieders van AI-modellen voor algemene doeleinden 
+title: Verplichtingen van aanbieders van AI-modellen voor algemene doeleinden 
 toelichting: Aanbieders van AI-modellen voor algemene doeleinden moeten de technische documentatie van het model opstellen en up-to-date houden, inclusief het trainings- en testproces en de resultaten van de evaluatie ervan, die ten minste de in bijlage XI AI verordening vermelde elementen moet bevatten, zodat deze op verzoek aan het AI-bureau en de nationale bevoegde autoriteiten kunnen worden verstrekt.
 status_vereiste:
 - nog-niet-geldend

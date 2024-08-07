@@ -83,7 +83,7 @@ Pas risicobeheer gestructureerd toe voorafgaand en gedurende de ontwikkeling en 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
 - Bepaal tijdig, bijvoorbeeld in de probleemanalyse- of ontwikkelfase, om wat voor toepassing het gaat (algoritme of AI-systeem) en bepaal welke risicoclassificatie hierbij hoort.
-- Bepaal op basis van de toepassing en de risicoclassificatie, welke aspecten van risicobheer moeten worden toegepast.
+- Bepaal op basis van de toepassing en de risicoclassificatie, welke aspecten van risicobeheer moeten worden toegepast.
 - Inventariseer tijdig, bijvoorbeeld in de probleemanalayse- of ontwikkelfase, bij betrokken experts welke beleidskaders en instrumenten binnen de organisatie moeten worden ingezet om risicobeheer toe te passen.
 - Bepaal op basis van de levenscyclus van een algoritme of AI-systeem wanneer welke aspecten van risicobeheer moeten worden toegepast. 
 - Maak inzichtelijk op welke niveaus risicobeheer kan en moet worden belegd bij het ontwikkelen en gebruiken van algoritmes en AI-systemen.

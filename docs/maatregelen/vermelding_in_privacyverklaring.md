@@ -56,7 +56,7 @@ hide:
 <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
-Betrokkenen zijn niet op de hoogte dat hun persoonsgegevens worden verwerkt met een algoritme of AI-systeem, waardoor zij hier geen controle over hebben. 
+Betrokkenen zijn niet op de hoogte dat hun persoonsgegevens worden verwerkt met een algoritme of AI-systeem, waardoor zij hier geen controle over hebben., en zich niet goed kunnen beroepen op hun privacyrechten.
 
 ## Bronnen
 | Bron                                                                                                                                                                     |

@@ -20,7 +20,7 @@ bouwblok:
 rollen:
 - proceseigenaar
 - beleidsmedewerker
-- privacy officer
+- privacy-officer
 - aanbieder
   
 hide:

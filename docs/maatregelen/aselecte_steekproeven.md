@@ -33,7 +33,7 @@ Als dat niet zo is, kan bijvoorbeeld gekozen worden voor aanpassing van de risic
 De maatregel gaat daarmee niet direct discriminatie tegen, omdat er sprake kan zijn van discriminatie ongeacht de effectiviteit van de risicogestuurde selectie.
 Een lagere effectiviteit maakt het echter lastiger het gemaakte onderscheid te rechtvaardigen.
 
-Bij AI-systemen die verder leren op basis van verkregen data kan daarnaast sprake zijn van een reinforcing feedbackloop.
+Bij AI-systemen die verder leren op basis van verkregen data kan daarnaast sprake zijn van een reinforcing feedbackloop, omdat zij geen representatieve data krijgen.
 Het toevoegen van aselecte steekproeven kan deze feedbackloop beperken.
 
 Het is aan te bevelen om, waar mogelijk, behandelaars niet in te lichten of een casus toegewezen is op basis van een risicogestuurd of aselecte selectie.

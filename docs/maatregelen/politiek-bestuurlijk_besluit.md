@@ -45,7 +45,7 @@ Een politieke-bestuurlijk besluit wordt genomen over de inzet van een impactvol 
 <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
-De ambtelijke organisatie maakt politieke-bestuurlijke afwegingen en beslissingen bij de inzet of beëindiging van het gebruik van impactvolle algoritmes en AI-systemen.
+De ambtelijke organisatie maakt politieke-bestuurlijke afwegingen en beslissingen bij de inzet of beëindiging van het gebruik van impactvolle algoritmes en AI-systemen, terwijl deze daar niet toe bevoegd is.
 
 ## Bronnen
 | Bron                                                                                                                                                                     |

@@ -32,7 +32,7 @@ hide:
 ## Toelichting
 
 - Door in een privacyverklaring te vermelden welke persoonsgegevens worden verwerkt voor het gebruik van een algoritme of AI-systeem, wordt een betrokkene geïnformeerd over de verwerking van diens persoonsgegevens.
-- Privacyverklaring kunnen op organistieniveau worden opgesteld en ook voor specifieke situaties.
+- Een privacyverklaring kan op organistieniveau worden opgesteld en ook voor specifieke verwerkingen.
 - In een privacyverklaring wordt in ieder geval het volgende opgenomen:
   
   -  de identiteit en contactgegevens van uw organisatie. En ook die van vertegenwoordiger in de Europese Unie (EU), als deze er zijn.

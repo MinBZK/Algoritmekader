@@ -27,7 +27,7 @@ hide:
 
 ## Maatregel
 
- Neem de ontwikkeling en gebruik van een algoritme of AI-systeem op in de privacyverklaring als hierbij persoonsgegevens worden verwerkt.  
+ Neem het gebruik van een algoritme of AI-systeem op in de privacyverklaring als hierbij persoonsgegevens worden verwerkt.  
 
 ## Toelichting
 

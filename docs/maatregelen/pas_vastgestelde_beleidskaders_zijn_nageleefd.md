@@ -1,5 +1,5 @@
 ---
-title: Pas vastgestelde interne beleidskader toe en maak aantoonbaar dat deze zijn nageleefd bij het ontwikkelen, inkopen en gebruiken van algoritmes en AI-systemen. 
+title: Pas vastgestelde interne beleidskaders toe en maak aantoonbaar dat deze zijn nageleefd bij het ontwikkelen, inkopen en gebruiken van algoritmes en AI-systemen. 
 toelichting: Hierbij kan worden gedacht aan het toepassen van definities, procedures, protocollen die van toepassing zijn binnen de organisatie. 
 vereiste:
 - zorgvuldigheidsbeginsel

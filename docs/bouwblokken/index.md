@@ -8,35 +8,69 @@ hide:
 ---
 # Onderwerpen
 
-## [Bias en non-discriminatie](https://minbzk.github.io/Algoritmekader/bouwblokken/bias-en-non-discriminatie/)
-Hulp bij het voorkomen van bias en discriminatie in algoritmes en AI. Met aanbevelingen en hulpmiddelen zoals het Fairness Handbook.
+<div class="grid cards" markdown>
 
-## [Data](https://minbzk.github.io/Algoritmekader/bouwblokken/data/)
-Hulp bij het verantwoord selecteren en verwerken van data voor je algoritmes en AI-systemen. Gebruik bijvoorbeeld de toolbox verantwoord datagebruik.
+-   [Bias en non-discriminatie](bias-en-non-discriminatie/index.md)
 
-## [Duurzaamheid](https://minbzk.github.io/Algoritmekader/bouwblokken/duurzaamheid/)
-Hulp bij het maken van duurzame keuzes voor hardware en software. Bijvoorbeeld voor de aanschaf van apparaten of het energieverbruik van trainen en data-opslag.
+    ---
 
-## [Governance](https://minbzk.github.io/Algoritmekader/governance/)
-Hulp bij het verantwoordelijk omgaan met algoritmes en AI-systemen. Bijvoorbeeld het vastleggen van rollen en verantwoordelijkheden.
+    Hulp bij het voorkomen van bias en discriminatie in algoritmes en AI. Met aanbevelingen en hulpmiddelen zoals het Fairness Handbook.
 
-## [Grondrechten](https://minbzk.github.io/Algoritmekader/bouwblokken/fundamentele-rechten/)
-Hulp bij het beschermen van grondrechten en mensenrechten in algoritmes of AI. Bijvoorbeeld het beoordelen van de gevolgen per grondrecht.
+-   [Data](data/index.md)
+    
+    ---
 
-## [Menselijke controle](https://minbzk.github.io/Algoritmekader/bouwblokken/menselijke-controle/)
-Hulp bij de controle als mens over algoritmes en AI-systemen. Bijvoorbeeld kunnen ingrijpen bij onbetrouwbare resultaten.
+    Hulp bij het verantwoord selecteren en verwerken van data voor je algoritmes en AI-systemen. Gebruik bijvoorbeeld de toolbox verantwoord datagebruik.
 
-## [Privacy en gegevens](https://minbzk.github.io/Algoritmekader/bouwblokken/privacy-en-gegevensbescherming/)
-Hulp bij verantwoord gebruik van gegevens voor algoritmes en AI-systemen, zoals persoonsgegevens en privacygevoelige gegevens.
+-   [Duurzaamheid](duurzaamheid/index.md)
+    
+    ---
 
-## [Publieke inkoop](https://minbzk.github.io/Algoritmekader/bouwblokken/publieke-inkoop/)
-Hulp bij het publiek inkopen van software met algoritmen en AI. Met hulpmiddelen zoals modelcontracten en de PIANOo-handreiking Inkoop van algoritmes en AI.
+    Hulp bij het maken van duurzame keuzes voor hardware en software. Bijvoorbeeld voor de aanschaf van apparaten of het energieverbruik van trainen en data-opslag.
 
-## [Technische robuustheid en veiligheid](https://minbzk.github.io/Algoritmekader/bouwblokken/technische-robuustheid-en-veiligheid/)
-Hulp bij het bewaken van de prestaties van algoritmes en AI. En beveiliging van de systemen tegen bijvoorbeeld cyberaanvallen.
+-   [Governance](governance/index.md)
+    
+    ---
 
-## [Transparantie](https://minbzk.github.io/Algoritmekader/bouwblokken/transparantie/)
-Hulp bij transparant zijn over algoritmes en AI-systemen, zoals gebruikers informeren en publiceren in het algoritmeregister.
+    Hulp bij het verantwoordelijk omgaan met algoritmes en AI-systemen. Bijvoorbeeld het vastleggen van rollen en verantwoordelijkheden.
+
+-   [Grondrechten](fundamentele-rechten/index.md)
+    
+    ---
+
+    Hulp bij het beschermen van grondrechten en mensenrechten in algoritmes of AI. Bijvoorbeeld het beoordelen van de gevolgen per grondrecht.
+
+-   [Menselijke controle](menselijke-controle/index.md)
+    
+    ---
+
+    Hulp bij de controle als mens over algoritmes en AI-systemen. Bijvoorbeeld kunnen ingrijpen bij onbetrouwbare resultaten.
+
+-   [Privacy en gegevens](privacy-en-gegevensbescherming/index.md)
+    
+    ---
+
+    Hulp bij verantwoord gebruik van gegevens voor algoritmes en AI-systemen, zoals persoonsgegevens en privacygevoelige gegevens.
+
+-   [Publieke inkoop](publieke-inkoop/index.md)
+    
+    ---
+
+    Hulp bij het publiek inkopen van software met algoritmen en AI. Met hulpmiddelen zoals modelcontracten en de PIANOo-handreiking Inkoop van algoritmes en AI.
+
+-   [Technische robuustheid en veiligheid](technische-robuustheid-en-veiligheid/index.md)
+    
+    ---
+
+    Hulp bij het bewaken van de prestaties van algoritmes en AI. En beveiliging van de systemen tegen bijvoorbeeld cyberaanvallen.
+
+-   [Transparantie](transparantie/index.md)
+    
+    ---
+
+    Hulp bij transparant zijn over algoritmes en AI-systemen, zoals gebruikers informeren en publiceren in het algoritmeregister.
+
+</div>
 
 ## Help ons deze pagina te verbeteren
 Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/bouwblokken/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

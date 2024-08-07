@@ -38,7 +38,7 @@ Uitvoeren van een [DPIA](../instrumenten/DPIA.md) en formuleren van mitigerende 
 - Organisatorische en technische maatregelen moeten worden getroffen om persoonsgegevens bij de ontwikkeling en het gebruik van het algoritme of AI-systeem te beschermen.
 - Beleg de mitigerende maatregelen bij betrokken actoren. Denk bijvoorbeeld het toekennen van de maatregelen als anonimiseren en pseudonimiseren van persoonsgegevens aan een data engineer, voordat deze kunnen worden gebruikt ten behoeve van het ontwikkelen of controleren van het algoritme of AI-systeem. 
 - Monitor de voortgang op het realiseren van de maatregelen en zorg voor bewijsstuken als deze zijn gerealiseerd. Deze bewijsstukken kunnen onderdeel worden van een audit.
-- Als er een noodzaak is om na verloop van tijd meer persoonsgegevens te werken of om andere verwerkingen uit te voeren, zal opnieuw een beoordeling moeten plaatsvinden of er privacyrisico's ontstaan en hoe deze kunnen worden gemitigeerd. Gedurende de levenscyclus van het algoritme of AI-systeem moet haandacht voor blijven voor het uitvoeren van de risicoanalyse voor privacyrisico's.
+- Als er een noodzaak is om na verloop van tijd meer persoonsgegevens te verwerken of om andere verwerkingen uit te voeren, zal opnieuw een beoordeling moeten plaatsvinden of er privacyrisico's ontstaan en hoe deze kunnen worden gemitigeerd. Gedurende de levenscyclus van het algoritme of AI-systeem moet aandacht blijven voor het uitvoeren van de risicoanalyse voor privacyrisico's.
 
 
 ## Bijbehorende vereiste(n)

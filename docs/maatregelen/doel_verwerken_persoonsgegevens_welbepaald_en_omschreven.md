@@ -25,7 +25,7 @@ hide:
 
 ## Maatregel
 
-Het doel voor het verwerken van persoonsgegevens met een algoritme of AI-systeem is welbepaalde en omschreven.
+Het doel voor het verwerken van persoonsgegevens met een algoritme of AI-systeem is welbepaald en omschreven.
 
 ## Toelichting
 

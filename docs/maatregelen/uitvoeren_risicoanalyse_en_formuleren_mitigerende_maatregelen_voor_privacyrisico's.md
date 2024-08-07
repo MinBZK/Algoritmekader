@@ -29,7 +29,7 @@ hide:
 
 ## Maatregel
 
-Uitvoeren DPIA en formuleren mitigerende maatregelen. 
+Uitvoeren van een [DPIA](../instrumenten/DPIA.md) en formuleren van mitigerende maatregelen. 
 
 ## Toelichting
 

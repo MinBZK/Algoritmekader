@@ -52,7 +52,7 @@ hide:
  Pas vastgestelde interne beleidskader toe en maak aantoonbaar dat deze zijn nageleefd bij het ontwikkelen, inkopen en gebruiken van algoritmes en AI-systemen.
 
 ## Toelichting
-- Interne vastgestelde beleidskaders moeten worden toegepast bij het ontwikkelen, inkopen of gebruiken algoritmes en AI-systemen.
+- Interne vastgestelde beleidskaders moeten worden toegepast bij het ontwikkelen, inkopen of gebruiken van algoritmes en AI-systemen.
 - Het is van belang dat tijdig, bijvoorbeeld in de probleemanalyse fase, inzichtelijk wordt gemaakt welke interne beleidskaders moeten worden toegepast.
 - Hierbij kan worden gedacht aan definities die moet worden gehanteerd, het naleven van inkoopbeleid, strategisch beleid volgen met betrekking tot het mogen inzetten van algoritmes en AI-systemen binnen de organisaties of het doorlopen van processen en protocollen die moeten worden toegepast.
 - Vraag de betrokken experts welke beleidskaders van toepassing zijn vanuit diens specifieke expertise. 

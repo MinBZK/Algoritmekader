@@ -42,7 +42,7 @@ hide:
 - Er is een Handreiking Algoritmeregister opgesteld met informatie over het publiceren van algoritmes en AI-systemen in het Algoritmeregister.
 - De Algoritmeregister Publicatiestandaard kan overheidsorganisaties ondersteunen bij het helpen invullen van het Algoritmeregister.
 - Er zijn gevallen waarin het publiceren van algoritmes of AI-systemen in het Algoritmeregister achterwege moet blijven. Deze gevallen zijn beschreven in de Handreiking van het Algoritmeregister.
-- Impactvolle algoritme en hoog risico AI-systemen moet al tijdens de ontwikkeling ervan worden gepubliceerd in het Algoritmeregister. 
+- Impactvolle algoritmes en hoog risico AI-systemen moet al tijdens de ontwikkeling ervan worden gepubliceerd in het Algoritmeregister. 
     
   ## Bijbehorende vereiste(n)
 

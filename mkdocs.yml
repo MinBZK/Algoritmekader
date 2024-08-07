@@ -1,16 +1,13 @@
-### Site metadata ###
-
+# Existing mkdocs.yml content
 site_name: Algoritmekader [concept]
 site_description: Concept van het algoritmekader. Het doel daarvan is om overheden op praktische wijze te ondersteunen, zodat zij op een wettige en ethisch verantwoorde wijze algoritmes en AI-systemen gebruiken.
-watch:
-    - includes/
 
-### theme settings ###
 theme: 
     name: material
     language: nl
     logo_text: Algoritmekader [concept]
     font: false 
+    custom_dir: overrides
     palette:
         - scheme: custom
           primary: '#154273'
@@ -38,34 +35,39 @@ theme:
         annotation: fontawesome/solid/circle-info
     logo: https://overheid.nl/themes/contrib/koopoverheid_theme/logo.svg
 
-# Navigation for the site 
 nav:
     - Home: index.md
-    - Over het algoritmekader: 
-        - overhetalgoritmekader/index.md
-        - overhetalgoritmekader/definities.md
-        - overhetalgoritmekader/CONTRIBUTING.md
+    - Over het algoritmekader:
+        - Overzicht: overhetalgoritmekader/index.md
+        - Definities: overhetalgoritmekader/definities.md
+        - Contributie: overhetalgoritmekader/CONTRIBUTING.md
     - Levenscyclus:
-        - levenscyclus/index.md 
-        - levenscyclus/probleemanalyse.md
-        - levenscyclus/ontwerp.md
-        - levenscyclus/dataverkenning-en-datapreparatie.md
-        - levenscyclus/ontwikkelen.md
-        - levenscyclus/verificatie-en-validatie.md
-        - levenscyclus/implementatie.md
-        - levenscyclus/monitoring-en-beheer.md
-        - levenscyclus/uitfaseren.md
-    - Bouwblokken:
-        - bouwblokken/index.md
-        - ... | bouwblokken/*/*.md
-    - Rollen:
-        - ... | rollen/*.md
-    - Vereisten:
-        - ... | vereisten/*.md
-    - Maatregelen:
-        - ... | maatregelen/*.md
-    - Instrumenten:
-        - ... | instrumenten/*.md
+        - Overzicht: levenscyclus/index.md
+        - Probleemanalyse: levenscyclus/probleemanalyse.md
+        - Ontwerp: levenscyclus/ontwerp.md
+        - Dataverkenning en Datapreparatie: levenscyclus/dataverkenning-en-datapreparatie.md
+        - Ontwikkelen: levenscyclus/ontwikkelen.md
+        - Verificatie en Validatie: levenscyclus/verificatie-en-validatie.md
+        - Implementatie: levenscyclus/implementatie.md
+        - Monitoring en Beheer: levenscyclus/monitoring-en-beheer.md
+        - Uitfaseren: levenscyclus/uitfaseren.md
+    - Bouwblokken: 
+        - Overzicht: bouwblokken/index.md
+        - Bias en non discriminatie: bouwblokken/bias-en-non-discriminatie/index.md
+        - Data: bouwblokken/data/index.md
+        - Duurzaamheid: bouwblokken/duurzaamheid/index.md
+        - Fundamentele rechten: bouwblokken/fundamentele-rechten/index.md
+        - Mensenlijke controle: bouwblokken/menselijke-controle/index.md
+        - Privacy en gegevensbescherming: bouwblokken/privacy-en-gegevensbescherming/index.md
+        - Publieke inkoop: bouwblokken/publieke-inkoop/index.md
+        - Technische robuustheid en veiligheid: bouwblokken/technische-robuustheid-en-veiligheid/index.md
+        - Transparantie: bouwblokken/transparantie/index.md
+    - Rollen: rollen/index.md
+    - Vereisten: vereisten/index.md
+    - Maatregelen: maatregelen/index.md
+    - Instrumenten: instrumenten/index.md
+
+
 
 # Extra opties
 markdown_extensions: 
@@ -103,6 +105,7 @@ extra:
 
 extra_css:
   - stylesheets/extra.css
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
 
 extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js

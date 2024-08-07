@@ -1,68 +1,66 @@
+/* Existing CSS for fonts, badges, and other components */
 @font-face {
   font-family: "ROsanswebtextregular";
   src: url("fonts/ROsanswebtextregular.woff") format('truetype');
 }
 
 .mdx-badge {
-    font-size: .85em;
-    display: inline-block;
-    margin: .2rem .3rem;
+  font-size: .85em;
+  display: inline-block;
+  margin: .2rem .3rem;
 }
 
 .mdx-badge__icon {
-    border-top-left-radius: .1rem;
-    border-bottom-left-radius: .1rem;
-
-    background: var(--md-accent-fg-color--transparent);
-    padding: .2rem;
+  border-top-left-radius: .1rem;
+  border-bottom-left-radius: .1rem;
+  background: var(--md-accent-fg-color--transparent);
+  padding: .2rem;
 }
 
 .mdx-badge__text {
-    border-bottom-right-radius: .1rem;
-    border-top-right-radius: .1rem;
-
-    box-shadow: 0 0 0 1px inset var(--md-accent-fg-color--transparent);
-    padding: .2rem .3rem;
+  border-bottom-right-radius: .1rem;
+  border-top-right-radius: .1rem;
+  box-shadow: 0 0 0 1px inset var(--md-accent-fg-color--transparent);
+  padding: .2rem .3rem;
 }
 
 .mdx-badge a {
-    color: var(--md-accent-fg-color);
+  color: var(--md-accent-fg-color);
 }
 
 .md-typeset .grid {
-    grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr))
- }
-
-.md-header{
-background-color: white;
-height: 75px;
- }
-
-.md-tabs{
-background-color: #007bc7;
-border-bottom: 6px solid #B9D6EC;
-color: white 100%;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
 }
 
+.md-header {
+  background-color: white;
+  height: 75px;
+}
 
-.md-header--shadow{
+.md-tabs {
+  background-color: #007bc7;
+  border-bottom: 6px solid #B9D6EC;
+  color: white 100%;
+}
+
+.md-header--shadow {
   box-shadow: none;
 }
 
-.md-tabs__item{
-font-size: 1.5rem;
-  }
+.md-tabs__item {
+  font-size: 1.5rem;
+}
 
-.md-tabs__item--active{
-background-color: white;
-color: #154273;
+.md-tabs__item--active {
+  background-color: white;
+  color: #154273;
 }
 
 p, h1, h2, h3, h4, h5, h6 {
   color: #154273;
 }
 
-h1{
+h1 {
   color: #154273;
 }
 
@@ -130,27 +128,108 @@ tbody tr td a:hover {
 }
 
 :root {
-    --md-admonition-icon--simple: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58 13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42Z"/></svg>');
-    --md-primary-fg-color:        #154273;
-    --md-primary-fg-color--light: #B9D6EC;
-    --md-primary-fg-color--dark:  #154273;
-    --md-text-font: "ROsanswebtextregular";
-    --md-text-font-size: 1.125rem;
-    --md-text-font-color: #154273;
-  }
-  
-  .md-typeset .admonition.simple,
-  .md-typeset details.simple {
-    border-color: rgb(5, 80, 141);
-  }
-  .md-typeset .simple > .admonition-title,
-  .md-typeset .simple > summary {
-    background-color: rgba(185, 185, 185, 0.1);
-  }
-  .md-typeset .simple > .admonition-title::before,
-  .md-typeset .simple > summary::before {
-    background-color: rgb(5, 80, 141);
-    -webkit-mask-image: var(--md-admonition-icon--simple);
-            mask-image: var(--md-admonition-icon--simple);
-  }
-  
+  --md-admonition-icon--simple: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58 13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42Z"/></svg>');
+  --md-primary-fg-color: #154273;
+  --md-primary-fg-color--light: #B9D6EC;
+  --md-primary-fg-color--dark: #154273;
+  --md-text-font: "ROsanswebtextregular";
+  --md-text-font-size: 1.125rem;
+  --md-text-font-color: #154273;
+}
+
+/* Styles for the top navigation */
+.md-nav.md-nav--top {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  background-color: #007bc7;
+  border-bottom: 6px solid #B9D6EC;
+  position: relative;
+}
+
+.md-nav.md-nav--top .md-nav__list {
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.md-nav.md-nav--top .md-nav__item {
+  position: relative;
+  margin-right: 1rem;
+}
+
+.md-nav.md-nav--top .md-nav__link {
+  display: block;
+  padding: 1rem;
+  text-decoration: none;
+  color: white;
+  margin-top: 0;
+}
+
+/* Dropdown Menu Styles for Top Navigation */
+.md-nav.md-nav--top .md-nav__dropdown {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  z-index: 1000; /* Ensure dropdown is above other content */
+}
+
+.md-nav.md-nav--top .md-nav__dropdown-item {
+  padding: 0;
+}
+
+.md-nav.md-nav--top .md-nav__dropdown-link {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: #154273;
+  text-decoration: none;
+}
+
+.md-nav.md-nav--top .md-nav__dropdown-link:hover {
+  background: #f0f0f0;
+}
+
+/* Show dropdown on hover for top navigation */
+.md-nav.md-nav--top .md-nav__item:hover .md-nav__dropdown {
+  display: block;
+}
+/* Active State for Top Navigation */
+.md-nav.md-nav--top .md-nav__item--active > .md-nav__link,
+.md-nav.md-nav--top .md-nav__dropdown-item--active > .md-nav__dropdown-link {
+    background-color: white;
+    color: #007bc7; /* Active link color */
+}
+
+/* Ensure links are styled correctly when active */
+.md-nav.md-nav--top .md-nav__link--active,
+.md-nav.md-nav--top .md-nav__dropdown-link--active {
+    background-color: white;
+    color: #007bc7; /* Active link color */
+}
+
+.md-nav__link {
+  display: flex;
+  align-items: center;
+}
+
+.md-nav__icon {
+  margin-left: 0.5rem; /* Space between text and icon */
+  font-size: 1.2rem; /* Adjust the size of the icon */
+  vertical-align: middle; /* Align the icon with the text */
+}
+
+.md-nav__item--has-children .md-nav__icon {
+  transition: transform 0.3s ease; /* Smooth transition for chevron rotation */
+}
+
+.md-nav__item--has-children:hover .md-nav__icon {
+  transform: rotate(180deg); /* Rotate chevron on hover (optional) */
+}
+

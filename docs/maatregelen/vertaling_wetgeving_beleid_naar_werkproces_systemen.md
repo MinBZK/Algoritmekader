@@ -48,7 +48,7 @@ Stel vast dat wetgeving en (lokaal) beleid correct is vertaald naar de uitvoerin
  
 - Er is een multidisciplinaire samenwerking nodig tussen de proceseigenaar, gebruikers, juristen, informatieanalisten en ontwikkelaar om deze vertaling zorgvuldig en doorlopend te maken.
 - Voorafgaand aan het (laten) ontwikkelen van een algoritme of AI-systeem moet dit zijn uitgevoerd.
-- De toegepaste 'business rules' en de verwerkte data voor de uitvoering van het te ondersteunen werkproces met algoritmes en AI-systemen worden onderzocht en beoordeeld.
+- De toegepaste 'business rules' en de verwerkte data voor de uitvoering van het te ondersteunen werkproces met algoritmes en AI-systemen moeten worden onderzocht en beoordeeld.
 - Diepgaande procesanalyses (Bv. BPMN niveau Analytisch) en procesbeschrijvingen kunnen hierbij ondersteunen. 
 - Als blijkt dat een werkproces niet (meer) conform (gewijzigde) wetgeving of beleid wordt uitgevoerd, dan moet worden beoordeeld of de verworven data of welke deel van de data geschikt is voor het ontwikkelen een AI-model.
 - Het is dan raadzaam om de uitvoering van het betreffende werkproces en de werking van onderliggende systemen eerst te 'herstellen' en om hiermee een nieuw datafundament te creëeren (eerst een groot aantal zaken behandelen) die later als trainingsdata kan worden gebruikt. 

@@ -34,7 +34,7 @@ Er is een overzicht opgesteld welke persoonsgegevens mogen worden verwerkt en om
 - Bij de persoonsgegevens is aangegeven om wat voor categorie persoonsgegevens het gaat.
 - Per kenmerk is toegelicht waarom deze noodzakelijk is om te verwerken voor het ontwikkelen en gebruiken van het algoritme of AI-systeem.
 - Het principe van dataminimalisatie is toegepast, wat betekent dat een keuze is gemaakt of een persoonsgegevens al dan niet strikt noodzakelijk is om het doel te bereiken of dat verwerking ervan achterwege kan blijven.
-- Voor het beschermen van deze persoonsgegevens wordt per kenmerk aangegeven op welke manier deze kan worden beschermd (anonimiseren, pseudonomiseren, aggregeren). 
+- Voor [het beschermen van deze persoonsgegevens](bescherm_persoonsgegevens_die_mogen_worden_verwerkt.md) wordt per kenmerk aangegeven op welke manier deze kan worden beschermd (anonimiseren, pseudonomiseren, aggregeren). 
 - Een DPIA kan worden gebruikt om bovenstaande activiteiten uit te voeren.
   
 ## Bijbehorende vereiste(n)

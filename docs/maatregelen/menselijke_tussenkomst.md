@@ -44,7 +44,7 @@ Richt (technische) controlemechanismen in voor menselijk tussenkomst waarmee de 
 - Hierbij kan worden gedacht aan het opleggen van een boete in het kader van de Wet administratiefrechtelijke handhaving
 verkeersvoorschriften (Wahv) of het bijstellen van de hoogte van het recht op studiefinanciering op basis van veranderingen in het inkomen van een van de ouders.
 - Er zullen technische en organisatorische maatregelen moeten worden getroffen om menselijke tussenkomst in te richten.
-- Dit is ook het geval als een (externe) aanbieder algorimtes of AI-systemen levert. De gebruiksverantwoordelijk zal dan samen met aanbieder moeten onderzoeken hoe menselijke tussenkomst betekenisvol moet worden ingericht. 
+- Dit is ook het geval als een (externe) aanbieder algorimtes of AI-systemen levert. De gebruiksverantwoordelijke zal dan samen met aanbieder moeten onderzoeken hoe menselijke tussenkomst betekenisvol moet worden ingericht. 
 
 
 ## Bijbehorende vereiste(n)

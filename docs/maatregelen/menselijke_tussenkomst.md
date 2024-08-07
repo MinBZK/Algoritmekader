@@ -27,7 +27,7 @@ hide:
 
 <!-- tags -->
 ## Maatregel
-Richt (technische) controle mechanismen in voor menselijk tussenkomst waarmee de output van een algorimte of AI-systeem kan worden gecontroleerd.
+Richt (technische) controlemechanismen in voor menselijk tussenkomst waarmee de output van een algoritme of AI-systeem kan worden gecontroleerd.
 
 
 ## Toelichting

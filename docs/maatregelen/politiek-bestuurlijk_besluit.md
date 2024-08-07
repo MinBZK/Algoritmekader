@@ -1,6 +1,6 @@
 ---
 title: Een politieke-bestuurlijk besluit wordt genomen over de inzet van een impactvol algoritme en hoog risico AI-systemen. 
-toelichting: Door een politiek-bestuurlijk besluit te nemen over de inzet van een impactvolle algoritme of hoog risico AI-systeem, wordt een afweging en keuze gemaakt over de wenselijkheid, haalbaarheid, transparantie en eventueel de mate van onbewuste vooringenomen van het betreffende algoritme of AI-systeem. Een openbaar besluit draagt ook bij aan de controleerbaarheid van overheidsorganisatie. 
+toelichting: Door een politiek-bestuurlijk besluit te nemen over de inzet van een impactvol algoritme of hoog risico AI-systeem, wordt een afweging en keuze gemaakt over de wenselijkheid, haalbaarheid, transparantie en eventueel de mate van onbewuste vooringenomheid van het betreffende algoritme of AI-systeem. Een openbaar besluit draagt ook bij aan de controleerbaarheid van een overheidsorganisatie. 
 vereiste:
 - zorgvuldigheidsbeginsel
 - transparantie

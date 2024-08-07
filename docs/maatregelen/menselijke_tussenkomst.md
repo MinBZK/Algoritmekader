@@ -33,7 +33,7 @@ Richt (technische) controlemechanismen in voor menselijk tussenkomst waarmee de 
 ## Toelichting
 
 - Algoritmes en AI-systemen worden vaak ingezet om beslissingen of besluitvorming van overheidsorganisaties te ondersteunen.
-- Als overheidsorganisaties beslissingen of besluiten nemen, kan dit rechtsvolgen hebben op een betrokkene of deze op een andere manier in aanmerkelijke mate treffen. 
+- Als overheidsorganisaties beslissingen of besluiten nemen, kan dit rechtsgevolgen hebben voor een betrokkene of deze op een andere manier in aanmerkelijke mate treffen. 
 - Algoritmes en AI-systemen zijn in de meeste gevallen niet foutloos. 
 - Daarom is het van belang dat deze output wordt gecontroleerd door een mens, zodat dit kan worden gecorrigeerd. Dit wordt 'menselijke tussenkomst' genoemd. 
 - Er is sprake van menselijke tussenkomst wanneer het menselijke toezicht op beslissingen of besluitvorming betekenisvol of zinvol is, en niet slechts symbolisch is.

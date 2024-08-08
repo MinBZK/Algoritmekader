@@ -14,11 +14,11 @@ Het beheerteam zorgt ervoor dat dergelijke situaties worden voorkomen of opgelos
 
 ## Vereisten
 
-<!-- list_vereisten levenscyclus/monitoring-en-beheer -->
+<!-- list_vereisten levenscyclus/monitoring-en-beheer no-rol no-levenscyclus -->
 
 ## Maatregelen
 
-<!-- list_maatregelen levenscyclus/monitoring-en-beheer -->
+<!-- list_maatregelen levenscyclus/monitoring-en-beheer no-rol no-levenscyclus -->
 
 
 !!! info "Disclaimer"

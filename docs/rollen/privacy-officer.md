@@ -4,11 +4,11 @@ title: Privacy-officer
 
 ## Vereisten
 
-<!-- list_vereisten rollen/privacy-officer -->
+<!-- list_vereisten rollen/privacy-officer no-rol -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/privacy-officer -->
+<!-- list_maatregelen rollen/privacy-officer no-rol -->
 
 !!! info "Disclaimer"
 

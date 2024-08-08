@@ -23,11 +23,11 @@ Dit besluit betekent dat een akkoord wordt gegeven voor het type algoritme en de
 
 ## Vereisten
 
-<!-- list_vereisten levenscyclus/ontwerp -->
+<!-- list_vereisten levenscyclus/ontwerp no-rol no-levenscyclus -->
 
 ## Maatregelen
 
-<!-- list_maatregelen levenscyclus/ontwerp -->
+<!-- list_maatregelen levenscyclus/ontwerp no-rol no-levenscyclus -->
 
 
 !!! info "Disclaimer"

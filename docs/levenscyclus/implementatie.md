@@ -19,11 +19,11 @@ Waar passend, bijvoorbeeld bij impactvolle of hoog risico AI-systemen wordt dit 
 
 ## Vereisten
 
-<!-- list_vereisten levenscyclus/implementatie -->
+<!-- list_vereisten levenscyclus/implementatie no-rol no-levenscyclus -->
 
 ## Maatregelen
 
-<!-- list_maatregelen levenscyclus/implementatie -->
+<!-- list_maatregelen levenscyclus/implementatie no-rol no-levenscyclus -->
 
 !!! info "Disclaimer"
 

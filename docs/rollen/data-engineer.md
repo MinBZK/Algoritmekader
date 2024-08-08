@@ -4,11 +4,11 @@ title: Data engineer
 
 ## Vereisten
 
-<!-- list_vereisten rollen/data-engineer -->
+<!-- list_vereisten rollen/data-engineer no-rol -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/data-engineer -->
+<!-- list_maatregelen rollen/data-engineer no-rol  -->
 
 !!! info "Disclaimer"
 

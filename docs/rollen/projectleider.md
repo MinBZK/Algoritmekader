@@ -4,11 +4,11 @@ title: Projectleider
 
 ## Vereisten
 
-<!-- list_vereisten rollen/projectleider -->
+<!-- list_vereisten rollen/projectleider no-rol -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/projectleider -->
+<!-- list_maatregelen rollen/projectleider no-rol -->
 
 !!! info "Disclaimer"
 

@@ -22,11 +22,11 @@ Een andere conclusie kan zijn dat het presteert conform verwachting en naar de i
 
 ## Vereisten
 
-<!-- list_vereisten levenscyclus/verificatie-en-validatie -->
+<!-- list_vereisten levenscyclus/verificatie-en-validatie no-rol no-levenscyclus -->
 
 ## Maatregelen
 
-<!-- list_maatregelen levenscyclus/verificatie-en-validatie -->
+<!-- list_maatregelen levenscyclus/verificatie-en-validatie no-rol no-levenscyclus -->
 
 
 !!! info "Disclaimer"

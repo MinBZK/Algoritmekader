@@ -4,11 +4,11 @@ title: Ethicus
 
 ## Vereisten
 
-<!-- list_vereisten rollen/ethicus -->
+<!-- list_vereisten rollen/ethicus no-rol -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/ethicus -->
+<!-- list_maatregelen rollen/ethicus no-rol -->
 
 !!! info "Disclaimer"
 

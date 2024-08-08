@@ -4,11 +4,11 @@ title: Jurist
 
 ## Vereisten
 
-<!-- list_vereisten rollen/jurist -->
+<!-- list_vereisten rollen/jurist no-rol -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/jurist -->
+<!-- list_maatregelen rollen/jurist no-rol -->
 
 !!! info "Disclaimer"
 

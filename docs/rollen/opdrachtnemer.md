@@ -4,11 +4,11 @@ title: Opdrachtnemer
 
 ## Vereisten
 
-<!-- list_vereisten rollen/opdrachtnemer -->
+<!-- list_vereisten rollen/opdrachtnemer no-rol -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/opdrachtnemer -->
+<!-- list_maatregelen rollen/opdrachtnemer no-rol -->
 
 !!! info "Disclaimer"
 

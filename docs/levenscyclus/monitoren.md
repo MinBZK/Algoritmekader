@@ -6,11 +6,11 @@ Het algoritme of AI-model wordt voortdurend gemonitord om ervoor te zorgen dat h
 
 ## Vereisten
 
-<!-- list_vereisten levenscyclus/monitoren -->
+<!-- list_vereisten levenscyclus/monitoren no-rol no-levenscyclus -->
 
 ## Maatregelen
 
-<!-- list_maatregelen levenscyclus/monitoren -->
+<!-- list_maatregelen levenscyclus/monitoren no-rol no-levenscyclus -->
 
 
 !!! info "Disclaimer"

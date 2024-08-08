@@ -4,11 +4,11 @@ title: Opdrachtgever
 
 ## Vereisten
 
-<!-- list_vereisten rollen/opdrachtgever -->
+<!-- list_vereisten rollen/opdrachtgever no-rol -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/opdrachtgever -->
+<!-- list_maatregelen rollen/opdrachtgever no-rol -->
 
 !!! info "Disclaimer"
 

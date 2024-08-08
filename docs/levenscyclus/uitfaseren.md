@@ -20,11 +20,11 @@ Gebruikers moeten hier vooraf over worden geïnformeerd en waar passend, bijvoor
  
 ## Vereisten
 
-<!-- list_vereisten levenscyclus/uitfaseren -->
+<!-- list_vereisten levenscyclus/uitfaseren no-rol no-levenscyclus -->
 
 ## Maatregelen
 
-<!-- list_maatregelen levenscyclus/uitfaseren -->
+<!-- list_maatregelen levenscyclus/uitfaseren no-rol no-levenscyclus -->
 
 !!! info "Disclaimer"
 

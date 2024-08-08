@@ -4,11 +4,11 @@ title: Inkoopadviseur
 
 ## Vereisten
 
-<!-- list_vereisten rollen/inkoopadviseur -->
+<!-- list_vereisten rollen/inkoopadviseur no-rol -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/inkoopadviseur -->
+<!-- list_maatregelen rollen/inkoopadviseur no-rol -->
 
 !!! info "Disclaimer"
 

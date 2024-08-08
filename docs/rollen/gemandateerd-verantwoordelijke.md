@@ -4,11 +4,11 @@ title: Gemandateerd verantwoordelijke(n)
 
 ## Vereisten
 
-<!-- list_vereisten rollen/gemandateerd-verantwoordelijke -->
+<!-- list_vereisten rollen/gemandateerd-verantwoordelijke no-rol -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/gemandateerd-verantwoordelijke -->
+<!-- list_maatregelen rollen/gemandateerd-verantwoordelijke no-rol -->
 
 !!! info "Disclaimer"
 

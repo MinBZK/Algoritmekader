@@ -4,11 +4,11 @@ title: Informatiebeheerder
 
 ## Vereisten
 
-<!-- list_vereisten rollen/informatiebeheerder -->
+<!-- list_vereisten rollen/informatiebeheerder no-rol -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/informatiebeheerder -->
+<!-- list_maatregelen rollen/informatiebeheerder no-rol -->
 
 !!! info "Disclaimer"
 

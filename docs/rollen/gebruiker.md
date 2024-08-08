@@ -4,11 +4,11 @@ title: Gebruiker
 
 ## Vereisten
 
-<!-- list_vereisten rollen/gebruiker -->
+<!-- list_vereisten rollen/gebruiker no-rol -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/gebruiker -->
+<!-- list_maatregelen rollen/gebruiker no-rol -->
 
 !!! info "Disclaimer"
 

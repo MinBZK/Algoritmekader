@@ -17,11 +17,11 @@ Daarnaast zullen tal van (technische) maatregelen moeten worden getroffen zoals 
 
 ## Vereisten
 
-<!-- list_vereisten levenscyclus/ontwikkelen -->
+<!-- list_vereisten levenscyclus/ontwikkelen no-rol no-levenscyclus -->
 
 ## Maatregelen
 
-<!-- list_maatregelen levenscyclus/ontwikkelen -->
+<!-- list_maatregelen levenscyclus/ontwikkelen no-rol no-levenscyclus -->
 
 
 !!! info "Disclaimer"

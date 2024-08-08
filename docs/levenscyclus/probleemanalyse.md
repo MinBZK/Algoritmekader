@@ -15,11 +15,11 @@ Een vastgestelde business case of plan van aanpak vormen veelal de basis om de o
 
 ## Vereisten
 
-<!-- list_vereisten levenscyclus/probleemanalyse -->
+<!-- list_vereisten levenscyclus/probleemanalyse no-rol no-levenscyclus -->
 
 ## Maatregelen
 
-<!-- list_maatregelen levenscyclus/probleemanalyse -->
+<!-- list_maatregelen levenscyclus/probleemanalyse no-rol no-levenscyclus -->
 
 
 !!! info "Disclaimer"

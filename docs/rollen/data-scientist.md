@@ -4,11 +4,11 @@ title: Data scientist
 
 ## Vereisten
 
-<!-- list_vereisten rollen/data-scientist -->
+<!-- list_vereisten rollen/data-scientist no-rol -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/data-scientist -->
+<!-- list_maatregelen rollen/data-scientist no-rol -->
 
 !!! info "Disclaimer"
 

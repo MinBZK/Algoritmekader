@@ -4,11 +4,11 @@ title: Security officer
 
 ## Vereisten
 
-<!-- list_vereisten rollen/security-officer -->
+<!-- list_vereisten rollen/security-officer no-rol  -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/security-officer -->
+<!-- list_maatregelen rollen/security-officer no-rol -->
 
 !!! info "Disclaimer"
 

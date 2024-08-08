@@ -4,11 +4,11 @@ title: Contractbeheerder
 
 ## Vereisten
 
-<!-- list_vereisten rollen/contractbeheerder -->
+<!-- list_vereisten rollen/contractbeheerder no-rol -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/contractbeheerder -->
+<!-- list_maatregelen rollen/contractbeheerder no-rol -->
 
 !!! info "Disclaimer"
 

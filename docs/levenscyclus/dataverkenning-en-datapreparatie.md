@@ -20,11 +20,11 @@ Als de verzamelde data van voldoende kwaliteit is en de vereiste maatregelen zij
 
 ## Vereisten
 
-<!-- list_vereisten levenscyclus/dataverkenning-en-datapreparatie -->
+<!-- list_vereisten levenscyclus/dataverkenning-en-datapreparatie no-rol no-levenscyclus no-rol no-levenscyclus -->
 
 ## Maatregelen
 
-<!-- list_maatregelen levenscyclus/dataverkenning-en-datapreparatie -->
+<!-- list_maatregelen levenscyclus/dataverkenning-en-datapreparatie no-rol no-levenscyclus -->
 
 !!! info "Disclaimer"
 

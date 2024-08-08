@@ -4,11 +4,11 @@ title: Domeinspecialist
 
 ## Vereisten
 
-<!-- list_vereisten rollen/domeinspecialist -->
+<!-- list_vereisten rollen/domeinspecialist no-rol -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/domeinspecialist -->
+<!-- list_maatregelen rollen/domeinspecialist no-rol -->
 
 !!! info "Disclaimer"
 

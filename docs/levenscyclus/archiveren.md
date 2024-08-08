@@ -6,11 +6,11 @@ Wanneer het algoritme of AI-model niet langer nodig is of wordt vervangen door e
  
 ## Vereisten
 
-<!-- list_vereisten levenscyclus/archiveren -->
+<!-- list_vereisten levenscyclus/archiveren no-rol no-levenscyclus-->
 
 ## Maatregelen
 
-<!-- list_maatregelen levenscyclus/archiveren -->
+<!-- list_maatregelen levenscyclus/archiveren no-rol no-levenscyclus-->
 
 !!! info "Disclaimer"
 

@@ -51,7 +51,7 @@ nav:
         - Implementatie: levenscyclus/implementatie.md
         - Monitoring en Beheer: levenscyclus/monitoring-en-beheer.md
         - Uitfaseren: levenscyclus/uitfaseren.md
-    - Bouwblokken: 
+    - Onderwerpen: 
         - Overzicht: bouwblokken/index.md
         - Bias en non discriminatie: bouwblokken/bias-en-non-discriminatie/index.md
         - Data: bouwblokken/data/index.md
@@ -62,10 +62,36 @@ nav:
         - Publieke inkoop: bouwblokken/publieke-inkoop/index.md
         - Technische robuustheid en veiligheid: bouwblokken/technische-robuustheid-en-veiligheid/index.md
         - Transparantie: bouwblokken/transparantie/index.md
-    - Rollen: rollen/index.md
-    - Vereisten: vereisten/index.md
-    - Maatregelen: maatregelen/index.md
-    - Instrumenten: instrumenten/index.md
+    - Rollen:
+        - Overzicht: rollen/index.md
+        - Aanbestedingsjurist: rollen/aanbestedingsjurist.md
+        - Aanbieder: rollen/aanbieder.md
+        - Archiefdeskundige: rollen/archiefdeskundige.md
+        - Behoeftesteller: rollen/behoeftesteller.md
+        - Beleidsmedewerker: rollen/beleidsmedewerker.md
+        - Communicatieadviseur: rollen/communicatieadviseur.md
+        - Contractbeheerder: rollen/contractbeheerder.md
+        - Data-engineer: rollen/data-engineer.md
+        - Data-scientist: rollen/data-scientist.md
+        - Domeinspecialist: rollen/domeinspecialist.md
+        - Ethicus: rollen/ethicus.md
+        - Gebruiker: rollen/gebruiker.md
+        - Gemandateerd-verantwoordelijke: rollen/gemandateerd-verantwoordelijke.md
+        - Informatie-analist: rollen/informatie-analist.md
+        - Informatiebeheerder: rollen/informatiebeheerder.md
+        - Inkoopadviseur: rollen/inkoopadviseur.md
+        - Jurist: rollen/jurist.md
+        - Opdrachtgever: rollen/opdrachtgever.md
+        - Opdrachtnemer: rollen/opdrachtnemer.md
+        - Privacy-officer: rollen/privacy-officer.md
+        - Proceseigenaar: rollen/proceseigenaar.md
+        - Projectleider: rollen/projectleider.md
+        - Security-officer: rollen/security-officer.md
+    - Regels en hulpmiddelen:
+        - Overzicht: regels-en-hulpmiddelen/index.md
+        - Vereisten: vereisten/index.md
+        - Maatregelen: maatregelen/index.md
+        - Instrumenten: instrumenten/index.md
 
 
 

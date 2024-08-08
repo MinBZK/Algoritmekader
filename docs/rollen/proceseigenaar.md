@@ -4,11 +4,11 @@ title: Proceseigenaar
 
 ## Vereisten
 
-<!-- list_vereisten rollen/proceseigenaar -->
+<!-- list_vereisten rollen/proceseigenaar no-rol -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/proceseigenaar -->
+<!-- list_maatregelen rollen/proceseigenaar no-rol -->
 
 !!! info "Disclaimer"
 

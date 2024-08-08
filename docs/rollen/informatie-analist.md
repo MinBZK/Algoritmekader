@@ -4,11 +4,11 @@ title: Informatie analist
 
 ## Vereisten
 
-<!-- list_vereisten rollen/informatie-analist -->
+<!-- list_vereisten rollen/informatie-analist no-rol -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/informatie-analist -->
+<!-- list_maatregelen rollen/informatie-analist no-rol -->
 
 !!! info "Disclaimer"
 

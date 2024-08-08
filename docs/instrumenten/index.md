@@ -15,7 +15,7 @@ Instrumenten helpen bij het op een rij zetten, beoordelen en verbeteren van de k
 
 ## Hoe we instrumenten selecteren
 Instrumenten die het Algoritmekader aanbiedt, zijn:
-- relatief bekend onder rijksambtenaren
+- relatief bekend onder ambtenaren
 - in gebruik door overheid, wetenschap of industrie 
 - vooral positief beoordeeld door gebruikers
 - geschikt voor algoritmes of AI-systemen van overheden

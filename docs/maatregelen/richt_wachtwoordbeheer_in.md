@@ -29,7 +29,7 @@ Richt een formeel wachtwoordbeheer in, waarmee bepaald wordt hoe wachtwoorden wo
 
 ## Toelichting
 
-Er zijn beheersmaatregelen die kunnen helpen bij het zorgen voor een goed wachtwoordbeheer. Deze kunnen worden verwerk in een formeel wachtwoordbeheer.
+Er zijn beheersmaatregelen die kunnen helpen bij het zorgen voor een goed wachtwoordbeheer. Deze kunnen worden verwerkt in een formeel wachtwoordbeheer.
 Denk onder andere aan de volgende maatregelen die opgenomen kunnen worden in een wachtwoordbeheer. (Deze maatregelen komen uit het basisnormenkader [Baseline Informatiebeveiliging Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/) en uit de NIST.)
 - Alle wachtwoorden van gebruikers en beheerders dienen periodiek te worden gewijzigd, met een maximum van 1 jaar (BIO 9.4.3). Initiële wachtwoorden en wachtwoorden die gereset zijn, hebben een maximale geldigheidsduur van 24 uur en moeten bij het eerste gebruik worden gewijzigd.
 - Voor toegang vanuit een onvertrouwde omgeving dient twee-factor authenticatie te worden gebruikt (BIO 9.4.2.1). Als er geen gebruik wordt gemaakt van two-factor authenticatie, is de wachtwoordlengte minimaal 8 posities en complex van samenstelling. In situaties waar geen two-factor authenticatie mogelijk is, wordt minimaal halfjaarlijks het wachtwoord vernieuwd.

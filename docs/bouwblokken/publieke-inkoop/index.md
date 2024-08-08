@@ -16,7 +16,8 @@ Software met algoritmes en AI voor de overheid moet voldoen aan strenge eisen. H
 - uitvoeren van de opdracht, zoals [contractbeheer](https://www.pianoo.nl/nl/inkoopproces/fase-3-uitvoeren/inrichten-en-uitvoeren-van-contractbeheer) en [contractmanagement](https://www.pianoo.nl/nl/inkoopproces/fase-3-uitvoeren/contractmanagement)
 
 ## Aantal eisen verschilt per situatie
-Welke eisen gelden voor jouw inkoopproces, hangt af van: 
+Welke eisen gelden voor jouw inkoopproces, hangt af van:
+
 - technologie van het product: rekenregels, machinelearning of generatieve AI
 - risiconiveau van het product
 - fase in de [levenscyclus](../../Algoritmekader/levenscyclus/) van het project
@@ -29,6 +30,7 @@ Voor risicovolle software moet de opdrachtgever aangeven waar de juridische en e
 
 ### Voorbeeld levenscyclus
 Voor een aanvraag van software met algoritmes of AI zijn 3 opdrachten mogelijk:
+
 - inkoop van een kant-en-klare oplossing
 - aanpassen van een bestaande oplossing
 - ontwikkelen van een nieuwe oplossing

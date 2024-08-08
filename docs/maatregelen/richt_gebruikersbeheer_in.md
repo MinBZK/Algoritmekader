@@ -30,7 +30,7 @@ Richt een gebruikersbeheer in, waarmee bepaald wordt wie toegang heeft tot wat, 
 
 Een goed gebruikersbeheer zorgt ervoor dat accounts en autorisaties beheerst worden aangevraagd, geautoriseerd, gewijzigd en ingetrokken bij indiensttreding, functiewijziging en uitdiensttreding. Ook wordt functievermenging voorkomen bij toegang en gebruik van het algoritme, de data of de uitkomsten van een algoritme.
 
-Er zijn beheersmaatregelen die kunnen helpen bij het zorgen voor een goed gebruikersbeheer. Deze kunnen worden verwerk in een formeel gebruikersbeheer. Denk onder andere aan de volgende maatregelen die opgenomen kunnen worden in een wachtwoordbeheer. (Deze maatregelen komen uit het basisnormenkader [Baseline Informatiebeveiliging Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/).)
+Er zijn enkele maatregelen die kunnen helpen bij het zorgen voor een goed gebruikersbeheer. Deze kunnen worden verwerkt in een formeel gebruikersbeheer. Denk onder andere aan de volgende maatregelen die opgenomen kunnen worden in een wachtwoordbeheer. (Deze maatregelen komen uit het basisnormenkader [Baseline Informatiebeveiliging Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/).)
 
 - Gebruikers en beheerders krijgen slechts toegang tot functionaliteit die zij uit hoofde van hun functie nodig hebben (need to know, need to use). Daartoe is een beschrijving beschikbaar welke rollen en rechten per applicatie bij een functie horen (BIO 6.1.2, 9.2.2 en 9.4).
 - Het verlenen en muteren van accounts en toegangsrechten vindt plaats na goedkeuring door een bevoegde functionaris. Dit aan de hand van een actueel mandaatregister waaruit blijkt welke personen beslissende bevoegdheden hebben voor het verlenen van een bepaald type (niveau) toegangsrechten danwel functieprofielen (BIO 9.2.1.2, 9.2.2.1, 9.4).
@@ -41,6 +41,10 @@ Er zijn beheersmaatregelen die kunnen helpen bij het zorgen voor een goed gebrui
 - Eindgebruikers hebben geen directe toegang tot de onderliggende componenten (zoals de database) (BIO 9.2.3, 13.1.3).
 - Toegangsrechten op onderliggende componenten dienen periodiek, minimaal jaarlijks, geëvalueerd te worden. Dit interval dient te zijn beschreven in het toegangsbeleid en zijn bepaald op basis van het risiconiveau. De uitkomsten van de evaluatie en de opvolging daarvan worden vastgelegd (BIO 9.2.5).
 
+Voor deze maatregelen is het handig alvast te hebben gedacht aan de volgende zaken:
+- Autorisatiematrix en beschrijving rollen/rechten per systeem(laag)
+- Lijst met wijzigingen rollen en bijbehorende goedkeuringen
+- Overzicht aantallen en rechten per (systeem)laag
 
 ## Risico
 Er bestaan meerdere risico's wanneer er geen gebruikersbeheer is:

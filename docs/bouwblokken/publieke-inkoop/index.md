@@ -7,6 +7,7 @@ Maak verantwoorde keuzes als je publiek software inkoopt met algoritmes of AI. Z
 
 ## Verantwoorde keuzes
 Software met algoritmes en AI voor de overheid moet voldoen aan strenge eisen. Houd hier rekening mee in alle stappen van het [Inkoopproces volgens expertisecentrum PIANOo](https://www.pianoo.nl/nl/inkoopproces). Bijvoorbeeld bij het:
+
 - bepalen van de [inkoopbehoefte](https://www.pianoo.nl/nl/inkoopproces/fase-1-voorbereiden/inkoopbehoefte)
 - [vormgeven van een opdracht](https://www.pianoo.nl/nl/inkoopproces/fase-1-voorbereiden/vormgeven-van-een-opdracht)
 - [kiezen van een aanbestedingsprocedure](https://www.pianoo.nl/nl/inkoopproces/fase-1-voorbereiden/kiezen-aanbestedingsprocedure)

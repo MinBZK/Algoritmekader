@@ -7,32 +7,32 @@ hide:
 # Algoritmekader
 Alle regels, tips en hulpmiddelen voor verantwoord gebruik van algoritmes en AI.
 
-[Over het Algoritmekader](https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/)
+[Over het Algoritmekader](overhetalgoritmekader/index.md)
 
 ## Versie 1.4
-Deze website is een testversie. Alle versies ontstaan op een open manier. Iedereen mag [opmerkingen of suggesties](https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/CONTRIBUTING/) geven.
+Deze website is een testversie. Alle versies ontstaan op een open manier. Iedereen mag [opmerkingen of suggesties](overhetalgoritmekader/CONTRIBUTING.md) geven.
 
 ## Wat is een algoritme?
 Vind snel de betekenis van begrippen als algoritme, AI-systeem, hoog-risico-AI en impactvolle algoritmes.
 
-[Woordenlijst](https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/definities/)
+[Woordenlijst](overhetalgoritmekader/definities.md)
 
 ## Voldoen aan de regels
 - [Eisen](https://minbzk.github.io/Algoritmekader/vereisten/)
-- [Aanbevolen maatregelen](https://minbzk.github.io/Algoritmekader/maatregelen/)
-- [Aanbevolen instrumenten](https://minbzk.github.io/Algoritmekader/instrumenten/)
+- [Aanbevolen maatregelen](maatregelen/index.md)
+- [Aanbevolen instrumenten](instrumenten/index.md)
 
 ## Onderwerpen
-- [Bias en non-discriminatie](https://minbzk.github.io/Algoritmekader/bouwblokken/bias-en-non-discriminatie/)
-- [Data verwerken](https://minbzk.github.io/Algoritmekader/bouwblokken/data/)
-- [Duurzaamheid](https://minbzk.github.io/Algoritmekader/bouwblokken/duurzaamheid/)
-- [Governance](https://minbzk.github.io/Algoritmekader/governance/)
-- [Grondrechten](https://minbzk.github.io/Algoritmekader/bouwblokken/fundamentele-rechten/)
+- [Bias en non-discriminatie](bouwblokken/bias-en-non-discriminatie/index.md)
+- [Data verwerken](bouwblokken/data/index.md)
+- [Duurzaamheid](bouwblokken/duurzaamheid/index.md)
+- [Governance](governance/index.md)
+- [Grondrechten](bouwblokken/fundamentele-rechten/index.md)
 - [Levenscyclus van algoritmes en AI](https://minbzk.github.io/Algoritmekader/levenscyclus/)
 - [Menselijke controle](https://minbzk.github.io/Algoritmekader/bouwblokken/menselijke-controle/)
 - [Privacy en gegevensbescherming](https://minbzk.github.io/Algoritmekader/bouwblokken/privacy-en-gegevensbescherming/)
 - [Publieke inkoop](https://minbzk.github.io/Algoritmekader/bouwblokken/publieke-inkoop/)
-- [Robuustheid en veiligheid](https://minbzk.github.io/Algoritmekader/bouwblokken/technische-robuustheid-en-veiligheid/)
+- [Technische robuustheid en veiligheid](https://minbzk.github.io/Algoritmekader/bouwblokken/technische-robuustheid-en-veiligheid/)
 - [Transparantie](https://minbzk.github.io/Algoritmekader/bouwblokken/transparantie/)
 
 

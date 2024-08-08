@@ -12,7 +12,7 @@ Software met algoritmes en AI voor de overheid moet voldoen aan strenge eisen. H
 - [kiezen van een aanbestedingsprocedure](https://www.pianoo.nl/nl/inkoopproces/fase-1-voorbereiden/kiezen-aanbestedingsprocedure)
 - [kiezen van gunningscriteria](https://www.pianoo.nl/nl/inkoopproces/fase-1-voorbereiden/keuze-gunningscriterium-en-opstellen-subgunningscriteria)
 - [specificeren van de inkoopbehoefte](https://www.pianoo.nl/nl/inkoopproces/fase-1-voorbereiden/specificeren) voor het contract
-- uitvoeren van de opdracht, zoals [contractbeheer](https://www.pianoo.nl/nl/inkoopproces/fase-3-uitvoeren/inrichten-en-uitvoeren-van-contractbeheer)) en [contractmanagement](https://www.pianoo.nl/nl/inkoopproces/fase-3-uitvoeren/contractmanagement)
+- uitvoeren van de opdracht, zoals [contractbeheer](https://www.pianoo.nl/nl/inkoopproces/fase-3-uitvoeren/inrichten-en-uitvoeren-van-contractbeheer) en [contractmanagement](https://www.pianoo.nl/nl/inkoopproces/fase-3-uitvoeren/contractmanagement)
 
 ## Aantal eisen verschilt per situatie
 Welke eisen gelden voor jouw inkoopproces, hangt af van: 

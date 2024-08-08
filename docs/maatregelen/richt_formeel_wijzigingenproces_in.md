@@ -31,20 +31,11 @@ Richt een formeel wijzigingenproces in, waarmee bepaald wordt hoe codewijziginge
 
 Er zijn beheersmaatregelen die kunnen helpen bij het zorgen voor een goed wijzigingenproces. Deze kunnen worden verwerk in een formeel wijzigingenproces. Denk onder andere aan de volgende maatregelen. Deze maatregelen komen uit het basisnormenkader [Baseline Informatiebeveiliging Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/).
 
-- Wijzigingen dienen van te voren te zijn geautoriseerd door de
-systeemeigenaar of product owner. (BIO 12.1.2)
-- Wijzigingen worden getest in een andere omgeving dan de
-productieomgeving. (BIO 12.1.4, 14.2.3, 14.2.9, 14.3.1)
-- Wijzigingen worden door de systeemeigenaar of product
-owner goedgekeurd op basis van gedocumenteerde
-testresultaten en pas daarna doorgevoerd in de
-productieomgeving. (BIO 12.1.2, 14.2.2, 14.2.9)
-- Er dient functiescheiding te zijn ingericht tussen het
-aanvragen, goedkeuren en doorvoeren van wijzigingen om
-onbevoegde en onbedoelde wijzigingen te beperken. (BIO 6.1.2, 14.2.2)
-- Er dient periodiek controle plaats te vinden op wijzigingen
-aan het systeem, zodanig dat oneigenlijke wijzigingen worden
-gesignaleerd. (BIO 9.4.4, 12.4.1)
+- Wijzigingen dienen van te voren te zijn geautoriseerd door de systeemeigenaar of product owner. (BIO 12.1.2)
+- Wijzigingen worden getest in een andere omgeving dan de productieomgeving. (BIO 12.1.4, 14.2.3, 14.2.9, 14.3.1)
+- Wijzigingen worden door de systeemeigenaar of product owner goedgekeurd op basis van gedocumenteerde testresultaten en pas daarna doorgevoerd in de productieomgeving. (BIO 12.1.2, 14.2.2, 14.2.9)
+- Er dient functiescheiding te zijn ingericht tussen het aanvragen, goedkeuren en doorvoeren van wijzigingen om onbevoegde en onbedoelde wijzigingen te beperken. (BIO 6.1.2, 14.2.2)
+- Er dient periodiek controle plaats te vinden op wijzigingen aan het systeem, zodanig dat oneigenlijke wijzigingen worden gesignaleerd. (BIO 9.4.4, 12.4.1)
 
 ## Risico
 Als een formeel wijzigingenproces ontbreekt bestaat het risico van ongeautoriseerde toegang, wijziging of beschadiging van de code van het algoritme, of de uitkomsten van het algoritme.

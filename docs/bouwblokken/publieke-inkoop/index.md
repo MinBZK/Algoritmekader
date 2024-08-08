@@ -1,72 +1,125 @@
 ---
 title: Publieke inkoop
-icon: material/cart
+description: 
 ---
+# Publieke inkoop van algoritmes en AI
+Maak verantwoorde keuzes als je publiek software inkoopt met algoritmes of AI. Zo voorkom je tijdens het inkoopproces dat deze software later negatieve gevolgen heeft voor burgers of bedrijven.
 
-![publieke-inkoop](../../afbeeldingen/bouwblokken/publieke-inkoop.jpg "visuele weergave publieke inkoop"){align="right"; width="50%"}
+## Verantwoorde keuzes
+Software met algoritmes en AI voor de overheid moet voldoen aan strenge eisen. Houd hier rekening mee in alle stappen van het [Inkoopproces volgens expertisecentrum PIANOo](https://www.pianoo.nl/nl/inkoopproces). Bijvoorbeeld bij het:
+- bepalen van de [inkoopbehoefte](https://www.pianoo.nl/nl/inkoopproces/fase-1-voorbereiden/inkoopbehoefte)
+- [vormgeven van een opdracht](https://www.pianoo.nl/nl/inkoopproces/fase-1-voorbereiden/vormgeven-van-een-opdracht)
+- [kiezen van een aanbestedingsprocedure](https://www.pianoo.nl/nl/inkoopproces/fase-1-voorbereiden/kiezen-aanbestedingsprocedure)
+- [kiezen van gunningscriteria](https://www.pianoo.nl/nl/inkoopproces/fase-1-voorbereiden/keuze-gunningscriterium-en-opstellen-subgunningscriteria)
+- [specificeren van de inkoopbehoefte](https://www.pianoo.nl/nl/inkoopproces/fase-1-voorbereiden/specificeren) voor het contract
+- uitvoeren van de opdracht, zoals [contractbeheer](https://www.pianoo.nl/nl/inkoopproces/fase-3-uitvoeren/inrichten-en-uitvoeren-van-contractbeheer)) en [contractmanagement](https://www.pianoo.nl/nl/inkoopproces/fase-3-uitvoeren/contractmanagement)
 
-Door middel van publieke inkoop wordt door overheidsinstellingen software ingekocht. Deze software wordt ingekocht om ambtenaren te ondersteunen met hun werkzaamheden om zo maatschappelijk waarden te creëren. Het kan bijvoorbeeld gaan om het inkopen van een systeem waarmee een aanvraag voor een subsidie of vergunning kan worden behandeld. Het virtueel vergaderen of het digitaal samenwerken aan documenten zijn hier ook voorbeelden van. 
+## Aantal eisen verschilt per situatie
+Welke eisen gelden voor jouw inkoopproces, hangt af van: 
+- technologie van het product: rekenregels, machinelearning of generatieve AI
+- risiconiveau van het product
+- fase in de [levenscyclus](../../Algoritmekader/levenscyclus/) van het project
 
-!!! info "Disclaimer"
-    Het Algoritmekader is nog volop in ontwikkeling. Op deze plek willen we vooral aan de slag gaan op een open en transparante wijze. Het is dus niet definitief. Dat betekent dat er dingen opstaan die niet af zijn en soms zelfs fout. Mocht er iets niet kloppen, laat het ons weten via [GitHub](https://github.com/MinBZK/Algoritmekader).
+### Voorbeeld technologie
+Software met generatieve AI mag [geen auteursrechten schenden](../../vereisten/auteursrechten/index.html). Dit zijn programma’s als ChatGPT, Google Bard of Co-Pilot.
+
+### Voorbeeld risiconiveau
+Voor risicovolle software moet de opdrachtgever aangeven waar de juridische en ethische grenzen liggen.
+
+### Voorbeeld levenscyclus
+Voor een aanvraag van software met algoritmes of AI zijn 3 opdrachten mogelijk:
+- inkoop van een kant-en-klare oplossing
+- aanpassen van een bestaande oplossing
+- ontwikkelen van een nieuwe oplossing
+
+Voor een kant-en-klare oplossing moet de leverancier bewijzen dat de software voldoet aan de eisen uit de laatste 2 levenscyclus-fases: [monitoring en beheer](https://minbzk.github.io/Algoritmekader/levenscyclus/monitoring-en-beheer/) en [uitfaseren](https://minbzk.github.io/Algoritmekader/levenscyclus/uitfaseren/). De andere fases zijn niet relevant.
+
+Voor de andere oplossingen moeten opdrachtgevers en leveranciers voldoen aan alle levenscyclus-fasen vanaf de fase [ontwerp](https://minbzk.github.io/Algoritmekader/levenscyclus/ontwerp/).
+
+## Voldoen aan wetten en regels
+<details>
+<summary>Eisen publieke inkoop</summary
+[alle eisen?]
+</details>
+<details>
+<summary>Aanbevolen maatregelen</summary>
 
 
-Software met algoritmen  en AI wordt vaak ontwikkeld door gespecialiseerde aanbieders en bevat steeds meer algoritmen en AI. Het komt ook voor dat de overheid deze technologie zelf ontwikkelt. Deze algoritmen en AI kunnen eenvoudig van aard zijn, zoals het maken van een eenvoudige berekening. Zij kunnen complexer van aard zijn, zoals een voorspelling geven of het genereren van informatie. In het laatste geval kan worden gedacht aan ChatGPT, Google Bard of Co-Pilot.
-Er zijn verschillende type technologieën die vallen onder het bereik van algoritmen en AI. In dit kader drukken we deze uit als ‘rekenregel’, ‘machine learning’ en ‘generatieve AI’. Elke technologie heeft eigen bijzondere aandachtspunten. Ook de bijbehorende risico’s kunnen per type verschillen. Het identificeren van deze risico’s en het treffen van beheersmaatregelen is daarbij van belang. Dat geldt in het bijzonder als algoritmen en AI bijdragen aan de totstandkoming van overheidsbesluitvorming en impactvolle beslissingen die burgers en ondernemingen raken. 
 
-Door bij publieke inkoop van software met algoritmen en AI rekening te houden met vereisten die voorkomen uit wet- en regelgeving, toepassen van publieke waarden, het type algoritme of AI en de potentiële risico’s die ontstaan bij het gebruiken ervan, kunnen negatieve gevolgen worden voorkomen. Publieke inkoop speelt daarom een belangrijke rol bij de totstandkoming van verantwoord ontwikkelde algoritmen en AI en het gebruik daarvan door ambtenaren. 
-In dit deel van het Algoritmekader wordt nader ingegaan op deze vereisten. Er worden suggesties gedaan hoe deze vereisten kunnen worden nageleefd en welke rollen daarbij betrokken kunnen zijn. Waar mogelijk worden concrete voorbeelden uit de praktijk gegeven en zal worden aangegeven bij welk type algoritmen of AI dit relevant is.
 
-Het publiek inkopen van algoritmen en AI wordt ook gekoppeld aan de algoritme levenscyclus. Dit geeft een beeld van wanneer bepaalde vereisten en maatregelen, bij het ontwikkelen van algoritmen en AI, moeten worden geadresseerd. Door deze vereisten ook te vertalen naar het inkoopproces, zullen de rollen binnen het inkoopproces beter in staat zijn om te duiden wanneer en hoe dit kan worden geadresseerd. Dit moet bijdragen aan een goed samenspel met aanbieders, zodat de kansen van algoritmen en AI worden benut en de negatieve gevolgen worden voorkomen.  
 
- 
-## Algoritme levenscyclus
-Algoritmen en AI kunnen een grote impact hebben op onze maatschappij. Daarom is het van belang dat deze op een verantwoorde manier worden ontwikkeld en gebruikt. Het toepassen van de algoritme levenscyclus is hierover een bruikbare leidraad. De algoritme levenscyclus bestaat uit meerdere fasen. De werkzaamheden die noodzakelijk zijn om een verantwoord algoritme of AI te ontwikkelen, kunnen logisch worden gekoppeld aan deze fasen. 
-Deze levenscyclus kan worden gebruikt voor alle typen algoritmen en AI. Het verschilt uiteraard wel per type wat moet worden gedaan en dit is mede afhankelijk van de risico classificatie. Bij hoge risico toepassing zal meer moeten worden gedaan om risico’s te mitigeren dan als er sprake is van lage risico toepassingen. De levenscyclus geeft een bruikbaar overzicht voor leveranciers en opdrachtgevers wanneer welke werkzaamheden moeten worden uitgevoerd. Het laat ook zien welke werkzaamheden moeten zijn afgerond als algoritmen en AI in de markt mogen worden gezet en klaar zijn voor gebruik. 
 
-Bij het publiek inkopen van software met bijbehorende algoritmen en AI zijn de wensen van de behoeftesteller en de doelstellingen van de organisatie van groot belang. Dit kan tot verschillende situaties leiden:
 
-•	Een al ontwikkelde kant-en-klare oplossing voldoet direct aan deze wensen en doelstellingen;
 
-•	Een al ontwikkelde oplossing moet eerst worden aangepast voordat deze kan worden gebruikt;
+- [Aansprakelijkheidsvoorwaarden worden beoordeeld in de aanbesteding](../../maatregelen/aansprakelijkheidsvoorwaarden_aanbieder_onderdeel_beoordelingsmatrix/index.html)
+- [Bepaal of de output bepalende invloed heeft in een besluit richting personen](../../maatregelen/bepalende_invloed_besluit_richting_personen/index.html)
+- [Bespreek de vereiste met aanbieder of opdrachtnemer](../../maatregelen/bespreek_vereiste_met_aanbieder/index.html)
+- [Bewijs laten leveren dat auteursrechten niet worden geschonden met de output](../../maatregelen/leveren_bewijs_niet_schenden_auteursrechten_output/index.html)
+- [Bewijs laten leveren dat auteursrechten niet worden geschonden met de trainingsdata](../../maatregelen/leveren_bewijs_niet_schenden_auteursrechten_output/index.html)
+- [Contractuele afspraken over data en artefacten](../../maatregelen/contractuele_afspraken_data_en_artefacten/index.html)
+- [Creëer ruimte in het contract om opdrachtgever en aanbieder/opdrachtnemer te laten samenwerken om deze vereiste te realiseren](../../maatregelen/creeer_ruimte_voor_samenwerking_in_contract/index.html)
+- [De mate waarin aanbieder kennisoverdracht en ondersteuning bij implementatie biedt is onderdeel van de aanbesteding](../../maatregelen/vaststellen_benodigde_kennisoverdracht_enondersteuning/index.html)
+- [Een model-verwerkersovereenkomst is onderdeel van de aanbesteding als persoonsgegevens worden verwerkt](../../maatregelen/model-verwerkersovereenkomst_onderdeel_aanbesteding/index.html)
+- [Garantie in conceptovereenkomst dat aanbieder auteursrechten niet schendt met de output](../../maatregelen/schending_auteursrechten_output_onderdeel_conceptovereenkomst/index.html)
+- [Garantie in conceptovereenkomst dat auteursrechten niet worden geschonden met de trainingsdata](../../maatregelen/schending_auteursrechten_trainingsdata_onderdeel_conceptovereenkomst/index.html)
+- [Maak de vereiste onderdeel van contractvoorwaarden](../../maatregelen/maak_vereiste_onder_van_contractvoorwaarden/index.html)
+- [Maak de vereiste onderdeel van de contractovereenkomst](../../maatregelen/maak_vereiste_onderdeel_van_contractovereenkomst/index.html)
+- [Maak de vereiste onderdeel van het programma van eisen](../../maatregelen/maak_de_vereiste_onderdeel_van_programma_van_eisen/index.html)
+- [Maak de vereiste onderdeel van Service Level Agreement](../../maatregelen/maak_vereiste_onderdeel_van_service_level_agreement/index.html)
+- [Maak het leveren van bewijs voor het voldoen aan de vereiste onderdeel van de beoordeling van een inschrijving](../../maatregelen/leveren_bewijs_onderdeel_beoordeling_inschrijving.md/index.html)
+- [Menselijke tussenkomst is een vast onderdeel in een projecptlan of een déchargedocument](../../maatregelen/menselijke_tussenkomst_projectplan_en_dchargedocument/index.html)
+- [Neem de vereiste op als een subgunningscriteria bij gunningscriteria beste prijs-kwaliteitverhouding](../../maatregelen/neem_vereiste_op_als_subgunningscriteria/index.html)
+- [Neem het kunnen uitvoeren van een audit over de vereiste op in contractvoorwaarden en de contractovereenkomst](../../maatregelen/uitvoeren_audit_voor_naleving_vereiste/index.html)
+- [Neem het kunnen uitvoeren van een audit over de vereiste op in contractvoorwaarden en de contractovereenkomst](../../maatregelen/uitvoeren_audit_voor_naleving_vereiste/index.html)
+- [Restrisico's met betrekking tot schending auteursrechten zijn inzichtelijk gemaakt](../../maatregelen/omgaan_restrisico's_aanbiede_onderdeel_beoordelingsmaatrix/index.html)
+- [Stel archiefbescheiden vast](../../maatregelen/stel_archiefbescheiden_vast/index.html)
+- [Stel vast of het gaat om een algoritme en/of AI-systeem en wat de bijbehorende risicoclassificatie is om te bepalen welke vereisten hierop van toepassing zijn.](../../maatregelen/vaststellen_typen_algoritme_of_AI-systeem_en_risicoclassificatie/index.html)
+- [Vastellen niveau van benodigde training voor gebruik algoritmen en AI-systemen](../../maatregelen/vaststellen_passend_trainingsniveau_door_aanbieder/index.html)
+- [Verken maatregelen van aanbieder om schending auteursrechten te voorkomen](../../maatregelen/getroffen_maatregelen_van_aanbieder_voorkomen_schending_auteursrechten/index.html)
+- [Voer voorafgaand aan een aanbesteding een data beschikbaarheid, kwaliteit- en toegankelijkheidsanalayse uit.](../../maatregelen/voer_een_data_beschikbaarheid_kwaliteit_en_toegankelijkheidsanalyse_uit/index.html)
+- [Vul technische documentatie van aanbieder aan met informatie vanuit de gebruiksverantwoordelijke](../../maatregelen/vaststellen_aanleveren_informatie_technische_documentatie/index.html)
 
-•	Er moet een nieuwe oplossing worden ontwikkeld om te voldoen aan de wensen. 
 
-Deze inschatting is dus bepalend wat wel en niet van een product mag worden verwacht. Dit is relevant voor zowel de leverancier als de opdrachtgever. Het is aannemelijk dat als het om risicovolle (nog te ontwikkelen) algoritmen of AI gaat, de opdrachtgever een intensieve bijdrage moet leveren aan de samenwerking om het product te kunnen gebruiken. De opdrachtgever zal bijvoorbeeld moeten aangeven wat de juridische en ethische grenzen zijn van de uiteindelijk werking van het algoritme of AI. Als een kant-en-klare oplossing wordt afgenomen, dan zal de leverancier moeten laten zien dat de ontwikkelde algoritmen en AI voldoen aan alle vereisten en moet dit kunnen aantonen. 
 
-De inzichten uit de algoritme levenscyclus kunnen ondersteunen bij bijvoorbeeld de behoeftestelling, het maken van make-or-buy beslissingen, de te hanteren aanbestedingsvorm, de totstandkoming van de selectie- en gunningseisen, contractspecificaties en de uitvoering en management van het contract. De algoritme levenscyclus kan worden geraadpleegd via het tabblad boven aan deze pagina. Per fase en per type algoritme of AI kan worden bekeken aan welke vereisten moet worden voldaan en welke beheersmaatregelen kunnen worden getroffen. 
 
-## Vereisten
 
-Nagenoeg alle vereisten die gelden voor algoritmen en AI kunnen een plek krijgen in het publiek inkoopproces. 
-Daarom is ervoor gekozen om hier niet een opsomming te geven van al deze vereisten, maar verwijzen we naar het onderdeel [vereisten](../../vereisten/index.md) in het Algoritmekader.
 
-In de laag van 'maatregelen' wordt ook uitgewerkt wat vanuit publieke inkoop kan worden gedaan om op een betekenisvolle wijze invulling aan te geven aan de betreffende vereiste. 
-Daarvoor kan ook op het tabblad 'publieke inkoop' worden geklikt om deze maatregelen te filteren.
 
-Zie hieronder bij bruikbare informatie en bronnen in het bijzonder de Europese modelcontractbepaling voor (niet) hoog risico AI-systemen en contractvoorwaarden voor algoritmen. 
-Dit geeft een beeld hoe de vereisten onderdeel kunnen worden gemaakt van contractvoorwaarden.   
 
-## Maatregelen
+</details>
+<details>
+<summary>Aanbevolen instrumenten</summary>
 
-Hieronder volgt een overzicht van de maatregelen die (voor zover zijn uitgewerkt) kunnen worden getroffen om invulling te geven aan de vereisten. 
+    
+    
+    
+    
+    
+    
+    
+- [Modelcontracten](../../instrumenten/modelcontractbepalingen.md)
+- Handleiding PIANIo (volgt binnenkort)
 
-<!-- list_maatregelen bouwblok/publieke-inkoop -->
 
-!!! info "Disclaimer"
-    Het Algoritmekader is nog volop in ontwikkeling. Er wordt momenteel hard gewerkt, mede door de Werkgroep Publieke Inkoop, om maatregelen te definiëren vanuit het perspectief publieke inkoop bij de vereisten. Mocht er iets niet kloppen, laat het ons weten via [GitHub](https://github.com/MinBZK/Algoritmekader) of via algoritmes@minbzk.nl.
 
-## Bruikbare informatie en bronnen
 
-[Europese modelcontractbepalingen AI-systemen (hoog risico)](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_template_High_Risk%20NL.pdf)
 
-[Europese modelcontractbepalingen AI-systemen (niet hoog risico)](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_Template_NON_HIGH_RISK_NL.pdf)
 
-[Contractvoorwaarden voor algoritmen gemeente Amsterdam](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/contractvoorwaarden-algoritmen/)
 
-[Inkoopproces](https://www.pianoo.nl/nl/inkoopproces)
+</details>
 
-[Community of Practise Digitale Innovatie](https://www.pianoo.nl/nl/themas/innovatie/netwerken/community-practice-digitale-innovaties)
+## Kennis delen
+- [Community of Practise Digitale Innovatie (CoP)](https://www.pianoo.nl/nl/themas/innovatie/netwerken/community-practice-digitale-innovaties): kennisnetwerk van PIANOo over het inkopen van digitale innovaties
+- [Werkgroep Publieke Inkoop van algoritmen en AI – Algoritmekader](https://algoritmes.pleio.nl/groups/): besloten werkgroep voor het verbeteren van de inhoud op deze pagina
+
+## Help ons deze pagina te verbeteren
+Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/bouwblokken/publieke-inkoop/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).
+
+
+
+
+
+
 
 
 

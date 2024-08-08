@@ -28,8 +28,9 @@ Richt een gebruikersbeheer in, waarmee bepaald wordt wie toegang heeft tot wat, 
 
 ## Toelichting
 
-Er zijn beheersmaatregelen die kunnen helpen bij het zorgen voor een goed gebruikersbeheer. Deze kunnen worden verwerk in een formeel gebruikersbeheer.
-Denk onder andere aan de volgende maatregelen die opgenomen kunnen worden in een wachtwoordbeheer. (Deze maatregelen komen uit het basisnormenkader [Baseline Informatiebeveiliging Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/).)
+Een goed gebruikersbeheer zorgt ervoor dat accounts en autorisaties beheerst worden aangevraagd, geautoriseerd, gewijzigd en ingetrokken bij indiensttreding, functiewijziging en uitdiensttreding. Ook wordt functievermenging voorkomen bij toegang en gebruik van het algoritme, de data of de uitkomsten van een algoritme.
+
+Er zijn beheersmaatregelen die kunnen helpen bij het zorgen voor een goed gebruikersbeheer. Deze kunnen worden verwerk in een formeel gebruikersbeheer. Denk onder andere aan de volgende maatregelen die opgenomen kunnen worden in een wachtwoordbeheer. (Deze maatregelen komen uit het basisnormenkader [Baseline Informatiebeveiliging Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/).)
 
 - Gebruikers en beheerders krijgen slechts toegang tot functionaliteit die zij uit hoofde van hun functie nodig hebben (need to know, need to use). Daartoe is een beschrijving beschikbaar welke rollen en rechten per applicatie bij een functie horen (BIO 6.1.2, 9.2.2 en 9.4).
 - Het verlenen en muteren van accounts en toegangsrechten vindt plaats na goedkeuring door een bevoegde functionaris. Dit aan de hand van een actueel mandaatregister waaruit blijkt welke personen beslissende bevoegdheden hebben voor het verlenen van een bepaald type (niveau) toegangsrechten danwel functieprofielen (BIO 9.2.1.2, 9.2.2.1, 9.4).

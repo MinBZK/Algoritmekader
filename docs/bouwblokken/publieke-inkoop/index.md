@@ -29,16 +29,18 @@ Software met generatieve AI mag [geen auteursrechten schenden](../../vereisten/a
 ### Voorbeeld risiconiveau
 Voor risicovolle software moet de opdrachtgever aangeven waar de juridische en ethische grenzen liggen.
 
-### Voorbeeld levenscyclus
-Voor een aanvraag van software met algoritmes of AI zijn 3 opdrachten mogelijk:
+## Levenscyclus
+In de [levenscyclus](https://minbzk.github.io/Algoritmekader/levenscyclus/) vind je de eisen voor opdrachtgevers en leveranciers in elke fase van het project.
+
+Als inkoper van algoritmes of AI heb je te maken met 3 soorten opdrachten:
 
 - inkoop van een kant-en-klare oplossing
 - aanpassen van een bestaande oplossing
 - ontwikkelen van een nieuwe oplossing
 
-Voor een kant-en-klare oplossing moet de leverancier bewijzen dat de software voldoet aan de eisen uit de laatste 2 levenscyclus-fases: [monitoring en beheer](https://minbzk.github.io/Algoritmekader/levenscyclus/monitoring-en-beheer/) en [uitfaseren](https://minbzk.github.io/Algoritmekader/levenscyclus/uitfaseren/). De andere fases zijn niet relevant.
+De eisen voor **kant-en-klare oplossingen** vind je in de laatste 2 levenscyclus-fases: [controle en onderhoud](https://minbzk.github.io/Algoritmekader/levenscyclus/monitoring-en-beheer/) en [stoppen](https://minbzk.github.io/Algoritmekader/levenscyclus/uitfaseren/).
 
-Voor de andere oplossingen moeten opdrachtgevers en leveranciers voldoen aan alle levenscyclus-fasen vanaf de fase [ontwerp](https://minbzk.github.io/Algoritmekader/levenscyclus/ontwerp/).
+De eisen voor **oplossingen aanpassen of ontwikkelen** vind je in de laatste 7 levenscyclus-fasen: [ontwerpen](https://minbzk.github.io/Algoritmekader/levenscyclus/ontwerp/), [data onderzoeken en voorbereiden](https://minbzk.github.io/Algoritmekader/levenscyclus/dataverkenning-en-datapreparatie/), [ontwikkelen](https://minbzk.github.io/Algoritmekader/levenscyclus/ontwikkelen/), [beoordelen](https://minbzk.github.io/Algoritmekader/levenscyclus/verificatie-en-validatie/), [implementeren](https://minbzk.github.io/Algoritmekader/levenscyclus/implementatie/), [controle en onderhoud](https://minbzk.github.io/Algoritmekader/levenscyclus/monitoring-en-beheer/) en [stoppen](https://minbzk.github.io/Algoritmekader/levenscyclus/uitfaseren/). 
 
 ## Voldoen aan wetten en regels
 
@@ -133,7 +135,7 @@ Voor de andere oplossingen moeten opdrachtgevers en leveranciers voldoen aan all
 ## Kennis delen
 
 - [Community of Practise Digitale Innovatie (CoP)](https://www.pianoo.nl/nl/themas/innovatie/netwerken/community-practice-digitale-innovaties): kennisnetwerk van PIANOo over het inkopen van digitale innovaties
-- [Werkgroep Publieke Inkoop van algoritmen en AI – Algoritmekader](https://algoritmes.pleio.nl/groups/): besloten werkgroep voor het verbeteren van de inhoud op deze pagina
+- [Werkgroep Publieke Inkoop van algoritmen en AI – Algoritmekader](https://algoritmes.pleio.nl/groups/): besloten werkgroep voor het verbeteren van de informatie over publieke inkoop op deze website
 
 ## Help ons deze pagina te verbeteren
 Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/bouwblokken/publieke-inkoop/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

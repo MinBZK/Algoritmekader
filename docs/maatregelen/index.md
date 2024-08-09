@@ -35,37 +35,4 @@ Hierover moeten nog nadere afspraken worden gemaakt met deze standaardisatieorga
 
 ## Overzicht van maatregelen
 
-Onderstaand volgt een overzicht van maatregelen per fase van de levenscyclus. 
-
-??? simple "Probleemanalyse"
-
-    <!-- list_maatregelen_1 levenscyclus/probleemanalyse -->
-
-??? simple "Ontwerp"
-
-    <!-- list_maatregelen_1 levenscyclus/ontwerp -->
-
-??? simple "Dataverkenning en datapreparatie"
-
-    <!-- list_maatregelen_1 levenscyclus/dataverkenning-en-datapreparatie -->
-
-??? simple "Ontwikkelen"
-
-    <!-- list_maatregelen_1 levenscyclus/ontwikkelen -->
-
-??? simple "Verificatie en validatie"
-
-    <!-- list_maatregelen_1 levenscyclus/verificatie-en-validatie -->
-    
-??? simple "Implementatie"
-
-    <!-- list_maatregelen_1 levenscyclus/implementatie -->
-    
-??? simple "Monitoring en beheer"
-
-    <!-- list_maatregelen_1 levenscyclus/monitoring-en-beheer -->
-    
-??? simple "Uitfaseren"
-
-    <!-- list_maatregelen_1 levenscyclus/uitfaseren -->
-
+<!-- list_maatregelen_all -->

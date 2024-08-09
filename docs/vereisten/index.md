@@ -26,7 +26,7 @@ Welke eisen gelden voor jouw organisatie, hangt af van:
 ### Voorbeeld
 > Impactvolle algoritmes en AI-systemen worden gepubliceerd in het Nederlandse algoritmeregister.
 
-Deze eis geldt alleen voor impactvolle algoritmes en hoog-risico-AI-systemen. Rekenregels hoef je niet te registreren in het algoritmeregister.
+Deze eis geldt alleen voor impactvolle algoritmes en hoog-risico-AI-systemen. Een niet-impactvolle rekenregel hoef je niet te registreren.
 
 ## Overzicht eisen
 

@@ -18,7 +18,7 @@ De informatie is bedoeld voor medewerkers van de rijksoverheid, provincies, geme
 ## Informatie van de overheid
 Het Algoritmekader is een website van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. Het team Data, AI en Algoritmes stelt de informatie samen, op basis van:
 - alle wetten en regels, zoals de [AI-verordening](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/nieuwe-technologieen-data-en-ethiek/artificiele-intelligentie-ai/ai-verordening/)
-- belangrijke instrumenten, zoals de [IAMA](https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes) (Impact Assessment voor Mensenrechten bij de inzet van Algoritmes)
+- belangrijke instrumenten, zoals de [IAMA](https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes) (Impact Assessment Mensenrechten en Algoritmes)
 - adviezen en ervaringen van experts, zoals wetenschappers
 
 ## Iedereen mag meedenken

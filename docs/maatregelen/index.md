@@ -20,7 +20,6 @@ De maatregelen zijn niet verplicht. Het zijn adviezen uit:
 Deze maatregel helpt om te voldoen aan de eis om niet te discrimineren. Maar deze maatregel is niet verplicht. Je organisatie mag ook eigen maatregelen nemen. Zolang je uiteindelijk maar voldoet aan de eis.
 
 > [!TIP]
-> Kies maatregelen die gebaseerd zijn op een standaard. Je product krijgt hierdoor een ‘vermoeden van conformiteit’. Dit betekent dat de kans groot is dat je organisatie voldoet aan de eisen.
 
 ## Aantal maatregelen verschilt per situatie
 Welke maatregelen handig zijn in jouw situatie, hangt af van:

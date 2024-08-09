@@ -17,7 +17,6 @@ rollen:
 - data-engineer
 - data-scientist
 - privacy-officer
-- beheerder
   
 hide:
 - navigation

@@ -1,0 +1,1736 @@
+
+<!doctype html>
+<html lang="nl" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Concept van het algoritmekader. Het doel daarvan is om overheden op praktische wijze te ondersteunen, zodat zij op een wettige en ethisch verantwoorde wijze algoritmes en AI-systemen gebruiken.">
+      
+      
+      
+      
+        <link rel="prev" href="../">
+      
+      
+        <link rel="next" href="../CONTRIBUTING/">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.28">
+    
+    
+      
+        <title>Definities - Algoritmekader [concept]</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.6543a935.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+  
+  
+  
+  
+  <style>:root{--md-annotation-icon:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M256 512a256 256 0 1 0 0-512 256 256 0 1 0 0 512zm-40-176h24v-64h-24c-13.3 0-24-10.7-24-24s10.7-24 24-24h48c13.3 0 24 10.7 24 24v88h8c13.3 0 24 10.7 24 24s-10.7 24-24 24h-80c-13.3 0-24-10.7-24-24s10.7-24 24-24zm40-208a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"/></svg>');}</style>
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+   <link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../../assets/javascripts/glightbox.min.js"></script></head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#definitie-van-een-algoritme" class="md-skip">
+          Ga naar inhoud
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Algoritmekader [concept]" class="md-header__button md-logo" aria-label="Algoritmekader [concept]" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40h-16c-1.1 0-2.2 0-3.3-.1-1.4.1-2.8.1-4.2.1H392c-22.1 0-40-17.9-40-40v-88c0-17.7-14.3-32-32-32h-64c-17.7 0-32 14.3-32 32v88c0 22.1-17.9 40-40 40h-55.9c-1.5 0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2h-16c-22.1 0-40-17.9-40-40V360c0-.9 0-1.9.1-2.8v-69.6H32c-18 0-32-14-32-32.1 0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7l255.4 224.5c8 7 12 15 11 24z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Algoritmekader [concept]
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Definities
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="indigo"  aria-hidden="true"  type="radio" name="__palette" id="__palette_0">
+    
+  
+</form>
+      
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Zoeken" placeholder="Zoeken" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Zoeken">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Leegmaken" aria-label="Leegmaken" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Zoeken initialiseren
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/MinBZK/Algoritmekader" title="Ga naar repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+    
+  
+  Algoritmekader
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../" class="md-tabs__link">
+          
+  
+    
+  
+  Over het algoritmekader
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../governance/" class="md-tabs__link">
+          
+  
+    
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11.5 1 2 6v2h19V6m-5 4v7h3v-7M2 22h19v-3H2m8-9v7h3v-7m-9 0v7h3v-7H4Z"/></svg>
+    
+  
+  Governance
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../levenscyclus/" class="md-tabs__link">
+          
+  
+    
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2 12a9 9 0 0 0 9 9c2.39 0 4.68-.94 6.4-2.6l-1.5-1.5A6.706 6.706 0 0 1 11 19c-6.24 0-9.36-7.54-4.95-11.95C10.46 2.64 18 5.77 18 12h-3l4 4h.1l3.9-4h-3a9 9 0 0 0-18 0Z"/></svg>
+    
+  
+  Levenscyclus
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../bouwblokken/" class="md-tabs__link">
+          
+  
+    
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 16.5c0 .38-.21.71-.53.88l-7.9 4.44c-.16.12-.36.18-.57.18-.21 0-.41-.06-.57-.18l-7.9-4.44A.991.991 0 0 1 3 16.5v-9c0-.38.21-.71.53-.88l7.9-4.44c.16-.12.36-.18.57-.18.21 0 .41.06.57.18l7.9 4.44c.32.17.53.5.53.88v9M12 4.15 6.04 7.5 12 10.85l5.96-3.35L12 4.15Z"/></svg>
+    
+  
+  Bouwblokken
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../rollen/" class="md-tabs__link">
+          
+  
+    
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 4a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4Z"/></svg>
+    
+  
+  Rollen
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../vereisten/" class="md-tabs__link">
+          
+  
+    
+  
+  Vereisten
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../maatregelen/" class="md-tabs__link">
+          
+  
+    
+  
+  Maatregelen
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../instrumenten/" class="md-tabs__link">
+          
+  
+    
+  
+  Instrumenten
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigatie" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Algoritmekader [concept]" class="md-nav__button md-logo" aria-label="Algoritmekader [concept]" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40h-16c-1.1 0-2.2 0-3.3-.1-1.4.1-2.8.1-4.2.1H392c-22.1 0-40-17.9-40-40v-88c0-17.7-14.3-32-32-32h-64c-17.7 0-32 14.3-32 32v88c0 22.1-17.9 40-40 40h-55.9c-1.5 0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2h-16c-22.1 0-40-17.9-40-40V360c0-.9 0-1.9.1-2.8v-69.6H32c-18 0-32-14-32-32.1 0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7l255.4 224.5c8 7 12 15 11 24z"/></svg>
+
+    </a>
+    Algoritmekader [concept]
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/MinBZK/Algoritmekader" title="Ga naar repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Algoritmekader
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+      
+        
+        
+      
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Over het algoritmekader
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_2" id="__nav_2_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Over het algoritmekader
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Definities
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Definities
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Inhoudsopgave">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhoudsopgave
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#definitie-van-een-algoritme" class="md-nav__link">
+    <span class="md-ellipsis">
+      Definitie van een algoritme
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Definitie van een algoritme">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#relatie-scope-algoritmekader-en-de-ai-verordening" class="md-nav__link">
+    <span class="md-ellipsis">
+      Relatie scope Algoritmekader en de AI-Verordening
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#definitie-van-impactvolle-algoritmes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Definitie van impactvolle algoritmes
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#begrippenlijst" class="md-nav__link">
+    <span class="md-ellipsis">
+      Begrippenlijst
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../CONTRIBUTING/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bijdragen aan het Algoritmekader
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    <a href="../../governance/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    Governance
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    <a href="../../levenscyclus/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    Levenscyclus
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    <a href="../../bouwblokken/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    Bouwblokken
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    
+  
+  
+    <a href="../../rollen/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    Rollen
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    
+  
+  
+    <a href="../../vereisten/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    Vereisten
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    
+  
+  
+    <a href="../../maatregelen/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    Maatregelen
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    
+  
+  
+    <a href="../../instrumenten/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    Instrumenten
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+  
+
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Inhoudsopgave">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhoudsopgave
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#definitie-van-een-algoritme" class="md-nav__link">
+    <span class="md-ellipsis">
+      Definitie van een algoritme
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Definitie van een algoritme">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#relatie-scope-algoritmekader-en-de-ai-verordening" class="md-nav__link">
+    <span class="md-ellipsis">
+      Relatie scope Algoritmekader en de AI-Verordening
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#definitie-van-impactvolle-algoritmes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Definitie van impactvolle algoritmes
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#begrippenlijst" class="md-nav__link">
+    <span class="md-ellipsis">
+      Begrippenlijst
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+    <a href="https://github.com/MinBZK/Algoritmekader/edit/main/docs/overhetalgoritmekader/definities.md" title="Wijzig deze pagina" class="md-content__button md-icon">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4v-2m10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1 2.1 2.1Z"/></svg>
+    </a>
+  
+  
+    
+      
+    
+    <a href="https://github.com/MinBZK/Algoritmekader/raw/main/docs/overhetalgoritmekader/definities.md" title="Bron van deze pagina bekijken" class="md-content__button md-icon">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 18c.56 0 1 .44 1 1s-.44 1-1 1-1-.44-1-1 .44-1 1-1m0-3c-2.73 0-5.06 1.66-6 4 .94 2.34 3.27 4 6 4s5.06-1.66 6-4c-.94-2.34-3.27-4-6-4m0 6.5a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5M9.27 20H6V4h7v5h5v4.07c.7.08 1.36.25 2 .49V8l-6-6H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h4.5a8.15 8.15 0 0 1-1.23-2Z"/></svg>
+    </a>
+  
+
+
+  <h1>Definities</h1>
+
+<p>Welke definities gebruikt het Algoritmekader? Je vindt een overzicht op deze pagina. Deze definities komen overeen met de definities van het het <a href="https://algoritmes.overheid.nl/nl">Algoritmeregister</a>, zie daarvoor de <a href="https://algoritmes.pleio.nl/wiki/view/19bb6e9e-7a97-43d5-bef3-b1d66e59f4ff/handreiking-algoritmeregister">Handreiking Algoritmeregister</a>.</p>
+<h2 id="definitie-van-een-algoritme">Definitie van een <abbr title="Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden">algoritme</abbr><a class="headerlink" href="#definitie-van-een-algoritme" title="Permanent link">&para;</a></h2>
+<p>Er zijn veel definities van een <abbr title="Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden">algoritme</abbr>. Voor het algoritmekader hanteren we de definitie van de Algemene Rekenkamer:</p>
+<blockquote>
+<p>'Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden.’</p>
+</blockquote>
+<p>Dit is een brede definitie die de maximale reikwijdte weergeeft van algoritmes waarvoor het Algoritmekader relevant is. Waar de definitie van de Algemene Rekenkamer schrijft “om een probleem op te lossen of een vraag te beantwoorden”, verstaan we daar ook onder “om een taak of proces uit te voeren of tot een besluit te komen”. In het uitvoeren van een taak of het komen tot een besluit kunnen één of meer algoritmes voorkomen. Daarnaast hebben we het bij het Algoritmekader over zowel Artificiële Intelligentie (AI) als algoritmes. De essentie is dat AI is opgebouwd uit algoritmes. Maar niet alle algoritmes zijn AI. </p>
+<p><a class="glightbox" href="../5113%20Infogr%20Relatie%20AI%20en%20algoritmes.jpg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Infographic" src="../5113%20Infogr%20Relatie%20AI%20en%20algoritmes.jpg" /></a></p>
+<div class="admonition opmerking">
+<p class="admonition-title">Gebruikte terminologie</p>
+<p>De termen hoog-<abbr title="De combinatie van de kans op schade en de ernst van die schade;">risico</abbr>, impactvol, AI en Algoritmes worden veel door elkaar gebruikt.
+Wij hanteren uitsluitend de volgende twee termen:</p>
+<ol>
+<li>
+<p><strong>Hoog-<abbr title="De combinatie van de kans op schade en de ernst van die schade;">risico</abbr> AI (-systeem)</strong> 
+Hiermee bedoelen we altijd de definitie zoals deze in
+de AI-verordening wordt gehanteerd.</p>
+</li>
+<li>
+<p><strong>Impactvolle algoritmes</strong>
+Dit betreft de minimale reikwijdte van het Algoritmekader.
+Het omvat de hoog-<abbr title="De combinatie van de kans op schade en de ernst van die schade;">risico</abbr> AI-systemen zoals gedefinieerd in de AI-verordening én
+de algoritmes die we daarnaast als impactvol beschouwen. </p>
+</li>
+</ol>
+</div>
+<h3 id="relatie-scope-algoritmekader-en-de-ai-verordening">Relatie scope Algoritmekader en de AI-Verordening<a class="headerlink" href="#relatie-scope-algoritmekader-en-de-ai-verordening" title="Permanent link">&para;</a></h3>
+<p>Op dit moment wordt op EU-niveau de AI-verordening ontwikkeld, die naar verwachting van toepassing wordt op een deel van de algoritmes in gebruik bij de overheid. In de
+AI-verordening zijn AI-systemen onderverdeeld in verschillende categorieën: verboden praktijken, hoog-<abbr title="De combinatie van de kans op schade en de ernst van die schade;">risico</abbr> AI-systemen, AI-systemen met manipulatierisico’s en AI-systemen
+met geen/minimale <abbr title="De combinatie van de kans op schade en de ernst van die schade;">risico</abbr>’s. Afhankelijk van de categorie waarin een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> valt, gelden zwaardere of minder zware eisen waar die systemen aan moeten voldoen.</p>
+<p>Het Algoritmekader is hoe dan ook relevant voor hoog-<abbr title="De combinatie van de kans op schade en de ernst van die schade;">risico</abbr> AI-systemen volgens de definitie van de AI-verordening. Een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> is hoog-<abbr title="De combinatie van de kans op schade en de ernst van die schade;">risico</abbr> als het voldoet
+aan de volgende eisen:
+1. Het <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> valt onder de definitie van AI-systemen in artikel 3 lid 1 van de
+verordening en moet o.a. autonome elementen bevatten, en</p>
+<ol>
+<li>Het <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> wordt in een van de toepassingsgebieden van ANNEX III ingezet
+zoals biometrie, <abbr title="kritieke infrastructuur zoals gedefinieerd in artikel 2, punt 4, van Richtlijn (EU) 2022/2557">kritieke infrastructuur</abbr> en rechtshandhaving. Bovenstaande betreft een versimpelde beschrijving van de AI-verordening. In bijlage 2 van de <a href="https://algoritmes.pleio.nl/wiki/view/19bb6e9e-7a97-43d5-bef3-b1d66e59f4ff/handreiking-algoritmeregister">Handreiking Algoritmeregister</a> is meer informatie te vinden over de AI-verordening. Aangezien de AI-verordening nog in onderhandeling is, bestaat de kans dat de classificatie van hoog-<abbr title="De combinatie van de kans op schade en de ernst van die schade;">risico</abbr> AI-systemen nog wordt aangepast. </li>
+</ol>
+<h3 id="definitie-van-impactvolle-algoritmes">Definitie van impactvolle algoritmes<a class="headerlink" href="#definitie-van-impactvolle-algoritmes" title="Permanent link">&para;</a></h3>
+<p>Om te bepalen of een <abbr title="Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden">algoritme</abbr> in aanmerking komt voor publicatie in het Algoritmeregister, is een hulpmiddel 'Selectie' gemaakt. Het zijn dezelfde algoritmes die relevant zijn voor het Algoritmekader. Dit hulpmiddel wordt hieronder weergegeven in de figuur, en is ook leidend voor het Algoritmekader.</p>
+<p><img alt="Hulpmiddel selectie publicatie Algoritmeregister 
+Wél publicatie in het register als: 
+* Hoog risico volgens AI-Act 
+    * Hoogrisico algoritmes volgens de voorlopige definitie van de AI-Act in 8 toepassingsgebieden. 
+* Impact op betrokkenen 
+    * Algoritme heeft directe rechtsgevolgen voor betrokkenen 
+    * Algoritme beïnvloedt hoe de overheid een betrokkenen of groep classificeert.
+Mogelijke publicatie:
+* Andere overwegingen 
+    * demystificatie 
+    * Maatschappelijk debat
+    * Media aandacht 
+    * Toezichthouder
+    * Vragen van burgers of media 
+    * Onderdeel van een Woo-verzoek
+Mogelijke uitzonderingsgronden. In uitzonderlijke gevallen worden algoritmes maar gedeeltelijk of helemaal niet gepubliceerd. 
+* Wettelijke uitzonderingsgronden zoals in de Wet open overheid of de Wet politiegegevens 
+* 'Gaming the System'  
+* Valt buiten categorie A t/m C" src="../5113%20Infogr%20Publicatie%20in%20Algoritmeregister%20%28002%29.jpg" /></p>
+<p>Voor meer toelichting over dit hulpmiddel verwijzen we naar de <a href="https://algoritmes.pleio.nl/wiki/view/19bb6e9e-7a97-43d5-bef3-b1d66e59f4ff/handreiking-algoritmeregister">Handreiking Algoritmeregister</a>.</p>
+<h2 id="begrippenlijst">Begrippenlijst<a class="headerlink" href="#begrippenlijst" title="Permanent link">&para;</a></h2>
+<!-- let op! Deze definities staan nu dubbel (hieronder, en in de file includes/begrippenlijst.md) -->
+<!-- de definities in de file includes/begrippenlijst.md zorgen ervoor dat definities automatisch op pagina's worden weergegeven -->
+<!-- dit biedt een overzicht. tzt nog iets verzinnen zodat definities niet op twee plekken moeten worden toegevoegd -->
+
+<table>
+<thead>
+<tr>
+<th>Begrip</th>
+<th>Definitie</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><abbr title="Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een AI-systeem of een AI-model voor algemene doeleinden ontwikkelt of laat ontwikkelen en dat systeem of model in de handel brengt of het AI-systeem in gebruik stelt onder de eigen naam of merk, al dan niet tegen betaling.">aanbieder</abbr></td>
+<td>Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> of een <abbr title="Een AI-model, ook wanneer het is getraind met een grote hoeveelheid data met behulp van self-supervision op grote schaal, dat een aanzienlijk algemeen karakter vertoont en in staat is op competente wijze een breed scala aan verschillende taken uit te voeren, ongeacht de wijze waarop het model in de handel wordt gebracht, en dat kan worden geïntegreerd in een verscheidenheid aan systemen verder in de AI-waardeketen of toepassingen verder in de AI-waardeketen, met uitzondering van AI-modellen die worden gebruikt voor onderzoek, ontwikkeling of prototypingactiviteiten alvorens zij in de handel worden gebracht.">AI-model voor algemene doeleinden</abbr> ontwikkelt of laat ontwikkelen en dat systeem of model in de handel brengt of het <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> in gebruik stelt onder de eigen naam of merk, al dan niet tegen betaling.</td>
+</tr>
+<tr>
+<td><abbr title="Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een AI-systeem of een AI-model voor algemene doeleinden ontwikkelt of laat ontwikkelen en dat systeem of model in de handel brengt of het AI-systeem in gebruik stelt onder de eigen naam of merknaam, al dan niet tegen betaling.">aanbieders</abbr></td>
+<td>Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> of een <abbr title="Een AI-model, ook wanneer het is getraind met een grote hoeveelheid data met behulp van self-supervision op grote schaal, dat een aanzienlijk algemeen karakter vertoont en in staat is op competente wijze een breed scala aan verschillende taken uit te voeren, ongeacht de wijze waarop het model in de handel wordt gebracht, en dat kan worden geïntegreerd in een verscheidenheid aan systemen verder in de AI-waardeketen of toepassingen verder in de AI-waardeketen, met uitzondering van AI-modellen die worden gebruikt voor onderzoek, ontwikkeling of prototypingactiviteiten alvorens zij in de handel worden gebracht.">AI-model voor algemene doeleinden</abbr> ontwikkelt of laat ontwikkelen en dat systeem of model in de handel brengt of het <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> in gebruik stelt onder de eigen naam of merknaam, al dan niet tegen betaling.</td>
+</tr>
+<tr>
+<td><abbr title="Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een AI-systeem of een AI-model voor algemene doeleinden ontwikkelt of laat ontwikkelen en dat systeem of model in de handel brengt of het AI-systeem in gebruik stelt onder de eigen naam of merk, al dan niet tegen betaling.">aanbieder</abbr> verder in de AI-waardeketen</td>
+<td>Een <abbr title="Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een AI-systeem of een AI-model voor algemene doeleinden ontwikkelt of laat ontwikkelen en dat systeem of model in de handel brengt of het AI-systeem in gebruik stelt onder de eigen naam of merk, al dan niet tegen betaling.">aanbieder</abbr> van een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr>, met inbegrip van een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> voor algemene doeleinden, waarin een AI-model is geïntegreerd, ongeacht of het AI-model door hemzelf wordt verstrekt en verticaal geïntegreerd is of door een andere entiteit wordt aangeboden op basis van contractuele betrekkingen</td>
+</tr>
+<tr>
+<td><abbr title="Een conformiteitsbeoordelingsinstantie die overeenkomstig de AI-verordening en andere relevante harmonisatiewetgeving van de Unie is aangemeld">aangemelde instantie</abbr></td>
+<td>Een conformiteitsbeoordelingsinstantie die overeenkomstig de AI-verordening en andere relevante harmonisatiewetgeving van de Unie is aangemeld</td>
+</tr>
+<tr>
+<td><abbr title="De nationale autoriteit die verantwoordelijk is voor het opzetten en uitvoeren van de noodzakelijke procedures voor de beoordeling, aanwijzing en kennisgeving van de conformiteitsbeoordelingsinstanties en de monitoring hiervan">aanmeldende autoriteit</abbr></td>
+<td>De nationale autoriteit die verantwoordelijk is voor het opzetten en uitvoeren van de noodzakelijke procedures voor de beoordeling, aanwijzing en kennisgeving van de conformiteitsbeoordelingsinstanties en de monitoring hiervan</td>
+</tr>
+<tr>
+<td><abbr title="De taak van de Commissie waarbij zij bijdraagt aan de uitvoering van, de monitoring van en het toezicht op AI-systemen en AI-modellen voor algemene doeleinden, en AI-governance, als bepaald in het besluit van de Commissie van 24 januari 2024; verwijzingen in deze verordening naar het AI-bureau worden begrepen als verwijzingen naar de Commissie">AI-bureau</abbr></td>
+<td>De taak van de Commissie waarbij zij bijdraagt aan de uitvoering van, de monitoring van en het toezicht op AI-systemen en <abbr title="Een AI-model, ook wanneer het is getraind met een grote hoeveelheid data met behulp van self-supervision op grote schaal, dat een aanzienlijk algemeen karakter vertoont en in staat is op competente wijze een breed scala aan verschillende taken uit te voeren, ongeacht de wijze waarop het model in de handel wordt gebracht, en dat kan worden geïntegreerd in een verscheidenheid aan systemen verder in de AI-waardeketen of toepassingen verder in de AI-waardeketen, met uitzondering van AI-modellen die worden gebruikt voor onderzoek, ontwikkeling of prototypingactiviteiten alvorens zij in de handel worden gebracht.">AI-modellen voor algemene doeleinden</abbr>, en AI-governance, als bepaald in het besluit van de Commissie van 24 januari 2024; verwijzingen in deze verordening naar het <abbr title="De taak van de Commissie waarbij zij bijdraagt aan de uitvoering van, de monitoring van en het toezicht op AI-systemen en AI-modellen voor algemene doeleinden, en AI-governance, als bepaald in het besluit van de Commissie van 24 januari 2024; verwijzingen in deze verordening naar het AI-bureau worden begrepen als verwijzingen naar de Commissie">AI-bureau</abbr> worden begrepen als verwijzingen naar de Commissie</td>
+</tr>
+<tr>
+<td><abbr title="vaardigheden, kennis en begrip die aanbieders, gebruiksverantwoordelijken en betrokken personen, rekening houdend met hun respectieve rechten en plichten in het kader van de de AI-verordening, in staat stellen met kennis van zaken AI-systemen in te zetten en zich bewuster te worden van de kansen en risico’s van AI en de mogelijke schade die zij kan veroorzaken">AI-geletterheid</abbr></td>
+<td>Vaardigheden, kennis en begrip die <abbr title="Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een AI-systeem of een AI-model voor algemene doeleinden ontwikkelt of laat ontwikkelen en dat systeem of model in de handel brengt of het AI-systeem in gebruik stelt onder de eigen naam of merknaam, al dan niet tegen betaling.">aanbieders</abbr>, gebruiksverantwoordelijken en betrokken personen, rekening houdend met hun respectieve rechten en plichten in het kader van de de AI-verordening, in staat stellen met kennis van zaken AI-systemen in te zetten en zich bewuster te worden van de kansen en <abbr title="De combinatie van de kans op schade en de ernst van die schade;">risico</abbr>’s van AI en de mogelijke schade die zij kan veroorzaken</td>
+</tr>
+<tr>
+<td><abbr title="Een AI-model, ook wanneer het is getraind met een grote hoeveelheid data met behulp van self-supervision op grote schaal, dat een aanzienlijk algemeen karakter vertoont en in staat is op competente wijze een breed scala aan verschillende taken uit te voeren, ongeacht de wijze waarop het model in de handel wordt gebracht, en dat kan worden geïntegreerd in een verscheidenheid aan systemen verder in de AI-waardeketen of toepassingen verder in de AI-waardeketen, met uitzondering van AI-modellen die worden gebruikt voor onderzoek, ontwikkeling of prototypingactiviteiten alvorens zij in de handel worden gebracht.">AI-model voor algemene doeleinden</abbr></td>
+<td>Een AI-model, ook wanneer het is getraind met een grote hoeveelheid data met behulp van self-supervision op grote schaal, dat een aanzienlijk algemeen karakter vertoont en in staat is op competente wijze een breed scala aan verschillende taken uit te voeren, ongeacht de wijze waarop het model in de handel wordt gebracht, en dat kan worden geïntegreerd in een verscheidenheid aan systemen verder in de AI-waardeketen of toepassingen verder in de AI-waardeketen, met uitzondering van AI-modellen die worden gebruikt voor onderzoek, ontwikkeling of prototypingactiviteiten alvorens zij in de handel worden gebracht.</td>
+</tr>
+<tr>
+<td><abbr title="Een AI-model, ook wanneer het is getraind met een grote hoeveelheid data met behulp van self-supervision op grote schaal, dat een aanzienlijk algemeen karakter vertoont en in staat is op competente wijze een breed scala aan verschillende taken uit te voeren, ongeacht de wijze waarop het model in de handel wordt gebracht, en dat kan worden geïntegreerd in een verscheidenheid aan systemen verder in de AI-waardeketen of toepassingen verder in de AI-waardeketen, met uitzondering van AI-modellen die worden gebruikt voor onderzoek, ontwikkeling of prototypingactiviteiten alvorens zij in de handel worden gebracht.">AI-modellen voor algemene doeleinden</abbr></td>
+<td>Een AI-model, ook wanneer het is getraind met een grote hoeveelheid data met behulp van self-supervision op grote schaal, dat een aanzienlijk algemeen karakter vertoont en in staat is op competente wijze een breed scala aan verschillende taken uit te voeren, ongeacht de wijze waarop het model in de handel wordt gebracht, en dat kan worden geïntegreerd in een verscheidenheid aan systemen verder in de AI-waardeketen of toepassingen verder in de AI-waardeketen, met uitzondering van AI-modellen die worden gebruikt voor onderzoek, ontwikkeling of prototypingactiviteiten alvorens zij in de handel worden gebracht.</td>
+</tr>
+<tr>
+<td><abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr></td>
+<td>een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;</td>
+</tr>
+<tr>
+<td><abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> voor algemene doeleinden</td>
+<td>Een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> dat is gebaseerd op een <abbr title="Een AI-model, ook wanneer het is getraind met een grote hoeveelheid data met behulp van self-supervision op grote schaal, dat een aanzienlijk algemeen karakter vertoont en in staat is op competente wijze een breed scala aan verschillende taken uit te voeren, ongeacht de wijze waarop het model in de handel wordt gebracht, en dat kan worden geïntegreerd in een verscheidenheid aan systemen verder in de AI-waardeketen of toepassingen verder in de AI-waardeketen, met uitzondering van AI-modellen die worden gebruikt voor onderzoek, ontwikkeling of prototypingactiviteiten alvorens zij in de handel worden gebracht.">AI-model voor algemene doeleinden</abbr> en dat verschillende doeleinden kan dienen, zowel voor direct gebruik als voor integratie in andere AI-systemen</td>
+</tr>
+<tr>
+<td><abbr title="een door een bevoegde autoriteit opgezet gecontroleerd kader dat aanbieders of toekomstige aanbieders van AI-systemen de mogelijkheid biedt een innovatief AI-systeem te ontwikkelen, trainen, valideren en testen, zo nodig onder reële omstandigheden, volgens een testomgevingsplan, voor een beperkte periode en onder begeleiding van een toezichthouder.">AI-testomgeving voor regelgeving</abbr></td>
+<td>Een door een bevoegde autoriteit opgezet gecontroleerd kader dat <abbr title="Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een AI-systeem of een AI-model voor algemene doeleinden ontwikkelt of laat ontwikkelen en dat systeem of model in de handel brengt of het AI-systeem in gebruik stelt onder de eigen naam of merknaam, al dan niet tegen betaling.">aanbieders</abbr> of toekomstige <abbr title="Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een AI-systeem of een AI-model voor algemene doeleinden ontwikkelt of laat ontwikkelen en dat systeem of model in de handel brengt of het AI-systeem in gebruik stelt onder de eigen naam of merknaam, al dan niet tegen betaling.">aanbieders</abbr> van AI-systemen de mogelijkheid biedt een innovatief <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> te ontwikkelen, trainen, valideren en testen, zo nodig onder reële omstandigheden, volgens een <abbr title="tussen de deelnemende aanbieder en de bevoegde autoriteit overeengekomen document waarin de doelstellingen, de voorwaarden, het tijdschema, de methode en de vereisten voor de in de testomgeving uitgevoerde activiteiten worden beschreven">testomgevingsplan</abbr>, voor een beperkte periode en onder begeleiding van een toezichthouder.</td>
+</tr>
+<tr>
+<td><abbr title="Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden">algoritme</abbr></td>
+<td>Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden</td>
+</tr>
+<tr>
+<td><abbr title="Het auteursrecht is het uitsluitend recht van den maker van een werk van letterkunde, wetenschap of kunst, of van diens rechtverkrijgenden, om dit openbaar te maken en te verveelvoudigen, behoudens de beperkingen, bij de wet gesteld.">auteursrecht</abbr></td>
+<td>Het <abbr title="Het auteursrecht is het uitsluitend recht van den maker van een werk van letterkunde, wetenschap of kunst, of van diens rechtverkrijgenden, om dit openbaar te maken en te verveelvoudigen, behoudens de beperkingen, bij de wet gesteld.">auteursrecht</abbr> is het uitsluitend recht van den maker van een werk van letterkunde, wetenschap of kunst, of van diens rechtverkrijgenden, om dit openbaar te maken en te verveelvoudigen, behoudens de beperkingen, bij de wet gesteld.</td>
+</tr>
+<tr>
+<td><abbr title="Het gebruik waarvoor een AI-systeem door de aanbieder is bedoeld, met inbegrip van de specifieke context en voorwaarden van het gebruik, zoals gespecificeerd in de informatie die door de aanbieder in de gebruiksinstructies, reclame- of verkoopmaterialen en verklaringen, alsook in de technische documentatie is verstrekt">beoogd doel</abbr></td>
+<td>Het gebruik waarvoor een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> door de <abbr title="Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een AI-systeem of een AI-model voor algemene doeleinden ontwikkelt of laat ontwikkelen en dat systeem of model in de handel brengt of het AI-systeem in gebruik stelt onder de eigen naam of merk, al dan niet tegen betaling.">aanbieder</abbr> is bedoeld, met inbegrip van de specifieke context en voorwaarden van het gebruik, zoals gespecificeerd in de informatie die door de <abbr title="Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een AI-systeem of een AI-model voor algemene doeleinden ontwikkelt of laat ontwikkelen en dat systeem of model in de handel brengt of het AI-systeem in gebruik stelt onder de eigen naam of merk, al dan niet tegen betaling.">aanbieder</abbr> in de <abbr title="de door de aanbieder verstrekte informatie om de gebruiksverantwoordelijke te informeren over met name het beoogde doel en juiste gebruik van een AI-systeem">gebruiksinstructies</abbr>, reclame- of verkoopmaterialen en verklaringen, alsook in de technische documentatie is verstrekt</td>
+</tr>
+<tr>
+<td><abbr title="de categorieën persoonsgegevens als bedoeld in artikel 9, lid 1, van Verordening (EU) 2016/679, artikel 10 van Richtlijn (EU) 2016/680 en artikel 10, lid 1, van Verordening (EU) 2018/1725">bijzondere categorieën persoonsgegevens</abbr></td>
+<td>De categorieën persoonsgegevens als bedoeld in artikel 9, lid 1, van Verordening (EU) 2016/679, artikel 10 van Richtlijn (EU) 2016/680 en artikel 10, lid 1, van Verordening (EU) 2018/1725</td>
+</tr>
+<tr>
+<td><abbr title="persoonsgegevens die het resultaat zijn van een specifieke technische verwerking met betrekking tot de fysieke, fysiologische of gedragsgerelateerde kenmerken van een natuurlijk persoon, zoals gezichtsafbeeldingen of vingerafdrukgegevens">biometrische gegevens</abbr></td>
+<td>Persoonsgegevens die het resultaat zijn van een specifieke technische verwerking met betrekking tot de fysieke, fysiologische of gedragsgerelateerde kenmerken van een natuurlijk persoon, zoals gezichtsafbeeldingen of vingerafdrukgegevens</td>
+</tr>
+<tr>
+<td><abbr title="de geautomatiseerde herkenning van fysieke, fysiologische, gedragsgerelateerde of psychologische menselijke kenmerken om de identiteit van een natuurlijk persoon vast te stellen door biometrische gegevens van die persoon te vergelijken met in een databank opgeslagen biometrische gegevens van personen">biometrische identificatie</abbr></td>
+<td>De geautomatiseerde herkenning van fysieke, fysiologische, gedragsgerelateerde of psychologische menselijke kenmerken om de identiteit van een natuurlijk persoon vast te stellen door <abbr title="persoonsgegevens die het resultaat zijn van een specifieke technische verwerking met betrekking tot de fysieke, fysiologische of gedragsgerelateerde kenmerken van een natuurlijk persoon, zoals gezichtsafbeeldingen of vingerafdrukgegevens">biometrische gegevens</abbr> van die persoon te vergelijken met in een databank opgeslagen <abbr title="persoonsgegevens die het resultaat zijn van een specifieke technische verwerking met betrekking tot de fysieke, fysiologische of gedragsgerelateerde kenmerken van een natuurlijk persoon, zoals gezichtsafbeeldingen of vingerafdrukgegevens">biometrische gegevens</abbr> van personen</td>
+</tr>
+<tr>
+<td><abbr title="de geautomatiseerde één-op-éénverificatie, met inbegrip van de authenticatie, van de identiteit van natuurlijke personen door hun biometrische gegevens te vergelijken met eerder verstrekte biometrische gegevens">biometrische verificatie</abbr></td>
+<td>De geautomatiseerde één-op-éénverificatie, met inbegrip van de authenticatie, van de identiteit van natuurlijke personen door hun <abbr title="persoonsgegevens die het resultaat zijn van een specifieke technische verwerking met betrekking tot de fysieke, fysiologische of gedragsgerelateerde kenmerken van een natuurlijk persoon, zoals gezichtsafbeeldingen of vingerafdrukgegevens">biometrische gegevens</abbr> te vergelijken met eerder verstrekte <abbr title="persoonsgegevens die het resultaat zijn van een specifieke technische verwerking met betrekking tot de fysieke, fysiologische of gedragsgerelateerde kenmerken van een natuurlijk persoon, zoals gezichtsafbeeldingen of vingerafdrukgegevens">biometrische gegevens</abbr></td>
+</tr>
+<tr>
+<td><abbr title="capaciteiten die overeenkomen met of groter zijn dan de capaciteiten die worden opgetekend bij de meest geavanceerde AI-modellen voor algemene doeleinden.">capaciteiten met een grote impact</abbr></td>
+<td>Capaciteiten die overeenkomen met of groter zijn dan de capaciteiten die worden opgetekend bij de meest geavanceerde <abbr title="Een AI-model, ook wanneer het is getraind met een grote hoeveelheid data met behulp van self-supervision op grote schaal, dat een aanzienlijk algemeen karakter vertoont en in staat is op competente wijze een breed scala aan verschillende taken uit te voeren, ongeacht de wijze waarop het model in de handel wordt gebracht, en dat kan worden geïntegreerd in een verscheidenheid aan systemen verder in de AI-waardeketen of toepassingen verder in de AI-waardeketen, met uitzondering van AI-modellen die worden gebruikt voor onderzoek, ontwikkeling of prototypingactiviteiten alvorens zij in de handel worden gebracht.">AI-modellen voor algemene doeleinden</abbr>.</td>
+</tr>
+<tr>
+<td><abbr title="Een markering waarmee een aanbieder aangeeft dat een AI-systeem in overeenstemming is met de voorschriften van hoofdstuk III, afdeling 2, en andere toepasselijke harmonisatiewetgeving van de Unie, die in het aanbrengen ervan voorzien">CE-markering</abbr></td>
+<td>Een markering waarmee een <abbr title="Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een AI-systeem of een AI-model voor algemene doeleinden ontwikkelt of laat ontwikkelen en dat systeem of model in de handel brengt of het AI-systeem in gebruik stelt onder de eigen naam of merk, al dan niet tegen betaling.">aanbieder</abbr> aangeeft dat een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> in overeenstemming is met de voorschriften van hoofdstuk III, afdeling 2, van de AI-Verordening en andere toepasselijke harmonisatiewetgeving van de Unie, die in het aanbrengen ervan voorzien</td>
+</tr>
+<tr>
+<td><abbr title="Het proces waarbij de naleving wordt aangetoond van de voorschriften van hoofdstuk III, afdeling 2 van de AI-Verordening in verband met een AI-systeem met een hoog risico">conformiteitsbeoordeling</abbr></td>
+<td>Het proces waarbij de naleving wordt aangetoond van de voorschriften van hoofdstuk III, afdeling 2 van de AI-Verordening in verband met een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> met een hoog <abbr title="De combinatie van de kans op schade en de ernst van die schade;">risico</abbr></td>
+</tr>
+<tr>
+<td><abbr title="door AI gegenereerd of gemanipuleerd beeld-, audio- of videomateriaal dat een gelijkenis vertoont met bestaande personen, voorwerpen, plaatsen, entiteiten of gebeurtenissen, en door een persoon ten onrechte voor authentiek of waarheidsgetrouw zou worden aangezien">deepfake</abbr></td>
+<td>Door AI gegenereerd of gemanipuleerd beeld-, audio- of videomateriaal dat een gelijkenis vertoont met bestaande personen, voorwerpen, plaatsen, entiteiten of gebeurtenissen, en door een persoon ten onrechte voor authentiek of waarheidsgetrouw zou worden aangezien</td>
+</tr>
+<tr>
+<td><abbr title="Indien een persoon op een andere wijze wordt behandeld dan een ander in een vergelijkbare situatie wordt, is of zou worden behandeld, op grond van godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat;">direct onderscheid</abbr></td>
+<td>Indien een persoon op een andere wijze wordt behandeld dan een ander in een vergelijkbare situatie wordt, is of zou worden behandeld, op grond van godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat;</td>
+</tr>
+<tr>
+<td><abbr title="De ongelijke behandeling van een persoon of groep personen ten opzichte van andere personen in een vergelijkbare situatie, op grond van een beschermd persoonskenmerk (discriminatiegrond).">directe discriminatie</abbr></td>
+<td>De ongelijke behandeling van een persoon of groep personen ten opzichte van andere personen in een vergelijkbare situatie, op grond van een beschermd persoonskenmerk (<abbr title="Beschermde persoonskenmerken op basis waarvan het maken van onderscheid tussen personen verboden is. Bijvoorbeeld: ras, nationaliteit, religie, geslacht, seksuele gerichtheid, handicap of chronische ziekte.">discriminatiegrond</abbr>).</td>
+</tr>
+<tr>
+<td><abbr title="Beschermde persoonskenmerken op basis waarvan het maken van onderscheid tussen personen verboden is. Bijvoorbeeld: ras, nationaliteit, religie, geslacht, seksuele gerichtheid, handicap of chronische ziekte.">discriminatiegrond</abbr></td>
+<td>Beschermde persoonskenmerken op basis waarvan het maken van onderscheid tussen personen verboden is. Bijvoorbeeld: ras, nationaliteit, religie, geslacht, seksuele gerichtheid, handicap of chronische ziekte.</td>
+</tr>
+<tr>
+<td><abbr title="Een andere natuurlijke persoon of rechtspersoon in de toeleveringsketen dan de aanbieder of de importeur, die een AI-systeem in de Unie op de markt aanbiedt">distributeur</abbr></td>
+<td>Een andere natuurlijke persoon of rechtspersoon in de toeleveringsketen dan de <abbr title="Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een AI-systeem of een AI-model voor algemene doeleinden ontwikkelt of laat ontwikkelen en dat systeem of model in de handel brengt of het AI-systeem in gebruik stelt onder de eigen naam of merk, al dan niet tegen betaling.">aanbieder</abbr> of de <abbr title="Een natuurlijke of rechtspersoon die zich bevindt of gevestigd is in de Unie die een AI-systeem in de handel brengt dat de naam of merknaam van een in een derde land gevestigde natuurlijke of rechtspersoon draagt">importeur</abbr>, die een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> in de Unie op de markt aanbiedt</td>
+</tr>
+<tr>
+<td><abbr title="Een aanbieder van een AI-systeem, met inbegrip van een AI-systeem voor algemene doeleinden, waarin een AI-model is geïntegreerd, ongeacht of het model door hemzelf wordt verstrekt en verticaal geïntegreerd is of door een andere entiteit wordt aangeboden op basis van contractuele betrekkingen">downstreamaanbieder</abbr></td>
+<td>Een <abbr title="Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een AI-systeem of een AI-model voor algemene doeleinden ontwikkelt of laat ontwikkelen en dat systeem of model in de handel brengt of het AI-systeem in gebruik stelt onder de eigen naam of merk, al dan niet tegen betaling.">aanbieder</abbr> van een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr>, met inbegrip van een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> voor algemene doeleinden, waarin een AI-model is geïntegreerd, ongeacht of het model door hemzelf wordt verstrekt en verticaal geïntegreerd is of door een andere entiteit wordt aangeboden op basis van contractuele betrekkingen</td>
+</tr>
+<tr>
+<td><abbr title="Het gebruik door overheidsinstanties van selectiecriteria als ras, huidskleur, taal, religie, nationaliteit of nationale of etnische afkomst bij de uitoefening van toezichts-, handhavings- en opsporingsbevoegdheden, zonder dat daarvoor een objectieve en redelijke rechtvaardiging bestaat">etnisch profileren</abbr></td>
+<td>Het gebruik door overheidsinstanties van selectiecriteria als ras, huidskleur, taal, religie, nationaliteit of nationale of etnische afkomst bij de uitoefening van toezichts-, handhavings- en opsporingsbevoegdheden, zonder dat daarvoor een objectieve en redelijke rechtvaardiging bestaat</td>
+</tr>
+<tr>
+<td><abbr title="Een Europese norm die op verzoek van de Commissie is vastgesteld met het oog op de toepassing van harmonisatiewetgeving van de Unie">geharmoniseerde norm</abbr></td>
+<td>Een <abbr title="Een Europese norm die op verzoek van de Commissie is vastgesteld met het oog op de toepassing van harmonisatiewetgeving van de Unie">geharmoniseerde norm</abbr> zoals gedefinieerd in artikel 2, lid 1,punt c), van Verordening (EU) nr. 1025/2012</td>
+</tr>
+<tr>
+<td><abbr title="een reeks technische specificaties zoals gedefinieerd in artikel 2, punt 4, van Verordening (EU) nr. 1025/2012, om te voldoen aan bepaalde voorschriften zoals vastgelegd in deze verordening">gemeenschappelijke specificatie</abbr></td>
+<td>een reeks technische specificaties zoals gedefinieerd in artikel 2, punt 4, van Verordening (EU) nr. 1025/2012, om te voldoen aan bepaalde voorschriften zoals vastgelegd in de AI-verordening</td>
+</tr>
+<tr>
+<td><abbr title="de door de aanbieder verstrekte informatie om de gebruiksverantwoordelijke te informeren over met name het beoogde doel en juiste gebruik van een AI-systeem">gebruiksinstructies</abbr></td>
+<td>de door de <abbr title="Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een AI-systeem of een AI-model voor algemene doeleinden ontwikkelt of laat ontwikkelen en dat systeem of model in de handel brengt of het AI-systeem in gebruik stelt onder de eigen naam of merk, al dan niet tegen betaling.">aanbieder</abbr> verstrekte informatie om de <abbr title="Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een AI-systeem onder eigen verantwoordelijkheid gebruikt, tenzij het AI-systeem wordt gebruikt in het kader van een persoonlijke niet- beroepsactiviteit.">gebruiksverantwoordelijke</abbr> te informeren over met name het beoogde doel en juiste gebruik van een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr></td>
+</tr>
+<tr>
+<td><abbr title="Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een AI-systeem onder eigen verantwoordelijkheid gebruikt, tenzij het AI-systeem wordt gebruikt in het kader van een persoonlijke niet- beroepsactiviteit.">gebruiksverantwoordelijke</abbr></td>
+<td>Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> onder eigen verantwoordelijkheid gebruikt, tenzij het <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> wordt gebruikt in het kader van een persoonlijke niet- beroepsactiviteit.</td>
+</tr>
+<tr>
+<td><abbr title="Een Europese norm die op verzoek van de Commissie is vastgesteld met het oog op de toepassing van harmonisatiewetgeving van de Unie">geharmoniseerde norm</abbr></td>
+<td>Een Europese <abbr title="een norm is een vrijwillige afspraak tussen partijen over een product, dienst of proces. Normen zijn geen wetten, maar ’best practices’. Iedereen kan - op vrijwillige basis - hier zijn voordeel mee doen. In zakelijke overeenkomsten hebben normen een belangrijke functie. Ze bieden marktpartijen duidelijkheid over en vertrouwen in producten, diensten of organisaties en dagen de maatschappij uit te innoveren. NEN-normen worden ontwikkeld door inhoudsexperts en specialisten op het gebied van normontwikkeling.">norm</abbr> die op verzoek van de Commissie is vastgesteld met het oog op de toepassing van harmonisatiewetgeving van de Unie</td>
+</tr>
+<tr>
+<td><abbr title="de vrijelijk gegeven, specifieke, ondubbelzinnige en vrijwillige uiting door een proefpersoon van zijn of haar bereidheid deel te nemen aan een bepaalde test onder reële omstandigheden, na geïnformeerd te zijn over alle aspecten van de test die van belang zijn voor zijn of haar beslissing om deel te nemen">geïnformeerde toestemming</abbr></td>
+<td>De vrijelijk gegeven, specifieke, ondubbelzinnige en vrijwillige uiting door een <abbr title="In het kader van tests onder reële omstandigheden: een natuurlijk persoon die deelneemt aan een test onder reële omstandigheden">proefpersoon</abbr> van zijn of haar bereidheid deel te nemen aan een bepaalde test onder reële omstandigheden, na geïnformeerd te zijn over alle aspecten van de test die van belang zijn voor zijn of haar beslissing om deel te nemen</td>
+</tr>
+<tr>
+<td><abbr title="een natuurlijke of rechtspersoon die zich bevindt of gevestigd is in de Unie die een schriftelijke machtiging heeft gekregen en aanvaard van een aanbieder van een AI-systeem of een AI-model voor algemene doeleinden om namens die aanbieder de verplichtingen en procedures van deze verordening respectievelijk na te komen en uit te voeren;">gemachtigde</abbr></td>
+<td>Een natuurlijke of rechtspersoon die zich bevindt of gevestigd is in de Unie die een schriftelijke machtiging heeft gekregen en aanvaard van een <abbr title="Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een AI-systeem of een AI-model voor algemene doeleinden ontwikkelt of laat ontwikkelen en dat systeem of model in de handel brengt of het AI-systeem in gebruik stelt onder de eigen naam of merk, al dan niet tegen betaling.">aanbieder</abbr> van een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> of een <abbr title="Een AI-model, ook wanneer het is getraind met een grote hoeveelheid data met behulp van self-supervision op grote schaal, dat een aanzienlijk algemeen karakter vertoont en in staat is op competente wijze een breed scala aan verschillende taken uit te voeren, ongeacht de wijze waarop het model in de handel wordt gebracht, en dat kan worden geïntegreerd in een verscheidenheid aan systemen verder in de AI-waardeketen of toepassingen verder in de AI-waardeketen, met uitzondering van AI-modellen die worden gebruikt voor onderzoek, ontwikkeling of prototypingactiviteiten alvorens zij in de handel worden gebracht.">AI-model voor algemene doeleinden</abbr> om namens die <abbr title="Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een AI-systeem of een AI-model voor algemene doeleinden ontwikkelt of laat ontwikkelen en dat systeem of model in de handel brengt of het AI-systeem in gebruik stelt onder de eigen naam of merk, al dan niet tegen betaling.">aanbieder</abbr> de verplichtingen en procedures van deze verordening respectievelijk na te komen en uit te voeren;</td>
+</tr>
+<tr>
+<td><abbr title="een reeks technische specificaties zoals gedefinieerd in artikel 2, punt 4, van Verordening (EU) nr. 1025/2012, om te voldoen aan bepaalde voorschriften zoals vastgelegd in deze verordening">gemeenschappelijke specificatie</abbr></td>
+<td>Een reeks technische specificaties zoals gedefinieerd in artikel 2, punt 4, van Verordening (EU) nr. 1025/2012, om te voldoen aan bepaalde voorschriften zoals vastgelegd in deze verordening</td>
+</tr>
+<tr>
+<td><abbr title="operationele gegevens met betrekking tot activiteiten op het gebied van preventie, opsporing, onderzoek of vervolging van strafbare feiten waarvan de openbaarmaking de integriteit van strafprocedures in het gedrang zou kunnen brengen">gevoelige operationele gegevens</abbr></td>
+<td>Operationele gegevens met betrekking tot activiteiten op het gebied van preventie, opsporing, onderzoek of vervolging van strafbare feiten waarvan de openbaarmaking de integriteit van strafprocedures in het gedrang zou kunnen brengen</td>
+</tr>
+<tr>
+<td><abbr title="Een natuurlijke of rechtspersoon die zich bevindt of gevestigd is in de Unie die een AI-systeem in de handel brengt dat de naam of merknaam van een in een derde land gevestigde natuurlijke of rechtspersoon draagt">importeur</abbr></td>
+<td>Een natuurlijke of rechtspersoon die zich bevindt of gevestigd is in de Unie die een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> in de handel brengt dat de naam of merknaam van een in een derde land gevestigde natuurlijke of rechtspersoon draagt</td>
+</tr>
+<tr>
+<td><abbr title="Het voor het eerst in de Unie op de markt aanbieden van een AI-systeem of een AI-model voor algemene doeleinden">in de handel brengen</abbr></td>
+<td>Het voor het eerst in de Unie <abbr title="Het in het kader van een handelsactiviteit, al dan niet tegen betaling, verstrekken van een AI-systeem of een AI-model voor algemene doeleinden met het oog op distributie of gebruik op de markt van de Unie">op de markt aanbieden</abbr> van een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> of een <abbr title="Een AI-model, ook wanneer het is getraind met een grote hoeveelheid data met behulp van self-supervision op grote schaal, dat een aanzienlijk algemeen karakter vertoont en in staat is op competente wijze een breed scala aan verschillende taken uit te voeren, ongeacht de wijze waarop het model in de handel wordt gebracht, en dat kan worden geïntegreerd in een verscheidenheid aan systemen verder in de AI-waardeketen of toepassingen verder in de AI-waardeketen, met uitzondering van AI-modellen die worden gebruikt voor onderzoek, ontwikkeling of prototypingactiviteiten alvorens zij in de handel worden gebracht.">AI-model voor algemene doeleinden</abbr></td>
+</tr>
+<tr>
+<td><abbr title="De directe levering van een AI-systeem door de aanbieder aan de gebruiksverantwoordelijke voor het eerste gebruik of voor eigen gebruik in de Unie voor het beoogde doel">in gebruik stellen</abbr></td>
+<td>De directe levering van een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> door de <abbr title="Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een AI-systeem of een AI-model voor algemene doeleinden ontwikkelt of laat ontwikkelen en dat systeem of model in de handel brengt of het AI-systeem in gebruik stelt onder de eigen naam of merk, al dan niet tegen betaling.">aanbieder</abbr> aan de <abbr title="Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een AI-systeem onder eigen verantwoordelijkheid gebruikt, tenzij het AI-systeem wordt gebruikt in het kader van een persoonlijke niet- beroepsactiviteit.">gebruiksverantwoordelijke</abbr> voor het eerste gebruik of voor eigen gebruik in de Unie voor het beoogde doel</td>
+</tr>
+<tr>
+<td><abbr title="Indien een ogenschijnlijk neutrale bepaling, maatstaf of handelwijze personen met een bepaalde godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat in vergelijking met andere personen bijzonder treft.">indirect onderscheid</abbr></td>
+<td>Indien een ogenschijnlijk neutrale bepaling, maatstaf of handelwijze personen met een bepaalde godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat in vergelijking met andere personen bijzonder treft.</td>
+</tr>
+<tr>
+<td><abbr title="Wanneer een ogenschijnlijk neutrale bepaling, maatstaf of handelwijze personen met een bepaald beschermd persoonskenmerk (discriminatiegrond) in vergelijking met andere personen in het bijzonder benadeelt, tenzij hiervoor een objectieve rechtvaardiging bestaat.">indirecte discriminatie</abbr></td>
+<td>Wanneer een ogenschijnlijk neutrale bepaling, maatstaf of handelwijze personen met een bepaald beschermd persoonskenmerk (<abbr title="Beschermde persoonskenmerken op basis waarvan het maken van onderscheid tussen personen verboden is. Bijvoorbeeld: ras, nationaliteit, religie, geslacht, seksuele gerichtheid, handicap of chronische ziekte.">discriminatiegrond</abbr>) in vergelijking met andere personen in het bijzonder benadeelt, tenzij hiervoor een <abbr title="Van een objectieve rechtvaardiging voor onderscheid is sprake wanneer onderscheid een legitiem doel nastreeft en er een redelijke relatie van evenredigheid bestaat tussen het gemaakte onderscheid en het nagestreefde doel.">objectieve rechtvaardiging</abbr> bestaat.</td>
+</tr>
+<tr>
+<td><abbr title="data die in een AI-systeem worden ingevoerd of direct door een AI-systeem worden verworven en op basis waarvan het systeem een output genereert">inputdata</abbr></td>
+<td>Data die in een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> worden ingevoerd of direct door een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> worden verworven en op basis waarvan het systeem een output genereert</td>
+</tr>
+<tr>
+<td><abbr title="kritieke infrastructuur zoals gedefinieerd in artikel 2, punt 4, van Richtlijn (EU) 2022/2557">kritieke infrastructuur</abbr></td>
+<td>Kritieke infrastructuur zoals gedefinieerd in artikel 2, punt 4, van Richtlijn (EU) 2022/2557</td>
+</tr>
+<tr>
+<td><abbr title="Het legaliteitsbeginsel houdt in dat alle overheidsoptreden moet berusten op een overeenstemmen met - kenbare en voldoende specifieke - algemene regels.">legaliteitsbeginsel</abbr></td>
+<td>Het <abbr title="Het legaliteitsbeginsel houdt in dat alle overheidsoptreden moet berusten op een overeenstemmen met - kenbare en voldoende specifieke - algemene regels.">legaliteitsbeginsel</abbr> houdt in dat alle overheidsoptreden moet berusten op een overeenstemmen met - kenbare en voldoende specifieke - algemene regels.</td>
+</tr>
+<tr>
+<td><abbr title="de nationale autoriteit die de activiteiten verricht en maatregelen neemt als bedoeld in Verordening (EU) 2019/1020">markttoezichtautoriteit</abbr></td>
+<td>De nationale autoriteit die de activiteiten verricht en maatregelen neemt als bedoeld in Verordening (EU) 2019/1020</td>
+</tr>
+<tr>
+<td><abbr title="een aanmeldende autoriteit of een de markttoezichtautoriteit; wat betreft AI-systemen die door instellingen, organen en instanties van de EU in gebruik worden gesteld of worden gebruikt, worden verwijzingen naar nationale bevoegde autoriteiten of markttoezichtautoriteiten in deze verordening begrepen als verwijzingen naar de Europese Toezichthouder voor gegevensbescherming">nationale bevoegde autoriteit</abbr></td>
+<td>Een <abbr title="De nationale autoriteit die verantwoordelijk is voor het opzetten en uitvoeren van de noodzakelijke procedures voor de beoordeling, aanwijzing en kennisgeving van de conformiteitsbeoordelingsinstanties en de monitoring hiervan">aanmeldende autoriteit</abbr> of een de <abbr title="de nationale autoriteit die de activiteiten verricht en maatregelen neemt als bedoeld in Verordening (EU) 2019/1020">markttoezichtautoriteit</abbr>; wat betreft AI-systemen die door instellingen, organen en instanties van de EU in gebruik worden gesteld of worden gebruikt, worden verwijzingen naar nationale bevoegde autoriteiten of markttoezichtautoriteiten in deze verordening begrepen als verwijzingen naar de Europese Toezichthouder voor gegevensbescherming</td>
+</tr>
+<tr>
+<td><abbr title="een norm is een vrijwillige afspraak tussen partijen over een product, dienst of proces. Normen zijn geen wetten, maar ’best practices’. Iedereen kan - op vrijwillige basis - hier zijn voordeel mee doen. In zakelijke overeenkomsten hebben normen een belangrijke functie. Ze bieden marktpartijen duidelijkheid over en vertrouwen in producten, diensten of organisaties en dagen de maatschappij uit te innoveren. NEN-normen worden ontwikkeld door inhoudsexperts en specialisten op het gebied van normontwikkeling.">norm</abbr></td>
+<td>Een <abbr title="een norm is een vrijwillige afspraak tussen partijen over een product, dienst of proces. Normen zijn geen wetten, maar ’best practices’. Iedereen kan - op vrijwillige basis - hier zijn voordeel mee doen. In zakelijke overeenkomsten hebben normen een belangrijke functie. Ze bieden marktpartijen duidelijkheid over en vertrouwen in producten, diensten of organisaties en dagen de maatschappij uit te innoveren. NEN-normen worden ontwikkeld door inhoudsexperts en specialisten op het gebied van normontwikkeling.">norm</abbr> is een vrijwillige afspraak tussen partijen over een product, dienst of proces. Normen zijn geen wetten, maar ’best practices’. Iedereen kan - op vrijwillige basis - hier zijn voordeel mee doen. In zakelijke overeenkomsten hebben normen een belangrijke functie. Ze bieden marktpartijen duidelijkheid over en vertrouwen in producten, diensten of organisaties en dagen de maatschappij uit te innoveren. NEN-normen worden ontwikkeld door inhoudsexperts en specialisten op het gebied van normontwikkeling.</td>
+</tr>
+<tr>
+<td><abbr title="Normalisatie is het proces om te komen tot een norm. Dit proces is open, transparant en gericht op consensus en vindt plaats in normcommissies die bestaan uit vertegenwoordigers van alle betrokken partijen. Dit gebeurt niet alleen op nationaal niveau, maar ook in Europees en mondiaal verband.">normalisatie</abbr></td>
+<td>Normalisatie is het proces om te komen tot een <abbr title="een norm is een vrijwillige afspraak tussen partijen over een product, dienst of proces. Normen zijn geen wetten, maar ’best practices’. Iedereen kan - op vrijwillige basis - hier zijn voordeel mee doen. In zakelijke overeenkomsten hebben normen een belangrijke functie. Ze bieden marktpartijen duidelijkheid over en vertrouwen in producten, diensten of organisaties en dagen de maatschappij uit te innoveren. NEN-normen worden ontwikkeld door inhoudsexperts en specialisten op het gebied van normontwikkeling.">norm</abbr>. Dit proces is open, transparant en gericht op consensus en vindt plaats in normcommissies die bestaan uit vertegenwoordigers van alle betrokken partijen. Dit gebeurt niet alleen op nationaal niveau, maar ook in Europees en mondiaal verband.</td>
+</tr>
+<tr>
+<td><abbr title="Van een objectieve rechtvaardiging voor onderscheid is sprake wanneer onderscheid een legitiem doel nastreeft en er een redelijke relatie van evenredigheid bestaat tussen het gemaakte onderscheid en het nagestreefde doel.">objectieve rechtvaardiging</abbr></td>
+<td>Van een <abbr title="Van een objectieve rechtvaardiging voor onderscheid is sprake wanneer onderscheid een legitiem doel nastreeft en er een redelijke relatie van evenredigheid bestaat tussen het gemaakte onderscheid en het nagestreefde doel.">objectieve rechtvaardiging</abbr> voor onderscheid is sprake wanneer onderscheid een legitiem doel nastreeft en er een redelijke relatie van evenredigheid bestaat tussen het gemaakte onderscheid en het nagestreefde doel.</td>
+</tr>
+<tr>
+<td><abbr title="Het in het kader van een handelsactiviteit, al dan niet tegen betaling, verstrekken van een AI-systeem of een AI-model voor algemene doeleinden met het oog op distributie of gebruik op de markt van de Unie">op de markt aanbieden</abbr></td>
+<td>Het in het kader van een handelsactiviteit, al dan niet tegen betaling, verstrekken van een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> of een <abbr title="Een AI-model, ook wanneer het is getraind met een grote hoeveelheid data met behulp van self-supervision op grote schaal, dat een aanzienlijk algemeen karakter vertoont en in staat is op competente wijze een breed scala aan verschillende taken uit te voeren, ongeacht de wijze waarop het model in de handel wordt gebracht, en dat kan worden geïntegreerd in een verscheidenheid aan systemen verder in de AI-waardeketen of toepassingen verder in de AI-waardeketen, met uitzondering van AI-modellen die worden gebruikt voor onderzoek, ontwikkeling of prototypingactiviteiten alvorens zij in de handel worden gebracht.">AI-model voor algemene doeleinden</abbr> met het oog op distributie of gebruik op de markt van de Unie</td>
+</tr>
+<tr>
+<td><abbr title="een aanbieder, productfabrikant, gebruiksverantwoordelijke, gemachtigde, importeur of distributeur">operator</abbr></td>
+<td>Een <abbr title="Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een AI-systeem of een AI-model voor algemene doeleinden ontwikkelt of laat ontwikkelen en dat systeem of model in de handel brengt of het AI-systeem in gebruik stelt onder de eigen naam of merk, al dan niet tegen betaling.">aanbieder</abbr>, productfabrikant, <abbr title="Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een AI-systeem onder eigen verantwoordelijkheid gebruikt, tenzij het AI-systeem wordt gebruikt in het kader van een persoonlijke niet- beroepsactiviteit.">gebruiksverantwoordelijke</abbr>, <abbr title="een natuurlijke of rechtspersoon die zich bevindt of gevestigd is in de Unie die een schriftelijke machtiging heeft gekregen en aanvaard van een aanbieder van een AI-systeem of een AI-model voor algemene doeleinden om namens die aanbieder de verplichtingen en procedures van deze verordening respectievelijk na te komen en uit te voeren;">gemachtigde</abbr>, <abbr title="Een natuurlijke of rechtspersoon die zich bevindt of gevestigd is in de Unie die een AI-systeem in de handel brengt dat de naam of merknaam van een in een derde land gevestigde natuurlijke of rechtspersoon draagt">importeur</abbr> of <abbr title="Een andere natuurlijke persoon of rechtspersoon in de toeleveringsketen dan de aanbieder of de importeur, die een AI-systeem in de Unie op de markt aanbiedt">distributeur</abbr></td>
+</tr>
+<tr>
+<td>prestaties van een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr></td>
+<td>Het vermogen van een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> om het beoogde doel te verwezenlijken</td>
+</tr>
+<tr>
+<td><abbr title="een document waarin de doelstellingen, methode, geografische reikwijdte, betrokken personen, duur, monitoring, organisatie en wijze van uitvoering van een test onder reële omstandigheden worden omschreven">plan voor testen onder reële omstandigheden</abbr></td>
+<td>Een document waarin de doelstellingen, methode, geografische reikwijdte, betrokken personen, duur, monitoring, organisatie en wijze van uitvoering van een test onder reële omstandigheden worden omschreven</td>
+</tr>
+<tr>
+<td><abbr title="De proceseigenaar is verantwoordelijk voor de kwaliteit van het proces en de vastlegging daarvan in een processchema">proceseigenaar</abbr></td>
+<td>De <abbr title="De proceseigenaar is verantwoordelijk voor de kwaliteit van het proces en de vastlegging daarvan in een processchema">proceseigenaar</abbr> is verantwoordelijk voor de kwaliteit van het proces en de vastlegging daarvan in een processchema</td>
+</tr>
+<tr>
+<td><abbr title="In het kader van tests onder reële omstandigheden: een natuurlijk persoon die deelneemt aan een test onder reële omstandigheden">proefpersoon</abbr></td>
+<td>In het kader van tests onder reële omstandigheden: een natuurlijk persoon die deelneemt aan een test onder reële omstandigheden</td>
+</tr>
+<tr>
+<td><abbr title="De verwerving van werken, leveringen of diensten door een overheid of publieke organisatie, van de markt of een andere externe instantie, terwijl zij tegelijkertijd publieke waarde creëren en waarborgen vanuit het perspectief van de eigen organisatie.">publieke inkoop</abbr></td>
+<td>De verwerving van werken, leveringen of diensten door een overheid of publieke organisatie, van de markt of een andere externe instantie, terwijl zij tegelijkertijd publieke waarde creëren en waarborgen vanuit het perspectief van de eigen organisatie.</td>
+</tr>
+<tr>
+<td><abbr title="Het gebruik van een AI-systeem op een wijze die niet in overeenstemming is met het beoogde doel, maar die kan voortvloeien uit redelijkerwijs te voorzien menselijk gedrag of redelijkerwijs te voorziene interactie met andere systemen, waaronder andere AI-systemen">redelijkerwijs te voorzien misbruik</abbr></td>
+<td>Het gebruik van een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> op een wijze die niet in overeenstemming is met het beoogde doel, maar die kan voortvloeien uit redelijkerwijs te voorzien menselijk gedrag of redelijkerwijs te voorziene interactie met andere systemen, waaronder andere AI-systemen</td>
+</tr>
+<tr>
+<td><abbr title="De combinatie van de kans op schade en de ernst van die schade;">risico</abbr></td>
+<td>De combinatie van de kans op schade en de ernst van die schade;</td>
+</tr>
+<tr>
+<td><abbr title="Een verandering van een AI-systeem nadat dit in de handel is gebracht of in gebruik is gesteld, die door de aanbieder niet is voorzien of gepland in de initiële conformiteitsbeoordeling en als gevolg waarvan de overeenstemming van het AI-systeem met de voorschriften van hoofdstuk III, afdeling 2, wordt beïnvloed, of die leidt tot een wijziging van het beoogde doel waarvoor het AI-systeem is beoordeeld">substantiële wijziging</abbr></td>
+<td>Een verandering van een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> nadat dit in de handel is gebracht of in gebruik is gesteld, die door de <abbr title="Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een AI-systeem of een AI-model voor algemene doeleinden ontwikkelt of laat ontwikkelen en dat systeem of model in de handel brengt of het AI-systeem in gebruik stelt onder de eigen naam of merk, al dan niet tegen betaling.">aanbieder</abbr> niet is voorzien of gepland in de initiële <abbr title="Het proces waarbij de naleving wordt aangetoond van de voorschriften van hoofdstuk III, afdeling 2 van de AI-Verordening in verband met een AI-systeem met een hoog risico">conformiteitsbeoordeling</abbr> en als gevolg waarvan de overeenstemming van het <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> met de voorschriften van hoofdstuk III, afdeling 2, AI-Verordening wordt beïnvloed, of die leidt tot een wijziging van het beoogde doel waarvoor het <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> is beoordeeld</td>
+</tr>
+<tr>
+<td>systeem voor monitoring na het <abbr title="Het voor het eerst in de Unie op de markt aanbieden van een AI-systeem of een AI-model voor algemene doeleinden">in de handel brengen</abbr></td>
+<td>Alle door <abbr title="Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een AI-systeem of een AI-model voor algemene doeleinden ontwikkelt of laat ontwikkelen en dat systeem of model in de handel brengt of het AI-systeem in gebruik stelt onder de eigen naam of merknaam, al dan niet tegen betaling.">aanbieders</abbr> van AI-systemen verrichte activiteiten voor het verzamelen en evalueren van ervaringen met door hen in de handel gebrachte of in gebruik gestelde AI-systemen, teneinde te kunnen vaststellen of er onmiddellijk corrigerende dan wel preventieve maatregelen nodig zijn</td>
+</tr>
+<tr>
+<td><abbr title="een AI-systeem dat is bedoeld voor het vaststellen of afleiden van de emoties of intenties van natuurlijke personen op basis van hun biometrische gegevens">systeem voor het herkennen van emoties</abbr></td>
+<td>Een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> dat is bedoeld voor het vaststellen of afleiden van de emoties of intenties van natuurlijke personen op basis van hun <abbr title="persoonsgegevens die het resultaat zijn van een specifieke technische verwerking met betrekking tot de fysieke, fysiologische of gedragsgerelateerde kenmerken van een natuurlijk persoon, zoals gezichtsafbeeldingen of vingerafdrukgegevens">biometrische gegevens</abbr></td>
+</tr>
+<tr>
+<td><abbr title="een AI-systeem dat is bedoeld voor het indelen van natuurlijke personen in specifieke categorieën op basis van hun biometrische gegevens, tenzij dit een aanvulling vormt op een andere commerciële dienst en om objectieve technische redenen strikt noodzakelijk is">systeem voor biometrische categorisering</abbr></td>
+<td>Een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> dat is bedoeld voor het indelen van natuurlijke personen in specifieke categorieën op basis van hun <abbr title="persoonsgegevens die het resultaat zijn van een specifieke technische verwerking met betrekking tot de fysieke, fysiologische of gedragsgerelateerde kenmerken van een natuurlijk persoon, zoals gezichtsafbeeldingen of vingerafdrukgegevens">biometrische gegevens</abbr>, tenzij dit een aanvulling vormt op een andere commerciële dienst en om objectieve technische redenen strikt noodzakelijk is</td>
+</tr>
+<tr>
+<td>systeem voor <abbr title="de geautomatiseerde herkenning van fysieke, fysiologische, gedragsgerelateerde of psychologische menselijke kenmerken om de identiteit van een natuurlijk persoon vast te stellen door biometrische gegevens van die persoon te vergelijken met in een databank opgeslagen biometrische gegevens van personen">biometrische identificatie</abbr> op afstand</td>
+<td>Een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> dat is bedoeld voor het identificeren van natuurlijke personen, zonder dat zij daar actief bij betrokken zijn en doorgaans van een afstand, door middel van vergelijking van de <abbr title="persoonsgegevens die het resultaat zijn van een specifieke technische verwerking met betrekking tot de fysieke, fysiologische of gedragsgerelateerde kenmerken van een natuurlijk persoon, zoals gezichtsafbeeldingen of vingerafdrukgegevens">biometrische gegevens</abbr> van een persoon met de <abbr title="persoonsgegevens die het resultaat zijn van een specifieke technische verwerking met betrekking tot de fysieke, fysiologische of gedragsgerelateerde kenmerken van een natuurlijk persoon, zoals gezichtsafbeeldingen of vingerafdrukgegevens">biometrische gegevens</abbr> die zijn opgenomen in een referentiedatabank</td>
+</tr>
+<tr>
+<td>systeem voor <abbr title="de geautomatiseerde herkenning van fysieke, fysiologische, gedragsgerelateerde of psychologische menselijke kenmerken om de identiteit van een natuurlijk persoon vast te stellen door biometrische gegevens van die persoon te vergelijken met in een databank opgeslagen biometrische gegevens van personen">biometrische identificatie</abbr> op afstand in real time</td>
+<td>Een systeem voor <abbr title="de geautomatiseerde herkenning van fysieke, fysiologische, gedragsgerelateerde of psychologische menselijke kenmerken om de identiteit van een natuurlijk persoon vast te stellen door biometrische gegevens van die persoon te vergelijken met in een databank opgeslagen biometrische gegevens van personen">biometrische identificatie</abbr> op afstand, waarbij het vastleggen van <abbr title="persoonsgegevens die het resultaat zijn van een specifieke technische verwerking met betrekking tot de fysieke, fysiologische of gedragsgerelateerde kenmerken van een natuurlijk persoon, zoals gezichtsafbeeldingen of vingerafdrukgegevens">biometrische gegevens</abbr>, de vergelijking en de identificatie zonder significante vertraging plaatsvinden, zowel wanneer de identificatie niet enkel onmiddellijk plaatsvindt, maar ook wanneer de identificatie met beperkte korte vertragingen plaatsvindt, om omzeiling te voorkomen</td>
+</tr>
+<tr>
+<td>systeem voor <abbr title="de geautomatiseerde herkenning van fysieke, fysiologische, gedragsgerelateerde of psychologische menselijke kenmerken om de identiteit van een natuurlijk persoon vast te stellen door biometrische gegevens van die persoon te vergelijken met in een databank opgeslagen biometrische gegevens van personen">biometrische identificatie</abbr> op afstand achteraf</td>
+<td>Een ander biometrisch systeem voor de identificatie op afstand dan een systeem voor <abbr title="de geautomatiseerde herkenning van fysieke, fysiologische, gedragsgerelateerde of psychologische menselijke kenmerken om de identiteit van een natuurlijk persoon vast te stellen door biometrische gegevens van die persoon te vergelijken met in een databank opgeslagen biometrische gegevens van personen">biometrische identificatie</abbr> op afstand in real time</td>
+</tr>
+<tr>
+<td><abbr title="een risico dat specifiek is voor de capaciteiten met een grote impact van AI-modellen voor algemene doeleinden, die aanzienlijke gevolgen hebben voor de markt van de Unie vanwege hun bereik, of vanwege feitelijke of redelijkerwijs te voorziene negatieve gevolgen voor de gezondheid, de veiligheid, de openbare veiligheid, de grondrechten of de samenleving als geheel, en dat op grote schaal in de hele waardeketen kan worden verspreid">systeemrisico</abbr></td>
+<td>Een <abbr title="De combinatie van de kans op schade en de ernst van die schade;">risico</abbr> dat specifiek is voor de <abbr title="capaciteiten die overeenkomen met of groter zijn dan de capaciteiten die worden opgetekend bij de meest geavanceerde AI-modellen voor algemene doeleinden.">capaciteiten met een grote impact</abbr> van <abbr title="Een AI-model, ook wanneer het is getraind met een grote hoeveelheid data met behulp van self-supervision op grote schaal, dat een aanzienlijk algemeen karakter vertoont en in staat is op competente wijze een breed scala aan verschillende taken uit te voeren, ongeacht de wijze waarop het model in de handel wordt gebracht, en dat kan worden geïntegreerd in een verscheidenheid aan systemen verder in de AI-waardeketen of toepassingen verder in de AI-waardeketen, met uitzondering van AI-modellen die worden gebruikt voor onderzoek, ontwikkeling of prototypingactiviteiten alvorens zij in de handel worden gebracht.">AI-modellen voor algemene doeleinden</abbr>, die aanzienlijke gevolgen hebben voor de markt van de Unie vanwege hun bereik, of vanwege feitelijke of redelijkerwijs te voorziene negatieve gevolgen voor de gezondheid, de veiligheid, de openbare veiligheid, de grondrechten of de samenleving als geheel, en dat op grote schaal in de hele waardeketen kan worden verspreid</td>
+</tr>
+<tr>
+<td>terugroepen van een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr></td>
+<td>Een maatregel gericht op het retourneren aan de <abbr title="Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een AI-systeem of een AI-model voor algemene doeleinden ontwikkelt of laat ontwikkelen en dat systeem of model in de handel brengt of het AI-systeem in gebruik stelt onder de eigen naam of merk, al dan niet tegen betaling.">aanbieder</abbr>, het buiten gebruik stellen of het onbruikbaar maken van een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> dat aan gebruiksverantwoordelijken ter beschikking is gesteld</td>
+</tr>
+<tr>
+<td><abbr title="data die worden gebruikt voor het verrichten van een onafhankelijke evaluatie van het AI-systeem om de verwachte prestaties van dat systeem te bevestigen voordat het in de handel wordt gebracht of in gebruik wordt gesteld">testdata</abbr></td>
+<td>Data die worden gebruikt voor het verrichten van een onafhankelijke evaluatie van het <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> om de verwachte prestaties van dat systeem te bevestigen voordat het in de handel wordt gebracht of in gebruik wordt gesteld</td>
+</tr>
+<tr>
+<td><abbr title="tussen de deelnemende aanbieder en de bevoegde autoriteit overeengekomen document waarin de doelstellingen, de voorwaarden, het tijdschema, de methode en de vereisten voor de in de testomgeving uitgevoerde activiteiten worden beschreven">testomgevingsplan</abbr></td>
+<td>Tussen de deelnemende <abbr title="Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een AI-systeem of een AI-model voor algemene doeleinden ontwikkelt of laat ontwikkelen en dat systeem of model in de handel brengt of het AI-systeem in gebruik stelt onder de eigen naam of merk, al dan niet tegen betaling.">aanbieder</abbr> en de bevoegde autoriteit overeengekomen document waarin de doelstellingen, de voorwaarden, het tijdschema, de methode en de vereisten voor de in de testomgeving uitgevoerde activiteiten worden beschreven</td>
+</tr>
+<tr>
+<td><abbr title="het tijdelijk testen van een AI-systeem voor zijn beoogde doel onder reële omstandigheden buiten een laboratorium of anderszins gesimuleerde omgeving teneinde betrouwbare en robuuste gegevens te verkrijgen, en te beoordelen en te verifiëren of het AI-systeem overeenstemt met de voorschriften van de AI-verordening en het wordt niet aangemerkt als het in de handel brengen of in gebruik stellen van het AI-systeem in de zin van de AI-verordening, mits aan alle in artikel 57 of 60 vastgestelde voorwaarden is voldaan">testen onder reële omstandigheden</abbr></td>
+<td>Het tijdelijk testen van een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> voor zijn beoogde doel onder reële omstandigheden buiten een laboratorium of anderszins gesimuleerde omgeving teneinde betrouwbare en robuuste gegevens te verkrijgen, en te beoordelen en te verifiëren of het <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> overeenstemt met de voorschriften van de AI-verordening en het wordt niet aangemerkt als het <abbr title="Het voor het eerst in de Unie op de markt aanbieden van een AI-systeem of een AI-model voor algemene doeleinden">in de handel brengen</abbr> of <abbr title="De directe levering van een AI-systeem door de aanbieder aan de gebruiksverantwoordelijke voor het eerste gebruik of voor eigen gebruik in de Unie voor het beoogde doel">in gebruik stellen</abbr> van het <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> in de zin van de AI-verordening, mits aan alle in artikel 57 of 60 vastgestelde voorwaarden is voldaan</td>
+</tr>
+<tr>
+<td><abbr title="de vrijelijk gegeven, specifieke, ondubbelzinnige en vrijwillige uiting door een proefpersoon van zijn of haar bereidheid deel te nemen aan een bepaalde test onder reële omstandigheden, na geïnformeerd te zijn over alle aspecten van de test die van belang zijn voor zijn of haar beslissing deel te nemen">toestemming met kennis van zaken</abbr></td>
+<td>De vrijelijk gegeven, specifieke, ondubbelzinnige en vrijwillige uiting door een <abbr title="In het kader van tests onder reële omstandigheden: een natuurlijk persoon die deelneemt aan een test onder reële omstandigheden">proefpersoon</abbr> van zijn of haar bereidheid deel te nemen aan een bepaalde test onder reële omstandigheden, na geïnformeerd te zijn over alle aspecten van de test die van belang zijn voor zijn of haar beslissing deel te nemen</td>
+</tr>
+<tr>
+<td><abbr title="data die worden gebruikt voor het trainen van een AI-systeem door de leerbare parameters hiervan aan te passen">trainingsdata</abbr></td>
+<td>Data die worden gebruikt voor het trainen van een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> door de leerbare parameters hiervan aan te passen</td>
+</tr>
+<tr>
+<td>uit de handel nemen van een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr></td>
+<td>Een maatregel waarmee wordt beoogd te voorkomen dat een <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> dat zich in de toeleveringsketen bevindt, op de markt wordt aangeboden</td>
+</tr>
+<tr>
+<td><abbr title="data die worden gebruikt voor het verrichten van een evaluatie van het getrainde AI-systeem en voor het afstemmen van onder andere de niet-leerbare parameters en het leerproces ervan, om underfitting of overfitting te voorkomen">validatiedata</abbr></td>
+<td>Data die worden gebruikt voor het verrichten van een evaluatie van het getrainde <abbr title="een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen;">AI-systeem</abbr> en voor het afstemmen van onder andere de niet-leerbare parameters en het leerproces ervan, om underfitting of overfitting te voorkomen</td>
+</tr>
+<tr>
+<td><abbr title="een afzonderlijke dataset of deel van de trainingsdataset, als vaste of variabele opdeling.">validatiedataset</abbr></td>
+<td>Een afzonderlijke dataset of deel van de trainingsdataset, als vaste of variabele opdeling.</td>
+</tr>
+<tr>
+<td><abbr title="Een component van een product of systeem die een veiligheidsfunctie voor dat product of systeem vervult of waarvan het falen of gebrekkig functioneren de gezondheid en veiligheid van personen of eigendom in gevaar brengt">veiligheidscomponent</abbr></td>
+<td>Een component van een product of systeem die een veiligheidsfunctie voor dat product of systeem vervult of waarvan het falen of gebrekkig functioneren de gezondheid en veiligheid van personen of eigendom in gevaar brengt</td>
+</tr>
+<tr>
+<td><abbr title="Een .. rechtspersoon, een overheidsinstantie, een dienst of een ander orgaan die/dat ten behoeve van de verwerkingsverantwoordelijke persoonsgegevens verwerkt.">verwerker</abbr></td>
+<td>Een .. rechtspersoon, een overheidsinstantie, een dienst of een ander orgaan die/dat ten behoeve van de verwerkingsverantwoordelijke persoonsgegevens verwerkt.</td>
+</tr>
+<tr>
+<td><abbr title="Een rechtspersoon of overheidsinstantie die, alleen of samen met anderen, het doel van en de middelen voor de verwerking van persoonsgegevens vaststelt">verwerkersverantwoordelijke</abbr></td>
+<td>Een rechtspersoon of overheidsinstantie die, alleen of samen met anderen, het doel van en de middelen voor de verwerking van persoonsgegevens vaststelt</td>
+</tr>
+<tr>
+<td>zwevendekommabewerking of “floating-point operation (FLOP)</td>
+<td>Elke wiskundige bewerking of toewijzing met zwevendekommagetallen, die een subset vormen van de reële getallen die gewoonlijk op computers worden gerepresenteerd door een geheel getal met een vaste precisie, geschaald door een gehele exponent van een vaste basis</td>
+</tr>
+</tbody>
+</table>
+<div class="admonition info">
+<p class="admonition-title">Disclaimer</p>
+<p>Het Algoritmekader is nog volop in ontwikkeling. Op deze plek willen we vooral aan de slag gaan op een open en transparante wijze. Het is dus niet definitief. Dat betekent dat er dingen opstaan die niet af zijn en soms zelfs fout. Mocht er iets niet kloppen, laat het ons weten via <a href="https://github.com/MinBZK/Algoritmekader">GitHub</a>.</p>
+</div>
+
+
+
+
+
+
+
+  
+    
+  
+  
+    
+  
+
+
+  <aside class="md-source-file">
+    
+      
+  <span class="md-source-file__fact">
+    <span class="md-icon" title="Laatst geüpdatet">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
+    </span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">July 5, 2024</span>
+  </span>
+
+    
+    
+      
+  <span class="md-source-file__fact">
+    <span class="md-icon" title="Gecreëerd">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.47 15.08 11 13V7h1.5v5.25l3.08 1.83c-.41.28-.79.62-1.11 1m-1.39 4.84c-.36.05-.71.08-1.08.08-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8c0 .37-.03.72-.08 1.08.69.1 1.33.32 1.92.64.1-.56.16-1.13.16-1.72 0-5.5-4.5-10-10-10S2 6.5 2 12s4.47 10 10 10c.59 0 1.16-.06 1.72-.16-.32-.59-.54-1.23-.64-1.92M18 15v3h-3v2h3v3h2v-3h3v-2h-3v-3h-2Z"/></svg>
+    </span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">July 5, 2024</span>
+  </span>
+
+    
+    
+    
+  </aside>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var tab,labels=set.querySelector(".tabbed-labels");for(tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+  Terug naar boven
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../" class="md-footer__link md-footer__link--prev" aria-label="Vorige: Over het Algoritmekader">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Vorige
+              </span>
+              <div class="md-ellipsis">
+                Over het Algoritmekader
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../CONTRIBUTING/" class="md-footer__link md-footer__link--next" aria-label="Volgende: Bijdragen aan het Algoritmekader">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Volgende
+              </span>
+              <div class="md-ellipsis">
+                Bijdragen aan het Algoritmekader
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/MinBZK/Algoritmekader" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.indexes", "navigation.tabs", "navigation.tabs.sticky", "navigation.top", "navigation.tracking", "navigation.instant", "navigation.footer", "navigation.prune", "search.highlight", "search.suggest", "content.action.edit", "content.action.view", "content.tooltips", "content.tabs.link"], "search": "../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Gekopieerd naar klembord", "clipboard.copy": "Kopi\u00ebren naar klembord", "search.result.more.one": "1 extra overeenkomst op deze pagina", "search.result.more.other": "# extra overeenkomsten op deze pagina", "search.result.none": "Geen overeenkomende documenten", "search.result.one": "1 overeenkomende document", "search.result.other": "# overeenkomende documenten", "search.result.placeholder": "Typ om te beginnen met zoeken", "search.result.term.missing": "Ontbreekt", "select.version": "Selecteer versie"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.fe8b6f2b.min.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js"></script>
+      
+        <script src="../../javascripts/tablesort.js"></script>
+      
+    
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
+</html>

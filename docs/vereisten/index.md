@@ -5,7 +5,16 @@ hide:
 - navigation
 ---
 # Eisen
-Overzicht van eisen voor overheden die algoritmes of AI-systemen ontwikkelen of gebruiken. Deze eisen zijn gebaseerd op de wetten en regels voor het uitvoeren van wettelijke taken, zoals de Grondwet.
+Overzicht van eisen voor overheden die algoritmes of AI-systemen ontwikkelen of gebruiken. Deze eisen zijn gebaseerd op de wetten en regels voor het uitvoeren van wettelijke taken, zoals de:
+- AI-verordening
+- Algemene verordening gegevensbescherming (AVG)
+- Algemene wet bestuursrecht (Awb)
+- Algemene wet gelijke behandeling (Awgb) 
+- Auteurswet
+- Baseline Informatiebeveiliging Overheid (BIO)
+- Grondwet
+
+Bij elke eis staat dit er duidelijk bij.
 
 ## Aantal eisen verschilt per situatie
 Welke eisen gelden voor jouw organisatie, hangt af van:

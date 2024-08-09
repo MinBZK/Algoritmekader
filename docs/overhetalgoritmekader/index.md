@@ -10,7 +10,7 @@ In het Algoritmekader vind je informatie over verantwoord gebruik van algoritmes
 - Wie is waarvoor verantwoordelijk?
 - Hoe voorkom je discriminatie (bias) in een algoritme?
 - Hoe verwerk je gegevens op een veilige manier?
-- Welke algoritmes controleer je op mensenrechtenschendingen?
+- Hoe voorkom je mensenrechtenschendingen?
 - Welke inkoopvoorwaarden spreek je af voor algoritmes van een externe partij?
 
 De informatie is bedoeld voor medewerkers van de rijksoverheid, provincies, gemeentes en waterschappen.

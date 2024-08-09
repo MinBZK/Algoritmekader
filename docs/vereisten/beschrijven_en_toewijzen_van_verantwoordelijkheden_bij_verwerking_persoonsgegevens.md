@@ -71,10 +71,6 @@ Deze maatregelen zijn essentieel om de naleving van regelgeving met betrekking t
 Door rollen en verantwoordelijkheden rondom de verwerking van persoonsgegevens niet te duiden en te beleggen, ontstaat het risico dat persoonsgegevens onrechtmatig on onveilig worden verwerkt.
 
 
-## Normen 
-
-In afwachting van het standaardisatieproces. 
-
 ## Maatregelen 
 
 === "Allen"

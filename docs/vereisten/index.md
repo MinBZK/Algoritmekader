@@ -22,7 +22,6 @@ Welke eisen gelden voor jouw organisatie, hangt af van:
 
 - de technologie die je gebruikt: rekenregels, machinelearning of generatieve AI
 - het risiconiveau van je product
-- de [fase in de levenscyclus](https://minbzk.github.io/Algoritmekader/levenscyclus/) van je project
 
 ### Voorbeeld
 > Impactvolle algoritmes en AI-systemen worden gepubliceerd in het Nederlandse algoritmeregister.

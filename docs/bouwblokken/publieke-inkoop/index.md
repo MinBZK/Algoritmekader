@@ -1,5 +1,6 @@
 ---
 title: Publieke inkoop
+summary: Hulp bij het maken van verantwoorde keuzes tijdens het inkoopproces van algoritmes of AI voor de overheid. Met hulpmiddelen zoals modelcontracten.
 description: 
 ---
 # Publieke inkoop van algoritmes en AI
@@ -40,9 +41,26 @@ Voor een kant-en-klare oplossing moet de leverancier bewijzen dat de software vo
 Voor de andere oplossingen moeten opdrachtgevers en leveranciers voldoen aan alle levenscyclus-fasen vanaf de fase [ontwerp](https://minbzk.github.io/Algoritmekader/levenscyclus/ontwerp/).
 
 ## Voldoen aan wetten en regels
+
 <details>
 <summary>Eisen publieke inkoop</summary
-[alle eisen?]
+
+
+
+
+
+
+
+- eis
+- eis
+- etc.
+
+
+
+
+
+
+
 </details>
 <details>
 <summary>Aanbevolen maatregelen</summary>
@@ -93,15 +111,16 @@ Voor de andere oplossingen moeten opdrachtgevers en leveranciers voldoen aan all
 <details>
 <summary>Aanbevolen instrumenten</summary>
 
-    
-    
-    
-    
-    
-    
-    
+
+
+
+
+
+
+
 - [Modelcontracten](../../instrumenten/modelcontractbepalingen.md)
-- Handleiding PIANIo (volgt binnenkort)
+- Handleiding PIANIo (nog in ontwikkeling)
+
 
 
 
@@ -112,22 +131,9 @@ Voor de andere oplossingen moeten opdrachtgevers en leveranciers voldoen aan all
 </details>
 
 ## Kennis delen
+
 - [Community of Practise Digitale Innovatie (CoP)](https://www.pianoo.nl/nl/themas/innovatie/netwerken/community-practice-digitale-innovaties): kennisnetwerk van PIANOo over het inkopen van digitale innovaties
 - [Werkgroep Publieke Inkoop van algoritmen en AI – Algoritmekader](https://algoritmes.pleio.nl/groups/): besloten werkgroep voor het verbeteren van de inhoud op deze pagina
 
 ## Help ons deze pagina te verbeteren
 Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/bouwblokken/publieke-inkoop/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).
-
-
-
-
-
-
-
-
-
-
-
-
-
-

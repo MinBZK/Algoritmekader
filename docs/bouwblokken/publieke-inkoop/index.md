@@ -42,7 +42,7 @@ De eisen voor **kant-en-klare oplossingen** vind je in de laatste 2 levenscyclus
 
 De eisen voor **oplossingen aanpassen of ontwikkelen** vind je in de laatste 7 levenscyclus-fasen: [ontwerpen](https://minbzk.github.io/Algoritmekader/levenscyclus/ontwerp/), [data onderzoeken en voorbereiden](https://minbzk.github.io/Algoritmekader/levenscyclus/dataverkenning-en-datapreparatie/), [ontwikkelen](https://minbzk.github.io/Algoritmekader/levenscyclus/ontwikkelen/), [beoordelen](https://minbzk.github.io/Algoritmekader/levenscyclus/verificatie-en-validatie/), [implementeren](https://minbzk.github.io/Algoritmekader/levenscyclus/implementatie/), [controle en onderhoud](https://minbzk.github.io/Algoritmekader/levenscyclus/monitoring-en-beheer/) en [stoppen](https://minbzk.github.io/Algoritmekader/levenscyclus/uitfaseren/). 
 
-## Voldoen aan wetten en regels
+## Voldoen aan de regels
 
 <details>
 <summary>Eisen publieke inkoop</summary

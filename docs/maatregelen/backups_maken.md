@@ -29,9 +29,8 @@ Maak back-ups van de omgeving van het algoritme en zorg ervoor dat het algoritme
 
 ## Toelichting
 
-Er zijn beheersmaatregelen die kunnen helpen bij het zorgen voor goede backups. Zo'n beheersmaatregel op gebied van back-ups is:
-Er is een back-up beleid waarin de eisen voor het bewaren en beschermen zijn gedefinieerd en vastgesteld. De back-ups worden gemaakt, bewaard en getest conform beleid.
-(Deze maatregelen komen uit het basisnormenkader [Baseline Informatiebeveiliging Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/): BIO 12.3.1.1, 12.3.1.4, 12.3.1.5.)
+Er zijn beheersmaatregelen die kunnen helpen bij het zorgen voor goede backups. Een beheersmaatregel op gebied van back-ups is:
+Er is een back-up beleid waarin de eisen voor het bewaren en beschermen zijn gedefinieerd en vastgesteld. De back-ups worden gemaakt, bewaard en getest conform beleid. (Deze beheersmaatregel komt uit het basisnormenkader [Baseline Informatiebeveiliging Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/): BIO 12.3.1.1, 12.3.1.4, 12.3.1.5.)
 
 ## Risico
 Wanneer er geen regelmatige back-ups worden gemaakt en de restore-procedure niet regelmatig wordt getest, bestaat het risico dat er geen hersteloptie is en mogelijkheid van gegevensverlies.

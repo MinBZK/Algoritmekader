@@ -39,10 +39,6 @@ hide:
 - Betrokkenen moeten worden geinformeerd over de verwerking van hun persoonsgegevens zodat ze weten dat hun persoonsgegevevens worden verwerkt en ze hun rechten kunnen uitoefenen.
   
 ## Bijbehorende vereiste(n)
-
-- Artikel 5 AVG
-- Artikel 12-23 AVG
-- Artikel 25 AVG
 <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico

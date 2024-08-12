@@ -28,7 +28,7 @@ hide:
 
     Hulp bij het maken van duurzame keuzes voor hardware en software. Bijvoorbeeld voor de aanschaf van apparaten of het energieverbruik van trainen en data-opslag.
 
--   [Governance](governance/index.md)
+-   [Governance](../governance/index.md)
     
     ---
 

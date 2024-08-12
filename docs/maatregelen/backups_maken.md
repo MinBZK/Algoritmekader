@@ -52,4 +52,3 @@ Wanneer er geen regelmatige back-ups worden gemaakt en de restore-procedure niet
 ## Voorbeeld
 
 Heb jij een goed voorbeeld? Laat het ons weten!
-backups

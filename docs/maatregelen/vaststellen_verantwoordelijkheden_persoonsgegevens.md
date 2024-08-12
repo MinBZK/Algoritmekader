@@ -31,6 +31,7 @@ Nadat de verantwoordelijkheden zijn beschreven en toegewezen, zullen deze moeten
 
 ## Toelichting
 
+- Nadat is vastgesteld wie in een samenwerking feitelijk het doel en middelen van een verwerking bepalen wordt vastgelegd wie de (gezamelijke) verwerkingsverantwoordelijken zijn en wie de verwerkers. Uit deze vaststeling van de rolverdeling volgen onder de AVG verschillende rechten en plichten.
 - Het doel van vaststelling is dat de verwerkersverantwoordelijke de verantwoordelijkheid neemt en actief een keuze maakt om de persoonsgegevens op de beoogde wijze en met de bijbehorende verantwoordelijkheden te (laten) verwerken. Hiermee worden afspraken geformaliseerd.
 - Vaststelling van de verantwoordelijkheden kan plaatsvinden door beleidsdocumenten, werkinstructies, verwerkersovereenkomst of een PIA/DPIA, mits de verantwoordelijkheden voldoende duidelijk zijn beschreven, formeel vast te stellen door de verwerkersverantwoordelijke.
 - Vaststelling door de verwerkersverantwoordelijke is verplicht voorafgaand aan de verwerking van persoonsgegevens.

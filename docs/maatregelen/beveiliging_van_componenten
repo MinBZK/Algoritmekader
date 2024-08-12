@@ -25,11 +25,12 @@ hide:
 
 ## Maatregel
 Zorg voor een goede beveiliging van de verschillende softwarecomponenten van een algoritme of AI-systeem.
+Is naast het algoritme ook de data voldoende beveiligd? Maak hierin onderscheid tussen de inputdata en de outputdata.
 
 ## Toelichting
 
 Er zijn beheersmaatregelen die kunnen helpen bij het zorgen voor een goede beveiliging van verschillende (software-)componenten van een algoritme of systeem.
-Denk onder andere aan de volgende maatregelen die opgenomen kunnen worden in een wachtwoordbeheer. (Deze maatregelen komen uit het basisnormenkader [Baseline Informatiebeveiliging Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/) en de [NCSC Handreiking voor implementatie van detectieoplossingen](https://www.ncsc.nl/documenten/publicaties/2019/mei/01/handreiking-voor-implementatie-van-detectie-oplossingen).)
+Denk onder andere aan de volgende maatregelen die opgenomen kunnen worden in een wachtwoordbeheer. (Deze maatregelen komen uit het basisnormenkader [Baseline Informatiebeveiliging Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/), de [NCSC Handreiking voor implementatie van detectieoplossingen](https://www.ncsc.nl/documenten/publicaties/2019/mei/01/handreiking-voor-implementatie-van-detectie-oplossingen) en het [Impact Assessment Mensenrechten en Algoritmes](../instrumenten/IAMA.md).)
 
 - Er is een accuraat inzicht in de beoogde opzet van de IT-infrastructuur (de architectuur) en een actueel inzicht in de werkelijk geconfigureerde hard- en software. (CIS Control 1, BIO 8.1.1).
 - Er is formeel een proces ingericht voor het beheer van technische kwetsbaarheden. Dit omvat minimaal periodieke (geautomatiseerde) controle op de aanwezigheid van kwetsbaarheden in de te toetsen systemen, een risicoafweging en navolgbare afwerking daarvan of risicoacceptatie (BIO 12.6).
@@ -39,6 +40,8 @@ Denk onder andere aan de volgende maatregelen die opgenomen kunnen worden in een
 - Actieve monitoring van de algoritme data vindt plaats zodat beveiligingsincidenten en -gebeurtenissen in een vroeg stadium worden gedetecteerd. (BIO 12.4.1, NCSC Handreiking voor implementatie van detectieoplossingen).
 - Het interne netwerk is gescheiden van andere onvertrouwde omgevingen BIO 13.1.3).
 - Netwerkverkeer en componenten worden actief gemonitord. BIO 12.4.1).
+- Is naast het algoritme ook de data voldoende beveiligd? Maak hierin onderscheid tussen de inputdata en de outputdata. (IAMA 2A.4.1)
+
 
 ## Risico
 Oneigenlijke toegang van buitenaf kan plaatsvinden via zwakheden in het systeem.
@@ -54,6 +57,7 @@ Oneigenlijke toegang van buitenaf kan plaatsvinden via zwakheden in het systeem.
 | [Baseline Informatiebeveiliging Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/) |
 | [Onderzoekskader Algoritmes Auditdienst Rijk, IB.18 t/m IB.25](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) |
 | [NCSC Handreiking voor implementatie van detectieoplossingen](https://www.ncsc.nl/documenten/publicaties/2019/mei/01/handreiking-voor-implementatie-van-detectie-oplossingen) |
+| [Impact Assessment Mensenrechten en Algoritmes](../instrumenten/IAMA.md) |
 
 ## Voorbeeld
 

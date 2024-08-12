@@ -14,7 +14,7 @@ hide:
 
     ---
 
-    Hulp bij het voorkomen van bias en discriminatie in algoritmes en AI. Met aanbevelingen en hulpmiddelen zoals het Fairness Handbook.
+    Hulp bij het voorkomen van bias en discriminatie in algoritmes en AI. Met aanbevelingen en hulpmiddelen zoals het toetsingskader van het College voor de Rechten van de Mens.
 
 -   [Data](data/index.md)
     

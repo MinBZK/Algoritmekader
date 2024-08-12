@@ -34,7 +34,7 @@ hide:
 
     Hulp bij het verantwoordelijk omgaan met algoritmes en AI-systemen. Bijvoorbeeld het vastleggen van rollen en verantwoordelijkheden.
 
--   [Grondrechten](fundamentele-rechten/index.md)
+-   [Fundamentele rechten](fundamentele-rechten/index.md)
     
     ---
 

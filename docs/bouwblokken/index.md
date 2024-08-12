@@ -1,5 +1,5 @@
 ---
-title: Bouwblokken
+title: Onderwerpen
 summary: Regels en adviezen per onderwerp, zoals publieke inkoop, duurzaamheid, privacy, governance, veiligheid en transparantie.
 icon: material/cube
 hide:

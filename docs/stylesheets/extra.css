@@ -1,47 +1,314 @@
+p{
+  color:#154273
+}
+
+/* Badge Styling */
 .mdx-badge {
-    font-size: .85em;
-    display: inline-block;
-    margin: .2rem .3rem;
+  font-size: 0.85em;
+  display: inline-block;
+  margin: 0.2rem 0.3rem;
+  text-align: left; /* Ensure left alignment */
 }
 
 .mdx-badge__icon {
-    border-top-left-radius: .1rem;
-    border-bottom-left-radius: .1rem;
-
-    background: var(--md-accent-fg-color--transparent);
-    padding: .2rem;
+  border-radius: 0.1rem 0 0 0.1rem;
+  background: var(--md-accent-fg-color--transparent);
+  padding: 0.2rem;
+  text-align: left; /* Ensure left alignment */
 }
 
 .mdx-badge__text {
-    border-bottom-right-radius: .1rem;
-    border-top-right-radius: .1rem;
-
-    box-shadow: 0 0 0 1px inset var(--md-accent-fg-color--transparent);
-    padding: .2rem .3rem;
+  border-radius: 0 0.1rem 0.1rem 0;
+  box-shadow: inset 0 0 0 1px var(--md-accent-fg-color--transparent);
+  padding: 0.2rem 0.3rem;
+  text-align: left; /* Ensure left alignment */
 }
 
 .mdx-badge a {
-    color: var(--md-accent-fg-color);
+  color: var(--md-accent-fg-color);
+  text-align: left; /* Ensure left alignment */
 }
 
-.md-typeset .grid {
-    grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr))
- }
+.float-container a {
+  color: #154273;
+  text-align: left; /* Ensure left alignment */
+  text-decoration: underline;
+}
 
+/* Grid Styling */
+.md-typeset .grid {
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+}
+
+/* Admonition Styling */
 :root {
-    --md-admonition-icon--simple: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58 13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42Z"/></svg>')
-  }
-  .md-typeset .admonition.simple,
-  .md-typeset details.simple {
-    border-color: rgb(5, 80, 141);
-  }
-  .md-typeset .simple > .admonition-title,
-  .md-typeset .simple > summary {
-    background-color: rgba(185, 185, 185, 0.1);
-  }
-  .md-typeset .simple > .admonition-title::before,
-  .md-typeset .simple > summary::before {
-    background-color: rgb(5, 80, 141);
-    -webkit-mask-image: var(--md-admonition-icon--simple);
-            mask-image: var(--md-admonition-icon--simple);
-  }
+  --md-admonition-icon--simple: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58 13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42Z"/></svg>');
+}
+
+.md-typeset .admonition.simple,
+.md-typeset details.simple {
+  border-color: rgb(5, 80, 141);
+  text-align: left; /* Ensure left alignment */
+}
+
+.md-typeset .simple > .admonition-title,
+.md-typeset .simple > summary {
+  background-color: rgba(185, 185, 185, 0.1);
+  text-align: left; /* Ensure left alignment */
+}
+
+.md-typeset .simple > .admonition-title::before,
+.md-typeset .simple > summary::before {
+  background-color: rgb(5, 80, 141);
+  -webkit-mask-image: var(--md-admonition-icon--simple);
+  mask-image: var(--md-admonition-icon--simple);
+}
+
+/* General Layout */
+.header-container {
+  margin-bottom: 20px;
+  position: relative;
+  text-align: left; /* Ensure left alignment */
+  margin-bottom: 40px;
+}
+
+.header-container h1, .header-container h2 {
+  font-size: 2em;
+  margin: 0;
+  display: inline-block;
+  position: relative;
+  text-align: left; /* Ensure left alignment */
+  color: #154273;
+}
+
+.header-container .version-label {
+  font-size: 0.4em;
+  background-color: #e5f1f9;
+  color: #154273;
+  padding: 4px;
+  border-radius: 3px;
+  margin-left: 10px;
+  cursor: pointer;
+  position: relative;
+  text-align: left; /* Ensure left alignment */
+  font-weight: 500;
+  text-transform: capitalize;
+}
+
+.header-container .version-label:hover {
+  background-color: #154273;
+  color: #111111;
+}
+
+.header-container .hover-info {
+  font-size: 0.4em;
+  display: none;
+  position: absolute;
+  top: 90%; /* Direct onder het label */
+  left: 0;
+  background-color: #fff;
+  color: #333;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 2px 8px;
+  z-index: 1000;
+  white-space: normal;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  text-align: left; 
+}
+
+.header-container .version-label:hover + .hover-info,
+.header-container .hover-info:hover {
+  display: block;
+  text-align: left; /* Ensure left alignment */
+}
+
+.header-container .hover-info a {
+  color: #154273;
+  font-weight: bold;
+  text-align: left; /* Ensure left alignment */
+}
+
+.header-container .hover-info a:hover {
+  text-decoration: underline;
+}
+
+/* Subheader Styling */
+.header-container .subheader {
+  font-size: 1.2em;
+  color: #154273;
+  margin: 10px 0 20px;
+  text-align: left; /* Ensure left alignment */
+}
+
+/* Info Section */
+.info-section {
+  margin-bottom: 30px;
+  text-align: left; /* Ensure left alignment */
+}
+
+.info-section h2 {
+  font-size: 1.5em;
+  color: #154273;
+  margin: 0 0 10px;
+  text-align: left; /* Ensure left alignment */
+}
+
+.info-section .glossary-link {
+  font-weight: bold;
+  color: #154273;
+  text-align: left; /* Ensure left alignment */
+}
+
+.info-section .glossary-link:hover {
+  text-decoration: underline;
+}
+
+.float-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Responsive columns */
+  gap: 20px; /* Space between the boxes */
+  text-align: left; /* Ensure left alignment */
+}
+
+/* Float Child */
+.float-child {
+  background-color: #e5f1f9;
+  border-radius: 5px;
+  padding: 16px 24px;
+  display: flex;
+  flex-direction: column;
+  text-align: left; /* Ensure left alignment */
+}
+
+/* Ensure the content within the boxes is evenly distributed */
+.styled-list {
+  background-color: #e5f1f9;
+  padding: 16px 32px;
+  border-radius: 5px;
+  flex-grow: 1;
+  text-align: left; /* Ensure left alignment */
+}
+
+/* Styled List */
+.styled-list h3 {
+  color: #154273;
+  font-weight: bold;
+  margin-bottom: 10px;
+  font-size: 1.2em;
+  text-align: left; /* Ensure left alignment */
+  margin-top: 10px;
+}
+
+.styled-list ul {
+  list-style-type: none;
+  padding-left: 0;
+  margin-bottom: 20px;
+  text-align: left; /* Ensure left alignment */
+}
+
+.styled-list ul li {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: flex-start; /* Align items to the top */
+  text-align: left; /* Ensure left alignment */
+}
+
+.styled-list ul li::before {
+  content: '\203A'; /* Unicode character for a right-facing chevron */
+  margin-right: 8px;
+  color: #154273;
+  font-weight: bold;
+  text-align: left; /* Ensure left alignment */
+}
+
+.styled-list ul li a {
+  color: #154273;
+  font-weight: normal;
+  text-align: left; /* Ensure left alignment */
+}
+
+/* Show More Link */
+.show-more {
+  font-weight: bold;
+  color: #154273;
+  margin-top: auto;
+  text-align: right; /* Keep this right aligned as per your original design */
+}
+
+.show-more:hover {
+  text-decoration: underline;
+}
+
+/* Footer Section */
+.footer-section {
+  margin-top: 30px;
+  padding-top: 10px;
+  border-top: 1px solid #ddd;
+  text-align: left; /* Ensure left alignment */
+}
+
+.footer-section h2 {
+  font-size: 1.5em;
+  color: #154273;
+  text-align: left; /* Ensure left alignment */
+}
+
+.footer-section a {
+  color: #154273;
+  font-weight: bold;
+  text-align: left; /* Ensure left alignment */
+}
+
+.footer-section a:hover {
+  text-decoration: underline;
+}
+
+/* Full Width Outline Block */
+.full-width-outline-block {
+  width: 100%;
+  border: 1px solid #154273; /* Kleur van de outline */
+  border-radius: 5px;
+  padding: 20px;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+  text-align: left; /* Ensure left alignment */
+}
+
+.full-width-header {
+  font-size: 1.5em;
+  color: #154273;
+  margin: 0 0 10px;
+  text-align: left; /* Ensure left alignment */
+}
+
+.full-width-item {
+  margin: 10px 0;
+  text-align: left; /* Ensure left alignment */
+}
+
+.item-description {
+  font-size: 1em;
+  color: #666;
+  margin: 0 0 10px;
+  text-align: left; /* Ensure left alignment */
+}
+
+.show-more-link {
+  font-weight: bold;
+  color: #154273;
+  text-decoration: none;
+  text-align: left; /* Ensure left alignment */
+}
+
+.show-more-link:hover {
+  text-decoration: underline;
+}
+
+[dir=ltr] .md-typeset ol li, [dir=ltr] .md-typeset ul li {
+  margin-left: 0;
+}
+
+[dir=ltr] .md-typeset ol, [dir=ltr] .md-typeset ul {
+  margin-left: 0;
+}

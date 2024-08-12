@@ -66,7 +66,7 @@ Hieronder volgt een overzicht van de maatregelen die (voor zover zijn uitgewerkt
 
 [Inkoopproces](https://www.pianoo.nl/nl/inkoopproces)
 
-[Community of Practis Digitale Innovatie](https://www.pianoo.nl/nl/themas/innovatie/netwerken/community-practice-digitale-innovaties)
+[Community of Practise Digitale Innovatie](https://www.pianoo.nl/nl/themas/innovatie/netwerken/community-practice-digitale-innovaties)
 
 
 

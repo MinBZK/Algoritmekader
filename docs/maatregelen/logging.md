@@ -38,8 +38,10 @@ Bedenk wat deze informatie betekent in de context van de werking van het algorit
 ## Toelichting
 
 Er zijn beheersmaatregelen die kunnen helpen bij het zorgen voor goede loggingsinformatie. Beheersmaatregelen op gebied van logging zijn:
+
 - Loginformatie wordt bewaard en is toegankelijk totdat de bewaartermijnen zijn verstreken (BIO 12.4.1.1, 12.4.2.2).
 - Logbestanden van gebeurtenissen die gebruikersactiviteiten, uitzonderingen en informatiebeveiligingsgebeurtenissen registreren, behoren te worden gemaakt, bewaard en regelmatig te worden beoordeeld.
+
 (Deze maatregelen komen uit het basisnormenkader [Baseline Informatiebeveiliging Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/): BIO 12.3.1.1, 12.3.1.4, 12.3.1.5, of uit het [Toetsingskader Algoritmes Algemene Rekenkamer, 4.06](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag))
 
 ## Risico

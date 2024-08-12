@@ -3,7 +3,6 @@ title: Zorg voor een beheer van informatiebeveiligingsincidenten
 toelichting: Zorg voor een procedures die borgen dat beveiligingsincidenten m.b.t. algoritmes en data zo spoedig mogelijk worden opgepakt.
 vereiste:
 - beveiliging_informatie_en_informatiesystemen
-- automatische_logregistratie
 levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
@@ -14,8 +13,6 @@ levenscyclus:
 bouwblok:
 - technische-robuustheid-en-veiligheid
 - governance
-- transparantie
-- menselijke-controle
 rollen:
 - projectleider
 - informatiebeheerder

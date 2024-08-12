@@ -10,9 +10,9 @@ vereiste:
   
 levenscyclus:
 - ontwerp
-- dataverkenning en datapreparatie
-- ontwikkel
-- verificatie en validatie
+- dataverkenning-en-datapreparatie
+- ontwikkelen
+- verificatie-en-validatie
 - implementatie
   
 bouwblok:
@@ -22,11 +22,11 @@ bouwblok:
 rollen:
 - proceseigenaar
 - beleidsmedewerker
-- informatieanalist
+- informatie-analist
 - jurist
 - ethicus
-- data engineer
-- data scientist
+- data-engineer
+- data-scientist
   
 hide:
 - navigation
@@ -39,7 +39,7 @@ Stel vast dat wetgeving en (lokaal) beleid correct is vertaald naar de uitvoerin
  
 ## Toelichting
 - Systemen die overheidsorganisaties inzetten voor bijvoorbeeld het verlenen van subsidies, vergunningen of bijstandsuitkeringen moeten de regels en processtappen volgen die in wetgeving zijn voorgeschreven.
-- Er is een vertaling nodig van deze regels en processtappen naar de uitvoering van het werkproces en onderliggende systemen.
+- Er is een vertaling nodig van deze regels en processtappen naar de uitvoering van het werkproces, het datagebruik en onderliggende systemen.
 - Algoritmes en AI-systemen moeten ook voldoen aan deze regels en processtappen.
 - Als algoritmes of AI-systemen worden ontwikkeld, moet worden onderzocht wat deze regels zijn en hoe deze moeten worden toegepast bij het ontwikkelen van algoritmes of AI-systemen.
 - Het moeten voldoen aan wetgeving en beleid kan dus in zekere zin 'begrenzend' werken op wat mag worden gedaan met algoritmes en AI-systemen. Dit is mede afhankelijk van de risico classificatie van de specifieke toepassing. 
@@ -48,7 +48,7 @@ Stel vast dat wetgeving en (lokaal) beleid correct is vertaald naar de uitvoerin
  
 - Er is een multidisciplinaire samenwerking nodig tussen de proceseigenaar, gebruikers, juristen, informatieanalisten en ontwikkelaar om deze vertaling zorgvuldig en doorlopend te maken.
 - Voorafgaand aan het (laten) ontwikkelen van een algoritme of AI-systeem moet dit zijn uitgevoerd.
-- De toegepaste 'business rules' en de verwerkte data voor de uitvoering van het te ondersteunen werkproces met algoritmes en AI-systemen worden onderzocht en beoordeeld.
+- De toegepaste 'business rules' en de verwerkte data voor de uitvoering van het te ondersteunen werkproces met algoritmes en AI-systemen moeten worden onderzocht en beoordeeld.
 - Diepgaande procesanalyses (Bv. BPMN niveau Analytisch) en procesbeschrijvingen kunnen hierbij ondersteunen. 
 - Als blijkt dat een werkproces niet (meer) conform (gewijzigde) wetgeving of beleid wordt uitgevoerd, dan moet worden beoordeeld of de verworven data of welke deel van de data geschikt is voor het ontwikkelen een AI-model.
 - Het is dan raadzaam om de uitvoering van het betreffende werkproces en de werking van onderliggende systemen eerst te 'herstellen' en om hiermee een nieuw datafundament te creëeren (eerst een groot aantal zaken behandelen) die later als trainingsdata kan worden gebruikt. 

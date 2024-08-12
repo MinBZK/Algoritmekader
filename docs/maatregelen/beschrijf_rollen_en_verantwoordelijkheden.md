@@ -2,7 +2,7 @@
 # vul hier een titel in voor deze maatregel
 title: Beschrijf de rollen en verantwoordelijkheden voor het ontwikkelen en gebruiken van algoritmes en AI-systemen en pas een RACI-matrix toe. 
 # geef hier een korte toelichting van deze maatregel
-toelichting: Stel een RACI-matrix op waarbij de rollen en verantwoordelijkheden worden beschreven en toebedeeld bij het verwerken van (persoons)gegevens
+toelichting: Stel een RACI-matrix op waarbij de rollen en verantwoordelijkheden worden beschreven en toebedeeld.
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
 - beschrijven_en_toewijzen_van_verantwoordelijkheden_bij_verwerking_persoonsgegevens
@@ -62,5 +62,5 @@ De sturing en verantwoording is ontoereikend of niet geborgd, waardoor er onvold
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
-| [Rapport Kleur Bekennen, Algemene Rekenkamer, p. 114, figuuer 5-4](https://rekenkamer.rotterdam.nl/wp-content/uploads/2024/05/RO2205-kleur-bekennen-vervolgonderzoek-algoritmes-rekenkamer-rotterdam.pdf)|
+| [Rapport Kleur Bekennen, Algemene Rekenkamer, p. 114, figuur 5-4](https://rekenkamer.rotterdam.nl/wp-content/uploads/2024/05/RO2205-kleur-bekennen-vervolgonderzoek-algoritmes-rekenkamer-rotterdam.pdf)|
 

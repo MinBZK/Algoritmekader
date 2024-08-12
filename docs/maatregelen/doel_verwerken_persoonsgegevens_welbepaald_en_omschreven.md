@@ -1,5 +1,5 @@
 ---
-title: Het doel voor het werken van persoonsgegevens met een algoritme of AI-systeem is welbepaald en omschreven.
+title: Het doel voor het verwerken van persoonsgegevens met een algoritme of AI-systeem is welbepaald en omschreven.
 toelichting: Persoonsgegevens mogen alleen verzameld worden voor een ‘welbepaald, uitdrukkelijk omschreven en gerechtvaardigd’ doel. De verwerking van persoonsgevens door het algoritme is tevens verenigbaar met het oorspronkelijke doel (doelbinding).
 vereiste:
 - persoonsgegevens_worden_rechtmatig_verwerkt
@@ -9,7 +9,7 @@ levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
 - ontwikkelen
-- verficatie-en-validatie
+- verificatie-en-validatie
 - implementatie
 bouwblok:
 - privacy-en-gegevensbescherming
@@ -25,7 +25,7 @@ hide:
 
 ## Maatregel
 
-Het doel voor het verwerken van persoonsgegevens met een algoritme of AI-systeem is welbepaalde en omschreven.
+Het doel voor het verwerken van persoonsgegevens met een algoritme of AI-systeem is welbepaald en omschreven.
 
 ## Toelichting
 

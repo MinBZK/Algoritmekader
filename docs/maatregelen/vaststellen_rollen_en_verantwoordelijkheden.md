@@ -6,11 +6,11 @@ vereiste:
 levenscyclus:
 - probleemanalyse
 - ontwerp
-- dataverkenning en datapreparatie
-- ontwikkel
+- dataverkenning-en-datapreparatie
+- ontwikkelen
 - implementatie
-- monitoring_en_beheer
-- verficatie_en_validatie
+- monitoring-en-beheer
+- verificatie-en-validatie
 bouwblok:
 - governance
 rollen:
@@ -37,7 +37,6 @@ De rollen en verantwoordelijkheden zijn vastgesteld door de verantwoordelijke(n)
 ## Bijbehorende vereiste(n)
 
 <!-- list_vereisten_on_maatregelen_page -->
-zorgvuldigheidsbeginsel
 
 ## Risico
 Zonder het vaststellen van rollen en verantwoordelijkheden, kan er geen effectieve sturing plaatsvinden op partijen die betrokken zijn bij het ontwikkelen of gebruiken van algoritmes of AI-systemen.

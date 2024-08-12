@@ -1,6 +1,6 @@
 ---
-title: Richt (technische) controle mechanismen in voor menselijk tussenkomst waarmee de output van een algoritme of AI-systeem kan worden gecontroleerd.
-toelichting: Als algoritme of AI-systemen worden ingezet om te ondersteunen het nemen van beslissingen en besluiten door overheidsorganisaties, kan het noodzakelijk zijn om menselijke tussenkomst in te richten om foutieve output te signaleren en te corrigeren. 
+title: Richt (technische) controlemechanismen in voor menselijk tussenkomst waarmee de output van een algoritme of AI-systeem kan worden gecontroleerd.
+toelichting: Als algoritmes of AI-systemen worden ingezet om te ondersteunen bij het nemen van beslissingen en besluiten door overheidsorganisaties, kan het noodzakelijk zijn om menselijke tussenkomst in te richten om foutieve output te signaleren en te corrigeren. 
 vereiste:
 - recht_op_niet_geautomatiseerd_besluitvorming
 - fundamentele_rechten
@@ -9,10 +9,9 @@ vereiste:
 - toezichtmogelijkheden_voor_gebruikers
   
 levenscyclus:
-- ontwikkelen
 - ontwerp
-- ontwikkel
-- verificatie_en_validatie
+- ontwikkelen
+- verificatie-en-validatie
 - implementatie
 - monitoring-en-beheer
 bouwblok:
@@ -28,24 +27,24 @@ hide:
 
 <!-- tags -->
 ## Maatregel
-Richt (technische) controle mechanismen in voor menselijk tussenkomst waarmee de output van een algorimte of AI-systeem kan worden gecontroleerd.
+Richt (technische) controlemechanismen in voor menselijk tussenkomst waarmee de output van een algoritme of AI-systeem kan worden gecontroleerd.
 
 
 ## Toelichting
 
 - Algoritmes en AI-systemen worden vaak ingezet om beslissingen of besluitvorming van overheidsorganisaties te ondersteunen.
-- Als overheidsorganisaties beslissingen of besluiten nemen, kan dit rechtsvolgen hebben op een betrokkene of deze op een andere manier in aanmerkelijke mate treffen. 
+- Als overheidsorganisaties beslissingen of besluiten nemen, kan dit rechtsgevolgen hebben voor een betrokkene of deze op een andere manier in aanmerkelijke mate treffen. 
 - Algoritmes en AI-systemen zijn in de meeste gevallen niet foutloos. 
 - Daarom is het van belang dat deze output wordt gecontroleerd door een mens, zodat dit kan worden gecorrigeerd. Dit wordt 'menselijke tussenkomst' genoemd. 
 - Er is sprake van menselijke tussenkomst wanneer het menselijke toezicht op beslissingen of besluitvorming betekenisvol of zinvol is, en niet slechts symbolisch is.
 - Menselijke tussenkomst moet worden uitgevoerd door iemand die bevoegd en bekwaam is om een beslissing of besluit te veranderen.
-- Als een automatisch gegenereerd aanbeveling van een algoritme of AI-systeem (output) praktisch gezien standaard wordt overgenomen (bijvoorbeeld door deze al klikkend te accepteren), is er geen sprake meer van betekenisvolle menselijke tussenkomst. Hier is meer voor nodig.
+- Als een automatisch gegenereerde aanbeveling van een algoritme of AI-systeem (output) praktisch gezien standaard wordt overgenomen (bijvoorbeeld door deze al klikkend te accepteren), is er geen sprake meer van betekenisvolle menselijke tussenkomst. Hier is meer voor nodig.
 - Het is van belang dat in een vroeg stadia wordt vastgesteld, bijvoorbeeld in de ontwerpfase, welke vormen van menselijke tussenkomst moeten worden ingezet en passend zijn gezien de specifieke algoritmische toepassing of AI-systeem. Dit kan worden gedaan op basis van uit te voeren risico analyses. 
-- In het geval van het uitoefenen van 'gebonden bevoegdheden', waarbij er weinig of geen beoordelingsruimte is om de beslissing of het besluit, kan het zijn dat menselijke tussenkomst geen meerwaarde heeft en kan worden volstaan met de automatisch gegenereerde output.
+- In het geval van het uitoefenen van 'gebonden bevoegdheden', waarbij er weinig of geen beoordelingsruimte is om de beslissing of het besluit te wijzigen, kan het zijn dat menselijke tussenkomst geen meerwaarde heeft en kan worden volstaan met de automatisch gegenereerde output.
 - Hierbij kan worden gedacht aan het opleggen van een boete in het kader van de Wet administratiefrechtelijke handhaving
 verkeersvoorschriften (Wahv) of het bijstellen van de hoogte van het recht op studiefinanciering op basis van veranderingen in het inkomen van een van de ouders.
 - Er zullen technische en organisatorische maatregelen moeten worden getroffen om menselijke tussenkomst in te richten.
-- Dit is ook het geval als een (externe) aanbieder algorimtes of AI-systemen levert. De gebruiksverantwoordelijk zal dan samen met aanbieder moeten onderzoeken hoe menselijke tussenkomst betekenisvol moet worden ingericht. 
+- Dit is ook het geval als een (externe) aanbieder algorimtes of AI-systemen levert. De gebruiksverantwoordelijke zal dan samen met aanbieder moeten onderzoeken hoe menselijke tussenkomst betekenisvol moet worden ingericht. 
 
 
 ## Bijbehorende vereiste(n)

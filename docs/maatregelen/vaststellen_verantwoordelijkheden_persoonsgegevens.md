@@ -3,18 +3,21 @@ title: Vaststellen verantwoordelijkheden bij verwerken persoonsgegevens
 toelichting: Nadat de verantwoordelijkheden zijn beschreven en toegewezen, zullen deze moeten worden vastgesteld door de verwerkersverantwoordelijke.  
 vereiste:
 - beschrijven_en_toewijzen_van_verantwoordelijkheden_bij_verwerking_persoonsgegevens
+- dpia_verplicht_bij_hoog_risico
+- transparantie_bij_verwerken_persoonsgegevens
+- zorgvuldigheidsbeginsel
+- verantwoordingsplicht_rechtmatigheid
 levenscyclus:
 - ontwerp
-- dataverkenning en datapreparatie
-- ontwikkel
-- verficatie en validatie
+- dataverkenning-en-datapreparatie
+- ontwikkelen
+- verificatie-en-validatie
 bouwblok:
-- privacy_en_gegevensbescherming
+- privacy-en-gegevensbescherming
 - governance
 rollen:
 - proceseigenaar
-- verwerkersverantwoordelijke
-- privacy officer
+- privacy-officer
 
 hide:
 - navigation
@@ -36,10 +39,6 @@ Nadat de verantwoordelijkheden zijn beschreven en toegewezen, zullen deze moeten
 ## Bijbehorende vereiste(n)
 
 <!-- list_vereisten_on_maatregelen_page -->
-dpia_verplicht_bij_hoog_risico
-transparantie_bij_verwerken_persoonsgegevens
-zorgvuldigheidsbeginsel
-verantwoordingsplicht_rechtmatigheid
 
 ## Risico
 Door het ontbreken of niet helder omschrijven en vaststellen verantwoordelijkheden, dat persoonsgegevens onrechtmatig worden verwerkt.

@@ -1,10 +1,6 @@
 ---
-# vul hier een titel in voor deze maatregel
 title: Tref (technische) maatregelen waarmee het gebruik van het algoritme of AI-systeem kan worden stopgezet.
-# geef hier een korte toelichting van deze maatregel
 toelichting: Als blijkt dat het algoritme of AI-systeem onjuist functioneert, dan moeten (technische) maatregelen zijn getroffen waarmee het gebruik kan worden stopgezet.
-
-# vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
 - zorgvuldigheidsbeginsel
 - kwaliteitsbeheersysteem_voor_hoog_risico_ai
@@ -21,35 +17,28 @@ vereiste:
 - gebruiksverantwoordelijken_monitoren_werking_ hoog_risico_AI-systeem
 - juistheid_en_actualiteit_van_persoonsgegevens
 - toegankelijkheidseisen_hoog_risico
-  
-# vul hier de fasen van de levenscyclus in die horen bij deze maatregel
+
 levenscyclus: 
 - ontwerp
-- dataverkenning en datapreparatie
-- ontwikkel
+- dataverkenning-en-datapreparatie
+- ontwikkelen
 - verificatie-en-validatie
 - implementatie
 - monitoring-en-beheer
 - uitfaseren
-  
-# vul hier de bouwblokken in die horen bij deze maatregel
 bouwblok: 
 - governance
-
-# geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn
 rollen:
 - proceseigenaar
 - beleidsmedewerker
-- data engineer
-- data scientist
-- architect
+- data-engineer
+- data-scientist
 - informatiebeheerder
-- privacy officer
-- security officer
+- privacy-officer
+- security-officer
 - ethicus
 - inkoopadviseur
 - contractbeheerder
-- menselijk toezichthouder
 
 hide:
 - navigation

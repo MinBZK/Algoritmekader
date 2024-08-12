@@ -8,19 +8,17 @@ vereiste:
   
 levenscyclus:
 - ontwerp
-- ontwikkel
-- verificatie en validatie
+- ontwikkelen
+- verificatie-en-validatie
 - implementatie
 bouwblok:
-- privacy_en_gegevensbescherming
+- privacy-en-gegevensbescherming
 rollen:
 - proceseigenaar
-- informatiearchitect
-- solution architect
-- informatie analist
-- data engineer
-- privacy officer
-- security officer
+- informatie-analist
+- data-engineer
+- privacy-officer
+- security-officer
 - inkoopadviseur
   
 hide:

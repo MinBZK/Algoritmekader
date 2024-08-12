@@ -1,9 +1,6 @@
 ---
-# vul hier een titel in voor deze maatregel
 title: Maak vereisten voor algoritmes en AI-systemen onderdeel van contractvoorwaarden
-# geef hier een korte toelichting van deze maatregel
 toelichting: Door de vereiste onderdeel te maken van contractvoorwaarden, is het voor aanbieders vooraf duidelijk waar zij aan moeten voldoen. 
-# vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
 - archiefwet
 - Recht_op_uitleg_AI-besluiten
@@ -63,14 +60,11 @@ vereiste:
 - recht_op_toegang_tot_publieke_informatie
 - beginsel_van_proportionaliteit_en_subsidiariteit
 
-# vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 
 - ontwerp
 - ontwikkelen
-# vul hier de bouwblokken in die horen bij deze maatregel
 bouwblok: 
 - publieke-inkoop
-# geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn
 rollen:
 - proceseigenaar
 - behoeftesteller

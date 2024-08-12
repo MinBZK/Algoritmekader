@@ -6,17 +6,17 @@ vereiste:
 
 levenscyclus:
 - ontwerp
-- ontwikkel
-- verificatie en validatie
+- ontwikkelen
+- verificatie-en-validatie
 - implementatie
 - uitfaseren
   
 bouwblok:
-- privacy_en_gegevensbescherming
+- privacy-en-gegevensbescherming
 rollen:
 - proceseigenaar
 - beleidsmedewerker
-- privacy officer
+- privacy-officer
 - aanbieder
   
 hide:
@@ -27,12 +27,12 @@ hide:
 
 ## Maatregel
 
- Neem de ontwikkeling en gebruik van een algoritme of AI-systeem op in de privacyverklaring als hierbij persoonsgegevens worden verwerkt.  
+ Neem het gebruik van een algoritme of AI-systeem op in de privacyverklaring als hierbij persoonsgegevens worden verwerkt.  
 
 ## Toelichting
 
 - Door in een privacyverklaring te vermelden welke persoonsgegevens worden verwerkt voor het gebruik van een algoritme of AI-systeem, wordt een betrokkene geïnformeerd over de verwerking van diens persoonsgegevens.
-- Privacyverklaring kunnen op organistieniveau worden opgesteld en ook voor specifieke situaties.
+- Een privacyverklaring kan op organistieniveau worden opgesteld en ook voor specifieke verwerkingen.
 - In een privacyverklaring wordt in ieder geval het volgende opgenomen:
   
   -  de identiteit en contactgegevens van uw organisatie. En ook die van vertegenwoordiger in de Europese Unie (EU), als deze er zijn.
@@ -56,7 +56,7 @@ hide:
 <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
-Betrokkenen zijn niet op de hoogte dat hun persoonsgegevens worden verwerkt met een algoritme of AI-systeem, waardoor zij hier geen controle over hebben. 
+Betrokkenen zijn niet op de hoogte dat hun persoonsgegevens worden verwerkt met een algoritme of AI-systeem, waardoor zij hier geen controle over hebben en zich niet kunnen beroepen op hun privacyrechten.
 
 ## Bronnen
 | Bron                                                                                                                                                                     |

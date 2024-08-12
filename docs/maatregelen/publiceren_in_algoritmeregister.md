@@ -9,18 +9,19 @@ vereiste:
   
 levenscyclus:
 - ontwerp
-- ontwikkel
-- verificatie en validatie
+- ontwikkelen
+- verificatie-en-validatie
 - implementatie
-- monitoring_en_beheer
+- monitoring-en-beheer
 - uitfaseren
   
 bouwblok:
 - transparantie
+
 rollen:
 - proceseigenaar
 - beleidsmedewerker
-- privacy officer
+- privacy-officer
 - aanbieder
   
 hide:
@@ -31,17 +32,17 @@ hide:
 
 ## Maatregel
 
- Publiceer de ontwikkeling en gebruik van een algoritme of AI-systeem in het Algoritmeregister.  
+ Publiceer de ontwikkeling en gebruik van een algoritme of AI-systeem in het [Algoritmeregister](../instrumenten/algoritmeregister.md).  
 
 ## Toelichting
 - De regering wil dat de overheid algoritmes en AI-systemen verantwoord gebruikt. Mensen moeten erop kunnen vertrouwen dat algoritmes voldoen aan de waarden en normen van de samenleving.
-- Wanneer de overheid open is over algoritmes en hun toepassing, kunnen burgers, organisaties en media haar kritisch volgen en controleren of ze de wet en de regels volgt.
+- Wanneer de overheid open is over algoritmes en hun toepassing, kunnen burgers, organisaties en media haar kritisch volgen.
 - Impactvolle algoritmes en hoog risico AI-systemen moeten daarom worden gepubliceerd in het Algoritmeregister.
 - In het Algoritmeregister moet uitleg zijn over hoe algoritmes en AI-systemen, of het proces wat hiermee wordt ondersteund werkt.
 - Er is een Handreiking Algoritmeregister opgesteld met informatie over het publiceren van algoritmes en AI-systemen in het Algoritmeregister.
 - De Algoritmeregister Publicatiestandaard kan overheidsorganisaties ondersteunen bij het helpen invullen van het Algoritmeregister.
 - Er zijn gevallen waarin het publiceren van algoritmes of AI-systemen in het Algoritmeregister achterwege moet blijven. Deze gevallen zijn beschreven in de Handreiking van het Algoritmeregister.
-- Impactvolle algoritme en hoog risico AI-systemen moet al tijdens de ontwikkeling ervan worden gepubliceerd in het Algoritmeregister. 
+- Impactvolle algoritmes en hoog risico AI-systemen moet al tijdens de ontwikkeling ervan worden gepubliceerd in het Algoritmeregister. 
     
   ## Bijbehorende vereiste(n)
 

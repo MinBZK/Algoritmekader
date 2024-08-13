@@ -17,7 +17,7 @@ De informatie is bedoeld voor medewerkers van de rijksoverheid, provincies, geme
 
 ## Informatie van de overheid
 Het Algoritmekader is een website van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. Het team Data, AI en Algoritmes stelt de informatie samen, op basis van:
-- alle wetten en regels, zoals de [AI-verordening](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/nieuwe-technologieen-data-en-ethiek/artificiele-intelligentie-ai/ai-verordening/)
+- alle wetten en regels, zoals de [AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX%3A32024R1689&qid=1723226664277) en de [Algemene wet bestuursrecht](https://wetten.overheid.nl/BWBR0005537/2022-11-01/1)
 - belangrijke instrumenten, zoals de [IAMA](https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes) (Impact Assessment Mensenrechten en Algoritmes)
 - adviezen en ervaringen van experts, zoals wetenschappers
 
@@ -25,7 +25,7 @@ Het Algoritmekader is een website van het Ministerie van Binnenlandse Zaken en K
 Tot eind 2024 is het Algoritmekader een bètaversie. De informatie is nog in ontwikkeling en komt open source tot stand. Dat betekent dat iedereen zijn mening mag geven of een voorstel mag doen:
 - Geef je [vraag of wijziging](CONTRIBUTING.md) door.
 - Sluit je aan bij een [werkgroep](https://algoritmes.pleio.nl/).
-- Doe mee aan een [online vergadering](https://algoritmes.pleio.nl/events) zoals onze sprintreview of demo.
+- Doe mee aan een [(online) vergadering](https://algoritmes.pleio.nl/events) zoals onze demo na een nieuwe release van het Algoritmekader.
 
 ## Nieuwsbrief
 Via onze maandelijkse [Nieuwsbrief Algoritmes](https://algoritmeregister.email-provider.eu/memberforms/subscribe/standalone/form/?a=1pjwwoyxrs&l=vdfr1sbovb) blijf je op de hoogte over de ontwikkelingen van het Algoritmekader.

@@ -22,7 +22,7 @@ rollen:
 
 ## Instrument
 
-Modelbepalingen kunnen helpen om een contract op te stellen dat een organisatie in staat stelt veilige en verantwoorde algoritmen of AI-systemen in te kopen. Deze bepalingen (of voorwaarden) kunnen opgenomen worden wanneer er een contract wordt afgesloten met een leverancier van een algoritme of algoritmisch systeem. Er kunnen dan bijvoorbeeld beperkingen gelden om onaanvaardbare risico's van AI te vermijden, of bepaalde voorwaarden gesteld worden waaraan een algoritme juist moet voldoen.
+Modelbepalingen kunnen helpen om een contract op te stellen dat een organisatie in staat stelt veilige en verantwoorde algoritmen of AI-systemen in te kopen. Deze bepalingen (of voorwaarden) kunnen opgenomen worden wanneer er een contract wordt afgesloten met een leverancier van een algoritme of algoritmisch systeem. Er kunnen dan bijvoorbeeld beperkingen gelden om onaanvaardbare risico's van AI te vermijden, of bepaalde voorwaarden gesteld worden waaraan een algoritme juist moet voldoen. Ook kunnen bepaalde [voorwaarden worden opgenomen op basis van de vereisten](../maatregelen/maak_vereiste_onder_van_contractvoorwaarden.md) in het Algoritmekader.
 
 ### Europese Commissie
 De Europese contractvoorwaarden voor AI bieden aanbestedende organisaties de mogelijkheid om specifieke clausules op te nemen in de overeenkomst. Op deze manier worden afspraken gemaakt over onderwerpen die in lijn zijn met de aankomende AI-Act. Er zijn 2 versies van de AI-inkoopvoorwaarden opgesteld: een set voorwaarden voor AI-toepassingen met een hoog-risicoprofiel en een set voorwaarden voor AI-toepassingen met een laag-risicoprofiel.
@@ -39,6 +39,7 @@ De ARBIT zijn de Algemene Rijksinkoopvoorwaarden bij IT‑overeenkomsten (ARBIT)
 ## Relevantie
 
 Steeds meer organisaties kopen algoritmische toepassingen in die veel impact hebben op gebruikers of beslissingen. Het is daarom van belang dat aanbestedende overheidsorganisaties afspraken maken met leveranciers, zodat de werking van de algoritmische toepassing transparant is en op een veilige en verantwoorde manier gebruikt wordt. Verschillende organisaties hebben daarom (voorbeeld-)contractvoorwaarden voor het inkopen van AI-systemen beschikbaar gesteld. Denk aan de Europese Commissie en de Gemeente Amsterdam.
+
 
 ## Bijbehorende vereisten
 

@@ -15,6 +15,7 @@ bouwblok:
 rollen:
 - projectleider
 - proceseigenaar
+- proceseigenaar
 - data-scientist
 - data-engineer
 - security-officer

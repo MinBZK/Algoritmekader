@@ -1,11 +1,11 @@
 ---
 title: Maatregelen
-summary: Overzicht van aanbevolen maatregelen voor overheden die algoritmes of AI ontwikkelen of gebruiken. De maatregelen helpen om te voldoen aan de eisen.
+summary: Overzicht van aanbevolen maatregelen voor overheden die algoritmes of AI ontwikkelen of gebruiken. De maatregelen helpen om te voldoen aan de vereisten.
 hide:
 - navigation
 ---
 # Maatregelen
-Overzicht van maatregelen voor verantwoord gebruik van algoritmes en AI-systemen. Het zijn adviezen om te voldoen aan de eisen voor overheden. Andere maatregelen zijn ook mogelijk.
+Overzicht van maatregelen voor verantwoord gebruik van algoritmes en AI-systemen. Het zijn adviezen om te voldoen aan de vereisten voor overheden. Andere maatregelen zijn ook mogelijk.
 
 ## Alle maatregelen zijn adviezen
 De maatregelen zijn niet verplicht. Het zijn adviezen uit:

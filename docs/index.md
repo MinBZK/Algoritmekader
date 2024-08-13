@@ -52,7 +52,7 @@ hide:
 
   <div class="float-child styled-list">
     <h3><a href="overhetalgoritmekader/definities/">Woordenlijst</a></h3>
-    <p><b>Wat is een algoritme?</b><br>Vind snel de betekenis van begrippen als algoritme, AI-systeem, hoog-risico-AI en impactvolle algoritmes.</p>
+    <p><b>Wat is een algoritme?</b><br>Vind snel de betekenis van begrippen als algoritme, AI-systeem, hoog-risico-AI-systeem en impactvolle algoritmes.</p>
   </div>
 </div>
 

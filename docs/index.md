@@ -23,7 +23,7 @@ hide:
   <div class="float-child styled-list">
     <h3>Voldoen aan de wetten en regels</h3>
     <ul>
-      <li><a href="vereisten/">Eisen</a></li>
+      <li><a href="vereisten/">Vereisten</a></li>
       <li><a href="maatregelen/">Aanbevolen maatregelen</a></li>
       <li><a href="instrumenten/">Aanbevolen instrumenten</a></li>
     </ul>

@@ -4,7 +4,7 @@ summary: Hulp bij het bepalen van rollen en verantwoordelijkheden om als overhei
 icon: material/account
 ---
 # Rollen
-Verantwoorde algoritmes en AI-systemen zijn mogelijk als mensen in verschillende rollen goed samenwerken, op het juiste moment.
+Verantwoord gebruik van algoritmes en AI-systemen is mogelijk als mensen in verschillende rollen goed samenwerken, op het juiste moment.
 
 ## Bepaal zelf rollen en verantwoordelijkheden
 Organisaties bepalen zelf de namen van hun rollen of functies en de taken en verantwoordelijkheden die hierbij horen. 

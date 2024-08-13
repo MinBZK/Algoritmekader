@@ -11,7 +11,8 @@ levenscyclus:
 - monitoring-en-beheer
 # vul hier de bouwblokken in die horen bij deze maatregel
 bouwblok: 
-- fundamentele-rechten
+- bias-en-non-discriminatie
+- technische-robuustheid-en-veiligheid
 ---
 
 <!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->

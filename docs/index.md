@@ -30,7 +30,7 @@ hide:
   </div>
 
   <div class="float-child styled-list">
-    <h3><a href="rollen/" class="show-more">Informatie voor rol</a></h3>
+    <h3><a href="rollen/" class="show-more">Informatie per rol</a></h3>
     <ul>
       <li><a href="rollen/beleidsmedewerker/">Beleidsmedewerker</a></li>
       <li><a href="rollen/data-scientist/">Data scientist</a></li>

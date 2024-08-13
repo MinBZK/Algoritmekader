@@ -8,6 +8,7 @@ Een mogelijke inrichting van algoritme en AI governance die vaak wordt toegepast
 - De tweede linie identificeert, beoordeelt en rapporteert over risico’s en het uitgevoerde gebruik algoritmes en AI toepassingen.
 - De derde verdedigingslinie controleert de werking van de governance en betreft interne advisering en toetsing . 
 
+
 Schuett (2022) presenteert het three lines of defence model als volgt:
 ![Three Lines of Defence Model](https://github.com/user-attachments/assets/4974f07d-9810-44e0-a0bb-56f1b1061732)
 

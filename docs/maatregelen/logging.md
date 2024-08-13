@@ -41,8 +41,6 @@ Bedenk wat deze informatie betekent in de context van de werking van het algorit
 - Bedenk wat deze informatie betekent in de context van de werking van het algoritme of algoritmisch systeem. loginformatie gegenereerd, bewaard, toegankelijk gemaakt en gemonitord worden. Logbestanden bevatten vaak gebeurtenissen die gebruikersactiviteiten, uitzonderingen en informatiebeveiligingsgebeurtenissen registreren.
 - Stel vast welke informatie bij het ontwikkelen en gebruiken van algoritmes en AI-systemen relevant is om te loggen. 
 
-- Loginformatie wordt bewaard en is toegankelijk totdat de bewaartermijnen zijn verstreken (BIO 12.4.1.1, 12.4.2.2).
-- Logbestanden van gebeurtenissen die gebruikersactiviteiten, uitzonderingen en informatiebeveiligingsgebeurtenissen registreren, behoren te worden gemaakt, bewaard en regelmatig te worden beoordeeld.
 
 
 ## Risico

@@ -11,7 +11,7 @@ hide:
     <span class="version-container">
       <span class="version-label">Versie 1.4</span>
       <div class="hover-info">
-        <p>Deze website is een testversie. Alle versies ontstaan op een open manier. <a href="overhetalgoritmekader/CONTRIBUTING/">Iedereen mag opmerkingen of suggesties geven.</a></p>
+        <p>Deze website is in ontwikkeling. Alle versies ontstaan op een open manier. <a href="overhetalgoritmekader/CONTRIBUTING/">Iedereen mag opmerkingen of suggesties geven.</a></p>
       </div>
     </span>
   </h1>

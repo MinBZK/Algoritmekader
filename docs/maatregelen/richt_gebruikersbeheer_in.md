@@ -6,6 +6,7 @@ vereiste:
 levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
+- dataverkenning-en-datapreparatie
 - ontwikkelen
 - implementatie
 - monitoring-en-beheer
@@ -14,6 +15,7 @@ bouwblok:
 - governance
 rollen:
 - projectleider
+- proceseigenaar
 - proceseigenaar
 - informatiebeheerder
 - security-officer

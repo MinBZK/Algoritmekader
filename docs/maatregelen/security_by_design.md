@@ -4,6 +4,7 @@ toelichting: Door security-by-design toe te passen, kunnen kwetsbaarheden in de 
 vereiste:
 - beveiliging_informatie_en_informatiesystemen
 - beveiliging_van_verwerking
+- beveiliging_van_verwerking
 - automatische_logregistratie
 levenscyclus:
 - ontwerp

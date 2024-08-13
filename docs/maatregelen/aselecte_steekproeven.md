@@ -46,7 +46,7 @@ Het is dan belang om op andere wijze de tunnelvisie tegen te gaan.
 
 De precieze inzet van aselecte steekproeven zal afhangen van de context.
 Zo verschilt het per context hoeveel zaken aselect geselecteerd moeten worden.
-Het meest wenselijk is dat de steekproef groot genoeg is dat deze statistisch vergeleken kan worden.
+Bepaal welke groepen er precies vergeleken dienen te worden en bepaal aan de hand daarvan een passende steekproefgrootte zodanig dat er gesproken kan worden over statistische significantie. 
 
 In sommige gevallen zal de impact van een selectie ook dusdanig zijn, dat het zich niet leent voor aselecte steekproef.
 Zo kan een aselecte steekproef wel de basis zijn voor bureauonderzoek, maar mogelijk niet als enige basis voor een huisbezoek.

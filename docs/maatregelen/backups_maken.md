@@ -16,7 +16,7 @@ rollen:
 - proceseigenaar
 - projectleider
 - informatiebeheerder
-- data engineer
+- data-engineer
 - security-officer
 hide:
 - navigation

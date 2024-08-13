@@ -74,6 +74,7 @@ Deze belangenenafweging moet per context gemaakt worden.
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
+In het onderzoek van zowel [Algorithm Audit](https://algorithmaudit.eu/nl/algoprudence/cases/aa202401_preventing-prejudice/) als [PricewaterhouseCoopers](https://www.rijksoverheid.nl/documenten/rapporten/2024/03/01/eindrapport-pwc-rapportage-onderzoek-misbruik-uitwonendenbeurs) naar de Controle Uitwonendenbeurs is het belang van de aselecte steekproef duidelijk geworden. 
 
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
 

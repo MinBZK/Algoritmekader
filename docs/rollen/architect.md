@@ -1,14 +1,14 @@
 ---
-title: Aanbestedingsjurist
+title: Architect
 ---
 
 ## Vereisten
 
-<!-- list_vereisten rollen/aanbestedingsjurist -->
+<!-- list_vereisten rollen/architect -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/aanbestedingsjurist -->
+<!-- list_maatregelen rollen/architect -->
 
 !!! info "Disclaimer"
 

@@ -1,8 +1,9 @@
 ---
-title: Hanteer security-by-design principes
-toelichting: De principes van ‘security-by-design’ zijn uitgangspunten bij de ontwikkeling van het algoritme.
+title: Pas het principe van security-by-design toe
+toelichting: Door security-by-design toe te passen, kunnen kwetsbaarheden in de software worden voorkomen nog voordat deze wordt ontwikkeld. 
 vereiste:
 - beveiliging_informatie_en_informatiesystemen
+- beveiliging_van_verwerking
 - automatische_logregistratie
 levenscyclus:
 - ontwerp
@@ -34,7 +35,6 @@ Mogelijke documenten waarin deze principes kunnen worden opgenomen, zijn het sec
 
 ## Toelichting
 
-Een beheersmaatregelen afkomstig uit het basisnormenkader [Baseline Informatiebeveiliging Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/) op gebied van security-by-design is:
 
 - Security by design is gehanteerd en terug te zien als uitgangspunt. (BIO 14.2.1.1)
 
@@ -50,7 +50,7 @@ Wanneer tijdens het  ontwerp en de inrichting van het algoritmisch systeem niet 
 
 | Bron                        |
 |-----------------------------|
-| [Baseline Informatiebeveiliging Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/) |
+| [Baseline Informatiebeveiliging Overheid, (BIO 14.2.1.1)](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/) |
 | [Onderzoekskader Algoritmes Auditdienst Rijk, IB.28](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) |
 | [Toetsingskader Algoritmes Algemene Rekenkamer, 4.09](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)  |
 

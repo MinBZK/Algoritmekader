@@ -5,6 +5,7 @@ vereiste:
 - beveiliging_informatie_en_informatiesystemen
 levenscyclus:
 - ontwerp
+- ontwerp
 - ontwikkelen
 - implementatie
 - monitoring-en-beheer

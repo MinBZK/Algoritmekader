@@ -1,6 +1,6 @@
 ---
-title: Richt een formeel wachtwoordbeheer in
-toelichting: Richt een formeel wachtwoordbeheer in, , waarmee bepaald wordt hoe wachtwoorden worden opgeslagen, wanneer wijzigingen moeten plaatsvinden, waaraan wachtwoorden moeten voldoen.
+title: Richt wachtwoordbeheer in
+toelichting: Richt wachtwoordbeheer in, waarmee bepaald wordt hoe wachtwoorden worden opgeslagen, wanneer wijzigingen moeten plaatsvinden en waaraan wachtwoorden moeten voldoen.
 vereiste:
 - beveiliging_informatie_en_informatiesystemen
 levenscyclus:
@@ -13,9 +13,7 @@ bouwblok:
 - governance
 rollen:
 - projectleider
-- informatiebeheerder
 - security-officer
-- privacy-officer
 hide:
 - navigation
 ---
@@ -24,13 +22,12 @@ hide:
 
 ## Maatregel
 
-Richt een formeel wachtwoordbeheer in, waarmee bepaald wordt hoe wachtwoorden worden opgeslagen, wanneer wijzigingen moeten plaatsvinden, waaraan wachtwoorden moeten voldoen. Hiermee wordt de toegang tot bijvoorbeeld ontwikkelomgevingen geregeld op een veilige manier.
+Richt wachtwoordbeheer in, waarmee bepaald wordt hoe wachtwoorden worden opgeslagen, wanneer wijzigingen moeten plaatsvinden en waaraan wachtwoorden moeten voldoen. Hiermee wordt de toegang tot bijvoorbeeld ontwikkelomgevingen geregeld op een veilige manier.
 
 
 ## Toelichting
 
-Er zijn beheersmaatregelen die kunnen helpen bij het zorgen voor een goed wachtwoordbeheer. Deze kunnen worden verwerkt in een formeel wachtwoordbeheer.
-Denk onder andere aan de volgende maatregelen die opgenomen kunnen worden in een wachtwoordbeheer. (Deze maatregelen komen uit het basisnormenkader [Baseline Informatiebeveiliging Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/) en uit de NIST.)
+Bij het inrichten van wachtwoordbeheer moeten de volgende zaken worden toegepast:
 
 - Alle wachtwoorden van gebruikers en beheerders dienen periodiek te worden gewijzigd, met een maximum van 1 jaar (BIO 9.4.3). Initiële wachtwoorden en wachtwoorden die gereset zijn, hebben een maximale geldigheidsduur van 24 uur en moeten bij het eerste gebruik worden gewijzigd.
 - Voor toegang vanuit een onvertrouwde omgeving dient twee-factor authenticatie te worden gebruikt (BIO 9.4.2.1). Als er geen gebruik wordt gemaakt van two-factor authenticatie, is de wachtwoordlengte minimaal 8 posities en complex van samenstelling. In situaties waar geen two-factor authenticatie mogelijk is, wordt minimaal halfjaarlijks het wachtwoord vernieuwd.
@@ -40,7 +37,7 @@ Denk onder andere aan de volgende maatregelen die opgenomen kunnen worden in een
 
 
 ## Risico
-Als het wachtwoordbeheer van onvoldoende kwaliteit is, kan er oneigenlijke toegang plaatsvinden tot het algoritme of uitkomsten van het algoritme, bijvoorbeeld doordat het wachtwoord te eenvoudig is.
+Als het wachtwoordbeheer van onvoldoende kwaliteit is, kan oneigenlijke toegang plaatsvinden tot het algoritme of uitkomsten van het algoritme, bijvoorbeeld doordat het wachtwoord te eenvoudig is.
 
 ## Bijbehorende vereiste(n)
 

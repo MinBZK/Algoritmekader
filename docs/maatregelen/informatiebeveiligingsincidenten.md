@@ -1,8 +1,10 @@
 ---
-title: Zorg voor een beheer van informatiebeveiligingsincidenten
-toelichting: Zorg voor een procedures die borgen dat beveiligingsincidenten m.b.t. algoritmes en data zo spoedig mogelijk worden opgepakt.
+title: Richt een incidentmanagement proces in voor informatiebeveiligingsincidenten
+toelichting: Richt een proces in waarmee beveiligingsincidenten m.b.t. algoritmes en data zo spoedig mogelijk worden opgelost.
 vereiste:
 - beveiliging_informatie_en_informatiesystemen
+- ontwerp_voor_nauwkeurigheid_robuustheid_en_cyberbeveiliging
+- beveiliging_van_verwerking
 levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
@@ -17,7 +19,6 @@ rollen:
 - projectleider
 - informatiebeheerder
 - security-officer
-- privacy-officer
 - proceseigenaar
 hide:
 - navigation
@@ -27,16 +28,14 @@ hide:
 
 ## Maatregel
 
-Zorg voor een procedures die borgen dat beveiligingsincidenten m.b.t. algoritmes en data zo spoedig mogelijk worden opgepakt.
+Richt een proces in waarmee beveiligingsincidenten m.b.t. algoritmes en data zo spoedig mogelijk worden opgelost.
 
 
 ## Toelichting
 
-Er zijn beheersmaatregelen die kunnen helpen bij het zorgen voor goede loggingsinformatie. Een beheersmaatregelen op gebied van informatiebeveiligingsincidenten is:
 
-- Er zijn procedures aanwezig die borgen dat beveiligingsincidenten m.b.t. algoritmes en data zo spoedig mogelijk, afhankellijk van de kwalificatie van het incident, worden opgepakt (BIO 16.1.1, 16.1.5).
+- Er zijn procedures aanwezig die borgen dat beveiligingsincidenten m.b.t. algoritmes en data zo spoedig mogelijk, afhankelijk van de kwalificatie van het incident, worden opgepakt.
 
-(Deze maatregelen komen uit het basisnormenkader [Baseline Informatiebeveiliging Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/): BIO 12.3.1.1, 12.3.1.4, 12.3.1.5, of uit het [Toetsingskader Algoritmes Algemene Rekenkamer, 4.06](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag))
 
 ## Risico
 Te late reactie op incidenten kan ervoor zorgen dat de BIV (beschikbaarheid, integriteit en vertrouwelijkheid) van het algoritme of data kan worden aangetast.
@@ -49,7 +48,7 @@ Te late reactie op incidenten kan ervoor zorgen dat de BIV (beschikbaarheid, int
 
 | Bron                        |
 |-----------------------------|
-| [Baseline Informatiebeveiliging Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/) |
+| [Baseline Informatiebeveiliging Overheid, BIO 12.3.1.1, 12.3.1.4, 12.3.1.5](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/) |
 | [Onderzoekskader Algoritmes Auditdienst Rijk, IB.30](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) |
 | [Toetsingskader Algoritmes Algemene Rekenkamer, 4.06](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)  |
 

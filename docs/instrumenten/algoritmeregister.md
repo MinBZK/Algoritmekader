@@ -27,9 +27,7 @@ Je kunt [hier meer lezen](https://algoritmes.overheid.nl/nl/footer/over) over de
 
 
 ## Relevantie
-Één van de maatregelen in dit kader is het publiceren in het Algoritmeregister. Wil je daar meer over lezen, [klik dan hier](../maatregelen/publiceren_in_algoritmeregister.md).
-Neem ook geschikte informatie uit technische documentatie van een algoritme op in het algoritmeregister. Raadpleeg daarvoor [deze maatregel](../maatregelen/neem_technische_documentatie_in_algoritmeregister.md).
-
+Neem geschikte informatie uit technische documentatie van een algoritme op in het algoritmeregister. Raadpleeg om meer te lezen over het publiceren in het Algoritmeregister [deze maatregel. ](../maatregelen/neem_technische_documentatie_in_algoritmeregister.md).
 
 ## Bijbehorende vereisten
 

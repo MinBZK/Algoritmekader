@@ -7,6 +7,7 @@ Overzicht van de instrumenten voor het verantwoord ontwikkelen, gebruiken, beoor
 
 ## Richtlijnen en andere hulpmiddelen
 Met instrumenten bedoelen we hulpmiddelen voor verantwoord en effectief gebruik van algoritmes en AI-systemen, zoals:
+
 - richtlijnen
 - standaarden
 - leidraden
@@ -21,6 +22,7 @@ Instrumenten die het Algoritmekader aanbiedt, zijn:
 - geschikt voor algoritmes of AI-systemen van overheden
 
 We maken deze selectie om 2 redenen:
+
 - Een selectie is duidelijker. Als we alle instrumenten aanbieden, is het voor gebruikers moeilijker te bepalen welk instrument of welke combinatie het meest geschikt is. Daarvoor lijken de instrumenten te veel op elkaar.
 - Een selectie kunnen we controleren op kwaliteit. We kunnen niet alle instrumenten controleren.
 

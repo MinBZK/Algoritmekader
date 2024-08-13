@@ -42,7 +42,7 @@ hide:
   </div>
 
   <div class="float-child styled-list">
-    <h3>Voldoen aan de regels</h3>
+    <h3>Voldoen aan de wetten en regels</h3>
     <ul>
       <li><a href="vereisten/">Eisen</a></li>
       <li><a href="maatregelen/">Aanbevolen maatregelen</a></li>

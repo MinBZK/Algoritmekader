@@ -35,4 +35,4 @@ Welke maatregelen handig zijn in jouw situatie, hangt af van:
 <!-- list_maatregelen_all -->
 
 ## Help ons deze pagina te verbeteren
-Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/maatregelen/index.md) of mail ons via [algoritmes@minbzk.nl](algoritmes@minbzk.nl).
+Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader) of mail ons via [algoritmes@minbzk.nl](algoritmes@minbzk.nl).

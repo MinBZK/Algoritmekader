@@ -7,31 +7,31 @@ p{
   font-size: 0.85em;
   display: inline-block;
   margin: 0.2rem 0.3rem;
-  text-align: left; /* Ensure left alignment */
+  text-align: left; 
 }
 
 .mdx-badge__icon {
   border-radius: 0.1rem 0 0 0.1rem;
   background: var(--md-accent-fg-color--transparent);
   padding: 0.2rem;
-  text-align: left; /* Ensure left alignment */
+  text-align: left; 
 }
 
 .mdx-badge__text {
   border-radius: 0 0.1rem 0.1rem 0;
   box-shadow: inset 0 0 0 1px var(--md-accent-fg-color--transparent);
   padding: 0.2rem 0.3rem;
-  text-align: left; /* Ensure left alignment */
+  text-align: left; 
 }
 
 .mdx-badge a {
   color: var(--md-accent-fg-color);
-  text-align: left; /* Ensure left alignment */
+  text-align: left; 
 }
 
 .float-container a {
   color: #154273;
-  text-align: left; /* Ensure left alignment */
+  text-align: left; 
   text-decoration: underline;
 }
 
@@ -48,13 +48,13 @@ p{
 .md-typeset .admonition.simple,
 .md-typeset details.simple {
   border-color: rgb(5, 80, 141);
-  text-align: left; /* Ensure left alignment */
+  text-align: left; 
 }
 
 .md-typeset .simple > .admonition-title,
 .md-typeset .simple > summary {
   background-color: rgba(185, 185, 185, 0.1);
-  text-align: left; /* Ensure left alignment */
+  text-align: left; 
 }
 
 .md-typeset .simple > .admonition-title::before,
@@ -68,7 +68,7 @@ p{
 .header-container {
   margin-bottom: 20px;
   position: relative;
-  text-align: left; /* Ensure left alignment */
+  text-align: left; 
   margin-bottom: 40px;
 }
 
@@ -77,7 +77,7 @@ p{
   margin: 0;
   display: inline-block;
   position: relative;
-  text-align: left; /* Ensure left alignment */
+  text-align: left; 
   color: #154273;
 }
 
@@ -90,14 +90,9 @@ p{
   margin-left: 10px;
   cursor: pointer;
   position: relative;
-  text-align: left; /* Ensure left alignment */
+  text-align: left; 
   font-weight: 500;
   text-transform: capitalize;
-}
-
-.header-container .version-label:hover {
-  background-color: #154273;
-  color: #111111;
 }
 
 .header-container .hover-info {
@@ -120,13 +115,13 @@ p{
 .header-container .version-label:hover + .hover-info,
 .header-container .hover-info:hover {
   display: block;
-  text-align: left; /* Ensure left alignment */
+  text-align: left; 
 }
 
 .header-container .hover-info a {
   color: #154273;
   font-weight: bold;
-  text-align: left; /* Ensure left alignment */
+  text-align: left; 
 }
 
 .header-container .hover-info a:hover {
@@ -168,7 +163,7 @@ p{
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Responsive columns */
   gap: 20px; /* Space between the boxes */
-  text-align: left; /* Ensure left alignment */
+  text-align: left; 
 }
 
 /* Float Child */
@@ -178,7 +173,7 @@ p{
   padding: 16px 24px;
   display: flex;
   flex-direction: column;
-  text-align: left; /* Ensure left alignment */
+  text-align: left; 
 }
 
 /* Ensure the content within the boxes is evenly distributed */
@@ -187,7 +182,7 @@ p{
   padding: 16px 32px;
   border-radius: 5px;
   flex-grow: 1;
-  text-align: left; /* Ensure left alignment */
+  text-align: left; 
 }
 
 /* Styled List */
@@ -196,7 +191,7 @@ p{
   font-weight: bold;
   margin-bottom: 10px;
   font-size: 1.2em;
-  text-align: left; /* Ensure left alignment */
+  text-align: left; 
   margin-top: 10px;
 }
 
@@ -204,14 +199,14 @@ p{
   list-style-type: none;
   padding-left: 0;
   margin-bottom: 20px;
-  text-align: left; /* Ensure left alignment */
+  text-align: left; 
 }
 
 .styled-list ul li {
   margin-bottom: 10px;
   display: flex;
   align-items: flex-start; /* Align items to the top */
-  text-align: left; /* Ensure left alignment */
+  text-align: left;
 }
 
 .styled-list ul li::before {
@@ -219,13 +214,13 @@ p{
   margin-right: 8px;
   color: #154273;
   font-weight: bold;
-  text-align: left; /* Ensure left alignment */
+  text-align: left; 
 }
 
 .styled-list ul li a {
   color: #154273;
   font-weight: normal;
-  text-align: left; /* Ensure left alignment */
+  text-align: left; 
 }
 
 /* Show More Link */
@@ -245,19 +240,19 @@ p{
   margin-top: 30px;
   padding-top: 10px;
   border-top: 1px solid #ddd;
-  text-align: left; /* Ensure left alignment */
+  text-align: left; 
 }
 
 .footer-section h2 {
   font-size: 1.5em;
   color: #154273;
-  text-align: left; /* Ensure left alignment */
+  text-align: left; 
 }
 
 .footer-section a {
   color: #154273;
   font-weight: bold;
-  text-align: left; /* Ensure left alignment */
+  text-align: left; 
 }
 
 .footer-section a:hover {
@@ -272,33 +267,33 @@ p{
   padding: 20px;
   box-sizing: border-box;
   margin-bottom: 20px;
-  text-align: left; /* Ensure left alignment */
+  text-align: left; 
 }
 
 .full-width-header {
   font-size: 1.5em;
   color: #154273;
   margin: 0 0 10px;
-  text-align: left; /* Ensure left alignment */
+  text-align: left; 
 }
 
 .full-width-item {
   margin: 10px 0;
-  text-align: left; /* Ensure left alignment */
+  text-align: left; 
 }
 
 .item-description {
   font-size: 1em;
   color: #666;
   margin: 0 0 10px;
-  text-align: left; /* Ensure left alignment */
+  text-align: left; 
 }
 
 .show-more-link {
   font-weight: bold;
   color: #154273;
   text-decoration: none;
-  text-align: left; /* Ensure left alignment */
+  text-align: left;
 }
 
 .show-more-link:hover {

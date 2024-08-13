@@ -19,8 +19,18 @@ hide:
 </div>
 
 <div class="float-container">
+
   <div class="float-child styled-list">
-    <h3><a href="rollen/index.md" class="show-more">Informatie voor rol</a></h3>
+    <h3>Voldoen aan de wetten en regels</h3>
+    <ul>
+      <li><a href="vereisten/">Eisen</a></li>
+      <li><a href="maatregelen/">Aanbevolen maatregelen</a></li>
+      <li><a href="instrumenten/">Aanbevolen instrumenten</a></li>
+    </ul>
+  </div>
+
+  <div class="float-child styled-list">
+    <h3><a href="rollen/" class="show-more">Informatie voor rol</a></h3>
     <ul>
       <li><a href="rollen/beleidsmedewerker/">Beleidsmedewerker</a></li>
       <li><a href="rollen/data-scientist/">Data scientist</a></li>
@@ -38,15 +48,6 @@ hide:
       <li><a href="bouwblokken/transparantie/">Transparantie</a></li>    
       <li><a href="bouwblokken/privacy-en-gegevensbescherming/">Privacy en gegevensbescherming</a></li>
       <li><a href="bouwblokken/publieke-inkoop/">Publieke inkoop</a></li>
-    </ul>
-  </div>
-
-  <div class="float-child styled-list">
-    <h3>Voldoen aan de wetten en regels</h3>
-    <ul>
-      <li><a href="vereisten/">Eisen</a></li>
-      <li><a href="maatregelen/">Aanbevolen maatregelen</a></li>
-      <li><a href="instrumenten/">Aanbevolen instrumenten</a></li>
     </ul>
   </div>
 

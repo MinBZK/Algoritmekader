@@ -4,6 +4,7 @@ toelichting: Door goede logging is te achterhalen wanneer en door wie er (ongewe
 vereiste:
 - beveiliging_informatie_en_informatiesystemen
 - automatische_logregistratie
+- bewaartermijn_voor_gegenereerde_logs
 levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie

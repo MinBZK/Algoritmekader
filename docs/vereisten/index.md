@@ -1,11 +1,12 @@
 ---
 title: Vereisten
-summary: Overzicht van eisen voor overheden die algoritmes of AI ontwikkelen of gebruiken.
+summary: Overzicht van vereisten voor overheden die algoritmes of AI ontwikkelen of gebruiken.
 hide:
 - navigation
 ---
-# Eisen
-Overzicht van eisen voor overheden die algoritmes of AI-systemen ontwikkelen of gebruiken. Deze eisen zijn gebaseerd op de wetten en regels voor het uitvoeren van wettelijke taken, zoals de:
+# Vereisten
+Overzicht van vereisten voor overheden die algoritmes of AI-systemen ontwikkelen of gebruiken. 
+Deze vereisten zijn gebaseerd op de wetten en regels voor het uitvoeren van wettelijke taken, zoals de:
 
 - AI-verordening
 - Algemene verordening gegevensbescherming (AVG)
@@ -15,20 +16,20 @@ Overzicht van eisen voor overheden die algoritmes of AI-systemen ontwikkelen of 
 - Baseline Informatiebeveiliging Overheid (BIO)
 - Grondwet
 
-Bij elke eis staat dit er duidelijk bij.
+Bij elke vereiste staat dit er duidelijk bij.
 
-## Aantal eisen verschilt per situatie
-Welke eisen gelden voor jouw organisatie, hangt af van:
+## Aantal vereisten verschilt per situatie
+Welke vereisten gelden voor jouw organisatie, hangt af van:
 
 - de technologie die je gebruikt: rekenregels, machinelearning of generatieve AI
-- het risiconiveau van je product
+- de risicoclassificatie van het algoritme dat wordt gebruikt
 
 ### Voorbeeld
 > Impactvolle algoritmes en AI-systemen worden gepubliceerd in het Nederlandse algoritmeregister.
 
-Deze eis geldt alleen voor impactvolle algoritmes en hoog-risico-AI-systemen. Een niet-impactvolle rekenregel hoef je niet te registreren.
+Deze vereiste geldt alleen voor impactvolle algoritmes en hoog-risico-AI-systemen. Een niet-impactvolle rekenregel hoef je niet te registreren.
 
-## Overzicht eisen
+## Overzicht vereisten
 
 <!-- list_vereisten_all -->
 

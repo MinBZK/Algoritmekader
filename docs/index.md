@@ -9,7 +9,7 @@ hide:
 <div class="header-container">
   <h1>Het algoritmekader
     <span class="version-container">
-      <span class="version-label">Versie 1.4</span>
+      <span class="version-label">Bètaversie</span>
       <div class="hover-info">
         <p>Deze website is in ontwikkeling. Alle versies ontstaan op een open manier. <a href="overhetalgoritmekader/CONTRIBUTING/">Iedereen mag opmerkingen of suggesties geven.</a></p>
       </div>

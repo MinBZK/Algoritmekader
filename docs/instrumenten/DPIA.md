@@ -1,7 +1,6 @@
 ---
 title: Data Protection Impact Assessment 
 toelichting: De DPIA is een instrument om vooraf de privacyrisico’s van een gegevensverwerking in kaart te brengen. Zodat de organisatie maatregelen kan nemen om deze risico’s te verkleinen. De DPIA zorgt voor naleving van de wetgeving inzake gegevensbescherming, zoals de Algemene Verordening Gegevensbescherming (AVG) in de Europese Unie. 
-
 vereiste:
 - beperkte_bewaartermijn_van_persoonsgegevens
 - beschrijven_en_toewijzen_van_verantwoordelijkheden_bij_verwerking_persoonsgegevens

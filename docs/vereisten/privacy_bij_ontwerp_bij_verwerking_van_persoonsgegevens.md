@@ -34,6 +34,7 @@ Dit is eveneens van toepassing als persoonsgegevens worden verwerkt bij het ontw
 | Bron                        |
 |-----------------------------|
 |Artikel 25 AVG|
+| [Toetsingskader Algoritmes Algemene Rekenkamer, 3.06](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) |
 
 ## Wanneer van toepassing?
 

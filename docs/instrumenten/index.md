@@ -7,12 +7,14 @@ summary: Overzicht van de aanbevolen instrumenten voor overheden die algoritmes 
 Overzicht van de instrumenten voor het verantwoord ontwikkelen, gebruiken, beoordelen en monitoren van algoritmes en AI-systemen.
 
 ## Richtlijnen en andere hulpmiddelen
+
 Met instrumenten bedoelen we hulpmiddelen voor verantwoord en effectief gebruik van algoritmes en AI-systemen, zoals:
 
 - richtlijnen
 - standaarden
 - leidraden
 - handboeken
+  
 Instrumenten helpen bij het op een rij zetten, beoordelen en verbeteren van de kenmerken, prestaties, effecten en risico’s.
 
 ## Hoe we instrumenten selecteren

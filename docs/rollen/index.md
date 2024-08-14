@@ -14,4 +14,4 @@ Sommige organisaties hebben bijvoorbeeld minder rollen, omdat zij verschillende 
 De rollen in het linkermenu spelen in het ideale geval een rol bij het gebruik van algoritmes. Andere rollen zijn ook mogelijk.
 
 ## Help ons deze pagina te verbeteren
-Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/rollen/index.md) of mail ons via [algoritmes@minbzk.nl](algoritmes@minbzk.nl).
+Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/rollen/index.md) of mail ons via [algoritmes@minbzk.nl](mailto::algoritmes@minbzk.nl).

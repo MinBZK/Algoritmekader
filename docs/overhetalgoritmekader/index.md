@@ -34,6 +34,7 @@ Versie 2.0 is de definitieve, betrouwbare versie van het Algoritmekader. Deze ve
 
 ## Iedereen mag meedenken
 De informatie in het Algoritmekader komt open source tot stand. Dat betekent dat iedereen kan meekijken en zijn mening mag geven, of een voorstel mag doen:
+
 - Geef je [vraag of wijziging](CONTRIBUTING.md) door.
 - Sluit je aan bij een [werkgroep](https://algoritmes.pleio.nl/).
 - Doe mee aan een [(online) vergadering](https://algoritmes.pleio.nl/events) zoals onze demo na een nieuwe release van het Algoritmekader.

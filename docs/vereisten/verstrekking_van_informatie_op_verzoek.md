@@ -12,7 +12,7 @@ levenscyclus:
 - implementatie
 - monitoring-en-beheer
 - uitfaseren
-bouwblok:
+onderwerp:
 - governance
 hide:
 - navigation
@@ -49,6 +49,6 @@ Weigering om informatie te verstrekken kan leiden tot juridische sancties en kan
 === "Allen"
 	<!-- list_maatregelen vereiste/verstrekking_van_informatie_op_verzoek -->
 === "Governance"
-	<!-- list_maatregelen vereiste/verstrekking_van_informatie_op_verzoek boubwlok/governance -->
+	<!-- list_maatregelen vereiste/verstrekking_van_informatie_op_verzoek onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/verstrekking_van_informatie_op_verzoek bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/verstrekking_van_informatie_op_verzoek onderwerp/publieke-inkoop -->

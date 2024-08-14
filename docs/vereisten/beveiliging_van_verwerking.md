@@ -9,7 +9,7 @@ levenscyclus:
 - verificatie-en-validatie
 - monitoring-en-beheer
 - uitfaseren
-bouwblok: 
+onderwerp: 
 - privacy-en-gegevensbescherming
 - data
 rekenregels: 
@@ -81,6 +81,6 @@ Dit kan leiden bijvoorbeeld tot verlies of diefstal van gevoelige gegevens, vers
 === "Allen"
 	<!-- list_maatregelen vereiste/beveiliging_van_verwerking -->
 === "Governance"
-	<!-- list_maatregelen vereiste/beveiliging_van_verwerking boubwlok/governance -->
+	<!-- list_maatregelen vereiste/beveiliging_van_verwerking onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/beveiliging_van_verwerking bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/beveiliging_van_verwerking onderwerp/publieke-inkoop -->

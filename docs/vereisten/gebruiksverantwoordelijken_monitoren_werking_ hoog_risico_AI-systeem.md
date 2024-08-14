@@ -5,7 +5,7 @@ status_vereiste:
 - nog-niet-geldend
 levenscyclus:
 - monitoring-en-beheer
-bouwblok:
+onderwerp:
 - governance
 - menselijke-controle
 hide:
@@ -49,6 +49,6 @@ Zonder monitoring door gebruiksverantwoordelijken en (waar nodig) het informeren
 === "Allen"
 	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_monitoren_werking_ hoog_risico_AI-systeem -->
 === "Governance"
-	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_monitoren_werking_ hoog_risico_AI-systeem boubwlok/governance -->
+	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_monitoren_werking_ hoog_risico_AI-systeem onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_monitoren_werking_ hoog_risico_AI-systeem bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_monitoren_werking_ hoog_risico_AI-systeem onderwerp/publieke-inkoop -->

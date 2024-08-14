@@ -56,9 +56,9 @@ nav:
         - levenscyclus/implementatie.md
         - levenscyclus/monitoring-en-beheer.md
         - levenscyclus/uitfaseren.md
-    - Bouwblokken:
-        - bouwblokken/index.md
-        - ... | bouwblokken/*/*.md
+    - Onderwerpen:
+        - onderwerpen/index.md
+        - ... | onderwerpen/*/*.md
     - Rollen:
         - ... | rollen/*.md
     - Vereisten:

@@ -6,7 +6,7 @@ vereiste:
 levenscyclus:
 - ontwerp
 - monitoring-en-beheer
-bouwblok:
+onderwerp:
 - publieke-inkoop
 rollen:
 - proceseigenaar
@@ -15,6 +15,8 @@ rollen:
 - contractbeheerder
 - aanbestedingsjurist
 - aanbieder
+- informatiebeheerder
+  
 hide:
 - navigation
 ---

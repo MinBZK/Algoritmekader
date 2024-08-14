@@ -8,7 +8,7 @@ levenscyclus:
 - dataverkenning-en-datapreparatie
 - ontwikkelen
 - verificatie-en-validatie
-bouwblok: 
+onderwerp: 
 - privacy-en-gegevensbescherming
 rollen:
 - privacy-officer
@@ -61,6 +61,7 @@ Gebruiksverantwoordelijken van AI-systemen met een hoog risico gebruiken die inf
 |[Artikel 35 Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679) |
 |[Artikel 26(9) Verordening Artificiële Intelligentie](https://www.europarl.europa.eu/doceo/document/TA-9-2024-0138-FNL-COR01_NL.pdf) |
 |[Besluit lijst verwerkingen persoonsgegevens waarvoor een gegevensbeschermingseffectbeoordeling (DPIA) verplicht is, Autoriteit Persoonsgegevens](https://wetten.overheid.nl/BWBR0042812/2019-11-27) |
+| [Data protection impact assessment (DPIA) Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/praktisch-avg/data-protection-impact-assessment-dpia#:~:text=Een%20DPIA%20is%20een%20instrument,Algemene%20verordening%20gegevensbescherming%20(AVG)%3B)|
 
 ## Wanneer van toepassing? 
 
@@ -92,6 +93,6 @@ Dit kan leiden tot potentiële schendingen van de rechten en vrijheden van betro
 === "Allen"
 	<!-- list_maatregelen vereiste/dpia_verplicht_bij_hoog_risico -->
 === "Governance"
-	<!-- list_maatregelen vereiste/dpia_verplicht_bij_hoog_risico boubwlok/governance -->
+	<!-- list_maatregelen vereiste/dpia_verplicht_bij_hoog_risico onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/dpia_verplicht_bij_hoog_risico bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/dpia_verplicht_bij_hoog_risico onderwerp/publieke-inkoop -->

@@ -14,7 +14,7 @@ levenscyclus:
 - implementatie
 
 # vul hier de bouwblokken in die horen bij deze maatregel
-bouwblok: 
+onderwerp: 
 - governance
 - menselijke-controle
 hide:

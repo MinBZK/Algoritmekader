@@ -7,7 +7,7 @@ levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
 - ontwikkelen
-bouwblok:
+onderwerp:
 - privacy-en-gegevensbescherming
 hide:
 - navigation
@@ -43,6 +43,6 @@ Betrokkenen hebben geen controle over hun persoonsgegevens wanneer ze geen beroe
 === "Allen"
 	<!-- list_maatregelen vereiste/inroepen_privacyrecht_bij_verwerking_persoonsgegevens -->
 === "Governance"
-	<!-- list_maatregelen vereiste/inroepen_privacyrecht_bij_verwerking_persoonsgegevens boubwlok/governance -->
+	<!-- list_maatregelen vereiste/inroepen_privacyrecht_bij_verwerking_persoonsgegevens onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/inroepen_privacyrecht_bij_verwerking_persoonsgegevens bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/inroepen_privacyrecht_bij_verwerking_persoonsgegevens onderwerp/publieke-inkoop -->

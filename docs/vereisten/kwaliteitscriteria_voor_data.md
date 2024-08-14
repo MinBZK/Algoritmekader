@@ -7,7 +7,7 @@ levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
 - verificatie-en-validatie
-bouwblok: 
+onderwerp: 
 - governance
 - data
 rekenregels: 
@@ -77,6 +77,6 @@ Onvoldoende kwaliteitsborging van testdata kan leiden tot vertekende resultaten 
 === "Allen"
 	<!-- list_maatregelen vereiste/kwaliteit_voor_data -->
 === "Governance"
-	<!-- list_maatregelen vereiste/kwaliteit_voor_data boubwlok/governance -->
+	<!-- list_maatregelen vereiste/kwaliteit_voor_data onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/kwaliteit_voor_data bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/kwaliteit_voor_data onderwerp/publieke-inkoop -->

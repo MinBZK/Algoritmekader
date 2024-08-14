@@ -8,7 +8,7 @@ levenscyclus:
 - verificatie-en-validatie
 - implementatie
 - monitoring-en-beheer
-bouwblok:
+onderwerp:
 - governance
 hide:
 - navigation
@@ -49,6 +49,6 @@ Niet voldoen aan deze verplichtingen kan leiden tot negatieve gevolgen voor de g
 === "Allen"
 	<!-- list_maatregelen vereiste/verplichtingen_van_aanbieders_van_ai_modellen_voor_algemene_doeleinden_met_systeemrisico -->
 === "Governance"
-	<!-- list_maatregelen vereiste/verplichtingen_van_aanbieders_van_ai_modellen_voor_algemene_doeleinden_met_systeemrisico boubwlok/governance -->
+	<!-- list_maatregelen vereiste/verplichtingen_van_aanbieders_van_ai_modellen_voor_algemene_doeleinden_met_systeemrisico onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/verplichtingen_van_aanbieders_van_ai_modellen_voor_algemene_doeleinden_met_systeemrisico bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/verplichtingen_van_aanbieders_van_ai_modellen_voor_algemene_doeleinden_met_systeemrisico onderwerp/publieke-inkoop -->

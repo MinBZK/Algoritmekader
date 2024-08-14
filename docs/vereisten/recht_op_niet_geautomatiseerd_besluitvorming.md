@@ -7,7 +7,7 @@ levenscyclus:
 - ontwerp
 - ontwikkelen
 - monitoring-en-beheer 
-bouwblok: 
+onderwerp: 
 - privacy-en-gegevensbescherming
 rekenregels: 
 - niet-impactvol: Nee
@@ -71,6 +71,6 @@ Bij geautomatiseerde besluitvorming kan het risico ontstaan dat kenmerken van ee
 === "Allen"
 	<!-- list_maatregelen vereiste/recht_op_niet_geautomatiseerd_besluitvorming -->
 === "Governance"
-	<!-- list_maatregelen vereiste/recht_op_niet_geautomatiseerd_besluitvorming boubwlok/governance -->
+	<!-- list_maatregelen vereiste/recht_op_niet_geautomatiseerd_besluitvorming onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/recht_op_niet_geautomatiseerd_besluitvorming bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/recht_op_niet_geautomatiseerd_besluitvorming onderwerp/publieke-inkoop -->

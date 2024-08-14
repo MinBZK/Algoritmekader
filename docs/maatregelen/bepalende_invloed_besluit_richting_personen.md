@@ -6,7 +6,7 @@ vereiste:
 levenscyclus:
 - ontwikkelen
 - monitoring-en-beheer
-bouwblok:
+onderwerp:
 - publieke-inkoop
 rollen:
 - behoeftesteller

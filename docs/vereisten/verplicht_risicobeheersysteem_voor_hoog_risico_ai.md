@@ -12,7 +12,7 @@ levenscyclus:
 - implementatie
 - monitoring-en-beheer
 - uitfaseren
-bouwblok:
+onderwerp:
 - governance
 hide:
 - navigation
@@ -55,6 +55,6 @@ Het ontbreken van risicobeheer kan leiden tot schade aan gebruikers of derden en
 === "Allen"
 	<!-- list_maatregelen vereiste/verplicht_risicobeheersysteem_voor_hoog_risico_ai -->
 === "Governance"
-	<!-- list_maatregelen vereiste/verplicht_risicobeheersysteem_voor_hoog_risico_ai boubwlok/governance -->
+	<!-- list_maatregelen vereiste/verplicht_risicobeheersysteem_voor_hoog_risico_ai onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/verplicht_risicobeheersysteem_voor_hoog_risico_ai bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/verplicht_risicobeheersysteem_voor_hoog_risico_ai onderwerp/publieke-inkoop -->

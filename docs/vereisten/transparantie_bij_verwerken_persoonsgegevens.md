@@ -14,7 +14,7 @@ levenscyclus:
 - verificatie-en-validatie
 - implementatie
 - monitoring-en-beheer
-bouwblok:
+onderwerp:
 - privacy-en-gegevensbescherming
 - transparantie
 hide:
@@ -53,6 +53,6 @@ Rechten van betrokken worden geschonden als er geen sprake is van transparantie 
 === "Allen"
 	<!-- list_maatregelen vereiste/transparantie_bij_verwerken_persoonsgegevens -->
 === "Governance"
-	<!-- list_maatregelen vereiste/transparantie_bij_verwerken_persoonsgegevens boubwlok/governance -->
+	<!-- list_maatregelen vereiste/transparantie_bij_verwerken_persoonsgegevens onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/transparantie_bij_verwerken_persoonsgegevens bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/transparantie_bij_verwerken_persoonsgegevens onderwerp/publieke-inkoop -->

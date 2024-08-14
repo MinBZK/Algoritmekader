@@ -7,7 +7,7 @@ levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
 - ontwikkelen
-bouwblok:
+onderwerp:
 - privacy-en-gegevensbescherming
 hide:
 - navigation
@@ -49,6 +49,6 @@ Er ontstaan aanvullende risico's bij bijvoorbeeld een datalek.
 === "Allen"
 	<!-- list_maatregelen vereiste/beperkte_bewaartermijn_van_persoonsgegevens -->
 === "Governance"
-	<!-- list_maatregelen vereiste/beperkte_bewaartermijn_van_persoonsgegevens boubwlok/governance -->
+	<!-- list_maatregelen vereiste/beperkte_bewaartermijn_van_persoonsgegevens onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/beperkte_bewaartermijn_van_persoonsgegevens bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/beperkte_bewaartermijn_van_persoonsgegevens onderwerp/publieke-inkoop -->

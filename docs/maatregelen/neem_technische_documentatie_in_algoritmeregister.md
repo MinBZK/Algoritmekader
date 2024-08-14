@@ -12,7 +12,7 @@ levenscyclus:
 - implementatie
 - monitoring-en-beheer
 # vul hier de bouwblokken in die horen bij deze maatregel
-bouwblok:
+onderwerp:
 - transparantie
 rollen:
 - proceseigenaar

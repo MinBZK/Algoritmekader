@@ -60,7 +60,8 @@ hide:
 - Het is van belang dat bij het ontwerp van algoritmes en AI-systemen er rekening wordt gehouden met dat het werkproces ook zonder het algoritme of AI-systeem kan worden uitgevoerd.
 - Hiervoor zullen (technische) maatregelen moeten worden getroffen, zoals een stopknop of werkinstructies voor medewerkers.
 - Maak aantoonbaar dat deze maatregelen zijn getroffen.
-- De proceseigenaar of een menselijk toezichthouder moet in staat zijn om het algoritme of AI-systeem op elk moment te kunnen beëindigen. 
+- De proceseigenaar of een menselijk toezichthouder moet in staat zijn om het algoritme of AI-systeem op elk moment te kunnen beëindigen.
+- Het stopzetten van het gebruik van een algoritme mag niet tot gevolg hebben dat betrokkenen niet meer kunnen achterhalen hoe besluiten tot stand zijn gekomen of dat gevolgen niet meer kunnen worden gecorrigeerd als dat noodzakelijk is. 
    
 ## Risico
 Betrokkenen of belanghebbenden kunnen nadelige gevolgen ondervinden van een algoritme of AI-systeem dat onjuist functioneert en niet tijdig kan worden stopgezet.  

@@ -6,7 +6,7 @@ vereiste:
 levenscyclus:
 - ontwikkelen
 - verificatie-en-validatie
-bouwblok:
+onderwerp:
 - publieke-inkoop
 rollen:
 - proceseigenaar

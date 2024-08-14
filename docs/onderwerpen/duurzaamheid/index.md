@@ -29,9 +29,9 @@ Bij duurzame ontwikkeling en toepassing van algoritmes kan bijvoorbeeld gedacht 
 
 ## Vereisten
 
-<!-- list_vereisten bouwblok/duurzaamheid -->
+<!-- list_vereisten onderwerp/duurzaamheid -->
 
 
 ## Maatregelen
 
-<!-- list_maatregelen bouwblok/duurzaamheid -->
+<!-- list_maatregelen onderwerp/duurzaamheid -->

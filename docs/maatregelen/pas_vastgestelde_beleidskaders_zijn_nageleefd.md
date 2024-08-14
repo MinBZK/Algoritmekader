@@ -28,7 +28,7 @@ levenscyclus:
 - monitoring-en-beheer
 - uitfaseren
   
-bouwblok:
+onderwerp:
 - governance
   
 rollen:

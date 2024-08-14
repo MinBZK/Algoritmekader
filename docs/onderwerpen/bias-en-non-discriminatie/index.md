@@ -212,11 +212,11 @@ is verboden. Daarnaast wordt expliciet vermeld dat binnen de werkingssfeer van d
     
 ## Vereisten
 
-<!-- list_vereisten bouwblok/bias-en-non-discriminatie -->
+<!-- list_vereisten onderwerp/bias-en-non-discriminatie -->
 
 ## Maatregelen
 
-<!-- list_maatregelen bouwblok/bias-en-non-discriminatie -->
+<!-- list_maatregelen onderwerp/bias-en-non-discriminatie -->
 
 ## Mogelijke hulpmiddelen en methoden
 * [Fairness Handbook](https://amsterdamintelligence.com/resources/the-fairness-handbook)
@@ -225,8 +225,8 @@ is verboden. Daarnaast wordt expliciet vermeld dat binnen de werkingssfeer van d
 
 ## Vereisten
 
-<!-- list_vereisten bouwblok/bias-en-non-discriminatie -->
+<!-- list_vereisten onderwerp/bias-en-non-discriminatie -->
 
 ## Maatregelen
 
-<!-- list_maatregelen bouwblok/bias-en-non-discriminatie -->
+<!-- list_maatregelen onderwerp/bias-en-non-discriminatie -->

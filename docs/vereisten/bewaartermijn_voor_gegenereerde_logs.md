@@ -9,7 +9,7 @@ levenscyclus:
 - verificatie-en-validatie
 - monitoring-en-beheer
 - uitfaseren
-bouwblok:
+onderwerp:
 - governance
 - technische-robuustheid-en-veiligheid
 hide:
@@ -47,6 +47,6 @@ Het niet of onvoldoende bewaren van logs kan het vermogen belemmeren om incident
 === "Allen"
 	<!-- list_maatregelen vereiste/bewaartermijn_voor_gegenereerde_logs -->
 === "Governance"
-	<!-- list_maatregelen vereiste/bewaartermijn_voor_gegenereerde_logs boubwlok/governance -->
+	<!-- list_maatregelen vereiste/bewaartermijn_voor_gegenereerde_logs onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/bewaartermijn_voor_gegenereerde_logs bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/bewaartermijn_voor_gegenereerde_logs onderwerp/publieke-inkoop -->

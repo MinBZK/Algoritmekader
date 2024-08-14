@@ -8,7 +8,7 @@ levenscyclus:
 - ontwerp
 - implementatie
 - monitoring-en-beheer
-bouwblok: 
+onderwerp: 
 - menselijke-controle
 - governance
 rekenregels: 
@@ -74,6 +74,6 @@ Dit kan leiden tot inefficiëntie, fouten, en mogelijk schade aan organisaties, 
 === "Allen"
 	<!-- list_maatregelen vereiste/bevorder_ai_geletterdheid_personeel -->
 === "Governance"
-	<!-- list_maatregelen vereiste/bevorder_ai_geletterdheid_personeel boubwlok/governance -->
+	<!-- list_maatregelen vereiste/bevorder_ai_geletterdheid_personeel onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/bevorder_ai_geletterdheid_personeel bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/bevorder_ai_geletterdheid_personeel onderwerp/publieke-inkoop -->

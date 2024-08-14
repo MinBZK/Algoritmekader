@@ -6,7 +6,7 @@ status_vereiste:
 levenscyclus:
 - ontwerp
 - verificatie-en-validatie
-bouwblok:
+onderwerp:
 - governance
 hide:
 - navigation
@@ -48,6 +48,6 @@ Gebrek aan transparantie en verantwoording bij risicobeoordeling kan leiden tot 
 === "Allen"
 	<!-- list_maatregelen vereiste/documentatie_beoordeling_niet_hoog_risico_ai -->
 === "Governance"
-	<!-- list_maatregelen vereiste/documentatie_beoordeling_niet_hoog_risico_ai boubwlok/governance -->
+	<!-- list_maatregelen vereiste/documentatie_beoordeling_niet_hoog_risico_ai onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/documentatie_beoordeling_niet_hoog_risico_ai bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/documentatie_beoordeling_niet_hoog_risico_ai onderwerp/publieke-inkoop -->

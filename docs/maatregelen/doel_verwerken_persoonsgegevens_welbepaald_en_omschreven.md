@@ -11,7 +11,7 @@ levenscyclus:
 - ontwikkelen
 - verificatie-en-validatie
 - implementatie
-bouwblok:
+onderwerp:
 - privacy-en-gegevensbescherming
 rollen:
 - proceseigenaar

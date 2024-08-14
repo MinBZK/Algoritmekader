@@ -8,7 +8,7 @@ levenscyclus:
 - dataverkenning-en-datapreparatie
 - ontwikkelen
 - implementatie
-bouwblok:
+onderwerp:
 - privacy-en-gegevensbescherming
 - data
 hide:
@@ -49,6 +49,6 @@ Door privacy en gegevensbescherming door ontwerp en standaardinstellingen niet t
 === "Allen"
 	<!-- list_maatregelen vereiste/privacy_bij_ontwerp_bij_verwerking_van_persoonsgegevens -->
 === "Governance"
-	<!-- list_maatregelen vereiste/privacy_bij_ontwerp_bij_verwerking_van_persoonsgegevens boubwlok/governance -->
+	<!-- list_maatregelen vereiste/privacy_bij_ontwerp_bij_verwerking_van_persoonsgegevens onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/privacy_bij_ontwerp_bij_verwerking_van_persoonsgegevens bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/privacy_bij_ontwerp_bij_verwerking_van_persoonsgegevens onderwerp/publieke-inkoop -->

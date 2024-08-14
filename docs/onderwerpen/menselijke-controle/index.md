@@ -22,9 +22,9 @@ Dit wordt aangevuld met praktische maatregelen die kunnen worden toegepast ter i
 
 ## Vereisten
 
-<!-- list_vereisten bouwblok/menselijke-controle -->
+<!-- list_vereisten onderwerp/menselijke-controle -->
 
 
 ## Maatregelen
 
-<!-- list_maatregelen bouwblok/menselijke-controle-->
+<!-- list_maatregelen onderwerp/menselijke-controle-->

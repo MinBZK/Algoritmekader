@@ -8,7 +8,7 @@ levenscyclus:
 - dataverkenning-en-datapreparatie
 - ontwikkelen
 - monitoring-en-beheer
-bouwblok:
+onderwerp:
 - governance
 - fundamentele-rechten
 hide:
@@ -49,6 +49,6 @@ Als gebruiksverantwoordelijke geen duidelijke, inhoudelijke toelichting geeft ov
 === "Allen"
 	<!-- list_maatregelen vereiste/Recht_of_uitleg_AI-besluiten -->
 === "Governance"
-	<!-- list_maatregelen vereiste/Recht_of_uitleg_AI-besluiten boubwlok/governance -->
+	<!-- list_maatregelen vereiste/Recht_of_uitleg_AI-besluiten onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/Recht_of_uitleg_AI-besluiten bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/Recht_of_uitleg_AI-besluiten onderwerp/publieke-inkoop -->

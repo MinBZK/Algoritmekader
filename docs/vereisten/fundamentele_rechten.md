@@ -8,7 +8,7 @@ levenscyclus:
 - ontwerp
 - verificatie-en-validatie
 - monitoring-en-beheer
-bouwblok:
+onderwerp:
 - fundamentele-rechten
 hide:
 - navigation
@@ -61,9 +61,9 @@ Grondrechten kunnen worden aangetast door de inzet van algoritmes
 === "Allen"
 	<!-- list_maatregelen vereiste/fundamentele_rechten -->
 === "Governance"
-	<!-- list_maatregelen vereiste/fundamentele_rechten boubwlok/governance -->
+	<!-- list_maatregelen vereiste/fundamentele_rechten onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/fundamentele_rechten bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/fundamentele_rechten onderwerp/publieke-inkoop -->
 
 ## Instrumenten
 

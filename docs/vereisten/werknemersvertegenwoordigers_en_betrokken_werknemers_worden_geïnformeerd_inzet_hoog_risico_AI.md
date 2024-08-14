@@ -6,7 +6,7 @@ status_vereiste:
 levenscyclus:
 - implementatie
 - ontwerp
-bouwblok:
+onderwerp:
 - governance
 hide:
 - navigation
@@ -45,6 +45,6 @@ Als werknemersvertegenwoordigers en werknemers niet worden geïnformeerd over de
 === "Allen"
 	<!-- list_maatregelen vereiste/werknemersvertegenwoordigers_en_betrokken_werknemers_worden_geïnformeerd_inzet_hoog_risico_AI -->
 === "Governance"
-	<!-- list_maatregelen vereiste/werknemersvertegenwoordigers_en_betrokken_werknemers_worden_geïnformeerd_inzet_hoog_risico_AI boubwlok/governance -->
+	<!-- list_maatregelen vereiste/werknemersvertegenwoordigers_en_betrokken_werknemers_worden_geïnformeerd_inzet_hoog_risico_AI onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/werknemersvertegenwoordigers_en_betrokken_werknemers_worden_geïnformeerd_inzet_hoog_risico_AI bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/werknemersvertegenwoordigers_en_betrokken_werknemers_worden_geïnformeerd_inzet_hoog_risico_AI onderwerp/publieke-inkoop -->

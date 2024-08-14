@@ -7,7 +7,7 @@ vereiste:
 levenscyclus:
 - ontwerp
 - ontwikkelen
-bouwblok:
+onderwerp:
 - governance
 rollen:
 - proceseigenaar

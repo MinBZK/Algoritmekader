@@ -6,7 +6,7 @@ status_vereiste:
 levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
-bouwblok:
+onderwerp:
 - privacy-en-gegevensbescherming
 - fundamentele-rechten
 hide:
@@ -52,6 +52,6 @@ Het (onrechtmatige) verwerken van bijzondere categorieën persoonsgegevens breng
 === "Allen"
 	<!-- list_maatregelen vereiste/wettelijke_verwerking_van_gevoelige_gegevens -->
 === "Governance"
-	<!-- list_maatregelen vereiste/wettelijke_verwerking_van_gevoelige_gegevens boubwlok/governance -->
+	<!-- list_maatregelen vereiste/wettelijke_verwerking_van_gevoelige_gegevens onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/wettelijke_verwerking_van_gevoelige_gegevens bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/wettelijke_verwerking_van_gevoelige_gegevens onderwerp/publieke-inkoop -->

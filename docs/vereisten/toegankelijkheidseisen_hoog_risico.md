@@ -8,7 +8,7 @@ levenscyclus:
 - verificatie-en-validatie
 - implementatie
 - monitoring-en-beheer
-bouwblok:
+onderwerp:
 - governance
 hide:
 - navigation
@@ -49,6 +49,6 @@ Niet naleven van deze verplichtingen kan leiden tot juridische en operationele p
 === "Allen"
 	<!-- list_maatregelen vereiste/toegankelijkheidseisen_hoog_risico -->
 === "Governance"
-	<!-- list_maatregelen vereiste/toegankelijkheidseisen_hoog_risico boubwlok/governance -->
+	<!-- list_maatregelen vereiste/toegankelijkheidseisen_hoog_risico onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/toegankelijkheidseisen_hoog_risico bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/toegankelijkheidseisen_hoog_risico onderwerp/publieke-inkoop -->

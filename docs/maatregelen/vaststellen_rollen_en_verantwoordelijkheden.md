@@ -11,7 +11,7 @@ levenscyclus:
 - implementatie
 - monitoring-en-beheer
 - verificatie-en-validatie
-bouwblok:
+onderwerp:
 - governance
 rollen:
 - proceseigenaar

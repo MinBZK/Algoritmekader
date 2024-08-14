@@ -6,7 +6,7 @@ vereiste:
 levenscyclus:
 - ontwerp
 - monitoring-en-beheer
-bouwblok:
+onderwerp:
 - publieke-inkoop
 - privacy-en-gegevensbescherming
 rollen:

@@ -10,7 +10,7 @@ levenscyclus:
 - verificatie-en-validatie
 - implementatie
 - monitoring-en-beheer
-bouwblok:
+onderwerp:
 - governance
 ---
 
@@ -49,6 +49,6 @@ Het is onduidelijk op wat voor manier het algoritmes of AI-systeem heeft bijgedr
 === "Allen"
 	<!-- list_maatregelen vereiste/Recht_of_uitleg_AI-besluiten -->
 === "Governance"
-	<!-- list_maatregelen vereiste/Recht_of_uitleg_AI-besluiten boubwlok/governance -->
+	<!-- list_maatregelen vereiste/Recht_of_uitleg_AI-besluiten onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/Recht_of_uitleg_AI-besluiten bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/Recht_of_uitleg_AI-besluiten onderwerp/publieke-inkoop -->

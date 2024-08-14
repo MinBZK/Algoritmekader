@@ -15,7 +15,7 @@ levenscyclus:
 - verificatie-en-validatie
 - implementatie
   
-bouwblok:
+onderwerp:
 - governance
 - transparantie
   

@@ -8,7 +8,7 @@ levenscyclus:
 - dataverkenning-en-datapreparatie
 - ontwikkelen
 - verificatie-en-validatie
-bouwblok: 
+onderwerp: 
 - privacy-en-gegevensbescherming
 rollen:
 - privacy-officer
@@ -93,6 +93,6 @@ Dit kan leiden tot potentiële schendingen van de rechten en vrijheden van betro
 === "Allen"
 	<!-- list_maatregelen vereiste/dpia_verplicht_bij_hoog_risico -->
 === "Governance"
-	<!-- list_maatregelen vereiste/dpia_verplicht_bij_hoog_risico boubwlok/governance -->
+	<!-- list_maatregelen vereiste/dpia_verplicht_bij_hoog_risico onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/dpia_verplicht_bij_hoog_risico bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/dpia_verplicht_bij_hoog_risico onderwerp/publieke-inkoop -->

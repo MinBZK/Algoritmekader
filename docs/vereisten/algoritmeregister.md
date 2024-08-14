@@ -8,7 +8,7 @@ levenscyclus:
 - verificatie-en-validatie
 - implementatie
 - monitoring-en-beheer
-bouwblok: 
+onderwerp: 
 - transparantie
 rekenregels: 
 - niet-impactvol: Nee
@@ -75,9 +75,9 @@ Bij het onjuist of onvolledig publiceren in het Algortimeregister ontstaat er ee
 === "Allen"
 	<!-- list_maatregelen vereiste/algoritmeregister -->
 === "Governance"
-	<!-- list_maatregelen vereiste/algoritmeregister boubwlok/governance -->
+	<!-- list_maatregelen vereiste/algoritmeregister onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/algoritmeregister bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/algoritmeregister onderwerp/publieke-inkoop -->
 
 ## Instrumenten
 

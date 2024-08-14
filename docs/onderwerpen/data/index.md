@@ -21,11 +21,11 @@ We zoeken hierbij de aansluiting op bestaande instrumenten, zoals de [Toolbox ve
 
 ## Vereisten
 
-<!-- list_vereisten bouwblok/data -->
+<!-- list_vereisten onderwerp/data -->
 
 ## Maatregelen
 
-<!-- list_maatregelen bouwblok/data -->
+<!-- list_maatregelen onderwerp/data -->
 
 ## Nuttige informatie
 - FAIR data: [GO FAIR Foundation](https://www.gofair.foundation/).

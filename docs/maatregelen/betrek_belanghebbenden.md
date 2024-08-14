@@ -9,7 +9,7 @@ levenscyclus:
 - verificatie-en-validatie
 - implementatie
 - monitoring-en-beheer
-bouwblok: 
+onderwerp: 
 - governance
 - fundamentele-rechten
 rollen:

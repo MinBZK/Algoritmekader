@@ -9,7 +9,7 @@ levenscyclus:
 - ontwikkelen
 - verificatie-en-validatie
 - monitoring-en-beheer
-bouwblok:
+onderwerp:
 - privacy-en-gegevensbescherming
 rollen:
 - proceseigenaar

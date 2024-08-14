@@ -9,7 +9,7 @@ levenscyclus:
 - verificatie-en-validatie
 - monitoring-en-beheer
 - uitfaseren
-bouwblok:
+onderwerp:
 - governance
 - technische-robuustheid-en-veiligheid
 hide:
@@ -59,6 +59,6 @@ Ontbreken van automatische logregistratie kan leiden tot een gebrek aan transpar
 === "Allen"
 	<!-- list_maatregelen vereiste/automatische_logregistratie -->
 === "Governance"
-	<!-- list_maatregelen vereiste/automatische_logregistratie boubwlok/governance -->
+	<!-- list_maatregelen vereiste/automatische_logregistratie onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/automatische_logregistratie bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/automatische_logregistratie onderwerp/publieke-inkoop -->

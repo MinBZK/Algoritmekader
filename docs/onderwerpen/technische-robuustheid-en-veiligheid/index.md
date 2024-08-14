@@ -36,8 +36,8 @@ Dit wordt aangevuld met praktische maatregelen en instrumenten die gebruikt en t
 
 ## Vereisten
 
-<!-- list_vereisten bouwblok/technische-robuustheid-en-veiligheid -->
+<!-- list_vereisten onderwerp/technische-robuustheid-en-veiligheid -->
 
 ## Maatregelen
 
-<!-- list_maatregelen bouwblok/technische-robuustheid-en-veiligheid -->
+<!-- list_maatregelen onderwerp/technische-robuustheid-en-veiligheid -->

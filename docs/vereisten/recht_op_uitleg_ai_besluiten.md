@@ -7,7 +7,7 @@ levenscyclus:
 - ontwerp
 - ontwikkelen
 - monitoring-en-beheer
-bouwblok:
+onderwerp:
 - governance
 - fundamentele-rechten
 hide:
@@ -47,6 +47,6 @@ Gebrek aan een veilige omgeving kan ertoe leiden dat klokkenluiders geen melding
 === "Allen"
 	<!-- list_maatregelen vereiste/recht_op_uitleg_ai_besluiten -->
 === "Governance"
-	<!-- list_maatregelen vereiste/recht_op_uitleg_ai_besluiten boubwlok/governance -->
+	<!-- list_maatregelen vereiste/recht_op_uitleg_ai_besluiten onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/recht_op_uitleg_ai_besluiten bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/recht_op_uitleg_ai_besluiten onderwerp/publieke-inkoop -->

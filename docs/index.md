@@ -42,13 +42,13 @@ hide:
   </div>
 
   <div class="float-child styled-list">
-    <h3><a href="bouwblokken/">Onderwerpen</a></h3>
+    <h3><a href="onderwerpen/">Onderwerpen</a></h3>
     <ul>
-      <li><a href="bouwblokken/bias-en-non-discriminatie/">Bias en non-discriminatie</a></li>
+      <li><a href="onderwerpen/bias-en-non-discriminatie/">Bias en non-discriminatie</a></li>
       <li><a href="governance/">Governance</a></li>
-      <li><a href="bouwblokken/transparantie/">Transparantie</a></li>    
-      <li><a href="bouwblokken/privacy-en-gegevensbescherming/">Privacy en gegevensbescherming</a></li>
-      <li><a href="bouwblokken/publieke-inkoop/">Publieke inkoop</a></li>
+      <li><a href="onderwerpen/transparantie/">Transparantie</a></li>    
+      <li><a href="onderwerpen/privacy-en-gegevensbescherming/">Privacy en gegevensbescherming</a></li>
+      <li><a href="onderwerpen/publieke-inkoop/">Publieke inkoop</a></li>
     </ul>
   </div>
 

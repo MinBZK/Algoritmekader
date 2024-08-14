@@ -7,7 +7,7 @@ levenscyclus:
 - verificatie-en-validatie
 - implementatie
 - monitoring-en-beheer
-bouwblok:
+onderwerp:
 - governance
 hide:
 - navigation
@@ -45,6 +45,6 @@ Niet voldoen aan deze verplichtingen kan leiden tot risico's op veiligheidsincid
 === "Allen"
 	<!-- list_maatregelen vereiste/ai_modellen_algemene_doeleinden_syteemrisico_informatie_ernstige_incidenten -->
 === "Governance"
-	<!-- list_maatregelen vereiste/ai_modellen_algemene_doeleinden_syteemrisico_informatie_ernstige_incidenten boubwlok/governance -->
+	<!-- list_maatregelen vereiste/ai_modellen_algemene_doeleinden_syteemrisico_informatie_ernstige_incidenten onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/ai_modellen_algemene_doeleinden_syteemrisico_informatie_ernstige_incidenten bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/ai_modellen_algemene_doeleinden_syteemrisico_informatie_ernstige_incidenten onderwerp/publieke-inkoop -->

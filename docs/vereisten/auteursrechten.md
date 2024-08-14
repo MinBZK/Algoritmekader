@@ -6,7 +6,7 @@ status_vereiste:
 levenscyclus: 
 - dataverkenning-en-datapreparatie
 - ontwerp
-bouwblok: 
+onderwerp: 
 - data
 - governance
 rekenregels: 
@@ -78,6 +78,6 @@ Bovendien kan het niet naleven van het auteursrecht het vertrouwen van gebruiker
 === "Allen"
 	<!-- list_maatregelen vereiste/auteursrechten -->
 === "Governance"
-	<!-- list_maatregelen vereiste/auteursrechten boubwlok/governance -->
+	<!-- list_maatregelen vereiste/auteursrechten onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/auteursrechten bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/auteursrechten onderwerp/publieke-inkoop -->

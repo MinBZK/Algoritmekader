@@ -21,13 +21,13 @@ Door deze vereisten in de levenscyclus te integreren, kunnen de gebruikers inzic
 
 ## Vereisten
 
-<!-- list_vereisten bouwblok/privacy-en-gegevensbescherming -->
+<!-- list_vereisten onderwerp/privacy-en-gegevensbescherming -->
 
 
 ## Maatregelen
 
-<!-- list_maatregelen bouwblok/privacy-en-gegevensbescherming-->
+<!-- list_maatregelen onderwerp/privacy-en-gegevensbescherming-->
 
 ## Instrumenten
 
-<!-- list_instrumenten bouwblok/privacy-en-gegevensbescherming -->
+<!-- list_instrumenten onderwerp/privacy-en-gegevensbescherming -->

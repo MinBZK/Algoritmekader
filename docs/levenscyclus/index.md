@@ -2,6 +2,8 @@
 title: Levenscyclus
 summary: Hulp per fase van de levenscyclus van algoritmes en AI, zoals probleemanalyse, ontwerpen, ontwikkelen, implementeren en ermee stoppen.
 icon: material/reload
+hide:
+  - toc
 --- 
 # Levenscyclus algoritmes en AI
 

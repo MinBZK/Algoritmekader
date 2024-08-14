@@ -47,7 +47,6 @@ Het algoritme of AI-systeem verwerkt persoonsgegevens die het niet mag verwerken
 ## Bronnen
 | Bron                                                                                                                                                                     |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
 | [Onderzoekskader Algoritmes Auditdienst Rijk, PRI.7](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)                    |
 | Algoritmekader | 
 

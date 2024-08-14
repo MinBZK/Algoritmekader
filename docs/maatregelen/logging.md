@@ -30,19 +30,20 @@ hide:
 
 ## Maatregel
 Zorg ervoor dat logbestanden worden gecreëerd waarin informatie wordt geregistreerd over gebruikersactiviteiten, uitzonderingen en informatiebeveiligingsgebeurtenissen
-Door goede logging is te achterhalen wanneer en door wie er (ongewenste) aanpassingen zijn gedaan (audit trail).
-Er kan loginformatie gegenereerd, bewaard, toegankelijk gemaakt en gemonitord worden. Logbestanden bevatten vaak gebeurtenissen die gebruikersactiviteiten, uitzonderingen en informatiebeveiligingsgebeurtenissen registreren,.
+Door goede logging is te achterhalen wanneer en door wie er toegang is geweest tot code en data (audit trail).
+Er kan loginformatie gegenereerd, bewaard, toegankelijk gemaakt en gemonitord worden. Logbestanden bevatten vaak gebeurtenissen die gebruikersactiviteiten, uitzonderingen en informatiebeveiligingsgebeurtenissen registreren.
 Bedenk wat deze informatie betekent in de context van de werking van het algoritme of algoritmisch systeem.
 
 
 ## Toelichting
+
 - Met logbestanden is te achterhalen wanneer en door wie er (ongewenste) aanpassingen zijn gedaan (audit trail).
 - Loginformatie moet worden gegenereerd, bewaard, gemonitord en toegankelijk worden gemaakt.
 - Logbestanden bevatten vaak gebeurtenissen die gebruikersactiviteiten, uitzonderingen en informatiebeveiligingsgebeurtenissen registreren.
 - Bedenk wat deze informatie betekent in de context van de werking van het algoritme of algoritmisch systeem. loginformatie gegenereerd, bewaard, toegankelijk gemaakt en gemonitord worden. Logbestanden bevatten vaak gebeurtenissen die gebruikersactiviteiten, uitzonderingen en informatiebeveiligingsgebeurtenissen registreren.
 - Stel vast welke informatie bij het ontwikkelen en gebruiken van algoritmes en AI-systemen relevant is om te loggen. 
-
-
+- Log behalve het aanpassen van gegevens ook het uitlezen van gegevens waar dat relevant is. Bijvoorbeeld als persoonsgegevens worden opgevraagd.
+- Logs dienen periodiek (of doorlopend) gecontroleerd to worden op relevante incidenten. Dat betekent dat wat er gelogd wordt geschikt moet zijn om relevante beveiligingsincidenten op te merken. 
 
 ## Risico
 Wanneer loginformatie ontbreekt, is niet te achterhalen wanneer er (eventueel ongewenste) aanpassingen zijn gedaan (audit trail) op (de code van) het algoritme, of door wie.

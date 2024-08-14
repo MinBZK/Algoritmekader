@@ -9,7 +9,7 @@ levenscyclus:
 - ontwikkelen
 - implementatie
 - monitoring-en-beheer
-bouwblok:
+onderwerp:
 - technische-robuustheid-en-veiligheid
 - governance
 rollen:

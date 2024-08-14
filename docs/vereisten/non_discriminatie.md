@@ -12,6 +12,7 @@ levenscyclus:
 - monitoring-en-beheer
 onderwerp: 
 - fundamentele-rechten
+- bias-en-non-discriminatie
 rekenregels: 
 - niet-impactvol: Ja
 - impactvol: Ja

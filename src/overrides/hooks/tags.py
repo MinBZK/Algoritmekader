@@ -126,7 +126,7 @@ def _badge_onderwerp(page: Page, files: Files, blok: str):
         href_onderwerp = _resolve_path("onderwerpen/index.md", page, files)
         href_fase = _resolve_path(f"onderwerpen/{blok}/index.md", page, files)
     return _badge(
-        icon=f"[:{icon}:]({href_onderwerp} 'onderwerp')",
+        icon=f"[:{icon}:]({href_onderwerp} 'Onderwerp')",
         text=f"[{blok.capitalize().replace('-', ' ')}]({href_fase})",
         color="teal",
     )

@@ -1,9 +1,6 @@
 ---
-# vul hier een titel in voor deze maatregel
 title: Maak de vereiste onderdeel van de contractovereenkomst
-# geef hier een korte toelichting van deze maatregel
 toelichting: Door de vereiste onderdeel te maken van de contractvereenkomst, worden deze contractueel afdwingbaar. 
-# vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
 - archiefwet
 - Recht_op_uitleg_AI-besluiten
@@ -63,13 +60,20 @@ vereiste:
 - recht_op_toegang_tot_publieke_informatie
 - beginsel_van_proportionaliteit_en_subsidiariteit
 
-# vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 
 - ontwerp
 - ontwikkelen
-# vul hier de bouwblokken in die horen bij deze maatregel
 bouwblok: 
 - publieke-inkoop
+rollen:
+- behoeftesteller
+- data-scientist
+- privacy-officer
+- security-officer
+- inkoopadviseur
+- contractbeheerder
+- aanbestedingsjurist
+
 hide:
 - navigation
 ---

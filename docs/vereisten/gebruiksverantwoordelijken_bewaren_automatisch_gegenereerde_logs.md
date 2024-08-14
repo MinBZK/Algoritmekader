@@ -44,8 +44,8 @@ Het niet of onvoldoende bewaren van logs kan het vermogen belemmeren om incident
 ## Maatregelen
 
 === "Allen"
-	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_bewaren_automatisch_gegenereerde_logs  -->
+	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_bewaren_automatisch_gegenereerde_logs -->
 === "Governance"
-	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_bewaren_automatisch_gegenereerde_logs  boubwlok/governance -->
+	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_bewaren_automatisch_gegenereerde_logs boubwlok/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_bewaren_automatisch_gegenereerde_logs  bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_bewaren_automatisch_gegenereerde_logs bouwblok/publieke-inkoop -->

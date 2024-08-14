@@ -27,6 +27,8 @@ rollen:
 - aanbestedingsjurist
 - aanbieder
 - opdrachtnemer
+- architect
+  
 hide:
 - navigation
 ---

@@ -15,6 +15,8 @@ rollen:
 - contractbeheerder
 - aanbestedingsjurist
 - aanbieder
+- informatiebeheerder
+  
 hide:
 - navigation
 ---

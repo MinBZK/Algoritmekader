@@ -8,14 +8,14 @@ icon: material/reload
 Verantwoordelijke algoritmes en AI voldoen tijdens elke fase van de levenscyclus aan de regels. Van het nemen van een besluit tot het stoppen met algoritmes of AI.
 
 ## Fases van de levenscyclus
-1.	[Probleem analyseren](probleemanalyse.md)
+1.	[Probleemanalyse](probleemanalyse.md)
 2.	[Ontwerpen](ontwerp.md)
-3.	[Data onderzoeken en voorbereiden](dataverkenning-en-datapreparatie.md)
+3.	[Dataverkenning en datapreparatie](dataverkenning-en-datapreparatie.md)
 4.	[Ontwikkelen](ontwikkelen.md)
-5.	[Beoordelen](verificatie-en-validatie.md)
+5.	[Verficatie en validatie](verificatie-en-validatie.md)
 6.	[Implementeren](implementatie.md)
-7.	[Controle en onderhoud](monitoring-en-beheer.md)
-8.	[Stoppen](uitfaseren.md)
+7.	[Monitoring en beheer](monitoring-en-beheer.md)
+8.	[Uitfaseren](uitfaseren.md)
 
 De fases in deze levenscyclus passen bij de manier van werken van overheden. Andere fases zijn ook mogelijk.
 

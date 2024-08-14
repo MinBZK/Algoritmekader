@@ -40,6 +40,7 @@ rollen:
 - privacy-officer
 - security-officer
 - ethicus
+- architect
   
 hide:
 - navigation

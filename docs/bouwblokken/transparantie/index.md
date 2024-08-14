@@ -37,3 +37,7 @@ Dit betekent bijvoorbeeld ook dat gebruikers bewust moet worden gemaakt dat zij 
 ## Maatregelen
 
 <!-- list_maatregelen bouwblok/transparantie -->
+
+## Instrumenten
+
+<!-- list_instrumenten bouwblok/transparantie -->

@@ -20,12 +20,12 @@ De maatregelen zijn niet verplicht. Het zijn adviezen uit:
 
 Deze maatregel helpt om te voldoen aan de vereiste om niet te discrimineren. Maar deze maatregel is niet verplicht. Je organisatie mag ook eigen maatregelen nemen. Zolang je uiteindelijk maar voldoet aan de vereiste.
 
-!!! tip Aantal maatregelen verschilt per situatie
+!!! tip "Aantal maatregelen verschilt per situatie"
   Welke maatregelen handig zijn in jouw situatie, hangt af van:
   
-  - de [fase in de levenscyclus](https://minbzk.github.io/Algoritmekader/levenscyclus/) van je project
-  - de [vereisten](https://minbzk.github.io/Algoritmekader/vereisten/) waar jouw organisatie aan moet voldoen
-  - jouw [rol](https://minbzk.github.io/Algoritmekader/rollen/) in de organisatie
+    - de [fase in de levenscyclus](https://minbzk.github.io/Algoritmekader/levenscyclus/) van je project
+    - de [vereisten](https://minbzk.github.io/Algoritmekader/vereisten/) waar jouw organisatie aan moet voldoen
+    - jouw [rol](https://minbzk.github.io/Algoritmekader/rollen/) in de organisatie
 
 !!! tip
   Met 1 maatregel voldoe je soms aan meerdere vereisten.

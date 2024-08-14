@@ -45,6 +45,7 @@ Bij het inrichten van gebruikersbeheer moeten aan de volgende elementen worden g
 - Toegangsrechten op onderliggende componenten dienen periodiek, minimaal jaarlijks, geëvalueerd te worden. Dit interval dient te zijn beschreven in het toegangsbeleid en zijn bepaald op basis van het risiconiveau. De uitkomsten van de evaluatie en de opvolging daarvan worden vastgelegd (BIO 9.2.5).
 
 Voor deze maatregelen is het van belang om aandacht te hebben voor de volgende zaken:
+
 - Autorisatiematrix en beschrijving rollen/rechten per systeem(laag)
 - Lijst met wijzigingen rollen en bijbehorende goedkeuringen
 - Overzicht aantallen en rechten per (systeem)laag

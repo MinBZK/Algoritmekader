@@ -23,6 +23,7 @@ Deze maatregel helpt om te voldoen aan de vereiste om niet te discrimineren. Maa
 !!! tip "Tip"
 
     **Aantal maatregelen verschilt per situatie**
+    
     Welke maatregelen handig zijn in jouw situatie, hangt af van:
   
     - de [fase in de levenscyclus](https://minbzk.github.io/Algoritmekader/levenscyclus/) van je project

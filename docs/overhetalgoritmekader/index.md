@@ -7,6 +7,7 @@ Het algoritmekader is een hulpmiddel voor overheden die algoritmes of AI (artifi
 
 ## Verantwoord gebruik van algoritmes en AI
 In het Algoritmekader vind je informatie over verantwoord gebruik van algoritmes en AI. Bijvoorbeeld:
+
 - Wie is waarvoor verantwoordelijk?
 - Hoe voorkom je discriminatie (bias) in een algoritme?
 - Hoe verwerk je gegevens op een veilige manier?
@@ -17,9 +18,12 @@ De informatie is bedoeld voor medewerkers van de rijksoverheid, provincies, geme
 
 ## Informatie van de overheid
 Het Algoritmekader is een website van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. Het team Data, AI en Algoritmes stelt de informatie samen, op basis van:
+
 - alle wetten en regels, zoals de [AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX%3A32024R1689&qid=1723226664277) en de [Algemene wet bestuursrecht](https://wetten.overheid.nl/BWBR0005537/2022-11-01/1)
+
 - belangrijke instrumenten, zoals de [IAMA](https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes) (Impact Assessment Mensenrechten en Algoritmes)
 - adviezen en ervaringen van experts, zoals wetenschappers
+
 ## Verschillende versies
 Het Algoritmekader is de nieuwe naam van het [Implementatiekader 'Verantwoorde inzet van algoritmen'](https://www.rijksoverheid.nl/documenten/rapporten/2023/06/30/implementatiekader-verantwoorde-inzet-van-algoritmen). Dit rapport is de eerste versie. Door het verder ontwikkelen van dit rapport ontstond de website Algoritmekader.
 

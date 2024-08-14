@@ -20,9 +20,16 @@ Het Algoritmekader is een website van het Ministerie van Binnenlandse Zaken en K
 - alle wetten en regels, zoals de [AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX%3A32024R1689&qid=1723226664277) en de [Algemene wet bestuursrecht](https://wetten.overheid.nl/BWBR0005537/2022-11-01/1)
 - belangrijke instrumenten, zoals de [IAMA](https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes) (Impact Assessment Mensenrechten en Algoritmes)
 - adviezen en ervaringen van experts, zoals wetenschappers
+## Verschillende versies
+Het Algoritmekader is de nieuwe naam van het [Implementatiekader 'Verantwoorde inzet van algoritmen'](https://www.rijksoverheid.nl/documenten/rapporten/2023/06/30/implementatiekader-verantwoorde-inzet-van-algoritmen). Dit rapport is de eerste versie. Door het verder ontwikkelen van dit rapport ontstond de website Algoritmekader.
+
+Sindsdien verschijnt elke maand een nieuwe bètaversie van het Algoritmekader. Deze bètaversies zijn nog niet betrouwbaar. De informatie is onvolledig. Er kunnen fouten in staan.
+
+Versie 2.0 is de definitieve, betrouwbare versie van het Algoritmekader. Deze versie verschijnt eind 2024.
+
 
 ## Iedereen mag meedenken
-Tot eind 2024 is het Algoritmekader een bètaversie. De informatie is nog in ontwikkeling en komt open source tot stand. Dat betekent dat iedereen zijn mening mag geven of een voorstel mag doen:
+De informatie in het Algoritmekader komt open source tot stand. Dat betekent dat iedereen kan meekijken en zijn mening mag geven, of een voorstel mag doen:
 - Geef je [vraag of wijziging](CONTRIBUTING.md) door.
 - Sluit je aan bij een [werkgroep](https://algoritmes.pleio.nl/).
 - Doe mee aan een [(online) vergadering](https://algoritmes.pleio.nl/events) zoals onze demo na een nieuwe release van het Algoritmekader.

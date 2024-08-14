@@ -53,8 +53,7 @@ Stel vast dat wetgeving en (lokaal) beleid correct is vertaald naar de uitvoerin
 - Als blijkt dat een werkproces niet (meer) conform (gewijzigde) wetgeving of beleid wordt uitgevoerd, dan moet worden beoordeeld of de verworven data of welke deel van de data geschikt is voor het ontwikkelen een AI-model.
 - Het is dan raadzaam om de uitvoering van het betreffende werkproces en de werking van onderliggende systemen eerst te 'herstellen' en om hiermee een nieuw datafundament te creëeren (eerst een groot aantal zaken behandelen) die later als trainingsdata kan worden gebruikt. 
   
-    
-  ## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n)
 
 <!-- list_vereisten_on_maatregelen_page -->
 
@@ -65,9 +64,7 @@ Een beslissing of besluit wordt niet conform wetgeving genomen en is daarmee onr
 
 | Bron                                                                                                                                                                     |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 
 |[Wetsanalyse](https://wendbarewetsuitvoering.pleio.nl/page/view/918f9a63-4383-410e-b526-4b8fb67b1c40/het-boek-wetsanalyse)|
 
 ## Voorbeeld
-
-|[Handleiding Wetanalyse](https://wendbarewetsuitvoering.pleio.nl/attachment/805680a2-1c37-4831-bbfb-2d602ca7d65c) | 
+[Handleiding Wetanalyse](https://wendbarewetsuitvoering.pleio.nl/attachment/805680a2-1c37-4831-bbfb-2d602ca7d65c) 

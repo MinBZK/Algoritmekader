@@ -15,7 +15,8 @@ hide:
       </div>
     </span>
   </h1>
-  <div class="subheader">Wetten en regels, tips en hulpmiddelen voor verantwoord gebruik van algoritmes en AI.</div>
+  <div class="subheader">Wetten en regels, tips en hulpmiddelen voor verantwoord gebruik van algoritmes en AI.
+    <br /><a href="overhetalgoritmekader/">Over het Algoritmekader</a></div>
 </div>
 
 <div class="float-container">

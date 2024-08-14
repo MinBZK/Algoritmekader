@@ -13,6 +13,8 @@ levenscyclus:
 onderwerp: 
 - bias-en-non-discriminatie
 - technische-robuustheid-en-veiligheid
+hide:
+- navigation
 ---
 
 <!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->

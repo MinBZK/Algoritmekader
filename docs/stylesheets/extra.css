@@ -1,5 +1,5 @@
-p{
-  color:#154273
+.float-container .float-child p{
+  color: #154273
 }
 
 /* Badge Styling */
@@ -300,10 +300,11 @@ p{
   text-decoration: underline;
 }
 
-[dir=ltr] .md-typeset ol li, [dir=ltr] .md-typeset ul li {
+[dir=ltr] .md-typeset .float-container ol li, [dir=ltr] .md-typeset .float-container ul li {
   margin-left: 0;
 }
 
-[dir=ltr] .md-typeset ol, [dir=ltr] .md-typeset ul {
+[dir=ltr] .md-typeset .float-container ol, [dir=ltr] .md-typeset .float-container ul {
   margin-left: 0;
 }
+*/

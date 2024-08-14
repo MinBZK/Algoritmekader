@@ -8,7 +8,8 @@ hide:
 # Levenscyclus algoritmes en AI
 
 Verantwoordelijke algoritmes en AI voldoen tijdens elke fase van de levenscyclus aan de regels. Van het nemen van een besluit tot het stoppen met algoritmes of AI.
-
+# Levenscyclus algoritmes en AI
+Bij verantwoord gebruik van algoritmes en AI voldoe je tijdens elke fase van de levenscyclus aan de juiste regels. Van het ontwikkelen van een oplossing, tot het in gebruik nemen van die oplossing en er uiteindelijk weer mee stoppen. Voor dit hele proces gelden regels. De levenscyclus helpt je om te bepalen in welke fase jouw product zit en welke beslissingen hierbij horen.
 ## Fases van de levenscyclus
 1.	[Probleemanalyse](probleemanalyse.md)
 2.	[Ontwerpen](ontwerp.md)

@@ -10,7 +10,7 @@ levenscyclus:
 - verificatie-en-validatie
 - implementatie
 - monitoring-en-beheer
-bouwblok: 
+onderwerp: 
 - governance
 - technische-robuustheid-en-veiligheid
 rekenregels: 
@@ -89,6 +89,6 @@ Onvolledige of ontoereikende technische documentatie kan leiden tot onduidelijkh
 === "Allen"
 	<!-- list_maatregelen vereiste/technische_documentatie_voor_hoog_risico_ai -->
 === "Governance"
-	<!-- list_maatregelen vereiste/technische_documentatie_voor_hoog_risico_ai boubwlok/governance -->
+	<!-- list_maatregelen vereiste/technische_documentatie_voor_hoog_risico_ai onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/technische_documentatie_voor_hoog_risico_ai bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/technische_documentatie_voor_hoog_risico_ai onderwerp/publieke-inkoop -->

@@ -8,7 +8,7 @@ levenscyclus:
 - ontwikkelen
 - monitoring-en-beheer
 - uitfaseren
-bouwblok: 
+onderwerp: 
 - governance
 - technische-robuustheid-en-veiligheid
 rekenregels: 
@@ -74,6 +74,6 @@ Niet voldoen aan de bewaartermijn kan leiden tot juridische consequenties en kan
 === "Allen"
 	<!-- list_maatregelen vereiste/bewaartermijn_voor_documentatie -->
 === "Governance"
-	<!-- list_maatregelen vereiste/bewaartermijn_voor_documentatie boubwlok/governance -->
+	<!-- list_maatregelen vereiste/bewaartermijn_voor_documentatie onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/bewaartermijn_voor_documentatie bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/bewaartermijn_voor_documentatie onderwerp/publieke-inkoop -->

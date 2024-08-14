@@ -5,7 +5,7 @@ status_vereiste:
 - nog-niet-geldend
 levenscyclus:
 - implementatie
-bouwblok:
+onderwerp:
 - governance
 hide:
 - navigation
@@ -41,6 +41,6 @@ Het niet naleven van deze maatregelen kan leiden tot onjuist gebruik van de AI-s
 === "Allen"
 	<!-- list_maatregelen vereiste/maatregelen_van_gebruiksverantwoordelijken_voor_gebruik -->
 === "Governance"
-	<!-- list_maatregelen vereiste/maatregelen_van_gebruiksverantwoordelijken_voor_gebruik boubwlok/governance -->
+	<!-- list_maatregelen vereiste/maatregelen_van_gebruiksverantwoordelijken_voor_gebruik onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/maatregelen_van_gebruiksverantwoordelijken_voor_gebruik bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/maatregelen_van_gebruiksverantwoordelijken_voor_gebruik onderwerp/publieke-inkoop -->

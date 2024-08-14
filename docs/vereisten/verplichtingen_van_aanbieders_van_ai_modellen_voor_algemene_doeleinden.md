@@ -11,7 +11,7 @@ levenscyclus:
 - implementatie
 - monitoring-en-beheer
 - uitfaseren
-bouwblok:
+onderwerp:
 - transparantie
 hide:
 - navigation
@@ -57,6 +57,6 @@ Het niet voldoen aan deze verplichtingen kan leiden tot juridische en ethische c
 === "Allen"
 	<!-- list_maatregelen vereiste/verplichtingen_van_aanbieders_van_ai_modellen_voor_algemene_doeleinden -->
 === "Governance"
-	<!-- list_maatregelen vereiste/verplichtingen_van_aanbieders_van_ai_modellen_voor_algemene_doeleinden boubwlok/governance -->
+	<!-- list_maatregelen vereiste/verplichtingen_van_aanbieders_van_ai_modellen_voor_algemene_doeleinden onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/verplichtingen_van_aanbieders_van_ai_modellen_voor_algemene_doeleinden bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/verplichtingen_van_aanbieders_van_ai_modellen_voor_algemene_doeleinden onderwerp/publieke-inkoop -->

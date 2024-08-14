@@ -6,7 +6,7 @@ status_vereiste:
 levenscyclus:
 - probleemanalyse
 - ontwerp
-bouwblok:
+onderwerp:
 - governance
 hide:
 - navigation
@@ -53,6 +53,6 @@ Zonder toepassing van een kwaliteitsbeheersysteem kunnen risico's ontstaan voor 
 === "Allen"
 	<!-- list_maatregelen vereiste/kwaliteitsbeheersysteem_voor_hoog_risico_ai -->
 === "Governance"
-	<!-- list_maatregelen vereiste/kwaliteitsbeheersysteem_voor_hoog_risico_ai boubwlok/governance -->
+	<!-- list_maatregelen vereiste/kwaliteitsbeheersysteem_voor_hoog_risico_ai onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/kwaliteitsbeheersysteem_voor_hoog_risico_ai bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/kwaliteitsbeheersysteem_voor_hoog_risico_ai onderwerp/publieke-inkoop -->

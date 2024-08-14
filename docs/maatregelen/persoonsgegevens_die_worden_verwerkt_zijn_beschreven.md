@@ -10,7 +10,7 @@ levenscyclus:
 - dataverkenning-en-datapreparatie
 - ontwikkelen
 - verificatie-en-validatie
-bouwblok:
+onderwerp:
 - privacy-en-gegevensbescherming
 rollen:
 - proceseigenaar

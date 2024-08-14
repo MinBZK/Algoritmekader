@@ -15,7 +15,7 @@ levenscyclus:
 - probleemanalyse
 - ontwerp
 - dataverkenning-en-datapreparatie
-bouwblok:
+onderwerp:
 - privacy-en-gegevensbescherming 
 rollen:
 - ethicus

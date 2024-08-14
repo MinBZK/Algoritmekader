@@ -7,7 +7,7 @@ levenscyclus:
 - monitoring-en-beheer
 - ontwerp
 - implementatie
-bouwblok:
+onderwerp:
 - governance
 hide:
 - navigation
@@ -45,6 +45,6 @@ Het kan leiden tot juridische procedures en reputatieschade voor organisaties.
 === "Allen"
 	<!-- list_maatregelen vereiste/corrigerende_maatregelen_voor_non_conforme_ai -->
 === "Governance"
-	<!-- list_maatregelen vereiste/corrigerende_maatregelen_voor_non_conforme_ai boubwlok/governance -->
+	<!-- list_maatregelen vereiste/corrigerende_maatregelen_voor_non_conforme_ai onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/corrigerende_maatregelen_voor_non_conforme_ai bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/corrigerende_maatregelen_voor_non_conforme_ai onderwerp/publieke-inkoop -->

@@ -12,7 +12,7 @@ levenscyclus:
 - implementatie
 - monitoring-en-beheer
 - uitfaseren
-bouwblok:
+onderwerp:
 - governance
 - fundamentele-rechten
 hide:
@@ -63,6 +63,6 @@ Het risico ontstaat dat personen of bepaalde groepen worden gediscrimineerd en u
 === "Allen"
 	<!-- list_maatregelen vereiste/verboden_toepassingen_evaluatie_of_classificatie_natuurlijke_personen_of_groepen_personen -->
 === "Governance"
-	<!-- list_maatregelen vereiste/verboden_toepassingen_evaluatie_of_classificatie_natuurlijke_personen_of_groepen_personen boubwlok/governance -->
+	<!-- list_maatregelen vereiste/verboden_toepassingen_evaluatie_of_classificatie_natuurlijke_personen_of_groepen_personen onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/verboden_toepassingen_evaluatie_of_classificatie_natuurlijke_personen_of_groepen_personen bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/verboden_toepassingen_evaluatie_of_classificatie_natuurlijke_personen_of_groepen_personen onderwerp/publieke-inkoop -->

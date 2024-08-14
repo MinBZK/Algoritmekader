@@ -7,7 +7,7 @@ levenscyclus:
 - probleemanalyse
 - ontwerp
 - dataverkenning-en-datapreparatie
-bouwblok:
+onderwerp:
 - privacy-en-gegevensbescherming
 hide:
 - navigation
@@ -51,6 +51,6 @@ Ook kan het leiden tot hoge boetes voor organisaties, en kan een datalek plaatsv
 === "Allen"
 	<!-- list_maatregelen vereiste/persoonsgegevens_worden_rechtmatig_verwerkt -->
 === "Governance"
-	<!-- list_maatregelen vereiste/persoonsgegevens_worden_rechtmatig_verwerkt boubwlok/governance -->
+	<!-- list_maatregelen vereiste/persoonsgegevens_worden_rechtmatig_verwerkt onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/persoonsgegevens_worden_rechtmatig_verwerkt bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/persoonsgegevens_worden_rechtmatig_verwerkt onderwerp/publieke-inkoop -->

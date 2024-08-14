@@ -10,7 +10,7 @@ levenscyclus:
 - verificatie-en-validatie
 - implementatie
 - monitoring-en-beheer
-bouwblok:
+onderwerp:
 - menselijke-controle
 hide:
 - navigation
@@ -62,6 +62,6 @@ Ontbreken van betekenisvol menselijk toezicht kan leiden tot gebrek aan controle
 === "Allen"
 	<!-- list_maatregelen vereiste/toezichtmogelijkheden_voor_gebruikers -->
 === "Governance"
-	<!-- list_maatregelen vereiste/toezichtmogelijkheden_voor_gebruikers boubwlok/governance -->
+	<!-- list_maatregelen vereiste/toezichtmogelijkheden_voor_gebruikers onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/toezichtmogelijkheden_voor_gebruikers bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/toezichtmogelijkheden_voor_gebruikers onderwerp/publieke-inkoop -->

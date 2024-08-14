@@ -6,7 +6,7 @@ status_vereiste:
 levenscyclus:
 - implementatie
 - monitoring-en-beheer
-bouwblok:
+onderwerp:
 - governance
 - menselijke-controle
 hide:
@@ -43,6 +43,6 @@ Als de natuurlijke toezichthouder geen effectief toezicht kan houden op het hoog
 === "Allen"
 	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_menselijk_toezicht_natuurlijke_personen -->
 === "Governance"
-	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_menselijk_toezicht_natuurlijke_personen boubwlok/governance -->
+	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_menselijk_toezicht_natuurlijke_personen onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_menselijk_toezicht_natuurlijke_personen bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_menselijk_toezicht_natuurlijke_personen onderwerp/publieke-inkoop -->

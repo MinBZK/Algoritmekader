@@ -10,7 +10,7 @@ levenscyclus:
 - verificatie-en-validatie
 - monitoring-en-beheer
 - uitfaseren
-bouwblok: 
+onderwerp: 
 - governance
 - privacy-en-gegevensbescherming
 ---

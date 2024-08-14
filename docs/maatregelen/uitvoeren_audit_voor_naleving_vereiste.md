@@ -67,7 +67,7 @@ levenscyclus:
 - ontwerp
 - ontwikkelen
 # vul hier de bouwblokken in die horen bij deze maatregel
-bouwblok: 
+onderwerp: 
 - publieke-inkoop
 
 # vul hier de rollen in die betrokken zijn bij deze maatregel

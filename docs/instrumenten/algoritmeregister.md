@@ -5,7 +5,7 @@ vereiste:
 - algoritmeregister
 levenscyclus:
 - monitoring-en-beheer
-bouwblok:
+onderwerp:
 - transparantie
 rollen:
 - projectleider

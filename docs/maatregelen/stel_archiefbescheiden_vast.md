@@ -11,7 +11,7 @@ levenscyclus:
 - ontwerp
 - ontwikkelen
 # vul hier de bouwblokken in die horen bij deze maatregel
-bouwblok: 
+onderwerp: 
 - publieke-inkoop
 hide:
 - navigation

@@ -20,7 +20,7 @@ Een zorgvuldige aanpak tijdens de ontwikkeling van een algoritme kan ervoor zorg
 
 Een aantal wezenlijke grondrechten die vaak worden geraakt met de inzet van algoritmen en AI, komen ook afzonderlijk in andere onderdelen van het Algoritmekader aan bod. 
 
-Dit geldt bijvoorbeeld op het recht op persoonsgegevensbescherming in het bouwblok [Privacy en gegevensbescherming](../../bouwblokken/privacy-en-gegevensbescherming/index.md) of het verbod op ongelijke behandeling in het bouwblok [Bias en non-discriminatie](../../bouwblokken/bias-en-non-discriminatie/index.md).  
+Dit geldt bijvoorbeeld op het recht op persoonsgegevensbescherming in het bouwblok [Privacy en gegevensbescherming](../../onderwerpen/privacy-en-gegevensbescherming/index.md) of het verbod op ongelijke behandeling in het bouwblok [Bias en non-discriminatie](../../onderwerpen/bias-en-non-discriminatie/index.md).  
 
 In dit bouwblok van het algoritmekader beschrijven we wat de vereisten zijn rondom het beschermen van fundamentele rechten. 
 Vervolgens worden deze vereisten ook vertaald in praktische maatregelen en instrumenten die overheden kunnen toepassen om invulling te geven aan deze vereisten.  
@@ -29,16 +29,16 @@ Vervolgens worden deze vereisten ook vertaald in praktische maatregelen en instr
 
     Dit bouwblok moet nog ontwikkeld worden. Deze pagina is dus nog niet volledig. Op deze pagina vind je mogelijk wel al onderdelen waar we aandacht aan willen besteden in dit bouwblok. 
 
-Onderdeel van het bouwblok Fundamentele rechten is het onderwerp [Bias en non-discriminatie](../../bouwblokken/bias-en-non-discriminatie/index.md). 
+Onderdeel van het bouwblok Fundamentele rechten is het onderwerp [Bias en non-discriminatie](../../onderwerpen/bias-en-non-discriminatie/index.md). 
 
 ## Vereisten
 
-<!-- list_vereisten bouwblok/fundamentele-rechten -->
+<!-- list_vereisten onderwerp/fundamentele-rechten -->
 
 ## Maatregelen
 
-<!-- list_maatregelen bouwblok/fundamentele-rechten -->
+<!-- list_maatregelen onderwerp/fundamentele-rechten -->
 
 ## Instrumenten
 
-<!-- list_instrumenten bouwblok/fundamentele-rechten -->
+<!-- list_instrumenten onderwerp/fundamentele-rechten -->

@@ -9,7 +9,7 @@ levenscyclus:
 - ontwerp
 - verificatie-en-validatie
 - implementatie
-bouwblok:
+onderwerp:
 - fundamentele-rechten
 - transparantie
 rollen:

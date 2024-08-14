@@ -7,7 +7,7 @@ levenscyclus:
 - probleemanalyse
 - ontwerp
 - ontwikkelen
-bouwblok:
+onderwerp:
 - fundamentele-rechten
 hide:
 - navigation
@@ -42,6 +42,6 @@ Niet adequaat adresseren van risico's voor jongeren en kwetsbare groepen kan lei
 === "Allen"
 	<!-- list_maatregelen vereiste/risicobeoordeling_voor_jongeren_en_kwetsbaren -->
 === "Governance"
-	<!-- list_maatregelen vereiste/risicobeoordeling_voor_jongeren_en_kwetsbaren boubwlok/governance -->
+	<!-- list_maatregelen vereiste/risicobeoordeling_voor_jongeren_en_kwetsbaren onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/risicobeoordeling_voor_jongeren_en_kwetsbaren bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/risicobeoordeling_voor_jongeren_en_kwetsbaren onderwerp/publieke-inkoop -->

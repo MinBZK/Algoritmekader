@@ -12,7 +12,7 @@ levenscyclus:
 - monitoring-en-beheer
 - uitfaseren
   
-bouwblok:
+onderwerp:
 - transparantie
 - privacy-en-gegevensbescherming
 rollen:

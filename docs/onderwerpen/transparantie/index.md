@@ -31,13 +31,13 @@ Dit betekent bijvoorbeeld ook dat gebruikers bewust moet worden gemaakt dat zij 
 
 ## Vereisten
 
-<!-- list_vereisten bouwblok/transparantie -->
+<!-- list_vereisten onderwerp/transparantie -->
 
 
 ## Maatregelen
 
-<!-- list_maatregelen bouwblok/transparantie -->
+<!-- list_maatregelen onderwerp/transparantie -->
 
 ## Instrumenten
 
-<!-- list_instrumenten bouwblok/transparantie -->
+<!-- list_instrumenten onderwerp/transparantie -->

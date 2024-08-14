@@ -7,7 +7,7 @@ levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
 - ontwikkelen
-bouwblok:
+onderwerp:
 - technische-robuustheid-en-veiligheid
 hide:
 - navigation
@@ -54,6 +54,6 @@ Gebrek aan nauwkeurigheid, robuustheid of cyberbeveiliging kan leiden tot onbetr
 === "Allen"
 	<!-- list_maatregelen vereiste/ontwerp_voor_nauwkeurigheid_robuustheid_en_cyberbeveiliging -->
 === "Governance"
-	<!-- list_maatregelen vereiste/ontwerp_voor_nauwkeurigheid_robuustheid_en_cyberbeveiliging boubwlok/governance -->
+	<!-- list_maatregelen vereiste/ontwerp_voor_nauwkeurigheid_robuustheid_en_cyberbeveiliging onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/ontwerp_voor_nauwkeurigheid_robuustheid_en_cyberbeveiliging bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/ontwerp_voor_nauwkeurigheid_robuustheid_en_cyberbeveiliging onderwerp/publieke-inkoop -->

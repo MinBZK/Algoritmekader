@@ -8,7 +8,7 @@ levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
 - ontwikkelen
-bouwblok:
+onderwerp:
 - privacy-en-gegevensbescherming
 - technische-robuustheid-en-veiligheid
 rollen:

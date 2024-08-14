@@ -12,7 +12,7 @@ levenscyclus:
 - implementatie
 - monitoring-en-beheer
 - uitfaseren
-bouwblok: 
+onderwerp: 
 - governance
 - privacy-en-gegevensbescherming
 rekenregels: 
@@ -83,6 +83,6 @@ Zonder toetsing aan het proportinaliteits- en subsidiariteitsbeginsel ontstaat h
 === "Allen"
 	<!-- list_maatregelen vereiste/beginsel_van_proportionaliteit_en_subsidiariteit -->
 === "Governance"
-	<!-- list_maatregelen vereiste/beginsel_van_proportionaliteit_en_subsidiariteit boubwlok/governance -->
+	<!-- list_maatregelen vereiste/beginsel_van_proportionaliteit_en_subsidiariteit onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/beginsel_van_proportionaliteit_en_subsidiariteit bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/beginsel_van_proportionaliteit_en_subsidiariteit onderwerp/publieke-inkoop -->

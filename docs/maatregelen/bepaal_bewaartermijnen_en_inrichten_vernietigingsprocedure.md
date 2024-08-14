@@ -9,7 +9,7 @@ levenscyclus:
 - ontwikkelen
 - verificatie-en-validatie
 - monitoring-en-beheer
-bouwblok:
+onderwerp:
 - technische-robuustheid-en-veiligheid
 - privacy-en-gegevensbescherming
 rollen:

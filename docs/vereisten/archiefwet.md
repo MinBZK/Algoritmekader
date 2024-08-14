@@ -7,7 +7,7 @@ levenscyclus:
 - uitfaseren
 - implementatie
 - monitoring-en-beheer
-bouwblok: 
+onderwerp: 
 - technische-robuustheid-en-veiligheid
 - governance
 - data
@@ -77,6 +77,6 @@ Het nalaten om archiefbescheiden na verloop van tijd te verwijderen brengt risic
 === "Allen"
 	<!-- list_maatregelen vereiste/archiefwet -->
 === "Governance"
-	<!-- list_maatregelen vereiste/archiefwet boubwlok/governance -->
+	<!-- list_maatregelen vereiste/archiefwet onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/archiefwet bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/archiefwet onderwerp/publieke-inkoop -->

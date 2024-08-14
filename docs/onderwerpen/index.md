@@ -1,7 +1,6 @@
 ---
 title: Onderwerpen
 summary: Regels en adviezen per onderwerp, zoals publieke inkoop, duurzaamheid, privacy, governance, veiligheid en transparantie.
-icon: material/cube
 hide:
     - toc
     - navigation
@@ -73,4 +72,4 @@ hide:
 </div>
 
 ## Help ons deze pagina te verbeteren
-Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/bouwblokken/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).
+Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/onderwerpen/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

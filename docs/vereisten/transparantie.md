@@ -9,7 +9,7 @@ levenscyclus:
 - verificatie-en-validatie
 - implementatie
 - monitoring-en-beheer
-bouwblok: 
+onderwerp: 
 - transparantie
 rekenregels: 
 - niet-impactvol: Nee
@@ -75,6 +75,6 @@ Onvoldoende transparantie kan leiden tot een gebrek aan begrip over hoe het AI-s
 === "Allen"
 	<!-- list_maatregelen vereiste/transparantie -->
 === "Governance"
-	<!-- list_maatregelen vereiste/transparantie boubwlok/governance -->
+	<!-- list_maatregelen vereiste/transparantie onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/transparantie bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/transparantie onderwerp/publieke-inkoop -->

@@ -9,7 +9,7 @@ levenscyclus:
 - ontwikkelen
 - verificatie-en-validatie
 - monitoring-en-beheer
-bouwblok:
+onderwerp:
 - fundamentele-rechten
 hide:
 - navigation
@@ -47,9 +47,9 @@ Het niet uitvoeren van deze beoordeling kan leiden tot schendingen van de grondr
 === "Allen"
 	<!-- list_maatregelen vereiste/beoordelen_gevolgen_voor_grondrechten -->
 === "Governance"
-	<!-- list_maatregelen vereiste/beoordelen_gevolgen_voor_grondrechten boubwlok/governance -->
+	<!-- list_maatregelen vereiste/beoordelen_gevolgen_voor_grondrechten onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/beoordelen_gevolgen_voor_grondrechten bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/beoordelen_gevolgen_voor_grondrechten onderwerp/publieke-inkoop -->
 
 
 ## Instrumenten

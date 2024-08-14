@@ -14,7 +14,7 @@ levenscyclus:
 - monitoring-en-beheer
 - uitfaseren
   
-bouwblok:
+onderwerp:
 - governance
 - transparantie
 rollen:

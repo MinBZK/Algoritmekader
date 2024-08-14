@@ -8,7 +8,7 @@ levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
 - ontwikkelen
-bouwblok:
+onderwerp:
 - privacy-en-gegevensbescherming
 - data
 hide:
@@ -47,6 +47,6 @@ Als er geen rekening wordt gehouden met de juistheid, nauwkeurigheid en volledig
 === "Allen"
 	<!-- list_maatregelen vereiste/juistheid_en_actualiteit_van_persoonsgegevens -->
 === "Governance"
-	<!-- list_maatregelen vereiste/juistheid_en_actualiteit_van_persoonsgegevens boubwlok/governance -->
+	<!-- list_maatregelen vereiste/juistheid_en_actualiteit_van_persoonsgegevens onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/juistheid_en_actualiteit_van_persoonsgegevens bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/juistheid_en_actualiteit_van_persoonsgegevens onderwerp/publieke-inkoop -->

@@ -5,7 +5,7 @@ vereiste:
 - zorgvuldigheidsbeginsel
 levenscyclus:
 - probleemanalyse
-bouwblok:
+onderwerp:
 - governance
 rollen:
 - projectleider

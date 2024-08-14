@@ -11,7 +11,7 @@ levenscyclus:
 - implementatie
 - uitfaseren
   
-bouwblok:
+onderwerp:
 - privacy-en-gegevensbescherming
 rollen:
 - proceseigenaar

@@ -6,7 +6,7 @@ levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
 - verificatie-en-validatie
-bouwblok:
+onderwerp:
 - publieke-inkoop
 rollen:
 - aanbestedingsjurist

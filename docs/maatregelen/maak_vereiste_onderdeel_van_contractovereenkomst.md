@@ -63,7 +63,7 @@ vereiste:
 levenscyclus: 
 - ontwerp
 - ontwikkelen
-bouwblok: 
+onderwerp: 
 - publieke-inkoop
 rollen:
 - behoeftesteller

@@ -40,7 +40,7 @@ Een politieke-bestuurlijk besluit wordt genomen over de inzet van een impactvol 
 - Het is van belang dat overheidsorganisaties een politiek-bestuurlijk kader opstellen waarin wordt beschreven hoe wordt omgegaan met dergelijke gevallen. 
 - Een openbaar besluit draagt bij aan de legitimiteit van de inzet van het algoritme of AI-systeem en de controleerbaarheid van de overheidsorganisatie. 
     
-  ## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n)
 
 <!-- list_vereisten_on_maatregelen_page -->
 
@@ -55,4 +55,4 @@ De ambtelijke organisatie maakt politieke-bestuurlijke afwegingen en beslissinge
 
 ## Voorbeeld
 
-| [Besluit College van Burgemeester en Wethouders Gemeente Amsterdam](https://www.amsterdam.nl/bestuur-organisatie/college/nieuws/nieuws-24-januari-2024/) 
+[Besluit College van Burgemeester en Wethouders Gemeente Amsterdam](https://www.amsterdam.nl/bestuur-organisatie/college/nieuws/nieuws-24-januari-2024/) 

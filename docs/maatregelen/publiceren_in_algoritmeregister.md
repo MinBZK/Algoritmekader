@@ -54,7 +54,6 @@ Betrokkenen zijn niet op de hoogte dat hun persoonsgegevens worden verwerkt met 
 ## Bronnen
 | Bron                                                                                                                                                                     |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
 | [Handreiking Algoritmeregister](https://www.digitaleoverheid.nl/wp-content/uploads/sites/8/2023/12/Handreiking-Algoritmeregister-versie-1.0.pdf)|
 | [Algoritmeregister Publicatiestandaard](https://regels.overheid.nl/publicaties/algoritmeregister-publicatiestandaard#:~:text=De%20publicatiestandaard%20is%20gericht%20op,op%20andere%20manier%20te%20organiseren.)|
 | [Toetsingskader Algoritmes Algemene Rekenkamer, 3.12](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) |

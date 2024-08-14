@@ -20,6 +20,7 @@ rollen:
 - privacy-officer
 - security-officer
 - inkoopadviseur
+- architect
   
 hide:
 - navigation

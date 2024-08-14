@@ -19,11 +19,11 @@ De maatregelen zijn niet verplicht. Het zijn adviezen uit:
 > Onderzoek het ontwikkelde algoritme op onbewuste vooringenomenheid (discriminatie) door middel van een bias-analyse.
 
 Deze maatregel helpt om te voldoen aan de vereiste om niet te discrimineren. Maar deze maatregel is niet verplicht. Je organisatie mag ook eigen maatregelen nemen. Zolang je uiteindelijk maar voldoet aan de vereiste.
-
+    
 !!! tip "Tip"
 
-  **Aantal maatregelen verschilt per situatie**
-  Welke maatregelen handig zijn in jouw situatie, hangt af van:
+    **Aantal maatregelen verschilt per situatie**
+    Welke maatregelen handig zijn in jouw situatie, hangt af van:
   
     - de [fase in de levenscyclus](https://minbzk.github.io/Algoritmekader/levenscyclus/) van je project
     - de [vereisten](https://minbzk.github.io/Algoritmekader/vereisten/) waar jouw organisatie aan moet voldoen
@@ -31,7 +31,7 @@ Deze maatregel helpt om te voldoen aan de vereiste om niet te discrimineren. Maa
 
 !!! tip "Tip"
 
-  Met 1 maatregel voldoe je soms aan meerdere vereisten.
+    Met 1 maatregel voldoe je soms aan meerdere vereisten.
 
 ## Overzicht maatregelen
 

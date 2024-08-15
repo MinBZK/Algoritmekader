@@ -45,7 +45,7 @@ hide:
 
     Hulp bij de controle als mens over algoritmes en AI-systemen. Bijvoorbeeld kunnen ingrijpen bij onbetrouwbare resultaten.
 
--   [Privacy en gegevens](privacy-en-gegevensbescherming/index.md)
+-   [Privacy en gegevensbescherming](privacy-en-gegevensbescherming/index.md)
     
     ---
 

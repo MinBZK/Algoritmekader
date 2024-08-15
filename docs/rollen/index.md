@@ -13,7 +13,6 @@ Misschien heb je bijvoorbeeld minder rollen, omdat je verschillende expertises c
 ## Voorbeelden van rollen
 We adviseren de volgende rollen bij het gebruik van algoritmes. Andere rollen zijn ook mogelijk.
 
-(linklijst, net als bij maatregelen etc.)
 
 ## Help ons deze pagina te verbeteren
 Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/rollen/index.md) of mail ons via [algoritmes@minbzk.nl](mailto::algoritmes@minbzk.nl).

@@ -32,7 +32,7 @@ Deze maatregel helpt om te voldoen aan de vereiste om niet te discrimineren. Maa
 
 !!! tip "Tip"
 
-    Met 1 maatregel voldoe je soms aan meerdere vereisten.
+    Met één maatregel voldoe je soms aan meerdere vereisten.
 
 ## Overzicht maatregelen
 

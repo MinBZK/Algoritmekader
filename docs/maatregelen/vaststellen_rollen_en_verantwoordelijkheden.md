@@ -13,7 +13,7 @@ levenscyclus:
 - verificatie-en-validatie
 onderwerp:
 - governance
-- privacy-en-gegevens
+- privacy-en-gegevensbescherming
 rollen:
 - proceseigenaar
 

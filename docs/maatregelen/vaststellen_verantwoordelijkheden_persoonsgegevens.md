@@ -42,7 +42,7 @@ Nadat de verantwoordelijkheden zijn beschreven en toegewezen, zullen deze moeten
 <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
-Door het ontbreken of niet helder omschrijven en vaststellen verantwoordelijkheden, dat persoonsgegevens onrechtmatig worden verwerkt.
+Door het ontbreken of niet helder omschrijven en vaststellen van verantwoordelijkheden, kunnen persoonsgegevens onrechtmatig worden verwerkt.
 
 
 ## Bronnen

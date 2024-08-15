@@ -5,7 +5,7 @@ hide:
 - navigation
 ---
 # Maatregelen
-Overzicht van maatregelen voor verantwoord gebruik van algoritmes en AI-systemen. Het zijn adviezen om te voldoen aan de vereisten voor overheden. Andere maatregelen zijn ook mogelijk.
+Overzicht van aanbevolen maatregelen voor verantwoord gebruik van algoritmes en AI-systemen. Het zijn adviezen om te voldoen aan de vereisten voor overheden. Andere maatregelen zijn ook mogelijk.
 
 ## Alle maatregelen zijn adviezen
 De maatregelen zijn niet verplicht. Het zijn adviezen uit:

@@ -33,6 +33,7 @@ De rollen en verantwoordelijkheden zijn vastgesteld door de verantwoordelijke(n)
 - Vaststelling van de verantwoordelijkheden kan plaatsvinden door beleidsdocumenten, werkinstructies, verwerkersovereenkomst of een PIA/DPIA, mits de verantwoordelijkheden voldoende duidelijk zijn beschreven.
 - Vaststelling door de verantwoordelijke(n) is verplicht voorafgaand aan het (laten) ontwikkelen of gebruiken van algoritmes of AI-systemen.
 - Gedurende de levenscyclus kan het voorkomen dat rollen en verantwoordelijkheden opnieuw moet worden beschreven en vastgesteld.
+- Bij het verwerken van persoonsgegevens moet nadat is vastgesteld wie in een samenwerking feitelijk het doel en middelen van een verwerking bepalen wordt vastgelegd wie de (gezamelijke) verwerkingsverantwoordelijken zijn en wie de verwerkers. Uit deze vaststeling van de rolverdeling volgen onder de AVG verschillende rechten en plichten.
 
 ## Bijbehorende vereiste(n)
 

@@ -2,8 +2,8 @@
 title: Over het Algoritmekader
 summary: Het Algoritmekader is een open source website van het Ministerie van Binnenlandse Zaken, met alle regels voor overheden die algoritmes of AI gebruiken.
 ---
-# Over het algoritmekader 
-Het algoritmekader is een hulpmiddel voor overheden die algoritmes of AI (artificiële intelligentie) gebruiken. Hierin vind je de wetten en regels, hulpmiddelen en adviezen per situatie. De informatie in het Algoritmekader is nog niet betrouwbaar. Het is een bètaversie. De definitieve versie verschijnt eind 2024.
+# Over het Algoritmekader 
+Het Algoritmekader is een hulpmiddel voor overheden die algoritmes of AI (artificiële intelligentie) gebruiken. Hierin vind je de wetten en regels, hulpmiddelen en adviezen per situatie. De informatie in het Algoritmekader is nog niet betrouwbaar. Het is een bètaversie. De definitieve versie verschijnt eind 2024.
 
 ## Verantwoord gebruik van algoritmes en AI
 In het Algoritmekader vind je informatie over verantwoord gebruik van algoritmes en AI. Bijvoorbeeld:
@@ -24,8 +24,8 @@ Het Algoritmekader is een website van het Ministerie van Binnenlandse Zaken en K
 - belangrijke instrumenten, zoals de [IAMA](https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes) (Impact Assessment Mensenrechten en Algoritmes)
 - adviezen en ervaringen van experts, zoals wetenschappers
 
-## Verschillende versies
-Het Algoritmekader is de nieuwe naam van het [Implementatiekader 'Verantwoorde inzet van algoritmen'](https://www.rijksoverheid.nl/documenten/rapporten/2023/06/30/implementatiekader-verantwoorde-inzet-van-algoritmen). Dit rapport is de eerste versie. Door het verder ontwikkelen van dit rapport ontstond de website Algoritmekader.
+## Versies
+Algoritmekader is de nieuwe naam van het [Implementatiekader 'Verantwoorde inzet van algoritmen'](https://www.rijksoverheid.nl/documenten/rapporten/2023/06/30/implementatiekader-verantwoorde-inzet-van-algoritmen). Dit rapport is de eerste versie. Door het verder ontwikkelen van dit rapport ontstond de website Algoritmekader.
 
 Sindsdien verschijnt elke maand een nieuwe bètaversie van het Algoritmekader. Deze bètaversies zijn nog niet betrouwbaar. De informatie is onvolledig. Er kunnen fouten in staan.
 

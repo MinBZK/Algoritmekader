@@ -55,12 +55,14 @@ De sturing en verantwoording is ontoereikend of niet geborgd, waardoor er onvold
 
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
-
+| Bron |
+| ------- |
 | [Toetsingskader Algoritmes Algemene Rekenkamer, 1.06](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) |
-| [Onderzoekskader Algoritmes Auditdienst Rijk, SV.9 ](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)| | Algoritmekader | 
+| [Onderzoekskader Algoritmes Auditdienst Rijk, SV.9 ](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)| 
+| Algoritmekader | 
        
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
-| [Rapport Kleur Bekennen, Algemene Rekenkamer, p. 114, figuur 5-4](https://rekenkamer.rotterdam.nl/wp-content/uploads/2024/05/RO2205-kleur-bekennen-vervolgonderzoek-algoritmes-rekenkamer-rotterdam.pdf)|
+[Rapport Kleur Bekennen, Algemene Rekenkamer, p. 114, figuur 5-4](https://rekenkamer.rotterdam.nl/wp-content/uploads/2024/05/RO2205-kleur-bekennen-vervolgonderzoek-algoritmes-rekenkamer-rotterdam.pdf)
 

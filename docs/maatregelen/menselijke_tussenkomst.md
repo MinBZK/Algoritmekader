@@ -61,11 +61,9 @@ verkeersvoorschriften (Wahv) of het bijstellen van de hoogte van het recht op st
 | Kamerstukken IT 2017-2018, 34 851, nr. (MvT UAVG), p. 120-121 |
 | Algoritmekader | 
 
-|Algoritmekader|
-
 ## Voorbeeld
 
-| [HvJEU december 2023, ECLI:EU:C:2023:957 (SCHUFA Scoring)](https://curia.europa.eu/juris/document/document.jsf?text=&docid=280426&pageIndex=0&doclang=NL&mode=lst&dir=&occ=first&part=1&cid=7436066) |
+[HvJEU december 2023, ECLI:EU:C:2023:957 (SCHUFA Scoring)](https://curia.europa.eu/juris/document/document.jsf?text=&docid=280426&pageIndex=0&doclang=NL&mode=lst&dir=&occ=first&part=1&cid=7436066)
 
 
 

@@ -7,9 +7,8 @@ hide:
 --- 
 
 # Levenscyclus algoritmes en AI
-Bij verantwoord gebruik van algoritmes en AI voldoe je tijdens elke fase van de levenscyclus aan de juiste regels. 
+Bij verantwoord gebruik van algoritmes en AI voldoe je tijdens elke fase van de levenscyclus aan de vereisten. 
 Van het ontwikkelen van een oplossing, tot het in gebruik nemen van die oplossing en er uiteindelijk weer mee stoppen. 
-Gedurende dit hele proces moet je voldoen aan de wetten en regels. 
 De levenscyclus helpt je om te bepalen in welke fase jouw product zit en welke beslissingen hierbij horen.
 
 ## Fases van de levenscyclus
@@ -38,8 +37,8 @@ De 8 fasen van de levenscyclus zijn gebaseerd op 10 belangrijke levenscyclusmode
 - NIST (National Institute of Standards and Technology)
 - ISO/IEC 22989
 
-Deze 8 fasen passen zo goed mogelijk bij de manier van werken van de meeste overheden. 
+Deze 8 fasen passen zo goed mogelijk bij de manier van werken van overheden. 
 Het is geen verplicht model. Mogelijk past een ander levenscyclusmodel beter bij jouw organisatie.
 
 ## Help ons deze pagina te verbeteren
-Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/levenscyclus/index.md) of mail ons via [mailto::algoritmes@minbzk.nl](algoritmes@minbzk.nl).
+Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/levenscyclus/index.md) of mail ons via [algoritmes@minbzk.nl](mailto::algoritmes@minbzk.nl).

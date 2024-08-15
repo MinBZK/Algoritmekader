@@ -34,7 +34,7 @@ Voer een Project Startarchitectuur (PSA) uit als algoritmes of AI-systemen worde
 
 ## Toelichting
 
-- Een Project Start Architectuur (PSA) is een hulpmiddel dat bij een project wordt ingezet om veranderingen van A naar Beter te faciliteren.
+- Een Project Startarchitectuur (PSA) is een hulpmiddel dat bij een project wordt ingezet om veranderingen van A naar Beter te faciliteren.
 - De PSA richt zich daarbij op de kaders die op een project van toepassing zijn en wat de oplossing bijdraagt aan het realiseren van de gewenste, toekomstige architectuur, wat de implicaties zullen zijn voor bestaande voorzieningen en waar het project zal afwijken van bestaande beelden.
 - Met de PSA wordt een concreet en doelgericht ICT-architectuurkader opgesteld, waarbinnen het project moet worden uitgevoerd. 
 - De PSA maakt concreet wat architectuur voor een project betekent.
@@ -51,7 +51,6 @@ Het algoritme of AI-systeem kan niet of na verloop van tijd niet meer functioner
 ## Bronnen
 | Bron                                                                                                                                                                     |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
 |[Project Startarchitectuur,NORA](https://www.noraonline.nl/wiki/PSA_(Project_Startarchitectuur))|
 | [PSA Format](https://www.noraonline.nl/images/noraonline/9/96/NORA_PSA_format.odt)|
 | [PSA Handleiding](https://www.noraonline.nl/images/noraonline/9/93/NORA-handleiding_voor_het_opstellen_van_een_PSA.odt)|

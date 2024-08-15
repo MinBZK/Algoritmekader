@@ -6,7 +6,9 @@ hide:
 ---
 # Vereisten
 Overzicht van vereisten voor overheden die algoritmes of AI-systemen ontwikkelen of gebruiken. 
-Deze vereisten zijn gebaseerd op de wetten en regels voor het uitvoeren van wettelijke taken, zoals de:
+
+## Wetten en regels
+De vereisten zijn gebaseerd op de wetten en regels voor het uitvoeren van wettelijke taken, zoals de:
 
 - AI-verordening
 - Algemene verordening gegevensbescherming (AVG)
@@ -22,7 +24,7 @@ Bij elke vereiste staat dit er duidelijk bij.
 Welke vereisten gelden voor jouw organisatie, hangt af van:
 
 - de technologie die je gebruikt: rekenregels, machinelearning of generatieve AI
-- de risicoclassificatie van het algoritme dat wordt gebruikt
+- de risicoclassificatie van het algoritme dat je gebruikt
 
 ### Voorbeeld
 > Impactvolle algoritmes en AI-systemen worden gepubliceerd in het Nederlandse algoritmeregister.

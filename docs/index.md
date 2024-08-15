@@ -7,7 +7,7 @@ hide:
 ---
 
 <div class="header-container">
-  <h1>Het algoritmekader
+  <h1>Algoritmekader
     <span class="version-container">
       <span class="version-label">Bètaversie</span>
       <div class="hover-info">
@@ -54,7 +54,7 @@ hide:
 
   <div class="float-child styled-list">
     <h3><a href="overhetalgoritmekader/definities/">Woordenlijst</a></h3>
-    <p><b>Wat is een algoritme?</b><br>Vind snel de betekenis van begrippen als algoritme, AI-systeem, hoog-risico-AI-systeem en impactvolle algoritmes.</p>
+    <p><br>Vind snel de betekenis van begrippen als algoritme, AI-systeem, hoog-risico-AI-systeem en impactvolle algoritmes.</p>
   </div>
 </div>
 

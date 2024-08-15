@@ -42,4 +42,4 @@ Deze 8 fasen passen zo goed mogelijk bij de manier van werken van de meeste over
 Het is geen verplicht model. Mogelijk past een ander levenscyclusmodel beter bij jouw organisatie.
 
 ## Help ons deze pagina te verbeteren
-Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/levenscyclus/index.md) of mail ons via [mailto::algoritmes@minbzk.nl](algoritmes@minbzk.nl).
+Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/levenscyclus/index.md) of mail ons via [algoritmes@minbzk.nl](mailto::algoritmes@minbzk.nl).

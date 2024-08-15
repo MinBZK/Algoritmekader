@@ -1,8 +1,8 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Uitvoeren van mensenrechtentoets
+title: Afwegen grondrechten
 # geef hier een korte toelichting van deze maatregel
-toelichting: Uitvoeren van mensenrechtentoets
+toelichting: Afwegen grondrechten
 vereiste:
 - 
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
@@ -23,7 +23,7 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-Uitvoeren van mensenrechtentoets
+Afwegen grondrechten
 
 ## Toelichting 
 <!-- Geef hier een toelichting van deze maatregel -->
@@ -37,8 +37,12 @@ Als dat het geval is, is het allereerst van belang om te controleren of hiervoor
 Daarnaast is het van belang om de invloed van de inzet van het algoritme op de grondrechten af te wegen tegenover de voordelen van de inzet.
 Daarbij moet afgewogen worden of de inzet noodzakelijk en proportioneel is.
 
+Zoals vermeld in de [vereiste voor beoordeling van gevolgen voor grondrechten uit de AI-verordening](../vereisten/beoordelen_gevolgen_voor_grondrechten.md) moeten sommige hoog-risico AI-systemen een beoordeling doen van de gevolgen voor grondrechten. Het is nog niet bekend welke vorm dit precies moet hebben.
+
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
+- fundamentele-rechten
+- beoordelen-gevolgen-voor-grondrechten
 
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
 <!-- list_vereisten_on_maatregelen_page -->
@@ -56,10 +60,6 @@ Het risico is dat er grondrechten, anders dan die expliciet beschermd zijn in an
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
-Er bestaan verschillende hulpmiddelen om de grondrechten te toetsen:
-* Hoofdstuk 4 van het [Impact Assesment Mensenrechten en Algoritmen (IAMA)](../instrumenten/IAMA.md) richt zich specifiek op de grondrechten. In bijlage 1 is tevens een overzicht te vinden van mogelijk relevante grondrechten.
-* Het  AI Impact Assessment (AIIA) besteedt op pagina 7 aandacht aan grondrechten.
+Hoofdstuk 4 van het [Impact Assesment Mensenrechten en Algoritmen (IAMA)](../instrumenten/IAMA.md) richt zich specifiek op de grondrechten. In bijlage 1 is tevens een overzicht te vinden van mogelijk relevante grondrechten.
 
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
-
-

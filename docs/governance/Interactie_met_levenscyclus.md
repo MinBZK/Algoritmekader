@@ -10,6 +10,8 @@ Dit is een voorbeeld.
 
 Dit is nog een voorbeeld. 
 
+Dit is nog een ander voorbeeld. 
+
 Om deze interactie vorm te geven wordt er tussen elke fase in de levenscyclus een “gate” geplaatst. In de afronding van de voorgaande fasen en opstarten van de volgende fase wordt daarmee een formele poort geplaatst. Om door deze poort te komen dient de voorgaande fase volledig afgerond te zijn: vraagstukken dienen beantwoordt te zijn, activiteiten uitgevoerd en aan (interne/externe) vereisten dient voldaan te zijn. Deze zaken kunnen in de vorm van documentatie opgeleverd worden aan de organisatie, waarna een gesprek/review plaats kan vinden. 
 
 Het vormgeven van deze overgangen geeft verantwoordelijke stakeholders binnen de organisatie een structuur om de ontwikkeling/inzet van algoritmen en AI in elke fase te kunnen beoordelen en bijsturen. De gezamenlijke kernvraag voor alle betrokkenen in de gates: Geloven we dat de voordelen van de ontwikkeling/inzet van dit algoritme/AI model opwegen tegen de (te verwachten) nadelen? En wat doen we om hiermee om te gaan? Daarbij kunnen opvolgende fasen in de levenscyclus een eigen accentvraag kennen, zoals “Is het beoogde algoritme wenselijk” in de probleemanalyse fase tot “Levert het algoritme nog de waarde op die we beogen?” tijdens de monitoring en beheer fase. 

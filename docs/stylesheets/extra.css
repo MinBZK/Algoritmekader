@@ -1,226 +1,145 @@
-.float-container .float-child p{
-  color: #154273
-}
-
-/* Badge Styling */
-.mdx-badge {
-  font-size: 0.85em;
-  display: inline-block;
-  margin: 0.2rem 0.3rem;
-  text-align: left; 
-}
-
-.mdx-badge__icon {
-  border-radius: 0.1rem 0 0 0.1rem;
-  background: var(--md-accent-fg-color--transparent);
-  padding: 0.2rem;
-  text-align: left; 
-}
-
-.mdx-badge__text {
-  border-radius: 0 0.1rem 0.1rem 0;
-  box-shadow: inset 0 0 0 1px var(--md-accent-fg-color--transparent);
-  padding: 0.2rem 0.3rem;
-  text-align: left; 
-}
-
-.mdx-badge a {
-  color: var(--md-accent-fg-color);
-  text-align: left; 
-}
-
-.float-container a {
-  color: #154273;
-  text-align: left; 
-  text-decoration: underline;
-}
-
-/* Grid Styling */
-.md-typeset .grid {
-  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
-}
-
-/* Admonition Styling */
-:root {
-  --md-admonition-icon--simple: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58 13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42Z"/></svg>');
-}
-
-.md-typeset .admonition.simple,
-.md-typeset details.simple {
-  border-color: rgb(5, 80, 141);
-  text-align: left; 
-}
-
-.md-typeset .simple > .admonition-title,
-.md-typeset .simple > summary {
-  background-color: rgba(185, 185, 185, 0.1);
-  text-align: left; 
-}
-
-.md-typeset .simple > .admonition-title::before,
-.md-typeset .simple > summary::before {
-  background-color: rgb(5, 80, 141);
-  -webkit-mask-image: var(--md-admonition-icon--simple);
-  mask-image: var(--md-admonition-icon--simple);
-}
-
-/* General Layout */
+/* Algemene layout van de header */
 .header-container {
-  margin-bottom: 20px;
-  position: relative;
-  text-align: left; 
+  display: flex;
+  flex-direction: row;
+  align-items: center;
   margin-bottom: 40px;
+  text-align: left;
 }
 
-.header-container h1, .header-container h2 {
-  font-size: 2em;
-  margin: 0;
-  display: inline-block;
-  position: relative;
-  text-align: left; 
-  color: #154273;
+.version-container {
+  display: inline-flex;
+  align-items: center;
+  margin-right: 10px;
+  margin-top: -50px;
+  position: relative; /* Voeg dit toe om de hover-info correct te positioneren */
 }
 
-.header-container .version-label {
-  font-size: 0.4em;
+.version-label {
+  font-size: 0.85em;
   background-color: #e5f1f9;
   color: #154273;
   padding: 4px;
   border-radius: 3px;
-  margin-left: 10px;
-  cursor: pointer;
-  position: relative;
-  text-align: left; 
   font-weight: 500;
   text-transform: capitalize;
+  cursor: pointer;
+  text-align: left;
 }
 
-.header-container .hover-info {
-  font-size: 0.4em;
+.hover-info {
+  font-size: 0.85em;
   display: none;
   position: absolute;
-  top: 90%; /* Direct onder het label */
+  top: 100%;
   left: 0;
   background-color: #fff;
   color: #333;
   border: 1px solid #ddd;
   border-radius: 5px;
-  padding: 2px 8px;
-  z-index: 1000;
+  padding: 5px 10px;
   white-space: normal;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  text-align: left; 
+  z-index: 1000;
+  width: auto;
+  min-width: 300px;
+  max-width: 400px;
 }
 
-.header-container .version-label:hover + .hover-info,
-.header-container .hover-info:hover {
+.version-container:hover .hover-info,
+.hover-info:hover {
   display: block;
-  text-align: left; 
 }
 
-.header-container .hover-info a {
-  color: #154273;
-  font-weight: bold;
-  text-align: left; 
-}
-
-.header-container .hover-info a:hover {
-  text-decoration: underline;
-}
-
-/* Subheader Styling */
-.header-container .subheader {
+.subheader {
   font-size: 1.2em;
   color: #154273;
-  margin: 10px 0 20px;
-  text-align: left; /* Ensure left alignment */
+  margin-left: 0;
+  text-align: left;
 }
 
-/* Info Section */
-.info-section {
-  margin-bottom: 30px;
-  text-align: left; /* Ensure left alignment */
-}
-
-.info-section h2 {
-  font-size: 1.5em;
+.subheader a {
   color: #154273;
-  margin: 0 0 10px;
-  text-align: left; /* Ensure left alignment */
+  text-decoration: underline;
+  text-align: left;
 }
 
-.info-section .glossary-link {
-  font-weight: bold;
+.subheader a:hover {
+  text-decoration: none;
+  text-align: left;
+}
+
+/* Styling voor de float-container */
+.float-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Responsieve kolommen */
+  gap: 20px; /* Ruimte tussen de boxen */
+  text-align: left;
+}
+
+.float-container a {
   color: #154273;
-  text-align: left; /* Ensure left alignment */
-}
-
-.info-section .glossary-link:hover {
+  text-align: left;
   text-decoration: underline;
 }
 
-.float-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Responsive columns */
-  gap: 20px; /* Space between the boxes */
-  text-align: left; 
-}
-
-/* Float Child */
 .float-child {
   background-color: #e5f1f9;
   border-radius: 5px;
   padding: 16px 24px;
   display: flex;
   flex-direction: column;
-  text-align: left; 
+  text-align: left;
 }
 
-/* Ensure the content within the boxes is evenly distributed */
+.float-container .float-child p {
+  color: #154273;
+  text-align: left;
+}
+
 .styled-list {
   background-color: #e5f1f9;
   padding: 16px 32px;
   border-radius: 5px;
   flex-grow: 1;
-  text-align: left; 
+  text-align: left;
 }
 
-/* Styled List */
 .styled-list h3 {
   color: #154273;
   font-weight: bold;
   margin-bottom: 10px;
   font-size: 1.2em;
-  text-align: left; 
   margin-top: 10px;
+  text-align: left;
 }
 
 .styled-list ul {
   list-style-type: none;
   padding-left: 0;
   margin-bottom: 20px;
-  text-align: left; 
+  text-align: left;
 }
 
 .styled-list ul li {
   margin-bottom: 10px;
   display: flex;
-  align-items: flex-start; /* Align items to the top */
+  align-items: flex-start; /* Items aan de bovenkant uitlijnen */
   text-align: left;
 }
 
 .styled-list ul li::before {
-  content: '\203A'; /* Unicode character for a right-facing chevron */
+  content: '\203A'; /* Unicode-teken voor een rechtswijzende chevron */
   margin-right: 8px;
   color: #154273;
   font-weight: bold;
-  text-align: left; 
+  text-align: left;
 }
 
 .styled-list ul li a {
   color: #154273;
   font-weight: normal;
-  text-align: left; 
+  text-align: left;
 }
 
 /* Show More Link */
@@ -228,35 +147,37 @@
   font-weight: bold;
   color: #154273;
   margin-top: auto;
-  text-align: right; /* Keep this right aligned as per your original design */
+  text-align: right; /* Rechts uitgelijnd zoals in het originele ontwerp */
 }
 
 .show-more:hover {
   text-decoration: underline;
+  text-align: left;
 }
 
-/* Footer Section */
+/* Footer Sectie */
 .footer-section {
   margin-top: 30px;
   padding-top: 10px;
   border-top: 1px solid #ddd;
-  text-align: left; 
+  text-align: left;
 }
 
 .footer-section h2 {
   font-size: 1.5em;
   color: #154273;
-  text-align: left; 
+  text-align: left;
 }
 
 .footer-section a {
   color: #154273;
   font-weight: bold;
-  text-align: left; 
+  text-align: left;
 }
 
 .footer-section a:hover {
   text-decoration: underline;
+  text-align: left;
 }
 
 /* Full Width Outline Block */
@@ -267,26 +188,26 @@
   padding: 20px;
   box-sizing: border-box;
   margin-bottom: 20px;
-  text-align: left; 
+  text-align: left;
 }
 
 .full-width-header {
   font-size: 1.5em;
   color: #154273;
   margin: 0 0 10px;
-  text-align: left; 
+  text-align: left;
 }
 
 .full-width-item {
   margin: 10px 0;
-  text-align: left; 
+  text-align: left;
 }
 
 .item-description {
   font-size: 1em;
   color: #666;
   margin: 0 0 10px;
-  text-align: left; 
+  text-align: left;
 }
 
 .show-more-link {
@@ -298,13 +219,77 @@
 
 .show-more-link:hover {
   text-decoration: underline;
+  text-align: left;
 }
 
 [dir=ltr] .md-typeset .float-container ol li, [dir=ltr] .md-typeset .float-container ul li {
   margin-left: 0;
+  text-align: left;
 }
 
 [dir=ltr] .md-typeset .float-container ol, [dir=ltr] .md-typeset .float-container ul {
   margin-left: 0;
+  text-align: left;
 }
-*/
+
+#algoritmekader {
+  margin-bottom: 0.2rem;
+}
+
+/* Badge Styling */
+.mdx-badge {
+  font-size: 0.85em;
+  display: inline-block;
+  margin: 0.2rem 0.3rem;
+  text-align: left;
+}
+
+.mdx-badge__icon {
+  border-radius: 0.1rem 0 0 0.1rem;
+  background: var(--md-accent-fg-color--transparent);
+  padding: 0.2rem;
+  text-align: left;
+}
+
+.mdx-badge__text {
+  border-radius: 0 0.1rem 0.1rem 0;
+  box-shadow: inset 0 0 0 1px var(--md-accent-fg-color--transparent);
+  padding: 0.2rem 0.3rem;
+  text-align: left;
+}
+
+.mdx-badge a {
+  color: var(--md-accent-fg-color);
+  text-align: left;
+}
+
+/* Grid Styling */
+.md-typeset .grid {
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  text-align: left;
+}
+
+/* Admonition Styling */
+:root {
+  --md-admonition-icon--simple: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58 13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42Z"/></svg>');
+}
+
+.md-typeset .admonition.simple,
+.md-typeset details.simple {
+  border-color: rgb(5, 80, 141);
+  text-align: left;
+}
+
+.md-typeset .simple > .admonition-title,
+.md-typeset .simple > summary {
+  background-color: rgba(185, 185, 185, 0.1);
+  text-align: left;
+}
+
+.md-typeset .simple > .admonition-title::before,
+.md-typeset .simple > summary::before {
+  background-color: rgb(5, 80, 141);
+  -webkit-mask-image: var(--md-admonition-icon--simple);
+  mask-image: var(--md-admonition-icon--simple);
+  text-align: left;
+}

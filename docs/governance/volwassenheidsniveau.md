@@ -4,7 +4,7 @@ summary: Hier staat een korte samenvatting over dit onderwerp
 icon: material/bank
 ---
 
-Om tot een passende algoritme en AI governance voor een organisatie te komen, moet eerst worden vastgesteld waar een organisatie zich op dit onderdeel momenteel bevindt. Dit wordt het bepalen van het zogenaamde 'volwassenheidsniveau' genoemd. Op basis hierkan kunnen vervolgstappen worden gedefinieerd waar een organisatie aan kan gaan werken om zich naar de volgende niveau's voor algoritme en AI goverance door te ontwikkelen. 
+Om tot een passende algoritme en AI governance voor een organisatie te komen, moet eerst worden vastgesteld wat de huidige status van de organisatie op dit onderdeel is. Dit wordt het bepalen van het zogenaamde 'volwassenheidsniveau' genoemd. Op basis hierkan kunnen vervolgstappen worden gedefinieerd waar een organisatie aan kan gaan werken om zich naar de volgende niveau's voor algoritme en AI goverance door te ontwikkelen. 
 
 Het is raadzaam om een model te hanteren om het volwassenheidsniveau te bepalen en vervolgens te vertalen naar concrete taken. Een voorbeeld ter inspiratie is het artikel van Krijger, Thuis, de Ruiter, Ligthart & Broekman (2023):
  

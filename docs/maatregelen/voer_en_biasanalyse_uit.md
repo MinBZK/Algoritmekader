@@ -2,7 +2,7 @@
 title: Voer een biasanalyse uit
 toelichting: Analyseer of het gebruik van het algoritme of het proces daaromheen leidt tot onwenselijke of onrechtmatige verschillen in de behandeling van individuen en/of groepen.  
 vereiste:
-- non-discriminatie
+- non_discriminatie
 - beoordelen_gevolgen_voor_grondrechten
 - fundamentele_rechten
 levenscyclus:
@@ -16,6 +16,8 @@ rollen:
 - data-scientist
 - opdrachtgever
 - projectleider
+- jurist
+- domeinspecialist
 hide:
 - navigation
 ---
@@ -32,7 +34,7 @@ Het uitvoeren van een analyse over onwenselijke of onrechtmatige verschillen bes
 - [Stap 2](#stap-2-voer-een-rechtvaardigingstoets-uit): Voer een rechtvaardigingstoets uit om te bepalen of het geconstateerde verschil uit stap 1 te rechtvaardigen is. 
 - [Stap 3](#stap-3-voer-een-ethische-wenselijkheidstoets-uit): Voer een ethische wenselijkheidstoets uit om te bepalen of het geconstateerde verschil uit stap 1 ethisch wenselijk is. 
 
-De 3 stappen worden hieronder verder toegelicht. 
+Voor alle stappen geldt dat het belangrijk is om de gemaakte keuzes en afwegingen zorgvuldig te onderbouwen en te documenteren. De 3 stappen worden hieronder verder toegelicht. 
 
 ### Stap 1: Analyseer of er sprake is van bias
 In deze stap is het doel om te bepalen in welke mate er sprake is van een systematisch verschil in behandeling van bepaalde objecten, mensen of groepen in vergelijking met anderen. 
@@ -45,8 +47,8 @@ Toetsen op direct onderscheid is in vergelijking tot toetsen op indirect ondersc
 
 Het is niet mogelijk om een uitputtend overzicht te geven van alle selectiecriteria die mogelijk tot direct onderscheid op grond van ras of nationaliteit kunnen leiden. 
 Wel zijn in de jurisprudentie verschillende voorbeelden en aanknopingspunten te vinden. 
-Zo staat vast dat selectie op basis van fysieke etnische kenmerken, zoals huidskleur, direct onderscheid op grond van ras oplevert [^2].
-Een ander voorbeeld is dat onderscheid op grond van een niet-westers klinkende naam direct onderscheid op grond van afkomst (en dus ras) oplevert [^3].
+Zo staat vast dat selectie op basis van fysieke etnische kenmerken, zoals huidskleur, direct onderscheid op grond van ras oplevert[^2].
+Een ander voorbeeld is dat onderscheid op grond van een niet-westers klinkende naam direct onderscheid op grond van afkomst (en dus ras) oplevert[^3].
 
 [^1]: Er is een wetsvoorstel om de term 'hetero- of homoseksuele gerichtheid' in de Algmemene wet gelijke behandeling (Awgb) te wijzigingen in 'seksuele gerichtheid'. Met deze wijziging sluit de Awgb aan bij een eerdere wijziging van artikel 1 van de Grondwet. 
 
@@ -59,7 +61,7 @@ Ook selectiecriteria die op het eerste gezicht geen enkele link lijken te hebben
 Enkele voorbeelden van zulke 'ogenschijnlijk neutrale' selectiecriteria die verband hebben met ras of nationaliteit zijn: postcode, hoogte van het inkomen, kenteken, familielid in het buitenland, laaggeletterdheid. 
 Indirect onderscheid is in vergelijking met direct onderscheid lastiger op te signaleren en te voorkomen. 
 Daarom is het belangrijk jouw algoritmische toepassing regelmatig te analyseren op eventueel indirect onderscheid. 
-Het toetsen op indirect onderscheid bestaat uit 6 stappen:
+Het toetsen op indirect onderscheid bestaat uit 5 stappen:
 
 1. **Bepaal wat de [kwetsbare groepen](../maatregelen/kwetsbare_groepen.md) zijn.**
 Eventueel kan dit aangevuld worden op basis van de [discriminatiegronden](../onderwerpen/bias-en-non-discriminatie/index.md#discriminatiegrond) uit non-discriminatie wetgeving. Of andere groepen waarvoor verschillen in behandeling ethisch onwenselijk zijn.
@@ -73,12 +75,17 @@ Er zijn veel verschillende manieren waarop je kan kijken naar onderscheid bij he
     - **Onderscheid op basis van gelijke prestaties (fouten)**. 
     De belangrijkste vraag die hier mee beantwoord wordt is: presteert het algoritme gelijk voor personen uit verschillende groepen? Met andere woorden: maakt het algoritme vaker fouten bij bepaalde groepen? Dat kan er eventueel toe leiden dat bepaalde groepen vaker onterecht wel of niet geselecteerd worden door het algoritme. 
 
+    Om te toetsen of er sprake is van onderscheid op basis van gelijke prestaties, is het noodzakelijk om [de prestaties van het algoritme goed te analyseren](../maatregelen/functioneren_in_lijn_met_doeleinden.md). 
+    In het geval van classificatie is het daarvoor nodig om een zogeheten *confusion matrix* op te stellen. 
+    Een confusion matrix is een tabel waarin de voorspellingen van het algoritme worden vergeleken met de werkelijke waarden (de *ground truth*). 
+
     De verschillende maten/metrieken waarop gekeken kan worden naar onderscheid, worden in de (wetenschappelijke) literatuur ook wel *fairness metrieken* genoemd. 
+    Veel van deze metrieken kunnen op basis van de confusion matrix berekend worden. 
     Een hulpmiddel om de meest passende metrieken te kiezen in jouw situatie is de [Fairness tree](https://openresearch.amsterdam/en/media/inline/2022/7/14/fairness_handbook.pdf). 
 
     Door te denken vanuit verschillende perspectieven, zullen er in de praktijk meerdere metrieken van belang zijn. 
     Het kan echter voorkomen dat deze metrieken elkaar tegenspreken. 
-    Maak een duidelijke prioritering van de verschillende metrieken om afwegingen te maken tussen de verschillende maten van eerlijkheid. 
+    Maak een duidelijke prioritering van de verschillende metrieken om afwegingen te maken tussen de verschillende opvattingen van eerlijkheid. 
 
 3. **Verzamel de benodigde data die nodig is om bovenstaande groepen te bepalen.**
 Bepaal welke data benodigd is om te analyseren of er verschillen zijn tussen bepaalde groepen. 
@@ -100,35 +107,70 @@ Het is daarom van belang om duidelijk afwegingen te maken tussen privacy en het 
     Bijvoorbeeld door hierop te monitoren in de klacht- en bezwarenprocedure. 
 
 4. **Bereken de verschillen in behandeling en/of uitkomsten van het algoritme**.
+Er zijn verschillende open source softwarepakketten die je hierbij kunnen ondersteunen, zoals [fairlearn](https://fairlearn.org/), [Aequitas](https://github.com/dssg/aequitas), [fairml](https://cran.r-project.org/web/packages/fairml/index.html), [fairness](https://cran.r-project.org/web/packages/fairness/index.html) of [AI Fairness 360](https://aif360.res.ibm.com/).
 
-5. **Indien er een significante verschil in behandeling is geconstateerd, voer een oorzaakanalyse uit**.
+5. **Voer een oorzaakanalyse uit indien er een significant onderscheid is geconstateerd**.
+Als er in de vorige stap een significant onderscheid is geconstateerd, is het belangrijk om na te gaan hoe dit onderscheid is ontstaan. 
+Dit kan bijvoorbeeld ontstaan door:
+    - een vorm van bias in de onderliggende inputdata. Je kan hierbij denken aan: 
+        - historische bias: in hoeverre beschrijft de data de huidige situatie? Kan het zo zijn dat 
+        - representatie bias: is de data waarop getraind wordt representatief voor de bijbehorende populatie? Zijn trends uit de gebruikte data generaliseerbaar naar de totale populatie?
+        - meetbias: beschrijven de inputvariabelen wel wat ze moeten beschrijven? In hoeverre zijn dit benaderingen waarbij eventuele factoren worden weggelaten?
+    - een vorm van bias in het proces na afloop van het algoritme
+        - is er sprake van automatiseringsbias of bevestigingsbias in de (handmatige) beoordeling?
 
-6. **Documenteer en onderbouw de gemaakte keuzes en onderliggende afwegingen**.
-Evalueer en pas deze keuzes en afwegingen waar nodig aan.
+:material-arrow-right: Wanneer duidelijker is hoe de geconstateerde bias is ontstaan, is het goed om te verkennen of er mogelijkheden zijn om dit (in de toekomst) te voorkomen. 
 
-Het doel van een bias toets is toetsen of het gebruik van een algoritme tot onwenselijke en/of onrechtmatige verschillen in de behandeling van individuen en/of groepen leidt. Om deze toets uit te voeren is het nodig om te analyseren of er sprake is van verschillen in behandeling en/of uitkomsten tussen verschillende groepen, om te analyseren of het algoritme onderscheid maakt op basis van beschermde kenmerken. In de laatste stap van de bias toets wordt een rechtvaardigingstoets en een ethische wenselijkheidstoets uitgevoerd.
-
-De bias toets heeft overlap met de maatregelen: kwetsbare groepen, onderbouwing geselecteerde kenmerken (incl. proxy analyse), mensenrechtentoets, accuraatheid, proportionaliteit, subsidiariteit, legitiem doel, noodzakelijkheid.
+Het is belangrijk hier [een brede groep aan belanghebbenden bij te betrekken](../maatregelen/betrek_belanghebbenden.md). 
+De oorzaken van bias komen uit de 'echte wereld', waarbij patronen in datasets historische, demografische en sociale verschillen weerspiegielen. 
+Het verklaren en voorkomen van bias vraagt daarmee niet alleen om technische oplossingen, maar het is belangrijk de hele socio-technische omgeving waarin het algoritme wordt ingezet mee te nemen. 
 
 ### Stap 2: Voer een rechtvaardigingstoets uit
+Wanneer er in [Stap 1](#stap-1-analyseer-of-er-sprake-is-van-bias) is geconstateerd dat er sprake is van een onderscheid, dient de volgende vraag beantwoord te worden:
+
+> Valt dit onderscheid te rechtvaardigen?
+
+Een geconstateerd systematisch onderscheid is niet altijd fout en is niet altijd verboden, maar het vraagt wel altijd om aandacht en zorgvuldigheid. 
+Het geconstateerde onderscheid kan in bepaalde situaties en onder bepaalde strikte voorwaarden gerechtvaardigd zijn:
+
+- Voor **direct onderscheid** kan er bijvoorbeeld sprake zijn van een wettelijke uitzondering die het gemaakte onderscheid toelaat. 
+- Voor **indirect onderscheid** geldt dat behalve een wettelijke uitzondering er ook een **objectieve rechtvaardiging** kan bestaan, waarmee het geconstateerde onderscheid in bepaalde gevallen toelaatbaar kan zijn. 
+
+Twee subvragen die hierbij beantwoord moeten worden zijn:
+
+- streeft het ingezette risicoprofiel een legitiem doel na?
+- bestaat er een redelijke relatie van evenredigheid tussen het gebruikte algoritme en de nagestreefde doelstelling?
+
+Wanneer er geen rechtvaardiging is voor het gemaakte onderscheid, spreken we van een verboden direct of indirect onderscheid, ofwel discriminatie. 
+Het algoritme of AI-systeem mag in dat geval niet gebruikt worden.
+
+Voor meer toelichting over het uitvoeren van een rechtvaardigingstoets, verwijzen we naar het rapport [Discriminatie door risicoprofielen - Een mensenrechtelijk toetsingskader](https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dce) van het College voor de Rechten van de Mens. 
 
 ### Stap 3: Voer een ethische wenselijkheidstoets uit
+Bepaal of het geconstateerde onderscheid uit [Stap 1](#stap-1-analyseer-of-er-sprake-is-van-bias) ethisch wenselijk is. 
 
+In sommige gevallen kan het zo zijn dat ondanks dat er een objectieve rechtvaardiging bestaat voor het gemaakte onderscheid, dit vanuit ethisch perspectief toch onwenselijk is. 
+Bepaal [met een grote groep belanghebbenden](../maatregelen/betrek_belanghebbenden.md) wat eventuele (nadelige) effecten van het gemaakte onderscheid kunnen zijn, of jullie dit eerlijk vinden en of er eventuele alternatieven zijn. 
 
 ## Bijbehorende vereiste(n)
 
 <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
-
+Wanneer er geen zorgvuldige analyse naar (onwenselijke) bias is uitgevoerd, bestaat het risico dat het gebruik van het algoritme discriminerende effecten met zich meebrengt. 
+Dit kan leiden tot een ongelijke behandeling van burgers met eventuele schade voor betrokkenen.
 
 ## Bronnen
 | Bron                                                                                                                                                                     |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Toetsingskader Algoritmes Algemene Rekenkamer, 2.01](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) |
-| [Impact Assessment Mensenrechten en Algoritmes, 1](https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes)          |
-| [Onderzoekskader Algoritmes Auditdienst Rijk, DM.1](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)                    |
+| [Toetsingskader Algoritmes Algemene Rekenkamer, 2.19, 3.08](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) |
+| [Onderzoekskader Algoritmes Auditdienst Rijk, DM.16, DM.17, DM.18, DM.20, DM.21, DM.22](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)                    |
+| [Discriminatie door risicoprofielen - Een mensenrechtelijk toetsingskader, College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dc) |
+| [Handreiking non-discriminatie by design](https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design) |
 
-## Voorbeeld
-
-Heb jij een goed voorbeeld? Laat het ons weten!
+## Voorbeelden
+- [Addendum Vooringenomenheid voorkomen, Algorithm Audit](https://algorithmaudit.eu/nl/algoprudence/cases/aa202402_preventing-prejudice_addendum/) met bijbehorende data en broncode op [Github](https://github.com/NGO-Algorithm-Audit/DUO-CUB)
+- [Onderzoek misbruik uitwonendenbeurs, PricewaterhouseCoopers](https://www.rijksoverheid.nl/documenten/rapporten/2024/03/01/eindrapport-pwc-rapportage-onderzoek-misbruik-uitwonendenbeurs)
+- [Pilot Slimme Check, Gemeente Amsterdam](https://openresearch.amsterdam/nl/page/105057/eindevaluatie-pilot-slimme-check---bias-analyse-eindrapport)
+- [Bias toetsing 'Kort Verblijf Visa' aanvragen, Rijks ICT Gilde](https://www.rijksoverheid.nl/documenten/publicaties/2023/04/01/bias-toetsing-kort-verblijf-visa-aanvragen)
+- [Report on Algorithmic bias assesment, SigmaRed](https://www.rijksoverheid.nl/documenten/rapporten/2024/02/07/sigmared-report-on-algorithmic-bias-assessment)

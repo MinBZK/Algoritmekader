@@ -13,10 +13,8 @@ levenscyclus:
 - dataverkenning-en-datapreparatie
 - ontwikkelen
 - verificatie-en-validatie
-- verboden_toepassingen_evaluatie_of_classificatie_natuurlijke_personen_of_groepen_personen
 # vul hier de bouwblokken in die horen bij deze maatregel
-bouwblok: 
-- conformiteitsbeoordeling
+onderwerp: 
 - data
 - fundamentele-rechten
 ---

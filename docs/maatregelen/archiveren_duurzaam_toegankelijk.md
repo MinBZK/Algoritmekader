@@ -5,7 +5,7 @@ vereiste:
 - archiefwet
 levenscyclus:
 - ontwikkelen
-bouwblok:
+onderwerp:
 - governance
 rollen:
 - proceseigenaar

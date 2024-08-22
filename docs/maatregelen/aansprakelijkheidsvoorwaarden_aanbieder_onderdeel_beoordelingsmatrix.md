@@ -6,7 +6,7 @@ vereiste:
 levenscyclus:
 - probleemanalyse
 - implementatie
-bouwblok:
+onderwerp:
 - publieke-inkoop
 rollen:
 - proceseigenaar

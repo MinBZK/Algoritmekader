@@ -1,5 +1,7 @@
 ---
 title: Maatregelen
+hide:
+  - navigation
 ---
 
 De maatregelen die zijn opgenomen in het Algoritmekader geven aan 'hoe' overheidsorganisaties invulling _kunnen_ geven aan specifieke vereisten.
@@ -21,7 +23,9 @@ Om tot een overzicht van de maatregelen te komen is naar een aantal waardevolle 
 Het [Toetsingskader Algoritmes](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) van de Algemene Rekenkamer en het [Onderzoekskader algoritmes](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)van de Auditdienst Rijk zijn daar goede voorbeelden van.
 Daarnaast is ook de kennis van experts binnen en buiten het team Algoritmekader toegevoegd om te kunnen duiden welke maatregelen in de praktijk kunnen worden getroffen om te voldoen aan de vereisten.
 
+
 ## Standaarden
+
 
 Op nationaal, Europees en internationaal niveau wordt momenteel gewerkt aan de totstandkoming van standaarden.
 Deze standaarden worden opgesteld door gespecialiseerde organisaties (NEN, JTC21 en ISO) en ondergaan een uitgebreid proces.

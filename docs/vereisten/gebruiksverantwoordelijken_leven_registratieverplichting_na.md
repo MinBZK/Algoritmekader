@@ -6,7 +6,7 @@ status_vereiste:
 levenscyclus:
 - implementatie
 - monitoring-en-beheer
-bouwblok:
+onderwerp:
 - transparantie
 - governance
 hide:
@@ -53,6 +53,6 @@ Zonder registratie van het hoge risico AI-systeem en het registreren welke organ
 === "Allen"
 	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_leven_registratieverplichting_na -->
 === "Governance"
-	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_leven_registratieverplichting_na boubwlok/governance -->
+	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_leven_registratieverplichting_na onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_leven_registratieverplichting_na bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_leven_registratieverplichting_na onderwerp/publieke-inkoop -->

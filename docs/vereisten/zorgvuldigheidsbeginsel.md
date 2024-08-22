@@ -12,7 +12,7 @@ levenscyclus:
 - implementatie
 - monitoring-en-beheer
 - uitfaseren
-bouwblok: 
+onderwerp: 
 - governance
 rekenregels: 
 - niet-impactvol: Ja
@@ -81,6 +81,6 @@ Hierdoor kunnen ongewenste gevolgen ontstaan zoals een onjuist of onzorgvuldig g
 === "Allen"
 	<!-- list_maatregelen vereiste/zorgvuldigheidsbeginsel -->
 === "Governance"
-	<!-- list_maatregelen vereiste/zorgvuldigheidsbeginsel boubwlok/governance -->
+	<!-- list_maatregelen vereiste/zorgvuldigheidsbeginsel onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/zorgvuldigheidsbeginsel bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/zorgvuldigheidsbeginsel onderwerp/publieke-inkoop -->

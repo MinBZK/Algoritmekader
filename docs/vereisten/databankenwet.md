@@ -6,7 +6,7 @@ status_vereiste:
 levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
-bouwblok:
+onderwerp:
 - data
 hide:
 - navigation
@@ -52,6 +52,6 @@ Als een ontwikkelaar onbevoegd gebruik heeft gemaakt van data uit een databank b
 === "Allen"
 	<!-- list_maatregelen vereiste/databankenwet -->
 === "Governance"
-	<!-- list_maatregelen vereiste/databankenwet boubwlok/governance -->
+	<!-- list_maatregelen vereiste/databankenwet onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/databankenwet bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/databankenwet onderwerp/publieke-inkoop -->

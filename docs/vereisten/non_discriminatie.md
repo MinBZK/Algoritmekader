@@ -10,8 +10,9 @@ levenscyclus:
 - verificatie-en-validatie
 - implementatie
 - monitoring-en-beheer
-bouwblok: 
+onderwerp: 
 - fundamentele-rechten
+- bias-en-non-discriminatie
 rekenregels: 
 - niet-impactvol: Ja
 - impactvol: Ja
@@ -82,6 +83,6 @@ Het risico bestaat dat het model onwenselijke systematische afwijkingen creëert
 === "Allen"
 	<!-- list_maatregelen vereiste/non_discriminatie -->
 === "Governance"
-	<!-- list_maatregelen vereiste/non_discriminatie boubwlok/governance -->
+	<!-- list_maatregelen vereiste/non_discriminatie onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/non_discriminatie bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/non_discriminatie onderwerp/publieke-inkoop -->

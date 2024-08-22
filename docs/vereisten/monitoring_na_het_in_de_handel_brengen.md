@@ -5,7 +5,7 @@ status_vereiste:
 - nog-niet-geldend
 levenscyclus:
 - monitoring-en-beheer
-bouwblok:
+onderwerp:
 - privacy-en-gegevensbescherming
 hide:
 - navigation
@@ -50,6 +50,6 @@ Een aanbieder kan niet nagaan of een AI-systeem blijvend voldoet aan voorschrift
 === "Allen"
 	<!-- list_maatregelen vereiste/monitoring_na_het_in_de_handel_brengen -->
 === "Governance"
-	<!-- list_maatregelen vereiste/monitoring_na_het_in_de_handel_brengen boubwlok/governance -->
+	<!-- list_maatregelen vereiste/monitoring_na_het_in_de_handel_brengen onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/monitoring_na_het_in_de_handel_brengen bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/monitoring_na_het_in_de_handel_brengen onderwerp/publieke-inkoop -->

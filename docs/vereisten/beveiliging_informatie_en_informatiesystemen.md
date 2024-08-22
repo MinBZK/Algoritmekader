@@ -10,7 +10,7 @@ levenscyclus:
 - dataverkenning-en-datapreparatie
 - verificatie-en-validatie
 - uitfaseren 
-bouwblok: 
+onderwerp: 
 - technische-robuustheid-en-veiligheid
 rekenregels: 
 - niet-impactvol: ja
@@ -77,6 +77,6 @@ Er kunnen risico's ontstaan zoals ongeautoriseerde toegang, vernietiging, verlie
 === "Allen"
 	<!-- list_maatregelen vereiste/beveiliging_informatie_en_informatiesystemen -->
 === "Governance"
-	<!-- list_maatregelen vereiste/beveiliging_informatie_en_informatiesystemen boubwlok/governance -->
+	<!-- list_maatregelen vereiste/beveiliging_informatie_en_informatiesystemen onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/beveiliging_informatie_en_informatiesystemen bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/beveiliging_informatie_en_informatiesystemen onderwerp/publieke-inkoop -->

@@ -7,7 +7,7 @@ levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
 - ontwikkelen
-bouwblok:
+onderwerp:
 - privacy-en-gegevensbescherming
 hide:
 - navigation
@@ -43,6 +43,6 @@ Het onnodig verwerken van persoonsgegevens kan een inbreuk maken op rechten van 
 === "Allen"
 	<!-- list_maatregelen vereiste/minimale_verwerking_van_persoonsgegevens -->
 === "Governance"
-	<!-- list_maatregelen vereiste/minimale_verwerking_van_persoonsgegevens boubwlok/governance -->
+	<!-- list_maatregelen vereiste/minimale_verwerking_van_persoonsgegevens onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/minimale_verwerking_van_persoonsgegevens bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/minimale_verwerking_van_persoonsgegevens onderwerp/publieke-inkoop -->

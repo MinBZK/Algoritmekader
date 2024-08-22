@@ -31,13 +31,27 @@ vereiste:
 - verstrekking_van_informatie_op_verzoek
 - recht_op_toegang_tot_publieke_informatie
 
+
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 
 - ontwerp
 - ontwikkelen
 # vul hier de bouwblokken in die horen bij deze maatregel
-bouwblok: 
+onderwerp: 
 - publieke-inkoop
+
+# vul hier de rollen in die betrokken zijn bij deze maatregel
+rollen:
+- proceseigenaar
+- behoeftesteller
+- data-scientist
+- ethicus
+- privacy-officer
+- security-officer
+- inkoopadviseur
+- contractbeheerder
+- aanbestedingsjurist
+
 hide:
 - navigation
 ---
@@ -68,3 +82,7 @@ Door de inschrijver/aanbieder bewijs te laten leveren dat deze voldoet aan de ve
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
+
+
+
+  

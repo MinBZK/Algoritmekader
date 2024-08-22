@@ -6,7 +6,7 @@ status_vereiste:
 levenscyclus:
 - implementatie
 - monitoring-en-beheer
-bouwblok:
+onderwerp:
 - governance
 hide:
 - navigation
@@ -49,6 +49,6 @@ Het niet melden van ernstige incidenten kan leiden tot vertraagde reactie op pot
 === "Allen"
 	<!-- list_maatregelen vereiste/melding_ernstige_incidenten -->
 === "Governance"
-	<!-- list_maatregelen vereiste/melding_ernstige_incidenten boubwlok/governance -->
+	<!-- list_maatregelen vereiste/melding_ernstige_incidenten onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/melding_ernstige_incidenten bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/melding_ernstige_incidenten onderwerp/publieke-inkoop -->

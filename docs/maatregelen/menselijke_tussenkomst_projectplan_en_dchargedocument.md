@@ -7,7 +7,7 @@ levenscyclus:
 - probleemanalyse
 - ontwikkelen
 - monitoring-en-beheer
-bouwblok:
+onderwerp:
 - governance
 - publieke-inkoop
 rollen:

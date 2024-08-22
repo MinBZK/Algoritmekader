@@ -6,7 +6,7 @@ vereiste:
 levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
-bouwblok:
+onderwerp:
 - data
 rollen:
 - proceseigenaar

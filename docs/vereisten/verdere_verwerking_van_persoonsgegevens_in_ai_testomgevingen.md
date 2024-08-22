@@ -6,7 +6,7 @@ status_vereiste:
 levenscyclus:
 - ontwikkelen
 - dataverkenning-en-datapreparatie
-bouwblok:
+onderwerp:
 - privacy-en-gegevensbescherming
 - data
 hide:
@@ -44,6 +44,6 @@ Verdere verwerking van persoonsgegevens buiten een AI-testomgeving vergroot de k
 === "Allen"
 	<!-- list_maatregelen vereiste/verdere_verwerking_van_persoonsgegevens_in_ai_testomgevingen -->
 === "Governance"
-	<!-- list_maatregelen vereiste/verdere_verwerking_van_persoonsgegevens_in_ai_testomgevingen boubwlok/governance -->
+	<!-- list_maatregelen vereiste/verdere_verwerking_van_persoonsgegevens_in_ai_testomgevingen onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/verdere_verwerking_van_persoonsgegevens_in_ai_testomgevingen bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/verdere_verwerking_van_persoonsgegevens_in_ai_testomgevingen onderwerp/publieke-inkoop -->

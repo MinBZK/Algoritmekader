@@ -10,7 +10,7 @@ levenscyclus:
 - verificatie-en-validatie
 - implementatie
 - monitoring-en-beheer
-bouwblok:
+onderwerp:
 - transparantie
 hide:
 - navigation
@@ -54,6 +54,6 @@ Zonder het openbaren van overheidsinformatie kan de overheid niet effectief word
 === "Allen"
 	<!-- list_maatregelen vereiste/recht_op_toegang_tot_publieke_informatie -->
 === "Governance"
-	<!-- list_maatregelen vereiste/recht_op_toegang_tot_publieke_informatie boubwlok/governance -->
+	<!-- list_maatregelen vereiste/recht_op_toegang_tot_publieke_informatie onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/recht_op_toegang_tot_publieke_informatie bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/recht_op_toegang_tot_publieke_informatie onderwerp/publieke-inkoop -->

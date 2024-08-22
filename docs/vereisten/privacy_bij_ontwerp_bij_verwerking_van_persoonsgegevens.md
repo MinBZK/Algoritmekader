@@ -8,7 +8,7 @@ levenscyclus:
 - dataverkenning-en-datapreparatie
 - ontwikkelen
 - implementatie
-bouwblok:
+onderwerp:
 - privacy-en-gegevensbescherming
 - data
 hide:
@@ -34,6 +34,7 @@ Dit is eveneens van toepassing als persoonsgegevens worden verwerkt bij het ontw
 | Bron                        |
 |-----------------------------|
 |Artikel 25 AVG|
+| [Toetsingskader Algoritmes Algemene Rekenkamer, 3.06](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) |
 
 ## Wanneer van toepassing?
 
@@ -48,6 +49,6 @@ Door privacy en gegevensbescherming door ontwerp en standaardinstellingen niet t
 === "Allen"
 	<!-- list_maatregelen vereiste/privacy_bij_ontwerp_bij_verwerking_van_persoonsgegevens -->
 === "Governance"
-	<!-- list_maatregelen vereiste/privacy_bij_ontwerp_bij_verwerking_van_persoonsgegevens boubwlok/governance -->
+	<!-- list_maatregelen vereiste/privacy_bij_ontwerp_bij_verwerking_van_persoonsgegevens onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/privacy_bij_ontwerp_bij_verwerking_van_persoonsgegevens bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/privacy_bij_ontwerp_bij_verwerking_van_persoonsgegevens onderwerp/publieke-inkoop -->

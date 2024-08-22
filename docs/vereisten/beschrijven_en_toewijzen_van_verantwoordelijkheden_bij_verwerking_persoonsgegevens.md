@@ -9,7 +9,7 @@ levenscyclus:
 - ontwikkelen
 - monitoring-en-beheer
 - uitfaseren
-bouwblok: 
+onderwerp: 
 - governance
 - privacy-en-gegevensbescherming
 rekenregels: 
@@ -71,15 +71,11 @@ Deze maatregelen zijn essentieel om de naleving van regelgeving met betrekking t
 Door rollen en verantwoordelijkheden rondom de verwerking van persoonsgegevens niet te duiden en te beleggen, ontstaat het risico dat persoonsgegevens onrechtmatig on onveilig worden verwerkt.
 
 
-## Normen 
-
-In afwachting van het standaardisatieproces. 
-
 ## Maatregelen 
 
 === "Allen"
 	<!-- list_maatregelen vereiste/beschrijven_en_toewijzen_van_verantwoordelijkheden_bij_verwerking_persoonsgegevens -->
 === "Governance"
-	<!-- list_maatregelen vereiste/beschrijven_en_toewijzen_van_verantwoordelijkheden_bij_verwerking_persoonsgegevens boubwlok/governance -->
+	<!-- list_maatregelen vereiste/beschrijven_en_toewijzen_van_verantwoordelijkheden_bij_verwerking_persoonsgegevens onderwerp/governance -->
 === "Publieke inkoop"
-	<!-- list_maatregelen vereiste/beschrijven_en_toewijzen_van_verantwoordelijkheden_bij_verwerking_persoonsgegevens bouwblok/publieke-inkoop -->
+	<!-- list_maatregelen vereiste/beschrijven_en_toewijzen_van_verantwoordelijkheden_bij_verwerking_persoonsgegevens onderwerp/publieke-inkoop -->

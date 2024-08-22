@@ -37,8 +37,8 @@ Nadat een volwassenheidsniveau van de AI-governance is vastgesteld kunnen hier c
 
 ## Acties/vragen:
 *	Breng in kaart wat er al is m.b.t. IT-governance met één van de volwassenheidsmodellen.
--	Is de organisatie volwassen? Vallen AI en algoritmes al ergens onder? 
--	Breng deze informatie naar je bestuur met het verzoek duidelijkheid te krijgen hoe AI-governance belegt zou moeten worden. (De AI-verordening vraagt om belegde verantwoordelijkheden m.b.t. AI en algoritmes.)
+    -	Is de organisatie volwassen? Vallen AI en algoritmes al ergens onder? 
+    -	Breng deze informatie naar je bestuur met het verzoek duidelijkheid te krijgen hoe AI-governance belegt zou moeten worden. (De AI-verordening vraagt om belegde verantwoordelijkheden m.b.t. AI en algoritmes.)
 *	Er is verschil in datageletterdheid van ambtenaren. Benodigde skills en expertise (die mogelijk ontbreken) is van belang bij het invullen van rollen en verantwoordelijkheden.
 
  

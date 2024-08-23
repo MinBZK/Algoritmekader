@@ -1,4 +1,4 @@
-/* Existing CSS for fonts, badges, and other components */
+/* Bestaande CSS voor fonts, badges en andere componenten */
 @font-face {
   font-family: "ROsanswebtextregular";
   src: url("fonts/ROsanswebtextregular.woff") format('truetype');
@@ -26,6 +26,7 @@
 
 .mdx-badge a {
   color: var(--md-accent-fg-color);
+  text-decoration: none;
 }
 
 .md-typeset .grid {
@@ -65,80 +66,88 @@ h1 {
   color: #154273;
 }
 
-/* Basic CSS styling for filters */
+a {
+  color: #154273;
+  text-decoration: underline;
+}
+
+/* Basis CSS-styling voor filters */
 .filter-container {
   display: flex;
   flex-wrap: wrap;
-  gap: 24px; /* Space between filters */
-  margin-bottom: 10px;
+  gap: 16px; /* Ruimte tussen filters */
+  margin-bottom: 16px; /* Ruimte onder de filtercontainer */
 }
 
+/* Algemene stijl voor de filterinvoervelden */
 #filterInput,
 #filterSelect,
 #filterLevenscyclusSelect {
   border: 2px solid #154273;
   border-radius: 4px;
   padding: 12px;
-  margin-right: 16px; /* Remove margin as gap is already set */
-  flex: 1; /* Make filters take up equal space */
-  min-width: 200px; /* Minimum width for each filter */
   box-sizing: border-box;
   outline: none;
+  font-size: 16px; /* Tekstgrootte in de invoervelden */
 }
 
+/* Specifieke stijl voor het zoekfilter */
+#filterInput {
+  min-width: 350px; /* Minimale breedte voor het zoekfilter */
+}
+
+/* Focusstijl voor de invoervelden */
 #filterInput:focus,
 #filterSelect:focus,
 #filterLevenscyclusSelect:focus {
   border-color: #1c5ba7;
+  box-shadow: 0 0 4px rgba(28, 91, 167, 0.5); /* Schaduw om focus aan te geven */
 }
 
+/* Stijl voor labels bij de invoervelden */
+.filter-item label {
+  display: block;
+  margin-bottom: 8px; /* Ruimte tussen het label en het invoerveld */
+  font-weight: bold;
+  color: #154273; /* Kleur van het label */
+}
+
+/* Stijlen voor de tabel */
 table {
   width: 100%;
   border-collapse: collapse;
 }
 
-table, th, td {
-  border: 1px solid #ddd;
-}
-
-th, td {
+th {
+  background-color: #E2E8F0; /* Achtergrondkleur van de tabelkop */
+  color: #334155; /* Kleur van de tabelkoptekst */
+  border: none; /* Geen randen */
   padding: 12px;
   text-align: left;
+  font-size: 16px;
 }
 
-th {
-  background-color: #f2f2f2;
-  color: #154273;
+td {
+  padding: 12px;
+  text-align: left;
+  border: none; /* Geen randen */
 }
 
-tbody tr:nth-child(even) {
-  background-color: #f9f9f9;
-}
-
-tbody tr:hover {
-  background-color: #f1f1f1;
+tr {
+  border-bottom: 1px solid #B9C7D5; /* Ondergrens van de rijen */
+  font-size: 16px;
 }
 
 tbody tr td a {
   color: #154273;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 tbody tr td a:hover {
   text-decoration: underline;
 }
 
-:root {
-  --md-admonition-icon--simple: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58 13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42Z"/></svg>');
-  --md-primary-fg-color: #154273;
-  --md-primary-fg-color--light: #B9D6EC;
-  --md-primary-fg-color--dark: #154273;
-  --md-text-font: "ROsanswebtextregular";
-  --md-text-font-size: 1.125rem;
-  --md-text-font-color: #154273;
-}
-
-/* Styles for the top navigation */
+/* Stijlen voor de navigatiebalk */
 .md-nav.md-nav--top {
   list-style: none;
   margin: 0;
@@ -168,7 +177,7 @@ tbody tr td a:hover {
   margin-top: 0;
 }
 
-/* Dropdown Menu Styles for Top Navigation */
+/* Dropdown-menu-stijlen voor bovenste navigatie */
 .md-nav.md-nav--top .md-nav__dropdown {
   display: none;
   position: absolute;
@@ -179,7 +188,7 @@ tbody tr td a:hover {
   list-style: none;
   margin: 0;
   padding: 0;
-  z-index: 1000; /* Ensure dropdown is above other content */
+  z-index: 1000; /* Zorgt ervoor dat dropdown boven andere inhoud staat */
 }
 
 .md-nav.md-nav--top .md-nav__dropdown-item {
@@ -197,22 +206,23 @@ tbody tr td a:hover {
   background: #f0f0f0;
 }
 
-/* Show dropdown on hover for top navigation */
+/* Toon dropdown bij hover voor bovenste navigatie */
 .md-nav.md-nav--top .md-nav__item:hover .md-nav__dropdown {
   display: block;
 }
-/* Active State for Top Navigation */
+
+/* Actieve staat voor bovenste navigatie */
 .md-nav.md-nav--top .md-nav__item--active > .md-nav__link,
 .md-nav.md-nav--top .md-nav__dropdown-item--active > .md-nav__dropdown-link {
     background-color: white;
-    color: #007bc7; /* Active link color */
+    color: #007bc7; /* Actieve linkkleur */
 }
 
-/* Ensure links are styled correctly when active */
+/* Zorg ervoor dat links correct gestileerd zijn wanneer actief */
 .md-nav.md-nav--top .md-nav__link--active,
 .md-nav.md-nav--top .md-nav__dropdown-link--active {
     background-color: white;
-    color: #007bc7; /* Active link color */
+    color: #007bc7; /* Actieve linkkleur */
 }
 
 .md-nav__link {
@@ -221,16 +231,15 @@ tbody tr td a:hover {
 }
 
 .md-nav__icon {
-  margin-left: 0.5rem; /* Space between text and icon */
-  font-size: 1.2rem; /* Adjust the size of the icon */
-  vertical-align: middle; /* Align the icon with the text */
+  margin-left: 0.5rem; /* Ruimte tussen tekst en icoon */
+  font-size: 1.2rem; /* Pas de grootte van het icoon aan */
+  vertical-align: middle; /* Icoon uitlijnen met de tekst */
 }
 
 .md-nav__item--has-children .md-nav__icon {
-  transition: transform 0.3s ease; /* Smooth transition for chevron rotation */
+  transition: transform 0.3s ease; /* Vloeiende overgang voor chevron-rotatie */
 }
 
 .md-nav__item--has-children:hover .md-nav__icon {
-  transform: rotate(180deg); /* Rotate chevron on hover (optional) */
+  transform: rotate(180deg); /* Draai chevron bij hover (optioneel) */
 }
-

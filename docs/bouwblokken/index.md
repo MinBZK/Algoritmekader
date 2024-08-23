@@ -11,16 +11,16 @@ Hier vindt u belangrijke thema’s die ons helpen om transparante, veilige en ee
 
 <div class="grid cards" markdown>
 
-- [:material-scale-balance: Fundamentele rechten](../bouwblokken/fundamentele-rechten/index.md)
-- [:fontawesome-solid-cart-shopping: Publieke inkoop](../bouwblokken/publieke-inkoop/index.md)
-- [:material-incognito: Privacy en gegevensbescherming](../bouwblokken/privacy-en-gegevensbescherming/index.md)
-- [:fontawesome-solid-magnifying-glass: Transparantie](../bouwblokken/transparantie/index.md)
-- [:material-scale-unbalanced: Bias en non-discriminatie](../bouwblokken/bias-en-non-discriminatie/index.md)
-- [:material-database: Data](../bouwblokken/data/index.md)
-- [:material-leaf: Duurzaamheid](../bouwblokken/duurzaamheid/index.md)
-- [:material-gavel: Governance](../governance/index.md)
-- [:material-eye-check: Menselijke controle](../bouwblokken/menselijke-controle/index.md)
-- [:material-server-security: Technische robuustheid en veiligheid](../bouwblokken/technische-robuustheid-en-veiligheid/index.md)
+- [:material-scale-balance: Fundamentele rechten](../bouwblokken/fundamentele-rechten/)
+- [:fontawesome-solid-cart-shopping: Publieke inkoop](../bouwblokken/publieke-inkoop/)
+- [:material-incognito: Privacy en gegevensbescherming](../bouwblokken/privacy-en-gegevensbescherming/)
+- [:fontawesome-solid-magnifying-glass: Transparantie](../bouwblokken/transparantie/)
+- [:material-scale-unbalanced: Bias en non-discriminatie](../bouwblokken/bias-en-non-discriminatie/i)
+- [:material-database: Data](../bouwblokken/data/)
+- [:material-leaf: Duurzaamheid](../bouwblokken/duurzaamheid/)
+- [:material-gavel: Governance](../governance/)
+- [:material-eye-check: Menselijke controle](../bouwblokken/menselijke-controle/)
+- [:material-server-security: Technische robuustheid en veiligheid](../bouwblokken/technische-robuustheid-en-veiligheid/)
 
 </div>
 

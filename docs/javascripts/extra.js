@@ -8,10 +8,10 @@ function filterTable() {
     var table = document.getElementById("myTable");
     var tr = table ? table.getElementsByTagName("tr") : [];
 
-    for (var i = 0; i < tr.length; i++) {
+    for (var i = 1; i < tr.length; i++) { // Start at 1 to skip the header row
         var td = tr[i].getElementsByTagName("td")[0];
-        var roles = tr[i].getElementsByTagName("td")[2];
-        var lc = tr[i].getElementsByTagName("td")[3];
+        var roles = tr[i].getElementsByTagName("td")[1];
+        var lc = tr[i].getElementsByTagName("td")[2];
 
         if (td && roles && lc) {
             var txtValue = td.textContent || td.innerText;
@@ -28,11 +28,9 @@ function filterTable() {
         }
     }
 }
-
 document.addEventListener('DOMContentLoaded', function() {
     function setActiveLink() {
         var currentUrl = window.location.pathname;
-        console.log('Current URL:', currentUrl); // Debugging
 
         // Remove existing active classes
         document.querySelectorAll('.md-nav__item--active, .md-nav__link--active, .md-nav__dropdown-item--active, .md-nav__dropdown-link--active').forEach(function(el) {
@@ -88,9 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
     document.querySelectorAll('.md-nav__link, .md-nav__dropdown-link').forEach(function(link) {
         link.addEventListener('click', function() {
             // Use requestAnimationFrame to ensure update happens after DOM update
-            requestAnimationFrame(() => {
-                setActiveLink();
-            });
+            requestAnimationFrame(setActiveLink);
         });
     });
 });

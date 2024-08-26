@@ -131,14 +131,18 @@ extra:
 
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/filters.css
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
+  - https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css  # Alternatief CDN voor Select2 CSS
+
 
 extra_javascript:
+  - https://code.jquery.com/jquery-3.6.0.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js  # Alternatieve CDN voor Select2
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - javascripts/tablesort.js
   - javascripts/extra.js
-  - javascripts/extra.js
-  
+
 plugins:
     - glightbox
     - search

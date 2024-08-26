@@ -9,7 +9,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
     def generate_filters(content_type: str, list: List[File], filter_options: Dict[str, bool]):
         filters = []
 
-        filters.append('<div class="filter-container">')  # Zorg ervoor dat je deze regel hebt toegevoegd
+        filters.append('<div class="filter-container">')  # Ensure this line is added
         
         if filter_options.get("search", True):
             filters.append('<div class="filter-item">')
@@ -24,8 +24,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
             if rollen:  # Only show filter if there are roles to filter by
                 filters.append('<div class="filter-item">')
                 filters.append('<label for="filterSelect">Rollen</label>')
-                filters.append('<select id="filterSelect" onchange="filterTable()">')
-                filters.append('<option value="">Filter op rol</option>')
+                filters.append('<select id="filterSelect" class="js-example-basic-multiple" name="states[]" multiple="multiple" onchange="filterTable()" data-placeholder="Selecteer 1 of meerdere rollen">')
                 filters.extend(f'<option value="{rol}">{rol}</option>' for rol in rollen)
                 filters.append('</select>')
                 filters.append('</div>')
@@ -36,9 +35,8 @@ def on_env(env, config: MkDocsConfig, files: Files):
             )
             if levenscyclus:  # Only show filter if there are lifecycle stages to filter by
                 filters.append('<div class="filter-item">')
-                filters.append('<label for="filterLevenscyclusSelect">Levenscyclus:</label>')
-                filters.append('<select id="filterLevenscyclusSelect" onchange="filterTable()">')
-                filters.append('<option value="">Filter op levenscyclus</option>')
+                filters.append('<label for="filterLevenscyclusSelect">Levenscyclus</label>')
+                filters.append('<select id="filterLevenscyclusSelect" class="js-example-basic-multiple" name="states[]" multiple="multiple" onchange="filterTable()" data-placeholder="Selecteer 1 of meerdere cycli">')
                 filters.extend(f'<option value="{lc}">{lc}</option>' for lc in levenscyclus)
                 filters.append('</select>')
                 filters.append('</div>')
@@ -47,25 +45,21 @@ def on_env(env, config: MkDocsConfig, files: Files):
 
         return "".join(filters)
 
+
     def replace_content(match: Match, content_type: str):
-        # Extract parameters if they exist
         params = match.groups()[0].strip() if match.groups()[0] else ""
-        
-        # Split parameters; handle the case where there might not be any filter criteria
         split_params = params.split() if params else []
         filter_criteria = split_params[0] if split_params else ""
         filter_tags = split_params[1:] if len(split_params) > 1 else []
 
         type_value_bundle = [y.split("/") for y in filter_criteria.split() if len(y.split("/")) == 2]
 
-        # Default filter options
         filter_options = {
             "search": True,
             "rol": True,
             "levenscyclus": True
         }
 
-        # Parse filter tags to disable specific filters
         for tag in filter_tags:
             if tag.startswith("no-"):
                 filter_name = tag[3:]
@@ -141,8 +135,8 @@ def _create_table_row_1(file: File):
             "</tr>",
         ]
     )
+
 def _create_chip(item: str, link: str, chip_type: str) -> str:
-    # Bepaal de kleur en icoon op basis van het type chip
     if chip_type == 'rol':
         color_class = 'deep-orange'
         icon_svg = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 4a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4Z"></path></svg>'
@@ -163,13 +157,10 @@ def _create_chip(item: str, link: str, chip_type: str) -> str:
         </span>
     '''
 
-### Gewijzigde `_create_table_row_2` Functie
-
 def _create_table_row_2(file: File) -> str:
     rollen = file.page.meta.get('rollen', [])
     levenscyclus = file.page.meta.get('levenscyclus', [])
     
-    # Maak chips voor rollen en levenscyclus
     rollen_chips = ''.join(
         _create_chip(rol, f"../../rollen/{rol}.md", 'rol') for rol in rollen
     )
@@ -186,6 +177,7 @@ def _create_table_row_2(file: File) -> str:
             "</tr>",
         ]
     )
+
 def _resolve(dest_path: str):
     path = posixpath.relpath(dest_path)
     return "/" + posixpath.sep.join(path.split(posixpath.sep)[:-1])

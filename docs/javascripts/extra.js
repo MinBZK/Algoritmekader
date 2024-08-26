@@ -1,10 +1,15 @@
 function filterTable() {
+    console.log("filterTable is aangeroepen");
+    
     var input = document.getElementById("filterInput");
     var filter = input ? input.value.toUpperCase() : "";
+
     var select = document.getElementById("filterSelect");
-    var selectValue = select ? select.value.toUpperCase() : "";
+    var selectedRoles = $(select).val().map(option => option.toUpperCase());
+
     var levenscyclusSelect = document.getElementById("filterLevenscyclusSelect");
-    var levenscyclusValue = levenscyclusSelect ? levenscyclusSelect.value.toUpperCase() : "";
+    var selectedLevenscyclus = $(levenscyclusSelect).val().map(option => option.toUpperCase());
+
     var table = document.getElementById("myTable");
     var tr = table ? table.getElementsByTagName("tr") : [];
 
@@ -18,9 +23,12 @@ function filterTable() {
             var txtValue2 = roles.textContent || roles.innerText;
             var txtValue3 = lc.textContent || lc.innerText;
 
-            if ((txtValue.toUpperCase().indexOf(filter) > -1) &&
-                (selectValue === '' || txtValue2.toUpperCase().indexOf(selectValue) > -1) &&
-                (levenscyclusValue === '' || txtValue3.toUpperCase().indexOf(levenscyclusValue) > -1)) {
+            // Controleer of alle geselecteerde rollen aanwezig zijn
+            var roleMatch = selectedRoles.every(role => txtValue2.toUpperCase().indexOf(role) > -1);
+            // Controleer of alle geselecteerde levenscycli aanwezig zijn
+            var lcMatch = selectedLevenscyclus.every(lc => txtValue3.toUpperCase().indexOf(lc) > -1);
+
+            if (txtValue.toUpperCase().indexOf(filter) > -1 && roleMatch && lcMatch) {
                 tr[i].style.display = "";
             } else {
                 tr[i].style.display = "none";
@@ -28,7 +36,19 @@ function filterTable() {
         }
     }
 }
-document.addEventListener('DOMContentLoaded', function() {
+
+$(document).ready(function() {
+    console.log("jQuery versie:", $.fn.jquery);  // Controleer de geladen jQuery-versie
+    console.log("Select2 beschikbaar:", typeof $.fn.select2 !== 'undefined');  // Controleer of Select2 beschikbaar is
+
+    // Controleer of Select2 geladen is
+    if (typeof $.fn.select2 === 'function') {
+        // Initializeer Select2 voor multi-select elementen
+        $('.js-example-basic-multiple').select2();
+    } else {
+        console.error("Select2 is niet geladen of is niet correct geïnitieerd.");
+    }
+
     function setActiveLink() {
         var currentUrl = window.location.pathname;
 

@@ -71,47 +71,6 @@ a {
   text-decoration: underline;
 }
 
-/* Basis CSS-styling voor filters */
-.filter-container {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 16px; /* Ruimte tussen filters */
-  margin-bottom: 16px; /* Ruimte onder de filtercontainer */
-}
-
-/* Algemene stijl voor de filterinvoervelden */
-#filterInput,
-#filterSelect,
-#filterLevenscyclusSelect {
-  border: 2px solid #154273;
-  border-radius: 4px;
-  padding: 12px;
-  box-sizing: border-box;
-  outline: none;
-  font-size: 16px; /* Tekstgrootte in de invoervelden */
-}
-
-/* Specifieke stijl voor het zoekfilter */
-#filterInput {
-  min-width: 350px; /* Minimale breedte voor het zoekfilter */
-}
-
-/* Focusstijl voor de invoervelden */
-#filterInput:focus,
-#filterSelect:focus,
-#filterLevenscyclusSelect:focus {
-  border-color: #1c5ba7;
-  box-shadow: 0 0 4px rgba(28, 91, 167, 0.5); /* Schaduw om focus aan te geven */
-}
-
-/* Stijl voor labels bij de invoervelden */
-.filter-item label {
-  display: block;
-  margin-bottom: 8px; /* Ruimte tussen het label en het invoerveld */
-  font-weight: bold;
-  color: #154273; /* Kleur van het label */
-}
-
 /* Stijlen voor de tabel */
 table {
   width: 100%;
@@ -125,12 +84,14 @@ th {
   padding: 12px;
   text-align: left;
   font-size: 16px;
+  font-family: "ROsanswebtextregular", sans-serif; /* Custom font */
 }
 
 td {
   padding: 12px;
   text-align: left;
   border: none; /* Geen randen */
+  font-family: "ROsanswebtextregular", sans-serif; /* Custom font */
 }
 
 tr {

@@ -4,7 +4,8 @@ title: Afwegen grondrechten
 # geef hier een korte toelichting van deze maatregel
 toelichting: Afwegen grondrechten
 vereiste:
-- 
+- fundamentele-rechten
+- beoordelen-gevolgen-voor-grondrechten
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus:
 - probleemanalyse
@@ -41,9 +42,6 @@ Zoals vermeld in de [vereiste voor beoordeling van gevolgen voor grondrechten ui
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
-- fundamentele-rechten
-- beoordelen-gevolgen-voor-grondrechten
-
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
 <!-- list_vereisten_on_maatregelen_page -->
 

@@ -4,8 +4,8 @@ title: Afwegen grondrechten
 # geef hier een korte toelichting van deze maatregel
 toelichting: Afwegen grondrechten
 vereiste:
-- fundamentele-rechten
-- beoordelen-gevolgen-voor-grondrechten
+- fundamentele_rechten
+- beoordelen_gevolgen_voor_grondrechten
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus:
 - probleemanalyse

@@ -24,7 +24,7 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-Afwegen grondrechten
+Identificeer welke grondrechten geraakt worden door het in te zetten algoritme en maak een afweging of dit aanvaardbaar is
 
 ## Toelichting 
 <!-- Geef hier een toelichting van deze maatregel -->
@@ -33,12 +33,20 @@ Deze veelvoorkomende grondrechten zijn al behandeld in andere vereisten.
 Er zijn echter ook grondrechten die bij minder algoritmen relevant zijn, maar desalniettemin in die gevallen zeer invloedreik kunnen zijn.
 Een voorbeeld is bijvoorbeeld een algoritme om hate speech te kunnen detecteren. Zo'n algoritme zal van invloed kunnen zijn op de vrijheid van meningsuiting en het recht op informatie.
 
-Het is dus van belang in kaart te brengen welke grondrechten geraakt kunnen worden door de inzet van het algoritme.
-Als dat het geval is, is het allereerst van belang om te controleren of hiervoor specifieke wetgeving is waar de inzet van het algoritme aan moet voldoen.
-Daarnaast is het van belang om de invloed van de inzet van het algoritme op de grondrechten af te wegen tegenover de voordelen van de inzet.
-Daarbij moet afgewogen worden of de inzet noodzakelijk en proportioneel is.
+Doorloop in lijn met Deel 4 van het [Impact Assessment Mensenrechten en Algoritmes](../instrumenten/IAMA.md) de volgende stappen:
+1. Breng in kaart welke grondrechten geraakt kunnen worden door de inzet van het algoritme. Hiervoor kan [bijlage 1 uit het Impact Assessment Mensenrechten en Algoritmes](../instrumenten/IAMA.md) gebruikt worden.
+2. Als dat het geval is, is het allereerst van belang om te controleren of hiervoor specifieke wetgeving is waar de inzet van het algoritme aan moet voldoen.
+3. Bepaal hoe zwaar de geindentificeerde grondrechten worden geraakt door het beoogde algoritme.
+4. Bepaal hoe [doeltreffend/effectief](functioneren_in_lijn_met_doeleinden.md) het algoritme in de praktijk is.
+5. Bepaal of de inzet van het algoritme noodzakelijk is om het [beoogde doel](formuleer_doelstelling.md) te bereiken. Zijn er alternatieven? Of zijn er mitigerende maatregelen die genomen kunnen worden waardoor grondrechten niet of minder worden geraakt en eventuele nadelige gevolgen verzacht kunnen worden?
+6. Gegeven alle voorgaande stappen, bepaal of de inzet van het algoritme en proportioneel is om het [beoogde doel](formuleer_doelstelling.md) te bereiken. Wegen de voordelen op tegen de nadelen?
 
-Zoals vermeld in de [vereiste voor beoordeling van gevolgen voor grondrechten uit de AI-verordening](../vereisten/beoordelen_gevolgen_voor_grondrechten.md) moeten sommige hoog-risico AI-systemen een beoordeling doen van de gevolgen voor grondrechten. Het is nog niet bekend welke vorm dit precies moet hebben.
+Het is van belang voldoende [belanghebbenden te betrekken](betrek_belanghebbenden.md) bij het doorlopen van deze stappen om te zorgen dat alle eventueel nadelige aspecten van het in te zetten algoritme worden meegenomen. 
+Documenteer de doorlopen stappen en leg de keuzes en afwegingen goed vast. 
+
+!!! note "Opmerking"
+
+  Zoals vermeld in de [vereiste voor beoordeling van gevolgen voor grondrechten uit de AI-verordening](../vereisten/beoordelen_gevolgen_voor_grondrechten.md) moeten sommige hoog-risico AI-systemen een beoordeling doen van de gevolgen voor grondrechten. Het is nog niet bekend welke vorm dit precies moet hebben.
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
@@ -47,10 +55,7 @@ Zoals vermeld in de [vereiste voor beoordeling van gevolgen voor grondrechten ui
 
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
-
-| Bron                        |
-|-----------------------------|
-
+[Impact Assessment Mensenrechten en Algoritmes, deel 4](../instrumenten/IAMA.md)
 
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->

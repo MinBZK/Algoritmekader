@@ -34,6 +34,7 @@ Er zijn echter ook grondrechten die bij minder algoritmen relevant zijn, maar de
 Een voorbeeld is bijvoorbeeld een algoritme om hate speech te kunnen detecteren. Zo'n algoritme zal van invloed kunnen zijn op de vrijheid van meningsuiting en het recht op informatie.
 
 Doorloop in lijn met Deel 4 van het [Impact Assessment Mensenrechten en Algoritmes](../instrumenten/IAMA.md) de volgende stappen:
+
 1. Breng in kaart welke grondrechten geraakt kunnen worden door de inzet van het algoritme. Hiervoor kan [bijlage 1 uit het Impact Assessment Mensenrechten en Algoritmes](../instrumenten/IAMA.md) gebruikt worden.
 2. Als dat het geval is, is het allereerst van belang om te controleren of hiervoor specifieke wetgeving is waar de inzet van het algoritme aan moet voldoen.
 3. Bepaal hoe zwaar de geindentificeerde grondrechten worden geraakt door het beoogde algoritme.

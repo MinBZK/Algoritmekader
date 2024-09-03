@@ -36,6 +36,10 @@ Het uitvoeren van een analyse over onwenselijke of onrechtmatige verschillen bes
 
 Voor alle stappen geldt dat het belangrijk is om de gemaakte keuzes en afwegingen zorgvuldig te onderbouwen en te documenteren. De 3 stappen worden hieronder verder toegelicht. 
 
+!!! note "Opmerking" 
+
+    Deze maatregel is in ieder geval van toepassing op natuurlijke personen. Voor andere rechtspersonen zoals bedrijven kan dit ook van toepassing zijn. Denk bijvoorbeeld aan een gelijke behandeling tussen eenmanszaken en grotere bedrijven. 
+
 ### Stap 1: Analyseer of er sprake is van bias
 In deze stap is het doel om te bepalen in welke mate er sprake is van een systematisch verschil in behandeling van bepaalde objecten, mensen of groepen in vergelijking met anderen. 
 Dit verschil kan zowel op een [directe als een indirecte manier](../onderwerpen/bias-en-non-discriminatie/index.md/#bias-in-algoritmische-context) ontstaan. 

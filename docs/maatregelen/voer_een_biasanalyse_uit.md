@@ -143,7 +143,7 @@ Het geconstateerde onderscheid kan in bepaalde situaties en onder bepaalde strik
 
 Twee subvragen die hierbij beantwoord moeten worden zijn:
 
-- streeft het ingezette risicoprofiel een legitiem doel na?
+- streeft het in te zetten algoritme een legitiem doel na?
 - bestaat er een redelijke relatie van evenredigheid tussen het gebruikte algoritme en de nagestreefde doelstelling?
 
 Wanneer er geen rechtvaardiging is voor het gemaakte onderscheid, spreken we van een verboden direct of indirect onderscheid, ofwel discriminatie. 

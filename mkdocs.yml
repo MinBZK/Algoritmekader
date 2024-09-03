@@ -37,6 +37,8 @@ nav:
         - overhetalgoritmekader/index.md
         - overhetalgoritmekader/definities.md
         - overhetalgoritmekader/CONTRIBUTING.md
+    - Beslisboom AI Act:
+        - beslisboomaiact/index.md
     - Governance:
         - governance/index.md
         - governance/governance-structuur.md

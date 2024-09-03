@@ -14,7 +14,9 @@ hide:
         <p>Deze website is in ontwikkeling. Alle versies ontstaan op een open manier. <a href="overhetalgoritmekader/CONTRIBUTING/">Iedereen mag opmerkingen of suggesties geven.</a></p>
       </div>
     </span>
-    <br><a href="overhetalgoritmekader/">Over het Algoritmekader</a></div>
+    <br><a href="overhetalgoritmekader/">Over het Algoritmekader</a>
+    <br /><a href="beslisboom-ai-verordening/">Beslisboom AI-verordening</a>
+</div>
 </div>
 
 <div class="float-container">

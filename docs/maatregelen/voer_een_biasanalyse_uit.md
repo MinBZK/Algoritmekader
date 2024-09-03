@@ -114,7 +114,7 @@ Het is daarom van belang om duidelijk afwegingen te maken tussen privacy en het 
 4. **Bereken de verschillen in behandeling en/of uitkomsten van het algoritme**.
 Er zijn verschillende open source softwarepakketten die je hierbij kunnen ondersteunen, zoals [fairlearn](https://fairlearn.org/), [Aequitas](https://github.com/dssg/aequitas), [fairml](https://cran.r-project.org/web/packages/fairml/index.html), [fairness](https://cran.r-project.org/web/packages/fairness/index.html) of [AI Fairness 360](https://aif360.res.ibm.com/).
 
-5. **Voer een oorzaakanalyse uit indien er een significant onderscheid is geconstateerd**.
+5. **Probeer te verklaren hoe het geconstateerde onderscheid is ontstaan**.
 Als er in de vorige stap een significant onderscheid is geconstateerd, is het belangrijk om na te gaan hoe dit onderscheid is ontstaan. 
 Dit kan bijvoorbeeld ontstaan door:
     - een vorm van bias in de onderliggende inputdata. Je kan hierbij denken aan: 

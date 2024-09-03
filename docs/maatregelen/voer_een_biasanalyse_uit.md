@@ -118,7 +118,7 @@ Er zijn verschillende open source softwarepakketten die je hierbij kunnen onders
 Als er in de vorige stap een significant onderscheid is geconstateerd, is het belangrijk om na te gaan hoe dit onderscheid is ontstaan. 
 Dit kan bijvoorbeeld ontstaan door:
     - een vorm van bias in de onderliggende inputdata. Je kan hierbij denken aan: 
-        - historische bias: in hoeverre beschrijft de data de huidige situatie? Kan het zo zijn dat 
+        - historische bias: in hoeverre beschrijft de data de huidige situatie?
         - representatie bias: is de data waarop getraind wordt representatief voor de bijbehorende populatie? Zijn trends uit de gebruikte data generaliseerbaar naar de totale populatie?
         - meetbias: beschrijven de inputvariabelen wel wat ze moeten beschrijven? In hoeverre zijn dit benaderingen waarbij eventuele factoren worden weggelaten?
     - een vorm van bias in het proces na afloop van het algoritme

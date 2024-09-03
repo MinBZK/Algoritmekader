@@ -104,7 +104,7 @@ Het is daarom van belang om duidelijk afwegingen te maken tussen privacy en het 
 
     Om de data op een veilige en rechtmatige manier te gebruiken voor een biasanalyse dient de data van voldoende kwaliteit te zijn. 
     Denk hier goed na of de data eventuele bias bevat die kan duiden op een bepaalde vooringenomenheid in de biasanalyse zelf (historische bias of representatie bias). 
-    De data dient bijvoorbeeld voldoende actueel en volledig te zijn. Kunnen de groepen zonder het gebruik van onwenselijke proxies bepaald worden? 
+    De data dient bijvoorbeeld voldoende actueel en volledig te zijn.
 
     Voor sommige groepen zal het onmogelijk zijn om te beschikken over data van voldoende kwaliteit om zorgvuldig te toetsen op bias. 
     De laaggeletterdheid van burgers of personen is bijvoorbeeld lastig meetbaar en in veel gevallen niet beschikbaar. 

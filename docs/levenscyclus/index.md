@@ -22,6 +22,66 @@ De levenscyclus helpt je om te bepalen in welke fase jouw product zit en welke b
 7.	[Monitoring en beheer](monitoring-en-beheer.md)
 8.	[Uitfaseren](uitfaseren.md)
 
+
+``` mermaid
+
+  flowchart TD
+      subgraph organisatieniveau [organisatieniveau]
+      0[0. Organisatieverantwoordelijkheden]
+      end
+      subgraph systeemniveau [systeemniveau]
+      0[0. Organisatieverantwoordelijkheden] --> 1[1. Probleemanalyse];
+      7[7. Monitoring en beheer] --> 1[1. Probleemanalyse];
+      1[1. Probleemanalyse] --> 2[2. Ontwerpen];
+      2[2. Ontwerpen] --> 3[3. Dataverkenning en datapreparatie];
+      3[3. Dataverkenning en datapreparatie] --> 4[4. Ontwikkelen];
+      4[4. Ontwikkelen] --> 5[5. Verficatie en validatie];
+      5[5. Verficatie en validatie] --> 6[6. Implementeren];
+      6[6. Implementeren] --> 7[7. Monitoring en beheer];
+      7[7. Monitoring en beheer] -.-> 8[8. Uitfaseren];
+      end 
+
+      click 0 href "organisatieverantwoordelijkheden"
+      click 1 href "probleemanalyse"
+      click 2 href "ontwerp"
+      click 3 href "data-verkenning-en-data-preparatie"
+      click 4 href "ontwikkelen"
+      click 5 href "verificatie en validatie"
+      click 6 href "implementeren"
+      click 7 href "monitoring-en-beheer"
+      click 8 href "uitfaseren"
+
+```
+
+``` mermaid
+
+  flowchart TD
+      subgraph organisatieniveau [organisatieniveau]
+        0[0. Organisatieverantwoordelijkheden] --> 1[1. Probleemanalyse];
+        subgraph systeemniveau [systeemniveau]
+          7[7. Monitoring en beheer] --> 1[1. Probleemanalyse];
+          1[1. Probleemanalyse] --> 2[2. Ontwerpen];
+          2[2. Ontwerpen] --> 3[3. Dataverkenning en datapreparatie];
+          3[3. Dataverkenning en datapreparatie] --> 4[4. Ontwikkelen];
+          4[4. Ontwikkelen] --> 5[5. Verficatie en validatie];
+          5[5. Verficatie en validatie] --> 6[6. Implementeren];
+          6[6. Implementeren] --> 7[7. Monitoring en beheer];
+          7[7. Monitoring en beheer] -.-> 8[8. Uitfaseren];
+        end 
+      end
+
+      click 0 href "organisatieverantwoordelijkheden"
+      click 1 href "probleemanalyse"
+      click 2 href "ontwerp"
+      click 3 href "data-verkenning-en-data-preparatie"
+      click 4 href "ontwikkelen"
+      click 5 href "verificatie en validatie"
+      click 6 href "implementeren"
+      click 7 href "monitoring-en-beheer"
+      click 8 href "uitfaseren"
+
+```
+
 !!! tip "Tip"
 
     In de praktijk herhaal je soms fases of ga je terug naar een eerdere fase. Mislukt bijvoorbeeld het valideren (fase 5), dan moet je terug naar de ontwerpfase (fase 2) omdat het product nog niet voldoet aan de wensen of vereisten.

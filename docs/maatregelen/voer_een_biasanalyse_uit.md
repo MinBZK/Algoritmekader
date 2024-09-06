@@ -78,7 +78,6 @@ Er zijn veel verschillende manieren waarop je kan kijken naar onderscheid bij he
     De belangrijkste vraag die hier mee beantwoord wordt is: hebben personen uit verschillende groepen gelijke kans om geselecteerd te worden door het algoritme? Of is er sprake van een over- of ondervertegenwoording van bepaalde groepen in de selectie ten opzichte van de betreffende populatie?
     - **Onderscheid op basis van gelijke prestaties (fouten)**. 
     De belangrijkste vraag die hier mee beantwoord wordt is: presteert het algoritme gelijk voor personen uit verschillende groepen? Met andere woorden: maakt het algoritme vaker fouten bij bepaalde groepen? Dat kan er eventueel toe leiden dat bepaalde groepen vaker onterecht wel of niet geselecteerd worden door het algoritme. 
-    - **Onderscheid op basis van gelijke calibratie**. 
 
     Om te toetsen of er sprake is van onderscheid op basis van gelijke prestaties, is het noodzakelijk om [de prestaties van het algoritme goed te analyseren](../maatregelen/functioneren_in_lijn_met_doeleinden.md). 
     In het geval van classificatie is het daarvoor nodig om een zogeheten *confusion matrix* op te stellen. 

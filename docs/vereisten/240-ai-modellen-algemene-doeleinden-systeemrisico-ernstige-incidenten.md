@@ -1,8 +1,7 @@
 ---
 title: Aanbieders van AI-modellen voor algemene doeleinden met een systeemrisico houden relevante informatie over ernstige incidenten bij
+index: 240
 toelichting: Aanbieders van AI-modellen voor algemene doeleinden met een systeemrisico moeten relevante informatie over ernstige incidenten en mogelijke corrigerende maatregelen bijhouden, documenteren en onverwijld rapporteren aan het AI bureau en, in voorkomend geval, aan de nationale bevoegde autoriteiten.
-status_vereiste:
-- nog-niet-geldend
 levenscyclus:
 - verificatie-en-validatie
 - implementatie
@@ -27,24 +26,13 @@ Dit vereiste is een aanvulling op de in artikel 53 AI-verordening genoemde verpl
 
 
 ## Bronnen
-
-| Bron                        |
-|-----------------------------|
-|Artikel 55(1c) Verplichtingen voor aanbieders van AI-systemen voor algemene doeleinden met een systeemrisico- AI verordening|
+[Artikel 55(1c) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5730-1-1)
 
 ## Wanneer van toepassing?
 
-
 ## Risico
-
 Niet voldoen aan deze verplichtingen kan leiden tot risico's op veiligheidsincidenten, datalekken en schade aan de betrokken partijen en het publiek.
-
 
 ## Maatregelen
 
-=== "Allen"
-	<!-- list_maatregelen vereiste/ai_modellen_algemene_doeleinden_syteemrisico_informatie_ernstige_incidenten -->
-=== "Governance"
-	<!-- list_maatregelen vereiste/ai_modellen_algemene_doeleinden_syteemrisico_informatie_ernstige_incidenten onderwerp/governance -->
-=== "Publieke inkoop"
-	<!-- list_maatregelen vereiste/ai_modellen_algemene_doeleinden_syteemrisico_informatie_ernstige_incidenten onderwerp/publieke-inkoop -->
+<!-- list_maatregelen vereiste/240-ai-modellen-algemene-doeleinden-systeemrisico-ernstige-incidenten -->

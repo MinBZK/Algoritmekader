@@ -1,8 +1,7 @@
 ---
 title: Veilig melden van inbreuk op AI verordening 
+index: 270
 toelichting: Inbreuken op de AI verordening moeten gemeld kunnen worden en melders moeten dit op een veilige en vertrouwelijke manier kunnen doen, zoals beschreven in Richtlijn (EU) 2019/1937. 
-status_vereiste:
-- nog-niet-geldend
 levenscyclus:
 - ontwerp
 - ontwikkelen
@@ -19,8 +18,6 @@ hide:
 
 Inbreuken op de AI verordening moeten gemeld kunnen worden en melders moeten dit op een veilige en vertrouwelijke manier kunnen doen, zoals beschreven in Richtlijn (EU) 2019/1937.
 
-
-
 ## Toelichting
 
 Personen die optreden als klokkenluiders bij inbreuken op de AI-verordening, moeten worden beschermd uit hoofde van het Unierecht.
@@ -29,10 +26,7 @@ De richtlijn biedt een kader voor het veilig en vertrouwelijk melden van schendi
 Deze richtlijn bevordert transparantie en verantwoording binnen organisaties en draagt bij aan een cultuur van naleving en integriteit.
 
 ## Bronnen
-
-| Bron                        |
-|-----------------------------|
-|Artikel 87 Melding van inbreuken en bescherming van melders- AI verordening|
+[Artikel 87 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e7782-1-1)
 
 ## Wanneer van toepassing?
 
@@ -44,9 +38,4 @@ Gebrek aan een veilige omgeving kan ertoe leiden dat klokkenluiders geen melding
 
 ## Maatregelen
 
-=== "Allen"
-	<!-- list_maatregelen vereiste/recht_op_uitleg_ai_besluiten -->
-=== "Governance"
-	<!-- list_maatregelen vereiste/recht_op_uitleg_ai_besluiten onderwerp/governance -->
-=== "Publieke inkoop"
-	<!-- list_maatregelen vereiste/recht_op_uitleg_ai_besluiten onderwerp/publieke-inkoop -->
+<!-- list_maatregelen vereiste/270-melding-inbreuk-op-ai-verordening -->

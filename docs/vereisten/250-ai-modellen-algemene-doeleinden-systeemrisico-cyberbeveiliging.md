@@ -1,14 +1,11 @@
 ---
 title: Aanbieders van AI-modellen voor algemene doeleinden met een systeemrisico zorgen voor passend niveau van cyberbeveiliging
+index: 250
 toelichting: Aanbieders van AI-modellen voor algemene doeleinden met een systeemrisico zorgen voor een passend niveau van cyberbeveiligingsbescherming voor het AI-model voor algemene doeleinden met een systeemrisico en de fysieke infrastructuur van het model
-status_vereiste:
-- nog-niet-geldend
 levenscyclus:
 - ontwikkelen
-- verificatie-en-validatie
 - implementatie
 - monitoring-en-beheer
-- uitfaseren
 onderwerp:
 - governance
 - technische-robuustheid-en-veiligheid
@@ -19,7 +16,7 @@ hide:
 <!-- tags -->
 ## Vereiste
 
-Aanbieders van AI-modellen voor algemene doeleinden met een systeemrisico zorgen voor een passend niveau van cyberbeveiligingsbescherming voor het AI-model voor algemene doeleinden met een systeemrisico en de fysieke infrastructuur van het model
+Aanbieders van AI-modellen voor algemene doeleinden met een systeemrisico zorgen voor een passend niveau van cyberbeveiligingsbescherming voor het AI-model voor algemene doeleinden met een systeemrisico en de fysieke infrastructuur van het model.
 
 ## Toelichting
 
@@ -30,10 +27,7 @@ Dit vereiste is een aanvulling op de in artikel 53 AI-verordening genoemde verpl
 
 
 ## Bronnen
-
-| Bron                        |
-|-----------------------------|
-|Artikel 55(1d) Verplichtingen voor aanbieders van AI-systemen voor algemene doeleinden met een systeemrisico- AI verordening|
+[Artikel 55(1d) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5730-1-1)
 
 ## Wanneer van toepassing?
 
@@ -45,9 +39,4 @@ Niet voldoen aan deze verplichtingen kan leiden tot risico's op veiligheidsincid
 
 ## Maatregelen
 
-=== "Allen"
-	<!-- list_maatregelen vereiste/ai_modellen_algemene_doeleinden_syteemrisico_cyberbeveiliging -->
-=== "Governance"
-	<!-- list_maatregelen vereiste/ai_modellen_algemene_doeleinden_syteemrisico_cyberbeveiliging onderwerp/governance -->
-=== "Publieke inkoop"
-	<!-- list_maatregelen vereiste/ai_modellen_algemene_doeleinden_syteemrisico_cyberbeveiliging onderwerp/publieke-inkoop -->
+<!-- list_maatregelen vereiste/250-ai-modellen-algemene-doeleinden-systeemrisico-cyberbeveiliging -->

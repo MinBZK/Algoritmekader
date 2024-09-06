@@ -1,8 +1,7 @@
 ---
 title: Verplichtingen van aanbieders van AI-modellen voor algemene doeleinden 
+index: 220
 toelichting: Aanbieders van AI-modellen voor algemene doeleinden moeten (technische) informatie en documentatie opstellen, up-to-date houden en beschikbaar stellen voor aanbieders van AI-systemen die het AI-model voor algemene doeleinden in hun AI-systemen willen integreren. 
-status_vereiste:
-- nog-niet-geldend
 levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
@@ -35,14 +34,10 @@ De aanbieder van het AI-model voor algemene doeleinden dient technische document
 De minimaal in de documentatie op te nemen elementen moeten worden vastgelegd volgens bijlage XII van de AI-Verordening.
 Hierbij is het ook van belang dat de aanbieder van AI-modellen voor algemene doelstelling beleid opstellen voor naleving van auteursrechten en naburige rechten (artikel 4, lid 3 Richtlijn (EU) 2019/790).
 
-In art.
-53 lid 2 wordt een uitzondering gemaakt op deze vereisten.
+In art. 53 lid 2 wordt een uitzondering gemaakt op deze vereisten.
 
 ## Bronnen
-
-| Bron                        |
-|-----------------------------|
-|Artikel 53 AI-Verordening|
+[Artikel 53 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5576-1-1)
 
 ## Wanneer van toepassing?
 
@@ -51,12 +46,6 @@ In art.
 
 Het niet voldoen aan deze verplichtingen kan leiden tot juridische en ethische complicaties, inclusief schendingen van auteursrechten en gebrek aan transparantie in het gebruik van AI-modellen.
 
-
 ## Maatregelen
 
-=== "Allen"
-	<!-- list_maatregelen vereiste/verplichtingen_van_aanbieders_van_ai_modellen_voor_algemene_doeleinden -->
-=== "Governance"
-	<!-- list_maatregelen vereiste/verplichtingen_van_aanbieders_van_ai_modellen_voor_algemene_doeleinden onderwerp/governance -->
-=== "Publieke inkoop"
-	<!-- list_maatregelen vereiste/verplichtingen_van_aanbieders_van_ai_modellen_voor_algemene_doeleinden onderwerp/publieke-inkoop -->
+<!-- list_maatregelen vereiste/220-ai-modellen-algemene-doeleinden -->

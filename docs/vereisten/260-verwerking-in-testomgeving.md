@@ -1,5 +1,6 @@
 ---
 title: Verdere verwerking van persoonsgegevens in AI-testomgevingen 
+index: 260
 toelichting: Rechtmatig voor andere doeleinden verzamelde persoonsgegevens mogen uitsluitend in de AI-testomgeving voor regelgeving worden verwerkt ten behoeve van het ontwikkelen, trainen en testen van bepaalde AI-systemen en indien aan alle voorwaarden van art. 57 is voldaan.
 status_vereiste:
 - nog-niet-geldend
@@ -16,8 +17,7 @@ hide:
 <!-- tags -->
 ## Vereiste
 
-Rechtmatig voor andere doeleinden verzamelde persoonsgegevens mogen uitsluitend in de AI-testomgeving voor regelgeving worden verwerkt ten behoeve van het ontwikkelen, trainen en testen van bepaalde AI-systemen en indien aan alle voorwaarden van art.
-57 is voldaan.
+Rechtmatig voor andere doeleinden verzamelde persoonsgegevens mogen uitsluitend in de AI-testomgeving voor regelgeving worden verwerkt ten behoeve van het ontwikkelen, trainen en testen van bepaalde AI-systemen en indien aan alle voorwaarden van art. 57 is voldaan.
 
 ## Toelichting
 
@@ -26,10 +26,7 @@ Hierbij kan worden gedacht aan voorwaarden als het beschermen van persoonsgevens
 Voor toepassingen voor het verder verwerken van gegevens kan worden gedacht aan het ontwikkelen van een AI-systeem zodat een overheidsinstantie of een andere natuurlijke of rechtspersoon een aanzienlijk openbaar belang kan waarborgen, bijvoorbeeld op het gebied van kwaliteit van milieu, duurzaamheid, openbare veiligheid en gezondheid.
 
 ## Bronnen
-
-| Bron                        |
-|-----------------------------|
-|Artikel 57(1) Verdere verwerking van persoonsgegevens voor het ontwikkelen van bepaalde AI-systemen|
+- [Artikel 57 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5884-1-1)
 
 ## Wanneer van toepassing?
 
@@ -41,9 +38,4 @@ Verdere verwerking van persoonsgegevens buiten een AI-testomgeving vergroot de k
 
 ## Maatregelen
 
-=== "Allen"
-	<!-- list_maatregelen vereiste/verdere_verwerking_van_persoonsgegevens_in_ai_testomgevingen -->
-=== "Governance"
-	<!-- list_maatregelen vereiste/verdere_verwerking_van_persoonsgegevens_in_ai_testomgevingen onderwerp/governance -->
-=== "Publieke inkoop"
-	<!-- list_maatregelen vereiste/verdere_verwerking_van_persoonsgegevens_in_ai_testomgevingen onderwerp/publieke-inkoop -->
+<!-- list_maatregelen vereiste/260-verwerking-in-testomgeving -->

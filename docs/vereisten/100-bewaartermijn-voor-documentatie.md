@@ -34,8 +34,8 @@ Dit waarborgt dat de autoriteiten toegang hebben tot relevante informatie voor c
 
 ## Bronnen 
 
-- [Artikel 18(1) Verordening Artifiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e4013-1-1)
-- [Artikel 16(d) Verordening Artifiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3823-1-1)
+- [Artikel 18(1) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e4013-1-1)
+- [Artikel 16(d) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3823-1-1)
 
 ## Wanneer van toepassing? 
 

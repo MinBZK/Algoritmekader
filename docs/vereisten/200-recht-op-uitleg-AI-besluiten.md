@@ -1,8 +1,7 @@
 ---
 title: Recht op uitleg AI-besluiten 
+index: 200
 toelichting: Elke getroffen persoon op wie een besluit van toepassing is dat door de gebruiksverantwoordelijke wordt genomen op basis van de output van een in bijlage III vermeld AI-systeem met een hoog risico, met uitzondering van systemen die in punt 2 van die bijlage zijn vermeld, en dat rechtsgevolgen heeft voor die persoon, of op deze op vergelijkbare wijze aanzienlijke invloed heeft die hij of zij als nadelige gevolgen voor zijn of haar gezondheid, veiligheid of grondrechten beschouwt, heeft het recht om van de gebruiksverantwoordelijke duidelijke, inhoudelijke toelichting te verkrijgen bij de rol van het AI-systeem in de besluitvormingsprocedure en de voornaamste elementen van het genomen besluit.
-status_vereiste:
-- nog-niet-geldend
 levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
@@ -30,11 +29,9 @@ Dit vereiste geldt bijvoorbeeld niet als het gaat om AI-systemen die bedoeld zij
 
 ## Bronnen
 
-| Bron                        |
-|-----------------------------|
-|Artikel 86(1) Recht op toelichting bij individuele besluitvorming- AI verordening|
-|Artikel 26(11) AI Verordening|
-|Bijlage III AI Verordening|
+- [Artikel 86(1) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e7761-1-1)
+- [Artikel 26(11) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e4350-1-1)
+- [Bijlage III Verordening Artificiële Intelligentie]()
 
 ## Wanneer van toepassing?
 
@@ -46,9 +43,4 @@ Als gebruiksverantwoordelijke geen duidelijke, inhoudelijke toelichting geeft ov
 
 ## Maatregelen
 
-=== "Allen"
-	<!-- list_maatregelen vereiste/Recht_of_uitleg_AI-besluiten -->
-=== "Governance"
-	<!-- list_maatregelen vereiste/Recht_of_uitleg_AI-besluiten onderwerp/governance -->
-=== "Publieke inkoop"
-	<!-- list_maatregelen vereiste/Recht_of_uitleg_AI-besluiten onderwerp/publieke-inkoop -->
+<!-- list_maatregelen vereiste/200-recht-op-uitleg-AI-besluiten -->

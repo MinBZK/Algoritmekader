@@ -34,8 +34,8 @@ Dit systeem omvat gedocumenteerde beleidslijnen, procedures en instructies, en b
 
 ## Bronnen
 
-- [Artikel 17 Verordening Artifiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3906-1-1)
-- [Artikel 16(c) Verordening Artifiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3823-1-1)
+- [Artikel 17 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3906-1-1)
+- [Artikel 16(c) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3823-1-1)
 
 ## Wanneer van toepassing?
 

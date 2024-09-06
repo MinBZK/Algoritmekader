@@ -1,8 +1,7 @@
 ---
 title: Maatregelen van gebruiksverantwoordelijken voor gebruik 
+index: 149
 toelichting: Gebruiksverantwoordelijken van AI-systemen met een hoog risico nemen passende technische en organisatorische maatregelen om te waarborgen dat zij dergelijke systemen gebruiken in overeenstemming met de gebruiksaanwijzingen die bij de systemen zijn gevoegd, in overeenstemming met de leden 3 en 6 van artikel 26 van de AI-verordening.
-status_vereiste:
-- nog-niet-geldend
 levenscyclus:
 - implementatie
 onderwerp:
@@ -24,9 +23,8 @@ De gebruiksverantwoordelijke zorgt ervoor dat de inputdata relevant en voldoende
 
 ## Bronnen
 
-| Bron                        |
-|-----------------------------|
-|Artikel 26 Verplichtingen van gebruiksverantwoordelijken van AI-systemen met een hoog risico- AI verordening|
+[Artikel 26(1) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e4350-1-1)
+
 
 ## Wanneer van toepassing?
 
@@ -38,9 +36,4 @@ Het niet naleven van deze maatregelen kan leiden tot onjuist gebruik van de AI-s
 
 ## Maatregelen
 
-=== "Allen"
-	<!-- list_maatregelen vereiste/maatregelen_van_gebruiksverantwoordelijken_voor_gebruik -->
-=== "Governance"
-	<!-- list_maatregelen vereiste/maatregelen_van_gebruiksverantwoordelijken_voor_gebruik onderwerp/governance -->
-=== "Publieke inkoop"
-	<!-- list_maatregelen vereiste/maatregelen_van_gebruiksverantwoordelijken_voor_gebruik onderwerp/publieke-inkoop -->
+<!-- list_maatregelen vereiste/149-gebruiksverantwoordelijken-maatregelen -->

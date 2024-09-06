@@ -1,8 +1,7 @@
 ---
 title: Gebruiksverantwoordelijken bewaren logs van een hoog risico AI-systeem die automatisch worden gegenereerd
+index: 170
 toelichting: Gebruiksverantwoordelijken van AI-systemen met een hoog risico bewaren de logs die automatisch worden gegenereerd door dat AI-systeem met een hoog risico voor zover dergelijke logs onder hun controle vallen gedurende een periode die passend is voor het beoogde doel van het AI-systeem met een hoog risico, of ten minste zes maanden, tenzij anders is bepaald in het toepasselijke Unie- of nationaal recht, meer in het bijzonder het Unierecht over de bescherming van persoonsgegevens
-status_vereiste:
-- nog-niet-geldend
 levenscyclus:
 - implementatie
 - ontwikkelen
@@ -30,9 +29,7 @@ Gebruiksverantwoordelijken die in de hoedanigheid van financiële instellingen o
 
 ## Bronnen
 
-| Bron                        |
-|-----------------------------|
-|Artikel 26(6) AI Verordening|
+[Artikel 26(6) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e4350-1-1)
 
 ## Wanneer van toepassing?
 
@@ -43,9 +40,4 @@ Het niet of onvoldoende bewaren van logs kan het vermogen belemmeren om incident
 
 ## Maatregelen
 
-=== "Allen"
-	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_bewaren_automatisch_gegenereerde_logs -->
-=== "Governance"
-	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_bewaren_automatisch_gegenereerde_logs onderwerp/governance -->
-=== "Publieke inkoop"
-	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_bewaren_automatisch_gegenereerde_logs onderwerp/publieke-inkoop -->
+<!-- list_maatregelen vereiste/170-gebruiksverantwoordelijken-bewaren-logs -->

@@ -1,8 +1,7 @@
 ---
 title: Beoordeling van grondrechten
+index: 210
 toelichting: Voordat een AI-systeem met een hoog risico als bedoeld in artikel 6, lid 2 AI-verordening, in gebruik wordt genomen, met uitzondering van AI-systemen met een hoog risico die bedoeld zijn om te worden gebruikt op het in punt 2 van bijlage III vermelde gebied, voeren operatoren die publiekrechtelijke instellingen zijn of particuliere entiteiten zijn die openbare diensten verlenen, en operatoren van AI-systemen met een hoog risico als bedoeld in bijlage III, punt 5, onder b) en c), een beoordeling uit van de gevolgen voor de grondrechten die het gebruik van een dergelijk systeem kan opleveren.
-status_vereiste:
-- nog-niet-geldend
 levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
@@ -28,11 +27,9 @@ Het doel is om de bescherming van grondrechten te waarborgen bij het gebruik van
 
 ## Bronnen
 
-| Bron                        |
-|-----------------------------|
-|Artikel 27(1) Beoordeling van de gevolgen voor de grondrechten van AI-systemen met een hoog risico- AI verordening|
-|Artikel 6 lid 2 AI-verordening|
-|Punt 2 en punt 5 bij Bijlage III AI-verordening|
+- [Artikel 27(1) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e4433-1-1)
+- [Artikel 6.2 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e2986-1-1)
+- [Bijlage III.2 en III.5 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e38-127-1)
 
 ## Wanneer van toepassing?
 
@@ -44,13 +41,7 @@ Het niet uitvoeren van deze beoordeling kan leiden tot schendingen van de grondr
 
 ## Maatregelen
 
-=== "Allen"
-	<!-- list_maatregelen vereiste/beoordelen_gevolgen_voor_grondrechten -->
-=== "Governance"
-	<!-- list_maatregelen vereiste/beoordelen_gevolgen_voor_grondrechten onderwerp/governance -->
-=== "Publieke inkoop"
-	<!-- list_maatregelen vereiste/beoordelen_gevolgen_voor_grondrechten onderwerp/publieke-inkoop -->
-
+<!-- list_maatregelen vereiste/210-beoordelen-gevolgen-grondrechten -->
 
 ## Instrumenten
 

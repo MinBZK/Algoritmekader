@@ -1,8 +1,7 @@
 ---
 title: Aanbieders van AI-systemen met een hoog risico voegen een CE-markering toe aan het AI-systeem
+index: 113
 toelichting: Aanbieders van AI-systemen met een hoog risico moeten een CE-markering toevoegen aan het AI-systeem met een hoog risico of, wanneer dit niet mogelijk is, op de verpakking of in de bij het product gevoegde documentatie, om aan te geven dat aan de AI-verordening is voldaan.
-status_vereiste:
-- nog-niet-geldend
 levenscyclus:
 - ontwikkelen
 - verificatie-en-validatie
@@ -28,24 +27,15 @@ De lidstaten mogen het in de handel brengen en het in gebruik stellen van AI-sys
 
 ## Bronnen
 
-| Bron                        |
-|-----------------------------|
-|Artikel 16(h) Verplichtingen van aanbieders van AI-systemen met een hoog risico- AI verordening|
-|Artikel 48 CE-markering - AI verordening|
+- [Artikel 16(h) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3823-1-1)
+- [Artikel 48 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5327-1-1)
 
 ## Wanneer van toepassing?
 
 
 ## Risico
-
 Niet naleven van deze verplichtingen kan leiden tot juridische en operationele problemen, en kan de veiligheid en betrouwbaarheid van het AI-systeem in gevaar brengen.
-
 
 ## Maatregelen
 
-=== "Allen"
-	<!-- list_maatregelen vereiste/CE_markering_hoog_risico -->
-=== "Governance"
-	<!-- list_maatregelen vereiste/CE_markering_hoog_risico onderwerp/governance -->
-=== "Publieke inkoop"
-	<!-- list_maatregelen vereiste/CE_markering_hoog_risico onderwerp/publieke-inkoop -->
+<!-- list_maatregelen vereiste/113-ce-markerking -->

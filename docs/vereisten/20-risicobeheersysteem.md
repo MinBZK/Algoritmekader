@@ -29,7 +29,7 @@ Bij het vaststellen van de passendste risicobeheersmaatregelen moet de aanbieder
 Bij het vaststellen van het redelijkerwijs te voorzien misbruik van AI-systemen met een hoog risico moet de aanbieder aandacht hebben voor het gebruik van AI-systemen waarvan, hoewel zij niet rechtstreeks onder het beoogde doel vallen en niet in de gebruiksinstructies worden vermeld, mag worden verwacht dat zij kunnen voortvloeien uit gemakkelijk voorspelbaar menselijk gedrag.
 
 ## Bronnen
-[Artikel 9(1) Systeem voor risicobeheer - Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3241-1-1)
+[Artikel 9(1) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3241-1-1)
 
 ## Wanneer van toepassing?
 

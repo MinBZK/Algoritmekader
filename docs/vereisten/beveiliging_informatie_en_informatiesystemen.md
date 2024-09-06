@@ -12,17 +12,6 @@ levenscyclus:
 - uitfaseren 
 onderwerp: 
 - technische-robuustheid-en-veiligheid
-rekenregels: 
-- niet-impactvol: ja
-- impactvol: Ja
-machine-learning: 
-- niet-impactvol: Ja
-- impactvol: Ja
-- hoog-risico: Ja
-generatieve-ai: 
-- niet-impactvol: Ja
-- impactvol: Ja
-- hoog-risico: Ja
 hide:
 - navigation
 ---
@@ -43,30 +32,10 @@ Het is van belang om algoritmische toepassingen en AI-systemen op de juiste mani
 
 ## Bronnen 
 
-| Bron                        |
-|-----------------------------|
-|[Baseline Informatiebeveiliging Overheid](https://www.bio-overheid.nl/category/producten?product=BIO) |
-|[Besluit voorschrift informatiebeveiliging rijksdienst 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022141&z=2007-07-01&g=2007-07-01)|
+- [Baseline Informatiebeveiliging Overheid](https://www.bio-overheid.nl/category/producten?product=BIO) 
+- [Besluit voorschrift informatiebeveiliging rijksdienst 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022141&z=2007-07-01&g=2007-07-01)
 
 ## Wanneer van toepassing? 
-
-=== "Rekenregel"
-
-	| niet-impactvol | impactvol | 
-	|----------------|-----------| 
-	| :material-close:{style='color: #EF5350' } | :material-check-bold:{ style='color: #4DB6AC' } |
-
-=== "Machine learning"
-
-	| niet-impactvol | impactvol | hoog-risico-ai | 
-	|----------------|-----------|-----------| 
-	| :material-check-bold:{ style='color: #4DB6AC' }  | :material-check-bold:{ style='color: #4DB6AC' } | :material-check-bold:{ style='color: #4DB6AC' } |
-
-=== "Generatieve AI"
-
-	| niet-impactvol | impactvol | hoog-risico-ai | 
-	|----------------|-----------|-----------| 
-	| :material-check-bold:{ style='color: #4DB6AC' }  | :material-check-bold:{ style='color: #4DB6AC' } | :material-check-bold:{ style='color: #4DB6AC' } |
 
 ## Risico 
 
@@ -74,9 +43,4 @@ Er kunnen risico's ontstaan zoals ongeautoriseerde toegang, vernietiging, verlie
 
 ## Maatregelen 
 
-=== "Allen"
-	<!-- list_maatregelen vereiste/beveiliging_informatie_en_informatiesystemen -->
-=== "Governance"
-	<!-- list_maatregelen vereiste/beveiliging_informatie_en_informatiesystemen onderwerp/governance -->
-=== "Publieke inkoop"
-	<!-- list_maatregelen vereiste/beveiliging_informatie_en_informatiesystemen onderwerp/publieke-inkoop -->
+<!-- list_maatregelen vereiste/beveiliging_informatie_en_informatiesystemen -->

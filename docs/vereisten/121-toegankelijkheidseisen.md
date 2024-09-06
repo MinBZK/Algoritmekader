@@ -1,8 +1,7 @@
 ---
 title: Aanbieders van AI-systemen met een hoog risico zorgen voor toegankelijkheidseisen 
+index: 121
 toelichting: Aanbieders van AI-systemen met een hoog risico zorgen ervoor dat het AI-systeem met een hoog risico voldoet aan de toegankelijkheidseisen overeenkomstig de Richtlijnen (EU) 2016/2102 en (EU) 2019/882
-status_vereiste:
-- nog-niet-geldend
 levenscyclus:
 - ontwikkelen
 - verificatie-en-validatie
@@ -29,12 +28,9 @@ Richtlijn 2019/882 strekt ertoe een bijdrage te leveren tot het goed functionere
 
 ## Bronnen
 
-| Bron                        |
-|-----------------------------|
-|Artikel 16(l) Verplichtingen van aanbieders van AI-systemen met een hoog risico- AI verordening|
-|EU-richtlijn 2016/2102|
-|Bijlage 1: Toegankelijkheidsvoorschriften voor producten en diensten. |
-|EU-richtlijn 2019/882|
+- [Artikel 16(l) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3823-1-1)
+- EU-richtlijn 2016/2102
+- EU-richtlijn 2019/882
 
 ## Wanneer van toepassing?
 
@@ -43,12 +39,5 @@ Richtlijn 2019/882 strekt ertoe een bijdrage te leveren tot het goed functionere
 
 Niet naleven van deze verplichtingen kan leiden tot juridische en operationele problemen, en kan de veiligheid en betrouwbaarheid van het AI-systeem in gevaar brengen.
 
-
 ## Maatregelen
-
-=== "Allen"
-	<!-- list_maatregelen vereiste/toegankelijkheidseisen_hoog_risico -->
-=== "Governance"
-	<!-- list_maatregelen vereiste/toegankelijkheidseisen_hoog_risico onderwerp/governance -->
-=== "Publieke inkoop"
-	<!-- list_maatregelen vereiste/toegankelijkheidseisen_hoog_risico onderwerp/publieke-inkoop -->
+<!-- list_maatregelen vereiste/121-toegankelijkheidseisen -->

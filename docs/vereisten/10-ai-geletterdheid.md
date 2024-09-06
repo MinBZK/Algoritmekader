@@ -28,7 +28,7 @@ Het doel is om een adequaat niveau van begrip en vaardigheden te waarborgen, wat
 
 ## Bronnen 
 
-[Artikel 4 AI-geletterdheid - Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e2799-1-1)
+[Artikel 4 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e2799-1-1)
 
 ## Wanneer van toepassing? 
 

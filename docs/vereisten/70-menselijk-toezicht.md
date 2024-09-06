@@ -42,7 +42,7 @@ Dit geldt in het bijzonder voor het gebruik van een hoog risico AI-systeem dat w
 In het geval van een hoog risico systeem als bedoeld in bijlage III, punt 1, a  (systemen voor biometrische identificatie op afstand) geldt het vereiste dat twee natuurlijke personen met de nodige bekwaamheid, opleiding en bevoegdheid apart de indentificatie van het systeem verificiëren en bevestigen, tenzij het wordt gebruikt voor rechtshandhaving, migratie, grenstoezicht of asiel, in gevallen waarin het Unierecht of het nationale recht de toepassing van dit vereiste onevenredig acht.
 
 ## Bronnen
-[Artikel 14 verordening Artifiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3669-1-1)
+[Artikel 14 verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3669-1-1)
 
 ## Wanneer van toepassing?
 

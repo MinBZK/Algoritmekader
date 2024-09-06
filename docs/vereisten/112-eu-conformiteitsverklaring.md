@@ -1,5 +1,6 @@
 ---
 title: Aanbieders van AI-systemen met een hoog risico stellen een EU-conformiteitsverklaring op
+index: 112
 toelichting: Aanbieders van AI-systemen met een hoog risico stellen een EU-conformiteitsverklaring op.
 status_vereiste:
 - nog-niet-geldend
@@ -26,11 +27,9 @@ Voorbeelden hiervan zijn de naam en type van het AI-systeem, naam en adres van d
 
 ## Bronnen
 
-| Bron                        |
-|-----------------------------|
-|Artikel 16(g) Verplichtingen van aanbieders van AI-systemen met een hoog risico- AI verordening|
-|Artikel 47(1) EU-conformiteitsverklaring - AI verordening|
-|Bijlage V AI Verordening|
+- [Artikel 16(g) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3823-1-1)
+- [Artikel 47(1) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5296-1-1)
+- [Bijlage V Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e38-132-1)
 
 ## Wanneer van toepassing?
 
@@ -42,9 +41,4 @@ Niet naleven van deze verplichtingen kan leiden tot juridische en operationele p
 
 ## Maatregelen
 
-=== "Allen"
-	<!-- list_maatregelen vereiste/EU_conformiteitsverklaring_hoog_risico -->
-=== "Governance"
-	<!-- list_maatregelen vereiste/EU_conformiteitsverklaring_hoog_risico onderwerp/governance -->
-=== "Publieke inkoop"
-	<!-- list_maatregelen vereiste/EU_conformiteitsverklaring_hoog_risico onderwerp/publieke-inkoop -->
+<!-- list_maatregelen vereiste/112-eu-conformiteitsverklaring -->

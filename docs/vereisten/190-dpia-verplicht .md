@@ -1,5 +1,6 @@
 ---
 title: Een DPIA is verplicht bij hoog risico
+index: 190
 toelichting: Een Data Protection Impact Assessment (DPIA) is verplicht, indien een verwerking van persoonsgegevens waarschijnlijk een hoog risico inhoudt voor de rechten en vrijheden van natuurlijke personen. Deze beoordeling identificeert en beperkt potentiële risico's en zorgt ervoor dat passende maatregelen worden genomen om de privacy van individuen te beschermen. Deze verplichting draagt bij aan een zorgvuldige en verantwoorde omgang met persoonsgegevens in AI-systemen en algoritmes, waardoor de privacy van individuen wordt gewaarborgd.
 status_vereiste: 
  - geldend
@@ -12,17 +13,6 @@ onderwerp:
 - privacy-en-gegevensbescherming
 rollen:
 - privacy-officer
-rekenregels: 
-- niet-impactvol: Nee
-- impactvol: Ja
-machine-learning: 
-- niet-impactvol: Nee
-- impactvol: Ja
-- hoog-risico: Ja
-generatieve-ai: 
-- niet-impactvol: Nee
-- impactvol: Ja
-- hoog-risico: Ja
 hide:
 - navigation
 ---
@@ -40,6 +30,7 @@ Deze beoordeling identificeert en beperkt potentiële risico's en zorgt ervoor d
 Deze verplichting draagt bij aan een zorgvuldige en verantwoorde omgang met persoonsgegevens in AI-systemen en algoritmes, waardoor de privacy van individuen wordt gewaarborgd.
 
 Let op: de DPIA verplichting is niet gebaseerd op de hoog-risico criteria uit de AI-act. Volgens [Besluit lijst verwerkingen persoonsgegevens waarvoor een gegevensbeschermingseffectbeoordeling (DPIA) verplicht is, Autoriteit Persoonsgegevens](https://wetten.overheid.nl/BWBR0042812/2019-11-27) moet voor het uitvoeren van een DPIA in ieder geval uitgegaan worden van een hoog risico als er sprake is van één van de volgende voorwaarden:
+
  1. Evaluatie of scoretoekenning
  2. Geautomatiseerde besluitvorming met rechtsgevolg of vergelijkbaar wezenlijk gevolg
  3. Stelselmatige monitoring
@@ -55,33 +46,12 @@ Het is mogelijk dat algoritmes die niet aan één of meer van deze eigenschappen
 Gebruiksverantwoordelijken van AI-systemen met een hoog risico gebruiken die informatie op grond van artikel 13 AI Verordening om hun verplichting na te komen om een gegevensbeschermingseffectbeoordeling uit te voeren. 
 
 ## Bronnen 
-
-| Bron                        |
-|-----------------------------|
-|[Artikel 35 Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679) |
-|[Artikel 26(9) Verordening Artificiële Intelligentie](https://www.europarl.europa.eu/doceo/document/TA-9-2024-0138-FNL-COR01_NL.pdf) |
-|[Besluit lijst verwerkingen persoonsgegevens waarvoor een gegevensbeschermingseffectbeoordeling (DPIA) verplicht is, Autoriteit Persoonsgegevens](https://wetten.overheid.nl/BWBR0042812/2019-11-27) |
-| [Data protection impact assessment (DPIA) Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/praktisch-avg/data-protection-impact-assessment-dpia#:~:text=Een%20DPIA%20is%20een%20instrument,Algemene%20verordening%20gegevensbescherming%20(AVG)%3B)|
+- [Artikel 35 Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679)
+- [Artikel 26(9) Verordening Artificiële Intelligentie](https://www.europarl.europa.eu/doceo/document/TA-9-2024-0138-FNL-COR01_NL.pdf) 
+- [Besluit lijst verwerkingen persoonsgegevens waarvoor een gegevensbeschermingseffectbeoordeling (DPIA) verplicht is, Autoriteit Persoonsgegevens](https://wetten.overheid.nl/BWBR0042812/2019-11-27)
+- [Data protection impact assessment (DPIA) Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/praktisch-avg/data-protection-impact-assessment-dpia#:~:text=Een%20DPIA%20is%20een%20instrument,Algemene%20verordening%20gegevensbescherming%20(AVG)%3B)
 
 ## Wanneer van toepassing? 
-
-=== "Rekenregel"
-
-	| niet-impactvol | impactvol | 
-	|----------------|-----------| 
-	| :material-close:{style='color: #EF5350' } | :material-check-bold:{ style='color: #4DB6AC' } |
-
-=== "Machine learning"
-
-	| niet-impactvol | impactvol | hoog-risico-ai | 
-	|----------------|-----------|-----------| 
-	| :material-close:{style='color: #EF5350' } | :material-check-bold:{ style='color: #4DB6AC' } | :material-check-bold:{ style='color: #4DB6AC' } |
-
-=== "Generatieve AI"
-
-	| niet-impactvol | impactvol | hoog-risico-ai | 
-	|----------------|-----------|-----------| 
-	| :material-close:{style='color: #EF5350' } | :material-check-bold:{ style='color: #4DB6AC' } | :material-check-bold:{ style='color: #4DB6AC' } |
 
 ## Risico 
 
@@ -90,9 +60,4 @@ Dit kan leiden tot potentiële schendingen van de rechten en vrijheden van betro
 
 ## Maatregelen 
 
-=== "Allen"
-	<!-- list_maatregelen vereiste/dpia_verplicht_bij_hoog_risico -->
-=== "Governance"
-	<!-- list_maatregelen vereiste/dpia_verplicht_bij_hoog_risico onderwerp/governance -->
-=== "Publieke inkoop"
-	<!-- list_maatregelen vereiste/dpia_verplicht_bij_hoog_risico onderwerp/publieke-inkoop -->
+<!-- list_maatregelen vereiste/190-dpia-verplicht -->

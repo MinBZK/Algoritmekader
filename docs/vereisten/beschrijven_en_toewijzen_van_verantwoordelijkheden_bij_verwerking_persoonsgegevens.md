@@ -12,17 +12,6 @@ levenscyclus:
 onderwerp: 
 - governance
 - privacy-en-gegevensbescherming
-rekenregels: 
-- niet-impactvol: ja
-- impactvol: Ja
-machine-learning: 
-- niet-impactvol: ja
-- impactvol: Ja
-- hoog-risico: Ja
-generatieve-ai: 
-- niet-impactvol: ja
-- impactvol: Ja
-- hoog-risico: Ja
 hide:
 - navigation
 ---
@@ -48,24 +37,6 @@ Deze maatregelen zijn essentieel om de naleving van regelgeving met betrekking t
 
 ## Wanneer van toepassing? 
 
-=== "Rekenregel"
-
-	| niet-impactvol | impactvol | 
-	|----------------|-----------| 
-	| :material-close:{style='color: #EF5350' } | :material-check-bold:{ style='color: #4DB6AC' } |
-
-=== "Machine learning"
-
-	| niet-impactvol | impactvol | hoog-risico-ai | 
-	|----------------|-----------|-----------| 
-	| :material-close:{style='color: #EF5350' } | :material-check-bold:{ style='color: #4DB6AC' } | :material-check-bold:{ style='color: #4DB6AC' } |
-
-=== "Generatieve AI"
-
-	| niet-impactvol | impactvol | hoog-risico-ai | 
-	|----------------|-----------|-----------| 
-	| :material-close:{style='color: #EF5350' } | :material-check-bold:{ style='color: #4DB6AC' } | :material-check-bold:{ style='color: #4DB6AC' } |
-
 ## Risico 
 
 Door rollen en verantwoordelijkheden rondom de verwerking van persoonsgegevens niet te duiden en te beleggen, ontstaat het risico dat persoonsgegevens onrechtmatig on onveilig worden verwerkt.
@@ -73,9 +44,4 @@ Door rollen en verantwoordelijkheden rondom de verwerking van persoonsgegevens n
 
 ## Maatregelen 
 
-=== "Allen"
-	<!-- list_maatregelen vereiste/beschrijven_en_toewijzen_van_verantwoordelijkheden_bij_verwerking_persoonsgegevens -->
-=== "Governance"
-	<!-- list_maatregelen vereiste/beschrijven_en_toewijzen_van_verantwoordelijkheden_bij_verwerking_persoonsgegevens onderwerp/governance -->
-=== "Publieke inkoop"
-	<!-- list_maatregelen vereiste/beschrijven_en_toewijzen_van_verantwoordelijkheden_bij_verwerking_persoonsgegevens onderwerp/publieke-inkoop -->
+<!-- list_maatregelen vereiste/beschrijven_en_toewijzen_van_verantwoordelijkheden_bij_verwerking_persoonsgegevens -->

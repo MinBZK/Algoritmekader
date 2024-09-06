@@ -68,9 +68,4 @@ Bij geautomatiseerde besluitvorming kan het risico ontstaan dat kenmerken van ee
 
 ## Maatregelen 
 
-=== "Allen"
-	<!-- list_maatregelen vereiste/recht_op_niet_geautomatiseerd_besluitvorming -->
-=== "Governance"
-	<!-- list_maatregelen vereiste/recht_op_niet_geautomatiseerd_besluitvorming onderwerp/governance -->
-=== "Publieke inkoop"
-	<!-- list_maatregelen vereiste/recht_op_niet_geautomatiseerd_besluitvorming onderwerp/publieke-inkoop -->
+<!-- list_maatregelen vereiste/recht_op_niet_geautomatiseerd_besluitvorming -->

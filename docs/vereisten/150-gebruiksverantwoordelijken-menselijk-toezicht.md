@@ -1,8 +1,7 @@
 ---
 title: Natuurlijke personen die menselijk toezicht uitvoeren zijn bekwaam, opgeleid, beschikken over autoriteit en krijgen ondersteuning
+index: 150
 toelichting: Gebruiksverantwoordelijken dragen het menselijk toezicht over een hoog risico AI-systeem op aan natuurlijke personen die over de nodige bekwaamheid, opleiding en autoriteit beschikken en de nodige ondersteuning krijgen.
-status_vereiste:
-- nog-niet-geldend
 levenscyclus:
 - implementatie
 - monitoring-en-beheer
@@ -25,10 +24,7 @@ Daarbij kan het van belang zijn dat deze natuurlijke personen ondersteuning krij
 
 
 ## Bronnen
-
-| Bron                        |
-|-----------------------------|
-|Artikel 26(2) AI Verordening|
+- [Artikel 26(2) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e4350-1-1)
 
 ## Wanneer van toepassing?
 
@@ -40,9 +36,4 @@ Als de natuurlijke toezichthouder geen effectief toezicht kan houden op het hoog
 
 ## Maatregelen
 
-=== "Allen"
-	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_menselijk_toezicht_natuurlijke_personen -->
-=== "Governance"
-	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_menselijk_toezicht_natuurlijke_personen onderwerp/governance -->
-=== "Publieke inkoop"
-	<!-- list_maatregelen vereiste/gebruiksverantwoordelijken_menselijk_toezicht_natuurlijke_personen onderwerp/publieke-inkoop -->
+<!-- list_maatregelen vereiste/150-gebruiksverantwoordelijken-menselijk-toezicht -->

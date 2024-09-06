@@ -1,8 +1,7 @@
 ---
 title: Aanbieders van AI-systemen met een hoog risico voeren een conformiteitsbeoordelingsprocedure uit
+index: 111
 toelichting: Aanbieders van AI-systemen met een hoog risico zorgen ervoor dat voor het AI-systeem met een hoog risico een conformiteitsbeoordelingsprocedure wordt uitgevoerd voordat dit systeem in de handel wordt gebracht of in gebruik wordt gesteld
-status_vereiste:
-- nog-niet-geldend
 levenscyclus:
 - verificatie-en-validatie
 - implementatie
@@ -26,11 +25,10 @@ AI-systemen met een hoog risico die reeds aan een conformiteitsbeoordelingsproce
 
 ## Bronnen
 
-| Bron                        |
-|-----------------------------|
-|Artikel 16(f) Verplichtingen van aanbieders van AI-systemen met een hoog risico- AI verordening|
-|Artikel 43 Conformiteitsbeoordeling - AI verordening|
-|Bijlage VI en VII AI Verordening|
+- [Artikel 16(f) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3823-1-1)
+- [Artikel 43 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5074-1-1)
+- [Bijlage VI Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e38-133-1)
+- [Bijlage VII Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e38-134-1)
 
 ## Wanneer van toepassing?
 
@@ -39,12 +37,6 @@ AI-systemen met een hoog risico die reeds aan een conformiteitsbeoordelingsproce
 
 Niet naleven van deze verplichtingen kan leiden tot juridische en operationele problemen, en kan de veiligheid en betrouwbaarheid van het AI-systeem in gevaar brengen.
 
-
 ## Maatregelen
 
-=== "Allen"
-	<!-- list_maatregelen vereiste/conformiteitsbeoordelingsprocedure_hoog_risico -->
-=== "Governance"
-	<!-- list_maatregelen vereiste/conformiteitsbeoordelingsprocedure_hoog_risico onderwerp/governance -->
-=== "Publieke inkoop"
-	<!-- list_maatregelen vereiste/conformiteitsbeoordelingsprocedure_hoog_risico onderwerp/publieke-inkoop -->
+<!-- list_maatregelen vereiste/111-conformiteitsbeoordeling -->

@@ -9,7 +9,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
     def generate_filters(content_type: str, list: List[File], filter_options: Dict[str, bool]):
         filters = []
 
-        filters.append('<div class="filter-container">')  # Ensure this line is added
+        filters.append('<div class="filter-container">')
         
         if filter_options.get("search", True):
             filters.append('<div class="filter-item filter-item--search">')
@@ -21,10 +21,10 @@ def on_env(env, config: MkDocsConfig, files: Files):
             rollen = sorted(
                 set(rol for file in list for rol in file.page.meta.get("rollen", []))
             )
-            if rollen:  # Only show filter if there are roles to filter by
+            if rollen:
                 filters.append('<div class="filter-item filter-item--roles">')
                 filters.append('<label for="filterSelect">Rollen</label>')
-                filters.append('<select id="filterSelect" class="js-example-basic-multiple filter-item__select" name="states[]" multiple="multiple" data-placeholder="Selecteer 1 of meerdere rollen">')
+                filters.append('<select id="filterSelect" class="js-example-basic-multiple filter-item__select" name="states[]" multiple="multiple" data-placeholder="Selecteer rollen">')
                 filters.extend(f'<option value="{rol}">{rol}</option>' for rol in rollen)
                 filters.append('</select>')
                 filters.append('</div>')
@@ -33,10 +33,10 @@ def on_env(env, config: MkDocsConfig, files: Files):
             levenscyclus = sorted(
                 set(lc for file in list for lc in file.page.meta.get("levenscyclus", []))
             )
-            if levenscyclus:  # Only show filter if there are lifecycle stages to filter by
+            if levenscyclus:
                 filters.append('<div class="filter-item filter-item--levenscyclus">')
                 filters.append('<label for="filterLevenscyclusSelect">Levenscyclus</label>')
-                filters.append('<select id="filterLevenscyclusSelect" class="js-example-basic-multiple filter-item__select" name="states[]" multiple="multiple" data-placeholder="Selecteer 1 of meerdere fases">')
+                filters.append('<select id="filterLevenscyclusSelect" class="js-example-basic-multiple filter-item__select" name="states[]" multiple="multiple" data-placeholder="Selecteer fases">')
                 filters.extend(f'<option value="{lc}">{lc}</option>' for lc in levenscyclus)
                 filters.append('</select>')
                 filters.append('</div>')
@@ -45,16 +45,15 @@ def on_env(env, config: MkDocsConfig, files: Files):
             onderwerpen = sorted(
                 set(onderwerp for file in list for onderwerp in file.page.meta.get("onderwerp", []))
             )
-            if onderwerpen:  # Only show filter if there are subjects to filter by
+            if onderwerpen:
                 filters.append('<div class="filter-item filter-item--onderwerp">')
                 filters.append('<label for="filterOnderwerpSelect">Onderwerpen</label>')
-                filters.append('<select id="filterOnderwerpSelect" class="js-example-basic-multiple filter-item__select" name="subjects[]" multiple="multiple" data-placeholder="Selecteer 1 of meerdere onderwerpen">')
+                filters.append('<select id="filterOnderwerpSelect" class="js-example-basic-multiple filter-item__select" name="subjects[]" multiple="multiple" data-placeholder="Selecteer onderwerpen">')
                 filters.extend(f'<option value="{onderwerp}">{onderwerp}</option>' for onderwerp in onderwerpen)
                 filters.append('</select>')
                 filters.append('</div>')
 
         filters.append('</div>')  
-
         return "".join(filters)
 
     def replace_content(match: Match, content_type: str):
@@ -66,13 +65,12 @@ def on_env(env, config: MkDocsConfig, files: Files):
         type_value_bundle = [y.split("/") for y in filter_criteria.split() if len(y.split("/")) == 2]
 
         filter_options = {
-            "search": True,  
-            "rol": True,     
-            "levenscyclus": True, 
+            "search": True,
+            "rol": True,
+            "levenscyclus": True,
             "onderwerp": True
         }
 
-        # Process no- filters
         for tag in filter_tags:
             if tag.startswith("no-"):
                 filter_name = tag[3:]
@@ -87,7 +85,6 @@ def on_env(env, config: MkDocsConfig, files: Files):
             if not file.src_path.endswith(".md"):
                 continue
 
-            # Exclude 'index.md' from any directory
             if file.src_path.endswith("/index.md"):
                 continue
 
@@ -112,11 +109,11 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 "</tr>",
                 "</thead>",
                 "<tbody>",
-                *[_create_table_row_2(item, filter_options) for item in list],
+                *[_create_table_row_2(item, filter_options, file) for item in list],
                 "</tbody>",
                 "</table>",
             ]
-    )
+        )
 
     for file in files:
         if not file.src_path.endswith(".md"):
@@ -145,8 +142,10 @@ def on_env(env, config: MkDocsConfig, files: Files):
 
 def _create_chip(item: str, link: str, chip_type: str) -> str:
     if not item:
-        return ""  # Return an empty string if the item is None or empty
+        return ""
 
+    icon_svg, color_class = "", ""
+    
     if chip_type == 'rol':
         color_class = 'deep-orange'
         icon_svg = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 4a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4Z"></path></svg>'
@@ -162,40 +161,36 @@ def _create_chip(item: str, link: str, chip_type: str) -> str:
     
     return f'''
         <span class="mdx-badge" data-md-color-accent="{color_class}">
-            <span class="mdx-badge__icon">
-                <a href="{link}" title="{item}">
+            <span class="mdx-badge__icon"> 
                     <span class="twemoji">{icon_svg}</span>
-                </a>
             </span>
             <span class="mdx-badge__text">
-                <a href="{link}">{item}</a>
+                {item}
             </span>
         </span>
     '''
 
-def _create_table_row_2(file: File, filter_options: Dict[str, bool]) -> str:
-    # Ensure metadata exists or is defaulted to empty list
+def _create_table_row_2(file: File, filter_options: Dict[str, bool], current_file: File) -> str:
     rollen = file.page.meta.get('rollen', [])
     levenscyclus = file.page.meta.get('levenscyclus', [])
     onderwerpen = file.page.meta.get('onderwerp', [])
 
-    # Create chips conditionally based on filter options
     rollen_chips = ''.join(
-        _create_chip(rol, f"../../rollen/{rol}.md", 'rol') for rol in rollen
+        _create_chip(rol, posixpath.relpath(file.dest_path, current_file.dest_path), 'rol') for rol in rollen
     ) if filter_options.get("rol", True) else ""
 
     levenscyclus_chips = ''.join(
-        _create_chip(lc, f"../../levenscyclus/{lc}.md", 'levenscyclus') for lc in levenscyclus
+        _create_chip(lc, posixpath.relpath(file.dest_path, current_file.dest_path), 'levenscyclus') for lc in levenscyclus
     ) if filter_options.get("levenscyclus", True) else ""
 
     onderwerp_chips = ''.join(
-        _create_chip(onderwerp, f"../../onderwerpen/{onderwerp}.md", 'onderwerp') for onderwerp in onderwerpen
+        _create_chip(onderwerp, posixpath.relpath(file.dest_path, current_file.dest_path), 'onderwerp') for onderwerp in onderwerpen
     ) if filter_options.get("onderwerp", True) else ""
 
     return "".join(
         [
             "<tr>",
-            f'<td><a href="{f"../../" + file.dest_path}">{file.page.title}</a></td>',
+            f'<td><a href="{posixpath.relpath(file.dest_path, current_file.dest_path)}">{file.page.title}</a></td>',
             f"<td>{rollen_chips}</td>" if filter_options.get("rol", True) else "",
             f"<td>{levenscyclus_chips}</td>" if filter_options.get("levenscyclus", True) else "",
             f"<td>{onderwerp_chips}</td>" if filter_options.get("onderwerp", True) else "",

@@ -7,14 +7,8 @@ theme:
     language: nl
     logo_text: Algoritmekader [concept]
     font: false 
-    custom_dir: overrides
     palette:
-        - scheme: custom
-          primary: '#154273'
-          accent: '#B9D6EC'
-          background: '#111111'
-          text: '#154273'
-        - primary: custom
+        - primary: blue
     features:
         - navigation.indexes
         - navigation.tabs
@@ -33,68 +27,43 @@ theme:
     icon:
         logo: fontawesome/solid/house
         annotation: fontawesome/solid/circle-info
-    logo: https://overheid.nl/themes/contrib/koopoverheid_theme/logo.svg
 
 nav:
     - Home: index.md
-    - Over het algoritmekader:
-        - Overzicht: overhetalgoritmekader/index.md
-        - Definities: overhetalgoritmekader/definities.md
-        - Contributie: overhetalgoritmekader/CONTRIBUTING.md
+    - Over het algoritmekader: 
+        - overhetalgoritmekader/index.md
+        - overhetalgoritmekader/definities.md
+        - overhetalgoritmekader/CONTRIBUTING.md
+    - Governance:
+        - governance/index.md
+        - governance/governance-structuur.md
+        - governance/politiek-bestuurlijk-kader.md
+        - governance/interactie-burgers-en-omgeving.md
+        - governance/volwassenheidsniveau.md
+        - governance/levenscyclus.md
+        - governance/rollen_en_verantwoordelijkheden.md
+        - governance/type_algoritme.md
     - Levenscyclus:
-        - Overzicht: levenscyclus/index.md
-        - Probleemanalyse: levenscyclus/probleemanalyse.md
-        - Ontwerp: levenscyclus/ontwerp.md
-        - Dataverkenning en Datapreparatie: levenscyclus/dataverkenning-en-datapreparatie.md
-        - Ontwikkelen: levenscyclus/ontwikkelen.md
-        - Verificatie en Validatie: levenscyclus/verificatie-en-validatie.md
-        - Implementatie: levenscyclus/implementatie.md
-        - Monitoring en Beheer: levenscyclus/monitoring-en-beheer.md
-        - Uitfaseren: levenscyclus/uitfaseren.md
-    - Onderwerpen: 
-        - Overzicht: onderwerpen/index.md
-        - Bias en non discriminatie: onderwerpen/bias-en-non-discriminatie/index.md
-        - Data: onderwerpen/data/index.md
-        - Duurzaamheid: onderwerpen/duurzaamheid/index.md
-        - Fundamentele rechten: onderwerpen/fundamentele-rechten/index.md
-        - Mensenlijke controle: onderwerpen/menselijke-controle/index.md
-        - Privacy en gegevensbescherming: onderwerpen/privacy-en-gegevensbescherming/index.md
-        - Publieke inkoop: onderwerpen/publieke-inkoop/index.md
-        - Technische robuustheid en veiligheid: onderwerpen/technische-robuustheid-en-veiligheid/index.md
-        - Transparantie: onderwerpen/transparantie/index.md
-        - Transparantie: bouwblokken/transparantie/index.md
+        - levenscyclus/index.md 
+        - levenscyclus/probleemanalyse.md
+        - levenscyclus/ontwerp.md
+        - levenscyclus/dataverkenning-en-datapreparatie.md
+        - levenscyclus/ontwikkelen.md
+        - levenscyclus/verificatie-en-validatie.md
+        - levenscyclus/implementatie.md
+        - levenscyclus/monitoring-en-beheer.md
+        - levenscyclus/uitfaseren.md
+    - Onderwerpen:
+        - onderwerpen/index.md
+        - ... | onderwerpen/*/*.md
     - Rollen:
-        - Overzicht: rollen/index.md
-        - Aanbestedingsjurist: rollen/aanbestedingsjurist.md
-        - Aanbieder: rollen/aanbieder.md
-        - Archiefdeskundige: rollen/archiefdeskundige.md
-        - Behoeftesteller: rollen/behoeftesteller.md
-        - Beleidsmedewerker: rollen/beleidsmedewerker.md
-        - Communicatieadviseur: rollen/communicatieadviseur.md
-        - Contractbeheerder: rollen/contractbeheerder.md
-        - Data-engineer: rollen/data-engineer.md
-        - Data-scientist: rollen/data-scientist.md
-        - Domeinspecialist: rollen/domeinspecialist.md
-        - Ethicus: rollen/ethicus.md
-        - Gebruiker: rollen/gebruiker.md
-        - Gemandateerd-verantwoordelijke: rollen/gemandateerd-verantwoordelijke.md
-        - Informatie-analist: rollen/informatie-analist.md
-        - Informatiebeheerder: rollen/informatiebeheerder.md
-        - Inkoopadviseur: rollen/inkoopadviseur.md
-        - Jurist: rollen/jurist.md
-        - Opdrachtgever: rollen/opdrachtgever.md
-        - Opdrachtnemer: rollen/opdrachtnemer.md
-        - Privacy-officer: rollen/privacy-officer.md
-        - Proceseigenaar: rollen/proceseigenaar.md
-        - Projectleider: rollen/projectleider.md
-        - Security-officer: rollen/security-officer.md
-    - Regels en hulpmiddelen:
-        - Overzicht: regels-en-hulpmiddelen/index.md
-        - Vereisten: vereisten/index.md
-        - Maatregelen: maatregelen/index.md
-        - Instrumenten: instrumenten/index.md
-
-
+        - ... | rollen/*.md
+    - Vereisten:
+        - ... | vereisten/*.md
+    - Maatregelen:
+        - ... | maatregelen/*.md
+    - Instrumenten:
+        - ... | instrumenten/*.md
 
 # Extra opties
 markdown_extensions: 
@@ -141,7 +110,7 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/choices.js/public/assets/scripts/choices.min.js  # Replace Select2 JS with Choices.js
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - javascripts/tablesort.js
-  - javascripts/extra.js
+  - javascripts/filtering.js
 
 plugins:
     - glightbox

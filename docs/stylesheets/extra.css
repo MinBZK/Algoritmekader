@@ -20,6 +20,7 @@ body{
   border-bottom-left-radius: .1rem;
   background: var(--md-accent-fg-color--transparent);
   padding: .2rem;
+  color: var(--md-accent-fg-color);
 }
 
 .mdx-badge__text {
@@ -27,6 +28,7 @@ body{
   border-top-right-radius: .1rem;
   box-shadow: 0 0 0 1px inset var(--md-accent-fg-color--transparent);
   padding: .2rem .3rem;
+  color: var(--md-accent-fg-color);
 }
 
 .mdx-badge a {
@@ -38,31 +40,6 @@ body{
   grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
 }
 
-.md-header {
-  background-color: white;
-  height: 75px;
-  align-content: center;
-}
-
-.md-tabs {
-  background-color: #007bc7;
-  border-bottom: 6px solid #B9D6EC;
-  color: white 100%;
-}
-
-.md-header--shadow {
-  box-shadow: none;
-}
-
-.md-tabs__item {
-  font-size: 1.5rem;
-}
-
-.md-tabs__item--active {
-  background-color: white;
-  color: #154273;
-}
-
 p, h1, h2, h3, h4, h5, h6 {
   color: #154273;
 }
@@ -71,25 +48,27 @@ h1 {
   color: #154273;
 }
 
-a {
-  color: #154273;
-  text-decoration: underline;
-}
-
 /* Stijlen voor de tabel */
 table {
   width: 100%;
   border-collapse: collapse;
+
+}
+
+.md-typeset table{
+  border: none !important;
+  box-shadow:none;
 }
 
 th {
-  background-color: #E2E8F0; /* Achtergrondkleur van de tabelkop */
-  color: #334155; /* Kleur van de tabelkoptekst */
+  background-color: #F1F5F9; /* Achtergrondkleur van de tabelkop */
+  color: #475569; /* Kleur van de tabelkoptekst */
   border: none; /* Geen randen */
   padding: 12px;
   text-align: left;
   font-size: 16px;
   font-family: "ROsanswebtextregular", sans-serif; /* Custom font */
+  font-weight: 400;
 }
 
 td {
@@ -97,6 +76,7 @@ td {
   text-align: left;
   border: none; /* Geen randen */
   font-family: "ROsanswebtextregular", sans-serif; /* Custom font */
+  min-width: 150px;
 }
 
 tr {
@@ -112,104 +92,6 @@ tbody tr td a {
 tbody tr td a:hover {
   text-decoration: underline;
 }
-
-/* Stijlen voor de navigatiebalk */
-.md-nav.md-nav--top {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  background-color: #007bc7;
-  border-bottom: 6px solid #B9D6EC;
-  position: relative;
-}
-
-.md-nav.md-nav--top .md-nav__list {
-  display: flex;
-  margin: 0;
-  padding: 0;
-}
-
-.md-nav.md-nav--top .md-nav__item {
-  position: relative;
-  margin-right: 1rem;
-}
-
-.md-nav.md-nav--top .md-nav__link {
-  display: block;
-  padding: 1rem;
-  text-decoration: none;
-  color: white;
-  margin-top: 0;
-}
-
-/* Dropdown-menu-stijlen voor bovenste navigatie */
-.md-nav.md-nav--top .md-nav__dropdown {
-  display: none;
-  position: absolute;
-  top: 100%;
-  left: 0;
-  background: white;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  z-index: 1000; /* Zorgt ervoor dat dropdown boven andere inhoud staat */
-}
-
-.md-nav.md-nav--top .md-nav__dropdown-item {
-  padding: 0;
-}
-
-.md-nav.md-nav--top .md-nav__dropdown-link {
-  display: block;
-  padding: 0.5rem 1rem;
-  color: #154273;
-  text-decoration: none;
-}
-
-.md-nav.md-nav--top .md-nav__dropdown-link:hover {
-  background: #f0f0f0;
-}
-
-/* Toon dropdown bij hover voor bovenste navigatie */
-.md-nav.md-nav--top .md-nav__item:hover .md-nav__dropdown {
-  display: block;
-}
-
-/* Actieve staat voor bovenste navigatie */
-.md-nav.md-nav--top .md-nav__item--active > .md-nav__link,
-.md-nav.md-nav--top .md-nav__dropdown-item--active > .md-nav__dropdown-link {
-    background-color: white;
-    color: #007bc7; /* Actieve linkkleur */
-}
-
-/* Zorg ervoor dat links correct gestileerd zijn wanneer actief */
-.md-nav.md-nav--top .md-nav__link--active,
-.md-nav.md-nav--top .md-nav__dropdown-link--active {
-    background-color: white;
-    color: #007bc7; /* Actieve linkkleur */
-}
-
-.md-nav__link {
-  display: flex;
-  align-items: center;
-}
-
-.md-nav__icon {
-  margin-left: 0.5rem; /* Ruimte tussen tekst en icoon */
-  font-size: 1.2rem; /* Pas de grootte van het icoon aan */
-  vertical-align: middle; /* Icoon uitlijnen met de tekst */
-}
-
-.md-nav__item--has-children .md-nav__icon {
-  transition: transform 0.3s ease; /* Vloeiende overgang voor chevron-rotatie */
-}
-
-.md-nav__item--has-children:hover .md-nav__icon {
-  transform: rotate(180deg); /* Draai chevron bij hover (optioneel) */
-}
-
 
 .float-container a {
   color: #154273;
@@ -244,78 +126,6 @@ tbody tr td a:hover {
   background-color: rgb(5, 80, 141);
   -webkit-mask-image: var(--md-admonition-icon--simple);
   mask-image: var(--md-admonition-icon--simple);
-}
-
-/* General Layout */
-.header-container {
-  margin-bottom: 20px;
-  position: relative;
-  text-align: left; 
-  margin-bottom: 40px;
-}
-
-.header-container h1, .header-container h2 {
-  font-size: 2em;
-  margin: 0;
-  display: inline-block;
-  position: relative;
-  text-align: left; 
-  color: #154273;
-}
-
-.header-container .version-label {
-  font-size: 0.4em;
-  background-color: #e5f1f9;
-  color: #154273;
-  padding: 4px;
-  border-radius: 3px;
-  margin-left: 10px;
-  cursor: pointer;
-  position: relative;
-  text-align: left; 
-  font-weight: 500;
-  text-transform: capitalize;
-}
-
-.header-container .hover-info {
-  font-size: 0.4em;
-  display: none;
-  position: absolute;
-  top: 90%; /* Direct onder het label */
-  left: 0;
-  background-color: #fff;
-  color: #333;
-  border: 1px solid #ddd;
-  border-radius: 5px;
-  padding: 2px 8px;
-  z-index: 1000;
-  white-space: normal;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  text-align: left; 
-}
-
-.header-container .version-label:hover + .hover-info,
-.header-container .hover-info:hover {
-  display: block;
-  text-align: left; 
-}
-
-.header-container .hover-info a {
-  color: #154273;
-  font-weight: bold;
-  text-align: left; 
-}
-
-.header-container .hover-info a:hover {
-  text-decoration: underline;
-}
-
-/* Subheader Styling */
-.header-container .subheader {
-  font-size: 1.2em;
-  color: #154273;
-  margin: 10px 0 20px;
-  text-align: left; /* Ensure left alignment */
 }
 
 /* Info Section */

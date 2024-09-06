@@ -1,14 +1,13 @@
 ---
 title: Opdrachtnemer
+hide:
+  - toc
+  - navigation
 ---
-
-## Vereisten
-
-<!-- list_vereisten rollen/opdrachtnemer no-rol -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/opdrachtnemer no-rol -->
+<!-- list_maatregelen rollen/opdrachtnemer no-rol no-levenscyclus no-search -->
 
 !!! info "Disclaimer"
 

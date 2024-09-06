@@ -1,14 +1,13 @@
 ---
 title: Jurist
+hide:
+  - toc
+  - navigation
 ---
-
-## Vereisten
-
-<!-- list_vereisten rollen/jurist no-rol -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/jurist no-rol -->
+<!-- list_maatregelen rollen/jurist no-rol no-levenscyclus no-search -->
 
 !!! info "Disclaimer"
 

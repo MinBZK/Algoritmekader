@@ -1,14 +1,13 @@
 ---
 title: Informatie analist
+hide:
+  - toc
+  - navigation
 ---
-
-## Vereisten
-
-<!-- list_vereisten rollen/informatie-analist no-rol -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/informatie-analist no-rol -->
+<!-- list_maatregelen rollen/informatie-analist no-rol no-levenscyclus no-search -->
 
 !!! info "Disclaimer"
 

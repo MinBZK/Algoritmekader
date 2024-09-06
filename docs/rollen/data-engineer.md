@@ -1,14 +1,13 @@
 ---
 title: Data engineer
+hide:
+  - toc
+  - navigation
 ---
-
-## Vereisten
-
-<!-- list_vereisten rollen/data-engineer no-rol -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/data-engineer no-rol  -->
+<!-- list_maatregelen rollen/data-engineer no-rol no-levenscyclus no-search -->
 
 !!! info "Disclaimer"
 

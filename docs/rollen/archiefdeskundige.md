@@ -1,14 +1,13 @@
 ---
 title: Archiefdeskundige
+hide:
+  - toc
+  - navigation
 ---
-
-## Vereisten
-
-<!-- list_vereisten rollen/archiefdeskundige no-rol -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/archiefdeskundige no-rol -->
+<!-- list_maatregelen rollen/archiefdeskundige no-rol no-levenscyclus no-search -->
 
 !!! info "Disclaimer"
 

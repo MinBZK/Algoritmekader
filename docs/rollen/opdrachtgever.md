@@ -1,14 +1,13 @@
 ---
 title: Opdrachtgever
+hide:
+  - toc
+  - navigation
 ---
-
-## Vereisten
-
-<!-- list_vereisten rollen/opdrachtgever no-rol -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/opdrachtgever no-rol -->
+<!-- list_maatregelen rollen/opdrachtgever no-rol no-levenscyclus no-search -->
 
 !!! info "Disclaimer"
 

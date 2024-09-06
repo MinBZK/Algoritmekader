@@ -1,14 +1,13 @@
 ---
 title: Privacy-officer
+hide:
+  - toc
+  - navigation
 ---
-
-## Vereisten
-
-<!-- list_vereisten rollen/privacy-officer no-rol -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/privacy-officer no-rol -->
+<!-- list_maatregelen rollen/privacy-officer no-rol no-levenscyclus no-search -->
 
 !!! info "Disclaimer"
 

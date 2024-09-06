@@ -1,14 +1,13 @@
 ---
 title: Data scientist
+hide:
+  - toc
+  - navigation
 ---
-
-## Vereisten
-
-<!-- list_vereisten rollen/data-scientist no-rol -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/data-scientist no-rol -->
+<!-- list_maatregelen rollen/data-scientist no-rol no-levenscyclus no-search -->
 
 !!! info "Disclaimer"
 

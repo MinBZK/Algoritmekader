@@ -1,14 +1,13 @@
 ---
 title: Gemandateerd verantwoordelijke(n)
+hide:
+  - toc
+  - navigation
 ---
-
-## Vereisten
-
-<!-- list_vereisten rollen/gemandateerd-verantwoordelijke no-rol -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/gemandateerd-verantwoordelijke no-rol -->
+<!-- list_maatregelen rollen/gemandateerd-verantwoordelijke no-rol no-levenscyclus no-search -->
 
 !!! info "Disclaimer"
 

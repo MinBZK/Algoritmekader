@@ -1,8 +1,7 @@
 ---
 title: Bewaartermijn voor gegenereerde logs 
+index: 110
 toelichting: Aanbieders van AI-systemen met een hoog risico bewaren de in artikel 12, lid 1, bedoelde logs die automatisch worden gegenereerd door hun AI-systemen met een hoog risico voor zover dergelijke logs onder hun controle vallen. Onverminderd het toepasselijke Unie- of nationale recht worden deze logs bewaard gedurende een periode, die passend is voor het beoogde doel van het AI-systeem met een hoog risico, van ten minste zes maanden, tenzij anders is bepaald in het Unie- of nationaal recht, met name de Uniewetgeving inzake de bescherming van persoonsgegevens.
-status_vereiste:
-- nog-niet-geldend
 levenscyclus:
 - ontwerp
 - ontwikkelen
@@ -28,12 +27,9 @@ Aanbieders van AI-systemen met een hoog risico moeten de automatisch gegenereerd
 Deze logs moeten ten minste zes maanden worden bewaard, tenzij anders bepaald door Unie- of nationale wetgeving met betrekking tot gegevensbescherming, om te voldoen aan de relevante voorschriften en verantwoordingsplicht.
 
 ## Bronnen
-
-| Bron                        |
-|-----------------------------|
-|Artikel 19(1) Automatisch gegenereerde logs- AI verordening|
-|Artikel 16(e) Verplichtingen van aanbieders van AI-systemen met een hoog risico - AI veordening|
-|Artikel 12(1) Registratie- AI verordening|
+- [Artikel 19(1) Verordening Artifiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e4066-1-1)
+- [Artikel 16(e) Verordening Artifiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3823-1-1)
+- [Artikel 12(1) Verordening Artifiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3495-1-1)
 
 ## Wanneer van toepassing?
 
@@ -44,9 +40,4 @@ Het niet of onvoldoende bewaren van logs kan het vermogen belemmeren om incident
 
 ## Maatregelen
 
-=== "Allen"
-	<!-- list_maatregelen vereiste/bewaartermijn_voor_gegenereerde_logs -->
-=== "Governance"
-	<!-- list_maatregelen vereiste/bewaartermijn_voor_gegenereerde_logs onderwerp/governance -->
-=== "Publieke inkoop"
-	<!-- list_maatregelen vereiste/bewaartermijn_voor_gegenereerde_logs onderwerp/publieke-inkoop -->
+<!-- list_maatregelen vereiste/110-bewaartermijn-voor-gegenereerde-logs -->

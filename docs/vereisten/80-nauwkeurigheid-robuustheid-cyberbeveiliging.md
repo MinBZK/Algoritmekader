@@ -1,8 +1,7 @@
 ---
 title: Ontwerp voor nauwkeurigheid, robuustheid en cyberbeveiliging 
+index: 80
 toelichting: AI-systemen met een hoog risico worden op zodanige wijze ontworpen en ontwikkeld dat deze een passend niveau van nauwkeurigheid, robuustheid en cyberbeveiliging bieden, alsook consistente prestaties gedurende de levensduur met betrekking tot deze aspecten.
-status_vereiste:
-- nog-niet-geldend
 levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
@@ -14,6 +13,7 @@ hide:
 ---
 
 <!-- tags -->
+
 ## Vereiste
 
 AI-systemen met een hoog risico worden op zodanige wijze ontworpen en ontwikkeld dat deze een passend niveau van nauwkeurigheid, robuustheid en cyberbeveiliging bieden, alsook consistente prestaties gedurende de levensduur met betrekking tot deze aspecten.
@@ -36,9 +36,7 @@ Om te zorgen voor een niveau van cyberbeveiliging dat aansluit op de risico’s,
 
 ## Bronnen
 
-| Bron                        |
-|-----------------------------|
-|Artikel 15(1) Nauwkeurigheid, robuustheid en cyberbeveiliging- AI verordening|
+[Artikel 15 Verordening Artifiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3752-1-1)
 
 ## Wanneer van toepassing?
 
@@ -47,13 +45,6 @@ Om te zorgen voor een niveau van cyberbeveiliging dat aansluit op de risico’s,
 
 Gebrek aan nauwkeurigheid, robuustheid of cyberbeveiliging kan leiden tot onbetrouwbare prestaties, kwetsbaarheid voor storingen en blootstelling aan beveiligingsrisico's, wat de effectiviteit en veiligheid van het AI-systeem in gevaar kan brengen.
 
-
-
 ## Maatregelen
 
-=== "Allen"
-	<!-- list_maatregelen vereiste/ontwerp_voor_nauwkeurigheid_robuustheid_en_cyberbeveiliging -->
-=== "Governance"
-	<!-- list_maatregelen vereiste/ontwerp_voor_nauwkeurigheid_robuustheid_en_cyberbeveiliging onderwerp/governance -->
-=== "Publieke inkoop"
-	<!-- list_maatregelen vereiste/ontwerp_voor_nauwkeurigheid_robuustheid_en_cyberbeveiliging onderwerp/publieke-inkoop -->
+<!-- list_maatregelen vereiste/80-nauwkeurigheid-robuustheid-cyberbeveliging -->

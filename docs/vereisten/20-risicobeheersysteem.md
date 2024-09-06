@@ -1,17 +1,9 @@
 ---
 title: Verplicht risicobeheersysteem voor hoog-risico AI
+index: 20
 toelichting: Voor AI-systemen met een hoog risico wordt een systeem voor risicobeheer vastgesteld, uitgevoerd, gedocumenteerd en in stand gehouden.
-status_vereiste:
-- nog-niet-geldend
-levenscyclus:
-- probleemanalyse
-- ontwerp
-- dataverkenning-en-datapreparatie
-- ontwikkelen
-- verificatie-en-validatie
-- implementatie
-- monitoring-en-beheer
-- uitfaseren
+# levenscyclus:
+# - organisateverantwoordelijkheden
 onderwerp:
 - governance
 hide:
@@ -37,10 +29,7 @@ Bij het vaststellen van de passendste risicobeheersmaatregelen moet de aanbieder
 Bij het vaststellen van het redelijkerwijs te voorzien misbruik van AI-systemen met een hoog risico moet de aanbieder aandacht hebben voor het gebruik van AI-systemen waarvan, hoewel zij niet rechtstreeks onder het beoogde doel vallen en niet in de gebruiksinstructies worden vermeld, mag worden verwacht dat zij kunnen voortvloeien uit gemakkelijk voorspelbaar menselijk gedrag.
 
 ## Bronnen
-
-| Bron                        |
-|-----------------------------|
-|Artikel 9(1) Systeem voor risicobeheer - AI verordening|
+[Artikel 9(1) Systeem voor risicobeheer - Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3241-1-1)
 
 ## Wanneer van toepassing?
 
@@ -51,10 +40,5 @@ Het ontbreken van risicobeheer kan leiden tot schade aan gebruikers of derden en
 
 
 ## Maatregelen
-
-=== "Allen"
-	<!-- list_maatregelen vereiste/verplicht_risicobeheersysteem_voor_hoog_risico_ai -->
-=== "Governance"
-	<!-- list_maatregelen vereiste/verplicht_risicobeheersysteem_voor_hoog_risico_ai onderwerp/governance -->
-=== "Publieke inkoop"
-	<!-- list_maatregelen vereiste/verplicht_risicobeheersysteem_voor_hoog_risico_ai onderwerp/publieke-inkoop -->
+	
+<!-- list_maatregelen vereiste/10-risicobeheersysteem -->

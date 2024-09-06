@@ -1,8 +1,7 @@
 ---
 title: Kwaliteitsbeheersysteem voor hoog-risico AI 
+index: 90
 toelichting: Aanbieders van AI-systemen met een hoog risico voorzien in een systeem voor kwaliteitsbeheer dat de naleving van deze verordening waarborgt. Dit systeem wordt op systematische en ordelijke wijze gedocumenteerd in de vorm van schriftelijke beleidslijnen, procedures en instructies en omvat ten minste de aspecten vermeld in artikel 17 AI-verordening.
-status_vereiste:
-- nog-niet-geldend
 levenscyclus:
 - probleemanalyse
 - ontwerp
@@ -35,10 +34,8 @@ Dit systeem omvat gedocumenteerde beleidslijnen, procedures en instructies, en b
 
 ## Bronnen
 
-| Bron                        |
-|-----------------------------|
-|Artikel 17(1) Systeem voor kwaliteitsbeheer- AI verordening|
-|Artikel 16(c) Verplichtingen van aanbieders van AI-systemen met een hoog risico - AI veordening|
+- [Artikel 17 Verordening Artifiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3906-1-1)
+- [Artikel 16(c) Verordening Artifiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3823-1-1)
 
 ## Wanneer van toepassing?
 
@@ -47,12 +44,6 @@ Dit systeem omvat gedocumenteerde beleidslijnen, procedures en instructies, en b
 
 Zonder toepassing van een kwaliteitsbeheersysteem kunnen risico's ontstaan voor de veiligheid, betrouwbaarheid en naleving van het AI-systeem en conformiteit met wet- en regelgeving.
 
-
 ## Maatregelen
 
-=== "Allen"
-	<!-- list_maatregelen vereiste/kwaliteitsbeheersysteem_voor_hoog_risico_ai -->
-=== "Governance"
-	<!-- list_maatregelen vereiste/kwaliteitsbeheersysteem_voor_hoog_risico_ai onderwerp/governance -->
-=== "Publieke inkoop"
-	<!-- list_maatregelen vereiste/kwaliteitsbeheersysteem_voor_hoog_risico_ai onderwerp/publieke-inkoop -->
+<!-- list_maatregelen vereiste/90-systeem-voor-kwaliteitsbeheer -->

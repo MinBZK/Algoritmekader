@@ -1,5 +1,6 @@
 ---
 title: Aanbieders van AI-systemen met een hoog risico kunnen aantonen dat het AI-systeem in overeenstemming is met de vereisten uit de AI-verordening
+index: 
 toelichting: Aanbieders van AI-systemen met een hoog risico moeten op verzoek van een met reden omkleed verzoek van een nationale bevoegde autoriteit aan kunnen tonen dat het AI-systeem in overeenstemming is met de vereisten van afdeling 2 AI-Verordening. 
 status_vereiste:
 - nog-niet-geldend
@@ -27,12 +28,9 @@ Op verzoek van een nationale bevoegde autoriteit moeten aanbieders van AI-system
 
 ## Bronnen
 
-| Bron                        |
-|-----------------------------|
-|Artikel 16(k) Verplichtingen van aanbieders van AI-systemen met een hoog risico- AI verordening|
+- Artikel 16(k) Verplichtingen van aanbieders van AI-systemen met een hoog risico- AI verordening
 
 ## Wanneer van toepassing?
-
 
 ## Risico
 
@@ -41,9 +39,4 @@ Niet naleven van deze verplichtingen kan leiden tot juridische en operationele p
 
 ## Maatregelen
 
-=== "Allen"
-	<!-- list_maatregelen vereiste/aantoonbaarheid_vereisten_hoog_risico -->
-=== "Governance"
-	<!-- list_maatregelen vereiste/aantoonbaarheid_vereisten_hoog_risico onderwerp/governance -->
-=== "Publieke inkoop"
-	<!-- list_maatregelen vereiste/aantoonbaarheid_vereisten_hoog_risico onderwerp/publieke-inkoop -->
+<!-- list_maatregelen vereiste/aantoonbaarheid_vereisten_hoog_risico -->

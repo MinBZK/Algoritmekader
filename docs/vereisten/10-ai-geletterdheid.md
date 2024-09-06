@@ -1,8 +1,7 @@
 ---
 title: Bevorder AI-geletterdheid van personeel en gebruikers
+index: 10
 toelichting: Aanbieders en exploitanten van AI-systemen moeten ervoor zorgen dat hun personeel en andere betrokkenen voldoende kennis hebben van AI. Dit omvat het bevorderen van kennis over de techniek, evenals kennis over de context waarin de AI-systemen worden gebruikt en de gebruikers van deze systemen. Het doel is om een adequaat niveau van begrip en vaardigheden te waarborgen, wat bijdraagt aan een verantwoord gebruik van AI en het minimaliseren van risico's.
-status_vereiste: 
- - geldend
 levenscyclus: 
 - probleemanalyse
 - ontwerp
@@ -11,17 +10,6 @@ levenscyclus:
 onderwerp: 
 - menselijke-controle
 - governance
-rekenregels: 
-- niet-impactvol: Nee
-- impactvol: Nee
-machine-learning: 
-- niet-impactvol: Ja
-- impactvol: Ja
-- hoog-risico: Ja
-generatieve-ai: 
-- niet-impactvol: Ja
-- impactvol: Ja
-- hoog-risico: Ja
 hide:
 - navigation
 ---
@@ -40,29 +28,9 @@ Het doel is om een adequaat niveau van begrip en vaardigheden te waarborgen, wat
 
 ## Bronnen 
 
-| Bron                        |
-|-----------------------------|
-|[Artikel 4 Verordening Artificiële Intelligentie](https://www.europarl.europa.eu/doceo/document/TA-9-2024-0138-FNL-COR01_NL.pdf)|
+[Artikel 4 AI-geletterdheid - Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e2799-1-1)
 
 ## Wanneer van toepassing? 
-
-=== "Rekenregel"
-
-	| niet-impactvol | impactvol | 
-	|----------------|-----------| 
-	| :material-close:{style='color: #EF5350' } | :material-close:{style='color: #EF5350' } |
-
-=== "Machine learning"
-
-	| niet-impactvol | impactvol | hoog-risico-ai | 
-	|----------------|-----------|-----------| 
-	| :material-check-bold:{ style='color: #4DB6AC' }  | :material-check-bold:{ style='color: #4DB6AC' } | :material-check-bold:{ style='color: #4DB6AC' } |
-
-=== "Generatieve AI"
-
-	| niet-impactvol | impactvol | hoog-risico-ai | 
-	|----------------|-----------|-----------| 
-	| :material-check-bold:{ style='color: #4DB6AC' }  | :material-check-bold:{ style='color: #4DB6AC' } | :material-check-bold:{ style='color: #4DB6AC' } |
 
 ## Risico 
 
@@ -71,9 +39,4 @@ Dit kan leiden tot inefficiëntie, fouten, en mogelijk schade aan organisaties, 
 
 ## Maatregelen 
 
-=== "Allen"
-	<!-- list_maatregelen vereiste/bevorder_ai_geletterdheid_personeel -->
-=== "Governance"
-	<!-- list_maatregelen vereiste/bevorder_ai_geletterdheid_personeel onderwerp/governance -->
-=== "Publieke inkoop"
-	<!-- list_maatregelen vereiste/bevorder_ai_geletterdheid_personeel onderwerp/publieke-inkoop -->
+<!-- list_maatregelen vereiste/10-ai-geletterdheid -->

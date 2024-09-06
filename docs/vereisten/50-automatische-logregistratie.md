@@ -1,14 +1,9 @@
 ---
 title: Automatische logregistratie voor hoog-risico AI
 toelichting: AI-systemen met een hoog risico zijn dusdanig technisch vormgegeven dat gebeurtenissen gedurende hun levenscyclus automatisch worden geregistreerd (“logs”).
-status_vereiste:
-- nog-niet-geldend
 levenscyclus:
-- ontwerp
 - ontwikkelen
-- verificatie-en-validatie
 - monitoring-en-beheer
-- uitfaseren
 onderwerp:
 - governance
 - technische-robuustheid-en-veiligheid
@@ -35,11 +30,9 @@ Voor AI-systemen die door bestuursorganen worden gebruikt of AI-systmen die pers
 
 ## Bronnen
 
-| Bron                        |
-|-----------------------------|
-|Artikel 12 Registratie- AI verordening|
-|Baseline Informatiebeveiliging Overheid hoofdstuk 12.4|
-|Artikel 5 en 32 AVG|
+- [Artikel 12 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3495-1-1)
+- [Hoofdstuk 12.4 Baseline Informatiebeveiliging Overheid ](https://www.bio-overheid.nl/media/13kduqsi/bio-versie-104zv_def.pdf)
+- [Artikel 5 en 32 Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679)
 
 ## Wanneer van toepassing?
 
@@ -47,18 +40,6 @@ Voor AI-systemen die door bestuursorganen worden gebruikt of AI-systmen die pers
 
 Ontbreken van automatische logregistratie kan leiden tot een gebrek aan transparantie en traceerbaarheid van het AI-systeem, wat het vermogen om verantwoordelijkheid te nemen en eventuele problemen aan te pakken belemmert en betrokkenen wiens persoonsgegevens worden verwerkt of geraakt worden door beslissingen van het AI-systeem in hun rechten kunnen worden beperkt.
 
-## Wanneer van toepassing?
-
-
-## Risico
-
-Ontbreken van automatische logregistratie kan leiden tot een gebrek aan transparantie en traceerbaarheid van het AI-systeem, wat het vermogen om verantwoordelijkheid te nemen en eventuele problemen aan te pakken belemmert.
-
 ## Maatregelen
 
-=== "Allen"
-	<!-- list_maatregelen vereiste/automatische_logregistratie -->
-=== "Governance"
-	<!-- list_maatregelen vereiste/automatische_logregistratie onderwerp/governance -->
-=== "Publieke inkoop"
-	<!-- list_maatregelen vereiste/automatische_logregistratie onderwerp/publieke-inkoop -->
+<!-- list_maatregelen vereiste/50-automatische-logregistratie -->

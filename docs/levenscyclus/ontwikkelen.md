@@ -1,5 +1,8 @@
 --- 
 title: Ontwikkelen
+hide:
+- navigation
+- toc
 ---
 
 Dit is de fase waarin het algoritme of AI-systeem wordt ontwikkeld door het ontwikkelteam. 
@@ -17,11 +20,11 @@ Daarnaast zullen tal van (technische) maatregelen moeten worden getroffen zoals 
 
 ## Vereisten
 
-<!-- list_vereisten levenscyclus/ontwikkelen no-rol no-levenscyclus -->
+<!-- list_vereisten levenscyclus/ontwikkelen no-rol no-levenscyclus no-search no-onderwerp -->
 
 ## Maatregelen
 
-<!-- list_maatregelen levenscyclus/ontwikkelen no-rol no-levenscyclus -->
+<!-- list_maatregelen levenscyclus/ontwikkelen no-rol no-levenscyclus no-search no-onderwerp -->
 
 
 !!! info "Disclaimer"

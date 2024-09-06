@@ -51,7 +51,7 @@ Dit geeft een beeld hoe de vereisten onderdeel kunnen worden gemaakt van contrac
 
 Hieronder volgt een overzicht van de maatregelen die (voor zover zijn uitgewerkt) kunnen worden getroffen om invulling te geven aan de vereisten. 
 
-<!-- list_maatregelen onderwerp/publieke-inkoop -->
+<!-- list_maatregelen onderwerp/publieke-inkoop no-search no-onderwerp no-rol no-levenscyclus -->
 
 !!! info "Disclaimer"
     Het Algoritmekader is nog volop in ontwikkeling. Er wordt momenteel hard gewerkt, mede door de Werkgroep Publieke Inkoop, om maatregelen te definiëren vanuit het perspectief publieke inkoop bij de vereisten. Mocht er iets niet kloppen, laat het ons weten via [GitHub](https://github.com/MinBZK/Algoritmekader) of via algoritmes@minbzk.nl.

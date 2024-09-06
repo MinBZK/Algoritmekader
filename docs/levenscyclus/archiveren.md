@@ -1,16 +1,19 @@
 --- 
 title: Archiveren
+hide:
+- navigation
+- toc
 ---
 
 Wanneer het algoritme of AI-model niet langer nodig is of wordt vervangen door een verbeterde versie, wordt het gearchiveerd. Dit omvat het behouden van documentatie en eventuele relevante artefacten.
  
 ## Vereisten
 
-<!-- list_vereisten levenscyclus/archiveren no-rol no-levenscyclus-->
+<!-- list_vereisten levenscyclus/archiveren no-rol no-levenscyclus no-search no-onderwerp -->
 
 ## Maatregelen
 
-<!-- list_maatregelen levenscyclus/archiveren no-rol no-levenscyclus-->
+<!-- list_maatregelen levenscyclus/archiveren no-rol no-levenscyclus no-search no-onderwerp -->
 
 !!! info "Disclaimer"
 

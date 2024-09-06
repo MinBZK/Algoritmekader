@@ -7,7 +7,7 @@ hide:
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/gemandateerd-verantwoordelijke no-rol no-levenscyclus no-search -->
+<!-- list_maatregelen rollen/gemandateerd-verantwoordelijke no-rol no-levenscyclus no-search no-onderwerp -->
 
 !!! info "Disclaimer"
 

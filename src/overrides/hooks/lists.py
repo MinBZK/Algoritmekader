@@ -14,7 +14,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
         if filter_options.get("search", True):
             filters.append('<div class="filter-item filter-item--search">')
             filters.append('<label for="filterInput">Zoeken</label>')
-            filters.append(f'<input type="text" id="filterInput" class="filter-item__input" onkeyup="filterTable()" placeholder="Zoek op {content_type}...">')
+            filters.append(f'<input type="text" id="filterInput" class="filter-item__input" onkeyup="filterTable()" placeholder="Zoek op {content_type}">')
             filters.append('</div>')
         
         if filter_options.get("rol", True):

@@ -1,5 +1,8 @@
 --- 
 title: Uitfaseren
+hide:
+- navigation
+- toc
 ---
 
 Als wordt besloten dat het algoritme of AI-systeem niet langer nodig is of wordt vervangen door een wezenlijk andere versie, wordt het gearchiveerd en uitgefaseerd. 
@@ -20,11 +23,11 @@ Gebruikers moeten hier vooraf over worden geïnformeerd en waar passend, bijvoor
  
 ## Vereisten
 
-<!-- list_vereisten levenscyclus/uitfaseren no-rol no-levenscyclus -->
+<!-- list_vereisten levenscyclus/uitfaseren no-rol no-levenscyclus no-search no-onderwerp -->
 
 ## Maatregelen
 
-<!-- list_maatregelen levenscyclus/uitfaseren no-rol no-levenscyclus -->
+<!-- list_maatregelen levenscyclus/uitfaseren no-rol no-levenscyclus no-search no-onderwerp -->
 
 !!! info "Disclaimer"
 

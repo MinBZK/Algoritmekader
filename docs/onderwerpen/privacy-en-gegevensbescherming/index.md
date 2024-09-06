@@ -21,12 +21,12 @@ Door deze vereisten in de levenscyclus te integreren, kunnen de gebruikers inzic
 
 ## Vereisten
 
-<!-- list_vereisten onderwerp/privacy-en-gegevensbescherming -->
+<!-- list_vereisten onderwerp/privacy-en-gegevensbescherming no-search no-onderwerp no-rol no-levenscyclus -->
 
 
 ## Maatregelen
 
-<!-- list_maatregelen onderwerp/privacy-en-gegevensbescherming-->
+<!-- list_maatregelen onderwerp/privacy-en-gegevensbescherming no-search no-onderwerp no-rol no-levenscyclus -->
 
 ## Instrumenten
 

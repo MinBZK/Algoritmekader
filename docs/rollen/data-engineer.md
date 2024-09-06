@@ -7,7 +7,7 @@ hide:
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/data-engineer no-rol no-levenscyclus no-search -->
+<!-- list_maatregelen rollen/data-engineer no-rol no-levenscyclus no-search no-onderwerp -->
 
 !!! info "Disclaimer"
 

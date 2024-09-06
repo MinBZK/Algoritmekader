@@ -3,7 +3,7 @@
   display: flex;
   flex-wrap: wrap;
   gap: 16px; /* Consistent gap between all filter items */
-  width: 100%;
+  max-width: 100%;
   box-sizing: border-box;
   align-items: flex-start; /* Align items to the top of the container */
 }
@@ -14,13 +14,13 @@
   margin: 0; /* Remove any default margins that may cause inconsistency */
   padding: 0; /* Remove any default padding */
   box-sizing: border-box; /* Ensure consistent sizing */
+  min-height: 48px !important;
 }
 
 /* Input and select fields */
 #filterInput,
 #filterSelect,
-#filterLevenscyclusSelect,
-.select2-container--default .select2-selection--multiple {
+#filterLevenscyclusSelect {
   border: 2px solid #154273;
   border-radius: 4px;
   padding: 12px; /* Padding inside the field */
@@ -31,7 +31,8 @@
   width: 100%; /* Take full width of the filter item */
   min-width: 250px; /* Ensure a minimum width */
   flex-grow: 1; /* Allow fields to grow within their container */
-  min-height: 44px;
+  min-height: 48px;
+  max-width: 360px;
 }
 
 /* Specific style for the search filter */
@@ -58,23 +59,6 @@
   font-family: "ROsanswebtextregular", sans-serif; /* Custom font */
 }
 
-/* Custom styles for the multi-select container */
-.select2-container--default .select2-selection--multiple {
-  display: flex !important;
-  flex-wrap: wrap !important; /* Allow items to wrap within the container */
-  background-color: #ffffff !important;
-  border: 2px solid #154273 !important;
-  border-radius: 4px !important;
-  padding-top: 7px !important; /* Match padding with other input fields */
-  padding-bottom: 7px !important; /* Match padding with other input fields */
-  padding-left: 12px !important; /* Match padding with other input fields */
-  box-sizing: border-box; /* Ensure consistent sizing */
-  min-height: 44px; /* Ensure consistent minimum height */
-  width: 100%; /* Allow the container to grow with available space */
-  max-width: 100%; /* Prevent overflow beyond the container */
-  font-family: "ROsanswebtextregular", sans-serif; /* Custom font */
-}
-
 /* Custom styles for selected items (the "chips") */
 .choices__list--multiple .choices__item {
   border: 1px solid #154273 !important;
@@ -96,6 +80,8 @@
 .choices{
   padding: 0 !important;
   background-color: #ffffff;
+  min-height: 44px !important;
+  max-width: 360px !important;
 }
 
 .choices__inner{
@@ -143,6 +129,8 @@
 .choices__inner {
   background-color: white;
   border-color: #154273;
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
 }
 
 .choices__list--multiple .choices__item {
@@ -159,5 +147,9 @@
   font-family: "ROsanswebtextregular", sans-serif !important;
   background-color: #ffffff !important;
   font-size: 16px !important;
-  padding: 4px 0;
+  margin-bottom: 0px !important;
+}
+
+.choices__input--cloned{
+  margin-bottom: 0px !important;
 }

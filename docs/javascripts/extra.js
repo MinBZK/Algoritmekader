@@ -12,6 +12,7 @@ document$.subscribe(function() {
     // Reinitialize Choices.js when content is dynamically updated
     document.addEventListener('contentUpdated', function() {
         initializeChoices();
+        attachFilterListeners(); // Re-attach listeners after content updates
     });
 });
 
@@ -96,6 +97,7 @@ function setActiveLink() {
 function attachFilterListeners() {
     var filterSelect = document.getElementById("filterSelect");
     var levenscyclusSelect = document.getElementById("filterLevenscyclusSelect");
+    var onderwerpSelect = document.getElementById("filterOnderwerpSelect");
     var filterInput = document.getElementById("filterInput");
 
     if (filterSelect) {
@@ -104,6 +106,10 @@ function attachFilterListeners() {
 
     if (levenscyclusSelect) {
         levenscyclusSelect.addEventListener('change', filterTable);
+    }
+
+    if (onderwerpSelect) {
+        onderwerpSelect.addEventListener('change', filterTable);
     }
 
     if (filterInput) {
@@ -128,25 +134,32 @@ function filterTable() {
         .filter(option => option.selected)
         .map(option => option.value.toUpperCase());
 
+    var onderwerpSelect = document.getElementById("filterOnderwerpSelect");
+    var selectedOnderwerpen = Array.from(onderwerpSelect.options)
+        .filter(option => option.selected)
+        .map(option => option.value.toUpperCase());
+
     var table = document.getElementById("myTable");
     var tr = table ? table.getElementsByTagName("tr") : [];
 
     for (var i = 1; i < tr.length; i++) { // Skip header row
         var td = tr[i].getElementsByTagName("td")[0];
-        var roles = tr[i].getElementsByTagName("td")[1];
-        var lc = tr[i].getElementsByTagName("td")[2];
+        var roles = tr[i].getElementsByTagName("td")[2]; // Update this for correct roles
+        var lc = tr[i].getElementsByTagName("td")[3];   // levenscyclus
+        var onderwerpen = tr[i].getElementsByTagName("td")[1]; // Updated to get onderwerpen from td[1]
 
-        if (td && roles && lc) {
+        if (td && roles && lc && onderwerpen) {
             var txtValue = td.textContent || td.innerText;
-            var txtValue2 = roles.textContent || roles.innerText;
-            var txtValue3 = lc.textContent || lc.innerText;
+            var txtValue2 = onderwerpen.textContent || onderwerpen.innerText; // 'onderwerpen' now using value2
+            var txtValue3 = roles.textContent || roles.innerText;
+            var txtValue4 = lc.textContent || lc.innerText;
 
-            // Check if all selected roles are present
-            var roleMatch = selectedRoles.every(role => txtValue2.toUpperCase().indexOf(role) > -1);
-            // Check if all selected lifecycle stages are present
-            var lcMatch = selectedLevenscyclus.every(lc => txtValue3.toUpperCase().indexOf(lc) > -1);
+            // Check if all selected filters are present
+            var onderwerpMatch = selectedOnderwerpen.every(onderwerp => txtValue2.toUpperCase().indexOf(onderwerp) > -1);
+            var roleMatch = selectedRoles.every(role => txtValue3.toUpperCase().indexOf(role) > -1);
+            var lcMatch = selectedLevenscyclus.every(lc => txtValue4.toUpperCase().indexOf(lc) > -1);
 
-            if (txtValue.toUpperCase().indexOf(filter) > -1 && roleMatch && lcMatch) {
+            if (txtValue.toUpperCase().indexOf(filter) > -1 && onderwerpMatch && roleMatch && lcMatch) {
                 tr[i].style.display = "";
             } else {
                 tr[i].style.display = "none";

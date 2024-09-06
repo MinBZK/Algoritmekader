@@ -13,6 +13,7 @@ rollen:
 - domeinspecialist
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

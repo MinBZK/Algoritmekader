@@ -20,7 +20,9 @@ hide:
 Stel vast of de gebruikte data van voldoende kwaliteit is voor de beoogde toepassing.
 
 ## Toelichting
-- Stel functionele eisen voor de data kwaliteit vast. 
+- Stel functionele eisen voor de data kwaliteit vast en analyseer structureel of er aan deze eisen wordt voldaan. 
+- De kwaliteit van de data die als input voor het algoritme wordt gebruikt is bepalend voor de uitkomsten van het algoritme. Hier wordt soms ook naar gerefereerd als *garbage in = garbage out*. 
+- Een vraag die gesteld dient te worden: beschrijft de data het fenomeen dat onderzocht dient te worden? 
 - Het [Raamwerk gegevenskwaliteit](https://www.noraonline.nl/wiki/Raamwerk_gegevenskwaliteit) bevat een breed toepasbare set van kwaliteitsdimensies:
 
     - juistheid
@@ -33,23 +35,23 @@ Stel vast of de gebruikte data van voldoende kwaliteit is voor de beoogde toepas
     - traceerbaarheid
     - begrijpelijkheid
 
-    Deze dimensies zijn aangevuld met [kwaliteitsattributen](https://www.noraonline.nl/wiki/Raamwerk_gegevenskwaliteit/Kwaliteitsattributen). 
+    Deze dimensies zijn aangevuld met [kwaliteitsattributen](https://www.noraonline.nl/wiki/Raamwerk_gegevenskwaliteit/Kwaliteitsattributen) welke gebruikt kunnen worden om de verschillende dimensies meetbaar te maken. 
 
-- Houd hierbij rekening met eventuele bias die in de data kan zitten
 
 ## Bijbehorende vereiste(n)
 
 <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
-Het model creëert onwenselijke systematische afwijking voor specifieke personen, groepen of andere eenheden. 
-Dit kan leiden tot ongelijke behandeling en discriminerende effecten met eventuele schade voor betrokkenen. 
+- Door onjuiste beslissingen van gegevens kunnen verkeerde beslissingen genomen worden. 
+- Het model creëert onwenselijke systematische afwijking voor specifieke personen, groepen of andere eenheden. Dit kan leiden tot ongelijke behandeling en discriminerende effecten met eventuele schade voor betrokkenen. 
 
 ## Bronnen
 - [Onderzoekskader Algoritmes Auditdienst Rijk, DM.19](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Toetsingskader Algoritmes, Algemene Rekenkamder, 2.18](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [NORA, Raamwerk gegevenskwaliteit](https://www.noraonline.nl/wiki/Raamwerk_gegevenskwaliteit)
 - [Impact Assessment Mensenrechten en Algoritmes, 2A.2.2](../instrumenten/IAMA.md)
+- [Handreiking non-discriminatie by design](https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design)
 
 ## Voorbeeld
 

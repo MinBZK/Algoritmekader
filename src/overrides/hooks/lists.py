@@ -87,6 +87,10 @@ def on_env(env, config: MkDocsConfig, files: Files):
             if not file.src_path.endswith(".md"):
                 continue
 
+            # Exclude 'index.md' from any directory
+            if file.src_path.endswith("/index.md"):
+                continue
+
             if not type_value_bundle or all(
                 value in file.page.meta.get(type, [])
                 for type, value in type_value_bundle
@@ -112,7 +116,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 "</tbody>",
                 "</table>",
             ]
-        )
+    )
 
     for file in files:
         if not file.src_path.endswith(".md"):
@@ -149,6 +153,9 @@ def _create_chip(item: str, link: str, chip_type: str) -> str:
     elif chip_type == 'levenscyclus':
         color_class = 'indigo'
         icon_svg = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2 12a9 9 0 0 0 9 9c2.39 0 4.68-.94 6.4-2.6l-1.5-1.5A6.706 6.706 0 0 1 11 19c-6.24 0-9.36-7.54-4.95-11.95C10.46 2.64 18 5.77 18 12h-3l4 4h.1l3.9-4h-3a9 9 0 0 0-18 0Z"></path></svg>'
+    elif chip_type == 'onderwerp':
+        color_class = 'teal'
+        icon_svg = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2a7 7 0 0 0-7 7c0 2.38 1.19 4.47 3 5.74V17a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1v-2.26c1.81-1.27 3-3.36 3-5.74a7 7 0 0 0-7-7M9 21a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1v-1H9v1Z"></path></svg>'
     else:
         color_class = 'blue'
         icon_svg = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2 12a9 9 0 0 0 9 9c2.39 0 4.68-.94 6.4-2.6l-1.5-1.5A6.706 6.706 0 0 1 11 19c-6.24 0-9.36-7.54-4.95-11.95C10.46 2.64 18 5.77 18 12h-3l4 4h.1l3.9-4h-3a9 9 0 0 0-18 0Z"></path></svg>'

@@ -53,7 +53,7 @@ Aan het einde van ieder subonderwerp binnen het onderwerp governance geven we aa
 2. Een algoritme-proceseigenaar die wil waarborgen dat de algoritmegovernance aansluit bij de praktijk. Dit is bottom-up, bekeken vanuit het perspectief van het product. 
 
 
-### huidige situatie AI en algoritme governance
+### Huidige situatie AI en algoritme governance
 
 Om een goede AI en algoritme governance te realiseren is het van belang eerst de organisatie te kennen. Wat er al is aan governance (processen, rollen, etc.), beïnvloedt hoe AI en algoritme governance daaraan opgehangen kan worden. De eerste fase van het in kaart brengen van de huidige situatie AI en algoritme governance is ingedeeld in:
 

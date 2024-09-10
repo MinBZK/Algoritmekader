@@ -4,9 +4,9 @@ summary: Hier staat een korte samenvatting over dit onderwerp
 icon: material/bank
 ---
 
-Om tot een passende AI-governance voor een organisatie te komen, moet eerst worden vastgesteld waar een organisatie zich momenteel bevindt op dit gebied. Dit wordt het bepalen van het zogenaamde 'volwassenheidsniveau' genoemd. Op basis hiervan kunnen vervolgstappen worden gedefinieerd waar een organisatie aan kan gaan werken om zich naar de volgende niveaus voor AI-governance door te ontwikkelen. 
+Om tot een passende AI-governance voor een organisatie te komen, moet eerst worden vastgesteld wat op dit moment al is ingericht op het gebied van AI en algoritmes. Dit wordt het bepalen van het zogenaamde 'volwassenheidsniveau' genoemd. Op basis hiervan kunnen vervolgstappen worden gedefinieerd waar een organisatie aan kan gaan werken om zich naar de volgende niveaus voor AI en al;goritme governance door te ontwikkelen. 
 
-Er zijn verschillende volwassenheidsmodellen hiervoor te gebruiken. Enkele voorbeelden zijn hieronder beschreven. Deze modellen richten zich niet altijd expliciet op AI governance maar kijken naar AI in de organisatie in brede zin of naar “AI ethics”. AI governance is echter een onderdeel van deze modellen.
+Er zijn verschillende volwassenheidsmodellen hiervoor te gebruiken. Enkele voorbeelden zijn hieronder beschreven. Deze modellen richten zich niet altijd expliciet op AI en algoritme governance, maar kijken naar AI en/of algoritmes in de organisatie in brede zin of naar “AI ethics”. Governance is echter altijd een onderdeel van deze volwassenheidsmodellen.
 
 ## Voorbeelden van volwassenheidsmodellen
 
@@ -36,10 +36,10 @@ Om zowel op AI als op innovatie te verbeteren, kunnen volwassenheidsmodellen voo
 Nadat een volwassenheidsniveau van de AI-governance is vastgesteld kunnen hier concrete taken aan worden verbonden. Het realiseren van AI-governance vraagt zeer waarschijnlijk om een organisatieverandering. Het is aan te raden om verantwoordelijkheid te beleggen voor het realiseren van AI-governance. Dit is mogelijk te koppelen aan de implementatie van de AI-verordening binnen de organisatie. Bewustzijn over de noodzaak voor AI-governance moet op bestuurlijk niveau helder zijn. Een analyse van volwassenheidsniveau kan helpen input te geven waar eerst op te richten.
 
 ## Acties/vragen:
-*	Breng in kaart wat er al is m.b.t. IT-governance met één van de volwassenheidsmodellen.
+*	Breng in kaart wat er al is aan IT-governance met één van de volwassenheidsmodellen.
     -	Is de organisatie volwassen? Vallen AI en algoritmes al ergens onder? 
-    -	Breng deze informatie naar je bestuur met het verzoek duidelijkheid te krijgen hoe AI-governance belegt zou moeten worden. (De AI-verordening vraagt om belegde verantwoordelijkheden m.b.t. AI en algoritmes.)
-*	Er is verschil in datageletterdheid van ambtenaren. Benodigde skills en expertise (die mogelijk ontbreken) is van belang bij het invullen van rollen en verantwoordelijkheden.
+    -	Breng deze informatie naar je bestuur met het verzoek duidelijkheid te krijgen hoe AI-governance belegt zou moeten worden. (De AI-verordening vraagt om belegde verantwoordelijkheden met betrekking tot AI en algoritmes.)
+*	Er is verschil in datageletterdheid van ambtenaren. Benodigde skills en expertise (die mogelijk ontbreken) zijn van belang bij het invullen van rollen en verantwoordelijkheden.
 
  
 

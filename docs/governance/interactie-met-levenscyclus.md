@@ -1,7 +1,5 @@
 ---
 title: Interactie met de levenscyclus
-summary: Hier staat een korte samenvatting over dit onderwerp
-icon: material/bank
 ---
 
 Voor effectieve governance van algoritmen/AI is het vormgeven van de juiste interacties en informatie uitwisseling tussen direct betrokkenen bij de ontwikkeling/inzet van algoritmen/AI en stakeholders binnen/buiten de organisatie in elke fase van de levenscyclus essentieel. Het gaat enerzijds over het top down betrokken en verantwoordelijk blijven, het bijsturen op de juiste doelstellingen, waarden en principes en het alloceren van passende middelen en randvoorwaarden om verantwoorde inzet mogelijk te maken. Anderzijds gaat het over het bottom up betrekken van de juiste stakeholders in de organisatie, het verschaffen van benodigde informatie en het voorleggen van afwegingen en uitdagingen die verantwoorde inzet van algoritmen/AI mogelijk maken. 

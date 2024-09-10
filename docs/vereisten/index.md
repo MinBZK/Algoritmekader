@@ -26,6 +26,7 @@ Welke vereisten gelden voor jouw organisatie, hangt af van:
 
 - de technologie die je gebruikt: rekenregels, machinelearning of generatieve AI
 - de risicoclassificatie van het algoritme dat je gebruikt
+- je rol bij: ben je ontwikkelaar of alleen gebruiker van het algoritme?
 
 ### Voorbeeld
 > Impactvolle algoritmes en AI-systemen worden gepubliceerd in het Nederlandse algoritmeregister.

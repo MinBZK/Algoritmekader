@@ -11,9 +11,9 @@ Dit onderdeel van het Algoritmekader gaat over de governance van AI en algoritme
 
 !!! note "Let op!"
 
-  Governance wordt in verschillende contexten anders gebruikt, daarom spreken van “algoritme en AI governance”. 
-  Omdat het Algoritmekdader uitgaat van de [brede definitie van een algoritme](../overhetalgoritmekader/definities.md), hanteren we voor het gemak de term “algoritme-governance” als we het hebben over governance over algoritmes en AI. 
-  Dat kan omdat AI-systemen altijd algoritmes zijn, terwijl niet alle algoritmes AI-systemen zijn.
+    Governance wordt in verschillende contexten anders gebruikt, daarom spreken van “algoritme en AI governance”. 
+    Omdat het Algoritmekdader uitgaat van de [brede definitie van een algoritme](../overhetalgoritmekader/definities.md), hanteren we voor het gemak de term “algoritme-governance” als we het hebben over governance over algoritmes en AI. 
+    Dat kan omdat AI-systemen altijd algoritmes zijn, terwijl niet alle algoritmes AI-systemen zijn.
 
 De noodzaak van governance is om grip te hebben (of krijgen) op algoritmes en AI binnen een organisatie en zaken als (onbedoelde) discriminatie te voorkomen. 
 Mede gezien de AI-verordening, die 1 augustus 2024 gefaseerd in werking is getreden, is het van belang dat organisaties zich organiseren om deze wet correct te kunnen uitvoeren. 

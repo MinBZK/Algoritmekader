@@ -1,8 +1,7 @@
 ---
 title: Samenhang tussen verschillende governance structuren
-summary: Hier staat een korte samenvatting over dit onderwerp
-icon: material/bank
 ---
+
 Bij vormgeving algoritme en AI governance van een organisatie is het van belang om aansluiting en samenhang te bewerkstelligen met huidige governance structuren binnen de organisatie, zoals IT, data, informatiebeveiliging en privacy governance structuren. 
 Vragen waarbij hierbij aandacht aan kan worden besteed is:
 - Welke lessen zijn geleerd van de implementatie van de AVG?

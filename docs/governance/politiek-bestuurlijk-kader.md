@@ -1,7 +1,5 @@
 ---
 title: Politiek-bestuurlijk kader
-summary: Hier staat een korte samenvatting over dit onderwerp
-icon: material/bank
 ---
 
 Voor een passende algoritme en AI governance is politiek-bestuurlijk bewustzijn, betrokkenheid en verantwoordelijkheid essentieel. De kernvraag voor publieke organisaties bij de inzet van algoritmen en AI is altijd: Hoe wegen we (als publieke organisatie of samenleving) de voordelen en nadelen van de inzet van algoritmen en AI? 

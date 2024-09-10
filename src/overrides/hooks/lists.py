@@ -53,6 +53,37 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 "</table>",
             ]
         )
+
+    # function to create list of vereisten on governance page
+    def replace_vereisten_governance(match: Match):
+        type = match.groups()[0]
+        types = re.split(r"\s+", type)
+        type_value_bundle = [y.split("/") for y in types]
+
+        list: List[File] = []
+        for file in files:
+            if not file.src_path.startswith("vereisten/"):
+                continue
+
+            if not file.src_path.endswith(".md"):
+                continue
+
+            if all(
+                value in file.page.meta.get(type, [])
+                for type, value in type_value_bundle
+            ):
+                
+                list.append(file)
+
+        return "".join(
+            [
+                "<tbody>",
+                "<ul>",
+                *([_create_list_item(item) for item in list]),
+                "</ul>"
+                "</tbody>",
+            ]
+        )
     
     # function to create list of vereisten
     def replace_vereisten_all(match: Match):
@@ -108,8 +139,39 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 "</table>",
             ]
         )
+
+    # function to create list of maatregelen
+    def replace_maatregelen_governance(match: Match):
+        type = match.groups()[0]
+        types = re.split(r"\s+", type)
+        type_value_bundle = [y.split("/") for y in types]
+
+        list: List[File] = []
+        for file in files:
+            if not file.src_path.startswith("maatregelen/"):
+                continue
+
+            if not file.src_path.endswith(".md"):
+                continue
+
+            if all(
+                value in file.page.meta.get(type, [])
+                for type, value in type_value_bundle
+            ):
+                
+                list.append(file)
+
+        return "".join(
+            [
+                "<tbody>",
+                "<ul>",
+                *([_create_list_item(item) for item in list]),
+                "</ul>"
+                "</tbody>",
+            ]
+        )
     
-     # function to create list of maatregelen
+    # function to create list of maatregelen
     def replace_maatregelen_all(match: Match):
         list: List[File] = []
         for file in files:
@@ -204,6 +266,11 @@ def on_env(env, config: MkDocsConfig, files: Files):
             r"<!-- list_vereisten (.*?) -->", replace_vereisten, file.page.content, flags=re.I | re.M
         )
 
+        # Find and replace all strings in current page to list of vereisten
+        file.page.content = re.sub(
+            r"<!-- list_vereisten_governance (.*?) -->", replace_vereisten_governance, file.page.content, flags=re.I | re.M
+        )
+
          # Find and replace all strings in current page to list of vereisten
         file.page.content = re.sub(
             r"<!-- list_vereisten_all -->", replace_vereisten_all, file.page.content, flags=re.I | re.M
@@ -212,6 +279,11 @@ def on_env(env, config: MkDocsConfig, files: Files):
         # Find and replace all strings in current page to list of maatregelen
         file.page.content = re.sub(
             r"<!-- list_maatregelen (.*?) -->", replace_maatregelen, file.page.content, flags=re.I | re.M
+        )
+
+        # Find and replace all strings in current page to list of maatregelen
+        file.page.content = re.sub(
+            r"<!-- list_maatregelen_governance (.*?) -->", replace_maatregelen_governance, file.page.content, flags=re.I | re.M
         )
 
         # Find and replace all strings in current page to list of maatregelen

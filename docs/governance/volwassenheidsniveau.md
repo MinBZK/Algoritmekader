@@ -1,6 +1,5 @@
 ---
 title: Volwassenheidsniveau
-icon: material/bank
 ---
 
 Om tot een passende AI-governance voor een organisatie te komen, moet eerst worden vastgesteld wat op dit moment al is ingericht op het gebied van AI en algoritmes. 

@@ -5,18 +5,16 @@ hide:
   - navigation
   - toc
 ---
-
+# Algoritmekader 
 <div class="header-container">
-  <h1>Algoritmekader
+    <div class="subheader">Wetten en regels, tips en hulpmiddelen voor verantwoord gebruik van algoritmes en AI. 
     <span class="version-container">
       <span class="version-label">Bètaversie</span>
       <div class="hover-info">
         <p>Deze website is in ontwikkeling. Alle versies ontstaan op een open manier. <a href="overhetalgoritmekader/CONTRIBUTING/">Iedereen mag opmerkingen of suggesties geven.</a></p>
       </div>
     </span>
-  </h1>
-  <div class="subheader">Wetten en regels, tips en hulpmiddelen voor verantwoord gebruik van algoritmes en AI.
-    <br /><a href="overhetalgoritmekader/">Over het Algoritmekader</a></div>
+    <br><a href="overhetalgoritmekader/">Over het Algoritmekader</a></div>
 </div>
 
 <div class="float-container">

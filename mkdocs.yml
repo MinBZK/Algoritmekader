@@ -39,13 +39,14 @@ nav:
         - overhetalgoritmekader/CONTRIBUTING.md
     - Governance:
         - governance/index.md
-        - governance/governance-structuur.md
-        - governance/politiek-bestuurlijk-kader.md
-        - governance/interactie-burgers-en-omgeving.md
         - governance/volwassenheidsniveau.md
-        - governance/levenscyclus.md
-        - governance/rollen_en_verantwoordelijkheden.md
-        - governance/type_algoritme.md
+        - governance/samenhang-governancestructuren.md
+        - governance/politiek-bestuurlijk-kader.md
+        - governance/governance-structuur.md
+        - governance/governance-per-risicogroep.md
+        - governance/interactie-met-levenscyclus.md
+        - governance/rollen-en-verantwoordelijkheden.md
+        - governance/interactie-burgers-en-omgeving.md
     - Levenscyclus:
         - levenscyclus/index.md 
         - levenscyclus/probleemanalyse.md

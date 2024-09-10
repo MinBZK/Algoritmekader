@@ -2,8 +2,8 @@
 title: Verplicht risicobeheersysteem voor hoog-risico AI
 index: 20
 toelichting: Voor AI-systemen met een hoog risico wordt een systeem voor risicobeheer vastgesteld, uitgevoerd, gedocumenteerd en in stand gehouden.
-# levenscyclus:
-# - organisateverantwoordelijkheden
+levenscyclus:
+- organisateverantwoordelijkheden
 onderwerp:
 - governance
 hide:

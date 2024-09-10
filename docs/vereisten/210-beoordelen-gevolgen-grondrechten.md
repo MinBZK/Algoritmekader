@@ -45,4 +45,4 @@ Het niet uitvoeren van deze beoordeling kan leiden tot schendingen van de grondr
 
 ## Instrumenten
 
-<!-- list_instrumenten vereiste/beoordelen_gevolgen_voor_grondrechten -->
+<!-- list_instrumenten vereiste/210-beoordelen-gevolgen-grondrechten -->

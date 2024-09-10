@@ -1,7 +1,5 @@
 ---
 title: Rollen en verantwoordelijkheden
-summary: Hier staat een korte samenvatting over dit onderwerp
-icon: material/bank
 ---
 
 Binnen het vormgeven van effectieve  en efficiente governance van algoritmen/AI zijn het beleggen van expliciete rollen en verantwoordelijkheden cruciaal. Het beleggen van deze rollen zorgt voor een actiegerichte structuur waarin zo weinig mogelijk verwarring/onduidelijkheid bestaat over wie wanneer aan zet is. Informatie-uitwisseling en besluitvorming tussen deze rollen zal effectief plaatsvinden. 

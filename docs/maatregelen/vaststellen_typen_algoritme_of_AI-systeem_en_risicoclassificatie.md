@@ -7,7 +7,7 @@ toelichting: Het verschilt per typen algoritmen of AI-systemen welke vereisten h
 vereiste: 
 - transparantie
 - beginsel_van_proportionaliteit_en_subsidiariteit
-
+- aia:06.4-documentatie-beoordeling-niet-hoog-risico-ai
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 
 - ontwerp

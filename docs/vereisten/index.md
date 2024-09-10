@@ -1,6 +1,7 @@
 ---
 title: Vereisten
 summary: Overzicht van vereisten voor overheden die algoritmes of AI ontwikkelen of gebruiken.
+id: 0
 hide:
 - navigation
 ---

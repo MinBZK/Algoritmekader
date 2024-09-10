@@ -1,7 +1,5 @@
 ---
 title: Governance en risio classificatie
-summary: Hier staat een korte samenvatting over dit onderwerp
-icon: material/bank
 ---
 
 Er is verschil in de vereisten en maatregelen die nodig zijn afhankelijk van het type risico en impact van algoritmen. Meer risicovolle AI vraagt om meer uitgebreide processen, en dus een meer uitgebreide governance. 

@@ -6,3 +6,6 @@ site
 **/__pycache__/**
 
 src/overrides/hooks/create_vereisten.py
+
+# IDE Pycharm
+.idea/

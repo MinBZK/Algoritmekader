@@ -148,6 +148,78 @@ tbody tr td a:hover {
   text-align: left; 
 }
 
+ /* General Layout */
+ .header-container {
+  margin-bottom: 20px;
+  position: relative;
+  text-align: left; 
+  margin-bottom: 40px;
+}
+
+.header-container h1, .header-container h2 {
+  font-size: 2em;
+  margin: 0;
+  display: inline-block;
+  position: relative;
+  text-align: left; 
+  color: #154273;
+}
+
+.header-container .version-label {
+  font-size: 0.4em;
+  background-color: #e5f1f9;
+  color: #154273;
+  padding: 4px;
+  border-radius: 3px;
+  margin-left: 10px;
+  cursor: pointer;
+  position: relative;
+  text-align: left; 
+  font-weight: 500;
+  text-transform: capitalize;
+}
+
+.header-container .hover-info {
+  font-size: 0.4em;
+  display: none;
+  position: absolute;
+  top: 90%; /* Direct onder het label */
+  left: 0;
+  background-color: #fff;
+  color: #333;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 2px 8px;
+  z-index: 1000;
+  white-space: normal;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  text-align: left; 
+}
+
+.header-container .version-label:hover + .hover-info,
+.header-container .hover-info:hover {
+  display: block;
+  text-align: left; 
+}
+
+.header-container .hover-info a {
+  color: #154273;
+  font-weight: bold;
+  text-align: left; 
+}
+
+.header-container .hover-info a:hover {
+  text-decoration: underline;
+}
+
+/* Subheader Styling */
+.header-container .subheader {
+  font-size: 1.2em;
+  color: #154273;
+  margin: 10px 0 20px;
+  text-align: left; /* Ensure left alignment */
+}
+
 /* Float Child */
 .float-child {
   background-color: #e5f1f9;

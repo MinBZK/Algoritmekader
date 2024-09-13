@@ -51,7 +51,7 @@ Dit is mogelijk te koppelen aan de implementatie van de AI-verordening binnen de
 Bewustzijn over de noodzaak voor AI-governance moet op bestuurlijk niveau helder zijn. 
 Een analyse van volwassenheidsniveau kan helpen input te geven waar eerst op te richten.
 
-## Acties/vragen:
+## Aandachts- en actiepunten:
 *	Breng in kaart wat er al is aan IT-governance met één van de volwassenheidsmodellen.
     -	Is de organisatie volwassen? Vallen AI en algoritmes al ergens onder? 
     -	Breng deze informatie naar je bestuur met het verzoek duidelijkheid te krijgen hoe AI-governance belegt zou moeten worden. De AI-verordening vraagt om belegde verantwoordelijkheden met betrekking tot AI en algoritmes.

@@ -13,6 +13,7 @@ Het onderwerp Governance in het algoritmekader is opgedeeld in twee delen, die i
 Een AI en algoritmegovernance (processen, verantwoordelijken, etc.) ingericht hebben, is een randvoorwaarde om de vereisten die het Algoritmekader noemt verantwoord en gestructureerd aan te pakken. Een AI en algoritmegovernance moet zijn ingericht alvorens te kunnen starten met algoritmes. Kortom: governance is het startpunt.
 
 Aan het einde van ieder subonderwerp binnen het onderwerp governance geven we aandachts- en actiepunten. Daarbij zijn er twee te onderscheiden doelgroepen (invalshoeken) met soms verschillend handelingsperspectief:
+
 1. Een medewerker CDO/CIO-office met de taak om algoritmegovernance (beter) in te richten. Dit is top-down, bekeken vanuit organisatieperspectief.
 2. Een algoritme-proceseigenaar die wil waarborgen dat de algoritmegovernance aansluit bij de praktijk. Dit is bottom-up, bekeken vanuit het perspectief van het product.
 
@@ -64,7 +65,6 @@ Aan het einde van ieder subonderwerp binnen het onderwerp governance geven we aa
 
 1. Een medewerker CDO/CIO-office met de taak om algoritmegovernance (beter) in te richten. Dit is top-down, bekeken vanuit organisatieperspectief.
 2. Een algoritme-proceseigenaar die wil waarborgen dat de algoritmegovernance aansluit bij de praktijk. Dit is bottom-up, bekeken vanuit het perspectief van het product. 
-
 
 ### Huidige situatie AI en algoritme governance
 

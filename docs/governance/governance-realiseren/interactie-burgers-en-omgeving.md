@@ -6,23 +6,14 @@ Bij het vormgeven van de algoritme en AI governance is het van belang om na te d
 
 ## Aandachts- en actiepunten
 
-*	Onderzoek of je burgers en/of omgeving wil betrekken bij de AI-governance in je organisatie, en op welke manier. 
+*	[Onderzoek of je burgers en/of omgeving wil betrekken](../../../maatregelen/betrek_belanghebbenden.md) bij de AI-governance in je organisatie, en op welke manier. 
   *	Dit kan strategisch (in het vaststellen van de waardes van je organisatie) op meer in operationele processen (op een vast punt in de AI-levenscyclus). 
 * Zie ter inspiratie [Citizen Participation Methods for Artificial Intelligence](https://openresearch.amsterdam/en/page/110361/citizen-participation-methods-for-artificial-intelligence)
 
 
 ## Bronnen
-[Citizen Participation Methods for Artificial Intelligence](https://openresearch.amsterdam/en/page/110361/citizen-participation-methods-for-artificial-intelligence)
-|[Framework for Meaningfull Engagement](https://ecnl.org/sites/default/files/2023-03/Final%20Version%20FME%20with%20Copyright%20%282%29.pdf) |
-
-
-## Vereisten
-
-<!-- list_vereisten_1 bouwblok/governance -->
-
-## Maatregelen
-
-<!-- list_maatregelen_1 bouwblok/governance -->
+- [Citizen Participation Methods for Artificial Intelligence](https://openresearch.amsterdam/en/page/110361/citizen-participation-methods-for-artificial-intelligence)
+- [Framework for Meaningfull Engagement](https://ecnl.org/sites/default/files/2023-03/Final%20Version%20FME%20with%20Copyright%20%282%29.pdf) 
 
 ## Voorbeeld
 

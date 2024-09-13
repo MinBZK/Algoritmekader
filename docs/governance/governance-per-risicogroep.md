@@ -9,7 +9,7 @@ De gemeente Rotterdam kiest ervoor om de algoritme en AI governance alleen in te
 
 ![Tabel ](https://github.com/user-attachments/assets/91430720-cb51-40f0-900b-71c276ecca8c)
 
-
+## Aandachts- en actiepunten
 
 ## Bronnen
 |[Kleur bekennen - vervolgonderzoek algoritmes](https://rekenkamer.rotterdam.nl/onderzoeken/kleur-bekennen/) |                      |                         |

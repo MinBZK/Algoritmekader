@@ -16,15 +16,3 @@ Van belang is dat de governance van AI en algortimes niet los komt te staan van 
 
 
 ## Bronnen
-| |
-
-## Vereisten
-
-<!-- list_vereisten_1 bouwblok/governance -->
-
-## Maatregelen
-
-<!-- list_maatregelen_1 bouwblok/governance -->
-
-
-

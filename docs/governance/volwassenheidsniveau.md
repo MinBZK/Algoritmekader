@@ -57,10 +57,3 @@ Een analyse van volwassenheidsniveau kan helpen input te geven waar eerst op te 
     -	Breng deze informatie naar je bestuur met het verzoek duidelijkheid te krijgen hoe AI-governance belegt zou moeten worden. De AI-verordening vraagt om belegde verantwoordelijkheden met betrekking tot AI en algoritmes.
 *	Er is verschil in datageletterdheid van ambtenaren. Benodigde skills en expertise (die mogelijk ontbreken) zijn van belang bij het invullen van rollen en verantwoordelijkheden.
 
-## Vereisten
-
-<!-- list_vereisten_1 bouwblok/governance -->
-
-## Maatregelen
-
-<!-- list_maatregelen_1 bouwblok/governance -->

@@ -24,14 +24,4 @@ Bron: Rekenkamer Rotterdam, 2024 (Rapport: kleur bekennen)
 ## Aandachts- en actiepunten
 
 ## Bronnen
-|[Kleur bekennen - vervolgonderzoek algoritmes](https://rekenkamer.rotterdam.nl/onderzoeken/kleur-bekennen/) |
-
-
-
-## Vereisten
-
-<!-- list_vereisten_1 bouwblok/governance -->
-
-## Maatregelen
-
-<!-- list_maatregelen_1 bouwblok/governance -->
+[Kleur bekennen - vervolgonderzoek algoritmes](https://rekenkamer.rotterdam.nl/onderzoeken/kleur-bekennen/) 

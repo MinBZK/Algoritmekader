@@ -8,7 +8,7 @@ Er zijn diverse normen en standaarden over IT in brede zin of specifiek over AI 
 
 Van belang is dat de governance van AI en algortimes niet los komt te staan van (de governance van) aanverwante vraagstukken zoals privacy en data omdat informatie en communicatie over deze thema's nodig is voor goede AI-governance. Bij het hoofdstuk rollen en verantwoordelijkheden zie je voorbeelden van hoe verantwoordelijkheden die aan deze thema's raken ingericht kunnen worden.
 
-Vragen waarbij hierbij aandacht aan kan worden besteed is:
+## Aandachts- en actiepunten
 - Welke lessen zijn geleerd van de implementatie van de AVG?
 - Heeft een organisatie een chief data officer (CDO)? 
 - Is er iemand intern verantwoordelijk gemaakt voor (toezicht op) AI & algoritmes?

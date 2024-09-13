@@ -40,15 +40,15 @@ nav:
     - Governance:
         - governance/index.md
         - Huidige situatie:
-            - governance/volwassenheidsniveau.md
-            - governance/samenhang-governancestructuren.md
-            - governance/politiek-bestuurlijk-kader.md
+            - governance/huidige-situatie/volwassenheidsniveau.md
+            - governance/huidige-situatie/samenhang-governancestructuren.md
+            - governance/huidige-situatie/politiek-bestuurlijke-verantwoordelijkheden.md
         - Governance realiseren:
-            - governance/governance-structuur.md
-            - governance/governance-per-risicogroep.md
-            - governance/interactie-met-levenscyclus.md
-            - governance/rollen-en-verantwoordelijkheden.md
-            - governance/interactie-burgers-en-omgeving.md
+            - governance/governance-realiseren/governance-structuur.md
+            - governance/governance-realiseren/governance-per-risicogroep.md
+            - governance/governance-realiseren/interactie-met-levenscyclus.md
+            - governance/governance-realiseren/rollen-en-verantwoordelijkheden.md
+            - governance/governance-realiseren/interactie-burgers-en-omgeving.md
     - Levenscyclus:
         - levenscyclus/index.md 
         - levenscyclus/probleemanalyse.md

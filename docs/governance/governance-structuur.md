@@ -14,6 +14,14 @@ Onder andere UWV en de Gemeente Rotterdam hanteren dit model met drie linies. Re
 
 Bij de gemeente Rotterdam zijn de drie lijnen ingevuld via de volgende rollen en verantwoordelijkheden: “De eerste lijn bestaat uit de proceseigenaren en de operationeel verantwoordelijken. Proceseigenaren zijn verantwoordelijk voor de gehele algoritmetoepassing en de operationeel verantwoordelijken voor de ontwikkeling. De tweede lijn is de algoritme expert, die een onafhankelijke toezicht- en adviestaak heeft. De derde lijn wordt volgens de stukken die gaan over de algoritme governance vervuld door Financial audit.” (Rekenkamer Rotterdam, 2024) 
 
+De algoritmegovernance van de gemeente Rotterdam bestaat uit de volgende onderdelen: 
+* 1 een visie op de inzet van algoritmes;
+* 2 instrumentarium voor risicobeheersing dat onder andere bestaat uit een risico-assessment (ARA) en een mensenrechtenassessment (AIMA/IAMA); 
+* 3 een uiteenzetting van rollen en verantwoordelijkheden en; 
+* 4 een omschrijving van de verantwoordelijkheden voor controle en advies.
+Bron: Rekenkamer Rotterdam, 2024 (Rapport: kleur bekennen)
+
+## Aandachts- en actiepunten
 
 ## Bronnen
 |[Kleur bekennen - vervolgonderzoek algoritmes](https://rekenkamer.rotterdam.nl/onderzoeken/kleur-bekennen/) |

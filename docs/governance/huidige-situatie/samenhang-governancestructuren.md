@@ -13,6 +13,4 @@ Van belang is dat de governance van AI en algortimes niet los komt te staan van 
 - Heeft een organisatie een chief data officer (CDO)? 
 - Is er iemand intern verantwoordelijk gemaakt voor (toezicht op) AI & algoritmes?
 
-
-
 ## Bronnen

@@ -1,5 +1,5 @@
 ---
-title: Politiek-bestuurlijk kader
+title: Politiek-bestuurlijke verantwoordelijkheden
 ---
 
 ## Belang bestuurlijke en politiek verantwoordelijkheid 
@@ -10,7 +10,7 @@ Dit is per definitie een kwalitatieve en politieke vraag. Dit gaat niet alleen o
 
 Een van de belangrijkste hoofdconclusies van het rapport “Kleur Bekennen” van de gemeente Rotterdam, opgesteld door de Algemene Rekenkamer, onderstreept het belang van actief bestuur binnen algoritme en AI governance: 
 
-"het ontbreekt aan een politiek-bestuurlijk kader dat duidelijk maakt welke normen en principes leidend zijn bij de ontwikkeling en het gebruik van algoritmes. Dit heeft als effect dat belangrijke besluit over bijvoorbeeld wenselijkheid, haalbaarheid, transparantie en bias bij de ambtelijke organistie komen te liggen. Deze besluiten vragen echt om een politieke afweging". 
+> "Het ontbreekt aan een politiek-bestuurlijk kader dat duidelijk maakt welke normen en principes leidend zijn bij de ontwikkeling en het gebruik van algoritmes. Dit heeft als effect dat belangrijke besluit over bijvoorbeeld wenselijkheid, haalbaarheid, transparantie en bias bij de ambtelijke organistie komen te liggen. Deze besluiten vragen echt om een politieke afweging". 
 
 Een politiek-bestuurlijk kader is dus noodzakelijk om het voorgaande te bewerkstelligen. Hier tref je enkele voorbeelden aan. 
 
@@ -19,16 +19,3 @@ Een politiek-bestuurlijk kader is dus noodzakelijk om het voorgaande te bewerkst
 
 ## Bronnen
 |[Kleur bekennen - vervolgonderzoek algoritmes](https://rekenkamer.rotterdam.nl/onderzoeken/kleur-bekennen/) |
-
-
-
-## Vereisten
-
-<!-- list_vereisten_1 bouwblok/governance -->
-
-## Maatregelen
-
-<!-- list_maatregelen_1 bouwblok/governance -->
-
-
-

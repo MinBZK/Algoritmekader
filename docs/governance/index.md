@@ -80,7 +80,7 @@ Waar mogelijk geven we daarom voorbeelden uit een divers scala aan organisaties.
 ## Wat algemene best practices 
 
 - Maak iemand verantwoordelijk voor AI en algoritmegovernance
--	Zorg voor overlegstructuren met keuzemandaat met belangrijke partijen/stakheholders
+-	Zorg voor overlegstructuren met keuzemandaat met belangrijke partijen/stakeholders
 -	Zorg voor procedures waarin instrumenten als de IAMA/DPIA een plek hebben.
 
 ## Vereisten

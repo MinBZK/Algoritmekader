@@ -19,6 +19,16 @@ Anderzijds zijn er 4 harde grenzen in de levenscyclus aangebracht waarin formele
 Veel organisaties hebben al een levenscyclus voor AI-ontwikkeling. AI-governance kan hierop aansluiten door 'gates' of controlepunten in te voeren tussen de verschillende stappen in de levenscyclus waar bepaalde processen worden uitgevoerd door verantwoordelijken, zoals het aanleveren van documenten, het uitvoeren van controles en het maken van afwegingen.
 Het BZK AI-validatieteam ontwikkelt de [Algorithm Management Toolkit](https://github.com/MinBZK/amt) om deze processen te faciliteren en te loggen. Houd er rekening mee dat de 'gates' niet altijd hetzelfde zijn hoeven te zijn tussen verschillende projecten. Zo vereist een algoritme met een hoog-risicoclassificatie andere governance dan minder impactvolle algoritmes. Eveneens vraagt het inkoopproces van een off-the-shelf AI-systeem of SaaS om andere procedures dan de inkoop van software die nog verder ontwikkeld wordt.
 
+#### Handelingsperspectief
+* Organisaties hanteren vaak al een lifecycle voor AI-ontwikkeling – haak de AI-governance hierbij aan. 
+  * Concreet: introduceer ‘gates’ tussen fases in de AI-lifecycle; voor de cyclus verder kan gaan moeten handelingen worden uitgevoerd door verantwoordelijken zoals: documenten aanleveren, (ethische) afwegingen, rapportages.
+  * Het BZK AI-validatieteam ontwikkelt de Algorithm Management Toolkit: software om deze processen te faciliteren/loggen. 
+* Let op dat de ‘gates’ misschien niet altijd hetzelfde zijn. Vooral bij:
+  * Hoog-risico-classificatie; andere governance nodig bij simpele algoritmes dan bij impactvolle algoritmes. 
+  * Inkoop; dit vraagt om andere procedures. 
+    * Inkoop off-the-shelf (een bepaald LLM AI-systeem of SAAS) is weer anders dan inkoop waarbij software nog doorontwikkeld wordt (bijv. fraude detectie algoritme).
+
+
 ## Bronnen
 | |
 

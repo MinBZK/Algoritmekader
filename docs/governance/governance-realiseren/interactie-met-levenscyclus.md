@@ -30,17 +30,4 @@ Het BZK AI-validatieteam ontwikkelt de [Algorithm Management Toolkit](https://gi
 
 
 ## Bronnen
-| |
-
-
-
-## Vereisten
-
-<!-- list_vereisten_1 bouwblok/governance -->
-
-## Maatregelen
-
-<!-- list_maatregelen_1 bouwblok/governance -->
-
-
 

@@ -6,6 +6,7 @@ icon: material/bank
 
 ## Leeswijzer
 Het onderwerp Governance in het algoritmekader is opgedeeld in twee delen, die in feite twee fases vormen:
+
 * In kaart brengen van huidige (AI en algoritme) governance [linkje nog invoegen]
 * AI en algoritme governance realiseren met best practices en voorbeelden [linkje nog invoegen]
 

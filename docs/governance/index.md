@@ -4,6 +4,18 @@ summary: Hier staat een korte samenvatting over dit onderwerp
 icon: material/bank
 ---
 
+## Leeswijzer
+Het onderwerp Governance in het algoritmekader is opgedeeld in twee delen, die in feite twee fases vormen:
+* In kaart brengen van huidige (AI en algoritme) governance [linkje nog invoegen]
+* AI en algoritme governance realiseren met best practices en voorbeelden [linkje nog invoegen]
+
+Een AI en algoritmegovernance (processen, verantwoordelijken, etc.) ingericht hebben, is een randvoorwaarde om de vereisten die het Algoritmekader noemt verantwoord en gestructureerd aan te pakken. Een AI en algoritmegovernance moet zijn ingericht alvorens te kunnen starten met algoritmes. Kortom: governance is het startpunt.
+
+Aan het einde van ieder subonderwerp binnen het onderwerp governance geven we aandachts- en actiepunten. Daarbij zijn er twee te onderscheiden doelgroepen (invalshoeken) met soms verschillend handelingsperspectief:
+1. Een medewerker CDO/CIO-office met de taak om algoritmegovernance (beter) in te richten. Dit is top-down, bekeken vanuit organisatieperspectief.
+2. Een algoritme-proceseigenaar die wil waarborgen dat de algoritmegovernance aansluit bij de praktijk. Dit is bottom-up, bekeken vanuit het perspectief van het product.
+
+
 ## Wat is governance
 
 Governance gaat over de inrichting van een organisatie en de daarbij horende processen, regels, gebruiken en bijbehorende verantwoordelijkheden. 

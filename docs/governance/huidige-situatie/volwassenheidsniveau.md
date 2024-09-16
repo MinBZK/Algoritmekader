@@ -19,7 +19,7 @@ Op basis van zes categorieën (awareness & culture, Policy, Governance, Communic
 
 Bron: uit Krijger, Thuis, de Ruiter, Ligthart & Broekman (2023) ([Krijger, J., Thuis, T., de Ruiter, M. et al. The AI ethics maturity model: a holistic approach to advancing ethical data science in organizations. AI Ethics 3, 355–367 (2023).](https://link.springer.com/article/10.1007/s43681-022-00228-7)
 
-####Het Datavolwassenheidsmodel van de IBDS
+#### Het Datavolwassenheidsmodel van de IBDS
 Richt zich op datavolwassenheid, maar heeft daarin veel raakvlakken met AI waar voor data een belangrijk component is. 
 Heeft een eigen [beslishulp datavolwassenheid](https://realisatieibds.nl/groups/view/c23ab74c-adb4-424e-917d-773a37968efe/kenniscentrum-van-de-ibds/wiki/view/2447d2a8-6c48-468d-9739-00772688853f/beslishulp-datavolwassenheid) maar ook een [meetgids](https://realisatieibds.nl/page/view/ad94d97c-4d48-443c-aedd-235b2d0ca8b6/wegwijzer-volwassenheidsmodellen) met verschillende methoden.
 

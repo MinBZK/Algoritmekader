@@ -40,4 +40,4 @@ Dit betekent bijvoorbeeld ook dat gebruikers bewust moet worden gemaakt dat zij 
 
 ## Instrumenten
 
-<!-- list_instrumenten onderwerp/transparantie -->
+<!-- list_instrumenten onderwerp/transparantie no-search no-onderwerp no-rol no-levenscyclus -->

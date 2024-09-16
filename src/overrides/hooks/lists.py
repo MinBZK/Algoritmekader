@@ -170,27 +170,41 @@ def _create_chip(item: str, link: str, chip_type: str) -> str:
         </span>
     '''
 
-def _create_table_row_2(file: File, filter_options: Dict[str, bool], current_file: File) -> str:
+def _create_table_row_2(file: File, filter_options: Dict[str, bool], current_file: File, config: MkDocsConfig) -> str:
+    # Base URL from the site config or fallback to "/"
+    base_url = config.site_url if config.site_url else "/"
+
+    # Detect if we're in a PR preview environment and adjust the base URL
+    if "minbzk.github.io" in base_url and "pr-preview" in current_file.abs_dest_path:
+        pr_preview_index = current_file.abs_dest_path.index("pr-preview")
+        pr_preview_path = current_file.abs_dest_path[pr_preview_index:].split('/')[0:3]  # e.g., ['pr-preview', 'pr-269']
+        base_url = "/" + "/".join(pr_preview_path) + "/"
+
+    # Construct the link using base_url and file.dest_path without relpath
+    relative_link = posixpath.join(base_url, file.dest_path)
+
     rollen = file.page.meta.get('rollen', [])
     levenscyclus = file.page.meta.get('levenscyclus', [])
     onderwerpen = file.page.meta.get('onderwerp', [])
 
+    # Generate chips (visual labels)
     rollen_chips = ''.join(
-        _create_chip(rol, posixpath.relpath(file.dest_path, current_file.dest_path), 'rol') for rol in rollen
+        _create_chip(rol, relative_link, 'rol') for rol in rollen
     ) if filter_options.get("rol", True) else ""
 
     levenscyclus_chips = ''.join(
-        _create_chip(lc, posixpath.relpath(file.dest_path, current_file.dest_path), 'levenscyclus') for lc in levenscyclus
+        _create_chip(lc, relative_link, 'levenscyclus') for lc in levenscyclus
     ) if filter_options.get("levenscyclus", True) else ""
 
     onderwerp_chips = ''.join(
-        _create_chip(onderwerp, posixpath.relpath(file.dest_path, current_file.dest_path), 'onderwerp') for onderwerp in onderwerpen
+        _create_chip(onderwerp, relative_link, 'onderwerp') for onderwerp in onderwerpen
     ) if filter_options.get("onderwerp", True) else ""
 
+    # Return the final table row HTML
     return "".join(
         [
             "<tr>",
-            f'<td><a href="{posixpath.relpath(file.dest_path, current_file.dest_path)}">{file.page.title}</a></td>',
+            f'<td><a href="{relative_link}">{file.page.title}</a></td>',
             f"<td>{rollen_chips}</td>" if filter_options.get("rol", True) else "",
             f"<td>{levenscyclus_chips}</td>" if filter_options.get("levenscyclus", True) else "",
             f"<td>{onderwerp_chips}</td>" if filter_options.get("onderwerp", True) else "",

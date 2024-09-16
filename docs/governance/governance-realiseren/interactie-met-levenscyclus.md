@@ -1,3 +1,7 @@
+---
+title: Interactie met de levenscyclus
+---
+
 Voor effectieve governance van algoritmen en AI-modellen is het essentieel om bij de ontwikkeling en gebruik van algoritmen en AI-modellen i heldere afspraken te hebben over de interactie en informatie-uitwisseling die vereist is om aan de verantwoording te voldoen. Dit moet gebeuren in iedere fase van de levenscyclus, tussen de direct betrokkenen en de stakeholders binnen en buiten de organisatie. Dit vindt plaats via de rollen en verantwoordelijkheden per levenscyclusstap, zie hiervoor de pagina rollen en verantwoordelijkheden.
 
 Het gaat enerzijds om top-down betrokkenheid en verantwoordelijkheid, waarbij wordt gestuurd op de juiste doelstellingen, waarden en principes. Daarnaast worden passende middelen en randvoorwaarden gealloceerd om verantwoorde inzet te waarborgen. Anderzijds gaat het om bottom-up betrokkenheid van de juiste stakeholders binnen de organisatie. Hierbij wordt de benodigde informatie verschaft en worden afwegingen en uitdagingen voorgelegd om de verantwoorde inzet van algoritmen en AI mogelijk te maken.

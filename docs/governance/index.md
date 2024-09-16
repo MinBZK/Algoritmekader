@@ -24,8 +24,8 @@ Let wel: Het Algoritmekader schrijft niet voor hoe een organisatie ingericht moe
 
 ## Vereisten
 
-<!-- list_vereisten_1 onderwerp/governance no-search no-onderwerp no-rol no-levenscyclus-->
+<!-- list_vereisten onderwerp/governance no-search no-onderwerp no-rol no-levenscyclus-->
 
 ## Maatregelen
 
-<!-- list_maatregelen_1 onderwerp/governance no-search no-onderwerp no-rol no-levenscyclus-->
+<!-- list_maatregelen onderwerp/governance no-search no-onderwerp no-rol no-levenscyclus-->

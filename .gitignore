@@ -7,4 +7,4 @@ site
 
 src/overrides/hooks/create_vereisten.py
 
-.DS_Store
+*.DS_Store

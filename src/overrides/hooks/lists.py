@@ -109,7 +109,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 "</tr>",
                 "</thead>",
                 "<tbody>",
-                *[_create_table_row_2(item, filter_options, file) for item in list],
+                *[_create_table_row_2(item, filter_options, file, config) for item in list],  # Updated to include 'config'
                 "</tbody>",
                 "</table>",
             ]

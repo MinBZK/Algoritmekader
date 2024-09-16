@@ -30,4 +30,5 @@ Door deze vereisten in de levenscyclus te integreren, kunnen de gebruikers inzic
 
 ## Instrumenten
 
-<!-- list_instrumenten onderwerp/privacy-en-gegevensbescherming -->
+
+<!-- list_instrumenten onderwerp/privacy-en-gegevensbescherming no-search no-onderwerp no-rol no-levenscyclus -->

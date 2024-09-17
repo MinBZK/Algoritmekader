@@ -4,6 +4,7 @@ import re
 from mkdocs.config.defaults import MkDocsConfig
 from mkdocs.structure.files import File, Files
 from re import Match
+import json  # Added for serialization of vereiste data
 
 def on_env(env, config: MkDocsConfig, files: Files):
     def generate_filters(content_type: str, list: List[File], filter_options: Dict[str, bool]):
@@ -64,6 +65,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
 
         type_value_bundle = [y.split("/") for y in filter_criteria.split() if len(y.split("/")) == 2]
 
+        # Remove the "vereiste" from filter_options
         filter_options = {
             "search": True,
             "rol": True,
@@ -96,6 +98,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
 
         filters = generate_filters(content_type, list, filter_options)
 
+        # Remove the vereiste column from the table header and rows
         return "".join(
             [
                 filters,
@@ -106,19 +109,67 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 '<th role="columnheader">Rollen</th>' if filter_options["rol"] else '',
                 '<th role="columnheader">Levenscyclus</th>' if filter_options["levenscyclus"] else '',
                 '<th role="columnheader">Onderwerpen</th>' if filter_options["onderwerp"] else '',
+                # '<th role="columnheader">Vereiste</th>' if filter_options["vereiste"] else '',  # Remove this line
                 "</tr>",
                 "</thead>",
                 "<tbody>",
-                *[_create_table_row_2(item, filter_options, file, config) for item in list],  # Updated to include 'config'
+                *[_create_table_row_2(item, filter_options, file, config) for item in list],
                 "</tbody>",
                 "</table>",
             ]
         )
 
+    # NEW FUNCTION: To generate the Vereisten for a specific maatregel
+    def generate_vereisten_for_maatregel(file: File) -> str:
+        """Generates a table of vereisten for a specific maatregel, linking to the vereiste files and displaying the title."""
+        vereisten = file.page.meta.get("vereiste", [])
+        if not vereisten:
+            return "<p>Geen vereisten beschikbaar voor deze maatregel.</p>"
+
+        vereisten_table = ["<table>", "<thead><tr><th>Vereiste</th></tr></thead>", "<tbody>"]
+        
+        # Loop through each vereiste and create a link to its respective file
+        for vereiste in vereisten:
+            vereiste_file = find_file_by_name(vereiste, "vereisten", files)
+            if vereiste_file:
+                # Retrieve the title from the vereiste file's metadata
+                vereiste_title = vereiste_file.page.meta.get("title", vereiste)  # Fallback to vereiste name if no title
+                vereiste_link = posixpath.join(config.site_url or "/", vereiste_file.url)
+                vereisten_table.append(f'<tr><td><a href="{vereiste_link}">{vereiste_title}</a></td></tr>')
+            else:
+                vereisten_table.append(f'<tr><td>{vereiste}</td></tr>')  # No link if the file is not found
+
+        vereisten_table.append("</tbody></table>")
+        
+        return "".join(vereisten_table)
+
+    def find_file_by_name(name: str, content_type: str, files: Files) -> File:
+        """Helper function to find the file corresponding to a 'vereiste' name based on the file name."""
+        # Search for a file in the content_type folder that matches the vereiste name (without the .md)
+        for file in files:
+            file_name = posixpath.splitext(posixpath.basename(file.src_path))[0]  # Get the file name without .md
+            if file.src_path.startswith(f"{content_type}/") and file_name == name:
+                return file
+        return None
+
+    # NEW FUNCTION: Replaces the placeholder with Vereisten content
+    def replace_vereisten_content(file: File):
+        """Replaces the placeholder for vereisten with the actual table for the current maatregel."""
+        file.page.content = re.sub(
+            r"<!-- list_vereisten_on_maatregelen_page -->",
+            lambda match: generate_vereisten_for_maatregel(file),
+            file.page.content
+        )
+
+    # Only replace on specific maatregel pages
     for file in files:
         if not file.src_path.endswith(".md"):
             continue
+        
+        if "maatregelen" in file.src_path:
+            replace_vereisten_content(file)
 
+        # Replacing for existing placeholders
         file.page.content = re.sub(
             r"<!-- list_vereisten(.*?) -->",
             lambda match: replace_content(match, "vereisten"),
@@ -140,6 +191,11 @@ def on_env(env, config: MkDocsConfig, files: Files):
             flags=re.I | re.M,
         )
 
+        # NEW FUNCTION CALL: Replacing the vereisten placeholder on maatregelen pages
+        if "maatregelen" in file.src_path:
+            replace_vereisten_content(file)
+
+# Keeping your existing _create_chip function
 def _create_chip(item: str, link: str, chip_type: str) -> str:
     if not item:
         return ""
@@ -170,6 +226,7 @@ def _create_chip(item: str, link: str, chip_type: str) -> str:
         </span>
     '''
 
+# Keeping the existing _create_table_row_2 function
 def _create_table_row_2(file: File, filter_options: Dict[str, bool], current_file: File, config: MkDocsConfig) -> str:
     # Base URL from the site config or fallback to "/"
     base_url = config.site_url if config.site_url else "/"
@@ -186,6 +243,7 @@ def _create_table_row_2(file: File, filter_options: Dict[str, bool], current_fil
     rollen = file.page.meta.get('rollen', [])
     levenscyclus = file.page.meta.get('levenscyclus', [])
     onderwerpen = file.page.meta.get('onderwerp', [])
+    vereiste = file.page.meta.get('vereiste', [])
 
     # Generate chips (visual labels)
     rollen_chips = ''.join(
@@ -200,7 +258,12 @@ def _create_table_row_2(file: File, filter_options: Dict[str, bool], current_fil
         _create_chip(onderwerp, relative_link, 'onderwerp') for onderwerp in onderwerpen
     ) if filter_options.get("onderwerp", True) else ""
 
-    # Return the final table row HTML
+    vereiste_chips = ''.join(
+        _create_chip(vereiste, relative_link, 'vereiste') for vereiste in vereiste
+    ) if filter_options.get("vereiste", True) else ""
+
+    # Create a link for the 'maatregel' that passes its associated 'vereisten' in the data attribute
+    vereiste_data = json.dumps(vereiste)  # Serialize the list of vereisten as a JSON string
     return "".join(
         [
             "<tr>",
@@ -208,6 +271,7 @@ def _create_table_row_2(file: File, filter_options: Dict[str, bool], current_fil
             f"<td>{rollen_chips}</td>" if filter_options.get("rol", True) else "",
             f"<td>{levenscyclus_chips}</td>" if filter_options.get("levenscyclus", True) else "",
             f"<td>{onderwerp_chips}</td>" if filter_options.get("onderwerp", True) else "",
+            f"<td>{vereiste_chips}</td>" if filter_options.get("vereiste", False) else "",
             "</tr>",
         ]
     )

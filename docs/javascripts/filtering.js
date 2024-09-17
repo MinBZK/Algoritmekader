@@ -1,5 +1,3 @@
-// filtering.js
-
 // Wait for MkDocs Material content loading events
 document$.subscribe(function () {
     // Initialize Choices.js when the document is loaded or content is switched
@@ -117,4 +115,42 @@ function filterTable() {
 
     // Trigger contentUpdated to reinitialize Choices.js after filtering
     document.dispatchEvent(new Event('contentUpdated'));
+}
+
+// Function to display vereisten when a specific maatregel is clicked
+function showVereisten(link) {
+    // Get the vereisten associated with the clicked maatregel from the data attribute
+    const vereisten = JSON.parse(link.getAttribute('data-vereisten'));
+
+    // Find or create a container for displaying vereisten
+    let vereistenTable = document.getElementById('vereistenTable');
+    if (!vereistenTable) {
+        vereistenTable = document.createElement('table');
+        vereistenTable.id = 'vereistenTable';
+        vereistenTable.innerHTML = `
+            <thead>
+                <tr>
+                    <th>Vereisten</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        `;
+        document.body.appendChild(vereistenTable); // You can place it in a specific container
+    }
+
+    // Clear previous vereisten content
+    const tbody = vereistenTable.querySelector('tbody');
+    tbody.innerHTML = '';
+
+    // Populate the table with the vereisten
+    vereisten.forEach(vereiste => {
+        const row = document.createElement('tr');
+        const cell = document.createElement('td');
+        cell.textContent = vereiste;
+        row.appendChild(cell);
+        tbody.appendChild(row);
+    });
+
+    // Optionally scroll to the vereisten table or focus on it
+    vereistenTable.scrollIntoView({ behavior: 'smooth' });
 }

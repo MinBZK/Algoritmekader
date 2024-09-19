@@ -1,0 +1,41 @@
+---
+title: Handreiking Non-discriminatie
+toelichting: Hier komt een toelichting
+levenscyclus:
+- probleemanalyse
+- ontwerp
+- dataverkenning-en-datapreparatie
+- verificatie-en-validatie
+onderwerp:
+- bias-en-non-discriminatie
+- fundamentele-rechten
+rollen:
+- projectleider
+vereiste:
+- non_discriminatie
+---
+
+<!-- tags -->
+
+## Instrument
+
+volgt nog
+
+## Relevantie
+
+volgt
+
+
+## Bijbehorende vereisten
+
+<!-- list_vereisten_on_maatregelen_page -->
+
+## Bronnen
+
+| Bron                        |
+|-----------------------------|
+|[Modelbepalingen voor gemeenten voor verantwoord gebruik van Algoritmische toepassingen](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/contractvoorwaarden-algoritmen/)|
+
+## Voorbeeld
+
+Heb jij een goed voorbeeld van het gebruik van de Handreiking Non-discriminatie op het gebied van algoritmen? Laat het ons weten!

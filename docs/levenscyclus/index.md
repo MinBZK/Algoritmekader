@@ -32,8 +32,8 @@ De levenscyclus helpt je om te bepalen wat je wanneer moet doen.
 ## Systeemniveau en organisatieniveau
 De levenscyclus kent twee verschillende niveau's: 
 
-- **systeemniveau**: Sommige vereisten voor verantwoorde inzet van algoritmes zul je bij ieder algoritme weer opnieuw aandacht moeten geven. Dat geldt bijvoorbeeld voor het beschermen van grondrechten.
-- **organisatieniveau**: Andere vereisten zijn algemeen en vragen om een organisatiebrede aanpak. Dit gaat bijvoorbeeld om passende processen en risicomanagment in je organisatie. Of het creeeren van bewustzijn en kennis binnen je organisatie. In het ideale geval besteed je hier al aandacht aan voordat je begint met de ontwikkeling of het gebruik van algoritmes. 
+- **organisatieniveau**: Sommige vereisten zijn algemeen en vragen om een organisatiebrede aanpak. Dit gaat bijvoorbeeld om passende processen en risicomanagment in je organisatie. Of het creëeren van bewustzijn en kennis binnen je organisatie. In het ideale geval besteed je hier al aandacht aan voordat je begint met de ontwikkeling of het gebruik van algoritmes. Bij deze fase horen maatregelen die je niet voor ieder systeem opnieuw zal hoeven te bekijken.
+- **systeemniveau**: Sommige vereisten voor verantwoorde inzet van algoritmes zul je bij ieder algoritme weer opnieuw aandacht moeten geven. Dat geldt bijvoorbeeld voor het beschermen van grondrechten. 
 
 ///
 
@@ -50,8 +50,8 @@ De levenscyclus kent twee verschillende niveau's:
           2(2. Ontwerp) --> 3(3. Dataverkenning en datapreparatie);
           3(3. Dataverkenning en datapreparatie) --> 4(4. Ontwikkelen);
           4(4. Ontwikkelen) --> 5(5. Verficatie en validatie);
-          5(5. Verficatie en validatie) --> 6(6. Implementeren);
-          6(6. Implementeren) --> 7(7. Monitoring en beheer);
+          5(5. Verficatie en validatie) --> 6(6. Implementatie);
+          6(6. Implementatie) --> 7(7. Monitoring en beheer);
           7(7. Monitoring en beheer) -.-> 8(8. Uitfaseren);
         end
       end
@@ -61,8 +61,8 @@ De levenscyclus kent twee verschillende niveau's:
       click 2 href "ontwerp"
       click 3 href "dataverkenning-en-datapreparatie"
       click 4 href "ontwikkelen"
-      click 5 href "verificatie en validatie"
-      click 6 href "implementeren"
+      click 5 href "verificatie-en-validatie"
+      click 6 href "implementatie"
       click 7 href "monitoring-en-beheer"
       click 8 href "uitfaseren"
 
@@ -100,7 +100,7 @@ De 9 fasen van de levenscyclus zijn gebaseerd op 10 belangrijke levenscyclusmode
 - NIST (National Institute of Standards and Technology)
 - ISO/IEC 22989
 
-Deze 0 fasen passen zo goed mogelijk bij de manier van werken van overheden.
+Deze 9 fasen passen zo goed mogelijk bij de manier van werken van overheden.
 Het is geen verplicht model. Mogelijk past een ander levenscyclusmodel beter bij jouw organisatie.
 
 ## Help ons deze pagina te verbeteren

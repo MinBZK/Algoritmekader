@@ -4,10 +4,7 @@ toelichting: Richt wachtwoordbeheer in, waarmee bepaald wordt hoe wachtwoorden w
 vereiste:
 - beveiliging_informatie_en_informatiesystemen
 levenscyclus:
-- ontwerp
-- ontwikkelen
-- implementatie
-- monitoring-en-beheer
+- organisatieverantwoordelijkheden
 onderwerp:
 - technische-robuustheid-en-veiligheid
 - governance

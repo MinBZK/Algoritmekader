@@ -4,13 +4,7 @@ toelichting: Nadat de rollen en verantwoordelijkheden zijn beschreven, zullen de
 vereiste:
 - zorgvuldigheidsbeginsel
 levenscyclus:
-- probleemanalyse
-- ontwerp
-- dataverkenning-en-datapreparatie
-- ontwikkelen
-- implementatie
-- monitoring-en-beheer
-- verificatie-en-validatie
+- organisatieverantwoordelijkheden
 onderwerp:
 - governance
 - privacy-en-gegevensbescherming

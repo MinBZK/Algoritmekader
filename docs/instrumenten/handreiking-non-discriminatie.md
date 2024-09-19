@@ -21,6 +21,7 @@ vereiste:
 Deze handreiking legt uit welke vragen en principes leidend zijn bij het ontwikkelen en implementeren van een AI-systeem met het oog op het discriminatieverbod, vanuit zowel juridisch, technisch, als organisatorisch perspectief.
 De handreiking is een praktisch toepasbaar ontwerpkader dat ontwikkelaars helpt om al in de ontwikkelfase van een AI-systeem discriminerende patronen zoveel mogelijk te identificeren, te voorkomen en te bestrijden.
 Er zijn 4 uitgangspunten die leidend zijn in de handreiking:
+
 1. Diversiteit
 2. Context
 3. Controleerbaarheid

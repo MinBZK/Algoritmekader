@@ -34,6 +34,9 @@ Er zijn 4 uitgangspunten die leidend zijn in de handreiking:
 Stuk over relevantie voor het AK volgt nog.
 Net als bij het IAMA, is dit document een manier om een multidisciplinaire discussie te faciliteren en stimuleren. Hierbij kunnen verschillende rollen betrokken worden door de projectleider: data-scientists, juristen, de functionaris gegevensbescherming (FG), aangevuld met domeinspecialisten.
 
+## Wanneer toepassen?
+De handreiking is primair geschreven voor teams die zelf AI-systemen bouwen. Het gaat in op verschillende fases van ontwikkeling: [probleemanalyse](), dataverkenning en datapreparatie, ontwikkeling, implementatie en evaluatie.
+Daarnaast kan deze handreiking dienen voor opdrachtgevers van AI-systemen, ofwel om vooraf offrerende partijen te vragen aan te geven hoe zij rekening zullen houden met de diverse punten uit de handreiking, ofwel om tijdens het proces mee te kijken en op relevante punten aanwijzingen te geven, ofwel om achteraf te controleren of een opgeleverd product aan alle relevante voorwaarden voldoet. 
 
 ## Bevindingen rapport 'Bekendheid, toepasbaarheid en toegevoegde waarde handreiking “non-discriminatie by design"'
 volgt nog

@@ -32,14 +32,16 @@ Er zijn 4 uitgangspunten die leidend zijn in de handreiking:
 ## Relevantie
 
 Stuk over relevantie voor het AK volgt nog.
-Net als bij het IAMA, is dit document een manier om een multidisciplinaire discussie te faciliteren en stimuleren. Hierbij kunnen verschillende rollen betrokken worden door de projectleider: data-scientists, juristen, de functionaris gegevensbescherming (FG), aangevuld met domeinspecialisten.
+Net als bij het [IAMA](IAMA.md), is dit document een manier om een multidisciplinaire discussie te faciliteren en stimuleren. Hierbij kunnen verschillende rollen betrokken worden door de projectleider: data-scientists, juristen, de functionaris gegevensbescherming (FG), aangevuld met domeinspecialisten.
 
 ## Wanneer toepassen?
-De handreiking is primair geschreven voor teams die zelf AI-systemen bouwen. Het gaat in op verschillende fases van ontwikkeling: [probleemanalyse](), dataverkenning en datapreparatie, ontwikkeling, implementatie en evaluatie.
+De handreiking is primair geschreven voor teams die zelf AI-systemen bouwen. Het gaat in op verschillende fases van ontwikkeling: [probleemanalyse](../levenscyclus/probleemanalyse.md), dataverkenning en datapreparatie, ontwikkeling, implementatie en evaluatie.
 Daarnaast kan deze handreiking dienen voor opdrachtgevers van AI-systemen, ofwel om vooraf offrerende partijen te vragen aan te geven hoe zij rekening zullen houden met de diverse punten uit de handreiking, ofwel om tijdens het proces mee te kijken en op relevante punten aanwijzingen te geven, ofwel om achteraf te controleren of een opgeleverd product aan alle relevante voorwaarden voldoet. 
 
-## Bevindingen rapport 'Bekendheid, toepasbaarheid en toegevoegde waarde handreiking “non-discriminatie by design"'
-volgt nog
+### Relatie tot IAMA
+Gebruikers van zowel de handreiking non-discriminatie by design als het IAMA geven enkele verschillen tussen de twee instrumenten. Deze bevindingen zijn te vinden in het rapport 'Bekendheid, toepasbaarheid en toegevoegde waarde handreiking “non-discriminatie by design"' van de Auditdienst Rijk.
+
+Zij geven aan dat het IAMA wordt gezien als  instrument voor het nagaan van de impact van grondrechten in algemenere zin, waar de handreiking zich specifiek richt op discriminatie. De handreiking bevat dan weer meer praktische voorbeelden die kunnen helpen bij begrip en afwegingen, waar de IAMA wat abstracter is.
 
 ## Bijbehorende vereisten
 

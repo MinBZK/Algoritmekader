@@ -43,8 +43,8 @@ Gebruikers van zowel de Handreiking non-discriminatie by design als het IAMA gev
 
 Zij geven aan dat het IAMA wordt gezien als instrument voor het nagaan van de impact van grondrechten in algemenere zin, waar de Handreiking zich specifiek richt op discriminatie. De handreiking bevat dan weer meer praktische voorbeelden die kunnen helpen bij begrip en afwegingen, waar de IAMA wat abstracter is.
 
-### Relatie tot Handbook Fairness
-Over het [Handbook fairness](handbook-fairness.md) werd in het rapport aangegeven dat het een technischere uitwerking bevat dan de Handreiking. Het Handbook biedt wellicht meer houvast voor iemand die analyses maakt om inzicht te geven in de prestaties van het algoritme met het oog op ‘fairness’ en ‘bias’. Dit komt doordat het Handbook meer details geeft over de technische stappen die nodig zijn om te komen tot bepaalde analyses.
+### Relatie tot het Fairness Handbook
+Over het [Fairness Handbook](fairness-handbook.md) werd in het rapport aangegeven dat het een technischere uitwerking bevat dan de Handreiking. Het Handbook biedt wellicht meer houvast voor iemand die analyses maakt om inzicht te geven in de prestaties van het algoritme met het oog op ‘fairness’ en ‘bias’. Dit komt doordat het Handbook meer details geeft over de technische stappen die nodig zijn om te komen tot bepaalde analyses.
 
 ## Bijbehorende vereisten
 

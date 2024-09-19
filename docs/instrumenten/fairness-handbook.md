@@ -1,15 +1,15 @@
----
+--- <!-- alle tagging/metadata moet nog goed naar worden gekeken -->
 title: The Fairness Handbook
 toelichting: toelichting volgt
-levenscyclus: <!-- moet nog goed worden ingevuld -->
+levenscyclus:
 - probleemanalyse
 - ontwerp
 onderwerp:
 - bias-en-non-discriminatie
 - fundamentele-rechten
-rollen: <!-- moet nog goed worden ingevuld -->
+rollen:
 - projectleider
-vereiste: <!-- moet nog goed worden ingevuld -->
+vereiste:
 - non_discriminatie
 ---
 

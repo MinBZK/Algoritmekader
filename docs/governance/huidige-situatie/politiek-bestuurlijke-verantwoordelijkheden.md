@@ -15,7 +15,7 @@ Een van de belangrijkste hoofdconclusies van het rapport “Kleur Bekennen” va
 Een politiek-bestuurlijk kader is dus noodzakelijk om het voorgaande te bewerkstelligen. Hier tref je enkele voorbeelden aan. 
 
 ## Aandachts- en actiepunten
-
+* Een meerjarenbeleidsplan of een strategie- of visedocument kan richting geven in helpen met latere afwegingen maken.
 
 ## Bronnen
 [Kleur bekennen - vervolgonderzoek algoritmes](https://rekenkamer.rotterdam.nl/onderzoeken/kleur-bekennen/)

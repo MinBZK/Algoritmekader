@@ -3,10 +3,10 @@ title: Stel vast dat wetgeving en (lokaal) beleid correct is vertaald naar de ui
 toelichting: Wet- en regelgeving of beleid bevat de basisregels voor algoritmes en AI-systemen. Het is van belang dat een goede vertaling wordt gemaakt van deze regels naar het algoritme of AI-systeem.
 
 vereiste:
-- awb:01-zorgvuldigheidsbeginsel
-- aia:08-transparantie-aan-gebruiksverantwoordelijken
-- awb:02-motiveringsbeginsel
-- aia:05-data-kwaliteitscriteria
+- awb-01-zorgvuldigheidsbeginsel
+- aia-08-transparantie-aan-gebruiksverantwoordelijken
+- awb-02-motiveringsbeginsel
+- aia-05-data-kwaliteitscriteria
   
 levenscyclus:
 - ontwerp

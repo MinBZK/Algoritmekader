@@ -2,7 +2,7 @@
 title: Archiefbescheiden zijn duurzaam toegankelijk
 toelichting: Stel vast hoe de archiefbescheiden op een duurzame wijze toegankelijk kunnen worden gemaakt. 
 vereiste:
-- arc:01-archiefwet
+- arc-01-archiefwet
 levenscyclus:
 - ontwikkelen
 onderwerp:

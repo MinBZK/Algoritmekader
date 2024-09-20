@@ -2,7 +2,7 @@
 title: Maak back-ups van algoritmes
 toelichting: Back-up kopieën van informatie, software en systeemafbeeldingen dienen liefst regelmatig te worden gemaakt en getest. Idealiter gebeurt dit in overeenstemming met een afgesproken back-up beleid.
 vereiste:
-- bio:01-beveiliging-informatie-en-informatiesystemen
+- bio-01-beveiliging-informatie-en-informatiesystemen
 levenscyclus:
 - ontwerp
 - ontwikkelen

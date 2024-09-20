@@ -2,8 +2,8 @@
 title: Pas risicobeheer gestructureerd toe voorafgaand en gedurende de ontwikkeling en gebruik van algoritmes en AI-systemen.
 toelichting: Alle stappen van risicobeheer worden periodiek uitgevoerd en op het juiste niveau in de organisatie behandeld.
 vereiste: 
-- aia:03-risicobeheersysteem
-- awb:01-zorgvuldigheidsbeginsel
+- aia-03-risicobeheersysteem
+- awb-01-zorgvuldigheidsbeginsel
 # levenscyclus: 
 # - organisatieverantwoordelijkheden
 onderwerp: 

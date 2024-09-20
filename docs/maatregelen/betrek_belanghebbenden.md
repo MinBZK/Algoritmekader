@@ -2,7 +2,7 @@
 title: Betrek belanghebbenden
 toelichting: Breng in kaart welke belanghebbenden er zijn en betrek hen op verschillende momenten in de levenscyclus.
 vereiste:
-- awb:01-zorgvuldigheidsbeginsel
+- awb-01-zorgvuldigheidsbeginsel
 levenscyclus: 
 - probleemanalyse
 - ontwerp

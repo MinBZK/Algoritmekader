@@ -2,7 +2,7 @@
 title: Bepaal welke expertise en capaciteit noodzakelijk is voor het ontwikkelen, inkopen en gebruiken van algoritmes en AI-systemen en stel vast of er voldoende expertise en capaciteit beschikbaar is.
 toelichting: De capaciteit en deskundigheid bij de ontwikkeling, het inkopen en gebruiken van algoritme en AI-systemen moet toereikend zijn om tot een verantwoorde toepassing te komen.
 vereiste: 
-- awb:01-zorgvuldigheidsbeginsel
+- awb-01-zorgvuldigheidsbeginsel
 levenscyclus: 
 - probleemanalyse
 - ontwerp

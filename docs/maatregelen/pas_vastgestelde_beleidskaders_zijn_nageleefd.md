@@ -2,21 +2,21 @@
 title: Pas vastgestelde interne beleidskaders toe en maak aantoonbaar dat deze zijn nageleefd bij het ontwikkelen, inkopen en gebruiken van algoritmes en AI-systemen. 
 toelichting: Hierbij kan worden gedacht aan het toepassen van definities, procedures, protocollen die van toepassing zijn binnen de organisatie. 
 vereiste:
-- awb:01-zorgvuldigheidsbeginsel
-- aia:11-systeem-voor-kwaliteitsbeheer
-- aia:05-data-kwaliteitscriteria
-- aia:37-melding-ernstige-incidenten
-- aia:10-nauwkeurigheid-robuustheid-cyberbeveiliging
-- avg:11-privacy-bij-ontwerp-bij-verwerking-van-persoonsgegevens
-- aia:03-risicobeheersysteem
-- grw:01-fundamentele-rechten
-- bio:01-beveiliging-informatie-en-informatiesystemen
-- avg:09-inroepen-privacyrecht-bij-verwerking-persoonsgegevens
-- grw:02-non-discriminatie
-- aia:19-toegankelijkheidseisen
-- aia:09-menselijk-toezicht
-- aia:08-transparantie-aan-gebruiksverantwoordelijken
-- aia:20-verstrekken-van-informatie-op-verzoek
+- awb-01-zorgvuldigheidsbeginsel
+- aia-11-systeem-voor-kwaliteitsbeheer
+- aia-05-data-kwaliteitscriteria
+- aia-37-melding-ernstige-incidenten
+- aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging
+- avg-11-privacy-bij-ontwerp-bij-verwerking-van-persoonsgegevens
+- aia-03-risicobeheersysteem
+- grw-01-fundamentele-rechten
+- bio-01-beveiliging-informatie-en-informatiesystemen
+- avg-09-inroepen-privacyrecht-bij-verwerking-persoonsgegevens
+- grw-02-non-discriminatie
+- aia-19-toegankelijkheidseisen
+- aia-09-menselijk-toezicht
+- aia-08-transparantie-aan-gebruiksverantwoordelijken
+- aia-20-verstrekken-van-informatie-op-verzoek
 
 levenscyclus:
 - ontwerp

@@ -5,7 +5,7 @@ title: Neem technische documentatie op in het algoritmeregister
 toelichting: Neem geschikte informatie uit technische documentatie op in het algoritmeregister
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
-- bzk:01-algoritmeregister
+- bzk-01-algoritmeregister
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 
 - ontwikkelen

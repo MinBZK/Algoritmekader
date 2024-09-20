@@ -2,7 +2,7 @@
 title: Richt een wijzigingenproces in voor codewijzigingen
 toelichting: Richt een formeel wijzigingenproces in, waarmee bepaald wordt hoe codewijzigingen plaatsvinden.
 vereiste:
-- bio:01-beveiliging-informatie-en-informatiesystemen
+- bio-01-beveiliging-informatie-en-informatiesystemen
 levenscyclus:
 - ontwerp
 - ontwerp

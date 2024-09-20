@@ -5,30 +5,30 @@ title: Neem de vereiste op als een subgunningscriteria bij gunningscriteria best
 toelichting: Door de vereiste op te nemen als subgunningscriteria ontstaat een mogelijkheid voor aanbieders om zich te onderscheiden.  
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
-- aia:28-recht-op-uitleg-ai-besluiten
-- aut:01-auteursrechten
-- dat:01-databankenwet
-- aia:04-risicobeoordeling-voor-jongeren-en-kwetsbaren
-- aia:01-ai-geletterdheid
-- aia:18-corrigerende-maatregelen-voor-non-conforme-ai
-- avg:08-wettelijke-verwerking-van-gevoelige-gegevens
-- grw:01-fundamentele-rechten
-- aia:11-systeem-voor-kwaliteitsbeheer
-- aia:05-data-kwaliteitscriteria
-- aia:29-beoordelen-gevolgen-grondrechten
-- grw:02-non-discriminatie
-- avg:03-minimale-verwerking-van-persoonsgegevens
-- avg:11-privacy-bij-ontwerp-bij-verwerking-van-persoonsgegevens
-- avg:10-recht-op-niet-geautomatiseerde-besluitvorming
-- aia:03-risicobeheersysteem
-- aia:04-risicobeoordeling-voor-jongeren-en-kwetsbaren
-- aia:09-menselijk-toezicht
-- aia:08-transparantie-aan-gebruiksverantwoordelijken
-- avg:07-transparantie-bij-verwerken-persoonsgegevens
-- aia:03-risicobeheersysteem
-- aia:19-toegankelijkheidseisen
-- aia:20-verstrekken-van-informatie-op-verzoek
-- woo:01-recht-op-toegang-tot-publieke-informatie
+- aia-28-recht-op-uitleg-ai-besluiten
+- aut-01-auteursrechten
+- dat-01-databankenwet
+- aia-04-risicobeoordeling-voor-jongeren-en-kwetsbaren
+- aia-01-ai-geletterdheid
+- aia-18-corrigerende-maatregelen-voor-non-conforme-ai
+- avg-08-wettelijke-verwerking-van-gevoelige-gegevens
+- grw-01-fundamentele-rechten
+- aia-11-systeem-voor-kwaliteitsbeheer
+- aia-05-data-kwaliteitscriteria
+- aia-29-beoordelen-gevolgen-grondrechten
+- grw-02-non-discriminatie
+- avg-03-minimale-verwerking-van-persoonsgegevens
+- avg-11-privacy-bij-ontwerp-bij-verwerking-van-persoonsgegevens
+- avg-10-recht-op-niet-geautomatiseerde-besluitvorming
+- aia-03-risicobeheersysteem
+- aia-04-risicobeoordeling-voor-jongeren-en-kwetsbaren
+- aia-09-menselijk-toezicht
+- aia-08-transparantie-aan-gebruiksverantwoordelijken
+- avg-07-transparantie-bij-verwerken-persoonsgegevens
+- aia-03-risicobeheersysteem
+- aia-19-toegankelijkheidseisen
+- aia-20-verstrekken-van-informatie-op-verzoek
+- woo-01-recht-op-toegang-tot-publieke-informatie
 
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 

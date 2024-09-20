@@ -2,10 +2,10 @@
 title: Pas het principe van security by design toe
 toelichting: Door security by design toe te passen, kunnen kwetsbaarheden in de software worden voorkomen nog voordat deze wordt ontwikkeld. 
 vereiste:
-- bio:01-beveiliging-informatie-en-informatiesystemen
-- avg:12-beveiliging-van-verwerking
-- avg:12-beveiliging-van-verwerking
-- aia:07-automatische-logregistratie
+- bio-01-beveiliging-informatie-en-informatiesystemen
+- avg-12-beveiliging-van-verwerking
+- avg-12-beveiliging-van-verwerking
+- aia-07-automatische-logregistratie
 levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie

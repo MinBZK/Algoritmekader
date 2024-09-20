@@ -7,7 +7,7 @@ vereiste:
 - motiveringsbeginsel
   
 levenscyclus:
-- organisiatieverantwoordelijkheden
+- organisatieverantwoordelijkheden
 - verificatie-en-validatie
   
 onderwerp:

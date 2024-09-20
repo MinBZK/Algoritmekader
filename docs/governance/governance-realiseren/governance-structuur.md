@@ -3,6 +3,7 @@ title: Governance structuur
 ---
 
 Een mogelijke inrichting van algoritme en AI governance die vaak wordt toegepast is het three lines of defence model:
+
 - De eerste linie gaat over eigenaarschap, ontwikkeling, gebruik en risicobeheersing van algoritme en AI toepassingen.
 - De tweede linie identificeert, beoordeelt en rapporteert over risico’s en het uitgevoerde gebruik algoritmes en AI toepassingen.
 - De derde verdedigingslinie controleert de werking van de governance en betreft interne advisering en toetsing . 

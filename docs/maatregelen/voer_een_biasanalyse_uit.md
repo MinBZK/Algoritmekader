@@ -151,10 +151,15 @@ Het algoritme of AI-systeem mag in dat geval niet gebruikt worden.
 Voor meer toelichting over het uitvoeren van een rechtvaardigingstoets, verwijzen we naar het rapport [Discriminatie door risicoprofielen - Een mensenrechtelijk toetsingskader](https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dce) van het College voor de Rechten van de Mens. 
 
 ### Stap 3: Voer een ethische wenselijkheidstoets uit
-Bepaal of het geconstateerde onderscheid uit [Stap 1](#stap-1-analyseer-of-er-sprake-is-van-bias) ethisch wenselijk is. 
+Bepaal of het geconstateerde onderscheid uit [Stap 1](#stap-1-analyseer-of-er-sprake-is-van-bias) ethisch wenselijk is. Dit hangt samen met de algemene wenselijkheid van de inzet van het algoritme.  
+<!-- link toevoegen -->
 
 In sommige gevallen kan het zo zijn dat ondanks dat er een objectieve rechtvaardiging bestaat voor het gemaakte onderscheid, dit vanuit ethisch perspectief toch onwenselijk is. 
 Bepaal [met een grote groep belanghebbenden](../maatregelen/betrek_belanghebbenden.md) wat eventuele (nadelige) effecten van het gemaakte onderscheid kunnen zijn, of jullie dit eerlijk vinden en of er eventuele alternatieven zijn. 
+
+!!! note "Opmerking"
+
+    De bepaling over wat eerlijk is en wat ethisch wenselijk is kan in sommige gevallen ook politiek bevonden worden. Houd hier rekening met de politiek-bestuurlijke verantwoordelijkheden en zorg indien nodig dat de [politiek-bestuurlijke verantwoordelijkhden](../governance/huidige-situatie/politiek-bestuurlijke-verantwoordelijkheden.md) duidelijk zijn. 
 
 ## Bijbehorende vereiste(n)
 
@@ -165,12 +170,10 @@ Wanneer er geen zorgvuldige analyse naar (onwenselijke) bias is uitgevoerd, best
 Dit kan leiden tot een ongelijke behandeling van burgers met eventuele schade voor betrokkenen.
 
 ## Bronnen
-| Bron                                                                                                                                                                     |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Toetsingskader Algoritmes Algemene Rekenkamer, 2.19, 3.08](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) |
-| [Onderzoekskader Algoritmes Auditdienst Rijk, DM.16, DM.17, DM.18, DM.20, DM.21, DM.22](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)                    |
-| [Discriminatie door risicoprofielen - Een mensenrechtelijk toetsingskader, College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dc) |
-| [Handreiking non-discriminatie by design](https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design) |
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 2.19, 3.08](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) |
+- [Onderzoekskader Algoritmes Auditdienst Rijk, DM.16, DM.17, DM.18, DM.20, DM.21, DM.22](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)                    |
+- [Discriminatie door risicoprofielen - Een mensenrechtelijk toetsingskader, College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dc) |
+- [Handreiking non-discriminatie by design](https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design) |
 
 ## Voorbeelden
 - [Addendum Vooringenomenheid voorkomen, Algorithm Audit](https://algorithmaudit.eu/nl/algoprudence/cases/aa202402_preventing-prejudice_addendum/) met bijbehorende data en broncode op [Github](https://github.com/NGO-Algorithm-Audit/DUO-CUB)

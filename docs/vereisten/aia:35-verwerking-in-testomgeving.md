@@ -1,10 +1,7 @@
 ---
 title: Verdere verwerking van persoonsgegevens in AI-testomgevingen 
-index: 35
 id: urn:nl:ak:ver:aia:35
 toelichting: Rechtmatig voor andere doeleinden verzamelde persoonsgegevens mogen uitsluitend in de AI-testomgeving voor regelgeving worden verwerkt ten behoeve van het ontwikkelen, trainen en testen van bepaalde AI-systemen en indien aan alle voorwaarden van art. 57 is voldaan.
-status_vereiste:
-- nog-niet-geldend
 levenscyclus:
 - ontwikkelen
 - dataverkenning-en-datapreparatie

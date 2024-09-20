@@ -1,12 +1,12 @@
 ---
 title: Ontwerp voor nauwkeurigheid, robuustheid en cyberbeveiliging 
-index: 10
 id: urn:nl:ak:ver:aia:10
 toelichting: AI-systemen met een hoog risico worden op zodanige wijze ontworpen en ontwikkeld dat deze een passend niveau van nauwkeurigheid, robuustheid en cyberbeveiliging bieden, alsook consistente prestaties gedurende de levensduur met betrekking tot deze aspecten.
 levenscyclus:
 - ontwerp
-- dataverkenning-en-datapreparatie
 - ontwikkelen
+- verificatie-en-validatie
+- monitoring-en-beheer
 onderwerp:
 - technische-robuustheid-en-veiligheid
 hide:

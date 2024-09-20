@@ -1,12 +1,10 @@
 ---
 title: Recht op uitleg AI-besluiten 
-index: 28
 id: urn:nl:ak:ver:aia:28
 toelichting: Elke getroffen persoon op wie een besluit van toepassing is dat door de gebruiksverantwoordelijke wordt genomen op basis van de output van een in bijlage III vermeld AI-systeem met een hoog risico, met uitzondering van systemen die in punt 2 van die bijlage zijn vermeld, en dat rechtsgevolgen heeft voor die persoon, of op deze op vergelijkbare wijze aanzienlijke invloed heeft die hij of zij als nadelige gevolgen voor zijn of haar gezondheid, veiligheid of grondrechten beschouwt, heeft het recht om van de gebruiksverantwoordelijke duidelijke, inhoudelijke toelichting te verkrijgen bij de rol van het AI-systeem in de besluitvormingsprocedure en de voornaamste elementen van het genomen besluit.
 levenscyclus:
+- implementatie
 - ontwerp
-- dataverkenning-en-datapreparatie
-- ontwikkelen
 - monitoring-en-beheer
 onderwerp:
 - governance

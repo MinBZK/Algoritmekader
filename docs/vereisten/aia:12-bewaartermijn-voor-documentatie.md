@@ -1,6 +1,5 @@
 ---
 title: Hoog risico ai systemen voldoen aan bewaartermijn voor documentatie 
-index: 12
 id: urn:nl:ak:ver:aia:12
 toelichting: De aanbieder moet gedurende tien jaar na het op de markt brengen of in gebruik nemen van het AI-systeem met een hoog risico de vereiste documentatie beschikbaar houden voor de nationale autoriteiten. Dit houdt in dat technische documentatie, documentatie over het kwaliteitsbeheersysteem, eventuele documentatie over besluiten en goedgekeurde wijzigingen door aangemelde instanties en de EU-conformiteitsverklaring beschikbaar moet zijn. Dit waarborgt dat de autoriteiten toegang hebben tot relevante informatie voor controle en naleving van de voorschriften gedurende deze periode. 
 levenscyclus: 

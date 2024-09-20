@@ -5,6 +5,7 @@ toelichting: Volgens de Archiefwet moeten overheden informatie bewaren. Op basis
 levenscyclus: 
 - uitfaseren
 - monitoring-en-beheer
+- ontwikkelen
 onderwerp: 
 - technische-robuustheid-en-veiligheid
 - governance

@@ -1,16 +1,12 @@
 ---
 title: Verplichtingen van aanbieders van AI-modellen voor algemene doeleinden 
-index: 31
 id: urn:nl:ak:ver:aia:31
 toelichting: Aanbieders van AI-modellen voor algemene doeleinden moeten (technische) informatie en documentatie opstellen, up-to-date houden en beschikbaar stellen voor aanbieders van AI-systemen die het AI-model voor algemene doeleinden in hun AI-systemen willen integreren. 
 levenscyclus:
 - ontwerp
-- dataverkenning-en-datapreparatie
-- ontwikkelen
 - verificatie-en-validatie
 - implementatie
 - monitoring-en-beheer
-- uitfaseren
 onderwerp:
 - transparantie
 hide:

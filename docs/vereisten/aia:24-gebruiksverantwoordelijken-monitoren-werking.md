@@ -1,6 +1,5 @@
 ---
 title: Gebruiksverantwoordelijken monitoren werking hoog risico AI-systeem
-index: 24
 id: urn:nl:ak:ver:aia:24
 toelichting: Gebruiksverantwoordelijken monitoren de werking van het AI-systeem met een hoog risico op basis van de gebruiksaanwijzingen en stellen in voorkomend geval de aanbieders in kennis overeenkomstig artikel 72 AI Verordening
 levenscyclus:

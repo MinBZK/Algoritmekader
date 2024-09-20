@@ -1,6 +1,5 @@
 ---
 title: Bewaartermijn voor gegenereerde logs 
-index: 13
 id: urn:nl:ak:ver:aia:13
 toelichting: Aanbieders van AI-systemen met een hoog risico bewaren de in artikel 12, lid 1, bedoelde logs die automatisch worden gegenereerd door hun AI-systemen met een hoog risico voor zover dergelijke logs onder hun controle vallen. Onverminderd het toepasselijke Unie- of nationale recht worden deze logs bewaard gedurende een periode, die passend is voor het beoogde doel van het AI-systeem met een hoog risico, van ten minste zes maanden, tenzij anders is bepaald in het Unie- of nationaal recht, met name de Uniewetgeving inzake de bescherming van persoonsgegevens.
 levenscyclus:

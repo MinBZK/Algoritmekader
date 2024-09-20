@@ -2,11 +2,8 @@
 title: Beveiliging van de verwerking
 id: urn:nl:ak:ver:avg:12
 toelichting: Rekening houdend met de stand van de techniek, de uitvoeringskosten, alsook met de aard, de omvang, de context en de verwerkingsdoeleinden en de qua waarschijnlijkheid en ernst uiteenlopende risico's voor de rechten en vrijheden van personen, treffen de verwerkingsverantwoordelijke en de verwerker passende technische en organisatorische maatregelen om een op het risico afgestemd beveiligingsniveau te waarborgen.
-levenscyclus: 
-- dataverkenning-en-datapreparatie
-- ontwikkelen
-- monitoring-en-beheer
-- uitfaseren
+# levenscyclus: 
+# - organisatieverantwoordelijkheden
 onderwerp: 
 - privacy-en-gegevensbescherming
 - technische-robuustheid-en-veiligheid

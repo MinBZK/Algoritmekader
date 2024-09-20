@@ -1,6 +1,5 @@
 ---
 title: Natuurlijke personen die menselijk toezicht uitvoeren zijn bekwaam, opgeleid, beschikken over autoriteit en krijgen ondersteuning
-index: 23
 id: urn:nl:ak:ver:aia:23
 toelichting: Gebruiksverantwoordelijken dragen het menselijk toezicht over een hoog risico AI-systeem op aan natuurlijke personen die over de nodige bekwaamheid, opleiding en autoriteit beschikken en de nodige ondersteuning krijgen.
 levenscyclus:

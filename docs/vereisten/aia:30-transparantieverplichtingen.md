@@ -1,6 +1,5 @@
 ---
 title: Transparantieverplichtingen
-index: 30
 id: urn:nl:ak:ver:aia:30
 toelichting: 
 levenscyclus:

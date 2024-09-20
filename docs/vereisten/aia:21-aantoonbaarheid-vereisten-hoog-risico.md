@@ -1,14 +1,11 @@
 ---
 title: Aanbieders van AI-systemen met een hoog risico kunnen aantonen dat het AI-systeem in overeenstemming is met de vereisten uit de AI-verordening
-index: 21
 id: urn:nl:ak:ver:aia:21
 toelichting: Aanbieders van AI-systemen met een hoog risico moeten op verzoek van een met reden omkleed verzoek van een nationale bevoegde autoriteit aan kunnen tonen dat het AI-systeem in overeenstemming is met de vereisten van afdeling 2 AI-Verordening. 
 levenscyclus:
 - ontwikkelen
-- verificatie-en-validatie
 - implementatie
 - monitoring-en-beheer
-- uitfaseren
 onderwerp:
 - governance
 hide:

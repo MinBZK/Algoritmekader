@@ -3,8 +3,7 @@ title: Veilig melden van inbreuk op AI verordening
 id: urn:nl:ak:ver:aia:38
 toelichting: Inbreuken op de AI verordening moeten gemeld kunnen worden en melders moeten dit op een veilige en vertrouwelijke manier kunnen doen, zoals beschreven in Richtlijn (EU) 2019/1937. 
 levenscyclus:
-- ontwerp
-- ontwikkelen
+# - organisatieverantwoordelijkheden
 - monitoring-en-beheer
 onderwerp:
 - governance

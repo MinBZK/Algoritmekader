@@ -5,31 +5,30 @@ title: Neem de vereiste op als een subgunningscriteria bij gunningscriteria best
 toelichting: Door de vereiste op te nemen als subgunningscriteria ontstaat een mogelijkheid voor aanbieders om zich te onderscheiden.  
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
-- Recht_op_uitleg_AI-besluiten
-- auteursrechten
-- databankenwet
-- bescherming_van_kwetsbare_groepen
-- bevorder_ai_geletterdheid_personeel
-- corrigerende_maatregelen_voor_non_conforme_ai
-- uitzonderlijk_verwerken_ bijzondere_categorieen_persoonsgegevens 
-- fundamentele_rechten
-- kwaliteitsbeheersysteem_voor_hoog_risico_ai
-- kwaliteitscriteria_voor_data
-- beoordelen_gevolgen_voor_grondrechten
-- non_discriminatie
-- minimale_verwerking_van_persoonsgegevens
-- privacy_bij_ontwerp_bij_verwerking_van_persoonsgegevens
-- recht_op_niet_geautomatiseerd_besluitvorming
-- risicobeheersing
-- risicobeoordeling_voor_jongeren_en_kwetsbaren
-- toezichtmogelijkheden_voor_gebruikers
-- traceerbare_besluitvorming
-- transparantie
-- transparantie_bij_verwerken_persoonsgegevens
-- verplicht_risicobeheersysteem_voor_hoog_risico_ai
-- toegankelijkheidseisen_hoog_risico
-- verstrekking_van_informatie_op_verzoek
-- recht_op_toegang_tot_publieke_informatie
+- aia:28-recht-op-uitleg-ai-besluiten
+- aut:01-auteursrechten
+- dat:01-databankenwet
+- aia:04-risicobeoordeling-voor-jongeren-en-kwetsbaren
+- aia:01-ai-geletterdheid
+- aia:18-corrigerende-maatregelen-voor-non-conforme-ai
+- avg:08-wettelijke-verwerking-van-gevoelige-gegevens
+- grw:01-fundamentele-rechten
+- aia:11-systeem-voor-kwaliteitsbeheer
+- aia:05-data-kwaliteitscriteria
+- aia:29-beoordelen-gevolgen-grondrechten
+- grw:02-non-discriminatie
+- avg:03-minimale-verwerking-van-persoonsgegevens
+- avg:11-privacy-bij-ontwerp-bij-verwerking-van-persoonsgegevens
+- avg:10-recht-op-niet-geautomatiseerde-besluitvorming
+- aia:03-risicobeheersysteem
+- aia:04-risicobeoordeling-voor-jongeren-en-kwetsbaren
+- aia:09-menselijk-toezicht
+- aia:08-transparantie-aan-gebruiksverantwoordelijken
+- avg:07-transparantie-bij-verwerken-persoonsgegevens
+- aia:03-risicobeheersysteem
+- aia:19-toegankelijkheidseisen
+- aia:20-verstrekken-van-informatie-op-verzoek
+- woo:01-recht-op-toegang-tot-publieke-informatie
 
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 

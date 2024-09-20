@@ -2,7 +2,7 @@
 title: Bewijs laten leveren dat auteursrechten niet worden geschonden met de trainingsdata
 toelichting: Maak het al dan niet kunnen leveren van bewijs door een aanbieder dat auteursrechten niet worden geschonden doordat de trainingsdata rechtmatig is verkregen een vast onderdeel van de wedstrijd/inkoop/beoordeelingsmatrix als ook de vaste beoordeling hiervan door tenminste ook een jurist.
 vereiste:
-- auteursrechten
+- aut:01-auteursrechten
 levenscyclus:
 - ontwerp
 - monitoring-en-beheer

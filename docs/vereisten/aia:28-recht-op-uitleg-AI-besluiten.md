@@ -44,4 +44,4 @@ Als gebruiksverantwoordelijke geen duidelijke, inhoudelijke toelichting geeft ov
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia:28-recht-op-uitleg-AI-besluiten -->
+<!-- list_maatregelen vereiste/aia:28-recht-op-uitleg-ai-besluiten -->

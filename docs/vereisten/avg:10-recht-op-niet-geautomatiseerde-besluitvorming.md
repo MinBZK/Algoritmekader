@@ -39,4 +39,4 @@ Bij geautomatiseerde besluitvorming kan het risico ontstaan dat kenmerken van ee
 
 ## Maatregelen 
 
-<!-- list_maatregelen vereiste/avg:10-recht-op-niet-geautomatiseerd-besluitvorming -->
+<!-- list_maatregelen vereiste/avg:10-recht-op-niet-geautomatiseerde-besluitvorming -->

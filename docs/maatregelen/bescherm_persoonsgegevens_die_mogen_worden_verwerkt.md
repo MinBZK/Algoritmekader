@@ -2,8 +2,8 @@
 title: Bescherm persoonsgegevens die mogen worden verwerkt voor het ontwikkelen en gebruiken van algoritmes en AI-systemen.
 toelichting: Pas maatregelen toe als pseudonimiseren, anonimisering of aggregeren van persoonsgegevens bij het verwerken van de data. 
 vereiste:
-- minimale_verwerking_van_persoonsgegevens.md
-- beveiliging_van_verwerking
+- avg:03-minimale-verwerking-van-persoonsgegevens
+- avg:12-beveiliging-van-verwerking
 levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie

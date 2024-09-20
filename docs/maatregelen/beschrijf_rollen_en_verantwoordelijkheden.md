@@ -5,8 +5,8 @@ title: Beschrijf de rollen en verantwoordelijkheden voor het ontwikkelen en gebr
 toelichting: Stel een RACI-matrix op waarbij de rollen en verantwoordelijkheden worden beschreven en toebedeeld.
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
-- beschrijven_en_toewijzen_van_verantwoordelijkheden_bij_verwerking_persoonsgegevens
-- zorgvuldigheidsbeginsel
+- avg:06-verantwoordingsplicht-rechtmatigheid
+- awb:01-zorgvuldigheidsbeginsel
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 
 - ontwerp

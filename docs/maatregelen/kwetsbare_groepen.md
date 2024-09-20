@@ -2,7 +2,8 @@
 title: Kwetsbare groepen in kaart brengen en beschermen
 toelichting: Bepaal wat de impact van het in te zetten algoritme is voor betrokkenen (personen of groepen). Bepaal vervolgens of de er groepen zijn waarbij de impact van het algoritme dermate groot kan zijn, dat het wenselijk is om deze groepen extra bescherming te bieden.
 vereiste:
-- tbd
+- grw:01-fundamentele-rechten
+- aia:04-risicobeoordeling-voor-jongeren-en-kwetsbaren
 levenscyclus:
 - ontwerp
 onderwerp:

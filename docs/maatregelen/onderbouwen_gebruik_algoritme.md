@@ -2,7 +2,7 @@
 title: Bepaal waarom we gebruik willen maken een algoritme
 toelichting: Bepaal en documenteer waarom het gewenst of nodig is om een algoritme in te zetten om het probleem te kunnen aanpakken.
 vereiste:
-- zorgvuldigheidsbeginsel
+- awb:01-zorgvuldigheidsbeginsel
 levenscyclus:
 - probleemanalyse
 onderwerp:

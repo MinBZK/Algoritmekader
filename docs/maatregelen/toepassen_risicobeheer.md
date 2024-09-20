@@ -2,59 +2,10 @@
 title: Pas risicobeheer gestructureerd toe voorafgaand en gedurende de ontwikkeling en gebruik van algoritmes en AI-systemen.
 toelichting: Alle stappen van risicobeheer worden periodiek uitgevoerd en op het juiste niveau in de organisatie behandeld.
 vereiste: 
-- automatische_logregistratie
-- zorgvuldigheidsbeginsel
-- kwaliteitsbeheersysteem_voor_hoog_risico_ai
-- kwaliteitscriteria_voor_data
-- melding_ernstige_incidenten
-- ontwerp_voor_nauwkeurigheid_robuustheid_en_cyberbeveiliging
-- fundamentele_rechten
-- beoordelen_gevolgen_voor_grondrechten
-- beveiliging_informatie_en_informatiesystemen
-- beveiliging_van_verwerking
-- non_discriminatie
-- archiefwet
-- auteursrechten
-- beginsel_van_proportionaliteit_en_subsidiariteit
-- beschrijven_en_toewijzen_van_verantwoordelijkheden_bij_verwerking_persoonsgegevens
-- bevorder_ai_geletterdheid_personeel
-- bewaartermijn_voor_documentatie
-- corrigerende_maatregelen_voor_non_conforme_ai
-- databankenwet
-- dpia_verplicht_bij_hoog_risico
-- gebruiksverantwoordelijken_bewaren_automatisch_gegenereerde_logs
-- gebruiksverantwoordelijken_leven_registratieverplichting_na
-- gebruiksverantwoordelijken_menselijk_toezicht_natuurlijke_personen
-- gebruiksverantwoordelijken_monitoren_werking_hoog_risico_AI-systeem
-- inroepen_privacyrecht_bij_verwerking_persoonsgegevens
-- juistheid_en_actualiteit_van_persoonsgegevens
-- minimale_verwerking_van_persoonsgegevens
-- persoonsgegevens_worden_rechtmatig_verwerkt
-- privacy_bij_ontwerp_bij_verwerking_van_persoonsgegevens
-- recht_op_niet_geautomatiseerd_besluitvorming
-- recht_op_toegang_tot_publieke_informatie
-- recht_op_uitleg_ai_besluiten
-- risicobeoordeling_voor_jongeren_en_kwetsbaren
-- toegankelijkheidseisen_hoog_risico
-- toezichtmogelijkheden_voor_gebruikers
-- transparantie
-- transparantie_bij_verwerken_persoonsgegevens
-- verantwoordingsplicht_rechtmatigheid
-- verboden_toepassingen_evaluatie_of_classificatie_natuurlijke_personen_of_groepen_personen
-- verplicht_risicobeheersysteem_voor_hoog_risico_ai
-- verplichtingen_van_aanbieders_van_ai_modellen_voor_algemene_doeleinden
-- verplichtingen_van_aanbieders_van_ai_modellen_voor_algemene_doeleinden_met_systeemrisico
-- verstrekking_van_informatie_op_verzoek
-- wettelijke_verwerking_van_gevoelige_gegevens
-levenscyclus: 
-- probleemanalyse
-- ontwerp
-- dataverkenning-en-datapreparatie
-- ontwikkelen
-- verificatie-en-validatie
-- implementatie
-- monitoring-en-beheer
-- uitfaseren
+- aia:03-risicobeheersysteem
+- awb:01-zorgvuldigheidsbeginsel
+# levenscyclus: 
+# - organisatieverantwoordelijkheden
 onderwerp: 
 - governance
 rollen:

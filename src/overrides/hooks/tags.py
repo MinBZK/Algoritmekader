@@ -103,7 +103,7 @@ def _badge_id(page: Page, files: Files, phase: str):
     icon = "material-tag"
     href_id = _resolve_path("vereisten/index.md", page, files)
     return _badge(
-        icon=f"[:{icon}:]({href_id} 'Vereiste')",
+        icon=f"[:{icon}:]({href_id} 'Vereiste ID')",
         text=f"{phase[-6:]}",
         color="blue",
     )

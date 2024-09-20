@@ -3,11 +3,8 @@ title: Bevorder AI-geletterdheid van personeel en gebruikers
 index: 1
 id: urn:nl:ak:ver:aia:01
 toelichting: Aanbieders en exploitanten van AI-systemen moeten ervoor zorgen dat hun personeel en andere betrokkenen voldoende kennis hebben van AI. Dit omvat het bevorderen van kennis over de techniek, evenals kennis over de context waarin de AI-systemen worden gebruikt en de gebruikers van deze systemen. Het doel is om een adequaat niveau van begrip en vaardigheden te waarborgen, wat bijdraagt aan een verantwoord gebruik van AI en het minimaliseren van risico's.
-levenscyclus: 
-- probleemanalyse
-- ontwerp
-- implementatie
-- monitoring-en-beheer
+# levenscyclus: 
+# - organisatieverantwoordelijkheden
 onderwerp: 
 - menselijke-controle
 - governance

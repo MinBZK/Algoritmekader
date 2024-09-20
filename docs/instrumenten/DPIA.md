@@ -4,12 +4,12 @@ toelichting: De DPIA is een instrument om vooraf de privacyrisico’s van een ge
 vereiste:
 - beperkte_bewaartermijn_van_persoonsgegevens
 - beschrijven_en_toewijzen_van_verantwoordelijkheden_bij_verwerking_persoonsgegevens
-- dpia_verplicht_bij_hoog_risico
-- inroepen_privacyrecht_bij_verwerking_persoonsgegevens
-- juistheid_en_actualiteit_van_persoonsgegevens
-- persoonsgegevens_worden_rechtmatig_verwerkt
-- privacy_bij_ontwerp_bij_verwerking_van_persoonsgegevens
-- transparantie_bij_verwerken_persoonsgegevens
+- avg:13-dpia-verplicht
+- avg:09-inroepen-privacyrecht-bij-verwerking-persoonsgegevens
+- avg:05-juistheid-en-actualiteit-van-persoonsgegevens
+- avg:01-persoonsgegevens-worden-rechtmatig-verwerkt
+- avg:11-privacy-bij-ontwerp-bij-verwerking-van-persoonsgegevens
+- avg:07-transparantie-bij-verwerken-persoonsgegevens
 - verdere_verwerking_van_persoonsgegevens_in_ai_testomgevingen
 levenscyclus:
 - probleemanalyse

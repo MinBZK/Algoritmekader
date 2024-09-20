@@ -7,12 +7,8 @@ vereiste:
 - motiveringsbeginsel
   
 levenscyclus:
-- ontwerp
-- ontwikkelen
+- organisiatieverantwoordelijkheden
 - verificatie-en-validatie
-- implementatie
-- monitoring-en-beheer
-- uitfaseren
   
 onderwerp:
 - governance

@@ -7,8 +7,8 @@ icon: material/bank
 ## Leeswijzer
 Het onderwerp Governance in het algoritmekader is opgedeeld in twee delen, die in feite twee fases vormen:
 
-* In kaart brengen van huidige (AI en algoritme) governance [linkje nog invoegen]
-* AI en algoritme governance realiseren met best practices en voorbeelden [linkje nog invoegen]
+* In kaart brengen van huidige (AI en algoritme) governance
+* AI en algoritme governance realiseren met best practices en voorbeelden
 
 Een AI en algoritmegovernance (processen, verantwoordelijken, etc.) ingericht hebben, is een randvoorwaarde om de vereisten die het Algoritmekader noemt verantwoord en gestructureerd aan te pakken. Een AI en algoritmegovernance moet zijn ingericht alvorens te kunnen starten met algoritmes. Kortom: governance is het startpunt.
 
@@ -81,9 +81,9 @@ De volgende onderwerpen komen hier aan de orde:
 
 - [Governance structuur](governance-structuur.md): basis in 3 lines of defense
 - [Governance per risicogroep](governance-per-risicogroep.md)
--	[Algoritmelevenscyclus](interactie-met-levenscyclus.md)(beslis-“gates”)
--	[Rollen en verantwoordelijkheden](rollen-en-verantwoordelijkheden.md)
--	[Interactie met burgers en omgeving](interactie-burgers-en-omgeving.md)
+- [Algoritmelevenscyclus](interactie-met-levenscyclus.md)(beslis-“gates”)
+- [Rollen en verantwoordelijkheden](rollen-en-verantwoordelijkheden.md)
+- [Interactie met burgers en omgeving](interactie-burgers-en-omgeving.md)
 
 Voorbeelden bieden in hoofdlijnen een ‘blauwdruk’ voor hoe algoritmegovernance kan worden ingericht. 
 Belangrijk om te realiseren dat altijd moet worden gekeken hoe dit in de eigen organisatie is in te passen. 
@@ -93,8 +93,8 @@ Waar mogelijk geven we daarom voorbeelden uit een divers scala aan organisaties.
 ## Wat algemene best practices 
 
 - Maak iemand verantwoordelijk voor AI en algoritmegovernance
--	Zorg voor overlegstructuren met keuzemandaat met belangrijke partijen/stakeholders
--	Zorg voor procedures waarin instrumenten als de IAMA/DPIA een plek hebben.
+- Zorg voor overlegstructuren met keuzemandaat met belangrijke partijen/stakeholders
+- Zorg voor procedures waarin instrumenten als de IAMA/DPIA een plek hebben.
 
 ## Vereisten
 

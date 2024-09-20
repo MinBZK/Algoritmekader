@@ -6,7 +6,7 @@ Een mogelijke inrichting van algoritme en AI governance die vaak wordt toegepast
 
 - De eerste linie gaat over eigenaarschap, ontwikkeling, gebruik en risicobeheersing van algoritme en AI toepassingen.
 - De tweede linie identificeert, beoordeelt en rapporteert over risico’s en het uitgevoerde gebruik algoritmes en AI toepassingen.
-- De derde verdedigingslinie controleert de werking van de governance en betreft interne advisering en toetsing . 
+- De derde verdedigingslinie controleert de werking van de governance en betreft interne advisering en toetsing. 
 
 Schuett (2022) presenteert het three lines of defence model als volgt:
 ![Three Lines of Defence Model](https://github.com/user-attachments/assets/4974f07d-9810-44e0-a0bb-56f1b1061732)
@@ -15,12 +15,12 @@ Onder andere UWV en de Gemeente Rotterdam hanteren dit model met drie linies. Re
 
 Bij de gemeente Rotterdam zijn de drie lijnen ingevuld via de volgende rollen en verantwoordelijkheden: “De eerste lijn bestaat uit de proceseigenaren en de operationeel verantwoordelijken. Proceseigenaren zijn verantwoordelijk voor de gehele algoritmetoepassing en de operationeel verantwoordelijken voor de ontwikkeling. De tweede lijn is de algoritme expert, die een onafhankelijke toezicht- en adviestaak heeft. De derde lijn wordt volgens de stukken die gaan over de algoritme governance vervuld door Financial audit.” (Rekenkamer Rotterdam, 2024) 
 
-De algoritmegovernance van de gemeente Rotterdam bestaat uit de volgende onderdelen: 
-* 1 een visie op de inzet van algoritmes;
-* 2 instrumentarium voor risicobeheersing dat onder andere bestaat uit een risico-assessment (ARA) en een mensenrechtenassessment (AIMA/IAMA); 
-* 3 een uiteenzetting van rollen en verantwoordelijkheden en; 
-* 4 een omschrijving van de verantwoordelijkheden voor controle en advies.
-Bron: Rekenkamer Rotterdam, 2024 (Rapport: kleur bekennen)
+De algoritmegovernance van de [Gemeente Rotterdam](https://rekenkamer.rotterdam.nl/wp-content/uploads/2024/05/RO2205-kleur-bekennen-vervolgonderzoek-algoritmes-rekenkamer-rotterdam.pdf) bestaat uit de volgende onderdelen: 
+
+1. een visie op de inzet van algoritmes;
+2. instrumentarium voor risicobeheersing dat onder andere bestaat uit een risico-assessment (ARA) en een mensenrechtenassessment (AIMA/IAMA); 
+3. een uiteenzetting van rollen en verantwoordelijkheden en; 
+4. een omschrijving van de verantwoordelijkheden voor controle en advies.
 
 ## Aandachts- en actiepunten
 

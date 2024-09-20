@@ -12,14 +12,13 @@ Governance is echter altijd een onderdeel van deze volwassenheidsmodellen.
 
 ## Voorbeelden van volwassenheidsmodellen
 
-### AI ethics maturity model van Krijger, Thuis, de Ruiter, Ligthart & Broekman (2023).
+### [AI ethics maturity model van Krijger, Thuis, de Ruiter, Ligthart & Broekman (2023)](https://link.springer.com/article/10.1007/s43681-022-00228-7)
 Op basis van zes categorieën (awareness & culture, Policy, Governance, Communication & Training, Development Proces, en Tooling) op verschillende niveau’s. 
 
 ![Krijger, J., Thuis, T., de Ruiter, M. et al. The AI ethics maturity model: a holistic approach to advancing ethical data science in organizations. AI Ethics 3, 355–367 (2023)](https://github.com/user-attachments/assets/07860cdc-9d6c-46f4-aace-cfcdf71e114d)
 
-Bron: uit Krijger, Thuis, de Ruiter, Ligthart & Broekman (2023) ([Krijger, J., Thuis, T., de Ruiter, M. et al. The AI ethics maturity model: a holistic approach to advancing ethical data science in organizations. AI Ethics 3, 355–367 (2023).](https://link.springer.com/article/10.1007/s43681-022-00228-7)
 
-#### Het Datavolwassenheidsmodel van de IBDS
+#### [Het Datavolwassenheidsmodel van de IBDS](https://realisatieibds.nl/groups/view/c23ab74c-adb4-424e-917d-773a37968efe/kenniscentrum-van-de-ibds/wiki/view/2447d2a8-6c48-468d-9739-00772688853f/beslishulp-datavolwassenheid)
 Richt zich op datavolwassenheid, maar heeft daarin veel raakvlakken met AI waar voor data een belangrijk component is. 
 Heeft een eigen [beslishulp datavolwassenheid](https://realisatieibds.nl/groups/view/c23ab74c-adb4-424e-917d-773a37968efe/kenniscentrum-van-de-ibds/wiki/view/2447d2a8-6c48-468d-9739-00772688853f/beslishulp-datavolwassenheid) maar ook een [meetgids](https://realisatieibds.nl/page/view/ad94d97c-4d48-443c-aedd-235b2d0ca8b6/wegwijzer-volwassenheidsmodellen) met verschillende methoden.
 
@@ -52,8 +51,8 @@ Bewustzijn over de noodzaak voor AI-governance moet op bestuurlijk niveau helder
 Een analyse van volwassenheidsniveau kan helpen input te geven waar eerst op te richten.
 
 ## Aandachts- en actiepunten:
-*	Breng in kaart wat er al is aan IT-governance met één van de volwassenheidsmodellen.
-    -	Is de organisatie volwassen? Vallen AI en algoritmes al ergens onder? 
-    -	Breng deze informatie naar je bestuur met het verzoek duidelijkheid te krijgen hoe AI-governance belegt zou moeten worden. De AI-verordening vraagt om belegde verantwoordelijkheden met betrekking tot AI en algoritmes.
-*	Er is verschil in datageletterdheid van ambtenaren. Benodigde skills en expertise (die mogelijk ontbreken) zijn van belang bij het invullen van rollen en verantwoordelijkheden.
+- Breng in kaart wat er al is aan IT-governance met één van de volwassenheidsmodellen.
+- Is de organisatie volwassen? Vallen AI en algoritmes al ergens onder? 
+- Breng deze informatie naar je bestuur met het verzoek duidelijkheid te krijgen hoe AI-governance belegd zou moeten worden. De AI-verordening vraagt om belegde verantwoordelijkheden met betrekking tot AI en algoritmes.
+- Er is verschil in datageletterdheid van ambtenaren. Benodigde skills en expertise (die mogelijk ontbreken) zijn van belang bij het invullen van rollen en verantwoordelijkheden.
 

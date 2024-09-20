@@ -2,13 +2,13 @@
 title: Interactie met burgers en omgeving
 ---
 
-Bij het vormgeven van de algoritme en AI governance is het van belang om na te denken over de interactie met burgers en andere belangrijke stakeholder, zowel binnen als buiten de organisatie. Er moet worden nagedacht in welke gevallen dit passend is en welke processen, mechanismen en structuren hierbij kunnen helpen. Bijvoorbeeld het instellen van een centraal contactpunt voor vragen, en de wijze waarop een burger in beroep kan gaan op een besluit.
+Bij het vormgeven van de algoritme en AI governance is het van belang om na te denken over de interactie met burgers en andere belangrijke stakeholders, zowel binnen als buiten de organisatie. Er moet worden nagedacht in welke gevallen dit passend is en welke processen, mechanismen en structuren hierbij kunnen helpen. Bijvoorbeeld het instellen van een centraal contactpunt voor vragen, en de wijze waarop een burger in beroep kan gaan op een besluit.
 
 ## Aandachts- en actiepunten
 
-*	[Onderzoek of je burgers en/of omgeving wil betrekken](../../maatregelen/betrek_belanghebbenden.md) bij de AI-governance in je organisatie, en op welke manier. 
-  *	Dit kan strategisch (in het vaststellen van de waardes van je organisatie) op meer in operationele processen (op een vast punt in de AI-levenscyclus). 
-* Zie ter inspiratie [Citizen Participation Methods for Artificial Intelligence](https://openresearch.amsterdam/en/page/110361/citizen-participation-methods-for-artificial-intelligence)
+- [Onderzoek of je burgers en/of omgeving wil betrekken](../../maatregelen/betrek_belanghebbenden.md) bij de AI-governance in je organisatie, en op welke manier. 
+- Dit kan strategisch (in het vaststellen van de waardes van je organisatie) op meer in operationele processen (op een vast punt in de AI-levenscyclus). 
+- Zie ter inspiratie [Citizen Participation Methods for Artificial Intelligence](https://openresearch.amsterdam/en/page/110361/citizen-participation-methods-for-artificial-intelligence)
 
 
 ## Bronnen

@@ -6,12 +6,7 @@ vereiste:
 - ontwerp_voor_nauwkeurigheid_robuustheid_en_cyberbeveiliging
 - beveiliging_van_verwerking
 levenscyclus:
-- ontwerp
-- dataverkenning-en-datapreparatie
-- ontwikkelen
-- verificatie-en-validatie
-- implementatie
-- monitoring-en-beheer
+- organisatieverantwoordelijkheden
 onderwerp:
 - technische-robuustheid-en-veiligheid
 - governance

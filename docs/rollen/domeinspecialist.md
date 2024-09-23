@@ -1,14 +1,13 @@
 ---
 title: Domeinspecialist
+hide:
+  - toc
+  - navigation
 ---
-
-## Vereisten
-
-<!-- list_vereisten rollen/domeinspecialist -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/domeinspecialist -->
+<!-- list_maatregelen rollen/domeinspecialist no-rol no-levenscyclus no-search no-onderwerp -->
 
 !!! info "Disclaimer"
 

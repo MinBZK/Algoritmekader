@@ -1,14 +1,13 @@
 ---
 title: Projectleider
+hide:
+  - toc
+  - navigation
 ---
-
-## Vereisten
-
-<!-- list_vereisten rollen/projectleider -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/projectleider -->
+<!-- list_maatregelen rollen/projectleider no-rol no-levenscyclus no-search no-onderwerp -->
 
 !!! info "Disclaimer"
 

@@ -33,12 +33,12 @@ Onderdeel van het bouwblok Fundamentele rechten is het onderwerp [Bias en non-di
 
 ## Vereisten
 
-<!-- list_vereisten onderwerp/fundamentele-rechten -->
+<!-- list_vereisten onderwerp/fundamentele-rechten no-search no-onderwerp no-rol no-levenscyclus -->
 
 ## Maatregelen
 
-<!-- list_maatregelen onderwerp/fundamentele-rechten -->
+<!-- list_maatregelen onderwerp/fundamentele-rechten no-search no-onderwerp no-rol no-levenscyclus -->
 
 ## Instrumenten
 
-<!-- list_instrumenten onderwerp/fundamentele-rechten -->
+<!-- list_instrumenten onderwerp/fundamentele-rechten no-search no-onderwerp no-rol no-levenscyclus -->

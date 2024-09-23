@@ -70,6 +70,7 @@ rollen:
 
 hide:
 - navigation
+- toc
 
 ---
 

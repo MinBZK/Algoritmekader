@@ -132,3 +132,7 @@
 .choices__item::after {
   content: none !important;
 }
+
+.mdx-badge{
+  text-decoration: none;
+}

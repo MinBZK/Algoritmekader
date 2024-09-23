@@ -52,10 +52,8 @@ Over het [Fairness Handbook](fairness-handbook.md) werd in het rapport aangegeve
 
 ## Bronnen
 
-| Bron                        |
-|-----------------------------|
-|[Handreiking non-discriminatie by design](https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design)|
-|[Onderzoeksrapport Bekendheid, toepasbaarheid en toegevoegde waarde handreiking 'non-discriminatie by design'](https://open.overheid.nl/documenten/7052294a-e70a-4084-88da-d09ae5f202cb/file)|
+- [Handreiking non-discriminatie by design](https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design)
+- [Onderzoeksrapport Bekendheid, toepasbaarheid en toegevoegde waarde handreiking 'non-discriminatie by design'](https://open.overheid.nl/documenten/7052294a-e70a-4084-88da-d09ae5f202cb/file)
 
 ## Voorbeeld
 

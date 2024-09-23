@@ -16,6 +16,7 @@ rollen:
 - contractbeheerder
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

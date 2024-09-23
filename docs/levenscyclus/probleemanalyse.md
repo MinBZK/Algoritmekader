@@ -1,5 +1,8 @@
 --- 
 title: Probleemanalyse
+hide:
+- navigation
+- toc
 ---
 
 In deze fase wordt het probleem en de doelstellingen van een opdrachtgever geanalyseerd en beschreven. 
@@ -15,11 +18,11 @@ Een vastgestelde business case of plan van aanpak vormen veelal de basis om de o
 
 ## Vereisten
 
-<!-- list_vereisten levenscyclus/probleemanalyse -->
+<!-- list_vereisten levenscyclus/probleemanalyse no-rol no-levenscyclus no-search no-onderwerp -->
 
 ## Maatregelen
 
-<!-- list_maatregelen levenscyclus/probleemanalyse -->
+<!-- list_maatregelen levenscyclus/probleemanalyse no-rol no-levenscyclus no-search no-onderwerp -->
 
 
 !!! info "Disclaimer"

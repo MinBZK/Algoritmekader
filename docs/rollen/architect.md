@@ -1,14 +1,13 @@
 ---
 title: Architect
+hide:
+  - toc
+  - navigation
 ---
-
-## Vereisten
-
-<!-- list_vereisten rollen/architect -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/architect -->
+<!-- list_maatregelen rollen/architect no-rol no-levenscyclus no-search no-onderwerp -->
 
 !!! info "Disclaimer"
 

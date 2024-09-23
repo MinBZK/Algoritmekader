@@ -43,6 +43,7 @@ rollen:
   
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

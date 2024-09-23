@@ -24,6 +24,7 @@ rollen:
 - behoeftesteller
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

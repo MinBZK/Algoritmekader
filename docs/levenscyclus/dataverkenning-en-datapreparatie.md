@@ -1,5 +1,8 @@
 --- 
 title: Dataverkenning en datapreparatie
+hide:
+- navigation
+- toc
 ---
 
 In deze fase worden relevante datasets geïdentificeerd en wanneer nodig wordt nieuwe data verzameld. 
@@ -20,11 +23,11 @@ Als de verzamelde data van voldoende kwaliteit is en de vereiste maatregelen zij
 
 ## Vereisten
 
-<!-- list_vereisten levenscyclus/dataverkenning-en-datapreparatie -->
+<!-- list_vereisten levenscyclus/dataverkenning-en-datapreparatie no-rol no-levenscyclus no-search no-onderwerp -->
 
 ## Maatregelen
 
-<!-- list_maatregelen levenscyclus/dataverkenning-en-datapreparatie -->
+<!-- list_maatregelen levenscyclus/dataverkenning-en-datapreparatie no-rol no-levenscyclus no-search no-onderwerp -->
 
 !!! info "Disclaimer"
 

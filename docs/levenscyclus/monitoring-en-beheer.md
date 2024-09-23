@@ -1,5 +1,8 @@
 --- 
 title: Monitoring en beheer
+hide:
+- navigation
+- toc
 ---
 
 Het algoritme of AI-systeem wordt in deze fase voortdurend gemonitord om ervoor te zorgen dat het blijft presteren zoals verwacht en kan worden gebruikt door gebruikers. 

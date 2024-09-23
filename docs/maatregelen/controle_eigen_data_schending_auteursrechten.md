@@ -14,6 +14,7 @@ rollen:
 - jurist
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

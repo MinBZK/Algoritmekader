@@ -40,6 +40,7 @@ rollen:
 
 hide:
 - navigation
+- toc
 
 ---
 

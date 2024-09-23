@@ -13,6 +13,7 @@ rollen:
 - archiefdeskundige
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

@@ -22,6 +22,7 @@ rollen:
 - proceseigenaar
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

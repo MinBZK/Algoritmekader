@@ -6,13 +6,12 @@ from mkdocs.structure.files import File, Files
 from re import Match
 import json
 
-# Define _create_chip first to ensure it's available for _create_table_row_2
-def _create_chip(item: str, chip_type: str) -> str:
+# Updated _create_chip function to use the same linking logic as "maatregelen"
+def _create_chip(item: str, chip_type: str, base_url: str, config: MkDocsConfig) -> str:
     if not item:
         return ""
 
     icon_svg, color_class = "", ""
-    base_url = "/"
 
     # Determine chip-specific styles and icons
     if chip_type == 'rol':
@@ -58,10 +57,10 @@ def _create_table_row_2(file: File, filter_options: Dict[str, bool], current_fil
     onderwerpen = file.page.meta.get('onderwerp', [])
     vereiste = file.page.meta.get('vereiste', [])
 
-    rollen_chips = ''.join(_create_chip(rol, 'rol') for rol in rollen) if filter_options.get("rol", True) else ""
-    levenscyclus_chips = ''.join(_create_chip(lc, 'levenscyclus') for lc in levenscyclus) if filter_options.get("levenscyclus", True) else ""
-    onderwerp_chips = ''.join(_create_chip(onderwerp, 'onderwerp') for onderwerp in onderwerpen) if filter_options.get("onderwerp", True) else ""
-    vereiste_chips = ''.join(_create_chip(vereiste, 'vereiste') for vereiste in vereiste) if filter_options.get("vereiste", True) else ""
+    rollen_chips = ''.join(_create_chip(rol, 'rol', base_url, config) for rol in rollen) if filter_options.get("rol", True) else ""
+    levenscyclus_chips = ''.join(_create_chip(lc, 'levenscyclus', base_url, config) for lc in levenscyclus) if filter_options.get("levenscyclus", True) else ""
+    onderwerp_chips = ''.join(_create_chip(onderwerp, 'onderwerp', base_url, config) for onderwerp in onderwerpen) if filter_options.get("onderwerp", True) else ""
+    vereiste_chips = ''.join(_create_chip(vereiste, 'vereiste', base_url, config) for vereiste in vereiste) if filter_options.get("vereiste", True) else ""
 
     return "".join(
         [
@@ -232,7 +231,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
             flags=re.I | re.M,
         )
 
-        file.page.content = re.sub(
+        file.page.content is re.sub(
             r"<!-- list_instrumenten(.*?) -->",
             lambda match: replace_content(match, "instrumenten"),
             file.page.content,

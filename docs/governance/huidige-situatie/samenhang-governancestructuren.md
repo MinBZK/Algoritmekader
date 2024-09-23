@@ -10,6 +10,8 @@ Communicatie en vindbaarheid tussen de verschillende domeinen is van groot belan
 
 Bij AI governance moet rekening worden gehouden met mogelijk conflicterende belangen. Bijvoorbeeld, het kan voorkomen dat de business of IT-teams innovatie willen nastreven, terwijl compliance teams juist vragen om het afremmen van innovatie. Bij conflicterende belangen, is het belangrijk dat de AI-eindverantwoordelijke een zorgvuldige afweging kan maken. Hierin kan een duidelijke strategie of visie zoals vastgelegd in een meerjarenbeleidsplan sturing geven. Mocht een visie op AI ontbreken, dan kan iets als de IAMA (die zich ook richt op het afwegen van fundamentele rechten) een keer grondig doorlopen voor een AI-toepassing input geven voor de organisatievisie. 
 
+Een concreet voorbeeld van samen optrekken is (deze handreiking)[https://www.cip-overheid.nl/media/av0dmahv/20230614-gezamenlijk-gebruik-iama-en-model-dpia-rijksdienst-v1-0.pdf] om de IAMA en DPIA gezamelijk uit te voeren.
+
 Om dergelijke (ethische) afwegingen binnen een organisatie verder te ondersteunen kan een adviesorgaan worden opgericht om ethische vraagstukken te bespreken waarbij over teams en thema's heen kan worden gekeken.
 
 ### Normen 

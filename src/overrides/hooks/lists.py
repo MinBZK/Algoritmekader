@@ -7,29 +7,39 @@ from re import Match
 import json
 
 # Updated _create_chip function to use the same linking logic as "maatregelen"
-def _create_chip(item: str, chip_type: str, base_url: str, config: MkDocsConfig) -> str:
+# Updated _create_chip function to use dynamic PR preview path logic
+def _create_chip(item: str, chip_type: str, current_file: File, config: MkDocsConfig) -> str:
     if not item:
         return ""
 
+    # Initialize icon and color
     icon_svg, color_class = "", ""
+    
+    # Initialize base_url and detect PR preview environment
+    base_url = config.site_url if config.site_url else "/"
+    
+    if "minbzk.github.io" in base_url and "pr-preview" in current_file.abs_dest_path:
+        pr_preview_index = current_file.abs_dest_path.index("pr-preview")
+        pr_preview_path = current_file.abs_dest_path[pr_preview_index:].split('/')[0:3]  # e.g., ['pr-preview', 'pr-269']
+        base_url = "/" + "/".join(pr_preview_path) + "/"
 
     # Determine chip-specific styles and icons
     if chip_type == 'rol':
         color_class = 'deep-orange'
         icon_svg = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 4a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4Z"></path></svg>'
-        link = f'{base_url}rollen/{item}'
+        link = posixpath.join(base_url, 'rollen', item)
     elif chip_type == 'levenscyclus':
         color_class = 'indigo'
         icon_svg = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2 12a9 9 0 0 0 9 9c2.39 0 4.68-.94 6.4-2.6l-1.5-1.5A6.706 6.706 0 0 1 11 19c-6.24 0-9.36-7.54-4.95-11.95C10.46 2.64 18 5.77 18 12h-3l4 4h.1l3.9-4h-3a9 9 0 0 0-18 0Z"></path></svg>'
-        link = f'{base_url}levenscyclus/{item}'
+        link = posixpath.join(base_url, 'levenscyclus', item)
     elif chip_type == 'onderwerp':
         color_class = 'teal'
         icon_svg = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2a7 7 0 0 0-7 7c0 2.38 1.19 4.47 3 5.74V17a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1v-2.26c1.81-1.27 3-3.36 3-5.74a7 7 0 0 0-7-7M9 21a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1v-1H9v1Z"></path></svg>'
-        link = f'{base_url}onderwerpen/{item}'
+        link = posixpath.join(base_url, 'onderwerpen', item)
     else:
         color_class = 'blue'
         icon_svg = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2 12a9 9 0 0 0 9 9c2.39 0 4.68-.94 6.4-2.6l-1.5-1.5A6.706 6.706 0 0 1 11 19c-6.24 0-9.36-7.54-4.95-11.95C10.46 2.64 18 5.77 18 12h-3l4 4h.1l3.9-4h-3a9 9 0 0 0-18 0Z"></path></svg>'
-        link = f'{base_url}{chip_type}/{item}'
+        link = posixpath.join(base_url, chip_type, item)  # Fallback to generic type
 
     return f'''
         <a href="{link}" class="mdx-badge" data-md-color-accent="{color_class}">
@@ -57,10 +67,10 @@ def _create_table_row_2(file: File, filter_options: Dict[str, bool], current_fil
     onderwerpen = file.page.meta.get('onderwerp', [])
     vereiste = file.page.meta.get('vereiste', [])
 
-    rollen_chips = ''.join(_create_chip(rol, 'rol', base_url, config) for rol in rollen) if filter_options.get("rol", True) else ""
-    levenscyclus_chips = ''.join(_create_chip(lc, 'levenscyclus', base_url, config) for lc in levenscyclus) if filter_options.get("levenscyclus", True) else ""
-    onderwerp_chips = ''.join(_create_chip(onderwerp, 'onderwerp', base_url, config) for onderwerp in onderwerpen) if filter_options.get("onderwerp", True) else ""
-    vereiste_chips = ''.join(_create_chip(vereiste, 'vereiste', base_url, config) for vereiste in vereiste) if filter_options.get("vereiste", True) else ""
+    rollen_chips = ''.join(_create_chip(rol, 'rol', current_file, config) for rol in rollen) if filter_options.get("rol", True) else ""
+    levenscyclus_chips = ''.join(_create_chip(lc, 'levenscyclus', current_file, config) for lc in levenscyclus) if filter_options.get("levenscyclus", True) else ""
+    onderwerp_chips = ''.join(_create_chip(onderwerp, 'onderwerp', current_file, config) for onderwerp in onderwerpen) if filter_options.get("onderwerp", True) else ""
+    vereiste_chips = ''.join(_create_chip(vereiste, 'vereiste', current_file, config) for vereiste in vereiste) if filter_options.get("vereiste", True) else ""
 
     return "".join(
         [

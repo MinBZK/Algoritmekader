@@ -2,9 +2,9 @@
 title: Richt een incidentmanagement proces in voor informatiebeveiligingsincidenten
 toelichting: Richt een proces in waarmee beveiligingsincidenten m.b.t. algoritmes en data zo spoedig mogelijk worden opgelost.
 vereiste:
-- beveiliging_informatie_en_informatiesystemen
-- ontwerp_voor_nauwkeurigheid_robuustheid_en_cyberbeveiliging
-- beveiliging_van_verwerking
+- bio-01-beveiliging-informatie-en-informatiesystemen
+- aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging
+- avg-12-beveiliging-van-verwerking
 levenscyclus:
 - organisatieverantwoordelijkheden
 onderwerp:

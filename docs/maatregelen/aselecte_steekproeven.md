@@ -4,7 +4,7 @@ title: Aselecte steekproeven
 # geef hier een korte toelichting van deze maatregel
 toelichting: Uitvoeren van aselecte steekproeven aanvullend op risicogestuurde selectie
 vereiste:
-- 
+- aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus:
 - implementatie

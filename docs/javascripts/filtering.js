@@ -87,10 +87,10 @@ function filterTable() {
     var tr = table ? table.getElementsByTagName("tr") : [];
 
     for (var i = 1; i < tr.length; i++) { // Skip header row
-        var td = tr[i].getElementsByTagName("td")[0];  // Maatregelen column (td[0])
-        var roles = tr[i].getElementsByTagName("td")[1]; // Rollen column (td[1])
-        var lc = tr[i].getElementsByTagName("td")[2];   // Levenscyclus column (td[2])
-        var onderwerpen = tr[i].getElementsByTagName("td")[3]; // Onderwerpen column (td[3])
+        var td = tr[i].getElementsByTagName("td")[1];  // Maatregelen column (td[0])
+        var roles = tr[i].getElementsByTagName("td")[2]; // Rollen column (td[1])
+        var lc = tr[i].getElementsByTagName("td")[3];   // Levenscyclus column (td[2])
+        var onderwerpen = tr[i].getElementsByTagName("td")[4]; // Onderwerpen column (td[3])
 
         if (td && roles && lc && onderwerpen) {
             var txtValue = td.textContent || td.innerText;  // Maatregelen value

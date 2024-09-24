@@ -2,21 +2,21 @@
 title: Richt een proces in voor een periodieke evaluatie van de kwaliteit van het algoritme of AI-systeem.
 toelichting: Bij kwaliteit kan worden gedacht aan doeltreffenheid, doelmatigheid, betrouwbaarheid en accuraatheid (geschiktheid) en non-discriminatie.
 vereiste: 
-- zorgvuldigheidsbeginsel
-- kwaliteitsbeheersysteem_voor_hoog_risico_ai
-- kwaliteitscriteria_voor_data
-- fundamentele_rechten
-- beoordelen_gevolgen_voor_grondrechten
-- non_discriminatie
-- auteursrechten
-- toegankelijkheidseisen_hoog_risico
-- toezichtmogelijkheden_voor_gebruikers
-- beginsel_van_proportionaliteit_en_subsidiariteit
-- databankenwet
-- gebruiksverantwoordelijken_menselijk_toezicht_natuurlijke_personen
-- gebruiksverantwoordelijken_monitoren_werking_ hoog_risico_AI-systeem
-- juistheid_en_actualiteit_van_persoonsgegevens
-- toegankelijkheidseisen_hoog_risico
+- awb-01-zorgvuldigheidsbeginsel
+- aia-11-systeem-voor-kwaliteitsbeheer
+- aia-05-data-kwaliteitscriteria
+- grw-01-fundamentele-rechten
+- aia-29-beoordelen-gevolgen-grondrechten
+- grw-02-non-discriminatie
+- aut-01-auteursrechten
+- aia-19-toegankelijkheidseisen
+- aia-09-menselijk-toezicht
+- avg-04-proportionaliteit-en-subsidiariteit
+- dat-01-databankenwet
+- aia-23-gebruiksverantwoordelijken-menselijk-toezicht
+- aia-24-gebruiksverantwoordelijken-monitoren-werking
+- avg-05-juistheid-en-actualiteit-van-persoonsgegevens
+- aia-19-toegankelijkheidseisen
 
 levenscyclus: 
 - organisatieverantwoordelijkheden

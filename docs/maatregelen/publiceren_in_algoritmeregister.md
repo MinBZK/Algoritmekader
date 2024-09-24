@@ -2,10 +2,10 @@
 title: Publiceer de ontwikkeling en gebruik van algoritme of AI-systeem in het Algoritmeregister.
 toelichting: Door informatie over het algoritme of AI-systeem te vermelden in het Algoritmeregister, kunnen belanghebbenden en geïnteresseerden informatie vinden over het algoritme en AI-systemen en kunnen zij de overheid controleren.
 vereiste:
-- algoritmeregister
-- transparantie
-- transparantie_bij_verwerken_persoonsgegevens
-- zorgvuldigheidsbeginsel
+- bzk-01-algoritmeregister
+- aia-08-transparantie-aan-gebruiksverantwoordelijken
+- avg-07-transparantie-bij-verwerken-persoonsgegevens
+- awb-01-zorgvuldigheidsbeginsel
   
 levenscyclus:
 - ontwerp

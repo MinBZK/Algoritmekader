@@ -50,8 +50,9 @@ Met een AI-systeem bedoelen we een systeem dat kunstmatig intelligent is volgens
 
 Symbolische AI valt mogelijk onder een AI-systeem. Dit is nog onduidelijk in de EU-verordening.
 
-> [!TIP]
-> Twijfel je of je algoritme onderdeel is van een AI-systeem? Raadpleeg een expert. Of beschouw het systeem voor de zekerheid als een AI-systeem.
+!!! tip "Tip"
+
+    Twijfel je of je algoritme onderdeel is van een AI-systeem? Raadpleeg een expert. Of beschouw het systeem voor de zekerheid als een AI-systeem.
 
 ## Risicogroepen AI-systemen
 AI-systemen vallen mogelijk onder een risicogroep uit de EU-verordening. Het hangt ervan af waarvoor je dit AI-systeem gebruikt.
@@ -126,8 +127,9 @@ Impactvolle algoritmes moet je publiceren in het [Algoritmeregister](https://alg
 
 Een impactvol algoritme kan schade veroorzaken aan de maatschappij. Daarom zijn de regels strenger voor impactvolle dan voor niet-impactvolle algoritmes. 
 
-> [!TIP]
-> Twijfel je of je algoritme impactvol is of niet? Beschouw het algoritme dan als impactvol.
+!!! tip "Tip"
+
+    Twijfel je of je algoritme impactvol is of niet? Beschouw het algoritme dan als impactvol.
 
 Meer uitleg en voorbeelden vind je in de [Handreiking Algoritmeregister](https://algoritmes.pleio.nl/wiki/view/19bb6e9e-7a97-43d5-bef3-b1d66e59f4ff/handreiking-algoritmeregister).
 

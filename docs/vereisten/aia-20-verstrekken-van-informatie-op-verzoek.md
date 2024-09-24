@@ -2,8 +2,8 @@
 title: Verstrekking van informatie op verzoek 
 id: urn:nl:ak:ver:aia-20
 toelichting: Op een met redenen omkleed verzoek van een bevoegde autoriteit, verstrekken aanbieders van AI-systemen met een hoog risico die autoriteit alle informatie en documentatie die noodzakelijk is om de overeenstemming van het AI-systeem met een hoog risico met de eisen van afdeling 2 aan te tonen, in een eenvoudig door de instantie te begrijpen en door de betrokken lidstaat gekozen officiële taal van de instellingen van de Unie. Onderdeel van dit verzoek kan zijn het toegang geven tot de in artikel 12 lid 1 bedoelde logs die automatisch zijn gegenereerd door het AI-systeem met een hoog risico. 
-# levenscyclus:
-# - organisatieverantwoordelijkheden
+levenscyclus:
+- organisatieverantwoordelijkheden
 onderwerp:
 - governance
 hide:

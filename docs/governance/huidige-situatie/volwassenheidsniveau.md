@@ -24,7 +24,7 @@ Heeft een eigen [beslishulp datavolwassenheid](https://realisatieibds.nl/groups/
 
 ### Flexible Maturity Model for AI Governance Based on the NIST AI Risk Management Framework van de IEEE-USA.
 De NIST is een zeer veel gebruikte standaard voor cybersecurity (onlangs geüpdatet en nu soms NIS2 of NIST2 genoemd). 
-Dit model bekijkt AI governance volwassenheid aan de hand van categorieën uit de NIST.
+Dit model ([link](https://ieeeusa.org/product/a-flexible-maturity-model-for-ai-governance/) bekijkt AI governance volwassenheid aan de hand van categorieën uit de NIST.
 
 ### Responsible AI Maturity Model van Microsoft Research
 Dit model ([link](https://www.microsoft.com/en-us/research/publication/responsible-ai-maturity-model/)) is onderverdeeld in drie onderdelen (organisational foundation, team approach, en RAI practice) waarvan organisational foundation ingaat op AI Governance. 

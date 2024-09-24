@@ -22,7 +22,7 @@ Rekenregels:
 * zijn geprogrammeerd door mensen
 * bestaan uit vaste stappen om een taak uit te voeren
 
-Rekenregels zijn niet kunstmatig intelligent (AI). Maar een AI-systeem kan wel rekenregels bevatten. 
+Rekenregels zijn niet kunstmatig intelligent (AI). Rekenregels kunnen wel onderdeel zijn van een AI-systeem. 
 
 ### Voorbeelden
 

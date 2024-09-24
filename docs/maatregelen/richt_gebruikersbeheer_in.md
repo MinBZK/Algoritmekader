@@ -4,12 +4,7 @@ toelichting: Richt gebruikersbeheer in, waarmee bepaald wordt wie toegang heeft 
 vereiste:
 - beveiliging_informatie_en_informatiesystemen
 levenscyclus:
-- ontwerp
-- dataverkenning-en-datapreparatie
-- dataverkenning-en-datapreparatie
-- ontwikkelen
-- implementatie
-- monitoring-en-beheer
+- organisatieverantwoordelijkheden
 onderwerp:
 - technische-robuustheid-en-veiligheid
 - governance

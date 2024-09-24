@@ -47,14 +47,7 @@ vereiste:
 - verstrekking_van_informatie_op_verzoek
 - wettelijke_verwerking_van_gevoelige_gegevens
 levenscyclus: 
-- probleemanalyse
-- ontwerp
-- dataverkenning-en-datapreparatie
-- ontwikkelen
-- verificatie-en-validatie
-- implementatie
-- monitoring-en-beheer
-- uitfaseren
+- organisatieverantwoordelijkheden
 onderwerp: 
 - governance
 rollen:

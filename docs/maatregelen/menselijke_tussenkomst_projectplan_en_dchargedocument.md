@@ -16,6 +16,7 @@ rollen:
 - inkoopadviseur
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

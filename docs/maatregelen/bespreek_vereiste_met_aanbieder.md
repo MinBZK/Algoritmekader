@@ -84,6 +84,7 @@ rollen:
 
 hide:
 - navigation
+- toc
 
 ---
 

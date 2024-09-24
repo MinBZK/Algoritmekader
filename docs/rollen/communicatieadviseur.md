@@ -1,14 +1,13 @@
 ---
 title: Communicatieadviseur
+hide:
+  - toc
+  - navigation
 ---
-
-## Vereisten
-
-<!-- list_vereisten rollen/communicatieadviseur -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/communicatieadviseur -->
+<!-- list_maatregelen rollen/communicatieadviseur no-rol no-levenscyclus no-search no-onderwerp -->
 
 !!! info "Disclaimer"
 

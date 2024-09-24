@@ -1,14 +1,13 @@
 ---
 title: Gebruiker
+hide:
+  - toc
+  - navigation
 ---
-
-## Vereisten
-
-<!-- list_vereisten rollen/gebruiker -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/gebruiker -->
+<!-- list_maatregelen rollen/gebruiker no-rol no-levenscyclus no-search no-onderwerp -->
 
 !!! info "Disclaimer"
 

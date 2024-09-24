@@ -1,60 +1,144 @@
-.header-container {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  margin-bottom: 40px;
-  text-align: left;
+/* Bestaande CSS voor fonts, badges en andere componenten */
+body{
+  font-family: "ROsanswebtextregular" !important;
+  src: url("fonts/ROsanswebtextregular.woff") format('truetype');
 }
 
-.version-container {
-  display: inline-flex;
-  align-items: center;
-  margin-right: 10px;
-  margin-top: -50px;
-  position: relative; /* Voeg dit toe om de hover-info correct te positioneren */
+@font-face {
+  font-family: "ROsanswebtextregular";
+  src: url("fonts/ROsanswebtextregular.woff") format('truetype');
 }
 
-.version-label {
-  font-size: 0.85em;
-  background-color: #e5f1f9;
+.mdx-badge {
+  font-size: .85em;
+  display: inline-block;
+  margin: .2rem .3rem;
+}
+
+.mdx-badge__icon {
+  border-top-left-radius: .1rem;
+  border-bottom-left-radius: .1rem;
+  background: var(--md-accent-fg-color--transparent);
+  padding: .2rem;
+  color: var(--md-accent-fg-color);
+}
+
+.mdx-badge__text {
+  border-bottom-right-radius: .1rem;
+  border-top-right-radius: .1rem;
+  box-shadow: 0 0 0 1px inset var(--md-accent-fg-color--transparent);
+  padding: .2rem .3rem;
+  color: var(--md-accent-fg-color);
+}
+
+.mdx-badge a {
+  color: var(--md-accent-fg-color);
+  text-decoration: none;
+}
+
+.md-typeset .grid {
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+}
+
+p, h1, h2, h3, h4, h5, h6 {
   color: #154273;
-  padding: 4px;
-  border-radius: 3px;
-  font-weight: 500;
-  text-transform: capitalize;
-  cursor: pointer;
-  text-align: left;
 }
 
-.hover-info {
-  font-size: 0.85em;
-  display: none;
-  position: absolute;
-  top: 100%;
-  left: 0;
-  background-color: #fff;
-  color: #333;
-  border: 1px solid #ddd;
-  border-radius: 5px;
-  padding: 5px 10px;
-  white-space: normal;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  z-index: 1000;
-  width: auto;
-  min-width: 300px;
-  max-width: 400px;
-}
-
-.version-container:hover .hover-info,
-.hover-info:hover {
-  display: block;
-}
-
-.subheader {
-  font-size: 1.2em;
+h1 {
   color: #154273;
-  margin-left: 0;
+}
+
+/* Stijlen voor de tabel */
+table {
+  width: 100%;
+  border-collapse: collapse;
+
+}
+
+.md-typeset table{
+  border: none !important;
+  box-shadow:none;
+}
+
+th {
+  background-color: #F1F5F9; /* Achtergrondkleur van de tabelkop */
+  color: #475569; /* Kleur van de tabelkoptekst */
+  border: none; /* Geen randen */
+  padding: 12px;
   text-align: left;
+  font-size: 16px;
+  font-family: "ROsanswebtextregular", sans-serif; /* Custom font */
+  font-weight: 400;
+}
+
+td {
+  padding: 12px;
+  text-align: left;
+  border: none; /* Geen randen */
+  font-family: "ROsanswebtextregular", sans-serif; /* Custom font */
+  min-width: 150px;
+}
+
+tr {
+  border-bottom: 1px solid #B9C7D5; /* Ondergrens van de rijen */
+  font-size: 16px;
+}
+
+tbody tr td a {
+  color: #154273;
+  text-decoration: underline;
+}
+
+tbody tr td a:hover {
+  text-decoration: underline;
+}
+
+.float-container a {
+  color: #154273;
+  text-align: left; 
+  text-decoration: underline;
+}
+
+/* Grid Styling */
+.md-typeset .grid {
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+}
+
+/* Admonition Styling */
+:root {
+  --md-admonition-icon--simple: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58 13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42Z"/></svg>');
+}
+
+.md-typeset .admonition.simple,
+.md-typeset details.simple {
+  border-color: rgb(5, 80, 141);
+  text-align: left; 
+}
+
+.md-typeset .simple > .admonition-title,
+.md-typeset .simple > summary {
+  background-color: rgba(185, 185, 185, 0.1);
+  text-align: left; 
+}
+
+.md-typeset .simple > .admonition-title::before,
+.md-typeset .simple > summary::before {
+  background-color: rgb(5, 80, 141);
+  -webkit-mask-image: var(--md-admonition-icon--simple);
+  mask-image: var(--md-admonition-icon--simple);
+}
+
+/* Info Section */
+.info-section {
+  margin-bottom: 30px;
+  text-align: left; /* Ensure left alignment */
+}
+
+.info-section h2 {
+  font-size: 1.5em;
+  color: #154273;
+  margin: 0 0 10px;
+  text-align: left; /* Ensure left alignment */
 }
 
 .subheader a {
@@ -228,6 +312,8 @@
 
 [dir=ltr] .md-typeset .float-container ol, [dir=ltr] .md-typeset .float-container ul {
   margin-left: 0;
+}
+
   text-align: left;
 }
 
@@ -290,5 +376,65 @@
   background-color: rgb(5, 80, 141);
   -webkit-mask-image: var(--md-admonition-icon--simple);
   mask-image: var(--md-admonition-icon--simple);
+  text-align: left;
+}
+
+/* Algemene layout van de header */
+.header-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 40px;
+  text-align: left;
+}
+
+.version-container {
+  display: inline-flex;
+  align-items: center;
+  margin-right: 10px;
+  margin-top: -50px;
+  position: relative; /* Voeg dit toe om de hover-info correct te positioneren */
+}
+
+.version-label {
+  font-size: 0.85em;
+  background-color: #e5f1f9;
+  color: #154273;
+  padding: 4px;
+  border-radius: 3px;
+  font-weight: 500;
+  text-transform: capitalize;
+  cursor: pointer;
+  text-align: left;
+}
+
+.hover-info {
+  font-size: 0.85em;
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #fff;
+  color: #333;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 5px 10px;
+  white-space: normal;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  width: auto;
+  min-width: 300px;
+  max-width: 400px;
+}
+
+.version-container:hover .hover-info,
+.hover-info:hover {
+  display: block;
+}
+
+.subheader {
+  font-size: 1.2em;
+  color: #154273;
+  margin-left: 0;
   text-align: left;
 }

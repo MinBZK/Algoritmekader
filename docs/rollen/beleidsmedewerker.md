@@ -1,14 +1,13 @@
 ---
 title: Beleidsmedewerker
+hide:
+  - toc
+  - navigation
 ---
-
-## Vereisten
-
-<!-- list_vereisten rollen/beleidsmedewerker -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/beleidsmedewerker -->
+<!-- list_maatregelen rollen/beleidsmedewerker no-rol no-levenscyclus no-search no-onderwerp -->
 
 !!! info "Disclaimer"
 

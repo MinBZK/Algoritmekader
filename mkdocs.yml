@@ -32,6 +32,7 @@ nav:
     - Home: index.md
     - Over het algoritmekader: 
         - overhetalgoritmekader/index.md
+        - overhetalgoritmekader/soorten-algoritmes.md
         - overhetalgoritmekader/definities.md
         - overhetalgoritmekader/CONTRIBUTING.md
     - Governance:

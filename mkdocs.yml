@@ -101,9 +101,6 @@ extra:
         - icon: fontawesome/brands/github 
           link: https://github.com/MinBZK/Algoritmekader
 
-
-
-
 extra_css:
   - stylesheets/filters.css
   - stylesheets/extra.css
@@ -116,6 +113,7 @@ extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - javascripts/tablesort.js
   - javascripts/filtering.js
+  - https://unpkg.com/mermaid@10.9.1/dist/mermaid.min.js
 
 plugins:
     - glightbox

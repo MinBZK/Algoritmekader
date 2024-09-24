@@ -27,8 +27,8 @@ Rekenregels zijn niet kunstmatig intelligent (AI). Maar een AI-systeem kan wel r
 ### Voorbeelden
 
 * Eenvoudige chatbots die burgers advies geven op basis van door mensen bedachte beslisbomen.
-* [Ondersteuning berekening uitkering](https://algoritmes.overheid.nl/nl/algoritme/ondersteuning-berekening-uitkering-gemeente-den-haag/86652588): adviseert over het berekenen van uitkeringen op basis van door mensen bedachte beslisbomen. 
-* [Prestatiemonitor](https://algoritmes.overheid.nl/nl/algoritme/prestatiemonitor-inspectie-van-het-onderwijs-ocw/79978718): berekent de risicoscore van scholen op basis van door mensen bedachte regels.
+* [Ondersteuning berekening uitkering](https://algoritmes.overheid.nl/nl/algoritme/ondersteuning-berekening-uitkering-gemeente-den-haag/86652588) dat adviseert over uitkeringen, op basis van door mensen bedachte beslisbomen. 
+* [Prestatiemonitor](https://algoritmes.overheid.nl/nl/algoritme/prestatiemonitor-inspectie-van-het-onderwijs-ocw/79978718) dat risicoscores berekent van scholen, op basis van door mensen bedachte regels.
 
 ## Zelflerende algoritmes
 Zelflerende algoritmes zijn algoritmes die zichzelf trainen. Dit proces heet machinelearning. Hierdoor worden computers intelligent zonder dat mensen dit precies zo programmeren. Dit is een veel voorkomende vorm van AI. 
@@ -50,8 +50,8 @@ Met een AI-systeem bedoelen we een systeem dat kunstmatig intelligent is volgens
 
 Symbolische AI valt mogelijk onder een AI-systeem. Dit is nog onduidelijk in de EU-verordening.
 
-[!TIP]
-Twijfel je of je algoritme onderdeel is van een AI-systeem? Raadpleeg een expert. Of beschouw het systeem voor de zekerheid als een AI-systeem.
+> [!TIP]
+> Twijfel je of je algoritme onderdeel is van een AI-systeem? Raadpleeg een expert. Of beschouw het systeem voor de zekerheid als een AI-systeem.
 
 ## Risicogroepen AI-systemen
 AI-systemen vallen mogelijk onder een risicogroep uit de EU-verordening. Het hangt ervan af waarvoor je dit AI-systeem gebruikt.
@@ -75,14 +75,14 @@ Je AI-systeem speelt een belangrijke rol in de veiligheid van een product. En di
 * machines
 * speelgoed
 * liften
-* uitrusting en beveiligingssystemen bestemd voor gebruik op plaatsen waar ontploffingsgevaar kan heersen
+* uitrusting en beveiligingssystemen voor plaatsen met ontploffingsgevaar
 * radioapparatuur
 * drukapparatuur
 * pleziervaartuigen
 * kabelbaaninstallaties
 * gastoestellen
 * medische hulpmiddelen
-* medische hulpmiddelen voor in-vitrodiagnostiek
+* hulpmiddelen voor het testen van menselijk materiaal (in-vitrodiagnostiek)
 * auto-industrie
 * luchtvaartindustrie
 
@@ -116,7 +116,7 @@ Dit zijn AI-systemen die:
 
 Zie [AI-verordening, artikel 5](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#d1e2816-1-1).
 
-## Impact algoritmes
+## Impact van algoritmes
 Impactvolle algoritmes moet je publiceren in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). Dat moet in elk geval in deze situaties:
 
 * Je algoritme is **onderdeel van een hoog-risico-AI-systeem**. 
@@ -126,8 +126,8 @@ Impactvolle algoritmes moet je publiceren in het [Algoritmeregister](https://alg
 
 Een impactvol algoritme kan schade veroorzaken aan de maatschappij. Daarom zijn de regels strenger voor impactvolle dan voor niet-impactvolle algoritmes. 
 
-[!TIP]
-Twijfel je of je algoritme impactvol is of niet? Beschouw het algoritme dan als impactvol.
+> [!TIP]
+> Twijfel je of je algoritme impactvol is of niet? Beschouw het algoritme dan als impactvol.
 
 Meer uitleg en voorbeelden vind je in de [Handreiking Algoritmeregister](https://algoritmes.pleio.nl/wiki/view/19bb6e9e-7a97-43d5-bef3-b1d66e59f4ff/handreiking-algoritmeregister).
 

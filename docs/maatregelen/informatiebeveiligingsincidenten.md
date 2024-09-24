@@ -6,12 +6,7 @@ vereiste:
 - aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging
 - avg-12-beveiliging-van-verwerking
 levenscyclus:
-- ontwerp
-- dataverkenning-en-datapreparatie
-- ontwikkelen
-- verificatie-en-validatie
-- implementatie
-- monitoring-en-beheer
+- organisatieverantwoordelijkheden
 onderwerp:
 - technische-robuustheid-en-veiligheid
 - governance

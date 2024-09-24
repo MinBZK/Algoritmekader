@@ -4,9 +4,7 @@ toelichting: De capaciteit en deskundigheid bij de ontwikkeling, het inkopen en 
 vereiste: 
 - awb-01-zorgvuldigheidsbeginsel
 levenscyclus: 
-- probleemanalyse
-- ontwerp
-- ontwikkelen
+- organisatieverantwoordelijkheden
 onderwerp: 
 - governance
 rollen:

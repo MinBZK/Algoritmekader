@@ -19,13 +19,7 @@ vereiste:
 - aia-19-toegankelijkheidseisen
 
 levenscyclus: 
-- ontwerp
-- dataverkenning-en-datapreparatie
-- ontwikkelen
-- verificatie-en-validatie
-- implementatie
-- monitoring-en-beheer
-- uitfaseren
+- organisatieverantwoordelijkheden
 onderwerp: 
 - governance
 rollen:

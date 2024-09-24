@@ -4,8 +4,8 @@ toelichting: Alle stappen van risicobeheer worden periodiek uitgevoerd en op het
 vereiste: 
 - aia-03-risicobeheersysteem
 - awb-01-zorgvuldigheidsbeginsel
-# levenscyclus: 
-# - organisatieverantwoordelijkheden
+levenscyclus: 
+- organisatieverantwoordelijkheden
 onderwerp: 
 - governance
 rollen:

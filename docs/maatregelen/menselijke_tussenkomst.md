@@ -23,6 +23,7 @@ rollen:
 - aanbieder
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

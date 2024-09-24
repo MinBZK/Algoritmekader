@@ -2,6 +2,8 @@
 title: Rollen
 summary: Hulp bij het bepalen van rollen en verantwoordelijkheden om als overheid verantwoordelijk om te gaan met algoritmes en AI.
 icon: material/account
+hide:
+  - toc
 ---
 # Rollen
 Verantwoord gebruik van algoritmes en AI-systemen is mogelijk als mensen in verschillende rollen goed samenwerken, op het juiste moment.

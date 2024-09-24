@@ -1,9 +1,10 @@
 ---
 title: Maatregelen
-summary: Overzicht van aanbevolen maatregelen voor overheden die algoritmes of AI ontwikkelen of gebruiken. De maatregelen helpen om te voldoen aan de vereisten.
 hide:
-- navigation
+  - navigation
+  - toc
 ---
+
 # Maatregelen
 Overzicht van aanbevolen maatregelen voor verantwoord gebruik van algoritmes en AI-systemen. Het zijn adviezen om te voldoen aan de vereisten voor overheden. Andere maatregelen zijn ook mogelijk.
 
@@ -36,7 +37,4 @@ Deze maatregel helpt om te voldoen aan de vereiste om niet te discrimineren. Maa
 
 ## Overzicht maatregelen
 
-<!-- list_maatregelen_all -->
-
-## Help ons deze pagina te verbeteren
-Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader) of mail ons via [algoritmes@minbzk.nl](algoritmes@minbzk.nl).
+<!-- list_maatregelen -->

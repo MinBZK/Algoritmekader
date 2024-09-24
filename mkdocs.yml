@@ -1,14 +1,12 @@
-### Site metadata ###
-
+# Existing mkdocs.yml content
 site_name: Algoritmekader [concept]
 site_description: Concept van het algoritmekader. Het doel daarvan is om overheden op praktische wijze te ondersteunen, zodat zij op een wettige en ethisch verantwoorde wijze algoritmes en AI-systemen gebruiken.
-watch:
-    - includes/
 
-### theme settings ###
 theme: 
     name: material
     language: nl
+    logo_text: Algoritmekader [concept]
+    font: false 
     palette:
         - primary: blue
     features:
@@ -30,7 +28,6 @@ theme:
         logo: fontawesome/solid/house
         annotation: fontawesome/solid/circle-info
 
-# Navigation for the site 
 nav:
     - Home: index.md
     - Over het algoritmekader: 
@@ -106,12 +103,18 @@ extra:
           link: https://github.com/MinBZK/Algoritmekader
 
 extra_css:
+  - stylesheets/filters.css
   - stylesheets/extra.css
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
+  - https://cdn.jsdelivr.net/npm/choices.js/public/assets/styles/choices.min.css  # Replace Select2 CSS with Choices.js
 
 extra_javascript:
+  - https://code.jquery.com/jquery-3.6.0.min.js
+  - https://cdn.jsdelivr.net/npm/choices.js/public/assets/scripts/choices.min.js  # Replace Select2 JS with Choices.js
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - javascripts/tablesort.js
-  
+  - javascripts/filtering.js
+
 plugins:
     - glightbox
     - search

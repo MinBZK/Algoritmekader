@@ -16,6 +16,7 @@ rollen:
 - aanbestedingsjurist
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

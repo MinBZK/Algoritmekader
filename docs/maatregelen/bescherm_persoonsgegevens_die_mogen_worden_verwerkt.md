@@ -20,6 +20,7 @@ rollen:
 - privacy-officer
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

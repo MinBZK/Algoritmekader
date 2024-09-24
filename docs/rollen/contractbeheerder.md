@@ -1,14 +1,13 @@
 ---
 title: Contractbeheerder
+hide:
+  - toc
+  - navigation
 ---
-
-## Vereisten
-
-<!-- list_vereisten rollen/contractbeheerder -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/contractbeheerder -->
+<!-- list_maatregelen rollen/contractbeheerder no-rol no-levenscyclus no-search no-onderwerp -->
 
 !!! info "Disclaimer"
 

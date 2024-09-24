@@ -98,8 +98,8 @@ Waar mogelijk geven we daarom voorbeelden uit een divers scala aan organisaties.
 
 ## Vereisten
 
-<!-- list_vereisten_governance onderwerp/governance -->
+<!-- list_vereisten onderwerp/governance no-search no-onderwerp no-rol no-levenscyclus -->
 
 ## Maatregelen
 
-<!-- list_maatregelen_governance onderwerp/governance -->
+<!-- list_maatregelen onderwerp/governance no-search no-onderwerp no-rol no-levenscyclus -->

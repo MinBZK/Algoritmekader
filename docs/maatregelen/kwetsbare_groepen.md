@@ -13,6 +13,7 @@ rollen:
 - ethicus
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

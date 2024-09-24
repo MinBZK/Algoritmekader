@@ -10,7 +10,7 @@ In elke type levenscyclus vind je een ontwerpfase, een ontwikkelfase en een depl
 
 Veel organisaties hebben al een levenscyclus voor AI-ontwikkeling. AI-governance kan hierop aansluiten door 'gates' of controlepunten in te voeren tussen de verschillende stappen in de levenscyclus waar bepaalde processen worden uitgevoerd door verantwoordelijken, zoals het aanleveren van documenten, het uitvoeren van controles en het maken van afwegingen. 
 
-Het BZK AI-validatieteam ontwikkelt de _Algorithm Management Toolkit_ [^1] om deze processen te faciliteren en te loggen. Houd er rekening mee dat de 'gates' niet altijd hetzelfde hoeven te zijn tussen verschillende projecten. Zo vereist een algoritme met een hoog-risicoclassificatie andere governance dan minder impactvolle algoritmes. Eveneens vraagt het inkoopproces van een off-the-shelf AI-systeem of SaaS om andere procedures dan de inkoop van software die nog verder ontwikkeld wordt.
+Houd er rekening mee dat de 'gates' niet altijd hetzelfde hoeven te zijn tussen verschillende projecten. Zo vereist een algoritme met een hoog-risicoclassificatie andere governance dan minder impactvolle algoritmes. Eveneens vraagt het inkoopproces van een off-the-shelf AI-systeem of SaaS om andere procedures dan de inkoop van software die nog verder ontwikkeld wordt.
 
 Hieronder volgen twee voorbeelden van hoe governance effectief kan worden geïntegreerd in de levenscyclus van algoritmen en AI-modellen:
 
@@ -34,8 +34,6 @@ Hieronder volgen twee voorbeelden van hoe governance effectief kan worden geïnt
 
  
 ## Bronnen
-
-[^1]: Algorithm Management Toolkit van het BZK AI-validatieteam is beschikbaar op Github ([broncode](https://github.com/MinBZK/amt))
 
 [^2]: Hulpmiddel handelingsruimte waardevolle AI in de zorg ([presentatie](https://nlaic.com/wp-content/uploads/2022/06/04a.-Hulpmiddel-Handelingsruimte-Waardevolle-AI-voor-gezondheid-en-zorg.pdf))([samenvatting](https://nlaic.com/wp-content/uploads/2022/08/NLAIC_AI-Lifecycle-management-in-de-zorg-samenvatting_V1.2.pdf)) is beschikbaar via de [NL AI Coalitie](https://nlaic.com/toepassingsgebied/gezondheid-en-zorg/) en [Data voor gezondheid](https://www.datavoorgezondheid.nl/wegwijzer-ai-in-de-zorg/documenten/publicaties/2021/07/15/hulpmiddel-handelingsruimte-waardevolle-ai-voor-gezondheid)
 

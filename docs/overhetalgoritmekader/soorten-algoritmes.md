@@ -8,6 +8,7 @@ Om te voldoen aan de vereisten, moet je weten met welk soort algoritme je werkt.
 
 ## Wanneer is het een algoritme?
 Met een algoritme bedoelen we een set regels en instructies die een computer uitvoert, met 1 of meer van deze doelen:
+
 * problemen oplossen
 * vragen beantwoorden
 * taken of processen uitvoeren
@@ -17,12 +18,14 @@ Met een algoritme bedoelen we een set regels en instructies die een computer uit
 Rekenregels (ook wel: regelgebaseerde algoritmes) zijn de meest eenvoudige algoritmes. Dit zijn door mensen bedachte regels die het computersysteem precies moet opvolgen: als x gebeurt, dan doe je y.
 
 Rekenregels:
+
 * zijn geprogrammeerd door mensen
 * bestaan uit vaste stappen om een taak uit te voeren
 
 Rekenregels zijn niet kunstmatig intelligent (AI). Maar een AI-systeem kan wel rekenregels bevatten. 
 
 ### Voorbeelden
+
 * Eenvoudige chatbots die burgers advies geven op basis van door mensen bedachte beslisbomen.
 * [Ondersteuning berekening uitkering](https://algoritmes.overheid.nl/nl/algoritme/ondersteuning-berekening-uitkering-gemeente-den-haag/86652588): adviseert over het berekenen van uitkeringen op basis van door mensen bedachte beslisbomen. 
 * [Prestatiemonitor](https://algoritmes.overheid.nl/nl/algoritme/prestatiemonitor-inspectie-van-het-onderwijs-ocw/79978718): berekent de risicoscore van scholen op basis van door mensen bedachte regels.
@@ -31,6 +34,7 @@ Rekenregels zijn niet kunstmatig intelligent (AI). Maar een AI-systeem kan wel r
 Zelflerende algoritmes zijn algoritmes die zichzelf trainen. Dit proces heet machinelearning. Hierdoor worden computers intelligent zonder dat mensen dit precies zo programmeren. Dit is een veel voorkomende vorm van AI. 
 
 Zelflerende technieken zijn in elk geval:
+
 * **Supervised learning (gecontroleerd leren)**: Je algoritme leert van gegevens die je labelt met informatie. Je biedt bijvoorbeeld foto’s aan met de labels: dit is wel een kat, dit is geen kat. Voorbeeld: [Virtuele assistent Gem](https://algoritmes.overheid.nl/nl/algoritme/virtuele-gemeente-assistent-gem-gemeente-tilburg/21511426).
 * **Unsupervised learning (ongecontroleerd leren)**: Je laat het algoritme zelf patronen en structuren ontdekken in ongestructureerde gegevens zonder labels. Je biedt bijvoorbeeld foto’s aan van dieren die het algoritme zelf moet groeperen. Voorbeeld: [Polis](https://algoritmes.overheid.nl/nl/algoritme/polis-provincie-zuidholland/14379550) voor participatieplatformen.
 * **Reinforcement learning (bekrachtiginsleren)**: Het algoritme leert door straf en beloning. Het doel is zo hoog mogelijk scoren in zo min mogelijk tijd. Je geeft bijvoorbeeld punten als het algoritme foto’s sorteert die op katten lijken. Voorbeeld: [I-VRI](https://algoritmes.overheid.nl/nl/algoritme/intelligente-verkeersregel-installatie-ivri-bij-verkeerslichten-provincie-zuidholland/34151769) voor verkeerslichten.
@@ -38,6 +42,7 @@ Zelflerende technieken zijn in elk geval:
 
 ## AI-systeem
 Met een AI-systeem bedoelen we een systeem dat kunstmatig intelligent is volgens de Europese AI-verordening. Dit zijn in elk geval systemen die gebruik maken van:
+
 * supervised learning
 * unsupervised learning
 * reinforcement learning
@@ -53,6 +58,7 @@ AI-systemen vallen mogelijk onder een risicogroep uit de EU-verordening. Het han
 
 ### Risico op misleiding
 Dit zijn AI-systemen die je gebruikt voor:
+
 * **interactie met mensen**, zoals AI-chatbots
 * **genereren van content**, zoals afbeeldingen laten maken door Dall-E 
 
@@ -65,6 +71,7 @@ Dit zijn AI-systemen die je gebruikt als veiligheidsonderdeel van bepaalde produ
 
 #### Veiligheidsonderdeel
 Je AI-systeem speelt een belangrijke rol in de veiligheid van een product. En dit product valt onder de harmonisatiewetgeving van de EU, zoals:
+
 * machines
 * speelgoed
 * liften
@@ -83,6 +90,7 @@ Zie [AI-verordening, bijlage I](https://eur-lex.europa.eu/legal-content/NL/TXT/?
 
 ### Diensten of processen
 Je gebruikt het AI-systeem voor:
+
 * **Biometrie**, zoals het herkennen of indelen van mensen op basis van hun vingerafdruk, gezicht of andere lichamelijke kenmerken.
 * **Kritieke infrastructuur**, zoals het veilig houden van digitale netwerken en verkeersnetwerken en het leveren van elektriciteit, water, gas en warmte.
 * **Onderwijs en beroepsopleiding**, zoals het bepalen welke studenten je toelaat en het beoordelen van hun prestaties of gedrag.
@@ -96,6 +104,7 @@ Zie [AI-verordening, bijlage III](https://eur-lex.europa.eu/legal-content/NL/TXT
 
 ### Verboden AI-systemen
 Dit zijn AI-systemen die:
+
 * **misleiden**
 * **misbruik maken van kwetsbaarheden of gevoelige situaties**, zoals het overhalen van mensen met schulden om iets te kopen
 * **sociale scores bijhouden** voor gedrag van mensen en hen hiervoor straffen
@@ -109,6 +118,7 @@ Zie [AI-verordening, artikel 5](https://eur-lex.europa.eu/legal-content/NL/TXT/?
 
 ## Impact algoritmes
 Impactvolle algoritmes moet je publiceren in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). Dat moet in elk geval in deze situaties:
+
 * Je algoritme is **onderdeel van een hoog-risico-AI-systeem**. 
 * Je algoritme heeft **invloed op een proces met rechtsgevolgen voor burgers of organisaties**. Bijvoorbeeld het wel of niet krijgen van boetes of subsidies.
 * Je algoritme heeft **invloed op de manier waarop de overheid burgers of organisaties indeelt, of contact met hen zoekt**. Bijvoorbeeld bij het inschatten van risico’s of het signaleren van fraude.

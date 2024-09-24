@@ -24,6 +24,7 @@ rollen:
 - security-officer
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

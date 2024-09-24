@@ -28,6 +28,7 @@ rollen:
 - aanbieder
 hide:
 - navigation
+- toc
 ---
 
 <!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->
@@ -64,5 +65,5 @@ De sturing en verantwoording is ontoereikend of niet geborgd, waardoor er onvold
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
-[Rapport Kleur Bekennen, Algemene Rekenkamer, p. 114, figuur 5-4](https://rekenkamer.rotterdam.nl/wp-content/uploads/2024/05/RO2205-kleur-bekennen-vervolgonderzoek-algoritmes-rekenkamer-rotterdam.pdf)
+[Rapport Kleur Bekennen, Algemene Rekenkamer, p. 114, figuur 5-4](https://rekenkamer.rotterdam.nl/wp-content/uploads/2024/05/RO2205-kleur-bekennen-vervolgonderzoek-algoritmes-rekenkamer-rotterdam.pdf#page=116)
 

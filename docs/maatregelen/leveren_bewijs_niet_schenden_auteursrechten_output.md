@@ -17,6 +17,7 @@ rollen:
 - gemandateerd-verantwoordelijke
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

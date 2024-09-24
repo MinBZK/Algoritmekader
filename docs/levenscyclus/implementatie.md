@@ -1,5 +1,8 @@
 --- 
 title: Implementatie
+hide:
+- navigation
+- toc
 ---
 
 In deze fase wordt het algoritme of AI-systeem in de praktijk gebracht en duurzaam geïntegreerd in het bedrijfsproces. 
@@ -19,11 +22,11 @@ Waar passend, bijvoorbeeld bij impactvolle of hoog risico AI-systemen wordt dit 
 
 ## Vereisten
 
-<!-- list_vereisten levenscyclus/implementatie -->
+<!-- list_vereisten levenscyclus/implementatie no-rol no-levenscyclus no-search no-onderwerp -->
 
 ## Maatregelen
 
-<!-- list_maatregelen levenscyclus/implementatie -->
+<!-- list_maatregelen levenscyclus/implementatie no-rol no-levenscyclus no-search no-onderwerp  -->
 
 !!! info "Disclaimer"
 

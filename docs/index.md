@@ -54,11 +54,11 @@ hide:
   <div class="float-child styled-list">
     <h3><b>Levenscyclus</b></h3>
     <ul>
-      <li><a href="levenscyclus/organisatieverantwoordelijkheden/">Organisatieverantwoordelijkheden</a></li>  
       <li><a href="levenscyclus/probleemanalyse/">Probleemanalyse</a></li>
       <li><a href="levenscyclus/ontwerp/">Ontwerpen</a></li>
       <li><a href="levenscyclus/dataverkenning-en-datapreparatie/">Dataverkenning & datapreparatie</a></li>    
       <li><a href="levenscyclus/ontwikkelen/">Ontwikkelen</a></li>
+            <li><a href="levenscyclus/monitoring-en-beheer/">Monitoring & beheer</a></li>  
     </ul>
     <a href="levenscyclus/" class="show-more"><b>Bekijk de hele levenscyclus</b></a>
   </div>

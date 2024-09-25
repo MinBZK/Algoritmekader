@@ -18,7 +18,7 @@ De noodzaak van algoritme governance is om grip te hebben (of krijgen) op algori
 Mede gezien de AI-verordening, die 1 augustus 2024 gefaseerd in werking is getreden, is het van belang dat organisaties zich organiseren om deze wet correct te kunnen uitvoeren. 
 Bewustzijn bij bestuur en organisatie is daarvoor een belangrijk vertrekpunt.
 
-## Verschillende niveau's van governance
+### Verschillende niveau's van governance
 Algoritme en AI governance bestaat op verschillende niveaus: van (inter)nationaal niveau, naar organisatieniveau naar het niveau van het AI-systeem (zie Figuur hieronder). 
 
 In het Algoritmekader wordt gefocust op de twee niveaus: 

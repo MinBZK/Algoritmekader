@@ -11,33 +11,17 @@ Dit onderdeel van het Algoritmekader gaat over de governance van AI en algoritme
 
 !!! note "Let op!"
 
-    Governance wordt in verschillende contexten anders gebruikt, daarom spreken van “algoritme en AI governance”. 
-    Omdat het Algoritmekdader uitgaat van de [brede definitie van een algoritme](../overhetalgoritmekader/definities.md), hanteren we voor het gemak de term “algoritme-governance” als we het hebben over governance over algoritmes en AI. 
-    Dat kan omdat AI-systemen altijd algoritmes zijn, terwijl niet alle algoritmes AI-systemen zijn.
+    Governance wordt in verschillende contexten anders gebruikt. In dit deel hebben we het over governance over algoritmes en AI. 
+    Omdat het Algoritmekdader uitgaat van de [brede definitie van een algoritme](../overhetalgoritmekader/definities.md), hanteren we voor het gemak de term “algoritme governance” als we het hebben over governance over algoritmes en AI. 
 
-De noodzaak van governance is om grip te hebben (of krijgen) op algoritmes en AI binnen een organisatie en zaken als (onbedoelde) discriminatie te voorkomen. 
+De noodzaak van algoritme governance is om grip te hebben (of krijgen) op algoritmes en AI binnen een organisatie en zaken als (onbedoelde) discriminatie te voorkomen. 
 Mede gezien de AI-verordening, die 1 augustus 2024 gefaseerd in werking is getreden, is het van belang dat organisaties zich organiseren om deze wet correct te kunnen uitvoeren. 
 Bewustzijn bij bestuur en organisatie is daarvoor een belangrijk vertrekpunt.
 
-## Leeswijzer: Governance in het Algoritmekader
-
-Het onderwerp Governance in het algoritmekader is opgedeeld in twee delen, die in feite twee fases vormen:
-
-- In kaart brengen van huidige (AI en algoritme) governance 
-- AI en algoritme governance realiseren met best practices en voorbeelden
-
-Een AI en algoritmegovernance (processen, verantwoordelijken, etc.) ingericht hebben, is een randvoorwaarde om de vereisten die het Algoritmekader noemt verantwoord en gestructureerd aan te pakken.
-Een AI en algoritmegovernance moet zijn ingericht alvorens te kunnen starten met algoritmes. Kortom: governance is het startpunt.
-
-Aan het einde van ieder subonderwerp binnen het onderwerp governance geven we aandachts- en actiepunten. Daarbij zijn er twee te onderscheiden doelgroepen (invalshoeken) met soms verschillend handelingsperspectief: 
-
-1. Een medewerker CDO/CIO-office met de taak om algoritmegovernance (beter) in te richten. Dit is top-down, bekeken vanuit organisatieperspectief.
-2. Een algoritme-proceseigenaar die wil waarborgen dat de algoritmegovernance aansluit bij de praktijk. Dit is bottom-up, bekeken vanuit het perspectief van het product. 
-
 ## Verschillende niveau's van governance
 Algoritme en AI governance bestaat op verschillende niveaus: van (inter)nationaal niveau, naar organisatieniveau naar het niveau van het AI-systeem (zie Figuur hieronder). 
-In het Algoritmekader wordt gefocust op de twee niveaus: 
 
+In het Algoritmekader wordt gefocust op de twee niveaus: 
 - organisatie
 - algoritme (lifecycle).
 
@@ -50,6 +34,16 @@ Algoritme en AI governance moet aansluiten bij de strategie, doelstellingen en p
 
 In de bijbehorende paragrafen werken we uit welke delen algoritme en AI governance bestaat en hoe dit kan worden toegepast. 
 We geven de hoofdlijnen mee in een ‘blauwdruk’ afgestemd op o.a. formaat van de organisatie. Let wel: het is altijd een proces om te kijken hoe dit in jouw organisatie in te passen is. 
+
+## Leeswijzer: Governance in het Algoritmekader
+
+Als je deze sectie over governance leest, ben je waarschijnlijk geïnteresseerd in het opzetten of verbeteren van algoritme governance bij jou organisatie.
+
+Een algortime governance ingericht hebben is een randvoorwaarde om de vereisten die het Algoritmekader noemt verantwoord en gestructureerd aan te pakken. In dit onderdeel geven we informatie en voorbeelden om hierheen te werken.  We hebben hierin twee fases in onderscheiden, die weer uit verschillende hoofdstukken bestaan:
+
+1) **Huidige situatie en randvoorwaarden algoritme governance.** 
+2) **Algoritme governance realiseren met best practices en voorbeelden.** 
+Aan het einde van ieder hoofdstuk binnen het onderwerp governance geven we aandachts- en actiepunten om zelf hiermee aan de slag te gaan.
 
 
 ## Huidige situatie AI en algoritme governance
@@ -78,9 +72,8 @@ Waar mogelijk geven we daarom voorbeelden uit een divers scala aan organisaties.
 
 ## Wat algemene best practices 
 
-- Maak iemand verantwoordelijk voor AI en algoritmegovernance
+- Maak iemand verantwoordelijk voor het opstellen van de (AI en) algoritme governance
 - Zorg voor overlegstructuren met keuzemandaat met belangrijke partijen/stakeholders
-- Zorg voor procedures waarin instrumenten als de IAMA/DPIA een plek hebben.
 
 ## Vereisten
 

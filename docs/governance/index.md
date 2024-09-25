@@ -27,13 +27,12 @@ In het Algoritmekader wordt gefocust op de twee niveaus:
 
 ![Algoritme en AI governance ladder, TNO, 2024](https://github.com/user-attachments/assets/b7a237be-6caf-4266-910b-5fd05f4dc93b)
 
-Binnen een organisatie kan algoritme en AI governance niet los worden gezien van de algemene governance, data-governance en IT-governance. 
+Binnen een organisatie kan algoritme governance niet los worden gezien van de algemene governance, data-governance en IT-governance. 
 Per organisatie zal verschillen in hoeverre dit is ontwikkeld.
 De omvang van een organisatie is ook een belangrijk aspect. 
-Algoritme en AI governance moet aansluiten bij de strategie, doelstellingen en publieke waarden van een organisatie, waarbij moet worden voldaan aan wettelijke vereisten en ethische principes (Mäntymäki et al., 2022) 
+Algoritme governance moet aansluiten bij de strategie, doelstellingen en publieke waarden van een organisatie, waarbij moet worden voldaan aan wettelijke vereisten en ethische principes (Mäntymäki et al., 2022) 
 
-In de bijbehorende paragrafen werken we uit welke delen algoritme en AI governance bestaat en hoe dit kan worden toegepast. 
-We geven de hoofdlijnen mee in een ‘blauwdruk’ afgestemd op o.a. formaat van de organisatie. Let wel: het is altijd een proces om te kijken hoe dit in jouw organisatie in te passen is. 
+
 
 ## Leeswijzer: Governance in het Algoritmekader
 

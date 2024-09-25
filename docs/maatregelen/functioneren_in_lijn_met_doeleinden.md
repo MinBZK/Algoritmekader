@@ -1,6 +1,6 @@
 ---
 title: Stel vast dat het algoritme voortdurend functioneert in lijn met de vastgestelde doelstelling
-toelichting: 
+toelichting: Stel vast dat het algoritme voortdurend functioneert in lijn met de vastgestelde doelstelling
 vereiste:
 - zorgvuldigheidsbeginsel
 levenscyclus:

@@ -19,7 +19,7 @@ Rekenregels (ook wel: regelgebaseerde algoritmes) zijn de meest eenvoudige algor
 
 Rekenregels:
 
-* zijn geprogrammeerd door mensen
+* zijn expliciet geprogrammeerd en bedacht door mensen
 * bestaan uit vaste stappen om een taak uit te voeren
 
 Rekenregels zijn niet kunstmatig intelligent (AI). Rekenregels kunnen wel onderdeel zijn van een AI-systeem. 
@@ -41,7 +41,7 @@ Zelflerende technieken zijn in elk geval:
 * **Deep learning**: Supervised, unsupervised of reinforcement learning gecombineerd met diepe neurale netwerken. Dit zijn kunstmatige neurale netwerken met veel verschillende lagen. Hierdoor kun je nog ingewikkeldere problemen oplossen. Voorbeeld: [Geautomatiseerde gezichtsvergelijking bij het RNI-inschrijfproces](https://algoritmes.overheid.nl/nl/algoritme/geautomatiseerde-gezichtsvergelijking-bij-het-rniinschrijfproces-rijksdienst-voor-identiteitsgegevens/18814864).
 
 ## AI-systeem
-Met een AI-systeem bedoelen we een systeem dat kunstmatig intelligent is volgens de Europese AI-verordening. Dit zijn in elk geval systemen die gebruik maken van:
+Met een AI-systeem bedoelen we een systeem dat kunstmatig intelligent is volgens de [Europese AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689). Dit zijn in elk geval systemen die gebruik maken van:
 
 * supervised learning
 * unsupervised learning

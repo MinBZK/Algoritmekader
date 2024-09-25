@@ -10,7 +10,7 @@ Dit is per definitie een kwalitatieve en politieke vraag. Dit gaat niet alleen o
 
 !!! example "Voorbeeld gemeente Rotterdam"
 
-  Een van de belangrijkste hoofdconclusies van het rapport [Kleur Bekennen](https://rekenkamer.rotterdam.nl/wp-content/uploads/2024/05/RO2205-kleur-bekennen-vervolgonderzoek-algoritmes-rekenkamer-rotterdam.pdf) van de gemeente Rotterdam, opgesteld door de Algemene Rekenkamer, onderstreept het belang van actief bestuur binnen algoritme en AI governance: 
+    Een van de belangrijkste hoofdconclusies van het rapport [Kleur Bekennen](https://rekenkamer.rotterdam.nl/wp-content/uploads/2024/05/RO2205-kleur-bekennen-vervolgonderzoek-algoritmes-rekenkamer-rotterdam.pdf) van de gemeente Rotterdam, opgesteld door de Algemene Rekenkamer, onderstreept het belang van actief bestuur binnen algoritme en AI governance: 
 
 > "Het ontbreekt aan een politiek-bestuurlijk kader dat duidelijk maakt welke normen en principes leidend zijn bij de ontwikkeling en het gebruik van algoritmes. Dit heeft als effect dat belangrijke besluit over bijvoorbeeld wenselijkheid, haalbaarheid, transparantie en bias bij de ambtelijke organistie komen te liggen. Deze besluiten vragen echt om een politieke afweging". 
 

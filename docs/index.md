@@ -19,17 +19,16 @@ hide:
 
 <div class="float-container">
   <div class="float-child styled-list">
-    <h3>Voldoen aan de wetten en regels</h3>
+    <h3><b>Voldoen aan de wetten en regels</b></h3>
     <ul>
       <li><a href="vereisten/">Vereisten</a></li>
       <li><a href="maatregelen/">Aanbevolen maatregelen</a></li>
       <li><a href="instrumenten/">Aanbevolen instrumenten</a></li>
     </ul>
-    <a href="alle-wetten-regels/" class="show-more"><b>Bekijk alle wetten en regels</b></a>
   </div>
 
   <div class="float-child styled-list">
-    <h3>Informatie per rol</h3>
+    <h3><b>Informatie per rol</b></h3>
     <ul>
       <li><a href="rollen/beleidsmedewerker/">Beleidsmedewerker</a></li>
       <li><a href="rollen/data-scientist/">Data scientist</a></li>
@@ -41,7 +40,7 @@ hide:
   </div>
 
   <div class="float-child styled-list">
-    <h3>Onderwerpen</h3>
+    <h3><b>Onderwerpen</b></h3>
     <ul>
       <li><a href="onderwerpen/bias-en-non-discriminatie/">Bias en non-discriminatie</a></li>
       <li><a href="governance/">Governance</a></li>
@@ -53,7 +52,7 @@ hide:
   </div>
 
   <div class="float-child styled-list">
-    <h3>Levenscyclus</h3>
+    <h3><b>Levenscyclus</b></h3>
     <ul>
       <li><a href="levenscyclus/organisatieverantwoordelijkheden/">Organisatieverantwoordelijkheden</a></li>  
       <li><a href="levenscyclus/probleemanalyse/">Probleemanalyse</a></li>

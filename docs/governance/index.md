@@ -47,17 +47,17 @@ Een algortime governance ingericht hebben is een randvoorwaarde om de vereisten 
 Aan het einde van ieder hoofdstuk binnen het onderwerp governance geven we aandachts- en actiepunten om zelf hiermee aan de slag te gaan.
 
 
-### Fase 1: Huidige situatie AI en algoritme governance
+### Fase 1: Huidige situatie algoritme governance
 
-Om een goede AI en algoritme governance te realiseren is het van belang eerst de organisatie te kennen. Wat er al is aan governance (processen, rollen, etc.), beïnvloedt hoe AI en algoritme governance daaraan opgehangen kan worden. De eerste fase van het in kaart brengen van de huidige situatie AI en algoritme governance is ingedeeld in:
+Om een goede algoritme governance te realiseren is het van belang eerst de organisatie te kennen. Wat er al is aan governance (processen, rollen, etc.), beïnvloedt hoe algoritme governance daaraan opgehangen kan worden. De eerste fase van het in kaart brengen van de huidige situatie algoritme governance is ingedeeld in:
 
 -	[Volwassenheid en ontwikkelstappen](volwassenheidsniveau.md): Het niveau van volwassenheid verschilt per organisatie. Daarnaast is de grootte van een organisatie van grote invloed. 
--	[Samenhang verschillende governance structuren](samenhang-governancestructuren.md): AI en algoritme governance kan niet los worden gezien van de algemene governance, data-governance en IT-governance. 
--	[Belang bestuurlijke/politiek verantwoordelijkheid](politiek-bestuurlijk-kader.md): De waarden die de organisatie vanuit (politieke) bestuurlijke top uitzet geven daarbij ook belangrijke kleur aan de inrichting van de AI en algoritme governance.
+-	[Samenhang verschillende governance structuren](samenhang-governancestructuren.md): algoritme governance kan niet los worden gezien van de algemene governance, data-governance en IT-governance. 
+-	[Belang bestuurlijke/politiek verantwoordelijkheid](politiek-bestuurlijk-kader.md): De waarden die de organisatie vanuit (politieke) bestuurlijke top uitzet geven daarbij ook belangrijke kleur aan de inrichting van de algoritme governance.
 
-### Fase 2: Best practices en voorbeelden van AI en algoritme governance
+### Fase 2: Best practices en voorbeelden van algoritme governance
 
-De tweede fase gaat over het realiseren van een AI en algoritme governance met best practices en voorbeelden van AI en algoritme governance. 
+De tweede fase gaat over het realiseren van een algoritme governance met best practices en voorbeelden van algoritme governance. 
 De volgende onderwerpen komen hier aan de orde:
 
 - [Governance structuur](governance-structuur.md): basis in 3 lines of defense

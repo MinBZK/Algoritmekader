@@ -2,7 +2,7 @@
 # vul hier een titel in voor deze maatregel
 title: Gebruik aselecte steekproeven als er gebruik gemaakt wordt van risicogestuurde selectie
 # geef hier een korte toelichting van deze maatregel
-toelichting: Zorg dat een risicogestuurde selectie niet alleen gemaakt worden op basis van een algoritme, maar dat er ook willekeurige gevallen toegevoegd worden aan de selectie. Deze kan gebruikt worden om modellen te onderhouden.
+toelichting: Zorg dat een risicogestuurde selectie niet alleen gemaakt wordt op basis van een algoritme, maar dat er ook willekeurige gevallen toegevoegd worden aan de selectie. Deze aselecte steekproeven kunnen gebruikt worden om modellen te onderhouden.
 vereiste:
 - beoordelen_gevolgen_voor_grondrechten
 - non_discriminatie

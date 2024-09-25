@@ -4,7 +4,7 @@ title: Rollen en verantwoordelijkheden
 
 Binnen het vormgeven van effectieve en efficiente governance van algoritmen/AI zijn het beleggen van expliciete rollen en verantwoordelijkheden cruciaal. Het beleggen van deze rollen zorgt voor een actiegerichte structuur waarin zo weinig mogelijk verwarring/onduidelijkheid bestaat over wie wanneer aan zet is. Informatie-uitwisseling en besluitvorming tussen deze rollen zal effectief plaatsvinden. 
 
-### twee voorbeelden van rollen en verantwoordelijkheden inrichten
+### Twee voorbeelden van rollen en verantwoordelijkheden inrichten
 
 Het [three lines of defence model](governance-structuur.md) dat zowel de gemeente Rotterdam als het UWV hanteert biedt hiervoor handvatten. De essentie van dit model is het scheiden van drie niveau’s in verantwoordelijkheden om effectieve governance mogelijk te maken. Daarnaast wordt in veel governance structuren een RACI model opgesteld om rollen en verantwoordelijkheden expliciet te maken. RACI is de afkorting voor Responsible (Verantwoordelijk – uitvoerder van de taak), Accountable (Aanspreekbaar – eigenaar van de taak), Consulted (Geconsulteerd) en Informed (Geïnformeerd). De gemeente Rotterdam heeft de interactie tussen rollen/verantwoordelijkheden van algoritme/AI governance en de volledige datamanagement structuur in een RACI model vormgegeven: 
 

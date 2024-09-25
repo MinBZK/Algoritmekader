@@ -42,11 +42,12 @@ Als je deze sectie over governance leest, ben je waarschijnlijk geïnteresseerd 
 Een algortime governance ingericht hebben is een randvoorwaarde om de vereisten die het Algoritmekader noemt verantwoord en gestructureerd aan te pakken. In dit onderdeel geven we informatie en voorbeelden om hierheen te werken.  We hebben hierin twee fases in onderscheiden, die weer uit verschillende hoofdstukken bestaan:
 
 1) **Huidige situatie en randvoorwaarden algoritme governance.** 
-2) **Algoritme governance realiseren met best practices en voorbeelden.** 
+2) **Algoritme governance realiseren met best practices en voorbeelden.**
+
 Aan het einde van ieder hoofdstuk binnen het onderwerp governance geven we aandachts- en actiepunten om zelf hiermee aan de slag te gaan.
 
 
-## Huidige situatie AI en algoritme governance
+### Fase 1: Huidige situatie AI en algoritme governance
 
 Om een goede AI en algoritme governance te realiseren is het van belang eerst de organisatie te kennen. Wat er al is aan governance (processen, rollen, etc.), beïnvloedt hoe AI en algoritme governance daaraan opgehangen kan worden. De eerste fase van het in kaart brengen van de huidige situatie AI en algoritme governance is ingedeeld in:
 
@@ -54,7 +55,7 @@ Om een goede AI en algoritme governance te realiseren is het van belang eerst de
 -	[Samenhang verschillende governance structuren](samenhang-governancestructuren.md): AI en algoritme governance kan niet los worden gezien van de algemene governance, data-governance en IT-governance. 
 -	[Belang bestuurlijke/politiek verantwoordelijkheid](politiek-bestuurlijk-kader.md): De waarden die de organisatie vanuit (politieke) bestuurlijke top uitzet geven daarbij ook belangrijke kleur aan de inrichting van de AI en algoritme governance.
 
-## Best practices en voorbeelden van AI en algoritme governance
+### Fase 2: Best practices en voorbeelden van AI en algoritme governance
 
 De tweede fase gaat over het realiseren van een AI en algoritme governance met best practices en voorbeelden van AI en algoritme governance. 
 De volgende onderwerpen komen hier aan de orde:

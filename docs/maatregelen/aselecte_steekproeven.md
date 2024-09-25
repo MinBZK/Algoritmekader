@@ -1,9 +1,11 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Aselecte steekproeven
+title: Gebruik aselecte steekproeven als er gebruik gemaakt wordt van risicogestuurde selectie
 # geef hier een korte toelichting van deze maatregel
-toelichting: Uitvoeren van aselecte steekproeven aanvullend op risicogestuurde selectie
+toelichting: Zorg dat een risicogestuurde selectie niet alleen gemaakt wordt op basis van een algoritme, maar dat er ook willekeurige gevallen toegevoegd worden aan de selectie. Deze aselecte steekproeven kunnen gebruikt worden om modellen te onderhouden.
 vereiste:
+- aia-29-beoordelen-gevolgen-grondrechten
+- grw-02-non-discriminatie
 - aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus:

@@ -25,8 +25,8 @@ Normen en standaarden kunnen op twee manieren van belang zijn in deze fase van h
       * Later uitgebrachte normen zullen worden gelinkt aan deze norm om meer invulling te geven aan onderdelen ervan.
   * Ook is er een oproep vanuit de EU om standaarden te ontwikkelen die direct aansluiten bij de AI-verordening. Deze worden verwacht april 2025, meer informatie [hier](https://artificialintelligenceact.eu/standard-setting/).
 2) Aan AI-verwante thema's, zoals privacy en data, hebben ook te maken met normen, standaarden, en wetgeving. 
-  * Hier dient men bewust van te zijn.
-  * Tegelijkertijd kunnen bijvoorbeeld vanuit de (implementatie van de) AVG lessen zijn geleerd. Een belangrijke standaard m.b.t. de AVG is de ISO-27001.
+  * De inzet van algoritmes raakt aan deze thema's, dus passende samenwerking is vereist.
+  * Vanuit de (implementatie van de) AVG en bijbehorende privacy governance kunnen lessen zijn geleerd die zich vertalen naar algoritme governance. Een belangrijke standaard m.b.t. de AVG is de ISO-27001.
 
 
 ## Aandachts- en actiepunten

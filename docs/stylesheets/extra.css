@@ -164,7 +164,7 @@ tbody tr td a:hover {
   padding: 0 24px 24px 24px;
   display: flex;
   flex-direction: column;
-  justify-content: space-between; /* Push the content and the "Bekijk alle" link to the bottom */
+  justify-content: flex-start; /* Push the content and the "Bekijk alle" link to the bottom */
   min-height: 300px; /* Set a minimum height for uniform containers */
 }
 

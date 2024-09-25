@@ -19,7 +19,7 @@ hide:
 
 <div class="float-container">
   <div class="float-child styled-list">
-    <h3><b>Voldoen aan de wetten en regels</b></h3>
+    <h3><b>Voldoen aan wetten en regels</b></h3>
     <ul>
       <li><a href="vereisten/">Vereisten</a></li>
       <li><a href="maatregelen/">Aanbevolen maatregelen</a></li>

@@ -8,7 +8,7 @@ Afgeleid van de term "minimum viable product" wordt de processen van compliance 
 
 Als voorbeeld: De gemeente Rotterdam kiest ervoor om de algoritme en AI governance alleen in te zetten bij hoog-risico AI-toepassingen. Deze risicoclassificatie volgt de AI verordening Voor laag-risico toepassingen geldt de standaard governance van de gemeente: de informatiebeveiligings- en privacy governance (Kleur Bekennen, Rekenkamer Rotterdam, 2024, p.71). Tabel 1 geeft inzicht in verschillende typen algoritmen en AI-toepassingen. De afbeelding uit hetzelfde rapport geeft een flowchart van hoe de governance anders is afhankelijk van de risico-categorie. 
 
-![Afbeelding](../../afbeeldingen/rotterdam_risico_classificatie_governance.png)\
+![Afbeelding](../../afbeeldingen/rotterdam_risico_classificatie_governance.png)
 
 Kijk zelf goed wat passend is voor jouw organisatie. 
 

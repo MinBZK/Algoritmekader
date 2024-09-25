@@ -10,7 +10,7 @@ onderwerp:
 rollen:
 - projectleider
 vereiste:
-- non_discriminatie
+- grw-02-non-discriminatie
 ---
 
 <!-- tags -->

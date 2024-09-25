@@ -66,6 +66,7 @@ def _create_table_row_2(file: File, filter_options: Dict[str, bool], current_fil
     levenscyclus = file.page.meta.get('levenscyclus', [])
     onderwerpen = file.page.meta.get('onderwerp', [])
     vereiste = file.page.meta.get('vereiste', [])
+    vereiste_id = file.page.meta.get('id', "")[14:] # remove the first part of the urn
 
     rollen_chips = ''.join(_create_chip(rol, 'rol', current_file, config) for rol in rollen) if filter_options.get("rol", True) else ""
     levenscyclus_chips = ''.join(_create_chip(lc, 'levenscyclus', current_file, config) for lc in levenscyclus) if filter_options.get("levenscyclus", True) else ""
@@ -75,6 +76,7 @@ def _create_table_row_2(file: File, filter_options: Dict[str, bool], current_fil
     return "".join(
         [
             "<tr>",
+            f'<td><a href="{relative_link}">{vereiste_id}</a></td>',
             f'<td><a href="{relative_link}">{file.page.title}</a></td>',
             f"<td>{rollen_chips}</td>" if filter_options.get("rol", True) else "",
             f"<td>{levenscyclus_chips}</td>" if filter_options.get("levenscyclus", True) else "",
@@ -174,6 +176,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 "<table id='myTable'>",
                 "<thead>",
                 "<tr>",
+                '<th role="columnheader">id</th>',
                 f'<th role="columnheader">{content_type.capitalize()}</th>',
                 '<th role="columnheader">Rollen</th>' if filter_options["rol"] else '',
                 '<th role="columnheader">Levenscyclus</th>' if filter_options["levenscyclus"] else '',
@@ -187,24 +190,38 @@ def on_env(env, config: MkDocsConfig, files: Files):
             ]
         )
 
+    # NEW FUNCTION: To generate the Vereisten for a specific maatregel
     def generate_vereisten_for_maatregel(file: File) -> str:
         vereisten = file.page.meta.get("vereiste", [])
         if not vereisten:
             return "<p>Geen vereisten beschikbaar voor deze maatregel.</p>"
 
-        vereisten_table = ["<table>", "<thead><tr><th>Vereiste</th></tr></thead>", "<tbody>"]
+        vereisten_table = [
+            "<table>",
+            "<thead>",
+            "<tr>",
+            "<th>Vereiste</th>",
+            "</tr>",
+            "</thead>", 
+            "<tbody>",
+        ]
         
         for vereiste in vereisten:
             vereiste_file = find_file_by_name(vereiste, "vereisten", files)
             if vereiste_file:
-                vereiste_title = vereiste_file.page.meta.get("title", vereiste)
+                # Retrieve the title from the vereiste file's metadata
+                vereiste_id = vereiste_file.page.meta.get("id", "")[14:] # remove the first part of the urn
+                vereiste_title = vereiste_file.page.meta.get("title", vereiste)  # Fallback to vereiste name if no title
                 vereiste_link = posixpath.join(config.site_url or "/", vereiste_file.url)
-                vereisten_table.append(f'<tr><td><a href="{vereiste_link}">{vereiste_title}</a></td></tr>')
+                vereisten_table.append(
+                    f'<tr><td><a href="{vereiste_link}">{vereiste_id} - {vereiste_title}</a></td></tr>')
             else:
-                vereisten_table.append(f'<tr><td>{vereiste}</td></tr>')
+                vereisten_table.append(f'<tr><td>{vereiste}</td></tr>')  # No link if the file is not found
 
         vereisten_table.append("</tbody></table>")
+        
         return "".join(vereisten_table)
+
 
     def find_file_by_name(name: str, content_type: str, files: Files) -> File:
         for file in files:
@@ -212,7 +229,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
             if file.src_path.startswith(f"{content_type}/") and file_name == name:
                 return file
         return None
-
+   
     def replace_vereisten_content(file: File):
         file.page.content = re.sub(
             r"<!-- list_vereisten_on_maatregelen_page -->",
@@ -227,6 +244,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
         if "maatregelen" in file.src_path:
             replace_vereisten_content(file)
 
+        # Replacing for existing placeholders
         file.page.content = re.sub(
             r"<!-- list_vereisten(.*?) -->",
             lambda match: replace_content(match, "vereisten"),
@@ -241,7 +259,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
             flags=re.I | re.M,
         )
 
-        file.page.content is re.sub(
+        file.page.content = re.sub(
             r"<!-- list_instrumenten(.*?) -->",
             lambda match: replace_content(match, "instrumenten"),
             file.page.content,

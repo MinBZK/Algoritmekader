@@ -4,8 +4,9 @@ title: Gebruik aselecte steekproeven als er gebruik gemaakt wordt van risicogest
 # geef hier een korte toelichting van deze maatregel
 toelichting: Zorg dat een risicogestuurde selectie niet alleen gemaakt wordt op basis van een algoritme, maar dat er ook willekeurige gevallen toegevoegd worden aan de selectie. Deze aselecte steekproeven kunnen gebruikt worden om modellen te onderhouden.
 vereiste:
-- beoordelen_gevolgen_voor_grondrechten
-- non_discriminatie
+- aia-29-beoordelen-gevolgen-grondrechten
+- grw-02-non-discriminatie
+- aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus:
 - implementatie

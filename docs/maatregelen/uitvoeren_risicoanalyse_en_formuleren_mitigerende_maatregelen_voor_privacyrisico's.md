@@ -2,7 +2,7 @@
 title: Uitvoeren risicoanalyse en formuleren mitigerende maatregelen voor privacyrisico's
 toelichting: Bij het uitvoeren van een risicoanalyse voor privacyrisico's is het van belang dat de geïdentificeerde risico's worden vertaald naar concrete, mitigerende maatregelen om persoonsgegevens te beschermen.
 vereiste:
-- dpia_verplicht_bij_hoog_risico
+- avg-13-dpia-verplicht
 levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie

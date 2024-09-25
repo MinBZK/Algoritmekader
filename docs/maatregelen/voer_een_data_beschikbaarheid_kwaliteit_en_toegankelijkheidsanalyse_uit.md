@@ -5,7 +5,7 @@ title: Voer voorafgaand aan een aanbesteding een data beschikbaarheid, kwaliteit
 toelichting: Het is van belang om voorafgaand aan een aanbesteding vast te stellen of de data die noodzakelijk is om een algoritme of AI-systeem te ontwikkelen beschikbaar is of gaat worden en van voldoende kwaliteit is. 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
-- kwaliteitscriteria_voor_data
+- aia-05-data-kwaliteitscriteria
 
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 

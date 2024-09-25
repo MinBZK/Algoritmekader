@@ -46,6 +46,9 @@ Zij geven aan dat het IAMA wordt gezien als instrument voor het nagaan van de im
 ### Relatie tot het Fairness Handbook
 Over het [Fairness Handbook](fairness-handbook.md) werd in het rapport aangegeven dat het een technischere uitwerking bevat dan de Handreiking. Het Handbook biedt wellicht meer houvast voor iemand die analyses maakt om inzicht te geven in de prestaties van het algoritme met het oog op ‘fairness’ en ‘bias’. Dit komt doordat het Handbook meer details geeft over de technische stappen die nodig zijn om te komen tot bepaalde analyses.
 
+### Relatie tot Toetsingskader Risicoprofielen van College voor de Rechten van de Mens
+Ook het [toetsingskader voor discriminatie door risicoprofielen van het College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dce) kan worden gebruikt om te bepalen of er discriminatie plaatsvindt. Dit kader is afkomstig uit 2021 en er wordt gewerkt aan een nieuwe versie, die waarschijnlijk eind 2024 zal verschijnen. De verschillende stappen die daarin gebruikt worden om te bepalen of een risicoprofiel tot discriminatie leidt op grond van ras of nationaliteit, zijn zeer relevant. Daarvoor hebben zij [een beslisboom ontwikkeld](https://publicaties.mensenrechten.nl/file/6ac9f9ec-c837-23b1-0032-5c2e684db188.pdf).
+
 ## Bijbehorende vereisten
 
 <!-- list_vereisten_on_maatregelen_page -->
@@ -54,6 +57,7 @@ Over het [Fairness Handbook](fairness-handbook.md) werd in het rapport aangegeve
 
 - [Handreiking non-discriminatie by design](https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design)
 - [Onderzoeksrapport Bekendheid, toepasbaarheid en toegevoegde waarde handreiking 'non-discriminatie by design'](https://open.overheid.nl/documenten/7052294a-e70a-4084-88da-d09ae5f202cb/file)
+- [Toetsingskader voor discriminatie door risicoprofielen van het College voor de Rechten van de Mens (2021)](https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dce)
 
 ## Voorbeeld
 

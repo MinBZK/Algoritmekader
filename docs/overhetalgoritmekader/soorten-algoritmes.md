@@ -63,7 +63,7 @@ Dit zijn AI-systemen die je gebruikt voor:
 * **interactie met mensen**, zoals AI-chatbots
 * **genereren van content**, zoals afbeeldingen laten maken door Dall-E 
 
-Over deze systemen moet je [transparant](Algoritmekader/onderwerpen/transparantie/) zijn. Gebruikers mogen niet denken dat zij te maken hebben met echte mensen of originele content.
+Over deze systemen moet je [transparant](../onderwerpen/transparantie/index.md) zijn. Gebruikers mogen niet denken dat zij te maken hebben met echte mensen of originele content.
 
 Zie [AI-verordening, hoofdstuk IV](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#d1e5418-1-1).
 

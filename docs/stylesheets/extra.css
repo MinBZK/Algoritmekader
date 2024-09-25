@@ -152,90 +152,47 @@ tbody tr td a:hover {
   text-align: left;
 }
 
-/* Styling voor de float-container */
 .float-container {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Responsieve kolommen */
-  gap: 20px; /* Ruimte tussen de boxen */
-  text-align: left;
-}
-
-.float-container a {
-  color: #154273;
-  text-align: left;
-  text-decoration: underline;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Responsive columns */
+  gap: 16px; /* Space between the boxes */
 }
 
 .float-child {
   background-color: #e5f1f9;
   border-radius: 5px;
-  padding: 16px 24px;
+  padding: 0 24px 24px 24px;
   display: flex;
   flex-direction: column;
-  text-align: left;
-}
-
-.float-container .float-child p {
-  color: #154273;
-  text-align: left;
-}
-
-.styled-list {
-  background-color: #e5f1f9;
-  padding: 16px 32px;
-  border-radius: 5px;
-  flex-grow: 1;
-  text-align: left;
-}
-
-.styled-list h3 {
-  color: #154273;
-  font-weight: bold;
-  margin-bottom: 10px;
-  font-size: 1.2em;
-  margin-top: 10px;
-  text-align: left;
+  justify-content: space-between; /* Push the content and the "Bekijk alle" link to the bottom */
+  min-height: 300px; /* Set a minimum height for uniform containers */
 }
 
 .styled-list ul {
   list-style-type: none;
   padding-left: 0;
   margin-bottom: 20px;
-  text-align: left;
 }
 
 .styled-list ul li {
   margin-bottom: 10px;
   display: flex;
-  align-items: flex-start; /* Items aan de bovenkant uitlijnen */
-  text-align: left;
+  align-items: flex-start;
 }
 
 .styled-list ul li::before {
-  content: '\203A'; /* Unicode-teken voor een rechtswijzende chevron */
+  content: '\203A'; /* Unicode arrow symbol */
   margin-right: 8px;
   color: #154273;
   font-weight: bold;
-  text-align: left;
 }
 
-.styled-list ul li a {
-  color: #154273;
-  font-weight: normal;
-  text-align: left;
-}
-
-/* Show More Link */
+/* Styling for the "Bekijk alle" links */
 .show-more {
-  font-weight: bold;
-  color: #154273;
-  margin-top: auto;
-  text-align: right; /* Rechts uitgelijnd zoals in het originele ontwerp */
-}
-
-.show-more:hover {
+  margin-top: auto; /* Push the "Bekijk alle" link to the bottom */
   text-decoration: underline;
-  text-align: left;
+  color: #154273;
+  font-weight: bold;
 }
 
 /* Footer Sectie */

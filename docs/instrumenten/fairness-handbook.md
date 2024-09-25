@@ -1,4 +1,5 @@
---- <!-- alle tagging/metadata moet nog goed naar worden gekeken -->
+--- 
+<!-- alle tagging/metadata moet nog goed naar worden gekeken -->
 title: The Fairness Handbook
 toelichting: toelichting volgt
 levenscyclus:

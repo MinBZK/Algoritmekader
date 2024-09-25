@@ -2,7 +2,7 @@
 title: Formuleren doelstelling
 toelichting: Het doel en de eventuele subdoelen van het algoritme moeten zo specifiek mogelijk zijn geformuleerd, en waar mogelijk gekwantificeerd. 
 vereiste:
-- zorgvuldigheidsbeginsel
+- awb-01-zorgvuldigheidsbeginsel
 levenscyclus:
 - probleemanalyse
 onderwerp:

@@ -2,15 +2,9 @@
 title: De rollen en verantwoordelijkheden zijn vastgesteld door de verantwoordelijke(n)
 toelichting: Nadat de rollen en verantwoordelijkheden zijn beschreven, zullen deze moeten worden vastgesteld door de verantwoordelijke(n).  
 vereiste:
-- zorgvuldigheidsbeginsel
+- awb-01-zorgvuldigheidsbeginsel
 levenscyclus:
-- probleemanalyse
-- ontwerp
-- dataverkenning-en-datapreparatie
-- ontwikkelen
-- implementatie
-- monitoring-en-beheer
-- verificatie-en-validatie
+- organisatieverantwoordelijkheden
 onderwerp:
 - governance
 - privacy-en-gegevensbescherming

@@ -5,9 +5,9 @@ title: Stel vast of het gaat om een algoritme en/of AI-systeem en wat de bijbeho
 toelichting: Het verschilt per typen algoritmen of AI-systemen welke vereisten hierop van toepassing zijn en waar een aanbieder of gebruiksverantwoordelijke aan moet voldoen. Dit is mede afhankelijk van de bijbehorende risicoclassificatie.  
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
-- transparantie
-- beginsel_van_proportionaliteit_en_subsidiariteit
-
+- aia-08-transparantie-aan-gebruiksverantwoordelijken
+- avg-04-proportionaliteit-en-subsidiariteit
+- aia-06.4-documentatie-beoordeling-niet-hoog-risico-ai
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 
 - ontwerp
@@ -26,7 +26,7 @@ hide:
 
 ## Maatregel
 <!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
- Stel vast of het gaat om een algoritme en/of AI-systeem en wat de bijbehorende risicoclassificatie is om te bepalen welke vereisten hierop van toepassing zijn.
+Stel vast of het gaat om een algoritme en/of AI-systeem en wat de bijbehorende risicoclassificatie is om te bepalen welke vereisten hierop van toepassing zijn.
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->

@@ -2,9 +2,9 @@
 title: Bepaal de bewaartermijen en richt een vernietigingsprocesdure in voor de verwerkte (persoons)gegevens. 
 toelichting: Zorg ervoor dat de vereisten met betrekking tot bewaartermijnen en de vernietiging correct zijn of worden vertaald naar het algoritme of AI-systeem en de onderliggende systemen. Controleer of deze maatregelen zijn getroffen en zorg dat dit aantoonbaar is.
 vereiste:
-- archiefwet
-- bewaartermijn_voor_documentatie
-- beperkte_bewaartermijn_van_persoonsgegevens
+- arc-01-archiefwet
+- aia-12-bewaartermijn-voor-documentatie
+- avg-02-beperkte-bewaartermijn-van-persoonsgegevens
 levenscyclus:
 - ontwikkelen
 - verificatie-en-validatie

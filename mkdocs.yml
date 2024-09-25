@@ -32,6 +32,7 @@ nav:
     - Home: index.md
     - Over het algoritmekader: 
         - overhetalgoritmekader/index.md
+        - overhetalgoritmekader/soorten-algoritmes.md
         - overhetalgoritmekader/definities.md
         - overhetalgoritmekader/CONTRIBUTING.md
     - Governance:
@@ -48,6 +49,7 @@ nav:
             - governance/governance-realiseren/interactie-burgers-en-omgeving.md
     - Levenscyclus:
         - levenscyclus/index.md 
+        - levenscyclus/organisatieverantwoordelijkheden.md
         - levenscyclus/probleemanalyse.md
         - levenscyclus/ontwerp.md
         - levenscyclus/dataverkenning-en-datapreparatie.md
@@ -95,6 +97,7 @@ markdown_extensions:
     - pymdownx.snippets:
         auto_append:
             - includes/begrippenlijst.md
+    - pymdownx.blocks.html
 
 # Extra opties voor footer
 extra: 
@@ -114,6 +117,7 @@ extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - javascripts/tablesort.js
   - javascripts/filtering.js
+  - https://unpkg.com/mermaid@10.9.1/dist/mermaid.min.js
 
 plugins:
     - glightbox

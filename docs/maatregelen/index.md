@@ -38,3 +38,6 @@ Deze maatregel helpt om te voldoen aan de vereiste om niet te discrimineren. Maa
 ## Overzicht maatregelen
 
 <!-- list_maatregelen -->
+
+## Help ons deze pagina te verbeteren
+Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/maatregelen/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

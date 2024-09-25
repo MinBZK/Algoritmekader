@@ -9,7 +9,7 @@ Binnen het Algoritmekader is idealiter ook een 'blauwdruk' RACI model opgenomen 
 ![Format](https://github.com/user-attachments/assets/3debe7b6-0c42-40f5-a366-9cc5cc90cd3e)
 
 
-### Twee voorbeelden van rollen en verantwoordelijkheden inrichten
+### Voorbeelden van rollen en verantwoordelijkheden inrichten
 
 Het [three lines of defence model](governance-structuur.md) dat zowel de gemeente Rotterdam als het UWV hanteert biedt hiervoor handvatten. De essentie van dit model is het scheiden van drie niveau’s in verantwoordelijkheden om effectieve governance mogelijk te maken. Daarnaast wordt in veel governance structuren een RACI model opgesteld om rollen en verantwoordelijkheden expliciet te maken. RACI is de afkorting voor Responsible (Verantwoordelijk – uitvoerder van de taak), Accountable (Aanspreekbaar – eigenaar van de taak), Consulted (Geconsulteerd) en Informed (Geïnformeerd). De gemeente Rotterdam heeft de interactie tussen rollen/verantwoordelijkheden van algoritme/AI governance en de volledige datamanagement structuur in een RACI model vormgegeven: 
 

@@ -22,7 +22,7 @@ Het [AI ethics maturity model van Krijger, Thuis, de Ruiter, Ligthart & Broekman
 Richt zich op datavolwassenheid, maar heeft daarin veel raakvlakken met AI waarvoor data een belangrijk component is. 
 Heeft een eigen [beslishulp datavolwassenheid](https://realisatieibds.nl/groups/view/c23ab74c-adb4-424e-917d-773a37968efe/kenniscentrum-van-de-ibds/wiki/view/2447d2a8-6c48-468d-9739-00772688853f/beslishulp-datavolwassenheid) maar ook een [meetgids](https://realisatieibds.nl/page/view/ad94d97c-4d48-443c-aedd-235b2d0ca8b6/wegwijzer-volwassenheidsmodellen) met verschillende methoden.
 
-### Flexible Maturity Model for AI Governance Based on the NIST AI Risk Management Framework van de IEEE-USA.
+### [Flexible Maturity Model for AI Governance Based on the NIST AI Risk Management Framework van de IEEE-USA](https://ieeeusa.org/product/a-flexible-maturity-model-for-ai-governance/)
 De NIST is een veelgebruikte standaard voor cybersecurity (onlangs geüpdatet en nu soms NIS2 of NIST2 genoemd). 
 Het [NIST-model](https://ieeeusa.org/product/a-flexible-maturity-model-for-ai-governance/) bekijkt AI-governance volwassenheid aan de hand van categorieën uit de NIST.
 

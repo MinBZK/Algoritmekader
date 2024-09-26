@@ -1,6 +1,6 @@
 ---
 title: Relevante feiten en belangen zijn bekend 
-id: urn:nl:ak:ver:awb-1
+id: urn:nl:ak:ver:awb-01
 toelichting: Dit beginsel vereist dat een besluit met de nodige zorgvuldigheid wordt voorbereid en genomen. Dit vraagt onder meer om een zorgvuldig onderzoek naar feiten, een zorgvuldige beslissingsprocedure en een deugdelijke besluitvorming. Dit betekent dat  algoritmes en AI zodanig moet worden ontwikkeld en gebruikt, dat dit passend is ter ondersteuning van de wettelijke taak en de bijbehorende beslissing of besluitvorming.  
 levenscyclus: 
 - organisatieverantwoordelijkheden
@@ -40,4 +40,4 @@ Hierdoor kunnen ongewenste gevolgen ontstaan zoals een onjuist of onzorgvuldig g
 
 ## Maatregelen 
 
-<!-- list_maatregelen vereiste/awb-1-zorgvuldigheidsbeginsel -->
+<!-- list_maatregelen vereiste/awb-1-zorgvuldigheidsbeginsel no-search no-onderwerp no-rol no-levenscyclus -->

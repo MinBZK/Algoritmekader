@@ -8,11 +8,11 @@ Het zijn ook taken die je voortdurend aandacht zal moeten geven, maar die je nie
 
 ## Vereisten
 
-<!-- list_vereisten levenscyclus/organisatieverantwoordelijkheden -->
+<!-- list_vereisten levenscyclus/organisatieverantwoordelijkheden no-rol no-levenscyclus no-search no-onderwerp -->
 
 ## Maatregelen
 
-<!-- list_maatregelen levenscyclus/organisatieverantwoordelijkheden -->
+<!-- list_maatregelen levenscyclus/organisatieverantwoordelijkheden no-rol no-levenscyclus no-search no-onderwerp -->
 
 
 !!! info "Disclaimer"

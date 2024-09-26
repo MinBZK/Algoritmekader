@@ -39,8 +39,8 @@ Als je deze sectie over governance leest, ben je waarschijnlijk geïnteresseerd 
 
 Een algoritmegovernance ingericht hebben is een randvoorwaarde om de vereisten die het Algoritmekader noemt verantwoord en gestructureerd aan te pakken. In dit onderdeel geven we informatie en voorbeelden om hierheen te werken. We hebben hierin twee fases in onderscheiden, die weer uit verschillende hoofdstukken bestaan:
 
-1) **Huidige situatie en randvoorwaarden algoritmegovernance.**
-2) **Algoritme governance realiseren met best practices en voorbeelden.**
+1. **Huidige situatie en randvoorwaarden algoritmegovernance.**
+2. **Algoritme governance realiseren met best practices en voorbeelden.**
 
 Aan het einde van ieder hoofdstuk binnen het onderwerp governance geven we aandachts- en actiepunten om zelf hiermee aan de slag te gaan.
 

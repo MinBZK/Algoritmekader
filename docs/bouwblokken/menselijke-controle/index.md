@@ -41,6 +41,7 @@ Wanneer en hoe je controle uitoefent, hangt af van het soort algoritme, de situa
 Bij elke aanpak is er meer dan 1 persoon verantwoordelijk. En je oefent menselijke controle uit in verschillende fases, door verschillende mensen. 
 
 Tijdens het gebruik kun je menselijke controle op de volgende manieren uitoefenen:
+
 - _Human in the loop_: Mensen starten de acties van het algoritme of AI-systeem. Het werkt niet autonoom.
 - _Human on the loop_: Mensen kunnen acties stoppen van het algoritme of AI-systeem.
 - _Human above the loop_: Mensen houden overzicht en kunnen ingrijpen bij strategische en ethische beslissingen.

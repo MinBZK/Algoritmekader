@@ -18,9 +18,8 @@ hide:
 </div>
 
 <div class="float-container">
-
   <div class="float-child styled-list">
-    <h3>Voldoen aan de wetten en regels</h3>
+    <h3><b>Voldoen aan wetten en regels</b></h3>
     <ul>
       <li><a href="vereisten/">Vereisten</a></li>
       <li><a href="maatregelen/">Aanbevolen maatregelen</a></li>
@@ -29,7 +28,7 @@ hide:
   </div>
 
   <div class="float-child styled-list">
-    <h3><a href="rollen/" class="show-more">Informatie per rol</a></h3>
+    <h3><b>Informatie per rol</b></h3>
     <ul>
       <li><a href="rollen/beleidsmedewerker/">Beleidsmedewerker</a></li>
       <li><a href="rollen/data-scientist/">Data scientist</a></li>
@@ -37,24 +36,37 @@ hide:
       <li><a href="rollen/jurist/">Jurist</a></li>
       <li><a href="rollen/projectleider/">Projectleider</a></li>
     </ul>
+    <a href="rollen/" class="show-more"><b>Bekijk alle rollen</b></a>
   </div>
 
   <div class="float-child styled-list">
-    <h3><a href="onderwerpen/">Onderwerpen</a></h3>
+    <h3><b>Onderwerpen</b></h3>
     <ul>
       <li><a href="onderwerpen/bias-en-non-discriminatie/">Bias en non-discriminatie</a></li>
       <li><a href="governance/">Governance</a></li>
       <li><a href="onderwerpen/transparantie/">Transparantie</a></li>    
-      <li><a href="onderwerpen/privacy-en-gegevensbescherming/">Privacy en gegevensbescherming</a></li>
+      <li><a href="onderwerpen/privacy-en-gegevensbescherming/">Privacy & gegevensbescherming</a></li>
       <li><a href="onderwerpen/publieke-inkoop/">Publieke inkoop</a></li>
     </ul>
+    <a href="onderwerpen/" class="show-more"><b>Bekijk alle onderwerpen</b></a>
   </div>
 
   <div class="float-child styled-list">
-    <h3><a href="overhetalgoritmekader/definities/">Woordenlijst</a></h3>
-    <p><br>Vind snel de betekenis van begrippen als algoritme, AI-systeem, hoog-risico-AI-systeem en impactvolle algoritmes.</p>
+    <h3><b>Levenscyclus</b></h3>
+    <ul>
+      <li><a href="levenscyclus/probleemanalyse/">Probleemanalyse</a></li>
+      <li><a href="levenscyclus/ontwerp/">Ontwerpen</a></li>
+      <li><a href="levenscyclus/dataverkenning-en-datapreparatie/">Dataverkenning & datapreparatie</a></li>    
+      <li><a href="levenscyclus/ontwikkelen/">Ontwikkelen</a></li>
+            <li><a href="levenscyclus/monitoring-en-beheer/">Monitoring & beheer</a></li>  
+    </ul>
+    <a href="levenscyclus/" class="show-more"><b>Bekijk de hele levenscyclus</b></a>
   </div>
 </div>
+
+!!! tip "Tip"
+
+    Vind snel de betekenis van begrippen als algoritme, AI-systeem, hoog-risico-AI-systeem en impactvolle algoritmes in onze <a href="overhetalgoritmekader/definities/">woordenlijst</a>
 
 <div class="footer-section">
   <h2>Help ons deze pagina te verbeteren</h2>

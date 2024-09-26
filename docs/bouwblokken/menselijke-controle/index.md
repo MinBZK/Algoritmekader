@@ -28,7 +28,7 @@ Tijdens het gebruik van een algoritme of AI-systeem is menselijke controle belan
 - Nieuwe mogelijkheden ontstaan door technologische ontwikkelingen. Zo maken leerlingen en studenten massaal gebruik van large language modellen (LLM’s) zoals ChatGPT.
 
 ### Mensen
-Alleen mensen mogen dit soort belangrijke en ethische beslissingen maken.  Er is maatschappelijke consensus dat alleen natuurlijke personen in staat zijn om een goede (ethische) afweging te maken over wanneer en welke controle nodig is. Menselijke controle kan je dus niet automatiseren. Mensen mogen zich hierbij wel laten helpen door computers of andere technologie. 
+Er is maatschappelijke consensus dat alleen natuurlijke personen in staat zijn om een goede (ethische) afweging te maken over wanneer en welke controle nodig is. Menselijke controle kan je dus niet automatiseren. Mensen mogen zich hierbij wel laten helpen door computers of andere technologie. 
 
 ## Aanpak menselijke controle
 Je kunt op verschillende manieren controle houden over de prestaties van een algoritme of AI-systeem:

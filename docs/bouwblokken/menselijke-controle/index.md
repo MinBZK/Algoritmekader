@@ -21,7 +21,7 @@ Tijdens het ontwerp van een algoritme of AI-systeem controleer je bijvoorbeeld o
 Voordat je een algoritme of AI-systeem gaat gebruiken, is het belangrijk om het doel te bepalen. 
 
 ### Gebruik
-Tijdens het gebruik van een algoritme of AI-systeem is menselijke controle belangrijk omdat de werking van algoritmes verandert in de loop der tijd:
+Tijdens het gebruik van een algoritme of AI-systeem is menselijke controle belangrijk omdat de werking verandert in de loop der tijd:
 
 - Situaties kunnen veranderen. Het algoritme kan daarvan niet op de hoogte zijn. Een routeplanner kent bijvoorbeeld niet alle werkzaamheden of veranderingen aan de wegen.
 - AI-systemen leren soms nog bij. En soms is het niet duidelijk op welke data de uitkomsten gebaseerd zijn. Een beeldherkenningssysteem herkent bijvoorbeeld honden op foto’s op basis van de achtergrond in plaats van de hond zelf.

@@ -2,7 +2,7 @@
 title: Formuleren aanleiding en probleemdefinitie
 toelichting: Formuleer en documenteer wat de aanleiding is om een algoritme of AI-systeem in te willen zetten. 
 vereiste:
-- zorgvuldigheidsbeginsel
+- awb-01-zorgvuldigheidsbeginsel
 levenscyclus:
 - probleemanalyse
 onderwerp:
@@ -13,6 +13,7 @@ rollen:
 - domeinspecialist
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

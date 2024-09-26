@@ -2,12 +2,9 @@
 title: Richt wachtwoordbeheer in
 toelichting: Richt wachtwoordbeheer in, waarmee bepaald wordt hoe wachtwoorden worden opgeslagen, wanneer wijzigingen moeten plaatsvinden en waaraan wachtwoorden moeten voldoen.
 vereiste:
-- beveiliging_informatie_en_informatiesystemen
+- bio-01-beveiliging-informatie-en-informatiesystemen
 levenscyclus:
-- ontwerp
-- ontwikkelen
-- implementatie
-- monitoring-en-beheer
+- organisatieverantwoordelijkheden
 onderwerp:
 - technische-robuustheid-en-veiligheid
 - governance
@@ -16,6 +13,7 @@ rollen:
 - security-officer
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

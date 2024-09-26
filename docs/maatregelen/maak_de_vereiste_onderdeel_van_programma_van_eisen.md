@@ -5,62 +5,61 @@ title: Maak de vereiste onderdeel van het programma van eisen
 toelichting: Door de vereiste onderdeel te maken van het programma van eisen bij de aanbesteding, is het voor aanbieders duidelijk aan welke specifieke eisen hun oplossing moet voldoen.  
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
-- archiefwet
-- Recht_op_uitleg_AI-besluiten
-- Verplichtingen_van_aanbieders_van_ai_modellen_voor_algemene_doeleinden
-- archiefwet
-- auteursrechten
-- beveiliging_informatie_en_informatiesystemen
-- beveiliging_van_verwerking
-- databankenwet
-- melding_ernstige_incidenten
-- automatische_logregistratie
-- beperkte_bewaartermijn_van_persoonsgegevens
-- bescherming_van_kwetsbare_groepen
-- beschrijven_en_toewijzen_van_verantwoordelijkheden_bij_verwerking_persoonsgegevens
-- bevorder_ai_geletterdheid_personeel
-- bewaartermijn_voor_documentatie
-- bewaartermijn_voor_gegenereerde_logs
-- corrigerende_maatregelen_voor_non_conforme_ai
-- uitzonderlijk_verwerken_ bijzondere_categorieen_persoonsgegevens 
-- documentatie_beoordeling_niet_hoog_risico_ai
-- persoonsgegevens_worden_rechtmatig_verwerkt
-- fundamentele_rechten
-- geb_dpia_verplicht_bij_hoog_risico
-- juistheid_en_actualiteit_van_persoonsgegevens
-- kwaliteitsbeheersysteem_voor_hoog_risico_ai
-- kwaliteitscriteria_voor_data
-- maatregelen_van_gebruiksverantwoordelijken_voor_gebruik
-- beoordelen_gevolgen_voor_grondrechten
-- monitoring_na_het_in_de_handel_brengen
-- non_discriminatie
-- ontwerp_voor_nauwkeurigheid_robuustheid_en_cyberbeveiliging
-- minimale_verwerking_van_persoonsgegevens
-- privacy_bij_ontwerp_bij_verwerking_van_persoonsgegevens
-- inroepen_privacyrecht_bij_verwerking_persoonsgegevens
-- recht_op_niet_geautomatiseerd_besluitvorming
-- recht_op_uitleg_ai_besluiten
-- risicobeheersing
-- risicobeoordeling_voor_jongeren_en_kwetsbaren
-- technische_documentatie_voor_hoog_risico_ai
-- toezichtmogelijkheden_voor_gebruikers
-- traceerbare_besluitvorming
-- transparantie
-- transparantie_bij_verwerken_persoonsgegevens
-- verplicht_risicobeheersysteem_voor_hoog_risico_ai
-- Verplichtingen_van_aanbieders_van_ai_modellen_voor_algemene_doeleinden_
-- Verplichtingen_van_aanbieders_van_ai_modellen_voor_algemene_doeleinden_met_systeemrisico
-- ai_modellen_algemene_doeleinden_syteemrisico_informatie_ernstige_incidenten
-- ai_modellen_algemene_doeleinden_syteemrisico_cyberbeveiliging
-- registratieverplichtingen_hoog_risico
-- conformiteitsbeoordelingsprocedure_hoog_risico
-- aantoonbaarheid_vereisten_hoog_risico
-- toegankelijkheidseisen_hoog_risico
-- verstrekking_van_informatie_op_verzoek
-- wettelijke_verwerking_van_gevoelige_gegevens
-- recht_op_toegang_tot_publieke_informatie
-- algoritmeregister
-- beginsel_van_proportionaliteit_en_subsidiariteit
+- aia-02-documentatie-beoordeling-niet-hoog-risico-ai
+- aia-03-risicobeheersysteem
+- aia-04-risicobeoordeling-voor-jongeren-en-kwetsbaren
+- aia-05-data-kwaliteitscriteria
+- aia-06-technische-documentatie
+- aia-07-automatische-logregistratie
+- aia-08-transparantie-aan-gebruiksverantwoordelijken
+- aia-09-menselijk-toezicht
+- aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging
+- aia-11-systeem-voor-kwaliteitsbeheer
+- aia-12-bewaartermijn-voor-documentatie
+- aia-13-bewaartermijn-voor-gegenereerde-logs
+- aia-14-conformiteitsbeoordeling
+- aia-15-eu-conformiteitsverklaring
+- aia-16-ce-markering
+- aia-17-registratieverplichtingen
+- aia-18-corrigerende-maatregelen-voor-non-conforme-ai
+- aia-19-toegankelijkheidseisen
+- aia-20-verstrekken-van-informatie-op-verzoek
+- aia-21-aantoonbaarheid-vereisten-hoog-risico
+- aia-28-recht-op-uitleg-ai-besluiten
+- aia-29-beoordelen-gevolgen-grondrechten
+- aia-30-transparantieverplichtingen
+- aia-31-ai-modellen-algemene-doeleinden
+- aia-32-ai-modellen-algemene-doeleinden-systeemrisico
+- aia-33-ai-modellen-algemene-doeleinden-systeemrisico-ernstige-incidenten
+- aia-34-ai-modellen-algemene-doeleinden-systeemrisico-cyberbeveiliging
+- aia-35-verwerking-in-testomgeving
+- aia-36-monitoring-na-het-in-de-handel-brengen
+- aia-37-melding-ernstige-incidenten
+- aia-38-melding-inbreuk-op-ai-verordening
+- aia-39-recht-klacht-indienen-bij-ai-bureau
+- bzk-01-algoritmeregister
+- arc-01-archiefwet
+- aut-01-auteursrechten
+- avg-01-persoonsgegevens-worden-rechtmatig-verwerkt
+- avg-02-beperkte-bewaartermijn-van-persoonsgegevens
+- avg-03-minimale-verwerking-van-persoonsgegevens
+- avg-04-proportionaliteit-en-subsidiariteit
+- avg-05-juistheid-en-actualiteit-van-persoonsgegevens
+- avg-06-verantwoordingsplicht-rechtmatigheid
+- avg-07-transparantie-bij-verwerken-persoonsgegevens
+- avg-08-wettelijke-verwerking-van-gevoelige-gegevens
+- avg-09-inroepen-privacyrecht-bij-verwerking-persoonsgegevens
+- avg-10-recht-op-niet-geautomatiseerde-besluitvorming
+- avg-11-privacy-bij-ontwerp-bij-verwerking-van-persoonsgegevens
+- avg-12-beveiliging-van-verwerking
+- avg-13-dpia-verplicht
+- awb-01-zorgvuldigheidsbeginsel
+- awb-02-motiveringsbeginsel
+- bio-01-beveiliging-informatie-en-informatiesystemen
+- dat-01-databankenwet
+- grw-01-fundamentele-rechten
+- grw-02-non-discriminatie
+- woo-01-recht-op-toegang-tot-publieke-informatie
 
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 
@@ -79,6 +78,7 @@ rollen:
 - aanbestedingsjurist
 hide:
 - navigation
+- toc
 ---
 
 <!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->

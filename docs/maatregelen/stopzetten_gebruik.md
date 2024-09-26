@@ -2,21 +2,19 @@
 title: Tref (technische) maatregelen waarmee het gebruik van het algoritme of AI-systeem kan worden stopgezet.
 toelichting: Als blijkt dat het algoritme of AI-systeem onjuist functioneert, dan moeten (technische) maatregelen zijn getroffen waarmee het gebruik kan worden stopgezet.
 vereiste: 
-- zorgvuldigheidsbeginsel
-- kwaliteitsbeheersysteem_voor_hoog_risico_ai
-- kwaliteitscriteria_voor_data
-- fundamentele_rechten
-- beoordelen_gevolgen_voor_grondrechten
-- non_discriminatie
-- auteursrechten
-- toegankelijkheidseisen_hoog_risico
-- toezichtmogelijkheden_voor_gebruikers
-- beginsel_van_proportionaliteit_en_subsidiariteit
-- databankenwet
-- gebruiksverantwoordelijken_menselijk_toezicht_natuurlijke_personen
-- gebruiksverantwoordelijken_monitoren_werking_ hoog_risico_AI-systeem
-- juistheid_en_actualiteit_van_persoonsgegevens
-- toegankelijkheidseisen_hoog_risico
+- awb-01-zorgvuldigheidsbeginsel
+- aia-11-systeem-voor-kwaliteitsbeheer
+- grw-01-fundamentele-rechten
+- aia-29-beoordelen-gevolgen-grondrechten
+- grw-02-non-discriminatie
+- aut-01-auteursrechten
+- aia-19-toegankelijkheidseisen
+- aia-09-menselijk-toezicht
+- avg-04-proportionaliteit-en-subsidiariteit
+- aia-23-gebruiksverantwoordelijken-menselijk-toezicht
+- aia-24-gebruiksverantwoordelijken-monitoren-werking
+- avg-05-juistheid-en-actualiteit-van-persoonsgegevens
+- aia-19-toegankelijkheidseisen
 
 levenscyclus: 
 - ontwerp
@@ -42,6 +40,7 @@ rollen:
 
 hide:
 - navigation
+- toc
 
 ---
 

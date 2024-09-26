@@ -2,9 +2,9 @@
 title: Zorg voor een goede beveiliging van een algoritme.
 toelichting: Zorg voor een goede beveiliging van de verschillende softwarecomponenten van een algoritme of AI-systeem.
 vereiste:
-- beveiliging_informatie_en_informatiesystemen
-- beveiliging_van_verwerking
-- ontwerp_voor_nauwkeurigheid_robuustheid_en_cyberbeveiliging
+- bio-01-beveiliging-informatie-en-informatiesystemen
+- avg-12-beveiliging-van-verwerking
+- aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging
 levenscyclus:
 - ontwerp
 - ontwikkelen
@@ -21,6 +21,7 @@ rollen:
 - privacy-officer
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

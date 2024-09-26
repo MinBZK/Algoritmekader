@@ -2,7 +2,7 @@
 title: Archiveren beperkingen openbaarheid
 toelichting: Stel vast of beperkingen aan openbaarheid van de archiefbescheiden moeten worden gesteld.
 vereiste:
-- archiefwet
+- arc-01-archiefwet
 levenscyclus:
 - ontwerp
 - ontwikkelen
@@ -15,6 +15,7 @@ rollen:
 - jurist
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

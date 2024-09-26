@@ -1,14 +1,13 @@
 ---
 title: Ethicus
+hide:
+  - toc
+  - navigation
 ---
-
-## Vereisten
-
-<!-- list_vereisten rollen/ethicus -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/ethicus -->
+<!-- list_maatregelen rollen/ethicus no-rol no-levenscyclus no-search no-onderwerp -->
 
 !!! info "Disclaimer"
 

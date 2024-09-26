@@ -2,7 +2,7 @@
 title: Garantie in conceptovereenkomst dat auteursrechten niet worden geschonden met de trainingsdata
 toelichting: Neem in de conceptovereenkomst op dat de aanbieder garandeert dat auteursrechten met de verwerkte of te verwerken trainingsdata niet zullen worden geschonden en deze dit gedurende de ontwikkeling en levensduur actief bewaakt. 
 vereiste:
-- auteursrechten
+- aut-01-auteursrechten
 levenscyclus:
 - ontwerp
 - monitoring-en-beheer
@@ -16,6 +16,7 @@ rollen:
 - contractbeheerder
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

@@ -1,8 +1,10 @@
 ---
 title: Vereisten
 summary: Overzicht van vereisten voor overheden die algoritmes of AI ontwikkelen of gebruiken.
+id: 0
 hide:
-- navigation
+  - navigation
+  - toc
 ---
 # Vereisten
 Overzicht van vereisten voor overheden die algoritmes of AI-systemen ontwikkelen of gebruiken. 
@@ -25,6 +27,7 @@ Welke vereisten gelden voor jouw organisatie, hangt af van:
 
 - de technologie die je gebruikt: rekenregels, machinelearning of generatieve AI
 - de risicoclassificatie van het algoritme dat je gebruikt
+- je rol: ben je ontwikkelaar of alleen gebruiker van het algoritme?
 
 ### Voorbeeld
 > Impactvolle algoritmes en AI-systemen worden gepubliceerd in het Nederlandse algoritmeregister.

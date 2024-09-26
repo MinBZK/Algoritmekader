@@ -1,5 +1,8 @@
 --- 
 title: Ontwerp
+hide:
+- navigation
+- toc
 ---
 
 In de ontwerpfase wordt het conceptuele ontwerp van het AI-systeem uitgedacht. 
@@ -23,11 +26,11 @@ Dit besluit betekent dat een akkoord wordt gegeven voor het type algoritme en de
 
 ## Vereisten
 
-<!-- list_vereisten levenscyclus/ontwerp -->
+<!-- list_vereisten levenscyclus/ontwerp no-rol no-levenscyclus no-search no-onderwerp -->
 
 ## Maatregelen
 
-<!-- list_maatregelen levenscyclus/ontwerp -->
+<!-- list_maatregelen levenscyclus/ontwerp no-rol no-levenscyclus no-search no-onderwerp -->
 
 
 !!! info "Disclaimer"

@@ -31,13 +31,13 @@ Dit betekent bijvoorbeeld ook dat gebruikers bewust moet worden gemaakt dat zij 
 
 ## Vereisten
 
-<!-- list_vereisten onderwerp/transparantie -->
+<!-- list_vereisten onderwerp/transparantie no-search no-onderwerp no-rol no-levenscyclus -->
 
 
 ## Maatregelen
 
-<!-- list_maatregelen onderwerp/transparantie -->
+<!-- list_maatregelen onderwerp/transparantie no-search no-onderwerp no-rol no-levenscyclus -->
 
 ## Instrumenten
 
-<!-- list_instrumenten onderwerp/transparantie -->
+<!-- list_instrumenten onderwerp/transparantie no-search no-onderwerp no-rol no-levenscyclus -->

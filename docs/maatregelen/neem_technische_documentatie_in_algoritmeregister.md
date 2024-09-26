@@ -4,7 +4,8 @@ title: Neem technische documentatie op in het algoritmeregister
 # geef hier een korte toelichting van deze maatregel
 toelichting: Neem geschikte informatie uit technische documentatie op in het algoritmeregister
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
-vereiste: algoritmeregister
+vereiste: 
+- bzk-01-algoritmeregister
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 
 - ontwikkelen
@@ -22,6 +23,7 @@ rollen:
 - beleidsmedewerker
 hide:
 - navigation
+- toc
 ---
 
 <!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->

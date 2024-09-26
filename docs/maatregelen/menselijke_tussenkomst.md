@@ -2,11 +2,11 @@
 title: Richt (technische) controlemechanismen in voor menselijk tussenkomst waarmee de output van een algoritme of AI-systeem kan worden gecontroleerd.
 toelichting: Als algoritmes of AI-systemen worden ingezet om te ondersteunen bij het nemen van beslissingen en besluiten door overheidsorganisaties, kan het noodzakelijk zijn om menselijke tussenkomst in te richten om foutieve output te signaleren en te corrigeren. 
 vereiste:
-- recht_op_niet_geautomatiseerd_besluitvorming
-- fundamentele_rechten
-- gebruiksverantwoordelijken_monitoren_werking_ hoog_risico_AI-systeem
-- zorgvuldigheidsbeginsel
-- toezichtmogelijkheden_voor_gebruikers
+- avg-10-recht-op-niet-geautomatiseerde-besluitvorming
+- grw-01-fundamentele-rechten
+- aia-24-gebruiksverantwoordelijken-monitoren-werking
+- awb-01-zorgvuldigheidsbeginsel
+- aia-09-menselijk-toezicht
   
 levenscyclus:
 - ontwerp
@@ -23,6 +23,7 @@ rollen:
 - aanbieder
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

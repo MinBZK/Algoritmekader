@@ -2,7 +2,7 @@
 title: Voer een risico-analyse met de leverancier uit op het gebied van informatiebeveiliging bij een uitbestedingstraject
 toelichting: Het is van belang dat een risico-analyse op het gebied van informatiebeveiliging wordt uitgevoerd met een aanbieder van algoritmes of AI-systemen in het geval van een uitbestedingstraject.
 vereiste:
-- beveiliging_informatie_en_informatiesystemen
+- bio-01-beveiliging-informatie-en-informatiesystemen
 levenscyclus:
 - ontwerp
 - ontwikkelen
@@ -24,6 +24,7 @@ rollen:
 - behoeftesteller
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

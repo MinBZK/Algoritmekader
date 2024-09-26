@@ -2,7 +2,7 @@
 title: Menselijke tussenkomst is een vast onderdeel in een projecptlan of een déchargedocument
 toelichting: Neem het element van menselijke tussenkomst op in het projectplan en dchargedocument.
 vereiste:
-- recht_op_niet_geautomatiseerd_besluitvorming
+- avg-10-recht-op-niet-geautomatiseerde-besluitvorming
 levenscyclus:
 - probleemanalyse
 - ontwikkelen
@@ -16,6 +16,7 @@ rollen:
 - inkoopadviseur
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

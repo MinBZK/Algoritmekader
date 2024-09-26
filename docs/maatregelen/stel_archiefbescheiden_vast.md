@@ -5,7 +5,7 @@ title: Stel archiefbescheiden vast
 toelichting: Stel vast welke documenten, data of informatie van het algoritme of het AI-systeem gelden als archiefbescheiden.
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
-- archiefwet
+- arc-01-archiefwet
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 
 - ontwerp
@@ -15,6 +15,7 @@ onderwerp:
 - publieke-inkoop
 hide:
 - navigation
+- toc
 ---
 
 <!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->

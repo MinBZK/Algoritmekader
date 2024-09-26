@@ -2,8 +2,8 @@
 title: Vaststellen bewaartermijnen voor archiefbescheiden
 toelichting: Stel de bewaartermijnen vast voor de archiefbescheiden. 
 vereiste:
-- archiefwet
-- bewaartermijn_voor_documentatie
+- arc-01-archiefwet
+- aia-12-bewaartermijn-voor-documentatie
 levenscyclus:
 - ontwerp
 - ontwikkelen
@@ -15,6 +15,7 @@ rollen:
 - archiefdeskundige
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

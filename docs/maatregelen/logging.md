@@ -2,9 +2,9 @@
 title: Zorg ervoor dat logbestanden worden gecreëerd waarin informatie wordt geregistreerd over gebruikersactiviteiten, uitzonderingen en informatiebeveiligingsgebeurtenissen
 toelichting: Door goede logging is te achterhalen wanneer en door wie er (ongewenste) aanpassingen zijn gedaan (audit trail).
 vereiste:
-- beveiliging_informatie_en_informatiesystemen
-- automatische_logregistratie
-- bewaartermijn_voor_gegenereerde_logs
+- bio-01-beveiliging-informatie-en-informatiesystemen
+- aia-07-automatische-logregistratie
+- aia-13-bewaartermijn-voor-gegenereerde-logs
 levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
@@ -24,6 +24,7 @@ rollen:
 - archiefdeskundige
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

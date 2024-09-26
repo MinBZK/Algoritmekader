@@ -2,7 +2,8 @@
 title: Kwetsbare groepen in kaart brengen en beschermen
 toelichting: Bepaal wat de impact van het in te zetten algoritme is voor betrokkenen (personen of groepen). Bepaal vervolgens of de er groepen zijn waarbij de impact van het algoritme dermate groot kan zijn, dat het wenselijk is om deze groepen extra bescherming te bieden.
 vereiste:
-- tbd
+- grw-01-fundamentele-rechten
+- aia-04-risicobeoordeling-voor-jongeren-en-kwetsbaren
 levenscyclus:
 - ontwerp
 onderwerp:
@@ -13,6 +14,7 @@ rollen:
 - ethicus
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->
@@ -45,7 +47,7 @@ De impact van het algoritme op de besluitvorming en op personen, doelgroepen en/
 ## Bronnen
 | Bron                                                                                                                                                  |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Onderzoekskader Algoritmes Auditdienst Rijk, SV.4](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) |
+| [Onderzoekskader Algoritmes Auditdienst Rijk, SV.4, DM.16](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) |
 | [Kamerstukken II 2023/24, 31066-1374](https://www.tweedekamer.nl/downloads/document?id=2024D15214)                                                    |
 | [Impact Assessment Mensenrechten en Algoritmes, 4.1](https://open.overheid.nl/documenten/ronl-c3d7fe94-9c62-493f-b858-f56b5e246a94/pdf)               |
 | [Handreiking non-discriminatie by design, 1.7 en 1.8 en 1.15](https://open.overheid.nl/documenten/ronl-3f9fa69c-acf4-444d-96e1-5c48df00eb3c/pdf)                          |

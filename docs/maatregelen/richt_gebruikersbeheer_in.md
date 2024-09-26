@@ -2,14 +2,9 @@
 title: Richt gebruikersbeheer in
 toelichting: Richt gebruikersbeheer in, waarmee bepaald wordt wie toegang heeft tot wat.
 vereiste:
-- beveiliging_informatie_en_informatiesystemen
+- bio-01-beveiliging-informatie-en-informatiesystemen
 levenscyclus:
-- ontwerp
-- dataverkenning-en-datapreparatie
-- dataverkenning-en-datapreparatie
-- ontwikkelen
-- implementatie
-- monitoring-en-beheer
+- organisatieverantwoordelijkheden
 onderwerp:
 - technische-robuustheid-en-veiligheid
 - governance
@@ -21,6 +16,7 @@ rollen:
 - security-officer
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

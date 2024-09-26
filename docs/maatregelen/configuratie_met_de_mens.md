@@ -7,7 +7,8 @@ toelichting: Zorg voor complementariteit tussen algoritmische systeem en de mens
 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste:
-- non_discriminatie
+- grw-02-non_discriminatie
+- aia-09-menselijk-toezicht
 
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 
@@ -19,6 +20,7 @@ onderwerp:
 - menselijke-controle
 hide:
 - navigation
+- toc
 ---
 
 <!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->

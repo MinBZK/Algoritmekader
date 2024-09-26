@@ -37,4 +37,4 @@ Dit kan leiden tot inefficiëntie, fouten, en mogelijk schade aan organisaties, 
 
 ## Maatregelen 
 
-<!-- list_maatregelen vereiste/aia-01-ai-geletterdheid no-search no-onderwerp no-rol no-levenscyclus-->
+<!-- list_maatregelen vereiste/aia-01-ai-geletterdheid no-search no-onderwerp no-rol no-levenscyclus -->

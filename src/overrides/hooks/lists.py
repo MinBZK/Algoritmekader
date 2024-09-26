@@ -11,7 +11,7 @@ import json
 def _create_chip(item: str, chip_type: str, current_file: File, config: MkDocsConfig) -> str:
     if not item:
         return ""
-
+      
     # Initialize icon and color
     icon_svg, color_class = "", ""
     

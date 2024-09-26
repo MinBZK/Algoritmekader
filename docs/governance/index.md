@@ -21,7 +21,7 @@ Bewustzijn bij bestuur en organisatie is daarvoor een belangrijk vertrekpunt.
 ### Verschillende niveau's van governance
 Algoritmegovernance bestaat op verschillende niveaus: van (inter)nationaal niveau, naar organisatieniveau naar het niveau van het AI-systeem (zie figuur hieronder). 
 
-In het Algoritmekader wordt gefocust op de twee niveaus: 
+Het Algoritmekader focust op de twee niveaus: 
 - Organisatie
 - Systeem/toepassing (lifecycle).
 

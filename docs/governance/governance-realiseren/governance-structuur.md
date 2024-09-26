@@ -18,7 +18,7 @@ Bij de gemeente Rotterdam zijn bijvoorbeeld de drie lijnen ingevuld via de volge
 De algoritmegovernance van de [Gemeente Rotterdam](https://rekenkamer.rotterdam.nl/wp-content/uploads/2024/05/RO2205-kleur-bekennen-vervolgonderzoek-algoritmes-rekenkamer-rotterdam.pdf) bestaat uit de volgende onderdelen: 
 
 1. een visie op de inzet van algoritmes;
-2. instrumentarium voor risicobeheersing dat onder andere bestaat uit een risico-assessment (ARA) en een mensenrechtenassessment (AIMA/IAMA); 
+2. instrumentarium voor risicobeheersing dat onder andere bestaat uit een risico-assessment en een mensenrechtenassessment; 
 3. een uiteenzetting van rollen en verantwoordelijkheden en; 
 4. een omschrijving van de verantwoordelijkheden voor controle en advies.
 

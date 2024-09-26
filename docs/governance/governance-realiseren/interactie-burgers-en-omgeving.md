@@ -11,7 +11,7 @@ Bij het vormgeven van de algoritme en AI governance is het van belang om na te d
 - Zie ter inspiratie [Citizen Participation Methods for Artificial Intelligence](https://openresearch.amsterdam/en/page/110361/citizen-participation-methods-for-artificial-intelligence)
 
 
-## Bronnen
+## Relevante documenten
 - [Citizen Participation Methods for Artificial Intelligence](https://openresearch.amsterdam/en/page/110361/citizen-participation-methods-for-artificial-intelligence)
 - [Framework for Meaningfull Engagement](https://ecnl.org/sites/default/files/2023-03/Final%20Version%20FME%20with%20Copyright%20%282%29.pdf) 
 

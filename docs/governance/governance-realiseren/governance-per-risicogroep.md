@@ -2,7 +2,7 @@
 title: Governance en risio classificatie
 ---
 
-Er is verschil in de vereisten en maatregelen die nodig zijn afhankelijk van het type risico en impact van algoritmen. Meer risicovolle AI vraagt om meer uitgebreide processen, en dus een meer uitgebreide governance in de zin dat de processen die doorlopen moeten worden uitgebreider zijn. Bijvoorbeeld vereisten toetsen die alleen gelden voor generatieve AI  bij simpele beslisregels maken de processen onnodig complex en zwaar.
+Er is verschil in de vereisten en maatregelen die nodig zijn afhankelijk van het type risico en impact van algoritmen. Meer risicovolle AI vraagt om meer uitgebreide processen, en dus een meer uitgebreide governance in de zin dat de processen die doorlopen moeten worden uitgebreider zijn. Bijvoorbeeld vereisten toetsen die alleen gelden voor generatieve AI en bij simpele beslisregels maken de processen niet onnodig complex en zwaar maken.
 
 Afgeleid van de term "minimum viable product" wordt de processen van compliance doen aansluiten op wat nodig is ook wel "minimum viable compliance" genoemd.
 

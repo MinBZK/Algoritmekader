@@ -79,10 +79,10 @@ Maak een uitwijkplan voor incidenten. Het doel van dit plan is ervoor zorgen dat
 
 ## Bronnen
 
-- Natalia Díaz-Rodríguez et al, 2023, Connecting the dots in trustworthy Artificial Intelligence: From AI principles, ethics, and key requirements to responsible AI systems and regulation, Information Fusion 99, https://doi.org/10.1016/j.inffus.2023.101896.
-- Andrea Tocchetti, Lorenzo Corti, Agathe Balayn, Mireia Yurrita, Philip Lippmann, Marco Brambilla, and Jie Yang. 2022. A.I. Robustness: a Human-Centered Perspective on Technological Challenges and Opportunities. In . ACM, New York, NY, USA, 35 pages ACM_survey23.pdf (agathe-balayn.github.io)
+- Natalia Díaz-Rodríguez et al, 2023, [Connecting the dots in trustworthy Artificial Intelligence: From AI principles, ethics, and key requirements to responsible AI systems and regulation](https://doi.org/10.1016/j.inffus.2023.101896), Information Fusion 99.
+- Andrea Tocchetti, Lorenzo Corti, Agathe Balayn, Mireia Yurrita, Philip Lippmann, Marco Brambilla, and Jie Yang. 2022. [A.I. Robustness: a Human-Centered Perspective on Technological Challenges and Opportunities](https://agathe-balayn.github.io/assets/pdf/ACM_survey23.pdf). In ACM, New York, NY, USA
 - Ronan Hamon, Henrik Junklewitz, Ignacio Sanchez, 2020, Robustness and Explainability of Artificial Intelligence: from technical to policy solutions, JRC Technical Report, EUR 30040 EN
-- Bhanu Chander, Chinju John, Lekha Warrier, Gopalakrishnan Kumaravelan, 2024, Toward Trustworthy AI in the Context of Explainability and Robustness, ACM Computing Surveys, http://dx.doi.org/ 10.1145/3675392 
+- Bhanu Chander, Chinju John, Lekha Warrier, Gopalakrishnan Kumaravelan, 2024, [Toward Trustworthy AI in the Context of Explainability and Robustness](http://dx.doi.org/10.1145/3675392 ), ACM Computing Surveys
 - Niels Brink, Yori Kamphuis, Yuri Maas, Gwen Jansen-Ferdinandus, Jip van Stijn, Bram Poppink, Puck de Haan, Irina Chiscop, 2023, Adversarial AI in de cyber domain, TNO-2023-R10292-EN
 
 ## Help ons deze pagina te verbeteren

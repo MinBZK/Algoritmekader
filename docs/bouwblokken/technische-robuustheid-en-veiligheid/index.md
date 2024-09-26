@@ -1,38 +1,73 @@
 ---
 title: Technische robuustheid en veiligheid
-summary: Hier staat een korte samenvatting over dit onderwerp
+summary: 
 icon: material/cog
 ---
 
-![technische-robuustheid-en-veiligheid](../../afbeeldingen/bouwblokken/technische-robuustheid-en-veiligheid.jpg "visuele weergave technische robuustheid en veiligheid"){align="right"; width="50%"}
+# Technische robuustheid en veiligheid
+Algoritmes van de overheid moeten robuust en veilig zijn. Dit betekent dat je algoritmes in elke situatie goed moeten presteren. Ook als er iets onverwachts gebeurt. En er moet een plan zijn voor als er toch iets misgaat.
 
-Wanneer algoritmes of AI-systemen worden gebruikt om publieke taken uit te voeren, dient het onderliggende systeem voldoende robuust en veilig te zijn.  
+## Wat is technisch robuust en veilig?
+Een technisch robuust en veilig algoritme presteert onder elke omstandigheid zoals het bedoeld is. 
+Een robuust algoritme is:
 
-### Technische robuustheid 
-De technische robuustheid van een algoritme of AI-systeem beschrijft het vermogen om het gewenste prestatieniveau onder alle omstandigheden te handhaven [^1]. 
-Dit betekent dat algoritmes en AI-systemen vergelijkbaar moeten presteren ondanks externe of zware veranderingen in de omgeving. 
-Robuustheid kan daarnaast ook duiden op eigenschappen als veerkracht, betrouwbaarheid en nauwkeurigheid van het systeem.
+- Nauwkeurig: Het geeft de juiste uitkomst voor het gewenste doel, maar kan ook aangeven wanneer het daar niet zeker over is.
+- Betrouwbaar: Het geeft de juiste uitkomst in nieuwe of onverwachte situaties.
+- Reproduceerbaar: Het vertoont hetzelfde gedrag in dezelfde situaties.
 
-Wanneer het algoritme of het AI-systeem niet voldoet aan de eisen wat betreft robuustheid, nauwkeurigheid of de prestaties van het systeem, voordat het systeem in gebruik is genomen kan het systeem onbedoelde schade aanrichten voor betrokkenen, bijvoorbeeld door negatieve impact op grondrechten wanneer resultaten onjuist of niet worden gegenereerd of geïnterpreteerd. 
+Algoritmes zijn veilig onder deze omstandigheden:
 
-Er moeten technische en organisatorische maatregelen getroffen worden om de robuustheid van algoritmes en AI-systemen te waarborgen. 
-Dit kunnen bijvoorbeeld maatregelen zijn bestaande uit vooraf bepaalde mechanismen die het systeem in staat stellen om de werking veilig te onderbreken wanneer daar redenen voor zijn of wanneer de prestaties van het algoritme buiten vooraf bepaalde grenzen treedt.  
+- Alleen geautoriseerde personen en systemen kunnen het algoritme gebruiken.
+- Het algoritme is op elk moment beschikbaar voor de werking waarvoor het bedoeld is. Is het algoritme toch beperkt beschikbaar, dan is de mogelijke schade hiervan te overzien.
 
-### Veiligheid 
-Naast robuustheid dient het onderliggende systeem ook voldoende beveiligd te zijn, zodat het systeem weerbaar is tegen pogingen het systeem te wijzigen en onrechtmatig gebruik door derden, en die onbedoelde schade tot een minimum beperkt. 
-Om te zorgen voor een passend niveau van cyberbeveiliging die aansluit op de risico's van het systeem, dienen er passende maatregelen zoals veiligheidscontroles genomen te worden. 
-Daarbij dient er rekening te worden gehouden met de onderliggende ICT-infrastructuur.  
+## Belang van robuuste, veilige algoritmes
+Algoritmes kunnen grote schade veroorzaken aan de maatschappij. Met een technisch robuust en goed beveiligd algoritme voorkom je:
 
-In dit bouwblok van het algoritmekader werken we uit aan welke vereisten er voldaan moet worden om de technische robuustheid en veiligheid te waarborgen. 
-Dit wordt aangevuld met praktische maatregelen en instrumenten die gebruikt en toegepast kunnen worden om invulling te geven aan deze vereisten.  
+- onverwachte schadelijke fouten, zoals verkeerde beslissingen door onvoldoende nauwkeurigheid, discriminatie of het uitvallen het systeem
+- lekken van informatie, zoals persoonsgegevens
+- gebruik van het algoritme voor verkeerde doeleinden
+- schade door misbruik of aanvallen van buitenaf
 
-[^1]: Zie [NEN-EN-ISO/IEC 22989:2023 en](https://www.nen.nl/nen-en-iso-iec-22989-2023-en-312642) [^2] 
-[^2]: Hoewel het gebruik van de NEN-ISO-normen in het Algoritmekader auteursrechtelijk is beschermd, heeft het Nederlands Normalisatie Instituut (NEN) voor het gebruik in het Algoritmekader toestemming verleend. Zie [nen.nl](https://www.nen.nl/) voor meer informatie over NEN en het gebruik van hun producten. 
+## Gebruik het algoritme waarvoor het bedoeld is
+Gebruik het algoritme alleen op de manier zoals het bedoeld is. Dit is de manier die is getest en gecontroleerd. Wanneer het algoritme voor een ander doel wordt gebruikt of in een verkeerde context wordt gebruikt, zijn de resultaten niet meer betrouwbaar. 
 
-!!! info "Opmerking"
+Voorkom dat medewerkers op de verkeerde manier werken met het algoritme. Zij moeten weten wat het algoritme wel en niet kan. En wat ze moeten doen als het algoritme fouten maakt of niet goed werkt. Denk aan technische als organisatorische ondersteuning:
 
-    Dit bouwblok moet nog ontwikkeld worden. Deze pagina is dus nog niet volledig. Op deze pagina vind je mogelijk wel al onderdelen waar we aandacht aan willen besteden in dit bouwblok. 
+- Leid medewerkers op.
+- Zorg voor duidelijke processen (governance), zodat gebruikers weten wat de beperkingen zijn en weten wat ze kunnen doen als het algoritme niet werkt zoals bedoeld.
+- Zorg voor technische interventies in het ontwerp en interactie met de gebruiker, die gebruikers sturen in het juiste gebruik.
 
+## Controleer regelmatig
+Begin zo vroeg mogelijk met het testen en controleren van de gegevens die je gebruikt en de verwachte en werkelijke uitkomsten. In de praktijk verandert de omgeving en de situatie waarin het algoritme wordt gebruikt. Controleer daarom regelmatig of het algoritme de verwachte output geeft:
+
+- Nauwkeurig: Het geeft de juiste uitkomst voor het gewenste doel, maar kan ook aangeven wanneer het daar niet zeker over is.
+- Betrouwbaar: Het geeft de juiste uitkomst in nieuwe of onverwachte situaties.
+- Reproduceerbaar: Het vertoont hetzelfde gedrag in dezelfde situaties.
+
+Ontwikkel je zelf het algoritme, controleer dan tijdens de ontwikkeling al wat er gebeurt bij verwachte variaties. Zorg bijvoorbeeld dat je bent voorbereid op nieuwe combinaties van de inputdata. Gebruik verschillende test-sets en zorg voor goede monitoring van de gebruikte data, zodat veranderingen in de data snel gesignaleerd worden. 
+
+In de eerste fases [probleemanalyse](/levenscyclus/probleemanalyse/), [ontwerp](/levenscyclus/ontwerp/) en [dataverkenning en datapreparatie](/levenscyclus/dataverkenning-en-datapreparatie/) focus je op een goede voorbereiding. Verken de context waarin het algoritme gebruikt wordt, identificeer de risico’s, concretiseer waarop het algoritme geëvalueerd moet worden, analyseer de data, en ontwerp preventieve maatregelen en evaluatiemethoden. 
+
+Vervolgens voer je dit uit in de [ontwikkelfase](/levenscyclus/ontwikkelen/) en de [verificatie- en validatiefase](/levenscyclus/verificatie-en-validatie/). Zorg dat het algoritme goed getest wordt en evalueer het algoritme op de drie aspecten van robuustheid. Waar nodig verbeter je het algoritme. Zorg dat je een uitwijkplan hebt, zodat je weet wat je moet doen als blijkt dat het algoritme niet meer werkt zoals beoogd.
+
+Is het algoritme in gebruik ([implementatie](/levenscyclus/implementatie/) en [monitoring en beheer](/levenscyclus/monitoring-en-beheer/)), dan blijf je regelmatig controleren. Presteert het algoritme niet goed, los het probleem dan op of [stop het gebruik](/levenscyclus/uitfaseren/). 
+
+### Voorbeelden
+Een algoritme leest kentekens tijdens parkeercontroles. Het herkent de juiste letters en cijfers op elk kenteken. Ook als het bord een andere kleur heeft, op een andere plek zit of vies is. Het algoritme is nauwkeurig en dus robuust.
+Een algoritme berekent het risico op fraude door mensen. Maar bij personen uit dezelfde groep geeft het algoritme de ene keer als uitkomst ‘hoog risico’ en de andere keer ‘geen risico’. De uitkomst is niet reproduceerbaar. Hierdoor is het algoritme niet robuust.
+
+> [!Tip]
+Houd rekening met concept drift. Dit betekent dat de eigenschappen van je data in de loop van de tijd kunnen veranderen. Hierdoor trekt je algoritme mogelijk verkeerde conclusies. Zo was er vóór 2020 een verband tussen thuiswerken en ziek zijn. Maar sinds de coronacrisis in 2020 is dit verband minder sterk, omdat gezonde mensen vaker thuiswerken. 
+
+## Bescherm algoritmes tegen aanvallen en bedreigingen
+Beveilig het ICT-systeem waarin het algoritme wordt gebruikt. Dit zijn bijvoorbeeld maatregelen uit de Baseline Informatiebeveiliging Overheid (BIO) die je standaard neemt voor beveiliging van ICT-systemen tegen cyberaanvallen.
+
+Begin zo vroeg mogelijk met beveiligen. Beveilig in elk geval in de fases [ontwikkelen](/levenscyclus/ontwikkelen/), [verificatie en validatie](/levenscyclus/verificatie-en-validatie/), [implementatie](/levenscyclus/implementatie/), [monitoring en beheer](/levenscyclus/monitoring-en-beheer/) en [uitfaseren](/levenscyclus/uitfaseren/).
+
+## Verklein de kans op schade
+Veroorzaak zo min mogelijk schade als het toch fout gaat. 
+
+Maak een uitwijkplan voor incidenten. Het doel van dit plan is ervoor zorgen dat de fout zo min mogelijk gevolgen heeft voor de organisatie en de maatschappij. In het plan staat bijvoorbeeld wie wat moet doen als het systeem uitvalt.
 
 ## Vereisten
 
@@ -41,3 +76,14 @@ Dit wordt aangevuld met praktische maatregelen en instrumenten die gebruikt en t
 ## Maatregelen
 
 <!-- list_maatregelen bouwblok/technische-robuustheid-en-veiligheid -->
+
+## Bronnen
+
+- Natalia Díaz-Rodríguez et al, 2023, Connecting the dots in trustworthy Artificial Intelligence: From AI principles, ethics, and key requirements to responsible AI systems and regulation, Information Fusion 99, https://doi.org/10.1016/j.inffus.2023.101896.
+- Andrea Tocchetti, Lorenzo Corti, Agathe Balayn, Mireia Yurrita, Philip Lippmann, Marco Brambilla, and Jie Yang. 2022. A.I. Robustness: a Human-Centered Perspective on Technological Challenges and Opportunities. In . ACM, New York, NY, USA, 35 pages ACM_survey23.pdf (agathe-balayn.github.io)
+- Ronan Hamon, Henrik Junklewitz, Ignacio Sanchez, 2020, Robustness and Explainability of Artificial Intelligence: from technical to policy solutions, JRC Technical Report, EUR 30040 EN
+- Bhanu Chander, Chinju John, Lekha Warrier, Gopalakrishnan Kumaravelan, 2024, Toward Trustworthy AI in the Context of Explainability and Robustness, ACM Computing Surveys, http://dx.doi.org/ 10.1145/3675392 
+- Niels Brink, Yori Kamphuis, Yuri Maas, Gwen Jansen-Ferdinandus, Jip van Stijn, Bram Poppink, Puck de Haan, Irina Chiscop, 2023, Adversarial AI in de cyber domain, TNO-2023-R10292-EN
+
+## Help ons deze pagina te verbeteren
+Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/bouwblokken/technische-robuustheid-en-veiligheid/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

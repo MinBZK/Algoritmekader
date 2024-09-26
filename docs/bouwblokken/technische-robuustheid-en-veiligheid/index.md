@@ -62,7 +62,7 @@ Houd rekening met 'concept drift'. Dit betekent dat de eigenschappen van je data
 ## Bescherm algoritmes tegen aanvallen en bedreigingen
 Beveilig het ICT-systeem waarin het algoritme wordt gebruikt. Dit zijn bijvoorbeeld maatregelen uit de Baseline Informatiebeveiliging Overheid (BIO) die je standaard neemt voor beveiliging van ICT-systemen tegen cyberaanvallen.
 
-Begin zo vroeg mogelijk met beveiligen. Beveilig in elk geval in de fases [ontwikkelen](/levenscyclus/ontwikkelen/), [verificatie en validatie](/levenscyclus/verificatie-en-validatie/), [implementatie](/levenscyclus/implementatie/), [monitoring en beheer](/levenscyclus/monitoring-en-beheer/) en [uitfaseren](/levenscyclus/uitfaseren/).
+Begin zo vroeg mogelijk met beveiligen. Beveilig in elk geval in de fases [ontwikkelen](../../levenscyclus/ontwikkelen.md), [verificatie en validatie](../../levenscyclus/verificatie-en-validatie.md), [implementatie](../../levenscyclus/implementatie.md), [monitoring en beheer](../../levenscyclus/monitoring-en-beheer.md) en [uitfaseren](../../levenscyclus/uitfaseren.md).
 
 ## Verklein de kans op schade
 Veroorzaak zo min mogelijk schade als het toch fout gaat. 

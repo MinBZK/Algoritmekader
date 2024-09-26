@@ -2,7 +2,7 @@
 title: Volwassenheidsniveau
 ---
 
-Om tot een passende AI-governance voor een organisatie te komen, moet eerst worden vastgesteld wat op dit moment al is ingericht op het gebied van AI en algoritmes. 
+Om tot een passende algoritmegovernance voor een organisatie te komen, moet eerst worden vastgesteld wat op dit moment al is ingericht op het gebied van AI en algoritmes. 
 Dit wordt het bepalen van het zogenaamde 'volwassenheidsniveau' genoemd. 
 Op basis hiervan kunnen vervolgstappen worden gedefinieerd waar een organisatie aan kan gaan werken om zich naar de volgende niveaus voor algoritmegovernance door te ontwikkelen. 
 

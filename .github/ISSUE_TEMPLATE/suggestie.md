@@ -1,5 +1,5 @@
 ---
-name: Ik heb een suggestie voor het Algoritmekader
+name: Suggestie voor het Algoritmekader
 about: Help ons het Algoritmekader te verbeteren
 title: ''
 labels: ''

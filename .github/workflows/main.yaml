@@ -1,32 +1,22 @@
 name: Publish mkdocs via GitHub Pages
 on:
   push:
-    branches:
-      - main
+    tags:
+      - v*
 
 jobs:
   deploy-main:
     name: deploy main
     runs-on: ubuntu-latest
     steps:
-      - name: get latest release with tag
-        id: latestrelease
-        run: |
-          echo "::set-output name=releasetag::$(curl -s https://api.github.com/repos/MinBZK/Algoritmekader/releases/latest | jq '.tag_name' | sed 's/\"//g')"
-
-      - name: confirm release tag
-        run: |
-          echo ${{ steps.latestrelease.outputs.releasetag }}
-
-      - uses: actions/checkout@v4
-        with:
-          ref: ${{ steps.latestrelease.outputs.releasetag }}
 
       - uses: actions/setup-python@v5
         with:
           python-version: 3.x
           cache: 'pip'
-        
+
+      - uses: actions/checkout@v4
+      
       - run: pip install -r requirements.txt
 
       - run: mkdocs gh-deploy --force

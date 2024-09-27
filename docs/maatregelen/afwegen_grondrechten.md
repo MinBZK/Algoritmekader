@@ -4,8 +4,8 @@ title: Afwegen grondrechten
 # geef hier een korte toelichting van deze maatregel
 toelichting: Afwegen grondrechten
 vereiste:
-- fundamentele_rechten
-- beoordelen_gevolgen_voor_grondrechten
+- grw-01-fundamentele-rechten
+- aia-29-beoordelen-gevolgen-grondrechten
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus:
 - probleemanalyse
@@ -28,7 +28,7 @@ Identificeer welke grondrechten geraakt worden door het in te zetten algoritme e
 
 ## Toelichting 
 <!-- Geef hier een toelichting van deze maatregel -->
-Een algoritme kan invloed hebben op grondrechten. Op een aantal grondrechten kan een algoritme sneller invloed hebben, zoals recht op [persoonsgegevensbescherming](onderwerpen/privacy-en-gegevensbescherming/index.md), recht op behoorlijk bestuur en recht op [gelijke behandeling](onderwerpen/bias-en-non-discriminatie/index.md).
+Een algoritme kan invloed hebben op grondrechten. Op een aantal grondrechten kan een algoritme sneller invloed hebben, zoals recht op [persoonsgegevensbescherming](../onderwerpen/privacy-en-gegevensbescherming/index.md), recht op behoorlijk bestuur en recht op [gelijke behandeling](../onderwerpen/bias-en-non-discriminatie/index.md).
 Deze veelvoorkomende grondrechten krijgen op andere plekken in het Algoritmekader specifieke aandacht. 
 Er zijn echter ook grondrechten die bij minder algoritmen relevant zijn, maar desalniettemin in die gevallen zeer invloedrijk kunnen zijn. 
 Het is van belang uiteindelijk een totale afweging te maken van alle grondrechten die (mogelijk) geraakt worden ten opzichte van de voordelen van het in te zetten algoritme. 
@@ -40,15 +40,15 @@ Doorloop in lijn met Deel 4 van het [Impact Assessment Mensenrechten en Algoritm
 2. Als dat het geval is, is het allereerst van belang om te controleren of hiervoor specifieke wetgeving is waar de inzet van het algoritme aan moet voldoen.
 3. Bepaal hoe zwaar de geindentificeerde grondrechten worden geraakt door het beoogde algoritme.
 4. Bepaal hoe [doeltreffend/effectief](functioneren_in_lijn_met_doeleinden.md) het algoritme in de praktijk is.
-5. Bepaal of de inzet van het algoritme noodzakelijk is om het [beoogde doel](formuleer_doelstelling.md) te bereiken. Zijn er alternatieven? Of zijn er mitigerende maatregelen die genomen kunnen worden waardoor grondrechten niet of minder worden geraakt en eventuele nadelige gevolgen verzacht kunnen worden?
-6. Gegeven alle voorgaande stappen, bepaal of de inzet van het algoritme en proportioneel is om het [beoogde doel](formuleer_doelstelling.md) te bereiken. Wegen de voordelen op tegen de nadelen?
+5. Bepaal of de inzet van het algoritme noodzakelijk is om het [beoogde doel](formuleren_doelstelling.md) te bereiken. Zijn er alternatieven? Of zijn er mitigerende maatregelen die genomen kunnen worden waardoor grondrechten niet of minder worden geraakt en eventuele nadelige gevolgen verzacht kunnen worden?
+6. Gegeven alle voorgaande stappen, bepaal of de inzet van het algoritme en proportioneel is om het [beoogde doel](formuleren_doelstelling.md) te bereiken. Wegen de voordelen op tegen de nadelen?
 
 Het is van belang voldoende [belanghebbenden te betrekken](betrek_belanghebbenden.md) bij het doorlopen van deze stappen om te zorgen dat alle eventueel nadelige aspecten van het in te zetten algoritme worden meegenomen. 
 Documenteer de doorlopen stappen en leg de keuzes en afwegingen goed vast. 
 
 !!! note "Opmerking"
 
-    Zoals vermeld in de [vereiste voor beoordeling van gevolgen voor grondrechten uit de AI-verordening](../vereisten/beoordelen_gevolgen_voor_grondrechten.md) moeten sommige hoog-risico AI-systemen een beoordeling doen van de gevolgen voor grondrechten. Het is nog niet bekend welke vorm dit precies moet hebben.
+    Zoals vermeld in de [vereiste voor beoordeling van gevolgen voor grondrechten uit de AI-verordening](../vereisten/aia-29-beoordelen-gevolgen-grondrechten.md) moeten sommige hoog-risico AI-systemen een beoordeling doen van de gevolgen voor grondrechten. Het is nog niet bekend welke vorm dit precies moet hebben.
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

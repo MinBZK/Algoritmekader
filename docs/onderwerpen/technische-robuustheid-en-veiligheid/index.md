@@ -46,7 +46,7 @@ Begin zo vroeg mogelijk met het testen en controleren van de gegevens die je geb
 
 Ontwikkel je zelf het algoritme, controleer dan tijdens de ontwikkeling al wat er gebeurt bij verwachte variaties. Zorg bijvoorbeeld dat je bent voorbereid op nieuwe combinaties van de inputdata. Gebruik verschillende test-sets en zorg voor goede monitoring van de gebruikte data, zodat veranderingen in de data snel gesignaleerd worden. 
 
-In de eerste fases [probleemanalyse](../../levenscyclus/probleemanalyse.md), [ontwerp](/levenscyclus/ontwerp/) en [dataverkenning en datapreparatie](../../levenscyclus/dataverkenning-en-datapreparatie.md) focus je op een goede voorbereiding. Verken de context waarin het algoritme gebruikt wordt, identificeer de risico’s, concretiseer waarop het algoritme geëvalueerd moet worden, analyseer de data, en ontwerp preventieve maatregelen en evaluatiemethoden. 
+In de eerste fases [probleemanalyse](../../levenscyclus/probleemanalyse.md), [ontwerp](../../levenscyclus/ontwerp.md) en [dataverkenning en datapreparatie](../../levenscyclus/dataverkenning-en-datapreparatie.md) focus je op een goede voorbereiding. Verken de context waarin het algoritme gebruikt wordt, identificeer de risico’s, concretiseer waarop het algoritme geëvalueerd moet worden, analyseer de data, en ontwerp preventieve maatregelen en evaluatiemethoden. 
 
 Vervolgens voer je dit uit in de [ontwikkelfase](../../levenscyclus/ontwikkelen.md) en de [verificatie- en validatiefase](../../levenscyclus/verificatie-en-validatie.md). Zorg dat het algoritme goed getest wordt en evalueer het algoritme op de drie aspecten van robuustheid. Waar nodig verbeter je het algoritme. Zorg dat je een uitwijkplan hebt, zodat je weet wat je moet doen als blijkt dat het algoritme niet meer werkt zoals beoogd.
 
@@ -56,8 +56,9 @@ Is het algoritme in gebruik ([implementatie](../../levenscyclus/implementatie.md
 Een algoritme leest kentekens tijdens parkeercontroles. Het herkent de juiste letters en cijfers op elk kenteken. Ook als het bord een andere kleur heeft, op een andere plek zit of vies is. Het algoritme is nauwkeurig en dus robuust.
 Een algoritme berekent het risico op fraude door mensen. Maar bij personen uit dezelfde groep geeft het algoritme de ene keer als uitkomst ‘hoog risico’ en de andere keer ‘geen risico’. De uitkomst is niet reproduceerbaar. Hierdoor is het algoritme niet robuust.
 
-> [!Tip]
-Houd rekening met 'concept drift'. Dit betekent dat de eigenschappen van je data in de loop van de tijd kunnen veranderen. Hierdoor trekt je algoritme mogelijk verkeerde conclusies. Zo was er vóór 2020 een verband tussen thuiswerken en ziek zijn. Maar sinds de coronacrisis in 2020 is dit verband minder sterk, omdat gezonde mensen vaker thuiswerken. 
+!!! tip "Tip"
+
+    Houd rekening met 'concept drift'. Dit betekent dat de eigenschappen van je data in de loop van de tijd kunnen veranderen. Hierdoor trekt je algoritme mogelijk verkeerde conclusies. Zo was er vóór 2020 een verband tussen thuiswerken en ziek zijn. Maar sinds de coronacrisis in 2020 is dit verband minder sterk, omdat gezonde mensen vaker thuiswerken. 
 
 ## Bescherm algoritmes tegen aanvallen en bedreigingen
 Beveilig het ICT-systeem waarin het algoritme wordt gebruikt. Dit zijn bijvoorbeeld maatregelen uit de Baseline Informatiebeveiliging Overheid (BIO) die je standaard neemt voor beveiliging van ICT-systemen tegen cyberaanvallen.

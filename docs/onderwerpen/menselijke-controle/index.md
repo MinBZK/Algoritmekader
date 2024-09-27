@@ -18,7 +18,7 @@ Algoritmes kunnen schade veroorzaken in de maatschappij. Gebruik je een algoritm
 ### Ontwerp
 Tijdens het ontwerp van een algoritme of AI-systeem controleer je bijvoorbeeld of het algoritme of AI-systeem op de juiste manier ‘getraind’ wordt. Maakt het bijvoorbeeld gebruik van een goede dataset, zonder bias, die representatief is voor de samenleving? En je controleert of het algoritme bepaalde groepen niet benadeelt. 
 
-Voordat je een algoritme of AI-systeem gaat gebruiken, is het belangrijk om [het doel te bepalen](../../maatregelen/formuleren_doelstellling.md). 
+Voordat je een algoritme of AI-systeem gaat gebruiken, is het belangrijk om [het doel te bepalen](../../maatregelen/formuleren_doelstelling.md). 
 
 ### Gebruik
 Tijdens het gebruik van een algoritme of AI-systeem is menselijke controle belangrijk omdat de werking verandert in de loop der tijd:

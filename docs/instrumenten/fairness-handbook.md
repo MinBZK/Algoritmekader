@@ -16,7 +16,7 @@ vereiste:
 
 <!-- tags -->
 
-[Direct naar het Fairness Handbook]([https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design](https://openresearch.amsterdam/en/page/87589/the-fairness-handbook)){ .md-button }
+[Direct naar het Fairness Handbook](https://openresearch.amsterdam/en/page/87589/the-fairness-handbook){ .md-button }
 ## Instrument
 Informatie volgt
 
@@ -28,10 +28,7 @@ Informatie volgt
 <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
-
-| Bron                        |
-|-----------------------------|
-|[The Fairness Handbook]([https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design](https://openresearch.amsterdam/en/page/87589/the-fairness-handbook))|
+[The Fairness Handbook](https://openresearch.amsterdam/en/page/87589/the-fairness-handbook)
 
 ## Voorbeeld
 

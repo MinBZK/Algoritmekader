@@ -16,6 +16,7 @@ vereiste:
 <!-- tags -->
 
 [Direct naar de Handreiking non-discriminatie by design](https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design){ .md-button }
+
 ## Instrument
 
 Deze handreiking legt uit welke vragen en principes leidend zijn bij het ontwikkelen en implementeren van een AI-systeem met het oog op het discriminatieverbod, vanuit zowel juridisch, technisch, als organisatorisch perspectief.
@@ -35,7 +36,7 @@ Stuk over relevantie voor het AK volgt nog.
 Net als bij het [IAMA](IAMA.md), is dit document een manier om een multidisciplinaire discussie te faciliteren en stimuleren. Hierbij kunnen verschillende rollen betrokken worden door de projectleider: data-scientists, juristen, de functionaris gegevensbescherming (FG), aangevuld met domeinspecialisten.
 
 ## Wanneer toepassen?
-De handreiking is primair geschreven voor teams die zelf AI-systemen bouwen. Het gaat in op verschillende fases van ontwikkeling: [probleemanalyse](../levenscyclus/probleemanalyse.md), [dataverkenning en datapreparatie](../levenscyclus/dataverkenning-en-datapreparatie.md), [ontwikkeling](ontwikkelen.md), [implementatie](implementatie.md) en [evaluatie](verificatie-en-validatie.md).
+De handreiking is primair geschreven voor teams die zelf AI-systemen bouwen. Het gaat in op verschillende fases van ontwikkeling: [probleemanalyse](../levenscyclus/probleemanalyse.md), [dataverkenning en datapreparatie](../levenscyclus/dataverkenning-en-datapreparatie.md), [ontwikkeling](../levenscyclus/ontwikkelen.md), [implementatie](../levenscyclus/implementatie.md) en [evaluatie](../levenscyclus/verificatie-en-validatie.md).
 Daarnaast kan deze handreiking dienen voor opdrachtgevers van AI-systemen, ofwel om vooraf offrerende partijen te vragen aan te geven hoe zij rekening zullen houden met de diverse punten uit de handreiking, ofwel om tijdens het proces mee te kijken en op relevante punten aanwijzingen te geven, ofwel om achteraf te controleren of een opgeleverd product aan alle relevante voorwaarden voldoet. 
 
 ### Relatie tot IAMA

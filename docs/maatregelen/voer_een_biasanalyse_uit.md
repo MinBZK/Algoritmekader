@@ -2,9 +2,9 @@
 title: Voer een biasanalyse uit
 toelichting: Analyseer of het gebruik van het algoritme of het proces daaromheen leidt tot onwenselijke of onrechtmatige verschillen in de behandeling van individuen en/of groepen.  
 vereiste:
-- non_discriminatie
-- beoordelen_gevolgen_voor_grondrechten
-- fundamentele_rechten
+- grw-02-non-discriminatie
+- aia-29-beoordelen-gevolgen-grondrechten
+- grw-01-fundamentele-rechten
 levenscyclus:
 - ontwerp
 - verificatie-en-validatie
@@ -94,7 +94,7 @@ Er zijn veel verschillende manieren waarop je kan kijken naar onderscheid bij he
 3. **Verzamel de benodigde data die nodig is om bovenstaande groepen te bepalen.**
 Bepaal welke data benodigd is om te analyseren of er verschillen zijn tussen bepaalde groepen. 
 In veel gevallen zal data benodigd zijn die demografische en beschermde kenmerken van groepen omschrijft. 
-Het verzamelen en verwerken van deze data kan in strijd zijn met privacy vereisten uit bijvoorbeeld de [Algemene Verordening Gegevensbescherming](../vereisten/persoonsgegevens_worden_rechtmatig_verwerkt.md).
+Het verzamelen en verwerken van deze data kan in strijd zijn met privacy vereisten uit bijvoorbeeld de [Algemene Verordening Gegevensbescherming](../vereisten/avg-01-persoonsgegevens-worden-rechtmatig-verwerkt.md).
 Het is daarom van belang om duidelijk afwegingen te maken tussen privacy en het analyseren van bias die rekening houdt met de juridische en ethische vereisten.
 
     !!! info "Uitzondering voor hoog risico AI-systemen"

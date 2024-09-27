@@ -15,6 +15,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: get tag
+        id: get_commit_hash
+        run: |
+          echo "commit_hash=$(git describe --tags)" >> "$GITHUB_OUTPUT"
+
+      - name: inject version
+        run: |
+          sed -i 's/development/${{ steps.get_commit_hash.outputs.commit_hash }}/g' docs/version.md      
 
       - name: Add url
         run: |

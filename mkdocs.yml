@@ -133,4 +133,5 @@ hooks:
 
 # Link naar GitHub repo
 repo_url: https://github.com/MinBZK/Algoritmekader
+site_url: https://minbzk.github.io/Algoritmekader/
 edit_uri: edit/main/docs/

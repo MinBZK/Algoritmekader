@@ -1,6 +1,8 @@
 ---
 title: Handreiking non-discriminatie by design
 toelichting: Deze handreiking legt uit welke vragen en principes leidend zijn bij het ontwikkelen en implementeren van een AI-systeem met het oog op het discriminatieverbod, vanuit zowel juridisch, technisch, als organisatorisch perspectief.
+categorie: 
+- handreiking
 levenscyclus:
 - probleemanalyse
 - ontwerp

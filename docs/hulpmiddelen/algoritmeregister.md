@@ -1,6 +1,8 @@
 ---
 title: Algoritmeregister
 toelichting: Het Algoritmeregister is de plek waar overheden informatie over hun algoritmes kunnen publiceren.
+categorie: 
+- register
 vereiste:
 - algoritmeregister
 levenscyclus:

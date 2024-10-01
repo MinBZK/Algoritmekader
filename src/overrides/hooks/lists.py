@@ -58,6 +58,7 @@ def _create_table_row_2(file: File, filter_options: Dict[str, bool], current_fil
     onderwerpen = file.page.meta.get('onderwerp', [])
     vereiste = file.page.meta.get('vereiste', [])
     vereiste_id = file.page.meta.get('id', "")[14:] # remove the first part of the urn
+    categorie = file.page.meta.get('categorie', "")
 
     rollen_chips = ''.join(_create_chip(rol, 'rol', current_file, config) for rol in rollen) if filter_options.get("rol", True) else ""
     levenscyclus_chips = ''.join(_create_chip(lc, 'levenscyclus', current_file, config) for lc in levenscyclus) if filter_options.get("levenscyclus", True) else ""
@@ -67,8 +68,9 @@ def _create_table_row_2(file: File, filter_options: Dict[str, bool], current_fil
     return "".join(
         [
             "<tr>",
-            f'<td><a href="{relative_link}">{vereiste_id}</a></td>',
+            f'<td><a href="{relative_link}">{vereiste_id}</a></td>' if filter_options.get("id", True) else "",
             f'<td><a href="{relative_link}">{file.page.title}</a></td>',
+            f"<td>{categorie}</td>" if filter_options.get("categorie", True) else "",
             f"<td>{rollen_chips}</td>" if filter_options.get("rol", True) else "",
             f"<td>{levenscyclus_chips}</td>" if filter_options.get("levenscyclus", True) else "",
             f"<td>{onderwerp_chips}</td>" if filter_options.get("onderwerp", True) else "",
@@ -89,6 +91,16 @@ def on_env(env, config: MkDocsConfig, files: Files):
             filters.append('<label for="filterInput">Zoeken</label>')
             filters.append(f'<input type="text" id="filterInput" class="filter-item__input" onkeyup="filterTable()" placeholder="Zoek op {content_type}">')
             filters.append('</div>')
+
+        if filter_options.get("categorie", True):
+            categorieen = sorted(set(cat for file in list for cat in file.page.meta.get("categorie", [])))
+            if categorieen:
+                filters.append('<div class="filter-item filter-item--categorie">')
+                filters.append('<label for="filterSelect">Categorie</label>')
+                filters.append('<select id="filterSelect" class="js-example-basic-multiple filter-item__select" name="states[]" multiple="multiple" data-placeholder="Selecteer categorie">')
+                filters.extend(f'<option value="{cat}">{cat}</option>' for cat in categorieen)
+                filters.append('</select>')
+                filters.append('</div>')
         
         if filter_options.get("rol", True):
             rollen = sorted(set(rol for file in list for rol in file.page.meta.get("rollen", [])))
@@ -132,10 +144,12 @@ def on_env(env, config: MkDocsConfig, files: Files):
         type_value_bundle = [y.split("/") for y in filter_criteria.split() if len(y.split("/")) == 2]
 
         filter_options = {
+            "id": True,
             "search": True,
             "rol": True,
             "levenscyclus": True,
-            "onderwerp": True
+            "onderwerp": True,
+            "categorie": False,
         }
 
         for tag in filter_tags:
@@ -143,6 +157,10 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 filter_name = tag[3:]
                 if filter_name in filter_options:
                     filter_options[filter_name] = False
+            elif tag.startswith("add-"):
+                filter_name = tag[4:]
+                if filter_name in filter_options:
+                    filter_options[filter_name] = True
 
         list: List[File] = []
         for file in files:
@@ -167,8 +185,9 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 "<table id='myTable'>",
                 "<thead>",
                 "<tr>",
-                '<th role="columnheader">id</th>',
+                '<th role="columnheader">id</th>' if filter_options["id"] else '',
                 f'<th role="columnheader">{content_type.capitalize()}</th>',
+                '<th role="columnheader">Categorie</th>' if filter_options["categorie"] else '',
                 '<th role="columnheader">Rollen</th>' if filter_options["rol"] else '',
                 '<th role="columnheader">Levenscyclus</th>' if filter_options["levenscyclus"] else '',
                 '<th role="columnheader">Onderwerpen</th>' if filter_options["onderwerp"] else '',

@@ -60,7 +60,7 @@ Stel vast of de gebruikte data van voldoende kwaliteit is voor de beoogde toepas
 - [Onderzoekskader Algoritmes Auditdienst Rijk, DM.9, DM.19](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Toetsingskader Algoritmes, Algemene Rekenkamder, 2.18](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [NORA, Raamwerk gegevenskwaliteit](https://www.noraonline.nl/wiki/Raamwerk_gegevenskwaliteit)
-- [Impact Assessment Mensenrechten en Algoritmes, 2A.2.2](../instrumenten/IAMA.md)
+- [Impact Assessment Mensenrechten en Algoritmes, 2A.2.2](../hulpmiddelen/IAMA.md)
 - [Handreiking non-discriminatie by design](https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design)
 
 ## Voorbeeld

@@ -33,7 +33,7 @@ hide:
 
 ## Maatregel
 
- Publiceer de ontwikkeling en gebruik van een algoritme of AI-systeem in het [Algoritmeregister](../instrumenten/algoritmeregister.md).  
+ Publiceer de ontwikkeling en gebruik van een algoritme of AI-systeem in het [Algoritmeregister](../hulpmiddelen/algoritmeregister.md).  
 
 ## Toelichting
 - De regering wil dat de overheid algoritmes en AI-systemen verantwoord gebruikt. Mensen moeten erop kunnen vertrouwen dat algoritmes voldoen aan de waarden en normen van de samenleving.

@@ -13,6 +13,7 @@ rollen:
 - privacy-officer
 - proceseigenaar
 - informatiebeheerder
+hide: navaigation
 ---
 
 <!-- tags -->

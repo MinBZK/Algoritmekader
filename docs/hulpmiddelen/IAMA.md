@@ -23,6 +23,7 @@ rollen:
 - privacy-officer
 - proceseigenaar
 - security-officer
+hide: navigation
 ---
 
 <!-- tags -->

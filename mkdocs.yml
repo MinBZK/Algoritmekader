@@ -35,6 +35,8 @@ nav:
         - overhetalgoritmekader/soorten-algoritmes.md
         - overhetalgoritmekader/definities.md
         - overhetalgoritmekader/CONTRIBUTING.md
+    - Beslisboom AI-verordening:
+        - beslisboom-ai-verordening/index.md
     - Governance:
         - governance/index.md
         - Huidige situatie:

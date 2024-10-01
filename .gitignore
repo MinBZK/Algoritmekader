@@ -7,4 +7,6 @@ site
 
 src/overrides/hooks/create_vereisten.py
 
+# IDE Pycharm
+.idea/
 *.DS_Store

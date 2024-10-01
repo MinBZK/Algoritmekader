@@ -1,5 +1,4 @@
 --- 
-<!-- alle tagging/metadata moet nog goed naar worden gekeken -->
 title: The Fairness Handbook
 toelichting: toelichting volgt
 levenscyclus:
@@ -12,6 +11,7 @@ rollen:
 - projectleider
 vereiste:
 - grw-02-non-discriminatie
+hide: navigation
 ---
 
 <!-- tags -->

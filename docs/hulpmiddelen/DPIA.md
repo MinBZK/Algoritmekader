@@ -20,6 +20,7 @@ rollen:
 - ethicus
 - jurist 
 - privacy-officer
+hide: navigation
 ---
 
 <!-- tags -->

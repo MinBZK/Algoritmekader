@@ -14,6 +14,7 @@ rollen:
 - contractbeheerder
 - inkoopadviseur
 - projectleider
+hide: navigation
 ---
 
 <!-- tags -->

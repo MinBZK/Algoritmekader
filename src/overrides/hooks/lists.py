@@ -58,23 +58,22 @@ def _create_table_row_2(file: File, filter_options: Dict[str, bool], current_fil
     onderwerpen = file.page.meta.get('onderwerp', [])
     vereiste = file.page.meta.get('vereiste', [])
     vereiste_id = file.page.meta.get('id', "")[14:] # remove the first part of the urn
-    categorie = file.page.meta.get('categorie', "")
+    categorie = file.page.meta.get('categorie', [])
 
     rollen_chips = ''.join(_create_chip(rol, 'rol', current_file, config) for rol in rollen) if filter_options.get("rol", True) else ""
     levenscyclus_chips = ''.join(_create_chip(lc, 'levenscyclus', current_file, config) for lc in levenscyclus) if filter_options.get("levenscyclus", True) else ""
     onderwerp_chips = ''.join(_create_chip(onderwerp, 'onderwerp', current_file, config) for onderwerp in onderwerpen) if filter_options.get("onderwerp", True) else ""
-    vereiste_chips = ''.join(_create_chip(vereiste, 'vereiste', current_file, config) for vereiste in vereiste) if filter_options.get("vereiste", True) else ""
+    categorie_chips = ', '.join(cat for cat in categorie) if filter_options.get("categorie", True) else ""
 
     return "".join(
         [
             "<tr>",
             f'<td><a href="{relative_link}">{vereiste_id}</a></td>' if filter_options.get("id", True) else "",
             f'<td><a href="{relative_link}">{file.page.title}</a></td>',
-            f"<td>{categorie}</td>" if filter_options.get("categorie", True) else "",
+            f"<td>{categorie_chips}</td>" if filter_options.get("categorie", True) else "",
             f"<td>{rollen_chips}</td>" if filter_options.get("rol", True) else "",
             f"<td>{levenscyclus_chips}</td>" if filter_options.get("levenscyclus", True) else "",
             f"<td>{onderwerp_chips}</td>" if filter_options.get("onderwerp", True) else "",
-            f"<td>{vereiste_chips}</td>" if filter_options.get("vereiste", False) else "",
             "</tr>",
         ]
     )

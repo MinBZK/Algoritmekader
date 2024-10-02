@@ -139,7 +139,6 @@ def on_env(env, config: MkDocsConfig, files: Files):
         params = match.groups()[0].strip() if match.groups()[0] else ""
         split_params = params.split() if params else []
         filter_criteria = split_params[0] if split_params else ""
-        filter_tags = split_params[1:] if len(split_params) > 1 else []
 
         type_value_bundle = [y.split("/") for y in filter_criteria.split() if len(y.split("/")) == 2]
 
@@ -152,7 +151,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
             "categorie": False,
         }
 
-        for tag in filter_tags:
+        for tag in split_params:
             if tag.startswith("no-"):
                 filter_name = tag[3:]
                 if filter_name in filter_options:
@@ -270,7 +269,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
         )
 
         file.page.content = re.sub(
-            r"<!-- list_hulpmiddelen(.*?) -->",
+            r"<!-- list_hulpmiddelen (.*?) -->",
             lambda match: replace_content(match, "hulpmiddelen"),
             file.page.content,
             flags=re.I | re.M,

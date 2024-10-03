@@ -5,7 +5,7 @@ toelichting: Verken relevante normen en standaarden en pas deze toe
 levenscyclus:
 - organisatieverantwoordelijkheden
 
-onderwerp
+onderwerp:
 - governance
 
 rollen:

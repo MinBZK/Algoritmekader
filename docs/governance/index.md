@@ -42,7 +42,7 @@ Een algoritmegovernance ingericht hebben is een randvoorwaarde om de vereisten d
 In dit onderdeel geven we informatie en voorbeelden om aan een goede AI-governance te werken. We hebben hierin twee fases in onderscheiden, die weer uit verschillende hoofdstukken bestaan:
 
 1. **Randvoorwaarden algoritmegovernance.** Dit sluit aan bij het organisatie-niveau van governance.
-2. **Algoritme governance realiseren met best practices en voorbeelden.** Dit sluit aan bij het systeem-niveau van governance.
+2. **Algoritme governance inrichten met best practices en voorbeelden.** Dit sluit aan bij het systeem-niveau van governance.
 
 ### Fase 1: Randvoorwaarden algoritmegovernance
 

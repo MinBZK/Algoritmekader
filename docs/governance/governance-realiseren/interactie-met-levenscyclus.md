@@ -2,15 +2,20 @@
 title: Inrichten governance in de levenscyclus van AI
 ---
 
-Om algoritmes op een verantwoorde manier te gebruiken, zul je op de juiste momenten aandacht moeten hebben voor de juiste onderwerpen en risico's. Dit zich steeds herhalende proces van ontwerpen, ontwikkelen en in gebruik nemen noemen we de [levenscyclus](https://minbzk.github.io/Algoritmekader/levenscyclus/).
+Om algoritmes op een verantwoorde manier te gebruiken, zul je op de juiste momenten aandacht moeten hebben voor de juiste onderwerpen en risico's. 
+Dit zich steeds herhalende proces van ontwerpen, ontwikkelen en in gebruik nemen noemen we de [levenscyclus](https://minbzk.github.io/Algoritmekader/levenscyclus/). 
 
-Voor effectieve governance van algoritmen en AI-modellen is het essentieel om bij de ontwikkeling en gebruik van algoritmen en AI-modellen heldere afspraken te hebben over de interactie en informatie-uitwisseling die vereist is om aan de verantwoording te voldoen. Dit moet gebeuren in iedere fase van de levenscyclus, tussen de direct betrokkenen en de stakeholders binnen en buiten de organisatie. Dit vindt plaats via de [rollen en verantwoordelijkheden](rollen-en-verantwoordelijkheden.md) per levenscyclusstap.
+Voor effectieve governance van algoritmen en AI is het essentieel om bij de ontwikkeling en gebruik hiervan heldere afspraken te hebben over de interactie en informatie-uitwisseling die vereist is om aan de verantwoording te voldoen. 
+Dit moet gebeuren in iedere fase van de levenscyclus, tussen de direct betrokkenen en de stakeholders binnen en buiten de organisatie. 
+Per fase in de levenscyclys zijn dus andere [rollen en verantwoordelijkheden](rollen-en-verantwoordelijkheden.md) aan zet. 
 
-Hierbij gaat het om twee soorten betrokkenheid. Aan de ene kant is er de leiding van bovenaf, die zorgt dat de juiste doelen, waarden en principes worden gevolgd. Ook worden de juiste middelen en voorwaarden geregeld om alles goed te laten verlopen. Aan de andere kant is er de betrokkenheid van mensen binnen de organisatie. Zij geven de nodige informatie en bespreken de keuzes en uitdagingen om AI op een verantwoorde manier te gebruiken.
+Veel organisaties hebben al een levenscyclus voor AI-ontwikkeling, voortbouwend op IT-ontwikkeling. 
+Let op dat er vaak kleine verschillen zitten in de stappen van een lifecycle model.
+AI-governance kan op de levenscyclus aansluiten door 'gates' of controlepunten in te voeren tussen de verschillende stappen in de levenscyclus waar bepaalde processen worden uitgevoerd door verantwoordelijken, zoals het aanleveren van documenten, het uitvoeren van controles en het maken van afwegingen. 
 
-Veel organisaties hebben al een levenscyclus voor AI-ontwikkeling. AI-governance kan hierop aansluiten door 'gates' of controlepunten in te voeren tussen de verschillende stappen in de levenscyclus waar bepaalde processen worden uitgevoerd door verantwoordelijken, zoals het aanleveren van documenten, het uitvoeren van controles en het maken van afwegingen. 
-
-Het is belangrijk om te weten dat deze ‘gates’ niet altijd hetzelfde zijn voor verschillende projecten. Een algoritme met een hoog risico heeft bijvoorbeeld andere regels nodig dan minder belangrijke algoritmes. Ook vraagt het kopen van een kant-en-klaar AI-systeem of SaaS om andere procedures dan het kopen van software die nog verder ontwikkeld moet worden
+Het is belangrijk om te weten dat deze ‘gates’ niet altijd hetzelfde zijn voor verschillende projecten. 
+Een algoritme met een hoog risico heeft bijvoorbeeld andere regels nodig dan minder belangrijke algoritmes. 
+Ook vraagt het kopen van een kant-en-klaar AI-systeem of SaaS om andere procedures dan het kopen van software die nog verder ontwikkeld moet worden.
 
 Hieronder volgen twee voorbeelden van hoe governance effectief kan worden geïntegreerd in de levenscyclus van algoritmen en AI-modellen:
 
@@ -29,8 +34,8 @@ Hieronder volgen twee voorbeelden van hoe governance effectief kan worden geïnt
     ![Afbeelding](../../afbeeldingen/levenscyclus/modellevenscyclus_uwv.png)
  
 #### Aandachts- en actiepunten
-- Introduceer ‘gates’ tussen fases in de AI-lifecycle; voor de cyclus verder kan gaan moeten handelingen worden uitgevoerd door verantwoordelijken zoals: documenten aanleveren, (ethische) afwegingen, rapportages.
-- De levencyclus bij inkoop is waarschijnlijk anders, maar heeft ook 'gates' en procedures nodig.
+* Introduceer ‘gates’ tussen fases in de AI-lifecycle; voor de cyclus verder kan gaan moeten handelingen worden uitgevoerd door verantwoordelijken zoals: documenten aanleveren, (ethische) afwegingen, rapportages.
+* De levencyclus bij inkoop is waarschijnlijk anders, maar heeft ook 'gates' en procedures nodig.
 
  
 ## Bronnen

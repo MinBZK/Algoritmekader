@@ -1,16 +1,16 @@
 ---
-title: Interactie met de levenscyclus
+title: Inrichten governance in de levenscyclus van AI
 ---
+
+Om algoritmes op een verantwoorde manier te gebruiken, zul je op de juiste momenten aandacht moeten hebben voor de juiste onderwerpen en risico's. Dit zich steeds herhalende proces van ontwerpen, ontwikkelen en in gebruik nemen noemen we de [levenscyclus](https://minbzk.github.io/Algoritmekader/levenscyclus/).
 
 Voor effectieve governance van algoritmen en AI-modellen is het essentieel om bij de ontwikkeling en gebruik van algoritmen en AI-modellen heldere afspraken te hebben over de interactie en informatie-uitwisseling die vereist is om aan de verantwoording te voldoen. Dit moet gebeuren in iedere fase van de levenscyclus, tussen de direct betrokkenen en de stakeholders binnen en buiten de organisatie. Dit vindt plaats via de [rollen en verantwoordelijkheden](rollen-en-verantwoordelijkheden.md) per levenscyclusstap.
 
-Het gaat enerzijds om top-down betrokkenheid en verantwoordelijkheid, waarbij wordt gestuurd op de juiste doelstellingen, waarden en principes. Daarnaast worden passende middelen en randvoorwaarden gealloceerd om verantwoorde inzet te waarborgen. Anderzijds gaat het om bottom-up betrokkenheid van de juiste stakeholders binnen de organisatie. Hierbij wordt de benodigde informatie verschaft en worden afwegingen en uitdagingen voorgelegd om de verantwoorde inzet van algoritmen en AI mogelijk te maken.
-
-In elke type levenscyclus vind je een ontwerpfase, een ontwikkelfase en een deployfase (in gebruik nemen).
+Hierbij gaat het om twee soorten betrokkenheid. Aan de ene kant is er de leiding van bovenaf, die zorgt dat de juiste doelen, waarden en principes worden gevolgd. Ook worden de juiste middelen en voorwaarden geregeld om alles goed te laten verlopen. Aan de andere kant is er de betrokkenheid van mensen binnen de organisatie. Zij geven de nodige informatie en bespreken de keuzes en uitdagingen om AI op een verantwoorde manier te gebruiken.
 
 Veel organisaties hebben al een levenscyclus voor AI-ontwikkeling. AI-governance kan hierop aansluiten door 'gates' of controlepunten in te voeren tussen de verschillende stappen in de levenscyclus waar bepaalde processen worden uitgevoerd door verantwoordelijken, zoals het aanleveren van documenten, het uitvoeren van controles en het maken van afwegingen. 
 
-Houd er rekening mee dat de 'gates' niet altijd hetzelfde hoeven te zijn tussen verschillende projecten. Zo vereist een algoritme met een hoog-risicoclassificatie andere governance dan minder impactvolle algoritmes. Eveneens vraagt het inkoopproces van een off-the-shelf AI-systeem of SaaS om andere procedures dan de inkoop van software die nog verder ontwikkeld wordt.
+Het is belangrijk om te weten dat deze ‘gates’ niet altijd hetzelfde zijn voor verschillende projecten. Een algoritme met een hoog risico heeft bijvoorbeeld andere regels nodig dan minder belangrijke algoritmes. Ook vraagt het kopen van een kant-en-klaar AI-systeem of SaaS om andere procedures dan het kopen van software die nog verder ontwikkeld moet worden
 
 Hieronder volgen twee voorbeelden van hoe governance effectief kan worden geïntegreerd in de levenscyclus van algoritmen en AI-modellen:
 

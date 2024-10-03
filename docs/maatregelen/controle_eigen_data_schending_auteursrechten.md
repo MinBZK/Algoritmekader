@@ -2,11 +2,11 @@
 title: Controleren eigen data op schending auteursrechten
 toelichting: Controleer of eventueel door de eigen organisatie verstrekte data binnen of buiten auteursrechten vallen. Bij voorkeur blijven de data eigendom van de (verstrekkende) overheidsorganisatie. 
 vereiste:
-- auteursrechten
+- aut-01-auteursrechten
 levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
-bouwblok:
+onderwerp:
 - data
 rollen:
 - proceseigenaar
@@ -14,6 +14,7 @@ rollen:
 - jurist
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

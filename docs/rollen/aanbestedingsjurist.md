@@ -1,14 +1,13 @@
 ---
 title: Aanbestedingsjurist
+hide:
+  - toc
+  - navigation
 ---
-
-## Vereisten
-
-<!-- list_vereisten rollen/aanbestedingsjurist -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/aanbestedingsjurist -->
+<!-- list_maatregelen rollen/aanbestedingsjurist no-rol no-levenscyclus no-search no-onderwerp -->
 
 !!! info "Disclaimer"
 

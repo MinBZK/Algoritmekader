@@ -1,14 +1,13 @@
 ---
 title: Inkoopadviseur
+hide:
+  - toc
+  - navigation
 ---
-
-## Vereisten
-
-<!-- list_vereisten rollen/inkoopadviseur -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/inkoopadviseur -->
+<!-- list_maatregelen rollen/inkoopadviseur no-rol no-levenscyclus no-search no-onderwerp -->
 
 !!! info "Disclaimer"
 

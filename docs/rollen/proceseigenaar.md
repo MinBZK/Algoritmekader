@@ -1,14 +1,13 @@
 ---
 title: Proceseigenaar
+hide:
+  - toc
+  - navigation
 ---
-
-## Vereisten
-
-<!-- list_vereisten rollen/proceseigenaar -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/proceseigenaar -->
+<!-- list_maatregelen rollen/proceseigenaar no-rol no-levenscyclus no-search no-onderwerp -->
 
 !!! info "Disclaimer"
 

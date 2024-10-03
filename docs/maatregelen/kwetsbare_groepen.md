@@ -2,10 +2,11 @@
 title: Kwetsbare groepen in kaart brengen en beschermen
 toelichting: Bepaal wat de impact van het in te zetten algoritme is voor betrokkenen (personen of groepen). Bepaal vervolgens of de er groepen zijn waarbij de impact van het algoritme dermate groot kan zijn, dat het wenselijk is om deze groepen extra bescherming te bieden.
 vereiste:
-- tbd
+- grw-01-fundamentele-rechten
+- aia-04-risicobeoordeling-voor-jongeren-en-kwetsbaren
 levenscyclus:
 - ontwerp
-bouwblok:
+onderwerp:
 - fundamentele-rechten
 rollen:
 - projectleider
@@ -13,6 +14,7 @@ rollen:
 - ethicus
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->
@@ -32,7 +34,7 @@ Bepaal vervolgens of er groepen zijn waarbij de impact van het algoritme dermate
 - Houd hierbij ook rekening met de impact van het in te zetten algoritme op de samenleving (vanuit sociaal, democratisch en milieu/ecologisch perspectief).
 - Om de impact op groepen te bepalen, kan het handig zijn een mensenrechtentoets zoals het [Impact Assessment Mensenrechten en Algoritmes](https://open.overheid.nl/documenten/ronl-c3d7fe94-9c62-493f-b858-f56b5e246a94/pdf) toe te passen. 
 - Bepaal of er maatregelen genomen kunnen worden om de geïdentificeerde groepen extra bescherming te bieden. Hierbij kan men denken aan de volgende aspecten: Kan de (extra) administratieve druk voor bepaalde groepen worden weggenomen? Worden resultaten van het algoritme naast de resultaten van een expert gelegd? Is het wenselijk om een proces in te richten waarbij zowel algoritme als een expert een uitkomst geven? Kunnen we de betreffende groep extra hulp aanbieden? Is het wenselijk bij negatieve uitkomsten een vier-ogen-principe toe te passen? 
-- De impact van het algoritme op de groepen die geïdentificeerd worden in deze stap, kunnen mogelijk onderzocht worden in een [biasanalyse](../bouwblokken/bias-en-non-discriminatie/index.md). Daarbij kan geidentificeerd worden of bepaalde groepen oververtegenwoordigd of ondervertegenwoordigd zijn in selecties, of dat het algoritme andere of meer fouten maakt voor bepaalde groepen. 
+- De impact van het algoritme op de groepen die geïdentificeerd worden in deze stap, kunnen mogelijk onderzocht worden in een [biasanalyse](../onderwerpen/bias-en-non-discriminatie/index.md). Daarbij kan geidentificeerd worden of bepaalde groepen oververtegenwoordigd of ondervertegenwoordigd zijn in selecties, of dat het algoritme andere of meer fouten maakt voor bepaalde groepen. 
 - Merk op dat het onmogelijk is om de risico's voor alle specifieke groepen af te vangen. Hierbij kan het helpen om te focussen op de meest kwetsbare groepen. 
 
 ## Bijbehorende vereiste(n)
@@ -45,7 +47,7 @@ De impact van het algoritme op de besluitvorming en op personen, doelgroepen en/
 ## Bronnen
 | Bron                                                                                                                                                  |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Onderzoekskader Algoritmes Auditdienst Rijk, SV.4](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) |
+| [Onderzoekskader Algoritmes Auditdienst Rijk, SV.4, DM.16](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) |
 | [Kamerstukken II 2023/24, 31066-1374](https://www.tweedekamer.nl/downloads/document?id=2024D15214)                                                    |
 | [Impact Assessment Mensenrechten en Algoritmes, 4.1](https://open.overheid.nl/documenten/ronl-c3d7fe94-9c62-493f-b858-f56b5e246a94/pdf)               |
 | [Handreiking non-discriminatie by design, 1.7 en 1.8 en 1.15](https://open.overheid.nl/documenten/ronl-3f9fa69c-acf4-444d-96e1-5c48df00eb3c/pdf)                          |

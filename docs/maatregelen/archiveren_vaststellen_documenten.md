@@ -2,12 +2,12 @@
 title: Archiefbescheiden vaststellen
 toelichting: Stel vast welke documenten, (samengesteld geheel van) data/informatie van/in het algoritme of het AI-systeem gelden als "archiefbescheiden" in de zin van artikel 1 c Archiefwet en documenteer daarvan een overzicht, bij voorkeur vastgesteld door een daartoe bevoegde. 
 vereiste:
-- archiefwet
-- bewaartermijn_voor_documentatie
+- arc-01-archiefwet
+- aia-12--bewaartermijn-voor-documentatie
 levenscyclus:
 - ontwerp
 - ontwikkelen
-bouwblok:
+onderwerp:
 - governance
 rollen:
 - proceseigenaar
@@ -17,6 +17,7 @@ rollen:
 - jurist
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

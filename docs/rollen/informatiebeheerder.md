@@ -1,14 +1,13 @@
 ---
 title: Informatiebeheerder
+hide:
+  - toc
+  - navigation
 ---
-
-## Vereisten
-
-<!-- list_vereisten rollen/informatiebeheerder -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/informatiebeheerder -->
+<!-- list_maatregelen rollen/informatiebeheerder no-rol no-levenscyclus no-search no-onderwerp -->
 
 !!! info "Disclaimer"
 

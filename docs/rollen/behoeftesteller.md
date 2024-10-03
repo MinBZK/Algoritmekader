@@ -1,14 +1,13 @@
 ---
 title: Behoeftesteller
+hide:
+  - toc
+  - navigation
 ---
-
-## Vereisten
-
-<!-- list_vereisten rollen/behoeftesteller -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/behoeftesteller -->
+<!-- list_maatregelen rollen/behoeftesteller no-rol no-levenscyclus no-search no-onderwerp -->
 
 !!! info "Disclaimer"
 

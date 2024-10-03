@@ -2,11 +2,11 @@
 title: Vul technische documentatie van aanbieder aan met informatie vanuit de gebruiksverantwoordelijke
 toelichting: Bespreek met het projectteam welke onderdelen van de technische documentatie, als genoemd in de Bijlage 4 AI-verordening, van het algoritme of AI-systeem door welke partij (intern/extern) moeten worden ingevuld of aangevuld. 
 vereiste:
-- technische_documentatie_voor_hoog_risico_ai
+- aia-06:-technische-documentatie
 levenscyclus:
 - ontwerp
 - monitoring-en-beheer
-bouwblok:
+onderwerp:
 - publieke-inkoop
 rollen:
 - behoeftesteller
@@ -14,6 +14,7 @@ rollen:
 - aanbieder
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

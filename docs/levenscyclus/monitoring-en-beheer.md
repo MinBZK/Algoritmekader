@@ -1,5 +1,8 @@
 --- 
 title: Monitoring en beheer
+hide:
+- navigation
+- toc
 ---
 
 Het algoritme of AI-systeem wordt in deze fase voortdurend gemonitord om ervoor te zorgen dat het blijft presteren zoals verwacht en kan worden gebruikt door gebruikers. 
@@ -14,11 +17,11 @@ Het beheerteam zorgt ervoor dat dergelijke situaties worden voorkomen of opgelos
 
 ## Vereisten
 
-<!-- list_vereisten levenscyclus/monitoring-en-beheer -->
+<!-- list_vereisten levenscyclus/monitoring-en-beheer no-rol no-levenscyclus no-search no-onderwerp -->
 
 ## Maatregelen
 
-<!-- list_maatregelen levenscyclus/monitoring-en-beheer -->
+<!-- list_maatregelen levenscyclus/monitoring-en-beheer no-rol no-levenscyclus no-search no-onderwerp -->
 
 
 !!! info "Disclaimer"

@@ -1,14 +1,13 @@
 ---
 title: Security officer
+hide:
+  - toc
+  - navigation
 ---
-
-## Vereisten
-
-<!-- list_vereisten rollen/security-officer -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/security-officer -->
+<!-- list_maatregelen rollen/security-officer no-rol no-levenscyclus no-search no-onderwerp -->
 
 !!! info "Disclaimer"
 

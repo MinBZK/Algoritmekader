@@ -2,11 +2,11 @@
 title: Garantie in conceptovereenkomst dat aanbieder auteursrechten niet schendt met de output
 toelichting: Neem in de conceptovereenkomst op dat de aanbieder garandeert dat auteursrechten niet worden geschonden met de output van het algoritme of AI-systeem en dat hij dit gedurende de ontwikkeling en levensduur actief bewaakt. 
 vereiste:
-- auteursrechten
+- aut-01-auteursrechten
 levenscyclus:
 - ontwikkelen
 - monitoring-en-beheer
-bouwblok:
+onderwerp:
 - publieke-inkoop
 rollen:
 - proceseigenaar
@@ -16,6 +16,7 @@ rollen:
 - aanbestedingsjurist
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

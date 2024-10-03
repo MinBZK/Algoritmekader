@@ -2,11 +2,11 @@
 title: Aansprakelijkheidsvoorwaarden worden beoordeeld in de aanbesteding 
 toelichting: Maak de aansprakelijkheidsvoorwaarden die een aanbieder ten aanzien van auteursrechten kan geven een vast onderdeel van de wedstrijd/inkoop/beoordeelingsmatrix als ook de vaste beoordeling hiervan. 
 vereiste:
-- auteursrechten
+- aut-01-auteursrechten
 levenscyclus:
 - probleemanalyse
 - implementatie
-bouwblok:
+onderwerp:
 - publieke-inkoop
 rollen:
 - proceseigenaar
@@ -16,6 +16,7 @@ rollen:
 - aanbestedingsjurist
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

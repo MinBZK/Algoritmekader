@@ -1,14 +1,12 @@
-### Site metadata ###
-
+# Existing mkdocs.yml content
 site_name: Algoritmekader [concept]
 site_description: Concept van het algoritmekader. Het doel daarvan is om overheden op praktische wijze te ondersteunen, zodat zij op een wettige en ethisch verantwoorde wijze algoritmes en AI-systemen gebruiken.
-watch:
-    - includes/
 
-### theme settings ###
 theme: 
     name: material
     language: nl
+    logo_text: Algoritmekader [concept]
+    font: false 
     palette:
         - primary: blue
     features:
@@ -30,24 +28,28 @@ theme:
         logo: fontawesome/solid/house
         annotation: fontawesome/solid/circle-info
 
-# Navigation for the site 
 nav:
     - Home: index.md
     - Over het algoritmekader: 
         - overhetalgoritmekader/index.md
+        - overhetalgoritmekader/soorten-algoritmes.md
         - overhetalgoritmekader/definities.md
         - overhetalgoritmekader/CONTRIBUTING.md
     - Governance:
         - governance/index.md
-        - governance/governance-structuur.md
-        - governance/politiek-bestuurlijk-kader.md
-        - governance/interactie-burgers-en-omgeving.md
-        - governance/volwassenheidsniveau.md
-        - governance/levenscyclus.md
-        - governance/rollen_en_verantwoordelijkheden.md
-        - governance/type_algoritme.md
+        - Huidige situatie:
+            - governance/huidige-situatie/volwassenheidsniveau.md
+            - governance/huidige-situatie/samenhang-governancestructuren.md
+            - governance/huidige-situatie/politiek-bestuurlijke-verantwoordelijkheden.md
+        - Governance realiseren:
+            - governance/governance-realiseren/governance-structuur.md
+            - governance/governance-realiseren/governance-per-risicogroep.md
+            - governance/governance-realiseren/interactie-met-levenscyclus.md
+            - governance/governance-realiseren/rollen-en-verantwoordelijkheden.md
+            - governance/governance-realiseren/interactie-burgers-en-omgeving.md
     - Levenscyclus:
         - levenscyclus/index.md 
+        - levenscyclus/organisatieverantwoordelijkheden.md
         - levenscyclus/probleemanalyse.md
         - levenscyclus/ontwerp.md
         - levenscyclus/dataverkenning-en-datapreparatie.md
@@ -56,9 +58,9 @@ nav:
         - levenscyclus/implementatie.md
         - levenscyclus/monitoring-en-beheer.md
         - levenscyclus/uitfaseren.md
-    - Bouwblokken:
-        - bouwblokken/index.md
-        - ... | bouwblokken/*/*.md
+    - Onderwerpen:
+        - onderwerpen/index.md
+        - ... | onderwerpen/*/*.md
     - Rollen:
         - ... | rollen/*.md
     - Vereisten:
@@ -95,6 +97,7 @@ markdown_extensions:
     - pymdownx.snippets:
         auto_append:
             - includes/begrippenlijst.md
+    - pymdownx.blocks.html
 
 # Extra opties voor footer
 extra: 
@@ -103,12 +106,19 @@ extra:
           link: https://github.com/MinBZK/Algoritmekader
 
 extra_css:
+  - stylesheets/filters.css
   - stylesheets/extra.css
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
+  - https://cdn.jsdelivr.net/npm/choices.js/public/assets/styles/choices.min.css  # Replace Select2 CSS with Choices.js
 
 extra_javascript:
+  - https://code.jquery.com/jquery-3.6.0.min.js
+  - https://cdn.jsdelivr.net/npm/choices.js/public/assets/scripts/choices.min.js  # Replace Select2 JS with Choices.js
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - javascripts/tablesort.js
-  
+  - javascripts/filtering.js
+  - https://unpkg.com/mermaid@10.9.1/dist/mermaid.min.js
+
 plugins:
     - glightbox
     - search
@@ -123,4 +133,5 @@ hooks:
 
 # Link naar GitHub repo
 repo_url: https://github.com/MinBZK/Algoritmekader
+site_url: https://minbzk.github.io/Algoritmekader/
 edit_uri: edit/main/docs/

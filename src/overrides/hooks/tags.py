@@ -19,9 +19,14 @@ def on_page_markdown(markdown: str, *, page: Page, config: MkDocsConfig, files: 
     # Replace callback
     def replace(_: Match):
         buttons = []
-        for type in ["levenscyclus", "rollen", "bouwblok"]:
-            for role in page.meta.get(type, []):
-                buttons.append(flag(type, role, page, files))
+        for type in ["id", "levenscyclus", "rollen", "onderwerp"]:
+            field = page.meta.get(type, [])
+
+            if isinstance(field, str):
+                buttons.append(flag(type, field, page, files))   
+            else:
+                for role in field:
+                    buttons.append(flag(type, role, page, files))
 
         return "".join(buttons)
 
@@ -36,26 +41,28 @@ def on_page_markdown(markdown: str, *, page: Page, config: MkDocsConfig, files: 
 
 # Create a flag of a specific type
 def flag(type: str, arg: str, page: Page, files: Files):
-    if type == "levenscyclus":
+    if type == "id":
+        return _badge_id(page, files, arg)
+    elif type == "levenscyclus":
         return _badge_levenscyclus(page, files, arg)
     elif type == "rollen":
         return _badge_rollen(page, files, arg)
-    elif type == "bouwblok":
-        return _badge_bouwblok(page, files, arg)
+    elif type == "onderwerp":
+        return _badge_onderwerp(page, files, arg)
 
     return ""
 
 
-# Create a linkable option
-def option(type: str):
-    _, *_, name = re.split(r"[.:]", type)
-    return f"[`{name}`](#+{type}){{ #+{type} }}\n\n"
+# # Create a linkable option
+# def option(type: str):
+#     _, *_, name = re.split(r"[.:]", type)
+#     return f"[`{name}`](#+{type}){{ #+{type} }}\n\n"
 
 
-# Create a linkable setting - @todo append them to the bottom of the page
-def setting(type: str):
-    _, *_, name = re.split(r"[.*]", type)
-    return f"`{name}` {{ #{type} }}\n\n[{type}]: #{type}\n\n"
+# # Create a linkable setting - @todo append them to the bottom of the page
+# def setting(type: str):
+#     _, *_, name = re.split(r"[.*]", type)
+#     return f"`{name}` {{ #{type} }}\n\n[{type}]: #{type}\n\n"
 
 
 # -----------------------------------------------------------------------------
@@ -91,6 +98,15 @@ def _badge(icon: str, text: str = "", type: str = "", color: str = "blue"):
         ]
     )
 
+# Create badge for id
+def _badge_id(page: Page, files: Files, phase: str):
+    icon = "material-tag"
+    href_id = _resolve_path("vereisten/index.md", page, files)
+    return _badge(
+        icon=f"[:{icon}:]({href_id} 'Vereiste ID')",
+        text=f"{phase[-6:]}",
+        color="blue",
+    )
 
 # Create badge for levenscyclus
 def _badge_levenscyclus(page: Page, files: Files, phase: str):
@@ -116,17 +132,17 @@ def _badge_rollen(page: Page, files: Files, rol: str):
     )
 
 
-# Create badge for bouwblok
-def _badge_bouwblok(page: Page, files: Files, blok: str):
-    icon = "material-cube"
+# Create badge for onderwerp
+def _badge_onderwerp(page: Page, files: Files, blok: str):
+    icon = "material-lightbulb"
     if blok == 'governance':
-        href_bouwblok = _resolve_path("governance/index.md", page, files)
+        href_onderwerp = _resolve_path("onderwerpen/index.md", page, files)
         href_fase = _resolve_path(f"governance/index.md", page, files)
     else:
-        href_bouwblok = _resolve_path("bouwblokken/index.md", page, files)
-        href_fase = _resolve_path(f"bouwblokken/{blok}/index.md", page, files)
+        href_onderwerp = _resolve_path("onderwerpen/index.md", page, files)
+        href_fase = _resolve_path(f"onderwerpen/{blok}/index.md", page, files)
     return _badge(
-        icon=f"[:{icon}:]({href_bouwblok} 'Bouwblok')",
+        icon=f"[:{icon}:]({href_onderwerp} 'Onderwerp')",
         text=f"[{blok.capitalize().replace('-', ' ')}]({href_fase})",
         color="teal",
     )

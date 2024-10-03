@@ -1,11 +1,8 @@
 ---
-# vul hier een titel in voor deze maatregel
 title: Betrek belanghebbenden
-# geef hier een korte toelichting van deze maatregel
 toelichting: Breng in kaart welke belanghebbenden er zijn en betrek hen op verschillende momenten in de levenscyclus.
 vereiste:
-- 
-# vul hier de fasen van de levenscyclus in die horen bij deze maatregel
+- awb-01-zorgvuldigheidsbeginsel
 levenscyclus: 
 - probleemanalyse
 - ontwerp
@@ -14,11 +11,14 @@ levenscyclus:
 - verificatie-en-validatie
 - implementatie
 - monitoring-en-beheer
-# vul hier de bouwblokken in die horen bij deze maatregel
-bouwblok: 
+onderwerp: 
+- governance
 - fundamentele-rechten
+rollen:
+- projectleider
 hide:
 - navigation
+- toc
 ---
 
 <!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->
@@ -81,6 +81,7 @@ Ontwikkelaars kunnen bijvoorbeeld missen dat in de context van het algoritme een
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
+
 Richt een burgerpanel in.
 
 Methodologie van Waag, Civic AI lab, Stakeholder escalation ladder.

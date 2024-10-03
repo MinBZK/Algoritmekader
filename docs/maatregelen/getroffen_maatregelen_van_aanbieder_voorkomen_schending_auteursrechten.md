@@ -2,11 +2,11 @@
 title: Verken maatregelen van aanbieder om schending auteursrechten te voorkomen
 toelichting: Verken of aanbieder maatregelen heeft genomen om te voorkomen dat auteursrechten worden geschonden. 
 vereiste:
-- auteursrechten
+- aut-01-auteursrechten
 levenscyclus:
 - probleemanalyse
 - implementatie
-bouwblok:
+onderwerp:
 - publieke-inkoop
 rollen:
 - proceseigenaar
@@ -17,6 +17,7 @@ rollen:
 - aanbieder
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

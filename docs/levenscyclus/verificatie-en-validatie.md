@@ -1,5 +1,8 @@
 --- 
 title: Verificatie en validatie
+hide:
+- navigation
+- toc
 ---
 
 Bij de verificatie en validatie van het algoritme of AI-systeem dient bepaald te worden of het algoritme of AI-systeem gebouwd is volgens de (technische) specificaties en voldoet aan de beoogde doelstellingen. 
@@ -22,11 +25,11 @@ Een andere conclusie kan zijn dat het presteert conform verwachting en naar de i
 
 ## Vereisten
 
-<!-- list_vereisten levenscyclus/verificatie-en-validatie -->
+<!-- list_vereisten levenscyclus/verificatie-en-validatie no-rol no-levenscyclus no-search no-onderwerp -->
 
 ## Maatregelen
 
-<!-- list_maatregelen levenscyclus/verificatie-en-validatie -->
+<!-- list_maatregelen levenscyclus/verificatie-en-validatie no-rol no-levenscyclus no-search no-onderwerp -->
 
 
 !!! info "Disclaimer"

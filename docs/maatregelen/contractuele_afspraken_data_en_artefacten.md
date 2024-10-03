@@ -2,11 +2,11 @@
 title: Contractuele afspraken over data en artefacten
 toelichting: Maak (contractuele) afspraken met aanbieder wie eigenaar is van de data en artefacten die ontstaan bij het gebruik van algoritmen en AI-systemen.
 vereiste:
-- auteursrechten
+- aut-01-auteursrechten
 levenscyclus:
 - ontwerp
 - monitoring-en-beheer
-bouwblok:
+onderwerp:
 - publieke-inkoop
 rollen:
 - proceseigenaar
@@ -15,8 +15,11 @@ rollen:
 - contractbeheerder
 - aanbestedingsjurist
 - aanbieder
+- informatiebeheerder
+  
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

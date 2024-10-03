@@ -2,11 +2,11 @@
 title: Bepaal of de output bepalende invloed heeft in een besluit richting personen
 toelichting: Vergewis of het algoritme of AI-systeem overwegend bepalende invloed heeft in een besluit richting personen en laat aanbieder onderbouwen in hoeverre dit wel of niet het geval is. Maak de mate van menselijke tussenkomst onderdeel van de wedstrijd/inkoop/beoordeelingsmatrix als ook de vaste beoordeling hiervan
 vereiste:
-- recht_op_niet_geautomatiseerd_besluitvorming
+- avg-10-recht-op-niet-geautomatiseerde-besluitvorming
 levenscyclus:
 - ontwikkelen
 - monitoring-en-beheer
-bouwblok:
+onderwerp:
 - publieke-inkoop
 rollen:
 - behoeftesteller
@@ -17,6 +17,7 @@ rollen:
 - jurist
 hide:
 - navigation
+- toc
 ---
 
 <!-- tags -->

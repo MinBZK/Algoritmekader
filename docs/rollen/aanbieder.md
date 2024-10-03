@@ -1,14 +1,13 @@
 ---
 title: Aanbieder
+hide:
+  - toc
+  - navigation
 ---
-
-## Vereisten
-
-<!-- list_vereisten rollen/aanbieder -->
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/aanbieder -->
+<!-- list_maatregelen rollen/aanbieder no-rol no-levenscyclus no-search no-onderwerp  -->
 
 !!! info "Disclaimer"
 

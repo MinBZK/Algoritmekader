@@ -54,7 +54,7 @@ Om een goede algoritmegovernance te realiseren is het van belang eerst de organi
 
 ### Fase 2: Best practices en voorbeelden van algoritme governance
 
-De tweede fase gaat over het realiseren van een algoritmegovernance met best practices en voorbeelden van algoritme governance. Dit gaat over governance op het niveau van het AI-systeem. Maar let op dat er een verschil bestaan tussen bijvoorbeeld het inrichten van een AI-lifecycle, en het uitvoeren van die lifecycle. Omdat het hier nog steeds gaat over het inrichten van de organisatie, gaat het hier nog vooral over de stap [**Organisatieverantwoordelijkheden**](https://minbzk.github.io/Algoritmekader/levenscyclus/organisatieverantwoordelijkheden/). Andere maatregelen geven meer inhoud aan wat er per fase dan precies moet gebeuren, en door wie.
+De tweede fase gaat over het realiseren van een algoritmegovernance met best practices en voorbeelden van algoritme governance. Dit gaat over governance op het niveau van het AI-systeem. Maar let op dat er een verschil bestaan tussen bijvoorbeeld het inrichten van een AI-lifecycle, en het uitvoeren van die lifecycle. Omdat het hier nog steeds gaat over het inrichten van de organisatie, gaat het bij governance nog vooral over de stap [**organisatieverantwoordelijkheden**](https://minbzk.github.io/Algoritmekader/levenscyclus/organisatieverantwoordelijkheden/). Andere maatregelen elders in het algortimekader geven meer inhoud aan wat er per fase dan precies moet gebeuren, en door wie.
 
 De volgende onderwerpen komen hier aan de orde:
 

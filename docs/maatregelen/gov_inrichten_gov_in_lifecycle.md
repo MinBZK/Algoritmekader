@@ -19,9 +19,8 @@ rollen:
 
 Inrichten governance in de levenscyclus van AI
 
----
-title: Inrichten governance in de levenscyclus van AI
----
+#### Inrichten governance in de levenscyclus van AI
+
 
 Om algoritmes op een verantwoorde manier te gebruiken, zul je op de juiste momenten aandacht moeten hebben voor de juiste onderwerpen en risico's. 
 Dit zich steeds herhalende proces van ontwerpen, ontwikkelen en in gebruik nemen noemen we de [levenscyclus](https://minbzk.github.io/Algoritmekader/levenscyclus/). 

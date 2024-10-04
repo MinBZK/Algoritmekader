@@ -35,7 +35,7 @@ Verdeel je dataset in drie delen:
 
     De validatieset fungeert als een onafhankelijke, onbevooroordeelde dataset voor het vergelijken van de prestaties van verschillende algoritmen die zijn getraind op onze trainingsset.
 
-    Verschillende modellen kunnen getraind worden op de trainingsdataset. Zo kan je bijvoorbeeld variëren in de (hyper)parameters of de inputvariabelen. Dit leidt tot verschillende varianten van het model. Om de prestaties van de verschillende modellen te vergelijken, moeten we een nieuwe dataset gebruiken: de validatieset. Zou je hiervoor de trainingsdataset gebruiken, kan dat leiden tot *overfitting*, wanneer het model dan te specifiek afgestemd is op 1 dataset. Het model kan dan niet voldoende generaliseren voor nieuwe situaties.
+    Verschillende modellen kunnen getraind worden op de trainingsdataset. Zo kan je bijvoorbeeld variëren in de (hyper)parameters of de inputvariabelen. Dit leidt tot verschillende varianten van het model. Om de prestaties van de verschillende modellen te vergelijken, moeten we een nieuwe dataset gebruiken: de validatieset. Zou je hiervoor de trainingsdataset gebruiken, kan dat leiden tot [overfitting](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html), wanneer het model dan te specifiek afgestemd is op 1 dataset. Het model kan dan niet voldoende generaliseren voor nieuwe situaties.
 
 3. **de testset**
 

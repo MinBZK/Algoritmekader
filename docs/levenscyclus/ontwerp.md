@@ -1,7 +1,6 @@
 --- 
 title: Ontwerp
 hide:
-- navigation
 - toc
 ---
 

@@ -10,7 +10,7 @@ hide:
 - navigation
 ---
 
-<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- tags -->
 ## Vereiste
 
 Voor AI-systemen met een hoog risico wordt een systeem voor risicobeheer vastgesteld, uitgevoerd, gedocumenteerd en in stand gehouden.

@@ -12,7 +12,7 @@ hide:
 - navigation
 ---
 
-<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- tags -->
 ## Vereiste
 
 Inbreuken op de AI verordening moeten gemeld kunnen worden en melders moeten dit op een veilige en vertrouwelijke manier kunnen doen, zoals beschreven in Richtlijn (EU) 2019/1937.

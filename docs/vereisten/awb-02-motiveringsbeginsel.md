@@ -8,7 +8,7 @@ onderwerp:
 - governance
 ---
 
-<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- tags -->
 ## Vereiste
 
 Een besluit berust op een deugdelijke motivering

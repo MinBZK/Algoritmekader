@@ -13,7 +13,7 @@ hide:
 - navigation
 ---
 
-<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- tags -->
 ## Vereiste
 
 Bij het doorlopen, periodieke systematische toetsing en actualisatie van het risicosysteem nemen aanbieders in overweging of het beoogde doel van het AI-systeem negatieve effecten zal hebben op personen jonger dan 18 jaar of andere kwetsbare groepen.

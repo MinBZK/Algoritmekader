@@ -12,7 +12,7 @@ hide:
 - navigation
 ---
 
-<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- tags -->
 ## Vereiste
 Aanbieders van AI-systemen zorgen dat AI-sytemen zodanig worden ontworpen en ontwikkeld dat de betrokken natuurlijke personen worden geïnformeerd dat zij interageren met een AI-systeem. 
 Gebruiksverantwoordelijken moeten betrokkenen informeren  over de werking van het systeem en in het geval van een AI-systeem dat content gegenereert duidelijk kenbaar maken dat de content kunstmatig is gegenereerd of gemanipuleerd.

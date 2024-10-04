@@ -12,7 +12,7 @@ hide:
 - navigation
 ---
 
-<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- tags -->
 ## Vereiste
 
 Persoonsgegevens moeten worden bewaard in een vorm die het mogelijk maakt om de betrokkenen niet langer te identificeren dan nodig is voor de realisering van de doeleinden waarvoor de persoonsgegevens initieel worden verwerkt.

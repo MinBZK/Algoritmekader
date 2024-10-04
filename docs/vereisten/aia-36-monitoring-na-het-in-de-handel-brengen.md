@@ -11,7 +11,7 @@ hide:
 - navigation
 ---
 
-<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- tags -->
 ## Vereiste
 
 Aanbieders moeten een systeem voor monitoring na het in de handel brengen vaststellen en documenteren op een manier die evenredig is aan de aard van de AI-technologieën en de risico’s van het AI-systeem met een hoog risico.

@@ -12,7 +12,7 @@ hide:
 - navigation
 ---
 
-<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- tags -->
 ## Vereiste
 
 Bijzondere categorieën van persoonsgegevens mogen alleen worden verwerkt op basis van een wettelijke uitzondering.

@@ -10,7 +10,7 @@ hide:
 - navigation
 ---
 
-<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- tags -->
 ## Vereiste
 
 Op een met redenen omkleed verzoek van een bevoegde autoriteit, verstrekken aanbieders van AI-systemen met een hoog risico die autoriteit alle informatie en documentatie die noodzakelijk is om de overeenstemming van het AI-systeem met een hoog risico met de eisen van afdeling 2 aan te tonen, in een eenvoudig door de instantie te begrijpen en door de betrokken lidstaat gekozen officiële taal van de instellingen van de Unie.

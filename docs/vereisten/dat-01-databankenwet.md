@@ -11,7 +11,7 @@ hide:
 - navigation
 ---
 
-<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- tags -->
 ## Vereiste
 
 Het is verboden om zonder goedkeuring van de producent een databank op te vragen en/of te hergebruiken.

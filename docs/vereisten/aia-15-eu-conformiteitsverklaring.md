@@ -11,7 +11,7 @@ hide:
 - navigation
 ---
 
-<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- tags -->
 ## Vereiste
 
 Aanbieders van AI-systemen met een hoog risico stellen een EU-conformiteitsverklaring op.

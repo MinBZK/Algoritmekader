@@ -11,7 +11,7 @@ hide:
 - navigation
 ---
 
-<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- tags -->
 ## Vereiste
 
 Aanbieders van in de Europese Unie in de handel gebrachte AI-systemen met een hoog risico melden ernstige incidenten bij de markttoezichtautoriteiten van de lidstaten waarin dat incident heeft plaatsgevonden.

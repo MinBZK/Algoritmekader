@@ -14,7 +14,7 @@ hide:
 - navigation
 ---
 
-<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- tags -->
 ## Vereiste
 
 De te verwerken persoonsgegevens zijn juist, nauwkeurig en worden zo nodig geactualiseerd of gewist.

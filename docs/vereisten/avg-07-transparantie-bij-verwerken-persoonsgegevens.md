@@ -16,7 +16,7 @@ hide:
 - navigation
 ---
 
-<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- tags -->
 ## Vereiste
 
 De verwerking van persoonsgegevens moet transparant zijn.

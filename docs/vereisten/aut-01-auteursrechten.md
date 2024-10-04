@@ -12,7 +12,7 @@ hide:
 - navigation
 ---
 
-<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- tags -->
 ## Vereiste
 
 Auteursrechten mogen niet geschonden worden bij het ontwikkelen en gebruiken van algoritmes en AI.

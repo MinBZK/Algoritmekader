@@ -12,7 +12,7 @@ hide:
 - navigation
 ---
 
-<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- tags -->
 ## Vereiste
 
 Aanbieders van AI-systemen met een hoog risico moeten op verzoek van een met reden omkleed verzoek van een nationale bevoegde autoriteit aan kunnen tonen dat het AI-systeem in overeenstemming is met de vereisten van afdeling 2 AI-Verordening.

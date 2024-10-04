@@ -11,7 +11,7 @@ hide:
 - navigation
 ---
 
-<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- tags -->
 ## Vereiste
 
 Aanbieders verder in de AI-waardeketen hebben het recht een klacht in te dienen wegens inbreuk op de AI verordening bij het AI-bureau.

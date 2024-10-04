@@ -14,7 +14,7 @@ onderwerp:
 - privacy-en-gegevensbescherming
 ---
 
-<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- tags -->
 ## Vereiste
 
 De verantwoordelijken moeten bij de verwerking van persoonsgegevens door algoritmes en AI-systemen kunnen aantonen dat de verwerkingen rechtmatig plaatsvinden.

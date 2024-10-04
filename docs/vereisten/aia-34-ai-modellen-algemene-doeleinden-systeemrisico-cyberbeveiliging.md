@@ -13,7 +13,7 @@ hide:
 - navigation
 ---
 
-<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- tags -->
 ## Vereiste
 
 Aanbieders van AI-modellen voor algemene doeleinden met een systeemrisico zorgen voor een passend niveau van cyberbeveiligingsbescherming voor het AI-model voor algemene doeleinden met een systeemrisico en de fysieke infrastructuur van het model.

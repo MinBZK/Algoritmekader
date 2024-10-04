@@ -12,7 +12,7 @@ hide:
 - navigation
 ---
 
-<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- tags -->
 ## Vereiste
 
 Gebruiksverantwoordelijken van AI-systemen met een hoog risico bewaren de logs die automatisch worden gegenereerd door dat AI-systeem met een hoog risico voor zover dergelijke logs onder hun controle vallen gedurende een periode die passend is voor het beoogde doel van het AI-systeem met een hoog risico, of ten minste zes maanden, tenzij anders is bepaald in het toepasselijke Unie- of nationaal recht, meer in het bijzonder het Unierecht over de bescherming van persoonsgegevens

@@ -43,4 +43,4 @@ Zonder toetsing aan het proportinaliteits- en subsidiariteitsbeginsel ontstaat h
 
 ## Maatregelen 
 
-<!-- list_maatregelen vereiste/avg-04-proportionaliteit-en-subsidiariteit -->
+<!-- list_maatregelen vereiste/avg-04-proportionaliteit-en-subsidiariteit no-search no-onderwerp no-rol no-levenscyclus -->

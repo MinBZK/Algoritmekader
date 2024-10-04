@@ -46,4 +46,4 @@ Rechten van betrokken worden geschonden als er geen sprake is van transparantie 
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/avg-07-transparantie-bij-verwerken-persoonsgegevens -->
+<!-- list_maatregelen vereiste/avg-07-transparantie-bij-verwerken-persoonsgegevens no-search no-onderwerp no-rol no-levenscyclus -->

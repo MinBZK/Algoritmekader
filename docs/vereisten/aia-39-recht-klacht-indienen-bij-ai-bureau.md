@@ -35,4 +35,4 @@ Gebrek aan klachtrecht verhindert het AI-bureau om tijdig en zorgvuldig te kunne
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-39-recht-klacht-indienen-bij-ai-bureau -->
+<!-- list_maatregelen vereiste/aia-39-recht-klacht-indienen-bij-ai-bureau no-search no-onderwerp no-rol no-levenscyclus -->

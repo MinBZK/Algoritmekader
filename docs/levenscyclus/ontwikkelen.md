@@ -1,7 +1,6 @@
 --- 
 title: Ontwikkelen
 hide:
-- navigation
 - toc
 ---
 

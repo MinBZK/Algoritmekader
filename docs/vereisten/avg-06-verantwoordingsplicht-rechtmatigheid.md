@@ -57,4 +57,4 @@ Het niet naleven van deze norm moet worden gekwalificeerd als een onrechtmatighe
 
 ## Maatregelen 
 
-<!-- list_maatregelen vereiste/avg-06-verantwoordingsplicht-rechtmatigheid -->
+<!-- list_maatregelen vereiste/avg-06-verantwoordingsplicht-rechtmatigheid no-search no-onderwerp no-rol no-levenscyclus -->

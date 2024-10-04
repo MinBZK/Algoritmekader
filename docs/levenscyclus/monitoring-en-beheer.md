@@ -1,7 +1,6 @@
 --- 
 title: Monitoring en beheer
 hide:
-- navigation
 - toc
 ---
 

@@ -40,4 +40,4 @@ Het is onduidelijk op wat voor manier het algoritmes of AI-systeem heeft bijgedr
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/awb-02-motiveringsbeginsel -->
+<!-- list_maatregelen vereiste/awb-02-motiveringsbeginsel no-search no-onderwerp no-rol no-levenscyclus -->

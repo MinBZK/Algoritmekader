@@ -43,4 +43,4 @@ Door privacy en gegevensbescherming door ontwerp en standaardinstellingen niet t
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/avg-11-privacy-bij-ontwerp-bij-verwerking-van-persoonsgegevens -->
+<!-- list_maatregelen vereiste/avg-11-privacy-bij-ontwerp-bij-verwerking-van-persoonsgegevens no-search no-onderwerp no-rol no-levenscyclus -->

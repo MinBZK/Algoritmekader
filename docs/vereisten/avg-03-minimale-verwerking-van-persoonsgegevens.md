@@ -37,4 +37,4 @@ Het onnodig verwerken van persoonsgegevens kan een inbreuk maken op rechten van 
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/avg-03-minimale-verwerking-van-persoonsgegevens -->
+<!-- list_maatregelen vereiste/avg-03-minimale-verwerking-van-persoonsgegevens no-search no-onderwerp no-rol no-levenscyclus -->

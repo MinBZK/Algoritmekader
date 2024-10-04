@@ -60,4 +60,4 @@ Dit kan leiden tot potentiële schendingen van de rechten en vrijheden van betro
 
 ## Maatregelen 
 
-<!-- list_maatregelen vereiste/avg-13-dpia-verplicht -->
+<!-- list_maatregelen vereiste/avg-13-dpia-verplicht no-search no-onderwerp no-rol no-levenscyclus -->

@@ -13,7 +13,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 Bij het doorlopen, periodieke systematische toetsing en actualisatie van het risicosysteem nemen aanbieders in overweging of het beoogde doel van het AI-systeem negatieve effecten zal hebben op personen jonger dan 18 jaar of andere kwetsbare groepen.
@@ -37,4 +37,4 @@ Niet adequaat adresseren van risico's voor jongeren en kwetsbare groepen kan lei
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-04-risicobeoordeling-voor-jongeren-en-kwetsbaren -->
+<!-- list_maatregelen vereiste/aia-04-risicobeoordeling-voor-jongeren-en-kwetsbaren no-search no-onderwerp no-rol no-levenscyclus -->

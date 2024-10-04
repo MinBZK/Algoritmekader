@@ -13,7 +13,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 
 ## Vereiste
 
@@ -42,4 +42,4 @@ Onvoldoende kwaliteitsborging van testdata kan leiden tot vertekende resultaten 
 
 ## Maatregelen 
 
-<!-- list_maatregelen vereiste/aia-05-data-kwaliteitscriteria -->
+<!-- list_maatregelen vereiste/aia-05-data-kwaliteitscriteria no-search no-onderwerp no-rol no-levenscyclus -->

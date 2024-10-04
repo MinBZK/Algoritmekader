@@ -12,7 +12,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 Bijzondere categorieën van persoonsgegevens mogen alleen worden verwerkt op basis van een wettelijke uitzondering.
@@ -44,4 +44,4 @@ Het (onrechtmatige) verwerken van bijzondere categorieën persoonsgegevens breng
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/avg-08-wettelijke-verwerking-van-gevoelige-gegevens -->
+<!-- list_maatregelen vereiste/avg-08-wettelijke-verwerking-van-gevoelige-gegevens no-search no-onderwerp no-rol no-levenscyclus -->

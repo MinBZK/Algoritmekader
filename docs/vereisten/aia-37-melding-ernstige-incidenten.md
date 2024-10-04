@@ -11,7 +11,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 Aanbieders van in de Europese Unie in de handel gebrachte AI-systemen met een hoog risico melden ernstige incidenten bij de markttoezichtautoriteiten van de lidstaten waarin dat incident heeft plaatsgevonden.
@@ -40,4 +40,4 @@ Het niet melden van ernstige incidenten kan leiden tot vertraagde reactie op pot
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-37-melding-ernstige-incidenten -->
+<!-- list_maatregelen vereiste/aia-37-melding-ernstige-incidenten no-search no-onderwerp no-rol no-levenscyclus -->

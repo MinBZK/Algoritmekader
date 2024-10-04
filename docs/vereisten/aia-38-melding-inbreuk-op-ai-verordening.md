@@ -12,7 +12,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 Inbreuken op de AI verordening moeten gemeld kunnen worden en melders moeten dit op een veilige en vertrouwelijke manier kunnen doen, zoals beschreven in Richtlijn (EU) 2019/1937.
@@ -37,4 +37,4 @@ Gebrek aan een veilige omgeving kan ertoe leiden dat klokkenluiders geen melding
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-38-melding-inbreuk-op-ai-verordening -->
+<!-- list_maatregelen vereiste/aia-38-melding-inbreuk-op-ai-verordening no-search no-onderwerp no-rol no-levenscyclus -->

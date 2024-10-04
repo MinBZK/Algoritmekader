@@ -12,7 +12,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 Aanbieders van AI-modellen voor algemene doeleinden met een systeemrisico moeten relevante informatie over ernstige incidenten en mogelijke corrigerende maatregelen bijhouden, documenteren en onverwijld rapporteren aan het AI bureau en, in voorkomend geval, aan de nationale bevoegde autoriteiten.
@@ -35,4 +35,4 @@ Niet voldoen aan deze verplichtingen kan leiden tot risico's op veiligheidsincid
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-33-ai-modellen-algemene-doeleinden-systeemrisico-ernstige-incidenten -->
+<!-- list_maatregelen vereiste/aia-33-ai-modellen-algemene-doeleinden-systeemrisico-ernstige-incidenten no-search no-onderwerp no-rol no-levenscyclus -->

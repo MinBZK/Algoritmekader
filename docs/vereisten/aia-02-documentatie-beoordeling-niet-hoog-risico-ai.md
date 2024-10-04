@@ -29,7 +29,7 @@ AI-systemen met een hoog risico als bedoeld in punt 2 van bijlage III (kritieke 
 - [Artikel 6(4) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e2986-1-1)
 - [Artikel 49(2) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5358-1-1)
 - [Artikel 71 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e7019-1-1)
-- [Bijlage III AVerordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e38-127-1)
+- [Bijlage III Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e38-127-1)
 
 ## Wanneer van toepassing?
 
@@ -41,4 +41,4 @@ Gebrek aan transparantie en verantwoording bij risicobeoordeling kan leiden tot 
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-02-documentatie-beoordeling-niet-hoog-risico-ai -->
+ <!-- list_maatregelen vereiste/aia-02-documentatie-beoordeling-niet-hoog-risico-ai no-search no-onderwerp no-rol no-levenscyclus -->

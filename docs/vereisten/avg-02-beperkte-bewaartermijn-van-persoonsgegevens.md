@@ -12,7 +12,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 Persoonsgegevens moeten worden bewaard in een vorm die het mogelijk maakt om de betrokkenen niet langer te identificeren dan nodig is voor de realisering van de doeleinden waarvoor de persoonsgegevens initieel worden verwerkt.
@@ -43,4 +43,4 @@ Er ontstaan aanvullende risico's bij bijvoorbeeld een datalek.
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/avg-02-beperkte-bewaartermijn-van-persoonsgegevens -->
+<!-- list_maatregelen vereiste/avg-02-beperkte-bewaartermijn-van-persoonsgegevens no-search no-onderwerp no-rol no-levenscyclus -->

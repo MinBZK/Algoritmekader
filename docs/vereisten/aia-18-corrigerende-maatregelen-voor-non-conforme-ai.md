@@ -10,7 +10,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 Aanbieders van AI-systemen met een hoog risico die van mening zijn of redenen hebben om aan te nemen dat een door hen in de handel gebracht of in gebruik gesteld AI systeem met een hoog risico niet in overeenstemming is met de AI-verordening, nemen onmiddellijk de nodige corrigerende maatregelen om dat systeem naargelang het geval in overeenstemming te brengen, uit de handel te nemen, te deactiveren of terug te roepen.
@@ -36,4 +36,4 @@ Het kan leiden tot juridische procedures en reputatieschade voor organisaties.
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-18-corrigerende-maatregelen-voor-non-conforme-ai -->
+<!-- list_maatregelen vereiste/aia-18-corrigerende-maatregelen-voor-non-conforme-ai no-search no-onderwerp no-rol no-levenscyclus -->

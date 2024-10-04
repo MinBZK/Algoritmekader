@@ -16,7 +16,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 De technische documentatie van een AI-systeem met een hoog risico wordt opgesteld voordat dit systeem in de handel wordt gebracht of in gebruik wordt gesteld, en wordt geactualiseerd.
@@ -54,4 +54,4 @@ Onvolledige of ontoereikende technische documentatie kan leiden tot onduidelijkh
 
 ## Maatregelen 
 
-<!-- list_maatregelen vereiste/aia-06-technische-documentatie -->
+<!-- list_maatregelen vereiste/aia-06-technische-documentatie no-search no-onderwerp no-rol no-levenscyclus -->

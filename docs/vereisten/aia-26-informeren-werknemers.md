@@ -11,7 +11,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 Voordat een AI-systeem met een hoog risico op de werkplek in gebruik wordt gesteld of wordt gebruikt, delen gebruiksverantwoordelijken die werkgever zijn werknemersvertegenwoordigers en de betrokken werknemers mee dat zij zullen worden onderworpen aan het gebruik van het AI-systeem met een hoog risico.
@@ -36,4 +36,4 @@ Als werknemersvertegenwoordigers en werknemers niet worden geïnformeerd over de
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-26-informeren-werknemers -->
+<!-- list_maatregelen vereiste/aia-26-informeren-werknemers no-search no-onderwerp no-rol no-levenscyclus -->

@@ -10,7 +10,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 
 ## Vereiste
 
@@ -37,4 +37,4 @@ Er kunnen risico's ontstaan zoals ongeautoriseerde toegang, vernietiging, verlie
 
 ## Maatregelen 
 
-<!-- list_maatregelen vereiste/bio-01-beveiliging-informatie-en-informatiesystemen -->
+<!-- list_maatregelen vereiste/bio-01-beveiliging-informatie-en-informatiesystemen no-search no-onderwerp no-rol no-levenscyclus -->

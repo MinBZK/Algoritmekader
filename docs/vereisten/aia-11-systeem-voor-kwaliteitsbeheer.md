@@ -10,7 +10,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 Aanbieders van AI-systemen met een hoog risico voorzien in een systeem voor kwaliteitsbeheer dat de naleving van deze verordening waarborgt.
@@ -45,4 +45,4 @@ Zonder toepassing van een kwaliteitsbeheersysteem kunnen risico's ontstaan voor 
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-11-systeem-voor-kwaliteitsbeheer -->
+<!-- list_maatregelen vereiste/aia-11-systeem-voor-kwaliteitsbeheer no-search no-onderwerp no-rol no-levenscyclus -->

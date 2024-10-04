@@ -14,7 +14,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 De te verwerken persoonsgegevens zijn juist, nauwkeurig en worden zo nodig geactualiseerd of gewist.
@@ -41,4 +41,4 @@ Als er geen rekening wordt gehouden met de juistheid, nauwkeurigheid en volledig
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/avg-05-juistheid-en-actualiteit-van-persoonsgegevens -->
+<!-- list_maatregelen vereiste/avg-05-juistheid-en-actualiteit-van-persoonsgegevens no-search no-onderwerp no-rol no-levenscyclus -->

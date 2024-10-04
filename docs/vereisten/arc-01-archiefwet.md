@@ -15,7 +15,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 Overheidsorganen zijn verplicht de onder hen berustende archiefbescheiden in goede, geordende en toegankelijke staat te brengen en te bewaren, alsmede zorg te dragen voor de vernietiging van de daarvoor in aanmerking komende archiefbescheiden.
@@ -42,4 +42,4 @@ Het nalaten om archiefbescheiden na verloop van tijd te verwijderen brengt risic
 
 ## Maatregelen 
 
-<!-- list_maatregelen vereiste/arc-01-archiefwet -->
+<!-- list_maatregelen vereiste/arc-01-archiefwet no-search no-onderwerp no-rol no-levenscyclus -->

@@ -13,7 +13,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 Aanbieders van AI-systemen met een hoog risico leven de registratieverplichtingen als bedoeld in artikel 49 na, wat betekent dat voor het in de handel brengen of in bedrijf te stellen van het hoog risico AI-systeem, de aanbieder of in voorkomende gevallen de gemachtigde het systeem registreert in de EU-databank.
@@ -39,4 +39,4 @@ Niet naleven van deze verplichtingen kan leiden tot juridische en operationele p
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-17-registratieverplichtingen -->
+<!-- list_maatregelen vereiste/aia-17-registratieverplichtingen no-search no-onderwerp no-rol no-levenscyclus -->

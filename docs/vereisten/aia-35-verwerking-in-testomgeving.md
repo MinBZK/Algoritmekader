@@ -12,7 +12,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 Rechtmatig voor andere doeleinden verzamelde persoonsgegevens mogen uitsluitend in de AI-testomgeving voor regelgeving worden verwerkt ten behoeve van het ontwikkelen, trainen en testen van bepaalde AI-systemen en indien aan alle voorwaarden van art. 57 is voldaan.
@@ -36,4 +36,4 @@ Verdere verwerking van persoonsgegevens buiten een AI-testomgeving vergroot de k
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-35-verwerking-in-testomgeving -->
+<!-- list_maatregelen vereiste/aia-35-verwerking-in-testomgeving no-search no-onderwerp no-rol no-levenscyclus -->

@@ -14,7 +14,7 @@ onderwerp:
 - privacy-en-gegevensbescherming
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 De verantwoordelijken moeten bij de verwerking van persoonsgegevens door algoritmes en AI-systemen kunnen aantonen dat de verwerkingen rechtmatig plaatsvinden.
@@ -57,4 +57,4 @@ Het niet naleven van deze norm moet worden gekwalificeerd als een onrechtmatighe
 
 ## Maatregelen 
 
-<!-- list_maatregelen vereiste/avg-06-verantwoordingsplicht-rechtmatigheid -->
+<!-- list_maatregelen vereiste/avg-06-verantwoordingsplicht-rechtmatigheid no-search no-onderwerp no-rol no-levenscyclus -->

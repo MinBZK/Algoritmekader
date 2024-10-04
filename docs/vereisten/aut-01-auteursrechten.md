@@ -12,7 +12,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 Auteursrechten mogen niet geschonden worden bij het ontwikkelen en gebruiken van algoritmes en AI.
@@ -44,4 +44,4 @@ Bovendien kan het niet naleven van het auteursrecht het vertrouwen van gebruiker
 
 ## Maatregelen 
 
-<!-- list_maatregelen vereiste/aut-01-auteursrechten -->
+<!-- list_maatregelen vereiste/aut-01-auteursrechten no-search no-onderwerp no-rol no-levenscyclus -->

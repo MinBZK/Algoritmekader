@@ -12,7 +12,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 Aanbieders van AI-systemen met een hoog risico moeten een CE-markering toevoegen aan het AI-systeem met een hoog risico of, wanneer dit niet mogelijk is, op de verpakking of in de bij het product gevoegde documentatie, om aan te geven dat aan de AI-verordening is voldaan.
@@ -38,4 +38,4 @@ Niet naleven van deze verplichtingen kan leiden tot juridische en operationele p
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-16-ce-markering -->
+<!-- list_maatregelen vereiste/aia-16-ce-markering no-search no-onderwerp no-rol no-levenscyclus -->

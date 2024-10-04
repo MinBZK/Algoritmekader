@@ -14,7 +14,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 Fundamentele vrijheden, mensenrechten en grondrechten worden beschermd bij de inzet van algoritmes en AI.
@@ -56,8 +56,8 @@ Grondrechten kunnen worden geraakt door de inzet van algoritmes met eventuele sc
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/grw-01-fundamentele_rechten -->
+<!-- list_maatregelen vereiste/grw-01-fundamentele_rechten no-search no-onderwerp no-rol no-levenscyclus -->
 
 ## Instrumenten
 
-<!-- list_instrumenten vereiste/grw-01-fundamentele_rechten -->
+<!-- list_instrumenten vereiste/grw-01-fundamentele_rechten no-search no-onderwerp no-rol no-levenscyclus -->

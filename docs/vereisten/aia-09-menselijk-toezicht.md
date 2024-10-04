@@ -12,7 +12,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 AI-systemen met een hoog risico worden zodanig ontworpen en ontwikkeld, met inbegrip van passende mens-machine-interface-instrumenten, dat hierop tijdens de periode dat zij worden gebruikt, op doeltreffende wijze toezicht kan worden uitgeoefend door natuurlijke personen.
@@ -52,4 +52,4 @@ Ontbreken van betekenisvol menselijk toezicht kan leiden tot gebrek aan controle
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-09-menselijk-toezicht -->
+<!-- list_maatregelen vereiste/aia-09-menselijk-toezicht no-search no-onderwerp no-rol no-levenscyclus -->

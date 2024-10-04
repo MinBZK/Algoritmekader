@@ -12,7 +12,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 Aanbieders van AI-systemen met een hoog risico moeten op verzoek van een met reden omkleed verzoek van een nationale bevoegde autoriteit aan kunnen tonen dat het AI-systeem in overeenstemming is met de vereisten van afdeling 2 AI-Verordening.
@@ -34,4 +34,4 @@ Niet naleven van deze verplichtingen kan leiden tot juridische en operationele p
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-21-aantoonbaarheid-vereisten-hoog-risico -->
+<!-- list_maatregelen vereiste/aia-21-aantoonbaarheid-vereisten-hoog-risico no-search no-onderwerp no-rol no-levenscyclus -->

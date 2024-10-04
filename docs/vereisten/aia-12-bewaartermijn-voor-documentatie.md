@@ -14,7 +14,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 
 ## Vereiste
 
@@ -45,4 +45,4 @@ Niet voldoen aan de bewaartermijn kan leiden tot juridische consequenties en kan
 
 ## Maatregelen 
 
-<!-- list_maatregelen vereiste/aia-12-bewaartermijn-voor-documentatie -->
+<!-- list_maatregelen vereiste/aia-12-bewaartermijn-voor-documentatie no-search no-onderwerp no-rol no-levenscyclus -->

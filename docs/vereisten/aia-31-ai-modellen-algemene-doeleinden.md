@@ -13,7 +13,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 Aanbieders van AI-modellen voor algemene doeleinden moeten (technische) informatie en documentatie opstellen, up-to-date houden en beschikbaar stellen voor aanbieders van AI-systemen die het AI-model voor algemene doeleinden in hun AI-systemen willen integreren.
@@ -45,4 +45,4 @@ Het niet voldoen aan deze verplichtingen kan leiden tot juridische en ethische c
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-31-ai-modellen-algemene-doeleinden -->
+<!-- list_maatregelen vereiste/aia-31-ai-modellen-algemene-doeleinden onderwerp/publieke-inkoop no-search no-onderwerp no-rol no-levenscyclus -->

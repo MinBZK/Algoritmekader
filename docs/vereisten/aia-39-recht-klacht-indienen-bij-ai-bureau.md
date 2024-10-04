@@ -11,7 +11,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 Aanbieders verder in de AI-waardeketen hebben het recht een klacht in te dienen wegens inbreuk op de AI verordening bij het AI-bureau.
@@ -35,4 +35,4 @@ Gebrek aan klachtrecht verhindert het AI-bureau om tijdig en zorgvuldig te kunne
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-39-recht-klacht-indienen-bij-ai-bureau -->
+<!-- list_maatregelen vereiste/aia-39-recht-klacht-indienen-bij-ai-bureau no-search no-onderwerp no-rol no-levenscyclus -->

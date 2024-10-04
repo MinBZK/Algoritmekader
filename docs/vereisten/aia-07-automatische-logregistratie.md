@@ -12,7 +12,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 Algoritmes en AI-systemen zijn dusdanig technisch vormgegeven dat gebeurtenissen gedurende hun levenscyclus automatisch worden geregistreerd (“logs”). 
@@ -43,4 +43,4 @@ Ontbreken van automatische logregistratie kan leiden tot een gebrek aan transpar
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-07-automatische-logregistratie -->
+<!-- list_maatregelen vereiste/aia-07-automatische-logregistratie no-search no-onderwerp no-rol no-levenscyclus -->

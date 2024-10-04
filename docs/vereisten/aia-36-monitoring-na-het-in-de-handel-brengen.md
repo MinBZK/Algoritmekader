@@ -11,7 +11,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 Aanbieders moeten een systeem voor monitoring na het in de handel brengen vaststellen en documenteren op een manier die evenredig is aan de aard van de AI-technologieën en de risico’s van het AI-systeem met een hoog risico.
@@ -45,4 +45,4 @@ Een aanbieder kan niet nagaan of een AI-systeem blijvend voldoet aan voorschrift
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-36-monitoring-na-het-in-de-handel-brengen -->
+<!-- list_maatregelen vereiste/aia-36-monitoring-na-het-in-de-handel-brengen no-search no-onderwerp no-rol no-levenscyclus -->

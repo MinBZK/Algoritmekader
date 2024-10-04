@@ -10,7 +10,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 Gebruiksverantwoordelijken van AI-systemen met een hoog risico nemen passende technische en organisatorische maatregelen om te waarborgen dat zij dergelijke systemen gebruiken in overeenstemming met de gebruiksaanwijzingen die bij de systemen zijn gevoegd, in overeenstemming met de leden 3 en 6 van artikel 26 van de AI-verordening.
@@ -36,4 +36,4 @@ Het niet naleven van deze maatregelen kan leiden tot onjuist gebruik van de AI-s
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-22-gebruiksverantwoordelijken-maatregelen -->
+<!-- list_maatregelen vereiste/aia-22-gebruiksverantwoordelijken-maatregelen no-search no-onderwerp no-rol no-levenscyclus -->

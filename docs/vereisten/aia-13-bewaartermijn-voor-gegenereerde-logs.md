@@ -15,7 +15,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 Aanbieders van AI-systemen met een hoog risico bewaren de in artikel 12, lid 1, bedoelde logs die automatisch worden gegenereerd door hun AI-systemen met een hoog risico voor zover dergelijke logs onder hun controle vallen.
@@ -40,4 +40,4 @@ Het niet of onvoldoende bewaren van logs kan het vermogen belemmeren om incident
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-13-bewaartermijn-voor-gegenereerde-logs -->
+<!-- list_maatregelen vereiste/aia-13-bewaartermijn-voor-gegenereerde-logs no-search no-onderwerp no-rol no-levenscyclus -->

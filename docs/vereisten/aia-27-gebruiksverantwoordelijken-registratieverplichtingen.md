@@ -12,7 +12,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 Gebruiksverantwoordelijken van AI-systemen met een hoog risico die de hoedanigheid van overheidsinstanties of instellingen, organen of instanties van de Unie hebben, leven de in artikel 49 bedoelde registratieverplichtingen na.
@@ -44,4 +44,4 @@ Zonder registratie van het hoge risico AI-systeem en het registreren welke organ
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-27-gebruiksverantwoordelijken-registratieverplichtingen -->
+<!-- list_maatregelen vereiste/aia-27-gebruiksverantwoordelijken-registratieverplichtingen no-search no-onderwerp no-rol no-levenscyclus -->

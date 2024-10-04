@@ -11,7 +11,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 Aanbieders van AI-systemen met een hoog risico stellen een EU-conformiteitsverklaring op.
@@ -39,4 +39,4 @@ Niet naleven van deze verplichtingen kan leiden tot juridische en operationele p
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-15-eu-conformiteitsverklaring -->
+<!-- list_maatregelen vereiste/aia-15-eu-conformiteitsverklaring no-search no-onderwerp no-rol no-levenscyclus -->

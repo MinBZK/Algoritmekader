@@ -12,7 +12,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 Betrokkenen kunnen een beroep doen op hun privacyrechten.
@@ -37,4 +37,4 @@ Betrokkenen hebben geen controle over hun persoonsgegevens wanneer ze geen beroe
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/avg-09-inroepen-privacyrecht-bij-verwerking-persoonsgegevens -->
+<!-- list_maatregelen vereiste/avg-09-inroepen-privacyrecht-bij-verwerking-persoonsgegevens no-search no-onderwerp no-rol no-levenscyclus -->

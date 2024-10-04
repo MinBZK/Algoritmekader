@@ -14,7 +14,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 Betrokkenen hebben het recht om niet onderworpen te worden aan een enkel op geautomatiseerde verwerking, waaronder proflering, gebaseerd besluit, wanneer dit rechtsgevolgen heeft voor hen of het hen anderszins in aanzienlijke mate treft.
@@ -39,4 +39,4 @@ Bij geautomatiseerde besluitvorming kan het risico ontstaan dat kenmerken van ee
 
 ## Maatregelen 
 
-<!-- list_maatregelen vereiste/avg-10-recht-op-niet-geautomatiseerde-besluitvorming -->
+<!-- list_maatregelen vereiste/avg-10-recht-op-niet-geautomatiseerde-besluitvorming no-search no-onderwerp no-rol no-levenscyclus -->

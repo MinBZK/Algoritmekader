@@ -17,7 +17,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 
 ## Vereiste
 
@@ -50,4 +50,4 @@ Het risico bestaat dat het model onwenselijke systematische afwijkingen creëert
 
 ## Maatregelen 
 
-<!-- list_maatregelen vereiste/grw-02-non-discriminatie -->
+<!-- list_maatregelen vereiste/grw-02-non-discriminatie no-search no-onderwerp no-rol no-levenscyclus -->

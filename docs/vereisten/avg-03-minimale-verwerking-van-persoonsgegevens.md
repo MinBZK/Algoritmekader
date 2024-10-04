@@ -12,7 +12,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 De verwerking van persoonsgegevens moet minimaal worden gehouden, dat wil zeggen dat die verwerking toereikend moet zijn, ter zake dienend en beperkt tot wat noodzakelijk is voor de doeleinden waarvoor zij worden verwerkt.
@@ -37,4 +37,4 @@ Het onnodig verwerken van persoonsgegevens kan een inbreuk maken op rechten van 
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/avg-03-minimale-verwerking-van-persoonsgegevens -->
+<!-- list_maatregelen vereiste/avg-03-minimale-verwerking-van-persoonsgegevens no-search no-onderwerp no-rol no-levenscyclus -->

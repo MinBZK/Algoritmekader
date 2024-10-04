@@ -13,7 +13,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 Aanbieders van AI-modellen voor algemene doeleinden met een potentieel systeemrisico moeten modelevaluatie uitvoeren overeenkomstig gestandaardiseerde protocollen en instrumenten die de stand van de techniek weerspiegelen, met inbegrip van het uitvoeren en documenteren van tests gericht op het ontdekken van kwetsbaarheden van het model om systeemrisico’s in kaart te brengen en te beperken.
@@ -40,4 +40,4 @@ Niet voldoen aan deze verplichtingen kan leiden tot negatieve gevolgen voor de g
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-32-ai-modellen-algemene-doeleinden-systeemrisico -->
+<!-- list_maatregelen vereiste/aia-32-ai-modellen-algemene-doeleinden-systeemrisico no-search no-onderwerp no-rol no-levenscyclus -->

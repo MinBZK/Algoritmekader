@@ -13,7 +13,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 Aanbieders van AI-modellen voor algemene doeleinden met een systeemrisico zorgen voor een passend niveau van cyberbeveiligingsbescherming voor het AI-model voor algemene doeleinden met een systeemrisico en de fysieke infrastructuur van het model.
@@ -39,4 +39,4 @@ Niet voldoen aan deze verplichtingen kan leiden tot risico's op veiligheidsincid
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-34-ai-modellen-algemene-doeleinden-systeemrisico-cyberbeveiliging -->
+<!-- list_maatregelen vereiste/aia-34-ai-modellen-algemene-doeleinden-systeemrisico-cyberbeveiliging no-search no-onderwerp no-rol no-levenscyclus -->

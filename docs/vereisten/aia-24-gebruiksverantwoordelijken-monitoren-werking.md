@@ -11,7 +11,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 Gebruiksverantwoordelijken monitoren de werking van het AI-systeem met een hoog risico op basis van de gebruiksaanwijzingen en stellen in voorkomend geval de aanbieders in kennis overeenkomstig artikel 72 AI Verordening
@@ -42,4 +42,4 @@ Zonder monitoring door gebruiksverantwoordelijken en (waar nodig) het informeren
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-24-gebruiksverantwoordelijken-monitoren-werking -->
+<!-- list_maatregelen vereiste/aia-24-gebruiksverantwoordelijken-monitoren-werking no-search no-onderwerp no-rol no-levenscyclus -->

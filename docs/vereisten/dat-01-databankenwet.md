@@ -11,7 +11,7 @@ hide:
 - navigation
 ---
 
-<!-- tags -->
+<!-- tags no-search no-onderwerp no-rol no-levenscyclus -->
 ## Vereiste
 
 Het is verboden om zonder goedkeuring van de producent een databank op te vragen en/of te hergebruiken.
@@ -45,4 +45,4 @@ Als een ontwikkelaar onbevoegd gebruik heeft gemaakt van data uit een databank b
  
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/dat-01-databankenwet -->
+<!-- list_maatregelen vereiste/dat-01-databankenwet no-search no-onderwerp no-rol no-levenscyclus -->

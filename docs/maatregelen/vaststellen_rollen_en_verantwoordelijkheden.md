@@ -9,7 +9,7 @@ onderwerp:
 - governance
 - privacy-en-gegevensbescherming
 rollen:
-- proceseigenaar
+- projectleider
 
 hide:
 - navigation

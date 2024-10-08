@@ -15,13 +15,10 @@ levenscyclus:
 - monitoring-en-beheer
 onderwerp:
 - technische-robuustheid-en-veiligheid
-- governance
 - transparantie
 - menselijke-controle
 rollen:
 - projectleider
-- informatiebeheerder
-- security-officer
 hide:
 - navigation
 - toc

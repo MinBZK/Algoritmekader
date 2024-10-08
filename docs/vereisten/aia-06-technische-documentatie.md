@@ -9,9 +9,11 @@ levenscyclus:
 - verificatie-en-validatie
 - implementatie
 - monitoring-en-beheer
-onderwerp: 
+onderwerp:
 - governance
 - technische-robuustheid-en-veiligheid
+rollen:
+- projectleider
 hide:
 - navigation
 ---

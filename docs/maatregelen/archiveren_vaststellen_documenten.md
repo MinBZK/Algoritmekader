@@ -10,10 +10,7 @@ levenscyclus:
 onderwerp:
 - governance
 rollen:
-- proceseigenaar
-- informatiebeheerder
-- archiefdeskundige
-- data-scientist
+- projectleider
 - jurist
 hide:
 - navigation

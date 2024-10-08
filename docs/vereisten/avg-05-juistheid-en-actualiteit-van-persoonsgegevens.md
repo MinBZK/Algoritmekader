@@ -3,7 +3,6 @@ title: Juistheid en actualiteit van gegevens
 id: urn:nl:ak:ver:avg-05
 toelichting: De te verwerken persoonsgegevens zijn juist, nauwkeurig en worden zo nodig geactualiseerd of gewist.
 levenscyclus:
-- probleemanalyse
 - ontwerp
 - dataverkenning-en-datapreparatie
 - ontwikkelen

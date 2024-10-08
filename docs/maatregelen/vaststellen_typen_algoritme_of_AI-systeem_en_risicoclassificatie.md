@@ -16,7 +16,7 @@ levenscyclus:
 onderwerp: 
 - publieke-inkoop
 - governance
-rollen
+rollen:
 - projectleider
 - beleid-en-advies
 hide:

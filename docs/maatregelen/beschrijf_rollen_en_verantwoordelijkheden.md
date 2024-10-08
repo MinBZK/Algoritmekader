@@ -19,13 +19,8 @@ onderwerp:
 - privacy-en-gegevensbescherming
 - governance
 rollen:
-- proceseigenaar
-- privacy-officer
-- data-scientist
-- data-engineer
-- inkoopadviseur
-- contractbeheerder
-- aanbieder
+- projectleider
+- beleid-en-advies
 hide:
 - navigation
 - toc

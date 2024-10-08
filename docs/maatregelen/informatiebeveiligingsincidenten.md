@@ -10,11 +10,10 @@ levenscyclus:
 onderwerp:
 - technische-robuustheid-en-veiligheid
 - governance
+- jurist
 rollen:
 - projectleider
-- informatiebeheerder
-- security-officer
-- proceseigenaar
+- beleid-en-advies
 hide:
 - navigation
 - toc

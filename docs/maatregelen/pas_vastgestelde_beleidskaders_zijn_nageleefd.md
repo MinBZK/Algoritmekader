@@ -25,15 +25,8 @@ onderwerp:
 - governance
   
 rollen:
-- proceseigenaar
-- beleidsmedewerker
-- data-engineer
-- data-scientist
-- informatiebeheerder
-- privacy-officer
-- security-officer
-- ethicus
-- architect
+- projectleider
+- beleid-en-advies
   
 hide:
 - navigation

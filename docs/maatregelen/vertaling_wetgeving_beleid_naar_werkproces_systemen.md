@@ -22,6 +22,7 @@ onderwerp:
 rollen:
 - projectleider
 - beleid-en-advies
+- jurist
   
 hide:
 - navigation

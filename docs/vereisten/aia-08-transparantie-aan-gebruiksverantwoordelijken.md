@@ -14,6 +14,7 @@ hide:
 rollen:
 - projectleider
 - ontwikkelaar
+- beleid-en-advies
 ---
 
 <!-- tags -->

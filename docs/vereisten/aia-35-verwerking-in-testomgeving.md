@@ -8,6 +8,10 @@ levenscyclus:
 onderwerp:
 - privacy-en-gegevensbescherming
 - data
+rollen:
+- jurist
+- ontwikkelaar
+- projectleider
 hide:
 - navigation
 ---

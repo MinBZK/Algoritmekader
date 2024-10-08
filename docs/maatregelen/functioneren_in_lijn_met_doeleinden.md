@@ -12,9 +12,7 @@ onderwerp:
 - bias-en-non-discriminatie
 - governance
 rollen:
-- opdrachtgever
 - projectleider
-- data-scientist
 hide:
 - navigation
 ---

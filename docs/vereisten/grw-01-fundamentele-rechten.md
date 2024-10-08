@@ -4,6 +4,7 @@ id: urn:nl:ak:ver:grw-01
 toelichting: Fundamentele vrijheden, mensenrechten en grondrechten worden beschermd bij de inzet van algoritmes en AI.
 levenscyclus:
 - probleemanalyse
+- ontwerp
 - verificatie-en-validatie
 - monitoring-en-beheer
 onderwerp:

@@ -14,11 +14,7 @@ onderwerp:
 - governance
 rollen:
 - projectleider
-- proceseigenaar
-- proceseigenaar
-- data-scientist
-- data-engineer
-- security-officer
+- beleid-en-advies
 hide:
 - navigation
 - toc

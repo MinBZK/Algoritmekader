@@ -10,7 +10,7 @@ onderwerp:
 hide:
 - navigation
 rollen:
-_ projectleider
+- projectleider
 ---
 
 <!-- tags -->

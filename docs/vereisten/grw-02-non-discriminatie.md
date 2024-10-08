@@ -5,10 +5,8 @@ id: urn:nl:ak:ver:grw-02
 toelichting: Allen die zich in Nederland bevinden, worden in gelijke gevallen gelijk behandeld. Directe en indirecte discriminatie wegens godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, handicap, seksuele gerichtheid of op welke grond dan ook, is niet toegestaan. 
 levenscyclus: 
 - probleemanalyse
--  dataverkenning-en-datapreparatie
-- ontwerp
+- dataverkenning-en-datapreparatie
 - verificatie-en-validatie
-- implementatie
 - monitoring-en-beheer
 onderwerp: 
 - fundamentele-rechten

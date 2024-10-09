@@ -30,7 +30,7 @@ hide: navigation
 [Direct naar het Toetsingskader](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag){ .md-button }
 ## Instrument
 
-Het toetsingskader (ods-werkbestand) omvat 5 perspectieven op algoritmes, elk met hun belangrijkste risico's geformuleerd. Het gaat om Sturing en Verantwoordelijkheid, Model en Data, Privacy, IT-beheer en Ethiek. Voor elk risico is er een specifieke onderzoeksvraag opgesteld. Door deze vragen te beantwoorden en een score toe te kennen, krijgt de gebruiker inzicht in hoe goed het gekozen algoritme de risico's beheerst.
+Het toetsingskader omvat 5 perspectieven op algoritmes, elk met hun belangrijkste risico's geformuleerd. Het gaat om Sturing en Verantwoordelijkheid, Model en Data, Privacy, IT-beheer en Ethiek. Voor elk risico is er een specifieke onderzoeksvraag opgesteld. Door deze vragen te beantwoorden en een score toe te kennen, krijgt de gebruiker inzicht in hoe goed het gekozen algoritme de risico's beheerst.
 
 De mate van risico voor een specifiek algoritme wordt bepaald door twee factoren: de gebruikte geavanceerde technieken en de impact van het algoritme op de burger.
 

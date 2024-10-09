@@ -23,7 +23,7 @@ hide:
     <ul>
       <li><a href="vereisten/">Vereisten</a></li>
       <li><a href="maatregelen/">Aanbevolen maatregelen</a></li>
-      <li><a href="instrumenten/">Aanbevolen instrumenten</a></li>
+      <li><a href="hulpmiddelen/">Aanbevolen instrumenten</a></li>
     </ul>
   </div>
 

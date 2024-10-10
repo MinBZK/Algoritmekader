@@ -9,6 +9,8 @@ levenscyclus:
 - monitoring-en-beheer
 onderwerp:
 - transparantie
+rollen:
+- projectleider
 hide:
 - navigation
 ---

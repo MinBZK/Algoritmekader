@@ -12,11 +12,9 @@ levenscyclus:
 onderwerp:
 - privacy-en-gegevensbescherming
 rollen:
-- proceseigenaar
-- aanbieder
-- data-engineer
-- data-scientist
-- privacy-officer
+- projectleider
+- beleid-en-advies
+- jurist
   
 hide:
 - navigation

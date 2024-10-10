@@ -15,6 +15,8 @@ levenscyclus:
 onderwerp: 
 - bias-en-non-discriminatie
 - technische-robuustheid-en-veiligheid
+rollen:
+- ontwikkelaar
 hide:
 - navigation
 - toc

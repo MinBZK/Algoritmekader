@@ -1,6 +1,6 @@
 ---
 title: Bepaal of de output bepalende invloed heeft in een besluit richting personen
-toelichting: Vergewis of het algoritme of AI-systeem overwegend bepalende invloed heeft in een besluit richting personen en laat aanbieder onderbouwen in hoeverre dit wel of niet het geval is. Maak de mate van menselijke tussenkomst onderdeel van de wedstrijd/inkoop/beoordeelingsmatrix als ook de vaste beoordeling hiervan
+toelichting: Ga na of het algoritme of AI-systeem bepalende invloed heeft in een besluit richting personen en laat aanbieder onderbouwen in hoeverre dit wel of niet het geval is. Maak de mate van menselijke tussenkomst onderdeel van de inkoop-/beoordeelingsmatrix.
 vereiste:
 - avg-10-recht-op-niet-geautomatiseerde-besluitvorming
 levenscyclus:
@@ -9,12 +9,8 @@ levenscyclus:
 onderwerp:
 - publieke-inkoop
 rollen:
-- behoeftesteller
-- proceseigenaar
-- gebruiker
-- inkoopadviseur
-- ethicus
-- jurist
+- projectleider
+- beleid-en-advies
 hide:
 - navigation
 - toc
@@ -23,8 +19,7 @@ hide:
 <!-- tags -->
 ## Maatregel
 
-Ga na of het algoritme of AI-systeem overwegend bepalende invloed heeft in een besluit richting personen en laat de aanbieder onderbouwen in hoeverre dit wel of niet het geval is.
-Maak de mate van menselijke tussenkomst onderdeel van de wedstrijd/inkoop/beoordeelingsmatrix als ook de vaste beoordeling hiervan
+Ga na of het algoritme of AI-systeem bepalende invloed heeft in een besluit richting personen en laat aanbieder onderbouwen in hoeverre dit wel of niet het geval is. Maak de mate van menselijke tussenkomst onderdeel van de inkoop-/beoordeelingsmatrix.
 
 ## Toelichting
 
@@ -40,7 +35,7 @@ Raadpleeg voor deze beoordeling verschillende experts, zoals een gebruiker, proc
 
 | Bron                        |
 |-----------------------------|
-|Algoritmekader|
+||
 
 ## Voorbeeld
 

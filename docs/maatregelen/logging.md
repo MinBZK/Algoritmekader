@@ -18,10 +18,7 @@ onderwerp:
 - transparantie
 - menselijke-controle
 rollen:
-- projectleider
-- informatiebeheerder
-- security-officer
-- archiefdeskundige
+- ontwikkelaar
 hide:
 - navigation
 - toc

@@ -8,6 +8,8 @@ levenscyclus:
 onderwerp:
 - governance
 - menselijke-controle
+rollen:
+- projectleider
 hide:
 - navigation
 ---

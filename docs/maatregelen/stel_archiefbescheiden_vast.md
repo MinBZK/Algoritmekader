@@ -13,6 +13,8 @@ levenscyclus:
 # vul hier de bouwblokken in die horen bij deze maatregel
 onderwerp: 
 - publieke-inkoop
+rollen:
+- projectleider
 hide:
 - navigation
 - toc

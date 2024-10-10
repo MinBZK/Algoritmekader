@@ -9,12 +9,8 @@ levenscyclus:
 onderwerp:
 - publieke-inkoop
 rollen:
-- proceseigenaar
-- behoeftesteller
-- inkoopadviseur
-- contractbeheerder
-- aanbestedingsjurist
-- aanbieder
+- projectleider
+- beleid-en-advies
 hide:
 - navigation
 - toc

@@ -9,8 +9,7 @@ levenscyclus:
 onderwerp:
 - data
 rollen:
-- data-scientist
-- data-engineer
+- ontwikkelaar
 hide:
 - navigation
 ---

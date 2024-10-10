@@ -23,16 +23,8 @@ levenscyclus:
 onderwerp: 
 - governance
 rollen:
-- proceseigenaar
-- beleidsmedewerker
-- data-engineer
-- data-scientist
-- informatiebeheerder
-- privacy-officer
-- security-officer
-- ethicus
-- inkoopadviseur
-- contractbeheerder
+- projectleider
+- beleid-en-advies
 
 hide:
 - navigation

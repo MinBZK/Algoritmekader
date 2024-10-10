@@ -7,6 +7,8 @@ levenscyclus:
 - dataverkenning-en-datapreparatie
 onderwerp:
 - data
+rollen:
+- jurist
 hide:
 - navigation
 ---

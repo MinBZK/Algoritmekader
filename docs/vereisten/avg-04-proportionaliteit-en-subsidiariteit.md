@@ -7,6 +7,9 @@ levenscyclus:
 onderwerp: 
 - governance
 - privacy-en-gegevensbescherming
+rollen:
+- jurist
+- ontwikkelaar
 hide:
 - navigation
 ---

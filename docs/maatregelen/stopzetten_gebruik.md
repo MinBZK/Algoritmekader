@@ -25,18 +25,10 @@ levenscyclus:
 - monitoring-en-beheer
 - uitfaseren
 onderwerp: 
-- governance
+- menselijke-controle
 rollen:
-- proceseigenaar
-- beleidsmedewerker
-- data-engineer
-- data-scientist
-- informatiebeheerder
-- privacy-officer
-- security-officer
-- ethicus
-- inkoopadviseur
-- contractbeheerder
+- projectleider
+- ontwikkelaar
 
 hide:
 - navigation

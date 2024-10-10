@@ -12,6 +12,9 @@ levenscyclus:
 onderwerp:
 - privacy-en-gegevensbescherming
 - transparantie
+rollen:
+- ontwikkelaar
+- projectleider
 hide:
 - navigation
 ---

@@ -16,9 +16,8 @@ onderwerp:
 - governance
 rollen:
 - projectleider
-- informatiebeheerder
-- security-officer
-- privacy-officer
+- beleid-en-advies
+- ontwikkelaar
 hide:
 - navigation
 - toc

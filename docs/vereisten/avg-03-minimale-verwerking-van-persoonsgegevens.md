@@ -8,6 +8,9 @@ levenscyclus:
 - ontwikkelen
 onderwerp:
 - privacy-en-gegevensbescherming
+rollen:
+- jurist
+- ontwikkelaar
 hide:
 - navigation
 ---

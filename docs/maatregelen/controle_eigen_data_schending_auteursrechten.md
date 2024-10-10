@@ -9,8 +9,6 @@ levenscyclus:
 onderwerp:
 - data
 rollen:
-- proceseigenaar
-- informatiebeheerder
 - jurist
 hide:
 - navigation

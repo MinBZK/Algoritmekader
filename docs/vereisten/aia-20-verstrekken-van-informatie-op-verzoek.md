@@ -6,6 +6,8 @@ levenscyclus:
 - organisatieverantwoordelijkheden
 onderwerp:
 - governance
+rollen:
+- projectleider
 hide:
 - navigation
 ---

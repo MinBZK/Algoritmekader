@@ -9,9 +9,7 @@ levenscyclus:
 onderwerp:
 - fundamentele-rechten
 rollen:
-- projectleider
-- opdrachtgever
-- ethicus
+- beleid-en-advies
 hide:
 - navigation
 - toc

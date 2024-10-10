@@ -8,6 +8,8 @@ levenscyclus:
 - monitoring-en-beheer
 onderwerp:
 - menselijke-controle
+rollen:
+- projectleider
 hide:
 - navigation
 ---

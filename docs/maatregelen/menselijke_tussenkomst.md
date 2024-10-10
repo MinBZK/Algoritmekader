@@ -18,9 +18,8 @@ onderwerp:
 - menselijke-controle
 - governance
 rollen:
-- proceseigenaar
-- gebruiker
-- aanbieder
+- projectleider
+- beleid-en-advies
 hide:
 - navigation
 - toc

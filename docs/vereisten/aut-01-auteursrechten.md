@@ -9,7 +9,7 @@ onderwerp:
 - data
 - governance
 rollen:
-- projectleider
+- jurist
 hide:
 - navigation
 ---

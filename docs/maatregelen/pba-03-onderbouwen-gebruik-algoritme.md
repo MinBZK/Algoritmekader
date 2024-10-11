@@ -1,5 +1,6 @@
 ---
 title: Bepaal waarom we gebruik willen maken een algoritme
+id: urn:nl:ak:mtr:pba-03
 toelichting: Bepaal en documenteer waarom het gewenst of nodig is om een algoritme in te zetten om het probleem te kunnen aanpakken.
 vereiste:
 - awb-01-zorgvuldigheidsbeginsel

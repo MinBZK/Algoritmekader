@@ -1,6 +1,7 @@
 ---
-title: Pas vastgestelde interne beleidskaders toe en maak aantoonbaar dat deze zijn nageleefd bij het ontwikkelen, inkopen en gebruiken van algoritmes en AI-systemen. 
-toelichting: Hierbij kan worden gedacht aan het toepassen van definities, procedures, protocollen die van toepassing zijn binnen de organisatie. 
+title: Vastgestelde beleidskaders toepassen
+id: urn:nl:ak:mtr:org-01
+toelichting: Pas vastgestelde interne beleidskaders toe en maak aantoonbaar dat deze zijn nageleefd bij het ontwikkelen, inkopen en gebruiken van algoritmes en AI-systemen.
 vereiste:
 - awb-01-zorgvuldigheidsbeginsel
 - aia-11-systeem-voor-kwaliteitsbeheer
@@ -17,13 +18,10 @@ vereiste:
 - aia-09-menselijk-toezicht
 - aia-08-transparantie-aan-gebruiksverantwoordelijken
 - aia-20-verstrekken-van-informatie-op-verzoek
-
 levenscyclus:
 - organisatieverantwoordelijkheden
-  
 onderwerp:
-- governance
-  
+- governance 
 rollen:
 - proceseigenaar
 - beleidsmedewerker

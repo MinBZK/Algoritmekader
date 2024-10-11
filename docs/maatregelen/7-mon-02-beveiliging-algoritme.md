@@ -33,7 +33,7 @@ Bepaal of de data voldoende is beveiligd en maak hierin onderscheid tussen de in
 ## Toelichting
 
 Er zijn beheersmaatregelen die kunnen helpen bij het zorgen voor een goede beveiliging van verschillende (software-)componenten van een algoritme of systeem. Hierbij kan worden gedacht aan:
-Het toepassen van wachtwoordbeheer. [Baseline Informatiebeveiliging Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/), de [NCSC Handreiking voor implementatie van detectieoplossingen](https://www.ncsc.nl/documenten/publicaties/2019/mei/01/handreiking-voor-implementatie-van-detectie-oplossingen) en het [Impact Assessment Mensenrechten en Algoritmes](../instrumenten/IAMA.md).)
+Het toepassen van wachtwoordbeheer. [Baseline Informatiebeveiliging Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/), de [NCSC Handreiking voor implementatie van detectieoplossingen](https://www.ncsc.nl/documenten/publicaties/2019/mei/01/handreiking-voor-implementatie-van-detectie-oplossingen) en het [Impact Assessment Mensenrechten en Algoritmes](../instrumenten/IAMA.md).
 
 - Inzicht creëren in de beoogde opzet van de IT-infrastructuur (de architectuur) en de werkelijk geconfigureerde hard- en software. (CIS Control 1, BIO 8.1.1).
 - Inrichten van een formeel proces voor het beheer van technische kwetsbaarheden. Dit omvat minimaal periodieke (geautomatiseerde) controle op de aanwezigheid van kwetsbaarheden in de te toetsen systemen, een risicoafweging en navolgbare afwerking daarvan of risicoacceptatie (BIO 12.6).
@@ -41,7 +41,7 @@ Het toepassen van wachtwoordbeheer. [Baseline Informatiebeveiliging Overheid](ht
 - Verwijderen of deactiveren van softwarecomponenten en services die niet noodzakelijk zijn voor het functioneren van het algoritme om beveiligingsrisico’s te beperken. (BIO 12.6.1)
 - Er vindt zonering plaats binnen de technische infrastructuur conform de uitgangspunten die zijn vastgelegd in een operationeel beleidsdocument, waarbij minimaal sprake is van scheiding tussen vertrouwde en onvertrouwde netwerken (BIO 9.4.2). Denk ook aan het scheiden in netwerken (BIO 13.1.3).
 - Actieve monitoring van de algoritme data vindt plaats zodat beveiligingsincidenten en -gebeurtenissen in een vroeg stadium worden gedetecteerd. (BIO 12.4.1, NCSC Handreiking voor implementatie van detectieoplossingen).
-- Netwerkverkeer en componenten worden actief gemonitord. BIO 12.4.1).
+- Netwerkverkeer en componenten worden actief gemonitord. (BIO 12.4.1).
 - Beoordeel of de data ten behoeve van het ontwikkelen en gebruiken van het algoritme voldoende is beveiligd. Maak hierin onderscheid tussen de trainingsdata, inputdata en de outputdata.
 
 

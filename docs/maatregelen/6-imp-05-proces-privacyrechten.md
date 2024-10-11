@@ -43,10 +43,7 @@ Richt een proces in waarmee betrokkenen hun privacyrechten kunnen inroepen als a
 Betrokkenen hebben geen controle over hun persoonsgegevens doordat ze geen beroep kunnen doen op hun privacyrechten. 
 
 ## Bronnen
-| Bron                                                                                                                                                                     |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Onderzoekskader Algoritmes Auditdienst Rijk, PRI.9](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)                    |
-| Algoritmekader | 
+[Onderzoekskader Algoritmes Auditdienst Rijk, PRI.9](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) 
 
 ## Voorbeeld
 

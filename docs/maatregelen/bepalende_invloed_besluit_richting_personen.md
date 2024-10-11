@@ -24,7 +24,7 @@ hide:
 ## Maatregel
 
 Ga na of het algoritme of AI-systeem overwegend bepalende invloed heeft in een besluit richting personen en laat de aanbieder onderbouwen in hoeverre dit wel of niet het geval is.
-Maak de mate van menselijke tussenkomst onderdeel van de wedstrijd/inkoop/beoordeelingsmatrix als ook de vaste beoordeling hiervan
+Maak de mate van menselijke tussenkomst onderdeel van de wedstrijd/inkoop/beoordeelingsmatrix als ook de vaste beoordeling hiervan. 
 
 ## Toelichting
 

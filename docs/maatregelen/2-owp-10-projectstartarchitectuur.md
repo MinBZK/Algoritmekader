@@ -5,7 +5,6 @@ vereiste:
 - aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging
 - awb-01-zorgvuldigheidsbeginsel
 - avg-11-privacy-bij-ontwerp-bij-verwerking-van-persoonsgegevens
-  
 levenscyclus:
 - ontwerp
 - ontwikkelen

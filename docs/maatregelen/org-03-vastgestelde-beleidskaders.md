@@ -1,6 +1,6 @@
 ---
 title: Vastgestelde beleidskaders toepassen
-id: urn:nl:ak:mtr:org-01
+id: urn:nl:ak:mtr:org-03
 toelichting: Pas vastgestelde interne beleidskaders toe en maak aantoonbaar dat deze zijn nageleefd bij het ontwikkelen, inkopen en gebruiken van algoritmes en AI-systemen.
 vereiste:
 - awb-01-zorgvuldigheidsbeginsel

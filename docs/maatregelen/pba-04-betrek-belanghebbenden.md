@@ -1,5 +1,6 @@
 ---
 title: Betrek belanghebbenden
+id: urn:nl:ak:mtr:pba-04
 toelichting: Breng in kaart welke belanghebbenden er zijn en betrek hen op verschillende momenten in de levenscyclus.
 vereiste:
 - awb-01-zorgvuldigheidsbeginsel

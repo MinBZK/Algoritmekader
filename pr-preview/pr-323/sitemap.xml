@@ -117,31 +117,191 @@
          <lastmod>2024-10-11</lastmod>
     </url>
     <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/0-org-01-benodigde-expertise-en-capaciteit/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/0-org-02-vastgestelde-beleidskaders/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/0-org-03-toepassen_risicobeheer/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/0-org-04-wijzigingenproces/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/0-org-05-gebruikersbeheer/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/0-org-06-wachtwoordbeheer/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/1-pba-01-formuleren-probleemdefinitie/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/1-pba-02-formuleren-doelstelling/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/1-pba-03-onderbouwen-gebruik-algoritme/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/1-pba-04-betrek-belanghebbenden/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/2-owp-01-rollen-en-verantwoordelijkheden/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/2-owp-02-gebruikte-data/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/2-owp-03-databeschikbaarheid/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/2-owp-03-doel-verwerken-persoonsgegevens/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/2-owp-03-persoonsgegevens-beschrijven/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/2-owp-04-gebruikte-techniek/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/2-owp-05-soort-algoritme/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/2-owp-06-afwegen-grondrechten/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/2-owp-07-kwetsbare-groepen/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/2-owp-08-archiveren-documenten/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/2-owp-09-model-verwerkersovereenkomst_onderdeel_aanbesteding/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/2-owp-10-projectstartarchitectuur/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/3-dat-01-datakwaliteit/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/3-dat-02-fair-data/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/3-dat-03-bewaartermijnen-persoonsgegevens/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/3-dat-04-pseudonimiseren-anonimiseren/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/3-dat-05-schending-auteursrechten/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/4-owk-01-functioneren-in-lijn-met-doeleinden/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/4-owk-02-security-by-design/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/4-owk-03-stopzetten-gebruik/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/4-owk-04-privacyrisico/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/5-ver-01-biasanalyse/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/5-ver-02-vertaling-wetgeving-naar-systeem/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/6-imp-01-aselecte-steekproeven/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/6-imp-02-publiceren-algoritmeregister/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/6-imp-03-technische-documentatie-algoritmeregister/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/6-imp-04-configuratie-met-de-mens/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/6-imp-05-proces-privacyrechten/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/6-imp-06-informatiebeveiligingsincidenten/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/6-imp-07-politiek-bestuurlijk-besluit/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/6-imp-08-vermelding-in-privacyverklaring/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/6-imp-09-vermelding-in-verwerkingsregister/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/7-mon-01-backups-maken/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/7-mon-02-beveiliging-algoritme/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/7-mon-03-menselijke-tussenkomst/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/7-mon-04-periodieke-evaluatie-kwaliteit/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
          <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/aansprakelijkheidsvoorwaarden_aanbieder_onderdeel_beoordelingsmatrix/</loc>
-         <lastmod>2024-10-11</lastmod>
-    </url>
-    <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/archiveren_beperkingen_openbaarheid/</loc>
-         <lastmod>2024-10-11</lastmod>
-    </url>
-    <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/archiveren_bewaartermijnen/</loc>
-         <lastmod>2024-10-11</lastmod>
-    </url>
-    <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/archiveren_duurzaam_toegankelijk/</loc>
-         <lastmod>2024-10-11</lastmod>
-    </url>
-    <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/archiveren_vaststellen_documenten/</loc>
-         <lastmod>2024-10-11</lastmod>
-    </url>
-    <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/backups_maken/</loc>
-         <lastmod>2024-10-11</lastmod>
-    </url>
-    <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/bepaal_bewaartermijnen_en_inrichten_vernietigingsprocedure/</loc>
          <lastmod>2024-10-11</lastmod>
     </url>
     <url>
@@ -149,27 +309,11 @@
          <lastmod>2024-10-11</lastmod>
     </url>
     <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/bescherm_persoonsgegevens_die_mogen_worden_verwerkt/</loc>
-         <lastmod>2024-10-11</lastmod>
-    </url>
-    <url>
          <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/bespreek_vereiste_met_aanbieder/</loc>
          <lastmod>2024-10-11</lastmod>
     </url>
     <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/beveiliging_van_componenten/</loc>
-         <lastmod>2024-10-11</lastmod>
-    </url>
-    <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/configuratie_met_de_mens/</loc>
-         <lastmod>2024-10-11</lastmod>
-    </url>
-    <url>
          <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/contractuele_afspraken_data_en_artefacten/</loc>
-         <lastmod>2024-10-11</lastmod>
-    </url>
-    <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/controle_eigen_data_schending_auteursrechten/</loc>
          <lastmod>2024-10-11</lastmod>
     </url>
     <url>
@@ -178,14 +322,6 @@
     </url>
     <url>
          <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/getroffen_maatregelen_van_aanbieder_voorkomen_schending_auteursrechten/</loc>
-         <lastmod>2024-10-11</lastmod>
-    </url>
-    <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/informatiebeveiligingsincidenten/</loc>
-         <lastmod>2024-10-11</lastmod>
-    </url>
-    <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/inrichten_proces_kunnen_toepassen_privacyrechten/</loc>
          <lastmod>2024-10-11</lastmod>
     </url>
     <url>
@@ -221,15 +357,7 @@
          <lastmod>2024-10-11</lastmod>
     </url>
     <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/menselijke_tussenkomst/</loc>
-         <lastmod>2024-10-11</lastmod>
-    </url>
-    <url>
          <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/menselijke_tussenkomst_projectplan_en_dchargedocument/</loc>
-         <lastmod>2024-10-11</lastmod>
-    </url>
-    <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/model-verwerkersovereenkomst_onderdeel_aanbesteding/</loc>
          <lastmod>2024-10-11</lastmod>
     </url>
     <url>
@@ -238,30 +366,6 @@
     </url>
     <url>
          <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/omgaan_restrisico%27s_aanbiede_onderdeel_beoordelingsmaatrix/</loc>
-         <lastmod>2024-10-11</lastmod>
-    </url>
-    <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/periodieke_evaluatie_kwaliteit/</loc>
-         <lastmod>2024-10-11</lastmod>
-    </url>
-    <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/persoonsgegevens_die_worden_verwerkt_zijn_beschreven/</loc>
-         <lastmod>2024-10-11</lastmod>
-    </url>
-    <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/politiek-bestuurlijk_besluit/</loc>
-         <lastmod>2024-10-11</lastmod>
-    </url>
-    <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/richt_formeel_wijzigingenproces_in/</loc>
-         <lastmod>2024-10-11</lastmod>
-    </url>
-    <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/richt_gebruikersbeheer_in/</loc>
-         <lastmod>2024-10-11</lastmod>
-    </url>
-    <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/richt_wachtwoordbeheer_in/</loc>
          <lastmod>2024-10-11</lastmod>
     </url>
     <url>
@@ -277,23 +381,7 @@
          <lastmod>2024-10-11</lastmod>
     </url>
     <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/security_by_design/</loc>
-         <lastmod>2024-10-11</lastmod>
-    </url>
-    <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/stel_archiefbescheiden_vast/</loc>
-         <lastmod>2024-10-11</lastmod>
-    </url>
-    <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/stopzetten_gebruik/</loc>
-         <lastmod>2024-10-11</lastmod>
-    </url>
-    <url>
          <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/uitvoeren_audit_voor_naleving_vereiste/</loc>
-         <lastmod>2024-10-11</lastmod>
-    </url>
-    <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/uitvoeren_risicoanalyse_en_formuleren_mitigerende_maatregelen_voor_privacyrisico%27s/</loc>
          <lastmod>2024-10-11</lastmod>
     </url>
     <url>
@@ -306,22 +394,6 @@
     </url>
     <url>
          <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/vaststellen_passend_trainingsniveau_door_aanbieder/</loc>
-         <lastmod>2024-10-11</lastmod>
-    </url>
-    <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/vermelding_in_privacyverklaring/</loc>
-         <lastmod>2024-10-11</lastmod>
-    </url>
-    <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/vermelding_in_verwerkingsregister/</loc>
-         <lastmod>2024-10-11</lastmod>
-    </url>
-    <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/vertaling_wetgeving_beleid_naar_werkproces_systemen/</loc>
-         <lastmod>2024-10-11</lastmod>
-    </url>
-    <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-323/maatregelen/voer_een_project_startarchitectuur_uit/</loc>
          <lastmod>2024-10-11</lastmod>
     </url>
     <url>

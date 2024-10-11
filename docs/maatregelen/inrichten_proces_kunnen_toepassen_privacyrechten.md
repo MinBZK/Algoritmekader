@@ -3,7 +3,6 @@ title: Richt een proces in waarmee betrokkenen hun privacyrechten kunnen inroepe
 toelichting: Betrokkenen kunnen hun persoonsgegevens inzien, rectificeren, laten verwijderen of het gebruik ervan beperken bij het toepassen van algorimtes en AI-systemen.  
 vereiste:
 - avg-09-inroepen-privacyrecht-bij-verwerking-persoonsgegevens
-  
 levenscyclus:
 - ontwerp
 - ontwikkelen

@@ -89,7 +89,7 @@ Je AI-systeem speelt een belangrijke rol in de veiligheid van een product. En di
 
 Zie [AI-verordening, bijlage I](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#d1e38-124-1).
 
-### Diensten of processen
+#### Diensten of processen
 Je gebruikt het AI-systeem voor:
 
 * **Biometrie**, zoals het herkennen of indelen van mensen op basis van hun vingerafdruk, gezicht of andere lichamelijke kenmerken.

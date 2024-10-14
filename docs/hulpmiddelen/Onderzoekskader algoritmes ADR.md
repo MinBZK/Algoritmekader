@@ -10,7 +10,7 @@ levenscyclus:
 - monitoring-en-beheer
 - verificatie-en-validatie
 onderwerp:
-- menselijke-controle 
+- governance 
 rollen:
 - projectleider
 - ethicus

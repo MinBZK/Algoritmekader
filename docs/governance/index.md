@@ -27,6 +27,7 @@ Het Algoritmekader focust op de twee niveaus:
 - Systeem/toepassing (lifecycle).
 
 ![Algoritme en AI governance ladder, TNO, 2024](https://github.com/user-attachments/assets/b7a237be-6caf-4266-910b-5fd05f4dc93b)
+Bron: TNO, 2024
 
 Binnen een organisatie kan algoritme governance niet los worden gezien van de algemene governance, data-governance en IT-governance. 
 Per organisatie zal verschillen in hoeverre dit is ontwikkeld.

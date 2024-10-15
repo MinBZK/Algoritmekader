@@ -1,7 +1,9 @@
 ---
 title: Richt een proces in zodat burgers of andere belanghebbenden een klacht, bezwaar of beroep kunnen indienen over het gebruik van het algoritme. Zorg voor goede monitoring van dit proces zodat het projectteam op de hoogte is van klachten, bezwaren en beroepen over het systeem. 
 toelichting: Richt een proces in zodat burgers of andere belanghebbenden een klacht, bezwaar of beroep kunnen indienen over het gebruik van het algoritme. Zorg voor goede monitoring van dit proces zodat het projectteam op de hoogte is van klachten, bezwaren en beroepen over het systeem. 
-# vereiste:
+vereiste:
+- avg-09-inroepen-privacyrecht-bij-verwerking-persoonsgegevens
+- aia-28-recht-op-uitleg-ai-besluiten
 levenscyclus:
 - implementatie
 - monitoring-en-beheer

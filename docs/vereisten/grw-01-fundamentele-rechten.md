@@ -9,7 +9,6 @@ levenscyclus:
 - monitoring-en-beheer
 onderwerp:
 - fundamentele-rechten
-- bias-en-non-discriminatie
 rollen:
 - projectleider
 - jurist

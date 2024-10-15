@@ -4,17 +4,16 @@ toelichting: Betrokkenen kunnen hun persoonsgegevens inzien, rectificeren, laten
 vereiste:
 - avg-09-inroepen-privacyrecht-bij-verwerking-persoonsgegevens
 levenscyclus:
-- ontwerp
+- organisatieverantwoordelijkheden
 - ontwikkelen
-- verificatie-en-validatie
-- monitoring-en-beheer
 onderwerp:
 - privacy-en-gegevensbescherming
+- governance
+- data
 rollen:
 - projectleider
 - beleid-en-advies
 - jurist
-  
 hide:
 - navigation
 - toc

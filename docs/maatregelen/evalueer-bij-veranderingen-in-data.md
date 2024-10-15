@@ -33,7 +33,7 @@ Daarom is het belangrijk om regelmatig te controleren en evalueren of:
 - de data van [voldoende kwaliteit is voor de beoogde toepassing](datakwaliteit.md)
 - of het algoritme nog [presteert in lijn met de vastgestelde doelen](functioneren_in_lijn_met_doeleinden.md)
 
-Zeker wanneer er gebruikt wordt gemaakt van informatie van derden, is het belangrijk om regelmatg te controleren of er veranderingen in de data zijn. Goede monitoring op datakwaliteit, zorgt ervoor dat je voldoende controle hebt over de kwaliteit van de data, zelfs als je hiervoor afhankelijk bent van andere partijen. 
+Zeker wanneer er gebruikt wordt gemaakt van informatie van derden, is het belangrijk om regelmatig te controleren of er veranderingen in de data zijn. Goede monitoring op datakwaliteit zorgt ervoor dat je voldoende controle hebt over de kwaliteit van de data, zelfs als je hiervoor afhankelijk bent van andere partijen. 
 
 ## Bijbehorende vereiste(n)
 

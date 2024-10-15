@@ -6,7 +6,7 @@ levenscyclus:
 - ontwikkelen
 - monitoring-en-beheer
 onderwerp:
-- governance
+- transparantie
 - technische-robuustheid-en-veiligheid
 hide:
 - navigation

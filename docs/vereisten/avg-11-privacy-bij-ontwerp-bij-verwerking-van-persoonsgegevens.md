@@ -7,7 +7,6 @@ levenscyclus:
 - dataverkenning-en-datapreparatie
 onderwerp:
 - privacy-en-gegevensbescherming
-- data
 rollen:
 - beleid-en-advies
 - projectleider

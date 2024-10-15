@@ -8,11 +8,9 @@ toelichting: Stel duidelijke werkinstructies op voor de medewerkers die het algo
 vereiste:
 - grw-02-non_discriminatie
 - aia-09-menselijk-toezicht
-
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 
 - implementatie
-
 # vul hier de bouwblokken in die horen bij deze maatregel
 onderwerp: 
 - governance

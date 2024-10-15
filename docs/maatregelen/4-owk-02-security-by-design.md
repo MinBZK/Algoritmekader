@@ -4,21 +4,13 @@ toelichting: Door security by design toe te passen, kunnen kwetsbaarheden in de 
 vereiste:
 - bio-01-beveiliging-informatie-en-informatiesystemen
 - avg-12-beveiliging-van-verwerking
-- avg-12-beveiliging-van-verwerking
 - aia-07-automatische-logregistratie
 levenscyclus:
-- ontwerp
-- dataverkenning-en-datapreparatie
-- ontwikkelen
-- verificatie-en-validatie
-- implementatie
-- monitoring-en-beheer
 onderwerp:
 - technische-robuustheid-en-veiligheid
-- transparantie
-- menselijke-controle
 rollen:
 - projectleider
+- ontwikkelaar
 hide:
 - navigation
 - toc
@@ -33,8 +25,7 @@ Stel vast welke principes horen bij security by design en welke relevant zijn vo
 Mogelijke documenten waarin deze principes kunnen worden opgenomen, zijn het security beleid, of ontwikkelbeleid. Bij het bepalen en vaststellen van de juiste principes kunnen interviews met de ontwikkelaar en software-architecten helpen.
 
 ## Toelichting
-
-- Security by design is gehanteerd en terug te zien als uitgangspunt. (BIO 14.2.1.1) 
+Security by design is gehanteerd en terug te zien als uitgangspunt. (BIO 14.2.1.1) 
 
 Security by design benadrukt het belang van het in een vroeg stadium integreren van securitymaatregelen. Op die manier kan worden voldaan aan regelgeving, maar wordt de weerbaarheid tegen bijvoorbeeld cyberaanvallen verhoogd. In een vroeg stadium nadenken over security betekent dat vroeg al de [benodigde expertise wordt betrokken](betrek_belanghebbenden.md), zoals een [security-officer](../rollen/security-officer.md).
 

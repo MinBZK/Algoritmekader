@@ -7,12 +7,8 @@ vereiste:
 levenscyclus: 
 - probleemanalyse
 - ontwerp
-- dataverkenning-en-datapreparatie
-- ontwikkelen
-- verificatie-en-validatie
 - implementatie
-- monitoring-en-beheer
-onderwerp: 
+onderwerp:
 - governance
 - fundamentele-rechten
 rollen:

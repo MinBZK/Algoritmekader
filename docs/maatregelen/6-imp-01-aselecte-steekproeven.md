@@ -70,9 +70,7 @@ Deze belangenenafweging moet per context gemaakt worden.
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
-| Bron                        |
-|-----------------------------|
-|[Rapportage Algoritmerisico's Nederland voorjaar 2024 (pp. 36-41)](https://www.autoriteitpersoonsgegevens.nl/documenten/rapportage-ai-algoritmerisicos-nederland-ran-voorjaar-2024)|
+[Rapportage Algoritmerisico's Nederland voorjaar 2024 (pp. 36-41)](https://www.autoriteitpersoonsgegevens.nl/documenten/rapportage-ai-algoritmerisicos-nederland-ran-voorjaar-2024)
 
 
 ## Risico 

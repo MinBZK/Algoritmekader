@@ -49,12 +49,11 @@ Voer een Project Startarchitectuur (PSA) uit als algoritmes of AI-systemen worde
 Het algoritme of AI-systeem kan niet of na verloop van tijd niet meer functioneren, doordat onverwachte of ongewenst wijzigingen in het applicatielandschap plaatsvinden. 
 
 ## Bronnen
-| Bron                                                                                                                                                                     |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Project Startarchitectuur,NORA](https://www.noraonline.nl/wiki/PSA_(Project_Startarchitectuur))|
-| [PSA Format](https://www.noraonline.nl/images/noraonline/9/96/NORA_PSA_format.odt)|
-| [PSA Handleiding](https://www.noraonline.nl/images/noraonline/9/93/NORA-handleiding_voor_het_opstellen_van_een_PSA.odt)|
-| Algoritmekader | 
+
+- [Project Startarchitectuur,NORA](https://www.noraonline.nl/wiki/PSA_(Project_Startarchitectuur))
+- [PSA Format](https://www.noraonline.nl/images/noraonline/9/96/NORA_PSA_format.odt)
+- [PSA Handleiding](https://www.noraonline.nl/images/noraonline/9/93/NORA-handleiding_voor_het_opstellen_van_een_PSA.odt)
+- Algoritmekader
 
 ## Voorbeeld
 

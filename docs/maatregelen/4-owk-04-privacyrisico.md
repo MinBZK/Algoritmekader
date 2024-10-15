@@ -52,13 +52,10 @@ Privacyrisico's met de inzet van algoritmes en AI-systemen worden niet gemitigee
 
 
 ## Bronnen
-| Bron                                                                                                                                                                     |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Onderzoekskader Algoritmes Auditdienst Rijk, PRI.2, PRI.3](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)|
-| [Toetsingskader Algoritmes Algemene Rekenkamer, 3.04, 3.13](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)|
-| Algoritmekader | 
-| [Besluit inzake lijst van verwerkingen van persoonsgegevens waarvoor een gegevensbeschermingseffectbeoordeling (DPIA) verplicht is, Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/uploads/imported/stcrt-2019-64418.pdf) |
-| [Model DPIA Rijksdienst](https://www.kcbr.nl/sites/default/files/2023-09/Model%20DPIA%20Rijksdienst%20v3.0.pdf) |
+- [Onderzoekskader Algoritmes Auditdienst Rijk, PRI.2, PRI.3](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 3.04, 3.13](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
+- [Besluit inzake lijst van verwerkingen van persoonsgegevens waarvoor een gegevensbeschermingseffectbeoordeling (DPIA) verplicht is, Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/uploads/imported/stcrt-2019-64418.pdf)
+- [Model DPIA Rijksdienst](https://www.kcbr.nl/sites/default/files/2023-09/Model%20DPIA%20Rijksdienst%20v3.0.pdf)
 
 ## Voorbeeld
 

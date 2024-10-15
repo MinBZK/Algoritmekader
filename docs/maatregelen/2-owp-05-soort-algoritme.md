@@ -44,10 +44,7 @@ Deze stap is van groot belang, omdat dit ook bepalend is welke contractuele verp
 
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
-
-| Bron                        |
-|-----------------------------|
-| Algoritmekader |        
+Algoritmekader
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->

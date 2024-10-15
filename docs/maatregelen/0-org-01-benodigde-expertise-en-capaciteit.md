@@ -47,11 +47,9 @@ Bepaal welke expertise en capaciteit noodzakelijk is voor het ontwikkelen, inkop
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
-| Bron                        |
-|-----------------------------|
-| [Onderzoekskader Algoritmes Auditdienst Rijk, SV.12 ](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)| 
-| [Toetsingskader Algoritmes Algemene Rekenkamer, 3.02](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) |
-| Algoritmekader |        
+- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.12 ](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 3.02](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
+- Algoritmekader
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->

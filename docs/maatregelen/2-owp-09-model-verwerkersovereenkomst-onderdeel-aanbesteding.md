@@ -33,9 +33,7 @@ Een model-verwerkersoverenkomst is veelal een verplicht onderdeel bij het publie
 
 ## Bronnen
 
-| Bron                        |
-|-----------------------------|
-|Algoritmekader|
+Algoritmekader
 
 ## Voorbeeld
 

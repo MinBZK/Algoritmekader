@@ -54,12 +54,10 @@ Oneigenlijke toegang van buitenaf kan plaatsvinden via zwakheden in het systeem.
 
 ## Bronnen
 
-| Bron                        |
-|-----------------------------|
-| [Baseline Informatiebeveiliging Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/) |
-| [Onderzoekskader Algoritmes Auditdienst Rijk, IB.18 t/m IB.25](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) |
-| [NCSC Handreiking voor implementatie van detectieoplossingen](https://www.ncsc.nl/documenten/publicaties/2019/mei/01/handreiking-voor-implementatie-van-detectie-oplossingen) |
-| [Handleiding Quickscan Information Security](https://www.cip-overheid.nl/media/xhxglzi0/20180220-quickscan-bir2017.pdf) |
+- [Baseline Informatiebeveiliging Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/)
+- [Onderzoekskader Algoritmes Auditdienst Rijk, IB.18 t/m IB.25](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [NCSC Handreiking voor implementatie van detectieoplossingen](https://www.ncsc.nl/documenten/publicaties/2019/mei/01/handreiking-voor-implementatie-van-detectie-oplossingen)
+- [Handleiding Quickscan Information Security](https://www.cip-overheid.nl/media/xhxglzi0/20180220-quickscan-bir2017.pdf)
 
 ## Voorbeeld
 

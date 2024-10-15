@@ -45,10 +45,8 @@ Een politieke-bestuurlijk besluit wordt genomen over de inzet van een impactvol 
 De ambtelijke organisatie maakt politieke-bestuurlijke afwegingen en beslissingen bij de inzet of beëindiging van het gebruik van impactvolle algoritmes en AI-systemen, terwijl deze daar niet toe bevoegd is.
 
 ## Bronnen
-| Bron                                                                                                                                                                     |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Algoritmekader] |
-| [Algemene Rekenkamer](https://rekenkamer.rotterdam.nl/wp-content/uploads/2024/05/RO2205-kleur-bekennen-vervolgonderzoek-algoritmes-rekenkamer-rotterdam.pdf)
+
+[Algemene Rekenkamer](https://rekenkamer.rotterdam.nl/wp-content/uploads/2024/05/RO2205-kleur-bekennen-vervolgonderzoek-algoritmes-rekenkamer-rotterdam.pdf)
 
 ## Voorbeeld
 

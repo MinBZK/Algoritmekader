@@ -35,10 +35,9 @@ Het algoritme dient niet het onderliggende probleem.
 Zonder eenduidigheid over het op te lossen probleem is geen sturing op en verantwoording over het algoritme mogelijk. 
 
 ## Bronnen
-| Bron                                                                                                                                                                     |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Impact Assessment Mensenrechten en Algoritmes, 1.1](https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes)          |
-| [Onderzoekskader Algoritmes Auditdienst Rijk, SV.1](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)                    |
+
+- [Impact Assessment Mensenrechten en Algoritmes, 1.1](https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes)
+- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.1](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 
 ## Voorbeeld
 

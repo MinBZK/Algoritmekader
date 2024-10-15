@@ -36,9 +36,7 @@ Hier kan worden gedacht aan data die is gescraped van het internet en zou kunnen
 
 ## Bronnen
 
-| Bron                        |
-|-----------------------------|
-|Algoritmekader|
+Algoritmekader
 
 ## Voorbeeld
 

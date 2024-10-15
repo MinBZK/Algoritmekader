@@ -43,12 +43,10 @@ Als het wachtwoordbeheer van onvoldoende kwaliteit is, kan oneigenlijke toegang 
 
 ## Bronnen
 
-| Bron                        |
-|-----------------------------|
-| [Baseline Informatiebeveiliging Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/) |
-| [Onderzoekskader Algoritmes Auditdienst Rijk, IB.6 t/m IB.9](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) |
-| [Toetsingskader Algoritmes Algemene Rekenkamer, 4.03](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)  |
-| [NIST 5.1.1.2](https://pages.nist.gov/800-63-3/sp800-63b.html#sec5) |
+- [Baseline Informatiebeveiliging Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/)
+- [Onderzoekskader Algoritmes Auditdienst Rijk, IB.6 t/m IB.9](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 4.03](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
+- [NIST 5.1.1.2](https://pages.nist.gov/800-63-3/sp800-63b.html#sec5)
 
 ## Voorbeeld
 

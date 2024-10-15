@@ -45,11 +45,8 @@ Als het doel voor het verwerken van persoonsgegevens onvoldoende is omschreven e
 
 
 ## Bronnen
-| Bron                                                                                                                                                                     |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Toetsingskader Algoritmes Algemene Rekenkamer, 3.01, 3.05](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) |
-| [Onderzoekskader Algoritmes Auditdienst Rijk, PRI.4](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)                    |
-| Algoritmekader | 
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 3.01, 3.05](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
+- [Onderzoekskader Algoritmes Auditdienst Rijk, PRI.4](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) 
 
 ## Voorbeeld
 

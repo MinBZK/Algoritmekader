@@ -1,6 +1,6 @@
 ---
-title: Modelcontractbepalingen
-toelichting: Modelbepalingen kunnen helpen om een contract op te stellen dat een organisatie in staat stelt veilige en verantwoorde algoritmen of AI-systemen in te kopen.
+title: Inkoopvoorwaarden
+toelichting: Goede inkoopvoorwaarden kunnen helpen om een contract op te stellen dat een organisatie helpt om veilige en verantwoorde algoritmen of AI-systemen in te kopen.
 categorie: 
 - template
 levenscyclus:
@@ -21,8 +21,8 @@ hide: navigation
 
 ## Instrument
 
-Modelbepalingen kunnen helpen om een contract op te stellen dat een organisatie in staat stelt veilige en verantwoorde algoritmen of AI-systemen in te kopen. 
-Deze bepalingen (of voorwaarden) kunnen opgenomen worden wanneer er een contract wordt afgesloten met een leverancier van een algoritme of algoritmisch systeem. 
+Voorbeelden of templates van inkoopvoorwaarden kunnen helpen om een contract op te stellen dat een organisatie in staat stelt veilige en verantwoorde algoritmen of AI-systemen in te kopen. Deze worden ook wel eens modelcontractbepalingen genoemd.
+Deze voorwaarden of bepalingen kunnen opgenomen worden wanneer er een contract wordt afgesloten met een leverancier van een algoritme of algoritmisch systeem. 
 Er kunnen dan bijvoorbeeld beperkingen gelden om onaanvaardbare risico's van AI te vermijden, of bepaalde voorwaarden gesteld worden waaraan een algoritme juist moet voldoen. 
 Ook kunnen bepaalde [voorwaarden worden opgenomen op basis van de vereisten](../maatregelen/maak_vereiste_onderdeel_van_contractovereenkomst.md) in het Algoritmekader.
 

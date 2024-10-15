@@ -5,12 +5,7 @@ vereiste:
 - avg-07-transparantie-bij-verwerken-persoonsgegevens
 
 levenscyclus:
-- ontwerp
-- ontwikkelen
-- verificatie-en-validatie
 - implementatie
-- uitfaseren
-  
 onderwerp:
 - privacy-en-gegevensbescherming
 rollen:

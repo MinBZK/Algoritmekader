@@ -5,10 +5,6 @@ toelichting: Bij het verwerken van persoonsgegevens voor algoritmes en AI-system
 levenscyclus: 
 - ontwerp
 - dataverkenning-en-datapreparatie
-- ontwikkelen
-- verificatie-en-validatie
-- monitoring-en-beheer
-- uitfaseren
 onderwerp: 
 - governance
 - privacy-en-gegevensbescherming

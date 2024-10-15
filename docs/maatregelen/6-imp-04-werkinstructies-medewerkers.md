@@ -1,9 +1,8 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Configuratie met de mens
-
+title: Maak duidelijke werkinstructies voor medewerkers
 # geef hier een korte toelichting van deze maatregel
-toelichting: Zorg voor complementariteit tussen algoritmische systeem en de mensen die ermee moeten werken. 
+toelichting: Stel duidelijke werkinstructies op voor de medewerkers die het algoritme gaan gebruiken. 
 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste:

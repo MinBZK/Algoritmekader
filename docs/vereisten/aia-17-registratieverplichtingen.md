@@ -1,10 +1,8 @@
 ---
 title: Registratieverplichtingen voor aanbieders van AI-systemen met een hoog risico
 id: urn:nl:ak:ver:aia-17
-toelichting: Aanbieders van AI-systemen met een hoog risico leven de registratieverplichtingen als bedoeld in artikel 49 na, wat betekent dat voor het in de handel brengen of in bedrijf te stellen van het hoog risico AI-systeem, de aanbieder of in voorkomende gevallen de gemachtigde het systeem registreert in de EU-databank. 
+toelichting: Aanbieders van AI-systemen met een hoog risico registeren het systeem in de EU-databank voorafgaand aan ingegebruikname van het AI-systeem. 
 levenscyclus:
-- ontwikkelen
-- verificatie-en-validatie
 - implementatie
 onderwerp:
 - governance

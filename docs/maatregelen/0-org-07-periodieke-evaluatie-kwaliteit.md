@@ -3,9 +3,7 @@ title: Richt een proces in voor een periodieke evaluatie van de kwaliteit van he
 toelichting: Bij kwaliteit kan worden gedacht aan doeltreffenheid, doelmatigheid, betrouwbaarheid en accuraatheid (geschiktheid) en non-discriminatie.
 vereiste: 
 - aia-11-systeem-voor-kwaliteitsbeheer
-- grw-01-fundamentele-rechten
 - aia-29-beoordelen-gevolgen-grondrechten
-- grw-02-non-discriminatie
 levenscyclus: 
 - organisatieverantwoordelijkheden
 - monitoring-en-beheer
@@ -24,11 +22,9 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-<!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
  Richt een proces in voor een periodieke evaluatie van de kwaliteit van het algoritme of AI-systeem.
   
 ## Toelichting
-<!-- Geef hier een toelichting van deze maatregel -->
 - Het is van belang dat een proces wordt ingericht waarmee periodiek de kwaliteit van algoritmes of AI-systemen wordt geëvalueerd.
 - Bij kwaliteit van een algoritme of AI-systeem kan worden gedacht aan doeltreffenheid, doelmatigheid, betrouwbaarheid en accuraatheid (geschiktheid) en non-discriminatie.
 - Hieronder vallen het analyseren en evalueren van ingediende klachten en incidenten.
@@ -47,11 +43,8 @@ Zonder evaluatie van de kwaliteit van het algoritme is er geen goede sturing, be
 <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen 
-<!-- Vul hier de relevante bronnen in voor deze maatregel -->
 - [Onderzoekskader Algoritmes Auditdienst Rijk, SV.16, SV.17 ](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 1.08](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 
 ## Voorbeeld
-<!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
-
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

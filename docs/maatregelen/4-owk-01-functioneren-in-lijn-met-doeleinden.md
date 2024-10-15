@@ -2,17 +2,18 @@
 title: Stel vast dat het algoritme voortdurend functioneert in lijn met de vastgestelde doelstelling
 toelichting: Stel vast dat het algoritme voortdurend functioneert in lijn met de vastgestelde doelstelling
 vereiste:
-- zorgvuldigheidsbeginsel
+- awb-01-zorgvuldigheidsbeginsel
+- aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging
 levenscyclus:
-- ontwikkelen
+- ontwerp
 - verificatie-en-validatie
 - monitoring-en-beheer
 onderwerp:
 - technische-robuustheid-en-veiligheid
 - bias-en-non-discriminatie
-- governance
 rollen:
 - projectleider
+- ontwikkelaar
 hide:
 - navigation
 ---

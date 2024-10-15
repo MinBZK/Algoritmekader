@@ -4,6 +4,7 @@ id: urn:nl:ak:ver:aia-09
 toelichting: AI-systemen met een hoog risico worden zodanig ontworpen en ontwikkeld, met inbegrip van passende mens-machine-interface-instrumenten, dat hierop tijdens de periode dat zij worden gebruikt, op doeltreffende wijze toezicht kan worden uitgeoefend door natuurlijke personen.
 levenscyclus:
 - ontwerp
+- ontwikkeling
 - monitoring-en-beheer
 onderwerp:
 - menselijke-controle

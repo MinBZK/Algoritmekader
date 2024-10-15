@@ -1,11 +1,10 @@
 ---
 title: Transparantieverplichtingen
 id: urn:nl:ak:ver:aia-30
-toelichting: 
+toelichting: Aanbieders van AI-systemen zorgen dat AI-sytemen zodanig worden ontworpen en ontwikkeld dat de betrokken natuurlijke personen worden geïnformeerd dat zij interacteren met een AI-systeem. 
 levenscyclus:
-- implementatie
 - ontwikkelen
-- monitoring-en-beheer
+- implementatie
 onderwerp:
 - transparantie
 rollen:
@@ -17,8 +16,8 @@ hide:
 
 <!-- tags -->
 ## Vereiste
-Aanbieders van AI-systemen zorgen dat AI-sytemen zodanig worden ontworpen en ontwikkeld dat de betrokken natuurlijke personen worden geïnformeerd dat zij interageren met een AI-systeem. 
-Gebruiksverantwoordelijken moeten betrokkenen informeren  over de werking van het systeem en in het geval van een AI-systeem dat content gegenereert duidelijk kenbaar maken dat de content kunstmatig is gegenereerd of gemanipuleerd.
+Aanbieders van AI-systemen zorgen dat AI-sytemen zodanig worden ontworpen en ontwikkeld dat de betrokken natuurlijke personen worden geïnformeerd dat zij interacteren met een AI-systeem. 
+Gebruiksverantwoordelijken moeten betrokkenen informeren over de werking van het systeem en in het geval van een AI-systeem dat content gegenereert duidelijk kenbaar maken dat de content kunstmatig is gegenereerd of gemanipuleerd.
 
 ## Toelichting
 Dit geldt voor AI-systemen die:

@@ -1,14 +1,13 @@
 ---
 title: Aanvullende verplichtingen voor aanbieders van AI-modellen met systeemrisico 
 id: urn:nl:ak:ver:aia-32
-toelichting: Aanbieders van AI-modellen voor algemene doeleinden met een potentieel systeemrisico moeten modelevaluatie uitvoeren overeenkomstig gestandaardiseerde protocollen en instrumenten die de stand van de techniek weerspiegelen, met inbegrip van het uitvoeren en documenteren van tests gericht op het ontdekken van kwetsbaarheden van het model om systeemrisico’s in kaart te brengen en te beperken
+toelichting: Aanbieders van AI-modellen voor algemene doeleinden met een potentieel systeemrisico moeten modelevaluatie uitvoeren overeenkomstig gestandaardiseerde protocollen en instrumenten die de stand van de techniek weerspiegelen, met inbegrip van het uitvoeren en documenteren van tests gericht op het ontdekken van kwetsbaarheden van het model om systeemrisico’s in kaart te brengen en te beperken.
 levenscyclus:
 - ontwikkelen
 - verificatie-en-validatie
-- implementatie
 - monitoring-en-beheer
 onderwerp:
-- governance
+- transparantie
 rollen:
 - projectleider
 - ontwikkelaar

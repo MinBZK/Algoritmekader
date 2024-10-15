@@ -6,17 +6,10 @@ vereiste:
 - aia-07-automatische-logregistratie
 - aia-13-bewaartermijn-voor-gegenereerde-logs
 levenscyclus:
-- ontwerp
-- dataverkenning-en-datapreparatie
 - ontwikkelen
-- verificatie-en-validatie
-- implementatie
-- monitoring-en-beheer
+- monitoren-en-beheer
 onderwerp:
 - technische-robuustheid-en-veiligheid
-- governance
-- transparantie
-- menselijke-controle
 rollen:
 - ontwikkelaar
 hide:
@@ -27,14 +20,12 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-Zorg ervoor dat logbestanden worden gecreëerd waarin informatie wordt geregistreerd over gebruikersactiviteiten, uitzonderingen en informatiebeveiligingsgebeurtenissen
+Zorg ervoor dat logbestanden worden gecreëerd waarin informatie wordt geregistreerd over gebruikersactiviteiten, uitzonderingen en informatiebeveiligingsgebeurtenissen.
 Door goede logging is te achterhalen wanneer en door wie er toegang is geweest tot code en data (audit trail).
 Er kan loginformatie gegenereerd, bewaard, toegankelijk gemaakt en gemonitord worden. Logbestanden bevatten vaak gebeurtenissen die gebruikersactiviteiten, uitzonderingen en informatiebeveiligingsgebeurtenissen registreren.
 Bedenk wat deze informatie betekent in de context van de werking van het algoritme of algoritmisch systeem.
 
-
 ## Toelichting
-
 - Met logbestanden is te achterhalen wanneer en door wie er (ongewenste) aanpassingen zijn gedaan (audit trail).
 - Loginformatie moet worden gegenereerd, bewaard, gemonitord en toegankelijk worden gemaakt.
 - Logbestanden bevatten vaak gebeurtenissen die gebruikersactiviteiten, uitzonderingen en informatiebeveiligingsgebeurtenissen registreren.
@@ -46,9 +37,7 @@ Bedenk wat deze informatie betekent in de context van de werking van het algorit
 ## Risico
 Wanneer loginformatie ontbreekt, is niet te achterhalen wanneer er (eventueel ongewenste) aanpassingen zijn gedaan (audit trail) op (de code van) het algoritme, of door wie.
 
-
 ## Bijbehorende vereiste(n)
-
 <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen

@@ -13,16 +13,9 @@ onderwerp:
 - fundamentele-rechten
 - transparantie
 rollen:
-- projectleider
-- aanbieder
-- data-engineer
-- data-scientist
-- ethicus
-- gemandateerd-verantwoordelijke
+- beleid-en-advies
 - jurist
-- privacy-officer
-- proceseigenaar
-- security-officer
+- projectleider
 ---
 
 <!-- tags -->

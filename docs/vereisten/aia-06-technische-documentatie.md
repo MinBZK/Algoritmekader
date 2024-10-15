@@ -7,10 +7,8 @@ levenscyclus:
 - dataverkenning-en-datapreparatie
 - ontwikkelen
 - verificatie-en-validatie
-- implementatie
-- monitoring-en-beheer
 onderwerp:
-- governance
+- transparantie
 - technische-robuustheid-en-veiligheid
 rollen:
 - projectleider

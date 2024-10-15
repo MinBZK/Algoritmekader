@@ -7,7 +7,9 @@ levenscyclus:
 - monitoring-en-beheer
 onderwerp:
 - governance
-# rollen:
+rollen:
+- projectleider
+- ontwikkelaar
 hide:
 - navigation
 - toc

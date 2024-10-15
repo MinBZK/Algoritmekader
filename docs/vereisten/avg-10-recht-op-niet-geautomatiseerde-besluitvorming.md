@@ -6,8 +6,7 @@ status_vereiste:
  - geldend
 levenscyclus: 
 - ontwerp
-- ontwikkelen
-- monitoring-en-beheer 
+- implementeren
 onderwerp:
 - privacy-en-gegevensbescherming
 rollen:

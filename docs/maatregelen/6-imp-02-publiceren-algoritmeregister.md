@@ -8,6 +8,7 @@ vereiste:
 - awb-01-zorgvuldigheidsbeginsel
 levenscyclus:
 - implementatie
+- monitoren-en-beheer
 onderwerp:
 - transparantie
 rollen:
@@ -32,6 +33,7 @@ Publiceer het algoritme  in het [Nederlandse Algoritmeregister](../instrumenten/
 - Er is een [Handreiking Algoritmeregister](https://www.digitaleoverheid.nl/wp-content/uploads/sites/8/2023/12/Handreiking-Algoritmeregister-versie-1.0.pdf) opgesteld met informatie over het publiceren van algoritmes en AI-systemen in het Algoritmeregister.
 - De [Algoritmeregister Publicatiestandaard](https://regels.overheid.nl/publicaties/algoritmeregister-publicatiestandaard#:~:text=De%20publicatiestandaard%20is%20gericht%20op,op%20andere%20manier%20te%20organiseren) kan overheidsorganisaties ondersteunen bij het helpen invullen van het Algoritmeregister.
 - Sommige overheidsorganisaties publiceren hun algoritmes ook in een eigen Algoritmeregister, zodat burgers dit makkelijker kunnen vinden. Bijvoorbeeld het [Algoritmeregister van de Gemeente Rotterdam](https://algoritmeregister.rotterdam.nl/p/Onzealgoritmes), het [Algoritmeregister van de Gemeente Amsterdam](https://algoritmeregister.amsterdam.nl/) of het [Algoritmeregister van het UWV](https://www.uwv.nl/nl/over-uwv/organisatie/algoritmeregister-uwv). 
+- Zorg na publicatie dat de informatie in het Algoritmeregister up-to-date blijft en indien nodig regelmatig wordt aangepast. 
 
 ## Bijbehorende vereiste(n)
 

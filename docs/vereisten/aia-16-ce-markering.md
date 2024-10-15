@@ -5,7 +5,7 @@ toelichting: Aanbieders van AI-systemen met een hoog risico moeten een CE-marker
 levenscyclus:
 - implementatie
 onderwerp:
-- governance
+- transparantie
 rollen:
 - projectleider
 hide:

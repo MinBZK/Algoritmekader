@@ -7,11 +7,10 @@ vereiste:
 - aia-29-beoordelen-gevolgen-grondrechten
 - grw-02-non-discriminatie
 - aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging
-# vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus:
+- dataverkenning-en-datapreparatie
 - implementatie
 - monitoring-en-beheer
-# vul hier de bouwblokken in die horen bij deze maatregel
 onderwerp: 
 - bias-en-non-discriminatie
 - technische-robuustheid-en-veiligheid

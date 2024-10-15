@@ -10,10 +10,10 @@ levenscyclus:
 onderwerp:
 - technische-robuustheid-en-veiligheid
 - governance
-- jurist
 rollen:
 - projectleider
 - beleid-en-advies
+- jurist
 hide:
 - navigation
 - toc
@@ -27,9 +27,7 @@ Richt een proces in waarmee beveiligingsincidenten m.b.t. algoritmes en data zo 
 
 
 ## Toelichting
-
-
-- Er zijn procedures aanwezig die borgen dat beveiligingsincidenten m.b.t. algoritmes en data zo spoedig mogelijk, afhankelijk van de kwalificatie van het incident, worden opgepakt.
+Er zijn procedures aanwezig die borgen dat beveiligingsincidenten m.b.t. algoritmes en data zo spoedig mogelijk, afhankelijk van de kwalificatie van het incident, worden opgepakt.
 
 
 ## Risico

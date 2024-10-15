@@ -1,29 +1,18 @@
 ---
 title: Stel vast dat wetgeving en (lokaal) beleid correct is vertaald naar de uitvoering van het te ondersteunen werkproces en de onderliggende systemen. 
 toelichting: Wet- en regelgeving of beleid bevat de basisregels voor algoritmes en AI-systemen. Het is van belang dat een goede vertaling wordt gemaakt van deze regels naar het algoritme of AI-systeem.
-
 vereiste:
 - awb-01-zorgvuldigheidsbeginsel
 - aia-08-transparantie-aan-gebruiksverantwoordelijken
 - awb-02-motiveringsbeginsel
 - aia-05-data-kwaliteitscriteria
-  
 levenscyclus:
-- ontwerp
-- dataverkenning-en-datapreparatie
-- ontwikkelen
 - verificatie-en-validatie
-- implementatie
-  
 onderwerp:
 - governance
 - transparantie
-  
 rollen:
-- projectleider
-- beleid-en-advies
 - jurist
-  
 hide:
 - navigation
 - toc
@@ -58,7 +47,6 @@ Stel vast dat wetgeving en (lokaal) beleid correct is vertaald naar de uitvoerin
 Een beslissing of besluit wordt niet conform wetgeving genomen en is daarmee onrechtmatig, als geen goede vertaling wordt gemaakt van wetgeving naar het algoritme. 
 
 ## Bron
-
 [Wetsanalyse](https://wendbarewetsuitvoering.pleio.nl/page/view/918f9a63-4383-410e-b526-4b8fb67b1c40/het-boek-wetsanalyse)
 
 ## Voorbeeld

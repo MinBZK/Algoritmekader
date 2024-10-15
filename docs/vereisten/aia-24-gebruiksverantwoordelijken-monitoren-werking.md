@@ -5,7 +5,6 @@ toelichting: Gebruiksverantwoordelijken monitoren de werking van het AI-systeem 
 levenscyclus:
 - monitoring-en-beheer
 onderwerp:
-- governance
 - menselijke-controle
 rollen:
 - projectleider

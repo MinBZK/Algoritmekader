@@ -6,8 +6,12 @@ vereiste:
 - aia-05-data-kwaliteitscriteria
 levenscyclus: 
 - ontwerp
+- dataverkenning-en-datapreparatie
 onderwerp:
 - data
+rollen:
+- ontwikkelaar
+- beleid-en-advies
 hide:
 - navigation
 - toc

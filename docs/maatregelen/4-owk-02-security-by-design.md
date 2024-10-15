@@ -6,6 +6,7 @@ vereiste:
 - avg-12-beveiliging-van-verwerking
 - aia-07-automatische-logregistratie
 levenscyclus:
+- ontwikkelen
 onderwerp:
 - technische-robuustheid-en-veiligheid
 rollen:

@@ -230,6 +230,38 @@ def on_env(env, config: MkDocsConfig, files: Files):
         
         return "".join(vereisten_table)
 
+    # NEW FUNCTION: To generate the Maatregelen for a specific Hulpmiddel
+    def generate_maatregelen_for_hulpmiddel(file: File) -> str:
+        vereisten = file.page.meta.get("maatregel", [])
+        if not vereisten:
+            return "<p>Geen maatregelen beschikbaar voor dit hulpmiddel.</p>"
+
+        vereisten_table = [
+            "<table>",
+            "<thead>",
+            "<tr>",
+            "<th>Maatregel</th>",
+            "</tr>",
+            "</thead>", 
+            "<tbody>",
+        ]
+        
+        for maatregel in maatregelen:
+            maatregel_file = find_file_by_name(maatregel, "maatregelen", files)
+            if maatregel_file:
+                # Retrieve the title from the maatregel file's metadata
+                maatregel_id = maatregel_file.page.meta.get("id", "")[14:] # remove the first part of the urn
+                maatregel_title = maatregel_file.page.meta.get("title", maatregel)  # Fallback to maatregel name if no title
+                maatregel_link = posixpath.join(config.site_url or "/", maatregel_file.url)
+                maatregel_table.append(
+                    f'<tr><td><a href="{maatregel_link}">{maatregel_id} - {maatregel_title}</a></td></tr>')
+            else:
+                maatregel_table.append(f'<tr><td>{maatregel}</td></tr>')  # No link if the file is not found
+
+        maatregel_table.append("</tbody></table>")
+        
+        return "".join(maatregel_table)
+
 
     def find_file_by_name(name: str, content_type: str, files: Files) -> File:
         for file in files:
@@ -242,6 +274,13 @@ def on_env(env, config: MkDocsConfig, files: Files):
         file.page.content = re.sub(
             r"<!-- list_vereisten_on_maatregelen_page -->",
             lambda match: generate_vereisten_for_maatregel(file),
+            file.page.content
+        )
+
+    def replace_maatregelen_content(file: File):
+        file.page.content = re.sub(
+            r"<!-- list_maatregelen_on_hulpmiddelen_page -->",
+            lambda match: generate_maatregelen_for_hulpmiddel(file),
             file.page.content
         )
 

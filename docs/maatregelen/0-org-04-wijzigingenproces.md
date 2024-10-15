@@ -4,17 +4,13 @@ toelichting: Richt een formeel wijzigingenproces in, waarmee bepaald wordt hoe c
 vereiste:
 - bio-01-beveiliging-informatie-en-informatiesystemen
 levenscyclus:
-- ontwerp
-- ontwerp
-- ontwikkelen
-- implementatie
-- monitoring-en-beheer
+- organisatieverantwoordelijkheden
 onderwerp:
 - technische-robuustheid-en-veiligheid
 - governance
 rollen:
 - projectleider
-- beleid-en-advies
+- ontwikkelaar
 hide:
 - navigation
 - toc

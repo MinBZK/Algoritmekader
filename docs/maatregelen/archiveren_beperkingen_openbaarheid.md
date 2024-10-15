@@ -43,3 +43,4 @@ transparantie/openheid (uitgangspunt zou 'open, tenzij' moeten zijn).
 
 Heb je een goed voorbeeld? Laat het ons weten!
 
+

@@ -7,13 +7,10 @@ vereiste:
 - aia-24-gebruiksverantwoordelijken-monitoren-werking
 - awb-01-zorgvuldigheidsbeginsel
 - aia-09-menselijk-toezicht
-  
 levenscyclus:
 - ontwerp
 - ontwikkelen
-- verificatie-en-validatie
 - implementatie
-- monitoring-en-beheer
 onderwerp:
 - menselijke-controle
 - governance

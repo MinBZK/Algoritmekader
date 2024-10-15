@@ -5,7 +5,7 @@ toelichting: Dit beginsel vereist dat een besluit met de nodige zorgvuldigheid w
 levenscyclus: 
 - ontwerp
 - ontwikkeling
-- verificatie-en-validatieonderwerp:
+- verificatie-en-validatie
 onderwerp:
 - fundamentele-rechten
 rollen:

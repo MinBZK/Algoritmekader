@@ -4,10 +4,7 @@ toelichting: Back-up kopieën van informatie, software en systeemafbeeldingen di
 vereiste:
 - bio-01-beveiliging-informatie-en-informatiesystemen
 levenscyclus:
-- ontwerp
 - ontwikkelen
-- verificatie-en-validatie
-- implementatie
 - monitoring-en-beheer
 onderwerp:
 - technische-robuustheid-en-veiligheid
@@ -27,9 +24,7 @@ Back-up kopieën van informatie, software en systeemafbeeldingen dienen regelmat
 Maak back-ups van de omgeving van het algoritme en zorg ervoor dat het algoritme en de data hersteld kunnen worden.
 
 ## Toelichting
-
-
-- Er is een back-up beleid waarin de eisen voor het bewaren en beschermen zijn gedefinieerd en vastgesteld. Dit beleid moet vervolgens worden vertaald naar (technische) maatregelen om het kunnen maken van back-ups te realiseren.
+Er is een back-up beleid waarin de eisen voor het bewaren en beschermen zijn gedefinieerd en vastgesteld. Dit beleid moet vervolgens worden vertaald naar (technische) maatregelen om het kunnen maken van back-ups te realiseren.
 
 ## Risico
 Als er geen regelmatige back-ups worden gemaakt en de restore-procedure niet regelmatig wordt getest, bestaat het risico dat er geen hersteloptie is en mogelijkheid van gegevensverlies.

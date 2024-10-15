@@ -4,9 +4,9 @@ id: urn:nl:ak:ver:aia-02
 toelichting: Een aanbieder die van mening is dat een in bijlage III bedoeld AI-systeem geen hoog risico inhoudt, documenteert zijn beoordeling voordat dat systeem in de handel wordt gebracht of in gebruik wordt gesteld. Die aanbieder is onderworpen aan de registratieverplichting van artikel 49, lid 2 AI-verordening. Op verzoek van de nationale bevoegde autoriteiten verstrekt de aanbieder de documentatie van de beoordeling.
 levenscyclus:
 - ontwerp
-- verificatie-en-validatie
 onderwerp:
 - governance
+- transparantie
 hide:
 - navigation
 rollen:

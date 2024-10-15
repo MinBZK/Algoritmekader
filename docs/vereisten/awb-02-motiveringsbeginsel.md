@@ -3,9 +3,11 @@ title: Een besluit berust op een deugdelijke motivering
 id: urn:nl:ak:ver:awb-02
 toelichting: Een besluit dat tot stand is gekomen door of met behulp van een algoritme of AI-systeem, dient te berusten op een deugdelijke motivering. 
 levenscyclus:
-- organisatieverantwoordelijkheden
+- ontwerp
+- implementatie
+- monitoring-en-beheer
 onderwerp:
-- governance
+- transparantie
 rollen:
 - jurist
 - beleid-en-advies

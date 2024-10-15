@@ -13,11 +13,8 @@ onderwerp:
 - technische-robuustheid-en-veiligheid
 - privacy-en-gegevensbescherming
 rollen:
-- proceseigenaar
-- aanbieder
-- data-engineer
-- data-scientist
-- security-officer
+- jurist
+- projectleider
 hide:
 - navigation
 - toc

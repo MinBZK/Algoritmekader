@@ -1,5 +1,5 @@
 ---
-title: Opdrachtnemer
+title: Ontwikkelaar
 hide:
   - toc
   - navigation
@@ -7,7 +7,7 @@ hide:
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/opdrachtnemer no-rol no-levenscyclus no-search no-onderwerp -->
+<!-- list_maatregelen rollen/aanbestedingsjurist no-rol no-levenscyclus no-search no-onderwerp -->
 
 !!! info "Disclaimer"
 

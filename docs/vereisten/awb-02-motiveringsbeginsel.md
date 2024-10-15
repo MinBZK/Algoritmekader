@@ -6,6 +6,9 @@ levenscyclus:
 - organisatieverantwoordelijkheden
 onderwerp:
 - governance
+rollen:
+- jurist
+- beleid-en-advies
 ---
 
 <!-- tags -->

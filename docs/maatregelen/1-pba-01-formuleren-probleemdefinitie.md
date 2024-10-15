@@ -10,8 +10,6 @@ onderwerp:
 - governance
 rollen:
 - projectleider
-- opdrachtgever
-- domeinspecialist
 hide:
 - navigation
 - toc

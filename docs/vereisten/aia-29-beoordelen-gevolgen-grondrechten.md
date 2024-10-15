@@ -10,6 +10,9 @@ levenscyclus:
 - monitoring-en-beheer
 onderwerp:
 - fundamentele-rechten
+rollen:
+- projectleider
+- beleid-en-advies
 hide:
 - navigation
 ---

@@ -14,8 +14,8 @@ levenscyclus:
 onderwerp:
 - privacy-en-gegevensbescherming
 rollen:
-- proceseigenaar
-- privacy-officer
+- projectleider
+- jurist
 
 hide:
 - navigation

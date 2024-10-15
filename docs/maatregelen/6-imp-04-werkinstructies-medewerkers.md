@@ -17,6 +17,9 @@ levenscyclus:
 onderwerp: 
 - governance
 - menselijke-controle
+rollen:
+- projectleider
+- beleid-en-advies
 hide:
 - navigation
 - toc

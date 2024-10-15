@@ -14,10 +14,7 @@ onderwerp:
 - governance
 - transparantie
 rollen:
-- proceseigenaar
-- beleidsmedewerker
-- privacy-officer
-- aanbieder
+- projectleider
   
 hide:
 - navigation

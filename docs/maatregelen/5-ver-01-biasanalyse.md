@@ -12,12 +12,8 @@ levenscyclus:
 onderwerp:
 - bias-en-non-discriminatie
 rollen:
-- ethicus
-- data-scientist
-- opdrachtgever
 - projectleider
-- jurist
-- domeinspecialist
+- beleid-en-advies
 hide:
 - navigation
 ---

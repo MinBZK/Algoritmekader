@@ -20,13 +20,9 @@ onderwerp:
 - transparantie
   
 rollen:
-- proceseigenaar
-- beleidsmedewerker
-- informatie-analist
+- projectleider
+- beleid-en-advies
 - jurist
-- ethicus
-- data-engineer
-- data-scientist
   
 hide:
 - navigation

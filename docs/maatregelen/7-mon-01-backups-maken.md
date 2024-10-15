@@ -11,13 +11,9 @@ levenscyclus:
 - monitoring-en-beheer
 onderwerp:
 - technische-robuustheid-en-veiligheid
-- governance
 rollen:
-- proceseigenaar
-- projectleider
-- informatiebeheerder
-- data-engineer
-- security-officer
+- ontwikkelaar
+- beleid-en-advies
 hide:
 - navigation
 - toc

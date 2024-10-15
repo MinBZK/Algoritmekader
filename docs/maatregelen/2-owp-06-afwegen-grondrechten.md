@@ -16,6 +16,11 @@ levenscyclus:
 # vul hier de bouwblokken in die horen bij deze maatregel
 onderwerp: 
 - fundamentele-rechten
+
+rollen:
+- projectleider
+- beleid-en-advies
+
 hide:
 - navigation
 ---

@@ -9,13 +9,8 @@ levenscyclus:
 onderwerp: 
 - governance
 rollen:
-- proceseigenaar
-- behoeftesteller
-- beleidsmedewerker
-- inkoopadviseur
-- aanbieder
-- data-scientist
-- data-engineer
+- projectleider
+- beleid-en-advies
 
 hide:
 - navigation

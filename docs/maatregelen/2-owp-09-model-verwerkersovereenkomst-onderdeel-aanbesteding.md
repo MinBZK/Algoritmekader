@@ -10,9 +10,8 @@ onderwerp:
 - publieke-inkoop
 - privacy-en-gegevensbescherming
 rollen:
-- proceseigenaar
-- privacy-officer
-- inkoopadviseur
+- projectleider
+- bestuur-en-advies
 hide:
 - navigation
 - toc

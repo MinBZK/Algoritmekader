@@ -8,6 +8,9 @@ levenscyclus:
 - dataverkenning-en-datapreparatie
 onderwerp:
 - privacy-en-gegevensbescherming
+rollen:
+- projectleider
+- jurist
 hide:
 - navigation
 ---

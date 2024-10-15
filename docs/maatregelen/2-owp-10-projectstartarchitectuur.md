@@ -11,15 +11,8 @@ levenscyclus:
 - verificatie-en-validatie
 - implementatie
 onderwerp:
-- privacy-en-gegevensbescherming
-rollen:
-- proceseigenaar
-- informatie-analist
-- data-engineer
-- privacy-officer
-- security-officer
-- inkoopadviseur
-- architect
+- projectleider
+- beleid-en-advies
   
 hide:
 - navigation

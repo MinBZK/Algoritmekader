@@ -17,16 +17,8 @@ onderwerp:
 
 # geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn
 rollen:
-- proceseigenaar
-- behoeftesteller
-- informatie-analist
-- data-scientist
-- inkoopadviseur
-- contractbeheerder
-- aanbestedingsjurist
-- aanbieder
-- opdrachtnemer
-- architect
+- projectleider
+- ontwikkelaar
   
 hide:
 - navigation

@@ -10,10 +10,7 @@ onderwerp:
 - governance
 rollen:
 - projectleider
-- proceseigenaar
-- proceseigenaar
-- informatiebeheerder
-- security-officer
+- beleid-en-advies
 hide:
 - navigation
 - toc

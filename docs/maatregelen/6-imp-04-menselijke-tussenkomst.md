@@ -9,8 +9,8 @@ vereiste:
 - aia-09-menselijk-toezicht
 levenscyclus:
 - ontwerp
-- ontwikkelen
 - implementatie
+- monitoren-en-beheer
 onderwerp:
 - menselijke-controle
 - governance

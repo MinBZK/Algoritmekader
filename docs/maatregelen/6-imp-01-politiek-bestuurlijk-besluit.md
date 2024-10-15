@@ -5,17 +5,14 @@ vereiste:
 - awb-01-zorgvuldigheidsbeginsel
 - aia-08-transparantie-aan-gebruiksverantwoordelijken
 - awb-02-motiveringsbeginsel
-  
 levenscyclus:
 - organisatieverantwoordelijkheden
-- verificatie-en-validatie
-  
+- implementatie
 onderwerp:
 - governance
 - transparantie
 rollen:
 - projectleider
-  
 hide:
 - navigation
 - toc
@@ -24,7 +21,6 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-
 Een politieke-bestuurlijk besluit wordt genomen over de inzet van een impactvol algoritme en hoog risico AI-systemen. 
 
 ## Toelichting

@@ -6,19 +6,13 @@ vereiste:
 - aia-08-transparantie-aan-gebruiksverantwoordelijken
 - avg-07-transparantie-bij-verwerken-persoonsgegevens
 - awb-01-zorgvuldigheidsbeginsel
-  
 levenscyclus:
 - implementatie
-
 onderwerp:
 - transparantie
-
 rollen:
-- proceseigenaar
-- beleidsmedewerker
-- privacy-officer
-- aanbieder
-  
+- projectleider
+- beleid-en-advies
 hide:
 - navigation
 - toc

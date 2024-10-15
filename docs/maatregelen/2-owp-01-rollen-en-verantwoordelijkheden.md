@@ -7,21 +7,12 @@ vereiste:
 - awb-01-zorgvuldigheidsbeginsel
 levenscyclus: 
 - ontwerp
-- dataverkenning-en-datapreparatie
-- ontwikkelen
 - implementatie
 - monitoring-en-beheer
 onderwerp:
-- privacy-en-gegevensbescherming
 - governance
 rollen:
-- proceseigenaar
-- privacy-officer
-- data-scientist
-- data-engineer
-- inkoopadviseur
-- contractbeheerder
-- aanbieder
+- projectleider
 hide:
 - navigation
 - toc

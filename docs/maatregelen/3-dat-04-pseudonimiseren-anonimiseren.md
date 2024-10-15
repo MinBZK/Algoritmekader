@@ -5,12 +5,10 @@ vereiste:
 - avg-03-minimale-verwerking-van-persoonsgegevens
 - avg-12-beveiliging-van-verwerking
 levenscyclus:
-- ontwerp
 - dataverkenning-en-datapreparatie
 - ontwikkelen
 onderwerp:
 - privacy-en-gegevensbescherming
-- technische-robuustheid-en-veiligheid
 rollen:
 -  ontwikkelaar
 -  jurist

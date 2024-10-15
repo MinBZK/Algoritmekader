@@ -5,16 +5,13 @@ vereiste:
 - avg-13-dpia-verplicht
 levenscyclus:
 - ontwerp
-- dataverkenning-en-datapreparatie
 - ontwikkelen
-- verificatie-en-validatie
-- implementatie
+- monitoren-en-beheer
 onderwerp:
 - privacy-en-gegevensbescherming
 rollen:
 - projectleider
-- beleid-en-advies 
-
+- jurist
 hide:
 - navigation
 - toc
@@ -23,8 +20,7 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-
-Uitvoeren risicoanalyse en formuleren mitigerende maatregelen voor privacyrisico
+Uitvoeren risicoanalyse en formuleren mitigerende maatregelen voor privacyrisico.
 
 ## Toelichting
 
@@ -43,7 +39,6 @@ Uitvoeren risicoanalyse en formuleren mitigerende maatregelen voor privacyrisico
 
 ## Risico
 Privacyrisico's met de inzet van algoritmes en AI-systemen worden niet gemitigeerd, waardoor privacyrechten van betrokkenen worden geschonden. 
-
 
 ## Bronnen
 - [Onderzoekskader Algoritmes Auditdienst Rijk, PRI.2, PRI.3](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)

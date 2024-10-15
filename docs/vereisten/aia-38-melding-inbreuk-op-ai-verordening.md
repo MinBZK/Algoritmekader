@@ -7,7 +7,7 @@ levenscyclus:
 - monitoring-en-beheer
 onderwerp:
 - governance
-- fundamentele-rechten
+- menselijke-controle
 rollen:
 - projectleider
 hide:

@@ -7,6 +7,7 @@ vereiste:
 - avg-12-beveiliging-van-verwerking
 levenscyclus:
 - organisatieverantwoordelijkheden
+- monitoren-en-beheer
 onderwerp:
 - technische-robuustheid-en-veiligheid
 - governance
@@ -22,7 +23,6 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-
 Richt een proces in waarmee beveiligingsincidenten m.b.t. algoritmes en data zo spoedig mogelijk worden opgelost.
 
 

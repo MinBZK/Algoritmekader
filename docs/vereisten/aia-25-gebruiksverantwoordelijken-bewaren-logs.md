@@ -5,8 +5,8 @@ toelichting: Gebruiksverantwoordelijken van AI-systemen met een hoog risico bewa
 levenscyclus:
 - implementatie
 - ontwikkelen
+- monitoring-en-beheer
 onderwerp:
-- governance
 - technische-robuustheid-en-veiligheid
 rollen:
 - projectleider

@@ -3,6 +3,7 @@ title: Maatregelen van gebruiksverantwoordelijken voor gebruik
 id: urn:nl:ak:ver:aia-22
 toelichting: Gebruiksverantwoordelijken van AI-systemen met een hoog risico nemen passende technische en organisatorische maatregelen om te waarborgen dat zij dergelijke systemen gebruiken in overeenstemming met de gebruiksaanwijzingen die bij de systemen zijn gevoegd, in overeenstemming met de leden 3 en 6 van artikel 26 van de AI-verordening.
 levenscyclus:
+- organisatieverantwoordelijkheden
 - implementatie
 onderwerp:
 - governance

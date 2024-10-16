@@ -32,7 +32,7 @@ Net als elders in het algoritmekader geven we maatregelen om hier concreet mee a
 
 
 ## Waar te starten 
-Afhankelijk van hoe ver jouw organisatie is, zijn andere maatregelen nuttig. Is er al een visie of beleid over hoe met AI en algortimes om te gaan? Is er al iemand verantwoordelijk voor AI en algortimes? Wie gaat over de naleving van bijvoorbeeld de AI-verordening? Als je geen andwoord hebt, kan je bij stap 1 beginnen.
+Is er al een visie of beleid over hoe met AI en algortimes om te gaan? Is er al iemand verantwoordelijk voor AI en algortimes? Wie gaat over de naleving van bijvoorbeeld de AI-verordening? Als je geen andwoord hebt, kan je bij stap 1 beginnen.
 
 Voorbeelden bij **stap 1: Randvoorwaarden algoritmegovernance**:
 Deze maatregelen gaan over het grondwerk leggen om algortimegovernance mogelijk te maken. Kijk eens naar maatregelen (hieronder) zoals:

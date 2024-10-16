@@ -38,7 +38,7 @@ Is er al een visie of beleid over hoe met AI en algortimes om te gaan? Is er al 
 Deze maatregelen gaan over het grondwerk leggen om algortimegovernance mogelijk te maken. Kijk eens naar maatregelen (hieronder) zoals:
 * Stel een visie met betrekking tot AI en algoritmes op en zorg voor bestuurlijk bewustzijn en draagvlak.
 * Onderzoek wat er al is qua bestaande governancestructuren waar van te leren is en denk na over hoe organisatieonderdelen moeten samenwerken om goede algortimegovernance mogelijk te maken.
-* Volwassenheidsniveau: Breng het volwassenheidsniveau in kaart.
+* Breng het AI-volwassenheidsniveau in kaart om focus aan te brengen waar het nodig is.
 * Verken welke normen en standaarden er te gebruiken zijn.
 
 
@@ -46,7 +46,7 @@ Deze maatregelen gaan over het grondwerk leggen om algortimegovernance mogelijk 
 We geven bij deze maatregelen meer voorbeelden en best practices voor het inrichten van algoritmegovernance. Kijk eens naar maatregelen (hieronder) zoals:
 * Rollen en verantwoordelijkheden in algoritmegovernance
 * Governance en de AI-levenscyclus
-* Three lines of defence governance
+* Voorbeelden als three lines of defence
 
 !!! note "Let op!"
     Voorbeelden bieden in hoofdlijnen een ‘blauwdruk’ voor hoe algoritmegovernance kan worden ingericht. 

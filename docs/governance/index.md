@@ -50,7 +50,7 @@ We geven bij deze maatregelen meer voorbeelden en best practices voor het inrich
 
 !!! note "Let op!"
     Voorbeelden bieden in hoofdlijnen een ‘blauwdruk’ voor hoe algoritmegovernance kan worden ingericht. 
-    De grootte en inrichting van de organisatie. 
+    Overheidsorganisaties verschillen, onder andere in grootte. 
     Er moet altijd moet worden gekeken hoe dit in de eigen organisatie is in te passen. 
  
 

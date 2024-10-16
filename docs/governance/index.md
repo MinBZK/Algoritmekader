@@ -16,7 +16,7 @@ De noodzaak van algoritmegovernance is om grip te hebben (of krijgen) op algorit
 Mede gezien de AI-verordening is het van belang dat organisaties zich organiseren om deze wet correct te kunnen naleven. 
 Bewustzijn bij bestuur en organisatie is daarvoor een belangrijk vertrekpunt.
 
-### Verschillende niveau's van governance
+#### Verschillende niveau's van governance
 Algoritmegovernance bestaat op verschillende niveaus: van (inter)nationaal niveau, naar organisatieniveau naar het niveau van het AI-systeem (zie figuur hieronder). 
 
 Het Algoritmekader focust op de onderste twee niveaus. Hier kan een organisatie invloed op uitoefenen. Dit zijn **organisatieniveau** en **systeemniveau**.
@@ -24,12 +24,13 @@ Het Algoritmekader focust op de onderste twee niveaus. Hier kan een organisatie 
 ![Algoritme en AI governance ladder, TNO, 2024](https://github.com/user-attachments/assets/e6102b7f-347b-447a-83e5-bc423ad031c3)
 Bron: TNO, 2024
 
-### Uitdagingen bij algoritmegovernance
+#### Uitdagingen bij algoritmegovernance
+
 * De omvang van een organisatie is van groot belang. Bij een kleine gemeente zijn de rollen en verantwoordelijkheden heel anders belegd dan bij een ministerie.
 * Voor veel organisaties staat algoritmegovernance in de kinderschoenen.
 * Binnen een organisatie kan algoritmegovernance niet los worden gezien van de algemene governance, data-governance en IT-governance. 
 * Bij algoritmegovernance komen veel thema's bij elkaar (data, privacy, security) en is veel kennis nodig.
-* * Binnen een organisatie kan algoritmegovernance niet los worden gezien van de algemene governance, data-governance en IT-governance.
+  * Binnen een organisatie kan algoritmegovernance niet los worden gezien van de algemene governance, data-governance en IT-governance.
 * Algoritmegovernance moet aansluiten bij de strategie, doelstellingen en publieke waarden van een organisatie
 
 In diverse maatregelen geven we een startpunt om hoe om te gaan met algoritmegovernance

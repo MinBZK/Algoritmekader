@@ -5,15 +5,14 @@ vereiste:
 - aia-05-data-kwaliteitscriteria
 - aia-11-systeem-voor-kwaliteitsbeheer
 - aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging
-- avg-juistheid-en-actualiteit-van-persoonsgegevens
+- avg-05-juistheid-en-actualiteit-van-persoonsgegevens
 levenscyclus:
 - monitoring-en-beheer
 onderwerp:
 - data
 - technische-robuustheid-en-veiligheid
 rollen:
-- data-engineer
-- data-scientist
+- ontwikkelaar
 hide:
 - navigation
 - toc

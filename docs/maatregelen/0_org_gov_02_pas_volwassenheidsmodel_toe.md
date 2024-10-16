@@ -1,14 +1,10 @@
 ---
 title: Pas een volwassheidsmodel toe om te weten waar jou organisatie staat qua AI
 toelichting: Pas een volwassheidsmodel toe om te weten waar jou organisatie staat qua AI
-
-[comment]: <> (Hier moet nog vereiste ?) 
-
 levenscyclus:
 - organisatieverantwoordelijkheden
 rollen:
 - projectleider
-
 ---
 
 <!-- tags -->

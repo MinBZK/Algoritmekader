@@ -6,7 +6,6 @@ vereiste:
 - avg-04-proportionaliteit-en-subsidiariteit.md
   
 levenscyclus:
-- ontwerp
 - dataverkenning-en-datapreparatie
 - ontwikkelen
 - verificatie-en-validatie

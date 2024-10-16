@@ -27,7 +27,7 @@ hide:
 
 ## Maatregel
 
- Pas vastgestelde interne beleidskaders toe en maak aantoonbaar dat deze zijn nageleefd bij het ontwikkelen, inkopen en gebruiken van algoritmes en AI-systemen.
+Pas vastgestelde interne beleidskaders toe en maak aantoonbaar dat deze zijn nageleefd bij het ontwikkelen, inkopen en gebruiken van algoritmes en AI-systemen.
 
 ## Toelichting
 - Interne vastgestelde beleidskaders moeten worden toegepast bij het ontwikkelen, inkopen of gebruiken van algoritmes en AI-systemen.

@@ -45,9 +45,9 @@ Betrokkenen zijn niet op de hoogte dat hun persoonsgegevens worden verwerkt met 
 ## Bronnen
 - [Handreiking Algoritmeregister](https://www.digitaleoverheid.nl/wp-content/uploads/sites/8/2023/12/Handreiking-Algoritmeregister-versie-1.0.pdf)
 - [Algoritmeregister Publicatiestandaard](https://regels.overheid.nl/publicaties/algoritmeregister-publicatiestandaard#:~:text=De%20publicatiestandaard%20is%20gericht%20op,op%20andere%20manier%20te%20organiseren.)
-- [Toetsingskader Algoritmes Algemene Rekenkamer, 3.12](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) 
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 3.12, 3.14, 3.16](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) 
 - [Onderzoekskader Algoritmes Auditdienst Rijk, PRI.8](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) 
-- [Toetsingskader Algoritmes Algemene Rekenkamer, 3.14, 3.16](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
+
 
 ## Voorbeeld
 - [Gemeente Groningen, Algoritmeregister: Eerste Hulp bij Geldzaken](https://algoritmes.overheid.nl/nl/algoritme/eerste-hulp-bij-geldzaken-gemeente-groningen/55597555)

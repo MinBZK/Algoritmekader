@@ -5,7 +5,7 @@ vereiste:
 - awb-01-zorgvuldigheidsbeginsel
 - aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging
 levenscyclus:
-- ontwerp
+- ontwikkelen
 - verificatie-en-validatie
 - monitoring-en-beheer
 onderwerp:
@@ -43,7 +43,7 @@ Het algoritme functioneert niet in lijn met geformuleerde doelstellingen.
 ## Bronnen
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 2.01](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) 
 - [Impact Assessment Mensenrechten en Algoritmes, 1](https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes)          
-- [Onderzoekskader Algoritmes Auditdienst Rijk, DM.1](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)                   
+- [Onderzoekskader Algoritmes Auditdienst Rijk, DM.1, DM.4](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)                   
 
 ## Voorbeeld
 

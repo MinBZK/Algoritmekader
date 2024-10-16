@@ -34,7 +34,7 @@ Net als elders in het algoritmekader geven we maatregelen om hier concreet mee a
 ## Waar te starten 
 Is er al een visie of beleid over hoe met AI en algortimes om te gaan? Is er al iemand verantwoordelijk voor AI en algortimes? Wie gaat over de naleving van bijvoorbeeld de AI-verordening? Als je geen andwoord hebt, kan je bij stap 1 beginnen.
 
-Voorbeelden bij **stap 1: Randvoorwaarden algoritmegovernance**:
+#### Voorbeelden bij stap 1: Randvoorwaarden algoritmegovernance
 Deze maatregelen gaan over het grondwerk leggen om algortimegovernance mogelijk te maken. Kijk eens naar maatregelen (hieronder) zoals:
 * Stel een visie met betrekking tot AI en algoritmes op en zorg voor bestuurlijk bewustzijn en draagvlak.
 * Onderzoek wat er al is qua bestaande governancestructuren waar van te leren is en denk na over hoe organisatieonderdelen moeten samenwerken om goede algortimegovernance mogelijk te maken.
@@ -42,7 +42,7 @@ Deze maatregelen gaan over het grondwerk leggen om algortimegovernance mogelijk 
 * Verken welke normen en standaarden er te gebruiken zijn.
 
 
-Voorbeelden bij **stap 2: Inrichten van algoritmegovernance**:
+#### Voorbeelden bij stap 2: Inrichten van algoritmegovernance
 We geven bij deze maatregelen meer voorbeelden en best practices voor het inrichten van algoritmegovernance. Kijk eens naar maatregelen (hieronder) zoals:
 * Rollen en verantwoordelijkheden in algoritmegovernance
 * Governance en de AI-levenscyclus

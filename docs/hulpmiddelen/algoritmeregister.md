@@ -21,7 +21,7 @@ hide: navaigation
 <!-- tags -->
 
 [Direct naar het Algoritmeregister](https://algoritmes.overheid.nl/nl){ .md-button }
-## Instrument
+## Hulpmiddel
 
 De regering wil dat de overheid algoritmes verantwoord gebruikt. 
 Mensen moeten erop kunnen vertrouwen dat algoritmes voldoen aan de waarden en normen van de samenleving. 

@@ -16,7 +16,7 @@ De noodzaak van algoritmegovernance is om grip te hebben (of krijgen) op algorit
 Mede gezien de AI-verordening is het van belang dat organisaties zich organiseren om deze wet correct te kunnen naleven. 
 Bewustzijn bij bestuur en organisatie is daarvoor een belangrijk vertrekpunt.
 
-#### Verschillende niveau's van governance
+## Verschillende niveau's van governance
 Algoritmegovernance bestaat op verschillende niveaus: van (inter)nationaal niveau, naar organisatieniveau naar het niveau van het AI-systeem (zie figuur hieronder). 
 
 Het Algoritmekader focust op de onderste twee niveaus. Hier kan een organisatie invloed op uitoefenen. Dit zijn **organisatieniveau** en **systeemniveau**.
@@ -24,7 +24,7 @@ Het Algoritmekader focust op de onderste twee niveaus. Hier kan een organisatie 
 ![Algoritme en AI governance ladder, TNO, 2024](https://github.com/user-attachments/assets/e6102b7f-347b-447a-83e5-bc423ad031c3)
 Bron: TNO, 2024
 
-#### Uitdagingen bij algoritmegovernance
+## Uitdagingen bij algoritmegovernance
 
 * De omvang van een organisatie is van groot belang. Bij een kleine gemeente zijn de rollen en verantwoordelijkheden heel anders belegd dan bij een ministerie.
 * Voor veel organisaties staat algoritmegovernance in de kinderschoenen.
@@ -45,7 +45,7 @@ We onderscheiden twee fases:
 1. **Randvoorwaarden algoritmegovernance**
 2. **Inrichten van algoritmegovernance** 
 
-### Fase 1: Randvoorwaarden algoritmegovernance
+## Fase 1: Randvoorwaarden algoritmegovernance
 
 Een algoritmegovernance inrichten vereist dat er eerst aan bepaalde randvoorwaarden is voldaan. Is er al een visie of beleid over hoe met AI en algortimes om te gaan? Is er al iemand verantwoordelijk voor AI en algortimes? Wie gaat over de naleving van bijvoorbeeld de AI-verordening?
 
@@ -55,7 +55,7 @@ Kijk eens naar maatregelen (hieronder) zoals:
 * Volwassenheidsniveau: Breng het volwassenheidsniveau in kaart.
 * Verken welke normen en standaarden er te gebruiken zijn.
 
-### Fase 2: Inrichten van algoritmegovernance
+## Fase 2: Inrichten van algoritmegovernance
 
 We geven voorbeelden en best practices voor het inrichten van algoritmegovernance.
 

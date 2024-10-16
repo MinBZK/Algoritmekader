@@ -11,7 +11,7 @@ onderwerp:
 - technische-robuustheid-en-veiligheid
 - bias-en-non-discriminatie
 rollen:
-- data-scientist
+- ontwikkelaar
 hide:
 - navigation
 - toc

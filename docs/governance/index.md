@@ -16,9 +16,7 @@ De noodzaak van algoritmegovernance is om grip te hebben (of krijgen) op algorit
 Een algoritmegovernance randvoorwaarde voor een organisatie om de vereisten die het Algoritmekader noemt verantwoord en gestructureerd aan te pakken
 
 Er bestaan verschillende niveau's van algoritmegovernance: van (inter)nationaal niveau, naar organisatieniveau naar het niveau van het AI-systeem (zie figuur hieronder). 
-
-Het Algoritmekader focust op de onderste twee niveaus. 
-Hier kan een organisatie invloed op uitoefenen. 
+Het Algoritmekader focust op de onderste twee niveaus, waar een organisatie invloed op heeft.
 Dit zijn **organisatieniveau** en **systeemniveau**.
 
 ![Algoritme en AI governance ladder, TNO, 2024](https://github.com/user-attachments/assets/e6102b7f-347b-447a-83e5-bc423ad031c3)
@@ -26,16 +24,12 @@ Bron: TNO, 2024
 
 ## Leeswijzer
 
-Als je deze sectie leest ben je waarschijnlijk geïnteresseerd in het opzetten of verbeteren van algoritmegovernance bij jou organisatie.
+Als je deze sectie leest ben je waarschijnlijk geïnteresseerd in het opzetten of verbeteren van algoritmegovernance bij jouw organisatie.
 
-. Mogelijk heeft je organisatie nog geen (volwassen) lifecyclemodel voor ontwikkeling, inkoop en beheer van AI. Veel maatregelen rondom governance gaan dan ook over het inrichten van governance. Dit vindt dan ook plaats in de [**Organisatieverantwoordelijkheden**](https://minbzk.github.io/Algoritmekader/levenscyclus/organisatieverantwoordelijkheden/) fase voorafgaand aan de AI-levencyclus.
+De meeste maatregelen met het label governance gaan over het *inrichten* van governance. Deze vallen dan ook in de [levenscyclus](https://minbzk.github.io/Algoritmekader/levenscyclus/) onder "organisatieverantwoordelijkheden". 
 
-We onderscheiden twee fases:
-1. **Randvoorwaarden algoritmegovernance**
-2. **Inrichten van algoritmegovernance** 
-
-## Fase 1: Randvoorwaarden algoritmegovernance
-
+Er zijn daarbinnen nog twee stappen te onderscheiden:
+1. **Randvoorwaarden algoritmegovernance**: Dit speelt zich af op organisatieniveau. Bijvoorbeeld een duidelijke visie op AI en algortimes is hier onderdeel van.
 Een algoritmegovernance inrichten vereist dat er eerst aan bepaalde randvoorwaarden is voldaan. Is er al een visie of beleid over hoe met AI en algortimes om te gaan? Is er al iemand verantwoordelijk voor AI en algortimes? Wie gaat over de naleving van bijvoorbeeld de AI-verordening?
 
 Kijk eens naar maatregelen (hieronder) zoals:
@@ -44,7 +38,8 @@ Kijk eens naar maatregelen (hieronder) zoals:
 * Volwassenheidsniveau: Breng het volwassenheidsniveau in kaart.
 * Verken welke normen en standaarden er te gebruiken zijn.
 
-## Fase 2: Inrichten van algoritmegovernance
+
+2. **Inrichten van algoritmegovernance**: Dit speelt zich af op organisatieniveau, maar heeft betrekking op het systeemniveau. Er worden bijvoorbeeld keuzes gemaakt hoe de levenscyclus en rollen en verantwoordelijkheden specifiek voor jouw organisatie wordt ingericht. 
 
 We geven voorbeelden en best practices voor het inrichten van algoritmegovernance.
 

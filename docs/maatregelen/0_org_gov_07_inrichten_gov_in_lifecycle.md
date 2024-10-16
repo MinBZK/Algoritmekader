@@ -17,17 +17,14 @@ rollen:
 
 ## Maatregel
 
-Inrichten governance in de levenscyclus van AI
+Richt in hoe binnen de AI-levenscyclus rollen en verantwoordelijkheden worden ingericht. 
+Let hierbij op _gates_: momenten waarop er een go/no-go kan worden gegeven.
 
-#### Inrichten governance in de levenscyclus van AI
-
-
-Om algoritmes op een verantwoorde manier te gebruiken, zul je op de juiste momenten aandacht moeten hebben voor de juiste onderwerpen en risico's. 
-Dit zich steeds herhalende proces van ontwerpen, ontwikkelen en in gebruik nemen noemen we de [levenscyclus](https://minbzk.github.io/Algoritmekader/levenscyclus/). 
+Om algoritmes op een verantwoorde manier te gebruiken, zul je op de juiste momenten aandacht moeten hebben voor de juiste onderwerpen en risico's. Dit zich steeds herhalende proces van ontwerpen, ontwikkelen en in gebruik nemen noemen we de [levenscyclus](https://minbzk.github.io/Algoritmekader/levenscyclus/). 
 
 Voor effectieve governance van algoritmen en AI is het essentieel om bij de ontwikkeling en gebruik hiervan heldere afspraken te hebben over de interactie en informatie-uitwisseling die vereist is om aan de verantwoording te voldoen. 
 Dit moet gebeuren in iedere fase van de levenscyclus, tussen de direct betrokkenen en de stakeholders binnen en buiten de organisatie. 
-Per fase in de levenscyclys zijn dus andere [rollen en verantwoordelijkheden](rollen-en-verantwoordelijkheden.md) aan zet. 
+Per fase in de levenscyclus zijn dus andere [rollen en verantwoordelijkheden](rollen-en-verantwoordelijkheden.md) aan zet. 
 
 Veel organisaties hebben al een levenscyclus voor AI-ontwikkeling, voortbouwend op IT-ontwikkeling. 
 Let op dat er vaak kleine verschillen zitten in de stappen van een lifecycle model.
@@ -54,8 +51,9 @@ Hieronder volgen twee voorbeelden van hoe governance effectief kan worden geïnt
     ![Afbeelding](../afbeeldingen/levenscyclus/modellevenscyclus_uwv.png)
  
 #### Aandachts- en actiepunten
-* Introduceer ‘gates’ tussen fases in de AI-lifecycle; voor de cyclus verder kan gaan moeten handelingen worden uitgevoerd door verantwoordelijken zoals: documenten aanleveren, (ethische) afwegingen, rapportages.
-* De levencyclus bij inkoop is waarschijnlijk anders, maar heeft ook 'gates' en procedures nodig.
+* Introduceer ‘gates’ tussen fases in de AI-levenscyclus; voor de cyclus verder kan gaan moeten handelingen worden uitgevoerd door verantwoordelijken zoals: documenten aanleveren, (ethische) afwegingen, rapportages.
+* De levenscyclus bij inkoop is waarschijnlijk anders, maar heeft ook 'gates' en procedures nodig.
+* Er bestaan veel varianten van AI-levenscycli. Kijk goed wat past bij de (bestaande) processen van jouw organisatie. 
 
  
 ## Bronnen
@@ -64,16 +62,7 @@ Hieronder volgen twee voorbeelden van hoe governance effectief kan worden geïnt
 
 - UWV Beleidsdocument model risico management, Modellevenscyclus (blz 21), 29 september 2021
 
-
-
-
 ## Bijbehorende vereiste(n)
 
 <!-- list_vereisten_on_maatregelen_page -->
 
-## Risico
--  todo
-## Bronnen
-- todo
-## Voorbeelden
-- todo

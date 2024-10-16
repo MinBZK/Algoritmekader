@@ -10,10 +10,9 @@ rollen:
 <!-- tags -->
 
 ## Maatregel
-Pas een volwassheidsmodel toe om te weten waar jou organisatie staat qua AI
+Pas een volwassenheidsmodel toe om te weten waar jou organisatie staat qua AI
 Om tot een passende algoritmegovernance voor een organisatie te komen, moet eerst worden vastgesteld wat op dit moment al is ingericht op het gebied van AI en algoritmes. 
-Dit wordt het bepalen van het zogenaamde 'volwassenheidsniveau' genoemd. 
-Op basis hiervan kunnen vervolgstappen worden gedefinieerd waar een organisatie aan kan gaan werken om zich naar de volgende niveaus voor algoritmegovernance door te ontwikkelen. 
+Op basis hiervan kunnen vervolgstappen worden gedefinieerd waar een organisatie aan kan gaan werken. Ook kunnen deze uitkomsten helpen bewustzijn over de uitdagingen te vergroten.
 
 Er zijn verschillende volwassenheidsmodellen hiervoor te gebruiken. Enkele voorbeelden zijn hieronder beschreven. 
 Deze modellen richten zich niet altijd expliciet op algoritmegovernance, maar kijken naar algoritmes in de organisatie in brede zin of naar “AI-ethics”. 
@@ -45,7 +44,6 @@ Bewustzijn over de noodzaak voor algoritmegovernance moet op bestuurlijk niveau 
 - Breng in kaart wat er al is aan (IT-)governance met één van de volwassenheidsmodellen.
 - Is de organisatie volwassen? Vallen AI en algoritmes al ergens onder? 
 - Breng deze informatie naar je bestuur met het verzoek duidelijkheid te krijgen hoe AI-governance belegd zou moeten worden. De AI-verordening vraagt om belegde verantwoordelijkheden met betrekking tot AI en algoritmes.
-- Er is verschil in datageletterdheid van ambtenaren. Benodigde skills en expertise (die mogelijk ontbreken) zijn van belang bij het invullen van rollen en verantwoordelijkheden.
 
 ## Bijbehorende vereiste(n)
 

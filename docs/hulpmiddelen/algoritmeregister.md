@@ -1,6 +1,8 @@
 ---
 title: Algoritmeregister
 toelichting: Het Algoritmeregister is de plek waar overheden informatie over hun algoritmes kunnen publiceren.
+categorie: 
+- register
 vereiste:
 - algoritmeregister
 levenscyclus:
@@ -13,12 +15,13 @@ rollen:
 - privacy-officer
 - proceseigenaar
 - informatiebeheerder
+hide: navaigation
 ---
 
 <!-- tags -->
 
 [Direct naar het Algoritmeregister](https://algoritmes.overheid.nl/nl){ .md-button }
-## Instrument
+## Hulpmiddel
 
 De regering wil dat de overheid algoritmes verantwoord gebruikt. 
 Mensen moeten erop kunnen vertrouwen dat algoritmes voldoen aan de waarden en normen van de samenleving. 

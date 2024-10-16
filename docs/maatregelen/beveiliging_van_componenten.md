@@ -33,7 +33,7 @@ Bepaal of de data voldoende is beveiligd en maak hierin onderscheid tussen de in
 ## Toelichting
 
 Er zijn beheersmaatregelen die kunnen helpen bij het zorgen voor een goede beveiliging van verschillende (software-)componenten van een algoritme of systeem. Hierbij kan worden gedacht aan:
-Het toepassen van wachtwoordbeheer. [Baseline Informatiebeveiliging Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/), de [NCSC Handreiking voor implementatie van detectieoplossingen](https://www.ncsc.nl/documenten/publicaties/2019/mei/01/handreiking-voor-implementatie-van-detectie-oplossingen) en het [Impact Assessment Mensenrechten en Algoritmes](../instrumenten/IAMA.md).)
+Het toepassen van wachtwoordbeheer. [Baseline Informatiebeveiliging Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/), de [NCSC Handreiking voor implementatie van detectieoplossingen](https://www.ncsc.nl/documenten/publicaties/2019/mei/01/handreiking-voor-implementatie-van-detectie-oplossingen) en het [Impact Assessment Mensenrechten en Algoritmes](../hulpmiddelen/IAMA.md).)
 
 - Inzicht creëren in de beoogde opzet van de IT-infrastructuur (de architectuur) en de werkelijk geconfigureerde hard- en software. (CIS Control 1, BIO 8.1.1).
 - Inrichten van een formeel proces voor het beheer van technische kwetsbaarheden. Dit omvat minimaal periodieke (geautomatiseerde) controle op de aanwezigheid van kwetsbaarheden in de te toetsen systemen, een risicoafweging en navolgbare afwerking daarvan of risicoacceptatie (BIO 12.6).

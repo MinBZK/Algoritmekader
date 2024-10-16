@@ -34,9 +34,9 @@ Er zijn echter ook grondrechten die bij minder algoritmen relevant zijn, maar de
 Het is van belang uiteindelijk een totale afweging te maken van alle grondrechten die (mogelijk) geraakt worden ten opzichte van de voordelen van het in te zetten algoritme. 
 Een voorbeeld van een grondrecht dat minder snel geraakt wordt is bijvoorbeeld een algoritme om hate speech te kunnen detecteren. Zo'n algoritme zal van invloed kunnen zijn op de vrijheid van meningsuiting en het recht op informatie.
 
-Doorloop in lijn met Deel 4 van het [Impact Assessment Mensenrechten en Algoritmes](../instrumenten/IAMA.md) de volgende stappen:
+Doorloop in lijn met Deel 4 van het [Impact Assessment Mensenrechten en Algoritmes](../hulpmiddelen/IAMA.md) de volgende stappen:
 
-1. Breng in kaart welke grondrechten geraakt kunnen worden door de inzet van het algoritme. Hiervoor kan [bijlage 1 uit het Impact Assessment Mensenrechten en Algoritmes](../instrumenten/IAMA.md) gebruikt worden.
+1. Breng in kaart welke grondrechten geraakt kunnen worden door de inzet van het algoritme. Hiervoor kan [bijlage 1 uit het Impact Assessment Mensenrechten en Algoritmes](../hulpmiddelen/IAMA.md) gebruikt worden.
 2. Als dat het geval is, is het allereerst van belang om te controleren of hiervoor specifieke wetgeving is waar de inzet van het algoritme aan moet voldoen.
 3. Bepaal hoe zwaar de geindentificeerde grondrechten worden geraakt door het beoogde algoritme.
 4. Bepaal hoe [doeltreffend/effectief](functioneren_in_lijn_met_doeleinden.md) het algoritme in de praktijk is.
@@ -57,7 +57,7 @@ Documenteer de doorlopen stappen en leg de keuzes en afwegingen goed vast.
 
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
-[Impact Assessment Mensenrechten en Algoritmes, deel 4](../instrumenten/IAMA.md)
+[Impact Assessment Mensenrechten en Algoritmes, deel 4](../hulpmiddelen/IAMA.md)
 
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
@@ -65,6 +65,6 @@ Het risico is dat er grondrechten, anders dan die expliciet beschermd zijn in an
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
-Hoofdstuk 4 van het [Impact Assesment Mensenrechten en Algoritmen (IAMA)](../instrumenten/IAMA.md) richt zich specifiek op de grondrechten. In bijlage 1 is tevens een overzicht te vinden van mogelijk relevante grondrechten.
+Hoofdstuk 4 van het [Impact Assesment Mensenrechten en Algoritmen (IAMA)](../hulpmiddelen/IAMA.md) richt zich specifiek op de grondrechten. In bijlage 1 is tevens een overzicht te vinden van mogelijk relevante grondrechten.
 
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

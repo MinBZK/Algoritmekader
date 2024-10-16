@@ -24,14 +24,14 @@ Bron: TNO, 2024
 
 ## Leeswijzer
 
-Als je deze sectie leest ben je waarschijnlijk geïnteresseerd in het opzetten of verbeteren van algoritmegovernance bij jouw organisatie.
+Als je deze sectie leest ben je waarschijnlijk geïnteresseerd in het opzetten of verbeteren van algoritmegovernance bij jouw organisatie. Dit vindt plaats op het organisatieniveau. In de [levenscyclus](https://minbzk.github.io/Algoritmekader/levenscyclus/) past dit doorgaans bij "organisatieverantwoordelijkheden". Net als elders in het algoritmekader geven we maatregelen om hier concreet mee aan de slag te kunnen. 
 
-De meeste maatregelen met het label governance gaan over het *inrichten* van governance. Deze vallen dan ook in de [levenscyclus](https://minbzk.github.io/Algoritmekader/levenscyclus/) onder "organisatieverantwoordelijkheden". 
-
-Er zijn daarbinnen nog twee stappen te onderscheiden:
+Deze maatregelen zijn nog onder te verdelen in twee stappen.
 1. **Randvoorwaarden algoritmegovernance**: Dit speelt zich af op organisatieniveau. Bijvoorbeeld een duidelijke visie op AI en algortimes is hier onderdeel van.
-Een algoritmegovernance inrichten vereist dat er eerst aan bepaalde randvoorwaarden is voldaan. Is er al een visie of beleid over hoe met AI en algortimes om te gaan? Is er al iemand verantwoordelijk voor AI en algortimes? Wie gaat over de naleving van bijvoorbeeld de AI-verordening?
 
+2. **Inrichten van algoritmegovernance**: Dit speelt zich af op organisatieniveau, maar heeft betrekking op het systeemniveau. Er worden bijvoorbeeld keuzes gemaakt hoe de levenscyclus en rollen en verantwoordelijkheden specifiek voor jouw organisatie wordt ingericht.
+
+Voorbeelden bij 1:
 Kijk eens naar maatregelen (hieronder) zoals:
 * Stel een visie met betrekking tot AI en algoritmes op en zorg voor bestuurlijk bewustzijn en draagvlak.
 * Onderzoek wat er al is qua bestaande governancestructuren waar van te leren is en denk na over hoe organisatieonderdelen moeten samenwerken om goede algortimegovernance mogelijk te maken.
@@ -39,10 +39,8 @@ Kijk eens naar maatregelen (hieronder) zoals:
 * Verken welke normen en standaarden er te gebruiken zijn.
 
 
-2. **Inrichten van algoritmegovernance**: Dit speelt zich af op organisatieniveau, maar heeft betrekking op het systeemniveau. Er worden bijvoorbeeld keuzes gemaakt hoe de levenscyclus en rollen en verantwoordelijkheden specifiek voor jouw organisatie wordt ingericht. 
-
+Voorbeelden bij 2:
 We geven voorbeelden en best practices voor het inrichten van algoritmegovernance.
-
 Kijk eens naar maatregelen (hieronder) zoals:
 * Rollen en verantwoordelijkheden in algoritmegovernance
 * Governance en de AI-levenscyclus

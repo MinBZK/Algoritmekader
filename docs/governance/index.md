@@ -1,33 +1,29 @@
 ---
 title: Governance
-summary: Hier staat een korte samenvatting over dit onderwerp
+summary: Governance gaat over de inrichting van een organisatie en daar bijbehorende processen en verantwoordelijkheden.
 icon: material/bank
 ---
 
 ## Wat is governance
 
 Governance gaat over de inrichting van een organisatie en de daarbij horende processen, regels, gebruiken en bijbehorende verantwoordelijkheden. 
-Dit onderdeel van het Algoritmekader gaat over de governance van AI en algoritmes en systemen waarin deze verwerkt zijn. 
+In het Algoritmekader gaat het over governance van AI en algoritmes en systemen waarin deze verwerkt zijn. 
 
 !!! note "Let op!"
-
-    Governance wordt in verschillende contexten anders gebruikt. In dit deel hebben we het over governance over algoritmes en AI. 
-    Omdat het Algoritmekdader uitgaat van de [brede definitie van een algoritme](../overhetalgoritmekader/definities.md), hanteren we voor het gemak de term “algoritmegovernance” als we het hebben over governance over algoritmes en AI. 
+    Omdat het Algoritmekdader uitgaat van de [brede definitie van een algoritme](../overhetalgoritmekader/definities.md), hanteren we voor het gemak de term “algoritmegovernance” als we het hebben over governance over algoritmes én AI. 
 
 De noodzaak van algoritmegovernance is om grip te hebben (of krijgen) op algoritmes en AI binnen een organisatie en zaken als (onbedoelde) discriminatie te voorkomen. 
-Mede gezien de AI-verordening, die 1 augustus 2024 gefaseerd in werking is getreden, is het van belang dat organisaties zich organiseren om deze wet correct te kunnen uitvoeren. 
+Mede gezien de AI-verordening is het van belang dat organisaties zich organiseren om deze wet correct te kunnen naleven. 
 Bewustzijn bij bestuur en organisatie is daarvoor een belangrijk vertrekpunt.
 
 ### Verschillende niveau's van governance
 Algoritmegovernance bestaat op verschillende niveaus: van (inter)nationaal niveau, naar organisatieniveau naar het niveau van het AI-systeem (zie figuur hieronder). 
 
-Het Algoritmekader focust op de twee niveaus: 
+Het Algoritmekader focust op de onderste twee niveaus, waar je als organisatie invloed op hebt: organisatie en systeem niveau.
 
-- Organisatie
-- Systeem/toepassing (lifecycle).
-
-![Algoritme en AI governance ladder, TNO, 2024](https://github.com/user-attachments/assets/b7a237be-6caf-4266-910b-5fd05f4dc93b)
+![Algoritme en AI governance ladder, TNO, 2024](https://github.com/user-attachments/assets/e6102b7f-347b-447a-83e5-bc423ad031c3)
 Bron: TNO, 2024
+
 
 Binnen een organisatie kan algoritmegovernance niet los worden gezien van de algemene governance, data-governance en IT-governance. 
 Per organisatie zal verschillen in hoeverre dit is ontwikkeld.

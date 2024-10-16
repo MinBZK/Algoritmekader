@@ -19,7 +19,7 @@ hide: navigation
 <!-- tags -->
 
 [Direct naar het Fairness Handbook](https://openresearch.amsterdam/en/page/87589/the-fairness-handbook){ .md-button }
-## Instrument
+## Hulpmiddel
 Informatie volgt
 
 ## Relevantie

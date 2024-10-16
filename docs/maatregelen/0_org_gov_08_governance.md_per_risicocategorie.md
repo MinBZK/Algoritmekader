@@ -37,7 +37,3 @@ Kijk zelf goed wat passend is voor jouw organisatie.
 ## Bijbehorende vereiste(n)
 
 <!-- list_vereisten_on_maatregelen_page -->
-
-## Bronnen
-[Kleur bekennen - vervolgonderzoek algoritmes](https://rekenkamer.rotterdam.nl/onderzoeken/kleur-bekennen/) 
-

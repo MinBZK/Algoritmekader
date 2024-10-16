@@ -23,6 +23,7 @@ Dit gaat niet alleen over direct opbrengsten maar ook over lange termijn en indi
 
 ## Aandachts- en actiepunten
 * Een meerjarenbeleidsplan of een strategie- of visedocument kan richting geven in helpen met latere afwegingen maken.
+    * Eerst een AI-casus doorlopen als proef en een IAMA uitwerken kan waardevolle input hierbij zijn.
 
 ## Bronnen
 [Kleur bekennen - vervolgonderzoek algoritmes](https://rekenkamer.rotterdam.nl/onderzoeken/kleur-bekennen/)

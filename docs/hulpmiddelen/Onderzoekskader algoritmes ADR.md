@@ -21,7 +21,8 @@ hide: navigation
 <!-- tags -->
 
 [Direct naar het Onderzoekskader Algoritmes](https://open.overheid.nl/documenten/61b54381-d331-40ed-8fce-b2883b195f25/file){ .md-button }
-## Instrument
+
+## Hulpmiddel
 
 Dit onderzoekskader is een instrument om de beheersing van algoritmes in kaart te brengen.
 Het geeft inzicht in de risico’s die algoritmes met zich meebrengen en met welke maatregelen deze
@@ -50,8 +51,8 @@ en evidence opgenomen per beheersmaatregel.
 ## Relevantie
 Het onderzoekskader is ontwikkeld met behulp van nationale en internationale richtlijnen en
 kaders, rapporten en instrumenten, zoals de Ethics guidelines for trustworthy AI van de Europese
-Commissie (EC), Impact Assessment voor Mensenrechten bij de inzet van Algoritmes (IAMA), de
-richtlijnen van het ministerie van JenV, het DPIA model rijksoverheid (gebaseerd op o.a. AVG) en
+Commissie (EC), [Impact Assessment voor Mensenrechten bij de inzet van Algoritmes (IAMA)](IAMA.md), de
+richtlijnen van het ministerie van JenV, het [DPIA](DPIA.md) model Rijksoverheid (gebaseerd op o.a. AVG) en
 de Guiding Principles Trustworthy AI Investigations van NOREA (beroepsvereniging IT-auditors
 Nederland). De bron van de betreffende risico’s en beheersmaatregelen is tevens opgenomen.
 

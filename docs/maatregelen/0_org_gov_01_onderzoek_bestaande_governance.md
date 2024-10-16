@@ -36,9 +36,8 @@ Een concreet voorbeeld van samen optrekken is [deze handreiking](https://www.cip
 * Welke lessen zijn geleerd met de implementatie van de AVG?
 * Is er iemand intern verantwoordelijk gemaakt voor (toezicht op) AI & algoritmes?
 * Hoe communiceren verschillende groepen die aan AI-thema’s raken, zoals privacy of data, op dit moment?
-* Een RACI-model kan ook helpen hierbij (zie maatregelen over rollen en verantwoordelijkheden).
+* Een RACI-model kan ook helpen hierbij (zie ook maatregelen over rollen en verantwoordelijkheden).
 * Hoe worden afwegingen gemaakt in de organisatie tussen innovatie en compliance?
-
 
 ## Bijbehorende vereiste(n)
 <!-- list_vereisten_on_maatregelen_page -->

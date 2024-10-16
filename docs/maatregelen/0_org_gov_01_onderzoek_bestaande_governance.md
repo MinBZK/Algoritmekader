@@ -30,8 +30,6 @@ Bijvoorbeeld, het kan voorkomen dat de business of IT-teams innovatie willen nas
 Een algortime-eindverantwoordelijke dient hierin de afwegingen te maken, in samenspraak.
 Een strategie of visie zoals vastgelegd in een meerjarenbeleidsplan sturing geven en bestuurlijke steun opleveren in het maken van afwegingen.
 
-Mocht een visie op AI ontbreken, dan kan iets als de IAMA (die zich ook richt op het afwegen van fundamentele rechten) een keer grondig doorlopen voor een AI-toepassing input geven voor de organisatievisie. 
-
 Een concreet voorbeeld van samen optrekken is [deze handreiking](https://www.cip-overheid.nl/media/av0dmahv/20230614-gezamenlijk-gebruik-iama-en-model-dpia-rijksdienst-v1-0.pdf) om de IAMA en DPIA gezamelijk uit te voeren.
 
 ## Aandachts- en actiepunten

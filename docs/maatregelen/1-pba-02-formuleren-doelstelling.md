@@ -8,6 +8,7 @@ levenscyclus:
 - probleemanalyse
 onderwerp:
 - governance
+- menselijke-controle
 rollen:
 - projectleider
 hide:

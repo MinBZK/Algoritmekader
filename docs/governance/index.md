@@ -24,7 +24,7 @@ Bron: TNO, 2024
 
 ## Leeswijzer
 
-Als je deze sectie leest ben je waarschijnlijk geïnteresseerd in het opzetten of verbeteren van algoritmegovernance bij jouw organisatie. Dit vindt plaats op het organisatieniveau en in de [levenscyclus](https://minbzk.github.io/Algoritmekader/levenscyclus/) bij "organisatieverantwoordelijkheden". Het gaat over het inrichten van processen zoals die (rondom) een AI-levencyclus. 
+Als je deze sectie leest ben je waarschijnlijk geïnteresseerd in het opzetten of verbeteren van algoritmegovernance bij jouw organisatie. Dit vindt plaats op het organisatieniveau en in de [levenscyclus](https://minbzk.github.io/Algoritmekader/levenscyclus/) bij "organisatieverantwoordelijkheden". Het gaat over het inrichten van processen zoals die (rondom) een AI-levencyclus. **Alles op deze pagina gaat dus over het _inrichten van_ governance.**
 
 Net als elders in het algoritmekader geven we maatregelen om hier concreet mee aan de slag te kunnen. Deze maatregelen zijn nog onder te verdelen in twee stappen:
 1. **Randvoorwaarden algoritmegovernance**: Dit speelt zich af op organisatieniveau. Bijvoorbeeld een duidelijke visie op AI en algortimes is hier onderdeel van.
@@ -62,4 +62,6 @@ We geven bij deze maatregelen meer voorbeelden en best practices voor het inrich
 
 ## Maatregelen
 
-<!-- list_maatregelen onderwerp/governance no-search no-onderwerp no-rol no-levenscyclus -->
+Hieronder de maatregelen m.b.t. governance in de organisatieverantwoordelijkheden-fase.
+
+<!-- list_maatregelen onderwerp/governance levenscyclus/organisatieverantwoordelijkheden no-search no-onderwerp no-rol  -->

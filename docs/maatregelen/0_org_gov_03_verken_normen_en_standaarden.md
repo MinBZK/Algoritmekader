@@ -32,13 +32,14 @@ Verken relevante normen en standaarden en pas deze toe.
  
 ## Aandachts- en actiepunten:
 * Hou normen en standaarden in de gaten die in de loop van 2025 uitkomen, zeker diegene die met de AI-verordening samenhangen.
-* De ISO-42001 (AI risk management framework) wordt vaak nog als (te) algemeen ervaren, maar kan als nuttig startpunt dienen. 
-
-## Voorbeelden
-
-* Naast de ISO en NEN standaarden, zijn ter inspiratie ook bijv de NIST2 te gebruiken.
+* De ISO-42001 (AI risk management framework) wordt vaak nog als (te) algemeen ervaren, maar kan als nuttig startpunt dienen.
+* De EU's [AI-office](https://digital-strategy.ec.europa.eu/en/policies/ai-office) heeft als taak om instrumenten en methodologieën naar buiten te brengen.
 * Andere bronnen ter inspiratie die niet direct over AI gaan:
   * Principes van 'Privacy by design'
   * het [beleidskompas](https://www.kcbr.nl/beleid-en-regelgeving-ontwikkelen/beleidskompas)
   * Uit de finance hoek zijn veel governanceraamwerken, zoals het Basel framework of het inmiddels bekende three lines of defence model.
+
+## Voorbeelden
+
+Heb je ervaring met het toepassen van bijvoorbeeld de ISO-42001? Heb je een ander voorbeeld of best practice, laat het ons weten via algoritmes@minbzk.nl. Of stel een aanpassing op deze pagina voor.
 

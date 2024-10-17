@@ -33,6 +33,13 @@ AI-governance kan op de levenscyclus aansluiten door 'gates' of controlepunten i
 Het is belangrijk om te weten dat deze ‘gates’ niet altijd hetzelfde zijn voor verschillende projecten. 
 Een algoritme met een hoog risico heeft bijvoorbeeld andere regels nodig dan minder belangrijke algoritmes. 
 Ook vraagt het kopen van een kant-en-klaar AI-systeem of SaaS om andere procedures dan het kopen van software die nog verder ontwikkeld moet worden.
+ 
+## Aandachts- en actiepunten
+* Introduceer ‘gates’ tussen fases in de AI-levenscyclus; voor de cyclus verder kan gaan moeten handelingen worden uitgevoerd door verantwoordelijken zoals: documenten aanleveren, (ethische) afwegingen, rapportages.
+* De levenscyclus bij inkoop is waarschijnlijk anders, maar heeft ook 'gates' en procedures nodig.
+* Er bestaan veel varianten van AI-levenscycli. Kijk goed wat past bij de (bestaande) processen van jouw organisatie. 
+
+## Voorbeelden
 
 Hieronder volgen twee voorbeelden van hoe governance effectief kan worden geïntegreerd in de levenscyclus van algoritmen en AI-modellen:
 
@@ -50,19 +57,9 @@ Hieronder volgen twee voorbeelden van hoe governance effectief kan worden geïnt
 
     ![Afbeelding](../afbeeldingen/levenscyclus/modellevenscyclus_uwv.png)
  
-#### Aandachts- en actiepunten
-* Introduceer ‘gates’ tussen fases in de AI-levenscyclus; voor de cyclus verder kan gaan moeten handelingen worden uitgevoerd door verantwoordelijken zoals: documenten aanleveren, (ethische) afwegingen, rapportages.
-* De levenscyclus bij inkoop is waarschijnlijk anders, maar heeft ook 'gates' en procedures nodig.
-* Er bestaan veel varianten van AI-levenscycli. Kijk goed wat past bij de (bestaande) processen van jouw organisatie. 
-
- 
 ## Bronnen
 
 - Hulpmiddel handelingsruimte waardevolle AI in de zorg ([presentatie](https://nlaic.com/wp-content/uploads/2022/06/04a.-Hulpmiddel-Handelingsruimte-Waardevolle-AI-voor-gezondheid-en-zorg.pdf))([samenvatting](https://nlaic.com/wp-content/uploads/2022/08/NLAIC_AI-Lifecycle-management-in-de-zorg-samenvatting_V1.2.pdf)) is beschikbaar via de [NL AI Coalitie](https://nlaic.com/toepassingsgebied/gezondheid-en-zorg/) en [Data voor gezondheid](https://www.datavoorgezondheid.nl/wegwijzer-ai-in-de-zorg/documenten/publicaties/2021/07/15/hulpmiddel-handelingsruimte-waardevolle-ai-voor-gezondheid)
 
 - UWV Beleidsdocument model risico management, Modellevenscyclus (blz 21), 29 september 2021
-
-## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
 

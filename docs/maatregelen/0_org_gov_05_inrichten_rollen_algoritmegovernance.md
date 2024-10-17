@@ -21,7 +21,13 @@ Zie hieronder een mogelijk voorbeeld van hoe dit eruit kan zien.
 ![Format](https://github.com/user-attachments/assets/3debe7b6-0c42-40f5-a366-9cc5cc90cd3e)
 
 
-### Voorbeelden van rollen en verantwoordelijkheden inrichten
+## Aandachts- en actiepunten
+- RACI matrix Rotterdam interessant ter inspiratie, maar men begint niet bij nul.
+- Onderzoek welke verantwoordlijkheden aanvullend zijn. Passen deze al bij bestaande rollen in de organisatie.
+- Net als in onderdeel [bestaande govenrance structuren](governance-structuur.md) is het wijs niet opnieuw het wiel uit te vinden.
+- Het koppelen van verantwoordelijkheden aan *functies* is vaak complex en erg organisatieafhankelijk. Kijk eerst naar welke verantwoordelijkheden bij welke rollen passen. Een individu met een specifieke functie kan afhankelijk van de organisatie (en diens formaat) verschillende rollen vervullen
+  
+## Voorbeelden
 
 Het [three lines of defence model](governance-structuur.md) dat zowel de gemeente Rotterdam als het UWV hanteert biedt hiervoor handvatten. 
 De essentie van dit model is het scheiden van drie niveau’s in verantwoordelijkheden om effectieve governance mogelijk te maken. 
@@ -32,11 +38,4 @@ RACI is de afkorting voor Responsible (Verantwoordelijk – uitvoerder van de ta
 ![RACI model gemeente Rotterdam](https://github.com/user-attachments/assets/481cb81d-f098-4563-9718-5d625384c024)
 
 
-## Aandachts- en actiepunten
-- RACI matrix Rotterdam interessant ter inspiratie, maar men begint niet bij nul.
-- Onderzoek welke verantwoordlijkheden aanvullend zijn. Passen deze al bij bestaande rollen in de organisatie.
-- Net als in onderdeel [bestaande govenrance structuren](governance-structuur.md) is het wijs niet opnieuw het wiel uit te vinden.
-- Het koppelen van verantwoordelijkheden aan *functies* is vaak complex en erg organisatieafhankelijk. Kijk eerst naar welke verantwoordelijkheden bij welke rollen passen. Een individu met een specifieke functie kan afhankelijk van de organisatie (en diens formaat) verschillende rollen vervullen
-
-## Bronnen 
 

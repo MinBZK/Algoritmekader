@@ -7,6 +7,9 @@ levenscyclus:
 onderwerp: 
 - privacy-en-gegevensbescherming
 - technische-robuustheid-en-veiligheid
+rollen:
+- jurist
+- ontwikkelaar
 hide:
 - navigation
 ---
@@ -20,7 +23,7 @@ Rekening houdend met de stand van de techniek, de uitvoeringskosten, alsook met 
 
 ## Toelichting 
 
-Voor de ontwikkeling en gebruik van algoritmes en AI is dat data nodig.
+Voor de ontwikkeling en gebruik van algoritmes en AI is er data nodig.
 Deze data kan persoonsgegevens bevatten die moeten worden beschermd.
 De organisatie zal technische en organisatorische maatregelen moeten treffen om de data en de algoritmische toepassing of AI-systeem voldoende te beschermen.
 Hierbij kan worden gedacht aan dataminimalisatie, het pseudonimiseren of aggregeren van persoonsgegevens.

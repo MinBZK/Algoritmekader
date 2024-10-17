@@ -11,17 +11,9 @@ levenscyclus:
 - monitoring-en-beheer
 onderwerp:
 - technische-robuustheid-en-veiligheid
-- governance
 - publieke-inkoop
 rollen:
 - projectleider
-- informatiebeheerder
-- security-officer
-- proceseigenaar
-- aanbestedingsjurist
-- inkoopadviseur
-- opdrachtnemer
-- behoeftesteller
 hide:
 - navigation
 - toc

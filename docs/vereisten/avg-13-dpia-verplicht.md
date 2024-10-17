@@ -7,12 +7,12 @@ status_vereiste:
 levenscyclus: 
 - ontwerp
 - dataverkenning-en-datapreparatie
-- ontwikkelen
 - verificatie-en-validatie
 onderwerp: 
 - privacy-en-gegevensbescherming
 rollen:
-- privacy-officer
+- jurist
+- projectleider
 hide:
 - navigation
 ---

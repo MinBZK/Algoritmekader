@@ -3,11 +3,12 @@ title: Natuurlijke personen die menselijk toezicht uitvoeren zijn bekwaam, opgel
 id: urn:nl:ak:ver:aia-23
 toelichting: Gebruiksverantwoordelijken dragen het menselijk toezicht over een hoog risico AI-systeem op aan natuurlijke personen die over de nodige bekwaamheid, opleiding en autoriteit beschikken en de nodige ondersteuning krijgen.
 levenscyclus:
-- implementatie
-- monitoring-en-beheer
+- organisatieverantwoordelijkheden
 onderwerp:
 - governance
 - menselijke-controle
+rollen:
+- projectleider
 hide:
 - navigation
 ---

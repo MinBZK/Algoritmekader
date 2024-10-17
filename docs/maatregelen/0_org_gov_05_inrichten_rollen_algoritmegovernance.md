@@ -39,4 +39,5 @@ RACI is de afkorting voor Responsible (Verantwoordelijk – uitvoerder van de ta
 ![RACI model gemeente Rotterdam](https://github.com/user-attachments/assets/481cb81d-f098-4563-9718-5d625384c024)
 
 
+Het te ingevuld vastleggen van functies kan nadelen hebben. Een team bij de belastingdienst (Analytische en Cognitieve Technologie | CoE Cognitieve Oplossingen) heeft ervaren dat het definieren van _werkpakketten_ in plaats van uitwerkte functies beter werkt. Alles dient belegd te zijn, maar alles op microniveau vastleggen is vaak niet te doen zonder in de praktijk te staan, en kan avenrechts werken.
 

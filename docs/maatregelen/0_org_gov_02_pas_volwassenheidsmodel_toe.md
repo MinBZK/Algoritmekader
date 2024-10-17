@@ -45,6 +45,6 @@ Bewustzijn over de noodzaak voor algoritmegovernance moet op bestuurlijk niveau 
 - Is de organisatie volwassen? Vallen AI en algoritmes al ergens onder? 
 - Breng deze informatie naar je bestuur met het verzoek duidelijkheid te krijgen hoe AI-governance belegd zou moeten worden. De AI-verordening vraagt om belegde verantwoordelijkheden met betrekking tot AI en algoritmes.
 
-## Bijbehorende vereiste(n)
+## Voorbeelden
 
-<!-- list_vereisten_on_maatregelen_page -->
+Weet je van een casus waarbij een volwassenheidsmodel heeft geholpen met algoritmegovernance opzetten of verbeteren? We horen graag over je ervaringen.

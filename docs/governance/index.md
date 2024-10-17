@@ -36,7 +36,7 @@ Belangrijk hier is dat het algoritmekader **niet voorschrijft** hoe je algoritme
 Is er al een visie of beleid over hoe met AI en algortimes om te gaan? Is er al iemand verantwoordelijk voor AI en algortimes? Wie gaat over de naleving van bijvoorbeeld de AI-verordening? Als je geen andwoord hebt, kan je bij stap 1 beginnen.
 
 #### Voorbeelden bij stap 1: Randvoorwaarden algoritmegovernance
-Deze maatregelen gaan over het grondwerk leggen om algortimegovernance mogelijk te maken. Kijk eens naar maatregelen (hieronder) zoals:
+Deze maatregelen gaan over het grondwerk leggen om algortimegovernance mogelijk te maken. Kijk eens naar maatregelen (onderaan deze pagina) zoals:
 * Stel een visie met betrekking tot AI en algoritmes op en zorg voor bestuurlijk bewustzijn en draagvlak.
 * Onderzoek wat er al is qua bestaande governancestructuren waar van te leren is en denk na over hoe organisatieonderdelen moeten samenwerken om goede algortimegovernance mogelijk te maken.
 * Breng het AI-volwassenheidsniveau in kaart om focus aan te brengen waar het nodig is.
@@ -44,7 +44,7 @@ Deze maatregelen gaan over het grondwerk leggen om algortimegovernance mogelijk 
 
 
 #### Voorbeelden bij stap 2: Inrichten van algoritmegovernance
-We geven bij deze maatregelen meer voorbeelden en best practices voor het inrichten van algoritmegovernance. Kijk eens naar maatregelen (hieronder) zoals:
+We geven bij deze maatregelen meer voorbeelden en best practices voor het inrichten van algoritmegovernance. Kijk eens naar maatregelen (onderaan deze pagina) zoals:
 * Rollen en verantwoordelijkheden in algoritmegovernance
 * Governance en de AI-levenscyclus
 * Voorbeelden als three lines of defence
@@ -59,7 +59,6 @@ We geven bij deze maatregelen meer voorbeelden en best practices voor het inrich
 * Maak iemand verantwoordelijk voor het opstellen van de algoritmegovernance.
 * Zorg voor (bestuurlijk) bewustzijn als je ziet dat algoritmegovernance ontbreekt maar nog niet belegd is.
 * Zorg voor overlegstructuren met keuzemandaat met belangrijke partijen/stakeholders.
-
 
 ## Maatregelen
 

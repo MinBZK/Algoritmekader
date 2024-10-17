@@ -38,7 +38,7 @@ Er is daarnaast ook het principe gehanteerd dat naast hoog-risico volgens de AI-
 Kijk zelf goed wat passend is voor jouw organisatie. 
 
 #### Iteratief te werk gaan
-* Is algoritmegovernance nieuw bij jouw organisatie, dan kan het helpen om een use case met beperkt risico te doorlopen om hiervan te leren.
+* Is algoritmegovernance nieuw bij jouw organisatie, dan kan het helpen om een use case met beperkt risico grondig te doorlopen om hiervan te leren.
 
 Voorbeeld BD (Analytische en Cognitieve Technologie | CoE Cognitieve Oplossingen):
 * Richt als eerste een basis (b.v. voor low risk) de AI-governance in op operationeel niveau, implementeer deze basis en stel gaandeweg/ondertussen op basis van o.a. best practices de requirements op naar de "wereld" er om heen (tactisch en strategisch niveau). 

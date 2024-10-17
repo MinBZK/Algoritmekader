@@ -33,6 +33,6 @@ Verken relevante normen en standaarden en pas deze toe.
 * Hou normen en standaarden in de gaten die in de loop van 2025 uitkomen.
 * De ISO-42001 (AI risk management framework) wordt vaak nog als (te) algemeen ervaren, maar kan als nuttig startpunt dienen. 
 
-## Bijbehorende vereiste(n)
-<!-- list_vereisten_on_maatregelen_page -->
+## Voorbeelden
+
 

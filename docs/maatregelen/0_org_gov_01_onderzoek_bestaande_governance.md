@@ -37,6 +37,8 @@ Een strategie of visie zoals vastgelegd in een meerjarenbeleidsplan sturing geve
 * Hoe communiceren verschillende groepen die aan AI-thema’s raken, zoals privacy of data, op dit moment?
 * Een RACI-model kan ook helpen hierbij (zie ook maatregelen over rollen en verantwoordelijkheden).
 * Hoe worden afwegingen gemaakt in de organisatie tussen innovatie en compliance?
+* Een orgaan als een ethische commissie (AI) kan helpen te verbinden en keuzes te maken. Let wel op dat dit niet een 'praatgroep' wordt zonder daadwerkelijk mandaat en draagvlak.
+
 
 ## Voorbeelden
 Een concreet voorbeeld van samen optrekken is [deze handreiking](https://www.cip-overheid.nl/media/av0dmahv/20230614-gezamenlijk-gebruik-iama-en-model-dpia-rijksdienst-v1-0.pdf) om de IAMA en DPIA gezamelijk uit te voeren.

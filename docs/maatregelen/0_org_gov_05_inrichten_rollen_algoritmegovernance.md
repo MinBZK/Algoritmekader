@@ -37,6 +37,9 @@ Daarnaast wordt in veel governance structuren een RACI model opgesteld om rollen
 RACI is de afkorting voor Responsible (Verantwoordelijk – uitvoerder van de taak), Accountable (Aanspreekbaar – eigenaar van de taak), Consulted (Geconsulteerd) en Informed (Geïnformeerd). De gemeente Rotterdam heeft de interactie tussen rollen/verantwoordelijkheden van algoritme/AI governance en de volledige datamanagement structuur in een RACI model vormgegeven: 
 
 ![RACI model gemeente Rotterdam](https://github.com/user-attachments/assets/481cb81d-f098-4563-9718-5d625384c024)
+Bron: Kleur bekennen rekenkamer Rotterdam.
+
+Wees bewust dat iedere organisatie anders is, en waarschijnlijk op een andere RACI-matrix uitkomt. 
 
 
 #### Top down niet alles vast te leggen

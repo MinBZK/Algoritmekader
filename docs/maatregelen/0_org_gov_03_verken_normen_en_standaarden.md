@@ -31,9 +31,14 @@ Verken relevante normen en standaarden en pas deze toe.
   * Vanuit de (implementatie van de) AVG en bijbehorende privacygovernance kunnen lessen zijn geleerd die zich vertalen naar algoritme governance. Een belangrijke standaard m.b.t. de AVG is de ISO-27001.
  
 ## Aandachts- en actiepunten:
-* Hou normen en standaarden in de gaten die in de loop van 2025 uitkomen.
+* Hou normen en standaarden in de gaten die in de loop van 2025 uitkomen, zeker diegene die met de AI-verordening samenhangen.
 * De ISO-42001 (AI risk management framework) wordt vaak nog als (te) algemeen ervaren, maar kan als nuttig startpunt dienen. 
 
 ## Voorbeelden
 
+* Naast de ISO en NEN standaarden, zijn ter inspiratie ook bijv de NIST2 te gebruiken.
+* Andere bronnen ter inspiratie die niet direct over AI gaan:
+  * Principes van 'Privacy by design'
+  * het [beleidskompas](https://www.kcbr.nl/beleid-en-regelgeving-ontwikkelen/beleidskompas)
+  * Uit de finance hoek zijn veel governanceraamwerken, zoals het Basel framework of het inmiddels bekende three lines of defence model.
 

@@ -40,9 +40,10 @@ Dit is mogelijk te koppelen aan de implementatie van de AI-verordening binnen de
 Bewustzijn over de noodzaak voor algoritmegovernance moet op bestuurlijk niveau leven. 
 
 ## Aandachts- en actiepunten:
-- Breng in kaart wat er al is aan (IT-)governance met één van de volwassenheidsmodellen.
-- Is de organisatie goed ingericht en ontwikkeld? Worden AI en algoritmes al meegenomen?
-- Deel deze informatie met het bestuur en vraag hoe AI-beleid geregeld moet worden. De AI-wet vraagt om duidelijke verantwoordelijkheden voor AI en algoritmes.
-
+* Breng in kaart wat er al is aan (IT-)governance met één van de volwassenheidsmodellen.
+* Is de organisatie goed ingericht en ontwikkeld? Worden AI en algoritmes al meegenomen?
+* Deel deze informatie met het bestuur en vraag hoe AI-beleid geregeld moet worden. De AI-wet vraagt om duidelijke verantwoordelijkheden voor AI en algoritmes.
+* Mogelijk moet er binnen de organisatie veel veranderen voor een (gezonde) algoritmegovernance opgezet kan worden, hiervoor zijn principes van verandermanagement goed om mee te nemen. 
+  
 ## Voorbeelden van toepassing
 Weet je van een casus waarbij een volwassenheidsmodel heeft geholpen met algoritmegovernance opzetten of verbeteren? Je kan een voorstel voor aanpassing van deze pagina doen.

@@ -59,7 +59,8 @@ Hieronder volgen twee voorbeelden van hoe governance effectief kan worden geïnt
     ![Afbeelding](../afbeeldingen/levenscyclus/modellevenscyclus_uwv.png)
 
 
-!!! example "Voorbeeld: BD (Analytische en Cognitieve Technologie | CoE Cognitieve Oplossingen)"
+!!! example "Voorbeeld: BD (Analytische en Cognitieve Technologie - CoE Cognitieve Oplossingen)"
+
     Enkele ervaringen m.b.t. levencyclus:
     Plot sleutelmomenten en mijlpaal momenen in die nodig zijn om het proces te kunnen laten werken en bepaal de requirements die daarmee samenhangen.
     Richt als eerste een basis (b.v. voor low risk) de AI-governance in op operationeel niveau, implementeer deze basis en stel gaandeweg/ondertussen op basis van o.a. best practices de requirements op naar de "wereld" er om heen (tactisch en strategisch niveau). 

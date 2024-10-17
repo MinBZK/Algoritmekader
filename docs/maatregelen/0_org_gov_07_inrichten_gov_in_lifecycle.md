@@ -57,6 +57,16 @@ Hieronder volgen twee voorbeelden van hoe governance effectief kan worden geïnt
     In haar modellevenscyclus [^3] maakt het UWV gebruik van een gelaagdheid in de “gates” door gebruik te maken van een zachte en harde knip tussen de opvolgende fasen. Enerzijds is er een zachte knip voorzien door aan het eind van elke fase de mogelijkheid te laten om een stap terug te zetten in de levenscyclus. Mocht het onduidelijk zijn wat de beoogde voordelen zijn ten opzichte van de nadelen, of er onvoldoende invulling gegeven is aan de vereisten/activiteiten, dan kan het algoritme of AI-model ontwikkelproces bij een zachte knip een stap terugnemen in de levenscyclus. Anderzijds zijn er 4 harde grenzen in de levenscyclus aangebracht waarin formele vereisten aan het ontwikkeltraject worden opgelegd.
 
     ![Afbeelding](../afbeeldingen/levenscyclus/modellevenscyclus_uwv.png)
+
+
+!!! example "Voorbeeld: BD (Analytische en Cognitieve Technologie | CoE Cognitieve Oplossingen)"
+    Enkele ervaringen m.b.t. levencyclus:
+    Plot sleutelmomenten en mijlpaal momenen in die nodig zijn om het proces te kunnen laten werken en bepaal de requirements die daarmee samenhangen.
+    Richt als eerste een basis (b.v. voor low risk) de AI-governance in op operationeel niveau, implementeer deze basis en stel gaandeweg/ondertussen op basis van o.a. best practices de requirements op naar de "wereld" er om heen (tactisch en strategisch niveau). 
+
+    ![image](https://github.com/user-attachments/assets/ecb5f3d6-9fd5-4a24-a453-3cfbc32ab810)
+
+
  
 ## Bronnen
 

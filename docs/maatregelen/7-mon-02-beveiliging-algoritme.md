@@ -11,7 +11,6 @@ levenscyclus:
 - monitoring-en-beheer
 onderwerp:
 - technische-robuustheid-en-veiligheid
-- governance
 rollen:
 - projectleider
 - beleid-en-advies

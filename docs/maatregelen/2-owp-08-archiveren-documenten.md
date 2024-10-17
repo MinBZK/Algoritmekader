@@ -8,12 +8,10 @@ levenscyclus:
 - ontwerp
 - ontwikkelen
 onderwerp:
-- governance
+- transparantie
 rollen:
-- proceseigenaar
-- informatiebeheerder
-- archiefdeskundige
-- data-scientist
+- ontwikkelaar
+- projectleider
 - jurist
 hide:
 - navigation

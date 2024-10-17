@@ -24,7 +24,7 @@ Bron: TNO, 2024
 
 ## Leeswijzer
 
-Als je deze sectie leest ben je waarschijnlijk geïnteresseerd in het opzetten of verbeteren van algoritmegovernance bij jouw organisatie. Dit vindt plaats op het organisatieniveau en in de [levenscyclus](https://minbzk.github.io/Algoritmekader/levenscyclus/) bij "organisatieverantwoordelijkheden". Het gaat over het inrichten van processen zoals die (rondom) een AI-levencyclus. **Alles op deze pagina gaat dus over het _inrichten van_ governance.**
+Als je deze sectie leest ben je waarschijnlijk geïnteresseerd in het opzetten of verbeteren van algoritmegovernance bij jouw organisatie. Dit vindt plaats op het organisatieniveau en in de [levenscyclus](https://minbzk.github.io/Algoritmekader/levenscyclus/) bij "organisatieverantwoordelijkheden". Het gaat over het inrichten van processen zoals (die rondom) een AI-levencyclus. **Alles op deze pagina gaat dus over het _inrichten van_ governance.**
 
 Net als elders in het algoritmekader geven we maatregelen om hier concreet mee aan de slag te kunnen. Deze maatregelen zijn nog onder te verdelen in twee stappen:
 1. **Randvoorwaarden algoritmegovernance**: Dit speelt zich af op organisatieniveau. Bijvoorbeeld een duidelijke visie op AI en algortimes is hier onderdeel van.
@@ -46,8 +46,8 @@ Deze maatregelen gaan over het grondwerk leggen om algortimegovernance mogelijk 
 #### Voorbeelden bij stap 2: Inrichten van algoritmegovernance
 We geven bij deze maatregelen meer voorbeelden en best practices voor het inrichten van algoritmegovernance. Kijk eens naar maatregelen (onderaan deze pagina) zoals:
 * Rollen en verantwoordelijkheden in algoritmegovernance
-* Governance en de AI-levenscyclus
-* Voorbeelden als three lines of defence
+* De AI-levenscyclus en go/no-go 'gates' 
+* Voorbeelden van governancestructuren zoals three lines of defence
 
 !!! note "Let op!"
     Voorbeelden bieden in hoofdlijnen een ‘blauwdruk’ voor hoe algoritmegovernance kan worden ingericht. 
@@ -62,6 +62,6 @@ We geven bij deze maatregelen meer voorbeelden en best practices voor het inrich
 
 ## Maatregelen
 
-Hieronder de maatregelen m.b.t. governance in de organisatieverantwoordelijkheden-fase.
+Hieronder de maatregelen m.b.t. governance inrichten, in de organisatieverantwoordelijkheden-fase.
 
 <!-- list_maatregelen onderwerp/governance levenscyclus/organisatieverantwoordelijkheden no-search no-onderwerp no-rol  -->

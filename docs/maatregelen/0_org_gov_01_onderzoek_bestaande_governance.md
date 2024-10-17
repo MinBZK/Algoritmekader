@@ -1,6 +1,6 @@
 ---
 title: Onderzoek bestaande governance
-toelichting: Onderzoek binnen de organisatie wat er al is en hoe algortimegovernance daarop kan inhaken. Communicatie tussen organisatieonderdelen is doorlopend van groot belang.
+toelichting: Onderzoek binnen de organisatie wat er al is en hoe algortimegovernance daarop kan inhaken. Communicatie en samenwerking tussen organisatieonderdelen is doorlopend van groot belang.
 
 levenscyclus:
 - organisatieverantwoordelijkheden
@@ -16,7 +16,7 @@ rollen:
 <!-- tags -->
 
 ## Maatregel
-Onderzoek binnen de organisatie wat er al is en hoe algortimegovernance daarop kan inhaken. Communicatie tussen organisatieonderdelen is doorlopend van groot belang.
+toelichting: Onderzoek binnen de organisatie wat er al is en hoe algortimegovernance daarop kan inhaken. Communicatie en samenwerking tussen organisatieonderdelen is doorlopend van groot belang.
 
 Bij de vormgeving van een algoritmegovernance van een organisatie is het van belang om aansluiting en samenwerking te bewerkstelligen met huidige governancestructuren binnen de organisatie, zoals IT, data, informatiebeveiliging en privacy governance waar dit onlosmakelijk mee verbonden is. 
 
@@ -30,8 +30,6 @@ Bijvoorbeeld, het kan voorkomen dat de business of IT-teams innovatie willen nas
 Een algortime-eindverantwoordelijke dient hierin de afwegingen te maken, in samenspraak.
 Een strategie of visie zoals vastgelegd in een meerjarenbeleidsplan sturing geven en bestuurlijke steun opleveren in het maken van afwegingen.
 
-Een concreet voorbeeld van samen optrekken is [deze handreiking](https://www.cip-overheid.nl/media/av0dmahv/20230614-gezamenlijk-gebruik-iama-en-model-dpia-rijksdienst-v1-0.pdf) om de IAMA en DPIA gezamelijk uit te voeren.
-
 ## Aandachts- en actiepunten
 * Welke lessen zijn geleerd met de implementatie van de AVG?
 * Is er iemand intern verantwoordelijk gemaakt voor (toezicht op) AI & algoritmes?
@@ -39,5 +37,6 @@ Een concreet voorbeeld van samen optrekken is [deze handreiking](https://www.cip
 * Een RACI-model kan ook helpen hierbij (zie ook maatregelen over rollen en verantwoordelijkheden).
 * Hoe worden afwegingen gemaakt in de organisatie tussen innovatie en compliance?
 
-## Bijbehorende vereiste(n)
-<!-- list_vereisten_on_maatregelen_page -->
+## Voorbeelden
+Een concreet voorbeeld van samen optrekken is [deze handreiking](https://www.cip-overheid.nl/media/av0dmahv/20230614-gezamenlijk-gebruik-iama-en-model-dpia-rijksdienst-v1-0.pdf) om de IAMA en DPIA gezamelijk uit te voeren.
+

@@ -10,8 +10,8 @@ onderwerp:
 - data
 - technische-robuustheid-en-veiligheid
 - bias-en-non-discriminatie
-rollen:
-- ontwikkelaar
+# rollen:
+# - ontwikkelaar
 hide:
 - navigation
 - toc

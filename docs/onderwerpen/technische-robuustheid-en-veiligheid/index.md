@@ -78,6 +78,10 @@ Maak een uitwijkplan voor incidenten. Het doel van dit plan is ervoor zorgen dat
 
 <!-- list_maatregelen onderwerp/technische-robuustheid-en-veiligheid no-search no-onderwerp no-rol no-levenscyclus -->
 
+## Hulpmiddelen
+
+<!-- list_hulpmiddelen onderwerp/technische-robuustheid-en-veiligheid no-search no-onderwerp no-rol no-levenscyclus -->
+
 ## Bronnen
 
 - Natalia Díaz-Rodríguez et al, 2023, [Connecting the dots in trustworthy Artificial Intelligence: From AI principles, ethics, and key requirements to responsible AI systems and regulation](https://doi.org/10.1016/j.inffus.2023.101896), Information Fusion 99.

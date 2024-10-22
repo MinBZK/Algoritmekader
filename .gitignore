@@ -5,6 +5,5 @@ site
 #  python cache
 **/__pycache__/**
 
-src/overrides/hooks/create_vereisten.py
 
-*.DS_Store
+

@@ -1,7 +1,6 @@
 --- 
 title: Probleemanalyse
 hide:
-- navigation
 - toc
 ---
 

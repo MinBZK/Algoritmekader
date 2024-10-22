@@ -48,4 +48,4 @@ Gebrek aan nauwkeurigheid, robuustheid of cyberbeveiliging kan leiden tot onbetr
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-10-nauwkeurigheid-robuustheid-cyberbeveliging -->
+<!-- list_maatregelen vereiste/aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging no-search no-onderwerp no-rol no-levenscyclus -->

@@ -1,7 +1,6 @@
 --- 
 title: Uitfaseren
 hide:
-- navigation
 - toc
 ---
 

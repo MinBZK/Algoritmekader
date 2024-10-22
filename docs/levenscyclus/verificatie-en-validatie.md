@@ -1,7 +1,6 @@
 --- 
 title: Verificatie en validatie
 hide:
-- navigation
 - toc
 ---
 

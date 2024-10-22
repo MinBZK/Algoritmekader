@@ -39,4 +39,4 @@ Onvoldoende transparantie kan leiden tot een gebrek aan begrip over hoe het AI-s
 
 ## Maatregelen 
 
-<!-- list_maatregelen vereiste/aia-08-transparantie-aan-gebruiksverantwoordelijken -->
+<!-- list_maatregelen vereiste/aia-08-transparantie-aan-gebruiksverantwoordelijken no-search no-onderwerp no-rol no-levenscyclus -->

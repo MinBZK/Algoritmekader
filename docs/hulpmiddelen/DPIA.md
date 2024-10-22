@@ -12,6 +12,8 @@ vereiste:
 - avg-11-privacy-bij-ontwerp-bij-verwerking-van-persoonsgegevens
 - avg-07-transparantie-bij-verwerken-persoonsgegevens
 - aia-35-verwerking-in-testomgeving
+maatregel:
+- uitvoeren_risicoanalyse_en_formuleren_mitigerende_maatregelen_voor_privacyrisico's
 levenscyclus:
 - probleemanalyse
 - ontwerp
@@ -65,3 +67,7 @@ De DPIA is ontwikkeld door de Europese Unie in het kader van de AVG.
 ## Bijbehorende vereisten
 
 <!-- list_vereisten_on_maatregelen_page -->
+
+## Bijbehorende maatregelen
+
+<!-- list_maatregelen_on_hulpmiddelen_page -->

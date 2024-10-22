@@ -31,8 +31,8 @@ hide: navigation
 <!-- tags -->
 
 [Direct naar het IAMA](https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes){ .md-button }
-## Instrument
 
+## Hulpmiddel
 Het Impact Assessment voor Mensenrechten bij de inzet van Algoritmes (IAMA) is een instrument voor overheidsorganen om een interdisciplinaire dialoog en besluitvorming te faciliteren bij de ontwikkeling en inzet van algoritmische systemen. 
 Het IAMA stelt een reeks vragen die moeten worden besproken en beantwoord om een zorgvuldige afweging van de inzet van algoritmen te waarborgen. 
 Dit proces is onderverdeeld in drie fasen: voorbereiding, input en throughput, en output en toezicht, waarbij steeds aandacht wordt besteed aan het vierde onderdeel van het IAMA: de impact op mensenrechten. 

@@ -37,8 +37,8 @@ Bij het onjuist of onvolledig publiceren in het Algortimeregister ontstaat er ee
 
 ## Maatregelen 
 
-<!-- list_maatregelen vereiste/bzk-01-algoritmeregister -->
+<!-- list_maatregelen vereiste/bzk-01-algoritmeregister no-search no-onderwerp no-rol no-levenscyclus -->
 
 ## Instrumenten
 
-<!-- list_instrumenten vereiste/bzk-01-algoritmeregister -->
+<!-- list_instrumenten vereiste/bzk-01-algoritmeregister no-search no-onderwerp no-rol no-levenscyclus -->

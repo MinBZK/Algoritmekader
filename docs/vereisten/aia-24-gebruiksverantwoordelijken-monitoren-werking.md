@@ -42,4 +42,4 @@ Zonder monitoring door gebruiksverantwoordelijken en (waar nodig) het informeren
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-24-gebruiksverantwoordelijken-monitoren-werking -->
+<!-- list_maatregelen vereiste/aia-24-gebruiksverantwoordelijken-monitoren-werking no-search no-onderwerp no-rol no-levenscyclus -->

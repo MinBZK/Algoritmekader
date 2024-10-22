@@ -40,4 +40,4 @@ Het niet of onvoldoende bewaren van logs kan het vermogen belemmeren om incident
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-13-bewaartermijn-voor-gegenereerde-logs -->
+<!-- list_maatregelen vereiste/aia-13-bewaartermijn-voor-gegenereerde-logs no-search no-onderwerp no-rol no-levenscyclus -->

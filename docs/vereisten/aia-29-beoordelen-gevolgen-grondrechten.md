@@ -41,8 +41,8 @@ Het niet uitvoeren van deze beoordeling kan leiden tot schendingen van de grondr
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-29-beoordelen-gevolgen-grondrechten -->
+<!-- list_maatregelen vereiste/aia-29-beoordelen-gevolgen-grondrechten no-search no-onderwerp no-rol no-levenscyclus -->
 
 ## Instrumenten
 
-<!-- list_instrumenten vereiste/aia-29-beoordelen-gevolgen-grondrechten -->
+<!-- list_instrumenten vereiste/aia-29-beoordelen-gevolgen-grondrechten no-search no-onderwerp no-rol no-levenscyclus -->

@@ -1,7 +1,6 @@
 --- 
 title: Dataverkenning en datapreparatie
 hide:
-- navigation
 - toc
 ---
 

@@ -11,8 +11,8 @@ levenscyclus:
 onderwerp:
 - data
 - technische-robuustheid-en-veiligheid
-rollen:
-- ontwikkelaar
+# rollen:
+# - ontwikkelaar
 hide:
 - navigation
 - toc

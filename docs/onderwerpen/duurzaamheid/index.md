@@ -35,3 +35,7 @@ Bij duurzame ontwikkeling en toepassing van algoritmes kan bijvoorbeeld gedacht 
 ## Maatregelen
 
 <!-- list_maatregelen onderwerp/duurzaamheid no-search no-onderwerp no-rol no-levenscyclus -->
+
+## Hulpmiddelen
+
+<!-- list_hulpmiddelen onderwerp/duurzaamheid no-search no-onderwerp no-rol no-levenscyclus -->

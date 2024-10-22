@@ -232,11 +232,11 @@ def on_env(env, config: MkDocsConfig, files: Files):
 
     # NEW FUNCTION: To generate the Maatregelen for a specific Hulpmiddel
     def generate_maatregelen_for_hulpmiddel(file: File) -> str:
-        vereisten = file.page.meta.get("maatregel", [])
-        if not vereisten:
+        maatregelen = file.page.meta.get("maatregel", [])
+        if not maatregelen:
             return "<p>Geen maatregelen beschikbaar voor dit hulpmiddel.</p>"
 
-        vereisten_table = [
+        maatregelen_table = [
             "<table>",
             "<thead>",
             "<tr>",
@@ -253,14 +253,14 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 maatregel_id = maatregel_file.page.meta.get("id", "")[14:] # remove the first part of the urn
                 maatregel_title = maatregel_file.page.meta.get("title", maatregel)  # Fallback to maatregel name if no title
                 maatregel_link = posixpath.join(config.site_url or "/", maatregel_file.url)
-                maatregel_table.append(
+                maatregelen_table.append(
                     f'<tr><td><a href="{maatregel_link}">{maatregel_id} - {maatregel_title}</a></td></tr>')
             else:
-                maatregel_table.append(f'<tr><td>{maatregel}</td></tr>')  # No link if the file is not found
+                maatregelen_table.append(f'<tr><td>{maatregel}</td></tr>')  # No link if the file is not found
 
-        maatregel_table.append("</tbody></table>")
+        maatregelen_table.append("</tbody></table>")
         
-        return "".join(maatregel_table)
+        return "".join(maatregelen_table)
 
 
     def find_file_by_name(name: str, content_type: str, files: Files) -> File:

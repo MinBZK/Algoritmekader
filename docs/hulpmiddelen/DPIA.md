@@ -1,6 +1,8 @@
 ---
 title: Data Protection Impact Assessment 
 toelichting: De DPIA is een instrument om vooraf de privacyrisico’s van een gegevensverwerking in kaart te brengen. Zodat de organisatie maatregelen kan nemen om deze risico’s te verkleinen. De DPIA zorgt voor naleving van de wetgeving inzake gegevensbescherming, zoals de Algemene Verordening Gegevensbescherming (AVG) in de Europese Unie. 
+categorie: 
+- impact-assessment
 vereiste:
 - avg-01-persoonsgegevens-worden-rechtmatig-verwerkt
 - avg-02-beperkte-bewaartermijn-van-persoonsgegevens
@@ -9,7 +11,9 @@ vereiste:
 - avg-05-juistheid-en-actualiteit-van-persoonsgegevens
 - avg-11-privacy-bij-ontwerp-bij-verwerking-van-persoonsgegevens
 - avg-07-transparantie-bij-verwerken-persoonsgegevens
-- aia-35-verweking-in-testomgeving
+- aia-35-verwerking-in-testomgeving
+maatregel:
+- uitvoeren_risicoanalyse_en_formuleren_mitigerende_maatregelen_voor_privacyrisico's
 levenscyclus:
 - probleemanalyse
 - ontwerp
@@ -20,6 +24,7 @@ rollen:
 - ethicus
 - jurist 
 - privacy-officer
+hide: navigation
 ---
 
 <!-- tags -->
@@ -62,3 +67,7 @@ De DPIA is ontwikkeld door de Europese Unie in het kader van de AVG.
 ## Bijbehorende vereisten
 
 <!-- list_vereisten_on_maatregelen_page -->
+
+## Bijbehorende maatregelen
+
+<!-- list_maatregelen_on_hulpmiddelen_page -->

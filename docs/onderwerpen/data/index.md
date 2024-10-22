@@ -27,5 +27,9 @@ We zoeken hierbij de aansluiting op bestaande instrumenten, zoals de [Toolbox ve
 
 <!-- list_maatregelen onderwerp/data no-search no-onderwerp no-rol no-levenscyclus -->
 
+## Hulpmiddelen
+
+<!-- list_hulpmiddelen onderwerp/data no-search no-onderwerp no-rol no-levenscyclus -->
+
 ## Nuttige informatie
 - FAIR data: [GO FAIR Foundation](https://www.gofair.foundation/).

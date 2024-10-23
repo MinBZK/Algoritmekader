@@ -6,5 +6,5 @@ summary: Hulpmiddel om te bepalen welke wet en regelgeving past bij jouw type AI
 Met deze beslisboom stel je vast of de AI-verordening geldt voor jouw beoogde toepassing. En aan welke vereisten je dan moet voldoen.
 
 <div id="app">
-<script src="https://unpkg.com/ai-act-decision-tree@0.0.3/dist/index.js"></script>
+<script src="https://github.com/MinBZK/ai-act-decisiontree/releases/download/1.1.6/index.js"></script>
 </div>

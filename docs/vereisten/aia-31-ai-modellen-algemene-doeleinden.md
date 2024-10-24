@@ -9,6 +9,10 @@ levenscyclus:
 - monitoring-en-beheer
 onderwerp:
 - transparantie
+soort-toepassing:
+- gpai-model
+rol-ai-act:
+- aanbieder
 hide:
 - navigation
 ---

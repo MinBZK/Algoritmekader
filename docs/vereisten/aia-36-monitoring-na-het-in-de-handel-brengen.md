@@ -7,6 +7,13 @@ levenscyclus:
 onderwerp:
 - technische-robuustheid-en-veiligheid
 - governance
+soort-toepassing:
+- ai-systeem
+- gpai-systeem
+rol-ai-act:
+- aanbieder
+publicatiecategorie:
+- hoog-risico
 hide:
 - navigation
 ---

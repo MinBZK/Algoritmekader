@@ -8,17 +8,11 @@ levenscyclus:
 onderwerp:
 - governance
 - technische-robuustheid-en-veiligheid
-soort-toepassing:
-- ai-systeem
-- gpai-systeem
-publicatiecategorie:
-- hoog-risico
-rol-ai-act:
-- aanbieder
-- gebruiksverantwoordelijke
 hide:
 - navigation
 ---
+
+<!-- let op! Deze vereiste geldt altijd omdat je volgens de AVG en de BIO ook moet loggen -->
 
 <!-- tags -->
 ## Vereiste
@@ -40,6 +34,7 @@ Voor AI-systemen die door bestuursorganen worden gebruikt of AI-systmen die pers
 ## Bronnen
 
 - [Artikel 12 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3495-1-1)
+- [Artikel 26.6 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3495-1-1)
 - [Hoofdstuk 12.4 Baseline Informatiebeveiliging Overheid ](https://www.bio-overheid.nl/media/13kduqsi/bio-versie-104zv_def.pdf)
 - [Artikel 5 en 32 Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679)
 

@@ -8,6 +8,13 @@ levenscyclus:
 onderwerp:
 - privacy-en-gegevensbescherming
 - data
+soort-toepassing:
+- gpai-model
+- ai-systeem
+- gpai-systeem
+rol-ai-act:
+- aanbieder
+- gebruiksverantwoordelijke
 hide:
 - navigation
 ---

@@ -2,10 +2,18 @@
 title: Verplicht risicobeheersysteem voor hoog-risico AI
 id: urn:nl:ak:ver:aia-03
 toelichting: Voor AI-systemen met een hoog risico wordt een systeem voor risicobeheer vastgesteld, uitgevoerd, gedocumenteerd en in stand gehouden.
-# levenscyclus:
-# - organisateverantwoordelijkheden
+levenscyclus:
+- organisateverantwoordelijkheden
 onderwerp:
 - governance
+soort-toepassing:
+- ai-systeem
+- gpai-systeem
+publicatiecategorie:
+- hoog-risico
+rol-ai-act:
+- aanbieder
+- gebruiksverantwoordelijke
 hide:
 - navigation
 ---

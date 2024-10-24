@@ -1,7 +1,7 @@
 ---
 title: Kwaliteitsbeheersysteem voor hoog-risico AI 
 id: urn:nl:ak:ver:aia-11
-toelichting: Aanbieders van AI-systemen met een hoog risico voorzien in een systeem voor kwaliteitsbeheer dat de naleving van deze verordening waarborgt. Dit systeem wordt op systematische en ordelijke wijze gedocumenteerd in de vorm van schriftelijke beleidslijnen, procedures en instructies en omvat ten minste de aspecten vermeld in artikel 17 AI-verordening.
+toelichting: Aanbieders van AI-systemen met een hoog risico voorzien in een systeem voor kwaliteitsbeheer dat de naleving van de AI-verordening waarborgt. Dit systeem wordt op systematische en ordelijke wijze gedocumenteerd in de vorm van schriftelijke beleidslijnen, procedures en instructies en omvat ten minste de aspecten vermeld in artikel 17 AI-verordening.
 levenscyclus:
 - ontwerp
 onderwerp:

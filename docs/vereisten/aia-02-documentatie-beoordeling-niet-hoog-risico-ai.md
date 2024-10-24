@@ -7,6 +7,13 @@ levenscyclus:
 - verificatie-en-validatie
 onderwerp:
 - governance
+soort-toepassing
+- ai-systeem
+- gpai-systeem
+publicatiecategorie:
+- geen-hoog-risico
+rol-ai-act:
+- aanbieder
 hide:
 - navigation
 ---

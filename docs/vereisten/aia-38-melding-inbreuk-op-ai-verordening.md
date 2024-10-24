@@ -8,6 +8,13 @@ levenscyclus:
 onderwerp:
 - governance
 - fundamentele-rechten
+soort-toepassing:
+- ai-systeem
+- gpai-systeem
+- gpai-model
+rol-ai-act:
+- aanbieder
+- gebruiksverantwoordelijke
 hide:
 - navigation
 ---

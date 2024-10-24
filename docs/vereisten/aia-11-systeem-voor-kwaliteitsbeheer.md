@@ -6,6 +6,13 @@ levenscyclus:
 - ontwerp
 onderwerp:
 - governance
+soort-toepassing:
+- ai-systeem
+- gpai-systeem
+publicatiecategorie:
+- hoog-risico
+rol-ai-act:
+- aanbieder
 hide:
 - navigation
 ---

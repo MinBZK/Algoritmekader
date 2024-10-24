@@ -7,6 +7,12 @@ levenscyclus:
 - verificatie-en-validatie
 - implementatie
 - monitoring-en-beheer
+soort-toepassing:
+- gpai-model
+rol-ai-act:
+- aanbieder
+systeemrisico:
+- systeemrisico
 onderwerp:
 - governance
 hide:

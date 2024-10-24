@@ -7,7 +7,11 @@ levenscyclus:
 - dataverkenning-en-datapreparatie
 onderwerp:
 - privacy-en-gegevensbescherming
-- fundamentele-rechten
+- bias-en-non-discriminatie
+rollen:
+- projectleider
+- jurist
+- beleid-en-advies
 hide:
 - navigation
 ---

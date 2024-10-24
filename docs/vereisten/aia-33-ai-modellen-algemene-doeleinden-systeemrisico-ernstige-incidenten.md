@@ -8,6 +8,12 @@ levenscyclus:
 - monitoring-en-beheer
 onderwerp:
 - governance
+soort-toepassing:
+- gpai-model
+rol-ai-act:
+- aanbieder
+systeemrisico:
+- systeemrisico
 hide:
 - navigation
 ---

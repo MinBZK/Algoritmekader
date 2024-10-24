@@ -7,7 +7,7 @@ levenscyclus:
 - verificatie-en-validatie
 onderwerp:
 - governance
-soort-toepassing
+soort-toepassing:
 - ai-systeem
 - gpai-systeem
 publicatiecategorie:

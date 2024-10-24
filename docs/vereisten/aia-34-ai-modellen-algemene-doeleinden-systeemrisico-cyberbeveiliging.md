@@ -9,6 +9,12 @@ levenscyclus:
 onderwerp:
 - governance
 - technische-robuustheid-en-veiligheid
+soort-toepassing:
+- gpai-model
+rol-ai-act:
+- aanbieder
+systeemrisico:
+- systeemrisico
 hide:
 - navigation
 ---

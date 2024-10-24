@@ -9,6 +9,14 @@ levenscyclus:
 onderwerp: 
 - governance
 - data
+soort-toepassing:
+- ai-systeem
+- gpai-systeem
+publicatiecategorie:
+- hoog-risico
+rol-ai-act:
+- aanbieder
+- gebruiksverantwoordelijke
 hide:
 - navigation
 ---

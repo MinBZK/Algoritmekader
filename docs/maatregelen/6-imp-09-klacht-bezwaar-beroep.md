@@ -36,6 +36,6 @@ Richt een proces in zodat burgers of andere belanghebbenden een klacht, bezwaar 
 - [Onderzoekskader Auditdienst Rijk, SV.17, PRI.9](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 1.08](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Onderzoek misbruik uitwonendenbeurs, PricewaterhouseCoopers](https://open.overheid.nl/documenten/dpc-97a155051e66b292ef3cc5799cb4aef61dcbf46b/pdf#page=48)
-- [Intern onderzoek controle uitwonendenbeurs, DUO]https://open.overheid.nl/documenten/dpc-486d1370ee92580b07ae27198a636c73fc28b87d/pdf
+- [Intern onderzoek controle uitwonendenbeurs, DUO](https://open.overheid.nl/documenten/dpc-486d1370ee92580b07ae27198a636c73fc28b87d/pdf)
 
 ## Voorbeeld

@@ -10,6 +10,14 @@ levenscyclus:
 - monitoring-en-beheer
 onderwerp:
 - fundamentele-rechten
+soort-toepassing:
+- ai-systeem
+- gpai-systeem
+publicatiecategorie:
+- hoog-risico
+rol-ai-act:
+- gebruiksverantwoordelijke
+- aanbieder
 hide:
 - navigation
 ---

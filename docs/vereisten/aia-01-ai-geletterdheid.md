@@ -7,6 +7,16 @@ levenscyclus:
 onderwerp: 
 - menselijke-controle
 - governance
+soort-toepassing:
+- ai-systeem
+- gpai-systeem
+- gpai-model
+publicatiecategorie:
+- hoog-risico
+- verboden-ai
+- geen-hoog-risico-ai
+rol-ai-act:
+- aanbieder
 hide:
 - navigation
 ---

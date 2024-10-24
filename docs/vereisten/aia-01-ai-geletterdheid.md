@@ -17,6 +17,7 @@ publicatiecategorie:
 - geen-hoog-risico-ai
 rol-ai-act:
 - aanbieder
+- gebruiksverantwoordelijke
 hide:
 - navigation
 ---

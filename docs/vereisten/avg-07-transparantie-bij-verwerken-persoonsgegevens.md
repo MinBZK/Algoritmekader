@@ -1,5 +1,5 @@
 ---
-title: Transparantie bij verwerking persoonsgegevens
+title: Organisaties zijn transparant over het verwerken van persoonsgegevens
 id: urn:nl:ak:ver:avg-07
 toelichting: De verwerking van persoonsgegevens moet transparant zijn. 
 levenscyclus:

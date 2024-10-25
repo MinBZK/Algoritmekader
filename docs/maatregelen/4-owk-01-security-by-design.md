@@ -1,5 +1,5 @@
 ---
-title: Pas het principe van security by design toe
+title: Beveilig de software
 toelichting: Door security by design toe te passen, kunnen kwetsbaarheden in de software worden voorkomen nog voordat deze wordt ontwikkeld. 
 vereiste:
 - bio-01-beveiliging-informatie-en-informatiesystemen

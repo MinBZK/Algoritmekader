@@ -1,5 +1,5 @@
 ---
-title: Formuleren aanleiding en probleemdefinitie
+title: Beschrijf het probleem dat het algoritme moet oplossen
 id: urn:nl:ak:mtr:pba-01
 toelichting: Formuleer en documenteer wat de aanleiding is om een algoritme of AI-systeem in te willen zetten. 
 vereiste:

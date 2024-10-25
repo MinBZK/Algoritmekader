@@ -1,5 +1,5 @@
 ---
-title: Persoonsgegevens verzamelen voor specifieke doeleinden
+title: Persoonsgegevens worden zo min mogelijk verwerkt
 id: urn:nl:ak:ver:avg-03
 toelichting: De verwerking van persoonsgegevens moet minimaal worden gehouden, dat wil zeggen dat die verwerking toereikend moet zijn, ter zake dienend en beperkt tot wat noodzakelijk is voor de doeleinden waarvoor zij worden verwerkt. 
 levenscyclus:

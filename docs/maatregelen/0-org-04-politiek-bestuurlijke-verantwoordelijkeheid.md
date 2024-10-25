@@ -27,17 +27,17 @@ Een politiek-bestuurlijk kader is vervolgens om te zetten tot een uitgeschreven 
 !!! example "Voorbeeld gemeente Rotterdam"
 
     Een van de belangrijkste hoofdconclusies van het rapport [Kleur Bekennen](https://rekenkamer.rotterdam.nl/wp-content/uploads/2024/05/RO2205-kleur-bekennen-vervolgonderzoek-algoritmes-rekenkamer-rotterdam.pdf) van de gemeente Rotterdam, opgesteld door de Algemene Rekenkamer, onderstreept het belang van actief bestuur binnen algoritme en AI governance: 
+    
+    > "Het ontbreekt aan een politiek-bestuurlijk kader dat duidelijk maakt welke normen en principes leidend zijn bij de ontwikkeling en het gebruik van algoritmes. Dit heeft als effect dat belangrijke besluit over bijvoorbeeld wenselijkheid, haalbaarheid, transparantie en bias bij de ambtelijke organistie komen te liggen. Deze besluiten vragen echt om een politieke afweging".
 
-> "Het ontbreekt aan een politiek-bestuurlijk kader dat duidelijk maakt welke normen en principes leidend zijn bij de ontwikkeling en het gebruik van algoritmes. Dit heeft als effect dat belangrijke besluit over bijvoorbeeld wenselijkheid, haalbaarheid, transparantie en bias bij de ambtelijke organistie komen te liggen. Deze besluiten vragen echt om een politieke afweging".
+    De algoritmegovernance van de [Gemeente Rotterdam](https://rekenkamer.rotterdam.nl/wp-content/uploads/2024/05/RO2205-kleur-bekennen-vervolgonderzoek-algoritmes-rekenkamer-rotterdam.pdf) bestaat uit de volgende onderdelen: 
+    
+    1. een visie op de inzet van algoritmes;
+    2. instrumentarium voor risicobeheersing dat onder andere bestaat uit een risico-assessment en een mensenrechtenassessment; 
+    3. een uiteenzetting van rollen en verantwoordelijkheden en; 
+    4. een omschrijving van de verantwoordelijkheden voor controle en advies.
 
-De algoritmegovernance van de [Gemeente Rotterdam](https://rekenkamer.rotterdam.nl/wp-content/uploads/2024/05/RO2205-kleur-bekennen-vervolgonderzoek-algoritmes-rekenkamer-rotterdam.pdf) bestaat uit de volgende onderdelen: 
-
-1. een visie op de inzet van algoritmes;
-2. instrumentarium voor risicobeheersing dat onder andere bestaat uit een risico-assessment en een mensenrechtenassessment; 
-3. een uiteenzetting van rollen en verantwoordelijkheden en; 
-4. een omschrijving van de verantwoordelijkheden voor controle en advies.
-
-Deze stappen volgen kan helpen bij het inrichten van een algoritmegovernance.
+    Deze stappen volgen kan helpen bij het inrichten van een algoritmegovernance.
 
 ## Bronnen
 [Kleur bekennen - vervolgonderzoek algoritmes](https://rekenkamer.rotterdam.nl/onderzoeken/kleur-bekennen/)

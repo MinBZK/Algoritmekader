@@ -1,5 +1,6 @@
 ---
 title: Inrichten governance in de levenscyclus van AI
+id: urn:nl:ak:mtr:org:08
 toelichting: Inrichten governance in de levenscyclus van AI
 
 levenscyclus:

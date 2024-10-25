@@ -1,5 +1,5 @@
 ---
-title: Pas risicobeheer gestructureerd toe voorafgaand en gedurende de ontwikkeling en gebruik van algoritmes en AI-systemen.
+title: Maak een plan voor het omgaan met risico’s
 toelichting: Alle stappen van risicobeheer worden periodiek uitgevoerd en op het juiste niveau in de organisatie behandeld.
 vereiste: 
 - aia-03-risicobeheersysteem

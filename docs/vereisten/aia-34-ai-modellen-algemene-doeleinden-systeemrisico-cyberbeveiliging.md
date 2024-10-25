@@ -1,5 +1,5 @@
 ---
-title: Aanbieders van AI-modellen voor algemene doeleinden met een systeemrisico zorgen voor passend niveau van cyberbeveiliging
+title: AI-modellen voor algemene doeleinden met systeemrisico’s zijn voldoende beveiligd tegen cyberaanvallen
 id: urn:nl:ak:ver:aia-34
 toelichting: Aanbieders van AI-modellen voor algemene doeleinden met een systeemrisico zorgen voor een passend niveau van cyberbeveiligingsbescherming voor het AI-model voor algemene doeleinden met een systeemrisico en de fysieke infrastructuur van het model
 levenscyclus:

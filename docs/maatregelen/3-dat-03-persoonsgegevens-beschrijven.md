@@ -1,5 +1,5 @@
 ---
-title: Persoonsgegevens die worden verwerkt voor het ontwikkelen en gebruiken van algoritmes en AI-systemen zijn beschreven en onderbouwd. 
+title: Beschrijf welke persoonsgegevens het algoritme gebruikt en waarom
 toelichting: Er is een overzicht opgesteld welke persoonsgegevens worden verwerkt, om welke categorie persoonsgegevens het gaat en er is een onderbouwing gegeven waarom deze passend zijn voor verwerking. 
 vereiste:
 - avg-01-persoonsgegevens-worden-rechtmatig-verwerkt

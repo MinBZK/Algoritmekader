@@ -1,5 +1,5 @@
 ---
-title: Technische documentatie voor hoog-risico AI
+title: Hoog-risico AI-systemen zijn voorzien van voldoende technische documentatie
 id: urn:nl:ak:ver:aia-06
 toelichting: De technische documentatie van een AI-systeem met een hoog risico wordt opgesteld voordat dit systeem in de handel wordt gebracht of in gebruik wordt gesteld, en wordt geactualiseerd.
 levenscyclus: 

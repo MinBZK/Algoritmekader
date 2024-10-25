@@ -1,5 +1,5 @@
 ---
-title: Auteursrechten mogen niet worden geschonden
+title: Auteursrechten zijn beschermd
 id: urn:nl:ak:ver:aut-01
 toelichting: Bepaalde vormen van algoritmes en AI worden ontwikkeld op basis van grote hoeveelheden data. Deze data wordt gebruikt voor het trainen en testen van algoritmes en AI. Het gebruiken van deze data mag geen inbreuk maken op Auteursrechten van diegene die deze rechten heeft. Ook de gegenereerde output van algoritmes en AI mag geen inbreuk maken op deze rechten. 
 levenscyclus: 

@@ -1,5 +1,5 @@
 ---
-title: Melden van ernstige incidenten
+title: Ernstige incidenten door hoog-risico-AI-systemen worden gemeld aan de toezichthouder
 id: urn:nl:ak:ver:aia-37
 toelichting: Aanbieders van in de Europese Unie in de handel gebrachte AI-systemen met een hoog risico melden ernstige incidenten bij de markttoezichtautoriteiten van de lidstaten waarin dat incident heeft plaatsgevonden.
 levenscyclus:

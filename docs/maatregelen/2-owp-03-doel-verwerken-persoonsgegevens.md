@@ -1,5 +1,5 @@
 ---
-title: Het doel voor het verwerken van persoonsgegevens met een algoritme of AI-systeem is welbepaald en omschreven.
+title: Beschrijf voor welk doel het algoritme persoonsgegevens gebruikt en waarom dit mag
 id: urn:nl:ak:mtr:owp:03
 toelichting: Persoonsgegevens mogen alleen verzameld worden voor een ‘welbepaald, uitdrukkelijk omschreven en gerechtvaardigd’ doel. De verwerking van persoonsgevens door het algoritme is tevens verenigbaar met het oorspronkelijke doel (doelbinding).
 vereiste:

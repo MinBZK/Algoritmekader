@@ -1,5 +1,6 @@
 ---
 title: Pas een volwassheidsmodel toe om te weten waar jou organisatie staat qua AI
+id: urn:nl:ak:mtr:org:06
 toelichting: Pas een volwassheidsmodel toe om te weten waar jou organisatie staat qua AI
 levenscyclus:
 - organisatieverantwoordelijkheden

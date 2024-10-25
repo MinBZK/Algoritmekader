@@ -1,5 +1,5 @@
 ---
-title: Aanbieders van AI-systemen met een hoog risico stellen een EU-conformiteitsverklaring op
+title: Hoog-risico AI-systemen zijn voorzien van een EU-conformiteitsverklaring
 id: urn:nl:ak:ver:aia-15
 toelichting: Aanbieders van AI-systemen met een hoog risico stellen een EU-conformiteitsverklaring op.
 levenscyclus:

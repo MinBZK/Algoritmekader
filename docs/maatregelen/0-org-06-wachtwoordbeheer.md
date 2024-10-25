@@ -1,5 +1,5 @@
 ---
-title: Richt wachtwoordbeheer in
+title: Maak afspraken over het beheer van wachtwoorden
 toelichting: Richt wachtwoordbeheer in, waarmee bepaald wordt hoe wachtwoorden worden opgeslagen, wanneer wijzigingen moeten plaatsvinden en waaraan wachtwoorden moeten voldoen.
 vereiste:
 - bio-01-beveiliging-informatie-en-informatiesystemen

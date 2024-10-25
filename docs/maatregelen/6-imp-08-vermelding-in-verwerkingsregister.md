@@ -1,5 +1,5 @@
 ---
-title: Neem de ontwikkeling en gebruik van een algoritme of AI-systeem op in het verwerkingsregister als persoonsgegevens worden verwerkt. 
+title: Vermeld het gebruik van persoonsgegevens in het verwerkingsregister 
 toelichting: Door in het verwerkingsregister te vermelden welke persoonsgegevens worden verwerkt voor het gebruik van een algoritme of AI-systeem, wordt een betrokkene geïnformeerd over de verwerking van diens persoonsgegevens en is intern inzichtelijk welke persoonsgegevens worden verwerkt.
 vereiste:
 - avg-07-transparantie-bij-verwerken-persoonsgegevens

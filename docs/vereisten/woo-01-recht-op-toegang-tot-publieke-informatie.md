@@ -1,5 +1,5 @@
 ---
-title: Eenieder heeft recht op toegang tot publieke informatie
+title: Iedereen kan openbare informatie over algoritmes vinden of aanvragen
 id: urn:nl:ak:ver:woo-01
 toelichting: Een bestuursorgaan draagt er zorg voor dat de documenten die het ontvangt, vervaardigt of anderszins onder zich heeft, zich in goede, geordende en toegankelijke staat bevinden. Een bestuursorgaan draagt er zoveel mogelijk zorg voor dat de informatie die het overeenkomstig deze wet verstrekt, actueel, nauwkeurig en vergelijkbaar is.
 # levenscyclus:

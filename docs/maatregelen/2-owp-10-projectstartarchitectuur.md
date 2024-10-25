@@ -1,5 +1,5 @@
 ---
-title: Voer een Project Startarchitectuur (PSA) uit als algoritmes of AI-systemen worden ontwikkeld of ingekocht.
+title: Maak een Project Startarchitectuur (PSA) voor de ontwikkeling of inkoop van algoritmes
 toelichting: Met een PSA wordt een concreet en doelgericht ICT-architectuurkader opgesteld, waarbinnen het project moet worden uitgevoerd.
 vereiste:
 - aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging

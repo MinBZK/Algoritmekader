@@ -1,5 +1,5 @@
 ---
-title: Richt een proces in voor een periodieke evaluatie van de kwaliteit van het algoritme of AI-systeem.
+title: Controleer en verbeter regelmatig de kwaliteit van het algoritme
 toelichting: Bij kwaliteit kan worden gedacht aan doeltreffenheid, doelmatigheid, betrouwbaarheid en accuraatheid (geschiktheid) en non-discriminatie.
 vereiste: 
 - aia-11-systeem-voor-kwaliteitsbeheer

@@ -1,5 +1,5 @@
 ---
-title: Bepaal de bewaartermijnen en richt een vernietigingsprocesdure in voor de verwerkte (persoons)gegevens. 
+title: Geef data zoals persoonsgegevens een bewaartermijn met een vernietigingsprocedure 
 toelichting: Zorg ervoor dat de vereisten met betrekking tot bewaartermijnen en de vernietiging correct zijn of worden vertaald naar het algoritme of AI-systeem en de onderliggende systemen. Controleer of deze maatregelen zijn getroffen en zorg dat dit aantoonbaar is.
 vereiste:
 - arc-01-archiefwet

@@ -1,5 +1,5 @@
 ---
-title: Privacy door ontwerp
+title: Ontwerp en standaardinstellingen (defaults) zijn zo gunstig mogelijk voor de privacy van betrokkenen
 id: urn:nl:ak:ver:avg-11
 toelichting: Pas privacy en gegevensbescherming toe door goed ontwerp en door standaardinstellingen
 levenscyclus:

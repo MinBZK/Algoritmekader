@@ -1,5 +1,5 @@
 ---
-title: Veilig melden van inbreuk op AI verordening 
+title: Klokkenluiders kunnen veilig melden dat een organisatie zich niet houdt aan de AI-verordening
 id: urn:nl:ak:ver:aia-38
 toelichting: Inbreuken op de AI verordening moeten gemeld kunnen worden en melders moeten dit op een veilige en vertrouwelijke manier kunnen doen, zoals beschreven in Richtlijn (EU) 2019/1937. 
 levenscyclus:

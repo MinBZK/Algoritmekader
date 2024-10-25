@@ -27,6 +27,7 @@ Bron: TNO, 2024
 Als je deze sectie leest ben je waarschijnlijk geïnteresseerd in het opzetten of verbeteren van algoritmegovernance bij jouw organisatie. Dit vindt plaats op het organisatieniveau en in de [levenscyclus](https://minbzk.github.io/Algoritmekader/levenscyclus/) bij "organisatieverantwoordelijkheden". Het gaat over het inrichten van processen zoals (die rondom) een AI-levencyclus. **Alles op deze pagina gaat dus over het _inrichten van_ governance.**
 
 Net als elders in het algoritmekader geven we maatregelen om hier concreet mee aan de slag te kunnen. Deze maatregelen zijn nog onder te verdelen in twee stappen:
+
 1. **Randvoorwaarden algoritmegovernance**: Dit speelt zich af op organisatieniveau. Bijvoorbeeld een duidelijke visie op AI en algortimes is hier onderdeel van.
 2. **Inrichten van algoritmegovernance**: Dit speelt zich af op organisatieniveau, maar heeft betrekking op het systeemniveau. Er worden bijvoorbeeld keuzes gemaakt hoe de levenscyclus en rollen en verantwoordelijkheden specifiek voor jouw organisatie wordt ingericht.
 
@@ -36,7 +37,8 @@ Belangrijk hier is dat het algoritmekader **niet voorschrijft** hoe je algoritme
 Is er al een visie of beleid over hoe met AI en algortimes om te gaan? Is er al iemand verantwoordelijk voor AI en algortimes? Wie gaat over de naleving van bijvoorbeeld de AI-verordening? Als je geen andwoord hebt, kan je bij stap 1 beginnen.
 
 #### Voorbeelden bij stap 1: Randvoorwaarden algoritmegovernance
-Deze maatregelen gaan over het grondwerk leggen om algortimegovernance mogelijk te maken. Kijk eens naar maatregelen (onderaan deze pagina) zoals:
+Deze maatregelen gaan over het grondwerk leggen om algortimegovernance mogelijk te maken. Kijk eens naar maatregelen zoals:
+
 * Stel een visie met betrekking tot AI en algoritmes op en zorg voor bestuurlijk bewustzijn en draagvlak.
 * Onderzoek wat er al is qua bestaande governancestructuren waar van te leren is en denk na over hoe organisatieonderdelen moeten samenwerken om goede algortimegovernance mogelijk te maken.
 * Breng het AI-volwassenheidsniveau in kaart om focus aan te brengen waar het nodig is.
@@ -45,6 +47,7 @@ Deze maatregelen gaan over het grondwerk leggen om algortimegovernance mogelijk 
 
 #### Voorbeelden bij stap 2: Inrichten van algoritmegovernance
 We geven bij deze maatregelen meer voorbeelden en best practices voor het inrichten van algoritmegovernance. Kijk eens naar maatregelen (onderaan deze pagina) zoals:
+
 * Rollen en verantwoordelijkheden in algoritmegovernance
 * De AI-levenscyclus en go/no-go 'gates' 
 * Voorbeelden van governancestructuren zoals three lines of defence

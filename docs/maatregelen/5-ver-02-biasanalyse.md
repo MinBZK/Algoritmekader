@@ -1,5 +1,5 @@
 ---
-title: Voer een biasanalyse uit
+title: Analyseer het risico op bias
 toelichting: Analyseer of het gebruik van het algoritme of het proces daaromheen leidt tot onwenselijke of onrechtmatige verschillen in de behandeling van individuen en/of groepen.  
 vereiste:
 - grw-02-non-discriminatie

@@ -1,5 +1,5 @@
 ---
-title: Bescherm persoonsgegevens die mogen worden verwerkt voor het ontwikkelen en gebruiken van algoritmes en AI-systemen.
+title: Bescherm persoonsgegevens door data te anonimiseren, pseudonimiseren of te aggregeren
 toelichting: Pas maatregelen toe als pseudonimiseren, anonimisering of aggregeren van persoonsgegevens bij het verwerken van de data. 
 vereiste:
 - avg-03-minimale-verwerking-van-persoonsgegevens

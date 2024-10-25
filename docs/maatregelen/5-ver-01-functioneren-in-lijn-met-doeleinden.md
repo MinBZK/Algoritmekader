@@ -1,5 +1,5 @@
 ---
-title: Stel vast dat het algoritme voortdurend functioneert in lijn met de vastgestelde doelstelling
+title: Controleer regelmatig of het algoritme werkt zoals het bedoeld is
 toelichting: Stel vast dat het algoritme voortdurend functioneert in lijn met de vastgestelde doelstelling
 vereiste:
 - awb-01-zorgvuldigheidsbeginsel

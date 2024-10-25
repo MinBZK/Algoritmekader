@@ -1,5 +1,5 @@
 ---
-title: Tref (technische) maatregelen waarmee het gebruik van het algoritme of AI-systeem kan worden stopgezet.
+title: Maak een noodplan voor het stoppen van het algoritme
 toelichting: Als blijkt dat het algoritme of AI-systeem onjuist functioneert, dan moeten (technische) maatregelen zijn getroffen waarmee het gebruik kan worden stopgezet.
 vereiste: 
 - aia-18-corrigerende-maatregelen-voor-non-conforme-ai

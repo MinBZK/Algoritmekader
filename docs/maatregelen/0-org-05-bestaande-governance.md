@@ -1,5 +1,6 @@
 ---
 title: Onderzoek bestaande governance
+id: urn:nl:ak:mtr:org:05
 toelichting: Onderzoek binnen de organisatie wat er al is en hoe algortimegovernance daarop kan inhaken. Communicatie en samenwerking tussen organisatieonderdelen is doorlopend van groot belang.
 
 levenscyclus:

@@ -1,6 +1,6 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Afwegen grondrechten
+title: Inventariseer welke grondrechten het algoritme kan schenden en maak een belangenafweging
 # geef hier een korte toelichting van deze maatregel
 toelichting: Afwegen grondrechten
 vereiste:

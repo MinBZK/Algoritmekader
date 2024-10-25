@@ -1,5 +1,5 @@
 ---
-title: Impactvolle algoritmes worden gepubliceerd in het Nederlandse algoritmeregister
+title: Impactvolle algoritmes en hoog-risico-AI-systemen staan in het Nederlandse Algoritmeregister
 id: urn:nl:ak:ver:bzk-01
 toelichting: Het publiceren van impactvolle algoritmes en AI draagt bij aan transparantie voor belanghebbenden en derden over welke algoritmes en AI worden gebruikt door de overheid. Het is vastgesteld beleid dat overheidsinstellingen, tenzij er uitsluitingsgronden zijn, de door hen gebruikte impactvolle algoritmes en hoogrisico AI-systemen publiceren in het algoritmeregister. Er wordt gewerkt aan wetgeving om het bij wet verplicht te stellen. 
 levenscyclus: 

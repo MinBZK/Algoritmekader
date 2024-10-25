@@ -1,5 +1,5 @@
 ---
-title: Zorg ervoor dat logbestanden worden gecreëerd waarin informatie wordt geregistreerd over gebruikersactiviteiten, uitzonderingen en informatiebeveiligingsgebeurtenissen
+title: Maak logbestanden waarin staat wie wanneer toegang had tot de data en de code
 toelichting: Door goede logging is te achterhalen wanneer en door wie er (ongewenste) aanpassingen zijn gedaan (audit trail).
 vereiste:
 - bio-01-beveiliging-informatie-en-informatiesystemen

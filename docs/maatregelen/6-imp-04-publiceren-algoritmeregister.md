@@ -1,5 +1,5 @@
 ---
-title: Publiceer het algoritme in het Algoritmeregister.
+title: Publiceer impactvolle algoritmes en hoog-risico-AI-systemen in het Algoritmeregister
 toelichting: Publiceer het algoritme in het Algoritmeregister.
 vereiste:
 - bzk-01-algoritmeregister

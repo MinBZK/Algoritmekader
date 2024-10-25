@@ -1,5 +1,5 @@
 ---
-title: Archiefbescheiden vaststellen
+title: Bepaal welke documenten voor hoe lang gearchiveerd moeten worden
 toelichting: Stel vast welke documenten, (samengesteld geheel van) data/informatie van/in het algoritme of het AI-systeem gelden als "archiefbescheiden" in de zin van artikel 1 c Archiefwet en documenteer daarvan een overzicht, bij voorkeur vastgesteld door een daartoe bevoegde. 
 vereiste:
 - arc-01-archiefwet

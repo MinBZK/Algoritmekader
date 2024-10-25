@@ -11,6 +11,18 @@ onderwerp:
 - governance
 - data
 - privacy-en-gegevensbescherming
+soort-toepassing:
+- algoritme
+- ai-systeem
+- ai-systeem-voor-algemene-doeleinden
+- ai-model-voor-algemene-doeleinden
+risicogroep:
+- hoog-risico-ai-systeem
+- verboden-ai
+- geen-hoog-risico-ai-systeem
+rol-ai-act:
+- aanbieder
+- gebruiksverantwoordelijke
 hide:
 - navigation
 ---
@@ -34,6 +46,7 @@ Informatie over en van algoritmes en AI moet daarom bewaard en vernietigd worden
 - [Archiefregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&z=2014-01-01&g=2014-01-01)
 
 ## Wanneer van toepassing? 
+<!-- tags-ai-act --> 
 
 ## Risico 
 

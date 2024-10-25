@@ -1,5 +1,5 @@
 ---
-title: Hoog-risico AI-systemen zijn voorzien van een kwaliteitsbeheersysteem
+title: Hoog-risico-AI-systemen zijn voorzien van een kwaliteitsbeheersysteem
 id: urn:nl:ak:ver:aia-11
 toelichting: Aanbieders van AI-systemen met een hoog risico voorzien in een systeem voor kwaliteitsbeheer dat de naleving van de AI-verordening waarborgt. Dit systeem wordt op systematische en ordelijke wijze gedocumenteerd in de vorm van schriftelijke beleidslijnen, procedures en instructies en omvat ten minste de aspecten vermeld in artikel 17 AI-verordening.
 levenscyclus:
@@ -8,9 +8,9 @@ onderwerp:
 - governance
 soort-toepassing:
 - ai-systeem
-- gpai-systeem
+- ai-systeem-voor-algemene-doeleinden
 publicatiecategorie:
-- hoog-risico
+- hoog-risico-ai-systeem
 rol-ai-act:
 - aanbieder
 hide:
@@ -43,7 +43,8 @@ Dit systeem omvat gedocumenteerde beleidslijnen, procedures en instructies, en b
 - [Artikel 17 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3906-1-1)
 - [Artikel 16(c) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3823-1-1)
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

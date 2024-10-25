@@ -45,6 +45,7 @@ Deze maatregelen zijn essentieel om de naleving van regelgeving met betrekking t
 - [Verantwoordingsplicht](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/avg-algemeen/verantwoordingsplicht)
 
 ## Wanneer van toepassing? 
+<!-- tags-ai-act --> 
 
 ## Risico 
 

@@ -30,6 +30,7 @@ Het is van belang om algoritmische toepassingen en AI-systemen op de juiste mani
 - [Besluit voorschrift informatiebeveiliging rijksdienst 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022141&z=2007-07-01&g=2007-07-01)
 
 ## Wanneer van toepassing? 
+<!-- tags-ai-act --> 
 
 ## Risico 
 

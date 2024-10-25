@@ -14,7 +14,7 @@ hide:
 <!-- tags -->
 ## Vereiste
 
-Bestuursorganen publiceren algoritmes met impact en hoog-risico AI-systemen in het [Nederlandse Algoritmeregister](https://algoritmes.overheid.nl/nl).
+Bestuursorganen publiceren algoritmes met impact en Hoog-risico-AI-systemen in het [Nederlandse Algoritmeregister](https://algoritmes.overheid.nl/nl).
 
 ## Toelichting 
 
@@ -29,6 +29,7 @@ Er wordt gewerkt aan wetgeving om het bij wet verplicht te stellen.
 - Kamerbrieven
 
 ## Wanneer van toepassing? 
+<!-- tags-ai-act --> 
 
 ## Risico 
 

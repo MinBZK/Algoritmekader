@@ -1,5 +1,5 @@
 ---
-title: Hoog-risico AI-systemen zijn voldoende nauwkeurig, robuust en cyberveilig
+title: Hoog-risico-AI-systemen zijn voldoende nauwkeurig, robuust en cyberveilig
 id: urn:nl:ak:ver:aia-10
 toelichting: AI-systemen met een hoog risico worden op zodanige wijze ontworpen en ontwikkeld dat deze een passend niveau van nauwkeurigheid, robuustheid en cyberbeveiliging bieden, alsook consistente prestaties gedurende de levensduur met betrekking tot deze aspecten.
 levenscyclus:
@@ -11,9 +11,9 @@ onderwerp:
 - technische-robuustheid-en-veiligheid
 soort-toepassing:
 - ai-systeem
-- gpai-systeem
+- ai-systeem-voor-algemene-doeleinden
 publicatiecategorie:
-- hoog-risico
+- hoog-risico-ai-systeem
 rol-ai-act:
 - aanbieder
 hide:
@@ -46,7 +46,8 @@ Om te zorgen voor een niveau van cyberbeveiliging dat aansluit op de risico’s,
 
 [Artikel 15 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3752-1-1)
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

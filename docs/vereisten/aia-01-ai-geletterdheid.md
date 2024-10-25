@@ -9,12 +9,12 @@ onderwerp:
 - governance
 soort-toepassing:
 - ai-systeem
-- gpai-systeem
-- gpai-model
-publicatiecategorie:
-- hoog-risico
+- ai-systeem-voor-algemene-doeleinden
+- ai-model-voor-algemene-doeleinden
+risicogroep:
+- hoog-risico-ai-systeem
 - verboden-ai
-- geen-hoog-risico-ai
+- geen-hoog-risico-ai-systeem
 rol-ai-act:
 - aanbieder
 - gebruiksverantwoordelijke
@@ -40,6 +40,7 @@ Het doel is om een adequaat niveau van begrip en vaardigheden te waarborgen, wat
 [Artikel 4 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e2799-1-1)
 
 ## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 ## Risico 
 

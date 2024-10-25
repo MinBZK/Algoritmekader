@@ -1,5 +1,5 @@
 ---
-title: Hoog-risico AI-systemen worden pas geleverd of gebruikt na een conformiteitsbeoordelingsprocedure
+title: Hoog-risico-AI-systemen worden pas geleverd of gebruikt na een conformiteitsbeoordelingsprocedure
 id: urn:nl:ak:ver:aia-14
 toelichting: Aanbieders van AI-systemen met een hoog risico zorgen ervoor dat voor het AI-systeem met een hoog risico een conformiteitsbeoordelingsprocedure wordt uitgevoerd voordat dit systeem in de handel wordt gebracht of in gebruik wordt gesteld
 levenscyclus:
@@ -9,9 +9,9 @@ onderwerp:
 - governance
 soort-toepassing:
 - ai-systeem
-- gpai-systeem
+- ai-systeem-voor-algemene-doeleinden
 publicatiecategorie:
-- hoog-risico
+- hoog-risico-ai-systeem
 rol-ai-act:
 - aanbieder
 hide:
@@ -37,7 +37,8 @@ AI-systemen met een hoog risico die reeds aan een conformiteitsbeoordelingsproce
 - [Bijlage VI Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e38-133-1)
 - [Bijlage VII Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e38-134-1)
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

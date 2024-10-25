@@ -35,6 +35,7 @@ Ook de gegenereerde output van algoritmes en AI mag geen inbreuk maken op deze r
 - [Artikel 3 en 4 van de DSM-richtlijn (EU 2019/790)](https://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=CELEX:32019L0790&from=PL)
 
 ## Wanneer van toepassing? 
+<!-- tags-ai-act --> 
 
 
 ## Risico 

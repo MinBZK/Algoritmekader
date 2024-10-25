@@ -1,5 +1,5 @@
 ---
-title: Hoog-risico AI-systemen staan onder menselijk toezicht 
+title: Hoog-risico-AI-systemen staan onder menselijk toezicht 
 id: urn:nl:ak:ver:aia-09
 toelichting: AI-systemen met een hoog risico worden zodanig ontworpen en ontwikkeld, met inbegrip van passende mens-machine-interface-instrumenten, dat hierop tijdens de periode dat zij worden gebruikt, op doeltreffende wijze toezicht kan worden uitgeoefend door natuurlijke personen.
 levenscyclus:
@@ -10,9 +10,9 @@ onderwerp:
 - menselijke-controle
 soort-toepassing:
 - ai-systeem
-- gpai-systeem
+- ai-systeem-voor-algemene-doeleinden
 publicatiecategorie:
-- hoog-risico
+- hoog-risico-ai-systeem
 rol-ai-act:
 - aanbieder
 hide:
@@ -49,8 +49,8 @@ In het geval van een hoog risico systeem als bedoeld in bijlage III, punt 1, a  
 ## Bronnen
 [Artikel 14 verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3669-1-1)
 
-## Wanneer van toepassing?
-
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 ## Risico
 

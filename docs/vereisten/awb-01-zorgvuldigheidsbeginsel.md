@@ -31,6 +31,7 @@ Het doel en eventuele subdoelen van het algoritme of AI-systeem moet helder zijn
 - [Afdeling 3.4 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&z=2024-05-01&g=2024-05-01)
 
 ## Wanneer van toepassing? 
+<!-- tags-ai-act --> 
 
 
 ## Risico 

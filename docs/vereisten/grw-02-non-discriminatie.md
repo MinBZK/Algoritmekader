@@ -41,6 +41,7 @@ Hiervan is sprake wanneer een ogenschijnlijk neutrale bepaling, maatstaf of hand
 - [Artikel 2:4 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=2&afdeling=2.1&artikel=2:4&z=2024-05-01&g=2024-05-01) 
 
 ## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico 

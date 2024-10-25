@@ -8,7 +8,7 @@ levenscyclus:
 - implementatie
 - monitoring-en-beheer
 soort-toepassing:
-- gpai-model
+- ai-model-voor-algemene-doeleinden
 rol-ai-act:
 - aanbieder
 systeemrisico:
@@ -38,7 +38,8 @@ Systeemrisico’s nemen logischerwijs toe naargelang de capaciteiten en het bere
 - [Artikel 55 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5730-1-1)
 - [Overweging 110 Verordening Artificiële Intelligentie]
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 ## Risico
 

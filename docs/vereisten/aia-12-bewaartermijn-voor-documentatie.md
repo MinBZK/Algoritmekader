@@ -1,5 +1,5 @@
 ---
-title: Documentatie over hoog-risico AI-systemen wordt 10 jaar bewaard door de aanbieder
+title: Documentatie over Hoog-risico-AI-systemen wordt 10 jaar bewaard door de aanbieder
 id: urn:nl:ak:ver:aia-12
 toelichting: De aanbieder moet gedurende tien jaar na het op de markt brengen of in gebruik nemen van het AI-systeem met een hoog risico de vereiste documentatie beschikbaar houden voor de nationale autoriteiten. Dit houdt in dat technische documentatie, documentatie over het kwaliteitsbeheersysteem, eventuele documentatie over besluiten en goedgekeurde wijzigingen door aangemelde instanties en de EU-conformiteitsverklaring beschikbaar moet zijn. Dit waarborgt dat de autoriteiten toegang hebben tot relevante informatie voor controle en naleving van de voorschriften gedurende deze periode. 
 levenscyclus: 
@@ -12,9 +12,9 @@ onderwerp:
 - technische-robuustheid-en-veiligheid
 soort-toepassing:
 - ai-systeem
-- gpai-systeem
+- ai-systeem-voor-algemene-doeleinden
 publicatiecategorie:
-- hoog-risico
+- hoog-risico-ai-systeem
 rol-ai-act:
 - aanbieder
 hide:
@@ -45,6 +45,7 @@ Dit waarborgt dat de autoriteiten toegang hebben tot relevante informatie voor c
 - [Artikel 16(d) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3823-1-1)
 
 ## Wanneer van toepassing? 
+<!-- tags-ai-act --> 
 
 ## Risico 
 

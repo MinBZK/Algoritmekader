@@ -52,6 +52,7 @@ Gebruiksverantwoordelijken van AI-systemen met een hoog risico gebruiken die inf
 - [Data protection impact assessment (DPIA) Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/praktisch-avg/data-protection-impact-assessment-dpia#:~:text=Een%20DPIA%20is%20een%20instrument,Algemene%20verordening%20gegevensbescherming%20(AVG)%3B)
 
 ## Wanneer van toepassing? 
+<!-- tags-ai-act --> 
 
 ## Risico 
 

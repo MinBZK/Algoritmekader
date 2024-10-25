@@ -9,9 +9,9 @@ onderwerp:
 - privacy-en-gegevensbescherming
 - data
 soort-toepassing:
-- gpai-model
+- ai-model-voor-algemene-doeleinden
 - ai-systeem
-- gpai-systeem
+- ai-systeem-voor-algemene-doeleinden
 rol-ai-act:
 - aanbieder
 - gebruiksverantwoordelijke
@@ -33,7 +33,8 @@ Voor toepassingen voor het verder verwerken van gegevens kan worden gedacht aan 
 ## Bronnen
 - [Artikel 57 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5884-1-1)
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

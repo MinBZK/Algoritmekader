@@ -47,7 +47,8 @@ Het is daarom belangrijk om tijdig te onderzoeken of er sprake is of kan zijn va
 - Internationaal Verdrag voor de Rechten van Mensen met een Handicap (VN-verdrag Handicap)
 - [Artikel 27 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e4433-1-1)
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

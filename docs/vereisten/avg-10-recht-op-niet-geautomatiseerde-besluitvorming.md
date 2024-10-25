@@ -31,6 +31,7 @@ Uitgangspunt is dat voor elk individueel geval een zorgvuldige beoordeling van d
 - [Artikel 1:3 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=1&titeldeel=1.1&artikel=1:3&z=2024-05-01&g=2024-05-01) 
 
 ## Wanneer van toepassing? 
+<!-- tags-ai-act --> 
 
 
 ## Risico 

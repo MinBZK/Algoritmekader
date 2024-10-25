@@ -10,7 +10,7 @@ onderwerp:
 - governance
 - technische-robuustheid-en-veiligheid
 soort-toepassing:
-- gpai-model
+- ai-model-voor-algemene-doeleinden
 rol-ai-act:
 - aanbieder
 systeemrisico:
@@ -35,7 +35,8 @@ Dit vereiste is een aanvulling op de in artikel 53 AI-verordening genoemde verpl
 ## Bronnen
 [Artikel 55(1d) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5730-1-1)
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

@@ -33,7 +33,8 @@ Dit is eveneens van toepassing als persoonsgegevens worden verwerkt bij het ontw
 
 - [Artikel 25 Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679#d1e3055-1-1)
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

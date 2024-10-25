@@ -31,7 +31,8 @@ Hierbij kan worden gedacht aan maatregelen als pseudonomisering en anonimisering
 
 [Artikel 5 lid 1 onder de AVG](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679#d1e1802-1-1)
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

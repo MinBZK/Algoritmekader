@@ -10,7 +10,7 @@ levenscyclus:
 onderwerp:
 - transparantie
 soort-toepassing:
-- gpai-model
+- ai-model-voor-algemene-doeleinden
 rol-ai-act:
 - aanbieder
 hide:
@@ -40,7 +40,8 @@ In art. 53 lid 2 wordt een uitzondering gemaakt op deze vereisten.
 ## Bronnen
 [Artikel 53 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5576-1-1)
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

@@ -32,6 +32,7 @@ Per toepassing moet worden onderzocht welke maatregelen hiervoor geschikt zijn.
 [Artikel 32 Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32016R0679)|
 
 ## Wanneer van toepassing? 
+<!-- tags-ai-act --> 
 
 ## Risico 
 

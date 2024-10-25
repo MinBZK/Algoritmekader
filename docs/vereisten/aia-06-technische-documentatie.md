@@ -1,5 +1,5 @@
 ---
-title: Hoog-risico AI-systemen zijn voorzien van voldoende technische documentatie
+title: Hoog-risico-AI-systemen zijn voorzien van voldoende technische documentatie
 id: urn:nl:ak:ver:aia-06
 toelichting: De technische documentatie van een AI-systeem met een hoog risico wordt opgesteld voordat dit systeem in de handel wordt gebracht of in gebruik wordt gesteld, en wordt geactualiseerd.
 levenscyclus: 
@@ -14,9 +14,9 @@ onderwerp:
 - technische-robuustheid-en-veiligheid
 soort-toepassing:
 - ai-systeem
-- gpai-systeem
+- ai-systeem-voor-algemene-doeleinden
 publicatiecategorie:
-- hoog-risico
+- hoog-risico-ai-systeem
 rol-ai-act:
 - aanbieder
 hide:
@@ -54,6 +54,8 @@ De documentatie kan opgevraagd worden door een bevoegde autoriteit met een met r
 - [Bijlage IV Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e38-130-1)
 
 ## Wanneer van toepassing? 
+<!-- tags-ai-act --> 
+
 
 ## Risico 
 

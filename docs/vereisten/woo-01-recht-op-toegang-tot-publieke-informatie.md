@@ -36,7 +36,8 @@ Dit moet worden bekeken in het licht van wat 'actief' moet worden geopenbaard, d
 - [Artikel 4.1 Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=4&artikel=4.1&z=2024-08-01&g=2024-08-01)
 - [Artikel 5 Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=4&artikel=4.1&z=2024-08-01&g=2024-08-01)
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

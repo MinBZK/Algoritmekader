@@ -35,7 +35,8 @@ De data die hiervoor wordt gebruikt mag niet ongeoorloofd zijn verkregen uit een
 - [Artikel 7 Databankrichtlijn](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:31996L0009)
 - [Overwegingen 39 - 41 Databankrichtlijn](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:31996L0009)
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

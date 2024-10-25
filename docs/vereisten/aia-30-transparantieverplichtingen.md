@@ -30,7 +30,8 @@ Dit geldt voor AI-systemen die:
 - Overweging 132 Verordening Artificiële Intelligentie
 - Overweging 134 Verordening Artificiële Intelligentie
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 ## Risico
 Bepaalde AI-systemen die bedoeld zijn om met natuurlijke personen te interageren of om content te genereren, kunnen specifieke risico’s op imitatie of misleiding met zich meebrengen, ongeacht of zij als systeem met een hoog risico gelden. 

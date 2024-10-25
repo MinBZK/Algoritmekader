@@ -1,5 +1,5 @@
 ---
-title: Hoog-risico AI-systemen zijn geregistreerd in de EU-databank
+title: Hoog-risico-AI-systemen zijn geregistreerd in de EU-databank
 id: urn:nl:ak:ver:aia-17
 toelichting: Aanbieders van AI-systemen met een hoog risico leven de registratieverplichtingen als bedoeld in artikel 49 na, wat betekent dat voor het in de handel brengen of in bedrijf te stellen van het hoog risico AI-systeem, de aanbieder of in voorkomende gevallen de gemachtigde het systeem registreert in de EU-databank. 
 levenscyclus:
@@ -11,9 +11,9 @@ onderwerp:
 - transparantie
 soort-toepassing:
 - ai-systeem
-- gpai-systeem
+- ai-systeem-voor-algemene-doeleinden
 publicatiecategorie:
-- hoog-risico
+- hoog-risico-ai-systeem
 rol-ai-act:
 - aanbieder
 hide:
@@ -36,7 +36,8 @@ Vóór de distributie of inbedrijfstelling van een AI-systeem met een hoog risic
 - [Artikel 16(i) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3823-1-1)
 - [Artikel 49(1) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5358-1-1)
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

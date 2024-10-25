@@ -10,8 +10,8 @@ onderwerp:
 - fundamentele-rechten
 soort-toepassing:
 - ai-systeem
-- gpai-systeem
-- gpai-model
+- ai-systeem-voor-algemene-doeleinden
+- ai-model-voor-algemene-doeleinden
 rol-ai-act:
 - aanbieder
 - gebruiksverantwoordelijke
@@ -34,7 +34,8 @@ Deze richtlijn bevordert transparantie en verantwoording binnen organisaties en 
 ## Bronnen
 [Artikel 87 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e7782-1-1)
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

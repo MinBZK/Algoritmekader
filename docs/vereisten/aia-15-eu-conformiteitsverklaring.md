@@ -1,5 +1,5 @@
 ---
-title: Hoog-risico AI-systemen zijn voorzien van een EU-conformiteitsverklaring
+title: Hoog-risico-AI-systemen zijn voorzien van een EU-conformiteitsverklaring
 id: urn:nl:ak:ver:aia-15
 toelichting: Aanbieders van AI-systemen met een hoog risico stellen een EU-conformiteitsverklaring op.
 levenscyclus:
@@ -9,9 +9,9 @@ onderwerp:
 - governance
 soort-toepassing:
 - ai-systeem
-- gpai-systeem
+- ai-systeem-voor-algemene-doeleinden
 publicatiecategorie:
-- hoog-risico
+- hoog-risico-ai-systeem
 rol-ai-act:
 - aanbieder
 hide:
@@ -36,7 +36,8 @@ Voorbeelden hiervan zijn de naam en type van het AI-systeem, naam en adres van d
 - [Artikel 47(1) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5296-1-1)
 - [Bijlage V Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e38-132-1)
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

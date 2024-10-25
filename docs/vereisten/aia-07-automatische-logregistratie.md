@@ -38,7 +38,8 @@ Voor AI-systemen die door bestuursorganen worden gebruikt of AI-systmen die pers
 - [Hoofdstuk 12.4 Baseline Informatiebeveiliging Overheid ](https://www.bio-overheid.nl/media/13kduqsi/bio-versie-104zv_def.pdf)
 - [Artikel 5 en 32 Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679)
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 ## Risico
 

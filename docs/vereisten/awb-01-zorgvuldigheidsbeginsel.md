@@ -1,5 +1,5 @@
 ---
-title: Relevante feiten en belangen zijn bekend 
+title: Organisaties die algoritmes gebruiken voor publieke taken gaan zorgvuldig te werk
 id: urn:nl:ak:ver:awb-01
 toelichting: Dit beginsel vereist dat een besluit met de nodige zorgvuldigheid wordt voorbereid en genomen. Dit vraagt onder meer om een zorgvuldig onderzoek naar feiten, een zorgvuldige beslissingsprocedure en een deugdelijke besluitvorming. Dit betekent dat  algoritmes en AI zodanig moet worden ontwikkeld en gebruikt, dat dit passend is ter ondersteuning van de wettelijke taak en de bijbehorende beslissing of besluitvorming.  
 levenscyclus: 

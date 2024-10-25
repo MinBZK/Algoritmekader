@@ -1,5 +1,5 @@
 ---
-title: Beveiliging informatie en informatiesystemen
+title: Computersystemen zijn voldoende beveiligd tegen ongelukken en cyberaanvallen
 id: urn:nl:ak:ver:bio-01
 toelichting: Informatie en informatiesystemen moeten op de juiste manier worden beveiligd.
 # levenscyclus: 

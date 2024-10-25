@@ -1,6 +1,5 @@
 ---
-title: AI-systemen en algoritmes mogen niet discrimineren
-index: 43
+title: Algoritmes discrimineren niet
 id: urn:nl:ak:ver:grw-02
 toelichting: Allen die zich in Nederland bevinden, worden in gelijke gevallen gelijk behandeld. Directe en indirecte discriminatie wegens godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, handicap, seksuele gerichtheid of op welke grond dan ook, is niet toegestaan. 
 levenscyclus: 

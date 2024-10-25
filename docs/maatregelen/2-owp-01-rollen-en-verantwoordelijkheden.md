@@ -1,5 +1,5 @@
 ---
-title: Beschrijf de rollen en verantwoordelijkheden voor het ontwikkelen en gebruiken van algoritmes en AI-systemen en pas een RACI-matrix toe. 
+title: Beschrijf de rollen en verantwoordelijkheden in een RACI-matrix
 id: urn:nl:ak:mtr:owp:01
 toelichting: Stel een RACI-matrix op waarbij de rollen en verantwoordelijkheden worden beschreven en toebedeeld.
 vereiste: 

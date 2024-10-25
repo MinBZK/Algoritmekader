@@ -1,5 +1,5 @@
 ---
-title: Stel vast dat wetgeving en (lokaal) beleid correct is vertaald naar de uitvoering van het te ondersteunen werkproces en de onderliggende systemen. 
+title: Controleer of het algoritme voldoet aan alle wetten en regels en het eigen beleid
 toelichting: Wet- en regelgeving of beleid bevat de basisregels voor algoritmes en AI-systemen. Het is van belang dat een goede vertaling wordt gemaakt van deze regels naar het algoritme of AI-systeem.
 vereiste:
 - awb-01-zorgvuldigheidsbeginsel

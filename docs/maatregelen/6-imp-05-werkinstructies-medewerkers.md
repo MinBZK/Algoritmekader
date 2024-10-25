@@ -1,6 +1,6 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Maak duidelijke werkinstructies voor medewerkers
+title: Spreek af hoe medewerkers omgaan met het algoritme of AI-systeem 
 # geef hier een korte toelichting van deze maatregel
 toelichting: Stel duidelijke werkinstructies op voor de medewerkers die het algoritme gaan gebruiken. 
 

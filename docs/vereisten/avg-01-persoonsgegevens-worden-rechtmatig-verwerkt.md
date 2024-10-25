@@ -1,5 +1,5 @@
 ---
-title: Verwerking van persoonsgegevens moet rechtmatig plaatsvinden
+title: Persoonsgegevens worden op een rechtmatige manier verwerkt
 id: urn:nl:ak:ver:avg-01
 toelichting: De verwerking van persoonsgegevens moet rechtmatig plaatsvinden. De verwerking (inclusief het verzamelen) moet worden gebaseerd op een van de wettelijke grondslagen die zijn genoemd in de AVG.
 levenscyclus:

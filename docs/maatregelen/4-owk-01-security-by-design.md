@@ -1,5 +1,5 @@
 ---
-title: Beveilig de software
+title: Ontwerp en ontwikkel het algoritme volgens de principes van ‘security by design’
 toelichting: Door security by design toe te passen, kunnen kwetsbaarheden in de software worden voorkomen nog voordat deze wordt ontwikkeld. 
 vereiste:
 - bio-01-beveiliging-informatie-en-informatiesystemen

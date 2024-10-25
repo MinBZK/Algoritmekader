@@ -1,5 +1,5 @@
 ---
-title: Richt een wijzigingenproces in voor codewijzigingen
+title: Maak afspraken over het wijzigen van de code
 toelichting: Richt een formeel wijzigingenproces in, waarmee bepaald wordt hoe codewijzigingen plaatsvinden.
 vereiste:
 - bio-01-beveiliging-informatie-en-informatiesystemen

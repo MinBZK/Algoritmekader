@@ -1,6 +1,6 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Stel vast of het gaat om een algoritme en/of AI-systeem en wat de bijbehorende risicoclassificatie is om te bepalen welke vereisten hierop van toepassing zijn.
+title: Bepaal het soort algoritme en de risicogroep en vereisten die hierbij horen
 id: urn:nl:ak:mtr:owp:05
 # geef hier een korte toelichting van deze maatregel
 toelichting: Het verschilt per typen algoritmen of AI-systemen welke vereisten hierop van toepassing zijn en waar een aanbieder of gebruiksverantwoordelijke aan moet voldoen. Dit is mede afhankelijk van de bijbehorende risicoclassificatie.  

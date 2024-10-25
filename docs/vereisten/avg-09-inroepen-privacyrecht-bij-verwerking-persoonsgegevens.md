@@ -1,5 +1,5 @@
 ---
-title: Privacyrechten
+title: Betrokkenen kunnen een beroep doen op hun privacyrechten
 id: urn:nl:ak:ver:avg-09
 toelichting: Betrokkenen kunnen een beroep doen op hun privacyrechten.
 levenscyclus:

@@ -1,5 +1,5 @@
 ---
-title: Wettelijke grondslag
+title: Beschrijf de wettelijke grondslag voor de inzet van het algoritme
 id: urn:nl:ak:mtr:pba-05
 toelichting: Voor de inzet van het algoritme en de beoogde besluiten die genomen zullen worden op basis van het algoritme is een wettelijke grondslag. 
 vereiste:
@@ -18,7 +18,7 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-Voor de inzet van het algoritme en de beoogde besluiten die genomen zullen worden op basis van het algoritme is een wettelijke grondslag. 
+Beschrijf de wettelijke grondslag voor de inzet van het algoritme en de beoogde besluiten die genomen zullen worden op basis van het algoritme.
 
 ## Toelichting 
 - Analyseer of er een concrete wettelijke grondslag is die de inzet van het algoritme mogelijk maakt en deze inzet voldoende voorzienbaar maakt. 

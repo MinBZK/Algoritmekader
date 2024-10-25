@@ -1,5 +1,5 @@
 ---
-title: Formuleren doelstelling
+title: Beschrijf het doel van het algoritme
 id: urn:nl:ak:mtr:pba-02
 toelichting: Het doel en de eventuele subdoelen van het algoritme moeten zo specifiek mogelijk zijn geformuleerd, en waar mogelijk gekwantificeerd. 
 vereiste:

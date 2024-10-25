@@ -1,5 +1,5 @@
 ---
-title: Neem de ontwikkeling en gebruik van een algoritme of AI-systeem op in een privacyverklaring als persoonsgegevens worden verwerkt. 
+title: Vermeld het gebruik van persoonsgegevens in een privacyverklaring
 toelichting: Door in een privacyverklaring te vermelden welke persoonsgegevens worden verwerkt voor het gebruik van een algoritme of AI-systeem, wordt een betrokkene geïnformeerd over de verwerking van diens persoonsgegevens.
 vereiste:
 - avg-07-transparantie-bij-verwerken-persoonsgegevens

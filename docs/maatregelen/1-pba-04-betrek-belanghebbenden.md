@@ -1,5 +1,5 @@
 ---
-title: Betrek belanghebbenden
+title: Overleg regelmatig met belanghebbenden
 id: urn:nl:ak:mtr:pba-04
 toelichting: Breng in kaart welke belanghebbenden er zijn en betrek hen op verschillende momenten in de levenscyclus.
 vereiste:

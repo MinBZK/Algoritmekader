@@ -1,5 +1,5 @@
 ---
-title: Aanbieders van AI-systemen met een hoog risico voeren een conformiteitsbeoordelingsprocedure uit
+title: Hoog-risico AI-systemen worden pas geleverd of gebruikt na een conformiteitsbeoordelingsprocedure
 id: urn:nl:ak:ver:aia-14
 toelichting: Aanbieders van AI-systemen met een hoog risico zorgen ervoor dat voor het AI-systeem met een hoog risico een conformiteitsbeoordelingsprocedure wordt uitgevoerd voordat dit systeem in de handel wordt gebracht of in gebruik wordt gesteld
 levenscyclus:

@@ -1,5 +1,5 @@
 ---
-title: Transparantieverplichtingen
+title: AI-systemen worden zo ontworpen en gebruikt, dat mensen begrijpen wanneer zij met een AI-systeem communiceren en welke content gemaakt is door een AI-systeem
 id: urn:nl:ak:ver:aia-30
 toelichting: 
 levenscyclus:

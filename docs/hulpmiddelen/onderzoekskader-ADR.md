@@ -5,6 +5,7 @@ categorie:
 - toetsingskader 
 vereiste:
 - aia-06-technische-documentatie
+- 
 levenscyclus:
 - ontwerp
 - implementatie
@@ -55,6 +56,7 @@ richtlijnen van het ministerie van JenV, het [DPIA](DPIA.md) model Rijksoverheid
 de Guiding Principles Trustworthy AI Investigations van NOREA (beroepsvereniging IT-auditors
 Nederland). De bron van de betreffende risico’s en beheersmaatregelen is tevens opgenomen.
 
+Dit onderzoekskader is erg overkoepelend (net als het [toetsingskader van de Algemene Rekenkamer](toetsingskader-Algemene-Rekenkamer.md)). Er zijn dan ook veel maatregelen in het Algoritmekader gebaseerd op maatregelen die in het kader van de ADR staan. [Bekijk alle maatregelen van het Algoritmekader hier](../maatregelen/index.md).
 
 ## Auteur
 Het Onderzoekskader Algoritmes is ontwikkeld door de Auditdienst Rijk  

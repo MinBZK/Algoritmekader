@@ -2,7 +2,8 @@
 # vul hier een titel in voor deze maatregel
 title: Maak vereisten onderdeel van het programma van eisen bij een aanbesteding
 # geef hier een korte toelichting van deze maatregel
-toelichting: Door vereisten onderdeel te maken van het programma van eisen bij een aanbesteding, is het voor aanbieders duidelijk aan welke specifieke eisen een oplossing moet voldoen. Op basis hiervan kan een aanbieder een zo goed mogelijke aanbieding doen.  
+toelichting: Door vereisten onderdeel te maken van het programma van eisen bij een aanbesteding, is het voor aanbieders duidelijk aan welke specifieke eisen een oplossing moet voldoen. Op basis hiervan kan een aanbieder een zo goed mogelijke aanbieding doen.
+
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
 - aia-02-documentatie-beoordeling-niet-hoog-risico-ai
@@ -90,7 +91,7 @@ Maak vereisten onderdeel van het programma van eisen bij een aanbesteding
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Door vereisten onderdeel te maken van het programma van eisen bij een aanbesteding, is het voor aanbieders duidelijk aan welke specifieke eisen een oplossing moet voldoen. Op basis hiervan kan een aanbieder een zo goed mogelijke aanbieding doen.
+Door vereisten onderdeel te maken van het programma van eisen bij een aanbesteding, is het voor aanbieders duidelijk aan welke specifieke eisen een oplossing moet voldoen. Op basis hiervan kan een aanbieder een zo goed mogelijke aanbieding doen. Afhankelijk van de behoeftestelling kan het relevant zijn om bepaalde vereisten te verfijnen in het Programma van Eisen en aan te geven wanneer hieraan voldaan is, bijvoorbeeld met betrekking tot het transparantievereiste.
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
@@ -105,6 +106,7 @@ Door vereisten onderdeel te maken van het programma van eisen bij een aanbestedi
 |-----------------------------|
 | Algoritmekader | 
 | Hoe specificeer ik mijn vraag?](https://www.pianoo.nl/nl/inkopen-het-kort/hoe-zit-het-inkoopproces-elkaar/hoe-specificeer-ik-mijn-vraag) |
+|
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->

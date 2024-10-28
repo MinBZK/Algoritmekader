@@ -21,9 +21,9 @@ levenscyclus:
 onderwerp:
 - privacy-en-gegevensbescherming 
 rollen:
-- ethicus
-- jurist 
-- privacy-officer
+- beleid-en-advies
+- jurist
+- projectleider
 hide: navigation
 ---
 

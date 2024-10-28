@@ -19,9 +19,9 @@ levenscyclus:
 onderwerp:
 - governance  
 rollen:
-- ethicus
 - projectleider
-- opdrachtgever
+- beleid-en-advies
+- jurist
 hide: navigation
 ---
 

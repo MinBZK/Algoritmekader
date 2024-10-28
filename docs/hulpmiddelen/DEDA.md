@@ -4,18 +4,18 @@ toelichting: De Ethische Data Assistent (DEDA) helpt data-analisten, projectmana
 categorie: 
 - toolkit 
 vereiste:
-- zorgvuldigheidsbeginsel
+- awb-01-zorgvuldigheidsbeginsel
 levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
 onderwerp:
 - data
 - fundamentele-rechten
-# rollen:
-# - beleid-en-advies
-# - jurist 
-# - ontwikkelaar
-# - projectleider 
+rollen:
+- beleid-en-advies
+- jurist
+- ontwikkelaar
+- projectleider
 hide: navigation
 ---
 

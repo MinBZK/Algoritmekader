@@ -4,7 +4,7 @@ toelichting: De Auditdienst Rijk heeft een praktisch onderzoekskader ontwikkeld 
 categorie: 
 - toetsingskader 
 vereiste:
-- aia-06-technische-documentatie.md
+- aia-06-technische-documentatie
 levenscyclus:
 - ontwerp
 - implementatie

@@ -39,6 +39,7 @@ Het toetsingskader is in eerste instantie bedoeld als toetsinstrument voor audit
 ## Relevantie
 Het digitale toetsingskader 'Aandacht voor algoritmes' is ontwikkeld vanwege de toenemende maatschappelijke aandacht voor algoritmes en de behoefte aan een integraal instrument voor toetsing en analyse. Het is gebaseerd op bestaande informatie en raamwerken, zowel binnen het Rijk als door externe partijen zoals NOREA en grote accountantskantoren.
 
+Dit onderzoekskader is erg overkoepelend (net als het [onderzoekskader van de ADR](onderzoekskader-ADR.md)). Er zijn dan ook veel maatregelen in het Algoritmekader gebaseerd op maatregelen die in het kader van de Algemene Rekenkamer staan. [Bekijk alle maatregelen van het Algoritmekader hier](../maatregelen/index.md).
 
 ## Auteur
 Het Toetsingskader Algoritmes is ontwikkeld door de Algemene Rekenkamer 

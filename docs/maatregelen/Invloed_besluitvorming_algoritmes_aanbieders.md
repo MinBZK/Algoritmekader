@@ -1,6 +1,7 @@
 ---
-title: Bepaal in een aanbesteding of de output van het algoritme bepalende invloed heeft in een besluit richting personen
-toelichting: Ga na of algoritmes van een aanbieder een bepalende invloed hebben in een besluit richting personen en laat de aanbieder onderbouwen in hoeverre dit wel of niet het geval is. Maak de mate van menselijke tussenkomst onderdeel van de aanbesteding als ook de vaste beoordeling hiervan.
+title: Bepaal in een aanbesteding of algoritmes van een aanbieder bepalende invloed heeft in een besluit richting personen
+toelichting: Ga na of algoritmes van een aanbieder een bepalende invloed hebben in een besluit richting personen en laat de aanbieder onderbouwen in hoeverre dit wel of niet het geval is. 
+
 vereiste:
 - avg-10-recht-op-niet-geautomatiseerde-besluitvorming
 levenscyclus:

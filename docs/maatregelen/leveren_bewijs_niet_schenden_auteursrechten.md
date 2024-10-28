@@ -48,6 +48,7 @@ Laat de aanbieder(s) uitleggen en (aantoonbaar) onderbouwen of de output van een
 | Bron                        |
 |-----------------------------|
 |Algoritmekader|
+| [Advies Landsadvocaat Pels Rijcken over het gebruik van generatieve AI-tools door medewerkers van de Staat](https://www.rijksoverheid.nl/documenten/brieven/2023/10/10/1-advies-landsadvocaat-pels-rijcken) |
 
 ## Voorbeeld
 

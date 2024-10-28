@@ -5,29 +5,9 @@ title: Maak het leveren van bewijs voor het voldoen aan de vereiste onderdeel va
 toelichting: Door aanbieders bewijs te laten leveren dat zij voldoen aan de vereiste, kan worden beoordeeld in hoeverre daadwerkelijk wordt voldaan aan deze vereiste.
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
-- aia-28-recht-op-uitleg-ai-besluiten
-- aut-01-auteursrechten
-- dat-01-databankenwet
-- aia-04-risicobeoordeling-voor-jongeren-en-kwetsbaren
-- aia-01-ai-geletterdheid
-- aia-18-corrigerende-maatregelen-voor-non-conforme-ai
-- avg-08-wettelijke-verwerking-van-gevoelige-gegevens
-- grw-01-fundamentele-rechten
-- aia-11-systeem-voor-kwaliteitsbeheer
-- aia-05-data-kwaliteitscriteria
-- aia-29-beoordelen-gevolgen-grondrechten
-- grw-02-non-discriminatie
-- avg-03-minimale-verwerking-van-persoonsgegevens
-- avg-11-privacy-bij-ontwerp-bij-verwerking-van-persoonsgegevens
-- avg-10-recht-op-niet-geautomatiseerde-besluitvorming
-- aia-03-risicobeheersysteem
-- aia-09-menselijk-toezicht
-- aia-08-transparantie-aan-gebruiksverantwoordelijken
-- avg-07-transparantie-bij-verwerken-persoonsgegevens
-- aia-19-toegankelijkheidseisen
-- aia-20-verstrekken-van-informatie-op-verzoek
-- woo-01-recht-op-toegang-tot-publieke-informatie
-
+- aia-14-conformiteitsbeoordeling
+- aia-15-eu-conformiteitsverklaring
+- aia-16-ce-markering
 
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 
@@ -63,7 +43,7 @@ hide:
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Door de inschrijver/aanbieder bewijs te laten leveren dat deze voldoet aan de vereiste, kan worden beoordeeld door opdrachtgever in hoeverre daadwerkelijk wordt voldaan aan deze vereiste. Op deze manier worden inschrijvers/aanbieders aangespoord om te motiveren wat zij hebben gedaan om te voldoen aan de vereiste.  
+Het leveren van bewijs door aanbieder dat deze voldoet aan de vereisten draagt bij aan het kunnen beoordelen of een aanbieder geschikt is om mee te contractueren. Bij het leveren van bewijs kan worden gedacht aan het overhandigen van bijvoorbeeld een certificering of een EU-conformiteitsverklaring voor hoog risico AI-systemen. Daarbij is het relevant om te beoordelen in hoeverre er is voldaan aan geharmoniseerde standaarden. 
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

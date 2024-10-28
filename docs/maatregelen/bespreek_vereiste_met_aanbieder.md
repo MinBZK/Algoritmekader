@@ -1,6 +1,6 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Bespreek de vereiste die gelden voor een verantwoorde inzet van algoritmes met aanbieders.
+title: Bespreek de vereisten die gelden voor een verantwoorde inzet van algoritmes met aanbieders.
 # geef hier een korte toelichting van deze maatregel
 toelichting: Ga met aanbieder in gesprek over in hoeverre invulling is gegeven of kan worden gegeven aan de vereiste.
 

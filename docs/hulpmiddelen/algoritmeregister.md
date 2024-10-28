@@ -5,7 +5,7 @@ categorie:
 - register
 vereiste:
 - bzk-01-algoritmeregister
-maatregelen:
+maatregel:
 - neem_technische_documentatie_in_algoritmeregister
 - publiceren_in_algoritmeregister
 levenscyclus:

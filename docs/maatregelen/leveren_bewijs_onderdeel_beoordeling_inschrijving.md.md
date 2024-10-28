@@ -1,8 +1,8 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Maak het leveren van bewijs voor het voldoen aan de vereiste onderdeel van de beoordeling van een inschrijving
+title: Maak het leveren van bewijs voor het voldoen aan de vereiste onderdeel van de beoordeling van een inschrijving.
 # geef hier een korte toelichting van deze maatregel
-toelichting: Door aanbieders bewijs te laten leveren dat zij voldoen aan de vereiste, kan worden beoordeeld in hoeverre daadwerkelijk wordt voldaan aan deze vereiste.
+toelichting: Het leveren van bewijs door aanbieder dat deze voldoet aan de vereisten draagt bij aan het kunnen beoordelen of een aanbieder geschikt is om mee te contractueren.
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
 - aia-14-conformiteitsbeoordeling

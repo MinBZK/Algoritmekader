@@ -4,17 +4,16 @@ toelichting: Het Algoritmeregister is de plek waar overheden informatie over hun
 categorie: 
 - register
 vereiste:
-- algoritmeregister
+- bzk-01-algoritmeregister
+maatregelen:
+- neem_technische_documentatie_in_algoritmeregister
+- publiceren_in_algoritmeregister
 levenscyclus:
 - monitoring-en-beheer
 onderwerp:
 - transparantie
 rollen:
 - projectleider
-- gemandateerd-verantwoordelijke
-- privacy-officer
-- proceseigenaar
-- informatiebeheerder
 hide: navaigation
 ---
 

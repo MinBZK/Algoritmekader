@@ -10,7 +10,7 @@ levenscyclus:
 - probleemanalyse
 - ontwerp
 - verificatie-en-validatie
-- implementatie
+- monitoring-en-beheer
 onderwerp:
 - fundamentele-rechten
 - transparantie

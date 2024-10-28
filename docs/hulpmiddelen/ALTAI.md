@@ -46,7 +46,7 @@ De ALTAI is bedoeld voor zelfevaluatie. Het hulpmiddel is verankerd in de besche
 De ALTAI is bedoeld voor flexibele inzet: organisaties kunnen gebruikmaken van de relevante onderdelen van dit hulpmiddel voor een specifiek AI-systeem of er elementen aan toevoegen die zij passend achten, rekening houdend met de sector waarin zij opereren. Het helpt organisaties te begrijpen wat betrouwbare AI inhoudt, in het bijzonder welke risico's een AI-systeem zou kunnen meebrengen en hoe deze risico's kunnen worden geminimaliseerd terwijl de kansen van AI worden gemaximaliseerd. Organisaties halen het meeste waarde uit de ALTAI door de gestelde vragen uitgebreid te beantwoorden, die zijn bedoeld om zorgvuldige reflectie te stimuleren en passende vervolgacties aan te formuleren, en een organisatiecultuur te bevorderen die zich inzet voor de ontwikkeling van betrouwbare AI-systemen. Het vergroot het bewustzijn van de mogelijke impact van AI op de samenleving, het milieu, consumenten, werknemers en burgers (in het bijzonder kinderen en mensen die tot gemarginaliseerde groepen behoren). 
 
 ## Relevantie
-De ALTAI biedt houvast bij het evalueren van in hoeverre een betreffend AI-systeem voldoet aan de zeven vereisten van betrouwbare AI, zoals geformuleerd door de EU. Deze zeven vereisten en de ALTAI hebben de basis gevormd voor de AI-verordening. 
+De ALTAI biedt houvast bij het evalueren van in hoeverre een betreffend AI-systeem voldoet aan de zeven vereisten van betrouwbare AI, zoals geformuleerd door de EU. Deze zeven vereisten en de ALTAI hebben samen de basis gevormd voor de AI-verordening. 
 
 
 ## Auteur

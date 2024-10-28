@@ -15,7 +15,7 @@ vereiste:
 - grw-01-fundamentele-rechten
 - grw-02-non-discriminatie
 - aia-04-risicobeoordeling-voor-jongeren-en-kwetsbaren
-maatregelen:
+maatregel:
 - aselecte_steekproeven
 - voer_een_biasanalyse_uit
 hide: navigation

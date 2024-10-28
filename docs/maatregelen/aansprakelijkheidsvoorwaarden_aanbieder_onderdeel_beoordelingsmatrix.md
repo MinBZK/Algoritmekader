@@ -1,10 +1,10 @@
 ---
-title: Aansprakelijkheidsvoorwaarden worden beoordeeld in de aanbesteding 
-toelichting: Maak de aansprakelijkheidsvoorwaarden die een aanbieder ten aanzien van auteursrechten kan geven een vast onderdeel van de wedstrijd/inkoop/beoordeelingsmatrix als ook de vaste beoordeling hiervan. 
+title: Aansprakelijkheidsvoorwaarden van een aanbieder worden beoordeeld in de aanbesteding 
+toelichting: Maak de aansprakelijkheidsvoorwaarden die een aanbieder stelt ten aanzien van auteursrechten een vast onderdeel om te beoordelen in de aanbesteding. 
 vereiste:
 - aut-01-auteursrechten
 levenscyclus:
-- probleemanalyse
+- ontwerp
 - implementatie
 onderwerp:
 - publieke-inkoop
@@ -23,20 +23,17 @@ hide:
 
 ## Maatregel
 
-Maak de aansprakelijkheidsvoorwaarden die een aanbieder ten aanzien van auteursrechten kan geven een vast onderdeel van de wedstrijd/inkoop/beoordeelingsmatrix als ook de vaste beoordeling hiervan.
-
+Maak de aansprakelijkheidsvoorwaarden die een aanbieder stelt ten aanzien van auteursrechten een vast onderdeel om te beoordelen in de aanbesteding.
 
 ## Toelichting
 
-Eindgebruikers kunnen er niet altijd op vertrouwen, en ook niet (eenvoudig) nagaan, of datgene wat zij door middel van een algoritme of AI-systeem laten genereren, inbreuk maakt op rechten van derden.
-Hoe groot de kans is dat zij vanwege het gebruik van gegenereerde output aansprakelijk worden gesteld, is in het verlengde daarvan evenmin vast te stellen.
-Er zijn wel voorbeelden waarbij gebruikers voor een eventuele inbreuk aansprakelijk kunnen worden gesteld.
+Eindgebruikers van algoritmes kunnen er niet altijd op vertrouwen, of (eenvoudig) nagaan, of datgene wat zij door middel van een algoritme laten genereren, inbreuk maakt op rechten van anderen. Het is onwenselijk dat een eindgebruiker aansprakelijk wordt gesteld voor het maken van een inbreuk op rechten van derden, als deze gebruik maakt van algoritmes die worden aangeboden door aanbieders. Organisatie moeten daarom afspraken hierover maken met aanbieders.
 
-Op dit moment zijn ons (nog) geen gevallen of rechtszaken bekend waarin eindgebruikers (of hun werkgevers) aansprakelijk werden gesteld voor een inbreuk op het intellectuele-eigendomsrecht vanwege het gebruik van op basis van algoritme of AI gegenereerde inhoud.
-Feit is echter wel dat een dergelijke aansprakelijkstelling in voorkomende gevallen dus mogelijk zullen zijn, te meer nu de aanbieders van algoritmen en AI in hun algemene voorwaarden het risico voor aansprakelijkheid (waaronder vanwege inbreuken op intellectuele eigendom) volledig of grotendeels uitsluiten, of zelfs verlangen dat gebruikers hen vrijwaren voor de gevolgen van eventuele aansprakelijkstellingen.
+Hoe groot de kans is dat eindgebruikers vanwege het gebruik van algoritmes aansprakelijk worden gesteld, is ng onduidelijk. Er zijn wel voorbeelden waarbij eindgebruikers voor een eventuele inbreuk aansprakelijk kunnen worden gesteld.
 
-Maak een beoordeling in hoeverre de aansprakelijkheidsvoorwaarden van de aanbieder passend worden geacht gezien de toepassing.
-Maak een jurist onderdeel van de beoordeling hiervan.
+Op dit moment zijn (nog) geen gevallen of rechtszaken bekend waarin eindgebruikers (of hun werkgevers) aansprakelijk zijn gesteld voor een inbreuk op het intellectuele-eigendomsrecht vanwege het gebruik van op basis van algoritme. Feit is echter wel dat een dergelijke aansprakelijkstelling in voorkomende gevallen dus mogelijk zullen zijn, te meer nu de aanbieders van algoritmes in hun algemene voorwaarden het risico voor aansprakelijkheid volledig of grotendeels uitsluiten, of zelfs verlangen dat gebruikers hen vrijwaren voor de gevolgen van eventuele aansprakelijkstellingen.
+
+Het is daarom van belang om een beoordeling te maken in hoeverre de aansprakelijkheidsvoorwaarden van de aanbieder passend zijn. Maak een jurist onderdeel van de beoordeling.
 
 
 ## Bijbehorende vereiste(n)

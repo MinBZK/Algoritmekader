@@ -14,6 +14,17 @@ rollen:
 - contractbeheerder
 - inkoopadviseur
 - projectleider
+maatregel:
+- contractuele_afspraken_data_en_artefacten
+- getroffen_maatregelen_van_aanbieder_voorkomen_schending_auteursrechten
+- leveren_bewijs_niet_schenden_auteursrechten_output
+- leveren_bewijs_onderdeel_beoordeling_inschrijving
+- maak_vereiste_onderdeel_van_contractovereenkomst
+- maak_vereisten_voor_algoritmes_en_AI-systemen_onder_van_contractvoorwaarden
+- risico-analyse_informatiebeveiliging_leverancier
+- vaststellen_benodigde_kennisoverdracht_en_ondersteuning
+- vaststellen_passend_trainingsniveau_door_aanbieder
+- voer_een_data_beschikbaarheid_kwaliteit_en_toegankelijkheidsanalyse_uit
 hide: navigation
 ---
 

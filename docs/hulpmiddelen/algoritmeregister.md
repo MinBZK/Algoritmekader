@@ -14,6 +14,7 @@ onderwerp:
 - transparantie
 rollen:
 - projectleider
+- ontwikkelaar
 hide: navaigation
 ---
 

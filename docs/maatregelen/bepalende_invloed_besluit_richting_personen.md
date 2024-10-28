@@ -1,11 +1,11 @@
 ---
-title: Bepaal of de output bepalende invloed heeft in een besluit richting personen
-toelichting: Vergewis of het algoritme of AI-systeem overwegend bepalende invloed heeft in een besluit richting personen en laat aanbieder onderbouwen in hoeverre dit wel of niet het geval is. Maak de mate van menselijke tussenkomst onderdeel van de wedstrijd/inkoop/beoordeelingsmatrix als ook de vaste beoordeling hiervan
+title: Bepaal in een aanbesteding of de output van het algoritme bepalende invloed heeft in een besluit richting personen
+toelichting: Ga na of algoritmes van een aanbieder een bepalende invloed hebben in een besluit richting personen en laat de aanbieder onderbouwen in hoeverre dit wel of niet het geval is. Maak de mate van menselijke tussenkomst onderdeel van de aanbesteding als ook de vaste beoordeling hiervan.
 vereiste:
 - avg-10-recht-op-niet-geautomatiseerde-besluitvorming
 levenscyclus:
 - ontwikkelen
-- monitoring-en-beheer
+- implementatie
 onderwerp:
 - publieke-inkoop
 rollen:
@@ -23,13 +23,11 @@ hide:
 <!-- tags -->
 ## Maatregel
 
-Ga na of het algoritme of AI-systeem overwegend bepalende invloed heeft in een besluit richting personen en laat de aanbieder onderbouwen in hoeverre dit wel of niet het geval is.
-Maak de mate van menselijke tussenkomst onderdeel van de wedstrijd/inkoop/beoordeelingsmatrix als ook de vaste beoordeling hiervan
+Ga na of algoritmes van een aanbieder een bepalende invloed hebben in een besluit richting personen en laat de aanbieder onderbouwen in hoeverre dit wel of niet het geval is.
 
 ## Toelichting
 
-Maak een beoordeling in hoeverre de mate waarin menselijke tussenkomst is of kan worden gerealiseerd.
-Raadpleeg voor deze beoordeling verschillende experts, zoals een gebruiker, proceseigenaar, ethicus en jurist.
+Als overheidsorganisaties algoritmes willen gebruiken van aanbieders, dan zal bijvoorbeeld tijdens een aanbestedingsproces moeten worden beoordeeld in hoeverre deze algoritmes invloed hebben op besluitvormingprocessen van deze organisaties. Algoritmes kunnen namelijk gebruikers ondersteunen bij de totstandkoming van besluiten, maar ook de besluitvorming van gebruikers overnemen. De mate van menselijke tussenkomst speelt daarbij een belangrijk rol. Een opdrachtgever moet zelf bepalen welke algoritmes, gezien de specifieke context, wenselijk en toegestaan zijn. Vervolgens moet worden beoordeeld of de algoritmes die worden aangeboden door aanbieder daarbij aansluiten. Tijdens het aanbestedingsproces moeten daarom inzichten worden verkregen hoe de algoritmes van aanbieders functioneren om tot een beoordeling te kunnen komen.
 
 
 ## Bijbehorende vereiste(n)

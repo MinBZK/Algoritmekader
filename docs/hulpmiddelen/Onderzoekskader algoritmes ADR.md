@@ -7,14 +7,13 @@ vereiste:
 - aia-06-technische-documentatie.md
 levenscyclus:
 - ontwerp
+- implementatie
 - monitoring-en-beheer
-- verificatie-en-validatie
 onderwerp:
 - governance
 rollen:
 - projectleider
-- ethicus
-- jurist
+- beleid-en-advies
 hide: navigation
 ---
 

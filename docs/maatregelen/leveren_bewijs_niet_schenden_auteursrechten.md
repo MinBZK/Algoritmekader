@@ -33,11 +33,10 @@ Algoritmes worden veelal getraind aan de hand van een omvangrijke hoeveelheid da
 
 Onder auteursrechtjuristen wordt aangenomen dat het gebruik van auteursrechtelijke beschermde werken ter training van algoritmes (waarschijnlijk) een verveelvoudigingshandeling is die de rechthebbende kan verbieden. Dat betekent dat aanbieders van algoritmes het gebruik van auteursrechtelijk beschermd materiaal in de inputfase steeds zullen moeten kunnen legitimeren op grond van (a) toestemming van de rechthebbende(n) of (b) een in de wet neergelegde exceptie op het auteursrechtelijke verveelvoudigingsrecht.
 
-Laat de aanbieder(s) uitleggen en (aantoonbaar) onderbouwen op welke manier de trainingsdata is verkregen en of dit rechtmatig was. Maak een jurist onderdeel van de beoordeling hiervan. Overweeg om een bronvermelding te laten opnemen
+Laat de aanbieder(s) uitleggen en (aantoonbaar) onderbouwen op welke manier de trainingsdata is verkregen en of dit rechtmatig was. Laat de aanbieders(s) ook aantonen welke maatregelen er zijn getroffen om dit te voorkomen en ga hier eventueel over in gesprek. Maak een jurist onderdeel van de beoordeling hiervan. Overweeg om een bronvermelding te laten opnemen.
 
 ### Output
-Het is niet ondenkbaar dat met de output van algoritmes een auteursrechtelijke inbreuk kan worden gemaakt op werken van derden. 
-Laat de aanbieder(s) uitleggen en (aantoonbaar) onderbouwen of de output van een algoritme een (potentiële) inbreuk maakt op auteursrechten. Maak een jurist onderdeel van de beoordeling hiervan.
+Laat de aanbieder(s) uitleggen en (aantoonbaar) onderbouwen op welke manier de trainingsdata is verkregen en of dit rechtmatig was. Laat de aanbieders(s) ook aantonen welke maatregelen er zijn getroffen om dit te voorkomen. Maak een jurist onderdeel van de beoordeling hiervan. Overweeg om een bronvermelding te laten opnemen.
 
 ## Bijbehorende vereiste(n)
 
@@ -49,6 +48,7 @@ Laat de aanbieder(s) uitleggen en (aantoonbaar) onderbouwen of de output van een
 |-----------------------------|
 |Algoritmekader|
 | [Advies Landsadvocaat Pels Rijcken over het gebruik van generatieve AI-tools door medewerkers van de Staat](https://www.rijksoverheid.nl/documenten/brieven/2023/10/10/1-advies-landsadvocaat-pels-rijcken) |
+| ARVODI (24.7) en ARBIT (art 8.5 & 8.6) |
 
 ## Voorbeeld
 

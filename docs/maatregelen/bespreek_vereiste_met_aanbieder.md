@@ -1,8 +1,9 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Bespreek de vereiste met aanbieder of opdrachtnemer
+title: Bespreek de vereiste die gelden voor een verantwoorde inzet van algoritmes met aanbieders.
 # geef hier een korte toelichting van deze maatregel
-toelichting: Ga met aanbieder of opdrachtnemer in gesprek over in hoeverre invulling is gegeven of kan worden gegeven aan de vereiste. 
+toelichting: Ga met aanbieder in gesprek over in hoeverre invulling is gegeven of kan worden gegeven aan de vereiste.
+
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
 - aia-02-documentatie-beoordeling-niet-hoog-risico-ai
@@ -90,11 +91,13 @@ hide:
 
 ## Maatregel
 <!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
-Bespreek de vereiste met aanbieder. 
+Bespreek de vereiste die gelden voor een verantwoorde inzet van algoritmes met aanbieder.
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Ga met een aanbieder en/of met opdrachtnemers in gesprek over in hoeverre deze invulling heeft gegeven of gaat geven aan de vereiste. Op basis van nieuwe of gewijzigde wet- en regelgeving is het denkbaar dat een aanbieder van algoritmes of AI-systemen nog niet of niet meer voldoet aan deze vereiste. Indien van toepassing, laat de aanbieder inzichtelijk maken welke stappen deze gaat zetten om hieraan te gaan voldoen. Dit is ook relevant bij reeds afgesloten contracten.  
+Ga met een aanbieder in gesprek over in hoeverre zij invulling kunnen geven aan de vereisten die gelden voor een verantwoorde inzet van algoritmes. Dit kan worden gedaan bijvoorbeeld bij een informatiesessie met aanbieders voorafgaand aan een aanbesteding. Op basis van nieuwe of gewijzigde wet- en regelgeving of de totstandkoming van nieuwe standaard, is het denkbaar dat aanbieders van algoritmes nog niet of niet meer voldoet aan deze vereisten. Het is van belang om deze inzichten bijvoorbeeld tijdens een aanbesteding worden verkregen. Indien van toepassing, laat de aanbieder inzichtelijk maken welke stappen deze gaat zetten om hieraan te gaan voldoen. Dit is ook relevant bij reeds afgesloten contracten.
+
+Gebruik de AI-Beslisboom om te bepalen welke vereisten moeten worden besproken met aanbieders. 
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

@@ -1,6 +1,6 @@
 ---
 title: Discriminatie door risicoprofielen - Een mensenrechtelijk toetsingskader 
-toelichting: Om etnisch profileren in de praktijk te helpen voorkomen, heeft het College voor overheidsinstanties een mensenrechtelijk toetsingskader voor risicoprofielen ontwikkeld. Het biedt een overzicht van de juridische normen waar overheidsinstanties zich ten minste aan moeten houden als zij een risicoprofiel opstellen en inzetten zodat discriminatie op grond van etnische afkomst en nationaliteit wordt voorkomen.  
+toelichting: Om etnisch profileren in de praktijk te helpen voorkomen, heeft het College voor de Rechten van de Mens een mensenrechtelijk toetsingskader voor risicoprofielen ontwikkeld. Het biedt een overzicht van de juridische normen waar overheidsinstanties zich ten minste aan moeten houden als zij een risicoprofiel opstellen en inzetten zodat discriminatie op grond van etnische afkomst en nationaliteit wordt voorkomen.  
 categorie: 
 - toetsingskader 
 vereiste:
@@ -13,8 +13,8 @@ onderwerp:
 - bias-en-non-discriminatie
 - fundamentele-rechten 
 rollen:
-- ethicus
-- jurist 
+- beleid-en-advies
+- jurist
 hide: navigation
 ---
 

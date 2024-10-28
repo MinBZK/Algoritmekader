@@ -2,7 +2,7 @@
 title: De Ethische Data Assistent 
 toelichting: De Ethische Data Assistent (DEDA) helpt data-analisten, projectmanagers en beleidsmakers om samen ethische problemen in dataprojecten, datamanagement en databeleid te herkennen.
 categorie: 
-- toolkit 
+- handreiking 
 vereiste:
 - awb-01-zorgvuldigheidsbeginsel
 levenscyclus:

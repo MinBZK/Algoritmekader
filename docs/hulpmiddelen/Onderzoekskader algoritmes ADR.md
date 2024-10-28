@@ -2,7 +2,7 @@
 title: Onderzoekskader algoritmes Auditdienst Rijk 2023 
 toelichting: De Auditdienst Rijk heeft een praktisch onderzoekskader ontwikkeld om de beheersing van algoritmes in kaart te brengen. Het kader geeft inzicht in de risico’s die algoritmes met zich meebrengen en met welke maatregelen deze risico’s beheerst (kunnen) worden.
 categorie: 
-- onderzoekskader 
+- toetsingskader 
 vereiste:
 - aia-06-technische-documentatie.md
 levenscyclus:
@@ -10,11 +10,11 @@ levenscyclus:
 - monitoring-en-beheer
 - verificatie-en-validatie
 onderwerp:
-- governance 
+- governance
 rollen:
 - projectleider
 - ethicus
-- jurist 
+- jurist
 hide: navigation
 ---
 

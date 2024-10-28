@@ -16,15 +16,9 @@ onderwerp:
 - transparantie
 rollen:
 - projectleider
-- aanbieder
-- data-engineer
-- data-scientist
-- ethicus
-- gemandateerd-verantwoordelijke
+- ontwikkelaar
 - jurist
-- privacy-officer
-- proceseigenaar
-- security-officer
+- beleid-en-advies
 hide: navigation
 ---
 

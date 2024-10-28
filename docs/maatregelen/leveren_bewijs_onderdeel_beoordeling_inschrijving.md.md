@@ -1,6 +1,6 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Maak het leveren van bewijs voor het voldoen aan de vereiste onderdeel van de beoordeling van een inschrijving.
+title: Maak het leveren van bewijs voor het voldoen aan de vereisten onderdeel van de beoordeling van een inschrijving.
 # geef hier een korte toelichting van deze maatregel
 toelichting: Het leveren van bewijs door aanbieder dat deze voldoet aan de vereisten draagt bij aan het kunnen beoordelen of een aanbieder geschikt is om mee te contractueren.
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
@@ -43,7 +43,7 @@ hide:
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Het leveren van bewijs door aanbieder dat deze voldoet aan de vereisten draagt bij aan het kunnen beoordelen of een aanbieder geschikt is om mee te contractueren. Bij het leveren van bewijs kan worden gedacht aan het overhandigen van bijvoorbeeld een certificering of een EU-conformiteitsverklaring voor hoog risico AI-systemen. Daarbij is het relevant om te beoordelen in hoeverre er is voldaan aan geharmoniseerde standaarden. 
+Het leveren van bewijs door aanbieder dat de ontwikkelde algoritmes voldoen aan de vereisten, draagt bij aan het kunnen beoordelen of een aanbieder geschikt is om mee te contracteren. Bij het leveren van bewijs kan worden gedacht aan het overhandigen van bijvoorbeeld een certificering of een EU-conformiteitsverklaring voor hoog risico AI-systemen. Daarbij is het relevant om te beoordelen in hoeverre er is voldaan aan geharmoniseerde standaarden. Deze standaarden zijn momenteel in ontwikkeling. In de (nabije) toekomst kan dit op een vergelijkbare wijze als het moeten leveren van een NEN-ISO 27001 certificaat (voldoen aan informatiebeveiligingsvereisten) worden toegepast. 
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

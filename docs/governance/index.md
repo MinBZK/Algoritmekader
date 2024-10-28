@@ -39,18 +39,18 @@ Is er al een visie of beleid over hoe met AI en algortimes om te gaan? Is er al 
 #### Voorbeelden bij stap 1: Randvoorwaarden algoritmegovernance
 Deze maatregelen gaan over het grondwerk leggen om algortimegovernance mogelijk te maken. Kijk eens naar maatregelen zoals:
 
-* Stel een visie met betrekking tot AI en algoritmes op en zorg voor bestuurlijk bewustzijn en draagvlak.
-* Onderzoek wat er al is qua bestaande governancestructuren waar van te leren is en denk na over hoe organisatieonderdelen moeten samenwerken om goede algortimegovernance mogelijk te maken.
-* Breng het AI-volwassenheidsniveau in kaart om focus aan te brengen waar het nodig is.
-* Verken welke normen en standaarden er te gebruiken zijn.
+* [Stel een visie met betrekking tot AI en algoritmes op en zorg voor bestuurlijk bewustzijn en draagvlak.](link nog invoeren)
+* [Onderzoek wat er al is qua bestaande governancestructuren waar van te leren is en denk na over hoe organisatieonderdelen moeten samenwerken om goede algortimegovernance mogelijk te maken.](link nog invoeren)
+* [Breng het AI-volwassenheidsniveau in kaart om focus aan te brengen waar het nodig is.](link nog invoeren)
+* [Verken welke normen en standaarden er te gebruiken zijn.](link nog invoeren)
 
 
 #### Voorbeelden bij stap 2: Inrichten van algoritmegovernance
 We geven bij deze maatregelen meer voorbeelden en best practices voor het inrichten van algoritmegovernance. Kijk eens naar maatregelen (onderaan deze pagina) zoals:
 
-* Rollen en verantwoordelijkheden in algoritmegovernance
-* De AI-levenscyclus en go/no-go 'gates' 
-* Voorbeelden van governancestructuren zoals three lines of defence
+* [Rollen en verantwoordelijkheden in algoritmegovernance](link nog invoeren)
+* [De AI-levenscyclus en go/no-go 'gates'.](link nog invoeren)
+* [Voorbeelden van governancestructuren zoals three lines of defence](link nog invoeren)
 
 !!! note "Let op!"
     Voorbeelden bieden in hoofdlijnen een ‘blauwdruk’ voor hoe algoritmegovernance kan worden ingericht. 

@@ -1,5 +1,5 @@
 ---
-title: Het opstellen van een verwerkersovereenkomst met aanbieder is onderdeel van de aanbesteding als persoonsgegevens worden verwerkt bij het trainen of genereren van output door algoritmes van aanbieder.
+title: Het opstellen van een verwerkersovereenkomst met aanbieder is onderdeel van de aanbesteding als persoonsgegevens worden verwerkt of noodzakelijk zijn voor het trainen of genereren van output door algoritmes van aanbieder.
 toelichting: Een verwerkersovereenkomst moet worden opgesteld als persoonsgegevens worden verwerkt voor het trainen of het genereren van output door algoritmes van aanbieder.  
 vereiste:
 - avg-13-dpia-verplicht

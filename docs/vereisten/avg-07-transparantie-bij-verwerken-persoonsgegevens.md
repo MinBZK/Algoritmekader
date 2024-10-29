@@ -3,7 +3,7 @@ title: Transparantie bij verwerking persoonsgegevens
 id: urn:nl:ak:ver:avg-07
 toelichting: De verwerking van persoonsgegevens moet transparant zijn. 
 levenscyclus:
-- implementeren
+- implementatie
 - monitoring-en-beheer
 onderwerp:
 - privacy-en-gegevensbescherming

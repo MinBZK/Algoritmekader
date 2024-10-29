@@ -1,6 +1,6 @@
 ---
 title: De mate waarin aanbieder kennisoverdracht en ondersteuning bij implementatie biedt is onderdeel van de aanbesteding 
-toelichting: Laat de aanbieder aangeven welke mate van kennisoverdracht en ondersteuning bij de organisatorische implementatie onderdeel is van de aanbesteding en in hoeverre deze als opleiding of training zelfstandig herhaald gebruikt kan worden na implementatie als het systeem in productie c.q. in gebruik is. 
+toelichting: Laat de aanbieder aangeven welke mate van kennisoverdracht (opleiding en training) en ondersteuning bij de organisatorische implementatie nodig is om de beoogde algoritmes verantwoord te kunnen gebruiken.  
 vereiste:
 - aia-01-ai-geletterdheid
 levenscyclus:
@@ -22,15 +22,10 @@ hide:
 <!-- tags -->
 ## Maatregel
 
-Laat de aanbieder aangeven welke mate van kennisoverdracht en ondersteuning bij de organisatorische implementatie onderdeel is van de aanbesteding en in hoeverre deze als opleiding of training zelfstandig herhaald kan worden na implementatie als het systeem in productie c.q.
-in gebruik is.
-
+De mate waarin aanbieder kennisoverdracht en ondersteuning bij implementatie biedt is onderdeel van de aanbesteding 
 
 ## Toelichting
-
-Sommige algoritmen of AI-systemen zijn zeer specialistisch, hierbij is het van belang dat afspraken worden gemaakt in hoeverre ondersteuning bij het gebruik onderdeel is van de inkoop.
-Hierbij is ook van belang dit onderdeel geactualiseerd wordt gedurende de contractperiode i.v.m.
-de technologische ontwikkelingen.
+Laat de aanbieder aangeven welke mate van kennisoverdracht (opleiding en training) en ondersteuning bij de organisatorische implementatie nodig is om de beoogde algoritmes verantwoord te kunnen gebruiken. Beoordeel of dit voldoende is om voor een langere periode op een verantwoorde wijze gebruikt te kunnen maken van de algoritmes. 
 
 ## Bijbehorende vereiste(n)
 

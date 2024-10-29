@@ -2,13 +2,16 @@
 title: Beschrijf welke techniek gebruikt wordt voor de beoogde toepassing
 id: urn:nl:ak:mtr:owp-04
 toelichting: Beschrijf welke techniek gebruikt wordt voor de beoogde toepassing. 
-# vereiste: 
-# - avg-06-verantwoordingsplicht-rechtmatigheid
-# - awb-01-zorgvuldigheidsbeginsel
+vereiste: 
+- awb-01-zorgvuldigheidsbeginsel
+- aia-06-technische-documentatie
+- aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging
 levenscyclus: 
 - ontwerp
 onderwerp:
 - technische-robuustheid-en-veiligheid
+rollen:
+- ontwikkelaar
 hide:
 - navigation
 - toc

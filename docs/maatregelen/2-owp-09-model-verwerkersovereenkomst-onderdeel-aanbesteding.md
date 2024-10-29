@@ -11,7 +11,7 @@ onderwerp:
 - privacy-en-gegevensbescherming
 rollen:
 - projectleider
-- bestuur-en-advies
+- beleid-en-advies
 hide:
 - navigation
 - toc

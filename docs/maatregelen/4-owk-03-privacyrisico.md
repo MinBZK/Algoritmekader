@@ -6,7 +6,7 @@ vereiste:
 levenscyclus:
 - ontwerp
 - ontwikkelen
-- monitoren-en-beheer
+- monitoring-en-beheer
 onderwerp:
 - privacy-en-gegevensbescherming
 rollen:

@@ -71,6 +71,7 @@ Maak de vereiste onderdeel van Service Level Agreement
 | Bron                        |
 |-----------------------------|
 | [Onderzoekskader Algoritmes Auditdienst Rijk, SV.11](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)   
+[Toetsingskader Algoritmes Algemene Rekenkamer, 1.05](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) 
 | Algoritmekader |        
 
 ## Voorbeeld

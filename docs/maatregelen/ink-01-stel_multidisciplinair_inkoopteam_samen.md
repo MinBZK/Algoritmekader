@@ -8,10 +8,7 @@ vereiste:
   
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus:
-- probleemanalyse
 - ontwerp
-- verificatie-en-validatie
-- monitoring-en-beheer
 
 # vul hier de bouwblokken in die horen bij deze maatregel
 onderwerp: 

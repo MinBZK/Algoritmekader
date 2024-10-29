@@ -9,11 +9,9 @@ levenscyclus:
 onderwerp:
 - publieke-inkoop
 rollen:
-- aanbestedingsjurist
-- behoeftesteller
-- contractbeheerder
-- inkoopadviseur
+- jurist
 - projectleider
+- beleid-en-advies
 maatregel:
 - contractuele_afspraken_data_en_artefacten
 - getroffen_maatregelen_van_aanbieder_voorkomen_schending_auteursrechten

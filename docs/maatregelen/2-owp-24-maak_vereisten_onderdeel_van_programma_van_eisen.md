@@ -65,7 +65,7 @@ vereiste:
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 
 - ontwerp
-- implementatie
+
 # vul hier de bouwblokken in die horen bij deze maatregel
 onderwerp: 
 - publieke-inkoop

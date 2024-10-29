@@ -1,9 +1,9 @@
 ---
-title: Soorten algoritmes
+title: Over algoritmes
 summary: Uitleg van de verschillende soorten algoritmes waar je mee kunt werken. En het risico en de impact hiervan.
 ---
 
-# Soorten algoritmes
+# Over algoritmes
 Om te voldoen aan de vereisten, moet je weten met welk soort algoritme je werkt. Gaat het om simpele rekenregels of een AI-systeem? En wat voor impact hebben je algoritmes?
 
 ## Wanneer is het een algoritme?

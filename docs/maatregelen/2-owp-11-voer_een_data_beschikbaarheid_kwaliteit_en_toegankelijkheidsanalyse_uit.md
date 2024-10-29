@@ -10,7 +10,7 @@ vereiste:
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 
 - ontwerp
-- ontwikkelen
+
 # vul hier de bouwblokken in die horen bij deze maatregel
 onderwerp: 
 - publieke-inkoop
@@ -44,7 +44,9 @@ Voer voorafgaand aan een aanbesteding een data beschikbaarheids- en kwaliteitsan
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
 Het is van belang om voorafgaand aan een aanbesteding vast te stellen of de data die noodzakelijk is om een algoritme of AI-systeem te ontwikkelen beschikbaar is, gaat worden en of de data van voldoende kwaliteit is. Het is van belang om te onderzoeken of en hoe data vanuit de eigen organisatie of die van een aanbieder beschikbaar kan worden gesteld, kan worden opgeslagen en er goedkeuring kan worden gegeven voor het verwerken van de data. 
+
 De infrastructuur van de eigen organisatie en/of die van de aanbieder moeten van voldoende niveau zijn om de beoogde verwerkingen uit te kunnen voeren. 
+
 Een dergelijke analyse levert inzichten op welke problemen er eventueel op dit vlak kunnen ontstaan.
 
 ## Bijbehorende vereiste(n)

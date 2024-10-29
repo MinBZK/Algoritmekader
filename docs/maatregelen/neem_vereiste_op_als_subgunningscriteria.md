@@ -78,6 +78,7 @@ Door de vereiste op te nemen als subgunningscriteria, ontstaat een mogelijkheid 
 |-----------------------------|
 | Algoritmekader |  
 | [Keuze gunningscriterium en opstellen (sub)gunningscriteria](https://www.pianoo.nl/nl/inkoopproces/fase-1-voorbereiden/keuze-gunningscriterium-en-opstellen-subgunningscriteria) |
+| [Handreiking Beste prijs-kwaliteitsverhouding:de basis](https://www.pianoo.nl/nl/document/21647/handreiking-beste-prijs-kwaliteitverhouding-de-basis) |
 
 
 ## Voorbeeld

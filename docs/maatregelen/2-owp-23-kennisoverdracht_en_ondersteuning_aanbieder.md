@@ -5,7 +5,7 @@ vereiste:
 - aia-01-ai-geletterdheid
 levenscyclus:
 - ontwerp
-- implementatie
+
 onderwerp:
 - publieke-inkoop
 rollen:

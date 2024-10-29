@@ -6,7 +6,7 @@ vereiste:
 - aut-01-auteursrechten
 levenscyclus:
 - ontwerp
-- monitoring-en-beheer
+
 onderwerp:
 - publieke-inkoop
 rollen:

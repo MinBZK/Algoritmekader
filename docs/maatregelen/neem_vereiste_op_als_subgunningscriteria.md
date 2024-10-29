@@ -40,7 +40,7 @@ onderwerp:
 
 # geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn
 rollen:
-- projectontwikkelaar
+- ontwikkelaar
 hide:
 - navigation
 - toc

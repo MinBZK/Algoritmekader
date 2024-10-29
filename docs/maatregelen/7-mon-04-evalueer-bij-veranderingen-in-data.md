@@ -31,6 +31,7 @@ Daarom is het belangrijk om regelmatig te controleren en evalueren of:
 
 - de data van [voldoende kwaliteit is voor de beoogde toepassing](datakwaliteit.md)
 - of het algoritme nog [presteert in lijn met de vastgestelde doelen](functioneren_in_lijn_met_doeleinden.md)
+- de gegevens op de juiste en volledige manier worden verwerkt. 
 
 Zeker wanneer er gebruikt wordt gemaakt van informatie van derden, is het belangrijk om regelmatig te controleren of er veranderingen in de data zijn. Goede monitoring op datakwaliteit zorgt ervoor dat je voldoende controle hebt over de kwaliteit van de data, zelfs als je hiervoor afhankelijk bent van andere partijen. 
 
@@ -43,7 +44,7 @@ Door veranderingen in de data presteert het model niet meer zoals verwacht.
 
 ## Bronnen
 - [Onderzoekskader Auditdienst Rijk, DM.8](https://open.overheid.nl/documenten/61b54381-d331-40ed-8fce-b2883b195f25/file)
-- [Toetsingskader Algoritmes Algemene Rekenkamer, 1.02, 1.08, 2.08, 2.13](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) 
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 1.02, 1.08, 2.06, 2.08, 2.13](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) 
 
 ## Voorbeeld
 

@@ -8,7 +8,7 @@ vereiste:
 - awb-01-zorgvuldigheidsbeginsel
 levenscyclus:
 - implementatie
-- monitoren-en-beheer
+- monitoring-en-beheer
 onderwerp:
 - transparantie
 rollen:

@@ -42,7 +42,7 @@ Laat de aanbieder(s) uitleggen en (aantoonbaar) onderbouwen op welke manier de t
 Het is van belang dat de (rest)risico's inzichtelijk zijn gemaakt als er sprake is van een (potentiële) schending van auteursrechten. Laat een aanbieder deze risico's inzichtelijk maken, zodat aanbieder en gebruiksverantwoordelijke maatregelen kunnen treffen en handelen als dit nodig is. Beoordeel of deze rest(risico's) acceptabel zijn. 
 
 ### Contractovereenkomst
-Neem in de conceptovereenkomst op dat de aanbieder garandeert dat auteursrechten niet worden geschonden met de trainingsdata of output van het algoritme en dat hij dit gedurende de ontwikkeling en levensduur actief bewaakt.
+Neem in de conceptovereenkomst op dat de aanbieder garandeert dat auteursrechten niet worden geschonden met de trainingsdata of output van het algoritme en dat aanbieder dit gedurende de ontwikkeling en levensduur actief bewaakt.
 
 ## Bijbehorende vereiste(n)
 

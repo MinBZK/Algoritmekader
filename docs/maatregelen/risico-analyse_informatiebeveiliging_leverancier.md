@@ -1,6 +1,6 @@
 ---
-title: Voer een risico-analyse met de leverancier uit op het gebied van informatiebeveiliging bij een uitbestedingstraject
-toelichting: Het is van belang dat een risico-analyse op het gebied van informatiebeveiliging wordt uitgevoerd met een aanbieder van algoritmes of AI-systemen in het geval van een uitbestedingstraject.
+title: Voer een risico-analyse met de aanbieder uit op het gebied van informatiebeveiliging bij een uitbestedingstraject
+toelichting: Het is van belang dat een risico-analyse op het gebied van informatiebeveiliging wordt uitgevoerd met een aanbieder van algorites in het geval van een uitbestedingstraject.
 vereiste:
 - bio-01-beveiliging-informatie-en-informatiesystemen
 levenscyclus:
@@ -33,15 +33,10 @@ hide:
 Voer een risico-analyse uit op het gebied van informatiebeveiliging bij een uitbestedingstraject
 
 ## Toelichting
-- Stel vast of een leverancier voldoet aan de Baseline Informatiebeveiliging Overheid.
-- Bespreek de informatiebeveiligingseisen met een eventuele leverancier die verband houden met de beschikbaarheid, integriteit en vertrouwelijkheid van de informatie en de informatiesystemen.
-- Bepaal of er, mede gezien de inzet van algoritmes en AI-systemen, aanvullende beveiligingsmaatregelen (door de leverancier of opdrachtgever) moeten worden getroffen om deze te beschermen.
+- Stel vast of een aanbieder voldoet aan de Baseline Informatiebeveiliging Overheid.
+- Bespreek de informatiebeveiligingseisen met aanbieder die verband houden met de beschikbaarheid, integriteit en vertrouwelijkheid van de informatie en de informatiesystemen.
+- Bepaal of er, mede gezien de inzet van algoritmes, aanvullende beveiligingsmaatregelen (door de aanbieder of opdrachtgever) moeten worden getroffen om deze te beschermen.
 
-
-
-
-## Risico
-Wanneer een (externe) leverancier beveiligingseisen niet op orde heeft, is er een risico op de BIV (beschikbaarheid, integriteit en vertrouwelijkheid) van het algoritme en/of de data.
 
 ## Bijbehorende vereiste(n)
 

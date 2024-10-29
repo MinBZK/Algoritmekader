@@ -30,11 +30,12 @@ theme:
 
 nav:
     - Home: index.md
-    - Over het algoritmekader: 
-        - overhetalgoritmekader/index.md
-        - overhetalgoritmekader/soorten-algoritmes.md
-        - overhetalgoritmekader/definities.md
-        - overhetalgoritmekader/CONTRIBUTING.md
+    - Over algoritmes: 
+        - over-algoritmes/index.md
+        - over-algoritmes/ai-verordening.md
+        - over-algoritmes/beslisboom.md
+        - over-algoritmes/definities.md
+        - over-algoritmes/CONTRIBUTING.md
     - Governance:
         - governance/index.md
         - Huidige situatie:

@@ -60,7 +60,7 @@ vereiste:
 
 levenscyclus: 
 - ontwerp
-- implementatie
+
 onderwerp: 
 - publieke-inkoop
 rollen:

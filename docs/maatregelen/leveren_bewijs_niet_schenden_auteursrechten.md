@@ -38,6 +38,9 @@ Laat de aanbieder(s) uitleggen en (aantoonbaar) onderbouwen op welke manier de t
 ### Output
 Laat de aanbieder(s) uitleggen en (aantoonbaar) onderbouwen op welke manier de trainingsdata is verkregen en of dit rechtmatig was. Laat de aanbieders(s) ook aantonen welke maatregelen er zijn getroffen om dit te voorkomen. Maak een jurist onderdeel van de beoordeling hiervan. Overweeg om een bronvermelding te laten opnemen.
 
+### Risicomanagement
+Het is van belang dat de (rest)risico's inzichtelijk zijn gemaakt als er sprake is van een (potentiële) schending van auteursrechten. Laat een aanbieder deze risico's inzichtelijk maken, zodat aanbieder en gebruiksverantwoordelijke maatregelen kunnen treffen en handelen als dit nodig is.
+
 ## Bijbehorende vereiste(n)
 
 <!-- list_vereisten_on_maatregelen_page -->

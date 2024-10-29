@@ -6,7 +6,7 @@ vereiste:
 - avg-10-recht-op-niet-geautomatiseerde-besluitvorming
 levenscyclus:
 - ontwikkelen
-- implementatie
+
 onderwerp:
 - publieke-inkoop
 rollen:

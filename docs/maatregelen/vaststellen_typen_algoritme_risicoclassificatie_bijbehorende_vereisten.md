@@ -1,6 +1,6 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Stel vast om welke type algoritme het gaat, de bijbehorende risicoclassificatie en welke vereisten hierop van toepassing zijn.
+title: Stel vast om welke type algoritme het gaat, wat de bijbehorende risicoclassificatie is en welke vereisten hierop van toepassing zijn.
 # geef hier een korte toelichting van deze maatregel
 toelichting: Het verschilt per type algoritme welke vereisten hierop van toepassing zijn en gebruiksverantwoordelijke en aanbieder aan moeten voldoen. Dit is mede afhankelijk van de bijbehorende risicoclassificatie.  
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
@@ -26,7 +26,7 @@ hide:
 
 ## Maatregel
 <!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
-Stel vast of het gaat om een algoritme en/of AI-systeem en wat de bijbehorende risicoclassificatie is om te bepalen welke vereisten hierop van toepassing zijn. 
+Stel vast om welke type algoritme het gaat, wat de bijbehorende risicoclassificatie is en welke vereisten hierop van toepassing zijn.
 
 Deze stap is van groot belang, omdat dit ook bepalend is welke contractuele verplichtingen moeten worden gecreëerd tussen opdrachtgever en opdrachtnemer/aanbieder. Binnen het inkoopproces zal dit bij de behoeftestelling inzichtelijk moeten worden gemaakt. 
 

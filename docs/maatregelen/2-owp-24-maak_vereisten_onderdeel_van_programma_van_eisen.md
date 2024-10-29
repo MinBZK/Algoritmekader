@@ -105,7 +105,7 @@ Door vereisten onderdeel te maken van het programma van eisen bij een aanbestedi
 | Bron                        |
 |-----------------------------|
 | Algoritmekader | 
-| Hoe specificeer ik mijn vraag?](https://www.pianoo.nl/nl/inkopen-het-kort/hoe-zit-het-inkoopproces-elkaar/hoe-specificeer-ik-mijn-vraag) |
+| {Hoe specificeer ik mijn vraag?](https://www.pianoo.nl/nl/inkopen-het-kort/hoe-zit-het-inkoopproces-elkaar/hoe-specificeer-ik-mijn-vraag) |
 |
 
 ## Voorbeeld

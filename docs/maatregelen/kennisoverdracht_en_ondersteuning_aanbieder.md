@@ -27,6 +27,8 @@ Laat de aanbieder aangeven welke mate van kennisoverdracht (opleiding en trainin
 ## Toelichting
 Beoordeel of de kennisoverdracht en ondersteuning van aanbieder voldoende is om voor een langere periode zelfstandig op een verantwoorde wijze gebruikt te kunnen maken van de algoritmes.
 
+Laat de aanbieder aangeven op welk niveau de noodzakelijkerwijs te leveren trainingen passend is voor het beoogde gebruik, waarbij de opdrachtgever vooraf inzicht geeft in het bestaande niveau, zodat een aanbieder concreet kan zijn over eventuele verschillen tussen beiden.
+
 ## Bijbehorende vereiste(n)
 
 <!-- list_vereisten_on_maatregelen_page -->

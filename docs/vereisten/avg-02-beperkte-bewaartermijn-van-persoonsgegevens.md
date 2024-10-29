@@ -6,7 +6,7 @@ levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
 - ontwikkelen
-- uitfasering
+- uitfaseren
 onderwerp:
 - privacy-en-gegevensbescherming
 rollen:

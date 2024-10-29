@@ -47,7 +47,9 @@ Stel vast dat wetgeving en (lokaal) beleid correct is vertaald naar de uitvoerin
 Een beslissing of besluit wordt niet conform wetgeving genomen en is daarmee onrechtmatig, als geen goede vertaling wordt gemaakt van wetgeving naar het algoritme. 
 
 ## Bron
-[Wetsanalyse](https://wendbarewetsuitvoering.pleio.nl/page/view/918f9a63-4383-410e-b526-4b8fb67b1c40/het-boek-wetsanalyse)
+- [Wetsanalyse](https://wendbarewetsuitvoering.pleio.nl/page/view/918f9a63-4383-410e-b526-4b8fb67b1c40/het-boek-wetsanalyse)
+- [Onderzoekskader Auditdienst Rijk, DM.15](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 2.05](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 
 ## Voorbeeld
 [Handleiding Wetanalyse](https://wendbarewetsuitvoering.pleio.nl/attachment/805680a2-1c37-4831-bbfb-2d602ca7d65c) 

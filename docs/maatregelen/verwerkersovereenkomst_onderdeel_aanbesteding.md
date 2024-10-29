@@ -25,7 +25,7 @@ Het opstellen van een verwerkersovereenkomst met aanbieder is onderdeel van de a
 
 ## Toelichting
 
-- Een verwerkersovereenkomst moet worden opgesteld als persoonsgegevens worden verwerkt voor het trainen of het genereren van output door algoritmes van aanbieder. Met een verwerkersovereenkomst worden een aantal afspraken schriftelijk vastgelegd het bij de verwerking van persoonsgegevens. Het gaat om de volgende zaken:
+Een verwerkersovereenkomst moet worden opgesteld als persoonsgegevens worden verwerkt voor het trainen of het genereren van output door algoritmes van aanbieder. Met een verwerkersovereenkomst worden een aantal afspraken schriftelijk vastgelegd het bij de verwerking van persoonsgegevens. Het gaat om de volgende zaken:
 
 - Algemene beschrijving. Een omschrijving van het onderwerp, de duur, de aard en het doel van de verwerking, het soort persoonsgegevens, de categorieën van betrokkenen en uw rechten en verplichtingen als verwerkingsverantwoordelijke.
 

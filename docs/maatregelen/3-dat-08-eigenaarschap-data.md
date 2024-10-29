@@ -1,15 +1,15 @@
 ---
 title: Controle of eigenaarschap over de data
-toelichting:  
+toelichting: De organisatie heeft volledige controle of eigenaarschap over de data. Wanneer dit niet mogelijk is, zijn afspraken gemaakt om de functionele eisen te waarborgen.
 vereiste:
-- 
+- aia-05-data-kwaliteitscriteria
 levenscyclus:
 - dataverkenning-en-datapreparatie
 onderwerp:
 - data
 - publieke-inkoop
 # rollen:
-# - ontwikkelaar
+# - projectleider
 hide:
 - navigation
 - toc

@@ -7,7 +7,7 @@ vereiste:
 - aia-13-bewaartermijn-voor-gegenereerde-logs
 levenscyclus:
 - ontwikkelen
-- monitoren-en-beheer
+- monitoring-en-beheer
 onderwerp:
 - technische-robuustheid-en-veiligheid
 rollen:

@@ -2,7 +2,7 @@
 # vul hier een titel in voor deze maatregel
 title: Maak vereisten onderdeel van (sub)gunningscriteria bij gunningscriteria beste prijs-kwaliteitverhouding.
 # geef hier een korte toelichting van deze maatregel
-toelichting: Door een vereiste onderdeel te maken van een (sub)gunningscriteria, ontstaat een mogelijkheid voor aanbieders om zich te onderscheiden van andere aanbieders.
+toelichting: Door een vereiste onderdeel te maken van een (sub)gunningscriteria, ontstaat een mogelijkheid voor aanbieders om zich te onderscheiden van andere aanbieders. Dit kan zorgen voor een extra stimulatie op kwaliteitsaspecten van algoritmes. 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
 - aia-28-recht-op-uitleg-ai-besluiten
@@ -63,7 +63,10 @@ Maak vereisten onderdeel van (sub)gunningscriteria bij gunningscriteria beste pr
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Door een vereiste onderdeel te maken van een (sub)gunningscriteria, ontstaat een mogelijkheid voor aanbieders om zich te onderscheiden van andere aanbieders. In de context van algoritmes is dit in het bijzonder relevant, bijvoorbeeld in relatie tot vereisten als non-discriminatie, eerbiedigen fundamentele rechten of het verbod op schenden auteursrechten. Door vereisten te vertalen naar een subgunningscriteria, kan een inhoudelijke beoordeling worden gemaakt in hoeverre een aanbieder echt voldoet aan deze vereisten. 
+- Door een vereiste onderdeel te maken van een (sub)gunningscriteria, ontstaat een mogelijkheid voor aanbieders om zich te onderscheiden van andere aanbieders.
+- Dit kan zorgen voor een extra stimulatie op kwaliteitsaspecten van algoritmes
+- In de context van algoritmes is dit in het bijzonder relevant, bijvoorbeeld in relatie tot vereisten als non-discriminatie, eerbiedigen fundamentele rechten of het verbod op schenden auteursrechten. 
+- Door vereisten te vertalen naar een (sub)gunningscriteria, kan een inhoudelijke beoordeling worden gemaakt in hoeverre een aanbieder voldoet aan deze vereisten.
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

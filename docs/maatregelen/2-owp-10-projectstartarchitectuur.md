@@ -11,9 +11,11 @@ levenscyclus:
 - verificatie-en-validatie
 - implementatie
 onderwerp:
+- publieke-inkoop
+- technische-robuustheid-en-veiligheid
+rollen:
 - projectleider
 - beleid-en-advies
-  
 hide:
 - navigation
 - toc

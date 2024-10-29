@@ -10,7 +10,7 @@ vereiste:
 levenscyclus:
 - ontwerp
 - implementatie
-- monitoren-en-beheer
+- monitoring-en-beheer
 onderwerp:
 - menselijke-controle
 - governance

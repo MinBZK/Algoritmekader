@@ -1,5 +1,5 @@
 ---
-title: De mate waarin aanbieder kennisoverdracht en ondersteuning bij implementatie biedt is onderdeel van de aanbesteding 
+title: De mate waarin aanbieder kennisoverdracht en ondersteuning bij implementatie van algoritmes biedt is onderdeel van de aanbesteding 
 toelichting: Laat de aanbieder aangeven welke mate van kennisoverdracht (opleiding en training) en ondersteuning bij de organisatorische implementatie nodig is om de beoogde algoritmes verantwoord te kunnen gebruiken.  
 vereiste:
 - aia-01-ai-geletterdheid

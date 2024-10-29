@@ -26,7 +26,9 @@ hide:
 
 ## Maatregel
 <!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
-Stel vast of het gaat om een algoritme en/of AI-systeem en wat de bijbehorende risicoclassificatie is om te bepalen welke vereisten hierop van toepassing zijn.
+Stel vast of het gaat om een algoritme en/of AI-systeem en wat de bijbehorende risicoclassificatie is om te bepalen welke vereisten hierop van toepassing zijn. 
+
+Deze stap is van groot belang, omdat dit ook bepalend is welke contractuele verplichtingen moeten worden gecreëerd tussen opdrachtgever en opdrachtnemer/aanbieder. Binnen het inkoopproces zal dit bij de behoeftestelling inzichtelijk moeten worden gemaakt. 
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->

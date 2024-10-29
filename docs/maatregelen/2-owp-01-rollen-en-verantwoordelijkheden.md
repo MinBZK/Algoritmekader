@@ -1,6 +1,6 @@
 ---
 title: Beschrijf de rollen en verantwoordelijkheden in een RACI-matrix
-id: urn:nl:ak:mtr:owp:01
+id: urn:nl:ak:mtr:owp-01
 toelichting: Stel een RACI-matrix op waarbij de rollen en verantwoordelijkheden worden beschreven en toebedeeld.
 vereiste: 
 - avg-06-verantwoordingsplicht-rechtmatigheid

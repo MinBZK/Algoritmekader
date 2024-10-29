@@ -1,5 +1,6 @@
 ---
 title: Bescherm persoonsgegevens door data te anonimiseren, pseudonimiseren of te aggregeren
+id: urn:nl:ak:mtr:dat-05
 toelichting: Pas maatregelen toe als pseudonimiseren, anonimisering of aggregeren van persoonsgegevens bij het verwerken van de data. 
 vereiste:
 - avg-03-minimale-verwerking-van-persoonsgegevens

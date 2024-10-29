@@ -1,5 +1,6 @@
 ---
 title: Controleer de auteursrechten van eigen data
+id: urn:nl:ak:mtr:dat-06
 toelichting: Controleer of eventueel door de eigen organisatie verstrekte data binnen of buiten auteursrechten vallen. Bij voorkeur blijven de data eigendom van de (verstrekkende) overheidsorganisatie. 
 vereiste:
 - aut-01-auteursrechten

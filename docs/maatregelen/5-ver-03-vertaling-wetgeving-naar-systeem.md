@@ -1,5 +1,6 @@
 ---
 title: Controleer regelmatig of het algoritme voldoet aan alle wetten en regels en het eigen beleid
+id: urn:nl:ak:mtr:ver-03
 toelichting: Wet- en regelgeving of beleid bevat de basisregels voor algoritmes en AI-systemen. Het is van belang dat een goede vertaling wordt gemaakt van deze regels naar het algoritme of AI-systeem.
 vereiste:
 - awb-01-zorgvuldigheidsbeginsel

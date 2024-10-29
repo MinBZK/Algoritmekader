@@ -1,5 +1,6 @@
 ---
 title: Maak waardevolle data vindbaar, toegankelijk, interoperabel en herbruikbaar (FAIR) binnen en buiten de eigen organisatie.
+id: urn:nl:ak:mtr:dat-02
 toelichting: Maak waardevolle data vindbaar, toegankelijk, interoperabel en herbruikbaar (FAIR) binnen en buiten de eigen organisatie.
 levenscyclus:
   - dataverkenning-en-datapreparatie

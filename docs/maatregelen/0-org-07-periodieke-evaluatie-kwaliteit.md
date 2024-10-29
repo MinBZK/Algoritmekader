@@ -1,5 +1,6 @@
 ---
 title: Controleer en verbeter regelmatig de kwaliteit van het algoritme
+id: urn:nl:ak:mtr:org-07
 toelichting: Bij kwaliteit kan worden gedacht aan doeltreffenheid, doelmatigheid, betrouwbaarheid en accuraatheid (geschiktheid) en non-discriminatie.
 vereiste: 
 - aia-11-systeem-voor-kwaliteitsbeheer

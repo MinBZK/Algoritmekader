@@ -1,5 +1,6 @@
 ---
 title: Organiseer menselijke controle van het algoritme
+id: urn:nl:ak:mtr:imp-03
 toelichting: Als algoritmes of AI-systemen worden ingezet om te ondersteunen bij het nemen van beslissingen en besluiten door overheidsorganisaties, kan het noodzakelijk zijn om menselijke tussenkomst in te richten om foutieve output te signaleren en te corrigeren. 
 vereiste:
 - avg-10-recht-op-niet-geautomatiseerde-besluitvorming

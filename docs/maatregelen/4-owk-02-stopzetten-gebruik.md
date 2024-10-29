@@ -1,5 +1,6 @@
 ---
 title: Maak een noodplan voor het stoppen van het algoritme
+id: urn:nl:ak:mtr:owk-02
 toelichting: Als blijkt dat het algoritme of AI-systeem onjuist functioneert, dan moeten (technische) maatregelen zijn getroffen waarmee het gebruik kan worden stopgezet.
 vereiste: 
 - aia-18-corrigerende-maatregelen-voor-non-conforme-ai

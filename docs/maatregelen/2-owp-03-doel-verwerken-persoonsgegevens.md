@@ -1,6 +1,6 @@
 ---
 title: Beschrijf voor welk doel het algoritme persoonsgegevens gebruikt en waarom dit mag
-id: urn:nl:ak:mtr:owp:03
+id: urn:nl:ak:mtr:owp-03
 toelichting: Persoonsgegevens mogen alleen verzameld worden voor een ‘welbepaald, uitdrukkelijk omschreven en gerechtvaardigd’ doel. De verwerking van persoonsgevens door het algoritme is tevens verenigbaar met het oorspronkelijke doel (doelbinding).
 vereiste:
 - avg-01-persoonsgegevens-worden-rechtmatig-verwerkt

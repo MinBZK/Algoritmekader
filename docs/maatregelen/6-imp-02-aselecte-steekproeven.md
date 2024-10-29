@@ -1,6 +1,7 @@
 ---
 # vul hier een titel in voor deze maatregel
 title: Doe aselecte steekproeven om algoritmes met 'risicogestuurde selectie’ te controleren
+id: urn:nl:ak:mtr:imp-02
 # geef hier een korte toelichting van deze maatregel
 toelichting: Zorg dat een risicogestuurde selectie niet alleen gemaakt wordt op basis van een algoritme, maar dat er ook willekeurige gevallen toegevoegd worden aan de selectie. Deze aselecte steekproeven kunnen gebruikt worden om modellen te onderhouden.
 vereiste:

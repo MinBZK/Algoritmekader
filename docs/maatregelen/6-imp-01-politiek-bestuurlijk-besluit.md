@@ -1,5 +1,6 @@
 ---
 title: Maak een openbaar besluit over de inzet van het algoritme
+id: urn:nl:ak:mtr:imp-01
 toelichting: Door een politiek-bestuurlijk besluit te nemen over de inzet van een impactvol algoritme of hoog risico AI-systeem, wordt een afweging en keuze gemaakt over de wenselijkheid, haalbaarheid, transparantie en eventueel de mate van onbewuste vooringenomheid van het betreffende algoritme of AI-systeem. Een openbaar besluit draagt ook bij aan de controleerbaarheid van een overheidsorganisatie. 
 vereiste:
 - awb-01-zorgvuldigheidsbeginsel

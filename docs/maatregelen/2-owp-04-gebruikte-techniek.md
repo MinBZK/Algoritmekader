@@ -1,6 +1,6 @@
 ---
 title: Beschrijf welke techniek gebruikt wordt voor de beoogde toepassing
-id: urn:nl:ak:mtr:owp:04
+id: urn:nl:ak:mtr:owp-04
 toelichting: Beschrijf welke techniek gebruikt wordt voor de beoogde toepassing. 
 # vereiste: 
 # - avg-06-verantwoordingsplicht-rechtmatigheid

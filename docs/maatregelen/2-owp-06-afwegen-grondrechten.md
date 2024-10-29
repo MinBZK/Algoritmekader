@@ -1,6 +1,7 @@
 ---
 # vul hier een titel in voor deze maatregel
 title: Inventariseer welke grondrechten het algoritme kan schenden en maak een belangenafweging
+id: urn:nl:ak:mtr:owp-06
 # geef hier een korte toelichting van deze maatregel
 toelichting: Afwegen grondrechten
 vereiste:
@@ -44,11 +45,11 @@ Doorloop in lijn met Deel 4 van het [Impact Assessment Mensenrechten en Algoritm
 1. Breng in kaart welke grondrechten geraakt kunnen worden door de inzet van het algoritme. Hiervoor kan [bijlage 1 uit het Impact Assessment Mensenrechten en Algoritmes](../instrumenten/IAMA.md) gebruikt worden.
 2. Als dat het geval is, is het allereerst van belang om te controleren of hiervoor specifieke wetgeving is waar de inzet van het algoritme aan moet voldoen.
 3. Bepaal hoe zwaar de geindentificeerde grondrechten worden geraakt door het beoogde algoritme.
-4. Bepaal hoe [doeltreffend/effectief](functioneren_in_lijn_met_doeleinden.md) het algoritme in de praktijk is.
-5. Bepaal of de inzet van het algoritme noodzakelijk is om het [beoogde doel](formuleren_doelstelling.md) te bereiken. Zijn er alternatieven? Of zijn er mitigerende maatregelen die genomen kunnen worden waardoor grondrechten niet of minder worden geraakt en eventuele nadelige gevolgen verzacht kunnen worden?
-6. Gegeven alle voorgaande stappen, bepaal of de inzet van het algoritme en proportioneel is om het [beoogde doel](formuleren_doelstelling.md) te bereiken. Wegen de voordelen op tegen de nadelen?
+4. Bepaal hoe [doeltreffend/effectief](5-ver-01-functioneren-in-lijn-met-doeleinden.md) het algoritme in de praktijk is.
+5. Bepaal of de inzet van het algoritme noodzakelijk is om het [beoogde doel](1-pba-02-formuleren-doelstelling.md) te bereiken. Zijn er alternatieven? Of zijn er mitigerende maatregelen die genomen kunnen worden waardoor grondrechten niet of minder worden geraakt en eventuele nadelige gevolgen verzacht kunnen worden?
+6. Gegeven alle voorgaande stappen, bepaal of de inzet van het algoritme en proportioneel is om het [beoogde doel](1-pba-02-formuleren-doelstelling.md) te bereiken. Wegen de voordelen op tegen de nadelen?
 
-Het is van belang voldoende [belanghebbenden te betrekken](betrek_belanghebbenden.md) bij het doorlopen van deze stappen om te zorgen dat alle eventueel nadelige aspecten van het in te zetten algoritme worden meegenomen. 
+Het is van belang voldoende [belanghebbenden te betrekken](1-pba-04-betrek-belanghebbenden.md) bij het doorlopen van deze stappen om te zorgen dat alle eventueel nadelige aspecten van het in te zetten algoritme worden meegenomen. 
 Documenteer de doorlopen stappen en leg de keuzes en afwegingen goed vast. 
 
 !!! note "Opmerking"

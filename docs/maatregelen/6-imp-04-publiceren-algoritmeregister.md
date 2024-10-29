@@ -1,5 +1,6 @@
 ---
 title: Publiceer impactvolle algoritmes en hoog-risico-AI-systemen in het Algoritmeregister
+id: urn:nl:ak:mtr:imp-04
 toelichting: Publiceer het algoritme in het Algoritmeregister.
 vereiste:
 - bzk-01-algoritmeregister

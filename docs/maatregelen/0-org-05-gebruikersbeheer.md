@@ -1,5 +1,6 @@
 ---
 title: Maak afspraken over het beheer van gebruikers
+id: urn:nl:ak:mtr:org-05
 toelichting: Richt gebruikersbeheer in, waarmee bepaald wordt wie toegang heeft tot wat.
 vereiste:
 - bio-01-beveiliging-informatie-en-informatiesystemen

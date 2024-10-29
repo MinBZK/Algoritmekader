@@ -1,6 +1,6 @@
 ---
 title: Beschrijf welke data gebruikt wordt voor de beoogde toepassing
-id: urn:nl:ak:mtr:owp:02
+id: urn:nl:ak:mtr:owp-02
 toelichting: Beschrijf welke data gebruikt wordt voor de beoogde toepassing. 
 vereiste: 
 - aia-05-data-kwaliteitscriteria

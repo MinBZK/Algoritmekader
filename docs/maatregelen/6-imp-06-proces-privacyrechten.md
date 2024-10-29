@@ -1,5 +1,6 @@
 ---
 title: Spreek af hoe de organisatie omgaat met privacy-verzoeken
+id: urn:nl:ak:mtr:imp-06
 toelichting: Betrokkenen kunnen hun persoonsgegevens inzien, rectificeren, laten verwijderen of het gebruik ervan beperken bij het toepassen van algorimtes en AI-systemen.  
 vereiste:
 - avg-09-inroepen-privacyrecht-bij-verwerking-persoonsgegevens

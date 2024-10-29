@@ -1,5 +1,6 @@
 ---
 title: Controleer de datakwaliteit
+id: urn:nl:ak:mtr:dat-01
 toelichting: Stel vast of de gebruikte data van voldoende kwaliteit is voor de beoogde toepassing.
 vereiste:
 - juistheid_en_actualiteit_van_persoonsgegevens

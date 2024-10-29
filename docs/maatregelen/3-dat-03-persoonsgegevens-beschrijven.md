@@ -1,5 +1,6 @@
 ---
 title: Beschrijf welke persoonsgegevens het algoritme gebruikt en waarom
+id: urn:nl:ak:mtr:dat-03
 toelichting: Er is een overzicht opgesteld welke persoonsgegevens worden verwerkt, om welke categorie persoonsgegevens het gaat en er is een onderbouwing gegeven waarom deze passend zijn voor verwerking. 
 vereiste:
 - avg-01-persoonsgegevens-worden-rechtmatig-verwerkt
@@ -32,7 +33,7 @@ Er is een overzicht opgesteld welke persoonsgegevens mogen worden verwerkt en om
 - Bij de persoonsgegevens is aangegeven om wat voor categorie persoonsgegevens het gaat.
 - Per kenmerk is toegelicht waarom deze noodzakelijk is om te verwerken voor het ontwikkelen en gebruiken van het algoritme of AI-systeem.
 - Het principe van dataminimalisatie is toegepast, wat betekent dat een keuze is gemaakt of een persoonsgegevens al dan niet strikt noodzakelijk is om het doel te bereiken of dat verwerking ervan achterwege kan blijven.
-- Voor [het beschermen van deze persoonsgegevens](bescherm_persoonsgegevens_die_mogen_worden_verwerkt.md) wordt per kenmerk aangegeven op welke manier deze kan worden beschermd (anonimiseren, pseudonomiseren, aggregeren). 
+- Voor [het beschermen van deze persoonsgegevens](3-dat-05-pseudonimiseren-anonimiseren.md) wordt per kenmerk aangegeven op welke manier deze kan worden beschermd (anonimiseren, pseudonomiseren, aggregeren). 
 - Een [DPIA](../instrumenten/DPIA.md) kan worden gebruikt om bovenstaande activiteiten uit te voeren.
   
 ## Bijbehorende vereiste(n)

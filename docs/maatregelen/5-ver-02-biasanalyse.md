@@ -1,5 +1,6 @@
 ---
 title: Analyseer het risico op bias
+id: urn:nl:ak:mtr:ver-01
 toelichting: Analyseer of het gebruik van het algoritme of het proces daaromheen leidt tot onwenselijke of onrechtmatige verschillen in de behandeling van individuen en/of groepen.  
 vereiste:
 - grw-02-non-discriminatie
@@ -65,11 +66,11 @@ Indirect onderscheid is in vergelijking met direct onderscheid lastiger op te si
 Daarom is het belangrijk jouw algoritmische toepassing regelmatig te analyseren op eventueel indirect onderscheid. 
 Het toetsen op indirect onderscheid bestaat uit 5 stappen:
 
-1. **Bepaal wat de [kwetsbare groepen](../maatregelen/kwetsbare_groepen.md) zijn.**
+1. **Bepaal wat de [kwetsbare groepen](../maatregelen/2-owp-07-kwetsbare-groepen.md) zijn.**
 Eventueel kan dit aangevuld worden op basis van de [discriminatiegronden](../onderwerpen/bias-en-non-discriminatie/index.md#discriminatiegrond) uit non-discriminatie wetgeving. Of andere groepen waarvoor verschillen in behandeling ethisch onwenselijk zijn.
 
 2. **Bepaal wat "verschillen in behandeling" betekent in de context van het algoritme.**
-In deze stap is het belangrijk om voorafgaand aan de daadwerkelijke analyse met een [brede groep stakeholders](../maatregelen/betrek_belanghebbenden.md) te bepalen wat 'eerlijk' en 'rechtvaardig' wordt bevonden in de context van het betreffende algoritme. 
+In deze stap is het belangrijk om voorafgaand aan de daadwerkelijke analyse met een [brede groep stakeholders](../maatregelen/1-pba-04-betrek-belanghebbenden.md) te bepalen wat 'eerlijk' en 'rechtvaardig' wordt bevonden in de context van het betreffende algoritme. 
 Er zijn veel verschillende manieren waarop je kan kijken naar onderscheid bij het gebruik van algoritmes. Voorbeelden van manieren waarop je naar onderscheid kan kijken zijn:
 
     - **Onderscheid op basis van gelijke uitkomsten (representatie)**. 
@@ -77,7 +78,7 @@ Er zijn veel verschillende manieren waarop je kan kijken naar onderscheid bij he
     - **Onderscheid op basis van gelijke prestaties (fouten)**. 
     De belangrijkste vraag die hier mee beantwoord wordt is: presteert het algoritme gelijk voor personen uit verschillende groepen? Met andere woorden: maakt het algoritme vaker fouten bij bepaalde groepen? Dat kan er eventueel toe leiden dat bepaalde groepen vaker onterecht wel of niet geselecteerd worden door het algoritme. 
 
-    Om te toetsen of er sprake is van onderscheid op basis van gelijke prestaties, is het noodzakelijk om [de prestaties van het algoritme goed te analyseren](../maatregelen/functioneren_in_lijn_met_doeleinden.md). 
+    Om te toetsen of er sprake is van onderscheid op basis van gelijke prestaties, is het noodzakelijk om [de prestaties van het algoritme goed te analyseren](../maatregelen/5-ver-01-functioneren-in-lijn-met-doeleinden.md). 
     In het geval van classificatie is het daarvoor nodig om een zogeheten *confusion matrix* op te stellen. 
     Een confusion matrix is een tabel waarin de voorspellingen van het algoritme worden vergeleken met de werkelijke waarden (de *ground truth*). 
 
@@ -105,7 +106,7 @@ Het is daarom van belang om duidelijk afwegingen te maken tussen privacy en het 
 
     Voor sommige groepen zal het onmogelijk zijn om te beschikken over data van voldoende kwaliteit om zorgvuldig te toetsen op bias. 
     De laaggeletterdheid van burgers of personen is bijvoorbeeld lastig meetbaar en in veel gevallen niet beschikbaar. 
-    Bepaal in zo'n situatie [of er andere mogelijkheden zijn deze groepen te helpen](../maatregelen/kwetsbare_groepen.md), of dat er andere mogelijkheden zijn om eventuele ongelijke behandeling bij deze groepen te constateren. 
+    Bepaal in zo'n situatie [of er andere mogelijkheden zijn deze groepen te helpen](../maatregelen/2-owp-07-kwetsbare-groepen.md), of dat er andere mogelijkheden zijn om eventuele ongelijke behandeling bij deze groepen te constateren. 
     Bijvoorbeeld door hierop te monitoren in de klacht- en bezwarenprocedure. 
 
 4. **Bereken de verschillen in behandeling en/of uitkomsten van het algoritme**.
@@ -123,7 +124,7 @@ Dit kan bijvoorbeeld ontstaan door:
 
 :material-arrow-right: Wanneer duidelijker is hoe de geconstateerde bias is ontstaan, is het goed om te verkennen of er mogelijkheden zijn om dit (in de toekomst) te voorkomen. 
 
-Het is belangrijk hier [een brede groep aan belanghebbenden bij te betrekken](../maatregelen/betrek_belanghebbenden.md). 
+Het is belangrijk hier [een brede groep aan belanghebbenden bij te betrekken](../maatregelen/1-pba-04-betrek-belanghebbenden.md). 
 De oorzaken van bias komen uit de 'echte wereld', waarbij patronen in datasets historische, demografische en sociale verschillen weerspiegielen. 
 Het verklaren en voorkomen van bias vraagt daarmee niet alleen om technische oplossingen, maar het is belangrijk de hele socio-technische omgeving waarin het algoritme wordt ingezet mee te nemen. 
 
@@ -153,7 +154,7 @@ Bepaal of het geconstateerde onderscheid uit [Stap 1](#stap-1-analyseer-of-er-sp
 <!-- link toevoegen -->
 
 In sommige gevallen kan het zo zijn dat ondanks dat er een objectieve rechtvaardiging bestaat voor het gemaakte onderscheid, dit vanuit ethisch perspectief toch onwenselijk is. 
-Bepaal [met een grote groep belanghebbenden](../maatregelen/betrek_belanghebbenden.md) wat eventuele (nadelige) effecten van het gemaakte onderscheid kunnen zijn, of jullie dit eerlijk vinden en of er eventuele alternatieven zijn. 
+Bepaal [met een grote groep belanghebbenden](../maatregelen/1-pba-04-betrek-belanghebbenden.md) wat eventuele (nadelige) effecten van het gemaakte onderscheid kunnen zijn, of jullie dit eerlijk vinden en of er eventuele alternatieven zijn. 
 
 !!! note "Opmerking"
 

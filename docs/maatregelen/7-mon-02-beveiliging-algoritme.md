@@ -1,5 +1,6 @@
 ---
 title: Beveilig de software
+id: urn:nl:ak:mtr:mon-02
 toelichting: Zorg voor een goede beveiliging van de verschillende softwarecomponenten van een algoritme of AI-systeem.
 vereiste:
 - bio-01-beveiliging-informatie-en-informatiesystemen

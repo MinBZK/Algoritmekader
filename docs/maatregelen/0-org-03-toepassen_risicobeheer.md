@@ -1,5 +1,6 @@
 ---
 title: Maak een plan voor het omgaan met risico’s
+id: urn:nl:ak:mtr:org-03
 toelichting: Alle stappen van risicobeheer worden periodiek uitgevoerd en op het juiste niveau in de organisatie behandeld.
 vereiste: 
 - aia-03-risicobeheersysteem

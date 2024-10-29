@@ -1,5 +1,6 @@
 ---
 title: Maak afspraken over het wijzigen van de code
+id: urn:nl:ak:mtr:org-04
 toelichting: Richt een formeel wijzigingenproces in, waarmee bepaald wordt hoe codewijzigingen plaatsvinden.
 vereiste:
 - bio-01-beveiliging-informatie-en-informatiesystemen

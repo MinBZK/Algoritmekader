@@ -1,5 +1,6 @@
 ---
 title: Analyseer de privacy-risico’s en neem maatregelen om deze risico’s laag te houden
+id: urn:nl:ak:mtr:owk-03
 toelichting: Bij het uitvoeren van een risicoanalyse voor privacyrisico's is het van belang dat de geïdentificeerde risico's worden vertaald naar concrete, mitigerende maatregelen om persoonsgegevens te beschermen.
 vereiste:
 - avg-13-dpia-verplicht

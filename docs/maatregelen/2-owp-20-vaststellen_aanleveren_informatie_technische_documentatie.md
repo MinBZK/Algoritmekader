@@ -5,7 +5,7 @@ vereiste:
 - aia-06:-technische-documentatie
 levenscyclus:
 - ontwerp
-- implementatie
+
 onderwerp:
 - publieke-inkoop
 rollen:

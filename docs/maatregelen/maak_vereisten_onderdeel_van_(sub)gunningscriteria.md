@@ -2,7 +2,7 @@
 # vul hier een titel in voor deze maatregel
 title: Maak vereisten onderdeel van (sub)gunningscriteria bij gunningscriteria beste prijs-kwaliteitverhouding.
 # geef hier een korte toelichting van deze maatregel
-toelichting: Door een vereiste op te nemen als (sub)gunningscriteria ontstaat een mogelijkheid voor aanbieders om zich te onderscheiden van andere aanbieders.
+toelichting: Door een vereiste onderdeel te maken van een (sub)gunningscriteria, ontstaat een mogelijkheid voor aanbieders om zich te onderscheiden van andere aanbieders.
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
 - aia-28-recht-op-uitleg-ai-besluiten
@@ -79,6 +79,7 @@ Door de vereiste op te nemen als (sub)gunningscriteria, ontstaat een mogelijkhei
 | Algoritmekader |  
 | [Keuze gunningscriterium en opstellen (sub)gunningscriteria](https://www.pianoo.nl/nl/inkoopproces/fase-1-voorbereiden/keuze-gunningscriterium-en-opstellen-subgunningscriteria) |
 | [Handreiking Beste prijs-kwaliteitsverhouding:de basis](https://www.pianoo.nl/nl/document/21647/handreiking-beste-prijs-kwaliteitverhouding-de-basis) |
+| [Beste prijs-kwaliteitsverhouding](https://www.pianoo.nl/nl/inkopen-het-kort/hoe-ga-ik-met-de-regels-om/gunningscriteria/beste-prijs-kwaliteitverhouding) |
 
 
 ## Voorbeeld

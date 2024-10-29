@@ -7,7 +7,7 @@ vereiste:
 - avg-12-beveiliging-van-verwerking
 levenscyclus:
 - organisatieverantwoordelijkheden
-- monitoren-en-beheer
+- monitoring-en-beheer
 onderwerp:
 - technische-robuustheid-en-veiligheid
 - governance

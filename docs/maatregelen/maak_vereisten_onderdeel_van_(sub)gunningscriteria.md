@@ -1,8 +1,8 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Neem vereisten op als een subgunningscriteria bij gunningscriteria beste prijs-kwaliteitverhouding.
+title: Maak vereisten onderdeel van (sub)gunningscriteria bij gunningscriteria beste prijs-kwaliteitverhouding.
 # geef hier een korte toelichting van deze maatregel
-toelichting: Door een vereiste op te nemen als subgunningscriteria ontstaat een mogelijkheid voor aanbieders om zich te onderscheiden van andere aanbieders.
+toelichting: Door een vereiste op te nemen als (sub)gunningscriteria ontstaat een mogelijkheid voor aanbieders om zich te onderscheiden van andere aanbieders.
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
 - aia-28-recht-op-uitleg-ai-besluiten
@@ -63,7 +63,7 @@ Neem de vereiste op als een subgunningscriteria bij gunningscriteria beste prijs
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Door de vereiste op te nemen als subgunningscriteria, ontstaat een mogelijkheid voor aanbieders om zich te onderscheiden van andere aanbieders. In de context van algoritmes is dit in het bijzonder relevant, bijvoorbeeld in relatie tot vereisten als non-discriminatie, eerbiedigen privacyrechten of het verbod op schenden auteursrechten. Door vereisten te vertalen naar een subgunningscriteria, kan een inhoudelijke beoordeling worden gemaakt in hoeverre een aanbieder echt voldoet aan deze vereisten. 
+Door de vereiste op te nemen als (sub)gunningscriteria, ontstaat een mogelijkheid voor aanbieders om zich te onderscheiden van andere aanbieders. In de context van algoritmes is dit in het bijzonder relevant, bijvoorbeeld in relatie tot vereisten als non-discriminatie, eerbiedigen privacyrechten of het verbod op schenden auteursrechten. Door vereisten te vertalen naar een subgunningscriteria, kan een inhoudelijke beoordeling worden gemaakt in hoeverre een aanbieder echt voldoet aan deze vereisten. 
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

@@ -1,8 +1,9 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Maak de vereiste onderdeel van Service Level Agreement
+title: Maak vereisten voor een verantwoorde inzet van algoritmes onderdeel van Service Level Agreement
 # geef hier een korte toelichting van deze maatregel
-toelichting: Onderzoek of het relevant is om de vereiste onderdeel te maken van de Service Level Agreement. Met een SLA kunnen specifieke afspraken worden gemaakt over de kwaliteit van de dienstverlening.
+toelichting: Onderzoek of het relevant is om vereiste voor een verantwoorde inzet van algoritmes onderdeel te maken van de Service Level Agreement. Met een SLA kunnen specifieke afspraken worden gemaakt over de kwaliteit van de dienstverlening van aanbieder.
+
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
 - bio-01-beveiliging-informatie-en-informatiesystemen
@@ -52,10 +53,9 @@ Maak de vereiste onderdeel van Service Level Agreement
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Onderzoek of het relevant is om de vereiste onderdeel te maken van de Service Level Agreement (SLA). 
-Met een SLA kunnen specifieke afspraken worden gemaakt over de kwaliteit van de dienstverlening. 
-Hierbij kan worden gedacht aan onderwerpen als incidentmanagement, servicemanagement, verantwoordelijkheden matrix, hersteltijd, prestatiecriteria, reproduceerbaarheid, versiebeheer van de gebruikte algoritmes en AI-modellen en beveiliging. 
-Laat de aanbieder aangeven welke vormen van onderhoud aan het algoritme of AI-systeem nodig zijn en de snelheid waarmee signalen vanuit gebruik, ongeacht de bron, kunnen worden verwerkt in het systeem en welke expertise hiervoor beschikbaar is. 
+- Onderzoek of het relevant is om vereiste voor een verantwoorde inzet van algoritmes onderdeel te maken van de Service Level Agreement. Met een SLA kunnen specifieke afspraken worden gemaakt over de kwaliteit van de dienstverlening van aanbieder.
+- Hierbij kan worden gedacht aan onderwerpen als incidentmanagement, servicemanagement, verantwoordelijkheden matrix, hersteltijd, prestatiecriteria, reproduceerbaarheid, versiebeheer van de gebruikte algoritmes en AI-modellen en beveiliging. 
+- Laat de aanbieder aangeven welke vormen van onderhoud aan het algoritme nodig zijn en de snelheid waarmee signalen vanuit gebruik, ongeacht de bron, kunnen worden verwerkt in het systeem en welke expertise hiervoor beschikbaar is. 
 
 
 ## Bijbehorende vereiste(n)

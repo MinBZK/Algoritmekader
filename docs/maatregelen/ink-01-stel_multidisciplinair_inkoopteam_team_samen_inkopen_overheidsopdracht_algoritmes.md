@@ -39,8 +39,8 @@ Stel (tijdig) een multidisciplinair team samenstellen bij het inkopen van overhe
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
 <!-- list_vereisten_on_maatregelen_page -->
 
-- formuleren_doelstelling.md
-- formuleren_probleemstelling.md
+- formuleren_doelstelling
+- formuleren_probleemstelling
 
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->

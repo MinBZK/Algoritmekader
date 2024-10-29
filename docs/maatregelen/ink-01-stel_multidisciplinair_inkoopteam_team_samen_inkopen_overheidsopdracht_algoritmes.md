@@ -34,10 +34,13 @@ Stel (tijdig) een multidisciplinair team samenstellen bij het inkopen van overhe
 
 - Een multidisciplinair team kan ondersteunen bij het formuleren van de doelstellingen van een overheidsopdracht, verkennen van de oplossingsrichtingen in de markt en het vertalen van de gewenste oplossingsrichting naar de inkoopbehoefte.
 
-## Bijbehorende vereiste(n)
+## Bijbehorende maatregelen
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
 <!-- list_vereisten_on_maatregelen_page -->
+
+- formuleren_doelstelling.md
+- formuleren_probleemstelling.md
 
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->

@@ -46,7 +46,7 @@ transparantie/openheid (uitgangspunt zou 'open, tenzij' moeten zijn).
 ## Bronnen
 - [Rekenen en rekenschap. Essay over Algoritmes en de Archiefwet](https://www.inspectie-oe.nl/binaries/inspectie-oe/documenten/publicatie/2021/01/21/rekenen-en-rekenschap/Rekenen+en+rekenschap%2C+Algoritme+en+de+Archiefwet+essay+door+Petra+Helwig+BJu+Tijdschrift+voor+Toezicht++aflevering+1+2020.pdf)
 - [Toetsingskader Algemene Rekenkamer 4.06](https://www.rekenkamer.nl/onderwerpen/algoritmes-digitaal-toetsingskader) 
-
+- [Onderzoekskader Auditdienst Rijk, DM.13](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) 
 ## Voorbeeld
 
 Heb jij een goed voorbeeld? Laat het ons weten!

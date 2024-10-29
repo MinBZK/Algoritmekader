@@ -1,6 +1,6 @@
 ---
-title: Maak vereisten voor algoritmes onderdeel van contractvoorwaarden en de contractovereeenkomst.
-toelichting: Door vereisten voor algoritmes onderdeel te maken van contractvoorwaarden, is het voor aanbieders vooraf en op het moment van contractueren duidelijk waar zij aan moeten voldoen. 
+title: Maak vereisten voor algoritmes onderdeel van algemene inkoopvoorwaarden en de contractovereenkomst.
+toelichting: Door vereisten voor algoritmes onderdeel te maken van algemene inkoopvoorwaarden, is het voor aanbieders vooraf en op het moment van contractueren duidelijk waar zij aan moeten voldoen. 
 vereiste: 
 - aia-02-documentatie-beoordeling-niet-hoog-risico-ai
 - aia-03-risicobeheersysteem
@@ -84,7 +84,7 @@ Maak vereisten voor algoritmes onderdeel van contractvoorwaarden en de contracto
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
 - Door vereisten die gelden voor algoritmes onderdeel te maken van contractvoorwaarden, is voor aanbieder vooraf duidelijk aan welke voorwaarden zij moeten voldoen als zijn algoritmes willen aanbieden aan overheidsorganisaties.
-- Het is van belang om een afweging te maken welke vereisten voor algoritmes als 'algemene contractvoorwaarden' kunnen gelden en welke aanvullend in de een contractovereenkomst moeten worden opgenomen. 
+- Het is van belang om een afweging te maken welke vereisten voor algoritmes als 'algemene contractvoorwaarden' kunnen gelden en welke aanvullend in een contractovereenkomst moeten worden opgenomen. 
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

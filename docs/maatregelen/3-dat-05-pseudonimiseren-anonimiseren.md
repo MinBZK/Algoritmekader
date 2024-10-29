@@ -34,7 +34,8 @@ Pas maatregelen toe als pseudonimiseren, anonimisering of aggregeren van persoon
 <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
-[Onderzoekskader Auditdienst Rijk, PRI.5](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [Onderzoekskader Auditdienst Rijk, PRI.5](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 2.20](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 ## Voorbeeld
 
 Heb jij een goed voorbeeld? Laat het ons weten!

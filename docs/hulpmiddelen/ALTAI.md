@@ -4,9 +4,10 @@ toelichting: De ALTAI helpt ontwikkelaars en organisaties hun AI-systemen te beo
 categorie: 
 - toetsingskader 
 vereiste:
-- 
+- aia-14-conformiteitsbeoordeling
+- awb-01-zorgvuldigheidsbeginsel
 maatregel:
--
+- afwegen_grondrechten
 levenscyclus:
 - ontwerp
 - implementatie 

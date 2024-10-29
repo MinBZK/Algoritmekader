@@ -1,8 +1,8 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Neem de vereiste op als een subgunningscriteria bij gunningscriteria beste prijs-kwaliteitverhouding.
+title: Neem vereisten op als een subgunningscriteria bij gunningscriteria beste prijs-kwaliteitverhouding.
 # geef hier een korte toelichting van deze maatregel
-toelichting: Door de vereiste op te nemen als subgunningscriteria ontstaat een mogelijkheid voor aanbieders om zich te onderscheiden.  
+toelichting: Door een vereiste op te nemen als subgunningscriteria ontstaat een mogelijkheid voor aanbieders om zich te onderscheiden van andere aanbieders.
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
 - aia-28-recht-op-uitleg-ai-besluiten
@@ -63,7 +63,7 @@ Neem de vereiste op als een subgunningscriteria bij gunningscriteria beste prijs
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Door de vereiste op te nemen als subgunningscriteria, ontstaat een mogelijkheid voor aanbieders om zich te onderscheiden. In de context van algoritmes en AI is dit in het bijzonder relevant, bijvoorbeeld in relatie tot vereisten als non-discriminatie, eerbiedigen privacyrechten of het verbod op schenden auteursrechten. Door vereisten te vertalen naar een subgunningscriteria, kan een inhoudelijke beoordeling worden gemaakt in hoeverre een aanbieder hier invulling aan geeft.
+Door de vereiste op te nemen als subgunningscriteria, ontstaat een mogelijkheid voor aanbieders om zich te onderscheiden van andere aanbieders. In de context van algoritmes is dit in het bijzonder relevant, bijvoorbeeld in relatie tot vereisten als non-discriminatie, eerbiedigen privacyrechten of het verbod op schenden auteursrechten. Door vereisten te vertalen naar een subgunningscriteria, kan een inhoudelijke beoordeling worden gemaakt in hoeverre een aanbieder echt voldoet aan deze vereisten. 
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
@@ -76,7 +76,9 @@ Door de vereiste op te nemen als subgunningscriteria, ontstaat een mogelijkheid 
 
 | Bron                        |
 |-----------------------------|
-| Algoritmekader |        
+| Algoritmekader |  
+| [Keuze gunningscriterium en opstellen (sub)gunningscriteria](https://www.pianoo.nl/nl/inkoopproces/fase-1-voorbereiden/keuze-gunningscriterium-en-opstellen-subgunningscriteria) |
+
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->

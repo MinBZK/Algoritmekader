@@ -9,8 +9,12 @@ rollen:
 ---
 <!-- tags -->
 
-
 ## Maatregel
+
+Zorg voor politiek-bestuurlijk bewustzijn, betrokkenheid en verantwoordelijkheid.
+
+## Toelichting
+
 Voor een passende algoritmegovernance is politiek-bestuurlijk bewustzijn, betrokkenheid en verantwoordelijkheid essentieel. 
 De kernvraag voor publieke organisaties bij de inzet van algoritmen is altijd: Hoe wegen we (als publieke organisatie of samenleving) de voordelen en nadelen van de inzet van algoritmen? 
 Dit is per definitie een kwalitatieve en politieke vraag. 

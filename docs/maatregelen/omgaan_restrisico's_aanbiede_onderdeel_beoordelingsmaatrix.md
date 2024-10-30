@@ -32,8 +32,6 @@ Het is van belang dat de resterende risico's inzichtelijk zijn gemaakt, zodat aa
 
 ## Bronnen
 
-| Bron                        |
-|-----------------------------|
 | |
 
 ## Voorbeeld

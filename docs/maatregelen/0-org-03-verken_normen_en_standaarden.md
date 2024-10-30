@@ -1,5 +1,5 @@
 ---
-title: Verken relevante normen en standaarden en pas deze toe
+title: Verken normen en standaarden
 toelichting: Verken relevante normen en standaarden en pas deze toe.
 
 levenscyclus:

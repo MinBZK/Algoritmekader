@@ -11,6 +11,10 @@ rollen:
 
 ## Maatregel
 
+Inrichten rollen en verantwoordelijkheden algoritmegovernance.
+
+## Toelichting
+
 Binnen het vormgeven van effectieve en efficiente algoritmegovernance zijn het beleggen van expliciete rollen en verantwoordelijkheden cruciaal.
 Het beleggen van deze rollen zorgt voor een actiegerichte structuur waarin zo weinig mogelijk verwarring/onduidelijkheid bestaat over wie wanneer aan zet is. 
 Informatie-uitwisseling en besluitvorming tussen deze rollen zal effectief plaatsvinden. 

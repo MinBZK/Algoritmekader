@@ -20,6 +20,8 @@ rollen:
 
 Verken relevante normen en standaarden en pas deze toe.
 
+## Toelichting
+
 * Er is een oproep vanuit de EU om standaarden te ontwikkelen die direct aansluiten bij de AI-verordening. 
   * Deze worden verwacht april 2025, meer informatie is te vinden [op deze website over de AI-Verordening](https://artificialintelligenceact.eu/standard-setting/).
   * De belangrijkste hiervan is de ISO/IEC 42001:2023 voor AI risk management framework (helaas zijn ISO-normen niet vrij beschikbaar).

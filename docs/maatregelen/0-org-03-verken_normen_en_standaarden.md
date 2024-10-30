@@ -23,10 +23,11 @@ Verken relevante normen en standaarden en pas deze toe.
 ## Toelichting
 
 * Er is een oproep vanuit de EU om standaarden te ontwikkelen die direct aansluiten bij de AI-verordening. 
-  * Deze worden verwacht april 2025, meer informatie is te vinden [op deze website over de AI-Verordening](https://artificialintelligenceact.eu/standard-setting/).
+  * Dit is het "geharmoniseerde" in de volledige naam van de AI-verorderning.
+  * De standaarden worden verwacht april 2025. De EU kan ook kiezen om in plaats daarvan zelf standaarden te ontwikkelen.
   * De belangrijkste hiervan is de ISO/IEC 42001:2023 voor AI risk management framework (helaas zijn ISO-normen niet vrij beschikbaar).
-  * Deze norm richt zich op ethiek, transparantie, verantwoordelijkheid en veiligheid bij de ontwikkeling en inzet van AI-systemen.
-  * Later uitgebrachte normen zullen worden gelinkt aan deze norm om meer invulling te geven aan onderdelen ervan.
+   * Deze norm richt zich op ethiek, transparantie, verantwoordelijkheid en veiligheid bij de ontwikkeling en inzet van AI-systemen.
+   * Later uitgebrachte normen zullen worden gelinkt aan deze norm om meer invulling te geven aan onderdelen ervan.
 
 * Aan AI-verwante thema's, zoals privacy en data, hebben ook te maken met normen, standaarden, en wetgeving. 
   * De inzet van algoritmes raakt aan deze thema's, dus passende samenwerking is vereist.

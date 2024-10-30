@@ -28,7 +28,7 @@ Analyseer bijvoorbeeld de data op [datakwaliteit en bias in de data](3-dat-01-da
 Mocht het onverhoopt toch mis gaan en er signalen zijn dat de inzet van het algoritme leidt tot discriminerende effecten, dan zijn er verschillende stappen die je moet zetten. 
 Daarvoor heeft het Ministerie van Binnenlandse Zaken een [discriminatieprotocol](https://minbzk.github.io/discriminatieprotocol) opgesteld.
 
-Dat protocol bevat de volgende stappen:
+Het discriminatieprotocol bevat de volgende stappen:
 
 ### Stap 1: Vermoeden van onrechtmatigheid
 

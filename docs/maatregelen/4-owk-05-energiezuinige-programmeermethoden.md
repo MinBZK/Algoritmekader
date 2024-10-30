@@ -1,6 +1,6 @@
 ---
 title: Kies energiezuinige programmeermethoden
-id: urn:nl:ak:mtr:owp-13
+id: urn:nl:ak:mtr:owk-05
 toelichting: Gebruik energiezuinige programmeertechnieken en methoden die de benodigde rekenkracht minimaliseren.
 levenscyclus:
 - ontwikkelen

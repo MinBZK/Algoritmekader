@@ -3,13 +3,15 @@ title: Controle of eigenaarschap over de data
 toelichting: De organisatie heeft volledige controle of eigenaarschap over de data. Wanneer dit niet mogelijk is, zijn afspraken gemaakt om de functionele eisen te waarborgen.
 vereiste:
 - aia-05-data-kwaliteitscriteria
+- dat-01-databankenwet
+- aut-01-auteursrechten
 levenscyclus:
 - dataverkenning-en-datapreparatie
 onderwerp:
 - data
 - publieke-inkoop
-# rollen:
-# - projectleider
+rollen:
+- projectleider
 hide:
 - navigation
 - toc
@@ -21,7 +23,15 @@ hide:
 De organisatie heeft volledige controle of eigenaarschap over de data. Wanneer dit niet mogelijk is, zijn afspraken gemaakt om de functionele eisen te waarborgen.
 
 ## Toelichting
+Wanneer een algoritme ontwikkeld of ingekocht wordt, is het belangrijk om toegang tot de gebruikte data goed te regelen.
+Maak bijvoorbeeld afspraken over wie ervoor zorgt dat de data:
 
+- op een centrale plek beschikbaar wordt gesteld
+- van voldoende kwaliteit is
+- goed beveiligd is
+
+Wanneer een algoritme wordt ontwikkeld door een derde partij en dus niet wordt beheerd door de eigen organisatie, maak je duidelijke afspraken over eigenaarschap van de data. Dat geldt zowel voor de inputdata als de outputdata. 
+Zorg dat de inputdata tot je beschikking blijft, zodat resultaten altijd reproduceerbaar zijn. 
 
 ## Bijbehorende vereiste(n)
 

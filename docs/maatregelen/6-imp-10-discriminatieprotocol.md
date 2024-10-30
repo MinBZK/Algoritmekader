@@ -26,7 +26,7 @@ Algoritmes en AI-systemen kunnen leiden tot discriminerende effecten. Dit kan vo
 Analyseer bijvoorbeeld de data op [datakwaliteit en bias in de data](3-dat-01-datakwaliteit.md) en [toets regelmatig je algoritmisch systeem op bias](5-ver-02-biasanalyse.md). 
 
 Mocht het onverhoopt toch mis gaan en er signalen zijn dat de inzet van het algoritme leidt tot discriminerende effecten, dan zijn er verschillende stappen die je moet zetten. 
-Daarvoor heeft het Ministerie van Binnenlandse Zaken een [discriminatieprotocol](https://minbzk.github.io/discriminatieprotocol) opgesteld.
+Daarvoor heeft het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties een [discriminatieprotocol](https://minbzk.github.io/discriminatieprotocol) opgesteld.
 
 Het discriminatieprotocol bevat de volgende stappen:
 

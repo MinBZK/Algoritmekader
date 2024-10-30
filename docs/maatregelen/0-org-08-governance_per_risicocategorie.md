@@ -1,6 +1,6 @@
 ---
-title: Richt algoritmegovernance per risicocategorie
-toelichting: Richt de algoritmegovernance in zodat per risicocategorie de juiste processtappen moeten worden doorlopen
+title: Richt algoritmegovernance in per risicocategorie
+toelichting: Richt algoritmegovernance in zodat per risicocategorie de juiste processtappen moeten worden doorlopen
 levenscyclus:
 - organisatieverantwoordelijkheden
 onderwerp:
@@ -12,6 +12,11 @@ rollen:
 ---
 
 ## Maatregel
+
+Richt algoritmegovernance in zodat per risicocategorie de juiste processtappen moeten worden doorlopen
+
+## Toelichting
+
 Er is verschil in de vereisten en maatregelen die nodig zijn afhankelijk van het type risico en impact. 
 Zo vraagt bijvoorbeeld de AI-verordening om meer vereisten bij hoog-risico AI-systemen zijn. 
 Een meer uitgebreide governance is daar nodig, in de zin dat er meer handelingen en verslagleggingen nodig zijn.

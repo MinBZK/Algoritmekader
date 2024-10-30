@@ -1,7 +1,7 @@
 ---
-title: Pas een volwassheidsmodel toe om te weten waar jou organisatie staat qua AI
+title: Pas een volwassheidsmodel toe om te weten waar jou organisatie staat op het gebied van AI
 id: urn:nl:ak:mtr:org:06
-toelichting: Pas een volwassheidsmodel toe om te weten waar jou organisatie staat qua AI
+toelichting: Pas een volwassheidsmodel toe om te weten waar jou organisatie staat op het gebied van AI
 levenscyclus:
 - organisatieverantwoordelijkheden
 rollen:
@@ -12,6 +12,10 @@ rollen:
 <!-- tags -->
 
 ## Maatregel
+
+Pas een volwassheidsmodel toe om te weten waar jou organisatie staat op het gebied van AI
+
+## Toelichting 
 Pas een volwassenheidsmodel toe om te weten waar jou organisatie staat qua AI
 Om tot een passende algoritmegovernance voor een organisatie te komen, moet eerst worden vastgesteld wat op dit moment al is ingericht op het gebied van AI en algoritmes. 
 Op basis hiervan kunnen vervolgstappen worden gedefinieerd waar een organisatie aan kan gaan werken. Ook kunnen deze uitkomsten helpen bewustzijn over de uitdagingen te vergroten.

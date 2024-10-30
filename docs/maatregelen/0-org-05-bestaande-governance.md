@@ -18,7 +18,13 @@ rollen:
 <!-- tags -->
 
 ## Maatregel
-toelichting: Onderzoek binnen de organisatie wat er al is en hoe algortimegovernance daarop kan inhaken. Communicatie en samenwerking tussen organisatieonderdelen is doorlopend van groot belang.
+
+Onderzoek binnen de organisatie wat er al is en hoe algortimegovernance daarop kan inhaken. Communicatie en samenwerking tussen organisatieonderdelen is doorlopend van groot belang.
+
+
+## toelichting
+
+Onderzoek binnen de organisatie wat er al is en hoe algortimegovernance daarop kan inhaken. Communicatie en samenwerking tussen organisatieonderdelen is doorlopend van groot belang.
 
 Bij de vormgeving van een algoritmegovernance van een organisatie is het van belang om aansluiting en samenwerking te bewerkstelligen met huidige governancestructuren binnen de organisatie, zoals IT, data, informatiebeveiliging en privacy governance waar dit onlosmakelijk mee verbonden is. 
 

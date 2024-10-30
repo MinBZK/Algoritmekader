@@ -73,6 +73,12 @@ Hieronder volgen twee voorbeelden van hoe governance effectief kan worden geïnt
 
     ![image](https://github.com/user-attachments/assets/ecb5f3d6-9fd5-4a24-a453-3cfbc32ab810)
 
+!!! example "Voorbeeld: Algoritmeprocesmodel Ministerie van Defensie"
+
+    Het ministerie van defensie heeft een "algoritmeprocesmodel" ontwikkeld. Op level 1 is het een levenscyclus zoals ook in het Algoritmekader. Op level 2  wordt ingegaan op de rollen en verantwoordelijkheden. Op level 3 zijn ook formulieren om op specifieke momenten in de AI-levenscyclus de juiste documentatie op te leveren. N.B.: Defensie heeft dit ingericht in Sharepoint, waardoor verantwoordelijken te koppelen zijn aan activiteiten in de levenscyclus.
+
+    ![image](https://github.com/user-attachments/assets/53f70d22-c188-44f1-9f04-a16cef21482a)
+
 
  
 ## Bronnen

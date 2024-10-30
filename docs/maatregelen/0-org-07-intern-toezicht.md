@@ -17,6 +17,10 @@ rollen:
 
 ## Maatregel
 
+Richt een algoritmegovernance in met three lines of defence.
+
+## Toelichting
+
 Een mogelijke inrichting van algoritmegovernance die vaak wordt toegepast is het three lines of defence model:
 - De eerste linie gaat over eigenaarschap, ontwikkeling, gebruik en risicobeheersing van algoritme en AI toepassingen.
 - De tweede linie identificeert, beoordeelt en rapporteert over risico’s en het uitgevoerde gebruik algoritmes en AI toepassingen.

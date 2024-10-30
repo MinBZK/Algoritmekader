@@ -50,3 +50,12 @@ Een strategie of visie zoals vastgelegd in een meerjarenbeleidsplan sturing geve
 ## Voorbeelden
 Een concreet voorbeeld van samen optrekken is [deze handreiking](https://www.cip-overheid.nl/media/av0dmahv/20230614-gezamenlijk-gebruik-iama-en-model-dpia-rijksdienst-v1-0.pdf) om de IAMA en DPIA gezamelijk uit te voeren.
 
+
+!!! example "Voorbeeld: Ervaringen Kadaster" 
+    * Bij inwerkingtreding van de AVG ging men snel aan de slag met DPIA’s, vinkenlijstjes. Let op voor een schijndossier: Snap wat er toegepast moet worden, voordat je aan de slag gaat; niet uitvoeren om maar te laten zien dat je eraan voldoet.
+    * Nadenken over governance. De FG is bij de wet geregeld, maar er is meer nodig. Welke profielen heeft de ondersteuning voor de uitvoering; (centrale) privacy officers en is hier ruimte voor?
+    * De FG kijkt naar de wet en interpreteert dit. Zorg dat deze interpretatie gelijk is binnen de organisatie en de collega’s die binnen de governance structuur samenwerken.
+    * Er is beleid gemaakt, maar te weinig bezetting en/of andere prioriteiten. Zorg voor een realistisch beleid en daarop een realistische planning. We willen vaak te veel (de gehele wetgeving meteen beheersen).
+    - _Centrale privacy officer Kadaster_
+
+

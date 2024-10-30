@@ -1,5 +1,5 @@
 ---
-title: Maak een plan voor de situatie dat er (een vermoeden van) discriminatie door een algoritmisch systeem is geconstateerd.
+title: Maak een plan voor als er (een vermoeden van) discriminatie door een algoritmisch systeem is geconstateerd
 id: urn:nl:ak:mtr:imp-10
 toelichting: Maak een plan voor de situatie dat er een vermoeden bestaat van discriminatie of als er geconstateerd wordt dat er sprake is van bevooroordeeldheid of discriminatie van een algoritmisch systeem.
 vereiste: 

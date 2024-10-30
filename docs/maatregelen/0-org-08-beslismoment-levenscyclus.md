@@ -1,7 +1,7 @@
 ---
-title: Inrichten governance in de levenscyclus van AI
+title: Inrichten governance en beslismomenten in de levenscyclus van AI
 id: urn:nl:ak:mtr:org:08
-toelichting: Inrichten governance in de levenscyclus van AI
+toelichting: Inrichten governance en beslismomenten in de levenscyclus van AI.
 
 levenscyclus:
 - organisatieverantwoordelijkheden
@@ -19,8 +19,13 @@ rollen:
 
 ## Maatregel
 
+Inrichten governance en beslismomenten in de levenscyclus van AI.
+
+## Toelichting
+
 Richt in hoe binnen de AI-levenscyclus rollen en verantwoordelijkheden worden ingericht. 
 Let hierbij op _gates_: momenten waarop er een go/no-go kan worden gegeven.
+
 
 Om algoritmes op een verantwoorde manier te gebruiken, zul je op de juiste momenten aandacht moeten hebben voor de juiste onderwerpen en risico's. Dit zich steeds herhalende proces van ontwerpen, ontwikkelen en in gebruik nemen noemen we de [levenscyclus](https://minbzk.github.io/Algoritmekader/levenscyclus/). 
 

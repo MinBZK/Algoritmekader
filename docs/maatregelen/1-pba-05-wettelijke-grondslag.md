@@ -34,7 +34,7 @@ Beschrijf de wettelijke grondslag voor de inzet van het algoritme en de beoogde 
 - [Impact Assessment Mensenrechten en Algoritmes, 1.4](../instrumenten/IAMA.md)
 
 ## Risico 
-Het algoritme en beoogde besluiten voldoen niet aan het- en regelgeving en intern beleid en kaders.
+Het algoritme en beoogde besluiten voldoen niet aan wet- en regelgeving en intern beleid en kaders.
 
 ## Voorbeeld
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

@@ -1,7 +1,7 @@
 ---
-title: Pas een volwassheidsmodel toe om te weten waar jou organisatie staat op het gebied van AI
+title: Gebruik een AI-volwassenheidsmodel om te weten waar de organisatie staat
 id: urn:nl:ak:mtr:org:06
-toelichting: Pas een volwassheidsmodel toe om te weten waar jou organisatie staat op het gebied van AI
+toelichting: Pas een volwassenheidsmodel toe om te weten waar de organisatie staat op het gebied van AI
 levenscyclus:
 - organisatieverantwoordelijkheden
 rollen:
@@ -13,7 +13,7 @@ rollen:
 
 ## Maatregel
 
-Pas een volwassheidsmodel toe om te weten waar jou organisatie staat op het gebied van AI
+Pas een volwassenheidsmodel toe om te weten waar jou organisatie staat op het gebied van AI
 
 ## Toelichting 
 Pas een volwassenheidsmodel toe om te weten waar jou organisatie staat qua AI

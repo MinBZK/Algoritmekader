@@ -1,5 +1,5 @@
 ---
-title: Visie en politiek-bestuurlijke verantwoordelijkheid
+title: Politiek-bestuurlijke verantwoordelijkheid
 toelichting: Zorg voor politiek-bestuurlijk bewustzijn, betrokkenheid en verantwoordelijkheid.
 levenscyclus:
 - organisatieverantwoordelijkheden

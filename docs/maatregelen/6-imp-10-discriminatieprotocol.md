@@ -62,8 +62,8 @@ Bepaal welke mitigerende maatregelen er genomen moeten worden. Als er in het ond
 De conclusies van de eerdere stappen dienen indien nodig te worden gemeld bij de betreffende instanties. De eventuele gedupeerde burgers dienen te worden geinformeerd over de gevolgen.
 
    - Indien er sprake is van een hoog-risico-AI-systeem moet je ernstige incidenten melden bij de markttoezichtautoriteiten. Zie [artikel 73 van de AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e7117-1-1) en [artikel 3 (49.c) van de AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e2093-1-1).
-   - Voor alle algoritmes geldt: Informeer afhankelijk van hoeveel mensen geraakt en gedupeerd zijn de grootte van de impact de interne toezichthouder, de externe toezichthouder en de Tweede Kamer. 
-   - Informeer de betrokken burgers over de sitatie. Maak indien nodig excuses en geef de mensen die (mogelijk geraakt zijn uitleg zodat zij:
+   - Voor alle algoritmes geldt: Informeer de interne toezichthouder, de externe toezichthouder en de Tweede Kamer afhankelijk van hoeveel mensen geraakt en gedupeerd zijn en de impact. 
+   - Informeer de betrokken burgers over de sitatie. Maak indien nodig excuses en geef de mensen die (mogelijk) geraakt zijn uitleg zodat zij:
      
        - begrijpen wat er is gebeurd
        - weten wat de waarschijnlijke gevolgen zijn

@@ -35,6 +35,8 @@ Een populaire methode om complexiteit te verlagen is het *divide-and-conquer* pr
 - *Quantization* verlaagt de precisie van numerieke waarden in een model, wat opslag en rekenkracht verlaagt zonder de prestaties significant te beïnvloeden.
 - *Knowledge distillation* kan verder helpen door de kennis van een groot model over te dragen naar een kleiner, minder complex model, dat vervolgens efficiënter werkt.
 
+## Bijbehorende vereiste(n)
+<!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Ontwerpen zonder oog voor efficiëntie kan leiden tot energie-intensieve algoritmes die hoge kosten en milieubelasting met zich meebrengen.

@@ -1,6 +1,6 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Stel (tijdig) een multidisciplinair team samenstellen bij het inkopen van overheidsopdrachten waar algoritmes onderdeel van zijn.
+title: Stel (tijdig) een multidisciplinair team samen bij het inkopen van overheidsopdrachten waar algoritmes onderdeel van zijn.
 # geef hier een korte toelichting van deze maatregel
 toelichting: 
 vereiste:

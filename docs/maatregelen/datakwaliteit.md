@@ -2,8 +2,8 @@
 title: Data is van voldoende kwaliteit
 toelichting: Stel vast of de gebruikte data van voldoende kwaliteit is voor de beoogde toepassing.
 vereiste:
-- juistheid_en_actualiteit_van_persoonsgegevens
-- kwaliteitscriteria_voor_data
+- avg-05-juistheid_en_actualiteit_van_persoonsgegevens
+- aia-05-kwaliteitscriteria_voor_data
 levenscyclus:
 - dataverkenning-en-datapreparatie
 onderwerp:

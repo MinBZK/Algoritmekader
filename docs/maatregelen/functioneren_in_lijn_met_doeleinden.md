@@ -2,7 +2,7 @@
 title: Stel vast dat het algoritme voortdurend functioneert in lijn met de vastgestelde doelstelling
 toelichting: Stel vast dat het algoritme voortdurend functioneert in lijn met de vastgestelde doelstelling
 vereiste:
-- zorgvuldigheidsbeginsel
+- awb-01-zorgvuldigheidsbeginsel
 levenscyclus:
 - ontwikkelen
 - verificatie-en-validatie

@@ -18,6 +18,10 @@ rol-ai-act:
 - aanbieder
 hide:
 - navigation
+rollen:
+- projectleider
+- beleid-en-advies
+- ontwikkelaar
 ---
 
 <!-- tags -->

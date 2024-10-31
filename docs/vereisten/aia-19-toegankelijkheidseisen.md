@@ -3,12 +3,10 @@ title: Hoog-risico-AI-systemen voldoen aan de toegankelijkheidseisen
 id: urn:nl:ak:ver:aia-19
 toelichting: Aanbieders van AI-systemen met een hoog risico zorgen ervoor dat het AI-systeem met een hoog risico voldoet aan de toegankelijkheidseisen overeenkomstig de Richtlijnen (EU) 2016/2102 en (EU) 2019/882
 levenscyclus:
-- ontwikkelen
-- verificatie-en-validatie
-- implementatie
-- monitoring-en-beheer
+- ontwerp
 onderwerp:
-- governance
+- menselijke-controle
+- technische-robuustheid-en-veiligheid
 soort-toepassing:
 - ai-systeem
 - ai-systeem-voor-algemene-doeleinden
@@ -18,6 +16,9 @@ rol-ai-act:
 - aanbieder
 hide:
 - navigation
+rollen:
+- projectleider
+- ontwikkelaar
 ---
 
 <!-- tags -->

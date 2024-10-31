@@ -6,6 +6,9 @@ levenscyclus:
 - organisatieverantwoordelijkheden
 onderwerp:
 - transparantie
+rollen:
+- jurist
+- projectleider
 hide:
 - navigation
 ---

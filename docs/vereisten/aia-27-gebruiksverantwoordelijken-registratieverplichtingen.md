@@ -8,6 +8,8 @@ levenscyclus:
 onderwerp:
 - transparantie
 - governance
+rollen:
+- projectleider
 soort-toepassing:
 - ai-systeem
 - ai-systeem-voor-algemene-doeleinden

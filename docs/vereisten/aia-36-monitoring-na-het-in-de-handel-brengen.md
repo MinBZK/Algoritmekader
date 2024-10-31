@@ -6,7 +6,8 @@ levenscyclus:
 - monitoring-en-beheer
 onderwerp:
 - technische-robuustheid-en-veiligheid
-- governance
+rollen:
+- projectleider
 soort-toepassing:
 - ai-systeem
 - ai-systeem-voor-algemene-doeleinden

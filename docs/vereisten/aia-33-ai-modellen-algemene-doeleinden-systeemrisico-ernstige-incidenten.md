@@ -3,11 +3,12 @@ title: Als AI-modellen voor algemene doeleinden met systeemrisico’s ernstige i
 id: urn:nl:ak:ver:aia-33
 toelichting: Aanbieders van AI-modellen voor algemene doeleinden met een systeemrisico moeten relevante informatie over ernstige incidenten en mogelijke corrigerende maatregelen bijhouden, documenteren en onverwijld rapporteren aan het AI bureau en, in voorkomend geval, aan de nationale bevoegde autoriteiten.
 levenscyclus:
-- verificatie-en-validatie
-- implementatie
 - monitoring-en-beheer
 onderwerp:
 - governance
+- transparantie
+rollen:
+- projectleider
 soort-toepassing:
 - ai-model-voor-algemene-doeleinden
 rol-ai-act:

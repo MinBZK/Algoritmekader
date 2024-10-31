@@ -5,7 +5,6 @@ toelichting: AI-systemen met een hoog risico worden ontworpen en ontwikkeld met 
 levenscyclus: 
 - ontwerp
 - ontwikkelen
-- implementatie
 - monitoring-en-beheer
 onderwerp: 
 - transparantie
@@ -18,6 +17,10 @@ rol-ai-act:
 - aanbieder
 hide:
 - navigation
+rollen:
+- projectleider
+- ontwikkelaar
+- beleid-en-advies
 ---
 
 <!-- tags -->

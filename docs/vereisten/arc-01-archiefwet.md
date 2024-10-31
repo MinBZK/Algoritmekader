@@ -1,16 +1,17 @@
 ---
 title: Informatie over algoritmes wordt gedocumenteerd volgens de Archiefwet
 id: urn:nl:ak:ver:arc-01
-toelichting: Volgens de Archiefwet moeten overheden informatie bewaren. Op basis van deze informatie moet gereconstrueerd kunnen worden hoe besluiten, ook in de context van algoritmes en AI, tot stand zijn gekomen. Informatie over algoritmes en AI moet daarom bewaard en vernietigd worden.
+toelichting: Volgens de Archiefwet moeten overheden informatie bewaren. Op basis van deze informatie moet gereconstrueerd kunnen worden hoe besluiten, ook in de context van algoritmes en AI, tot stand zijn gekomen. Informatie over algoritmes en AI moet daarom op basis van de selectielijst bewaard en vernietigd worden.
 levenscyclus: 
 - uitfaseren
 - monitoring-en-beheer
 - ontwikkelen
-onderwerp: 
-- technische-robuustheid-en-veiligheid
+onderwerp:
 - governance
 - data
-- privacy-en-gegevensbescherming
+rollen:
+- projectleider
+- ontwikkelaar
 soort-toepassing:
 - algoritme
 - ai-systeem
@@ -36,7 +37,7 @@ Overheidsorganen zijn verplicht de onder hen berustende archiefbescheiden in goe
 
 Volgens de Archiefwet moeten overheden informatie bewaren.
 Op basis van deze informatie moet  gereconstrueerd kunnen worden hoe besluiten, ook in de context van algoritmes en AI, tot stand zijn gekomen.
-Informatie over en van algoritmes en AI moet daarom bewaard en vernietigd worden.
+Informatie over en van algoritmes en AI moet daarom op basis van de selectielijst bewaard en vernietigd worden.
 
 ## Bronnen 
 

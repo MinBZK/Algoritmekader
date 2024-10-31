@@ -6,10 +6,13 @@ levenscyclus:
 - ontwikkelen
 - monitoring-en-beheer
 onderwerp:
-- governance
+- transparantie
 - technische-robuustheid-en-veiligheid
 hide:
 - navigation
+rollen:
+- ontwikkelaar
+- projectleider
 ---
 
 <!-- let op! Deze vereiste geldt altijd omdat je volgens de AVG en de BIO ook moet loggen -->

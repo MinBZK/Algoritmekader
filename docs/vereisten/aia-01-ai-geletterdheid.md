@@ -20,6 +20,8 @@ rol-ai-act:
 - gebruiksverantwoordelijke
 hide:
 - navigation
+rollen:
+- projectleider
 ---
 
 <!-- tags -->

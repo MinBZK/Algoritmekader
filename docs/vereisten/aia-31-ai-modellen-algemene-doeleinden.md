@@ -4,11 +4,12 @@ id: urn:nl:ak:ver:aia-31
 toelichting: Aanbieders van AI-modellen voor algemene doeleinden moeten (technische) informatie en documentatie opstellen, up-to-date houden en beschikbaar stellen voor aanbieders van AI-systemen die het AI-model voor algemene doeleinden in hun AI-systemen willen integreren. 
 levenscyclus:
 - ontwerp
-- verificatie-en-validatie
-- implementatie
+- ontwikkelen
 - monitoring-en-beheer
 onderwerp:
 - transparantie
+rollen:
+- projectleider
 soort-toepassing:
 - ai-model-voor-algemene-doeleinden
 rol-ai-act:

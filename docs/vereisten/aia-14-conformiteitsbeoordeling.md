@@ -7,6 +7,9 @@ levenscyclus:
 - implementatie
 onderwerp:
 - governance
+rollen:
+- jurist
+- projectleider
 soort-toepassing:
 - ai-systeem
 - ai-systeem-voor-algemene-doeleinden

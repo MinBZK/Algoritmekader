@@ -3,12 +3,14 @@ title: Hoog-risico-AI-systemen vormen geen risico voor kwetsbare groepen zoals k
 id: urn:nl:ak:ver:aia-04
 toelichting: Bij het doorlopen, periodieke systematische toetsing en actualisatie van het risicosysteem nemen aanbieders in overweging of het beoogde doel van het AI-systeem negatieve effecten zal hebben op personen jonger dan 18 jaar of andere kwetsbare groepen.
 levenscyclus:
-- probleemanalyse
 - ontwerp
-- ontwikkelen
+- monitoring-en-beheer
 onderwerp:
 - fundamentele-rechten
 - bias-en-non-discriminatie
+rollen:
+- projectleider
+- beleid-en-advies
 soort-toepassing:
 - ai-systeem
 - ai-systeem-voor-algemene-doeleinden

@@ -15,6 +15,8 @@ rol-ai-act:
 - aanbieder
 hide:
 - navigation
+rollen:
+- projectleider
 ---
 
 <!-- tags -->

@@ -4,9 +4,10 @@ id: urn:nl:ak:ver:aia-26
 toelichting: Voordat een AI-systeem met een hoog risico op de werkplek in gebruik wordt gesteld of wordt gebruikt, delen gebruiksverantwoordelijken die werkgever zijn werknemersvertegenwoordigers en de betrokken werknemers mee dat zij zullen worden onderworpen aan het gebruik van het AI-systeem met een hoog risico. Deze informatie wordt, indien van toepassing, verstrekt in overeenstemming met de in het Unie- en nationaal recht vastgelegde regels en procedures en de praktijk inzake informatie van werknemers en hun vertegenwoordigers.
 levenscyclus:
 - implementatie
-- ontwerp
 onderwerp:
-- governance
+- transparantie
+rollen:
+- projectleider
 soort-toepassing:
 - ai-systeem
 - ai-systeem-voor-algemene-doeleinden

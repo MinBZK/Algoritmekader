@@ -2,10 +2,13 @@
 title: Computersystemen zijn voldoende beveiligd tegen ongelukken en cyberaanvallen
 id: urn:nl:ak:ver:bio-01
 toelichting: Informatie en informatiesystemen moeten op de juiste manier worden beveiligd.
-# levenscyclus: 
-# - organisatieverantwoordelijkheden
+levenscyclus: 
+- organisatieverantwoordelijkheden
 onderwerp: 
 - technische-robuustheid-en-veiligheid
+rollen:
+- beleid-en-advies
+- ontwikkelaar
 hide:
 - navigation
 ---

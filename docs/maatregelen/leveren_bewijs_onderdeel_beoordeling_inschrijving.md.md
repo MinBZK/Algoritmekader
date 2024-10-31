@@ -39,15 +39,8 @@ onderwerp:
 
 # vul hier de rollen in die betrokken zijn bij deze maatregel
 rollen:
-- proceseigenaar
-- behoeftesteller
-- data-scientist
-- ethicus
-- privacy-officer
-- security-officer
-- inkoopadviseur
-- contractbeheerder
-- aanbestedingsjurist
+- projectleider
+- beleid-en-advies
 
 hide:
 - navigation

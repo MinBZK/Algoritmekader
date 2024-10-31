@@ -7,6 +7,8 @@ levenscyclus:
 - monitoring-en-beheer
 onderwerp:
 - governance
+rollen:
+- projectleider
 soort-toepassing:
 - ai-systeem
 - ai-systeem-voor-algemene-doeleinden

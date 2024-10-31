@@ -16,6 +16,9 @@ rol-ai-act:
 - aanbieder
 hide:
 - navigation
+rollen:
+- jurist
+- projectleider
 ---
 
 <!-- tags -->

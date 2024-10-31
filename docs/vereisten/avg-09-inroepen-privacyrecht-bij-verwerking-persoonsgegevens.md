@@ -3,11 +3,13 @@ title: Privacyrechten
 id: urn:nl:ak:ver:avg-09
 toelichting: Betrokkenen kunnen een beroep doen op hun privacyrechten.
 levenscyclus:
-- ontwerp
-- dataverkenning-en-datapreparatie
+- organisatieverantwoordelijkheden
 - ontwikkelen
 onderwerp:
 - privacy-en-gegevensbescherming
+- data
+rollen:
+- ontwikkelaar
 hide:
 - navigation
 ---

@@ -7,12 +7,12 @@ levenscyclus:
 - monitoring-en-beheer
 onderwerp:
 - transparantie
-rollen:
-- projectleider
-- gemandateerd-verantwoordelijke
-- privacy-officer
-- proceseigenaar
-- informatiebeheerder
+# rollen:
+# - projectleider
+# - gemandateerd-verantwoordelijke
+# - privacy-officer
+# - proceseigenaar
+# - informatiebeheerder
 ---
 
 <!-- tags -->

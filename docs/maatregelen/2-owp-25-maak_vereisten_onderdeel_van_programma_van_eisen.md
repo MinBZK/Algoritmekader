@@ -71,12 +71,8 @@ onderwerp:
 - publieke-inkoop
 # geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn
 rollen:
-- proceseigenaar
-- behoeftesteller
-- data-scientist
-- inkoopadviseur
-- contractbeheerder
-- aanbestedingsjurist
+- projectleider
+- beleid-en-advies
 hide:
 - navigation
 - toc

@@ -40,15 +40,7 @@ onderwerp:
 
 # geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn
 rollen:
-- proceseigenaar
-- behoeftesteller
-- data-scientist
-- ethicus
-- privacy-officer
-- security-officer
-- inkoopadviseur
-- contractbeheerder
-- aanbestedingsjurist
+- ontwikkelaar
 hide:
 - navigation
 - toc

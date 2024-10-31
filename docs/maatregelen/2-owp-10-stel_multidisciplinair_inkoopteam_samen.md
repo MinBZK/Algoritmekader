@@ -21,7 +21,7 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-Stel (tijdig) een multidisciplinair team samenstellen bij het inkopen van overheidsopdrachten waar algoritmes onderdeel van zijn.
+Stel (tijdig) een multidisciplinair team samen bij het inkopen van overheidsopdrachten waar algoritmes onderdeel van zijn.
 
 ## Toelichting 
 <!-- Geef hier een toelichting van deze maatregel -->

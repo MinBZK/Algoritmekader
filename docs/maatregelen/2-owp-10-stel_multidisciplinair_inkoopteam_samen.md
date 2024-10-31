@@ -15,7 +15,6 @@ onderwerp:
 - publieke_inkoop
 hide:
 - navigation
----
 
 # geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn
 rollen:
@@ -25,6 +24,7 @@ rollen:
 <!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->
 <!-- tags -->
 
+---
 ## Maatregel
 Stel (tijdig) een multidisciplinair team samen bij het inkopen van overheidsopdrachten waar algoritmes onderdeel van zijn.
 

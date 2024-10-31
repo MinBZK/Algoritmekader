@@ -31,7 +31,7 @@ levenscyclus:
 onderwerp: 
 - publieke-inkoop
 # geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn
-# rollen:
+rollen:
  - projectleider
  - beleid en advies
  - ontwikkelaar

@@ -2,7 +2,7 @@
 # vul hier een titel in voor deze maatregel
 title: Maak vereisten voor algoritmes onderdeel van de Service Level Agreement
 # geef hier een korte toelichting van deze maatregel
-toelichting: Onderzoek of het relevant is om vereisten algoritmes onderdeel te maken van de Service Level Agreement. Met een SLA kunnen specifieke afspraken worden gemaakt over de kwaliteit van de dienstverlening van aanbieder.
+toelichting: Onderzoek of het relevant is om vereisten voor algoritmes onderdeel te maken van de Service Level Agreement. Met een SLA kunnen specifieke afspraken worden gemaakt over de kwaliteit van de dienstverlening van aanbieder.
 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
@@ -32,13 +32,9 @@ onderwerp:
 - publieke-inkoop
 # geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn
 # rollen:
-# - proceseigenaar
-# - behoeftesteller
-# - inkoopadviseur
-# - contractbeheerder
-# - aanbestedingsjurist
-# - data-scientist
-# - aanbieder
+ - projectleider
+ - beleid en advies
+ - ontwikkelaar
   
 hide:
 - navigation
@@ -53,7 +49,7 @@ Maak de vereiste onderdeel van Service Level Agreement
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-- Onderzoek of het relevant is om vereiste voor een verantwoorde inzet van algoritmes onderdeel te maken van de Service Level Agreement.
+- Onderzoek met het inkoopteam het relevant is om vereiste voor een verantwoorde inzet van algoritmes onderdeel te maken van de Service Level Agreement. 
 - Met een SLA kunnen specifieke afspraken worden gemaakt over de kwaliteit van de dienstverlening van aanbieder.
 - Hierbij kan worden gedacht aan onderwerpen als incidentmanagement, servicemanagement, verantwoordelijkheden matrix, hersteltijd, prestatiecriteria, reproduceerbaarheid, versiebeheer van de gebruikte algoritmes en informatiebeveiliging. 
 - Laat de aanbieder aangeven welke vormen van onderhoud aan de betreffende algoritmes nodig zijn en de snelheid waarmee signalen vanuit gebruik, ongeacht de bron, kunnen worden verwerkt in het systeem en welke expertise hiervoor beschikbaar is. 

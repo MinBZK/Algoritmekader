@@ -73,6 +73,8 @@ onderwerp:
 rollen:
 - projectleider
 - beleid-en-advies
+- ontwikkelaar
+  
 hide:
 - navigation
 - toc

@@ -15,6 +15,7 @@ onderwerp:
 - publieke_inkoop
 hide:
 - navigation
+---
 
 # geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn
 rollen:

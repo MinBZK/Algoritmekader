@@ -7,6 +7,8 @@ levenscyclus:
 - monitoring-en-beheer
 onderwerp:
 - governance
+rollen:
+- projectleider
 hide:
 - navigation
 ---

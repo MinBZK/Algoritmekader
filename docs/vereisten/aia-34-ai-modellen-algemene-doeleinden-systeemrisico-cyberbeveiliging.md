@@ -4,11 +4,12 @@ id: urn:nl:ak:ver:aia-34
 toelichting: Aanbieders van AI-modellen voor algemene doeleinden met een systeemrisico zorgen voor een passend niveau van cyberbeveiligingsbescherming voor het AI-model voor algemene doeleinden met een systeemrisico en de fysieke infrastructuur van het model
 levenscyclus:
 - ontwikkelen
-- implementatie
 - monitoring-en-beheer
 onderwerp:
 - governance
 - technische-robuustheid-en-veiligheid
+rollen:
+- ontwikkelaar
 hide:
 - navigation
 ---

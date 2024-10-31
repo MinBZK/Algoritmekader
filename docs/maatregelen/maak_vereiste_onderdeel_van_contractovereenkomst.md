@@ -64,14 +64,8 @@ levenscyclus:
 onderwerp: 
 - publieke-inkoop
 rollen:
-- behoeftesteller
-- data-scientist
-- privacy-officer
-- security-officer
-- inkoopadviseur
-- contractbeheerder
-- aanbestedingsjurist
-
+- projectleider
+- beleid-en-advies
 hide:
 - navigation
 - toc

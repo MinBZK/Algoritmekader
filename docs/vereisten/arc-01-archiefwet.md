@@ -42,4 +42,4 @@ Het nalaten om archiefbescheiden na verloop van tijd te verwijderen brengt risic
 
 ## Maatregelen 
 
-<!-- list_maatregelen vereiste/arc-01-archiefwet -->
+<!-- list_maatregelen vereiste/arc-01-archiefwet no-search no-onderwerp no-rol no-levenscyclus -->

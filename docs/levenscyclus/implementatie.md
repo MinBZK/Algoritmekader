@@ -1,7 +1,6 @@
 --- 
 title: Implementatie
 hide:
-- navigation
 - toc
 ---
 

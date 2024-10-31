@@ -40,4 +40,4 @@ Niet voldoen aan deze verplichtingen kan leiden tot negatieve gevolgen voor de g
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-32-ai-modellen-algemene-doeleinden-systeemrisico -->
+<!-- list_maatregelen vereiste/aia-32-ai-modellen-algemene-doeleinden-systeemrisico no-search no-onderwerp no-rol no-levenscyclus -->

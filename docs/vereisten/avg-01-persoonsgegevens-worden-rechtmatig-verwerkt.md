@@ -45,4 +45,4 @@ Ook kan het leiden tot hoge boetes voor organisaties, en kan een datalek plaatsv
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/avg-01-persoonsgegevens-worden-rechtmatig-verwerkt -->
+<!-- list_maatregelen vereiste/avg-01-persoonsgegevens-worden-rechtmatig-verwerkt no-search no-onderwerp no-rol no-levenscyclus -->

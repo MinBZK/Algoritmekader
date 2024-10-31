@@ -1,5 +1,7 @@
 --- 
 title: Organisatieverantwoordelijkheden
+hide:
+- toc
 ---
 
 Voordat je start met de ontwikkeling of het gebruik van een algoritme, zul je moeten zorgen dat je organisatie voldoende ingericht is om algoritmes te gebruiken of te ontwikkelen. 

@@ -35,4 +35,4 @@ Weigering om informatie te verstrekken kan leiden tot juridische sancties en kan
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-20-verstrekken-van-informatie-op-verzoek -->
+<!-- list_maatregelen vereiste/aia-20-verstrekken-van-informatie-op-verzoek no-search no-onderwerp no-rol no-levenscyclus -->

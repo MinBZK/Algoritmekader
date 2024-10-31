@@ -43,4 +43,4 @@ Ontbreken van automatische logregistratie kan leiden tot een gebrek aan transpar
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-07-automatische-logregistratie -->
+<!-- list_maatregelen vereiste/aia-07-automatische-logregistratie no-search no-onderwerp no-rol no-levenscyclus -->

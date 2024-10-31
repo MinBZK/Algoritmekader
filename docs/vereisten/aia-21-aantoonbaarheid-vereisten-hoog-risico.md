@@ -34,4 +34,4 @@ Niet naleven van deze verplichtingen kan leiden tot juridische en operationele p
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-21-aantoonbaarheid-vereisten-hoog-risico -->
+<!-- list_maatregelen vereiste/aia-21-aantoonbaarheid-vereisten-hoog-risico no-search no-onderwerp no-rol no-levenscyclus -->

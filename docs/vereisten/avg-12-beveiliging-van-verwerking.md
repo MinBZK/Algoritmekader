@@ -41,4 +41,4 @@ Dit kan leiden bijvoorbeeld tot verlies of diefstal van gevoelige gegevens, vers
 
 ## Maatregelen 
 
-<!-- list_maatregelen vereiste/avg-12-beveiliging-van-verwerking -->
+<!-- list_maatregelen vereiste/avg-12-beveiliging-van-verwerking no-search no-onderwerp no-rol no-levenscyclus -->

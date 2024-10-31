@@ -41,4 +41,4 @@ Het ontbreken van risicobeheer kan leiden tot schade aan gebruikers of derden en
 
 ## Maatregelen
 	
-<!-- list_maatregelen vereiste/urn:nl:ak:ver:aia-03 -->
+<!-- list_maatregelen vereiste/aia-03-risicobeheersysteem no-search no-onderwerp no-rol no-levenscyclus -->

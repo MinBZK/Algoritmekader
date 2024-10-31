@@ -39,4 +39,4 @@ Niet naleven van deze verplichtingen kan leiden tot juridische en operationele p
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-15-eu-conformiteitsverklaring -->
+<!-- list_maatregelen vereiste/aia-15-eu-conformiteitsverklaring no-search no-onderwerp no-rol no-levenscyclus -->

@@ -5,7 +5,7 @@ toelichting: Maak gebruik van datacenters die gebruikmaken van duurzame energieb
 levenscyclus:
 - dataverkenning-en-datapreparatie
 - ontwikkelen
-- implementeren
+- implementatie
 - monitoring-en-beheer
 onderwerp: 
 - duurzaamheid

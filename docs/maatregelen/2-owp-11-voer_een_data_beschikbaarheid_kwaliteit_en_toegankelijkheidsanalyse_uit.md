@@ -2,7 +2,7 @@
 # vul hier een titel in voor deze maatregel
 title: Voer voorafgaand aan een aanbesteding een data beschikbaarheid, kwaliteit- en toegankelijkheidsanalayse uit. 
 # geef hier een korte toelichting van deze maatregel
-toelichting: Het is van belang om voorafgaand aan een aanbesteding vast te stellen of de data die noodzakelijk is om een algoritme of AI-systeem te ontwikkelen beschikbaar is of gaat worden en van voldoende kwaliteit is. 
+toelichting: Het is van belang om voorafgaand aan een aanbesteding vast te stellen of de data die noodzakelijk is om een algoritme te ontwikkelen of te kunnen gebruiken beschikbaar is of gaat worden en van voldoende kwaliteit is. 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
 - aia-05-data-kwaliteitscriteria
@@ -43,11 +43,11 @@ Voer voorafgaand aan een aanbesteding een data beschikbaarheids- en kwaliteitsan
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Het is van belang om voorafgaand aan een aanbesteding vast te stellen of de data die noodzakelijk is om een algoritme of AI-systeem te ontwikkelen beschikbaar is, gaat worden en of de data van voldoende kwaliteit is. Het is van belang om te onderzoeken of en hoe data vanuit de eigen organisatie of die van een aanbieder beschikbaar kan worden gesteld, kan worden opgeslagen en er goedkeuring kan worden gegeven voor het verwerken van de data. 
+Het is van belang om voorafgaand aan een aanbesteding vast te stellen of de data die noodzakelijk is om een algoritme te ontwikkelen of te kunnen gebruiken beschikbaar is, gaat worden en of de data van voldoende kwaliteit is. Het is van belang om te onderzoeken of en hoe data vanuit de eigen organisatie, die van een aanbieder of elders beschikbaar kan worden gesteld, kan worden opgeslagen en of goedkeuring kan worden gegeven voor het verwerken van de data. 
 
 De infrastructuur van de eigen organisatie en/of die van de aanbieder moeten van voldoende niveau zijn om de beoogde verwerkingen uit te kunnen voeren. 
 
-Een dergelijke analyse levert inzichten op welke problemen er eventueel op dit vlak kunnen ontstaan.
+Een dergelijke analyse levert inzichten op welke problemen er eventueel op dit vlak kunnen ontstaan en geeft input voor de behoeftestelling.
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

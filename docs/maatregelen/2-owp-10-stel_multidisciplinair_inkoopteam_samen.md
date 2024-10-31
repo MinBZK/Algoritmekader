@@ -17,6 +17,11 @@ hide:
 - navigation
 ---
 
+# geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn
+rollen:
+- projectleider
+- beleid en advies
+
 <!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->
 <!-- tags -->
 

@@ -9,10 +9,10 @@ levenscyclus:
 onderwerp:
 - publieke-inkoop
 - privacy-en-gegevensbescherming
-rollen:
-- proceseigenaar
-- privacy-officer
-- inkoopadviseur
+# rollen:
+# - proceseigenaar
+# - privacy-officer
+# - inkoopadviseur
 hide:
 - navigation
 - toc
@@ -49,10 +49,7 @@ Beveiliging. De verwerker treft passende technische en organisatorische maatrege
 
 ## Bronnen
 
-| Bron                        |
-|-----------------------------|
-|Algoritmekader|
-| [Verwerkersovereenkomst](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/avg-algemeen/verwerkersovereenkomst)|
+[Verwerkersovereenkomst](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/avg-algemeen/verwerkersovereenkomst)
 
 
 ## Voorbeeld

@@ -9,13 +9,13 @@ levenscyclus:
 
 onderwerp:
 - publieke-inkoop
-rollen:
-- behoeftesteller
-- proceseigenaar
-- gebruiker
-- inkoopadviseur
-- ethicus
-- jurist
+# rollen:
+# - behoeftesteller
+# - proceseigenaar
+# - gebruiker
+# - inkoopadviseur
+# - ethicus
+# - jurist
 hide:
 - navigation
 - toc
@@ -38,10 +38,6 @@ Een opdrachtgever moet zelf bepalen welke algoritmes, gezien de specifieke conte
 <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
-
-| Bron                        |
-|-----------------------------|
-|Algoritmekader|
 
 ## Voorbeeld
 

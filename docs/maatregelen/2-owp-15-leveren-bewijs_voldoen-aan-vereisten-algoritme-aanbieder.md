@@ -47,11 +47,7 @@ Daarbij is het relevant om te beoordelen in hoeverre er is voldaan aan geharmoni
 <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen 
-<!-- Vul hier de relevante bronnen in voor deze maatregel -->
-
-| Bron                        |
-|-----------------------------|
-| Algoritmekader |        
+<!-- Vul hier de relevante bronnen in voor deze maatregel -->     
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->

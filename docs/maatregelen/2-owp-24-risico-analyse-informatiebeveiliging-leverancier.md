@@ -36,10 +36,8 @@ Voer een risico-analyse uit op het gebied van informatiebeveiliging bij een uitb
 
 ## Bronnen
 
-| Bron                        |
-|-----------------------------|
-| [Baseline Informatiebeveiliging Overheid, BIO 15.1.1.1](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/) |
-| [Onderzoekskader Algoritmes Auditdienst Rijk, IB.29](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) |
+- [Baseline Informatiebeveiliging Overheid, BIO 15.1.1.1](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/)
+- [Onderzoekskader Algoritmes Auditdienst Rijk, IB.29](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 
 ## Voorbeeld
 

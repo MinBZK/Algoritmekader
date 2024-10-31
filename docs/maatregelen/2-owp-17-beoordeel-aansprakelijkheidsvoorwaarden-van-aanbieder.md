@@ -8,12 +8,12 @@ levenscyclus:
 - implementatie
 onderwerp:
 - publieke-inkoop
-rollen:
-- proceseigenaar
-- behoeftesteller
-- inkoopadviseur
-- contractbeheerder
-- aanbestedingsjurist
+# rollen:
+# - proceseigenaar
+# - behoeftesteller
+# - inkoopadviseur
+# - contractbeheerder
+# - aanbestedingsjurist
 hide:
 - navigation
 - toc
@@ -42,10 +42,7 @@ Het is daarom van belang om een beoordeling te maken in hoeverre de aansprakelij
 
 ## Bronnen
 
-| Bron                                                                                                                                                                                     |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Algoritmekader                                                                                                                                                                           |
-| [Advies Landsadvocaat Pels Rijcken over het gebruik van generatieve AI-tools door medewerkers van de Staat](https://open.overheid.nl/documenten/16d72572-da6b-422c-8cf8-cdc95a523093/file) |
+[Advies Landsadvocaat Pels Rijcken over het gebruik van generatieve AI-tools door medewerkers van de Staat](https://open.overheid.nl/documenten/16d72572-da6b-422c-8cf8-cdc95a523093/file)
 
 ## Voorbeeld
 

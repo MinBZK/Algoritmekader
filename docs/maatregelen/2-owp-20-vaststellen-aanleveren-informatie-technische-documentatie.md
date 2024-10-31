@@ -8,10 +8,10 @@ levenscyclus:
 
 onderwerp:
 - publieke-inkoop
-rollen:
-- behoeftesteller
-- inkoopadviseur
-- aanbieder
+# rollen:
+# - behoeftesteller
+# - inkoopadviseur
+# - aanbieder
 hide:
 - navigation
 - toc
@@ -35,10 +35,6 @@ Vul technische documentatie van aanbieder aan met relevante informatie vanuit de
 <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
-
-| Bron                        |
-|-----------------------------|
-|Algoritmekader|
 
 ## Voorbeeld
 

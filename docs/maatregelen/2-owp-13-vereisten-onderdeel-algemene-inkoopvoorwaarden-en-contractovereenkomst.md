@@ -91,12 +91,8 @@ Maak vereisten voor algoritmes onderdeel van contractvoorwaarden en de contracto
 
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
-
-| Bron                        |
-|-----------------------------|
-| Algoritmekader |  
-| [Onderzoekskader Algoritmes Auditdienst Rijk, SV.11](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)| 
-| [Specificeren algemene inkoopvoorwaarden](https://www.pianoo.nl/nl/inkoopproces/fase-1-voorbereiden/specificeren/specificeren-algemene-voorwaarden) |
+- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.11](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [Specificeren algemene inkoopvoorwaarden](https://www.pianoo.nl/nl/inkoopproces/fase-1-voorbereiden/specificeren/specificeren-algemene-voorwaarden)
 
 
 ## Voorbeeld

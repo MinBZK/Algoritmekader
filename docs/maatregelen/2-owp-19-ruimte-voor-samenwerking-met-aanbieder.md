@@ -1,10 +1,12 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Neem het kunnen uitvoeren van een audit over de vereiste op in contractvoorwaarden en de contractovereenkomst 
+title: Creëer ruimte om met een aanbieder samen te gaan werken om specifieke vereisten te realiseren
+
 # geef hier een korte toelichting van deze maatregel
-toelichting: Het is van belang dat opdrachtgever mogelijkheden heeft om te controleren in hoeverre door aanbieder/opdrachtnemer wordt voldaan aan naleving van de vereiste.  
+toelichting: Om op een betekenisvolle manier invulling te geven bepaalde vereisten, kan het noodzakelijk zijn dat de opdrachtgever en aanbieder (innovatief) moeten samenwerken om specifieke vereisten te realiseren. 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
+
 - aia-02-documentatie-beoordeling-niet-hoog-risico-ai
 - aia-03-risicobeheersysteem
 - aia-04-risicobeoordeling-voor-jongeren-en-kwetsbaren
@@ -69,11 +71,10 @@ levenscyclus:
 onderwerp: 
 - publieke-inkoop
 
-# vul hier de rollen in die betrokken zijn bij deze maatregel
+# geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn
 rollen:
 - projectleider
-- jurist
-  
+
 hide:
 - navigation
 - toc
@@ -84,11 +85,14 @@ hide:
 
 ## Maatregel
 <!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
-Neem het kunnen uitvoeren van een audit over de vereiste op in contractvoorwaarden en de contractovereenkomst 
+Creëer ruimte om met een aanbieder samen te gaan werken om specifieke vereisten te gaan realiseren.
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Het is van belang dat opdrachtgever mogelijkheden heeft om te controleren in hoeverre door aanbieder/opdrachtnemer wordt voldaan aan naleving van de contractvoorwaarden
+Om op een betekenisvolle manier invulling te geven aan bepaalde vereisten, kan het noodzakelijk zijn dat opdrachtgever en aanbieder (innovatief) moeten gaan samenwerken. Op basis van nieuwe wet- en regelgeving (bv. AI-Verordening) of geharmoniseerde standaarden kunnen aanbieders mogelijk nog niet voldoen aan nieuwe vereisten. Het kan ook onduidelijk zijn hoe moet worden voldaan aan vereisten nu de technologie zich snel ontwikkelt of dat de specifieke omstandigheden van het beoogde gebruik vragen om een samenspel tussen opdrachtgever en aanbieder.
+
+Bij een verantwoorde inzet van algoritmes kan het bij vereisten zoals non-discriminatie, transparantie en eerbiedigen van fundamentele rechten van belang zijn om samen te onderzoeken en te duiden (na het afsluiten van een contract) hoe hier invulling aan moet worden gegeven. Het is belangrijk om bij de behoeftestelling al te verkennen om welke onderwerpen dit mogelijk van toepassing is. Bij een marktverkenning of informatiesessie kan worden verkend hoe aanbieders ervoor staan. Op basis hiervan kan worden beoordeeld in hoeverre bijvoorbeeld in een aanbesteding contractuele ruimte moet worden gecreëerd voor opdrachtgever en aanbieder om hieraan te werken. 
+
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
@@ -99,13 +103,8 @@ Het is van belang dat opdrachtgever mogelijkheden heeft om te controleren in hoe
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
-| Bron                        |
-|-----------------------------|
-| Algoritmekader |  
-| [Contractvoorwaarden gemeente Amsterdam](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/contractvoorwaarden-algoritmen/) |
-| [Europese Inkoopvoorwaarden Hoog Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_template_High_Risk%20NL.pdf) |
-| [Europese Inkoopvoorwaarden Laag Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_Template_NON_HIGH_RISK_NL.pdf) |
-
+- [Ruimte voor Innovatie in het contract](https://www.pianoo.nl/sites/default/files/media/documents/Inspiratiebundel-Ruimte-voor-innovatie-in-het-contract-juni2020.pdf)
+- [Aanbesteding Ethische Beeldinwinning en Objectherkenning Openbare Ruimte](https://s2c.mercell.com/today/34506?type=planning)
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->

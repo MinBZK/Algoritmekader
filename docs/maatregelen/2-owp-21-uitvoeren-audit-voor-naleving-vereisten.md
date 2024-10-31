@@ -1,9 +1,8 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Maak vereisten onderdeel van het programma van eisen bij een aanbesteding
+title: Neem het kunnen uitvoeren van een audit over de vereiste op in contractvoorwaarden en de contractovereenkomst 
 # geef hier een korte toelichting van deze maatregel
-toelichting: Door vereisten onderdeel te maken van het programma van eisen bij een aanbesteding, is het voor aanbieders duidelijk aan welke specifieke eisen een oplossing moet voldoen. Op basis hiervan kan een aanbieder een zo goed mogelijke aanbieding doen.
-
+toelichting: Het is van belang dat opdrachtgever mogelijkheden heeft om te controleren in hoeverre door aanbieder/opdrachtnemer wordt voldaan aan naleving van de vereiste.  
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
 - aia-02-documentatie-beoordeling-niet-hoog-risico-ai
@@ -69,10 +68,12 @@ levenscyclus:
 # vul hier de bouwblokken in die horen bij deze maatregel
 onderwerp: 
 - publieke-inkoop
-# geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn
+
+# vul hier de rollen in die betrokken zijn bij deze maatregel
 rollen:
 - projectleider
-- beleid-en-advies
+- jurist
+  
 hide:
 - navigation
 - toc
@@ -83,11 +84,11 @@ hide:
 
 ## Maatregel
 <!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
-Maak vereisten onderdeel van het programma van eisen bij een aanbesteding
+Neem het kunnen uitvoeren van een audit over de vereiste op in contractvoorwaarden en de contractovereenkomst 
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Door vereisten onderdeel te maken van het programma van eisen bij een aanbesteding, is het voor aanbieders duidelijk aan welke specifieke eisen een oplossing moet voldoen. Op basis hiervan kan een aanbieder een zo goed mogelijke aanbieding doen. Afhankelijk van de behoeftestelling kan het relevant zijn om bepaalde vereisten te verfijnen in het Programma van Eisen en aan te geven wanneer hieraan voldaan is, bijvoorbeeld met betrekking tot het transparantievereiste.
+Het is van belang dat opdrachtgever mogelijkheden heeft om te controleren in hoeverre door aanbieder/opdrachtnemer wordt voldaan aan naleving van de contractvoorwaarden
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
@@ -98,11 +99,12 @@ Door vereisten onderdeel te maken van het programma van eisen bij een aanbestedi
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
-| Bron                        |
-|-----------------------------|
-| Algoritmekader | 
-| [Hoe specificeer ik mijn vraag?](https://www.pianoo.nl/nl/inkopen-het-kort/hoe-zit-het-inkoopproces-elkaar/hoe-specificeer-ik-mijn-vraag) |
-|
+- [Contractvoorwaarden gemeente Amsterdam](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/contractvoorwaarden-algoritmen/)
+- [Europese Inkoopvoorwaarden Hoog Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_template_High_Risk%20NL.pdf)
+- [Europese Inkoopvoorwaarden Laag Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_Template_NON_HIGH_RISK_NL.pdf)
+
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
+
+Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

@@ -2,7 +2,7 @@
 # vul hier een titel in voor deze maatregel
 title: Stel (tijdig) een multidisciplinair team samen bij het inkopen van overheidsopdrachten waar algoritmes onderdeel van zijn.
 # geef hier een korte toelichting van deze maatregel
-toelichting: 
+toelichting: Stel (tijdig) een multidisciplinair team samen bij het inkopen van overheidsopdrachten waar algoritmes onderdeel van zijn.
 vereiste:
 - awb-01-zorgvuldigheidsbeginsel
   
@@ -12,14 +12,14 @@ levenscyclus:
 
 # vul hier de bouwblokken in die horen bij deze maatregel
 onderwerp: 
-- publieke_inkoop
+- publieke-inkoop
 hide:
 - navigation
 
 # geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn
 rollen:
 - projectleider
-- beleid en advies
+- beleid-en-advies
 ---
 <!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->
 <!-- tags -->
@@ -33,18 +33,15 @@ Stel (tijdig) een multidisciplinair team samen bij het inkopen van overheidsopdr
 
 - Bij de inkoop van (de ontwikkeling van) een algoritmes is een multidisciplinair inkoopteam wenselijk, waarbij relevante kennis en ervaring kan worden vertaald naar een passende inkoopbehoefte. Afhankelijk van de inkoopbehoefte kunnen de rollen binnen een multidisciplinair inkoopteam variëren. Naast een interne opdrachtgever, materiedeskundige, gebruiker, (aanbestedings)jurist en de inkoper kun je voor (het ontwikkelen van) algoritmes denken aan een data-engineer, data scientist, IT-architect, ethicus, data- en privacy-officer. Afhankelijk van de complexiteit van de oplossing zijn meer of minder disciplines en dus te beleggen verantwoordelijkheden binnen het inkoopteam wenselijk. 
 
-- Een multidisciplinair team kan ondersteunen bij het formuleren van de doelstellingen van een overheidsopdracht, verkennen van de oplossingsrichtingen in de markt en het vertalen van de gewenste oplossingsrichting naar de inkoopbehoefte.
+- Een multidisciplinair team kan ondersteunen bij het [formuleren van de probleemstelling](1-pba-01-formuleren-probleemdefinitie.md) of [formuleren van de doelstellingen](1-pba-02-formuleren-doelstelling.md) van een overheidsopdracht, verkennen van de oplossingsrichtingen in de markt en het vertalen van de gewenste oplossingsrichting naar de inkoopbehoefte.
 
-## Bijbehorende maatregelen
+## Bijbehorende vereisten
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
 <!-- list_vereisten_on_maatregelen_page -->
-- formuleren_doelstelling
-- formuleren_probleemstelling
 
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
-[Volgt!]
 
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->

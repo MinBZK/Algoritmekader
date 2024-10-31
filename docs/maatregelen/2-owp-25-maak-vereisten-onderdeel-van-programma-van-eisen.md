@@ -1,12 +1,11 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Creëer ruimte om met een aanbieder samen te gaan werken om specifieke vereisten te realiseren
-
+title: Maak vereisten onderdeel van het programma van eisen bij een aanbesteding
 # geef hier een korte toelichting van deze maatregel
-toelichting: Om op een betekenisvolle manier invulling te geven bepaalde vereisten, kan het noodzakelijk zijn dat de opdrachtgever en aanbieder (innovatief) moeten samenwerken om specifieke vereisten te realiseren. 
+toelichting: Door vereisten onderdeel te maken van het programma van eisen bij een aanbesteding, is het voor aanbieders duidelijk aan welke specifieke eisen een oplossing moet voldoen. Op basis hiervan kan een aanbieder een zo goed mogelijke aanbieding doen.
+
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
-
 - aia-02-documentatie-beoordeling-niet-hoog-risico-ai
 - aia-03-risicobeheersysteem
 - aia-04-risicobeoordeling-voor-jongeren-en-kwetsbaren
@@ -70,11 +69,10 @@ levenscyclus:
 # vul hier de bouwblokken in die horen bij deze maatregel
 onderwerp: 
 - publieke-inkoop
-
 # geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn
 rollen:
 - projectleider
-
+- beleid-en-advies
 hide:
 - navigation
 - toc
@@ -85,14 +83,11 @@ hide:
 
 ## Maatregel
 <!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
-Creëer ruimte om met een aanbieder samen te gaan werken om specifieke vereisten te gaan realiseren.
+Maak vereisten onderdeel van het programma van eisen bij een aanbesteding
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Om op een betekenisvolle manier invulling te geven aan bepaalde vereisten, kan het noodzakelijk zijn dat opdrachtgever en aanbieder (innovatief) moeten gaan samenwerken. Op basis van nieuwe wet- en regelgeving (bv. AI-Verordening) of geharmoniseerde standaarden kunnen aanbieders mogelijk nog niet voldoen aan nieuwe vereisten. Het kan ook onduidelijk zijn hoe moet worden voldaan aan vereisten nu de technologie zich snel ontwikkelt of dat de specifieke omstandigheden van het beoogde gebruik vragen om een samenspel tussen opdrachtgever en aanbieder.
-
-Bij een verantwoorde inzet van algoritmes kan het bij vereisten zoals non-discriminatie, transparantie en eerbiedigen van fundamentele rechten van belang zijn om samen te onderzoeken en te duiden (na het afsluiten van een contract) hoe hier invulling aan moet worden gegeven. Het is belangrijk om bij de behoeftestelling al te verkennen om welke onderwerpen dit mogelijk van toepassing is. Bij een marktverkenning of informatiesessie kan worden verkend hoe aanbieders ervoor staan. Op basis hiervan kan worden beoordeeld in hoeverre bijvoorbeeld in een aanbesteding contractuele ruimte moet worden gecreëerd voor opdrachtgever en aanbieder om hieraan te werken. 
-
+Door vereisten onderdeel te maken van het programma van eisen bij een aanbesteding, is het voor aanbieders duidelijk aan welke specifieke eisen een oplossing moet voldoen. Op basis hiervan kan een aanbieder een zo goed mogelijke aanbieding doen. Afhankelijk van de behoeftestelling kan het relevant zijn om bepaalde vereisten te verfijnen in het Programma van Eisen en aan te geven wanneer hieraan voldaan is, bijvoorbeeld met betrekking tot het transparantievereiste.
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
@@ -103,13 +98,7 @@ Bij een verantwoorde inzet van algoritmes kan het bij vereisten zoals non-discri
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
-| Bron                        |
-|-----------------------------|
-| Algoritmekader |  
-| [Ruimte voor Innovatie in het contract](https://www.pianoo.nl/sites/default/files/media/documents/Inspiratiebundel-Ruimte-voor-innovatie-in-het-contract-juni2020.pdf)|
-| [Aanbesteding Ethische Beeldinwinning en Objectherkenning Openbare Ruimte](https://s2c.mercell.com/today/34506?type=planning) |
+[Hoe specificeer ik mijn vraag?](https://www.pianoo.nl/nl/inkopen-het-kort/hoe-zit-het-inkoopproces-elkaar/hoe-specificeer-ik-mijn-vraag)
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
-
-Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

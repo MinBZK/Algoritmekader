@@ -69,12 +69,9 @@ Maak vereisten onderdeel van (sub)gunningscriteria bij gunningscriteria beste pr
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
-| Bron                        |
-|-----------------------------|
-| Algoritmekader |  
-| [Keuze gunningscriterium en opstellen (sub)gunningscriteria](https://www.pianoo.nl/nl/inkoopproces/fase-1-voorbereiden/keuze-gunningscriterium-en-opstellen-subgunningscriteria) |
-| [Handreiking Beste prijs-kwaliteitsverhouding:de basis](https://www.pianoo.nl/nl/document/21647/handreiking-beste-prijs-kwaliteitverhouding-de-basis) |
-| [Beste prijs-kwaliteitsverhouding](https://www.pianoo.nl/nl/inkopen-het-kort/hoe-ga-ik-met-de-regels-om/gunningscriteria/beste-prijs-kwaliteitverhouding) |
+- [Keuze gunningscriterium en opstellen (sub)gunningscriteria](https://www.pianoo.nl/nl/inkoopproces/fase-1-voorbereiden/keuze-gunningscriterium-en-opstellen-subgunningscriteria)
+- [Handreiking Beste prijs-kwaliteitsverhouding:de basis](https://www.pianoo.nl/nl/document/21647/handreiking-beste-prijs-kwaliteitverhouding-de-basis)
+- [Beste prijs-kwaliteitsverhouding](https://www.pianoo.nl/nl/inkopen-het-kort/hoe-ga-ik-met-de-regels-om/gunningscriteria/beste-prijs-kwaliteitverhouding)
 
 
 ## Voorbeeld

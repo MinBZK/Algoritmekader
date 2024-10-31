@@ -8,12 +8,12 @@ levenscyclus:
 
 onderwerp:
 - publieke-inkoop
-rollen:
-- proceseigenaar
-- aanbieder
-- behoeftesteller
-- inkoopadviseur
-- contractbeheerder
+# rollen:
+# - proceseigenaar
+# - aanbieder
+# - behoeftesteller
+# - inkoopadviseur
+# - contractbeheerder
 hide:
 - navigation
 - toc
@@ -34,10 +34,6 @@ Laat de aanbieder aangeven op welk niveau de noodzakelijkerwijs te leveren train
 <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
-
-| Bron                        |
-|-----------------------------|
-|Algoritmekader|
 
 ## Voorbeeld
 

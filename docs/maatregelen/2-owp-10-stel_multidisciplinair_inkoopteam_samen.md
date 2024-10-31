@@ -20,12 +20,10 @@ hide:
 rollen:
 - projectleider
 - beleid en advies
-
-
+---
 <!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->
 <!-- tags -->
 
----
 ## Maatregel
 Stel (tijdig) een multidisciplinair team samen bij het inkopen van overheidsopdrachten waar algoritmes onderdeel van zijn.
 

@@ -33,8 +33,6 @@ Raadpleeg voor deze beoordeling verschillende experts, zoals een gebruiker, proc
 
 ## Bronnen
 
-| Bron                        |
-|-----------------------------|
 ||
 
 ## Voorbeeld

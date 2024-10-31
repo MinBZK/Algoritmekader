@@ -16,7 +16,7 @@ hide:
 <!-- tags -->
 ## Vereiste
 
-Bestuursorganen publiceren algoritmes met impact en hoog-risico AI-systemen in het [Nederlandse Algoritmeregister](https://algoritmes.overheid.nl/nl).
+Bestuursorganen publiceren algoritmes met impact en hoog-risico AI-systemen in het [Nederlandse Algoritmeregister](../hulpmiddelen/algoritmeregister.md).
 
 ## Toelichting 
 

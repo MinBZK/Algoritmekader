@@ -1,5 +1,6 @@
 ---
 title: Bepaal in een aanbesteding of algoritmes van een aanbieder bepalende invloed heeft in een besluit richting personen
+id: urn:nl:ak:mtr:owp-22
 toelichting: Ga na of algoritmes van een aanbieder een bepalende invloed hebben in een besluit richting personen en laat de aanbieder onderbouwen in hoeverre dit wel of niet het geval is. 
 
 vereiste:

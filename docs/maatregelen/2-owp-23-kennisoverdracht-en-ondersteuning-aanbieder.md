@@ -1,5 +1,6 @@
 ---
 title: Laat de aanbieder aangeven welke mate van kennisoverdracht (opleiding en training) en ondersteuning bij de organisatorische implementatie nodig is om de beoogde algoritmes verantwoord te kunnen gebruiken.  
+id: urn:nl:ak:mtr:owp-23
 toelichting: Beoordeel of de kennisoverdracht en ondersteuning van aanbieder voldoende is om voor een langere periode zelfstandig op een verantwoorde wijze gebruikt te kunnen maken van de algoritmes. 
 vereiste:
 - aia-01-ai-geletterdheid

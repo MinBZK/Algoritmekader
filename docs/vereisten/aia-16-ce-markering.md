@@ -3,11 +3,11 @@ title: Aanbieders van AI-systemen met een hoog risico voegen een CE-markering to
 id: urn:nl:ak:ver:aia-16
 toelichting: Aanbieders van AI-systemen met een hoog risico moeten een CE-markering toevoegen aan het AI-systeem met een hoog risico of, wanneer dit niet mogelijk is, op de verpakking of in de bij het product gevoegde documentatie, om aan te geven dat aan de AI-verordening is voldaan.
 levenscyclus:
-- ontwikkelen
-- verificatie-en-validatie
 - implementatie
 onderwerp:
-- governance
+- transparantie
+rollen:
+- projectleider
 hide:
 - navigation
 ---

@@ -9,11 +9,7 @@ levenscyclus:
 onderwerp:
 - publieke-inkoop
 rollen:
-- proceseigenaar
-- behoeftesteller
-- inkoopadviseur
-- contractbeheerder
-- aanbestedingsjurist
+- projectleider
 hide:
 - navigation
 - toc
@@ -36,9 +32,7 @@ Het is van belang dat de resterende risico's inzichtelijk zijn gemaakt, zodat aa
 
 ## Bronnen
 
-| Bron                        |
-|-----------------------------|
-|Algoritmekader|
+| |
 
 ## Voorbeeld
 

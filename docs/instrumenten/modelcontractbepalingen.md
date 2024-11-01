@@ -9,11 +9,7 @@ levenscyclus:
 onderwerp:
 - publieke-inkoop
 rollen:
-- aanbestedingsjurist
-- behoeftesteller
-- contractbeheerder
-- inkoopadviseur
-- projectleider
+- jurist
 ---
 
 <!-- tags -->

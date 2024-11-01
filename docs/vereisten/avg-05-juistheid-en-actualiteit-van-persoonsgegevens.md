@@ -3,13 +3,12 @@ title: Juistheid en actualiteit van gegevens
 id: urn:nl:ak:ver:avg-05
 toelichting: De te verwerken persoonsgegevens zijn juist, nauwkeurig en worden zo nodig geactualiseerd of gewist.
 levenscyclus:
-- probleemanalyse
-- ontwerp
 - dataverkenning-en-datapreparatie
-- ontwikkelen
 onderwerp:
 - privacy-en-gegevensbescherming
-- data
+rollen:
+- ontwikkelaar
+- projectleider
 hide:
 - navigation
 ---
@@ -25,8 +24,6 @@ De te verwerken persoonsgegevens moeten nauwkeurig, juist en zo nodig actueel zi
 Dit betekent dat alle maatregelen moeten worden genomen om ervoor te zorgen dat onjuiste persoonsgegevens worden gerectificeerd of gewist.
 Dat kan betekenen dat persoonsgegevens moeten worden geactualiseerd of verbeterd.
 In de context van algoritmes en AI is het van belang dat ook daar wordt onderzocht welke maatregelen nodig zijn om die juistheid toe te passen.
-
-
 
 ## Bronnen
 

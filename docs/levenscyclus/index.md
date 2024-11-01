@@ -19,15 +19,17 @@ De levenscyclus helpt je om te bepalen wat je wanneer moet doen.
 
 ## Fases van de levenscyclus
 
-0.  [Organisatieverantwoordelijkheden](organisatieverantwoordelijkheden.md)
-1.  [Probleemanalyse](probleemanalyse.md)
-2.  [Ontwerpen](ontwerp.md)
-3.  [Dataverkenning en datapreparatie](dataverkenning-en-datapreparatie.md)
-4.  [Ontwikkelen](ontwikkelen.md)
-5.  [Verficatie en validatie](verificatie-en-validatie.md)
-6.  [Implementeren](implementatie.md)
-7.  [Monitoring en beheer](monitoring-en-beheer.md)
-8.  [Uitfaseren](uitfaseren.md)
+<ol start="0">
+  <li> <a href="organisatieverantwoordelijkheden/">Organisatieverantwoordelijkheden</a></li>
+  <li> <a href="probleemanalyse/">Probleemanalyse</a></li>
+  <li> <a href="ontwerp/">Ontwerp</a></li>
+  <li> <a href="dataverkenning-en-datapreparatie/">Dataverkenning en datapreparatie</a></li>
+  <li> <a href="ontwikkelen/">Ontwikkelen</a></li>
+  <li> <a href="verificatie-en-validatie/">Verficatie en validatie</a></li>
+  <li> <a href="implementatie/">Implementeren</a></li>
+  <li> <a href="monitoring-en-beheer/">Monitoring en beheer</a></li>
+  <li> <a href="uitfaseren/">Uitfaseren</a></li>
+</ol>
 
 ## Systeemniveau en organisatieniveau
 De levenscyclus kent twee verschillende niveau's: 

@@ -11,9 +11,8 @@ onderwerp:
 - governance
 - publieke-inkoop
 rollen:
-- behoeftesteller
-- proceseigenaar
-- inkoopadviseur
+- projectleider
+- beleid-en-advies
 hide:
 - navigation
 - toc

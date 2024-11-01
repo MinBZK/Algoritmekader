@@ -1,5 +1,6 @@
 ---
 title: Vul technische documentatie van aanbieder aan met relevante informatie vanuit de gebruiksverantwoordelijke. 
+id: urn:nl:ak:mtr:owp-20
 toelichting: Bespreek met het projectteam welke onderdelen van de technische documentatie, als genoemd in de Bijlage 4 AI-verordening, van het algoritme of AI-systeem door welke partij (aanbieder of gebruiksverantwoordelijke) moeten worden ingevuld of aangevuld. 
 vereiste:
 - aia-06:-technische-documentatie

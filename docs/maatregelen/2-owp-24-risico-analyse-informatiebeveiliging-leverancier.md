@@ -11,7 +11,7 @@ onderwerp:
 - publieke-inkoop
 rollen:
 - projectleider
-- beleid en advies
+- beleid-en-advies
   
 hide:
 - navigation

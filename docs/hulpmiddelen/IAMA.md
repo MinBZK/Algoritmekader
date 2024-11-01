@@ -15,6 +15,8 @@ onderwerp:
 - fundamentele-rechten
 - transparantie
 rollen:
+- beleid-en-advies
+- jurist
 - projectleider
 - ontwikkelaar
 - jurist

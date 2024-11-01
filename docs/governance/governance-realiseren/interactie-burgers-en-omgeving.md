@@ -6,7 +6,7 @@ Bij het vormgeven van de algoritme en AI governance is het van belang om na te d
 
 ## Aandachts- en actiepunten
 
-- [Onderzoek of je burgers en/of omgeving wil betrekken](../../maatregelen/betrek_belanghebbenden.md) bij de AI-governance in je organisatie, en op welke manier. 
+- [Onderzoek of je burgers en/of omgeving wil betrekken](../../maatregelen/1-pba-04-betrek-belanghebbenden.md) bij de AI-governance in je organisatie, en op welke manier. 
 - Dit kan strategisch (in het vaststellen van de waardes van je organisatie) op meer in operationele processen (op een vast punt in de AI-levenscyclus). 
 - Zie ter inspiratie [Citizen Participation Methods for Artificial Intelligence](https://openresearch.amsterdam/en/page/110361/citizen-participation-methods-for-artificial-intelligence)
 

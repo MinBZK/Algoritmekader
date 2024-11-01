@@ -15,7 +15,7 @@ onderwerp:
 rollen:
 - projectleider
 - ontwikkelaar
-hide: navaigation
+hide: navigation
 ---
 
 <!-- tags -->

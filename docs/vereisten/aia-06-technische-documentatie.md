@@ -3,15 +3,15 @@ title: Technische documentatie voor hoog-risico AI
 id: urn:nl:ak:ver:aia-06
 toelichting: De technische documentatie van een AI-systeem met een hoog risico wordt opgesteld voordat dit systeem in de handel wordt gebracht of in gebruik wordt gesteld, en wordt geactualiseerd.
 levenscyclus: 
-- ontwerp
 - dataverkenning-en-datapreparatie
 - ontwikkelen
 - verificatie-en-validatie
-- implementatie
-- monitoring-en-beheer
-onderwerp: 
-- governance
+onderwerp:
+- transparantie
 - technische-robuustheid-en-veiligheid
+rollen:
+- projectleider
+- ontwikkelaar
 hide:
 - navigation
 ---
@@ -37,7 +37,9 @@ De documentatie bevat ten minste de elementen zoals uiteengezet in bijlage IV:
 6. Een beschrijving van de wijzigingen die tijdens de levensduur worden aangebracht.
 7. Een lijst van normen die worden toegepast.
 8. Een exemplaar van de EU-conformiteitsverklaring.
-9. Een gedetailleerde beschrijving voor evaluatie van prestaties nadat het systeem in handel is gebracht, in overeenstemming met artikel 72 van de AI verordening.
+9. Een gedetailleerde beschrijving voor evaluatie van prestaties nadat het systeem in handel is gebracht, in overeenstemming met artikel 72 van de AI-verordening.
+
+De documentatie kan opgevraagd worden door een bevoegde autoriteit met een met redenen omkleed verzoek, zoals toegelicht in artikel 21 van de AI-verordening.
 
 ## Bronnen 
 

@@ -1,5 +1,6 @@
 ---
 title: Aansprakelijkheidsvoorwaarden van een aanbieder worden beoordeeld in de aanbesteding 
+id: urn:nl:ak:mtr:owp-17
 toelichting: Maak de aansprakelijkheidsvoorwaarden die een aanbieder stelt ten aanzien van auteursrechten een vast onderdeel om te beoordelen in de aanbesteding. 
 vereiste:
 - aut-01-auteursrechten

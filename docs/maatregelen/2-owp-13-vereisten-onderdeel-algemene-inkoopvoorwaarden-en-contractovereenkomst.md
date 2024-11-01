@@ -1,5 +1,6 @@
 ---
 title: Maak vereisten voor algoritmes onderdeel van algemene inkoopvoorwaarden en de contractovereenkomst.
+id: urn:nl:ak:mtr:owp-13
 toelichting: Door vereisten voor algoritmes onderdeel te maken van algemene inkoopvoorwaarden, is het voor aanbieders vooraf en op het moment van contractueren duidelijk waar zij aan moeten voldoen. 
 vereiste: 
 - aia-02-documentatie-beoordeling-niet-hoog-risico-ai

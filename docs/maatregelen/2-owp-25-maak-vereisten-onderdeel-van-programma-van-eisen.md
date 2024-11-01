@@ -1,6 +1,7 @@
 ---
 # vul hier een titel in voor deze maatregel
 title: Maak vereisten onderdeel van het programma van eisen bij een aanbesteding
+id: urn:nl:ak:mtr:owp-25
 # geef hier een korte toelichting van deze maatregel
 toelichting: Door vereisten onderdeel te maken van het programma van eisen bij een aanbesteding, is het voor aanbieders duidelijk aan welke specifieke eisen een oplossing moet voldoen. Op basis hiervan kan een aanbieder een zo goed mogelijke aanbieding doen.
 

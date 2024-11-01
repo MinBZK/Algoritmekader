@@ -1,7 +1,7 @@
 ---
 # vul hier een titel in voor deze maatregel
 title: Creëer ruimte om met een aanbieder samen te gaan werken om specifieke vereisten te realiseren
-
+id: urn:nl:ak:mtr:owp-19
 # geef hier een korte toelichting van deze maatregel
 toelichting: Om op een betekenisvolle manier invulling te geven bepaalde vereisten, kan het noodzakelijk zijn dat de opdrachtgever en aanbieder (innovatief) moeten samenwerken om specifieke vereisten te realiseren. 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel

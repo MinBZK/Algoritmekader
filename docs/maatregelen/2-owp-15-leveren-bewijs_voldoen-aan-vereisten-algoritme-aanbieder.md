@@ -1,6 +1,7 @@
 ---
 # vul hier een titel in voor deze maatregel
 title: Maak het leveren van bewijs voor het voldoen aan de vereisten voor algoritmes onderdeel van de beoordeling van een inschrijving.
+id: urn:nl:ak:mtr:owp-15
 # geef hier een korte toelichting van deze maatregel
 toelichting: Het leveren van bewijs door aanbieder dat deze voldoet aan de vereisten voor algoritmes draagt bij aan het kunnen beoordelen of een aanbieder geschikt is om mee te contractueren.
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel

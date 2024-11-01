@@ -1,6 +1,7 @@
 ---
 # vul hier een titel in voor deze maatregel
 title: Neem het kunnen uitvoeren van een audit over de vereiste op in contractvoorwaarden en de contractovereenkomst 
+id: urn:nl:ak:mtr:owp-21
 # geef hier een korte toelichting van deze maatregel
 toelichting: Het is van belang dat opdrachtgever mogelijkheden heeft om te controleren in hoeverre door aanbieder/opdrachtnemer wordt voldaan aan naleving van de vereiste.  
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel

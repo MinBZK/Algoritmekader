@@ -1,7 +1,7 @@
 ---
 # vul hier een titel in voor deze maatregel
 title: Bespreek de vereisten die gelden voor een verantwoorde inzet van algoritmes met aanbieders.
-# geef hier een korte toelichting van deze maatregel
+id: urn:nl:ak:mtr:owp-12
 toelichting: Ga met aanbieder in gesprek over in hoeverre invulling is gegeven of kan worden gegeven aan de vereiste.
 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel

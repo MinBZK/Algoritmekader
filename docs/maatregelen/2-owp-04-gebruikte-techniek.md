@@ -45,4 +45,4 @@ Beschrijf welke techniek gebruikt wordt voor de beoogde toepassing.
 <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen 
-[Impact Assessment Mensenrechten en Algoritmes, 2A.1, 2B.1](../instrumenten/IAMA.md)
+[Impact Assessment Mensenrechten en Algoritmes, 2A.1, 2B.1](../hulpmiddelen/IAMA.md)

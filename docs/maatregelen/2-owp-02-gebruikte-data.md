@@ -38,4 +38,4 @@ Wat voor type data gaat gebruikt worden  en uit welke bronnen is de data afkomst
 <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen 
-- [Impact Assessment Mensenrechten en Algoritmes, 2A.2.1](../instrumenten/IAMA.md)
+- [Impact Assessment Mensenrechten en Algoritmes, 2A.2.1](../hulpmiddelen/IAMA.md)

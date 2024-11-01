@@ -31,7 +31,7 @@ Beschrijf de wettelijke grondslag voor de inzet van het algoritme en de beoogde 
 
 ## Bronnen 
 - [Onderzoekskader Auditdienst Rijk, SV.7, PRI.6](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
-- [Impact Assessment Mensenrechten en Algoritmes, 1.4](../instrumenten/IAMA.md)
+- [Impact Assessment Mensenrechten en Algoritmes, 1.4](../hulpmiddelen/IAMA.md)
 
 ## Risico 
 Het algoritme en beoogde besluiten voldoen niet aan wet- en regelgeving en intern beleid en kaders.

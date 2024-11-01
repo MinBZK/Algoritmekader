@@ -1,5 +1,6 @@
 ---
 title: Voer een risico-analyse met de aanbieder uit op het gebied van informatiebeveiliging bij een uitbestedingstraject
+id: urn:nl:ak:mtr:owp-24
 toelichting: Het is van belang dat een risico-analyse op het gebied van informatiebeveiliging wordt uitgevoerd met een aanbieder van algoritmes in het geval van een uitbestedingstraject.
 vereiste:
 - bio-01-beveiliging-informatie-en-informatiesystemen

@@ -52,6 +52,10 @@ Steeds meer organisaties kopen algoritmische toepassingen in die veel impact heb
 
 <!-- list_vereisten_on_maatregelen_page -->
 
+## Bijbehorende maatregelen
+
+<!-- list_maatregelen_on_hulpmiddelen_page -->
+
 ## Bronnen
 
 - [Modelbepalingen voor gemeenten voor verantwoord gebruik van Algoritmische toepassingen](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/contractvoorwaarden-algoritmen/)

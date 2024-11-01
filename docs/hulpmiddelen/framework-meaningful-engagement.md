@@ -1,5 +1,6 @@
 ---
 title: Framework for Meaningful Engagement
+# categorie: 
 toelichting: Het Framework for Meaningful Engagement ondersteunt organisaties bij menselijk toezicht tijdens het ontwikkelen van algoritmes.  
 levenscyclus:  
 - probleemanalyse
@@ -35,7 +36,9 @@ hide:
 <!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->
 <!-- tags -->
 
-## Het instrument
+[Direct naar het Framework for Meaningful Engagement](https://ecnl.org/publications/framework-meaningful-engagement){ .md-button }
+
+## Hulpmiddel
 Het *Framework for Meaningful Engagement* biedt organisaties een praktische aanpak om verschillende stakeholders effectief te betrekken in processen rondom AI en algoritmes.
 Het beschrijft stapsgewijs hoe men betrokkenheid kan ontwerpen en uitvoeren, met de nadruk op drie pijlers:
 1. een gedeelde doelstelling

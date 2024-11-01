@@ -45,3 +45,7 @@ Het Mensenrechtelijk Toetsingskader is ontwikkeld door het College voor de Recht
 ## Bijbehorende vereisten
 
 <!-- list_vereisten_on_maatregelen_page -->
+
+## Bijbehorende maatregelen
+
+<!-- list_maatregelen_on_hulpmiddelen_page -->

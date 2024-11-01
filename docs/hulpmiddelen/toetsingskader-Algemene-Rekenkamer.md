@@ -47,3 +47,7 @@ Het Toetsingskader Algoritmes is ontwikkeld door de Algemene Rekenkamer
 ## Bijbehorende vereisten
 
 <!-- list_vereisten_on_maatregelen_page -->
+
+## Bijbehorende maatregelen
+
+<!-- list_maatregelen_on_hulpmiddelen_page -->

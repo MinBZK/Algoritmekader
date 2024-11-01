@@ -41,6 +41,11 @@ Het Fairness Handbook is ontwikkeld in 2022 door de Gemeente Amsterdam, met als 
 
 <!-- list_vereisten_on_maatregelen_page -->
 
+## Bijbehorende maatregelen
+
+<!-- list_maatregelen_on_hulpmiddelen_page -->
+
+
 ## Bronnen
 [The Fairness Handbook](https://openresearch.amsterdam/en/page/87589/the-fairness-handbook)
 

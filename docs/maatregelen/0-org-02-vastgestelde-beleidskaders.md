@@ -36,7 +36,7 @@ Pas vastgestelde interne beleidskaders toe en maak aantoonbaar dat deze zijn nag
 - Vraag de [betrokken experts](../maatregelen/1-pba-04-betrek-belanghebbenden.md) welke beleidskaders van toepassing zijn vanuit diens specifieke expertise. 
 - Ten behoeve van controles en audits is het van belang dat aantoonbaar wordt gemaakt dat de vastgestelde beleidskaders zijn nageleefd. 
   
-  ## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n)
 
 <!-- list_vereisten_on_maatregelen_page -->
 

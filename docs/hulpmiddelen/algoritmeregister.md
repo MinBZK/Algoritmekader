@@ -40,11 +40,13 @@ Hierin wordt bijvoorbeeld duidelijkheid gegeven over welke doelen we ermee berei
 
 <!-- list_vereisten_on_maatregelen_page -->
 
-## Bronnen
+## Bijbehorende maatregelen
 
-| Bron                        |
-|-----------------------------|
-|[Algoritmeregister](https://algoritmes.overheid.nl/nl)|
+<!-- list_maatregelen_on_hulpmiddelen_page -->
+
+
+## Bronnen
+[Algoritmeregister](https://algoritmes.overheid.nl/nl)
 
 ## Voorbeeld
 

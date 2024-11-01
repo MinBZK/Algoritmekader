@@ -30,7 +30,7 @@ hide: navigation
 <!-- tags -->
 
 [Direct naar de DPIA](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/praktisch-avg/data-protection-impact-assessment-dpia){ .md-button }
-## Instrument
+## Hulpmiddel
 
 Is je organisatie van plan persoonsgegevens te verwerken, maar levert dat waarschijnlijk een hoog privacyrisico op? 
 Dan is je organisatie verplicht eerst een 'data protection impact assessment' (DPIA) uit te voeren. 

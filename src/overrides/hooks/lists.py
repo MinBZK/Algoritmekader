@@ -303,14 +303,14 @@ def on_env(env, config: MkDocsConfig, files: Files):
         )
 
         file.page.content = re.sub(
-            r"<!-- list_maatregelen (.*?) -->",
+            r"<!-- list_maatregelen(.*?) -->",
             lambda match: replace_content(match, "maatregelen"),
             file.page.content,
             flags=re.I | re.M,
         )
 
         file.page.content = re.sub(
-            r"<!-- list_hulpmiddelen (.*?) -->",
+            r"<!-- list_hulpmiddelen(.*?) -->",
             lambda match: replace_content(match, "hulpmiddelen"),
             file.page.content,
             flags=re.I | re.M,

@@ -39,3 +39,7 @@ DEDA is ontwikkeld door de Data School van de Universiteit Utrecht. DEDA is in n
 ## Bijbehorende vereisten
 
 <!-- list_vereisten_on_maatregelen_page -->
+
+## Bijbehorende maatregelen
+
+<!-- list_maatregelen_on_hulpmiddelen_page -->

@@ -49,6 +49,10 @@ Het IAMA is ontwikkeld door de [Utrecht Data School](https://dataschool.nl/iama/
 
 <!-- list_vereisten_on_maatregelen_page -->
 
+## Bijbehorende maatregelen
+
+<!-- list_maatregelen_on_hulpmiddelen_page -->
+
 ## Bronnen
 [Impact Assessment Mensenrechten en Algoritmes](https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes)
 

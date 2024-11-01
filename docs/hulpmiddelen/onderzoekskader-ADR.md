@@ -64,3 +64,7 @@ Het Onderzoekskader Algoritmes is ontwikkeld door de Auditdienst Rijk
 ## Bijbehorende vereisten
 
 <!-- list_vereisten_on_maatregelen_page -->
+
+## Bijbehorende maatregelen
+
+<!-- list_maatregelen_on_hulpmiddelen_page -->

@@ -5,11 +5,13 @@ toelichting: Pas privacy en gegevensbescherming toe door goed ontwerp en door st
 levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
-- ontwikkelen
-- implementatie
 onderwerp:
 - privacy-en-gegevensbescherming
-- data
+rollen:
+- beleid-en-advies
+- projectleider
+- jurist
+- ontwikkelaar
 hide:
 - navigation
 ---

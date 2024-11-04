@@ -100,6 +100,11 @@ Maak vereisten onderdeel van het programma van eisen bij een aanbesteding
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
 <!-- list_vereisten_on_maatregelen_page -->
 
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Er is niet gespecificeerd en daarmee achteraf niet afdwingbaar dat algoritmes aan bepaalde vereisten moeten voldoen die van de belangen voor de betreffende overheidsorganisatie. 
+
+
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 

@@ -34,7 +34,3 @@ Staat een instrument niet in onze selectie, dan kan het nog steeds een goed inst
 Als een instrument verplicht is, staat dit er duidelijk bij. Een verplicht hulpmiddel is bijvoorbeeld de [Data protection impact assessment (DPIA)](https://minbzk.github.io/Algoritmekader/vereisten/dpia_verplicht_bij_hoog_risico).
 
 De meeste instrumenten zijn niet verplicht. Bepaal zelf of je er gebruik van maakt. 
-
-## Help ons deze pagina te verbeteren
-Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/instrumenten/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).
-

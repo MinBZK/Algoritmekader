@@ -55,7 +55,3 @@ Tijdens het gebruik kun je menselijke controle op de volgende manieren uitoefene
 ## Maatregelen
 
 <!-- list_maatregelen onderwerp/menselijke-controle no-search no-onderwerp no-rol no-levenscyclus -->
-
-
-## Help ons deze pagina te verbeteren
-Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/onderwerpen/menselijke-controle/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

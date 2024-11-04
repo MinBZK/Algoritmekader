@@ -41,6 +41,3 @@ De informatie in het Algoritmekader komt open source tot stand. Dat betekent dat
 
 ## Nieuwsbrief
 Via onze maandelijkse [Nieuwsbrief Algoritmes](https://algoritmeregister.email-provider.eu/memberforms/subscribe/standalone/form/?a=1pjwwoyxrs&l=vdfr1sbovb) blijf je op de hoogte over de ontwikkelingen van het Algoritmekader.
-
-## Help ons deze pagina te verbeteren
-Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/overhetalgoritmekader/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

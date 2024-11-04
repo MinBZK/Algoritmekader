@@ -107,6 +107,7 @@ tbody tr td a:hover {
 /* Admonition Styling */
 :root {
   --md-admonition-icon--simple: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58 13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42Z"/></svg>');
+  --md-accent-fg-color: #316fb3!important;
 }
 
 .md-typeset .admonition.simple,
@@ -161,11 +162,24 @@ tbody tr td a:hover {
 .float-child {
   background-color: #e5f1f9;
   border-radius: 5px;
-  padding: 0 24px 24px 24px;
   display: flex;
   flex-direction: column;
   justify-content: flex-start; /* Push the content and the "Bekijk alle" link to the bottom */
   min-height: 300px; /* Set a minimum height for uniform containers */
+}
+
+.float-child-white {
+  background-color: #ffffff;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* Push the content and the "Bekijk alle" link to the bottom */
+  min-height: 300px; /* Set a minimum height for uniform containers */
+  max-width: 500px;
+}
+
+.float-box{
+  margin: -12px 24px 24px 24px;
 }
 
 .styled-list ul {
@@ -178,6 +192,11 @@ tbody tr td a:hover {
   margin-bottom: 10px;
   display: flex;
   align-items: flex-start;
+}
+
+.float-child-title{
+  width: 100%;
+  border-bottom: solid 2px #154273;
 }
 
 .styled-list ul li::before {
@@ -213,6 +232,7 @@ tbody tr td a:hover {
   color: #154273;
   font-weight: bold;
   text-align: left;
+
 }
 
 .footer-section a:hover {
@@ -269,9 +289,6 @@ tbody tr td a:hover {
 
 [dir=ltr] .md-typeset .float-container ol, [dir=ltr] .md-typeset .float-container ul {
   margin-left: 0;
-}
-
-  text-align: left;
 }
 
 #algoritmekader {
@@ -394,4 +411,106 @@ tbody tr td a:hover {
   color: #154273;
   margin-left: 0;
   text-align: left;
+}
+
+.md-container li{
+  color: #154273;
+}
+
+.md-source-file{
+  display: none;
+}
+
+.md-typeset, td {
+  line-height: 1.3;
+  font-size: .7rem;
+}
+
+.md-typeset ol li, .md-typeset ul li {
+  margin-bottom: .3em;
+}
+
+.md-typeset h1{
+  margin: 0 0 .4em 0;
+  font-size: 2.8em;
+  font-weight: 600;
+  line-height: 1em;
+}
+
+.md-typeset h2{
+  margin: 1em 0 .5em 0;
+}
+
+.block-image {
+  width: 100%;           /* Zorgt ervoor dat de afbeelding over de breedte van het blok gaat */
+  height: 120px;         /* Stel een vaste hoogte in voor consistente weergave */
+  object-fit: cover;     /* Snijdt de afbeelding bij om het blok volledig te vullen */
+}
+
+.md-icon svg{
+  color: #154273;
+}
+
+.subheader{
+  font-size: 1.5em;
+}
+
+.grid a{
+  text-decoration: underline;
+  font-weight: 600;
+}
+
+.md-typeset a:hover{
+  color: #316fb3;
+}
+
+a{
+  text-decoration: underline;
+}
+
+.md-sidebar__scrollwrap{
+  scrollbar-color:#316fb3;
+}
+
+[data-md-color-accent=indigo]{
+  --md-accent-fg-color:#B2D7EE;
+}
+
+.button-primary {
+  background-color: #154273;
+  color: #fff;
+  border: 1px solid transparent;
+  /* Ensure it doesn't go full width */
+  display: inline-block;
+}
+
+.button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border-radius: 0.5em;
+  border: 1px solid #ccc;
+  display: inline-block; /* Avoid full width */
+  width: fit-content;
+  font-family: inherit;
+  font-weight: 700;
+  line-height: 1;
+  margin: 0 0.5em 0.5em 0;
+  -webkit-transition: color 150ms ease-in-out;
+  transition: color 150ms ease-in-out;
+  padding: 1em 1.2em 1em 1.2em;
+  position: relative;
+  text-align: center;
+  text-shadow: none;
+  user-select: none;
+  vertical-align: middle;
+  word-break: break-word;
+  font-size: 0.7rem;
+  cursor: pointer;
+}
+
+.float-child-content{
+padding:.3em 0 .2em 0;
+width: 85%;
+color: #154273;
 }

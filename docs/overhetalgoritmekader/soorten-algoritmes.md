@@ -132,6 +132,3 @@ Een impactvol algoritme kan schade veroorzaken aan de maatschappij. Daarom zijn 
     Twijfel je of je algoritme impactvol is of niet? Beschouw het algoritme dan als impactvol.
 
 Meer uitleg en voorbeelden vind je in de [Handreiking Algoritmeregister](https://algoritmes.pleio.nl/wiki/view/19bb6e9e-7a97-43d5-bef3-b1d66e59f4ff/handreiking-algoritmeregister).
-
-## Help ons deze pagina te verbeteren
-Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/overhetalgoritmekader/soorten-algoritmes.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

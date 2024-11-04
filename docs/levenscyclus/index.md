@@ -1,7 +1,6 @@
 ---
 title: Levenscyclus
 summary: Hulp per fase van de levenscyclus van algoritmes en AI, zoals probleemanalyse, ontwerpen, ontwikkelen, implementeren en ermee stoppen.
-icon: material/reload
 hide:
   - toc
 ---
@@ -104,7 +103,3 @@ De 9 fasen van de levenscyclus zijn gebaseerd op 10 belangrijke levenscyclusmode
 
 Deze 9 fasen passen zo goed mogelijk bij de manier van werken van overheden.
 Het is geen verplicht model. Mogelijk past een ander levenscyclusmodel beter bij jouw organisatie.
-
-## Help ons deze pagina te verbeteren
-
-Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/levenscyclus/index.md) of mail ons via [algoritmes@minbzk.nl](mailto::algoritmes@minbzk.nl).

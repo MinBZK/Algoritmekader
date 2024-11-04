@@ -1,0 +1,140 @@
+/* Bestaande CSS voor fonts, badges en andere componenten */
+body {
+  font-family: "ROsanswebtextregular" !important;
+  src: url("fonts/ROsanswebtextregular.woff") format('truetype');
+}
+
+/* Tabs Styling */
+.md-tabs {
+  background-color: #007bc7;
+  color: white !important;
+  border-bottom: 6px solid #B2D7EE;
+}
+
+.md-tabs .md-grid {
+  background-color: #007bc7;
+  color: white;
+}
+
+.md-tabs__item--active {
+  background-color: #B2D7EE;
+}
+
+.md-tabs__link {
+  text-decoration:none;
+  color: #FFFFFF;
+  opacity: 100%;
+}
+
+/* Header Styling */
+.md-header {
+  background-color: white;
+  height: auto;
+  align-content: center;
+}
+
+h1{
+  color: #154273 !important;
+}
+
+.md-header__inner {
+  height: 90px;
+}
+
+.md-header--shadow {
+  box-shadow: none;
+}
+
+.md-header__button.md-logo img {
+  height: 50px; /* Adjust to the desired height */
+  width: auto; /* Keeps the aspect ratio */
+}
+
+.md-header__topic {
+  display: none;
+}
+
+/* Ensure hover effect is applied to the link itself */
+.md-tabs__list .md-tabs__item .md-tabs__link:hover {
+  color: #154273 !important; /* Same color as active */
+  background-color: #B2D7EE !important;
+}
+
+/* Apply color and background on both link and item on hover */
+.md-tabs__item:hover,
+.md-tabs__item:hover .md-tabs__link,
+.md-tabs__link:hover {
+  color: #154273 !important; /* Set text color to blue */
+  background-color: #B2D7EE !important; /* Set background color to light blue */
+}
+
+.md-tabs__item:hover .md-tabs__link {
+  color: #154273 !important; /* Zorgt ervoor dat de link blauw blijft als je over het tab-item zweeft */
+}
+
+.md-tabs__item:hover {
+  background-color: #B2D7EE; /* Achtergrondkleur bij hover op het hele tab-item */
+  color: #154273 !important;
+}
+
+/* Apply hover effect to the tab item */
+.md-tabs__item:hover {
+  background-color: #B2D7EE !important;
+  color: #154273 !important;
+}
+/* Active tab styling */
+.md-tabs .md-tabs__list .md-tabs__item--active .md-tabs__link {
+  color: #154273 !important; /* Active color */
+  background-color: #B2D7EE !important; /* Active background */
+}
+
+.md-search__input{
+  background: #fff;
+  color: #154273;
+  border: #154273 solid 1px;
+  border-radius: 5px;
+}
+
+.md-search__form{
+  color: #154273;
+}
+
+.md-search__input::placeholder {
+  color: #333333; /* Set your desired color */
+  opacity: 1; /* Ensures the color appears as expected */
+  font-size: .8rem;
+  font-family: "ROsanswebtextregular" !important;
+}
+
+.md-search__input+.md-search__icon{
+  color: #333333;
+}
+
+.md-search__suggest{
+  color: #154273;
+}
+
+
+.md-header__source{
+  color: #154273;
+}
+
+.md-search__overlay{
+  color: #154273;
+}
+
+.md-typeset a {
+  color: #154273;
+}
+
+.md-ellipsis{
+  color: #154273;
+}
+
+:root {
+  --md-typeset-a-color: #154273;
+}
+
+.md-nav__title{
+  color: #154273;
+}

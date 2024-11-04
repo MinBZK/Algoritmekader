@@ -15,9 +15,9 @@ onderwerp:
 - publieke-inkoop
 # vul hier de rollen in die betrokken zijn bij deze maatregel
 rollen:
-- behoeftesteller
-- inkoopadviseur
-- aanbieder
+- projectleider
+- beleid en advies
+- ontwikkelaar
 
 hide:
 - navigation

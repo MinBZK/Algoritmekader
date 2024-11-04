@@ -13,17 +13,17 @@ vereiste:
 
 # vul hier de bouwblokken in die horen bij deze maatregel
 - publieke-inkoop
+hide:
+- navigation
   
 # geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn
 - projectleider
 - beleid en advies
   
-hide:
-- navigation
-- toc
----
-
+------  
+<!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->
 <!-- tags -->
+
 ## Maatregel
 
 Maak het al dan niet kunnen leveren van bewijs door een aanbieder dat auteursrechten niet worden geschonden met de trainingsdata en output van diens algoritme van bijvoorbeeld een aanbesteding.

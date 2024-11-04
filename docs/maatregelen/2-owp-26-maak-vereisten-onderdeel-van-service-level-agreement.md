@@ -64,7 +64,7 @@ Maak de vereiste onderdeel van Service Level Agreement
 
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Er kunnen geen controles of inspecties worden uitgevoerd om te beoordelen of de algoritmes van aanbieder nog voldoen aan de vereisten voor een verantwoorde inzet van algoritmes. 
+Zonder concrete afspraken te maken in de SLA, ontstaat het risico dat aloritmes (tijdelijk) of te langdurig niet kunnen worden gebruikt, onjuist fuctioneren of dat er geen verantwoording over de output kan worden afgelegd.
 
 
 ## Bronnen 

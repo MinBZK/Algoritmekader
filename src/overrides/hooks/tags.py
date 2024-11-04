@@ -101,7 +101,7 @@ def _badge(icon: str, text: str = "", type: str = "", color: str = "blue"):
 # Create badge for id
 def _badge_id(page: Page, files: Files, phase: str):
     icon = "material-tag"
-    href_id = _resolve_path("vereisten/index.md", page, files)
+    href_id = _resolve_path("voldoen-aan-wetten-en-regels/vereisten/index.md", page, files)
     return _badge(
         icon=f"[:{icon}:]({href_id} 'Vereiste ID')",
         text=f"{phase[-6:]}",

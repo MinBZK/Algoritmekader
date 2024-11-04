@@ -4,13 +4,14 @@ toelichting: Deze handreiking legt uit welke vragen en principes leidend zijn bi
 categorie: 
 - handreiking
 levenscyclus:
-- probleemanalyse
-- ontwerp
+- ontwikkelen
+- implementatie
 onderwerp:
 - bias-en-non-discriminatie
 - fundamentele-rechten
 rollen:
 - projectleider
+- ontwikkelaar
 vereiste:
 - grw-01-fundamentele-rechten
 - grw-02-non-discriminatie

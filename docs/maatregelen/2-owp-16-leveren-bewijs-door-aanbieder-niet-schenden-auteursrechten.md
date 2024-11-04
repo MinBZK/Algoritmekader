@@ -1,5 +1,4 @@
 ---
-
 title: Laat aanbieder(s) bewijs leveren dat de door hen ontwikkelde algoritmes geen inbreuk maken op de auteursrechten van derden met de trainingsdata en de output.
 id: urn:nl:ak:mtr:owp-16
 # geef hier een korte toelichting van deze maatregel

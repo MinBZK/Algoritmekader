@@ -7,7 +7,7 @@ vereiste:
 - aia-14-conformiteitsbeoordeling
 - awb-01-zorgvuldigheidsbeginsel
 maatregel:
-- afwegen_grondrechten
+- 2-owp-06-afwegen-grondrechten
 levenscyclus:
 - ontwerp
 - implementatie 

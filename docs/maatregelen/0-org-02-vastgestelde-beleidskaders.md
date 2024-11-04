@@ -45,8 +45,6 @@ De in te zetten algoritmes of AI-systemen voldoen niet aan vastgestelde beleidsk
 
 ## Bronnen
 * [Onderzoekskader Algoritmes Auditdienst Rijk, SV.8](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
-* [Het beleidskompas](https://www.kcbr.nl/beleid-en-regelgeving-ontwikkelen/beleidskompas)
-
 ## Voorbeeld
 
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

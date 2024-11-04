@@ -41,6 +41,7 @@ hide:
 ## Hulpmiddel
 Het *Framework for Meaningful Engagement* biedt organisaties een praktische aanpak om verschillende stakeholders effectief te betrekken in processen rondom AI en algoritmes.
 Het beschrijft stapsgewijs hoe men betrokkenheid kan ontwerpen en uitvoeren, met de nadruk op drie pijlers:
+
 1. een gedeelde doelstelling
 2. een betrouwbaar proces
 3. een zichtbare impact

@@ -39,18 +39,18 @@ Is er al een visie of beleid over hoe met AI en algortimes om te gaan? Is er al 
 #### Voorbeelden bij stap 1: Randvoorwaarden algoritmegovernance
 Deze maatregelen gaan over het grondwerk leggen om algortimegovernance mogelijk te maken. Kijk eens naar maatregelen zoals:
 
-* [Stel een visie met betrekking tot AI en algoritmes op en zorg voor bestuurlijk bewustzijn en draagvlak.](https://minbzk.github.io/Algoritmekader/link_nog_invoeren)
-* [Onderzoek wat er al is qua bestaande governancestructuren waar van te leren is en denk na over hoe organisatieonderdelen moeten samenwerken om goede algortimegovernance mogelijk te maken.](https://minbzk.github.io/Algoritmekader/link_nog_invoeren)
-* [Breng het AI-volwassenheidsniveau in kaart om focus aan te brengen waar het nodig is.](https://minbzk.github.io/Algoritmekader/link_nog_invoeren)
-* [Verken welke normen en standaarden er te gebruiken zijn.](https://minbzk.github.io/Algoritmekader/link_nog_invoeren)
+* [Stel een visie met betrekking tot AI en algoritmes op en zorg voor bestuurlijk bewustzijn en draagvlak.](../maatregelen/0-org-04-politiek-bestuurlijke-verantwoordelijkeheid.md)
+* [Onderzoek wat er al is qua bestaande governancestructuren en samenwerking.](../maatregelen/0-org-05-bestaande-governance.md)
+* [Breng het AI-volwassenheidsniveau in kaart om focus aan te brengen waar het nodig is.](../maatregelen/0-org-06-volwassenheidsmodel.md)
+* [Verken welke normen en standaarden er te gebruiken zijn.](../maatregelen/0-org-03-verken_normen_en_standaarden.md)
 
 
 #### Voorbeelden bij stap 2: Inrichten van algoritmegovernance
 We geven bij deze maatregelen meer voorbeelden en best practices voor het inrichten van algoritmegovernance. Kijk eens naar maatregelen (onderaan deze pagina) zoals:
 
-* [Rollen en verantwoordelijkheden in algoritmegovernance](https://minbzk.github.io/Algoritmekader/link_nog_invoeren)
-* [De AI-levenscyclus en go/no-go 'gates'.](https://minbzk.github.io/Algoritmekader/link_nog_invoeren)
-* [Voorbeelden van governancestructuren zoals three lines of defence](https://minbzk.github.io/Algoritmekader/link_nog_invoeren)
+* [Rollen en verantwoordelijkheden in algoritmegovernance](../maatregelen/0-org-09-inrichten_rollen_algoritmegovernance.md)
+* [De AI-levenscyclus en go/no-go 'gates'.](../maatregelen/0-org-08-beslismoment-levenscyclus.md)
+* [Intern toezicht zoals met three lines of defence](../maatregelen/0-org-07-intern-toezicht.md)
 
 !!! note "Let op!"
     Voorbeelden bieden in hoofdlijnen een ‘blauwdruk’ voor hoe algoritmegovernance kan worden ingericht. 

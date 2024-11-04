@@ -52,7 +52,7 @@ Daarbij is het relevant om te beoordelen in hoeverre er is voldaan aan geharmoni
 
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Er wordt gecontractueerd met een aanbieder die niet voldoet aan de vereisten voor een verantwoorde inzet van algoritmes. 
+Er wordt gecontracteerd met een aanbieder die niet voldoet aan de vereisten voor een verantwoorde inzet van algoritmes. 
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->

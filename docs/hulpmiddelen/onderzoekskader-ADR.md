@@ -38,7 +38,12 @@ toepasbaar op regelgebaseerde algoritmes. Het kader is ook bruikbaar voor andere
 en kan bij verschillende fases van de levenscyclus van een algoritme worden ingezet. Mogelijk zijn
 niet alle thema’s relevant gezien de context van het algoritme. De opdrachtgever en auditor(s)
 dienen daarom voorafgaand aan een onderzoek te analyseren en te bepalen welke thema’s en
-onderwerpen worden onderzocht. Het onderzoekskader is ingedeeld in 4 thema’s: Sturing en Verantwoording, Privacy, Data en Model, en Informatiebeveiliging. 
+onderwerpen worden onderzocht. Het onderzoekskader is ingedeeld in 4 thema’s: 
+
+- Sturing en Verantwoording
+- Privacy
+- Data en Model
+- Informatiebeveiliging
 
 Ethiek raakt alle thema’s en komt daarom bij elk thema in het kader terug. Elk thema bevat
 deelgebieden en de risico’s en beheersmaatregelen die daarbij horen (inclusief de bron).

@@ -7,10 +7,24 @@ vereiste:
 - aia-14-conformiteitsbeoordeling
 - awb-01-zorgvuldigheidsbeginsel
 maatregel:
+- 1-pba-03-onderbouwen-gebruik-algoritme
 - 2-owp-06-afwegen-grondrechten
+- 6-imp-03-menselijke-tussenkomst
+- 6-imp-06-proces-privacyrechten
+- 7-mon-02-beveiliging-algoritme
+- 1-pba-05-wettelijke-grondslag
+- 2-owp-03-doel-verwerken-persoonsgegevens
+- 3-dat-03-persoonsgegevens-beschrijven
+- 3-dat-04-bewaartermijnen-persoonsgegevens
+- 2-owp-07-kwetsbare-groepen
+- 6-imp-04-publiceren-algoritmeregister
+- 5-ver-02-biasanalyse
+- 5-ver-01-functioneren-in-lijn-met-doeleinden
+- 4-owk-03-privacyrisico
+- 4-owk-01-security-by-design
 levenscyclus:
 - ontwerp
-- implementatie 
+- ontwikkelen
 onderwerp:
 - privacy-en-gegevensbescherming 
 - duurzaamheid 

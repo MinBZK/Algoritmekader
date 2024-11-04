@@ -95,6 +95,10 @@ Maak vereisten voor algoritmes onderdeel van contractvoorwaarden en de contracto
 - [Onderzoekskader Algoritmes Auditdienst Rijk, SV.11](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Specificeren algemene inkoopvoorwaarden](https://www.pianoo.nl/nl/inkoopproces/fase-1-voorbereiden/specificeren/specificeren-algemene-voorwaarden)
 
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Door de vereisten voor een verantwoorde inzet van algoritmes niet te communiceren met aanbieders, is het voor hen (deels) onduidelijk aan welke vereisten diens algoritmes moet voldoen om te kunnen contractueren met overheidsorganisaties.
+
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->

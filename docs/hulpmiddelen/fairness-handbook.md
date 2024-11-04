@@ -16,8 +16,9 @@ vereiste:
 - grw-02-non-discriminatie
 - aia-04-risicobeoordeling-voor-jongeren-en-kwetsbaren
 maatregel:
-- aselecte_steekproeven
-- voer_een_biasanalyse_uit
+- 3-dat-01-datakwaliteit
+- 5-ver-02-biasanalyse
+- 6-imp-02-aselecte-steekproeven
 hide: navigation
 ---
 

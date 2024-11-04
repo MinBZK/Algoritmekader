@@ -31,7 +31,7 @@ Het [AI ethics maturity model van Krijger, Thuis, de Ruiter, Ligthart & Broekman
 
 ![Krijger, J., Thuis, T., de Ruiter, M. et al. The AI ethics maturity model: a holistic approach to advancing ethical data science in organizations. AI Ethics 3, 355–367 (2023)](https://github.com/user-attachments/assets/07860cdc-9d6c-46f4-aace-cfcdf71e114d)
 
-#### Het Datavolwassenheidsmodel van de IBDS
+### Het Datavolwassenheidsmodel van de IBDS
 Het datavolwassenheidmodel van de Interbestuurlijke Datastrategie (IBDS) kijkt naar hoe goed organisaties omgaan met data. Dit model is ook belangrijk voor kunstmatige intelligentie (AI), omdat data daar een grote rol speelt. Het model heeft een [beslishulp datavolwassenheid](https://realisatieibds.nl/groups/view/c23ab74c-adb4-424e-917d-773a37968efe/kenniscentrum-van-de-ibds/wiki/view/2447d2a8-6c48-468d-9739-00772688853f/beslishulp-datavolwassenheid) waarmee bepaald kan worden hoe volwassen een organisatie is met data. IBDS biedt ook een [gids](https://realisatieibds.nl/page/view/ad94d97c-4d48-443c-aedd-235b2d0ca8b6/wegwijzer-volwassenheidsmodellen) met verschillende manieren om dit te meten. 
 
 ## Innovatie en volwassenheid

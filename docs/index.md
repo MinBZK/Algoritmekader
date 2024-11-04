@@ -69,9 +69,9 @@ hide:
     <div class="float-box">
     <h3><b>Voldoen aan wetten en regels</b></h3>
     <ul>
-      <li><a href="vereisten/">Vereisten</a></li>
-      <li><a href="maatregelen/">Aanbevolen maatregelen</a></li>
-      <li><a href="instrumenten/">Aanbevolen instrumenten</a></li>
+      <li><a href="voldoen-aan-wetten-en-regels/vereisten/">Vereisten</a></li>
+      <li><a href="voldoen-aan-wetten-en-regels/maatregelen/">Aanbevolen maatregelen</a></li>
+      <li><a href="voldoen-aan-wetten-en-regels/instrumenten/">Aanbevolen instrumenten</a></li>
     </ul>
     </div>
   </div>

@@ -50,9 +50,9 @@ nav:
         - ... | rollen/*.md
     - Voldoen aan wetten en regels:
         - Overzicht: voldoen-aan-wetten-en-regels/index.md
-        - Vereisten: vereisten/index.md
-        - Maatregelen: maatregelen/index.md
-        - Instrumenten: instrumenten/index.md
+        - Vereisten: voldoen-aan-wetten-en-regels/vereisten/index.md
+        - Maatregelen: voldoen-aan-wetten-en-regels/maatregelen/index.md
+        - Instrumenten: voldoen-aan-wetten-en-regels/instrumenten/index.md
 
 # Extra opties
 markdown_extensions: 

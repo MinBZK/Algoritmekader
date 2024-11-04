@@ -28,7 +28,7 @@ Stel vast dat het algoritme voortdurend functioneert in lijn met de [vastgesteld
 - Vertaal de [vastgestelde doelstelling](formuleren_doelstelling.md) naar functionele eisen voor het algoritme. Werk het vastgestelde doel uit in een beschrijving in logische taal/pseudo code of documentatie die handvatten biedt aan de ontwikkelaar. 
 - Monitor de mate waarin aan deze eisen wordt voldaan door het algoritme. 
 - Bepaal en leg vast hoe eventuele parameters, business rules en indicatoren bepaald worden. Zorg dat dit breed wordt afgestemd in de organisatie (ontwikkelteam, opdrachtgevers en beheer).
-- Houd hier rekening met eventuele [(statistische) bias](../onderwerpen/bias-en-non-discriminatie/index.md#statistische-bias): meten we daadwerkelijk wat we denken te meten? 
+- Houd hier rekening met eventuele [(statistische) bias](../../onderwerpen/bias-en-non-discriminatie/index.md#statistische-bias): meten we daadwerkelijk wat we denken te meten? 
 - Wanneer het algoritme meerdere doelen dient, is het belangrijk ook te evalueren op meerdere functionele eisen. 
 - Wanneer er sprake is van een (handmatige) behandeling, bepaal dan wanneer deze behandeling als 'succesvol' gezien kan worden. 
 

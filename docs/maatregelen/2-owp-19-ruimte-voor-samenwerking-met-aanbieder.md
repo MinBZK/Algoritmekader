@@ -89,9 +89,9 @@ Creëer ruimte om met een aanbieder samen te gaan werken om specifieke vereisten
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Om op een betekenisvolle manier invulling te geven aan bepaalde vereisten, kan het noodzakelijk zijn dat opdrachtgever en aanbieder (innovatief) moeten gaan samenwerken. Op basis van nieuwe wet- en regelgeving (bv. AI-Verordening) of geharmoniseerde standaarden kunnen aanbieders mogelijk nog niet voldoen aan nieuwe vereisten. Het kan ook onduidelijk zijn hoe moet worden voldaan aan vereisten nu de technologie zich snel ontwikkelt of dat de specifieke omstandigheden van het beoogde gebruik vragen om een samenspel tussen opdrachtgever en aanbieder.
+- Om op een betekenisvolle manier invulling te geven aan bepaalde vereisten, kan het noodzakelijk zijn dat opdrachtgever en aanbieder (innovatief) moeten gaan samenwerken. Op basis van nieuwe wet- en regelgeving (bv. AI-Verordening) of geharmoniseerde standaarden kunnen aanbieders mogelijk nog niet voldoen aan nieuwe vereisten. Het kan ook onduidelijk zijn hoe moet worden voldaan aan vereisten nu de technologie zich snel ontwikkelt of dat de specifieke omstandigheden van het beoogde gebruik vragen om een samenspel tussen opdrachtgever en aanbieder.
 
-Bij een verantwoorde inzet van algoritmes kan het bij vereisten zoals non-discriminatie, transparantie en eerbiedigen van fundamentele rechten van belang zijn om samen te onderzoeken en te duiden (na het afsluiten van een contract) hoe hier invulling aan moet worden gegeven. Het is belangrijk om bij de behoeftestelling al te verkennen om welke onderwerpen dit mogelijk van toepassing is. Bij een marktverkenning of informatiesessie kan worden verkend hoe aanbieders ervoor staan. Op basis hiervan kan worden beoordeeld in hoeverre bijvoorbeeld in een aanbesteding contractuele ruimte moet worden gecreëerd voor opdrachtgever en aanbieder om hieraan te werken. 
+- Bij een verantwoorde inzet van algoritmes kan het bij vereisten zoals non-discriminatie, transparantie en eerbiedigen van fundamentele rechten van belang zijn om samen te onderzoeken en te duiden (na het afsluiten van een contract) hoe hier invulling aan moet worden gegeven. Het is belangrijk om bij de behoeftestelling al te verkennen om welke onderwerpen dit mogelijk van toepassing is. Bij een marktverkenning of informatiesessie kan worden verkend hoe aanbieders ervoor staan. Op basis hiervan kan worden beoordeeld in hoeverre bijvoorbeeld in een aanbesteding contractuele ruimte moet worden gecreëerd voor opdrachtgever en aanbieder om hieraan te werken. 
 
 
 ## Bijbehorende vereiste(n)
@@ -105,6 +105,10 @@ Bij een verantwoorde inzet van algoritmes kan het bij vereisten zoals non-discri
 
 - [Ruimte voor Innovatie in het contract](https://www.pianoo.nl/sites/default/files/media/documents/Inspiratiebundel-Ruimte-voor-innovatie-in-het-contract-juni2020.pdf)
 - [Aanbesteding Ethische Beeldinwinning en Objectherkenning Openbare Ruimte](https://s2c.mercell.com/today/34506?type=planning)
+
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Door niet te kunnen samenwerken aan vereisten, kan de situatie ontstaan dat uiteindelijk niet op een betekenisvolle manier wordt voldaan aan deze vereisten voor een verantwoorde inzet van algoritmes.
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->

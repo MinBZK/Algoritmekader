@@ -1,14 +1,17 @@
 ---
+# vul hier een titel in voor deze maatregel
 title: Laat aanbieder(s) bewijs leveren dat de door hen ontwikkelde algoritmes geen inbreuk maken op de auteursrechten van derden met de trainingsdata en de output.
 id: urn:nl:ak:mtr:owp-16
+# geef hier een korte toelichting van deze maatregel
 toelichting: Maak het al dan niet kunnen leveren van bewijs door een aanbieder dat auteursrechten niet worden geschonden door de trainingsdata of out van een algoritme een vast onderdeel van de aanbesteding.
 
 vereiste:
 - aut-01-auteursrechten
-levenscyclus:
+- 
+# vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 - ontwerp
 
-onderwerp:
+# vul hier de bouwblokken in die horen bij deze maatregel
 - publieke-inkoop
   
 # geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn

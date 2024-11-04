@@ -104,6 +104,10 @@ Het is van belang dat opdrachtgever mogelijkheden heeft om te controleren in hoe
 - [Europese Inkoopvoorwaarden Hoog Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_template_High_Risk%20NL.pdf)
 - [Europese Inkoopvoorwaarden Laag Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_Template_NON_HIGH_RISK_NL.pdf)
 
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Er kunnen geen controles of inspecties worden uitgevoerd of de algoritmes van aanbieder nog voldoen aan de vereisten voor een verantwoorde inzet van algoritmes. 
+
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->

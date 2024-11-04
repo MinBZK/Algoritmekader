@@ -55,7 +55,7 @@ en evidence opgenomen per beheersmaatregel.
 
 ## Relevantie
 Het onderzoekskader is ontwikkeld met behulp van nationale en internationale richtlijnen en
-kaders, rapporten en instrumenten, zoals de Ethics guidelines for trustworthy AI van de Europese
+kaders, rapporten en instrumenten, zoals de [Ethics guidelines for trustworthy AI](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai) van de Europese
 Commissie (EC), [Impact Assessment voor Mensenrechten bij de inzet van Algoritmes (IAMA)](IAMA.md), de
 richtlijnen van het ministerie van JenV, het [DPIA](DPIA.md) model Rijksoverheid (gebaseerd op o.a. AVG) en
 de Guiding Principles Trustworthy AI Investigations van NOREA (beroepsvereniging IT-auditors

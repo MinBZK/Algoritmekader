@@ -17,18 +17,10 @@ onderwerp:
 - data
 
 # geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn
-# rollen:
-# - proceseigenaar
-# - behoeftesteller
-# - informatie-analist
-# - data-scientist
-# - inkoopadviseur
-# - contractbeheerder
-# - aanbestedingsjurist
-# - aanbieder
-# - opdrachtnemer
-# - architect
-  
+rollen:
+ - projectleider
+ - beleid en advies
+
 hide:
 - navigation
 - toc

@@ -6,6 +6,8 @@ categorie:
 vereiste:
 - grw-01-fundamentele-rechten
 - grw-02-non-discriminatie
+maatregel:
+- 5-ver-02-biasanalyse
 levenscyclus:
 - probleemanalyse
 - ontwerp

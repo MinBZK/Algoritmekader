@@ -43,11 +43,10 @@ Voer voorafgaand aan een aanbesteding een data beschikbaarheids- en kwaliteitsan
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Het is van belang om voorafgaand aan een aanbesteding vast te stellen of de data die noodzakelijk is om een algoritme te ontwikkelen of te kunnen gebruiken beschikbaar is, gaat worden en of de data van voldoende kwaliteit is. Het is van belang om te onderzoeken of en hoe data vanuit de eigen organisatie, die van een aanbieder of elders beschikbaar kan worden gesteld, kan worden opgeslagen en of goedkeuring kan worden gegeven voor het verwerken van de data. 
-
-De infrastructuur van de eigen organisatie en/of die van de aanbieder moeten van voldoende niveau zijn om de beoogde verwerkingen uit te kunnen voeren. 
-
-Een dergelijke analyse levert inzichten op welke problemen er eventueel op dit vlak kunnen ontstaan en geeft input voor de behoeftestelling.
+- Het is van belang om voorafgaand aan een aanbesteding vast te stellen of de data die noodzakelijk is om een algoritme te ontwikkelen of te kunnen gebruiken beschikbaar is, gaat worden en of de data van voldoende kwaliteit is.
+- Er moet worden onderzocht of en hoe data vanuit de eigen organisatie, die van een aanbieder of elders beschikbaar kan worden gesteld, kan worden opgeslagen en of goedkeuring kan worden gegeven voor het verwerken van de data. 
+- De infrastructuur van de eigen organisatie en/of die van de aanbieder moeten van voldoende niveau zijn om de beoogde verwerkingen uit te kunnen voeren. 
+- Een dergelijke analyse levert inzichten op welke problemen er eventueel op dit vlak kunnen ontstaan en geeft input voor de behoeftestelling.
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
@@ -59,3 +58,7 @@ Een dergelijke analyse levert inzichten op welke problemen er eventueel op dit v
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
 [Towards a Systematic Understanding on the Challenges of Procuring Artificial Intelligence in the Public Sector](https://www.google.nl/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi20eiMqfmGAxXV9gIHHbnbAjkQFnoECB0QAQ&url=https%3A%2F%2Fec.europa.eu%2Fnewsroom%2Fgrowth%2Fredirection%2Fdocument%2F86850&usg=AOvVaw3rVw_SLj8yjlU-uhWQv2eQ&opi=89978449)
+
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Als data niet beschikbaar, niet toegankelijk of van onvoldoende kwaliteit is, zullen de benodigde algortimes niet of onjuist gaan functioneren.

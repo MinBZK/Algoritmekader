@@ -106,7 +106,7 @@ Het is van belang dat opdrachtgever mogelijkheden heeft om te controleren in hoe
 
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Er kunnen geen controles of inspecties worden uitgevoerd of de algoritmes van aanbieder nog voldoen aan de vereisten voor een verantwoorde inzet van algoritmes. 
+Er kunnen geen controles of inspecties worden uitgevoerd om te beoordelen of de algoritmes van aanbieder nog voldoen aan de vereisten voor een verantwoorde inzet van algoritmes. 
 
 
 ## Voorbeeld

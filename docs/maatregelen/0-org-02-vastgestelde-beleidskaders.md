@@ -44,7 +44,8 @@ Pas vastgestelde interne beleidskaders toe en maak aantoonbaar dat deze zijn nag
 De in te zetten algoritmes of AI-systemen voldoen niet aan vastgestelde beleidskaders. 
 
 ## Bronnen
-[Onderzoekskader Algoritmes Auditdienst Rijk, SV.8](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+* [Onderzoekskader Algoritmes Auditdienst Rijk, SV.8](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+* [Het beleidskompas](https://www.kcbr.nl/beleid-en-regelgeving-ontwikkelen/beleidskompas)
 
 ## Voorbeeld
 

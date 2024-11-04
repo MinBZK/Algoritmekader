@@ -23,6 +23,11 @@ hide: navigation
 <!-- tags -->
 
 [Direct naar het Mensenrechtelijk Toetsingskader](https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dce){ .md-button }
+
+!!! opmerking "Let op!"
+
+       Dit toetsingskader wordt momenteel vernieuwd. Een nieuwe versie wordt hier gepubliceerd zodra beschikbaar. 
+
 ## Hulpmiddel
 
 Dit toetsingskader helpt overheidsfunctionarissen om te bepalen wanneer risicoprofielen leiden tot discriminatie op grond van ras of nationaliteit.

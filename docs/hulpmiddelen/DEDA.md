@@ -31,7 +31,7 @@ DEDA is ontwikkeld door de Data School van de Universiteit Utrecht en bestaat ui
 
 DEDA bestaat uit een poster voor brainstormsessies, een interactieve vragenlijst en een handleiding. Alle tools zijn gepubliceerd door de Data School van de Universiteit Utrecht.
 
-DEDA bevordert verantwoordingsplicht, onderwijst gebruikers, communiceert problemen en ondersteunt projectmanagement
+DEDA bevordert verantwoordingsplicht, onderwijst gebruikers, communiceert problemen en ondersteunt projectmanagement.
 
 ## Relevantie
 

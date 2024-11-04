@@ -102,6 +102,10 @@ Op basis van nieuwe of gewijzigde wet- en regelgeving of de totstandkoming van n
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->   
 
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Door de vereisten voor een verantwoorde inzet van algoritmes niet te bespreken met aanbieders, is het voor hen (deels) onduidelijk aan welke vereisten diens algoritmes moet voldoen om te kunnen contractueren met overheidsorganisaties.
+
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
 

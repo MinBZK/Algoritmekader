@@ -10,10 +10,11 @@ levenscyclus:
 onderwerp:
 - publieke-inkoop
 - privacy-en-gegevensbescherming
+  
 # rollen:
-# - proceseigenaar
-# - privacy-officer
-# - inkoopadviseur
+- projectleider
+- beleid en advies
+  
 hide:
 - navigation
 - toc
@@ -52,6 +53,9 @@ Beveiliging. De verwerker treft passende technische en organisatorische maatrege
 
 [Verwerkersovereenkomst](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/avg-algemeen/verwerkersovereenkomst)
 
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Er is sprake van een onrechtmatige verwerking van persoonsgegevens als geen verwerkersovereenkomst is opgesteld tussen de verwerker en de verwerkingsverantwoordelijke. 
 
 ## Voorbeeld
 

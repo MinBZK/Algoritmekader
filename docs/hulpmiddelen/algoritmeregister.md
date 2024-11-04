@@ -7,7 +7,7 @@ vereiste:
 - bzk-01-algoritmeregister
 maatregel:
 - neem_technische_documentatie_in_algoritmeregister
-- publiceren_in_algoritmeregister
+- 6-imp-04-publiceren-algoritmeregister
 levenscyclus:
 - monitoring-en-beheer
 onderwerp:

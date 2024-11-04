@@ -1,8 +1,8 @@
 ---
 title: Assessment List for Trustworthy Artificial Intelligence (ALTAI)
 toelichting: De ALTAI helpt ontwikkelaars en organisaties hun AI-systemen te beoordelen op basis van ethische richtlijnen voor betrouwbare AI, ontwikkeld in de EU. De ethische richtlijnen zijn gebaseerd op zeven hoofdcriteria. 
-categorie: 
-- toetsingskader 
+categorie:
+- toetsingskader
 vereiste:
 - aia-14-conformiteitsbeoordeling
 - awb-01-zorgvuldigheidsbeginsel

@@ -10,13 +10,11 @@ levenscyclus:
 
 onderwerp:
 - publieke-inkoop
-# rollen:
-# - proceseigenaar
-# - behoeftesteller
-# - inkoopadviseur
-# - contractbeheerder
-# - aanbestedingsjurist
-# - gemandateerd-verantwoordelijke
+  
+# geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn
+- projectleider
+- beleid en advies
+  
 hide:
 - navigation
 - toc
@@ -53,6 +51,11 @@ Neem in de conceptovereenkomst op dat de aanbieder garandeert dat auteursrechten
 
 - [Advies Landsadvocaat Pels Rijcken over het gebruik van generatieve AI-tools door medewerkers van de Staat](https://www.rijksoverheid.nl/documenten/brieven/2023/10/10/1-advies-landsadvocaat-pels-rijcken)
 - ARVODI (24.7) en ARBIT (art 8.5 & 8.6)
+
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Dat wordt gecontracteerd met een aanbieder waarbij niet kan worden uitgesloten dat auteursrechten worden geschonden. 
+
 
 ## Voorbeeld
 

@@ -13,7 +13,7 @@ vereiste:
 - avg-07-transparantie-bij-verwerken-persoonsgegevens
 - aia-35-verwerking-in-testomgeving
 maatregel:
-- uitvoeren_risicoanalyse_en_formuleren_mitigerende_maatregelen_voor_privacyrisico's
+- 4-owk-03-privacyrisico
 levenscyclus:
 - probleemanalyse
 - ontwerp

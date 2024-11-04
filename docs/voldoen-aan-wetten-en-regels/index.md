@@ -13,11 +13,11 @@ hide:
 <div class="float-container">
   <div class="float-child-white styled-list-border">
   <div class="float-child-title">
-    <h2><b>Beslisboom</b></h2>
+    <h2><b>Beslishulp AI-verordering</b></h2>
   </div>
   <div class="float-child-content">
     <p>
-    Met de beslisboom stel je vast of de AI-verordening geldt voor jouw overheidsorganisatie. En aan welke vereisten je dan moet voldoen.
+    De zin daaronder: Met deze beslishulp stel je vast of de AI-verordening geldt voor <b>jouw beoogde toepassing.</b> En aan welke vereisten je dan moet voldoen. 
     </p><br>
     <button href="rollen/" class="button button-primary">Voer beslisboom uit</button>
   </div>
@@ -28,7 +28,7 @@ hide:
   </div>
   <div class="float-child-content">
     <p>
-   Overzicht van vereisten voor overheden die algoritmes of AI-systemen ontwikkelen of gebruiken. Gebasseerd op de wetten en regels voor het uitvoeren van wettelijke taken.
+   Overzicht van vereisten voor overheden die algoritmes of AI-systemen ontwikkelen of gebruiken. : Gebaseerd op wet- en regelgeving en bestaand beleid.
     </p>
     <ul>
       <li><a href="../vereisten/vereisten/aia-29-beoordelen-gevolgen-grondrechten/">Beoordeling van grondrechten</a></li>
@@ -50,16 +50,16 @@ hide:
     Overzicht van aanbevolen maatregelen voor verantwoord gebruik van algoritmes en AI-systemen. Het zijn adviezen om te voldoen aan de vereisten voor overheden. Andere maatregelen zijn ook mogelijk.
     </p>
     <ul>
-      <li><a href="../maatregelen/voer_een_biasanalyse_uit.md/">Voer een biasanalyse uit</a></li>
-      <li><a href="../maatregelen/neem_technische_documentatie_in_algoritmeregister.md">Neem technische documentatie op in het algoritmeregister</a></li>
-      <li><a href="../maatregelen/datakwaliteit.md">Data is van voldoende kwaliteit</a></li>
+      <li><a href="../maatregelen/voer_een_biasanalyse_uit/">Voer een biasanalyse uit</a></li>
+      <li><a href="../maatregelen/backups/">Maak back-ups van algoritmes</a></li>
+      <li><a href="../maatregelen/datakwaliteit/">Data is van voldoende kwaliteit</a></li>
     </ul>
     <a href="rollen/" class="show-more"><b>Bekijk alle maatregelen</b></a>
   </div>
   </div>
   <div class="float-child-white styled-list">
   <div class="float-child-title">
-    <h2><b>Instrumenten</b></h2>
+    <h2><b>Hulpmiddelen</b></h2>
   </div>
   <div class="float-child-content">
     <p>

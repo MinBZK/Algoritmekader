@@ -73,7 +73,7 @@ onderwerp:
 # vul hier de rollen in die betrokken zijn bij deze maatregel
 rollen:
 - projectleider
-- jurist
+- beleid en advies
   
 hide:
 - navigation

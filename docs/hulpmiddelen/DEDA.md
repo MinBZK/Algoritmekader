@@ -9,8 +9,8 @@ maatregel:
 - 1-pba-03-onderbouwen-gebruik-algoritme
 - 2-owp-02-gebruikte-data
 levenscyclus:
+- probleemanalyse
 - ontwerp
-- dataverkenning-en-datapreparatie
 onderwerp:
 - data
 - fundamentele-rechten
@@ -34,7 +34,12 @@ DEDA bestaat uit een poster voor brainstormsessies, een interactieve vragenlijst
 DEDA bevordert verantwoordingsplicht, onderwijst gebruikers, communiceert problemen en ondersteunt projectmanagement.
 
 ## Relevantie
+DEDA is een belangrijk hulpmiddel omdat het helpt bij de vroege identificatie en bespreking van ethische kwesties in dataprojecten. Net als de [IAMA](IAMA.md), biedt DEDA een gestructureerde aanpak om de implicaties van datagebruik en algoritmische besluitvorming te beoordelen.
+Het ondersteunt overheden bij het naleven van het [zorgvuldigheidsbeginsel](../vereisten/awb-01-zorgvuldigheidsbeginsel.md) en maakt ethische afwegingen inzichtelijk als onderdeel van de besluitvorming.
+Door een interactieve vragenlijst en documentatie bevordert DEDA verantwoordingsplicht en transparantie.
 
+DEDA stimuleert interdisciplinaire samenwerking en helpt beleidsmakers, juristen en ontwikkelaars de ethische dimensies van data-analyse beter te begrijpen.
+Dit draagt bij aan zorgvuldige en rechtvaardige datagedreven oplossingen binnen de publieke sector. DEDA draagt bij aan [transparantie](../onderwerpen/transparantie/index.md) en uitlegbaarheid van datagebruik, essentieel voor publiek vertrouwen.
 
 ## Auteur
 DEDA is ontwikkeld door de Data School van de Universiteit Utrecht. DEDA is in nauwe samenwerking met data-analisten ontwikkeld. Inmiddels is DEDA een wijdverspreid instrument, waar de Utrecht Data School ook trainingen en begeleiding bij geeft. [Via deze link](https://deda.dataschool.nl/workshop/) is meer informatie te vinden. 

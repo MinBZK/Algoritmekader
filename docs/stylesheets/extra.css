@@ -26,9 +26,10 @@ body{
 .mdx-badge__text {
   border-bottom-right-radius: .1rem;
   border-top-right-radius: .1rem;
-  box-shadow: 0 0 0 1px inset var(--md-accent-fg-color--transparent);
+  background: var(--md-accent-fg-color--transparent);
   padding: .2rem .3rem;
   color: var(--md-accent-fg-color);
+  font-weight: 500;
 }
 
 .mdx-badge a {
@@ -312,7 +313,6 @@ tbody tr td a:hover {
 
 .mdx-badge__text {
   border-radius: 0 0.1rem 0.1rem 0;
-  box-shadow: inset 0 0 0 1px var(--md-accent-fg-color--transparent);
   padding: 0.2rem 0.3rem;
   text-align: left;
 }
@@ -513,4 +513,19 @@ a{
 padding:.3em 0 .2em 0;
 width: 85%;
 color: #154273;
+}
+
+[data-md-color-accent=indigo]{
+  --md-accent-fg-color:#154273;
+  --md-accent-fg-color--transparent:#B2D7EE;
+}
+
+[data-md-color-accent=teal]{
+  --md-accent-fg-color:#39870C;
+  --md-accent-fg-color--transparent:#E2EDDB;
+}
+
+[data-md-color-accent=deep-orange]{
+  --md-accent-fg-color:#FBEAD9;
+  --md-accent-fg-color--transparent:#E17000;
 }

@@ -33,7 +33,7 @@ hide:
     <ul>
       <li><a href="vereisten/aia-29-beoordelen-gevolgen-grondrechten/">Beoordeling van grondrechten</a></li>
       <li><a href="vereisten/aut-01-auteursrechten/">Auteursrechten</a></li>
-      <li><a href="vereisten/grw-01-fundamentele-rechten.md">Beschermen van fundamentele rechten en vrijheden</a></li>
+      <li><a href="vereisten/grw-01-fundamentele-rechten/">Beschermen van fundamentele rechten en vrijheden</a></li>
     </ul>
     <a href="vereisten/" class="show-more"><b>Bekijk alle vereisten</b></a>
   </div>

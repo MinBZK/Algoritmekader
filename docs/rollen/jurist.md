@@ -3,6 +3,7 @@ title: Jurist
 hide:
   - toc
   - navigation
+  - path
 ---
 
 ## Maatregelen

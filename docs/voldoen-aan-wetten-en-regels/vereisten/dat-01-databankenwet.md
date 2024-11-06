@@ -3,10 +3,11 @@ title: Verbod op schenden databankenrechten
 id: urn:nl:ak:ver:dat-01
 toelichting: Het is verboden om zonder goedkeuring van de producent een databanken op te vragen en/of te hergebruiken.
 levenscyclus:
-- ontwerp
 - dataverkenning-en-datapreparatie
 onderwerp:
 - data
+rollen:
+- jurist
 hide:
 - navigation
 ---

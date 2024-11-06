@@ -3,6 +3,7 @@ title: Projectleider
 hide:
   - toc
   - navigation
+  - path
 ---
 
 ## Maatregelen

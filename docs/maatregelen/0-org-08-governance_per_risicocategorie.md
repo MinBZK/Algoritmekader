@@ -17,21 +17,21 @@ Richt algoritmegovernance in zodat per risicocategorie de juiste processtappen m
 
 ## Toelichting
 
-Er is verschil in de vereisten en maatregelen die nodig zijn afhankelijk van het type risico en impact. 
+Er is verschil in de vereisten en maatregelen die nodig zijn afhankelijk van het type algoritme, de bijbehorende risico's en impact ervan op burgers. 
 Zo vraagt bijvoorbeeld de AI-verordening om meer vereisten bij hoog-risico AI-systemen zijn. 
 Een meer uitgebreide governance is daar nodig, in de zin dat er meer handelingen en verslagleggingen nodig zijn.
-Een ander voorbeeld is dat voor generatieve AI (AI voor algemene doeleinden in de AI-verordening) er meer vereisten zijn.
+Een ander voorbeeld is dat voor generatieve AI (AI voor algemene doeleinden in de AI-verordening) er andere of aanvullende vereisten zijn.
 
 Afgeleid van de term "minimum viable product" wordt de processen van compliance doen aansluiten op wat nodig is ook wel "minimum viable compliance" genoemd.
 
 ## Aandachts- en actiepunten
-* Richt formulieren of procedures zo in dat je niet onnodige stappen hoeft te doorlopen als je vroegtijdig kan vaststellen dat niet alle vereisten gelden.
-* Let wel op dat je niet enkel kijkt naar "hoog-risico" volgens de AI-verordening. Ook AI-systemen die niet "hoog-risico" AI-verorderning zijn, kunnen grote impact hebben op burgers!
+* Stel tijdig vast om welk type algoritme het gaat en welke vereisten hiervoor gelden. Dat draagt eraan bij dan alleen wordt gefocust op het realiseren van de vereisten waar daadwerkelijk aan moet worden voldaan. 
+* Let wel op dat je niet enkel kijkt naar AI-verordening. Op impactvolle algoritmes die niet vallen onder het bereik van de AI-Verordening maar wel impactvol zijn op burgers, zijn ook vereisten van toepassing.  
 
 ## Voorbeelden
 
-De gemeente Rotterdam kiest ervoor om de algoritme en AI governance alleen in te zetten bij hoog-risico AI-toepassingen. 
-Deze risicoclassificatie volgt de AI verordening Voor laag-risico toepassingen geldt de standaard governance van de gemeente: de informatiebeveiligings- en privacy governance (Kleur Bekennen, Rekenkamer Rotterdam, 2024, p.71). Tabel 1 geeft inzicht in verschillende typen algoritmen en AI-toepassingen. De afbeelding uit hetzelfde rapport geeft een flowchart van hoe de governance anders is afhankelijk van de risico-categorie. 
+De gemeente Rotterdam kiest ervoor om de algoritmegovernance alleen in te zetten bij hoog-risico AI-toepassingen. 
+Deze risicoclassificatie volgt de AI-Verordening. Voor laag-risico toepassingen geldt de standaard governance van de gemeente: de informatiebeveiligings- en privacy governance (Kleur Bekennen, Rekenkamer Rotterdam, 2024, p.71). Tabel 1 geeft inzicht in verschillende typen algoritmen en AI-toepassingen. De afbeelding uit hetzelfde rapport geeft een flowchart van hoe de governance anders is afhankelijk van de risico-categorie. 
 
 ![Afbeelding](../afbeeldingen/rotterdam_risico_classificatie_governance.png)
 

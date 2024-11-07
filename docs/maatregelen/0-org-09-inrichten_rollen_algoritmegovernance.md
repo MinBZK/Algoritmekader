@@ -1,6 +1,6 @@
 ---
 title: Inrichten rollen en verantwoordelijkheden algoritmegovernance
-toelichting: Inrichten rollen en verantwoordelijkheden algoritmegovernance
+toelichting: Inrichten rollen en verantwoordelijkheden in binnen de algoritmegovernance
 levenscyclus:
 - organisatieverantwoordelijkheden
 rollen:
@@ -15,20 +15,22 @@ Inrichten rollen en verantwoordelijkheden algoritmegovernance.
 
 ## Toelichting
 
-Binnen het vormgeven van effectieve en efficiente algoritmegovernance zijn het beleggen van expliciete rollen en verantwoordelijkheden cruciaal.
-Het beleggen van deze rollen zorgt voor een actiegerichte structuur waarin zo weinig mogelijk verwarring/onduidelijkheid bestaat over wie wanneer aan zet is. 
-Informatie-uitwisseling en besluitvorming tussen deze rollen zal effectief plaatsvinden. 
+Bij het vormgeven van een doeltreffende algoritmegovernance is het beleggen van expliciete rollen en verantwoordelijkheden cruciaal.
+Het beleggen van deze rollen zorgt voor een actiegerichte structuur waarin duidelijkheid bestaat over wie wanneer aan zet is. 
+Het is van belang dat er een goede informatie uitwisseling en besluitvorming is tussen deze rollen. 
 
 Denk aan aan RACI-matrix om rollen en verantwoordelijkheden vast te leggen.
-Dit die voor alle vereisten/maatregelen in elke fase van de levenscyclus expliciet maakt waar welke rol ligt: 
+Rollen en verantwoordelijkheden kunnen worden gekoppeld aan de vereisten die moeten worden gerealiseerd in de verschillende fasen van de levenscyclus van een algoritme. 
 Zie hieronder een mogelijk voorbeeld van hoe dit eruit kan zien. 
 
 ![Format](https://github.com/user-attachments/assets/3debe7b6-0c42-40f5-a366-9cc5cc90cd3e)
 
 
 ## Aandachts- en actiepunten
-- RACI matrix Rotterdam interessant ter inspiratie, maar men begint niet bij nul.
-- Onderzoek welke verantwoordlijkheden aanvullend zijn. Passen deze al bij bestaande rollen in de organisatie.
+- RACI matrix Rotterdam geeft interessante inzichten. Organisaties hoeven vaak niet geheel opnieuw te beginnen om een RACI matrix in te kunnen vullen.
+- Onderzoek welke taken verantwoordlijkheden specifiek voor het ontwikkelen gebruiken van algoritmes aanvullend zijn. 
+- Kijk of deze verantwoordelijkheden onderdeel kunnen worden gemaakt van al bestaande rollen of dat er een nieuw rol voor moet worden gecreëerd.
+- Organisaties zullen moeten beoordelen hoe zijn dit willen inrichten.  
   
 ## Voorbeelden
 

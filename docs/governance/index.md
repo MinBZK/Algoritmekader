@@ -31,7 +31,7 @@ Er worden maatregelen gegeven waar concreet mee aan de slag kan worden gegaan. D
 1. **Randvoorwaarden algoritmegovernance**: Dit speelt zich af op organisatieniveau. Bijvoorbeeld een duidelijke visie op de ontwikkeling en gebruik van algoritmes is hier onderdeel van.
 2. **Inrichten van algoritmegovernance**: Dit speelt zich af op organisatieniveau, maar heeft betrekking op het systeemniveau. Er worden bijvoorbeeld keuzes gemaakt hoe de levenscyclus, rollen en verantwoordelijkheden specifiek voor jouw organisatie wordt ingericht.
 
-Belangrijk hier is dat het algoritmekader **niet voorschrijft** hoe je algoritmegovernance in dient te richten, dit is aan een organisatie zelf. (In latere versies komt mogelijk tooling om vereisten en maatregelen te koppelen aan rollen binnen een eigen organisatie.)
+Het Algoritmekader **schrijft niet voor** hoe je algoritmegovernance moet inrichten. Organisaties zullen dit zelf moeten bepalen. (In latere versies komt mogelijk tooling om vereisten en maatregelen te koppelen aan rollen binnen een eigen organisatie.)
 
 ## Waar te starten 
 Is er al een visie of beleid over hoe met AI en algortimes om te gaan? Is er al iemand verantwoordelijk voor AI en algortimes? Wie gaat over de naleving van bijvoorbeeld de AI-verordening? Als je geen andwoord hebt, kan je bij stap 1 beginnen.

@@ -37,7 +37,7 @@ Het Algoritmekader **schrijft niet voor** hoe je algoritmegovernance moet inrich
 Is er al een visie of beleid over hoe om te gaan algoritmes binnen de organisatie? Is er al iemand verantwoordelijk voor de ontwikkeling en gebruik van algoritmes? Wie gaat over de naleving van bijvoorbeeld de AI-verordening? Stap 1 kan ondersteunen bij deze vragen. 
 
 #### Voorbeelden bij stap 1: Randvoorwaarden algoritmegovernance
-Deze maatregelen gaan over het grondwerk leggen om algortimegovernance mogelijk te maken. Kijk eens naar maatregelen zoals:
+Deze maatregelen gaan over de basis leggen om algortimegovernance mogelijk te maken. Kijk eens naar maatregelen zoals:
 
 * [Stel een visie met betrekking tot AI en algoritmes op en zorg voor bestuurlijk bewustzijn en draagvlak.](../maatregelen/0-org-04-politiek-bestuurlijke-verantwoordelijkeheid.md)
 * [Onderzoek wat er al is qua bestaande governancestructuren en samenwerking.](../maatregelen/0-org-05-bestaande-governance.md)

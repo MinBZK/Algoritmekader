@@ -31,7 +31,7 @@ Om te zorgen voor politiek-bestuurlijke betrokkenheid kan het helpen om een meer
 
     Een van de belangrijkste hoofdconclusies van het rapport [Kleur Bekennen](https://rekenkamer.rotterdam.nl/wp-content/uploads/2024/05/RO2205-kleur-bekennen-vervolgonderzoek-algoritmes-rekenkamer-rotterdam.pdf) van de gemeente Rotterdam, opgesteld door de Algemene Rekenkamer, onderstreept het belang van actief bestuur binnen algoritme en AI governance: 
     
-    > "Het ontbreekt aan een politiek-bestuurlijk kader dat duidelijk maakt welke normen en principes leidend zijn bij de ontwikkeling en het gebruik van algoritmes. Dit heeft als effect dat belangrijke besluit over bijvoorbeeld wenselijkheid, haalbaarheid, transparantie en bias bij de ambtelijke organistie komen te liggen. Deze besluiten vragen echt om een politieke afweging".
+    > "Het ontbreekt aan een politiek-bestuurlijk kader dat duidelijk maakt welke normen en principes leidend zijn bij de ontwikkeling en het gebruik van algoritmes. Dit heeft als effect dat belangrijke besluit over bijvoorbeeld wenselijkheid, haalbaarheid, transparantie en bias bij de ambtelijke organisatie komen te liggen. Deze besluiten vragen om een politieke afweging".
 
     De algoritmegovernance van de [Gemeente Rotterdam](https://rekenkamer.rotterdam.nl/wp-content/uploads/2024/05/RO2205-kleur-bekennen-vervolgonderzoek-algoritmes-rekenkamer-rotterdam.pdf) bestaat uit de volgende onderdelen: 
     

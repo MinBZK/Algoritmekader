@@ -40,7 +40,7 @@ De eindverantwoordelijkheid voor algoritmes moet bij één entiteit belegd worde
 Bij algoritmegovernance moet rekening worden gehouden met mogelijk conflicterende belangen. 
 Bijvoorbeeld, het kan voorkomen dat de business of IT-teams innovatie willen nastreven, terwijl compliance teams juist vragen om het afremmen van innovatie. 
 Een algortime-eindverantwoordelijke dient hierin de afwegingen te maken, in samenspraak.
-Een strategie of visie zoals vastgelegd in een meerjarenbeleidsplan sturing geven en bestuurlijke steun opleveren in het maken van afwegingen.
+Zorg voor [bestuurlijke betrokkenheid](0-org-04-politiek-bestuurlijke-verantwoordelijkheid.md) bij het maken van deze afwegingen. Een strategie of visie zoals vastgelegd in een meerjarenbeleidsplan helpt sturing te geven bij het maken van afwegingen.
 
 ## Aandachts- en actiepunten
 * Welke lessen zijn geleerd met de implementatie van de AVG?

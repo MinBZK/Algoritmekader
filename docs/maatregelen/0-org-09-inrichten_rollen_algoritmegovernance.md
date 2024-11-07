@@ -30,7 +30,6 @@ Zie hieronder een mogelijk voorbeeld van hoe dit eruit kan zien.
 - RACI matrix Rotterdam interessant ter inspiratie, maar men begint niet bij nul.
 - Onderzoek welke verantwoordlijkheden aanvullend zijn. Passen deze al bij bestaande rollen in de organisatie.
 - Net als in onderdeel [bestaande govenrance structuren](governance-structuur.md) is het wijs niet opnieuw het wiel uit te vinden.
-- Het koppelen van verantwoordelijkheden aan *functies* is vaak complex en erg organisatieafhankelijk. Kijk eerst naar welke verantwoordelijkheden bij welke rollen passen. Een individu met een specifieke functie kan afhankelijk van de organisatie (en diens formaat) verschillende rollen vervullen
   
 ## Voorbeelden
 

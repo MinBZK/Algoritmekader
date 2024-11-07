@@ -13,7 +13,7 @@ rollen:
 
 ## Maatregel
 
-Pas een volwassenheidsmodel toe om te weten waar jou organisatie staat op het gebied van AI
+Breng de volwassenheid van je organisatie op het gebied van algoritmes en AI in kaart.
 
 ## Toelichting 
 Pas een volwassenheidsmodel toe om te weten waar jou organisatie staat qua AI

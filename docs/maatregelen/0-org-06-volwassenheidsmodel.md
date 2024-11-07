@@ -13,7 +13,7 @@ rollen:
 
 ## Maatregel
 
-Breng de volwassenheid van je organisatie op het gebied van algoritmes en AI in kaart.
+Breng de volwassenheid van je organisatie op het gebied van algoritmes in kaart.
 
 ## Toelichting 
 Om tot een passende algoritmegovernance voor een organisatie te komen, moet eerst worden vastgesteld wat op dit moment al is ingericht op het gebied van algoritmes. 
@@ -52,7 +52,7 @@ Bewustzijn over de noodzaak voor algoritmegovernance moet op bestuurlijk niveau 
 
 ## Aandachts- en actiepunten:
 * Breng in kaart wat er al is aan (IT-)governance met één van de volwassenheidsmodellen.
-* Is de organisatie goed ingericht en ontwikkeld? Worden AI en algoritmes al meegenomen?
+* In hoeverre kan hierbij worden aangesloten en zijn er zaken die aanvullend moeten worden ingericht specifiek voor een verantwoorde ontwikkeling en gebruik van algoritmes. 
 * Deel deze informatie met het bestuur en vraag hoe algoritmebeleid geregeld moet worden. Zo vraagt de AI-Verordening om een duidelijke verdeling van verantwoordelijkheden voor de ontwikkeling en gebruik van algoritmes.
 * Mogelijk moet er binnen de organisatie veel veranderen voor een doeltreffende algoritmegovernance opgezet kan worden. Pas daarvoor verandermanagement technieken toe. 
   

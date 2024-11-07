@@ -30,7 +30,7 @@ Schuett (2022) presenteert het three lines of defence model als volgt:
 ![Three Lines of Defence Model](https://github.com/user-attachments/assets/4974f07d-9810-44e0-a0bb-56f1b1061732)
 
 ## Aandachts- en actiepunten
-* Dit is slechts een mogelijke (deel)inrichting van algoritmegovernance
+* Het toepassen van een 'three lines of defence' is slechts één aspect van het toepassen van algoritmegoverance. 
 
 ## Voorbeelden
 

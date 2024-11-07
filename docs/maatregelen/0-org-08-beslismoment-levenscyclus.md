@@ -37,12 +37,12 @@ Veel organisaties hebben al een levenscyclus voor de ontwikkeling of gebruik van
 Let op dat er vaak kleine verschillen zitten in de stappen van een levenscyclusmodel.
 Algoritmegovernance kan op de levenscyclus aansluiten door 'gates' of controlepunten in te voeren tussen de verschillende stappen in de levenscyclus waar bepaalde processen worden uitgevoerd door verantwoordelijken, zoals het aanleveren van documenten, het uitvoeren van controles en het maken van afwegingen. 
 
-Het is belangrijk om te weten dat deze ‘gates’ niet altijd hetzelfde zijn voor verschillende projecten. 
-Een algoritme met een hoog risico heeft bijvoorbeeld andere regels nodig dan minder belangrijke algoritmes. 
-Ook vraagt het kopen van een kant-en-klaar AI-systeem of SaaS om andere procedures dan het kopen van software die nog verder ontwikkeld moet worden.
+Het is belangrijk om te weten dat toepassing van deze ‘gates’ niet altijd hetzelfde is. Dit kan verschillen per project. 
+Een hoog-risico-AI-systeem heeft bijvoorbeeld andere regels nodig dan minder impactvolle algoritmes. 
+Ook vraagt het kopen van een kant-en-klaar AI-systeem of SaaS-oplossing om andere procedures dan het kopen van software die nog verder ontwikkeld moet worden.
  
 ## Aandachts- en actiepunten
-* Introduceer ‘gates’ tussen fases in de AI-levenscyclus; voor de cyclus verder kan gaan moeten handelingen worden uitgevoerd door verantwoordelijken zoals: documenten aanleveren, (ethische) afwegingen, rapportages.
+* Introduceer ‘gates’ tussen fases in de levenscyclus voor een algoritme. Voordat een volgende stap in de cyclus kan worden gezet, moeten handelingen worden uitgevoerd door verantwoordelijken zoals: documenten aanleveren, (ethische) afwegingen vaststellen, rapportages en het inwinnen van een akkoord van de (eind)verantwoordelijken.
 * De levenscyclus bij inkoop is waarschijnlijk anders, maar heeft ook 'gates' en procedures nodig.
 * Er bestaan veel varianten van AI-levenscycli. Kijk goed wat past bij de (bestaande) processen van jouw organisatie. 
 

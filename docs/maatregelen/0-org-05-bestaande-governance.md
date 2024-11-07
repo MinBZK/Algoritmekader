@@ -55,7 +55,7 @@ Een concreet voorbeeld van samen optrekken is [deze handreiking](https://www.cip
 
     1) Bij inwerkingtreding van de AVG ging men snel aan de slag met DPIA’s, vinkenlijstjes. Let op voor een schijndossier: Begrijp wat er toegepast moet worden, voordat je aan de slag gaat; niet uitvoeren om maar te laten zien dat je eraan voldoet.
     2) Nadenken over governance. De FG is bij de wet geregeld, maar er is meer nodig. Welke profielen heeft de ondersteuning voor de uitvoering; (centrale) privacy officers en is hier ruimte voor?
-    3) Zorg dat interpretaties over wet- en regelgeving gelijk is binnen de organisatie en de collega’s die binnen de governance structuur samenwerken.
+    3) Zorg dat interpretaties over wet- en regelgeving gelijk zijn binnen de organisatie en de collega’s die binnen de governance structuur samenwerken.
     4) Er is beleid gemaakt, maar in de praktijk is te weinig capaciteit om dit uit te voeren. Stel een realistisch beleidsplan op om de gestelde doelen daadwerkelijk te kunnen realiseren. 
     _Centrale privacy officer Kadaster_
 

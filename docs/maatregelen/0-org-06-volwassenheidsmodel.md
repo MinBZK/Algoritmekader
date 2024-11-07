@@ -45,7 +45,7 @@ Het gebruik van AI wordt vaak gezien als een vorm van innovatie. Hoe kan AI help
  
 ## Verdere stappen
 Een analyse van volwassenheidsniveau kan helpen input te geven waar eerst op te richten.
-Het realiseren van algoritmegovernance vraagt zeer waarschijnlijk om een organisatieverandering. 
+Het is denkbaar dat het realiseren van algoritmegovernance vraagt om een organisatieverandering. 
 Het is aan te raden om verantwoordelijkheid te beleggen voor het realiseren van algoritmegovernance.
 Dit is mogelijk te koppelen aan de implementatie van de AI-verordening binnen de organisatie. 
 Bewustzijn over de noodzaak voor algoritmegovernance moet op bestuurlijk niveau leven. 

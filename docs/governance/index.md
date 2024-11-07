@@ -34,7 +34,7 @@ Er worden maatregelen gegeven waar concreet mee aan de slag kan worden gegaan. D
 Het Algoritmekader **schrijft niet voor** hoe je algoritmegovernance moet inrichten. Organisaties zullen dit zelf moeten bepalen. (In latere versies komt mogelijk tooling om vereisten en maatregelen te koppelen aan rollen binnen een eigen organisatie.)
 
 ## Waar te starten 
-Is er al een visie of beleid over hoe met AI en algortimes om te gaan? Is er al iemand verantwoordelijk voor AI en algortimes? Wie gaat over de naleving van bijvoorbeeld de AI-verordening? Als je geen andwoord hebt, kan je bij stap 1 beginnen.
+Is er al een visie of beleid over hoe om te gaan algoritmes binnen de organisatie? Is er al iemand verantwoordelijk voor de ontwikkeling en gebruik van algoritmes? Wie gaat over de naleving van bijvoorbeeld de AI-verordening? Stap 1 kan ondersteunen bij deze vragen. 
 
 #### Voorbeelden bij stap 1: Randvoorwaarden algoritmegovernance
 Deze maatregelen gaan over het grondwerk leggen om algortimegovernance mogelijk te maken. Kijk eens naar maatregelen zoals:

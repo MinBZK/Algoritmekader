@@ -19,7 +19,7 @@ rollen:
 
 ## Maatregel
 
-Inrichten governance en beslismomenten in de levenscyclus van AI.
+Bepaal wie wanneer betrokken moet zijn in de algoritmelevenscyclus en maak gebruik van beslismomenten in de levenscyclus van een algoritme.
 
 ## Toelichting
 

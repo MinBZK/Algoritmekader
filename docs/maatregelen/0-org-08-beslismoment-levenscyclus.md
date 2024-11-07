@@ -1,7 +1,7 @@
 ---
 title: Inrichten governance en beslismomenten in de levenscyclus van AI
 id: urn:nl:ak:mtr:org:08
-toelichting: Inrichten governance en beslismomenten in de levenscyclus van AI.
+toelichting: Bepaal wie wanneer betrokken moet zijn in de algoritmelevenscyclus en maak gebruik van beslismomenten in de levenscyclus van een algoritme.
 
 levenscyclus:
 - organisatieverantwoordelijkheden

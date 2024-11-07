@@ -38,7 +38,7 @@ Communicatie en vindbaarheid tussen de verschillende domeinen is hierin essentie
 De eindverantwoordelijkheid voor algoritmes moet eenduidig worden belegd binnen de organisatie.
 
 
-## Aandachts- en actiepunten
+### Aandachts- en actiepunten
 * Welke lessen zijn geleerd met de implementatie van de AVG?
 * Is er iemand intern verantwoordelijk gemaakt voor (toezicht op) algoritmes?
 * Hoe communiceren experts vanuit verschillende onderwerpen zoals privacy, informatiebeveiliging en data, die het onderwerp algoritme raken, op dit moment?

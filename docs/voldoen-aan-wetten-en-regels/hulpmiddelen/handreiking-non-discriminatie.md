@@ -40,7 +40,7 @@ De handreiking is primair geschreven voor teams die zelf AI-systemen bouwen. Het
 Daarnaast kan deze handreiking dienen voor opdrachtgevers van AI-systemen, ofwel om vooraf offrerende partijen te vragen aan te geven hoe zij rekening zullen houden met de diverse punten uit de handreiking, ofwel om tijdens het proces mee te kijken en op relevante punten aanwijzingen te geven, ofwel om achteraf te controleren of een opgeleverd product aan alle relevante voorwaarden voldoet. 
 
 ### Relatie tot IAMA
-Gebruikers van zowel de Handreiking non-discriminatie by design als het IAMA geven enkele verschillen tussen de twee instrumenten. Deze bevindingen zijn te vinden in het rapport ['Bekendheid, toepasbaarheid en toegevoegde waarde handreiking “non-discriminatie by design"'](https://open.overheid.nl/documenten/7052294a-e70a-4084-88da-d09ae5f202cb/file) van de Auditdienst Rijk.
+Gebruikers van zowel de Handreiking non-discriminatie by design als het IAMA geven enkele verschillen tussen de twee hulpmiddelen. Deze bevindingen zijn te vinden in het rapport ['Bekendheid, toepasbaarheid en toegevoegde waarde handreiking “non-discriminatie by design"'](https://open.overheid.nl/documenten/7052294a-e70a-4084-88da-d09ae5f202cb/file) van de Auditdienst Rijk.
 
 Zij geven aan dat het IAMA wordt gezien als instrument voor het nagaan van de impact van grondrechten in algemenere zin, waar de Handreiking zich specifiek richt op discriminatie. De handreiking bevat dan weer meer praktische voorbeelden die kunnen helpen bij begrip en afwegingen, waar de IAMA wat abstracter is.
 

@@ -41,7 +41,7 @@ Voor alle stappen geldt dat het belangrijk is om de gemaakte keuzes en afweginge
 
 ### Stap 1: Analyseer of er sprake is van bias
 In deze stap is het doel om te bepalen in welke mate er sprake is van een systematisch verschil in behandeling van bepaalde objecten, mensen of groepen in vergelijking met anderen. 
-Dit verschil kan zowel op een [directe als een indirecte manier](../onderwerpen/bias-en-non-discriminatie/index.md/#bias-in-algoritmische-context) ontstaan. 
+Dit verschil kan zowel op een [directe als een indirecte manier](../../onderwerpen/bias-en-non-discriminatie/index.md/#bias-in-algoritmische-context) ontstaan. 
 
 #### Toetsen op direct onderscheid
 Toetsen op direct onderscheid is in vergelijking tot toetsen op indirect onderscheid relatief eenvoudig. 
@@ -60,14 +60,14 @@ Een ander voorbeeld is dat onderscheid op grond van een niet-westers klinkende n
 [^3]: Zie [Discriminatie door risicoprofielen, een mensenrechtelijk toetsingskader, College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dce), [College voor de Rechten van de Mens 7 juni 2021, oordeel 2021-70](https://oordelen.mensenrechten.nl/oordeel/2021-70); [College voor de Rechten van de Mens 23 april 2015, oordeel 2015-44](https://oordelen.mensenrechten.nl/oordeel/2015-44); [College voor de Rechten van de Mens 23 april 2015, oordeel 2014-0426](https://oordelen.mensenrechten.nl/oordeel/2015-43).
 
 #### Toetsen op indirect onderscheid
-Ook selectiecriteria die op het eerste gezicht geen enkele link lijken te hebben met een [discriminatiegrond](../onderwerpen/bias-en-non-discriminatie/index.md#discriminatiegrond) kunnen leiden tot indirect onderscheid op grond van een discriminatiegrond. 
+Ook selectiecriteria die op het eerste gezicht geen enkele link lijken te hebben met een [discriminatiegrond](../../onderwerpen/bias-en-non-discriminatie/index.md#discriminatiegrond) kunnen leiden tot indirect onderscheid op grond van een discriminatiegrond. 
 Enkele voorbeelden van zulke 'ogenschijnlijk neutrale' selectiecriteria die verband hebben met ras of nationaliteit zijn: postcode, hoogte van het inkomen, kenteken, familielid in het buitenland, laaggeletterdheid. 
 Indirect onderscheid is in vergelijking met direct onderscheid lastiger op te signaleren en te voorkomen. 
 Daarom is het belangrijk jouw algoritmische toepassing regelmatig te analyseren op eventueel indirect onderscheid. 
 Het toetsen op indirect onderscheid bestaat uit 5 stappen:
 
 1. **Bepaal wat de [kwetsbare groepen](../maatregelen/2-owp-07-kwetsbare-groepen.md) zijn.**
-Eventueel kan dit aangevuld worden op basis van de [discriminatiegronden](../onderwerpen/bias-en-non-discriminatie/index.md#discriminatiegrond) uit non-discriminatie wetgeving. Of andere groepen waarvoor verschillen in behandeling ethisch onwenselijk zijn.
+Eventueel kan dit aangevuld worden op basis van de [discriminatiegronden](../../onderwerpen/bias-en-non-discriminatie/index.md#discriminatiegrond) uit non-discriminatie wetgeving. Of andere groepen waarvoor verschillen in behandeling ethisch onwenselijk zijn.
 
 2. **Bepaal wat "verschillen in behandeling" betekent in de context van het algoritme.**
 In deze stap is het belangrijk om voorafgaand aan de daadwerkelijke analyse met een [brede groep stakeholders](../maatregelen/1-pba-04-betrek-belanghebbenden.md) te bepalen wat 'eerlijk' en 'rechtvaardig' wordt bevonden in de context van het betreffende algoritme. 
@@ -158,7 +158,7 @@ Bepaal [met een grote groep belanghebbenden](../maatregelen/1-pba-04-betrek-bela
 
 !!! note "Opmerking"
 
-    De bepaling over wat eerlijk is en wat ethisch wenselijk is kan in sommige gevallen ook politiek bevonden worden. Houd hier rekening met de politiek-bestuurlijke verantwoordelijkheden en zorg indien nodig dat de [politiek-bestuurlijke verantwoordelijkhden](../governance/huidige-situatie/politiek-bestuurlijke-verantwoordelijkheden.md) duidelijk zijn. 
+    De bepaling over wat eerlijk is en wat ethisch wenselijk is kan in sommige gevallen ook politiek bevonden worden. Houd hier rekening met de politiek-bestuurlijke verantwoordelijkheden en zorg indien nodig dat de [politiek-bestuurlijke verantwoordelijkhden](../../onderwerpen/governance/huidige-situatie/politiek-bestuurlijke-verantwoordelijkheden.md) duidelijk zijn. 
 
 ## Bijbehorende vereiste(n)
 

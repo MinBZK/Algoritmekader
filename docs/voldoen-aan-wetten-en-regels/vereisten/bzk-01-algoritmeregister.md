@@ -41,6 +41,6 @@ Bij het onjuist of onvolledig publiceren in het Algortimeregister ontstaat er ee
 
 <!-- list_maatregelen vereiste/bzk-01-algoritmeregister no-search no-onderwerp no-rol no-levenscyclus -->
 
-## Instrumenten
+## hulpmiddelen
 
-<!-- list_instrumenten vereiste/bzk-01-algoritmeregister no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- list_hulpmiddelen vereiste/bzk-01-algoritmeregister no-search no-onderwerp no-rol no-levenscyclus -->

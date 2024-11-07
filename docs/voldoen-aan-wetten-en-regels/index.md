@@ -63,14 +63,14 @@ hide:
   </div>
   <div class="float-child-content">
     <p>
-   Overzicht van aanbevolen instrumenten voor het verantwoord ontwikkelen, gebruiken, beoordelen en monitoren van algoritmes en AI-systemen.
+   Overzicht van aanbevolen hulpmiddelen voor het verantwoord ontwikkelen, gebruiken, beoordelen en monitoren van algoritmes en AI-systemen.
     </p>
     <ul>
-      <li><a href="instrumenten/DPIA/">Data Protection Impact Assessment</a></li>
-      <li><a href="instrumenten/IAMA/">Impact Assessment Mensenrechten en Algoritmes</a></li>
-      <li><a href="instrumenten/algoritmeregister/">Algoritmeregister</a></li>
+      <li><a href="hulpmiddelen/DPIA/">Data Protection Impact Assessment</a></li>
+      <li><a href="hulpmiddelen/IAMA/">Impact Assessment Mensenrechten en Algoritmes</a></li>
+      <li><a href="hulpmiddelen/algoritmeregister/">Algoritmeregister</a></li>
     </ul>
-    <a href="instrumenten/" class="show-more"><b>Bekijk alle instrumenten</b></a>
+    <a href="hulpmiddelen/" class="show-more"><b>Bekijk alle hulpmiddelen</b></a>
   </div>
   </div>
 </div>

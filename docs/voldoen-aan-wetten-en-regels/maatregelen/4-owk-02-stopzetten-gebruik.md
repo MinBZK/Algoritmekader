@@ -54,7 +54,7 @@ Betrokkenen of belanghebbenden kunnen nadelige gevolgen ondervinden van een algo
 
 - [Onderzoekskader Algoritmes Auditdienst Rijk, SV.18, SV.17 ](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 1.03](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
-- [Impact Assessment Mensenrechten en Algoritmes, 1.5](../instrumenten/IAMA.md)
+- [Impact Assessment Mensenrechten en Algoritmes, 1.5](../hulpmiddelen/IAMA.md)
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->

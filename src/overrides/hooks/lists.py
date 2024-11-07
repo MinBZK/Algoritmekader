@@ -257,8 +257,8 @@ def on_env(env, config: MkDocsConfig, files: Files):
         )
 
         file.page.content = re.sub(
-            r"<!-- list_instrumenten(.*?) -->",
-            lambda match: replace_content(match, "instrumenten"),
+            r"<!-- list_hulpmiddelen(.*?) -->",
+            lambda match: replace_content(match, "hulpmiddelen"),
             file.page.content,
             flags=re.I | re.M,
         )

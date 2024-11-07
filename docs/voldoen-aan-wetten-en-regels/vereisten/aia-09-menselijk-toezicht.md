@@ -1,7 +1,7 @@
 ---
 title: Toezichtmogelijkheden voor gebruikers 
 id: urn:nl:ak:ver:aia-09
-toelichting: AI-systemen met een hoog risico worden zodanig ontworpen en ontwikkeld, met inbegrip van passende mens-machine-interface-instrumenten, dat hierop tijdens de periode dat zij worden gebruikt, op doeltreffende wijze toezicht kan worden uitgeoefend door natuurlijke personen.
+toelichting: AI-systemen met een hoog risico worden zodanig ontworpen en ontwikkeld, met inbegrip van passende mens-machine-interface-hulpmiddelen, dat hierop tijdens de periode dat zij worden gebruikt, op doeltreffende wijze toezicht kan worden uitgeoefend door natuurlijke personen.
 levenscyclus:
 - ontwerp
 - ontwikkelen
@@ -17,7 +17,7 @@ hide:
 <!-- tags -->
 ## Vereiste
 
-AI-systemen met een hoog risico worden zodanig ontworpen en ontwikkeld, met inbegrip van passende mens-machine-interface-instrumenten, dat hierop tijdens de periode dat zij worden gebruikt, op doeltreffende wijze toezicht kan worden uitgeoefend door natuurlijke personen.
+AI-systemen met een hoog risico worden zodanig ontworpen en ontwikkeld, met inbegrip van passende mens-machine-interface-hulpmiddelen, dat hierop tijdens de periode dat zij worden gebruikt, op doeltreffende wijze toezicht kan worden uitgeoefend door natuurlijke personen.
 
 ## Toelichting
 
@@ -35,7 +35,7 @@ De natuurlijke personen die verantwoordelijk zijn voor het menselijk toezicht, m
 Met het oog op het opsporen en aanpakken van onregelmatigheden, storingen en onverwachte prestaties moet de werking van het AI-systeem goed kunnen worden begrepen;
 2. Bewust blijven van de mogelijke neiging om automatisch of te veel te vertrouwen op de output van een AI-systeem met hoog risico (automation bias).
 Dit geldt in het bijzonder voor het gebruik van een hoog risico AI-systeem dat wordt gebruikt om informatie of aanbevelingen te versterkken voor beslisisngen die door natuurlijke personen moeten worden genomen;
-3. De output juist kunnen interpreteren, bijvoorbeeld met behulp van de juiste instrumenten en methoden voor interpretatie;
+3. De output juist kunnen interpreteren, bijvoorbeeld met behulp van de juiste hulpmiddelen en methoden voor interpretatie;
 4. In alle specifieke situaties kunnen besluiten om het hoog risico AI-systeem niet te gebruiken of de output op een andere wijze te negeren, door een andere beslissing te vervangen of terug te draaien;
 5. ingrijpen in de werking van het hoog risico AI-systeem of het systeem onderbreken door middel van een stopknop of een vergelijkbare procedure waarmee het systeem op een veilige wijze kan worden stopgezet.
 

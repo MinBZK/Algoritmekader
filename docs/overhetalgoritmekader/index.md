@@ -21,7 +21,7 @@ Het Algoritmekader is een website van het Ministerie van Binnenlandse Zaken en K
 
 - alle wetten en regels, zoals de [AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX%3A32024R1689&qid=1723226664277) en de [Algemene wet bestuursrecht](https://wetten.overheid.nl/BWBR0005537/2022-11-01/1)
 
-- belangrijke instrumenten, zoals de [IAMA](https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes) (Impact Assessment Mensenrechten en Algoritmes)
+- belangrijke hulpmiddelen, zoals de [IAMA](https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes) (Impact Assessment Mensenrechten en Algoritmes)
 - adviezen en ervaringen van experts, zoals wetenschappers
 
 ## Versies

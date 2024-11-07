@@ -23,7 +23,7 @@ Een aantal wezenlijke grondrechten die vaak worden geraakt met de inzet van algo
 Dit geldt bijvoorbeeld op het recht op persoonsgegevensbescherming in het bouwblok [Privacy en gegevensbescherming](../../onderwerpen/privacy-en-gegevensbescherming/index.md) of het verbod op ongelijke behandeling in het bouwblok [Bias en non-discriminatie](../../onderwerpen/bias-en-non-discriminatie/index.md).  
 
 In dit bouwblok van het algoritmekader beschrijven we wat de vereisten zijn rondom het beschermen van fundamentele rechten. 
-Vervolgens worden deze vereisten ook vertaald in praktische maatregelen en instrumenten die overheden kunnen toepassen om invulling te geven aan deze vereisten.  
+Vervolgens worden deze vereisten ook vertaald in praktische maatregelen en hulpmiddelen die overheden kunnen toepassen om invulling te geven aan deze vereisten.  
 
 !!! info "Opmerking"
 
@@ -39,6 +39,6 @@ Onderdeel van het bouwblok Fundamentele rechten is het onderwerp [Bias en non-di
 
 <!-- list_maatregelen onderwerp/fundamentele-rechten no-search no-onderwerp no-rol no-levenscyclus -->
 
-## Instrumenten
+## hulpmiddelen
 
-<!-- list_instrumenten onderwerp/fundamentele-rechten no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- list_hulpmiddelen onderwerp/fundamentele-rechten no-search no-onderwerp no-rol no-levenscyclus -->

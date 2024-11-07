@@ -1,7 +1,7 @@
 ---
 title: Aanvullende verplichtingen voor aanbieders van AI-modellen met systeemrisico 
 id: urn:nl:ak:ver:aia-32
-toelichting: Aanbieders van AI-modellen voor algemene doeleinden met een potentieel systeemrisico moeten modelevaluatie uitvoeren overeenkomstig gestandaardiseerde protocollen en instrumenten die de stand van de techniek weerspiegelen, met inbegrip van het uitvoeren en documenteren van tests gericht op het ontdekken van kwetsbaarheden van het model om systeemrisico’s in kaart te brengen en te beperken.
+toelichting: Aanbieders van AI-modellen voor algemene doeleinden met een potentieel systeemrisico moeten modelevaluatie uitvoeren overeenkomstig gestandaardiseerde protocollen en hulpmiddelen die de stand van de techniek weerspiegelen, met inbegrip van het uitvoeren en documenteren van tests gericht op het ontdekken van kwetsbaarheden van het model om systeemrisico’s in kaart te brengen en te beperken.
 levenscyclus:
 - ontwikkelen
 - verificatie-en-validatie
@@ -18,7 +18,7 @@ hide:
 <!-- tags -->
 ## Vereiste
 
-Aanbieders van AI-modellen voor algemene doeleinden met een potentieel systeemrisico moeten modelevaluatie uitvoeren overeenkomstig gestandaardiseerde protocollen en instrumenten die de stand van de techniek weerspiegelen, met inbegrip van het uitvoeren en documenteren van tests gericht op het ontdekken van kwetsbaarheden van het model om systeemrisico’s in kaart te brengen en te beperken.
+Aanbieders van AI-modellen voor algemene doeleinden met een potentieel systeemrisico moeten modelevaluatie uitvoeren overeenkomstig gestandaardiseerde protocollen en hulpmiddelen die de stand van de techniek weerspiegelen, met inbegrip van het uitvoeren en documenteren van tests gericht op het ontdekken van kwetsbaarheden van het model om systeemrisico’s in kaart te brengen en te beperken.
 
 ## Toelichting
 
@@ -27,7 +27,7 @@ Aanbieders van AI-modellen voor algemene doeleinden met een potentieel systeemri
 
 Systeemrisico betekent: een risico dat specifiek is voor de capaciteiten met een grote impact van AI-modellen voor algemene doeleienden, die aanzienlijke gevolgen hebben voor de markt van de Uniek vanwege hun bereik, of vanwege feitelijke of redelijkerwijs te voorziene negatieve gevolgen voor de gezondheid, de veiligheid, de openbare veiligheid, de grondrechten of de samenleving als geheel, en dat op grote schaal in de hele waardeketen kan worden verspreid.
 
-Systeemrisico’s nemen logischerwijs toe naargelang de capaciteiten en het bereik van een model groter zijn, kunnen zich voordoen gedurende de gehele levenscyclus van het model en worden beïnvloed door elementen als misbruik van het model, de betrouwbaarheid, billijkheid, beveiliging en mate van autonomie ervan. Ook worden ze beïnvloed door de toegang van het model tot instrumenten, nieuwe of gecombineerde modaliteiten, introductie- en distributiestrategieën, en door het potentieel om waarborgen te omzeilen en andere factoren.
+Systeemrisico’s nemen logischerwijs toe naargelang de capaciteiten en het bereik van een model groter zijn, kunnen zich voordoen gedurende de gehele levenscyclus van het model en worden beïnvloed door elementen als misbruik van het model, de betrouwbaarheid, billijkheid, beveiliging en mate van autonomie ervan. Ook worden ze beïnvloed door de toegang van het model tot hulpmiddelen, nieuwe of gecombineerde modaliteiten, introductie- en distributiestrategieën, en door het potentieel om waarborgen te omzeilen en andere factoren.
 
 ## Bronnen
 

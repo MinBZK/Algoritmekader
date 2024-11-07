@@ -13,7 +13,7 @@ Wanneer beslissingen worden genomen op basis van de output van een algoritme of 
 Om algoritmes en AI-systemen op een verantwoorde manier toe te passen, dient dus ook de data op een verantwoorde en rechtmatige manier te worden gebruikt. 
 
 In dit bouwblok werken we uit welke vereisten er zijn voor verantwoord datagebruik, en geven we praktische maatregelen hoe dit ingevuld kan worden binnen overheidsorganisaties. 
-We zoeken hierbij de aansluiting op bestaande instrumenten, zoals de [Toolbox verantwoord datagebruik](https://realisatieibds.nl/page/view/628d59dd-0755-4c20-8217-d3f26d9d8a5c/toolbox-voor-verantwoord-datagebruik).  
+We zoeken hierbij de aansluiting op bestaande hulpmiddelen, zoals de [Toolbox verantwoord datagebruik](https://realisatieibds.nl/page/view/628d59dd-0755-4c20-8217-d3f26d9d8a5c/toolbox-voor-verantwoord-datagebruik).  
 
 !!! info "Opmerking"
 

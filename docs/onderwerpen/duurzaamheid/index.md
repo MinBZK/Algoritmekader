@@ -19,7 +19,7 @@ Deze thema’s raken onder andere het ontwerp, de ontwikkeling en de inzet van a
 Met de opkomst van grotere en ingewikkeldere modellen, grotere datasets, en de groeiende interesse in (generatieve) AI, groeit ook het energie- en waterverbruik.
 Dit verbruik ontstaat ook bij het trainen van grotere en complexere rekenmodellen zoals Large Language Models, en de opslag van zeer grote (vaak multimediale) datasets in datacenter. 
 
-Dit bouwblok van het Algoritmekader biedt een gestructureerd overzicht van vereisten, maatregelen en instrumenten die ondersteunen bij het ontwikkelen en toepassen van algoritmes en AI-systemen op een duurzame wijze.
+Dit bouwblok van het Algoritmekader biedt een gestructureerd overzicht van vereisten, maatregelen en hulpmiddelen die ondersteunen bij het ontwikkelen en toepassen van algoritmes en AI-systemen op een duurzame wijze.
 Zo kunnen bewuste keuzes worden gemaakt die niet alleen voldoen aan de functionaliteiten, maar ook bijdragen aan de Sustainable Development Goals (SDG's) en de doelstellingen uit het [Nederlandse klimaatakkoord](https://www.rijksoverheid.nl/onderwerpen/klimaatverandering/klimaatakkoord/wat-is-het-klimaatakkoord).
 Bij duurzame ontwikkeling en toepassing van algoritmes kan bijvoorbeeld gedacht worden aan energie-efficiënte programmering en duurzaam datacenterbeheer. 
 

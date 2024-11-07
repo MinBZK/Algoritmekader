@@ -71,7 +71,7 @@ hide:
     <ul>
       <li><a href="voldoen-aan-wetten-en-regels/vereisten/">Vereisten</a></li>
       <li><a href="voldoen-aan-wetten-en-regels/maatregelen/">Aanbevolen maatregelen</a></li>
-      <li><a href="voldoen-aan-wetten-en-regels/instrumenten/">Aanbevolen instrumenten</a></li>
+      <li><a href="voldoen-aan-wetten-en-regels/hulpmiddelen/">Aanbevolen hulpmiddelen</a></li>
     </ul>
     </div>
   </div>

@@ -29,7 +29,7 @@ Als je deze sectie leest ben je waarschijnlijk geïnteresseerd in het opzetten o
 Er worden maatregelen gegeven waar concreet mee aan de slag kan worden gegaan. Deze maatregelen zijn nog onder te verdelen in twee stappen:
 
 1. **Randvoorwaarden algoritmegovernance**: Dit speelt zich af op organisatieniveau. Bijvoorbeeld een duidelijke visie op de ontwikkeling en gebruik van algoritmes is hier onderdeel van.
-2. **Inrichten van algoritmegovernance**: Dit speelt zich af op organisatieniveau, maar heeft betrekking op het systeemniveau. Er worden bijvoorbeeld keuzes gemaakt hoe de levenscyclus en rollen en verantwoordelijkheden specifiek voor jouw organisatie wordt ingericht.
+2. **Inrichten van algoritmegovernance**: Dit speelt zich af op organisatieniveau, maar heeft betrekking op het systeemniveau. Er worden bijvoorbeeld keuzes gemaakt hoe de levenscyclus, rollen en verantwoordelijkheden specifiek voor jouw organisatie wordt ingericht.
 
 Belangrijk hier is dat het algoritmekader **niet voorschrijft** hoe je algoritmegovernance in dient te richten, dit is aan een organisatie zelf. (In latere versies komt mogelijk tooling om vereisten en maatregelen te koppelen aan rollen binnen een eigen organisatie.)
 

@@ -20,7 +20,7 @@ De kernvraag voor publieke organisaties bij de inzet van algoritmen is altijd: H
 Dit is per definitie een kwalitatieve en politieke vraag. 
 Dit gaat niet alleen over direct opbrengsten maar ook over lange termijn en indirecte effecten, de mate waarin de inzet van technologie bijdraagt aan de legitimiteit van publieke organisatie en hoe burgers met deze technologie worden bejegend. 
  
-Een politiek-bestuurlijk kader is vervolgens om te zetten tot een uitgeschreven visie en aanpak om dit te concretiseren. Zie voorbeelden.
+Om te zorgen voor politiek-bestuurlijke betrokkenheid kan het helpen om een meerjarige visie en/of strategie rondom verantwoorde inzet te formulueren. 
 
 ## Aandachts- en actiepunten
 * Op politiek-bestuurlijk niveau bewustzijn en een weloverwogen visie is belangrijk om verantwoorde AI en algortimes in te kunnen zetten. Veel pilots en initiatieven lopen hierop stuk door hierop vooruit te lopen.

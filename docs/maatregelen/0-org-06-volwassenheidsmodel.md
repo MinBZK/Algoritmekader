@@ -16,7 +16,7 @@ rollen:
 Breng de volwassenheid van je organisatie op het gebied van algoritmes en AI in kaart.
 
 ## Toelichting 
-Om tot een passende algoritmegovernance voor een organisatie te komen, moet eerst worden vastgesteld wat op dit moment al is ingericht op het gebied van AI en algoritmes. 
+Om tot een passende algoritmegovernance voor een organisatie te komen, moet eerst worden vastgesteld wat op dit moment al is ingericht op het gebied van algoritmes. 
 Op basis hiervan kunnen vervolgstappen worden gedefinieerd waar een organisatie aan kan gaan werken. Ook kunnen deze uitkomsten helpen bewustzijn over de uitdagingen te vergroten.
 
 

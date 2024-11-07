@@ -40,7 +40,7 @@ Een strategie of visie zoals vastgelegd in een meerjarenbeleidsplan sturing geve
 
 ## Aandachts- en actiepunten
 * Welke lessen zijn geleerd met de implementatie van de AVG?
-* Is er iemand intern verantwoordelijk gemaakt voor (toezicht op) AI & algoritmes?
+* Is er iemand intern verantwoordelijk gemaakt voor (toezicht op) algoritmes?
 * Hoe communiceren verschillende groepen die aan AI-thema’s raken, zoals privacy of data, op dit moment?
 * Een RACI-model kan ook helpen hierbij (zie ook maatregelen over rollen en verantwoordelijkheden).
 * Hoe worden afwegingen gemaakt in de organisatie tussen innovatie en compliance?

@@ -12,7 +12,7 @@ In het Algoritmekader gaat governance over de governance van AI en algoritmes in
 !!! note "Let op!"
     Omdat het Algoritmekader uitgaat van de [brede definitie van een algoritme](../overhetalgoritmekader/definities.md), hanteren we voor het gemak de term “algoritmegovernance” als we het hebben over governance over algoritmes én AI. 
 
-De noodzaak van algoritmegovernance is om grip te hebben (of krijgen) op algoritmes en AI binnen een organisatie en zaken als (onbedoelde) discriminatie te voorkomen. 
+De noodzaak van algoritmegovernance is om grip te hebben (of krijgen) op algoritmes binnen een organisatie en nadelige gevolgen ervan, zoals (onbedoelde) discriminatie, te voorkomen. 
 Een algoritmegovernance randvoorwaarde voor een organisatie om de vereisten die het Algoritmekader noemt verantwoord en gestructureerd aan te pakken
 
 Er bestaan verschillende niveau's van algoritmegovernance: van (inter)nationaal niveau, naar organisatieniveau naar het niveau van het AI-systeem (zie figuur hieronder). 

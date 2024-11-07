@@ -1,6 +1,6 @@
 ---
 title: Gebruik een algoritme volwassenheidsmodel om te weten waar de organisatie staat
-id: urn:nl:ak:mtr:org:06
+id: urn:nl:ak:mtr:org-06
 toelichting: Pas een volwassenheidsmodel toe om te weten waar de organisatie staat op het gebied van AI
 levenscyclus:
 - organisatieverantwoordelijkheden

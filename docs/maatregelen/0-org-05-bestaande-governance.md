@@ -35,7 +35,7 @@ Bij de vormgeving van een algoritmegovernance van een organisatie is het van bel
 In veel organisaties werken privacy- en informatiebeveiliging nauw samen van strategisch organisatieniveau tot operationeel omdat deze onderwerpen raken aan beide domeinen. 
 Dit geldt in nog grotere mate voor vraagstukken rondom de inzet van algoritmes, die vragen om samenwerking en expertise vanuit veel verschillende invalshoeken.
 Communicatie en vindbaarheid tussen de verschillende domeinen is hierin essentieel. 
-De eindverantwoordelijkheid voor algoritmes moet bij één entiteit belegd worden, die let op het betrekken van de juiste (interne) partijen. 
+De eindverantwoordelijkheid voor algoritmes moet eenduidig worden belegd binnen de organisatie.
 
 Bij algoritmegovernance moet rekening worden gehouden met mogelijk conflicterende belangen. 
 Bijvoorbeeld, het kan voorkomen dat de business of IT-teams innovatie willen nastreven, terwijl compliance teams juist vragen om het afremmen van innovatie. 

@@ -24,10 +24,10 @@ Bepaal wie wanneer betrokken moet zijn in de algoritmelevenscyclus en maak gebru
 ## Toelichting
 
 - Leg vast wie er wanneer betrokken moet worden in de algoritmelevenscyclus. Leg deze rollen en verantwoordelijkheden per fase vast. 
-Let hierbij op _gates_: momenten waarop er een go/no-go kan worden gegeven.
+- Maak gebruik van '*gates*': momenten waarop er een besluit wordt genomen (go/no-go) om door te gaan naar de volgende fase
 
 
-Om algoritmes op een verantwoorde manier te gebruiken, zul je op de juiste momenten aandacht moeten hebben voor de juiste onderwerpen en risico's. Dit zich steeds herhalende proces van ontwerpen, ontwikkelen en in gebruik nemen noemen we de [levenscyclus](https://minbzk.github.io/Algoritmekader/levenscyclus/). 
+Om algoritmes op een verantwoorde manier te gebruiken, zul je op de juiste momenten aandacht moeten hebben voor de juiste onderwerpen en risico's. Dit zich steeds herhalende proces van ontwerpen, ontwikkelen en in gebruik nemen noemen we de [levenscyclus](../levenscyclus/index.md). 
 
 Voor effectieve governance van algoritmen en AI is het essentieel om bij de ontwikkeling en gebruik hiervan heldere afspraken te hebben over de interactie en informatie-uitwisseling die vereist is om aan de verantwoording te voldoen. 
 Dit moet gebeuren in iedere fase van de levenscyclus, tussen de direct betrokkenen en de stakeholders binnen en buiten de organisatie. 

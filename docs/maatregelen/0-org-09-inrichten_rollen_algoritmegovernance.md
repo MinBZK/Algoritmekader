@@ -29,7 +29,6 @@ Zie hieronder een mogelijk voorbeeld van hoe dit eruit kan zien.
 ## Aandachts- en actiepunten
 - RACI matrix Rotterdam interessant ter inspiratie, maar men begint niet bij nul.
 - Onderzoek welke verantwoordlijkheden aanvullend zijn. Passen deze al bij bestaande rollen in de organisatie.
-- Net als in onderdeel [bestaande govenrance structuren](governance-structuur.md) is het wijs niet opnieuw het wiel uit te vinden.
   
 ## Voorbeelden
 

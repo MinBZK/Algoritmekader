@@ -37,7 +37,6 @@ Dit geldt in nog grotere mate voor vraagstukken rondom de inzet van algoritmes, 
 Communicatie en vindbaarheid tussen de verschillende domeinen is hierin essentieel. 
 De eindverantwoordelijkheid voor algoritmes moet eenduidig worden belegd binnen de organisatie.
 
-Zorg voor [bestuurlijke betrokkenheid](0-org-04-politiek-bestuurlijke-verantwoordelijkheid.md) bij het maken van deze afwegingen. Een strategie of visie zoals vastgelegd in een meerjarenbeleidsplan helpt sturing te geven bij het maken van afwegingen.
 
 ## Aandachts- en actiepunten
 * Welke lessen zijn geleerd met de implementatie van de AVG?

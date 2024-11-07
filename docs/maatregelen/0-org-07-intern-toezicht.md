@@ -1,6 +1,6 @@
 ---
 title: Richt een algoritmegovernance in met three lines of defence
-id: urn:nl:ak:mtr:org:07
+id: urn:nl:ak:mtr:org-07
 toelichting: Richt een algoritmegovernance in met three lines of defence
 
 levenscyclus:

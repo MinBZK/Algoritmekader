@@ -23,7 +23,7 @@ Bepaal wie wanneer betrokken moet zijn in de algoritmelevenscyclus en maak gebru
 
 ## Toelichting
 
-Richt in hoe binnen de AI-levenscyclus rollen en verantwoordelijkheden worden ingericht. 
+- Leg vast wie er wanneer betrokken moet worden in de algoritmelevenscyclus. Leg deze rollen en verantwoordelijkheden per fase vast. 
 Let hierbij op _gates_: momenten waarop er een go/no-go kan worden gegeven.
 
 

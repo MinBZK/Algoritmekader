@@ -31,11 +31,11 @@ Om algoritmes op een verantwoorde manier te gebruiken, zul je op de juiste momen
 
 Voor effectieve governance van algoritmen en AI is het essentieel om bij de ontwikkeling en gebruik hiervan heldere afspraken te hebben over de interactie en informatie-uitwisseling die vereist is om aan de verantwoording te voldoen. 
 Dit moet gebeuren in iedere fase van de levenscyclus, tussen de direct betrokkenen en de stakeholders binnen en buiten de organisatie. 
-Per fase in de levenscyclus zijn dus andere [rollen en verantwoordelijkheden](rollen-en-verantwoordelijkheden.md) aan zet. 
+Per fase in de levenscyclus zijn dus andere [rollen en verantwoordelijkheden](2-owp-01-rollen-en-verantwoordelijkheden.md) aan zet. 
 
-Veel organisaties hebben al een levenscyclus voor AI-ontwikkeling, voortbouwend op IT-ontwikkeling. 
-Let op dat er vaak kleine verschillen zitten in de stappen van een lifecycle model.
-AI-governance kan op de levenscyclus aansluiten door 'gates' of controlepunten in te voeren tussen de verschillende stappen in de levenscyclus waar bepaalde processen worden uitgevoerd door verantwoordelijken, zoals het aanleveren van documenten, het uitvoeren van controles en het maken van afwegingen. 
+Veel organisaties hebben al een levenscyclus voor de ontwikkeling of gebruik van algoritmes, voortbouwend op IT-ontwikkeling. 
+Let op dat er vaak kleine verschillen zitten in de stappen van een levenscyclusmodel.
+Algoritmegovernance kan op de levenscyclus aansluiten door 'gates' of controlepunten in te voeren tussen de verschillende stappen in de levenscyclus waar bepaalde processen worden uitgevoerd door verantwoordelijken, zoals het aanleveren van documenten, het uitvoeren van controles en het maken van afwegingen. 
 
 Het is belangrijk om te weten dat deze ‘gates’ niet altijd hetzelfde zijn voor verschillende projecten. 
 Een algoritme met een hoog risico heeft bijvoorbeeld andere regels nodig dan minder belangrijke algoritmes. 

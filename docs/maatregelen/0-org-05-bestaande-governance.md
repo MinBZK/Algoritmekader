@@ -22,7 +22,7 @@ rollen:
 Onderzoek binnen de organisatie welke governancestructuren er al zijn en hoe algortimegovernance daarop kan inhaken. Communicatie en samenwerking tussen organisatieonderdelen is doorlopend van groot belang.
 
 
-## toelichting
+## Toelichting
 
 Onderzoek binnen de organisatie wat er al is en hoe algortimegovernance daarop kan inhaken. Communicatie en samenwerking tussen organisatieonderdelen is doorlopend van groot belang.
 

@@ -15,7 +15,7 @@ In het Algoritmekader gaat governance over de governance van AI en algoritmes in
 De noodzaak van algoritmegovernance is om grip te hebben (of krijgen) op algoritmes binnen een organisatie en nadelige gevolgen ervan, zoals (onbedoelde) discriminatie, te voorkomen. 
 Een algoritmegovernance randvoorwaarde voor een organisatie om de vereisten die het Algoritmekader noemt verantwoord en gestructureerd aan te pakken
 
-Er bestaan verschillende niveau's van algoritmegovernance: van (inter)nationaal niveau, naar organisatieniveau naar het niveau van het AI-systeem (zie figuur hieronder). 
+Er bestaan verschillende niveaus van algoritmegovernance: het (inter)nationaal niveau, het organisatieniveau en het niveau van het algoritme zelf, het systeemniveau (zie figuur hieronder). 
 Het Algoritmekader focust op de onderste twee niveaus, waar een organisatie invloed op heeft.
 Dit zijn **organisatieniveau** en **systeemniveau**.
 

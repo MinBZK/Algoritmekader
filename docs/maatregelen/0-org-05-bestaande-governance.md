@@ -1,5 +1,5 @@
 ---
-title: Onderzoek bestaande governance
+title: Sluit algoritmegovernance aan op bestaande governance
 id: urn:nl:ak:mtr:org:05
 toelichting: Onderzoek binnen de organisatie welke governancestructuren er al zijn en hoe algoritmegovernance daarop kan inhaken. Communicatie en samenwerking tussen organisatieonderdelen is doorlopend van groot belang.
 

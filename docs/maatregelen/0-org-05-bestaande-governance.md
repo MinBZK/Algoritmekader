@@ -25,7 +25,12 @@ Onderzoek binnen de organisatie welke governancestructuren er al zijn en hoe alg
 ## Toelichting
 
 
-Bij de vormgeving van een algoritmegovernance van een organisatie is het van belang om aansluiting en samenwerking te bewerkstelligen met huidige governancestructuren binnen de organisatie, zoals IT, data, informatiebeveiliging en privacy governance waar dit onlosmakelijk mee verbonden is. 
+Bij de vormgeving van een algoritmegovernance van een organisatie is het van belang om aansluiting en samenwerking te bewerkstelligen met huidige governancestructuren binnen de organisatie, zoals:
+
+- IT governance
+- [datagovernance](../onderwerpen/data#datagovernance-en-datamanagement)
+- informatiebeveiliging zoals governance rondom de [NIS2 richtlijn](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/nis2-richtlijn/)
+- [privacygovernance](https://www.cip-overheid.nl/media/eeqkauey/20200814-handleiding-privacy-governance-v3_2.pdf)
 
 In veel organisaties werken privacy- en informatiebeveiliging nauw samen van strategisch organisatieniveau tot operationeel omdat deze onderwerpen raken aan beide domeinen. 
 Dit geldt in nog grotere mate voor vraagstukken rondom de inzet van algoritmes, die vragen om samenwerking en expertise vanuit veel verschillende invalshoeken.

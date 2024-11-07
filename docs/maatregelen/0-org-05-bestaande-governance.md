@@ -44,7 +44,7 @@ De eindverantwoordelijkheid voor algoritmes moet eenduidig worden belegd binnen 
 * Hoe communiceren experts vanuit verschillende onderwerpen zoals privacy, informatiebeveiliging en data, die het onderwerp algoritme raken, op dit moment?
 * Het [opstellen van RACI-model](2-owp-01-rollen-en-verantwoordelijkheden.md) helpt bij het in kaart brengen van de samenhang tussen verschillende governancestructuren.
 * Hoe worden afwegingen gemaakt in de organisatie tussen innovatie en compliance?
-* Een orgaan als een ethische commissie (AI) kan helpen te verbinden en keuzes te maken. Let wel op dat dit niet een 'praatgroep' wordt zonder daadwerkelijk mandaat en draagvlak.
+* Een orgaan als een ethische adviescommissie kan waardevolle (zwaarwegende) adviezen geven in hoeverre de werking van een algoritme wenselijk of passend is. Daarbij helpt het als deze adviezen concrete aanbevelingen bevatten, zodat ontwikkelteams van algoritmes indien nodig de werking van het algoritme kunnen wijzigen.  
 
 
 ## Voorbeelden

@@ -27,7 +27,14 @@ Er zijn verschillende modellen om het volwassenheidsniveau te bepalen. Hieronder
 ## Voorbeelden van volwassenheidsmodellen
 
 ### AI ethics maturity model van Krijger, Thuis, de Ruiter, Ligthart & Broekman (2023)
-Het [AI ethics maturity model van Krijger, Thuis, de Ruiter, Ligthart & Broekman (2023)](https://link.springer.com/article/10.1007/s43681-022-00228-7) is op basis van zes categorieën (awareness & culture, Policy, Governance, Communication & Training, Development Proces, en Tooling) op verschillende niveau’s. 
+Het [AI ethics maturity model van Krijger, Thuis, de Ruiter, Ligthart & Broekman (2023)](https://link.springer.com/article/10.1007/s43681-022-00228-7) brengt de volwassenheid op verschillende niveau's in kaart op basis van zes categorieën:
+
+- awareness & culture, 
+- policy
+- governance
+- communication & training
+- pevelopment proces
+- tooling
 
 ![Krijger, J., Thuis, T., de Ruiter, M. et al. The AI ethics maturity model: a holistic approach to advancing ethical data science in organizations. AI Ethics 3, 355–367 (2023)](https://github.com/user-attachments/assets/07860cdc-9d6c-46f4-aace-cfcdf71e114d)
 

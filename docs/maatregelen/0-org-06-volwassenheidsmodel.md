@@ -20,7 +20,6 @@ Om tot een passende algoritmegovernance voor een organisatie te komen, moet eers
 Op basis hiervan kunnen vervolgstappen worden gedefinieerd zodat je met een handelingsperspectief hebt om je organisatie te verbeteren. Ook kunnen deze uitkomsten helpen bewustzijn over de uitdagingen te vergroten.
 
 
-Er zijn verschillende modellen om het volwassenheidsniveau te bepalen. Hieronder staan enkele voorbeelden. Deze modellen richten zich niet altijd specifiek op het beheer van algoritmes, maar kijken breder naar algoritmes in de organisatie of naar "AI-ethiek". Governance is altijd een onderdeel van deze modellen.
 
 
 ## Voorbeelden van volwassenheidsmodellen

@@ -45,7 +45,7 @@ Zorg voor [bestuurlijke betrokkenheid](0-org-04-politiek-bestuurlijke-verantwoor
 ## Aandachts- en actiepunten
 * Welke lessen zijn geleerd met de implementatie van de AVG?
 * Is er iemand intern verantwoordelijk gemaakt voor (toezicht op) algoritmes?
-* Hoe communiceren verschillende groepen die aan AI-thema’s raken, zoals privacy of data, op dit moment?
+* Hoe communiceren experts vanuit verschillende onderwerpen zoals privacy, informatiebeveiliging en data, die het onderwerp algoritme raken, op dit moment?
 * Een RACI-model kan ook helpen hierbij (zie ook maatregelen over rollen en verantwoordelijkheden).
 * Hoe worden afwegingen gemaakt in de organisatie tussen innovatie en compliance?
 * Een orgaan als een ethische commissie (AI) kan helpen te verbinden en keuzes te maken. Let wel op dat dit niet een 'praatgroep' wordt zonder daadwerkelijk mandaat en draagvlak.

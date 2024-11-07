@@ -54,7 +54,7 @@ Bewustzijn over de noodzaak voor algoritmegovernance moet op bestuurlijk niveau 
 * Breng in kaart wat er al is aan (IT-)governance met één van de volwassenheidsmodellen.
 * Is de organisatie goed ingericht en ontwikkeld? Worden AI en algoritmes al meegenomen?
 * Deel deze informatie met het bestuur en vraag hoe algoritmebeleid geregeld moet worden. Zo vraagt de AI-Verordening om een duidelijke verdeling van verantwoordelijkheden voor de ontwikkeling en gebruik van algoritmes.
-* Mogelijk moet er binnen de organisatie veel veranderen voor een (gezonde) algoritmegovernance opgezet kan worden, hiervoor zijn principes van verandermanagement goed om mee te nemen. 
+* Mogelijk moet er binnen de organisatie veel veranderen voor een doeltreffende algoritmegovernance opgezet kan worden. Pas daarvoor verandermanagement technieken toe. 
   
 ## Voorbeelden van toepassing
 Weet je van een casus waarbij een volwassenheidsmodel heeft geholpen met algoritmegovernance opzetten of verbeteren? Je kan een voorstel voor aanpassing van deze pagina doen.

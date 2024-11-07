@@ -24,6 +24,8 @@ Op basis hiervan kunnen vervolgstappen worden gedefinieerd zodat je met een hand
 
 ## Voorbeelden van volwassenheidsmodellen
 
+Er zijn verschillende modellen om het volwassenheidsniveau te bepalen. Deze modellen richten zich niet altijd specifiek op het beheer van algoritmes, maar kijken breder naar algoritmes in de organisatie of naar "AI-ethiek". Governance is altijd een onderdeel van deze modellen.
+
 ### AI ethics maturity model van Krijger, Thuis, de Ruiter, Ligthart & Broekman (2023)
 Het [AI ethics maturity model van Krijger, Thuis, de Ruiter, Ligthart & Broekman (2023)](https://link.springer.com/article/10.1007/s43681-022-00228-7) brengt de volwassenheid op verschillende niveau's in kaart op basis van zes categorieën:
 

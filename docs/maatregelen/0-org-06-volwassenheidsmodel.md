@@ -6,7 +6,7 @@ levenscyclus:
 - organisatieverantwoordelijkheden
 rollen:
 - projectleider
-# - beleid-en-advies
+- beleid-en-advies
 ---
 
 <!-- tags -->

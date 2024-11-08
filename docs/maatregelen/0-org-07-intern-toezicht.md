@@ -29,8 +29,7 @@ Een inrichting van algoritmegovernance die vaak wordt toegepast is het three lin
 Schuett (2022) presenteert het three lines of defence model als volgt:
 ![Three Lines of Defence Model](https://github.com/user-attachments/assets/4974f07d-9810-44e0-a0bb-56f1b1061732)
 
-## Aandachts- en actiepunten
-* Het toepassen van een 'three lines of defence' is slechts één aspect van het toepassen van algoritmegoverance. 
+Het toepassen van een 'three lines of defence' is slechts één aspect van het toepassen van algoritmegoverance. 
 
 ## Voorbeelden
 

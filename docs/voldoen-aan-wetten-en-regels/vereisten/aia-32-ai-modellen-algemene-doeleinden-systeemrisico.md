@@ -11,6 +11,10 @@ onderwerp:
 rollen:
 - projectleider
 - ontwikkelaar
+- transparantie
+rollen:
+- projectleider
+- ontwikkelaar
 hide:
 - navigation
 ---

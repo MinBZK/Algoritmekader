@@ -8,7 +8,7 @@ hide:
 
 ## Maatregelen
 
-<!-- list_maatregelen rollen/aanbestedingsjurist no-rol no-levenscyclus no-search no-onderwerp -->
+<!-- list_maatregelen rollen/ontwikkelaar no-rol no-levenscyclus no-search no-onderwerp -->
 
 !!! info "Disclaimer"
 

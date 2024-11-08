@@ -9,10 +9,6 @@
          <lastmod>2024-11-08</lastmod>
     </url>
     <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/governance/</loc>
-         <lastmod>2024-11-08</lastmod>
-    </url>
-    <url>
          <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/instrumenten/</loc>
          <lastmod>2024-11-08</lastmod>
     </url>
@@ -101,15 +97,7 @@
          <lastmod>2024-11-08</lastmod>
     </url>
     <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/maatregelen/0-org-04-wijzigingenproces/</loc>
-         <lastmod>2024-11-08</lastmod>
-    </url>
-    <url>
          <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/maatregelen/0-org-05-bestaande-governance/</loc>
-         <lastmod>2024-11-08</lastmod>
-    </url>
-    <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/maatregelen/0-org-05-gebruikersbeheer/</loc>
          <lastmod>2024-11-08</lastmod>
     </url>
     <url>
@@ -117,15 +105,7 @@
          <lastmod>2024-11-08</lastmod>
     </url>
     <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/maatregelen/0-org-06-wachtwoordbeheer/</loc>
-         <lastmod>2024-11-08</lastmod>
-    </url>
-    <url>
          <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/maatregelen/0-org-07-intern-toezicht/</loc>
-         <lastmod>2024-11-08</lastmod>
-    </url>
-    <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/maatregelen/0-org-07-periodieke-evaluatie-kwaliteit/</loc>
          <lastmod>2024-11-08</lastmod>
     </url>
     <url>
@@ -133,11 +113,27 @@
          <lastmod>2024-11-08</lastmod>
     </url>
     <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/maatregelen/0-org-08-governance_per_risicocategorie/</loc>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/maatregelen/0-org-09-governance-per-risicocategorie/</loc>
          <lastmod>2024-11-08</lastmod>
     </url>
     <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/maatregelen/0-org-09-inrichten_taken_en_verantwoordelijkheden_algoritmegovernance/</loc>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/maatregelen/0-org-10-inrichten-taken-en-verantwoordelijkheden-algoritmegovernance/</loc>
+         <lastmod>2024-11-08</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/maatregelen/0-org-11-gebruikersbeheer/</loc>
+         <lastmod>2024-11-08</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/maatregelen/0-org-12-periodieke-evaluatie-kwaliteit/</loc>
+         <lastmod>2024-11-08</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/maatregelen/0-org-13-wachtwoordbeheer/</loc>
+         <lastmod>2024-11-08</lastmod>
+    </url>
+    <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/maatregelen/0-org-14-wijzigingenproces/</loc>
          <lastmod>2024-11-08</lastmod>
     </url>
     <url>
@@ -413,6 +409,10 @@
          <lastmod>2024-11-08</lastmod>
     </url>
     <url>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/onderwerpen/governance/</loc>
+         <lastmod>2024-11-08</lastmod>
+    </url>
+    <url>
          <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/onderwerpen/menselijke-controle/</loc>
          <lastmod>2024-11-08</lastmod>
     </url>
@@ -549,75 +549,75 @@
          <lastmod>2024-11-08</lastmod>
     </url>
     <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-22-gebruiksverantwoordelijken-maatregelen/</loc>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-20-gebruiksverantwoordelijken-maatregelen/</loc>
          <lastmod>2024-11-08</lastmod>
     </url>
     <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-23-gebruiksverantwoordelijken-menselijk-toezicht/</loc>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-21-gebruiksverantwoordelijken-menselijk-toezicht/</loc>
          <lastmod>2024-11-08</lastmod>
     </url>
     <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-24-gebruiksverantwoordelijken-monitoren-werking/</loc>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-22-gebruiksverantwoordelijken-monitoren-werking/</loc>
          <lastmod>2024-11-08</lastmod>
     </url>
     <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-25-gebruiksverantwoordelijken-bewaren-logs/</loc>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-23-gebruiksverantwoordelijken-bewaren-logs/</loc>
          <lastmod>2024-11-08</lastmod>
     </url>
     <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-26-informeren-werknemers/</loc>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-24-informeren-werknemers/</loc>
          <lastmod>2024-11-08</lastmod>
     </url>
     <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-27-gebruiksverantwoordelijken-registratieverplichtingen/</loc>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-25-gebruiksverantwoordelijken-registratieverplichtingen/</loc>
          <lastmod>2024-11-08</lastmod>
     </url>
     <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-28-recht-op-uitleg-ai-besluiten/</loc>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-26-recht-op-uitleg-ai-besluiten/</loc>
          <lastmod>2024-11-08</lastmod>
     </url>
     <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-29-beoordelen-gevolgen-grondrechten/</loc>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-27-beoordelen-gevolgen-grondrechten/</loc>
          <lastmod>2024-11-08</lastmod>
     </url>
     <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-30-transparantieverplichtingen/</loc>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-28-transparantieverplichtingen/</loc>
          <lastmod>2024-11-08</lastmod>
     </url>
     <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-31-ai-modellen-algemene-doeleinden/</loc>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-29-ai-modellen-algemene-doeleinden/</loc>
          <lastmod>2024-11-08</lastmod>
     </url>
     <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-32-ai-modellen-algemene-doeleinden-systeemrisico/</loc>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-30-ai-modellen-algemene-doeleinden-systeemrisico/</loc>
          <lastmod>2024-11-08</lastmod>
     </url>
     <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-33-ai-modellen-algemene-doeleinden-systeemrisico-ernstige-incidenten/</loc>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-31-ai-modellen-algemene-doeleinden-systeemrisico-ernstige-incidenten/</loc>
          <lastmod>2024-11-08</lastmod>
     </url>
     <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-34-ai-modellen-algemene-doeleinden-systeemrisico-cyberbeveiliging/</loc>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-32-ai-modellen-algemene-doeleinden-systeemrisico-cyberbeveiliging/</loc>
          <lastmod>2024-11-08</lastmod>
     </url>
     <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-35-verwerking-in-testomgeving/</loc>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-33-verwerking-in-testomgeving/</loc>
          <lastmod>2024-11-08</lastmod>
     </url>
     <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-36-monitoring-na-het-in-de-handel-brengen/</loc>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-34-monitoring-na-het-in-de-handel-brengen/</loc>
          <lastmod>2024-11-08</lastmod>
     </url>
     <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-37-melding-ernstige-incidenten/</loc>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-35-melding-ernstige-incidenten/</loc>
          <lastmod>2024-11-08</lastmod>
     </url>
     <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-38-melding-inbreuk-op-ai-verordening/</loc>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-36-melding-inbreuk-op-ai-verordening/</loc>
          <lastmod>2024-11-08</lastmod>
     </url>
     <url>
-         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-39-recht-klacht-indienen-bij-ai-bureau/</loc>
+         <loc>https://minbzk.github.io/Algoritmekader/pr-preview/pr-346/vereisten/aia-37-recht-klacht-indienen-bij-ai-bureau/</loc>
          <lastmod>2024-11-08</lastmod>
     </url>
     <url>

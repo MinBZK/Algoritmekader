@@ -4,9 +4,14 @@ id: urn:nl:ak:mtr:org-10
 toelichting: Taken en verantwoordelijkheden zijn toebedeeld in de algoritmegovernance
 levenscyclus:
 - organisatieverantwoordelijkheden
+onderwerp:
+- governance
 rollen:
 - projectleider
 - beleid-en-advies
+hide:
+- navigation
+- toc
 ---
 <!-- tags -->
 
@@ -21,6 +26,7 @@ Taken en verantwoordelijkheden zijn toebedeeld in de algoritmegovernance
 - Rollen en verantwoordelijkheden kunnen worden gekoppeld aan de vereisten en maatregelen die moeten worden gerealiseerd in de verschillende fasen van de levenscyclus van een algoritme.
 - Organisaties zullen zelf moeten beoordelen welke taken en verantwoordelijkheden ze willen koppelen aan de beschikbare (of nieuwe) rollen binnen hun organisaties.  
 - Zie hieronder een mogelijk voorbeeld van hoe dit eruit kan zien. 
+
 ![Format](https://github.com/user-attachments/assets/3debe7b6-0c42-40f5-a366-9cc5cc90cd3e)
 
 ## Bronnen
@@ -50,6 +56,6 @@ Taken en verantwoordelijkheden zijn toebedeeld in de algoritmegovernance
 
 !!! example "Niet alles town down vast te leggen - CoE Belastingdienst"
 
-Het te regide vastleggen van functies en bijbehorende taken en verantwoordelijkheden kan nadelen hebben. Een team bij de belastingdienst (Analytische en Cognitieve Technologie | CoE Cognitieve Oplossingen) heeft ervaren dat het definieren van _werkpakketten_ in plaats van uitwerkte functies beter werkt. Alles dient belegd te zijn, maar alles op microniveau vastleggen is vaak niet te doen zonder in de praktijk te staan, en kan avenrechts werken. Wees als algoritmegovernance nog nieuw is zeker in het begin bewust dat inrichting altijd beter kan; ga grondig maar ook flexibel te werk.
+    Het te regide vastleggen van functies en bijbehorende taken en verantwoordelijkheden kan nadelen hebben. Een team bij de belastingdienst (Analytische en Cognitieve Technologie | CoE Cognitieve Oplossingen) heeft ervaren dat het definieren van _werkpakketten_ in plaats van uitwerkte functies beter werkt. Alles dient belegd te zijn, maar alles op microniveau vastleggen is vaak niet te doen zonder in de praktijk te staan, en kan avenrechts werken. Wees als algoritmegovernance nog nieuw is zeker in het begin bewust dat inrichting altijd beter kan; ga grondig maar ook flexibel te werk.
 
 

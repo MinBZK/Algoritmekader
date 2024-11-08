@@ -29,7 +29,6 @@ Voor effectieve governance van algoritmes is het essentieel om bij de ontwikkeli
 
 
 
-Dit moet gebeuren in iedere fase van de levenscyclus, tussen de direct betrokkenen en de stakeholders binnen en buiten de organisatie. 
 Per fase in de levenscyclus zijn dus andere [rollen en verantwoordelijkheden](2-owp-01-rollen-en-verantwoordelijkheden.md) aan zet. 
 
 Veel organisaties hebben al een levenscyclus voor de ontwikkeling of gebruik van algoritmes, voortbouwend op IT-ontwikkeling. 

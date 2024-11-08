@@ -11,15 +11,19 @@ hide:
 </div>
 
 <div class="float-container">
-  <div class="float-child-white styled-list-border">
+  <div class="float-child-white styled-list">
   <div class="float-child-title">
-    <h2><b>Beslishulp AI-verordering</b></h2>
+    <h2><b>De AI-verordering</b></h2>
   </div>
   <div class="float-child-content">
     <p>
-    De zin daaronder: Met deze beslishulp stel je vast of de AI-verordening geldt voor <b>jouw beoogde toepassing.</b> En aan welke vereisten je dan moet voldoen. 
-    </p><br>
-    <button href="rollen/" class="button button-primary">Voer beslisboom uit</button>
+    In augustus 2024 is de Verordening Artificiële Intelligentie in werking getreden. Lees meer over de AI-verordening of gebruik de beslishulp om te bepalen of de AI-verordening geldt voor jouw beoogde toepassing. 
+    </p>
+    <ul>
+      <li><a href="ai-verordening/">De AI-verordening in het kort</a></li>
+      <li><a href="">Gebruik de beslishulp AI-verordening</a></li>
+    </ul>
+    <button href="https://ai-act-decisiontree.apps.digilab.network/" class="button button-primary">Voer beslishulp AI-verordening uit</button>
   </div>
   </div>
   <div class="float-child-white styled-list">
@@ -28,7 +32,7 @@ hide:
   </div>
   <div class="float-child-content">
     <p>
-   Overzicht van vereisten voor overheden die algoritmes of AI-systemen ontwikkelen of gebruiken. : Gebaseerd op wet- en regelgeving en bestaand beleid.
+   Overzicht van vereisten voor overheden die algoritmes of AI-systemen ontwikkelen of gebruiken. Gebaseerd op wet- en regelgeving en bestaand beleid.
     </p>
     <ul>
       <li><a href="vereisten/aia-29-beoordelen-gevolgen-grondrechten/">Beoordeling van grondrechten</a></li>

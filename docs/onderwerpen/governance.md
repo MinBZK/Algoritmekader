@@ -61,8 +61,6 @@ We geven bij deze maatregelen meer voorbeelden en best practices voor het inrich
 * Zorg voor (bestuurlijk) bewustzijn als je ziet dat algoritmegovernance ontbreekt maar nog niet belegd is.
 * Zorg voor overlegstructuren met keuzemandaat met belangrijke partijen/stakeholders.
 
-## Maatregelen
+## Aanbevolen maatregelen
 
-Hieronder de maatregelen m.b.t. governance inrichten, in de organisatieverantwoordelijkheden-fase.
-
-<!-- list_maatregelen onderwerp/governance levenscyclus/organisatieverantwoordelijkheden no-search no-onderwerp no-rol  -->
+<!-- list_maatregelen onderwerp/governance no-levenscyclus no-search no-onderwerp no-rol  -->

@@ -7,12 +7,12 @@ vereiste:
 - awb-01-zorgvuldigheidsbeginsel
 - aia-11-systeem-voor-kwaliteitsbeheer
 - grw-01-fundamentele-rechten
-- aia-29-beoordelen-gevolgen-grondrechten
+- aia-27-beoordelen-gevolgen-grondrechten
 - grw-02-non-discriminatie
 - aia-19-toegankelijkheidseisen
 - aia-09-menselijk-toezicht
 - avg-04-proportionaliteit-en-subsidiariteit
-- aia-24-gebruiksverantwoordelijken-monitoren-werking
+- aia-22-gebruiksverantwoordelijken-monitoren-werking
 levenscyclus: 
 - ontwikkelen
 - implementatie

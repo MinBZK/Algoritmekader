@@ -5,7 +5,6 @@ categorie:
 - toetsingskader 
 vereiste:
 - aia-06-technische-documentatie
-- 
 levenscyclus:
 - ontwerp
 - implementatie

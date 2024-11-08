@@ -37,4 +37,4 @@ Als werknemersvertegenwoordigers en werknemers niet worden geïnformeerd over de
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-26-informeren-werknemers no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- list_maatregelen vereiste/aia-24-informeren-werknemers no-search no-onderwerp no-rol no-levenscyclus -->

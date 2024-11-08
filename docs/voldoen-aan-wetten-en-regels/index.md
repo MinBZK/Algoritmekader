@@ -21,7 +21,7 @@ hide:
     </p>
     <ul>
       <li><a href="ai-verordening/">De AI-verordening in het kort</a></li>
-      <li><a href="">Gebruik de beslishulp AI-verordening</a></li>
+      <li><a href="https://ai-act-decisiontree.apps.digilab.network/">Gebruik de beslishulp AI-verordening</a></li>
     </ul>
     <button href="https://ai-act-decisiontree.apps.digilab.network/" class="button button-primary">Voer beslishulp AI-verordening uit</button>
   </div>
@@ -32,10 +32,10 @@ hide:
   </div>
   <div class="float-child-content">
     <p>
-   Overzicht van vereisten voor overheden die algoritmes of AI-systemen ontwikkelen of gebruiken. Gebaseerd op wet- en regelgeving en bestaand beleid.
+   Overzicht van de belangrijkste vereisten voor overheden die algoritmes of AI-systemen ontwikkelen of gebruiken. Gebaseerd op wet- en regelgeving en bestaand beleid. 
     </p>
     <ul>
-      <li><a href="vereisten/aia-29-beoordelen-gevolgen-grondrechten/">Beoordeling van grondrechten</a></li>
+      <li><a href="vereisten/aia-27-beoordelen-gevolgen-grondrechten/">Beoordeling van grondrechten</a></li>
       <li><a href="vereisten/aut-01-auteursrechten/">Auteursrechten</a></li>
       <li><a href="vereisten/grw-01-fundamentele-rechten/">Beschermen van fundamentele rechten en vrijheden</a></li>
     </ul>

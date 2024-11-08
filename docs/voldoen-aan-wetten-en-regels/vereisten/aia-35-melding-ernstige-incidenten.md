@@ -42,4 +42,4 @@ Het niet melden van ernstige incidenten kan leiden tot vertraagde reactie op pot
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-37-melding-ernstige-incidenten no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- list_maatregelen vereiste/aia-35-melding-ernstige-incidenten no-search no-onderwerp no-rol no-levenscyclus -->

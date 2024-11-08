@@ -46,4 +46,4 @@ Zonder registratie van het hoge risico AI-systeem en het registreren welke organ
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-27-gebruiksverantwoordelijken-registratieverplichtingen no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- list_maatregelen vereiste/aia-25-gebruiksverantwoordelijken-registratieverplichtingen no-search no-onderwerp no-rol no-levenscyclus -->

@@ -2,9 +2,13 @@
 title: Projectleider
 hide:
   - toc
-  - navigation
   - path
 ---
+
+## Vereisten
+
+<!-- list_vereisten rollen/projectleider no-rol no-levenscyclus no-search no-onderwerp -->
+
 
 ## Maatregelen
 

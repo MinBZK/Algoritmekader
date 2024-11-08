@@ -46,4 +46,4 @@ Een aanbieder kan niet nagaan of een AI-systeem blijvend voldoet aan voorschrift
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-36-monitoring-na-het-in-de-handel-brengen no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- list_maatregelen vereiste/aia-34-monitoring-na-het-in-de-handel-brengen no-search no-onderwerp no-rol no-levenscyclus -->

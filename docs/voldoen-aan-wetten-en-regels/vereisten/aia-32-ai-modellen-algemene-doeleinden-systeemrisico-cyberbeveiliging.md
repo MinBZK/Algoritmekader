@@ -40,4 +40,4 @@ Niet voldoen aan deze verplichtingen kan leiden tot risico's op veiligheidsincid
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-34-ai-modellen-algemene-doeleinden-systeemrisico-cyberbeveiliging no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- list_maatregelen vereiste/aia-32-ai-modellen-algemene-doeleinden-systeemrisico-cyberbeveiliging no-search no-onderwerp no-rol no-levenscyclus -->

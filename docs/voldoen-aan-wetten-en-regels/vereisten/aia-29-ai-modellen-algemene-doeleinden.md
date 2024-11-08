@@ -46,4 +46,4 @@ Het niet voldoen aan deze verplichtingen kan leiden tot juridische en ethische c
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-31-ai-modellen-algemene-doeleinden onderwerp/publieke-inkoop no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- list_maatregelen vereiste/aia-29-ai-modellen-algemene-doeleinden onderwerp/publieke-inkoop no-search no-onderwerp no-rol no-levenscyclus -->

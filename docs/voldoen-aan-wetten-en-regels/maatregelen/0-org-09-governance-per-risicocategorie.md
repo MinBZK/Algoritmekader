@@ -45,7 +45,7 @@ Richt algoritmegovernance in op basis van de risicoclassificatie van algoritmes.
 De gemeente Rotterdam kiest ervoor om de algoritmegovernance alleen in te zetten bij hoog-risico AI-toepassingen. 
 Deze risicoclassificatie volgt de AI-Verordening. Voor laag-risico toepassingen geldt de standaard governance van de gemeente: de informatiebeveiligings- en privacy governance (Kleur Bekennen, Rekenkamer Rotterdam, 2024, p.71). Tabel 1 geeft inzicht in verschillende typen algoritmen en AI-toepassingen. De afbeelding uit hetzelfde rapport geeft een flowchart van hoe de governance anders is afhankelijk van de risico-categorie. 
 
-![Afbeelding](../afbeeldingen/rotterdam_risico_classificatie_governance.png)
+![Afbeelding](../../afbeeldingen/rotterdam_risico_classificatie_governance.png)
 
 In dit voorbeeld is ook het principe gehanteerd dat naast hoog-risico volgens de AI-verordening, bij ieder algoritme aan de hand van een drietal vragen moet worden besloten of een uitgebreidere algoritmegovernance nodig is.
 * Is de werking van het algoritme niet volledig én beknopt uit te leggen aan een gemiddelde Rotterdammer?

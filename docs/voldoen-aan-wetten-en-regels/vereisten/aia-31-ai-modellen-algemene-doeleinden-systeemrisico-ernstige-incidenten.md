@@ -36,4 +36,4 @@ Niet voldoen aan deze verplichtingen kan leiden tot risico's op veiligheidsincid
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-33-ai-modellen-algemene-doeleinden-systeemrisico-ernstige-incidenten no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- list_maatregelen vereiste/aia-31-ai-modellen-algemene-doeleinden-systeemrisico-ernstige-incidenten no-search no-onderwerp no-rol no-levenscyclus -->

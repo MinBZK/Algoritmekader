@@ -2,9 +2,13 @@
 title: Ontwikkelaar
 hide:
   - toc
-  - navigation
   - path
 ---
+
+## Vereisten
+
+<!-- list_vereisten rollen/ontwikkelaar no-rol no-levenscyclus no-search no-onderwerp -->
+
 
 ## Maatregelen
 

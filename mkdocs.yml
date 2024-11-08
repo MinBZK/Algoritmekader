@@ -34,7 +34,7 @@ nav:
          - overhetalgoritmekader/soorten-algoritmes.md
          - overhetalgoritmekader/definities.md
     - Onderwerpen:
-        - Overzicht: onderwerpen/index.md
+        # - Overzicht: onderwerpen/index.md
         - ... | onderwerpen/*.md
     - Levenscyclus:
         - levenscyclus/index.md 

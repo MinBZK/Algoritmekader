@@ -41,4 +41,4 @@ Het niet of onvoldoende bewaren van logs kan het vermogen belemmeren om incident
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-25-gebruiksverantwoordelijken-bewaren-logs no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- list_maatregelen vereiste/aia-23-gebruiksverantwoordelijken-bewaren-logs no-search no-onderwerp no-rol no-levenscyclus -->

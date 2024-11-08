@@ -45,4 +45,4 @@ Als gebruiksverantwoordelijke geen duidelijke, inhoudelijke toelichting geeft ov
 
 ## Maatregelen
 
-<!-- list_maatregelen vereiste/aia-28-recht-op-uitleg-ai-besluiten no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- list_maatregelen vereiste/aia-26-recht-op-uitleg-ai-besluiten no-search no-onderwerp no-rol no-levenscyclus -->

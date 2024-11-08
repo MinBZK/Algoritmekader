@@ -2,9 +2,12 @@
 title: Jurist
 hide:
   - toc
-  - navigation
   - path
 ---
+
+## Vereisten
+
+<!-- list_vereisten rollen/jurist no-rol no-levenscyclus no-search no-onderwerp -->
 
 ## Maatregelen
 

@@ -34,7 +34,7 @@ Identificeer welke grondrechten geraakt worden door het in te zetten algoritme e
 
 ## Toelichting 
 <!-- Geef hier een toelichting van deze maatregel -->
-Een algoritme kan invloed hebben op grondrechten. Op een aantal grondrechten kan een algoritme sneller invloed hebben, zoals recht op [persoonsgegevensbescherming](../onderwerpen/privacy-en-gegevensbescherming.md), recht op behoorlijk bestuur en recht op [gelijke behandeling](../onderwerpen/bias-en-non-discriminatie.md).
+Een algoritme kan invloed hebben op grondrechten. Op een aantal grondrechten kan een algoritme sneller invloed hebben, zoals recht op [persoonsgegevensbescherming](../../onderwerpen/privacy-en-gegevensbescherming.md), recht op behoorlijk bestuur en recht op [gelijke behandeling](../../onderwerpen/bias-en-non-discriminatie.md).
 Deze veelvoorkomende grondrechten krijgen op andere plekken in het Algoritmekader specifieke aandacht. 
 Er zijn echter ook grondrechten die bij minder algoritmen relevant zijn, maar desalniettemin in die gevallen zeer invloedrijk kunnen zijn. 
 Het is van belang uiteindelijk een totale afweging te maken van alle grondrechten die (mogelijk) geraakt worden ten opzichte van de voordelen van het in te zetten algoritme. 

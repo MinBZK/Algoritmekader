@@ -2,17 +2,16 @@
 title: Richt een algoritmegovernance in met three lines of defence
 id: urn:nl:ak:mtr:org-07
 toelichting: Richt een algoritmegovernance in met three lines of defence
-
 levenscyclus:
 - organisatieverantwoordelijkheden
-
 onderwerp:
 - governance
-
 rollen:
 - projectleider
 - beleid-en-advies
-
+hide:
+- navigation
+- toc
 ---
 
 ## Maatregel
@@ -22,11 +21,13 @@ Richt een algoritmegovernance in met three lines of defence.
 ## Toelichting
 
 Een inrichting van algoritmegovernance die vaak wordt toegepast is het three lines of defence model:
+
 - De eerste linie gaat over eigenaarschap, ontwikkeling, gebruik en risicobeheersing van algoritmes.
 - De tweede linie identificeert, beoordeelt en rapporteert over risico’s en het uitgevoerde gebruik algoritmes.
 - De derde verdedigingslinie controleert de werking van de governance en betreft interne advisering en toetsing. 
 
 Schuett (2022) presenteert het three lines of defence model als volgt:
+
 ![Three Lines of Defence Model](https://github.com/user-attachments/assets/4974f07d-9810-44e0-a0bb-56f1b1061732)
 
 Het toepassen van een 'three lines of defence' is slechts één aspect van het toepassen van algoritmegoverance. 

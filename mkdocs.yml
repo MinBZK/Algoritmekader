@@ -35,15 +35,7 @@ nav:
          - overhetalgoritmekader/definities.md
     - Onderwerpen:
         - Overzicht: onderwerpen/index.md
-        - Bias en non discriminatie: onderwerpen/bias-en-non-discriminatie/index.md
-        - Data: onderwerpen/data/index.md
-        - Duurzaamheid: onderwerpen/duurzaamheid/index.md
-        - Fundamentele rechten: onderwerpen/fundamentele-rechten/index.md
-        - Menselijke controle: onderwerpen/menselijke-controle/index.md
-        - Privacy en gegevensbescherming: onderwerpen/privacy-en-gegevensbescherming/index.md
-        - Publieke inkoop: onderwerpen/publieke-inkoop/index.md
-        - Technische robuustheid en veiligheid: onderwerpen/technische-robuustheid-en-veiligheid/index.md
-        - Transparantie: onderwerpen/transparantie/index.md
+        - ... | onderwerpen/*.md
     - Levenscyclus:
         - levenscyclus/index.md 
         - levenscyclus/organisatieverantwoordelijkheden.md

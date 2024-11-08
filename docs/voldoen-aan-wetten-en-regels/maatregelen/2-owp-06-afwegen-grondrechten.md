@@ -6,7 +6,7 @@ id: urn:nl:ak:mtr:owp-06
 toelichting: Afwegen grondrechten
 vereiste:
 - grw-01-fundamentele-rechten
-- aia-29-beoordelen-gevolgen-grondrechten
+- aia-27-beoordelen-gevolgen-grondrechten
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus:
 - probleemanalyse
@@ -34,7 +34,7 @@ Identificeer welke grondrechten geraakt worden door het in te zetten algoritme e
 
 ## Toelichting 
 <!-- Geef hier een toelichting van deze maatregel -->
-Een algoritme kan invloed hebben op grondrechten. Op een aantal grondrechten kan een algoritme sneller invloed hebben, zoals recht op [persoonsgegevensbescherming](../../onderwerpen/privacy-en-gegevensbescherming/index.md), recht op behoorlijk bestuur en recht op [gelijke behandeling](../../onderwerpen/bias-en-non-discriminatie/index.md).
+Een algoritme kan invloed hebben op grondrechten. Op een aantal grondrechten kan een algoritme sneller invloed hebben, zoals recht op [persoonsgegevensbescherming](../onderwerpen/privacy-en-gegevensbescherming.md), recht op behoorlijk bestuur en recht op [gelijke behandeling](../onderwerpen/bias-en-non-discriminatie.md).
 Deze veelvoorkomende grondrechten krijgen op andere plekken in het Algoritmekader specifieke aandacht. 
 Er zijn echter ook grondrechten die bij minder algoritmen relevant zijn, maar desalniettemin in die gevallen zeer invloedrijk kunnen zijn. 
 Het is van belang uiteindelijk een totale afweging te maken van alle grondrechten die (mogelijk) geraakt worden ten opzichte van de voordelen van het in te zetten algoritme. 
@@ -54,7 +54,7 @@ Documenteer de doorlopen stappen en leg de keuzes en afwegingen goed vast.
 
 !!! note "Opmerking"
 
-    Zoals vermeld in de [vereiste voor beoordeling van gevolgen voor grondrechten uit de AI-verordening](../vereisten/aia-29-beoordelen-gevolgen-grondrechten.md) moeten sommige hoog-risico AI-systemen een beoordeling doen van de gevolgen voor grondrechten. Het is nog niet bekend welke vorm dit precies moet hebben.
+    Zoals vermeld in de [vereiste voor beoordeling van gevolgen voor grondrechten uit de AI-verordening](../vereisten/aia-27-beoordelen-gevolgen-grondrechten.md) moeten sommige hoog-risico AI-systemen een beoordeling doen van de gevolgen voor grondrechten. Het is nog niet bekend welke vorm dit precies moet hebben.
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

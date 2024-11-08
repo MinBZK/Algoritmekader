@@ -2,7 +2,7 @@
 title: Impact Assessment Mensenrechten en Algoritmes
 toelichting: Het Impact Assessment voor Mensenrechten bij de inzet van Algoritmes (IAMA) is een instrument voor overheidsorganen om een interdisciplinaire dialoog en besluitvorming te faciliteren bij de ontwikkeling en inzet van algoritmische systemen. 
 vereiste:
-- aia-29-beoordelen-gevolgen-grondrechten
+- aia-27-beoordelen-gevolgen-grondrechten
 - grw-01-fundamentele-rechten
 levenscyclus:
 - probleemanalyse

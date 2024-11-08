@@ -52,10 +52,6 @@ def _create_chip(item: str, chip_type: str, current_file: File, config: MkDocsCo
 # Define _create_table_row_2 next, which references _create_chip
 def _create_table_row_2(file: File, filter_options: Dict[str, bool], current_file: File, config: MkDocsConfig) -> str:
     base_url = config.site_url if config.site_url else "/"
-    # if "minbzk.github.io" in base_url and "pr-preview" in current_file.abs_dest_path:
-    #     pr_preview_index = current_file.abs_dest_path.index("pr-preview")
-    #     pr_preview_path = current_file.abs_dest_path[pr_preview_index:].split('/')[0:3]
-    #     base_url = "/" + "/".join(pr_preview_path) + "/"
 
     relative_link = posixpath.join(base_url, file.dest_path)
 

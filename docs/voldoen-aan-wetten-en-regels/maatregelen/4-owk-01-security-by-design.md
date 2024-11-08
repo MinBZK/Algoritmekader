@@ -29,7 +29,7 @@ Mogelijke documenten waarin deze principes kunnen worden opgenomen, zijn het sec
 ## Toelichting
 Security by design is gehanteerd en terug te zien als uitgangspunt. (BIO 14.2.1.1) 
 
-Security by design benadrukt het belang van het in een vroeg stadium integreren van securitymaatregelen. Op die manier kan worden voldaan aan regelgeving, maar wordt de weerbaarheid tegen bijvoorbeeld cyberaanvallen verhoogd. In een vroeg stadium nadenken over security betekent dat vroeg al de [benodigde expertise wordt betrokken](1-pba-04-betrek-belanghebbenden.md), zoals een [security-officer](../../rollen/security-officer.md).
+Security by design benadrukt het belang van het in een vroeg stadium integreren van securitymaatregelen. Op die manier kan worden voldaan aan regelgeving, maar wordt de weerbaarheid tegen bijvoorbeeld cyberaanvallen verhoogd. In een vroeg stadium nadenken over security betekent dat vroeg al de [benodigde expertise wordt betrokken](1-pba-04-betrek-belanghebbenden.md), zoals een security-officer.
 
 ## Risico
 Wanneer tijdens het ontwerp en de inrichting van het algoritmisch systeem niet voldoende rekening wordt gehouden met vastgestelde security-by-design principes kan dit leiden tot een onvoldoende veilige (software-)omgeving. Dit kan tot gevolg hebben: oneigenlijke toegang, wijzigingen of vernietigingen van het algoritme, de data of uitkomsten van het algoritme.

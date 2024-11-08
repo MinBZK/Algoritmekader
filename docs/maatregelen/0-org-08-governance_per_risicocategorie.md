@@ -12,8 +12,7 @@ rollen:
 ---
 
 ## Maatregel
-
- Richt algoritmegovernance op basis van de risicoclassificatie van algoritmes.
+Richt algoritmegovernance op basis van de risicoclassificatie van algoritmes.
 
 ## Toelichting
 - Er is een verschil in de vereisten die van toepassing zijn op type algoritmes. Dit is mede afhankelijk van de risioclassificatie en de impact van het algoritme op betrokkenen.

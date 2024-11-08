@@ -1,5 +1,5 @@
 ---
-title: Sluit algoritmegovernance aan op bestaande governance
+title: Sluit algoritmegovernance aan op bestaande governancestructuren binnen de organisatie.
 id: urn:nl:ak:mtr:org:05
 toelichting: Onderzoek binnen de organisatie welke governancestructuren er al zijn en hoe algoritmegovernance daarop kan aansluiten. Communicatie en samenwerking tussen organisatieonderdelen is doorlopend van groot belang.
 
@@ -19,25 +19,29 @@ rollen:
 
 ## Maatregel
 
-Onderzoek binnen de organisatie welke governancestructuren er al zijn en hoe algortimegovernance daarop kan inhaken. 
+Sluit algoritmegovernance aan op bestaande governancestructuren binnen de organisatie.
 
 ## Toelichting
 Bij de vormgeving van een algoritmegovernance van een organisatie is het van belang om aansluiting en samenwerking te bewerkstelligen met huidige governancestructuren binnen de organisatie, zoals:
 - IT governance
+  
 - [datagovernance](../onderwerpen/data#datagovernance-en-datamanagement)
+  
 - informatiebeveiliging zoals governance rondom de [NIS2 richtlijn](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/nis2-richtlijn/)
+  
 - [privacygovernance](https://www.cip-overheid.nl/media/eeqkauey/20200814-handleiding-privacy-governance-v3_2.pdf)
 
-In veel organisaties werken privacy- en informatiebeveiliging nauw samen van strategisch organisatieniveau tot operationeel omdat deze onderwerpen raken aan beide domeinen. 
-Dit geldt in nog grotere mate voor vraagstukken rondom de inzet van algoritmes, die vragen om samenwerking en expertise vanuit veel verschillende invalshoeken.
-Communicatie en vindbaarheid tussen de verschillende domeinen is hierin essentieel. 
-De eindverantwoordelijkheid voor algoritmes moet eenduidig worden belegd binnen de organisatie.
+Deze governancestructuren kunnen waardevolle aanknopingspunten bieden voor algoritmegovernance, omdat hierin vaak al duidelijke afspraken zijn gemaakt en processen zijn geschreven om bijvoorbeeld risico's zo goed mogelijk te managen.
+In veel organisaties werken bijvoorbeeld privacy- en informatiebeveiliging en informatiebeheerders nauw samen van strategisch organisatieniveau tot operationeel, omdat deze onderwerpen raken aan beide domeinen. 
+Voor een verantwoorde inzet van algoritmes zullen deze expertise moeten gaan samengewerkt met andere expertise, zoals die van data science en ethiek.
+Het is van belang dat deze expertises tijdig en voldoende ruimte krijgen om samen te werken, zodat de functionele en niet functionele requirements kunnen worden gedefinieerd voor een verantwoorde inzet van algoritmes.  
+Stel vast waar deze expertise elkaar nodig hebben en waar deze zelfstandige taken en verantwoordelijkheden hebben. 
+Voorgaande geeft inzichten om te bepalen in hoeverre algoritmegovernance, naast de bestaande governancestructuren, moet worden ingericht.
 
-De volgende zaken kunnen relevant zijn om te verkennen om inzichten te krijgen waarmee aansluiting kan worden gezocht bij bestaande governancestructuren.
+De volgende vragen kunnen bedragen om bovenstaande inzichtelijk te krijgen:
 - Welke lessen zijn geleerd met de implementatie van de AVG of de toepassing van de BIO?
 - Is er iemand intern verantwoordelijk gemaakt voor (toezicht op) algoritmes?
 - Hoe werken experts vanuit verschillende onderwerpen zoals privacy, informatiebeheer, informatiebeveiliging en data op dit moment samen als het gaat om de inzet van algoritmes?
-- Het [opstellen van RACI-model](2-owp-01-rollen-en-verantwoordelijkheden.md) helpt bij het in kaart brengen van de samenhang tussen verschillende governancestructuren.
 
 ## Bronnen
 

@@ -1,6 +1,6 @@
 ---
-title: Richt algoritmegovernance in per risicocategorie
-toelichting: Richt algoritmegovernance in zodat per risicocategorie de juiste processtappen moeten worden doorlopen
+title: Richt algoritmegovernance op basis van de risicocategorieën van algoritmes. 
+toelichting: Stem algoritmegoverance af op basis van de betreffende risicocategorieën van een algoritme. 
 levenscyclus:
 - organisatieverantwoordelijkheden
 onderwerp:
@@ -13,25 +13,26 @@ rollen:
 
 ## Maatregel
 
-Richt algoritmegovernance in zodat per risicocategorie de juiste processtappen moeten worden doorlopen
+Richt algoritmegovernance op basis van de risicocategorieën van algoritmes. 
 
 ## Toelichting
+- Er is een verschil in de vereisten die van toepassing zijn op type algoritmes. Dit is mede afhankelijk van de risioclassificatie en de impact van het algoritme op betrokkenen.
+- Zo zullen op basis van de AI-verordening meer vereisten moeten worden nageleefd bij hoog-risico AI-systemen, dan voor een AI-systeem met een beperkt risico. 
+- Dit betekent dat algoritmegovernance uitgebreider moet zijn voor de risicovollere, complexere toepassingen dan voor de eenvoudige, niet-risicovolle toepassingen.
 
-- Er is verschil in de vereisten en maatregelen die nodig zijn afhankelijk van het type algoritme, de bijbehorende risico's en impact ervan op burgers. 
-- Zo vraagt bijvoorbeeld de AI-verordening om meer vereisten bij hoog-risico AI-systemen zijn. 
-- Een meer uitgebreide governance is daar nodig, in de zin dat er meer handelingen en verslagleggingen nodig zijn.
-- Een ander voorbeeld is dat voor generatieve AI (AI voor algemene doeleinden in de AI-verordening) er andere of aanvullende vereisten zijn.
-- Afgeleid van de term "minimum viable product" wordt de processen van compliance doen aansluiten op wat nodig is ook wel "minimum viable compliance" genoemd.
-
-## Aandachts- en actiepunten
-* Stel tijdig vast om welk type algoritme het gaat en welke vereisten hiervoor gelden. Dat draagt eraan bij dan alleen wordt gefocust op het realiseren van de vereisten waar daadwerkelijk aan moet worden voldaan. 
-* Let wel op dat je niet enkel kijkt naar AI-verordening. Op impactvolle algoritmes die niet vallen onder het bereik van de AI-Verordening maar wel impactvol zijn op burgers, zijn ook vereisten van toepassing.  
+- Stel daarom tijdig vast om welk type algoritme het gaat en welke vereisten hiervoor gelden. Dat draagt eraan bij dan alleen wordt gefocust op het realiseren van de vereisten waar daadwerkelijk aan moet worden voldaan. Dit zorgt ervoor dat projecten sneller kunnen worden gerealiseerd.
+- Let op dat niet enkel naar de AI-verordening wordt gekeken. Ook op impactvolle algoritmes die niet vallen onder het bereik van de AI-Verordening zijn ook vereisten van toepassing, en moet algoritmegovernance op worden toegepast.
+- Is algoritmegovernance nieuw bij jouw organisatie, dan kan het helpen om een use-case met beperkt risico grondig te doorlopen om hiervan te leren.
 
 ## Bronnen
 
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
+<!-- list_vereisten_on_maatregelen_page -->
+
+## Bijbehorende vereiste(n)
+
 <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico 
@@ -44,18 +45,15 @@ Deze risicoclassificatie volgt de AI-Verordening. Voor laag-risico toepassingen 
 
 ![Afbeelding](../afbeeldingen/rotterdam_risico_classificatie_governance.png)
 
-Er is daarnaast ook het principe gehanteerd dat naast hoog-risico volgens de AI-verordening, bij ieder algoritme aan de hand van een drietal vragen moet worden besloten of een uitgebreidere  algoritmegovernance nodig is.
+In dit voorbeeld is ook het principe gehanteerd dat naast hoog-risico volgens de AI-verordening, bij ieder algoritme aan de hand van een drietal vragen moet worden besloten of een uitgebreidere algoritmegovernance nodig is.
 * Is de werking van het algoritme niet volledig én beknopt uit te leggen aan een gemiddelde Rotterdammer?
 * Ontbreekt er een menselijke beoordeling voordat de uitkomst van het algoritme in de praktijk wordt gebracht door middel van een concrete handeling van de gemeente?
 * Is het voorstelbaar dat de algoritmetoepassing uitmondt in een onrechtvaardige handeling van de gemeente tegen burgers of bedrijven
 
 Kijk zelf goed wat passend is voor jouw organisatie. 
 
-#### Iteratief te werk gaan
-* Is algoritmegovernance nieuw bij jouw organisatie, dan kan het helpen om een use case met beperkt risico grondig te doorlopen om hiervan te leren.
-
 Voorbeeld BD (Analytische en Cognitieve Technologie | CoE Cognitieve Oplossingen):
-* Richt als eerste een basis (b.v. voor low risk) de AI-governance in op operationeel niveau, implementeer deze basis en stel gaandeweg/ondertussen op basis van o.a. best practices de requirements op naar de "wereld" er om heen (tactisch en strategisch niveau). 
+* Richt als eerste een basis (b.v. voor low risk) algoritmegovernance in op operationeel niveau, implementeer deze basis en stel gaandeweg/ondertussen op basis van o.a. best practices de requirements op naar de "wereld" er om heen (tactisch en strategisch niveau). 
 
 ## Bijbehorende vereiste(n)
 

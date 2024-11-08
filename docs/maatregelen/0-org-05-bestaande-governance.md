@@ -21,12 +21,8 @@ rollen:
 
 Onderzoek binnen de organisatie welke governancestructuren er al zijn en hoe algortimegovernance daarop kan inhaken. 
 
-
 ## Toelichting
-
-
 Bij de vormgeving van een algoritmegovernance van een organisatie is het van belang om aansluiting en samenwerking te bewerkstelligen met huidige governancestructuren binnen de organisatie, zoals:
-
 - IT governance
 - [datagovernance](../onderwerpen/data#datagovernance-en-datamanagement)
 - informatiebeveiliging zoals governance rondom de [NIS2 richtlijn](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/nis2-richtlijn/)
@@ -37,19 +33,25 @@ Dit geldt in nog grotere mate voor vraagstukken rondom de inzet van algoritmes, 
 Communicatie en vindbaarheid tussen de verschillende domeinen is hierin essentieel. 
 De eindverantwoordelijkheid voor algoritmes moet eenduidig worden belegd binnen de organisatie.
 
+De volgende zaken kunnen relevant zijn om te verkennen om inzichten te krijgen waarmee aansluiting kan worden gezocht bij bestaande governancestructuren.
+- Welke lessen zijn geleerd met de implementatie van de AVG of de toepassing van de BIO?
+- Is er iemand intern verantwoordelijk gemaakt voor (toezicht op) algoritmes?
+- Hoe werken experts vanuit verschillende onderwerpen zoals privacy, informatiebeheer, informatiebeveiliging en data op dit moment samen als het gaat om de inzet van algoritmes?
+- Het [opstellen van RACI-model](2-owp-01-rollen-en-verantwoordelijkheden.md) helpt bij het in kaart brengen van de samenhang tussen verschillende governancestructuren.
 
-### Aandachts- en actiepunten
-* Welke lessen zijn geleerd met de implementatie van de AVG of de toepassing van de BIO?
-* Is er iemand intern verantwoordelijk gemaakt voor (toezicht op) algoritmes?
-* Hoe werken experts vanuit verschillende onderwerpen zoals privacy, informatiebeveiliging en data op dit moment samen als het gaat om de inzet van algoritmes? 
-* Het [opstellen van RACI-model](2-owp-01-rollen-en-verantwoordelijkheden.md) helpt bij het in kaart brengen van de samenhang tussen verschillende governancestructuren.
-* Hoe zorgt een organisatie ervoor dat met enige snelheid innovatieve oplossingen kunnen worden ontwikkeld en gebruikt,  en dat tegelijkertijd aan voldoende (basis) vereisten wordt voldaan voor verantwoorde inzet van algoritmes.  
-* Een orgaan als een ethische adviescommissie kan waardevolle (zwaarwegende) adviezen geven in hoeverre de werking van een algoritme wenselijk of passend is. Daarbij helpt het als deze adviezen concrete aanbevelingen bevatten, zodat ontwikkelteams van algoritmes indien nodig de werking van het algoritme kunnen wijzigen.  
+## Bronnen
 
+## Bijbehorende vereiste(n)
+<!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
+
+<!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
+<!-- list_vereisten_on_maatregelen_page -->
+
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
 
 ## Voorbeelden
 Een concreet voorbeeld van samen optrekken is [deze handreiking](https://www.cip-overheid.nl/media/av0dmahv/20230614-gezamenlijk-gebruik-iama-en-model-dpia-rijksdienst-v1-0.pdf) om de IAMA en DPIA gezamelijk uit te voeren.
-
 
 !!! example "Voorbeeld: Ervaringen Kadaster" 
 

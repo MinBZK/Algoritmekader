@@ -22,7 +22,7 @@ Dit gaat niet alleen over direct opbrengsten maar ook over lange termijn en indi
  
 Om te zorgen voor politiek-bestuurlijke betrokkenheid kan het helpen om een meerjarige visie en/of strategie rondom verantwoorde inzet te formulueren. 
 
-* Op politiek-bestuurlijk niveau bewustzijn en een weloverwogen visie is belangrijk om verantwoorde algoritmes in te kunnen zetten. Veel pilots en initiatieven lopen hierop stuk door hierop vooruit te lopen.
+* Een weloverwogen visie op politiek-bestuurlijk niveau is belangrijk om verantwoorde algoritmes in te kunnen zetten. Dit ondersteunt teams bij het maken van de juiste overwegingen bij de ontwikkeling en gebruik van algoritmes. 
 * Een meerjarenbeleidsplan of een strategie- of visedocument kan richting geven in helpen met latere afwegingen maken.
     * Eerst een AI-casus doorlopen als proef en een IAMA uitwerken kan waardevolle input hierbij zijn.
  

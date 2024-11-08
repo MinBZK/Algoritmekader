@@ -1,7 +1,7 @@
 ---
 title: Sluit algoritmegovernance aan op bestaande governance
 id: urn:nl:ak:mtr:org:05
-toelichting: Onderzoek binnen de organisatie welke governancestructuren er al zijn en hoe algoritmegovernance daarop kan inhaken. Communicatie en samenwerking tussen organisatieonderdelen is doorlopend van groot belang.
+toelichting: Onderzoek binnen de organisatie welke governancestructuren er al zijn en hoe algoritmegovernance daarop kan aansluiten. Communicatie en samenwerking tussen organisatieonderdelen is doorlopend van groot belang.
 
 levenscyclus:
 - organisatieverantwoordelijkheden
@@ -19,7 +19,7 @@ rollen:
 
 ## Maatregel
 
-Onderzoek binnen de organisatie welke governancestructuren er al zijn en hoe algortimegovernance daarop kan inhaken. Communicatie en samenwerking tussen organisatieonderdelen is doorlopend van groot belang.
+Onderzoek binnen de organisatie welke governancestructuren er al zijn en hoe algortimegovernance daarop kan inhaken. 
 
 
 ## Toelichting
@@ -39,11 +39,11 @@ De eindverantwoordelijkheid voor algoritmes moet eenduidig worden belegd binnen 
 
 
 ### Aandachts- en actiepunten
-* Welke lessen zijn geleerd met de implementatie van de AVG?
+* Welke lessen zijn geleerd met de implementatie van de AVG of de toepassing van de BIO?
 * Is er iemand intern verantwoordelijk gemaakt voor (toezicht op) algoritmes?
-* Hoe communiceren experts vanuit verschillende onderwerpen zoals privacy, informatiebeveiliging en data, die het onderwerp algoritme raken, op dit moment?
+* Hoe werken experts vanuit verschillende onderwerpen zoals privacy, informatiebeveiliging en data op dit moment samen als het gaat om de inzet van algoritmes? 
 * Het [opstellen van RACI-model](2-owp-01-rollen-en-verantwoordelijkheden.md) helpt bij het in kaart brengen van de samenhang tussen verschillende governancestructuren.
-* Hoe worden afwegingen gemaakt in de organisatie tussen innovatie en compliance?
+* Hoe zorgt een organisatie ervoor dat met enige snelheid innovatieve oplossingen kunnen worden ontwikkeld en gebruikt,  en dat tegelijkertijd aan voldoende (basis) vereisten wordt voldaan voor verantwoorde inzet van algoritmes.  
 * Een orgaan als een ethische adviescommissie kan waardevolle (zwaarwegende) adviezen geven in hoeverre de werking van een algoritme wenselijk of passend is. Daarbij helpt het als deze adviezen concrete aanbevelingen bevatten, zodat ontwikkelteams van algoritmes indien nodig de werking van het algoritme kunnen wijzigen.  
 
 

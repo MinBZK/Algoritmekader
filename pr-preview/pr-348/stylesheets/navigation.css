@@ -138,3 +138,44 @@ h1{
 .md-nav__title{
   color: #154273;
 }
+
+.md-nav--primary .md-nav__title[for=__drawer] {
+  background-color: #FFF;
+  color: #FFF;
+  font-weight: 700;
+}
+
+@media screen and (max-width: 59.9844em) {
+  .md-nav__source {
+      background-color: #FFF;
+  }
+}
+
+.md-source__repository md-source__repository--active{
+  color: #154273;
+}
+
+@media screen and (max-width: 76.2344em) {
+  .md-nav--primary .md-nav__item--active>.md-nav__link {
+      color: #154273;
+  }
+}
+
+@media screen and (max-width: 76.2344em) {
+  .md-nav--primary .md-nav__title {
+      background-color: #fff;
+      color: #154273;
+      cursor: pointer;
+      height: 5.6rem;
+      line-height: 2.4rem;
+      padding: 3rem .8rem .2rem;
+      position: relative;
+      white-space: nowrap;
+  }
+}
+
+.md-main__inner {
+  display: flex;
+  height: 100%;
+  margin-top: 0;
+}

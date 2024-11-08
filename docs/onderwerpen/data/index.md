@@ -1,23 +1,56 @@
 ---
-title: Data
-summary: Hier staat een korte samenvatting over dit onderwerp
+title: Verantwoord datagebruik
+summary: 
 icon: material/database
 ---
+# Verantwoord datagebruik
+Overheden moeten verantwoord omgaan met de data die hun algoritmes gebruiken. De data moet voldoen aan regels voor bijvoorbeeld privacy. De kwaliteit van de data moet goed zijn. En overheden moeten deze gegevens goed beheren. Anders is het algoritme niet betrouwbaar.  
 
-![data](../../afbeeldingen/bouwblokken/data.jpg "visuele weergave data"){align="right"; width="50%"}
+## Wat is verantwoord datagebruik?
+Verantwoord datagebruik betekent:
 
-Het ontwikkelen en gebruiken van algoritmes en AI-systemen kan niet gepaard gaan zonder het verwerken van data. 
-In het geval van AI wordt data gebruikt om het algoritme te trainen, te valideren en te testen. 
+* Rechtmatig gebruik van gegevens 
+* Goede datakwaliteit
+* Goed databeheer
 
-Wanneer beslissingen worden genomen op basis van de output van een algoritme of AI-systeem, dan wordt dit ook gedaan op basis van de onderliggende data. 
-Om algoritmes en AI-systemen op een verantwoorde manier toe te passen, dient dus ook de data op een verantwoorde en rechtmatige manier te worden gebruikt. 
+### Rechtmatig gebruik van data
+Net als organisaties mogen algoritmes niet zomaar gegevens verzamelen en gebruiken. Dit moet rechtmatig gebeuren: volgens de wettelijke regels. Zo moet je rekening houden met auteursrechten. Ook vóórdat het algoritme in gebruik is, moet je rechtmatig omgaan met data. Dus tijdens het trainen, valideren en testen.
 
-In dit bouwblok werken we uit welke vereisten er zijn voor verantwoord datagebruik, en geven we praktische maatregelen hoe dit ingevuld kan worden binnen overheidsorganisaties. 
-We zoeken hierbij de aansluiting op bestaande instrumenten, zoals de [Toolbox verantwoord datagebruik](https://realisatieibds.nl/page/view/628d59dd-0755-4c20-8217-d3f26d9d8a5c/toolbox-voor-verantwoord-datagebruik).  
+Andere belangrijke regels gaan over privacy. Zo mag je algoritme alleen de minimale gegevens gebruiken die nodig zijn om het doel te bereiken. Technieken om dit te doen zijn:
 
-!!! info "Opmerking"
+* Anonimiseren: data zoveel mogelijk anoniem maken
+* [Pseudonimiseren](https://www.autoriteitpersoonsgegevens.nl/themas/beveiliging/beveiliging-van-persoonsgegevens/gegevens-pseudonimiseren): data moeilijker herleidbaar maken naar personen
+* Aggregeren: data zoveel mogelijk combineren of samenvoegen tot 1 waarde, zoals een totaal of gemiddelde 
 
-    Dit bouwblok moet nog ontwikkeld worden. Deze pagina is dus nog niet volledig. Op deze pagina vind je mogelijk wel al onderdelen waar we aandacht aan willen besteden in dit bouwblok. 
+### Goede datakwaliteit
+Hoe slechter de datakwaliteit, hoe onbetrouwbaarder de uitkomsten van je algoritme. 
+
+Je bepaalt en controleert zelf [of je dataset van voldoende kwaliteit is](/Algoritmekader/maatregelen/datakwaliteit/index.html). Check bijvoorbeeld of alle gegevens juist, compleet en actueel zijn. En [herken bias in je data](/onderwerpen/bias-en-non-discriminatie/).
+
+### Goed databeheer: datagovernance en datamanagement
+Goed databeheer betekent dat je organisatie duidelijke afspraken maakt over het:
+
+* opslaan en verwerken van data 
+* gebruik van data: welke data mag je waarvoor gebruiken? 
+* beveiligen van data
+* bewaken van de datakwaliteit, zoals het actueel houden van de gegevens
+* eigenaarschap van data, bijvoorbeeld de partij die het algoritme ontwikkelt
+* documenteren en labelen van data (metadata)
+
+Leg de processen en afspraken hierover vast in de [datagovernance](https://realisatieibds.nl/page/view/f51c90d3-c33d-4826-83d2-7381c0b14aba/8-data-governance) van je organisatie. In een datamanagementstrategie beschrijf je hoe je organisatie data verzamelt, ordent en gebruikt. Zo kan je organisatie optimaal gebruikmaken van data. 
+
+Hoe goed je organisatie data beheert, check je met [datavolwassenheidsmodellen](https://realisatieibds.nl/page/view/ad94d97c-4d48-443c-aedd-235b2d0ca8b6/wegwijzer-volwassenheidsmodellen) uit de Toolbox verantwoord datagebruik van de Interbestuurlijke Datastrategie (IBDS). Of gebruik de [beslishulp datavolwassenheid](https://realisatieibds.nl/groups/view/c23ab74c-adb4-424e-917d-773a37968efe/kenniscentrum-van-de-ibds/wiki/view/2447d2a8-6c48-468d-9739-00772688853f/beslishulp-datavolwassenheid). 
+
+## Belang van verantwoord datagebruik
+Algoritmes kunnen veel schade veroorzaken in de maatschappij als ze de verkeerde gegevens gebruiken.
+
+Met verantwoord datagebruik voorkom je:
+
+* verkeerde beslissingen doordat je algoritme resultaten baseert op data van slechte kwaliteit
+* discriminerende effecten van algoritmes doordat je data bias bevat
+* lekken van privacygevoelige informatie, zoals persoonsgegevens
+* gebruik van data die niet rechtenvrij zijn, zoals teksten met auteursrechten
+* dat resultaten niet te reproduceren zijn, doordat de data niet goed is opgeslagen
 
 ## Vereisten
 
@@ -27,5 +60,7 @@ We zoeken hierbij de aansluiting op bestaande instrumenten, zoals de [Toolbox ve
 
 <!-- list_maatregelen onderwerp/data no-search no-onderwerp no-rol no-levenscyclus -->
 
-## Nuttige informatie
-- FAIR data: [GO FAIR Foundation](https://www.gofair.foundation/).
+## Hulpmiddelen
+
+* [Toolbox verantwoord datagebruik](https://realisatieibds.nl/page/view/628d59dd-0755-4c20-8217-d3f26d9d8a5c/toolbox-voor-verantwoord-datagebruik), Interbestuurlijke Datastrategie (IBDS)
+* [Richtlijnen voor ‘FAIR’ data](https://www.gofair.foundation/) GO FAIR Foundation

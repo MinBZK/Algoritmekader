@@ -22,28 +22,15 @@ rollen:
 Bepaal wie wanneer betrokken moet zijn in de algoritmelevenscyclus en maak gebruik van beslismomenten in de levenscyclus van een algoritme.
 
 ## Toelichting
-Om algoritmes op een verantwoorde manier te gebruiken, zul je op de juiste momenten aandacht moeten hebben voor de juiste onderwerpen en risico's. Dit zich steeds herhalende proces van ontwerpen, ontwikkelen en in gebruik nemen noemen we de [levenscyclus](../levenscyclus/index.md). 
-Voor effectieve governance van algoritmes is het essentieel om bij de ontwikkeling en gebruik hiervan heldere afspraken te hebben over de interactie en informatie-uitwisseling die vereist is om aan de verantwoording te voldoen.
-- Leg vast wie er wanneer betrokken moet worden in de algoritmelevenscyclus. Leg deze rollen en verantwoordelijkheden per fase vast. In het Algoritmekader zijn de maatregelen hoogover gekoppeld aan verschillende rollen. Dat geeft houvast om te kunnen bepalen welke rollen binnen de eigen organisatie moeten ingezet.
-- Maak gebruik van '*gates*': momenten waarop er een besluit wordt genomen (go/no-go) om door te gaan naar de volgende fase
+- Om algoritmes op een verantwoorde manier te gebruiken, zul je op de juiste momenten aandacht moeten hebben voor de juiste onderwerpen en risico's. Dit zich steeds herhalende proces van ontwerpen, ontwikkelen en in gebruik nemen noemen we de [levenscyclus](../levenscyclus/index.md). 
+- Voor effectieve governance van algoritmes is het essentieel om bij de ontwikkeling en gebruik hiervan heldere afspraken te hebben over de interactie en informatie-uitwisseling die vereist is om aan de verantwoording te voldoen.
+- Per fase in de levenscyclus kan het zijn dat andere expertise moet worden betrokken. Leg vast wie er wanneer betrokken moet worden in de algoritmelevenscyclus.
+- In het Algoritmekader zijn de maatregelen hoogover gekoppeld aan verschillende rollen. Dat geeft houvast om te kunnen bepalen welke rollen binnen de eigen organisatie moeten ingezet.
 
-
-
-Per fase in de levenscyclus kan het zijn dat andere expertise moet worden ingezet. 
-
-Veel organisaties hebben al een levenscyclus voor de ontwikkeling of gebruik van algoritmes, voortbouwend op IT-ontwikkeling. 
-Let op dat er vaak kleine verschillen zitten in de stappen van een levenscyclusmodel.
-Algoritmegovernance kan op de levenscyclus aansluiten door 'gates' of controlepunten in te voeren tussen de verschillende stappen in de levenscyclus waar bepaalde processen worden uitgevoerd door verantwoordelijken, zoals het aanleveren van documenten, het uitvoeren van controles en het maken van afwegingen. 
-
-Het is belangrijk om te weten dat toepassing van deze ‘gates’ niet altijd hetzelfde is. Dit kan verschillen per project. 
-Een hoog-risico-AI-systeem heeft bijvoorbeeld andere regels nodig dan minder impactvolle algoritmes. 
-Ook vraagt het kopen van een kant-en-klaar AI-systeem of SaaS-oplossing om andere procedures dan het kopen van software die nog verder ontwikkeld moet worden.
+- Algoritmegovernance kan op de levenscyclus aansluiten door 'gates' of controlepunten in te voeren. Deze gates bevatten belangrijke mijlpalen om te beoordelen of de juiste taken zijn uitgevoerd, of ethische afwegingen zijn geamaakt, of documentatie heeft plaatsgevonden en of akkoord is ingewonnen (go/no-go moment) bij de verantwoordelijke(n) om naar de volgende fase te mogen. 
+- Het is belangrijk om te weten dat toepassing van deze ‘gates’ niet altijd hetzelfde is. Dit kan verschillen afhankelijk van het type algoritme. 
+- Een hoog-risico-AI-systeem moet aan meer vereisten voldoen dan een niet impactvol algoritme. Een hoog-risico AI-systeem moet daarom binnen de gates worden getoetst op meer onderdelen dan een niet impactvol algoritme.
  
-## Aandachts- en actiepunten
-* Introduceer ‘gates’ tussen fases in de levenscyclus voor een algoritme. Voordat een volgende stap in de cyclus kan worden gezet, moeten handelingen worden uitgevoerd door verantwoordelijken zoals: documenten aanleveren, (ethische) afwegingen vaststellen, rapportages en het inwinnen van een akkoord van de (eind)verantwoordelijken.
-* De levenscyclus bij inkoop is waarschijnlijk anders, maar heeft ook 'gates' en procedures nodig.
-* Er bestaan veel varianten van AI-levenscycli. Kijk goed wat past bij de (bestaande) processen van jouw organisatie. 
-
 ## Voorbeelden
 
 Hieronder volgen twee voorbeelden van hoe governance effectief kan worden geïntegreerd in de levenscyclus van algoritmen en AI-modellen:
@@ -77,8 +64,6 @@ Hieronder volgen twee voorbeelden van hoe governance effectief kan worden geïnt
 
     ![image](https://github.com/user-attachments/assets/53f70d22-c188-44f1-9f04-a16cef21482a)
 
-
- 
 ## Bronnen
 
 - Hulpmiddel handelingsruimte waardevolle AI in de zorg ([presentatie](https://nlaic.com/wp-content/uploads/2022/06/04a.-Hulpmiddel-Handelingsruimte-Waardevolle-AI-voor-gezondheid-en-zorg.pdf))([samenvatting](https://nlaic.com/wp-content/uploads/2022/08/NLAIC_AI-Lifecycle-management-in-de-zorg-samenvatting_V1.2.pdf)) is beschikbaar via de [NL AI Coalitie](https://nlaic.com/toepassingsgebied/gezondheid-en-zorg/) en [Data voor gezondheid](https://www.datavoorgezondheid.nl/wegwijzer-ai-in-de-zorg/documenten/publicaties/2021/07/15/hulpmiddel-handelingsruimte-waardevolle-ai-voor-gezondheid)

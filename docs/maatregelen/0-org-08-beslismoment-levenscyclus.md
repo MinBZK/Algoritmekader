@@ -1,7 +1,7 @@
 ---
-title: Bepaal rollen en verantwoordelijkheden en maak gebruik van beslismomenten in de algoritmelevenscyclus
+title: Maak gebruik van beslismomenten  in de algoritmelevenscyclus
 id: urn:nl:ak:mtr:org:08
-toelichting: Bepaal wie wanneer betrokken moet zijn in de algoritmelevenscyclus en maak gebruik van beslismomenten in de levenscyclus van een algoritme.
+toelichting: Maak gebruik van beslismomenten in de levenscyclus van een algoritme.
 
 levenscyclus:
 - organisatieverantwoordelijkheden
@@ -19,16 +19,11 @@ rollen:
 
 ## Maatregel
 
-Bepaal wie wanneer betrokken moet zijn in de algoritmelevenscyclus en maak gebruik van beslismomenten in de levenscyclus van een algoritme.
+Maak gebruik van beslismomenten in de levenscyclus van een algoritme.
 
 ## Toelichting
-- Om algoritmes op een verantwoorde manier te gebruiken, zul je op de juiste momenten aandacht moeten besteden aan het voldoen aan bepaalde vereisten en het mitigeren van risico's. Dit zich steeds herhalende proces van ontwerpen, ontwikkelen en in gebruik nemen noemen we de [levenscyclus](../levenscyclus/index.md). 
-- Voor effectieve governance van algoritmes is het essentieel om bij de ontwikkeling en gebruik hiervan heldere afspraken te hebben over de interactie en informatie-uitwisseling die vereist is om aan de verantwoording te voldoen.
-- Per fase in de levenscyclus kan het zijn dat andere expertise moet worden betrokken. Leg vast wie er wanneer betrokken moet worden in de algoritmelevenscyclus.
-- In het Algoritmekader zijn de maatregelen hoogover gekoppeld aan verschillende rollen. Dat geeft houvast om te kunnen bepalen welke rollen binnen de eigen organisatie moeten ingezet.
-
 - Algoritmegovernance kan op de levenscyclus aansluiten door 'gates' of controlepunten in te voeren. Deze gates bevatten belangrijke mijlpalen om te beoordelen of de juiste taken zijn uitgevoerd, of ethische afwegingen zijn geamaakt, of documentatie heeft plaatsgevonden en of akkoord is ingewonnen (go/no-go moment) bij de verantwoordelijke(n) om naar de volgende fase te mogen. 
-- Het is belangrijk om te weten dat toepassing van deze ‘gates’ niet altijd hetzelfde is. Dit kan verschillen afhankelijk van het type algoritme. 
+- Het is belangrijk om te weten dat toepassing van deze ‘gates’ niet altijd hetzelfde is. Dit kan namelijk verschillen afhankelijk van het type algoritme. 
 - Een hoog-risico-AI-systeem moet aan meer vereisten voldoen dan een niet impactvol algoritme. Een hoog-risico AI-systeem moet daarom binnen de gates worden getoetst op meer onderdelen dan een niet impactvol algoritme.
 
 ## Bronnen

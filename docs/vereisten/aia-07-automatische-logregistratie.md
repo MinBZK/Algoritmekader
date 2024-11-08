@@ -11,7 +11,6 @@ onderwerp:
 soort-toepassing:
 - ai-systeem
 - ai-systeem-voor-algemene-doeleinden
-- ai-model-voor-algemene-doeleinden
 risicogroep:
 - hoog-risico-ai-systeem
 rol-ai-act:

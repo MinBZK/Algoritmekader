@@ -19,7 +19,7 @@ onderwerp:
 # geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn
 rollen:
  - projectleider
- - beleid en advies
+ - beleid-en-advies
 
 hide:
 - navigation

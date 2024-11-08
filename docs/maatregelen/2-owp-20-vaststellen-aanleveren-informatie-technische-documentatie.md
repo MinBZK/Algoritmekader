@@ -16,7 +16,7 @@ onderwerp:
 # vul hier de rollen in die betrokken zijn bij deze maatregel
 rollen:
 - projectleider
-- beleid en advies
+- beleid-en-advies
 - ontwikkelaar
 
 hide:

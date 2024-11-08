@@ -12,13 +12,12 @@ levenscyclus:
 - ontwerp
 - implementatie
 # vul hier de bouwblokken in die horen bij deze maatregel
+onderwerp:
 - publieke-inkoop
 # vul hier de rollen in die betrokken zijn bij deze maatregel
-- proceseigenaar
-- behoeftesteller
-- inkoopadviseur
-- contractbeheerder
-- aanbestedingsjurist
+rollen:
+- jurist
+- beleid-en-advies
   
 hide:
 - navigation

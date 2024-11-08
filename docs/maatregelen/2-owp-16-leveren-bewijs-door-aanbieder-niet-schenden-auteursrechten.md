@@ -18,7 +18,7 @@ hide:
   
 # geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn
 - projectleider
-- beleid en advies 
+- beleid-en-advies 
 
 hide:
 - navigation

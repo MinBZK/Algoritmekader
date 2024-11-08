@@ -25,7 +25,7 @@ Andere belangrijke regels gaan over privacy. Zo mag je algoritme alleen de minim
 ### Goede datakwaliteit
 Hoe slechter de datakwaliteit, hoe onbetrouwbaarder de uitkomsten van je algoritme. 
 
-Je bepaalt en controleert zelf [of je dataset van voldoende kwaliteit is](../../maatregelen/datakwaliteit.md). Check bijvoorbeeld of alle gegevens juist, compleet en actueel zijn. En [herken bias in je data](../../onderwerpen/bias-en-non-discriminatie.md).
+Je bepaalt en controleert zelf de [kwaliteit van je dataset](../../maatregelen/datakwaliteit.md). Check bijvoorbeeld of alle gegevens juist, compleet en actueel zijn. En herken [bias in je data](../../onderwerpen/bias-en-non-discriminatie.md).
 
 ### Goed databeheer: datagovernance en datamanagement
 Goed databeheer betekent dat je organisatie duidelijke afspraken maakt over het:
@@ -63,4 +63,4 @@ Met verantwoord datagebruik voorkom je:
 ## Hulpmiddelen
 
 * [Toolbox verantwoord datagebruik](https://realisatieibds.nl/page/view/628d59dd-0755-4c20-8217-d3f26d9d8a5c/toolbox-voor-verantwoord-datagebruik), Interbestuurlijke Datastrategie (IBDS)
-* [Richtlijnen voor ‘FAIR’ data](https://www.gofair.foundation/) GO FAIR Foundation
+* [Richtlijnen voor ‘FAIR’ data](https://www.gofair.foundation/), GO FAIR Foundation

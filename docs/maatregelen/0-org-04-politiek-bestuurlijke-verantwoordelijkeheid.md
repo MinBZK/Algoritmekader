@@ -23,7 +23,19 @@ Zorg voor politiek-bestuurlijk bewustzijn, betrokkenheid, en verantwoordelijkhei
 - Om te zorgen voor politiek-bestuurlijke betrokkenheid kan het helpen om een meerjarige visie en/of strategie rondom verantwoorde inzet te formulueren. 
 - Dit ondersteunt teams bij het maken van de juiste overwegingen bij de ontwikkeling en gebruik van algoritmes en geeft inzicht wanneer de politiek of bestuurlijk verantwoordelijke(n) moeten worden betrokken bij het project om beslissingen te nemen.
 - Het doorlopen van een concrete casus voor de ontwikkeling en gebruik van een algoritme, inclusief het uitvoeren van een IAMA, kan waardevolle informatiegeven om een meerjarige visie of strategie op te stellen. 
- 
+
+## Bronnen
+[Kleur bekennen - vervolgonderzoek algoritmes](https://rekenkamer.rotterdam.nl/onderzoeken/kleur-bekennen/)
+
+## Bijbehorende vereiste(n)
+<!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
+
+<!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
+<!-- list_vereisten_on_maatregelen_page -->
+
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+
 ## Voorbeelden
 !!! example "Voorbeeld gemeente Rotterdam"
 
@@ -40,5 +52,4 @@ Zorg voor politiek-bestuurlijk bewustzijn, betrokkenheid, en verantwoordelijkhei
 
     Deze stappen volgen kan helpen bij het inrichten van een algoritmegovernance.
 
-## Bronnen
-[Kleur bekennen - vervolgonderzoek algoritmes](https://rekenkamer.rotterdam.nl/onderzoeken/kleur-bekennen/)
+Heb je een voorbeeld of best practice, laat het ons weten via algoritmes@minbzk.nl

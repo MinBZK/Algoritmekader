@@ -1,37 +1,38 @@
 ---
-title: Inrichten rollen en verantwoordelijkheden algoritmegovernance
-toelichting: Inrichten rollen en verantwoordelijkheden in binnen de algoritmegovernance
+title: Taken en verantwoordelijkheden zijn toebedeeld in de algoritmegovernance
+toelichting: Taken en verantwoordelijkheden zijn toebedeeld in de algoritmegovernance
 levenscyclus:
 - organisatieverantwoordelijkheden
 rollen:
 - projectleider
-# - beleid-en-advies
+- beleid-en-advies
 ---
 <!-- tags -->
 
 ## Maatregel
 
-Inrichten rollen en verantwoordelijkheden algoritmegovernance.
+Taken en verantwoordelijkheden zijn toebedeeld in de algoritmegovernance
 
 ## Toelichting
-
-Bij het vormgeven van een doeltreffende algoritmegovernance is het beleggen van expliciete rollen en verantwoordelijkheden cruciaal.
-Het beleggen van deze rollen zorgt voor een actiegerichte structuur waarin duidelijkheid bestaat over wie wanneer aan zet is. 
-Het is van belang dat er een goede informatie uitwisseling en besluitvorming is tussen deze rollen. 
-
-Denk aan aan RACI-matrix om rollen en verantwoordelijkheden vast te leggen.
-Rollen en verantwoordelijkheden kunnen worden gekoppeld aan de vereisten die moeten worden gerealiseerd in de verschillende fasen van de levenscyclus van een algoritme. 
-Zie hieronder een mogelijk voorbeeld van hoe dit eruit kan zien. 
-
+- Bij het vormgeven van een doeltreffende algoritmegovernance is het beleggen van expliciete taken en verantwoordelijkheden cruciaal.
+- Het beleggen van deze taken en verantwoordelijkheden zorgt voor een actiegerichte structuur waarin duidelijkheid bestaat over wie wanneer aan zet is.
+- Denk hierbij aan het opstellen van een RACI-matrix en pas dit binnen de organisatie toe per risicoclassificatie voor algoritmes. 
+- Rollen en verantwoordelijkheden kunnen worden gekoppeld aan de vereisten en maatregelen die moeten worden gerealiseerd in de verschillende fasen van de levenscyclus van een algoritme.
+- Organisaties zullen zelf moeten beoordelen welke taken en verantwoordelijkheden ze willen koppelen aan de beschikbare (of nieuwe) rollen binnen hun organisaties.  
+- Zie hieronder een mogelijk voorbeeld van hoe dit eruit kan zien. 
 ![Format](https://github.com/user-attachments/assets/3debe7b6-0c42-40f5-a366-9cc5cc90cd3e)
 
+## Bronnen
 
-## Aandachts- en actiepunten
-- RACI matrix Rotterdam geeft interessante inzichten. Organisaties hoeven vaak niet geheel opnieuw te beginnen om een RACI matrix in te kunnen vullen.
-- Onderzoek welke taken verantwoordlijkheden specifiek voor het ontwikkelen gebruiken van algoritmes aanvullend zijn. 
-- Kijk of deze verantwoordelijkheden onderdeel kunnen worden gemaakt van al bestaande rollen of dat er een nieuw rol voor moet worden gecreëerd.
-- Organisaties zullen moeten beoordelen hoe zijn dit willen inrichten.  
-  
+## Bijbehorende vereiste(n)
+<!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
+
+<!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
+<!-- list_vereisten_on_maatregelen_page -->
+
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+
 ## Voorbeelden
 
 
@@ -48,6 +49,6 @@ Zie hieronder een mogelijk voorbeeld van hoe dit eruit kan zien.
 
 !!! example "Niet alles town down vast te leggen - CoE Belastingdienst"
 
-    Het gelijk te hard vastleggen van functies en bijbehorende verantwoordelijkheden kan nadelen hebben. Een team bij de belastingdienst (Analytische en Cognitieve Technologie | CoE Cognitieve Oplossingen) heeft ervaren dat het definieren van _werkpakketten_ in plaats van uitwerkte functies beter werkt. Alles dient belegd te zijn, maar alles op microniveau vastleggen is vaak niet te doen zonder in de praktijk te staan, en kan avenrechts werken. Wees als algoritmegovernance nog nieuw is zeker in het begin bewust dat inrichting altijd beter kan; ga grondig maar ook flexibel te werk.
+Het gelijk te regide vastleggen van functies en bijbehorende taken en verantwoordelijkheden kan nadelen hebben. Een team bij de belastingdienst (Analytische en Cognitieve Technologie | CoE Cognitieve Oplossingen) heeft ervaren dat het definieren van _werkpakketten_ in plaats van uitwerkte functies beter werkt. Alles dient belegd te zijn, maar alles op microniveau vastleggen is vaak niet te doen zonder in de praktijk te staan, en kan avenrechts werken. Wees als algoritmegovernance nog nieuw is zeker in het begin bewust dat inrichting altijd beter kan; ga grondig maar ook flexibel te werk.
 
 

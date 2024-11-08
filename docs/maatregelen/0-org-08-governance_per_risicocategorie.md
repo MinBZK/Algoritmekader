@@ -1,6 +1,6 @@
 ---
-title: Richt algoritmegovernance op basis van de risicocategorieën van algoritmes. 
-toelichting: Stem algoritmegoverance af op basis van de betreffende risicocategorieën van een algoritme. 
+title: Richt algoritmegovernance op basis van de risicoclassificatie van algoritmes. 
+toelichting: Stem algoritmegoverance af op basis van de betreffende risicoclassifcatie van een algoritme. 
 levenscyclus:
 - organisatieverantwoordelijkheden
 onderwerp:
@@ -13,7 +13,7 @@ rollen:
 
 ## Maatregel
 
-Richt algoritmegovernance op basis van de risicocategorieën van algoritmes. 
+ Richt algoritmegovernance op basis van de risicoclassificatie van algoritmes.
 
 ## Toelichting
 - Er is een verschil in de vereisten die van toepassing zijn op type algoritmes. Dit is mede afhankelijk van de risioclassificatie en de impact van het algoritme op betrokkenen.
@@ -55,6 +55,3 @@ Kijk zelf goed wat passend is voor jouw organisatie.
 Voorbeeld BD (Analytische en Cognitieve Technologie | CoE Cognitieve Oplossingen):
 * Richt als eerste een basis (b.v. voor low risk) algoritmegovernance in op operationeel niveau, implementeer deze basis en stel gaandeweg/ondertussen op basis van o.a. best practices de requirements op naar de "wereld" er om heen (tactisch en strategisch niveau). 
 
-## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->

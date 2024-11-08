@@ -7,7 +7,7 @@ onderwerp:
 - governance
 rollen:
 - projectleider
-# - beleid-en-advies
+- beleid-en-advies
 
 ---
 
@@ -17,16 +17,25 @@ Richt algoritmegovernance in zodat per risicocategorie de juiste processtappen m
 
 ## Toelichting
 
-Er is verschil in de vereisten en maatregelen die nodig zijn afhankelijk van het type algoritme, de bijbehorende risico's en impact ervan op burgers. 
-Zo vraagt bijvoorbeeld de AI-verordening om meer vereisten bij hoog-risico AI-systemen zijn. 
-Een meer uitgebreide governance is daar nodig, in de zin dat er meer handelingen en verslagleggingen nodig zijn.
-Een ander voorbeeld is dat voor generatieve AI (AI voor algemene doeleinden in de AI-verordening) er andere of aanvullende vereisten zijn.
-
-Afgeleid van de term "minimum viable product" wordt de processen van compliance doen aansluiten op wat nodig is ook wel "minimum viable compliance" genoemd.
+- Er is verschil in de vereisten en maatregelen die nodig zijn afhankelijk van het type algoritme, de bijbehorende risico's en impact ervan op burgers. 
+- Zo vraagt bijvoorbeeld de AI-verordening om meer vereisten bij hoog-risico AI-systemen zijn. 
+- Een meer uitgebreide governance is daar nodig, in de zin dat er meer handelingen en verslagleggingen nodig zijn.
+- Een ander voorbeeld is dat voor generatieve AI (AI voor algemene doeleinden in de AI-verordening) er andere of aanvullende vereisten zijn.
+- Afgeleid van de term "minimum viable product" wordt de processen van compliance doen aansluiten op wat nodig is ook wel "minimum viable compliance" genoemd.
 
 ## Aandachts- en actiepunten
 * Stel tijdig vast om welk type algoritme het gaat en welke vereisten hiervoor gelden. Dat draagt eraan bij dan alleen wordt gefocust op het realiseren van de vereisten waar daadwerkelijk aan moet worden voldaan. 
 * Let wel op dat je niet enkel kijkt naar AI-verordening. Op impactvolle algoritmes die niet vallen onder het bereik van de AI-Verordening maar wel impactvol zijn op burgers, zijn ook vereisten van toepassing.  
+
+## Bronnen
+
+<!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
+
+<!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
+<!-- list_vereisten_on_maatregelen_page -->
+
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
 
 ## Voorbeelden
 

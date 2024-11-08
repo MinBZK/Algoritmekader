@@ -29,7 +29,6 @@ Voor effectieve governance van algoritmes is het essentieel om bij de ontwikkeli
 
 
 
-Voor effectieve governance van algoritmen en AI is het essentieel om bij de ontwikkeling en gebruik hiervan heldere afspraken te hebben over de interactie en informatie-uitwisseling die vereist is om aan de verantwoording te voldoen. 
 Dit moet gebeuren in iedere fase van de levenscyclus, tussen de direct betrokkenen en de stakeholders binnen en buiten de organisatie. 
 Per fase in de levenscyclus zijn dus andere [rollen en verantwoordelijkheden](2-owp-01-rollen-en-verantwoordelijkheden.md) aan zet. 
 

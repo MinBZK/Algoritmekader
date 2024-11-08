@@ -1,12 +1,12 @@
 ---
 # vul hier een titel in voor deze maatregel
 title: Voer voorafgaand aan een aanbesteding een data beschikbaarheid, kwaliteit- en toegankelijkheidsanalayse uit. 
+id: urn:nl:ak:mtr:owp-11
 # geef hier een korte toelichting van deze maatregel
 toelichting: Het is van belang om voorafgaand aan een aanbesteding vast te stellen of de data die noodzakelijk is om een algoritme te ontwikkelen of te kunnen gebruiken beschikbaar is of gaat worden en van voldoende kwaliteit is. 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
 - aia-05-data-kwaliteitscriteria
-
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 
 - ontwerp

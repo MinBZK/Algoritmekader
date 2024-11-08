@@ -49,6 +49,6 @@ Taken en verantwoordelijkheden zijn toebedeeld in de algoritmegovernance
 
 !!! example "Niet alles town down vast te leggen - CoE Belastingdienst"
 
-Het gelijk te regide vastleggen van functies en bijbehorende taken en verantwoordelijkheden kan nadelen hebben. Een team bij de belastingdienst (Analytische en Cognitieve Technologie | CoE Cognitieve Oplossingen) heeft ervaren dat het definieren van _werkpakketten_ in plaats van uitwerkte functies beter werkt. Alles dient belegd te zijn, maar alles op microniveau vastleggen is vaak niet te doen zonder in de praktijk te staan, en kan avenrechts werken. Wees als algoritmegovernance nog nieuw is zeker in het begin bewust dat inrichting altijd beter kan; ga grondig maar ook flexibel te werk.
+Het te regide vastleggen van functies en bijbehorende taken en verantwoordelijkheden kan nadelen hebben. Een team bij de belastingdienst (Analytische en Cognitieve Technologie | CoE Cognitieve Oplossingen) heeft ervaren dat het definieren van _werkpakketten_ in plaats van uitwerkte functies beter werkt. Alles dient belegd te zijn, maar alles op microniveau vastleggen is vaak niet te doen zonder in de praktijk te staan, en kan avenrechts werken. Wees als algoritmegovernance nog nieuw is zeker in het begin bewust dat inrichting altijd beter kan; ga grondig maar ook flexibel te werk.
 
 

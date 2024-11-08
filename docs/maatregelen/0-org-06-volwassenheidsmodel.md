@@ -23,6 +23,17 @@ Breng de volwassenheid van je organisatie op het gebied van algoritmes in kaart.
 - Deel deze informatie met het bestuur en zorg dat hier bewustzijn ontstaat. Bepaal vervolgens hoe algoritmegovernance moet worden ingericht.
 - Het is aan te raden om verantwoordelijkheden te beleggen voor het realiseren van algoritmegovernance.
 
+## Bronnen
+
+## Bijbehorende vereiste(n)
+<!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
+
+<!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
+<!-- list_vereisten_on_maatregelen_page -->
+
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+
 ## Voorbeelden van volwassenheidsmodellen
 
 Er zijn verschillende modellen om het volwassenheidsniveau te bepalen. Deze modellen richten zich niet altijd specifiek op het beheer van algoritmes, maar kijken breder naar algoritmes in de organisatie of naar ethische vraagstukken. Governance is altijd een onderdeel van deze modellen.
@@ -43,5 +54,4 @@ Het datavolwassenheidmodel van de Interbestuurlijke Datastrategie (IBDS) kijkt n
 ## Innovatie en volwassenheid
 Het gebruik van algoritmes wordt vaak gezien als een vorm van innovatie. Hoe kan AI helpen bij het ondersteunen van nieuwe ideeën en het vinden van nieuwe toepassingen? Een voorbeeld van een volwassenheidsmodel over innovatie is de [Innovatie Maturity Scan](https://www.rijksorganisatieodi.nl/innoveren-met-impact/onze-services/innovatie-maturity-scan) van Innoveren met Impact.
  
-## Voorbeelden van toepassing
 Heb je een voorbeeld of best practice, laat het ons weten via algoritmes@minbzk.nl

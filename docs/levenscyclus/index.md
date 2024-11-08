@@ -25,7 +25,7 @@ De levenscyclus helpt je om te bepalen wat je wanneer moet doen.
   <li> <a href="ontwerp/">Ontwerp</a></li>
   <li> <a href="dataverkenning-en-datapreparatie/">Dataverkenning en datapreparatie</a></li>
   <li> <a href="ontwikkelen/">Ontwikkelen</a></li>
-  <li> <a href="verificatie-en-validatie/">Verficatie en validatie</a></li>
+  <li> <a href="verificatie-en-validatie/">Verificatie en validatie</a></li>
   <li> <a href="implementatie/">Implementeren</a></li>
   <li> <a href="monitoring-en-beheer/">Monitoring en beheer</a></li>
   <li> <a href="uitfaseren/">Uitfaseren</a></li>
@@ -51,8 +51,8 @@ De levenscyclus kent twee verschillende niveau's:
           1(1. Probleemanalyse) --> 2(2. Ontwerp);
           2(2. Ontwerp) --> 3(3. Dataverkenning en datapreparatie);
           3(3. Dataverkenning en datapreparatie) --> 4(4. Ontwikkelen);
-          4(4. Ontwikkelen) --> 5(5. Verficatie en validatie);
-          5(5. Verficatie en validatie) --> 6(6. Implementatie);
+          4(4. Ontwikkelen) --> 5(5. Verificatie en validatie);
+          5(5. Verificatie en validatie) --> 6(6. Implementatie);
           6(6. Implementatie) --> 7(7. Monitoring en beheer);
           7(7. Monitoring en beheer) -.-> 8(8. Uitfaseren);
         end

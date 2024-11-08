@@ -1,5 +1,6 @@
 ---
 title: Politiek-bestuurlijke verantwoordelijkheid
+id: urn:nl:ak:mtr:org-04
 toelichting: Zorg voor politiek-bestuurlijk bewustzijn, betrokkenheid, en verantwoordelijkheid. Zorg dat bestuurders bewust zijn van de voor- en nadelen van de inzet van algoritmes en daarnaar kunnen handelen.
 levenscyclus:
 - organisatieverantwoordelijkheden
@@ -8,6 +9,9 @@ rollen:
 - beleid-en-advies
 onderwerp: 
 - governance
+hide:
+- navigation
+- toc
 ---
 <!-- tags -->
 

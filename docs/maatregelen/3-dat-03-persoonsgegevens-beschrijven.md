@@ -5,7 +5,6 @@ toelichting: Er is een overzicht opgesteld welke persoonsgegevens worden verwerk
 vereiste:
 - avg-01-persoonsgegevens-worden-rechtmatig-verwerkt
 - avg-04-proportionaliteit-en-subsidiariteit.md
-  
 levenscyclus:
 - dataverkenning-en-datapreparatie
 - ontwikkelen

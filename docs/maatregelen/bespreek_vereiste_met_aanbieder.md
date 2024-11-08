@@ -26,7 +26,7 @@ vereiste:
 - aia-20-verstrekken-van-informatie-op-verzoek
 - aia-21-aantoonbaarheid-vereisten-hoog-risico
 - aia-28-recht-op-uitleg-ai-besluiten
-- aia-29-beoordelen-gevolgen-grondrechten
+- aia-27-beoordelen-gevolgen-grondrechten
 - aia-30-transparantieverplichtingen
 - aia-31-ai-modellen-algemene-doeleinden
 - aia-32-ai-modellen-algemene-doeleinden-systeemrisico

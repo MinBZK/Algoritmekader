@@ -1,6 +1,6 @@
 ---
 title: Sluit algoritmegovernance aan op bestaande governancestructuren binnen de organisatie.
-id: urn:nl:ak:mtr:org:05
+id: urn:nl:ak:mtr:org-05
 toelichting: Onderzoek binnen de organisatie welke governancestructuren er al zijn en hoe algoritmegovernance daarop kan aansluiten. Communicatie en samenwerking tussen organisatieonderdelen is doorlopend van groot belang.
 
 levenscyclus:
@@ -26,7 +26,7 @@ Bij de vormgeving van een algoritmegovernance van een organisatie is het van bel
 
 - IT governance
   
-- [datagovernance](../onderwerpen/data#datagovernance-en-datamanagement)
+- [datagovernance](../onderwerpen/data.md#goed-databeheer-datagovernance-en-datamanagement)
   
 - informatiebeveiliging zoals governance rondom de [NIS2 richtlijn](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/nis2-richtlijn/)
   

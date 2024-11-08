@@ -15,7 +15,7 @@ vereiste:
 - grw-01-fundamentele-rechten
 - aia-11-systeem-voor-kwaliteitsbeheer
 - aia-05-data-kwaliteitscriteria
-- aia-29-beoordelen-gevolgen-grondrechten
+- aia-27-beoordelen-gevolgen-grondrechten
 - grw-02-non-discriminatie
 - avg-03-minimale-verwerking-van-persoonsgegevens
 - avg-11-privacy-bij-ontwerp-bij-verwerking-van-persoonsgegevens

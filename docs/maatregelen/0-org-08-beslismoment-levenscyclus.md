@@ -2,13 +2,10 @@
 title: Maak gebruik van beslismomenten  in de algoritmelevenscyclus
 id: urn:nl:ak:mtr:org:08
 toelichting: Maak gebruik van beslismomenten in de levenscyclus van een algoritme.
-
 levenscyclus:
 - organisatieverantwoordelijkheden
-
 onderwerp:
 - governance
-
 rollen:
 - projectleider
 - beleid-en-advies

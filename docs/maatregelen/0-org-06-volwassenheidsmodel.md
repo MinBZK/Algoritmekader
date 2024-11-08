@@ -7,6 +7,8 @@ levenscyclus:
 rollen:
 - projectleider
 - beleid-en-advies
+onderwerp:
+- governance
 ---
 
 <!-- tags -->
@@ -17,7 +19,7 @@ Breng de volwassenheid van je organisatie op het gebied van algoritmes in kaart.
 
 ## Toelichting 
 - Om tot een passende algoritmegovernance voor een organisatie te komen, moet eerst worden vastgesteld wat op dit moment al is ingericht binnen een organisatie op het gebied van algoritmes.
-- Breng in kaart wat er al is aan (IT-)governance met één van de volwassenheidsmodellen.
+- Hiervoor kan een volwassenheidsmodel worden toegepast. 
 - Op basis hiervan kunnen vervolgstappen worden gedefinieerd, zodat je een handelingsperspectief hebt om je organisatie te organiseren. Ook kunnen deze uitkomsten helpen bewustzijn over de uitdagingen te vergroten.
 - Het is denkbaar dat het realiseren van algoritmegovernance vraagt om een organisatieverandering. De noodzaak voor implementatie van de AI-Verordening kan hier een katalysator voor zijn. Pas daarom verandermanagementtechnieken toe. 
 - Deel deze informatie met het bestuur en zorg dat hier bewustzijn ontstaat. Bepaal vervolgens hoe algoritmegovernance moet worden ingericht.

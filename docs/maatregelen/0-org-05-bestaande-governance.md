@@ -23,6 +23,7 @@ Sluit algoritmegovernance aan op bestaande governancestructuren binnen de organi
 
 ## Toelichting
 Bij de vormgeving van een algoritmegovernance van een organisatie is het van belang om aansluiting en samenwerking te bewerkstelligen met huidige governancestructuren binnen de organisatie, zoals:
+
 - IT governance
   
 - [datagovernance](../onderwerpen/data#datagovernance-en-datamanagement)

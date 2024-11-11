@@ -70,7 +70,6 @@ def _resolve_path(path: str, page: Page, files: Files):
     
     # Check if file is None and handle the error
     if file is None:
-        print(f"Warning: Could not resolve path for {path}. File not found.")
         return ""  # or a default value
     
     resolved_path = _resolve(file, page)

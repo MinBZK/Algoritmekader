@@ -24,6 +24,22 @@ hide:
       <li><a href="https://ai-act-decisiontree.apps.digilab.network/">Gebruik de beslishulp AI-verordening</a></li>
     </ul>
     <button href="https://ai-act-decisiontree.apps.digilab.network/" class="button button-primary">Voer beslishulp AI-verordening uit</button>
+  <div id="wrapper">
+  <p><a class="button" href="#popup1">Voer beslishulp AI-verordening uit</a></p>
+</div>
+<!-- Modal Structure -->
+<div id="popup1" class="overlay">
+  <div class="popup">
+    <h2>Beslishulp AI-Verordening</h2>
+    <a class="close" href="#">&times;</a>
+    <div class="content">
+      <div id="app">
+        <script type="module" src="https://github.com/MinBZK/ai-act-decisiontree/releases/download/1.1.7/index.js"></script>
+      </div>
+    </div>
+  </div>
+</div>
+
   </div>
   </div>
   <div class="float-child-white styled-list">

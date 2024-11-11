@@ -30,6 +30,7 @@ Overheidsorganisatie zijn vaak belast met wettelijke taken waarbij zij een 'besl
 Hiervoor moeten gegevens worden verwerkt om te kunnen bepalen of een burger hier ook recht op heeft. Om deze gegevens snel en accuraat te verwerken, zetten overheidsorganisaties vaak algoritmes in. Deze gegevens worden dan vaak 'geautomatiseerde verwerkt', zonder dat een ambtenaar dit werk controleert.
 
 Soms wordt het proces voor het nemen van een besluit zodanig ingericht, dat dit geautomatiseerd wordt gedaan. Denk hierbij aan het opleggen van een boete voor een snelheidsovertreding. Hierdoor kan in korte tijd en op een efficiënte wijze, een grote hoeveelheid besluiten worden genomen. 
+
 Het geautomatiseerd verwerken van gegevens voor de totstandkoming van een besluit brengt risico's met zich mee, zeker als hierbij persoonsgegevens van individuen worden verwerkt en er sprake is van profilering. Hierdoor ontstaat bijvoorbeeld het risico op discriminatie.
 Daarom is in art. 22 AVG het recht voor betrokkenen gecreëerd om niet te worden onderworpen aan een uitsluitend op geautomatiseerde verwerking, waaronder profilering, gebaseerd besluit.
 

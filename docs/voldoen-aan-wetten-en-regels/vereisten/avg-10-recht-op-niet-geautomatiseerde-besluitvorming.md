@@ -52,7 +52,7 @@ Geautomatiseerde risicoselectie is voor de uitvoering van veel overheidsprocesse
   - de selectie als risico heeft niet automatisch ook andere aanmerkelijke gevolgen
   - de risicoselectie is voldoende kenbaar voor betrokkene. 
 
-Voor deze toelichting is hoofdzakelijk gebruik gemaakt van het 'Advies artikel 22 AVG en geautomatiseerde selectie-instrumenten van de Autoriteit Persoonsgegevens'. In dit advies wordt nader ingegaan op bijvoorbeeld de definitie van het begrip 'besluit', de toepassing van beginselen uit de Awb en de voorwaarden waaraan moet zijn voldaan bij geautomatiseerde risicoselectie. 
+Voor deze toelichting is hoofdzakelijk gebruik gemaakt van het 'Advies artikel 22 AVG en geautomatiseerde selectie-instrumenten van de Autoriteit Persoonsgegevens'. In dit advies wordt nader ingegaan op bijvoorbeeld de definities van het begrip 'besluit' en 'aanmerkelijke mate', de toepassing van beginselen uit de Awb en de voorwaarden waaraan moet zijn voldaan bij geautomatiseerde risicoselectie. 
 
 ## Bronnen
 

@@ -34,7 +34,7 @@ hide:
     <a class="close" href="#">&times;</a>
     <div class="content">
       <div id="app">
-        <script type="module" src="https://github.com/MinBZK/ai-act-decisiontree/releases/download/1.1.7/index.js"></script>
+        <script src="https://github.com/MinBZK/ai-act-decisiontree/releases/download/1.1.7/index.js"></script>
       </div>
     </div>
   </div>

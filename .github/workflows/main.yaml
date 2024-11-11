@@ -27,7 +27,9 @@ jobs:
         with:
           python-version: 3.x
           cache: 'pip'
-      
-      - run: pip install -r requirements.txt
+      - run: |
+          pip install -r requirements.txt
+        env:
+          GITHUB_TOKEN: ${{ secrets.material_insiders_token }}
 
       - run: mkdocs gh-deploy --force

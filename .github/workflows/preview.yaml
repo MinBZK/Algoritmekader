@@ -40,6 +40,8 @@ jobs:
       - name: install dependencies
         if: github.event.action != 'closed' 
         run: pip install -r requirements.txt
+        env:
+          GITHUB_TOKEN: ${{ secrets.material_insiders_token }}
 
       - name: build preview
         if: github.event.action != 'closed' 

@@ -8,7 +8,6 @@ title: Woordenlijst
 | Begrip | Definitie | 
 | ---- | ---- | 
 | aanbieder | Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een AI-systeem of een AI-model voor algemene doeleinden ontwikkelt of laat ontwikkelen en dat systeem of model in de handel brengt of het AI-systeem in gebruik stelt onder de eigen naam of merk, al dan niet tegen betaling. | 
-| aanbieders | Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een AI-systeem of een AI-model voor algemene doeleinden ontwikkelt of laat ontwikkelen en dat systeem of model in de handel brengt of het AI-systeem in gebruik stelt onder de eigen naam of merknaam, al dan niet tegen betaling. | 
 | aanbieder verder in de AI-waardeketen | Een aanbieder van een AI-systeem, met inbegrip van een AI-systeem voor algemene doeleinden, waarin een AI-model is geïntegreerd, ongeacht of het AI-model door hemzelf wordt verstrekt en verticaal geïntegreerd is of door een andere entiteit wordt aangeboden op basis van contractuele betrekkingen | 
 | aangemelde instantie | Een conformiteitsbeoordelingsinstantie die overeenkomstig de AI-verordening en andere relevante harmonisatiewetgeving van de Unie is aangemeld | 
 | aanmeldende autoriteit | De nationale autoriteit die verantwoordelijk is voor het opzetten en uitvoeren van de noodzakelijke procedures voor de beoordeling, aanwijzing en kennisgeving van de conformiteitsbeoordelingsinstanties en de monitoring hiervan | 

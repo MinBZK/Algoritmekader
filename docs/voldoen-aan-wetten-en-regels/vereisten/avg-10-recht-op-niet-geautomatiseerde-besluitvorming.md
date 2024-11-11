@@ -26,7 +26,7 @@ Betrokkenen hebben het recht om niet onderworpen te worden aan een enkel op geau
 
 **Begrippen**
 
-Overheidsorganisatie zijn vaak belast met de uitvoering wettelijke taken waarbij zij een 'besluit' moeten nemen, bijvoorbeeld als een burger vraagt om een uitkering, toeslag of een subsidie.
+Overheidsorganisatie zijn vaak belast met de uitvoering wettelijke taken waarbij zij 'besluiten' moeten nemen, bijvoorbeeld als een burger vraagt om een uitkering, toeslag of een subsidie.
 Hiervoor moeten gegevens worden verwerkt om te kunnen bepalen of een burger hier ook recht op heeft. Om deze gegevens snel en accuraat te verwerken, zetten overheidsorganisaties vaak algoritmes in. Deze gegevens worden dan vaak 'geautomatiseerde verwerkt', zonder dat een ambtenaar dit werk controleert.
 
 Soms wordt het proces voor het nemen van een **besluit** zodanig ingericht, dat dit volledig geautomatiseerd wordt gedaan. Denk hierbij aan het opleggen van een boete voor een snelheidsovertreding. Hierdoor kan in korte tijd en op een efficiënte wijze, een grote hoeveelheid besluiten worden genomen. 

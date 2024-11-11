@@ -46,7 +46,7 @@ hide: navigation
 [Direct naar de ALTAI](https://digital-strategy.ec.europa.eu/en/library/assessment-list-trustworthy-artificial-intelligence-altai-self-assessment){ .md-button }
 ## Hulpmiddel 
 
-In 2019 publiceerde de High-Level Expert Group on Artificial Intelligence (AI HLEG), opgericht door de Europese Commissie, de Ethics Guidelines for Trustworthy Artificial Intelligence. De ALTAI is een hulpmiddel dat ontwikkelaars en organisaties helpt hun AI-systemen te beoordelen, gebaseerd op deze Ethics Guidelines for Trustworthy Artificial Intelligence. Het helpt te bepalen of het AI-systeem dat wordt ontwikkeld, ingezet, aangeschaft of gebruikt, voldoet aan zeven vereisten van betrouwbare AI;
+In 2019 publiceerde de High-Level Expert Group on Artificial Intelligence (AI HLEG), opgericht door de Europese Commissie, de [Ethics Guidelines for Trustworthy Artificial Intelligence](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai). De ALTAI is een hulpmiddel dat ontwikkelaars en organisaties helpt hun AI-systemen te beoordelen, gebaseerd op deze Ethics Guidelines for Trustworthy Artificial Intelligence. Het helpt te bepalen of het AI-systeem dat wordt ontwikkeld, ingezet, aangeschaft of gebruikt, voldoet aan zeven vereisten van betrouwbare AI:
 
 - Menselijke tussenkomst en toezicht;
 - Technische robuustheid en veiligheid;

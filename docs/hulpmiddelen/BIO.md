@@ -33,7 +33,7 @@ De BIO is het basisnormenkader voor informatiebeveiliging voor alle overheidslag
 - Aansluiting bij internationale regelgeving en standaarden;
 - Vermindering van onderhoudskosten.
 
-Op dit moment wordt er gewerkt aan de BIO2.0. Omdat de BIO2.0 pas eind 2024 van kracht zal worden, is op 1 juni 2023 de handreiking BIO2.0-opmaat opgeleverd. In deze handreiking is de indeling van de controls, doelstellingen en overheidsmaatregelen in deel 2 van de BIO in lijn gebracht met de 2022-versie van de ISO-27002. Naast tekstuele wijzigingen, zijn ook een aantal overheidsmaatregelen geactualiseerd, vanwege nieuwe dreigingen, zoals ransomware. Naast de verhoging van de feitelijke veiligheid, wordt ook geanticipeerd op aanpassingen die in de BIO2.0 zullen worden doorgevoerd. Overheidsorganisaties doen er goed aan deze actualisatie in hun beveiliging door te voeren.
+Op dit moment wordt er gewerkt aan de BIO2.0. Omdat de BIO2.0 pas eind 2024 van kracht zal worden, is op 1 juni 2023 de [handreiking BIO2.0-opmaat](https://bio-overheid.nl/category/producten?product=Handreiking_BIO2_0_opmaat) opgeleverd. In deze handreiking is de indeling van de controls, doelstellingen en overheidsmaatregelen in deel 2 van de BIO in lijn gebracht met de 2022-versie van de ISO-27002. Naast tekstuele wijzigingen, zijn ook een aantal overheidsmaatregelen geactualiseerd, vanwege nieuwe dreigingen, zoals ransomware. Naast de verhoging van de feitelijke veiligheid, wordt ook geanticipeerd op aanpassingen die in de BIO2.0 zullen worden doorgevoerd. Overheidsorganisaties doen er goed aan deze actualisatie in hun beveiliging door te voeren.
 
 
 

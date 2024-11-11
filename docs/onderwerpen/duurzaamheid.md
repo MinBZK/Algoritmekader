@@ -1,29 +1,29 @@
 ---
-title: Duurzaamheid
-summary: Hier staat een korte samenvatting over dit onderwerp
-icon: material/leaf
+title: Duurzaam werken met algoritmes
+summary:
 ---
 
-Onze impact op natuur en milieu is groot. 
-Er zijn grote doelen gesteld om duurzamer te gaan leven en werken. Binnen alle overheidsorganisaties, op allerlei verschillende gebieden, wordt gekeken hoe er duurzamer te werk kan worden gegaan, dus ook bij ICT-voorzieningen. 
+# Duurzaam werken met algoritmes
+Overheden moeten duurzaam werken met hun ICT, zoals algoritmes. Dit betekent dat je algoritmes inkoopt, ontwikkelt en gebruikt op een manier die vriendelijk is voor mens en milieu. 
 
-Bij het duurzamer maken van ICT kan gedacht worden aan de fysieke kant (hardware) en de digitale kant (software, algoritmes).
-Met betrekking tot hardware kan men bijvoorbeeld zo duurzaam mogelijk hardware inkopen (circulariteit van apparaten en materialen) en proberen de levensduur van apparaten en onderdelen te maximaliseren. Bij ontwikkeling en inzet van software, zoals algoritmen, zal gekeken moeten worden naar andere zaken, zoals energieverbruik van het trainen van complexe modellen.
-In het Algoritmekader gaan we specifiek in op deze duurzaamheidsaspecten van algoritmes en AI-systemen. 
+## Wat is duurzaam werken met algoritmes?
+Je werkt duurzaam met algoritmes als je tijdens de hele [levenscyclus](https://minbzk.github.io/Algoritmekader/levenscyclus/) keuzes maakt die passen bij de [duurzame en sociale doelen van de overheid](https://www.denkdoeduurzaam.nl/doelen):
 
-## Duurzaamheid algoritmes en AI-systemen 
-Het concept duurzaamheid is een groot en generiek begrip, dat vele sub-thema’s introduceert. 
-Deze thema’s raken onder andere het ontwerp, de ontwikkeling en de inzet van algoritmes en AI-systemen. 
-Met de opkomst van grotere en ingewikkeldere modellen, grotere datasets, en de groeiende interesse in (generatieve) AI, groeit ook het energie- en waterverbruik.
-Dit verbruik ontstaat ook bij het trainen van grotere en complexere rekenmodellen zoals Large Language Models, en de opslag van zeer grote (vaak multimediale) datasets in datacenter. 
+* klimaatneutraal werken in 2030
+* 50% minder gebruik van grondstoffen direct uit de natuur (zoals olie, gas en lithium) in 2030
+* circulair werken in 2050: zonder afval, met alleen hergebruikte grondstoffen
+* meer banen voor mensen met een arbeidsbeperking
+* geen sociale misstanden in internationale productieketens, zoals slechte arbeidsomstandigheden of schending van mensenrechten
 
-Dit bouwblok van het Algoritmekader biedt een gestructureerd overzicht van vereisten, maatregelen en instrumenten die ondersteunen bij het ontwikkelen en toepassen van algoritmes en AI-systemen op een duurzame wijze.
-Zo kunnen bewuste keuzes worden gemaakt die niet alleen voldoen aan de functionaliteiten, maar ook bijdragen aan de Sustainable Development Goals (SDG's) en de doelstellingen uit het [Nederlandse klimaatakkoord](https://www.rijksoverheid.nl/onderwerpen/klimaatverandering/klimaatakkoord/wat-is-het-klimaatakkoord).
-Bij duurzame ontwikkeling en toepassing van algoritmes kan bijvoorbeeld gedacht worden aan energie-efficiënte programmering en duurzaam datacenterbeheer. 
+Om bij te dragen aan deze doelen, kies je bijvoorbeeld voor:
 
-!!! info "Opmerking"
+* energiezuinig programmeren
+* energiezuinig trainen van AI-systemen
+* dataopslag in een duurzaam of ‘groen’ datacenter
 
-    Dit bouwblok moet nog ontwikkeld worden. Deze pagina is dus nog niet volledig. Op deze pagina vindt je mogelijk wel al onderdelen waar we aandacht aan willen besteden in dit bouwblok. 
+## Belang van duurzaam werken
+Algoritmes kunnen veel impact hebben op het milieu. De rekenkracht die algoritmes nodig hebben op computers kost elektriciteit. En de datacenters die nodig zijn voor het opslaan van data, verbruiken veel energie, water en grondstoffen.
+Vooral complexe AI-systemen zoals Large Language Models (LLM’s) verbruiken veel energie door training en gebruik en door opslag van grote datasets in datacenters. 
 
 ## Vereisten
 
@@ -33,3 +33,7 @@ Bij duurzame ontwikkeling en toepassing van algoritmes kan bijvoorbeeld gedacht 
 ## Maatregelen
 
 <!-- list_maatregelen onderwerp/duurzaamheid no-search no-onderwerp no-rol no-levenscyclus -->
+
+
+## Help ons deze pagina te verbeteren
+Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/onderwerpen/duurzaamheid/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

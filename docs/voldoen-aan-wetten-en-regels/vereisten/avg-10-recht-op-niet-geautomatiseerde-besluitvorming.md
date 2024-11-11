@@ -41,7 +41,7 @@ De Nederlandse wetgever heeft in artikel 40 lid 1 UAVG gebruik gemaakt van de mo
 
 Om deze uitzondering toe te kunnen passen, moet op grond van artikel 22 AVG een 'passende maatregel' in de vorm van wetgeving zijn opgesteld waarmee wordt voorzien in de bescherming van de rechten en vrijheden en gerechtvaardigde belangen van de betrokkene. In Nederland moet de Awb deze bescherming aan burgers bieden als bestuursorganen besluiten nemen. 
 
-Een verwerkersverantwoordelijke moet, naast het toepassen van vereisten uit de AVG en specifieke (sectorale) wetgeving, beginselen uit de Awb vertalen naar concrete maatregelen om geautomatiseerde besluitvorming op een rechtmatige wijze toe te passen. Hierbij kan worden gedacht aan het [motiveringsbeginsel](motiveringsbeginsel.md) of het [zorgvuldigheidsbeginsel](zorgvuldigheidsbeginsel.md).
+Een verwerkersverantwoordelijke moet, naast het toepassen van vereisten uit de AVG en specifieke (sectorale) wetgeving, beginselen uit de Awb vertalen naar concrete maatregelen om geautomatiseerde besluitvorming op een rechtmatige wijze toe te passen. Hierbij kan worden gedacht aan het [motiveringsbeginsel](awb-02-motiveringsbeginsel.md) of het [awb-01-zorgvuldigheidsbeginsel](zorgvuldigheidsbeginsel.md).
 
 **Algemene eisen bij geautomatiseerde risicoselectie**
 

@@ -20,6 +20,8 @@ title: Woordenlijst
 | AI-testomgeving voor regelgeving | Een door een bevoegde autoriteit opgezet gecontroleerd kader dat aanbieders of toekomstige aanbieders van AI-systemen de mogelijkheid biedt een innovatief AI-systeem te ontwikkelen, trainen, valideren en testen, zo nodig onder reële omstandigheden, volgens een testomgevingsplan, voor een beperkte periode en onder begeleiding van een toezichthouder. | 
 | algoritme | Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden | 
 | auteursrecht | Het auteursrecht is het uitsluitend recht van den maker van een werk van letterkunde, wetenschap of kunst, of van diens rechtverkrijgenden, om dit openbaar te maken en te verveelvoudigen, behoudens de beperkingen, bij de wet gesteld. | 
+| AVG | Algemene Verordening Gegevensbescherming |
+| Awb | Algemene wet bestuursrecht |
 | beoogd doel | Het gebruik waarvoor een AI-systeem door de aanbieder is bedoeld, met inbegrip van de specifieke context en voorwaarden van het gebruik, zoals gespecificeerd in de informatie die door de aanbieder in de gebruiksinstructies, reclame- of verkoopmaterialen en verklaringen, alsook in de technische documentatie is verstrekt | 
 | Besluit (Awb) | Een schriftelijke beslissing van een bestuursorgaan, inhoudende een publiekrechtelijke rechtshandeling | 
 | bijzondere categorieën persoonsgegevens | De categorieën persoonsgegevens als bedoeld in artikel 9, lid 1, van Verordening (EU) 2016/679, artikel 10 van Richtlijn (EU) 2016/680 en artikel 10, lid 1, van Verordening (EU) 2018/1725 | 

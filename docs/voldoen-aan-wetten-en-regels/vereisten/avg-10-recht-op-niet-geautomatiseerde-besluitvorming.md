@@ -42,6 +42,7 @@ Het besluit mag in die gevallen niet geautomatiseerd worden genomen. Een individ
 De Nederlandse wetgever heeft in artikel 40 lid 1 UAVG gebruik gemaakt van de mogelijkheid een uitzondering te maken op het verbod van art. 22 lid 1 AVG, hoewel het verbod op geautomatiseerde besluitvorming blijft bestaan voor 'profilering', tenzij er specifieke (sectorale) wetgeving het verbod opheft.
 
 In Nederland is geautomatiseerde besluitvorming toegestaan, mits het gaat om besluitvorming waarbij menselijke tussenkomst geen toegevoege waarde heeft, vanwege het gebonden karakter / de geringe beoordelingsruimte. Hierbij kan worden gedacht aan het toekennen van kinderbijslag of de hoogte van het recht op studiefinanciering zo blijkt uit de Memorie van Toelichting.
+
 Daarvoor is op grond van artikel 22 AVG vereist dat een 'passende maatregel' in de vorm van wetgeving is opgesteld waarin wordt voorzien in de bescherming van de rechten en vrijheden en gerechtvaardigde belangen van de betrokkene. In Nederland is dit de Awb voor besluiten van bestuursorganen.
 
 Een verwerkersverantwoordelijke moet naast het toepassen van vereisten uit de AVG en specifieke sectorale wetgeving, beginselen uit de Awb vertalen naar concrete maatregelen om geautomatiseerde besluitvorming op een rechtmatige wijze te laten plaatsvinden.

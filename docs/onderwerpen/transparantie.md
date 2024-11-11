@@ -1,41 +1,77 @@
 ---
-title: Transparantie
-summary: Hier staat een korte samenvatting over dit onderwerp
-icon: material/magnify
+title: Transparant zijn over algoritmes
+summary:
 ---
 
-Om openheid te bieden en controleerbaar te zijn moeten overheidsinstanties transparant zijn over inzet van algoritmen en AI-systemen. 
+# Transparant zijn over algoritmes
 
-Het is van belang dat overheden nadenken over hun besluitvormingsprocessen en dat zij de werking en toegevoegde waarde van het inzetten van een algoritme kunnen uitleggen.
-Dit is bijzonder relevant als een algoritme of AI-systeem, al dan niet geautomatiseerd, impact heeft op besluitvorming die burgers raakt.  
+Overheden moeten transparant zijn over hun algoritmes. Dit betekent dat je duidelijke informatie geeft over de algoritmes die je ontwikkelt of gebruikt.
 
-Als burgers geen kennis kunnen nemen van de gebruikte algoritmes en in hoeverre diens output hen raakt, worden ze onrechtmatig beperkt in de mogelijkheid om zicht te verdedigen tegen nadelige gevolgen zoals discriminatie of een onjuist genomen beslissing of besluit.
-Daarnaast versterkt transparantie de controlerende functie van burgers en journalistiek, omdat burgers kunnen aangeven of een uitleg over een algoritmisch systeem duidelijk is en of zij de werking van het systeem hetzelfde ervaren. 
+## Wanneer ben je transparant?
+Je bent transparant over algoritmes en AI als je duidelijk uitlegt:
 
-Transparantie bij algoritmes en AI gaat zowel over het bekendmaken van de inzet en bijbehorende doelen, als ook over openheid van het type model en de gebruikte factoren. 
-Gebruikers moeten in staat zijn om de werking en de output van een algoritme of AI-systeem te begrijpen, zodat zij onderbouwde beslissingen of besluiten kunnen nemen. 
-Dit betekent bijvoorbeeld ook dat gebruikers bewust moet worden gemaakt dat zij communiceren of samenwerken met een algoritme of AI-systeem, dat zij worden geïnformeerd over de mogelijkheden en beperkingen van een systeem en dat betrokkenen worden geïnformeerd over hun rechten. 
+* dat je algoritmes ontwikkelt of gebruikt
+* voor welk doel je deze algoritmes ontwikkelt of gebruikt
+* wat voor soort algoritmes dit zijn
+* welke code of programmeertaal je hiervoor gebruikt
+* welke data je hiervoor gebruikt
+* hoe uitkomsten tot stand komen
+* hoe belanghebbenden bezwaar kunnen maken tegen gevolgen van het algoritme
 
- In dit bouwblok van het algoritmekader besteden we aandacht aan transparantie naar gebruikers en betrokkenen, transparantie door documentatie en opname in het [algoritmeregister]( https://algoritmes.overheid.nl/nl), uitlegbaarheid en traceerbaarheid van een besluit. 
- Hier worden de vereisten uitgewerkt die bestaan op basis van wet- en regelgeving en bestaand beleid met betrekking tot transparantie van algoritmen en AI. 
- Er worden suggesties gedaan hoe deze vereisten kunnen worden nageleefd met concrete maatregelen en welke rollen betrokken kunnen zijn. 
- Waar mogelijk worden voorbeelden en best practices uit de praktijk gegeven en zal worden aangegeven bij welk type algoritmen of AI dit relevant is.
- Deze vereisten en maatregelen worden ook gekoppeld aan de levenscyclus van een algoritme. 
- Dit geeft een beeld van wanneer vereisten of maatregelen met betrekking tot transparantie, bij het ontwikkelen en gebruiken van algoritmen en AI, moeten en kunnen worden geadresseerd. 
+## Belang van transparantie
+Als je open bent over de algoritmes die je ontwikkelt of gebruikt, kunnen burgers en bedrijven zich beter verdedigen tegen mogelijke nadelige gevolgen. Verkeerd gebruik van algoritmes kan iemands leven namelijk ernstig beïnvloeden. Bijvoorbeeld door discriminatie of een besluit dat niet klopt.
 
-!!! info "Opmerking"
+Door uit te leggen hoe het algoritme werkt, kun je de beslissingen van het algoritme makkelijker controleren. Je leert sneller waarom het bepaalde keuzes maakt en waar de zwakke plekken zitten.
 
-    Dit bouwblok moet nog ontwikkeld worden. Deze pagina is dus nog niet volledig. Op deze pagina vind je mogelijk wel al onderdelen waar we aandacht aan willen besteden in dit bouwblok. 
+Ook je organisatie is makkelijker te controleren. Omdat je transparant bent over algoritmes, kunnen burgers feedback geven. Journalisten zien wat je doet. En andere overheden kunnen hiervan leren.
+
+## Aanpak transparant werken
+Hoe je transparantie organiseert, hangt af van:
+
+* het doel van je algoritme
+* het soort algoritme waarmee je werkt
+* wie de gebruikers zijn van het algoritme, bijvoorbeeld medewerkers of burgers
+* de vereisten waar je aan moet voldoen
+* de maatregelen die je neemt
+* de doelgroep die je wil bereiken
+* de [levenscyclus-fase](https://minbzk.github.io/Algoritmekader/levenscyclus/) van je algoritme
+
+Onderzoek goed welk [soort algoritme](https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/) je gebruikt of wil gebruiken. Hoe groter de impact en het risico, hoe strenger de vereisten.
+
+De keuze voor het soort algoritme bepaalt ook hoe transparant je kunt zijn. Van rekenregels kun je namelijk precies uitleggen hoe deze tot een beslissing komen. Maar complexe AI-systemen zijn vaak een black box: niemand weet precies hoe deze systemen beslissingen maken. Volledige transparantie is dan niet mogelijk. In dat geval moet je de werking zo goed mogelijk onderzoeken. Probeer bijvoorbeeld in elk geval ernstige gevolgen zoals [discriminatie](https://minbzk.github.io/Algoritmekader/onderwerpen/bias-en-non-discriminatie/) te voorkomen. 
+
+> [!TIP]
+> Rekenregels zijn makkelijker uit te leggen dan AI-systemen. Als een rekenregel voldoende is voor het bereiken van je doel, dan is het ook makkelijker om transparant te zijn.
+
+## Betrokken partijen
+Stem je informatie af op de betrokken partij. Zo moeten gebruikers de uitkomst van het algoritme voldoende begrijpen voor het nemen van onderbouwde beslissingen. En belanghebbenden zoals burgers moeten weten dat zij te maken hebben met een algoritme. Zij moeten snel en makkelijk kunnen vinden wat hun rechten zijn en hoe zij in beroep kunnen gaan. 
+
+| Doelgroep | Informeer bijvoorbeeld over | Geef de informatie bijvoorbeeld via: |
+|----------:|-----------------------------|--------------------------------------|
+| Ontwikkelaar | de werking, keuzes van het ontwikkelteam | technische documentatie |
+| Gebruiker | hoe uitkomsten tot stand komen, gebruikte data, wat het algoritme wel en niet kan | gebruiksinstructies,	trainingen |
+| Medewerker | contactpersonen, algoritmegebruik binnen de organisatie, afspraken over algoritmemanagement (ook wel: algoritmegovernance) | intern algoritmeregister, trainingen |
+| Belanghebbende (iemand voor wie het algoritme gevolgen heeft) | hoe een besluit tot stand kwam, mogelijkheden om bezwaar te maken, contactmogelijkheden | brief over het besluit, webpagina over het algoritme |
+| Geïnteresseerde burger | algoritmegebruik binnen de organisatie| webpagina over het algoritme, algoritmeregister |
+| Auditor | werking, ontwikkelproces, keuzes van het ontwikkelteam, hoe uitkomsten tot stand komen| algoritmeregister, technische documentatie, programmeercode |
+| Onderzoeker of journalist | algoritmegebruik binnen de organisatie | algoritmeregister, technische documentatie, code |
 
 ## Vereisten
 
 <!-- list_vereisten onderwerp/transparantie no-search no-onderwerp no-rol no-levenscyclus -->
 
 
-## Maatregelen
+## Aanbevolen maatregelen
 
 <!-- list_maatregelen onderwerp/transparantie no-search no-onderwerp no-rol no-levenscyclus -->
 
-## Instrumenten
+## Hulpmiddelen
+
+* [Impact Assessment Mensenrechten en Algoritmes](https://minbzk.github.io/Algoritmekader/instrumenten/IAMA/index.html)
+* [Algoritmeregister](https://minbzk.github.io/Algoritmekader/instrumenten/algoritmeregister/index.html)
+
 
 <!-- list_instrumenten onderwerp/transparantie no-search no-onderwerp no-rol no-levenscyclus -->
+
+## Help ons deze pagina te verbeteren
+Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/onderwerpen/transparantie/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

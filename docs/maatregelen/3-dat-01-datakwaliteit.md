@@ -38,7 +38,7 @@ Stel vast of de gebruikte data van voldoende kwaliteit is voor de beoogde toepas
 
     Deze dimensies zijn aangevuld met [kwaliteitsattributen](https://www.noraonline.nl/wiki/Raamwerk_gegevenskwaliteit/Kwaliteitsattributen) welke gebruikt kunnen worden om de verschillende dimensies meetbaar te maken. 
 
-- De vraag of de data kwaliteit voldoende is hangt sterk samen met de vraag of er bias in de onderliggende data zit. Analyseer daarom ook welke bias en aannames er besloten zijn in de onderliggende data. Denk hierbij onder andere aan de volgende vormen van bias:
+- De vraag of de data kwaliteit voldoende is, hangt sterk samen met de vraag of er bias in de onderliggende data zit. Analyseer daarom ook welke bias en aannames er besloten zijn in de onderliggende data. Denk hierbij onder andere aan de volgende vormen van bias:
 
     - [historische bias](../onderwerpen/bias-en-non-discriminatie.md#verschillende-vormen-van-bias)
     - [meetbias](../onderwerpen/bias-en-non-discriminatie.md#verschillende-vormen-van-bias)

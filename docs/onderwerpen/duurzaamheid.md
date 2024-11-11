@@ -7,7 +7,7 @@ summary:
 Overheden moeten duurzaam werken met hun ICT, zoals algoritmes. Dit betekent dat je algoritmes inkoopt, ontwikkelt en gebruikt op een manier die vriendelijk is voor mens en milieu. 
 
 ## Wat is duurzaam werken met algoritmes?
-Je werkt duurzaam met algoritmes als je tijdens de hele [levenscyclus](https://minbzk.github.io/Algoritmekader/levenscyclus/) keuzes maakt die passen bij de [duurzame en sociale doelen van de overheid](https://www.denkdoeduurzaam.nl/doelen):
+Je werkt duurzaam met algoritmes als je tijdens de hele [levenscyclus](../levenscyclus/index.md) keuzes maakt die passen bij de [duurzame en sociale doelen van de overheid](https://www.denkdoeduurzaam.nl/doelen):
 
 * klimaatneutraal werken in 2030
 * 50% minder gebruik van grondstoffen direct uit de natuur (zoals olie, gas en lithium) in 2030

@@ -24,7 +24,7 @@ Betrokkenen hebben het recht om niet onderworpen te worden aan een enkel op geau
 
 ## Toelichting
 
-*Begrippen*
+**Begrippen**
 
 Overheidsorganisatie zijn vaak belast met wettelijke taken waarbij zij een 'besluit' moeten nemen, bijvoorbeeld als een burger vraagt om een uitkering, toeslag of een subsidie.
 Hiervoor moeten gegevens worden verwerkt om te kunnen bepalen of een burger hier ook recht op heeft. Om deze gegevens snel en accuraat te verwerken, zetten overheidsorganisaties vaak algoritmes in. Deze gegevens worden dan vaak 'geautomatiseerde verwerkt', zonder dat een ambtenaar dit werk controleert.
@@ -35,14 +35,14 @@ Daarom is in art. 22 AVG het recht voor betrokkenen gecreëerd om niet te worden
 Dit verbod geldt voor besluiten die 'rechtsgevolgen' hebben voor een betrokkene, bijvoorbeeld een burger die een boete ontvangt voor de snelheidsovertreding, of hem anderzijds in aanmerkelijke mate treft. 
 Het besluit mag in die gevallen niet geautomatiseerd worden genomen. Een individu moet namelijk kunnen rekenen op voldoende 'menselijke tussenkomst' bij de beoordeling van belangrijke beslissingen die hem kunnen treffen.
 
-*Algemene eisen aan geautomatiseerde besluitvorming door overheden*
+**Algemene eisen aan geautomatiseerde besluitvorming door overheden**
 
 De Nederlandse wetgever heeft in artikel 40 lid 1 UAVG gebruik gemaakt van de mogelijkheid een uitzondering te maken op het verbod van art. 22 lid 1 AVG, hoewel het verbod op geautomatiseerde besluitvorming blijft bestaan voor 'profilering', tenzij er specifieke (sectorale) wetgeving het verbod opheft.
 In Nederland is geautomatiseerde besluitvorming toegestaan, mits het gaat om besluitvorming waarbij menselijke tussenkomst geen toegevoege waarde heeft, vanwege het gebonden karakter / de geringe beoordelingsruimte. Hierbij kan worden gedacht aan het toekennen van kinderbijslag of de hoogte van het recht op studiefinanciering zo blijkt uit de Memorie van Toelichting.
 Daarvoor is op grond van artikel 22 AVG vereist dat een 'passende maatregel' in de vorm van wetgeving is opgesteld waarin wordt voorzien in de bescherming van de rechten en vrijheden en gerechtvaardigde belangen van de betrokkene. In Nederland is dit de Awb voor besluiten van bestuursorganen.
 Een verwerkersverantwoordelijke moet naast het toepassen van vereisten uit de AVG en specifieke sectorale wetgeving, beginselen uit de Awb vertalen naar concrete maatregelen om geautomatiseerde besluitvorming op een rechtmatige wijze te laten plaatsvinden.
 
-*Algemene eisen bij geautomatiseerde risicoselectie*
+**Algemene eisen bij geautomatiseerde risicoselectie**
 
 Geautomatiseerde risicoselectie is in veel overheidsprocessen onontbeerlijk. Door middel van profilering worden dan de gevallen in beeld gebracht die extra aandacht moeten krijgen in het kader van uitvoering of toezicht. Geautomatiseerde risicoselectie kan, als niet is voorzien in een specifieke wettelijke grondslag, worden toegepast als is voldaan aan de volgende voorwaarden:
   - het risico op discriminatoire verwerkingen is onderzocht en ondervangen;

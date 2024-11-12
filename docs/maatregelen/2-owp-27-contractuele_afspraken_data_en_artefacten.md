@@ -1,5 +1,5 @@
 ---
-title: Contractuele afspraken over data en artefacten met aanbieder
+title: Maak (contractuele) afspraken over data en artefacten met een aanbieder
 toelichting: Maak (contractuele) afspraken over de data en artefacten die ontstaan bij het gebruiken van algoritmes van aanbieders.
 vereiste:
 - aut-01-auteursrechten

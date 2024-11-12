@@ -1,6 +1,6 @@
 ---
-title: Train-, validatie- en testdata
-toelichting: Indien je gebruik maakt van machine learning technieken, maak een passende keuze voor gescheiden train-, test- en validatiedata en houdt hierbij rekening met underfittng en overfitting. 
+title: Gebruik bij machine learning technieken gescheiden train-, test- en validatiedata en houdt rekening met underfitting en overfitting.
+toelichting: Indien je gebruik maakt van machine learning technieken, maak een passende keuze voor gescheiden train-, test- en validatiedata en houd hierbij rekening met underfitting en overfitting. 
 vereiste:
 - aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging
 levenscyclus:
@@ -10,8 +10,8 @@ onderwerp:
 - data
 - technische-robuustheid-en-veiligheid
 - bias-en-non-discriminatie
-# rollen:
-# - ontwikkelaar
+rollen:
+- ontwikkelaar
 hide:
 - navigation
 - toc
@@ -20,7 +20,7 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-Indien je gebruik maakt van machine learning technieken, maak een passende keuze voor gescheiden train-, test- en validatiedata en houdt hierbij rekening met underfittng en overfitting. 
+Indien je gebruik maakt van machine learning technieken, maak een passende keuze voor gescheiden train-, test- en validatiedata en houd hierbij rekening met underfitting en overfitting. 
 
 ## Toelichting
 Verdeel je dataset in drie delen:
@@ -29,7 +29,7 @@ Verdeel je dataset in drie delen:
 
     Deze dataset wordt gebruikt om het model te trainen. Uit deze dataset worden de onderliggende patronen of relaties geleerd die later gebruikt kunnen worden om voorspellingen mee te doen.
 
-    De [kwaliteit](datakwaliteit.md) van deze dataset moet goed zijn en zo representatief mogelijk voor de doelpopulatie. Eventuele bias of vooroordelen in deze dataset kan door het trainen in het model sluipen.
+    De [kwaliteit](3-dat-01-datakwaliteit.md) van deze dataset moet goed zijn en zo representatief mogelijk voor de doelpopulatie. Eventuele [bias](../onderwerpen/bias-en-non-discriminatie.md#verschillende-vormen-van-bias) of vooroordelen in deze dataset kan door het trainen in het model sluipen.
 
    Let bij het samenstellen van de traningsset op dat de data waarop het model gebaseerd is, niet beschikbaar zijn voordat de uitkomsten zijn geobserveerd. Met andere woorden, zorg ervoor de de voorspellingen geen onderdeel kunnen zijn van de inputvariabelen. 
 
@@ -45,9 +45,8 @@ Verdeel je dataset in drie delen:
 
     Let op dat je pas naar deze resultaten kijkt als laatste stap. Inzichten uit deze testdataset mogen niet worden meegenomen in de ontwikkeling, omdat dit kan leiden tot overfitting. Het model zal dan in productie mogelijk minder goed presteren. 
 
-### Hoe split ik mijn dataset? 
+### Grootte van de drie datasets
 
-#### Grootte van de drie datasets
 Er is geen optimale verdeling van de drie datsets. Veelvoorkomende verhoudingen om je data in te splitten zijn:
 
 - 80% trainingsset, 10% validatieset, 10% testset
@@ -60,7 +59,8 @@ Afhankelijk van de hoeveelheid beschikbare data en de context maak je hierin een
 - Hoe minder validatie- en testdata je gebruikt, hoe grote de variantie en de onzekerheid in de verwachte prestaties van het algoritme. 
 - Hoe complexer het model, en hoe meer (hyper)parameters er zijn om te optimaliserne, hoe groter de validatieset moet zijn om het model met optimale presetaties te vinden. Wanneer er weinig hyperparameters zijn, is een relatief kleine validatieset vaak voldoende.
 
-#### k-fold cross validation
+### k-fold cross validation
+
 Naast dat je de datasets willekeurig kan verdelen in drie delen (aselect), kan je ook meer geavanceerde technieken gebruiken. Een robuuste en veelgebruikte techniek is [k-fold cross validation](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html), waarbij het model *k* keer wordt getraind op verschillende delen van de data. 
 
 ## Bijbehorende vereiste(n)

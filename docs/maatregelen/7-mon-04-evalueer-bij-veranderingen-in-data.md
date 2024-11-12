@@ -1,5 +1,5 @@
 ---
-title: Veranderingen in de data
+title: Monitor regelmatig op veranderingen in de data. Bij veranderingen evalueer je de prestaties en output van het algoritme.
 toelichting: Monitor regelmatig op veranderingen in de data. Bij geconstateerde veranderingen evalueer je de prestaties en de output van het algoritme.
 vereiste:
 - aia-05-data-kwaliteitscriteria
@@ -11,8 +11,8 @@ levenscyclus:
 onderwerp:
 - data
 - technische-robuustheid-en-veiligheid
-# rollen:
-# - ontwikkelaar
+rollen:
+- ontwikkelaar
 hide:
 - navigation
 - toc
@@ -29,8 +29,8 @@ Dat kan komen doordat de context waarin het algoritme wordt gebruikt verandert, 
 Het te laat opmerken van zo'n verandering kan grote gevolgen hebben. 
 Daarom is het belangrijk om regelmatig te controleren en evalueren of:
 
-- de data van [voldoende kwaliteit is voor de beoogde toepassing](datakwaliteit.md)
-- of het algoritme nog [presteert in lijn met de vastgestelde doelen](functioneren_in_lijn_met_doeleinden.md)
+- de data van [voldoende kwaliteit is voor de beoogde toepassing](3-dat-01-datakwaliteit.md)
+- of het algoritme nog [presteert in lijn met de vastgestelde doelen](5-ver-01-functioneren-in-lijn-met-doeleinden.md)
 - de gegevens op de juiste en volledige manier worden verwerkt. 
 
 Zeker wanneer er gebruikt wordt gemaakt van informatie van derden, is het belangrijk om regelmatig te controleren of er veranderingen in de data zijn. Goede monitoring op datakwaliteit zorgt ervoor dat je voldoende controle hebt over de kwaliteit van de data, zelfs als je hiervoor afhankelijk bent van andere partijen. 

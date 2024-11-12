@@ -1,8 +1,10 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Maak de vereiste onderdeel van het programma van eisen
+title: Maak vereisten onderdeel van het programma van eisen bij een aanbesteding
+id: urn:nl:ak:mtr:owp-25
 # geef hier een korte toelichting van deze maatregel
-toelichting: Door de vereiste onderdeel te maken van het programma van eisen bij de aanbesteding, is het voor aanbieders duidelijk aan welke specifieke eisen hun oplossing moet voldoen.  
+toelichting: Door vereisten onderdeel te maken van het programma van eisen bij een aanbesteding, is het voor aanbieders duidelijk aan welke specifieke eisen een oplossing moet voldoen. Op basis hiervan kan een aanbieder een zo goed mogelijke aanbieding doen.
+
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
 - aia-02-documentatie-beoordeling-niet-hoog-risico-ai
@@ -64,7 +66,7 @@ vereiste:
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 
 - ontwerp
-- ontwikkelen
+
 # vul hier de bouwblokken in die horen bij deze maatregel
 onderwerp: 
 - publieke-inkoop
@@ -72,6 +74,8 @@ onderwerp:
 rollen:
 - projectleider
 - beleid-en-advies
+- ontwikkelaar
+  
 hide:
 - navigation
 - toc
@@ -82,13 +86,13 @@ hide:
 
 ## Maatregel
 <!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
- Maak de vereiste onderdeel van het programma van eisen
+Maak vereisten onderdeel van het programma van eisen bij een aanbesteding
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Door de vereiste onderdeel te maken van het programma van eisen, is het voor aanbieders duidelijk dat hun oplossing hieraan moet voldoen. 
-Afhankelijk van de specifieke toepassing, context en noodzaak kan een vereiste in het programma van eisen concreet worden gemaakt. 
-Het is hierbij van belang om dit af te wegen tegen zaken die mogelijk al zijn geregeld door middel van algemene inkoopvoorwaarden die gelden voor algoritmes en AI.   
+- Door vereisten onderdeel te maken van het programma van eisen bij een aanbesteding, is het voor aanbieders duidelijk aan welke specifieke eisen een oplossing moet voldoen.
+- Op basis hiervan kan een aanbieder een zo goed mogelijke aanbieding doen.
+- Afhankelijk van de behoeftestelling kan het relevant zijn om bepaalde vereisten te verfijnen in het Programma van Eisen en aan te geven wanneer hieraan voldaan is, bijvoorbeeld met betrekking tot het transparantievereiste. Bepaal met het inkoopteam bij welke vereisten dit noodzakelijk is. 
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
@@ -96,12 +100,15 @@ Het is hierbij van belang om dit af te wegen tegen zaken die mogelijk al zijn ge
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
 <!-- list_vereisten_on_maatregelen_page -->
 
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Er is niet gespecificeerd en daarmee achteraf niet afdwingbaar dat algoritmes aan bepaalde vereisten moeten voldoen die van de belangen voor de betreffende overheidsorganisatie. 
+
+
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
-| Bron                        |
-|-----------------------------|
-| Algoritmekader |        
+[Hoe specificeer ik mijn vraag?](https://www.pianoo.nl/nl/inkopen-het-kort/hoe-zit-het-inkoopproces-elkaar/hoe-specificeer-ik-mijn-vraag)
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->

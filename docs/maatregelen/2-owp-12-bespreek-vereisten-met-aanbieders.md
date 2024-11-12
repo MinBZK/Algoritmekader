@@ -1,8 +1,9 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Neem het kunnen uitvoeren van een audit over de vereiste op in contractvoorwaarden en de contractovereenkomst 
-# geef hier een korte toelichting van deze maatregel
-toelichting: Het is van belang dat opdrachtgever mogelijkheden heeft om te controleren in hoeverre door aanbieder/opdrachtnemer wordt voldaan aan naleving van de vereiste.  
+title: Bespreek de vereisten die gelden voor een verantwoorde inzet van algoritmes met aanbieders.
+id: urn:nl:ak:mtr:owp-12
+toelichting: Ga met een aanbieder in gesprek over in hoeverre zij invulling kunnen geven aan de vereisten die gelden voor een verantwoorde inzet van algoritmes.
+
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
 - aia-02-documentatie-beoordeling-niet-hoog-risico-ai
@@ -69,14 +70,14 @@ levenscyclus:
 onderwerp: 
 - publieke-inkoop
 
-# vul hier de rollen in die betrokken zijn bij deze maatregel
+# geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn
 rollen:
 - projectleider
-- jurist
-  
+
 hide:
 - navigation
 - toc
+
 ---
 
 <!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->
@@ -84,11 +85,13 @@ hide:
 
 ## Maatregel
 <!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
-Neem het kunnen uitvoeren van een audit over de vereiste op in contractvoorwaarden en de contractovereenkomst 
+Bespreek de vereiste die gelden voor een verantwoorde inzet van algoritmes met een aanbieder.
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Het is van belang dat opdrachtgever mogelijkheden heeft om te controleren in hoeverre door aanbieder/opdrachtnemer wordt voldaan aan naleving van de contractvoorwaarden
+Ga met een aanbieder in gesprek over in hoeverre zij invulling kunnen geven aan de vereisten die gelden voor een verantwoorde inzet van algoritmes. Dit kan worden gedaan bijvoorbeeld bij een informatiesessie met aanbieders voorafgaand aan een aanbesteding. 
+
+Op basis van nieuwe of gewijzigde wet- en regelgeving of de totstandkoming van nieuwe standaard, is het denkbaar dat aanbieders van algoritmes nog niet of niet meer voldoet aan deze vereisten. Het is van belang om deze inzichten bijvoorbeeld tijdens een aanbesteding worden verkregen. Indien van toepassing, laat de aanbieder inzichtelijk maken welke stappen deze gaat zetten om hieraan te gaan voldoen. Dit is ook relevant bij reeds afgesloten contracten.
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
@@ -97,15 +100,11 @@ Het is van belang dat opdrachtgever mogelijkheden heeft om te controleren in hoe
 <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen 
-<!-- Vul hier de relevante bronnen in voor deze maatregel -->
+<!-- Vul hier de relevante bronnen in voor deze maatregel -->   
 
-| Bron                        |
-|-----------------------------|
-| Algoritmekader |  
-| [Contractvoorwaarden gemeente Amsterdam](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/contractvoorwaarden-algoritmen/) |
-| [Europese Inkoopvoorwaarden Hoog Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_template_High_Risk%20NL.pdf) |
-| [Europese Inkoopvoorwaarden Laag Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_Template_NON_HIGH_RISK_NL.pdf) |
-
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Door de vereisten voor een verantwoorde inzet van algoritmes niet te bespreken met aanbieders, is het voor hen (deels) onduidelijk aan welke vereisten diens algoritmes moet voldoen om te kunnen contractueren met overheidsorganisaties.
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->

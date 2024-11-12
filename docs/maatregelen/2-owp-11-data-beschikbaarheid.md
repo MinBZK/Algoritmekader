@@ -1,9 +1,9 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Voer voorafgaand aan een aanbesteding een data beschikbaarheid, kwaliteit- en toegankelijkheidsanalayse uit. 
+title: Voer voorafgaand aan een project een data beschikbaarheid, kwaliteit- en toegankelijkheidsanalayse uit. 
 id: urn:nl:ak:mtr:owp-11
 # geef hier een korte toelichting van deze maatregel
-toelichting: Het is van belang om voorafgaand aan een aanbesteding vast te stellen of de data die noodzakelijk is om een algoritme te ontwikkelen of te kunnen gebruiken beschikbaar is of gaat worden en van voldoende kwaliteit is. 
+toelichting: Het is van belang om voorafgaand aan een project vast te stellen of de data die noodzakelijk is om een algoritme te ontwikkelen of te kunnen gebruiken beschikbaar is of gaat worden en van voldoende kwaliteit is. 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
 - aia-05-data-kwaliteitscriteria
@@ -31,14 +31,14 @@ hide:
 
 ## Maatregel
 <!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
-Voer voorafgaand aan een aanbesteding een data beschikbaarheids- en kwaliteitsanalayse uit. 
+Voer voorafgaand aan een project een data beschikbaarheids- en kwaliteitsanalayse uit. 
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-- Het is van belang om voorafgaand aan een aanbesteding vast te stellen of de data die noodzakelijk is om een algoritme te ontwikkelen of te kunnen gebruiken beschikbaar is, gaat worden en of de data van voldoende kwaliteit is.
-- Er moet worden onderzocht of en hoe data vanuit de eigen organisatie, die van een aanbieder of elders beschikbaar kan worden gesteld, kan worden opgeslagen en of goedkeuring kan worden gegeven voor het verwerken van de data. 
-- De infrastructuur van de eigen organisatie en/of die van de aanbieder moeten van voldoende niveau zijn om de beoogde verwerkingen uit te kunnen voeren. 
-- Een dergelijke analyse levert inzichten op welke problemen er eventueel op dit vlak kunnen ontstaan en geeft input voor de behoeftestelling.
+- Het is van belang om voorafgaand aan een project vast te stellen of de data die noodzakelijk is om een algoritme te ontwikkelen of te kunnen gebruiken beschikbaar is, gaat worden en of de data van voldoende kwaliteit is.
+- Er moet worden onderzocht of en hoe data vanuit de eigen organisatie, die van een eventuele externe aanbieder of elders beschikbaar kan worden gesteld, kan worden opgeslagen en of goedkeuring kan worden gegeven voor het verwerken van de data.
+- De infrastructuur van de eigen organisatie en/of die van een eventuele externe aanbieder moet van voldoende niveau zijn om de beoogde verwerkingen uit te kunnen voeren.
+- Een dergelijke analyse levert inzichten op welke problemen er eventueel op dit vlak kunnen ontstaan en geeft input voor de verdere ontwikkeling of (in geval van inkoop) de behoeftestelling.
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

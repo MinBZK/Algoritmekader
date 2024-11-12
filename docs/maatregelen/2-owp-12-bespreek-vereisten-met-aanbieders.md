@@ -2,7 +2,7 @@
 # vul hier een titel in voor deze maatregel
 title: Bespreek de vereisten die gelden voor een verantwoorde inzet van algoritmes met aanbieders.
 id: urn:nl:ak:mtr:owp-12
-toelichting: Ga met aanbieder in gesprek over in hoeverre invulling is gegeven of kan worden gegeven aan de vereiste.
+toelichting: Ga met een aanbieder in gesprek over in hoeverre zij invulling kunnen geven aan de vereisten die gelden voor een verantwoorde inzet van algoritmes.
 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
@@ -85,7 +85,7 @@ hide:
 
 ## Maatregel
 <!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
-Bespreek de vereiste die gelden voor een verantwoorde inzet van algoritmes met aanbieder.
+Bespreek de vereiste die gelden voor een verantwoorde inzet van algoritmes met een aanbieder.
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->

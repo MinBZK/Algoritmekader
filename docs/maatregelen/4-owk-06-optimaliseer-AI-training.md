@@ -27,7 +27,7 @@ Het trainen van AI, vooral generatieve AI-modellen, vergt aanzienlijke energie e
 - Verder kan servergebruik geoptimaliseerd worden door onnodige trainingsomgevingen tijdig te stoppen, vooral testomgevingen, en servers dynamisch te schalen met tools zoals Kubernetes of autoscaling technologie.
 
 ### Slimme data- en trainingsoptimalisatie
-Niet alle beschikbare data dragen bij aan de modelprestaties. Door een dataselectiestrategie toe te passen, gebruik je enkel relevante datasets, wat zorgt voor minder intensieve rekenbelasting tijdens het trainingsproces. Daarnaast kan slimme caching helpen om repetitieve data-opvragingen te beperken, wat bijdraagt aan een lagere energievraag. Bovendien kun je hertrainingscycli van AI beperken door enkel updates te doen wanneer nieuwe data dit echt vereist. Dit voorkomt overbodige trainingscycli en bespaart energie.
+Niet alle beschikbare data dragen bij aan de modelprestaties. Door een dataselectiestrategie toe te passen, [gebruik je enkel relevante datasets (dataminimalisatie)](3-dat-09-dataminimalisatie.md), wat zorgt voor minder intensieve rekenbelasting tijdens het trainingsproces. Daarnaast kan slimme caching helpen om repetitieve data-opvragingen te beperken, wat bijdraagt aan een lagere energievraag. Bovendien kun je hertrainingscycli van AI beperken door enkel updates te doen wanneer nieuwe data dit echt vereist. Dit voorkomt overbodige trainingscycli en bespaart energie.
 
 ## Bijbehorende vereiste(n)
 <!-- list_vereisten_on_maatregelen_page -->

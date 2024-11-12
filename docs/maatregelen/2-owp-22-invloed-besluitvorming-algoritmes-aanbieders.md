@@ -9,7 +9,7 @@ vereiste:
 - avg-10-recht-op-niet-geautomatiseerde-besluitvorming
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus:
-- ontwikkelen
+- ontwerp
 # vul hier de bouwblokken in die horen bij deze maatregel
 onderwerp:
 - publieke-inkoop

@@ -30,7 +30,7 @@ Je kunt op verschillende manieren controle houden over de prestaties van een alg
 * Contextuele controle: Controle van de omgeving van het algoritme. Je verbiedt bijvoorbeeld dat je organisatie het algoritme gebruikt in situaties met een hoog risico op schade.
 * Controle door kennis: Je probeert de werking en risico’s van je algoritmes zo goed mogelijk te begrijpen. Gaat het om een AI-systeem, dan heb je ook [voldoende kennis over AI](../vereisten/aia-01-ai-geletterdheid.md) nodig.
 
-Wanneer en hoe je controle uitoefent, hangt af van het [soort algoritme en risico](../overhetalgoritmekader/soorten-algoritmes.md), de [levenscyclusfase](../levenscyclus/index.md) van je project en je [expertise](../rollen.md). 
+Wanneer en hoe je controle uitoefent, hangt af van het [soort algoritme en risico](../overhetalgoritmekader/soorten-algoritmes.md), de [levenscyclusfase](../levenscyclus/index.md) van je project en je [expertise](../rollen/index.md). 
 
 Bepaal in elk geval zo vroeg mogelijk wie in welke levenscyclusfase verantwoordelijk is voor menselijke controle. En [beschrijf dit in een RACI-matrix of VERI-matrix](../maatregelen/beschrijf_rollen_en_verantwoordelijkheden.md). Want menselijke controle is nodig in verschillende fases, door verschillende mensen. Er is nooit 1 persoon verantwoordelijk voor de totale controle. 
 

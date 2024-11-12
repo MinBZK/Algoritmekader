@@ -1,11 +1,12 @@
 ---
-title: Contractuele afspraken over data en artefacten
-toelichting: Maak (contractuele) afspraken met aanbieder wie eigenaar is van de data en artefacten die ontstaan bij het gebruik van algoritmen en AI-systemen.
+title: Maak (contractuele) afspraken over data en artefacten met een aanbieder
+toelichting: Maak (contractuele) afspraken over de data en artefacten die ontstaan bij het gebruiken van algoritmes van aanbieders.
 vereiste:
 - aut-01-auteursrechten
+- dat-01-databankenwet
 levenscyclus:
 - ontwerp
-- monitoring-en-beheer
+- implementatie
 onderwerp:
 - publieke-inkoop
 rollen:
@@ -23,7 +24,7 @@ Maak (contractuele) afspraken met de aanbieder wie eigenaar is van de data en ar
 
 ## Toelichting
 
-Hier kan worden gedacht aan de initiële trainingsdataset, outputdata (richting gebruikers) en nieuwe trainingsdata (vanuit gebruikers).
+Hier kan worden gedacht aan (initiële) trainingsdatasets, outputdata (richting gebruikers) en nieuwe trainingsdata (vanuit gebruikers). 
 
 ## Bijbehorende vereiste(n)
 

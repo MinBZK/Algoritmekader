@@ -1,6 +1,10 @@
 ---
-title: Maak de vereiste onderdeel van de contractovereenkomst
-toelichting: Door de vereiste onderdeel te maken van de contractvereenkomst, worden deze contractueel afdwingbaar. 
+# vul hier een titel in voor deze maatregel
+title: Neem het kunnen uitvoeren van een audit over de vereiste op in contractvoorwaarden en de contractovereenkomst 
+id: urn:nl:ak:mtr:owp-21
+# geef hier een korte toelichting van deze maatregel
+toelichting: Het is van belang dat opdrachtgever mogelijkheden heeft om te controleren in hoeverre door aanbieder/opdrachtnemer wordt voldaan aan naleving van de vereiste.  
+# vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
 - aia-02-documentatie-beoordeling-niet-hoog-risico-ai
 - aia-03-risicobeheersysteem
@@ -58,14 +62,19 @@ vereiste:
 - grw-02-non-discriminatie
 - woo-01-recht-op-toegang-tot-publieke-informatie
 
+# vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 
 - ontwerp
-- ontwikkelen
+
+# vul hier de bouwblokken in die horen bij deze maatregel
 onderwerp: 
 - publieke-inkoop
+
+# vul hier de rollen in die betrokken zijn bij deze maatregel
 rollen:
 - projectleider
 - beleid-en-advies
+  
 hide:
 - navigation
 - toc
@@ -76,11 +85,11 @@ hide:
 
 ## Maatregel
 <!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
-Maak de vereiste onderdeel van de contractovereenkomst 
+Neem het kunnen uitvoeren van een audit over de vereiste op in contractvoorwaarden en de contractovereenkomst 
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Door de vereiste onderdeel te namen van de contractovereenkomst, zijn deze voorwaarden voor opdrachtgever richting aanbieder/opdrachtnemer afdwingbaar. Het is van belang dat bij de behoeftestelling een afweging wordt gemaakt in hoeverre de betreffende vereiste van toepassing is. 
+Het is van belang dat opdrachtgever mogelijkheden heeft om te controleren in hoeverre door aanbieder/opdrachtnemer wordt voldaan aan naleving van de contractvoorwaarden
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
@@ -91,12 +100,13 @@ Door de vereiste onderdeel te namen van de contractovereenkomst, zijn deze voorw
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
-| Bron                        |
-|-----------------------------|
-| Algoritmekader |  
-| [Contractvoorwaarden gemeente Amsterdam](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/contractvoorwaarden-algoritmen/) |
-| [Europese Inkoopvoorwaarden Hoog Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_template_High_Risk%20NL.pdf) |
-| [Europese Inkoopvoorwaarden Laag Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_Template_NON_HIGH_RISK_NL.pdf) |
+- [Contractvoorwaarden gemeente Amsterdam](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/contractvoorwaarden-algoritmen/)
+- [Europese Inkoopvoorwaarden Hoog Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_template_High_Risk%20NL.pdf)
+- [Europese Inkoopvoorwaarden Laag Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_Template_NON_HIGH_RISK_NL.pdf)
+
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Er kunnen geen controles of inspecties worden uitgevoerd om te beoordelen of de algoritmes van aanbieder nog voldoen aan de vereisten voor een verantwoorde inzet van algoritmes. 
 
 
 ## Voorbeeld

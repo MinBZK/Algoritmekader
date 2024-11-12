@@ -1,5 +1,5 @@
 ---
-title: Controle of eigenaarschap over de data
+title: Zorg dat je controle of eigenaarschap hebt over de data
 toelichting: De organisatie heeft volledige controle of eigenaarschap over de data. Wanneer dit niet mogelijk is, zijn afspraken gemaakt om de functionele eisen te waarborgen.
 vereiste:
 - aia-05-data-kwaliteitscriteria
@@ -27,7 +27,7 @@ Wanneer een algoritme ontwikkeld of ingekocht wordt, is het belangrijk om toegan
 Maak bijvoorbeeld afspraken over wie ervoor zorgt dat de data:
 
 - op een centrale plek beschikbaar wordt gesteld
-- van voldoende kwaliteit is
+- van voldoende [kwaliteit](3-dat-01-datakwaliteit.md) is
 - goed beveiligd is
 
 Wanneer een algoritme wordt ontwikkeld door een derde partij en dus niet wordt beheerd door de eigen organisatie, maak je duidelijke afspraken over eigenaarschap van de data. Dat geldt zowel voor de inputdata als de outputdata. 

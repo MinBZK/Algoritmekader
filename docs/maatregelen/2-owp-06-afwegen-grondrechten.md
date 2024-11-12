@@ -1,27 +1,20 @@
 ---
-# vul hier een titel in voor deze maatregel
 title: Inventariseer welke grondrechten het algoritme kan schenden en maak een belangenafweging
 id: urn:nl:ak:mtr:owp-06
-# geef hier een korte toelichting van deze maatregel
 toelichting: Afwegen grondrechten
 vereiste:
 - grw-01-fundamentele-rechten
 - aia-27-beoordelen-gevolgen-grondrechten
-# vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus:
 - probleemanalyse
 - ontwerp
 - verificatie-en-validatie
 - monitoring-en-beheer
-
-# vul hier de bouwblokken in die horen bij deze maatregel
 onderwerp: 
 - fundamentele-rechten
-
 rollen:
 - projectleider
 - beleid-en-advies
-
 hide:
 - navigation
 ---
@@ -63,7 +56,8 @@ Documenteer de doorlopen stappen en leg de keuzes en afwegingen goed vast.
 
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
-[Impact Assessment Mensenrechten en Algoritmes, deel 4](../instrumenten/IAMA.md)
+- [Impact Assessment Mensenrechten en Algoritmes, deel 4](../instrumenten/IAMA.md)
+- [Ethics guidelines for trustworthy AI, deel 63](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai)
 
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->

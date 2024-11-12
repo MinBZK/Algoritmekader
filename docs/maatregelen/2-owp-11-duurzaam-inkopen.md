@@ -36,8 +36,8 @@ Om software duurzaam in te kopen, kun je aanbieders beoordelen op specifieke duu
 Vraag om inzicht in milieuprestaties en certificeringen, zoals ISO-14001, om de toewijding van aanbieders aan duurzaamheid te toetsen.
 De ISO-14001 is een internationaal geaccepteerde standaard met eisen voor een milieumanagementsysteem.
 
-### Aanbestedingsvoorwaarden en contractuele eisen
-Stel in aanbestedingen duidelijke eisen aan duurzaamheidscriteria, zoals het gebruik van "groene technologieën, het aanbieden van Software-as-a-Service (SaaS) en open standaarden. Zo maak je duurzame keuzes die bijdragen aan een langere levensduur en energie-efficiëntie van je algoritmes. Door KPI’s op te nemen voor energie-efficiëntie en CO₂-reductiedoelen kun je de voortgang van deze doelen concreet monitoren.
+### Inkoopvoorwaarden en contractuele eisen
+Stel bij het inkopen duidelijke eisen aan duurzaamheidscriteria, zoals het gebruik van "groene technologieën", het aanbieden van Software-as-a-Service (SaaS) en open standaarden. Zo maak je duurzame keuzes die bijdragen aan een langere levensduur en energie-efficiëntie van je algoritmes. Door KPI’s op te nemen voor energie-efficiëntie en CO₂-reductiedoelen kun je de voortgang van deze doelen concreet monitoren. Je kunt deze voorwaarden opnemen als [standaard inkoopvoorwaarden](../hulpmiddelen/inkoopvoorwaarden.md).
 
 ### Bonus-malusregeling en monitoring
 Om naleving van duurzame doelstellingen te stimuleren, kun je een bonus-malusregeling inzetten. Aanbieders ontvangen een bonus wanneer zij duurzame doelstellingen halen, en kunnen worden aangesproken als beloofde duurzaamheidsnormen niet worden behaald. Monitoring via jaarlijkse rapportages helpt om de voortgang van de duurzaamheidsdoelen te evalueren en, indien nodig, bij te sturen.

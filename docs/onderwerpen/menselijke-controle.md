@@ -4,7 +4,10 @@ summary:
 icon: material/account-check
 ---
 
-# Wat is menselijke controle?
+# Menselijke controle over agoritmes
+Algoritmes van de overheid moeten onder controle blijven van mensen. Presteert het algoritme of AI-systeem niet goed, dan moet een mens dit kunnen aanpassen of stoppen.
+
+## Wat is menselijke controle?
 Menselijke controle over een algoritme of AI-systeem betekent dat mensen invloed hebben op de uitkomsten. Mensen moeten het ontwerp van het algoritme of AI-systeem kunnen aanpassen. En mensen moeten het algoritme of AI-systeem kunnen stoppen. Zo kun je op tijd ingrijpen als er iets fout gaat.
 
 ## Belang van menselijke controle

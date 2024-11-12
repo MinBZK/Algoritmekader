@@ -52,7 +52,7 @@ hide:
 
 ## Maatregel
 <!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
-Maak vereisten onderdeel van (sub)gunningscriteria bij gunningscriteria beste prijs-kwaliteitverhouding. 
+Maak vereisten onderdeel van (sub)gunningscriteria bij een aanbesteding.
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->

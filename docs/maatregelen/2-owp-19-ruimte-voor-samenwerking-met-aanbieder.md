@@ -1,12 +1,8 @@
 ---
-# vul hier een titel in voor deze maatregel
 title: Creëer ruimte om met een aanbieder samen te gaan werken om specifieke vereisten te realiseren
 id: urn:nl:ak:mtr:owp-19
-# geef hier een korte toelichting van deze maatregel
 toelichting: Om op een betekenisvolle manier invulling te geven bepaalde vereisten, kan het noodzakelijk zijn dat de opdrachtgever en aanbieder (innovatief) moeten samenwerken om specifieke vereisten te realiseren. 
-# vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
-
 - aia-02-documentatie-beoordeling-niet-hoog-risico-ai
 - aia-03-risicobeheersysteem
 - aia-04-risicobeoordeling-voor-jongeren-en-kwetsbaren
@@ -63,15 +59,13 @@ vereiste:
 - grw-02-non-discriminatie
 - woo-01-recht-op-toegang-tot-publieke-informatie
 
-# vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 
 - ontwerp
+- ontwikkelen
 
-# vul hier de bouwblokken in die horen bij deze maatregel
 onderwerp: 
 - publieke-inkoop
 
-# geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn
 rollen:
 - projectleider
 
@@ -91,7 +85,7 @@ Creëer ruimte om met een aanbieder samen te gaan werken om specifieke vereisten
 <!-- Geef hier een toelichting van deze maatregel -->
 - Om op een betekenisvolle manier invulling te geven aan bepaalde vereisten, kan het noodzakelijk zijn dat opdrachtgever en aanbieder (innovatief) moeten gaan samenwerken. Op basis van nieuwe wet- en regelgeving (bv. AI-Verordening) of geharmoniseerde standaarden kunnen aanbieders mogelijk nog niet voldoen aan nieuwe vereisten. Het kan ook onduidelijk zijn hoe moet worden voldaan aan vereisten nu de technologie zich snel ontwikkelt of dat de specifieke omstandigheden van het beoogde gebruik vragen om een samenspel tussen opdrachtgever en aanbieder.
 
-- Bij een verantwoorde inzet van algoritmes kan het bij vereisten zoals non-discriminatie, transparantie en eerbiedigen van fundamentele rechten van belang zijn om samen te onderzoeken en te duiden (na het afsluiten van een contract) hoe hier invulling aan moet worden gegeven. Het is belangrijk om bij de behoeftestelling al te verkennen om welke onderwerpen dit mogelijk van toepassing is. Bij een marktverkenning of informatiesessie kan worden verkend hoe aanbieders ervoor staan. Op basis hiervan kan worden beoordeeld in hoeverre bijvoorbeeld in een aanbesteding contractuele ruimte moet worden gecreëerd voor opdrachtgever en aanbieder om hieraan te werken. 
+- Bij een verantwoorde inzet van algoritmes kan het bij vereisten zoals [non-discriminatie](../onderwerpen/bias-en-non-discriminatie.md), [transparantie](../onderwerpen/transparantie.md), [menselijke controle](../onderwerpen/menselijke-controle.md) en [grondrechten](../onderwerpen/fundamentele-rechten.md) van belang zijn om samen te onderzoeken hoe hier invulling aan moet worden gegeven. Het is belangrijk om bij de behoeftestelling al te verkennen om welke onderwerpen dit mogelijk van toepassing is. Bij een marktverkenning of informatiesessie kan worden verkend hoe aanbieders ervoor staan. Op basis hiervan kan worden beoordeeld in hoeverre bijvoorbeeld in een aanbesteding contractuele ruimte moet worden gecreëerd voor opdrachtgever en aanbieder om hieraan te werken. 
 
 
 ## Bijbehorende vereiste(n)
@@ -109,6 +103,7 @@ Creëer ruimte om met een aanbieder samen te gaan werken om specifieke vereisten
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
 Door niet te kunnen samenwerken aan vereisten, kan de situatie ontstaan dat uiteindelijk niet op een betekenisvolle manier wordt voldaan aan deze vereisten voor een verantwoorde inzet van algoritmes.
+Gebrek aan samenwerking kan leiden tot onvermogen om de benodigde vereisten voldoende in de praktijk te garanderen. Ook is het belangrijk dat de verantwoordelijke goed genoeg begrijpt hoe het algoritme werkt en welke keuzes er gemaakt zijn tijdens het ontwerp, omdat alleen dan goed beoordeeld kan worden welke vereisten zijn voldaan en welke risico’s nog niet of minder goed zijn afgedekt. 
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->

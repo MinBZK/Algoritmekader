@@ -8,6 +8,7 @@ Als overheid moet je de grondrechten van burgers beschermen. Dit geldt ook als j
  
 ## Wat is het beschermen van grondrechten in algoritmes?
 Dit betekent dat je tijdens het ontwikkelen en gebruiken van algoritmes rekening houdt met de fundamentele rechten van de mens:
+
 * grondrechten uit de [Grondwet](https://www.denederlandsegrondwet.nl/id/vlxups19rfoe/hoofdstuk_1_grondrechten)
 * mensenrechtenverdragen zoals het [Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EVRM)](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=LEGISSUM:eu_human_rights_convention).
 

@@ -30,7 +30,7 @@ Belanghebbenden zijn onder meer eindgebruikers, mensen en rechtspersonen die doo
 <!-- Geef hier een toelichting van deze maatregel -->
 Algoritmes worden vaak gebruikt binnen een (specifieke) context waar deze invloed op uitoefenen.
 Medewerkers moeten bijvoorbeeld werken met de uitkomsten of anderen zijn onderwerp van het algoritme.
-Om te voorkomen dat er een mismatch ontstaat met de realiteit, is het van belang om specifieke domeinkennis te betrekken.
+Om te voorkomen dat er een mismatch ontstaat met de realiteit, is het van belang om verschillende belanghebbende mee te nemen. Het betrekken van specifieke domeinkennis kan bijvoorbeeld in de vorm van kennisdelingsessies of workshops.
 
 Het betrekken van belanghebbenden is van belang in bijna alle fasen van de levenscyclus.
 
@@ -64,7 +64,7 @@ Terugkoppelen aan buitenwereld.
 - [Toetsingskader Algemene Rekenkamer 2.12](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [The Fairness Handbook](https://openresearch.amsterdam/nl/media/inline/2022/7/14/fairness_handbook.pdf)                                                     
 - [Handreiking non-discriminatie by design](https://open.overheid.nl/repository/ronl-3f9fa69c-acf4-444d-96e1-5c48df00eb3c/1/pdf/bijlage-1-handreiking-non-discriminatie-by-design.pdf)
-- Ethics Guidelines for Trustworthy AI
+- [Ethics Guidelines for Trustworthy AI](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai)
 - [Onderzoekskader Algoritmes Auditdienst Rijk, SV.10](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)      
 
 ## Risico 
@@ -75,10 +75,10 @@ Ontwikkelaars kunnen bijvoorbeeld missen dat in de context van het algoritme een
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
+Er zijn veel verschillende methoden om belanghebbenden te betrekken. Zo kan je bijvoorbeeld werken met persona’s of ‘empathy maps’ maken. Ook kan je focusgroepen houden. Denk dan bijvoorbeeld aan een burgerpanel.
 
-Richt een burgerpanel in.
+Andere methoden zijn: Methodologie van Waag, Civic AI lab, Stakeholder escalation ladder.
+<!-- moet nog worden aangevuld met uitleg, en linkjes -->
 
-Methodologie van Waag, Civic AI lab, Stakeholder escalation ladder.
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
-
 

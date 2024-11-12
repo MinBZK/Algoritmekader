@@ -3,6 +3,7 @@ title: Gebruik duurzame datacenters
 id: urn:nl:ak:mtr:dat-07
 toelichting: Maak gebruik van datacenters die gebruikmaken van duurzame energiebronnen en energie-efficiënte technologieën voor de opslag en verwerking van data.  
 levenscyclus:
+- ontwerp
 - dataverkenning-en-datapreparatie
 - ontwikkelen
 - implementatie
@@ -12,6 +13,7 @@ onderwerp:
 rollen:
 - ontwikkelaar
 - projectleider
+- beleid-en-advies
 hide:
 - navigation
 - toc
@@ -25,13 +27,13 @@ hide:
 Maak gebruik van datacenters die gebruikmaken van duurzame energiebronnen en energie-efficiënte technologieën voor de opslag en verwerking van data.
 
 ## Toelichting
-Door data op te slaan en algoritmes te laten draaien in datacenters die hernieuwbare energiebronnen inzetten en restwarmte recyclen, kun je de ecologische voetafdruk van je applicaties aanzienlijk verkleinen.
-Datacenters die zich op duurzaamheid richten, verlagen de CO₂-uitstoot van hun infrastructuur en bieden mogelijk duurzaamheidsrapportages. Let bij het kiezen van een provider op mogelijke greenwashing; dit gebeurt wanneer bedrijven beweren groen te zijn zonder dit met concrete maatregelen te onderbouwen.
+Door data op te slaan en algoritmes te laten draaien in datacenters die hernieuwbare energiebronnen inzetten en bijvoorbeeld de ontstane restwarmte recyclen, kun je de ecologische voetafdruk van de algoritmes aanzienlijk verkleinen.
+Datacenters die zich op duurzaamheid richten, verlagen de CO₂-uitstoot van hun infrastructuur en bieden mogelijk duurzaamheidsrapportages. Let bij het kiezen van een aanbieder op mogelijke greenwashing; dit gebeurt wanneer bedrijven beweren groen te zijn zonder dit met concrete maatregelen te onderbouwen.
 
 ### Technologieën voor energie-efficiënte datacenters
 Om datacenters energie-efficiënt te maken, zijn er verschillende benaderingen:
-- **Gebruik van groene energiebronnen**: Kies voor datacenters/providers die hernieuwbare energie gebruiken. Maak bijvoorbeeld afspraken over [een doel, zoals een DCie-score van minimaal 50%](https://www.denkdoeduurzaam.nl/themas/ict/doelen), gewogen over een heel jaar. De DCie score van elk Overheids Datacenter (ODC) [kun je hier bekijken](https://rijksictdashboard.nl/duurzaamheid).
-Je kunt ook kijken of ze naast duurzame stroom ook restwarmte van servers benutten om bijvoorbeeld nabijgelegen gebouwen te verwarmen.
+- **Gebruik van groene energiebronnen**: Kies voor datacenters/aanbieders die hernieuwbare energie gebruiken. Maak bijvoorbeeld afspraken over [een doel, zoals een DCie-score van minimaal 50%](https://www.denkdoeduurzaam.nl/themas/ict/doelen), gewogen over een heel jaar. De DCie score van elk Overheids Datacenter (ODC) [kun je hier bekijken](https://rijksictdashboard.nl/duurzaamheid).
+Je kunt ook kijken of naast duurzame stroom ook restwarmte van servers wordt benut om bijvoorbeeld nabijgelegen gebouwen te verwarmen.
 - **Koeling en energiebeheer optimaliseren**: Adiabatische koeling, waarbij water en lucht worden gebruikt in plaats van elektriciteit, verlaagt het energieverbruik. Efficiënte stroomverdeling en warmteterugwinning dragen verder bij aan een lagere ecologische voetafdruk.
 - **Monitoren**: Blijf controleren op duurzame prestaties door te letten op certificeringen, zoals [ISO 14001](https://www.nen.nl/milieu/milieumanagement), [ISO 50001](https://www.nen.nl/energie/energiemanagement) en [BREEAM](https://www.breeam.nl/certificeren-in-5-stappen), en vraag naar energierapportages en details over het energieverbruik en de herkomst van stroom. Dit helpt om claims van duurzaamheid te toetsen en te voorkomen dat je in greenwashing trapt.
 
@@ -39,7 +41,7 @@ Je kunt ook kijken of ze naast duurzame stroom ook restwarmte van servers benutt
 <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
-Door geen gebruik te maken van duurzame datacenters, loop je het risico op een hogere CO₂-uitstoot en hogere energiekosten.
+Door geen gebruik te maken van duurzame datacenters, loop je het risico op een hogere CO₂-uitstoot, en wordt daardoor niet aangesloten bij Rijksbreed beleid. Ook loop je risico op hogere energiekosten.
 
 ## Bronnen
 - [Rijks ICT Dashboard - Duurzaamheid](https://www.rijksictdashboard.nl/duurzaamheid)

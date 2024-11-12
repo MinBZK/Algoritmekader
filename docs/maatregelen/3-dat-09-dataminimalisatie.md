@@ -1,9 +1,10 @@
 ---
 title: Beperk de omvang van datasets voor energie-efficiëntie
 id: urn:nl:ak:mtr:dat-09
-toelichting: Houd datasets klein en gericht om onnodige energieconsumptie te voorkomen tijdens de verwerking en opslag van data voor algoritmes.
+toelichting: Houd datasets beperkt tot het noodzakelijke en voldoende specifiek om onnodige energieconsumptie te voorkomen tijdens de verwerking en opslag van data voor algoritmes.
 levenscyclus:
 - dataverkenning-en-datapreparatie
+- ontwikkelen
 onderwerp:  
 - data  
 - duurzaamheid
@@ -19,7 +20,7 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-Houd datasets klein en gericht om onnodige energieconsumptie te voorkomen tijdens de verwerking en opslag van data voor algoritmes. We noemen dit ook wel dataminimalisatie.
+Houd datasets beperkt tot het noodzakelijke en voldoende specifiek om onnodige energieconsumptie te voorkomen tijdens de verwerking en opslag van data voor algoritmes. We noemen dit ook wel dataminimalisatie.
 
 ## Toelichting
 Hoe meer je bewaart, hoe meer ruimte dat kost om op te slaan. Bovendien verbruikt elk apparaat dat nodig is om data op te slaan stroom. Dat heeft grote invloed op de CO₂-uitstoot van een datacentrum.

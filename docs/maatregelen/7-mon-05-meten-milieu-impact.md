@@ -31,7 +31,7 @@ Tref bijvoorbeeld de volgende maatregelen, wanneer je de milieu-impact van algor
 De milieu-impact van algoritmes kan worden gemeten en geoptimaliseerd door een [Digital Product Passport (DPP)](https://coalitieduurzamedigitalisering.nl/nieuws/digital-product-passport-samen-aan-de-slag/) te overwegen.
 DPP's bieden een platform voor duurzame rapportage door middel van real-time informatie over onder andere CO₂-uitstoot, herkomst en energiegebruik, wat kan helpen om de ecologische voetafdruk van een algoritme transparant te maken.
 Door deze gegevens structureel te verzamelen en te delen, kunnen gebruikers en bedrijven inzicht krijgen in de duurzaamheidsprestaties.
-De milieu-impact van verschillende algoritmes/modellen kan een rol spelen bij het kiezen van een model in de ontwerpfase.
+De milieu-impact van verschillende algoritmes/modellen kan een rol spelen bij het kiezen van een model in de ontwerpfase. Ook kan het ervoor zorgen dat je later kiest om een ander model te gebruiken, of het gebruik van een model of systeem zelfs te beëindigen.
 
 ### Milieu-impact assessments
 Wanneer de milieu-impact (in bepaalde mate) inzichtelijk is, kan er een milieu-impact assessment worden gedaan. Ga na of je organisatie die een heeft of overweeg deze te ontwikkelen.

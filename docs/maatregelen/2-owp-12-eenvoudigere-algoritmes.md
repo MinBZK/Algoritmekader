@@ -22,7 +22,6 @@ Ontwerp algoritmes gericht op eenvoud en efficiëntie, zodat het energieverbruik
 
 ## Toelichting
 Complexe algoritmes vereisen vaak aanzienlijke rekenkracht, wat energie-intensief kan zijn. Door algoritmes minder complex en rekenintensief te ontwerpen, verlaag je de benodigde middelen en energie bij het trainen en uiteindelijk toepassen van deze algoritmes. Een efficiënter ontwerp maakt de algoritmes energiezuiniger in de trainings- en gebruiksfase en draagt zo bij aan duurzaamheid in de gehele levenscyclus.
-Complexe algoritmes vereisen vaak aanzienlijke rekenkracht, wat energie-intensief kan zijn. Door algoritmes eenvoudiger te ontwerpen en optimalisaties toe te passen, kun je de benodigde rekencapaciteit en het energieverbruik drastisch verminderen zonder afbreuk te doen aan de prestaties.
 
 ### Modellen vereenvoudigen en focussen op kernfunctionaliteit
 Wanneer je een nieuw algoritme ontwikkelt, kun je de omvang en rekenbelasting beperken door alleen noodzakelijke functionaliteit op te nemen. Focus op de kernfunctionaliteit, zodat je gebruik maakt van een kleiner model dat beter te begrijpen en gemakkelijker te beheren is. Het vermijden van overbodige functionaliteiten maakt het algoritme minder zwaar en verlaagt de milieu-impact aanzienlijk.

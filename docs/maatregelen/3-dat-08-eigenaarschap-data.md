@@ -23,7 +23,7 @@ hide:
 De organisatie heeft volledige controle of eigenaarschap over de data. Wanneer dit niet mogelijk is, zijn afspraken gemaakt om de functionele eisen te waarborgen.
 
 ## Toelichting
-Wanneer een algoritme ontwikkeld of ingekocht wordt, is het belangrijk om toegang tot de gebruikte data goed te regelen.
+Wanneer een algoritme ontwikkeld of ingekocht wordt, is het belangrijk om [toegang tot de gebruikte data](3-dat-02-fair-data.md) goed te regelen.
 Maak bijvoorbeeld afspraken over wie ervoor zorgt dat de data:
 
 - op een centrale plek beschikbaar wordt gesteld

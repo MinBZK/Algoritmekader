@@ -21,7 +21,7 @@ hide:
 Stel vast of de gebruikte data van voldoende kwaliteit is voor de beoogde toepassing.
 
 ## Toelichting
-- Stel functionele eisen voor de data kwaliteit vast en analyseer structureel of er aan deze eisen wordt voldaan. 
+- Stel functionele eisen voor de data kwaliteit vast en [analyseer structureel of er aan deze eisen wordt voldaan](evalueer-bij-veranderingen-in-data.md). 
 - De kwaliteit van de data die als input voor het algoritme wordt gebruikt is bepalend voor de uitkomsten van het algoritme. Hier wordt soms ook naar gerefereerd als *garbage in = garbage out*. 
 - Een vraag die gesteld dient te worden: beschrijft de data het fenomeen dat onderzocht dient te worden? 
 - Het [Raamwerk gegevenskwaliteit](https://www.noraonline.nl/wiki/Raamwerk_gegevenskwaliteit) bevat een breed toepasbare set van kwaliteitsdimensies:

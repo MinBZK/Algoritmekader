@@ -1,8 +1,10 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Maak de vereiste onderdeel van Service Level Agreement
+title: Maak vereisten voor algoritmes onderdeel van de Service Level Agreement
+id: urn:nl:ak:mtr:owp-26
 # geef hier een korte toelichting van deze maatregel
-toelichting: Onderzoek of het relevant is om de vereiste onderdeel te maken van de Service Level Agreement. Met een SLA kunnen specifieke afspraken worden gemaakt over de kwaliteit van de dienstverlening.
+toelichting: Onderzoek of het relevant is om vereisten voor algoritmes te specificerenin de Service Level Agreement. Met een SLA kunnen specifieke afspraken worden gemaakt over de kwaliteit van de dienstverlening van aanbieder.
+
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
 - bio-01-beveiliging-informatie-en-informatiesystemen
@@ -25,19 +27,15 @@ vereiste:
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 
 - ontwerp
-- ontwikkelen
+
 # vul hier de bouwblokken in die horen bij deze maatregel
 onderwerp: 
 - publieke-inkoop
 # geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn
-# rollen:
-# - proceseigenaar
-# - behoeftesteller
-# - inkoopadviseur
-# - contractbeheerder
-# - aanbestedingsjurist
-# - data-scientist
-# - aanbieder
+rollen:
+ - projectleider
+ - beleid-en-advies
+ - ontwikkelaar
   
 hide:
 - navigation
@@ -52,10 +50,10 @@ Maak de vereiste onderdeel van Service Level Agreement
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Onderzoek of het relevant is om de vereiste onderdeel te maken van de Service Level Agreement (SLA). 
-Met een SLA kunnen specifieke afspraken worden gemaakt over de kwaliteit van de dienstverlening. 
-Hierbij kan worden gedacht aan onderwerpen als incidentmanagement, servicemanagement, verantwoordelijkheden matrix, hersteltijd, prestatiecriteria, reproduceerbaarheid, versiebeheer van de gebruikte algoritmes en AI-modellen en beveiliging. 
-Laat de aanbieder aangeven welke vormen van onderhoud aan het algoritme of AI-systeem nodig zijn en de snelheid waarmee signalen vanuit gebruik, ongeacht de bron, kunnen worden verwerkt in het systeem en welke expertise hiervoor beschikbaar is. 
+- Onderzoek met het inkoopteam het relevant is om vereiste voor een verantwoorde inzet van algoritmes onderdeel te maken van de Service Level Agreement. 
+- Met een SLA kunnen specifieke afspraken worden gemaakt over de kwaliteit van de dienstverlening van aanbieder.
+- Hierbij kan worden gedacht aan onderwerpen als incidentmanagement, servicemanagement, verantwoordelijkheden matrix, hersteltijd, prestatiecriteria, reproduceerbaarheid, versiebeheer van de gebruikte algoritmes en informatiebeveiliging. 
+- Laat de aanbieder aangeven welke vormen van onderhoud aan de betreffende algoritmes nodig zijn en de snelheid waarmee signalen vanuit gebruik, ongeacht de bron, kunnen worden verwerkt in het systeem en welke expertise hiervoor beschikbaar is. 
 
 
 ## Bijbehorende vereiste(n)
@@ -64,13 +62,16 @@ Laat de aanbieder aangeven welke vormen van onderhoud aan het algoritme of AI-sy
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
 <!-- list_vereisten_on_maatregelen_page -->
 
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Zonder concrete afspraken te maken in de SLA, ontstaat het risico dat aloritmes (tijdelijk) of te langdurig niet kunnen worden gebruikt, onjuist fuctioneren of dat er geen verantwoording over de output kan worden afgelegd.
+
+
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
-| Bron                        |
-|-----------------------------|
-| [Onderzoekskader Algoritmes Auditdienst Rijk, SV.11](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)   
-| Algoritmekader |        
+- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.11](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)   
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 1.05](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) 
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->

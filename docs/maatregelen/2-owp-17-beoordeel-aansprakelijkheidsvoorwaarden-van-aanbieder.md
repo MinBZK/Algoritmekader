@@ -34,7 +34,7 @@ Maak de aansprakelijkheidsvoorwaarden die een aanbieder stelt ten aanzien van au
 
 - Eindgebruikers van algoritmes kunnen er niet altijd op vertrouwen, of (eenvoudig) nagaan, of datgene wat zij door middel van een algoritme laten genereren, inbreuk maakt op rechten van anderen. Het is onwenselijk dat een eindgebruiker aansprakelijk wordt gesteld voor het maken van een inbreuk op rechten van derden, als deze gebruik maakt van algoritmes die worden aangeboden door aanbieders. Organisatie moeten daarom afspraken hierover maken met aanbieders.
 
-- Hoe groot de kans is dat eindgebruikers vanwege het gebruik van algoritmes aansprakelijk worden gesteld, is ng onduidelijk. Er zijn wel voorbeelden waarbij eindgebruikers voor een eventuele inbreuk aansprakelijk kunnen worden gesteld.
+- Hoe groot de kans is dat eindgebruikers vanwege het gebruik van algoritmes aansprakelijk worden gesteld, is nog onduidelijk. Er zijn wel voorbeelden waarbij eindgebruikers voor een eventuele inbreuk aansprakelijk kunnen worden gesteld.
 
 - Op dit moment zijn (nog) geen gevallen of rechtszaken bekend waarin eindgebruikers (of hun werkgevers) aansprakelijk zijn gesteld voor een inbreuk op het intellectuele-eigendomsrecht vanwege het gebruik van op basis van algoritme. Feit is echter wel dat een dergelijke aansprakelijkstelling in voorkomende gevallen dus mogelijk zullen zijn, te meer nu de aanbieders van algoritmes in hun algemene voorwaarden het risico voor aansprakelijkheid volledig of grotendeels uitsluiten, of zelfs verlangen dat gebruikers hen vrijwaren voor de gevolgen van eventuele aansprakelijkstellingen.
 

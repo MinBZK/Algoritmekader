@@ -1,6 +1,6 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Maak vereisten onderdeel van (sub)gunningscriteria bij gunningscriteria beste prijs-kwaliteitverhouding.
+title: Maak vereisten onderdeel van (sub)gunningscriteria bij een aanbesteding.
 id: urn:nl:ak:mtr:owp-18
 # geef hier een korte toelichting van deze maatregel
 toelichting: Door een vereiste onderdeel te maken van een (sub)gunningscriteria, ontstaat een mogelijkheid voor aanbieders om zich te onderscheiden van andere aanbieders. Dit kan zorgen voor een extra stimulatie op kwaliteitsaspecten van algoritmes. 

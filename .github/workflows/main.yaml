@@ -18,6 +18,7 @@ jobs:
         id: get_commit_hash
         run: |
           echo "commit_hash=$(git describe --tags)" >> "$GITHUB_OUTPUT"
+
       - name: inject version
         run: |
           sed -i 's/development/${{ steps.get_commit_hash.outputs.commit_hash }}/g' docs/version.md
@@ -26,9 +27,7 @@ jobs:
         with:
           python-version: 3.x
           cache: 'pip'
-      - run: |
-          pip install -r requirements.txt
-        env:
-          GITHUB_TOKEN: ${{ secrets.material_insiders_token }}
+      
+      - run: pip install -r requirements.txt
 
       - run: mkdocs gh-deploy --force

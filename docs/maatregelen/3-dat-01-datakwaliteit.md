@@ -43,7 +43,10 @@ Stel vast of de gebruikte data van voldoende kwaliteit is voor de beoogde toepas
     - [historische bias](../onderwerpen/bias-en-non-discriminatie.md#verschillende-vormen-van-bias)
     - [meetbias](../onderwerpen/bias-en-non-discriminatie.md#verschillende-vormen-van-bias)
     - [representatie bias](../onderwerpen/bias-en-non-discriminatie.md#verschillende-vormen-van-bias)
-  
+
+- Zorg dat je data [vindbaar, toegankelijk, interoperabel en herbruikbaar (FAIR)](3-dat-02-fair-data.md) is.
+
+
 !!! note "Let op!"
 
     Wanneer je een algoritme inkoopt en de ontwikkeling van het algoritme uitbesteedt aan een derde partij, houdt er dan dan rekening mee dat data traceerbaar en reproduceerbaar moet zijn. Maak hier heldere afspraken over met de aanbieder. 

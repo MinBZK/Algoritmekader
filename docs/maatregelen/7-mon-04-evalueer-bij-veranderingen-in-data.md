@@ -30,7 +30,7 @@ Het te laat opmerken van zo'n verandering kan grote gevolgen hebben.
 Daarom is het belangrijk om regelmatig te controleren en evalueren of:
 
 - de data van [voldoende kwaliteit is voor de beoogde toepassing](3-dat-01-datakwaliteit.md)
-- of het algoritme nog [presteert in lijn met de vastgestelde doelen](functioneren_in_lijn_met_doeleinden.md)
+- of het algoritme nog [presteert in lijn met de vastgestelde doelen](5-ver-01-functioneren-in-lijn-met-doeleinden.md)
 - de gegevens op de juiste en volledige manier worden verwerkt. 
 
 Zeker wanneer er gebruikt wordt gemaakt van informatie van derden, is het belangrijk om regelmatig te controleren of er veranderingen in de data zijn. Goede monitoring op datakwaliteit zorgt ervoor dat je voldoende controle hebt over de kwaliteit van de data, zelfs als je hiervoor afhankelijk bent van andere partijen. 

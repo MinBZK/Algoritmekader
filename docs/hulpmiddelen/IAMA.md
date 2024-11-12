@@ -4,7 +4,7 @@ toelichting: Het Impact Assessment voor Mensenrechten bij de inzet van Algoritme
 categorie: 
 - impact-assessment
 vereiste:
-- aia-29-beoordelen-gevolgen-grondrechten
+- aia-27-beoordelen-gevolgen-grondrechten
 - grw-01-fundamentele-rechten
 levenscyclus:
 - probleemanalyse

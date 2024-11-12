@@ -1,7 +1,7 @@
 ---
 title: Koop duurzaam algoritmes in
 id: urn:nl:ak:mtr:owp-11
-toelichting: Kies softwareoplossingen van leveranciers die duurzaamheid bevorderen, en stel heldere eisen aan energieverbruik, hernieuwbare energiebronnen en transparantie over de milieuprestaties van software.
+toelichting: Kies softwareoplossingen van aanbieders die duurzaamheid bevorderen, en stel heldere eisen aan energieverbruik, hernieuwbare energiebronnen en transparantie over de milieuprestaties van software.
 levenscyclus: 
 - ontwerp
 onderwerp: 
@@ -9,6 +9,7 @@ onderwerp:
 - duurzaamheid
 rollen:
 - projectleider
+- beleid-en-advies
 hide:
 - navigation
 - toc
@@ -19,27 +20,27 @@ hide:
 
 ## Maatregel
 <!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
-Kies softwareoplossingen van leveranciers die duurzaamheid bevorderen, en stel heldere eisen aan energieverbruik, hernieuwbare energiebronnen en transparantie over de milieuprestaties van software.
+Kies softwareoplossingen van aanbieders die duurzaamheid bevorderen, en stel heldere eisen aan energieverbruik, hernieuwbare energiebronnen en transparantie over de milieuprestaties van software.
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Door software duurzaam in te kopen, kun je als organisatie al vroeg in het ontwikkelproces bijdragen aan de verduurzaming van je algoritmes. Kies daarom softwareoplossingen van leveranciers die maatschappelijk verantwoord ondernemen (MVI) en energie-efficiëntie vooropstellen.
+Door software duurzaam in te kopen, kun je als organisatie al vroeg in het ontwikkelproces bijdragen aan de verduurzaming van je algoritmes. Kies daarom softwareoplossingen van aanbieders die maatschappelijk verantwoord ondernemen (MVI) en energie-efficiëntie vooropstellen.
 
-### Duurzaamheidscriteria en leveranciersselectie
-Om software duurzaam in te kopen, kun je leveranciers beoordelen op specifieke duurzaamheidscriteria. Enkele belangrijke criteria zijn:
+### Duurzaamheidscriteria en selectie van aanbieders
+Om software duurzaam in te kopen, kun je aanbieders beoordelen op specifieke duurzaamheidscriteria. Enkele belangrijke criteria zijn:
 
 - het energieverbruik van de software
 - het gebruik van hernieuwbare energiebronnen in de benodigde datacenters
 - het beperken van CO₂-uitstoot tijdens de levenscyclus van de software
 
-Vraag om inzicht in milieuprestaties en certificeringen, zoals ISO-14001, om de toewijding van leveranciers aan duurzaamheid te toetsen.
+Vraag om inzicht in milieuprestaties en certificeringen, zoals ISO-14001, om de toewijding van aanbieders aan duurzaamheid te toetsen.
 De ISO-14001 is een internationaal geaccepteerde standaard met eisen voor een milieumanagementsysteem.
 
 ### Aanbestedingsvoorwaarden en contractuele eisen
 Stel in aanbestedingen duidelijke eisen aan duurzaamheidscriteria, zoals het gebruik van "groene technologieën, het aanbieden van Software-as-a-Service (SaaS) en open standaarden. Zo maak je duurzame keuzes die bijdragen aan een langere levensduur en energie-efficiëntie van je algoritmes. Door KPI’s op te nemen voor energie-efficiëntie en CO₂-reductiedoelen kun je de voortgang van deze doelen concreet monitoren.
 
 ### Bonus-malusregeling en monitoring
-Om naleving van duurzame doelstellingen te stimuleren, kun je een bonus-malusregeling inzetten. Leveranciers ontvangen een bonus wanneer zij duurzame doelstellingen halen, en kunnen worden aangesproken als beloofde duurzaamheidsnormen niet worden behaald. Monitoring via jaarlijkse rapportages helpt om de voortgang van de duurzaamheidsdoelen te evalueren en, indien nodig, bij te sturen.
+Om naleving van duurzame doelstellingen te stimuleren, kun je een bonus-malusregeling inzetten. Aanbieders ontvangen een bonus wanneer zij duurzame doelstellingen halen, en kunnen worden aangesproken als beloofde duurzaamheidsnormen niet worden behaald. Monitoring via jaarlijkse rapportages helpt om de voortgang van de duurzaamheidsdoelen te evalueren en, indien nodig, bij te sturen.
 
 ## Extra overwegingen
 Extra overwegingen die je kunt maken bij het aankopen van algoritmes, zoals genoemd in de [handreiking 'Hoe maak ik mijn inkoop van software duurzamer?' van PIANOo](https://www.pianoo.nl/nl/document/19545/handreiking-hoe-maak-ik-mijn-inkoop-van-software-duurzamer):

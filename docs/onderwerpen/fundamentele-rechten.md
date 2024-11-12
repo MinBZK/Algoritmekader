@@ -1,6 +1,7 @@
 ---
 title: Grondrechten beschermen in algoritmes
 summary:
+icon: material/scale-balance
 ---
 
 # Grondrechten beschermen in algoritmes
@@ -28,11 +29,11 @@ Als overheid moet je hier goed op letten. Doe dit zo vroeg mogelijk in de [leven
 
 <!-- list_vereisten onderwerp/fundamentele-rechten no-search no-onderwerp no-rol no-levenscyclus -->
 
-## Maatregelen
+## Aanbevolen maatregelen
 
 <!-- list_maatregelen onderwerp/fundamentele-rechten no-search no-onderwerp no-rol no-levenscyclus -->
 
-## Instrumenten
+## Hulpmiddelen
 
 <!-- list_instrumenten onderwerp/fundamentele-rechten no-search no-onderwerp no-rol no-levenscyclus -->
 

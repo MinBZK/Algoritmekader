@@ -10,6 +10,8 @@ onderwerp:
 rollen:
 - projectleider
 - beleid-en-advies
+vereiste:
+- awb-01-zorgvuldigheidsbeginsel
 hide:
 - navigation
 - toc

@@ -4,7 +4,7 @@ summary:
 icon: material/account-check
 ---
 
-# Menselijke controle over agoritmes
+# Menselijke controle over algoritmes
 Algoritmes van de overheid moeten onder controle blijven van mensen. Presteert het algoritme of AI-systeem niet goed, dan moet een mens dit kunnen aanpassen of stoppen.
 
 ## Wat is menselijke controle?

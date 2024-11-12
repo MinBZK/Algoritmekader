@@ -34,9 +34,9 @@ Bepaal in elk geval zo vroeg mogelijk wie in welke levenscyclusfase verantwoorde
 Tijdens het gebruik kun je menselijke controle op de volgende manieren uitoefenen:
 
 * <span lang="en">Human in the loop</span>: Een mens moet de acties starten van het algoritme of AI-systeem. Het werkt niet uit zichzelf.
-* <span lang="en">Human on the loop</span: Mensen kunnen acties stoppen van het algoritme of AI-systeem.
-* <span lang="en">Human above the loop</span: Mensen houden overzicht en kunnen ingrijpen bij strategische en ethische beslissingen.
-* <span lang="en">Human before the loop</span: Het algoritme of AI-systeem interpreteert morele modellen die mensen vooraf bedenken. Deze oplossing is bedoeld voor volledig autonome algoritmes of AI-systemen. Dit zijn algoritmes die zelf beslissingen moeten nemen, bijvoorbeeld door tijdsdruk.
+* <span lang="en">Human on the loop</span>: Mensen kunnen acties stoppen van het algoritme of AI-systeem.
+* <span lang="en">Human above the loop</span>: Mensen houden overzicht en kunnen ingrijpen bij strategische en ethische beslissingen.
+* <span lang="en">Human before the loop</span>: Het algoritme of AI-systeem interpreteert morele modellen die mensen vooraf bedenken. Deze oplossing is bedoeld voor volledig autonome algoritmes of AI-systemen. Dit zijn algoritmes die zelf beslissingen moeten nemen, bijvoorbeeld door tijdsdruk.
 
 ### Feedback
 Na het bepalen van de manier van controleren, bepaal je de manier waarop je feedback krijgt over het algoritme of AI-systeem: Wat voor soort informatie moet bij wie terechtkomen? Aan wie moet een gebruiker bijvoorbeeld rapporteren dat het AI-systeem niet meer goed werkt?

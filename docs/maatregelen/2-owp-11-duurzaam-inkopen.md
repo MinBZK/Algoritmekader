@@ -64,7 +64,7 @@ Extra overwegingen die je kunt maken bij het aankopen van algoritmes, zoals geno
 <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
-Zonder duurzaamheidscriteria in de inkoop van software loop je het risico op hogere energie- en kostenlasten, en beperk je de mogelijkheden om duurzaamheidsdoelstellingen te halen bij je algoritmes.
+Zonder duurzaamheidscriteria bij het inkopen van software loop je het risico op hogere energie- en kostenlasten, en beperk je de mogelijkheden om duurzaamheidsdoelstellingen te halen bij je algoritmes.
 
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->

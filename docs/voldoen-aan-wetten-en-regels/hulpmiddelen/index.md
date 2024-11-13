@@ -38,7 +38,7 @@ De meeste hulpmiddelen zijn niet verplicht. Bepaal zelf of je er gebruik van maa
 
 ## Overzicht hulpmiddelen
 
-<!-- list_hulpmiddelen no-rol no-levenscyclus add-categorie no-id -->
+<!-- list_hulpmiddelen no-rol no-levenscyclus add-categorie no-id no-rol -->
 
 ## Help ons deze pagina te verbeteren
 Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/hulpmiddelen/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

@@ -1,42 +1,41 @@
 ---
-title: Fundamentele rechten
-summary: Hier staat een korte samenvatting over dit onderwerp
+title: Grondrechten beschermen in algoritmes
+summary:
 icon: material/scale-balance
 ---
 
-Wanneer overheden publieke taken uitvoeren, dienen fundamentele rechten van burgers te worden beschermd. 
-Dat geldt ook als overheden gebruik maken van algoritmes of AI-systemen om hun plublieke taken uit te voeren.  
+# Grondrechten beschermen in algoritmes
+Als overheid moet je de grondrechten van burgers beschermen. Dit geldt ook als je algoritmes of AI-systemen gebruikt voor publieke taken.
+ 
+## Wat is het beschermen van grondrechten in algoritmes?
+Dit betekent dat je tijdens het ontwikkelen en gebruiken van algoritmes rekening houdt met de fundamentele rechten van de mens:
 
-In Nederland beschermen we onze grondrechten met de [Grondwet](https://www.denederlandsegrondwet.nl/id/vlxups19rfoe/hoofdstuk_1_grondrechten) en met (internationale) mensenrechtenverdragen, zoals het [Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EVRM)](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=LEGISSUM:eu_human_rights_convention).
-Mensenrechtenverdragen bevatten een aantal fundamentele rechten en vrijheden die niet in de Grondwet staan.  
+* grondrechten uit de [Grondwet](https://www.denederlandsegrondwet.nl/id/vlxups19rfoe/hoofdstuk_1_grondrechten)
+* mensenrechtenverdragen zoals het [Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EVRM)](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=LEGISSUM:eu_human_rights_convention).
 
-Afhankelijk van de werking van algoritmes en AI-systemen en de publieke taak die wordt ondersteund, kunnen verschillende grondrechten worden geraakt. 
-Denk hierbij aan het verbod op ongelijke behandeling of het recht op eerbiediging van de persoonlijke levenssfeer. 
-Het is van belang hier in een vroeg stadium aandacht aan te besteden door dit te analyseren. 
-Een zorgvuldige aanpak tijdens de ontwikkeling van een algoritme kan ervoor zorgen dat er tijdig wordt geanticipeerd en maatregelen worden getroffen om een ongerechtvaardigde inbreuk op grondrechten te voorkomen. 
+## Belang van grondrechten beschermen
+Algoritmes en AI-systemen kunnen grondrechten schenden. Een bekend probleem is [bias in algoritmes](bias-en-non-discriminatie.md). Hierdoor worden resultaten onbetrouwbaar en kun je mensen ongelijk behandelen.
 
+Belangrijke grondrechten die vaak worden geraakt door algoritmen en AI zijn bijvoorbeeld:
 
-Een aantal wezenlijke grondrechten die vaak worden geraakt met de inzet van algoritmen en AI, komen ook afzonderlijk in andere onderdelen van het Algoritmekader aan bod. 
+* [recht op persoonsgegevensbescherming](privacy-en-gegevensbescherming.md)
+* [verbod op ongelijke behandeling](bias-en-non-discriminatie.md)
+* recht op eerbiediging van de persoonlijke levenssfeer
 
-Dit geldt bijvoorbeeld op het recht op persoonsgegevensbescherming in het bouwblok [Privacy en gegevensbescherming](privacy-en-gegevensbescherming.md) of het verbod op ongelijke behandeling in het bouwblok [Bias en non-discriminatie](bias-en-non-discriminatie.md).  
+Als overheid moet je hier goed op letten. Doe dit zo vroeg mogelijk in de [levenscyclus](../levenscyclus/index.md). De maatregelen die we adviseren, beginnen al bij het ontwerpen en trainen van algoritmes.
 
-In dit bouwblok van het algoritmekader beschrijven we wat de vereisten zijn rondom het beschermen van fundamentele rechten. 
-Vervolgens worden deze vereisten ook vertaald in praktische maatregelen en instrumenten die overheden kunnen toepassen om invulling te geven aan deze vereisten.  
-
-!!! info "Opmerking"
-
-    Dit bouwblok moet nog ontwikkeld worden. Deze pagina is dus nog niet volledig. Op deze pagina vind je mogelijk wel al onderdelen waar we aandacht aan willen besteden in dit bouwblok. 
-
-Onderdeel van het bouwblok Fundamentele rechten is het onderwerp [Bias en non-discriminatie](bias-en-non-discriminatie.md). 
 
 ## Vereisten
 
 <!-- list_vereisten onderwerp/fundamentele-rechten no-search no-onderwerp no-rol no-levenscyclus -->
 
-## Maatregelen
+## Aanbevolen maatregelen
 
 <!-- list_maatregelen onderwerp/fundamentele-rechten no-search no-onderwerp no-rol no-levenscyclus -->
 
-## Instrumenten
+## Hulpmiddelen
 
-<!-- list_instrumenten onderwerp/fundamentele-rechten no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- list_hulpmiddelen onderwerp/fundamentele-rechten no-search no-onderwerp no-rol no-levenscyclus -->
+
+## Help ons deze pagina te verbeteren
+Deel je idee, suggestie of opmerking via [GitHub](../Algoritmekader/edit/main/docs/onderwerpen/fundamentele-rechten/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

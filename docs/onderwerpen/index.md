@@ -33,7 +33,7 @@ hide:
 
     Hulp bij het verantwoordelijk omgaan met algoritmes en AI-systemen. Bijvoorbeeld het vastleggen van rollen en verantwoordelijkheden.
 
--   [Fundamentele rechten](fundamentele-rechten.md)
+-   [Grondrechten](fundamentele-rechten.md)
     
     ---
 
@@ -70,6 +70,3 @@ hide:
     Hulp bij transparant zijn over algoritmes en AI-systemen, zoals gebruikers informeren en publiceren in het algoritmeregister.
 
 </div>
-
-## Help ons deze pagina te verbeteren
-Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/onderwerpen/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

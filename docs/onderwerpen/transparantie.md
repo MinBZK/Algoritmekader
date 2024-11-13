@@ -36,6 +36,6 @@ Dit betekent bijvoorbeeld ook dat gebruikers bewust moet worden gemaakt dat zij 
 
 <!-- list_maatregelen onderwerp/transparantie no-search no-onderwerp no-rol no-levenscyclus -->
 
-## Instrumenten
+## hulpmiddelen
 
-<!-- list_instrumenten onderwerp/transparantie no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- list_hulpmiddelen onderwerp/transparantie no-search no-onderwerp no-rol no-levenscyclus -->

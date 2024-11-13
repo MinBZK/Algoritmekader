@@ -38,12 +38,12 @@ hide:
     <h2><b>Maatregelen</b></h2>
     <p>Overzicht van aanbevolen maatregelen voor verantwoord gebruik van algoritmes en AI-systemen. Het zijn adviezen om te voldoen aan de vereisten voor overheden. Andere maatregelen zijn ook mogelijk.</p>
     <ul>
-      <li><a href="maatregelen/voer_een_biasanalyse_uit/">Voer een biasanalyse uit</a></li>
-      <li><a href="maatregelen/backups/">Maak back-ups van algoritmes</a></li>
-      <li><a href="maatregelen/datakwaliteit/">Data is van voldoende kwaliteit</a></li>
+      <li><a href="maatregelen/5-ver-02-biasanalyse/">Toets het algoritme op bias</a></li>
+      <li><a href="maatregelen/7-mon-01-backups-maken/">Maak back-ups van algoritmes</a></li>
+      <li><a href="maatregelen/3-dat-01-datakwaliteit/">Controleer de datakwaliteit</a></li>
     </ul>
     <a href="maatregelen/" class="show-more"><b>Bekijk alle maatregelen</b></a>
-  </article>
+  </article>  
   
   <article class="styled-list">
     <h2><b>Hulpmiddelen</b></h2>

@@ -1,7 +1,8 @@
 ---
 title: Governance
 summary: Governance gaat over de inrichting van een organisatie en daar bijbehorende processen en verantwoordelijkheden.
-icon: material/bank
+hide: 
+- path
 ---
 
 ## Wat is governance
@@ -63,4 +64,8 @@ We geven bij deze maatregelen meer voorbeelden en best practices voor het inrich
 
 ## Aanbevolen maatregelen
 
-<!-- list_maatregelen onderwerp/governance no-levenscyclus no-search no-onderwerp no-rol  -->
+<!-- list_maatregelen onderwerp/governance no-levenscyclus no-search no-onderwerp no-rol -->
+
+## Aanbevolen hulpmiddelen
+
+<!-- list_hulpmiddelen onderwerp/governance no-levenscyclus no-search no-onderwerp no-rol no-id -->

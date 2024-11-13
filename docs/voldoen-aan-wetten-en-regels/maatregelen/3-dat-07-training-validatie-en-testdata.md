@@ -1,5 +1,6 @@
 ---
 title: Gebruik bij machine learning technieken gescheiden train-, test- en validatiedata en houdt rekening met underfitting en overfitting.
+id: urn:nl:ak:mtr:dat-07
 toelichting: Indien je gebruik maakt van machine learning technieken, maak een passende keuze voor gescheiden train-, test- en validatiedata en houd hierbij rekening met underfitting en overfitting. 
 vereiste:
 - aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging

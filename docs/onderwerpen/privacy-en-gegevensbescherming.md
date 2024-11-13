@@ -1,7 +1,7 @@
 ---
 title: Privacy en gegevensbescherming
-summary: Hier staat een korte samenvatting over dit onderwerp
-icon: material/shield-lock
+hide: 
+- path
 ---
 
 Overheidsinstanties verwerken vaak persoonsgegevens om hun taken uit te voeren en maatschappelijke waarden te creëren. Met de opkomst van algoritmes en kunstmatige intelligentie (AI) worden deze gegevens steeds vaker gebruikt om processen te optimaliseren, zoals bij het beoordelen van subsidieaanvragen of het verlenen van vergunningen.  
@@ -29,4 +29,4 @@ Door deze vereisten in de levenscyclus te integreren, kunnen de gebruikers inzic
 ## Hulpmiddelen
 
 
-<!-- list_hulpmiddelen onderwerp/privacy-en-gegevensbescherming no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- list_hulpmiddelen onderwerp/privacy-en-gegevensbescherming no-search no-onderwerp no-rol no-levenscyclus no-id -->

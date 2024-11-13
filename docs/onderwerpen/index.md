@@ -4,6 +4,7 @@ summary: Regels en adviezen per onderwerp, zoals publieke inkoop, duurzaamheid, 
 hide:
     - toc
     - navigation
+    - path
 ---
 # Onderwerpen
 

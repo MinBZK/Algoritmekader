@@ -1,6 +1,7 @@
 ---
 title: Duurzaam werken met algoritmes
-summary:
+hide: 
+- path
 ---
 
 # Duurzaam werken met algoritmes

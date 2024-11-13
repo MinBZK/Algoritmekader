@@ -1,5 +1,6 @@
 ---
 title: Maak (contractuele) afspraken over data en artefacten met een aanbieder
+id: urn:nl:ak:mtr:owp-27
 toelichting: Maak (contractuele) afspraken over de data en artefacten die ontstaan bij het gebruiken van algoritmes van aanbieders.
 vereiste:
 - aut-01-auteursrechten

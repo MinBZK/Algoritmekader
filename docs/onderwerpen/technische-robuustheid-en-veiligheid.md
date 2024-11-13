@@ -1,7 +1,7 @@
 ---
 title: Technische robuustheid en veiligheid
-summary: 
-icon: material/cog
+hide: 
+- path
 ---
 
 # Technische robuustheid en veiligheid
@@ -80,7 +80,7 @@ Maak een uitwijkplan voor incidenten. Het doel van dit plan is ervoor zorgen dat
 
 ## Hulpmiddelen
 
-<!-- list_hulpmiddelen onderwerp/technische-robuustheid-en-veiligheid no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- list_hulpmiddelen onderwerp/technische-robuustheid-en-veiligheid no-search no-onderwerp no-rol no-levenscyclus no-id -->
 
 ## Bronnen
 

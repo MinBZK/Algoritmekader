@@ -86,6 +86,7 @@ Aandachtspunten voor het beschermen van algoritmes tegen specifieke dreigingen:
 * Test periodiek of het algoritme weerbaar is tegen bekende aanvallen.
 
 Hiermee voorkom je:
+
 * misleiding, doordat het algoritme niet werkt op de bedoelde manier
 * verkeerde implementatie en daardoor een verkeerde werking
 

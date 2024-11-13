@@ -4,6 +4,7 @@ id: urn:nl:ak:mtr:org-01
 toelichting: De capaciteit en deskundigheid bij de ontwikkeling, het inkopen en gebruiken van algoritme en AI-systemen moet toereikend zijn om tot een verantwoorde toepassing te komen.
 vereiste: 
 - awb-01-zorgvuldigheidsbeginsel
+- aia-21-gebruiksverantwoordelijken-menselijk-toezicht
 levenscyclus: 
 - organisatieverantwoordelijkheden
 onderwerp: 

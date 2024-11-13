@@ -7,6 +7,14 @@ levenscyclus:
 - implementatie
 onderwerp:
 - transparantie
+soort-toepassing:
+- ai-systeem
+- ai-systeem-voor-algemene-doeleinden
+risicogroep:
+- hoog-risico-ai-systeem
+- geen-hoog-risico-ai-systeem
+rol-ai-act:
+- aanbieder
 rollen:
 - projectleider
 - ontwikkelaar

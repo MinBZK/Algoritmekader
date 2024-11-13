@@ -50,14 +50,14 @@ Een algoritme leest kentekens tijdens parkeercontroles. Het herkent de juiste le
 Een algoritme berekent het risico op fraude door mensen. Maar bij personen uit dezelfde groep geeft het algoritme de ene keer als uitkomst ‘hoog risico’ en de andere keer ‘geen risico’. De uitkomst is niet reproduceerbaar. Hierdoor is het algoritme niet robuust.
 
 ### Controles voorbereiden
-Bereid de controles voor tijdens de levenscyclusfases [probleemanalyse](../levenscyclus/probleemanalyse/index.md), [ontwerp](../levenscyclus/ontwerp/index.md) en [dataverkenning en datapreparatie](../levenscyclus/dataverkenning-en-datapreparatie/index.md). Onderzoek de situatie waarin je organisatie het algoritme gaat gebruiken: Wat zijn de risico’s? Welke onderdelen van het algoritme moet je evalueren? Analyseer de kwaliteit en variatie van de data. Bedenk maatregelen waarmee je de risico’s zoveel mogelijk voorkomt. En bedenk met welke methode je de controles gaat evalueren. 
+Bereid de controles voor tijdens de levenscyclusfases [probleemanalyse](../levenscyclus/probleemanalyse.md), [ontwerp](../levenscyclus/ontwerp.md) en [dataverkenning en datapreparatie](../levenscyclus/dataverkenning-en-datapreparatie.md). Onderzoek de situatie waarin je organisatie het algoritme gaat gebruiken: Wat zijn de risico’s? Welke onderdelen van het algoritme moet je evalueren? Analyseer de kwaliteit en variatie van de data. Bedenk maatregelen waarmee je de risico’s zoveel mogelijk voorkomt. En bedenk met welke methode je de controles gaat evalueren. 
 
 Ontwikkel je het algoritme zelf, controleer dan tijdens de ontwikkeling al wat er gebeurt in de verschillende situaties die je verwacht. Experimenteer met nieuwe combinaties van de inputdata en gebruik verschillende representatieve test-sets.
 
 ### Controles uitvoeren
-Voer de controles uit tijdens de [ontwikkelfas](../levenscyclus/ontwikkelen/index.md)e en de [verificatie- en validatiefase](../levenscyclus/verificatie-en-validatie/index.md). Test het algoritme goed. Evalueer hoe robuust en veilig het algoritme is. Verbeter het algoritme waar nodig. En monitor goed welke data het algoritme gebruikt, zodat je veranderingen in die data snel signaleert. Maak een noodplan voor als blijkt dat het algoritme niet meer werkt zoals het bedoeld was.
+Voer de controles uit tijdens de [ontwikkelfas](../levenscyclus/ontwikkelen.md)e en de [verificatie- en validatiefase](../levenscyclus/verificatie-en-validatie.md). Test het algoritme goed. Evalueer hoe robuust en veilig het algoritme is. Verbeter het algoritme waar nodig. En monitor goed welke data het algoritme gebruikt, zodat je veranderingen in die data snel signaleert. Maak een noodplan voor als blijkt dat het algoritme niet meer werkt zoals het bedoeld was.
 
-Blijf regelmatig controleren tijdens de fases [implementatie](../levenscyclus/implementatie/index.md) en [monitoring en beheer](../levenscyclus/monitoring-en-beheer/index.md). Dit zijn de fases waarin je het algoritme gebruikt. Presteert het algoritme niet goed, los het probleem dan op of [stop het gebruik](../levenscyclus/uitfaseren/index.md). 
+Blijf regelmatig controleren tijdens de fases [implementatie](../levenscyclus/implementatie.md) en [monitoring en beheer](../levenscyclus/monitoring-en-beheer.md). Dit zijn de fases waarin je het algoritme gebruikt. Presteert het algoritme niet goed, los het probleem dan op of [stop het gebruik](../levenscyclus/uitfaseren.md). 
 
 > [!TIP]
 > Houd rekening met concept drift. Dit betekent dat de eigenschappen van je data in de loop van de tijd kunnen veranderen. Hierdoor trekt je algoritme mogelijk verkeerde conclusies. Zo was er vóór 2020 een verband tussen thuiswerken en ziek zijn. Maar sinds de coronacrisis in 2020 is dit verband minder sterk, omdat gezonde mensen vaker thuiswerken. 
@@ -90,7 +90,7 @@ Hiermee voorkom je:
 * misleiding, doordat het algoritme niet werkt op de bedoelde manier
 * verkeerde implementatie en daardoor een verkeerde werking
 
-Begin zo vroeg mogelijk met beveiligen. Beveilig in elk geval in de fases [ontwikkelen](../levenscyclus/ontwikkelen/index.md), [verificatie en validatie](../levenscyclus/verificatie-en-validatie/index.md ), [implementatie](../levenscyclus/implementatie/index.md), [monitoring en beheer](../levenscyclus/monitoring-en-beheer/index.md) en [uitfaseren](../levenscyclus/uitfaseren/index.md).
+Begin zo vroeg mogelijk met beveiligen. Beveilig in elk geval in de fases [ontwikkelen](../levenscyclus/ontwikkelen.md), [verificatie en validatie](../levenscyclus/verificatie-en-validatie.md ), [implementatie](../levenscyclus/implementatie.md), [monitoring en beheer](../levenscyclus/monitoring-en-beheer.md) en [uitfaseren](../levenscyclus/uitfaseren.md).
 
 ## Verklein de kans op schade
 Veroorzaak zo min mogelijk schade als het toch fout gaat. En maak een noodplan voor incidenten. Het doel van dit plan is ervoor zorgen dat de fout zo min mogelijk gevolgen heeft voor de organisatie en de maatschappij. In het plan staat bijvoorbeeld wie wat moet doen als het systeem uitvalt.

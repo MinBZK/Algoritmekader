@@ -17,23 +17,8 @@ hide:
     <p>In augustus 2024 is de Verordening Artificiële Intelligentie in werking getreden. Lees meer over de AI-verordening of gebruik de beslishulp om te bepalen of de AI-verordening geldt voor jouw beoogde toepassing.</p>
     <ul>
       <li><a href="ai-verordening/">De AI-verordening in het kort</a></li>
-      <li><a href="https://ai-act-decisiontree.apps.digilab.network/">Gebruik de beslishulp AI-verordening</a></li>
     </ul>
-    <a href="https://ai-act-decisiontree.apps.digilab.network/" class="button button-primary">Voer beslishulp AI-verordening uit</a>
-    <!-- Modal Trigger -->
-    <p><a class="button" href="#popup1" id="openModalButton">Voer beslishulp AI-verordening uit</a></p>
-    <!-- Modal Structure -->
-    <div id="popup1" class="overlay">
-      <div class="popup">
-        <h2>Beslishulp AI-Verordening</h2>
-        <a class="close" href="javascript:void(0);" onclick="closeModal();">&times;</a>
-        <div class="content">
-          <div id="app">
-            <!-- Dynamisch script wordt hier geladen -->
-          </div>
-        </div>
-      </div>
-    </div>
+    <a href="https://ai-act-decisiontree.apps.digilab.network/" target="_blank" class="button md-button--secondary">Voer beslishulp AI-verordening uit</a>
   </article>
 </section>
 
@@ -73,37 +58,3 @@ hide:
     <a href="hulpmiddelen/" class="show-more"><b>Bekijk alle hulpmiddelen</b></a>
   </article>
 </section>
-
-<script>
-// Functie om de modal te openen
-document.getElementById('openModalButton').addEventListener('click', function() {
-  openModal();
-});
-
-function openModal() {
-  // Wacht even voor het openen van de modal om ervoor te zorgen dat de animaties zijn geladen
-  setTimeout(function() {
-    var scriptElement = document.createElement('script');
-    scriptElement.src = 'https://github.com/MinBZK/ai-act-decisiontree/releases/download/1.1.7/index.js';
-    scriptElement.type = 'text/javascript';
-    scriptElement.id = 'modalScript'; // Geef het script een id zodat we het kunnen verwijderen bij het sluiten van de modal
-    document.getElementById('app').appendChild(scriptElement);
-  }, 500); // Wacht 500ms voordat het script wordt geladen, pas dit aan indien nodig
-}
-
-// Functie om de modal te sluiten en het script te verwijderen
-function closeModal() {
-  document.getElementById('popup1').style.display = 'none'; // Verberg de modal
-  var scriptElement = document.getElementById('modalScript');
-  if (scriptElement) {
-    scriptElement.remove(); // Verwijder het script
-  }
-}
-
-// Zorg ervoor dat de modal niet wegklikt wanneer je buiten de modal klikt
-document.getElementById('popup1').addEventListener('click', function(event) {
-  if (event.target === this) {
-    closeModal();
-  }
-});
-</script>

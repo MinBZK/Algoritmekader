@@ -21,7 +21,7 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-Inventariseer en monitor de milieu-impact van algoritmes (bijvoorbeeld door het doen van een impact-assessment), zowel tijdens [ontwerp](../levenscyclus/ontwerpen.md) als bij het gebruik, en rapporteer deze om duurzame keuzes mogelijk te maken.
+Inventariseer en monitor de milieu-impact van algoritmes (bijvoorbeeld door het doen van een impact-assessment), zowel tijdens [ontwerp](../../levenscyclus/ontwerp.md) als bij het gebruik, en rapporteer deze om duurzame keuzes mogelijk te maken.
 
 ## Toelichting
 
@@ -38,7 +38,7 @@ Wanneer de milieu-impact (in bepaalde mate) inzichtelijk is, kan er een milieu-i
 
 ### Periodieke monitoring
 Probeer ook periodieke monitoringsrapporten op te stellen waarin de milieu-impact van algoritmes wordt bijgehouden.
-Hiermee vergroot je de duurzaamheid door [tijdig verbeteringen te signaleren en door te voeren](../levenscyclus/monitoring-en-beheer.md). Hierbij kan ook een onderscheid worden gemaakt in de impact tijdens de trainingsfase van het algoritme en de gebruiksfase. 
+Hiermee vergroot je de duurzaamheid door [tijdig verbeteringen te signaleren en door te voeren](../../levenscyclus/monitoring-en-beheer.md). Hierbij kan ook een onderscheid worden gemaakt in de impact tijdens de trainingsfase van het algoritme en de gebruiksfase. 
 
 ## Bijbehorende vereiste(n)
 <!-- list_vereisten_on_maatregelen_page -->

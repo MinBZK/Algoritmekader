@@ -29,7 +29,7 @@ Verdeel je dataset in drie delen:
 
     Deze dataset wordt gebruikt om het model te trainen. Uit deze dataset worden de onderliggende patronen of relaties geleerd die later gebruikt kunnen worden om voorspellingen mee te doen.
 
-    De [kwaliteit](3-dat-01-datakwaliteit.md) van deze dataset moet goed zijn en zo representatief mogelijk voor de doelpopulatie. Eventuele [bias](../onderwerpen/bias-en-non-discriminatie.md#verschillende-vormen-van-bias) of vooroordelen in deze dataset kan door het trainen in het model sluipen.
+    De [kwaliteit](3-dat-01-datakwaliteit.md) van deze dataset moet goed zijn en zo representatief mogelijk voor de doelpopulatie. Eventuele [bias](../../onderwerpen/bias-en-non-discriminatie.md#verschillende-vormen-van-bias) of vooroordelen in deze dataset kan door het trainen in het model sluipen.
 
    Let bij het samenstellen van de traningsset op dat de data waarop het model gebaseerd is, niet beschikbaar zijn voordat de uitkomsten zijn geobserveerd. Met andere woorden, zorg ervoor de de voorspellingen geen onderdeel kunnen zijn van de inputvariabelen. 
 

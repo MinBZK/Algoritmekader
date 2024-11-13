@@ -51,7 +51,7 @@ Het framework helpt organisaties om input van belanghebbenden daadwerkelijk te i
 
 ## Relevantie voor het Algoritmekader
 Betekenisvolle betrokkenheid van stakeholders is cruciaal voor verantwoord algoritmegebruik.
-Voor overheden biedt dit framework handvatten om transparanter te zijn over de ontwikkeling en impact van algoritmes en om een goed proces in te richten bij het gebruik van een algoritme. Dit sluit aan bij eisen rond [menselijke controle](../onderwerpen/menselijke-controle/index.md).
+Voor overheden biedt dit framework handvatten om transparanter te zijn over de ontwikkeling en impact van algoritmes en om een goed proces in te richten bij het gebruik van een algoritme. Dit sluit aan bij eisen rond [menselijke controle](../../onderwerpen/menselijke-controle.md).
 
 ## Auteurs en ontwikkeling
 Het framework is ontwikkeld door de European Center for Not-for-Profit Law Stichting (ECNL) en SocietyInside, als onderdeel van de Deense Tech for Democracy Initiative. De totstandkoming vond plaats via een consultatieproces met bijdragen van meer dan 150 individuen en organisaties wereldwijd, waaronder belanghebbenden uit het maatschappelijk middenveld, bedrijfsleven en overheden.

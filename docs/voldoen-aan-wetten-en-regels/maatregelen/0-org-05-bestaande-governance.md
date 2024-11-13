@@ -28,7 +28,7 @@ Bij de vormgeving van een algoritmegovernance van een organisatie is het van bel
 
 - IT governance
   
-- [datagovernance](../onderwerpen/data.md#goed-databeheer-datagovernance-en-datamanagement)
+- [datagovernance](../../onderwerpen/data.md#goed-databeheer-datagovernance-en-datamanagement)
   
 - informatiebeveiliging zoals governance rondom de [NIS2 richtlijn](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/nis2-richtlijn/)
   

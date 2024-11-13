@@ -38,4 +38,4 @@ Als overheid moet je hier goed op letten. Doe dit zo vroeg mogelijk in de [leven
 <!-- list_hulpmiddelen onderwerp/fundamentele-rechten no-search no-onderwerp no-rol no-levenscyclus -->
 
 ## Help ons deze pagina te verbeteren
-Deel je idee, suggestie of opmerking via [GitHub](../Algoritmekader/edit/main/docs/onderwerpen/fundamentele-rechten/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).
+Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/issues/new/choose) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

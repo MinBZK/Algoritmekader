@@ -98,7 +98,6 @@ function attachFilterListeners() {
     var filterSelect = document.getElementById("filterSelect");
     var levenscyclusSelect = document.getElementById("filterLevenscyclusSelect");
     var onderwerpSelect = document.getElementById("filterOnderwerpSelect");
-    var categorySelect = document.getElementById("filterCategorySelect");
     var filterInput = document.getElementById("filterInput");
 
     if (filterSelect) {
@@ -111,10 +110,6 @@ function attachFilterListeners() {
 
     if (onderwerpSelect) {
         onderwerpSelect.addEventListener('change', filterTable);
-    }
-
-    if (categorySelect) {
-        categorySelect.addEventListener('change', filterTable);
     }
 
     if (filterInput) {
@@ -144,11 +139,6 @@ function filterTable() {
         .filter(option => option.selected)
         .map(option => option.value.toUpperCase());
 
-    var categorySelect = document.getElementById("filterCategorySelect"); // Category filter
-    var selectedCategory = Array.from(categorySelect.options)
-        .filter(option => option.selected)
-        .map(option => option.value.toUpperCase());
-
     var table = document.getElementById("myTable");
     var tr = table ? table.getElementsByTagName("tr") : [];
 
@@ -157,25 +147,21 @@ function filterTable() {
         var roles = tr[i].getElementsByTagName("td")[1]; // Rollen column (td[1])
         var lc = tr[i].getElementsByTagName("td")[2];   // Levenscyclus column (td[2])
         var onderwerpen = tr[i].getElementsByTagName("td")[3]; // Onderwerpen column (td[3])
-        var cat = tr[i].getElementsByTagName("td")[4]; // Category column (td[4])
 
-        if (td && roles && lc && onderwerpen && cat) {
+        if (td && roles && lc && onderwerpen) {
             var txtValue = td.textContent || td.innerText;  // Maatregelen value
             var txtValue2 = roles.textContent || roles.innerText; // Rollen value
             var txtValue3 = lc.textContent || lc.innerText; // Levenscyclus value
             var txtValue4 = onderwerpen.textContent || onderwerpen.innerText; // Onderwerpen value
-            var txtValue5 = cat.textContent || cat.innerText; // category value
 
-            console.log(`Row ${i} values: `, { txtValue, txtValue2, txtValue3, txtValue4, txtValue5 });
+            console.log(`Row ${i} values: `, { txtValue, txtValue2, txtValue3, txtValue4 });
 
             // Check if all selected filters are present
             var roleMatch = selectedRoles.every(role => txtValue2.toUpperCase().indexOf(role) > -1);
             var lcMatch = selectedLevenscyclus.every(lc => txtValue3.toUpperCase().indexOf(lc) > -1);
             var onderwerpMatch = selectedOnderwerpen.every(onderwerp => txtValue4.toUpperCase().indexOf(onderwerp) > -1);
-            var catMatch = selectedCategory.every(cat => txtValue5.toUpperCase().indexOf(cat) > -1);
 
-
-            if (txtValue.toUpperCase().indexOf(filter) > -1 && roleMatch && lcMatch && onderwerpMatch && catMatch) {
+            if (txtValue.toUpperCase().indexOf(filter) > -1 && roleMatch && lcMatch && onderwerpMatch) {
                 tr[i].style.display = "";
             } else {
                 tr[i].style.display = "none";

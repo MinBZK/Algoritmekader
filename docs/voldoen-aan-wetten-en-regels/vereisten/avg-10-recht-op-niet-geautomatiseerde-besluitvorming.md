@@ -35,6 +35,12 @@ Het geautomatiseerd verwerken van gegevens voor de totstandkoming van een beslui
 Dit verbod geldt voor besluiten die **'rechtsgevolgen'** hebben voor een betrokkene, bijvoorbeeld een burger die een boete ontvangt voor de snelheidsovertreding, of hem anderzijds in **aanmerkelijke mate treft**. 
 Het besluit mag in die gevallen niet geautomatiseerd worden genomen. Een individu moet namelijk kunnen rekenen op voldoende 'menselijke tussenkomst' bij de beoordeling van belangrijke beslissingen die hem kunnen treffen.
 
+*Profilering*
+
+Elke vorm van een geautomatiseerde verwerking van persoonsgegevens waarbij aan de hand van persoonsgegevens bepaalde persoonlijke aspecten van een natuurlijke persoon worden geëvalueerd, met name met de bedoeling zijn beroepsprestaties, economische situatie, gezondheid, persoonlijke voorkeuren, interesses, betrouwbaarheid, gedrag, locatie of verplaatsingen te analyseren of te voorspellen. 
+
+Profilering is bijzonder gevolg. Volgens deze definitie gaat het om een verwerking door een computersysteem waarbij het systeem algemene aanname(s) toegepast in een concreet geval, door een individu met gebruikmaking van diens persoonsgegevens in te delen in een categorie(profiel), vaak in verband met aan dat profiel toegedichte risico's. De gevoeligheid is dat niet is vastgesteld dat die algemene aannames voor dat individu in de werkelijkheid ook opgaan. Als daar wel ook automatisch gevolgen aan worden verbonden voor dat individu, ontstaat daarom inherent een risico op ongerechtvaardigde uitkomsten. 
+
 *Besluit*
 
 Het begrip 'besluit' wordt zowel in art. 22 AVG als in art. 1:3 Awb toegepast. In de AVG wordt hier een ruime betekenis aan toegekend dan in de Awb.  In de AVG ket kan gaan om besluiten waar rechtsgevolgen aan verbonden zijn, maar het kan ook gaan om besluit waar slechts 'feitelijke gevolgen' aan verbonden zijn. Het is aannemelijk dat als er een evaluatie van natuurlijke personen plaatsvindt zoals beschreven in de definitie van profilering en hier een geautomatiseerde conclusie uit voortkomt, er sprake is van een besluit in de zin van art. 22 AVG. 

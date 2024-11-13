@@ -40,7 +40,7 @@ Deze vereiste geldt alleen voor impactvolle algoritmes en hoog-risico-AI-systeme
 
 ## Overzicht vereisten
 
-<!-- list_vereisten_all -->
+<!-- list_vereisten -->
 
 ## Help ons deze pagina te verbeteren
 Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/vereisten/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

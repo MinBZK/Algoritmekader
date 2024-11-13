@@ -36,24 +36,28 @@ Dit verbod geldt voor besluiten die **'rechtsgevolgen'** hebben voor een betrokk
 Het besluit mag in die gevallen niet geautomatiseerd worden genomen. Een individu moet namelijk kunnen rekenen op voldoende 'menselijke tussenkomst' bij de beoordeling van belangrijke beslissingen die hem kunnen treffen.
 
 *Besluit*
-Het begrip 'besluit' wordt zowel in art. 22 AVG als in art. 1:3 Awb toegepast. In de AVG heeft dit een ruimere strekking. Het kan gaan om besluiten waar rechtsgevolgen aan verbonden zijn, maar dit is ook van toepassing als hier slechts 'feitelijke gevolgen' aan verbonden zijn. Het is aannemelijk dat als er een evaluatie plaatsvindt zoals beschreven in de definitie van profilering en hier een geautomatiseerde conclusie uit voortkomt, er sprake is van een besluit in de zin van art. 22 AVG. 
 
-Het begrip besluit in de Awb heeft een veel minder ruime betekenis, omdat in de Awb belangrijke eisen aan vorm en inhoud worden gesteld om te kunnen kwalificeren als een 'besluit'. Als dit begrip gevolgd zou worden, dan ouden natuurlijke personen die onderhevig zijn aan geautomatiseerde verwerkingen van persoonsgegeven, met inbegrip van profilering, die enkel een aanmerkelijk (feitelijk) gevolg voor hen oplevert, niet worden beschermd. Dit wordt als onwenselijk beschouwd, omdat natuurlijke personen ook in deze situaties moeten worden beschermd. 
+Het begrip 'besluit' wordt zowel in art. 22 AVG als in art. 1:3 Awb toegepast. In de AVG wordt hier een ruime betekenis aan toegekend dan in de Awb.  In de AVG ket kan gaan om besluiten waar rechtsgevolgen aan verbonden zijn, maar het kan ook gaan om besluit waar slechts 'feitelijke gevolgen' aan verbonden zijn. Het is aannemelijk dat als er een evaluatie van natuurlijke personen plaatsvindt zoals beschreven in de definitie van profilering en hier een geautomatiseerde conclusie uit voortkomt, er sprake is van een besluit in de zin van art. 22 AVG. 
+
+Het begrip besluit in de Awb heeft een veel minder ruime betekenis. In de Awb worden belangrijke eisen aan vorm en inhoud, zoals een wijziging van de rechtspositie van een natuurlijk persoon, gesteld om te kunnen kwalificeren als een besluit. Als dit begrip zou worden gevolgd, dan zouden natuurlijke personen niet worden beschermd als deze onderhevig zijn aan geautomatiseerde verwerkingen van persoonsgegeven, met inbegrip van profilering, die enkel een aanmerkelijk (feitelijk) gevolg voor hen oplevert. Dit wordt als onwenselijk beschouwd. Ook in deze gevallen moeten natuurlijke personen worden beschermd.   
 
 *Rechtsgevolgen*
+
 Het begrip 'rechtsgevolg' duidt op wijziging in de rechtspositie van betrokkene. In deze context wijzigt de rechtspositie van een individu door een keuze van het systeem. Rechtsgevolgen kwalificeren altijd als relevant. 
 
 *Aanmerkelijke mate van getroffenheid*
+
 De Europese wetgever heeft weinig richting geven aan hoe dit begrip moet worden geïnterpreteerd. Er zijn wel aanknopingspunten om te duiden wanneer hier sprake van is. De EDPB spreekt van ernstige, aanzienlijke effecten, groot of belangrijk genoeg zijn om aandacht te verdienen. Dat is in ieder geval zo als het besluit het potentieel heeft om de omstandigheden, het gedrag of de keuze van de betrokken personen in aanmerkelijke mate te treffen; een langdurig of blijvend effect op de betrokkene te hebben; of in het uiterste geval, tot uitsluiting of discriminatie te leiden. Dit vraagt per geval om een analyse welke 'keuzes'van het systeem welke gevolgen hebben voor een individu en of die gevolgen rechtsgevolgen zijn of alleen een feitelijk gevolg. Een feitelijk gevolg.
 
-Toepassing
+*Toepassing*
+
 Volledig geautomatiseerde vaststelling van een publiekrechtelijk besluit zoals een aanslag, een boete of een vergunning heeft rechtsgevolgen. Een beslissing dat een bepaalde aanvraag in aanmerking komt voor handmatige controle heeft op zichzelf geen rechtsgevolg - de rechtspositie van de betrokkene wijzigt (nog) niet. Wel moet beoordeeld worden of de betrokkene door dat besluit anderszins (dus feitelijk) in aanmerkelijke mate wordt getroffen. 
 
 **Algemene eisen aan geautomatiseerde besluitvorming door overheden**
 
 De Nederlandse wetgever heeft in artikel 40 lid 1 UAVG gebruik gemaakt van de mogelijkheid een uitzondering te maken op het verbod van art. 22 lid 1 AVG. In Nederland is geautomatiseerde besluitvorming toegestaan, mits het gaat om besluitvorming waarbij menselijke tussenkomst geen toegevoegde waarde heeft, vanwege het gebonden karakter / de geringe beoordelingsruimte. Hierbij kan worden gedacht aan het toekennen van kinderbijslag of de hoogte van het recht op studiefinanciering, zo blijkt uit de Memorie van Toelichting. Deze uitzondering geldt niet voor 'profilering', tenzij er specifieke (sectorale) wetgeving het verbod opheft.
 
-Om deze uitzondering toe te kunnen passen, moet op grond van artikel 22 AVG een 'passende maatregel' in de vorm van wetgeving zijn opgesteld waarmee wordt voorzien in de bescherming van de rechten en vrijheden en gerechtvaardigde belangen van de betrokkene. In Nederland moet de Awb deze bescherming aan burgers bieden als bestuursorganen besluiten nemen. 
+Om deze uitzondering toe te kunnen passen, moet op grond van artikel 22 AVG een 'passende maatregel' in de vorm van wetgeving zijn opgesteld waarmee wordt voorzien in de bescherming van de rechten en vrijheden en gerechtvaardigde belangen van de betrokkene. In Nederland moet de Awb deze bescherming aan burgers bieden als bestuursorganen besluiten nemen. Dit moet bepaald worden aan de hand van een DPIA. 
 
 Een verwerkersverantwoordelijke moet, naast het toepassen van vereisten uit de AVG en specifieke (sectorale) wetgeving, beginselen uit de Awb vertalen naar concrete maatregelen om geautomatiseerde besluitvorming op een rechtmatige wijze toe te passen. Hierbij kan worden gedacht aan het [motiveringsbeginsel](awb-02-motiveringsbeginsel.md) of het [zorgvuldigheidsbeginsel](awb-01-zorgvuldigheidsbeginsel.md).
 

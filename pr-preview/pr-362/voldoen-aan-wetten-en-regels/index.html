@@ -827,40 +827,6 @@
   </article>
 </section>
 
-<script>
-// Functie om de modal te openen
-document.getElementById('openModalButton').addEventListener('click', function() {
-  openModal();
-});
-
-function openModal() {
-  // Wacht even voor het openen van de modal om ervoor te zorgen dat de animaties zijn geladen
-  setTimeout(function() {
-    var scriptElement = document.createElement('script');
-    scriptElement.src = 'https://github.com/MinBZK/ai-act-decisiontree/releases/download/1.1.7/index.js';
-    scriptElement.type = 'text/javascript';
-    scriptElement.id = 'modalScript'; // Geef het script een id zodat we het kunnen verwijderen bij het sluiten van de modal
-    document.getElementById('app').appendChild(scriptElement);
-  }, 500); // Wacht 500ms voordat het script wordt geladen, pas dit aan indien nodig
-}
-
-// Functie om de modal te sluiten en het script te verwijderen
-function closeModal() {
-  document.getElementById('popup1').style.display = 'none'; // Verberg de modal
-  var scriptElement = document.getElementById('modalScript');
-  if (scriptElement) {
-    scriptElement.remove(); // Verwijder het script
-  }
-}
-
-// Zorg ervoor dat de modal niet wegklikt wanneer je buiten de modal klikt
-document.getElementById('popup1').addEventListener('click', function(event) {
-  if (event.target === this) {
-    closeModal();
-  }
-});
-</script>
-
 
 
 

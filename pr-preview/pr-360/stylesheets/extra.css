@@ -157,6 +157,13 @@ tbody tr td a:hover {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Responsive columns */
   gap: 16px; /* Space between the boxes */
+  padding-bottom: 32px;
+}
+
+.float-container h2 {
+width: 100%;
+border-bottom: solid 3px #154271;
+padding-bottom: 8px;
 }
 
 .float-child {
@@ -358,7 +365,7 @@ tbody tr td a:hover {
   display: flex;
   flex-direction: row;
   align-items: center;
-  margin-bottom: 40px;
+  margin-bottom: 24px;
   text-align: left;
 }
 
@@ -372,7 +379,7 @@ tbody tr td a:hover {
 
 .version-label {
   font-size: 0.85em;
-  background-color: #e5f1f9;
+  background-color: #B1D5EC;
   color: #154273;
   padding: 4px;
   border-radius: 3px;
@@ -590,4 +597,18 @@ background-color: #B2D7EE;
 
 .md-typeset .tip>.admonition-title:before, .md-typeset .tip>summary:before{
   background-color: #154271;
+}
+
+.md-typeset .md-button--primary{
+  background-color: #154271;
+  color: #FFFFFF;
+  border-color: #154271;
+  text-decoration: none;
+}
+
+.md-typeset .md-button--primary:hover{
+  background-color: #01689B;
+  color: #FFFFFF;
+  border-color: #01689B;
+  text-decoration: none;
 }

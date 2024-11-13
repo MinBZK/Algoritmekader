@@ -94,7 +94,6 @@ extra_css:
   - stylesheets/filters.css
   - stylesheets/extra.css
   - stylesheets/footer.css
-  - stylesheets/modal.css
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
   - https://cdn.jsdelivr.net/npm/choices.js/public/assets/styles/choices.min.css  
 

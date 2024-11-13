@@ -8,6 +8,7 @@ vereiste:
 - aia-24-gebruiksverantwoordelijken-monitoren-werking
 - awb-01-zorgvuldigheidsbeginsel
 - aia-09-menselijk-toezicht
+- aia-21-gebruiksverantwoordelijken-menselijk-toezicht
 levenscyclus:
 - ontwerp
 - implementatie

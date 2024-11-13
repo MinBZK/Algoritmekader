@@ -5,7 +5,7 @@ toelichting: Als algoritmes of AI-systemen worden ingezet om te ondersteunen bij
 vereiste:
 - avg-10-recht-op-niet-geautomatiseerde-besluitvorming
 - grw-01-fundamentele-rechten
-- aia-24-gebruiksverantwoordelijken-monitoren-werking
+- aia-22-gebruiksverantwoordelijken-monitoren-werking
 - awb-01-zorgvuldigheidsbeginsel
 - aia-09-menselijk-toezicht
 - aia-21-gebruiksverantwoordelijken-menselijk-toezicht

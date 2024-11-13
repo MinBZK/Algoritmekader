@@ -34,7 +34,7 @@ Zeker wanneer ongewenste effecten optreden en maatregelen nodig zijn, is duideli
 Om deze reden kan het handig zijn om een matrix van belanghebbenden op te stellen.  
 Deze matrix kan in verdere fases helpen wanneer belanghebbenden betrokken moeten worden. In deze matrix kunnen de volgende onderdelen staan: 
 - Per belanghebbende een beschrijving van wie deze groep is 
-- Mate van invloed van belanghebbende op het algoritme of AI-systeem: wie, wanneer in de levenscyclus zorgt voor passende [menselijke controle](../onderwerpen/menselijke-controle.md)
+- Mate van invloed van belanghebbende op het algoritme of AI-systeem: wie, wanneer in de levenscyclus zorgt voor passende [menselijke controle](../../onderwerpen/menselijke-controle.md)
 - Impact van algoritme of AI-systeem op de belanghebbende 
 - Risico’s voor belanghebbende (wat zal de belanghebbende merken als het algoritme eventueel niet naar behoren functioneert).  
 

@@ -6,8 +6,6 @@ from mkdocs.structure.files import File, Files
 from re import Match
 import json
 
-# Updated _create_chip function to use the same linking logic as "maatregelen"
-# Updated _create_chip function to use dynamic PR preview path logic
 def _create_chip(item: str, chip_type: str, current_file: File, config: MkDocsConfig) -> str:
     if not item:
         return ""
@@ -15,7 +13,7 @@ def _create_chip(item: str, chip_type: str, current_file: File, config: MkDocsCo
     # Initialize icon and color
     icon_svg, color_class = "", ""
     
-    # Initialize base_url and detect PR preview environment
+    # Initialize base_url
     base_url = config.site_url if config.site_url else "/"
     
     # Determine chip-specific styles and icons
@@ -31,6 +29,10 @@ def _create_chip(item: str, chip_type: str, current_file: File, config: MkDocsCo
         color_class = 'teal'
         icon_svg = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2a7 7 0 0 0-7 7c0 2.38 1.19 4.47 3 5.74V17a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1v-2.26c1.81-1.27 3-3.36 3-5.74a7 7 0 0 0-7-7M9 21a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1v-1H9v1Z"></path></svg>'
         link = posixpath.join(base_url, 'onderwerpen', item)
+    elif chip_type == 'vereiste':
+        color_class = 'blue'
+        icon_svg = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20zM10 7l5 5-5 5V7z"/></svg>'
+        link = posixpath.join(base_url, 'vereisten', item)  # Define a path for 'vereiste'
     else:
         color_class = 'blue'
         icon_svg = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2 12a9 9 0 0 0 9 9c2.39 0 4.68-.94 6.4-2.6l-1.5-1.5A6.706 6.706 0 0 1 11 19c-6.24 0-9.36-7.54-4.95-11.95C10.46 2.64 18 5.77 18 12h-3l4 4h.1l3.9-4h-3a9 9 0 0 0-18 0Z"></path></svg>'
@@ -146,7 +148,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
 
         list: List[File] = []
         for file in files:
-            if not file.src_path.startswith(f"{content_type}/"):
+            if not file.src_path.startswith(f"voldoen-aan-wetten-en-regels/{content_type}/"):
                 continue
             if not file.src_path.endswith(".md"):
                 continue
@@ -217,7 +219,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
     def find_file_by_name(name: str, content_type: str, files: Files) -> File:
         for file in files:
             file_name = posixpath.splitext(posixpath.basename(file.src_path))[0]
-            if file.src_path.startswith(f"{content_type}/") and file_name == name:
+            if file.src_path.startswith(f"voldoen-aan-wetten-en-regels/{content_type}/") and file_name == name:
                 return file
         return None
    
@@ -251,8 +253,8 @@ def on_env(env, config: MkDocsConfig, files: Files):
         )
 
         file.page.content = re.sub(
-            r"<!-- list_instrumenten(.*?) -->",
-            lambda match: replace_content(match, "instrumenten"),
+            r"<!-- list_hulpmiddelen(.*?) -->",
+            lambda match: replace_content(match, "hulpmiddelen"),
             file.page.content,
             flags=re.I | re.M,
         )

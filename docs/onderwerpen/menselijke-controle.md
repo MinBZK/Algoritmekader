@@ -11,17 +11,22 @@ Algoritmes van de overheid moeten onder controle blijven van mensen. Presteert h
 Menselijke controle over een algoritme of AI-systeem betekent dat mensen invloed hebben op de uitkomsten. Mensen moeten het ontwerp van het algoritme of AI-systeem kunnen aanpassen. En mensen moeten het algoritme of AI-systeem kunnen stoppen. Zo kun je op tijd ingrijpen als er iets fout gaat.
 
 ## Belang van menselijke controle
-Algoritmes en AI-systemen van de overheid moeten goed werken. Anders kun je hiermee grote schade veroorzaken in de maatschappij. Daarom moet je steeds op een of andere manier controleren of alles goed werkt.
+Algoritmes kunnen schade veroorzaken in de maatschappij. Gebruik je een algoritme of AI-systeem voor een publieke taak, dan moet je dit continu op een of andere manier controleren. 
 
-Vóór gebruik controleren mensen bijvoorbeeld of het algoritme of AI-systeem goed getraind wordt. Is de [trainingsdata van goede kwaliteit](data.md)? Is het algoritme of AI-systeem [vrij van bias en discriminatie](bias-en-non-discriminatie.md), zodat je bepaalde groepen niet benadeelt? En kun je er het doel mee bereiken waarvoor het is ontworpen? 
+### Ontwerp
+Tijdens het ontwerp van een algoritme of AI-systeem controleer je bijvoorbeeld of het algoritme of AI-systeem op de juiste manier ‘getraind’ wordt. Maakt het bijvoorbeeld gebruik van een goede dataset, zonder bias, die representatief is voor de samenleving? En je controleert of het algoritme bepaalde groepen niet benadeelt. 
 
-Tijdens het gebruik moet de mens controles blijven uitvoeren. Zijn de uitkomsten bijvoorbeeld nog steeds [robuust](technische-robuustheid-en-veiligheid.md)? Dit soort controles zijn belangrijk omdat algoritmes en AI-systemen in de loop der tijd op een andere manier kunnen gaan werken:
+Voordat je een algoritme of AI-systeem gaat gebruiken, is het belangrijk om [het doel te bepalen](../voldoen-aan-wetten-en-regels/maatregelen/1-pba-02-formuleren-doelstelling.md). 
 
-* Situaties kunnen veranderen, zonder dat het algoritme of AI-systeem dit weet. Hierdoor kan het geen rekening houden met de nieuwe situatie. Een routenavigatiesysteem is bijvoorbeeld niet altijd op de hoogte van werkzaamheden aan de wegen.
-* AI-systemen leren soms nog bij. En je weet niet altijd of dit gebeurt op basis van betrouwbare data. Een beeldherkenningssysteem blijkt bijvoorbeeld honden te herkennen op foto’s door naar de achtergrond te kijken, in plaats van naar de hond.
-* Nieuwe mogelijkheden ontstaan door technologische ontwikkelingen. Opleidingen moeten bijvoorbeeld leren omgaan met het gebruik van ChatGPT door leerlingen.
+### Gebruik
+Tijdens het gebruik van een algoritme of AI-systeem is menselijke controle belangrijk omdat de werking verandert in de loop der tijd:
 
-Alleen mensen mogen dit soort belangrijke en ethische beslissingen maken. De meeste mensen in de maatschappij vinden dat alleen mensen goede keuzes kunnen maken over het soort controle dat nodig is op welk moment. Daarom kun je menselijke controle niet automatiseren. Mensen mogen zich hierbij wel laten helpen door computers of andere technologie.
+- Situaties kunnen veranderen. Het algoritme kan daarvan niet op de hoogte zijn. Een routeplanner kent bijvoorbeeld niet alle werkzaamheden of veranderingen aan de wegen.
+- AI-systemen leren soms nog bij. En soms is het niet duidelijk op welke data de uitkomsten gebaseerd zijn. Een beeldherkenningssysteem herkent bijvoorbeeld honden op foto’s op basis van de achtergrond in plaats van de hond zelf.
+- Nieuwe mogelijkheden ontstaan door technologische ontwikkelingen. Zo maken leerlingen en studenten massaal gebruik van large language modellen (LLM’s) zoals ChatGPT.
+
+### Mensen
+Er is maatschappelijke consensus dat alleen natuurlijke personen in staat zijn om een goede (ethische) afweging te maken over wanneer en welke controle nodig is. Menselijke controle kan je dus niet automatiseren. Mensen mogen zich hierbij wel laten helpen door computers of andere technologie. 
 
 ## Aanpak menselijke controle
 Je kunt op verschillende manieren controle houden over de prestaties van een algoritme of AI-systeem:
@@ -52,7 +57,3 @@ Na het bepalen van de manier van controleren, bepaal je de manier waarop je feed
 ## Aanbevolen maatregelen
 
 <!-- list_maatregelen onderwerp/menselijke-controle no-search no-onderwerp no-rol no-levenscyclus -->
-
-
-## Help ons deze pagina te verbeteren
-Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/onderwerpen/menselijke-controle/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

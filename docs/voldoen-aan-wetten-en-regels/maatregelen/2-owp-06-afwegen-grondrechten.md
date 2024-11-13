@@ -63,7 +63,9 @@ Documenteer de doorlopen stappen en leg de keuzes en afwegingen goed vast.
 
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
-[Impact Assessment Mensenrechten en Algoritmes, deel 4](../hulpmiddelen/IAMA.md)
+- [Impact Assessment Mensenrechten en Algoritmes, deel 4](../hulpmiddelen/IAMA.md)
+- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.4](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+
 
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->

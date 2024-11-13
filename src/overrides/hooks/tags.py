@@ -12,7 +12,6 @@ from re import Match
 # Hooks
 # -----------------------------------------------------------------------------
 
-
 # @todo
 def on_page_markdown(markdown: str, *, page: Page, config: MkDocsConfig, files: Files):
 
@@ -33,11 +32,9 @@ def on_page_markdown(markdown: str, *, page: Page, config: MkDocsConfig, files: 
     # Find and replace all external asset URLs in current page
     return re.sub(r"<!-- tags -->", replace, markdown, flags=re.I | re.M)
 
-
 # -----------------------------------------------------------------------------
 # Helper functions
 # -----------------------------------------------------------------------------
-
 
 # Create a flag of a specific type
 def flag(type: str, arg: str, page: Page, files: Files):
@@ -51,7 +48,6 @@ def flag(type: str, arg: str, page: Page, files: Files):
         return _badge_onderwerp(page, files, arg)
 
     return ""
-
 
 # # Create a linkable option
 # def option(type: str):
@@ -68,21 +64,25 @@ def flag(type: str, arg: str, page: Page, files: Files):
 # -----------------------------------------------------------------------------
 
 
-# Resolve path of file relative to given page - the posixpath always includes
-# one additional level of `..` which we need to remove
 def _resolve_path(path: str, page: Page, files: Files):
     path, anchor, *_ = f"{path}#".split("#")
-    path = _resolve(files.get_file_from_path(path), page)
-    return "#".join([path, anchor]) if anchor else path
+    file = files.get_file_from_path(path)
+    
+    # Check if file is None and handle the error
+    if file is None:
+        return ""  # or a default value
+    
+    resolved_path = _resolve(file, page)
+    return "#".join([resolved_path, anchor]) if anchor else resolved_path
 
-
-# Resolve path of file relative to given page - the posixpath always includes
-# one additional level of `..` which we need to remove
 def _resolve(file: File, page: Page):
+    # Ensure file and page.file are valid objects with src_uri
+    if not file or not page.file:
+        print(f"Error: Invalid file or page when resolving. file={file}, page.file={page.file}")
+        return ""
+    
     path = posixpath.relpath(file.src_uri, page.file.src_uri)
     return posixpath.sep.join(path.split(posixpath.sep)[1:])
-
-
 # -----------------------------------------------------------------------------
 
 
@@ -119,7 +119,6 @@ def _badge_levenscyclus(page: Page, files: Files, phase: str):
         color="indigo",
     )
 
-
 # Create badge for rollen
 def _badge_rollen(page: Page, files: Files, rol: str):
     icon = "material-account"
@@ -130,7 +129,6 @@ def _badge_rollen(page: Page, files: Files, rol: str):
         text=f"[{rol.capitalize().replace('-', ' ')}]({href_fase})",
         color="deep-orange",
     )
-
 
 # Create badge for onderwerp
 def _badge_onderwerp(page: Page, files: Files, blok: str):

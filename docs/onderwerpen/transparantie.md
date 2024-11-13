@@ -70,8 +70,7 @@ Stem je informatie af op de betrokken partij. Zo moeten gebruikers de uitkomst v
 * [Impact Assessment Mensenrechten en Algoritmes](https://minbzk.github.io/Algoritmekader/instrumenten/IAMA/index.html)
 * [Algoritmeregister](https://minbzk.github.io/Algoritmekader/instrumenten/algoritmeregister/index.html)
 
-
-<!-- list_instrumenten onderwerp/transparantie no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- list_hulpmiddelen onderwerp/transparantie no-search no-onderwerp no-rol no-levenscyclus -->
 
 ## Help ons deze pagina te verbeteren
 Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/onderwerpen/transparantie/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

@@ -1,5 +1,5 @@
 ---
-title: Melden van ernstige incidenten
+title: Ernstige incidenten door hoog-risico-AI-systemen worden gemeld aan de toezichthouder
 id: urn:nl:ak:ver:aia-35
 toelichting: Aanbieders van in de Europese Unie in de handel gebrachte AI-systemen met een hoog risico melden ernstige incidenten bij de markttoezichtautoriteiten van de lidstaten waarin dat incident heeft plaatsgevonden.
 levenscyclus:
@@ -9,6 +9,13 @@ onderwerp:
 - governance
 rollen:
 - projectleider
+soort-toepassing:
+- ai-systeem
+- ai-systeem-voor-algemene-doeleinden
+publicatiecategorie:
+- hoog-risico-ai-systeem
+rol-ai-act:
+- aanbieder
 hide:
 - navigation
 ---
@@ -34,7 +41,8 @@ Het doel is om de veiligheid en betrouwbaarheid van AI-systemen te waarborgen en
 ## Bronnen
 [Artikel 73(1) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e7117-1-1)
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

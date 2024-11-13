@@ -1,5 +1,5 @@
 ---
-title: Data van hoog-risico ai moet voldoen aan kwaliteitscriteria
+title: Datasets voor hoog-risico-AI-systemen voldoen aan kwaliteitscriteria
 id: urn:nl:ak:ver:aia-05
 toelichting: AI-systemen met een hoog risico die data gebruiken voor het trainen van AI-modellen, moeten gebaseerd zijn op datasets die voldoen aan specifieke kwaliteitscriteria. Deze criteria zorgen ervoor dat de data geschikt zijn voor training, validatie en tests, wat de betrouwbaarheid en nauwkeurigheid van het AI-systeem waarborgt. De kwaliteitscriteria is te vinden in leden 2 t/m 5 van artikel 10 van de AI-verordening. Bijvoorbeeld datasets moeten aan praktijken voor databeheer voldoen en moeten relevant, representatief, accuraat en volledig zijn.
 levenscyclus: 
@@ -10,6 +10,13 @@ onderwerp:
 rollen: 
 - projectleider
 - ontwikkelaar
+soort-toepassing:
+- ai-systeem
+- ai-systeem-voor-algemene-doeleinden
+publicatiecategorie:
+- hoog-risico-ai-systeem
+rol-ai-act:
+- aanbieder
 hide:
 - navigation
 ---
@@ -35,6 +42,7 @@ Deze vereiste houdt in dat de gebruikte datasets onder meer moeten voldoen aan:
 [Artikel 10(1) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3348-1-1)
 
 ## Wanneer van toepassing? 
+<!-- tags-ai-act --> 
 
 ## Risico 
 

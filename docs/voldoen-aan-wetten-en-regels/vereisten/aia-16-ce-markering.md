@@ -1,5 +1,5 @@
 ---
-title: Aanbieders van AI-systemen met een hoog risico voegen een CE-markering toe aan het AI-systeem
+title: Hoog-risico-AI-systemen zijn voorzien van een CE-markering
 id: urn:nl:ak:ver:aia-16
 toelichting: Aanbieders van AI-systemen met een hoog risico moeten een CE-markering toevoegen aan het AI-systeem met een hoog risico of, wanneer dit niet mogelijk is, op de verpakking of in de bij het product gevoegde documentatie, om aan te geven dat aan de AI-verordening is voldaan.
 levenscyclus:
@@ -8,6 +8,13 @@ onderwerp:
 - transparantie
 rollen:
 - projectleider
+soort-toepassing:
+- ai-systeem
+- ai-systeem-voor-algemene-doeleinden
+publicatiecategorie:
+- hoog-risico-ai-systeem
+rol-ai-act:
+- aanbieder
 hide:
 - navigation
 ---
@@ -30,7 +37,8 @@ De lidstaten mogen het in de handel brengen en het in gebruik stellen van AI-sys
 - [Artikel 16(h) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3823-1-1)
 - [Artikel 48 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5327-1-1)
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

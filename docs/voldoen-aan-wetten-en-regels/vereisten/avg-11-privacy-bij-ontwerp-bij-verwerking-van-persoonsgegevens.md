@@ -1,5 +1,5 @@
 ---
-title: Privacy door ontwerp
+title: Ontwerp en standaardinstellingen (defaults) zijn zo gunstig mogelijk voor de privacy van betrokkenen
 id: urn:nl:ak:ver:avg-11
 toelichting: Pas privacy en gegevensbescherming toe door goed ontwerp en door standaardinstellingen
 levenscyclus:
@@ -35,7 +35,8 @@ Dit is eveneens van toepassing als persoonsgegevens worden verwerkt bij het ontw
 
 - [Artikel 25 Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679#d1e3055-1-1)
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

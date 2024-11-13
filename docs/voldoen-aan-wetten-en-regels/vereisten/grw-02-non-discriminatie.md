@@ -1,6 +1,5 @@
 ---
-title: AI-systemen en algoritmes mogen niet discrimineren
-index: 43
+title: Algoritmes discrimineren niet
 id: urn:nl:ak:ver:grw-02
 toelichting: Allen die zich in Nederland bevinden, worden in gelijke gevallen gelijk behandeld. Directe en indirecte discriminatie wegens godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, handicap, seksuele gerichtheid of op welke grond dan ook, is niet toegestaan. 
 levenscyclus: 
@@ -40,6 +39,7 @@ Hiervan is sprake wanneer een ogenschijnlijk neutrale bepaling, maatstaf of hand
 - [Artikel 2:4 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=2&afdeling=2.1&artikel=2:4&z=2024-05-01&g=2024-05-01) 
 
 ## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico 

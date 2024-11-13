@@ -1,5 +1,5 @@
 ---
-title: Beveiliging van de verwerking
+title: Data zoals persoonsgegevens zijn voldoende beveiligd tegen ongelukken en cyberaanvallen
 id: urn:nl:ak:ver:avg-12
 toelichting: Rekening houdend met de stand van de techniek, de uitvoeringskosten, alsook met de aard, de omvang, de context en de verwerkingsdoeleinden en de qua waarschijnlijkheid en ernst uiteenlopende risico's voor de rechten en vrijheden van personen, treffen de verwerkingsverantwoordelijke en de verwerker passende technische en organisatorische maatregelen om een op het risico afgestemd beveiligingsniveau te waarborgen.
 levenscyclus: 
@@ -35,6 +35,7 @@ Per toepassing moet worden onderzocht welke maatregelen hiervoor geschikt zijn.
 [Artikel 32 Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32016R0679)|
 
 ## Wanneer van toepassing? 
+<!-- tags-ai-act --> 
 
 ## Risico 
 

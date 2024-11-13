@@ -1,5 +1,5 @@
 ---
-title: Aanbieders van AI-modellen voor algemene doeleinden met een systeemrisico zorgen voor passend niveau van cyberbeveiliging
+title: AI-modellen voor algemene doeleinden met systeemrisico’s zijn voldoende beveiligd tegen cyberaanvallen
 id: urn:nl:ak:ver:aia-32
 toelichting: Aanbieders van AI-modellen voor algemene doeleinden met een systeemrisico zorgen voor een passend niveau van cyberbeveiligingsbescherming voor het AI-model voor algemene doeleinden met een systeemrisico en de fysieke infrastructuur van het model
 levenscyclus:
@@ -10,6 +10,12 @@ onderwerp:
 - technische-robuustheid-en-veiligheid
 rollen:
 - ontwikkelaar
+soort-toepassing:
+- ai-model-voor-algemene-doeleinden
+rol-ai-act:
+- aanbieder
+systeemrisico:
+- systeemrisico
 hide:
 - navigation
 ---
@@ -30,7 +36,8 @@ Dit vereiste is een aanvulling op de in artikel 53 AI-verordening genoemde verpl
 ## Bronnen
 [Artikel 55(1d) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5730-1-1)
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

@@ -1,11 +1,18 @@
 ---
-title: Verplicht risicobeheersysteem voor hoog-risico AI
+title: Hoog-risico-AI-systemen zijn voorzien van een risicobeheersysteem
 id: urn:nl:ak:ver:aia-03
 toelichting: Voor AI-systemen met een hoog risico wordt een systeem voor risicobeheer vastgesteld, uitgevoerd, gedocumenteerd en in stand gehouden.
 levenscyclus:
 - organisatieverantwoordelijkheden
 onderwerp:
 - governance
+soort-toepassing:
+- ai-systeem
+- ai-systeem-voor-algemene-doeleinden
+publicatiecategorie:
+- hoog-risico-ai-systeem
+rol-ai-act:
+- aanbieder
 hide:
 - navigation
 rollen:
@@ -33,8 +40,8 @@ Bij het vaststellen van het redelijkerwijs te voorzien misbruik van AI-systemen 
 ## Bronnen
 [Artikel 9(1) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3241-1-1)
 
-## Wanneer van toepassing?
-
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 ## Risico
 

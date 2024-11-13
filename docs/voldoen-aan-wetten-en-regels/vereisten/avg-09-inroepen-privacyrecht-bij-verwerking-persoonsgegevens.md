@@ -1,5 +1,5 @@
 ---
-title: Privacyrechten
+title: Betrokkenen kunnen een beroep doen op hun privacyrechten
 id: urn:nl:ak:ver:avg-09
 toelichting: Betrokkenen kunnen een beroep doen op hun privacyrechten.
 levenscyclus:
@@ -30,7 +30,8 @@ Als persoonsgegevens worden verwerkt voor het ontwikkelen en gebruiken van algor
 
 [Artikel 15 - 21 Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679#d1e2505-1-1)
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

@@ -1,5 +1,5 @@
 ---
-title: Aanbieders van AI-modellen voor algemene doeleinden met een systeemrisico houden relevante informatie over ernstige incidenten bij
+title: Als AI-modellen voor algemene doeleinden met systeemrisico’s ernstige incidenten veroorzaken, wordt dit gedocumenteerd en gerapporteerd
 id: urn:nl:ak:ver:aia-31
 toelichting: Aanbieders van AI-modellen voor algemene doeleinden met een systeemrisico moeten relevante informatie over ernstige incidenten en mogelijke corrigerende maatregelen bijhouden, documenteren en onverwijld rapporteren aan het AI bureau en, in voorkomend geval, aan de nationale bevoegde autoriteiten.
 levenscyclus:
@@ -9,6 +9,12 @@ onderwerp:
 - transparantie
 rollen:
 - projectleider
+soort-toepassing:
+- ai-model-voor-algemene-doeleinden
+rol-ai-act:
+- aanbieder
+systeemrisico:
+- systeemrisico
 hide:
 - navigation
 ---
@@ -29,7 +35,8 @@ Dit vereiste is een aanvulling op de in artikel 53 AI-verordening genoemde verpl
 ## Bronnen
 [Artikel 55(1c) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5730-1-1)
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 ## Risico
 Niet voldoen aan deze verplichtingen kan leiden tot risico's op veiligheidsincidenten, datalekken en schade aan de betrokken partijen en het publiek.

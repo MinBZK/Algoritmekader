@@ -1,5 +1,5 @@
 ---
-title: Documentatie beoordeling niet-hoog-risico AI
+title: Beoordeling als niet 'hoog-risico-AI-systeem' is gedocumenteerd
 id: urn:nl:ak:ver:aia-02
 toelichting: Een aanbieder die van mening is dat een in bijlage III bedoeld AI-systeem geen hoog risico inhoudt, documenteert zijn beoordeling voordat dat systeem in de handel wordt gebracht of in gebruik wordt gesteld. Die aanbieder is onderworpen aan de registratieverplichting van artikel 49, lid 2 AI-verordening. Op verzoek van de nationale bevoegde autoriteiten verstrekt de aanbieder de documentatie van de beoordeling.
 levenscyclus:
@@ -7,6 +7,13 @@ levenscyclus:
 onderwerp:
 - governance
 - transparantie
+soort-toepassing:
+- ai-systeem
+- ai-systeem-voor-algemene-doeleinden
+publicatiecategorie:
+- geen-hoog-risico-ai-systeem
+rol-ai-act:
+- aanbieder
 hide:
 - navigation
 rollen:
@@ -33,8 +40,8 @@ AI-systemen met een hoog risico als bedoeld in punt 2 van bijlage III (kritieke 
 - [Artikel 71 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e7019-1-1)
 - [Bijlage III Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e38-127-1)
 
-## Wanneer van toepassing?
-
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 ## Risico
 

@@ -68,9 +68,6 @@ Stem je informatie af op de betrokken partij. Zo moeten gebruikers de uitkomst v
 
 ## Hulpmiddelen
 
-* [Impact Assessment Mensenrechten en Algoritmes](../voldoen-aan-wetten-en-regels/hulpmiddelen/IAMA.md)
-* [Algoritmeregister](../voldoen-aan-wetten-en-regels/hulpmiddelen/algoritmeregister.md)
-
 <!-- list_hulpmiddelen onderwerp/transparantie no-search no-onderwerp no-rol no-levenscyclus -->
 
 ## Help ons deze pagina te verbeteren

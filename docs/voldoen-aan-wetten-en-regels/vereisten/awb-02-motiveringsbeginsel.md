@@ -1,5 +1,5 @@
 ---
-title: Een besluit berust op een deugdelijke motivering
+title: Organisaties kunnen duidelijk uitleggen waarom en hoe algoritmes leiden tot een besluit
 id: urn:nl:ak:ver:awb-02
 toelichting: Een besluit dat tot stand is gekomen door of met behulp van een algoritme of AI-systeem, dient te berusten op een deugdelijke motivering. 
 levenscyclus:
@@ -35,7 +35,8 @@ De keuzes en aannames die zijn gemaakt en gedaan moeten worden beschreven en toe
 - [Afdeling 3.7 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.7&z=2024-09-01&g=2024-09-01)
 - Jurisprudentie over AERIUS (ABRvS 18 juli 2018, ECLI:NL:RVS:2018:2454), Hof van Justitie C-274/18
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

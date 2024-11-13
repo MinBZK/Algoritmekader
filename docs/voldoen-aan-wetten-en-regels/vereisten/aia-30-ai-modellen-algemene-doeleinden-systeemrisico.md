@@ -1,11 +1,17 @@
 ---
-title: Aanvullende verplichtingen voor aanbieders van AI-modellen met systeemrisico 
+title: Aanbieders van AI-modellen voor algemene doeleinden met een systeemrisico treffen extra maatregelen
 id: urn:nl:ak:ver:aia-30
 toelichting: Aanbieders van AI-modellen voor algemene doeleinden met een potentieel systeemrisico moeten modelevaluatie uitvoeren overeenkomstig gestandaardiseerde protocollen en instrumenten die de stand van de techniek weerspiegelen, met inbegrip van het uitvoeren en documenteren van tests gericht op het ontdekken van kwetsbaarheden van het model om systeemrisico’s in kaart te brengen en te beperken.
 levenscyclus:
 - ontwikkelen
 - verificatie-en-validatie
 - monitoring-en-beheer
+soort-toepassing:
+- ai-model-voor-algemene-doeleinden
+rol-ai-act:
+- aanbieder
+systeemrisico:
+- systeemrisico
 onderwerp:
 - transparantie
 rollen:
@@ -18,7 +24,7 @@ hide:
 <!-- tags -->
 ## Vereiste
 
-Aanbieders van AI-modellen voor algemene doeleinden met een potentieel systeemrisico moeten modelevaluatie uitvoeren overeenkomstig gestandaardiseerde protocollen en instrumenten die de stand van de techniek weerspiegelen, met inbegrip van het uitvoeren en documenteren van tests gericht op het ontdekken van kwetsbaarheden van het model om systeemrisico’s in kaart te brengen en te beperken.
+Aanbieders van AI-modellen voor algemene doeleinden met een systeemrisico moeten modelevaluatie uitvoeren overeenkomstig gestandaardiseerde protocollen en instrumenten die de stand van de techniek weerspiegelen, met inbegrip van het uitvoeren en documenteren van tests gericht op het ontdekken van kwetsbaarheden van het model om systeemrisico’s in kaart te brengen en te beperken.
 
 ## Toelichting
 
@@ -34,7 +40,8 @@ Systeemrisico’s nemen logischerwijs toe naargelang de capaciteiten en het bere
 - [Artikel 55 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5730-1-1)
 - [Overweging 110 Verordening Artificiële Intelligentie]
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 ## Risico
 

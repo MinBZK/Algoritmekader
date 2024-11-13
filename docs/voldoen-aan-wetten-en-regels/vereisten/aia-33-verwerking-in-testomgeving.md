@@ -1,5 +1,5 @@
 ---
-title: Verdere verwerking van persoonsgegevens in AI-testomgevingen 
+title: AI-testomgevingen die persoonsgegevens verwerken, voldoen aan strenge voorwaarden
 id: urn:nl:ak:ver:aia-33
 toelichting: Rechtmatig voor andere doeleinden verzamelde persoonsgegevens mogen uitsluitend in de AI-testomgeving voor regelgeving worden verwerkt ten behoeve van het ontwikkelen, trainen en testen van bepaalde AI-systemen en indien aan alle voorwaarden van art. 57 is voldaan.
 levenscyclus:
@@ -13,6 +13,13 @@ rollen:
 - jurist
 - ontwikkelaar
 - projectleider
+soort-toepassing:
+- ai-model-voor-algemene-doeleinden
+- ai-systeem
+- ai-systeem-voor-algemene-doeleinden
+rol-ai-act:
+- aanbieder
+- gebruiksverantwoordelijke
 hide:
 - navigation
 ---
@@ -31,7 +38,8 @@ Voor toepassingen voor het verder verwerken van gegevens kan worden gedacht aan 
 ## Bronnen
 - [Artikel 57 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5884-1-1)
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

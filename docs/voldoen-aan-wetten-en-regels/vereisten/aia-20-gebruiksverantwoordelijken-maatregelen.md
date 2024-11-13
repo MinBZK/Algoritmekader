@@ -1,5 +1,5 @@
 ---
-title: Maatregelen van gebruiksverantwoordelijken voor gebruik 
+title: Hoog-risico-AI-systemen worden gebruikt volgens de gebruiksaanwijzing 
 id: urn:nl:ak:ver:aia-20
 toelichting: Gebruiksverantwoordelijken van AI-systemen met een hoog risico nemen passende technische en organisatorische maatregelen om te waarborgen dat zij dergelijke systemen gebruiken in overeenstemming met de gebruiksaanwijzingen die bij de systemen zijn gevoegd, in overeenstemming met de leden 3 en 6 van artikel 26 van de AI-verordening.
 levenscyclus:
@@ -10,6 +10,13 @@ onderwerp:
 rollen:
 - projectleider
 - ontwikkelaar
+soort-toepassing:
+- ai-systeem
+- ai-systeem-voor-algemene-doeleinden
+publicatiecategorie:
+- hoog-risico-ai-systeem
+rol-ai-act:
+- gebruiksverantwoordelijke
 hide:
 - navigation
 ---
@@ -30,7 +37,8 @@ De gebruiksverantwoordelijke zorgt ervoor dat de inputdata relevant en voldoende
 [Artikel 26(1) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e4350-1-1)
 
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

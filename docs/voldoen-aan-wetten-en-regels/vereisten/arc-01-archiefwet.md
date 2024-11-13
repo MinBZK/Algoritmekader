@@ -1,5 +1,5 @@
 ---
-title: De archiefwet is ook van toepassing op algoritmes en AI-systemen
+title: Informatie over algoritmes wordt gedocumenteerd volgens de Archiefwet
 id: urn:nl:ak:ver:arc-01
 toelichting: Volgens de Archiefwet moeten overheden informatie bewaren. Op basis van deze informatie moet gereconstrueerd kunnen worden hoe besluiten, ook in de context van algoritmes en AI, tot stand zijn gekomen. Informatie over algoritmes en AI moet daarom op basis van de selectielijst bewaard en vernietigd worden.
 levenscyclus: 
@@ -35,6 +35,7 @@ Informatie over en van algoritmes en AI moet daarom op basis van de selectielijs
 - [Archiefregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&z=2014-01-01&g=2014-01-01)
 
 ## Wanneer van toepassing? 
+<!-- tags-ai-act --> 
 
 ## Risico 
 

@@ -31,7 +31,7 @@ hide:
 
 ## Maatregel
 <!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
-Voer voorafgaand aan een project een data beschikbaarheids- en kwaliteitsanalayse uit. 
+Voer voorafgaand aan een project een data beschikbaarheids- en [datakwaliteitsanalayse](3-dat-01-datakwaliteit.md) uit.
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
@@ -53,4 +53,4 @@ Voer voorafgaand aan een project een data beschikbaarheids- en kwaliteitsanalays
 
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Als data niet beschikbaar, niet toegankelijk of van onvoldoende kwaliteit is, zullen de benodigde algortimes niet of onjuist gaan functioneren.
+Het zou kunnen voorkomen dat de data niet beschikbaar is en ook niet gaat worden. Dit betekent dat een algoritme ook niet goed gemaakt of gebruikt kan worden. Ook is het belangrijk om te checken of de data beschikbaar blijft als dat nodig is voor het functioneren van het algoritme (bijv. voor het bijleren). Ook bestaat er een risico dat als de data van onvoldoende kwaliteit is, het algoritme niet goed gaat werken. Wanneer niet vooraf bepaald is of de data beschikbaar is en van voldoende kwaliteit kan het gebeuren dat er wel een algoritme gemaakt wordt door een derde partij, maar deze vervolgens niet gebruikt kan worden binnen de organisatie. 

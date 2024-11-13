@@ -50,20 +50,20 @@ Een algoritme leest kentekens tijdens parkeercontroles. Het herkent de juiste le
 Een algoritme berekent het risico op fraude door mensen. Maar bij personen uit dezelfde groep geeft het algoritme de ene keer als uitkomst ‘hoog risico’ en de andere keer ‘geen risico’. De uitkomst is niet reproduceerbaar. Hierdoor is het algoritme niet robuust.
 
 ### Controles voorbereiden
-Bereid de controles voor tijdens de levenscyclusfases probleemanalyse, ontwerp en dataverkenning en datapreparatie. Onderzoek de situatie waarin je organisatie het algoritme gaat gebruiken: Wat zijn de risico’s? Welke onderdelen van het algoritme moet je evalueren? Analyseer de kwaliteit en variatie van de data. Bedenk maatregelen waarmee je de risico’s zoveel mogelijk voorkomt. En bedenk met welke methode je de controles gaat evalueren. 
+Bereid de controles voor tijdens de levenscyclusfases [probleemanalyse](../levenscyclus/probleemanalyse/index.md), [ontwerp](../levenscyclus/ontwerp/index.md) en [dataverkenning en datapreparatie](../levenscyclus/dataverkenning-en-datapreparatie/index.md). Onderzoek de situatie waarin je organisatie het algoritme gaat gebruiken: Wat zijn de risico’s? Welke onderdelen van het algoritme moet je evalueren? Analyseer de kwaliteit en variatie van de data. Bedenk maatregelen waarmee je de risico’s zoveel mogelijk voorkomt. En bedenk met welke methode je de controles gaat evalueren. 
 
 Ontwikkel je het algoritme zelf, controleer dan tijdens de ontwikkeling al wat er gebeurt in de verschillende situaties die je verwacht. Experimenteer met nieuwe combinaties van de inputdata en gebruik verschillende representatieve test-sets.
 
 ### Controles uitvoeren
-Voer de controles uit tijdens de ontwikkelfase en de verificatie- en validatiefase. Test het algoritme goed. Evalueer hoe robuust en veilig het algoritme is. Verbeter het algoritme waar nodig. En monitor goed welke data het algoritme gebruikt, zodat je veranderingen in die data snel signaleert. Maak een noodplan voor als blijkt dat het algoritme niet meer werkt zoals het bedoeld was.
+Voer de controles uit tijdens de [ontwikkelfas](../levenscyclus/ontwikkelen/index.md)e en de [verificatie- en validatiefase](../levenscyclus/verificatie-en-validatie/index.md). Test het algoritme goed. Evalueer hoe robuust en veilig het algoritme is. Verbeter het algoritme waar nodig. En monitor goed welke data het algoritme gebruikt, zodat je veranderingen in die data snel signaleert. Maak een noodplan voor als blijkt dat het algoritme niet meer werkt zoals het bedoeld was.
 
-Blijf regelmatig controleren tijdens de fases implementatie en monitoring en beheer. Dit zijn de fases waarin je het algoritme gebruikt. Presteert het algoritme niet goed, los het probleem dan op of stop het gebruik. 
+Blijf regelmatig controleren tijdens de fases [implementatie](../levenscyclus/implementatie/index.md) en [monitoring en beheer](../levenscyclus/monitoring-en-beheer/index.md). Dit zijn de fases waarin je het algoritme gebruikt. Presteert het algoritme niet goed, los het probleem dan op of [stop het gebruik](../levenscyclus/uitfaseren/index.md). 
 
 > [!TIP]
 > Houd rekening met concept drift. Dit betekent dat de eigenschappen van je data in de loop van de tijd kunnen veranderen. Hierdoor trekt je algoritme mogelijk verkeerde conclusies. Zo was er vóór 2020 een verband tussen thuiswerken en ziek zijn. Maar sinds de coronacrisis in 2020 is dit verband minder sterk, omdat gezonde mensen vaker thuiswerken. 
 
 ## Bescherm algoritmes tegen aanvallen en bedreigingen
-Beveilig het ICT-systeem waarin het algoritme wordt gebruikt. Dit zijn bijvoorbeeld maatregelen uit de Baseline Informatiebeveiliging Overheid (BIO) die je standaard neemt voor beveiliging van ICT-systemen tegen cyberaanvallen.
+Beveilig het ICT-systeem waarin het algoritme wordt gebruikt. Dit zijn bijvoorbeeld maatregelen uit de [Baseline Informatiebeveiliging Overheid (BIO)](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/) die je standaard neemt voor beveiliging van ICT-systemen tegen cyberaanvallen.
 
 Beveilig de algoritmes zelf tegen cybercriminelen. Belangrijke bedreigingen voor algoritmes zijn:
 
@@ -90,7 +90,7 @@ Hiermee voorkom je:
 * misleiding, doordat het algoritme niet werkt op de bedoelde manier
 * verkeerde implementatie en daardoor een verkeerde werking
 
-Begin zo vroeg mogelijk met beveiligen. Beveilig in elk geval in de fases ontwikkelen, verificatie en validatie, implementatie, monitoring en beheer en uitfaseren.
+Begin zo vroeg mogelijk met beveiligen. Beveilig in elk geval in de fases [ontwikkelen](../levenscyclus/ontwikkelen/index.md), [verificatie en validatie](../levenscyclus/verificatie-en-validatie/index.md ), [implementatie](../levenscyclus/implementatie/index.md), [monitoring en beheer](../levenscyclus/monitoring-en-beheer/index.md) en [uitfaseren](../levenscyclus/uitfaseren/index.md).
 
 ## Verklein de kans op schade
 Veroorzaak zo min mogelijk schade als het toch fout gaat. En maak een noodplan voor incidenten. Het doel van dit plan is ervoor zorgen dat de fout zo min mogelijk gevolgen heeft voor de organisatie en de maatschappij. In het plan staat bijvoorbeeld wie wat moet doen als het systeem uitvalt.
@@ -114,3 +114,6 @@ Veroorzaak zo min mogelijk schade als het toch fout gaat. En maak een noodplan v
 - Ronan Hamon, Henrik Junklewitz, Ignacio Sanchez, 2020, Robustness and Explainability of Artificial Intelligence: from technical to policy solutions, JRC Technical Report, EUR 30040 EN
 - Bhanu Chander, Chinju John, Lekha Warrier, Gopalakrishnan Kumaravelan, 2024, [Toward Trustworthy AI in the Context of Explainability and Robustness](http://dx.doi.org/10.1145/3675392 ), ACM Computing Surveys
 - Niels Brink, Yori Kamphuis, Yuri Maas, Gwen Jansen-Ferdinandus, Jip van Stijn, Bram Poppink, Puck de Haan, Irina Chiscop, 2023, Adversarial AI in de cyber domain, TNO-2023-R10292-EN
+
+## Help ons deze pagina te verbeteren
+Deel je idee, suggestie of opmerking via [GitHub](../edit/main/docs/onderwerpen/technische-robuustheid-en-veiligheid/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

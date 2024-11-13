@@ -4,11 +4,13 @@ site_description: Concept van het algoritmekader. Het doel daarvan is om overhed
 
 theme: 
     name: material
+    custom_dir: src/overrides
     language: nl
-    logo_text: Algoritmekader [concept]
-    font: false 
     palette:
-        - primary: blue
+        primary: custom
+    logo: assets/logo.svg
+    favicon: assets/favicon.ico
+    font: false 
     features:
         - navigation.indexes
         - navigation.tabs
@@ -18,10 +20,9 @@ theme:
         - navigation.instant
         - navigation.footer
         - navigation.prune
+        - navigation.path
         - search.highlight
         - search.suggest
-        - content.action.edit
-        - content.action.view
         - content.tooltips
         - content.tabs.link
     icon:
@@ -29,12 +30,12 @@ theme:
         annotation: fontawesome/solid/circle-info
 
 nav:
-    - Home: index.md
-    - Over het algoritmekader: 
-        - overhetalgoritmekader/index.md
-        - overhetalgoritmekader/soorten-algoritmes.md
-        - overhetalgoritmekader/definities.md
-        - overhetalgoritmekader/CONTRIBUTING.md
+    - Basiskennis algoritmes en AI:
+         - overhetalgoritmekader/soorten-algoritmes.md
+         - overhetalgoritmekader/definities.md
+    - Onderwerpen:
+        # - Overzicht: onderwerpen/index.md
+        - ... | onderwerpen/*.md
     - Levenscyclus:
         - levenscyclus/index.md 
         - levenscyclus/organisatieverantwoordelijkheden.md
@@ -46,17 +47,13 @@ nav:
         - levenscyclus/implementatie.md
         - levenscyclus/monitoring-en-beheer.md
         - levenscyclus/uitfaseren.md
-    - Onderwerpen:
-        - onderwerpen/index.md
-        - ... | onderwerpen/*.md
     - Rollen:
         - ... | rollen/*.md
-    - Vereisten:
-        - ... | vereisten/*.md
-    - Maatregelen:
-        - ... | maatregelen/*.md
-    - Hulpmiddelen:
-        - ... | hulpmiddelen/*.md
+    - Voldoen aan wetten en regels:
+        - Overzicht: voldoen-aan-wetten-en-regels/index.md
+        - Vereisten: voldoen-aan-wetten-en-regels/vereisten/index.md
+        - Maatregelen: voldoen-aan-wetten-en-regels/maatregelen/index.md
+        - hulpmiddelen: voldoen-aan-wetten-en-regels/hulpmiddelen/index.md
 
 # Extra opties
 markdown_extensions: 
@@ -74,7 +71,6 @@ markdown_extensions:
     - md_in_html
     - footnotes
     - toc:
-        permalink: true
         toc_depth: 3
     - pymdownx.tasklist:
         custom_checkbox: true
@@ -94,14 +90,17 @@ extra:
           link: https://github.com/MinBZK/Algoritmekader
 
 extra_css:
+  - stylesheets/navigation.css
   - stylesheets/filters.css
   - stylesheets/extra.css
+  - stylesheets/footer.css
+  - stylesheets/modal.css
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
-  - https://cdn.jsdelivr.net/npm/choices.js/public/assets/styles/choices.min.css  # Replace Select2 CSS with Choices.js
+  - https://cdn.jsdelivr.net/npm/choices.js/public/assets/styles/choices.min.css  
 
 extra_javascript:
   - https://code.jquery.com/jquery-3.6.0.min.js
-  - https://cdn.jsdelivr.net/npm/choices.js/public/assets/scripts/choices.min.js  # Replace Select2 JS with Choices.js
+  - https://cdn.jsdelivr.net/npm/choices.js/public/assets/scripts/choices.min.js 
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - javascripts/tablesort.js
   - javascripts/filtering.js

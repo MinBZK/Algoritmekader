@@ -1,6 +1,9 @@
 // Wait for MkDocs Material content loading events
 document$.subscribe(function () {
-    // Initialize Choices.js when the document is loaded or content is switched
+    // Ensure order is applied before initializing Choices.js
+    setLevenscyclusOrder();
+
+    // Initialize Choices.js after order has been set
     initializeChoices();
 
     // Attach event listeners to the filters for table filtering
@@ -8,6 +11,7 @@ document$.subscribe(function () {
 
     // Reinitialize Choices.js and filter listeners when content is dynamically updated
     document.addEventListener('contentUpdated', function () {
+        setLevenscyclusOrder();  // Reapply order after content update
         initializeChoices();
         attachFilterListeners();
     });
@@ -18,7 +22,7 @@ function initializeChoices() {
     const elements = document.querySelectorAll('.js-example-basic-multiple');
 
     elements.forEach(function (element) {
-        // Check if Choices.js is already initialized
+        // Initialize Choices.js for the first time
         if (!element.choicesInstance) {
             const choices = new Choices(element, {
                 removeItemButton: true,
@@ -27,14 +31,65 @@ function initializeChoices() {
                 noResultsText: 'Geen resultaten',
                 noChoicesText: 'Geen keuzes beschikbaar',
                 itemSelectText: 'Klik om te selecteren',
-                resetScrollPosition: false
+                resetScrollPosition: false,
+                shouldSort: false,  // Prevent sorting of options
+                shouldSortItems: false,  // Prevent sorting of selected items
+                sorter: (a, b) => 0  // Custom sorting function (no sorting)
             });
 
             // Store the Choices.js instance to avoid re-initialization
             element.choicesInstance = choices;
-            console.log("Choices.js initialized");
         }
     });
+}
+
+// Function to set a specific order to the levenscyclus dropdown
+function setLevenscyclusOrder() {
+    const levenscyclusSelect = document.getElementById("filterLevenscyclusSelect");
+    if (levenscyclusSelect) {
+        // Define the desired order for levenscyclus items
+        const desiredOrder = [
+            'organisatieverantwoordelijkheden',
+            'probleemanalyse',
+            'ontwerp',
+            'dataverkenning-en-datapreparatie',
+            'ontwikkelen',
+            'verificatie-en-validatie',
+            'implementatie',
+            'monitoring-en-beheer',
+            'uitfaseren',
+        ];
+
+        // Get options and map to their values
+        const options = Array.from(levenscyclusSelect.options);
+
+        // Sort the options based on the desired order
+        options.sort((a, b) => {
+            return desiredOrder.indexOf(a.value) - desiredOrder.indexOf(b.value);
+        });
+
+        // Clear the existing options and append them in the correct order
+        levenscyclusSelect.innerHTML = ''; // Empty the select
+
+        // Append sorted options back into the select
+        options.forEach(option => levenscyclusSelect.appendChild(option));
+
+        // Reinitialize Choices.js with the sorted options
+        if (levenscyclusSelect.choicesInstance) {
+            // Set the sorted choices back into the Choices.js instance
+            levenscyclusSelect.choicesInstance.setChoices(
+                options.map(option => ({
+                    value: option.value,
+                    label: option.text,
+                    selected: option.selected,
+                    disabled: option.disabled
+                })),
+                'value',
+                'label',
+                false
+            );
+        }
+    }
 }
 
 // Attach event listeners to trigger table filtering when filters change
@@ -128,42 +183,4 @@ function filterTable() {
 
     // Trigger contentUpdated to reinitialize Choices.js after filtering
     document.dispatchEvent(new Event('contentUpdated'));
-}
-
-// Function to display vereisten when a specific maatregel is clicked
-function showVereisten(link) {
-    // Get the vereisten associated with the clicked maatregel from the data attribute
-    const vereisten = JSON.parse(link.getAttribute('data-vereisten'));
-
-    // Find or create a container for displaying vereisten
-    let vereistenTable = document.getElementById('vereistenTable');
-    if (!vereistenTable) {
-        vereistenTable = document.createElement('table');
-        vereistenTable.id = 'vereistenTable';
-        vereistenTable.innerHTML = `
-            <thead>
-                <tr>
-                    <th>Vereisten</th>
-                </tr>
-            </thead>
-            <tbody></tbody>
-        `;
-        document.body.appendChild(vereistenTable); // You can place it in a specific container
-    }
-
-    // Clear previous vereisten content
-    const tbody = vereistenTable.querySelector('tbody');
-    tbody.innerHTML = '';
-
-    // Populate the table with the vereisten
-    vereisten.forEach(vereiste => {
-        const row = document.createElement('tr');
-        const cell = document.createElement('td');
-        cell.textContent = vereiste;
-        row.appendChild(cell);
-        tbody.appendChild(row);
-    });
-
-    // Optionally scroll to the vereisten table or focus on it
-    vereistenTable.scrollIntoView({ behavior: 'smooth' });
 }

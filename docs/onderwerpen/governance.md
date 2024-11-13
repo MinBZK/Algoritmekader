@@ -39,16 +39,16 @@ Is er al een visie of beleid over hoe om te gaan algoritmes binnen de organisati
 #### Voorbeelden bij stap 1: Randvoorwaarden algoritmegovernance
 Deze maatregelen gaan over de basis leggen om algortimegovernance mogelijk te maken. Kijk eens naar maatregelen zoals:
 
-* [Stel een visie met betrekking tot AI en algoritmes op en zorg voor bestuurlijk bewustzijn en draagvlak.](../maatregelen/0-org-04-politiek-bestuurlijke-verantwoordelijkheid.md)
-* [Onderzoek wat er al is qua bestaande governancestructuren en samenwerking.](../maatregelen/0-org-05-bestaande-governance.md)
-* [Breng het AI-volwassenheidsniveau in kaart om focus aan te brengen waar het nodig is.](../maatregelen/0-org-06-volwassenheidsmodel.md)
+* [Stel een visie met betrekking tot AI en algoritmes op en zorg voor bestuurlijk bewustzijn en draagvlak.](../voldoen-aan-wetten-en-regels/maatregelen/0-org-04-politiek-bestuurlijke-verantwoordelijkheid.md)
+* [Onderzoek wat er al is qua bestaande governancestructuren en samenwerking.](../voldoen-aan-wetten-en-regels/maatregelen/0-org-05-bestaande-governance.md)
+* [Breng het AI-volwassenheidsniveau in kaart om focus aan te brengen waar het nodig is.](../voldoen-aan-wetten-en-regels/maatregelen/0-org-06-volwassenheidsmodel.md)
 
 #### Voorbeelden bij stap 2: Inrichten van algoritmegovernance
 We geven bij deze maatregelen meer voorbeelden en best practices voor het inrichten van algoritmegovernance. Kijk eens naar maatregelen (onderaan deze pagina) zoals:
 
-* [Rollen en verantwoordelijkheden in algoritmegovernance](../maatregelen/0-org-10-inrichten-taken-en-verantwoordelijkheden-algoritmegovernance.md)
-* [De AI-levenscyclus en go/no-go 'gates'.](../maatregelen/0-org-08-beslismoment-levenscyclus.md)
-* [Intern toezicht zoals met three lines of defence](../maatregelen/0-org-07-intern-toezicht.md)
+* [Rollen en verantwoordelijkheden in algoritmegovernance](../voldoen-aan-wetten-en-regels/maatregelen/0-org-10-inrichten-taken-en-verantwoordelijkheden-algoritmegovernance.md)
+* [De AI-levenscyclus en go/no-go 'gates'.](../voldoen-aan-wetten-en-regels/maatregelen/0-org-08-beslismoment-levenscyclus.md)
+* [Intern toezicht zoals met three lines of defence](../voldoen-aan-wetten-en-regels/maatregelen/0-org-07-intern-toezicht.md)
 
 !!! note "Let op!"
     Voorbeelden bieden in hoofdlijnen een ‘blauwdruk’ voor hoe algoritmegovernance kan worden ingericht. 

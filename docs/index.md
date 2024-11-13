@@ -5,41 +5,23 @@ hide:
   - navigation
   - toc
 ---
-# Algoritmekader 
+# Het algoritmekader 
 <div class="header-container">
     <div class="subheader">Wetten en regels, tips en hulpmiddelen voor verantwoord gebruik van algoritmes en AI. 
     <span class="version-container">
-      <span class="version-label">Bètaversie</span>
+      <span class="version-label">bètaversie</span>
       <div class="hover-info">
         <p>Deze website is in ontwikkeling. Alle versies ontstaan op een open manier. <a href="overhetalgoritmekader/CONTRIBUTING/">Iedereen mag opmerkingen of suggesties geven.</a></p>
       </div>
     </span>
-    <br><a href="overhetalgoritmekader/">Over het Algoritmekader</a></div>
+    </div>
 </div>
 
 <div class="float-container">
-  <div class="float-child styled-list">
-    <h3><b>Voldoen aan wetten en regels</b></h3>
-    <ul>
-      <li><a href="vereisten/">Vereisten</a></li>
-      <li><a href="maatregelen/">Aanbevolen maatregelen</a></li>
-      <li><a href="instrumenten/">Aanbevolen instrumenten</a></li>
-    </ul>
-  </div>
 
   <div class="float-child styled-list">
-    <h3><b>Informatie per rol</b></h3>
-    <ul>
-      <li><a href="rollen/beleidsmedewerker/">Beleidsmedewerker</a></li>
-      <li><a href="rollen/data-scientist/">Data scientist</a></li>
-      <li><a href="rollen/ethicus/">Ethici</a></li>
-      <li><a href="rollen/jurist/">Jurist</a></li>
-      <li><a href="rollen/projectleider/">Projectleider</a></li>
-    </ul>
-    <a href="rollen/" class="show-more"><b>Bekijk alle rollen</b></a>
-  </div>
-
-  <div class="float-child styled-list">
+    <img src="afbeeldingen//onderwerpen.jpeg" alt="Afbeelding 3" class="block-image">
+    <div class="float-box">
     <h3><b>Onderwerpen</b></h3>
     <ul>
       <li><a href="onderwerpen/bias-en-non-discriminatie/">Bias en non-discriminatie</a></li>
@@ -50,25 +32,49 @@ hide:
     </ul>
     <a href="onderwerpen/" class="show-more"><b>Bekijk alle onderwerpen</b></a>
   </div>
+  </div>
 
   <div class="float-child styled-list">
+    <img src="afbeeldingen/rollen.jpg" alt="Afbeelding 2" class="block-image">
+    <div class="float-box">
+    <h3><b>Informatie per rol</b></h3>
+    <ul>
+      <li><a href="rollen/beleidsmedewerker/">Beleidsmedewerker</a></li>
+      <li><a href="rollen/data-scientist/">Data scientist</a></li>
+      <li><a href="rollen/ethicus/">Ethici</a></li>
+      <li><a href="rollen/jurist/">Jurist</a></li>
+      <li><a href="rollen/projectleider/">Projectleider</a></li>
+    </ul>
+    <a href="rollen/" class="show-more"><b>Bekijk alle rollen</b></a>
+  </div>
+  </div>
+
+  <div class="float-child styled-list">
+    <img src="afbeeldingen/monitoring.jpg" alt="Afbeelding 4" class="block-image">
+    <div class="float-box">
     <h3><b>Levenscyclus</b></h3>
     <ul>
       <li><a href="levenscyclus/probleemanalyse/">Probleemanalyse</a></li>
       <li><a href="levenscyclus/ontwerp/">Ontwerpen</a></li>
       <li><a href="levenscyclus/dataverkenning-en-datapreparatie/">Dataverkenning & datapreparatie</a></li>    
       <li><a href="levenscyclus/ontwikkelen/">Ontwikkelen</a></li>
-            <li><a href="levenscyclus/monitoring-en-beheer/">Monitoring & beheer</a></li>  
+      <li><a href="levenscyclus/monitoring-en-beheer/">Monitoring & beheer</a></li>  
     </ul>
     <a href="levenscyclus/" class="show-more"><b>Bekijk de hele levenscyclus</b></a>
   </div>
+  </div>
+
+  <div class="float-child styled-list">
+    <img src="afbeeldingen/wettenregels.jpeg" alt="Afbeelding 1" class="block-image">
+    <div class="float-box">
+    <h3><b>Voldoen aan wetten en regels</b></h3>
+    <ul>
+      <li><a href="voldoen-aan-wetten-en-regels/vereisten/">Vereisten</a></li>
+      <li><a href="voldoen-aan-wetten-en-regels/maatregelen/">Aanbevolen maatregelen</a></li>
+      <li><a href="voldoen-aan-wetten-en-regels/hulpmiddelen/">Aanbevolen hulpmiddelen</a></li>
+    </ul>
+    </div>
+  </div>
+
 </div>
-
-!!! tip "Tip"
-
-    Vind snel de betekenis van begrippen als algoritme, AI-systeem, hoog-risico-AI-systeem en impactvolle algoritmes in onze <a href="overhetalgoritmekader/definities/">woordenlijst</a>
-
-<div class="footer-section">
-  <h2>Help ons deze pagina te verbeteren</h2>
-  <p>Deel je idee, suggestie of opmerking via <a href="https://github.com/MinBZK/Algoritmekader/edit/main/docs/index.md">GitHub</a> of mail ons via <a href="mailto:algoritmes@minbzk.nl">algoritmes@minbzk.nl</a>.</p>
-</div>
+<br><br><br>

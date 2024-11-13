@@ -6,8 +6,6 @@ from mkdocs.structure.files import File, Files
 from re import Match
 import json
 
-# Updated _create_chip function to use the same linking logic as "maatregelen"
-# Updated _create_chip function to use dynamic PR preview path logic
 def _create_chip(item: str, chip_type: str, current_file: File, config: MkDocsConfig) -> str:
     if not item:
         return ""
@@ -15,7 +13,7 @@ def _create_chip(item: str, chip_type: str, current_file: File, config: MkDocsCo
     # Initialize icon and color
     icon_svg, color_class = "", ""
     
-    # Initialize base_url and detect PR preview environment
+    # Initialize base_url
     base_url = config.site_url if config.site_url else "/"
     
     # Determine chip-specific styles and icons
@@ -31,6 +29,10 @@ def _create_chip(item: str, chip_type: str, current_file: File, config: MkDocsCo
         color_class = 'teal'
         icon_svg = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2a7 7 0 0 0-7 7c0 2.38 1.19 4.47 3 5.74V17a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1v-2.26c1.81-1.27 3-3.36 3-5.74a7 7 0 0 0-7-7M9 21a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1v-1H9v1Z"></path></svg>'
         link = posixpath.join(base_url, 'onderwerpen', item)
+    elif chip_type == 'vereiste':
+        color_class = 'blue'
+        icon_svg = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20zM10 7l5 5-5 5V7z"/></svg>'
+        link = posixpath.join(base_url, 'vereisten', item)  # Define a path for 'vereiste'
     else:
         color_class = 'blue'
         icon_svg = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2 12a9 9 0 0 0 9 9c2.39 0 4.68-.94 6.4-2.6l-1.5-1.5A6.706 6.706 0 0 1 11 19c-6.24 0-9.36-7.54-4.95-11.95C10.46 2.64 18 5.77 18 12h-3l4 4h.1l3.9-4h-3a9 9 0 0 0-18 0Z"></path></svg>'
@@ -58,21 +60,23 @@ def _create_table_row_2(file: File, filter_options: Dict[str, bool], current_fil
     onderwerpen = file.page.meta.get('onderwerp', [])
     vereiste = file.page.meta.get('vereiste', [])
     vereiste_id = file.page.meta.get('id', "")[14:] # remove the first part of the urn
+    # categorie = file.page.meta.get('categorie', [])
 
     rollen_chips = ''.join(_create_chip(rol, 'rol', current_file, config) for rol in rollen) if filter_options.get("rol", True) else ""
     levenscyclus_chips = ''.join(_create_chip(lc, 'levenscyclus', current_file, config) for lc in levenscyclus) if filter_options.get("levenscyclus", True) else ""
     onderwerp_chips = ''.join(_create_chip(onderwerp, 'onderwerp', current_file, config) for onderwerp in onderwerpen) if filter_options.get("onderwerp", True) else ""
     vereiste_chips = ''.join(_create_chip(vereiste, 'vereiste', current_file, config) for vereiste in vereiste) if filter_options.get("vereiste", True) else ""
+    # categorie_chips = ', '.join(cat for cat in categorie) if filter_options.get("categorie", True) else ""
 
     return "".join(
         [
             "<tr>",
-            f'<td><a href="{relative_link}">{vereiste_id}</a></td>',
+            f'<td><a href="{relative_link}">{vereiste_id}</a></td>' if filter_options.get("id", True) else "",
             f'<td><a href="{relative_link}">{file.page.title}</a></td>',
+            # f"<td>{categorie_chips}</td>" if filter_options.get("categorie", True) else "",
             f"<td>{rollen_chips}</td>" if filter_options.get("rol", True) else "",
             f"<td>{levenscyclus_chips}</td>" if filter_options.get("levenscyclus", True) else "",
             f"<td>{onderwerp_chips}</td>" if filter_options.get("onderwerp", True) else "",
-            f"<td>{vereiste_chips}</td>" if filter_options.get("vereiste", False) else "",
             "</tr>",
         ]
     )
@@ -130,23 +134,29 @@ def on_env(env, config: MkDocsConfig, files: Files):
         filter_tags = split_params[1:] if len(split_params) > 1 else []
 
         type_value_bundle = [y.split("/") for y in filter_criteria.split() if len(y.split("/")) == 2]
-
+        
         filter_options = {
+            "id": True,
             "search": True,
             "rol": True,
             "levenscyclus": True,
-            "onderwerp": True
+            "onderwerp": True,
+            # "categorie": False,
         }
 
-        for tag in filter_tags:
+        for tag in split_params:
             if tag.startswith("no-"):
                 filter_name = tag[3:]
                 if filter_name in filter_options:
                     filter_options[filter_name] = False
+            elif tag.startswith("add-"):
+                filter_name = tag[4:]
+                if filter_name in filter_options:
+                    filter_options[filter_name] = True
 
         list: List[File] = []
         for file in files:
-            if not file.src_path.startswith(f"{content_type}/"):
+            if not file.src_path.startswith(f"voldoen-aan-wetten-en-regels/{content_type}/"):
                 continue
             if not file.src_path.endswith(".md"):
                 continue
@@ -167,9 +177,10 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 "<table id='myTable'>",
                 "<thead>",
                 "<tr>",
-                '<th role="columnheader">id</th>',
+                '<th role="columnheader">id</th>' if filter_options["id"] else '',
                 f'<th role="columnheader">{content_type.capitalize()}</th>',
                 '<th role="columnheader">Rollen</th>' if filter_options["rol"] else '',
+                # '<th role="columnheader">Categorie</th>' if filter_options["categorie"] else '',
                 '<th role="columnheader">Levenscyclus</th>' if filter_options["levenscyclus"] else '',
                 '<th role="columnheader">Onderwerpen</th>' if filter_options["onderwerp"] else '',
                 "</tr>",
@@ -213,11 +224,43 @@ def on_env(env, config: MkDocsConfig, files: Files):
         
         return "".join(vereisten_table)
 
+     # NEW FUNCTION: To generate the Maatregelen for a specific Hulpmiddel
+    def generate_maatregelen_for_hulpmiddel(file: File) -> str:
+        maatregelen = file.page.meta.get("maatregel", [])
+        if not maatregelen:
+            return "<p>Geen maatregelen beschikbaar voor dit hulpmiddel.</p>"
+
+        maatregelen_table = [
+            "<table>",
+            "<thead>",
+            "<tr>",
+            "<th>Maatregel</th>",
+            "</tr>",
+            "</thead>", 
+            "<tbody>",
+        ]
+        
+        for maatregel in maatregelen:
+            maatregel_file = find_file_by_name(maatregel, "maatregelen", files)
+            if maatregel_file:
+                # Retrieve the title from the maatregel file's metadata
+                maatregel_id = maatregel_file.page.meta.get("id", "")[14:] # remove the first part of the urn
+                maatregel_title = maatregel_file.page.meta.get("title", maatregel)  # Fallback to maatregel name if no title
+                maatregel_link = posixpath.join(config.site_url or "/", maatregel_file.url)
+                maatregelen_table.append(
+                    f'<tr><td><a href="{maatregel_link}">{maatregel_id} - {maatregel_title}</a></td></tr>')
+            else:
+                maatregelen_table.append(f'<tr><td>{maatregel}</td></tr>')  # No link if the file is not found
+
+        maatregelen_table.append("</tbody></table>")
+        
+        return "".join(maatregelen_table)
+
 
     def find_file_by_name(name: str, content_type: str, files: Files) -> File:
         for file in files:
             file_name = posixpath.splitext(posixpath.basename(file.src_path))[0]
-            if file.src_path.startswith(f"{content_type}/") and file_name == name:
+            if file.src_path.startswith(f"voldoen-aan-wetten-en-regels/{content_type}/") and file_name == name:
                 return file
         return None
    
@@ -227,13 +270,23 @@ def on_env(env, config: MkDocsConfig, files: Files):
             lambda match: generate_vereisten_for_maatregel(file),
             file.page.content
         )
+    
+    def replace_maatregelen_content(file: File):
+        file.page.content = re.sub(
+            r"<!-- list_maatregelen_on_hulpmiddelen_page -->",
+            lambda match: generate_maatregelen_for_hulpmiddel(file),
+            file.page.content
+        )
 
     for file in files:
         if not file.src_path.endswith(".md"):
             continue
         
-        if "maatregelen" in file.src_path:
+        if "maatregelen" in file.src_path or "hulpmiddelen" in file.src_path:
             replace_vereisten_content(file)
+            
+        if "hulpmiddelen" in file.src_path:
+            replace_maatregelen_content(file)
 
         # Replacing for existing placeholders
         file.page.content = re.sub(
@@ -251,8 +304,8 @@ def on_env(env, config: MkDocsConfig, files: Files):
         )
 
         file.page.content = re.sub(
-            r"<!-- list_instrumenten(.*?) -->",
-            lambda match: replace_content(match, "instrumenten"),
+            r"<!-- list_hulpmiddelen(.*?) -->",
+            lambda match: replace_content(match, "hulpmiddelen"),
             file.page.content,
             flags=re.I | re.M,
         )

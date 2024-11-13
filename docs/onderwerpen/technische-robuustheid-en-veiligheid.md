@@ -78,6 +78,10 @@ Maak een uitwijkplan voor incidenten. Het doel van dit plan is ervoor zorgen dat
 
 <!-- list_maatregelen onderwerp/technische-robuustheid-en-veiligheid no-search no-onderwerp no-rol no-levenscyclus -->
 
+## Hulpmiddelen
+
+<!-- list_hulpmiddelen onderwerp/technische-robuustheid-en-veiligheid no-search no-onderwerp no-rol no-levenscyclus -->
+
 ## Bronnen
 
 - Natalia Díaz-Rodríguez et al, 2023, [Connecting the dots in trustworthy Artificial Intelligence: From AI principles, ethics, and key requirements to responsible AI systems and regulation](https://doi.org/10.1016/j.inffus.2023.101896), Information Fusion 99.
@@ -85,6 +89,3 @@ Maak een uitwijkplan voor incidenten. Het doel van dit plan is ervoor zorgen dat
 - Ronan Hamon, Henrik Junklewitz, Ignacio Sanchez, 2020, Robustness and Explainability of Artificial Intelligence: from technical to policy solutions, JRC Technical Report, EUR 30040 EN
 - Bhanu Chander, Chinju John, Lekha Warrier, Gopalakrishnan Kumaravelan, 2024, [Toward Trustworthy AI in the Context of Explainability and Robustness](http://dx.doi.org/10.1145/3675392 ), ACM Computing Surveys
 - Niels Brink, Yori Kamphuis, Yuri Maas, Gwen Jansen-Ferdinandus, Jip van Stijn, Bram Poppink, Puck de Haan, Irina Chiscop, 2023, Adversarial AI in de cyber domain, TNO-2023-R10292-EN
-
-## Help ons deze pagina te verbeteren
-Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/bouwblokken/technische-robuustheid-en-veiligheid/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

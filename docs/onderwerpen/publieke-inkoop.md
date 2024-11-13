@@ -37,7 +37,7 @@ De inzichten uit de algoritme levenscyclus kunnen ondersteunen bij bijvoorbeeld 
 ## Vereisten
 
 Nagenoeg alle vereisten die gelden voor algoritmen en AI kunnen een plek krijgen in het publiek inkoopproces. 
-Daarom is ervoor gekozen om hier niet een opsomming te geven van al deze vereisten, maar verwijzen we naar het onderdeel [vereisten](../vereisten/index.md) in het Algoritmekader.
+Daarom is ervoor gekozen om hier niet een opsomming te geven van al deze vereisten, maar verwijzen we naar het onderdeel [vereisten](../voldoen-aan-wetten-en-regels/vereisten/index.md) in het Algoritmekader.
 
 In de laag van 'maatregelen' wordt ook uitgewerkt wat vanuit publieke inkoop kan worden gedaan om op een betekenisvolle wijze invulling aan te geven aan de betreffende vereiste. 
 Daarvoor kan ook op het tabblad 'publieke inkoop' worden geklikt om deze maatregelen te filteren.
@@ -54,10 +54,10 @@ Hieronder volgt een overzicht van de maatregelen die (voor zover zijn uitgewerkt
 !!! info "Disclaimer"
     Het Algoritmekader is nog volop in ontwikkeling. Er wordt momenteel hard gewerkt, mede door de Werkgroep Publieke Inkoop, om maatregelen te definiëren vanuit het perspectief publieke inkoop bij de vereisten. Mocht er iets niet kloppen, laat het ons weten via [GitHub](https://github.com/MinBZK/Algoritmekader) of via algoritmes@minbzk.nl.
 
-## Instrumenten
+## Hulpmiddelen
 Hieronder volgt een overzicht van instrumenten die kunnen worden gebruikt om invulling te geven aan de vereisten en maatregelen.
 
-<!-- list_instrumenten onderwerp/publieke-inkoop -->
+<!-- list_hulpmiddelen onderwerp/publieke-inkoop -->
 
 ## Bruikbare informatie en bronnen
 

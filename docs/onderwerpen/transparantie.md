@@ -8,7 +8,8 @@ summary:
 Overheden moeten transparant zijn over hun algoritmes. Dit betekent dat je duidelijke informatie geeft over de algoritmes die je ontwikkelt of gebruikt.
 
 ## Wanneer ben je transparant?
-Je bent transparant over algoritmes en AI als je duidelijk uitlegt:
+Je draagt bij aan transparantie over algoritmes als je duidelijk uitlegt:
+
 
 * dat je algoritmes ontwikkelt of gebruikt
 * voor welk doel je deze algoritmes ontwikkelt of gebruikt
@@ -34,11 +35,11 @@ Hoe je transparantie organiseert, hangt af van:
 * de vereisten waar je aan moet voldoen
 * de maatregelen die je neemt
 * de doelgroep die je wil bereiken
-* de [levenscyclus-fase](https://minbzk.github.io/Algoritmekader/levenscyclus/) van je algoritme
+* de [levenscyclus-fase](../levenscyclus/index.md) van je algoritme
 
-Onderzoek goed welk [soort algoritme](https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/) je gebruikt of wil gebruiken. Hoe groter de impact en het risico, hoe strenger de vereisten.
+Onderzoek goed welk [soort algoritme](../overhetalgoritmekader/soorten-algoritmes.md) je gebruikt of wil gebruiken. Hoe groter de impact en het risico, hoe strenger de vereisten.
 
-De keuze voor het soort algoritme bepaalt ook hoe transparant je kunt zijn. Van rekenregels kun je namelijk precies uitleggen hoe deze tot een beslissing komen. Maar complexe AI-systemen zijn vaak een black box: niemand weet precies hoe deze systemen beslissingen maken. Volledige transparantie is dan niet mogelijk. In dat geval moet je de werking zo goed mogelijk onderzoeken. Probeer bijvoorbeeld in elk geval ernstige gevolgen zoals [discriminatie](https://minbzk.github.io/Algoritmekader/onderwerpen/bias-en-non-discriminatie/) te voorkomen. 
+De keuze voor het soort algoritme bepaalt ook hoe transparant je kunt zijn. Van rekenregels kun je namelijk precies uitleggen hoe deze tot een beslissing komen. Maar complexe AI-systemen zijn vaak een black box: niemand weet precies hoe deze systemen beslissingen maken. Volledige transparantie is dan niet mogelijk. In dat geval moet je de werking zo goed mogelijk onderzoeken. Probeer bijvoorbeeld in elk geval ernstige gevolgen zoals [discriminatie](bias-en-non-discriminatie.md) te voorkomen. 
 
 > [!TIP]
 > Rekenregels zijn makkelijker uit te leggen dan AI-systemen. Als een rekenregel voldoende is voor het bereiken van je doel, dan is het ook makkelijker om transparant te zijn.
@@ -67,10 +68,10 @@ Stem je informatie af op de betrokken partij. Zo moeten gebruikers de uitkomst v
 
 ## Hulpmiddelen
 
-* [Impact Assessment Mensenrechten en Algoritmes](https://minbzk.github.io/Algoritmekader/instrumenten/IAMA/index.html)
-* [Algoritmeregister](https://minbzk.github.io/Algoritmekader/instrumenten/algoritmeregister/index.html)
+* [Impact Assessment Mensenrechten en Algoritmes](../voldoen-aan-wetten-en-regels/hulpmiddelen/IAMA.md)
+* [Algoritmeregister](../voldoen-aan-wetten-en-regels/hulpmiddelen/algoritmeregister.md)
 
 <!-- list_hulpmiddelen onderwerp/transparantie no-search no-onderwerp no-rol no-levenscyclus -->
 
 ## Help ons deze pagina te verbeteren
-Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/onderwerpen/transparantie/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).
+Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/issues/new/choose) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

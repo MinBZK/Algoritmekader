@@ -1,0 +1,614 @@
+body{
+  font-family: "ROsanswebtextregular" !important;
+  src: url("fonts/ROsanswebtextregular.woff") format('truetype');
+}
+
+@font-face {
+  font-family: "ROsanswebtextregular";
+  src: url("fonts/ROsanswebtextregular.woff") format('truetype');
+}
+
+.mdx-badge {
+  font-size: .85em;
+  display: inline-block;
+  margin: .2rem .3rem;
+}
+
+.mdx-badge__icon {
+  border-top-left-radius: .1rem;
+  border-bottom-left-radius: .1rem;
+  background: var(--md-accent-fg-color--transparent);
+  padding: .2rem;
+  color: var(--md-accent-fg-color);
+}
+
+.mdx-badge__text {
+  border-bottom-right-radius: .1rem;
+  border-top-right-radius: .1rem;
+  background: var(--md-accent-fg-color--transparent);
+  padding: .2rem .3rem;
+  color: var(--md-accent-fg-color);
+  font-weight: 500;
+}
+
+.mdx-badge a {
+  color: var(--md-accent-fg-color);
+  text-decoration: none;
+}
+
+.md-typeset .grid {
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+  color: #154273;
+}
+
+h1 {
+  color: #154273;
+}
+
+/* Stijlen voor de tabel */
+table {
+  width: 100%;
+  border-collapse: collapse;
+
+}
+
+.md-typeset table{
+  border: none !important;
+  box-shadow:none;
+}
+
+th {
+  background-color: #F1F5F9; /* Achtergrondkleur van de tabelkop */
+  color: #475569; /* Kleur van de tabelkoptekst */
+  border: none; /* Geen randen */
+  padding: 12px;
+  text-align: left;
+  font-size: 16px;
+  font-family: "ROsanswebtextregular", sans-serif; /* Custom font */
+  font-weight: 400;
+}
+
+td {
+  padding: 12px;
+  text-align: left;
+  border: none; /* Geen randen */
+  font-family: "ROsanswebtextregular", sans-serif; /* Custom font */
+  min-width: 150px;
+}
+
+tr {
+  border-bottom: 1px solid #B9C7D5; /* Ondergrens van de rijen */
+  font-size: 16px;
+}
+
+tbody tr td a {
+  color: #154273;
+  text-decoration: underline;
+}
+
+tbody tr td a:hover {
+  text-decoration: underline;
+}
+
+.float-container a {
+  color: #154273;
+  text-align: left; 
+  text-decoration: underline;
+}
+
+/* Grid Styling */
+.md-typeset .grid {
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+}
+
+/* Admonition Styling */
+:root {
+  --md-admonition-icon--simple: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58 13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42Z"/></svg>');
+  --md-accent-fg-color: #316fb3!important;
+}
+
+.md-typeset .admonition.simple,
+.md-typeset details.simple {
+  border-color: rgb(5, 80, 141);
+  text-align: left; 
+}
+
+.md-typeset .simple > .admonition-title,
+.md-typeset .simple > summary {
+  background-color: rgba(185, 185, 185, 0.1);
+  text-align: left; 
+}
+
+.md-typeset .simple > .admonition-title::before,
+.md-typeset .simple > summary::before {
+  background-color: rgb(5, 80, 141);
+  -webkit-mask-image: var(--md-admonition-icon--simple);
+  mask-image: var(--md-admonition-icon--simple);
+}
+
+/* Info Section */
+.info-section {
+  margin-bottom: 30px;
+  text-align: left; /* Ensure left alignment */
+}
+
+.info-section h2 {
+  font-size: 1.5em;
+  color: #154273;
+  margin: 0 0 10px;
+  text-align: left; /* Ensure left alignment */
+}
+
+.subheader a {
+  color: #154273;
+  text-decoration: underline;
+  text-align: left;
+}
+
+.subheader a:hover {
+  text-decoration: none;
+  text-align: left;
+}
+
+.float-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Responsive columns */
+  gap: 16px; /* Space between the boxes */
+  padding-bottom: 32px;
+}
+
+.float-container h2 {
+width: 100%;
+border-bottom: solid 3px #154271;
+padding-bottom: 8px;
+}
+
+.float-child {
+  background-color: #e5f1f9;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* Push the content and the "Bekijk alle" link to the bottom */
+  min-height: 300px; /* Set a minimum height for uniform containers */
+}
+
+.float-child-white {
+  background-color: #ffffff;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* Push the content and the "Bekijk alle" link to the bottom */
+  min-height: 300px; /* Set a minimum height for uniform containers */
+  max-width: 500px;
+}
+
+.float-box{
+  margin: -12px 24px 24px 24px;
+}
+
+.styled-list ul {
+  list-style-type: none;
+  padding-left: 0;
+  margin-bottom: 20px;
+}
+
+.styled-list ul li {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.float-child-title{
+  width: 100%;
+  border-bottom: solid 2px #154273;
+}
+
+.styled-list ul li::before {
+  content: '\203A'; /* Unicode arrow symbol */
+  margin-right: 8px;
+  color: #154273;
+  font-weight: bold;
+}
+
+/* Styling for the "Bekijk alle" links */
+.show-more {
+  margin-top: auto; /* Push the "Bekijk alle" link to the bottom */
+  text-decoration: underline;
+  color: #154273;
+  font-weight: bold;
+}
+
+/* Footer Sectie */
+.footer-section {
+  margin-top: 30px;
+  padding-top: 10px;
+  border-top: 1px solid #ddd;
+  text-align: left;
+}
+
+.footer-section h2 {
+  font-size: 1.5em;
+  color: #154273;
+  text-align: left;
+}
+
+.footer-section a {
+  color: #154273;
+  font-weight: bold;
+  text-align: left;
+
+}
+
+.footer-section a:hover {
+  text-decoration: underline;
+  text-align: left;
+}
+
+/* Full Width Outline Block */
+.full-width-outline-block {
+  width: 100%;
+  border: 1px solid #154273; /* Kleur van de outline */
+  border-radius: 5px;
+  padding: 20px;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.full-width-header {
+  font-size: 1.5em;
+  color: #154273;
+  margin: 0 0 10px;
+  text-align: left;
+}
+
+.full-width-item {
+  margin: 10px 0;
+  text-align: left;
+}
+
+.item-description {
+  font-size: 1em;
+  color: #666;
+  margin: 0 0 10px;
+  text-align: left;
+}
+
+.show-more-link {
+  font-weight: bold;
+  color: #154273;
+  text-decoration: none;
+  text-align: left;
+}
+
+.show-more-link:hover {
+  text-decoration: underline;
+  text-align: left;
+}
+
+[dir=ltr] .md-typeset .float-container ol li, [dir=ltr] .md-typeset .float-container ul li {
+  margin-left: 0;
+  text-align: left;
+}
+
+[dir=ltr] .md-typeset .float-container ol, [dir=ltr] .md-typeset .float-container ul {
+  margin-left: 0;
+}
+
+#algoritmekader {
+  margin-bottom: 0.2rem;
+}
+
+/* Badge Styling */
+.mdx-badge {
+  font-size: 0.85em;
+  display: inline-block;
+  margin: 0.2rem 0.3rem;
+  text-align: left;
+}
+
+.mdx-badge__icon {
+  border-radius: 0.1rem 0 0 0.1rem;
+  background: var(--md-accent-fg-color--transparent);
+  text-align: left;
+}
+
+.mdx-badge__text {
+  border-radius: 0 0.1rem 0.1rem 0;
+  padding: 0.2rem 0.3rem;
+  text-align: left;
+  text-decoration: none;
+}
+
+.mdx-badge a {
+  color: var(--md-accent-fg-color);
+  text-align: left;
+  text-decoration: none;
+}
+
+/* Grid Styling */
+.md-typeset .grid {
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  text-align: left;
+}
+
+/* Admonition Styling */
+:root {
+  --md-admonition-icon--simple: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58 13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42Z"/></svg>');
+}
+
+.md-typeset .admonition.simple,
+.md-typeset details.simple {
+  border-color: rgb(5, 80, 141);
+  text-align: left;
+}
+
+.md-typeset .simple > .admonition-title,
+.md-typeset .simple > summary {
+  background-color: rgba(185, 185, 185, 0.1);
+  text-align: left;
+}
+
+.md-typeset .simple > .admonition-title::before,
+.md-typeset .simple > summary::before {
+  background-color: rgb(5, 80, 141);
+  -webkit-mask-image: var(--md-admonition-icon--simple);
+  mask-image: var(--md-admonition-icon--simple);
+  text-align: left;
+}
+
+/* Algemene layout van de header */
+.header-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 24px;
+  text-align: left;
+}
+
+.version-container {
+  display: inline-flex;
+  align-items: center;
+  margin-right: 10px;
+  margin-top: -50px;
+  position: relative; /* Voeg dit toe om de hover-info correct te positioneren */
+}
+
+.version-label {
+  font-size: 0.85em;
+  background-color: #e5f1f9;
+  color: #154273;
+  padding: 4px;
+  border-radius: 3px;
+  font-weight: 500;
+  text-transform: capitalize;
+  cursor: pointer;
+  text-align: left;
+}
+
+.hover-info {
+  font-size: 0.85em;
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #fff;
+  color: #333;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 5px 10px;
+  white-space: normal;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  width: auto;
+  min-width: 300px;
+  max-width: 400px;
+}
+
+.version-container:hover .hover-info,
+.hover-info:hover {
+  display: block;
+}
+
+.subheader {
+  font-size: 1.2em;
+  color: #154273;
+  margin-left: 0;
+  text-align: left;
+}
+
+.md-container li{
+  color: #154273;
+}
+
+.md-source-file{
+  display: none;
+}
+
+.md-typeset, td {
+  line-height: 1.3;
+  font-size: .7rem;
+}
+
+.md-typeset ol li, .md-typeset ul li {
+  margin-bottom: .3em;
+}
+
+.md-typeset h1{
+  margin: 1em 0 .4em 0;
+  font-size: 2.8em;
+  font-weight: 600;
+  line-height: 1em;
+}
+
+.md-typeset h2{
+  margin: 1em 0 .5em 0;
+}
+
+.block-image {
+  width: 100%;           /* Zorgt ervoor dat de afbeelding over de breedte van het blok gaat */
+  height: 120px;         /* Stel een vaste hoogte in voor consistente weergave */
+  object-fit: cover;     /* Snijdt de afbeelding bij om het blok volledig te vullen */
+}
+
+.md-icon svg{
+  color: #154273;
+}
+
+.subheader{
+  font-size: 1.5em;
+}
+
+.grid a{
+  text-decoration: underline;
+  font-weight: 600;
+}
+
+.md-typeset a:hover{
+  color: #316fb3;
+}
+
+a{
+  text-decoration: underline;
+}
+
+.md-sidebar__scrollwrap{
+  scrollbar-color:#316fb3;
+}
+
+[data-md-color-accent=indigo]{
+  --md-accent-fg-color:#B2D7EE;
+}
+
+.button-primary {
+  background-color: #154273;
+  color: #fff;
+  border: 1px solid transparent;
+  /* Ensure it doesn't go full width */
+  display: inline-block;
+}
+
+.button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border-radius: 0.5em;
+  border: 1px solid #ccc;
+  display: inline-block; /* Avoid full width */
+  width: fit-content;
+  font-family: inherit;
+  font-weight: 700;
+  line-height: 1;
+  margin: 0 0.5em 0.5em 0;
+  -webkit-transition: color 150ms ease-in-out;
+  transition: color 150ms ease-in-out;
+  padding: 1em 1.2em 1em 1.2em;
+  position: relative;
+  text-align: center;
+  text-shadow: none;
+  user-select: none;
+  vertical-align: middle;
+  word-break: break-word;
+  font-size: 0.7rem;
+  cursor: pointer;
+}
+
+.float-child-content{
+padding:.3em 0 .2em 0;
+width: 85%;
+color: #154273;
+}
+
+[data-md-color-accent=indigo]{
+  --md-accent-fg-color:154271 !important;
+  --md-accent-fg-color--transparent:#B2D7EE;
+}
+
+[data-md-color-accent=teal]{
+  --md-accent-fg-color:#154271 !important;
+  --md-accent-fg-color--transparent:#E2EDDB;
+}
+
+[data-md-color-accent=deep-orange]{
+  --md-accent-fg-color:154271 !important;
+  --md-accent-fg-color--transparent:#FBEAD9;
+}
+
+[data-md-color-accent=blue]{
+  --md-accent-fg-color:154271 !important;
+  --md-accent-fg-color--transparent:#DCE3EA;
+}
+
+.mdx-badge {
+  text-decoration: none; /* Optional: remove underline */
+  transition: background-color 0.3s, color 0.3s; /* Smooth transition */
+}
+
+.mdx-badge:hover {
+  background-color: #f1f1f1; /* Change background color on hover */
+  color: #333; /* Change text color on hover */
+  border-radius: 4px; /* Optional: add rounded corners */
+}
+
+.mdx-badge__icon:hover {
+  transform: scale(1.1); /* Slightly scale the icon */
+  transition: transform 0.3s; /* Smooth scaling */
+}
+
+.mdx-badge__text:hover {
+  font-weight: bold; /* Make the text bold on hover */
+}
+
+/* Hide the stars */
+li.md-source_fact.md-source_fact--stars {
+  display: none;
+}
+
+/* Hide the forks */
+li.md-source_fact.md-source_fact--forks {
+  display: none;
+}
+
+li.md-source__fact.md-source__fact--version{
+  color: #154271;
+}
+
+.md-typeset .admonition.tip, .md-typeset details.tip{
+border-color: #B2D7EE;
+}
+
+.md-typeset .tip>.admonition-title, .md-typeset .tip>summary{
+background-color: #B2D7EE;
+}
+
+.md-typeset .admonition, .md-typeset details{
+  border: .075rem solid #B2D7EE;
+  border-radius: .2rem;
+  color: #154271;
+  display: flow-root;
+  font-size: .64rem;
+  margin: 1.5625em 0;
+  padding: 0 .6rem;
+  page-break-inside: avoid;
+}
+
+.md-typeset .tip>.admonition-title:before, .md-typeset .tip>summary:before{
+  background-color: #154271;
+}
+
+.md-typeset .md-button--primary{
+  background-color: #154271;
+  color: #FFFFFF;
+  border-color: #154271;
+  text-decoration: none;
+}
+
+.md-typeset .md-button--primary:hover{
+  background-color: #01689B;
+  color: #FFFFFF;
+  border-color: #01689B;
+  text-decoration: none;
+}

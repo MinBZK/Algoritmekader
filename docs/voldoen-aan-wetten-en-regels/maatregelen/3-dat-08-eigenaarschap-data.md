@@ -1,5 +1,6 @@
 ---
 title: Zorg dat je controle of eigenaarschap hebt over de data
+id: urn:nl:ak:mtr:dat-08
 toelichting: De organisatie heeft volledige controle of eigenaarschap over de data. Wanneer dit niet mogelijk is, zijn afspraken gemaakt om de functionele eisen te waarborgen.
 vereiste:
 - aia-05-data-kwaliteitscriteria

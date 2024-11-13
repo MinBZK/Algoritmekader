@@ -1,7 +1,8 @@
 ---
 title: Verantwoord datagebruik
 summary: 
-icon: material/database
+hide: 
+- path
 ---
 # Verantwoord datagebruik
 Overheden moeten verantwoord omgaan met de data die hun algoritmes gebruiken. De data moet voldoen aan regels voor bijvoorbeeld privacy. De kwaliteit van de data moet goed zijn. En overheden moeten deze gegevens goed beheren. Anders is het algoritme niet betrouwbaar.  

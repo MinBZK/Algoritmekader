@@ -1,5 +1,6 @@
 ---
 title: Pas vastgestelde interne beleidskaders toe en maak aantoonbaar dat deze zijn nageleefd bij het ontwikkelen, inkopen en gebruiken van algoritmes. 
+id: urn:nl:ak:mtr:owp-28
 toelichting: Hierbij kan worden gedacht aan het toepassen van definities, procedures, protocollen die van toepassing zijn binnen de organisatie. 
 vereiste:
 - awb-01-zorgvuldigheidsbeginsel
@@ -23,7 +24,10 @@ levenscyclus:
   
 onderwerp:
 - governance
-  
+
+rollen:
+- projectleider
+- beleid-en-advies
 # rollen:
 # - proceseigenaar
 # - beleidsmedewerker

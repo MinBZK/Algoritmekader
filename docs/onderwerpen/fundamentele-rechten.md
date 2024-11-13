@@ -1,7 +1,7 @@
 ---
 title: Grondrechten beschermen in algoritmes
-summary:
-icon: material/scale-balance
+hide: 
+- path
 ---
 
 # Grondrechten beschermen in algoritmes
@@ -35,7 +35,7 @@ Als overheid moet je hier goed op letten. Doe dit zo vroeg mogelijk in de [leven
 
 ## Hulpmiddelen
 
-<!-- list_hulpmiddelen onderwerp/fundamentele-rechten no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- list_hulpmiddelen onderwerp/fundamentele-rechten no-search no-onderwerp no-rol no-levenscyclus no-id -->
 
 ## Help ons deze pagina te verbeteren
 Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/issues/new/choose) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

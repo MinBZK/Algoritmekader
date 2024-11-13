@@ -73,7 +73,7 @@ Beveilig de algoritmes zelf tegen cybercriminelen. Belangrijke bedreigingen voor
 * Intellectueel eigendom of kwetsbaarheden afleiden uit de details van een AI-model.
 * Gevoelige informatie afleiden uit de eigenschappen van trainingsdata.
 
-Lees meer in het TNO-rapport Verkenning van het raakvlak cybersecurity en AI.
+Lees meer in het [TNO-rapport Verkenning van het raakvlak cybersecurity en AI](https://www.rijksoverheid.nl/documenten/rapporten/2024/10/28/tk-bijlage-4-tno-2024-r10768-verkenning-van-het-raakvlak-van-cybersecurity-en-ai).
 
 Aandachtspunten voor het beschermen van algoritmes tegen specifieke dreigingen:
 

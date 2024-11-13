@@ -1,5 +1,5 @@
 ---
-title: Gebruiksverantwoordelijken bewaren logs van een hoog risico AI-systeem die automatisch worden gegenereerd
+title: Logs voor hoog-risico-AI-systemen worden bewaard door de gebruiksverantwoordelijke
 id: urn:nl:ak:ver:aia-23
 toelichting: Gebruiksverantwoordelijken van AI-systemen met een hoog risico bewaren de logs die automatisch worden gegenereerd door dat AI-systeem met een hoog risico voor zover dergelijke logs onder hun controle vallen gedurende een periode die passend is voor het beoogde doel van het AI-systeem met een hoog risico, of ten minste zes maanden, tenzij anders is bepaald in het toepasselijke Unie- of nationaal recht, meer in het bijzonder het Unierecht over de bescherming van persoonsgegevens
 levenscyclus:
@@ -9,6 +9,13 @@ onderwerp:
 - technische-robuustheid-en-veiligheid
 rollen:
 - projectleider
+soort-toepassing:
+- ai-systeem
+- ai-systeem-voor-algemene-doeleinden
+publicatiecategorie:
+- hoog-risico-ai-systeem
+rol-ai-act:
+- gebruiksverantwoordelijke
 hide:
 - navigation
 ---
@@ -32,7 +39,8 @@ Gebruiksverantwoordelijken die in de hoedanigheid van financiële instellingen o
 
 [Artikel 26(6) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e4350-1-1)
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

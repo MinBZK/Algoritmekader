@@ -1,5 +1,5 @@
 ---
-title: Transparantie bij verwerking persoonsgegevens
+title: Organisaties zijn transparant over het verwerken van persoonsgegevens
 id: urn:nl:ak:ver:avg-07
 toelichting: De verwerking van persoonsgegevens moet transparant zijn. 
 levenscyclus:
@@ -35,7 +35,8 @@ Als persoonsgegevens worden verwerkt ten behoeve van het ontwikkelen of gebruike
 - [Artikel 14 Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679#d1e2347-1-1)
 - [Overweging 58 Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679#d1e40-1-1)
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

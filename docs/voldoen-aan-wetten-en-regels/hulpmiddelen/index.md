@@ -1,9 +1,10 @@
 ---
-title: hulpmiddelen
+title: Hulpmiddelen
 summary: Overzicht van de aanbevolen hulpmiddelen voor overheden die algoritmes of AI ontwikkelen of gebruiken. De hulpmiddelen helpen om te voldoen aan de vereisten.
+hide: navigation
 ---
 
-# hulpmiddelen
+# Hulpmiddelen
 Overzicht van aanbevolen hulpmiddelen voor het verantwoord ontwikkelen, gebruiken, beoordelen en monitoren van algoritmes en AI-systemen.
 
 ## Richtlijnen en andere hulpmiddelen
@@ -18,7 +19,7 @@ Met hulpmiddelen bedoelen we hulpmiddelen voor verantwoord en effectief gebruik 
 Deze hulpmiddelen helpen je bij het op een rij zetten, beoordelen en verbeteren van de kenmerken, prestaties, effecten en risico’s van algoritmes en AI.
 
 ## Hoe we hulpmiddelen selecteren
-hulpmiddelen die we aanbevelen, zijn:
+Hulpmiddelen die we aanbevelen, zijn:
 
 - relatief bekend onder ambtenaren
 - in gebruik door overheid, wetenschap of industrie 
@@ -34,3 +35,10 @@ Staat een instrument niet in onze selectie, dan kan het nog steeds een goed inst
 Als een instrument verplicht is, staat dit er duidelijk bij. Een verplicht hulpmiddel is bijvoorbeeld de [Data protection impact assessment (DPIA)](https://minbzk.github.io/Algoritmekader/vereisten/dpia_verplicht_bij_hoog_risico).
 
 De meeste hulpmiddelen zijn niet verplicht. Bepaal zelf of je er gebruik van maakt. 
+
+## Overzicht hulpmiddelen
+
+<!-- list_hulpmiddelen no-search no-onderwerp no-rol no-levenscyclus no-onderwerp no-id -->
+
+## Help ons deze pagina te verbeteren
+Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/hulpmiddelen/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

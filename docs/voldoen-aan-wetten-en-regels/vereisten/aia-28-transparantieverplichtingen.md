@@ -1,5 +1,5 @@
 ---
-title: Transparantieverplichtingen
+title: AI-systemen worden zo ontworpen en gebruikt, dat mensen begrijpen wanneer zij met een AI-systeem communiceren en welke content gemaakt is door een AI-systeem
 id: urn:nl:ak:ver:aia-28
 toelichting: Aanbieders van AI-systemen zorgen dat AI-sytemen zodanig worden ontworpen en ontwikkeld dat de betrokken natuurlijke personen worden geïnformeerd dat zij interacteren met een AI-systeem. 
 levenscyclus:
@@ -7,6 +7,14 @@ levenscyclus:
 - implementatie
 onderwerp:
 - transparantie
+soort-toepassing:
+- ai-systeem
+- ai-systeem-voor-algemene-doeleinden
+risicogroep:
+- hoog-risico-ai-systeem
+- geen-hoog-risico-ai-systeem
+rol-ai-act:
+- aanbieder
 rollen:
 - projectleider
 - ontwikkelaar
@@ -32,7 +40,8 @@ Dit geldt voor AI-systemen die:
 - Overweging 132 Verordening Artificiële Intelligentie
 - Overweging 134 Verordening Artificiële Intelligentie
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 ## Risico
 Bepaalde AI-systemen die bedoeld zijn om met natuurlijke personen te interageren of om content te genereren, kunnen specifieke risico’s op imitatie of misleiding met zich meebrengen, ongeacht of zij als systeem met een hoog risico gelden. 

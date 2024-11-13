@@ -1,25 +1,35 @@
 ---
-title: Modelcontractbepalingen
-toelichting: Modelbepalingen kunnen helpen om een contract op te stellen dat een organisatie in staat stelt veilige en verantwoorde algoritmen of AI-systemen in te kopen.
+title: Inkoopvoorwaarden
+toelichting: Goede inkoopvoorwaarden kunnen helpen om een contract op te stellen dat een organisatie helpt om veilige en verantwoorde algoritmen of AI-systemen in te kopen.
+categorie: 
+- template
 levenscyclus:
 - probleemanalyse
 - ontwerp
-- dataverkenning-en-datapreparatie
-- verificatie-en-validatie
 onderwerp:
 - publieke-inkoop
 rollen:
 - jurist
+- projectleider
+- beleid-en-advies
+maatregel:
+- 3-dat-08-eigenaarschap-data
+- 2-owp-16-leveren-bewijs-door-aanbieder-niet-schenden-auteursrechten
+- 2-owp-15-leveren-bewijs_voldoen-aan-vereisten-algoritme-aanbieder
+- 2-owp-13-vereisten-onderdeel-algemene-inkoopvoorwaarden-en-contractovereenkomst
+- 2-owp-23-kennisoverdracht-en-ondersteuning-aanbieder 
+- 2-owp-11-data-beschikbaarheid
+hide: navigation
 ---
 
 <!-- tags -->
 
-## Instrument
+## Hulpmiddel
 
-Modelbepalingen kunnen helpen om een contract op te stellen dat een organisatie in staat stelt veilige en verantwoorde algoritmen of AI-systemen in te kopen. 
-Deze bepalingen (of voorwaarden) kunnen opgenomen worden wanneer er een contract wordt afgesloten met een leverancier van een algoritme of algoritmisch systeem. 
+Voorbeelden of templates van inkoopvoorwaarden kunnen helpen om een contract op te stellen dat een organisatie in staat stelt veilige en verantwoorde algoritmen of AI-systemen in te kopen. Deze worden ook wel eens modelcontractbepalingen genoemd.
+Deze voorwaarden of bepalingen kunnen opgenomen worden wanneer er een contract wordt afgesloten met een leverancier van een algoritme of algoritmisch systeem. 
 Er kunnen dan bijvoorbeeld beperkingen gelden om onaanvaardbare risico's van AI te vermijden, of bepaalde voorwaarden gesteld worden waaraan een algoritme juist moet voldoen. 
-Ook kunnen bepaalde [voorwaarden worden opgenomen op basis van de vereisten](../voldoen-aan-wetten-en-regels/maatregelen/maak_vereiste_onderdeel_van_contractovereenkomst.md) in het Algoritmekader.
+Ook kunnen bepaalde [voorwaarden worden opgenomen op basis van de vereisten](../maatregelen/2-owp-13-vereisten-onderdeel-algemene-inkoopvoorwaarden-en-contractovereenkomst.md) in het Algoritmekader.
 
 ### Europese Commissie
 De Europese contractvoorwaarden voor AI bieden aanbestedende organisaties de mogelijkheid om specifieke clausules op te nemen in de overeenkomst. Op deze manier worden afspraken gemaakt over onderwerpen die in lijn zijn met de aankomende AI-Act. Er zijn 2 versies van de AI-inkoopvoorwaarden opgesteld: een [set voorwaarden voor AI-toepassingen met een hoog-risicoprofiel](https://www.pianoo.nl/sites/default/files/media/documents/2024-07/ai_procurement_clauses_template_high_risk_nl.pdf) en een [set voorwaarden voor AI-toepassingen met een laag-risicoprofiel](https://www.pianoo.nl/sites/default/files/media/documents/2024-07/AI_Procurement_Clauses_Template_NON_HIGH_RISK_NL-1.pdf).
@@ -42,13 +52,15 @@ Steeds meer organisaties kopen algoritmische toepassingen in die veel impact heb
 
 <!-- list_vereisten_on_maatregelen_page -->
 
+## Bijbehorende maatregelen
+
+<!-- list_maatregelen_on_hulpmiddelen_page -->
+
 ## Bronnen
 
-| Bron                        |
-|-----------------------------|
-|[Modelbepalingen voor gemeenten voor verantwoord gebruik van Algoritmische toepassingen](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/contractvoorwaarden-algoritmen/)|
-|[Contractvoorwaarden voor het inkopen van artificiële intelligentie (AI)](https://www.pianoo.nl/nl/document/21644/contractvoorwaarden-voor-het-inkopen-van-artificiele-intelligentie-ai)|
-|[AI-module bij de modelovereenkomst ARBIT-2022](https://www.pianoo.nl/nl/actueel/nieuws/nieuw-ai-module-bij-de-modelovereenkomst-arbit-2022)|
+- [Modelbepalingen voor gemeenten voor verantwoord gebruik van Algoritmische toepassingen](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/contractvoorwaarden-algoritmen/)
+- [Contractvoorwaarden voor het inkopen van artificiële intelligentie (AI)](https://www.pianoo.nl/nl/document/21644/contractvoorwaarden-voor-het-inkopen-van-artificiele-intelligentie-ai)
+- [AI-module bij de modelovereenkomst ARBIT-2022](https://www.pianoo.nl/nl/actueel/nieuws/nieuw-ai-module-bij-de-modelovereenkomst-arbit-2022)
 
 ## Voorbeeld
 

@@ -1,5 +1,5 @@
 ---
-title: Juistheid en actualiteit van gegevens
+title: Persoonsgegevens zijn juist en actueel
 id: urn:nl:ak:ver:avg-05
 toelichting: De te verwerken persoonsgegevens zijn juist, nauwkeurig en worden zo nodig geactualiseerd of gewist.
 levenscyclus:
@@ -29,7 +29,8 @@ In de context van algoritmes en AI is het van belang dat ook daar wordt onderzoc
 
 [Artikel 5 lid 1 sub d Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679#d1e1802-1-1)
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

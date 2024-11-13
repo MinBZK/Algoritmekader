@@ -1,5 +1,5 @@
 ---
-title: Verantwoordingsplicht voor de rechtmatigheid van de verwerking
+title: Organisaties kunnen bewijzen dat zij persoonsgegevens op de juiste manier verwerken
 id: urn:nl:ak:ver:avg-06
 toelichting: Bij het verwerken van persoonsgegevens voor algoritmes en AI-systemen moeten de verantwoordelijken kunnen aantonen dat de verwerking rechtmatig is.
 levenscyclus: 
@@ -43,6 +43,7 @@ Deze maatregelen zijn essentieel om de naleving van regelgeving met betrekking t
 - [Verantwoordingsplicht](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/avg-algemeen/verantwoordingsplicht)
 
 ## Wanneer van toepassing? 
+<!-- tags-ai-act --> 
 
 ## Risico 
 

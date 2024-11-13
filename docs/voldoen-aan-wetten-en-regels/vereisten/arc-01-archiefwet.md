@@ -12,18 +12,6 @@ onderwerp:
 rollen:
 - projectleider
 - ontwikkelaar
-soort-toepassing:
-- algoritme
-- ai-systeem
-- ai-systeem-voor-algemene-doeleinden
-- ai-model-voor-algemene-doeleinden
-risicogroep:
-- hoog-risico-ai-systeem
-- verboden-ai
-- geen-hoog-risico-ai-systeem
-rol-ai-act:
-- aanbieder
-- gebruiksverantwoordelijke
 hide:
 - navigation
 ---

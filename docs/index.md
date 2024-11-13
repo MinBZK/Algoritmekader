@@ -9,7 +9,7 @@ hide:
 <div class="header-container">
     <div class="subheader">Wetten en regels, tips en hulpmiddelen voor verantwoord gebruik van algoritmes en AI. 
     <span class="version-container">
-      <span class="version-label">Bètaversie</span>
+      <span class="version-label">bètaversie</span>
       <div class="hover-info">
         <p>Deze website is in ontwikkeling. Alle versies ontstaan op een open manier. <a href="overhetalgoritmekader/CONTRIBUTING/">Iedereen mag opmerkingen of suggesties geven.</a></p>
       </div>

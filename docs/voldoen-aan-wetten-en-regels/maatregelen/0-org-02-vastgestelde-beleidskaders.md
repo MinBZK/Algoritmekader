@@ -33,7 +33,7 @@ Pas vastgestelde interne beleidskaders toe en maak aantoonbaar dat deze zijn nag
 - Interne vastgestelde beleidskaders moeten worden toegepast bij het ontwikkelen, inkopen of gebruiken van algoritmes en AI-systemen.
 - Het is van belang dat tijdig, bijvoorbeeld in de [probleemanalyse fase](../../levenscyclus/probleemanalyse.md), inzichtelijk wordt gemaakt welke interne beleidskaders moeten worden toegepast.
 - Hierbij kan worden gedacht aan definities die moet worden gehanteerd, het naleven van inkoopbeleid, strategisch beleid volgen met betrekking tot het mogen inzetten van algoritmes en AI-systemen binnen de organisaties of het doorlopen van processen en protocollen die moeten worden toegepast.
-- Vraag de [betrokken experts](../voldoen-aan-wetten-en-regels/maatregelen/1-pba-04-betrek-belanghebbenden.md) welke beleidskaders van toepassing zijn vanuit diens specifieke expertise. 
+- Vraag de [betrokken experts](1-pba-04-betrek-belanghebbenden.md) welke beleidskaders van toepassing zijn vanuit diens specifieke expertise. 
 - Ten behoeve van controles en audits is het van belang dat aantoonbaar wordt gemaakt dat de vastgestelde beleidskaders zijn nageleefd. 
   
 ## Bijbehorende vereiste(n)

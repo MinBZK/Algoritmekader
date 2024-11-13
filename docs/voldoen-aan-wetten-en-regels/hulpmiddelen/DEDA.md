@@ -39,7 +39,7 @@ Het ondersteunt overheden bij het naleven van het [zorgvuldigheidsbeginsel](../v
 Door een interactieve vragenlijst en documentatie bevordert DEDA verantwoordingsplicht en transparantie.
 
 DEDA stimuleert interdisciplinaire samenwerking en helpt beleidsmakers, juristen en ontwikkelaars de ethische dimensies van data-analyse beter te begrijpen.
-Dit draagt bij aan zorgvuldige en rechtvaardige datagedreven oplossingen binnen de publieke sector. DEDA draagt bij aan [transparantie](../onderwerpen/transparantie/index.md) en uitlegbaarheid van datagebruik, essentieel voor publiek vertrouwen.
+Dit draagt bij aan zorgvuldige en rechtvaardige datagedreven oplossingen binnen de publieke sector. DEDA draagt bij aan [transparantie](../../onderwerpen/transparantie.md) en uitlegbaarheid van datagebruik, essentieel voor publiek vertrouwen.
 
 ## Auteur
 DEDA is ontwikkeld door de Data School van de Universiteit Utrecht. DEDA is in nauwe samenwerking met data-analisten ontwikkeld. Inmiddels is DEDA een wijdverspreid instrument, waar de Utrecht Data School ook trainingen en begeleiding bij geeft. [Via deze link](https://deda.dataschool.nl/workshop/) is meer informatie te vinden. 

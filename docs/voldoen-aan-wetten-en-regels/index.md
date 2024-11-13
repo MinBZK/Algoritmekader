@@ -18,11 +18,9 @@ hide:
     <ul>
       <li><a href="ai-verordening/">De AI-verordening in het kort</a></li>
     </ul>
-    <a href="https://ai-act-decisiontree.apps.digilab.network/" target="_blank" class="button md-button--secondary">Voer beslishulp AI-verordening uit</a>
+    <a href="https://ai-act-decisiontree.apps.digilab.network/" target="_blank" class="button md-button--primary">Voer beslishulp AI-verordening uit</a>
   </article>
-</section>
 
-<section class="float-container">
   <article class="styled-list">
     <h2><b>Vereisten</b></h2>
     <p>Overzicht van de belangrijkste vereisten voor overheden die algoritmes of AI-systemen ontwikkelen of gebruiken. Gebaseerd op wet- en regelgeving en bestaand beleid.</p>

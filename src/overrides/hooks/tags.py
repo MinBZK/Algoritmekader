@@ -44,7 +44,22 @@ def on_page_markdown(markdown: str, *, page: Page, config: MkDocsConfig, files: 
         return "".join(buttons)
 
     # Find and replace all external asset URLs in current page
-    return re.sub(r"<!-- tags -->", replace, markdown, flags=re.I | re.M)
+        # Find and replace all external asset URLs in current page
+    markdown = re.sub(
+        r"<!-- tags -->",
+        lambda match: replace(match),
+        markdown,
+        flags=re.I | re.M,
+    )
+
+    markdown = re.sub(
+        r"<!-- tags-ai-act -->",
+        lambda match: replace_ai_act(match),
+        markdown,
+        flags=re.I | re.M,
+    )
+
+    return markdown
 
 # -----------------------------------------------------------------------------
 # Helper functions
@@ -89,7 +104,6 @@ def _resolve(file: File, page: Page):
     
     path = posixpath.relpath(file.src_uri, page.file.src_uri)
     return posixpath.sep.join(path.split(posixpath.sep)[1:])
-# -----------------------------------------------------------------------------
 
 
 # Create badge

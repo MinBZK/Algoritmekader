@@ -1,5 +1,5 @@
 ---
-title: Persoonsgegevens verzamelen voor specifieke doeleinden
+title: Persoonsgegevens worden zo min mogelijk verwerkt
 id: urn:nl:ak:ver:avg-03
 toelichting: De verwerking van persoonsgegevens moet minimaal worden gehouden, dat wil zeggen dat die verwerking toereikend moet zijn, ter zake dienend en beperkt tot wat noodzakelijk is voor de doeleinden waarvoor zij worden verwerkt. 
 levenscyclus:
@@ -31,7 +31,8 @@ Voor het ontwikkelen en gebruiken van algoritmes of AI-systemen is het van belan
 
 [Artikel 5 lid 1 onder c Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679#d1e1802-1-1)
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

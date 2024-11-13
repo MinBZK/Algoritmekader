@@ -1,5 +1,5 @@
 ---
-title: Proportionaliteit en subsidiariteit
+title: Persoonsgegevens en andere data verwerken gebeurt proportioneel en subsidiair
 id: urn:nl:ak:ver:avg-04
 toelichting: Gegevensverwerking moet in verhouding staan tot het beoogde doel en persoonsgegevens mogen alleen verwerkt worden als er geen minder ingrijpende manier is om het doel te bereiken. Voor zover het gaat om de verwerking van persoonsgegevens moet dit vereiste aantoonbaar zijn. 
 levenscyclus: 
@@ -39,6 +39,7 @@ Het is van belang om deze principes te hanteren om te bepalen of en in welke vor
 
 
 ## Wanneer van toepassing? 
+<!-- tags-ai-act --> 
 
 
 ## Risico 

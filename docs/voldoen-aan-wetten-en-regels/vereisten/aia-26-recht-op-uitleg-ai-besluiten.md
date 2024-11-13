@@ -1,6 +1,6 @@
 ---
-title: Recht op uitleg AI-besluiten 
-id: urn:nl:ak:ver:aia-26
+title: Mensen over wie besluiten worden genomen door een hoog-risico-AI-systemen, krijgen op verzoek informatie over deze besluiten
+id: urn:nl:ak:ver:aia-28
 toelichting: Elke getroffen persoon op wie een besluit van toepassing is dat door de gebruiksverantwoordelijke wordt genomen op basis van de output van een in bijlage III vermeld AI-systeem met een hoog risico, met uitzondering van systemen die in punt 2 van die bijlage zijn vermeld, en dat rechtsgevolgen heeft voor die persoon, of op deze op vergelijkbare wijze aanzienlijke invloed heeft die hij of zij als nadelige gevolgen voor zijn of haar gezondheid, veiligheid of grondrechten beschouwt, heeft het recht om van de gebruiksverantwoordelijke duidelijke, inhoudelijke toelichting te verkrijgen bij de rol van het AI-systeem in de besluitvormingsprocedure en de voornaamste elementen van het genomen besluit.
 levenscyclus:
 - organisatieverantwoordelijkheden
@@ -12,6 +12,13 @@ onderwerp:
 - transparantie
 rollen:
 - projectleider
+soort-toepassing:
+- ai-systeem
+- ai-systeem-voor-algemene-doeleinden
+publicatiecategorie:
+- hoog-risico-ai-systeem
+rol-ai-act:
+- gebruiksverantwoordelijke
 hide:
 - navigation
 ---
@@ -35,7 +42,8 @@ Dit vereiste geldt bijvoorbeeld niet als het gaat om AI-systemen die bedoeld zij
 - [Artikel 26(11) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e4350-1-1)
 - [Bijlage III Verordening Artificiële Intelligentie]()
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

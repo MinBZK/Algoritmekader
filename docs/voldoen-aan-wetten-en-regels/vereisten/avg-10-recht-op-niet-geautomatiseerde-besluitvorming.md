@@ -1,5 +1,5 @@
 ---
-title: Recht op niet geautomatiseerde besluitvorming
+title: Besluiten die levens kunnen beïnvloeden, zijn niet volledig geautomatiseerd
 id: urn:nl:ak:ver:avg-10
 toelichting: Betrokkenen hebben het recht om niet onderworpen te worden aan een enkel op geautomatiseerde verwerking, waaronder proflering, gebaseerd besluit, wanneer dit rechtsgevolgen heeft voor hen of het hen anderszins in aanzienlijke mate treft.
 status_vereiste: 
@@ -34,6 +34,7 @@ Uitgangspunt is dat voor elk individueel geval een zorgvuldige beoordeling van d
 - [Artikel 1:3 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=1&titeldeel=1.1&artikel=1:3&z=2024-05-01&g=2024-05-01) 
 
 ## Wanneer van toepassing? 
+<!-- tags-ai-act --> 
 
 
 ## Risico 

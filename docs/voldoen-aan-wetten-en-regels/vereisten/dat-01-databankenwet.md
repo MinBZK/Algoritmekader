@@ -1,5 +1,5 @@
 ---
-title: Verbod op schenden databankenrechten
+title: Databanken worden alleen gebruikt met toestemming van de databank-producent
 id: urn:nl:ak:ver:dat-01
 toelichting: Het is verboden om zonder goedkeuring van de producent een databanken op te vragen en/of te hergebruiken.
 levenscyclus:
@@ -36,7 +36,8 @@ De data die hiervoor wordt gebruikt mag niet ongeoorloofd zijn verkregen uit een
 - [Artikel 7 Databankrichtlijn](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:31996L0009)
 - [Overwegingen 39 - 41 Databankrichtlijn](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:31996L0009)
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

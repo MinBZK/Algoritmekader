@@ -1,5 +1,5 @@
 ---
-title: Gebruiksverantwoordelijken, zijnde overheidsinstanties of instellingen, organen of instanties van de Unie, leven de registratieverplichting na als het gaat om een hoog risico AI-systeem
+title: Gebruiksverantwoordelijken controleren de registratie van het hoog-risico AI-systeem in de EU-databank
 id: urn:nl:ak:ver:aia-25
 toelichting: Gebruiksverantwoordelijken van AI-systemen met een hoog risico die de hoedanigheid van overheidsinstanties of instellingen, organen of instanties van de Unie hebben, leven de in artikel 49 bedoelde registratieverplichtingen na. Wanneer deze gebruiksverantwoordelijke vaststellen dat het AI-systeem met een hoog risico dat zij voornemens zijn te gebruiken niet in de in artikel 71 bedoelde EU-databank is geregistreerd, gebruiken zij dat systeem niet en stellen zij de aanbieder of de distributeur daarvan in kennis.
 levenscyclus:
@@ -11,6 +11,13 @@ onderwerp:
 - governance
 rollen:
 - projectleider
+soort-toepassing:
+- ai-systeem
+- ai-systeem-voor-algemene-doeleinden
+publicatiecategorie:
+- hoog-risico-ai-systeem
+rol-ai-act:
+- gebruiksverantwoordelijke
 hide:
 - navigation
 ---
@@ -37,7 +44,8 @@ AI-systemen met een hoog risico als bedoeld in punt 2 van bijlage III (kritieke 
 - [Artikel 49 (3) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5358-1-1)
 - [Artikel 71 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e7019-1-1)
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

@@ -1,5 +1,5 @@
 ---
-title: Gebruiksverantwoordelijken monitoren werking hoog risico AI-systeem
+title: De werking van hoog-risico-AI-systemen wordt gemonitord
 id: urn:nl:ak:ver:aia-22
 toelichting: Gebruiksverantwoordelijken monitoren de werking van het AI-systeem met een hoog risico op basis van de gebruiksaanwijzingen en stellen in voorkomend geval de aanbieders in kennis overeenkomstig artikel 72 AI Verordening
 levenscyclus:
@@ -8,6 +8,13 @@ onderwerp:
 - menselijke-controle
 rollen:
 - projectleider
+soort-toepassing:
+- ai-systeem
+- ai-systeem-voor-algemene-doeleinden
+publicatiecategorie:
+- hoog-risico-ai-systeem
+rol-ai-act:
+- gebruiksverantwoordelijke
 hide:
 - navigation
 ---
@@ -33,7 +40,8 @@ Voor gebruiksverantwoordelijke die in de hoedanigheid van financiële instelling
 
 [Artikel 26(5) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e4350-1-1)
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

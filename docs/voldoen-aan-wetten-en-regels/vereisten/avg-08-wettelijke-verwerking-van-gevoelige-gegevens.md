@@ -1,5 +1,5 @@
 ---
-title: Wettelijke uitzondering nodig voor verwerken bijzondere categorieën persoonsgegevens
+title: Gevoelige persoonsgegevens worden alleen gebruikt als hiervoor een wettelijke uitzondering geldt
 id: urn:nl:ak:ver:avg-08
 toelichting: Bijzondere categorieën van persoonsgegevens mogen alleen worden verwerkt op basis van een wettelijke uitzondering.
 levenscyclus:
@@ -38,7 +38,8 @@ Deze vereiste is ook van toepassing bij het ontwikkelen en gebruiken van algorit
 - [Overweging 51 - 54 AVG](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679#d1e4650-1-1)
 - [Artikel 22 - 30 UAVG](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=3&paragraaf=3.1&z=2021-07-01&g=2021-07-01)
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

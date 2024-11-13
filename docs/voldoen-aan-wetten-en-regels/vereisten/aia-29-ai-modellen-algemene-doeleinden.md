@@ -1,5 +1,5 @@
 ---
-title: Verplichtingen van aanbieders van AI-modellen voor algemene doeleinden 
+title: AI-modellen voor algemene doeleinden zijn voorzien van voldoende technische documentatie en informatie
 id: urn:nl:ak:ver:aia-29
 toelichting: Aanbieders van AI-modellen voor algemene doeleinden moeten (technische) informatie en documentatie opstellen, up-to-date houden en beschikbaar stellen voor aanbieders van AI-systemen die het AI-model voor algemene doeleinden in hun AI-systemen willen integreren. 
 levenscyclus:
@@ -10,6 +10,10 @@ onderwerp:
 - transparantie
 rollen:
 - projectleider
+soort-toepassing:
+- ai-model-voor-algemene-doeleinden
+rol-ai-act:
+- aanbieder
 hide:
 - navigation
 ---
@@ -37,7 +41,8 @@ In art. 53 lid 2 wordt een uitzondering gemaakt op deze vereisten.
 ## Bronnen
 [Artikel 53 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5576-1-1)
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

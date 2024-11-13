@@ -1,6 +1,6 @@
 ---
-title: Beoordeling van grondrechten
-id: urn:nl:ak:ver:aia-27
+title: Hoog-risico-AI-systemen voor publieke taken worden beoordeeld op gevolgen voor grondrechten
+id: urn:nl:ak:ver:aia-29
 toelichting: Voordat een AI-systeem met een hoog risico als bedoeld in artikel 6, lid 2 AI-verordening, in gebruik wordt genomen, met uitzondering van AI-systemen met een hoog risico die bedoeld zijn om te worden gebruikt op het in punt 2 van bijlage III vermelde gebied, voeren operatoren die publiekrechtelijke instellingen zijn of particuliere entiteiten zijn die openbare diensten verlenen, en operatoren van AI-systemen met een hoog risico als bedoeld in bijlage III, punt 5, onder b) en c), een beoordeling uit van de gevolgen voor de grondrechten die het gebruik van een dergelijk systeem kan opleveren.
 levenscyclus:
 - ontwerp
@@ -10,6 +10,13 @@ onderwerp:
 rollen:
 - projectleider
 - beleid-en-advies
+soort-toepassing:
+- ai-systeem
+- ai-systeem-voor-algemene-doeleinden
+publicatiecategorie:
+- hoog-risico-ai-systeem
+rol-ai-act:
+- gebruiksverantwoordelijke
 hide:
 - navigation
 ---
@@ -31,7 +38,8 @@ Het doel is om de bescherming van grondrechten te waarborgen bij het gebruik van
 - [Artikel 6.2 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e2986-1-1)
 - [Bijlage III.2 en III.5 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e38-127-1)
 
-## Wanneer van toepassing?
+## Wanneer van toepassing? 
+<!-- tags-ai-act -->
 
 
 ## Risico

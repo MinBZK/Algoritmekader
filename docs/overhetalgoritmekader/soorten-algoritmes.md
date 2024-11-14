@@ -41,81 +41,26 @@ Zelflerende technieken zijn in elk geval:
 * **Deep learning**: Supervised, unsupervised of reinforcement learning gecombineerd met diepe neurale netwerken. Dit zijn kunstmatige neurale netwerken met veel verschillende lagen. Hierdoor kun je nog ingewikkeldere problemen oplossen. Voorbeeld: [Geautomatiseerde gezichtsvergelijking bij het RNI-inschrijfproces](https://algoritmes.overheid.nl/nl/algoritme/geautomatiseerde-gezichtsvergelijking-bij-het-rniinschrijfproces-rijksdienst-voor-identiteitsgegevens/18814864).
 
 ## AI-systeem
-Met een AI-systeem bedoelen we een systeem dat kunstmatig intelligent is volgens de [Europese AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689). Dit zijn in elk geval systemen die gebruik maken van:
+Met een AI-systeem bedoelen we een systeem dat kunstmatig intelligent is volgens de [Europese AI-verordening](../voldoen-aan-wetten-en-regels/ai-verordening/#definitie-van-een-ai-systeem). Dit zijn in elk geval systemen die gebruik maken van:
 
 * supervised learning
 * unsupervised learning
 * reinforcement learning
 * deep learning
 
-Symbolische AI valt mogelijk onder een AI-systeem. Dit is nog onduidelijk in de EU-verordening.
 
 !!! tip "Tip"
 
     Twijfel je of je algoritme onderdeel is van een AI-systeem? Raadpleeg een expert. Of beschouw het systeem voor de zekerheid als een AI-systeem.
 
 ## Risicogroepen AI-systemen
-AI-systemen vallen mogelijk onder een risicogroep uit de EU-verordening. Het hangt ervan af waarvoor je dit AI-systeem gebruikt.
+AI-systemen vallen mogelijk onder een van de risicogroepen uit de AI-verordening:
 
-### Risico op misleiding
-Dit zijn AI-systemen die je gebruikt voor:
+* [Risico op misleiding](../voldoen-aan-wetten-en-regels/ai-verordening/#risico-op-misleiding)
+* [Hoog-risico-AI-systemen](../pr-preview/pr-374/voldoen-aan-wetten-en-regels/ai-verordening/#hoog-risico-ai-systemen)
+* [Verboden AI-systemen](../voldoen-aan-wetten-en-regels/ai-verordening/#verboden-ai-systemen)
 
-* **interactie met mensen**, zoals AI-chatbots
-* **genereren van content**, zoals afbeeldingen laten maken door Dall-E 
-
-Over deze systemen moet je [transparant](../onderwerpen/transparantie.md) zijn. Gebruikers mogen niet denken dat zij te maken hebben met echte mensen of originele content.
-
-Zie [AI-verordening, hoofdstuk IV](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#d1e5418-1-1).
-
-### Hoog-risico-AI-systemen
-Dit zijn AI-systemen die je gebruikt als veiligheidsonderdeel van bepaalde producten of AI-systemen die je gebruikt voor bepaalde diensten of processen.
-
-#### Veiligheidsonderdeel
-Je AI-systeem speelt een belangrijke rol in de veiligheid van een product. En dit product valt onder de harmonisatiewetgeving van de EU, zoals:
-
-* machines
-* speelgoed
-* liften
-* uitrusting en beveiligingssystemen voor plaatsen met ontploffingsgevaar
-* radioapparatuur
-* drukapparatuur
-* pleziervaartuigen
-* kabelbaaninstallaties
-* gastoestellen
-* medische hulpmiddelen
-* hulpmiddelen voor het testen van menselijk materiaal (in-vitrodiagnostiek)
-* auto-industrie
-* luchtvaartindustrie
-
-Zie [AI-verordening, bijlage I](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#d1e38-124-1).
-
-#### Diensten of processen
-Je gebruikt het AI-systeem voor:
-
-* **Biometrie**, zoals het herkennen of indelen van mensen op basis van hun vingerafdruk, gezicht of andere lichamelijke kenmerken.
-* **Kritieke infrastructuur**, zoals het veilig houden van digitale netwerken en verkeersnetwerken en het leveren van elektriciteit, water, gas en warmte.
-* **Onderwijs en beroepsopleiding**, zoals het bepalen welke studenten je toelaat en het beoordelen van hun prestaties of gedrag.
-* **Werkgelegenheid, personeelsbeheer en toegang tot zelfstandige arbeid**, zoals het werven en selecteren van mensen, besluiten nemen die invloed hebben op hun contract en het beoordelen van hun prestaties of gedrag.  
-* **Essentiële particuliere en openbare diensten**, zoals bepalen wie recht heeft op uitkeringen, gezondheidszorg en andere belangrijke diensten en wie noodhulp krijgt van politie, brandweer en ambulance, het beoordelen van iemands financiële situatie, fraude opsporen en het bepalen van risico’s en prijzen voor levensverzekeringen en ziektekostenverzekeringen.
-* **Rechtshandhaving**, zoals iemands kans inschatten om slachtoffer of dader te worden, het gebruik van een leugendetector, het beoordelen van bewijsmateriaal en het opsporen van verdachten.
-* **Migratie, asiel en grenzen**, zoals inschatten wat de kans is dat iemand gevaarlijk of illegaal is, het behandelen van aanvragen en klachten en het herkennen of opsporen van mensen.
-* **Rechtsbedeling en democratische processen**, zoals het uitleggen van de wet aan een rechtbank, gerechtshof of de Hoge Raad, advies geven bij een geschil of het beïnvloeden van de uitslag van een verkiezing.
-
-Zie [AI-verordening, bijlage III](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#d1e38-127-1).
-
-### Verboden AI-systemen
-Dit zijn AI-systemen die:
-
-* **misleiden**
-* **misbruik maken van kwetsbaarheden of gevoelige situaties**, zoals het overhalen van mensen met schulden om iets te kopen
-* **sociale scores bijhouden** voor gedrag van mensen en hen hiervoor straffen
-* **beoordelen** hoe groot het risico is dat iemand een strafbaar feit pleegt
-* **afbeeldingen van gezichten ‘scrapen’ (verzamelen)** via internet of bewakingscamera’s en deze opslaan in een databank
-* **emoties herkennen** van mensen op hun werkplek of op school
-* **biometrisch categoriseren**: mensen indelen in gevoelige categorieën zoals ras en geloof, op basis van lichamelijke kenmerken zoals huidskleur
-* **biometrisch identificeren op afstand voor rechtshandhaving**, zoals gezichten herkennen via camera’s op een openbaar plein (hiervoor gelden uitzonderingen in ernstige situaties zoals ontvoeringen en terrorisme)
-
-Zie [AI-verordening, artikel 5](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#d1e2816-1-1).
+Het hangt ervan af waarvoor je dit AI-systeem gebruikt.
 
 ## Impact van algoritmes
 Impactvolle algoritmes moet je publiceren in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). Dat moet in elk geval in deze situaties:

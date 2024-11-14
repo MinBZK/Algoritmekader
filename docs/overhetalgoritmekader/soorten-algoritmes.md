@@ -56,9 +56,9 @@ Met een AI-systeem bedoelen we een systeem dat kunstmatig intelligent is volgens
 ## Risicogroepen AI-systemen
 AI-systemen vallen mogelijk onder een van de risicogroepen uit de AI-verordening:
 
-* [Risico op misleiding](../voldoen-aan-wetten-en-regels/ai-verordening/#risico-op-misleiding)
-* [Hoog-risico-AI-systemen](../pr-preview/pr-374/voldoen-aan-wetten-en-regels/ai-verordening/#hoog-risico-ai-systemen)
-* [Verboden AI-systemen](../voldoen-aan-wetten-en-regels/ai-verordening/#verboden-ai-systemen)
+* [Risico op misleiding](../voldoen-aan-wetten-en-regels/ai-verordening#risico-op-misleiding)
+* [Hoog-risico-AI-systemen](../pr-preview/pr-374/voldoen-aan-wetten-en-regels/ai-verordening#hoog-risico-ai-systemen)
+* [Verboden AI-systemen](../voldoen-aan-wetten-en-regels/ai-verordening#verboden-ai-systemen)
 
 Het hangt ervan af waarvoor je dit AI-systeem gebruikt.
 

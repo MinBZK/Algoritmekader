@@ -4,7 +4,7 @@ hide: navigation
 
 # AI-verordening in het kort
 
-In de AI-verordening staan de Europese regels voor verantwoorde ontwikkeling en gebruik van AI. Ongewenste AI is verboden vanaf 2 februari 2025. Andere AI-systemen moeten vanaf 2026 of vóór 2030 voldoen aan bepaalde vereisten.
+In de AI-verordening staan de Europese regels voor het verantwoord ontwikkelen en gebruiken van AI. Ongewenste AI is verboden vanaf 2 februari 2025. Andere AI-systemen moeten vanaf 2026 of vóór 2030 voldoen aan bepaalde vereisten.
 
 [Verordening (EU) 2024/1689 (AI-verordening)](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689)
 

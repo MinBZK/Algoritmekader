@@ -25,7 +25,7 @@ hide:
     <h3><b>Onderwerpen</b></h3>
     <ul>
       <li><a href="onderwerpen/bias-en-non-discriminatie/">Bias en non-discriminatie</a></li>
-      <li><a href="governance/">Governance</a></li>
+      <li><a href="onderwerpen/governance/">Governance</a></li>
       <li><a href="onderwerpen/transparantie/">Transparantie</a></li>    
       <li><a href="onderwerpen/privacy-en-gegevensbescherming/">Privacy & gegevensbescherming</a></li>
       <li><a href="onderwerpen/publieke-inkoop/">Publieke inkoop</a></li>

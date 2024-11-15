@@ -39,10 +39,9 @@ hide:
     <div class="float-box">
     <h3><b>Informatie per rol</b></h3>
     <ul>
-      <li><a href="rollen/beleidsmedewerker/">Beleidsmedewerker</a></li>
-      <li><a href="rollen/data-scientist/">Data scientist</a></li>
-      <li><a href="rollen/ethicus/">Ethici</a></li>
+      <li><a href="rollen/beleid-en-advies/">Beleid en advies</a></li>
       <li><a href="rollen/jurist/">Jurist</a></li>
+      <li><a href="rollen/ontwikkelaar/">Ontwikkelaar</a></li>
       <li><a href="rollen/projectleider/">Projectleider</a></li>
     </ul>
     <a href="rollen/" class="show-more"><b>Bekijk alle rollen</b></a>

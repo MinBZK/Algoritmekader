@@ -2,7 +2,7 @@
 title: Projectleider
 hide:
   - toc
-  - navigation
+  - path
 ---
 
 ## Algemeen

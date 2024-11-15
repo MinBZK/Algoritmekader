@@ -2,7 +2,7 @@
 title: Ontwikkelaar
 hide:
   - toc
-  - navigation
+  - path
 ---
 
 ## Algemeen

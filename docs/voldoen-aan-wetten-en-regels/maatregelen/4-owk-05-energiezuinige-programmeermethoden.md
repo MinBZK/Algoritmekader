@@ -46,7 +46,6 @@ Energiezuinig programmeren maakt het mogelijk om de voetafdruk van algoritmes te
 Zonder energie-efficiënte methoden kan het algoritme onnodig veel energie verbruiken, wat leidt tot hogere operationele kosten en een grotere milieu-impact.
 
 ## Bronnen
-- 
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->

@@ -6,7 +6,6 @@ levenscyclus:
 - ontwikkelen
 - monitoring-en-beheer
 onderwerp:
-- transparantie
 - technische-robuustheid-en-veiligheid
 soort-toepassing:
 - ai-systeem

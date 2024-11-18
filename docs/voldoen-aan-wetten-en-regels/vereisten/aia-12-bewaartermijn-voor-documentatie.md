@@ -7,7 +7,6 @@ levenscyclus:
 - monitoring-en-beheer
 - uitfaseren
 onderwerp: 
-- transparantie
 - technische-robuustheid-en-veiligheid
 rollen:
 - projectleider

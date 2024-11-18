@@ -7,7 +7,7 @@ levenscyclus:
 - monitoring-en-beheer
 - ontwikkelen
 onderwerp:
-- governance
+- transparantie
 - data
 rollen:
 - projectleider

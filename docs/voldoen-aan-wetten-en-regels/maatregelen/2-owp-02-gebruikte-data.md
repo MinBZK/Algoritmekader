@@ -9,6 +9,7 @@ levenscyclus:
 - dataverkenning-en-datapreparatie
 onderwerp:
 - data
+- transparantie
 rollen:
 - ontwikkelaar
 - beleid-en-advies

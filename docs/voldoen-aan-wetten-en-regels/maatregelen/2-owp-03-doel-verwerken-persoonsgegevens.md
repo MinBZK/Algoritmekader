@@ -13,6 +13,7 @@ levenscyclus:
 - implementatie
 onderwerp:
 - privacy-en-gegevensbescherming
+- transparantie
 rollen:
 - projectleider
 - jurist

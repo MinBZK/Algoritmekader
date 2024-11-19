@@ -10,6 +10,7 @@ levenscyclus:
 - ontwerp
 onderwerp:
 - technische-robuustheid-en-veiligheid
+- transparantie
 rollen:
 - ontwikkelaar
 hide:

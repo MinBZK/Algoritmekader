@@ -17,6 +17,7 @@ levenscyclus:
 # vul hier de bouwblokken in die horen bij deze maatregel
 onderwerp: 
 - fundamentele-rechten
+- transparantie
 
 rollen:
 - projectleider

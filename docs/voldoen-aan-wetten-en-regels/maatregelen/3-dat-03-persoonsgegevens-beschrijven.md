@@ -11,6 +11,7 @@ levenscyclus:
 - verificatie-en-validatie
 onderwerp:
 - privacy-en-gegevensbescherming
+- transparantie
 rollen:
 - projectleider
 - ontwikkelaar

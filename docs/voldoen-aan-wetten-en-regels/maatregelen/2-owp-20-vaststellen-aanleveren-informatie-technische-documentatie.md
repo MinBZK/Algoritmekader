@@ -13,6 +13,7 @@ levenscyclus:
 # vul hier de bouwblokken in die horen bij deze maatregel
 onderwerp:
 - publieke-inkoop
+- transparantie
 # vul hier de rollen in die betrokken zijn bij deze maatregel
 rollen:
 - projectleider

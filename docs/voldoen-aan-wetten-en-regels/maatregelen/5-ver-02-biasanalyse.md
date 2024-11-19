@@ -12,6 +12,7 @@ levenscyclus:
 - monitoring-en-beheer
 onderwerp:
 - bias-en-non-discriminatie
+- transparantie
 rollen:
 - projectleider
 - beleid-en-advies

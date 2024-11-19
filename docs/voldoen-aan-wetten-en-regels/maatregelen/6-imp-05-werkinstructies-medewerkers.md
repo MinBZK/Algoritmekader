@@ -17,6 +17,7 @@ levenscyclus:
 onderwerp: 
 - governance
 - menselijke-controle
+- transparantie
 rollen:
 - projectleider
 - beleid-en-advies

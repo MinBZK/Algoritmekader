@@ -87,6 +87,8 @@ Het risico is dat partijen niet of onvolledig worden geïnformeerd over de ontwi
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
+[Bouwstenen van een communicatieplan](https://communicatiekompas.nl/hulpmiddelen/bouwstenen-van-een-communicatieplan)
+
 [WMO voorspelmodel](https://wmovoorspelmodel.vng.nl/)
 
 [Handreiking WMO voorspelmodel](https://wmovoorspelmodel.vng.nl/Handreiking%20Wmo%20Voorspelmodel%20juli%202024.pdf)

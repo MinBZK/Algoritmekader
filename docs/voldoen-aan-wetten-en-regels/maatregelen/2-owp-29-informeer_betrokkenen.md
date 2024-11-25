@@ -29,7 +29,7 @@ Stel vast welke betrokkenen geïnformeerd moeten worden over de ontwikkeling en 
 
 ## Toelichting 
 <!-- Geef hier een toelichting van deze maatregel -->
-Welke informatie over algoritmes relevant, is verschilt per partij. Het is van belang om deze partijen in beeld te brengen en vast te stellen welke informatie voor hen relevant is. Raadpleeg hierbij al vastgestelde [beleidskaders](beleid_opstellen_inzet_algoritmes.md), waarin is beschreven welke informatie in welke gevallen moet worden gecommuniceerd. 
+Welke informatie over algoritmes relevant, is verschilt per partij. Het is van belang om deze partijen in beeld te brengen en vast te stellen welke informatie voor hen relevant is. Raadpleeg hierbij al vastgestelde [beleidskaders](0-org-02-beleid_opstellen_inzet_algoritmes.md), waarin is beschreven welke informatie in welke gevallen moet worden gecommuniceerd. 
 
 Stel bijvoorbeeld de volgende vragen:
 
@@ -43,7 +43,7 @@ Stel bijvoorbeeld de volgende vragen:
 
 Maak bij het vaststellen van de informatiebehoefte onderscheid tussen transparantie, uitlegbaarheid en interpreteerbaarheid. Houd daarbij ook rekening met zaken die vereist zijn om te kunnen communiceren, denk hierbij aan het kunnen uitleggen hoe een automatisch genomen besluit tot stand is gekomen
 
-Deze behoeften en vereisten bepalen in vergaande mate welke [type algoritmes](gebruikte-techniek.md) geschikt zijn om een overheidstaak mee te ondersteunen.  
+Deze behoeften en vereisten bepalen in vergaande mate welke [type algoritmes](2-owp-05-gebruikte-techniek.md) geschikt zijn om een overheidstaak mee te ondersteunen.  
 
 Bepaal vervolgens aan de hand van de levenscyclus wanneer, welke informatie wanneer beschikbaar moet worden gesteld. Stel vast wie verantwoordelijk is voor het opstellen of het leveren van een bijdrage aan deze informatie.
 

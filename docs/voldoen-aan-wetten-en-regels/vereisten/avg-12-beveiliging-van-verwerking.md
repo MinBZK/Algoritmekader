@@ -25,7 +25,7 @@ Rekening houdend met de stand van de techniek, de uitvoeringskosten, alsook met 
 
 Voor de ontwikkeling en gebruik van algoritmes is data nodig.
 Deze data kan persoonsgegevens bevatten die moeten worden beschermd.
-De organisatie zal technische en organisatorische maatregelen moeten treffen om de data en de algoritmische toepassing of AI-systeem voldoende te beschermen.
+De organisatie zal technische en organisatorische maatregelen moeten treffen om de data en het algoritme voldoende te beschermen.
 Hierbij kan worden gedacht aan dataminimalisatie, het pseudonimiseren of aggregeren van persoonsgegevens.
 Per toepassing moet worden onderzocht welke maatregelen hiervoor geschikt zijn.
 

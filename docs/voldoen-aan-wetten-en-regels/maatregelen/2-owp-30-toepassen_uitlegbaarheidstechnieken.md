@@ -28,21 +28,18 @@ Pas uitlegbaarheidstechnieken toe en evalueer en valideer deze.
 Uitlegbaarheidstechnieken dragen bij aan het transparant maken van de werking van een algoritme.
 De keuze voor het type algoritme bepaalt hoe transparant je kunt zijn. Van rekenregels kun je namelijk precies uitleggen hoe deze tot een beslissing komen. Maar complexe AI-systemen kunnen een black box zijn.  Het is dan onduidelijk hoe deze systemen beslissingen maken. 
 
-Er zijn veel technieken vindbaar om de werking en keuzes van een algoritme beter bloot te leggen. De techniek en de mate waarin uitlegbaarheid mogelijk is, is afhankelijk van het type algoritme waarvoor gekozen wordt en de [informatiebehoeften](2-owp-29-informeer_betrokkenen.md) en vereisten die gelden. Het is belangrijk de betrokken partijen samen vastleggen welke methodiek moet worden toegepast. Onder bronnen kan informatie worden geraadpleegd die helpen bij het vinden van de juiste methodiek. 
+Er zijn veel technieken beschikbaar om de werking en keuzes van een algoritme beter bloot te leggen. Er moet een keuze worden gemaakt welke geschikt zijn gezien de [informatiebehoeften](2-owp-29-informeer_betrokkenen.md), de vereisten die gelden en wat technische mogelijk is gezien het type algoritme. Het is belangrijk de betrokken partijen samen vastleggen welke methodiek moet worden toegepast. Onder bronnen kan informatie worden geraadpleegd die helpen bij het vinden van de juiste methodiek. 
+
+**Besluitvorming**
+Onderzoek in hoeverre de uitlegbaarheidstechnieken kunnen bijdragen aan het formeleren van een motivering bij de totstandkoming van een besluit. Denk bijvoorbeeld aan het koppelen van de output van het algoritme aan het zaakdossier, zodat een belanghebbende deze ontvangen bij het opvragen van diens dossier, of om deze output of informatie hierover een plek te geven in de beschikking. 
 
 **Veiligheid**
 
 Vanuit veiligheidsoverwegingen kan bij specifieke algoritmes besloten worden om bepaalde informatie over de werking van een algoritme niet aan iedereen vrij te geven. Houd rekening met mogelijke risico’s op aanvallen die kunnen ontstaan door het gebruik van uitlegbaarheidstechnieken, zoals omschreven in: A Survey of Privacy-Preserving Model Explanations: Privacy Risks, Attacks, and Countermeasures. 
 
-**Transparency by design** 
-
-Een manier om transparantie te bewerkstelligen is door het algoritme volgens het transparency-by-design gedachtegoed te ontwikkelen. Dit gedachtegoed is geïnspireerd door het privacy by design raamwerk. Door dit gedachtegoed toe te passen kan je ervoor zorgen dat transparantie in het volledige ontwikkelproces, en dus ook bij het ontwerp, wordt meegenomen. 
-
 **Evaluatie en validatie**
-Evalueer de uitlegbaarheid van het systeem op functionele, operationele, bruikbaarheids- en veiligheidsvereisten bij betrokkenen, bijvoorbeeld de gebruikers. Valideer in ieder geval dat de uitkomst van het algoritme begrijpelijk genoeg is voor gebruiker om hier op een verantwoorde wijze mee te werken. 
 
-**Besluitvorming**
-Onderzoek in hoeverre de uitlegbaarheidstechnieken kunnen bijdragen aan het formeleren van een motivering bij de totstandkoming van een besluit. Denk bijvoorbeeld aan het koppelen van de output van het algoritme aan het zaakdossier, zodat een belanghebbende deze ontvangen bij het opvragen van diens dossier, of om deze output of informatie hierover een plek te geven in de beschikking. 
+Evalueer de uitlegbaarheid van het systeem op functionele, operationele, bruikbaarheids- en veiligheidsvereisten bij betrokkenen, bijvoorbeeld de gebruikers. Valideer in ieder geval dat de uitkomst van het algoritme begrijpelijk genoeg is voor gebruiker om hier op een verantwoorde wijze mee te werken. Zorg ervoor dat als het algoritme niet meer naar behoren functioneert, er een procedure is beschreven om dit te herstellen of (tijdelijk) te stoppen met het gebruik maken van het algoritme.
 
 ## Bijbehorende vereiste(n)
 
@@ -53,14 +50,14 @@ Als er geen rekening wordt gehouden met de benodigde uitlegbaarheid van een algo
 
 ## Bronnen
 - [Toolkit voor implementatie](https://xaitk.org/)
-- [XAI as a service (IBM)](https://research.ibm.com/blog/ai-explainability-360)
-- [Tools voor design (Google)](https://pair.withgoogle.com/)
-- [Paper over (evaluatie) toolkits](https://www.ijcai.org/proceedings/2023/0747.pdf)
+- [An introduction to explainable AI with Shapley values](https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html)
+- [Paper over (de evaluatie van) toolkits](https://www.ijcai.org/proceedings/2023/0747.pdf)
 - [UXAI: Design Strategy](https://www.uxai.design/design-strategy)
-- [Overzicht metrieken XAI](https://dl.acm.org/doi/pdf/10.1145/3583558)
+- [Overzicht (evaluatie van) metrieken XAI](https://dl.acm.org/doi/pdf/10.1145/3583558)
 - [Part 2: Explaining AI in practice | ICO](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/explaining-decisions-made-with-artificial-intelligence/part-2-explaining-ai-in-practice/)
 - [A Survey of Privacy-Preserving Model Explanations: Privacy Risks, Attacks, and Countermeasures](https://arxiv.org/pdf/2404.00673)
-- [Towards Transparency by Design for Artificial Intelligence | Science and Engineering Ethics](https://link.springer.com/article/10.1007/s11948-020-00276-4)
+- [Towards Transparency by Design for Artificial Intelligence | Science and Engineering Ethics](https://link.springer.com/content/pdf/10.1007/s11948-020-00276-4.pdf).
+- [From Anecdotal Evidence to Quantitative Evaluation Methods: A Systematic Review on Evaluating Explainable AI](https://dl.acm.org/doi/pdf/10.1145/3583558)
 
 ## Voorbeeld
 

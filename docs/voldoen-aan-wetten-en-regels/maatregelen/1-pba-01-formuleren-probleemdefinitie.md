@@ -1,7 +1,7 @@
 ---
 title: Beschrijf het probleem dat het algoritme moet oplossen
 id: urn:nl:ak:mtr:pba-01
-toelichting: Formuleer en documenteer wat de aanleiding is om een algoritme of AI-systeem in te willen zetten. 
+toelichting: Formuleer en documenteer wat de aanleiding is om een algoritme in te willen zetten. 
 vereiste:
 - awb-01-zorgvuldigheidsbeginsel
 levenscyclus:
@@ -19,7 +19,7 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-Formuleer en documenteer wat de aanleiding is om een algoritme of AI-systeem in te willen zetten. 
+Formuleer en documenteer wat de aanleiding is om een algoritme in te willen zetten. 
 Formuleer duidelijk de probleemdefinitie en probleemafbakening waarvoor het algoritme een oplossing zou moeten vormen. 
 
 ## Toelichting

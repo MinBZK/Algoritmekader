@@ -29,7 +29,7 @@ Stel vast welke betrokkenen geïnformeerd moeten worden over de ontwikkeling en 
 
 ## Toelichting 
 <!-- Geef hier een toelichting van deze maatregel -->
-Welke informatie over algoritmes relevant, is verschilt per partij. Het is van belang om deze partijen in beeld te brengen en vast te stellen welke informatie voor hen relevant is. Raadpleeg hierbij al vastgestelde beleidskaders, waarin is beschreven welke informatie in welke gevallen moet worden gecommuniceerd. 
+Welke informatie over algoritmes relevant, is verschilt per partij. Het is van belang om deze partijen in beeld te brengen en vast te stellen welke informatie voor hen relevant is. Raadpleeg hierbij al vastgestelde [beleidskaders](beleid_opstellen_inzet_algoritmes.md), waarin is beschreven welke informatie in welke gevallen moet worden gecommuniceerd. 
 
 Stel bijvoorbeeld de volgende vragen:
 
@@ -45,13 +45,13 @@ Maak in het vaststellen van de informatiebehoeft onderscheid tussen transparanti
 
 Stel een communicatieplan op over de ontwikkeling en gebruik van het algoritme. Hierin kunnen zaken worden opgenomen als:
 
-•	Het doel van het algoritme
+•	Het doel van het algoritme.
 
-•	Mogelijkheden van het algoritme
+•	Mogelijkheden van het algoritme.
 
-•	Beperkingen van het algoritme
+•	Beperkingen van het algoritme.
 
-•	Context waarin het algoritme wordt toegepast
+•	Context waarin het algoritme wordt toegepast.
 
 •	Wie heeft informatie nodig?
 

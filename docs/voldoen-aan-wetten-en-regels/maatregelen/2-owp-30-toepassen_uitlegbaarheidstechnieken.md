@@ -31,6 +31,7 @@ De keuze voor het type algoritme bepaalt hoe transparant je kunt zijn. Van reken
 Er zijn veel technieken beschikbaar om de werking en keuzes van een algoritme beter bloot te leggen. Er moet een keuze worden gemaakt welke geschikt zijn gezien de [informatiebehoeften](2-owp-29-informeer_betrokkenen.md), de vereisten die gelden en wat technische mogelijk is gezien het type algoritme. Het is belangrijk de betrokken partijen samen vastleggen welke methodiek moet worden toegepast. Onder bronnen kan informatie worden geraadpleegd die helpen bij het vinden van de juiste methodiek. 
 
 **Besluitvorming**
+
 Onderzoek in hoeverre de uitlegbaarheidstechnieken kunnen bijdragen aan het formeleren van een motivering bij de totstandkoming van een besluit. Denk bijvoorbeeld aan het koppelen van de output van het algoritme aan het zaakdossier, zodat een belanghebbende deze ontvangen bij het opvragen van diens dossier, of om deze output of informatie hierover een plek te geven in de beschikking. 
 
 **Veiligheid**

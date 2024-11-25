@@ -8,6 +8,7 @@ In deze fase wordt het probleem en de doelstellingen van een opdrachtgever geana
 Er wordt bijvoorbeeld onderzocht welke publieke taak moet worden ondersteund en welke publieke waarden daarbij moeten worden beschermd of juist gerealiseerd. 
 In deze fase wordt onderzocht of het ontwikkelen van een algoritme een geschikt middel is om het doel te realiseren en het probleem op te lossen.
 Dat hangt van verschillende zaken af. 
+
 Hierbij kan worden gedacht aan de middelen (capaciteit en financiële middelen) die nodig zijn om algoritmen op een verantwoorde wijze te ontwikkelen, de complexiteit van de oplossing, het in beeld brengen van de verwachte risico's (hoog over), een eerste beeld krijgen bij wat voor data nodig zijn en het in kaart brengen en beleggen van de verschillende verantwoordelijkheden. 
 Daarnaast is het van belang om het beleid met betrekking tot de inzet van algoritme een organisatie te raadplegen.  
 

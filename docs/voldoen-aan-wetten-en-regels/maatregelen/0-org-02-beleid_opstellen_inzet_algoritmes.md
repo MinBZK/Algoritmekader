@@ -66,6 +66,6 @@ ISO/IEC 42001: Artificial intelligence (AI) Management System
 
 [Webpagina van gemeente Amsterdam over algoritmes](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/algoritmen/).
 
-[Bouwstenen van een communicatieplan](https://communicatiekompas.nl/hulpmiddelen/bouwstenen-van-een-communicatieplan)
+
 
 Heb je een voorbeeld of best practice, laat het ons weten via algoritmes@minbzk.nl

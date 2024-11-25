@@ -41,7 +41,7 @@ Het doel en eventuele subdoelen van het algoritme of AI-systeem moet helder zijn
 
 ## Risico 
 
-De werking van het algoritmes of AI sluit niet of onvoldoende aan bij de juridische en ethische grenzen van de te ondersteunen wettelijke taak.
+De werking van het algoritmes sluit niet of onvoldoende aan bij de juridische en ethische grenzen van de te ondersteunen wettelijke taak.
 Hierdoor kunnen ongewenste gevolgen ontstaan zoals een onjuist of onzorgvuldig genomen besluit op een aanvraag.
 
 ## Maatregelen 

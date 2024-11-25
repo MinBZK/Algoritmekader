@@ -35,6 +35,7 @@ Stel duidelijke werkinstructies op voor de gebruikers die het algoritme gaan toe
 ## Toelichting
 -	Maak keuzes rondom de rol van het systeem in de werkwijze van gebruikers.
 -	Maak kenbaar wat de mogelijkheden en beperkingen zijn bij het gebruik maken van het betreffende algoritme.
+-	Informeer gebruikers over impact die het algoritme kan maken op de maatschappij en individuen. 
 -	Gebruik duidelijke werkinstructies en protocollen om te voorkomen dat beslissingen, gebaseerd op de output van het systeem, door (automation) bias worden beïnvloed.
 -	Stel een structuur op voor het melden van mogelijke problemen die gebruikers ervaren met het systeem.
 -	Opleiding van medewerkers over:

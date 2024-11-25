@@ -62,4 +62,4 @@ Als er geen rekening wordt gehouden met de benodigde uitlegbaarheid van een algo
 
 ## Voorbeeld
 
-Heb jij een goed voorbeeld? Laat het ons weten!
+Onderzoekswaardigheid: Slimme check (niet meer in gebruik!): [Overzicht Verwerkte Data en Features](https://algoritmeregister.amsterdam.nl/wp-content/plugins/saidot-integratorv2/proxy.php?url=Qkjr73KewvSGp9K9GZcmjTzlFZxCvCvCFeCDZeqMWRfHl5SQ4WcgwEYMZGiOmz3w4DbAf%2B73Yic31bbsTTUISY905oRIWR1r%2Bh06UaTgeZk%2BPcwkNkxWYVfLz5h9mbDw19Fj1XHD1g6w30YkMleiFFhHSpbAez2OaEPto8K6tm9qmPY8wULc9S045oV91H5POhzx9CuNwZTEs%2BC1rhX6sUo5%2BO%2FPoDtN4TAV92gDl9dwxWjbJ9BYI4Jxm6M2GEan253nLkJMa035Ly2QTN7NOvaiuSOqqzjNqOPo8h8Ezryj4o5Q%2B%2FWhYRoA3v2ZM0npHxs9oQ8R5WGIbUKXUYQ2Rf6WyitIeWn6CP6tinNekB0%3D)

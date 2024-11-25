@@ -34,12 +34,11 @@ Het beschrijven welke instrumenten/hulpmiddelen in welke gevallen moeten worden 
 - Het hanteren van [inkoopvoorwaarden](inkoopvoorwaarden.md).
   
 Hoe burgers worden geïnformeerd over de inzet van algoritmes door de organisatie en welke **kanalen** hiervoor kunnen worden gebruikt. Hierbij kan worden gedacht aan het:
-- Algoritmeregister
+- [Algoritmeregister](algoritmeregister.md)
 - Een algemene pagina op de website.
-- Het verwerkingsregister
-- Een algemene pagina op de website.
+- Het [verwerkingsregister](6-imp-08-vermelding-in-verwerkingsregister.md).
 - Een intern registratiesysteem. 
-- In welke gevallen een (openbaar) besluit wordt genomen door het bestuur over de inzet van een algoritme. 
+- In welke gevallen een [(openbaar) besluit](6-imp-09-politiek-bestuurlijk-besluit.md) wordt genomen door het bestuur over de inzet van een algoritme. 
 
 Er is beschreven welke informatie over welke type algoritmes wordt gecommuniceerd met betrokkenen als algoritmes worden ontwikkeld of gebruikt door de organisatie. 
 

@@ -42,6 +42,8 @@ Hoe burgers worden geïnformeerd over de inzet van algoritmes door de organisati
 
 Er is beschreven welke informatie over welke type algoritmes wordt gecommuniceerd met betrokkenen als algoritmes worden ontwikkeld of gebruikt door de organisatie. 
 
+Er is beschreven welke stappen worden gezetten in het geval dat er incidenten ontstaan rondom de inzet van algoritmes, denk hierbij aan het [discriminatieprotocol](0-org-15-discriminatieprotocol.md).
+
 Dit beleidsdocument is beschikbaar en toegankelijk voor alle geïnteresseerden. 
 
 ## Bronnen

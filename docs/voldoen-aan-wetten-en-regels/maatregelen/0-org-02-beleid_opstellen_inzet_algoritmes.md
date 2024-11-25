@@ -33,7 +33,7 @@ Het beschrijven welke instrumenten/hulpmiddelen in welke gevallen moeten worden 
 - Een [Data Protection Impact Assessment](DPIA.md).
 - Het hanteren van [inkoopvoorwaarden](inkoopvoorwaarden.md).
   
-Hoe burgers worden geïnformeerd over de inzet van algoritmes door de organisatie en welke **kanalen** hiervoor kunnen worden gebruikt. Hierbij kan worden gedacht aan het:
+Hoe burgers worden geïnformeerd over de inzet van algoritmes door de organisatie en welke **kanalen** hiervoor kunnen worden gebruikt (communicatiestrategie). Hierbij kan worden gedacht aan het:
 - [Algoritmeregister](algoritmeregister.md) voor het publiceren van hoog risico AI-systemen of impactvolle algoritmes. 
 - Een algemene pagina op de website.
 - Het [verwerkingsregister](6-imp-08-vermelding-in-verwerkingsregister.md).

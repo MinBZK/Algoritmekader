@@ -27,8 +27,9 @@ Privacy en gegevensbescherming door goed ontwerp en door standaardinstellingen
 Gegevensbescherming door ontwerp en standaardinstellingen houdt in dat privacy- en gegevensbescherming vanaf het begin worden geïntegreerd in de ontwikkeling van systemen en processen (ook wel privacy-by-design genoemd).
 Door al bij het ontwerp rekening te houden met privacyaspecten en door standaardinstellingen die privacy bevorderen, wordt de bescherming van persoonsgegevens versterkt.
 Hierbij kan worden gedacht een het pseudonimiseren van persoonsgegevens of dataminimalisatie.
+
 Deze aanpak zorgt ervoor dat privacy-overwegingen een integraal onderdeel zijn van alle aspecten van gegevensverwerking en draagt bij aan het vertrouwen van individuen in de veilige omgang met hun gegevens.
-Dit is eveneens van toepassing als persoonsgegevens worden verwerkt bij het ontwikkelen en gebruiken van algoritmes en AI.
+Dit is eveneens van toepassing als persoonsgegevens worden verwerkt bij het ontwikkelen en gebruiken van algoritmes.
 
 
 ## Bronnen

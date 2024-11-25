@@ -1,7 +1,7 @@
 ---
 title: Maak een noodplan voor het stoppen van het algoritme
 id: urn:nl:ak:mtr:owk-02
-toelichting: Als blijkt dat het algoritme of AI-systeem onjuist functioneert, dan moeten (technische) maatregelen zijn getroffen waarmee het gebruik kan worden stopgezet.
+toelichting: Als blijkt dat het algoritme onjuist functioneert, dan moeten (technische) maatregelen zijn getroffen waarmee het gebruik kan worden stopgezet.
 vereiste: 
 - aia-18-corrigerende-maatregelen-voor-non-conforme-ai
 - awb-01-zorgvuldigheidsbeginsel
@@ -31,20 +31,20 @@ hide:
 
 ## Maatregel
 <!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
- Tref (technische) maatregelen waarmee het gebruik van het algoritme of AI-systeem kan worden stopgezet.
+ Tref (technische) maatregelen waarmee het gebruik van het algoritme kan worden stopgezet.
   
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
 - Er moet in een proces zijn beschreven wanneer en hoe het gebruik van algoritmes moet worden stopgezet.
-- Het is van belang dat bij het ontwerp van algoritmes en AI-systemen er rekening wordt gehouden met dat het werkproces ook zonder het algoritme of AI-systeem kan worden uitgevoerd.
+- Het is van belang dat bij het ontwerp van algoritmes er rekening wordt gehouden met dat het werkproces ook zonder het algoritme kan worden uitgevoerd.
 - In het geval van risicoselectie kan er bijvoorbeeld worden teruggevallen op het enkel uitvoeren van een [aselecte steekproef](6-imp-02-aselecte-steekproeven.md) als selectieinstrument. 
-- Als blijkt dat het algoritme of AI-systeem ongewenst functioneert, dan moeten (technische) maatregelen zijn getroffen waarmee het gebruik daadwerkelijk kan worden stopgezet. Denk hierbij aan een stopknop en werkinstructies hoe het gebruik kan worden beëindigd.
+- Als blijkt dat het algoritme ongewenst functioneert, dan moeten (technische) maatregelen zijn getroffen waarmee het gebruik daadwerkelijk kan worden stopgezet. Denk hierbij aan een stopknop en werkinstructies hoe het gebruik kan worden beëindigd.
 - Maak aantoonbaar dat deze maatregelen zijn getroffen.
-- De proceseigenaar of een menselijk toezichthouder moet in staat zijn om het algoritme of AI-systeem op elk moment te kunnen beëindigen.
+- De proceseigenaar of een menselijk toezichthouder moet in staat zijn om het algoritme op elk moment te kunnen beëindigen.
 - Het stopzetten van het gebruik van een algoritme mag niet tot gevolg hebben dat betrokkenen niet meer kunnen achterhalen hoe besluiten tot stand zijn gekomen of dat gevolgen niet meer kunnen worden gecorrigeerd als dat noodzakelijk is. 
    
 ## Risico
-Betrokkenen of belanghebbenden kunnen nadelige gevolgen ondervinden van een algoritme of AI-systeem dat onjuist functioneert en niet tijdig kan worden stopgezet.  
+Betrokkenen of belanghebbenden kunnen nadelige gevolgen ondervinden van een algoritme dat onjuist functioneert en niet tijdig kan worden stopgezet.  
 
 ## Bijbehorende vereiste(n)
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->

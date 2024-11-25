@@ -62,4 +62,6 @@ Zonder duidelijk beleid over de inzet van algoritmes in de organisatie, kan de s
 
 ISO/IEC 42001: Artificial intelligence (AI) Management System
 
+[Webpagina van gemeente Amsterdam over algoritmes](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/algoritmen/).
+
 Heb je een voorbeeld of best practice, laat het ons weten via algoritmes@minbzk.nl

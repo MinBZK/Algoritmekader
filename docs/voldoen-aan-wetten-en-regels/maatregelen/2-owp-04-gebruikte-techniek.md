@@ -37,6 +37,8 @@ Beschrijf welke techniek gebruikt wordt voor de beoogde toepassing.
 
 - De precieze details kunnen in dit stadium van de levenscyclus waarschijnlijk nog niet ingevuld worden. Maak een goede eerste inschatting van de gebruikte techniek. Eventueel kan je er ook voor kiezen om verschillende technieken verder te onderzoeken. Dat betekent dat er meerdere algoritmes ontwikkeld worden (op basis van verschillende technieken), en je later een definitieve keuze maakt. 
 
+- Het is belangrijk om uiteindelijk een passend uitlegbaar algoritme te selecteren voor de context waarin het uiteindelijk wordt toegepast. Daarin moet de afweging gemaakt worden of de technische [uitlegbaarheid](2-owp-29-informeer_betrokkenen.md) voldoende is in de context die de inzet van het algoritme vereist. Hierbij kan ook de conclusie worden getrokken dat een simpeler, inzichtelijker algoritme de voorkeur krijgt. 
+
 ## Voorbeeld
 
 ## Risico

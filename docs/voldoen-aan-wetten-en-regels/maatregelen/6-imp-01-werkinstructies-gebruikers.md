@@ -1,9 +1,9 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Spreek af hoe medewerkers omgaan met het algoritme.
+title: Spreek af hoe gebruikers omgaan met het algoritme.
 id: urn:nl:ak:mtr:imp-05
 # geef hier een korte toelichting van deze maatregel
-toelichting: Stel duidelijke werkinstructies op voor de medewerkers die het algoritme gaan gebruiken. 
+toelichting: Stel duidelijke werkinstructies op voor de gebruikers die het algoritme gaan toepassen. 
 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste:
@@ -30,13 +30,13 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-Stel duidelijke werkinstructies op voor de medewerkers die het algoritme gaan gebruiken. 
+Stel duidelijke werkinstructies op voor de gebruikers die het algoritme gaan toepassen. 
 
 ## Toelichting
--	Maak keuzes rondom de rol van het systeem in de werkwijze van medewerkers.
+-	Maak keuzes rondom de rol van het systeem in de werkwijze van gebruikers.
 -	Maak kenbaar wat de mogelijkheden en beperkingen zijn bij het gebruik maken van het betreffende algoritme.
 -	Gebruik duidelijke werkinstructies en protocollen om te voorkomen dat beslissingen, gebaseerd op de output van het systeem, door (automation) bias worden beïnvloed.
--	Stel een structuur op voor het melden van mogelijke problemen die medewerkers ervaren met het systeem.
+-	Stel een structuur op voor het melden van mogelijke problemen die gebruikers ervaren met het systeem.
 -	Opleiding van medewerkers over:
 
 	-	AI en algoritmes;
@@ -45,10 +45,10 @@ Stel duidelijke werkinstructies op voor de medewerkers die het algoritme gaan ge
 	-	de risico's die aan het gebruik van een systeem verbonden zijn (bijv. (automation) bias, false positives/negatives);
 	-	de maatregelen die genomen zijn om deze risico’s te beperken (bijv. willekeurige of fictieve casussen, transparantie over de output).
 
--	Bespreek regelmatig de uitdagingen die medewerkers ondervinden bij het werken met het systeem (bijv. tijdsdruk).
+-	Bespreek regelmatig de uitdagingen die gebruikers ondervinden bij het werken met het systeem (bijv. tijdsdruk).
 -	Documenteer alle keuzes en de onderliggende redenen/afwegingen rondom menselijke tussenkomst en overzicht. Evalueer en pas gemaakte keuzes waar nodig aan.
 
-- Goede samenwerking tussen medewerkers en systemen helpt bij het voorkomen van (automation) bias en discriminatie, het signaleren van algoritmische problemen, en het vermijden van de facto automatische besluitvorming.
+- Goede samenwerking tussen gebruikers en systemen helpt bij het voorkomen van (automation) bias en discriminatie, het signaleren van algoritmische problemen, en het vermijden van de facto automatische besluitvorming.
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

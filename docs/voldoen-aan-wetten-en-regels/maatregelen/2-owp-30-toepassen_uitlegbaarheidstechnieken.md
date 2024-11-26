@@ -28,15 +28,15 @@ Pas uitlegbaarheidstechnieken toe en evalueer en valideer deze.
 Uitlegbaarheidstechnieken dragen bij aan het transparant maken van de werking van een algoritme.
 De keuze voor het type algoritme bepaalt hoe transparant je kunt zijn. Van rekenregels kun je namelijk precies uitleggen hoe deze tot een beslissing komen. Maar complexe AI-systemen kunnen een black box zijn.  Het is dan onduidelijk hoe deze systemen beslissingen maken. 
 
-Er zijn veel technieken beschikbaar om de werking en keuzes van een algoritme beter bloot te leggen. Er moet een keuze worden gemaakt welke geschikt zijn gezien de [informatiebehoeften](2-owp-29-informeer_betrokkenen.md), de vereisten die gelden en wat technische mogelijk is gezien het type algoritme. Het is belangrijk de betrokken partijen samen vastleggen welke methodiek moet worden toegepast. Onder bronnen kan informatie worden geraadpleegd die helpen bij het vinden van de juiste methodiek. 
+Afhankelijk van het type algoritme zijn er technieken beschikbaar om de werking en keuzes van een algoritme bloot te leggen. Er moet eerst een keuze worden gemaakt welk type algoritme geschikt zijn gezien de [informatiebehoeften](2-owp-29-informeer_betrokkenen.md). Het is belangrijk om met de betrokken partijen samen vast te leggen welke uitlegbaarheidstechnieken moet worden toegepast. Bij bronnen kan informatie worden geraadpleegd die helpen bij het vinden van de juiste methodiek. 
 
 **Besluitvorming**
 
-Onderzoek in hoeverre de uitlegbaarheidstechnieken kunnen bijdragen aan het formeleren van een motivering bij de totstandkoming van een besluit. Denk bijvoorbeeld aan het koppelen van de output van het algoritme aan het zaakdossier, zodat een belanghebbende deze ontvangen bij het opvragen van diens dossier, of om deze output of informatie hierover een plek te geven in de beschikking. 
+Onderzoek in hoeverre de uitlegbaarheidstechnieken kunnen bijdragen aan het formuleren van een motivering bij de totstandkoming van een besluit. Denk bijvoorbeeld aan het koppelen van de output van het algoritme aan het zaakdossier met een toelichting hoe de output van het algoritme moet worden geïnterpreteerd, zodat een belanghebbende deze ontvangen bij het opvragen van diens dossier. Een andere mogelijkheid is om de output of een omschrijving hiervan op te nemen in de genomen beschikking. 
 
 **Veiligheid**
 
-Vanuit veiligheidsoverwegingen kan bij specifieke algoritmes besloten worden om bepaalde informatie over de werking van een algoritme niet aan iedereen vrij te geven. Houd rekening met mogelijke risico’s op aanvallen die kunnen ontstaan door het gebruik van uitlegbaarheidstechnieken, zoals omschreven in: A Survey of Privacy-Preserving Model Explanations: Privacy Risks, Attacks, and Countermeasures. 
+Vanuit veiligheidsoverwegingen kan bij specifieke algoritmes besloten worden om bepaalde informatie over de werking van een algoritme niet aan iedereen vrij te geven. Denk hierbij aan de beperkingen die de [Wet Open Overheid](woo-01-recht-op-toegang-tot-publieke-informatie.md) oplegt. Houd rekening met mogelijke risico’s op aanvallen die kunnen ontstaan door het gebruik van uitlegbaarheidstechnieken, zoals omschreven in: A Survey of Privacy-Preserving Model Explanations: Privacy Risks, Attacks, and Countermeasures. 
 
 **Evaluatie en validatie**
 

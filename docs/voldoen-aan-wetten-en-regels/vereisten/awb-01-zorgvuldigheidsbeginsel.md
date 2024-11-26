@@ -36,6 +36,7 @@ Dit betekent dat bij de ontwikkeling en gebruik van algoritmes voldoende informa
 
 - [Afdeling 3.2 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.2&z=2024-05-01&g=2024-05-01)
 - [Afdeling 3.4 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&z=2024-05-01&g=2024-05-01)
+- [Advies artikel 22 AVG en geautomatiseerde selectie-instrumenten](https://www.autoriteitpersoonsgegevens.nl/system/files?file=2024-10/Advies%20geautomatiseerde%20besluitvorming%20artikel%2022%20AVG.pdf)
 
 ## Wanneer van toepassing? 
 <!-- tags-ai-act --> 

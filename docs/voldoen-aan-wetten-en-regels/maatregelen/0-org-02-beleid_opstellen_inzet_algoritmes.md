@@ -28,7 +28,7 @@ Een duidelijk beleid van organisaties over de inzet van algoritmes, draagt bij a
 - Het beschrijven van de stappen die moeten woorden gezet om algoritmes op een verantwoorde wijze in te gaan zetten. Dit is afhankelijk en verschilt per type algoritme en de bijbehorende risicoclassificatie.
 
 - Het beschrijven welke instrumenten/hulpmiddelen in welke gevallen moeten worden ingezet om te voldoen aan de vereisten die gelden voor algoritmes. Hierbij kan worden gedacht aan:
-* Een [Impact Assessment Mensenrechten en Algoritmes](IAMA.md).
+  - Een [Impact Assessment Mensenrechten en Algoritmes](IAMA.md).
 * Een [Data Protection Impact Assessment](DPIA.md).
 * Het hanteren van [inkoopvoorwaarden](inkoopvoorwaarden.md).
   

@@ -7,20 +7,20 @@ toelichting: Stel een duidelijke werkinstructie op voor gebruikers die het algor
 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste:
+- aia-01-ai-geletterheid
+- awb-01-zorgvuldigheidsbeginsel
 - aia-28-transparantieverplichtingen
-- grw-02-non-discriminatie
 - aia-09-menselijk-toezicht
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 
 - implementatie
 # vul hier de bouwblokken in die horen bij deze maatregel
 onderwerp: 
-- governance
 - menselijke-controle
 - transparantie
 rollen:
 - projectleider
-- beleid-en-advies
+- ontwikkelaar
 hide:
 - navigation
 - toc

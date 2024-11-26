@@ -9,30 +9,37 @@ levenscyclus:
 onderwerp:
 - transparantie
 rollen:
-- jurist
-- beleid-en-advies
+- projectleider
+- ontwikkelaar
 ---
 
 <!-- tags -->
 ## Vereiste
 
-Een besluit berust op een deugdelijke motivering
+Een besluit berust op een deugdelijke en kenbare motivering.
 
 
 ## Toelichting
 
-Een bestuursorgaan moet inzichtelijk maken: 
+De Awb eist dat een besluit een deugdelijke en kenbare motivering heeft. Dit geldt ook als algoritmes worden ingezet. Een betrokkene moet in staat zijn om te controleren of de overheid een besluit correct heeft genomen. Het motiveringsbeginsel draagt bij aan doelen als verantwoording kunnen afleggen en het bieden van rechtsbescherming. Het kan in samenhang worden gezien met [transparantieverplichtingen](avg-07-transparantie-bij-verwerken-persoonsgegevens.md) die voortkomen uit de AVG. 
 
-1. dat een besluit tot stand is gekomen met behulp van een algoritme; 
-2. van welke feiten het is uitgegaan en welke gegevens van de burger gebruikt c.q. verwerkt zijn;
-3. welke relevante belangen tegen elkaar zijn afgewogen en hoe die afweging is verlopen (bijvoorbeeld het gewicht dat wordt toegekend aan elk afgewogen kenmerk; welke analytische technieken gebruikt zijn; welke specifieke voorspellende data; wat de belangrijkste policy-keuzes waren; een uitleg van het voorspellende algoritme); 
-4. hoe het algoritme werkt (niet de techniek, maar hoe de uitkomsten van het algoritme tot stand komen). 
-
-De keuzes en aannames die zijn gemaakt en gedaan moeten worden beschreven en toegelicht.
+Het is van belang dat inzichtelijk wordt gemaakt in het besluit welke gegevens zijn verwerkt en welke 'aannames' een algoritme bevat. Dit speelt in het bijzonder als gebruik wordt gemaakt van geautomatiseerde besluitvormingsprocessen. Hierbij kan worden gedacht aan:
+- Dat een besluit tot stand is gekomen met behulp van een algoritme.
+- Van welke feiten het bestuursorgaan is uitgegaan.
+- Welke gegevens zijn verwerkt.
+- Welke relevante belangen tegen elkaar zijn afgewogen en hoe die afweging is verlopen.
+- Welke regels zijn gebruikt.
+- Wat de hierachter is (kenbaarheid).
+- Welke analytische technieken zijn gebruikt
+- Waarom deze regels en logica relevant zijn (uitleg)?
+- Op welke wijze de regels en logica tot stand zijn gekomen en hoe deze regels worden gevalideerd.
+  
+Een besluit moet informatie hierover bevatten om als om als voldoende draagkrachtig gemotiveerd te gelden.
+Het motiveringsbeginsel op grond van de Awb is beperkt tot besluiten in de zin van de Awb. 
 
 ## Bronnen
 
-- [Afdeling 3.7 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.7&z=2024-09-01&g=2024-09-01)
+- Artiekel 3:46 en 3:47 Awb](https://wetten.overheid.nl/BWBR0005537/2024-09-01/#Hoofdstuk3_Afdeling3.7_Artikel3:46)
 - Jurisprudentie over AERIUS (ABRvS 18 juli 2018, ECLI:NL:RVS:2018:2454), Hof van Justitie C-274/18
 
 ## Wanneer van toepassing? 

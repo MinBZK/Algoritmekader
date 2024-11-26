@@ -33,7 +33,7 @@ hide:
 Stel een werkinstructie op voor gebruikers. 
 
 ## Toelichting
-Het is belangrijk dat gebruikers een werkinstructie ontvangen met informatie hoe zijn met het algoritme kunnen en moeten werken. Hierin kunnen zaken worden beschreven als:
+Het is belangrijk dat gebruikers een werkinstructie ontvangen met informatie hoe zijn met het algoritme kunnen en moeten werken. Hierin worden zaken beschreven als:
 
 -	Op wat voor manier het algoritme ondersteunt bij het uitvoeren van (wettelijke) taken.
 -	Wat de mogelijkheden en beperkingen zijn bij het gebruik maken van het betreffende algoritme.

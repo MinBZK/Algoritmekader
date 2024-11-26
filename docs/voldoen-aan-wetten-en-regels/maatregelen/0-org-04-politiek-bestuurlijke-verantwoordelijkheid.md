@@ -18,7 +18,7 @@ hide:
 
 ## Maatregel
 
-Zorg voor politiek-bestuurlijk bewustzijn, betrokkenheid, en verantwoordelijkheid. Zorg dat bestuurders bewust zijn van de voor- en nadelen van de inzet van algoritmes en daarnaar kunnen handelen.
+Zorg voor politiek-bestuurlijk bewustzijn, betrokkenheid, en verantwoordelijkheid. 
 
 ## Toelichting
 - Voor een passende algoritmegovernance is politiek-bestuurlijk bewustzijn, betrokkenheid en verantwoordelijkheid essentieel. 
@@ -26,7 +26,8 @@ Zorg voor politiek-bestuurlijk bewustzijn, betrokkenheid, en verantwoordelijkhei
 - Dit is per definitie een kwalitatieve en politieke vraag.
 - Dit gaat niet alleen over direct opbrengsten maar ook over lange termijn en indirecte effecten, de mate waarin de inzet van technologie bijdraagt aan de legitimiteit van publieke organisatie en hoe burgers met deze technologie worden bejegend. 
  
-- Om te zorgen voor politiek-bestuurlijke betrokkenheid kan het helpen om een meerjarige visie en/of strategie rondom verantwoorde inzet te formuleren waar een communicatiestrategie richting burgers onderdeel van is.  
+- Om te zorgen voor politiek-bestuurlijke betrokkenheid kan het helpen om een meerjarige visie en/of strategie rondom verantwoorde inzet te formuleren waar een communicatiestrategie richting burgers onderdeel van is.
+- Zorg ervoor dat bestuurders bewust zijn van de voor- en nadelen van de inzet van algoritmes en daarnaar kunnen handelen.
 - Dit ondersteunt teams bij het maken van de juiste overwegingen bij de ontwikkeling en gebruik van algoritmes. Het geeft ook inzicht wanneer de politiek of bestuurlijk verantwoordelijke(n) moeten worden betrokken bij het project om beslissingen te nemen, bijvoorbeeld of de mate van onbewuste vooringenomenheid (bias) binnen acceptabele grenzen ligt. 
 - Het doorlopen van een concrete casus voor de ontwikkeling en gebruik van een algoritme, inclusief het uitvoeren van een IAMA, kan waardevolle informatiegeven om een meerjarige visie of strategie op te stellen. 
 

@@ -1,9 +1,9 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Spreek af hoe gebruikers omgaan met het algoritme.
+title: Stel een werkinstructie op voor gebruikers.
 id: urn:nl:ak:mtr:imp-05
 # geef hier een korte toelichting van deze maatregel
-toelichting: Stel duidelijke werkinstructies op voor de gebruikers die het algoritme gaan toepassen. 
+toelichting: Stel een duidelijke werkinstructie op voor gebruikers die het algoritme gaan toepassen. 
 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste:
@@ -30,26 +30,21 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-Stel duidelijke werkinstructies op voor de gebruikers die het algoritme gaan toepassen. 
+Stel een werkinstructie op voor gebruikers. 
 
 ## Toelichting
--	Maak keuzes rondom de rol van het systeem in de werkwijze van gebruikers.
--	Maak kenbaar wat de mogelijkheden en beperkingen zijn bij het gebruik maken van het betreffende algoritme.
--	Informeer gebruikers over de impact die het algoritme kan maken op de maatschappij en individuen. 
--	Gebruik duidelijke werkinstructies en protocollen om te voorkomen dat beslissingen, gebaseerd op de output van het systeem, door (automation) bias worden beïnvloed.
--	Stel een structuur op voor het melden van mogelijke problemen die gebruikers ervaren met het systeem.
--	Opleiding van medewerkers over:
+Het is belangrijk dat gebruikers een werkinstructie ontvangen met informatie hoe zijn met het algoritme kunnen en moeten werken. Hierin kunnen zaken worden beschreven als:
 
-	-	AI en algoritmes;
-	-	het systeem waarmee ze gaan werken;
-	-	de rol van het systeem in hun werkwijze;
-	-	de risico's die aan het gebruik van een systeem verbonden zijn (bijv. (automation) bias, false positives/negatives);
-	-	de maatregelen die genomen zijn om deze risico’s te beperken (bijv. willekeurige of fictieve casussen, transparantie over de output).
-
--	Bespreek regelmatig de uitdagingen die gebruikers ondervinden bij het werken met het systeem (bijv. tijdsdruk).
--	Documenteer alle keuzes en de onderliggende redenen/afwegingen rondom menselijke tussenkomst en overzicht. Evalueer en pas gemaakte keuzes waar nodig aan.
-
-- Goede samenwerking tussen gebruikers en systemen helpt bij het voorkomen van (automation) bias en discriminatie, het signaleren van algoritmische problemen, en het vermijden van de facto automatische besluitvorming.
+-	Op wat voor manier het algoritme ondersteunt bij het uitvoeren van (wettelijke) taken.
+-	Wat de mogelijkheden en beperkingen zijn bij het gebruik maken van het betreffende algoritme.
+-	Wat de impact is van het gebruik maken van het algoritme op de samenleving en individuen (denk aan energieverbruik of dat een besluit met rechtsgevolgen wordt genomen).
+-	Wat de risico's zijn die aan het gebruik verbonden zijn (bijv. (automation) bias, false positives/negatives).
+-	Welke maatregelen zijn getroffen om deze risico's te beperken (bijv. bias analyse, 'stopknop' ingebouwd, transparantie over de output).
+-	Hoe de output van het algoritme moet worden geïnterpreteerd.
+-	Hoe het werkproces kan worden uitgevoerd, zonder ondersteuning van het algoritme.
+-	Welke protocollen er zijn als zich incidenten voordoen. 
+	
+Denk hierbij na over het eventueel bijscholen van medewerkers als het kennisniveau nog onvoldoende is om de werkinstructies goed te begrijpen. 
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

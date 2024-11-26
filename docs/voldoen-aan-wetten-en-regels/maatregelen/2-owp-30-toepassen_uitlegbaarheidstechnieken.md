@@ -40,14 +40,14 @@ Vanuit veiligheidsoverwegingen kan bij specifieke algoritmes besloten worden om 
 
 **Evaluatie en validatie**
 
-Evalueer de uitlegbaarheid van het systeem op functionele, operationele, bruikbaarheids- en veiligheidsvereisten bij betrokkenen, bijvoorbeeld de gebruikers. Valideer in ieder geval dat de uitkomst van het algoritme begrijpelijk genoeg is voor gebruiker om hier op een verantwoorde wijze mee te werken. Zorg ervoor dat als het algoritme niet meer naar behoren functioneert, er een procedure is beschreven om dit te herstellen of (tijdelijk) te stoppen met het gebruik maken van het algoritme.
+Evalueer de uitlegbaarheid van het systeem op functionele, operationele, bruikbaarheids- en veiligheidsvereisten bij betrokkenen, bijvoorbeeld de gebruikers. Valideer of de uitkomst van het algoritme begrijpelijk genoeg is voor gebruiker om hier op een verantwoorde wijze mee te werken. 
 
 ## Bijbehorende vereiste(n)
 
 <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
-Als er geen rekening wordt gehouden met de benodigde uitlegbaarheid van een algoritme binnen een bepaalde context, ontstaat het risico dat je het algoritme niet goed kan controleren en ontstaat het risico dat het algoritme op een verkeerde wijze wordt geïnterpreteerd en gebruikt. 
+Als er geen rekening wordt gehouden met de benodigde uitlegbaarheid van een algoritme binnen een bepaalde context, ontstaat het risico dat de werking van het algoritme niet kan worden controleren en ontstaat het risico dat de output van het algoritme op een verkeerde wijze wordt geïnterpreteerd en gebruikt. 
 
 ## Bronnen
 - [Toolkit voor implementatie](https://xaitk.org/)

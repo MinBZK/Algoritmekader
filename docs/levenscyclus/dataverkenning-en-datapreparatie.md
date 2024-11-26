@@ -12,12 +12,12 @@ De data zullen vervolgens worden opgeschoond, geanalyseerd en voorbereid voor ve
 
 Het is van belang dat dataverzameling op de juiste manier gebeurt, en dat datasets die gebruikt gaan worden van goede kwaliteit zijn. 
 In deze fase is het van belang om de datakwaliteit en eventuele bias in de dataset te onderzoeken. 
-Indien er risico's optreden door bijvoorbeeld missende data of niet representatieve data, is het belangrijk om te kijken wat voor effecten dit heeft op het oorspronkelijke ontwerp van het algoritme of AI-systeem. 
+Indien er risico's optreden door bijvoorbeeld missende data of niet representatieve data, is het belangrijk om te kijken wat voor effecten dit heeft op het oorspronkelijke ontwerp van het algoritme. 
 Dit kan betekenen dat nieuwe keuzes moeten worden gemaakt in het ontwerp en eventueel eerste deze fase van ontwerp (deels) opnieuw moet worden doorlopen. 
 
-Met voorgaande handelingen wordt het fundament gelegd om het algoritme of AI-systeem te kunnen ontwikkelen. 
+Met voorgaande handelingen wordt het fundament gelegd om het algoritme te kunnen ontwikkelen. 
 In de praktijk zal bijvoorbeeld het analyseren van de data niet stoppen na deze fase, maar terugkerend zijn in alle fasen die volgen. 
-Als de verzamelde data van voldoende kwaliteit is en de vereiste maatregelen zijn getroffen, dan kan worden gestart met het ontwikkelen van het algoritme of AI-systeem. 
+Als de verzamelde data van voldoende kwaliteit is en de vereiste maatregelen zijn getroffen, dan kan worden gestart met het ontwikkelen van het algoritme. 
 
 
 ## Vereisten

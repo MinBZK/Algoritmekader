@@ -24,7 +24,7 @@ Bij voorkeur blijven de data eigendom van de (verstrekkende) overheidsorganisati
 
 ## Toelichting
 Het is van belang om te controleren of de te verwerken data waar overheidsorganisaties zelf over beschikken rechtmatig zijn verkregen en geen inbreuken maken op auteursrechten.
-Hier kan worden gedacht aan data die is gescraped van het internet en zou kunnen worden gebruikt voor de ontwikkeling van een algoritme of AI-systeem.
+Hier kan worden gedacht aan data die is gescraped van het internet en zou kunnen worden gebruikt voor de ontwikkeling van een algoritme.
 
 ## Bijbehorende vereiste(n)
 

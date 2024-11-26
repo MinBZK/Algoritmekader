@@ -1,6 +1,6 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Spreek af hoe medewerkers omgaan met het algoritme of AI-systeem 
+title: Spreek af hoe medewerkers omgaan met het algoritme.
 id: urn:nl:ak:mtr:imp-05
 # geef hier een korte toelichting van deze maatregel
 toelichting: Stel duidelijke werkinstructies op voor de medewerkers die het algoritme gaan gebruiken. 
@@ -37,7 +37,7 @@ Stel duidelijke werkinstructies op voor de medewerkers die het algoritme gaan ge
 -	Stel een structuur op voor het melden van mogelijke problemen die medewerkers ervaren met het systeem.
 -	Opleiding van medewerkers over:
 
-	-	AI en algoritmes;
+	-	Algoritmes, waaronder AI;
 	-	het systeem waarmee ze gaan werken;
 	-	de rol van het systeem in hun werkwijze;
 	-	de risico's die aan het gebruik van een systeem verbonden zijn (bijv. (automation) bias, false positives/negatives);

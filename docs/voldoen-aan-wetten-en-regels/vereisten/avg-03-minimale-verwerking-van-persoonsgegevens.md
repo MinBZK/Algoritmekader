@@ -25,7 +25,7 @@ De verwerking van persoonsgegevens moet minimaal worden gehouden, dat wil zeggen
 
 Het is van belang dat énkel persoonsgegevens worden verwerkt die noodzakelijk zijn gezien de doeleinden van die vewerking.
 Er moet een beoordeling worden gemaakt welke persoonsgegevens dit wel en eventueel niet zijn.
-Voor het ontwikkelen en gebruiken van algoritmes of AI-systemen is het van belang om te beoordelen welke persoonsgegevens noodzakelijk zijn om het beoogde doel te bereiken. Afhankelijk van de toepassing vraagt dit om een intensieve toets. Er moet voor worden gezorgd dat persoonsgegevens die niet als noodzakelijk worden beschouwd, buiten de verwerking blijven. 
+Voor het ontwikkelen en gebruiken van algoritmes is het van belang om te beoordelen welke persoonsgegevens noodzakelijk zijn om het beoogde doel te bereiken. Afhankelijk van de toepassing vraagt dit om een intensieve toets. Er moet voor worden gezorgd dat persoonsgegevens die niet als noodzakelijk worden beschouwd, buiten de verwerking blijven. 
 
 ## Bronnen
 

@@ -1,12 +1,12 @@
 ---
 title: Rollen
-summary: Hulp bij het bepalen van rollen en verantwoordelijkheden om als overheid verantwoordelijk om te gaan met algoritmes en AI.
+summary: Hulp bij het bepalen van rollen en verantwoordelijkheden om als overheid verantwoordelijk om te gaan met algoritmes.
 hide:
   - toc
   - path
 ---
 # Rollen
-Verantwoord gebruik van algoritmes en AI-systemen is mogelijk als mensen in verschillende rollen goed samenwerken, op het juiste moment.
+Verantwoord gebruik van algoritmes is mogelijk als mensen in verschillende rollen goed samenwerken, op het juiste moment.
 
 ## Bepaal zelf rollen en verantwoordelijkheden
 Als organisatie bepaal je zelf de namen van je rollen of functies en de taken en verantwoordelijkheden die hierbij horen. 

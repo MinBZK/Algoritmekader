@@ -145,7 +145,7 @@ Twee subvragen die hierbij beantwoord moeten worden zijn:
 - bestaat er een redelijke relatie van evenredigheid tussen het gebruikte algoritme en de nagestreefde doelstelling?
 
 Wanneer er geen rechtvaardiging is voor het gemaakte onderscheid, spreken we van een verboden direct of indirect onderscheid, ofwel discriminatie. 
-Het algoritme of AI-systeem mag in dat geval niet gebruikt worden.
+Het algoritme mag in dat geval niet gebruikt worden.
 
 Voor meer toelichting over het uitvoeren van een rechtvaardigingstoets, verwijzen we naar het rapport [Discriminatie door risicoprofielen - Een mensenrechtelijk toetsingskader](https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dce) van het College voor de Rechten van de Mens. 
 

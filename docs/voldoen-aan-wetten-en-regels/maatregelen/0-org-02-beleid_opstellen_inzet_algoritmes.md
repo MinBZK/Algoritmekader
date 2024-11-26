@@ -59,10 +59,9 @@ Algoritmekader
 Zonder duidelijk beleid over de inzet van algoritmes in de organisatie, kan de situatie ontstaan dat algoritmes worden ontwikkeld of gebruikt die niet passend worden geacht binnen een organisatie. 
 
 ## Voorbeelden
-[Controle op algoritmes](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjJr-7HwtSJAxWN8rsIHaOPNmkQFnoECBQQAw&url=https%3A%2F%2Fassets.amsterdam.nl%2Fpublish%2Fpages%2F1053010%2Fhandreiking_algoritmen.pdf&usg=AOvVaw3xCc4gbijZmLQayb7o02Pf&opi=89978449)
 
-ISO/IEC 42001: Artificial intelligence (AI) Management System
-
-[Webpagina van gemeente Amsterdam over algoritmes](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/algoritmen/).
+- [Controle op algoritmes](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjJr-7HwtSJAxWN8rsIHaOPNmkQFnoECBQQAw&url=https%3A%2F%2Fassets.amsterdam.nl%2Fpublish%2Fpages%2F1053010%2Fhandreiking_algoritmen.pdf&usg=AOvVaw3xCc4gbijZmLQayb7o02Pf&opi=89978449)
+- ISO/IEC 42001: Artificial intelligence (AI) Management System
+- [Webpagina van gemeente Amsterdam over algoritmes](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/algoritmen/).
 
 Heb je een voorbeeld of best practice, laat het ons weten via algoritmes@minbzk.nl

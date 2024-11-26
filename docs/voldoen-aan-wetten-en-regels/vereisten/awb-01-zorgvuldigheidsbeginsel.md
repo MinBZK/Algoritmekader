@@ -1,5 +1,5 @@
 ---
-title: Organisaties die algoritmes gebruiken voor publieke taken nemen besluiten zorgvuldig
+title: Organisaties die algoritmes gebruiken voor publieke taken nemen besluiten zorgvuldig.
 id: urn:nl:ak:ver:awb-01
 toelichting: Het zorgvuldigheidsvereiste eist dat een besluit met de nodige zorgvuldigheid wordt voorbereid en juist wordt genomen. 
 levenscyclus: 
@@ -19,7 +19,7 @@ hide:
 
 ## Vereiste
 
-Organisaties die algoritmes gebruiken voor publieke taken gaan zorgvuldig te werk
+Organisaties die algoritmes gebruiken voor publieke taken nemen besluiten zorgvuldig.
 
 ## Toelichting 
 

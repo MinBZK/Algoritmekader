@@ -35,17 +35,15 @@ Stel bijvoorbeeld de volgende vragen:
 
 | Vragen	|Acties die je kan ondernemen |
 | :-----------------|---------------|
-| Wie heeft informatie nodig over het ontwikkelen en gebruiken van algoritmes? |	Stel vast welke stakeholder(s) binnen of buiten de organisatie iets over het algoritme wil of zou moeten weten. |
+| Wie heeft informatie nodig over het ontwikkelen en gebruiken van algoritmes? |	Stel vast welke betrokken(en) binnen of buiten de organisatie iets over het algoritme wil of zou moeten weten. |
 | Wat voor informatie voor algoritmes heeft deze betrokken partij nodig? | Toets dit ook bij vastgesteld beleid. 	Ga na wat de doelgroep moet weten over de werking of inzet van het algoritme. Bepaal om welk technisch niveau dit gaat. |
 | Op wat voor manier informeer je de betrokken partij?	| Pas de juiste methodes toe om de doelgroep te informeren. |
 | Wanneer wordt deze informatie gebruikt? | Ga na in welke fase van de levenscyclus de gewenste informatie over de werking of inzet van het algoritme wordt gebruikt. Hoe verschilt de informatiebehoefte in elke fase van de levenscyclus? |
 | Wie is er verantwoordelijk voor de informatieverstrekking? | Bepaal wie er informatie over het algoritme moet ophalen, en wie er voor die informatie kan zorgen. |
 
-Maak bij het vaststellen van de informatiebehoefte onderscheid tussen transparantie, [uitlegbaarheid](2-owp-30-toepassen_uitlegbaarheidstechnieken.md) en interpreteerbaarheid. Houd daarbij ook rekening met zaken die vereist zijn om te kunnen communiceren, denk hierbij aan het kunnen uitleggen hoe een automatisch genomen besluit tot stand is gekomen. Deze behoeften en vereisten bepalen in vergaande mate welke [type algoritmes](2-owp-04-gebruikte-techniek.md) geschikt zijn om een overheidstaak mee te ondersteunen.  
+Maak bij het vaststellen van de informatiebehoefte onderscheid tussen transparantie, [uitlegbaarheid](2-owp-30-toepassen_uitlegbaarheidstechnieken.md) en interpreteerbaarheid. Houd daarbij ook rekening met zaken die moeten worden gecommuniceerd. Denk hierbij aan het kunnen uitleggen hoe een automatisch genomen besluit tot stand is gekomen. 
 
-Bepaal vervolgens aan de hand van de levenscyclus wanneer, welke informatie wanneer beschikbaar moet worden gesteld. Stel vast wie verantwoordelijk is voor het opstellen of het leveren van een bijdrage aan deze informatie.
-
-Stel een communicatieplan op over de ontwikkeling en gebruik van het algoritme. Hierin kunnen zaken worden opgenomen als:
+Stel een communicatieplan op over de ontwikkeling en gebruik van het algoritme. Bepaal vervolgens aan de hand van de levenscyclus wanneer, welke informatie wanneer beschikbaar moet worden gesteld. Stel vast wie verantwoordelijk is voor het opstellen of het leveren van een bijdrage aan deze informatie. In het communicatieplan kunnen verder zaken worden opgenomen als:
 
 •	Het doel van het algoritme.
 
@@ -69,7 +67,7 @@ Stel een communicatieplan op over de ontwikkeling en gebruik van het algoritme. 
 
 •	Wat is de planning voor de communicatieactiviteiten?
 
-Overleg regelmatig met betrokkenen en [belanghebbenden](1-pba-04-betrek-belanghebbenden.md).
+Overleg regelmatig met betrokkenen en [belanghebbenden](1-pba-04-betrek-belanghebbenden.md) in hoeverre de informatieverstrekking aansluit bij de (nieuwe) behoeften.
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

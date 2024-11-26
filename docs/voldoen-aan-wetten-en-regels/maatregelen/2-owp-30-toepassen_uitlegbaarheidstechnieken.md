@@ -28,7 +28,7 @@ Pas uitlegbaarheidstechnieken toe en evalueer en valideer deze.
 Uitlegbaarheidstechnieken dragen bij aan het transparant maken van de werking van een algoritme.
 De keuze voor het type algoritme bepaalt hoe transparant je kunt zijn. Van rekenregels kun je namelijk precies uitleggen hoe deze tot een beslissing komen. Maar complexe AI-systemen kunnen een black box zijn.  Het is dan onduidelijk hoe deze systemen beslissingen maken. 
 
-Afhankelijk van het type algoritme zijn er technieken beschikbaar om de werking en keuzes van een algoritme bloot te leggen. Er moet eerst een keuze worden gemaakt welk type algoritme geschikt zijn gezien de [informatiebehoeften](2-owp-29-informeer_betrokkenen.md). Het is belangrijk om met de betrokken partijen samen vast te leggen welke uitlegbaarheidstechnieken moet worden toegepast. Bij bronnen kan informatie worden geraadpleegd die helpen bij het vinden van de juiste methodiek. 
+Afhankelijk van het type algoritme zijn er technieken beschikbaar om de werking en keuzes van een algoritme bloot te leggen. Er moet eerst een keuze worden gemaakt welk type algoritme geschikt zijn gezien de [informatiebehoefte](2-owp-29-informeer_betrokkenen.md). Het is belangrijk om met de betrokken partijen samen vast te leggen welke uitlegbaarheidstechnieken moet worden toegepast. Bij bronnen kan informatie worden geraadpleegd die helpen bij het vinden van de juiste methodiek. 
 
 **Besluitvorming**
 

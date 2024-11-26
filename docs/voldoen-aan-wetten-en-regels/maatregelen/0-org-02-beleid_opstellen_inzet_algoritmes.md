@@ -5,7 +5,6 @@ toelichting:
 levenscyclus:
 - organisatieverantwoordelijkheden
 rollen:
-- projectleider
 - beleid-en-advies
 onderwerp: 
 - governance
@@ -22,18 +21,18 @@ hide:
 Stel beleid op voor een verantwoorde inzet van algoritmes binnen de organisatie. 
 
 ## Toelichting
-Een duidelijk beleid van organisaties over de inzet van algoritmes, draagt bij aan het daadwerkelijk gaan voldoen als organisatie aan de voorwaarden om algoritmes op een verantwoorde wijze in te zetten. Hierin worden zaken beschreven als:
+Een duidelijk beleid van organisaties over de inzet van algoritmes, draagt bij aan het daadwerkelijk gaan voldoen als organisatie aan de vereisten om algoritmes op een verantwoorde wijze in te zetten. Hierin worden zaken beschreven als:
 
-Hoe de inzet van algoritmes gaat bijdragen aan het realiseren van de organisatiedoelstellingen. 
+- Hoe de inzet van algoritmes gaat bijdragen aan het realiseren van de organisatiedoelstellingen. 
 
-Het beschrijven van de stappen die moeten woorden gezet om algoritmes op een verantwoorde wijze in te gaan zetten. Dit is afhankelijk en verschilt per type algoritme en de bijbehorende risicoclassificatie.
+- Het beschrijven van de stappen die moeten woorden gezet om algoritmes op een verantwoorde wijze in te gaan zetten. Dit is afhankelijk en verschilt per type algoritme en de bijbehorende risicoclassificatie.
 
-Het beschrijven welke instrumenten/hulpmiddelen in welke gevallen moeten worden ingezet om te voldoen aan de vereisten die gelden voor algoritmes. Hierbij kan worden gedacht aan:
-- Een [Impact Assessment Mensenrechten en Algoritmes](IAMA.md).
-- Een [Data Protection Impact Assessment](DPIA.md).
-- Het hanteren van [inkoopvoorwaarden](inkoopvoorwaarden.md).
+- Het beschrijven welke instrumenten/hulpmiddelen in welke gevallen moeten worden ingezet om te voldoen aan de vereisten die gelden voor algoritmes. Hierbij kan worden gedacht aan:
+* Een [Impact Assessment Mensenrechten en Algoritmes](IAMA.md).
+* Een [Data Protection Impact Assessment](DPIA.md).
+* Het hanteren van [inkoopvoorwaarden](inkoopvoorwaarden.md).
   
-Hoe burgers worden geïnformeerd over de inzet van algoritmes door de organisatie en welke **kanalen** hiervoor kunnen worden gebruikt (communicatiestrategie). Hierbij kan worden gedacht aan het:
+- Hoe burgers worden geïnformeerd over de inzet van algoritmes door de organisatie en welke **kanalen** hiervoor kunnen worden gebruikt (communicatiestrategie). Hierbij kan worden gedacht aan het:
 - [Algoritmeregister](algoritmeregister.md) voor het publiceren van hoog risico AI-systemen of impactvolle algoritmes. 
 - Een algemene pagina op de website.
 - Het [verwerkingsregister](6-imp-08-vermelding-in-verwerkingsregister.md).

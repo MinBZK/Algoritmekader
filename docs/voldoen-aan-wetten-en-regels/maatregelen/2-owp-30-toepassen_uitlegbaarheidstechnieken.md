@@ -36,7 +36,7 @@ Onderzoek in hoeverre de uitlegbaarheidstechnieken kunnen bijdragen aan het form
 
 **Beperkingen en veiligheid**
 
-Vanuit veiligheidsoverwegingen kan bij specifieke algoritmes besloten worden om bepaalde informatie over de werking van een algoritme niet aan iedereen vrij te geven. Denk hierbij aan de beperkingen die de [Wet Open Overheid](woo-01-recht-op-toegang-tot-publieke-informatie.md) oplegt. Houd ook rekening met mogelijke risico’s op aanvallen die kunnen ontstaan door het gebruik van uitlegbaarheidstechnieken, zoals omschreven in: A Survey of Privacy-Preserving Model Explanations: Privacy Risks, Attacks, and Countermeasures. 
+Vanuit veiligheidsoverwegingen kan bij specifieke algoritmes besloten worden om bepaalde informatie over de werking van een algoritme niet aan iedereen vrij te geven. Denk hierbij aan de beperkingen die de [Wet Open Overheid](../vereisten/woo-01-recht-op-toegang-tot-publieke-informatie.md) oplegt. Houd ook rekening met mogelijke risico’s op aanvallen die kunnen ontstaan door het gebruik van uitlegbaarheidstechnieken, zoals omschreven in: A Survey of Privacy-Preserving Model Explanations: Privacy Risks, Attacks, and Countermeasures. 
 
 **Evaluatie en validatie**
 

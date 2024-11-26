@@ -34,7 +34,7 @@ Stel vast om wat voor type algoritme het gaat en wat de bijbehorende risicoclass
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Het verschilt per type algoritmen welke vereisten hierop van toepassing is en waar een aanbieder of gebruiksverantwoordelijke aan moet voldoen. 
+Het verschilt per type algoritme welke vereisten hierop van toepassing is en waar een aanbieder of gebruiksverantwoordelijke aan moet voldoen. 
 Dit is mede afhankelijk van de bijbehorende risicoclassificatie. 
 Hiervoor kan in de nabije toekomst de 'beslisboom' in het Algoritmekader voor worden gebruikt'. 
 Deze stap is van groot belang, omdat dit ook bepalend is welke contractuele verplichtingen moeten worden gecreëerd tussen opdrachtgever en opdrachtnemer/aanbieder. 

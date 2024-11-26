@@ -1,7 +1,7 @@
 ---
 title: Organisaties die algoritmes gebruiken voor publieke taken gaan zorgvuldig te werk
 id: urn:nl:ak:ver:awb-01
-toelichting: Dit beginsel vereist dat een besluit met de nodige zorgvuldigheid wordt voorbereid en genomen. Dit vraagt onder meer om een zorgvuldig onderzoek naar feiten, een zorgvuldige beslissingsprocedure en een deugdelijke besluitvorming. Dit betekent dat  algoritmes zodanig moet worden ontwikkeld en gebruikt, dat dit passend is ter ondersteuning van de wettelijke taak en de bijbehorende beslissing of besluitvorming.  
+toelichting: Het zorgvuldigheidsvereiste eist dat relevante informatie wordt meegewogen om tot een juist besluit te komen. 
 levenscyclus: 
 - ontwerp
 - ontwikkelen
@@ -19,16 +19,18 @@ hide:
 
 ## Vereiste
 
-De ontwikkeling en het gebruik van algoritmes komt zorgvuldig tot stand.
+Organisaties die algoritmes gebruiken voor publieke taken gaan zorgvuldig te werk
 
 ## Toelichting 
 
-Dit beginsel vereist dat een besluit met de nodige zorgvuldigheid wordt voorbereid en genomen.
-Dit vraagt onder meer om een zorgvuldig onderzoek naar feiten, een zorgvuldige beslissingsprocedure en een deugdelijke besluitvorming.
-Dit betekent dat algoritmes zodanig moet worden ontwikkeld en gebruikt, dat dit passend is ter ondersteuning van de wettelijke taak en de bijbehorende beslissing of besluitvorming.
+Dit beginsel vereist dat een besluit met de nodige zorgvuldigheid wordt voorbereid en juist wordt genomen.
+Dit vraagt onder meer om een zorgvuldig onderzoek naar informatie, feiten, een zorgvuldige beslissingsprocedure en een deugdelijke besluitvorming. 
 
-Het doel en eventuele subdoelen van het algoritme of AI-systeem moet helder zijn gedefinieerd, ook in relatie tot het maatschappelijke resultaat (outcome), en wordt gedeeld door de eigenaar, ontwikkelaar en gebruiker van het algoritme. Een bewuste afweging of het algoritme het juiste middel is om het probleem op doelmatige en doeltreffende wijze op te lossen is gemaakt en vastgelegd. 
- 
+Dit betekent dat bij de ontwikkeling en gebruik van algoritmes voldoende informatie moet worden gedocumenteerd over het algoritme. Hierbij kan worden gedacht aan:
+- Het [doel en eventuele subdoelen](1-pba-01-formuleren-probleemdefinitie.md) van het algoritme of AI-systeem moet helder zijn gedefinieerd, ook in relatie tot het maatschappelijke resultaat (outcome).
+- Een bewuste afweging of het algoritme het [juiste middel is om het probleem](1-pba-01-formuleren-probleemdefinitie) op doelmatige en doeltreffende wijze op te lossen is gemaakt en vastgelegd. 
+- Daarbij is het bijzonder relevant dat de werking van het algoritme is onderzocht en is vastgesteld dat dit [passend is](5-ver-03-functioneren-in-lijn-met-doeleinden.md) om onderdeel te worden van een besluitvormingsproces.  
+
 
 ## Bronnen 
 

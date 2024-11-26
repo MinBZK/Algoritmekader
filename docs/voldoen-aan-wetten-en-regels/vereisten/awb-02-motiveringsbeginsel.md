@@ -41,6 +41,7 @@ Het motiveringsbeginsel op grond van de Awb is beperkt tot besluiten in de zin v
 
 - Artiekel 3:46 en 3:47 Awb](https://wetten.overheid.nl/BWBR0005537/2024-09-01/#Hoofdstuk3_Afdeling3.7_Artikel3:46)
 - Jurisprudentie over AERIUS (ABRvS 18 juli 2018, ECLI:NL:RVS:2018:2454), Hof van Justitie C-274/18
+- [Advies artikel 22 AVG en geautomatiseerde selectie-instrumenten](https://www.autoriteitpersoonsgegevens.nl/system/files?file=2024-10/Advies%20geautomatiseerde%20besluitvorming%20artikel%2022%20AVG.pdf)
 
 ## Wanneer van toepassing? 
 <!-- tags-ai-act -->

@@ -9,7 +9,8 @@ rollen:
 onderwerp: 
 - governance
 - transparantie
-  
+vereiste:
+- awb-01-zorgvuldigheidsbeginsel
 hide:
 - navigation
 - toc
@@ -50,7 +51,6 @@ Algoritmekader
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
-[Zorgvuldigheidsbeginsel](awb-01-zorgvuldigheidsbeginsel.md)
 
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
 <!-- list_vereisten_on_maatregelen_page -->

@@ -28,12 +28,15 @@ Aanbieders van AI-systemen met een hoog risico zorgen ervoor dat voor het AI-sys
 
 ## Toelichting
 
-Aanbieders van AI-systemen met een hoog risico moeten ervoor zorgen dat de conformiteitsbeoordelingsprocedure wordt uitgevoerd voor het systeem op de markt wordt gebracht of in gebruik wordt genomen.
-Dit is mogelijk door middel van een, in beginsel, interne controle (als bedoeld in bijlage VI van de AI-verordening) of met betrokkenheid van een aangemelde instantie voor de beoordeling van het systeem voor kwaliteitsbeheer en de technische documentatie (als bedoeld in bijlage VII van de AI-verordening).
+Aanbieders van AI-systemen met een hoog risico moeten ervoor zorgen dat de conformiteitsbeoordelingsprocedure wordt uitgevoerd voor het systeem op de markt wordt gebracht of in gebruik wordt genomen. Dit moet bijdragen aan een hoog niveau van betrouwbaarheid van AI-systemen met een hoog risico.
 
-AI-systemen met een hoog risico die reeds aan een conformiteitsbeoordelingsprocedure zijn onderworpen, ondergaan een nieuwe conformiteitsbeoordelingsprocedure telkens wanneer zij substantieel zijn gewijzigd, ongeacht of het gewijzigde systeem bedoeld is om verder te worden gedistribueerd of door de huidige gebruiksverantwoordelijke gebruikt blijft worden.
+Een conformiteitbeoordeling kan worden uitgevoerd door middel van een interne controle (als bedoeld in bijlage VI van de AI-verordening) of met betrokkenheid van een aangemelde instantie voor de beoordeling van het systeem voor kwaliteitsbeheer en de technische documentatie (als bedoeld in bijlage VII van de AI-verordening). Een conformiteitsbeoordeling door een aangemelde instatie wordt ookwel een conformiteitsbeoordeling door een derden genoemd. 
 
 Als overheidsorganisaties hoog risico AI-systemen gebruiken van aanbieders of deze zelf ontwikkelen, zullen deze systemen veelal de conformiteitsbeoordeling middels een interne controle moeten doorlopen (bijlage VI). Let op! In het geval dat een hoog risico AI-systeem door een rechtshandhavingsinstantie, immigratie- of asielautoriteit wordt ingezet, dan zal de markttoezichtautoriteit als aangemelde instantie optreden die de conformiteitsbeoordeling zal uitvoeren.  
+
+AI-systemen met een hoog risico die al aan een conformiteitsbeoordelingsprocedure zijn onderworpen, ondergaan een nieuwe conformiteitsbeoordelingsprocedure telkens wanneer zij substantieel zijn gewijzigd, ongeacht of het gewijzigde systeem bedoeld is om verder te worden gedistribueerd of door de huidige gebruiksverantwoordelijke gebruikt blijft worden.
+
+
 
 ![ai_lifecycle_visual_7FC0D14E-A775-A92E-DE5A38FDB7C238EB_75759](https://github.com/user-attachments/assets/47996f0e-d769-4ac5-a504-db12da4d1e21)
 

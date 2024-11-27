@@ -28,7 +28,7 @@ Aanbieders van AI-systemen met een hoog risico zorgen ervoor dat voor het AI-sys
 
 ## Toelichting
 
-Aanbieders van AI-systemen met een hoog risico moeten ervoor zorgen dat de conformiteitsbeoordelingsprocedure wordt uitgevoerd voor het systeem op de markt wordt gebracht of in gebruik wordt genomen. Dit moet bijdragen aan een hoog niveau van betrouwbaarheid van AI-systemen met een hoog risico.
+Conformiteitsbeoordelingen dragen bij aan het kunnen vertrouwen op de kwaliteit van producten en diensten. Aanbieders van AI-systemen met een hoog risico moeten ervoor zorgen dat de conformiteitsbeoordelingsprocedure wordt uitgevoerd vóórdat het systeem op de markt wordt gebracht of in gebruik wordt genomen. Hiervoor moet worden beoordeeld of het ontwikkelde hoog risico AI-systeem voldoet aan de vereisten die gelden voor deze systemen. Denk hierbij aan de vereisten van risicobeheer, technische documentatie, data en datagovernance en transparantie en informatieverstrekking aan gebruiksverantwoordelijken (Afdeling 2, AI-Verordening).  
 
 Een conformiteitbeoordeling kan worden uitgevoerd door middel van een interne controle (als bedoeld in bijlage VI van de AI-verordening) of met betrokkenheid van een aangemelde instantie voor de beoordeling van het systeem voor kwaliteitsbeheer en de technische documentatie (als bedoeld in bijlage VII van de AI-verordening). Een conformiteitsbeoordeling door een aangemelde instatie wordt ookwel een conformiteitsbeoordeling door een derden genoemd. 
 
@@ -45,9 +45,11 @@ AI-systemen met een hoog risico die al aan een conformiteitsbeoordelingsprocedur
 
 - [Artikel 16(f) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3823-1-1)
 - [Artikel 43 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5074-1-1)
+- [Artikel 76 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=OJ:L_202401689)
 - [Bijlage VI Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e38-133-1)
 - [Bijlage VII Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e38-134-1)
 - [Hoe werkt het allemaal in de praktijk voor aanbieders van AI-systemen met een hoog risico](https://digital-strategy.ec.europa.eu/nl/policies/regulatory-framework-ai)
+- [Vaststelling autoriteiten voor de bescherming van de grondrechten onder de EU AI-Verordening](https://www.tweedekamer.nl/downloads/document?id=2024D44985).
 
 ## Wanneer van toepassing? 
 <!-- tags-ai-act -->

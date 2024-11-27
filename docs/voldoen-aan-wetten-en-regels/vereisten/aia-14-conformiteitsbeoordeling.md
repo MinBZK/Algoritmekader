@@ -30,7 +30,9 @@ Aanbieders van AI-systemen met een hoog risico zorgen ervoor dat voor het AI-sys
 
 Conformiteitsbeoordelingen dragen bij aan het kunnen vertrouwen op de kwaliteit van producten en diensten. Aanbieders van AI-systemen met een hoog risico moeten ervoor zorgen dat de conformiteitsbeoordelingsprocedure wordt uitgevoerd vóórdat het systeem op de markt wordt gebracht of in gebruik wordt genomen. Hiervoor moet worden beoordeeld of het ontwikkelde hoog risico AI-systeem voldoet aan de vereisten die gelden voor deze systemen. Denk hierbij aan de vereisten van risicobeheer, technische documentatie, data en datagovernance en transparantie en informatieverstrekking aan gebruiksverantwoordelijken (Afdeling 2, AI-Verordening).  
 
-Een conformiteitbeoordeling kan worden uitgevoerd door middel van een interne controle (als bedoeld in bijlage VI van de AI-verordening) of met betrokkenheid van een aangemelde instantie voor de beoordeling van het systeem voor kwaliteitsbeheer en de technische documentatie (als bedoeld in bijlage VII van de AI-verordening). Een conformiteitsbeoordeling door een aangemelde instatie wordt ookwel een conformiteitsbeoordeling door een derden genoemd. 
+Een conformiteitbeoordeling kan worden uitgevoerd door middel van 
+- een interne controle (als bedoeld in bijlage VI van de AI-verordening)
+- of met betrokkenheid van een aangemelde instantie voor de beoordeling van het systeem voor kwaliteitsbeheer en de technische documentatie (als bedoeld in bijlage VII van de AI-verordening). Een conformiteitsbeoordeling door een aangemelde instatie wordt ookwel een conformiteitsbeoordeling door een derden genoemd. 
 
 Als overheidsorganisaties hoog risico AI-systemen gebruiken van aanbieders of deze zelf ontwikkelen, zullen deze systemen veelal de conformiteitsbeoordeling middels een interne controle moeten doorlopen (bijlage VI). Let op! In het geval dat een hoog risico AI-systeem door een rechtshandhavingsinstantie, immigratie- of asielautoriteit wordt ingezet, dan zal de markttoezichtautoriteit als aangemelde instantie optreden die de conformiteitsbeoordeling zal uitvoeren.  
 

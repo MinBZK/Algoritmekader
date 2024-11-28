@@ -612,3 +612,33 @@ background-color: #B2D7EE;
   border-color: #01689B;
   text-decoration: none;
 }
+
+:root {
+  --md-admonition-icon--pied-piper: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M8 13.1l-6-6 1.5-1.5 4.5 4.5 4.5-4.5 1.5 1.5z'/%3E%3C/svg%3E");}
+
+.md-typeset .admonition.pied-piper,
+.md-typeset details.pied-piper {
+  border-color: rgb(43, 155, 70, 0);
+}
+.md-typeset .pied-piper > .admonition-title,
+.md-typeset .pied-piper > summary {
+  background-color: rgba(43, 155, 70, 0);
+  font-size: 1.2em; /* Adjust font size */
+  color: #154271; /* Change text color */
+  font-weight: 400;
+  padding-top: 8px;
+  text-decoration: underline;
+}
+.md-typeset .pied-piper > .admonition-title::before,
+.md-typeset .pied-piper > summary::before {
+  background-color: #154271;
+  -webkit-mask-image: var(--md-admonition-icon--pied-piper);
+          mask-image: var(--md-admonition-icon--pied-piper);
+  margin-top: -4px;
+  margin-left: -3px;
+}
+
+.md-typeset .pied-piper > .admonition-title::before,
+.md-typeset .pied-piper > summary::after {
+  display:none;
+}

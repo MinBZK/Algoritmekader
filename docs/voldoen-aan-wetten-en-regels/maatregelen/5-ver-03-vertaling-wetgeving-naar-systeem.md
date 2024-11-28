@@ -9,6 +9,7 @@ vereiste:
 - aia-05-data-kwaliteitscriteria
 levenscyclus:
 - verificatie-en-validatie
+- monitoring-en-beheer
 onderwerp:
 - governance
 - transparantie

@@ -29,8 +29,8 @@ Documenteer de onderbouwing waarom een algoritme een betere oplossing zou bieden
 - Maak een bewuste afweging of een algoritme het juiste middel is om [het probleem](1-pba-01-formuleren-probleemdefinitie.md) op doelmatige en doeltreffende wijze op te lossen, en documenteer deze afweging. 
 
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Het algoritme is niet het juiste middel om het probleem op te lossen. Het risico daarbij bestaat dat het probleem niet wordt opgelost. 

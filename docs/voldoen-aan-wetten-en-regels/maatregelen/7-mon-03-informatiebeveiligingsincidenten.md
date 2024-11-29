@@ -35,8 +35,8 @@ Er zijn procedures aanwezig die borgen dat beveiligingsincidenten m.b.t. algorit
 Te late reactie op incidenten kan ervoor zorgen dat de BIV (beschikbaarheid, integriteit en vertrouwelijkheid) van het algoritme of data kan worden aangetast.
 
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 

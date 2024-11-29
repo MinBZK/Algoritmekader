@@ -38,8 +38,8 @@ Ga na of algoritmes van een aanbieder een bepalende invloed hebben in een beslui
 
 
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 

@@ -36,8 +36,8 @@ Er is een overzicht opgesteld welke persoonsgegevens mogen worden verwerkt en om
 - Een [DPIA](../hulpmiddelen/DPIA.md) kan worden gebruikt om bovenstaande activiteiten uit te voeren.
   
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Het algoritme verwerkt persoonsgegevens die het niet mag verwerken. 

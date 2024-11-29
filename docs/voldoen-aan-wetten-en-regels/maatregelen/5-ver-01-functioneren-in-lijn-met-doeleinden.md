@@ -33,8 +33,8 @@ Stel vast dat het algoritme voortdurend functioneert in lijn met de [vastgesteld
 - Wanneer er sprake is van een (handmatige) behandeling, bepaal dan wanneer deze behandeling als 'succesvol' gezien kan worden. 
 
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Het algoritme functioneert niet in lijn met geformuleerde doelstellingen. 

@@ -28,8 +28,8 @@ Inventariseer of er mogelijk sprake is van een algoritme of AI-systeem dat een h
 Een model-verwerkersoverenkomst is veelal een verplicht onderdeel bij het publiek inkopen van software waarbij persoonsgegevens worden verwerkt en bij de totstandkoming van de overeenkomst.
 
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 

@@ -37,8 +37,8 @@ Voer een Project Startarchitectuur (PSA) uit als algoritmes of AI-systemen worde
 - Onderwerpen als privacy, informatiebeheer en beheer worden hierin ook globaal meegenomen. 
   
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Het algoritme of AI-systeem kan niet of na verloop van tijd niet meer functioneren, doordat onverwachte of ongewenst wijzigingen in het applicatielandschap plaatsvinden. 

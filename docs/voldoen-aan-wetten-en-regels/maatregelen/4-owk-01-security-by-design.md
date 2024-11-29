@@ -36,8 +36,8 @@ Wanneer tijdens het ontwerp en de inrichting van het algoritmisch systeem niet v
 
 
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 

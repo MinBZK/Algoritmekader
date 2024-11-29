@@ -31,8 +31,8 @@ hide:
 - Bij beëindiging van het gebruik van het algoritme of AI-systeem, moet het verwerkingsregister worden aangepast. 
 - 
   ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Betrokkenen en de interne organisatie zijn niet op de hoogte welke persoonsgegevens worden verwerkt met een algoritme of AI-systeem, waardoor zij hier geen controle over hebben. 

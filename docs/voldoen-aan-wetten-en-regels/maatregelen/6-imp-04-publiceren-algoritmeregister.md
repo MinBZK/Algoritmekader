@@ -37,8 +37,8 @@ Publiceer het algoritme  in het [Nederlandse Algoritmeregister](../hulpmiddelen/
 - Zorg na publicatie dat de informatie in het Algoritmeregister up-to-date blijft en indien nodig regelmatig wordt aangepast. 
 
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Betrokkenen zijn niet op de hoogte dat hun persoonsgegevens worden verwerkt met een algoritme of AI-systeem, waardoor zij hier geen controle over hebben. 

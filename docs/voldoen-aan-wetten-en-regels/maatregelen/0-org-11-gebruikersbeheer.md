@@ -52,8 +52,8 @@ Er bestaan meerdere risico's wanneer er geen gebruikersbeheer is:
 
 
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 

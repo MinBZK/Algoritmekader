@@ -37,8 +37,8 @@ Pas vastgestelde interne beleidskaders toe en maak aantoonbaar dat deze zijn nag
 - Ten behoeve van controles en audits is het van belang dat aantoonbaar wordt gemaakt dat de vastgestelde beleidskaders zijn nageleefd. 
   
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 De in te zetten algoritmes of AI-systemen voldoen niet aan vastgestelde beleidskaders. 

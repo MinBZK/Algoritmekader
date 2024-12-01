@@ -39,8 +39,8 @@ Bij het inrichten van wachtwoordbeheer moeten de volgende zaken worden toegepast
 Als het wachtwoordbeheer van onvoldoende kwaliteit is, kan oneigenlijke toegang plaatsvinden tot het algoritme of uitkomsten van het algoritme, bijvoorbeeld doordat het wachtwoord te eenvoudig is.
 
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 

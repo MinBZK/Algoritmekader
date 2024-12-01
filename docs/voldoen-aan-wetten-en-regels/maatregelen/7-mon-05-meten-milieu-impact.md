@@ -41,7 +41,8 @@ Probeer ook periodieke monitoringsrapporten op te stellen waarin de milieu-impac
 Hiermee vergroot je de duurzaamheid door [tijdig verbeteringen te signaleren en door te voeren](../../levenscyclus/monitoring-en-beheer.md). Hierbij kan ook een onderscheid worden gemaakt in de impact tijdens de trainingsfase van het algoritme en de gebruiksfase. 
 
 ## Bijbehorende vereiste(n)
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Wanneer in de ontwerpfase niet wordt nagedacht over milieu-impact kan onbewust voor een algoritme of model worden gekozen dat meer energie verbruikt (en wellicht hogere kosten met zich mee brengt) dan een model dat misschien even goed presteert voor het [gekozen doel](1-pba-02-formuleren-doelstelling.md).

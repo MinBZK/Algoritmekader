@@ -47,8 +47,8 @@ verkeersvoorschriften (Wahv) of het bijstellen van de hoogte van het recht op st
 
 
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 

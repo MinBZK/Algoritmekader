@@ -34,8 +34,8 @@ Een politieke-bestuurlijk besluit wordt genomen over de inzet van een impactvol 
 - Een openbaar besluit draagt bij aan de legitimiteit van de inzet van het algoritme en de controleerbaarheid van de overheidsorganisatie. 
     
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 De ambtelijke organisatie maakt politieke-bestuurlijke afwegingen en beslissingen bij de inzet of beëindiging van het gebruik van impactvolle algoritmes, terwijl deze daar niet toe bevoegd is.

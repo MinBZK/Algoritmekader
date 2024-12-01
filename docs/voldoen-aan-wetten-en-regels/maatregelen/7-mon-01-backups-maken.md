@@ -32,8 +32,8 @@ Als er geen regelmatige back-ups worden gemaakt en de restore-procedure niet reg
 
 
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 

@@ -46,8 +46,8 @@ Het toepassen van wachtwoordbeheer. [Baseline Informatiebeveiliging Overheid](ht
 Oneigenlijke toegang van buitenaf kan plaatsvinden via zwakheden in het systeem.
 
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 

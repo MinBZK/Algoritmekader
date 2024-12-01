@@ -161,8 +161,8 @@ Bepaal [met een grote groep belanghebbenden](1-pba-04-betrek-belanghebbenden.md)
     De bepaling over wat eerlijk is en wat ethisch wenselijk is kan in sommige gevallen ook politiek bevonden worden. Houd hier rekening met de politiek-bestuurlijke verantwoordelijkheden en zorg indien nodig dat de [politiek-bestuurlijke verantwoordelijkhden](0-org-04-politiek-bestuurlijke-verantwoordelijkheid.md) duidelijk zijn. 
 
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Wanneer er geen zorgvuldige analyse naar (onwenselijke) bias is uitgevoerd, bestaat het risico dat het gebruik van het algoritme discriminerende effecten met zich meebrengt. 

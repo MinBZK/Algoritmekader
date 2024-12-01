@@ -37,8 +37,8 @@ Daarom is het belangrijk om regelmatig te controleren en evalueren of:
 Zeker wanneer er gebruikt wordt gemaakt van informatie van derden, is het belangrijk om regelmatig te controleren of er veranderingen in de data zijn. Goede monitoring op datakwaliteit zorgt ervoor dat je voldoende controle hebt over de kwaliteit van de data, zelfs als je hiervoor afhankelijk bent van andere partijen. 
 
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Door veranderingen in de data presteert het model niet meer zoals verwacht.

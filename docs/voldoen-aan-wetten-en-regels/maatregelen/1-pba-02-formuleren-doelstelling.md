@@ -35,8 +35,8 @@ Welke doelen zijn subdoelen, waarvoor het minder belangrijk is om deze te realis
 Hierbij kan het ook helpen om burgers te betrekken bij de totstandkoming van de doelstellingen, bijvoorbeeld door middel van een burgerpanel of het betrekken van belangengroepen. 
 
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Het algoritme dient niet het beoogde doel en onderliggend probleem. 

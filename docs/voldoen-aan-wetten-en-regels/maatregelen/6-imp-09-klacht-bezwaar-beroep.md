@@ -27,8 +27,8 @@ Richt een proces in zodat burgers of andere belanghebbenden een klacht, bezwaar 
 - Goede monitoring kan ervoor zorgen dat eventuele patronen in bezwaar, klacht en beroep snel gesignaleerd worden. Eventuele patronen in klacht, bezwaar en beroep kunnen duiden op problemen in het functioneren van het algoritme. Dit kan bijvoorbeeld duiden op discriminerende effecten van het algoritme, waardoor nader onderzoek wenselijk is. 
 
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 

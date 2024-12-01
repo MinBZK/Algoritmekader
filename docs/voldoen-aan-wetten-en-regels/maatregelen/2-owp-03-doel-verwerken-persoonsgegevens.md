@@ -36,8 +36,8 @@ Het doel voor het verwerken van persoonsgegevens met een algoritme is welbepaald
 - Eventuele verdere (subsidiaire) verwerkingen, zoals het verwerken van persoonsgegevens voor een onderzoek naar onbewuste vooringenomenheid, moeten uitdrukkelijk worden omschreven.
   
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 
 ## Risico

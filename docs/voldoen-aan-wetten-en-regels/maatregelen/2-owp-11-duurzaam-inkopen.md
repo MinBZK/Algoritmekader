@@ -61,7 +61,8 @@ Extra overwegingen die je kunt maken bij het aankopen van algoritmes, zoals geno
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Zonder duurzaamheidscriteria bij het inkopen van software loop je het risico op hogere energie- en kostenlasten, en beperk je de mogelijkheden om duurzaamheidsdoelstellingen te halen bij je algoritmes.

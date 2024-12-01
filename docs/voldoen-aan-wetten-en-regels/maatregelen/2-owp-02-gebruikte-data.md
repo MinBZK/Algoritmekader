@@ -35,7 +35,8 @@ Wat voor type data gaat gebruikt worden  en uit welke bronnen is de data afkomst
 
 
 ## Bijbehorende vereiste(n)
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen 
 - [Impact Assessment Mensenrechten en Algoritmes, 2A.2.1](../hulpmiddelen/IAMA.md)

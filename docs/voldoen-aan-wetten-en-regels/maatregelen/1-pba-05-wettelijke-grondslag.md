@@ -26,8 +26,8 @@ Beschrijf de wettelijke grondslag voor de inzet van het algoritme en de beoogde 
 - Voor het verwerken van persoonsgegevens is een wettelijke grondslag noodzakelijk. 
 
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen 
 - [Onderzoekskader Auditdienst Rijk, SV.7, PRI.6](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)

@@ -30,7 +30,7 @@ Er is een overzicht opgesteld welke persoonsgegevens mogen worden verwerkt en om
 
 - Er is een overzicht opgesteld welke persoonsgegevens mogen worden verwerkt mogen worden verwerkt.
 - Bij de persoonsgegevens is aangegeven om wat voor categorie persoonsgegevens het gaat.
-- Per kenmerk is toegelicht waarom deze noodzakelijk is om te verwerken voor het ontwikkelen en gebruiken van het algoritme of AI-systeem.
+- Per kenmerk is toegelicht waarom deze noodzakelijk is om te verwerken voor het ontwikkelen en gebruiken van het algoritme.
 - Het principe van dataminimalisatie is toegepast, wat betekent dat een keuze is gemaakt of een persoonsgegevens al dan niet strikt noodzakelijk is om het doel te bereiken of dat verwerking ervan achterwege kan blijven.
 - Voor [het beschermen van deze persoonsgegevens](3-dat-05-pseudonimiseren-anonimiseren.md) wordt per kenmerk aangegeven op welke manier deze kan worden beschermd (anonimiseren, pseudonomiseren, aggregeren). 
 - Een [DPIA](../hulpmiddelen/DPIA.md) kan worden gebruikt om bovenstaande activiteiten uit te voeren.
@@ -40,7 +40,7 @@ Er is een overzicht opgesteld welke persoonsgegevens mogen worden verwerkt en om
 <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
-Het algoritme of AI-systeem verwerkt persoonsgegevens die het niet mag verwerken. 
+Het algoritme verwerkt persoonsgegevens die het niet mag verwerken. 
 
 ## Bronnen
 [Onderzoekskader Algoritmes Auditdienst Rijk, PRI.7](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) 

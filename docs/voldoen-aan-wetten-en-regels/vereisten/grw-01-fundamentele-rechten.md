@@ -1,7 +1,7 @@
 ---
 title: Algoritmes schenden geen grondrechten of mensenrechten
 id: urn:nl:ak:ver:grw-01
-toelichting: Fundamentele vrijheden, mensenrechten en grondrechten worden beschermd bij de inzet van algoritmes en AI.
+toelichting: Fundamentele vrijheden, mensenrechten en grondrechten worden beschermd bij de inzet van algoritmes.
 levenscyclus:
 - probleemanalyse
 - ontwerp
@@ -19,7 +19,7 @@ hide:
 <!-- tags -->
 ## Vereiste
 
-Fundamentele vrijheden, mensenrechten en grondrechten worden beschermd bij de inzet van algoritmes en AI.
+Fundamentele vrijheden, mensenrechten en grondrechten worden beschermd bij de inzet van algoritmes.
 
 ## Toelichting
 
@@ -32,7 +32,7 @@ Om mensenrechten te beschermen zijn ze op Europees en internationaal niveau in v
 
 
 Mensenrechten kunnen soms onder druk komen te staan.
-De inzet van algoritmes en AI-systemen kan bijvoorbeeld een bedreiging vormen voor de privacy van burgers, voor het  recht op gelijke behandeling en voor het recht op behoorlijk bestuur.
+De inzet van algoritmes kan bijvoorbeeld een bedreiging vormen voor de privacy van burgers, voor het  recht op gelijke behandeling en voor het recht op behoorlijk bestuur.
 Het is daarom belangrijk om tijdig te onderzoeken of er sprake is of kan zijn van een eventuele inbreuk op fundamentele rechten en vrijheden van burgers. Het is van belang dat maatregelen worden getroffen om een eventuele inbreuk te voorkomen.
 
 ## Bronnen

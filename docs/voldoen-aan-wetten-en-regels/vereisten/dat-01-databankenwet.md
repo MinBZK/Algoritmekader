@@ -25,7 +25,7 @@ Bij verkrijgen gaat het om "het verzamelen van de werken, gegevens of andere zel
 Dit recht bestaat naast het recht op bescherming van de originele keuze of rangschikking van de inhoud van databanken (auteurswet).
  
 
-Voor het ontwikkelen van algoritme en AI is data nodig.
+Voor het ontwikkelen van algoritme is data nodig.
 De data die hiervoor wordt gebruikt mag niet ongeoorloofd zijn verkregen uit een databank.
 
 
@@ -42,7 +42,7 @@ De data die hiervoor wordt gebruikt mag niet ongeoorloofd zijn verkregen uit een
 
 ## Risico
 
-Als een ontwikkelaar onbevoegd gebruik heeft gemaakt van data uit een databank bij de ontwikkeling van algoritmes en AI, wordt het databankenrecht geschonden van de eigenaar.
+Als een ontwikkelaar onbevoegd gebruik heeft gemaakt van data uit een databank bij de ontwikkeling van algoritmes, wordt het databankenrecht geschonden van de eigenaar.
  De eigenaar van de databank kan bijvoorbeeld ontrekking van de data uit het handelsverkeer, vernietiging en onbruikbaarmaking  eisen, wat vergaande gevolgen kan hebben voor het gebruik kunnen maken van de algoritmische toepassing of AI-systeem.
  
 ## Maatregelen

@@ -1,7 +1,7 @@
 ---
 title: Organiseer menselijke controle van het algoritme
 id: urn:nl:ak:mtr:imp-03
-toelichting: Als algoritmes of AI-systemen worden ingezet om te ondersteunen bij het nemen van beslissingen en besluiten door overheidsorganisaties, kan het noodzakelijk zijn om menselijke tussenkomst in te richten om foutieve output te signaleren en te corrigeren. 
+toelichting: Als algoritmes worden ingezet om te ondersteunen bij het nemen van beslissingen en besluiten door overheidsorganisaties, kan het noodzakelijk zijn om menselijke tussenkomst in te richten om foutieve output te signaleren en te corrigeren. 
 vereiste:
 - avg-10-recht-op-niet-geautomatiseerde-besluitvorming
 - grw-01-fundamentele-rechten
@@ -26,18 +26,18 @@ hide:
 
 <!-- tags -->
 ## Maatregel
-Richt (technische) controlemechanismen in voor menselijk tussenkomst waarmee de output van een algoritme of AI-systeem kan worden gecontroleerd.
+Richt (technische) controlemechanismen in voor menselijk tussenkomst waarmee de output van een algoritme kan worden gecontroleerd.
 
 
 ## Toelichting
 
-- Algoritmes en AI-systemen worden vaak ingezet om beslissingen of besluitvorming van overheidsorganisaties te ondersteunen.
+- Algoritmes worden vaak ingezet om beslissingen of besluitvorming van overheidsorganisaties te ondersteunen.
 - Als overheidsorganisaties beslissingen of besluiten nemen, kan dit rechtsgevolgen hebben voor een betrokkene of deze op een andere manier in aanmerkelijke mate treffen. 
-- Algoritmes en AI-systemen zijn in de meeste gevallen niet foutloos. 
+- Algoritmes zijn in de meeste gevallen niet foutloos. 
 - Daarom is het van belang dat deze output wordt gecontroleerd door een mens, zodat dit kan worden gecorrigeerd. Dit wordt 'menselijke tussenkomst' genoemd. 
 - Er is sprake van menselijke tussenkomst wanneer het menselijke toezicht op beslissingen of besluitvorming betekenisvol of zinvol is, en niet slechts symbolisch is.
 - Menselijke tussenkomst moet worden uitgevoerd door iemand die bevoegd en bekwaam is om een beslissing of besluit te veranderen.
-- Als een automatisch gegenereerde aanbeveling van een algoritme of AI-systeem (output) praktisch gezien standaard wordt overgenomen (bijvoorbeeld door deze al klikkend te accepteren), is er geen sprake meer van betekenisvolle menselijke tussenkomst. Hier is meer voor nodig.
+- Als een automatisch gegenereerde aanbeveling van een algoritme (output) praktisch gezien standaard wordt overgenomen (bijvoorbeeld door deze al klikkend te accepteren), is er geen sprake meer van betekenisvolle menselijke tussenkomst. Hier is meer voor nodig.
 - Het is van belang dat in een vroeg stadia wordt vastgesteld, bijvoorbeeld in de ontwerpfase, welke vormen van menselijke tussenkomst moeten worden ingezet en passend zijn gezien de specifieke algoritmische toepassing of AI-systeem. Dit kan worden gedaan op basis van uit te voeren risico analyses. 
 - In het geval van het uitoefenen van 'gebonden bevoegdheden', waarbij er weinig of geen beoordelingsruimte is om de beslissing of het besluit te wijzigen, kan het zijn dat menselijke tussenkomst geen meerwaarde heeft en kan worden volstaan met de automatisch gegenereerde output.
 - Hierbij kan worden gedacht aan het opleggen van een boete in het kader van de Wet administratiefrechtelijke handhaving

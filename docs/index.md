@@ -1,13 +1,13 @@
 ---
 title: Algoritmekader
-summary: In het Algoritmekader staan alle regels, tips en hulpmiddelen voor overheden voor verantwoord gebruik van algoritmes en AI.
+summary: In het Algoritmekader staan alle regels, tips en hulpmiddelen voor overheden voor verantwoord gebruik van algoritmes.
 hide:
   - navigation
   - toc
 ---
 # Het algoritmekader 
 <div class="header-container">
-    <div class="subheader">Wetten en regels, tips en hulpmiddelen voor verantwoord gebruik van algoritmes en AI. 
+    <div class="subheader">Wetten en regels, tips en hulpmiddelen voor verantwoord gebruik van algoritmes. 
     <span class="version-container">
       <span class="version-label">bètaversie</span>
       <div class="hover-info">

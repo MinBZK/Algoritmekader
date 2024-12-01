@@ -26,7 +26,7 @@ De verwerking van persoonsgegevens moet rechtmatig plaatsvinden, wat betekent da
 Persoonsgegevens mogen alleen worden verzameld voor specifieke, duidelijk omschreven en gerechtvaardigde doeleinden.
 Het is niet toegestaan om deze gegevens verder te verwerken op een manier die niet verenigbaar is met deze oorspronkelijke doeleinden.
 
-Bij het verwerken van persoonsgegevens ten behoeve van de ontwikkeling en gebruik van algoritmes en AI moet worden onderzocht of dit kan worden gebaseerd op één van de verwerkingsgrondslagen.
+Bij het verwerken van persoonsgegevens ten behoeve van de ontwikkeling en gebruik van algoritmes moet worden onderzocht of dit kan worden gebaseerd op één van de verwerkingsgrondslagen.
 Het is van belang dat wordt uitgewerkt welke persoonsgegevens waarvoor worden verwerkt en op basis van welke grondslag.
 Hierbij kan worden gedacht aan persoonsgegevens ten behoeve van trainingsdata, voor het genereren van output of, indien (juridisch) mogelijk, voor het uitvoeren van een onderzoek naar onbewuste vooringenomenheid.
 

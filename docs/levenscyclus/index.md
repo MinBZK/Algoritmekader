@@ -1,11 +1,11 @@
 ---
 title: Levenscyclus
-summary: Hulp per fase van de levenscyclus van algoritmes en AI, zoals probleemanalyse, ontwerpen, ontwikkelen, implementeren en ermee stoppen.
+summary: Hulp per fase van de levenscyclus van algoritmes, zoals probleemanalyse, ontwerpen, ontwikkelen, implementeren en ermee stoppen.
 hide:
   - toc
 ---
 
-# Levenscyclus algoritmes en AI
+# Levenscyclus van een algoritme
 
 Om algoritmes op een verantwoorde manier te gebruiken, zul je op de juiste momenten aandacht moeten hebben voor de juiste onderwerpen en risico's. 
 Van het ontwikkelen van een oplossing, tot het in gebruik nemen van die oplossing en er uiteindelijk weer mee stoppen.

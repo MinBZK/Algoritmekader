@@ -26,13 +26,13 @@ hide:
 
 ## Maatregel
 
-Het doel voor het verwerken van persoonsgegevens met een algoritme of AI-systeem is welbepaald en omschreven.
+Het doel voor het verwerken van persoonsgegevens met een algoritme is welbepaald en omschreven.
 
 ## Toelichting
 
 - Persoonsgegevens mogen alleen worden verwerkt voor een ‘welbepaald, uitdrukkelijk omschreven en gerechtvaardigd’ doel;
 - De  wettelijke grondslag / wettelijke taak voor de verwerking van de persoonsgegevens moet zijn beschreven, bijvoorbeeld in een DPIA;
-- De verwerking van persoonsgevens voor het ontwikkelen en gebruiken van het algoritme of AI-systeem moet verenigbaar met het oorspronkelijke verwerkingsdoel (doelbinding);
+- De verwerking van persoonsgevens voor het ontwikkelen en gebruiken van het algoritme moet verenigbaar met het oorspronkelijke verwerkingsdoel (doelbinding);
 - Eventuele verdere (subsidiaire) verwerkingen, zoals het verwerken van persoonsgegevens voor een onderzoek naar onbewuste vooringenomenheid, moeten uitdrukkelijk worden omschreven.
   
 ## Bijbehorende vereiste(n)

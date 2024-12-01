@@ -28,7 +28,7 @@ De inzet van algoritme kan onbedoeld leiden tot discriminerende effecten.
 Het is van belang om als organisatie een protocol te hebben vastgesteld waarin is uitgewerkt hoe wordt omgegaan met situaties waarin (een vermoeden van) discriminatie door een algoritme is geconstateerd.
 In een dergelijk protocol kunnen de handelingen worden beschreven die moeten worden uitgevoerd om deze situatie te gaan herstellen.
 Het vaststellen van een dergelijk protocol geeft ontwikkelaar en gebruikers (vooraf) duidelijkheid wat van hen wordt verwacht en wat zij kunnen doen om discriminatie door algoritmes te voorkomen.  
-Een voorbeeld hiervan is het analyseren van de data op [datakwaliteit en bias in de data](3-dat-01-datakwaliteit.md) en [toets regelmatig je algoritmisch systeem op bias](5-ver-02-biasanalyse.md). 
+Een voorbeeld hiervan is het analyseren van de data op [datakwaliteit en bias in de data](3-dat-01-datakwaliteit.md) en [toets regelmatig je algoritmisch systeem op bias](5-ver-03-biasanalyse.md). 
 
 Het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties heeft een [discriminatieprotocol](https://minbzk.github.io/discriminatieprotocol) opgesteld wat organisaties handvatten biedt.
 

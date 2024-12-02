@@ -34,11 +34,11 @@ Een duidelijk beleid van organisaties over de inzet van algoritmes, draagt bij a
   - Het hanteren van [inkoopvoorwaarden](inkoopvoorwaarden.md).
   
 - Hoe burgers worden geïnformeerd over de inzet van algoritmes door de organisatie (communicatiestrategie) en welke kanalen hiervoor kunnen worden gebruikt. Hierbij kan worden gedacht aan het:
-  - [Algoritmeregister](algoritmeregister.md) voor het publiceren van hoog risico AI-systemen of impactvolle algoritmes. 
-  - Een algemene pagina op de website met informatie over de inzet van algoritmes.
-  - Het [verwerkingsregister](6-imp-08-vermelding-in-verwerkingsregister.md).
-  - Een intern registratiesysteem, bijvoorbeeld voor het registreren van laag risico of niet-impactvolle algoritmes zodat deze informatie voor medewerkers beschikbaar is.
-  - In welke gevallen een [(openbaar) besluit](6-imp-09-politiek-bestuurlijk-besluit.md) wordt genomen door het bestuur over de inzet van een algoritme. 
+ - [Algoritmeregister](algoritmeregister.md) voor het publiceren van hoog risico AI-systemen of impactvolle algoritmes. 
+ - Een algemene pagina op de website met informatie over de inzet van algoritmes.
+ - Het [verwerkingsregister](6-imp-08-vermelding-in-verwerkingsregister.md).
+ - Een intern registratiesysteem, bijvoorbeeld voor het registreren van laag risico of niet-impactvolle algoritmes zodat deze informatie voor medewerkers beschikbaar is.
+ - In welke gevallen een [(openbaar) besluit](6-imp-09-politiek-bestuurlijk-besluit.md) wordt genomen door het bestuur over de inzet van een algoritme. 
 
 - Er is beschreven welke informatie over welke type algoritmes wordt gecommuniceerd met betrokkenen als algoritmes worden ontwikkeld of gebruikt door de organisatie. 
 

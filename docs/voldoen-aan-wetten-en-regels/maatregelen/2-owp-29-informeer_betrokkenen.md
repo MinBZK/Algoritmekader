@@ -44,27 +44,17 @@ Maak bij het vaststellen van de informatiebehoefte onderscheid tussen transparan
 
 Stel een communicatieplan op over de ontwikkeling en gebruik van het algoritme. Bepaal vervolgens aan de hand van de levenscyclus wanneer, welke informatie wanneer beschikbaar moet worden gesteld. Stel vast wie verantwoordelijk is voor het opstellen of het leveren van een bijdrage aan deze informatie. In het communicatieplan kunnen verder zaken worden opgenomen als:
 
-•	Het doel van het algoritme.
-
-•	Mogelijkheden van het algoritme.
-
-•	Beperkingen van het algoritme.
-
-•	Context waarin het algoritme wordt toegepast.
-
-•	Wie heeft informatie nodig?
-
-•	Wat voor informatie heeft deze betrokken partij nodig?
-
-•	Op wat voor manier informeer je de betrokken partij?
-
-•	Wanneer wordt deze informatie gebruikt? 
-
-•	Wie is er verantwoordelijk voor de informatieverstrekking?
-
-•	Hoe en naar wie communiceer je in het geval van een incident?
-
-•	Wat is de planning voor de communicatieactiviteiten?
+  - Het doel van het algoritme.
+  - Mogelijkheden van het algoritme.
+  - Beperkingen van het algoritme.
+  - Context waarin het algoritme wordt toegepast.
+  - Wie heeft informatie nodig?
+  - Wat voor informatie heeft deze betrokken partij nodig?
+  - Op wat voor manier informeer je de betrokken partij?
+  - Wanneer wordt deze informatie gebruikt?
+  - Wie is er verantwoordelijk voor de informatieverstrekking?
+  - Hoe en naar wie communiceer je in het geval van een incident?
+  - Wat is de planning voor de communicatieactiviteiten?
 
 Overleg regelmatig met betrokkenen en [belanghebbenden](1-pba-04-betrek-belanghebbenden.md) in hoeverre de informatieverstrekking aansluit bij de (nieuwe) behoeften.
 

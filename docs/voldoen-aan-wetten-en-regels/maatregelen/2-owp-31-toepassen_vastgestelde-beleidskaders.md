@@ -26,14 +26,13 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-
 Pas vastgestelde beleidskaders toe.
 
 ## Toelichting
 - Vastgestelde (interne) beleidskaders moeten worden toegepast bij het ontwikkelen, inkopen of gebruiken van algoritmes. Denk aan [specifiek beleid voor de inzet van algoritmes]([0-org-02-beleid_opstellen_inzet_algoritmes.md).
 - Het is van belang dat tijdig, bijvoorbeeld in de [probleemanalyse fase](../../levenscyclus/probleemanalyse.md), inzichtelijk wordt gemaakt welke interne beleidskaders moeten worden toegepast.
 - Hierbij kan worden gedacht aan definities die moet worden gehanteerd, het naleven van inkoopbeleid, strategisch beleid volgen met betrekking tot het mogen inzetten van algoritmes binnen de organisaties of het doorlopen van processen en protocollen die moeten worden toegepast.
-- Vraag de [betrokken experts](1-pba-04-betrek-belanghebbenden.md) welke beleidskaders van toepassing zijn vanuit zijn of haar expertise. 
+- Vraag de [betrokken experts](1-pba-04-betrek-belanghebbenden.md) welke beleidskaders van toepassing zijn vanuit diens expertise. 
 - Ten behoeve van controles en audits is het van belang dat aantoonbaar wordt gemaakt dat de vastgestelde beleidskaders zijn nageleefd. 
   
 ## Bijbehorende vereiste(n)

@@ -3,7 +3,7 @@ title: Stel een werkinstructie op voor gebruikers.
 id: urn:nl:ak:mtr:imp-01
 toelichting: Stel een duidelijke werkinstructie op voor gebruikers die het algoritme gaan toepassen. 
 vereiste:
-- aia-01-ai-geletterheid
+- aia-01-ai-geletterdheid
 - awb-01-zorgvuldigheidsbeginsel
 - aia-28-transparantieverplichtingen
 - aia-09-menselijk-toezicht

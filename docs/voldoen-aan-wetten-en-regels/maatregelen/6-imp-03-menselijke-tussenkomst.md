@@ -68,6 +68,9 @@ Hier maakt de mens vooraf ethische en morele afwegingen die in het algoritme zel
 
 Dit model is essentieel in situaties waar menselijk ingrijpen tijdens de uitvoering niet mogelijk is (wanneer er bijvoorbeeld weinig of helemaal geen tijd is om als mens te interveniëren), maar waar ethische keuzes cruciaal blijven. Denk aan bestrijding van zeemijnen of situaties met zelfrijdende auto’s in onvoorspelbare verkeerssituaties (bron: [TNO visiestuk 2022](https://publications.tno.nl/publication/34640024/a05DMs/TNO-2022-visiestuk.pdf)).
 
+## Risico
+Het niet inrichten van passende menselijke controle leidt tot onverantwoorde inzet van algoritmen en het niet voldoen aan wettelijke vereisten. 
+
 ## Bijbehorende vereiste(n)
 
 <!-- list_vereisten_on_maatregelen_page -->

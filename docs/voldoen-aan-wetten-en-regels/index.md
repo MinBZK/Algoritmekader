@@ -18,7 +18,7 @@ hide:
     <ul>
       <li><a href="ai-verordening/">De AI-verordening in het kort</a></li>
     </ul>
-    <a href="https://ai-act-decisiontree.apps.digilab.network/" target="_blank" class="button md-button--primary">Voer beslishulp AI-verordening uit</a>
+    <a href="https://ai-verordening-beslishulp.apps.digilab.network/" target="_blank" class="button md-button--primary">Voer beslishulp AI-verordening uit</a>
   </article>
 
   <article class="styled-list">

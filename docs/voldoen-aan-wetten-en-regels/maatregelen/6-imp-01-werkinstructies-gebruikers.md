@@ -7,7 +7,7 @@ toelichting: Stel een duidelijke werkinstructie op voor gebruikers die het algor
 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste:
-- aia-01-ai-geletterheid
+- aia-01-ai-geletterdheid
 - awb-01-zorgvuldigheidsbeginsel
 - aia-28-transparantieverplichtingen
 - aia-09-menselijk-toezicht

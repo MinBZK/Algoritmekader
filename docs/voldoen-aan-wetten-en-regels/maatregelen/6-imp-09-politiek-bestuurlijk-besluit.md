@@ -32,13 +32,13 @@ Een politieke-bestuurlijk besluit wordt genomen over de inzet van een impactvol 
 - Een voorbeeld van een politiek afweging is wanneer er wel of geen sprake is van een gerechtvaardigd onderscheid wat wordt gemaakt door een algoritme. 
 - Het is van belang dat overheidsorganisaties een politiek-bestuurlijk kader opstellen waarin wordt beschreven hoe wordt omgegaan met dergelijke gevallen. 
 - Een openbaar besluit draagt bij aan de legitimiteit van de inzet van het algoritme en de controleerbaarheid van de overheidsorganisatie. 
-    
-## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 De ambtelijke organisatie maakt politieke-bestuurlijke afwegingen en beslissingen bij de inzet of beëindiging van het gebruik van impactvolle algoritmes, terwijl deze daar niet toe bevoegd is.
+
+## Bijbehorende vereiste(n)
+
+<!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 

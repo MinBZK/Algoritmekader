@@ -22,16 +22,16 @@ hide:
 Stel beleid op voor een verantwoorde inzet van algoritmes binnen de organisatie. 
 
 ## Toelichting
-Een duidelijk beleid van organisaties over de inzet van algoritmes, draagt bij aan het daadwerkelijk gaan voldoen als organisatie aan de vereisten om algoritmes op een verantwoorde wijze in te zetten. Hierin worden zaken beschreven als:
+Een duidelijk beleid over de inzet van algoritmes helpt organisaties te voldoen aan de vereisten voor het verantwoord gebruik ervan. Hierin worden zaken beschreven als:
 
 - Hoe de inzet van algoritmes gaat bijdragen aan het realiseren van de organisatiedoelstellingen. 
 
-- Het beschrijven van de stappen die moeten woorden gezet om algoritmes op een verantwoorde wijze in te gaan zetten. Dit is afhankelijk en verschilt per type algoritme en de bijbehorende risicoclassificatie.
+- Het beschrijven van de stappen die moeten worden gezet om algoritmes op een verantwoorde wijze in te gaan zetten. Dit is afhankelijk en verschilt per type algoritme en de bijbehorende risicoclassificatie.
 
-- Het beschrijven welke instrumenten/hulpmiddelen in welke gevallen moeten worden ingezet om te voldoen aan de vereisten die gelden voor algoritmes. Hierbij kan worden gedacht aan:
-    - Een [Impact Assessment Mensenrechten en Algoritmes](IAMA.md).
-    - Een [Data Protection Impact Assessment](DPIA.md).
-    - Het hanteren van [inkoopvoorwaarden](inkoopvoorwaarden.md).
+- Het beschrijven van welke hulpmiddelen in welke gevallen moeten worden ingezet om te voldoen aan de vereisten die gelden voor algoritmes. Hierbij kan worden gedacht aan:
+    - Een [Impact Assessment Mensenrechten en Algoritmes](../hulpmiddelen/IAMA.md).
+    - Een [Data Protection Impact Assessment](../hulpmiddelen/DPIA.md).
+    - Het hanteren van [inkoopvoorwaarden](../hulpmiddelen/inkoopvoorwaarden.md).
   
 - Hoe burgers worden geïnformeerd over de inzet van algoritmes door de organisatie (communicatiestrategie) en welke kanalen hiervoor kunnen worden gebruikt. Hierbij kan worden gedacht aan:
     - Het [Algoritmeregister](../hulpmiddelen/algoritmeregister.md) voor het publiceren van hoog risico AI-systemen of impactvolle algoritmes. 
@@ -40,7 +40,7 @@ Een duidelijk beleid van organisaties over de inzet van algoritmes, draagt bij a
     - Een intern registratiesysteem, bijvoorbeeld voor het registreren van laag risico of niet-impactvolle algoritmes zodat deze informatie voor medewerkers beschikbaar is.
     - In welke gevallen een [(openbaar) besluit](6-imp-09-politiek-bestuurlijk-besluit.md) wordt genomen door het bestuur over de inzet van een algoritme. 
 
-- Er is beschreven welke informatie over welke type algoritmes wordt gecommuniceerd met betrokkenen als algoritmes worden ontwikkeld of gebruikt door de organisatie. 
+- Er is beschreven welke informatie over welke typen algoritmes wordt gecommuniceerd met betrokkenen bij de ontwikkeling of gebruik ervan door de organisatie. 
 
 - Er is beschreven welke stappen worden gezetten in het geval dat er incidenten ontstaan rondom de inzet van algoritmes, denk hierbij aan een [discriminatieprotocol](0-org-15-discriminatieprotocol.md).
 
@@ -56,7 +56,7 @@ Algoritmekader
 <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico 
-Zonder duidelijk beleid over de inzet van algoritmes in de organisatie, kan de situatie ontstaan dat algoritmes worden ontwikkeld of gebruikt die niet passend worden geacht binnen een organisatie. 
+Zonder duidelijk beleid over de inzet van algoritmes kan het gebeuren dat algoritmes worden ontwikkeld of gebruikt die niet passend zijn binnen de organisatie. 
 
 ## Voorbeelden
 

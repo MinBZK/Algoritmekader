@@ -47,7 +47,6 @@ Een duidelijk beleid over de inzet van algoritmes helpt organisaties te voldoen 
 - Dit beleidsdocument is beschikbaar en toegankelijk voor geïnteresseerden. 
 
 ## Bronnen
-Algoritmekader
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

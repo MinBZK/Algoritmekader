@@ -1,7 +1,7 @@
 ---
 title: Vermeld het gebruik van persoonsgegevens in een privacyverklaring
 id: urn:nl:ak:mtr:imp-07
-toelichting: Door in een privacyverklaring te vermelden welke persoonsgegevens worden verwerkt voor het gebruik van een algoritme of AI-systeem, wordt een betrokkene geïnformeerd over de verwerking van diens persoonsgegevens.
+toelichting: Door in een privacyverklaring te vermelden welke persoonsgegevens worden verwerkt voor het gebruik van een algoritme, wordt een betrokkene geïnformeerd over de verwerking van diens persoonsgegevens.
 vereiste:
 - avg-07-transparantie-bij-verwerken-persoonsgegevens
 
@@ -23,11 +23,11 @@ hide:
 
 ## Maatregel
 
- Neem het gebruik van een algoritme of AI-systeem op in de privacyverklaring als hierbij persoonsgegevens worden verwerkt.  
+ Neem het gebruik van een algoritme op in de privacyverklaring als hierbij persoonsgegevens worden verwerkt.  
 
 ## Toelichting
 
-- Door in een privacyverklaring te vermelden welke persoonsgegevens worden verwerkt voor het gebruik van een algoritme of AI-systeem, wordt een betrokkene geïnformeerd over de verwerking van diens persoonsgegevens.
+- Door in een privacyverklaring te vermelden welke persoonsgegevens worden verwerkt voor het gebruik van een algoritme, wordt een betrokkene geïnformeerd over de verwerking van diens persoonsgegevens.
 - Een privacyverklaring kan op organistieniveau worden opgesteld en ook voor specifieke verwerkingen.
 - In een privacyverklaring wordt in ieder geval het volgende opgenomen:
   
@@ -44,7 +44,7 @@ hide:
   -  of er sprake is van geautomatiseerde besluitvorming, inclusief profilering. En zo ja, hoe deze beslissing wordt genomen.
   -  als persoonsgegevens van een andere organisatie zijn ontvangen: de bron waar de persoonsgegevens vandaan komen. En of de gegevens afkomstig zijn van openbare bronnen.
 
-- Het is denkbaar dat in een specifieke privacyverklaring informatie over onderliggende logica van het algoritme of AI-systeem, alsmede het belang en de verwachte gevolgen van die verwerking voor de betrokkene. Het is ook denkbaar dat deze informatie in het algoritmeregister wordt opgenomen.
+- Het is denkbaar dat in een specifieke privacyverklaring informatie over onderliggende logica van het algoritme, alsmede het belang en de verwachte gevolgen van die verwerking voor de betrokkene. Het is ook denkbaar dat deze informatie in het algoritmeregister wordt opgenomen.
 - Als ervoor wordt gekozen om het algoritme uit te faseren, dan moet informatie in het algoriteregister hierop worden aangepast. 
   
 ## Bijbehorende vereiste(n)
@@ -52,7 +52,7 @@ hide:
 <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
-Betrokkenen zijn niet op de hoogte dat hun persoonsgegevens worden verwerkt met een algoritme of AI-systeem, waardoor zij hier geen controle over hebben en zich niet kunnen beroepen op hun privacyrechten.
+Betrokkenen zijn niet op de hoogte dat hun persoonsgegevens worden verwerkt met een algoritme, waardoor zij hier geen controle over hebben en zich niet kunnen beroepen op hun privacyrechten.
 
 ## Bronnen
 - [Onderzoekskader Algoritmes Auditdienst Rijk, PRI.8](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)

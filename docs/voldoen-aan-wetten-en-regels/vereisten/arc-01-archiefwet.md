@@ -1,7 +1,7 @@
 ---
 title: Informatie over algoritmes wordt gedocumenteerd volgens de Archiefwet
 id: urn:nl:ak:ver:arc-01
-toelichting: Volgens de Archiefwet moeten overheden informatie bewaren. Op basis van deze informatie moet gereconstrueerd kunnen worden hoe besluiten, ook in de context van algoritmes en AI, tot stand zijn gekomen. Informatie over algoritmes en AI moet daarom op basis van de selectielijst bewaard en vernietigd worden.
+toelichting: Volgens de Archiefwet moeten overheden informatie bewaren. Op basis van deze informatie moet gereconstrueerd kunnen worden hoe besluiten, ook in de context van algoritmes, tot stand zijn gekomen. Informatie over algoritmes moet daarom op basis van de selectielijst bewaard en vernietigd worden.
 levenscyclus: 
 - uitfaseren
 - monitoring-en-beheer
@@ -24,8 +24,8 @@ Overheidsorganen zijn verplicht de onder hen berustende archiefbescheiden in goe
 ## Toelichting 
 
 Volgens de Archiefwet moeten overheden informatie bewaren.
-Op basis van deze informatie moet  gereconstrueerd kunnen worden hoe besluiten, ook in de context van algoritmes en AI, tot stand zijn gekomen.
-Informatie over en van algoritmes en AI moet daarom op basis van de selectielijst bewaard en vernietigd worden.
+Op basis van deze informatie moet gereconstrueerd kunnen worden hoe besluiten, ook in de context van algoritmes, tot stand zijn gekomen.
+Informatie over en van algoritmes moet daarom op basis van de selectielijst bewaard en vernietigd worden.
 
 ## Bronnen 
 
@@ -39,7 +39,7 @@ Informatie over en van algoritmes en AI moet daarom op basis van de selectielijs
 
 ## Risico 
 
-Zonder goede toepassing van de Archiefwet is het voor betrokkene(n) of derden niet mogelijk om achteraf te reconstrueren en te controleren hoe besluiten, waar algoritmes en AI aan hebben bijgedragen, tot stand zijn gekomen.
+Zonder goede toepassing van de Archiefwet is het voor betrokkene(n) of derden niet mogelijk om achteraf te reconstrueren en te controleren hoe besluiten, waar algoritmes aan hebben bijgedragen, tot stand zijn gekomen.
 Het nalaten om archiefbescheiden na verloop van tijd te verwijderen brengt risico's met zich mee op het gebied van privacy en informatiebeveiliging.
 
 ## Maatregelen 

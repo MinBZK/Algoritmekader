@@ -23,7 +23,7 @@ De te verwerken persoonsgegevens zijn juist, nauwkeurig en worden zo nodig geact
 De te verwerken persoonsgegevens moeten nauwkeurig, juist en zo nodig actueel zijn.
 Dit betekent dat alle maatregelen moeten worden genomen om ervoor te zorgen dat onjuiste persoonsgegevens worden gerectificeerd of gewist.
 Dat kan betekenen dat persoonsgegevens moeten worden geactualiseerd of verbeterd.
-In de context van algoritmes en AI is het van belang dat ook daar wordt onderzocht welke maatregelen nodig zijn om die juistheid toe te passen.
+In de context van algoritmes is het van belang dat ook daar wordt onderzocht welke maatregelen nodig zijn om die juistheid toe te passen.
 
 ## Bronnen
 

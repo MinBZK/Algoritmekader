@@ -64,6 +64,7 @@ levenscyclus:
 
 onderwerp: 
 - publieke-inkoop
+- transparantie
 rollen:
 - projectleider
 - beleid-en-advies

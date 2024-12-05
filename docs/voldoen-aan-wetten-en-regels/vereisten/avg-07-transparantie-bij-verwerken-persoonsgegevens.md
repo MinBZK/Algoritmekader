@@ -25,7 +25,7 @@ De verwerking van persoonsgegevens moet transparant zijn.
 Een betrokkene moet op de hoogte worden gesteld van het feit dat er verwerking plaatsvindt van diens persoonsgegevens en van de doeleinden daarvan (zoals ook is verwoord in het beginsel van transparante verwerking, artikel 5 AVG).
 Hierbij moeten de specifieke omstandigheden en de context waarin de persoonsgegevens worden verwerkt, worden meegenomen.
 In artikel 13 en 14 AVG wordt toegelicht welke informatie in welke gevallen moet worden verstrekt door de verwerkersverantwoordelijke.
-Als persoonsgegevens worden verwerkt ten behoeve van het ontwikkelen of gebruiken van algoritmes en AI-systemen, zal deze informatie moeten worden verstrekt.
+Als persoonsgegevens worden verwerkt ten behoeve van het ontwikkelen of gebruiken van algoritmes, zal deze informatie moeten worden verstrekt.
 
 ## Bronnen
 

@@ -41,7 +41,7 @@ De keuzes en aannames die zijn gemaakt en gedaan moeten worden beschreven en toe
 
 ## Risico
 
-Het is onduidelijk op wat voor manier het algoritmes of AI-systeem heeft bijgedragen aan de totstandkoming van een besluit. 
+Het is onduidelijk op wat voor manier het algoritmes heeft bijgedragen aan de totstandkoming van een besluit. 
 
 
 ## Maatregelen

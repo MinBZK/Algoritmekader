@@ -1,7 +1,7 @@
 ---
 title: Controleer regelmatig of het algoritme voldoet aan alle wetten en regels en het eigen beleid
 id: urn:nl:ak:mtr:ver-05
-toelichting: Wet- en regelgeving of beleid bevat de basisregels voor algoritmes en AI-systemen. Het is van belang dat een goede vertaling wordt gemaakt van deze regels naar het algoritme of AI-systeem.
+toelichting: Wet- en regelgeving of beleid bevat de basisregels voor algoritmes. Het is van belang dat een goede vertaling wordt gemaakt van deze regels naar het algoritme.
 vereiste:
 - awb-01-zorgvuldigheidsbeginsel
 - aia-08-transparantie-aan-gebruiksverantwoordelijken
@@ -28,17 +28,17 @@ Stel regelmatig vast dat wetgeving en (lokaal) beleid correct is vertaald naar d
 ## Toelichting
 - Systemen die overheidsorganisaties inzetten voor bijvoorbeeld het verlenen van subsidies, vergunningen of bijstandsuitkeringen moeten de regels en processtappen volgen die in wetgeving zijn voorgeschreven.
 - Er is een vertaling nodig van deze regels en processtappen naar de uitvoering van het werkproces, het datagebruik en onderliggende systemen.
-- Algoritmes en AI-systemen moeten ook voldoen aan deze regels en processtappen.
-- Als algoritmes of AI-systemen worden ontwikkeld, moet worden onderzocht wat deze regels zijn en hoe deze moeten worden toegepast bij het ontwikkelen van algoritmes of AI-systemen.
-- Het moeten voldoen aan wetgeving en beleid kan dus in zekere zin 'begrenzend' werken op wat mag worden gedaan met algoritmes en AI-systemen. Dit is mede afhankelijk van de risico classificatie van de specifieke toepassing. 
+- Algoritmes moeten ook voldoen aan deze regels en processtappen.
+- Als algoritmes worden ontwikkeld, moet worden onderzocht wat deze regels zijn en hoe deze moeten worden toegepast bij het ontwikkelen van algoritmes.
+- Het moeten voldoen aan wetgeving en beleid kan dus in zekere zin 'begrenzend' werken op wat mag worden gedaan met algoritmes. Dit is mede afhankelijk van de risico classificatie van de specifieke toepassing. 
 - Voor algoritmes, bijvoorbeeld regelgebaseerde rekenregels, moet bijvoorbeeld nauwkeurig worden geprogrammeerd in welke gevallen welke bedragen moeten worden uitgekeerd voor een bijstandsuitkering.
-- Voor AI-modellen moet bijvoorbeeld worden vastgesteld of de trainingsdata wel tot stand is gekomen in lijn met wetgeving en vastgesteld beleid (datakwaliteit) en welke verbanden en patronen (inputvariabelen) al dan niet passend zijn bij het ondersteunen van wettelijke taken.
+- Voor machine learning algoritmes moet bijvoorbeeld worden vastgesteld of de trainingsdata wel tot stand is gekomen in lijn met wetgeving en vastgesteld beleid (datakwaliteit) en welke verbanden en patronen (inputvariabelen) al dan niet passend zijn bij het ondersteunen van wettelijke taken.
  
 - Er is een multidisciplinaire samenwerking nodig tussen de proceseigenaar, gebruikers, juristen, informatieanalisten en ontwikkelaar om deze vertaling zorgvuldig en doorlopend te maken.
-- Voorafgaand aan het (laten) ontwikkelen van een algoritme of AI-systeem moet dit zijn uitgevoerd.
-- De toegepaste 'business rules' en de verwerkte data voor de uitvoering van het te ondersteunen werkproces met algoritmes en AI-systemen moeten worden onderzocht en beoordeeld.
+- Voorafgaand aan het (laten) ontwikkelen van een algoritme moet dit zijn uitgevoerd.
+- De toegepaste 'business rules' en de verwerkte data voor de uitvoering van het te ondersteunen werkproces met algoritmes moeten worden onderzocht en beoordeeld.
 - Diepgaande procesanalyses (Bv. BPMN niveau Analytisch) en procesbeschrijvingen kunnen hierbij ondersteunen. 
-- Als blijkt dat een werkproces niet (meer) conform (gewijzigde) wetgeving of beleid wordt uitgevoerd, dan moet worden beoordeeld of de verworven data of welke deel van de data geschikt is voor het ontwikkelen een AI-model.
+- Als blijkt dat een werkproces niet (meer) conform (gewijzigde) wetgeving of beleid wordt uitgevoerd, dan moet worden beoordeeld of de verworven data of welke deel van de data geschikt is voor het ontwikkelen een algoritme.
 - Het is dan raadzaam om de uitvoering van het betreffende werkproces en de werking van onderliggende systemen eerst te 'herstellen' en om hiermee een nieuw datafundament te creëeren (eerst een groot aantal zaken behandelen) die later als trainingsdata kan worden gebruikt. 
   
 ## Bijbehorende vereiste(n)

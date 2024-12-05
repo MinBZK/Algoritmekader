@@ -30,12 +30,12 @@ De nauwkeurigheid van het algoritme wil zeggen: geeft het algoritme de juiste ui
 
 Voor het evalueren van de nauwkeurigheid zijn de volgende stappen essentieel:
 
-- Bepaal met welke methoden en [metriek(en)](#metrieken) je de nauwkeurigheid wilt gaan meten. Pas dit aan op de [ontwerpkeuzes](../../levenscyclus/ontwerp.md), [het beoogde doel](1-pba-02-formuleren-doelstelling.md) en [de bepaalde risico’s](2-owp-99-impact-als-niet-werkt-als-beoogd.md). 
+- Bepaal met welke methoden en [metriek(en)](#metrieken) je de nauwkeurigheid wilt gaan meten. Pas dit aan op de [ontwerpkeuzes](../../levenscyclus/ontwerp.md), [het beoogde doel](1-pba-02-formuleren-doelstelling.md) en [de bepaalde risico’s](2-owp-06-impactanalyse.md). 
 - [Controleer of de data volledig en actueel is](3-dat-01-datakwaliteit.md) om de metrieken te kunnen meten.
 - Bepaal welke foutmarge acceptabel is:
 
     - Bepaal hoe vaak het algoritme een bepaalde fout maken. Houd rekening met verschillende fouten die gemaakt kunnen worden, zoals *false positives* en *false negatives*. Welke fouten zijn erger om te maken? 
-    - De foutmarge is afhankelijk van [welke schade wordt er veroorzaakt](2-owp-99-impact-als-niet-werkt-als-beoogd.md) bij onnauwkeurige of foutieve voorspellingen.
+    - De foutmarge is afhankelijk van [welke schade wordt er veroorzaakt](2-owp-06-impactanalyse.md) bij onnauwkeurige of foutieve voorspellingen.
     - Heb hierbij aandacht voor de afweging tussen nauwkeurigheid en [betrouwbaarheid](5-ver-06-evalueer-betrouwbaarheid.md). Een model met hoge nauwkeurigheid op de testset kan vaak slechter 
     generaliseren naar situaties net buiten de test set (overfitting). 
 

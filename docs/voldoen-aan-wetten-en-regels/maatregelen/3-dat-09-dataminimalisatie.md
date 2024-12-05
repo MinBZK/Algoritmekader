@@ -29,7 +29,7 @@ Grote datasets brengen daarom hoge energie- en opslagkosten met zich mee. Door d
 ### Technieken voor dataminimalisatie
 - **Slimme selectie van trainingsdata**: Gebruik methoden die irrelevante data uit de dataset filteren, zoals dataselectie-algoritmes en sampling-technieken. Door te focussen op relevante data, beperk je de omvang zonder de prestaties van het model te beïnvloeden.
 - **Verwijderen van redundante en dubbele data**: Deduplicatie van data minimaliseert onnodige verwerkingskracht. Door alleen unieke en relevante gegevens op te slaan, wordt de opslagbehoefte verder beperkt.
-- **Opschonen en archiveren van verouderde data**: [Regelmatige archivering](2-owp-08-archiveren-documenten.md) of verwijdering van verouderde data in je dataset zorgt voor een verminderde voetafdruk en verhoogt ook de efficiëntie.
+- **Opschonen en archiveren van verouderde data**: [Regelmatige archivering](2-owp-09-archiveren-documenten.md) of verwijdering van verouderde data in je dataset zorgt voor een verminderde voetafdruk en verhoogt ook de efficiëntie.
 
 ## Bijbehorende vereiste(n)
 <!-- list_vereisten_on_maatregelen_page -->

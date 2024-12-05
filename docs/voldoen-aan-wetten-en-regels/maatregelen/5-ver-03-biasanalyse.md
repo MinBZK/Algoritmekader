@@ -66,7 +66,7 @@ Indirect onderscheid is in vergelijking met direct onderscheid lastiger op te si
 Daarom is het belangrijk jouw algoritmische toepassing regelmatig te analyseren op eventueel indirect onderscheid. 
 Het toetsen op indirect onderscheid bestaat uit 5 stappen:
 
-1. **Bepaal wat de [kwetsbare groepen](2-owp-07-kwetsbare-groepen.md) zijn.**
+1. **Bepaal wat de [kwetsbare groepen](2-owp-07-afwegen-grondrechten.md) zijn.**
 Eventueel kan dit aangevuld worden op basis van de [discriminatiegronden](../../onderwerpen/bias-en-non-discriminatie.md#discriminatiegrond) uit non-discriminatie wetgeving. Of andere groepen waarvoor verschillen in behandeling ethisch onwenselijk zijn.
 
 2. **Bepaal wat "verschillen in behandeling" betekent in de context van het algoritme.**
@@ -106,7 +106,7 @@ Het is daarom van belang om duidelijk afwegingen te maken tussen privacy en het 
 
     Voor sommige groepen zal het onmogelijk zijn om te beschikken over data van voldoende kwaliteit om zorgvuldig te toetsen op bias. 
     De laaggeletterdheid van burgers of personen is bijvoorbeeld lastig meetbaar en in veel gevallen niet beschikbaar. 
-    Bepaal in zo'n situatie [of er andere mogelijkheden zijn deze groepen te helpen](2-owp-07-kwetsbare-groepen.md), of dat er andere mogelijkheden zijn om eventuele ongelijke behandeling bij deze groepen te constateren. 
+    Bepaal in zo'n situatie [of er andere mogelijkheden zijn deze groepen te helpen](2-owp-07-afwegen-grondrechten.md), of dat er andere mogelijkheden zijn om eventuele ongelijke behandeling bij deze groepen te constateren. 
     Bijvoorbeeld door hierop te monitoren in de klacht- en bezwarenprocedure. 
 
 4. **Bereken de verschillen in behandeling en/of uitkomsten van het algoritme**.

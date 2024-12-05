@@ -33,10 +33,10 @@ Een analyse van de impact is hiervoor noodzakelijk.
 Voer de impactanalyse uit met een multidisciplinaire groep en documenteer afwegingen en keuzes hierbij. Neem in de impactanalyse de volgende stappen:
 
 Wanneer een algoritme niet werkt als beoogd, kan dit inbreuk maken op [grondrechten](../../onderwerpen/fundamentele-rechten.md) van eventuele betrokken burgers. 
-Onderdeel van deze impactanalyse is om te bepalen of je algoritme bepaalde [grondrechten kan raken]((2-owp-06-afwegen-grondrechten.md)), aantasten of mogelijk schenden. 
+Onderdeel van deze impactanalyse is om te bepalen of je algoritme bepaalde [grondrechten kan raken](2-owp-07-afwegen-grondrechten.md), aantasten of mogelijk schenden. 
 
 - **Leg vast welke stakeholders worden geraakt**
-Denk hierbij aan de directe gebruiker, degene waarover het besluit wordt genomen en derde partijen die input leveren of de resultaten ontvangen. Houd hierbij rekening met [kwetsbare groepen waarbij het nodig is om deze groep extra bescherming te bieden](2-owp-07-kwetsbare-groepen.md). 
+Denk hierbij aan de directe gebruiker, degene waarover het besluit wordt genomen en derde partijen die input leveren of de resultaten ontvangen. Houd hierbij rekening met [kwetsbare groepen waarbij het nodig is om deze groep extra bescherming te bieden](2-owp-07-afwegen-grondrechten.md). 
 
 - **Leg vast welke processen worden geraakt**
 Denk hierbij aan werkproces(sen) waarin het algoritme wordt gebruikt, maar ook aan vervolgprocessen of parallelle processen die beïnvloed worden door de resultaten van het algoritme.
@@ -49,7 +49,7 @@ Bepaal per stakeholder en per proces wat het gevolg is van een niet goed werkend
     Bijvoorbeeld in het geval van een ziektedetectie algoritme als voorsortering of een patiënt een uitgebreidere test moet ondergaan is de impact groter als de patiënt ten onrechte als geen-risico wordt geclassificeerd dan als iemand ten onrechte een extra controle moet ondergaan. 
 
 - **Bepaal welke factoren van invloed zijn op de kans dat het fout gaat**
-Het risico is afhankelijk van de kans dat een fout voorkomt. Voor risicoanalyse en mitigatie is het van belang om de factoren die van invloed zijn op de fouten in kaart te brengen. Deze geven input aan de ontwerpfase en mitigerende maatregelen. Denk hierbij aan factoren in de [data](3-dat=01-datakwaliteit.md), [het algoritme](2-owp-soort-algoritme.md), het gebruik en externe factoren. 
+Het risico is afhankelijk van de kans dat een fout voorkomt. Voor risicoanalyse en mitigatie is het van belang om de factoren die van invloed zijn op de fouten in kaart te brengen. Deze geven input aan de ontwerpfase en mitigerende maatregelen. Denk hierbij aan factoren in de [data](3-dat-01-datakwaliteit.md), [het algoritme](2-owp-05-soort-algoritme.md), het gebruik en externe factoren. 
 
 
 ## Bijbehorende vereiste(n)

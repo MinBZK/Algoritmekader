@@ -28,7 +28,7 @@ Stel vast welke betrokkenen geïnformeerd moeten worden over de ontwikkeling en 
 
 ## Toelichting 
 <!-- Geef hier een toelichting van deze maatregel -->
-Welke informatie over algoritmes relevant is, verschilt per partij. Het is van belang om deze partijen in beeld te brengen en vast te stellen welke informatie voor hen relevant is. Raadpleeg hierbij vastgestelde [beleidskaders](0-org-02-beleid_opstellen_inzet_algoritmes.md), waarin is beschreven welke informatie in welke gevallen moet worden gecommuniceerd.
+Welke informatie over algoritmes relevant is, verschilt per partij. Het is van belang om deze partijen in beeld te brengen en vast te stellen welke informatie voor hen relevant is. Raadpleeg hierbij vastgestelde [beleidskaders](0-org-02-beleid-opstellen-inzet-algoritmes.md), waarin is beschreven welke informatie in welke gevallen moet worden gecommuniceerd.
 
 Stel bijvoorbeeld de volgende vragen:
 
@@ -40,7 +40,7 @@ Stel bijvoorbeeld de volgende vragen:
 | Wanneer wordt deze informatie gebruikt? | Ga na in welke fase van de levenscyclus de gewenste informatie over de werking of inzet van het algoritme wordt gebruikt. Hoe verschilt de informatiebehoefte in elke fase van de levenscyclus? |
 | Wie is er verantwoordelijk voor de informatieverstrekking? | Bepaal wie er informatie over het algoritme moet ophalen, en wie er voor die informatie kan zorgen. |
 
-Maak bij het vaststellen van de informatiebehoefte onderscheid tussen transparantie, [uitlegbaarheid](2-owp-30-toepassen_uitlegbaarheidstechnieken.md) en interpreteerbaarheid. Houd daarbij ook rekening met zaken die moeten worden gecommuniceerd. Denk hierbij aan het kunnen uitleggen hoe een automatisch genomen besluit tot stand is gekomen. 
+Maak bij het vaststellen van de informatiebehoefte onderscheid tussen transparantie, [uitlegbaarheid](2-owp-33-toepassen-uitlegbaarheidstechnieken.md) en interpreteerbaarheid. Houd daarbij ook rekening met zaken die moeten worden gecommuniceerd. Denk hierbij aan het kunnen uitleggen hoe een automatisch genomen besluit tot stand is gekomen. 
 
 Stel een communicatieplan op over de ontwikkeling en gebruik van het algoritme. Bepaal vervolgens aan de hand van de levenscyclus wanneer, welke informatie wanneer beschikbaar moet worden gesteld. Stel vast wie verantwoordelijk is voor het opstellen of het leveren van een bijdrage aan deze informatie. In het communicatieplan kunnen verder zaken worden opgenomen als:
 

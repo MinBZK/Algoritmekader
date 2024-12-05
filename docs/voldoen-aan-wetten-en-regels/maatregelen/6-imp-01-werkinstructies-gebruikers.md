@@ -30,16 +30,16 @@ Stel een werkinstructie op voor gebruikers zodat zij weten hoe het algoritme cor
 Het is belangrijk dat gebruikers een werkinstructie ontvangen met informatie over hoe zij met het algoritme kunnen en moeten werken. Hierin worden zaken beschreven als:
 
 - Op wat voor manier het algoritme ondersteunt bij het uitvoeren van (wettelijke) taken en hoe het past in de werkwijze. 
-- Wat de [mogelijkheden en beperkingen]() zijn bij het gebruik van het algoritme. Op welke manieren mag het algoritme gebruikt worden? En op welke manieren niet?
+- Wat de mogelijkheden en beperkingen zijn bij het gebruik van het algoritme. Op welke manieren mag het algoritme gebruikt worden? En op welke manieren niet?
 - Welke informatie mag er worden ingevoerd in het systeem? En welke informatie niet?
-- Wat de impact is van het gebruik van het algoritme op de samenleving en individuen (denk aan [energieverbruik](7-mon-05-meten-milieu-impact) of dat een besluit met rechtsgevolgen wordt genomen).
+- Wat de impact is van het gebruik van het algoritme op de samenleving en individuen (denk aan [energieverbruik](7-mon-06-meten-milieu-impact.md) of dat een besluit met rechtsgevolgen wordt genomen).
 - Wat de risico's zijn die aan het gebruik verbonden zijn. Denk aan:
 
     - verschillende vormen van [bias](../../onderwerpen/bias-en-non-discriminatie.md), zoals automation bias, 
     - foutieve beslissingen
     - veiligheidsrisico's
 
-- Welke maatregelen zijn getroffen om deze risico's te beperken (bijv. [bias analyse](5-ver-02-biasanalyse), ['stopknop' ingebouwd](4-owk-02-stopzetten-gebruik), transparantie over de output).
+- Welke maatregelen zijn getroffen om deze risico's te beperken (bijv. [bias analyse](5-ver-03-biasanalyse.md), ['stopknop' ingebouwd](4-owk-02-stopzetten-gebruik.md), transparantie over de output).
 - Hoe de output van het algoritme moet worden geïnterpreteerd, en hoe het algoritme tot deze beslissing is gekomen. 
 - Hoe het werkproces kan worden uitgevoerd, zonder ondersteuning van het algoritme.
 - Hoe kan je weten dat het systeem niet (meer) goed werkt? 

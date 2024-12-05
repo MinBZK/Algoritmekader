@@ -28,7 +28,7 @@ Representatieve testomstandigheden zijn essentieel om een goed onderbouwd vertro
 Houd daarbij bijvoorbeeld rekening met voldoende variatie en ruis die voorkomt tijdens het operationeel gebruik of de verschillende type gebruikers die interacteren met het algoritme. 
 Neem bij het inrichten van een testomgeving de volgende aspecten mee:
 
-- de factoren uit [de impactanalyse](2-owp-99-impactanalyse.md).
+- de factoren uit [de impactanalyse](2-owp-06-impactanalyse.md).
 - zorg voor testomgeving waarin je betrouwbaarheid, nauwkeurigheid en reproduceerbaarheid kan evalueren.
 - analyseer de verschillen tussen de dataset en operationeel gebruik.
 - wanneer een gebruikerstest wordt gedaan, zorg voor een representatieve groep gebruikers. Denk bijvoorbeeld aan verschillend enthousiasme en verschillend niveau van digitale/AI-vaardigheden. 

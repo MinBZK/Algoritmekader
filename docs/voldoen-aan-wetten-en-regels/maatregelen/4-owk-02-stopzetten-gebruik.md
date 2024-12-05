@@ -41,7 +41,7 @@ Dit proces bevat in ieder geval de volgende stappen:
 
 ### Leg vast wanneer het algoritme niet meer werkt zoals beoogd
 - Leg vast wat de [beoogde werking van het algoritme] is(1-pba-02-formuleren-doelstelling.md).
-- Bepaal of [de geïmplementeerde werking overeenkomt met de vastgelegde beoogde werking](5-ver-01-functioneren-in-lijn-met-doeleinden.md) en wanneer het algoritme gestopt moet worden. Dit gebeurt tijdens een [evaluatie](7-mon-04-evaluatieplan.md) of door de [continue monitoring](7-mon-07-continue-monitoring.md). 
+- Bepaal of [de geïmplementeerde werking overeenkomt met de vastgelegde beoogde werking](5-ver-01-functioneren-in-lijn-met-doeleinden.md) en wanneer het algoritme gestopt moet worden. Dit gebeurt tijdens een [evaluatie](7-mon-04-evaluatieplan.md) of door de [continue monitoring](7-mon-07-plan-continue-monitoring.md). 
 
 ### Zorg dat beslissingen kunnen worden herzien
 - Leg vast hoe het mogelijk is na te gaan op welk moment het algoritme stopte met werken zoals beoogd. 

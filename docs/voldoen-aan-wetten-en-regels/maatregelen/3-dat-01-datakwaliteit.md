@@ -22,7 +22,7 @@ Stel vast of de gebruikte data van voldoende kwaliteit is voor de beoogde toepas
 
 ## Toelichting
 
-- Stel functionele eisen voor de datakwaliteit vast en [analyseer structureel of er aan deze eisen wordt voldaan](7-mon-04-evalueer-bij-veranderingen-in-data.md). 
+- Stel functionele eisen voor de datakwaliteit vast en [analyseer structureel of er aan deze eisen wordt voldaan](7-mon-05-evalueer-bij-veranderingen-in-data.md). 
 
 - De kwaliteit van de data die als input voor het algoritme wordt gebruikt is bepalend voor de uitkomsten van het algoritme. Hier wordt soms ook naar gerefereerd als *garbage in = garbage out*. 
 - Een vraag die gesteld dient te worden: beschrijft de data het fenomeen dat onderzocht dient te worden? 

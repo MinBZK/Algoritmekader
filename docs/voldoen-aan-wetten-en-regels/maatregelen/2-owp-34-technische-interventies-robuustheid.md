@@ -37,7 +37,7 @@ Maak in de ontwerpfase de volgende afwegingen:
 
 - **Bepaal de factoren waarop je interventies voor robuustheid beoordeelt**
     Afhankelijk van de context, verschillen de factoren waarop je deze afwegingen maakt. 
-    Denk aan complexiteit van de data, invoerdata en resultaten, [risico en impact als het fout gaat](2-owp-99-impact-als-niet-werkt-als-beoogd.md), belang van [betrouwbaarheid versus nauwkeurigheid](../../onderwerpen/technische-robuustheid-en-veiligheid.md#wat-is-technisch-robuust-en-veilig), of belang van robuustheid versus transparantie. 
+    Denk aan complexiteit van de data, invoerdata en resultaten, [risico en impact als het fout gaat](2-owp-06-impactanalyse.md), belang van [betrouwbaarheid versus nauwkeurigheid](../../onderwerpen/technische-robuustheid-en-veiligheid.md#wat-is-technisch-robuust-en-veilig), of belang van robuustheid versus transparantie. 
 
 - **Leg de beargumenteerde keuze vast**
     Leg vast welke keuzes er gemaakt zijn en waarom deze keuzes zijn gemaakt. 

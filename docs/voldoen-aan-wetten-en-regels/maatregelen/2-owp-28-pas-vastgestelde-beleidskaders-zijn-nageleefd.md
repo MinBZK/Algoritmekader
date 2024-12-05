@@ -59,7 +59,7 @@ hide:
   
   ## Bijbehorende vereiste(n)
 ??? expander "Bekijk alle vereisten"
-  <!-- list_vereisten_on_maatregelen_page -->
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 De in te zetten algoritmes of AI-systemen voldoen niet aan vastgestelde beleidskaders. 

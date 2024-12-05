@@ -24,19 +24,28 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-Stel een werkinstructie op voor gebruikers. 
+Stel een werkinstructie op voor gebruikers zodat zij weten hoe het algoritme correct gebruikt kan worden en hoe ze om kunnen gaan met de (veiligheids)risico's. 
 
 ## Toelichting
 Het is belangrijk dat gebruikers een werkinstructie ontvangen met informatie over hoe zij met het algoritme kunnen en moeten werken. Hierin worden zaken beschreven als:
 
--	Op wat voor manier het algoritme ondersteunt bij het uitvoeren van (wettelijke) taken.
--	Wat de mogelijkheden en beperkingen zijn bij het gebruik van het algoritme.
--	Wat de impact is van het gebruik van het algoritme op de samenleving en individuen (denk aan [energieverbruik](7-mon-05-meten-milieu-impact) of dat een besluit met rechtsgevolgen wordt genomen).
--	Wat de risico's zijn die aan het gebruik verbonden zijn (bijv. (automation) bias, false positives/negatives).
--	Welke maatregelen zijn getroffen om deze risico's te beperken (bijv. [bias analyse](5-ver-02-biasanalyse), ['stopknop' ingebouwd](4-owk-02-stopzetten-gebruik), transparantie over de output).
--	Hoe de output van het algoritme moet worden geïnterpreteerd.
--	Hoe het werkproces kan worden uitgevoerd, zonder ondersteuning van het algoritme.
--	Welke protocollen er zijn als incidenten zich voordoen.
+- Op wat voor manier het algoritme ondersteunt bij het uitvoeren van (wettelijke) taken en hoe het past in de werkwijze. 
+- Wat de [mogelijkheden en beperkingen]() zijn bij het gebruik van het algoritme. Op welke manieren mag het algoritme gebruikt worden? En op welke manieren niet?
+- Welke informatie mag er worden ingevoerd in het systeem? En welke informatie niet?
+- Wat de impact is van het gebruik van het algoritme op de samenleving en individuen (denk aan [energieverbruik](7-mon-05-meten-milieu-impact) of dat een besluit met rechtsgevolgen wordt genomen).
+- Wat de risico's zijn die aan het gebruik verbonden zijn. Denk aan:
+
+    - verschillende vormen van [bias](../../onderwerpen/bias-en-non-discriminatie.md), zoals automation bias, 
+    - foutieve beslissingen
+    - veiligheidsrisico's
+
+- Welke maatregelen zijn getroffen om deze risico's te beperken (bijv. [bias analyse](5-ver-02-biasanalyse), ['stopknop' ingebouwd](4-owk-02-stopzetten-gebruik), transparantie over de output).
+- Hoe de output van het algoritme moet worden geïnterpreteerd, en hoe het algoritme tot deze beslissing is gekomen. 
+- Hoe het werkproces kan worden uitgevoerd, zonder ondersteuning van het algoritme.
+- Hoe kan je weten dat het systeem niet (meer) goed werkt? 
+- Welke protocollen er zijn als incidenten zich voordoen.
+- Waar je op moet letten om veiligheidsrisico's te verminderen. 
+- Welke waarschuwingen het systeem kan en zou moeten geven op basis van [continue monitoring](7-mon-07-plan-continue-monitoring.md). Hoe er omgegaan moet worden bij deze waarschuwingen. 
 	
 Denk hierbij na over het eventueel bijscholen van medewerkers als het kennisniveau nog onvoldoende is om de werkinstructies goed te begrijpen. 
 
@@ -53,7 +62,7 @@ Denk hierbij na over het eventueel bijscholen van medewerkers als het kennisnive
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
 
-Het algoritme wordt onjuist gebruikt of verkeerd geïnterpreteerd door gebruikers, waardoor onjuiste belissingen of besluiten worden genomen. 
+Het algoritme wordt onjuist gebruikt of verkeerd geïnterpreteerd door gebruikers, waardoor onjuiste belissingen of besluiten worden genomen. Als gebruikers niet weten hoe ze veilig moeten werken, kunnen ze (onbewust) toegang bieden aan kwaadwillenden. 
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->

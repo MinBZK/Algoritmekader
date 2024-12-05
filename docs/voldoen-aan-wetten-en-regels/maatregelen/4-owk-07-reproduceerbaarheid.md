@@ -28,7 +28,9 @@ Uitkomsten moeten altijd herleid kunnen worden aan de hand van het model en de d
 
 Om te zorgen voor reproduceerbaarheid van de uitkomsten, kan je de volgende stappen nemen:
 
-1. 
+1. [Bepaal welke mate van reproduceerbaarheid nodig is](#bepaal-welke-mate-van-reproduceerbaarheid-nodig-is)
+2. [Implementeer verschillende stappen die bijdragen aan reproduceerbaarheid](#implementeer-verschillende-stappen-die-bijdragen-aan-reproduceerbaarheid)
+3. [Test of het algoritme het gewenste niveau van reproduceerbaarheid heeft](#test-of-het-algoritme-het-gewenste-niveau-van-reproduceerbaarheid-heeft)
 
 ### Bepaal welke mate van reproduceerbaarheid nodig is
 Afhankelijk van de toepassing moeten de resultaten van het algoritme te precies reproduceren zijn. 
@@ -58,7 +60,6 @@ Het is belangrijk om het algoritme te testen op de mate van reproduceerbaarheid.
     - etc.
 
 - Indien er gebruik wordt gemaakt van generatieve AI kan er getest worden wat de uitkomsten zijn voor dezelfde of heel vergelijkbare prompts. 
-
 
 ## Bijbehorende vereiste(n)
 <!-- list_vereisten_on_maatregelen_page -->

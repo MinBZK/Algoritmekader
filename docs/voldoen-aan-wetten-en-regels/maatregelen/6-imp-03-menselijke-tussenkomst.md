@@ -31,7 +31,7 @@ Richt (technische) controlemechanismen in voor menselijke tussenkomst (of: mense
 
 ## Toelichting
 
-Algoritmes ondersteunen vaak beslissingen en besluitvorming van overheidsorganisaties. Deze beslissingen kunnen juridische gevolgen hebben of betrokkenen op een andere manier aanzienlijk raken. Omdat algoritmes niet foutloos zijn, is het belangrijk dat een mens de output controleert en, waar nodig, corrigeert. Dit proces heet 'menselijke tussenkomst' en moet betekenisvol zijn, niet slechts symbolisch.
+Algoritmes ondersteunen vaak beslissingen en besluitvorming van overheidsorganisaties. Deze beslissingen of besluiten kunnen betrokkenen in [aanmerkelijke mate raken of zelfs rechtsgevolgen](avg-10-recht-op-niet-geautomatiseerde-besluitvorming.md) hebben. Omdat algoritmes niet foutloos zijn, is het belangrijk dat een mens controleert wat een algoritme doet en, waar nodig, corrigeert. Dit proces heet 'menselijke tussenkomst' en moet betekenisvol zijn, niet slechts symbolisch.
 
 Het inrichten, monitoren en evalueren van menselijke controle is dus cruciaal om te voorkomen dat algoritmes negatieve effecten veroorzaken of de menselijke autonomie ondermijnen.
 

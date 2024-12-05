@@ -3,7 +3,7 @@
 title: Bepaal het soort algoritme en de risicogroep en vereisten die hierbij horen
 id: urn:nl:ak:mtr:owp-05
 # geef hier een korte toelichting van deze maatregel
-toelichting: Het verschilt per typen algoritmen of AI-systemen welke vereisten hierop van toepassing zijn en waar een aanbieder of gebruiksverantwoordelijke aan moet voldoen. Dit is mede afhankelijk van de bijbehorende risicoclassificatie.  
+toelichting: Het verschilt per type algoritme welke vereisten hierop van toepassing zijn en waar een aanbieder of gebruiksverantwoordelijke aan moet voldoen. Dit is mede afhankelijk van de bijbehorende risicoclassificatie.  
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
 - aia-08-transparantie-aan-gebruiksverantwoordelijken
@@ -30,11 +30,11 @@ hide:
 
 ## Maatregel
 <!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
-Stel vast of het gaat om een algoritme en/of AI-systeem en wat de bijbehorende risicoclassificatie is om te bepalen welke vereisten hierop van toepassing zijn.
+Stel vast om wat voor type algoritme het gaat en wat de bijbehorende risicoclassificatie is om te bepalen welke vereisten hierop van toepassing zijn.
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Het verschilt per typen algoritmen of AI-systemen welke vereisten hierop van toepassing is en waar een aanbieder of gebruiksverantwoordelijke aan moet voldoen. 
+Het verschilt per type algoritme welke vereisten hierop van toepassing is en waar een aanbieder of gebruiksverantwoordelijke aan moet voldoen. 
 Dit is mede afhankelijk van de bijbehorende risicoclassificatie. 
 Hiervoor kan in de nabije toekomst de 'beslisboom' in het Algoritmekader voor worden gebruikt'. 
 Deze stap is van groot belang, omdat dit ook bepalend is welke contractuele verplichtingen moeten worden gecreëerd tussen opdrachtgever en opdrachtnemer/aanbieder. 

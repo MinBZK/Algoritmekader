@@ -30,7 +30,7 @@ De onderwerpen bias en non-discriminatie spelen daarom een belangrijke rol bij d
 > Allen die zich in Nederland bevinden, worden in gelijke gevallen gelijk behandeld. Discriminatie wegens godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, handicap, seksuele gerichtheid of op welke grond dan ook, is niet toegestaan. 
 
 De prominente positie in de Grondwet benadrukt het belang van het mensenrecht in Nederland. 
-De afgelopen jaren hebben incidenten in de praktijk de aandacht gericht op de discriminatoire effecten die algoritmes en AI-systemen kunnen hebben.
+De afgelopen jaren hebben incidenten in de praktijk de aandacht gericht op de discriminatoire effecten die algoritmes kunnen hebben.
 
 ### Bias
 *Bias* is een Engelse term die in het Nederlands wordt vertaald als vooroordeel, vooringenomenheid of neiging. 
@@ -59,7 +59,7 @@ Het geconstateerde onderscheid kan in bepaalde situaties en onder bepaalde strik
 Voor direct onderscheid kan er bijvoorbeeld sprake zijn van een wettelijke uitzondering die het gemaakte onderscheid toelaat. 
 Voor indirect onderscheid geldt dat behalve een wettelijke uitzondering er ook een objectieve rechtvaardiging kan bestaan, waarmee het geconstateerde onderscheid in bepaalde gevallen toelaatbaar kan zijn. 
 
-Het maken van een eventueel onderscheid is in sommige gevallen nauw verbonden met het gebruik van algoritmes en AI. 
+Het maken van een eventueel onderscheid is in sommige gevallen nauw verbonden met het gebruik van algoritmes. 
 Soms worden algoritmes en AI bijvoorbeeld juist ingezet om op een zo objectief mogelijke manier te bepalen welke groepen meer of minder belang hebben bij een andere behandeling. 
 In deze gevallen zal er altijd na moeten worden gegaan of er sprake is van een objectieve rechtvaardiging voor het gemaakte onderscheid.
 
@@ -68,7 +68,7 @@ Het algoritme of AI-systeem mag in dat geval niet gebruikt worden.
 Bias vormt daarmee een risico op discriminatie.
 
 ##### Fairness 
-In de context van algoritmes en AI wordt de term *unfairness* gebruikt wanneer er sprake is van een ongerechtvaardigd onderscheid waarbij bepaalde groepen meer bevoordeeld worden dan andere.[^5] 
+In de context van algoritmes wordt de term *unfairness* gebruikt wanneer er sprake is van een ongerechtvaardigd onderscheid waarbij bepaalde groepen meer bevoordeeld worden dan andere.[^5] 
 In de Nederlandse taal spreken we dan van oneerlijkheid of onrechtvaardigheid (of in positieve zin van respectievelijk fairness, eerlijkheid en rechtvaardigheid). 
 Wanneer we het hebben over fairness hebben we het minder over de juridische kant van discriminatie en verboden onderscheid. 
 Ook als er wel een objectieve rechtvaardiging bestaat voor een gemaakt onderscheid, kan afgevraagd worden of het gemaakte onderscheid ethisch wenselijk is. 
@@ -77,10 +77,10 @@ Ook als er wel een objectieve rechtvaardiging bestaat voor een gemaakt ondersche
 
 #### Statistische bias
 Statistische bias wordt gedefinieerd als *een consistente numerieke afwijking van een schatting ten opzichte van de werkelijke onderliggende waarde*.[^2]
-Dit fenomeen kan in allerlei verschillende contexten plaatsvinden, niet alleen bij het gebruik van algoritmes of AI. 
+Dit fenomeen kan in allerlei verschillende contexten plaatsvinden, niet alleen bij het gebruik van algoritmes. 
 Een voorbeeld is wanneer een bepaalde meting van een waarde niet goed gekalibreerd is en er sprake is van een consistente afwijking van de te meten waarde (bijvoorbeeld dat we consistent 10% hoger meten). 
 
-In de context van algoritmes en AI kan deze vorm van bias voorkomen wanneer er een steekproef wordt gebruikt die niet representatief is voor de populatie, en de schattingen op basis van de steekproef vervolgens systematisch afwijken van de werkelijke waarde in de gebruikte doelpopulatie.
+In de context van algoritmes kan deze vorm van bias voorkomen wanneer er een steekproef wordt gebruikt die niet representatief is voor de populatie, en de schattingen op basis van de steekproef vervolgens systematisch afwijken van de werkelijke waarde in de gebruikte doelpopulatie.
 Statistische bias duidt op een systematische fout die gemaakt wordt door het algoritme. 
 Deze fout kan hetzelfde zijn voor alle groepen en hoeft daardoor niet in alle gevallen te duiden op ongelijke behandeling of discriminerende effecten. 
 Voorbeelden van statistische bias zijn meetfouten (measurement bias), foute data of data op een te simpele manier representeren (representatie bias).

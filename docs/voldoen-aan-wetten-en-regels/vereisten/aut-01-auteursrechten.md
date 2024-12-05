@@ -1,7 +1,7 @@
 ---
 title: Auteursrechten zijn beschermd
 id: urn:nl:ak:ver:aut-01
-toelichting: Bepaalde vormen van algoritmes en AI worden ontwikkeld op basis van grote hoeveelheden data. Deze data wordt gebruikt voor het trainen en testen van algoritmes en AI. Het gebruiken van deze data mag geen inbreuk maken op auteursrechten van diegene die deze rechten heeft. Ook de gegenereerde output van algoritmes en AI mag geen inbreuk maken op deze rechten. 
+toelichting: Bepaalde type algoritmes worden ontwikkeld op basis van grote hoeveelheden data. Deze data wordt gebruikt voor het trainen en testen van algoritmes. Het gebruiken van deze data mag geen inbreuk maken op auteursrechten van diegene die deze rechten heeft. Ook de gegenereerde output van algoritmes mag geen inbreuk maken op deze rechten. 
 levenscyclus: 
 - dataverkenning-en-datapreparatie
 - ontwerp
@@ -17,14 +17,14 @@ hide:
 <!-- tags -->
 ## Vereiste
 
-Auteursrechten mogen niet geschonden worden bij het ontwikkelen en gebruiken van algoritmes en AI.
+Auteursrechten mogen niet geschonden worden bij het ontwikkelen en gebruiken van algoritmes.
 
 ## Toelichting 
 
-Bepaalde vormen van algoritmes en AI worden ontwikkeld op basis van grote hoeveelheden data.
-Deze data wordt gebruikt voor het trainen en testen van algoritmes en AI.
-Het gebruiken van deze data mag geen inbreuk maken op Auteursrechten van diegene die deze rechten heeft.
-Ook de gegenereerde output van algoritmes en AI mag geen inbreuk maken op deze rechten.
+Bepaalde type algoritmes worden ontwikkeld op basis van grote hoeveelheden data.
+Deze data wordt gebruikt voor het trainen en testen van algoritmes.
+Het gebruiken van deze data mag geen inbreuk maken op auteursrechten van diegene die deze rechten heeft.
+Ook de gegenereerde output van algoritmes mag geen inbreuk maken op deze rechten.
 
 
 ## Bronnen 
@@ -42,7 +42,7 @@ Ook de gegenereerde output van algoritmes en AI mag geen inbreuk maken op deze r
 
 ## Risico 
 
-Het niet voldoen aan het auteursrecht in AI-systemen en algoritmes kan leiden tot onrechtmatig gebruik van auteursrechtelijk beschermde inhoud, wat kan resulteren in mogelijke juridische geschillen, boetes en schadevergoedingen voor inbreuk op het auteursrecht.
+Het niet voldoen aan het auteursrecht kan leiden tot onrechtmatig gebruik van auteursrechtelijk beschermde inhoud, wat kan resulteren in mogelijke juridische geschillen, boetes en schadevergoedingen voor inbreuk op het auteursrecht.
 Bovendien kan het niet naleven van het auteursrecht het vertrouwen van gebruikers en belanghebbenden ondermijnen, wat kan leiden tot reputatieschade en gebrek aan vertrouwen.
 
 ## Maatregelen 

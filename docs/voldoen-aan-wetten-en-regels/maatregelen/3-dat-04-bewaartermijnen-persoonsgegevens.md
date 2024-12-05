@@ -1,7 +1,7 @@
 ---
 title: Geef data zoals persoonsgegevens een bewaartermijn met een vernietigingsprocedure 
 id: urn:nl:ak:mtr:dat-04
-toelichting: Zorg ervoor dat de vereisten met betrekking tot bewaartermijnen en de vernietiging correct zijn of worden vertaald naar het algoritme of AI-systeem en de onderliggende systemen. Controleer of deze maatregelen zijn getroffen en zorg dat dit aantoonbaar is.
+toelichting: Zorg ervoor dat de vereisten met betrekking tot bewaartermijnen en de vernietiging correct zijn of worden vertaald naar het algoritme en de onderliggende systemen. Controleer of deze maatregelen zijn getroffen en zorg dat dit aantoonbaar is.
 vereiste:
 - arc-01-archiefwet
 - aia-12-bewaartermijn-voor-documentatie
@@ -28,11 +28,11 @@ Bepaal de bewaartermijnen en richt een vernietigingsprocesdure in voor de verwer
 
 ## Toelichting
 
-- (Persoons)gegevens die het algoritme of AI-systeemn verwerkt worden niet langer bewaard dan voor de verwezenlijking van de 
+- (Persoons)gegevens die het algoritme verwerkt worden niet langer bewaard dan voor de verwezenlijking van de 
 verwerkingsdoeleinden noodzakelijk is.
 - Beschrijf de bewaartermijnen voor de gegevens, bijvoorbeeld in een DPIA.
 - Beschrijf hoe de (persoons)gegeven moeten worden vernietigd.
-- Zorg ervoor dat de vereisten met betrekking tot bewaartermijnen correct zijn of worden vertaald naar het algoritme of AI-systeem en de onderliggende (zaak)systemen.
+- Zorg ervoor dat de vereisten met betrekking tot bewaartermijnen correct zijn of worden vertaald naar het algoritme en de onderliggende (zaak)systemen.
 - Controleer of deze maatregelen voor de bewaartermijnen en vernietiging van de (persoons)gegevens (in de onderliggende systemen) zijn getroffen en zorg dat dit aantoonbaar is, bijvoorbeeld met logbestanden.
 - Maak aantoonbaar dat persoonsgegevens zijn vernietigd, bijvoorbeeld met logbestanden.  
 

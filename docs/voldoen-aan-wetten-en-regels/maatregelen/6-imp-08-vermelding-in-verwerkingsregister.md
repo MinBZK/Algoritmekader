@@ -1,7 +1,7 @@
 ---
 title: Vermeld het gebruik van persoonsgegevens in het verwerkingsregister 
 id: urn:nl:ak:mtr:imp-08
-toelichting: Door in het verwerkingsregister te vermelden welke persoonsgegevens worden verwerkt voor het gebruik van een algoritme of AI-systeem, wordt een betrokkene geïnformeerd over de verwerking van diens persoonsgegevens en is intern inzichtelijk welke persoonsgegevens worden verwerkt.
+toelichting: Door in het verwerkingsregister te vermelden welke persoonsgegevens worden verwerkt voor het gebruik van een algoritme, wordt een betrokkene geïnformeerd over de verwerking van diens persoonsgegevens en is intern inzichtelijk welke persoonsgegevens worden verwerkt.
 vereiste:
 - avg-07-transparantie-bij-verwerken-persoonsgegevens
 levenscyclus:
@@ -21,21 +21,21 @@ hide:
 
 ## Maatregel
 
- Neem de ontwikkeling en gebruik van een algoritme of AI-systeem op in het verwerkingsregister als persoonsgegevens worden verwerkt.  
+ Neem de ontwikkeling en gebruik van een algoritme op in het verwerkingsregister als persoonsgegevens worden verwerkt.  
 
 ## Toelichting
-- Door in het verwerkingsregister te vermelden welke persoonsgegevens worden verwerkt voor het gebruik van een algoritme of AI-systeem, wordt een betrokkene geïnformeerd over de verwerking van diens persoonsgegevens
+- Door in het verwerkingsregister te vermelden welke persoonsgegevens worden verwerkt voor het gebruik van een algoritme, wordt een betrokkene geïnformeerd over de verwerking van diens persoonsgegevens
 - Hiermee is ook voor de organisatie intern inzichtelijk welke persoonsgegevens voor welke toepassingen worden verwerkt;
 - Het is van belang dat vanaf het moment dat persoonsgegevens worden verwerkt, meteen een vermelding hiervan wordt gemaakt in het verwerkingsregister;
-- Dat betekent dat als persoonsgegevens worden verwerkt bij het ontwikkelen en trainen van het algoritme of AI-systeem, en deze nog niet in gebruik zijn genomen, al een vermelding moet worden gedaan in het verwerkingsregister;
-- Bij beëindiging van het gebruik van het algoritme of AI-systeem, moet het verwerkingsregister worden aangepast. 
+- Dat betekent dat als persoonsgegevens worden verwerkt bij het ontwikkelen en trainen van het algoritme, en deze nog niet in gebruik zijn genomen, al een vermelding moet worden gedaan in het verwerkingsregister;
+- Bij beëindiging van het gebruik van het algoritme, moet het verwerkingsregister worden aangepast. 
 - 
   ## Bijbehorende vereiste(n)
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
-Betrokkenen en de interne organisatie zijn niet op de hoogte welke persoonsgegevens worden verwerkt met een algoritme of AI-systeem, waardoor zij hier geen controle over hebben. 
+Betrokkenen en de interne organisatie zijn niet op de hoogte welke persoonsgegevens worden verwerkt met een algoritme, waardoor zij hier geen controle over hebben. 
 
 ## Bronnen
 

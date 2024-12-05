@@ -21,7 +21,7 @@ hide:
 <!-- tags -->
 ## Maatregel
 
-Maak (contractuele) afspraken met de aanbieder wie eigenaar is van de data en artefacten die ontstaan bij het gebruik van algoritmen en AI-systemen.
+Maak (contractuele) afspraken met de aanbieder wie eigenaar is van de data en artefacten die ontstaan bij het gebruik van algoritmes.
 
 ## Toelichting
 

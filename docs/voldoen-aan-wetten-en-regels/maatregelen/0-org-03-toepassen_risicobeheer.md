@@ -24,7 +24,7 @@ hide:
 
 ## Maatregel
 <!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
-Pas risicobeheer gestructureerd toe voorafgaand en gedurende de ontwikkeling en gebruik van algoritmes en AI-systemen.
+Pas risicobeheer gestructureerd toe voorafgaand en gedurende de ontwikkeling en gebruik van algoritmes.
   
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
@@ -32,7 +32,7 @@ Pas risicobeheer gestructureerd toe voorafgaand en gedurende de ontwikkeling en 
 - Bepaal op basis van de toepassing en de risicoclassificatie, welke aspecten van risicobeheer moeten worden toegepast.
 - Inventariseer tijdig, bijvoorbeeld in de probleemanalayse- of ontwikkelfase, bij betrokken experts welke beleidskaders en hulpmiddelen binnen de organisatie moeten worden ingezet om risicobeheer toe te passen.
 - Bepaal op basis van de levenscyclus van een algoritme of AI-systeem wanneer welke aspecten van risicobeheer moeten worden toegepast. 
-- Maak inzichtelijk op welke niveaus risicobeheer kan en moet worden belegd bij het ontwikkelen en gebruiken van algoritmes en AI-systemen.
+- Maak inzichtelijk op welke niveaus risicobeheer kan en moet worden belegd bij het ontwikkelen en gebruiken van algoritmes.
 - Daarbij gaat het om het identificeren, analyseren, evalueren (afhankelijk van de risicobereidheid), behandelen (risicoreactie, o.a. maatregelen), monitoren & beoordelen en communiceren & rapporteren van risico's.
 - Gedurende de levenscyclus van een algoritme of AI-systemen kunnen nieuwe risico's ontstaan waar mogelijk nieuwe maatregelen voor moeten worden getroffen. Het is van belang dat iteratief wordt gewerkt aan mitigerende maatregelen en dat risicobeheer periodiek wordt toegepast.
 

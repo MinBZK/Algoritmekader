@@ -5,7 +5,7 @@ hide:
 ---
 
 # Grondrechten beschermen in algoritmes
-Als overheid moet je de grondrechten van burgers beschermen. Dit geldt ook als je algoritmes of AI-systemen gebruikt voor publieke taken.
+Als overheid moet je de grondrechten van burgers beschermen. Dit geldt ook als je algoritmes gebruikt voor publieke taken.
  
 ## Wat is het beschermen van grondrechten in algoritmes?
 Dit betekent dat je tijdens het ontwikkelen en gebruiken van algoritmes rekening houdt met de fundamentele rechten van de mens:
@@ -14,9 +14,9 @@ Dit betekent dat je tijdens het ontwikkelen en gebruiken van algoritmes rekening
 * mensenrechtenverdragen zoals het [Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EVRM)](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=LEGISSUM:eu_human_rights_convention).
 
 ## Belang van grondrechten beschermen
-Algoritmes en AI-systemen kunnen grondrechten schenden. Een bekend probleem is [bias in algoritmes](bias-en-non-discriminatie.md). Hierdoor worden resultaten onbetrouwbaar en kun je mensen ongelijk behandelen.
+Algoritmes kunnen grondrechten schenden. Een bekend probleem is [bias in algoritmes](bias-en-non-discriminatie.md). Hierdoor worden resultaten onbetrouwbaar en kun je mensen ongelijk behandelen.
 
-Belangrijke grondrechten die vaak worden geraakt door algoritmen en AI zijn bijvoorbeeld:
+Belangrijke grondrechten die vaak worden geraakt door algoritmen zijn bijvoorbeeld:
 
 * [recht op persoonsgegevensbescherming](privacy-en-gegevensbescherming.md)
 * [verbod op ongelijke behandeling](bias-en-non-discriminatie.md)

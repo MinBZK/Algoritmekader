@@ -1,7 +1,7 @@
 ---
 title: Beveilig de software
 id: urn:nl:ak:mtr:mon-02
-toelichting: Zorg voor een goede beveiliging van de verschillende softwarecomponenten van een algoritme of AI-systeem.
+toelichting: Zorg voor een goede beveiliging van de verschillende softwarecomponenten van een algoritme.
 vereiste:
 - bio-01-beveiliging-informatie-en-informatiesystemen
 - avg-12-beveiliging-van-verwerking
@@ -24,12 +24,12 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-Zorg voor een goede beveiliging van de verschillende softwarecomponenten van een algoritme of AI-systeem.
+Zorg voor een goede beveiliging van de verschillende softwarecomponenten van een algoritme.
 Bepaal of de data voldoende is beveiligd en maak hierin onderscheid tussen de inputdata en de outputdata.
 
 ## Toelichting
 
-Er zijn beheersmaatregelen die kunnen helpen bij het zorgen voor een goede beveiliging van verschillende (software-)componenten van een algoritme of systeem. Hierbij kan worden gedacht aan:
+Er zijn beheersmaatregelen die kunnen helpen bij het zorgen voor een goede beveiliging van verschillende (software-)componenten van een algoritme. Hierbij kan worden gedacht aan:
 Het toepassen van wachtwoordbeheer. [Baseline Informatiebeveiliging Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/), de [NCSC Handreiking voor implementatie van detectieoplossingen](https://www.ncsc.nl/documenten/publicaties/2019/mei/01/handreiking-voor-implementatie-van-detectie-oplossingen) en het [Impact Assessment Mensenrechten en Algoritmes](../hulpmiddelen/IAMA.md).
 
 - Inzicht creëren in de beoogde opzet van de IT-infrastructuur (de architectuur) en de werkelijk geconfigureerde hard- en software. (CIS Control 1, BIO 8.1.1).

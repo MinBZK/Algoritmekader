@@ -24,11 +24,11 @@ hide:
 <!-- tags -->
 
 ## Maatregel
- Richt een proces in voor een periodieke evaluatie van de kwaliteit van het algoritme of AI-systeem.
+ Richt een proces in voor een periodieke evaluatie van de kwaliteit van het algoritme.
   
 ## Toelichting
-- Het is van belang dat een proces wordt ingericht waarmee periodiek de kwaliteit van algoritmes of AI-systemen wordt geëvalueerd.
--	Bij kwaliteit van een algoritme of AI-systeem kan worden gedacht aan doeltreffenheid, doelmatigheid, betrouwbaarheid en accuraatheid (geschiktheid), non-discriminatie en menselijke controle.
+- Het is van belang dat een proces wordt ingericht waarmee periodiek de kwaliteit van algoritmes wordt geëvalueerd.
+-	Bij kwaliteit van een algoritme kan worden gedacht aan doeltreffenheid, doelmatigheid, betrouwbaarheid en accuraatheid (geschiktheid), non-discriminatie en menselijke controle.
 -	Hieronder vallen het analyseren en evalueren van ingediende klachten en incidenten.
 -	Hieronder vallen ook het analyseren evalueren van besluiten door of aan de hand van het algoritmen.
 - Na verloop van tijd kan de accuraatheid van machine learning modellen bijvoorbeeld wijzigen of kan het gebeuren dat bepaalde groepen (indien van toepassing) anders worden behandeld.

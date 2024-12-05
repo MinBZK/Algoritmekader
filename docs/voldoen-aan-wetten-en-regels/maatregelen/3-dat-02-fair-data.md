@@ -26,7 +26,7 @@ De internationale [FAIR-principes](https://www.gofair.foundation/) zijn richtlij
 - **Interoperable** (uitwisselbaar): Data moet meestal geïntegreerd worden met andere data en bijbehorden applicaties, opslag en processen.
 - **Reusable** (herbruikbaar): Het uiteindelijke doel van FAIR is om hergebruik van data te optimaliseren.
 
-Wanneer je voldoet aan de 15 principes is je data 'machine actionable'. Dit maakt het mogelijk dat de data effectief gebruikt kan worden voor verschillende algoritmes en AI-systemen.
+Wanneer je voldoet aan de 15 principes is je data 'machine actionable'. Dit maakt het mogelijk dat de data effectief gebruikt kan worden voor verschillende algoritmes.
 
 FAIR data betekent niet per definitie dat data open data is. Juist ook voor (privacy) gevoelige data (gesloten data) kan het heel zinvol zijn om te voldoen aan de principes voor FAIR data, om juist daarmee specifieke geautoriseerde toegang tot gevoelige data mogelijk te kunnen maken.
 

@@ -1,7 +1,7 @@
 ---
 title: Bepaal of er genoeg experts beschikbaar zijn
 id: urn:nl:ak:mtr:org-01
-toelichting: De capaciteit en deskundigheid bij de ontwikkeling, het inkopen en gebruiken van algoritme en AI-systemen moet toereikend zijn om tot een verantwoorde toepassing te komen.
+toelichting: De capaciteit en deskundigheid bij de ontwikkeling, het inkopen en gebruiken van algoritmes moet toereikend zijn om tot een verantwoorde toepassing te komen.
 vereiste: 
 - awb-01-zorgvuldigheidsbeginsel
 - aia-21-gebruiksverantwoordelijken-menselijk-toezicht
@@ -23,15 +23,15 @@ hide:
 
 ## Maatregel
 <!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
-Bepaal welke expertise en capaciteit noodzakelijk is voor het ontwikkelen, inkopen en gebruiken van algoritmes en AI-systemen en stel vast of er voldoende expertise en capaciteit beschikbaar is.
+Bepaal welke expertise en capaciteit noodzakelijk is voor het ontwikkelen, inkopen en gebruiken van algoritmes en stel vast of er voldoende expertise en capaciteit beschikbaar is.
   
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-- Bepaal welke expertise en capaciteit binnen de organisatie noodzakelijk is voor het ontwikkelen, inkopen en gebruiken van algoritmes en AI-systemen.
+- Bepaal welke expertise en capaciteit binnen de organisatie noodzakelijk is voor het ontwikkelen, inkopen en gebruiken van algoritmes.
 - Dit is sterk afhankelijk van de specifieke toepassing en de inzichten die voortkomen uit risicoanalyses. Hoe complexer en risicovoller de toepassing, des te meer expertise en capaciteit noodzakelijk is. 
 - Interne en externe actoren die betrokken zijn bij het ontwikkelen, inkopen en gebruik moeten over voldoende expertise en capaciteit beschikken om hun taken naar behoren uit te voeren.
 - Stel vast of er afhankelijkheden van externe aanbieders ontstaan.  
-- Bepaal voorafgaand aan het (laten) ontwikkelen of inkopen van algoritmes en AI-systemen of voldoende expertise en capaciteit beschikbaar is om tot een verantwoorde inzet ervan te komen.
+- Bepaal voorafgaand aan het (laten) ontwikkelen of inkopen van algoritmes of voldoende expertise en capaciteit beschikbaar is om tot een verantwoorde inzet ervan te komen.
 - Leg vast of er voldoende expertise en capaciteit beschikbaar is en onderbouw dit in projectdocumentatie.
 - Om menselijke controle te kunnen uitoefenen in verschillende fases van de ontwikkeling (of inkoop) van algortimes moet de mens bepaalde kennis, tijd en vaardigheden hebben. Alleen met de juiste kennis, tijd en vaardigheden kunnen risico’s op tijd geïdentificeerd en afgedekt worden. Deze kennis en expertise kan ook buiten de organisatie liggen, maar dan is het belangrijk om verantwoordelijkheden goed vast te leggen.     
 

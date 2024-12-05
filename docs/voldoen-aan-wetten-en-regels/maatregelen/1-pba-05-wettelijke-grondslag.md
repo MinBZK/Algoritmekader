@@ -9,6 +9,7 @@ levenscyclus:
 - probleemanalyse
 onderwerp:
 - governance
+- transparantie
 rollen:
 - jurist
 hide:

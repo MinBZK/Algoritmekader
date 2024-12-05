@@ -13,7 +13,8 @@ vereiste:
 levenscyclus:
 - organisatieverantwoordelijkheden
 onderwerp:
-- governance 
+- governance
+- transparantie
 rollen:
 - projectleider
 - beleid-en-advies

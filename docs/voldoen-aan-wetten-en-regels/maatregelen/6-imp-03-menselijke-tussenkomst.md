@@ -33,7 +33,7 @@ Richt (technische) controlemechanismen in voor menselijke tussenkomst (of: mense
 
 Algoritmes ondersteunen vaak beslissingen en besluitvorming van overheidsorganisaties. Deze beslissingen of besluiten kunnen betrokkenen in [aanmerkelijke mate raken of zelfs rechtsgevolgen](avg-10-recht-op-niet-geautomatiseerde-besluitvorming.md) hebben. Omdat algoritmes niet foutloos zijn, is het belangrijk dat een mens controleert wat een algoritme doet en, waar nodig, corrigeert. Dit proces heet 'menselijke tussenkomst' en moet betekenisvol zijn, niet slechts symbolisch.
 
-Het inrichten, monitoren en evalueren van menselijke controle is dus cruciaal om te voorkomen dat algoritmes negatieve effecten veroorzaken of de menselijke autonomie ondermijnen.
+Het inrichten, monitoren en evalueren van menselijke controle is cruciaal om te voorkomen dat algoritmes negatieve effecten veroorzaken of de menselijke autonomie ondermijnen.
 
 Betekenisvolle menselijke controle houdt in dat:
 
@@ -51,22 +51,22 @@ Om menselijke tussenkomst goed te organiseren, zijn technische en organisatorisc
 
 ### Inrichten van menselijke controle
 
-Er zijn verschillende manieren om menselijke tussenkomst in te richten, afhankelijk van de specifieke toepassing van een algoritme. Hieronder worden vier governance-modellen beschreven die kunnen worden ingezet, los of in combinatie:
+Er zijn verschillende manieren om menselijke tussenkomst in te richten, afhankelijk van de specifieke toepassing van een algoritme. Hieronder worden vier mogelijkheden beschreven die kunnen worden ingezet, los of in combinatie:
 
 #### 1. Human in the loop
-Bij dit model speelt de mens een actieve rol in elke fase van het algoritme. Dit garandeert volledige controle en invloed, maar kan leiden tot vertraagde of minder efficiënte besluitvorming, vooral bij real-time of zeer complexe taken waarbij snelheid cruciaal is.
+Bij dit model speelt de mens een actieve rol in elke fase van het algoritme. Deze variant geeft de meeste controle en invloed, maar kan leiden tot vertraagde of minder efficiënte besluitvorming, vooral bij real-time of zeer complexe taken waarbij snelheid cruciaal is.
 Een voorbeeld van toepassen van Human-in-the-loop is het nakijken en beoordelen van de output van een algoritme door een mens, telkens voordat een beslissing wordt genomen. Het verwerken van data gebeurt alleen in opdracht van de mens en verder neemt het algoritme of AI model geen autonome beslissingen. 
 
 #### 2. Human on the loop
-Hier behoudt de mens toezicht en kan ingrijpen wanneer dat nodig is, om om te garanderen dat een model veilig en ethisch opereert. Dit model biedt daardoor een balans tussen autonome besluitvorming en menselijke controle. Het is vooral nuttig in situaties waarin afwijkende keuzes of acties van het algoritme grote gevolgen kunnen hebben. De menselijke operator houdt de werking van het algoritme in de gaten en staat klaar om in te grijpen of beslissingen terug te draaien wanneer nodig.
+Hier behoudt de mens toezicht en kan ingrijpen wanneer dat nodig is, om te garanderen dat een model veilig en ethisch opereert. Dit model biedt daardoor een balans tussen autonome besluitvorming en menselijke controle. Het is vooral nuttig in situaties waarin afwijkende keuzes of acties van het algoritme grote gevolgen kunnen hebben. De menselijke operator houdt de werking van het algoritme in de gaten en staat klaar om in te grijpen of beslissingen terug te draaien wanneer nodig.
 
 #### 3. Human above the loop
-In dit model houdt de mens toezicht op een hoger niveau, met een focus op strategische en ethische keuzes, in plaats van dat de menselijke operator zich bezighoudt met directe operationele beslissingen. Dit stelt de mens in staat in te grijpen wanneer kritieke morele, juridische of sociale zorgen ontstaan om het model op de langere termijn bij te sturen.  De menselijke tussenkomst is gericht op het bepalen van beleid en de richtlijnen voor AI-toepassingen. Het gaat daarbij niet alleen over het definiëren van operationele procedures maar ook het maken van bepaalde ethische overwegingen, het zorgen voor naleving van regelgeving en het overwegen van de implicaties van de inzet van AI op de lange termijn. 
+In dit model houdt de mens toezicht op een hoger niveau, met een focus op strategische en ethische keuzes, in plaats van dat de menselijke operator zich bezighoudt met directe operationele beslissingen. Dit stelt de mens in staat in te grijpen wanneer kritieke morele, juridische of sociale zorgen ontstaan om het model op de langere termijn bij te sturen.  De menselijke tussenkomst is gericht op het bepalen van beleid en de richtlijnen voor algoritmes. Het gaat daarbij niet alleen over het definiëren van operationele procedures maar ook het maken van bepaalde ethische overwegingen, het zorgen voor naleving van regelgeving en het overwegen van de implicaties van de inzet van algoritmes op de lange termijn. 
 
 #### 4. Human before the loop
 Hier maakt de mens vooraf ethische en morele afwegingen die in het algoritme zelf worden ingebouwd. Hoewel het model in productie autonoom opereert, zal de menselijke input gedurende de ontwikkeling ervoor zorgen dat het model ook in complexe situaties volgens de juiste (ethische) afwegingen keuzes en acties onderneemt.
 
-Dit model is essentieel in situaties waar menselijk ingrijpen tijdens de uitvoering niet mogelijk is (wanneer er bijvoorbeeld weinig of helemaal geen tijd is om als mens te interveniëren), maar waar ethische keuzes cruciaal blijven. Denk aan bestrijding van zeemijnen of situaties met zelfrijdende auto’s in onvoorspelbare verkeerssituaties (bron: [TNO visiestuk 2022](https://publications.tno.nl/publication/34640024/a05DMs/TNO-2022-visiestuk.pdf)).
+Dit model is essentieel in situaties waar menselijk ingrijpen tijdens de uitvoering niet mogelijk is (wanneer er bijvoorbeeld weinig of helemaal geen tijd is om als mens te interveniëren), maar waar ethische keuzes cruciaal blijven. Denk aan bestrijding van zeemijnen of situaties met zelfrijdende auto’s in onvoorspelbare verkeerssituaties (bron: [TNO visiestuk 2022](https://publications.tno.nl/publication/34640024/a05DMs/TNO-2022-visiestuk.pdf)). Deze variant kan ook worden ingezet voor situaties waarin wel nog menselijk ingrijpen mogelijk is. 
 
 ## Risico
 Het niet inrichten van passende menselijke controle leidt tot onverantwoorde inzet van algoritmen en het niet voldoen aan wettelijke vereisten. 

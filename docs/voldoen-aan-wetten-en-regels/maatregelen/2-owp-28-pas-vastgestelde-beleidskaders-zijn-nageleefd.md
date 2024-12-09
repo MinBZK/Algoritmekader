@@ -82,13 +82,13 @@ hide:
 - Hierbij kan worden gedacht aan definities die moeten worden gehanteerd, het naleven van inkoopbeleid, strategisch beleid volgen met betrekking tot het mogen inzetten van algoritmes binnen de organisaties of het doorlopen van processen en protocollen die moeten worden toegepast.
 - Vraag de [betrokken experts](1-pba-04-betrek-belanghebbenden.md) welke beleidskaders van toepassing zijn vanuit diens specifieke expertise. 
 - Ten behoeve van controles en audits is het van belang dat aantoonbaar wordt gemaakt dat de vastgestelde beleidskaders zijn nageleefd. 
-  
-  ## Bijbehorende vereiste(n)
+
+ ## Risico
+De in te zetten algoritmes voldoen niet aan vastgestelde beleidskaders. 
+ 
+ ## Bijbehorende vereiste(n)
 
 <!-- list_vereisten_on_maatregelen_page -->
-
-## Risico
-De in te zetten algoritmes voldoen niet aan vastgestelde beleidskaders. 
 
 ## Bronnen
 

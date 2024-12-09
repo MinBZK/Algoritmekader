@@ -7,6 +7,8 @@ toelichting: Beoordeel of de kennisoverdracht en ondersteuning van aanbieder vol
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste:
 - aia-01-ai-geletterdheid
+- aia-24-informeren-werknemers
+  
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus:
 - ontwerp

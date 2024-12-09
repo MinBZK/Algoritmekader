@@ -14,9 +14,10 @@ vereiste:
 - aia-11-systeem-voor-kwaliteitsbeheer
 - aia-18-corrigerende-maatregelen-voor-non-conforme-ai
 - aia-19-toegankelijkheidseisen
-- aia-20-verstrekken-van-informatie-op-verzoek
+- aia-28-transparantieverplichtingen
+- aia-34-monitoring-na-het-in-de-handel-brengen
 - aia-35-melding-ernstige-incidenten
-- aia-36-monitoring-na-het-in-de-handel-brengen
+- aia-34-monitoring-na-het-in-de-handel-brengen
 - bio-01-beveiliging-informatie-en-informatiesystemen
 - avg-07-transparantie-bij-verwerken-persoonsgegevens
 - avg-12-beveiliging-van-verwerking

@@ -38,17 +38,15 @@ Ga na of algoritmes van een aanbieder een bepalende invloed hebben in een beslui
 
 - Tijdens het aanbestedingsproces moeten daarom inzichten worden verkregen hoe de algoritmes van aanbieders functioneren om tot een beoordeling te kunnen komen. Laat de aanbieder dit toelichten. 
 
-
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Algoritmes van aanbieders nemen besluitvormende taken over, zonder dat daar zicht op is of dat dit is beoordeeld.  
 
 ## Bijbehorende vereiste(n)
 
 <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
-
-## Risico 
-<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Algoritmes van aanbieders nemen besluitvormende taken over, zonder dat daar zicht op is of dat dit is beoordeeld.  
 
 ## Voorbeeld
 

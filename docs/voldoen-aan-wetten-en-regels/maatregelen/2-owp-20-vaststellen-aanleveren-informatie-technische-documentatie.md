@@ -6,7 +6,14 @@ id: urn:nl:ak:mtr:owp-20
 toelichting: Bespreek met het projectteam welke onderdelen van de technische documentatie (zoals genoemd in de AI-verordening) van het algoritme door wie moeten worden ingevuld. 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste:
-- aia-06:-technische-documentatie
+- aia-02-documentatie-beoordeling-niet-hoog-risico-ai
+- aia-06-technische-documentatie
+- aia-08-transparantie-aan-gebruiksverantwoordelijken
+- aia-28-transparantieverplichtingen 
+- avg-07-transparantie-bij-verwerken-persoonsgegevens
+- awb-01-zorgvuldigheidsbeginsel
+- awb-02-motiveringsbeginsel
+
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus:
 - ontwerp

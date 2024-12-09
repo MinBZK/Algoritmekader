@@ -5,6 +5,8 @@ toelichting: Maak (contractuele) afspraken over de data en artefacten die ontsta
 vereiste:
 - aut-01-auteursrechten
 - dat-01-databankenwet
+- aia-05-data-kwaliteitscriteria
+- avg-01-persoonsgegevens-worden-rechtmatig-verwerkt
 levenscyclus:
 - ontwerp
 - implementatie

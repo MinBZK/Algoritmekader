@@ -6,30 +6,38 @@ id: urn:nl:ak:mtr:owp-18
 toelichting: Door een vereiste onderdeel te maken van een (sub)gunningscriteria, ontstaat een mogelijkheid voor aanbieders om zich te onderscheiden van andere aanbieders. Dit kan zorgen voor een extra stimulatie op kwaliteitsaspecten van algoritmes. 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
-- aia-28-recht-op-uitleg-ai-besluiten
-- aut-01-auteursrechten
-- dat-01-databankenwet
+- aia-03-risicobeheersysteem
 - aia-04-risicobeoordeling-voor-jongeren-en-kwetsbaren
-- aia-01-ai-geletterdheid
-- aia-18-corrigerende-maatregelen-voor-non-conforme-ai
-- avg-08-wettelijke-verwerking-van-gevoelige-gegevens
-- grw-01-fundamentele-rechten
-- aia-11-systeem-voor-kwaliteitsbeheer
 - aia-05-data-kwaliteitscriteria
-- aia-27-beoordelen-gevolgen-grondrechten
-- grw-02-non-discriminatie
-- avg-03-minimale-verwerking-van-persoonsgegevens
-- avg-11-privacy-bij-ontwerp-bij-verwerking-van-persoonsgegevens
-- avg-10-recht-op-niet-geautomatiseerde-besluitvorming
-- aia-03-risicobeheersysteem
-- aia-04-risicobeoordeling-voor-jongeren-en-kwetsbaren
-- aia-09-menselijk-toezicht
 - aia-08-transparantie-aan-gebruiksverantwoordelijken
-- avg-07-transparantie-bij-verwerken-persoonsgegevens
-- aia-03-risicobeheersysteem
+- aia-09-menselijk-toezicht
+- aia-18-corrigerende-maatregelen-voor-non-conforme-ai
 - aia-19-toegankelijkheidseisen
-- aia-20-verstrekken-van-informatie-op-verzoek
-- woo-01-recht-op-toegang-tot-publieke-informatie
+- aia-20-gebruiksverantwoordelijken-maatregelen
+- aia-21-gebruiksverantwoordelijken-menselijk-toezicht
+- aia-22-gebruiksverantwoordelijken-monitoren-werking
+- aia-24-informeren-werknemers
+- aia-26-recht-op-uitleg-ai-besluiten
+- aia-27-beoordelen-gevolgen-grondrechten
+- aia-28-transparantieverplichtingen
+- aia-30-ai-modellen-algemene-doeleinden-systeemrisico
+- aia-33-verwerking-in-testomgeving
+- aia-34-monitoring-na-het-in-de-handel-brengen
+- arc-01-archiefwet
+- aut-01-auteursrechten
+- avg-03-minimale-verwerking-van-persoonsgegevens
+- avg-04-proportionaliteit-en-subsidiariteit
+- avg-07-transparantie-bij-verwerken-persoonsgegevens
+- avg-09-inroepen-privacyrecht-bij-verwerking-persoonsgegevens
+- avg-10-recht-op-niet-geautomatiseerde-besluitvorming
+- avg-11-privacy-bij-ontwerp-bij-verwerking-van-persoonsgegevens
+- awb-01-zorgvuldigheidsbeginsel
+- awb-02-motiveringsbeginsel
+- dat-01-databankenwet
+- grw-01-fundamentele-rechten
+- grw-02-non-discriminatie
+
+
 
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus: 

@@ -7,6 +7,8 @@ toelichting: Ga na of algoritmes van een aanbieder een bepalende invloed hebben 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste:
 - avg-10-recht-op-niet-geautomatiseerde-besluitvorming
+- awb-01-zorgvuldigheidsbeginsel
+- awb-02-motiveringsbeginsel
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus:
 - ontwerp

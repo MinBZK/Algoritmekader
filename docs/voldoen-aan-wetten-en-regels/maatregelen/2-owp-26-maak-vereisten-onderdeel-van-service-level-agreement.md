@@ -7,21 +7,19 @@ toelichting: Onderzoek of het relevant is om vereisten voor algoritmes te specif
 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
-- bio-01-beveiliging-informatie-en-informatiesystemen
-- avg-12-beveiliging-van-verwerking
-- aia-37-melding-ernstige-incidenten
-- aia-07-automatische-logregistratie
-- aia-01-ai-geletterdheid
-- aia-18-corrigerende-maatregelen-voor-non-conforme-ai
-- aia-11-systeem-voor-kwaliteitsbeheer
+- aia-03-risicobeheersysteem
 - aia-05-data-kwaliteitscriteria
-- aia-36-monitoring-na-het-in-de-handel-brengen
-- aia-03-risicobeheersysteem
+- aia-07-automatische-logregistratie
 - aia-09-menselijk-toezicht
-- avg-07-transparantie-bij-verwerken-persoonsgegevens
-- aia-03-risicobeheersysteem
+- aia-11-systeem-voor-kwaliteitsbeheer
+- aia-18-corrigerende-maatregelen-voor-non-conforme-ai
 - aia-19-toegankelijkheidseisen
 - aia-20-verstrekken-van-informatie-op-verzoek
+- aia-35-melding-ernstige-incidenten
+- aia-36-monitoring-na-het-in-de-handel-brengen
+- bio-01-beveiliging-informatie-en-informatiesystemen
+- avg-07-transparantie-bij-verwerken-persoonsgegevens
+- avg-12-beveiliging-van-verwerking
 - woo-01-recht-op-toegang-tot-publieke-informatie
 
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel

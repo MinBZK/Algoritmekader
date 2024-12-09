@@ -41,6 +41,10 @@ Het leveren van bewijs door aanbieder dat de ontwikkelde algoritmes voldoen aan 
 
 Daarbij is het relevant om te beoordelen in hoeverre er is voldaan aan geharmoniseerde standaarden. Deze standaarden zijn momenteel in ontwikkeling. In de (nabije) toekomst zal dit naar verwachting op een vergelijkbare manier kunnen worden benaderd als bij het moeten leveren van een NEN-ISO 27001 certificaat (voldoen aan informatiebeveiligingsvereisten) door een leverancier. 
 
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Er wordt gecontracteerd met een aanbieder die niet voldoet aan de vereisten voor een verantwoorde inzet van algoritmes. 
+
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 
@@ -49,10 +53,6 @@ Daarbij is het relevant om te beoordelen in hoeverre er is voldaan aan geharmoni
 
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->     
-
-## Risico 
-<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Er wordt gecontracteerd met een aanbieder die niet voldoet aan de vereisten voor een verantwoorde inzet van algoritmes. 
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->

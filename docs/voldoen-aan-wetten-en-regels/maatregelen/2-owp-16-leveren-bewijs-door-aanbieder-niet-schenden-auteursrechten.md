@@ -55,6 +55,10 @@ Het is van belang dat de (rest)risico's inzichtelijk zijn gemaakt als er sprake 
 ### Contractovereenkomst
 Neem in de conceptovereenkomst op dat de aanbieder garandeert dat auteursrechten niet worden geschonden met de trainingsdata of output van het algoritme en dat aanbieder dit gedurende de ontwikkeling en levensduur actief bewaakt.
 
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Dat wordt gecontracteerd met een aanbieder waarbij niet kan worden uitgesloten dat auteursrechten worden geschonden. 
+
 ## Bijbehorende vereiste(n)
 
 <!-- list_vereisten_on_maatregelen_page -->
@@ -63,11 +67,6 @@ Neem in de conceptovereenkomst op dat de aanbieder garandeert dat auteursrechten
 
 - [Advies Landsadvocaat Pels Rijcken over het gebruik van generatieve AI-tools door medewerkers van de Staat](https://www.rijksoverheid.nl/documenten/brieven/2023/10/10/1-advies-landsadvocaat-pels-rijcken)
 - ARVODI (24.7) en ARBIT (art 8.5 & 8.6)
-
-## Risico 
-<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Dat wordt gecontracteerd met een aanbieder waarbij niet kan worden uitgesloten dat auteursrechten worden geschonden. 
-
 
 ## Voorbeeld
 

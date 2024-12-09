@@ -6,7 +6,9 @@ id: urn:nl:ak:mtr:owp-24
 toelichting: Het is van belang dat een risico-analyse op het gebied van informatiebeveiliging wordt uitgevoerd met een aanbieder van algoritmes in het geval van een uitbestedingstraject.
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste:
+- aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging
 - bio-01-beveiliging-informatie-en-informatiesystemen
+
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus:
 - ontwerp

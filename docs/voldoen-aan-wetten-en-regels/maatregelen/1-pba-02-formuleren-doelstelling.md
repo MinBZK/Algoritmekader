@@ -32,11 +32,7 @@ Welke doelen zijn subdoelen, waarvoor het minder belangrijk is om deze te realis
 - Indien mogelijk, dienen de doelstellingen gekwantificeerd te worden (SMART). 
 
 - Om te zorgen voor voldoende draagvlak voor de beoogde doelen, is het noodzaak om [voldoende belanghebbenden te betrekken](1-pba-04-betrek-belanghebbenden.md). 
-Hierbij kan het ook helpen om burgers te betrekken bij de totstandkoming van de doelstellingen, bijvoorbeeld door middel van een burgerpanel of het betrekken van belangengroepen. 
-
-## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+Hierbij kan het ook helpen om burgers te betrekken bij de totstandkoming van de doelstellingen, bijvoorbeeld door middel van een burgerpanel of het betrekken van belangengroepen.
 
 ## Risico
 Het algoritme dient niet het beoogde doel en onderliggend probleem. 
@@ -44,7 +40,11 @@ Zonder eenduidigheid over het doel is geen sturing op en verantwoording over het
 Er is dan een groter risico op fouten en/of verschillen in interpretatie. 
 
 Wanneer doelstellingen niet meetbaar zijn gemaakt, is het onmogelijk om achteraf te kwantificeren of de doelstellingen zijn behaald. 
-Doelstellingen zijn in dat geval moeilijk bespreekbaar.  
+Doelstellingen zijn in dat geval moeilijk bespreekbaar.
+
+## Bijbehorende vereiste(n)
+
+<!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 

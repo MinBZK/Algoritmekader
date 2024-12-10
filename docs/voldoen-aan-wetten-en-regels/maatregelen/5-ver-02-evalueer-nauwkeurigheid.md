@@ -36,10 +36,8 @@ Voor het evalueren van de nauwkeurigheid zijn de volgende stappen essentieel:
 
     - Bepaal hoe vaak het algoritme een bepaalde fout maken. Houd rekening met verschillende fouten die gemaakt kunnen worden, zoals *false positives* en *false negatives*. Welke fouten zijn erger om te maken? 
     - De foutmarge is afhankelijk van [welke schade wordt er veroorzaakt](2-owp-06-impactanalyse.md) bij onnauwkeurige of foutieve voorspellingen.
-    - Heb hierbij aandacht voor de afweging tussen nauwkeurigheid en [betrouwbaarheid](5-ver-06-evalueer-betrouwbaarheid.md). Een model met hoge nauwkeurigheid op de testset kan vaak slechter 
-    generaliseren naar situaties net buiten de test set (overfitting). 
-
-- Bepaal interventies voor als het restrisico hoger is dan acceptabel.
+    - Heb hierbij aandacht voor de afweging tussen nauwkeurigheid en [betrouwbaarheid](5-ver-06-evalueer-betrouwbaarheid.md). Een model met hoge nauwkeurigheid op de testset kan vaak slechter generaliseren naar situaties net buiten de test set (overfitting).
+    - Bepaal interventies voor als het restrisico hoger is dan acceptabel.
 
     - Wanneer de nauwkeurigheid niet voldoende is tijdens de ontwikkelfase kan er besloten worden door te ontwikkelen, andere maatregelen te treffen (bijvoorbeeld in [menselijke interventies](../../onderwerpen/menselijke-controle.md)) om het restrisico acceptabel te maken of door [te stoppen met de ontwikkeling van het systeem](../../levenscyclus/uitfaseren.md). 
     - Wanneer monitoring aangeeft dat de nauwkeurigheid onvoldoende is, moet er een passende afweging om het systeem te verbeteren, dan wel over te gaan op het [stoppen van het systeem](4-owk-02-stopzetten-gebruik.md).

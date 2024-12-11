@@ -10,7 +10,7 @@ hide:
 
 <div style="margin-top:32px;" class="grid cards" markdown>
 
--  [__Vereisten voor de overheid__](vereisten.md)
+-  [__Vereisten voor de overheid__](vereisten/index.md)
 
     ---
 

@@ -10,6 +10,13 @@ hide:
 
 <div style="margin-top:32px;" class="grid cards" markdown>
 
+-  [__Over de levenscyclus__](organisatieverantwoordelijkheden/)
+
+    ---
+
+    De levenscyclus helpt je te bepalen wat je wanneer moet doen. Hoe ziet dit eruit in een plaatje? En waarom 8 fasen?
+   
+
 -  [__Fase 0: Organisatieverantwoordelijkheden__](organisatieverantwoordelijkheden/)
 
     ---

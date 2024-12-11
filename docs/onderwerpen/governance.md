@@ -50,6 +50,8 @@ Houd in elk geval rekening met:
 > [!TIP]
 > Zorg dat iemand verantwoordelijk is voor algoritme-governance. En betrek stakeholders.
 
+## Vereisten
+(Hier komen de vereisten voor governance)
 
 ## Aanbevolen maatregelen
 

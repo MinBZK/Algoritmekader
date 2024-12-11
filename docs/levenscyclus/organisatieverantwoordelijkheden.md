@@ -1,5 +1,5 @@
 --- 
-title: Fase 0, Organisatieverantwoordelijkheden
+title: Fase 0, organisatieverantwoordelijkheden
 hide:
 - toc
 ---

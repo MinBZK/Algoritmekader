@@ -29,7 +29,7 @@ hide:
 
     Hulpmiddelen waarmee je kunt voldoen aan de vereisten voor overheden. Deze hulpmiddelen zijn niet verplicht.
 
--   [__AI-verordening in het kort__](ai-verordening/index.md)
+-   [__AI-verordening in het kort__](ai-verordening.md)
 
     ---
 

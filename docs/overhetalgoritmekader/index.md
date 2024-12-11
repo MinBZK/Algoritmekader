@@ -15,13 +15,13 @@ hide:
 
     Het soort algoritme bepaalt aan welke vereisten je moet voldoen. Werk je met simpele rekenregels of een AI-systeem?
 
--   [__Risico van AI-systemen__](soorten-algoritmes.md)
+-   [__Risico van AI-systemen__](risico-van-ai-systemen.md)
 
     ---
 
     Je AI-systemen valt mogelijk onder een risicogroep uit de AI-verordening.
 
--   [__Impact van algoritmes__](soorten-algoritmes.md)
+-   [__Impact van algoritmes__](impact-van-algoritmes.md)
 
     ---
 

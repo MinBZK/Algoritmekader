@@ -44,7 +44,7 @@ Algoritme-governance bepaal je zelf als organisatie.
 Houd in elk geval rekening met:
 
 - [organisatieverantwoordelijkheden](../levenscyclus/organisatieverantwoordelijkheden.md): de minimale voorwaarden om te starten met algoritmes
-- [levenscyclus van algoritmes](../levenscyclus.md): waar je per fase op moet letten
+- [levenscyclus van algoritmes](../levenscyclus/index.md): waar je per fase op moet letten
 
 
 > [!TIP]

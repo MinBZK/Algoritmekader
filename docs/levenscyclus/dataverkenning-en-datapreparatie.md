@@ -1,9 +1,9 @@
 --- 
-title: Dataverkenning en datapreparatie
+title: Fase 3, dataverkenning en datapreparatie
 hide:
 - toc
 ---
-
+# Fase 3: Dataverkenning en datapreparatie
 In deze fase worden relevante datasets geïdentificeerd en wanneer nodig wordt nieuwe data verzameld. 
 In deze fase zal ook de ontwikkelomgeving (verder) worden ingericht indien nodig. 
 Het is van belang dat voorafgaand aan verzameling is vastgesteld dat de benodigde data mag worden verwerkt en dat de juiste maatregelen worden getroffen, zodra de data kan worden verwerkt. 

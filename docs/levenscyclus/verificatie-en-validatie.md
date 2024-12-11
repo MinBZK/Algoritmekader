@@ -1,9 +1,10 @@
 --- 
-title: Verificatie en validatie
+title: Fase 5, verificatie en validatie
 hide:
 - toc
 ---
 
+# Fase 5: Verificatie en validatie
 Bij de verificatie en validatie van het algoritme dient bepaald te worden of het algoritme gebouwd is volgens de (technische) specificaties en voldoet aan de beoogde doelstellingen. 
 Hiervoor moeten technische, maar ook organisatorische maatregelen worden getroffen.  
 

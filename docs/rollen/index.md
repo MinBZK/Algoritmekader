@@ -11,26 +11,26 @@ hide:
 
 <div style="margin-top:32px;" class="grid cards" markdown>
 
--  [__Beleid en advies__](beleid-en-advies/)
+-  [__Beleid en advies__](beleid-en-advies.md)
 
     ---
 
     Dit is degene die gaat over wat wenselijk is en adviseert bij de ontwikkeling en/of inzet van een algoritme. Hierbij horen rollen zoals de beleidsmedewerker, ethicus, CIO-adviseur, architect.
 
 
--   [__Jurist__](jurist/)
+-   [__Jurist__](jurist.md)
     
     ---
 
     Hier komt een tekstje.
 
--   [__Ontwikkelaar__](ontwikkelaar/)
+-   [__Ontwikkelaar__](ontwikkelaar.md)
 
     ---
 
     De Ontwikkelaar omvat alle technische expertise.
 
--   [__Projectleider__](projectleider/)
+-   [__Projectleider__](projectleider.md)
 
     ---
 

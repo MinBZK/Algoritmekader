@@ -50,7 +50,7 @@ AI-systemen met een hoog risico als bedoeld in punt 2 van bijlage III (kritieke 
 
 ## Risico
 
-Zonder registratie van het hoge risico AI-systeem en het registreren welke organisaties of personen hier gebruik van maken, is het negatieve negatieve van het mogelijk onjuist of ongewenst functioneren van het AI-systeem niet te overzien en onduidelijk welke betrokken dit raakt.
+Zonder registratie van het hoog risico AI-systeem en het registreren welke organisaties of personen hier gebruik van maken, is het negatieve negatieve van het mogelijk onjuist of ongewenst functioneren van het AI-systeem niet te overzien en onduidelijk welke betrokken dit raakt.
  
 
 ## Maatregelen

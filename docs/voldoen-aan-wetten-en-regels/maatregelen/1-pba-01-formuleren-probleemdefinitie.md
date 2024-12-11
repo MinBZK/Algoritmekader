@@ -8,7 +8,7 @@ levenscyclus:
 - probleemanalyse
 onderwerp:
 - governance
-- menselijke-controle
+- transparantie
 rollen:
 - projectleider
 hide:
@@ -32,6 +32,10 @@ Formuleer de probleemdefinitie en probleemafbakening zo concreet en precies moge
 ## Risico
 Het algoritme dient niet het onderliggende probleem. 
 Zonder eenduidigheid over het op te lossen probleem is geen sturing op en verantwoording over het algoritme mogelijk. 
+
+## Bijbehorende vereiste(n)
+
+<!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 

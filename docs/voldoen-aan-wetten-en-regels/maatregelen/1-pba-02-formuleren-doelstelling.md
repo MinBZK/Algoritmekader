@@ -8,7 +8,7 @@ levenscyclus:
 - probleemanalyse
 onderwerp:
 - governance
-- menselijke-controle
+- transparantie
 rollen:
 - projectleider
 hide:
@@ -44,7 +44,11 @@ Zonder eenduidigheid over het doel is geen sturing op en verantwoording over het
 Er is dan een groter risico op fouten en/of verschillen in interpretatie. 
 
 Wanneer doelstellingen niet meetbaar zijn gemaakt, is het onmogelijk om achteraf te kwantificeren of de doelstellingen zijn behaald. 
-Doelstellingen zijn in dat geval moeilijk bespreekbaar.  
+Doelstellingen zijn in dat geval moeilijk bespreekbaar.
+
+## Bijbehorende vereiste(n)
+
+<!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 

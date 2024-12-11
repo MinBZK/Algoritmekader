@@ -17,19 +17,19 @@ hide:
     Overzicht van de belangrijkste vereisten voor overheden die algoritmes of AI-systemen ontwikkelen of gebruiken.
 
 
--   [__Aanbevolen maatregelen__](maatregelen.md)
+-   [__Aanbevolen maatregelen__](maatregelen/index.md)
     
     ---
 
     Maatregelen waarmee je kunt voldoen aan de vereisten voor overheden. Deze maatregelen zijn niet verplicht.
 
--   [__Aanbevolen hulpmiddelen__](hulpmiddelen.md)
+-   [__Aanbevolen hulpmiddelen__](hulpmiddelen/index.md)
 
     ---
 
     Hulpmiddelen waarmee je kunt voldoen aan de vereisten voor overheden. Deze hulpmiddelen zijn niet verplicht.
 
--   [__AI-verordening in het kort__](ai-verordering.md)
+-   [__AI-verordening in het kort__](ai-verordering/index.md)
 
     ---
 

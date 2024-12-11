@@ -48,8 +48,9 @@ hide:
 - Als ervoor wordt gekozen om het algoritme uit te faseren, dan moet informatie in het algoriteregister hierop worden aangepast. 
   
 ## Bijbehorende vereiste(n)
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
-<!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Betrokkenen zijn niet op de hoogte dat hun persoonsgegevens worden verwerkt met een algoritme, waardoor zij hier geen controle over hebben en zich niet kunnen beroepen op hun privacyrechten.

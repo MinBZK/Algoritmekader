@@ -40,8 +40,8 @@ Vul technische documentatie van aanbieder aan met relevante informatie vanuit de
 - Hierbij is het van belang dat de documentatie aansluit bij de verschillende gebruikers van het systeem, waarbij rekening wordt gehouden met verschillende toepassingen of versies. Bespreek met het projectteam welke onderdelen van de technische documentatie voor AI-systemen, als genoemd in de Bijlage 4 AI-verordening, door welke partij (aanbieder of gebruiksverantwoordelijke) moeten worden ingevuld of aangevuld. 
 
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 

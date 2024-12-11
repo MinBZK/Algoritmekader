@@ -54,8 +54,8 @@ Stel vast of de gebruikte data van voldoende kwaliteit is voor de beoogde toepas
     Wanneer je een algoritme inkoopt en de ontwikkeling van het algoritme uitbesteedt aan een derde partij, houdt er dan dan rekening mee dat data traceerbaar en reproduceerbaar moet zijn. Maak hier heldere afspraken over met de aanbieder. 
 
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 - Door onjuiste beslissingen van gegevens kunnen verkeerde beslissingen genomen worden. 

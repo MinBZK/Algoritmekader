@@ -27,8 +27,8 @@ Het is van belang om te controleren of de te verwerken data waar overheidsorgani
 Hier kan worden gedacht aan data die is gescraped van het internet en zou kunnen worden gebruikt voor de ontwikkeling van een algoritme.
 
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 

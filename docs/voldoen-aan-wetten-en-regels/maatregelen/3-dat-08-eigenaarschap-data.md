@@ -35,8 +35,8 @@ Wanneer een algoritme wordt ontwikkeld door een derde partij en dus niet wordt b
 Zorg dat de inputdata tot je beschikking blijft, zodat resultaten altijd reproduceerbaar zijn. 
 
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 De organisatie is afhankelijk voor de data of het model afhankelijk van derden en kan daardoor reproduceerbaarheid en prestatie niet garanderen.

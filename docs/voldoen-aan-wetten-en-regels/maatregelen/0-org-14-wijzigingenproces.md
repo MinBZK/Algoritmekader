@@ -38,8 +38,8 @@ Bij het inrichten van een proces om wijzigingen aan de code te mogen aanbrengen,
 Als een formeel wijzigingenproces ontbreekt bestaat het risico van ongeautoriseerde toegang, wijziging of beschadiging van de code van het algoritme, of de uitkomsten van het algoritme.
 
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 

@@ -34,8 +34,8 @@ Uitvoeren risicoanalyse en formuleren mitigerende maatregelen voor privacyrisico
 - Bij hoge risico's voor het verwerken van persoonsgegevens is een voorafgaande raadpleging bij de Autoriteit Persoonsgegevens onder artikel 36 AVG verplicht. Bepaal of raadpleging noodzakelijk is. 
 
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 
 ## Risico

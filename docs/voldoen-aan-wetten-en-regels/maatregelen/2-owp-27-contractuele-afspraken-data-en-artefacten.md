@@ -28,8 +28,8 @@ Maak (contractuele) afspraken met de aanbieder wie eigenaar is van de data en ar
 Hier kan worden gedacht aan (initiële) trainingsdatasets, outputdata (richting gebruikers) en nieuwe trainingsdata (vanuit gebruikers). 
 
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 

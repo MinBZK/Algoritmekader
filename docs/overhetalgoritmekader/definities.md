@@ -1,6 +1,8 @@
 ---
 title: Woordenlijst
 ---
+
+#1 Woordenlijst
 <!-- let op! Deze definities staan nu dubbel (hieronder, en in de file includes/begrippenlijst.md) -->
 <!-- de definities in de file includes/begrippenlijst.md zorgen ervoor dat definities automatisch op pagina's worden weergegeven -->
 <!-- dit biedt een overzicht. tzt nog iets verzinnen zodat definities niet op twee plekken moeten worden toegevoegd -->

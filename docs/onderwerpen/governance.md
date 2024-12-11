@@ -31,7 +31,7 @@ Dit zijn afspraken over de algoritmes zelf, bijvoorbeeld:
 - AI-levenscyclusmodellen
 
 ## Belang van algoritme-governance
-Zonder governance verlies je grip op het inkopen, ontwikkelen, gebruiken en uitfaseren van algoritmes en AI. Dit vergroot het risico op overtredingen van wetten en regels zoals de [AI-verordening](/voldoen-aan-wetten-en-regels/ai-verordening.md), Grondwet, Algemene Verordening Gegevensbescherming (AVG) en Auteurswet. 
+Zonder governance verlies je grip op het inkopen, ontwikkelen, gebruiken en uitfaseren van algoritmes en AI. Dit vergroot het risico op overtredingen van wetten en regels zoals de [AI-verordening](../voldoen-aan-wetten-en-regels/ai-verordening.md), Grondwet, Algemene Verordening Gegevensbescherming (AVG) en Auteurswet. 
 
 Goede governance van algoritmes helpt bij het:
 
@@ -43,8 +43,8 @@ Algoritme-governance bepaal je zelf als organisatie.
 
 Houd in elk geval rekening met:
 
-- [organisatieverantwoordelijkheden](/levenscyclus/organisatieverantwoordelijkheden.md): de minimale voorwaarden om te starten met algoritmes
-- [levenscyclus van algoritmes](/levenscyclus.md): waar je per fase op moet letten
+- [organisatieverantwoordelijkheden](../levenscyclus/organisatieverantwoordelijkheden.md): de minimale voorwaarden om te starten met algoritmes
+- [levenscyclus van algoritmes](../levenscyclus.md): waar je per fase op moet letten
 
 
 > [!TIP]

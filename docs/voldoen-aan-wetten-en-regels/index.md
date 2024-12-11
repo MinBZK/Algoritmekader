@@ -1,6 +1,6 @@
 ---
 title: Algoritmekader
-summary: In het Algoritmekader staan alle regels, tips en hulpmiddelen voor overheden voor verantwoord gebruik van algoritmes en AI.
+summary: In het Algoritmekader staan alle regels, tips en hulpmiddelen voor verantwoord gebruik van algoritmes en AI door de overheid.
 hide:
   - toc
   - navigation
@@ -10,36 +10,36 @@ hide:
 
 <div style="margin-top:32px;" class="grid cards" markdown>
 
--  [__Vereisten__](vereisten/)
+-  [__Vereisten voor de overheid__](vereisten/)
 
     ---
 
     Overzicht van de belangrijkste vereisten voor overheden die algoritmes of AI-systemen ontwikkelen of gebruiken.
 
 
--   [__Maatregelen__](maatregelen/)
+-   [__Aanbevolen maatregelen__](maatregelen/)
     
     ---
 
-    Overzicht van aanbevolen maatregelen voor verantwoord gebruik van algoritmes en AI-systemen. Het zijn adviezen om te voldoen aan de vereisten voor overheden. Andere maatregelen zijn ook mogelijk.
+    Maatregelen waarmee je kunt voldoen aan de vereisten voor overheden. Deze maatregelen zijn niet verplicht.
 
--   [__Hulpmiddelen__](hulpmiddelen/)
+-   [__Aanbevolen hulpmiddelen__](hulpmiddelen/)
 
     ---
 
-    Overzicht van aanbevolen hulpmiddelen voor het verantwoord ontwikkelen, gebruiken, beoordelen en monitoren van algoritmes en AI-systemen.
+    Hulpmiddelen waarmee je kunt voldoen aan de vereisten voor overheden. Deze hulpmiddelen zijn niet verplicht.
 
 -   [__AI-verordening in het kort__](ai-verordering.md)
 
     ---
 
-    In de AI-verordening staan de Europese regels voor het verantwoord ontwikkelen en gebruiken van AI. Ongewenste AI is verboden vanaf 2 februari 2025. Andere AI-systemen moeten vanaf 2026 of vóór 2030 voldoen aan bepaalde vereisten.
+    De Europese regels voor het verantwoord ontwikkelen en gebruiken van AI. Inclusief tijdlijn.
 
 -   [__Beslishulp AI-verordening__](https://ai-act-decisiontree.apps.digilab.network)
 
     ---
 
-    Stel snel en gemakkelijk vast of de AI-verordening geldt voor jouw overheidsorganisatie. En aan welke vereisten je dan moet voldoen.
+    Geldt de AI-verordening geldt voor jouw AI-product? En aan welke vereisten moet je dan voldoen?
 
 
 </div>

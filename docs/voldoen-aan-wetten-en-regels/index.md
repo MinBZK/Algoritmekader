@@ -10,20 +10,20 @@ hide:
 
 <div style="margin-top:32px;" class="grid cards" markdown>
 
--  [__Vereisten voor de overheid__](vereisten/)
+-  [__Vereisten voor de overheid__](vereisten.md)
 
     ---
 
     Overzicht van de belangrijkste vereisten voor overheden die algoritmes of AI-systemen ontwikkelen of gebruiken.
 
 
--   [__Aanbevolen maatregelen__](maatregelen/)
+-   [__Aanbevolen maatregelen__](maatregelen.md)
     
     ---
 
     Maatregelen waarmee je kunt voldoen aan de vereisten voor overheden. Deze maatregelen zijn niet verplicht.
 
--   [__Aanbevolen hulpmiddelen__](hulpmiddelen/)
+-   [__Aanbevolen hulpmiddelen__](hulpmiddelen.md)
 
     ---
 

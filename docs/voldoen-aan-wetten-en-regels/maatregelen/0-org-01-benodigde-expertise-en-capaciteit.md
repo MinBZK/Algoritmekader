@@ -35,7 +35,7 @@ Bepaal welke expertise en capaciteit noodzakelijk is voor het ontwikkelen, inkop
 - Leg vast of er voldoende expertise en capaciteit beschikbaar is en onderbouw dit in projectdocumentatie.
 - Om menselijke controle te kunnen uitoefenen in verschillende fases van de ontwikkeling (of inkoop) van algortimes moet de mens bepaalde kennis, tijd en vaardigheden hebben. Alleen met de juiste kennis, tijd en vaardigheden kunnen risico’s op tijd geïdentificeerd en afgedekt worden. Deze kennis en expertise kan ook buiten de organisatie liggen, maar dan is het belangrijk om verantwoordelijkheden goed vast te leggen.     
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
 ??? expander "Bekijk alle vereisten"

@@ -51,6 +51,6 @@ Dit vereiste geldt bijvoorbeeld niet als het gaat om AI-systemen die bedoeld zij
 Als gebruiksverantwoordelijke geen duidelijke, inhoudelijke toelichting geeft over de rol van het AI-systeem in de besluitvormingsprocedure en de voornaamste elementen bij het genomen besluit, is het voor getroffen personen niet mogelijk zich te verdedigen tegen de rechtsgevolgen die hieruit voortkomen of de nadelige gevolgen voor gezondheid, veiligheid of diens grondrechten.
 
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/aia-26-recht-op-uitleg-ai-besluiten no-search no-onderwerp no-rol no-levenscyclus -->

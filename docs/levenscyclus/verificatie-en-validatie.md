@@ -22,11 +22,11 @@ In praktijk zal vaak na validatie weer worden teruggegaan naar de ontwikkelfase 
 Het is ook denkbaar dat het algoritme onvoldoende aansluit bij de doelstellingen en het gebruik ervan moet wordt beëindigd. 
 Een andere conclusie kan zijn dat het presteert conform verwachting en naar de implementatiefase kan worden gegaan.  
 
-## Vereisten
+## Vereisten { data-search-exclude }
 
 <!-- list_vereisten levenscyclus/verificatie-en-validatie no-rol no-levenscyclus no-search no-onderwerp -->
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen levenscyclus/verificatie-en-validatie no-rol no-levenscyclus no-search no-onderwerp -->
 

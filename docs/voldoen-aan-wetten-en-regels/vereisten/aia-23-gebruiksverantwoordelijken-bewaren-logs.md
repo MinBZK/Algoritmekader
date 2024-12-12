@@ -47,6 +47,6 @@ Gebruiksverantwoordelijken die in de hoedanigheid van financiële instellingen o
 
 Het niet of onvoldoende bewaren van logs kan het vermogen belemmeren om incidenten te analyseren, naleving te controleren en verantwoordelijkheid vast te stellen bij mogelijke problemen met het AI-systeem.
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/aia-23-gebruiksverantwoordelijken-bewaren-logs no-search no-onderwerp no-rol no-levenscyclus -->

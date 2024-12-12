@@ -16,11 +16,11 @@ Er zal een conclusie moeten volgen of de ontwikkeling van een algoritme passend 
 Deze fase wordt doorgaans afgerond met een akkoord van de (gemandateerd) verantwoordelijk(en)/opdrachtgever om een algoritme te ontwikkelen. 
 Een vastgestelde business case of plan van aanpak vormen veelal de basis om de ontwerpfase te starten met de benodigde experts. 
 
-## Vereisten
+## Vereisten { data-search-exclude }
 
 <!-- list_vereisten levenscyclus/probleemanalyse no-rol no-levenscyclus no-search no-onderwerp -->
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen levenscyclus/probleemanalyse no-rol no-levenscyclus no-search no-onderwerp -->
 

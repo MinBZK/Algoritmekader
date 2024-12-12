@@ -53,6 +53,6 @@ AI-systemen met een hoog risico als bedoeld in punt 2 van bijlage III (kritieke 
 Zonder registratie van het hoog risico AI-systeem en het registreren welke organisaties of personen hier gebruik van maken, is het negatieve negatieve van het mogelijk onjuist of ongewenst functioneren van het AI-systeem niet te overzien en onduidelijk welke betrokken dit raakt.
  
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/aia-25-gebruiksverantwoordelijken-registratieverplichtingen no-search no-onderwerp no-rol no-levenscyclus -->

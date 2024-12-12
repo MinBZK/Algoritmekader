@@ -59,7 +59,7 @@ Gebruiksverantwoordelijken van AI-systemen met een hoog risico gebruiken die inf
 Het niet evalueren van de impact van het verwerking van persoonsgegevens in algoritmes kan resulteren in het niet onderkennen van de bijbehorende risico's  en het niet op tijd te mitigieren van deze risico's.
 Dit kan leiden tot potentiële schendingen van de rechten en vrijheden van betrokkenen en een onrechtmatige verwerking.
 
-## Maatregelen 
+## Maatregelen { data-search-exclude } 
 
 <!-- list_maatregelen vereiste/avg-13-dpia-verplicht no-search no-onderwerp no-rol no-levenscyclus -->
 

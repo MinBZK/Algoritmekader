@@ -46,6 +46,6 @@ De privacyrechten van betrokken worden hierdoor aangetast.
 Er ontstaan aanvullende risico's bij bijvoorbeeld een datalek.
 
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/avg-02-beperkte-bewaartermijn-van-persoonsgegevens no-search no-onderwerp no-rol no-levenscyclus -->

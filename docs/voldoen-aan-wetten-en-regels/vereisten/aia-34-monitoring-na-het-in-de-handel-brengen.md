@@ -52,6 +52,6 @@ Het plan voor monitoring na het in de handel brengen maakt deel uit van de in bi
 Zonder monitoringssysteem voor na het in handel brengen is er een risico dat verminderde pestaties van een AI-systeem met hoog risico ongedeteceerd blijven.
 Een aanbieder kan niet nagaan of een AI-systeem blijvend voldoet aan voorschriften.
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/aia-34-monitoring-na-het-in-de-handel-brengen no-search no-onderwerp no-rol no-levenscyclus -->

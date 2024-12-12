@@ -35,7 +35,7 @@ Je kunt [hier meer lezen](https://algoritmes.overheid.nl/nl/footer/over) over de
 In de [Handreiking Algoritmeregister](https://www.digitaleoverheid.nl/document/handreiking-algoritmeregister/) staan bruikbare handvatten voor overheidsorganisaties om met publicatie van hun algoritmes aan de slag te gaan. 
 Hierin wordt bijvoorbeeld duidelijkheid gegeven over welke doelen we ermee bereiken, welke algoritmes erin thuishoren en welke organisaties erin kunnen publiceren.
 
-## Bijbehorende vereisten
+## Bijbehorende vereisten { data-search-exclude }
 
 <!-- list_vereisten_on_maatregelen_page -->
 

@@ -44,7 +44,7 @@ Dit draagt bij aan zorgvuldige en rechtvaardige datagedreven oplossingen binnen 
 ## Auteur
 DEDA is ontwikkeld door de Data School van de Universiteit Utrecht. DEDA is in nauwe samenwerking met data-analisten ontwikkeld. Inmiddels is DEDA een wijdverspreid instrument, waar de Utrecht Data School ook trainingen en begeleiding bij geeft. [Via deze link](https://deda.dataschool.nl/workshop/) is meer informatie te vinden. 
 
-## Bijbehorende vereisten
+## Bijbehorende vereisten { data-search-exclude }
 
 <!-- list_vereisten_on_maatregelen_page -->
 

@@ -33,7 +33,7 @@ Voer een risico-analyse met de aanbieder uit op het gebied van informatiebeveili
 - Stel vast of een aanbieder voldoet aan de Baseline Informatiebeveiliging Overheid.
 - Bespreek de informatiebeveiligingseisen met aanbieder die verband houden met de beschikbaarheid, integriteit en vertrouwelijkheid van de informatie en de informatiesystemen.
 - Bepaal of er, gezien de restrisico's, aanvullende beveiligingsmaatregelen (door de aanbieder of opdrachtgever) moeten worden getroffen om deze te beschermen.
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 

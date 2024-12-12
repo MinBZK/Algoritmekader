@@ -49,6 +49,6 @@ Deze vereiste houdt in dat de gebruikte datasets onder meer moeten voldoen aan:
 Gebruik van laagkwalitatieve of bevooroordeelde datasets kan leiden tot onbetrouwbare en oneerlijke AI-besluitvorming.
 Onvoldoende kwaliteitsborging van testdata kan leiden tot vertekende resultaten en gebrekkige prestaties van het AI-systeem bij gebruik in de praktijk.
 
-## Maatregelen 
+## Maatregelen { data-search-exclude } 
 
 <!-- list_maatregelen vereiste/aia-05-data-kwaliteitscriteria no-search no-onderwerp no-rol no-levenscyclus -->

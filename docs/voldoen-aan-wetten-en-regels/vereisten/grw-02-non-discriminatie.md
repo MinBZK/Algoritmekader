@@ -46,6 +46,6 @@ Hiervan is sprake wanneer een ogenschijnlijk neutrale bepaling, maatstaf of hand
 
 Het risico bestaat dat het model onwenselijke systematische afwijkingen creëert voor specifieke personen, groepen of andere eenheden, wat kan duiden op directe of indirecte discriminerende effecten van het algoritme.
 
-## Maatregelen 
+## Maatregelen { data-search-exclude } 
 
 <!-- list_maatregelen vereiste/grw-02-non-discriminatie no-search no-onderwerp no-rol no-levenscyclus -->

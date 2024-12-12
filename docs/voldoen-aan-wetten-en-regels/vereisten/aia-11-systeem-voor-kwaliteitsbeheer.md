@@ -54,6 +54,6 @@ Dit systeem omvat gedocumenteerde beleidslijnen, procedures en instructies, en b
 
 Zonder toepassing van een kwaliteitsbeheersysteem kunnen risico's ontstaan voor de veiligheid, betrouwbaarheid en naleving van het AI-systeem en conformiteit met wet- en regelgeving.
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/aia-11-systeem-voor-kwaliteitsbeheer no-search no-onderwerp no-rol no-levenscyclus -->

@@ -44,6 +44,6 @@ De keuzes en aannames die zijn gemaakt en gedaan moeten worden beschreven en toe
 Het is onduidelijk op wat voor manier het algoritmes heeft bijgedragen aan de totstandkoming van een besluit. 
 
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/awb-02-motiveringsbeginsel no-search no-onderwerp no-rol no-levenscyclus -->

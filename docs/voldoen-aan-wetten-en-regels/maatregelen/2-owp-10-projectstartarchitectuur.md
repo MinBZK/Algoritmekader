@@ -36,7 +36,7 @@ Voer een Project Startarchitectuur (PSA) uit als algoritmes worden ontwikkeld of
 - Door een PSA uit te voeren ontstaan inzichten hoe het betreffende algoritme zo optimaal mogelijk onderdeel kan worden gemaakt van het bestaande applicatielandschap, waarmee bijvoorbeeld kan worden voorkomen dat het algoritme of AI-systeem na verloop van tijd geen input meer kan ontvangen door onverwachte wijzigingen in systemen.
 - Onderwerpen als privacy, informatiebeheer en beheer worden hierin ook globaal meegenomen. 
   
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 

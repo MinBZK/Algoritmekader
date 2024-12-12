@@ -27,7 +27,7 @@ Inventariseer of er mogelijk sprake is van een algoritme dat een hoog risico kan
 
 Een model-verwerkersoverenkomst is veelal een verplicht onderdeel bij het publiek inkopen van software waarbij persoonsgegevens worden verwerkt en bij de totstandkoming van de overeenkomst.
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 

@@ -46,7 +46,7 @@ Dit geldt voor AI-systemen die:
 ## Risico
 Bepaalde AI-systemen die bedoeld zijn om met natuurlijke personen te interageren of om content te genereren, kunnen specifieke risico’s op imitatie of misleiding met zich meebrengen, ongeacht of zij als systeem met een hoog risico gelden. 
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/aia-28-transpaarantieverplichtingen no-search no-onderwerp no-rol no-levenscyclus -->
 

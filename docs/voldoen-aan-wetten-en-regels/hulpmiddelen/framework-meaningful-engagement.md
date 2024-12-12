@@ -57,7 +57,7 @@ Voor overheden biedt dit framework handvatten om transparanter te zijn over de o
 Het framework is ontwikkeld door de European Center for Not-for-Profit Law Stichting (ECNL) en SocietyInside, als onderdeel van de Deense Tech for Democracy Initiative. De totstandkoming vond plaats via een consultatieproces met bijdragen van meer dan 150 individuen en organisaties wereldwijd, waaronder belanghebbenden uit het maatschappelijk middenveld, bedrijfsleven en overheden.
 Het framework bouwt voort op de [VN-richtlijnen voor bedrijfs- en mensenrechten](https://www.ohchr.org/sites/default/files/documents/publications/guidingprinciplesbusinesshr_en.pdf).
 
-## Bijbehorende vereisten
+## Bijbehorende vereisten { data-search-exclude }
 <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bijbehorende maatregelen

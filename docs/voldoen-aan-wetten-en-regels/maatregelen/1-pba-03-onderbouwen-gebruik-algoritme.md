@@ -31,7 +31,7 @@ Documenteer de onderbouwing waarom een algoritme een betere oplossing zou bieden
 ## Risico
 Het algoritme is niet het juiste middel om het probleem op te lossen. Het risico daarbij bestaat dat het probleem niet wordt opgelost. 
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 

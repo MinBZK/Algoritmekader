@@ -44,7 +44,7 @@ Dit onderzoekskader is erg overkoepelend (net als het [onderzoekskader van de AD
 ## Auteur
 Het Toetsingskader Algoritmes is ontwikkeld door de Algemene Rekenkamer 
 
-## Bijbehorende vereisten
+## Bijbehorende vereisten { data-search-exclude }
 
 <!-- list_vereisten_on_maatregelen_page -->
 

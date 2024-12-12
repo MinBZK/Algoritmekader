@@ -10,38 +10,38 @@ hide:
 
 <div style="margin-top:32px;" class="grid cards" markdown>
 
--  [__Fase 0: Organisatieverantwoordelijkheden__](organisatieverantwoordelijkheden/)
+-  [__Fase 0: Organisatieverantwoordelijkheden__](organisatieverantwoordelijkheden.md)
 
     ---
 
     Voordat je start met de ontwikkeling of het gebruik van een algoritme, zul je moeten zorgen dat je organisatie voldoende ingericht is om algoritmes te gebruiken of te ontwikkelen.
 
--   [__Fase 1: Probleemanalyse__](probleemanalyse/)
+-   [__Fase 1: Probleemanalyse__](probleemanalyse.md)
     
     ---
 
     In deze fase wordt het probleem en de doelstellingen van een opdrachtgever geanalyseerd en beschreven.
 
 
--   [__Fase 2: Ontwerp__](ontwerp/)
+-   [__Fase 2: Ontwerp__](ontwerp.md)
 
     ---
 
     In de ontwerpfase wordt het conceptuele ontwerp van het AI-systeem uitgedacht.
 
--   [__Fase 3: Dataverkenning en datapreparatie__](dataverkenning-en-datapreparatie/)
+-   [__Fase 3: Dataverkenning en datapreparatie__](dataverkenning-en-datapreparatie.md)
 
     ---
 
     Dit is de fase waarin het algoritme of AI-systeem wordt ontwikkeld door het ontwikkelteam.
 
--   [__Fase 4: Ontwikkelen__](ontwikkelen/)
+-   [__Fase 4: Ontwikkelen__](ontwikkelen.md)
 
     ---
 
     Dit is de fase waarin het algoritme of AI-systeem wordt ontwikkeld door het ontwikkelteam.
 
--   [__Fase 5: Verificatie en validatie__](verificatie-en-validatie/)
+-   [__Fase 5: Verificatie en validatie__](verificatie-en-validatie.md)
 
     ---
 

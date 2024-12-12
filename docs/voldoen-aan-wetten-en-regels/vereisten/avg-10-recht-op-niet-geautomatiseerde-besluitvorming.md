@@ -24,16 +24,23 @@ Betrokkenen hebben het recht om niet onderworpen te worden aan een enkel op geau
 
 ## Toelichting
 
-### Begrippen
-
 Overheidsorganisaties zijn vaak belast met de uitvoering van wettelijke taken waarbij zij 'besluiten' moeten nemen, bijvoorbeeld als een burger vraagt om een uitkering, toeslag of een subsidie.
 Hiervoor moeten gegevens worden verwerkt om te kunnen bepalen of een burger hier ook recht op heeft. Om deze gegevens snel en accuraat te verwerken, zetten overheidsorganisaties vaak algoritmes in. Deze gegevens worden dan vaak 'geautomatiseerd' door deze algoritmes verwerkt, zonder dat een ambtenaar dit werk controleert.
 Soms wordt het proces voor het nemen van een **besluit** volledig geautomatiseerd ingericht. Denk hierbij aan het opleggen van een boete voor een snelheidsovertreding. Hierdoor kan in korte tijd en op een efficiënte wijze, een grote hoeveelheid besluiten worden genomen. 
 
-Het geautomatiseerd verwerken van gegevens voor de totstandkoming van een besluit brengt risico's met zich mee. Zeker als hierbij persoonsgegevens van individuen worden verwerkt en er sprake is van profilering. Hierdoor ontstaat bijvoorbeeld het risico op discriminatie. Daarom is in art. 22 AVG het recht voor betrokkenen gecreëerd om niet te worden onderworpen aan een uitsluitend op geautomatiseerde verwerking, waaronder profilering, gebaseerd besluit.
+Het geautomatiseerd verwerken van gegevens voor de totstandkoming van een besluit brengt risico's met zich mee. Zeker als hierbij persoonsgegevens van individuen worden verwerkt en er sprake is van profilering. Hierdoor ontstaat bijvoorbeeld het risico op discriminatie. Daarom is in art. 22 AVG het recht voor betrokkenen gecreëerd om niet te worden onderworpen aan een uitsluitend op geautomatiseerde verwerking, waaronder profilering, gebaseerd besluit. 
 
-Dit verbod geldt voor besluiten die **'rechtsgevolgen'** hebben voor een betrokkene, bijvoorbeeld een burger die een boete ontvangt voor de snelheidsovertreding, of hem anderzijds in **aanmerkelijke mate treft**. 
-Het besluit mag in die gevallen niet geautomatiseerd worden genomen. Een individu moet namelijk kunnen rekenen op voldoende 'menselijke tussenkomst' bij de beoordeling van belangrijke beslissingen die hem  treffen.
+Dit verbod geldt voor besluiten die **'rechtsgevolgen'** hebben voor een betrokkene, bijvoorbeeld een burger die een boete ontvangt voor de snelheidsovertreding, of hem anderzijds in **aanmerkelijke mate treft**. Het besluit mag in die gevallen niet geautomatiseerd worden genomen. Een individu moet namelijk kunnen rekenen op voldoende 'menselijke tussenkomst' bij de beoordeling van belangrijke beslissingen die deze persoon treffen.
+
+Bij het geautomatiseerd uitvoeren van processen dient altijd te worden voldaan aan de voorwaarden uit wetgeving, waaronder in het bijzonder de Algemene Verordening Gegevensbescherming (AVG) en de Algemene wet bestuursrecht(Awb). Bestuursorganen dienen dan ook te handelen conform de algemene beginselen van behoorlijk bestuur. Dit samenstel van regels moet de rechten van betrokkenen borgen. 
+
+### Algemene eisen aan geautomatiseerde besluitvorming door overheden
+
+De Nederlandse wetgever heeft in artikel 40 lid 1 UAVG gebruik gemaakt van de mogelijkheid een uitzondering te maken op het verbod van art. 22 lid 1 AVG. In Nederland is geautomatiseerde besluitvorming toegestaan, als het gaat om besluitvorming waarbij menselijke tussenkomst geen toegevoegde waarde heeft. Dit is het geval als er sprake is van een gebonden karakter waarbij weinig of geen beoordelingsruimte is waarin tot een andere conclusie kan worden gekomen. Hierbij kan worden gedacht aan het toekennen van kinderbijslag of de hoogte van het recht op studiefinanciering. Deze uitzondering geldt niet voor 'profilering', tenzij er specifieke (sectorale) wetgeving het verbod opheft.
+
+Om deze uitzondering toe te kunnen passen, moet op grond van artikel 22 AVG een 'passende maatregel' in de vorm van wetgeving zijn. Deze wetgeving moet voorzien in de bescherming van de rechten en vrijheden en gerechtvaardigde belangen van de betrokkene. In Nederland moet de Algemene wet bestuursrecht deze bescherming aan burgers bieden als bestuursorganen besluiten nemen. De Awb bevat vereisten en algemene beginselen waaraan besluitvorming moet voldoen. Bij het toepassen van geautomatiseerde besluitvorming, moet aan de hand van een DPIA wordt vastgesteld of toepassing van de Awb voldoende bescherming biedt. Een verwerkersverantwoordelijke zal dus, naast het toepassen van vereisten uit de AVG en specifieke (sectorale) wetgeving, beginselen uit de Awb moeten vertalen naar concrete maatregelen om geautomatiseerde besluitvorming op een rechtmatige wijze toe te passen. Hierbij kan worden gedacht aan het toepassen van [motiveringsbeginsel](awb-02-motiveringsbeginsel.md) of het [zorgvuldigheidsbeginsel](awb-01-zorgvuldigheidsbeginsel.md).
+
+### Begrippen
 
 #### Profilering
 
@@ -47,7 +54,7 @@ In deze context moet het begrip 'besluit' worden gehanteerd zoals dit is bedoeld
 
 #### Rechtsgevolgen
 
-Het begrip 'rechtsgevolg' duidt op wijziging in de rechtspositie van betrokkene. In deze context wijzigt de rechtspositie van een individu door een keuze van het systeem. Rechtsgevolgen kwalificeren altijd als relevant. 
+Het begrip 'rechtsgevolg' duidt op wijziging in de rechtspositie van betrokkene. Het betekent, juridisch uitgedrukt, een verandering in het geheel van de rechten, aanspraken, bevoegdheden en verplichtingen van één of meer natuurlijke personen of rechtspersonen. In deze context wijzigt de rechtspositie van een individu door een keuze van het systeem, bijvoorbeeld doordat deze een boete ontvangt. Rechtsgevolgen kwalificeren altijd als relevant. 
 
 #### Aanmerkelijke mate treffen
 
@@ -56,14 +63,6 @@ De Europese wetgever heeft weinig richting gegeven aan hoe dit begrip moet worde
 #### Toepassing
 
 Volledig geautomatiseerde vaststelling van een publiekrechtelijk besluit zoals een aanslag, een boete of een vergunning heeft rechtsgevolgen. Een beslissing dat een bepaalde aanvraag in aanmerking komt voor handmatige controle heeft op zichzelf geen rechtsgevolg - de rechtspositie van de betrokkene wijzigt (nog) niet. Wel moet beoordeeld worden of de betrokkene door dat besluit anderszins (dus feitelijk) in aanmerkelijke mate wordt getroffen. 
-
-### Algemene eisen aan geautomatiseerde besluitvorming door overheden
-
-De Nederlandse wetgever heeft in artikel 40 lid 1 UAVG gebruik gemaakt van de mogelijkheid een uitzondering te maken op het verbod van art. 22 lid 1 AVG. In Nederland is geautomatiseerde besluitvorming toegestaan, mits het gaat om besluitvorming waarbij menselijke tussenkomst geen toegevoegde waarde heeft, vanwege het gebonden karakter / de geringe beoordelingsruimte. Hierbij kan worden gedacht aan het toekennen van kinderbijslag of de hoogte van het recht op studiefinanciering, zo blijkt uit de Memorie van Toelichting. Deze uitzondering geldt niet voor 'profilering', tenzij er specifieke (sectorale) wetgeving het verbod opheft.
-
-Om deze uitzondering toe te kunnen passen, moet op grond van artikel 22 AVG een 'passende maatregel' in de vorm van wetgeving zijn opgesteld waarmee wordt voorzien in de bescherming van de rechten en vrijheden en gerechtvaardigde belangen van de betrokkene. In Nederland moet de Awb deze bescherming aan burgers bieden als bestuursorganen besluiten nemen. Of de Awb als passende maatregel geschikt is, moet beoordeeld worden in de DPIA.
-
-Een verwerkersverantwoordelijke moet, naast het toepassen van vereisten uit de AVG en specifieke (sectorale) wetgeving, beginselen uit de Awb vertalen naar concrete maatregelen om geautomatiseerde besluitvorming op een rechtmatige wijze toe te passen. Hierbij kan worden gedacht aan het [motiveringsbeginsel](awb-02-motiveringsbeginsel.md) of het [zorgvuldigheidsbeginsel](awb-01-zorgvuldigheidsbeginsel.md).
 
 ## Bronnen
 

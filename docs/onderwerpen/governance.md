@@ -49,7 +49,8 @@ Houd in elk geval rekening met:
 > Zorg dat iemand verantwoordelijk is voor algoritme-governance. En betrek stakeholders.
 
 ## Vereisten
-(Hier komen de vereisten voor governance)
+
+<!-- list_vereisten onderwerp/governance no-search no-onderwerp no-rol no-levenscyclus -->
 
 ## Aanbevolen maatregelen
 

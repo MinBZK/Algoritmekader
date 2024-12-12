@@ -24,7 +24,7 @@ Betrokkenen hebben het recht om niet onderworpen te worden aan een enkel op geau
 
 ## Toelichting
 
-**Begrippen**
+### Begrippen
 
 Overheidsorganisatie zijn vaak belast met de uitvoering wettelijke taken waarbij zij 'besluiten' moeten nemen, bijvoorbeeld als een burger vraagt om een uitkering, toeslag of een subsidie.
 Hiervoor moeten gegevens worden verwerkt om te kunnen bepalen of een burger hier ook recht op heeft. Om deze gegevens snel en accuraat te verwerken, zetten overheidsorganisaties vaak algoritmes in. Deze gegevens worden dan vaak 'geautomatiseerd' door deze algoritmes verwerkt, zonder dat een ambtenaar dit werk controleert.
@@ -35,29 +35,29 @@ Het geautomatiseerd verwerken van gegevens voor de totstandkoming van een beslui
 Dit verbod geldt voor besluiten die **'rechtsgevolgen'** hebben voor een betrokkene, bijvoorbeeld een burger die een boete ontvangt voor de snelheidsovertreding, of hem anderzijds in **aanmerkelijke mate treft**. 
 Het besluit mag in die gevallen niet geautomatiseerd worden genomen. Een individu moet namelijk kunnen rekenen op voldoende 'menselijke tussenkomst' bij de beoordeling van belangrijke beslissingen die hem  treffen.
 
-*Profilering*
+#### Profilering
 
 Elke vorm van een geautomatiseerde verwerking van persoonsgegevens waarbij aan de hand van persoonsgegevens bepaalde persoonlijke aspecten van een natuurlijke persoon worden geëvalueerd, met name met de bedoeling zijn beroepsprestaties, economische situatie, gezondheid, persoonlijke voorkeuren, interesses, betrouwbaarheid, gedrag, locatie of verplaatsingen te analyseren of te voorspellen. 
 
 Profilering is bijzonder gevolg. Volgens deze definitie gaat het om een verwerking door een computersysteem waarbij het systeem algemene aanname(s) toegepast in een concreet geval, door een individu met gebruikmaking van diens persoonsgegevens in te delen in een categorie(profiel), vaak in verband met aan dat profiel toegedichte risico's. De gevoeligheid is dat niet is vastgesteld dat die algemene aannames voor dat individu in de werkelijkheid ook opgaan. Als daar wel ook automatisch gevolgen aan worden verbonden voor dat individu, ontstaat daarom inherent een risico op ongerechtvaardigde uitkomsten. 
 
-*Besluit*
+#### Besluit
 
 In de context van deze vereist het begrip 'besluit' naar art. 22 AVG, niet naar het bredere besluitbegrip uit artikel 1:3 Algemene wet bestuursrecht (Awb). Bedacht moet worden dat het in de context van de AVG per definitie gaat om iets dat automatisch door een computersysteem wordt gedaan. Daar kunnen rechtsgevolgen aan verbonden zijn, maar ‘slechts’ feitelijke gevolgen kunnen ook relevant zijn.
 
-*Rechtsgevolgen*
+#### Rechtsgevolgen
 
 Het begrip 'rechtsgevolg' duidt op wijziging in de rechtspositie van betrokkene. In deze context wijzigt de rechtspositie van een individu door een keuze van het systeem. Rechtsgevolgen kwalificeren altijd als relevant. 
 
-*Aanmerkelijke mate treffen*
+#### Aanmerkelijke mate treffen
 
 De Europese wetgever heeft weinig richting gegeven aan hoe dit begrip moet worden geïnterpreteerd. Er zijn wel aanknopingspunten om te duiden wanneer hier sprake van is. De EDPB spreekt van ernstige, aanzienlijke effecten, groot of belangrijk genoeg zijn om aandacht te verdienen. Dat is in ieder geval zo als het besluit het potentieel heeft om de omstandigheden, het gedrag of de keuze van de betrokken personen in aanmerkelijke mate te treffen; een langdurig of blijvend effect op de betrokkene te hebben; of in het uiterste geval, tot uitsluiting of discriminatie te leiden. Dit vraagt per geval om een analyse welke 'keuzes' van het systeem welke gevolgen hebben voor een individu en of die gevolgen rechtsgevolgen zijn of alleen een feitelijk gevolg. Zie voor een nadere toelichting hiervoor het advies van de Autoriteit Persoonsgegevens inzake geautomatiseerde selectietechnieken.
 
-*Toepassing*
+#### Toepassing
 
 Volledig geautomatiseerde vaststelling van een publiekrechtelijk besluit zoals een aanslag, een boete of een vergunning heeft rechtsgevolgen. Een beslissing dat een bepaalde aanvraag in aanmerking komt voor handmatige controle heeft op zichzelf geen rechtsgevolg - de rechtspositie van de betrokkene wijzigt (nog) niet. Wel moet beoordeeld worden of de betrokkene door dat besluit anderszins (dus feitelijk) in aanmerkelijke mate wordt getroffen. 
 
-**Algemene eisen aan geautomatiseerde besluitvorming door overheden**
+### Algemene eisen aan geautomatiseerde besluitvorming door overheden
 
 De Nederlandse wetgever heeft in artikel 40 lid 1 UAVG gebruik gemaakt van de mogelijkheid een uitzondering te maken op het verbod van art. 22 lid 1 AVG. In Nederland is geautomatiseerde besluitvorming toegestaan, mits het gaat om besluitvorming waarbij menselijke tussenkomst geen toegevoegde waarde heeft, vanwege het gebonden karakter / de geringe beoordelingsruimte. Hierbij kan worden gedacht aan het toekennen van kinderbijslag of de hoogte van het recht op studiefinanciering, zo blijkt uit de Memorie van Toelichting. Deze uitzondering geldt niet voor 'profilering', tenzij er specifieke (sectorale) wetgeving het verbod opheft.
 

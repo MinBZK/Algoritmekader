@@ -24,10 +24,10 @@ hide:
 Beschrijf welke data gebruikt wordt voor de beoogde toepassing. 
 
 ## Toelichting 
-- Maak in een vroege fase van de ontwikkeling een inschatting van welke data er gebruikt gaat worden voor het algoritme. Welke data is er beschikbaar?
-Wat voor type data gaat gebruikt worden  en uit welke bronnen is de data afkomstig?
-
-- Maak al een eerste inschatting van de kwaliteit van de data, en of dit voldoende is voor de beoogde toepassing. Later in de levenscyclus moet je nog nader onderzoek doen naar de [kwaliteit van de data](3-dat-01-datakwaliteit.md). 
+- Maak in een vroege fase van de ontwikkeling een inschatting van welke data er gebruikt gaat worden voor het algoritme.
+- Leg na het uitvoeren van een [beschikbaarheids-](2-owp-02-data-beschikbaarheid.md), [kwaliteit](3-dat-01-datakwaliteit.md) en toegankelijkheidsanalyse vast, welke data wordt verwerkt voor het ontwikkelen en gebruiken van het algoritme
+- Beschrijf daarbij om wat voor gegevens het gaat en uit welke bron deze komen.
+- Het is denkbaar dat het onderzoek van de kwaliteit van de data in een latere fase in de levenscyclus pas grondig kan worden uitgevoerd. 
 
 ## Voorbeeld
 

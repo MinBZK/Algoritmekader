@@ -131,8 +131,13 @@ Organisaties die AI-systemen ontwikkelen, moeten ervoor zorgen dat deze producte
 * Wetenschappelijk panel: advies van wetenschappers
 * Adviesforum: advies van belanghebbenden
 
-## Beslishulp AI-verordening
+## Hulpmiddelen
+
+### Beslishulp AI-verordening
 Met de [beslishulp AI-verordening](https://ai-verordening-beslishulp.apps.digilab.network/) bepaal je snel en gemakkelijk of jouw AI-product onder de AI-verordening valt. En wat je dan moet doen.
+
+### Gids AI-verordening
+Wil je de regels uit de AI-verordening overzichtelijk bekijken? [De AI-verordening gids van het ministerie van Economische Zaken (EZ)](https://www.rijksoverheid.nl/documenten/brochures/2024/10/16/gids-ai-verordening) zet deze helder op een rij en gaat ook dieper in op de mogelijke implicaties van de wet voor het gebruik en de ontwikkeling van AI binnen jouw organisatie.
 
 ## Help ons deze pagina te verbeteren
 Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/issues/new/choose) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

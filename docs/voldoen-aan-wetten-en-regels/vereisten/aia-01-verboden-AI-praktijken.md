@@ -50,8 +50,9 @@ Bepaal in een vroege fase en bij het [onderbouwen van het gebruik van een AI-sys
 
 ## Bronnen 
 
-[Artikel 5 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e2799-1-1)
-[Overweging 29 - 44 AI-Verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e2799-1-1)
+[Artikel 5 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e2799-1-1).
+
+[Overweging 29 - 44 AI-Verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e2799-1-1).
 
 ## Wanneer van toepassing? 
 <!-- tags-ai-act -->

@@ -9,7 +9,7 @@ onderwerp:
 - governance
 rollen:
 - projectleider
-- ontwikkelaar
+- beleid-en-advies
 soort-toepassing:
 - ai-systeem
 - ai-systeem-voor-algemene-doeleinden

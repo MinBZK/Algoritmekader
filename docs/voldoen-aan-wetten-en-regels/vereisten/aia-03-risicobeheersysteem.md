@@ -48,6 +48,6 @@ Bij het vaststellen van het redelijkerwijs te voorzien misbruik van AI-systemen 
 Het ontbreken van risicobeheer kan leiden tot schade aan gebruikers of derden en wettelijke aansprakelijkheid voor de aanbieder.
 
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 	
 <!-- list_maatregelen vereiste/aia-03-risicobeheersysteem no-search no-onderwerp no-rol no-levenscyclus -->

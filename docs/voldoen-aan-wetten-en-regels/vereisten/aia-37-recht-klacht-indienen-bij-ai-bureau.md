@@ -35,6 +35,6 @@ Het AI-bureau kan dan passende maatregelen nemen om de naleving van de verordeni
 
 Gebrek aan klachtrecht verhindert het AI-bureau om tijdig en zorgvuldig te kunnen ingrijpen bij overtreding van de AI-verordening.
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/aia-37-recht-klacht-indienen-bij-ai-bureau no-search no-onderwerp no-rol no-levenscyclus -->

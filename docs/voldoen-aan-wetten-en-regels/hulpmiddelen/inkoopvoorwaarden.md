@@ -48,7 +48,7 @@ De ARBIT zijn de Algemene Rijksinkoopvoorwaarden bij IT‑overeenkomsten (ARBIT)
 Steeds meer organisaties kopen algoritmische toepassingen in die veel impact hebben op gebruikers of beslissingen. Het is daarom van belang dat aanbestedende overheidsorganisaties afspraken maken met leveranciers, zodat de werking van de algoritmische toepassing transparant is en op een veilige en verantwoorde manier gebruikt wordt. Verschillende organisaties hebben daarom (voorbeeld-)contractvoorwaarden voor het inkopen van AI-systemen beschikbaar gesteld. Denk aan de Europese Commissie en de Gemeente Amsterdam.
 
 
-## Bijbehorende vereisten
+## Bijbehorende vereisten { data-search-exclude }
 
 <!-- list_vereisten_on_maatregelen_page -->
 

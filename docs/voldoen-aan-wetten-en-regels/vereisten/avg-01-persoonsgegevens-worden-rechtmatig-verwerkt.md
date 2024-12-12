@@ -47,6 +47,6 @@ Het risico wanneer persoonsgegevens niet op een rechtmatige manier worden verwer
 Er worden dan onrechtmatig persoonsgegevens verwerkt, waarmee privacy van personen in het geding komt.
 Ook kan het leiden tot hoge boetes voor organisaties, en kan een datalek plaatsvinden.
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/avg-01-persoonsgegevens-worden-rechtmatig-verwerkt no-search no-onderwerp no-rol no-levenscyclus -->

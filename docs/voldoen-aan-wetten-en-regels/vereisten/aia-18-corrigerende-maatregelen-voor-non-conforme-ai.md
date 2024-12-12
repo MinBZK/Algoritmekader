@@ -46,6 +46,6 @@ Niet reageren op non-conformiteit kan leiden tot risico's voor gebruikers en der
 Het kan leiden tot juridische procedures en reputatieschade voor organisaties.
 
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/aia-18-corrigerende-maatregelen-voor-non-conforme-ai no-search no-onderwerp no-rol no-levenscyclus -->

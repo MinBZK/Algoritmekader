@@ -44,6 +44,6 @@ Het doel en eventuele subdoelen van het algoritme of AI-systeem moet helder zijn
 De werking van het algoritmes sluit niet of onvoldoende aan bij de juridische en ethische grenzen van de te ondersteunen wettelijke taak.
 Hierdoor kunnen ongewenste gevolgen ontstaan zoals een onjuist of onzorgvuldig genomen besluit op een aanvraag.
 
-## Maatregelen 
+## Maatregelen { data-search-exclude } 
 
 <!-- list_maatregelen vereiste/awb-1-zorgvuldigheidsbeginsel no-search no-onderwerp no-rol no-levenscyclus no-search no-onderwerp no-rol no-levenscyclus -->

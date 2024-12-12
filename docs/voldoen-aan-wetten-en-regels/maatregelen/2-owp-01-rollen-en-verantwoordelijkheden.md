@@ -59,7 +59,7 @@ Werk specifieke, gevoelige activiteiten nader uit te in concrete taken en verant
 ## Risico
 De sturing en verantwoording is ontoereikend of niet geborgd, waardoor er onvoldoende betrokkenheid of capaciteit is van verantwoordelijken. Ook kan er dan onvoldoende deskundigheid in de organisatie zijn, wat de kans vergroot op fouten en ongewenste effecten. Zonder het vaststellen van rollen en verantwoordelijkheden, kan er geen effectieve sturing plaatsvinden op partijen die betrokken zijn bij het ontwikkelen of gebruiken van algoritmes.
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 

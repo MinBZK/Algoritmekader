@@ -51,7 +51,7 @@ Er bestaan meerdere risico's wanneer er geen gebruikersbeheer is:
 - Wanneer gebruik wordt gemaakt van generieke-, groeps- of onpersoonlijke accounts, bestaat het risico dat handelingen niet te herleiden zijn naar een verantwoordelijke persoon.
 
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 

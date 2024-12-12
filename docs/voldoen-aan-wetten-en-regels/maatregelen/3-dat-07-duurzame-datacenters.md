@@ -38,7 +38,7 @@ Je kunt ook kijken of naast duurzame stroom ook restwarmte van servers wordt ben
 - **Koeling en energiebeheer optimaliseren**: Adiabatische koeling, waarbij water en lucht worden gebruikt in plaats van elektriciteit, verlaagt het energieverbruik. Efficiënte stroomverdeling en warmteterugwinning dragen verder bij aan een lagere ecologische voetafdruk.
 - **Monitoren**: Blijf controleren op duurzame prestaties door te letten op certificeringen, zoals [ISO 14001](https://www.nen.nl/milieu/milieumanagement), [ISO 50001](https://www.nen.nl/energie/energiemanagement) en [BREEAM](https://www.breeam.nl/certificeren-in-5-stappen), en vraag naar energierapportages en details over het energieverbruik en de herkomst van stroom. Dit helpt om claims van duurzaamheid te toetsen en te voorkomen dat je in greenwashing trapt.
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 

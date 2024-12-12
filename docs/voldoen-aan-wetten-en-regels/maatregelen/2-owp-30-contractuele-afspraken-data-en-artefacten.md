@@ -27,7 +27,7 @@ Maak (contractuele) afspraken met de aanbieder wie eigenaar is van de data en ar
 
 Hier kan worden gedacht aan (initiële) trainingsdatasets, outputdata (richting gebruikers) en nieuwe trainingsdata (vanuit gebruikers). 
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 

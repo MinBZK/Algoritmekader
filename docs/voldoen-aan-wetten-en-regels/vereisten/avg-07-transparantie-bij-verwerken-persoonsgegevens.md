@@ -44,6 +44,6 @@ Als persoonsgegevens worden verwerkt ten behoeve van het ontwikkelen of gebruike
 Rechten van betrokken worden geschonden als er geen sprake is van transparantie over de verwerkingen van de persoonsgegevens.
  
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/avg-07-transparantie-bij-verwerken-persoonsgegevens no-search no-onderwerp no-rol no-levenscyclus -->

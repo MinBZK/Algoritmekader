@@ -35,7 +35,7 @@ Stel een multidisciplinair team samen bij het ontwikkelen of inkopen van algorit
 - Naast een interne opdrachtgever, materiedeskundige en gebruiker kun je voor het ontwikkelen van algoritmes denken aan een data-engineer, data scientist, IT-architect, ethicus, data- en privacy-officer. Bij een overheidsopdracht gericht op de inkoop van een algiritme, horen daar nog een (aanbestedings)jurist en inkoper bij. Afhankelijk van de complexiteit van de oplossing zijn meer of minder disciplines en dus te beleggen verantwoordelijkheden binnen het team wenselijk.
 - Een multidisciplinair team kan ondersteunen bij het [formuleren van de probleemstelling](1-pba-01-formuleren-probleemdefinitie.md) of [formuleren van de doelstellingen](1-pba-02-formuleren-doelstelling.md) van een project, verkennen van de mogelijke oplossingsrichtingen en het vertalen van de gewenste oplossingsrichting naar de concrete behoefte.
 
-## Bijbehorende vereisten
+## Bijbehorende vereisten { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
 ??? expander "Bekijk alle vereisten"

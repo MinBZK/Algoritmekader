@@ -49,7 +49,7 @@ Het is belangrijk dat gebruikers een werkinstructie ontvangen met informatie ove
 	
 Denk hierbij na over het eventueel bijscholen van medewerkers als het kennisniveau nog onvoldoende is om de werkinstructies goed te begrijpen. 
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
 <!-- list_vereisten_on_maatregelen_page -->
 

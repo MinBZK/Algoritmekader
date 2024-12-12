@@ -33,7 +33,7 @@ Uitvoeren risicoanalyse en formuleren mitigerende maatregelen voor privacyrisico
 - Als er een noodzaak is om na verloop van tijd meer persoonsgegevens te verwerken of om andere verwerkingen uit te voeren, zal opnieuw een beoordeling moeten plaatsvinden of er privacyrisico's ontstaan en hoe deze kunnen worden gemitigeerd. Gedurende de levenscyclus van het algoritme moet aandacht blijven voor het uitvoeren van de risicoanalyse voor privacyrisico's.
 - Bij hoge risico's voor het verwerken van persoonsgegevens is een voorafgaande raadpleging bij de Autoriteit Persoonsgegevens onder artikel 36 AVG verplicht. Bepaal of raadpleging noodzakelijk is. 
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 

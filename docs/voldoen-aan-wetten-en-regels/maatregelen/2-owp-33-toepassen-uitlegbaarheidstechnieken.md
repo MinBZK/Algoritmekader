@@ -45,7 +45,7 @@ Vanuit veiligheidsoverwegingen kan bij specifieke algoritmes besloten worden om 
 
 Evalueer de uitlegbaarheid van het systeem op functionele, operationele, bruikbaarheids- en veiligheidsvereisten in samenwerking met betrokkenen zoals gebruikers. Valideer of de uitkomst van het algoritme begrijpelijk genoeg is voor gebruiker om hier op een verantwoorde wijze mee te werken.
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 
 <!-- list_vereisten_on_maatregelen_page -->
 

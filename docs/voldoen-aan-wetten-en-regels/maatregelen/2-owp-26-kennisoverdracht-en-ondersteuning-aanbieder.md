@@ -34,7 +34,7 @@ Beoordeel of de kennisoverdracht en ondersteuning van aanbieder voldoende is om 
 
 Laat de aanbieder aangeven op welk niveau de noodzakelijkerwijs te leveren trainingen passend is voor het beoogde gebruik, waarbij de opdrachtgever vooraf inzicht geeft in het bestaande niveau, zodat een aanbieder concreet kan zijn over eventuele verschillen tussen beiden.
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 

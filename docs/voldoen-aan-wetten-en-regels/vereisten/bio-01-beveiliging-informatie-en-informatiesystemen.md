@@ -40,6 +40,6 @@ Het is van belang om algoritmische toepassingen en AI-systemen op de juiste mani
 
 Er kunnen risico's ontstaan zoals ongeautoriseerde toegang, vernietiging, verlies, wijziging of niet-toegestane verwerking van gegevens als de informatie en informatiesystemen onvoldoende zijn beveiligd.
 
-## Maatregelen 
+## Maatregelen { data-search-exclude } 
 
 <!-- list_maatregelen vereiste/bio-01-beveiliging-informatie-en-informatiesystemen no-search no-onderwerp no-rol no-levenscyclus -->

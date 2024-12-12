@@ -53,11 +53,11 @@ Met verantwoord datagebruik voorkom je:
 * gebruik van data die niet rechtenvrij zijn, zoals teksten met auteursrechten
 * dat resultaten niet te reproduceren zijn, doordat de data niet goed is opgeslagen
 
-## Vereisten
+## Vereisten { data-search-exclude }
 
 <!-- list_vereisten onderwerp/data no-search no-onderwerp no-rol no-levenscyclus -->
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen onderwerp/data no-search no-onderwerp no-rol no-levenscyclus -->
 

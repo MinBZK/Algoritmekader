@@ -57,7 +57,7 @@ Extra overwegingen die je kunt maken bij het aankopen van algoritmes, zoals geno
 - Pas containerisatie en virtualisatie toe.
 - Neem eisen op over opschalingsmogelijkheden.
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->

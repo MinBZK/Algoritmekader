@@ -49,6 +49,6 @@ Het doel is om een adequaat niveau van begrip en vaardigheden te waarborgen, wat
 Onvoldoende AI-geletterdheid kan leiden tot misbruik of onjuist gebruik van AI-systemen en tot situaties waarin AI-systemen verkeerd worden ingezet, onbedoeld gebruikt worden voor taken waar ze niet geschikt voor zijn, of dat de veiligheid en effectiviteit van de systemen in het gedrang komt.
 Dit kan leiden tot inefficiëntie, fouten, en mogelijk schade aan organisaties, gebruikers of betrokkenen.
 
-## Maatregelen 
+## Maatregelen { data-search-exclude } 
 
 <!-- list_maatregelen vereiste/aia-01-ai-geletterdheid no-search no-onderwerp no-rol no-levenscyclus -->

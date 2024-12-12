@@ -43,6 +43,6 @@ De gebruiksverantwoordelijke als werknemer dient hier zorg voor te dragen.
 Als werknemersvertegenwoordigers en werknemers niet worden geïnformeerd over de inzet van een hoog risico AI-systeem, kunnen zij zich niet weren tegen mogelijk ongewenste en negatieve effecten van de inzet van het hoog risico AI-systeem.
 
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/aia-24-informeren-werknemers no-search no-onderwerp no-rol no-levenscyclus -->

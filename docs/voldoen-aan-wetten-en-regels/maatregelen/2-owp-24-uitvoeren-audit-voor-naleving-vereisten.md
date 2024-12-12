@@ -91,7 +91,7 @@ Neem het kunnen uitvoeren van een audit over de vereiste op in contractvoorwaard
 <!-- Geef hier een toelichting van deze maatregel -->
 Het is van belang dat opdrachtgever mogelijkheden heeft om te controleren in hoeverre door aanbieder/opdrachtnemer wordt voldaan aan naleving van de contractvoorwaarden
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->

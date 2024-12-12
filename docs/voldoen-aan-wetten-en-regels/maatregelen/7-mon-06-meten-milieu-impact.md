@@ -40,7 +40,7 @@ Wanneer de milieu-impact (in bepaalde mate) inzichtelijk is, kan er een milieu-i
 Probeer ook periodieke monitoringsrapporten op te stellen waarin de milieu-impact van algoritmes wordt bijgehouden.
 Hiermee vergroot je de duurzaamheid door [tijdig verbeteringen te signaleren en door te voeren](../../levenscyclus/monitoring-en-beheer.md). Hierbij kan ook een onderscheid worden gemaakt in de impact tijdens de trainingsfase van het algoritme en de gebruiksfase. 
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 

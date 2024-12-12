@@ -20,11 +20,11 @@ Mensen met technische expertise spelen een cruciale rol bij het verantwoord ontw
 -	Softwareontwikkelaar
 
 
-## Vereisten
+## Vereisten { data-search-exclude }
 
 <!-- list_vereisten rollen/ontwikkelaar no-rol no-levenscyclus no-search no-onderwerp -->
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen rollen/ontwikkelaar no-rol no-levenscyclus no-search no-onderwerp -->
 

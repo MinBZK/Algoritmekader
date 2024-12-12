@@ -42,6 +42,6 @@ Informatie over en van algoritmes moet daarom op basis van de selectielijst bewa
 Zonder goede toepassing van de Archiefwet is het voor betrokkene(n) of derden niet mogelijk om achteraf te reconstrueren en te controleren hoe besluiten, waar algoritmes aan hebben bijgedragen, tot stand zijn gekomen.
 Het nalaten om archiefbescheiden na verloop van tijd te verwijderen brengt risico's met zich mee op het gebied van privacy en informatiebeveiliging.
 
-## Maatregelen 
+## Maatregelen { data-search-exclude } 
 
 <!-- list_maatregelen vereiste/arc-01-archiefwet no-search no-onderwerp no-rol no-levenscyclus -->

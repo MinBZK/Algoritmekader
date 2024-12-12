@@ -66,7 +66,7 @@ Indien er sprake is van discriminerende effecten van een algoritme, kan je gebru
 ## Risico
 Als er geen duidelijke acties zijn gedefinieerd, kan dat bijvoorbeeld leiden tot de volgende risico’s: het werkproces komt stil te liggen door een niet-werkend algoritme; er worden verkeerde beslissingen genomen doordat het algoritme nog wordt gebruikt terwijl het niet goed meer werkt, kwaadwillenden hebben langer toegang tot het algoritme en/of organisatiedata. 
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->

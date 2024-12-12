@@ -81,7 +81,7 @@ De conclusies van de eerdere stappen moeten, indien nodig, worden gemeld bij de 
   - Registreer het algoritme in het [algoritmeregister](https://algoritmes.overheid.nl/nl), indien dat nog niet gebeurd is.
   - Zorg voor goede klachtenafhandeling en herstelprocedures. 
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->

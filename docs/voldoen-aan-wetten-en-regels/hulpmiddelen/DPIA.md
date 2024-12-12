@@ -64,7 +64,7 @@ Een organisatie is bij wet verplicht een DPIA uit te voeren wanneer de verwerkin
 ## Auteur
 De DPIA is ontwikkeld door de Europese Unie in het kader van de AVG. 
 
-## Bijbehorende vereisten
+## Bijbehorende vereisten { data-search-exclude }
 
 <!-- list_vereisten_on_maatregelen_page -->
 

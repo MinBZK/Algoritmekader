@@ -32,7 +32,7 @@ Stel vast dat het algoritme voortdurend functioneert in lijn met de [vastgesteld
 - Wanneer het algoritme meerdere doelen dient, is het belangrijk ook te evalueren op meerdere functionele eisen. 
 - Wanneer er sprake is van een (handmatige) behandeling, bepaal dan wanneer deze behandeling als 'succesvol' gezien kan worden. 
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 

@@ -40,7 +40,7 @@ transparantie/openheid (uitgangspunt zou 'open, tenzij' moeten zijn).
 
     Formeer hierbij een multi-discipinaire groep (bestaande uit bijvoorbeeld een inkoper, ontwikkelaar, data scientist, proceseigenaar en archiefdeskundige) om deze maatregel toe te passen.
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 

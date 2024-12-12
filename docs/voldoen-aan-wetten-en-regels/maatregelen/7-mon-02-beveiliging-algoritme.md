@@ -45,7 +45,7 @@ Het toepassen van wachtwoordbeheer. [Baseline Informatiebeveiliging Overheid](ht
 ## Risico
 Oneigenlijke toegang van buitenaf kan plaatsvinden via zwakheden in het systeem.
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 

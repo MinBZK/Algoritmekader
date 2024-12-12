@@ -45,6 +45,6 @@ De data die hiervoor wordt gebruikt mag niet ongeoorloofd zijn verkregen uit een
 Als een ontwikkelaar onbevoegd gebruik heeft gemaakt van data uit een databank bij de ontwikkeling van algoritmes, wordt het databankenrecht geschonden van de eigenaar.
  De eigenaar van de databank kan bijvoorbeeld ontrekking van de data uit het handelsverkeer, vernietiging en onbruikbaarmaking  eisen, wat vergaande gevolgen kan hebben voor het gebruik kunnen maken van de algoritmische toepassing of AI-systeem.
  
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/dat-01-databankenwet no-search no-onderwerp no-rol no-levenscyclus -->

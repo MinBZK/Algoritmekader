@@ -39,6 +39,6 @@ Voor het ontwikkelen en gebruiken van algoritmes is het van belang om te beoorde
 
 Het onnodig verwerken van persoonsgegevens kan een inbreuk maken op rechten van betrokkenen, en zou kunnen leiden tot een datalek.
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/avg-03-minimale-verwerking-van-persoonsgegevens no-search no-onderwerp no-rol no-levenscyclus -->

@@ -57,7 +57,7 @@ Het is daarom belangrijk om tijdig te onderzoeken of er sprake is of kan zijn va
 
 Grondrechten kunnen worden geraakt door de inzet van algoritmes met eventuele schadelijke gevolgen voor betrokkenen. 
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/grw-01-fundamentele-rechten no-search no-onderwerp no-rol no-levenscyclus -->
 

@@ -35,7 +35,7 @@ Deze maatregel helpt om te voldoen aan de vereiste om niet te discrimineren. Maa
 
     Met één maatregel voldoe je soms aan meerdere vereisten.
 
-## Overzicht maatregelen
+## Overzicht maatregelen { data-search-exclude }
 
 <!-- list_maatregelen -->
 

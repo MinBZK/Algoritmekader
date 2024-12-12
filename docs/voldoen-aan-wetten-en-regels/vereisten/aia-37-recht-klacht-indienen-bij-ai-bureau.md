@@ -5,7 +5,6 @@ toelichting: Aanbieders verder in de AI-waardeketen hebben het recht een klacht 
 levenscyclus:
 - organisatieverantwoordelijkheden
 onderwerp:
-- governance
 - fundamentele-rechten
 rollen:
 - projectleider

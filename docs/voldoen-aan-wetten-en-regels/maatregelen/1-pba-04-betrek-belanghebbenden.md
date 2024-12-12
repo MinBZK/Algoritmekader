@@ -40,11 +40,10 @@ Bij wie liggen de voordelen en bij wie liggen de nadelen?
 Ga vervolgens in gesprek met belanghebbenden - al dan niet vertegenwoordigd door belangenorganisaties zoals burgerrechtenorganisaties - over het te ontwerpen algoritme en de context waarin het gebruikt wordt.
 
 Enkele voorbeelden hierbij zijn:
-- Het bespreken welke definitie en metriek van _fairness_ past bij de context.
+- Het bespreken welke definitie en metriek van _fairness_ past bij de context met de proceseigenaar en een ethicus.
 - Het betrekken van domeinexperts in de fase van dataverkenning en datapreparatie, om zo in kaart te brengen wat de data features betekenen en waar zij vandaan komen.
 - Het betrekken van eindgebruikers bij het ontwikkelen en het implementeren van het algoritme.
 - Het betrekken van belanghebbenden bij het monitoren en evalueren van het algoritme. 
-- In de fase van monitoren is het van belang belanghebbenden te betrekken bij de evaluatie.
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
@@ -63,9 +62,7 @@ Enkele voorbeelden hierbij zijn:
   
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-De mismatch kan nadelige gevolgen hebben voor de effectiviteit van het algoritme binnen een context.
-Het kan daarnaast ook ongerechtvaardigde discriminatie in de hand werken.
-Ontwikkelaars kunnen bijvoorbeeld missen dat in de context van het algoritme een variabele een proxy is voor een discriminatiegrond.
+Het niet betrekken van belanghebbenden bij de ontwikkeling en het gebruik van algoritmes, kan ertoe leiden dat belangrijke inzichten of perspectieven niet worden verwerkt en het algoritme onjuist gaat functioneren. 
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->

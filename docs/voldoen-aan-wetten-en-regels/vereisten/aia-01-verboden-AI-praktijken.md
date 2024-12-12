@@ -2,7 +2,6 @@
 title: Het is verboden om een AI-systeem toe te passen. 
 id: urn:nl:ak:ver:aia-01
 toelichting: Als een AI-systeem valt onder een toepassingen zoals beschreven in Artikel 5 AI-Verordening, dan is het niet toegestaan om deze te gebruiken.  
-levenscyclus
 - organisatieverantwoordelijkheden
 - probleemanalyse
 onderwerp: 

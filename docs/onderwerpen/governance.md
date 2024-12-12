@@ -14,7 +14,7 @@ Algoritme-governance is de manier waarop je organisatie omgaat met algoritmes en
 Deze afspraken maak je op 2 niveaus:
 
 ### Organisatieniveau
-Dit zijn afspraken over het beheer van de organisatie, bijvoorbeeld:
+Hoe de organisatie met algoritmes in het algemeen omgaat, bijvoorbeeld:
 
 - richtlijnen en gedragscode voor medewerkers
 - strategie en visie

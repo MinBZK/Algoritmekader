@@ -1,0 +1,1176 @@
+
+<!doctype html>
+<html lang="nl" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Het Algoritmekader van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties">
+      
+      
+      
+        <link rel="canonical" href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-464/voldoen-aan-wetten-en-regels/maatregelen/5-ver-02-biasanalyse/">
+      
+      
+        <link rel="prev" href="../5-ver-01-functioneren-in-lijn-met-doeleinden/">
+      
+      
+        <link rel="next" href="../5-ver-03-vertaling-wetgeving-naar-systeem/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../../assets/favicon.ico">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.44+insiders-4.53.14">
+    
+    
+      
+        <title>Toets het algoritme op bias - Algoritmekader (bèta)</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.12320a83.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+  
+  
+  
+  
+  <style>:root{--md-annotation-icon:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M256 512a256 256 0 1 0 0-512 256 256 0 1 0 0 512m-40-176h24v-64h-24c-13.3 0-24-10.7-24-24s10.7-24 24-24h48c13.3 0 24 10.7 24 24v88h8c13.3 0 24 10.7 24 24s-10.7 24-24 24h-80c-13.3 0-24-10.7-24-24s10.7-24 24-24m40-208a32 32 0 1 1 0 64 32 32 0 1 1 0-64"/></svg>');}</style>
+
+
+    
+    
+      
+    
+    
+      
+    
+    
+      <link rel="stylesheet" href="../../../stylesheets/navigation.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/filters.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/extra.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/footer.css">
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/choices.js/public/assets/styles/choices.min.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+   <link href="../../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../../../assets/javascripts/glightbox.min.js"></script></head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#maatregel" class="md-skip">
+          Ga naar inhoud
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Algoritmekader (bèta)" class="md-header__button md-logo" aria-label="Algoritmekader (bèta)" data-md-component="logo">
+      
+  <img src="../../../assets/logo.svg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Algoritmekader (bèta)
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Toets het algoritme op bias
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Zoeken" placeholder="Zoeken" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Zoeken">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Leegmaken" aria-label="Leegmaken" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Zoeken initialiseren
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/MinBZK/Algoritmekader" title="Ga naar repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../overhetalgoritmekader/" class="md-tabs__link">
+          
+  
+    
+  
+  Basiskennis algoritmes en AI
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../onderwerpen/" class="md-tabs__link">
+          
+  
+    
+  
+  Onderwerpen
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../levenscyclus/" class="md-tabs__link">
+          
+  
+    
+  
+  Levenscyclus
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../rollen/" class="md-tabs__link">
+          
+  
+    
+  
+  Rollen
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../" class="md-tabs__link">
+          
+  
+    
+  
+  Voldoen aan wetten en regels
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" hidden>
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigatie" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Algoritmekader (bèta)" class="md-nav__button md-logo" aria-label="Algoritmekader (bèta)" data-md-component="logo">
+      
+  <img src="../../../assets/logo.svg" alt="logo">
+
+    </a>
+    Algoritmekader (bèta)
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/MinBZK/Algoritmekader" title="Ga naar repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    <a href="../../../overhetalgoritmekader/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    
+  
+    Basiskennis algoritmes en AI
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    
+  
+  
+    <a href="../../../onderwerpen/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    
+  
+    Onderwerpen
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    <a href="../../../levenscyclus/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    
+  
+    Levenscyclus
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    
+  
+  
+    <a href="../../../rollen/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    
+  
+    Rollen
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    <a href="../../" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    
+  
+    Voldoen aan wetten en regels
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Inhoudsopgave">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhoudsopgave
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#maatregel" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Maatregel
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#toelichting" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Toelichting
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Toelichting">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#stap-1-analyseer-of-er-sprake-is-van-bias" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Stap 1: Analyseer of er sprake is van bias
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#stap-2-voer-een-rechtvaardigingstoets-uit" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Stap 2: Voer een rechtvaardigingstoets uit
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#stap-3-voer-een-ethische-wenselijkheidstoets-uit" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Stap 3: Voer een ethische wenselijkheidstoets uit
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bijbehorende-vereisten" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bijbehorende vereiste(n)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#risico" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Risico
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bronnen" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bronnen
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#voorbeelden" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Voorbeelden
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+  
+
+
+
+
+  <nav class="md-path" aria-label="Navigatie" >
+    <ol class="md-path__list">
+      
+      
+        
+  
+    
+    
+      <li class="md-path__item">
+        <a href="../../" class="md-path__link">
+          
+  <span class="md-ellipsis">
+    Voldoen aan wetten en regels
+  </span>
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+    
+    
+      <li class="md-path__item">
+        <a href="../" class="md-path__link">
+          
+  <span class="md-ellipsis">
+    Maatregelen
+  </span>
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ol>
+  </nav>
+
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+  
+
+
+
+  
+  
+
+
+  <h1>Toets het algoritme op bias</h1>
+
+<p><span class="mdx-badge" data-md-color-accent="blue"><span class="mdx-badge__icon"><a href="" title="Vereiste ID"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5.5 7A1.5 1.5 0 0 1 4 5.5 1.5 1.5 0 0 1 5.5 4 1.5 1.5 0 0 1 7 5.5 1.5 1.5 0 0 1 5.5 7m15.91 4.58-9-9C12.05 2.22 11.55 2 11 2H4c-1.11 0-2 .89-2 2v7c0 .55.22 1.05.59 1.41l8.99 9c.37.36.87.59 1.42.59s1.05-.23 1.41-.59l7-7c.37-.36.59-.86.59-1.41 0-.56-.23-1.06-.59-1.42"/></svg></span></a></span><span class="mdx-badge__text">ver-01</span></span><span class="mdx-badge" data-md-color-accent="indigo"><span class="mdx-badge__icon"><a href="../../../levenscyclus/" title="Levencyclus"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2 12a9 9 0 0 0 9 9c2.39 0 4.68-.94 6.4-2.6l-1.5-1.5A6.7 6.7 0 0 1 11 19c-6.24 0-9.36-7.54-4.95-11.95S18 5.77 18 12h-3l4 4h.1l3.9-4h-3a9 9 0 0 0-18 0"/></svg></span></a></span><span class="mdx-badge__text"><a href="../../../levenscyclus/ontwerp/">Ontwerp</a></span></span><span class="mdx-badge" data-md-color-accent="indigo"><span class="mdx-badge__icon"><a href="../../../levenscyclus/" title="Levencyclus"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2 12a9 9 0 0 0 9 9c2.39 0 4.68-.94 6.4-2.6l-1.5-1.5A6.7 6.7 0 0 1 11 19c-6.24 0-9.36-7.54-4.95-11.95S18 5.77 18 12h-3l4 4h.1l3.9-4h-3a9 9 0 0 0-18 0"/></svg></span></a></span><span class="mdx-badge__text"><a href="../../../levenscyclus/verificatie-en-validatie/">Verificatie en validatie</a></span></span><span class="mdx-badge" data-md-color-accent="indigo"><span class="mdx-badge__icon"><a href="../../../levenscyclus/" title="Levencyclus"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2 12a9 9 0 0 0 9 9c2.39 0 4.68-.94 6.4-2.6l-1.5-1.5A6.7 6.7 0 0 1 11 19c-6.24 0-9.36-7.54-4.95-11.95S18 5.77 18 12h-3l4 4h.1l3.9-4h-3a9 9 0 0 0-18 0"/></svg></span></a></span><span class="mdx-badge__text"><a href="../../../levenscyclus/monitoring-en-beheer/">Monitoring en beheer</a></span></span><span class="mdx-badge" data-md-color-accent="deep-orange"><span class="mdx-badge__icon"><a href="../../../rollen/" title="Rollen"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 4a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4"/></svg></span></a></span><span class="mdx-badge__text"><a href="../../../rollen/projectleider/">Projectleider</a></span></span><span class="mdx-badge" data-md-color-accent="deep-orange"><span class="mdx-badge__icon"><a href="../../../rollen/" title="Rollen"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 4a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4"/></svg></span></a></span><span class="mdx-badge__text"><a href="../../../rollen/beleid-en-advies/">Beleid en advies</a></span></span><span class="mdx-badge" data-md-color-accent="deep-orange"><span class="mdx-badge__icon"><a href="../../../rollen/" title="Rollen"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 4a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4"/></svg></span></a></span><span class="mdx-badge__text"><a href="../../../rollen/ontwikkelaar/">Ontwikkelaar</a></span></span><span class="mdx-badge" data-md-color-accent="deep-orange"><span class="mdx-badge__icon"><a href="../../../rollen/" title="Rollen"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 4a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4"/></svg></span></a></span><span class="mdx-badge__text"><a href="../../../rollen/jurist/">Jurist</a></span></span><span class="mdx-badge" data-md-color-accent="teal"><span class="mdx-badge__icon"><a href="../../../onderwerpen/" title="Onderwerp"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2a7 7 0 0 0-7 7c0 2.38 1.19 4.47 3 5.74V17a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1v-2.26c1.81-1.27 3-3.36 3-5.74a7 7 0 0 0-7-7M9 21a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1v-1H9z"/></svg></span></a></span><span class="mdx-badge__text"><a href="../../../onderwerpen/bias-en-non-discriminatie/">Bias en non discriminatie</a></span></span></p>
+<h2 id="maatregel">Maatregel</h2>
+<p>Analyseer of het gebruik van het algoritme of het proces daaromheen leidt tot onwenselijke of onrechtmatige verschillen in de behandeling van individuen en/of groepen.  </p>
+<h2 id="toelichting">Toelichting</h2>
+<p>Het uitvoeren van een analyse over onwenselijke of onrechtmatige verschillen bestaat grofweg uit 3 stappen:</p>
+<ul>
+<li><a href="#stap-1-analyseer-of-er-sprake-is-van-bias">Stap 1</a>: Analyseer of er sprake is van bias: <em>systematisch verschil in behandeling van bepaalde objecten, mensen of groepen in vergelijking met anderen.</em></li>
+<li><a href="#stap-2-voer-een-rechtvaardigingstoets-uit">Stap 2</a>: Voer een rechtvaardigingstoets uit om te bepalen of het geconstateerde verschil uit stap 1 te rechtvaardigen is. </li>
+<li><a href="#stap-3-voer-een-ethische-wenselijkheidstoets-uit">Stap 3</a>: Voer een ethische wenselijkheidstoets uit om te bepalen of het geconstateerde verschil uit stap 1 ethisch wenselijk is. </li>
+</ul>
+<p>Voor alle stappen geldt dat het belangrijk is om de gemaakte keuzes en afwegingen zorgvuldig te onderbouwen en te documenteren. De 3 stappen worden hieronder verder toegelicht. </p>
+<div class="admonition note">
+<p class="admonition-title">Opmerking</p>
+<p>Deze maatregel is in ieder geval van toepassing op natuurlijke personen. Voor andere rechtspersonen zoals bedrijven kan dit ook van toepassing zijn. Denk bijvoorbeeld aan een gelijke behandeling tussen eenmanszaken en grotere bedrijven. </p>
+</div>
+<h3 id="stap-1-analyseer-of-er-sprake-is-van-bias">Stap 1: Analyseer of er sprake is van bias</h3>
+<p>In deze stap is het doel om te bepalen in welke mate er sprake is van een systematisch verschil in behandeling van bepaalde objecten, mensen of groepen in vergelijking met anderen. 
+Dit verschil kan zowel op een <a href="../../../onderwerpen/bias-en-non-discriminatie/#bias-in-algoritmische-context">directe als een indirecte manier</a> ontstaan. </p>
+<h4 id="toetsen-op-direct-onderscheid">Toetsen op <abbr title="Indien een persoon op een andere wijze wordt behandeld dan een ander in een vergelijkbare situatie wordt, is of zou worden behandeld, op grond van godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat;">direct onderscheid</abbr></h4>
+<p>Toetsen op <abbr title="Indien een persoon op een andere wijze wordt behandeld dan een ander in een vergelijkbare situatie wordt, is of zou worden behandeld, op grond van godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat;">direct onderscheid</abbr> is in vergelijking tot toetsen op <abbr title="Indien een ogenschijnlijk neutrale bepaling, maatstaf of handelwijze personen met een bepaalde godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat in vergelijking met andere personen bijzonder treft.">indirect onderscheid</abbr> relatief eenvoudig. </p>
+<p><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span> Bepaal of de inputvariabelen die gebruikt worden leiden tot een <abbr title="Indien een persoon op een andere wijze wordt behandeld dan een ander in een vergelijkbare situatie wordt, is of zou worden behandeld, op grond van godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat;">direct onderscheid</abbr> op basis van godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup> of burgelijke staat. </p>
+<p>Het is niet mogelijk om een uitputtend overzicht te geven van alle selectiecriteria die mogelijk tot <abbr title="Indien een persoon op een andere wijze wordt behandeld dan een ander in een vergelijkbare situatie wordt, is of zou worden behandeld, op grond van godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat;">direct onderscheid</abbr> op grond van ras of nationaliteit kunnen leiden. 
+Wel zijn in de jurisprudentie verschillende voorbeelden en aanknopingspunten te vinden. 
+Zo staat vast dat selectie op basis van fysieke etnische kenmerken, zoals huidskleur, <abbr title="Indien een persoon op een andere wijze wordt behandeld dan een ander in een vergelijkbare situatie wordt, is of zou worden behandeld, op grond van godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat;">direct onderscheid</abbr> op grond van ras oplevert<sup id="fnref:2"><a class="footnote-ref" href="#fn:2">2</a></sup>.
+Een ander voorbeeld is dat onderscheid op grond van een niet-westers klinkende naam <abbr title="Indien een persoon op een andere wijze wordt behandeld dan een ander in een vergelijkbare situatie wordt, is of zou worden behandeld, op grond van godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat;">direct onderscheid</abbr> op grond van afkomst (en dus ras) oplevert<sup id="fnref:3"><a class="footnote-ref" href="#fn:3">3</a></sup>.</p>
+<h4 id="toetsen-op-indirect-onderscheid">Toetsen op <abbr title="Indien een ogenschijnlijk neutrale bepaling, maatstaf of handelwijze personen met een bepaalde godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat in vergelijking met andere personen bijzonder treft.">indirect onderscheid</abbr></h4>
+<p>Ook selectiecriteria die op het eerste gezicht geen enkele link lijken te hebben met een <a href="../../../onderwerpen/bias-en-non-discriminatie/#discriminatiegrond"><abbr title="Beschermde persoonskenmerken op basis waarvan het maken van onderscheid tussen personen verboden is. Bijvoorbeeld: ras, nationaliteit, religie, geslacht, seksuele gerichtheid, handicap of chronische ziekte.">discriminatiegrond</abbr></a> kunnen leiden tot <abbr title="Indien een ogenschijnlijk neutrale bepaling, maatstaf of handelwijze personen met een bepaalde godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat in vergelijking met andere personen bijzonder treft.">indirect onderscheid</abbr> op grond van een <abbr title="Beschermde persoonskenmerken op basis waarvan het maken van onderscheid tussen personen verboden is. Bijvoorbeeld: ras, nationaliteit, religie, geslacht, seksuele gerichtheid, handicap of chronische ziekte.">discriminatiegrond</abbr>. 
+Enkele voorbeelden van zulke 'ogenschijnlijk neutrale' selectiecriteria die verband hebben met ras of nationaliteit zijn: postcode, hoogte van het inkomen, kenteken, familielid in het buitenland, laaggeletterdheid. 
+Indirect onderscheid is in vergelijking met <abbr title="Indien een persoon op een andere wijze wordt behandeld dan een ander in een vergelijkbare situatie wordt, is of zou worden behandeld, op grond van godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat;">direct onderscheid</abbr> lastiger op te signaleren en te voorkomen. 
+Daarom is het belangrijk jouw algoritmische toepassing regelmatig te analyseren op eventueel <abbr title="Indien een ogenschijnlijk neutrale bepaling, maatstaf of handelwijze personen met een bepaalde godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat in vergelijking met andere personen bijzonder treft.">indirect onderscheid</abbr>. 
+Het toetsen op <abbr title="Indien een ogenschijnlijk neutrale bepaling, maatstaf of handelwijze personen met een bepaalde godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat in vergelijking met andere personen bijzonder treft.">indirect onderscheid</abbr> bestaat uit 5 stappen:</p>
+<ol>
+<li>
+<p><strong>Bepaal wat de <a href="../2-owp-07-kwetsbare-groepen/">kwetsbare groepen</a> zijn.</strong>
+Eventueel kan dit aangevuld worden op basis van de <a href="../../../onderwerpen/bias-en-non-discriminatie/#discriminatiegrond">discriminatiegronden</a> uit non-discriminatie wetgeving. Of andere groepen waarvoor verschillen in behandeling ethisch onwenselijk zijn.</p>
+</li>
+<li>
+<p><strong>Bepaal wat "verschillen in behandeling" betekent in de context van het algoritme.</strong>
+In deze stap is het belangrijk om voorafgaand aan de daadwerkelijke analyse met een <a href="../1-pba-04-betrek-belanghebbenden/">brede groep stakeholders</a> te bepalen wat 'eerlijk' en 'rechtvaardig' wordt bevonden in de context van het betreffende algoritme. 
+Er zijn veel verschillende manieren waarop je kan kijken naar onderscheid bij het gebruik van algoritmes. Voorbeelden van manieren waarop je naar onderscheid kan kijken zijn:</p>
+<ul>
+<li><strong>Onderscheid op basis van gelijke uitkomsten (representatie)</strong>. 
+De belangrijkste vraag die hier mee beantwoord wordt is: hebben personen uit verschillende groepen gelijke kans om geselecteerd te worden door het algoritme? Of is er sprake van een over- of ondervertegenwoording van bepaalde groepen in de selectie ten opzichte van de betreffende populatie?</li>
+<li><strong>Onderscheid op basis van gelijke prestaties (fouten)</strong>. 
+De belangrijkste vraag die hier mee beantwoord wordt is: presteert het algoritme gelijk voor personen uit verschillende groepen? Met andere woorden: maakt het algoritme vaker fouten bij bepaalde groepen? Dat kan er eventueel toe leiden dat bepaalde groepen vaker onterecht wel of niet geselecteerd worden door het algoritme. </li>
+</ul>
+<p>Om te toetsen of er sprake is van onderscheid op basis van gelijke prestaties, is het noodzakelijk om <a href="../5-ver-01-functioneren-in-lijn-met-doeleinden/">de prestaties van het algoritme goed te analyseren</a>. 
+In het geval van classificatie is het daarvoor nodig om een zogeheten <em>confusion matrix</em> op te stellen. 
+Een confusion matrix is een tabel waarin de voorspellingen van het algoritme worden vergeleken met de werkelijke waarden (de <em>ground truth</em>). </p>
+<p>De verschillende maten/metrieken waarop gekeken kan worden naar onderscheid, worden in de (wetenschappelijke) literatuur ook wel <em>fairness metrieken</em> genoemd. 
+Veel van deze metrieken kunnen op basis van de confusion matrix berekend worden. 
+Een hulpmiddel om de meest passende metrieken te kiezen in jouw situatie is de <a href="https://openresearch.amsterdam/en/media/inline/2022/7/14/fairness_handbook.pdf">Fairness tree</a>. </p>
+<p>Door te denken vanuit verschillende perspectieven, zullen er in de praktijk meerdere metrieken van belang zijn. 
+Het kan echter voorkomen dat deze metrieken elkaar tegenspreken. 
+Maak een duidelijke prioritering van de verschillende metrieken om afwegingen te maken tussen de verschillende opvattingen van eerlijkheid. </p>
+</li>
+<li>
+<p><strong>Verzamel de benodigde data die nodig is om bovenstaande groepen te bepalen.</strong>
+Bepaal welke data benodigd is om te analyseren of er verschillen zijn tussen bepaalde groepen. 
+In veel gevallen zal data benodigd zijn die demografische en beschermde kenmerken van groepen omschrijft. 
+Het verzamelen en verwerken van deze data kan in strijd zijn met privacy vereisten uit bijvoorbeeld de <a href="../../vereisten/avg-01-persoonsgegevens-worden-rechtmatig-verwerkt/">Algemene Verordening Gegevensbescherming</a>.
+Het is daarom van belang om duidelijk afwegingen te maken tussen privacy en het analyseren van bias die rekening houdt met de juridische en ethische vereisten.</p>
+<div class="admonition info">
+<p class="admonition-title">Uitzondering voor hoog risico AI-systemen</p>
+<p>De AI-verordening biedt een uitzondering voor het verwerken van <abbr title="de categorieën persoonsgegevens als bedoeld in artikel 9, lid 1, van Verordening (EU) 2016/679, artikel 10 van Richtlijn (EU) 2016/680 en artikel 10, lid 1, van Verordening (EU) 2018/1725">bijzondere categorieën persoonsgegevens</abbr> voor het monitoren, opsporen en corrigeren van bias bij AI-systemen met een hoog risico. Zie <a href="https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3348-1-1">artikel 10.5, AI-verordening</a>. </p>
+</div>
+<p>Om de data op een veilige en rechtmatige manier te gebruiken voor een biasanalyse dient de data van voldoende kwaliteit te zijn. 
+Denk hier goed na of de data eventuele bias bevat die kan duiden op een bepaalde vooringenomenheid in de biasanalyse zelf (historische bias of representatie bias). 
+De data dient bijvoorbeeld voldoende actueel en volledig te zijn.</p>
+<p>Voor sommige groepen zal het onmogelijk zijn om te beschikken over data van voldoende kwaliteit om zorgvuldig te toetsen op bias. 
+De laaggeletterdheid van burgers of personen is bijvoorbeeld lastig meetbaar en in veel gevallen niet beschikbaar. 
+Bepaal in zo'n situatie <a href="../2-owp-07-kwetsbare-groepen/">of er andere mogelijkheden zijn deze groepen te helpen</a>, of dat er andere mogelijkheden zijn om eventuele ongelijke behandeling bij deze groepen te constateren. 
+Bijvoorbeeld door hierop te monitoren in de klacht- en bezwarenprocedure. </p>
+</li>
+<li>
+<p><strong>Bereken de verschillen in behandeling en/of uitkomsten van het algoritme</strong>.
+Er zijn verschillende open source softwarepakketten die je hierbij kunnen ondersteunen, zoals <a href="https://fairlearn.org/">fairlearn</a>, <a href="https://github.com/dssg/aequitas">Aequitas</a>, <a href="https://cran.r-project.org/web/packages/fairml/index.html">fairml</a>, <a href="https://cran.r-project.org/web/packages/fairness/index.html">fairness</a> of <a href="https://aif360.res.ibm.com/">AI Fairness 360</a>.</p>
+</li>
+<li>
+<p><strong>Probeer te verklaren hoe het geconstateerde onderscheid is ontstaan</strong>.
+Als er in de vorige stap een significant onderscheid is geconstateerd, is het belangrijk om na te gaan hoe dit onderscheid is ontstaan. 
+Dit kan bijvoorbeeld ontstaan door:</p>
+<ul>
+<li>een vorm van bias in de onderliggende <abbr title="data die in een AI-systeem worden ingevoerd of direct door een AI-systeem worden verworven en op basis waarvan het systeem een output genereert">inputdata</abbr>. Je kan hierbij denken aan: <ul>
+<li>historische bias: in hoeverre beschrijft de data de huidige situatie?</li>
+<li>representatie bias: is de data waarop getraind wordt representatief voor de bijbehorende populatie? Zijn trends uit de gebruikte data generaliseerbaar naar de totale populatie?</li>
+<li>meetbias: beschrijven de inputvariabelen wel wat ze moeten beschrijven? In hoeverre zijn dit benaderingen waarbij eventuele factoren worden weggelaten?</li>
+</ul>
+</li>
+<li>een vorm van bias in het proces na afloop van het algoritme<ul>
+<li>is er sprake van automatiseringsbias of bevestigingsbias in de (handmatige) beoordeling?</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<p><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span> Wanneer duidelijker is hoe de geconstateerde bias is ontstaan, is het goed om te verkennen of er mogelijkheden zijn om dit (in de toekomst) te voorkomen. </p>
+<p>Het is belangrijk hier <a href="../1-pba-04-betrek-belanghebbenden/">een brede groep aan belanghebbenden bij te betrekken</a>. 
+De oorzaken van bias komen uit de 'echte wereld', waarbij patronen in datasets historische, demografische en sociale verschillen weerspiegielen. 
+Het verklaren en voorkomen van bias vraagt daarmee niet alleen om technische oplossingen, maar het is belangrijk de hele socio-technische omgeving waarin het algoritme wordt ingezet mee te nemen. </p>
+<h3 id="stap-2-voer-een-rechtvaardigingstoets-uit">Stap 2: Voer een rechtvaardigingstoets uit</h3>
+<p>Wanneer er in <a href="#stap-1-analyseer-of-er-sprake-is-van-bias">Stap 1</a> is geconstateerd dat er sprake is van een onderscheid, dient de volgende vraag beantwoord te worden:</p>
+<blockquote>
+<p>Valt dit onderscheid te rechtvaardigen?</p>
+</blockquote>
+<p>Een geconstateerd systematisch onderscheid is niet altijd fout en is niet altijd verboden, maar het vraagt wel altijd om aandacht en zorgvuldigheid. 
+Het geconstateerde onderscheid kan in bepaalde situaties en onder bepaalde strikte voorwaarden gerechtvaardigd zijn:</p>
+<ul>
+<li>Voor <strong><abbr title="Indien een persoon op een andere wijze wordt behandeld dan een ander in een vergelijkbare situatie wordt, is of zou worden behandeld, op grond van godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat;">direct onderscheid</abbr></strong> kan er bijvoorbeeld sprake zijn van een wettelijke uitzondering die het gemaakte onderscheid toelaat. </li>
+<li>Voor <strong><abbr title="Indien een ogenschijnlijk neutrale bepaling, maatstaf of handelwijze personen met een bepaalde godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat in vergelijking met andere personen bijzonder treft.">indirect onderscheid</abbr></strong> geldt dat behalve een wettelijke uitzondering er ook een <strong><abbr title="Van een objectieve rechtvaardiging voor onderscheid is sprake wanneer onderscheid een legitiem doel nastreeft en er een redelijke relatie van evenredigheid bestaat tussen het gemaakte onderscheid en het nagestreefde doel.">objectieve rechtvaardiging</abbr></strong> kan bestaan, waarmee het geconstateerde onderscheid in bepaalde gevallen toelaatbaar kan zijn. </li>
+</ul>
+<p>Twee subvragen die hierbij beantwoord moeten worden zijn:</p>
+<ul>
+<li>streeft het in te zetten algoritme een legitiem doel na?</li>
+<li>bestaat er een redelijke relatie van evenredigheid tussen het gebruikte algoritme en de nagestreefde doelstelling?</li>
+</ul>
+<p>Wanneer er geen rechtvaardiging is voor het gemaakte onderscheid, spreken we van een verboden direct of <abbr title="Indien een ogenschijnlijk neutrale bepaling, maatstaf of handelwijze personen met een bepaalde godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat in vergelijking met andere personen bijzonder treft.">indirect onderscheid</abbr>, ofwel discriminatie. 
+Het algoritme mag in dat geval niet gebruikt worden.</p>
+<p>Voor meer toelichting over het uitvoeren van een rechtvaardigingstoets, verwijzen we naar het rapport <a href="https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dce">Discriminatie door risicoprofielen - Een mensenrechtelijk toetsingskader</a> van het College voor de Rechten van de Mens. </p>
+<h3 id="stap-3-voer-een-ethische-wenselijkheidstoets-uit">Stap 3: Voer een ethische wenselijkheidstoets uit</h3>
+<p>Bepaal of het geconstateerde onderscheid uit <a href="#stap-1-analyseer-of-er-sprake-is-van-bias">Stap 1</a> ethisch wenselijk is. Dit hangt samen met de algemene wenselijkheid van de inzet van het algoritme.  </p>
+<!-- link toevoegen -->
+
+<p>In sommige gevallen kan het zo zijn dat ondanks dat er een <abbr title="Van een objectieve rechtvaardiging voor onderscheid is sprake wanneer onderscheid een legitiem doel nastreeft en er een redelijke relatie van evenredigheid bestaat tussen het gemaakte onderscheid en het nagestreefde doel.">objectieve rechtvaardiging</abbr> bestaat voor het gemaakte onderscheid, dit vanuit ethisch perspectief toch onwenselijk is. 
+Bepaal <a href="../1-pba-04-betrek-belanghebbenden/">met een grote groep belanghebbenden</a> wat eventuele (nadelige) effecten van het gemaakte onderscheid kunnen zijn, of jullie dit eerlijk vinden en of er eventuele alternatieven zijn. </p>
+<div class="admonition note">
+<p class="admonition-title">Opmerking</p>
+<p>De bepaling over wat eerlijk is en wat ethisch wenselijk is kan in sommige gevallen ook politiek bevonden worden. Houd hier rekening met de politiek-bestuurlijke verantwoordelijkheden en zorg indien nodig dat de <a href="../0-org-04-politiek-bestuurlijke-verantwoordelijkheid/">politiek-bestuurlijke verantwoordelijkhden</a> duidelijk zijn. </p>
+</div>
+<h2 id="bijbehorende-vereisten">Bijbehorende vereiste(n)</h2>
+<details class="expander">
+<summary>Bekijk alle vereisten</summary>
+<table><thead><tr><th>Vereiste</th></tr></thead><tbody><tr><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-464/voldoen-aan-wetten-en-regels/vereisten/grw-02-non-discriminatie/">grw-02 - Algoritmes discrimineren niet</a></td></tr><tr><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-464/voldoen-aan-wetten-en-regels/vereisten/aia-27-beoordelen-gevolgen-grondrechten/">aia-29 - Hoog-risico-AI-systemen voor publieke taken worden beoordeeld op gevolgen voor grondrechten</a></td></tr><tr><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-464/voldoen-aan-wetten-en-regels/vereisten/grw-01-fundamentele-rechten/">grw-01 - Algoritmes schenden geen grondrechten of mensenrechten</a></td></tr></tbody></table>
+</details>
+<h2 id="risico">Risico</h2>
+<p>Wanneer er geen zorgvuldige analyse naar (onwenselijke) bias is uitgevoerd, bestaat het risico dat het gebruik van het algoritme discriminerende effecten met zich meebrengt. 
+Dit kan leiden tot een ongelijke behandeling van burgers met eventuele schade voor betrokkenen.</p>
+<h2 id="bronnen">Bronnen</h2>
+<ul>
+<li><a href="https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag">Toetsingskader Algoritmes Algemene Rekenkamer, 2.19, 3.08</a></li>
+<li><a href="https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023">Onderzoekskader Algoritmes Auditdienst Rijk, DM.16, DM.17, DM.18, DM.20, DM.21, DM.22</a> </li>
+<li><a href="https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dc">Discriminatie door risicoprofielen - Een mensenrechtelijk toetsingskader, College voor de Rechten van de Mens</a></li>
+<li><a href="https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design">Handreiking non-discriminatie by design</a></li>
+</ul>
+<h2 id="voorbeelden">Voorbeelden</h2>
+<ul>
+<li><a href="https://algorithmaudit.eu/nl/algoprudence/cases/aa202402_preventing-prejudice_addendum/">Addendum Vooringenomenheid voorkomen, Algorithm Audit</a> met bijbehorende data en broncode op <a href="https://github.com/NGO-Algorithm-Audit/DUO-CUB">Github</a></li>
+<li><a href="https://www.rijksoverheid.nl/documenten/rapporten/2024/03/01/eindrapport-pwc-rapportage-onderzoek-misbruik-uitwonendenbeurs">Onderzoek misbruik uitwonendenbeurs, PricewaterhouseCoopers</a></li>
+<li><a href="https://openresearch.amsterdam/nl/page/105057/eindevaluatie-pilot-slimme-check---bias-analyse-eindrapport">Pilot Slimme Check, Gemeente Amsterdam</a></li>
+<li><a href="https://www.rijksoverheid.nl/documenten/publicaties/2023/04/01/bias-toetsing-kort-verblijf-visa-aanvragen">Bias toetsing 'Kort Verblijf Visa' aanvragen, Rijks ICT Gilde</a></li>
+<li><a href="https://www.rijksoverheid.nl/documenten/rapporten/2024/02/07/sigmared-report-on-algorithmic-bias-assessment">Report on Algorithmic bias assesment, SigmaRed</a></li>
+</ul>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>Er is een wetsvoorstel om de term 'hetero- of homoseksuele gerichtheid' in de Algmemene wet gelijke behandeling (Awgb) te wijzigingen in 'seksuele gerichtheid'. Met deze wijziging sluit de Awgb aan bij een eerdere wijziging van artikel 1 van de Grondwet.&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+<li id="fn:2">
+<p>Zie <a href="https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dce">Discriminatie door risicoprofielen, een mensenrechtelijk toetsingskader, College voor de Rechten van de Mens</a>&#160;<a class="footnote-backref" href="#fnref:2" title="Jump back to footnote 2 in the text">&#8617;</a></p>
+</li>
+<li id="fn:3">
+<p>Zie <a href="https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dce">Discriminatie door risicoprofielen, een mensenrechtelijk toetsingskader, College voor de Rechten van de Mens</a>, <a href="https://oordelen.mensenrechten.nl/oordeel/2021-70">College voor de Rechten van de Mens 7 juni 2021, oordeel 2021-70</a>; <a href="https://oordelen.mensenrechten.nl/oordeel/2015-44">College voor de Rechten van de Mens 23 april 2015, oordeel 2015-44</a>; <a href="https://oordelen.mensenrechten.nl/oordeel/2015-43">College voor de Rechten van de Mens 23 april 2015, oordeel 2014-0426</a>.&#160;<a class="footnote-backref" href="#fnref:3" title="Jump back to footnote 3 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+
+
+
+
+
+
+
+  
+    
+  
+  
+    
+  
+
+
+  <aside class="md-source-file">
+    
+      
+  <span class="md-source-file__fact">
+    <span class="md-icon" title="Laatst geüpdatet">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
+    </span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">12 december 2024</span>
+  </span>
+
+    
+    
+      
+  <span class="md-source-file__fact">
+    <span class="md-icon" title="Gecreëerd">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.47 15.08 11 13V7h1.5v5.25l3.08 1.83c-.41.28-.79.62-1.11 1m-1.39 4.84c-.36.05-.71.08-1.08.08-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8c0 .37-.03.72-.08 1.08.69.1 1.33.32 1.92.64.1-.56.16-1.13.16-1.72 0-5.5-4.5-10-10-10S2 6.5 2 12s4.47 10 10 10c.59 0 1.16-.06 1.72-.16-.32-.59-.54-1.23-.64-1.92M18 15v3h-3v2h3v3h2v-3h3v-2h-3v-3z"/></svg>
+    </span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">25 september 2024</span>
+  </span>
+
+    
+    
+    
+  </aside>
+
+
+
+  
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Terug naar boven
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+    <div class="md-footer__inner">
+      <!-- Left Section: Notice Text -->
+      <div class="md-footer__notice">
+        <p>Let op: deze website is in ontwikkeling. De informatie verandert vaak. Wil je <a href="/Algoritmekader/overhetalgoritmekader/CONTRIBUTING/">meehelpen?</a></p>
+      </div>
+  
+      <!-- Right Section: Links in Columns -->
+      <div class="md-footer__links">
+        <div class="md-footer__column">
+          <a href="/Algoritmekader/overhetalgoritmekader/">Over het Algoritmekader</a>
+          <a href="/Algoritmekader/overhetalgoritmekader/CONTRIBUTING/">Meedoen</a>
+          <a href="#">Contact</a>
+          <a href="#">Privacy</a>
+        </div>
+        <div class="md-footer__column">
+          <a href="https://overheid.nl/">Overheid.nl</a>
+          <a href="https://www.rijksoverheid.nl/">Rijksoverheid.nl</a>
+          <a href="https://www.digitaleoverheid.nl/">Digitale Overheid</a>
+          <a href="https://data.overheid.nl/">Data.overheid.nl</a>
+          <a href="https://algoritmes.pleio.nl/">Algoritmes.pleio.nl</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.indexes", "navigation.tabs", "navigation.tabs.sticky", "navigation.top", "navigation.tracking", "navigation.instant", "navigation.footer", "navigation.prune", "navigation.path", "search.highlight", "search.suggest", "content.tooltips", "content.tabs.link"], "search": "../../../assets/javascripts/workers/search.c7c1ca2c.min.js", "translations": {"clipboard.copied": "Gekopieerd naar klembord", "clipboard.copy": "Kopi\u00ebren naar klembord", "search.result.more.one": "1 extra overeenkomst op deze pagina", "search.result.more.other": "# extra overeenkomsten op deze pagina", "search.result.none": "Geen overeenkomende documenten", "search.result.one": "1 overeenkomende document", "search.result.other": "# overeenkomende documenten", "search.result.placeholder": "Typ om te beginnen met zoeken", "search.result.term.missing": "Ontbreekt", "select.version": "Selecteer versie"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.203fd0bc.min.js"></script>
+      
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/choices.js/public/assets/scripts/choices.min.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js"></script>
+      
+        <script src="../../../javascripts/tablesort.js"></script>
+      
+        <script src="../../../javascripts/filtering.js"></script>
+      
+        <script src="https://unpkg.com/mermaid@10.9.1/dist/mermaid.min.js"></script>
+      
+    
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
+</html>

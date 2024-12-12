@@ -24,22 +24,19 @@ hide:
 ## Maatregel
 <!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
 Breng in kaart welke belanghebbenden er zijn en betrek hen op verschillende momenten in de levenscyclus.
-Belanghebbenden zijn onder meer eindgebruikers, mensen en rechtspersonen die door het algoritme geraakt kunnen worden en vertegenwoordigende organisaties.
 
 ## Toelichting 
 <!-- Geef hier een toelichting van deze maatregel -->
-Algoritmes worden vaak gebruikt binnen een (specifieke) context waar deze invloed op uitoefenen.
-Medewerkers moeten bijvoorbeeld werken met de uitkomsten of anderen zijn onderwerp van het algoritme.
-Om te voorkomen dat er een mismatch ontstaat met de realiteit, is het van belang om verschillende belanghebbende mee te nemen. Het betrekken van specifieke domeinkennis kan bijvoorbeeld in de vorm van kennisdelingsessies of workshops.
-
 Het betrekken van belanghebbenden is van belang in bijna alle fasen van de levenscyclus.
+Belanghebbenden zijn onder meer eindgebruikers, mensen en rechtspersonen die door het algoritme geraakt kunnen worden en vertegenwoordigende organisaties.
 
 In de fase van de probleemanalyse is het allereerst van belang in kaart te brengen welke stakeholders er zijn.
 Wie gaan bijvoorbeeld werken met het algoritme (eindgebruikers)? En welke demografieën worden geraakt door een algoritme?
 Bij wie liggen de voordelen en bij wie liggen de nadelen?
-Ga vervolgens in gesprek met belanghebbenden - al dan niet vertegenwoordigd door belangenorganisaties zoals burgerrechtenorganisaties - over het te ontwerpen algoritme en de context waarin het gebruikt wordt.
+Ga in gesprek met deze belanghebbenden - al dan niet vertegenwoordigd door belangenorganisaties zoals burgerrechtenorganisaties - over het te ontwerpen algoritme en de context waarin het gebruikt wordt. Zij kunnen waardevolle inzichten en wensen delen, wat kan bijdragen aan een betere werking van het algoritme. 
 
 Enkele voorbeelden hierbij zijn:
+- Het betrekken van burgers bij het ontwerpen van een algoritme in de ontwerpfase. 
 - Het bespreken welke definitie en metriek van _fairness_ past bij de context met de proceseigenaar en een ethicus.
 - Het betrekken van domeinexperts in de fase van dataverkenning en datapreparatie, om zo in kaart te brengen wat de data features betekenen en waar zij vandaan komen.
 - Het betrekken van eindgebruikers bij het ontwikkelen en het implementeren van het algoritme.

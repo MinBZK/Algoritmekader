@@ -51,6 +51,6 @@ Dit waarborgt dat de autoriteiten toegang hebben tot relevante informatie voor c
 
 Niet voldoen aan de bewaartermijn kan leiden tot juridische consequenties en kan het vermogen van de autoriteiten om toezicht te houden op de naleving van de regelgeving belemmeren.
 
-## Maatregelen 
+## Maatregelen { data-search-exclude } 
 
 <!-- list_maatregelen vereiste/aia-12-bewaartermijn-voor-documentatie no-search no-onderwerp no-rol no-levenscyclus -->

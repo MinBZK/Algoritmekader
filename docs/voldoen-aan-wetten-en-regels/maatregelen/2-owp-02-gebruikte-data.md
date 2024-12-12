@@ -34,7 +34,7 @@ Wat voor type data gaat gebruikt worden  en uit welke bronnen is de data afkomst
 ## Risico
 
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 

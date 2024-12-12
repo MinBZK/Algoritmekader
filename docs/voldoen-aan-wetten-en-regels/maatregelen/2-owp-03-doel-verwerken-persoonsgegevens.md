@@ -35,7 +35,7 @@ Het doel voor het verwerken van persoonsgegevens met een algoritme is welbepaald
 - De verwerking van persoonsgevens voor het ontwikkelen en gebruiken van het algoritme moet verenigbaar met het oorspronkelijke verwerkingsdoel (doelbinding);
 - Eventuele verdere (subsidiaire) verwerkingen, zoals het verwerken van persoonsgegevens voor een onderzoek naar onbewuste vooringenomenheid, moeten uitdrukkelijk worden omschreven.
   
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 

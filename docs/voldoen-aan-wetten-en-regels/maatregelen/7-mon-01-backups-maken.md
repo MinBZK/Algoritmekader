@@ -31,7 +31,7 @@ Er is een back-up beleid waarin de eisen voor het bewaren en beschermen zijn ged
 Als er geen regelmatige back-ups worden gemaakt en de restore-procedure niet regelmatig wordt getest, bestaat het risico dat er geen hersteloptie is en mogelijkheid van gegevensverlies.
 
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 

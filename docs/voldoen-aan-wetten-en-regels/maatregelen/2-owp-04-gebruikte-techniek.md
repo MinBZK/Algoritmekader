@@ -43,7 +43,7 @@ Beschrijf welke techniek gebruikt wordt voor de beoogde toepassing.
 
 ## Risico
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 

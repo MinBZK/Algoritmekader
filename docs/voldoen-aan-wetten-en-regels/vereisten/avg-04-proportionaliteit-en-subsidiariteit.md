@@ -46,6 +46,6 @@ Het is van belang om deze principes te hanteren om te bepalen of en in welke vor
 
 Zonder toetsing aan het proportinaliteits- en subsidiariteitsbeginsel ontstaat het risico dat er een onnodig zware en daardoor onrechtmatige inbreuk wordt gemaakt op de privacyrechten van betrokkenen.
 
-## Maatregelen 
+## Maatregelen { data-search-exclude } 
 
 <!-- list_maatregelen vereiste/avg-04-proportionaliteit-en-subsidiariteit no-search no-onderwerp no-rol no-levenscyclus -->

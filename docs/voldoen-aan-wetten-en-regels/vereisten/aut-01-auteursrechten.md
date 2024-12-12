@@ -45,6 +45,6 @@ Ook de gegenereerde output van algoritmes mag geen inbreuk maken op deze rechten
 Het niet voldoen aan het auteursrecht kan leiden tot onrechtmatig gebruik van auteursrechtelijk beschermde inhoud, wat kan resulteren in mogelijke juridische geschillen, boetes en schadevergoedingen voor inbreuk op het auteursrecht.
 Bovendien kan het niet naleven van het auteursrecht het vertrouwen van gebruikers en belanghebbenden ondermijnen, wat kan leiden tot reputatieschade en gebrek aan vertrouwen.
 
-## Maatregelen 
+## Maatregelen { data-search-exclude } 
 
 <!-- list_maatregelen vereiste/aut-01-auteursrechten no-search no-onderwerp no-rol no-levenscyclus -->

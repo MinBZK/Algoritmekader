@@ -32,7 +32,7 @@ Zorg voor politiek-bestuurlijk bewustzijn, betrokkenheid, en verantwoordelijkhei
 ## Bronnen
 [Kleur bekennen - vervolgonderzoek algoritmes](https://rekenkamer.rotterdam.nl/onderzoeken/kleur-bekennen/)
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->

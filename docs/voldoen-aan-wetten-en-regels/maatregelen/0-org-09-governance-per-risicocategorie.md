@@ -34,7 +34,7 @@ Richt algoritmegovernance in op basis van de risicoclassificatie van algoritmes.
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 
 <!-- list_vereisten_on_maatregelen_page -->
 

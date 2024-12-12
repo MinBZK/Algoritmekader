@@ -31,7 +31,7 @@ Breng de volwassenheid van je organisatie op het gebied van algoritmes in kaart.
 
 ## Bronnen
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 

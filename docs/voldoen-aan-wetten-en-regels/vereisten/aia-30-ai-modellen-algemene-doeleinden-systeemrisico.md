@@ -47,6 +47,6 @@ Systeemrisico’s nemen logischerwijs toe naargelang de capaciteiten en het bere
 
 Niet voldoen aan deze verplichtingen kan leiden tot negatieve gevolgen voor de gezondheid, veiligheid, de openbare veiligheid, de grondrechten of de samenleving als geheel.
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/aia-30-ai-modellen-algemene-doeleinden-systeemrisico no-search no-onderwerp no-rol no-levenscyclus -->

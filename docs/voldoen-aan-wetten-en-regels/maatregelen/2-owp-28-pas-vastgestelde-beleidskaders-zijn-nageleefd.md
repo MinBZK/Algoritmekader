@@ -57,7 +57,7 @@ hide:
 - Vraag de [betrokken experts](1-pba-04-betrek-belanghebbenden.md) welke beleidskaders van toepassing zijn vanuit diens specifieke expertise. 
 - Ten behoeve van controles en audits is het van belang dat aantoonbaar wordt gemaakt dat de vastgestelde beleidskaders zijn nageleefd. 
   
-  ## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 

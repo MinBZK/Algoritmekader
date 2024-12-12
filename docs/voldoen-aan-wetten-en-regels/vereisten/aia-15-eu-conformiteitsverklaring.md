@@ -48,6 +48,6 @@ Voorbeelden hiervan zijn de naam en type van het AI-systeem, naam en adres van d
 Niet naleven van deze verplichtingen kan leiden tot juridische en operationele problemen, en kan de veiligheid en betrouwbaarheid van het AI-systeem in gevaar brengen.
 
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/aia-15-eu-conformiteitsverklaring no-search no-onderwerp no-rol no-levenscyclus -->

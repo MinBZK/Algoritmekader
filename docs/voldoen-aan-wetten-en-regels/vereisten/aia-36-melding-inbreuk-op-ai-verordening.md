@@ -45,6 +45,6 @@ Deze richtlijn bevordert transparantie en verantwoording binnen organisaties en 
 Gebrek aan een veilige omgeving kan ertoe leiden dat klokkenluiders geen melding maken van inbreuk op de AI-verordening.
  Dit schaadt het rapportagesysteem en heeft negatief effect op het maatschappelijk welzijn.
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/aia-36-melding-inbreuk-op-ai-verordening no-search no-onderwerp no-rol no-levenscyclus -->

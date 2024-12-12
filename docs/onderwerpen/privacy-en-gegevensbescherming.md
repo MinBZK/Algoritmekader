@@ -17,12 +17,12 @@ Het bouwblok privacy en gegevensbescherming van algoritmes wordt ook geïntegree
 Dit biedt inzicht in wanneer specifieke vereisten en maatregelen tijdens de ontwikkeling van algoritmes moeten worden toegepast. 
 Door deze vereisten in de levenscyclus te integreren, kunnen de gebruikers inzichten opdoen wanneer deze maatregelen kunnen worden geïmplementeerd. 
 
-## Vereisten
+## Vereisten { data-search-exclude }
 
 <!-- list_vereisten onderwerp/privacy-en-gegevensbescherming no-search no-onderwerp no-rol no-levenscyclus -->
 
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen onderwerp/privacy-en-gegevensbescherming no-search no-onderwerp no-rol no-levenscyclus -->
 

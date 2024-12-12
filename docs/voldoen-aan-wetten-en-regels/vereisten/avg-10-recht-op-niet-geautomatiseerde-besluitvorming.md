@@ -41,6 +41,6 @@ Uitgangspunt is dat voor elk individueel geval een zorgvuldige beoordeling van d
 
 Bij geautomatiseerde besluitvorming kan het risico ontstaan dat kenmerken van een bepaalde groep ten onrechte worden tegengeworpen aan een individu die deze kenmerken niet hoeft te bezitten.
 
-## Maatregelen 
+## Maatregelen { data-search-exclude } 
 
 <!-- list_maatregelen vereiste/avg-10-recht-op-niet-geautomatiseerde-besluitvorming no-search no-onderwerp no-rol no-levenscyclus -->

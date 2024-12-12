@@ -26,7 +26,7 @@ Beschrijf de wettelijke grondslag voor de inzet van het algoritme en de beoogde 
 - Als de verwachting is dat een algoritme tot gevolg heeft dat wordt ingegrepen in het leven of de vrijheid van mensen, en zeker als de verwachting is dat er grondrechten worden geraakt, moet er een wettelijke grondslag bestaan voor de inzet van het algoritme.
 - Voor het verwerken van persoonsgegevens is een wettelijke grondslag noodzakelijk. 
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 

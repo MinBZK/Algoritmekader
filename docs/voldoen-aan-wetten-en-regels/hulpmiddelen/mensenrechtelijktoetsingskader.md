@@ -49,7 +49,7 @@ Er komt daarbij veel kijken bij de beoordeling of een risicoprofiel binnen de gr
 ## Auteur
 Het Mensenrechtelijk Toetsingskader is ontwikkeld door het College voor de Rechten van de Mens.
 
-## Bijbehorende vereisten
+## Bijbehorende vereisten { data-search-exclude }
 
 <!-- list_vereisten_on_maatregelen_page -->
 

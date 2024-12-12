@@ -46,6 +46,6 @@ De gebruiksverantwoordelijke zorgt ervoor dat de inputdata relevant en voldoende
 Het niet naleven van deze maatregelen kan leiden tot onjuist gebruik van de AI-systemen, wat de effectiviteit en veiligheid ervan kan verminderen, en kan resulteren in risico's voor gebruikers en derden.
 
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/aia-20-gebruiksverantwoordelijken-maatregelen no-search no-onderwerp no-rol no-levenscyclus -->

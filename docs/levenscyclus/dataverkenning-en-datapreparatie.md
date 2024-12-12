@@ -20,11 +20,11 @@ In de praktijk zal bijvoorbeeld het analyseren van de data niet stoppen na deze 
 Als de verzamelde data van voldoende kwaliteit is en de vereiste maatregelen zijn getroffen, dan kan worden gestart met het ontwikkelen van het algoritme. 
 
 
-## Vereisten
+## Vereisten { data-search-exclude }
 
 <!-- list_vereisten levenscyclus/dataverkenning-en-datapreparatie no-rol no-levenscyclus no-search no-onderwerp -->
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen levenscyclus/dataverkenning-en-datapreparatie no-rol no-levenscyclus no-search no-onderwerp -->
 

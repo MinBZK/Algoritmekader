@@ -47,6 +47,6 @@ Voor toepassingen voor het verder verwerken van gegevens kan worden gedacht aan 
 Verdere verwerking van persoonsgegevens buiten een AI-testomgeving vergroot de kans op bijvoorbeeld het lekken van de persoonsgegevens, wat kan leiden tot een inbreuk op de privacyrechten van betrokken.
 
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/aia-33-verwerking-in-testomgeving no-search no-onderwerp no-rol no-levenscyclus -->

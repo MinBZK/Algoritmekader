@@ -1,5 +1,7 @@
 ---
 title: Woordenlijst
+search:
+  exclude: true
 ---
 <!-- let op! Deze definities staan nu dubbel (hieronder, en in de file includes/begrippenlijst.md) -->
 <!-- de definities in de file includes/begrippenlijst.md zorgen ervoor dat definities automatisch op pagina's worden weergegeven -->
@@ -8,7 +10,6 @@ title: Woordenlijst
 | Begrip | Definitie | 
 | ---- | ---- | 
 | aanbieder | Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een AI-systeem of een AI-model voor algemene doeleinden ontwikkelt of laat ontwikkelen en dat systeem of model in de handel brengt of het AI-systeem in gebruik stelt onder de eigen naam of merk, al dan niet tegen betaling. | 
-| aanbieders | Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een AI-systeem of een AI-model voor algemene doeleinden ontwikkelt of laat ontwikkelen en dat systeem of model in de handel brengt of het AI-systeem in gebruik stelt onder de eigen naam of merknaam, al dan niet tegen betaling. | 
 | aanbieder verder in de AI-waardeketen | Een aanbieder van een AI-systeem, met inbegrip van een AI-systeem voor algemene doeleinden, waarin een AI-model is geïntegreerd, ongeacht of het AI-model door hemzelf wordt verstrekt en verticaal geïntegreerd is of door een andere entiteit wordt aangeboden op basis van contractuele betrekkingen | 
 | aangemelde instantie | Een conformiteitsbeoordelingsinstantie die overeenkomstig de AI-verordening en andere relevante harmonisatiewetgeving van de Unie is aangemeld | 
 | aanmeldende autoriteit | De nationale autoriteit die verantwoordelijk is voor het opzetten en uitvoeren van de noodzakelijke procedures voor de beoordeling, aanwijzing en kennisgeving van de conformiteitsbeoordelingsinstanties en de monitoring hiervan | 
@@ -88,8 +89,3 @@ title: Woordenlijst
 | verwerker | Een .. rechtspersoon, een overheidsinstantie, een dienst of een ander orgaan die/dat ten behoeve van de verwerkingsverantwoordelijke persoonsgegevens verwerkt. | 
 | verwerkersverantwoordelijke | Een rechtspersoon of overheidsinstantie die, alleen of samen met anderen, het doel van en de middelen voor de verwerking van persoonsgegevens vaststelt | 
 | zwevendekommabewerking of “floating-point operation (FLOP) | Elke wiskundige bewerking of toewijzing met zwevendekommagetallen, die een subset vormen van de reële getallen die gewoonlijk op computers worden gerepresenteerd door een geheel getal met een vaste precisie, geschaald door een gehele exponent van een vaste basis |
-
-
-!!! info "Disclaimer"
-
-    Het Algoritmekader is nog volop in ontwikkeling. Op deze plek willen we vooral aan de slag gaan op een open en transparante wijze. Het is dus niet definitief. Dat betekent dat er dingen opstaan die niet af zijn en soms zelfs fout. Mocht er iets niet kloppen, laat het ons weten via [GitHub](https://github.com/MinBZK/Algoritmekader).

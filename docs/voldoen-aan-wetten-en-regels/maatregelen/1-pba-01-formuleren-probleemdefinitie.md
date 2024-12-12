@@ -25,7 +25,7 @@ Formuleer duidelijk de probleemdefinitie en probleemafbakening waarvoor het algo
 ## Toelichting
 Formuleer de probleemdefinitie en probleemafbakening zo concreet en precies mogelijk. Maak dit waar mogelijk kwantificeerbaar. 
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
@@ -33,7 +33,7 @@ Formuleer de probleemdefinitie en probleemafbakening zo concreet en precies moge
 Het algoritme dient niet het onderliggende probleem. 
 Zonder eenduidigheid over het op te lossen probleem is geen sturing op en verantwoording over het algoritme mogelijk. 
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 
 <!-- list_vereisten_on_maatregelen_page -->
 

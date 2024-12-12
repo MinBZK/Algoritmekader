@@ -47,6 +47,6 @@ Deze vereiste is ook van toepassing bij het ontwikkelen en gebruiken van algorit
 Het (onrechtmatige) verwerken van bijzondere categorieën persoonsgegevens brengt risico's met zich mee op het gebied van respecteren van de persoonlijke levenssfeer en discriminatie.
 
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/avg-08-wettelijke-verwerking-van-gevoelige-gegevens no-search no-onderwerp no-rol no-levenscyclus -->

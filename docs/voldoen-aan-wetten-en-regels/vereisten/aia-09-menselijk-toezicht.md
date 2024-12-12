@@ -59,6 +59,6 @@ In het geval van een hoog risico systeem als bedoeld in bijlage III, punt 1, a  
 Ontbreken van betekenisvol menselijk toezicht kan leiden tot gebrek aan controle en begrip over het functioneren van het AI-systeem, wat kan resulteren in ongewenste of onvoorspelbare uitkomsten.
 
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/aia-09-menselijk-toezicht no-search no-onderwerp no-rol no-levenscyclus -->

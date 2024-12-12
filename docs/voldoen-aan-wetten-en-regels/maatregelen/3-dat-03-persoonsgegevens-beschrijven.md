@@ -36,7 +36,7 @@ Er is een overzicht opgesteld welke persoonsgegevens mogen worden verwerkt en om
 - Voor [het beschermen van deze persoonsgegevens](3-dat-05-pseudonimiseren-anonimiseren.md) wordt per kenmerk aangegeven op welke manier deze kan worden beschermd (anonimiseren, pseudonomiseren, aggregeren). 
 - Een [DPIA](../hulpmiddelen/DPIA.md) kan worden gebruikt om bovenstaande activiteiten uit te voeren.
   
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 

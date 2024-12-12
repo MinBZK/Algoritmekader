@@ -48,6 +48,6 @@ Het doel is om de veiligheid en betrouwbaarheid van AI-systemen te waarborgen en
 ## Risico
 Het niet melden van ernstige incidenten kan leiden tot vertraagde reactie op potentiële gevaren voor gebruikers en kan het vertrouwen in AI-systemen ondermijnen.
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/aia-35-melding-ernstige-incidenten no-search no-onderwerp no-rol no-levenscyclus -->

@@ -44,6 +44,6 @@ De lidstaten mogen het in de handel brengen en het in gebruik stellen van AI-sys
 ## Risico
 Niet naleven van deze verplichtingen kan leiden tot juridische en operationele problemen, en kan de veiligheid en betrouwbaarheid van het AI-systeem in gevaar brengen.
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/aia-16-ce-markering no-search no-onderwerp no-rol no-levenscyclus -->

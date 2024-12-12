@@ -41,6 +41,6 @@ Dit vereiste is een aanvulling op de in artikel 53 AI-verordening genoemde verpl
 ## Risico
 Niet voldoen aan deze verplichtingen kan leiden tot risico's op veiligheidsincidenten, datalekken en schade aan de betrokken partijen en het publiek.
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/aia-31-ai-modellen-algemene-doeleinden-systeemrisico-ernstige-incidenten no-search no-onderwerp no-rol no-levenscyclus -->

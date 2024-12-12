@@ -35,7 +35,7 @@ Voer voorafgaand aan een project een data beschikbaarheids- en [datakwaliteitsan
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-- Het is van belang om voorafgaand aan een project vast te stellen of de data die noodzakelijk is om een algoritme te ontwikkelen of te kunnen gebruiken beschikbaar is, gaat worden en of de data van voldoende [kwaliteit]((3-dat-01-datakwaliteit.md) is.
+- Het is van belang om voorafgaand aan een project vast te stellen of de data die noodzakelijk is om een algoritme te ontwikkelen of te kunnen gebruiken beschikbaar is, gaat worden en of de data van voldoende [kwaliteit](3-dat-01-datakwaliteit.md) is.
 - Er moet worden onderzocht of en hoe data vanuit de eigen organisatie, die van een eventuele externe aanbieder of elders beschikbaar kan worden gesteld, kan worden opgeslagen en of goedkeuring kan worden gegeven voor het verwerken van de data.
 - De infrastructuur van de eigen organisatie en/of die van een eventuele externe aanbieder moet van voldoende niveau zijn om de beoogde verwerkingen uit te kunnen voeren.
 - Een dergelijke analyse levert inzichten op welke problemen er eventueel op dit vlak kunnen ontstaan en geeft input voor de verdere ontwikkeling of (in geval van inkoop) de behoeftestelling.

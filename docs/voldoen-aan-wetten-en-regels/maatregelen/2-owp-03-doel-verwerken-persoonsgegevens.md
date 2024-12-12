@@ -29,10 +29,9 @@ hide:
 Het doel voor het verwerken van persoonsgegevens met een algoritme is welbepaald en omschreven.
 
 ## Toelichting
- Persoonsgegevens mogen alleen worden verwerkt voor een ‘welbepaald, uitdrukkelijk omschreven en gerechtvaardigd’ doel;
-De wettelijke grondslag / wettelijke taak voor de verwerking van de persoonsgegevens moet zijn beschreven, bijvoorbeeld in een DPIA;
+Persoonsgegevens mogen alleen worden verwerkt voor een ‘welbepaald, uitdrukkelijk omschreven en gerechtvaardigd’ doel. De wettelijke grondslag voor de verwerking van de persoonsgegevens moet zijn beschreven.
 
-De verwerking van persoonsgevens voor het ontwikkelen en gebruiken van het algoritme of AI-systeem moet verenigbaar met het oorspronkelijke verwerkingsdoel (doelbinding). Eventuele verdere (subsidiaire) verwerkingen, zoals het verwerken van persoonsgegevens voor een onderzoek naar onbewuste vooringenomenheid, moeten uitdrukkelijk worden omschreven.
+De verwerking van persoonsgevens voor het ontwikkelen en gebruiken van een algoritme moet verenigbaar met het oorspronkelijke verwerkingsdoel (doelbinding). Eventuele verdere (subsidiaire) verwerkingen, zoals het verwerken van persoonsgegevens voor een onderzoek naar onbewuste vooringenomenheid, moeten uitdrukkelijk worden omschreven.
   
 Stel een overzicht op waarin is beschreven welke persoonsgegevens mogen worden verwerkt.
 Bij de persoonsgegevens is aangegeven om wat voor categorie persoonsgegevens het gaat.
@@ -56,7 +55,6 @@ Als het doel voor het verwerken van persoonsgegevens onvoldoende is omschreven e
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 3.01, 3.05](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Onderzoekskader Algoritmes Auditdienst Rijk, PRI.4](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) 
 - [Onderzoekskader Algoritmes Auditdienst Rijk, PRI.7](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) 
-
 
 ## Voorbeeld
 

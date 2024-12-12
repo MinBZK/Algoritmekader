@@ -3,103 +3,67 @@ title: Levenscyclus
 summary: Hulp per fase van de levenscyclus van algoritmes, zoals probleemanalyse, ontwerpen, ontwikkelen, implementeren en ermee stoppen.
 hide:
   - toc
+  - navigation
 ---
 
-# Levenscyclus van een algoritme
+# Levenscyclus algoritmes en AI
 
-Om algoritmes op een verantwoorde manier te gebruiken, zul je op de juiste momenten aandacht moeten hebben voor de juiste onderwerpen en risico's. 
-Van het ontwikkelen van een oplossing, tot het in gebruik nemen van die oplossing en er uiteindelijk weer mee stoppen.
-Door al in een vroeg stadium aandacht besteden aan bijvoorbeeld een eventuele inbreuk op mensenrechten kan je hier gedurende het hele proces al rekening mee houden. 
+<div style="margin-top:32px;" class="grid cards" markdown>
 
-De levenscyclus helpt je om te bepalen wat je wanneer moet doen.
+-  [__Fase 0: Organisatieverantwoordelijkheden__](organisatieverantwoordelijkheden.md)
+
+    ---
+
+    Voordat je start met de ontwikkeling of het gebruik van een algoritme, zul je moeten zorgen dat je organisatie voldoende ingericht is om algoritmes te gebruiken of te ontwikkelen.
+
+-   [__Fase 1: Probleemanalyse__](probleemanalyse.md)
+    
+    ---
+
+    In deze fase wordt het probleem en de doelstellingen van een opdrachtgever geanalyseerd en beschreven.
 
 
-/// html | div[style='float: left; width: 50%;']
+-   [__Fase 2: Ontwerp__](ontwerp.md)
 
-## Fases van de levenscyclus
+    ---
 
-<ol start="0">
-  <li> <a href="organisatieverantwoordelijkheden/">Organisatieverantwoordelijkheden</a></li>
-  <li> <a href="probleemanalyse/">Probleemanalyse</a></li>
-  <li> <a href="ontwerp/">Ontwerp</a></li>
-  <li> <a href="dataverkenning-en-datapreparatie/">Dataverkenning en datapreparatie</a></li>
-  <li> <a href="ontwikkelen/">Ontwikkelen</a></li>
-  <li> <a href="verificatie-en-validatie/">Verificatie en validatie</a></li>
-  <li> <a href="implementatie/">Implementeren</a></li>
-  <li> <a href="monitoring-en-beheer/">Monitoring en beheer</a></li>
-  <li> <a href="uitfaseren/">Uitfaseren</a></li>
-</ol>
+    In de ontwerpfase wordt het conceptuele ontwerp van het AI-systeem uitgedacht.
 
-## Systeemniveau en organisatieniveau
-De levenscyclus kent twee verschillende niveau's: 
+-   [__Fase 3: Dataverkenning en datapreparatie__](dataverkenning-en-datapreparatie.md)
 
-- **organisatieniveau**: Sommige vereisten zijn algemeen en vragen om een organisatiebrede aanpak. Dit gaat bijvoorbeeld om passende processen en risicomanagment in je organisatie. Of het creëeren van bewustzijn en kennis binnen je organisatie. In het ideale geval besteed je hier al aandacht aan voordat je begint met de ontwikkeling of het gebruik van algoritmes. Bij deze fase horen maatregelen die je niet voor ieder systeem opnieuw zal hoeven te bekijken.
-- **systeemniveau**: Sommige vereisten voor verantwoorde inzet van algoritmes zul je bij ieder algoritme weer opnieuw aandacht moeten geven. Dat geldt bijvoorbeeld voor het beschermen van grondrechten. 
+    ---
 
-///
+    Dit is de fase waarin het algoritme of AI-systeem wordt ontwikkeld door het ontwikkelteam.
 
-/// html | div[style='float: right;width: 50%;']
+-   [__Fase 4: Ontwikkelen__](ontwikkelen.md)
 
-```mermaid
+    ---
 
-  flowchart TD
-      subgraph organisatieniveau [organisatieniveau &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp]
-        0(0. Organisatieverantwoordelijkheden) --> 1(1. Probleemanalyse);
-        subgraph systeemniveau [systeemniveau &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp]
-          7(7. Monitoring en beheer) --> 1(1. Probleemanalyse);
-          1(1. Probleemanalyse) --> 2(2. Ontwerp);
-          2(2. Ontwerp) --> 3(3. Dataverkenning en datapreparatie);
-          3(3. Dataverkenning en datapreparatie) --> 4(4. Ontwikkelen);
-          4(4. Ontwikkelen) --> 5(5. Verificatie en validatie);
-          5(5. Verificatie en validatie) --> 6(6. Implementatie);
-          6(6. Implementatie) --> 7(7. Monitoring en beheer);
-          7(7. Monitoring en beheer) -.-> 8(8. Uitfaseren);
-        end
-      end
+    Dit is de fase waarin het algoritme of AI-systeem wordt ontwikkeld door het ontwikkelteam.
 
-      click 0 href "organisatieverantwoordelijkheden"
-      click 1 href "probleemanalyse"
-      click 2 href "ontwerp"
-      click 3 href "dataverkenning-en-datapreparatie"
-      click 4 href "ontwikkelen"
-      click 5 href "verificatie-en-validatie"
-      click 6 href "implementatie"
-      click 7 href "monitoring-en-beheer"
-      click 8 href "uitfaseren"
+-   [__Fase 5: Verificatie en validatie__](verificatie-en-validatie.md)
 
-      style 0 color:#fff, fill:#1975d2, stroke:#1975d2, text-decoration:underline;
-      style 1 color:#fff, fill:#1975d2, stroke:#1975d2, text-decoration:underline;
-      style 2 color:#fff, fill:#1975d2, stroke:#1975d2, text-decoration:underline;
-      style 3 color:#fff, fill:#1975d2, stroke:#1975d2, text-decoration:underline;
-      style 4 color:#fff, fill:#1975d2, stroke:#1975d2, text-decoration:underline;
-      style 5 color:#fff, fill:#1975d2, stroke:#1975d2, text-decoration:underline;
-      style 6 color:#fff, fill:#1975d2, stroke:#1975d2, text-decoration:underline;
-      style 7 color:#fff, fill:#1975d2, stroke:#1975d2, text-decoration:underline;
-      style 8 color:#fff, fill:#1975d2, stroke:#1975d2, text-decoration:underline;
+    ---
 
-      style organisatieniveau fill:transparant
+    Bij de verificatie en validatie van het algoritme of AI-systeem dient bepaald te worden of het algoritme of AI-systeem gebouwd is volgens de (technische) specificaties en voldoet aan de beoogde doelstellingen.
 
-```
-///
+-   [__Fase 6: Implementatie__](implementatie/)
 
-/// html | div[style='clear: both;']
-///
+    ---
 
-!!! tip "Tip"
+    In deze fase wordt het algoritme of AI-systeem in de praktijk gebracht en duurzaam geïntegreerd in het bedrijfsproces.
 
-    In de praktijk herhaal je soms fases of ga je terug naar een eerdere fase. Mislukt bijvoorbeeld het valideren (fase 5), dan moet je terug naar de ontwerpfase (fase 2) omdat het product nog niet voldoet aan de wensen of vereisten.
+-  [__Fase 7: Monitoring en beheer__](monitoring-en-beheer/)
 
-## Andere levenscyclusmodellen
+    ---
 
-De 9 fasen van de levenscyclus zijn gebaseerd op 10 belangrijke levenscyclusmodellen voor het ontwikkelen van AI, zoals:
+    Het algoritme of AI-systeem wordt in deze fase voortdurend gemonitord om ervoor te zorgen dat het blijft presteren zoals verwacht en kan worden gebruikt door gebruikers.
 
-- CRISP-DM (cross-industry standard process for data mining)
-- ASUM-DM (analytics solutions unified method)
-- SEMMA (Sample, Explore, Modify, Model, and Assess)
-- Microsoft TDSP (Team Data Science Process)
-- MDLM (mobile device lifecycle management)
-- NIST (National Institute of Standards and Technology)
-- ISO/IEC 22989
+-   [__Fase 8: Uitfaseren__](uitfaseren/)
 
-Deze 9 fasen passen zo goed mogelijk bij de manier van werken van overheden.
-Het is geen verplicht model. Mogelijk past een ander levenscyclusmodel beter bij jouw organisatie.
+    ---
+
+    Als wordt besloten dat het algoritme of AI-systeem niet langer nodig is of wordt vervangen door een wezenlijk andere versie, wordt het gearchiveerd en uitgefaseerd.
+
+
+</div>

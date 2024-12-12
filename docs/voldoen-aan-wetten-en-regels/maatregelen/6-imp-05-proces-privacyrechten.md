@@ -34,8 +34,8 @@ Richt een proces in waarmee betrokkenen hun privacyrechten kunnen inroepen als a
 - Bij het inrichten van  servicemanagement moet zijn nagedacht over hoe een verzoek tot het inzien, rectificeren, verwijderen of beperken van de verwerking van persoonsgegevens op een betekenisvolle manier kan of moet worden behandeld.
   
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Betrokkenen hebben geen controle over hun persoonsgegevens doordat ze geen beroep kunnen doen op hun privacyrechten. 

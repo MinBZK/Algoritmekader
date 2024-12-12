@@ -42,8 +42,8 @@ Maak de aansprakelijkheidsvoorwaarden die een aanbieder stelt ten aanzien van au
 
 
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 

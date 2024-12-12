@@ -26,12 +26,16 @@ Formuleer duidelijk de probleemdefinitie en probleemafbakening waarvoor het algo
 Formuleer de probleemdefinitie en probleemafbakening zo concreet en precies mogelijk. Maak dit waar mogelijk kwantificeerbaar. 
 
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Het algoritme dient niet het onderliggende probleem. 
 Zonder eenduidigheid over het op te lossen probleem is geen sturing op en verantwoording over het algoritme mogelijk. 
+
+## Bijbehorende vereiste(n)
+
+<!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 

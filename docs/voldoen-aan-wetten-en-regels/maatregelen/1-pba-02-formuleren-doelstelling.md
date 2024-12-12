@@ -35,8 +35,8 @@ Welke doelen zijn subdoelen, waarvoor het minder belangrijk is om deze te realis
 Hierbij kan het ook helpen om burgers te betrekken bij de totstandkoming van de doelstellingen, bijvoorbeeld door middel van een burgerpanel of het betrekken van belangengroepen. 
 
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Het algoritme dient niet het beoogde doel en onderliggend probleem. 
@@ -44,7 +44,11 @@ Zonder eenduidigheid over het doel is geen sturing op en verantwoording over het
 Er is dan een groter risico op fouten en/of verschillen in interpretatie. 
 
 Wanneer doelstellingen niet meetbaar zijn gemaakt, is het onmogelijk om achteraf te kwantificeren of de doelstellingen zijn behaald. 
-Doelstellingen zijn in dat geval moeilijk bespreekbaar.  
+Doelstellingen zijn in dat geval moeilijk bespreekbaar.
+
+## Bijbehorende vereiste(n)
+
+<!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 

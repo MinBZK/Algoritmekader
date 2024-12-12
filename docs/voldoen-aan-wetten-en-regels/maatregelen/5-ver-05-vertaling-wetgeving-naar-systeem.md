@@ -42,8 +42,8 @@ Stel regelmatig vast dat wetgeving en (lokaal) beleid correct is vertaald naar d
 - Het is dan raadzaam om de uitvoering van het betreffende werkproces en de werking van onderliggende systemen eerst te 'herstellen' en om hiermee een nieuw datafundament te creëeren (eerst een groot aantal zaken behandelen) die later als trainingsdata kan worden gebruikt. 
   
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Een beslissing of besluit wordt niet conform wetgeving genomen en is daarmee onrechtmatig, als geen goede vertaling wordt gemaakt van wetgeving naar het algoritme. 

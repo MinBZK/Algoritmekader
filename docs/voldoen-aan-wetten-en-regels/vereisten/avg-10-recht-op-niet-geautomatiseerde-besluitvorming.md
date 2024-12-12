@@ -37,13 +37,13 @@ Het besluit mag in die gevallen niet geautomatiseerd worden genomen. Een individ
 
 #### Profilering
 
-Elke vorm van een geautomatiseerde verwerking van persoonsgegevens waarbij aan de hand van persoonsgegevens bepaalde persoonlijke aspecten van een natuurlijke persoon worden geëvalueerd, met name met de bedoeling zijn beroepsprestaties, economische situatie, gezondheid, persoonlijke voorkeuren, interesses, betrouwbaarheid, gedrag, locatie of verplaatsingen te analyseren of te voorspellen. 
+Profilering is bijzonder gevoelig. Bij profilering gaat het om elke vorm van een geautomatiseerde verwerking van persoonsgegevens, waarbij aan de hand van persoonsgegevens bepaalde persoonlijke aspecten van een natuurlijke persoon worden geëvalueerd. Daarbij gaat het voornamelijk om het analyseren of verspellen van zaken als beroepsprestaties, economische situatie, gezondheid, persoonlijke voorkeuren, interesses, betrouwbaarheid, gedrag, locatie of een verplaatsingen. 
 
-Profilering is bijzonder gevolg. Volgens deze definitie gaat het om een verwerking door een computersysteem waarbij het systeem algemene aanname(s) toegepast in een concreet geval, door een individu met gebruikmaking van diens persoonsgegevens in te delen in een categorie(profiel), vaak in verband met aan dat profiel toegedichte risico's. De gevoeligheid is dat niet is vastgesteld dat die algemene aannames voor dat individu in de werkelijkheid ook opgaan. Als daar wel ook automatisch gevolgen aan worden verbonden voor dat individu, ontstaat daarom inherent een risico op ongerechtvaardigde uitkomsten. 
+Volgens deze definitie gaat het om een verwerking door een computersysteem waarbij het systeem algemene aanname(s) toegepast in een concreet geval. Dit doet het door een individu, met gebruikmaking van diens persoonsgegevens, in te delen in een categorie(profiel). Een dergelijk categorie(profiel) wordt vaak in verband gebracht met bepaalde risico's, bijvoorbeeld het risico op het misbruiken van bepaalde publieke voorzieningen. De gevoeligheid is dat nog niet is vastgesteld dat, in dit voorbeeld, de betreffende natuurlijke persoon ook daadwerkelijk misbruik heeft gemaakt van bepaalde voorzieningen. Als daar wel automatisch gevolgen aan worden verbonden, ontstaat het risico op een onrechtmatige behandeling van een natuurlijk persoon. 
 
 #### Besluit
 
-In de context van deze vereist het begrip 'besluit' naar art. 22 AVG, niet naar het bredere besluitbegrip uit artikel 1:3 Algemene wet bestuursrecht (Awb). Bedacht moet worden dat het in de context van de AVG per definitie gaat om iets dat automatisch door een computersysteem wordt gedaan. Daar kunnen rechtsgevolgen aan verbonden zijn, maar ‘slechts’ feitelijke gevolgen kunnen ook relevant zijn.
+In deze context moet het begrip 'besluit' worden gehanteerd zoals dit is bedoeld in artikel 22 AVG. Het begrip 'besluit' krijgt in de AVG een ruimere betekenis dan het geval is in artikel 1:3 Algemene wet bestuursrecht (Awb). In de Algemene wet bestuursrecht moet er sprake zijn van een 'rechtsgevolg', maar onder het besluitbegrip van de AVG kunnen ook situaties vallen waarin een individu ‘slechts’ feitelijke gevolgen ervaart als een besluit wordt genomen. Daarmee biedt de AVG dus bescherming voor meerdere situaties. 
 
 #### Rechtsgevolgen
 

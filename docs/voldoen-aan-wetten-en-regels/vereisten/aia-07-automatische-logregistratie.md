@@ -1,5 +1,5 @@
 ---
-title: Hoog-risico AI-systemen loggen automatisch bepaalde gegevens
+title: Hoog-risico-AI-systemen loggen automatisch bepaalde gegevens
 id: urn:nl:ak:ver:aia-07
 toelichting: AI-systemen met een hoog risico zijn dusdanig technisch vormgegeven dat gebeurtenissen gedurende hun levenscyclus automatisch worden geregistreerd (“logs”).
 levenscyclus:

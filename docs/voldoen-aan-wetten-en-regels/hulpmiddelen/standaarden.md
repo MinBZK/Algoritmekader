@@ -70,12 +70,13 @@ Andere normen, TR's en TS's die van belang zijn voor Nederlandse overheidsorgani
 | ISO/IEC 5259-3               | Artificial intelligence - Data quality for analytics and machine learning (ML) - Part 3: Data quality management requirements and guidelines | ISO Norm                    |
 | ISO/IEC 5259-4               | Artificial intelligence - Data quality for analytics and machine learning (ML) - Part 4: Data quality process framework | ISO Norm                    |
 | ISO/IEC 5339                 | Information technology - Artificial intelligence - Guidance for AI applications               | ISO Norm                    |
-| ISO/IEC TR 24029-1           | Artificial Intelligence (AI) - Assessment of the robustness of neural networks - Part 1: Overview | Technical Report            |
-| ISO/IEC TR 24030             | Information technology - Artificial intelligence (AI) - Use cases                             | Technical Report            |
-| ISO/IEC TR 24372             | Information technology - Artificial intelligence (AI) - Overview of computational approaches for AI systems | Technical Report            |
-| ISO/IEC TR 29119-11          | Software and systems engineering - Software testing - Part 11: Guidelines on the testing of AI-based systems | Technical Report            |
-| ISO/IEC TS 25058             | Systems and software engineering - Systems and software Quality Requirements and Evaluation (SQuaRE) - Guidance for quality evaluation of artificial intelligence (AI) systems | Technical Specification      |
-| ISO/IEC TS 4213              | Information technology - Artificial intelligence - Assessment of machine learning classification performance | Technical Specification      |
+| TR 18115:2024                | Gegevensbeheer en -kwaliteit voor AI binnen de Europese context               | Technisch Rapport                    |
+| ISO/IEC TR 24029-1           | Artificial Intelligence (AI) - Assessment of the robustness of neural networks - Part 1: Overview | Technisch Rapport            |
+| ISO/IEC TR 24030             | Information technology - Artificial intelligence (AI) - Use cases                             | Technisch Rapport            |
+| ISO/IEC TR 24372             | Information technology - Artificial intelligence (AI) - Overview of computational approaches for AI systems | Technisch Rapport            |
+| ISO/IEC TR 29119-11          | Software and systems engineering - Software testing - Part 11: Guidelines on the testing of AI-based systems | Technisch Rapport            |
+| ISO/IEC TS 25058             | Systems and software engineering - Systems and software Quality Requirements and Evaluation (SQuaRE) - Guidance for quality evaluation of artificial intelligence (AI) systems | Technische Specificatie      |
+| ISO/IEC TS 4213              | Information technology - Artificial intelligence - Assessment of machine learning classification performance | Technische Specificatie      |
 | NEN-EN-ISO/IEC 22989        | Information technology - Artificial intelligence - Artificial intelligence concepts and terminology | Europese Norm               |
 | NEN-EN-ISO/IEC 23053        | Framework for Artificial Intelligence (AI) Systems Using Machine Learning (ML)                | Europese Norm               |
 | NEN-EN-ISO/IEC 23894        | Information technology - Artificial intelligence - Guidance on risk management                | Europese Norm               |
@@ -90,6 +91,7 @@ Andere normen, TR's en TS's die van belang zijn voor Nederlandse overheidsorgani
 | NPR-ISO/IEC/TR 24368        | Information technology - Artificial intelligence - Overview of ethical and societal concerns  | Nederlandse Praktijk Richtlijn |
 | NVN-ISO/IEC TS 8200         | Information technology - Artificial intelligence - Controllability of automated artificial intelligence systems | Nederlandse Voornorm         |
 
+Voor meer informatie over de gehanteerde termen, zie ook hierboven, of [lees meer op de website van NEN](https://www.nen.nl/verschillende-typen-afspraken).
 
 
 ## Wat moeten Nederlandse overheidsorganisaties doen?

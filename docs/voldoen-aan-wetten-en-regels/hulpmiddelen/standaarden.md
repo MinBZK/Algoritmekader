@@ -3,9 +3,7 @@ hide: navigation
 ---
 
 ## Wat zijn standaarden?
-Standaarden zijn afspraken die worden vastgelegd om ervoor te zorgen dat producten, processen of diensten voldoen aan specifieke eisen op het gebied van kwaliteit, veiligheid en prestaties.
-Binnen de AI-verordening spelen standaarden een cruciale rol, omdat ze organisaties helpen om te voldoen aan de wettelijke eisen.
-Wanneer AI-systemen worden ontworpen of gebruikt, bieden standaarden praktische richtlijnen en technische kaders waarmee compliance aantoonbaar kan worden gemaakt.
+Standaarden zijn afspraken die worden vastgelegd om ervoor te zorgen dat producten, processen of diensten voldoen aan specifieke eisen op het gebied van kwaliteit, veiligheid en prestaties. Ze worden ontwikkeld door standaardisatieorganisaties, meestal op initiatief van belanghebbenden die een behoefte aan een bepaalde standaard zien, zoals de Europese Commissie, bij of na het ontwikkelen van Europese regelgeving.
 
 Er zijn verschillende soorten standaarden, zoals normen, Technische Rapporten (TR) en Technische Specificaties (TS).
 
@@ -18,12 +16,14 @@ Europese normen zijn essentieel voor de AI Verordening, omdat ze geharmoniseerde
 Veel Europese normen beginnen als internationale ISO-normen en worden vervolgens aangepast aan de Europese context.
 
 ## Waarom zijn standaarden belangrijk voor de AI-verordening?
-Standaarden zijn onmisbaar binnen de AI-verordening omdat ze organisaties helpen om te voldoen aan wettelijke eisen.
-Wanneer een organisatie zich houdt aan de bijbehorende _geharmoniseerde Europese normen_, kun je bewijzen dat er wordt voldaan aan de AI-verordening (Presumption of Conformity).
+Wanneer AI-systemen worden ontworpen of gebruikt, bieden standaarden praktische richtlijnen en technische kaders (praktische meerwaarde) waarmee compliance aantoonbaar kan worden gemaakt (juridische meerwaarde).
+
+### Juridische waarde van standaarden
+Als een organisatie zich houdt aan de bij de wet behorende _geharmoniseerde Europese normen_, wordt er vanuit gegaan dat er wordt voldaan aan de AI-verordening (_Presumption of Conformity_).
 Dit betekent dat het AI-systeem wordt beschouwd als conform de wettelijke vereisten, wat zorgt voor juridische zekerheid en eenvoudiger toezicht​.
 
-Geharmoniseerde normen hebben daarnaast een duidelijke praktische waarde. Ze vertalen abstracte wettelijke verplichtingen uit de AI-verordening naar concrete technische en organisatorische eisen, bijvoorbeeld op het gebied van risicomanagement en kwaliteitsmanagement, maar ook voor [duurzaamheid](../../onderwerpen/duurzaamheid.md) en [transparantie](../../onderwerpen/transparantie.md)​.
-In de praktijk helpen standaarden organisaties bij het ontwikkelen en implementeren van betrouwbare AI-systemen.
+### Praktische waarde van standaarden
+Geharmoniseerde normen hebben daarnaast een duidelijke praktische waarde. Ze vertalen abstracte wettelijke verplichtingen uit de AI-verordening naar concrete technische en organisatorische eisen, bijvoorbeeld op het gebied van risicomanagement en kwaliteitsmanagement, maar ook voor [duurzaamheid](../../onderwerpen/duurzaamheid.md) en [transparantie](../../onderwerpen/transparantie.md)​. Zo helpen standaarden organisaties dus bij het ontwikkelen en implementeren van betrouwbare AI-systemen.
 
 ## Wat is er al beschikbaar? Een overzicht van bestaande standaarden
 

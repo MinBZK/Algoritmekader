@@ -55,11 +55,7 @@ Wat in deze 10 standaardisatieverzoeken nog niet terugkomt, maar wel in het Algo
 - Werkgroep JTC 21 heeft een "preliminary work item" genaamd _'Guidelines and metrics for the Environmental Impact of Artificial Intelligence Systems and Services'_ wat nog aan werk onderhevig is.
 
 ### Welke standaarden, rapporten en specificaties zijn er al?
-Op dit moment zijn er verschillende Technische Rapporten, Technische Specificaties en Normen (lees hierboven meer over het verschil) die al van belang zijn voor algoritmes, waaronder AI:
-
-- ["TR 18115:2024 Gegevensbeheer en -kwaliteit voor AI binnen de Europese context"](https://www.nen.nl/cen-clc-tr-18115-2024-en-331232). Omdat dit een TR betreft, wordt het geen _geharmoniseerde_ standaard, en krijgt het dus ook niet de eerdergenoemde "aanname van conformiteit". Wel biedt het alvast een inzicht in wat er allemaal veronderstelt kan worden bij gegevensbeheer (vaak ook _data governance_ genoemd) en -kwaliteit (_datakwaliteit_), waar een standaardisatieverzoek voor ligt.
-
-Andere normen, TR's en TS's die van belang zijn voor Nederlandse overheidsorganisaties:
+Op dit moment zijn er verschillende Technische Rapporten, Technische Specificaties en Normen (lees hierboven meer over het verschil) die al van belang zijn voor AI:
 
 | Norm                          | Titel                                                                                         | Status                      |
 |-------------------------------|-----------------------------------------------------------------------------------------------|-----------------------------|
@@ -106,7 +102,7 @@ Hoe gebruik je standaarden?
 Door standaarden actief te gebruiken, kunnen overheidsorganisaties hun AI-systemen veiliger en betrouwbaarder maken en tegelijkertijd voldoen aan de wettelijke vereisten van de AI-verordening.
 
 
-## Verwachte ontwikkelingen
+## Verwachte ontwikkelingen en tijdlijn
 tijdlijn?
 
 
@@ -118,6 +114,7 @@ Omdat de door JTC 21 ontwikkelde geharmoniseerde Europese normen straks juridisc
 ## Bronnen
 Lijst van gebruikte bronnen, standaarden, en aanvullende documentatie
 
+- [Harmonised Standards for the European AI Act - Science for Policy brief, Joint Research Centre (Europese Commissie)](https://publications.jrc.ec.europa.eu/repository/handle/JRC139430)
 - [Standards in Europe](https://europa.eu/youreurope/business/product-requirements/standards/standards-in-europe/index_en.htm)
 - [Artificial Intelligence en Big Data, NEN](https://www.nen.nl/en/normcommissie-artificial-intelligence-en-big-data)
 - 'AI Act Compact: Compliance, Management & Use Cases in Corporate Practice', Peter Hense, Tea Mustac, 2024

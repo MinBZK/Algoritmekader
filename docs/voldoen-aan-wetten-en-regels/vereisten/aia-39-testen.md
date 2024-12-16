@@ -35,7 +35,7 @@ Het testen van AI-systemen met een hoog risico vindt, zoals passend, in de loop 
 
 Er wordt getest aan de hand van vooraf vastgestelde beoordelingsmaatstaven en probabilistische drempels die passend zijn voor het beoogde doel van het AI-systeem met een hoog risico. De procedures voor testen zijn onderdeel van het [kwaliteitsbeheer](aia-11-systeem-voor-kwaliteitsbeheer.md). 
 
-Bij het verwerken van persoonsgegevens voor het ontwikkelen, trainen en testen van een AI-systeem in AI-testomgeving, wordt een volledige en gedetailleerde beschrijving van het testproces en de testresultaten onderdeel van de technische documentatie.
+Bij het verwerken van persoonsgegevens voor het ontwikkelen, trainen en testen van een AI-systeem in een AI-testomgeving, wordt een volledige en gedetailleerde beschrijving van het testproces en de testresultaten onderdeel van de technische documentatie.
 
 ### Testen van AI-systemen met een hoog risico onder reële omstandigheden buiten AI-testomgevingen
 AI-systemen met een hoog risico kunnen onder reële omstandigheden buiten AI-testomgevingen voor regelgeving worden getest door aanbieders of potentiële aanbieders van in bijlage III vermelde AI-systemen met een hoog risico in overeenstemming met dit artikel en het in dit artikel bedoelde plan voor tests onder reële omstandigheden, onverminderd de verbodsbepalingen krachtens artikel 5 AI-Verordening.

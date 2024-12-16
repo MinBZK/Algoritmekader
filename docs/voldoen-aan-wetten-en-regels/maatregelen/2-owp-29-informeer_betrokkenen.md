@@ -71,7 +71,6 @@ Het risico is dat partijen niet of onvolledig worden geïnformeerd over de ontwi
 
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
-Algoritmekader
   
 ## Voorbeeld
 

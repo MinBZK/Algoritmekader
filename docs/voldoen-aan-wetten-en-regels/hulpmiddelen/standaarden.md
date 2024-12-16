@@ -1,4 +1,4 @@
----
+<img width="470" alt="image" src="https://github.com/user-attachments/assets/9f875517-d4b5-4829-abbd-fe84a10ec637" />---
 hide: navigation
 ---
 
@@ -15,9 +15,9 @@ Er zijn verschillende soorten standaarden, zoals normen, Technische Rapporten (T
 
     Zowel een Technisch Rapport als een Technische Specificatie bieden dus ondersteuning in situaties waar nog geen norm bestaat of waar consensus nog niet is bereikt. Dus een TS of TR kan ook zeker interessante informatie bevatten voor organisaties, maar ze hebben niet de status of juridische binding van een norm.
 
-Daarnaast is er onderscheid tussen internationale normen (ISO), Europese normen (EN) en Nederlandse normen (NEN).
-Europese normen zijn essentieel voor de AI Verordening, omdat ze geharmoniseerde standaarden bieden die juridische zekerheid verschaffen, met name voor hoog-risico AI-systemen.
-Veel Europese normen beginnen als internationale ISO-normen en worden vervolgens aangepast aan de Europese context.
+Daarnaast is er onderscheid tussen internationale normen (ISO), Europese normen (EN) en Nederlandse normen (NEN). De NEN onderscheidt ook [verschillende typen afspraken](https://www.nen.nl/verschillende-typen-afspraken), zoals Nederlandse praktijkrichtlijn (NPR) of Nederlandse voornorm (NVN).
+
+Europese normen zijn essentieel voor de AI Verordening, omdat ze geharmoniseerde standaarden bieden die juridische zekerheid verschaffen, met name voor hoog-risico AI-systemen. Veel Europese normen beginnen als internationale ISO-normen en worden vervolgens aangepast aan de Europese context.
 
 ## Waarom zijn standaarden belangrijk voor de AI-verordening?
 Wanneer AI-systemen worden ontworpen of gebruikt, bieden standaarden praktische richtlijnen en technische kaders (praktische meerwaarde) waarmee compliance aantoonbaar kan worden gemaakt (juridische meerwaarde).

@@ -58,15 +58,16 @@ Stel een communicatieplan op over de ontwikkeling en gebruik van het algoritme. 
 
 Overleg regelmatig met betrokkenen en [belanghebbenden](1-pba-04-betrek-belanghebbenden.md) in hoeverre de informatieverstrekking aansluit bij de (nieuwe) behoeften.
 
-## Risico 
-<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Het risico is dat partijen niet of onvolledig worden geïnformeerd over de ontwikkeling en gebruik van algoritmes, en hierdoor hun rechten niet kunnen effectueren of belangen kenbaar kunnen maken.
-
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
 <!-- list_vereisten_on_maatregelen_page -->
+
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Het risico is dat partijen niet of onvolledig worden geïnformeerd over de ontwikkeling en gebruik van algoritmes, en hierdoor hun rechten niet kunnen effectueren of belangen kenbaar kunnen maken.
+
 
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->

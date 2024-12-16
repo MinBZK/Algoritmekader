@@ -23,7 +23,7 @@ Veel Europese normen beginnen als internationale ISO-normen en worden vervolgens
 Wanneer AI-systemen worden ontworpen of gebruikt, bieden standaarden praktische richtlijnen en technische kaders (praktische meerwaarde) waarmee compliance aantoonbaar kan worden gemaakt (juridische meerwaarde).
 
 ### Juridische waarde van standaarden
-Als een organisatie zich houdt aan de bij de wet behorende _geharmoniseerde Europese normen_, wordt er vanuit gegaan dat er wordt voldaan aan de AI-verordening (_Presumption of Conformity_). Dit betekent dat het AI-systeem wordt beschouwd als conform de wettelijke vereisten, wat zorgt voor juridische zekerheid en eenvoudiger toezicht​.
+Als een organisatie zich houdt aan de bij de wet behorende _geharmoniseerde Europese normen_, wordt aangenomen dat er wordt voldaan aan de AI-verordening (_Presumption of Conformity_). Dit betekent dat het AI-systeem wordt beschouwd als conform de wettelijke vereisten, wat zorgt voor juridische zekerheid en eenvoudiger toezicht​.
 Hoewel het gebruik van standaarden vrijwillig is, bewijst naleving ervan dat producten en diensten een bepaald niveau van kwaliteit, veiligheid en betrouwbaarheid bereiken. In sommige gevallen worden standaarden in de wetgeving genoemd als een voorkeursmethode of zelfs als een verplichte vereiste om aan specifieke wetten te voldoen, zoals veiligheidswetgeving of interoperabiliteitsvereisten. 
 
 ### Praktische waarde van standaarden
@@ -48,13 +48,14 @@ Er zijn standaardisatieverzoeken gedaan door de Europese Commissie op 10 specifi
 #### Technische Rapporten en Specificaties voor duurzaamheid
 Wat in deze 10 standaardisatieverzoeken nog niet terugkomt, maar wel in het Algoritmekader, is [duurzaamheid](../../onderwerpen/duurzaamheid.md). Momenteel worden er wel enkele TR's en TS's ontwikkeld. Zodra die bekend zijn, zullen deze worden aangevuld met meer informatie of links.
 
-- _TR 20226_ _'Environmental sustainability aspects of AI systems'_ is een technische specificatie (TS), geen standaard. Dit TS bevindt zich in de 'committee draft' fase, wat wil zeggen dat er een concept is waar nog overeenstemming over moet worden gevonden.
+- _[TR 20226](https://www.iso.org/standard/86177.html) 'Environmental sustainability aspects of AI systems'_ is een technisch rapport (TS), geen standaard. Dit TS bevindt zich in de 'committee draft' fase, wat wil zeggen dat er een concept is waar nog overeenstemming over moet worden gevonden.
 - _TR 18145 'Environmentally sustainable Artificial Intelligence'_ is een technisch rapport (TR). Het is nu "under approval".
 - Werkgroep JTC 21 heeft een "preliminary work item" genaamd _'Guidelines and metrics for the Environmental Impact of Artificial Intelligence Systems and Services'_ wat nog aan werk onderhevig is.
 
 ### Welke standaarden, rapporten en specificaties zijn er al?
 Op dit moment zijn er verschillende Technische Rapporten, Technische Specificaties en Normen (lees hierboven meer over het verschil) die al van belang zijn voor algoritmes, waaronder AI:
 
+- ["TR 18115:2024 Gegevensbeheer en -kwaliteit voor AI binnen de Europese context"](https://www.nen.nl/cen-clc-tr-18115-2024-en-331232). Omdat dit een TR betreft, wordt het geen _geharmoniseerde_ standaard, en krijgt het dus ook niet de eerdergenoemde "aanname van conformiteit". Wel biedt het alvast een inzicht in wat er allemaal veronderstelt kan worden bij Datagovernance en kwaliteit, waar een standaardisatieverzoek voor ligt.
 - 
 
 

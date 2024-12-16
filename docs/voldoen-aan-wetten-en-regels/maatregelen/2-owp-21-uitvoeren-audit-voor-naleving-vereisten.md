@@ -95,15 +95,15 @@ Neem het kunnen uitvoeren van een audit over de vereiste op in contractvoorwaard
 <!-- Geef hier een toelichting van deze maatregel -->
 Het is van belang dat opdrachtgever mogelijkheden heeft om te controleren in hoeverre door aanbieder/opdrachtnemer wordt voldaan aan naleving van de contractvoorwaarden
 
-## Risico 
-<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Er kunnen geen controles of inspecties worden uitgevoerd om te beoordelen of de algoritmes van aanbieder nog voldoen aan de vereisten voor een verantwoorde inzet van algoritmes. 
-
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
 <!-- list_vereisten_on_maatregelen_page -->
+
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Er kunnen geen controles of inspecties worden uitgevoerd om te beoordelen of de algoritmes van aanbieder nog voldoen aan de vereisten voor een verantwoorde inzet van algoritmes. 
 
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->

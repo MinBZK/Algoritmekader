@@ -1,7 +1,8 @@
 ---
-title: Personeel en gebruikers zijn voldoende AI-geletterd
+title: Personeel en gebruikers zijn voldoende AI-geletterd.
 id: urn:nl:ak:ver:aia-01
-toelichting: Aanbieders en gebruiksverantwoordelijken van AI-systemen moeten ervoor zorgen dat hun personeel en andere betrokkenen voldoende kennis hebben van AI. Dit omvat het bevorderen van kennis over de techniek, evenals kennis over de context waarin de AI-systemen worden gebruikt. Het doel is om een adequaat niveau van begrip en vaardigheden te waarborgen, wat bijdraagt aan een verantwoord gebruik van AI en het minimaliseren van risico's.
+toelichting: Aanbieders en gebruiksverantwoordelijken van AI-systemen moeten ervoor zorgen dat hun personeel en andere betrokkenen voldoende kennis hebben van AI. 
+
 levenscyclus: 
 - organisatieverantwoordelijkheden
 onderwerp: 
@@ -52,6 +53,7 @@ Vanaf februari 2025 treedt deze vereiste in werking.
 ## Risico 
 
 Onvoldoende AI-geletterdheid kan leiden tot misbruik of onjuist gebruik van AI-systemen en tot situaties waarin AI-systemen verkeerd worden ingezet, onbedoeld gebruikt worden voor taken waar ze niet geschikt voor zijn, of dat de veiligheid en effectiviteit van de systemen in het gedrang komt.
+
 Dit kan leiden tot inefficiëntie, fouten, en mogelijk schade aan organisaties, gebruikers of betrokkenen.
 
 ## Maatregelen 

@@ -59,7 +59,7 @@ Bepaal in een vroege fase en bij het [onderbouwen van het gebruik van een AI-sys
 
 ## Risico 
 
-Er ontstaat een onrechtmatige situatie voor een organisatie als deze AI inzet die verboden is. 
+Er ontstaat een onrechtmatige situatie voor een organisatie als deze AI inzet, die verboden is. 
 
 ## Maatregelen { data-search-exclude } 
 

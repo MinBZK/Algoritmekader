@@ -12,7 +12,6 @@ Er zijn verschillende soorten standaarden, zoals normen, Technische Rapporten (T
 - Technische Specificaties (TS) zijn normatief, en bieden voorlopige specificaties, vooral voor technologieën in ontwikkeling. Een TS kan in een later stadium worden omgezet in een volledige norm als er voldoende consensus voor is.
 
 !!! tip "Nog geen norm, maar toch interessant!"
-
   Zowel een Technisch Rapport als een Technische Specificatie bieden dus ondersteuning in situaties waar nog geen norm bestaat of waar consensus nog niet is bereikt. Dus een TS of TR kan ook zeker interessante informatie bevatten voor organisaties, maar ze hebben niet de status of juridische binding van een norm.
 
 Daarnaast is er onderscheid tussen internationale normen (ISO), Europese normen (EN) en Nederlandse normen (NEN).

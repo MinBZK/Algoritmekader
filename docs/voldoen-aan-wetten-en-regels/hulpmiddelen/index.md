@@ -12,7 +12,7 @@ Overzicht van aanbevolen hulpmiddelen voor het verantwoord ontwikkelen, gebruike
 Met hulpmiddelen bedoelen we hulpmiddelen voor verantwoord en effectief gebruik van algoritmes en AI-systemen, zoals:
 
 - richtlijnen
-- standaarden
+- [standaarden](standaarden.md)
 - leidraden
 - handboeken
   

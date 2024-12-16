@@ -1,7 +1,7 @@
 ---
-title: Hoog-risico-AI-systemen zijn op een transparante manier ontwikkeld en ontworpen
+title: Hoog-risico-AI-systemen zijn op een transparante manier ontwikkeld en ontworpen.
 id: urn:nl:ak:ver:aia-08
-toelichting: AI-systemen met een hoog risico worden ontworpen en ontwikkeld met een hoge mate van transparantie, zodat gebruikers de output van het systeem kunnen begrijpen en correct kunnen gebruiken. Dit zorgt ervoor dat de aanbieders en gebruikers kunnen voldoen aan de verplichtingen zoals uiteengezet in de relevante regelgeving, waardoor de betrouwbaarheid en verantwoordelijkheid van het gebruik van deze systemen worden verzekerd. In artikel 13 lid 3 is een overzicht gegeven van de informatie die gebruikersinstructies tenminste moeten bevatten. 
+toelichting: AI-systemen met een hoog risico worden ontworpen en ontwikkeld met een hoge mate van transparantie, zodat gebruikers de output van het systeem kunnen begrijpen en correct kunnen gebruiken. 
 levenscyclus: 
 - ontwerp
 - ontwikkelen
@@ -27,15 +27,15 @@ rollen:
 
 ## Vereiste
 
-AI-systemen met een hoog risico worden op zodanige wijze ontworpen en ontwikkeld dat de werking ervan voldoende transparant is om gebruiksverantwoordelijken in staat te stellen de output van een systeem te interpreteren en op passende wijze te gebruiken.
-Een passende soort en mate van transparantie wordt gewaarborgd met het oog op de naleving van de relevante verplichtingen van de aanbieder en de gebruiksverantwoordelijke zoals uiteengezet in afdeling 3 van Artikel 13 van de AI verordening.
+Hoog-risico-AI-systemen zijn op een transparante manier ontwikkeld en ontworpen.
 
 ## Toelichting 
 
-AI-systemen met een hoog risico worden ontworpen en ontwikkeld met een hoge mate van transparantie, zodat gebruikers de output van het systeem kunnen begrijpen en correct kunnen gebruiken.
-Dit zorgt ervoor dat de aanbieders en gebruikers kunnen voldoen aan de verplichtingen zoals uiteengezet in de relevante regelgeving, waardoor de betrouwbaarheid en verantwoordelijkheid van het gebruik van deze systemen worden verzekerd.
-In artikel 13 lid 3 is een overzicht gegeven van de informatie die gebruikersinstructies tenminste moeten bevatten.
+AI-systemen met een hoog risico worden ontworpen en ontwikkeld met een hoge mate van transparantie, zodat gebruikers de output van het systeem kunnen begrijpen en correct kunnen gebruiken. 
 
+Dit zorgt ervoor dat de aanbieders en gebruikers kunnen voldoen aan de verplichtingen zoals uiteengezet in de relevante regelgeving, waardoor de betrouwbaarheid en verantwoordelijkheid van het gebruik van deze systemen worden verzekerd. 
+
+In artikel 13 lid 3 is een overzicht gegeven van de informatie die gebruikersinstructies tenminste moeten bevatten. 
 
 ## Bronnen 
 

@@ -39,17 +39,19 @@ hide:
 <!-- Geef hier een toelichting van deze maatregel -->
 Het leveren van bewijs door aanbieder dat de ontwikkelde algoritmes voldoen aan de vereisten, draagt bij aan het kunnen beoordelen of een aanbieder geschikt is om mee te contracteren. Bij het leveren van bewijs kan worden gedacht aan het overhandigen van bijvoorbeeld een certificaat of een EU-conformiteitsverklaring voor hoog risico AI-systemen. 
 
-Daarbij is het relevant om te beoordelen in hoeverre er is voldaan aan geharmoniseerde standaarden. Deze standaarden zijn momenteel in ontwikkeling. In de (nabije) toekomst zal dit naar verwachting op een vergelijkbare manier kunnen worden benaderd als bij het moeten leveren van een NEN-ISO 27001 certificaat (voldoen aan informatiebeveiligingsvereisten) door een leverancier. 
-
-## Risico 
-<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Er wordt gecontracteerd met een aanbieder die niet voldoet aan de vereisten voor een verantwoorde inzet van algoritmes. 
+Daarbij is het relevant om te beoordelen in hoeverre er is voldaan aan geharmoniseerde standaarden. Deze standaarden zijn momenteel in ontwikkeling. In de (nabije) toekomst zal dit naar verwachting op een vergelijkbare manier kunnen worden benaderd als bij het moeten leveren van een NEN-ISO 27001 certificaat (voldoen aan informatiebeveiligingsvereisten) door een leverancier.  
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
 <!-- list_vereisten_on_maatregelen_page -->
+
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Er wordt gecontracteerd met een aanbieder die niet voldoet aan de vereisten voor een verantwoorde inzet van algoritmes. 
+
+
 
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->     

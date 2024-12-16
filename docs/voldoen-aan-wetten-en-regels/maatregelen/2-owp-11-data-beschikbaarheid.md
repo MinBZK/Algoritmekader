@@ -40,10 +40,6 @@ Voer voorafgaand aan een project een data beschikbaarheids- en [datakwaliteitsan
 - De infrastructuur van de eigen organisatie en/of die van een eventuele externe aanbieder moet van voldoende niveau zijn om de beoogde verwerkingen uit te kunnen voeren.
 - Een dergelijke analyse levert inzichten op welke problemen er eventueel op dit vlak kunnen ontstaan en geeft input voor de verdere ontwikkeling of (in geval van inkoop) de behoeftestelling.
 
-## Risico 
-<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Het zou kunnen voorkomen dat de data niet beschikbaar is en ook niet gaat worden. Dit betekent dat een algoritme ook niet goed gemaakt of gebruikt kan worden. Ook is het belangrijk om te checken of de data beschikbaar blijft als dat nodig is voor het functioneren van het algoritme (bijv. voor het bijleren). Ook bestaat er een risico dat als de data van onvoldoende kwaliteit is, het algoritme niet goed gaat werken. Wanneer niet vooraf bepaald is of de data beschikbaar is en van voldoende kwaliteit kan het gebeuren dat er wel een algoritme gemaakt wordt door een derde partij, maar deze vervolgens niet gebruikt kan worden binnen de organisatie. 
-
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 

@@ -99,15 +99,15 @@ Hiervoor is het van belang om te bepalen om wat voor [type algoritme het gaat en
 
 Op basis van nieuwe of gewijzigde wet- en regelgeving of de totstandkoming van nieuwe standaard, is het denkbaar dat aanbieders van algoritmes nog niet of niet meer voldoet aan deze vereisten. Het is van belang om deze inzichten bijvoorbeeld tijdens een aanbesteding worden verkregen. Indien van toepassing, laat de aanbieder inzichtelijk maken welke stappen deze gaat zetten om hieraan te gaan voldoen. Dit is ook relevant bij reeds afgesloten contracten.
 
-## Risico 
-<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Door de vereisten voor een verantwoorde inzet van algoritmes niet te bespreken met aanbieders, is het voor hen (deels) onduidelijk aan welke vereisten diens algoritmes moet voldoen om te kunnen contractueren met overheidsorganisaties.
-
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
 <!-- list_vereisten_on_maatregelen_page -->
+
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Door de vereisten voor een verantwoorde inzet van algoritmes niet te bespreken met aanbieders, is het voor hen (deels) onduidelijk aan welke vereisten diens algoritmes moet voldoen om te kunnen contractueren met overheidsorganisaties.
 
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->   

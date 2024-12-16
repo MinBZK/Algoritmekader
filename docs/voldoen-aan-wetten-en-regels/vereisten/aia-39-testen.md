@@ -75,7 +75,7 @@ k) de voorspellingen, aanbevelingen of beslissingen van het AI-systeem kunnen da
 
 [Artikel 60 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3241-1-1)
 
-[Overweging 138 - 141 AI-Verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3906-1-1)
+[Overweging 138 - 141 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3906-1-1)
 
 ## Wanneer van toepassing? 
 <!-- tags-ai-act -->

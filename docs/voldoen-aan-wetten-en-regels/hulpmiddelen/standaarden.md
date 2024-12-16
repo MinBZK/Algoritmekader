@@ -19,8 +19,8 @@ Veel Europese normen beginnen als internationale ISO-normen en worden vervolgens
 Wanneer AI-systemen worden ontworpen of gebruikt, bieden standaarden praktische richtlijnen en technische kaders (praktische meerwaarde) waarmee compliance aantoonbaar kan worden gemaakt (juridische meerwaarde).
 
 ### Juridische waarde van standaarden
-Als een organisatie zich houdt aan de bij de wet behorende _geharmoniseerde Europese normen_, wordt er vanuit gegaan dat er wordt voldaan aan de AI-verordening (_Presumption of Conformity_).
-Dit betekent dat het AI-systeem wordt beschouwd als conform de wettelijke vereisten, wat zorgt voor juridische zekerheid en eenvoudiger toezicht​.
+Als een organisatie zich houdt aan de bij de wet behorende _geharmoniseerde Europese normen_, wordt er vanuit gegaan dat er wordt voldaan aan de AI-verordening (_Presumption of Conformity_). Dit betekent dat het AI-systeem wordt beschouwd als conform de wettelijke vereisten, wat zorgt voor juridische zekerheid en eenvoudiger toezicht​.
+Hoewel het gebruik van standaarden vrijwillig is, bewijst naleving ervan dat producten en diensten een bepaald niveau van kwaliteit, veiligheid en betrouwbaarheid bereiken. In sommige gevallen worden standaarden in de wetgeving genoemd als een voorkeursmethode of zelfs als een verplichte vereiste om aan specifieke wetten te voldoen, zoals veiligheidswetgeving of interoperabiliteitsvereisten. 
 
 ### Praktische waarde van standaarden
 Geharmoniseerde normen hebben daarnaast een duidelijke praktische waarde. Ze vertalen abstracte wettelijke verplichtingen uit de AI-verordening naar concrete technische en organisatorische eisen, bijvoorbeeld op het gebied van risicomanagement en kwaliteitsmanagement, maar ook voor [duurzaamheid](../../onderwerpen/duurzaamheid.md) en [transparantie](../../onderwerpen/transparantie.md)​. Zo helpen standaarden organisaties dus bij het ontwikkelen en implementeren van betrouwbare AI-systemen.
@@ -48,7 +48,8 @@ Hoe gebruik je bestaande AI-standaarden?
 
 ## Bronnen
 Lijst van gebruikte bronnen, standaarden, en aanvullende documentatie
-
+- [Standards in Europe](https://europa.eu/youreurope/business/product-requirements/standards/standards-in-europe/index_en.htm)
+- 
 
 ## Beslishulp AI-verordening
 Met de [beslishulp AI-verordening](https://ai-verordening-beslishulp.apps.digilab.network/) bepaal je snel en gemakkelijk of jouw AI-product onder de AI-verordening valt. En wat je dan moet doen.

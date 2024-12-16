@@ -8,12 +8,11 @@ vereiste:
 - awb-01-zorgvuldigheidsbeginsel
 - aut-01-auteursrechten
 - aia-28-transparantieverplichtingen
-- aia-26-recht-op-uitleg-ai-besluiten
 - aia-09-menselijke-toezicht
   
 levenscyclus: 
-- organisatieverantwoordelijkheden
 - ontwerp
+- validatie-en-verificatie
 onderwerp: 
 - transparantie
 - publieke-inkoop
@@ -34,9 +33,9 @@ Maak gebruik van een algoritme dat bronvermelding kan genereren bij de output.
 ## Toelichting
 Bij het gebruik van generatieve AI/LLM’s is bronvermelding van belang.
 
-Hiermee kan tot op zekere hoogte een beoordeling worden gegeven in hoeverre bij het trainen het AI-model [rechtmatig](aut-01-auteursrechten.md) [gebruik](dat-01-databankenwet.md) is gemaakt van bronnen.
+Hiermee kan tot op zekere hoogte een beoordeling worden gegeven in hoeverre bij het trainen van het AI-model [rechtmatig](aut-01-auteursrechten.md) [gebruik](dat-01-databankenwet.md) is gemaakt van bronnen.
 
-Bronvermelding is daarnaast essentieel om de output van het AI-model [inhoudelijk te kunnen controleren](verificatie-en-validatie.md), wat ook informatie geeft in hoeverre het AI-model al dan niet hallucineert of manipuleert. 
+Bronvermelding is daarnaast essentieel om de output van het AI-model [inhoudelijk te kunnen controleren](verificatie-en-validatie.md), wat ook informatie geeft in hoeverre het AI-model bijvoorbeeld al dan niet hallucineert of manipuleert. 
 
 Voor het ontwikkelen van een AI-model is bronvermelding ook noodzakelijk, omdat het voor ontwikkelaars de enige manier is om te kunnen controleren of het model goed werkt. Dit geldt ook voor ontwikkelaars die pre-trained modellen gebruiken. 
 

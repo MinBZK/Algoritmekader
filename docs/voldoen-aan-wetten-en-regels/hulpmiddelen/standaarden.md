@@ -103,7 +103,24 @@ Door standaarden actief te gebruiken, kunnen overheidsorganisaties hun AI-system
 
 
 ## Verwachte ontwikkelingen en tijdlijn
-tijdlijn?
+De komende jaren zullen nieuwe AI-standaarden worden ontwikkeld en gepubliceerd om te voldoen aan de eisen van de AI-verordening. Deze standaarden zullen geharmoniseerd worden en juridisch relevant zijn, met name voor hoog-risico AI-systemen.
+Dit proces is complex en vereist samenwerking tussen vele stakeholders, inclusief industrie, overheid en maatschappelijke organisaties.
+
+Een overzicht van lopende en verwachte ontwikkelingen rondom standaarden voor de AI-verordening:
+
+### 2024 – 2025
+Europese standaardisatieorganisaties (CEN/CENELEC) werken aan de afronding van geharmoniseerde standaarden.
+Conceptversies van belangrijke horizontale standaarden verschijnen ter beoordeling.
+
+### Begin 2025 (?)
+Publicatie van een update van het standaardisatieverzoek van de Europese Commissie.
+
+### Eind 2025
+Publicatie van eerste geharmoniseerde Europese normen in het Official Journal of the EU.
+Deze normen creëren juridische zekerheid (Presumption of Conformity) voor organisaties die AI-systemen ontwikkelen.
+
+### Augustus 2026
+De verplichtingen voor hoog-risico AI-systemen treden in werking. Vanaf dit moment moeten systemen voldoen aan de eisen van de AI-verordening, ondersteund door geharmoniseerde standaarden​.
 
 
 ## De rol van JTC21

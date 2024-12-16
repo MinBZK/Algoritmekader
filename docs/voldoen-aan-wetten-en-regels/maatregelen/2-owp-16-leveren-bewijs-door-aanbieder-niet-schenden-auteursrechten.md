@@ -44,7 +44,7 @@ Maak het al dan niet kunnen leveren van bewijs door een aanbieder dat auteursrec
 
 - Onder auteursrechtjuristen wordt aangenomen dat het gebruik van auteursrechtelijk beschermde werken ter training van algoritmes (waarschijnlijk) als kopiëren geldt: een handeling die de rechthebbende kan verbieden. Dat betekent dat aanbieders van algoritmes het gebruik van auteursrechtelijk beschermd materiaal in de inputfase steeds moeten kunnen legitimeren op grond van (a) toestemming van de rechthebbende(n) of (b) een in de wet neergelegde exceptie op het auteursrechtelijke verveelvoudigingsrecht.
 
-- Laat de aanbieder(s) uitleggen en (aantoonbaar) onderbouwen op welke manier de trainingsdata is verkregen en of dit rechtmatig was. Laat de aanbieders(s) ook aantonen welke maatregelen er zijn getroffen om dit te voorkomen en ga hier eventueel over in gesprek. Maak een jurist onderdeel van de beoordeling hiervan. Overweeg om een bronvermelding te laten opnemen.
+- Laat de aanbieder(s) uitleggen en (aantoonbaar) onderbouwen op welke manier de trainingsdata is verkregen en of dit rechtmatig was. Laat de aanbieders(s) ook aantonen welke maatregelen er zijn getroffen om dit te voorkomen en ga hier eventueel over in gesprek. Maak een jurist onderdeel van de beoordeling hiervan. 
 
 ### Output
 Laat de aanbieder(s) uitleggen en (aantoonbaar) onderbouwen op welke manier de trainingsdata is verkregen en of dit rechtmatig was. Laat de aanbieders(s) ook aantonen welke maatregelen er zijn getroffen om dit te voorkomen. Maak een jurist onderdeel van de beoordeling hiervan. Overweeg om een bronvermelding te laten opnemen.

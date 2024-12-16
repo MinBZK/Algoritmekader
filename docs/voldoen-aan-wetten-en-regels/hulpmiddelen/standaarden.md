@@ -53,7 +53,7 @@ Enkele van de belangrijkste standaarden die worden ontwikkeld voor het voldoen a
 - Quality management for EU AI regulatory purposes
 - Conformity assessment 
 
-#### Technische Rapporten en Specificaties voor duurzaamheid
+#### Duurzaamheid
 Wat in deze 10 standaardisatieverzoeken nog niet terugkomt, maar wel in het Algoritmekader, is [duurzaamheid](../../onderwerpen/duurzaamheid.md). Momenteel worden er wel enkele TR's en TS's ontwikkeld. Zodra die bekend zijn, zullen deze worden aangevuld met meer informatie of links.
 
 - _[TR 20226](https://www.iso.org/standard/86177.html) 'Environmental sustainability aspects of AI systems'_ is een technisch rapport (TS), geen standaard. Dit TS bevindt zich in de 'committee draft' fase, wat wil zeggen dat er een concept is waar nog overeenstemming over moet worden gevonden.

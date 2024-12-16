@@ -99,11 +99,17 @@ Hoe gebruik je bestaande AI-standaarden?
 tijdlijn?
 
 
+## De rol van JTC21
+De JTC 21 ([CEN-CENELEC Joint Technical Committee on Artificial Intelligence](https://standards.cencenelec.eu/dyn/www/f?p=205:7:0::::FSP_ORG_ID:2916257&cs=11D701467243B7C63DEF4702C86E0138A)) speelt een centrale rol in het ontwikkelen van Europese AI-standaarden. Deze commissie volgt de strategie van _adopt, adapt en develop_: eerst wordt gekeken naar bestaande internationale standaarden (zoals ISO-normen), waarna deze indien nodig worden aangepast aan de Europese context. Als er geen geschikte standaarden beschikbaar zijn, ontwikkelt JTC 21 zelf nieuwe Europese standaarden​.
+
+Omdat de door JTC 21 ontwikkelde geharmoniseerde Europese normen straks juridische zekerheid bieden voor organisaties, betekent dit dat organisaties de ontwikkelingen binnen JTC 21 goed moeten volgen. Door inzicht te krijgen in lopende projecten, kunnen organisaties zich tijdig voorbereiden op toekomstige standaarden en compliance-eisen​.
+
 ## Bronnen
 Lijst van gebruikte bronnen, standaarden, en aanvullende documentatie
 
 - [Standards in Europe](https://europa.eu/youreurope/business/product-requirements/standards/standards-in-europe/index_en.htm)
-- 
+- [Artificial Intelligence en Big Data, NEN](https://www.nen.nl/en/normcommissie-artificial-intelligence-en-big-data)
+- 'AI Act Compact: Compliance, Management & Use Cases in Corporate Practice', Peter Hense, Tea Mustac, 2024
 
 ## Beslishulp AI-verordening
 Met de [beslishulp AI-verordening](https://ai-verordening-beslishulp.apps.digilab.network/) bepaal je snel en gemakkelijk of jouw AI-product onder de AI-verordening valt. En wat je dan moet doen.

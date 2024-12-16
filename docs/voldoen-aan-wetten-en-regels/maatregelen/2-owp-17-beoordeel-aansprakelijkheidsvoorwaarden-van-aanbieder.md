@@ -40,14 +40,13 @@ Maak de aansprakelijkheidsvoorwaarden die een aanbieder stelt ten aanzien van au
 
 - Het is daarom van belang om een beoordeling te maken in hoeverre de aansprakelijkheidsvoorwaarden van de aanbieder passend zijn. Maak een jurist onderdeel van de beoordeling.
 
-## Risico 
-<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Er wordt gecontracteerd met een aanbieder die ongewenste aansprakelijkheidsvoorwaarden hanteert. 
-
-
 ## Bijbehorende vereiste(n)
 
 <!-- list_vereisten_on_maatregelen_page -->
+
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Er wordt gecontracteerd met een aanbieder die ongewenste aansprakelijkheidsvoorwaarden hanteert. 
 
 ## Bronnen
 

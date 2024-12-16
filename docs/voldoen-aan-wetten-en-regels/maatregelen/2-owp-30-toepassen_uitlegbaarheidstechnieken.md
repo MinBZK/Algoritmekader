@@ -45,12 +45,13 @@ Vanuit veiligheidsoverwegingen kan bij specifieke algoritmes besloten worden om 
 
 Evalueer de uitlegbaarheid van het systeem op functionele, operationele, bruikbaarheids- en veiligheidsvereisten in samenwerking met betrokkenen zoals gebruikers. Valideer of de uitkomst van het algoritme begrijpelijk genoeg is voor gebruiker om hier op een verantwoorde wijze mee te werken.
 
-## Risico
-Als er geen rekening wordt gehouden met de uitlegbaarheid van een algoritme binnen een bepaalde context, ontstaat het risico dat de output van het algoritme niet wordt begrepen of verkeerd wordt geïnterpreteerd, wat kan leiden tot onjuist gebruik.
-
 ## Bijbehorende vereiste(n)
 
 <!-- list_vereisten_on_maatregelen_page -->
+
+## Risico
+Als er geen rekening wordt gehouden met de uitlegbaarheid van een algoritme binnen een bepaalde context, ontstaat het risico dat de output van het algoritme niet wordt begrepen of verkeerd wordt geïnterpreteerd, wat kan leiden tot onjuist gebruik.
+
 
 ## Bronnen
 - [Toolkit voor implementatie](https://xaitk.org/)

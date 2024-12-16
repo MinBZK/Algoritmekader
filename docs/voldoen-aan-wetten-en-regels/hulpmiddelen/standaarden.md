@@ -5,6 +5,8 @@ hide: navigation
 ## Wat zijn standaarden?
 Standaarden zijn afspraken die worden vastgelegd om ervoor te zorgen dat producten, processen of diensten voldoen aan specifieke eisen op het gebied van kwaliteit, veiligheid en prestaties. Ze worden ontwikkeld door standaardisatieorganisaties, meestal op initiatief van belanghebbenden die een behoefte aan een bepaalde standaard zien, zoals de Europese Commissie, bij of na het ontwikkelen van Europese regelgeving.
 
+Standaarden zijn er op allerlei gebieden. Momenteel speelt de ontwikkeling van standaarden voor de Europese [AI-verordening](../ai-verordening.md) een belangrijke rol voor de betrouwbare ontwikkeling en gebruik van AI. Vandaar dat deze pagina focust op _standaarden voor AI_.
+
 Er zijn verschillende soorten standaarden, zoals normen, Technische Rapporten (TR) en Technische Specificaties (TS).
 
 - Normen zijn formele, breed geaccepteerde afspraken, vaak ontwikkeld door internationale organisaties zoals ISO/IEC.
@@ -92,7 +94,14 @@ Andere normen, TR's en TS's die van belang zijn voor Nederlandse overheidsorgani
 
 ## Wat moeten Nederlandse overheidsorganisaties doen?
 
-Hoe gebruik je bestaande AI-standaarden?
+Nederlandse overheidsorganisaties kunnen standaarden gebruiken als praktische hulpmiddelen om te voldoen aan de eisen van de AI-verordening. 
+
+Hoe gebruik je standaarden?
+
+1. Kies de juiste standaarden: Begin met het identificeren van relevante standaarden en het begrijpen hoe deze toegepast kunnen worden. Focus op geharmoniseerde Europese normen die aansluiten bij de AI-verordening, en wanneer die er nog niet zijn, kies onderwerpen die aansluiten bij de onderwerpen uit de AI-verordening, door te kijken naar de lijst van 10 onderwerpen waarvoor een standaardisatieverzoek ligt (zie hierboven).
+3. Pas standaarden toe in de praktijk: Gebruik standaarden als richtlijnen om technische processen en organisatorische maatregelen in te richten, zoals het waarborgen van datakwaliteit, transparantie en betrouwbaarheid van AI-systemen​.
+4. Blijf op de hoogte: Volg de ontwikkelingen binnen JTC 21 en houd bij welke internationale standaarden worden opgenomen in het Europese normalisatieproces.
+Door standaarden actief te gebruiken, kunnen overheidsorganisaties hun AI-systemen veiliger en betrouwbaarder maken en tegelijkertijd voldoen aan de wettelijke vereisten van de AI-verordening.
 
 
 ## Verwachte ontwikkelingen

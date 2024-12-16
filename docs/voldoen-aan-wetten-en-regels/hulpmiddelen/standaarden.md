@@ -34,7 +34,7 @@ Geharmoniseerde normen hebben daarnaast een duidelijke praktische waarde. Ze ver
 ## Een overzicht van belangrijke standaarden
 
 ### Standaarden die worden ontwikkeld voor de AI-verordening
-Er zijn standaardisatieverzoeken gedaan door de Europese Commissie op 10 specifieke aspecten van AI. Deze aspecten vind je ook terug in de verschillende [onderwerpen](../../onderwerpen/index.md) die in het Algoritmekader terugkomen.
+Er is een standaardisatieverzoek gedaan door de Europese Commissie op 10 specifieke aspecten van AI. Deze aspecten vind je ook terug in de verschillende [onderwerpen](../../onderwerpen/index.md) die in het Algoritmekader terugkomen.
 
 1. Risicomanagement ("Risk Management")
 2. Gegevensbeheer en -kwaliteit ("Data Governance and Quality")
@@ -46,6 +46,12 @@ Er zijn standaardisatieverzoeken gedaan door de Europese Commissie op 10 specifi
 8. Cybersecurity
 9. Kwaliteitsmanagement ("Quality Management")
 10. Conformiteitsassessment ("Conformity Assessment")
+
+Enkele van de belangrijkste standaarden die worden ontwikkeld voor het voldoen aan de vereisten voor hoog-risico AI systemen, zullen zijn:
+- AI trustworthiness framework
+- AI risk management
+- Quality management for EU AI regulatory purposes
+- Conformity assessment 
 
 #### Technische Rapporten en Specificaties voor duurzaamheid
 Wat in deze 10 standaardisatieverzoeken nog niet terugkomt, maar wel in het Algoritmekader, is [duurzaamheid](../../onderwerpen/duurzaamheid.md). Momenteel worden er wel enkele TR's en TS's ontwikkeld. Zodra die bekend zijn, zullen deze worden aangevuld met meer informatie of links.

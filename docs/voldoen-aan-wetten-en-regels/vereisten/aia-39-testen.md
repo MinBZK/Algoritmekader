@@ -1,6 +1,6 @@
 ---
 title: Hoog-risico-AI-systemen zijn getest.
-id: urn:nl:ak:ver:aia-04
+id: urn:nl:ak:ver:aia-39
 toelichting: AI-systemen met een hoog risico worden getest met het oog op het vaststellen van de passendste en gerichte risicobeheersmaatregelen.
 levenscyclus:
 - organisatieverantwoordelijkheden
@@ -69,7 +69,7 @@ k) de voorspellingen, aanbevelingen of beslissingen van het AI-systeem kunnen da
 [Artikel 17(1 sub d) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3241-1-1)
 [Artikel 59(1 sub i) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3241-1-1)
 [Artikel 60 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3241-1-1)
-
+[Overweging 138 - 141 AI-Verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3906-1-1)
 
 ## Wanneer van toepassing? 
 <!-- tags-ai-act -->
@@ -80,4 +80,4 @@ Zonder het testen van een AI-systeem, ontstaat het risico dat het AI-systeem inc
 
 ## Maatregelen
 	
-<!-- list_maatregelen vereiste/aia-04-testen no-search no-onderwerp no-rol no-levenscyclus --
+<!-- list_maatregelen vereiste/aia-39-testen no-search no-onderwerp no-rol no-levenscyclus --

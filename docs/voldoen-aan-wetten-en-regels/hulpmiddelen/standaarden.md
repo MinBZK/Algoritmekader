@@ -89,6 +89,7 @@ Op dit moment zijn er verschillende Technische Rapporten, Technische Specificati
 
 Voor meer informatie over de gehanteerde termen, zie ook hierboven, of [lees meer op de website van NEN](https://www.nen.nl/verschillende-typen-afspraken).
 
+Voor een compleet overzicht van _internationaal_ gepubliceerde standaarden die relateren aan AI, [kijk op de website van de ISO](https://www.iso.org/committee/6794475/x/catalogue/p/1/u/0/w/0/d/0).
 
 ## Wat moeten Nederlandse overheidsorganisaties doen?
 
@@ -135,6 +136,7 @@ Lijst van gebruikte bronnen, standaarden, en aanvullende documentatie
 - [Standards in Europe](https://europa.eu/youreurope/business/product-requirements/standards/standards-in-europe/index_en.htm)
 - [Artificial Intelligence en Big Data, NEN](https://www.nen.nl/en/normcommissie-artificial-intelligence-en-big-data)
 - 'AI Act Compact: Compliance, Management & Use Cases in Corporate Practice', Peter Hense, Tea Mustac, 2024
+- 'AI Act and the future standards - webinar' (11 december 2024). Het webinar kan [hier worden teruggekeken. Hier zijn ook de presentaties en Q&A's over standaarden te vinden](https://www.ds.dk/en/news/2024/ai-act-and-the-future-standards).
 
 ## Beslishulp AI-verordening
 Met de [beslishulp AI-verordening](https://ai-verordening-beslishulp.apps.digilab.network/) bepaal je snel en gemakkelijk of jouw AI-product onder de AI-verordening valt. En wat je dan moet doen.

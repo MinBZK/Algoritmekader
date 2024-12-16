@@ -11,8 +11,9 @@ Er zijn verschillende soorten standaarden, zoals normen, Technische Rapporten (T
 - Technische Rapporten (TR) hebben een meer informatief karakter. Een TR wordt gebruikt om informatie te delen die niet geschikt is voor een norm, bijvoorbeeld gegevens uit onderzoeken of enquêtes. Een TR is vaak de opmaat voor het opstellen van een norm.
 - Technische Specificaties (TS) zijn normatief, en bieden voorlopige specificaties, vooral voor technologieën in ontwikkeling. Een TS kan in een later stadium worden omgezet in een volledige norm als er voldoende consensus voor is.
 
-!!! tip "Nog geen norm, maar toch interessant!"
-  Zowel een Technisch Rapport als een Technische Specificatie bieden dus ondersteuning in situaties waar nog geen norm bestaat of waar consensus nog niet is bereikt. Dus een TS of TR kan ook zeker interessante informatie bevatten voor organisaties, maar ze hebben niet de status of juridische binding van een norm.
+!!! tip "Nog geen norm, maar wel al bruikbaar"
+
+    Zowel een Technisch Rapport als een Technische Specificatie bieden dus ondersteuning in situaties waar nog geen norm bestaat of waar consensus nog niet is bereikt. Dus een TS of TR kan ook zeker interessante informatie bevatten voor organisaties, maar ze hebben niet de status of juridische binding van een norm.
 
 Daarnaast is er onderscheid tussen internationale normen (ISO), Europese normen (EN) en Nederlandse normen (NEN).
 Europese normen zijn essentieel voor de AI Verordening, omdat ze geharmoniseerde standaarden bieden die juridische zekerheid verschaffen, met name voor hoog-risico AI-systemen.

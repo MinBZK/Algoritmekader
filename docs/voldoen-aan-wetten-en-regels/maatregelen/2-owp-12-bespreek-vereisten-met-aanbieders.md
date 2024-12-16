@@ -95,7 +95,7 @@ Bespreek de vereiste die gelden voor een verantwoorde inzet van algoritmes met e
 <!-- Geef hier een toelichting van deze maatregel -->
 Ga met een aanbieder in gesprek over in hoeverre zij invulling kunnen geven aan de vereisten die gelden voor een verantwoorde inzet van algoritmes. Dit kan worden gedaan bijvoorbeeld bij een informatiesessie met aanbieders voorafgaand aan een aanbesteding. 
 
-Hiervoor is het van belang om te bepalen om wat voor [type algoritme het gaat en wat de bijbehorende risicoclassificatie](2-owp-05-soort-algoritme) is. Maak op daarvan inzichtelijk welke vereisten hierop van toepassing zijn. 
+Hiervoor is het van belang om te bepalen om wat voor [type algoritme het gaat en wat de bijbehorende risicoclassificatie](2-owp-05-soort-algoritme) is. Maak op basis daarvan inzichtelijk welke vereisten hierop van toepassing zijn. 
 
 Op basis van nieuwe of gewijzigde wet- en regelgeving of de totstandkoming van nieuwe standaard, is het denkbaar dat aanbieders van algoritmes nog niet of niet meer voldoet aan deze vereisten. Het is van belang om deze inzichten bijvoorbeeld tijdens een aanbesteding worden verkregen. Indien van toepassing, laat de aanbieder inzichtelijk maken welke stappen deze gaat zetten om hieraan te gaan voldoen. Dit is ook relevant bij reeds afgesloten contracten.
 

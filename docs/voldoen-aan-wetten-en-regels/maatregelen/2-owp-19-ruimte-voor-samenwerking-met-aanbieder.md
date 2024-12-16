@@ -91,16 +91,16 @@ Creëer ruimte om met een aanbieder samen te gaan werken om specifieke vereisten
 
 - Bij een verantwoorde inzet van algoritmes kan het bij vereisten zoals [non-discriminatie](../../onderwerpen/bias-en-non-discriminatie.md), [transparantie](../../onderwerpen/transparantie.md), [menselijke controle](../../onderwerpen/menselijke-controle.md) en [grondrechten](../../onderwerpen/fundamentele-rechten.md) van belang zijn om samen te onderzoeken hoe hier invulling aan moet worden gegeven. Het is belangrijk om bij de behoeftestelling al te verkennen om welke onderwerpen dit mogelijk van toepassing is. Bij een marktverkenning of informatiesessie kan worden verkend hoe aanbieders ervoor staan. Op basis hiervan kan worden beoordeeld in hoeverre bijvoorbeeld in een aanbesteding contractuele ruimte moet worden gecreëerd voor opdrachtgever en aanbieder om hieraan te werken. 
 
-## Risico 
-<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Door niet te kunnen samenwerken aan vereisten, kan de situatie ontstaan dat uiteindelijk niet op een betekenisvolle manier wordt voldaan aan deze vereisten voor een verantwoorde inzet van algoritmes.
-Gebrek aan samenwerking kan leiden tot onvermogen om de benodigde vereisten voldoende in de praktijk te garanderen. Ook is het belangrijk dat de verantwoordelijke goed genoeg begrijpt hoe het algoritme werkt en welke keuzes er gemaakt zijn tijdens het ontwerp, omdat alleen dan goed beoordeeld kan worden welke vereisten zijn voldaan en welke risico’s nog niet of minder goed zijn afgedekt. 
-
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
 <!-- list_vereisten_on_maatregelen_page -->
+
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Door niet te kunnen samenwerken aan vereisten, kan de situatie ontstaan dat uiteindelijk niet op een betekenisvolle manier wordt voldaan aan deze vereisten voor een verantwoorde inzet van algoritmes.
+Gebrek aan samenwerking kan leiden tot onvermogen om de benodigde vereisten voldoende in de praktijk te garanderen. Ook is het belangrijk dat de verantwoordelijke goed genoeg begrijpt hoe het algoritme werkt en welke keuzes er gemaakt zijn tijdens het ontwerp, omdat alleen dan goed beoordeeld kan worden welke vereisten zijn voldaan en welke risico’s nog niet of minder goed zijn afgedekt. 
 
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->

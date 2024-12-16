@@ -1,19 +1,12 @@
 ---
-title: Levenscyclus
-summary: Hulp per fase van de levenscyclus van algoritmes en AI, zoals probleemanalyse, ontwerpen, ontwikkelen, implementeren en ermee stoppen.
-summary: Hulp per fase van de levenscyclus van algoritmes, zoals probleemanalyse, ontwerpen, ontwikkelen, implementeren en ermee stoppen.
+title: Over de levenscyclus
+summary: De levenscyclus helpt je om te bepalen wat je wanneer moet doen. Hoe zit dit eruit in een plaatje? En waarom 8 fasen?
 hide:
   - toc
 ---
 
-# Levenscyclus algoritmes en AI
-# Levenscyclus van een algoritme
-
-Om algoritmes op een verantwoorde manier te gebruiken, zul je op de juiste momenten aandacht moeten hebben voor de juiste onderwerpen en risico's. 
-Van het ontwikkelen van een oplossing, tot het in gebruik nemen van die oplossing en er uiteindelijk weer mee stoppen.
-Door al in een vroeg stadium aandacht besteden aan bijvoorbeeld een eventuele inbreuk op mensenrechten kan je hier gedurende het hele proces al rekening mee houden. 
-
-De levenscyclus helpt je om te bepalen wat je wanneer moet doen.
+# Over de levenscyclus
+Om algoritmes op een verantwoorde manier te gebruiken, zul je op de juiste momenten aandacht moeten hebben voor de juiste onderwerpen en risico's. Van het ontwikkelen van een oplossing, tot het in gebruik nemen van die oplossing en er uiteindelijk weer mee stoppen. Door al in een vroeg stadium aandacht besteden aan bijvoorbeeld een eventuele inbreuk op mensenrechten kan je hier gedurende het hele proces al rekening mee houden. De levenscyclus helpt je om te bepalen wat je wanneer moet doen.
 
 
 /// html | div[style='float: left; width: 50%;']
@@ -33,7 +26,7 @@ De levenscyclus helpt je om te bepalen wat je wanneer moet doen.
 </ol>
 
 ## Systeemniveau en organisatieniveau
-De levenscyclus kent twee verschillende niveau's: 
+De levenscyclus kent 2 verschillende niveau's: 
 
 - **organisatieniveau**: Sommige vereisten zijn algemeen en vragen om een organisatiebrede aanpak. Dit gaat bijvoorbeeld om passende processen en risicomanagment in je organisatie. Of het creëeren van bewustzijn en kennis binnen je organisatie. In het ideale geval besteed je hier al aandacht aan voordat je begint met de ontwikkeling of het gebruik van algoritmes. Bij deze fase horen maatregelen die je niet voor ieder systeem opnieuw zal hoeven te bekijken.
 - **systeemniveau**: Sommige vereisten voor verantwoorde inzet van algoritmes zul je bij ieder algoritme weer opnieuw aandacht moeten geven. Dat geldt bijvoorbeeld voor het beschermen van grondrechten. 

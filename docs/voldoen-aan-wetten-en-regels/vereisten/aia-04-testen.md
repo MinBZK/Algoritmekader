@@ -31,9 +31,7 @@ De tests zorgen ervoor dat AI-systemen met een hoog risico consistent presteren 
 
 Het testen van AI-systemen met een hoog risico vindt, zoals passend, in de loop van het ontwikkelproces plaats en in ieder geval voordat het systeem in de handel wordt gebracht of in gebruik is gesteld. 
 
-Er wordt getest aan de hand van vooraf vastgestelde beoordelingsmaatstaven en probabilistische drempels die passend zijn voor het beoogde doel van het AI-systeem met een hoog risico. 
-
-De testprocedures kunnen onder meer bestaan in testen onder reële omstandigheden overeenkomstig artikel 60 AI-Verordening. De procedures voor testen zijn onderdeel van het [kwaliteitsbeheer](aia-11-systeem-voor-kwaliteitsbeheer.md). 
+Er wordt getest aan de hand van vooraf vastgestelde beoordelingsmaatstaven en probabilistische drempels die passend zijn voor het beoogde doel van het AI-systeem met een hoog risico. De procedures voor testen zijn onderdeel van het [kwaliteitsbeheer](aia-11-systeem-voor-kwaliteitsbeheer.md). 
 
 Bij het verwerken van persoonsgegevens voor het ontwikkelen, trainen en testen van een AI-systeem in AI-testomgeving, wordt een volledige en gedetailleerde beschrijving van het testproces en de testresultaten onderdeel van de technische documentatie.
 
@@ -66,12 +64,12 @@ j) op het testen onder reële omstandigheden wordt daadwerkelijk toezicht gehoud
 
 k) de voorspellingen, aanbevelingen of beslissingen van het AI-systeem kunnen daadwerkelijk worden teruggedraaid en genegeerd.
 
-
 ## Bronnen
 [Artikel 9(6 en 8) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3241-1-1)
 [Artikel 17(1 sub d) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3241-1-1)
 [Artikel 59(1 sub i) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3241-1-1)
 [Artikel 60 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3241-1-1)
+
 
 ## Wanneer van toepassing? 
 <!-- tags-ai-act -->

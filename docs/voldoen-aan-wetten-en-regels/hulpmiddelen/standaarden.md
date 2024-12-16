@@ -1,4 +1,4 @@
-<img width="470" alt="image" src="https://github.com/user-attachments/assets/9f875517-d4b5-4829-abbd-fe84a10ec637" />---
+---
 hide: navigation
 ---
 

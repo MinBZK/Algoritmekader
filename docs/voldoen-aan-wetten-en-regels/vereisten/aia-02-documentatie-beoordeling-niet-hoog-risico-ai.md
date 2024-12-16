@@ -27,9 +27,7 @@ Beoordeling als niet 'hoog-risico-AI-systeem' is gedocumenteerd.
 ## Toelichting
 Een aanbieder die van mening is dat er geen sprake is van een in bijlage III bedoeld AI-systeem, documenteert zijn beoordeling voordat dat systeem in de handel wordt gebracht of in gebruik wordt gesteld. 
 
-Die aanbieder is onderworpen aan de registratieverplichting van artikel 49, lid 2 AI-verordening. 
-
-Op verzoek van de nationale bevoegde autoriteiten verstrekt de aanbieder de documentatie van de beoordeling.
+Die aanbieder is onderworpen aan de registratieverplichting van artikel 49, lid 2 AI-verordening. Op verzoek van de nationale bevoegde autoriteiten verstrekt de aanbieder de documentatie van de beoordeling.
 
 De aanbieder of in voorkomend geval de gemachtigd registreert zichzelf en het betreffende AI-systeem in de EU-databank (artikel 71 AI-verordening).
 

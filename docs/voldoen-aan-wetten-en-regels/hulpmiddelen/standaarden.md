@@ -35,7 +35,7 @@ Geharmoniseerde normen hebben daarnaast een duidelijke praktische waarde. Ze ver
 Er zijn standaardisatieverzoeken gedaan door de Europese Commissie op 10 specifieke aspecten van AI. Deze aspecten vind je ook terug in de verschillende [onderwerpen](../../onderwerpen/index.md) die in het Algoritmekader terugkomen.
 
 1. Risicomanagement ("Risk Management")
-2. Datagovernance en kwaliteit ("Data Governance and Quality")
+2. Gegevensbeheer en -kwaliteit ("Data Governance and Quality")
 3. Logging ("Record Keeping")
 4. Transparantie ("Transparency")
 5. Menselijke controle ("Human Oversight")
@@ -55,8 +55,39 @@ Wat in deze 10 standaardisatieverzoeken nog niet terugkomt, maar wel in het Algo
 ### Welke standaarden, rapporten en specificaties zijn er al?
 Op dit moment zijn er verschillende Technische Rapporten, Technische Specificaties en Normen (lees hierboven meer over het verschil) die al van belang zijn voor algoritmes, waaronder AI:
 
-- ["TR 18115:2024 Gegevensbeheer en -kwaliteit voor AI binnen de Europese context"](https://www.nen.nl/cen-clc-tr-18115-2024-en-331232). Omdat dit een TR betreft, wordt het geen _geharmoniseerde_ standaard, en krijgt het dus ook niet de eerdergenoemde "aanname van conformiteit". Wel biedt het alvast een inzicht in wat er allemaal veronderstelt kan worden bij Datagovernance en kwaliteit, waar een standaardisatieverzoek voor ligt.
-- 
+- ["TR 18115:2024 Gegevensbeheer en -kwaliteit voor AI binnen de Europese context"](https://www.nen.nl/cen-clc-tr-18115-2024-en-331232). Omdat dit een TR betreft, wordt het geen _geharmoniseerde_ standaard, en krijgt het dus ook niet de eerdergenoemde "aanname van conformiteit". Wel biedt het alvast een inzicht in wat er allemaal veronderstelt kan worden bij gegevensbeheer (vaak ook _data governance_ genoemd) en -kwaliteit (_datakwaliteit_), waar een standaardisatieverzoek voor ligt.
+
+Andere normen, TR's en TS's die van belang zijn voor Nederlandse overheidsorganisaties:
+
+| Norm                          | Titel                                                                                         | Status                      |
+|-------------------------------|-----------------------------------------------------------------------------------------------|-----------------------------|
+| ISO/IEC 23053                | Framework for Artificial Intelligence (AI) Systems Using Machine Learning (ML)               | ISO Norm                    |
+| ISO/IEC 24029-2              | Artificial intelligence (AI) - Assessment of the robustness of neural networks - Part 2: Methodology for the use of formal methods | ISO Norm                    |
+| ISO/IEC 42001                | Information technology - Artificial intelligence - Management system                          | ISO Norm                    |
+| ISO/IEC 5259-1               | Artificial intelligence - Data quality for analytics and machine learning (ML) - Part 1: Overview, terminology, and examples | ISO Norm                    |
+| ISO/IEC 5259-3               | Artificial intelligence - Data quality for analytics and machine learning (ML) - Part 3: Data quality management requirements and guidelines | ISO Norm                    |
+| ISO/IEC 5259-4               | Artificial intelligence - Data quality for analytics and machine learning (ML) - Part 4: Data quality process framework | ISO Norm                    |
+| ISO/IEC 5339                 | Information technology - Artificial intelligence - Guidance for AI applications               | ISO Norm                    |
+| ISO/IEC TR 24029-1           | Artificial Intelligence (AI) - Assessment of the robustness of neural networks - Part 1: Overview | Technical Report            |
+| ISO/IEC TR 24030             | Information technology - Artificial intelligence (AI) - Use cases                             | Technical Report            |
+| ISO/IEC TR 24372             | Information technology - Artificial intelligence (AI) - Overview of computational approaches for AI systems | Technical Report            |
+| ISO/IEC TR 29119-11          | Software and systems engineering - Software testing - Part 11: Guidelines on the testing of AI-based systems | Technical Report            |
+| ISO/IEC TS 25058             | Systems and software engineering - Systems and software Quality Requirements and Evaluation (SQuaRE) - Guidance for quality evaluation of artificial intelligence (AI) systems | Technical Specification      |
+| ISO/IEC TS 4213              | Information technology - Artificial intelligence - Assessment of machine learning classification performance | Technical Specification      |
+| NEN-EN-ISO/IEC 22989        | Information technology - Artificial intelligence - Artificial intelligence concepts and terminology | Europese Norm               |
+| NEN-EN-ISO/IEC 23053        | Framework for Artificial Intelligence (AI) Systems Using Machine Learning (ML)                | Europese Norm               |
+| NEN-EN-ISO/IEC 23894        | Information technology - Artificial intelligence - Guidance on risk management                | Europese Norm               |
+| NEN-EN-ISO/IEC 25059        | Software engineering - Systems and software Quality Requirements and Evaluation (SQuaRE) - Quality model for AI systems | Europese Norm               |
+| NEN-EN-ISO/IEC 8183         | Information technology - Artificial intelligence - Data life cycle framework                  | Europese Norm               |
+| NEN-ISO/IEC 24668           | Information technology - Artificial intelligence - Process management framework for big data analytics | Nederlandse Norm            |
+| NEN-ISO/IEC 38507           | Information technology - Governance of IT - Governance implications of the use of artificial intelligence by organizations | Nederlandse Norm            |
+| NEN-ISO/IEC 5338            | Information technology - Artificial intelligence - AI system life cycle processes             | Nederlandse Norm            |
+| NPR-CEN/CLC ISO/IEC TR 24027 | Information technology - Artificial intelligence (AI) - Bias in AI systems and AI aided decision making | Nederlandse Praktijk Richtlijn |
+| NPR-ISO/IEC TR 24028        | Information technology - Artificial intelligence - Overview of trustworthiness in artificial intelligence | Nederlandse Praktijk Richtlijn |
+| NPR-ISO/IEC TR 27563        | Security and privacy in artificial intelligence use cases - Best practices                    | Nederlandse Praktijk Richtlijn |
+| NPR-ISO/IEC/TR 24368        | Information technology - Artificial intelligence - Overview of ethical and societal concerns  | Nederlandse Praktijk Richtlijn |
+| NVN-ISO/IEC TS 8200         | Information technology - Artificial intelligence - Controllability of automated artificial intelligence systems | Nederlandse Voornorm         |
+
 
 
 ## Wat moeten Nederlandse overheidsorganisaties doen?

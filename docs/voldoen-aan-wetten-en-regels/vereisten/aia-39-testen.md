@@ -3,7 +3,9 @@ title: Hoog-risico-AI-systemen zijn getest.
 id: urn:nl:ak:ver:aia-39
 toelichting: AI-systemen met een hoog risico worden getest met het oog op het vaststellen van de passendste en gerichte risicobeheersmaatregelen.
 levenscyclus:
-- organisatieverantwoordelijkheden
+- ontwerp
+- ontwikkel
+- monitoring-en-beheer
 onderwerp:
 - technische-robuustheid-en-veiligheid
 soort-toepassing:
@@ -26,7 +28,7 @@ rollen:
 Hoog-risico-AI-systemen zijn getest.
 
 ## Toelichting
-AI-systemen met een hoog risico worden getest met het oog op het vaststellen van de passendste en gerichte risicobeheersmaatregelen.
+AI-systemen met een hoog risico worden getest met het oog op het vaststellen van de passende en gerichte risicobeheersmaatregelen.
 De tests zorgen ervoor dat AI-systemen met een hoog risico consistent presteren ten aanzien van het doel ervan en in overeenstemming zijn met de geldende eisen.
 
 Het testen van AI-systemen met een hoog risico vindt, zoals passend, in de loop van het ontwikkelproces plaats en in ieder geval voordat het systeem in de handel wordt gebracht of in gebruik is gesteld. 

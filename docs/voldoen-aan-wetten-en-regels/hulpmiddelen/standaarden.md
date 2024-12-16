@@ -18,27 +18,33 @@ Europese normen zijn essentieel voor de AI Verordening, omdat ze geharmoniseerde
 Veel Europese normen beginnen als internationale ISO-normen en worden vervolgens aangepast aan de Europese context.
 
 ## Waarom zijn standaarden belangrijk voor de AI-verordening?
+Standaarden zijn onmisbaar binnen de AI-verordening omdat ze organisaties helpen om te voldoen aan wettelijke eisen.
+Wanneer een organisatie zich houdt aan de bijbehorende _geharmoniseerde Europese normen_, kun je bewijzen dat er wordt voldaan aan de AI-verordening (Presumption of Conformity).
+Dit betekent dat het AI-systeem wordt beschouwd als conform de wettelijke vereisten, wat zorgt voor juridische zekerheid en eenvoudiger toezicht​.
 
-### Presumption of Conformity (vermoeden van overeenstemming)
-
-### Juridische waarde en voordelen van geharmoniseerde Europese normen
-
-### Praktische impact: van risicobeheer tot kwaliteitsmanagement
-
+Geharmoniseerde normen hebben daarnaast een duidelijke praktische waarde. Ze vertalen abstracte wettelijke verplichtingen uit de AI-verordening naar concrete technische en organisatorische eisen, bijvoorbeeld op het gebied van risicomanagement en kwaliteitsmanagement, maar ook voor [duurzaamheid](../../onderwerpen/duurzaamheid.md) en [transparantie](../../onderwerpen/transparantie.md)​.
+In de praktijk helpen standaarden organisaties bij het ontwikkelen en implementeren van betrouwbare AI-systemen.
 
 ## Wat is er al beschikbaar? Een overzicht van bestaande standaarden
 
 ### Belangrijke internationale (ISO/IEC) en Europese normen
 
+
 ### Overzicht van actuele standaarden die relevant zijn voor de AI-verordening
+
+
+
 
 ## De rol van de JTC 21
 
+
 ## Wat moeten Nederlandse overheidsorganisaties doen?
 
-### Hoe gebruik je bestaande AI-standaarden?
+Hoe gebruik je bestaande AI-standaarden?
+
 
 ## Verwachte ontwikkelingen
+
 
 ## Bronnen
 Lijst van gebruikte bronnen, standaarden, en aanvullende documentatie

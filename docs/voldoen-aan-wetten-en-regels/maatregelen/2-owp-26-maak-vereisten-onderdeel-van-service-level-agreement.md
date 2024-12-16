@@ -54,15 +54,15 @@ Maak de vereiste onderdeel van Service Level Agreement
 - Onderzoek met het inkoopteam welke vereiste voor een verantwoorde inzet van algoritmes onderdeel moeten worden gemaakt van de Service Level Agreement. 
 - Laat de aanbieder aangeven welke vormen van onderhoud aan de betreffende algoritmes nodig zijn en de snelheid waarmee signalen vanuit gebruik, ongeacht de bron, kunnen worden verwerkt in het systeem en welke expertise hiervoor beschikbaar is. 
 
-## Risico 
-<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Zonder concrete afspraken te maken in de SLA, ontstaat het risico dat aloritmes (tijdelijk) of te langdurig niet kunnen worden gebruikt, onjuist fuctioneren of dat er geen verantwoording over de output kan worden afgelegd.
-
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
 <!-- list_vereisten_on_maatregelen_page -->
+
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Zonder concrete afspraken te maken in de SLA, ontstaat het risico dat aloritmes (tijdelijk) of te langdurig niet kunnen worden gebruikt, onjuist fuctioneren of dat er geen verantwoording over de output kan worden afgelegd.
 
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->

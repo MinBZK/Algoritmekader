@@ -17,7 +17,7 @@ hide:
     </div>
 </div>
 
-<a href="overhetalgoritmekader/" class="button md-button--secondary"> Over het algoritmekader </a> 
+<a href="overhetalgoritmekader/over-het-algoritmekader/" class="button md-button--secondary"> Over het algoritmekader </a> 
 
 <div class="float-container">
 

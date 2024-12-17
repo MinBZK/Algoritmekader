@@ -1,5 +1,5 @@
 ---
-title: Persoonsgegevens zijn juist en actueel
+title: Persoonsgegevens zijn juist en actueel.
 id: urn:nl:ak:ver:avg-05
 toelichting: De te verwerken persoonsgegevens zijn juist, nauwkeurig en worden zo nodig geactualiseerd of gewist.
 levenscyclus:
@@ -16,14 +16,14 @@ hide:
 <!-- tags -->
 ## Vereiste
 
-De te verwerken persoonsgegevens zijn juist, nauwkeurig en worden zo nodig geactualiseerd of gewist.
+Persoonsgegevens zijn juist en actueel.
 
 ## Toelichting
 
 De te verwerken persoonsgegevens moeten nauwkeurig, juist en zo nodig actueel zijn.
 Dit betekent dat alle maatregelen moeten worden genomen om ervoor te zorgen dat onjuiste persoonsgegevens worden gerectificeerd of gewist.
-Dat kan betekenen dat persoonsgegevens moeten worden geactualiseerd of verbeterd.
-In de context van algoritmes is het van belang dat ook daar wordt onderzocht welke maatregelen nodig zijn om die juistheid toe te passen.
+
+Dat kan betekenen dat persoonsgegevens moeten worden geactualiseerd of verbeterd. In de context van algoritmes is het van belang dat ook daar wordt onderzocht welke maatregelen nodig zijn om die [juistheid](../maatregelen/2-owp-11-gebruikte-data.md) toe te passen.
 
 ## Bronnen
 

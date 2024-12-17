@@ -1,9 +1,10 @@
 --- 
-title: Ontwerp
+title: Fase 2, ontwerp
 hide:
 - toc
 ---
 
+# Fase 2: Ontwerp
 In de ontwerpfase wordt het conceptuele ontwerp van het algoritme uitgedacht. 
 Het is van belang om belangrijke uitgangspunten en beleid, zoals doelarchitectuur en de datastrategie, van de betreffende organisatie meteen te verwerken in het ontwerp en dat het applicatielandschap en de databronnen in beeld wordt gebracht. 
 In deze fase worden doorgaans veel werkzaamheden verzet, zoals business- en informatieanalyse, om een goed beeld te krijgen hoe aan de beoogde doelstellingen kan worden voldaan met een passende oplossing.  

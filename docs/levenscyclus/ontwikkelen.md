@@ -1,9 +1,10 @@
 --- 
-title: Ontwikkelen
+title: Fase 4, ontwikkelen
 hide:
 - toc
 ---
 
+# Fase 4: Ontwikkelen
 Dit is de fase waarin het algoritme wordt ontwikkeld door het ontwikkelteam. 
 Als het gaat om AI-systemen, omvat deze fase het trainen van modellen met behulp van de voorbereide gegevens.
 Als het gaat om algoritmes op basis van rekenregels, betreft dit het implementeren van deze rekenregels in de (ontwikkelomgeving van de) systemen.  

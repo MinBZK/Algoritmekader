@@ -10,6 +10,13 @@ hide:
 
 <div style="margin-top:32px;" class="grid cards" markdown>
 
+-  [__Over de levenscyclus__](over-de-levenscyclus.md)
+
+    ---
+
+    De levenscyclus helpt je te bepalen wat je wanneer moet doen. Hoe ziet dit eruit in een plaatje? En waarom 8 fasen?
+   
+
 -  [__Fase 0: Organisatieverantwoordelijkheden__](organisatieverantwoordelijkheden.md)
 
     ---
@@ -47,19 +54,19 @@ hide:
 
     Bij de verificatie en validatie van het algoritme of AI-systeem dient bepaald te worden of het algoritme of AI-systeem gebouwd is volgens de (technische) specificaties en voldoet aan de beoogde doelstellingen.
 
--   [__Fase 6: Implementatie__](implementatie/)
+-   [__Fase 6: Implementatie__](implementatie.md)
 
     ---
 
     In deze fase wordt het algoritme of AI-systeem in de praktijk gebracht en duurzaam geïntegreerd in het bedrijfsproces.
 
--  [__Fase 7: Monitoring en beheer__](monitoring-en-beheer/)
+-  [__Fase 7: Monitoring en beheer__](monitoring-en-beheer.md)
 
     ---
 
     Het algoritme of AI-systeem wordt in deze fase voortdurend gemonitord om ervoor te zorgen dat het blijft presteren zoals verwacht en kan worden gebruikt door gebruikers.
 
--   [__Fase 8: Uitfaseren__](uitfaseren/)
+-   [__Fase 8: Uitfaseren__](uitfaseren.md)
 
     ---
 

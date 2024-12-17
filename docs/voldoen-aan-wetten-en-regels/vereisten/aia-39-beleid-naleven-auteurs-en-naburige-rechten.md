@@ -40,6 +40,7 @@ Het AI-bureau moet kunnen controleren of de aanbieder aan deze eisen voldoet, zo
 
 ## Bronnen
 [Artikel 53(1 sub c) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5576-1-1)
+
 [Artikel 4(3) Richtlijn inzake auteursrechten en naburige rechten in de digitale eengemaakte markt en tot wijziging van Richtlijnen (96/9/EG en 2001/29/EG)](https://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=CELEX:32019L0790). 
 
 ## Wanneer van toepassing? 

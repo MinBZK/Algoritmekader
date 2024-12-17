@@ -26,15 +26,16 @@ Europese _geharmoniseerde standaarden_ zijn essentieel voor de AI Verordening, o
 Wanneer AI-systemen worden ontworpen of gebruikt, bieden standaarden praktische richtlijnen en technische kaders (praktische meerwaarde) waarmee compliance aantoonbaar kan worden gemaakt (juridische meerwaarde).
 
 ### Juridische waarde van standaarden
-Als een organisatie zich houdt aan de bij de wet behorende _geharmoniseerde Europese normen_, wordt aangenomen dat er wordt voldaan aan de AI-verordening (_Presumption of Conformity_). Dit betekent dat het AI-systeem wordt beschouwd als conform de wettelijke vereisten, wat zorgt voor juridische zekerheid en eenvoudiger toezicht​.
-Hoewel het gebruik van standaarden vrijwillig is, bewijst naleving ervan dat producten en diensten een bepaald niveau van kwaliteit, veiligheid en betrouwbaarheid bereiken. In sommige gevallen worden standaarden in de wetgeving genoemd als een voorkeursmethode of zelfs als een verplichte vereiste om aan specifieke wetten te voldoen, zoals veiligheidswetgeving of interoperabiliteitsvereisten. 
+Als een organisatie zich houdt aan de bij de wet behorende _geharmoniseerde Europese normen_, wordt aangenomen dat er wordt voldaan aan de essentiële eisen voor hoog-risico AI-systemen in de AI-verordening (_Presumption of Conformity_). Dit betekent dat het AI-systeem wordt beschouwd als conform de wettelijke vereisten voor hoog-risico AI-systemen, wat zorgt voor juridische zekerheid en eenvoudiger toezicht​. Let wel: dit geldt voor de vereisten voor hoog-risico systemen; Artikel 4 ([AI-geletterdheid](../vereisten/aia-01-ai-geletterdheid.md)) valt bijvoorbeeld buiten deze scope.
+
+De geharmoniseerde normen zijn niet wettelijk verplicht, maar dankzij de _presumption of conformity_ wel juridisch bindend. Organisaties mogen er voor kiezen om de geharmoniseerde norm níet te implementeren, maar moeten dan onderbouwen dat hun eigen standaard op adequate wijze invulling geeft aan de essentiële eisen. Dit kost tijd en geld, en er is schaarse expertise voor nodig. Het geeft bovendien juridische onzekerheid. De verwachting is dat verreweg de meeste organisaties daarom de geharmoniseerde normen zullen volgen.
 
 ### Praktische waarde van standaarden
 Geharmoniseerde normen hebben daarnaast een duidelijke praktische waarde. Ze vertalen abstracte wettelijke verplichtingen uit de AI-verordening naar concrete technische en organisatorische eisen, bijvoorbeeld op het gebied van risicomanagement en kwaliteitsmanagement, maar ook voor [duurzaamheid](../../onderwerpen/duurzaamheid.md) en [transparantie](../../onderwerpen/transparantie.md)​. Er zullen standaarden ontwikkeld worden voor de AI-verordening op het gebied van [verschillende fases in de algoritme-levenscyclus](../../levenscyclus/index.md). Zo helpen standaarden organisaties dus bij het ontwikkelen en implementeren van betrouwbare AI-systemen.
 
 ## Een overzicht van belangrijke standaarden
 
-### Standaarden die worden ontwikkeld voor de AI-verordening
+### Normen die worden ontwikkeld voor de AI-verordening
 Er is een standaardisatieverzoek gedaan door de Europese Commissie op 10 specifieke aspecten van AI. Deze aspecten vind je ook terug in de verschillende [onderwerpen](../../onderwerpen/index.md) die in het Algoritmekader terugkomen.
 
 1. Risicomanagement ("Risk Management")
@@ -48,11 +49,11 @@ Er is een standaardisatieverzoek gedaan door de Europese Commissie op 10 specifi
 9. Kwaliteitsmanagement ("Quality Management")
 10. Conformiteitsassessment ("Conformity Assessment")
 
-Enkele van de belangrijkste standaarden die worden ontwikkeld voor het voldoen aan de vereisten voor hoog-risico AI systemen, zullen zijn:
+Enkele van de belangrijkste normen die worden ontwikkeld voor het voldoen aan de vereisten voor hoog-risico AI systemen, zullen zijn:
 - AI trustworthiness framework
-- AI risk management
-- Quality management for EU AI regulatory purposes
-- Conformity assessment 
+- AI risk management (AI risicomanagement)
+- Quality management for EU AI regulatory purposes (AI kwaliteitsmanagement)
+- Conformity assessment (conformiteitsbeoordeling)
 
 #### Duurzaamheid
 Wat in deze 10 standaardisatieverzoeken nog niet terugkomt, maar wel in het Algoritmekader, is [duurzaamheid](../../onderwerpen/duurzaamheid.md). Momenteel worden er wel enkele TR's en TS's ontwikkeld. Zodra die bekend zijn, zullen deze worden aangevuld met meer informatie of links.
@@ -104,7 +105,7 @@ Nederlandse overheidsorganisaties kunnen standaarden gebruiken als praktische hu
 
 Hoe gebruik je standaarden?
 
-1. Kies de juiste standaarden: Begin met het identificeren van relevante standaarden en het begrijpen hoe deze toegepast kunnen worden. Focus op geharmoniseerde Europese normen die aansluiten bij de AI-verordening, en wanneer die er nog niet zijn, kies onderwerpen die aansluiten bij de onderwerpen uit de AI-verordening, door te kijken naar de lijst van 10 onderwerpen waarvoor een standaardisatieverzoek ligt (zie hierboven).
+1. Kies de juiste standaarden: Begin met het identificeren van relevante standaarden en het begrijpen hoe deze toegepast kunnen worden. Focus op geharmoniseerde Europese normen die aansluiten bij de AI-verordening, en wanneer die er nog niet zijn, kies standaarden die aansluiten bij de onderwerpen uit de AI-verordening, door te kijken naar de lijst van 10 onderwerpen waarvoor een standaardisatieverzoek ligt (zie hierboven).
 3. Pas standaarden toe in de praktijk: Gebruik standaarden als richtlijnen om technische processen en organisatorische maatregelen in te richten, zoals het waarborgen van datakwaliteit, transparantie en betrouwbaarheid van AI-systemen​.
 4. Blijf op de hoogte: Volg de ontwikkelingen binnen JTC 21 en houd bij welke internationale standaarden worden opgenomen in het Europese normalisatieproces.
 Door standaarden actief te gebruiken, kunnen overheidsorganisaties hun AI-systemen veiliger en betrouwbaarder maken en tegelijkertijd voldoen aan de wettelijke vereisten van de AI-verordening.

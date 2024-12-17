@@ -23,17 +23,18 @@ hide:
 <!-- tags -->
 ## Vereiste
 
-Gebruiksverantwoordelijken van AI-systemen met een hoog risico bewaren de logs die automatisch worden gegenereerd door dat AI-systeem met een hoog risico voor zover dergelijke logs onder hun controle vallen gedurende een periode die passend is voor het beoogde doel van het AI-systeem met een hoog risico, of ten minste zes maanden, tenzij anders is bepaald in het toepasselijke Unie- of nationaal recht, meer in het bijzonder het Unierecht over de bescherming van persoonsgegevens
+Logs voor hoog-risico-AI-systemen worden bewaard door de gebruiksverantwoordelijke.
 
 ## Toelichting
+Gebruiksverantwoordelijken van AI-systemen met een hoog risico bewaren de logs die automatisch worden gegenereerd door dat AI-systeem met een hoog risico voor zover dergelijke logs onder hun controle vallen gedurende een periode die passend is voor het beoogde doel van het AI-systeem met een hoog risico, of ten minste zes maanden, tenzij anders is bepaald in het toepasselijke Unie- of nationaal recht, meer in het bijzonder het Unierecht over de bescherming van persoonsgegevens
 
 Anders dan in artikel 16(e) AI-verordening, waar een vergelijkbare vereiste geldt voor aanbieders, gaat het hier om een vereiste specifiek voor de gebruiksverantwoordelijken.
+
 Het is van belang dat de gebruiksverantwoordelijken een zelfstandige beoordeling maakt wat moet worden gelogd en voor welke periode gezien de doelstelling van de inzet van het AI-systeem.
+
 Daarbij is het van belang om te beoordelen in hoeverre een gebruiksverantwoordelijke hier 'controle' over heeft.
+
 De gebruiksverantwoordelijke zal, al dan niet samen met de aanbieder, (technische) maatregelen moeten treffen om dit te realiseren.
-
-
-Gebruiksverantwoordelijken die in de hoedanigheid van financiële instellingen onderworpen zijn aan eisen met betrekking tot hun interne governance, regelingen of processen uit hoofde van het Unierecht inzake financiële diensten bewaren de logs als onderdeel van de documentatie die bewaard wordt krachtens het desbetreffende Unierecht inzake financiële diensten.
 
 ## Bronnen
 
@@ -41,7 +42,6 @@ Gebruiksverantwoordelijken die in de hoedanigheid van financiële instellingen o
 
 ## Wanneer van toepassing? 
 <!-- tags-ai-act -->
-
 
 ## Risico
 

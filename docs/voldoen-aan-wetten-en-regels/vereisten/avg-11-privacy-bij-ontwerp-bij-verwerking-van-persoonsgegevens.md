@@ -19,7 +19,7 @@ hide:
 <!-- tags -->
 
 ## Vereiste
-Privacy en gegevensbescherming door goed ontwerp en door standaardinstellingen
+Privacy en gegevensbescherming door goed ontwerp en door standaardinstellingen.
 
 ## Toelichting
 Gegevensbescherming door ontwerp en standaardinstellingen houdt in dat privacy- en gegevensbescherming vanaf het begin worden geïntegreerd in de ontwikkeling van systemen en processen (ook wel privacy-by-design genoemd).

@@ -1,5 +1,5 @@
 ---
-title: Informatie over algoritmes worden in goede, geordende en toegankelijke staat gebracht, bewaard en vernietigd wanneer nodig.
+title: Informatie over algoritmes wordt in goede, geordende en toegankelijke staat gebracht, bewaard en vernietigd wanneer nodig.
 id: urn:nl:ak:ver:arc-01
 toelichting: Overheden moeten informatie over algoritmes in goede, geordende en toegankelijke staat brengen en bewaren. Ook moeten ze zorgen voor de vernietiging van archiefbescheiden die daarvoor in aanmerking komen. 
 levenscyclus: 

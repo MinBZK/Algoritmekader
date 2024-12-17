@@ -1,5 +1,5 @@
 ---
-title: Persoonsgegevens worden zo kort mogelijk bewaard
+title: Persoonsgegevens worden zo kort mogelijk bewaard.
 id: urn:nl:ak:ver:avg-02
 toelichting: Persoonsgegevens moeten worden bewaard in een vorm die het mogelijk maakt om de betrokkenen niet langer te identificeren dan nodig is voor de realisering van de doeleinden waarvoor de persoonsgegevens initieel worden verwerkt.
 levenscyclus:

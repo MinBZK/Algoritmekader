@@ -34,7 +34,7 @@ De aanbieder stelt voor elk AI-systeem met een hoog risico een schriftelijke mac
 
 De conformiteitsverklaring bevat de informatie zoals genoemd in bijlage V AI-verordening.
 
-Voorbeelden hiervan zijn de naam en type van het AI-systeem, naam en adres van de aanbieder, dat de EU-conformiteitsverklaring wordt versterkt onder verantwoordelijkheid van de aanbieder en de vermelding van eventuele toegepaste relevante geharmoniseerde normen of van andere gemeenschappelijke specificaties waarop de conformiteitsverklaring betrekking heeft.
+Voorbeelden hiervan zijn de naam en type van het AI-systeem, naam en adres van de aanbieder, dat de EU-conformiteitsverklaring wordt versterkt onder verantwoordelijkheid van de aanbieder en de vermelding van eventuele toegepaste [relevante geharmoniseerde normen](../hulpmiddelen/standaarden.md) of van andere gemeenschappelijke specificaties waarop de conformiteitsverklaring betrekking heeft.
 
 ## Bronnen
 

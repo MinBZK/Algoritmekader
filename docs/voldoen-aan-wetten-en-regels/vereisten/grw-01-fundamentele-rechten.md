@@ -54,5 +54,5 @@ Grondrechten kunnen worden geraakt door de inzet van algoritmes met eventuele sc
 ## Maatregelen { data-search-exclude }
 <!-- list_maatregelen vereiste/grw-01-fundamentele-rechten no-search no-onderwerp no-rol no-levenscyclus -->
 
-## hulpmiddelen
+## Hulpmiddelen
 <!-- list_hulpmiddelen vereiste/grw-01-fundamentele-rechten no-search no-onderwerp no-rol no-levenscyclus no-id -->

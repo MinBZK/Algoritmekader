@@ -32,7 +32,9 @@ Elke getroffen persoon op wie een besluit van toepassing is dat door de gebruiks
 
 Die uitleg moet duidelijk en zinvol zijn en moet de grondslag zijn waarop de getroffen personen zich kunnen baseren om hun rechten uit te oefenen.
 
-Het recht om uitleg te krijgen mag niet van toepassing zijn op het gebruik van AI-systemen waarvoor uitzonderingen of beperkingen voortvloeien uit het Unierecht of het nationale recht en moet alleen van toepassing zijn voor zover het Unierecht niet reeds in dit recht voorziet. Dit vereiste geldt bijvoorbeeld niet als het gaat om AI-systemen die bedoeld zijn om te worden gebruikt als veiligheidscomponent bij het beheer of de exploitatie van kritieke digitale infrastructuur, wegverkeer of bij de levering van water, gas, verwerking en electriciteit (punt 2 bij Bijlage III van AI-verordening).
+Het recht om uitleg te krijgen mag niet van toepassing zijn op het gebruik van AI-systemen waarvoor uitzonderingen of beperkingen voortvloeien uit het Unierecht of het nationale recht en moet alleen van toepassing zijn voor zover het Unierecht niet reeds in dit recht voorziet.
+
+Dit vereiste geldt bijvoorbeeld niet als het gaat om AI-systemen die bedoeld zijn om te worden gebruikt als veiligheidscomponent bij het beheer of de exploitatie van kritieke digitale infrastructuur, wegverkeer of bij de levering van water, gas, verwerking en electriciteit (punt 2 bij Bijlage III van AI-verordening).
 
 ## Bronnen
 

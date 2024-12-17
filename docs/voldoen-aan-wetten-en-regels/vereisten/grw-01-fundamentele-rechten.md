@@ -29,7 +29,7 @@ Om mensenrechten te beschermen zijn ze op Europees en internationaal niveau in v
 
 Mensenrechten kunnen bij overheidshandelen en de inzet van algoritmes soms onder druk komen te staan.
 De inzet van algoritmes kan bijvoorbeeld een bedreiging vormen voor de privacy van burgers, voor het recht op gelijke behandeling en voor het recht op behoorlijk bestuur.
-Het is daarom belangrijk om tijdig te onderzoeken of er sprake is of kan zijn van een eventuele inbreuk op fundamentele rechten en vrijheden van burgers. Het is van belang dat maatregelen worden getroffen om een eventuele inbreuk te voorkomen.
+Het is daarom belangrijk om [tijdig te onderzoeken of er sprake is of kan zijn van een eventuele inbreuk op fundamentele rechten](../hulpmiddelen/IAMA.md) en vrijheden van burgers. Het is van belang dat maatregelen worden getroffen om een eventuele inbreuk te voorkomen.
 
 ## Bronnen
 

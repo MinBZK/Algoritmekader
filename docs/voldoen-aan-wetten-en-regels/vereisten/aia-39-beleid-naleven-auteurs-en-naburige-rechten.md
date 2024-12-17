@@ -28,7 +28,7 @@ Aanbieders van AI-modellen voor algemene doeleinden stellen beleid op ter nalevi
 
 Hiervoor dient de rechthebbende van materialen die auteursrechtelijk zijn beschermd een uitdrukkelijk voorbehoud te hebben gemaakt om het verder gebruik van deze materialen. 
 
-Deze eis geldt ongeacht de jurisdictie waarin de auteursrechtelijke relevante handelingen plaatsvinden die helpen die AI-modellen voor algemene doeleienden te trainen.
+Deze eis geldt ongeacht de jurisdictie waarin de auteursrechtelijke relevante handelingen plaatsvinden die helpen bij het trainen van die AI-modellen voor algemene doeleienden.
 
 Alleen op deze manier kan gezorgd worden voor een gelijk speelveld voor aanbieders van AI-modellen voor algemene doeleinden, waar geen enkele aanbieder zich een concurrentievoordeel op de Uniemarkt mag kunnen verschaffen met lagere auteursrechtelijke normen dan de in de Unie toepasselijke normen.
 

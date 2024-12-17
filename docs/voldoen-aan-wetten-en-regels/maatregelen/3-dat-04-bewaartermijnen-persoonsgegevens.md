@@ -50,8 +50,12 @@ verwerkingsdoeleinden noodzakelijk is.
 
     !!! example "UWV: Klantapplicatie WW"
 
-        _Dit voorbeeld kan zonder veel aanpassingen in uw organisatie gebruikt worden._<br>
-        Het UWV maakt gebruik van algoritme rondom WW-uitkering. Hiervoor geven ze aan welke persoonsgegevens gebruikt worden in een lijst. Daarna worden via een tabel toegelicht waar deze persoonsgegevens exact voor worden gebruikt. Zo wordt bijvoorbeeld ‘geslacht’ gebruikt voor ‘aanhef in de brief’ 
+        _Dit voorbeeld heeft een aantal aanpassingen nodig voordat deze in uw organisatie te gebruiken is._<br><br>
+        Het UWV heeft in haar privacy statement aangegeven dat zij zich houdt aan de richtlijnen van de Archiefwet voor het bewaren van persoonsgegevens. Hierin staat beschreven welke data bewaard/verwijderd moet worden en op welke termijn. Er staat hier ook een kopje over “Uitvoering Vernietiging” waarin uitgelegd staat dat een afdeling binnen het UWV de vernietiging uitvoert.<br>
+        Dit voorbeeld zou verder uitgebreid kunnen worden door de vernietigingsprocedure verder toe te lichten. Op dit moment wordt niet uitgelegd over hoe elektronische of fysieke data vernietigd wordt.<br><br>
+        Bron: [Selectielijst UWV - Nationaal Archief](https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-voor-het-uitvoeringsinstituut-werknemersverzekeringen-uwv-voor)
 
-        Bron: [Klantapplicatie WW - UWV](https://www.uwv.nl/nl/over-uwv/organisatie/algoritmeregister-uwv/klantapplicatie-ww)
+
+
+
 

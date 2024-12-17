@@ -33,8 +33,6 @@ Bij het verwerken van persoonsgegevens voor algoritmes moeten de verantwoordelij
 
 De verwerkingsverantwoordelijke is degene die ervoor zorgt dat deze verantwoordelijkheden worden nageleefd en kan dit aantonen, wat bekend staat als de verantwoordingsplicht.
 
-Deze maatregelen zijn essentieel om de naleving van regelgeving met betrekking tot gegevensbescherming te waarborgen en het vertrouwen van gebruikers in de verwerking van hun gegevens te vergroten.
-
 ## Bronnen 
 
 - [Artikel 5 lid 2 Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679#d1e1802-1-1)

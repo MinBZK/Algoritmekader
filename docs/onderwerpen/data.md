@@ -13,7 +13,6 @@ Verantwoord datagebruik betekent:
 * Rechtmatig gebruik van gegevens 
 * Goede datakwaliteit
 * Goed databeheer
-* nieuwe test optie
 
 ### Rechtmatig gebruik van data
 Net als organisaties mogen algoritmes niet zomaar gegevens verzamelen en gebruiken. Dit moet rechtmatig gebeuren: volgens de wettelijke regels. Zo moet je rekening houden met auteursrechten. Ook vóórdat het algoritme in gebruik is, moet je rechtmatig omgaan met data. Dus tijdens het trainen, valideren en testen.

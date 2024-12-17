@@ -38,16 +38,16 @@ Geharmoniseerde normen hebben daarnaast een duidelijke praktische waarde. Ze ver
 ### Normen die worden ontwikkeld voor de AI-verordening
 Er is een standaardisatieverzoek gedaan door de Europese Commissie op 10 specifieke aspecten van AI. Deze aspecten vind je ook terug in de verschillende [onderwerpen](../../onderwerpen/index.md) die in het Algoritmekader terugkomen.
 
-1. Risicomanagement ("Risk Management")
-2. Gegevensbeheer en -kwaliteit ("Data Governance and Quality")
-3. Logging ("Record Keeping")
-4. Transparantie ("Transparency")
-5. Menselijke controle ("Human Oversight")
-6. Accuraatheid ("Accuracy")
-7. Robuustheid ("Robustness")
+1. Risicomanagement
+2. Gegevensbeheer en -kwaliteit
+3. Logging ("Record Keeping" in de Engelse teksten)
+4. Transparantie
+5. Menselijke controle (soms ook wel _Menselijk toezicht_ genoemd)
+6. Accuraatheid
+7. Robuustheid
 8. Cybersecurity
-9. Kwaliteitsmanagement ("Quality Management")
-10. Conformiteitsassessment ("Conformity Assessment")
+9. Kwaliteitsmanagement
+10. Conformiteitsbeoordeling
 
 Enkele van de belangrijkste normen die worden ontwikkeld voor het voldoen aan de vereisten voor hoog-risico AI systemen, zullen zijn:
 - AI trustworthiness framework

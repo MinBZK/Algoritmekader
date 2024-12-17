@@ -20,7 +20,7 @@ Het is daarom van belang dat de wensen en vereisten goed in beeld worden gebrach
 Het publiek inkopen van algoritmes biedt naast het voldoen aan vereisten, een waardevolle kans om nadere invulling te geven aan publieke waarden die worden nagestreefd door overheidsorganisaties.
 
 ## Maak een uitgebreide behoeftestelling
-Afhankelijk van de [behoeftestelling](https://www.pianoo.nl/nl/stappenplan-behoefteanalyse), moet worden beoordeeld aan welke vereiste de benodigde algoritmes van leveranciers moet voldoen en hoe deze betekenisvol kunnen worden geadresseerd. Het is raadzaam om deze beoordeling met een multidisciplinair team te doen. 
+Afhankelijk van de [behoeftestelling](https://www.pianoo.nl/nl/stappenplan-behoefteanalyse), moet worden beoordeeld aan welke vereiste de benodigde algoritmes van leveranciers moet voldoen en hoe deze betekenisvol kunnen worden geadresseerd. Omdat algoritmes bijzondere kenmerken en effecten kunnen hebben, zoals een niet-transparante of onbedoelde discriminerende werking, moet hier aandacht voor zijn. Het is raadzaam om deze beoordeling met een multidisciplinair team te doen. 
 
 Beantwoord in elk geval de volgende vragen:
 

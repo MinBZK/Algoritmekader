@@ -15,7 +15,7 @@ Dit betekent:
 * [Beveiligen](technische-robuustheid-en-veiligheid.md) van persoonsgegevens
 * [Transparant](transparantie.md) zijn over het gebruik van persoonsgegevens
 
-Als overheid moet je hier goed op letten. Doe dit zo vroeg mogelijk in de [levenscyclus](../../levenscyclus.md) van het algoritme.
+Als overheid moet je hier goed op letten. Doe dit zo vroeg mogelijk in de [levenscyclus](../levenscyclus.md) van het algoritme.
 
 ## Rechtmatig persoonsgegevens gebruiken
 Als je persoonsgegevens gebruikt voor algoritmes, moet je rekening houden met wetgeving, zoals de Algemene Verordening Gegevensbescherming (AVG) en de Auteurswet. De belangrijkste regels zijn:

@@ -1,5 +1,5 @@
 ---
-title: Organisaties kunnen bewijzen dat zij persoonsgegevens op de juiste manier verwerken
+title: Organisaties kunnen bewijzen dat zij persoonsgegevens op de juiste manier verwerken.
 id: urn:nl:ak:ver:avg-06
 toelichting: Bij het verwerken van persoonsgegevens voor algoritmes moeten de verantwoordelijken kunnen aantonen dat de verwerking rechtmatig is.
 levenscyclus: 
@@ -14,7 +14,9 @@ rollen:
 
 <!-- tags -->
 ## Vereiste
+Organisaties kunnen bewijzen dat zij persoonsgegevens op de juiste manier verwerken.
 
+## Toelichting 
 De verantwoordelijken moeten bij de verwerking van persoonsgegevens door algoritmes kunnen aantonen dat de verwerkingen rechtmatig plaatsvinden.
 Dit betekent concreet dat de volgende punten aangetoond kunnen worden:
 
@@ -27,10 +29,10 @@ Dit betekent concreet dat de volgende punten aangetoond kunnen worden:
 
 Een aandachtpunt daarbij is dat de rechtmatigheid van de verwerking ten opzichte van andere gerelateerde wetgeving zoals de AI Act en de Algemene wet gelijke behandeling ook moeten kunnen worden aangetoond voor zover de rechtmatigheid van de verwerking onder de AVG daarvan afhankelijk is.
 
-## Toelichting 
-
 Bij het verwerken van persoonsgegevens voor algoritmes moeten de verantwoordelijkheden duidelijk beschreven en toegewezen zijn.
+
 De verwerkingsverantwoordelijke is degene die ervoor zorgt dat deze verantwoordelijkheden worden nageleefd en kan dit aantonen, wat bekend staat als de verantwoordingsplicht.
+
 Deze maatregelen zijn essentieel om de naleving van regelgeving met betrekking tot gegevensbescherming te waarborgen en het vertrouwen van gebruikers in de verwerking van hun gegevens te vergroten.
 
 ## Bronnen 

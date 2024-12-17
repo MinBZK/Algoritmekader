@@ -1,5 +1,5 @@
 ---
-title: Besluiten die levens kunnen beïnvloeden, zijn niet volledig geautomatiseerd
+title: Besluiten die levens kunnen beïnvloeden, zijn niet volledig geautomatiseerd.
 id: urn:nl:ak:ver:avg-10
 toelichting: Betrokkenen hebben het recht om niet onderworpen te worden aan een enkel op geautomatiseerde verwerking, waaronder proflering, gebaseerd besluit, wanneer dit rechtsgevolgen heeft voor hen of het hen anderszins in aanzienlijke mate treft.
 status_vereiste: 
@@ -25,7 +25,9 @@ Betrokkenen hebben het recht om niet onderworpen te worden aan een enkel op geau
 ## Toelichting
 
 Overheidsorganisaties zijn vaak belast met de uitvoering van wettelijke taken waarbij zij 'besluiten' moeten nemen, bijvoorbeeld als een burger vraagt om een uitkering, toeslag of een subsidie.
+
 Hiervoor moeten gegevens worden verwerkt om te kunnen bepalen of een burger hier ook recht op heeft. Om deze gegevens snel en accuraat te verwerken, zetten overheidsorganisaties vaak algoritmes in. Deze gegevens worden dan vaak 'geautomatiseerd' door deze algoritmes verwerkt, zonder dat een ambtenaar dit werk controleert.
+
 Soms wordt het proces voor het nemen van een **besluit** volledig geautomatiseerd ingericht. Denk hierbij aan het opleggen van een boete voor een snelheidsovertreding. Hierdoor kan in korte tijd en op een efficiënte wijze, een grote hoeveelheid besluiten worden genomen. 
 
 Het geautomatiseerd verwerken van gegevens voor de totstandkoming van een besluit brengt risico's met zich mee. Zeker als hierbij persoonsgegevens van individuen worden verwerkt en er sprake is van profilering. Hierdoor ontstaat bijvoorbeeld het risico op discriminatie. Daarom is in art. 22 AVG het recht voor betrokkenen gecreëerd om niet te worden onderworpen aan een uitsluitend op geautomatiseerde verwerking, waaronder profilering, gebaseerd besluit. 
@@ -36,7 +38,9 @@ Bij het geautomatiseerd uitvoeren van processen dient altijd te worden voldaan a
 
 ### Algemene eisen aan geautomatiseerde besluitvorming door overheden
 
-De Nederlandse wetgever heeft in artikel 40 lid 1 UAVG gebruik gemaakt van de mogelijkheid een uitzondering te maken op het verbod van art. 22 lid 1 AVG. In Nederland is geautomatiseerde besluitvorming toegestaan, als het gaat om besluitvorming waarbij menselijke tussenkomst geen toegevoegde waarde heeft. Dit is het geval als er sprake is van een gebonden karakter waarbij weinig of geen beoordelingsruimte is waarin tot een andere conclusie kan worden gekomen. Hierbij kan worden gedacht aan het toekennen van kinderbijslag of de hoogte van het recht op studiefinanciering. Deze uitzondering geldt niet voor 'profilering', tenzij er specifieke (sectorale) wetgeving het verbod opheft.
+De Nederlandse wetgever heeft in artikel 40 lid 1 UAVG gebruik gemaakt van de mogelijkheid een uitzondering te maken op het verbod van art. 22 lid 1 AVG. In Nederland is geautomatiseerde besluitvorming toegestaan, als het gaat om besluitvorming waarbij menselijke tussenkomst geen toegevoegde waarde heeft.
+
+Dit is het geval als er sprake is van een gebonden karakter waarbij weinig of geen beoordelingsruimte is waarin tot een andere conclusie kan worden gekomen. Hierbij kan worden gedacht aan het toekennen van kinderbijslag of de hoogte van het recht op studiefinanciering. Deze uitzondering geldt niet voor 'profilering', tenzij er specifieke (sectorale) wetgeving het verbod opheft.
 
 Om deze uitzondering toe te kunnen passen, moet er op grond van artikel 22 AVG een 'passende maatregel' in de vorm van wetgeving zijn die personen voldoende bescherming biedt. In Nederland moet de Algemene wet bestuursrecht deze bescherming aan burgers bieden als bestuursorganen besluiten nemen. De Awb bevat vereisten en algemene beginselen waaraan besluitvorming moet voldoen. 
 
@@ -48,7 +52,9 @@ Bij het toepassen van geautomatiseerde besluitvorming, moet aan de hand van een 
 
 Profilering is bijzonder gevoelig. Bij profilering gaat het om elke vorm van een geautomatiseerde verwerking van persoonsgegevens, waarbij aan de hand van persoonsgegevens bepaalde persoonlijke aspecten van een natuurlijke persoon worden geëvalueerd. Daarbij gaat het voornamelijk om het analyseren of verspellen van zaken als beroepsprestaties, economische situatie, gezondheid, persoonlijke voorkeuren, interesses, betrouwbaarheid, gedrag, locatie of een verplaatsingen. 
 
-Volgens deze definitie gaat het om een verwerking door een computersysteem waarbij het systeem algemene aanname(s) toegepast in een concreet geval. Dit doet het door een individu, met gebruikmaking van diens persoonsgegevens, in te delen in een categorie(profiel). Een dergelijk categorie(profiel) wordt vaak in verband gebracht met bepaalde risico's, bijvoorbeeld het risico op het misbruiken van bepaalde publieke voorzieningen. De gevoeligheid is dat nog niet is vastgesteld dat, in dit voorbeeld, de betreffende natuurlijke persoon ook daadwerkelijk misbruik heeft gemaakt van bepaalde voorzieningen. Als daar wel automatisch gevolgen aan worden verbonden, ontstaat het risico op een onrechtmatige behandeling van een natuurlijk persoon. 
+Volgens deze definitie gaat het om een verwerking door een computersysteem waarbij het systeem algemene aanname(s) toegepast in een concreet geval. Dit doet het door een individu, met gebruikmaking van diens persoonsgegevens, in te delen in een categorie(profiel). Een dergelijk categorie(profiel) wordt vaak in verband gebracht met bepaalde risico's, bijvoorbeeld het risico op het misbruiken van bepaalde publieke voorzieningen. 
+
+De gevoeligheid is dat nog niet is vastgesteld dat, in dit voorbeeld, de betreffende natuurlijke persoon ook daadwerkelijk misbruik heeft gemaakt van bepaalde voorzieningen. Als daar wel automatisch gevolgen aan worden verbonden, ontstaat het risico op een onrechtmatige behandeling van een natuurlijk persoon. 
 
 #### Besluit
 
@@ -60,7 +66,9 @@ Het begrip 'rechtsgevolg' duidt op wijziging in de rechtspositie van betrokkene.
 
 #### Aanmerkelijke mate treffen
 
-De Europese wetgever heeft weinig richting gegeven aan hoe dit begrip moet worden geïnterpreteerd. Er zijn wel aanknopingspunten om te duiden wanneer hier sprake van is. De EDPB spreekt van ernstige, aanzienlijke effecten, groot of belangrijk genoeg zijn om aandacht te verdienen. Dat is in ieder geval zo als het besluit het potentieel heeft om de omstandigheden, het gedrag of de keuze van de betrokken personen in aanmerkelijke mate te treffen; een langdurig of blijvend effect op de betrokkene te hebben; of in het uiterste geval, tot uitsluiting of discriminatie te leiden. Dit vraagt per geval om een analyse welke 'keuzes' van het systeem welke gevolgen hebben voor een individu en of die gevolgen rechtsgevolgen zijn of alleen een feitelijk gevolg. Zie voor een nadere toelichting hiervoor het advies van de Autoriteit Persoonsgegevens inzake geautomatiseerde selectietechnieken.
+De Europese wetgever heeft weinig richting gegeven aan hoe dit begrip moet worden geïnterpreteerd. Er zijn wel aanknopingspunten om te duiden wanneer hier sprake van is. De EDPB spreekt van ernstige, aanzienlijke effecten, groot of belangrijk genoeg zijn om aandacht te verdienen. Dat is in ieder geval zo als het besluit het potentieel heeft om de omstandigheden, het gedrag of de keuze van de betrokken personen in aanmerkelijke mate te treffen; een langdurig of blijvend effect op de betrokkene te hebben; of in het uiterste geval, tot uitsluiting of discriminatie te leiden. 
+
+Dit vraagt per geval om een analyse welke 'keuzes' van het systeem welke gevolgen hebben voor een individu en of die gevolgen rechtsgevolgen zijn of alleen een feitelijk gevolg. Zie voor een nadere toelichting hiervoor het advies van de Autoriteit Persoonsgegevens inzake geautomatiseerde selectietechnieken.
 
 #### Toepassing
 
@@ -77,7 +85,6 @@ Volledig geautomatiseerde vaststelling van een publiekrechtelijk besluit zoals e
 
 ## Wanneer van toepassing? 
 <!-- tags-ai-act --> 
-
 
 ## Risico 
 

@@ -32,7 +32,7 @@ Aanbieders van AI-systemen met een hoog risico die constateren dat hun systeem n
 
 Ze moeten ook alle relevante partijen, zoals distributeurs, gebruiksverantwoordelijken en importeurs, op de hoogte stellen van deze maatregelen.
 
-Voor AI-modellen voor algemene doeleinden met een systeemrisico wordt relevante informatie over ernstige incidenten en mogelijke corrigerende maatregelen bijgehouden, gedocumenteerd en onverwijld gerapporteerd aan het AI-bureau en, in voorkomende gevallen, aan de nationale bevoegde autoriteiten. 
+Over AI-modellen voor algemene doeleinden met een systeemrisico wordt relevante informatie over ernstige incidenten en mogelijke corrigerende maatregelen bijgehouden, gedocumenteerd en onverwijld gerapporteerd aan het AI-bureau en, in voorkomende gevallen, aan de nationale bevoegde autoriteiten. 
 
 
 ## Bronnen

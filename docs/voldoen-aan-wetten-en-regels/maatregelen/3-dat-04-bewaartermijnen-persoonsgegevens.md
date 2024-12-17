@@ -48,5 +48,10 @@ verwerkingsdoeleinden noodzakelijk is.
 
 ## Voorbeeld
 
-Heb jij een goed voorbeeld? Laat het ons weten!
+    !!! example "UWV: Klantapplicatie WW"
+
+        _Dit voorbeeld kan zonder veel aanpassingen in uw organisatie gebruikt worden._<br>
+        Het UWV maakt gebruik van algoritme rondom WW-uitkering. Hiervoor geven ze aan welke persoonsgegevens gebruikt worden in een lijst. Daarna worden via een tabel toegelicht waar deze persoonsgegevens exact voor worden gebruikt. Zo wordt bijvoorbeeld ‘geslacht’ gebruikt voor ‘aanhef in de brief’ 
+
+        Bron: [Klantapplicatie WW - UWV](https://www.uwv.nl/nl/over-uwv/organisatie/algoritmeregister-uwv/klantapplicatie-ww)
 

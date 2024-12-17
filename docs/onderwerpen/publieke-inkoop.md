@@ -33,7 +33,7 @@ Beantwoord in elk geval de volgende vragen:
 * Welke expertise moet de opdrachtgever zelf organiseren om algoritmes verantwoord te kunnen gebruiken? De levenscyclus kan hier waardevolle inzichten voor geven.
 * Zijn er specifieke standaarden voor algoritmes die moeten worden gehanteerd? Denk hierbij aan de ISO27001. 
 
-Een inkoper heeft een belangrijke rol om antwoorden op deze vragen te verzamelen en om dit te vertalen naar sleutelmomenten binnen het inkoopproces. Verken de markt en specificeer de inkoopbehoefte
+Een inkoper heeft een belangrijke rol om antwoorden op deze vragen te verzamelen en om dit te vertalen naar sleutelmomenten binnen het inkoopproces.
 
 ## Verken de markt en specificeer de inkoopbehoefte
 Nadat de behoefstelling is beeld is gebracht, is het van belang om te verkennen welke oplossingen in de markt beschikbaar zijn. Dat kan worden gedaan met bijvoorbeeld een marktconsultatie en door met leveranciers in gesprek te gaan. Dit kan waardevolle inzichten opleveren om het inkoopproces verder mee vorm te gaan geven.

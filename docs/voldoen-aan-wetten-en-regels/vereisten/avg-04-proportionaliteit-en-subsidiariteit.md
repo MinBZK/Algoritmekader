@@ -31,7 +31,7 @@ Subsidiariteit vereist dat persoonsgegevens alleen moeten worden verwerkt als di
 
 Deze principes waarborgen dat de privacy van individuen wordt gerespecteerd en dat gegevensverwerking niet verder gaat dan noodzakelijk is voor legitieme doeleinden.
 
-Het is van belang om deze principes te hanteren om te bepalen of en in [welke vorm een algoritmes](1-pba-03-onderbouwen-gebruik-algoritme) moet worden toegepast en om tot een passende mate van gegevensverwerking te komen om het [doel](1-pba-02-formuleren-doelstelling) te bereiken.
+Het is van belang om deze principes te hanteren om te bepalen of en in [welke vorm een algoritmes](1-pba-03-onderbouwen-gebruik-algoritme) moet worden toegepast en om tot een passende mate van gegevensverwerking te komen om het [doel](1-pba-02-formuleren-doelstelling.md) te bereiken.
 
 ## Bronnen 
 

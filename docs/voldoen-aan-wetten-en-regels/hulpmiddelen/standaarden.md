@@ -7,19 +7,6 @@ Standaarden zijn afspraken die worden vastgelegd om ervoor te zorgen dat product
 
 Standaarden zijn er op allerlei gebieden. Momenteel speelt de ontwikkeling van standaarden voor de Europese [AI-verordening](../ai-verordening.md) een belangrijke rol voor de betrouwbare ontwikkeling en gebruik van AI. Vandaar dat deze pagina focust op _standaarden voor AI_.
 
-Er zijn verschillende soorten standaarden, zoals normen, Technische Rapporten (TR) en Technische Specificaties (TS).
-
-- Normen zijn standaarden die door standaardisatieorganisaties worden gemaakt, zoals ISO of CEN/CENELEC, of NEN.
-- Geharmoniseerde normen zijn standaarden gemaakt door Europese standaardisatieorganisaties in opdracht van de Europese Commissie om de implementatie van Europese richtlijnen of verordeningen eenvoudiger te maken. De meeste normen zijn geen geharmoniseerde normen en worden níet in opdracht van de Europese Commissie gemaakt.
-- Technische Rapporten (TR) hebben een meer informatief karakter. Een TR wordt gebruikt om informatie te delen die niet geschikt is voor een norm, bijvoorbeeld gegevens uit onderzoeken of enquêtes. Een TR is vaak de opmaat voor het opstellen van een norm.
-- Technische Specificaties (TS) zijn normatief, en bieden voorlopige specificaties, vooral voor technologieën in ontwikkeling. Een TS kan in een later stadium worden omgezet in een volledige norm als er voldoende consensus voor is.
-
-!!! tip "Nog geen norm, maar wel al bruikbaar"
-
-    Zowel een Technisch Rapport als een Technische Specificatie bieden dus ondersteuning in situaties waar nog geen norm bestaat of waar consensus nog niet is bereikt. Dus een TS of TR kan ook zeker interessante informatie bevatten voor organisaties, maar ze hebben niet de status of juridische binding van een norm.
-
-Daarnaast is er onderscheid tussen internationale normen (ISO), Europese normen (EN) en Nederlandse normen (NEN). De NEN onderscheidt ook [verschillende typen afspraken](https://www.nen.nl/verschillende-typen-afspraken), zoals Nederlandse praktijkrichtlijn (NPR) of Nederlandse voornorm (NVN).
-
 Europese _geharmoniseerde standaarden_ zijn essentieel voor de AI Verordening, omdat ze juridische zekerheid verschaffen. Geharmoniseerde standaarden zijn er bijvoorbeeld al voor speelgoed, elektrische apparaten, medische hulpmiddelen, en straks dus ook voor hoog risico AI-systemen. Als het over standaarden voor de AI-verordening gaat, gaat het dus om _geharmoniseerde standaarden_.
 
 ## Waarom zijn standaarden belangrijk voor de AI-verordening?
@@ -96,9 +83,19 @@ Op dit moment zijn er verschillende Technische Rapporten, Technische Specificati
 | NVN-ISO/IEC TS 8200         | Information technology - Artificial intelligence - Controllability of automated artificial intelligence systems | Nederlandse Voornorm         |
 
 
-!!! tip "Uitleg over gebruikte termen"
+??? expander "Uitleg over gebruikte termen"
     
-    Voor meer informatie over de gehanteerde termen, zie ook [de website van NEN](https://www.nen.nl/verschillende-typen-afspraken).
+    Er zijn verschillende soorten standaarden, zoals normen, Technische Rapporten (TR) en Technische Specificaties (TS).
+
+    - Normen zijn standaarden die door standaardisatieorganisaties worden gemaakt, zoals ISO of CEN/CENELEC, of NEN.
+    - Geharmoniseerde normen zijn standaarden gemaakt door Europese standaardisatieorganisaties in opdracht van de Europese Commissie om de implementatie van Europese richtlijnen of verordeningen eenvoudiger te maken. De meeste normen zijn geen geharmoniseerde normen en worden níet in opdracht van de Europese Commissie gemaakt.
+    - Technische Rapporten (TR) hebben een meer informatief karakter. Een TR wordt gebruikt om informatie te delen die niet geschikt is voor een norm, bijvoorbeeld gegevens uit onderzoeken of enquêtes. Een TR is vaak de opmaat voor het opstellen van een norm.
+    - Technische Specificaties (TS) zijn normatief, en bieden voorlopige specificaties, vooral voor technologieën in ontwikkeling. Een TS kan in een later stadium worden omgezet in een volledige norm als er voldoende consensus voor is.
+    
+    Zowel een Technisch Rapport als een Technische Specificatie bieden dus ondersteuning in situaties waar nog geen norm bestaat of waar consensus nog niet is bereikt. Dus een TS of TR kan ook zeker interessante informatie bevatten voor organisaties, maar ze hebben niet de status of juridische binding van een norm.
+    
+    Er is een onderscheid tussen internationale normen (ISO), Europese normen (EN) en Nederlandse normen (NEN). De NEN onderscheidt ook [verschillende typen afspraken](https://www.nen.nl/verschillende-typen-afspraken), zoals Nederlandse praktijkrichtlijn (NPR) of Nederlandse voornorm (NVN).
+
 
 Voor een compleet overzicht van _internationaal_ gepubliceerde standaarden die relateren aan AI, [kijk op de website van de ISO](https://www.iso.org/committee/6794475/x/catalogue/p/1/u/0/w/0/d/0), of gebruik [NEN Connect](https://connect.nen.nl/Portal).
 
@@ -121,7 +118,7 @@ Dit proces is complex en vereist samenwerking tussen vele stakeholders, inclusie
 Een overzicht van lopende en verwachte ontwikkelingen rondom standaarden voor de AI-verordening:
 
 - **2024 – 2025**: Europese standaardisatieorganisaties (CEN/CENELEC) werken aan de afronding van geharmoniseerde standaarden.
-Conceptversies van belangrijke horizontale standaarden verschijnen ter beoordeling.
+Conceptversies van belangrijke horizontale standaarden verschijnen ter beoordeling door leden van de NEN normcommissie. (Meer info via [AI@nen.nl](mailto:AI@nen.nl))
 - **Begin 2025 (?)**: Publicatie van een update van het standaardisatieverzoek van de Europese Commissie.
 - **Eind 2025**: Publicatie van eerste geharmoniseerde Europese normen in het Official Journal of the EU.
 Deze normen creëren juridische zekerheid (Presumption of Conformity) voor organisaties die AI-systemen ontwikkelen.

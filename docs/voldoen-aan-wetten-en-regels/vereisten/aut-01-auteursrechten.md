@@ -16,7 +16,7 @@ hide:
 <!-- tags -->
 ## Vereiste
 
-Auteursrechten en naburige rechten mogen niet geschonden worden bij het ontwikkelen en gebruiken van algoritmes.
+Auteursrechten en naburige rechten mogen niet geschonden worden bij het ontwikkelen, testen en gebruiken van algoritmes.
 
 ## Toelichting 
 

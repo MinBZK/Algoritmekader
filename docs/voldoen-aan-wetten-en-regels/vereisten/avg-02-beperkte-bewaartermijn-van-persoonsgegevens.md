@@ -25,6 +25,7 @@ Persoonsgegevens moeten worden bewaard in een vorm die het mogelijk maakt om de 
 
 Persoonsgegevens dienen toereikend en ter zake dienend te zijn en beperkt te blijven tot wat noodzakelijk is voor de doeleinden waarvoor zij worden verwerkt.
 Dit vereist dat ervoor wordt gezorgd dat de opslagperiode van de persoonsgegevens tot een strikt minimum wordt beperkt.
+
 Het beginsel van opslagbeperking betekent dat persoonsgegevens moeten worden bewaard in een vorm die het mogelijk maakt om de betrokkenen niet langer te identificeren dan voor de realisering van de doeleinden waarvoor de persoonsgegevens worden verwerkt.
 
 In de context van algoritmes is het belangrijk dat, wanneer persoonsgegevens worden verwerkt, er onderzocht wordt op welke manieren identificatie van betrokkenen tegen kan worden gegaan.

@@ -1,9 +1,8 @@
 ---
-title: Hoog-risico-AI-systemen worden gebruikt volgens de gebruiksaanwijzing 
+title: Hoog-risico-AI-systemen worden gebruikt volgens de gebruiksaanwijzing. 
 id: urn:nl:ak:ver:aia-20
 toelichting: Gebruiksverantwoordelijken van AI-systemen met een hoog risico nemen passende technische en organisatorische maatregelen om te waarborgen dat zij dergelijke systemen gebruiken in overeenstemming met de gebruiksaanwijzingen die bij de systemen zijn gevoegd, in overeenstemming met de leden 3 en 6 van artikel 26 van de AI-verordening.
 levenscyclus:
-- organisatieverantwoordelijkheden
 - implementatie
 onderwerp:
 - governance
@@ -27,10 +26,11 @@ hide:
 Gebruiksverantwoordelijken van AI-systemen met een hoog risico nemen passende technische en organisatorische maatregelen om te waarborgen dat zij dergelijke systemen gebruiken in overeenstemming met de gebruiksaanwijzingen die bij de systemen zijn gevoegd, in overeenstemming met de leden 3 en 6 van artikel 26 van de AI-verordening.
 
 ## Toelichting
+AI-systemen met een hoog risico moeten vergezeld gaan van relevante documentatie in de vorm van gebruiksaanwijzingen.
 
 Gebruiksverantwoordelijken van AI-systemen met een hoog risico moeten geschikte maatregelen nemen om ervoor te zorgen dat zij deze systemen gebruiken volgens de bijgevoegde instructies.
-De gebruiksverantwoordelijke zorgt ervoor dat de inputdata relevant en voldoende representatief zijn voor het beoogde doel van het AI-systeem met een hoog risico, voor zover hij daar controle over heeft.
 
+De gebruiksverantwoordelijke zorgt ervoor dat de inputdata relevant en voldoende representatief zijn voor het beoogde doel van het AI-systeem met een hoog risico, voor zover hij daar controle over heeft.
 
 ## Bronnen
 

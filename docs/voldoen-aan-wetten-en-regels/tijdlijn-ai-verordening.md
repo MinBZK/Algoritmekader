@@ -16,6 +16,7 @@ Geldt dit voor jouw organisatie? Gebruik de [beslishulp AI-verordening](https://
 
 ## 2 augustus 2025: AI-modellen voor algemene doeleinden voldoen aan de vereisten
 Als je aanbieder bent van een AI-model voor algemene doeleinden, moet je vóór 2 augustus 2025 voldoen aan de volgende vereisten uit de AI-verordening:
+
 * [aia-01 Personeel en gebruikers zijn voldoende AI-geletterd](vereisten/aia-01-ai-geletterdheid.md)
 * [aia-02 Beoordeling als ‘niet-hoog-risico-AI-systeem’ is gedocumenteerd](vereisten/aia-02-documentatie-beoordeling-niet-hoog-risico-ai.md)
 * [aia-03 Hoog-risico-AI-systemen zijn voorzien van een risicobeheersysteem](vereisten/aia-03-risicobeheersysteem.md)

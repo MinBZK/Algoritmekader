@@ -1,81 +1,76 @@
 ---
-title: Publieke inkoop
+title: Inkoop van verantwoorde algoritmes
 hide: 
 - path
 ---
 
-Door middel van publieke inkoop wordt door overheidsinstellingen software ingekocht. Deze software wordt ingekocht om ambtenaren te ondersteunen met hun werkzaamheden om zo maatschappelijk waarden te creëren. Het kan bijvoorbeeld gaan om het inkopen van een systeem waarmee een aanvraag voor een subsidie of vergunning kan worden behandeld. Het virtueel vergaderen of het digitaal samenwerken aan documenten zijn hier ook voorbeelden van. 
+# Inkoop van verantwoorde algoritmes 
+Algoritmes die de overheid inkoopt bij leveranciers, moeten voldoen aan strenge eisen. Het inkoopproces speelt een belangrijke rol bij het in goede banen leiden van alle belangen. Begin met een uitgebreide behoeftestelling. En werk goed samen met de leverancier. 
 
-!!! info "Disclaimer"
-    Het Algoritmekader is nog volop in ontwikkeling. Op deze plek willen we vooral aan de slag gaan op een open en transparante wijze. Het is dus niet definitief. Dat betekent dat er dingen opstaan die niet af zijn en soms zelfs fout. Mocht er iets niet kloppen, laat het ons weten via [GitHub](https://github.com/MinBZK/Algoritmekader).
+## Wat is inkoop van verantwoorde algoritmes?
+Overheidsorganisaties kunnen een behoefte hebben om hun taken beter uit te gaan voeren en om daar algoritmes voor in te zetten. Het ontwikkelen van algoritmes wordt soms door de overheid zelf gedaan waar dat nodig is. In veel gevallen wordt ervoor gekozen om algoritmes te gaan gebruiken die worden ontwikkelt door leveranciers die hierin gespecialiseerd zijn. 
 
+Het inkoopproces moet eraan bijdragen dat uiteindelijk een contract wordt gesloten met een leverancier die het best in staat is om invulling te geven aan deze ‘overheidsopdracht’. Het is van belang dat in het inkoopproces duidelijk wordt gemaakt aan welke voorwaarden moet worden voldaan door leveranciers. Net als voor privacy en informatiebeveiliging, zullen de vereisten specifiek voor algoritmes ook een plek moeten krijgen in het inkoopproces. 
 
-Software wordt vaak ontwikkeld door gespecialiseerde aanbieders en bevat steeds meer algoritmes. Het komt ook voor dat de overheid deze technologie zelf ontwikkelt. Deze algoritmes kunnen eenvoudig van aard zijn, zoals het maken van een eenvoudige berekening. Zij kunnen complexer van aard zijn, zoals een voorspelling geven of het genereren van informatie. In het laatste geval kan worden gedacht aan ChatGPT, Google Bard of Co-Pilot.
-Er zijn verschillende type technologieën die vallen onder het bereik van algoritmes. In dit kader drukken we deze uit als ‘rekenregel’, ‘machine learning’ en ‘generatieve AI’. Elke technologie heeft eigen bijzondere aandachtspunten. Ook de bijbehorende risico’s kunnen per type verschillen. Het identificeren van deze risico’s en het treffen van beheersmaatregelen is daarbij van belang. Dat geldt in het bijzonder als algoritmes bijdragen aan de totstandkoming van overheidsbesluitvorming en impactvolle beslissingen die burgers en ondernemingen raken. 
+## Belang van het inkoopproces
+Het inkoopproces neemt een bijzondere positie in om tot een verantwoorde inzet van algoritmes te komen door overheidsorganisaties. Met een gedegen inkoopproces kunnen mogelijke negatieve effecten van algoritmes voor een belangrijk deel al op voorhand worden voorkomen. Dit wordt gedaan door een leverancier te selecteren die voldoet aan de wensen en vereisten die aan deze algoritmes moeten worden gesteld en door hier nadere afspraken mee te maken.
 
-Door bij publieke inkoop van software met algoritmes rekening te houden met vereisten die voorkomen uit wet- en regelgeving, toepassen van publieke waarden, het type algoritme of AI en de potentiële risico’s die ontstaan bij het gebruiken ervan, kunnen negatieve gevolgen worden voorkomen. Publieke inkoop speelt daarom een belangrijke rol bij de totstandkoming van verantwoord ontwikkelde algoritmes en het gebruik daarvan door ambtenaren. 
-In dit deel van het Algoritmekader wordt nader ingegaan op deze vereisten. Er worden suggesties gedaan hoe deze vereisten kunnen worden nageleefd en welke rollen daarbij betrokken kunnen zijn. Waar mogelijk worden concrete voorbeelden uit de praktijk gegeven en zal worden aangegeven bij welk type algoritmes dit relevant is.
+Het is daarom van belang dat de wensen en vereisten goed in beeld worden gebracht. En dat bijvoorbeeld een inkoopadviseur deze wensen en vereisten een plek geeft in een aanbesteding, zodat je bij de meest geschikte leverancier uitkomt. Dit geldt ook voor onderhandse gunningen.
 
-Het publiek inkopen van algoritmes wordt ook gekoppeld aan de algoritme levenscyclus. Dit geeft een beeld van wanneer bepaalde vereisten en maatregelen, bij het ontwikkelen van algoritmes, moeten worden geadresseerd. Door deze vereisten ook te vertalen naar het inkoopproces, zullen de rollen binnen het inkoopproces beter in staat zijn om te duiden wanneer en hoe dit kan worden geadresseerd. Dit moet bijdragen aan een goed samenspel met aanbieders, zodat de kansen van algoritmes worden benut en de negatieve gevolgen worden voorkomen.  
+Het publiek inkopen van algoritmes biedt naast het voldoen aan vereisten, een waardevolle kans om nadere invulling te geven aan publieke waarden die worden nagestreefd door overheidsorganisaties.
 
+## Maak een uitgebreide behoeftestelling
+Afhankelijk van de [behoeftestelling](https://www.pianoo.nl/nl/stappenplan-behoefteanalyse), moet worden beoordeeld aan welke vereiste de benodigde algoritmes van leveranciers moet voldoen en hoe deze betekenisvol kunnen worden geadresseerd. Het is raadzaam om deze beoordeling met een multidisciplinair team te doen. 
+
+Beantwoord in elk geval de volgende vragen:
+
+* Wat is het op te lossen probleem, de bijbehorende doelstelling en waarom de inzet van een algoritme een geschikte oplossing?
+* Welke beleid rondom AI voert een overheidsorganisatie? Worden er bijvoorbeeld standaard inkoopvoorwaarden gehanteerd?
+* Om wat voor type algoritme gaat het? 
+* Hoe risicovol is de inzet van het beoogde type algoritme?
+* Welke verantwoordelijkheden zijn er wie is hiervoor verantwoordelijk? Een leverancier of een de opdrachtgever zelf?
+* Welke publiek waarden worden geraakt met het inzet van het algoritme?
+* Welke expertise moet de opdrachtgever zelf organiseren om algoritmes verantwoord te kunnen gebruiken? De levenscyclus kan hier waardevolle inzichten voor geven.
+* Zijn er specifieke standaarden voor algoritmes die moeten worden gehanteerd? Denk hierbij aan de ISO27001. 
+
+Een inkoper heeft een belangrijke rol om antwoorden op deze vragen te verzamelen en om dit te vertalen naar sleutelmomenten binnen het inkoopproces. Verken de markt en specificeer de inkoopbehoefte
+
+## Verken de markt en specificeer de inkoopbehoefte
+Nadat de behoefstelling is beeld is gebracht, is het van belang om te verkennen welke oplossingen in de markt beschikbaar zijn. Dat kan worden gedaan met bijvoorbeeld een marktconsultatie en door met leveranciers in gesprek te gaan. Dit kan waardevolle inzichten opleveren om het inkoopproces verder mee vorm te gaan geven.
+
+Het multidisciplinaire inkoopteam zal vervolgens de behoeftestelling moeten gaan specificeren. Daar kan op verschillende manieren. Hier kan worden gedacht aan:
+
+* Als voldoende specifiek is waar een algoritme aan moet voldoen, bv. welke output het moet kunnen genereren, kan dit worden ondergebracht in een Programma van Eisen;
+* Bepaalde vereisten gebruiken als gunningscriteria;
+* Ruimte creëren voor samenwerking met een leverancier na het sluiten van een contract.
+* Bewijsstukken uitvragen waaruit blijkt dat wordt voldaan aan bepaalde vereisten, zoals het niet schenden van auteursrechten. 
+* Zaken die specifiek gelden voor algoritmes opnemen in een SLA. 
+
+## Beoordeel de inschrijvingen en stel het contract op
+Als leveranciers, bijvoorbeeld bij een aanbesteding, hun inschrijving hebben ingediend, moet worden beoordeeld welke leverancier het best aansluit bij de opdracht. 
+
+Stel een beoordelingsteam samen waarin voldoende kennis over algoritmes aanwezig is. 
+
+Er wordt vervolgens een leverancier geselecteerd waarmee een contract wordt opgesteld. Het is van belang dat goed wordt nagedacht hoe het contractbeheer wordt vormgegeven en welke verantwoordelijkheden er blijven bestaan voor de opdrachtnemen. 
  
-## Algoritme levenscyclus
-Algoritmes kunnen een grote impact hebben op onze maatschappij. Daarom is het van belang dat deze op een verantwoorde manier worden ontwikkeld en gebruikt. Het toepassen van de algoritme levenscyclus is hierover een bruikbare leidraad. De algoritme levenscyclus bestaat uit meerdere fasen. De werkzaamheden die noodzakelijk zijn om een verantwoord algoritme of AI te ontwikkelen, kunnen logisch worden gekoppeld aan deze fasen. 
-Deze levenscyclus kan worden gebruikt voor alle typen algoritmes. Het verschilt uiteraard wel per type wat moet worden gedaan en dit is mede afhankelijk van de risico classificatie. Bij hoog risico toepassing zal meer moeten worden gedaan om risico’s te mitigeren dan als er sprake is van lage risico toepassingen. De levenscyclus geeft een bruikbaar overzicht voor leveranciers en opdrachtgevers wanneer welke werkzaamheden moeten worden uitgevoerd. Het laat ook zien welke werkzaamheden moeten zijn afgerond als algoritmes in de markt mogen worden gezet en klaar zijn voor gebruik. 
-
-Bij het publiek inkopen van software met bijbehorende algoritmes zijn de wensen van de behoeftesteller en de doelstellingen van de organisatie van groot belang. Dit kan tot verschillende situaties leiden:
-
-•	Een al ontwikkelde kant-en-klare oplossing voldoet direct aan deze wensen en doelstellingen;
-
-•	Een al ontwikkelde oplossing moet eerst worden aangepast voordat deze kan worden gebruikt;
-
-•	Er moet een nieuwe oplossing worden ontwikkeld om te voldoen aan de wensen. 
-
-Deze inschatting is dus bepalend wat wel en niet van een product mag worden verwacht. Dit is relevant voor zowel de leverancier als de opdrachtgever. Het is aannemelijk dat als het om risicovolle (nog te ontwikkelen) algoritmes gaat, de opdrachtgever een intensieve bijdrage moet leveren aan de samenwerking om het product te kunnen gebruiken. De opdrachtgever zal bijvoorbeeld moeten aangeven wat de juridische en ethische grenzen zijn van de uiteindelijk werking van het algoritme of AI. Als een kant-en-klare oplossing wordt afgenomen, dan zal de leverancier moeten laten zien dat de ontwikkelde algoritmes voldoen aan alle vereisten en moet dit kunnen aantonen. 
-
-De inzichten uit de algoritme levenscyclus kunnen ondersteunen bij bijvoorbeeld de behoeftestelling, het maken van make-or-buy beslissingen, de te hanteren aanbestedingsvorm, de totstandkoming van de selectie- en gunningseisen, contractspecificaties en de uitvoering en management van het contract. De algoritme levenscyclus kan worden geraadpleegd via het tabblad boven aan deze pagina. Per fase en per type algoritme of AI kan worden bekeken aan welke vereisten moet worden voldaan en welke beheersmaatregelen kunnen worden getroffen. 
 
 ## Vereisten { data-search-exclude }
 
-Nagenoeg alle vereisten die gelden voor algoritmes kunnen een plek krijgen in het publiek inkoopproces. 
-Daarom is ervoor gekozen om hier niet een opsomming te geven van al deze vereisten, maar verwijzen we naar het onderdeel [vereisten](../voldoen-aan-wetten-en-regels/vereisten/index.md) in het Algoritmekader.
+Afhankelijk van de behoeftestelling en het benodigde algoritme, moet worden bepaald welke vereisten hierop van toepassing zijn. Voor zover het gaat om de AI-systemen waarop de AI-Verordening van toepassing is, kan de [beslishulp AI-verordening](https://ai-act-decisiontree.apps.digilab.network/) worden geraadpleegd.   
 
-In de laag van 'maatregelen' wordt ook uitgewerkt wat vanuit publieke inkoop kan worden gedaan om op een betekenisvolle wijze invulling aan te geven aan de betreffende vereiste. 
-Daarvoor kan ook op het tabblad 'publieke inkoop' worden geklikt om deze maatregelen te filteren.
-
-Zie hieronder bij bruikbare informatie en bronnen in het bijzonder de Europese modelcontractbepaling voor (niet) hoog risico AI-systemen en contractvoorwaarden voor algoritmes. 
-Dit geeft een beeld hoe de vereisten onderdeel kunnen worden gemaakt van contractvoorwaarden.   
-
-## Maatregelen { data-search-exclude }
-
-Hieronder volgt een overzicht van de maatregelen die (voor zover zijn uitgewerkt) kunnen worden getroffen om invulling te geven aan de vereisten. 
+## Aanbevolen maatregelen { data-search-exclude }
 
 <!-- list_maatregelen onderwerp/publieke-inkoop no-search no-onderwerp no-rol no-levenscyclus -->
 
-!!! info "Disclaimer"
-    Het Algoritmekader is nog volop in ontwikkeling. Er wordt momenteel hard gewerkt, mede door de Werkgroep Publieke Inkoop, om maatregelen te definiëren vanuit het perspectief publieke inkoop bij de vereisten. Mocht er iets niet kloppen, laat het ons weten via [GitHub](https://github.com/MinBZK/Algoritmekader) of via algoritmes@minbzk.nl.
 
-## Hulpmiddelen
-Hieronder volgt een overzicht van instrumenten die kunnen worden gebruikt om invulling te geven aan de vereisten en maatregelen.
+## Aanbevolen hulpmiddelen
 
 <!-- list_hulpmiddelen onderwerp/publieke-inkoop no-search no-onderwerp no-rol no-levenscyclus no-id -->
 
-## Bruikbare informatie en bronnen
 
-[Europese modelcontractbepalingen AI-systemen (hoog risico)](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_template_High_Risk%20NL.pdf)
+## Bronnen
+* [Inkoopproces PIANOo](https://www.pianoo.nl/nl/inkoopproces), expertisecentrum aanbesteden van het ministerie van Economische Zaken
+* [Community of Practice Digitale Innovaties](https://www.pianoo.nl/nl/themas/innovatie/netwerken/community-practice-digitale-innovaties), PIANOo
 
-[Europese modelcontractbepalingen AI-systemen (niet hoog risico)](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_Template_NON_HIGH_RISK_NL.pdf)
-
-[Contractvoorwaarden voor algoritmes gemeente Amsterdam](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmes-ai/contractvoorwaarden-algoritmes/)
-
-[Inkoopproces](https://www.pianoo.nl/nl/inkoopproces)
-
-[Community of Practise Digitale Innovatie](https://www.pianoo.nl/nl/themas/innovatie/netwerken/community-practice-digitale-innovaties)
-
-
-
-
-
-
-
-
+## Help ons deze pagina te verbeteren
+Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/issues/new/choose) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

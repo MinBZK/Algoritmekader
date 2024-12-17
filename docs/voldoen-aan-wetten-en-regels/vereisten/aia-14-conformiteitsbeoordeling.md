@@ -1,7 +1,7 @@
 ---
-title: Hoog-risico-AI-systemen worden pas geleverd of gebruikt na een conformiteitsbeoordelingsprocedure
+title: Hoog-risico-AI-systemen worden pas geleverd of gebruikt na een conformiteitsbeoordelingsprocedure.
 id: urn:nl:ak:ver:aia-14
-toelichting: Aanbieders van AI-systemen met een hoog risico zorgen ervoor dat voor het AI-systeem met een hoog risico een conformiteitsbeoordelingsprocedure wordt uitgevoerd voordat dit systeem in de handel wordt gebracht of in gebruik wordt gesteld
+toelichting: Aanbieders van AI-systemen met een hoog risico zorgen ervoor dat voor het AI-systeem met een hoog risico een conformiteitsbeoordelingsprocedure wordt uitgevoerd, voordat dit systeem in de handel wordt gebracht of in gebruik wordt gesteld.
 levenscyclus:
 - verificatie-en-validatie
 - implementatie
@@ -37,8 +37,6 @@ Een conformiteitbeoordeling kan worden uitgevoerd door middel van
 Als overheidsorganisaties hoog risico AI-systemen gebruiken van aanbieders of deze zelf ontwikkelen, zullen deze systemen veelal de conformiteitsbeoordeling middels een interne controle moeten doorlopen (bijlage VI). Let op! In het geval dat een hoog risico AI-systeem door een rechtshandhavingsinstantie, immigratie- of asielautoriteit wordt ingezet, dan zal de markttoezichtautoriteit als aangemelde instantie optreden die de conformiteitsbeoordeling zal uitvoeren.  
 
 AI-systemen met een hoog risico die al aan een conformiteitsbeoordelingsprocedure zijn onderworpen, ondergaan een nieuwe conformiteitsbeoordelingsprocedure telkens wanneer zij substantieel zijn gewijzigd, ongeacht of het gewijzigde systeem bedoeld is om verder te worden gedistribueerd of door de huidige gebruiksverantwoordelijke gebruikt blijft worden.
-
-
 
 ![ai_lifecycle_visual_7FC0D14E-A775-A92E-DE5A38FDB7C238EB_75759](https://github.com/user-attachments/assets/47996f0e-d769-4ac5-a504-db12da4d1e21)
 

@@ -1,5 +1,5 @@
 ---
-title: Hoog-risico-AI-systemen staan onder menselijk toezicht 
+title: Hoog-risico-AI-systemen staan onder menselijk toezicht. 
 id: urn:nl:ak:ver:aia-09
 toelichting: AI-systemen met een hoog risico worden zodanig ontworpen en ontwikkeld, met inbegrip van passende mens-machine-interface-hulpmiddelen, dat hierop tijdens de periode dat zij worden gebruikt, op doeltreffende wijze toezicht kan worden uitgeoefend door natuurlijke personen.
 levenscyclus:
@@ -24,17 +24,20 @@ hide:
 <!-- tags -->
 ## Vereiste
 
-AI-systemen met een hoog risico worden zodanig ontworpen en ontwikkeld, met inbegrip van passende mens-machine-interface-hulpmiddelen, dat hierop tijdens de periode dat zij worden gebruikt, op doeltreffende wijze toezicht kan worden uitgeoefend door natuurlijke personen.
+Hoog-risico-AI-systemen staan onder menselijk toezicht. 
 
 ## Toelichting
 
+AI-systemen met een hoog risico worden zodanig ontworpen en ontwikkeld, met inbegrip van passende mens-machine-interface-hulpmiddelen, dat hierop tijdens de periode dat zij worden gebruikt, op doeltreffende wijze toezicht kan worden uitgeoefend door natuurlijke personen.
+
 Het menselijk toezicht is gericht op het voorkomen of beperken van de risico’s voor de gezondheid, veiligheid of grondrechten die zich kunnen voordoen wanneer een AI-systeem met een hoog risico wordt gebruikt in overeenstemming met het beoogde doel ervan of in een situatie van redelijkerwijs te voorzien misbruik, met name wanneer dergelijke risico’s blijven bestaan ondanks de toepassing van andere eisen van deze afdeling.
 
-De toezichtmaatregelen staan in verhouding met de risico's, de mate van autonomie en de gebruikscontext van het AI-systeem met een hoog risico.
+De te treffen toezichtmaatregelen staan in verhouding met de risico's, de mate van autonomie en de gebruikscontext van het AI-systeem met een hoog risico.
 Hierbij kan het gaan om:
 
 1. door de aanbieder bepaalde maatregelen die waar technisch haalbaar in het AI-systeem met een hoog risico worden ingebouwd voordat dit systeem in de handel wordt gebracht of in gebruik wordt gesteld;
 2. door de aanbieder bepaalde maatregelen voordat het AI-systeem met een hoog risico in de handel wordt gebracht of in gebruik wordt gesteld en die passend zijn om door de gebruiksverantwoordelijke te worden uitgevoerd.
+
 
 De natuurlijke personen die verantwoordelijk zijn voor het menselijk toezicht, moeten in staat worden gesteld om waar passend en in verhouding tot de omstandigheden het volgende te kunnen doen:
 

@@ -1,5 +1,5 @@
 ---
-title: AI-systemen worden zo ontworpen en gebruikt, dat mensen begrijpen wanneer zij met een AI-systeem communiceren en welke content gemaakt is door een AI-systeem
+title: AI-systemen worden zo ontworpen en gebruikt, dat mensen begrijpen wanneer zij met een AI-systeem communiceren en welke content gemaakt is door een AI-systeem.
 id: urn:nl:ak:ver:aia-28
 toelichting: Aanbieders van AI-systemen zorgen dat AI-sytemen zodanig worden ontworpen en ontwikkeld dat de betrokken natuurlijke personen worden geïnformeerd dat zij interacteren met een AI-systeem. 
 levenscyclus:
@@ -24,10 +24,13 @@ hide:
 
 <!-- tags -->
 ## Vereiste
-Aanbieders van AI-systemen zorgen dat AI-sytemen zodanig worden ontworpen en ontwikkeld dat de betrokken natuurlijke personen worden geïnformeerd dat zij interacteren met een AI-systeem. 
-Gebruiksverantwoordelijken moeten betrokkenen informeren over de werking van het systeem en in het geval van een AI-systeem dat content gegenereert duidelijk kenbaar maken dat de content kunstmatig is gegenereerd of gemanipuleerd.
+AI-systemen worden zo ontworpen en gebruikt, dat mensen begrijpen wanneer zij met een AI-systeem communiceren en welke content gemaakt is door een AI-systeem.
 
 ## Toelichting
+Aanbieders van AI-systemen zorgen dat AI-sytemen zodanig worden ontworpen en ontwikkeld dat de betrokken natuurlijke personen worden geïnformeerd dat zij interacteren met een AI-systeem. 
+
+Gebruiksverantwoordelijken moeten betrokkenen informeren over de werking van het systeem en in het geval van een AI-systeem dat content gegenereert duidelijk kenbaar maken dat de content kunstmatig is gegenereerd of gemanipuleerd.
+
 Dit geldt voor AI-systemen die:
 
 - gebruikt worden voor directe interactie met natuurlijke personen (zoals chatbots). 

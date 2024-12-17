@@ -1,7 +1,7 @@
 ---
-title: Een Data Protection Impact Assessment (DPIA) wordt uitgevoerd wanneer de verwerking van persoonsgegevens waarschijnlijk een hoog risico met zich meebrengt voor de rechten en vrijheden van natuurlijke personen
+title: Een gegevensbeschermingseffectbeoordeling (DPIA) is verplicht, indien een verwerking van persoonsgegevens waarschijnlijk een hoog risico inhoudt voor de rechten en vrijheden van natuurlijke personen.
 id: urn:nl:ak:ver:avg-13
-toelichting: Een Data Protection Impact Assessment (DPIA) is verplicht, indien een verwerking van persoonsgegevens waarschijnlijk een hoog risico inhoudt voor de rechten en vrijheden van natuurlijke personen. Deze beoordeling identificeert en beperkt potentiële risico's en zorgt ervoor dat passende maatregelen worden genomen om de privacy van individuen te beschermen. Deze verplichting draagt bij aan een zorgvuldige en verantwoorde omgang met persoonsgegevens in algoritmes, waardoor de privacy van individuen wordt gewaarborgd.
+toelichting: Een Data Protection Impact Assessment (DPIA) is verplicht, indien een verwerking van persoonsgegevens waarschijnlijk een hoog risico inhoudt voor de rechten en vrijheden van natuurlijke personen. 
 status_vereiste: 
  - geldend
 levenscyclus: 
@@ -20,13 +20,13 @@ hide:
 <!-- tags -->
 
 ## Vereiste
-
-Een gegevensbeschermingseffectbeoordeling (DPIA) is verplicht, indien een verwerking van persoonsgegevens waarschijnlijk een hoog risico inhoudt voor de rechten en vrijheden van natuurlijke personen.
+Een [gegevensbeschermingseffectbeoordeling (DPIA)](../hulpmiddelen/DPIA.md) is verplicht, indien een verwerking van persoonsgegevens waarschijnlijk een hoog risico inhoudt voor de rechten en vrijheden van natuurlijke personen.
 
 ## Toelichting 
+Een Gegevensbeschermingseffectbeoordeling (GEB) of [Data Protection Impact Assessment (DPIA)](../hulpmiddelen/DPIA.md) is verplicht wanneer de verwerking van persoonsgegevens waarschijnlijk een hoog risico met zich meebrengt voor de rechten en vrijheden van natuurlijke personen. 
 
-Een Gegevensbeschermingseffectbeoordeling (GEB) of Data Protection Impact Assessment (DPIA) is verplicht wanneer de verwerking van persoonsgegevens waarschijnlijk een hoog risico met zich meebrengt voor de rechten en vrijheden van natuurlijke personen. 
 Deze beoordeling identificeert en beperkt potentiële risico's en zorgt ervoor dat passende maatregelen worden genomen om de privacy van individuen te beschermen. 
+
 Deze verplichting draagt bij aan een zorgvuldige en verantwoorde omgang met persoonsgegevens in algoritmes, waardoor de privacy van individuen wordt gewaarborgd.
 
 Let op: de DPIA verplichting is niet gebaseerd op de hoog-risico criteria uit de AI-act. Volgens [Besluit lijst verwerkingen persoonsgegevens waarvoor een gegevensbeschermingseffectbeoordeling (DPIA) verplicht is, Autoriteit Persoonsgegevens](https://wetten.overheid.nl/BWBR0042812/2019-11-27) moet voor het uitvoeren van een DPIA in ieder geval uitgegaan worden van een hoog risico als er sprake is van één van de volgende voorwaarden:
@@ -55,7 +55,6 @@ Gebruiksverantwoordelijken van AI-systemen met een hoog risico gebruiken die inf
 <!-- tags-ai-act --> 
 
 ## Risico 
-
 Het niet evalueren van de impact van het verwerking van persoonsgegevens in algoritmes kan resulteren in het niet onderkennen van de bijbehorende risico's  en het niet op tijd te mitigieren van deze risico's.
 Dit kan leiden tot potentiële schendingen van de rechten en vrijheden van betrokkenen en een onrechtmatige verwerking.
 

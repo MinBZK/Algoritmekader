@@ -17,7 +17,7 @@ hide:
 <!-- tags -->
 ## Vereiste
 
-De verwerking van persoonsgegevens moet rechtmatig plaatsvinden.
+Persoonsgegevens worden op een rechtmatige manier verwerkt.
 
 ## Toelichting
 

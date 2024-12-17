@@ -6,6 +6,7 @@ levenscyclus:
 - ontwerp
 - ontwikkel
 - monitoring-en-beheer
+- verificatie-en-validatie
 onderwerp:
 - technische-robuustheid-en-veiligheid
 soort-toepassing:

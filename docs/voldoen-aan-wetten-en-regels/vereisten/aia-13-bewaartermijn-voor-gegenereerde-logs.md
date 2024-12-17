@@ -1,7 +1,7 @@
 ---
-title: Logs van hoog-risico-AI-systemen worden zes maanden bewaard door de aanbieder
+title: Logs van hoog-risico-AI-systemen worden zes maanden bewaard door de aanbieder.
 id: urn:nl:ak:ver:aia-13
-toelichting: Aanbieders van AI-systemen met een hoog risico bewaren de in artikel 12, lid 1, bedoelde logs die automatisch worden gegenereerd door hun AI-systemen met een hoog risico voor zover dergelijke logs onder hun controle vallen. Onverminderd het toepasselijke Unie- of nationale recht worden deze logs bewaard gedurende een periode, die passend is voor het beoogde doel van het AI-systeem met een hoog risico, van ten minste zes maanden, tenzij anders is bepaald in het Unie- of nationaal recht, met name de Uniewetgeving inzake de bescherming van persoonsgegevens.
+toelichting: Aanbieders van AI-systemen met een hoog risico bewaren de in artikel 12, lid 1, bedoelde logs die automatisch worden gegenereerd door hun AI-systemen met een hoog risico voor zover dergelijke logs onder hun controle vallen. 
 levenscyclus:
 - ontwerp
 - monitoring-en-beheer
@@ -24,12 +24,12 @@ hide:
 <!-- tags -->
 ## Vereiste
 
-Aanbieders van AI-systemen met een hoog risico bewaren de in artikel 12, lid 1, bedoelde logs die automatisch worden gegenereerd door hun AI-systemen met een hoog risico voor zover dergelijke logs onder hun controle vallen.
-Onverminderd het toepasselijke Unie- of nationale recht worden deze logs bewaard gedurende een periode, die passend is voor het beoogde doel van het AI-systeem met een hoog risico, van ten minste zes maanden, tenzij anders is bepaald in het Unie- of nationaal recht, met name de Uniewetgeving inzake de bescherming van persoonsgegevens.
+Logs van hoog-risico-AI-systemen worden zes maanden bewaard door de aanbieder.
 
 ## Toelichting
 
 Aanbieders van AI-systemen met een hoog risico moeten de automatisch gegenereerde logs bewaren volgens de voorschriften van artikel 12, lid 1, zolang deze logs onder hun controle vallen.
+
 Deze logs moeten ten minste zes maanden worden bewaard, tenzij anders bepaald door Unie- of nationale wetgeving met betrekking tot gegevensbescherming, om te voldoen aan de relevante voorschriften en verantwoordingsplicht.
 
 ## Bronnen
@@ -39,7 +39,6 @@ Deze logs moeten ten minste zes maanden worden bewaard, tenzij anders bepaald do
 
 ## Wanneer van toepassing? 
 <!-- tags-ai-act -->
-
 
 ## Risico
 

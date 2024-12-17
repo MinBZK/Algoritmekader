@@ -23,7 +23,6 @@ hide:
 ## Vereiste
 
 De werking van hoog-risico-AI-systemen wordt gemonitord.
-Gebruiksverantwoordelijken monitoren de werking van het AI-systeem met een hoog risico op basis van de gebruiksaanwijzingen en stellen in voorkomend geval de aanbieders in kennis overeenkomstig artikel 72 AI Verordening.
 
 ## Toelichting
 

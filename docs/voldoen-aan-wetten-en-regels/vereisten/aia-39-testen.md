@@ -4,7 +4,7 @@ id: urn:nl:ak:ver:aia-39
 toelichting: AI-systemen met een hoog risico worden getest met het oog op het vaststellen van passende en gerichte risicobeheersmaatregelen.
 levenscyclus:
 - ontwerp
-- ontwikkel
+- ontwikkelen
 - monitoring-en-beheer
 - verificatie-en-validatie
 onderwerp:

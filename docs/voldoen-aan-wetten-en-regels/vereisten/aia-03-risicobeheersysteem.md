@@ -26,7 +26,7 @@ Voor AI-systemen met een hoog risico wordt een systeem voor risicobeheer vastges
 
 ## Toelichting
 
-Het systeem voor risicobeheer moet bestaan uit een tijdens de [gehele levensduur](levenscyclus/index.md) van een AI-systeem met een hoog risico doorlopend en gepland iteratief proces. Een organisatie moet ervoor zorgen dat een risicobeheersysteem wordt ingericht in de organisatie. 
+Het systeem voor risicobeheer moet bestaan uit een gepland iteratief proces, dat tijdens de [gehele levensduur](levenscyclus/index.md) van een hoog-risico AI-systeem wordt doorlopen. Een organisatie moet ervoor zorgen dat een risicobeheersysteem wordt ingericht in de organisatie. 
 
 Het risicobeheersysteem moet gericht zijn op het vaststellen en beperken van de relevante risico’s van AI-systemen voor de gezondheid, veiligheid en grondrechten met passende maatregelen. 
 

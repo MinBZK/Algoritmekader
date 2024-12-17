@@ -32,7 +32,7 @@ AI-systemen met een hoog risico die technieken gebruiken die het trainen van AI-
 
 AI-systemen met een hoog risico die data gebruiken voor het trainen van AI-modellen, moeten gebaseerd zijn op datasets die voldoen aan specifieke [kwaliteitscriteria](3-dat-01-datakwaliteit.md). 
 
-Deze criteria zorgen ervoor dat de data geschikt zijn voor training, validatie en tests, wat de betrouwbaarheid en nauwkeurigheid van het AI-systeem waarborgt. De kwaliteitscriteria is te vinden in leden 2 t/m 5 van artikel 10 van de AI-verordening. Bijvoorbeeld datasets moeten aan praktijken voor databeheer voldoen en moeten relevant, representatief, accuraat en volledig zijn.
+Deze criteria zorgen ervoor dat de data geschikt zijn voor [training, validatie en tests](3-dat-07-training-validatie-en-testdata.md), wat de betrouwbaarheid en nauwkeurigheid van het AI-systeem waarborgt. De kwaliteitscriteria zijn te vinden in leden 2 t/m 5 van artikel 10 van de AI-verordening. Bijvoorbeeld datasets moeten aan praktijken voor databeheer voldoen en moeten relevant, representatief, accuraat en volledig zijn.
 
 Deze vereiste houdt in dat de gebruikte datasets onder meer moeten voldoen aan:
 

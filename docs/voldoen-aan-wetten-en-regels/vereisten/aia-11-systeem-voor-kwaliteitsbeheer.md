@@ -29,9 +29,7 @@ Hoog-risico-AI-systemen zijn voorzien van een kwaliteitsbeheersysteem.
 
 Aanbieders van AI-systemen met een hoog risico voorzien in een systeem voor kwaliteitsbeheer dat de naleving van de AI-Verordening waarborgt.
 
-Dit systeem wordt op systematische en ordelijke wijze gedocumenteerd in de vorm van schriftelijke beleidslijnen, procedures en instructies en omvat ten minste de aspecten vermeld in artikel 17 AI-verordening.
-
-Dit systeem omvat gedocumenteerde beleidslijnen, procedures en instructies, en behandelt beknopt de volgende aspecten:
+Dit systeem omvat gedocumenteerde beleidslijnen, procedures en instructies, en omvat ten minste de aspecten vermeld in artikel 17 AI-verordening. Het behandelt beknopt de volgende aspecten:
 
 1. een strategie voor de naleving van de regelgeving, inclusief de naleving van de conformiteitsbeoordelingsprocedures en de procedures voor het beheer van de wijzigingen van het AI-systeem met een hoog risico;
 2. technieken, procedures en systematische maatregelen die moeten worden toegepast voor het ontwerp, de controle van het ontwerp en de verificatie van het ontwerp van het AI-systeem met een hoog risico;

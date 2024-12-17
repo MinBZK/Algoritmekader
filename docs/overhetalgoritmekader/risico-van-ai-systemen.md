@@ -9,8 +9,8 @@ Valt je AI-systeem onder een risicogroep uit de Europese AI-verordening, dan gel
 ## Risico op misleiding
 In deze risicogroep vallen AI-systemen die je gebruikt voor:
 
-*  _interactie met mensen_, zoals AI-chatbots
-* _genereren van content_, zoals afbeeldingen laten maken door Dall-E
+*  __interactie met mensen__, zoals AI-chatbots
+* __genereren van content__, zoals afbeeldingen laten maken door Dall-E
 
 Hiervoor gelden verplichtingen op het gebied van transparantie. Gebruikers mogen niet denken dat zij te maken hebben met echte mensen of originele content.
 
@@ -41,14 +41,14 @@ Zie [AI-verordening, bijlage I](https://eur-lex.europa.eu/legal-content/NL/TXT/?
 ### Gebruik voor bepaalde diensten of processen
 Dit zijn AI-systemen die je gebruikt voor:
 
-* _Biometrie_, zoals het herkennen of indelen van mensen op basis van hun vingerafdruk, gezicht of andere lichamelijke kenmerken.
-* _Kritieke infrastructuur_, zoals het veilig houden van digitale netwerken en verkeersnetwerken en het leveren van elektriciteit, water, gas en warmte.
-* _Onderwijs en beroepsopleiding_, zoals het bepalen welke studenten je toelaat en het beoordelen van hun prestaties of gedrag.
-* _Werkgelegenheid, personeelsbeheer en toegang tot zelfstandige arbeid_, zoals het werven en selecteren van mensen, besluiten nemen die invloed hebben op hun contract en het beoordelen van hun prestaties of gedrag.
-* _Essentiële particuliere en openbare diensten_, zoals bepalen wie recht heeft op uitkeringen, gezondheidszorg en andere belangrijke diensten en wie noodhulp krijgt van politie, brandweer en ambulance, het beoordelen van iemands financiële situatie, fraude opsporen en het bepalen van risico’s en prijzen voor levensverzekeringen en ziektekostenverzekeringen.
-* _Rechtshandhaving_, zoals iemands kans inschatten om slachtoffer of dader te worden, het gebruik van een leugendetector, het beoordelen van bewijsmateriaal en het opsporen van verdachten.
-* _Migratie, asiel en grenzen_, zoals inschatten wat de kans is dat iemand gevaarlijk of illegaal is, het behandelen van aanvragen en klachten en het herkennen of opsporen van mensen.
-* _Rechtsbedeling en democratische processen_, zoals het uitleggen van de wet aan een rechtbank, gerechtshof of de Hoge Raad, advies geven bij een geschil of het beïnvloeden van de uitslag van een verkiezing.
+* __Biometrie__, zoals het herkennen of indelen van mensen op basis van hun vingerafdruk, gezicht of andere lichamelijke kenmerken.
+* __Kritieke infrastructuur__, zoals het veilig houden van digitale netwerken en verkeersnetwerken en het leveren van elektriciteit, water, gas en warmte.
+* __Onderwijs en beroepsopleiding__, zoals het bepalen welke studenten je toelaat en het beoordelen van hun prestaties of gedrag.
+* __Werkgelegenheid, personeelsbeheer en toegang tot zelfstandige arbeid__, zoals het werven en selecteren van mensen, besluiten nemen die invloed hebben op hun contract en het beoordelen van hun prestaties of gedrag.
+* __Essentiële particuliere en openbare diensten__, zoals bepalen wie recht heeft op uitkeringen, gezondheidszorg en andere belangrijke diensten en wie noodhulp krijgt van politie, brandweer en ambulance, het beoordelen van iemands financiële situatie, fraude opsporen en het bepalen van risico’s en prijzen voor levensverzekeringen en ziektekostenverzekeringen.
+* __Rechtshandhaving__, zoals iemands kans inschatten om slachtoffer of dader te worden, het gebruik van een leugendetector, het beoordelen van bewijsmateriaal en het opsporen van verdachten.
+* __Migratie, asiel en grenzen__, zoals inschatten wat de kans is dat iemand gevaarlijk of illegaal is, het behandelen van aanvragen en klachten en het herkennen of opsporen van mensen.
+* __Rechtsbedeling en democratische processen__, zoals het uitleggen van de wet aan een rechtbank, gerechtshof of de Hoge Raad, advies geven bij een geschil of het beïnvloeden van de uitslag van een verkiezing.
 
 Zie [AI-verordening, bijlage III](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#d1e38-127-1).
 

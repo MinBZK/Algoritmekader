@@ -18,11 +18,9 @@ hide:
 <!-- tags -->
 
 ## Vereiste
-
 Organisaties die algoritmes gebruiken voor publieke taken nemen besluiten zorgvuldig.
 
 ## Toelichting 
-
 Het zorgvuldigheidsvereiste eist dat een besluit met de nodige zorgvuldigheid wordt voorbereid en juist wordt genomen.
 Dit vraagt onder meer om een zorgvuldig onderzoek naar informatie, feiten, een zorgvuldige beslissingsprocedure en een deugdelijke besluitvorming. 
 
@@ -32,16 +30,14 @@ Dit betekent dat bij de ontwikkeling en gebruik van algoritmes informatie moet w
 - Dat de werking van het algoritme is onderzocht en is vastgesteld dat dit [passend is](5-ver-03-functioneren-in-lijn-met-doeleinden.md) om te gebruiken in een besluitvormingsproces.
 
 ## Bronnen 
-
-- [Afdeling 3.2 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.2&z=2024-05-01&g=2024-05-01)
-- [Afdeling 3.4 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&z=2024-05-01&g=2024-05-01)
-- [Advies artikel 22 AVG en geautomatiseerde selectie-instrumenten](https://www.autoriteitpersoonsgegevens.nl/system/files?file=2024-10/Advies%20geautomatiseerde%20besluitvorming%20artikel%2022%20AVG.pdf)
+[Afdeling 3.2 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.2&z=2024-05-01&g=2024-05-01)
+[Afdeling 3.4 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&z=2024-05-01&g=2024-05-01)
+[Advies artikel 22 AVG en geautomatiseerde selectie-instrumenten](https://www.autoriteitpersoonsgegevens.nl/system/files?file=2024-10/Advies%20geautomatiseerde%20besluitvorming%20artikel%2022%20AVG.pdf)
 
 ## Wanneer van toepassing? 
 <!-- tags-ai-act --> 
 
 ## Risico 
-
 De werking van het algoritmes sluit niet of onvoldoende aan bij de juridische en ethische grenzen van de te ondersteunen wettelijke taak.
 Hierdoor kunnen ongewenste gevolgen ontstaan zoals een onjuist of onzorgvuldig genomen besluit.
 

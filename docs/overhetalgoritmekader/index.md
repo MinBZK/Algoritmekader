@@ -27,7 +27,7 @@ hide:
 
     Impactvolle algoritmes moet je registreren in het Algoritmeregister.
 
--   [__Woordenlijst__](defenities.md)
+-   [__Woordenlijst__](definities.md)
 
     ---
 

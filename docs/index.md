@@ -17,10 +17,12 @@ hide:
     </div>
 </div>
 
+<a href="overhetalgoritmekader/" class="button md-button--secondary"> Over het algoritmekader </a> 
+
 <div class="float-container">
 
   <div class="float-child styled-list">
-    <img src="afbeeldingen//onderwerpen.jpeg" alt="Afbeelding 3" class="block-image">
+    <img src="afbeeldingen/onderwerpen.jpg" alt="Afbeelding 3" class="block-image">
     <div class="float-box">
     <h3><b>Onderwerpen</b></h3>
     <ul>
@@ -38,7 +40,7 @@ hide:
     <h3><b>Waar beginnen?</b></h3>
     <ul>
       <li><a href="overhetalgoritmekader/soorten-algoritmes/">Wat is een algoritme?</a></li>
-      <li><a href="rollen/'>Rollen</a></li>
+      <li><a href="rollen/">Rollen</a></li>
       <li><a href="levenscyclus/">Levenscyclus van algoritmes</a></li>
        <li><a href="onderwerpen/governance/">Governance van algoritmes binnen je organisatie</a></li>
     </ul>
@@ -47,7 +49,7 @@ hide:
   </div>
 
   <div class="float-child styled-list">
-    <img src="afbeeldingen/monitoring.jpg" alt="Afbeelding 4" class="block-image">
+    <img src="afbeeldingen/eu.jpeg" alt="Vlaggen europese unie" class="block-image">
     <div class="float-box">
     <h3><b>Eerste deadline: 2 februari 2025</b></h3>
     <ul>
@@ -59,7 +61,7 @@ hide:
   </div>
 
   <div class="float-child styled-list">
-    <img src="afbeeldingen/wettenregels.jpeg" alt="Afbeelding 1" class="block-image">
+    <img src="afbeeldingen/wetten-en-regels.jpg" alt="Vrouwe Justitia" class="block-image">
     <div class="float-box">
     <h3><b>Voldoen aan wetten en regels</b></h3>
     <ul>

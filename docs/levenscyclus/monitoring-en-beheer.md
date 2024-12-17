@@ -15,11 +15,11 @@ Het is van belang dat beheer wordt uitgevoerd over het algoritme, zodat de (gehe
 Een wijziging in onderliggende systemen kan er bijvoorbeeld voor zorgen dat het algoritme niet meer wordt voorzien van de noodzakelijk data om de benodigde output te genereren. 
 Het beheerteam zorgt ervoor dat dergelijke situaties worden voorkomen of opgelost. Er kunnen ook incidenten worden gemeld door gebruikers die worden opgelost door het beheerteam.  
 
-## Vereisten
+## Vereisten { data-search-exclude }
 
 <!-- list_vereisten levenscyclus/monitoring-en-beheer no-rol no-levenscyclus no-search no-onderwerp -->
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen levenscyclus/monitoring-en-beheer no-rol no-levenscyclus no-search no-onderwerp -->
 

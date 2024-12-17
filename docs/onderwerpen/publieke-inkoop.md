@@ -35,7 +35,7 @@ Deze inschatting is dus bepalend wat wel en niet van een product mag worden verw
 
 De inzichten uit de algoritme levenscyclus kunnen ondersteunen bij bijvoorbeeld de behoeftestelling, het maken van make-or-buy beslissingen, de te hanteren aanbestedingsvorm, de totstandkoming van de selectie- en gunningseisen, contractspecificaties en de uitvoering en management van het contract. De algoritme levenscyclus kan worden geraadpleegd via het tabblad boven aan deze pagina. Per fase en per type algoritme of AI kan worden bekeken aan welke vereisten moet worden voldaan en welke beheersmaatregelen kunnen worden getroffen. 
 
-## Vereisten
+## Vereisten { data-search-exclude }
 
 Nagenoeg alle vereisten die gelden voor algoritmes kunnen een plek krijgen in het publiek inkoopproces. 
 Daarom is ervoor gekozen om hier niet een opsomming te geven van al deze vereisten, maar verwijzen we naar het onderdeel [vereisten](../voldoen-aan-wetten-en-regels/vereisten/index.md) in het Algoritmekader.
@@ -46,7 +46,7 @@ Daarvoor kan ook op het tabblad 'publieke inkoop' worden geklikt om deze maatreg
 Zie hieronder bij bruikbare informatie en bronnen in het bijzonder de Europese modelcontractbepaling voor (niet) hoog risico AI-systemen en contractvoorwaarden voor algoritmes. 
 Dit geeft een beeld hoe de vereisten onderdeel kunnen worden gemaakt van contractvoorwaarden.   
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 Hieronder volgt een overzicht van de maatregelen die (voor zover zijn uitgewerkt) kunnen worden getroffen om invulling te geven aan de vereisten. 
 

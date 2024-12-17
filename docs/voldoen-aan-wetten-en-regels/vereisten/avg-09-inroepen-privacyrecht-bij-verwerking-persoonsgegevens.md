@@ -39,6 +39,6 @@ Als persoonsgegevens worden verwerkt voor het ontwikkelen en gebruiken van algor
 
 Betrokkenen hebben geen controle over hun persoonsgegevens wanneer ze geen beroep kunnen doen op hun privacyrechten.
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/avg-09-inroepen-privacyrecht-bij-verwerking-persoonsgegevens no-search no-onderwerp no-rol no-levenscyclus -->

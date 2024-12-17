@@ -30,7 +30,7 @@ Pas maatregelen toe als pseudonimiseren, anonimisering of aggregeren van persoon
 - Het bepalen of persoonsgegevens mogen worden verwerkt voor algoritmes moet worden bekeken in samenhang met maatregelen die kunnen worden getroffen om deze gegevens te beschermen. 
 
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 

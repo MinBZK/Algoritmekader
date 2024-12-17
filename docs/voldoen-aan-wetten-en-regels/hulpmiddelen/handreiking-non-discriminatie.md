@@ -59,7 +59,7 @@ Over het [Fairness Handbook](fairness-handbook.md) werd in het rapport aangegeve
 ### Relatie tot Toetsingskader Risicoprofielen van College voor de Rechten van de Mens
 Ook het [toetsingskader voor discriminatie door risicoprofielen van het College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dce) kan worden gebruikt om te bepalen of er discriminatie plaatsvindt. Dit kader is afkomstig uit 2021 en er wordt gewerkt aan een nieuwe versie, die waarschijnlijk eind 2024 zal verschijnen. De verschillende stappen die daarin gebruikt worden om te bepalen of een risicoprofiel tot discriminatie leidt op grond van ras of nationaliteit, zijn zeer relevant. Daarvoor hebben zij [een beslisboom ontwikkeld](https://publicaties.mensenrechten.nl/file/6ac9f9ec-c837-23b1-0032-5c2e684db188.pdf).
 
-## Bijbehorende vereisten
+## Bijbehorende vereisten { data-search-exclude }
 
 <!-- list_vereisten_on_maatregelen_page -->
 

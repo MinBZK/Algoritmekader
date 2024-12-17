@@ -58,6 +58,6 @@ Om te zorgen voor een niveau van cyberbeveiliging dat aansluit op de risico’s,
 
 Gebrek aan nauwkeurigheid, robuustheid of cyberbeveiliging kan leiden tot onbetrouwbare prestaties, kwetsbaarheid voor storingen en blootstelling aan beveiligingsrisico's, wat de effectiviteit en veiligheid van het AI-systeem in gevaar kan brengen.
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging no-search no-onderwerp no-rol no-levenscyclus -->

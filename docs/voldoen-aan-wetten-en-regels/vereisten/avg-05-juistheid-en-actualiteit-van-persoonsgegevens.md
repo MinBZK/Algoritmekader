@@ -37,6 +37,6 @@ In de context van algoritmes is het van belang dat ook daar wordt onderzocht wel
 
 Als er geen rekening wordt gehouden met de juistheid, nauwkeurigheid en volledigheid van persoonsgegevens, kunnen kwaliteit en integriteit van data niet voldoende worden gewaarborgd.
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/avg-05-juistheid-en-actualiteit-van-persoonsgegevens no-search no-onderwerp no-rol no-levenscyclus -->

@@ -45,6 +45,6 @@ Dit is eveneens van toepassing als persoonsgegevens worden verwerkt bij het ontw
 Door privacy en gegevensbescherming door ontwerp en standaardinstellingen niet toe te passen, kan een inbreuk op rechten van betrokkenen ontstaan.
 
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/avg-11-privacy-bij-ontwerp-bij-verwerking-van-persoonsgegevens no-search no-onderwerp no-rol no-levenscyclus -->

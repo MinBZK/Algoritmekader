@@ -47,7 +47,7 @@ Het doel is om de bescherming van grondrechten te waarborgen bij het gebruik van
 Het niet uitvoeren van deze beoordeling kan leiden tot schendingen van de grondrechten, juridische complicaties en verlies van vertrouwen van het publiek in het gebruik van AI-systemen door overheids- en openbare dienstverlenende entiteiten.
 
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/aia-27-beoordelen-gevolgen-grondrechten no-search no-onderwerp no-rol no-levenscyclus -->
 

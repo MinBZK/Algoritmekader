@@ -21,11 +21,11 @@ Bij uitfaseren wordt het algoritme verwijderd uit de productieomgeving en, na ar
 Het algoritme is hiermee niet meer te gebruiken door gebruikers. 
 Gebruikers moeten hier vooraf over worden geïnformeerd en waar passend, bijvoorbeeld bij impactvolle of hoog risico AI-systemen, worden betrokkenen geïnformeerd over het beëindigen van het gebruik. 
  
-## Vereisten
+## Vereisten { data-search-exclude }
 
 <!-- list_vereisten levenscyclus/uitfaseren no-rol no-levenscyclus no-search no-onderwerp -->
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen levenscyclus/uitfaseren no-rol no-levenscyclus no-search no-onderwerp -->
 

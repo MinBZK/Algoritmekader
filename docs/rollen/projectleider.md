@@ -18,10 +18,10 @@ Projectmanagement binnen het Algoritmekader betekent het verbinden van benodigde
 -	Proceseigenaar
 -	IT-projectmanager
 
-## Vereisten
+## Vereisten { data-search-exclude }
 
 <!-- list_vereisten rollen/projectleider no-rol no-levenscyclus no-search no-onderwerp -->
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen rollen/projectleider no-rol no-levenscyclus no-search no-onderwerp -->

@@ -20,11 +20,11 @@ Beslissingen en besluiten komen nu bijvoorbeeld mede of geheel door de werking v
 Waar passend, bijvoorbeeld bij impactvolle of hoog risico AI-systemen wordt dit duidelijk gecommuniceerd naar betrokken, voordat de oplossing volledig is geïmplementeerd.  
 
 
-## Vereisten
+## Vereisten { data-search-exclude }
 
 <!-- list_vereisten levenscyclus/implementatie no-rol no-levenscyclus no-search no-onderwerp -->
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen levenscyclus/implementatie no-rol no-levenscyclus no-search no-onderwerp  -->
 

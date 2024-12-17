@@ -44,6 +44,6 @@ Bij de uitvoering van het in de leden 1 tot en met 7 van art. 9 AI-Verordening b
 Niet adequaat adresseren van risico's voor jongeren en kwetsbare groepen kan leiden tot ernstige ethische en maatschappelijke schade.
 
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/aia-04-risicobeoordeling-voor-jongeren-en-kwetsbaren no-search no-onderwerp no-rol no-levenscyclus -->

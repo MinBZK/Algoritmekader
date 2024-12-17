@@ -12,7 +12,7 @@ vereiste:
   
 levenscyclus: 
 - ontwerp
-- validatie-en-verificatie
+- verificatie-en-validatie
 onderwerp: 
 - transparantie
 - publieke-inkoop

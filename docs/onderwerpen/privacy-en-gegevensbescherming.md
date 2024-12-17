@@ -11,7 +11,7 @@ Overheden die algoritmes gebruiken, moeten de persoonsgegevens van burgers besch
 Overheidsalgoritmes mogen persoonsgegevens gebruiken, zolang je de privacy van burgers en bedrijven niet schendt. En wanneer je netjes omgaat met hun persoonsgegevens.
 Dit betekent:
 
-* [Verantwoord gebruik van data](data.md), zoals [rechtmatig persoonsgegevens](avg-01-persoonsgegevens-worden-rechtmatig-verwerkt) gebruiken
+* [Verantwoord gebruik van data](data.md), zoals [rechtmatig persoonsgegevens](../voldoen-aan-wetten-en-regels/vereisten/avg-01-persoonsgegevens-worden-rechtmatig-verwerkt.md) gebruiken
 * [Beveiligen](technische-robuustheid-en-veiligheid.md) van persoonsgegevens
 * [Transparant](transparantie.md) zijn over het gebruik van persoonsgegevens
 

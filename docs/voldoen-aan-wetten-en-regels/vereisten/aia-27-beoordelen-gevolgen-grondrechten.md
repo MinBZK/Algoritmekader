@@ -1,7 +1,7 @@
 ---
 title: Hoog-risico-AI-systemen voor publieke taken worden beoordeeld op gevolgen voor grondrechten.
 id: urn:nl:ak:ver:aia-29
-toelichting: Voordat een AI-systeem met een hoog risico als bedoeld in artikel 6, lid 2 AI-verordening, in gebruik wordt genomen, met uitzondering van AI-systemen met een hoog risico die bedoeld zijn om te worden gebruikt op het in punt 2 van bijlage III vermelde gebied, voeren operatoren die publiekrechtelijke instellingen zijn of particuliere entiteiten zijn die openbare diensten verlenen, en operatoren van AI-systemen met een hoog risico als bedoeld in bijlage III, punt 5, onder b) en c), een beoordeling uit van de gevolgen voor de grondrechten die het gebruik van een dergelijk systeem kan opleveren.
+toelichting: Publieke instellingen of particuliere entiteiten die openbare diensten leveren, en operators van bepaalde AI-systemen, moeten een beoordeling uitvoeren van de impact op de grondrechten die het gebruik ervan kan hebben.
 levenscyclus:
 - ontwerp
 - verificatie-en-validatie

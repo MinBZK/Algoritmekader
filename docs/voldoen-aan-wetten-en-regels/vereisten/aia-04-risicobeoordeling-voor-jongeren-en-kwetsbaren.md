@@ -1,7 +1,7 @@
 ---
-title: Hoog-risico-AI-systemen vormen geen risico voor kwetsbare groepen zoals kinderen
+title: Hoog-risico-AI-systemen vormen geen risico voor kwetsbare groepen zoals kinderen.
 id: urn:nl:ak:ver:aia-04
-toelichting: Bij het doorlopen, periodieke systematische toetsing en actualisatie van het risicosysteem nemen aanbieders in overweging of het beoogde doel van het AI-systeem negatieve effecten zal hebben op personen jonger dan 18 jaar of andere kwetsbare groepen.
+toelichting: Bij het doorlopen, het periodieke systematische toetsen en actualiseren van het risicosysteem nemen aanbieders in overweging of het beoogde doel van het AI-systeem negatieve effecten zal hebben op personen jonger dan 18 jaar of andere kwetsbare groepen.
 levenscyclus:
 - ontwerp
 - monitoring-en-beheer
@@ -23,13 +23,16 @@ hide:
 ---
 
 <!-- tags -->
+
 ## Vereiste
 
-Bij het doorlopen, periodieke systematische toetsing en actualisatie van het risicosysteem nemen aanbieders in overweging of het beoogde doel van het AI-systeem negatieve effecten zal hebben op personen jonger dan 18 jaar of andere kwetsbare groepen.
+Bij het doorlopen, het periodieke systematische toetsen en actualiseren van het risicosysteem nemen aanbieders in overweging of het beoogde doel van het AI-systeem negatieve effecten zal hebben op personen jonger dan 18 jaar of andere kwetsbare groepen.
 
 ## Toelichting
 
-Bij de uitvoering van het in de leden 1 tot en met 7 van art. 9 AI-Verordening bedoelde systeem voor risicobeheer houden aanbieders rekening met de vraag of het beoogde doel van het AI-systeem met een hoog risico waarschijnlijk negatieve gevolgen zal hebben voor personen jonger dan 18 jaar en, in voorkomend geval, voor andere groepen kwetsbare personen. Er moet een grondige risicoanalyse plaatsvinden en worden vertaald naar mitigerende maatregelen om het risico te elimineren of te mitigeren.
+Bij de uitvoering van het in de leden 1 tot en met 7 van art. 9 AI-Verordening bedoelde systeem voor risicobeheer houden aanbieders rekening met de vraag of het beoogde doel van het AI-systeem met een hoog risico waarschijnlijk negatieve gevolgen zal hebben voor personen jonger dan 18 jaar en, in voorkomend geval, voor andere groepen kwetsbare personen.
+
+Er moet een grondige risicoanalyse plaatsvinden en worden vertaald naar mitigerende maatregelen om het risico te elimineren of te mitigeren.
 
 ## Bronnen
 

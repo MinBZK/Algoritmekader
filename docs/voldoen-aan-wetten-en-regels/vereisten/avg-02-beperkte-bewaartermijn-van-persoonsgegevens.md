@@ -5,7 +5,6 @@ toelichting: Persoonsgegevens moeten worden bewaard in een vorm die het mogelijk
 levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
-- ontwikkelen
 - uitfaseren
 onderwerp:
 - privacy-en-gegevensbescherming
@@ -17,6 +16,7 @@ hide:
 ---
 
 <!-- tags -->
+
 ## Vereiste
 
 Persoonsgegevens moeten worden bewaard in een vorm die het mogelijk maakt om de betrokkenen niet langer te identificeren dan nodig is voor de realisering van de doeleinden waarvoor de persoonsgegevens initieel worden verwerkt.
@@ -28,8 +28,7 @@ Dit vereist dat ervoor wordt gezorgd dat de opslagperiode van de persoonsgegeven
 Het beginsel van opslagbeperking betekent dat persoonsgegevens moeten worden bewaard in een vorm die het mogelijk maakt om de betrokkenen niet langer te identificeren dan voor de realisering van de doeleinden waarvoor de persoonsgegevens worden verwerkt.
 
 In de context van algoritmes is het belangrijk dat, wanneer persoonsgegevens worden verwerkt, er onderzocht wordt op welke manieren identificatie van betrokkenen tegen kan worden gegaan.
-Hierbij kan worden gedacht aan maatregelen als pseudonomisering en anonimisering.
-
+Hierbij kan worden gedacht aan maatregelen als het pseudonomiseren, anonimiseren en aggregeren van de persoonsgegevens. 
 
 ## Bronnen
 
@@ -38,12 +37,9 @@ Hierbij kan worden gedacht aan maatregelen als pseudonomisering en anonimisering
 ## Wanneer van toepassing? 
 <!-- tags-ai-act -->
 
-
 ## Risico
 
-Het onnodig lang bewaren van persoonsgegevens levert een onrechtmatige situatie op.
-De privacyrechten van betrokken worden hierdoor aangetast.
-Er ontstaan aanvullende risico's bij bijvoorbeeld een datalek.
+Het onnodig lang bewaren van persoonsgegevens levert een onrechtmatige situatie op. De privacyrechten van betrokken worden hierdoor aangetast. Er ontstaan aanvullende risico's bij bijvoorbeeld een datalek.
 
 
 ## Maatregelen { data-search-exclude }

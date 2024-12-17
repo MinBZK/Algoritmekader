@@ -13,7 +13,7 @@ Overheidsorganisaties kunnen een behoefte hebben om hun taken beter uit te gaan 
 Het inkoopproces moet eraan bijdragen dat uiteindelijk een contract wordt gesloten met een leverancier die het best in staat is om invulling te geven aan deze ‘overheidsopdracht’. Het is van belang dat in het inkoopproces duidelijk wordt gemaakt aan welke voorwaarden moet worden voldaan door leveranciers. Net als voor privacy en informatiebeveiliging, zullen de vereisten specifiek voor algoritmes ook een plek moeten krijgen in het inkoopproces. 
 
 ## Belang van het inkoopproces
-Het inkoopproces neemt een bijzondere positie in om tot een verantwoorde inzet van algoritmes te komen door overheidsorganisaties. Met een gedegen inkoopproces kunnen mogelijke negatieve effecten van algoritmes voor een belangrijk deel al op voorhand worden voorkomen. Dit wordt gedaan door een leverancier te selecteren die voldoet aan de wensen en vereisten die aan deze algoritmes moeten worden gesteld en door hier nadere afspraken mee te maken.
+Het inkoopproces neemt een bijzondere positie in om tot een verantwoorde inzet van algoritmes te komen door overheidsorganisaties. Met een gedegen inkoopproces kunnen mogelijke negatieve effecten van algoritmes voor een belangrijk deel al op voorhand worden voorkomen. Dit wordt gedaan door een leverancier te selecteren die voldoet aan de wensen en bijzondere vereisten die aan deze algoritmes moeten worden gesteld en door hier nadere afspraken mee te maken.
 
 Het is daarom van belang dat de wensen en vereisten goed in beeld worden gebracht. En dat bijvoorbeeld een inkoopadviseur deze wensen en vereisten een plek geeft in een aanbesteding, zodat je bij de meest geschikte leverancier uitkomt. Dit geldt ook voor onderhandse gunningen.
 

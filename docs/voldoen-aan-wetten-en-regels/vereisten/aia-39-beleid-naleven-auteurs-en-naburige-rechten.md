@@ -26,7 +26,7 @@ Er is beleid opgesteld ter naleving van auteursrechten en naburige rechten door 
 ## Toelichting
 Aanbieders van AI-modellen voor algemene doeleinden stellen beleid op ter naleving van het Unierecht inzake auteursrechten en naburige rechten en dan met name ter vaststelling en naleving, onder meer door middel van geavanceerde technologieën, van een op grond van artikel 4, lid 3, van Richtlijn (EU) 2019/790 tot uitdrukking gebracht voorbehoud van rechten.
 
-Hiervoor dient de rechthebbende van materialen die auteursrechtelijk zijn beschermd een uitdrukkelijk voorbehoud te hebben gemaakt om het verder gebruik van deze materialen. 
+Hiervoor dient de rechthebbende van materialen die auteursrechtelijk zijn beschermd een uitdrukkelijk voorbehoud te hebben gemaakt voor het verder gebruik van deze materialen. 
 
 Deze eis geldt ongeacht de jurisdictie waarin de auteursrechtelijke relevante handelingen plaatsvinden die helpen bij het trainen van die AI-modellen voor algemene doeleienden.
 

@@ -95,9 +95,12 @@ Op dit moment zijn er verschillende Technische Rapporten, Technische Specificati
 | NPR-ISO/IEC/TR 24368        | Information technology - Artificial intelligence - Overview of ethical and societal concerns  | Nederlandse Praktijk Richtlijn |
 | NVN-ISO/IEC TS 8200         | Information technology - Artificial intelligence - Controllability of automated artificial intelligence systems | Nederlandse Voornorm         |
 
-Voor meer informatie over de gehanteerde termen, zie ook hierboven, of [lees meer op de website van NEN](https://www.nen.nl/verschillende-typen-afspraken).
 
-Voor een compleet overzicht van _internationaal_ gepubliceerde standaarden die relateren aan AI, [kijk op de website van de ISO](https://www.iso.org/committee/6794475/x/catalogue/p/1/u/0/w/0/d/0).
+!!! tip "Uitleg over gebruikte termen"
+    
+    Voor meer informatie over de gehanteerde termen, zie ook [de website van NEN](https://www.nen.nl/verschillende-typen-afspraken).
+
+Voor een compleet overzicht van _internationaal_ gepubliceerde standaarden die relateren aan AI, [kijk op de website van de ISO](https://www.iso.org/committee/6794475/x/catalogue/p/1/u/0/w/0/d/0), of gebruik [NEN Connect](https://connect.nen.nl/Portal).
 
 ## Wat moeten Nederlandse overheidsorganisaties doen?
 

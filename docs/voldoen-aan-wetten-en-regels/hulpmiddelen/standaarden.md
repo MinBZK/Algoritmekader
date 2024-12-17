@@ -50,36 +50,17 @@ Wat in deze 10 standaardisatieverzoeken nog niet terugkomt, maar wel in het Algo
 - Werkgroep JTC 21 heeft een "preliminary work item" genaamd _'Guidelines and metrics for the Environmental Impact of Artificial Intelligence Systems and Services'_ wat nog aan werk onderhevig is.
 
 ### Welke standaarden, rapporten en specificaties zijn er al?
-Op dit moment zijn er verschillende Technische Rapporten, Technische Specificaties en Normen (lees hierboven meer over het verschil) die al van belang zijn voor AI:
+Op dit moment zijn er verschillende Technische Rapporten, Technische Specificaties en Normen (onder de tabel kun je meer informatie vinden over deze termen) die al van belang zijn voor AI. In onderstaande tabel worden er enkele uitgelicht. Ben je opzoek naar meer, kijk dan eens op de [AI Standards Hub](https://aistandardshub.org) van het Verenigd Koninkrijk, of op [NEN Connect](https://connect.nen.nl).
 
 | Norm                          | Titel                                                                                         | Status                      |
 |-------------------------------|-----------------------------------------------------------------------------------------------|-----------------------------|
-| ISO/IEC 23053                | Framework for Artificial Intelligence (AI) Systems Using Machine Learning (ML)               | ISO Norm                    |
-| ISO/IEC 24029-2              | Artificial intelligence (AI) - Assessment of the robustness of neural networks - Part 2: Methodology for the use of formal methods | ISO Norm                    |
 | ISO/IEC 42001                | Information technology - Artificial intelligence - Management system                          | ISO Norm                    |
-| ISO/IEC 5259-1               | Artificial intelligence - Data quality for analytics and machine learning (ML) - Part 1: Overview, terminology, and examples | ISO Norm                    |
-| ISO/IEC 5259-3               | Artificial intelligence - Data quality for analytics and machine learning (ML) - Part 3: Data quality management requirements and guidelines | ISO Norm                    |
-| ISO/IEC 5259-4               | Artificial intelligence - Data quality for analytics and machine learning (ML) - Part 4: Data quality process framework | ISO Norm                    |
-| ISO/IEC 5339                 | Information technology - Artificial intelligence - Guidance for AI applications               | ISO Norm                    |
-| TR 18115:2024                | Gegevensbeheer en -kwaliteit voor AI binnen de Europese context               | Technisch Rapport                    |
-| ISO/IEC TR 24029-1           | Artificial Intelligence (AI) - Assessment of the robustness of neural networks - Part 1: Overview | Technisch Rapport            |
-| ISO/IEC TR 24030             | Information technology - Artificial intelligence (AI) - Use cases                             | Technisch Rapport            |
-| ISO/IEC TR 24372             | Information technology - Artificial intelligence (AI) - Overview of computational approaches for AI systems | Technisch Rapport            |
-| ISO/IEC TR 29119-11          | Software and systems engineering - Software testing - Part 11: Guidelines on the testing of AI-based systems | Technisch Rapport            |
 | ISO/IEC TS 25058             | Systems and software engineering - Systems and software Quality Requirements and Evaluation (SQuaRE) - Guidance for quality evaluation of artificial intelligence (AI) systems | Technische Specificatie      |
-| ISO/IEC TS 4213              | Information technology - Artificial intelligence - Assessment of machine learning classification performance | Technische Specificatie      |
-| NEN-EN-ISO/IEC 22989        | Information technology - Artificial intelligence - Artificial intelligence concepts and terminology | Europese Norm               |
-| NEN-EN-ISO/IEC 23053        | Framework for Artificial Intelligence (AI) Systems Using Machine Learning (ML)                | Europese Norm               |
 | NEN-EN-ISO/IEC 23894        | Information technology - Artificial intelligence - Guidance on risk management                | Europese Norm               |
 | NEN-EN-ISO/IEC 25059        | Software engineering - Systems and software Quality Requirements and Evaluation (SQuaRE) - Quality model for AI systems | Europese Norm               |
-| NEN-EN-ISO/IEC 8183         | Information technology - Artificial intelligence - Data life cycle framework                  | Europese Norm               |
-| NEN-ISO/IEC 24668           | Information technology - Artificial intelligence - Process management framework for big data analytics | Nederlandse Norm            |
 | NEN-ISO/IEC 38507           | Information technology - Governance of IT - Governance implications of the use of artificial intelligence by organizations | Nederlandse Norm            |
-| NEN-ISO/IEC 5338            | Information technology - Artificial intelligence - AI system life cycle processes             | Nederlandse Norm            |
 | NPR-CEN/CLC ISO/IEC TR 24027 | Information technology - Artificial intelligence (AI) - Bias in AI systems and AI aided decision making | Nederlandse Praktijk Richtlijn |
-| NPR-ISO/IEC TR 24028        | Information technology - Artificial intelligence - Overview of trustworthiness in artificial intelligence | Nederlandse Praktijk Richtlijn |
 | NPR-ISO/IEC TR 27563        | Security and privacy in artificial intelligence use cases - Best practices                    | Nederlandse Praktijk Richtlijn |
-| NPR-ISO/IEC/TR 24368        | Information technology - Artificial intelligence - Overview of ethical and societal concerns  | Nederlandse Praktijk Richtlijn |
 | NVN-ISO/IEC TS 8200         | Information technology - Artificial intelligence - Controllability of automated artificial intelligence systems | Nederlandse Voornorm         |
 
 

@@ -1,5 +1,5 @@
 ---
-title: Klachtrecht aanbieders verder in AI-waardeketen
+title: Klachtrecht voor aanbieders verder in AI-waardeketen.
 id: urn:nl:ak:ver:aia-37
 toelichting: Aanbieders verder in de AI-waardeketen hebben het recht een klacht in te dienen wegens inbreuk op de AI verordening bij het AI-bureau.
 levenscyclus:

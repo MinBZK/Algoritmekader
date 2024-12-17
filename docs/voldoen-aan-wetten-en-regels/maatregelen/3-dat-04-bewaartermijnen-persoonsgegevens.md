@@ -48,15 +48,15 @@ verwerkingsdoeleinden noodzakelijk is.
 
 ## Voorbeeld
 
-    !!! example "UWV: Klantapplicatie WW"
+### UWV: Klantapplicatie WW
 
-        _Dit voorbeeld heeft een aantal aanpassingen nodig voordat deze in uw organisatie te gebruiken is._
+_Dit voorbeeld heeft een aantal aanpassingen nodig voordat deze in uw organisatie te gebruiken is._
+
+Het UWV heeft in haar privacy statement aangegeven dat zij zich houdt aan de richtlijnen van de Archiefwet voor het bewaren van persoonsgegevens. Hierin staat beschreven welke data bewaard/verwijderd moet worden en op welke termijn. Er staat hier ook een kopje over “Uitvoering Vernietiging” waarin uitgelegd staat dat een afdeling binnen het UWV de vernietiging uitvoert.
         
-        Het UWV heeft in haar privacy statement aangegeven dat zij zich houdt aan de richtlijnen van de Archiefwet voor het bewaren van persoonsgegevens. Hierin staat beschreven welke data bewaard/verwijderd moet worden en op welke termijn. Er staat hier ook een kopje over “Uitvoering Vernietiging” waarin uitgelegd staat dat een afdeling binnen het UWV de vernietiging uitvoert.
+Dit voorbeeld zou verder uitgebreid kunnen worden door de vernietigingsprocedure verder toe te lichten. Op dit moment wordt niet uitgelegd over hoe elektronische of fysieke data vernietigd wordt.
         
-        Dit voorbeeld zou verder uitgebreid kunnen worden door de vernietigingsprocedure verder toe te lichten. Op dit moment wordt niet uitgelegd over hoe elektronische of fysieke data vernietigd wordt.
-        
-        Bron: [Selectielijst UWV - Nationaal Archief](https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-voor-het-uitvoeringsinstituut-werknemersverzekeringen-uwv-voor)
+Bron: [Selectielijst UWV - Nationaal Archief](https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-voor-het-uitvoeringsinstituut-werknemersverzekeringen-uwv-voor)
 
 
 

@@ -19,7 +19,7 @@ hide:
 <!-- tags -->
 ## Vereiste
 
-Informatie over algoritmes worden in goede, geordende en toegankelijke staat gebracht, bewaard en vernietigd wanneer nodig. 
+Informatie over algoritmes wordt in goede, geordende en toegankelijke staat gebracht, bewaard en vernietigd wanneer nodig. 
 
 ## Toelichting 
 

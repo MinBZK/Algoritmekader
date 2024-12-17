@@ -1,5 +1,5 @@
 ---
-title: Gevoelige persoonsgegevens worden alleen gebruikt als hiervoor een wettelijke uitzondering geldt
+title: Gevoelige persoonsgegevens worden alleen gebruikt als hiervoor een wettelijke uitzondering geldt.
 id: urn:nl:ak:ver:avg-08
 toelichting: Bijzondere categorieën van persoonsgegevens mogen alleen worden verwerkt op basis van een wettelijke uitzondering.
 levenscyclus:
@@ -24,12 +24,14 @@ Bijzondere categorieën van persoonsgegevens mogen alleen worden verwerkt op bas
 ## Toelichting
 
 Persoonsgegevens die door hun aard bijzonder gevoelig zijn wat betreft de grondrechten en fundamentele vrijheden, verdienen specifieke bescherming.
-Dit komt doordat de context van de verwerking ervan significante risico's kan meebrengen voor de grondrechten en de fundamentele vrijheden.
-Denk hierbij aan persoonsgegevens als ras, ethnische afkomst, politieke opvattingen of religieuze of levenschouwelijke overtuigingen.
 
+Dit komt doordat de context van de verwerking ervan significante risico's kan meebrengen voor de grondrechten en de fundamentele vrijheden.
+
+Denk hierbij aan persoonsgegevens als ras, ethnische afkomst, politieke opvattingen of religieuze of levenschouwelijke overtuigingen.
 
 Bijzondere categorieën persoonsgegevens mogen alleen worden verwerkt als er hier een wettelijke uitzondering voor is ([artikel
 9 AVG](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679#d1e2043-1-1) en [artikel 30 UAVG](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=3&paragraaf=3.1&artikel=30&z=2021-07-01&g=2021-07-01)).
+
 Deze vereiste is ook van toepassing bij het ontwikkelen en gebruiken van algoritmes en stelt daarmee beperkingen aan het mogen verwerken van deze categorieën persoonsgegevens, bv. ten behoeve van trainingsdata of het genereren van de beoogde output.
 
 ## Bronnen

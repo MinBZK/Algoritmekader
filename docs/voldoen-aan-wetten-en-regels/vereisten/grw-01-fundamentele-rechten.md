@@ -1,5 +1,5 @@
 ---
-title: Algoritmes schenden geen grondrechten of mensenrechten
+title: Algoritmes schenden geen grondrechten of mensenrechten.
 id: urn:nl:ak:ver:grw-01
 toelichting: Fundamentele vrijheden, mensenrechten en grondrechten worden beschermd bij de inzet van algoritmes.
 levenscyclus:
@@ -18,22 +18,18 @@ hide:
 
 <!-- tags -->
 ## Vereiste
-
 Fundamentele vrijheden, mensenrechten en grondrechten worden beschermd bij de inzet van algoritmes.
 
 ## Toelichting
-
-Mensenrechten gelden voor alle mensen op de wereld.
 De mensenrechten in Nederland zijn beschermd door nationale wetten en internationale verdragen.
 In Nederland staan veel mensenrechten in hoofdstuk 1 van de Grondwet.
-Deze rechten heten ook wel ’grondrechten’.
+Deze rechten worden ook wel ’grondrechten’ genoemd.
 Een bekend voorbeeld is artikel 1 van de Grondwet.
 Om mensenrechten te beschermen zijn ze op Europees en internationaal niveau in verschillende verklaringen en verdragen vastgelegd.
 
-
-Mensenrechten kunnen soms onder druk komen te staan.
-De inzet van algoritmes kan bijvoorbeeld een bedreiging vormen voor de privacy van burgers, voor het  recht op gelijke behandeling en voor het recht op behoorlijk bestuur.
-Het is daarom belangrijk om tijdig te onderzoeken of er sprake is of kan zijn van een eventuele inbreuk op fundamentele rechten en vrijheden van burgers. Het is van belang dat maatregelen worden getroffen om een eventuele inbreuk te voorkomen.
+Mensenrechten kunnen bij overheidshandelen en de inzet van algoritmes soms onder druk komen te staan.
+De inzet van algoritmes kan bijvoorbeeld een bedreiging vormen voor de privacy van burgers, voor het recht op gelijke behandeling en voor het recht op behoorlijk bestuur.
+Het is daarom belangrijk om [tijdig te onderzoeken of er sprake is of kan zijn van een eventuele inbreuk op fundamentele rechten](../hulpmiddelen/IAMA.md) en vrijheden van burgers. Het is van belang dat maatregelen worden getroffen om een eventuele inbreuk te voorkomen.
 
 ## Bronnen
 
@@ -52,15 +48,11 @@ Het is daarom belangrijk om tijdig te onderzoeken of er sprake is of kan zijn va
 ## Wanneer van toepassing? 
 <!-- tags-ai-act -->
 
-
 ## Risico
-
 Grondrechten kunnen worden geraakt door de inzet van algoritmes met eventuele schadelijke gevolgen voor betrokkenen. 
 
 ## Maatregelen { data-search-exclude }
-
 <!-- list_maatregelen vereiste/grw-01-fundamentele-rechten no-search no-onderwerp no-rol no-levenscyclus -->
 
-## hulpmiddelen
-
+## Hulpmiddelen
 <!-- list_hulpmiddelen vereiste/grw-01-fundamentele-rechten no-search no-onderwerp no-rol no-levenscyclus no-id -->

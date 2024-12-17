@@ -20,7 +20,9 @@ Aanbieders verder in de AI-waardeketen hebben het recht een klacht in te dienen 
 ## Toelichting
 
 Aanbieders verder in de AI-waardeketen hebben het recht om een klacht in te dienen bij het AI-bureau in het geval van een inbreuk op de AI-verordening.
+
 Dit biedt hen een mechanisme om actie te ondernemen bij schendingen van de regels met betrekking tot AI-modellen voor algemene doeleinden die zij geïntrigeerd hebben in AI-systemen.
+
 Het AI-bureau kan dan passende maatregelen nemen om de naleving van de verordening te handhaven en eventuele geschillen tussen aanbieders op te lossen.
 
 ## Bronnen
@@ -28,7 +30,6 @@ Het AI-bureau kan dan passende maatregelen nemen om de naleving van de verordeni
 [Artikel 89(2) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e7817-1-1)
 
 ## Wanneer van toepassing?
-
 
 ## Risico
 

@@ -1,7 +1,7 @@
 ---
-title: Informatie over algoritmes wordt gedocumenteerd volgens de Archiefwet
+title: Informatie over algoritmes worden in goede, geordende en toegankelijke staat gebracht, bewaard en vernietigd wanneer nodig.
 id: urn:nl:ak:ver:arc-01
-toelichting: Volgens de Archiefwet moeten overheden informatie bewaren. Op basis van deze informatie moet gereconstrueerd kunnen worden hoe besluiten, ook in de context van algoritmes, tot stand zijn gekomen. Informatie over algoritmes moet daarom op basis van de selectielijst bewaard en vernietigd worden.
+toelichting: Overheden moeten informatie over algoritmes in goede, geordende en toegankelijke staat brengen en bewaren. Ook moeten ze zorgen voor de vernietiging van archiefbescheiden die daarvoor in aanmerking komen. 
 levenscyclus: 
 - uitfaseren
 - monitoring-en-beheer
@@ -19,13 +19,13 @@ hide:
 <!-- tags -->
 ## Vereiste
 
-Overheidsorganen zijn verplicht de onder hen berustende archiefbescheiden in goede, geordende en toegankelijke staat te brengen en te bewaren, alsmede zorg te dragen voor de vernietiging van de daarvoor in aanmerking komende archiefbescheiden.
+Informatie over algoritmes worden in goede, geordende en toegankelijke staat gebracht, bewaard en vernietigd wanneer nodig. 
 
 ## Toelichting 
 
-Volgens de Archiefwet moeten overheden informatie bewaren.
-Op basis van deze informatie moet gereconstrueerd kunnen worden hoe besluiten, ook in de context van algoritmes, tot stand zijn gekomen.
-Informatie over en van algoritmes moet daarom op basis van de selectielijst bewaard en vernietigd worden.
+Overheden moeten informatie over algoritmes in goede, geordende en toegankelijke staat brengen en bewaren. Ook moeten ze zorgen voor de vernietiging van archiefbescheiden die daarvoor in aanmerking komen. 
+
+Op basis van deze informatie moet bijvoorbeeld gereconstrueerd kunnen worden hoe besluiten, ook in de context van algoritmes, tot stand zijn gekomen. Informatie over algoritmes moet daarom op basis van de selectielijst bewaard en vernietigd worden.
 
 ## Bronnen 
 
@@ -39,7 +39,8 @@ Informatie over en van algoritmes moet daarom op basis van de selectielijst bewa
 
 ## Risico 
 
-Zonder goede toepassing van de Archiefwet is het voor betrokkene(n) of derden niet mogelijk om achteraf te reconstrueren en te controleren hoe besluiten, waar algoritmes aan hebben bijgedragen, tot stand zijn gekomen.
+Zonder goede het goede, geordende en toegankelijke staat brengen en bewaren van gegevens is het voor betrokkene(n) of derden niet mogelijk om achteraf te reconstrueren en te controleren hoe besluiten, waar algoritmes aan hebben bijgedragen, tot stand zijn gekomen.
+
 Het nalaten om archiefbescheiden na verloop van tijd te verwijderen brengt risico's met zich mee op het gebied van privacy en informatiebeveiliging.
 
 ## Maatregelen { data-search-exclude } 

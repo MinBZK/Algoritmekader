@@ -46,9 +46,9 @@ Beveiliging. De verwerker treft passende technische en organisatorische maatrege
 
 - Audits. De verwerker werkt mee aan uw audits of die van een derde partij. En stelt alle relevante informatie beschikbaar om te kunnen controleren of de verwerker zich houdt aan de hierboven genoemde verplichtingen (artikel 28 AVG).
 
-## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+## Bijbehorende vereiste(n) { data-search-exclude }
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 

@@ -64,9 +64,9 @@ Afhankelijk van de hoeveelheid beschikbare data en de context maak je hierin een
 
 Naast dat je de datasets willekeurig kan verdelen in drie delen (aselect), kan je ook meer geavanceerde technieken gebruiken. Een robuuste en veelgebruikte techniek is [k-fold cross validation](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html), waarbij het model *k* keer wordt getraind op verschillende delen van de data. 
 
-## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+## Bijbehorende vereiste(n) { data-search-exclude }
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Door onjuiste training van het model presteert het model in de praktijk minder goed dan bij de tests. Als trainings-, validatie- en testdata door elkaar lopen ("data leakage"), kan dit leiden tot overfitting, waardoor het model beter lijkt te presteren dan in werkelijkheid het geval is.

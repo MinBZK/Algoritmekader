@@ -21,7 +21,7 @@ Het publiek inkopen van algoritmes wordt ook gekoppeld aan de algoritme levenscy
  
 ## Algoritme levenscyclus
 Algoritmes kunnen een grote impact hebben op onze maatschappij. Daarom is het van belang dat deze op een verantwoorde manier worden ontwikkeld en gebruikt. Het toepassen van de algoritme levenscyclus is hierover een bruikbare leidraad. De algoritme levenscyclus bestaat uit meerdere fasen. De werkzaamheden die noodzakelijk zijn om een verantwoord algoritme of AI te ontwikkelen, kunnen logisch worden gekoppeld aan deze fasen. 
-Deze levenscyclus kan worden gebruikt voor alle typen algoritmes. Het verschilt uiteraard wel per type wat moet worden gedaan en dit is mede afhankelijk van de risico classificatie. Bij hoge risico toepassing zal meer moeten worden gedaan om risico’s te mitigeren dan als er sprake is van lage risico toepassingen. De levenscyclus geeft een bruikbaar overzicht voor leveranciers en opdrachtgevers wanneer welke werkzaamheden moeten worden uitgevoerd. Het laat ook zien welke werkzaamheden moeten zijn afgerond als algoritmes in de markt mogen worden gezet en klaar zijn voor gebruik. 
+Deze levenscyclus kan worden gebruikt voor alle typen algoritmes. Het verschilt uiteraard wel per type wat moet worden gedaan en dit is mede afhankelijk van de risico classificatie. Bij hoog risico toepassing zal meer moeten worden gedaan om risico’s te mitigeren dan als er sprake is van lage risico toepassingen. De levenscyclus geeft een bruikbaar overzicht voor leveranciers en opdrachtgevers wanneer welke werkzaamheden moeten worden uitgevoerd. Het laat ook zien welke werkzaamheden moeten zijn afgerond als algoritmes in de markt mogen worden gezet en klaar zijn voor gebruik. 
 
 Bij het publiek inkopen van software met bijbehorende algoritmes zijn de wensen van de behoeftesteller en de doelstellingen van de organisatie van groot belang. Dit kan tot verschillende situaties leiden:
 
@@ -35,7 +35,7 @@ Deze inschatting is dus bepalend wat wel en niet van een product mag worden verw
 
 De inzichten uit de algoritme levenscyclus kunnen ondersteunen bij bijvoorbeeld de behoeftestelling, het maken van make-or-buy beslissingen, de te hanteren aanbestedingsvorm, de totstandkoming van de selectie- en gunningseisen, contractspecificaties en de uitvoering en management van het contract. De algoritme levenscyclus kan worden geraadpleegd via het tabblad boven aan deze pagina. Per fase en per type algoritme of AI kan worden bekeken aan welke vereisten moet worden voldaan en welke beheersmaatregelen kunnen worden getroffen. 
 
-## Vereisten
+## Vereisten { data-search-exclude }
 
 Nagenoeg alle vereisten die gelden voor algoritmes kunnen een plek krijgen in het publiek inkoopproces. 
 Daarom is ervoor gekozen om hier niet een opsomming te geven van al deze vereisten, maar verwijzen we naar het onderdeel [vereisten](../voldoen-aan-wetten-en-regels/vereisten/index.md) in het Algoritmekader.
@@ -46,7 +46,7 @@ Daarvoor kan ook op het tabblad 'publieke inkoop' worden geklikt om deze maatreg
 Zie hieronder bij bruikbare informatie en bronnen in het bijzonder de Europese modelcontractbepaling voor (niet) hoog risico AI-systemen en contractvoorwaarden voor algoritmes. 
 Dit geeft een beeld hoe de vereisten onderdeel kunnen worden gemaakt van contractvoorwaarden.   
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 Hieronder volgt een overzicht van de maatregelen die (voor zover zijn uitgewerkt) kunnen worden getroffen om invulling te geven aan de vereisten. 
 

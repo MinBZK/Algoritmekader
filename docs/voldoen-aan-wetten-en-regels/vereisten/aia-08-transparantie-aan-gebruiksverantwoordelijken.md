@@ -48,6 +48,6 @@ In artikel 13 lid 3 is een overzicht gegeven van de informatie die gebruikersins
 
 Onvoldoende transparantie kan leiden tot een gebrek aan begrip over hoe het AI-systeem functioneert, wat de effectiviteit van de inzet ervan kan belemmeren en de naleving van wettelijke verplichtingen in gevaar kan brengen.
 
-## Maatregelen 
+## Maatregelen { data-search-exclude } 
 
 <!-- list_maatregelen vereiste/aia-08-transparantie-aan-gebruiksverantwoordelijken no-search no-onderwerp no-rol no-levenscyclus -->

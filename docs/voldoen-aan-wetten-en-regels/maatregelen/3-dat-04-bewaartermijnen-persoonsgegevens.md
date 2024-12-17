@@ -36,9 +36,9 @@ verwerkingsdoeleinden noodzakelijk is.
 - Controleer of deze maatregelen voor de bewaartermijnen en vernietiging van de (persoons)gegevens (in de onderliggende systemen) zijn getroffen en zorg dat dit aantoonbaar is, bijvoorbeeld met logbestanden.
 - Maak aantoonbaar dat persoonsgegevens zijn vernietigd, bijvoorbeeld met logbestanden.  
 
-## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+## Bijbehorende vereiste(n) { data-search-exclude }
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 

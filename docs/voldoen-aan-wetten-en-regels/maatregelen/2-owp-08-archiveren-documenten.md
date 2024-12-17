@@ -40,9 +40,9 @@ transparantie/openheid (uitgangspunt zou 'open, tenzij' moeten zijn).
 
     Formeer hierbij een multi-discipinaire groep (bestaande uit bijvoorbeeld een inkoper, ontwikkelaar, data scientist, proceseigenaar en archiefdeskundige) om deze maatregel toe te passen.
 
-## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+## Bijbehorende vereiste(n) { data-search-exclude }
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 - [Rekenen en rekenschap. Essay over Algoritmes en de Archiefwet](https://www.inspectie-oe.nl/binaries/inspectie-oe/documenten/publicatie/2021/01/21/rekenen-en-rekenschap/Rekenen+en+rekenschap%2C+Algoritme+en+de+Archiefwet+essay+door+Petra+Helwig+BJu+Tijdschrift+voor+Toezicht++aflevering+1+2020.pdf)

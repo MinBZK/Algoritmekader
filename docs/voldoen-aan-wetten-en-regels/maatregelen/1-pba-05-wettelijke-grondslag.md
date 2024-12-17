@@ -9,6 +9,7 @@ levenscyclus:
 - probleemanalyse
 onderwerp:
 - governance
+- transparantie
 rollen:
 - jurist
 hide:
@@ -25,9 +26,9 @@ Beschrijf de wettelijke grondslag voor de inzet van het algoritme en de beoogde 
 - Als de verwachting is dat een algoritme tot gevolg heeft dat wordt ingegrepen in het leven of de vrijheid van mensen, en zeker als de verwachting is dat er grondrechten worden geraakt, moet er een wettelijke grondslag bestaan voor de inzet van het algoritme.
 - Voor het verwerken van persoonsgegevens is een wettelijke grondslag noodzakelijk. 
 
-## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+## Bijbehorende vereiste(n) { data-search-exclude }
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen 
 - [Onderzoekskader Auditdienst Rijk, SV.7, PRI.6](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)

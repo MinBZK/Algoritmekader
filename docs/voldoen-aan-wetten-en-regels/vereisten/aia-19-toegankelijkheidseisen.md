@@ -48,5 +48,5 @@ Richtlijn 2019/882 strekt ertoe een bijdrage te leveren tot het goed functionere
 
 Niet naleven van deze verplichtingen kan leiden tot juridische en operationele problemen, en kan de veiligheid en betrouwbaarheid van het AI-systeem in gevaar brengen.
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 <!-- list_maatregelen vereiste/aia-19-toegankelijkheidseisen no-search no-onderwerp no-rol no-levenscyclus -->

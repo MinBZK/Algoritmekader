@@ -45,6 +45,6 @@ Deze logs moeten ten minste zes maanden worden bewaard, tenzij anders bepaald do
 
 Het niet of onvoldoende bewaren van logs kan het vermogen belemmeren om incidenten te analyseren, naleving te controleren en verantwoordelijkheid vast te stellen bij mogelijke problemen met het AI-systeem.
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/aia-13-bewaartermijn-voor-gegenereerde-logs no-search no-onderwerp no-rol no-levenscyclus -->

@@ -49,6 +49,6 @@ Voor gebruiksverantwoordelijke die in de hoedanigheid van financiële instelling
 Zonder monitoring door gebruiksverantwoordelijken en (waar nodig) het informeren van aanbieder, distributeur of markttoezichtautoriteit, kan de foutieve werking van een hoog risico AI-systeem niet worden gesignaleerd en hersteld.
 
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/aia-22-gebruiksverantwoordelijken-monitoren-werking no-search no-onderwerp no-rol no-levenscyclus -->

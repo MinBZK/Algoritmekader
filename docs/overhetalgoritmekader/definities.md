@@ -1,6 +1,10 @@
 ---
 title: Woordenlijst
+search:
+  exclude: true
 ---
+
+# Woordenlijst
 <!-- let op! Deze definities staan nu dubbel (hieronder, en in de file includes/begrippenlijst.md) -->
 <!-- de definities in de file includes/begrippenlijst.md zorgen ervoor dat definities automatisch op pagina's worden weergegeven -->
 <!-- dit biedt een overzicht. tzt nog iets verzinnen zodat definities niet op twee plekken moeten worden toegevoegd -->
@@ -8,19 +12,21 @@ title: Woordenlijst
 | Begrip | Definitie | 
 | ---- | ---- | 
 | aanbieder | Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een AI-systeem of een AI-model voor algemene doeleinden ontwikkelt of laat ontwikkelen en dat systeem of model in de handel brengt of het AI-systeem in gebruik stelt onder de eigen naam of merk, al dan niet tegen betaling. | 
-| aanbieders | Een natuurlijke of rechtspersoon, overheidsinstantie, agentschap of ander orgaan die/dat een AI-systeem of een AI-model voor algemene doeleinden ontwikkelt of laat ontwikkelen en dat systeem of model in de handel brengt of het AI-systeem in gebruik stelt onder de eigen naam of merknaam, al dan niet tegen betaling. | 
 | aanbieder verder in de AI-waardeketen | Een aanbieder van een AI-systeem, met inbegrip van een AI-systeem voor algemene doeleinden, waarin een AI-model is geïntegreerd, ongeacht of het AI-model door hemzelf wordt verstrekt en verticaal geïntegreerd is of door een andere entiteit wordt aangeboden op basis van contractuele betrekkingen | 
 | aangemelde instantie | Een conformiteitsbeoordelingsinstantie die overeenkomstig de AI-verordening en andere relevante harmonisatiewetgeving van de Unie is aangemeld | 
 | aanmeldende autoriteit | De nationale autoriteit die verantwoordelijk is voor het opzetten en uitvoeren van de noodzakelijke procedures voor de beoordeling, aanwijzing en kennisgeving van de conformiteitsbeoordelingsinstanties en de monitoring hiervan | 
 | AI-bureau | De taak van de Commissie waarbij zij bijdraagt aan de uitvoering van, de monitoring van en het toezicht op AI-systemen en AI-modellen voor algemene doeleinden, en AI-governance, als bepaald in het besluit van de Commissie van 24 januari 2024; verwijzingen in deze verordening naar het AI-bureau worden begrepen als verwijzingen naar de Commissie | 
-| AI-geletterheid | Vaardigheden, kennis en begrip die aanbieders, gebruiksverantwoordelijken en betrokken personen, rekening houdend met hun respectieve rechten en plichten in het kader van de de AI-verordening, in staat stellen met kennis van zaken AI-systemen in te zetten en zich bewuster te worden van de kansen en risico’s van AI en de mogelijke schade die zij kan veroorzaken | 
+| AI-geletterdheid | Vaardigheden, kennis en begrip die aanbieders, gebruiksverantwoordelijken en betrokken personen, rekening houdend met hun respectieve rechten en plichten in het kader van de de AI-verordening, in staat stellen met kennis van zaken AI-systemen in te zetten en zich bewuster te worden van de kansen en risico’s van AI en de mogelijke schade die zij kan veroorzaken | 
 | AI-model voor algemene doeleinden | Een AI-model, ook wanneer het is getraind met een grote hoeveelheid data met behulp van self-supervision op grote schaal, dat een aanzienlijk algemeen karakter vertoont en in staat is op competente wijze een breed scala aan verschillende taken uit te voeren, ongeacht de wijze waarop het model in de handel wordt gebracht, en dat kan worden geïntegreerd in een verscheidenheid aan systemen verder in de AI-waardeketen of toepassingen verder in de AI-waardeketen, met uitzondering van AI-modellen die worden gebruikt voor onderzoek, ontwikkeling of prototypingactiviteiten alvorens zij in de handel worden gebracht. |  
 | AI-systeem | een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen; | 
 | AI-systeem voor algemene doeleinden | Een AI-systeem dat is gebaseerd op een AI-model voor algemene doeleinden en dat verschillende doeleinden kan dienen, zowel voor direct gebruik als voor integratie in andere AI-systemen | 
 | AI-testomgeving voor regelgeving | Een door een bevoegde autoriteit opgezet gecontroleerd kader dat aanbieders of toekomstige aanbieders van AI-systemen de mogelijkheid biedt een innovatief AI-systeem te ontwikkelen, trainen, valideren en testen, zo nodig onder reële omstandigheden, volgens een testomgevingsplan, voor een beperkte periode en onder begeleiding van een toezichthouder. | 
 | algoritme | Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden | 
 | auteursrecht | Het auteursrecht is het uitsluitend recht van den maker van een werk van letterkunde, wetenschap of kunst, of van diens rechtverkrijgenden, om dit openbaar te maken en te verveelvoudigen, behoudens de beperkingen, bij de wet gesteld. | 
+| AVG | Algemene Verordening Gegevensbescherming |
+| Awb | Algemene wet bestuursrecht |
 | beoogd doel | Het gebruik waarvoor een AI-systeem door de aanbieder is bedoeld, met inbegrip van de specifieke context en voorwaarden van het gebruik, zoals gespecificeerd in de informatie die door de aanbieder in de gebruiksinstructies, reclame- of verkoopmaterialen en verklaringen, alsook in de technische documentatie is verstrekt | 
+| Besluit (Awb) | Een schriftelijke beslissing van een bestuursorgaan, inhoudende een publiekrechtelijke rechtshandeling | 
 | bijzondere categorieën persoonsgegevens | De categorieën persoonsgegevens als bedoeld in artikel 9, lid 1, van Verordening (EU) 2016/679, artikel 10 van Richtlijn (EU) 2016/680 en artikel 10, lid 1, van Verordening (EU) 2018/1725 | 
 | biometrische gegevens | Persoonsgegevens die het resultaat zijn van een specifieke technische verwerking met betrekking tot de fysieke, fysiologische of gedragsgerelateerde kenmerken van een natuurlijk persoon, zoals gezichtsafbeeldingen of vingerafdrukgegevens | 
 | biometrische identificatie | De geautomatiseerde herkenning van fysieke, fysiologische, gedragsgerelateerde of psychologische menselijke kenmerken om de identiteit van een natuurlijk persoon vast te stellen door biometrische gegevens van die persoon te vergelijken met in een databank opgeslagen biometrische gegevens van personen | 
@@ -64,7 +70,9 @@ title: Woordenlijst
 | plan voor testen onder reële omstandigheden | Een document waarin de doelstellingen, methode, geografische reikwijdte, betrokken personen, duur, monitoring, organisatie en wijze van uitvoering van een test onder reële omstandigheden worden omschreven | 
 | proceseigenaar | De proceseigenaar is verantwoordelijk voor de kwaliteit van het proces en de vastlegging daarvan in een processchema | 
 | proefpersoon | In het kader van tests onder reële omstandigheden: een natuurlijk persoon die deelneemt aan een test onder reële omstandigheden | 
+| profilering | Elke vorm van geautomatiseerde verwerking van persoonsgegevens waarbij aan de hand van persoonsgegevens bepaalde persoonlijke aspecten van een natuurlijke persoon worden geëvalueerd, met name met de bedoeling zijn beroepsprestaties, economische situatie, gezondheid, persoonlijke voorkeuren, interesses, betrouwbaarheid, gedrag, locatie of verplaatsingen te analyseren of te voorspellen. Het gaat om een verwerking door een individu met gebruikmaking van diens persoonsgegevens in te delen in een categorie (profiel), vaak in verband met aan dat profiel toegedichte risico's. |
 | publieke inkoop | De verwerving van werken, leveringen of diensten door een overheid of publieke organisatie, van de markt of een andere externe instantie, terwijl zij tegelijkertijd publieke waarde creëren en waarborgen vanuit het perspectief van de eigen organisatie. | 
+| rechtsgevolg | Een verandering in het geheel van de rechten, aanspraken, bevoegdheden en verplichtingen van één of meer natuurlijke personen of rechtspersonen |
 | redelijkerwijs te voorzien misbruik | Het gebruik van een AI-systeem op een wijze die niet in overeenstemming is met het beoogde doel, maar die kan voortvloeien uit redelijkerwijs te voorzien menselijk gedrag of redelijkerwijs te voorziene interactie met andere systemen, waaronder andere AI-systemen | 
 | risico | De combinatie van de kans op schade en de ernst van die schade; | 
 | substantiële wijziging | Een verandering van een AI-systeem nadat dit in de handel is gebracht of in gebruik is gesteld, die door de aanbieder niet is voorzien of gepland in de initiële conformiteitsbeoordeling en als gevolg waarvan de overeenstemming van het AI-systeem met de voorschriften van hoofdstuk III, afdeling 2, AI-Verordening wordt beïnvloed, of die leidt tot een wijziging van het beoogde doel waarvoor het AI-systeem is beoordeeld | 
@@ -88,8 +96,3 @@ title: Woordenlijst
 | verwerker | Een .. rechtspersoon, een overheidsinstantie, een dienst of een ander orgaan die/dat ten behoeve van de verwerkingsverantwoordelijke persoonsgegevens verwerkt. | 
 | verwerkersverantwoordelijke | Een rechtspersoon of overheidsinstantie die, alleen of samen met anderen, het doel van en de middelen voor de verwerking van persoonsgegevens vaststelt | 
 | zwevendekommabewerking of “floating-point operation (FLOP) | Elke wiskundige bewerking of toewijzing met zwevendekommagetallen, die een subset vormen van de reële getallen die gewoonlijk op computers worden gerepresenteerd door een geheel getal met een vaste precisie, geschaald door een gehele exponent van een vaste basis |
-
-
-!!! info "Disclaimer"
-
-    Het Algoritmekader is nog volop in ontwikkeling. Op deze plek willen we vooral aan de slag gaan op een open en transparante wijze. Het is dus niet definitief. Dat betekent dat er dingen opstaan die niet af zijn en soms zelfs fout. Mocht er iets niet kloppen, laat het ons weten via [GitHub](https://github.com/MinBZK/Algoritmekader).

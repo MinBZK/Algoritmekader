@@ -48,6 +48,6 @@ AI-systemen met een hoog risico als bedoeld in punt 2 van bijlage III (kritieke 
 Gebrek aan transparantie en verantwoording bij risicobeoordeling kan leiden tot onrechtmatig in de markt brengen en onrechtmatig gebruik van (risicovolle) AI-systemen.
 
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
  <!-- list_maatregelen vereiste/aia-02-documentatie-beoordeling-niet-hoog-risico-ai no-search no-onderwerp no-rol no-levenscyclus -->

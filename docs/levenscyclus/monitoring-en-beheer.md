@@ -1,9 +1,10 @@
 --- 
-title: Monitoring en beheer
+title: Fase 7, monitoring en beheer
 hide:
 - toc
 ---
 
+# Fase 7: Monitoring en beheer
 Het algoritme wordt in deze fase voortdurend gemonitord om ervoor te zorgen dat het blijft presteren zoals verwacht en kan worden gebruikt door gebruikers. 
 Eventuele afwijkingen of degradatie van prestaties worden gesignaleerd en er worden maatregelen getroffen om dit te herstellen. 
 Dit is van belang vanuit een technisch perspectief (presteert het model nog wel waar het voor ontworpen is), maar ook vanuit een juridische en ethische blik (functioneert het model nog wel rechtmatig en zijn er geen onvoorziene nadelige effecten op mens en maatschappij). 
@@ -14,11 +15,11 @@ Het is van belang dat beheer wordt uitgevoerd over het algoritme, zodat de (gehe
 Een wijziging in onderliggende systemen kan er bijvoorbeeld voor zorgen dat het algoritme niet meer wordt voorzien van de noodzakelijk data om de benodigde output te genereren. 
 Het beheerteam zorgt ervoor dat dergelijke situaties worden voorkomen of opgelost. Er kunnen ook incidenten worden gemeld door gebruikers die worden opgelost door het beheerteam.  
 
-## Vereisten
+## Vereisten { data-search-exclude }
 
 <!-- list_vereisten levenscyclus/monitoring-en-beheer no-rol no-levenscyclus no-search no-onderwerp -->
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen levenscyclus/monitoring-en-beheer no-rol no-levenscyclus no-search no-onderwerp -->
 

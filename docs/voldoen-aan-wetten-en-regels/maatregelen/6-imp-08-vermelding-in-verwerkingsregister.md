@@ -29,10 +29,11 @@ hide:
 - Het is van belang dat vanaf het moment dat persoonsgegevens worden verwerkt, meteen een vermelding hiervan wordt gemaakt in het verwerkingsregister;
 - Dat betekent dat als persoonsgegevens worden verwerkt bij het ontwikkelen en trainen van het algoritme, en deze nog niet in gebruik zijn genomen, al een vermelding moet worden gedaan in het verwerkingsregister;
 - Bij beëindiging van het gebruik van het algoritme, moet het verwerkingsregister worden aangepast. 
-- 
-  ## Bijbehorende vereiste(n)
 
-<!-- list_vereisten_on_maatregelen_page -->
+
+## Bijbehorende vereiste(n) { data-search-exclude }
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Betrokkenen en de interne organisatie zijn niet op de hoogte welke persoonsgegevens worden verwerkt met een algoritme, waardoor zij hier geen controle over hebben. 

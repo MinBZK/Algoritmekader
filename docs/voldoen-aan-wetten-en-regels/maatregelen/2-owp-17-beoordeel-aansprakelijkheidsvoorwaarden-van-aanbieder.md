@@ -41,9 +41,9 @@ Maak de aansprakelijkheidsvoorwaarden die een aanbieder stelt ten aanzien van au
 - Het is daarom van belang om een beoordeling te maken in hoeverre de aansprakelijkheidsvoorwaarden van de aanbieder passend zijn. Maak een jurist onderdeel van de beoordeling.
 
 
-## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+## Bijbehorende vereiste(n) { data-search-exclude }
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 

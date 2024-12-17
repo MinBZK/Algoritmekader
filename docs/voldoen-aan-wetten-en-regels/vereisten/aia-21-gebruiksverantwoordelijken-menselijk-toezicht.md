@@ -43,6 +43,6 @@ Daarbij kan het van belang zijn dat deze natuurlijke personen ondersteuning krij
 Als de natuurlijke toezichthouder geen effectief toezicht kan houden op het hoog risico AI-systeem, kunnen ongewenste, negatieve effecten onstaan voor betrokkenen en de organisatie.
  
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/aia-21-gebruiksverantwoordelijken-menselijk-toezicht no-search no-onderwerp no-rol no-levenscyclus -->

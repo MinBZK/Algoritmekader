@@ -59,7 +59,7 @@ Stem je informatie af op de betrokken partij. Zo moeten gebruikers de uitkomst v
 | Auditor | werking, ontwikkelproces, keuzes van het ontwikkelteam, hoe uitkomsten tot stand komen| algoritmeregister, technische documentatie, programmeercode |
 | Onderzoeker of journalist | algoritmegebruik binnen de organisatie | algoritmeregister, technische documentatie, code |
 
-## Vereisten
+## Vereisten { data-search-exclude }
 
 <!-- list_vereisten onderwerp/transparantie no-search no-onderwerp no-rol no-levenscyclus -->
 

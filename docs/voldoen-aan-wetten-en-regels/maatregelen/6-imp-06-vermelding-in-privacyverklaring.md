@@ -9,6 +9,7 @@ levenscyclus:
 - implementatie
 onderwerp:
 - privacy-en-gegevensbescherming
+- transparantie
 rollen:
 - projectleider
 - jurist
@@ -46,9 +47,10 @@ hide:
 - Het is denkbaar dat in een specifieke privacyverklaring informatie over onderliggende logica van het algoritme, alsmede het belang en de verwachte gevolgen van die verwerking voor de betrokkene. Het is ook denkbaar dat deze informatie in het algoritmeregister wordt opgenomen.
 - Als ervoor wordt gekozen om het algoritme uit te faseren, dan moet informatie in het algoriteregister hierop worden aangepast. 
   
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
-<!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Betrokkenen zijn niet op de hoogte dat hun persoonsgegevens worden verwerkt met een algoritme, waardoor zij hier geen controle over hebben en zich niet kunnen beroepen op hun privacyrechten.

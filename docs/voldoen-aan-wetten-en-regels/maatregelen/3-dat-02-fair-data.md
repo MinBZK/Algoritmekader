@@ -78,9 +78,9 @@ Er zijn 15 principes voor FAIR data geformuleerd:
         
 - [R1.3: (Meta)data voldoet aan domein-relevante normen](https://www.gofair.foundation/r1-3) 
 
-## Vereisten
-
-<!-- list_vereisten_on_maatregelen_page -->
+## Vereisten { data-search-exclude }
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 !!! note "Opmerking"
 

@@ -43,6 +43,6 @@ Er kunnen risico's ontstaan zoals potentiële cyberaanvallen en datalekken.
 Dit kan leiden bijvoorbeeld tot verlies of diefstal van gevoelige gegevens, verstoring van organisatieprocessen,ongeautoriseerde toegang, vernietiging en onrechtmatige verwerking.
 
 
-## Maatregelen 
+## Maatregelen { data-search-exclude } 
 
 <!-- list_maatregelen vereiste/avg-12-beveiliging-van-verwerking no-search no-onderwerp no-rol no-levenscyclus -->

@@ -30,9 +30,9 @@ Pas maatregelen toe als pseudonimiseren, anonimisering of aggregeren van persoon
 - Het bepalen of persoonsgegevens mogen worden verwerkt voor algoritmes moet worden bekeken in samenhang met maatregelen die kunnen worden getroffen om deze gegevens te beschermen. 
 
 
-## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+## Bijbehorende vereiste(n) { data-search-exclude }
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 - [Onderzoekskader Auditdienst Rijk, PRI.5](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)

@@ -61,11 +61,13 @@ Maak vereisten onderdeel van (sub)gunningscriteria bij een aanbesteding.
 - In de context van algoritmes is dit in het bijzonder relevant, bijvoorbeeld in relatie tot vereisten als non-discriminatie, eerbiedigen fundamentele rechten of het verbod op schenden auteursrechten. 
 - Door vereisten te vertalen naar een (sub)gunningscriteria, kan een inhoudelijke beoordeling worden gemaakt in hoeverre een aanbieder voldoet aan deze vereisten.
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
-<!-- list_vereisten_on_maatregelen_page -->
+
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->

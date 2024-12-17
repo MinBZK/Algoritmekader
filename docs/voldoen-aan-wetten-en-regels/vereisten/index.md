@@ -38,7 +38,7 @@ Welke vereisten gelden voor jouw organisatie, hangt af van:
 
 Deze vereiste geldt alleen voor impactvolle algoritmes en hoog-risico-AI-systemen. Een niet-impactvolle rekenregel hoef je niet te registreren.
 
-## Overzicht vereisten
+## Overzicht vereisten { data-search-exclude }
 
 <!-- list_vereisten -->
 

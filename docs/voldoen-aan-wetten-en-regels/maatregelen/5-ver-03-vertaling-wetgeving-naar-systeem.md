@@ -40,9 +40,9 @@ Stel regelmatig vast dat wetgeving en (lokaal) beleid correct is vertaald naar d
 - Als blijkt dat een werkproces niet (meer) conform (gewijzigde) wetgeving of beleid wordt uitgevoerd, dan moet worden beoordeeld of de verworven data of welke deel van de data geschikt is voor het ontwikkelen een algoritme.
 - Het is dan raadzaam om de uitvoering van het betreffende werkproces en de werking van onderliggende systemen eerst te 'herstellen' en om hiermee een nieuw datafundament te creëeren (eerst een groot aantal zaken behandelen) die later als trainingsdata kan worden gebruikt. 
   
-## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+## Bijbehorende vereiste(n) { data-search-exclude }
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Een beslissing of besluit wordt niet conform wetgeving genomen en is daarmee onrechtmatig, als geen goede vertaling wordt gemaakt van wetgeving naar het algoritme. 

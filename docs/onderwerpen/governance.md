@@ -1,66 +1,56 @@
 ---
-title: Governance
+title: Governance van algoritmes binnen je organisatie
 summary: Governance gaat over de inrichting van een organisatie en daar bijbehorende processen en verantwoordelijkheden.
 hide: 
 - path
 ---
 
-## Wat is governance
+# Governance van algoritmes binnen je organisatie
+Zorg voor effectieve governance van je algoritmes. Dit is het beleid van je organisatie voor het verantwoordelijk omgaan met algoritmes en AI-systemen. Leg bijvoorbeeld vast wie waarvoor verantwoordelijk is.
 
-Governance gaat over de inrichting van een organisatie en de daarbij horende processen, regels, gebruiken en bijbehorende verantwoordelijkheden. 
-In het Algoritmekader gaat governance over de governance algoritmes ingezet door een overheidsorganisatie. 
+## Wat is governance van algoritmes binnen je organisatie?
+Algoritme-governance is de manier waarop je organisatie omgaat met algoritmes en AI-systemen. Je maakt duidelijke afspraken over processen, regels en verantwoordelijkheden. 
 
-!!! note "Let op!"
-    Omdat het Algoritmekader uitgaat van de [brede definitie van een algoritme](../overhetalgoritmekader/definities.md), hanteren we voor het gemak de term “algoritmegovernance” als we het hebben over governance over algoritmes, waaronder AI. 
+Deze afspraken maak je op 2 niveaus:
 
-De noodzaak van algoritmegovernance is om grip te hebben (of krijgen) op algoritmes binnen een organisatie en nadelige gevolgen ervan, zoals (onbedoelde) discriminatie, te voorkomen. 
-Een algoritmegovernance is een belangrijke randvoorwaarde om de vereisten die gelden voor een verantwoorde inzet van algoritmes gestructureerd toe te passen.
+### Organisatieniveau
+Hoe de organisatie met algoritmes in het algemeen omgaat, bijvoorbeeld:
 
-Er bestaan verschillende niveaus van algoritmegovernance: het (inter)nationaal niveau, het organisatieniveau en het niveau van het algoritme zelf, het systeemniveau (zie figuur hieronder). 
-Het Algoritmekader focust op de onderste twee niveaus, waar een organisatie invloed op heeft.
-Dit zijn **organisatieniveau** en **systeemniveau**.
+- richtlijnen en gedragscode voor medewerkers
+- strategie en visie
+- werkwijze
+- teamleden en hun verantwoordelijkheden, zoals chief data officers en algoritmefunctionarissen
 
-![Algoritme en AI governance ladder, TNO, 2024](https://github.com/user-attachments/assets/e6102b7f-347b-447a-83e5-bc423ad031c3)
-Bron: TNO, 2024
+### Toepassingsniveau
+Dit zijn afspraken over het beheer van de algoritmes zelf, bijvoorbeeld:
 
-## Leeswijzer
+- best practices
+- multidisciplinair ontwikkelen
+- AI-levenscyclusmodellen
 
-Als je deze sectie leest ben je waarschijnlijk geïnteresseerd in het opzetten of verbeteren van algoritmegovernance bij jouw organisatie. Dit vindt plaats op het organisatieniveau en in de [levenscyclus](../levenscyclus/index.md) bij "organisatieverantwoordelijkheden". Het gaat over het inrichten van processen zoals (die rondom) de levenscyclus van een algoritme **Alles op deze pagina gaat dus over het _inrichten van_ governance.**
+## Belang van algoritme-governance
+Zonder governance verlies je grip op het inkopen, ontwikkelen, gebruiken en uitfaseren van algoritmes en AI. Dit vergroot het risico op overtredingen van wetten en regels zoals de [AI-verordening](../voldoen-aan-wetten-en-regels/ai-verordening.md), Grondwet, Algemene Verordening Gegevensbescherming (AVG) en Auteurswet. 
 
-Er worden maatregelen gegeven waar concreet mee aan de slag kan worden gegaan. Deze maatregelen zijn nog onder te verdelen in twee stappen:
+Goede governance van algoritmes helpt bij het:
 
-1. **Randvoorwaarden algoritmegovernance**: Dit speelt zich af op organisatieniveau. Bijvoorbeeld een duidelijke visie op de ontwikkeling en gebruik van algoritmes is hier onderdeel van.
-2. **Inrichten van algoritmegovernance**: Dit speelt zich af op organisatieniveau, maar heeft betrekking op het systeemniveau. Er worden bijvoorbeeld keuzes gemaakt hoe de levenscyclus, rollen en verantwoordelijkheden specifiek voor jouw organisatie wordt ingericht.
+- correct uitvoeren van wetten en regels
+- toepassen van je eigen strategie, doelstellingen en publieke waarden
 
-Het Algoritmekader **schrijft niet voor** hoe je algoritmegovernance moet inrichten. Organisaties zullen dit zelf moeten bepalen. (In latere versies komt mogelijk tooling om vereisten en maatregelen te koppelen aan rollen binnen een eigen organisatie.)
+## Aanpak algoritme-governance
+Algoritme-governance bepaal je zelf als organisatie. 
 
-## Waar te starten 
-Is er al een visie of beleid over hoe om te gaan algoritmes binnen de organisatie? Is er al iemand verantwoordelijk voor de ontwikkeling en gebruik van algoritmes? Wie gaat over de naleving van bijvoorbeeld de AI-verordening? Stap 1 kan ondersteunen bij deze vragen. 
+Houd in elk geval rekening met:
 
-#### Voorbeelden bij stap 1: Randvoorwaarden algoritmegovernance
-Deze maatregelen gaan over de basis leggen om algortimegovernance mogelijk te maken. Kijk eens naar maatregelen zoals:
+- [organisatieverantwoordelijkheden](../levenscyclus/organisatieverantwoordelijkheden.md): de minimale voorwaarden om te starten met algoritmes
+- [levenscyclus van algoritmes](../levenscyclus/index.md): waar je per fase op moet letten
 
-* [Stel een visie met betrekking tot AI en algoritmes op en zorg voor bestuurlijk bewustzijn en draagvlak.](../voldoen-aan-wetten-en-regels/maatregelen/0-org-04-politiek-bestuurlijke-verantwoordelijkheid.md)
-* [Onderzoek wat er al is qua bestaande governancestructuren en samenwerking.](../voldoen-aan-wetten-en-regels/maatregelen/0-org-05-bestaande-governance.md)
-* [Breng het AI-volwassenheidsniveau in kaart om focus aan te brengen waar het nodig is.](../voldoen-aan-wetten-en-regels/maatregelen/0-org-06-volwassenheidsmodel.md)
 
-#### Voorbeelden bij stap 2: Inrichten van algoritmegovernance
-We geven bij deze maatregelen meer voorbeelden en best practices voor het inrichten van algoritmegovernance. Kijk eens naar maatregelen (onderaan deze pagina) zoals:
+> [!TIP]
+> Zorg dat iemand verantwoordelijk is voor algoritme-governance. En betrek stakeholders.
 
-* [Rollen en verantwoordelijkheden in algoritmegovernance](../voldoen-aan-wetten-en-regels/maatregelen/0-org-10-inrichten-taken-en-verantwoordelijkheden-algoritmegovernance.md)
-* [De AI-levenscyclus en go/no-go 'gates'.](../voldoen-aan-wetten-en-regels/maatregelen/0-org-08-beslismoment-levenscyclus.md)
-* [Intern toezicht zoals met three lines of defence](../voldoen-aan-wetten-en-regels/maatregelen/0-org-07-intern-toezicht.md)
+## Vereisten
 
-!!! note "Let op!"
-    Voorbeelden bieden in hoofdlijnen een ‘blauwdruk’ voor hoe algoritmegovernance kan worden ingericht. 
-    Overheidsorganisaties verschillen, onder andere in grootte. 
-    Er moet altijd moet worden gekeken hoe dit in de eigen organisatie is in te passen. 
- 
-
-## Aandachts- en actiepunten algoritmegovernance algemeen
-* Maak iemand verantwoordelijk voor het opstellen van de algoritmegovernance.
-* Zorg voor (bestuurlijk) bewustzijn als je ziet dat algoritmegovernance ontbreekt maar nog niet belegd is.
-* Zorg voor overlegstructuren met keuzemandaat met belangrijke partijen/stakeholders.
+<!-- list_vereisten onderwerp/governance no-search no-onderwerp no-rol no-levenscyclus -->
 
 ## Aanbevolen maatregelen
 

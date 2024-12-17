@@ -94,11 +94,12 @@ Maak vereisten onderdeel van het programma van eisen bij een aanbesteding
 - Op basis hiervan kan een aanbieder een zo goed mogelijke aanbieding doen.
 - Afhankelijk van de behoeftestelling kan het relevant zijn om bepaalde vereisten te verfijnen in het Programma van Eisen en aan te geven wanneer hieraan voldaan is, bijvoorbeeld met betrekking tot het transparantievereiste. Bepaal met het inkoopteam bij welke vereisten dit noodzakelijk is. 
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->

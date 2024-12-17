@@ -41,9 +41,10 @@ Let op! Sommige maatregelen in het Algoritmekader gaan dieper in op het uitvoere
 ## Risico
 Zonder evaluatie van de kwaliteit van het algoritme is er geen goede sturing, beheersing en verantwoording mogelijk als er ongewenste wijzigingen plaatsvinden in het algoritme of AI-systeem. 
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen 
 - [Onderzoekskader Algoritmes Auditdienst Rijk, SV.15, SV.16, SV.17 ](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)

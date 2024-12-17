@@ -56,6 +56,6 @@ Onvoldoende AI-geletterdheid kan leiden tot misbruik of onjuist gebruik van AI-s
 
 Dit kan leiden tot inefficiëntie, fouten, en mogelijk schade aan organisaties, gebruikers of betrokkenen.
 
-## Maatregelen 
+## Maatregelen { data-search-exclude } 
 
 <!-- list_maatregelen vereiste/aia-01-ai-geletterdheid no-search no-onderwerp no-rol no-levenscyclus -->

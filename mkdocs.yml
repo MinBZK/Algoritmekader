@@ -31,6 +31,8 @@ theme:
 
 nav:
     - Basiskennis algoritmes en AI:
+         - overhetalgoritmekader/index.md 
+         - overhetalgoritmekader/over-het-algoritmekader.md
          - overhetalgoritmekader/soorten-algoritmes.md
          - overhetalgoritmekader/definities.md
     - Onderwerpen:

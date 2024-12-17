@@ -48,6 +48,6 @@ Dit moet worden bekeken in het licht van wat 'actief' moet worden geopenbaard, d
 Zonder het openbaren van overheidsinformatie kan de overheid niet effectief worden gecontroleerd bij het uitvoeren van wettelijke taken.
 
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/woo-01-recht-op-toegang-tot-publieke-informatie -->

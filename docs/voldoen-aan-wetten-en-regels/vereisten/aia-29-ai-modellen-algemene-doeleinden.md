@@ -49,6 +49,6 @@ In art. 53 lid 2 wordt een uitzondering gemaakt op deze vereisten.
 
 Het niet voldoen aan deze verplichtingen kan leiden tot juridische en ethische complicaties, inclusief schendingen van auteursrechten en gebrek aan transparantie in het gebruik van AI-modellen.
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/aia-29-ai-modellen-algemene-doeleinden onderwerp/publieke-inkoop no-search no-onderwerp no-rol no-levenscyclus -->

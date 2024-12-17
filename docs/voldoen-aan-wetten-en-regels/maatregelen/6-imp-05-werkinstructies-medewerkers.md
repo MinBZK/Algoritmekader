@@ -48,12 +48,13 @@ Stel duidelijke werkinstructies op voor de medewerkers die het algoritme gaan ge
 
 - Goede samenwerking tussen medewerkers en systemen helpt bij het voorkomen van (automation) bias en discriminatie, het signaleren van algoritmische problemen, en het vermijden van de facto automatische besluitvorming.
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
-<!-- list_vereisten_on_maatregelen_page -->
-
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
+	
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 

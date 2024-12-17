@@ -88,11 +88,12 @@ Creëer ruimte om met een aanbieder samen te gaan werken om specifieke vereisten
 - Bij een verantwoorde inzet van algoritmes kan het bij vereisten zoals [non-discriminatie](../../onderwerpen/bias-en-non-discriminatie.md), [transparantie](../../onderwerpen/transparantie.md), [menselijke controle](../../onderwerpen/menselijke-controle.md) en [grondrechten](../../onderwerpen/fundamentele-rechten.md) van belang zijn om samen te onderzoeken hoe hier invulling aan moet worden gegeven. Het is belangrijk om bij de behoeftestelling al te verkennen om welke onderwerpen dit mogelijk van toepassing is. Bij een marktverkenning of informatiesessie kan worden verkend hoe aanbieders ervoor staan. Op basis hiervan kan worden beoordeeld in hoeverre bijvoorbeeld in een aanbesteding contractuele ruimte moet worden gecreëerd voor opdrachtgever en aanbieder om hieraan te werken. 
 
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->

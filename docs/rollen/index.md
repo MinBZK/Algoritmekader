@@ -4,17 +4,37 @@ summary: Hulp bij het bepalen van rollen en verantwoordelijkheden om als overhei
 hide:
   - toc
   - path
+  - navigation
 ---
+
 # Rollen
-Verantwoord gebruik van algoritmes is mogelijk als mensen in verschillende rollen goed samenwerken, op het juiste moment.
 
-## Bepaal zelf rollen en verantwoordelijkheden
-Als organisatie bepaal je zelf de namen van je rollen of functies en de taken en verantwoordelijkheden die hierbij horen. 
-Misschien heb je bijvoorbeeld minder rollen, omdat je verschillende expertises combineert in 1 rol. Of rollen hebben andere namen.
+<div style="margin-top:32px;" class="grid cards" markdown>
 
-## Voorbeelden van rollen
-We adviseren de volgende rollen bij het gebruik van algoritmes. Andere rollen zijn ook mogelijk.
+-  [__Beleid en advies__](beleid-en-advies.md)
+
+    ---
+
+    Dit is degene die gaat over wat wenselijk is en adviseert bij de ontwikkeling en/of inzet van een algoritme. Hierbij horen rollen zoals de beleidsmedewerker, ethicus, CIO-adviseur, architect.
 
 
-## Help ons deze pagina te verbeteren
-Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/rollen/index.md) of mail ons via [algoritmes@minbzk.nl](mailto::algoritmes@minbzk.nl).
+-   [__Jurist__](jurist.md)
+    
+    ---
+
+    Hier komt een tekstje.
+
+-   [__Ontwikkelaar__](ontwikkelaar.md)
+
+    ---
+
+    De Ontwikkelaar omvat alle technische expertise.
+
+-   [__Projectleider__](projectleider.md)
+
+    ---
+
+    De projectleider richt zich op het coördineren en aansturen van alle betrokken partijen en processen bij de ontwikkeling van algoritmes.
+
+
+</div>

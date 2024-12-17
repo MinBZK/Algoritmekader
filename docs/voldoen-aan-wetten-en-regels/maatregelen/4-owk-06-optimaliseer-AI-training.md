@@ -29,8 +29,9 @@ Het trainen van AI, vooral generatieve AI-modellen, vergt aanzienlijke energie e
 ### Slimme data- en trainingsoptimalisatie
 Niet alle beschikbare data dragen bij aan de modelprestaties. Door een dataselectiestrategie toe te passen, [gebruik je enkel relevante datasets (dataminimalisatie)](3-dat-09-dataminimalisatie.md), wat zorgt voor minder intensieve rekenbelasting tijdens het trainingsproces. Daarnaast kan slimme caching helpen om repetitieve data-opvragingen te beperken, wat bijdraagt aan een lagere energievraag. Bovendien kun je hertrainingscycli van AI beperken door enkel updates te doen wanneer nieuwe data dit echt vereist. Dit voorkomt overbodige trainingscycli en bespaart energie.
 
-## Bijbehorende vereiste(n)
-<!-- list_vereisten_on_maatregelen_page -->
+## Bijbehorende vereiste(n) { data-search-exclude }
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Zonder energie-efficiënte methoden kan AI-training leiden tot hoge operationele kosten en een aanzienlijke ecologische impact, met name door overmatig gebruik van rekenkracht en energie-intensieve hardware.

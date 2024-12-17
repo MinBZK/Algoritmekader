@@ -3,13 +3,14 @@ hide: navigation
 ---
 
 ## Wat zijn standaarden?
-Standaarden zijn afspraken die worden vastgelegd om ervoor te zorgen dat producten, processen of diensten voldoen aan specifieke eisen op het gebied van kwaliteit, veiligheid en prestaties. Ze worden ontwikkeld door standaardisatieorganisaties, meestal op initiatief van belanghebbenden die een behoefte aan een bepaalde standaard zien, zoals de Europese Commissie, bij of na het ontwikkelen van Europese regelgeving.
+Standaarden zijn afspraken die worden vastgelegd om ervoor te zorgen dat producten, processen of diensten voldoen aan specifieke eisen op het gebied van kwaliteit, veiligheid en prestaties. Sommige standaarden worden ontwikkeld door standaardisatieorganisaties, meestal op initiatief van belanghebbenden die een behoefte aan een bepaalde standaard zien, zoals de Europese Commissie, bij of na het ontwikkelen van Europese regelgeving.
 
 Standaarden zijn er op allerlei gebieden. Momenteel speelt de ontwikkeling van standaarden voor de Europese [AI-verordening](../ai-verordening.md) een belangrijke rol voor de betrouwbare ontwikkeling en gebruik van AI. Vandaar dat deze pagina focust op _standaarden voor AI_.
 
 Er zijn verschillende soorten standaarden, zoals normen, Technische Rapporten (TR) en Technische Specificaties (TS).
 
-- Normen zijn formele, breed geaccepteerde afspraken, vaak ontwikkeld door internationale organisaties zoals ISO/IEC.
+- Normen zijn standaarden die door standaardisatieorganisaties worden gemaakt, zoals ISO of CEN/CENELEC, of NEN.
+- Geharmoniseerde normen zijn standaarden gemaakt door Europese standaardisatieorganisaties in opdracht van de Europese Commissie om de implementatie van Europese richtlijnen of verordeningen eenvoudiger te maken. De meeste normen zijn geen geharmoniseerde normen en worden níet in opdracht van de Europese Commissie gemaakt.
 - Technische Rapporten (TR) hebben een meer informatief karakter. Een TR wordt gebruikt om informatie te delen die niet geschikt is voor een norm, bijvoorbeeld gegevens uit onderzoeken of enquêtes. Een TR is vaak de opmaat voor het opstellen van een norm.
 - Technische Specificaties (TS) zijn normatief, en bieden voorlopige specificaties, vooral voor technologieën in ontwikkeling. Een TS kan in een later stadium worden omgezet in een volledige norm als er voldoende consensus voor is.
 
@@ -19,7 +20,7 @@ Er zijn verschillende soorten standaarden, zoals normen, Technische Rapporten (T
 
 Daarnaast is er onderscheid tussen internationale normen (ISO), Europese normen (EN) en Nederlandse normen (NEN). De NEN onderscheidt ook [verschillende typen afspraken](https://www.nen.nl/verschillende-typen-afspraken), zoals Nederlandse praktijkrichtlijn (NPR) of Nederlandse voornorm (NVN).
 
-Europese normen zijn essentieel voor de AI Verordening, omdat ze geharmoniseerde standaarden bieden die juridische zekerheid verschaffen, met name voor hoog-risico AI-systemen. Veel Europese normen beginnen als internationale ISO-normen en worden vervolgens aangepast aan de Europese context.
+Europese _geharmoniseerde standaarden_ zijn essentieel voor de AI Verordening, omdat ze juridische zekerheid verschaffen. Geharmoniseerde standaarden zijn er bijvoorbeeld al voor speelgoed, elektrische apparaten, medische hulpmiddelen, en straks dus ook voor hoog risico AI-systemen. Als het over standaarden voor de AI-verordening gaat, gaat het dus om _geharmoniseerde standaarden_.
 
 ## Waarom zijn standaarden belangrijk voor de AI-verordening?
 Wanneer AI-systemen worden ontworpen of gebruikt, bieden standaarden praktische richtlijnen en technische kaders (praktische meerwaarde) waarmee compliance aantoonbaar kan worden gemaakt (juridische meerwaarde).

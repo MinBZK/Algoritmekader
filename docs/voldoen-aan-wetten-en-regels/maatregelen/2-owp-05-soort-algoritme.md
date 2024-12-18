@@ -40,9 +40,9 @@ Dit is mede afhankelijk van de bijbehorende risicoclassificatie.
 
 Hiervoor kan de [beslishulp](https://ai-verordening-beslishulp.apps.digilab.network/) in het Algoritmekader voor worden gebruikt'. 
 
-Let op dat niet enkel naar de AI-verordening wordt gekeken. Ook op impactvolle algoritmes die niet vallen onder het bereik van de AI-Verordening zijn ook vereisten van toepassing. Zie hiervoor de Handreiking Algoritmeregister. 
+Let op dat niet enkel naar de AI-verordening wordt gekeken. Ook op impactvolle algoritmes die niet vallen onder het bereik van de AI-Verordening zijn vereisten van toepassing. Zie hiervoor de Handreiking Algoritmeregister. 
 
-Deze stap is van groot belang, omdat dit bepalend bijvoorbeeld voor ontwikkelteams en waar het te ontwikkelen systeem aan moet voldoen of welke contractuele verplichtingen moeten worden gecreëerd tussen opdrachtgever en aanbieder van algoritmes.
+Deze stap is van groot belang, omdat dit bijvoorbeeld voor ontwikkelteams mede bepalend is waar het te ontwikkelen systeem aan moet voldoen of welke contractuele verplichtingen moeten worden gecreëerd tussen opdrachtgever en aanbieder van algoritmes.
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

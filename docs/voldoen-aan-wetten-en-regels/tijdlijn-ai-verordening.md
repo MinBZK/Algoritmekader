@@ -146,7 +146,6 @@ Als je aanbieder of gebruiksverantwoordelijke bent van een hoog-risico-AI-systee
 * [aia-28 Mensen over wie besluiten worden genomen door hoog-risico-AI-systemen, krijgen op verzoek informatie over deze besluiten](vereisten/aia-26-recht-op-uitleg-ai-besluiten.md)
 * [aia-29 Hoog-risico-AI-systemen voor publieke taken worden beoordeeld op gevolgen voor grondrechten](vereisten/aia-27-beoordelen-gevolgen-grondrechten.md)
 
-
 Geldt dit voor jouw organisatie? Gebruik de [beslishulp AI-verordening](https://ai-verordening-beslishulp.apps.digilab.network/).
 
 ## Help ons deze pagina te verbeteren

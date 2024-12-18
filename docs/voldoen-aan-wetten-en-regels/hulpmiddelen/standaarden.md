@@ -23,7 +23,7 @@ Geharmoniseerde normen hebben daarnaast een duidelijke praktische waarde. Ze ver
 ## Een overzicht van belangrijke standaarden
 
 ### Normen die worden ontwikkeld voor de AI-verordening
-Er is een standaardisatieverzoek gedaan door de Europese Commissie op 10 specifieke wettelijke vereisten in de AI-Verordening die gaan over belangrijke aspecten van AI. Deze aspecten vind je ook terug in de verschillende [onderwerpen](../../onderwerpen/index.md), [vereisten](../../vereisten/index.md) en [maatregelen](../../maatregelen/index.md) die in het Algoritmekader terugkomen.
+Er is een standaardisatieverzoek gedaan door de Europese Commissie op 10 specifieke wettelijke vereisten in de AI-Verordening die gaan over belangrijke aspecten van AI. Deze aspecten vind je ook terug in de verschillende [onderwerpen](../../onderwerpen/publieke-inkoop.md), [vereisten](../vereisten/index.md) en [maatregelen](../maatregelen/index.md) die in het Algoritmekader terugkomen.
 
 1. Risicomanagement
 2. Gegevensbeheer en -kwaliteit
@@ -87,7 +87,7 @@ Nederlandse overheidsorganisaties kunnen standaarden gebruiken als praktische hu
 Hoe gebruik je standaarden?
 
 1. Kies de juiste standaarden: Begin met het identificeren van relevante standaarden en het begrijpen hoe deze toegepast kunnen worden. Focus op geharmoniseerde Europese normen die aansluiten bij de AI-verordening, en wanneer die er nog niet zijn, kies standaarden die aansluiten bij de onderwerpen uit de AI-verordening, door te kijken naar de lijst van 10 onderwerpen waarvoor een standaardisatieverzoek ligt (zie hierboven).
-3. Pas standaarden toe in de praktijk: Gebruik standaarden als richtlijnen om technische processen en organisatorische maatregelen in te richten, zoals het waarborgen van datakwaliteit, transparantie en betrouwbaarheid van AI-systemen​. Stel de afdeling inkoop op de hoogte van de ontwikkeling, zodat zij hierop kunnen anticiperen als hoog-risico-AI-systemen moet worden [ingekocht](../../publieke-inkoop/index.md). 
+3. Pas standaarden toe in de praktijk: Gebruik standaarden als richtlijnen om technische processen en organisatorische maatregelen in te richten, zoals het waarborgen van datakwaliteit, transparantie en betrouwbaarheid van AI-systemen​. Stel de afdeling inkoop op de hoogte van de ontwikkeling, zodat zij hierop kunnen anticiperen als hoog-risico-AI-systemen moet worden [ingekocht](../../onderwerpen/publieke-inkoop.md). 
 4. Blijf op de hoogte: Volg de ontwikkelingen binnen JTC 21 en houd bij welke internationale standaarden worden opgenomen in het Europese normalisatieproces.
 Door standaarden actief te gebruiken, kunnen overheidsorganisaties hun AI-systemen veiliger en betrouwbaarder maken en tegelijkertijd voldoen aan de wettelijke vereisten van de AI-verordening.
 

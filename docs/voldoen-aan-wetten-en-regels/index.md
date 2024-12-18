@@ -35,7 +35,7 @@ hide:
 
     De Europese regels voor het verantwoord ontwikkelen en gebruiken van AI.
 
--  [__Tijdlijn AI-verordening__](tijdlijn-ai-verordening/index.md)
+-  [__Tijdlijn AI-verordening__](tijdlijn-ai-verordening.md)
 
     ---
 

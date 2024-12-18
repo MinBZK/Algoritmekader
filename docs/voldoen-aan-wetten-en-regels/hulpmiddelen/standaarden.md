@@ -23,7 +23,7 @@ Geharmoniseerde normen hebben daarnaast een duidelijke praktische waarde. Ze ver
 ## Een overzicht van belangrijke standaarden
 
 ### Normen die worden ontwikkeld voor de AI-verordening
-Er is een standaardisatieverzoek gedaan door de Europese Commissie op 10 specifieke aspecten van AI. Deze aspecten vind je ook terug in de verschillende [onderwerpen](../../onderwerpen/index.md) die in het Algoritmekader terugkomen.
+Er is een standaardisatieverzoek gedaan door de Europese Commissie op 10 specifieke wettelijke vereisten in de AI-Verordening die gaan over belangrijke aspecten van AI. Deze aspecten vind je ook terug in de verschillende [onderwerpen](../../onderwerpen/index.md), [vereisten](../../vereisten/index.md) en [maatregelen](../../maatregelen/index.md) die in het Algoritmekader terugkomen.
 
 1. Risicomanagement
 2. Gegevensbeheer en -kwaliteit

@@ -33,7 +33,13 @@ hide:
 
     ---
 
-    De Europese regels voor het verantwoord ontwikkelen en gebruiken van AI. Inclusief tijdlijn.
+    De Europese regels voor het verantwoord ontwikkelen en gebruiken van AI.
+
+-  [__Tijdlijn AI-verordening__](tijdlijn-ai-verordening.md)
+
+    ---
+
+    Belangrijkste deadlines uit de AI-verordening met de vereisten waaraan je moet voldoen.    
 
 -   [__Beslishulp AI-verordening__](https://ai-act-decisiontree.apps.digilab.network)
 

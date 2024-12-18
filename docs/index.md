@@ -28,7 +28,7 @@ hide:
     <ul>
       <li><a href="onderwerpen/bias-en-non-discriminatie/">Discriminerende effecten van algoritmes</a></li>   
       <li><a href="onderwerpen/privacy-en-gegevensbescherming/">Privacy en persoonsgegevens beschermen</a></li>
-      <li><a href="onderwerpen/publieke-inkoop/">Publieke inkoop van algoritmes</a></li>
+      <li><a href="onderwerpen/publieke-inkoop/">Inkoop van verantwoorde algoritmes</a></li>
     </ul>
     <a href="onderwerpen/" class="show-more"><b>Alle onderwerpen</b></a>
   </div>
@@ -53,8 +53,9 @@ hide:
     <div class="float-box">
     <h3><b>Eerste deadline: 2 februari 2025</b></h3>
     <ul>
-      <li><a href="voldoen-aan-wetten-en-regels/ai-verordening/">Tijdlijn AI-verordening</a></li>
+      <li><a href="voldoen-aan-wetten-en-regels/tijdlijn-ai-verordening.md">Tijdlijn AI-verordening</a></li>
       <li><a href="https://ai-verordening-beslishulp.apps.digilab.network/">Beslishulp AI-verordening</a></li>
+      <li><a href="voldoen-aan-wetten-en-regels/ai-verordening.md">AI-verordening in het kort</a></li>
     </ul>
 
   </div>

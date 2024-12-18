@@ -68,7 +68,7 @@ hide:
     <ul>
       <li><a href="voldoen-aan-wetten-en-regels/vereisten/">Overzicht vereisten voor de overheid</a></li>
       <li><a href="voldoen-aan-wetten-en-regels/maatregelen/">Overzicht aanbevolen maatregelen</a></li>
-      <li><a href="voldoen-aan-wetten-en-regels/hulpmiddelen/">Overzicht aanbevolen hulpmiddelen</a></li>
+      <li><a href="voldoen-aan-wetten-en-regels/hulpmiddelen/">Overzicht hulpmiddelen</a></li>
     </ul>
     </div>
   </div>

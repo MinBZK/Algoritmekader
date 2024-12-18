@@ -15,7 +15,7 @@ hide:
 
     ---
 
-    Professionals zorgen ervoor dat de organisatie algoritmes verantwoord en volgens de beleidsdoelen ontwikkelt en inzet. Bijvoorbeeld een beleidsmedewerker, ethicus, CIO-adviseur of architect.
+    Deze professionals zorgen ervoor dat de organisatie algoritmes verantwoord en volgens de beleidsdoelen ontwikkelt en inzet. Bijvoorbeeld een beleidsmedewerker, ethicus, CIO-adviseur of architect.
 
 
 -   [__Jurist__](jurist.md)

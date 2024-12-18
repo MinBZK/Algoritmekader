@@ -39,5 +39,14 @@ Pas maatregelen toe als pseudonimiseren, anonimisering of aggregeren van persoon
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 2.20](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 ## Voorbeeld
 
-Heb jij een goed voorbeeld? Laat het ons weten!
+!!! example "Groep Gegevensbescherming: Artikel 20 (WP 216)"
+
+    _Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._
+
+    In een advies stuk over anonimiseringstechnieken staan verschillende technieken benoemd voor het pseudonimiseren en anonimiseren van persoonsgegevens. Hierbij wordt gekeken naar de factoren: Herleidbaarheid, Koppelbaarheid en Deduceerbaarheid. Hierbij worden ook vaak gemaakte fouten aangegeven zodat deze voorkomen kunnen worden.
+    Er staat niet exact in hoe deze technieken uit gevoerd moeten worden in dit document. Er wordt hier wel bij iedere techniek een voorbeeld gegeven, maar de exacte implementatie moet zelf verder bekeken worden. Dit voorbeeld kan ondersteunen bij het kiezen van een vorm van gegevens bescherming.
+    _Volgens Autoriteit Persoonsgegevens werkt de European Data Protection Board (EDPB) aan guidelines over anonimiseren en pseudonimiseren, zodra hier meer over bekend is kan deze toegevoegd ook worden._
+        
+    Bron: [Advies 5/2014 over anonimiseringstechnieken](https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2014/wp216_nl.pdf)
+Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
 

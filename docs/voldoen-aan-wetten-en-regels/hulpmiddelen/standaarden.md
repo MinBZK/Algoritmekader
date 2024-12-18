@@ -3,7 +3,7 @@ hide: navigation
 ---
 
 ## Wat zijn standaarden?
-Standaarden zijn afspraken die worden vastgelegd om ervoor te zorgen dat producten, processen of diensten voldoen aan specifieke eisen op het gebied van kwaliteit, veiligheid en prestaties. Sommige standaarden worden ontwikkeld door standaardisatieorganisaties, meestal op initiatief van belanghebbenden die een behoefte aan een bepaalde standaard zien, zoals de Europese Commissie, bij of na het ontwikkelen van Europese regelgeving.
+Standaarden zijn afspraken die worden vastgelegd om ervoor te zorgen dat producten, processen of diensten voldoen aan specifieke eisen op het gebied van kwaliteit, veiligheid en prestaties. Sommige standaarden worden ontwikkeld door standaardisatieorganisaties, meestal op initiatief van belanghebbenden die een behoefte aan een bepaalde standaard zien bij of na het ontwikkelen van Europese regelgeving, zoals de Europese Commissie. _Normen_ zijn standaarden die door standaardisatieorganisaties worden gemaakt, zoals ISO of CEN/CENELEC, of NEN.
 
 Standaarden zijn er op allerlei gebieden. Momenteel speelt de ontwikkeling van standaarden voor de Europese [AI-verordening](../ai-verordening.md) een belangrijke rol voor de betrouwbare ontwikkeling en gebruik van AI. Vandaar dat deze pagina focust op _standaarden voor AI_.
 

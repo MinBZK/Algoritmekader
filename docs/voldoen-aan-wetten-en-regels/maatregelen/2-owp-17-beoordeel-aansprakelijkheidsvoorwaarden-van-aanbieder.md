@@ -40,7 +40,6 @@ Maak de aansprakelijkheidsvoorwaarden die een aanbieder stelt ten aanzien van au
 
 - Het is daarom van belang om een beoordeling te maken in hoeverre de aansprakelijkheidsvoorwaarden van de aanbieder passend zijn. Maak een jurist onderdeel van de beoordeling.
 
-
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
@@ -52,6 +51,10 @@ Maak de aansprakelijkheidsvoorwaarden die een aanbieder stelt ten aanzien van au
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
 Er wordt gecontracteerd met een aanbieder die ongewenste aansprakelijkheidsvoorwaarden hanteert. 
+
+## Bronnen
+
+[Advies Landsadvocaat Pels Rijcken over het gebruik van generatieve AI-tools door medewerkers van de Staat](https://open.overheid.nl/documenten/16d72572-da6b-422c-8cf8-cdc95a523093/file)
 
 
 ## Voorbeeld

@@ -64,14 +64,14 @@ Overleg regelmatig met betrokkenen en [belanghebbenden](1-pba-04-betrek-belanghe
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
 <!-- list_vereisten_on_maatregelen_page -->
 
-## Bronnen 
-<!-- Vul hier de relevante bronnen in voor deze maatregel -->
-Algoritmekader
-  
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
 Het risico is dat partijen niet of onvolledig worden geïnformeerd over de ontwikkeling en gebruik van algoritmes, en hierdoor hun rechten niet kunnen effectueren of belangen kenbaar kunnen maken.
 
+
+## Bronnen 
+<!-- Vul hier de relevante bronnen in voor deze maatregel -->
+  
 ## Voorbeeld
 
 - [Bouwstenen van een communicatieplan](https://communicatiekompas.nl/hulpmiddelen/bouwstenen-van-een-communicatieplan)

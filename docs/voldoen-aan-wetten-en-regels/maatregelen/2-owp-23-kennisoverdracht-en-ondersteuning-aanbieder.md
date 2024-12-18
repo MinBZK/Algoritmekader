@@ -7,6 +7,8 @@ toelichting: Beoordeel of de kennisoverdracht en ondersteuning van aanbieder vol
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste:
 - aia-01-ai-geletterdheid
+- aia-24-informeren-werknemers
+  
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus:
 - ontwerp
@@ -34,13 +36,20 @@ Beoordeel of de kennisoverdracht en ondersteuning van aanbieder voldoende is om 
 
 Laat de aanbieder aangeven op welk niveau de noodzakelijkerwijs te leveren trainingen passend is voor het beoogde gebruik, waarbij de opdrachtgever vooraf inzicht geeft in het bestaande niveau, zodat een aanbieder concreet kan zijn over eventuele verschillen tussen beiden.
 
+<<<<<<< HEAD
+
+## Bijbehorende vereiste(n)
+
+<!-- list_vereisten_on_maatregelen_page -->
+=======
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
+>>>>>>> main
 
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Zonder kennisoverdracht aan de organisaties en gebruikers, ontstaat het risico's dat algoritmes onjuist worden toegepast of dat de output onjuist wordt geïnterpreteerd en zo fouten ontstaan bij het uitvoeren van overheidstaken. 
+Zonder kennisoverdracht aan de organisaties en gebruikers, ontstaat het risico's dat algoritmes onjuist worden toegepast of dat de output onjuist wordt geïnterpreteerd en zo fouten ontstaan bij het uitvoeren van overheidstaken.
 
 ## Bronnen
 

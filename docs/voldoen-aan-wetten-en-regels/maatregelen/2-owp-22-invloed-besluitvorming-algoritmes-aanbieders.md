@@ -7,6 +7,8 @@ toelichting: Ga na of algoritmes van een aanbieder een bepalende invloed hebben 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste:
 - avg-10-recht-op-niet-geautomatiseerde-besluitvorming
+- awb-01-zorgvuldigheidsbeginsel
+- awb-02-motiveringsbeginsel
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus:
 - ontwerp
@@ -36,8 +38,6 @@ Ga na of algoritmes van een aanbieder een bepalende invloed hebben in een beslui
 
 - Tijdens het aanbestedingsproces moeten daarom inzichten worden verkregen hoe de algoritmes van aanbieders functioneren om tot een beoordeling te kunnen komen. Laat de aanbieder dit toelichten. 
 
-
-
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
@@ -47,6 +47,8 @@ Ga na of algoritmes van een aanbieder een bepalende invloed hebben in een beslui
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
 Algoritmes van aanbieders nemen besluitvormende taken over, zonder dat daar zicht op is of dat dit is beoordeeld.  
+
+## Bronnen
 
 ## Voorbeeld
 

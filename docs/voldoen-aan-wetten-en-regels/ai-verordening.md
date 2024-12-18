@@ -12,6 +12,7 @@ In de EU-verordening staan de Europese regels voor het verantwoord ontwikkelen e
 
 ## Europese regels voor het ontwikkelen en gebruiken van AI
 De AI-verordening is de eerste uitgebreide wet over artificiële intelligentie (AI) ter wereld. De regels gelden voor alle Europese lidstaten.
+
 De AI-verordening geldt in deze 3 situaties samen:
 
 * Je ontwikkelt of gebruikt AI.
@@ -32,8 +33,8 @@ Het gaat dan om risico’s zoals [misleiding](../onderwerpen/transparantie.md) e
 Bestaande regels zoals de Algemene verordening gegevensbescherming (AVG) en de Algemene wet bestuursrecht (Awb) beschermen maar voor een deel tegen deze risico’s. Zij gelden niet speciaal voor AI. Daarom vult de AI-verordening deze regels aan.
 
 
-## Definities AI-systeem en AI-model
-De AI-verordening geldt voor AI-systemen en voor ‘AI-modellen voor algemene doeleinden’. 
+## Definitie AI-systeem
+De AI-verordening geldt voor AI-systemen. 
 
 Een [rekenregel](../overhetalgoritmekader/soorten-algoritmes.md) is op zichzelf geen AI-systeem of AI-model. Rekenregels kunnen hier wel onderdeel van zijn.
 
@@ -53,15 +54,12 @@ Onder AI-systemen vallen ook systemen die gebruik maken van op logica en kennis 
 Symbolische AI is meestal ook een AI-systeem. Symbolische AI leert op basis van symbolen en concepten. Een expertsysteem bepaalt bijvoorbeeld op basis van kennis van menselijke experts of iemand een verzekering krijgt of niet. Niet-symbolische AI leert op basis van numerieke data. Dit zijn meetbare data zoals uren, temperatuur en centimeters. 
 
 ### AI-model voor algemene doeleinden
-Een AI-model voor algemene doeleinden is volgens de AI-verordening:
-[Hier komt een definitie]
+Een AI-model voor algemene doeleinden (GPAI):
 
-Kenmerken van deze AI-modellen:
-
-* zijn onderdeel van AI-systemen zoals ChatGPT of Microsoft Copilot
-* kunnen allerlei soorten taken uitvoeren
-* trainen zichzelf op basis van grote hoeveelheden data
-* kunnen content maken zoals teksten, audio en video
+* is onderdeel van AI-systemen zoals ChatGPT of Microsoft Copilot
+* kan allerlei soorten taken uitvoeren
+* traint zichzelf op basis van grote hoeveelheden data
+* kan content maken zoals teksten, audio en video
 
 
 ## Risicogroepen

@@ -27,10 +27,6 @@ Juristen kunnen vroeg in het proces helpen om juridische problemen te voorkomen 
 * Compliance-officer
 * Functionaris gegevensbescherming (FG)
 
-## Help ons deze pagina te verbeteren
-Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/issues/new/choose) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).
-
-
 ## Vereisten { data-search-exclude }
 
 <!-- list_vereisten rollen/jurist no-rol no-levenscyclus no-search no-onderwerp -->
@@ -38,3 +34,6 @@ Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algo
 ## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen rollen/jurist no-rol no-levenscyclus no-search no-onderwerp -->
+
+## Help ons deze pagina te verbeteren
+Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/issues/new/choose) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

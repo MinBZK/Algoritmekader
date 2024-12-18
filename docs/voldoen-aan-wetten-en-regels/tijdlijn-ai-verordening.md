@@ -9,7 +9,7 @@ De AI-verordening gaat in fasen in. Bekijk wanneer je moet voldoen aan welke ver
 ## 2 februari 2025: Stoppen met verboden AI, starten met AI-geletterdheid
 Als je aanbieder of gebruiksverantwoordelijke bent van een AI-systeem, moet je vóór 2 februari 2025 voldoen aan de volgende vereisten uit de AI-verordening:
 
-* Verboden AI is uitgefaseerd
+* [Verboden AI](../overhetalgoritmekader/risico-van-ai-systemen.md) is [uitgefaseerd](../levenscyclus/uitfaseren.md)
 * [aia-01 Personeel en gebruikers zijn voldoende AI-geletterd](vereisten/aia-01-ai-geletterdheid.md)
 
 Geldt dit voor jouw organisatie? Gebruik de [beslishulp AI-verordening](https://ai-verordening-beslishulp.apps.digilab.network/).

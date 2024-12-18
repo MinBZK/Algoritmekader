@@ -55,6 +55,11 @@ Risico's worden niet (tijdig) vastgesteld en adequaat geadresseerd en behandeld.
 - Algoritmekader
 
 ## Voorbeeld
-<!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
+!!! example "Ministerie van Economische Zaken: Gids AI-verordening"
+
+    _Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._
+    Het ministerie van Economische Zaken (EZ) heeft een gids opgesteld voor de AI-verordening. Hierin worden vier stappen toegelicht: Risico, AI, Rol en Verplichtingen. Om een plan op te stellen moet er ook aan de verplichtingen voldaan worden, deze verplichtingen staan samengevat in deze gids vanaf pagina 11. Hier wordt dit voor zowel een aanbieder als gebruiksverantwoordelijke toegelicht.
+        
+    Bron: [Gids AI-verordening](https://www.rijksoverheid.nl/documenten/brochures/2024/10/16/gids-ai-verordening)
 
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

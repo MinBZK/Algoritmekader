@@ -17,6 +17,7 @@ Adviseurs en beleidsmedewerkers spelen een cruciale rol binnen het Algoritmekade
 - (Enterprise) architect
 - Security officer
 - Inkoopadviseur
+- Contractbeheerder
 - Domeinspecialist
 
 ## Vereisten { data-search-exclude }

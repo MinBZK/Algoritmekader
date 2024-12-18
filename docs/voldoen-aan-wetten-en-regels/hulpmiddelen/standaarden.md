@@ -3,9 +3,27 @@ title: Standaarden
 toelichting: Standaarden zijn afspraken die worden vastgelegd om ervoor te zorgen dat producten, processen of diensten voldoen aan specifieke eisen op het gebied van kwaliteit, veiligheid en prestaties. Europese _geharmoniseerde standaarden_ zijn essentieel voor de AI-Verordening.
 categorie: 
 - standaarden
+vereiste:
+- aia-03-risicobeheersysteem
+- aia-05-data-kwaliteitscriteria
+- aia-06-technische-documentatie
+- aia-07-automatische-logregistratie
+- aia-08-transparantie-aan-gebruiksverantwoordelijken
+- aia-09-menselijk-toezicht
+- aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging
+- aia-11-systeem-voor-kwaliteitsbeheer
+- aia-14-conformiteitsbeoordeling
+- aia-15-eu-conformiteitsverklaring
+- aia-16-ce-markering
+- aia-21-gebruiksverantwoordelijken-menselijk-toezicht
+- aia-27-beoordelen-gevolgen-grondrechten
+- aia-28-transparantieverplichtingen
+- aia-34-monitoring-na-het-in-de-handel-brengen
 maatregel:
 - 3-dat-01-datakwaliteit
 - 7-mon-04-evalueer-bij-veranderingen-in-data
+- 2-owp-11-duurzaam-inkopen
+- 2-owp-19-ruimte-voor-samenwerking-met-aanbieder
 levenscyclus:
 - ontwerp
 - ontwikkelen

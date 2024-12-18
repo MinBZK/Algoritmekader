@@ -1,6 +1,36 @@
 ---
+title: Standaarden
+toelichting: Standaarden zijn afspraken die worden vastgelegd om ervoor te zorgen dat producten, processen of diensten voldoen aan specifieke eisen op het gebied van kwaliteit, veiligheid en prestaties. Europese _geharmoniseerde standaarden_ zijn essentieel voor de AI-Verordening.
+categorie: 
+- standaarden
+maatregel:
+- 3-dat-01-datakwaliteit
+- 7-mon-04-evalueer-bij-veranderingen-in-data
+levenscyclus:
+- ontwerp
+- ontwikkelen
+- verificatie-en-validatie
+- monitoring-en-beheer
+onderwerp:
+- data
+- bias-en-non-discriminatie
+- duurzaamheid
+- governance
+- menselijke-controle
+- privacy-en-gegevensbescherming
+- technische-robuustheid-en-veiligheid
+- transparantie
+- publieke-inkoop
+- grondrechten
+rollen:
+- projectleider
+- ontwikkelaar
+- jurist
+- beleid-en-advies
 hide: navigation
 ---
+
+<!-- tags -->
 
 ## Wat zijn standaarden?
 Standaarden zijn afspraken die worden vastgelegd om ervoor te zorgen dat producten, processen of diensten voldoen aan specifieke eisen op het gebied van kwaliteit, veiligheid en prestaties. Sommige standaarden worden ontwikkeld door standaardisatieorganisaties, meestal op initiatief van belanghebbenden die een behoefte aan een bepaalde standaard zien bij of na het ontwikkelen van Europese regelgeving, zoals de Europese Commissie. _Normen_ zijn standaarden die door standaardisatieorganisaties worden gemaakt, zoals ISO of CEN/CENELEC, of NEN.

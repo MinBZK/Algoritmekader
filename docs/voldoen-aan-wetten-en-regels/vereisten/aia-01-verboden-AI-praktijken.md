@@ -54,6 +54,8 @@ Bepaal in een vroege fase en bij het [onderbouwen van het gebruik van een AI-sys
 
 [Overweging 29 - 44 AI-Verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e2799-1-1).
 
+[Handreiking identificatie verboden AI-systemen](Handreiking_Uitvraag_VBSystemen (1))
+
 ## Wanneer van toepassing? 
 <!-- tags-ai-act -->
 

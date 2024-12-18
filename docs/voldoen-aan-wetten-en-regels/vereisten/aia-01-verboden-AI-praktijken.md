@@ -54,7 +54,7 @@ Bepaal in een vroege fase en bij het [onderbouwen van het gebruik van een AI-sys
 
 [Overweging 29 - 44 AI-Verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e2799-1-1).
 
-(Handreiking_Uitvraag_VBSystemen)
+[Handreiking_Uitvraag_VBSystemen.pptx](https://github.com/user-attachments/files/18179666/Handreiking_Uitvraag_VBSystemen.pptx)
 
 ## Wanneer van toepassing? 
 <!-- tags-ai-act -->

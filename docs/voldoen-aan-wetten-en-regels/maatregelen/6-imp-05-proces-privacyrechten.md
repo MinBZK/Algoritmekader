@@ -44,6 +44,16 @@ Betrokkenen hebben geen controle over hun persoonsgegevens doordat ze geen beroe
 [Onderzoekskader Algoritmes Auditdienst Rijk, PRI.9](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) 
 
 ## Voorbeeld
+<!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
+!!! example "Ministerie van Algemene Zaken: Privacy verzoek"
 
-[Privacyverzoek Gemeente Amsterdam](https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/Privacy.aspx/fPrivacyVerzoek)
+  _Dit voorbeeld kan zonder veel aanpassingen in uw organisatie gebruikt worden._
+  Het ministerie van Algemene Zaken (AZ) heeft een online formulier waar burgers een privacy aanvraag kunnen doen, dit kan zowel via post als een digitaal formulier. Op deze pagina staat ook uitgelegd welke gegevens nodig zijn voor een (correcte) aanvraag. Daarnaast wordt vermeld hoe de gegevens verwerkt worden en hoe lang deze bewaard blijven voor de aanvraag. Als laatste wordt ook aangegeven bij wie men terecht kan voor vragen of klachten. 
+  
+  Bron: [Formulier Privacyverzoek - Ministerie van Algemene Zaken]([https://stadszaken.nl/uploads/docs/Handleiding-Generatieve-AI-Gemeente-Utrecht.pdf](https://www.rijksoverheid.nl/ministeries/ministerie-van-algemene-zaken/privacy/privacy-verzoekenformulier-az))
+
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
+
+
+<!-- [Privacyverzoek Gemeente Amsterdam](https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/Privacy.aspx/fPrivacyVerzoek) -->
 

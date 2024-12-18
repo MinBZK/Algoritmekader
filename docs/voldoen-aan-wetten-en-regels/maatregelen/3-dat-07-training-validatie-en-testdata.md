@@ -80,10 +80,10 @@ Door onjuiste training van het model presteert het model in de praktijk minder g
 
     _Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._
 
-    Gemeente Amsterdam heeft een systeem voor het herkennen van lantarenpalen. Hiervoor is een subset van de data gebruikt uit Amsterdam-Oost om te trainen. Het testen is onder andere gebeurd in Weesp wat in het Zuid-Oost gebied ligt. Het uiteindelijke doel is het gehele gebied Amsterdam.
+    Gemeente Amsterdam heeft een systeem voor het herkennen van lantaarnpalen. Hiervoor is een subset van de data gebruikt uit Amsterdam-Oost om te trainen. Het testen is onder andere gebeurd in Weesp wat in het Zuid-Oost gebied ligt. Het uiteindelijke doel is het gehele gebied Amsterdam.
     Het grootste punt van verbetering zou zijn om de trainings-data en validatie-data expliciet te benoemen. Daarnaast zou de trainings-data het beste uit verschillende delen van het gebied Amsterdam gehaald kunnen worden om zo overfitting op Amsterdam-Oost te voorkomen.
         
-    Bron: [Lokaliseren lantarenpalen - Algoritmeregister](https://algoritmes.overheid.nl/nl/algoritme/lokaliseren-van-lantaarnpalen-gemeente-amsterdam/17364371#werking)
+    Bron: [Lokaliseren lantaarnpalen - Algoritmeregister](https://algoritmes.overheid.nl/nl/algoritme/lokaliseren-van-lantaarnpalen-gemeente-amsterdam/17364371#werking)
 
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
 

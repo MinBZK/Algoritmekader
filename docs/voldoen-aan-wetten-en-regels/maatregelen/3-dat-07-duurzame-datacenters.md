@@ -49,8 +49,8 @@ Door geen gebruik te maken van duurzame datacenters, loop je het risico op een h
 !!! example "Groep Gegevensbescherming: Artikel 20 (WP 216)"
     _Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._
 
-    De Rijksdienst voor Ondernemend Nederland (RvO) heeft een jaarlijks verplichte rapportage van datacentra die meer dan 500 Kilowatt gebruiken. Hiervoor moeten de data centra een vragenlijst invullen met onder andere informatie over hernieuwbare energie. Een soortgelijke vragenlijst kan ook naar partijen gestuurd worden waar mogelijk mee samengewerkt kan worden.    
-    Dit voorbeeld valt onder een wettelijke verplichting en zal dus ook een groot aantal vragen bevatten die niet direct relevant zijn. Daarnaast staan hier geen voorbeelden in om een duurzaam data centrum direct te vinden.
+    De Rijksdienst voor Ondernemend Nederland (RvO) heeft een jaarlijks verplichte rapportage van datacentra die meer dan 500 Kilowatt gebruiken. Hiervoor moeten de datacentra een vragenlijst invullen met onder andere informatie over hernieuwbare energie. Een soortgelijke vragenlijst kan ook naar partijen gestuurd worden waar mee samengewerkt wordt.
+    Dit voorbeeld valt onder een wettelijke verplichting en zal dus ook een groot aantal vragen bevatten die niet direct relevant zijn. Daarnaast staan hier geen voorbeelden in om direct een duurzaam datacentrum te vinden.
     
     Bron: [Rapportageplicht energie-efficiëntie datacentra](https://www.rvo.nl/onderwerpen/energiebesparingsplicht/eed-auditplicht/rapportageplicht-datacentra)
     

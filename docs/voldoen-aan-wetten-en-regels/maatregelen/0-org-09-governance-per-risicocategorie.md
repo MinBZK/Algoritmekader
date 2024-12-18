@@ -42,6 +42,8 @@ Richt algoritmegovernance in op basis van de risicoclassificatie van algoritmes.
     Naast de classificatie staat er in deze gids vanaf pagina 11 ook aan welke verplichtingen een aanbieder en gebruiksverantwoordelijke moeten voldoen voor hoog-risico AI, AI voor algemene doeleinden, generatieve AI en chatbots, maar niet voor overige AI.
         
     Bron: [Gids AI-verordening](https://www.rijksoverheid.nl/documenten/brochures/2024/10/16/gids-ai-verordening)
+    
+    Wil je meer hulp bij het vinden van de regels die specifiek voor jou gelden, gebruik dan ook de [Beslishulp AI-Verordening](https://ai-verordening-beslishulp.apps.digilab.network/).
 
 
 

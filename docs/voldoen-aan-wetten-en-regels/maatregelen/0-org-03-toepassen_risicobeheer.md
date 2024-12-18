@@ -62,6 +62,7 @@ Risico's worden niet (tijdig) vastgesteld en adequaat geadresseerd en behandeld.
       
   Bron: [Gids AI-verordening](https://www.rijksoverheid.nl/documenten/brochures/2024/10/16/gids-ai-verordening)
 
+  Wil je meer hulp bij het vinden van de regels die specifiek voor jou gelden, gebruik dan ook de [Beslishulp AI-Verordening](https://ai-verordening-beslishulp.apps.digilab.network/).
 
 !!! example "Ministerie van Justitie en Veiligheid: Richtlijnen veilige software ontwikkeling"
 
@@ -74,5 +75,3 @@ Risico's worden niet (tijdig) vastgesteld en adequaat geadresseerd en behandeld.
 
 
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
-
-Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

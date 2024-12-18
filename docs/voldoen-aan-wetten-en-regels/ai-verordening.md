@@ -78,7 +78,7 @@ De AI-verordening trad in werking op 1 augustus 2024 en gaat stap voor stap geld
 * 2 augustus 2027: Vereisten voor hoog-risico-AI-systemen in producten
 * 2 augustus 2030: Vereisten voor overige hoog-risico-systemen
 
-In de [tijdlijn AI-verordening](../voldoen-aan-wetten-en-regels/ai-verordening/tijdlijn-ai-verordening.md) vind je alle vereisten per deadline.
+In de [tijdlijn AI-verordening](tijdlijn-ai-verordening.md) vind je alle vereisten per deadline.
 
 ## Toezicht en implementatie
 

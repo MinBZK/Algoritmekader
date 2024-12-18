@@ -4,21 +4,31 @@ hide:
   - toc
   - path
 ---
+
 # Jurist
-De jurist brengt juridische expertise in bij de ontwikkeling en implementatie van algoritmes. Dit zijn professionals die zich richten op het waarborgen dat algoritmes voldoen aan de geldende (sectorale) wetten, regels en ethische principes. Juristen adviseren over juridische risico's en stellen kaders op om aspecten als [privacy en gegevensbescherming](../onderwerpen/privacy-en-gegevensbescherming.md), [transparantie](../onderwerpen/transparantie.md) en [non-discriminatie](../onderwerpen/bias-en-non-discriminatie.md) te borgen. Zij vertalen complexe juridische normen naar toepasbare richtlijnen voor de ontwikkeling en toepassing van algoritmes.
+Juristen verantwoorden algoritmes vanuit een juridisch perspectief. Zij zorgen ervoor dat de ontwikkeling en het gebruik van algoritmes voldoet aan wettelijke verplichtingen, zoals de Algemene Verordening Gegevensbescherming (AVG) en de beginselen van behoorlijk bestuur. 
 
+Zij signaleren en mitigeren mogelijke juridische risico’s op het gebied van bijvoorbeeld bias, transparantieverplichtingen of aansprakelijkheid. 
 
-# Relevantie
-Binnen het Algoritmekader speelt de jurist een essentiële rol in het verantwoorden van algoritmes vanuit een juridisch perspectief. Juristen zorgen ervoor dat de ontwikkeling en het gebruik van algoritmes voldoen aan wettelijke verplichtingen, zoals de Algemene Verordening Gegevensbescherming (AVG) en de beginselen van behoorlijk bestuur. Daarnaast helpen zij mogelijke juridische risico's te signaleren en te mitigeren, bijvoorbeeld rondom bias, transparantieverplichtingen of aansprakelijkheid. Door vroeg in het proces betrokken te zijn, kunnen juristen helpen juridische problemen proactief te voorkomen en zorgen voor een rechtmatige implementatie van algoritmes.
+Juristen kunnen vroeg in het proces helpen om juridische problemen te voorkomen en zorgen voor een rechtmatige implementatie van algoritmes.
 
-# Bijbehorende functies
-Onder de term jurist kunnen, afhankelijk van je organisatie, functies vallen als:
+## Belangrijke taken van een jurist:
 
-- Juridisch adviseur
-- Privacy officer
-- Privacy jurist
-- Compliance officer
-- Functionaris gegevensbescherming (FG)
+* waarborgt de geldende wetten, regels en ethische principes
+* adviseert over juridische risico's
+* stelt kaders op voor het waarborgen van bijvoorbeeld [privacy en gegevensbescherming](../onderwerpen/privacy-en-gegevensbescherming.md), [transparantie](../onderwerpen/transparantie.md) en [non-discriminatie](../onderwerpen/bias-en-non-discriminatie.md)
+* vertaalt complexe juridische normen naar toepasbare richtlijnen voor de ontwikkeling en toepassing van algoritmes
+
+## Juristen zijn bijvoorbeeld
+
+* Juridisch adviseur
+* Privacy-officer
+* Privacy-jurist
+* Compliance-officer
+* Functionaris gegevensbescherming (FG)
+
+## Help ons deze pagina te verbeteren
+Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/issues/new/choose) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).
 
 
 ## Vereisten { data-search-exclude }

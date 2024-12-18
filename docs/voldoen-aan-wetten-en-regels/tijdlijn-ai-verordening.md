@@ -61,11 +61,11 @@ Als je aanbieder en/of gebruiksverantwoordelijke bent van een hoog-risico-AI-sys
 * [aia-28 Mensen over wie besluiten worden genomen door hoog-risico-AI-systemen, krijgen op verzoek informatie over deze besluiten](vereisten/aia-26-recht-op-uitleg-ai-besluiten.md)
 * [aia-29 Hoog-risico-AI-systemen voor publieke taken worden beoordeeld op gevolgen voor grondrechten](vereisten/aia-27-beoordelen-gevolgen-grondrechten.md)
 
+Wat betekent dit voor jouw organisatie? Gebruik de [beslishulp AI-verordening](https://ai-verordening-beslishulp.apps.digilab.network/).
+
 ### Uitzondering
 Een uitzondering geldt voor hoog-risico-AI-systemen die op 2 augustus 2026 al in gebruik zijn bij overheidsorganisaties. Deze systemen hoeven pas in 2030 te voldoen aan de vereisten uit de AI-verordening.
 Zie [AI-verordening, artikel 26 en artikel 27](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#art_26).
-
-Wat betekent dit voor jouw organisatie? Gebruik de [beslishulp AI-verordening](https://ai-verordening-beslishulp.apps.digilab.network/).
 
 ## 2 augustus 2027: Hoog-risico-systemen in producten voldoen aan vereisten
 Als je aanbieder bent van een product met daarin een hoog-risico-AI-systeem, moet je vóór 2 augustus 2027 voldoen aan de volgende vereisten uit de AI-verordening:

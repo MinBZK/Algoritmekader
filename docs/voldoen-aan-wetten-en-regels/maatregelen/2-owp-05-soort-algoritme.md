@@ -36,7 +36,7 @@ Stel vast om wat voor type algoritme het gaat en wat de bijbehorende risicoclass
 <!-- Geef hier een toelichting van deze maatregel -->
 Het verschilt per type algoritme welke vereisten hierop van toepassing is en waar een aanbieder of gebruiksverantwoordelijke aan moet voldoen. 
 Dit is mede afhankelijk van de bijbehorende risicoclassificatie. 
-Hiervoor kan in de nabije toekomst de 'beslisboom' in het Algoritmekader voor worden gebruikt'. 
+Hiervoor kan de [beslishulp](https://ai-verordening-beslishulp.apps.digilab.network/) in het Algoritmekader voor worden gebruikt'. 
 Deze stap is van groot belang, omdat dit ook bepalend is welke contractuele verplichtingen moeten worden gecreëerd tussen opdrachtgever en opdrachtnemer/aanbieder. 
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
@@ -48,7 +48,6 @@ Deze stap is van groot belang, omdat dit ook bepalend is welke contractuele verp
 
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
-Algoritmekader
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->

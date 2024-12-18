@@ -52,6 +52,7 @@ Evalueer de uitlegbaarheid van het systeem op functionele, operationele, bruikba
 ## Risico
 Als er geen rekening wordt gehouden met de uitlegbaarheid van een algoritme binnen een bepaalde context, ontstaat het risico dat de output van het algoritme niet wordt begrepen of verkeerd wordt geïnterpreteerd, wat kan leiden tot onjuist gebruik.
 
+
 ## Bronnen
 - [Toolkit voor implementatie](https://xaitk.org/)
 - [An introduction to explainable AI with Shapley values](https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html)

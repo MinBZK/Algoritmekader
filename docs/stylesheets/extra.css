@@ -158,6 +158,7 @@ tbody tr td a:hover {
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Responsive columns */
   gap: 16px; /* Space between the boxes */
   padding-bottom: 32px;
+  padding-top: 16px;
 }
 
 .float-container h2 {
@@ -365,7 +366,7 @@ padding-bottom: 8px;
   display: flex;
   flex-direction: row;
   align-items: center;
-  margin-bottom: 24px;
+  margin-bottom: 12px;
   text-align: left;
 }
 
@@ -495,7 +496,7 @@ a{
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
-  border-radius: 0.5em;
+  border-radius: 0.3em;
   border: 1px solid #ccc;
   display: inline-block; /* Avoid full width */
   width: fit-content;
@@ -505,7 +506,7 @@ a{
   margin: 0 0.5em 0.5em 0;
   -webkit-transition: color 150ms ease-in-out;
   transition: color 150ms ease-in-out;
-  padding: 1em 1.2em 1em 1.2em;
+  padding: 1em 1em .8em 1.2em;
   position: relative;
   text-align: center;
   text-shadow: none;
@@ -611,6 +612,22 @@ background-color: #B2D7EE;
   color: #FFFFFF;
   border-color: #01689B;
   text-decoration: none;
+}
+
+.md-typeset .md-button--secondary {
+  background-color: #ffffff;
+  color: #154271;
+  border: 1px solid #154271;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 700;
+  transition: color 150ms ease-in-out, box-shadow 150ms ease-in-out;
+
+}
+
+.md-typeset .md-button--secondary:hover {
+  color: #154271;
+  box-shadow: 0 0 8px 2px rgba(21, 66, 113, 0.6); /* Glow effect */
 }
 
 :root {

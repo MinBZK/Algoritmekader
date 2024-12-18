@@ -1,9 +1,10 @@
 --- 
-title: Uitfaseren
+title: Fase 8, uitfaseren
 hide:
 - toc
 ---
 
+# Fase 8: Uitfaseren
 Als wordt besloten dat het algoritme niet langer nodig is of wordt vervangen door een wezenlijk andere versie, wordt het gearchiveerd en uitgefaseerd. 
 Hiermee wordt ervoor gezocht dat later kan worden gereconstrueerd hoe het algoritme heeft gefunctioneerd en dat gebruikers er geen gebruik meer van kunnen maken.  
 

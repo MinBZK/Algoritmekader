@@ -8,7 +8,7 @@ vereiste:
 - aia-28-transparantieverplichtingen-richting-natuurlijke-personen
 levenscyclus: 
 - ontwerp
-- ontwikkel
+- ontwikkelen
 onderwerp:
 - transparantie
 rollen:

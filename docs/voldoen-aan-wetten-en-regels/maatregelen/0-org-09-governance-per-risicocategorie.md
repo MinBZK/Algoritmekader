@@ -26,14 +26,6 @@ Richt algoritmegovernance in op basis van de risicoclassificatie van algoritmes.
 - Let op dat niet enkel naar de AI-verordening wordt gekeken. Ook op impactvolle algoritmes die niet vallen onder het bereik van de AI-Verordening zijn ook vereisten van toepassing, en moet algoritmegovernance op worden toegepast.
 - Is algoritmegovernance nieuw bij jouw organisatie, dan kan het helpen om een use-case met beperkt risico grondig te doorlopen om hiervan te leren.
 
-## Bronnen
-
-<!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
-
-<!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
-??? expander "Bekijk alle vereisten"
-    <!-- list_vereisten_on_maatregelen_page -->
-
 ## Bijbehorende vereiste(n) { data-search-exclude }
 
 <!-- list_vereisten_on_maatregelen_page -->
@@ -43,18 +35,40 @@ Richt algoritmegovernance in op basis van de risicoclassificatie van algoritmes.
 
 ## Voorbeelden
 
-De gemeente Rotterdam kiest ervoor om de algoritmegovernance alleen in te zetten bij hoog-risico AI-toepassingen. 
-Deze risicoclassificatie volgt de AI-Verordening. Voor laag-risico toepassingen geldt de standaard governance van de gemeente: de informatiebeveiligings- en privacy governance (Kleur Bekennen, Rekenkamer Rotterdam, 2024, p.71). Tabel 1 geeft inzicht in verschillende typen algoritmen en AI-toepassingen. De afbeelding uit hetzelfde rapport geeft een flowchart van hoe de governance anders is afhankelijk van de risico-categorie. 
+!!! example "Ministerie van Economische Zaken: Gids AI-verordening"
 
-![Afbeelding](../../afbeeldingen/rotterdam_risico_classificatie_governance.png)
+    _Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._
+    Het ministerie van Economische Zaken (EZ) heeft een gids opgesteld voor de AI-verordening. Hierin worden vier stappen toegelicht: Risico, AI, Rol en Verplichtingen. Om te identificeren welke AI-systemen of algoritmes hoog-risico zijn is het aan te raden om deze gids te bekijken. Meer informatie over de AI-verordening is ook te vinden op ["AI-verordening in het kort"](../voldoen-aan-wetten-en-regels/ai-verordening.md)
+    Naast de classificatie staat er in deze gids vanaf pagina 11 ook aan welke verplichtingen een aanbieder en gebruiksverantwoordelijke moeten voldoen voor hoog-risico AI, AI voor algemene doeleinden, generatieve AI en chatbots, maar niet voor overige AI.
+        
+    Bron: [Gids AI-verordening](https://www.rijksoverheid.nl/documenten/brochures/2024/10/16/gids-ai-verordening)
+    
+    Wil je meer hulp bij het vinden van de regels die specifiek voor jou gelden, gebruik dan ook de [Beslishulp AI-Verordening](https://ai-verordening-beslishulp.apps.digilab.network/).
 
-In dit voorbeeld is ook het principe gehanteerd dat naast hoog-risico volgens de AI-verordening, bij ieder algoritme aan de hand van een drietal vragen moet worden besloten of een uitgebreidere algoritmegovernance nodig is.
-* Is de werking van het algoritme niet volledig én beknopt uit te leggen aan een gemiddelde Rotterdammer?
-* Ontbreekt er een menselijke beoordeling voordat de uitkomst van het algoritme in de praktijk wordt gebracht door middel van een concrete handeling van de gemeente?
-* Is het voorstelbaar dat de algoritmetoepassing uitmondt in een onrechtvaardige handeling van de gemeente tegen burgers of bedrijven
 
-Kijk zelf goed wat passend is voor jouw organisatie. 
 
-Voorbeeld BD (Analytische en Cognitieve Technologie | CoE Cognitieve Oplossingen):
-* Richt als eerste een basis (b.v. voor low risk) algoritmegovernance in op operationeel niveau, implementeer deze basis en stel gaandeweg/ondertussen op basis van o.a. best practices de requirements op naar de "wereld" er om heen (tactisch en strategisch niveau). 
+!!! example "Gemeente Rotterdam: Processchema governance"
 
+    _Dit voorbeeld heeft een aantal aanpassingen nodig voordat deze in uw organisatie te gebruiken is._
+    Hieronder staat een schematische weergave van hoe de gemeente Rotterdam algoritme governance toe past. Zij kiezen ervoor om dit alleen toe te passen op hoog-risico AI volgens de definitie van de AI-Verordening. Voor laag-risico toepassingen gebruiken ze hun standaard governance protocol (1). 
+    Ongeacht het risico wordt er ook een drietal vragen gesteld voor **ieder** algoritme voor mogelijk uitgebreidere algoritme governance.
+    * Is de werking van het algoritme niet volledig én beknopt uit te leggen aan een gemiddelde Rotterdammer? 
+    * Ontbreekt er een menselijke beoordeling voordat de uitkomst van het algoritme in de praktijk wordt gebracht door middel van een concrete handeling van de gemeente? 
+    * Is het voorstelbaar dat de algoritmetoepassing uitmondt in een onrechtvaardige handeling van de gemeente tegen burgers of bedrijven?
+    
+    ![Afbeelding](../../afbeeldingen/rotterdam_risico_classificatie_governance.png)
+    
+    Bron: [kleur bekennen - Rekenkamer Rotterdam (Pagina 72)](https://rekenkamer.rotterdam.nl/onderzoeken/kleur-bekennen/)
+
+
+
+!!! example "Belastingdienst: Basis governance"
+
+    _Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._
+    De belastingdienst heeft verschillende algoritmes en heeft hier governance voor. Zij geven aan eerst een basis algoritme governance in te richten (bijvoorbeeld voor low-risk). Zodra deze op operationeel niveau is kan deze worden geïmplementeerd en tijdens de implementatie kan deze bijgesteld worden. 
+        
+    Bron: Belastingdienst (Analytische en Cognitieve Technologie | CoE Cognitieve Oplossingen).
+
+## Bronnen
+
+<!-- Hier moeten bronnen toegevoegd worden. -->

@@ -1,5 +1,5 @@
 ---
-title: Hoog-risico-AI-systemen zijn voorzien van een EU-conformiteitsverklaring
+title: Hoog-risico-AI-systemen zijn voorzien van een EU-conformiteitsverklaring.
 id: urn:nl:ak:ver:aia-15
 toelichting: Aanbieders van AI-systemen met een hoog risico stellen een EU-conformiteitsverklaring op.
 levenscyclus:
@@ -29,9 +29,12 @@ Aanbieders van AI-systemen met een hoog risico stellen een EU-conformiteitsverkl
 ## Toelichting
 
 Een EU-conformiteitsverklaring is een verplicht document dat een fabrikant of gemachtigde vertegenwoordiger moet ondertekenen, waarmee wordt verklaard dat het product aan de EU-eisen voldoet.
+
 De aanbieder stelt voor elk AI-systeem met een hoog risico een schriftelijke machineleesbare, fysieke of elektronisch ondertekende EU-conformiteitsverklaring op en houdt deze verklaring tot tien jaar na het in de handel brengen of het in gebruik stellen van het AI-systeem met een hoog risico ter beschikking van de nationale bevoegde autoriteiten.
+
 De conformiteitsverklaring bevat de informatie zoals genoemd in bijlage V AI-verordening.
-Voorbeelden hiervan zijn de naam en type van het AI-systeem, naam en adres van de aanbieder, dat de EU-conformiteitsverklaring wordt versterkt onder verantwoordelijkheid van de aanbieder en de vermelding van eventuele toegepaste relevante geharmoniseerde normen of van andere gemeenschappelijke specificaties waarop de conformiteitsverklaring betrekking heeft.
+
+Voorbeelden hiervan zijn de naam en type van het AI-systeem, naam en adres van de aanbieder, dat de EU-conformiteitsverklaring wordt versterkt onder verantwoordelijkheid van de aanbieder en de vermelding van eventuele toegepaste [relevante geharmoniseerde normen](../hulpmiddelen/standaarden.md) of van andere gemeenschappelijke specificaties waarop de conformiteitsverklaring betrekking heeft.
 
 ## Bronnen
 

@@ -1,5 +1,5 @@
 ---
-title: Hoog-risico-AI-systemen zijn voorzien van een monitoringsysteem
+title: Hoog-risico-AI-systemen zijn voorzien van een monitoringsysteem.
 id: urn:nl:ak:ver:aia-34
 toelichting: Aanbieders moeten een systeem voor monitoring na het in de handel brengen vaststellen en documenteren op een manier die evenredig is aan de aard van de AI-technologieën en de risico’s van het AI-systeem met een hoog risico.
 levenscyclus:
@@ -22,16 +22,17 @@ hide:
 <!-- tags -->
 ## Vereiste
 
-Aanbieders moeten een systeem voor monitoring na het in de handel brengen vaststellen en documenteren op een manier die evenredig is aan de aard van de AI-technologieën en de risico’s van het AI-systeem met een hoog risico.
-
+Hoog-risico-AI-systemen zijn voorzien van een monitoringsysteem.
 
 ## Toelichting
 
-Aanbieders moeten een monitoringssysteem opzetten voor het monitoren na het in de handel brengen.
+Aanbieders moeten een monitoringssysteem opzetten voor het monitoren na het in de handel brengen van het AI-systeem.
+
 Dit systeem moet documenteren op een wijze die passend is bij de aard van de AI-technologieën en de risico's van het betreffende AI-systeem met een hoog risico.
 Dit monitoringssysteem moet proportioneel zijn aan de complexiteit en potentiële impact van het AI-systeem.
 
 Het systeem voor monitoring na het in de handel brengen verzamelt, documenteert en analyseert actief en systematisch relevante data die door gebruiksverantwoordelijken kunnen zijn verstrekt of via andere bronnen kunnen zijn verzameld, over de prestaties van AI-systemen met een hoog risico gedurende hun hele levensduur.
+
 Dit stelt de aanbieder in staat na te gaan of AI-systemen blijvend voldoen aan de in hoofdstuk III, afdeling 2, van de AI-verordening vermelde voorschriften.
 In voorkomend geval omvat de monitoring na het in de handel brengen een analyse van de interactie met andere AI-systemen.
 Deze verplichting geldt niet voor gevoelige operationele gegevens van gebruiksverantwoordelijken die rechtshandhavingsinstanties zijn.

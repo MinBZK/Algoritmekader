@@ -1,11 +1,10 @@
 ---
-title: Hoog-risico-AI-systemen zijn geregistreerd in de EU-databank
+title: Hoog-risico-AI-systemen zijn geregistreerd in de EU-databank.
 id: urn:nl:ak:ver:aia-17
 toelichting: Aanbieders van AI-systemen met een hoog risico registeren het systeem in de EU-databank voorafgaand aan ingebruikname van het AI-systeem. 
 levenscyclus:
 - implementatie
 onderwerp:
-- governance
 - transparantie
 rollen:
 - projectleider
@@ -23,13 +22,15 @@ hide:
 <!-- tags -->
 ## Vereiste
 
-Aanbieders van AI-systemen met een hoog risico leven de registratieverplichtingen als bedoeld in artikel 49 na, wat betekent dat voor het in de handel brengen of in bedrijf te stellen van het hoog risico AI-systeem, de aanbieder of in voorkomende gevallen de gemachtigde het systeem registreert in de EU-databank.
-
+Hoog-risico-AI-systemen zijn geregistreerd in de EU-databank.
 
 ## Toelichting
 
-Vóór de distributie of inbedrijfstelling van een AI-systeem met een hoog risico van bijlage III, met uitzondering van specifieke gevallen zoals beschreven in punt 2 van bijlage III, is het vereist dat de aanbieder of gemachtigde zichzelf en het systeem registreert in de EU-databank zoals genoemd in art.
-71 AI-verordening.
+Aanbieders van AI-systemen met een hoog risico registeren het systeem in de EU-databank voorafgaand aan ingebruikname van het AI-systeem. 
+
+Vóór de distributie of inbedrijfstelling van een AI-systeem met een hoog risico van bijlage III, met uitzondering van specifieke gevallen zoals beschreven in punt 2 van bijlage III, is het vereist dat de aanbieder of gemachtigde zichzelf en het systeem registreert in de EU-databank zoals genoemd in art. 71 AI-verordening. Ook substantiële wijzigingen van AI-systemen met een hoog risico moeten in de EU-databank worden geregistreerd. 
+
+Als een AI-systeem met een hoog risico wordt gebruikt zoals omschreven in bijlage III, moeten gebruiksverantwoordelijken die overheidsinstanties, -agentschappen of -organen zijn, zich bij een dergelijke databank registreren en het systeem selecteren dat zij voornemens zijn te gebruiken. 
 
 ## Bronnen
 

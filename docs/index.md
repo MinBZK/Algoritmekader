@@ -26,7 +26,7 @@ hide:
     <ul>
       <li><a href="onderwerpen/bias-en-non-discriminatie/">Discriminerende effecten van algoritmes</a></li>   
       <li><a href="onderwerpen/privacy-en-gegevensbescherming/">Privacy en persoonsgegevens beschermen</a></li>
-      <li><a href="onderwerpen/publieke-inkoop/">Publieke inkoop van algoritmes</a></li>
+      <li><a href="onderwerpen/publieke-inkoop/">Inkoop van verantwoorde algoritmes</a></li>
     </ul>
     <a href="onderwerpen/" class="show-more"><b>Alle onderwerpen</b></a>
   </div>

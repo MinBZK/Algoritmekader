@@ -7,7 +7,7 @@ Standaarden zijn afspraken die worden vastgelegd om ervoor te zorgen dat product
 
 Standaarden zijn er op allerlei gebieden. Momenteel speelt de ontwikkeling van standaarden voor de Europese [AI-verordening](../ai-verordening.md) een belangrijke rol voor de betrouwbare ontwikkeling en gebruik van AI. Vandaar dat deze pagina focust op _standaarden voor AI_.
 
-Europese _geharmoniseerde standaarden_ zijn essentieel voor de AI Verordening, omdat ze juridische zekerheid verschaffen. Geharmoniseerde standaarden zijn er bijvoorbeeld al voor speelgoed, elektrische apparaten, medische hulpmiddelen, en straks dus ook voor hoog risico AI-systemen. Als het over standaarden voor de AI-verordening gaat, gaat het dus om _geharmoniseerde standaarden_.
+Europese _geharmoniseerde standaarden_ zijn essentieel voor de AI-Verordening, omdat ze juridische zekerheid verschaffen. Geharmoniseerde standaarden zijn er bijvoorbeeld al voor speelgoed, elektrische apparaten, medische hulpmiddelen, en straks dus ook voor hoog risico AI-systemen. Als het over standaarden voor de AI-verordening gaat, gaat het dus om _geharmoniseerde standaarden_.
 
 ## Waarom zijn standaarden belangrijk voor de AI-verordening?
 Wanneer AI-systemen worden ontworpen of gebruikt, bieden standaarden praktische richtlijnen en technische kaders (praktische meerwaarde) waarmee compliance aantoonbaar kan worden gemaakt (juridische meerwaarde).

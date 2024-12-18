@@ -41,11 +41,12 @@ Let op! Sommige maatregelen in het Algoritmekader gaan dieper in op het uitvoere
 ## Risico
 Risico's worden niet (tijdig) vastgesteld en adequaat geadresseerd en behandeld.  
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
@@ -54,6 +55,13 @@ Risico's worden niet (tijdig) vastgesteld en adequaat geadresseerd en behandeld.
 - Algoritmekader
 
 ## Voorbeeld
-<!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
+!!! example "Ministerie van Economische Zaken: Gids AI-verordening"
+
+    _Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._
+    Het ministerie van Economische Zaken (EZ) heeft een gids opgesteld voor de AI-verordening. Hierin worden vier stappen toegelicht: Risico, AI, Rol en Verplichtingen. Om een plan op te stellen moet er ook aan de verplichtingen voldaan worden, deze verplichtingen staan samengevat in deze gids vanaf pagina 11. Hier wordt dit voor zowel een aanbieder als gebruiksverantwoordelijke toegelicht.
+        
+    Bron: [Gids AI-verordening](https://www.rijksoverheid.nl/documenten/brochures/2024/10/16/gids-ai-verordening)
+    
+    Wil je meer hulp bij het vinden van de regels die specifiek voor jou gelden, gebruik dan ook de [Beslishulp AI-Verordening](https://ai-verordening-beslishulp.apps.digilab.network/).
 
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

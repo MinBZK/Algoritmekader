@@ -1,10 +1,10 @@
 ---
 title: Soorten algoritmes
-summary: Uitleg van de verschillende soorten algoritmes waar je mee kunt werken. En het risico en de impact hiervan.
+summary: Uitleg van de verschillende soorten algoritmes waar je mee kunt werken.
 ---
 
 # Soorten algoritmes
-Om te voldoen aan de vereisten, moet je weten met welk soort algoritme je werkt. Gaat het om simpele rekenregels of een AI-systeem? En wat voor impact hebben je algoritmes?
+Om te voldoen aan de vereisten, moet je weten met welk soort algoritme je werkt. Gaat het om simpele rekenregels of een AI-systeem?
 
 ## Wanneer is het een algoritme?
 Met een algoritme bedoelen we een set regels en instructies die een computer uitvoert, met 1 of meer van deze doelen:
@@ -53,27 +53,5 @@ Met een AI-systeem bedoelen we een systeem dat kunstmatig intelligent is volgens
 
     Twijfel je of je algoritme onderdeel is van een AI-systeem? Raadpleeg een expert. Of beschouw het systeem voor de zekerheid als een AI-systeem.
 
-## Risicogroepen AI-systemen
-AI-systemen vallen mogelijk onder een van de risicogroepen uit de AI-verordening:
-
-* [Risico op misleiding](../voldoen-aan-wetten-en-regels/ai-verordening.md#risico-op-misleiding)
-* [Hoog-risico-AI-systemen](../voldoen-aan-wetten-en-regels/ai-verordening.md#hoog-risico-ai-systemen)
-* [Verboden AI-systemen](../voldoen-aan-wetten-en-regels/ai-verordening.md#verboden-ai-systemen)
-
-Het hangt ervan af waarvoor je dit AI-systeem gebruikt.
-
-## Impact van algoritmes
-Impactvolle algoritmes moet je publiceren in het [Algoritmeregister](https://algoritmes.overheid.nl/nl). Dat moet in elk geval in deze situaties:
-
-* Je algoritme is **onderdeel van een hoog-risico-AI-systeem**. 
-* Je algoritme heeft **invloed op een proces met rechtsgevolgen voor burgers of organisaties**. Bijvoorbeeld het wel of niet krijgen van boetes of subsidies.
-* Je algoritme heeft **invloed op de manier waarop de overheid burgers of organisaties indeelt, of contact met hen zoekt**. Bijvoorbeeld bij het inschatten van risico’s of het signaleren van fraude.
-* Je **overheidsorganisatie vindt zelf dat het algoritme impact heeft op de maatschappij**. Bijvoorbeeld omdat het algoritme ingewikkeld is, veel data gebruikt, vaak in de media komt of onderzocht wordt door een toezichthouder.
-
-Een impactvol algoritme kan schade veroorzaken aan de maatschappij. Daarom zijn de regels strenger voor impactvolle dan voor niet-impactvolle algoritmes. 
-
-!!! tip "Tip"
-
-    Twijfel je of je algoritme impactvol is of niet? Beschouw het algoritme dan als impactvol.
-
-Meer uitleg en voorbeelden vind je in de [Handreiking Algoritmeregister](https://algoritmes.pleio.nl/wiki/view/19bb6e9e-7a97-43d5-bef3-b1d66e59f4ff/handreiking-algoritmeregister).
+## Help ons deze pagina te verbeteren
+Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/issues/new/choose) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

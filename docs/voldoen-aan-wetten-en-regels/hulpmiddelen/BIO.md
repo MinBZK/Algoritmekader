@@ -44,7 +44,7 @@ Iedere overheidsorganisatie is verplicht de BIO in te voeren. De BIO is in decem
 ## Auteur
 De interbestuurlijke werkgroep-BIO draagt zorg voor het onderhoud op de BIO. Onder het voorzitterschap van BZK zijn in de werkgroep de 4 overheidskoepels vertegenwoordigd: CIO Rijk, Vereniging Nederlandse Gemeenten, InterProvinciaal Overleg en Unie van Waterschappen. Verder bestaat de werkgroep uit een aantal grote uitvoeringsorganisaties, het Forum Standaardisatie, het Nationaal Cybersecurity Centrum en het Centrum voor Informatiebeveiliging & Privacybescherming. Besluitvorming over de BIO vindt plaats in het kern-IBO, waarin onder voorzitterschap van BZK vertegenwoordigers van de 4 overheidskoepels zitting hebben.
 
-## Bijbehorende vereisten
+## Bijbehorende vereisten { data-search-exclude }
 
 <!-- list_vereisten_on_maatregelen_page -->
 

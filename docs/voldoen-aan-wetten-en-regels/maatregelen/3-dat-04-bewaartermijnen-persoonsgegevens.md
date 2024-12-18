@@ -36,9 +36,9 @@ verwerkingsdoeleinden noodzakelijk is.
 - Controleer of deze maatregelen voor de bewaartermijnen en vernietiging van de (persoons)gegevens (in de onderliggende systemen) zijn getroffen en zorg dat dit aantoonbaar is, bijvoorbeeld met logbestanden.
 - Maak aantoonbaar dat persoonsgegevens zijn vernietigd, bijvoorbeeld met logbestanden.  
 
-## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+## Bijbehorende vereiste(n) { data-search-exclude }
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 
@@ -48,5 +48,14 @@ verwerkingsdoeleinden noodzakelijk is.
 
 ## Voorbeeld
 
-Heb jij een goed voorbeeld? Laat het ons weten!
+    !!! example "UWV: Klantapplicatie WW"
+
+        _Dit voorbeeld heeft een aantal aanpassingen nodig voordat deze in uw organisatie te gebruiken is._<br><br>
+        Het UWV heeft in haar privacy statement aangegeven dat zij zich houdt aan de richtlijnen van de Archiefwet voor het bewaren van persoonsgegevens. Hierin staat beschreven welke data bewaard/verwijderd moet worden en op welke termijn. Er staat hier ook een kopje over “Uitvoering Vernietiging” waarin uitgelegd staat dat een afdeling binnen het UWV de vernietiging uitvoert.<br>
+        Dit voorbeeld zou verder uitgebreid kunnen worden door de vernietigingsprocedure verder toe te lichten. Op dit moment wordt niet uitgelegd over hoe elektronische of fysieke data vernietigd wordt.<br><br>
+        Bron: [Selectielijst UWV - Nationaal Archief](https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-voor-het-uitvoeringsinstituut-werknemersverzekeringen-uwv-voor)
+
+
+
+
 

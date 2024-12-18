@@ -65,7 +65,7 @@ Dit onderzoekskader is erg overkoepelend (net als het [toetsingskader van de Alg
 ## Auteur
 Het Onderzoekskader Algoritmes is ontwikkeld door de Auditdienst Rijk  
 
-## Bijbehorende vereisten
+## Bijbehorende vereisten { data-search-exclude }
 
 <!-- list_vereisten_on_maatregelen_page -->
 

@@ -31,11 +31,26 @@ Grote datasets brengen daarom hoge energie- en opslagkosten met zich mee. Door d
 - **Verwijderen van redundante en dubbele data**: Deduplicatie van data minimaliseert onnodige verwerkingskracht. Door alleen unieke en relevante gegevens op te slaan, wordt de opslagbehoefte verder beperkt.
 - **Opschonen en archiveren van verouderde data**: [Regelmatige archivering](2-owp-08-archiveren-documenten.md) of verwijdering van verouderde data in je dataset zorgt voor een verminderde voetafdruk en verhoogt ook de efficiëntie.
 
-## Bijbehorende vereiste(n)
-<!-- list_vereisten_on_maatregelen_page -->
+## Bijbehorende vereiste(n) { data-search-exclude }
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Zonder dataminimalisatie loopt je organisatie het risico op onnodig hoge energie- en opslagkosten, en een grotere ecologische impact.
+
+## Voorbeeld
+!!! example "Basisregistratie Personen: Dataminimalisatie"
+
+    _Dit voorbeeld heeft een aantal aanpassingen nodig voordat deze in uw organisatie te gebruiken is._
+
+    De Basisregistratie Personen (BRP) heeft in 2023 een experiment uitgevoerd rondom dataminimalisatie. BRP-gegevens zoals naam en geslacht werden vertaald naar direct bruikbare informatie zoals aanschrijfnaam. Op deze manier werd informatie op een efficiëntere manier doorgegeven.
+    Het experiment van BRP is een indirecte vorm van energie-efficiëntie omdat er minder (onnodige) data verstrekt wordt aan de aanvrager. Hierdoor hoeft de aanvrager minder data op te slaan en te verwerken.
+
+        
+    Bron: [Experimentbesluit BRP dataminimalisatie]([https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-voor-het-uitvoeringsinstituut-werknemersverzekeringen-uwv-voor](https://www.internetconsultatie.nl/experimentbesluitbrp/b1))
+
+
+
 
 ## Bronnen
 - [Onderzoekskader Auditdienst Rijk, PRI.5](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)

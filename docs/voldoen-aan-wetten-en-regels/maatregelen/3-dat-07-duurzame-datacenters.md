@@ -38,11 +38,24 @@ Je kunt ook kijken of naast duurzame stroom ook restwarmte van servers wordt ben
 - **Koeling en energiebeheer optimaliseren**: Adiabatische koeling, waarbij water en lucht worden gebruikt in plaats van elektriciteit, verlaagt het energieverbruik. Efficiënte stroomverdeling en warmteterugwinning dragen verder bij aan een lagere ecologische voetafdruk.
 - **Monitoren**: Blijf controleren op duurzame prestaties door te letten op certificeringen, zoals [ISO 14001](https://www.nen.nl/milieu/milieumanagement), [ISO 50001](https://www.nen.nl/energie/energiemanagement) en [BREEAM](https://www.breeam.nl/certificeren-in-5-stappen), en vraag naar energierapportages en details over het energieverbruik en de herkomst van stroom. Dit helpt om claims van duurzaamheid te toetsen en te voorkomen dat je in greenwashing trapt.
 
-## Bijbehorende vereiste(n)
-<!-- list_vereisten_on_maatregelen_page -->
+## Bijbehorende vereiste(n) { data-search-exclude }
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Door geen gebruik te maken van duurzame datacenters, loop je het risico op een hogere CO₂-uitstoot, en wordt daardoor niet aangesloten bij Rijksbreed beleid. Ook loop je risico op hogere energiekosten.
+
+## Voorbeeld
+!!! example "Groep Gegevensbescherming: Artikel 20 (WP 216)"
+    _Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._
+
+    De Rijksdienst voor Ondernemend Nederland (RvO) heeft een jaarlijks verplichte rapportage van datacentra die meer dan 500 Kilowatt gebruiken. Hiervoor moeten de datacentra een vragenlijst invullen met onder andere informatie over hernieuwbare energie. Een soortgelijke vragenlijst kan ook naar partijen gestuurd worden waar mee samengewerkt wordt.
+    Dit voorbeeld valt onder een wettelijke verplichting en zal dus ook een groot aantal vragen bevatten die niet direct relevant zijn. Daarnaast staan hier geen voorbeelden in om direct een duurzaam datacentrum te vinden.
+    
+    Bron: [Rapportageplicht energie-efficiëntie datacentra](https://www.rvo.nl/onderwerpen/energiebesparingsplicht/eed-auditplicht/rapportageplicht-datacentra)
+    
+Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
+
 
 ## Bronnen
 - [Rijks ICT Dashboard - Duurzaamheid](https://www.rijksictdashboard.nl/duurzaamheid)

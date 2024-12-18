@@ -1,9 +1,10 @@
 --- 
-title: Implementatie
+title: Fase 6, implementatie
 hide:
 - toc
 ---
 
+# Fase 6: Implementatie
 In deze fase wordt het algoritme in de praktijk gebracht en duurzaam geïntegreerd in het bedrijfsproces. 
 In de praktijk worden veelal eerst een pilot uitgevoerd voor een afgebakende periode of over een beperkt aan zaken. 
 In deze situatie, een pilot, wordt tijdelijk productiedata verwerkt. 
@@ -19,11 +20,11 @@ Beslissingen en besluiten komen nu bijvoorbeeld mede of geheel door de werking v
 Waar passend, bijvoorbeeld bij impactvolle of hoog risico AI-systemen wordt dit duidelijk gecommuniceerd naar betrokken, voordat de oplossing volledig is geïmplementeerd.  
 
 
-## Vereisten
+## Vereisten { data-search-exclude }
 
 <!-- list_vereisten levenscyclus/implementatie no-rol no-levenscyclus no-search no-onderwerp -->
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen levenscyclus/implementatie no-rol no-levenscyclus no-search no-onderwerp  -->
 

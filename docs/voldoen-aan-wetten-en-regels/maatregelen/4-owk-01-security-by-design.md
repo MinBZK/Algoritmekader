@@ -35,9 +35,9 @@ Security by design benadrukt het belang van het in een vroeg stadium integreren 
 Wanneer tijdens het ontwerp en de inrichting van het algoritmisch systeem niet voldoende rekening wordt gehouden met vastgestelde security-by-design principes kan dit leiden tot een onvoldoende veilige (software-)omgeving. Dit kan tot gevolg hebben: oneigenlijke toegang, wijzigingen of vernietigingen van het algoritme, de data of uitkomsten van het algoritme.
 
 
-## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+## Bijbehorende vereiste(n) { data-search-exclude }
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 

@@ -39,7 +39,7 @@ Door de combinatie van technische en niet-technische benaderingen bevordert het 
 ## Auteurs en Ontwikkeling
 Het Fairness Handbook is ontwikkeld in 2022 door de Gemeente Amsterdam, met als doel de eerlijkheid en transparantie van haar AI-systemen te verbeteren. Het project is tot stand gekomen in samenwerking met diverse stakeholders, waaronder datawetenschappers, ethici en [beleidsmakers](../../rollen/beleid-en-advies.md), om ervoor te zorgen dat het handboek aansluit bij de bredere maatschappelijke behoeften en regelgeving. Door deze samenwerking biedt het Fairness Handbook een gebalanceerd perspectief, met aandacht voor zowel technische oplossingen als ethische en [juridische](../../rollen/jurist.md) overwegingen die nodig zijn voor verantwoorde AI-toepassingen.
 
-## Bijbehorende vereisten
+## Bijbehorende vereisten { data-search-exclude }
 
 <!-- list_vereisten_on_maatregelen_page -->
 

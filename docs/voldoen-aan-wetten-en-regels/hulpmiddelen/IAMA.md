@@ -43,7 +43,7 @@ Daarbij is het IAMA een van de weinige instrumenten in de EU die een interdiscip
 ## Auteur
 Het IAMA is ontwikkeld door de [Utrecht Data School](https://dataschool.nl/iama/). De auteurs van het IAMA zijn prof. mr. Janneke Gerards, dr. Mirko Tobias Schäfer, Arthur Vankan en Iris Muis, allen werkzaam aan de Universiteit Utrecht. Opdrachtgever voor de ontwikkeling is het Ministerie van Binnenlandse Zaken.
 
-## Bijbehorende vereisten
+## Bijbehorende vereisten { data-search-exclude }
 
 <!-- list_vereisten_on_maatregelen_page -->
 

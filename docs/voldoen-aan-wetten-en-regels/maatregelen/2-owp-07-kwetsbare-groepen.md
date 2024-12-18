@@ -36,9 +36,9 @@ Bepaal vervolgens of er groepen zijn waarbij de impact van het algoritme dermate
 - De impact van het algoritme op de groepen die geïdentificeerd worden in deze stap, kunnen mogelijk onderzocht worden in een [biasanalyse](5-ver-02-biasanalyse.md). Daarbij kan geidentificeerd worden of bepaalde groepen oververtegenwoordigd of ondervertegenwoordigd zijn in selecties, of dat het algoritme andere of meer fouten maakt voor bepaalde groepen. 
 - Merk op dat het onmogelijk is om de risico's voor alle specifieke groepen af te vangen. Hierbij kan het helpen om te focussen op de meest kwetsbare groepen. 
 
-## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+## Bijbehorende vereiste(n) { data-search-exclude }
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 De impact van het algoritme op de besluitvorming en op personen, doelgroepen en/of de samenleving is niet inzichtelijk, waardoor onvoldoende maatregelen zijn getroffen om ongewenste effecten (zoals bias en discriminatie) te voorkomen. 

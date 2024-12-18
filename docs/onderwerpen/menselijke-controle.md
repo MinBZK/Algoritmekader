@@ -49,7 +49,7 @@ Tijdens het gebruik kun je menselijke controle op de volgende manieren uitoefene
 ### Feedback
 Na het bepalen van de manier van controleren, bepaal je de manier waarop je feedback krijgt over het algoritme: Wat voor soort informatie moet bij wie terechtkomen? Aan wie moet een gebruiker bijvoorbeeld rapporteren dat het AI-systeem niet meer goed werkt?
 
-## Vereisten
+## Vereisten { data-search-exclude }
 
 <!-- list_vereisten onderwerp/menselijke-controle no-search no-onderwerp no-rol no-levenscyclus -->
 

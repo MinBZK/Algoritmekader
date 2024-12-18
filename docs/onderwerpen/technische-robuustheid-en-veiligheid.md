@@ -95,7 +95,7 @@ Begin zo vroeg mogelijk met beveiligen. Beveilig in elk geval in de fases [ontwi
 ## Verklein de kans op schade
 Veroorzaak zo min mogelijk schade als het toch fout gaat. En maak een noodplan voor incidenten. Het doel van dit plan is ervoor zorgen dat de fout zo min mogelijk gevolgen heeft voor de organisatie en de maatschappij. In het plan staat bijvoorbeeld wie wat moet doen als het systeem uitvalt.
 
-## Vereisten
+## Vereisten { data-search-exclude }
 
 <!-- list_vereisten onderwerp/technische-robuustheid-en-veiligheid no-search no-onderwerp no-rol no-levenscyclus -->
 

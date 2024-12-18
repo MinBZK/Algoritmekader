@@ -25,7 +25,7 @@ Belangrijke grondrechten die vaak worden geraakt door algoritmen zijn bijvoorbee
 Als overheid moet je hier goed op letten. Doe dit zo vroeg mogelijk in de [levenscyclus](../levenscyclus/index.md). De maatregelen die we adviseren, beginnen al bij het ontwerpen en trainen van algoritmes.
 
 
-## Vereisten
+## Vereisten { data-search-exclude }
 
 <!-- list_vereisten onderwerp/fundamentele-rechten no-search no-onderwerp no-rol no-levenscyclus -->
 

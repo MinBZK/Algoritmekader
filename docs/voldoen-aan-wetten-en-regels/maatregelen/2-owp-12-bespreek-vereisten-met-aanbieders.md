@@ -99,11 +99,12 @@ Hiervoor is het van belang om te bepalen om wat voor [type algoritme het gaat en
 
 Op basis van nieuwe of gewijzigde wet- en regelgeving of de totstandkoming van nieuwe standaard, is het denkbaar dat aanbieders van algoritmes nog niet of niet meer voldoet aan deze vereisten. Het is van belang om deze inzichten bijvoorbeeld tijdens een aanbesteding worden verkregen. Indien van toepassing, laat de aanbieder inzichtelijk maken welke stappen deze gaat zetten om hieraan te gaan voldoen. Dit is ook relevant bij reeds afgesloten contracten.
 
-## Bijbehorende vereiste(n)
+## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->

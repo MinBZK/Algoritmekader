@@ -1,5 +1,5 @@
 ---
-title: Persoonsgegevens en andere data verwerken gebeurt proportioneel en subsidiair
+title: Persoonsgegevens en andere data verwerken gebeurt proportioneel en subsidiair.
 id: urn:nl:ak:ver:avg-04
 toelichting: Gegevensverwerking moet in verhouding staan tot het beoogde doel en persoonsgegevens mogen alleen verwerkt worden als er geen minder ingrijpende manier is om het doel te bereiken. Voor zover het gaat om de verwerking van persoonsgegevens moet dit vereiste aantoonbaar zijn. 
 levenscyclus: 
@@ -18,15 +18,20 @@ hide:
 <!-- tags -->
 
 ## Vereiste
+Persoonsgegevens en andere data verwerken gebeurt proportioneel en subsidiair.
 
-Gegevensverwerking moet in verhouding staan tot het beoogde doel en persoonsgegevens mogen alleen verwerkt worden als er geen minder ingrijpende manier is om het doel te bereiken. Voor zover het gaat om de verwerking van persoonsgegevens moet dit vereiste aantoonbaar zijn. 
+
 
 ## Toelichting 
+Gegevensverwerking moet in verhouding staan tot het beoogde doel en persoonsgegevens mogen alleen verwerkt worden als er geen minder ingrijpende manier is om het doel te bereiken. Voor zover het gaat om de verwerking van persoonsgegevens moet dit vereiste aantoonbaar zijn. 
 
 Proportionaliteit vereist dat de impact van gegevensverwerking op de persoonlijke levenssfeer voor de toepassing van een algoritme en voor het genereren van de benodigde output in balans is met het beoogde doel.
-Subsidiariteit vereist dat persoonsgegevens alleen moeten worden verwerkt als dit de minst inbreukmakende manier is om het doel te bereiken. 
+
+Subsidiariteit vereist dat persoonsgegevens alleen moeten worden verwerkt als dit de minst inbreukmakende manier is om het doel te bereiken.
+
 Deze principes waarborgen dat de privacy van individuen wordt gerespecteerd en dat gegevensverwerking niet verder gaat dan noodzakelijk is voor legitieme doeleinden.
-Het is van belang om deze principes te hanteren om te bepalen of en in welke vorm een algoritmes moet worden toegepast en om tot een passende mate van gegevensverwerking te komen om het doel te bereiken.
+
+Het is van belang om deze principes te hanteren om te bepalen of en in [welke vorm een algoritmes](../maatregelen/1-pba-03-onderbouwen-gebruik-algoritme) moet worden toegepast en om tot een passende mate van gegevensverwerking te komen om het [doel](../maatregelen/1-pba-02-formuleren-doelstelling.md) te bereiken.
 
 ## Bronnen 
 
@@ -46,6 +51,6 @@ Het is van belang om deze principes te hanteren om te bepalen of en in welke vor
 
 Zonder toetsing aan het proportinaliteits- en subsidiariteitsbeginsel ontstaat het risico dat er een onnodig zware en daardoor onrechtmatige inbreuk wordt gemaakt op de privacyrechten van betrokkenen.
 
-## Maatregelen 
+## Maatregelen { data-search-exclude } 
 
 <!-- list_maatregelen vereiste/avg-04-proportionaliteit-en-subsidiariteit no-search no-onderwerp no-rol no-levenscyclus -->

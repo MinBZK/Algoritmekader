@@ -39,8 +39,9 @@ Energiezuinig programmeren maakt het mogelijk om de voetafdruk van algoritmes te
 5. **Geoptimaliseerd geheugenbeheer**  
    Door efficiënt geheugenbeheer, zoals caching en lazy loading, voorkom je onnodige data-opslag en bewerkingen. Dit verlaagt de energievraag en verbetert de snelheid van het algoritme aanzienlijk.
 
-## Bijbehorende vereiste(n)
-<!-- list_vereisten_on_maatregelen_page -->
+## Bijbehorende vereiste(n) { data-search-exclude }
+??? expander "Bekijk alle vereisten"
+   <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Zonder energie-efficiënte methoden kan het algoritme onnodig veel energie verbruiken, wat leidt tot hogere operationele kosten en een grotere milieu-impact.

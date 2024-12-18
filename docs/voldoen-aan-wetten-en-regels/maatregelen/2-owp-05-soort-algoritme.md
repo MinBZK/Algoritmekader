@@ -35,19 +35,26 @@ Stel vast om wat voor type algoritme het gaat en wat de bijbehorende risicoclass
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
 Het verschilt per type algoritme welke vereisten hierop van toepassing is en waar een aanbieder of gebruiksverantwoordelijke aan moet voldoen. 
-Dit is mede afhankelijk van de bijbehorende risicoclassificatie. 
-Hiervoor kan in de nabije toekomst de 'beslisboom' in het Algoritmekader voor worden gebruikt'. 
-Deze stap is van groot belang, omdat dit ook bepalend is welke contractuele verplichtingen moeten worden gecreëerd tussen opdrachtgever en opdrachtnemer/aanbieder. 
 
-## Bijbehorende vereiste(n)
+Dit is mede afhankelijk van de bijbehorende risicoclassificatie. 
+
+Hiervoor kan de [beslishulp](https://ai-verordening-beslishulp.apps.digilab.network/) in het Algoritmekader voor worden gebruikt'. 
+
+Let op dat niet enkel naar de AI-verordening wordt gekeken. Ook op impactvolle algoritmes die niet vallen onder het bereik van de AI-Verordening zijn vereisten van toepassing. Zie hiervoor de Handreiking Algoritmeregister. 
+
+Deze stap is van groot belang, omdat dit bijvoorbeeld voor ontwikkelteams mede bepalend is waar het te ontwikkelen systeem aan moet voldoen of welke contractuele verplichtingen moeten worden gecreëerd tussen opdrachtgever en aanbieder van algoritmes.
+
+## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
-Algoritmekader
+[Beslishulp](https://ai-verordening-beslishulp.apps.digilab.network/)
+[Handreiking Algoritmeregister](https://www.digitaleoverheid.nl/document/handreiking-algoritmeregister/)
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->

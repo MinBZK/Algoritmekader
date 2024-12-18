@@ -67,7 +67,7 @@ De ALTAI biedt houvast bij het evalueren van in hoeverre een betreffend AI-syste
 ## Auteur
 De ALTAI is ontwikkeld door de High-Level Expert Group on Artificial Intelligence van de Europese Commissie. 
 
-## Bijbehorende vereisten
+## Bijbehorende vereisten { data-search-exclude }
 
 <!-- list_vereisten_on_maatregelen_page -->
 

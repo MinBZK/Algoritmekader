@@ -36,9 +36,9 @@ Publiceer het algoritme  in het [Nederlandse Algoritmeregister](../hulpmiddelen/
 - Sommige overheidsorganisaties publiceren hun algoritmes ook in een eigen Algoritmeregister, zodat burgers dit makkelijker kunnen vinden. Bijvoorbeeld het [Algoritmeregister van de Gemeente Rotterdam](https://algoritmeregister.rotterdam.nl/p/Onzealgoritmes), het [Algoritmeregister van de Gemeente Amsterdam](https://algoritmeregister.amsterdam.nl/) of het [Algoritmeregister van het UWV](https://www.uwv.nl/nl/over-uwv/organisatie/algoritmeregister-uwv). 
 - Zorg na publicatie dat de informatie in het Algoritmeregister up-to-date blijft en indien nodig regelmatig wordt aangepast. 
 
-## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+## Bijbehorende vereiste(n) { data-search-exclude }
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Betrokkenen zijn niet op de hoogte dat hun persoonsgegevens worden verwerkt met een algoritme, waardoor zij hier geen controle over hebben. 

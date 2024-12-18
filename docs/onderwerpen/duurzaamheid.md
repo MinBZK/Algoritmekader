@@ -26,12 +26,12 @@ Om bij te dragen aan deze doelen, kies je bijvoorbeeld voor:
 Algoritmes kunnen veel impact hebben op het milieu. De rekenkracht die algoritmes nodig hebben op computers kost elektriciteit. En de datacenters die nodig zijn voor het opslaan van data, verbruiken veel energie, water en grondstoffen.
 Vooral complexe AI-systemen zoals Large Language Models (LLM’s) verbruiken veel energie door training en gebruik en door opslag van grote datasets in datacenters. 
 
-## Vereisten
+## Vereisten { data-search-exclude }
 
 <!-- list_vereisten onderwerp/duurzaamheid no-search no-onderwerp no-rol no-levenscyclus -->
 
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen onderwerp/duurzaamheid no-search no-onderwerp no-rol no-levenscyclus -->
 

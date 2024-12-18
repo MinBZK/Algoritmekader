@@ -1,7 +1,7 @@
 ---
-title: Werknemers weten dat hun organisatie een hoog-risico AI-systeem gebruikt
+title: Werknemers weten dat hun organisatie een hoog-risico AI-systeem gebruikt.
 id: urn:nl:ak:ver:aia-24
-toelichting: Voordat een AI-systeem met een hoog risico op de werkplek in gebruik wordt gesteld of wordt gebruikt, delen gebruiksverantwoordelijken die werkgever zijn werknemersvertegenwoordigers en de betrokken werknemers mee dat zij zullen worden onderworpen aan het gebruik van het AI-systeem met een hoog risico. Deze informatie wordt, indien van toepassing, verstrekt in overeenstemming met de in het Unie- en nationaal recht vastgelegde regels en procedures en de praktijk inzake informatie van werknemers en hun vertegenwoordigers.
+toelichting: Voordat een AI-systeem met een hoog risico op de werkplek in gebruik wordt gesteld of wordt gebruikt, delen gebruiksverantwoordelijken die werkgever zijn werknemersvertegenwoordigers en de betrokken werknemers mee dat zij zullen worden onderworpen aan het gebruik van het AI-systeem met een hoog risico.
 levenscyclus:
 - implementatie
 onderwerp:
@@ -22,13 +22,16 @@ hide:
 <!-- tags -->
 ## Vereiste
 
-Voordat een AI-systeem met een hoog risico op de werkplek in gebruik wordt gesteld of wordt gebruikt, delen gebruiksverantwoordelijken die werkgever zijn werknemersvertegenwoordigers en de betrokken werknemers mee dat zij zullen worden onderworpen aan het gebruik van het AI-systeem met een hoog risico.
-Deze informatie wordt, indien van toepassing, verstrekt in overeenstemming met de in het Unie- en nationaal recht vastgelegde regels en procedures en de praktijk inzake informatie van werknemers en hun vertegenwoordigers.
+Werknemers weten dat hun organisatie een hoog-risico AI-systeem gebruikt.
 
 ## Toelichting
 
+Voordat een AI-systeem met een hoog risico op de werkplek in gebruik wordt gesteld of wordt gebruikt, delen gebruiksverantwoordelijken die werkgever zijn werknemersvertegenwoordigers en de betrokken werknemers mee dat zij zullen worden onderworpen aan het gebruik van het AI-systeem met een hoog risico.
+
+Deze informatie wordt, indien van toepassing, verstrekt in overeenstemming met de in het Unie- en nationaal recht vastgelegde regels en procedures en de praktijk inzake informatie van werknemers en hun vertegenwoordigers.
+
 Dit vereiste benadrukt het belang van het informeren van werknemersvertegenwoordigers en betrokken werknemers over de inzet van een hoog risico AI-systeem op de werkplaats.
-Dit dient voorafgaand aan de inzet van het systeem plaats te vinden.
+
 De gebruiksverantwoordelijke als werknemer dient hier zorg voor te dragen.
 
 ## Bronnen
@@ -37,12 +40,11 @@ De gebruiksverantwoordelijke als werknemer dient hier zorg voor te dragen.
 ## Wanneer van toepassing? 
 <!-- tags-ai-act -->
 
-
 ## Risico
 
 Als werknemersvertegenwoordigers en werknemers niet worden geïnformeerd over de inzet van een hoog risico AI-systeem, kunnen zij zich niet weren tegen mogelijk ongewenste en negatieve effecten van de inzet van het hoog risico AI-systeem.
 
 
-## Maatregelen
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/aia-24-informeren-werknemers no-search no-onderwerp no-rol no-levenscyclus -->

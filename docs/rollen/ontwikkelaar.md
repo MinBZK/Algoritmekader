@@ -6,20 +6,21 @@ hide:
 ---
 
 # Ontwikkelaar
-De Ontwikkelaar omvat alle technische expertise. Dit zijn professionals die zich bezighouden met het analyseren, ontwikkelen, en implementeren van algoritmes en modellen. Dit zijn de specialisten die zorgen voor de technische kant van de algoritmeontwikkeling, inclusief programmeren, opschonen van data, data-analyse en het ontwerpen van informatieprocessen.
+Ontwikkelaars zijn de technische experts die ervoor zorgen dat algoritmes voldoen aan technische en ethische standaarden. Zij passen methodes toe om te waarborgen dat ai-modellen duurzaam, eerlijk en transparant zijn. Vaak zijn zij verantwoordelijk voor het testen en optimaliseren van algoritmes en voor het implementeren van maatregelen om privacy en persoonsgegevens te beschermen.
 
-## Relevantie
-Mensen met technische expertise spelen een cruciale rol bij het verantwoord ontwerpen en ontwikkelen van algoritmes. Zij zorgen ervoor dat algoritmes voldoen aan technische en ethische standaarden, en passen methodes toe om de duurzaamheid, eerlijkheid en transparantie van modellen te waarborgen. Technische experts zijn vaak ook verantwoordelijk voor het testen en optimaliseren van de algoritmes, en voor het implementeren van maatregelen om privacy en gegevensbescherming te waarborgen. In het Algoritmekader zijn er tal van vereisten, maatregelen en hulpmiddelen die specifiek relevant zijn voor technische experts.
+## Belangrijke taken van een ontwikkelaar
 
-## Bijbehorende functies
+* analyseert, ontwikkelt en implementeert algoritmes en ai-modellen
+* verzorgt de technische kant van de algoritmeontwikkeling, inclusief programmeren, opschonen van data, data-analyse en het ontwerpen van informatieprocessen
 
--	Data-analist
--	Data-scientist
--	Data-engineer
--	Developer
--	Informatieanalist
--	Softwareontwikkelaar
+## Ontwikkelaars zijn bijvoorbeeld
 
+* Data-analist
+* Data-scientist
+* Data-engineer
+* Developer
+* Informatieanalist
+* Softwareontwikkelaar
 
 ## Vereisten { data-search-exclude }
 
@@ -29,3 +30,5 @@ Mensen met technische expertise spelen een cruciale rol bij het verantwoord ontw
 
 <!-- list_maatregelen rollen/ontwikkelaar no-rol no-levenscyclus no-search no-onderwerp -->
 
+## Help ons deze pagina te verbeteren
+Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/issues/new/choose) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

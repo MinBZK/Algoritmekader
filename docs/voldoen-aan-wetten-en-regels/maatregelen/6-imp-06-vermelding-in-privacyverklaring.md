@@ -61,6 +61,12 @@ Betrokkenen zijn niet op de hoogte dat hun persoonsgegevens worden verwerkt met 
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 3.12](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) 
 
 ## Voorbeeld
+!!! example "UWV: Privacy Verklaring"
 
-Heb jij een goed voorbeeld? Laat het ons weten!
+  _Dit voorbeeld kan zonder veel aanpassingen in uw organisatie gebruikt worden._
+  In de algemene privacy verklaring van het UWV staat per situatie wat voor persoonsgegevens kunnen worden verwerkt. Daarnaast staat in heldere taal uitgelegd waarvoor de verwerking van persoons gegevens, binnen UWV in het algemeen, nodig is. Daarnaast is er een los kopje waarin “Geautomatiseerd nemen van besluiten en profilering” toegelicht wordt.
 
+  
+  Bron: [Privacyverklaring UWV]([https://www.ncsc.nl/documenten/publicaties/2019/mei/01/beleids--en-beheersingsrichtlijnen-voor-de-ontwikkeling-van-veilige-software](https://www.uwv.nl/nl/privacy/privacyverklaring))
+
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

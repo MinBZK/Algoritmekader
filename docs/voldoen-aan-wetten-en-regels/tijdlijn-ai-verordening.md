@@ -23,7 +23,7 @@ Als je aanbieder bent van een AI-model voor algemene doeleinden, moet je vóór 
 * [aia-32 AI-modellen voor algemene doeleinden met systeemrisico’s zijn voldoende beveiligd tegen cyberaanvallen](vereisten/aia-32-ai-modellen-algemene-doeleinden-systeemrisico-cyberbeveiliging.md)
 
 ## 2 augustus 2026: Nieuwe hoog-risico-AI-systemen voldoen aan vereisten
-Als je aanbieder en/of gebruiksverantwoordelijke bent van een hoog-risico-AI-systeem dat nog niet in gebruik is, moet je vóór 2 augustus 2026 voldoen aan de volgende vereisten uit de AI-verordening:
+Als je aanbieder en/of gebruiksverantwoordelijke bent van een hoog-risico-AI-systeem dat op de markt komt op of na 2 augustus 2026, moet je vóór 2 augustus 2026 voldoen aan de volgende vereisten uit de AI-verordening:
 
 ### Aanbieder
 

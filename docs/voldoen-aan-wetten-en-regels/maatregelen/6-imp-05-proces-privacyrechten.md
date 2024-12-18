@@ -44,7 +44,7 @@ Betrokkenen hebben geen controle over hun persoonsgegevens doordat ze geen beroe
 [Onderzoekskader Algoritmes Auditdienst Rijk, PRI.9](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) 
 
 ## Voorbeeld
-<!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
+
 !!! example "Ministerie van Algemene Zaken: Privacy verzoek"
 
   _Dit voorbeeld kan zonder veel aanpassingen in uw organisatie gebruikt worden._

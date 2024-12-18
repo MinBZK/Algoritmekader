@@ -15,26 +15,26 @@ hide:
 
     ---
 
-    Dit is degene die gaat over wat wenselijk is en adviseert bij de ontwikkeling en/of inzet van een algoritme. Hierbij horen rollen zoals de beleidsmedewerker, ethicus, CIO-adviseur, architect.
+    Professionals zorgen ervoor dat de organisatie algoritmes verantwoord en volgens de beleidsdoelen ontwikkelt en inzet. Bijvoorbeeld een beleidsmedewerker, ethicus, CIO-adviseur of architect.
 
 
 -   [__Jurist__](jurist.md)
     
     ---
 
-    Hier komt een tekstje.
+    Juristen zorgen ervoor dat de organisatie bij het ontwikkelen en gebruiken van algoritmes voldoet aan de wettelijke verplichtingen en beginselen van behoorlijk bestuur. Bijvoorbeeld een privacy-jurist, compliance-officer of functionaris gegevensbescherming (FG). 
 
 -   [__Ontwikkelaar__](ontwikkelaar.md)
 
     ---
 
-    De Ontwikkelaar omvat alle technische expertise.
+    Ontwikkelaars zijn technische experts die ervoor zorgen dat algoritmes voldoen aan technische en ethische standaarden. Bijvoorbeeld een data-scientist, developer of informatieanalist.
 
 -   [__Projectleider__](projectleider.md)
 
     ---
 
-    De projectleider richt zich op het coördineren en aansturen van alle betrokken partijen en processen bij de ontwikkeling van algoritmes.
+    Projectleider verbinden de benodigde expertises en waarborgen alle stappen van het ontwikkelproces. Bijvoorbeeld een product-owner, proceseigenaar of IT-projectmanager.
 
 
 </div>

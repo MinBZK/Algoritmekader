@@ -36,15 +36,17 @@ Richt algoritmegovernance in op basis van de risicoclassificatie van algoritmes.
 ## Voorbeelden
 
 !!! example "Ministerie van Economische Zaken: Gids AI-verordening"
+
     _Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._
     Het ministerie van Economische Zaken (EZ) heeft een gids opgesteld voor de AI-verordening. Hierin worden vier stappen toegelicht: Risico, AI, Rol en Verplichtingen. Om te identificeren welke AI-systemen of algoritmes hoog-risico zijn is het aan te raden om deze gids te bekijken. Meer informatie over de AI-verordening is ook te vinden op ["AI-verordening in het kort"](../voldoen-aan-wetten-en-regels/ai-verordening.md)
         
     Bron: [Gids AI-verordening](https://www.rijksoverheid.nl/documenten/brochures/2024/10/16/gids-ai-verordening)
 
 
-!!! example "Gemeente Rotterdam: Processchema governance"
-    _Dit voorbeeld heeft een aantal aanpassingen nodig voordat deze in uw organisatie te gebruiken is._
 
+!!! example "Gemeente Rotterdam: Processchema governance"
+
+    _Dit voorbeeld heeft een aantal aanpassingen nodig voordat deze in uw organisatie te gebruiken is._
     Hieronder staat een schematische weergave van hoe de gemeente Rotterdam algoritme governance toe past. Zij kiezen ervoor om dit alleen toe te passen op hoog-risico AI volgens de definitie van de AI-Verordening. Voor laag-risico toepassingen gebruiken ze hun standaard governance protocol (1). 
     Ongeacht het risico wordt er ook een drietal vragen gesteld voor **ieder** algoritme voor mogelijk uitgebreidere algoritme governance.
     * Is de werking van het algoritme niet volledig én beknopt uit te leggen aan een gemiddelde Rotterdammer? 
@@ -56,7 +58,9 @@ Richt algoritmegovernance in op basis van de risicoclassificatie van algoritmes.
     Bron: [kleur bekennen - Rekenkamer Rotterdam (Pagina 72)](https://rekenkamer.rotterdam.nl/onderzoeken/kleur-bekennen/)
 
 
+
 !!! example "Belastingdienst: Basis governance"
+
     _Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._
     De belastingdienst heeft verschillende algoritmes en heeft hier governance voor. Zij geven aan eerst een basis algoritme governance in te richten (bijvoorbeeld voor low-risk). Zodra deze op operationeel niveau is kan deze worden geïmplementeerd en tijdens de implementatie kan deze bijgesteld worden. 
         

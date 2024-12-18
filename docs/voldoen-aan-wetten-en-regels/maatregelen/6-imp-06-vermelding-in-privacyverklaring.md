@@ -61,6 +61,7 @@ Betrokkenen zijn niet op de hoogte dat hun persoonsgegevens worden verwerkt met 
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 3.12](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) 
 
 ## Voorbeeld
+
 !!! example "UWV: Privacy Verklaring"
 
   _Dit voorbeeld kan zonder veel aanpassingen in uw organisatie gebruikt worden._

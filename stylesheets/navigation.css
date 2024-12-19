@@ -24,6 +24,10 @@ body {
   text-decoration:none;
   color: #FFFFFF;
   opacity: 100%;
+  display: block;      /* Maakt de <a> een blok-element */
+  width: 100%;         /* Vul de volledige breedte van de <li> */
+  height: 100%;        /* Vul de volledige hoogte van de <li> */
+  text-align: center;  /* Optioneel, zorgt dat tekst gecentreerd blijft */
 }
 
 /* Header Styling */
@@ -151,7 +155,7 @@ h1{
   }
 }
 
-.md-source__repository md-source__repository--active{
+.md-source__repository .md-source__repository--active{
   color: #154273;
 }
 

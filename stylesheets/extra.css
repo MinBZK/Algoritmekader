@@ -60,6 +60,11 @@ table {
   box-shadow:none;
 }
 
+.md-typeset__table {
+color: #154271;
+}
+
+
 th {
   background-color: #F1F5F9; /* Achtergrondkleur van de tabelkop */
   color: #475569; /* Kleur van de tabelkoptekst */
@@ -158,6 +163,7 @@ tbody tr td a:hover {
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Responsive columns */
   gap: 16px; /* Space between the boxes */
   padding-bottom: 32px;
+  padding-top: 16px;
 }
 
 .float-container h2 {
@@ -365,7 +371,7 @@ padding-bottom: 8px;
   display: flex;
   flex-direction: row;
   align-items: center;
-  margin-bottom: 24px;
+  margin-bottom: 12px;
   text-align: left;
 }
 
@@ -438,7 +444,7 @@ padding-bottom: 8px;
 }
 
 .md-typeset h1{
-  margin: 1em 0 .4em 0;
+  margin: 0.6em 0 .4em 0;
   font-size: 2.8em;
   font-weight: 600;
   line-height: 1em;
@@ -495,7 +501,7 @@ a{
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
-  border-radius: 0.5em;
+  border-radius: 0.3em;
   border: 1px solid #ccc;
   display: inline-block; /* Avoid full width */
   width: fit-content;
@@ -505,7 +511,7 @@ a{
   margin: 0 0.5em 0.5em 0;
   -webkit-transition: color 150ms ease-in-out;
   transition: color 150ms ease-in-out;
-  padding: 1em 1.2em 1em 1.2em;
+  padding: 1em 1em .8em 1.2em;
   position: relative;
   text-align: center;
   text-shadow: none;
@@ -610,5 +616,57 @@ background-color: #B2D7EE;
   background-color: #01689B;
   color: #FFFFFF;
   border-color: #01689B;
+  text-decoration: none;
+}
+
+.md-typeset .md-button--secondary {
+  background-color: #ffffff;
+  color: #154271;
+  border: 1px solid #154271;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 700;
+  transition: color 150ms ease-in-out, box-shadow 150ms ease-in-out;
+
+}
+
+.md-typeset .md-button--secondary:hover {
+  color: #154271;
+  box-shadow: 0 0 8px 2px rgba(21, 66, 113, 0.6); /* Glow effect */
+}
+
+:root {
+  --md-admonition-icon--expander: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M8 13.1l-6-6 1.5-1.5 4.5 4.5 4.5-4.5 1.5 1.5z'/%3E%3C/svg%3E");}
+
+.md-typeset .admonition.expander,
+.md-typeset details.expander {
+  border-color: rgb(43, 155, 70, 0);
+}
+.md-typeset .expander > .admonition-title,
+.md-typeset .expander > summary {
+  background-color: rgba(43, 155, 70, 0);
+  font-size: 1.1em; /* Adjust font size */
+  color: #154271; /* Change text color */
+  font-weight: 400;
+  padding-top: 8px;
+  text-decoration: underline;
+}
+.md-typeset .expander > .admonition-title::before,
+.md-typeset .expander > summary::before {
+  background-color: #154271;
+  -webkit-mask-image: var(--md-admonition-icon--expander);
+          mask-image: var(--md-admonition-icon--expander);
+  margin-top: 0;
+  margin-left: -3px;
+  width: 16px;
+  height: 16px;
+}
+
+.md-typeset .expander > .admonition-title::before,
+.md-typeset .expander > summary::after {
+  display:none;
+}
+
+.md-header__source a{
   text-decoration: none;
 }

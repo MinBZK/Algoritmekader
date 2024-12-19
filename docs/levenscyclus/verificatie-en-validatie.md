@@ -27,7 +27,7 @@ Een andere conclusie kan zijn dat het presteert conform verwachting en naar de i
 
 <!-- list_vereisten levenscyclus/verificatie-en-validatie no-rol no-levenscyclus no-search no-onderwerp -->
 
-## Maatregelen { data-search-exclude }
+## Aanbevolen maatregelen { data-search-exclude }
 
 <!-- list_maatregelen levenscyclus/verificatie-en-validatie no-rol no-levenscyclus no-search no-onderwerp -->
 

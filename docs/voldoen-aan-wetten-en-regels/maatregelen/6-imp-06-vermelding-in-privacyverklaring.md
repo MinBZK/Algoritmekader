@@ -62,5 +62,12 @@ Betrokkenen zijn niet op de hoogte dat hun persoonsgegevens worden verwerkt met 
 
 ## Voorbeeld
 
-Heb jij een goed voorbeeld? Laat het ons weten!
+!!! example "UWV: Privacyverklaring"
+<!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
+	_Dit voorbeeld kan zonder veel aanpassingen in uw organisatie gebruikt worden._
+	
+	In de algemene privacyverklaring van het UWV staat per situatie wat voor persoonsgegevens kunnen worden verwerkt. Daarnaast staat in heldere taal uitgelegd waarvoor de verwerking van persoonsgegevens binnen UWV in het algemeen nodig is. Daarnaast wordt het “Geautomatiseerd nemen van besluiten en profilering” toegelicht.
+	
+	Bron: [Privacyverklaring UWV](https://www.uwv.nl/nl/privacy/privacyverklaring)
 
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

@@ -24,7 +24,7 @@ maatregel:
 
 <!-- tags -->
 
-[Direct naar de Handreiking non-discriminatie by design](https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design){ .md-button }
+[Direct naar de Handreiking non-discriminatie by design](https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design){ .button .md-button--secondary }
 
 ## Hulpmiddel
 

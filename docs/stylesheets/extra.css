@@ -60,6 +60,11 @@ table {
   box-shadow:none;
 }
 
+.md-typeset__table {
+color: #154271;
+}
+
+
 th {
   background-color: #F1F5F9; /* Achtergrondkleur van de tabelkop */
   color: #475569; /* Kleur van de tabelkoptekst */
@@ -660,4 +665,8 @@ background-color: #B2D7EE;
 .md-typeset .expander > .admonition-title::before,
 .md-typeset .expander > summary::after {
   display:none;
+}
+
+.md-header__source a{
+  text-decoration: none;
 }

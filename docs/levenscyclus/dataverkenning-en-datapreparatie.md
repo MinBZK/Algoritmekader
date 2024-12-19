@@ -24,7 +24,7 @@ Als de verzamelde data van voldoende kwaliteit is en de vereiste maatregelen zij
 
 <!-- list_vereisten levenscyclus/dataverkenning-en-datapreparatie no-rol no-levenscyclus no-search no-onderwerp -->
 
-## Maatregelen { data-search-exclude }
+## Aanbevolen maatregelen { data-search-exclude }
 
 <!-- list_maatregelen levenscyclus/dataverkenning-en-datapreparatie no-rol no-levenscyclus no-search no-onderwerp -->
 

@@ -55,7 +55,7 @@ Wat minimaal periodiek geëvalueerd moet worden is:
 - [betrouwbaarheid](5-ver-06-evalueer-betrouwbaarheid.md)
 - [reproduceerbaarheid](4-owk-07-reproduceerbaarheid.md)
 - [bias](5-ver-03-biasanalyse.md)
-- [veiligheid](#)
+- [veiligheid](7-mon-08-test-weerbaarheid-tegen-aanvallen.md)
 - [grondrechten](2-owp-07-afwegen-grondrechten.md)
 - [privacy](4-owk-03-privacyrisico.md)
 

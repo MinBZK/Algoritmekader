@@ -19,7 +19,7 @@ Het beheerteam zorgt ervoor dat dergelijke situaties worden voorkomen of opgelos
 
 <!-- list_vereisten levenscyclus/monitoring-en-beheer no-rol no-levenscyclus no-search no-onderwerp -->
 
-## Maatregelen { data-search-exclude }
+## Aanbevolen maatregelen { data-search-exclude }
 
 <!-- list_maatregelen levenscyclus/monitoring-en-beheer no-rol no-levenscyclus no-search no-onderwerp -->
 

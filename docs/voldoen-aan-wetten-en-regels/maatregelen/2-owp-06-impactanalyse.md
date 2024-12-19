@@ -13,6 +13,7 @@ onderwerp:
 - fundamentele-rechten
 rollen:
 - projectleider
+- ontwikkelaar
 hide:
 - navigation
 - toc
@@ -29,7 +30,6 @@ Een algoritme dat niet werkt zoals bedoeld kan bijvoorbeeld betekenen dat het al
 De analyse op wie dit een impact heeft en hoe groot die impact is, is van belang voor de ontwerpkeuzes, de risicoanalyse en de evaluatie. 
 Wanneer een foutieve beslissing zwaarwegende gevolgen heeft, moet er in het ontwerp gezorgd worden dat de kans op deze fout verminderd wordt.
 In de evaluatie moet er worden bepaald of de resterende risico’s acceptabel zijn. 
-Een analyse van de impact is hiervoor noodzakelijk. 
 Voer de impactanalyse uit met een multidisciplinaire groep en documenteer afwegingen en keuzes hierbij. Neem in de impactanalyse de volgende stappen:
 
 Wanneer een algoritme niet werkt als beoogd, kan dit inbreuk maken op [grondrechten](../../onderwerpen/fundamentele-rechten.md) van eventuele betrokken burgers. 
@@ -49,7 +49,7 @@ Bepaal per stakeholder en per proces wat het gevolg is van een niet goed werkend
     Bijvoorbeeld in het geval van een ziektedetectie algoritme als voorsortering of een patiënt een uitgebreidere test moet ondergaan is de impact groter als de patiënt ten onrechte als geen-risico wordt geclassificeerd dan als iemand ten onrechte een extra controle moet ondergaan. 
 
 - **Bepaal welke factoren van invloed zijn op de kans dat het fout gaat**
-Het risico is afhankelijk van de kans dat een fout voorkomt. Voor risicoanalyse en mitigatie is het van belang om de factoren die van invloed zijn op de fouten in kaart te brengen. Deze geven input aan de ontwerpfase en mitigerende maatregelen. Denk hierbij aan factoren in de [data](3-dat-01-datakwaliteit.md), [het algoritme](2-owp-05-soort-algoritme.md), het gebruik en externe factoren. 
+Het risico is afhankelijk van de kans dat een fout voorkomt. Voor risicoanalyse en mitigatie is het van belang om de factoren die van invloed zijn op de fouten in kaart te brengen. Deze geven input aan de ontwerpfase en mitigerende maatregelen. Denk hierbij aan factoren in de [data](3-dat-01-datakwaliteit.md), [het soort algoritme](2-owp-05-soort-algoritme.md), het gebruik en externe factoren. 
 
 
 ## Bijbehorende vereiste(n)

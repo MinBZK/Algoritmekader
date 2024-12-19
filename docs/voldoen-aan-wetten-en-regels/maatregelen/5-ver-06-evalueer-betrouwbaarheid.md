@@ -44,7 +44,7 @@ Het testen van betrouwbaarheid kan bijvoorbeeld door precisie of recall te meten
     In de literatuur gaat het ook wel over generalisatie wanneer we spreken over het correct presteren op nieuwe of minder voorkomende inputs en omstandigheden. 
     Hieronder enkele voorbeelden van methoden die gebruikt kunnen worden:
 
-    - De *monkey test* is een manier om voor willekeurige, invalide of onverwachte inputs het gedrag van het algoritme te testen. Het idee is om een onvoorspelbare gebruiker (of een script) willekeurige acties te laten uitvoeren om te kijken hoe het systeem erop reageert. 
+    - De *monkey test* is een manier om voor willekeurige, invalide of onverwachte inputs de werking van het algoritme te testen. Het idee is om een onvoorspelbare gebruiker (of een script) willekeurige acties te laten uitvoeren om te kijken hoe het systeem erop reageert. 
     - Door een *out-of-sample test* kan worden getest hoe een machinelearning algoritme presteert bij een dataset verdeling die niet in de training is meegegeven. 
     - Door *stresstesten* test je de prestatie van het algoritme onder extreme omstandigheden of ruis in de data. 
     - Met synthetische data kunnen goed uitlegbare en controleerbare distributieshifts worden gesimuleerd, om te testen of het algoritme in een onbekende situatie, waar geen data van bruikbaar of beschikbaar is, presteert. 
@@ -62,7 +62,7 @@ Onderzoek of er specifieke situaties of omstandigheden zijn waarvan bekend is da
     De verdeling van de inputdata kan invloed hebben op de prestaties van een machinelearning algoritme (distributieshift). Test hoe het algoritme presteert onder andere verdelingen van de inputdata. 
 
 ### Zorg voor een representatieve testset
-Zorg dat er een [representatieve testset](5-ver-04-representatieve-testomgeving.md) beschikbar is waarin het algoritme kan worden getest in verschillende scenario's. Test het algoritme in verschillende omstandigheden:
+Zorg dat er een [representatieve testset](5-ver-04-representatieve-testomgeving.md) beschikbaar is waarin het algoritme kan worden getest in verschillende scenario's. Test het algoritme in verschillende omstandigheden:
 
 - gebruikers
 - omgeving
@@ -72,7 +72,7 @@ Zorg dat er een [representatieve testset](5-ver-04-representatieve-testomgeving.
 Test je algoritme op generaliseerbaarheid van de uitkomsten buiten de standaard omgeving. 
 
 ### Bepaal welke mate van betrouwbaarheid noodzakelijk is
-- Bedenk onder welke variaties het systeem zeker betrouwbaar moet werken en hoe goed het moet kunnen werken onder rand- of uitzonderlijke gevallen. 
+- Bedenk onder welke variaties het systeem betrouwbaar moet werken en hoe goed het moet kunnen werken onder rand- of uitzonderlijke gevallen. 
 - Afhankelijk van de toepassing moeten resultaten altijd dezelfde uitkomst geven of niet ([reproduceerbaarheid](4-owk-07-reproduceerbaarheid.md)). In het geval van generatieve AI hoeft het antwoord bijvoorbeeld niet altijd exact hetzelfde te zijn. 
 - Heb hierbij aandacht voor de afweging tussen [nauwkeurigheid](5-ver-02-evalueer-nauwkeurigheid.md) en betrouwbaarheid. Een model met hoge nauwkeurigheid op de testset kan vaak slechter generaliseren naar situaties net buiten de test set (overfitting). 
 
@@ -95,7 +95,7 @@ In veel gevallen kan het wenselijk zijn dat het systeem aangeeft wanneer een uit
 Dit kan bijdragen aan het vertrouwen in het algoritme. 
 
 ### Zorg voor continue monitoring op betrouwbaarheid
-Zorg dat het algoritme continu wordt [gemonitord](../../levenscyclus/monitoring-en-beheer.md) op de betrouwbaarheid en de prestaties van het systeem. Maak gebruik van periodieke updates en [valideer regelmatig de kwaliteit gebruikte data](3-dat-01-datakwaliteit.md). 
+Zorg dat het algoritme continu wordt [gemonitord](../../levenscyclus/monitoring-en-beheer.md) op de betrouwbaarheid en de prestaties van het systeem. Maak gebruik van periodieke updates en [valideer regelmatig de kwaliteit van de gebruikte data](3-dat-01-datakwaliteit.md). 
 
 ## Bijbehorende vereiste(n)
 

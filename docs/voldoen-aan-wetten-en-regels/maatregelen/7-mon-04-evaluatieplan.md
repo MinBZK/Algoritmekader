@@ -62,7 +62,7 @@ Wat minimaal periodiek geëvalueerd moet worden is:
 Bij een evaluatie hoeft niet altijd alles weer geëvalueerd te worden. Dit hangt af van het type wijzigingen die er zijn geweest en van de aspecten die continu worden gemonitord. Leg vast wat er wanneer geëvalueerd dient te worden. 
 
 ### Documenteer voor en tijdens iedere evaluatie
-Zorg dat de benodigde informatie voor de evaluatie wordt opgeslagen en beschikbaar is voor de evaluatiemomenten.Denk aan invoerwaarden, resultaten en gebruikersstatistieken. 
+Zorg dat de benodigde informatie voor de evaluatie wordt opgeslagen en beschikbaar is voor de evaluatiemomenten. Denk aan invoerwaarden, resultaten en gebruikersstatistieken. 
 
 Betrek bij het opstellen van dit plan een [diverse groep van belanghebbenden](1-pba-04-betrek-belanghebbenden.md) met o.a. ontwikkelaars, gebruikers en ethisch adviseurs. Zorg dat het evaluatieplan periodiek wordt herzien of deze nog voldoet.  
 
@@ -71,7 +71,7 @@ Betrek bij het opstellen van dit plan een [diverse groep van belanghebbenden](1-
 <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
-Er zullen veranderingen plaatsvinden in de gebruikscontext, de data en in het algoritme zelf (bijv. door bijtrainen). Wanneer niet wordt geëvalueerd tijdens de operatie is het onbekend of het algoritme nog steeds werkt zoals beoogd en voldoet aan de acceptatiecriteria. 
+Er zullen veranderingen plaatsvinden in de gebruikscontext, de data en in het algoritme zelf (bijv. door bijtrainen). Wanneer niet wordt geëvalueerd tijdens het gebruik is het onbekend of het algoritme nog steeds werkt zoals beoogd en voldoet aan de acceptatiecriteria. 
 
 ## Bronnen
 

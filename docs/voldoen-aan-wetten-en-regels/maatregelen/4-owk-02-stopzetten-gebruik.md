@@ -56,7 +56,7 @@ Zorg dat door middel van het [loggen](4-owk-04-logging.md) van de juiste informa
 - Leg vast wie er binnen en buiten de organisatie geïnformeerd moeten worden. 
 - Het is van belang dat bij het ontwerp van algoritmes er rekening wordt gehouden met dat het werkproces ook zonder het algoritme kan worden uitgevoerd.
 - In het geval van risicoselectie kan er bijvoorbeeld worden teruggevallen op het enkel uitvoeren van een [aselecte steekproef](6-imp-02-aselecte-steekproeven.md) als selectieinstrument. 
-- Als blijkt dat het algoritme ongewenst functioneert, dan moeten (technische) maatregelen zijn getroffen waarmee het gebruik daadwerkelijk kan worden stopgezet. Denk hierbij aan een stopknop en werkinstructies hoe het gebruik kan worden beëindigd.
+- Als blijkt dat het algoritme ongewenst functioneert, dan moeten (technische) maatregelen zijn getroffen waarmee het gebruik daadwerkelijk kan worden stopgezet. Denk hierbij aan een stopknop en [werkinstructies](6-imp-01-werkinstructies-gebruikers.md) hoe het gebruik kan worden beëindigd.
 - Maak aantoonbaar dat deze maatregelen zijn getroffen.
 - De proceseigenaar of een menselijk toezichthouder moet in staat zijn om het algoritme op elk moment te kunnen beëindigen.
 - Het stopzetten van het gebruik van een algoritme mag niet tot gevolg hebben dat betrokkenen niet meer kunnen achterhalen hoe besluiten tot stand zijn gekomen of dat gevolgen niet meer kunnen worden gecorrigeerd als dat noodzakelijk is. 

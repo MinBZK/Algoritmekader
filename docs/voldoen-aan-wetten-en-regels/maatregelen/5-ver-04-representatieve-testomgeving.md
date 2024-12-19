@@ -32,13 +32,13 @@ Neem bij het inrichten van een testomgeving de volgende aspecten mee:
 - zorg voor testomgeving waarin je betrouwbaarheid, nauwkeurigheid en reproduceerbaarheid kan evalueren.
 - analyseer de verschillen tussen de dataset en operationeel gebruik.
 - wanneer een gebruikerstest wordt gedaan, zorg voor een representatieve groep gebruikers. Denk bijvoorbeeld aan verschillend enthousiasme en verschillend niveau van digitale/AI-vaardigheden. 
-- neem verschillende typen aanvallen mee
+- neem verschillende typen (cyber)aanvallen mee
 - valideer dat de testomgeving de risicoanalyse en het beslissingsproces ondersteunt. 
 
 Voorbeelden om bij te dragen aan een representatieve testomgeving:
 
 - Voeg extra ruis toe aan de testdata
-- Test op op gevallen die niet passen in de verdeling van variabelen waarop een classificatiemodel is getraind (de *out-of-distribution* scenario’s). 
+- Test op gevallen die niet passen in de verdeling van variabelen waarop een classificatiemodel is getraind (de *out-of-distribution* scenario’s). 
 - [Test op uitzonderlijke gevallen (*outliers*) en minderheidsgroepen](5-ver-03-biasanalyse.md)
 - Stel specifieke testscenario’s op. Dit kan bijvoorbeeld met de [‘What if tool’ van Google](https://ieeexplore.ieee.org/abstract/document/8807255), om specifieke data scenario’s voor een machinelearning model te onderzoeken.
 

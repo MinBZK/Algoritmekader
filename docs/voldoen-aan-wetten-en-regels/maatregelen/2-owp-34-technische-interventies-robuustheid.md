@@ -47,7 +47,7 @@ Maak in de ontwerpfase de volgende afwegingen:
 <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
-Wanneer robuustheid niet in het ontwerp al wordt meegenomen, kan er voor een model worden gekozen waar het niet mogelijk is robuustheid voldoende te waarborgen.
+Wanneer robuustheid niet in het ontwerp wordt meegenomen, kan er voor een model worden gekozen waar het niet mogelijk is robuustheid voldoende te waarborgen.
 Het model wordt dan ofwel ingezet met de risico’s van dien of de innovatie moet later stop gezet worden. 
 
 ## Bronnen

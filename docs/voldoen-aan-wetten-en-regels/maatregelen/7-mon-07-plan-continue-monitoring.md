@@ -24,10 +24,10 @@ hide:
 Maak een plan voor wat er continu gemonitord moet worden tijdens het gebruik van het algoritme. Dit plan bevat niet alleen wat en hoe er gemonitord wordt, maar ook bij welke overschrijdingen actie moet worden ondernomen.
 
 ## Toelichting
-Het monitoringplan moet aangeven wat er continu moet worden gemonitord en op welke manier dit moet gebeuren. 
+Het plan voor monitoring moet aangeven wat er continu moet worden gemonitord en op welke manier dit moet gebeuren. 
 Daarnaast bevat het plan in welke situaties er actie moet worden ondernomen, en wie daarbij betrokken moet zijn. 
 
-Voor op opstellen van het monitoringplan zijn de volgende stappen nodig:
+Voor op opstellen van het plan voor monitoring zijn de volgende stappen nodig:
 
 ### Bepaal waar je continu op wilt monitoren
 Denk hierbij aan:
@@ -43,13 +43,13 @@ Welke metrieken worden er gebruikt om de vastgelegde aspecten te meten?
 Welke informatie moet er opgeslagen worden om deze metrieken te kunnen meten? Analyseer ook of er aspecten zijn die niet met metrieken gemeten kunnen worden en hoe je die aspecten kan monitoren.   
 
 ### Bepaal de grenswaarden: bij welke overschrijding moet er actie worden genomen?
-Voor een effectieve monitoring is het van belang dat duidelijk is wanneer er actie moet worden ondernomen op de resultaten. Leg vast voor elk van de aspecten die gemonitord wordt bij welke waarden er actie moet worden genomen. Hiervoor is het noodzakelijk om een duidelijke omschrijving te hebben wat de beoogde werking van het systeem is. Het is ook mogelijk om meerdere waarden per monitor te bepalen, waar bij een eerste overschrijding alleen een waarschuwing wordt gegeven en bij een tweede het algoritme bijvoorbeeld wordt overgegaan tot het [noodplan](4-owk-02-stopzetten-gebruik.md). 
+Voor een effectieve monitoring is het van belang dat duidelijk is wanneer er actie moet worden ondernomen op de resultaten. Leg vast voor elk van de aspecten die gemonitord wordt bij welke waarden er actie moet worden genomen. Hiervoor is het noodzakelijk om een duidelijke omschrijving te hebben wat de beoogde werking van het systeem is. Het is ook mogelijk om meerdere waarden per monitor te bepalen, waarbij een eerste overschrijding alleen een waarschuwing wordt gegeven en bij een tweede het algoritme bijvoorbeeld wordt overgegaan tot het [noodplan](4-owk-02-stopzetten-gebruik.md). 
 
 ### Bepaal welke acties genomen moeten worden bij een overschrijding
-Je legt hier in eerste instantie vast of het algoritme moet worden stopgezet, beperkt moet worden in de inzet of nog gebruikt kan blijven worden. Ten tweede bepaal je wat voor andere acties er moeten worden genomen, bijvoorbeeld moet er een nieuwe uitgebreide evaluatie moet plaatsvinden, moet het algoritme worden bijgewerkt, moet er nieuwe data verzameld worden, moet de beveiliging verbeterd worden, moet er worden overgestapt op plan B. 
+Je legt hier in eerste instantie vast of het algoritme moet worden stopgezet, beperkt moet worden in de inzet of in gebruik kan blijven. Ten tweede bepaal je wat voor andere acties er moeten worden genomen, bijvoorbeeld moet er een nieuwe uitgebreide evaluatie moet plaatsvinden, moet het algoritme worden bijgewerkt, moet er nieuwe data verzameld worden, moet de beveiliging verbeterd worden, moet er worden overgestapt op plan B. 
 
 ### Leg vast hoe en aan wie er een waarschuwing wordt gegeven wanneer een waarde wordt overschreden
-Om effectief te kunnen ingrijpen is het van belang dat wordt vastgelegd in het monitoring plan op welke manier er een waarschuwing wordt gegeven, aan wie deze waarschuwing wordt gegeven en welke informatie deze persoon nodig heeft. Bepaal bijvoorbeeld ook of een systeem automatisch wordt uitgeschakeld of dat een mens die keuze moet maken. 
+Om effectief te kunnen ingrijpen is het van belang dat wordt vastgelegd in het monitoringsplan op welke manier er een waarschuwing wordt gegeven, aan wie deze waarschuwing wordt gegeven en welke informatie deze persoon nodig heeft. Bepaal bijvoorbeeld ook of een systeem automatisch wordt uitgeschakeld of dat een mens die keuze moet maken. 
 
 Betrek bij het opstellen van dit plan een [diverse groep van belanghebbenden](1-pba-04-betrek-belanghebbenden.md) met o.a. ontwikkelaars, gebruikers en ethisch adviseurs. Zorg dat het evaluatieplan periodiek wordt herzien of deze nog voldoet.  
 

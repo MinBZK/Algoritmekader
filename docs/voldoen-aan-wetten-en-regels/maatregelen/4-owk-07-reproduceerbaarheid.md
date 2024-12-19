@@ -21,7 +21,7 @@ Zorg ervoor dat uitkomsten van het algoritme herhaald of herleid kunnen worden.
 
 ## Toelichting
 De reproduceerbaarheid omschrijft of de resultaten van een algoritme herhaald of herleid kunnen worden. 
-Het betekent dat dezelfde input leidt tot dezelfde output in alle situaties. In ieder geval moet het algoritme hetzelfde gedrag vertonen. 
+Het betekent dat dezelfde input leidt tot dezelfde output in alle situaties. In ieder geval moet het algoritme dezelfde werking vertonen. 
 
 Reproduceerbaarheid is sterk gelinkt aan herleidbaarheid en traceerbaarheid. 
 Uitkomsten moeten altijd herleid kunnen worden aan de hand van het model en de data. 
@@ -34,7 +34,7 @@ Om te zorgen voor reproduceerbaarheid van de uitkomsten, kan je de volgende stap
 
 ### Bepaal welke mate van reproduceerbaarheid nodig is
 Afhankelijk van de toepassing moeten de resultaten van het algoritme te precies reproduceren zijn. 
-Wanneer er gebruik wordt gemaakt van genertieve AI hoeft de output niet altijd exact hetzelfde te zijn. 
+Wanneer er gebruik wordt gemaakt van generatieve AI hoeft de output niet altijd exact hetzelfde te zijn. 
 
 ### Implementeer verschillende stappen die bijdragen aan reproduceerbaarheid
 Om te zorgen dat uitkomsten reproduceerbaar zijn, implementeer je het volgende in je processen en systemen:

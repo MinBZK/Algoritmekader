@@ -34,7 +34,7 @@ Er zijn verschillende vormen van feedbackloops, die worden uitgelegd aan de hand
 
 - *sampling feedbackloop*: Wanneer de beslissing die volgt uit het algoritme effect heeft op de kans dat bepaalde groepen in een volgende selectie terechtkomen. In het voorbeeld van de uitkering betekent dit bijvoorbeeld dat een bepaalde groep geen nieuwe aanvraag meer doet door een eerdere beslissing van het algoritme. 
 
-- *individual feedbackloop*: Wanneer bijvoorbeeld de burger minder geld uit gaat geven aan boodschappen omdat deze weet dat het daarop beoordeeld wordt door het algoritme. Een ander voorbeeld is wanneer de mening of visie van een beoordelaar verandert door [het gebruiken van het algoritme](../../onderwerpen/bias-en-non-discriminatie.md#menselijke-bias)(het overnemen van de ‘vooroordelen van een systeem’). 
+- *individual feedbackloop*: Wanneer de mening of visie van een beoordelaar verandert door [het gebruiken van het algoritme](../../onderwerpen/bias-en-non-discriminatie.md#menselijke-bias)(het overnemen van de ‘vooroordelen van een systeem’). 
 
 - *feature feedbackloop*: Bijvoorbeeld wanneer de uitkomst dat een subsidie niet verstrekt wordt, ook als kenmerk ‘eerdere weigering van subsidie’ wordt gebruikt door het algoritme. 
 
@@ -44,8 +44,8 @@ Er zijn verschillende vormen van feedbackloops, die worden uitgelegd aan de hand
 
 ### Adversarial feedbackloops
 Soms kunnen feedbackloops opzettelijk ingezet worden als ‘aanval’ op het systeem. 
-Dit hoeft niet per se vijandig te zijn, maar het kan  gaan om het opzettelijk reageren op of aanpassen van de beslissingen die uit een algoritme volgen. 
-Bijvoorbeeld wanneer mensen liegen bij het invullen van een vragenlijst van de GGD wanneer ze een soa-test willen doen, omdat ze weten dat ze dat ze dan gekwalificeerd worden voor een gratis test [^1]. 
+Dit hoeft niet per se vijandig te zijn, maar het kan gaan om het opzettelijk reageren op of aanpassen van de beslissingen die uit een algoritme volgen. 
+Bijvoorbeeld wanneer mensen liegen bij het invullen van een vragenlijst van de GGD wanneer ze een soa-test willen doen, omdat ze weten dat ze dan gekwalificeerd worden voor een gratis test [^1]. 
 Wanneer de belanghebbende het gedrag aanpast zonder dat zijn of haar kenmerken daadwerkelijk veranderen, omdat het heeft geleerd hoe het algoritme oordeelt, is dat voorbeeld van een adversarial feature feedbackloop. 
 Deze feedbackloops wil je het liefste voorzien en mitigeren.  
 

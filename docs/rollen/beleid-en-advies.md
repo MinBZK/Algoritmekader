@@ -11,7 +11,7 @@ Zij dragen bij aan impact-assessments, risicobeoordelingen en [beleidsplannen ov
 
 Door hun brede blik en specialistische kennis ondersteunen zij adviseurs bij het opstellen en vertalen van beleidskaders naar concrete maatregelen en adviezen. Zij vormen zo een verbindende factor tussen de technische, organisatorische en bestuurlijke aspecten van algoritmeontwikkeling.
 
-## Belangrijke taken van een beleids- en adviesprofessional:
+## Belangrijke taken van een beleidsprofessional of adviseur:
 
 * zorgt ervoor dat de organisatie beleidskaders en richtlijnen correct interpreteert en effectief toepast
 * schakelt met ontwikkelaars, projectleiders en eindverantwoordelijken

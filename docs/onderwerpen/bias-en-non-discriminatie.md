@@ -19,8 +19,9 @@ Zo’n discriminerend effect ontstaat doordat het algoritme een verboden ondersc
 - Indirect onderscheid: Het algoritme lijkt neutraal of eerlijk. Maar later blijkt dat bepaalde mensen op een andere manier worden behandeld door hun geloof, politieke of seksuele voorkeur, ras, geslacht, of burgerlijke staat. 
 
 
-> [!TIP]
-> Heeft je algoritme een discriminerend effect, dan moet je zo snel mogelijk [stoppen met het algoritme](../levenscyclus/uitfaseren.md). Gebruik bijvoorbeeld het [discriminatieprotocol](https://minbzk.github.io/discriminatieprotocol/) van het ministerie van Binnenlandse Zaken.
+!!! "tip"  Tip
+
+    Heeft je algoritme een discriminerend effect, dan moet je zo snel mogelijk [stoppen met het algoritme](../levenscyclus/uitfaseren.md). Gebruik bijvoorbeeld het [discriminatieprotocol](https://minbzk.github.io/discriminatieprotocol/) van het ministerie van Binnenlandse Zaken.
 
 ### Uitzondering
 Een direct of indirect onderscheid is niet altijd verboden volgens [Artikel 2 Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=1&artikel=1&z=2020-01-01&g=2020-01-01). In bepaalde situaties en onder bepaalde strenge voorwaarden mag je zo’n onderscheid wel maken. 

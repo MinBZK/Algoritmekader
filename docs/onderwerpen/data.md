@@ -62,7 +62,7 @@ Het ongecontroleerd delen of gebruiken van deze gegevens, bijvoorbeeld voor het 
 
 <!-- list_vereisten onderwerp/data no-search no-onderwerp no-rol no-levenscyclus -->
 
-## Maatregelen { data-search-exclude }
+## Aanbevolen maatregelen { data-search-exclude }
 
 <!-- list_maatregelen onderwerp/data no-search no-onderwerp no-rol no-levenscyclus -->
 

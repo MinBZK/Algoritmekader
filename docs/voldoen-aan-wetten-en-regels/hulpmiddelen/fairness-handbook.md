@@ -24,7 +24,7 @@ hide: navigation
 
 <!-- tags -->
 
-[Direct naar het Fairness Handbook](https://openresearch.amsterdam/en/page/87589/the-fairness-handbook){ .md-button }
+[Direct naar het Fairness Handbook](https://openresearch.amsterdam/en/page/87589/the-fairness-handbook){ .button .md-button--secondary }
 
 ## Hulpmiddel
 Het Fairness Handbook biedt overheidsorganisaties een gedetailleerde richtlijn om eerlijkheid in algoritmen te waarborgen en schadelijke vooroordelen binnen AI-systemen te verminderen. Het handboek, dat origineel is ontwikkeld voor de Gemeente Amsterdam, richt zich op het voorkomen en mitigeren van vooroordelen en oneerlijke uitkomsten (bias) door middel van een gestructureerde _Fairness Pipeline_. Deze pipeline behandelt alle fasen van het ontwikkelproces, van het [formuleren van het probleem](../../levenscyclus/probleemanalyse.md) tot de uiteindelijke [implementatie](../../levenscyclus/implementatie.md) en [monitoring](../../levenscyclus/monitoring-en-beheer.md). Dit hulpmiddel biedt inzicht in de soorten schadelijke effecten van AI (zoals representatiebias en denigratieschade) en introduceert specifieke technieken, zoals het uitvoeren van een bias-analyse en het gebruik van contra-feitelijke scenario's (_counterfactual fairness_), om te controleren of de algoritmen rechtvaardige resultaten opleveren.

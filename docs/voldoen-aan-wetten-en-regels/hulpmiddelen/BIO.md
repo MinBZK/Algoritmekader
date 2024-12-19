@@ -23,7 +23,7 @@ hide: navigation
 
 <!-- tags -->
 
-[Direct naar de BIO](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/){ .md-button }
+[Direct naar de BIO](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/){ .button .md-button--secondary }
 
 ## Hulpmiddel
 De BIO is het basisnormenkader voor informatiebeveiliging voor alle overheidslagen, waardoor een gezamenlijke norm voor informatiebeveiliging is ontstaan. Het gebruik van 1 normenkader voor de gehele overheid biedt een aantal voordelen:

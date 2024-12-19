@@ -24,7 +24,7 @@ hide: navigation
 
 <!-- tags -->
 
-[Direct naar DEDA](https://deda.dataschool.nl/){ .md-button }
+[Direct naar DEDA](https://deda.dataschool.nl/){ .button .md-button--secondary }
 
 ## Hulpmiddel
 DEDA is ontwikkeld door de Data School van de Universiteit Utrecht en bestaat uit een toolkit die helpt bij het in kaart brengen van ethische kwesties bij dataprojecten, bij het documenteren van het beraadslagingsproces en bij de bevordering van de verantwoording aan de diverse stakeholders en het publiek.

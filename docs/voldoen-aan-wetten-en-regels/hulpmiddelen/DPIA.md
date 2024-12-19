@@ -29,7 +29,7 @@ hide: navigation
 
 <!-- tags -->
 
-[Direct naar de DPIA](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/praktisch-avg/data-protection-impact-assessment-dpia){ .md-button }
+[Direct naar de DPIA](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/praktisch-avg/data-protection-impact-assessment-dpia){ .button .md-button--secondary }
 ## Hulpmiddel
 
 Is je organisatie van plan persoonsgegevens te verwerken, maar levert dat waarschijnlijk een hoog privacyrisico op? 

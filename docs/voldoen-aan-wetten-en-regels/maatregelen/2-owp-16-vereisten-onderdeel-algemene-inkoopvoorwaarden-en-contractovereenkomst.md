@@ -3,6 +3,7 @@ title: Maak vereisten voor algoritmes onderdeel van algemene inkoopvoorwaarden e
 id: urn:nl:ak:mtr:owp-16
 toelichting: Door vereisten voor algoritmes onderdeel te maken van algemene inkoopvoorwaarden, is het voor aanbieders vooraf en op het moment van contractueren duidelijk waar zij aan moeten voldoen. 
 vereiste: 
+- aia-01-ai-geletterdheid
 - aia-02-documentatie-beoordeling-niet-hoog-risico-ai
 - aia-03-risicobeheersysteem
 - aia-04-risicobeoordeling-voor-jongeren-en-kwetsbaren
@@ -21,21 +22,24 @@ vereiste:
 - aia-17-registratieverplichtingen
 - aia-18-corrigerende-maatregelen-voor-non-conforme-ai
 - aia-19-toegankelijkheidseisen
-- aia-20-verstrekken-van-informatie-op-verzoek
-- aia-21-aantoonbaarheid-vereisten-hoog-risico
-- aia-28-recht-op-uitleg-ai-besluiten
+- aia-20-gebruiksverantwoordelijken-maatregelen
+- aia-21-gebruiksverantwoordelijken-menselijk-toezicht
+- aia-22-gebruiksverantwoordelijken-monitoren-werking
+- aia-23-gebruiksverantwoordelijken-bewaren-logs
+- aia-24-informeren-werknemers
+- aia-25-gebruiksverantwoordelijken-registratieverplichtingen
+- aia-26-recht-op-uitleg-ai-besluiten
 - aia-27-beoordelen-gevolgen-grondrechten
-- aia-30-transparantieverplichtingen
-- aia-31-ai-modellen-algemene-doeleinden
-- aia-32-ai-modellen-algemene-doeleinden-systeemrisico
-- aia-33-ai-modellen-algemene-doeleinden-systeemrisico-ernstige-incidenten
-- aia-34-ai-modellen-algemene-doeleinden-systeemrisico-cyberbeveiliging
-- aia-35-verwerking-in-testomgeving
-- aia-36-monitoring-na-het-in-de-handel-brengen
-- aia-37-melding-ernstige-incidenten
-- aia-38-melding-inbreuk-op-ai-verordening
-- aia-39-recht-klacht-indienen-bij-ai-bureau
-- bzk-01-algoritmeregister
+- aia-28-transparantieverplichtingen
+- aia-29-ai-modellen-algemene-doeleinden
+- aia-30-ai-modellen-algemene-doeleinden-systeemrisico
+- aia-31-ai-modellen-algemene-doeleinden-systeemrisico-ernstige-incidenten
+- aia-32-ai-modellen-algemene-doeleinden-systeemrisico-cyberbeveiliging
+- aia-33-verwerking-in-testomgeving
+- aia-34-monitoring-na-het-in-de-handel-brengen
+- aia-35-melding-ernstige-incidenten
+- aia-36-melding-inbreuk-op-ai-verordening
+- aia-37-recht-klacht-indienen-bij-ai-bureau
 - arc-01-archiefwet
 - aut-01-auteursrechten
 - avg-01-persoonsgegevens-worden-rechtmatig-verwerkt
@@ -54,10 +58,10 @@ vereiste:
 - awb-01-zorgvuldigheidsbeginsel
 - awb-02-motiveringsbeginsel
 - bio-01-beveiliging-informatie-en-informatiesystemen
+- bzk-01-algoritmeregister
 - dat-01-databankenwet
 - grw-01-fundamentele-rechten
 - grw-02-non-discriminatie
-- woo-01-recht-op-toegang-tot-publieke-informatie
 
 levenscyclus: 
 - ontwerp
@@ -92,14 +96,14 @@ Maak vereisten voor algoritmes onderdeel van contractvoorwaarden en de contracto
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Door de vereisten voor een verantwoorde inzet van algoritmes niet te communiceren met aanbieders, is het voor hen (deels) onduidelijk aan welke vereisten diens algoritmes moet voldoen om te kunnen contractueren met overheidsorganisaties.
+
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 - [Onderzoekskader Algoritmes Auditdienst Rijk, SV.11](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Specificeren algemene inkoopvoorwaarden](https://www.pianoo.nl/nl/inkoopproces/fase-1-voorbereiden/specificeren/specificeren-algemene-voorwaarden)
-
-## Risico 
-<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Door de vereisten voor een verantwoorde inzet van algoritmes niet te communiceren met aanbieders, is het voor hen (deels) onduidelijk aan welke vereisten diens algoritmes moet voldoen om te kunnen contractueren met overheidsorganisaties.
 
 
 ## Voorbeeld

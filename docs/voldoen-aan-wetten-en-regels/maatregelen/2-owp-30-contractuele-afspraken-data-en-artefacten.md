@@ -5,6 +5,8 @@ toelichting: Maak (contractuele) afspraken over de data en artefacten die ontsta
 vereiste:
 - aut-01-auteursrechten
 - dat-01-databankenwet
+- aia-05-data-kwaliteitscriteria
+- avg-01-persoonsgegevens-worden-rechtmatig-verwerkt
 levenscyclus:
 - ontwerp
 - implementatie
@@ -30,6 +32,10 @@ Hier kan worden gedacht aan (initiële) trainingsdatasets, outputdata (richting 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
+
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+
 
 ## Bronnen
 

@@ -45,7 +45,7 @@ hide:
 
     ---
 
-    Geldt de AI-verordening geldt voor jouw AI-product? En aan welke vereisten moet je dan voldoen?
+    Geldt de AI-verordening voor jouw AI-product? En aan welke vereisten moet je dan voldoen?
 
 
 </div>

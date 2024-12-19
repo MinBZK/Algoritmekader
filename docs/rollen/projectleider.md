@@ -6,17 +6,21 @@ hide:
 ---
 
 # Projectleider
-De projectleider richt zich op het coördineren en aansturen van alle betrokken partijen en processen bij de ontwikkeling van algoritmes. Projectleiders zorgen ervoor dat projecten door de verschillende fasen van de levenscyclus van algoritmes worden geleid, van probleemanalyse tot monitoring & beheer, of zelfs uitfasering.
+Projectleiders spelen de hoofdrol in het realiseren van een verantwoorde en effectieve inzet van algoritmes binnen de organisatie. Zij verbinden de benodigde expertises en waarborgen alle stappen van het ontwikkelproces. Zo zorgen zij ervoor dat de organisatie het ontwikkelproces verantwoord en volgens de gestelde kaders uitvoert. 
 
-## Relevantie
-Projectmanagement binnen het Algoritmekader betekent het verbinden van benodigde expertises en het waarborgen dat alle stappen van het ontwikkelproces verantwoord en volgens de gestelde kaders worden uitgevoerd. Projectmanagers maken afspraken over de te navolgen vereisten en stellen prioriteiten in uit te voeren maatregelen. Zij houden contact met opdrachtgevers en verantwoordelijken om te zorgen dat de projectdoelen worden behaald en risico’s worden gemitigeerd. Zij spelen een hoofdrol bij het realiseren van een verantwoorde en effectieve inzet van algoritmes binnen een organisatie.
+Projectmanagers maken afspraken over de vereisten waar de organisatie aan moet voldoen. En zij prioriteren maatregelen die hiervoor nodig zijn. Zij houden contact met opdrachtgevers en verantwoordelijken over de projectdoelen en risico’s. 
 
-## Bijbehorende functies
+## Belangrijke taken van een projectleider
 
--	Projectleider
--	Product owner
--	Proceseigenaar
--	IT-projectmanager
+* coördineert processen en stuurt alle betrokken partijen aan bij de ontwikkeling van algoritmes
+* leidt projecten door de verschillende fasen van de levenscyclus van algoritmes, van probleemanalyse tot monitoring en beheer, of uitfaseren.
+
+## Projectleiders zijn bijvoorbeeld
+
+* Projectleider
+* Product-owner
+* Proceseigenaar
+* IT-projectmanager
 
 ## Vereisten { data-search-exclude }
 
@@ -25,3 +29,6 @@ Projectmanagement binnen het Algoritmekader betekent het verbinden van benodigde
 ## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen rollen/projectleider no-rol no-levenscyclus no-search no-onderwerp -->
+
+## Help ons deze pagina te verbeteren
+Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/issues/new/choose) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

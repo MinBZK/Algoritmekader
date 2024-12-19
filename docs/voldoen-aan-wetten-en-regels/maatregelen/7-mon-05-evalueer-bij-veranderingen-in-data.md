@@ -45,7 +45,8 @@ Door veranderingen in de data presteert het model niet meer zoals verwacht.
 
 ## Bronnen
 - [Onderzoekskader Auditdienst Rijk, DM.8](https://open.overheid.nl/documenten/61b54381-d331-40ed-8fce-b2883b195f25/file)
-- [Toetsingskader Algoritmes Algemene Rekenkamer, 1.02, 1.08, 2.06, 2.08, 2.13](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) 
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 1.02, 1.08, 2.06, 2.08, 2.13](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
+- Norm: ["Information technology - Artificial intelligence - Data life cycle framework"](https://www.nen.nl/nen-en-iso-iec-8183-2024-en-325716)
 
 ## Voorbeeld
 

@@ -67,6 +67,7 @@ Stel vast of de gebruikte data van voldoende kwaliteit is voor de beoogde toepas
 - [NORA, Raamwerk gegevenskwaliteit](https://www.noraonline.nl/wiki/Raamwerk_gegevenskwaliteit)
 - [Impact Assessment Mensenrechten en Algoritmes, 2A.2.2](../hulpmiddelen/IAMA.md)
 - [Handreiking non-discriminatie by design](https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design)
+- Norm: ["Artificial intelligence - Data quality for analytics and machine learning (ML) - Part 2: Data quality measures"](https://www.nen.nl/iso-iec-5259-2-2024-en-331171)
 
 ## Voorbeeld
 

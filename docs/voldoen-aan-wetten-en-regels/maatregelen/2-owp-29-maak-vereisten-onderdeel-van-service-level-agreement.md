@@ -3,25 +3,24 @@
 title: Maak vereisten voor algoritmes onderdeel van de Service Level Agreement
 id: urn:nl:ak:mtr:owp-29
 # geef hier een korte toelichting van deze maatregel
-toelichting: Onderzoek of het relevant is om vereisten voor algoritmes te specificerenin de Service Level Agreement. Met een SLA kunnen specifieke afspraken worden gemaakt over de kwaliteit van de dienstverlening van aanbieder.
+toelichting: Onderzoek of het relevant is om vereisten voor algoritmes te specificeren in de Service Level Agreement. Met een SLA kunnen specifieke afspraken worden gemaakt over de kwaliteit van de dienstverlening van aanbieder.
 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
-- bio-01-beveiliging-informatie-en-informatiesystemen
-- avg-12-beveiliging-van-verwerking
-- aia-37-melding-ernstige-incidenten
-- aia-07-automatische-logregistratie
-- aia-01-ai-geletterdheid
-- aia-18-corrigerende-maatregelen-voor-non-conforme-ai
-- aia-11-systeem-voor-kwaliteitsbeheer
+- aia-03-risicobeheersysteem
 - aia-05-data-kwaliteitscriteria
-- aia-36-monitoring-na-het-in-de-handel-brengen
-- aia-03-risicobeheersysteem
+- aia-07-automatische-logregistratie
 - aia-09-menselijk-toezicht
-- avg-07-transparantie-bij-verwerken-persoonsgegevens
-- aia-03-risicobeheersysteem
+- aia-11-systeem-voor-kwaliteitsbeheer
+- aia-18-corrigerende-maatregelen-voor-non-conforme-ai
 - aia-19-toegankelijkheidseisen
-- aia-20-verstrekken-van-informatie-op-verzoek
+- aia-28-transparantieverplichtingen
+- aia-34-monitoring-na-het-in-de-handel-brengen
+- aia-35-melding-ernstige-incidenten
+- aia-34-monitoring-na-het-in-de-handel-brengen
+- bio-01-beveiliging-informatie-en-informatiesystemen
+- avg-07-transparantie-bij-verwerken-persoonsgegevens
+- avg-12-beveiliging-van-verwerking
 - woo-01-recht-op-toegang-tot-publieke-informatie
 
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
@@ -50,9 +49,9 @@ Maak de vereiste onderdeel van Service Level Agreement
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-- Onderzoek met het inkoopteam het relevant is om vereiste voor een verantwoorde inzet van algoritmes onderdeel te maken van de Service Level Agreement. 
 - Met een SLA kunnen specifieke afspraken worden gemaakt over de kwaliteit van de dienstverlening van aanbieder.
-- Hierbij kan worden gedacht aan onderwerpen als incidentmanagement, servicemanagement, verantwoordelijkheden matrix, hersteltijd, prestatiecriteria, reproduceerbaarheid, versiebeheer van de gebruikte algoritmes en informatiebeveiliging. 
+- Hierbij kan worden gedacht aan onderwerpen als incidentmanagement, servicemanagement, verantwoordelijkheden matrix, hersteltijd, prestatiecriteria, reproduceerbaarheid, versiebeheer van de gebruikte algoritmes en informatiebeveiliging.
+- Onderzoek met het inkoopteam welke vereiste voor een verantwoorde inzet van algoritmes onderdeel moeten worden gemaakt van de Service Level Agreement. 
 - Laat de aanbieder aangeven welke vormen van onderhoud aan de betreffende algoritmes nodig zijn en de snelheid waarmee signalen vanuit gebruik, ongeacht de bron, kunnen worden verwerkt in het systeem en welke expertise hiervoor beschikbaar is. 
 
 
@@ -66,7 +65,6 @@ Maak de vereiste onderdeel van Service Level Agreement
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
 Zonder concrete afspraken te maken in de SLA, ontstaat het risico dat aloritmes (tijdelijk) of te langdurig niet kunnen worden gebruikt, onjuist fuctioneren of dat er geen verantwoording over de output kan worden afgelegd.
-
 
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->

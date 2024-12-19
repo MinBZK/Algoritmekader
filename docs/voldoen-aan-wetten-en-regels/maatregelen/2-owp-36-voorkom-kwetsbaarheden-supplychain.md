@@ -35,7 +35,7 @@ Redenen om dit te doen zijn het reeds beschikbaar zijn van een voorgetraind algo
 Echter is het een stuk lastiger om deze modellen te beschermen tegen aanvallen zoals [backdoors] omdat er geen (directe) controle is op het correct uitvoeren van een trainingsproces. 
 
 Een eerste stap is om in kaart te brengen welke afhankelijkheden er zijn en te onderzoeken of deze beheersbaar zijn. 
-Er moeten er duidelijke afspraken gemaakt worden met leveranciers, bijvoorbeeld in de vorm van een [Service Level Agreement (SLA)](2-owp-26-maak-vereisten-onderdeel-van-service-level-agreement.md). 
+Er moeten er duidelijke afspraken gemaakt worden met leveranciers, bijvoorbeeld in de vorm van een [Service Level Agreement (SLA)](2-owp-29-maak-vereisten-onderdeel-van-service-level-agreement.md). 
 Op deze manier kan bijvoorbeeld afgesproken wie er verantwoordelijk is voor bijvoorbeeld het correct trainen en functioneren van het algoritme en hoe incidenten afgehandeld moeten worden.
 
 Tot slot kunnen extra maatregelen genomen worden om te verifiëren dat het model inderdaad functioneert zoals afgesproken. Zo kunnen er formele methodes gebruikt worden om het algoritme te verifiëren, en kan het gedrag van het algoritme getest worden tegen bekende, foutieve invoerwaarden. 

@@ -25,9 +25,9 @@ Het zorgvuldigheidsvereiste eist dat een besluit met de nodige zorgvuldigheid wo
 Dit vraagt onder meer om een zorgvuldig onderzoek naar informatie, feiten, een zorgvuldige beslissingsprocedure en een deugdelijke besluitvorming. 
 
 Dit betekent dat bij de ontwikkeling en gebruik van algoritmes informatie moet worden vastgelegd  over het algoritme. Hierbij kan worden gedacht aan:
-- Dat het [doel en eventuele subdoelen](1-pba-01-formuleren-probleemdefinitie.md) van het algoritme of AI-systeem helder zijn gedefinieerd, ook in relatie tot het maatschappelijke resultaat (outcome).
-- Een bewuste afweging afmaken en vaststellen of het algoritme het [juiste middel is om het probleem](1-pba-01-formuleren-probleemdefinitie) op doelmatige en doeltreffende wijze op te lossen.
-- Dat de werking van het algoritme is onderzocht en is vastgesteld dat dit [passend is](5-ver-03-functioneren-in-lijn-met-doeleinden.md) om te gebruiken in een besluitvormingsproces.
+- Dat het [doel en eventuele subdoelen](../maatregelen/1-pba-01-formuleren-probleemdefinitie.md) van het algoritme of AI-systeem helder zijn gedefinieerd, ook in relatie tot het maatschappelijke resultaat (outcome).
+- Een bewuste afweging afmaken en vaststellen of het algoritme het [juiste middel is om het probleem](../maatregelen/1-pba-01-formuleren-probleemdefinitie) op doelmatige en doeltreffende wijze op te lossen.
+- Dat de werking van het algoritme is onderzocht en is vastgesteld dat dit [passend is](../maatregelen/5-ver-03-functioneren-in-lijn-met-doeleinden.md) om te gebruiken in een besluitvormingsproces.
 
 ## Bronnen 
 - [Afdeling 3.2 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.2&z=2024-05-01&g=2024-05-01)

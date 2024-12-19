@@ -27,7 +27,7 @@ Een direct of indirect onderscheid is niet altijd verboden volgens [Artikel 2 Al
 
 Direct onderscheid maken mag bijvoorbeeld als hiervoor een uitzondering staat in de wet. Zo mag je bijvoorbeeld in situaties waar het gaat om moederschap of zwangerschap onderscheid maken op basis van geslacht. 
 
-Indirect onderscheid maken mag niet, tenzij hiervoor een wettelijke uitzondering geldt. Of je hebt een goede reden (objectieve rechtvaardiging). Selecteert je algoritme bijvoorbeeld alleen vrouwen voor een vacature, dan moet je hier een goede reden voor hebben. En het algoritme moet passend en noodzakelijk zijn om een doel te bereiken dat wettelijk is toegestaan. Anders is het discriminatie.
+Indirect onderscheid maken mag niet, tenzij hiervoor een wettelijke uitzondering geldt. Of je hebt een goede reden (objectieve rechtvaardiging). Selecteert je algoritme bijvoorbeeld alleen vrouwen voor een vacature, dan moet je hier een objectieve rechtvaardiging voor hebben. En het algoritme moet passend en noodzakelijk zijn om een doel te bereiken dat wettelijk is toegestaan. Anders is het discriminatie.
 
 ## Belang van discriminerende effecten voorkomen
 Discriminatie is verboden volgens [Artikel 1 van de Nederlandse Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=1&z=2023-02-22&g=2023-02-22). En algoritmes kunnen snel een discriminerend effect hebben op grote groepen mensen. Vooral [impactvolle algoritmes](../overhetalgoritmekader/impact-van-algoritmes.md) kunnen veel schade veroorzaken in de maatschappij door discriminatie.
@@ -37,7 +37,7 @@ Het is erg moeilijk om discriminerende effecten te voorkomen. Discriminatiegrond
 ## Herken bias
 Bias herkennen is een belangrijke stap in het voorkomen van discriminerende effecten van algoritmes.
 
-'Bias' is een Engels woord voor vooroordeel of vooringenomenheid. Volgens de norm [ISO/IEC TR 24027](https://www.nen.nl/iso-iec-tr-24027-2021-en-289193) maken algoritmes met een bias steeds een bepaald soort fout. Hierdoor behandelen ze bepaalde mensen, groepen of producten steeds (systematisch) op een verschillende manier. Dit verhoogt de kans op discriminatie.
+'Bias' is een Engels woord voor vooroordeel of vooringenomenheid. Algoritmes met een bias maken steeds een bepaald soort fout. Volgens de norm [ISO/IEC TR 24027](https://www.nen.nl/iso-iec-tr-24027-2021-en-289193) bevat een algoritme bias wanneer ze bepaalde mensen, groepen of producten steeds (systematisch) op een verschillende manier. Dit verhoogt de kans op discriminatie.
 
 Alle algoritmes hebben vooroordelen en maken fouten, net als de mens. Wil je dit aanpakken, zoek dan naar bias in het algoritme zelf en in de mensen en processen om het algoritme heen. Een bias-vrij algoritme is niet mogelijk.
 

@@ -45,5 +45,15 @@ Hier kan worden gedacht aan (initiële) trainingsdatasets, outputdata (richting 
 
 ## Voorbeeld
 
-Heb jij een goed voorbeeld? Laat het ons weten!
+!!! example "Gemeente Amsterdam: Contractvoorwaarden"
+
+	_Dit voorbeeld kan zonder veel aanpassingen in uw organisatie gebruikt worden._
+
+    De gemeente Amsterdam heeft contractvoorwaarden voor algoritmen opgesteld waarin ook duidelijke afspraken over data en artefacten staan. Dit staat in artikel 3 van “Modelbepalingen voor gemeenten voor verantwoord gebruik van Algoritmische toepassingen”. Zo komt de trainingsdata (genoemd “verstrekte data”) en output en nieuwe traningsdata (genoemd “Gecreëerde en verzamelde data”) de gemeente toe.
+    Een mogelijke toevoeging die gedaan kan worden zit op het aspect van auteursrechten. Deze worden op dit moment niet expliciet genoemd en kunnen door toevoeging voor verheldering zorgen.
+	
+	Bron: [Contractvoorwaarden voor Algoritmen](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/contractvoorwaarden-algoritmen/)
+
+
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
 

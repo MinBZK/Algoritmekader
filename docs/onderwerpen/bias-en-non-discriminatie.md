@@ -93,13 +93,13 @@ Voorbeelden:
 
     Een algoritme gebruikt bijvoorbeeld data die gebaseerd is op oude belastingregels, terwijl er nieuwe wetten en regels zijn. Dan zit er een historische bias in je data. Of een algoritme voorspelt bijvoorbeeld de koopkracht van mensen, maar gebruikt hiervoor data uit een tijd waarin mannen meer verdienden dan vrouwen.
 
-??? exander "Activiteitenbias (activity bias)"
+??? expander "Activiteitenbias (activity bias)"
 
     Je algoritme geeft een verkeerd beeld over gebruikers van interactieve producten, zoals websites of apps. Dit komt omdat alleen de meest actieve gebruikers trainingsdata aanleveren.
 
     Een algoritme onderzoekt bijvoorbeeld wat burgers van een bepaalde brief vinden op basis van kliks in een digitale vragenlijst. Het algoritme kan niet zeggen wat burgers écht vinden, omdat de meest actieve internetgebruikers vaker klikken en vaker de vragenlijst invullen.
 
-??? exander "Samenlevingsbias (societal bias)"
+??? expander "Samenlevingsbias (societal bias)"
 
     Je algoritme maakt een fout op basis van stereotypes die voorkomen in de samenleving. Dit gebeurt vooral in AI-systemen die taal verwerken via Natural Language Processing (NLP).
 
@@ -116,31 +116,31 @@ Menselijke bias kan invloed hebben op de:
 
 Voorbeelden:
 
-??? exander "Automatiseringsbias"
+??? expander "Automatiseringsbias"
 
     Mensen maken een denkfout omdat zij de voorkeur geven aan adviezen van automatische besluitvormingssystemen. Zelfs als uit andere informatie blijkt dat deze adviezen niet kloppen.
 
     Wanneer behandelaren handmatig controleren of een uitkering van een burger klopt, hebben zij vaak de neiging om de beslissing te volgen van het algoritme. 
 
-??? exander "Cognitieve bias"
+??? expander "Cognitieve bias"
 
     Mensen maken een denkfout omdat zij volgens een vast patroon afwijken van logisch nadenken. Vaak gebeurt dit om complexe denktaken te versimpelen of versnellen.
 
     Administratief medewerkers weigeren bijvoorbeeld een AI-systeem te gebruiken, omdat ze slechte ervaringen hebben met een ander AI-systeem. Zij willen het nieuwe AI-systeem dus niet gebruiken, terwijl ze dit nooit gebruikt hebben.
 
-??? exander "Bevestigingsbias"
+??? expander "Bevestigingsbias"
 
     Mensen maken een denkfout omdat zij de voorkeur geven aan voorspellingen van algoritmes die hun eigen overtuigingen of gedachtes bevestigen.
 
     Rechercheurs zoeken bijvoorbeeld direct naar bewijs om verdachte X te veroordelen, nadat een algoritme X voorspelt als dader. Terwijl de rechercheurs ook ander bewijs moeten zoeken.
 
-??? exander "Implementatie-bias"
+??? expander "Implementatie-bias"
 
     Een algoritme wordt op een andere manier gebruikt dan hoe het bedoeld is en waarvoor het ontwikkeld is. Dit komt vaak voor wanneer een algoritme wordt gebruikt als beslishulp voor mensen. Deze vorm van bias is een menselijke denkfout in de vorm dat gebruikers niet op dezelfde of goede manier omgaan met adviezen. 
 
     Een wet over bijvoorbeeld immigratie wordt ingevoerd en er wordt een algoritme ontwikkeld om te onderzoeken wat de gevolgen hiervan zijn. Dit algoritme is dan ook bedoeld om voor bepaalde groepen mensen te kijken wat de gevolgen zijn. Het algoritme wordt ook gebruikt bij het toekennen van staatsburgerschap aan de hand van de gevolgen. Dit is niet zoals het systeem bedoeld is en dus kunnen er incomplete antwoorden of resultaten uitkomen.
 
-??? exander "Overlevingsbias (survivorship bias)"
+??? expander "Overlevingsbias (survivorship bias)"
 
     Mensen hebben de neiging om voorkeur te geven aan dingen, mensen of observaties die door een bepaalde selectie zijn gekomen. Naar de gevallen die buiten de selecties vallen wordt vaak niet of minder gekeken. Dit kan leiden tot een zichzelf versterkend proces.  Zo worden bijvoorbeeld modellen die werken verbeterd, maar wordt niet gekeken waarom de andere modellen niet werken.
 

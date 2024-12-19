@@ -1,5 +1,5 @@
 ---
-title: Test regelmatig of een algoritme voldoende weerbaar is tegen bekende aanvallen.
+title: Controleer regelmatig of een algoritme voldoende weerbaar is tegen bekende aanvallen.
 id: urn:nl:ak:mtr:mon-08
 toelichting: Controleer regelmatig of je algoritme bestand is tegen aanvallen. 
 levenscyclus:

@@ -19,8 +19,9 @@ Zo’n discriminerend effect ontstaat doordat het algoritme een verboden ondersc
 - Indirect onderscheid: Het algoritme lijkt neutraal of eerlijk. Maar later blijkt dat bepaalde mensen op een andere manier worden behandeld door hun geloof, politieke of seksuele voorkeur, ras, geslacht, of burgerlijke staat. 
 
 
-> [!TIP]
-> Heeft je algoritme een discriminerend effect, dan moet je zo snel mogelijk [stoppen met het algoritme](../levenscyclus/uitfaseren.md). Gebruik bijvoorbeeld het [discriminatieprotocol](https://minbzk.github.io/discriminatieprotocol/) van het ministerie van Binnenlandse Zaken.
+!!! tip "Tip"
+    
+    Heeft je algoritme een discriminerend effect, dan moet je zo snel mogelijk [stoppen met het algoritme](../levenscyclus/uitfaseren.md). Gebruik bijvoorbeeld het [discriminatieprotocol](https://minbzk.github.io/discriminatieprotocol/) van het ministerie van Binnenlandse Zaken.
 
 ### Uitzondering
 Een direct of indirect onderscheid is niet altijd verboden volgens [Artikel 2 Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=1&artikel=1&z=2020-01-01&g=2020-01-01). In bepaalde situaties en onder bepaalde strenge voorwaarden mag je zo’n onderscheid wel maken. 
@@ -55,42 +56,29 @@ Dit zijn fouten in de:
 
 Voorbeelden:
 
-<details>
-<summary>Meet-bias (measurement bias)</summary>
+??? expander "Meet-bias (measurement bias)"
 
-Je algoritme maakt een verkeerde schatting of benadering van kenmerken of labels. Dit komt doordat het de ene variabele gebruikt om een andere variabele te voorspellen of te benaderen (proxy). En hierbij laat het belangrijke informatie weg, of het voegt onbelangrijke informatie (ruis) toe.
+    Je algoritme maakt een verkeerde schatting of benadering van kenmerken of labels. Dit komt doordat het de ene variabele gebruikt om een andere variabele te voorspellen of te benaderen (proxy). En hierbij laat het belangrijke informatie weg, of het voegt onbelangrijke informatie (ruis) toe.
 
-Een algoritme maakt bijvoorbeeld een verkeerde schatting van het risico op overlijden aan longontsteking in het ziekenhuis. Het algoritme leert namelijk uit de data dat dit risico lager is voor astmapatiënten. Maar dit komt niet door hun astma. Het algoritme laat weg dat astmapatiënten met longontsteking direct naar de intensive care gaan. En mensen zonder astma niet.  
+    Een algoritme maakt bijvoorbeeld een verkeerde schatting van het risico op overlijden aan longontsteking in het ziekenhuis. Het algoritme leert namelijk uit de data dat dit risico lager is voor astmapatiënten. Maar dit komt niet door hun astma. Het algoritme laat weg dat astmapatiënten met longontsteking direct naar de intensive care gaan. En mensen zonder astma niet.  
 
-</details>
+??? expander "Versterkingsbias (amplification bias)"
 
-<details>
-<summary>Versterkingsbias (amplification bias)</summary>
+    Je algoritme versterkt een patroon uit de trainingsdata.
 
-Je algoritme versterkt een patroon uit de trainingsdata.
+    Een algoritme dat mensen en hun acties herkent, voorspelt bijvoorbeeld 5 keer zo vaak de combinatie ‘vrouw’ en ‘koken’. Terwijl deze combinatie in de trainingsdata maar 2 keer zo vaak voorkomt. 
 
-Een algoritme dat mensen en hun acties herkent, voorspelt bijvoorbeeld 5 keer zo vaak de combinatie ‘vrouw’ en ‘koken’. Terwijl deze combinatie in de trainingsdata maar 2 keer zo vaak voorkomt. 
+??? expander "Evaluatie-bias (evaluation bias)"
 
-</details>
+    Je algoritme trekt verkeerde conclusies omdat de evaluatiedata niet kloppen, of niet compleet zijn. 
 
-<details>
-<summary>Evaluatie-bias (evaluation bias)</summary>
+    Een algoritme voor gezichtsherkenning herkent bijvoorbeeld vrouwen van kleur niet goed, omdat deze vrouwen te weinig voorkomen in de dataset voor evaluatie. 
 
-Je algoritme trekt verkeerde conclusies omdat de evaluatiedata niet kloppen, of niet compleet zijn. 
+??? expander "Representatie-bias (representation bias)"
 
-Een algoritme voor gezichtsherkenning herkent bijvoorbeeld vrouwen van kleur niet goed, omdat deze vrouwen te weinig voorkomen in de dataset voor evaluatie. 
+    Je algoritme doet voorspellingen over een grote groep, op basis van resultaten uit subgroepen met te weinig verschillende proefpersonen.
 
-</details>
-
-<details> 
-<summary>Representatie-bias (representation bias)</summary>
-
-Je algoritme doet voorspellingen over een grote groep, op basis van resultaten uit subgroepen met te weinig verschillende proefpersonen.
-
-Een algoritme beoordeelt bijvoorbeeld de populariteit van treinstations onder reizigers op basis van hun smartphone-gebruik. Maar deze groep is niet representatief, omdat oudere reizigers vaak minder gebruik maken van smartphones.
-
-</details>
-
+    Een algoritme beoordeelt bijvoorbeeld de populariteit van treinstations onder reizigers op basis van hun smartphone-gebruik. Maar deze groep is niet representatief, omdat oudere reizigers vaak minder gebruik maken van smartphones.
 
 ### Bias in systemen en processen
 Dit is vooringenomenheid die vaak in de loop der tijd is ontstaan in de samenleving of je organisatie. Deze vooringenomenheid werkt door in processen of systemen, of wordt soms versterkt door algoritmes. Dit gebeurt vaak niet bewust. 
@@ -99,31 +87,23 @@ Systemische bias heet ook wel: institutionele vooringenomenheid. Dit betekent da
 
 Voorbeelden:
 
-<details>
-<summary>Historische bias </summary>
+??? expander "Historische bias"
 
-Je algoritme heeft vooroordelen die in de loop der tijd ontstonden in de samenleving.
+    Je algoritme heeft vooroordelen die in de loop der tijd ontstonden in de samenleving.
 
-Een algoritme gebruikt bijvoorbeeld data die gebaseerd is op oude belastingregels, terwijl er nieuwe wetten en regels zijn. Dan zit er een historische bias in je data. Of een algoritme voorspelt bijvoorbeeld de koopkracht van mensen, maar gebruikt hiervoor data uit een tijd waarin mannen meer verdienden dan vrouwen.
+    Een algoritme gebruikt bijvoorbeeld data die gebaseerd is op oude belastingregels, terwijl er nieuwe wetten en regels zijn. Dan zit er een historische bias in je data. Of een algoritme voorspelt bijvoorbeeld de koopkracht van mensen, maar gebruikt hiervoor data uit een tijd waarin mannen meer verdienden dan vrouwen.
 
-</details>
- 
-<details>
-<summary>Activiteitenbias (activity bias)</summary>
+??? exander "Activiteitenbias (activity bias)"
 
-Je algoritme geeft een verkeerd beeld over gebruikers van interactieve producten, zoals websites of apps. Dit komt omdat alleen de meest actieve gebruikers trainingsdata aanleveren.
+    Je algoritme geeft een verkeerd beeld over gebruikers van interactieve producten, zoals websites of apps. Dit komt omdat alleen de meest actieve gebruikers trainingsdata aanleveren.
 
-Een algoritme onderzoekt bijvoorbeeld wat burgers van een bepaalde brief vinden op basis van kliks in een digitale vragenlijst. Het algoritme kan niet zeggen wat burgers écht vinden, omdat de meest actieve internetgebruikers vaker klikken en vaker de vragenlijst invullen.
+    Een algoritme onderzoekt bijvoorbeeld wat burgers van een bepaalde brief vinden op basis van kliks in een digitale vragenlijst. Het algoritme kan niet zeggen wat burgers écht vinden, omdat de meest actieve internetgebruikers vaker klikken en vaker de vragenlijst invullen.
 
-</details>
+??? exander "Samenlevingsbias (societal bias)"
 
-<details>
-<summary>Samenlevingsbias (societal bias)</summary>
-Je algoritme maakt een fout op basis van stereotypes die voorkomen in de samenleving. Dit gebeurt vooral in AI-systemen die taal verwerken via Natural Language Processing (NLP).
+    Je algoritme maakt een fout op basis van stereotypes die voorkomen in de samenleving. Dit gebeurt vooral in AI-systemen die taal verwerken via Natural Language Processing (NLP).
 
-Een algoritme dat teksten maakt, geeft bijvoorbeeld ‘verpleegster’ als vrouwelijke vorm van ‘dokter’. Dit komt omdat het stereotype dokter in die samenleving een man is.
-
-</details>
+    Een algoritme dat teksten maakt, geeft bijvoorbeeld ‘verpleegster’ als vrouwelijke vorm van ‘dokter’. Dit komt omdat het stereotype dokter in die samenleving een man is.
 
 ### Bias in menselijk denken
 Dit zijn vooroordelen in het menselijk denken die steeds (systematisch) invloed hebben op de manier waarop iemand iets ziet, hoort, ruikt, proeft of voelt.
@@ -136,49 +116,35 @@ Menselijke bias kan invloed hebben op de:
 
 Voorbeelden:
 
-<details>
-<summary>Automatiseringsbias</summary>
+??? exander "Automatiseringsbias"
 
-Mensen maken een denkfout omdat zij de voorkeur geven aan adviezen van automatische besluitvormingssystemen. Zelfs als uit andere informatie blijkt dat deze adviezen niet kloppen.
+    Mensen maken een denkfout omdat zij de voorkeur geven aan adviezen van automatische besluitvormingssystemen. Zelfs als uit andere informatie blijkt dat deze adviezen niet kloppen.
 
-Wanneer behandelaren handmatig controleren of een uitkering van een burger klopt, hebben zij vaak de neiging om de beslissing te volgen van het algoritme. 
+    Wanneer behandelaren handmatig controleren of een uitkering van een burger klopt, hebben zij vaak de neiging om de beslissing te volgen van het algoritme. 
 
-</details>
+??? exander "Cognitieve bias"
 
-<details>
-<summary>Cognitieve bias</summary>
+    Mensen maken een denkfout omdat zij volgens een vast patroon afwijken van logisch nadenken. Vaak gebeurt dit om complexe denktaken te versimpelen of versnellen.
 
-Mensen maken een denkfout omdat zij volgens een vast patroon afwijken van logisch nadenken. Vaak gebeurt dit om complexe denktaken te versimpelen of versnellen.
+    Administratief medewerkers weigeren bijvoorbeeld een AI-systeem te gebruiken, omdat ze slechte ervaringen hebben met een ander AI-systeem. Zij willen het nieuwe AI-systeem dus niet gebruiken, terwijl ze dit nooit gebruikt hebben.
 
-Administratief medewerkers weigeren bijvoorbeeld een AI-systeem te gebruiken, omdat ze slechte ervaringen hebben met een ander AI-systeem. Zij willen het nieuwe AI-systeem dus niet gebruiken, terwijl ze dit nooit gebruikt hebben.
+??? exander "Bevestigingsbias"
 
-</details>
+    Mensen maken een denkfout omdat zij de voorkeur geven aan voorspellingen van algoritmes die hun eigen overtuigingen of gedachtes bevestigen.
 
-<details>
-<summary>Bevestigingsbias</summary>
+    Rechercheurs zoeken bijvoorbeeld direct naar bewijs om verdachte X te veroordelen, nadat een algoritme X voorspelt als dader. Terwijl de rechercheurs ook ander bewijs moeten zoeken.
 
-Mensen maken een denkfout omdat zij de voorkeur geven aan voorspellingen van algoritmes die hun eigen overtuigingen of gedachtes bevestigen.
+??? exander "Implementatie-bias"
 
-Rechercheurs zoeken bijvoorbeeld direct naar bewijs om verdachte X te veroordelen, nadat een algoritme X voorspelt als dader. Terwijl de rechercheurs ook ander bewijs moeten zoeken.
+    Een algoritme wordt op een andere manier gebruikt dan hoe het bedoeld is en waarvoor het ontwikkeld is. Dit komt vaak voor wanneer een algoritme wordt gebruikt als beslishulp voor mensen. Deze vorm van bias is een menselijke denkfout in de vorm dat gebruikers niet op dezelfde of goede manier omgaan met adviezen. 
 
-</details>
+    Een wet over bijvoorbeeld immigratie wordt ingevoerd en er wordt een algoritme ontwikkeld om te onderzoeken wat de gevolgen hiervan zijn. Dit algoritme is dan ook bedoeld om voor bepaalde groepen mensen te kijken wat de gevolgen zijn. Het algoritme wordt ook gebruikt bij het toekennen van staatsburgerschap aan de hand van de gevolgen. Dit is niet zoals het systeem bedoeld is en dus kunnen er incomplete antwoorden of resultaten uitkomen.
 
-<details>
-<summary>Implementatie-bias</summary>
+??? exander "Overlevingsbias (survivorship bias)"
 
-Een algoritme wordt op een andere manier gebruikt dan hoe het bedoeld is en waarvoor het ontwikkeld is. Dit komt vaak voor wanneer een algoritme wordt gebruikt als beslishulp voor mensen. Deze vorm van bias is een menselijke denkfout in de vorm dat gebruikers niet op dezelfde of goede manier omgaan met adviezen. 
+    Mensen hebben de neiging om voorkeur te geven aan dingen, mensen of observaties die door een bepaalde selectie zijn gekomen. Naar de gevallen die buiten de selecties vallen wordt vaak niet of minder gekeken. Dit kan leiden tot een zichzelf versterkend proces.  Zo worden bijvoorbeeld modellen die werken verbeterd, maar wordt niet gekeken waarom de andere modellen niet werken.
 
-Een wet over bijvoorbeeld immigratie wordt ingevoerd en er wordt een algoritme ontwikkeld om te onderzoeken wat de gevolgen hiervan zijn. Dit algoritme is dan ook bedoeld om voor bepaalde groepen mensen te kijken wat de gevolgen zijn. Het algoritme wordt ook gebruikt bij het toekennen van staatsburgerschap aan de hand van de gevolgen. Dit is niet zoals het systeem bedoeld is en dus kunnen er incomplete antwoorden of resultaten uitkomen.
-
-</details>
-
-<details>
-<summary>Overlevingsbias (survivorship bias)</summary>
-Mensen hebben de neiging om voorkeur te geven aan dingen, mensen of observaties die door een bepaalde selectie zijn gekomen. Naar de gevallen die buiten de selecties vallen wordt vaak niet of minder gekeken. Dit kan leiden tot een zichzelf versterkend proces.  Zo worden bijvoorbeeld modellen die werken verbeterd, maar wordt niet gekeken waarom de andere modellen niet werken.
-
-Om fraudeherkenning te vergemakkelijken wordt bijvoorbeeld een model getraind op data van personen/huishoudens die eerder zijn gecontroleerd op mogelijke fraude. Hiermee wordt een groot gedeelte personen/huishoudens niet meegenomen in de trainingsdata, omdat deze groep niet eerder gecontroleerd is. 
-
-</details>
+    Om fraudeherkenning te vergemakkelijken wordt bijvoorbeeld een model getraind op data van personen/huishoudens die eerder zijn gecontroleerd op mogelijke fraude. Hiermee wordt een groot gedeelte personen/huishoudens niet meegenomen in de trainingsdata, omdat deze groep niet eerder gecontroleerd is. 
 
 ## Bepaal wat eerlijk en rechtvaardig is
 Ontdek je bias, dan wil je je algoritme of je aanpak verbeteren. Hoe je dat doet, hangt af van wat je organisatie zelf eerlijk en rechtvaardig vindt. Dit heet ook wel het bepalen van ‘algoritmische fairness’.  

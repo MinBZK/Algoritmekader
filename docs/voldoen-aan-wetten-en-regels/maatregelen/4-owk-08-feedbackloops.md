@@ -34,7 +34,7 @@ Er zijn verschillende vormen van feedbackloops:
 
 - *sampling feedbackloop*: Wanneer de beslissing die volgt uit het algoritme effect heeft op de kans dat bepaalde groepen in een volgende selectie terechtkomen. 
 
-- *individual feedbackloop*: Wanneer de mening of visie van een beoordelaar verandert door [het gebruiken van het algoritme](../../onderwerpen/bias-en-non-discriminatie.md#menselijke-bias)(het overnemen van de ‘vooroordelen van een systeem’). 
+- *individual feedbackloop*: Wanneer de mening of visie van een beoordelaar verandert door [het gebruiken van het algoritme](../../onderwerpen/bias-en-non-discriminatie.md#bias-in-menselijk-denken)(het overnemen van de ‘vooroordelen van een systeem’). 
 
 - *feature feedbackloop*: Bijvoorbeeld wanneer de uitkomst dat een subsidie niet verstrekt wordt, ook als kenmerk ‘eerdere weigering van subsidie’ wordt gebruikt door het algoritme. 
 

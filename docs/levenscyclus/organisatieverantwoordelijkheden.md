@@ -13,7 +13,7 @@ Het zijn ook taken die je voortdurend aandacht zal moeten geven, maar die je nie
 
 <!-- list_vereisten levenscyclus/organisatieverantwoordelijkheden no-rol no-levenscyclus no-search no-onderwerp -->
 
-## Maatregelen { data-search-exclude }
+## Aanbevolen maatregelen { data-search-exclude }
 
 <!-- list_maatregelen levenscyclus/organisatieverantwoordelijkheden no-rol no-levenscyclus no-search no-onderwerp -->
 

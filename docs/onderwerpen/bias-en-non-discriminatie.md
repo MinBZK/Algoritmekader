@@ -166,7 +166,7 @@ Rechercheurs zoeken bijvoorbeeld direct naar bewijs om verdachte X te veroordele
 <details>
 <summary>Implementatie-bias</summary>
 
-Een algoritme wordt op een andere manier gebruikt dan hoe het bedoeld is en waarvoor het ontwikkeld is. Dit komt vaak voor wanneer een algoritme wordt gebruikt als beslishulp voor mensen. erkt niet goed door de menselijke denkfout dat gebruikers op dezelfde manier omgaan met adviezen. Terwijl gebruikers verschillend omgaan met adviezen. Hierdoor is het algoritme niet goed getest tijdens de implementatiefase.
+Een algoritme wordt op een andere manier gebruikt dan hoe het bedoeld is en waarvoor het ontwikkeld is. Dit komt vaak voor wanneer een algoritme wordt gebruikt als beslishulp voor mensen. Deze vorm van bias is een menselijke denkfout in de vorm dat gebruikers niet op dezelfde of goede manier omgaan met adviezen. 
 
 Een wet over bijvoorbeeld immigratie wordt ingevoerd en er wordt een algoritme ontwikkeld om te onderzoeken wat de gevolgen hiervan zijn. Dit algoritme is dan ook bedoeld om voor bepaalde groepen mensen te kijken wat de gevolgen zijn. Het algoritme wordt ook gebruikt bij het toekennen van staatsburgerschap aan de hand van de gevolgen. Dit is niet zoals het systeem bedoeld is en dus kunnen er incomplete antwoorden of resultaten uitkomen.
 

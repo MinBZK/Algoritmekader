@@ -21,7 +21,7 @@ Een vastgestelde business case of plan van aanpak vormen veelal de basis om de o
 
 <!-- list_vereisten levenscyclus/probleemanalyse no-rol no-levenscyclus no-search no-onderwerp -->
 
-## Maatregelen { data-search-exclude }
+## Aanbevolen maatregelen { data-search-exclude }
 
 <!-- list_maatregelen levenscyclus/probleemanalyse no-rol no-levenscyclus no-search no-onderwerp -->
 

@@ -37,7 +37,7 @@ hide:
 <!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->
 <!-- tags -->
 
-[Direct naar het Framework for Meaningful Engagement](https://ecnl.org/publications/framework-meaningful-engagement){ .md-button }
+[Direct naar het Framework for Meaningful Engagement](https://ecnl.org/publications/framework-meaningful-engagement){ .button .md-button--secondary }
 
 ## Hulpmiddel
 Het *Framework for Meaningful Engagement* biedt organisaties een praktische aanpak om verschillende stakeholders effectief te betrekken in processen rondom AI en algoritmes.

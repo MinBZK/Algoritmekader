@@ -22,7 +22,7 @@ hide: navigation
 
 <!-- tags -->
 
-[Direct naar het Mensenrechtelijk Toetsingskader](https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dce){ .md-button }
+[Direct naar het Mensenrechtelijk Toetsingskader](https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dce){ .button .md-button--secondary }
 
 !!! opmerking "Let op!"
 

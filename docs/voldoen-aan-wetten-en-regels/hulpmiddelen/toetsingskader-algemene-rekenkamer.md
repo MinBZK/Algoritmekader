@@ -27,7 +27,7 @@ hide: navigation
 
 <!-- tags -->
 
-[Direct naar het Toetsingskader](https://www.rekenkamer.nl/onderwerpen/algoritmes/toetsingskader){ .md-button }
+[Direct naar het Toetsingskader](https://www.rekenkamer.nl/onderwerpen/algoritmes/toetsingskader){ .button .md-button--secondary }
 ## Hulpmiddel
 
 Het toetsingskader omvat 5 perspectieven op algoritmes, elk met hun belangrijkste risico's geformuleerd. Het gaat om Sturing en Verantwoordelijkheid, Model en Data, Privacy, IT-beheer en Ethiek. Voor elk risico is er een specifieke onderzoeksvraag opgesteld. Door deze vragen te beantwoorden en een score toe te kennen, krijgt de gebruiker inzicht in hoe goed het gekozen algoritme de risico's beheerst.

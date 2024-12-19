@@ -661,3 +661,7 @@ background-color: #B2D7EE;
 .md-typeset .expander > summary::after {
   display:none;
 }
+
+.md-header__source a{
+  text-decoration: none;
+}

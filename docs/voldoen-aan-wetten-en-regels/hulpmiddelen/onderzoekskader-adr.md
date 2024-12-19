@@ -19,7 +19,7 @@ hide: navigation
 
 <!-- tags -->
 
-[Direct naar het Onderzoekskader Algoritmes](https://open.overheid.nl/documenten/61b54381-d331-40ed-8fce-b2883b195f25/file){ .md-button }
+[Direct naar het Onderzoekskader Algoritmes](https://open.overheid.nl/documenten/61b54381-d331-40ed-8fce-b2883b195f25/file){ .button .md-button--secondary }
 
 ## Hulpmiddel
 

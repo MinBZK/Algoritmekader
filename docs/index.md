@@ -9,7 +9,7 @@ hide:
 <div class="header-container">
     <div class="subheader">Wetten en regels, tips en hulpmiddelen voor verantwoord gebruik van algoritmes door de overheid. 
     <span class="version-container">
-      <span class="version-label">bètaversie</span>
+      <span class="version-label">Versie 2.0</span>
       <div class="hover-info">
         <p>Deze website is in ontwikkeling. Alle versies ontstaan op een open manier. <a href="overhetalgoritmekader/CONTRIBUTING/">Iedereen mag opmerkingen of suggesties geven.</a></p>
       </div>
@@ -68,7 +68,7 @@ hide:
     <ul>
       <li><a href="voldoen-aan-wetten-en-regels/vereisten/">Overzicht vereisten voor de overheid</a></li>
       <li><a href="voldoen-aan-wetten-en-regels/maatregelen/">Overzicht aanbevolen maatregelen</a></li>
-      <li><a href="voldoen-aan-wetten-en-regels/hulpmiddelen/">Overzicht aanbevolen hulpmiddelen</a></li>
+      <li><a href="voldoen-aan-wetten-en-regels/hulpmiddelen/">Overzicht hulpmiddelen</a></li>
     </ul>
     </div>
   </div>

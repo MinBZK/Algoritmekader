@@ -19,13 +19,13 @@ hide:
 
     ---
 
-    Je AI-systemen valt mogelijk onder een risicogroep uit de AI-verordening.
+    Je AI-systeem valt mogelijk onder een risicogroep uit de AI-verordening.
 
 -   [__Impact van algoritmes__](impact-van-algoritmes.md)
 
     ---
 
-    Impactvolle algoritmes moet je registreren in het Algoritmeregister.
+    Impactvolle algoritmes registreer je in het Algoritmeregister.
 
 -   [__Woordenlijst__](definities.md)
 

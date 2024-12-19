@@ -5,6 +5,7 @@ hide:
   - navigation
   - toc
 ---
+
 # Algoritmekader 
 <div class="header-container">
     <div class="subheader">Wetten en regels, tips en hulpmiddelen voor verantwoord gebruik van algoritmes door de overheid. 

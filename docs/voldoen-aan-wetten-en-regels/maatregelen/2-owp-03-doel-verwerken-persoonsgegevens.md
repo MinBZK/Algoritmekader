@@ -38,7 +38,7 @@ Bij de persoonsgegevens is aangegeven om wat voor categorie persoonsgegevens het
 Per kenmerk is toegelicht waarom deze noodzakelijk is om te verwerken voor het ontwikkelen en gebruiken van het algoritme.
 Het principe van dataminimalisatie is toegepast, wat betekent dat een keuze is gemaakt of een persoonsgegevens al dan niet strikt noodzakelijk is om het doel te bereiken of dat verwerking ervan achterwege kan blijven.
 
-Voor [het beschermen van deze persoonsgegevens](3-dat-05-pseudonimiseren-anonimiseren.md) wordt per kenmerk aangegeven op welke manier deze kan worden beschermd. Denk hierbij aan het anonimiseren, pseudonomiseren, aggregeren van de persoonsgegevens. 
+Voor [het beschermen van deze persoonsgegevens](3-dat-04-pseudonimiseren-anonimiseren.md) wordt per kenmerk aangegeven op welke manier deze kan worden beschermd. Denk hierbij aan het anonimiseren, pseudonomiseren, aggregeren van de persoonsgegevens. 
 
 Gebruik een [DPIA](../hulpmiddelen/DPIA.md) om bovenstaande zaken te beschrijven.
   

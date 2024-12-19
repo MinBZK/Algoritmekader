@@ -1,6 +1,6 @@
 ---
 title: Gebruik duurzame datacenters
-id: urn:nl:ak:mtr:dat-07
+id: urn:nl:ak:mtr:dat-06
 toelichting: Maak gebruik van datacenters die gebruikmaken van duurzame energiebronnen en energie-efficiënte technologieën voor de opslag en verwerking van data.  
 levenscyclus:
 - ontwerp

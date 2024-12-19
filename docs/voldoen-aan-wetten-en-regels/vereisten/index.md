@@ -9,6 +9,10 @@ hide:
 # Vereisten voor de overheid
 Overzicht van de belangrijkste vereisten voor overheden die algoritmes of AI-systemen ontwikkelen of gebruiken. 
 
+## Overzicht vereisten { data-search-exclude }
+
+<!-- list_vereisten -->
+
 ## Wetten en regels
 De vereisten zijn gebaseerd op de wetten en regels voor het uitvoeren van wettelijke taken, zoals de:
 
@@ -37,10 +41,6 @@ Welke vereisten gelden voor jouw organisatie, hangt af van:
 > Impactvolle algoritmes en AI-systemen worden gepubliceerd in het Nederlandse algoritmeregister.
 
 Deze vereiste geldt alleen voor impactvolle algoritmes en hoog-risico-AI-systemen. Een niet-impactvolle rekenregel hoef je niet te registreren.
-
-## Overzicht vereisten { data-search-exclude }
-
-<!-- list_vereisten -->
 
 ## Help ons deze pagina te verbeteren
 Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/vereisten/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

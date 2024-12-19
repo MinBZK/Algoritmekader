@@ -1,6 +1,6 @@
 ---
 title: Toets het algoritme op bias
-id: urn:nl:ak:mtr:ver-01
+id: urn:nl:ak:mtr:ver-03
 toelichting: Analyseer of het gebruik van het algoritme of het proces daaromheen leidt tot onwenselijke of onrechtmatige verschillen in de behandeling van individuen en/of groepen.  
 vereiste:
 - grw-02-non-discriminatie

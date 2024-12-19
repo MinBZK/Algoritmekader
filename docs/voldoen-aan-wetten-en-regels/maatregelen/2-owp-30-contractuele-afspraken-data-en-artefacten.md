@@ -52,7 +52,7 @@ Hier kan worden gedacht aan (initiële) trainingsdatasets, outputdata (richting 
     De gemeente Amsterdam heeft contractvoorwaarden voor algoritmen opgesteld waarin ook duidelijke afspraken over data en artefacten staan. Dit staat in artikel 3 van “Modelbepalingen voor gemeenten voor verantwoord gebruik van Algoritmische toepassingen”. Zo komt de trainingsdata (genoemd “verstrekte data”) en output en nieuwe trainingsdata (genoemd “Gecreëerde en verzamelde data”) de gemeente toe.
     Een mogelijke toevoeging die gedaan kan worden zit op het aspect van [auteursrechten](3-dat-05-schending-auteursrechten.md). Deze worden op dit moment niet expliciet genoemd en kunnen door toevoeging voor verheldering zorgen.
     
-    Meer informatie over generieke inkoopvoorwaarden die je kunt gebruiken, [lees je hier](../hulpmiddelen/inkoopvoorwaarden/index.html).
+    Meer informatie over [generieke inkoopvoorwaarden die je kunt gebruiken](../hulpmiddelen/inkoopvoorwaarden.md).
 	
 	Bron: [Contractvoorwaarden voor Algoritmen](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/contractvoorwaarden-algoritmen/)
 

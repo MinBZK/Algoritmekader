@@ -24,10 +24,5 @@ Het beheerteam zorgt ervoor dat dergelijke situaties worden voorkomen of opgelos
 <!-- list_maatregelen levenscyclus/monitoring-en-beheer no-rol no-levenscyclus no-search no-onderwerp -->
 
 
-!!! info "Disclaimer"
-
-    Het Algoritmekader is nog volop in ontwikkeling. Op deze plek willen we vooral aan de slag gaan op een open en transparante wijze. Het is dus niet definitief. Dat betekent dat er dingen opstaan die niet af zijn en soms zelfs fout. Mocht er iets niet kloppen, laat het ons weten via [GitHub](https://github.com/MinBZK/Algoritmekader).
-
-
 ## Help ons deze pagina te verbeteren
 Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/issues/new/choose) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

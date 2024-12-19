@@ -56,7 +56,7 @@ Met verantwoord datagebruik voorkom je:
 ### Bescherming van cruciale infrastructuurdata
 Niet alleen persoonsgegevens, maar ook gegevens over de Nederlandse infrastructuur vragen om verantwoord datagebruik. Dit omvat zowel fysieke infrastructuur, zoals wegen, bruggen, tunnels en energievoorzieningen, als digitale infrastructuur, zoals datakabels en datacentra.
 
-Het ongecontroleerd delen of gebruiken van deze gegevens, bijvoorbeeld voor het trainen van buitenlandse AI-toepassingen, kan risico’s opleveren voor de nationale veiligheid en de continuïteit van vitale systemen. Overheden en organisaties moeten deze data goed [beveiligen](technische-robuustheid-en-veiligheid.md) en duidelijke [kaders opstellen](../voldoen-aan-wetten-en-regels/maatregelen/0-org-02-beleid_opstellen_inzet_algoritmes.md) om verantwoord gebruik te waarborgen.
+Het ongecontroleerd delen of gebruiken van deze gegevens, bijvoorbeeld voor het trainen van buitenlandse AI-toepassingen, kan risico’s opleveren voor de nationale veiligheid en de continuïteit van vitale systemen. Overheden en organisaties moeten deze data goed [beveiligen](technische-robuustheid-en-veiligheid.md) en duidelijke [kaders opstellen](../voldoen-aan-wetten-en-regels/maatregelen/0-org-02-beleid-opstellen-inzet-algoritmes.md) om verantwoord gebruik te waarborgen.
 
 ## Vereisten { data-search-exclude }
 

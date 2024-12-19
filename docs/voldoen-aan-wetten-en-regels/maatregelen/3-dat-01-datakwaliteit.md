@@ -42,9 +42,9 @@ Stel vast of de gebruikte data van voldoende kwaliteit is voor de beoogde toepas
 
 - De vraag of de data kwaliteit voldoende is, hangt sterk samen met de vraag of er bias in de onderliggende data zit. Analyseer daarom ook welke bias en aannames er besloten zijn in de onderliggende data. Denk hierbij onder andere aan de volgende vormen van bias:
 
-    - [historische bias](../../onderwerpen/bias-en-non-discriminatie.md#verschillende-vormen-van-bias)
-    - [meetbias](../../onderwerpen/bias-en-non-discriminatie.md#verschillende-vormen-van-bias)
-    - [representatie bias](../../onderwerpen/bias-en-non-discriminatie.md#verschillende-vormen-van-bias)
+    - [historische bias](../../onderwerpen/bias-en-non-discriminatie.md#herken-bias)
+    - [meetbias](../../onderwerpen/bias-en-non-discriminatie.md#herken-bias)
+    - [representatie bias](../../onderwerpen/bias-en-non-discriminatie.md#herken-bias)
 
 - Zorg dat je data [vindbaar, toegankelijk, interoperabel en herbruikbaar (FAIR)](3-dat-02-fair-data.md) is.
 

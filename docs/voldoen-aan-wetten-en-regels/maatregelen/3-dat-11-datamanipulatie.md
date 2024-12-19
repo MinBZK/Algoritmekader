@@ -29,7 +29,7 @@ hide:
 De dataset die gebruikt wordt om een model te (her)trainen moet periodiek gecontroleerd worden op manipulatie (data poisoning). Voorkom ongewenste afhankelijkheden.
 
 ## Toelichting
-Dit type aanval wordt een “data poisoning” aanval genoemd [^1] [^2] [^3]. Een kwaadwillende kan op verschillende manieren te werk gaan:
+Manipulatie van data wordt een “data poisoning” aanval genoemd [^1] [^2] [^3]. Een kwaadwillende kan op verschillende manieren te werk gaan:
 
 - Bewust verkeerde informatie aan de dataset toevoegen. Dit is bijvoorbeeld mogelijk door als aanvaller zelf een foutieve dataset beschikbaar te stellen. Controleer daarom goed of een afgenomen dataset de kenmerken heeft die je verwacht. Daarnaast kun je ook nog verifiëren of bijvoorbeeld het proces waarmee de dataset vergaard is op de juiste manier is uitgevoerd. Tot slot is het verstandig om te voorkomen dat de dataset afhankelijk is van een enkele bron.
 - Een aanvaller kan een bestaande dataset aanpassen, door bijvoorbeeld labels om te draaien. In dit geval moet een aanvaller toegang krijgen tot de locatie van de dataset. Bescherming hiertegen begint met algemene beveiligingsmaatregelen, bijvoorbeeld zoals beschreven in de [BIO](../hulpmiddelen/BIO.md). Daarnaast moet er ook gekeken worden naar het voorkomen van een insider aanval. Dit kan door selectief te zijn in het verlenen van toegang tot de locatie van de data en bijvoorbeeld het toepassen van een vier-ogen principe.

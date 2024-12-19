@@ -24,7 +24,7 @@ Waar passend, bijvoorbeeld bij impactvolle of hoog risico AI-systemen wordt dit 
 
 <!-- list_vereisten levenscyclus/implementatie no-rol no-levenscyclus no-search no-onderwerp -->
 
-## Maatregelen { data-search-exclude }
+## Aanbevolen maatregelen { data-search-exclude }
 
 <!-- list_maatregelen levenscyclus/implementatie no-rol no-levenscyclus no-search no-onderwerp  -->
 

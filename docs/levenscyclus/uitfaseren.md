@@ -25,7 +25,7 @@ Gebruikers moeten hier vooraf over worden geïnformeerd en waar passend, bijvoor
 
 <!-- list_vereisten levenscyclus/uitfaseren no-rol no-levenscyclus no-search no-onderwerp -->
 
-## Maatregelen { data-search-exclude }
+## Aanbevolen maatregelen { data-search-exclude }
 
 <!-- list_maatregelen levenscyclus/uitfaseren no-rol no-levenscyclus no-search no-onderwerp -->
 

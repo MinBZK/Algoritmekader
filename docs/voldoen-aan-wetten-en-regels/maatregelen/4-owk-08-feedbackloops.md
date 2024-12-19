@@ -32,13 +32,13 @@ Deze feedbackloops kunnen een vertekend beeld van de werkelijkheid geven en de r
 
 Er zijn verschillende vormen van feedbackloops, die worden uitgelegd aan de hand van een voorbeeld van een algoritme dat de hoogte voor een bepaalde subsidie bepaalt.
 
-- *sampling feedbackloop*: Wanneer de beslissing die volgt uit het algoritme effect heeft op de kans dat bepaalde groepen in een volgende selectie terechtkomen. In het voorbeeld van de uitkering betekent dit bijvoorbeeld dat een bepaalde groep geen nieuwe aanvraag meer doet door een eerdere beslissing van het algoritme. 
+- *sampling feedbackloop*: Wanneer de beslissing die volgt uit het algoritme effect heeft op de kans dat bepaalde groepen in een volgende selectie terechtkomen. 
 
 - *individual feedbackloop*: Wanneer de mening of visie van een beoordelaar verandert door [het gebruiken van het algoritme](../../onderwerpen/bias-en-non-discriminatie.md#menselijke-bias)(het overnemen van de ‘vooroordelen van een systeem’). 
 
 - *feature feedbackloop*: Bijvoorbeeld wanneer de uitkomst dat een subsidie niet verstrekt wordt, ook als kenmerk ‘eerdere weigering van subsidie’ wordt gebruikt door het algoritme. 
 
-- *outcome feedbackloop*: Bijvoorbeeld wanneer burgers die een subsidie toebedeeld worden (uitkomst) hierdoor meer geld gaan uitgeven, waardoor ze ook eerder in geldnood komen. Dit kan zelfs gebeuren wanneer ze misschien zonder de subsidie niet in geldnood waren gekomen.
+- *outcome feedbackloop*: Wanneer burgers of bedrijven op basis van de uitkomst ander gedrag gaan vertonen. In het voorbeeld van de subsidie betekent dit bijvoorbeeld dat burgers hun uitgavepatroon veranderen. 
 
 - *machinelearning model feedbackloop*: Wanneer nieuwe data die beschikbaar komt, is beïnvloed door de beslissing van het algoritme zelf en deze data wordt gebruikt om een machinelearning model mee te (her)trainen. Een ander voorbeeld is wanneer alleen data wordt gebruikt van de personen die daadwerkelijk subsidie ontvangen om het algoritme op te (her)trainen. De groep die geen subsidie ontvangt ontbreekt dan in de dataset. 
 

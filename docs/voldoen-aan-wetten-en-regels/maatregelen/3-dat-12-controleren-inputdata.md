@@ -1,7 +1,7 @@
 ---
 title: Controleer de input van gebruikers op misleiding
 id: urn:nl:ak:mtr:dat-11
-toelichting: Controleer de input van gebruikers op misleiding.
+toelichting: Controleer de inputdata van gebruikers op misleiding.
 levenscyclus:
 - dataverkenning-en-datapreparatie
 - monitoring-en-beheer

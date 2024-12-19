@@ -38,5 +38,15 @@ Beschrijf de wettelijke grondslag voor de inzet van het algoritme en de beoogde 
 Het algoritme en beoogde besluiten voldoen niet aan wet- en regelgeving en intern beleid en kaders.
 
 ## Voorbeeld
-Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
+
+!!! example "Belastingdienst: Wegenrisico’s"
+
+  	_Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._
+    De Belastingdienst gebruikt een algoritme dat kijkt of een aangifte tot import van een voertuig correct is ingevuld. Het invullen van een aangifte is verplicht bij het importeren van een voertuig volgens de Wet op de belasting van personenauto's en motorrijwielen (BPM) 1992”). [De Belastingdienst geeft dus ook aan](https://algoritmes.overheid.nl/nl/algoritme/belasting-van-personenautos-en-motorrijwielen-wegenrisicos-bpm-wegenrisicos-belastingdienst/75246482#verantwoordGebruik) dat dit een van de wettelijke grondslagen is om hier een algoritme in te zetten. Dit wordt gedaan om de aangiften efficiënter en effectiever uit te voeren.
+    Voor ieder algoritme moet een eigen grondslag bepaald worden, het is dus niet mogelijk om een ‘one size fits all’ toepassing te hebben op deze maatregel.
+    
+    Bron: [Belasting van personenauto's en motorrijwielen - Wegenrisico’s (BPM - Wegenrisico’s) - Algoritmeregister])https://algoritmes.overheid.nl/nl/algoritme/belasting-van-personenautos-en-motorrijwielen-wegenrisicos-bpm-wegenrisicos-belastingdienst/75246482#verantwoordGebruik)
+
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
+
 

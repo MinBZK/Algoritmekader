@@ -1,7 +1,7 @@
 ---
 title: Bij uitfaseren en doorontwikkeling wordt correct omgegaan met data en modelinformatie.
 id: urn:nl:ak:mtr:uit-01
-toelichting: Verwijder gevoelige gegevens in het kader van privacy en gegevensbescherming, maar behoud essentiële modelinformatie  
+toelichting: Verwijder bij uitfasering van je algoritme gevoelige gegevens in het kader van privacy en gegevensbescherming, maar behoud essentiële modelinformatie.
 levenscyclus:
 - uitfaseren
 - ontwerp
@@ -25,7 +25,7 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-Verwijder gevoelige gegevens in het kader van [privacy en gegevensbescherming](../../onderwerpen/privacy-en-gegevensbescherming.md), maar behoud essentiële modelinformatie.
+Verwijder bij [uitfasering](../../levenscyclus/uitfaseren.md) van je algoritme gevoelige gegevens in het kader van [privacy en gegevensbescherming](../../onderwerpen/privacy-en-gegevensbescherming.md), maar behoud essentiële modelinformatie.
 
 ## Toelichting
 Als het doel van het algoritme niet langer bestaat, kan een algoritme (zowel data als model) uitgeschakeld of verwijderd worden. 

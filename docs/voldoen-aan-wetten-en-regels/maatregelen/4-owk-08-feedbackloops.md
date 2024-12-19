@@ -30,7 +30,7 @@ Deze feedbackloops kunnen een vertekend beeld van de werkelijkheid geven en de r
 
     Merk op dat feedbackloops ook een positief effect kunnen hebben, wanneer bijvoorbeeld gebruikerservaring wordt meegenomen in de doorontwikkeling van het algoritme. 
 
-Er zijn verschillende vormen van feedbackloops, die worden uitgelegd aan de hand van een voorbeeld van een algoritme dat de hoogte voor een bepaalde subsidie bepaalt.
+Er zijn verschillende vormen van feedbackloops:
 
 - *sampling feedbackloop*: Wanneer de beslissing die volgt uit het algoritme effect heeft op de kans dat bepaalde groepen in een volgende selectie terechtkomen. 
 

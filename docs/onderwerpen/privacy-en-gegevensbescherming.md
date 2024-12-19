@@ -30,8 +30,9 @@ De persoonsgegevens die overblijven, gebruik je zo minimaal mogelijk. Hoe minima
 * [Pseudonimiseren](https://www.autoriteitpersoonsgegevens.nl/themas/beveiliging/beveiliging-van-persoonsgegevens/gegevens-pseudonimiseren): data moeilijker herleidbaar maken naar personen
 * Aggregeren: data zoveel mogelijk combineren of samenvoegen tot 1 waarde, zoals een totaal of gemiddelde
 
-Tip
-Leg de keuzes die je maakt duidelijk uit. Zo voorkom je fouten op de werkvloer. Gevoelige persoonsgegevens voor doel A mag je bijvoorbeeld niet automatisch voor doel B gebruiken.
+!!! "tip" Tip
+
+    Leg de keuzes die je maakt duidelijk uit. Zo voorkom je fouten op de werkvloer. Gevoelige persoonsgegevens voor doel A mag je bijvoorbeeld niet automatisch voor doel B gebruiken.
 
 ## Belang van privacy en persoonsgegevens beschermen
 Algoritmes die persoonsgegevens verwerken, kunnen snel de privacy schenden van grote groepen mensen. Vooral [impactvolle algoritmes](../overhetalgoritmekader/impact-van-algoritmes.md) kunnen veel schade veroorzaken in de maatschappij.

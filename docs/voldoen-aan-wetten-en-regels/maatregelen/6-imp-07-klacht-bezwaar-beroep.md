@@ -42,10 +42,10 @@ Richt een proces in zodat burgers of andere belanghebbenden een klacht, bezwaar 
 !!! example "UWV: Klacht, melding en bezwaar"
 
     _Dit voorbeeld kan zonder veel aanpassingen in uw organisatie gebruikt worden._
-    Het UWV heeft een losse pagina met uitleg over wanneer het beste een klacht, melding of bezwaar gemaakt kan worden ([Melding, klacht of bezwaar | UWV](https://www.uwv.nl/nl/klacht-melding-bezwaar)). 
-    Hieronder valt bijvoorbeeld ook een klacht over de manier waarop het UWV een zaak behandeld. In deze uitleg worden verschillende manieren aangeboden om een klacht aan te bieden en hoe deze behandeld wordt. Daarnaast wordt gemonitord wat voor klachten binnen komen en zijn deze publiekelijk beschikbaar.
+    Het UWV heeft een losse pagina met uitleg over wanneer het beste een klacht, melding of bezwaar gemaakt kan worden. 
+    Hieronder valt bijvoorbeeld ook een klacht over de manier waarop het UWV een zaak behandelt. In deze uitleg worden verschillende manieren aangeboden om een klacht aan te bieden en hoe deze behandeld wordt. Daarnaast wordt gemonitord wat voor klachten binnen komen en zijn deze publiekelijk beschikbaar.
     
-    Bron: [Klacht over de dienstverlening van UWV](https://www.uwv.nl/nl/klacht-melding-bezwaar/klacht)
+    Bron: [Melding, klacht of bezwaar | UWV](https://www.uwv.nl/nl/klacht-melding-bezwaar)
 
 
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

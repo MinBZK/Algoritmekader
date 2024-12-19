@@ -74,8 +74,10 @@ Bias, discriminatie, de facto automatische besluitvorming.
 !!! example "Gemeente Utrecht: Handleiding Generatieve AI"
 
 	_Dit voorbeeld heeft een aantal aanpassingen nodig voordat deze in uw organisatie te gebruiken is. _
-	De gemeente Utrecht heeft in April 2024 een handleiding gepubliceerd voor Generatieve AI (GenAI), bijvoorbeeld ChatGPT. Hierin wordt uitgelegd hoe het systeem gebruikt kan worden, welke risico’s vastzitten aan het gebruik van GenAI om zo medewerkers dit te leren. Daarnaast wordt benoemd hoe de beslissingen rondom deze handleiding tot stand zijn gekomen. 
-	Deze handleiding is vrij breed opgesteld en zal dus voor een algoritme of AI-systeem binnen een organisatie anders opgesteld moeten worden. De opzet staat al en kan dus gebruikt worden maar moet dan per nieuwe toepassing aangepast worden.
+	De gemeente Utrecht heeft in April 2024 een handleiding gepubliceerd voor Generatieve AI (GenAI), bijvoorbeeld ChatGPT. Hierin wordt uitgelegd hoe het systeem gebruikt kan worden, om zo medewerkers uit te leggen welke risico’s vastzitten aan het gebruik van GenAI. Daarnaast wordt benoemd hoe de beslissingen rondom deze handleiding tot stand zijn gekomen. 
+
+	Deze handleiding is breed opgesteld en zal dus voor een specifiek algoritme binnen een organisatie aangepast moeten worden. De opzet voor een handleiding staat al en kan ter inspiratie gebruikt worden voor andere handleidingen.
+
 	
 	Bron: [Handleiding Generatieve AI - Gemeente Utrecht](https://stadszaken.nl/uploads/docs/Handleiding-Generatieve-AI-Gemeente-Utrecht.pdf)
 

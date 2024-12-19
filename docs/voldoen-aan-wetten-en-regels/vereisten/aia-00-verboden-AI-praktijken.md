@@ -1,13 +1,12 @@
 ---
 title: Verboden AI-systemen mogen niet worden gebruikt.
-id: urn:nl:ak:ver:aia-01
+id: urn:nl:ak:ver:aia-00
 toelichting: Als een AI-systeem valt onder een toepassingen zoals beschreven in Artikel 5 AI-Verordening, dan is het niet toegestaan om deze te gebruiken.  
 levenscyclus:
 - organisatieverantwoordelijkheden
 - probleemanalyse
 onderwerp: 
 - governance
-
 soort-toepassing:
 - ai-systeem
 risicogroep:
@@ -33,6 +32,7 @@ Afgezien van de vele nuttige toepassingen van AI kan zij ook worden misbruikt en
 Dergelijke praktijken zijn bijzonder schadelijk en abusief en moeten worden verboden omdat zij in strijd zijn met de waarden van de Unie, namelijk eerbied voor de menselijke waardigheid, vrijheid, gelijkheid, democratie en de rechtsstaat, en met de grondrechten van de Unie die zijn vastgelegd in het Handvest, waaronder het recht op non-discriminatie, gegevensbescherming en privacy, en de rechten van het kind.
 
 In de volgende gevallen gaat het om een verboden toepassing op grond van de AI-Verordening:
+
 - gebruik kan gaan maken van subliminale technieken om mensen onbewust of bewust kunnen manipuleren, waardoor ze beslissingen nemen die ze anders niet zouden hebben genomen?
 - gebruik kan gaan maken van kwetsbaarheden van individuen of specifieke groepen, zoals leeftijd, handicaps of sociale/economische omstandigheden, om het gedrag van die personen aanzienlijk te verstoren, wat kan leiden tot aanzienlijke schade bij henzelf of anderen?
 - gebruikt kan worden om natuurlijke personen of groepen gedurende een periode te evalueren of te classificeren op basis van hun sociale gedrag of afgeleide persoonlijke kenmerken?
@@ -43,10 +43,11 @@ In de volgende gevallen gaat het om een verboden toepassing op grond van de AI-V
 - gebruikt kan worden als een biometrisch systeem in de publieke ruimte voor identificatie op afstand in real-time, met het oog op de rechtshandhaving?
 
 Er zijn een tweetal uitzonderingen voor het inzetten van verbonden AI-systemen. Deze zijn:
+
 - Er is sprake van een rechtshandhavingsactiviteit i.v.m. een specifiek misdrijf (terrorisme, mensenhandel, seksuele uitbuiting van kinderen en materiaal over seksueel misbruik van kinderen, illegale handel in verdovende middelen en psychotrope stoffen, illegale handel in wapens, munitie en explosieven, moord, zware mishandeling, illegale handel in menselijke organen en weefsels, illegale handel in nucleaire en radioactieve stoffen, ontvoering, wederrechtelijke vrijheidsberoving en gijzeling, misdrijven die onder de rechtsmacht van het Internationaal Strafhof vallen, kaping van vliegtuigen/schepen, verkrachting, milieucriminaliteit, georganiseerde of gewapende diefstal, sabotage, deelneming aan een criminele organisatie die betrokken is bij een of meer van de bovengenoemde misdrijven).
 - Er is sprake van gerichte opsporing van specifieke slachtoffers, ontvoering, mensenhandel en seksuele uitbuiting van mensen, vermiste personen; of het voorkomen van bedreigingen voor het leven of de fysieke veiligheid van personen of het reageren op de huidige of voorzienbare dreiging van een terreuraanslag.
 
-Bepaal in een vroege fase en bij het [onderbouwen van het gebruik van een AI-systeem](1-pba-03-onderbouwen-gebruik-algoritme.md) of de beoogde toepassing is toegestaan. 
+Bepaal in een vroege fase en bij het [onderbouwen van het gebruik van een AI-systeem](../maatregelen/1-pba-03-onderbouwen-gebruik-algoritme.md) of de beoogde toepassing is toegestaan. 
 
 ## Bronnen 
 
@@ -65,4 +66,4 @@ Er ontstaat een onrechtmatige situatie voor een organisatie als deze AI inzet, d
 
 ## Maatregelen { data-search-exclude } 
 
-<!-- list_maatregelen vereiste/aia-01-verboden-AI-praktijken no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- list_maatregelen vereiste/aia-00-verboden-AI-praktijken no-search no-onderwerp no-rol no-levenscyclus -->

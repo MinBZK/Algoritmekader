@@ -1,6 +1,6 @@
 ---
 title: Stel beleid op voor een verantwoorde inzet van algoritmes binnen de organisatie. 
-id: urn:nl:ak:mtr:org-04
+id: urn:nl:ak:mtr:org-02
 toelichting: 
 levenscyclus:
 - organisatieverantwoordelijkheden

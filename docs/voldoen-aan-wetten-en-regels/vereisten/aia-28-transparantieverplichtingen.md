@@ -51,5 +51,5 @@ Bepaalde AI-systemen die bedoeld zijn om met natuurlijke personen te interageren
 
 ## Maatregelen { data-search-exclude }
 
-<!-- list_maatregelen vereiste/aia-28-transpaarantieverplichtingen no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- list_maatregelen vereiste/aia-28-transparantieverplichtingen no-search no-onderwerp no-rol no-levenscyclus -->
 

@@ -1,6 +1,6 @@
 ---
 title: Stel een protocol vast voor de situatie dat er (een vermoeden van) discriminatie door een algoritme is geconstateerd en pas dit wanneer nodig toe.
-id: urn:nl:ak:mtr:imp-10
+id: urn:nl:ak:mtr:org-15
 toelichting: Stel een protocol op voor de situatie dat er een vermoeden bestaat van discriminatie of als er geconstateerd wordt dat er sprake is van bevooroordeeldheid of discriminatie door een algoritme en pas dit protocol toe. 
 vereiste: 
 - grw-02-non-discriminatie

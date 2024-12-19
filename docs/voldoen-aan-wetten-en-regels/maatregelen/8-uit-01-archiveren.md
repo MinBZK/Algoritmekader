@@ -30,7 +30,7 @@ Verwijder bij [uitfasering](../../levenscyclus/uitfaseren.md) van je algoritme g
 ## Toelichting
 Als het doel van het algoritme niet langer bestaat, kan een algoritme (zowel data als model) uitgeschakeld of verwijderd worden. 
 Tegelijkertijd kan dit voor door het algoritme gemaakte beslissingen betekenen dat niet meer te achterhalen is welke data is gebruikt, en waarom het model deze zo beoordeeld heeft. 
-In de ontwerpfase van het algoritme wordt daarom [vastgelegd welke elementen bewaard dienen te worden en waarom](2-owp-08-archiveren-documenten.md).
+In de ontwerpfase van het algoritme wordt daarom [vastgelegd welke elementen bewaard dienen te worden en waarom](2-owp-09-archiveren-documenten.md).
 
 Door op een juiste manier om te gaan met uitfaseren, kan worden voorkomen dat de potentiële latere effecten van algoritme worden geadresseerd.
 De werking van een algoritme, en de manier waarop beslissingen in het verleden zijn genomen, blijven behouden. Dit zorgt voor transparantie en controleerbaarheid of auditeerbaarheid. 

@@ -37,14 +37,9 @@ Voer een risico-analyse met de aanbieder uit op het gebied van informatiebeveili
 - Bepaal of er, gezien de restrisico's, aanvullende beveiligingsmaatregelen (door de aanbieder of opdrachtgever) moeten worden getroffen om deze te beschermen.
 <<<<<<< HEAD
 
-## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
-=======
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
->>>>>>> main
 
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->

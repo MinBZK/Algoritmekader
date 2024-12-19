@@ -26,6 +26,7 @@ Juristen kunnen vroeg in het proces helpen om juridische problemen te voorkomen 
 * Privacy-jurist
 * Compliance-officer
 * Functionaris gegevensbescherming (FG)
+* Contractbeheerder
 
 ## Vereisten { data-search-exclude }
 

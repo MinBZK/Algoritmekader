@@ -31,7 +31,7 @@ Richt (technische) controlemechanismen in voor menselijke tussenkomst (of: mense
 
 ## Toelichting
 
-Algoritmes ondersteunen vaak beslissingen en besluitvorming van overheidsorganisaties. Deze beslissingen of besluiten kunnen betrokkenen in [aanmerkelijke mate raken of zelfs rechtsgevolgen](avg-10-recht-op-niet-geautomatiseerde-besluitvorming.md) hebben. Omdat algoritmes niet foutloos zijn, is het belangrijk dat een mens controleert wat een algoritme doet en, waar nodig, corrigeert. Dit proces heet 'menselijke tussenkomst' en moet betekenisvol zijn, niet slechts symbolisch.
+Algoritmes ondersteunen vaak beslissingen en besluitvorming van overheidsorganisaties. Deze beslissingen of besluiten kunnen betrokkenen in [aanmerkelijke mate raken of zelfs rechtsgevolgen](../vereisten/avg-10-recht-op-niet-geautomatiseerde-besluitvorming.md) hebben. Omdat algoritmes niet foutloos zijn, is het belangrijk dat een mens controleert wat een algoritme doet en, waar nodig, corrigeert. Dit proces heet 'menselijke tussenkomst' en moet betekenisvol zijn, niet slechts symbolisch.
 
 Het inrichten, monitoren en evalueren van menselijke controle is cruciaal om te voorkomen dat algoritmes negatieve effecten veroorzaken of de menselijke autonomie ondermijnen.
 
@@ -78,7 +78,7 @@ Het niet inrichten van passende menselijke controle leidt tot onverantwoorde inz
 ## Bronnen
 
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 2.01](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
-    - [Menselijke tussenkomst | Algoritmes | Algemene Rekenkamer](https://www.rekenkamer.nl/onderwerpen/algoritmes/toetsingskader/ethiek/menselijke-tussenkomst)
+- [Menselijke tussenkomst | Algoritmes | Algemene Rekenkamer](https://www.rekenkamer.nl/onderwerpen/algoritmes/toetsingskader/ethiek/menselijke-tussenkomst)
 - [Onderzoekskader Algoritmes Auditdienst Rijk, SV.5, SV.6](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) 
 - [Advies over geautomatiseerde selectietechniek Pels Rijcken, p.9](https://open.overheid.nl/documenten/6b5b5d5b-fdc1-4333-a11e-f89d3627a0f5/file)
 - [Recht op een menselijke blik bij besluiten | Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/privacyrechten-avg/recht-op-een-menselijke-blik-bij-besluiten#:~:text=Reactie%20op%20verzoek-,Geautomatiseerd%20besluit,noemen%20dit%20een%20geautomatiseerd%20besluit.)

@@ -45,12 +45,8 @@ Zonder dataminimalisatie loopt je organisatie het risico op onnodig hoge energie
 
     De Basisregistratie Personen (BRP) heeft in 2023 een experiment uitgevoerd rondom dataminimalisatie. BRP-gegevens zoals naam en geslacht werden vertaald naar direct bruikbare informatie zoals aanschrijfnaam. Op deze manier werd informatie op een efficiëntere manier doorgegeven.
     Het experiment van BRP is een indirecte vorm van energie-efficiëntie omdat er minder (onnodige) data verstrekt wordt aan de aanvrager. Hierdoor hoeft de aanvrager minder data op te slaan en te verwerken.
-
         
-    Bron: [Experimentbesluit BRP dataminimalisatie]([https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-voor-het-uitvoeringsinstituut-werknemersverzekeringen-uwv-voor](https://www.internetconsultatie.nl/experimentbesluitbrp/b1))
-
-
-
+    Bron: [Experimentbesluit BRP dataminimalisatie](https://www.internetconsultatie.nl/experimentbesluitbrp/b1)
 
 ## Bronnen
 - [Onderzoekskader Auditdienst Rijk, PRI.5](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)

@@ -44,9 +44,9 @@ Houd in elk geval rekening met:
 - [organisatieverantwoordelijkheden](../levenscyclus/organisatieverantwoordelijkheden.md): de minimale voorwaarden om te starten met algoritmes
 - [levenscyclus van algoritmes](../levenscyclus/index.md): waar je per fase op moet letten
 
+!!! tip "Tip" 
 
-> [!TIP]
-> Zorg dat iemand verantwoordelijk is voor algoritme-governance. En betrek stakeholders.
+    Zorg dat iemand verantwoordelijk is voor algoritme-governance. En betrek stakeholders.
 
 ## Vereisten
 

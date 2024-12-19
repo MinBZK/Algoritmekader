@@ -59,8 +59,9 @@ Voer de controles uit tijdens de [ontwikkelfas](../levenscyclus/ontwikkelen.md)e
 
 Blijf regelmatig controleren tijdens de fases [implementatie](../levenscyclus/implementatie.md) en [monitoring en beheer](../levenscyclus/monitoring-en-beheer.md). Dit zijn de fases waarin je het algoritme gebruikt. Presteert het algoritme niet goed, los het probleem dan op of [stop het gebruik](../levenscyclus/uitfaseren.md). 
 
-> [!TIP]
-> Houd rekening met concept drift. Dit betekent dat de eigenschappen van je data in de loop van de tijd kunnen veranderen. Hierdoor trekt je algoritme mogelijk verkeerde conclusies. Zo was er vóór 2020 een verband tussen thuiswerken en ziek zijn. Maar sinds de coronacrisis in 2020 is dit verband minder sterk, omdat gezonde mensen vaker thuiswerken. 
+!!! tip "Tip"
+    
+    Houd rekening met concept drift. Dit betekent dat de eigenschappen van je data in de loop van de tijd kunnen veranderen. Hierdoor trekt je algoritme mogelijk verkeerde conclusies. Zo was er vóór 2020 een verband tussen thuiswerken en ziek zijn. Maar sinds de coronacrisis in 2020 is dit verband minder sterk, omdat gezonde mensen vaker thuiswerken. 
 
 ## Bescherm algoritmes tegen aanvallen en bedreigingen
 Beveilig het ICT-systeem waarin het algoritme wordt gebruikt. Dit zijn bijvoorbeeld maatregelen uit de [Baseline Informatiebeveiliging Overheid (BIO)](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/) die je standaard neemt voor beveiliging van ICT-systemen tegen cyberaanvallen.

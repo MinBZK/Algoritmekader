@@ -26,6 +26,7 @@ Als je persoonsgegevens gebruikt voor algoritmes, moet je rekening houden met we
 Je organisatie beoordeelt zelf welke persoonsgegevens nodig zijn voor een bepaald doel. Dit kan lastig zijn. Want welke gegevens zijn bijvoorbeeld nodig als je vooraf niet weet welke verbanden het algoritme legt?
 
 De persoonsgegevens die overblijven, gebruik je zo minimaal mogelijk. Hoe minimaal dat is, bepaalt je organisatie zelf. Technieken om privacy zoveel mogelijk te beschermen zijn:
+
 * Anonimiseren: data zoveel mogelijk anoniem maken
 * [Pseudonimiseren](https://www.autoriteitpersoonsgegevens.nl/themas/beveiliging/beveiliging-van-persoonsgegevens/gegevens-pseudonimiseren): data moeilijker herleidbaar maken naar personen
 * Aggregeren: data zoveel mogelijk combineren of samenvoegen tot 1 waarde, zoals een totaal of gemiddelde
@@ -38,6 +39,7 @@ De persoonsgegevens die overblijven, gebruik je zo minimaal mogelijk. Hoe minima
 Algoritmes die persoonsgegevens verwerken, kunnen snel de privacy schenden van grote groepen mensen. Vooral [impactvolle algoritmes](../overhetalgoritmekader/impact-van-algoritmes.md) kunnen veel schade veroorzaken in de maatschappij.
 
 Wanneer je de privacy en persoonsgegevens van mensen goed beschermt, voorkom je:
+
 * Gebruik van persoonsgegevens voor het verkeerde doel, zoals het per ongeluk publiceren van iemands paspoortfoto op de website van een gemeente.
 * Discriminatie, bijvoorbeeld door onnodig gebruik van leeftijd in een algoritme.
 * Lekken van persoonsgegevens.

@@ -25,12 +25,12 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-Controleer de input van gebruikers op misleiding.
+Controleer de inputdata van gebruikers op misleiding.
 
 ## Toelichting
-Een algemeen belangrijke stap in cyberveiligheid is het valideren of een input voldoet aan de verwachting. 
+Een algemeen belangrijke stap in cyberveiligheid is het valideren of de inputdata voldoet aan de verwachting. 
 Zo moet gecontroleerd worden of de [input valide, compleet en consistent](3-dat-01-datakwaliteit.md) is. 
-Zo kan bijvoorbeeld geverifieerd worden of een leeftijd niet negatief is en of er geen tegenstrijdige informatie gegeven wordt. 
+Bijvoorbeeld door te verifiëren of een leeftijd niet negatief is en of er geen tegenstrijdige informatie gegeven wordt. 
 Dit wordt typisch “*input sanitization*” genoemd. 
 Veel programmeertalen en software bibliotheken bieden standaard oplossingen voor input sanitization.
 
@@ -41,7 +41,7 @@ Zo kan het herhaaldelijk gebruiken van dezelfde input waarden met minimale aanpa
 In het specifieke geval van generatieve AI moet er rekening gehouden worden met [*prompt injection attacks*](https://www.ibm.com/topics/prompt-injection). 
 Dit zijn aanvallen waarbij aanvallers een kwaadaardige opdracht dusdanig verhullen dat standaard checks het niet doorhebben en het model bijvoorbeeld gemanipuleerd wordt om desinformatie te verspreiden, gevoelige data te lekken of zelfs kwaadaardige software uit te voeren. 
 Op dit moment is nog weinig bekend over hoe dit over het algemeen effectief gemodereerd kan worden. 
-Echter kunnen in bepaalde situaties bepaalde opdrachten uitgesloten worden. 
+Echter kunnen in bepaalde situaties bepaalde opdrachten uitgesloten worden. Een ontwikkelaar zal dus moeten onderzoeken om wat voor opdrachten het gaat.
 Zo hoeft een AI-systeem dat een klantenservice ondersteunt waarschijnlijk nooit een stuk code uit te voeren. 
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
@@ -49,7 +49,7 @@ Zo hoeft een AI-systeem dat een klantenservice ondersteunt waarschijnlijk nooit 
     <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
-Een aanvaller kan bijvoorbeeld doelbewust een afwijkende input kiezen om het model om de tuin te leiden. 
+Als inputdata gemanipuleerd wordt dan kan dit leiden tot verkeerd gebruik van het algoritme. Een aanvaller kan bijvoorbeeld doelbewust een afwijkende input kiezen om ervoor te zorgen dat het algoritme op een andere manier gebruikt kan worden. 
 Daarnaast kunnen onbewuste fouten ertoe leiden dat het model niet meer goed functioneert.
 
 ## Bronnen

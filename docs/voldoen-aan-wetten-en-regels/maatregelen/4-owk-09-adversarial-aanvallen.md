@@ -1,5 +1,5 @@
 ---
-title: Ontwerp en train het algoritme om bestand te zijn tegen aanvallen
+title: Ontwerp en train het algoritme om bestand te zijn tegen (cyber)aanvallen
 id: urn:nl:ak:mtr:owk-09
 toelichting: Bescherm het algoritme zoveel mogelijk tegen kwetsbaarheden van adversarial AI-aanvallen. 
 levenscyclus:
@@ -7,6 +7,7 @@ levenscyclus:
 onderwerp:
 - technische-robuustheid-en-veiligheid
 rollen:
+- beleid-en-advies
 - ontwikkelaar
 vereiste:
 - aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging
@@ -23,13 +24,13 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-Bescherm het algoritme zoveel mogelijk tegen kwetsbaarheden van adversarial AI-aanvallen. 
+Ontwerp en train het algoritme om bestand te zijn tegen adversarial aanvallen.
 
 ## Toelichting
-De impact van een adversarial AI aanval hangt af van de [mate van autonomie](../ai-verordening.md#definitie-van-een-ai-systeem) waarmee een algoritme wordt ingezet. 
-Een algemene impact-beperkende maatregel is daarom om menselijke gebruikers duidelijke instructies mee te geven om de uitkomsten van de algoritmen te controleren.
+De impact van een adversarial AI-aanval hangt af van de [mate van autonomie](../ai-verordening.md#definitie-van-een-ai-systeem) waarmee een algoritme wordt ingezet. 
+Een algemene impact-beperkende maatregel is daarom om menselijke gebruikers duidelijke instructies mee te geven om de uitkomsten van de algoritmes te controleren.
 
-Voor de verschillende typen adversarial AI zijn specifieke maatregelen mogelijk: 
+Voor de verschillende typen adversarial AI-aanvallen zijn specifieke maatregelen mogelijk: 
 
 ### Poisoning aanval
 Bij een poisoning aanval wordt het AI-systeem vergiftigd doordat een aanvaller aanpassingen aan de trainingsdata doet, waardoor het AI-systeem fouten gaat maken. 
@@ -39,7 +40,7 @@ Maatregelen gericht op het [behoud van de integriteit van de trainingsdata](3-da
 ### Input- of evasion aanval
 Bij een input- of evasion aanval voegt een aanvaller hele kleine bewerkingen toe aan een input zodat een AI-systeem wordt misleid: het trekt een foute conclusie. 
 Een voorbeeld hiervan is het plakken van een gele post-it op een stopbord, waardoor een auto met AI gebaseerde omgevingsherkenning het bord niet meer goed kan herkennen en zijn snelheid aanpast. 
-Op evasion aanvallen kan geanticipeerd worden bij het testen van de [robuustheid](2-owp-34-technische-interventies-robuustheid.md) van algoritmen. Bijvoorbeeld door als onderdeel van een [representatieve testomgeving](5-ver-04-representatieve-testomgeving.md) ook rekening te houden met moedwillig, subtiel aangepaste input.
+Op evasion aanvallen kan geanticipeerd worden bij het testen van de [robuustheid](2-owp-34-technische-interventies-robuustheid.md) van algoritmes. Bijvoorbeeld door als onderdeel van een [representatieve testomgeving](5-ver-04-representatieve-testomgeving.md) ook rekening te houden met moedwillig, subtiel aangepaste input.
 
 ### Backdoor
 Een backdoor in een algoritme geeft een aanvaller er toegang toe en/of de mogelijkheid om deze te manipuleren. 

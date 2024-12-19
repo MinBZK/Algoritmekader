@@ -1,7 +1,7 @@
 ---
-title: Neem technische interventies in de UX om verkeerd gebruik te voorkomen
+title: Neem technische interventies op in de gebruikersinterface om verkeerd gebruik te voorkomen
 id: urn:nl:ak:mtr:imp-10
-toelichting: Zorg voor een user interface die robuust gebruik stimuleert en verkeerd gebruik voorkomt. Voorkom verwarring over hoe een applicatie waarin het algoritme verwerkt zit gebruikt moet worden. 
+toelichting: Zorg voor een gebruikersinterface die robuust gebruik stimuleert en verkeerd gebruik voorkomt. Voorkom verwarring over hoe een applicatie waarin het algoritme verwerkt zit gebruikt moet worden. 
 levenscyclus:
 - implementatie
 - ontwikkelen
@@ -23,11 +23,11 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-Zorg voor een user interface die robuust gebruik stimuleert en verkeerd gebruik voorkomt. Voorkom verwarring over hoe een applicatie waarin het algoritme verwerkt zit gebruikt moet worden. 
+Neem technische interventies op in de gebruikersinterface om verkeerd gebruik te voorkomen.
 
 ## Toelichting
 Een algoritme wat volledig correcte uitkomsten geeft maar vervolgens verkeerd wordt gebruikt kan leiden tot problemen. 
-Neem bijvoorbeeld een algoritme wat een tekstdocument controleert en voorstelt aan de gebruiker of dit compleet is, of nog onderdelen mist.
+Neem bijvoorbeeld een algoritme wat een tekstdocument controleert en voorstelt aan de gebruiker of het compleet is, of nog onderdelen mist.
 Wanneer je dan een ‘goedgekeurd’ knop rood maakt, en een ‘afgekeurd’ knop groen, is er een kans dat de gebruiker uit gewoonte op de verkeerde klikt en daarmee alsnog een onjuiste beslissing neemt. 
 Als deze keuze vervolgens als feedback ook weer wordt doorgevoerd in het systeem kan het algoritme ook nog verkeerd gedrag aanleren. 
 
@@ -69,7 +69,7 @@ Kijk vervolgens of deze interventies effectief zijn om fouten te voorkomen.
     <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
-Een user interface die verkeerd gebruik door gebruikers mogelijk maakt, kan ervoor zorgen dat gebruikers verkeerde invoerwaarden geven, zich niet aan de beoogde werkwijze houden of per ongeluk toegang geven aan kwaadwillenden.
+Een gebruikersinterface die verkeerd gebruik door gebruikers mogelijk maakt, kan ervoor zorgen dat gebruikers verkeerde invoerwaarden geven, zich niet aan de beoogde werkwijze houden of per ongeluk toegang geven aan kwaadwillenden.
 
 ## Bronnen
 - [Valid Useful User Experience Measurement ](https://www.academia.edu/28475349/Valid_Useful_User_Experience_Measurement)

@@ -1,7 +1,7 @@
 ---
 title: Controleer de data op manipulatie en ongewenste afhankelijkheden
 id: urn:nl:ak:mtr:dat-11
-toelichting: De dataset die gebruikt wordt om een model te trainen of updaten moet periodiek gecontroleerd worden op manipulatie (data poisoning). Voorkom ongewenste afhankelijkheden.
+toelichting: De dataset die gebruikt wordt om een model te (her)trainen moet periodiek gecontroleerd worden op manipulatie (data poisoning). Voorkom ongewenste afhankelijkheden.
 levenscyclus:
 - dataverkenning-en-datapreparatie
 - monitoring-en-beheer
@@ -26,7 +26,7 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-De dataset die gebruikt wordt om een model te trainen of updaten moet periodiek gecontroleerd worden op manipulatie (data poisoning). Voorkom ongewenste afhankelijkheden.
+De dataset die gebruikt wordt om een model te (her)trainen moet periodiek gecontroleerd worden op manipulatie (data poisoning). Voorkom ongewenste afhankelijkheden.
 
 ## Toelichting
 Dit type aanval wordt een “data poisoning” aanval genoemd [^1] [^2] [^3]. Een kwaadwillende kan op verschillende manieren te werk gaan:
@@ -35,7 +35,7 @@ Dit type aanval wordt een “data poisoning” aanval genoemd [^1] [^2] [^3]. Ee
 - Een aanvaller kan een bestaande dataset aanpassen, door bijvoorbeeld labels om te draaien. In dit geval moet een aanvaller toegang krijgen tot de locatie van de dataset. Bescherming hiertegen begint met algemene beveiligingsmaatregelen, bijvoorbeeld zoals beschreven in de [BIO](../hulpmiddelen/BIO.md). Daarnaast moet er ook gekeken worden naar het voorkomen van een insider aanval. Dit kan door selectief te zijn in het verlenen van toegang tot de locatie van de data en bijvoorbeeld het toepassen van een vier-ogen principe.
 - In lijn met het aanpassen van de dataset kan een aanvaller ook een deel van de dataset verwijderen. Dit is naar verwachting makkelijker te realiseren dan het selectief aanpassen van de data. Door bijvoorbeeld alle data over een bepaalde groep personen uit de dataset te verwijderen functioneert het model minder goed voor die groep. Controleer daarom of de dataset waarmee uiteindelijk getraind wordt precies hetzelfde is als de origineel bedoelde data. Dit kan bijvoorbeeld door middel van een handtekening die geverifieerd kan worden. 
 
-Op deze manieren kan een aanvaller een model algemeen slecht laten functioneren, of alleen fouten laten maken op specifiek gekozen invoerwaarden. Zo kan een aanvaller de trainingsdata zo beïnvloeden dat nummerborden met een stip altijd foutief gelezen worden waardoor criminelen kentekencontroles kunnen ontwijken. In dit geval wordt ook wel gesproken over een [“backdoor” aanval](4-owk-09-adversarial-aanvallen.md#backdoor).
+Op deze manieren kan een aanvaller een model slecht laten functioneren, of alleen fouten laten maken op specifiek gekozen invoerwaarden.  Een aanvaller kan de trainingsdata zo beïnvloeden dat nummerborden met een stip altijd foutief gelezen worden, waardoor criminelen kentekencontroles kunnen ontwijken. In dit geval wordt ook wel gesproken over een [“backdoor” aanval](4-owk-09-adversarial-aanvallen.md#backdoor).
 
 ### Adversarial traning
 Daarnaast kan het principe van [adversarial training](https://arxiv.org/abs/1611.01236) worden toegepast door zelf bewust foutieve invoerwaarden aan de trainingsdata toe te voegen. 

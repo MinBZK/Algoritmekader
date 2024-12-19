@@ -35,9 +35,9 @@ In traditionele cyber security wordt hiervoor de term [*red teaming*](https://ww
 
 ### Pentesting
 Met pentesting wordt in feite een interactie tussen een aanvaller en het algoritme nagebootst.  
-Verscheidene bedrijven die gespecialiseerd zijn in traditionele pentesting van IT systemen bieden nu ook specifiek pentesting van AI aan. 
+Verschillende bedrijven die gespecialiseerd zijn in traditionele pentesting van IT systemen bieden nu ook specifiek pentesting van AI aan. 
 Indien er voldoende kennis aanwezig is, is het mogelijk  dit zelf te implementeren. 
-Dit kan bijvoorbeeld met behulp van de open-source ontwikkelde [Adversarial Robustness Toolbox (ART)](https://research.ibm.com/projects/adversarial-robustness-toolbox) ontwikkeld door IBM (en nu in beer door de Linux Foundation).
+Dit kan bijvoorbeeld met behulp van de open-source ontwikkelde [Adversarial Robustness Toolbox (ART)](https://research.ibm.com/projects/adversarial-robustness-toolbox) ontwikkeld door IBM (en nu in beheer door de Linux Foundation).
 
 ### Top-10 security risico’s van LLM’s
 Het is lastig in te schatten met wat voor aanvallen er rekening gehouden moet worden voor een AI-systeem. 

@@ -22,7 +22,7 @@ Daarnaast zullen tal van (technische) maatregelen moeten worden getroffen zoals 
 
 <!-- list_vereisten levenscyclus/ontwikkelen no-rol no-levenscyclus no-search no-onderwerp -->
 
-## Maatregelen { data-search-exclude }
+## Aanbevolen maatregelen { data-search-exclude }
 
 <!-- list_maatregelen levenscyclus/ontwikkelen no-rol no-levenscyclus no-search no-onderwerp -->
 

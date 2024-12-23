@@ -84,7 +84,7 @@ In de [tijdlijn AI-verordening](tijdlijn-ai-verordening.md) vind je alle vereist
 
 * Nationale toezichthouders: houden toezicht op de meeste bepalingen en kunnen straffen opleggen (nog in oprichting in Nederland)
 * AI-bureau: houdt toezicht op de bepalingen voor modellen voor algemene doeleinden
-* AI-board: Europese raad voor artificiële intelligentie (nog in oprichting)
+* AI-board: Europese raad voor artificiële intelligentie
 * Wetenschappelijk panel: advies van wetenschappers
 * Adviesforum: advies van belanghebbenden
 

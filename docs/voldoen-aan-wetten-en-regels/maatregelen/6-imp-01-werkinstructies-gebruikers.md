@@ -54,7 +54,8 @@ Denk hierbij na over het eventueel bijscholen van medewerkers als het kennisnive
 <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen 
-<!-- Vul hier de relevante bronnen in voor deze maatregel -->
+??? expander "Bekijk alle vereisten"
+	<!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 3.07](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Ethics Guidelines of Trustworthy AI](https://op.europa.eu/en/publication-detail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a1)

@@ -23,7 +23,7 @@ hide:
 
     Maatregelen waarmee je kunt voldoen aan de vereisten voor overheden. Deze maatregelen zijn niet verplicht.
 
--   [__Aanbevolen hulpmiddelen__](hulpmiddelen/index.md)
+-   [__Hulpmiddelen__](hulpmiddelen/index.md)
 
     ---
 

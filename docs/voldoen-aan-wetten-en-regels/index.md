@@ -1,5 +1,5 @@
 ---
-title: Algoritmekader
+title: Voldoen aan wetten en regels
 summary: In het Algoritmekader staan alle regels, tips en hulpmiddelen voor verantwoord gebruik van algoritmes en AI door de overheid.
 hide:
   - toc

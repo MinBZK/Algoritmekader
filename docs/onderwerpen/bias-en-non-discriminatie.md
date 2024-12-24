@@ -26,7 +26,7 @@ Zo’n discriminerend effect ontstaat doordat het algoritme een verboden ondersc
 ### Uitzondering
 Een direct of indirect onderscheid is niet altijd verboden volgens [Artikel 2 Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=1&artikel=1&z=2020-01-01&g=2020-01-01). In bepaalde situaties en onder bepaalde strenge voorwaarden mag je zo’n onderscheid wel maken. 
 
-Direct onderscheid maken mag bijvoorbeeld als hiervoor een uitzondering staat in de wet. Zo mag je bijvoorbeeld in situaties waar het gaat om moederschap of zwangerschap onderscheid maken op basis van geslacht. 
+Direct onderscheid maken mag bijvoorbeeld als hiervoor een uitzondering staat in de wet. Zo mag je in situaties waar het gaat om moederschap of zwangerschap onderscheid maken op basis van geslacht. 
 
 Indirect onderscheid maken mag niet, tenzij hiervoor een wettelijke uitzondering geldt. Of je hebt een goede reden (objectieve rechtvaardiging). Selecteert je algoritme bijvoorbeeld alleen vrouwen voor een vacature, dan moet je hier een objectieve rechtvaardiging voor hebben. En het algoritme moet passend en noodzakelijk zijn om een doel te bereiken dat wettelijk is toegestaan. Anders is het discriminatie.
 
@@ -38,7 +38,7 @@ Het is erg moeilijk om discriminerende effecten te voorkomen. Discriminatiegrond
 ## Herken bias
 Bias herkennen is een belangrijke stap in het voorkomen van discriminerende effecten van algoritmes.
 
-'Bias' is een Engels woord voor vooroordeel of vooringenomenheid. Algoritmes met een bias maken steeds een bepaald soort fout. Volgens de norm [ISO/IEC TR 24027](https://www.nen.nl/iso-iec-tr-24027-2021-en-289193) bevat een algoritme bias wanneer ze bepaalde mensen, groepen of producten steeds (systematisch) op een verschillende manier. Dit verhoogt de kans op discriminatie.
+'Bias' is een Engels woord voor vooroordeel of vooringenomenheid. Algoritmes met een bias maken steeds een bepaald soort fout. Volgens de norm [ISO/IEC TR 24027](https://www.nen.nl/iso-iec-tr-24027-2021-en-289193) bevat een algoritme bias wanneer het bepaalde mensen, groepen of producten steeds (systematisch) op een verschillende manier behandelt. Dit verhoogt de kans op discriminatie.
 
 Alle algoritmes hebben vooroordelen en maken fouten, net als de mens. Wil je dit aanpakken, zoek dan naar bias in het algoritme zelf en in de mensen en processen om het algoritme heen. Een bias-vrij algoritme is niet mogelijk.
 
@@ -152,7 +152,7 @@ Ontdek je bias, dan wil je je algoritme of je aanpak verbeteren. Hoe je dat doet
 ## Let altijd op discriminerende effecten
 Het risico op bias en discriminatie blijft altijd bestaan. Je kunt dit niet in 1 keer wegnemen. 
 
-Houd daarom rekening met bias tijdens het ontwikkelen, inkopen en gebruiken van algoritmes. En controleer voortdurend of je algoritmes en je aanpak nog eerlijk en rechtvaardig zijn. Let hierop in alle fasen van de levenscyclus van het algoritme.
+Houd daarom rekening met bias tijdens het ontwikkelen, inkopen en gebruiken van algoritmes. En controleer voortdurend of je algoritmes en je aanpak nog eerlijk en rechtvaardig zijn. Let hierop in alle fasen van de [levenscyclus](../levenscyclus.index) van het algoritme.
     
 ## Vereisten { data-search-exclude }
 

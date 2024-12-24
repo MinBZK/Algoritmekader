@@ -152,7 +152,7 @@ Ontdek je bias, dan wil je je algoritme of je aanpak verbeteren. Hoe je dat doet
 ## Let altijd op discriminerende effecten
 Het risico op bias en discriminatie blijft altijd bestaan. Je kunt dit niet in 1 keer wegnemen. 
 
-Houd daarom rekening met bias tijdens het ontwikkelen, inkopen en gebruiken van algoritmes. En controleer voortdurend of je algoritmes en je aanpak nog eerlijk en rechtvaardig zijn. Let hierop in alle fasen van de [levenscyclus](../levenscyclus.md) van het algoritme.
+Houd daarom rekening met bias tijdens het ontwikkelen, inkopen en gebruiken van algoritmes. En controleer voortdurend of je algoritmes en je aanpak nog eerlijk en rechtvaardig zijn. Let hierop in alle fasen van de [levenscyclus](../levenscyclus/index.md) van het algoritme.
     
 ## Vereisten { data-search-exclude }
 

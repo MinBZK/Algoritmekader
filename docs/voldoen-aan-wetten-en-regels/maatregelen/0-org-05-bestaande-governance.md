@@ -59,7 +59,6 @@ De volgende vragen kunnen bedragen om bovenstaande inzichtelijk te krijgen:
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
 
 ## Voorbeelden
-Een concreet voorbeeld van samen optrekken is [deze handreiking](https://www.cip-overheid.nl/media/av0dmahv/20230614-gezamenlijk-gebruik-iama-en-model-dpia-rijksdienst-v1-0.pdf) om de IAMA en DPIA gezamelijk uit te voeren.
 
 !!! example "Voorbeeld: Ervaringen Kadaster" 
 
@@ -68,6 +67,17 @@ Een concreet voorbeeld van samen optrekken is [deze handreiking](https://www.cip
     3. Zorg dat interpretaties over wet- en regelgeving gelijk zijn binnen de organisatie en de collega’s die binnen de governance structuur samenwerken.
     4. Er is beleid gemaakt, maar in de praktijk is te weinig capaciteit om dit uit te voeren. Stel een realistisch beleidsplan op om de gestelde doelen daadwerkelijk te kunnen realiseren. 
     
-    _Centrale privacy officer Kadaster_
+    Bron: Centrale privacy officer Kadaster
 
+!!! example "Naam van overheid: Korte uitleg"
+	
+	_Dit voorbeeld kan zonder veel aanpassingen in uw organisatie gebruikt worden._ 
+
+	Binnen het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) is een handreiking opgesteld om twee verschillende instrumenten goed samen te kunnen gebruiken; Data Protection Impact Assessment (DPIA) en Impact Assessment Mensenrechten en Algoritmes (IAMA). 
+
+ 	Binnen deze handreiking wordt toegelicht wat overeenkomsten en verschillen tussen het IAMA en DPIA zijn. Daarnaast wordt aangegeven hoe deze gecombineerd kunnen worden. Het doel is om zo deze instrumenten op een efficiënte en gebruikersvriendelijke manier samen te kunnen gebruiken.
+
+	Bron: [Handreiking Algoritmen](https://www.amsterdam.nl/innovatie/digitalisering-technologie/handreikingen-playbooks/)
+ 
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
 

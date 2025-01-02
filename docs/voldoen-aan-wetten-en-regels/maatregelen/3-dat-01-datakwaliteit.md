@@ -73,7 +73,7 @@ Stel vast of de gebruikte data van voldoende kwaliteit is voor de beoogde toepas
 
 !!! example "Voorbeeld: Gemeente Rotterdam - Avola"
 	
-	_Dit voorbeeld heeft een aantal aanpassingen nodig voordat deze in uw organisatie te gebruiken is._ 
+	_Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._ 
 
 	In de Gemeente Rotterdam wordt gebruik gemaakt van een ondersteunend advies algoritme voor een toetsing voor recht op een uitkering, Avola. Dit algoritme maakt gebruik van beslisregels gebaseerd op wet- en regelgeving waarmee een advies aan een consulent van Werk en Inkomen gegeven wordt. De data waarop dit advies gebaseerd is, wordt gedeeltelijk door de burger zelf aangeleverd.
  

@@ -46,4 +46,15 @@ De ambtelijke organisatie maakt politieke-bestuurlijke afwegingen en beslissinge
 
 ## Voorbeeld
 
-[Besluit College van Burgemeester en Wethouders Gemeente Amsterdam](https://www.amsterdam.nl/bestuur-organisatie/college/nieuws/nieuws-24-januari-2024/) 
+!!! example "Gemeente Amsterdam: College van burgemeester en wethouders"
+
+	_Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._
+ 
+	Het college van burgemeester en wethouders (CBW) heeft in Januari 2024 een openbaar besluit gemaakt rondom het algoritme Slimme Check. Dit algoritme was bedoeld om de afdeling Handhaving te ondersteunen bij het inschatten van de onderzoekswaardigheid van aanvragen levensonderhoud. Het algoritme maakt een voorselectie van inkomende aanvragen en of deze eerst onderzocht moeten worden of in behandeling genomen kunnen worden. Bij een analyse van de pilot is de conclusie getrokken dat het model niet geïmplementeerd kon worden vanwege verschillende redenen. Er zouden meerdere veranderingen gedaan moeten worden om Slimme Check verder door te ontwikkelen.
+
+    Het CBW heeft aan de hand van deze eind evaluatie bepaald dat Slimme Check niet verder ontwikkeld wordt. Dit is gepubliceerd op de website van Gemeente Amsterdam naast besluiten en nieuws rondom andere zaken.
+    
+	Bron: [Nieuws uit B en W 24 januari 2024 - Gemeente Amsterdam](https://www.amsterdam.nl/bestuur-organisatie/college/nieuws/nieuws-24-januari-2024/)
+
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
+

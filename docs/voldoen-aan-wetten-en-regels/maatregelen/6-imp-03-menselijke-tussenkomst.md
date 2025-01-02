@@ -93,7 +93,24 @@ Het niet inrichten van passende menselijke controle leidt tot onverantwoorde inz
 
 ## Voorbeeld
 
-[HvJEU december 2023, ECLI:EU:C:2023:957 (SCHUFA Scoring)](https://curia.europa.eu/juris/document/document.jsf?text=&docid=280426&pageIndex=0&doclang=NL&mode=lst&dir=&occ=first&part=1&cid=7436066)
+!!! example "Hof van Justitie van de Europese Unie: Prejudiciële verwijzing"
+
+	_Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._
+ 
+    In 2021 heeft een burger SCHUFA (een Duits bedrijf wat kredietwaardigheid informatie deelt met derden) aangeklaagd naar aanleiding van een niet ingewilligd verzoek tot inzage en wissing van diens persoonsgegevens. De reden hiervoor kwam door een afwijzing van ondersteuning op basis van geautomatiseerde individuele besluitvorming. Zij maakten geen gebruik van betekenisvolle menselijke controle en dus is SCHUFA verantwoordelijk gehouden.
+
+	Bron: [HvJEU december 2023, ECLI:EU:C:2023:957 (SCHUFA Scoring)](https://eur-lex.europa.eu/legal-content/nl/TXT/?uri=CELEX:62021CJ0634)
+
+
+!!! example "Rijksdienst voor Ondernemend Nederland: Risicocontrole Subsidieaanvragen"
+
+	_Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._
+ 
+    De Rijksdienst voor Ondernemend Nederland (RVO) maakt gebruik van een algoritme bij het behandelen van subsidieaanvragen. Hierbij wordt bij iedere aanvraag een risico-indicatie gemaakt op basis van een aantal regels. Als er volgens het algoritme geen risico’s zijn wordt de aanvraag automatisch aangemaakt, zo niet wordt de aanvraag nog beoordeeld door een adviseur.
+
+    Daarnaast worden aanvragen met ingewikkelde technieken of boven een bepaald bedrag altijd door een adviseur beoordeeld. Op deze manier is er sprake van betekenisvolle menselijke controle.
+    
+	Bron: [Rijksdienst voor Ondernemend Nederland: Risicocontrole Subsidieaanvragen](https://algoritmes.overheid.nl/nl/algoritme/risicocontrole-sde-subsidieaanvragen-rijksdienst-voor-ondernemend-nederland/51892728#verantwoordGebruik)
 
 
 

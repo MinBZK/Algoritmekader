@@ -50,7 +50,8 @@ Richt algoritmegovernance in op basis van de risicoclassificatie van algoritmes.
 !!! example "Gemeente Rotterdam: Processchema governance"
 
     _Dit voorbeeld heeft een aantal aanpassingen nodig voordat deze in uw organisatie te gebruiken is._
-    Hieronder staat een schematische weergave van hoe de gemeente Rotterdam algoritme governance toe past. Zij kiezen ervoor om dit alleen toe te passen op hoog-risico AI volgens de definitie van de AI-Verordening. Voor laag-risico toepassingen gebruiken ze hun standaard governance protocol (1). 
+    
+    Hieronder staat een schematische weergave van hoe de gemeente Rotterdam algoritme governance toe past. Zij kiezen ervoor om dit alleen toe te passen op hoog-risico AI volgens de definitie van de AI-Verordening. Voor laag-risico toepassingen gebruiken ze hun standaard governance protocol (zie figuur hieronder). 
     Ongeacht het risico wordt er ook een drietal vragen gesteld voor **ieder** algoritme voor mogelijk uitgebreidere algoritme governance.
     * Is de werking van het algoritme niet volledig én beknopt uit te leggen aan een gemiddelde Rotterdammer? 
     * Ontbreekt er een menselijke beoordeling voordat de uitkomst van het algoritme in de praktijk wordt gebracht door middel van een concrete handeling van de gemeente? 
@@ -65,6 +66,7 @@ Richt algoritmegovernance in op basis van de risicoclassificatie van algoritmes.
 !!! example "Belastingdienst: Basis governance"
 
     _Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._
+    
     De belastingdienst heeft verschillende algoritmes en heeft hier governance voor. Zij geven aan eerst een basis algoritme governance in te richten (bijvoorbeeld voor low-risk). Zodra deze op operationeel niveau is kan deze worden geïmplementeerd en tijdens de implementatie kan deze bijgesteld worden. 
         
     Bron: Belastingdienst (Analytische en Cognitieve Technologie | CoE Cognitieve Oplossingen).

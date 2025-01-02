@@ -46,9 +46,19 @@ Zonder evaluatie van de kwaliteit van het algoritme is er geen goede sturing, be
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
+
+
+## Voorbeeld
+
+!!! example "Practiv=ce: Douane - Detecteren risico’s voor naleving vergunningsplicht"
+	
+	De douane maakt gebruik van een algoritme om te selecteren welke goederen een (extra) controle krijgen. Dit wordt gedaan op basis van aangiftegegevens die bedrijven aanleveren. Op basis van deze data wordt een vergelijking gemaakt met een bekend risicoprofiel. Deze risicoprofielen worden periodiek gecontroleerd aan de hand van de hoeveelheid kloppende controles. Daarnaast wordt ieder jaar per profiel gekeken of deze verfijnd, verlengd of beëindigd moeten worden. Op deze manier wordt regelmatig gecontroleerd of het algoritme nog van voldoende kwaliteit functioneert.	
+ 
+	Bron: [Detecteren risico’s voor naleving vergunningsplicht voor de uitvoer sanctiemaatregelen](https://algoritmes.overheid.nl/nl/algoritme/detecteren-risicos-voor-naleving-vergunningsplicht-voor-de-uitvoer-sanctiemaatregelen-douane/41675247#verantwoordGebruik)
+	
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
+
+
 ## Bronnen 
 - [Onderzoekskader Algoritmes Auditdienst Rijk, SV.15, SV.16, SV.17 ](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 1.08](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
-
-## Voorbeeld
-Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

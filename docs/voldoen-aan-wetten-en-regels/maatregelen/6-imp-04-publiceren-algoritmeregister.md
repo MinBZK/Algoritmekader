@@ -51,6 +51,12 @@ Betrokkenen zijn niet op de hoogte dat hun persoonsgegevens worden verwerkt met 
 
 
 ## Voorbeeld
-- [Gemeente Groningen, Algoritmeregister: Eerste Hulp bij Geldzaken](https://algoritmes.overheid.nl/nl/algoritme/eerste-hulp-bij-geldzaken-gemeente-groningen/55597555)
-- [Gemeente Amsterdam, Algoritemregister: Blurring as a Service](https://algoritmeregister.amsterdam.nl/ai-system/blurring-as-a-service/1132/)
-- [Juryrapport Best Beschreven Algoritme](https://algoritmes.pleio.nl/attachment/entity/ea60f239-dcaf-4eb0-9661-c2e7ffb633ea)
+!!! example "Jury Rapport: Best Beschreven Algoritme"
+
+	_Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._
+ 
+    In december 2023 is het juryrapport van Best Beschreven Algoritme uitgekomen binnen het Algoritme Register.  Zij hebben van de 13 genomineerde algoritmes een top 4 opgesteld waar uiteindelijk een winnaar uitgekomen is; Gemeente Groningen: Eerste Hulp bij Geldzaken. 
+    
+    Het algoritme heeft een heldere omschrijving rondom de technische en ethische aspecten. Daarnaast geeft het een volledig beeld voor burgers over de inzet en het gebruik van het algoritme. Dit wordt gedaan aan de hand van verwijzingen naar externe pagina’s voor meer uitleg.
+           
+    Bron: [Jury Rapport Best Beschreven Algoritme](https://aienalgoritmes.pleio.nl/attachment/entity/ea60f239-dcaf-4eb0-9661-c2e7ffb633ea)

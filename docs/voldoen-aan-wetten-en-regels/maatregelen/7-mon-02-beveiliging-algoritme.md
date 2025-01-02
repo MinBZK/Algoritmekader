@@ -49,13 +49,24 @@ Oneigenlijke toegang van buitenaf kan plaatsvinden via zwakheden in het systeem.
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
+
+## Voorbeeld
+
+!!! example "Voorbeeld: Nationaal Cyber Security Centrum - Richtlijnen veilig software ontwikkelen"
+	
+	_Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._
+
+     Het Nationaal Cyber Security Centrum van het ministerie van Justitie en Veiligheid heeft een publicatie over het ontwikkelen van veilige software. Hierin staat beschreven hoe op beleidsmatig en beheersingsniveau beveiligingsrichtlijnen toegepast kunnen worden. Daarnaast wordt het uitvoeringsdomein (voor implementatie) ook benoemd, maar wordt deze opgesplitst in webapplicaties en mobiele apps.
+
+     Deze beleids- en beheersingsrichtlijnen worden uitgewerkt per onderdeel om zo een duidelijk beeld te geven van hoe dit toegepast kan worden. De exacte toepassing zal verschillen per organisatie, dit document dient als basis.
+     
+    Bron: [Beleids- en beheersingsrichtlijnen voor de ontwikkeling van veilige software]( https://www.ncsc.nl/documenten/publicaties/2019/mei/01/beleids--en-beheersingsrichtlijnen-voor-de-ontwikkeling-van-veilige-software)
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
+
+
 ## Bronnen
 
 - [Baseline Informatiebeveiliging Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/)
 - [Onderzoekskader Algoritmes Auditdienst Rijk, IB.18 t/m IB.25](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [NCSC Handreiking voor implementatie van detectieoplossingen](https://www.ncsc.nl/documenten/publicaties/2019/mei/01/handreiking-voor-implementatie-van-detectie-oplossingen)
 - [Handleiding Quickscan Information Security](https://www.cip-overheid.nl/media/xhxglzi0/20180220-quickscan-bir2017.pdf)
-
-## Voorbeeld
-
-Heb jij een goed voorbeeld? Laat het ons weten!

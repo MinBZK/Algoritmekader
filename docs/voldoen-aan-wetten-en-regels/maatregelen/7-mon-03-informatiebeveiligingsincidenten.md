@@ -45,12 +45,22 @@ Te late reactie op incidenten kan ervoor zorgen dat de BIV (beschikbaarheid, int
 !!! example "Voorbeeld: Ministerie van Economische Zaken - Uitwijk- en herstelplan"
 
 	_Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._
-
-    Het ministerie van Economische zaken heeft een template voor een Disaster Recovery Plan (DRP) opgesteld. Aan de hand van dit document kunnen duidelijke handelingen en verantwoordelijkheden opgeschreven worden wanneer een algoritme stop gezet moet worden.
-
-    Dit DRP is vrij algemeen en heeft geen specificaties voor algoritmes in het template staan. Dit zal dus verder uitgewerkt moeten worden, maar dit DRP kan als basis dienen voor het verder uitwerken.
-    
+	
+	Het ministerie van Economische zaken heeft een template voor een Disaster Recovery Plan (DRP) opgesteld. Aan de hand van dit document kunnen duidelijke handelingen en verantwoordelijkheden opgeschreven worden wanneer een algoritme stop gezet moet worden.
+	
+	Dit DRP is vrij algemeen en heeft geen specificaties voor algoritmes in het template staan. Dit zal dus verder uitgewerkt moeten worden, maar dit DRP kan als basis dienen voor het verder uitwerken.
+	
 	Bron: [Uitwijk- en herstelplan](https://www.digitaltrustcenter.nl/informatie-advies/uitwijk-en-herstelplan)
+
+!!! example "Voorbeeld: Netwerk Informatiebeveiliging en Privacy - Incident Management"
+
+	_Dit voorbeeld heeft een aantal aanpassingen nodig voordat deze in uw organisatie te gebruiken is._
+
+	Het Netwerk Informatiebeveiliging en Privacy (IBP) voor primair en voortgezet onderwijs heeft een template voor incidentmanagementbeleid, het incidentmanagementproces en een beveiligingsincident stappenplan & logboek. In het proces template staat onder andere een procesflow, een beschrijving van alle processtappen en een communicatie plan.
+
+	Deze documenten zijn specifiek voor primair en voortgezet onderwijs maar zijn gemakkelijk aan te passen. Dit zijn met name meldingen zijn naar het IBP zijn die voor andere organisaties niet van toepassing zijn. 
+ 
+	Bron: [Incidentmanagement](https://aanpakibp.kennisnet.nl/incidentmanagement/#tools-en-voorbeelddocumenten)
 
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
 

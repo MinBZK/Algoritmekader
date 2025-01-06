@@ -64,6 +64,6 @@ Zorg voor politiek-bestuurlijk bewustzijn, betrokkenheid, en verantwoordelijkhei
 
 !!! example "Amsterdamse Visie op AI"
 
-    De gemeente Amsterdam heeft samen met bewoners, de A[msterdamse Visie op AI](https://www.amsterdam.nl/innovatie/amsterdamse-visie-ai/) gemaakt: een visie die ons helpt AI op een verantwoorde, betrouwbare en mensgerichte manier te gebruiken.
+    De gemeente Amsterdam heeft samen met bewoners, de [Amsterdamse Visie op AI](https://www.amsterdam.nl/innovatie/amsterdamse-visie-ai/) gemaakt: een visie die ons helpt AI op een verantwoorde, betrouwbare en mensgerichte manier te gebruiken.
 
 Heb je een voorbeeld of best practice, laat het ons weten via algoritmes@minbzk.nl

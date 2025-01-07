@@ -8,7 +8,7 @@ hide:
 Overheden die algoritmes gebruiken, moeten de persoonsgegevens van burgers beschermen. Hiervan gebruik je niet meer dan nodig is. En je beveiligt deze gegevens goed.
  
 ## Wat is het beschermen van privacy en persoonsgegevens in algoritmes?
-Overheidsalgoritmes mogen persoonsgegevens gebruiken, zolang je de privacy van burgers en bedrijven niet schendt. En wanneer je netjes omgaat met hun persoonsgegevens.
+Overheidsalgoritmes mogen persoonsgegevens gebruiken als hier een grondslag voor is, bijvoorbeeld omdat de verwerking wordt voorgeschreven in specifieke wetgeving of wanneer de verwerking noodzakelijk is voor een specifieke wettelijke taak. En wanneer je netjes omgaat met hun persoonsgegevens.
 Dit betekent:
 
 * [Verantwoord gebruik van data](data.md), zoals [rechtmatig persoonsgegevens](../voldoen-aan-wetten-en-regels/vereisten/avg-01-persoonsgegevens-worden-rechtmatig-verwerkt.md) gebruiken
@@ -23,7 +23,7 @@ Als je persoonsgegevens gebruikt voor algoritmes, moet je rekening houden met we
 * Gebruik alleen persoonsgegevens die je mag gebruiken voor het doel van je algoritme: je hebt toestemming van de eigenaar, of het mag volgens de wet.
 * Gebruik zo min mogelijk persoonsgegevens om dit doel bereiken. 
 
-Je organisatie beoordeelt zelf welke persoonsgegevens nodig zijn voor een bepaald doel. Dit kan lastig zijn. Want welke gegevens zijn bijvoorbeeld nodig als je vooraf niet weet welke verbanden het algoritme legt?
+Je organisatie moet aantoonbaar de verwerking beperken tot de persoonsgegevens die noodzakelijk zijn voor een duidelijk bepaald doel. Dit kan lastig zijn. Want welke gegevens zijn bijvoorbeeld nodig als je vooraf niet weet welke verbanden het algoritme legt?
 
 De persoonsgegevens die overblijven, gebruik je zo minimaal mogelijk. Hoe minimaal dat is, bepaalt je organisatie zelf. Technieken om privacy zoveel mogelijk te beschermen zijn:
 
@@ -33,12 +33,12 @@ De persoonsgegevens die overblijven, gebruik je zo minimaal mogelijk. Hoe minima
 
 !!! "tip" Tip
 
-    Leg de keuzes die je maakt duidelijk uit. Zo voorkom je fouten op de werkvloer. Gevoelige persoonsgegevens voor doel A mag je bijvoorbeeld niet automatisch voor doel B gebruiken.
+    Leg de keuzes die je maakt duidelijk uit. Zo voorkom je fouten op de werkvloer. Persoonsgegevens die zijn verzameld voor doel A mogen bijvoorbeeld alleen onder specifieke voorwaarden voor doel B gebruiken.
 
 ## Belang van privacy en persoonsgegevens beschermen
 Algoritmes die persoonsgegevens verwerken, kunnen snel de privacy schenden van grote groepen mensen. Vooral [impactvolle algoritmes](../overhetalgoritmekader/impact-van-algoritmes.md) kunnen veel schade veroorzaken in de maatschappij.
 
-Wanneer je de privacy en persoonsgegevens van mensen goed beschermt, voorkom je:
+Wanneer je de privacy en persoonsgegevens van mensen goed beschermt, verlaag je de kans op:
 
 * Gebruik van persoonsgegevens voor het verkeerde doel, zoals het per ongeluk publiceren van iemands paspoortfoto op de website van een gemeente.
 * Discriminatie, bijvoorbeeld door onnodig gebruik van leeftijd in een algoritme.

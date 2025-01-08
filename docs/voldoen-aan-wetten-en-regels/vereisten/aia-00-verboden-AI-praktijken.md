@@ -1,5 +1,5 @@
 ---
-title: Verboden AI-systemen mogen niet worden gebruikt.
+title: Verboden AI-systemen mogen niet worden gebruikt
 id: urn:nl:ak:ver:aia-00
 toelichting: Als een AI-systeem valt onder een toepassingen zoals beschreven in Artikel 5 AI-Verordening, dan is het niet toegestaan om deze te gebruiken.  
 levenscyclus:
@@ -31,7 +31,7 @@ Verboden AI-systemen mogen niet worden gebruikt.
 Afgezien van de vele nuttige toepassingen van AI kan zij ook worden misbruikt en nieuwe en krachtige instrumenten voor manipulatie, uitbuiting en sociale controle opleveren. 
 Dergelijke praktijken zijn bijzonder schadelijk en abusief en moeten worden verboden omdat zij in strijd zijn met de waarden van de Unie, namelijk eerbied voor de menselijke waardigheid, vrijheid, gelijkheid, democratie en de rechtsstaat, en met de grondrechten van de Unie die zijn vastgelegd in het Handvest, waaronder het recht op non-discriminatie, gegevensbescherming en privacy, en de rechten van het kind.
 
-In de volgende gevallen gaat het om een verboden toepassing op grond van de AI-Verordening:
+In de volgende gevallen gaat het om een verboden toepassing op grond van de AI-verordening:
 
 - gebruik kan gaan maken van subliminale technieken om mensen onbewust of bewust kunnen manipuleren, waardoor ze beslissingen nemen die ze anders niet zouden hebben genomen?
 - gebruik kan gaan maken van kwetsbaarheden van individuen of specifieke groepen, zoals leeftijd, handicaps of sociale/economische omstandigheden, om het gedrag van die personen aanzienlijk te verstoren, wat kan leiden tot aanzienlijke schade bij henzelf of anderen?
@@ -57,7 +57,7 @@ Bepaal in een vroege fase en bij het [onderbouwen van het gebruik van een AI-sys
 
 [Handreiking identificatie verboden AI-systemen (Powerpoint-bestand)](https://github.com/user-attachments/files/18179666/Handreiking_Uitvraag_VBSystemen.pptx)
 
-## Wanneer van toepassing? 
+## Van toepassing op
 <!-- tags-ai-act -->
 
 ## Risico 

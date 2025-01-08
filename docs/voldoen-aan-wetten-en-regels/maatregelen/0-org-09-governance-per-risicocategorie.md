@@ -14,6 +14,8 @@ hide:
 - toc
 ---
 
+<!-- tags -->
+
 ## Maatregel
 Richt algoritmegovernance in op basis van de risicoclassificatie van algoritmes.
 

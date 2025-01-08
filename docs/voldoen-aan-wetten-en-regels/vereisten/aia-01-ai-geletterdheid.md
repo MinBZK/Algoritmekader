@@ -2,7 +2,6 @@
 title: Personeel en gebruikers zijn voldoende AI-geletterd.
 id: urn:nl:ak:ver:aia-01
 toelichting: Aanbieders en gebruiksverantwoordelijken van AI-systemen moeten ervoor zorgen dat hun personeel en andere betrokkenen voldoende kennis hebben van AI. 
-
 levenscyclus: 
 - organisatieverantwoordelijkheden
 onderwerp: 

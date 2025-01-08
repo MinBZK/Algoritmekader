@@ -13,7 +13,7 @@ soort-toepassing:
 - ai-systeem-voor-algemene-doeleinden
 rol-ai-act:
 - aanbieder
-publicatiecategorie:
+risicogroep:
 - hoog-risico-ai-systeem
 hide:
 - navigation

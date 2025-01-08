@@ -32,7 +32,7 @@ def on_page_markdown(markdown: str, *, page: Page, config: MkDocsConfig, files: 
         # Replace callback
     def replace_ai_act(_: Match):
         buttons = []
-        for type in ["soort-toepassing", "risicogroep", "rol-ai-act"]:
+        for type in ["soort-toepassing", "risicogroep", "rol-ai-act", "transparantieverplichting"]:
             field = page.meta.get(type, [])
 
             if isinstance(field, str):
@@ -81,7 +81,8 @@ def flag(type: str, arg: str, page: Page, files: Files):
         return _badge_risicogroep(page, files, arg)
     elif  type == "rol-ai-act":
         return _badge_rol_ai_act(page, files, arg)
-
+    elif  type == "transparantieverplichting":
+        return _badge_transparantieverplichting(page, files, arg)
     return ""
 
 
@@ -187,6 +188,16 @@ def _badge_rol_ai_act(page: Page, files: Files, rol: str):
     href_rol_ai_act = _resolve_path("overhetalgoritmekader/soorten-algoritmes.md", page, files)
     return _badge(
         icon=f"[:{icon}:]({href_rol_ai_act} 'Rol AI-verordening')",
+        text=f"[{rol.capitalize().replace('-', ' ')}]({href_rol_ai_act})",
+        color="blue",
+    )
+
+# Create badge for transparantieverplichting
+def _badge_transparantieverplichting(page: Page, files: Files, rol: str):
+    icon = "material-magnify"
+    href_rol_ai_act = _resolve_path("overhetalgoritmekader/risico-van-ai-systemen.md#risico-op-misleiding", page, files)
+    return _badge(
+        icon=f"[:{icon}:]({href_rol_ai_act} 'Transparantieverplichting AI-verordening')",
         text=f"[{rol.capitalize().replace('-', ' ')}]({href_rol_ai_act})",
         color="blue",
     )

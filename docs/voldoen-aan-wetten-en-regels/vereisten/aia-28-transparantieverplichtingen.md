@@ -15,6 +15,8 @@ risicogroep:
 - geen-hoog-risico-ai-systeem
 rol-ai-act:
 - aanbieder
+transparantieverplichting:
+- transparantieverplichting
 rollen:
 - projectleider
 - ontwikkelaar

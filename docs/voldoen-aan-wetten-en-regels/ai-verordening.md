@@ -69,6 +69,28 @@ De AI-verordening deelt AI-systemen op in 3 [risicogroepen](../overhetalgoritmek
 * Hoog-risico-AI-systemen
 * Verboden AI-systemen
 
+## Rollen uit de AI-verordening
+De AI-verordening geldt zowel voor ontwikkelaars van AI-systemen als voor organisaties en bedrijven die AI-systemen gebruiken. Afhankelijk van jouw rol bij het AI-systeem gelden er verschillende verplichtingen. De meeste verplichtingen gelden voor de ontwikkelaars van AI-systemen. 
+
+De AI-verordening gebruikt hiervoor de volgende termen:
+
+### Aanbieder (ontwikkelaar)
+Dit is de organisatie die het AI-systeem ontwikkelt.  
+
+!!! warning "Let op!"
+
+  Je bent ook een aanbieder als je een AI-systeem laat ontwikkelen en het systeem in de handel brengt of in gebruik stelt onder de eigen naam of merk. Of wanneer je een substantiele wijziging aanbrengt in het AI-systeem dat al in gebruik is genomen. Lees meer in [Overweging 84](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#rct_1)
+
+### Gebruiksverantwoordelijke
+Dit is de organisatie die het AI-systeem onder eigen verantwoordelijkheid gebruikt.
+
+!!! note "Opmerking"
+
+  Als je het AI-systeem dat je gebruikt ook zelf hebt ontwikkeld, dan ben je zowel aanbieder als gebruiksverantwoordelijke. 
+
+## Andere rollen
+De AI-verordening definieert ook andere rollen zoals importeur, distributeur of gemachtigde. Deze zijn voor overheden meestal niet van toepassing. 
+
 ## Tijdlijn
 De AI-verordening trad in werking op 1 augustus 2024 en gaat stap voor stap gelden:
 

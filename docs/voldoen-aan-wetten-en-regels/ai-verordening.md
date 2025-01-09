@@ -72,7 +72,7 @@ De AI-verordening deelt AI-systemen op in 3 [risicogroepen](../overhetalgoritmek
 ## Rollen uit de AI-verordening
 De AI-verordening geldt zowel voor ontwikkelaars van AI-systemen als voor organisaties en bedrijven die AI-systemen gebruiken. Afhankelijk van jouw rol bij het AI-systeem gelden er verschillende verplichtingen. De meeste verplichtingen gelden voor de ontwikkelaars van AI-systemen. 
 
-De AI-verordening gebruikt hiervoor de volgende termen:
+De belangrijkste begrippen die de AI-verordening hiervoor gebruikt zijn: aanbieder en gebruiksverantwoordelijke. 
 
 ### Aanbieder
 Dit is de organisatie die het AI-systeem ontwikkelt.  

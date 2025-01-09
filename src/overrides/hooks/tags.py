@@ -163,41 +163,51 @@ def _badge_onderwerp(page: Page, files: Files, blok: str):
     )
 
 # Create badge for soort-toepassing
-def _badge_soort_toepassing(page: Page, files: Files, rol: str):
+def _badge_soort_toepassing(page: Page, files: Files, soort: str):
     icon = "material-graph"
     href_soort_toepassing = _resolve_path("overhetalgoritmekader/soorten-algoritmes.md", page, files)
+    if soort == "ai-systeem":
+        href_fase = _resolve_path("voldoen-aan-wetten-en-regels/ai-verordening.md#ai-systeem", page, files)
+    elif soort == "ai-systeem-voor-algemene-doeleinden":
+        href_fase = _resolve_path("voldoen-aan-wetten-en-regels/ai-verordening.md#ai-model-voor-algemene-doeleinden", page, files)
+    elif soort == "ai-model-voor-algemene-doeleinden":
+        href_fase = _resolve_path("voldoen-aan-wetten-en-regels/ai-verordening.md#ai-model-voor-algemene-doeleinden", page, files)
+    elif soort == "impactvol-algoritme":
+         href_fase = _resolve_path("overhetalgoritmekader/impact-van-algoritmes.md", page, files)
     return _badge(
         icon=f"[:{icon}:]({href_soort_toepassing} 'Soort toepassing')",
-        text=f"[{rol.replace('-', ' ').replace('ai ', 'AI-')}]({href_soort_toepassing})",
+        text=f"[{soort.replace('-', ' ').replace('ai ', 'AI-')}]({href_fase})",
         color="blue",
     )
 
 # Create badge for risicogroep
-def _badge_risicogroep(page: Page, files: Files, rol: str):
+def _badge_risicogroep(page: Page, files: Files, risicogroep: str):
     icon = "material-alert"
-    href_risicogroep = _resolve_path("overhetalgoritmekader/soorten-algoritmes.md#risicogroepen-ai-systemen", page, files)
+    href_risicogroep = _resolve_path("voldoen-aan-wetten-en-regels/ai-verordening.md#risicogroepen", page, files)
+    href_fase = _resolve_path(f"overhetalgoritmekader/risico-van-ai-systemen.md#{risicogroep}", page, files)
     return _badge(
         icon=f"[:{icon}:]({href_risicogroep} 'Risicogroep')",
-        text=f"[{rol.replace('-', ' ').replace('ai', 'AI').replace('AI ', 'AI-')}]({href_risicogroep})",
+        text=f"[{risicogroep.replace('-', ' ').replace('ai', 'AI').replace('AI ', 'AI-')}]({href_fase})",
         color="blue",
     )
 
 # Create badge for rol-ai-act
 def _badge_rol_ai_act(page: Page, files: Files, rol: str):
     icon = "material-account-details"
-    href_rol_ai_act = _resolve_path("overhetalgoritmekader/soorten-algoritmes.md", page, files)
+    href_rol_ai_act = _resolve_path("voldoen-aan-wetten-en-regels/ai-verordening.md#rollen-uit-de-ai-verordening", page, files)
+    href_fase = _resolve_path(f"voldoen-aan-wetten-en-regels/ai-verordening.md#{rol}", page, files)
     return _badge(
         icon=f"[:{icon}:]({href_rol_ai_act} 'Rol AI-verordening')",
-        text=f"[{rol.capitalize().replace('-', ' ')}]({href_rol_ai_act})",
+        text=f"[{rol.capitalize().replace('-', ' ')}]({href_fase})",
         color="blue",
     )
 
 # Create badge for transparantieverplichting
 def _badge_transparantieverplichting(page: Page, files: Files, rol: str):
     icon = "material-magnify"
-    href_rol_ai_act = _resolve_path("overhetalgoritmekader/risico-van-ai-systemen.md#risico-op-misleiding", page, files)
+    href_transparantieverplichting = _resolve_path("overhetalgoritmekader/risico-van-ai-systemen.md#risico-op-misleiding", page, files)
     return _badge(
-        icon=f"[:{icon}:]({href_rol_ai_act} 'Transparantieverplichting AI-verordening')",
-        text=f"[{rol.capitalize().replace('-', ' ')}]({href_rol_ai_act})",
+        icon=f"[:{icon}:]({href_transparantieverplichting} 'Transparantieverplichting AI-verordening')",
+        text=f"[{rol.capitalize()}]({href_transparantieverplichting})",
         color="blue",
     )

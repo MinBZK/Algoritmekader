@@ -34,6 +34,7 @@ Dit is eveneens van toepassing als persoonsgegevens worden verwerkt bij het ontw
 
 ## Wanneer van toepassing? 
 <!-- tags-ai-act -->
+Deze vereiste is waarschijnlijk van toepassing op jouw situatie. Controleer de wetgeving uit de [bronnen](#bronnen) om dit zeker te weten. 
 
 ## Risico
 Door privacy en gegevensbescherming door ontwerp en standaardinstellingen niet toe te passen, kan een inbreuk op rechten van betrokkenen ontstaan.

@@ -53,6 +53,7 @@ Gebruiksverantwoordelijken van AI-systemen met een hoog risico gebruiken die inf
 
 ## Wanneer van toepassing? 
 <!-- tags-ai-act --> 
+Deze vereiste is waarschijnlijk van toepassing op jouw situatie. Controleer de wetgeving uit de [bronnen](#bronnen) om dit zeker te weten. 
 
 ## Risico 
 Het niet evalueren van de impact van het verwerking van persoonsgegevens in algoritmes kan resulteren in het niet onderkennen van de bijbehorende risico's  en het niet op tijd te mitigieren van deze risico's.

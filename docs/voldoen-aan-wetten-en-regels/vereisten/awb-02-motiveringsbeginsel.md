@@ -52,6 +52,7 @@ Het motiveringsbeginsel op grond van de Awb is beperkt tot besluiten in de zin v
 
 ## Wanneer van toepassing? 
 <!-- tags-ai-act -->
+Deze vereiste is waarschijnlijk van toepassing op jouw situatie. Controleer de wetgeving uit de [bronnen](#bronnen) om dit zeker te weten. 
 
 ## Risico
 Het is onduidelijk op wat voor manier het algoritmes heeft bijgedragen aan de totstandkoming van een besluit. 

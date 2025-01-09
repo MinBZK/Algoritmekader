@@ -37,6 +37,8 @@ Op basis van deze informatie moet bijvoorbeeld gereconstrueerd kunnen worden hoe
 ## Wanneer van toepassing? 
 <!-- tags-ai-act --> 
 
+Deze vereiste is waarschijnlijk van toepassing op jouw situatie. Controleer de wetgeving uit de [bronnen](#bronnen) om dit zeker te weten. 
+
 ## Risico 
 
 Zonder goede het goede, geordende en toegankelijke staat brengen en bewaren van gegevens is het voor betrokkene(n) of derden niet mogelijk om achteraf te reconstrueren en te controleren hoe besluiten, waar algoritmes aan hebben bijgedragen, tot stand zijn gekomen.

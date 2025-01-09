@@ -61,6 +61,7 @@ Een AI-model voor algemene doeleinden (GPAI):
 * traint zichzelf op basis van grote hoeveelheden data
 * kan content maken zoals teksten, audio en video
 
+Een AI-systeem dat is gebaseerd op een AI-model voor algemene doeleinden, noemen we een *AI-systeem voor algemene doeleinden*. 
 
 ## Risicogroepen
 De AI-verordening deelt AI-systemen op in 3 [risicogroepen](../overhetalgoritmekader/risico-van-ai-systemen.md). Hoe groter het risico voor de samenleving, hoe strenger de regels uit de AI-verordening. Het hangt ervan af waarvoor je dit AI-systeem gebruikt:

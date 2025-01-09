@@ -45,7 +45,7 @@ Dit geldt voor AI-systemen die:
 - Overweging 132 Verordening Artificiële Intelligentie
 - Overweging 134 Verordening Artificiële Intelligentie
 
-## Wanneer van toepassing? 
+## Van toepassing op 
 <!-- tags-ai-act -->
 
 ## Risico

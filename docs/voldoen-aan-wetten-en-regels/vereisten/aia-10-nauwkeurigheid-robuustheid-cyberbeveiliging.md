@@ -50,7 +50,7 @@ Om te zorgen voor een niveau van cyberbeveiliging dat aansluit op de risico’s,
 
 [Artikel 15 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3752-1-1)
 
-## Wanneer van toepassing? 
+## Van toepassing op 
 <!-- tags-ai-act -->
 
 

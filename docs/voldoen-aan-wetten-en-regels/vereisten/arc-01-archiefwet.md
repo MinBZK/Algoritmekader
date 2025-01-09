@@ -34,10 +34,10 @@ Op basis van deze informatie moet bijvoorbeeld gereconstrueerd kunnen worden hoe
 - [Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&z=2020-01-01&g=2020-01-01)
 - [Archiefregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&z=2014-01-01&g=2014-01-01)
 
-## Wanneer van toepassing? 
+## Van toepassing op 
 <!-- tags-ai-act --> 
 
-Deze vereiste is waarschijnlijk van toepassing op jouw situatie. Controleer de wetgeving uit de [bronnen](#bronnen) om dit zeker te weten. 
+
 
 ## Risico 
 

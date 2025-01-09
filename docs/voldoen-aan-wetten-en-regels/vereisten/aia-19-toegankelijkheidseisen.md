@@ -44,7 +44,7 @@ Richtlijn 2019/882 strekt ertoe een bijdrage te leveren tot het goed functionere
 - EU-richtlijn 2016/2102
 - EU-richtlijn 2019/882
 
-## Wanneer van toepassing? 
+## Van toepassing op 
 <!-- tags-ai-act -->
 
 

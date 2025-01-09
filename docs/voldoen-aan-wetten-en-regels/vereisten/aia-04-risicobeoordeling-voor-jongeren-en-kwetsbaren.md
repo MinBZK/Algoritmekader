@@ -38,7 +38,7 @@ Er moet een grondige risicoanalyse plaatsvinden en worden vertaald naar mitigere
 
 [Artikel 9(9) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3241-1-1)
 
-## Wanneer van toepassing? 
+## Van toepassing op 
 <!-- tags-ai-act -->
 
 

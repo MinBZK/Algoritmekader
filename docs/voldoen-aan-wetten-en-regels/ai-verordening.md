@@ -79,7 +79,7 @@ Dit is de organisatie die het AI-systeem ontwikkelt.
 
 !!! warning "Let op!"
 
-  Je bent ook een aanbieder als je een AI-systeem laat ontwikkelen en het systeem in de handel brengt of in gebruik stelt onder de eigen naam of merk. Of wanneer je een substantiele wijziging aanbrengt in het AI-systeem dat al in gebruik is genomen. Lees meer in [Overweging 84](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#rct_1)
+  Je bent ook een aanbieder als je een AI-systeem laat ontwikkelen en het systeem in de handel brengt of in gebruik stelt onder de eigen naam of merk. Of wanneer je een substantiele wijziging aanbrengt in het AI-systeem dat al in gebruik is genomen. Lees meer in [Overweging 84](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#rct_1) van de AI-verordening.
 
 ### Gebruiksverantwoordelijke
 Dit is de organisatie die het AI-systeem onder eigen verantwoordelijkheid gebruikt.

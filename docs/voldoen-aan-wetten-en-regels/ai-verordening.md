@@ -74,7 +74,7 @@ De AI-verordening geldt zowel voor ontwikkelaars van AI-systemen als voor organi
 
 De AI-verordening gebruikt hiervoor de volgende termen:
 
-### Aanbieder (ontwikkelaar)
+### Aanbieder
 Dit is de organisatie die het AI-systeem ontwikkelt.  
 
 !!! warning "Let op!"

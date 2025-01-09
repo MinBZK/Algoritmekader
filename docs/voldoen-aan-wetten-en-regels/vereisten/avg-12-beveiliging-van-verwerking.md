@@ -33,6 +33,7 @@ Per toepassing moet worden onderzocht welke maatregelen hiervoor geschikt zijn.
 
 ## Wanneer van toepassing? 
 <!-- tags-ai-act --> 
+Deze vereiste is waarschijnlijk van toepassing op jouw situatie. Controleer de wetgeving uit de [bronnen](#bronnen) om dit zeker te weten. 
 
 ## Risico 
 Er kunnen risico's ontstaan zoals potentiële cyberaanvallen en datalekken.

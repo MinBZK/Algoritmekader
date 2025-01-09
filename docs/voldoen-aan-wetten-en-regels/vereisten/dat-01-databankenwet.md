@@ -33,6 +33,7 @@ Voor het ontwikkelen van algoritme is data nodig. De data die hiervoor wordt geb
 
 ## Wanneer van toepassing? 
 <!-- tags-ai-act -->
+Deze vereiste is waarschijnlijk van toepassing op jouw situatie. Controleer de wetgeving uit de [bronnen](#bronnen) om dit zeker te weten. 
 
 ## Risico
 Als een ontwikkelaar onbevoegd gebruik heeft gemaakt van data uit een databank bij de ontwikkeling van algoritmes, wordt het databankenrecht geschonden van de eigenaar.

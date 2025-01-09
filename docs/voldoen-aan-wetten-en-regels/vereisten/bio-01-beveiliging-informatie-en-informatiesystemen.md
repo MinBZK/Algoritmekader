@@ -32,6 +32,7 @@ Algoritmes en hun output kunnen onderdeel worden van de informatie en informatie
 
 ## Wanneer van toepassing? 
 <!-- tags-ai-act --> 
+Deze vereiste is waarschijnlijk van toepassing op jouw situatie. Controleer de wetgeving uit de [bronnen](#bronnen) om dit zeker te weten. 
 
 ## Risico 
 Er kunnen risico's ontstaan zoals ongeautoriseerde toegang, vernietiging, verlies, wijziging of niet-toegestane verwerking van gegevens als de informatie en informatiesystemen onvoldoende zijn beveiligd.

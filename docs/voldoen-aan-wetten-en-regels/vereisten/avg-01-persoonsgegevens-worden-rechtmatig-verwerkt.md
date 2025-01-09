@@ -39,7 +39,7 @@ Hierbij kan worden gedacht aan persoonsgegevens ten behoeve van trainingsdata, v
 
 ## Wanneer van toepassing? 
 <!-- tags-ai-act -->
-
+Deze vereiste is waarschijnlijk van toepassing op jouw situatie. Controleer de wetgeving uit de [bronnen](#bronnen) om dit zeker te weten. 
 
 ## Risico
 

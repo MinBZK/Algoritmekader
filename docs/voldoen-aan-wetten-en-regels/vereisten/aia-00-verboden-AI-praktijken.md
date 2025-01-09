@@ -10,7 +10,7 @@ onderwerp:
 soort-toepassing:
 - ai-systeem
 risicogroep:
-- verboden-ai
+- verboden-ai-systeem
 rol-ai-act:
 - aanbieder
 - gebruiksverantwoordelijke

@@ -38,6 +38,7 @@ Richtlijnen 96/9/EG en 2001/29/EG](https://eur-lex.europa.eu/legal-content/NL/TX
 
 ## Wanneer van toepassing? 
 <!-- tags-ai-act --> 
+Deze vereiste is waarschijnlijk van toepassing op jouw situatie. Controleer de wetgeving uit de [bronnen](#bronnen) om dit zeker te weten. 
 
 ## Risico 
 

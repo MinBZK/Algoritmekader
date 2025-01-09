@@ -47,6 +47,7 @@ Het is daarom belangrijk om [tijdig te onderzoeken of er sprake is of kan zijn v
 
 ## Wanneer van toepassing? 
 <!-- tags-ai-act -->
+Deze vereiste is waarschijnlijk van toepassing op jouw situatie. Controleer de wetgeving uit de [bronnen](#bronnen) om dit zeker te weten. 
 
 ## Risico
 Grondrechten kunnen worden geraakt door de inzet van algoritmes met eventuele schadelijke gevolgen voor betrokkenen. 

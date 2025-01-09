@@ -30,9 +30,8 @@ Er wordt gewerkt aan wetgeving om dit bij wet verplicht te stellen.
 - [Geactualiseerde Werkagenda Waardengedreven Digitaliseren 2024](https://open.overheid.nl/documenten/8fb16ed3-0946-49d5-bf1a-96724f1762d6/file)
 - Kamerbrieven
 
-## Wanneer van toepassing? 
+## Van toepassing op 
 <!-- tags-ai-act --> 
-Deze vereiste is waarschijnlijk van toepassing op jouw situatie. Controleer de wetgeving uit de [bronnen](#bronnen) om dit zeker te weten. 
 
 ## Risico 
 Door het niet publiceren van impactvolle algoritmes of hoog risico AI -systemen in het Algoritmeregister, is het voor betrokkenen of belanghebbenden minder goed mogelijk om de overheid kritisch te volgen, te bevragen en te controleren op de inzet van deze technologieën die hen kunnen raken. 

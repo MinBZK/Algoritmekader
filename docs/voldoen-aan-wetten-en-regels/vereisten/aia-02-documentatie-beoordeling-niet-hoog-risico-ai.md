@@ -40,7 +40,7 @@ AI-systemen met een hoog risico als bedoeld in punt 2 van bijlage III (kritieke 
 - [Artikel 71 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e7019-1-1)
 - [Bijlage III Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e38-127-1)
 
-## Wanneer van toepassing? 
+## Van toepassing op 
 <!-- tags-ai-act -->
 
 ## Risico

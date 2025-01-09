@@ -51,9 +51,8 @@ Gebruiksverantwoordelijken van AI-systemen met een hoog risico gebruiken die inf
 - [Besluit lijst verwerkingen persoonsgegevens waarvoor een gegevensbeschermingseffectbeoordeling (DPIA) verplicht is, Autoriteit Persoonsgegevens](https://wetten.overheid.nl/BWBR0042812/2019-11-27)
 - [Data protection impact assessment (DPIA) Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/praktisch-avg/data-protection-impact-assessment-dpia#:~:text=Een%20DPIA%20is%20een%20instrument,Algemene%20verordening%20gegevensbescherming%20(AVG)%3B)
 
-## Wanneer van toepassing? 
+## Van toepassing op 
 <!-- tags-ai-act --> 
-Deze vereiste is waarschijnlijk van toepassing op jouw situatie. Controleer de wetgeving uit de [bronnen](#bronnen) om dit zeker te weten. 
 
 ## Risico 
 Het niet evalueren van de impact van het verwerking van persoonsgegevens in algoritmes kan resulteren in het niet onderkennen van de bijbehorende risico's  en het niet op tijd te mitigieren van deze risico's.

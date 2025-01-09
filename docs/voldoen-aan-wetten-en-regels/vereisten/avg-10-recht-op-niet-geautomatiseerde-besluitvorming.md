@@ -83,9 +83,9 @@ Volledig geautomatiseerde vaststelling van een publiekrechtelijk besluit zoals e
 - [Advies artikel 22 AVG en geautomatiseerde selectie-instrumenten](https://www.autoriteitpersoonsgegevens.nl/system/files?file=2024-10/Advies%20geautomatiseerde%20besluitvorming%20artikel%2022%20AVG.pdf)
 - [Kamerbrief met kabinetsreactie AP-advies over geautomatiseerde selectie-instrumenten]([Kamerbrief met kabinetsreactie AP-advies over geautomatiseerde selectie-instrumenten0](https://www.rijksoverheid.nl/documenten/kamerstukken/2024/12/03/kabinetsreacties-ap-advies-inzake-geautomatiseerde-selectie-instrumenten)
 
-## Wanneer van toepassing? 
+## Van toepassing op 
 <!-- tags-ai-act --> 
-Deze vereiste is waarschijnlijk van toepassing op jouw situatie. Controleer de wetgeving uit de [bronnen](#bronnen) om dit zeker te weten. 
+
 
 ## Risico 
 

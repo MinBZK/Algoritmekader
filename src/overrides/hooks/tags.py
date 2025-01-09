@@ -29,10 +29,11 @@ def on_page_markdown(markdown: str, *, page: Page, config: MkDocsConfig, files: 
 
         return "".join(buttons)
 
-        # Replace callback
+    # Replace callback
     def replace_ai_act(_: Match):
+        
         buttons = []
-        for type in ["soort-toepassing", "risicogroep", "rol-ai-act", "transparantieverplichting"]:
+        for type in ["soort-toepassing", "risicogroep", "rol-ai-act", "systeemrisico", "transparantieverplichting"]:
             field = page.meta.get(type, [])
 
             if isinstance(field, str):
@@ -40,11 +41,17 @@ def on_page_markdown(markdown: str, *, page: Page, config: MkDocsConfig, files: 
             else:
                 for role in field:
                     buttons.append(flag(type, role, page, files))
+        
+        if len(buttons) == 0:
+            toelichting = "Deze vereiste is waarschijnlijk van toepassing op jouw situatie. Controleer de [bronnen](#bronnen) om dit zeker te weten."
+        else: 
+            toelichting = "Deze vereiste is van toepassing voor onderstaande (combinatie van) labels. Gebruik de [beslishulp](https://ai-act-decisiontree.apps.digilab.network) voor hulp bij wat er in jouw situatie van toepassing is. <br/> <br/>"
+        
+        buttons.insert(0, toelichting)
 
         return "".join(buttons)
 
     # Find and replace all external asset URLs in current page
-        # Find and replace all external asset URLs in current page
     markdown = re.sub(
         r"<!-- tags -->",
         lambda match: replace(match),

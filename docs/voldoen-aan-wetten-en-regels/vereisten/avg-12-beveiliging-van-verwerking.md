@@ -31,9 +31,9 @@ Per toepassing moet worden onderzocht welke maatregelen hiervoor geschikt zijn.
 ## Bronnen 
 [Artikel 32 Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32016R0679)|
 
-## Wanneer van toepassing? 
+## Van toepassing op 
 <!-- tags-ai-act --> 
-Deze vereiste is waarschijnlijk van toepassing op jouw situatie. Controleer de wetgeving uit de [bronnen](#bronnen) om dit zeker te weten. 
+
 
 ## Risico 
 Er kunnen risico's ontstaan zoals potentiële cyberaanvallen en datalekken.

@@ -50,7 +50,7 @@ AI-systemen met een hoog risico die al aan een conformiteitsbeoordelingsprocedur
 - [Bijlage VII Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e38-134-1)
 - [Hoe werkt het allemaal in de praktijk voor aanbieders van AI-systemen met een hoog risico](https://digital-strategy.ec.europa.eu/nl/policies/regulatory-framework-ai)
 
-## Wanneer van toepassing? 
+## Van toepassing op 
 <!-- tags-ai-act -->
 
 

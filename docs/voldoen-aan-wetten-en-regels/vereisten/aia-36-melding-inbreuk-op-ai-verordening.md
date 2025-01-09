@@ -35,7 +35,7 @@ De richtlijn biedt een kader voor het veilig en vertrouwelijk melden van schendi
 ## Bronnen
 [Artikel 87 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e7782-1-1)
 
-## Wanneer van toepassing? 
+## Van toepassing op 
 <!-- tags-ai-act -->
 
 ## Risico

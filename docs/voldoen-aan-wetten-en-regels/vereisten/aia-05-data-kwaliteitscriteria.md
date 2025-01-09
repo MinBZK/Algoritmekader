@@ -42,7 +42,7 @@ Deze vereiste houdt in dat de gebruikte datasets onder meer moeten voldoen aan:
 ## Bronnen 
 [Artikel 10(1) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3348-1-1)
 
-## Wanneer van toepassing? 
+## Van toepassing op 
 <!-- tags-ai-act --> 
 
 ## Risico 

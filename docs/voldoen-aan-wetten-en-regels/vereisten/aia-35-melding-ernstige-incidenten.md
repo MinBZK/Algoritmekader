@@ -39,7 +39,7 @@ Dit meldingsproces is bedoeld om snel en adequaat te reageren op ernstige incide
 ## Bronnen
 [Artikel 73(1) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e7117-1-1)
 
-## Wanneer van toepassing? 
+## Van toepassing op 
 <!-- tags-ai-act -->
 
 ## Risico

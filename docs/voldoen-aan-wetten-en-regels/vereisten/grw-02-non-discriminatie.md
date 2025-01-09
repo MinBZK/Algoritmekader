@@ -37,9 +37,8 @@ Hiervan is sprake wanneer een ogenschijnlijk neutrale bepaling, maatstaf of hand
 - [Artikel 9 Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679) 
 - [Artikel 2:4 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=2&afdeling=2.1&artikel=2:4&z=2024-05-01&g=2024-05-01) 
 
-## Wanneer van toepassing? 
+## Van toepassing op 
 <!-- tags-ai-act -->
-Deze vereiste is waarschijnlijk van toepassing op jouw situatie. Controleer de wetgeving uit de [bronnen](#bronnen) om dit zeker te weten. 
 
 ## Risico 
 Het risico bestaat dat het model onwenselijke systematische afwijkingen creëert voor specifieke personen, groepen of andere eenheden, wat kan duiden op directe of indirecte discriminerende effecten van het algoritme.

@@ -33,7 +33,7 @@ Het doel is om de integriteit en veiligheid van het model en de infrastructuur t
 ## Bronnen
 [Artikel 55(1d) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5730-1-1)
 
-## Wanneer van toepassing? 
+## Van toepassing op 
 <!-- tags-ai-act -->
 
 ## Risico

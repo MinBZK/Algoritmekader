@@ -88,7 +88,7 @@ Dit is de organisatie die het AI-systeem onder eigen verantwoordelijkheid gebrui
 
     Als je het AI-systeem dat je gebruikt ook zelf hebt ontwikkeld, dan ben je zowel aanbieder als gebruiksverantwoordelijke. 
 
-## Andere rollen
+### Andere rollen
 De AI-verordening definieert ook andere rollen zoals importeur, distributeur of gemachtigde. Deze zijn voor overheden meestal niet van toepassing. 
 
 ## Tijdlijn

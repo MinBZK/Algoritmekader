@@ -43,7 +43,7 @@ Het is van belang om deze principes te hanteren om te bepalen of en in [welke vo
 - [Artikel 1.10, 1.13 en 1.16 Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=1&hoofdstuk=1.2&afdeling=1.2.2&artikel=1.10&z=2022-03-02&g=2022-03-02) 
 
 
-## Wanneer van toepassing? 
+## Van toepassing op 
 <!-- tags-ai-act --> 
 
 

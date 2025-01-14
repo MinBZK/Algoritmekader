@@ -35,7 +35,7 @@ Dit vereiste is een aanvulling op de in artikel 53 AI-verordening genoemde verpl
 ## Bronnen
 [Artikel 55(1c) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5730-1-1)
 
-## Wanneer van toepassing? 
+## Van toepassing op 
 <!-- tags-ai-act -->
 
 ## Risico

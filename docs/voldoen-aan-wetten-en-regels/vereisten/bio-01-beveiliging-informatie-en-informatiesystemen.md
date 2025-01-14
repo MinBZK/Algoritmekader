@@ -30,7 +30,7 @@ Algoritmes en hun output kunnen onderdeel worden van de informatie en informatie
 - [Baseline Informatiebeveiliging Overheid](https://www.bio-overheid.nl/category/producten?product=BIO) 
 - [Besluit voorschrift informatiebeveiliging rijksdienst 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022141&z=2007-07-01&g=2007-07-01)
 
-## Wanneer van toepassing? 
+## Van toepassing op 
 <!-- tags-ai-act --> 
 
 ## Risico 

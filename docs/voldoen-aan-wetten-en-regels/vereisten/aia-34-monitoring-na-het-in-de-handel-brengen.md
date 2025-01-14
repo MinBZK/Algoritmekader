@@ -13,7 +13,7 @@ soort-toepassing:
 - ai-systeem-voor-algemene-doeleinden
 rol-ai-act:
 - aanbieder
-publicatiecategorie:
+risicogroep:
 - hoog-risico-ai-systeem
 hide:
 - navigation
@@ -44,7 +44,7 @@ Het plan voor monitoring na het in de handel brengen maakt deel uit van de in bi
 
 [Artikel 72(1) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e7075-1-1)
 
-## Wanneer van toepassing? 
+## Van toepassing op 
 <!-- tags-ai-act -->
 
 

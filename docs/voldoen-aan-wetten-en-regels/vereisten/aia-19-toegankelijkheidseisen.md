@@ -10,7 +10,7 @@ onderwerp:
 soort-toepassing:
 - ai-systeem
 - ai-systeem-voor-algemene-doeleinden
-publicatiecategorie:
+risicogroep:
 - hoog-risico-ai-systeem
 rol-ai-act:
 - aanbieder
@@ -44,7 +44,7 @@ Richtlijn 2019/882 strekt ertoe een bijdrage te leveren tot het goed functionere
 - EU-richtlijn 2016/2102
 - EU-richtlijn 2019/882
 
-## Wanneer van toepassing? 
+## Van toepassing op 
 <!-- tags-ai-act -->
 
 

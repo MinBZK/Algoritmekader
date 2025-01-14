@@ -14,7 +14,7 @@ rollen:
 soort-toepassing:
 - ai-systeem
 - ai-systeem-voor-algemene-doeleinden
-publicatiecategorie:
+risicogroep:
 - hoog-risico-ai-systeem
 rol-ai-act:
 - aanbieder
@@ -52,7 +52,7 @@ De documentatie kan opgevraagd worden door een bevoegde autoriteit met een met r
 - [Artikel 11 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3472-1-1)
 - [Bijlage IV Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e38-130-1)
 
-## Wanneer van toepassing? 
+## Van toepassing op 
 <!-- tags-ai-act --> 
 
 

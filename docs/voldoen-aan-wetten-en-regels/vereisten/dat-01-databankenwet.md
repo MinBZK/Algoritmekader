@@ -31,7 +31,7 @@ Voor het ontwikkelen van algoritme is data nodig. De data die hiervoor wordt geb
 - [Artikel 7 Databankrichtlijn](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:31996L0009)
 - [Overwegingen 39 - 41 Databankrichtlijn](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:31996L0009)
 
-## Wanneer van toepassing? 
+## Van toepassing op 
 <!-- tags-ai-act -->
 
 ## Risico

@@ -10,7 +10,7 @@ onderwerp:
 soort-toepassing:
 - ai-systeem
 - ai-systeem-voor-algemene-doeleinden
-publicatiecategorie:
+risicogroep:
 - hoog-risico-ai-systeem
 rol-ai-act:
 - aanbieder
@@ -42,7 +42,7 @@ Voorbeelden hiervan zijn de naam en type van het AI-systeem, naam en adres van d
 - [Artikel 47(1) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5296-1-1)
 - [Bijlage V Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e38-132-1)
 
-## Wanneer van toepassing? 
+## Van toepassing op 
 <!-- tags-ai-act -->
 
 

@@ -35,8 +35,9 @@ Afhankelijk van de toepassing vraagt dit om een intensieve toets. Er moet voor w
 
 [Artikel 5 lid 1 onder c Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679#d1e1802-1-1)
 
-## Wanneer van toepassing? 
+## Van toepassing op 
 <!-- tags-ai-act -->
+
 
 ## Risico
 

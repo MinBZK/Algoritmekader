@@ -15,6 +15,8 @@ risicogroep:
 - geen-hoog-risico-ai-systeem
 rol-ai-act:
 - aanbieder
+transparantieverplichting:
+- transparantieverplichting
 rollen:
 - projectleider
 - ontwikkelaar
@@ -43,7 +45,7 @@ Dit geldt voor AI-systemen die:
 - Overweging 132 Verordening Artificiële Intelligentie
 - Overweging 134 Verordening Artificiële Intelligentie
 
-## Wanneer van toepassing? 
+## Van toepassing op 
 <!-- tags-ai-act -->
 
 ## Risico

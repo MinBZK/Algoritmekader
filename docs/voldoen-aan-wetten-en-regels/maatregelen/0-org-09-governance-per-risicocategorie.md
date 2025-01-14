@@ -47,17 +47,8 @@ Richt algoritmegovernance in op basis van de risicoclassificatie van algoritmes.
     
     ![Afbeelding](../../afbeeldingen/rotterdam_risico_classificatie_governance.png)
     
-    Bron: [kleur bekennen - Rekenkamer Rotterdam (Pagina 72)](https://rekenkamer.rotterdam.nl/onderzoeken/kleur-bekennen/)
+    Bron: [Kleur bekennen - Rekenkamer Rotterdam (Pagina 72)](https://rekenkamer.rotterdam.nl/onderzoeken/kleur-bekennen/)
 
-
-
-!!! example "Belastingdienst: Basis governance"
-
-    _Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._
-    
-    De belastingdienst heeft verschillende algoritmes en heeft hier governance voor. Zij geven aan eerst een basis algoritme governance in te richten (bijvoorbeeld voor low-risk). Zodra deze op operationeel niveau is kan deze worden geïmplementeerd en tijdens de implementatie kan deze bijgesteld worden. 
-        
-    Bron: Belastingdienst (Analytische en Cognitieve Technologie | CoE Cognitieve Oplossingen).
 
 ## Bronnen
 

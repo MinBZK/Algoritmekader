@@ -39,8 +39,8 @@ Richt algoritmegovernance in op basis van de risicoclassificatie van algoritmes.
 
     _Dit voorbeeld heeft een aantal aanpassingen nodig voordat deze in uw organisatie te gebruiken is._
     
-    Hieronder staat een schematische weergave van hoe de gemeente Rotterdam algoritme governance toe past. Zij kiezen ervoor om dit alleen toe te passen op hoog-risico AI volgens de definitie van de AI-Verordening. Voor laag-risico toepassingen gebruiken ze hun standaard governance protocol (zie figuur hieronder). 
-    Ongeacht het risico wordt er ook een drietal vragen gesteld voor **ieder** algoritme voor mogelijk uitgebreidere algoritme governance.
+    Hieronder staat een schematische weergave van hoe de gemeente Rotterdam algoritme governance toepast. Zij kiezen ervoor om dit alleen toe te passen op hoog-risico AI volgens de definitie van de AI-Verordening. Voor laag-risico toepassingen gebruiken ze hun standaard governanceprotocol (zie figuur hieronder). 
+    Ongeacht het risico wordt er ook een drietal vragen gesteld, waarbij verdere instrumenten ingezet moeten worden als alle vragen met "Ja" beantwoord worden:
     * Is de werking van het algoritme niet volledig én beknopt uit te leggen aan een gemiddelde Rotterdammer? 
     * Ontbreekt er een menselijke beoordeling voordat de uitkomst van het algoritme in de praktijk wordt gebracht door middel van een concrete handeling van de gemeente? 
     * Is het voorstelbaar dat de algoritmetoepassing uitmondt in een onrechtvaardige handeling van de gemeente tegen burgers of bedrijven?

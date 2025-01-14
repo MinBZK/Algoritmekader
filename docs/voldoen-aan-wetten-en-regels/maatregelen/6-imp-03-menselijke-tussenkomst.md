@@ -93,7 +93,7 @@ Het niet inrichten van passende menselijke controle leidt tot onverantwoorde inz
  
     De Rijksdienst voor Ondernemend Nederland (RVO) maakt gebruik van een algoritme bij het behandelen van subsidieaanvragen. Hierbij wordt bij iedere aanvraag een risico-indicatie gemaakt op basis van een aantal regels. Als er volgens het algoritme geen risico’s zijn wordt de aanvraag automatisch aangemaakt, zo niet wordt de aanvraag nog beoordeeld door een adviseur.
 
-    Daarnaast worden aanvragen met ingewikkelde technieken of boven een bepaald bedrag altijd door een adviseur beoordeeld. Op deze manier is er sprake van betekenisvolle menselijke controle.
+    Daarnaast worden aanvragen met ingewikkelde technieken of boven een bepaald bedrag altijd door een adviseur beoordeeld. Op deze manier is er sprake van betekenisvolle [menselijke controle](../../onderwerpen/menselijke-controle.md).
     
 	Bron: [Rijksdienst voor Ondernemend Nederland: Risicocontrole Subsidieaanvragen](https://algoritmes.overheid.nl/nl/algoritme/risicocontrole-sde-subsidieaanvragen-rijksdienst-voor-ondernemend-nederland/51892728#verantwoordGebruik)
 

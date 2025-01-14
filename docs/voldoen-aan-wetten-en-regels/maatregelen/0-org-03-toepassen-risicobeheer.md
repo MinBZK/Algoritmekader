@@ -61,7 +61,7 @@ Risico's worden niet (tijdig) vastgesteld en adequaat geadresseerd en behandeld.
     
     Het Nationaal Cyber Security Centrum van het ministerie van Justitie en Veiligheid heeft een publicatie over het ontwikkelen van veilige software. Hierin staat beschreven hoe op beleidsmatig niveau beveiligingsrichtlijnen toegepast kunnen worden. Er wordt in Hoofdstuk B.03 'Risicomanagement' een duidelijk beeld geschetst van wat noodzakelijke maatregelen hiervoor zijn. 
     
-    Hier worden ook verschillende methodes voorgesteld voor de risico analyse. Maar omdat deze publicatie uit 2021 komt is bijvoorbeeld de NEN-ISO/IEC 27005:2011 niet maar van toepassing maar is deze vervangen door de versie uit 2024 ([NEN-ISO/IEC 27005:2024](https://www.nen.nl/nen-en-iso-iec-27005-2024-en-327805)).
+    Hier worden ook verschillende methodes voorgesteld voor de risicoanalyse. Omdat deze publicatie uit 2021 komt is bijvoorbeeld de NEN-ISO/IEC 27005:2011 niet maar van toepassing maar is deze vervangen door de versie uit 2024 ([NEN-ISO/IEC 27005:2024](https://www.nen.nl/nen-en-iso-iec-27005-2024-en-327805)).
     
     Bron: [Beleids- en beheersingsrichtlijnen voor de ontwikkeling van veilige software](https://www.ncsc.nl/documenten/publicaties/2019/mei/01/beleids--en-beheersingsrichtlijnen-voor-de-ontwikkeling-van-veilige-software)
 

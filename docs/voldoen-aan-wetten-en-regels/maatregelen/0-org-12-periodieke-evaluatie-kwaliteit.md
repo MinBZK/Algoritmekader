@@ -50,9 +50,9 @@ Zonder evaluatie van de kwaliteit van het algoritme is er geen goede sturing, be
 
 ## Voorbeeld
 
-!!! example "Practiv=ce: Douane - Detecteren risico’s voor naleving vergunningsplicht"
+!!! example "Douane - Detecteren risico’s voor naleving vergunningsplicht"
 	
-	De douane maakt gebruik van een algoritme om te selecteren welke goederen een (extra) controle krijgen. Dit wordt gedaan op basis van aangiftegegevens die bedrijven aanleveren. Op basis van deze data wordt een vergelijking gemaakt met een bekend risicoprofiel. Deze risicoprofielen worden periodiek gecontroleerd aan de hand van de hoeveelheid kloppende controles. Daarnaast wordt ieder jaar per profiel gekeken of deze verfijnd, verlengd of beëindigd moeten worden. Op deze manier wordt regelmatig gecontroleerd of het algoritme nog van voldoende kwaliteit functioneert.	
+	De Douane maakt gebruik van een algoritme om te selecteren welke goederen een (extra) controle krijgen. Dit wordt gedaan op basis van aangiftegegevens die bedrijven aanleveren. Op basis van deze data wordt een vergelijking gemaakt met een bekend risicoprofiel. Deze risicoprofielen worden periodiek gecontroleerd aan de hand van de hoeveelheid kloppende controles. Daarnaast wordt ieder jaar per profiel gekeken of deze verfijnd, verlengd of beëindigd moeten worden. Op deze manier wordt regelmatig gecontroleerd of het algoritme nog voldoende functioneert.	
  
 	Bron: [Detecteren risico’s voor naleving vergunningsplicht voor de uitvoer sanctiemaatregelen](https://algoritmes.overheid.nl/nl/algoritme/detecteren-risicos-voor-naleving-vergunningsplicht-voor-de-uitvoer-sanctiemaatregelen-douane/41675247#verantwoordGebruik)
 	

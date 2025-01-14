@@ -55,7 +55,7 @@ Betrokkenen zijn niet op de hoogte dat hun persoonsgegevens worden verwerkt met 
 
 	_Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._
  
-    In december 2023 is het juryrapport van Best Beschreven Algoritme uitgekomen binnen het Algoritme Register.  Zij hebben van de 13 genomineerde algoritmes een top 4 opgesteld waar uiteindelijk een winnaar uitgekomen is; Gemeente Groningen: Eerste Hulp bij Geldzaken. 
+    In december 2023 is het juryrapport van Best Beschreven Algoritme binnen het Algoritmeregister bekendgemaakt.  Van de 13 genomineerde algoritmes is een top 4 opgesteld waar [uiteindelijk een winnaar uitgekomen is](https://www.digitaleoverheid.nl/nieuws/groningen-wint-best-beschreven-algoritme-award/); Gemeente Groningen: Eerste Hulp bij Geldzaken. 
     
     Het algoritme heeft een heldere omschrijving rondom de technische en ethische aspecten. Daarnaast geeft het een volledig beeld voor burgers over de inzet en het gebruik van het algoritme. Dit wordt gedaan aan de hand van verwijzingen naar externe pagina’s voor meer uitleg.
            

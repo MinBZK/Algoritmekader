@@ -44,13 +44,12 @@ Breng de volwassenheid van je organisatie op het gebied van algoritmes in kaart.
 
 ## Voorbeelden van volwassenheidsmodellen
 
-Er zijn verschillende modellen om het volwassenheidsniveau te bepalen. Hieronder worden verschillende opties toegelicht die ook breder kijken naar algoritmes in de organisatie of naar ethische vraagstukken. Deze zijn te herkennen met een * (sterretje). Ondanks de verschillende focus per model is governance altijd een onderdeel van deze volwassenheidsmodellen.
 
-!!! example "Voorbeeld: Interbestuurlijke Datastrategie - Datavolwassenheidsmodel*"
+!!! example "Voorbeeld: Interbestuurlijke Datastrategie - Datavolwassenheidsmodel"
 	
 	_Dit voorbeeld kan zonder veel aanpassingen in uw organisatie gebruikt worden._ 
 
-     Het datavolwassenheidmodel van de Interbestuurlijke Datastrategie (IBDS) kijkt naar hoe goed organisaties omgaan met data. Dit model is ook belangrijk voor kunstmatige intelligentie (AI), omdat data daar een grote rol speelt. Het model heeft een beslishulp datavolwassenheid waarmee bepaald kan worden hoe volwassen een organisatie is met data. IBDS biedt ook een [gids](https://realisatieibds.nl/page/view/ad94d97c-4d48-443c-aedd-235b2d0ca8b6/wegwijzer-volwassenheidsmodellen) met verschillende manieren om de datavolwassenheid in kaart te brengen.
+     Het datavolwassenheidmodel van de Interbestuurlijke Datastrategie (IBDS) kijkt naar hoe goed organisaties omgaan met data. Dit model is ook belangrijk voor algoritmes, omdat [data](../../onderwerpen/data.md) daar een grote rol speelt. Het model heeft een beslishulp datavolwassenheid waarmee bepaald kan worden hoe volwassen een organisatie is met data. IBDS biedt ook een [gids](https://realisatieibds.nl/page/view/ad94d97c-4d48-443c-aedd-235b2d0ca8b6/wegwijzer-volwassenheidsmodellen) aan met verschillende manieren om de datavolwassenheid in kaart te brengen.
 	
 	Bron: [Beslishulp datavolwassenheid](https://realisatieibds.nl/groups/view/c23ab74c-adb4-424e-917d-773a37968efe/kenniscentrum-van-de-ibds/wiki/view/2447d2a8-6c48-468d-9739-00772688853f/beslishulp-datavolwassenheid)
 
@@ -61,7 +60,7 @@ Er zijn verschillende modellen om het volwassenheidsniveau te bepalen. Hieronder
 	
 	_Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._
  
-	Het in 2023 gepubliceerd ‘AI ethics maturity’ model door Krijger, Thuis, de Ruiter, Ligthart & Broekman gebruikt zes categorieën om volwassenheid op verschillende niveaus in kaart te brengen. Dit model focust zich met name op het ethische aspect van volwassenheid met als categorieën: _awareness & culture_, _policy_, _governance_, _communication & training_, _development process_ en _tooling_. Er zijn vijf verschillende niveaus waar iedere categorie onder kan vallen om zo volwassenheid aan te geven.
+	Het in 2023 gepubliceerde ‘AI ethics maturity model' door Krijger, Thuis, de Ruiter, Ligthart & Broekman gebruikt zes categorieën om volwassenheid op verschillende niveaus in kaart te brengen. Dit model focust zich met name op het ethische aspect van volwassenheid met als categorieën: _awareness & culture_, _policy_, _governance_, _communication & training_, _development process_ en _tooling_. Er zijn vijf verschillende niveaus waar iedere categorie onder kan vallen om zo volwassenheid aan te geven.
 	
     Bron: [The AI ethics maturity model]( https://link.springer.com/article/10.1007/s43681-022-00228-7) 
 
@@ -80,12 +79,6 @@ Er zijn verschillende modellen om het volwassenheidsniveau te bepalen. Hieronder
 
 
  !!! example "Voorbeeld: Rijksorganisatie voor Ontwikkeling, Digitalisering en Innovatie - Innovatie Maturity Scan*"
-	
-	_Dit voorbeeld kan zonder veel aanpassingen in uw organisatie gebruikt worden._ 
-OF
-	_Dit voorbeeld heeft een aantal aanpassingen nodig voordat deze in uw organisatie te gebruiken is._ 
-OF
-	_Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._
  
 	De Rijksorganisatie voor Ontwikkeling, Digitalisering en Innovatie (ODI) heeft een Innovatie Maturity Scan gemaakt om de innovatievolwassenheid van een organisatie te meten. Omdat het gebruik van algoritmes vaak gezien wordt als vorm van innovatie is dit ook een interessant model om naar te kijken.
     
@@ -98,7 +91,7 @@ OF
 
  !!! example "Practice: Provincie Overijsel - Implementatiestrategie Digitale-Ethiek"
 	
-	Provincie Overijsel heeft in hun implementiestrategie Digitale Ethiek verschillende dingen uitgelegd waaronder een volwassenheidsmodel. Hierin focussen zij zich op het toekomst bestendig maken van de provincie met de notie dat het hoogste niveau voor hen op dit moment te hoog gegrepen is. Zij geven zo dus duidelijk aan welke niveaus zij haalbaar achten en geven concrete voorbeelden over hoe zij dit aan willen pakken.
+	Provincie Overijsel heeft in hun implementiestrategie Digitale Ethiek verschillende zaken opgenomen, waaronder een volwassenheidsmodel. Hierin focussen zij zich op het toekomstbestendig maken van de provincie met de notie dat het hoogste niveau voor hen op dit moment te hoog gegrepen is. Zij geven zo dus duidelijk aan welke niveaus zij haalbaar achten en geven concrete voorbeelden over hoe zij dit aan willen pakken.
 
     ![image](https://github.com/user-attachments/assets/341e841e-c0b3-463e-bf9f-5926352f9ae4)
  

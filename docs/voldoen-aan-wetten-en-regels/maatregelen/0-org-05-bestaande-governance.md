@@ -69,15 +69,15 @@ De volgende vragen kunnen bedragen om bovenstaande inzichtelijk te krijgen:
 	4. Uit ervaring blijkt bovendien dat er vaak beleid wordt opgesteld, maar dat in de praktijk de capaciteit ontbreekt om dit uit te voeren. Daarom pleit het Kadaster voor een realistisch beleidsplan waarmee de gestelde doelen daadwerkelijk kunnen worden gerealiseerd.
        
 
-!!! example "Naam van overheid: Korte uitleg"
+!!! example "Handreiking gezamenlijk gebruik IAMA en DPIA - Ministerie van BZK"
 	
 	_Dit voorbeeld kan zonder veel aanpassingen in uw organisatie gebruikt worden._ 
 
 	Binnen het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) is een handreiking opgesteld om twee verschillende instrumenten goed samen te kunnen gebruiken; Data Protection Impact Assessment (DPIA) en Impact Assessment Mensenrechten en Algoritmes (IAMA). 
 
- 	Binnen deze handreiking wordt toegelicht wat overeenkomsten en verschillen tussen het IAMA en DPIA zijn. Daarnaast wordt aangegeven hoe deze gecombineerd kunnen worden. Het doel is om zo deze instrumenten op een efficiënte en gebruikersvriendelijke manier samen te kunnen gebruiken.
+ 	In deze handreiking wordt toegelicht wat de overeenkomsten en verschillen tussen het IAMA en DPIA zijn. Daarnaast wordt aangegeven hoe deze instrumenten gecombineerd kunnen worden. Het doel is om zo deze instrumenten op een efficiënte en gebruikersvriendelijke manier samen te kunnen gebruiken.
 
-	Bron: [Handreiking Algoritmen](https://www.amsterdam.nl/innovatie/digitalisering-technologie/handreikingen-playbooks/)
+	Bron: [Handreiking gezamenlijk gebruik IAMA en Model DPIA Rijksdienst](https://www.cip-overheid.nl/media/av0dmahv/20230614-gezamenlijk-gebruik-iama-en-model-dpia-rijksdienst-v1-0.pdf)
  
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
 

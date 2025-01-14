@@ -35,18 +35,6 @@ Richt algoritmegovernance in op basis van de risicoclassificatie van algoritmes.
 
 ## Voorbeelden
 
-!!! example "Ministerie van Economische Zaken: Gids AI-verordening"
-
-    _Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._
-    Het ministerie van Economische Zaken (EZ) heeft een gids opgesteld voor de AI-verordening. Hierin worden vier stappen toegelicht: Risico, AI, Rol en Verplichtingen. Om te identificeren welke AI-systemen of algoritmes hoog-risico zijn is het aan te raden om deze gids te bekijken. Meer informatie over de AI-verordening is ook te vinden op ["AI-verordening in het kort"](../ai-verordening.md)
-    Naast de classificatie staat er in deze gids vanaf pagina 11 ook aan welke verplichtingen een aanbieder en gebruiksverantwoordelijke moeten voldoen voor hoog-risico AI, AI voor algemene doeleinden, generatieve AI en chatbots, maar niet voor overige AI.
-        
-    Bron: [Gids AI-verordening](https://www.rijksoverheid.nl/documenten/brochures/2024/10/16/gids-ai-verordening)
-    
-    Wil je meer hulp bij het vinden van de regels die specifiek voor jou gelden, gebruik dan ook de [Beslishulp AI-Verordening](https://ai-verordening-beslishulp.apps.digilab.network/).
-
-
-
 !!! example "Gemeente Rotterdam: Processchema governance"
 
     _Dit voorbeeld heeft een aantal aanpassingen nodig voordat deze in uw organisatie te gebruiken is._

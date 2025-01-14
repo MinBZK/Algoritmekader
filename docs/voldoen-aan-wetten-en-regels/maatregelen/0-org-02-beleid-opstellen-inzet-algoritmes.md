@@ -58,19 +58,15 @@ Zonder duidelijk beleid over de inzet van algoritmes kan het gebeuren dat algori
 
 ## Voorbeelden
 
-!!! example "Naam van overheid: Korte uitleg"
+!!! example "Handreiking Algoritmen - Gemeente Amsterdam"
 	
 	_Dit voorbeeld heeft een aantal aanpassingen nodig voordat deze in uw organisatie te gebruiken is._ 
 
-	Gemeente Amsterdam heeft handreiking ontwikkeld waarin de aanpak van algoritmen en het algoritme beleid uitgelegd worden. Hierin worden verschillende hulpmiddelen toegelicht waaronder governance voor verantwoorde toepassing van algoritmen en contract voorwaarden algoritmische toepassingen.
+	Gemeente Amsterdam heeft een Handreiking Algoritmen ontwikkeld waarin de aanpak van en instrumenten voor verantwoord algoritme­­gebruik in Amsterdam worden toegelicht. Denk aan governance voor verantwoorde toepassing van algoritmes, en contractvoorwaarden voor algoritmische toepassingen.
 	
-	Daarnaast wordt in de handreiking het belang uitgelegd, de communicatiestrategie (indirect) toegelicht en wordt benoemd hoe de inzet van algoritmes op een verantwoorde manier gedaan kan worden.
+	Bron: [Handreiking Algoritmen](https://www.amsterdam.nl/innovatie/digitalisering-technologie/handreikingen-playbooks/) (Er zijn hier ook handreikingen te vinden over _Dataverzameling_ en _Digitale ongelijkheid_.
 	
-	Bron: [Handreiking Algoritmen](https://www.amsterdam.nl/innovatie/digitalisering-technologie/handreikingen-playbooks/)
-	
-Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
 
 ## Bronnen
 
-
-Heb je een voorbeeld of best practice, laat het ons weten via algoritmes@minbzk.nl
+Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

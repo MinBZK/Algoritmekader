@@ -99,7 +99,8 @@ Zorg dat het algoritme continu wordt [gemonitord](../../levenscyclus/monitoring-
 
 ## Bijbehorende vereiste(n)
 
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Een onbetrouwbaar algoritme kan in een nieuwe of onverwachte situatie de verkeerde uitkomsten geven. 

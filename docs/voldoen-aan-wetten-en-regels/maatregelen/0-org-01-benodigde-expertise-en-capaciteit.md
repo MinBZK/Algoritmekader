@@ -13,10 +13,8 @@ rollen:
 - projectleider
 - beleid-en-advies
 sources:
-- ADR:
-    - 'SV.12'
-- ARK:
-    - '1.04'
+- ADRR SV.12
+- ARK 1.04
 hide:
 - navigation
 - toc

@@ -12,7 +12,11 @@ onderwerp:
 rollen:
 - projectleider
 - beleid-en-advies
-
+sources:
+- ADR:
+    - 'SV.12'
+- ARK:
+    - '1.04'
 hide:
 - navigation
 - toc
@@ -42,8 +46,6 @@ Bepaal welke expertise en capaciteit noodzakelijk is voor het ontwikkelen, inkop
     <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen 
-<!-- Vul hier de relevante bronnen in voor deze maatregel -->
-
 - [Onderzoekskader Algoritmes Auditdienst Rijk, SV.12 ](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 1.04](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Competencies and governance practices for AI in the public sector. Zie hoofdstuk 4](https://op.europa.eu/en/publication-detail/-/publication/949913fa-aae4-11ef-acb1-01aa75ed71a1/language-en)

@@ -9,6 +9,7 @@ rollen:
 - beleid-en-advies
 onderwerp:
 - governance
+sources:
 hide:
 - navigation
 - toc

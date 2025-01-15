@@ -11,6 +11,7 @@ onderwerp:
 - transparantie
 vereiste:
 - awb-01-zorgvuldigheidsbeginsel
+sources:
 hide:
 - navigation
 - toc

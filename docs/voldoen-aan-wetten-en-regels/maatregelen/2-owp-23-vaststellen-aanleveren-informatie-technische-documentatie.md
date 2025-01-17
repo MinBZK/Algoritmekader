@@ -58,9 +58,6 @@ Vul technische documentatie van aanbieder aan met relevante informatie vanuit de
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
 Door de technische documentatie niet volledig op te stellen, is niet geheel transparant hoe het algoritme functioneert en kan daar geen verantwoording voor worden afgelegd.   
 
-## Bronnen
-
-
 ## Voorbeeld
 
 Heb jij een goed voorbeeld? Laat het ons weten!

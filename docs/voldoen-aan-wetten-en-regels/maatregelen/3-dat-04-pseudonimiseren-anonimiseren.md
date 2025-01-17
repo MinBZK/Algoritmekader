@@ -13,6 +13,11 @@ onderwerp:
 rollen:
 -  ontwikkelaar
 -  jurist
+sources:
+  ADR: PRI.5
+  ARK: 
+  - 2.20
+  - 3.06
 hide:
 - navigation
 - toc
@@ -36,7 +41,8 @@ Pas maatregelen toe als pseudonimiseren, anonimisering of aggregeren van persoon
 
 ## Bronnen
 - [Onderzoekskader Auditdienst Rijk, PRI.5](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
-- [Toetsingskader Algoritmes Algemene Rekenkamer, 2.20](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 2.20, 3.06](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
+
 ## Voorbeeld
 
 !!! example "Groep Gegevensbescherming: Artikel 20 (WP 216)"

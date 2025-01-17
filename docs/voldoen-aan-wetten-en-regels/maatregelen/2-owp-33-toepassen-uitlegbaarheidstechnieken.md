@@ -14,6 +14,8 @@ rollen:
 - projectleider
 - beleid-en-advies
 - ontwikkelaar
+sources:
+  ADR: DM.11
 hide:
 - navigation
 - toc
@@ -54,6 +56,7 @@ Als er geen rekening wordt gehouden met de uitlegbaarheid van een algoritme binn
 
 
 ## Bronnen
+- [Onderzoekskader Auditdienst Rijk, DM.11](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Toolkit voor implementatie](https://xaitk.org/)
 - [An introduction to explainable AI with Shapley values](https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html)
 - [Paper over (de evaluatie van) toolkits](https://www.ijcai.org/proceedings/2023/0747.pdf)

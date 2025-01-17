@@ -23,6 +23,11 @@ onderwerp:
 rollen:
 - projectleider
 - ontwikkelaar
+sources:
+  ADR: 
+  - SV.18
+  - SV.17
+  ARK: 1.03
 hide:
 - navigation
 - toc

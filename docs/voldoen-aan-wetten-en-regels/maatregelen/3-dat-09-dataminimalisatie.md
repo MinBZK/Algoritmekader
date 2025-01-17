@@ -11,6 +11,8 @@ onderwerp:
 rollen:  
 - ontwikkelaar
 - projectleider
+sources:
+  ADR: PRI.5
 hide:  
 - navigation  
 - toc  

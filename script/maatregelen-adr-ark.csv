@@ -1,0 +1,164 @@
+nummer;maatregel;source
+SV.1;Het probleem bij de taakuitvoering wat met de inzet van het algoritme moet worden opgelost is geïnventariseerd.;Onderzoekskader Auditdienst Rijk
+SV.2;Een bewuste afweging of het algoritme het juiste middel is om het probleem op doelmatige en doeltreffende wijze op te lossen is gemaakt en vastgelegd.;Onderzoekskader Auditdienst Rijk
+SV.3;De doelstelling van het algoritme is helder en vastgelegd.;Onderzoekskader Auditdienst Rijk
+SV.4;De impact van het algoritme is geïnventariseerd en beoordeeld.;Onderzoekskader Auditdienst Rijk
+SV.5;Indien het algoritme leidt tot geautomatiseerde besluitvorming dan wel anderszins een aanmerkelijke impact heeft, is bepaald of menselijke tussenkomst noodzakelijk of wenselijk is. Dit is in het proces ingeregeld.;Onderzoekskader Auditdienst Rijk
+SV.6;De gebruiker is in staat een betekenisvolle rol bij de besluitvorming te vervullen. Het besluit om de uitkomst van het algoritme te volgen wordt niet beïnvloed door (externe) factoren.;Onderzoekskader Auditdienst Rijk
+SV.7;Voor de inzet van het algoritme en de beoogde besluiten die genomen zullen worden op basis van het algoritme is een wettelijke grondslag.;Onderzoekskader Auditdienst Rijk
+SV.8;Het algoritme voldoet aan de intern vastgestelde beleidskaders.;Onderzoekskader Auditdienst Rijk
+SV.9;De rollen en verantwoordelijkheden bij de ontwikkeling en inzet van het algoritme zijn belegd.;Onderzoekskader Auditdienst Rijk
+SV.10;Relevante belanghebbenden zijn bij de ontwikkeling en inzet van het algoritme betrokken.;Onderzoekskader Auditdienst Rijk
+SV.11;Indien het algoritme is ontwikkeld door een externe partij, zijn er heldere afspraken gemaakt, o.a. over eigenaarschap,  beheer, prestatiecriteria en reproduceerbaarheid van het algoritme.;Onderzoekskader Auditdienst Rijk
+SV.12;De capaciteit en deskundigheid bij de ontwikkeling en inzet van het algoritme is toereikend.;Onderzoekskader Auditdienst Rijk
+SV.13;Risicomanagement vindt gestructureerd plaats vooraf en tijdens de inzet van het algoritme.;Onderzoekskader Auditdienst Rijk
+SV.14;De inzet en werking van het algoritme is gepubliceerd en inzichtelijk voor de doelgroep. De mate van transparantie en uitlegbaarheid daarbij is afgewogen.;Onderzoekskader Auditdienst Rijk
+SV.15;Maatregelen om besluiten genomen door of aan de hand van het algoritme te herleiden en/of te herbeoordelen zijn aanwezig.;Onderzoekskader Auditdienst Rijk
+SV.16;Een proces voor een periodieke evaluatie van de kwaliteit van het algoritme is gedocumenteerd en in werking. De resultaten worden met belanghebbenden gedeeld.;Onderzoekskader Auditdienst Rijk
+SV.17;De organisatie analyseert of (interne en externe) klachten en incidenten het gevolg kunnen zijn van het gebruik van het algoritme.;Onderzoekskader Auditdienst Rijk
+SV.18;Een procedure om de inzet van het algoritme veilig stop te zetten in het geval dit niet lang wenselijk blijkt, is aanwezig.;Onderzoekskader Auditdienst Rijk
+SV.19;De verantwoordelijke legt verantwoording af over de ontwikkeling, inzet en werking van het algoritme.;Onderzoekskader Auditdienst Rijk
+PRI.1;De verwerkingsverantwoordelijke en verwerker van de persoonsgegevens die het algoritme verwerkt zijn vastgesteld.;Onderzoekskader Auditdienst Rijk
+PRI.2;Een risicoanalyse (indien noodzakelijk een DPIA) met de nodige diepgang en substantie is uitgevoerd om privacyrisico's in kaart te brengen.;Onderzoekskader Auditdienst Rijk
+PRI.3;Passende maatregelen op basis van de gesignaleerde privacyrisico's zijn aanwezig. Deze maatregelen zijn zo veel mogelijk bij de ontwerpfase getroffen (privacy by design).;Onderzoekskader Auditdienst Rijk
+PRI.4;Het doel van de verwerking van persoonsgegevens door het algoritme is welbepaald en omschreven.;Onderzoekskader Auditdienst Rijk
+PRI.5;"Het algoritme verwerkt niet meer persoonsgegevens verwerkt dan noodzakelijk; de verwerkte gegevens zijn proportioneel en substantieel.";Onderzoekskader Auditdienst Rijk
+PRI.6;De verwerking van persoonsgegevens door het algoritme heeft een rechtmatige grondslag.;Onderzoekskader Auditdienst Rijk
+PRI.7;De persoonsgegevens en bijzondere en strafrechtelijke persoonsgegevens die het algoritme verwerkt zijn geïdentificeerd.;Onderzoekskader Auditdienst Rijk
+PRI.8;De betrokkenen zijn geïnformeerd over de verwerking van persoonsgegevens door het algoritme en de verwachte gevolgen.;Onderzoekskader Auditdienst Rijk
+PRI.9;Een proces om gehoor te geven aan de rechten van betrokkenen is aanwezig en ingeregeld.;Onderzoekskader Auditdienst Rijk
+PRI.10;Het algoritme betreft geen uitsluitend op geautomatiseerde verwerking, waaronder profilering, gebaseerd besluit waaraan voor de betrokkene juridische of anderszins aanmerkelijke gevolgen zijn verbonden.;Onderzoekskader Auditdienst Rijk
+PRI.11;"De persoonsgegevens die het algoritme verwerkt worden niet langer bewaard dan voor de verwezenlijking van de 
+verwerkingsdoeleinden noodzakelijk is. Zij worden tijdig vernietigd conform procedure.";Onderzoekskader Auditdienst Rijk
+DM.1;De doelstelling van het algoritme is concreet uitgewerkt tot functionele eisen voor het algoritme. De mate waarin aan deze eisen is voldaan is bepaald.;Onderzoekskader Auditdienst Rijk
+DM.2;De keuze voor het model en de hyperparameters zijn beargumenteerd en vastgelegd.;Onderzoekskader Auditdienst Rijk
+DM.3;De grenzen van de toepasbaarheid van het model zijn gedocumenteerd. De voorwaarden waaronder het model gebruikt kan worden en waaronder niet, zijn duidelijk.;Onderzoekskader Auditdienst Rijk
+DM.4;De functionele eisen zijn uitgewerkt tot adequate en meetbare prestatiecriteria. De gestelde criteria zijn behaald.;Onderzoekskader Auditdienst Rijk
+DM.5;De train-, test- en validatieset zijn gescheiden.;Onderzoekskader Auditdienst Rijk
+DM.6;Bij de keuze voor training- en testdata in de ontwikkelfase is gelet op under- en overfitting.;Onderzoekskader Auditdienst Rijk
+DM.7;De doelpopulatie is vastgesteld. Er is gecontroleerd dat de testdata representatief is voor de data van de verschillende subgroepen die in de productiedata voorkomen.;Onderzoekskader Auditdienst Rijk
+DM.8;De output en performance van het model worden geëvalueerd bij veranderingen in de data.;Onderzoekskader Auditdienst Rijk
+DM.9;De input- en outputdata voldoen qua kwaliteit, volledigheid en betrouwbaarheid aan de functionele eisen.;Onderzoekskader Auditdienst Rijk
+DM.10;De documentatie over het model (ontwerp, werking en voorwaarden) is bekend en begrijpelijk voor de gebruikers.;Onderzoekskader Auditdienst Rijk
+DM.11;Bij het gebruik van explainable AI (uitlegbaarheidsalgoritmes) is gecontroleerd of deze betrouwbaar zijn.;Onderzoekskader Auditdienst Rijk
+DM.12;De outputvariabelen zijn eenduidig interpreteerbaar.;Onderzoekskader Auditdienst Rijk
+DM.13;De trainingsdata is gearchiveerd.;Onderzoekskader Auditdienst Rijk
+DM.14;Iedere individuele output is met behulp van hetzelfde model en dezelfde inputdata te reproduceren. Eventuele verschillen zijn verklaard vanuit de modeleigenschappen.;Onderzoekskader Auditdienst Rijk
+DM.15;Wanneer wijziging van wet- en regelgeving aanpassingen in het model vereist, zijn deze doorgevoerd.;Onderzoekskader Auditdienst Rijk
+DM.16;De definitie van de verschillende groepen en de gewenste prestatie van het model voor deze groepen zijn opgenomen in de functionele eisen.;Onderzoekskader Auditdienst Rijk
+DM.17;De mate van geaccepteerde bias in de uitkomst is opgenomen in de functionele eisen en uitgewerkt in meetbare prestatiecriteria.;Onderzoekskader Auditdienst Rijk
+DM.18;De methoden om bias te voorkomen, detecteren en corrigeren zijn vastgelegd.;Onderzoekskader Auditdienst Rijk
+DM.19;De mate van bias in de data, dataverzameling en het model zijn in kaart gebracht.;Onderzoekskader Auditdienst Rijk
+DM.20;Tijdens de ontwikkeling van het model is beoordeeld of er een verschil bestaat tussen de prestatie van het model tussen verschillende subgroepen. De prestatiemetrieken afleidbaar uit de confusionmatrix zijn vergeleken voor deze subgroepen.;Onderzoekskader Auditdienst Rijk
+DM.21;De uitkomstbias van productiedata is beoordeeld voor de verschillende subgroepen en voldoet aan de prestatiecriteria.;Onderzoekskader Auditdienst Rijk
+DM.22;Bij de geconstateerde bias is beoordeeld of deze op discriminatie duidt.;Onderzoekskader Auditdienst Rijk
+DM.23;De organisatie heeft volledige controle of eigenaarschap over de data. Wanneer dit niet mogelijk is, zijn afspraken gemaakt om de functionele eisen te waarborgen.;Onderzoekskader Auditdienst Rijk
+DM.24;De impact van het model op het milieu tijdens de ontwikkeling en bij gebruik is nader geïnventariseerd en is meegenomen bij de modelkeuze.;Onderzoekskader Auditdienst Rijk
+IB.1;Wijzigingen dienen van te voren te zijn geautoriseerd door de systeemeigenaar of product owner;Onderzoekskader Auditdienst Rijk
+IB.2;Wijzigingen worden getest in een andere omgeving dan de productieomgeving.;Onderzoekskader Auditdienst Rijk
+IB.3;"Wijzigingen worden door de systeemeigenaar of product owner goedgekeurd op basis van gedocumenteerde
+testresultaten en pas daarna doorgevoerd in de productieomgeving.";Onderzoekskader Auditdienst Rijk
+IB.4;"Er dient functiescheiding te zijn ingericht tussen het aanvragen, goedkeuren en doorvoeren van wijzigingen om
+onbevoegde en onbedoelde wijzigingen te beperken.";Onderzoekskader Auditdienst Rijk
+IB.5;Er dient periodiek controle plaats te vinden op wijzigingen aan het systeem, zodanig dat oneigenlijke wijzigingen worden gesignaleerd.;Onderzoekskader Auditdienst Rijk
+IB.6;Alle wachtwoorden van gebruikers en beheerders dienen periodiek te worden gewijzigd, met een maximum van 1 jaar.;Onderzoekskader Auditdienst Rijk
+IB.7;Voor toegang vanuit een onvertrouwde omgeving dient, twee-factor authenticatie te worden gebruikt.;Onderzoekskader Auditdienst Rijk
+IB.8;Na een periode van maximaal 15 minuten inactiviteit dient de toegang tot de applicatie te worden vergrendeld en na 10 foutieve inlogpogingen dient het account geblokkeerd te worden.;Onderzoekskader Auditdienst Rijk
+IB.9;Wachtwoorden mogen niet in originele vorm (plaintext) worden opgeslagen, maar dienen versleuteld te worden.;Onderzoekskader Auditdienst Rijk
+IB.10;Gebruikers en beheerders krijgen slechts toegang tot functionaliteit (rol) die zij uit hoofde van hun functie nodig hebben (need to know, need to use). Daartoe is een beschrijving beschikbaar welke rollen en rechten per applicatie bij een functie horen.;Onderzoekskader Auditdienst Rijk
+IB.11;Het verlenen en muteren van accounts en toegangsrechten vindt plaats na goedkeuring door een bevoegde functionaris. Dit aan de hand van een actueel mandaatregister waaruit blijkt welke personen beslissende bevoegdheden hebben voor het verlenen van een bepaald type (niveau) toegangsrechten danwel functieprofielen.;Onderzoekskader Auditdienst Rijk
+IB.12;Er bestaat functiescheiding tussen het aanvragen, autoriseren en doorvoeren van wijzigingen in gebruikersaccounts en toegangsrechten.;Onderzoekskader Auditdienst Rijk
+IB.13;Functiewijzigingen en uitdiensttredingen worden bewaakt voor aanpassen van de toegangsrechten en voor intrekken van de identiteits- en authenticatiemiddelen.;Onderzoekskader Auditdienst Rijk
+IB.14;Het aantal accounts met verhoogde rechten is beperkt en verklaard, en staat in logische verhouding tot de beheerders en of ICT-afdeling.;Onderzoekskader Auditdienst Rijk
+IB.15;Gebruikersaccounts en beheeraccounts dienen altijd persoonsgebonden en verklaard te zijn, zodat handelingen altijd te herleiden zijn naar één verantwoordelijke.;Onderzoekskader Auditdienst Rijk
+IB.16;Eindgebruikers hebben geen directe toegang tot de onderliggende componenten (zoals de database).;Onderzoekskader Auditdienst Rijk
+IB.17;"Toegangsrechten op onderliggende componenten dienen
+periodiek, minimaal jaarlijks, geëvalueerd te worden. Dit interval dient te zijn beschreven in het toegangsbeleid en zijn bepaald op basis van het risiconiveau. De uitkomsten van de evaluatie en de opvolging daarvan worden vastgelegd.";Onderzoekskader Auditdienst Rijk
+IB.18;Er is een accuraat inzicht in de beoogde opzet van de IT-infrastructuur (de architectuur) en een actueel inzicht in de werkelijk geconfigureerde hard- en software.;Onderzoekskader Auditdienst Rijk
+IB.19;Er is formeel een proces ingericht voor het beheer van technische kwetsbaarheden. Dit omvat minimaal periodieke (geautomatiseerde) controle op de aanwezigheid van kwetsbaarheden in de te toetsen systemen, een risicoafweging en navolgbare afwerking daarvan of risicoacceptatie.;Onderzoekskader Auditdienst Rijk
+IB.20;Zodra kwetsbaarheden bekend zijn dienen de te beoordelen IT-systemen tijdig te worden gepatched en geupdated.;Onderzoekskader Auditdienst Rijk
+IB.21;Softwarecomponenten en services die niet noodzakelijk zijn voor het functioneren van het algoritme zijn verwijderd of gedeactiveerd om beveiligingsrisico’s te beperken.;Onderzoekskader Auditdienst Rijk
+IB.22;Zonering binnen de technische infrastructuur vindt plaats conform de uitgangspunten die zijn vastgelegd in een operationeel beleidsdocument, waarbij minimaal sprake is van scheiding tussen vertrouwde en onvertrouwde netwerken.;Onderzoekskader Auditdienst Rijk
+IB.23;Actieve monitoring van de algoritme data vindt plaats zodat beveiligingsincidenten en -gebeurtenissen in een vroeg stadium worden gedetecteerd.;Onderzoekskader Auditdienst Rijk
+IB.24;Het interne netwerk is gescheiden van andere onvertrouwde omgevingen;Onderzoekskader Auditdienst Rijk
+IB.25;Netwerkverkeer en componenten worden actief gemonitord.;Onderzoekskader Auditdienst Rijk
+IB.26;Er is een back-up beleid waarin de eisen voor het bewaren en beschermen zijn gedefinieerd en vastgesteld. De back-ups worden gemaakt, bewaard en getest conform beleid.;Onderzoekskader Auditdienst Rijk
+IB.27;Loginformatie wordt bewaard en is toegankelijk totdat de bewaartermijnen zijn verstreken.;Onderzoekskader Auditdienst Rijk
+IB.28;Security by design is gehanteerd en terug te zien als uitgangspunt.;Onderzoekskader Auditdienst Rijk
+IB.29;Bij uitbestedingstrajecten dient er een expliciete risicoafweging te zijn. De noodzakelijke beveiligingsmaatregelen die daaruit volgen worden aan de leverancier opgelegd.;Onderzoekskader Auditdienst Rijk
+IB.30;Er zijn procedures aanwezig die borgen dat beveiligingsincidenten m.b.t. algoritmes en data zo spoedig mogelijk, afhankellijk van de kwalificatie van het incident, worden opgepakt.;Onderzoekskader Auditdienst Rijk
+1.01;"Het doel en eventuele subdoelen van het algoritme moeten zo specifiek mogelijk zijn geformuleerd, en waar mogelijk gekwantificeerd, ook in relatie tot beleidsuitkomst (output) en het maatschappelijke resultaat (outcome).
+Maak de consequenties expliciet en leg deze op het juiste niveau vast";Toetsingskader Algemene Rekenkamer
+1.02;Een vastgelegde aanpak voor kwaliteits- en prestatiedoelen voor algoritmes;Toetsingskader Algemene Rekenkamer
+1.03;Zorg ervoor dat op vastgelegde (periodieke) momenten een afweging plaats vindt van de risico’s over het gebruik van het algoritme. Alle stappen van risicomanagement zijn uitgevoerd en op het juiste niveau in de organisatie behandeld, waaronder het identificeren, analyseren, evalueren (t.a.v. risk appetite), behandelen (risicoreactie, onder andere maatregelen), monitoren & beoordelen en communiceren & rapporteren van risico's. Maak de consequenties expliciet en leg deze op het juiste niveau vast. Neem indien nodig tegenmaatregelen. Een ultieme tegenmaatregel kan zijn het niet inzetten of (tijdelijk) stopzetten van het algoritme.;Toetsingskader Algemene Rekenkamer
+1.04;Een beeld van de beschikbare resources (kwalitatief en kwantitatief) en sturing daarop;Toetsingskader Algemene Rekenkamer
+1.05;Bij uitbesteding van onderdelen of activiteiten met betrekking tot het algoritme zijn afspraken met betrokken externe partijen gemaakt en vastgelegd m.b.t. eigenaarschap, beheer, prestatiecriteria en reproduceerbaarheid van het algoritme.;Toetsingskader Algemene Rekenkamer
+1.06;"Gedefinieerde rollen en eigenaarschap, beschreven taken, verantwoordelijkheden en bevoegdheden.
+De rollen en verantwoordelijkheden bij de ontwikkeling en inzet van het algoritme zijn belegd en gedocumenteerd.";Toetsingskader Algemene Rekenkamer
+1.07;Lifecycle management voor algoritmes of de systemen waar ze deel van uitmaken;Toetsingskader Algemene Rekenkamer
+1.08;"Ingericht proces rondom monitoring.
+Er vindt periodiek een evaluatie plaats van de werking en de kwaliteit van het algoritme. De analyse van klachten en incidenten is hier ook onderdeel van.";Toetsingskader Algemene Rekenkamer
+2.01;Strategische doelstelling is concreet uitgewerkt in aspecten/criteria/indicatoren.;Toetsingskader Algemene Rekenkamer
+2.02;Actuele, complete en toegankelijke documentatie zodat onderbouwde kennis continue doorgegeven wordt.;Toetsingskader Algemene Rekenkamer
+2.03;Vastleggen overwegingen en keuzes in ontwerp (zoals keuzes tussen modellen op basis van bijvoorbeeld ROC-curves, MSE of nauwkeurigheid en binnen het model op basis van bijvoorbeeld een sensitivity analysis) en tijdens implementatie.;Toetsingskader Algemene Rekenkamer
+2.04;Uitleg expliciet en indien van toepassing expliciet maken van afweging tussen uitlegbaarheid en prestaties;Toetsingskader Algemene Rekenkamer
+2.05;Periodieke controle op voldoen aan en in lijn zijn met actuele wet- en regelgeving;Toetsingskader Algemene Rekenkamer
+2.06;Implementatie structurele controles op juiste en volledige verwerking van de gegevens.;Toetsingskader Algemene Rekenkamer
+2.07;Documenteer alle prestatiecriteria, inclusief de relatie met de doelstellingen en de functionele eisen van het algoritme (AUC, MAE, MSE, accuracy etc.). Bewaar testresultaten waaruit blijkt dat het algoritme aan de criteria voldoet.;Toetsingskader Algemene Rekenkamer
+2.08;Stel documentatie op waarin de eisen aan de input- en outputdata zijn opgenomen en implementeer structurele controles om dit te toetsen. Ga voor alle inputdata na of deze tijdig, volledig en definitief beschikbaar is, een herleidbare afkomst heeft, consistent is gecodeerd en duidelijke metadata bij de variabelen bevat. Kijk daarnaast naar het risico van datavervuiling in het proces.;Toetsingskader Algemene Rekenkamer
+2.09;Richt een procedure in waarmee bij een besluit dat is gebaseerd op een algoritme uit eigen beweging gemaakte keuzes en gebruikte gegevens en aannames aan de belanghebbenden+[@Beheersmaatregelen] inzichtelijk worden gemaakt of worden gedocumenteerd.;Toetsingskader Algemene Rekenkamer
+2.10;Voldoen aan geldende wet- en regelgeving met betrekking tot automatische besluitvorming;Toetsingskader Algemene Rekenkamer
+2.11;Model (code) publiceren op een site zoals github.com, inclusief beschrijving van werking, gebruikte data en/of beschrijving daarvan;Toetsingskader Algemene Rekenkamer
+2.12;Betrek stakeholders/eindgebruikers met verschillende achtergronden bij ontwikkeling;Toetsingskader Algemene Rekenkamer
+2.13;Alle gebruikte data moeten traceerbaar of reproduceerbaar zijn. In geval van uitbesteding van het beheer aan derden moeten hierover heldere afspraken gemaakt worden gemaakt.;Toetsingskader Algemene Rekenkamer
+2.14;Onderhoud en beheer op de technische componenten, het model, de gebruikte data, parameters, enzovoort;Toetsingskader Algemene Rekenkamer
+2.15;Scheid de datasets voor training, validatie en testen en leg vast welke datasets voor welk doel gebruikt zijn. Let in het bijzonder op wanneer het model geüpdatet wordt aan de hand van (deels) eerder gebruikte data.;Toetsingskader Algemene Rekenkamer
+2.16;Leg de keuze voor de hyperparameters vast en onderbouw deze, bijvoorbeeld in Git en/of het technisch of functioneel ontwerp. Het uitvoeren van een peer review (vierogenprincipe) kan hiervan onderdeel zijn.;Toetsingskader Algemene Rekenkamer
+2.17;Afhankelijk van modeltype kunnen testen uitgevoerd worden. Bijvoorbeeld Granger causality,  Rubin causal model, Jarque-Bera test etc.;Toetsingskader Algemene Rekenkamer
+2.18;Controleren/testen op bias en eventueel tegenmaatregelen nemen zoals het balanceren van de dataset;Toetsingskader Algemene Rekenkamer
+2.19;Maatregelen om bias te beperken, tegen te gaan en/of te compenseren.;Toetsingskader Algemene Rekenkamer
+2.20;Sturen op dataminimalisatie, expliciete afweging met betrekking tot proportionaliteit;Toetsingskader Algemene Rekenkamer
+2.21;Controle op genoemd aspect (target leakage);Toetsingskader Algemene Rekenkamer
+3.01;Vastlegging in PIA, verwerkersovereenkomst/register;Toetsingskader Algemene Rekenkamer
+3.02;Van alle betrokken partijen is hun rol vastgelegd. Met de betrokken partijken zijn afspraken gemaakt en vastgelegd..;Toetsingskader Algemene Rekenkamer
+3.03;Uitvoeren DPIA inclusief opvolgen uitkomsten DPIA;Toetsingskader Algemene Rekenkamer
+3.04;Een register bijhouden volgens AVG;Toetsingskader Algemene Rekenkamer
+3.05;Het is vastgesteld dat de verwerking van (bijzondere) persoonsgegevens met het algoritme verenigbaar is met het oorspronkelijke doel (doelbinding);Toetsingskader Algemene Rekenkamer
+3.06;Ontwerpprincipes die privacy waarborgen;Toetsingskader Algemene Rekenkamer
+3.07;Vastlegging uitgangspunten, werkinstructies;Toetsingskader Algemene Rekenkamer
+3.08;Denk aan etniciteit, huidskleur, geslacht, seksuele geaardheid maar ook postcode. Niet alleen check op data zelf is relevant maar ook zogenaamde proxies, model bias, enzovoort;Toetsingskader Algemene Rekenkamer
+3.09;Vastlegging van deze toetsing;Toetsingskader Algemene Rekenkamer
+3.10;Geen automatische besluitvorming of geen documentatie (bijvoorbeeld in een Privacy Impact Assessment) waarom het is toegestaan;Toetsingskader Algemene Rekenkamer
+3.11;Vastgelegde en met betrokkenen gecommuniceerde procedure of human in the loop;Toetsingskader Algemene Rekenkamer
+3.12;De betrokkenen worden geïnformeerd over de verwerking van persoonsgegevens door het algoritme en de verwachte gevolgen;Toetsingskader Algemene Rekenkamer
+3.13;Informeren betrokkenen over welke gegevens van hen worden gebruikt en de wijze waarop die verwerkt worden.;Toetsingskader Algemene Rekenkamer
+3.14;Er is op hoofdlijnen beschreven hoe het algoritme of het proces waar het algoritme onderdeel van is werkt.;Toetsingskader Algemene Rekenkamer
+3.15;Er is een modelformulier om betrokkenen actief op de hoogte brengen over de mogelijkheid  om niet onderworpen te zijn aan geautomatiseerde besluitvorming (indien van toepassing).;Toetsingskader Algemene Rekenkamer
+3.16;Er is een openbaar privacybeleid waarin ook gebruikte algoritmes en data aan bod komen;Toetsingskader Algemene Rekenkamer
+3.17;De bewaartermijnen moeten aansluiten op de selectielijsten (Archiefwet). Zorg voor een vernietigingsprocedure, een document waaruit blijkt dat dit ingeregeld en/of uitgevoerd is.;Toetsingskader Algemene Rekenkamer
+4.01;"-Een formele gebruikerstoegangsverleningsprocedure is
+geïmplementeerd om toegangsrechten voor alle typen gebruikers en voor alle systemen en diensten toe te wijzen of in te trekken.
+-Gebruikersaccounts en toegangsrechten worden uitgegeven door bevoegde functionarissen.
+-Er wordt functiescheiding toegepast tussen aanvragen, autoriseren en verwerken van wijzigingen in gebruikersaccounts en toegangsrechten.
+-De gebruikersaccounts en toegangsrechten van alle medewerkers en externe gebruikers voor informatie en informatie verwerkende faciliteiten worden bij beëindiging van hun contract of overeenkomst verwijderd, en bij wijzigingen aangepast.";Toetsingskader Algemene Rekenkamer
+4.02;"-Een autorisatieprofiel bevat geen ongewenste functievermenging.
+-Een functionaris heeft geen beschikking over meerdere autorisatieprofielen die kunnen leiden tot functievermenging.
+-Er wordt geen gebruik gemaakt van generieke beheeraccounts of groepsaccounts.
+-Gebruikersaccounts en beheeraccounts dienen altijd
+persoonsgebonden en verklaard te zijn, zodat handelingen
+altijd te herleiden zijn naar één verantwoordelijke.
+-Het aantal beheeraccounts is beperkt / staat in logische verhouding tot het aantal beheerders.
+-Beheeraccounts worden alleen gebruikt voor beheerwerkzaamheden.";Toetsingskader Algemene Rekenkamer
+4.03;"-Als er geen gebruik wordt gemaakt van two-factor authenticatie, is de wachtwoordlengte minimaal 8 posities en complex van samenstelling.
+-De tijdsduur dat een account wordt geblokkeerd na overschrijding van het aantal keer foutief inloggen is vastgelegd.
+-In situaties waar geen two-factor authenticatie mogelijk is, wordt minimaal halfjaarlijks het wachtwoord vernieuwd.
+-De eisen aan wachtwoorden moeten geautomatiseerd worden afgedwongen.
+-Initiële wachtwoorden en wachtwoorden die gereset zijn,
+hebben een maximale geldigheidsduur van 24 uur en moeten bij het eerste gebruik worden gewijzigd.";Toetsingskader Algemene Rekenkamer
+4.04;"Eigenaren van bedrijfsmiddelen behoren toegangsrechten
+van gebruikers regelmatig te beoordelen en de uitkomsten dienen  te worden opgevolgd.";Toetsingskader Algemene Rekenkamer
+4.05;Gebruikers hebben alleen toegang tot de componenten waarvoor zij specifiek bevoegd zjin.;Toetsingskader Algemene Rekenkamer
+4.06;Logbestanden van gebeurtenissen die gebruikersactiviteiten, uitzonderingen en informatiebeveiligingsgebeurtenissen registreren, behoren te worden gemaakt, bewaard en regelmatig te worden beoordeeld.;Toetsingskader Algemene Rekenkamer
+4.07;Codewijzigingen vinden via een formeel wijzigingenproces plaats.;Toetsingskader Algemene Rekenkamer
+4.08;Regelmatig behoren back-up kopieën van informatie, software en systeemafbeeldingen te worden gemaakt en getest in overeenstemming met een overeengekomen back-up beleid;Toetsingskader Algemene Rekenkamer
+4.09;De gangbare principes rondom ‘security by design’ zijn uitgangspunt voor de ontwikkeling van software en systemen.;Toetsingskader Algemene Rekenkamer

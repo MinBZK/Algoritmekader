@@ -13,6 +13,13 @@ onderwerp:
 - bias-en-non-discriminatie
 rollen:
 - ontwikkelaar
+sources:
+  ADR:
+  - DM.5
+  - DM.6
+  ARK: 
+  - 2.15
+  - 2.21
 hide:
 - navigation
 - toc
@@ -72,7 +79,7 @@ Naast dat je de datasets willekeurig kan verdelen in drie delen (aselect), kan j
 Door onjuiste training van het model presteert het model in de praktijk minder goed dan bij de tests. Als trainings-, validatie- en testdata door elkaar lopen ("data leakage"), kan dit leiden tot overfitting, waardoor het model beter lijkt te presteren dan in werkelijkheid het geval is.
 
 ## Bronnen
-- [Onderzoekskader Auditdienst Rijk, DM.5, DM.6](https://open.overheid.nl/documenten/61b54381-d331-40ed-8fce-b2883b195f25/file)
+- [Onderzoekskader Auditdienst Rijk, DM.5, DM.6, DM.7](https://open.overheid.nl/documenten/61b54381-d331-40ed-8fce-b2883b195f25/file)
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 2.15, 2.21](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) 
 
 ## Voorbeeld

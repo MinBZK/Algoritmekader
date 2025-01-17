@@ -12,6 +12,9 @@ onderwerp:
 rollen:
 - ontwikkelaar
 - beleid-en-advies
+sources:
+  ADR: IB.26
+  ARK: 4.08
 hide:
 - navigation
 - toc

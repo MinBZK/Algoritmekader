@@ -20,6 +20,9 @@ onderwerp:
 rollen:
 - projectleider
 - beleid-en-advies
+sources:
+  ARK: 3.07
+  ADR: DM.10
 hide:
 - navigation
 - toc

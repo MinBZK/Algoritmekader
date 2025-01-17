@@ -19,6 +19,13 @@ onderwerp:
 rollen:
 - projectleider
 - beleid-en-advies
+sources:
+  ADR: 
+  - SV.5
+  - SV.6
+  ARK: 
+  - 2.01
+  - 3.11
 hide:
 - navigation
 - toc
@@ -77,7 +84,7 @@ Het niet inrichten van passende menselijke controle leidt tot onverantwoorde inz
 
 ## Bronnen
 
-- [Toetsingskader Algoritmes Algemene Rekenkamer, 2.01](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 2.01, 3.11](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Menselijke tussenkomst | Algoritmes | Algemene Rekenkamer](https://www.rekenkamer.nl/onderwerpen/algoritmes/toetsingskader/ethiek/menselijke-tussenkomst)
 - [Onderzoekskader Algoritmes Auditdienst Rijk, SV.5, SV.6](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) 
 - [Advies over geautomatiseerde selectietechniek Pels Rijcken, p.9](https://open.overheid.nl/documenten/6b5b5d5b-fdc1-4333-a11e-f89d3627a0f5/file)

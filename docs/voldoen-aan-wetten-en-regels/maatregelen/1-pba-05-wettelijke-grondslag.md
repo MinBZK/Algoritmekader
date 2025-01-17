@@ -12,6 +12,10 @@ onderwerp:
 - transparantie
 rollen:
 - jurist
+sources:
+  ADR: 
+  - SV.7
+  - PRI.6
 hide:
 - navigation
 - toc

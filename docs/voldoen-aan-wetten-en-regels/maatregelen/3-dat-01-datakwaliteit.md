@@ -11,6 +11,12 @@ onderwerp:
 - data
 rollen:
 - ontwikkelaar
+sources:
+  ADR: 
+  - DM.7
+  - DM.9
+  - DM.19
+  ARK: 2.18
 hide:
 - navigation
 ---
@@ -48,6 +54,7 @@ Stel vast of de gebruikte data van voldoende kwaliteit is voor de beoogde toepas
 
 - Zorg dat je data [vindbaar, toegankelijk, interoperabel en herbruikbaar (FAIR)](3-dat-02-fair-data.md) is.
 
+- Bepaal of de data voldoende representatief is voor de doelpopulatie en of de data voldoende representatief is voor eventuele relevante subgroepen uit de productiedata. 
 
 !!! note "Let op!"
 
@@ -62,7 +69,7 @@ Stel vast of de gebruikte data van voldoende kwaliteit is voor de beoogde toepas
 - Het model creëert onwenselijke systematische afwijking voor specifieke personen, groepen of andere eenheden. Dit kan leiden tot ongelijke behandeling en discriminerende effecten met eventuele schade voor betrokkenen. 
 
 ## Bronnen
-- [Onderzoekskader Algoritmes Auditdienst Rijk, DM.9, DM.19](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [Onderzoekskader Algoritmes Auditdienst Rijk, DM.7, DM.9, DM.19](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Toetsingskader Algoritmes, Algemene Rekenkamder, 2.18](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [NORA, Raamwerk gegevenskwaliteit](https://www.noraonline.nl/wiki/Raamwerk_gegevenskwaliteit)
 - [Impact Assessment Mensenrechten en Algoritmes, 2A.2.2](../hulpmiddelen/IAMA.md)

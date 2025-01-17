@@ -23,7 +23,7 @@ rollen:
 - ontwikkelaar
 sources:
   ADR: PRI.10
-  ARK: 2.10
+  ARK: '2.10'
 hide:
 - navigation
 - toc

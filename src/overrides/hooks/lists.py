@@ -61,7 +61,6 @@ def _create_table_row_2(file: File, filter_options: Dict[str, bool], current_fil
     vereiste = file.page.meta.get('vereiste', [])
     vereiste_id = file.page.meta.get('id', "")[14:] # remove the first part of the urn
     # categorie = file.page.meta.get('categorie', [])
-    # sources = file.page.meta.get('sources', [])
 
     rollen_chips = ''.join(_create_chip(rol, 'rol', current_file, config) for rol in rollen) if filter_options.get("rol", True) else ""
     levenscyclus_chips = ''.join(_create_chip(lc, 'levenscyclus', current_file, config) for lc in levenscyclus) if filter_options.get("levenscyclus", True) else ""
@@ -78,7 +77,6 @@ def _create_table_row_2(file: File, filter_options: Dict[str, bool], current_fil
             f"<td>{rollen_chips}</td>" if filter_options.get("rol", True) else "",
             f"<td>{levenscyclus_chips}</td>" if filter_options.get("levenscyclus", True) else "",
             f"<td>{onderwerp_chips}</td>" if filter_options.get("onderwerp", True) else "",
-            # f'<td><a href="{relative_link}">{sources}</a></td>',
             "</tr>",
         ]
     )
@@ -185,7 +183,6 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 # '<th role="columnheader">Categorie</th>' if filter_options["categorie"] else '',
                 '<th role="columnheader">Levenscyclus</th>' if filter_options["levenscyclus"] else '',
                 '<th role="columnheader">Onderwerpen</th>' if filter_options["onderwerp"] else '',
-                # '<th role="columnheader">Bronnen</th>',
                 "</tr>",
                 "</thead>",
                 "<tbody>",

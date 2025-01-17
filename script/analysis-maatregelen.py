@@ -146,9 +146,9 @@ print(final_dict)
 
 # export matrix to csv
 file_exists = os.path.isfile("relatie-ak-tot-toetsingskaders.csv")
-with open("elatie-ak-tot-toetsingskaders.csv", "w") as file:
+with open("relatie-ak-tot-toetsingskaders.csv", "w") as file:
     # write header
-    header = ['bron', 'maatregelen-ak', *urns]
+    header = ['nummer', 'bron', 'maatregelen-ak', *urns]
     writer = csv.writer(file)
     writer.writerow(header)
 

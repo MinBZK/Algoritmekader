@@ -60,11 +60,11 @@ Het AIIA kan toegepast worden in elke fase van ontwikkeling en inkoop van een AI
 
 ## Relevantie
 
-Het AIIA is praktischer dan veel andere beschikbare kaders en ontwikkeld samen met de organisatie. Hierdoor is deze goed toepasbaar in verschillende trajecten. Daarnaast is de laatste versie van de AI Act en geldige wet en regelgeving geïntegreerd waardoor dit een compleet document is die naar verschillende aspecten van het AI systeem kijkt.
+Het AIIA is praktisch ingestoken en is ontwikkeld samen met de organisatie. Hierdoor is de AIIA goed toepasbaar in verschillende trajecten. Daarnaast is de AIIA in 2024 vernieuwd (een eerste versie verscheen in 2022) waarbij de laatste versie van de AI Act en geldige wet en regelgeving geïntegreerd is, waardoor het een compleet document is geworden dat verschillende aspecten van een AI systeem behandelt.
 
 ## Auteur
 
-Het AIIA is ontwikkeld door het ministerie van IenW. Het is in nauwe samenwerking met de datalabs van ILT en RWS opgesteld. Het is een verplicht instrument binnen IenW, maar wordt inmiddels ook breder gebruikt. 
+Het AIIA is ontwikkeld door het Ministerie van Infratsructuur en Waterstaat (IenW). Het is opgesteld in nauwe samenwerking met de datalabs van de Inspectie Leefomgeving en transport en Rijkswaterstaat. Het is een verplicht instrument binnen het Ministerie van IenW, maar wordt inmiddels ook breder gebruikt. 
 
 ## Bijbehorende vereisten { data-search-exclude }
 

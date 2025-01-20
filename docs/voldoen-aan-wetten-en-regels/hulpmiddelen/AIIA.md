@@ -61,6 +61,8 @@ Het AIIA kan toegepast worden in elke fase van ontwikkeling en inkoop van een AI
 ## Relevantie
 
 Het AIIA is praktisch ingestoken en is ontwikkeld samen met de organisatie. Hierdoor is de AIIA goed toepasbaar in verschillende trajecten. Daarnaast is de AIIA in 2024 vernieuwd (een eerste versie verscheen in 2022) waarbij de laatste versie van de AI Act en geldige wet en regelgeving geïntegreerd is, waardoor het een compleet document is geworden dat verschillende aspecten van een AI systeem behandelt.
+Het AIIA kan in elke fase van een project worden ingezet. Zoek hierbij de diepgang en het detailniveau dat past bij het stadium van ontwikkeling en de risico’s van de applicatie. Het AIIA zet je bijvoorbeeld in als quick-scan om te onderzoeken of een AI-idee toegevoegde waarde heeft. Ook kan het gebruikt worden bij het maken van een projectplan zodat alle relevante aspecten, zoals bijvoorbeeld [technische robuustheid](../../onderwerpen/technische-robuustheid-en-veiligheid.md), impact en communicatie meegenomen worden. Er is binnen het Ministerie van IenW ook een invultemplate beschikbaar.
+
 
 ## Auteur
 

@@ -74,4 +74,4 @@ Het [AI Maturity Model](https://www.mitre.org/news-insights/publication/mitre-ai
 
 ------------------------------------------------------------------------
 
-Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl){.email}
+Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

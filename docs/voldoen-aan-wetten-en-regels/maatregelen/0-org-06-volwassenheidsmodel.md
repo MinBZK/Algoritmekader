@@ -47,8 +47,6 @@ Breng de volwassenheid van je organisatie op het gebied van algoritmes in kaart.
 
 !!! example "Voorbeeld: Interbestuurlijke Datastrategie - Datavolwassenheidsmodel"
 	
-	_Dit voorbeeld kan zonder veel aanpassingen in uw organisatie gebruikt worden._ 
-
      Het datavolwassenheidmodel van de Interbestuurlijke Datastrategie (IBDS) kijkt naar hoe goed organisaties omgaan met data. Dit model is ook belangrijk voor algoritmes, omdat [data](../../onderwerpen/data.md) daar een grote rol speelt. Het model heeft een beslishulp datavolwassenheid waarmee bepaald kan worden hoe volwassen een organisatie is met data. IBDS biedt ook een [gids](https://realisatieibds.nl/page/view/ad94d97c-4d48-443c-aedd-235b2d0ca8b6/wegwijzer-volwassenheidsmodellen) aan met verschillende manieren om de datavolwassenheid in kaart te brengen.
 	
 	Bron: [Beslishulp datavolwassenheid](https://realisatieibds.nl/groups/view/c23ab74c-adb4-424e-917d-773a37968efe/kenniscentrum-van-de-ibds/wiki/view/2447d2a8-6c48-468d-9739-00772688853f/beslishulp-datavolwassenheid)
@@ -57,9 +55,7 @@ Breng de volwassenheid van je organisatie op het gebied van algoritmes in kaart.
 
 
 !!! example "Voorbeeld: Krijger, Thuis, de Ruiter, Ligthart & Broekman - AI ethics maturity model*"
-	
-	_Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._
- 
+	 
 	Het in 2023 gepubliceerde ‘AI ethics maturity model' door Krijger, Thuis, de Ruiter, Ligthart & Broekman gebruikt zes categorieën om volwassenheid op verschillende niveaus in kaart te brengen. Dit model focust zich met name op het ethische aspect van volwassenheid met als categorieën: _awareness & culture_, _policy_, _governance_, _communication & training_, _development process_ en _tooling_. Er zijn vijf verschillende niveaus waar iedere categorie onder kan vallen om zo volwassenheid aan te geven.
 	
     Bron: [The AI ethics maturity model]( https://link.springer.com/article/10.1007/s43681-022-00228-7) 
@@ -68,8 +64,6 @@ Breng de volwassenheid van je organisatie op het gebied van algoritmes in kaart.
 
  !!! example "Voorbeeld: MITRE - AI Maturity Model en Organizational Assessment Tool"
 	
-	_Dit voorbeeld kan zonder veel aanpassingen in uw organisatie gebruikt worden._ 
-
 	MITRE is een Amerikaanse non-profitorganisatie en enigzins vergelijkbaar met het Nederlandse TNO. Zij hebben een AI Maturity Model en de bijbehorende Organizational Assessment Tool ontwikkeld. Dit volwassenheidsmodel onderscheidt een zestal pijlers in de AI volwassenheid van een organisatie en daarbij een vijftal volwassenheidsniveaus.  In dit document wordt ook toegelicht hoe een organisatie van een niveau naar het volgende kan ontwikkelen. Daarnaast wordt dit ook op individuele pijlers uitgelegd.
 
     [![MITRE AI Maturity Model](images/MITRE_Maturity-Model-Overview_0.png)](https://www.mitre.org/news-insights/publication/mitre-ai-maturity-model-and-organizational-assessment-tool-guide)

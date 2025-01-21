@@ -36,8 +36,6 @@ Richt algoritmegovernance in op basis van de risicoclassificatie van algoritmes.
 ## Voorbeelden
 
 !!! example "Gemeente Rotterdam: Processchema governance"
-
-    _Dit voorbeeld heeft een aantal aanpassingen nodig voordat deze in uw organisatie te gebruiken is._
     
     Hieronder staat een schematische weergave van hoe de gemeente Rotterdam algoritme governance toepast. Zij kiezen ervoor om dit alleen toe te passen op hoog-risico AI volgens de definitie van de AI-Verordening. Voor laag-risico toepassingen gebruiken ze hun standaard governanceprotocol (zie figuur hieronder). 
     Ongeacht het risico wordt er ook een drietal vragen gesteld, waarbij verdere instrumenten ingezet moeten worden als alle vragen met "Ja" beantwoord worden:

@@ -60,8 +60,6 @@ Zonder duidelijk beleid over de inzet van algoritmes kan het gebeuren dat algori
 
 !!! example "Handreiking Algoritmen - Gemeente Amsterdam"
 	
-	_Dit voorbeeld heeft een aantal aanpassingen nodig voordat deze in uw organisatie te gebruiken is._ 
-
 	Gemeente Amsterdam heeft een Handreiking Algoritmen ontwikkeld waarin de aanpak van en instrumenten voor verantwoord algoritme­­gebruik in Amsterdam worden toegelicht. Denk aan governance voor verantwoorde toepassing van algoritmes, en contractvoorwaarden voor algoritmische toepassingen.
 	
 	Bron: [Handreiking Algoritmen](https://www.amsterdam.nl/innovatie/digitalisering-technologie/handreikingen-playbooks/) (Er zijn hier ook handreikingen te vinden over _Dataverzameling_ en _Digitale ongelijkheid_.

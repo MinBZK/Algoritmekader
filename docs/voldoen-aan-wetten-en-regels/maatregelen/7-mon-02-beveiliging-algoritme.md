@@ -54,8 +54,6 @@ Oneigenlijke toegang van buitenaf kan plaatsvinden via zwakheden in het systeem.
 
 !!! example "Voorbeeld: Nationaal Cyber Security Centrum - Richtlijnen veilig software ontwikkelen"
 	
-	_Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._
-
      In een publicatie van het Nationaal Cyber Security Centrum van het Ministerie van Justitie en Veiligheid over het ontwikkelen van veilige software staat beschreven hoe op beleidsmatig en beheersingsniveau beveiligingsrichtlijnen toegepast kunnen worden. Daarnaast wordt het uitvoeringsdomein (voor implementatie) ook benoemd, maar wordt deze opgesplitst in webapplicaties en mobiele apps.
 
      Deze beleids- en beheersingsrichtlijnen worden uitgewerkt per onderdeel om zo een duidelijk beeld te geven van hoe dit toegepast kan worden. De exacte toepassing zal verschillen per organisatie, dit document dient als basis.

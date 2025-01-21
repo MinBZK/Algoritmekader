@@ -12,7 +12,9 @@ onderwerp:
 rollen:
 - projectleider
 sources:
-  ADR: SV.3
+  ADR:
+  - SV.3
+  - DM.7
   ARK: 
   - 1.01
   - 1.02
@@ -34,7 +36,9 @@ Maak de consequenties van het algoritme specifiek en zorg dat het doel van het a
 Indien er meerdere doelen zijn, is het belangrijk om een zekere rangorde te maken: wat zijn de belangrijkste doelen? En waarom?
 Welke doelen zijn subdoelen, waarvoor het minder belangrijk is om deze te realiseren?
 
-- Indien mogelijk, dienen de doelstellingen gekwantificeerd te worden (SMART). 
+- Indien mogelijk, dienen de doelstellingen gekwantificeerd te worden (SMART).
+
+- Probeer vast te stellen wat de doelpopulatie is, zodat in een later stadium data kan worden gezocht die [representatief is daarvoor, wat bijdraagt aan de datakwaliteit](3-dat-01-datakwaliteit.md) van een algoritme.
 
 - Om te zorgen voor voldoende draagvlak voor de beoogde doelen, is het noodzaak om [voldoende belanghebbenden te betrekken](1-pba-04-betrek-belanghebbenden.md). 
 Hierbij kan het ook helpen om burgers te betrekken bij de totstandkoming van de doelstellingen, bijvoorbeeld door middel van een burgerpanel of het betrekken van belangengroepen. 
@@ -59,7 +63,7 @@ Doelstellingen zijn in dat geval moeilijk bespreekbaar.
 
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 1.01, 1.02](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Impact Assessment Mensenrechten en Algoritmes, 1.2](https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes)
-- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.3](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.3, DM.7](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 
 ## Voorbeeld
 

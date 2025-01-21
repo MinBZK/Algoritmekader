@@ -29,7 +29,8 @@ Breng de volwassenheid van je organisatie op het gebied van algoritmes in kaart.
 -   Deel deze informatie met het bestuur en zorg dat hier bewustzijn ontstaat. Bepaal vervolgens hoe algoritmegovernance moet worden ingericht.
 -   Het is aan te raden om verantwoordelijkheden te beleggen voor het realiseren van algoritmegovernance.
 
-## Bronnen
+## Risico
+Als je niet een goed beeld hebt van waar de organisatie staat is het moeilijk te peilen welke richting gekozen moet worden en kan dit leiden tot herhaling en het doen van dubbel werk.
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 
@@ -39,11 +40,10 @@ Breng de volwassenheid van je organisatie op het gebied van algoritmes in kaart.
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
-## Risico
+## Bronnen
+Geen beschikbare bron voor deze maatregel.
 
-<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-
-## Voorbeelden van volwassenheidsmodellen
+## Voorbeelden
 
 Er zijn verschillende modellen om het volwassenheidsniveau te bepalen. Deze modellen richten zich niet altijd specifiek op het beheer van algoritmes, maar kijken breder naar algoritmes in de organisatie of naar ethische vraagstukken. Governance is altijd een onderdeel van deze modellen.
 
@@ -74,4 +74,4 @@ Het [AI Maturity Model](https://www.mitre.org/news-insights/publication/mitre-ai
 
 ------------------------------------------------------------------------
 
-Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes\@minbzk.nl](mailto:algoritmes@minbzk.nl){.email}
+Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl){.email}

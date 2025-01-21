@@ -80,8 +80,6 @@ Deze belangenenafweging moet per context gemaakt worden.
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
 !!! example "Algorithm Audit: analyse Controle Uitwonendenbeurs"
-
-	_Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._
  
 	Algorithm Audit heeft de risicoprofilering in het Controle Uitwonendenbeurs-proces (CUB-proces) onderzocht op verzoek van Dienst Uitvoering Onderwijs (DUO). DUO heeft tussen 2010 en 2023 gebruik gemaakt van een risicoprofiel voor het tegengaan van onrechtmatig gebruik van de uitwonendenbeurs. Dit is in 2023 in opspraak geraakt en DUO heeft verzocht of Algorithm Audit hier verder onderzoek naar te doen. 
     Tijdens de kwantitatieve analyse heeft Algorithm Audit gewerkt aan de hand van aselecte steekproeven. Aan de hand van deze data hebben ze verschillende deelvragen beantwoord en blijkt dat tussen een aantal selectiecriteria onvoldoende statistisch verband gebleken is. Doormiddel van de aselecte steekproef blijkt hierdoor dat de selectie(criteria) aangepast moet(en) worden.
@@ -92,8 +90,6 @@ Deze belangenenafweging moet per context gemaakt worden.
 
 
  !!! example "Rijksdienst voor Ondernemend Nederland: Risicocontrole Subsidieaanvragen"
-
-	_Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._
  
     De Rijksdienst voor Ondernemend Nederland (RVO) maakt gebruik van een algoritme bij het behandelen van subsidieaanvragen. Hierbij wordt bij iedere aanvraag een risico-indicatie gemaakt op basis van een aantal regels. Als er volgens het algoritme geen risico’s zijn wordt de aanvraag automatisch aangemaakt, zo niet wordt de aanvraag nog beoordeeld door een adviseur.    
     

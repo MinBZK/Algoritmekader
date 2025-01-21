@@ -42,20 +42,23 @@ Een duidelijk beleid over de inzet van algoritmes helpt organisaties te voldoen 
 
 - Er is beschreven welke informatie over welke typen algoritmes wordt gecommuniceerd met betrokkenen bij de ontwikkeling of gebruik ervan door de organisatie. 
 
-- Er is beschreven welke stappen worden gezetten in het geval dat er incidenten ontstaan rondom de inzet van algoritmes, denk hierbij aan een [discriminatieprotocol](0-org-15-discriminatieprotocol.md).
+- Er is beschreven welke stappen worden gezet in het geval dat er incidenten ontstaan rondom de inzet van algoritmes, denk hierbij aan een [discriminatieprotocol](0-org-15-discriminatieprotocol.md).
 
-- Dit beleidsdocument is beschikbaar en toegankelijk voor geïnteresseerden. 
+- Dit beleidsdocument is beschikbaar en toegankelijk voor geïnteresseerden.
 
-## Bronnen
+## Risico 
+Zonder duidelijk beleid over de inzet van algoritmes kan het gebeuren dat algoritmes worden ontwikkeld of gebruikt die niet passend zijn binnen de organisatie. 
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
-## Risico 
-Zonder duidelijk beleid over de inzet van algoritmes kan het gebeuren dat algoritmes worden ontwikkeld of gebruikt die niet passend zijn binnen de organisatie. 
+## Bronnen
+
+Geen beschikbare bron voor deze maatregel.
 
 ## Voorbeelden
 

@@ -39,8 +39,6 @@ Als er geen regelmatige back-ups worden gemaakt en de restore-procedure niet reg
 
 !!! example "Voorbeeld: Informatie Beveligingsdienst - Handreiking back-up en herstel"
 	
-	_Dit voorbeeld kan zonder veel aanpassingen in uw organisatie gebruikt worden._ 
-
     De Informatiebeveiligingsdienst van de Vereniging Nederlandse Gemeenten (VNG) heeft een handreiking back-up en herstel ontwikkeld. Hierin staat uitleg over de wetgeving rondom back-ups en het herstellen van back-ups.
 
     Aan het einde van deze handreiking staat ook een voorbeeld voor beleid voor gemeentes. Hierin staan al een aantal uitgangspunten die de gemeente alleen hoeft te kopiëren en te ondertekenen.

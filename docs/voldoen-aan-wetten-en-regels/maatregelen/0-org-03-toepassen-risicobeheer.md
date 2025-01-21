@@ -54,7 +54,7 @@ Risico's worden niet (tijdig) vastgesteld en adequaat geadresseerd en behandeld.
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 1.03](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - Algoritmekader
 
-## Voorbeeld
+## Voorbeelden
 !!! example "Ministerie van Economische Zaken: Gids AI-verordening"
 
     _Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._

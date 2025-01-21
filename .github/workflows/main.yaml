@@ -31,6 +31,6 @@ jobs:
       - name: install dependencies
         run: |
           git config --global url."https://github-actions:${{ secrets.MATERIAL_INSIDERS_TOKEN }}@github".insteadOf ssh://git@github
-          pip install -r requirements.txt
+          pip install -r requirements-prod.txt
 
       - run: mkdocs gh-deploy --force

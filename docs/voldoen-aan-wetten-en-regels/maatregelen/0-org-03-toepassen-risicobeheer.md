@@ -56,8 +56,6 @@ Risico's worden niet (tijdig) vastgesteld en adequaat geadresseerd en behandeld.
 
 ## Voorbeeld
 !!! example "Nationaal Cyber Security Centrum: Richtlijnen veilig software ontwikkelen"
-
-    _Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._
     
     Het Nationaal Cyber Security Centrum van het ministerie van Justitie en Veiligheid heeft een publicatie over het ontwikkelen van veilige software. Hierin staat beschreven hoe op beleidsmatig niveau beveiligingsrichtlijnen toegepast kunnen worden. Er wordt in Hoofdstuk B.03 'Risicomanagement' een duidelijk beeld geschetst van wat noodzakelijke maatregelen hiervoor zijn. 
     

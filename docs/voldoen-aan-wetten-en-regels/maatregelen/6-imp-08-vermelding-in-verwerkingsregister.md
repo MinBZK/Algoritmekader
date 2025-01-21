@@ -47,8 +47,6 @@ Betrokkenen en de interne organisatie zijn niet op de hoogte welke persoonsgegev
 ## Voorbeeld
 
 !!! example "Gemeente Amsterdam: Blurring as a Service"
-
-	_Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._
  
 	De Gemeente Amsterdam maakt gebruik van een algoritme waarmee mensen op straat beter geanonimiseerd kunnen worden; Blurring as a Service. Hierbij worden persoonsgegevens zoals gezicht en andere lichaamskenmerken (biometrische persoonsgegevens) vervaagd of ‘geblurd’.
 

@@ -71,8 +71,6 @@ De volgende vragen kunnen bedragen om bovenstaande inzichtelijk te krijgen:
 
 !!! example "Handreiking gezamenlijk gebruik IAMA en DPIA - Ministerie van BZK"
 	
-	_Dit voorbeeld kan zonder veel aanpassingen in uw organisatie gebruikt worden._ 
-
 	Binnen het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) is een handreiking opgesteld om twee verschillende instrumenten goed samen te kunnen gebruiken; Data Protection Impact Assessment (DPIA) en Impact Assessment Mensenrechten en Algoritmes (IAMA). 
 
  	In deze handreiking wordt toegelicht wat de overeenkomsten en verschillen tussen het IAMA en DPIA zijn. Daarnaast wordt aangegeven hoe deze instrumenten gecombineerd kunnen worden. Het doel is om zo deze instrumenten op een efficiënte en gebruikersvriendelijke manier samen te kunnen gebruiken.

@@ -52,7 +52,7 @@ hide: navigation
 
 ## Hulpmiddel
 
-Het AIIA is een praktisch hulpmiddel en begeleidt het denkproces, met als doel de verantwoording, kwaliteit en reproduceerbaarheid van AI-inzet te vergroten. Het AIIA kijkt naar obstakels in de dataverzameling, het AI-model, de algoritmiek en houdt rekening met geldende wet- en regelgeving. Een ingevuld AIIA maakt de gemaakte afwegingen om een AI-systeem wel of niet te gebruiken inzichtelijk. Het AIIA wordt ingevuld door een multi-disciplinair team.
+Het AIIA is een praktisch hulpmiddel en begeleidt het denkproces achter AI-ontwikkeling en -inzet, met als doel de verantwoording, kwaliteit en reproduceerbaarheid van AI-inzet te vergroten. Het AIIA kijkt naar risico's met betrekking tot dataverzameling, het AI-model, de algoritmiek en houdt rekening met geldende wet- en regelgeving. Een ingevuld AIIA maakt de gemaakte afwegingen om een AI-systeem wel of niet te gebruiken inzichtelijk. Het AIIA wordt ingevuld door een multi-disciplinair team.
 
 Het AIIA bestaat uit twee delen. Deel A gaat in op de afwegingen voor het gebruik van een AI-systeem: wat is het doel en de verwachte effecten? Met deze informatie wordt een afweging gemaakt voor de toepassing van het AI-systeem en eventuele maatregelen. Op deze manier is de ethische discussie rondom de wenselijkheid van de toepassing aantoonbaar. Deel B gaat over de inrichting, implementatie en het gebruik van het AI-systeem.
 
@@ -62,6 +62,8 @@ Het AIIA kan toegepast worden in elke fase van ontwikkeling en inkoop van een AI
 
 Het AIIA is praktisch ingestoken en is ontwikkeld samen met de organisatie. Hierdoor is de AIIA goed toepasbaar in verschillende trajecten. Daarnaast is de AIIA in 2024 vernieuwd (een eerste versie verscheen in 2022) waarbij de laatste versie van de AI Act en geldige wet en regelgeving geïntegreerd is, waardoor het een compleet document is geworden dat verschillende aspecten van een AI systeem behandelt.
 Het AIIA kan in elke fase van een project worden ingezet. Zoek hierbij de diepgang en het detailniveau dat past bij het stadium van ontwikkeling en de risico’s van de applicatie. Het AIIA zet je bijvoorbeeld in als quick-scan om te onderzoeken of een AI-idee toegevoegde waarde heeft. Ook kan het gebruikt worden bij het maken van een projectplan zodat alle relevante aspecten, zoals bijvoorbeeld [technische robuustheid](../../onderwerpen/technische-robuustheid-en-veiligheid.md), impact en communicatie meegenomen worden. Er is binnen het Ministerie van IenW ook een invultemplate beschikbaar.
+
+Het AIIA heeft enige overlap met het IAMA. Het AIIA is echter specifiek voor AI ontwikkeld, waar het IAMA toepasbaar is op alle soorten algoritmes. 
 
 
 ## Auteur

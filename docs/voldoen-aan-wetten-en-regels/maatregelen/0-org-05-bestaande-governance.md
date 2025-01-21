@@ -72,5 +72,5 @@ Een concreet voorbeeld van samen optrekken is [deze handreiking](https://www.cip
     
     _Centrale privacy officer Kadaster_
 
-Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl){.email}
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
 

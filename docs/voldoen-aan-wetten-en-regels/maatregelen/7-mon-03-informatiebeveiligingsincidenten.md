@@ -54,7 +54,7 @@ Te late reactie op incidenten kan ervoor zorgen dat de BIV (beschikbaarheid, int
 
 	Het Netwerk Informatiebeveiliging en Privacy (IBP) voor primair en voortgezet onderwijs heeft een template voor incidentmanagementbeleid, het incidentmanagementproces en een beveiligingsincident stappenplan & logboek. In het procestemplate staat onder andere een procesflow, een beschrijving van alle processtappen en een communicatieplan.
 
-	Deze documenten zijn specifiek voor primair en voortgezet onderwijs maar zijn gemakkelijk aan te passen. Dit zijn met name meldingen zijn naar het IBP zijn die voor andere organisaties niet van toepassing zijn. 
+	Deze documenten zijn specifiek voor primair en voortgezet onderwijs maar zijn gemakkelijk aan te passen.
  
 	Bron: [Incidentmanagement](https://aanpakibp.kennisnet.nl/incidentmanagement/#tools-en-voorbeelddocumenten)
 

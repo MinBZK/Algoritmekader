@@ -11,7 +11,7 @@ rollen:
 soort-toepassing:
 - ai-systeem
 - ai-systeem-voor-algemene-doeleinden
-publicatiecategorie:
+risicogroep:
 - hoog-risico-ai-systeem
 rol-ai-act:
 - gebruiksverantwoordelijke
@@ -37,7 +37,7 @@ De gebruiksverantwoordelijke als werknemer dient hier zorg voor te dragen.
 ## Bronnen
 [Artikel 26(7) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e4350-1-1)
 
-## Wanneer van toepassing? 
+## Van toepassing op 
 <!-- tags-ai-act -->
 
 ## Risico

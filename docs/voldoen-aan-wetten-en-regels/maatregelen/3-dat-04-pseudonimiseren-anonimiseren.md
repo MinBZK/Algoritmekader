@@ -46,5 +46,12 @@ Pas maatregelen toe als pseudonimiseren, anonimisering of aggregeren van persoon
     _[Volgens de Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/themas/beveiliging/beveiliging-van-persoonsgegevens/gegevens-pseudonimiseren#:~:text=De%20European%20Data%20Protection%20Board,privacytoezichthouders%20uit%20de%20EER%20samenwerken.) werkt de EDPB aan guidelines over anonimiseren en pseudonimiseren. Zodra hier meer over bekend is, zal dit toegevoegd worden._
         
     Bron: [Advies 5/2014 over anonimiseringstechnieken](https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2014/wp216_nl.pdf)
+
+!!! example "Gemeente Amsterdam: Blurring as a Service"
+
+	De Gemeente Amsterdam maakt gebruik van een algoritme waarmee mensen op straat beter geanonimiseerd kunnen worden; Blurring as a Service. Hierbij worden persoonsgegevens zoals gezicht en andere lichaamskenmerken (biometrische persoonsgegevens) vervaagd of ‘geblurd’.
+
+	Bron: [Gemeente Amsterdam - Blurring as a Service]([https://www.amsterdam.nl/privacy/verwerkingsregister/verwerkingsregister-avg/](https://algoritmeregister.amsterdam.nl/ai-system/blurring-as-a-service/1132/))
+    
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
 

@@ -13,6 +13,7 @@ rollen:
 - projectleider
 sources:
   ADR: PRI.5
+  ARK: 2.20
 hide:  
 - navigation  
 - toc  
@@ -52,5 +53,6 @@ Zonder dataminimalisatie loopt je organisatie het risico op onnodig hoge energie
 
 ## Bronnen
 - [Onderzoekskader Auditdienst Rijk, PRI.5](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 2.20](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Rijks ICT-dashboard](https://www.rijksictdashboard.nl/duurzaamheid)
 - [Sustainable artificial intelligence – TU Delft](https://www.tudelft.nl/en/stories/articles/sustainable-artificial-intelligence-from-chatgpt-to-green-ai)

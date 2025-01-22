@@ -9,6 +9,8 @@ onderwerp:
 - governance
 soort-toepassing:
 - ai-systeem
+- ai-systeem-voor-algemene-doeleinden
+- ai-model-voor-algemene-doeleinden
 risicogroep:
 - verboden-ai
 rol-ai-act:

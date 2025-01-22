@@ -30,7 +30,7 @@ Aanbieders van AI-systemen met een hoog risico zorgen ervoor dat voor het AI-sys
 
 Conformiteitsbeoordelingen dragen bij aan het kunnen vertrouwen op de kwaliteit van producten en diensten. Aanbieders van AI-systemen met een hoog risico moeten ervoor zorgen dat de conformiteitsbeoordelingsprocedure wordt uitgevoerd vóórdat het systeem op de markt wordt gebracht of in gebruik wordt genomen. Hiervoor moet worden beoordeeld of het ontwikkelde hoog risico AI-systeem voldoet aan de vereisten die gelden voor deze systemen. Denk hierbij aan de vereisten van risicobeheer, technische documentatie, data en datagovernance en transparantie en informatieverstrekking aan gebruiksverantwoordelijken (Afdeling 2, AI-Verordening).  
 
-Een conformiteitbeoordeling kan in de meeste gevallen worden uitgevoerd door middel van een interne controle (als bedoeld in [bijlage VI van de AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#anx_VI). 
+Een conformiteitbeoordeling kan in de meeste gevallen worden uitgevoerd door middel van een interne controle (als bedoeld in [bijlage VI van de AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#anx_VI)).
 
 In sommige gevallen dient de conformiteitsbeoordeling uitgevoerd te worden door een derde partij. De conformiteitsbeoordeling dient door een derde partij uitgevoerd te worden voor:
 

@@ -43,8 +43,8 @@ Maak in de ontwerpfase de volgende afwegingen:
     Leg vast welke keuzes er gemaakt zijn en waarom deze keuzes zijn gemaakt. 
 
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Wanneer robuustheid niet in het ontwerp wordt meegenomen, kan er voor een model worden gekozen waar het niet mogelijk is robuustheid voldoende te waarborgen.

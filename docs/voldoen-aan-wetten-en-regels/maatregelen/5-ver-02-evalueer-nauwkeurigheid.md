@@ -62,7 +62,8 @@ In verschillende omgevingen en onder verschillende datasets moeten de relevante 
 
 ## Bijbehorende vereiste(n)
 
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Een onnauwkeurig algoritme geeft de verkeerde uitkomsten waardoor situaties of mogelijk personen verkeerd beoordeeld kunnen worden. 

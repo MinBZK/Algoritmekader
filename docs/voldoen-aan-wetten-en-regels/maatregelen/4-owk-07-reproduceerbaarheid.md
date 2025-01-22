@@ -66,7 +66,8 @@ Het is belangrijk om het algoritme te testen op de mate van reproduceerbaarheid.
 - Indien er gebruik wordt gemaakt van generatieve AI kan er getest worden wat de uitkomsten zijn voor dezelfde of heel vergelijkbare prompts. 
 
 ## Bijbehorende vereiste(n)
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Wanneer uitkomsten niet herhaald kunnen worden, kan er niet worden gegarandeerd dat vergelijkbare casussen tot vergelijkbare uitkomsten komen. 

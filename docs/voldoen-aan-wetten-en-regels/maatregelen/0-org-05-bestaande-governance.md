@@ -60,15 +60,23 @@ De volgende vragen kunnen bedragen om bovenstaande inzichtelijk te krijgen:
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
 
 ## Voorbeelden
-Een concreet voorbeeld van samen optrekken is [deze handreiking](https://www.cip-overheid.nl/media/av0dmahv/20230614-gezamenlijk-gebruik-iama-en-model-dpia-rijksdienst-v1-0.pdf) om de IAMA en DPIA gezamelijk uit te voeren.
 
 !!! example "Voorbeeld: Ervaringen Kadaster" 
+	Enkele ervaringen van het Kadaster bij het aansluiten van nieuwe onderwerpen op de bestaande governance-structuren:
+ 	
+	1. Bij de inwerkingtreding van de AVG ging men bij veel organisaties, waaronder het Kadaster, voortvarend aan de slag met DPIA’s en andere instrumenten. Volgens het Kadaster is het echter belangrijk te waken voor een schijndossier: begrijp goed wat daadwerkelijk toegepast moet worden voordat je begint; voer geen acties uit alleen om maar aan te tonen dat je eraan voldoet.
+	2. Het Kadaster benadrukt daarnaast het belang van een doordachte governance. Hoewel de rol van de Functionaris Gegevensbescherming (FG) wettelijk is vastgelegd, is dit niet voldoende. Er moet worden nagedacht over de benodigde profielen ter ondersteuning van de uitvoering, zoals (centrale) privacy officers, en of hiervoor voldoende capaciteit beschikbaar is.
+	3. Verder is het volgens het Kadaster essentieel dat interpretaties van wet- en regelgeving consistent zijn binnen de organisatie en tussen collega’s die binnen de governance-structuur samenwerken.
+	4. Uit ervaring blijkt bovendien dat er vaak beleid wordt opgesteld, maar dat in de praktijk de capaciteit ontbreekt om dit uit te voeren. Daarom pleit het Kadaster voor een realistisch beleidsplan waarmee de gestelde doelen daadwerkelijk kunnen worden gerealiseerd.
+       
 
-    1. Bij inwerkingtreding van de AVG ging men snel aan de slag met DPIA’s, vinkenlijstjes. Let op voor een schijndossier: Begrijp wat er toegepast moet worden, voordat je aan de slag gaat; niet uitvoeren om maar te laten zien dat je eraan voldoet.
-    2. Nadenken over governance. De FG is bij de wet geregeld, maar er is meer nodig. Welke profielen heeft de ondersteuning voor de uitvoering; (centrale) privacy officers en is hier ruimte voor?
-    3. Zorg dat interpretaties over wet- en regelgeving gelijk zijn binnen de organisatie en de collega’s die binnen de governance structuur samenwerken.
-    4. Er is beleid gemaakt, maar in de praktijk is te weinig capaciteit om dit uit te voeren. Stel een realistisch beleidsplan op om de gestelde doelen daadwerkelijk te kunnen realiseren. 
-    
-    _Centrale privacy officer Kadaster_
+!!! example "Handreiking gezamenlijk gebruik IAMA en DPIA - Ministerie van BZK"
+	
+	Binnen het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) is een handreiking opgesteld voor het gezamenlijk gebruik van twee impact assessments: de [Data Protection Impact Assessment (DPIA)](../hulpmiddelen/DPIA.md) en [Impact Assessment Mensenrechten en Algoritmes (IAMA)](../hulpmiddelen/IAMA.md).
 
+ 	In deze handreiking wordt toegelicht wat de overeenkomsten en verschillen tussen het IAMA en DPIA zijn. Daarnaast wordt aangegeven hoe deze instrumenten gecombineerd kunnen worden. Het doel is om zo deze instrumenten op een efficiënte en gebruikersvriendelijke manier samen te kunnen gebruiken.
+
+	Bron: [Handreiking gezamenlijk gebruik IAMA en Model DPIA Rijksdienst](https://www.cip-overheid.nl/media/av0dmahv/20230614-gezamenlijk-gebruik-iama-en-model-dpia-rijksdienst-v1-0.pdf)
+ 
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
 

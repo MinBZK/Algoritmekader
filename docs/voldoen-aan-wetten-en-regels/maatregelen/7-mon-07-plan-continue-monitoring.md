@@ -58,7 +58,8 @@ Betrek bij het opstellen van dit plan een [diverse groep van belanghebbenden](1-
 
 ## Bijbehorende vereiste(n)
 
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+	<!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Tijdens dagelijks gebruik wil je continu monitoren of het systeem nog werkt zoals beoogd. Wanneer dit niet gebeurt worden mogelijke fouten en veiligheidsrisico’s niet opgemerkt. 

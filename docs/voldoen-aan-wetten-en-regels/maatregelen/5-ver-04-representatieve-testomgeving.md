@@ -46,7 +46,8 @@ Voorbeelden om bij te dragen aan een representatieve testomgeving:
 
 ## Bijbehorende vereiste(n)
 
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Als het algoritme niet getest wordt, of getest wordt in niet-representatieve omstandigheden, kan er een onterecht vertrouwen in het algoritme ontstaan. 

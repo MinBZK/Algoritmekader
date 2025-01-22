@@ -82,6 +82,26 @@ Het niet inrichten van passende menselijke controle leidt tot onverantwoorde inz
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
+
+## Voorbeeld
+
+!!! example "Hof van Justitie van de Europese Unie: Prejudiciële verwijzing"
+ 
+    In 2021 heeft een burger SCHUFA (een Duits bedrijf wat kredietwaardigheid informatie deelt met derden) aangeklaagd naar aanleiding van een niet ingewilligd verzoek tot inzage en wissing van diens persoonsgegevens. De reden hiervoor kwam door een afwijzing van ondersteuning op basis van geautomatiseerde individuele besluitvorming. Zij maakten geen gebruik van betekenisvolle menselijke controle en dus is SCHUFA verantwoordelijk gehouden.
+
+	Bron: [HvJEU december 2023, ECLI:EU:C:2023:957 (SCHUFA Scoring)](https://eur-lex.europa.eu/legal-content/nl/TXT/?uri=CELEX:62021CJ0634)
+
+
+!!! example "Rijksdienst voor Ondernemend Nederland: Risicocontrole Subsidieaanvragen"
+ 
+    De Rijksdienst voor Ondernemend Nederland (RVO) maakt gebruik van een algoritme bij het behandelen van subsidieaanvragen. Hierbij wordt bij iedere aanvraag een risico-indicatie gemaakt op basis van een aantal regels. Als er volgens het algoritme geen risico’s zijn wordt de aanvraag automatisch aangemaakt, zo niet wordt de aanvraag nog beoordeeld door een adviseur.
+
+    Daarnaast worden aanvragen met ingewikkelde technieken of boven een bepaald bedrag altijd door een adviseur beoordeeld. Op deze manier is er sprake van betekenisvolle [menselijke controle](../../onderwerpen/menselijke-controle.md).
+    
+	Bron: [Rijksdienst voor Ondernemend Nederland: Risicocontrole Subsidieaanvragen](https://algoritmes.overheid.nl/nl/algoritme/risicocontrole-sde-subsidieaanvragen-rijksdienst-voor-ondernemend-nederland/51892728#verantwoordGebruik)
+
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)  
+
 ## Bronnen
 
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 2.01, 3.11](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
@@ -96,11 +116,6 @@ Het niet inrichten van passende menselijke controle leidt tot onverantwoorde inz
 -	[Managing supplier delivery reliability risk under limited information: Foundations for a human-in-the-loop DSS - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0167923612002886)
 -	[Human control of AI systems: from supervision to teaming | AI and Ethics (springer.com)](https://link.springer.com/article/10.1007/s43681-024-00489-4)
 -	[Zijn er beperkingen op het gebruik van geautomatiseerde besluitvorming? - Europese Commissie](https://commission.europa.eu/law/law-topic/data-protection/rules-business-and-organisations/dealing-citizens/are-there-restrictions-use-automated-decision-making_nl#:~:text=Example-,Antwoord,is%20of%20hen%20aanzienlijk%20be%C3%AFnvloedt.)
-
-
-## Voorbeeld
-
-[HvJEU december 2023, ECLI:EU:C:2023:957 (SCHUFA Scoring)](https://curia.europa.eu/juris/document/document.jsf?text=&docid=280426&pageIndex=0&doclang=NL&mode=lst&dir=&occ=first&part=1&cid=7436066)
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: Verboden AI-systemen mogen niet worden gebruikt
+title: Verboden AI mag niet worden gebruikt
 id: urn:nl:ak:ver:aia-00
 toelichting: Als een AI-systeem valt onder een toepassingen zoals beschreven in Artikel 5 AI-Verordening, dan is het niet toegestaan om deze te gebruiken.  
 levenscyclus:

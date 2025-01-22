@@ -56,7 +56,6 @@ Oneigenlijke toegang van buitenaf kan plaatsvinden via zwakheden in het systeem.
 	
      In een publicatie van het Nationaal Cyber Security Centrum van het Ministerie van Justitie en Veiligheid over het ontwikkelen van veilige software staat beschreven hoe op beleidsmatig en beheersingsniveau beveiligingsrichtlijnen toegepast kunnen worden. Daarnaast wordt het uitvoeringsdomein (voor implementatie) ook benoemd, maar wordt deze opgesplitst in webapplicaties en mobiele apps.
 
-     Deze beleids- en beheersingsrichtlijnen worden uitgewerkt per onderdeel om zo een duidelijk beeld te geven van hoe dit toegepast kan worden. De exacte toepassing zal verschillen per organisatie, dit document dient als basis.
      
     Bron: [Beleids- en beheersingsrichtlijnen voor de ontwikkeling van veilige software]( https://www.ncsc.nl/documenten/publicaties/2019/mei/01/beleids--en-beheersingsrichtlijnen-voor-de-ontwikkeling-van-veilige-software)
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 

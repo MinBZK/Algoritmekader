@@ -64,7 +64,6 @@ Het algoritme wordt onjuist gebruikt of verkeerd geïnterpreteerd door gebruiker
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
 !!! example "Gemeente Utrecht: Handleiding Generatieve AI"
 
-	_Dit voorbeeld heeft een aantal aanpassingen nodig voordat deze in uw organisatie te gebruiken is._
  
 	De gemeente Utrecht heeft in April 2024 een handleiding gepubliceerd voor Generatieve AI (GenAI), bijvoorbeeld ChatGPT. Hierin wordt uitgelegd hoe het systeem gebruikt kan worden, om zo medewerkers uit te leggen welke risico’s vastzitten aan het gebruik van GenAI. Daarnaast wordt benoemd hoe de beslissingen rondom deze handleiding tot stand zijn gekomen. 
 

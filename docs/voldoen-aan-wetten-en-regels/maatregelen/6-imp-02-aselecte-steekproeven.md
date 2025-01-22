@@ -81,8 +81,8 @@ Deze belangenenafweging moet per context gemaakt worden.
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
 !!! example "Algorithm Audit: analyse Controle Uitwonendenbeurs"
  
-	Algorithm Audit heeft de risicoprofilering in het Controle Uitwonendenbeurs-proces (CUB-proces) onderzocht op verzoek van Dienst Uitvoering Onderwijs (DUO). DUO heeft tussen 2010 en 2023 gebruik gemaakt van een risicoprofiel voor het tegengaan van onrechtmatig gebruik van de uitwonendenbeurs. Dit is in 2023 in opspraak geraakt en DUO heeft verzocht of Algorithm Audit hier verder onderzoek naar te doen. 
-    Tijdens de kwantitatieve analyse heeft Algorithm Audit gewerkt aan de hand van aselecte steekproeven. Aan de hand van deze data hebben ze verschillende deelvragen beantwoord en blijkt dat tussen een aantal selectiecriteria onvoldoende statistisch verband gebleken is. Doormiddel van de aselecte steekproef blijkt hierdoor dat de selectie(criteria) aangepast moet(en) worden.
+	Algorithm Audit heeft de risicoprofilering in het Controle Uitwonendenbeurs-proces (CUB-proces) onderzocht op verzoek van Dienst Uitvoering Onderwijs (DUO). DUO heeft tussen 2010 en 2023 gebruik gemaakt van een risicoprofiel voor het tegengaan van onrechtmatig gebruik van de uitwonendenbeurs. Dit is in 2023 in opspraak geraakt en DUO heeft Algorithm Audit verzocht hier verder onderzoek naar te doen. 
+    Tijdens de kwantitatieve analyse heeft Algorithm Audit gewerkt aan de hand van aselecte steekproeven. Aan de hand van deze data hebben ze verschillende deelvragen beantwoord en blijkt dat tussen een aantal selectiecriteria onvoldoende statistisch verband gebleken is. Door middel van de aselecte steekproef blijkt hierdoor dat de selectie(criteria) aangepast moet(en) worden.
 
 
 	Bron: [Algorithm Audit: analyse Controle Uitwonendenbeurs](https://algorithmaudit.eu/nl/algoprudence/cases/aa202401_preventing-prejudice/)

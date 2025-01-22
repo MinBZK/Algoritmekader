@@ -1,5 +1,5 @@
 ---
-title: Hoog-risico-AI-systemen worden pas geleverd of gebruikt na een conformiteitsbeoordelingsprocedure.
+title: Hoog-risico-AI-systemen worden pas geleverd of gebruikt na een conformiteitsbeoordelingsprocedure
 id: urn:nl:ak:ver:aia-14
 toelichting: Aanbieders van AI-systemen met een hoog risico zorgen ervoor dat voor het AI-systeem met een hoog risico een conformiteitsbeoordelingsprocedure wordt uitgevoerd, voordat dit systeem in de handel wordt gebracht of in gebruik wordt gesteld.
 levenscyclus:
@@ -24,22 +24,24 @@ hide:
 <!-- tags -->
 ## Vereiste
 
-Aanbieders van AI-systemen met een hoog risico zorgen ervoor dat voor het AI-systeem met een hoog risico een conformiteitsbeoordelingsprocedure wordt uitgevoerd voordat dit systeem in de handel wordt gebracht of in gebruik wordt gesteld
+Aanbieders van AI-systemen met een hoog risico zorgen ervoor dat voor het AI-systeem met een hoog risico een conformiteitsbeoordelingsprocedure wordt uitgevoerd voordat dit systeem in de handel wordt gebracht of in gebruik wordt gesteld.
 
 ## Toelichting
 
 Conformiteitsbeoordelingen dragen bij aan het kunnen vertrouwen op de kwaliteit van producten en diensten. Aanbieders van AI-systemen met een hoog risico moeten ervoor zorgen dat de conformiteitsbeoordelingsprocedure wordt uitgevoerd vóórdat het systeem op de markt wordt gebracht of in gebruik wordt genomen. Hiervoor moet worden beoordeeld of het ontwikkelde hoog risico AI-systeem voldoet aan de vereisten die gelden voor deze systemen. Denk hierbij aan de vereisten van risicobeheer, technische documentatie, data en datagovernance en transparantie en informatieverstrekking aan gebruiksverantwoordelijken (Afdeling 2, AI-Verordening).  
 
-Een conformiteitbeoordeling kan worden uitgevoerd door middel van 
-- een interne controle (als bedoeld in bijlage VI van de AI-verordening)
-- of met betrokkenheid van een aangemelde instantie voor de beoordeling van het systeem voor kwaliteitsbeheer en de technische documentatie (als bedoeld in bijlage VII van de AI-verordening). Een conformiteitsbeoordeling door een aangemelde instatie wordt ookwel een conformiteitsbeoordeling door een derden genoemd. 
+Een conformiteitbeoordeling kan in de meeste gevallen worden uitgevoerd door middel van een interne controle (als bedoeld in [bijlage VI van de AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#anx_VI). 
 
-Als overheidsorganisaties hoog risico AI-systemen gebruiken van aanbieders of deze zelf ontwikkelen, zullen deze systemen veelal de conformiteitsbeoordeling middels een interne controle moeten doorlopen (bijlage VI). Let op! In het geval dat een hoog risico AI-systeem door een rechtshandhavingsinstantie, immigratie- of asielautoriteit wordt ingezet, dan zal de markttoezichtautoriteit als aangemelde instantie optreden die de conformiteitsbeoordeling zal uitvoeren.  
+In sommige gevallen dient de conformiteitsbeoordeling uitgevoerd te worden door een derde partij. De conformiteitsbeoordeling dient door een derde partij uitgevoerd te worden voor:
+
+- Hoog-risico AI-systemen die veiligheidscomponent zijn van een producten die al worden gereguleerd via bestaande productregulering (Afdeling A van bijlage I).
+- Hoog-risico AI-systemen die gebruik maken van biometrie (bijlage III punt 1). Let op! Indien het AI-systeem is bedoeld om door rechtshandhavingsinstanties, immigratie- of asielautoriteiten of door instellingen, organen of instanties van de Unie in gebruik te worden gesteld, dienst de conformiteitsbeoordeling uitgevoerd te worden door de markttoezichtautoriteit.
 
 AI-systemen met een hoog risico die al aan een conformiteitsbeoordelingsprocedure zijn onderworpen, ondergaan een nieuwe conformiteitsbeoordelingsprocedure telkens wanneer zij substantieel zijn gewijzigd, ongeacht of het gewijzigde systeem bedoeld is om verder te worden gedistribueerd of door de huidige gebruiksverantwoordelijke gebruikt blijft worden.
 
 ![ai_lifecycle_visual_7FC0D14E-A775-A92E-DE5A38FDB7C238EB_75759](https://github.com/user-attachments/assets/47996f0e-d769-4ac5-a504-db12da4d1e21)
 
+Volg voor het uitvoeren van de conformiteitsbeoordeling de procedures die zijn voorgeschreven in de AI-verordening. Dit betekent dat er een [conformiteitsverklaring](aia-15-eu-conformiteitsverklaring.md) opgesteld moet worden en de procedures uit [bijlage VI](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#anx_VI) en [bijlage VII](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#anx_VII) gevolgd dienen te worden. 
 
 ## Bronnen
 
@@ -52,7 +54,6 @@ AI-systemen met een hoog risico die al aan een conformiteitsbeoordelingsprocedur
 
 ## Van toepassing op 
 <!-- tags-ai-act -->
-
 
 ## Risico
 

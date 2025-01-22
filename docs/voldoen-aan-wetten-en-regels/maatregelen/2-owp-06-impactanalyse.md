@@ -14,6 +14,8 @@ onderwerp:
 rollen:
 - projectleider
 - ontwikkelaar
+sources:
+  ADR: SV.4
 hide:
 - navigation
 - toc
@@ -60,7 +62,7 @@ Het risico is afhankelijk van de kans dat een fout voorkomt. Voor risicoanalyse 
 Als er geen goede impactanalyse wordt gemaakt, kunnen risico’s over het hoofd worden gezien. Een niet werkend systeem kan dan een grote impact hebben op mensen of de organisatie. 
 
 ## Bronnen
-
+- [Onderzoekskader Auditdienst Rijk, SV.4](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 
 ## Voorbeeld
 

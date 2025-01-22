@@ -42,7 +42,7 @@ De ambtelijke organisatie maakt politieke-bestuurlijke afwegingen en beslissinge
 
 ## Bronnen
 
-[Algemene Rekenkamer](https://rekenkamer.rotterdam.nl/wp-content/uploads/2024/05/RO2205-kleur-bekennen-vervolgonderzoek-algoritmes-rekenkamer-rotterdam.pdf)
+[Kleur bekennen, Algemene Rekenkamer Rotterdam](https://rekenkamer.rotterdam.nl/wp-content/uploads/2024/05/RO2205-kleur-bekennen-vervolgonderzoek-algoritmes-rekenkamer-rotterdam.pdf)
 
 ## Voorbeeld
 

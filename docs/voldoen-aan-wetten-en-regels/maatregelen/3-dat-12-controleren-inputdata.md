@@ -16,6 +16,9 @@ onderwerp:
 - technische-robuustheid-en-veiligheid
 rollen:  
 - ontwikkelaar
+sources:
+  ADR: DM.9
+  ARK: 2.08
 hide:  
 - navigation  
 - toc  
@@ -54,3 +57,5 @@ Daarnaast kunnen onbewuste fouten ertoe leiden dat het model niet meer goed func
 
 ## Bronnen
 - [IBM, What is a prompt injection attack?](https://www.ibm.com/topics/prompt-injection)
+- [Onderzoekskader Auditdienst Rijk, DM.9](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [Toetsingskader Algemene Rekenkamer, 2.08](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)

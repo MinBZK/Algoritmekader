@@ -36,7 +36,7 @@ De conformiteitsverklaring bevat de informatie zoals genoemd in [bijlage V](http
 
 Voorbeelden hiervan zijn de naam en type van het AI-systeem, naam en adres van de aanbieder, dat de EU-conformiteitsverklaring wordt versterkt onder verantwoordelijkheid van de aanbieder en de vermelding van eventuele toegepaste [relevante geharmoniseerde normen](../hulpmiddelen/standaarden.md) of van andere gemeenschappelijke specificaties waarop de conformiteitsverklaring betrekking heeft.
 
-Zorg dat je naast het opstellen van een verklaring een [conformiteitsbeoordeling](aia-14-conformiteitsboordeling.md) uitvoert op je AI-systeem volgens de procedures zoals die zijn voorgeschreven door de AI-verordening. 
+Zorg dat je naast het opstellen van een verklaring een [conformiteitsbeoordeling](aia-14-conformiteitsbeoordeling.md) uitvoert op je AI-systeem volgens de procedures zoals die zijn voorgeschreven door de AI-verordening. 
 
 ## Bronnen
 

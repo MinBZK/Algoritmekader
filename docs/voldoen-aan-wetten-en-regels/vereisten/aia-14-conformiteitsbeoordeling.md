@@ -37,11 +37,12 @@ In sommige gevallen dient de conformiteitsbeoordeling uitgevoerd te worden door 
 - Hoog-risico AI-systemen die veiligheidscomponent zijn van een producten die al worden gereguleerd via bestaande productregulering (Afdeling A van bijlage I).
 - Hoog-risico AI-systemen die gebruik maken van biometrie (bijlage III punt 1). Let op! Indien het AI-systeem is bedoeld om door rechtshandhavingsinstanties, immigratie- of asielautoriteiten of door instellingen, organen of instanties van de Unie in gebruik te worden gesteld, dienst de conformiteitsbeoordeling uitgevoerd te worden door de markttoezichtautoriteit.
 
+Volg voor het uitvoeren van de conformiteitsbeoordeling de procedures die zijn voorgeschreven in de AI-verordening. Dit betekent dat er een [conformiteitsverklaring](aia-15-eu-conformiteitsverklaring.md) opgesteld moet worden en de procedures uit [bijlage VI](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#anx_VI) en [bijlage VII](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#anx_VII) gevolgd dienen te worden. 
+
 AI-systemen met een hoog risico die al aan een conformiteitsbeoordelingsprocedure zijn onderworpen, ondergaan een nieuwe conformiteitsbeoordelingsprocedure telkens wanneer zij substantieel zijn gewijzigd, ongeacht of het gewijzigde systeem bedoeld is om verder te worden gedistribueerd of door de huidige gebruiksverantwoordelijke gebruikt blijft worden.
 
 ![ai_lifecycle_visual_7FC0D14E-A775-A92E-DE5A38FDB7C238EB_75759](https://github.com/user-attachments/assets/47996f0e-d769-4ac5-a504-db12da4d1e21)
 
-Volg voor het uitvoeren van de conformiteitsbeoordeling de procedures die zijn voorgeschreven in de AI-verordening. Dit betekent dat er een [conformiteitsverklaring](aia-15-eu-conformiteitsverklaring.md) opgesteld moet worden en de procedures uit [bijlage VI](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#anx_VI) en [bijlage VII](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#anx_VII) gevolgd dienen te worden. 
 
 ## Bronnen
 

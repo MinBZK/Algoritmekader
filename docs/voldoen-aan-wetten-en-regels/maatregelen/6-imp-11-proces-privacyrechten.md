@@ -46,8 +46,7 @@ Betrokkenen hebben geen controle over hun persoonsgegevens doordat ze geen beroe
 ## Voorbeeld
 
 !!! example "Ministerie van Algemene Zaken: Privacyverzoek"
-
-	_Dit voorbeeld kan zonder veel aanpassingen in uw organisatie gebruikt worden._
+ 
 	Het Ministerie van Algemene Zaken (AZ) heeft een online formulier waar burgers een privacyverzoek kunnen doen. Dit kan zowel via post als digitaal. Op deze pagina staat ook uitgelegd welke gegevens nodig zijn voor een (correcte) aanvraag. Daarnaast wordt vermeld hoe de gegevens verwerkt worden en hoe lang deze bewaard blijven voor de aanvraag. Als laatste wordt ook aangegeven bij wie men terecht kan voor vragen of klachten. 
 	
 	Bron: [Formulier Privacyverzoek - Ministerie van Algemene Zaken](https://www.rijksoverheid.nl/ministeries/ministerie-van-algemene-zaken/privacy/privacy-verzoekenformulier-az)

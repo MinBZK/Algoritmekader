@@ -57,14 +57,12 @@ Betrokkenen zijn niet op de hoogte dat hun persoonsgegevens worden verwerkt met 
 
 ## Bronnen
 - [Onderzoekskader Algoritmes Auditdienst Rijk, PRI.8](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
-- [Autoriteit Persoonsgegevens  Algoritmekader](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/privacyrechten-avg/recht-op-informatie) 
-- [Toetsingskader Algoritmes Algemene Rekenkamer, 3.12](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) 
+- [Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/privacyrechten-avg/recht-op-informatie) 
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 3.12](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 
 ## Voorbeeld
 
 !!! example "UWV: Privacyverklaring"
-<!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
-	_Dit voorbeeld kan zonder veel aanpassingen in uw organisatie gebruikt worden._
 	
 	In de algemene privacyverklaring van het UWV staat per situatie wat voor persoonsgegevens kunnen worden verwerkt. Daarnaast staat in heldere taal uitgelegd waarvoor de verwerking van persoonsgegevens binnen UWV in het algemeen nodig is. Daarnaast wordt het “Geautomatiseerd nemen van besluiten en profilering” toegelicht.
 	

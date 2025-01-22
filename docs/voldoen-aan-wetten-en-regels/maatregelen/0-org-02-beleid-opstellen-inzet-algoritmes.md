@@ -46,7 +46,6 @@ Een duidelijk beleid over de inzet van algoritmes helpt organisaties te voldoen 
 
 - Dit beleidsdocument is beschikbaar en toegankelijk voor geïnteresseerden. 
 
-## Bronnen
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
@@ -59,8 +58,13 @@ Zonder duidelijk beleid over de inzet van algoritmes kan het gebeuren dat algori
 
 ## Voorbeelden
 
-- [Controle op algoritmes](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjJr-7HwtSJAxWN8rsIHaOPNmkQFnoECBQQAw&url=https%3A%2F%2Fassets.amsterdam.nl%2Fpublish%2Fpages%2F1053010%2Fhandreiking_algoritmen.pdf&usg=AOvVaw3xCc4gbijZmLQayb7o02Pf&opi=89978449)
-- ISO/IEC 42001: Artificial intelligence (AI) Management System
-- [Webpagina van gemeente Amsterdam over algoritmes](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/algoritmen/).
+!!! example "Handreiking Algoritmen - Gemeente Amsterdam"
+	
+	Gemeente Amsterdam heeft een Handreiking Algoritmen ontwikkeld waarin de aanpak van en instrumenten voor verantwoord algoritme­­gebruik in Amsterdam worden toegelicht. Denk aan governance voor verantwoorde toepassing van algoritmes, en contractvoorwaarden voor algoritmische toepassingen.
+	
+	Bron: [Handreiking Algoritmen](https://www.amsterdam.nl/innovatie/digitalisering-technologie/handreikingen-playbooks/) (Er zijn hier ook handreikingen te vinden over _Dataverzameling_ en _Digitale ongelijkheid_.
+	
 
-Heb je een voorbeeld of best practice, laat het ons weten via algoritmes@minbzk.nl
+## Bronnen
+
+Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

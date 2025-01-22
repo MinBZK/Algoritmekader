@@ -41,7 +41,6 @@ Het algoritme en beoogde besluiten voldoen niet aan wet- en regelgeving en inter
 
 !!! example "Belastingdienst: Wegenrisico’s"
 
-  	_Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._
     De Belastingdienst gebruikt een algoritme dat kijkt of een aangifte tot import van een voertuig correct is ingevuld. Het invullen van een aangifte is verplicht bij het importeren van een voertuig volgens de Wet op de belasting van personenauto's en motorrijwielen (BPM) 1992”). [De Belastingdienst geeft dus ook aan](https://algoritmes.overheid.nl/nl/algoritme/belasting-van-personenautos-en-motorrijwielen-wegenrisicos-bpm-wegenrisicos-belastingdienst/75246482#verantwoordGebruik) dat dit een van de wettelijke grondslagen is om hier een algoritme in te zetten. Dit wordt gedaan om de aangiften efficiënter en effectiever uit te voeren.
     Voor ieder algoritme moet een eigen grondslag bepaald worden, het is dus niet mogelijk om een ‘one size fits all’ toepassing te hebben op deze maatregel.
     

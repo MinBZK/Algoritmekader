@@ -51,13 +51,9 @@ Denk hierbij na over het eventueel bijscholen van medewerkers als het kennisnive
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+	<!-- list_vereisten_on_maatregelen_page -->
 
-## Bronnen 
-<!-- Vul hier de relevante bronnen in voor deze maatregel -->
-
-- [Toetsingskader Algoritmes Algemene Rekenkamer, 3.07](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
-- [Ethics Guidelines of Trustworthy AI](https://op.europa.eu/en/publication-detail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a1)
 
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
@@ -66,6 +62,19 @@ Het algoritme wordt onjuist gebruikt of verkeerd geïnterpreteerd door gebruiker
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
+!!! example "Gemeente Utrecht: Handleiding Generatieve AI"
 
-Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
+ 
+	De gemeente Utrecht heeft in April 2024 een handleiding gepubliceerd voor Generatieve AI (GenAI), bijvoorbeeld ChatGPT. Hierin wordt uitgelegd hoe het systeem gebruikt kan worden, om zo medewerkers uit te leggen welke risico’s vastzitten aan het gebruik van GenAI. Daarnaast wordt benoemd hoe de beslissingen rondom deze handleiding tot stand zijn gekomen. 
 
+	Deze handleiding is breed opgesteld en zal dus voor een specifiek algoritme binnen een organisatie aangepast moeten worden. De opzet voor een handleiding staat al en kan ter inspiratie gebruikt worden voor andere handleidingen.
+
+	
+	Bron: [Handleiding Generatieve AI - Gemeente Utrecht](https://stadszaken.nl/uploads/docs/Handleiding-Generatieve-AI-Gemeente-Utrecht.pdf)
+
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
+
+
+## Bronnen 
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 3.07](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
+- [Ethics Guidelines of Trustworthy AI](https://op.europa.eu/en/publication-detail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a1)

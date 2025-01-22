@@ -71,5 +71,14 @@ Stel vast of de gebruikte data van voldoende kwaliteit is voor de beoogde toepas
 
 ## Voorbeeld
 
-Heb jij een goed voorbeeld? Laat het ons weten!
+!!! example "Voorbeeld: Gemeente Rotterdam - Avola"
+	
+
+	In de Gemeente Rotterdam wordt gebruik gemaakt van een ondersteunend advies algoritme voor een toetsing voor recht op een uitkering, Avola. Dit algoritme maakt gebruik van beslisregels gebaseerd op wet- en regelgeving waarmee een advies aan een consulent van Werk en Inkomen gegeven wordt. De data waarop dit advies gebaseerd is, wordt gedeeltelijk door de burger zelf aangeleverd.
+ 
+	In het rapport van de Rekenkamer Rotterdam “Kleur bekennen” wordt aangegeven dat er bij het gebruik van Avola ook aandacht is voor de kwaliteit van de gebruikte data. Deze data wordt tijdens het aanvraagproces gecontroleerd door zowel de burger als consulent. Hierbij wordt op onjuistheden getoetst voordat de data gebruikt wordt. Dit zou verder verbeterd kunnen worden door duidelijk aan te geven hoe de gegevens worden gecontroleerd.
+	
+	Bron: [Kleur bekennen](https://rekenkamer.rotterdam.nl/onderzoeken/kleur-bekennen/)
+
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
 

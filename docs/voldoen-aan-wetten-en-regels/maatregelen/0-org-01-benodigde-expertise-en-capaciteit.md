@@ -5,6 +5,7 @@ toelichting: De capaciteit en deskundigheid bij de ontwikkeling, het inkopen en 
 vereiste: 
 - awb-01-zorgvuldigheidsbeginsel
 - aia-21-gebruiksverantwoordelijken-menselijk-toezicht
+- aia-01-ai-geletterdheid
 levenscyclus: 
 - organisatieverantwoordelijkheden
 onderwerp: 

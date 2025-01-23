@@ -1,8 +1,6 @@
 import csv
 import os
 import re
-from mkdocs.config.defaults import MkDocsConfig
-from mkdocs.structure.files import File, Files
 import yaml
 from collections import defaultdict
 

@@ -17,6 +17,10 @@ jobs:
         with:
           python-version: 3.x
           cache: 'pip'
+
+      - name: install dependencies
+        run: pip install -r requirements.txt
+
       
       - name: Run Python script
         run: python script/analysis-maatregelen.py

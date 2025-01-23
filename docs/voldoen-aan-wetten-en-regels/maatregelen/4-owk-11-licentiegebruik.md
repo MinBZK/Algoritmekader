@@ -16,6 +16,8 @@ vereiste:
 - aut-01-auteursrechten
 - dat-01-databankenwet
 - aia-05-data-kwaliteitscriteria
+sources:
+  ARK: 2.13
 hide:
 - navigation
 - toc
@@ -55,6 +57,7 @@ Enkele risico's bij het niet vermelden van de passende licentie:
     <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
+- [Toetsingskader Algemene Rekenkamer, 2.13](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Licentiewijzer voor overheden - voor licenties bij software](https://opensourcewerken.nl/news/view/84367829-63bb-4039-8528-e9b0041c7067/met-zes-vragen-de-juiste-licentiecategorie-kiezen)
 - [Licensing Assistant - tool van de Europese commissie, ook voor licenties bij software](https://interoperable-europe.ec.europa.eu/collection/eupl/solution/licensing-assistant)
 - [FAIR Data Principles - R1.1](https://www.gofair.foundation/r1-1)

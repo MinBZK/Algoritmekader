@@ -32,8 +32,9 @@ Dit is eveneens van toepassing als persoonsgegevens worden verwerkt bij het ontw
 ## Bronnen
 - [Artikel 25 Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679#d1e3055-1-1)
 
-## Wanneer van toepassing? 
+## Van toepassing op 
 <!-- tags-ai-act -->
+
 
 ## Risico
 Door privacy en gegevensbescherming door ontwerp en standaardinstellingen niet toe te passen, kan een inbreuk op rechten van betrokkenen ontstaan.

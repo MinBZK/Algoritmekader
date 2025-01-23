@@ -11,7 +11,10 @@ import numpy as np
 
 # import maatregelen from ark en adr from custom csv
 df = pd.read_csv('script/maatregelen-adr-ark.csv', sep=';')
-# print(df)
+
+# replace source with abbreviations
+df['source'] = df['source'].str.replace('Onderzoekskader Auditdienst Rijk', 'ADR')
+df['source'] = df['source'].str.replace('Toetsingskader Algemene Rekenkamer', 'ARK')
 
 # define path for markdown files maatregelen
 path = 'docs/voldoen-aan-wetten-en-regels/maatregelen'
@@ -99,25 +102,20 @@ for filename in files:
         }
 
         fields = [yaml_data[key] for key in fieldnames]
+
+        # get dict from yaml data
         maatregelen_ak[yaml_data['urn']] = yaml_data['sources']
 
-
+# sort urns 
 urns = sorted(maatregelen_ak.keys())
-# print(maatregelen_ak)
 
-# replace source with abbreviations
-df['source'] = df['source'].str.replace('Onderzoekskader Auditdienst Rijk', 'ADR')
-df['source'] = df['source'].str.replace('Toetsingskader Algemene Rekenkamer', 'ARK')
-
-print(df)
-
-# check if all maatregelen in df are in df_ak
+# make empty dicts (one for matrix and one for simple mapping)
 final_dict: dict[tuple[str, str], set] = defaultdict(set)
 matrix_dict: dict[tuple[str, str], dict[str, int]] = defaultdict(dict)
 
-# vul final_dict eerst met alle bronnen
+# vul final_dict eerst met alle bronnen uit adr en ark
 for _, row in df.iterrows():
-    tuple = (str(row['nummer']),row['source'])
+    tuple = (str(row['nummer']), row['source'])
     final_dict[tuple] = set()
     for urn in urns:
         matrix_dict[tuple][urn] = 0
@@ -141,13 +139,8 @@ for urn, sources in maatregelen_ak.items():
         matrix_dict[tuple][urn] = 1
         final_dict[tuple].add(urn)
 
-print(final_dict)
-# print(matrix_dict)
-
 # export matrix to csv
-file_exists = os.path.isfile("relatie-ak-tot-toetsingskaders.csv")
 with open("relatie-ak-tot-toetsingskaders.csv", "w") as file:
-    # write header
     header = ['nummer', 'bron', 'maatregelen-ak', *urns]
     writer = csv.writer(file)
     writer.writerow(header)

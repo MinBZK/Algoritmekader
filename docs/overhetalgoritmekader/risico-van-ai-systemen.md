@@ -52,7 +52,7 @@ Dit zijn AI-systemen die je gebruikt voor:
 
 Zie [AI-verordening, bijlage III](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#d1e38-127-1).
 
-## Verboden AI-systeem
+## Verboden AI
 Deze risicogroep bestaat uit soorten AI-praktijken die volgens de AI-verordening verboden zijn. 
 
 Dit zijn AI-systemen die:

@@ -29,7 +29,7 @@ Het AI-bureau kan dan passende maatregelen nemen om de naleving van de verordeni
 
 [Artikel 89(2) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e7817-1-1)
 
-## Wanneer van toepassing?
+## Van toepassing op
 
 ## Risico
 

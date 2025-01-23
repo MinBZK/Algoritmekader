@@ -2,7 +2,6 @@
 title: Personeel en gebruikers zijn voldoende AI-geletterd.
 id: urn:nl:ak:ver:aia-01
 toelichting: Aanbieders en gebruiksverantwoordelijken van AI-systemen moeten ervoor zorgen dat hun personeel en andere betrokkenen voldoende kennis hebben van AI. 
-
 levenscyclus: 
 - organisatieverantwoordelijkheden
 onderwerp: 
@@ -47,7 +46,7 @@ Vanaf februari 2025 treedt deze vereiste in werking.
 
 [Artikel 4 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e2799-1-1)
 
-## Wanneer van toepassing? 
+## Van toepassing op 
 <!-- tags-ai-act -->
 
 ## Risico 

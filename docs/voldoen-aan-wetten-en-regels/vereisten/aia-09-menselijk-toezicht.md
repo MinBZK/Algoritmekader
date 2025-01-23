@@ -13,7 +13,7 @@ rollen:
 soort-toepassing:
 - ai-systeem
 - ai-systeem-voor-algemene-doeleinden
-publicatiecategorie:
+risicogroep:
 - hoog-risico-ai-systeem
 rol-ai-act:
 - aanbieder
@@ -54,7 +54,7 @@ In het geval van een hoog risico systeem als bedoeld in bijlage III, punt 1, a  
 ## Bronnen
 [Artikel 14 verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3669-1-1)
 
-## Wanneer van toepassing? 
+## Van toepassing op 
 <!-- tags-ai-act -->
 
 ## Risico

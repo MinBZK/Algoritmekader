@@ -15,6 +15,10 @@ vereiste:
 - arc-01-archiefwet
 - aia-12-bewaartermijn-voor-documentatie
 - avg-02-beperkte-bewaartermijn-van-persoonsgegevens
+sources:
+  ADR: 
+  - PRI.11
+  - IB.27
 hide:
 - navigation
 - toc
@@ -46,3 +50,4 @@ Tegelijkertijd kan data die niet essentieel is worden verwijderd, om zo de kans 
 Het niet correct uitfaseren van een algoritme, heeft mogelijk negatieve effecten op het gebied van uitlegbaarheid, transparantie en verantwoording. 
 
 ## Bronnen
+- [Onderzoekskader Algoritmes Auditdienst Rijk, PRI.11](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)

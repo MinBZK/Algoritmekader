@@ -12,6 +12,9 @@ onderwerp:
 - menselijke-controle
 rollen:
 - projectleider
+sources:
+  ADR: SV.2
+  ARK: 1.01
 hide:
 - navigation
 - toc

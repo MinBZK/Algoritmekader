@@ -13,7 +13,9 @@ onderwerp:
 rollen:
 - projectleider
 - jurist
-  
+sources:
+  ADR: PRI.8
+  ARK: 3.12
 hide:
 - navigation
 - toc

@@ -13,6 +13,8 @@ onderwerp:
 - publieke-inkoop
 rollen:
 - projectleider
+sources:
+  ADR: DM.23
 hide:
 - navigation
 - toc

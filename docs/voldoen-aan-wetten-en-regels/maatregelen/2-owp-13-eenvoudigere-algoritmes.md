@@ -43,7 +43,6 @@ Ontwerpen zonder oog voor efficiëntie kan leiden tot energie-intensieve algorit
 
 ## Bronnen
 - [What is knowledge distillation? (IBM)](https://www.ibm.com/topics/knowledge-distillation)
-- 
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->

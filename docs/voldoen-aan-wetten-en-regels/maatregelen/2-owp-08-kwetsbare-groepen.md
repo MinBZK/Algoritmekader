@@ -11,6 +11,10 @@ onderwerp:
 - fundamentele-rechten
 rollen:
 - beleid-en-advies
+sources:
+  ADR: 
+  - SV.4
+  - DM.16
 hide:
 - navigation
 - toc

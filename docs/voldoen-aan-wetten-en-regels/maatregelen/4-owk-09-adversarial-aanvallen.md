@@ -63,8 +63,7 @@ Zo kunnen gevoelige informatie worden blootgelegd, waaronder privacygevoelige ge
 Adversarial AI-aanvallen kunnen leiden tot ongewenste misleiding, manipulatie of uitschakeling van de werking van een algoritme of tot verlies van gevoelige gegevens.
 
 ## Bronnen
-- [TNO, Adversarial AI
-in het cyberdomein](https://publications.tno.nl/publication/34640579/Mf1Fda/TNO-2023-R10292.pdf)
+- [TNO, Adversarial AI in het cyberdomein](https://publications.tno.nl/publication/34640579/Mf1Fda/TNO-2023-R10292.pdf)
 - [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 
 ## Voorbeeld

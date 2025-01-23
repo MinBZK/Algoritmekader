@@ -6,6 +6,7 @@ vereiste:
 - awb-01-zorgvuldigheidsbeginsel
 - aia-08-transparantie-aan-gebruikersverantwoordelijken
 - aia-28-transparantieverplichtingen-richting-natuurlijke-personen
+- avg-10-recht-op-niet-geautomatiseerde-besluitvorming
 levenscyclus: 
 - ontwerp
 - ontwikkelen
@@ -14,6 +15,11 @@ onderwerp:
 rollen:
 - projectleider
 - beleid-en-advies
+sources:
+  ARK: 
+  - 2.09
+  - 3.13
+  - 3.15
 hide:
 - navigation
 - toc
@@ -40,7 +46,7 @@ Stel bijvoorbeeld de volgende vragen:
 | Wanneer wordt deze informatie gebruikt? | Ga na in welke fase van de levenscyclus de gewenste informatie over de werking of inzet van het algoritme wordt gebruikt. Hoe verschilt de informatiebehoefte in elke fase van de levenscyclus? |
 | Wie is er verantwoordelijk voor de informatieverstrekking? | Bepaal wie er informatie over het algoritme moet ophalen, en wie er voor die informatie kan zorgen. |
 
-Maak bij het vaststellen van de informatiebehoefte onderscheid tussen transparantie, [uitlegbaarheid](2-owp-33-toepassen-uitlegbaarheidstechnieken.md) en interpreteerbaarheid. Houd daarbij ook rekening met zaken die moeten worden gecommuniceerd. Denk hierbij aan het kunnen uitleggen hoe een automatisch genomen besluit tot stand is gekomen. 
+Maak bij het vaststellen van de informatiebehoefte onderscheid tussen transparantie, [uitlegbaarheid](2-owp-33-toepassen-uitlegbaarheidstechnieken.md) en interpreteerbaarheid. Houd daarbij ook rekening met zaken die moeten worden gecommuniceerd. Denk hierbij aan het kunnen uitleggen hoe een automatisch genomen besluit tot stand is gekomen, of de mogelijkheid om niet [onderworpen te worden aan geautomatiseerde besluitvorming](../vereisten/avg-10-recht-op-niet-geautomatiseerde-besluitvorming.md).
 
 Stel een communicatieplan op over de ontwikkeling en gebruik van het algoritme. Bepaal vervolgens aan de hand van de levenscyclus wanneer, welke informatie wanneer beschikbaar moet worden gesteld. Stel vast wie verantwoordelijk is voor het opstellen of het leveren van een bijdrage aan deze informatie. In het communicatieplan kunnen verder zaken worden opgenomen als:
 
@@ -74,12 +80,13 @@ Het risico is dat partijen niet of onvolledig worden geïnformeerd over de ontwi
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
   
 ## Voorbeeld
-
+- [Toetsingskader Algemene Rekenkamer, 2.09, 3.13, 3.15](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Bouwstenen van een communicatieplan](https://communicatiekompas.nl/hulpmiddelen/bouwstenen-van-een-communicatieplan)
 - [WMO voorspelmodel](https://wmovoorspelmodel.vng.nl/)
 - [Handreiking WMO voorspelmodel](https://wmovoorspelmodel.vng.nl/Handreiking%20Wmo%20Voorspelmodel%20juli%202024.pdf)
 - [Maatwerkscan UWV](https://www.uwv.nl/nl/over-uwv/organisatie/algoritmeregister-uwv/maatwerkscan)
 - [Slimme keuzehulp aangifte internetoplichting: Ik heb iets gekocht, maar niets ontvangen](https://aangifte.politie.nl/iaai-preintake/#/)
 - [Chatbot gemeente Hillegom](https://www.hillegom.nl/chatbot)
+
 
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

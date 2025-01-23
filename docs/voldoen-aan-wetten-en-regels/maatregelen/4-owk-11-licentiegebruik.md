@@ -1,7 +1,7 @@
 ---
-title: Pas een passende licentie toe bij publicatie van (open) data of algoritmes
+title: Gebruik een passende licentie bij publicatie of gebruik van (open) data of algoritmes
 id: urn:nl:ak:mtr:owk-11
-toelichting: Pas bij het publiceren van data of algoritmes een passende licentie toe die aansluit bij het beoogde gebruik en de bescherming van burgers. Overweeg hierbij zorgvuldig welke voorwaarden nodig zijn, zoals bronvermelding of het delen onder gelijke voorwaarden.
+toelichting: Gebruik bij het publiceren of gebruiken van data of algoritmes een passende licentie die aansluit bij het beoogde doel en de bescherming van burgers. Overweeg hierbij zorgvuldig welke voorwaarden nodig zijn, zoals bronvermelding of het delen onder gelijke voorwaarden.
 levenscyclus:
 - ontwikkelen
 - dataverkenning-en-datapreparatie
@@ -25,10 +25,10 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-Pas bij het publiceren van data of algoritmes een passende licentie toe die aansluit bij het beoogde gebruik en de bescherming van burgers. Overweeg hierbij zorgvuldig welke voorwaarden nodig zijn, zoals bronvermelding of het delen onder gelijke voorwaarden.
+Gebruik bij het publiceren of gebruiken van data of algoritmes een passende licentie die aansluit bij het beoogde doel en de bescherming van burgers. Overweeg hierbij zorgvuldig welke voorwaarden nodig zijn, zoals bronvermelding of het delen onder gelijke voorwaarden.
 
 ## Toelichting
-Het kiezen van de juiste licentie is belangrijk bij het publiceren van datasets en algoritmes. Dit zorgt ook voor [betere datakwaliteit (zie o.a. R1.1 uit FAIR)](3-dat-02-fair-data.md). In de huidige digitale samenleving, met name door de opkomst van generatieve AI, is het belangrijk om de balans te vinden tussen openheid en traceerbaarheid.
+Het kiezen van de juiste licentie is belangrijk bij het publiceren en gebruiken van datasets en algoritmes. Dit zorgt ook voor [betere datakwaliteit (zie o.a. R1.1 uit FAIR)](3-dat-02-fair-data.md). In de huidige digitale samenleving, met name door de opkomst van generatieve AI, is het belangrijk om de balans te vinden tussen openheid en traceerbaarheid.
 Overweeg bij het kiezen van een licentie de volgende aspecten:
 
 - Bronvermelding: Wil je gebruikers van bijvoorbeeld de dataset verplichten om de oorspronkelijke bron te vermelden?
@@ -42,10 +42,6 @@ Voorbeelden van licenties zijn:
 - Creative Commons BY: Vereist alleen bronvermelding
 - Publiek Domein met bronvermeldingsplicht: Voor maximale openheid met behoud van traceerbaarheid
 
-## Bijbehorende vereiste(n) { data-search-exclude }
-??? expander "Bekijk alle vereisten"
-    <!-- list_vereisten_on_maatregelen_page -->
-
 ## Risico
 Enkele risico's bij het niet vermelden van de passende licentie:
 
@@ -53,6 +49,10 @@ Enkele risico's bij het niet vermelden van de passende licentie:
 - Te restrictieve licenties kunnen hergebruik onnodig beperken
 - Te open licenties (zoals CC0) kunnen leiden tot oncontroleerbare mis- en desinformatie
 - Onherroepelijke licenties bieden geen flexibiliteit voor toekomstige aanpassingen
+
+## Bijbehorende vereiste(n) { data-search-exclude }
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 - [Licentiewijzer voor overheden - voor licenties bij software](https://opensourcewerken.nl/news/view/84367829-63bb-4039-8528-e9b0041c7067/met-zes-vragen-de-juiste-licentiecategorie-kiezen)

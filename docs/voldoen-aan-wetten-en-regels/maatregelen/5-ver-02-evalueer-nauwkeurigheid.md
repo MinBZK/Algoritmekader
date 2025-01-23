@@ -58,7 +58,7 @@ Afhankelijk van het type algoritme zijn er verschillende metrieken waarmee je de
 - *mean-absolute-error*
 - *ROC-curve*
 
-In verschillende omgevingen en onder verschillende datasets moeten de relevante metrieken voor jouw toepassing worden geëvalueerd.
+Leg vast welke keuze je maakt voor bepaalde metrieken en waarom. In verschillende omgevingen en onder verschillende datasets moeten de relevante metrieken voor jouw toepassing worden geëvalueerd.
 
 ## Bijbehorende vereiste(n)
 

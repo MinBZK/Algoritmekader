@@ -16,7 +16,7 @@ rollen:
 sources:
   ADR: PRI.5
   ARK: 
-  - '2.20'
+  - 2.20
   - 3.06
 hide:
 - navigation

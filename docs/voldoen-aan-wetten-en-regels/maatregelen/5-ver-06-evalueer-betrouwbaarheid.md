@@ -12,8 +12,6 @@ onderwerp:
 - technische-robuustheid-en-veiligheid
 rollen:
 - ontwikkelaar
-sources:
-  ARK: 2.13
 hide:
 - navigation
 ---
@@ -108,7 +106,6 @@ Zorg dat het algoritme continu wordt [gemonitord](../../levenscyclus/monitoring-
 Een onbetrouwbaar algoritme kan in een nieuwe of onverwachte situatie de verkeerde uitkomsten geven. 
 
 ## Bronnen
-- [Toetsingskader Algoritmes Algemene Rekenkamer, 2.13](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Bo Li, et al., Trustworthy AI: From Principles to Practices](https://arxiv.org/abs/2110.01167)
 - [Pablo Soldati, et al., Design Principles for Model Generalization and Scalable AI Integration in Radio Access Networks](https://arxiv.org/abs/2306.06251v2)
 - [Jiashuo Liu, et al., Towards Out-Of-Distribution Generalization: A Survey](https://arxiv.org/abs/2108.13624)

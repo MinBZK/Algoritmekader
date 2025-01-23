@@ -13,7 +13,7 @@ rollen:
 - projectleider
 sources:
   ADR: PRI.5
-  ARK: '2.20'
+  ARK: 2.20
 hide:  
 - navigation  
 - toc  

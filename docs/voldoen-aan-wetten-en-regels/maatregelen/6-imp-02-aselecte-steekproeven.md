@@ -70,11 +70,6 @@ Deze belangenenafweging moet per context gemaakt worden.
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
-## Bronnen 
-<!-- Vul hier de relevante bronnen in voor deze maatregel -->
-
-[Rapportage Algoritmerisico's Nederland voorjaar 2024 (pp. 36-41)](https://www.autoriteitpersoonsgegevens.nl/documenten/rapportage-ai-algoritmerisicos-nederland-ran-voorjaar-2024)
-
 
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
@@ -84,8 +79,29 @@ Deze belangenenafweging moet per context gemaakt worden.
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
-In het onderzoek van zowel [Algorithm Audit](https://algorithmaudit.eu/nl/algoprudence/cases/aa202401_preventing-prejudice/) als [PricewaterhouseCoopers](https://www.rijksoverheid.nl/documenten/rapporten/2024/03/01/eindrapport-pwc-rapportage-onderzoek-misbruik-uitwonendenbeurs) naar de Controle Uitwonendenbeurs is het belang van de aselecte steekproef duidelijk geworden. 
+!!! example "Algorithm Audit: analyse Controle Uitwonendenbeurs"
+ 
+	Algorithm Audit heeft de risicoprofilering in het Controle Uitwonendenbeurs-proces (CUB-proces) onderzocht op verzoek van Dienst Uitvoering Onderwijs (DUO). DUO heeft tussen 2010 en 2023 gebruik gemaakt van een risicoprofiel voor het tegengaan van onrechtmatig gebruik van de uitwonendenbeurs. Dit is in 2023 in opspraak geraakt en DUO heeft Algorithm Audit verzocht hier verder onderzoek naar te doen. 
+    Tijdens de kwantitatieve analyse heeft Algorithm Audit gewerkt aan de hand van aselecte steekproeven. Aan de hand van deze data hebben ze verschillende deelvragen beantwoord en blijkt dat tussen een aantal selectiecriteria onvoldoende statistisch verband gebleken is. Door middel van de aselecte steekproef blijkt hierdoor dat de selectie(criteria) aangepast moet(en) worden.
 
-Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
+
+	Bron: [Algorithm Audit: analyse Controle Uitwonendenbeurs](https://algorithmaudit.eu/nl/algoprudence/cases/aa202401_preventing-prejudice/)
 
 
+
+ !!! example "Rijksdienst voor Ondernemend Nederland: Risicocontrole Subsidieaanvragen"
+ 
+    De Rijksdienst voor Ondernemend Nederland (RVO) maakt gebruik van een algoritme bij het behandelen van subsidieaanvragen. Hierbij wordt bij iedere aanvraag een risico-indicatie gemaakt op basis van een aantal regels. Als er volgens het algoritme geen risico’s zijn wordt de aanvraag automatisch aangemaakt, zo niet wordt de aanvraag nog beoordeeld door een adviseur.    
+    
+    Daarnaast wordt het algoritme gecontroleerd aan de hand van een steekproef. Op deze manier wordt getest of het algoritme tot de juiste conclusie is gekomen of aangescherpt moet worden. Mocht door de steekproef blijken dat het algoritme niet goed werkt geeft de RVO ook aan dat de keuze gemaakt kan worden om het algoritme niet te gebruiken. Op deze manier wordt aan de hand van steekproeven gecontroleerd dat het algoritme naar behoren werkt.
+
+	Bron: [Rijksdienst voor Ondernemend Nederland: Risicocontrole Subsidieaanvragen](https://algoritmes.overheid.nl/nl/algoritme/risicocontrole-sde-subsidieaanvragen-rijksdienst-voor-ondernemend-nederland/51892728#verantwoordGebruik)
+
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
+
+
+
+## Bronnen 
+<!-- Vul hier de relevante bronnen in voor deze maatregel -->
+
+[Rapportage Algoritmerisico's Nederland voorjaar 2024 (pp. 36-41)](https://www.autoriteitpersoonsgegevens.nl/documenten/rapportage-ai-algoritmerisicos-nederland-ran-voorjaar-2024)

@@ -59,7 +59,8 @@ Daarnaast kan het ophalen van ervaringen met het algoritme worden gebruikt voor 
 Ten slotte verdient [bias](../../onderwerpen/bias-en-non-discriminatie.md) specifieke aandacht. Houd goed in de gaten hoe het algoritme gebruikmaakt van de kenmerken van gevoelige groepen en wat de effecten van de uitkomst zijn op hun gedrag en de datadistributie.
 
 ## Bijbehorende vereiste(n)
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Feedbackloops kunnen invloed hebben op verschillende onderdelen van het systeem waarin een algoritme zit. Als dit onopgemerkt gebeurt kan dit een negatief effect hebben op de accuraatheid en betrouwbaarheid van het algoritme, of ongewenste bias ontwikkelen. 

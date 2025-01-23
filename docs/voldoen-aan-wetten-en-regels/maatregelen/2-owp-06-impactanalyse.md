@@ -55,8 +55,8 @@ Het risico is afhankelijk van de kans dat een fout voorkomt. Voor risicoanalyse 
 
 
 ## Bijbehorende vereiste(n)
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Als er geen goede impactanalyse wordt gemaakt, kunnen risico’s over het hoofd worden gezien. Een niet werkend systeem kan dan een grote impact hebben op mensen of de organisatie. 

@@ -42,6 +42,7 @@ Richt een proces in zodat burgers of andere belanghebbenden een klacht, bezwaar 
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 1.08](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Onderzoek misbruik uitwonendenbeurs, PricewaterhouseCoopers](https://open.overheid.nl/documenten/dpc-97a155051e66b292ef3cc5799cb4aef61dcbf46b/pdf#page=48)
 - [Intern onderzoek controle uitwonendenbeurs, DUO](https://open.overheid.nl/documenten/dpc-486d1370ee92580b07ae27198a636c73fc28b87d/pdf)
+- [Toetsingskader risicoprofilering – Normen tegen discriminatie op grond van ras en nationaliteit, College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/4093c026-ae41-4c1d-aa78-4ce0e205b5de)
 
 ## Voorbeeld
 !!! example "UWV: Klacht, melding en bezwaar"

@@ -7,7 +7,7 @@ vereiste:
 - grw-01-fundamentele-rechten
 - grw-02-non-discriminatie
 maatregel:
-- 5-ver-02-biasanalyse      
+- 5-ver-03-biasanalyse      
 levenscyclus:
 - ontwerp
 - verificatie-en-validatie
@@ -26,7 +26,7 @@ hide: navigation
 
 ## Hulpmiddel
 
-Dit toetsingskader helpt professionals die zelf met risicomodellen werken, deze ontwikkelen of hierop toezien. Dat kan binnen de overheid zijn of binnen het bedrijfsleven. 
+Dit toetsingskader is bedoeld voor alle instanties die verantwoordelijk zijn voor de handhaving van wetten, regels en voorwaarden. Dat gaat vaak om overheidsinstanties, zoals uitvoeringsinstanties, de marechaussee, de politie en gemeenten.
 Dit hulpmiddel geeft de meest belangrijke handvatten en richtlijnen weer waarmee discriminatie bij risicoprofilering voorkomen kan worden.
 Het toetsingskader past de wetgeving en jurisprudentie op het terrein van gelijke behandeling toe op de praktijk van risicoprofilering.  
 Dit toetsingskader is gebaseerd op nationale en internationale geldende verdragen, wetten en jurisprudentie tot aan november 2024. De normen en jurisprudentie op dit terrein zijn echter continu in ontwikkeling. 
@@ -38,9 +38,10 @@ Het College voor de Rechten van de Mens publiceerde in 2021 het [toetsingskader 
 Omdat het non-discriminatierecht bij beide toetsingskader het uitgangspunt is, zullen ook onderdelen uit het toetsingskader 2021 terugkomen in deze nieuwe versie. 
 
 ## Relevantie
-Het spreekt voor zich dat overheidsinstanties zich bij het uitvoeren van hun taken moeten onthouden van discriminatie. Recente voorbeelden zoals de Kinderopvangtoeslagaffaire of de casus met de Controle Uitwonenendenbeurs bij DUO laten echter zien dat het in de praktijk toch mis kan gaan. Duidelijk is dat discriminerende elementen toch in risicoprofielen voorkomen. Dat heeft er mede mee te maken dat het voor medewerkers van uitvoeringsinstanties niet altijd duidelijk is wat in welke context wel en niet mag.
-
-Er komt daarbij veel kijken bij de beoordeling of een risicoprofiel binnen de grenzen van het discriminatieverbod blijft. In alle gevallen zal nauwkeurig afgewogen moeten worden welke kenmerken voor welke doeleinden worden gebruikt en hoe zich dat verhoudt tot het toepasselijke wettelijke kader. Dit toetsingskader biedt handvatten voor het maken van deze afweging. 
+Het spreekt voor zich dat overheidsinstanties zich bij het uitvoeren van hun taken moeten onthouden van discriminatie. 
+De voorbeelden van discriminerende risicoprofilering, zoals de Kindeorpvangtoeslagaffaire of de Controle Uitwonendenbeurs bij DUO, van de laatste jaren laten zien dat handhavende instanties in de praktijk nog onvoldoende in staat zijn om discriminatie bij risicoprofilering te voorkomen.
+In dit toetsingskader wil het College verhelderen welke normen uit het verbod op discriminatie voortvloeien, specifiek op grond van ‘ras’ en nationaliteit.
+Het schetst de verplichtingen die instanties hebben bij gebruik van risicoprofilering, en welke stappen zij minimaal moeten zetten om discriminatie te voorkomen.
 
 ## Auteur
 Het Toetsingskader risicoprofilering is ontwikkeld door het College voor de Rechten van de Mens.

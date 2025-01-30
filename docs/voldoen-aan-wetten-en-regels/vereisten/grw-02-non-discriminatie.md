@@ -45,3 +45,6 @@ Het risico bestaat dat het model onwenselijke systematische afwijkingen creëert
 
 ## Maatregelen { data-search-exclude } 
 <!-- list_maatregelen vereiste/grw-02-non-discriminatie no-search no-onderwerp no-rol no-levenscyclus -->
+
+## Hulpmiddelen
+<!-- list_hulpmiddelen vereiste/grw-02-non-discriminatie no-search no-onderwerp no-rol no-levenscyclus no-id -->

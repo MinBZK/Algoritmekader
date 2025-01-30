@@ -34,6 +34,7 @@ Voor op opstellen van het plan voor monitoring zijn de volgende stappen nodig:
 ### Bepaal waar je continu op wilt monitoren
 Denk hierbij aan:
 
+- [bias en discriminerende effecten](5-ver-03-biasanalyse.md)
 - toegankelijkheid van het model (uitvallen of haperingen)
 - foutmeldingen
 - prestaties: [werkt het model nog zoals beoogd](5-ver-01-functioneren-in-lijn-met-doeleinden.md)

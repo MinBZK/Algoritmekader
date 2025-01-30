@@ -15,6 +15,8 @@ rollen:
 - projectleider
 - beleid-en-advies
 - jurist
+sources:
+  ADR: PRI.9
 hide:
 - navigation
 - toc

@@ -13,6 +13,14 @@ onderwerp:
 - governance
 rollen:
 - projectleider
+sources:
+  ADR:
+  - SV.9
+  - SV.19
+  - PRI.1
+  ARK:
+  - 1.06
+  - 3.02
 hide:
 - navigation
 - toc

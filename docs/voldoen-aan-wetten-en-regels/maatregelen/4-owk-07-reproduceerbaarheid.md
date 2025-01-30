@@ -9,6 +9,10 @@ onderwerp:
 - transparantie
 rollen:
 - ontwikkelaar
+vereiste:
+- aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging
+sources:
+  ADR: DM.14
 hide:
 - navigation
 - toc
@@ -73,6 +77,7 @@ Als uitkomsten niet herleid kunnen worden, kan er geen uitleg worden gegeven waa
 Hierdoor kan geen verantwoording worden geboden. 
 
 ## Bronnen
+- [Onderzoekskader Auditdienst Rijk, DM.14](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [MLOps Principles: Reproducability](https://ml-ops.org/content/mlops-principles#reproducibility)
 - [Ministerie van Infrastructuur en Waterstaat, AI Impact Assessment](https://www.rijksoverheid.nl/documenten/rapporten/2022/11/30/ai-impact-assessment-ministerie-van-infrastructuur-en-waterstaat)
 - [Harald Semmelrock, et al., Reproducibility in Machine Learning-Driven Research](https://arxiv.org/pdf/2307.10320)

@@ -15,6 +15,9 @@ onderwerp:
 - transparantie
 rollen:
 - jurist
+sources:
+  ADR: DM.15
+  ARK: 2.05
 hide:
 - navigation
 - toc

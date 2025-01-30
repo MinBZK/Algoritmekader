@@ -14,6 +14,9 @@ rollen:
 - ontwikkelaar
 - projectleider
 - jurist
+sources:
+  ADR: DM.13
+  ARK: 4.06
 hide:
 - navigation
 - toc

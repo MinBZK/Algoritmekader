@@ -16,6 +16,11 @@ onderwerp:
 rollen:
 - ontwikkelaar
 - projectleider
+sources:
+  ARK: 2.03
+  ADR: 
+  - DM.1
+  - DM.4
 hide:
 - navigation
 ---
@@ -43,7 +48,7 @@ Voor het evalueren van de nauwkeurigheid zijn de volgende stappen essentieel:
     - Wanneer monitoring aangeeft dat de nauwkeurigheid onvoldoende is, moet er een passende afweging worden gemaakt om het systeem te verbeteren, dan wel over te gaan op het [stoppen van het systeem](4-owk-02-stopzetten-gebruik.md).
 
 ### Metrieken
-Afhankelijk van het type algoritme zijn er verschillende metrieken waarmee je de nauwkeurigheid kan meten. Veelgebruikte metrieken zijn:
+Afhankelijk van het type algoritme zijn er verschillende metrieken waarmee je de nauwkeurigheid kan meten. Veelgebruikte metrieken/methoden zijn:
 
 - accuraatheid *(accuracy)*
 - precisie *(precision)*
@@ -51,8 +56,9 @@ Afhankelijk van het type algoritme zijn er verschillende metrieken waarmee je de
 - *F1-score*
 - *mean-squared-error*
 - *mean-absolute-error*
+- *ROC-curve*
 
-In verschillende omgevingen en onder verschillende datasets moeten de relevante metrieken voor jouw toepassing worden geëvalueerd.
+Leg vast welke keuze je maakt voor bepaalde metrieken en waarom. In verschillende omgevingen en onder verschillende datasets moeten de relevante metrieken voor jouw toepassing worden geëvalueerd.
 
 ## Bijbehorende vereiste(n)
 
@@ -64,7 +70,9 @@ Een onnauwkeurig algoritme geeft de verkeerde uitkomsten waardoor situaties of m
 
 ## Bronnen
 - [Europese Commissie, Ethische richtsnoeren voor betrouwbare KI](https://digital-strategy.ec.europa.eu/nl/library/ethics-guidelines-trustworthy-ai)
-     
+- [Toetingskader Algemene Rekenkamer, 2.03](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
+- [Onderzoekskader Auditdienst Rijk, DM.1, DM.4](https://open.overheid.nl/documenten/61b54381-d331-40ed-8fce-b2883b195f25/file)
+
 ## Voorbeeld
 
 Heb jij een goed voorbeeld? Laat het ons weten!

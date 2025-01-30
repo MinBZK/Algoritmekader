@@ -1,6 +1,6 @@
 ---
 title: Zorg dat er (gevoelige) informatie niet kan lekken op basis van de output van het algoritme.
-id: urn:nl:ak:mtr:owk-09
+id: urn:nl:ak:mtr:owk-10
 toelichting: Zorg dat er (gevoelige) informatie niet kan lekken op basis van de output van het algoritme. Limiteer daarom de hoeveelheid informatie in de uitkomst.
 levenscyclus:
 - ontwikkelen

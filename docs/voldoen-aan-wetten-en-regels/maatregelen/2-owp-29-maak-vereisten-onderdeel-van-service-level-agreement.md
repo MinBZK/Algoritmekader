@@ -35,7 +35,9 @@ rollen:
  - projectleider
  - beleid-en-advies
  - ontwikkelaar
-  
+sources:
+  ADR: SV.11
+  ARK: 1.05
 hide:
 - navigation
 - tocs

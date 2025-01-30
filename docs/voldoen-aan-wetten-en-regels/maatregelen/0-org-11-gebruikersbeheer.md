@@ -12,6 +12,21 @@ onderwerp:
 rollen:
 - projectleider
 - beleid-en-advies
+sources:
+  ADR: 
+  - IB.10
+  - IB.11
+  - IB.12
+  - IB.13
+  - IB.14
+  - IB.15
+  - IB.16
+  - IB.17
+  ARK: 
+  - 4.01
+  - 4.02
+  - 4.04
+  - 4.05
 hide:
 - navigation
 - toc

@@ -12,6 +12,14 @@ onderwerp:
 rollen:
 - projectleider
 - ontwikkelaar
+sources:
+  ADR:
+  - IB.1
+  - IB.2
+  - IB.3
+  - IB.4
+  - IB.5
+  ARK: 4.07
 hide:
 - navigation
 - toc

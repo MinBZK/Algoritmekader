@@ -67,7 +67,7 @@ Tijdens dagelijks gebruik wil je continu monitoren of het systeem nog werkt zoal
 
 ## Bronnen
 - [Toetsingskader Algemene Rekenkamer, 2.14](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
-
+- [Toetsingskader risicoprofilering – Normen tegen discriminatie op grond van ras en nationaliteit, College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/4093c026-ae41-4c1d-aa78-4ce0e205b5de)
 ## Voorbeeld
 
 Heb jij een goed voorbeeld? Laat het ons weten!

@@ -34,6 +34,7 @@ Het toepassen van een 'three lines of defence' is slechts één aspect van het t
 
 ## Voorbeelden
 !!! example "UWV - Risicomanagementbeleid"
+
 	Het UWV maakt sinds 2012 gebruik van het Three-lines-of-defence model als onderdeel van hun governance. Zij blijven dit model verder aanscherpen binnen hun organisatie waardoor de drie lijnen concreter worden. Zo geven ze aan dat ze toewerken naar meer uniformiteit in rapporteren van risico’s uit de eerste lijn en een meer onafhankelijk oordeel over risico’s en beheersing van de tweede lijn.
 	
 	Daarnaast gaat de tweede lijn meer naar een uitdagende rol in plaats van alleen faciliterend (wat normaal volgens Schuett ook onder lijn drie valt). De derde lijn wordt niet verder toegelicht dus dit zou uitgewerkt kunnen worden.
@@ -43,6 +44,7 @@ Het toepassen van een 'three lines of defence' is slechts één aspect van het t
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
 
 !!! example "Gemeente Rotterdam - Kleur Bekennen"
+
 	De gemeente Rotterdam maakt gebruik van het three-lines-of-defence model voor het sturen en verantwoorden binnen de gemeente. De lijnen binnen Rotterdam werken iets anders dan het model van Schuett hierboven. De eerste lijn is namelijk verantwoordelijk van het realiseren van de gestelde doelen, de tweede lijn voor de kaders en het advies (onafhankelijk van de eerste lijn) en de derde lijn controleert of lijn een en twee correct functioneren/hebben gefunctioneerd. 
  
 	Zij geven ook aan wie binnen iedere lijn verantwoordelijk is. Zo zijn Proceseigenaren verantwoordelijk voor het algoritme en operationeel verantwoordelijken voor de ontwikkeling binnen de eerste lijn. In de tweede lijn is de Algoritme Expert verantwoordelijk en in de derde lijn Financial Audit.

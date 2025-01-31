@@ -51,7 +51,7 @@ Stel vast of de gebruikte data van voldoende kwaliteit is voor de beoogde toepas
     - [meetbias](../../onderwerpen/bias-en-non-discriminatie.md#herken-bias)
     - [representatie bias](../../onderwerpen/bias-en-non-discriminatie.md#herken-bias)
 
-- Zorg dat je data [vindbaar, toegankelijk, interoperabel en herbruikbaar (FAIR)](3-dat-02-fair-data.md) is.
+- Zorg dat je data [vindbaar, toegankelijk, interoperabel en herbruikbaar (FAIR)](3-dat-13-fair-data.md) is.
 
 - Bepaal of de data voldoende representatief is voor de doelpopulatie en of de data voldoende representatief is voor eventuele relevante subgroepen uit de productiedata. 
 

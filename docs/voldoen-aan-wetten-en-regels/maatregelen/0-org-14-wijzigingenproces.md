@@ -57,4 +57,12 @@ Als een formeel wijzigingenproces ontbreekt bestaat het risico van ongeautorisee
 
 ## Voorbeeld
 
-Heb jij een goed voorbeeld? Laat het ons weten!
+!!! example "Naam van overheid: Korte uitleg"
+	
+	De informatie beveiligingsdienst (IBD) heeft een handreiking gepubliceerd rondom logging-beleid en -procedures. Hierin wordt onder andere uitgelegd wat voor soorten logbestanden er zijn, voor wie deze belangrijk zijn en wat er in een log moet staan. Daarnaast wordt toegelicht hoe logging gecontroleerd kan/moet worden.
+
+	Dit document kan een goede basis vormen voor het beginnen met log bestanden maken. Zo staan er in dit document verschillende bijlagen zoals een template voor logging-beleid en verschillende infographics die het logging-proces en de controles visualiseren voor de lezer.
+	
+	Bron: [Handreiking Logging](https://www.informatiebeveiligingsdienst.nl/product/aanwijzing-logging/)
+
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 

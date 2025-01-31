@@ -11,6 +11,9 @@ levenscyclus:
 onderwerp:
 - governance
 - fundamentele-rechten
+sources:
+  ADR: SV.10
+  ARK: 2.12
 rollen:
 - projectleider
 hide:

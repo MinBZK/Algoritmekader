@@ -14,6 +14,14 @@ onderwerp:
 - technische-robuustheid-en-veiligheid
 rollen:
 - ontwikkelaar
+sources:
+  ADR: DM.8
+  ARK:
+  - 1.02
+  - 1.08
+  - 2.06
+  - 2.08
+  - 2.13
 hide:
 - navigation
 - toc

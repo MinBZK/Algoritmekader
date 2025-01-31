@@ -16,6 +16,16 @@ rollen:
 - projectleider
 - beleid-en-advies
 - ontwikkelaar
+sources:
+  ADR:
+  - IB.18
+  - IB.19
+  - IB.20
+  - IB.21
+  - IB.22
+  - IB.23
+  - IB.24
+  - IB.25
 hide:
 - navigation
 - toc

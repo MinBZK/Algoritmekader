@@ -21,7 +21,9 @@ rollen:
 - projectleider
 - beleid-en-advies
 - ontwikkelaar
-  
+sources:
+  ADR: PRI.10
+  ARK: '2.10'
 hide:
 - navigation
 - toc
@@ -43,12 +45,12 @@ Ga na of algoritmes van een aanbieder een bepalende invloed hebben in een beslui
     <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
+- [Onderzoekskader Auditdienst Rijk, PRI.10](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [Toetingskader Algemene Rekenkamer, 2.10](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
 Algoritmes van aanbieders nemen besluitvormende taken over, zonder dat daar zicht op is of dat dit is beoordeeld.  
-
-## Bronnen
 
 ## Voorbeeld
 

@@ -13,6 +13,9 @@ onderwerp:
 - technische-robuustheid-en-veiligheid
 rollen:
 - ontwikkelaar
+sources:
+  ADR: IB.27
+  ARK: 4.06
 hide:
 - navigation
 - toc

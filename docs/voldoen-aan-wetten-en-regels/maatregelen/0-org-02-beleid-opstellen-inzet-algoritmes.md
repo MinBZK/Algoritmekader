@@ -11,6 +11,8 @@ onderwerp:
 - transparantie
 vereiste:
 - awb-01-zorgvuldigheidsbeginsel
+sources:
+  ADR: SV.8
 hide:
 - navigation
 - toc
@@ -48,6 +50,8 @@ Een duidelijk beleid over de inzet van algoritmes helpt organisaties te voldoen 
 
 ## Risico 
 Zonder duidelijk beleid over de inzet van algoritmes kan het gebeuren dat algoritmes worden ontwikkeld of gebruikt die niet passend zijn binnen de organisatie. 
+
+- [Onderzoekskader Auditdienst Rijk, SV.8](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

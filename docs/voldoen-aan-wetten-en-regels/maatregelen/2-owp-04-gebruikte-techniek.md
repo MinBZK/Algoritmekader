@@ -12,6 +12,11 @@ onderwerp:
 - technische-robuustheid-en-veiligheid
 rollen:
 - ontwikkelaar
+sources:
+  ADR: DM.2
+  ARK: 
+  - 2.04
+  - 2.17
 hide:
 - navigation
 - toc
@@ -39,6 +44,10 @@ Beschrijf welke techniek gebruikt wordt voor de beoogde toepassing.
 
 - Het is belangrijk om uiteindelijk een passend uitlegbaar algoritme te selecteren voor de context waarin het wordt toegepast. Daarin moet de afweging gemaakt worden of de technische [uitlegbaarheid](2-owp-33-toepassen-uitlegbaarheidstechnieken.md) voldoende is in de context die de inzet van het algoritme vereist. Hierbij kan ook de conclusie worden getrokken dat een simpeler, inzichtelijker algoritme de voorkeur krijgt. 
 
+- Maak hierbij een bewuste afweging tussen [uitlegbaarheid](2-owp-33-toepassen-uitlegbaarheidstechnieken.md) en [prestaties](5-ver-02-evalueer-nauwkeurigheid.md) van het algoritme. Over het algemeen geldt dat complexere maar minder uitlegbare algoritmes nauwkeuriger zijn. 
+
+- Veel (statische) modellen zijn gebaseerd op (statische) aannames over bijvoorbeeld eigenschappen van de data. Ga na of er aan deze aannames wordt voldaan. 
+
 ## Voorbeeld
 
 ## Risico
@@ -48,4 +57,6 @@ Beschrijf welke techniek gebruikt wordt voor de beoogde toepassing.
     <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen 
-[Impact Assessment Mensenrechten en Algoritmes, 2A.1, 2B.1](../hulpmiddelen/IAMA.md)
+- [Impact Assessment Mensenrechten en Algoritmes, 2A.1, 2B.1](../hulpmiddelen/IAMA.md)
+- [Onderzoekskader Auditdienst Rijk, DM.2](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [Toetsingskader Algemene Rekenkamer, 2.04, 2.17](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)

@@ -9,6 +9,8 @@ onderwerp:
 rollen:
 - projectleider
 - beleid-en-advies
+sources:
+  ADR: SV.9
 hide:
 - navigation
 - toc
@@ -30,6 +32,8 @@ Taken en verantwoordelijkheden zijn toebedeeld in de algoritmegovernance
 ![Format](https://github.com/user-attachments/assets/3debe7b6-0c42-40f5-a366-9cc5cc90cd3e)
 
 ## Bronnen
+- [Onderzoekskader Auditdienst Rijk, SV.9](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

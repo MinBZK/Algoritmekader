@@ -5,6 +5,7 @@ toelichting: De capaciteit en deskundigheid bij de ontwikkeling, het inkopen en 
 vereiste: 
 - awb-01-zorgvuldigheidsbeginsel
 - aia-21-gebruiksverantwoordelijken-menselijk-toezicht
+- aia-01-ai-geletterdheid
 levenscyclus: 
 - organisatieverantwoordelijkheden
 onderwerp: 
@@ -12,7 +13,9 @@ onderwerp:
 rollen:
 - projectleider
 - beleid-en-advies
-
+sources:
+  ADR: SV.12
+  ARK: 1.04
 hide:
 - navigation
 - toc
@@ -30,6 +33,7 @@ Bepaal welke expertise en capaciteit noodzakelijk is voor het ontwikkelen, inkop
 - Bepaal welke expertise en capaciteit binnen de organisatie noodzakelijk is voor het ontwikkelen, inkopen en gebruiken van algoritmes.
 - Dit is sterk afhankelijk van de specifieke toepassing en de inzichten die voortkomen uit risicoanalyses. Hoe complexer en risicovoller de toepassing, des te meer expertise en capaciteit noodzakelijk is. 
 - Interne en externe actoren die betrokken zijn bij het ontwikkelen, inkopen en gebruik moeten over voldoende expertise en capaciteit beschikken om hun taken naar behoren uit te voeren.
+- Investeer in (interne) opleidingen voor alle medewerkers. 
 - Stel vast of er afhankelijkheden van externe aanbieders ontstaan.  
 - Bepaal voorafgaand aan het (laten) ontwikkelen of inkopen van algoritmes of voldoende expertise en capaciteit beschikbaar is om tot een verantwoorde inzet ervan te komen.
 - Leg vast of er voldoende expertise en capaciteit beschikbaar is en onderbouw dit in projectdocumentatie.
@@ -45,9 +49,7 @@ Zonder voldoende expertise en capaciteit kan het zijn dat het ontwikkelen, inkop
     <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen 
-<!-- Vul hier de relevante bronnen in voor deze maatregel -->
-
-- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.12 ](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.12](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 1.04](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Competencies and governance practices for AI in the public sector. Zie hoofdstuk 4](https://op.europa.eu/en/publication-detail/-/publication/949913fa-aae4-11ef-acb1-01aa75ed71a1/language-en)
 

@@ -14,6 +14,12 @@ onderwerp:
 rollen:
 - projectleider
 - beleid-en-advies
+sources:
+  ADR: 
+  - SV.15
+  - SV.16
+  - SV.17
+  ARK: 1.08
 hide:
 - navigation
 - toc

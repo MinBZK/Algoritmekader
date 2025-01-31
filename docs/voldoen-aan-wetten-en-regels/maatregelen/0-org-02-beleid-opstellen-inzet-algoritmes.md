@@ -27,10 +27,9 @@ Stel beleid op voor een verantwoorde inzet van algoritmes binnen de organisatie.
 Een duidelijk beleid over de inzet van algoritmes helpt organisaties te voldoen aan de vereisten voor het verantwoord gebruik ervan. Hierin worden zaken beschreven als:
 
 - Hoe de inzet van algoritmes gaat bijdragen aan het realiseren van de organisatiedoelstellingen. 
-
 - Het beschrijven van de stappen die moeten worden gezet om algoritmes op een verantwoorde wijze in te gaan zetten. Dit is afhankelijk en verschilt per type algoritme en de bijbehorende risicoclassificatie.
-
 - Het beschrijven van welke hulpmiddelen in welke gevallen moeten worden ingezet om te voldoen aan de vereisten die gelden voor algoritmes. Hierbij kan worden gedacht aan:
+
     - Een [Impact Assessment Mensenrechten en Algoritmes](../hulpmiddelen/IAMA.md).
     - Een [Data Protection Impact Assessment](../hulpmiddelen/DPIA.md).
     - Het hanteren van [inkoopvoorwaarden](../hulpmiddelen/inkoopvoorwaarden.md).
@@ -44,12 +43,15 @@ Een duidelijk beleid over de inzet van algoritmes helpt organisaties te voldoen 
 
 - Er is beschreven welke informatie over welke typen algoritmes wordt gecommuniceerd met betrokkenen bij de ontwikkeling of gebruik ervan door de organisatie. 
 
+- Stel dit beleid op voor zowel:
+
+    - nieuw te ontwikkelen algoritmes
+    - gedurende de ontwikkeling van algoritmes
+    - bestaande algoritmes
+
 - Er is beschreven welke stappen worden gezetten in het geval dat er incidenten ontstaan rondom de inzet van algoritmes, denk hierbij aan een [discriminatieprotocol](0-org-15-discriminatieprotocol.md).
 
 - Dit beleidsdocument is beschikbaar en toegankelijk voor geïnteresseerden. 
-
-
-- [Onderzoekskader Auditdienst Rijk, SV.8](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
@@ -70,5 +72,6 @@ Zonder duidelijk beleid over de inzet van algoritmes kan het gebeuren dat algori
 	
 
 ## Bronnen
+- [Onderzoekskader Auditdienst Rijk, SV.8](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

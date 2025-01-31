@@ -5,6 +5,7 @@ toelichting:
 vereiste:
 - grw-02-non-discriminatie
 - avg-01-persoonsgegevens-worden-rechtmatig-verwerkt
+- avg-04-proportionaliteit-en-subsidiariteit
 levenscyclus:
 - dataverkenning-en-datapreparatie
 - verificatie-en-validatie

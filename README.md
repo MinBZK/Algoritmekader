@@ -48,10 +48,11 @@ Het verschil tussen de twee versies is dat het Algoritmekader gebruik maakt van 
 bevat een aantal extra functionaliteiten. Hoewel deze versie onder een open source licentie beschikbaar is, vragen de
 ontwikkelaars van Material for MkDocs in de aanvullende
 [fair use policity](https://squidfunk.github.io/mkdocs-material/insiders/license/#fair-use-policy) om het niet publiek
-te delen. Wij realiseren ons dat hierdoor niet iedereen de volledige versie van het Algoritmekader op een eigen omgeving
-kan draaien. Om lokaal testen van mensen die bijdragen en geen toegang hebben tot de betaalde versie mogelijk te maken,
-zit in `requirements.txt` de publiek toegangelijke [mkdocs-material](https://pypi.org/project/mkdocs-material/) Python
-package met beperkte functionaliteit. In deze versie werken de navigatie broodkruimels niet.
+te delen. Wij realiseren ons dat hierdoor niet iedereen de versie van het Algoritmekader, inclusief alle
+functionaliteiten, op een eigen omgeving kan draaien. Om lokaal testen van mensen die geen toegang hebben tot de
+betaalde versie mogelijk te maken, zit in `requirements.txt` de publiek toegangelijke
+[mkdocs-material](https://pypi.org/project/mkdocs-material/) Python package met beperkte functionaliteit. In deze versie
+werken de navigatie broodkruimels niet.
 
 ## Vragen?
 

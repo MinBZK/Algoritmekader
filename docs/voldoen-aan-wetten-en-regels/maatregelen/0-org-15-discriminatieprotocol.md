@@ -53,6 +53,7 @@ Daarvoor kan worden gedacht aan het uitvoeren van een bias analyse.
   - Breng in kaart wat de omvang van het probleem is. Hoe lang doet het probleem zich al voort, en hoeveel mensen betreft het?
   - Ga snel met (vertegenwoordigers van) gedupeerden in gesprek over de gevolgen en de mogelijke schade
   - Trek een conclusie of er sprake is van discriminatie, of een sterk vermoeden van discriminatie. 
+  - Onderzoek en analyseer waarom de genomen maatregelen om discriminatie tegen te gaan, zoals het [uitvoeren van een biasanalyse](5-ver-03-biasanalyse.md) onvoldoende hebben gewerkt. Bekijk hoe de werkwijzen in de organisatie verbeterd kunnen worden zodat dit in de toekomst voorkomen kan worden. 
 
 ### Stap 3: Beperken schade
 

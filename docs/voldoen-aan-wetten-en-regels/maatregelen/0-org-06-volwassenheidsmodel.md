@@ -54,7 +54,7 @@ Breng de volwassenheid van je organisatie op het gebied van algoritmes in kaart.
 
 
 
-!!! example "Voorbeeld: Krijger, Thuis, de Ruiter, Ligthart & Broekman - AI ethics maturity model*"
+!!! example "Voorbeeld: Krijger, Thuis, de Ruiter, Ligthart & Broekman - AI ethics maturity model"
 	 
 	Het in 2023 gepubliceerde ‘AI ethics maturity model' door Krijger, Thuis, de Ruiter, Ligthart & Broekman gebruikt zes categorieën om volwassenheid op verschillende niveaus in kaart te brengen. Dit model focust zich met name op het ethische aspect van volwassenheid met als categorieën: _awareness & culture_, _policy_, _governance_, _communication & training_, _development process_ en _tooling_. Er zijn vijf verschillende niveaus waar iedere categorie onder kan vallen om zo volwassenheid aan te geven.
 	
@@ -72,7 +72,7 @@ Breng de volwassenheid van je organisatie op het gebied van algoritmes in kaart.
 
 
 
- !!! example "Voorbeeld: Rijksorganisatie voor Ontwikkeling, Digitalisering en Innovatie - Innovatie Maturity Scan*"
+ !!! example "Voorbeeld: Rijksorganisatie voor Ontwikkeling, Digitalisering en Innovatie - Innovatie Maturity Scan"
  
 	De Rijksorganisatie voor Ontwikkeling, Digitalisering en Innovatie (ODI) heeft een Innovatie Maturity Scan gemaakt om de innovatievolwassenheid van een organisatie te meten. Omdat het gebruik van algoritmes vaak gezien wordt als vorm van innovatie is dit ook een interessant model om naar te kijken.
 	

@@ -1,5 +1,5 @@
 ---
-title: Stel beleid op voor een verantwoorde inzet van algoritmes binnen de organisatie. 
+title: Stel beleid op voor een verantwoorde inzet van algoritmes binnen de organisatie
 id: urn:nl:ak:mtr:org-02
 toelichting: 
 levenscyclus:
@@ -44,10 +44,12 @@ Een duidelijk beleid over de inzet van algoritmes helpt organisaties te voldoen 
 
 - Er is beschreven welke informatie over welke typen algoritmes wordt gecommuniceerd met betrokkenen bij de ontwikkeling of gebruik ervan door de organisatie. 
 
-- Er is beschreven welke stappen worden gezetten in het geval dat er incidenten ontstaan rondom de inzet van algoritmes, denk hierbij aan een [discriminatieprotocol](0-org-15-discriminatieprotocol.md).
+- Er is beschreven welke stappen worden gezet in het geval dat er incidenten ontstaan rondom de inzet van algoritmes, denk hierbij aan een [discriminatieprotocol](0-org-15-discriminatieprotocol.md).
 
-- Dit beleidsdocument is beschikbaar en toegankelijk voor geïnteresseerden. 
+- Dit beleidsdocument is beschikbaar en toegankelijk voor geïnteresseerden.
 
+## Risico 
+Zonder duidelijk beleid over de inzet van algoritmes kan het gebeuren dat algoritmes worden ontwikkeld of gebruikt die niet passend zijn binnen de organisatie. 
 
 - [Onderzoekskader Auditdienst Rijk, SV.8](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 
@@ -55,10 +57,12 @@ Een duidelijk beleid over de inzet van algoritmes helpt organisaties te voldoen 
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
-## Risico 
-Zonder duidelijk beleid over de inzet van algoritmes kan het gebeuren dat algoritmes worden ontwikkeld of gebruikt die niet passend zijn binnen de organisatie. 
+## Bronnen
+
+Geen beschikbare bron voor deze maatregel.
 
 ## Voorbeelden
 
@@ -67,8 +71,3 @@ Zonder duidelijk beleid over de inzet van algoritmes kan het gebeuren dat algori
 	Gemeente Amsterdam heeft een Handreiking Algoritmen ontwikkeld waarin de aanpak van en instrumenten voor verantwoord algoritme­­gebruik in Amsterdam worden toegelicht. Denk aan governance voor verantwoorde toepassing van algoritmes, en contractvoorwaarden voor algoritmische toepassingen.
 	
 	Bron: [Handreiking Algoritmen](https://www.amsterdam.nl/innovatie/digitalisering-technologie/handreikingen-playbooks/) (Er zijn hier ook handreikingen te vinden over _Dataverzameling_ en _Digitale ongelijkheid_.
-	
-
-## Bronnen
-
-Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

@@ -58,3 +58,13 @@ Deze stap is van groot belang, omdat dit bijvoorbeeld voor ontwikkelteams mede b
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
+
+!!! example "Provincie Zuid-Holland - Classificatie Algoritmes"
+
+	Provincie Zuid-Holland maakt gebruik van verschillende algoritmen waaronder Hoog-risico AI-systemen, Impactvolle algoritmes en overige algoritmes. Zij hebben deze gepubliceerd op het algoritme register aan de hand van de drie verschillende publicatiecategorieën. 
+	Deze drie categorieën staan ook in de handreiking voor het Algoritmeregister. Provincie Zuid-Holland heeft dan ook verschillende algoritmes gepubliceerd onder Hoog-risico AI-systeem en verschillende onder Impactvolle Algrotimes.
+ 
+	Bron: [Provincie Zuid-Holland]( https://algoritmes.overheid.nl/nl/organisatie/provincie-zuid-holland)
+
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)  
+

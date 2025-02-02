@@ -60,9 +60,23 @@ Werk specifieke, gevoelige activiteiten nader uit te in concrete taken en verant
 - Bij de ontwikkeling en gebruiken van algoritmes is het denkbaar dat de noodzaak voor het verwerken van persoonsgegevens wijzigt en dat meer of andere verwerkingen moeten plaatsvinden. Het is van belang dat wederom wordt beoordeeld wat dit betekent voor de bijbehorende verantwoordelijkheden. Als er sprake is van een wezenlijke wijziging ten opzichte van de al vastgestelde situatie, bijvoorbeeld doordat er meer persoonsgegevens worden verwerkt door een andere partij, dan zal de verwerkingsverantwoordelijke opnieuw tot vaststelling moeten overgaan om de afspraken te formaliseren.
 
 ## Voorbeelden
-<!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
-- [Rapport Kleur Bekennen, Algemene Rekenkamer, p. 114, figuur 5-4](https://rekenkamer.rotterdam.nl/wp-content/uploads/2024/05/RO2205-kleur-bekennen-vervolgonderzoek-algoritmes-rekenkamer-rotterdam.pdf#page=116)
-- De proceseigenaar wordt vaak verantwoordelijk gehouden voor eventuele gevolgen van het gebruik van het algoritme. Deze maatregel zorgt ervoor dat de proceseigenaar niet alle verantwoordelijkheid draagt, omdat dit vaak niet realistisch is. Met deze maatregel kunnen er heldere afspraken over de verschillende verantwoordlijkheden worden gemaakt. Hierdoor wordt het draagvlak groter, zonder ten koste te gaan van de duidelijkheid over rollen en verantwoordelijkheden. 
+
+!!! example "RACI matrix - diverse organisaties"
+
+	Bij Gemeentelijke Model Architectuur (GEMMA) wordt aangegeven dat een RACI matrix rollen en verantwoordelijkheden goed weergeeft en onderscheidt. Het RACI matrix is een afkorting voor  Responsible (Verantwoordelijk), Accountable (Eindverantwoordelijk), Consulted (Raadplegen) en Informed (Informeren). In deze matrix staan horizontaal de rollen en staan verticaal de taken/producten waar een rol verantwoordelijk voor is.
+	Dit matrix geeft veel verschillende rollen weer die in het beste geval voor verschillende functionarissen zijn. GEMMA geeft ook aan dat in kleinere organisaties (kleinere gemeenten) dit niet altijd mogelijk is. Het is dus belangrijk om te weten dat dit verschillend is per gemeente en afhankelijk van de [volwassenheid](0-org-06-volwassenheidsmodel.md) van inrichting van gegevensmanagement.
+	
+	![Voorbeeld invulling RACI matrix](https://www.gemmaonline.nl/images/gemma/c/cf/GMT_GM_RACI.png)
+	
+	Bron: [RACI matrix](https://www.gemmaonline.nl/wiki/Bestand:RACI_GM-BIG-AVG-ENSIA_v1_0.xlsx.zip)
+
+!!! example "UWV - Beleidsdocument model risico management"
+
+	Het UWV heeft een beleidsdocument model risico management gepubliceerd in 2021 waarin alle verantwoordelijkheden en rollen toegelicht worden. Hier is een volledig hoofdstuk aan gewijd waarin alle rollen toegelicht worden aan de hand van een korte functie-naam en beschrijving. Daarnaast worden deze ook ingedeeld in de categorieën per verdedigingslinie (LINKIE). De rollen worden in ook los verder verduidelijkt rondom de verantwoordelijkheden die ze hebben inclusief mogelijke extra taken voor de persoon die hoofd is van deze rol.
+	
+	Bron: [Algoritmelevenscyclus - UWV], pagina 12( https://www.uwv.nl/overuwv/Images/bijlage-4-beslissing-op-bezwaar-op-wob-verzoek-software-en-algoritmes.pdf) 
+
+
 
 ## Risico
 De sturing en verantwoording is ontoereikend of niet geborgd, waardoor er onvoldoende betrokkenheid of capaciteit is van verantwoordelijken. Ook kan er dan onvoldoende deskundigheid in de organisatie zijn, wat de kans vergroot op fouten en ongewenste effecten. Zonder het vaststellen van rollen en verantwoordelijkheden, kan er geen effectieve sturing plaatsvinden op partijen die betrokken zijn bij het ontwikkelen of gebruiken van algoritmes.

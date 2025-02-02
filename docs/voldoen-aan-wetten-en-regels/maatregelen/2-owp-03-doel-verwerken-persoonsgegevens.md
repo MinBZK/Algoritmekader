@@ -57,11 +57,19 @@ Gebruik een [DPIA](../hulpmiddelen/DPIA.md) om bovenstaande zaken te beschrijven
 Als het doel voor het verwerken van persoonsgegevens onvoldoende is omschreven en onderbouwd, ontstaat het risico dat onrechtmatig persoonsgegevens worden verwerken en een inbreuk wordt gemaakt op privacyrechten van betrokkenen.
 
 
+## Voorbeelden
+
+!!! example "Stichting Inlichtingenbureau: Signaal Kostendelers"
+
+	Stichting Inlichtingenbureau (IB) maakt gebruik van het algoritme ‘signaal kostendelers’ wat aangeeft als er iets is veranderd wat de hoogte van de bijstandsuitkering kan beïnvloeden. Het IB krijgt informatie over wie in het huishouden woont om zo veranderingen op de kostendelersnorm door te kunnen geven aan gemeenten. Bij dit algoritme wordt onder andere gebruik gemaakt van het BSN en studie-informatie. Deze informatie is noodzakelijk om veranderingen te kunnen controleren voor huishoudens. Het verwerken van deze persoonsgegevens zijn toegestaan onder (onder andere) ‘Wet structuur uitvoeringsorganisatie werk en inkomen’ artikel 63 en ‘Participatiewet’ artikel 64 en artikel 68.
+	Het verwerken van deze gegevens is dus noodzakelijk voor het IB om haar functie te kunnen uitvoeren. Dit zal per organisatie verschillen maar soortgelijke wettelijke grondslag kan dus als uitgangspunt genomen worden voor controle binnen de eigen organisatie.
+	
+	Bron: [Signaal Kostendelers - Stichting Inlichtingenbureau]( https://algoritmes.overheid.nl/nl/algoritme/signaal-kostendelers-stichting-inlichtingenbureau/43858196#verantwoordGebruik)
+
+
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)  
+
 ## Bronnen
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 3.01, 3.05](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Onderzoekskader Algoritmes Auditdienst Rijk, PRI.4](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) 
 - [Onderzoekskader Algoritmes Auditdienst Rijk, PRI.7](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) 
-
-## Voorbeeld
-
-Heb jij een goed voorbeeld? Laat het ons weten!

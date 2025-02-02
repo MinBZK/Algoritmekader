@@ -53,13 +53,6 @@ Het zou kunnen voorkomen dat de data niet beschikbaar is en ook niet gaat worden
 
 ## Voorbeelden
 
-!!! example "Stichting Inlichtingenbureau: Signaal Kostendelers"
-
-	Stichting Inlichtingenbureau (IB) maakt gebruik van het algoritme ‘signaal kostendelers’ wat aangeeft als er iets is veranderd wat de hoogte van de bijstandsuitkering kan beïnvloeden. Het IB krijgt informatie over wie in het huishouden woont om zo veranderingen op de kostendelersnorm door te kunnen geven aan gemeenten. Bij dit algoritme wordt onder andere gebruik gemaakt van het BSN en studie-informatie. Deze informatie is noodzakelijk om veranderingen te kunnen controleren voor huishoudens. Het verwerken van deze persoonsgegevens zijn toegestaan onder (onder andere) ‘Wet structuur uitvoeringsorganisatie werk en inkomen’ artikel 63 en ‘Participatiewet’ artikel 64 en artikel 68.
-	Het verwerken van deze gegevens is dus noodzakelijk voor het IB om haar functie te kunnen uitvoeren. Dit zal per organisatie verschillen maar soortgelijke wettelijke grondslag kan dus als uitgangspunt genomen worden voor controle binnen de eigen organisatie.
-	
-	Bron: [Signaal Kostendelers - Stichting Inlichtingenbureau]( https://algoritmes.overheid.nl/nl/algoritme/signaal-kostendelers-stichting-inlichtingenbureau/43858196#verantwoordGebruik)
-
 
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->

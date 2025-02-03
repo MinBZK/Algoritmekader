@@ -30,7 +30,7 @@ hide:
 
 ## Maatregel
 <!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
-Stel vast in welke risicogroep het algoritme valt en bepaal vervoglens welke vereisten van toepassing zijn.
+Stel vast in welke risicogroep het algoritme valt en bepaal vervolgens welke vereisten van toepassing zijn.
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->

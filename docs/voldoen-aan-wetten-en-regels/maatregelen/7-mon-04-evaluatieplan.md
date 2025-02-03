@@ -78,11 +78,11 @@ Er zullen veranderingen plaatsvinden in de gebruikscontext, de data en in het al
 
 ## Voorbeeld
 
-!!! example "Gemeente Den Haag: Quality-Bot"
-	De gemeente Den Haag maakt gebruik van een datakwaliteit algoritme: Quality-Bot (Q-Bot). Dit algoritme controleert bestaande en nieuwe patronen in de data om zo de bronhouder nieuwe inzichten te kunnen geven in de data. Op deze manier kan datakwaliteit ingeschat worden en kunnen fouten worden ontdekt. 
-	Dit algoritme monitort dus geen directe veranderingen autonoom maar communiceert deze naar de werknemer. Op deze manier kan gecontroleerd worden of wat voor data veranderingen er optreden. Het evalueren van (vervolg) prestaties is niet mogelijk omdat dit algoritme niet direct is aangesloten op een vervolg algoritme maar gezien kan worden als een voor-traject. 
+!!! example "UWV - Claim beoordelings- en borgingsysteem"
+	Om te bepalen of iemand nog kan werken en hoeveel maakt het UWV gebruik van een Claim beoordelings- en borgingsysteem (CBBS). Dit systeem bepaalt aan de hand van onder andere de beoordeling van de verzekeringsarts en de UWV-polisadministratie het arbeidsongeschiktheidspercentage. Deze waarde wordt gebruikt als basis om een geschikte baan te vinden voor het individu wat beoordeeld wordt.
+	Het UWV geeft aan CBBS iedere dag te testen om zo te kijken of het goed werkt. Daarnaast wordt er specifiek gecontroleerd na wijzigingen in bijvoorbeeld wet- en regelgeving, functies veranderen of de zwaarte van een functie veranderd. Dit evaluatiebeleid geeft dus aan wat er gecontroleerd wordt en wanneer.
 	
-	Bron: [Algoritme datakwaliteit - Gemeente Den Haag]( https://algoritmes.overheid.nl/nl/algoritme/algoritme-datakwaliteit-gemeente-den-haag/67582219) 
+	Bron: [Claim Beoordelings- en Borgingsysteem]( https://algoritmes.overheid.nl/nl/algoritme/claim-beoordelings-en-borgingsysteem-cbbs-uitvoeringsinstituut-werknemersverzekeringen/21447945)
 
 	
 

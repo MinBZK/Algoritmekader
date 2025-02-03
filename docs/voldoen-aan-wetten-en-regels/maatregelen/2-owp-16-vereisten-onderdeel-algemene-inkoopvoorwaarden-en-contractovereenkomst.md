@@ -106,10 +106,8 @@ Door de vereisten voor een verantwoorde inzet van algoritmes niet te communicere
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
-- [Contractvoorwaarden gemeente Amsterdam](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/contractvoorwaarden-algoritmen/)
-- [Europese Inkoopvoorwaarden Hoog Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_template_High_Risk%20NL.pdf) 
-- [Europese Inkoopvoorwaarden Laag Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_Template_NON_HIGH_RISK_NL.pdf)
 
+!!! example "Gemeente Amsterdam - Modelbepalingen"
 
 	De gemeente Amsterdam heeft contractvoorwaarden voor algoritmen opgesteld waarin sommige vereisten opgenomen zijn. Hieronder vallen bijvoorbeeld aia-11 “Hoog-risico-AI-systemen zijn voorzien van een kwaliteitsbeheersysteem.” en awb-02 “Organisaties kunnen duidelijk uitleggen waarom en hoe algoritmes leiden tot een besluit”. Deze staan respectievelijk in artikel 6.2 en artikel 5.4 verder uitgewerkt. 
 	Op dit moment zijn de vereisten impliciet verwerkt in deze voorwaarden in tegenstelling tot een expliciete verwijzing. Het is goed dit explicieter te benoemen zodat de aanbieder hier volledig van op de hoogte is.

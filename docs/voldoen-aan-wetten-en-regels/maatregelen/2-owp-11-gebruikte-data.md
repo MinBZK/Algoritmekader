@@ -30,14 +30,20 @@ Beschrijf welke data gebruikt wordt voor de beoogde toepassing.
 - Bepaal of het is [toegestaan om deze data](2-owp-03-doel-verwerken-persoonsgegevens.md) te verwerken.
 - Het is denkbaar dat het onderzoek van de kwaliteit van de data in een latere fase in de levenscyclus pas grondig kan worden uitgevoerd. 
 
-## Voorbeeld
-
-## Risico
-
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
+
+## Risico
+
+## Voorbeeld
+
+!!! example "UWV: Klantapplicatie WW"
+
+    Het UWV maakt gebruik van algoritme rondom WW-uitkering. Hiervoor geven ze aan welke persoonsgegevens gebruikt worden in een lijst. Daarna worden via een tabel toegelicht waar deze persoonsgegevens exact voor worden gebruikt. Zo wordt bijvoorbeeld ‘geslacht’ gebruikt voor ‘aanhef in de brief’.
+
+    Bron: [Klantapplicatie WW](https://www.uwv.nl/nl/over-uwv/organisatie/algoritmeregister-uwv/klantapplicatie-ww)
 
 ## Bronnen 
 - [Impact Assessment Mensenrechten en Algoritmes, 2A.2.1](../hulpmiddelen/IAMA.md)

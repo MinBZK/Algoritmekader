@@ -51,12 +51,17 @@ Zeker wanneer er gebruikt wordt gemaakt van informatie van derden, is het belang
 ## Risico
 Door veranderingen in de data presteert het model niet meer zoals verwacht.
 
+## Voorbeeld
+
+!!! example "Gemeente Den Haag: Quality-Bot"
+	De gemeente Den Haag maakt gebruik van een datakwaliteit algoritme: Quality-Bot (Q-Bot). Dit algoritme controleert bestaande en nieuwe patronen in de data om zo de bronhouder nieuwe inzichten te kunnen geven in de data. Op deze manier kan datakwaliteit ingeschat worden en kunnen fouten worden ontdekt. 
+	Dit algoritme monitort dus geen directe veranderingen autonoom maar communiceert deze naar de werknemer. Op deze manier kan gecontroleerd worden of wat voor data veranderingen er optreden. Het evalueren van (vervolg) prestaties is niet mogelijk omdat dit algoritme niet direct is aangesloten op een vervolg algoritme maar gezien kan worden als een voor-traject. 
+	
+	Bron: [Algoritme datakwaliteit - Gemeente Den Haag]( https://algoritmes.overheid.nl/nl/algoritme/algoritme-datakwaliteit-gemeente-den-haag/67582219) 
+
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)  
+
 ## Bronnen
 - [Onderzoekskader Auditdienst Rijk, DM.8](https://open.overheid.nl/documenten/61b54381-d331-40ed-8fce-b2883b195f25/file)
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 1.02, 1.08, 2.06, 2.08, 2.13](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - Norm: ["Information technology - Artificial intelligence - Data life cycle framework"](https://www.nen.nl/nen-en-iso-iec-8183-2024-en-325716)
-
-## Voorbeeld
-
-Heb jij een goed voorbeeld? Laat het ons weten!
-

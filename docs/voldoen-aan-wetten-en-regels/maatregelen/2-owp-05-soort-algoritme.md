@@ -1,6 +1,6 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Stel vast in welke risicogroep het algoritme valt en bepaal vervoglens welke vereisten van toepassing zijn.
+title: Stel vast in welke risicogroep het algoritme valt en bepaal vervolgens welke vereisten van toepassing zijn.
 id: urn:nl:ak:mtr:owp-05
 # geef hier een korte toelichting van deze maatregel
 toelichting: Het verschilt per type algoritme welke vereisten hierop van toepassing zijn en waar een aanbieder of gebruiksverantwoordelijke aan moet voldoen. Dit is mede afhankelijk van de bijbehorende risicoclassificatie.  

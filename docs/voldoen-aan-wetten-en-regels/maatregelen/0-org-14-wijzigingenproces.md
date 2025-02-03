@@ -57,7 +57,7 @@ Als een formeel wijzigingenproces ontbreekt bestaat het risico van ongeautorisee
 
 ## Voorbeeld
 
-!!! example "Naam van overheid: Korte uitleg"
+!!! example "Informatie Beveiligingsdienst - Aanwijzing Logging"
 	
 	De informatie beveiligingsdienst (IBD) heeft een handreiking gepubliceerd rondom logging-beleid en -procedures. Hierin wordt onder andere uitgelegd wat voor soorten logbestanden er zijn, voor wie deze belangrijk zijn en wat er in een log moet staan. Daarnaast wordt toegelicht hoe logging gecontroleerd kan/moet worden.
 

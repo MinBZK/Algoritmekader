@@ -182,15 +182,38 @@ Bepaal [met een grote groep belanghebbenden](1-pba-04-betrek-belanghebbenden.md)
 Wanneer er geen zorgvuldige analyse naar (onwenselijke) bias is uitgevoerd, bestaat het risico dat het gebruik van het algoritme discriminerende effecten met zich meebrengt. 
 Dit kan leiden tot een ongelijke behandeling van burgers met eventuele schade voor betrokkenen.
 
+## Voorbeelden
+
+!!! example "Algorithm Audit – Addendum Vooringenomenheid voorkomen"
+
+	Algorithm Audit heeft de risicoprofilering in het Controle Uitwonendenbeurs-proces (CUB-proces) onderzocht op verzoek van Dienst Uitvoering Onderwijs (DUO). DUO heeft tussen 2010 en 2023 gebruik gemaakt van een risicoprofiel voor het tegengaan van onrechtmatig gebruik van de uitwonendenbeurs. Dit is in 2023 in opspraak geraakt en DUO heeft verzocht of Algorithm Audit hier verder onderzoek naar te doen.
+	Hieruit bleek dat er inderdaad onvoldoende statistische verband was tussen een aantal selectiecriteria. Dit is gebleken uit een kwantitatieve analyse aan de hand van verschillende onderzoeksvragen. Zij hebben hun analyses ook publiekelijk online staan op [Github](https://github.com/NGO-Algorithm-Audit/DUO-CUB), op deze manier zouden andere organisaties een soortgelijke analyse uit kunnen voeren.
+	
+	Bron: [Addendum Vooringenomenheid voorkomen, Algorithm Audit](https://algorithmaudit.eu/nl/algoprudence/cases/aa202402_preventing-prejudice_addendum/)
+
+
+!!! example "Voorbeeld: PricewaterhouseCoopers – Onderzoek misbruik uitwonendenbeurs"
+	
+	PricewaterhouseCoopers (PwC) heeft onderzoek gedaan op verzoek van het Ministerie van Onderwijs, Cultuur en Wetenschap (OCW) naar de controle op het misbruik en oneigenlijk gebruik van uitwonendenbeurs (controleproces MUB). Het gaat om de uitwonendenbeurs die Dienst Uitvoering Onderwijs (DUO) destijds onder deze naam verstrekte (tegenwoordig Controle Uitwonendenbeurs-proces (CUB-proces)). PwC heeft een kwalitatief onderzoek gedaan naar de procedures rond de opzet, validatie en evaluatie van het MUB-proces.
+
+	Dit kwalitatieve onderzoek is uitgevoerd aan de hand van een eerder opgesteld analysekader voor onderzoek naar selectiesystemen bij andere Nederlandse overheden. Het analyse kader bestaat uit drie delen: procedures rond opzet, de gevolgen van de inrichting en omgang met risicosignalen. In het rapport van PwC staat dit in sectie 1.3.1 in meer detail uitgelegd.
+ 
+	Bron: [Onderzoek misbruik uitwonendenbeurs, PricewaterhouseCoopers](https://www.rijksoverheid.nl/documenten/rapporten/2024/03/01/eindrapport-pwc-rapportage-onderzoek-misbruik-uitwonendenbeurs)
+
+ 
+!!! example "Rijks ICT Gilde – Bias toetsing 'Kort Verblijf Visa' aanvragen"
+
+ 	Het Rijks ICT Gilde (RIG) heeft op verzoek van het Ministerie van Buitenlandse Zaken (BZ) een bias-toetsing uitgevoerd rondom beslissingen van bepaalde visumaanvragen. Hierbij heegt het RIG onderzoek gedaan naar welke typen bias zich voordoen en hoe deze bias verminderd kan worden.
+
+ 	Zij hebben een kwantitatief onderzoek gedaan en hieruit bleek dat er aanzienlijk verschil (dus bias) op basis van nationaliteit. Daarom heeft het RIG geadviseerd om het gebruik van profielscore en risicogroepen te beëindigen. 
+
+	Bron: [Bias toetsing 'Kort Verblijf Visa' aanvragen, Rijks ICT Gilde](https://www.rijksoverheid.nl/documenten/publicaties/2023/04/01/bias-toetsing-kort-verblijf-visa-aanvragen)
+
+
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)  
+
 ## Bronnen
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 2.18, 2.19, 3.08, 3.09](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Onderzoekskader Algoritmes Auditdienst Rijk, DM.16, DM.17, DM.18, DM.20, DM.21, DM.22](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) 
 - [Discriminatie door risicoprofielen - Een mensenrechtelijk toetsingskader, College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dc)
 - [Handreiking non-discriminatie by design](https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design)
-
-## Voorbeelden
-- [Addendum Vooringenomenheid voorkomen, Algorithm Audit](https://algorithmaudit.eu/nl/algoprudence/cases/aa202402_preventing-prejudice_addendum/) met bijbehorende data en broncode op [Github](https://github.com/NGO-Algorithm-Audit/DUO-CUB)
-- [Onderzoek misbruik uitwonendenbeurs, PricewaterhouseCoopers](https://www.rijksoverheid.nl/documenten/rapporten/2024/03/01/eindrapport-pwc-rapportage-onderzoek-misbruik-uitwonendenbeurs)
-- [Pilot Slimme Check, Gemeente Amsterdam](https://openresearch.amsterdam/nl/page/105057/eindevaluatie-pilot-slimme-check---bias-analyse-eindrapport)
-- [Bias toetsing 'Kort Verblijf Visa' aanvragen, Rijks ICT Gilde](https://www.rijksoverheid.nl/documenten/publicaties/2023/04/01/bias-toetsing-kort-verblijf-visa-aanvragen)
-- [Report on Algorithmic bias assesment, SigmaRed](https://www.rijksoverheid.nl/documenten/rapporten/2024/02/07/sigmared-report-on-algorithmic-bias-assessment)

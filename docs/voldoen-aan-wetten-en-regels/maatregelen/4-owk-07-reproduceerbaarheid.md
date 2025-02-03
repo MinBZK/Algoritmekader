@@ -85,4 +85,13 @@ Hierdoor kan geen verantwoording worden geboden.
 - [Odd Erik Gundersen, et al., State of the Art: Reproducibility in Artificial Intelligence ](https://ojs.aaai.org/index.php/AAAI/article/view/11503)
 
 ## Voorbeeld
-Heb jij een goed voorbeeld? Laat het ons weten!
+
+!!! example "Dienst Toeslagen: Populatiebepaling Kindregeling"
+
+	De Dienst Toeslagen maakt gebruik van een algoritme als ondersteuning om in kaart te brengen welke (pleeg)kinderen in aanmerking komen voor een tegemoetkoming van de kindregeling. Op deze manier kan efficiënter, nauwkeuriger en consistenter herkend worden wie hier voor in aanmerking komen.
+	Om er voor te zorgen dat deze bepaling reproduceerbaar is wordt gebruik gemaakt van versie-beheer. Hierbij worden wijzigingen in de populatie doorgevoerd en bijgehouden. Hiernaast wordt ook aanvullende informatie die tijdens de kritieke periode bekend was in een aparte kolom gezet om zo reproduceerbaarheid te kunnen controleren.
+	
+	Bron: [Populatiebepaling kindregeling - Dienst Toeslagen](https://algoritmes.overheid.nl/nl/algoritme/populatiebepaling-kindregeling-dienst-toeslagen/34319693)
+
+
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)  

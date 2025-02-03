@@ -55,6 +55,24 @@ Wanneer je geen zorgvuldige afweging maakt over de techniek die je gebruikt om h
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
+## Voorbeelden
+
+!!! example "Douane: Risico detectie aangiften"
+	
+ 	De douane maakt gebruik van een algoritme om te selecteren welke goederen een (extra) controle krijgen. Dit wordt gedaan op basis van aangiftegegevens van bedrijven waarmee mogelijk verhoogde risico’s worden aangegeven. In het algoritmeregister geven zij aan dat dit algoritme gebruik maakt van beslisregels gebaseerd op “if-then-else” combinaties. Zij geven aan dat gedaan wordt om zo aangiften efficiënter te kunnen behandelen en dus mogelijk sneller vrijgegeven kunnen worden.
+	
+ 	Bron: Detecteren risico’s in douaneaangiften voor naleving opiumwetontheffing - Douane
+
+
+!!! example "Provincie Zuid-Holland: Webapplicatie Impactmonitor Brugopening"
+
+	De Provincie Zuid-Holland (PZH) maakt gebruik van een webapplicatie om brugbedieners te ondersteunen bij het optimale moment kiezen voor het openen van de brug. De applicatie voorspelt tot 21 minuten in de toekomst en houd rekening met verkeersdoorstroom en uitstoot.
+	Binnen het algoritme register hebben zij in detail uitgelegd welke technische implementaties gebruikt worden. Zij maken gebruik van _Recurring Neural Networks_ (RNNs), een specifieke vorm van Artificiële Neurale Netwerken. Deze worden getraind op tijdserie data wat in dit geval belangrijk is vanwege de afhankelijkheid van drukte op en rondom de brug.
+	
+	Bron: [Webapplicatie Impactmonitor Brugopening - Provincie Zuid-Holland](https://algoritmes.overheid.nl/nl/algoritme/webapplicatie-impactmonitor-brugopening-provincie-zuidholland/96895333)
+
+
+
 ## Bronnen 
 - [Impact Assessment Mensenrechten en Algoritmes, 2A.1, 2B.1](../hulpmiddelen/IAMA.md)
 - [Onderzoekskader Auditdienst Rijk, DM.2](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)

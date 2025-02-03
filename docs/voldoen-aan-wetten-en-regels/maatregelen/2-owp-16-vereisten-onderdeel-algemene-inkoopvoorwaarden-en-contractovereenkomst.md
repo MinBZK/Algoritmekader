@@ -102,10 +102,6 @@ Maak vereisten voor algoritmes onderdeel van contractvoorwaarden en de contracto
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
 Door de vereisten voor een verantwoorde inzet van algoritmes niet te communiceren met aanbieders, is het voor hen (deels) onduidelijk aan welke vereisten diens algoritmes moet voldoen om te kunnen contractueren met overheidsorganisaties.
 
-## Bronnen 
-<!-- Vul hier de relevante bronnen in voor deze maatregel -->
-- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.11](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
-- [Specificeren algemene inkoopvoorwaarden](https://www.pianoo.nl/nl/inkoopproces/fase-1-voorbereiden/specificeren/specificeren-algemene-voorwaarden)
 
 
 ## Voorbeeld
@@ -115,4 +111,19 @@ Door de vereisten voor een verantwoorde inzet van algoritmes niet te communicere
 - [Europese Inkoopvoorwaarden Laag Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_Template_NON_HIGH_RISK_NL.pdf)
 
 
+	De gemeente Amsterdam heeft contractvoorwaarden voor algoritmen opgesteld waarin sommige vereisten opgenomen zijn. Hieronder vallen bijvoorbeeld aia-11 “Hoog-risico-AI-systemen zijn voorzien van een kwaliteitsbeheersysteem.” en awb-02 “Organisaties kunnen duidelijk uitleggen waarom en hoe algoritmes leiden tot een besluit”. Deze staan respectievelijk in artikel 6.2 en artikel 5.4 verder uitgewerkt. 
+	Op dit moment zijn de vereisten impliciet verwerkt in deze voorwaarden in tegenstelling tot een expliciete verwijzing. Het is goed dit explicieter te benoemen zodat de aanbieder hier volledig van op de hoogte is.
+	
+	Meer informatie over [generieke inkoopvoorwaarden die je kunt gebruiken](../hulpmiddelen/inkoopvoorwaarden.md).
+	
+	Bron: [Contractvoorwaarden voor algoritmen - Innovatie](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmes-ai/contractvoorwaarden-algoritmen/)
+
+
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
+
+
+## Bronnen 
+<!-- Vul hier de relevante bronnen in voor deze maatregel -->
+- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.11](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [Specificeren algemene inkoopvoorwaarden](https://www.pianoo.nl/nl/inkoopproces/fase-1-voorbereiden/specificeren/specificeren-algemene-voorwaarden)
+

@@ -57,4 +57,12 @@ Een beslissing of besluit wordt niet conform wetgeving genomen en is daarmee onr
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 2.05](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 
 ## Voorbeeld
-[Handleiding Wetanalyse](https://wendbarewetsuitvoering.pleio.nl/attachment/805680a2-1c37-4831-bbfb-2d602ca7d65c) 
+
+!!! example "Belastingdienst – Handleiding Wetsanalyse in de praktijk"
+	
+	Binnen de Belastingdienst is een betrokken team wat zich focust op de verdere ontwikkelingen van Wendbare Wetsuitvoering. Hierop staat onder andere de handleiding “Wetsanalyse in de praktijk”. In dit document staat hoe de vertaling van wetgeving naar inrichting van de uitvoeringspraktijk gedaan kan worden. Hierbij worden ook tastbaar gemaakt waarom dit nodig is aan de hand van een aantal voorbeelden.
+	In het eerste inhoudelijke hoofdstuk wordt toegelicht wat wetanalyse inhoudt aan de hand van karakteristieken. In het tweede hoofdstuk worden de daadwerkelijke handelingen verder uitgelegd.
+	
+	Bron: [Handleiding Wetsanalyse in de praktijk - Wendbare wetsuitvoering]( https://wendbarewetsuitvoering.pleio.nl/page/view/41f08520-3910-4691-a982-f355e199f011/handleiding-wetsanalyse-in-de-praktijk)
+
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)  

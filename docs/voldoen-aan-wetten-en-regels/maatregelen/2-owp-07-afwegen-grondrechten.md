@@ -63,18 +63,32 @@ Documenteer de doorlopen stappen en leg de keuzes en afwegingen goed vast.
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
-## Bronnen 
-<!-- Vul hier de relevante bronnen in voor deze maatregel -->
-- [Impact Assessment Mensenrechten en Algoritmes, deel 4](../hulpmiddelen/IAMA.md)
-- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.4](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
-
-
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
 Het risico is dat er grondrechten, anders dan die expliciet beschermd zijn in andere maatregelen en vereisten, aangetast worden.
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
-Hoofdstuk 4 van het [Impact Assesment Mensenrechten en Algoritmen (IAMA)](../hulpmiddelen/IAMA.md) richt zich specifiek op de grondrechten. In bijlage 1 is tevens een overzicht te vinden van mogelijk relevante grondrechten.
+
+
+!!! example "Gemeente Rotterdam – Evaluatierapport governance algoritmetoepassingen"
+
+	De gemeente Rotterdam maakt gebruik van het Impact Assessment Mensenrechten en Algoritmes (IAMA) na controle op hoog-risico aan de hand van de Algorithm Risk Assesment (ARA). Rotterdam gebruikt hiermee de ARA als een ‘pre-IAMA’ om daarna (waar nodig) het IAMA verder uit te werken. Zij geven aan dat het IAMA veel toegevoegde waarde heeft, zo helpt het onder andere ontwikkelaars met het onderbouwen van problemen binnen een algoritme.
+		
+	Bron: [Werken aan verantwoorde algoritmisering](https://rotterdamraad.bestuurlijkeinformatie.nl/Reports/Document/d9d3ccf6-d3da-40cc-bf95-44633d081a19?documentId=73807119-e0b5-45d1-b949-0f4725a537f4)
+
+
+!!! example "Diverse organisaties  - IAMA in Actie"
+
+	In 2024 zijn door Universiteit Utrecht (UU) en Rijks ICT Gilde (RIG) een aantal IAMA-trajecten begeleid bij overheidsorganisaties. Hierbij zijn verschillende sessies geweest per organisatie om alle gedeelten van het IAMA correct te beantwoorden met behulp van de expertise van de UU- of RIG-begeleiders. Bij de sessies is een format aangehouden van 5 uur voor alle IAMA-sessies bij elkaar. In sommige gevallen bleek dit te weinig terwijl in andere gevallen dit voldoende was. Vaak bleek dat er meer tijd nodig was als er nog daadwerkelijke keuzes gemaakt moesten worden. Het is dus belangrijk om goed de tijd te nemen voor een volledig IAMA.
+
+	Bron: [IAMA in Actie]( https://open.overheid.nl/documenten/47e00e94-be86-4071-8e6e-e3da2a537771/file)
+
+
+## Bronnen 
+<!-- Vul hier de relevante bronnen in voor deze maatregel -->
+- [Impact Assessment Mensenrechten en Algoritmes, deel 4](../hulpmiddelen/IAMA.md)
+- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.4](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+
 
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

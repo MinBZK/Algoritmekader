@@ -83,12 +83,21 @@ Door onjuiste training van het model presteert het model in de praktijk minder g
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 2.15, 2.21](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) 
 
 ## Voorbeeld
-!!! example "Gemeente Amsterdam: "
+!!! example "Gemeente Amsterdam: Lokaliseren van lantaarnpalen"
 
     Gemeente Amsterdam heeft een systeem voor het herkennen van lantaarnpalen. Hiervoor is een subset van de data gebruikt uit Amsterdam-Oost om te trainen. Het testen is onder andere gebeurd in Weesp wat in het Zuid-Oost gebied ligt. Het uiteindelijke doel is het gehele gebied Amsterdam.
     Het grootste punt van verbetering zou zijn om de trainings-data en validatie-data expliciet te benoemen. Daarnaast zou de trainings-data het beste uit verschillende delen van het gebied Amsterdam gehaald kunnen worden om zo overfitting op Amsterdam-Oost te voorkomen.
         
-    Bron: [Lokaliseren lantaarnpalen - Algoritmeregister](https://algoritmes.overheid.nl/nl/algoritme/lokaliseren-van-lantaarnpalen-gemeente-amsterdam/17364371#werking)
+    Bron: [Lokaliseren lantaarnpalen - Algoritmeregister](https://algoritmes.overheid.nl/nl/algoritme/lokaliseren-van-lantaarnpalen-gemeente-amsterdam/17364371)
+
+
+!!! example "Gemeente Ede – WOZ-taxatiemodellen"
+
+	De gemeente Ede heeft een algoritme in gebruik als ondersteuning bij het bepalen (en controleren) van de WOZ-waarde van woningen. Dit wordt gedaan aan de hand van Machine Learning modellen die op basis van onder andere woning- en locatiekenmerken gecombineerd met markt- en verkoop condities de WOZ-waarde kan bepalen. Hierbij wordt bepaald welke kenmerken het meeste gewicht hebben voor deze bepaling.
+ 	Dit algoritme is getraind op 80% van de data om vanuit daar verbanden tussen transactieprijzen en kenmerken te leren. Voor de testset is 20% van de data gebruik om te valideren of nieuwe (onbekende) data ook correct gewaardeerd wordt.
+	
+	Bron: [WOZ-taxatiemodellen - Gemeente Ede](https://algoritmes.overheid.nl/nl/algoritme/woztaxatiemodellen-gemeente-ede/39323486)
+
 
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
 

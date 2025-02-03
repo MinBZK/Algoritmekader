@@ -55,6 +55,13 @@ Evalueer de uitlegbaarheid van het systeem op functionele, operationele, bruikba
 ## Risico
 Als er geen rekening wordt gehouden met de uitlegbaarheid van een algoritme binnen een bepaalde context, ontstaat het risico dat de output van het algoritme niet wordt begrepen of verkeerd wordt geïnterpreteerd, wat kan leiden tot onjuist gebruik.
 
+## Voorbeeld
+
+!!! example "Gemeente Amsterdam - Slimme check levensonderhoud" 
+
+	Gemeente Amsterdam heeft in een pilot gebruik gemaakt van een algoritme dat medewerkers helpt om te bepalen of een aanvraag levensonderhoud onderzoekswaardig is. De gemeente heeft ook een document waarin wordt toegelicht hoe verwerkte data gebruikt wordt. Dit is gedaan aan de hand van bijvoorbeeld een belangrijkheids-score per kenmerk. Op deze manier wordt inzichtelijk en uitlegbaar wat de invloed is van individuele kenmerken.
+	
+ 	Bron: [Overzicht Verwerkte Data en Features](https://algoritmeregister.amsterdam.nl/onderzoekswaardigheid-slimme-check-levensonderhoud/#:~:text=Overzicht%20Verwerkte%20Data%20en%20Features.pdf)
 
 ## Bronnen
 - [Onderzoekskader Auditdienst Rijk, DM.11](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
@@ -68,7 +75,3 @@ Als er geen rekening wordt gehouden met de uitlegbaarheid van een algoritme binn
 - [A Survey of Privacy-Preserving Model Explanations: Privacy Risks, Attacks, and Countermeasures](https://arxiv.org/pdf/2404.00673)
 - [Towards Transparency by Design for Artificial Intelligence | Science and Engineering Ethics](https://link.springer.com/content/pdf/10.1007/s11948-020-00276-4.pdf).
 - [From Anecdotal Evidence to Quantitative Evaluation Methods: A Systematic Review on Evaluating Explainable AI](https://dl.acm.org/doi/pdf/10.1145/3583558)
-
-## Voorbeeld
-
-- [Gemeente Amsterdam - Onderzoekswaardigheid Algoritme ‘Slimme check’.](https://algoritmeregister.amsterdam.nl/onderzoekswaardigheid-slimme-check-levensonderhoud) Een tool die de medewerkers helpt om te bepalen of een aanvraag levensonderhoud onderzoekswaardig is. (niet meer in gebruik!): [Overzicht Verwerkte Data en Features](https://algoritmeregister.amsterdam.nl/wp-content/plugins/saidot-integratorv2/proxy.php?url=Qkjr73KewvSGp9K9GZcmjTzlFZxCvCvCFeCDZeqMWRfHl5SQ4WcgwEYMZGiOmz3w4DbAf%2B73Yic31bbsTTUISY905oRIWR1r%2Bh06UaTgeZk%2BPcwkNkxWYVfLz5h9mbDw19Fj1XHD1g6w30YkMleiFFhHSpbAez2OaEPto8K6tm9qmPY8wULc9S045oV91H5POhzx9CuNwZTEs%2BC1rhX6sUo5%2BO%2FPoDtN4TAV92gDl9dwxWjbJ9BYI4Jxm6M2GEan253nLkJMa035Ly2QTN7NOvaiuSOqqzjNqOPo8h8Ezryj4o5Q%2B%2FWhYRoA3v2ZM0npHxs9oQ8R5WGIbUKXUYQ2Rf6WyitIeWn6CP6tinNekB0%3D)

@@ -71,12 +71,41 @@ Kijk vervolgens of deze interventies effectief zijn om fouten te voorkomen.
 ## Risico
 Een gebruikersinterface die verkeerd gebruik door gebruikers mogelijk maakt, kan ervoor zorgen dat gebruikers verkeerde invoerwaarden geven, zich niet aan de beoogde werkwijze houden of per ongeluk toegang geven aan kwaadwillenden.
 
+
+## Voorbeeld
+<!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
+
+!!! example "Verschillende overheden – Octobox Anonimiseren"
+
+    Verschillende overheden maken gebruik van Octobox Anonimiseren, een anonimiseringstool die (persoons)gegevens aanduid voor maskering. Octobox zoekt deze (persoons)gegevens binnen het document ongeacht de inhoud. Na deze aanduiding moet er door een vakinhoudelijk persoon gecontroleerd worden of deze gegevens inderdaad gemaskeerd moeten worden of niet. Deze kunnen goed- en afgekeurd worden en ook gewijzigd worden voor goedkeuring. Daarnaast is er de optie om handmatig informatie te maskeren om zo andere (of gemiste) informatie te maskeren. De tool is op deze manier op een intuïtieve manier te gebruiken door medewerkers.
+    
+    Bron: [Octobox Anonimiseren](https://algoritmes.overheid.nl/nl/algoritme/octobox-anonimiseren-ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties/28793885) 
+
+
+
+!!! example "Gemeente Veere – AI-analyse tool "
+
+    De gemeente Veere heeft een analyse tool voor het versnellen en vergemakkelijken van het verwerken van input bij participatieprocessen. Hierbij worden bijvoorbeeld samenvattingen en categorieën gemaakt om zo de gebruiker te helpen bij het analyseren.
+    De gebruikersinterface zorgt ervoor dat de originele bron data ook standaard mee getoond worden om zo te verduidelijken waar de informatie vandaan komt. Daarnaast worden ook altijd referenties naar bron meegenomen in de samenvattingen. De interface maakt de gebruiker ook bewust van mogelijke fouten of hallucinaties die gemaakt kunnen worden door waarschuwingen te tonen.
+    
+    Bron: [AI-analyse tool (AI Sensemaking) - Gemeente Veere]( https://algoritmes.overheid.nl/nl/algoritme/aianalyse-tool-ai-sensemaking-gemeente-veere/62557610) 
+
+
+
+!!! example "Gemeente Ede  – WOZ-Taxatiemodellen "
+
+    De gemeente Ede heeft een algoritme in gebruik als ondersteuning bij het bepalen (en controleren) van de WOZ-waarde van woningen. Dit wordt gedaan aan de hand van Machine Learning modellen die op basis van onder andere woning- en locatiekenmerken gecombineerd met markt- en verkoop condities de WOZ-waarde kan bepalen. Hierbij wordt bepaald welke kenmerken het meeste gewicht hebben voor deze bepaling.
+    
+    Als de taxateurs de WOZ-waarde gaan bepalen, zien zij ook de algoritmisch bepaalde waarde. Hierbij is aan de hand van kleuren de zekerheid van de waarde aangegeven. Groen geeft een hoge zekerheid aan, oranje een redelijke zekerheid en rood een matige zekerheid. Op deze manier wordt voor taxateurs direct duidelijk en intuïtief wat de waarden inhouden.
+    
+    Bron: [WOZ-Taxatiemodellen]( https://algoritmes.overheid.nl/nl/algoritme/woztaxatiemodellen-gemeente-ede/39323486) 
+
+
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)  
+
 ## Bronnen
 - [Valid Useful User Experience Measurement ](https://www.academia.edu/28475349/Valid_Useful_User_Experience_Measurement)
 - [7 fundamental user experience (UX) design principles all designers should know (2024) - UX Design Institute](https://www.uxdesigninstitute.com/blog/ux-design-principles/)
 - [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/)
 - [User Centered Design (UCD)](https://www.interaction-design.org/literature/topics/user-centered-design)
 
-
-## Voorbeeld
-<!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->

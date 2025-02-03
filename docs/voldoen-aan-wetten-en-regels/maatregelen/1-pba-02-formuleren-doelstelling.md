@@ -59,13 +59,23 @@ Doelstellingen zijn in dat geval moeilijk bespreekbaar.
 
 <!-- list_vereisten_on_maatregelen_page -->
 
+## Voorbeeld
+
+!!! example "Gemeente Arnhem – Parkeercontrole Scanauto"
+
+	De gemeente Arnhem maakt gebruik van scanautos om te controleren of auto’s op de plek waar ze staan parkeerrecht hebben. Dit wordt gedaan door kentekenherkenning waarna er wordt gecontroleerd of het gescande kenteken in een database met geregistreerde parkeerrechten valt (vergunninghouder of parkeerkaart koper). Als dit niet zo is wordt dit handmatig gecontroleerd.
+	De gemeente heeft verschillende subdoelen gesteld naast het hoofddoel van handhaven. Deze doelen zijn uitgewerkt rondom het meten en dus informatie vergaren. Het gaat hier om betaalbereidheid en parkeerdruk om zo een goed beeld te krijgen van de gemeente.
+ 
+	Bron: [Parkeercontrole scanauto - Gemeente Arnhem](https://algoritmes.overheid.nl/nl/algoritme/parkeercontrole-scanauto-gemeente-arnhem/73165981) 
+
+
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
+
 ## Bronnen
 
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 1.01, 1.02](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Impact Assessment Mensenrechten en Algoritmes, 1.2](https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes)
 - [Onderzoekskader Algoritmes Auditdienst Rijk, SV.3, DM.7](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 
-## Voorbeeld
 
-Heb jij een goed voorbeeld? Laat het ons weten!
 

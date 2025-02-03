@@ -75,11 +75,32 @@ Overleg regelmatig met betrokkenen en [belanghebbenden](1-pba-04-betrek-belanghe
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
 Het risico is dat partijen niet of onvolledig worden geïnformeerd over de ontwikkeling en gebruik van algoritmes, en hierdoor hun rechten niet kunnen effectueren of belangen kenbaar kunnen maken.
 
-
-## Bronnen 
-<!-- Vul hier de relevante bronnen in voor deze maatregel -->
   
 ## Voorbeeld
+
+!!! example "Communicatiekompas – Bouwstenen van een communicatieplan"
+
+	Vanuit de Rijksoverheid is het communicatiekompas gemaakt voor het ondersteunen van communicatieprofessionals. Hier staat onder andere het hulpmiddel “Bouwstenen van een communicatieplan” waar de losse onderwerpen die in een plan horen worden toegelicht. Hier wordt per onderwerp uitgelegd wat er bij dit onderwerp hoort en waarom dit in het communicatieplan moet staan.
+
+	Bron: [Bouwstenen van een communicatieplan](https://communicatiekompas.nl/hulpmiddelen/bouwstenen-van-een-communicatieplan)  
+
+
+!!! example "Vereniging van Nederlandse Gemeenten –  Wmo voorspelmodel"
+	
+ 	De Vereniging van Nederlandse Gemeenten (VNG) heeft een Wet maatschappelijke ondersteuning (Wmo) voorspel model online staan. Dit model dient als ondersteuning voor gemeenten om een beter inzicht te krijgen in de toekomst om zo op het gebied van beleid, financiën en inkooptrajecten betere verwachtingen te kunnen doen voor Wmo-voorzieningen. 
+	Dit model is publiekelijk toegankelijk en heeft een uitleg waar ook een uitgebreide toelichting staat. In de uitleg wordt toelichting gegeven over onder andere het doel, de mogelijkheden en de beperkingen. Daarnaast wordt in de uitgebreide toelichting verder uitgelegd hoe de data en het model stap voor stap gebruikt kunnen worden. Op deze manier worden minder ervaren gebruikers meegenomen in het proces.
+
+	Bron: [Wmo voorspelmodel (toelichting via “Colofon & uitleg”)](https://wmovoorspelmodel.vng.nl/)  
+
+!!! example "Politie –  Keuzehulp Internetoplichting"
+
+	De politie maakt gebruik van een keuzehulp voor mogelijke internet oplichting. De keuzehulp maakt gebruik van een video om aan gebruikers uit te legen wat zij in moeten voeren om goed geholpen te worden en waarom deze keuzehulp bestaat. 
+	
+	Op deze manier wordt duidelijk toegelicht hoe het algoritme gebruikt moet worden en in welke context het werkt. Om het toegankelijk en duidelijk te maken is gekozen voor een video format.
+	
+	Bron: [Keuzehulp Internetoplichting](https://aangifte.politie.nl/iaai-preintake/)  
+
+
 - [Toetsingskader Algemene Rekenkamer, 2.09, 3.13, 3.15](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Bouwstenen van een communicatieplan](https://communicatiekompas.nl/hulpmiddelen/bouwstenen-van-een-communicatieplan)
 - [WMO voorspelmodel](https://wmovoorspelmodel.vng.nl/)
@@ -90,3 +111,6 @@ Het risico is dat partijen niet of onvolledig worden geïnformeerd over de ontwi
 
 
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
+
+## Bronnen 
+<!-- Vul hier de relevante bronnen in voor deze maatregel -->

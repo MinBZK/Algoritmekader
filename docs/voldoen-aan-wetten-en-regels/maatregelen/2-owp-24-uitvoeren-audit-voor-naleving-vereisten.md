@@ -106,14 +106,22 @@ Het is van belang dat opdrachtgever mogelijkheden heeft om te controleren in hoe
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
 Er kunnen geen controles of inspecties worden uitgevoerd om te beoordelen of de algoritmes van aanbieder nog voldoen aan de vereisten voor een verantwoorde inzet van algoritmes. 
 
+
+## Voorbeeld
+<!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
+
+!!! example "Gemeente Amsterdam - Modelbepalingen"
+	Gemeente Amsterdam heeft contractvoorwaarden en toelichting geformuleerd waarin verschillende aspecten van inkoop uitgelicht worden. Een onderdeel hiervan is het uitvoeren van audits of andersoortige controles. Hierin is opgenomen hoe deze uitgevoerd worden en wat de voorwaarden zijn.
+	Er staan op dit moment niet expliciet benoemd dat een audit op vereisten geauditeerd kan worden/wordt. Het is dus goed om deze vereisten toe te voegen aan een overeenkomst waarin deze ook benoemd worden als verplichting die nageleefd moeten worden. 
+	
+	Bron: [Contractvoorwaarden voor algoritmen - Innovatie](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmes-ai/contractvoorwaarden-algoritmen/)
+
+
+Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
+
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
 - [Contractvoorwaarden gemeente Amsterdam](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/contractvoorwaarden-algoritmen/)
 - [Europese Inkoopvoorwaarden Hoog Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_template_High_Risk%20NL.pdf)
 - [Europese Inkoopvoorwaarden Laag Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_Template_NON_HIGH_RISK_NL.pdf)
-
-## Voorbeeld
-<!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
-
-Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

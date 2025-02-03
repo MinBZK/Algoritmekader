@@ -47,9 +47,6 @@ Beveiliging. De verwerker treft passende technische en organisatorische maatrege
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
-## Bronnen
-
-[Verwerkersovereenkomst](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/avg-algemeen/verwerkersovereenkomst)
 
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
@@ -57,5 +54,16 @@ Er is sprake van een onrechtmatige verwerking van persoonsgegevens als geen verw
 
 ## Voorbeeld
 
-Heb jij een goed voorbeeld? Laat het ons weten!
+!!! example "Gemeente Geertruidenberg: Verwerkersovereenkomst"
 
+	De Gemeente Geertruidenberg heeft 4 juli 2024 een aankondiging gedaan voor een opdracht. De opdracht gaat over onder andere het leveren, implementeren  en onderhouden van een zaak-/archiefsysteem. Bij het creëren van de opdracht hebben ze ook direct een verwerkersovereenkomst gepubliceerd. Op deze manier is het direct onderdeel van de aanbesteding omdat de aanbieder weet wat er van hen verwacht wordt.
+	
+	Bron: [Zaak-/archiefsysteem](https://www.tenderned.nl/aankondigingen/overzicht/342065)
+
+
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)  
+
+
+## Bronnen
+
+- [Verwerkersovereenkomst](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/avg-algemeen/verwerkersovereenkomst)

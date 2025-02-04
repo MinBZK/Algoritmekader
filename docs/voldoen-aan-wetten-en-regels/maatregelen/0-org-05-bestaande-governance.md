@@ -24,14 +24,14 @@ hide:
 Sluit algoritmegovernance aan op bestaande governancestructuren binnen de organisatie.
 
 ## Toelichting
-Bij de vormgeving van een algoritmegovernance van een organisatie is het van belang om aansluiting en samenwerking te bewerkstelligen met huidige governancestructuren binnen de organisatie, zoals:
+Zoek bij het opstellen van een algoritmegovernance van een organisatie aansluiting en samenwerking met huidige governancestructuren. Dit kan op drie manieren: aansluiting bij bestaande governance binnen je organisatie, governance van andere sectoren en governance van andere overheidsorganisaties. 
+
+### Aansluiting met bestaande governancestructuren binnen je eigen organisatie
+Zoek aansluiting met bestaande governance binnen je organsatie, zoals:
 
 - IT governance
-  
 - [datagovernance](../../onderwerpen/data.md#goed-databeheer-datagovernance-en-datamanagement)
-  
 - informatiebeveiliging zoals governance rondom de [NIS2 richtlijn](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/nis2-richtlijn/)
-  
 - [privacygovernance](https://www.cip-overheid.nl/media/eeqkauey/20200814-handleiding-privacy-governance-v3_2.pdf)
 
 Deze governancestructuren kunnen waardevolle aanknopingspunten bieden voor algoritmegovernance, omdat hierin vaak al duidelijke afspraken zijn gemaakt en processen zijn geschreven om bijvoorbeeld risico's zo goed mogelijk te managen.
@@ -42,9 +42,16 @@ Stel vast waar deze expertise elkaar nodig hebben en waar deze zelfstandige take
 Voorgaande geeft inzichten om te bepalen in hoeverre algoritmegovernance, naast de bestaande governancestructuren, moet worden ingericht.
 
 De volgende vragen kunnen bedragen om bovenstaande inzichtelijk te krijgen:
+
 - Welke lessen zijn geleerd met de implementatie van de AVG of de toepassing van de BIO?
 - Is er iemand intern verantwoordelijk gemaakt voor (toezicht op) algoritmes?
 - Hoe werken experts vanuit verschillende onderwerpen zoals privacy, informatiebeheer, informatiebeveiliging en data op dit moment samen als het gaat om de inzet van algoritmes?
+
+### Governance van andere sectoren
+Andere sectoren hebben in veel gevallen al governancestructuren met vergelijkbare elementen. Denk aan governancestructuren uit de verzekeringssector of de bankensector. 
+
+### Aansluiting met andere overheidsorganisaties
+Probeer aansluiting te zoeken met vergelijkbare overheidsorganisaties. 
 
 ## Bronnen
 
@@ -59,6 +66,11 @@ De volgende vragen kunnen bedragen om bovenstaande inzichtelijk te krijgen:
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
 
 ## Voorbeelden
+
+!!! quote "Ervaring uit de praktijk"
+
+	"Misschien is het grootste succes wel dat we het vooral niet helemaal zelf bedacht hebben. En dat we het gewoon grotendeels gekopieerd hebben van andere partijen die dit hebben gemaakt. En vooral hebben gekeken naar wat we als organisatie nodig hebben."
+
 
 !!! example "Voorbeeld: Ervaringen Kadaster" 
 	Enkele ervaringen van het Kadaster bij het aansluiten van nieuwe onderwerpen op de bestaande governance-structuren:

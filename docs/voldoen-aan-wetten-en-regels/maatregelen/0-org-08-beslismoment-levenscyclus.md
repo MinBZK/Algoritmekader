@@ -1,5 +1,5 @@
 ---
-title: Maak gebruik van beslismomenten  in de algoritmelevenscyclus
+title: Richt vaste beslismomenten en controlepunten in in de algoritmelevenscyclus
 id: urn:nl:ak:mtr:org-08
 toelichting: Maak gebruik van beslismomenten in de levenscyclus van een algoritme.
 levenscyclus:
@@ -20,7 +20,7 @@ hide:
 
 ## Maatregel
 
-Maak gebruik van beslismomenten in de levenscyclus van een algoritme.
+Richt vaste beslismomenten en controlepunten in in de algoritmelevenscyclus.
 
 ## Toelichting
 - Algoritmegovernance kan op de levenscyclus aansluiten door 'gates' of controlepunten in te voeren. Deze gates bevatten belangrijke mijlpalen om te beoordelen of de juiste taken zijn uitgevoerd, of ethische afwegingen zijn geamaakt, of documentatie heeft plaatsgevonden en of akkoord is ingewonnen (go/no-go moment) bij de verantwoordelijke(n) om naar de volgende fase te mogen. 

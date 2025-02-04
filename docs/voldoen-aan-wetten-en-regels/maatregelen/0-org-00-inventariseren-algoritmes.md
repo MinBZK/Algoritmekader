@@ -1,7 +1,7 @@
 ---
 title: Inventariseer de algoritmes die binnen jouw organisatie worden gebruikt en houd dit overzicht actueel
 id: urn:nl:ak:mtr:org-00
-toelichting: 
+toelichting: Inventariseer de algoritmes die binnen jouw organisatie worden gebruikt en houd dit overzicht actueel
 vereiste: 
 - aia-00-verboden-AI-praktijken
 - aia-02-documentatie-beoordeling-niet-hoog-risico

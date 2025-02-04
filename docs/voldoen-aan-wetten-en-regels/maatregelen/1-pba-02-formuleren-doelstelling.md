@@ -38,14 +38,10 @@ Welke doelen zijn subdoelen, waarvoor het minder belangrijk is om deze te realis
 
 - Indien mogelijk, dienen de doelstellingen gekwantificeerd te worden (SMART).
 
-- Probeer vast te stellen wat de doelpopulatie is, zodat in een later stadium data kan worden gezocht die [representatief is daarvoor, wat bijdraagt aan de datakwaliteit](3-dat-01-datakwaliteit.md) van een algoritme.
+- Probeer vast te stellen wat de doelpopulatie is, zodat in een later stadium data kan worden gezocht dat [representatief is daarvoor, wat bijdraagt aan de datakwaliteit](3-dat-01-datakwaliteit.md) van een algoritme.
 
 - Om te zorgen voor voldoende draagvlak voor de beoogde doelen, is het noodzaak om [voldoende belanghebbenden te betrekken](1-pba-04-betrek-belanghebbenden.md). 
-Hierbij kan het ook helpen om burgers te betrekken bij de totstandkoming van de doelstellingen, bijvoorbeeld door middel van een burgerpanel of het betrekken van belangengroepen. 
-
-## Bijbehorende vereiste(n) { data-search-exclude }
-??? expander "Bekijk alle vereisten"
-    <!-- list_vereisten_on_maatregelen_page -->
+Hierbij kan het ook helpen om burgers te betrekken bij de totstandkoming van de doelstellingen, bijvoorbeeld door middel van een burgerpanel of het betrekken van belangengroepen.
 
 ## Risico
 Het algoritme dient niet het beoogde doel en onderliggend probleem. 
@@ -56,8 +52,8 @@ Wanneer doelstellingen niet meetbaar zijn gemaakt, is het onmogelijk om achteraf
 Doelstellingen zijn in dat geval moeilijk bespreekbaar.
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 
@@ -65,7 +61,7 @@ Doelstellingen zijn in dat geval moeilijk bespreekbaar.
 - [Impact Assessment Mensenrechten en Algoritmes, 1.2](https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes)
 - [Onderzoekskader Algoritmes Auditdienst Rijk, SV.3, DM.7](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 
-## Voorbeeld
+## Voorbeelden
 
-Heb jij een goed voorbeeld? Laat het ons weten!
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
 

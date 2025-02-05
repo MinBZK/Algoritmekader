@@ -1,19 +1,19 @@
 ---
-title: Discriminerende effecten van algoritmes
+title: Ongewenst onderscheid bij het gebruik van algoritmes
 hide: 
 - path
 ---
 
-# Discriminerende effecten van algoritmes
+# Ongewenst onderscheid bij het gebruik van algoritmes
 
-Wie algoritmes ontwikkelt of gebruikt, moet discriminerende effecten hiervan voorkomen. Want met algoritmes kun je makkelijk discrimineren, ook al is dat niet de bedoeling. Let daarom steeds op ‘bias’. Dit zijn vooroordelen of fouten in je algoritme of aanpak.
+Wie algoritmes ontwikkelt of gebruikt, moet ongewenst onderscheid en eventuele discriminerende effecten hiervan voorkomen. Want met algoritmes kun je makkelijk discrimineren, ook al is dat niet de bedoeling. Let daarom steeds op ‘bias’. Dit zijn vooroordelen of fouten in je algoritme of aanpak.
 
-## Wat zijn discriminerende effecten van algoritmes?
-Algoritmes hebben een discriminerend effect als je mensen ongelijk behandelt in gelijke situaties. En dit mag niet volgens de wet of de rechter.
+## Wat is ongewenst onderscheid?
+Algoritmes kunnen leiden tot ongewenst onderscheid als je mensen of groepen ongelijk behandelt in gelijke situaties. 
 
 Een camera met gezichtsherkenning herkent bijvoorbeeld geen vrouwen van kleur. Of een computerprogramma selecteert vooral mensen met een laag inkomen als risicogroep voor fraude.
 
-Zo’n discriminerend effect ontstaat doordat het algoritme een verboden onderscheid maakt:
+Dit onderscheid kan op twee manieren ontstaan:
 
 - Direct onderscheid: Het algoritme gebruikt een [discriminatiegrond](https://www.mensenrechten.nl/mensenrechten-voor-jou/discriminatie-en-gelijke-behandeling/wat-is-discriminatie) als variabele, zoals geloof, politieke voorkeur, ras, nationaliteit, geslacht, handicap, burgerlijke staat, vermogen of leeftijd.
 - Indirect onderscheid: Het algoritme lijkt neutraal of eerlijk. Maar later blijkt dat bepaalde mensen op een andere manier worden behandeld door hun geloof, politieke of seksuele voorkeur, ras, geslacht, of burgerlijke staat. 

@@ -46,11 +46,10 @@ Beschrijf welke techniek gebruikt wordt voor de beoogde toepassing.
 
 - Maak hierbij een bewuste afweging tussen [uitlegbaarheid](2-owp-33-toepassen-uitlegbaarheidstechnieken.md) en [prestaties](5-ver-02-evalueer-nauwkeurigheid.md) van het algoritme. Over het algemeen geldt dat complexere maar minder uitlegbare algoritmes nauwkeuriger zijn. 
 
-- Veel (statische) modellen zijn gebaseerd op (statische) aannames over bijvoorbeeld eigenschappen van de data. Ga na of er aan deze aannames wordt voldaan.
+- Veel (statistische) modellen zijn gebaseerd op (statistische) aannames over bijvoorbeeld eigenschappen van de data. Ga na of er aan deze aannames wordt voldaan. 
 
 ## Risico
-Het niet beschrijven van de technieken die gebruikt worden bij bepaalde toepassingen kan leiden tot mindere transparantie bij het gebruik van de beoogde algoritmes. 
-
+Wanneer je geen zorgvuldige afweging maakt over de techniek die je gebruikt om het doel te bereiken, dan is het niet duidelijk of de meest geschikte techniek wordt gebruikt. Mogelijk zijn er passendere oplossingen om het doel te bereiken. 
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"

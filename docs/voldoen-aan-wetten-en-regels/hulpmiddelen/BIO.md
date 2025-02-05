@@ -7,7 +7,18 @@ vereiste:
 - aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging
 - bio-01-beveiliging-informatie-en-informatiesystemen
 maatregel:
-- 
+- 0-org-11-gebruikersbeheer
+- 0-org-13-wachtwoordbeheer
+- 0-org-14-wijzigingenproces
+- 2-owp-36-voorkom-kwetsbaarheden-supplychain
+- 4-owk-01-security-by-design
+- 4-owk-04-logging
+- 4-owk-09-adversarial-aanvallen
+- 4-owk-10-voorkom-lekken-op-basis-van-output
+- 7-mon-01-backups-maken
+- 7-mon-02-beveiliging-algoritme
+- 7-mon-03-informatiebeveiligingsincidenten
+- 7-mon-08-test-weerbaarheid-tegen-aanvallen
 levenscyclus:
 - ontwerp
 - implementatie

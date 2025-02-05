@@ -16,13 +16,13 @@ rollen:
 vereiste:
 - aia-08-transparantie-aan-gebruiksverantwoordelijken
 - aia-09-menselijk-toezicht
-- aia-23-gebruiksverantwoordelijken-menselijk-toezicht
+- aia-21-gebruiksverantwoordelijken-menselijk-toezicht
 maatregel:
 - 6-imp-03-menselijke-tussenkomst
-- 5-ver-03-vertaling-wetgeving-naar-systeem
+- 5-ver-05-vertaling-wetgeving-naar-systeem
 - 5-ver-01-functioneren-in-lijn-met-doeleinden
-- 2-owp-06-afwegen-grondrechten
-- 2-owp-07-kwetsbare-groepen
+- 2-owp-07-afwegen-grondrechten
+- 2-owp-08-kwetsbare-groepen
 - 1-pba-01-formuleren-probleemdefinitie
 - 1-pba-02-formuleren-doelstelling
 - 1-pba-03-onderbouwen-gebruik-algoritme

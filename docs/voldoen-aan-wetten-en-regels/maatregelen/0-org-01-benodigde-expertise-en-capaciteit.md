@@ -32,12 +32,13 @@ Bepaal welke expertise en capaciteit noodzakelijk is voor het ontwikkelen, inkop
 <!-- Geef hier een toelichting van deze maatregel -->
 - Bepaal welke expertise en capaciteit binnen de organisatie noodzakelijk is voor het ontwikkelen, inkopen en gebruiken van algoritmes.
 - Dit is sterk afhankelijk van de specifieke toepassing en de inzichten die voortkomen uit risicoanalyses. Hoe complexer en risicovoller de toepassing, des te meer expertise en capaciteit noodzakelijk is. 
+- Indien is vastgesteld dat er onvoldoende expertise aanwezig is, investeer dan in [bewustwording en voldoende opleidingen](0-org-16-bewustwording-en-opleiding.md) over de kansen en risico's van algoritmes en AI. 
 - Interne en externe actoren die betrokken zijn bij het ontwikkelen, inkopen en gebruik moeten over voldoende expertise en capaciteit beschikken om hun taken naar behoren uit te voeren.
-- Investeer in (interne) opleidingen voor alle medewerkers. 
 - Stel vast of er afhankelijkheden van externe aanbieders ontstaan.  
 - Bepaal voorafgaand aan het (laten) ontwikkelen of inkopen van algoritmes of voldoende expertise en capaciteit beschikbaar is om tot een verantwoorde inzet ervan te komen.
 - Leg vast of er voldoende expertise en capaciteit beschikbaar is en onderbouw dit in projectdocumentatie.
 - Om menselijke controle te kunnen uitoefenen in verschillende fases van de ontwikkeling (of inkoop) van algortimes moet de mens bepaalde kennis, tijd en vaardigheden hebben. Alleen met de juiste kennis, tijd en vaardigheden kunnen risico’s op tijd geïdentificeerd en afgedekt worden. Deze kennis en expertise kan ook buiten de organisatie liggen, maar dan is het belangrijk om verantwoordelijkheden goed vast te leggen.     
+
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

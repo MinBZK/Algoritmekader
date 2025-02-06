@@ -7,7 +7,7 @@ vereiste:
 levenscyclus:
 - ontwerpfase
 onderwerp:
-- publieke inkoop
+- publieke-inkoop
 rollen:
 - projectleider
 sources:
@@ -34,6 +34,8 @@ Het is van belang dat een analyse wordt gedaan welke oplossingsrichting het mees
 - Een kwantitatieve kostenanalyse
 - Een kwalitatieve productiecriteria
 - Een kwalitatieve uitbestedingscriteria
+
+Met een grondige analyse kan worden voorkomen dat bijvoorbeeld de ontwikkeling van een algoritme onbeheersbaar wordt omdat er een betere inschatting is gemaakt van de bijbehorende kosten of dat een algoritme zelfstandig wordt ontwikkeld wat al bestaat.
 
 ## Risico
 Al ontwikkelde algoritmes die aansluiten bij de behoeftenstelling en de bijbehordende vereisten worden onnodig opnieuw ontwikkeld of het zelfstandig ontwikkelen is verkeerd ingeschat waardoor de ontwikkeling te duur of onbeheersbaar wordt.

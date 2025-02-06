@@ -114,7 +114,7 @@ Door de vereisten voor een verantwoorde inzet van algoritmes niet te bespreken m
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->   
 Geen beschikbare bron voor deze maatregel.
 
-## Voorbeeld
+## Voorbeelden
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
 
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

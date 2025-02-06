@@ -46,6 +46,10 @@ Vanaf februari 2025 treedt deze vereiste in werking.
 
     De Autoriteit Persoonsgegevens schreef een document over hoe je [aan de slag kan gaan met AI-geletterheid](https://www.autoriteitpersoonsgegevens.nl/documenten/aan-de-slag-met-ai-geletterdheid) bij jouw organisatie. 
 
+!!! tip "Tip"
+
+    Het AI-bureau van de EU heeft een aantal van de lopende best practices verzameld met als doel een [levend archief aan te leggen met voorbeelden van lopende praktijken op het gebied van AI-geletterdheid](https://digital-strategy.ec.europa.eu/en/library/living-repository-foster-learning-and-exchange-ai-literacy).
+
 ## Bronnen 
 
 - [Artikel 4 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e2799-1-1)

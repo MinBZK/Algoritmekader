@@ -57,4 +57,8 @@ Maak een meerjarig actieplan om toe te werken naar een volwassen niveau van AI-g
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
 
+!!! example "Best practices verzameld door het AI-bureau"
+
+    Het AI-bureau van de EU heeft een aantal van de lopende best practices verzameld met als doel een [levend archief aan te leggen met voorbeelden van lopende praktijken op het gebied van AI-geletterdheid](https://digital-strategy.ec.europa.eu/en/library/living-repository-foster-learning-and-exchange-ai-literacy).
+
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

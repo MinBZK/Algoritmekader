@@ -1,11 +1,11 @@
 ---
-title: Bepaal of een algoritme moet worden gemaakt of ingekocht 
-id: urn:nl:ak:mtr:pba-03
+title: Bepaal of een algoritme moet worden ontwikkeld of ingekocht
+id: urn:nl:ak:mtr:owp-38
 toelichting: Als in de ontwerpfase duidelijk is geworden welke doelstellingen en behoeften gerealiseerd moeten worden, dan moet de vraag worden beantwoord of het beoogde algoritme moet worden gemaakt of ingekocht.
 vereiste:
 - awb-01-zorgvuldigheidsbeginsel
 levenscyclus:
-- ontwerpfase
+- ontwerp
 onderwerp:
 - publieke-inkoop
 rollen:
@@ -20,25 +20,25 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-Bepaal of een algoritme moet worden gemaakt of ingekocht  
+Bepaal of een algoritme moet worden ontwikkeld of ingekocht
 
 ## Toelichting
 Als in de ontwerpfase duidelijk is geworden welke doelstellingen en behoeften gerealiseerd moeten worden, dan moet de vraag worden beantwoord of het beoogde algoritme moet worden gemaakt of ingekocht.
-Er zijn grofweg vier oplossingenrichtingen. 
-- Een kant-en-klare oplossingen inkopen (off the shelf) bij een aanbieder.
+Er zijn grofweg vier oplossingsrichtingen. 
+- Een kant-en-klare oplossing inkopen ("off the shelf") bij een aanbieder.
 - Een kant-en-klare oplossing inkopen bij een aanbieder waar nog enig maatwerk bij nodig is.
 - Een nieuwe oplossing laten ontwikkelen door een aanbieder.
 - Een nieuwe oplossing binnen de eigen organisatie ontwikkelen.
 
 Het is van belang dat een analyse wordt gedaan welke oplossingsrichting het meest wenselijk is. PIANOo heeft een bruikbaar (algemeen) afwegingskader en stappenplan opgesteld om deze analyse grondig uit te voeren. Denk hierbij aan maken van:
 - Een kwantitatieve kostenanalyse
-- Een kwalitatieve productiecriteria
-- Een kwalitatieve uitbestedingscriteria
+- Kwalitatieve productiecriteria
+- Kwalitatieve uitbestedingscriteria
 
-Met een grondige analyse kan worden voorkomen dat bijvoorbeeld de ontwikkeling van een algoritme onbeheersbaar wordt omdat er een betere inschatting is gemaakt van de bijbehorende kosten of dat een algoritme zelfstandig wordt ontwikkeld wat al bestaat.
+Met een grondige analyse kan worden voorkomen dat bijvoorbeeld een algoritme dat al bestaat zelfstandig wordt ontwikkeld of dat de ontwikkeling van een algoritme onbeheersbaar wordt. Er is bij zo'n analyse een betere inschatting gemaakt van de voor en nadelen en bijbehorende kosten.
 
 ## Risico
-Al ontwikkelde algoritmes die aansluiten bij de behoeftenstelling en de bijbehordende vereisten worden onnodig opnieuw ontwikkeld of het zelfstandig ontwikkelen is verkeerd ingeschat waardoor de ontwikkeling te duur of onbeheersbaar wordt.
+Al ontwikkelde algoritmes die aansluiten bij de behoeftestelling worden onnodig opnieuw ontwikkeld of het zelfstandig ontwikkelen is verkeerd ingeschat waardoor de ontwikkeling te duur of onbeheersbaar wordt.
  
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"

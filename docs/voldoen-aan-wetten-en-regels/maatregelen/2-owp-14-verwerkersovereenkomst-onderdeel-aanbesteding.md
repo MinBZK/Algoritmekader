@@ -55,7 +55,7 @@ Er is sprake van een onrechtmatige verwerking van persoonsgegevens als geen verw
 
 ## Bronnen
 
-[Verwerkersovereenkomst](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/avg-algemeen/verwerkersovereenkomst)
+- [Verwerkersovereenkomst](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/avg-algemeen/verwerkersovereenkomst)
 
 
 ## Voorbeelden

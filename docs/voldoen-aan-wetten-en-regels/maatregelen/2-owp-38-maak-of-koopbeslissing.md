@@ -46,8 +46,8 @@ Al ontwikkelde algoritmes die aansluiten bij de behoeftestelling worden onnodig 
 
 ## Bronnen
 
-- [Maak of koopbeslissing, PIANOo](https://www.pianoo.nl/nl/inkoopproces/fase-1-voorbereiden-inkoopopdracht/aanbestedingsplicht/maak-of-koopbeslissing)
-- [Afwegingskader en stappenplan maak/koopbeslissing](https://www.pianoo.nl/nl/inkoopproces/economische-afwegingen-bij-aanbesteding/maak-of-koopbeslissing/afwegingskader-stappenplan-maakkoopbeslissing)
+- [Maak of koopbeslissing (PIANOo)](https://www.pianoo.nl/nl/inkoopproces/fase-1-voorbereiden-inkoopopdracht/aanbestedingsplicht/maak-of-koopbeslissing)
+- [Afwegingskader en stappenplan maak/koopbeslissing (PIANOo)](https://www.pianoo.nl/nl/inkoopproces/economische-afwegingen-bij-aanbesteding/maak-of-koopbeslissing/afwegingskader-stappenplan-maakkoopbeslissing)
 
 ## Voorbeeld
 

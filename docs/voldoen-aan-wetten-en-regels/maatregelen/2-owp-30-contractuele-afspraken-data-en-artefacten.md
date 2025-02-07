@@ -29,21 +29,19 @@ Maak (contractuele) afspraken met de aanbieder wie eigenaar is van de data en ar
 
 Hier kan worden gedacht aan (initiële) trainingsdatasets, outputdata (richting gebruikers) en nieuwe trainingsdata (vanuit gebruikers). 
 
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Een risico dat kan ontstaan is dat er onduidelijkheid is over wie de verantwoordelijk heeft voor bepaalde aspecten van het gebruik van een algoritme.
+
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
-## Risico 
-<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-
-
 ## Bronnen
 
-| Bron                        |
-|-----------------------------|
-|Algoritmekader|
+Algoritmekader
 
-## Voorbeeld
+## Voorbeelden
 
 !!! example "Gemeente Amsterdam: Contractvoorwaarden"
 

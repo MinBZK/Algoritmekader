@@ -31,13 +31,16 @@ hide:
 Maak gebruik van een algoritme dat bronvermelding kan genereren bij de output.
 
 ## Toelichting
-Bij het gebruik van generatieve AI/LLM’s is bronvermelding van belang.
+Bij het gebruik van generatieve AI (bijvoorbeeld LLM’s) is bronvermelding van belang.
 Hiermee kan tot op zekere hoogte een beoordeling worden gegeven in hoeverre bij het trainen van het AI-model [rechtmatig](../vereisten/aut-01-auteursrechten.md) [gebruik](../vereisten/dat-01-databankenwet.md) is gemaakt van bronnen.
 Bronvermelding is daarnaast essentieel om de output van het AI-model [inhoudelijk te kunnen controleren](../../levenscyclus/verificatie-en-validatie.md), wat ook informatie geeft in hoeverre het AI-model bijvoorbeeld al dan niet hallucineert of manipuleert. 
 
 Voor het ontwikkelen van een AI-model is bronvermelding noodzakelijk, omdat het voor ontwikkelaars de enige manier is om te kunnen controleren of het model goed werkt. Dit geldt ook voor ontwikkelaars die pre-trained modellen gebruiken. 
 
 Neem het kunnen generenen van een bronvermelding mee als een 'requirement' voor het te ontwikkelen AI-model in de ontwerpfase of maakt het onderdeel van de behoeftestelling en [specificeer deze behoefte](2-owp-28-maak-vereisten-onderdeel-van-programma-van-eisen.md) in het inkoopproces.
+
+## Risico
+Het niet vermelden van een bron bij het gebruik van generatieve AI kan leiden tot sancties aangezien er niet wordt voldaan aan de AI-verordening. Hiernaast kan het voor onduidelijkheden zorgen bij het gebruik van een algoritme wat verantwoord gebruik in de weg kan zitten. 
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
@@ -48,6 +51,8 @@ Neem het kunnen generenen van een bronvermelding mee als een 'requirement' voor 
 
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
+Geen beschikbare bron voor deze maatregel. 
 
-## Voorbeeld
+## Voorbeelden
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 

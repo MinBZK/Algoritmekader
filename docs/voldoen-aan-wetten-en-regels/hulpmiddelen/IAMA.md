@@ -6,6 +6,8 @@ categorie:
 vereiste:
 - aia-27-beoordelen-gevolgen-grondrechten
 - grw-01-fundamentele-rechten
+maatregel:
+- 2-owp-07-afwegen-grondrechten
 levenscyclus:
 - probleemanalyse
 - ontwerp

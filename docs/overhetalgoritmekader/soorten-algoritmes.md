@@ -31,7 +31,7 @@ Rekenregels zijn niet kunstmatig intelligent (AI). Rekenregels kunnen wel onderd
 * [Prestatiemonitor](https://algoritmes.overheid.nl/nl/algoritme/prestatiemonitor-inspectie-van-het-onderwijs-ocw/79978718) dat risicoscores berekent van scholen, op basis van door mensen bedachte regels.
 
 ## Zelflerende algoritmes
-Zelflerende algoritmes zijn algoritmes die zichzelf trainen. Dit proces heet machinelearning. Hierdoor worden computers intelligent zonder dat mensen dit precies zo programmeren. Dit is een veel voorkomende vorm van AI. 
+Zelflerende algoritmes zijn algoritmes die zichzelf trainen. Dit proces heet machinelearning. Hierdoor leren computers van data, zonder dat mensen dit precies zo programmeren. Ze zoeken bijvoorbeeld naar patronen of doen voorspellingen. Dit is een veel voorkomende vorm van AI. 
 
 Zelflerende technieken zijn in elk geval:
 

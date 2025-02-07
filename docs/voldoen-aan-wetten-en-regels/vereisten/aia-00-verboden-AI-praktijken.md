@@ -51,6 +51,10 @@ Er zijn een tweetal uitzonderingen voor het inzetten van verbonden AI-systemen. 
 
 Bepaal in een vroege fase en bij het [onderbouwen van het gebruik van een AI-systeem](../maatregelen/1-pba-03-onderbouwen-gebruik-algoritme.md) of de beoogde toepassing is toegestaan. 
 
+!!! tip "Richtsnoeren over verboden AI-praktijken vanuit de Europese Commissie"
+
+    De Europese Commissie heeft [richtsnoeren inzake verboden praktijken op het gebied van AI](https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-prohibited-artificial-intelligence-ai-practices-defined-ai-act), zoals gedefinieerd door de AI-verordening, gepubliceerd. Deze richtlijnen geven een overzicht van AI-praktijken die onacceptabel worden geacht vanwege hun mogelijke risico's voor Europese waarden en grondrechten.
+
 ## Bronnen 
 
 [Artikel 5 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e2799-1-1).

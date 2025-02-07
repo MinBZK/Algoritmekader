@@ -90,13 +90,17 @@ hide:
 
 ## Maatregel
 <!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
-Maak vereisten onderdeel van het programma van eisen bij een aanbesteding
+Maak vereisten onderdeel van het programma van eisen bij een aanbesteding.
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-- Door vereisten onderdeel te maken van het programma van eisen bij een aanbesteding, is het voor aanbieders duidelijk aan welke specifieke eisen een oplossing moet voldoen.
+- Door vereisten onderdeel te maken van het programma van eisen bij een aanbesteding is het voor aanbieders duidelijk aan welke specifieke eisen een oplossing moet voldoen.
 - Op basis hiervan kan een aanbieder een zo goed mogelijke aanbieding doen.
-- Afhankelijk van de behoeftestelling kan het relevant zijn om bepaalde vereisten te verfijnen in het Programma van Eisen en aan te geven wanneer hieraan voldaan is, bijvoorbeeld met betrekking tot het transparantievereiste. Bepaal met het inkoopteam bij welke vereisten dit noodzakelijk is. 
+- Afhankelijk van de behoeftestelling kan het relevant zijn om bepaalde vereisten te verfijnen in het Programma van Eisen (PvE) en aan te geven wanneer hieraan voldaan is, bijvoorbeeld met betrekking tot de transparantievereiste. Bepaal met het inkoopteam bij welke vereisten dit noodzakelijk is. 
+
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Er is niet gespecificeerd en daarmee achteraf niet afdwingbaar dat algoritmes aan bepaalde vereisten moeten voldoen die van belang zijn voor de betreffende overheidsorganisatie. 
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
@@ -105,14 +109,11 @@ Maak vereisten onderdeel van het programma van eisen bij een aanbesteding
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
-## Risico 
-<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Er is niet gespecificeerd en daarmee achteraf niet afdwingbaar dat algoritmes aan bepaalde vereisten moeten voldoen die van de belangen voor de betreffende overheidsorganisatie. 
-
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
 [Hoe specificeer ik mijn vraag?](https://www.pianoo.nl/nl/inkopen-het-kort/hoe-zit-het-inkoopproces-elkaar/hoe-specificeer-ik-mijn-vraag)
 
-## Voorbeeld
+## Voorbeelden
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 

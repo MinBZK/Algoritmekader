@@ -1,9 +1,9 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Maak vereisten onderdeel van (sub)gunningscriteria bij een aanbesteding.
+title: Maak vereisten onderdeel van (sub)gunningscriteria bij een aanbesteding
 id: urn:nl:ak:mtr:owp-21
 # geef hier een korte toelichting van deze maatregel
-toelichting: Door een vereiste onderdeel te maken van een (sub)gunningscriteria, ontstaat een mogelijkheid voor aanbieders om zich te onderscheiden van andere aanbieders. Dit kan zorgen voor een extra stimulatie op kwaliteitsaspecten van algoritmes. 
+toelichting: Door een vereiste onderdeel te maken van (sub)gunningscriteria, ontstaat een mogelijkheid voor aanbieders om zich te onderscheiden van andere aanbieders. Dit kan zorgen voor een extra stimulatie op kwaliteitsaspecten van algoritmes. 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste: 
 - aia-03-risicobeheersysteem
@@ -64,10 +64,14 @@ Maak vereisten onderdeel van (sub)gunningscriteria bij een aanbesteding.
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-- Door een vereiste onderdeel te maken van een (sub)gunningscriteria, ontstaat een mogelijkheid voor aanbieders om zich te onderscheiden van andere aanbieders.
-- Dit kan zorgen voor een extra stimulatie op kwaliteitsaspecten van algoritmes
-- In de context van algoritmes is dit in het bijzonder relevant, bijvoorbeeld in relatie tot vereisten als non-discriminatie, eerbiedigen fundamentele rechten of het verbod op schenden auteursrechten. 
-- Door vereisten te vertalen naar een (sub)gunningscriteria, kan een inhoudelijke beoordeling worden gemaakt in hoeverre een aanbieder voldoet aan deze vereisten.
+- Door een vereiste onderdeel te maken van (sub)gunningscriteria, ontstaat een mogelijkheid voor aanbieders om zich te onderscheiden van andere aanbieders.
+- Dit kan zorgen voor een extra stimulatie op kwaliteitsaspecten van algoritmes.
+- In de context van algoritmes is dit in het bijzonder relevant, bijvoorbeeld in relatie tot vereisten als non-discriminatie, het eerbiedigen van fundamentele rechten of het verbod op schenden auteursrechten. 
+- Door vereisten te vertalen naar (sub)gunningscriteria, kan een inhoudelijke beoordeling worden gemaakt in hoeverre een aanbieder voldoet aan deze vereisten.
+
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Een risico van vereisten geen onderdeel te maken van (sub)gunningscriteria is dat bepaalde vereisten worden overgeslagen of gemist, wat kan leiden tot het niet voldoen aan deze vereisten. 
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
@@ -77,9 +81,6 @@ Maak vereisten onderdeel van (sub)gunningscriteria bij een aanbesteding.
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
-## Risico 
-<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
@@ -88,7 +89,7 @@ Maak vereisten onderdeel van (sub)gunningscriteria bij een aanbesteding.
 - [Beste prijs-kwaliteitsverhouding](https://www.pianoo.nl/nl/inkopen-het-kort/hoe-ga-ik-met-de-regels-om/gunningscriteria/beste-prijs-kwaliteitverhouding)
 
 
-## Voorbeeld
+## Voorbeelden
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
 
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

@@ -1,5 +1,5 @@
 ---
-title: Maak gebruik van een algoritme dat bronvermelding kan genereren bij de output.
+title: Maak gebruik van een algoritme dat bronvermelding kan genereren bij de output
 id: urn:nl:ak:mtr:owp-37
 toelichting: Kies bij het ontwikkelen of inkopen een algoritme dat bronvermelding kan genereren bij de output, zodat een beoordeling kan worden gegeven of het algoritme naar behoren functioneert.  
 vereiste: 

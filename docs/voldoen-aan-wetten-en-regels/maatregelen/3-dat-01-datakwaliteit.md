@@ -41,7 +41,7 @@ Stel vast of de gebruikte data van voldoende kwaliteit is voor de beoogde toepas
     - precisie
     - plausibiliteit
     - traceerbaarheid
-    - begrijpelijkheid
+    - begrijpelijkheid.
 
     Deze dimensies zijn aangevuld met [kwaliteitsattributen](https://www.noraonline.nl/wiki/Raamwerk_gegevenskwaliteit/Kwaliteitsattributen) welke gebruikt kunnen worden om de verschillende dimensies meetbaar te maken. 
 
@@ -59,13 +59,14 @@ Stel vast of de gebruikte data van voldoende kwaliteit is voor de beoogde toepas
 
     Wanneer je een algoritme inkoopt en de ontwikkeling van het algoritme uitbesteedt aan een derde partij, houdt er dan dan rekening mee dat data traceerbaar en reproduceerbaar moet zijn. Maak hier heldere afspraken over met de aanbieder. 
 
+## Risico
+- Door onjuiste beslissingen van gegevens kunnen verkeerde beslissingen genomen worden. 
+- Het model creëert onwenselijke systematische afwijking voor specifieke personen, groepen of andere eenheden. Dit kan leiden tot ongelijke behandeling en discriminerende effecten met eventuele schade voor betrokkenen.
+
+
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
-
-## Risico
-- Door onjuiste beslissingen van gegevens kunnen verkeerde beslissingen genomen worden. 
-- Het model creëert onwenselijke systematische afwijking voor specifieke personen, groepen of andere eenheden. Dit kan leiden tot ongelijke behandeling en discriminerende effecten met eventuele schade voor betrokkenen. 
 
 ## Bronnen
 - [Onderzoekskader Algoritmes Auditdienst Rijk, DM.7, DM.9, DM.19](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
@@ -75,7 +76,7 @@ Stel vast of de gebruikte data van voldoende kwaliteit is voor de beoogde toepas
 - [Handreiking non-discriminatie by design](https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design)
 - Norm: ["Artificial intelligence - Data quality for analytics and machine learning (ML) - Part 2: Data quality measures"](https://www.nen.nl/iso-iec-5259-2-2024-en-331171)
 
-## Voorbeeld
+## Voorbeelden
 
 !!! example "Voorbeeld: Gemeente Rotterdam - Avola"
 	

@@ -16,7 +16,7 @@ Hiervoor gelden verplichtingen op het gebied van transparantie. Gebruikers mogen
 
 Zie [AI-verordening, hoofdstuk IV](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#d1e5418-1-1).
 
-## hoog-risico
+## Hoog-risico-AI-systeem
 In deze risicogroep vallen AI-systemen die je gebruikt als veiligheidsonderdeel van bepaalde producten, of voor bepaalde diensten of processen.
 
 ### Gebruik als veiligheidsonderdeel

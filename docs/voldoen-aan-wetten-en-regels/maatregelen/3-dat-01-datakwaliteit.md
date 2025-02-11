@@ -41,7 +41,7 @@ Stel vast of de gebruikte data van voldoende kwaliteit is voor de beoogde toepas
     - precisie
     - plausibiliteit
     - traceerbaarheid
-    - begrijpelijkheid.
+    - begrijpelijkheid
 
     Deze dimensies zijn aangevuld met [kwaliteitsattributen](https://www.noraonline.nl/wiki/Raamwerk_gegevenskwaliteit/Kwaliteitsattributen) welke gebruikt kunnen worden om de verschillende dimensies meetbaar te maken. 
 

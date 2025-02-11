@@ -23,7 +23,7 @@ hide:
 Bepaal of een algoritme moet worden ontwikkeld of ingekocht
 
 ## Toelichting
-Als in de ontwerpfase duidelijk is geworden welke doelstellingen en behoeften gerealiseerd moeten worden, dan moet de vraag worden beantwoord of het beoogde algoritme moet worden gemaakt of ingekocht.
+Als in de [probleemanalyse fase](../../levenscyclus/probleemanalyse.md) duidelijk is geworden welke doelstellingen en behoeften gerealiseerd moeten worden, dan moet in de ontwerpfase worden bepaald of het beoogde algoritme zelf moet worden ontwikkeld of moet worden ingekocht.
 Er zijn grofweg vier oplossingsrichtingen:
 
 - Een kant-en-klare oplossing inkopen ("off the shelf") bij een aanbieder.

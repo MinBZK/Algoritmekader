@@ -31,7 +31,7 @@ Breng de volwassenheid van je organisatie op het gebied van algoritmes in kaart.
 
 
 ## Risico
-Als je niet een goed beeld hebt van waar de organisatie staat, is het moeilijk te peilen welke richting gekozen moet worden en kan dit leiden tot herhaling en het doen van dubbel werk.
+Als je niet een goed beeld hebt van waar de organisatie staat, is het moeilijk te peilen welke richting gekozen moet worden en kan dit leiden tot het doen van dubbel werk.
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 

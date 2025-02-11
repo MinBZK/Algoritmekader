@@ -51,6 +51,6 @@ Al ontwikkelde algoritmes die aansluiten bij de behoeftestelling worden onnodig 
 - [Maak of koopbeslissing (PIANOo)](https://www.pianoo.nl/nl/inkoopproces/fase-1-voorbereiden-inkoopopdracht/aanbestedingsplicht/maak-of-koopbeslissing)
 - [Afwegingskader en stappenplan maak/koopbeslissing (PIANOo)](https://www.pianoo.nl/nl/inkoopproces/economische-afwegingen-bij-aanbesteding/maak-of-koopbeslissing/afwegingskader-stappenplan-maakkoopbeslissing)
 
-## Voorbeeld
+## Voorbeelden
 
-Heb jij een goed voorbeeld? Laat het ons weten!
+Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

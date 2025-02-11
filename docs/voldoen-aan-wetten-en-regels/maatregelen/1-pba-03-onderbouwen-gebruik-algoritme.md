@@ -3,7 +3,7 @@ title: Beschrijf waarom een algoritme het probleem moet oplossen
 id: urn:nl:ak:mtr:pba-03
 toelichting: Bepaal en documenteer waarom het gewenst of nodig is om een algoritme in te zetten om het probleem te kunnen aanpakken.
 vereiste:
-- aia-00-verboden-praktijken
+- aia-00-verboden-AI-praktijken
 - awb-01-zorgvuldigheidsbeginsel
 levenscyclus:
 - probleemanalyse
@@ -32,7 +32,7 @@ Documenteer de onderbouwing waarom een algoritme een betere oplossing zou bieden
 
 - Maak een bewuste afweging of een algoritme het juiste middel is om [het probleem](1-pba-01-formuleren-probleemdefinitie.md) op doelmatige en doeltreffende wijze op te lossen, en documenteer deze afweging.
 
-- Beoordeel of de gewenste oplossing is [toegestaan op grond van de AI-Verordening](../vereisten/aia-00-verboden-praktijken.md). 
+- Beoordeel of de gewenste oplossing is [toegestaan op grond van de AI-Verordening](../vereisten/aia-00-verboden-AI-praktijken.md). 
 
 ## Risico
 Het algoritme is niet het juiste middel om het probleem op te lossen. Het risico daarbij bestaat dat het probleem niet wordt opgelost. 

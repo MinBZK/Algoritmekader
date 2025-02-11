@@ -24,11 +24,11 @@ Als je aanbieder bent van een AI-model voor algemene doeleinden, moet je vóór 
 * [aia-32 AI-modellen voor algemene doeleinden met systeemrisico’s zijn voldoende beveiligd tegen cyberaanvallen](vereisten/aia-32-ai-modellen-algemene-doeleinden-systeemrisico-cyberbeveiliging.md)
 
 ## 2 augustus 2026: Nieuwe hoog-risico-AI-systemen voldoen aan vereisten
-Als je aanbieder en/of gebruiksverantwoordelijke bent van een hoog-risico dat op de markt komt op of na 2 augustus 2026, moet je vóór 2 augustus 2026 voldoen aan de volgende vereisten uit de AI-verordening:
+Als je aanbieder en/of gebruiksverantwoordelijke bent van een hoog-risico-AI-systeem dat op de markt komt op of na 2 augustus 2026, moet je vóór 2 augustus 2026 voldoen aan de volgende vereisten uit de AI-verordening:
 
 ### Aanbieder
 
-* [aia-02 Beoordeling als ‘niet-hoog-risico’ is gedocumenteerd](vereisten/aia-02-documentatie-beoordeling-niet-hoog-risico-ai.md)
+* [aia-02 Beoordeling als ‘niet-hoog-risico-AI-systeem’ is gedocumenteerd](vereisten/aia-02-documentatie-beoordeling-niet-hoog-risico-ai.md)
 * [aia-03 Hoog-risico-AI-systemen zijn voorzien van een risicobeheersysteem](vereisten/aia-03-risicobeheersysteem.md)
 * [aia-04 Hoog-risico-AI-systemen vormen geen risico voor kwetsbare groepen zoals kinderen](vereisten/aia-04-risicobeoordeling-voor-jongeren-en-kwetsbaren.md)
 * [aia-05 Datasets voor hoog-risico-AI-systemen voldoen aan kwaliteitscriteria](vereisten/aia-05-data-kwaliteitscriteria.md)
@@ -44,7 +44,7 @@ Als je aanbieder en/of gebruiksverantwoordelijke bent van een hoog-risico dat op
 * [aia-15 Hoog-risico-AI-systemen zijn voorzien van een EU-conformiteitsverklaring](vereisten/aia-15-eu-conformiteitsverklaring.md)
 * [aia-16 Hoog-risico-AI-systemen zijn voorzien van een CE-markering](vereisten/aia-16-ce-markering.md)
 * [aia-17 Hoog-risico-AI-systemen zijn geregistreerd in de EU-databank](vereisten/aia-17-registratieverplichtingen.md)
-* [aia-18 Als een hoog-risico niet voldoet aan de AI-verordening, grijpt de aanbieder in](vereisten/aia-18-corrigerende-maatregelen-voor-non-conforme-ai.md)
+* [aia-18 Als een hoog-risico-AI-systeem niet voldoet aan de AI-verordening, grijpt de aanbieder in](vereisten/aia-18-corrigerende-maatregelen-voor-non-conforme-ai.md)
 * [aia-19 Hoog-risico-AI-systemen voldoen aan de toegankelijkheidseisen](vereisten/aia-19-toegankelijkheidseisen.md)
 * [aia-34 Hoog-risico-AI-systemen zijn voorzien van een monitoringsysteem](vereisten/aia-34-monitoring-na-het-in-de-handel-brengen.md)
 * [aia-35 Ernstige incidenten door hoog-risico-AI-systemen worden gemeld aan de toezichthouder](vereisten/aia-35-melding-ernstige-incidenten.md)
@@ -57,8 +57,8 @@ Als je aanbieder en/of gebruiksverantwoordelijke bent van een hoog-risico dat op
 * [aia-21 Menselijke controle van hoog-risico-AI-systemen wordt uitgevoerd door mensen met voldoende kennis en mogelijkheden](vereisten/aia-21-gebruiksverantwoordelijken-menselijk-toezicht.md)
 * [aia-22 De werking van hoog-risico-AI-systemen wordt gemonitord](vereisten/aia-22-gebruiksverantwoordelijken-monitoren-werking.md)
 * [aia-23 Logs voor hoog-risico-AI-systemen worden bewaard door de gebruiksverantwoordelijke](vereisten/aia-23-gebruiksverantwoordelijken-bewaren-logs.md)
-* [aia-24 Werknemers weten dat hun organisatie een hoog-risico gebruikt](vereisten/aia-24-informeren-werknemers.md)
-* [aia-25 Gebruiksverantwoordelijken controleren de registratie van het hoog-risico in de EU-databank](vereisten/aia-25-gebruiksverantwoordelijken-registratieverplichtingen.md)
+* [aia-24 Werknemers weten dat hun organisatie een hoog-risico-AI-systeem gebruikt](vereisten/aia-24-informeren-werknemers.md)
+* [aia-25 Gebruiksverantwoordelijken controleren de registratie van het hoog-risico-AI-systeem in de EU-databank](vereisten/aia-25-gebruiksverantwoordelijken-registratieverplichtingen.md)
 * [aia-28 Mensen over wie besluiten worden genomen door hoog-risico-AI-systemen, krijgen op verzoek informatie over deze besluiten](vereisten/aia-26-recht-op-uitleg-ai-besluiten.md)
 * [aia-29 Hoog-risico-AI-systemen voor publieke taken worden beoordeeld op gevolgen voor grondrechten](vereisten/aia-27-beoordelen-gevolgen-grondrechten.md)
 
@@ -69,11 +69,11 @@ Een uitzondering geldt voor hoog-risico-AI-systemen die op 2 augustus 2026 al in
 Zie [AI-verordening, artikel 26 en artikel 27](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#art_26).
 
 ## 2 augustus 2027: Hoog-risico-systemen in producten voldoen aan vereisten
-Als je aanbieder bent van een product met daarin een hoog-risico, moet je vóór 2 augustus 2027 voldoen aan de volgende vereisten uit de AI-verordening:
+Als je aanbieder bent van een product met daarin een hoog-risico-AI-systeem, moet je vóór 2 augustus 2027 voldoen aan de volgende vereisten uit de AI-verordening:
 
 ### Aanbieder
 
-* [aia-02 Beoordeling als ‘niet-hoog-risico’ is gedocumenteerd](vereisten/aia-02-documentatie-beoordeling-niet-hoog-risico-ai.md)
+* [aia-02 Beoordeling als ‘niet-hoog-risico-AI-systeem’ is gedocumenteerd](vereisten/aia-02-documentatie-beoordeling-niet-hoog-risico-ai.md)
 * [aia-03 Hoog-risico-AI-systemen zijn voorzien van een risicobeheersysteem](vereisten/aia-03-risicobeheersysteem.md)
 * [aia-04 Hoog-risico-AI-systemen vormen geen risico voor kwetsbare groepen zoals kinderen](vereisten/aia-04-risicobeoordeling-voor-jongeren-en-kwetsbaren.md)
 * [aia-05 Datasets voor hoog-risico-AI-systemen voldoen aan kwaliteitscriteria](vereisten/aia-05-data-kwaliteitscriteria.md)
@@ -89,7 +89,7 @@ Als je aanbieder bent van een product met daarin een hoog-risico, moet je vóór
 * [aia-15 Hoog-risico-AI-systemen zijn voorzien van een EU-conformiteitsverklaring](vereisten/aia-15-eu-conformiteitsverklaring.md)
 * [aia-16 Hoog-risico-AI-systemen zijn voorzien van een CE-markering](vereisten/aia-16-ce-markering.md)
 * [aia-17 Hoog-risico-AI-systemen zijn geregistreerd in de EU-databank](vereisten/aia-17-registratieverplichtingen.md)
-* [aia-18 Als een hoog-risico niet voldoet aan de AI-verordening, grijpt de aanbieder in](vereisten/aia-18-corrigerende-maatregelen-voor-non-conforme-ai.md)
+* [aia-18 Als een hoog-risico-AI-systeem niet voldoet aan de AI-verordening, grijpt de aanbieder in](vereisten/aia-18-corrigerende-maatregelen-voor-non-conforme-ai.md)
 * [aia-19 Hoog-risico-AI-systemen voldoen aan de toegankelijkheidseisen](vereisten/aia-19-toegankelijkheidseisen.md)
 * [aia-34 Hoog-risico-AI-systemen zijn voorzien van een monitoringsysteem](vereisten/aia-34-monitoring-na-het-in-de-handel-brengen.md)
 * [aia-35 Ernstige incidenten door hoog-risico-AI-systemen worden gemeld aan de toezichthouder](vereisten/aia-35-melding-ernstige-incidenten.md)
@@ -102,18 +102,18 @@ Als je aanbieder bent van een product met daarin een hoog-risico, moet je vóór
 * [aia-21 Menselijke controle van hoog-risico-AI-systemen wordt uitgevoerd door mensen met voldoende kennis en mogelijkheden](vereisten/aia-21-gebruiksverantwoordelijken-menselijk-toezicht.md)
 * [aia-22 De werking van hoog-risico-AI-systemen wordt gemonitord](vereisten/aia-22-gebruiksverantwoordelijken-monitoren-werking.md)
 * [aia-23 Logs voor hoog-risico-AI-systemen worden bewaard door de gebruiksverantwoordelijke](vereisten/aia-23-gebruiksverantwoordelijken-bewaren-logs.md)
-* [aia-24 Werknemers weten dat hun organisatie een hoog-risico gebruikt](vereisten/aia-24-informeren-werknemers.md)
-* [aia-25 Gebruiksverantwoordelijken controleren de registratie van het hoog-risico in de EU-databank](vereisten/aia-25-gebruiksverantwoordelijken-registratieverplichtingen.md)
+* [aia-24 Werknemers weten dat hun organisatie een hoog-risico-AI-systeem gebruikt](vereisten/aia-24-informeren-werknemers.md)
+* [aia-25 Gebruiksverantwoordelijken controleren de registratie van het hoog-risico-AI-systeem in de EU-databank](vereisten/aia-25-gebruiksverantwoordelijken-registratieverplichtingen.md)
 * [aia-28 Mensen over wie besluiten worden genomen door hoog-risico-AI-systemen, krijgen op verzoek informatie over deze besluiten](vereisten/aia-26-recht-op-uitleg-ai-besluiten.md)
 
 Wat betekent dit voor jouw organisatie? Gebruik de [beslishulp AI-verordening](https://ai-verordening-beslishulp.apps.digilab.network/).
 
 ## 2 augustus 2030: Bestaande hoog-risico-AI-systemen voldoen aan vereisten
-Als je aanbieder of gebruiksverantwoordelijke bent van een hoog-risico dat vóór 2 augustus 2026 in gebruik is genomen, moet je vóór 2 augustus 2030 voldoen aan de volgende vereisten uit de AI-verordening:
+Als je aanbieder of gebruiksverantwoordelijke bent van een hoog-risico-AI-systeem dat vóór 2 augustus 2026 in gebruik is genomen, moet je vóór 2 augustus 2030 voldoen aan de volgende vereisten uit de AI-verordening:
 
 ### Aanbieder
 
-* [aia-02 Beoordeling als ‘niet-hoog-risico’ is gedocumenteerd](vereisten/aia-02-documentatie-beoordeling-niet-hoog-risico-ai.md)
+* [aia-02 Beoordeling als ‘niet-hoog-risico-AI-systeem’ is gedocumenteerd](vereisten/aia-02-documentatie-beoordeling-niet-hoog-risico-ai.md)
 * [aia-03 Hoog-risico-AI-systemen zijn voorzien van een risicobeheersysteem](vereisten/aia-03-risicobeheersysteem.md)
 * [aia-04 Hoog-risico-AI-systemen vormen geen risico voor kwetsbare groepen zoals kinderen](vereisten/aia-04-risicobeoordeling-voor-jongeren-en-kwetsbaren.md)
 * [aia-05 Datasets voor hoog-risico-AI-systemen voldoen aan kwaliteitscriteria](vereisten/aia-05-data-kwaliteitscriteria.md)
@@ -129,7 +129,7 @@ Als je aanbieder of gebruiksverantwoordelijke bent van een hoog-risico dat vóó
 * [aia-15 Hoog-risico-AI-systemen zijn voorzien van een EU-conformiteitsverklaring](vereisten/aia-15-eu-conformiteitsverklaring.md)
 * [aia-16 Hoog-risico-AI-systemen zijn voorzien van een CE-markering](vereisten/aia-16-ce-markering.md)
 * [aia-17 Hoog-risico-AI-systemen zijn geregistreerd in de EU-databank](vereisten/aia-17-registratieverplichtingen.md)
-* [aia-18 Als een hoog-risico niet voldoet aan de AI-verordening, grijpt de aanbieder in](vereisten/aia-18-corrigerende-maatregelen-voor-non-conforme-ai.md)
+* [aia-18 Als een hoog-risico-AI-systeem niet voldoet aan de AI-verordening, grijpt de aanbieder in](vereisten/aia-18-corrigerende-maatregelen-voor-non-conforme-ai.md)
 * [aia-19 Hoog-risico-AI-systemen voldoen aan de toegankelijkheidseisen](vereisten/aia-19-toegankelijkheidseisen.md)
 * [aia-34 Hoog-risico-AI-systemen zijn voorzien van een monitoringsysteem](vereisten/aia-34-monitoring-na-het-in-de-handel-brengen.md)
 * [aia-35 Ernstige incidenten door hoog-risico-AI-systemen worden gemeld aan de toezichthouder](vereisten/aia-35-melding-ernstige-incidenten.md)
@@ -142,8 +142,8 @@ Als je aanbieder of gebruiksverantwoordelijke bent van een hoog-risico dat vóó
 * [aia-21 Menselijke controle van hoog-risico-AI-systemen wordt uitgevoerd door mensen met voldoende kennis en mogelijkheden](vereisten/aia-21-gebruiksverantwoordelijken-menselijk-toezicht.md)
 * [aia-22 De werking van hoog-risico-AI-systemen wordt gemonitord](vereisten/aia-22-gebruiksverantwoordelijken-monitoren-werking.md)
 * [aia-23 Logs voor hoog-risico-AI-systemen worden bewaard door de gebruiksverantwoordelijke](vereisten/aia-23-gebruiksverantwoordelijken-bewaren-logs.md)
-* [aia-24 Werknemers weten dat hun organisatie een hoog-risico gebruikt](vereisten/aia-24-informeren-werknemers.md)
-* [aia-25 Gebruiksverantwoordelijken controleren de registratie van het hoog-risico in de EU-databank](vereisten/aia-25-gebruiksverantwoordelijken-registratieverplichtingen.md)
+* [aia-24 Werknemers weten dat hun organisatie een hoog-risico-AI-systeem gebruikt](vereisten/aia-24-informeren-werknemers.md)
+* [aia-25 Gebruiksverantwoordelijken controleren de registratie van het hoog-risico-AI-systeem in de EU-databank](vereisten/aia-25-gebruiksverantwoordelijken-registratieverplichtingen.md)
 * [aia-28 Mensen over wie besluiten worden genomen door hoog-risico-AI-systemen, krijgen op verzoek informatie over deze besluiten](vereisten/aia-26-recht-op-uitleg-ai-besluiten.md)
 * [aia-29 Hoog-risico-AI-systemen voor publieke taken worden beoordeeld op gevolgen voor grondrechten](vereisten/aia-27-beoordelen-gevolgen-grondrechten.md)
 

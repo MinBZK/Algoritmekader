@@ -13,6 +13,13 @@ onderwerp:
 - bias-en-non-discriminatie
 rollen:
 - ontwikkelaar
+sources:
+  ADR:
+  - DM.5
+  - DM.6
+  ARK: 
+  - 2.15
+  - 2.21
 hide:
 - navigation
 - toc
@@ -30,7 +37,7 @@ Verdeel je dataset in drie delen:
 
     Deze dataset wordt gebruikt om het model te trainen. Uit deze dataset worden de onderliggende patronen of relaties geleerd die later gebruikt kunnen worden om voorspellingen mee te doen.
 
-    De [kwaliteit](3-dat-01-datakwaliteit.md) van deze dataset moet goed zijn en zo representatief mogelijk voor de doelpopulatie. Eventuele [bias](../../onderwerpen/bias-en-non-discriminatie.md#herken-bias) of vooroordelen in deze dataset kan door het trainen in het model sluipen.
+    De [kwaliteit](3-dat-01-datakwaliteit.md) van deze dataset moet goed zijn en zo representatief mogelijk voor de doelpopulatie.  Eventuele [bias](../../onderwerpen/bias-en-non-discriminatie.md#herken-bias) of vooroordelen in deze dataset kan door het trainen in het model sluipen.
 
    Let bij het samenstellen van de traningsset op dat de data waarop het model gebaseerd is, niet beschikbaar zijn voordat de uitkomsten zijn geobserveerd. Met andere woorden, zorg ervoor de de voorspellingen geen onderdeel kunnen zijn van de inputvariabelen. 
 
@@ -77,8 +84,6 @@ Door onjuiste training van het model presteert het model in de praktijk minder g
 
 ## Voorbeeld
 !!! example "Gemeente Amsterdam: "
-
-    _Dit voorbeeld kan ter inspiratie dienen voor hoe de maatregel toegepast kan worden._
 
     Gemeente Amsterdam heeft een systeem voor het herkennen van lantaarnpalen. Hiervoor is een subset van de data gebruikt uit Amsterdam-Oost om te trainen. Het testen is onder andere gebeurd in Weesp wat in het Zuid-Oost gebied ligt. Het uiteindelijke doel is het gehele gebied Amsterdam.
     Het grootste punt van verbetering zou zijn om de trainings-data en validatie-data expliciet te benoemen. Daarnaast zou de trainings-data het beste uit verschillende delen van het gebied Amsterdam gehaald kunnen worden om zo overfitting op Amsterdam-Oost te voorkomen.

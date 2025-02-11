@@ -11,6 +11,8 @@ onderwerp:
 - data
 rollen:
 - jurist
+sources:
+  ADR: SV.11
 hide:
 - navigation
 - toc
@@ -31,8 +33,7 @@ Hier kan worden gedacht aan data die is gescraped van het internet en zou kunnen
     <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
-
-Algoritmekader
+- [Onderzoekskader Auditdienst Rijk, SV.11](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 
 ## Voorbeeld
 

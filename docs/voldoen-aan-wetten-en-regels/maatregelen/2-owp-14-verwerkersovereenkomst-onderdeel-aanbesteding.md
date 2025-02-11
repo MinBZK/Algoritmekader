@@ -1,6 +1,6 @@
 ---
 title: Maak het opstellen van een verwerkersovereenkomst onderdeel van de aanbesteding als persoonsgegevens worden verwerkt.
-id: urn:nl:ak:mtr:owp-17
+id: urn:nl:ak:mtr:owp-14
 toelichting: Als een overheidsorganisatie een algoritme van een aanbieder wilt gebruiken die persoonsgegevens verwerkt voor bijvoorbeeld het trainen of genereren van output, dan moet een verwerkersovereenkomst met de aanbieder worden opgesteld. 
 vereiste:
 - avg-13-dpia-verplicht
@@ -10,12 +10,9 @@ levenscyclus:
 onderwerp:
 - publieke-inkoop
 - privacy-en-gegevensbescherming
-
-# geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn
 rollen:
 - projectleider
 - beleid-en-advies
-  
 hide:
 - navigation
 - toc

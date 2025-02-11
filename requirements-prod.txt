@@ -1,0 +1,2 @@
+-r requirements.txt
+mkdocs-material @ git+ssh://git@github.com/MinBZK/mkdocs-material-insiders.git

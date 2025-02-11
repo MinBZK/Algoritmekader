@@ -1,5 +1,5 @@
 ---
-title: Hoog-risico-AI-systemen zijn voorzien van een EU-conformiteitsverklaring.
+title: Hoog-risico-AI-systemen zijn voorzien van een EU-conformiteitsverklaring
 id: urn:nl:ak:ver:aia-15
 toelichting: Aanbieders van AI-systemen met een hoog risico stellen een EU-conformiteitsverklaring op.
 levenscyclus:
@@ -10,7 +10,7 @@ onderwerp:
 soort-toepassing:
 - ai-systeem
 - ai-systeem-voor-algemene-doeleinden
-publicatiecategorie:
+risicogroep:
 - hoog-risico-ai-systeem
 rol-ai-act:
 - aanbieder
@@ -32,9 +32,11 @@ Een EU-conformiteitsverklaring is een verplicht document dat een fabrikant of ge
 
 De aanbieder stelt voor elk AI-systeem met een hoog risico een schriftelijke machineleesbare, fysieke of elektronisch ondertekende EU-conformiteitsverklaring op en houdt deze verklaring tot tien jaar na het in de handel brengen of het in gebruik stellen van het AI-systeem met een hoog risico ter beschikking van de nationale bevoegde autoriteiten.
 
-De conformiteitsverklaring bevat de informatie zoals genoemd in bijlage V AI-verordening.
+De conformiteitsverklaring bevat de informatie zoals genoemd in [bijlage V](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#anx_V) van de AI-verordening.
 
 Voorbeelden hiervan zijn de naam en type van het AI-systeem, naam en adres van de aanbieder, dat de EU-conformiteitsverklaring wordt versterkt onder verantwoordelijkheid van de aanbieder en de vermelding van eventuele toegepaste [relevante geharmoniseerde normen](../hulpmiddelen/standaarden.md) of van andere gemeenschappelijke specificaties waarop de conformiteitsverklaring betrekking heeft.
+
+Zorg dat je naast het opstellen van een verklaring een [conformiteitsbeoordeling](aia-14-conformiteitsbeoordeling.md) uitvoert op je AI-systeem volgens de procedures zoals die zijn voorgeschreven door de AI-verordening. 
 
 ## Bronnen
 
@@ -42,9 +44,8 @@ Voorbeelden hiervan zijn de naam en type van het AI-systeem, naam en adres van d
 - [Artikel 47(1) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5296-1-1)
 - [Bijlage V Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e38-132-1)
 
-## Wanneer van toepassing? 
+## Van toepassing op 
 <!-- tags-ai-act -->
-
 
 ## Risico
 

@@ -11,6 +11,9 @@ onderwerp:
 rollen:  
 - ontwikkelaar
 - projectleider
+sources:
+  ADR: PRI.5
+  ARK: 2.20
 hide:  
 - navigation  
 - toc  
@@ -41,8 +44,6 @@ Zonder dataminimalisatie loopt je organisatie het risico op onnodig hoge energie
 ## Voorbeeld
 !!! example "Basisregistratie Personen: Dataminimalisatie"
 
-    _Dit voorbeeld heeft een aantal aanpassingen nodig voordat deze in uw organisatie te gebruiken is._
-
     De Basisregistratie Personen (BRP) heeft in 2023 een experiment uitgevoerd rondom dataminimalisatie. BRP-gegevens zoals naam en geslacht werden vertaald naar direct bruikbare informatie zoals aanschrijfnaam. Op deze manier werd informatie op een efficiëntere manier doorgegeven.
     Het experiment van BRP is een indirecte vorm van energie-efficiëntie omdat er minder (onnodige) data verstrekt wordt aan de aanvrager. Hierdoor hoeft de aanvrager minder data op te slaan en te verwerken.
         
@@ -50,5 +51,6 @@ Zonder dataminimalisatie loopt je organisatie het risico op onnodig hoge energie
 
 ## Bronnen
 - [Onderzoekskader Auditdienst Rijk, PRI.5](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 2.20](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Rijks ICT-dashboard](https://www.rijksictdashboard.nl/duurzaamheid)
 - [Sustainable artificial intelligence – TU Delft](https://www.tudelft.nl/en/stories/articles/sustainable-artificial-intelligence-from-chatgpt-to-green-ai)

@@ -58,4 +58,12 @@ Zorg voor politiek-bestuurlijk bewustzijn, betrokkenheid, en verantwoordelijkhei
 
     Deze stappen volgen kan helpen bij het inrichten van een algoritmegovernance.
 
+!!! example "Visie op algoritmische systemen Dienst Toeslagen"
+
+    De Dienst Toeslagen heeft een [Visie op algoritmische systemen](https://www.rijksoverheid.nl/documenten/rapporten/2024/12/20/visie-op-algoritmische-systemen) opgesteld.  Deze visie beschrijft hoe Dienst Toeslagen algoritmische systemen wil inzetten, hoe dat te bereiken en welke kansen en welke randvoorwaarden nodig zijn voor een verantwoorde inzet. De visie bevat een vertaling van de missie, visie en kernwaarden van Dienst Toeslagen naar de context van algoritmische systemen. 
+
+!!! example "Amsterdamse Visie op AI"
+
+    De gemeente Amsterdam heeft [samen met bewoners](1-pba-04-betrek-belanghebbenden.md), de [Amsterdamse Visie op AI](https://www.amsterdam.nl/innovatie/amsterdamse-visie-ai/) gemaakt: een visie die ons helpt AI op een verantwoorde, betrouwbare en mensgerichte manier te gebruiken.
+
 Heb je een voorbeeld of best practice, laat het ons weten via algoritmes@minbzk.nl

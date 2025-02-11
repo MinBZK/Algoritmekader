@@ -1,6 +1,6 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Bepaal het soort algoritme en de risicogroep en vereisten die hierbij horen
+title: Stel vast in welke risicogroep het algoritme valt en bepaal vervolgens welke vereisten van toepassing zijn.
 id: urn:nl:ak:mtr:owp-05
 # geef hier een korte toelichting van deze maatregel
 toelichting: Het verschilt per type algoritme welke vereisten hierop van toepassing zijn en waar een aanbieder of gebruiksverantwoordelijke aan moet voldoen. Dit is mede afhankelijk van de bijbehorende risicoclassificatie.  
@@ -30,17 +30,17 @@ hide:
 
 ## Maatregel
 <!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
-Stel vast om wat voor type algoritme het gaat en wat de bijbehorende risicoclassificatie is om te bepalen welke vereisten hierop van toepassing zijn.
+Stel vast in welke risicogroep het algoritme valt en bepaal vervolgens welke vereisten van toepassing zijn.
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
 Het verschilt per type algoritme welke vereisten hierop van toepassing is en waar een aanbieder of gebruiksverantwoordelijke aan moet voldoen. 
 
-Dit is mede afhankelijk van de bijbehorende risicoclassificatie. 
+Dit is mede afhankelijk van de bijbehorende [risicogroepen](../ai-verordening.md#risicogroepen), de [gebruikte techiek](2-owp-04-gebruikte-techniek.md) en of je het algoritme [ontwikkelt of slechts gebruikt](../ai-verordening.md#rollen-uit-de-ai-verordening).  
 
-Hiervoor kan de [beslishulp](https://ai-verordening-beslishulp.apps.digilab.network/) in het Algoritmekader voor worden gebruikt'. 
+Gebruik de [beslishulp](https://ai-verordening-beslishulp.apps.digilab.network/) om de risicobepaling van jouw toepassing te bepalen.
 
-Let op dat niet enkel naar de AI-verordening wordt gekeken. Ook op impactvolle algoritmes die niet vallen onder het bereik van de AI-Verordening zijn vereisten van toepassing. Zie hiervoor de Handreiking Algoritmeregister. 
+Let op dat niet enkel naar de AI-verordening wordt gekeken. Ook op impactvolle algoritmes die niet vallen onder het bereik van de AI-Verordening zijn vereisten van toepassing. Zie hiervoor de [Handreiking Algoritmeregister](https://www.digitaleoverheid.nl/wp-content/uploads/sites/8/2023/12/Handreiking-Algoritmeregister-versie-1.0.pdf). 
 
 Deze stap is van groot belang, omdat dit bijvoorbeeld voor ontwikkelteams mede bepalend is waar het te ontwikkelen systeem aan moet voldoen of welke contractuele verplichtingen moeten worden gecreëerd tussen opdrachtgever en aanbieder van algoritmes.
 

@@ -15,6 +15,9 @@ onderwerp:
 rollen:
 - jurist
 - projectleider
+sources:
+  ADR: PRI.11
+  ARK: 3.17
 hide:
 - navigation
 - toc
@@ -49,8 +52,6 @@ verwerkingsdoeleinden noodzakelijk is.
 ## Voorbeeld
 
 !!! example "UWV: Klantapplicatie WW"
-
-     _Dit voorbeeld heeft een aantal aanpassingen nodig voordat deze in uw organisatie te gebruiken is._
 
     Het UWV heeft in haar privacy statement aangegeven dat zij zich houdt aan de richtlijnen van de Archiefwet voor het bewaren van persoonsgegevens. Hierin staat beschreven welke data bewaard/verwijderd     moet worden en op welke termijn. Er staat hier ook een kopje over “Uitvoering Vernietiging” waarin uitgelegd staat dat een afdeling binnen het UWV de vernietiging uitvoert.
         

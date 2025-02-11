@@ -72,6 +72,8 @@ onderwerp:
 rollen:
 - projectleider
 - beleid-en-advies
+bronnen:
+  ADR: SV.11
 hide:
 - navigation
 - toc

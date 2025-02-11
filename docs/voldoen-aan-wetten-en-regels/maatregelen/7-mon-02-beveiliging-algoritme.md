@@ -16,6 +16,16 @@ rollen:
 - projectleider
 - beleid-en-advies
 - ontwikkelaar
+sources:
+  ADR:
+  - IB.18
+  - IB.19
+  - IB.20
+  - IB.21
+  - IB.22
+  - IB.23
+  - IB.24
+  - IB.25
 hide:
 - navigation
 - toc
@@ -49,13 +59,21 @@ Oneigenlijke toegang van buitenaf kan plaatsvinden via zwakheden in het systeem.
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
+
+## Voorbeeld
+
+!!! example "Voorbeeld: Nationaal Cyber Security Centrum - Richtlijnen veilig software ontwikkelen"
+	
+     In een publicatie van het Nationaal Cyber Security Centrum van het Ministerie van Justitie en Veiligheid over het ontwikkelen van veilige software staat beschreven hoe op beleidsmatig en beheersingsniveau beveiligingsrichtlijnen toegepast kunnen worden. Daarnaast wordt het uitvoeringsdomein (voor implementatie) ook benoemd, maar wordt deze opgesplitst in webapplicaties en mobiele apps.
+
+     
+    Bron: [Beleids- en beheersingsrichtlijnen voor de ontwikkeling van veilige software]( https://www.ncsc.nl/documenten/publicaties/2019/mei/01/beleids--en-beheersingsrichtlijnen-voor-de-ontwikkeling-van-veilige-software)
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
+
+
 ## Bronnen
 
 - [Baseline Informatiebeveiliging Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/)
 - [Onderzoekskader Algoritmes Auditdienst Rijk, IB.18 t/m IB.25](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [NCSC Handreiking voor implementatie van detectieoplossingen](https://www.ncsc.nl/documenten/publicaties/2019/mei/01/handreiking-voor-implementatie-van-detectie-oplossingen)
 - [Handleiding Quickscan Information Security](https://www.cip-overheid.nl/media/xhxglzi0/20180220-quickscan-bir2017.pdf)
-
-## Voorbeeld
-
-Heb jij een goed voorbeeld? Laat het ons weten!

@@ -1,0 +1,26 @@
+name: Run python script
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  run-python-script:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+          cache: 'pip'
+
+      - name: install dependencies
+        run: pip install -r requirements.txt
+
+      
+      - name: Run Python script
+        run: python script/analysis-maatregelen.py

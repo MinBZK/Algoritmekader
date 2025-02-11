@@ -12,6 +12,9 @@ onderwerp:
 rollen:
 - projectleider
 - jurist
+sources:
+  ADR: PRI.8
+  ARK: 3.04
 hide:
 - navigation
 - toc
@@ -45,4 +48,13 @@ Betrokkenen en de interne organisatie zijn niet op de hoogte welke persoonsgegev
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 3.04](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 
 ## Voorbeeld
-- [Blurring as a Service, Verwerkingsregister gemeente Amsterdam](https://assets.amsterdam.nl/publish/pages/1045112/verwerkingsregister_avg_april_2024.pdf)
+
+!!! example "Gemeente Amsterdam: Blurring as a Service"
+ 
+	De Gemeente Amsterdam maakt gebruik van een algoritme waarmee mensen op straat beter geanonimiseerd kunnen worden; Blurring as a Service. Hierbij worden persoonsgegevens zoals gezicht en andere lichaamskenmerken (biometrische persoonsgegevens) vervaagd of ‘geblurd’.
+
+    Het verwerken van deze gegevens is opgenomen in het volledige verwerkingsregister en is te vinden op pagina 239 onder het kopje “3.1.4. Blurring as a Service”.
+
+	Bron: [Het verwerkingsregister AVG - Gemeente Amsterdam](https://www.amsterdam.nl/privacy/verwerkingsregister/verwerkingsregister-avg/)
+
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

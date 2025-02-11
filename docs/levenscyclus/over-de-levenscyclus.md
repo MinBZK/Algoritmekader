@@ -14,15 +14,15 @@ Om algoritmes op een verantwoorde manier te gebruiken, zul je op de juiste momen
 ## Fases van de levenscyclus
 
 <ol start="0">
-  <li> <a href="organisatieverantwoordelijkheden/">Organisatieverantwoordelijkheden</a></li>
-  <li> <a href="probleemanalyse/">Probleemanalyse</a></li>
-  <li> <a href="ontwerp/">Ontwerp</a></li>
-  <li> <a href="dataverkenning-en-datapreparatie/">Dataverkenning en datapreparatie</a></li>
-  <li> <a href="ontwikkelen/">Ontwikkelen</a></li>
-  <li> <a href="verificatie-en-validatie/">Verificatie en validatie</a></li>
-  <li> <a href="implementatie/">Implementeren</a></li>
-  <li> <a href="monitoring-en-beheer/">Monitoring en beheer</a></li>
-  <li> <a href="uitfaseren/">Uitfaseren</a></li>
+  <li> <a href="../organisatieverantwoordelijkheden/">Organisatieverantwoordelijkheden</a></li>
+  <li> <a href="../probleemanalyse/">Probleemanalyse</a></li>
+  <li> <a href="../ontwerp/">Ontwerp</a></li>
+  <li> <a href="../dataverkenning-en-datapreparatie/">Dataverkenning en datapreparatie</a></li>
+  <li> <a href="../ontwikkelen/">Ontwikkelen</a></li>
+  <li> <a href="../verificatie-en-validatie/">Verificatie en validatie</a></li>
+  <li> <a href="../implementatie/">Implementeren</a></li>
+  <li> <a href="../monitoring-en-beheer/">Monitoring en beheer</a></li>
+  <li> <a href="../uitfaseren/">Uitfaseren</a></li>
 </ol>
 
 ## Systeemniveau en organisatieniveau
@@ -50,15 +50,15 @@ De levenscyclus kent 2 verschillende niveau's:
           7(7. Monitoring en beheer) -.-> 8(8. Uitfaseren);
         end
       end
-      click 0 href "organisatieverantwoordelijkheden"
-      click 1 href "probleemanalyse"
-      click 2 href "ontwerp"
-      click 3 href "dataverkenning-en-datapreparatie"
-      click 4 href "ontwikkelen"
-      click 5 href "verificatie-en-validatie"
-      click 6 href "implementatie"
-      click 7 href "monitoring-en-beheer"
-      click 8 href "uitfaseren"
+      click 0 href "../organisatieverantwoordelijkheden"
+      click 1 href "../probleemanalyse"
+      click 2 href "../ontwerp"
+      click 3 href "../dataverkenning-en-datapreparatie"
+      click 4 href "../ontwikkelen"
+      click 5 href "../verificatie-en-validatie"
+      click 6 href "../implementatie"
+      click 7 href "../monitoring-en-beheer"
+      click 8 href "../uitfaseren"
       style 0 color:#fff, fill:#1975d2, stroke:#1975d2, text-decoration:underline;
       style 1 color:#fff, fill:#1975d2, stroke:#1975d2, text-decoration:underline;
       style 2 color:#fff, fill:#1975d2, stroke:#1975d2, text-decoration:underline;

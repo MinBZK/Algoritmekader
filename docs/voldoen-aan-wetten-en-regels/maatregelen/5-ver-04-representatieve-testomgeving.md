@@ -13,6 +13,8 @@ onderwerp:
 rollen:
 - ontwikkelaar
 - projectleider
+sources:
+  ADR: DM.7
 hide:
 - navigation
 - toc
@@ -44,13 +46,15 @@ Voorbeelden om bij te dragen aan een representatieve testomgeving:
 
 ## Bijbehorende vereiste(n)
 
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Als het algoritme niet getest wordt, of getest wordt in niet-representatieve omstandigheden, kan er een onterecht vertrouwen in het algoritme ontstaan. 
 De evaluatie geeft dan goede resultaten, maar het model zal minder presteren in de operationele context waar meer variatie aanwezig is. 
 
-## Bron
+## Bronnen
 - [Bo Li, et al., Trustworthy AI: From Principles to Practices](https://arxiv.org/abs/2110.01167)
+- [Onderzoekskader Auditdienst Rijk, DM.7](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 
 ## Voorbeeld

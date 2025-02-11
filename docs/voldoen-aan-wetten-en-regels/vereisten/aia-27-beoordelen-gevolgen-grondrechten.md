@@ -13,7 +13,7 @@ rollen:
 soort-toepassing:
 - ai-systeem
 - ai-systeem-voor-algemene-doeleinden
-publicatiecategorie:
+risicogroep:
 - hoog-risico-ai-systeem
 rol-ai-act:
 - gebruiksverantwoordelijke
@@ -42,7 +42,7 @@ Het doel is om de bescherming van grondrechten te waarborgen bij het gebruik van
 - [Bijlage III.2 en III.5 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e38-127-1)
 - [Impact Assessment Mensenrechten en Algoritmes](https://www.government.nl/documents/reports/2022/03/31/impact-assessment-fundamental-rights-and-algorithms)
 
-## Wanneer van toepassing? 
+## Van toepassing op 
 <!-- tags-ai-act -->
 
 

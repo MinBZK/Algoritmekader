@@ -32,14 +32,16 @@ theme:
 nav:
     - Basiskennis algoritmes en AI:
          - overhetalgoritmekader/index.md 
-         - overhetalgoritmekader/over-het-algoritmekader.md
          - overhetalgoritmekader/soorten-algoritmes.md
+         - overhetalgoritmekader/risico-van-ai-systemen.md
+         - overhetalgoritmekader/impact-van-algoritmes.md
          - overhetalgoritmekader/definities.md
     - Onderwerpen:
         # - Overzicht: onderwerpen/index.md
         - ... | onderwerpen/*.md
     - Levenscyclus:
         - levenscyclus/index.md 
+        - levenscyclus/over-de-levenscyclus.md
         - levenscyclus/organisatieverantwoordelijkheden.md
         - levenscyclus/probleemanalyse.md
         - levenscyclus/ontwerp.md
@@ -55,7 +57,9 @@ nav:
         - Overzicht: voldoen-aan-wetten-en-regels/index.md
         - Vereisten: voldoen-aan-wetten-en-regels/vereisten/index.md
         - Maatregelen: voldoen-aan-wetten-en-regels/maatregelen/index.md
-        - hulpmiddelen: voldoen-aan-wetten-en-regels/hulpmiddelen/index.md
+        - Hulpmiddelen: voldoen-aan-wetten-en-regels/hulpmiddelen/index.md
+        - AI-verordening in het kort: voldoen-aan-wetten-en-regels/ai-verordening.md
+        - Tijdlijn AI-verordening: voldoen-aan-wetten-en-regels/tijdlijn-ai-verordening.md
 
 # Extra opties
 markdown_extensions: 
@@ -96,16 +100,16 @@ extra_css:
   - stylesheets/filters.css
   - stylesheets/extra.css
   - stylesheets/footer.css
-  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
-  - https://cdn.jsdelivr.net/npm/choices.js/public/assets/styles/choices.min.css  
+  - stylesheets/all.min.css
+  - stylesheets/choices.min.css  
 
 extra_javascript:
-  - https://code.jquery.com/jquery-3.6.0.min.js
-  - https://cdn.jsdelivr.net/npm/choices.js/public/assets/scripts/choices.min.js 
-  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/jquery-3.6.0.min.js
+  - javascripts/choices.min.js 
+  - javascripts/tablesort.min.js
   - javascripts/tablesort.js
   - javascripts/filtering.js
-  - https://unpkg.com/mermaid@10.9.1/dist/mermaid.min.js
+  - javascripts/mermaid.min.js
 
 plugins:
     - glightbox

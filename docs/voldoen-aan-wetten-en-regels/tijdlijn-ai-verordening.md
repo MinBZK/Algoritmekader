@@ -1,6 +1,7 @@
 ---
 title: Tijdlijn AI-verordening
 summary: De AI-verordening gaat in fasen in. Bekijk wanneer je moet voldoen aan welke vereisten.
+hide: navigation
 ---
 
 # Tijdlijn AI-verordening

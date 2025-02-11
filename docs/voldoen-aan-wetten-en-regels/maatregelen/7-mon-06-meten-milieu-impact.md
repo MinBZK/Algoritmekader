@@ -11,6 +11,8 @@ rollen:
 - ontwikkelaar
 - beleid-en-advies
 - projectleider
+sources:
+  ADR: DM.24
 hide:
 - navigation
 - toc
@@ -50,5 +52,5 @@ Zonder structurele monitoring van de milieu-impact kan de organisatie onbewust b
 
 ## Bronnen
 - [Coalitie Duurzame Digitalisering - Digital Product Passport](https://coalitieduurzamedigitalisering.nl/nieuws/digital-product-passport-samen-aan-de-slag/)
-- [Onderzoekskader Algoritmes Auditdienst Rijk - DM.24](https://open.overheid.nl/documenten/61b54381-d331-40ed-8fce-b2883b195f25/file)
+- [Onderzoekskader Algoritmes Auditdienst Rijk, DM.24](https://open.overheid.nl/documenten/61b54381-d331-40ed-8fce-b2883b195f25/file)
 - [Ethische richtsnoeren voor betrouwbare KI, Hoofdstuk II 1.6: Maatschappelijk en milieuwelzijn](https://digital-strategy.ec.europa.eu/nl/library/ethics-guidelines-trustworthy-ai)

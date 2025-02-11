@@ -15,6 +15,15 @@ onderwerp:
 rollen:
 - projectleider
 - beleid-en-advies
+sources:
+  ADR: 
+  - SV.14
+  - PRI.8
+  ARK: 
+  - 2.11
+  - 3.12
+  - 3.14
+  - 3.16
 hide:
 - navigation
 - toc
@@ -35,6 +44,7 @@ Publiceer het algoritme  in het [Nederlandse Algoritmeregister](../hulpmiddelen/
 - De [Algoritmeregister Publicatiestandaard](https://regels.overheid.nl/publicaties/algoritmeregister-publicatiestandaard#:~:text=De%20publicatiestandaard%20is%20gericht%20op,op%20andere%20manier%20te%20organiseren) kan overheidsorganisaties ondersteunen bij het helpen invullen van het Algoritmeregister.
 - Sommige overheidsorganisaties publiceren hun algoritmes ook in een eigen Algoritmeregister, zodat burgers dit makkelijker kunnen vinden. Bijvoorbeeld het [Algoritmeregister van de Gemeente Rotterdam](https://algoritmeregister.rotterdam.nl/p/Onzealgoritmes), het [Algoritmeregister van de Gemeente Amsterdam](https://algoritmeregister.amsterdam.nl/) of het [Algoritmeregister van het UWV](https://www.uwv.nl/nl/over-uwv/organisatie/algoritmeregister-uwv). 
 - Zorg na publicatie dat de informatie in het Algoritmeregister up-to-date blijft en indien nodig regelmatig wordt aangepast. 
+- Eventueel kan je je meer informatie over het algoritme openbaar beschikbaar stellen. Bijvoorbeeld door het publiceren van de modelcode op een site zoals Github of Gitlab. 
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
@@ -46,11 +56,15 @@ Betrokkenen zijn niet op de hoogte dat hun persoonsgegevens worden verwerkt met 
 ## Bronnen
 - [Handreiking Algoritmeregister](https://www.digitaleoverheid.nl/wp-content/uploads/sites/8/2023/12/Handreiking-Algoritmeregister-versie-1.0.pdf)
 - [Algoritmeregister Publicatiestandaard](https://regels.overheid.nl/publicaties/algoritmeregister-publicatiestandaard#:~:text=De%20publicatiestandaard%20is%20gericht%20op,op%20andere%20manier%20te%20organiseren.)
-- [Toetsingskader Algoritmes Algemene Rekenkamer, 3.12, 3.14, 3.16](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) 
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 2.11, 3.12, 3.14, 3.16](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) 
 - [Onderzoekskader Algoritmes Auditdienst Rijk, SV.14, PRI.8](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) 
 
 
 ## Voorbeeld
-- [Gemeente Groningen, Algoritmeregister: Eerste Hulp bij Geldzaken](https://algoritmes.overheid.nl/nl/algoritme/eerste-hulp-bij-geldzaken-gemeente-groningen/55597555)
-- [Gemeente Amsterdam, Algoritemregister: Blurring as a Service](https://algoritmeregister.amsterdam.nl/ai-system/blurring-as-a-service/1132/)
-- [Juryrapport Best Beschreven Algoritme](https://algoritmes.pleio.nl/attachment/entity/ea60f239-dcaf-4eb0-9661-c2e7ffb633ea)
+!!! example "Jury Rapport: Best Beschreven Algoritme"
+ 
+    In december 2023 is het juryrapport van Best Beschreven Algoritme binnen het Algoritmeregister bekendgemaakt.  Van de 13 genomineerde algoritmes is een top 4 opgesteld waar [uiteindelijk een winnaar uitgekomen is](https://www.digitaleoverheid.nl/nieuws/groningen-wint-best-beschreven-algoritme-award/); Gemeente Groningen: Eerste Hulp bij Geldzaken. 
+    
+    Het algoritme heeft een heldere omschrijving rondom de technische en ethische aspecten. Daarnaast geeft het een volledig beeld voor burgers over de inzet en het gebruik van het algoritme. Dit wordt gedaan aan de hand van verwijzingen naar externe pagina’s voor meer uitleg.
+           
+    Bron: [Jury Rapport Best Beschreven Algoritme](https://aienalgoritmes.pleio.nl/attachment/entity/ea60f239-dcaf-4eb0-9661-c2e7ffb633ea)

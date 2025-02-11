@@ -13,6 +13,8 @@ onderwerp:
 - technische-robuustheid-en-veiligheid
 rollen:
 - projectleider
+sources:
+  ARK: 2.14
 hide:
 - navigation
 ---
@@ -68,13 +70,15 @@ Betrek bij het opstellen van dit plan een [diverse groep van belanghebbenden](1-
 
 ## Bijbehorende vereiste(n)
 
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+	<!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
 Er zullen veranderingen plaatsvinden in de gebruikscontext, de data en in het algoritme zelf (bijv. door bijtrainen). Wanneer niet wordt geëvalueerd tijdens het gebruik is het onbekend of het algoritme nog steeds werkt zoals beoogd en voldoet aan de acceptatiecriteria. 
 
 ## Bronnen
-
+- [Toetsingskader Algemene Rekenkamer, 2.14](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
+- []
 
 ## Voorbeeld
 

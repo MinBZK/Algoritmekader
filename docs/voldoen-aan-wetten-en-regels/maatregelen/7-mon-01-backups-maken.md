@@ -12,6 +12,9 @@ onderwerp:
 rollen:
 - ontwikkelaar
 - beleid-en-advies
+sources:
+  ADR: IB.26
+  ARK: 4.08
 hide:
 - navigation
 - toc
@@ -35,12 +38,21 @@ Als er geen regelmatige back-ups worden gemaakt en de restore-procedure niet reg
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
+## Voorbeeld
+
+!!! example "Voorbeeld: Informatie Beveligingsdienst - Handreiking back-up en herstel"
+	
+    De Informatiebeveiligingsdienst van de Vereniging Nederlandse Gemeenten (VNG) heeft een handreiking back-up en herstel ontwikkeld. Hierin staat uitleg over de wetgeving rondom back-ups en het herstellen van back-ups.
+
+    Aan het einde van deze handreiking staat ook een voorbeeld voor beleid voor gemeentes. Hierin staan al een aantal uitgangspunten die de gemeente alleen hoeft te kopiëren en te ondertekenen.
+	
+	Bron: [Producten - Informatiebeveiligingsdienst](https://www.informatiebeveiligingsdienst.nl/product/back-up-en-recovery-gemeente/)
+
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
+
+
 ## Bronnen
 
 - [Baseline Informatiebeveiliging Overheid, 12.3.1.1, 12.3.1.4, 12.3.1.5.](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/)
 - [Onderzoekskader Algoritmes Auditdienst Rijk, IB.26](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 4.08](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) 
-
-## Voorbeeld
-
-Heb jij een goed voorbeeld? Laat het ons weten!

@@ -16,6 +16,9 @@ rollen:
 - projectleider
 - beleid-en-advies
 - jurist
+sources:
+  ADR: IB.30
+  ARK: 4.06
 hide:
 - navigation
 - toc
@@ -38,12 +41,31 @@ Te late reactie op incidenten kan ervoor zorgen dat de BIV (beschikbaarheid, int
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
+
+
+## Voorbeeld
+
+!!! example "Voorbeeld: Ministerie van Economische Zaken - Uitwijk- en herstelplan"
+	
+	Het Ministerie van Economische zaken heeft een template voor een Disaster Recovery Plan (DRP) opgesteld. Aan de hand van dit document kunnen duidelijke handelingen en verantwoordelijkheden opgeschreven worden voor wanneer een algoritme stopgezet moet worden.
+	
+	Dit DRP is vrij algemeen en heeft geen specificaties voor algoritmes in het template staan. Dit zal dus verder uitgewerkt moeten worden, maar dit DRP kan als basis dienen voor het verder uitwerken.
+	
+	Bron: [Uitwijk- en herstelplan](https://www.digitaltrustcenter.nl/informatie-advies/uitwijk-en-herstelplan)
+
+!!! example "Voorbeeld: Netwerk Informatiebeveiliging en Privacy - Incident Management"
+
+	Het Netwerk Informatiebeveiliging en Privacy (IBP) voor primair en voortgezet onderwijs heeft een template voor incidentmanagementbeleid, het incidentmanagementproces en een beveiligingsincident stappenplan & logboek. In het procestemplate staat onder andere een procesflow, een beschrijving van alle processtappen en een communicatieplan.
+
+	Deze documenten zijn specifiek voor primair en voortgezet onderwijs maar zijn gemakkelijk aan te passen.
+ 
+	Bron: [Incidentmanagement](https://aanpakibp.kennisnet.nl/incidentmanagement/#tools-en-voorbeelddocumenten)
+
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
+
+
 ## Bronnen
 
 - [Baseline Informatiebeveiliging Overheid, BIO 12.3.1.1, 12.3.1.4, 12.3.1.5](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/)
 - [Onderzoekskader Algoritmes Auditdienst Rijk, IB.30](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 4.06](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
-
-## Voorbeeld
-
-Heb jij een goed voorbeeld? Laat het ons weten!

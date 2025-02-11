@@ -14,6 +14,8 @@ risicogroep:
 - geen-hoog-risico
 rol-ai-act:
 - aanbieder
+uitzondering: 
+- (ai-systeem || ai-systeem-voor-algemene-doeleinden) && geen-hoog-risico && geen-transparantieverplichting && open-source
 hide:
 - navigation
 rollen:

@@ -14,7 +14,7 @@ soort-toepassing:
 rol-ai-act:
 - aanbieder
 risicogroep:
-- hoog-risico-ai-systeem
+- hoog-risico
 hide:
 - navigation
 ---

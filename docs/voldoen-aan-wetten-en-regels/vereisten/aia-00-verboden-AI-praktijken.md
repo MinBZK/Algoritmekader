@@ -12,10 +12,12 @@ soort-toepassing:
 - ai-systeem-voor-algemene-doeleinden
 - ai-model-voor-algemene-doeleinden
 risicogroep:
-- verboden-ai
+- verboden
 rol-ai-act:
 - aanbieder
 - gebruiksverantwoordelijke
+- importeur
+- distributeur
 hide:
 - navigation
 rollen:
@@ -72,4 +74,4 @@ Er ontstaat een onrechtmatige situatie voor een organisatie als deze AI inzet, d
 
 ## Maatregelen { data-search-exclude } 
 
-<!-- list_maatregelen vereiste/aia-00-verboden-AI-praktijken no-search no-onderwerp no-rol no-levenscyclus -->
+<!-- list_maatregelen vereiste/aia-00-verboden-praktijken no-search no-onderwerp no-rol no-levenscyclus -->

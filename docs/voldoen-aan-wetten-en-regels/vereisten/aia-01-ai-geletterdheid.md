@@ -12,9 +12,9 @@ soort-toepassing:
 - ai-systeem-voor-algemene-doeleinden
 - ai-model-voor-algemene-doeleinden
 risicogroep:
-- hoog-risico-ai-systeem
-- verboden-ai
-- geen-hoog-risico-ai-systeem
+- hoog-risico
+- verboden
+- geen-hoog-risico
 rol-ai-act:
 - aanbieder
 - gebruiksverantwoordelijke

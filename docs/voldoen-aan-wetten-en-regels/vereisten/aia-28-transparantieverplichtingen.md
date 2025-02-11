@@ -11,8 +11,8 @@ soort-toepassing:
 - ai-systeem
 - ai-systeem-voor-algemene-doeleinden
 risicogroep:
-- hoog-risico-ai-systeem
-- geen-hoog-risico-ai-systeem
+- hoog-risico
+- geen-hoog-risico
 rol-ai-act:
 - aanbieder
 transparantieverplichting:

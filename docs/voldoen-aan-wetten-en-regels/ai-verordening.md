@@ -67,8 +67,8 @@ Een AI-systeem dat is gebaseerd op een AI-model voor algemene doeleinden, noemen
 De AI-verordening deelt AI-systemen op in 3 [risicogroepen](../overhetalgoritmekader/risico-van-ai-systemen.md). Hoe groter het risico voor de samenleving, hoe strenger de regels uit de AI-verordening. Het hangt ervan af waarvoor je dit AI-systeem gebruikt:
 
 * [Risico op misleiding](../overhetalgoritmekader/risico-van-ai-systemen.md#risico-op-misleiding)
-* [Hoog-risico-AI-systemen](../overhetalgoritmekader/risico-van-ai-systemen.md#hoog-risico-ai-systeem)
-* [Verboden AI](../overhetalgoritmekader/risico-van-ai-systemen.md#verboden-ai)
+* [Hoog-risico-AI-systemen](../overhetalgoritmekader/risico-van-ai-systemen.md#hoog-risico)
+* [Verboden AI](../overhetalgoritmekader/risico-van-ai-systemen.md#verboden)
 
 ## Rollen uit de AI-verordening
 De AI-verordening geldt zowel voor ontwikkelaars van AI-systemen als voor organisaties en bedrijven die AI-systemen gebruiken. Afhankelijk van jouw rol bij het AI-systeem gelden er verschillende verplichtingen. De meeste verplichtingen gelden voor de ontwikkelaars van AI-systemen. 

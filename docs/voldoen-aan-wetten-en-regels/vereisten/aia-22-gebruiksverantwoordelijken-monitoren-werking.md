@@ -12,7 +12,7 @@ soort-toepassing:
 - ai-systeem
 - ai-systeem-voor-algemene-doeleinden
 risicogroep:
-- hoog-risico-ai-systeem
+- hoog-risico
 rol-ai-act:
 - gebruiksverantwoordelijke
 hide:

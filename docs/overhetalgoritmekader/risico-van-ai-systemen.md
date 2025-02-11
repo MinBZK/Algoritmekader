@@ -1,6 +1,6 @@
 ---
 title: Risico van AI-systemen
-summary: De AI-verordening deelt AI-systemen op in de 3 risicogroepen 'risico op misleiding', 'hoog-risico-AI-systeem' en 'verboden AI-systeem'.
+summary: De AI-verordening deelt AI-systemen op in de 3 risicogroepen 'risico op misleiding', 'hoog-risico' en 'verboden AI-systeem'.
 ---
 
 # Risico van AI-systemen
@@ -16,7 +16,7 @@ Hiervoor gelden verplichtingen op het gebied van transparantie. Gebruikers mogen
 
 Zie [AI-verordening, hoofdstuk IV](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#d1e5418-1-1).
 
-## Hoog-risico-AI-systeem
+## hoog-risico
 In deze risicogroep vallen AI-systemen die je gebruikt als veiligheidsonderdeel van bepaalde producten, of voor bepaalde diensten of processen.
 
 ### Gebruik als veiligheidsonderdeel

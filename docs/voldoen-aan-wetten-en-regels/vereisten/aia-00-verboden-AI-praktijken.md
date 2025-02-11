@@ -18,6 +18,8 @@ rol-ai-act:
 - gebruiksverantwoordelijke
 - importeur
 - distributeur
+uitzondering: 
+- uitzondering-van-toepassing
 hide:
 - navigation
 rollen:

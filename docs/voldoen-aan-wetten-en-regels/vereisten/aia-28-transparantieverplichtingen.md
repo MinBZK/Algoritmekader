@@ -17,6 +17,8 @@ rol-ai-act:
 - aanbieder
 transparantieverplichting:
 - transparantieverplichting
+uitzondering: 
+- uitzondering-van-toepassing
 rollen:
 - projectleider
 - ontwikkelaar

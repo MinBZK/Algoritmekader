@@ -14,6 +14,8 @@ soort-toepassing:
 - ai-model-voor-algemene-doeleinden
 rol-ai-act:
 - aanbieder
+uitzondering: 
+- uitzondering-van-toepassing
 hide:
 - navigation
 ---

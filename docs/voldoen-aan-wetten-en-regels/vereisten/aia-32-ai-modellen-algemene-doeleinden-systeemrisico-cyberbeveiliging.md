@@ -15,6 +15,8 @@ rol-ai-act:
 - aanbieder
 systeemrisico:
 - systeemrisico
+uitzondering: 
+- uitzondering-van-toepassing
 hide:
 - navigation
 ---

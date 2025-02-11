@@ -16,6 +16,8 @@ soort-toepassing:
 - ai-systeem-voor-algemene-doeleinden
 risicogroep:
 - hoog-risico
+uitzondering: 
+- uitzondering-van-toepassing
 rol-ai-act:
 - aanbieder
 hide:

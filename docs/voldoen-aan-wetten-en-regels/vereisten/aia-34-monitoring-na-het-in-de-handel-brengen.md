@@ -15,6 +15,8 @@ rol-ai-act:
 - aanbieder
 risicogroep:
 - hoog-risico
+uitzondering: 
+- uitzondering-van-toepassing
 hide:
 - navigation
 ---

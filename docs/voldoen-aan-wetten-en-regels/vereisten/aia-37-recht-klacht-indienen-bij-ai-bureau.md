@@ -6,6 +6,14 @@ levenscyclus:
 - organisatieverantwoordelijkheden
 onderwerp:
 - fundamentele-rechten
+soort-toepassing:
+- ai-systeem
+- ai-systeem-voor-algemene-doeleinden
+- ai-model-voor-algemene-doeleinden
+rol-ai-act:
+- aanbieder
+uitzondering: 
+- uitzondering-van-toepassing
 rollen:
 - projectleider
 hide:

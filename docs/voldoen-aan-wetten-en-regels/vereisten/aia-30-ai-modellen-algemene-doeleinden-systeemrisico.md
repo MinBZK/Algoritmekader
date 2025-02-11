@@ -17,6 +17,8 @@ onderwerp:
 rollen:
 - projectleider
 - ontwikkelaar
+uitzondering: 
+- uitzondering-van-toepassing
 hide:
 - navigation
 ---

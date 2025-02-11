@@ -1,12 +1,12 @@
 ---
-title: Maatregelen
+title: Aanbevolen maatregelen
 hide:
   - navigation
   - toc
 ---
 
-# Maatregelen
-Overzicht van aanbevolen maatregelen voor verantwoord gebruik van algoritmes en AI-systemen. Het zijn adviezen om te voldoen aan de vereisten voor overheden. Andere maatregelen zijn ook mogelijk.
+# Aanbevolen maatregelen
+Overzicht van maatregelen waarmee je kunt voldoen aan de vereisten voor de overheid. Deze maatregelen zijn niet verplicht. Andere maatregelen zijn ook mogelijk.
 
 ## Overzicht maatregelen { data-search-exclude }
 
@@ -25,15 +25,12 @@ De maatregelen zijn niet verplicht. Het zijn adviezen uit:
 
 Deze maatregel helpt om te voldoen aan de vereiste om niet te discrimineren. Maar deze maatregel is niet verplicht. Je organisatie mag ook eigen maatregelen nemen. Zolang je uiteindelijk maar voldoet aan de vereiste.
     
-!!! tip "Tip"
+## Aantal maatregelen verschilt per situatie
+Welke maatregelen handig zijn in jouw situatie, hangt af van:
 
-    **Aantal maatregelen verschilt per situatie**
-    
-    Welke maatregelen handig zijn in jouw situatie, hangt af van:
-  
-    - de [fase in de levenscyclus](https://minbzk.github.io/Algoritmekader/levenscyclus/) van je project
-    - de [vereisten](https://minbzk.github.io/Algoritmekader/vereisten/) waar jouw organisatie aan moet voldoen
-    - jouw [rol](https://minbzk.github.io/Algoritmekader/rollen/) in de organisatie
+- de [fase in de levenscyclus](../../levenscyclus/) van je project
+- de [vereisten](../../vereisten/) waar jouw organisatie aan moet voldoen
+- jouw [rol](../../rollen/) in de organisatie
 
 !!! tip "Tip"
 

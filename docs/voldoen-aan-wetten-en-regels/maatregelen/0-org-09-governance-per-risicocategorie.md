@@ -37,10 +37,21 @@ Richt algoritmegovernance in op basis van de risicoclassificatie van algoritmes.
 
 ## Voorbeelden
 
+!!! example "Rijksoverheid: Gids AI-verordening"
+
+    De Rijksoverheid heeft een gids opgesteld over de AI-verordening. Hierin worden 4 stappen toegelicht: Risico, AI, Rol en Verplichtingen. Om te identificeren welke AI-systemen of algoritmes hoog-risico zijn, is het aan te raden om deze gids te bekijken. Meer informatie over de AI-verordening is ook te vinden op ["AI-verordening in het kort"](../ai-verordening.md)
+    Naast de classificatie vermeldt deze gids vanaf pagina 11 aan welke verplichtingen een aanbieder en gebruiksverantwoordelijke moeten voldoen voor hoog-risico-AI, AI voor algemene doeleinden, generatieve AI en chatbots, maar niet voor overige AI.
+        
+    Bron: [Gids AI-verordening](https://www.rijksoverheid.nl/documenten/brochures/2024/10/16/gids-ai-verordening)
+    
+    Wil je meer hulp bij het vinden van de regels die specifiek voor jou gelden, gebruik dan ook de [Beslishulp AI-Verordening](https://ai-verordening-beslishulp.apps.digilab.network/).
+
+
 !!! example "Gemeente Rotterdam: Processchema governance"
     
     Hieronder staat een schematische weergave van hoe de gemeente Rotterdam algoritme governance toepast. Zij kiezen ervoor om dit alleen toe te passen op hoog-risico AI volgens de definitie van de AI-Verordening. Voor laag-risico toepassingen gebruiken ze hun standaard governanceprotocol (zie figuur hieronder). 
     Ongeacht het risico wordt er ook een drietal vragen gesteld, waarbij verdere instrumenten ingezet moeten worden als alle vragen met "Ja" beantwoord worden:
+
     * Is de werking van het algoritme niet volledig én beknopt uit te leggen aan een gemiddelde Rotterdammer? 
     * Ontbreekt er een menselijke beoordeling voordat de uitkomst van het algoritme in de praktijk wordt gebracht door middel van een concrete handeling van de gemeente? 
     * Is het voorstelbaar dat de algoritmetoepassing uitmondt in een onrechtvaardige handeling van de gemeente tegen burgers of bedrijven?

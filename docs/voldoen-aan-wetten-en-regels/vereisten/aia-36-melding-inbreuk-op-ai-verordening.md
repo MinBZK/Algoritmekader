@@ -17,6 +17,8 @@ soort-toepassing:
 rol-ai-act:
 - aanbieder
 - gebruiksverantwoordelijke
+uitzondering: 
+- (ai-systeem || ai-systeem-voor-algemene-doeleinden) && geen-hoog-risico && geen-transparantieverplichting && open-source
 hide:
 - navigation
 ---

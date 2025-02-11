@@ -87,7 +87,7 @@ Data is niet gebruiksvriendelijk en het is onduidelijk hoe de data hergebruikt k
 
 !!! note "Opmerking"
 
-    [Artikel 5b van de Wet hergebruik van overheidsinformatie](https://wetten.overheid.nl/jci1.3:c:BWBR0036795&hoofdstuk=III&paragraaf=3.1&artikel=5b&z=2024-06-19&g=2024-06-19) stelt dat dnderzoeksgegevens in overeenstemming met de FAIR-beginselen actief beschikbaar moeten worden gesteld voor hergebruik door een publiek gefinancierde onderzoeksorganisatie. Dit geldt voor zover:
+    [Artikel 5b van de Wet hergebruik van overheidsinformatie](https://wetten.overheid.nl/jci1.3:c:BWBR0036795&hoofdstuk=III&paragraaf=3.1&artikel=5b&z=2024-06-19&g=2024-06-19) stelt dat onderzoeksgegevens in overeenstemming met de FAIR-beginselen actief beschikbaar moeten worden gesteld voor hergebruik door een publiek gefinancierde onderzoeksorganisatie. Dit geldt voor zover:
 
     1. Die documenten zijn geproduceerd in het kader van geheel of gedeeltelijk met overheidsmiddelen gefinancierde wetenschappelijke onderzoeksactiviteiten;
     2. Die documenten openbaar zijn gemaakt via een institutionele of thematische databank als bedoeld in artikel 10, tweede lid, van de richtlijn; en

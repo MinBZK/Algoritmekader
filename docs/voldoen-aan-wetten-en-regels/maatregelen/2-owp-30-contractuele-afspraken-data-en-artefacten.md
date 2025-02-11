@@ -39,7 +39,7 @@ Een risico dat kan ontstaan is dat er onduidelijkheid is over wie de verantwoord
 
 ## Bronnen
 
-Algoritmekader
+Geen bron beschikbaar voor deze maatregel.
 
 ## Voorbeelden
 

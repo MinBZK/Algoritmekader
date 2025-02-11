@@ -1,7 +1,7 @@
 ---
-title: Zorg voor politiek-bestuurlijk bewustzijn, betrokkenheid, en verantwoordelijkheid.
+title: Zorg voor politiek-bestuurlijk bewustzijn, betrokkenheid en verantwoordelijkheid
 id: urn:nl:ak:mtr:org-04
-toelichting: Zorg voor politiek-bestuurlijk bewustzijn, betrokkenheid, en verantwoordelijkheid. Zorg dat bestuurders bewust zijn van de voor- en nadelen van de inzet van algoritmes en daarnaar kunnen handelen.
+toelichting: Zorg voor politiek-bestuurlijk bewustzijn, betrokkenheid en verantwoordelijkheid. Zorg dat bestuurders bewust zijn van de voor- en nadelen van de inzet van algoritmes en daarnaar kunnen handelen.
 levenscyclus:
 - organisatieverantwoordelijkheden
 rollen:
@@ -17,7 +17,7 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-Zorg voor politiek-bestuurlijk bewustzijn, betrokkenheid, en verantwoordelijkheid. 
+Zorg voor politiek-bestuurlijk bewustzijn, betrokkenheid en verantwoordelijkheid. 
 
 ## Toelichting
 - Voor een passende algoritmegovernance is politiek-bestuurlijk bewustzijn, betrokkenheid en verantwoordelijkheid essentieel. 
@@ -27,10 +27,10 @@ Zorg voor politiek-bestuurlijk bewustzijn, betrokkenheid, en verantwoordelijkhei
 - Om te zorgen voor politiek-bestuurlijke betrokkenheid kan het helpen om een [meerjarige visie/strategie rondom verantwoorde inzet](0-org-02-beleid-opstellen-inzet-algoritmes.md) te formuleren waar een communicatiestrategie richting burgers onderdeel van is.
 - Zorg ervoor dat bestuurders bewust zijn van de voor- en nadelen van de inzet van algoritmes en daarnaar kunnen handelen.
 - Dit ondersteunt teams bij het maken van de juiste overwegingen bij de ontwikkeling en gebruik van algoritmes. Het geeft ook inzicht wanneer de politiek of bestuurlijk verantwoordelijke(n) moeten worden betrokken bij het project om beslissingen te nemen, bijvoorbeeld of de mate van onbewuste vooringenomenheid (bias) binnen acceptabele grenzen ligt. 
-- Het doorlopen van een concrete casus voor de ontwikkeling en gebruik van een algoritme, inclusief het uitvoeren van een IAMA, kan waardevolle informatiegeven om een meerjarige visie of strategie op te stellen. 
+- Het doorlopen van een concrete casus voor de ontwikkeling en het gebruik van een algoritme, inclusief het uitvoeren van een IAMA, kan waardevolle informatie geven om een meerjarige visie of strategie op te stellen.
 
-## Bronnen
-[Kleur bekennen - vervolgonderzoek algoritmes](https://rekenkamer.rotterdam.nl/onderzoeken/kleur-bekennen/)
+## Risico 
+Het verwaarlozen van politiek-bestuurlijk bewustzijn, betrokkenheid en verantwoordelijkheid kan leiden tot een het ontwikkelen van algoritmegovernance dat op de lange termijn niet effectief inzetbaar is. 
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
@@ -39,8 +39,8 @@ Zorg voor politiek-bestuurlijk bewustzijn, betrokkenheid, en verantwoordelijkhei
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
-## Risico 
-<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+## Bronnen
+[Kleur bekennen - vervolgonderzoek algoritmes](https://rekenkamer.rotterdam.nl/onderzoeken/kleur-bekennen/)
 
 ## Voorbeelden
 !!! example "Voorbeeld gemeente Rotterdam"

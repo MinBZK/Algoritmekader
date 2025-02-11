@@ -37,7 +37,7 @@ Beschrijf welke techniek gebruikt wordt voor de beoogde toepassing.
 - Beschrijf vervolgens ook:
     
     - waarom er voor dit type algoritme wordt gekozen
-    - wat de alternatieven zijn en waarom die minder passend zijn?
+    - wat de alternatieven zijn en waarom die minder passend zijn
     - waarom dit algoritme het meest geschikt is om het [beoogde doel](1-pba-02-formuleren-doelstelling.md) van het algoritme te bereiken. 
 
 - De precieze details kunnen in dit stadium van de levenscyclus waarschijnlijk nog niet ingevuld worden. Maak een goede eerste inschatting van de gebruikte techniek. Eventueel kan je er ook voor kiezen om verschillende technieken verder te onderzoeken. Dat betekent dat er meerdere algoritmes ontwikkeld worden (op basis van verschillende technieken), en je later een definitieve keuze maakt. 
@@ -59,3 +59,6 @@ Wanneer je geen zorgvuldige afweging maakt over de techniek die je gebruikt om h
 - [Impact Assessment Mensenrechten en Algoritmes, 2A.1, 2B.1](../hulpmiddelen/IAMA.md)
 - [Onderzoekskader Auditdienst Rijk, DM.2](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Toetsingskader Algemene Rekenkamer, 2.04, 2.17](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
+
+## Voorbeelden
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

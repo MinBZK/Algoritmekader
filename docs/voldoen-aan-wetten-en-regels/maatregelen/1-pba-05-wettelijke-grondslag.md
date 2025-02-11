@@ -28,7 +28,11 @@ Beschrijf de wettelijke grondslag voor de inzet van het algoritme en de beoogde 
 ## Toelichting 
 - Analyseer of er een concrete wettelijke grondslag is die de inzet van het algoritme mogelijk maakt en deze inzet voldoende voorzienbaar maakt. 
 - Als de verwachting is dat een algoritme tot gevolg heeft dat wordt ingegrepen in het leven of de vrijheid van mensen, en zeker als de verwachting is dat er grondrechten worden geraakt, moet er een wettelijke grondslag bestaan voor de inzet van het algoritme.
-- Voor het verwerken van persoonsgegevens is een wettelijke grondslag noodzakelijk. 
+- Voor het verwerken van persoonsgegevens is een wettelijke grondslag noodzakelijk.
+
+## Risico 
+Het algoritme en beoogde besluiten voldoen niet aan wet- en regelgeving en intern beleid en kaders.
+
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
@@ -38,10 +42,7 @@ Beschrijf de wettelijke grondslag voor de inzet van het algoritme en de beoogde 
 - [Onderzoekskader Auditdienst Rijk, SV.7, PRI.6](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Impact Assessment Mensenrechten en Algoritmes, 1.4](../hulpmiddelen/IAMA.md)
 
-## Risico 
-Het algoritme en beoogde besluiten voldoen niet aan wet- en regelgeving en intern beleid en kaders.
-
-## Voorbeeld
+## Voorbeelden
 
 !!! example "Belastingdienst: Wegenrisico’s"
 

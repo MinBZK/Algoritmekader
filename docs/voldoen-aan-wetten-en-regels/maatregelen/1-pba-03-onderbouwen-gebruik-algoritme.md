@@ -47,7 +47,7 @@ Het algoritme is niet het juiste middel om het probleem op te lossen. Het risico
 - [Onderzoekskader Algoritmes Auditdienst Rijk, SV.2](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Handreiking identificatie verboden AI-systemen (Powerpoint-bestand)](https://github.com/user-attachments/files/18179740/Handreiking_Uitvraag_VBSystemen.pptx)
 
-## Voorbeeld
+## Voorbeelden
 
-Heb jij een goed voorbeeld? Laat het ons weten!
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
 

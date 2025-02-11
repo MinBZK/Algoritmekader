@@ -1,7 +1,7 @@
 ---
 title: Bescherm persoonsgegevens door data te anonimiseren, pseudonimiseren of te aggregeren
 id: urn:nl:ak:mtr:dat-04
-toelichting: Pas maatregelen toe als pseudonimiseren, anonimisering of aggregeren van persoonsgegevens bij het verwerken van de data. 
+toelichting: Pas maatregelen toe als pseudonimiseren, anonimiseren of aggregeren van persoonsgegevens bij het verwerken van de data. 
 vereiste:
 - avg-03-minimale-verwerking-van-persoonsgegevens
 - avg-12-beveiliging-van-verwerking
@@ -26,7 +26,7 @@ hide:
 <!-- tags -->
 ## Maatregel
 
-Pas maatregelen toe als pseudonimiseren, anonimisering of aggregeren van persoonsgegevens toe bij het verwerken van de data. 
+Pas maatregelen toe als pseudonimiseren, anonimiseren of aggregeren van persoonsgegevens toe bij het verwerken van de data. 
 
 ## Toelichting
 - Als is vastgesteld welke persoonsgegevens mogen worden verwerkt voor het ontwikkelen en gebruiken van algoritmes, moet worden nagegaan of er maatregelen kunnen worden getroffen om deze te beschermen.
@@ -34,6 +34,8 @@ Pas maatregelen toe als pseudonimiseren, anonimisering of aggregeren van persoon
 - Hierbij kan worden gedacht aan het pseudonomiseren, anonimiseren of aggregeren van persoonsgegevens.
 - Het bepalen of persoonsgegevens mogen worden verwerkt voor algoritmes moet worden bekeken in samenhang met maatregelen die kunnen worden getroffen om deze gegevens te beschermen. 
 
+## Risico 
+Het niet goed pseudonimiseren, anonimiseren of aggregeren van persoonsgegevens kan leiden tot onterecht gebruik van deze gegevens en kan daarbij een inbreuk op privacy veroorzaken. 
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
@@ -43,7 +45,7 @@ Pas maatregelen toe als pseudonimiseren, anonimisering of aggregeren van persoon
 - [Onderzoekskader Auditdienst Rijk, PRI.5](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 2.20, 3.06](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 
-## Voorbeeld
+## Voorbeelden
 
 !!! example "Groep Gegevensbescherming: Artikel 20 (WP 216)"
 

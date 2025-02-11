@@ -61,7 +61,8 @@ Voor deze maatregelen is het van belang om aandacht te hebben voor de volgende z
 
 ## Risico
 Er bestaan meerdere risico's wanneer er geen gebruikersbeheer is:
-- Toegangsrechten kunnen niet meer up-to-date zijn, bijvoorbeeld wanneer er geen rekening wordt gehouden met het IDU-proces (). Er bestaat dan het risico dat gebruikers toegang tot de omgeving van het algoritme, de data of de uitkomsten van het algoritme hebben die zij niet zouden mogen hebben.
+
+- Toegangsrechten kunnen niet meer up-to-date zijn, bijvoorbeeld wanneer er geen rekening wordt gehouden met het IDU-proces. Er bestaat dan het risico dat gebruikers toegang tot de omgeving van het algoritme, de data of de uitkomsten van het algoritme hebben die zij niet zouden mogen hebben.
 - Wanneer functievermenging niet wordt voorkomen bij toegang en gebruik van het algoritme, bestaat het risico dat er ongeautoriseerde wijzigingen worden doorgevoerd aan het algoritme, de data of de uitkomsten van het algoritme.
 - Wanneer gebruik wordt gemaakt van generieke-, groeps- of onpersoonlijke accounts, bestaat het risico dat handelingen niet te herleiden zijn naar een verantwoordelijke persoon.
 
@@ -76,6 +77,6 @@ Er bestaan meerdere risico's wanneer er geen gebruikersbeheer is:
 - [Onderzoekskader Algoritmes Auditdienst Rijk, IB.10 t/m IB.17](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 4.01, 4.02, 4.04, 4.05](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 
-## Voorbeeld
+## Voorbeelden
 
-Heb jij een goed voorbeeld? Laat het ons weten!
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

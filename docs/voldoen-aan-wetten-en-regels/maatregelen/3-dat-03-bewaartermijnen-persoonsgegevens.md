@@ -34,10 +34,13 @@ Bepaal de bewaartermijnen en richt een vernietigingsprocesdure in voor de verwer
 - (Persoons)gegevens die het algoritme verwerkt worden niet langer bewaard dan voor de verwezenlijking van de 
 verwerkingsdoeleinden noodzakelijk is.
 - Beschrijf de bewaartermijnen voor de gegevens, bijvoorbeeld in een DPIA.
-- Beschrijf hoe de (persoons)gegeven moeten worden vernietigd.
+- Beschrijf hoe de (persoons)gegevens moeten worden vernietigd.
 - Zorg ervoor dat de vereisten met betrekking tot bewaartermijnen correct zijn of worden vertaald naar het algoritme en de onderliggende (zaak)systemen.
 - Controleer of deze maatregelen voor de bewaartermijnen en vernietiging van de (persoons)gegevens (in de onderliggende systemen) zijn getroffen en zorg dat dit aantoonbaar is, bijvoorbeeld met logbestanden.
 - Maak aantoonbaar dat persoonsgegevens zijn vernietigd, bijvoorbeeld met logbestanden.  
+
+## Risico
+Een risico dat kan voorkomen bij deze maatregel is dat bewaartermijnen van (persoons)gegevens kunnen worden overschreden zonder dat dit op tijd kenbaar wordt doordat er geen (volledige) vernietigingsprocedure is vastgesteld. 
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
@@ -49,12 +52,14 @@ verwerkingsdoeleinden noodzakelijk is.
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 3.17](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 
 
-## Voorbeeld
+## Voorbeelden
 
 !!! example "UWV: Klantapplicatie WW"
 
-    Het UWV heeft in haar privacy statement aangegeven dat zij zich houdt aan de richtlijnen van de Archiefwet voor het bewaren van persoonsgegevens. Hierin staat beschreven welke data bewaard/verwijderd     moet worden en op welke termijn. Er staat hier ook een kopje over “Uitvoering Vernietiging” waarin uitgelegd staat dat een afdeling binnen het UWV de vernietiging uitvoert.
+    Het UWV heeft in haar privacy statement aangegeven dat zij zich houdt aan de richtlijnen van de Archiefwet voor het bewaren van persoonsgegevens. Hierin staat beschreven welke data bewaard/verwijderd moet worden en op welke termijn. Er staat hier ook een kopje over “Uitvoering Vernietiging” waarin uitgelegd staat dat een afdeling binnen het UWV de vernietiging uitvoert.
         
     Dit voorbeeld zou verder uitgebreid kunnen worden door de vernietigingsprocedure verder toe te lichten. Op dit moment wordt niet uitgelegd over hoe elektronische of fysieke data vernietigd wordt.
         
     Bron: [Selectielijst UWV - Nationaal Archief](https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-voor-het-uitvoeringsinstituut-werknemersverzekeringen-uwv-voor)
+
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

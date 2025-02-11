@@ -1,9 +1,9 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Laat aanbieder(s) bewijs leveren dat de door hen ontwikkelde algoritmes geen inbreuk maken op de auteursrechten van derden met de trainingsdata en de output.
+title: Laat aanbieder(s) bewijs leveren dat de door hen ontwikkelde algoritmes geen inbreuk maken op de auteursrechten van derden met de trainingsdata en de output
 id: urn:nl:ak:mtr:owp-19
 # geef hier een korte toelichting van deze maatregel
-toelichting: Maak het al dan niet kunnen leveren van bewijs door een aanbieder dat auteursrechten niet worden geschonden door de trainingsdata of out van een algoritme een vast onderdeel van de aanbesteding.
+toelichting: Maak het al dan niet kunnen leveren van bewijs door een aanbieder dat auteursrechten niet worden geschonden door de trainingsdata of output van een algoritme een vast onderdeel van de aanbesteding.
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste:
 - aut-01-auteursrechten
@@ -55,13 +55,13 @@ Het is van belang dat de (rest)risico's inzichtelijk zijn gemaakt als er sprake 
 ### Contractovereenkomst
 Neem in de conceptovereenkomst op dat de aanbieder garandeert dat auteursrechten niet worden geschonden met de trainingsdata of output van het algoritme en dat aanbieder dit gedurende de ontwikkeling en levensduur actief bewaakt.
 
-## Bijbehorende vereiste(n) { data-search-exclude }
-??? expander "Bekijk alle vereisten"
-    <!-- list_vereisten_on_maatregelen_page -->
-
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
 Dat wordt gecontracteerd met een aanbieder waarbij niet kan worden uitgesloten dat auteursrechten worden geschonden. 
+
+## Bijbehorende vereiste(n) { data-search-exclude }
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 
@@ -70,5 +70,4 @@ Dat wordt gecontracteerd met een aanbieder waarbij niet kan worden uitgesloten d
 
 ## Voorbeeld
 
-Heb jij een goed voorbeeld? Laat het ons weten!
-
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

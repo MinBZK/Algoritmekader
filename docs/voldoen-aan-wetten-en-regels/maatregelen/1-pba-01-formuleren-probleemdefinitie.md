@@ -28,24 +28,20 @@ Formuleer duidelijk de probleemdefinitie en probleemafbakening waarvoor het algo
 ## Toelichting
 Formuleer de probleemdefinitie en probleemafbakening zo concreet en precies mogelijk. Maak dit waar mogelijk kwantificeerbaar. 
 
-## Bijbehorende vereiste(n) { data-search-exclude }
-??? expander "Bekijk alle vereisten"
-    <!-- list_vereisten_on_maatregelen_page -->
-
 ## Risico
 Het algoritme dient niet het onderliggende probleem. 
 Zonder eenduidigheid over het op te lossen probleem is geen sturing op en verantwoording over het algoritme mogelijk. 
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
-
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 
 - [Impact Assessment Mensenrechten en Algoritmes, 1.01](https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes)
 - [Onderzoekskader Algoritmes Auditdienst Rijk, SV.1](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 
-## Voorbeeld
+## Voorbeelden
 
-Heb jij een goed voorbeeld? Laat het ons weten!
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
 

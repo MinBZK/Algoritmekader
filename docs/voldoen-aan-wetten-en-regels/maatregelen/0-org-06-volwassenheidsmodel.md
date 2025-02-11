@@ -30,6 +30,9 @@ Breng de volwassenheid van je organisatie op het gebied van algoritmes in kaart.
 -   Het is aan te raden om verantwoordelijkheden te beleggen voor het realiseren van algoritmegovernance.
 
 
+## Risico
+Als je niet een goed beeld hebt van waar de organisatie staat, is het moeilijk te peilen welke richting gekozen moet worden en kan dit leiden tot het doen van dubbel werk.
+
 ## Bijbehorende vereiste(n) { data-search-exclude }
 
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
@@ -38,11 +41,10 @@ Breng de volwassenheid van je organisatie op het gebied van algoritmes in kaart.
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
-## Risico
+## Bronnen
+Geen beschikbare bron voor deze maatregel.
 
-<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-
-## Voorbeelden van volwassenheidsmodellen
+## Voorbeelden
 
 
 !!! example "Voorbeeld: Interbestuurlijke Datastrategie - Datavolwassenheidsmodel"
@@ -54,7 +56,7 @@ Breng de volwassenheid van je organisatie op het gebied van algoritmes in kaart.
 
 
 
-!!! example "Voorbeeld: Krijger, Thuis, de Ruiter, Ligthart & Broekman - AI ethics maturity model*"
+!!! example "Voorbeeld: Krijger, Thuis, de Ruiter, Ligthart & Broekman - AI ethics maturity model"
 	 
 	Het in 2023 gepubliceerde ‘AI ethics maturity model' door Krijger, Thuis, de Ruiter, Ligthart & Broekman gebruikt zes categorieën om volwassenheid op verschillende niveaus in kaart te brengen. Dit model focust zich met name op het ethische aspect van volwassenheid met als categorieën: _awareness & culture_, _policy_, _governance_, _communication & training_, _development process_ en _tooling_. Er zijn vijf verschillende niveaus waar iedere categorie onder kan vallen om zo volwassenheid aan te geven.
 	
@@ -72,7 +74,7 @@ Breng de volwassenheid van je organisatie op het gebied van algoritmes in kaart.
 
 
 
- !!! example "Voorbeeld: Rijksorganisatie voor Ontwikkeling, Digitalisering en Innovatie - Innovatie Maturity Scan*"
+ !!! example "Voorbeeld: Rijksorganisatie voor Ontwikkeling, Digitalisering en Innovatie - Innovatie Maturity Scan"
  
 	De Rijksorganisatie voor Ontwikkeling, Digitalisering en Innovatie (ODI) heeft een Innovatie Maturity Scan gemaakt om de innovatievolwassenheid van een organisatie te meten. Omdat het gebruik van algoritmes vaak gezien wordt als vorm van innovatie is dit ook een interessant model om naar te kijken.
     
@@ -92,6 +94,3 @@ Breng de volwassenheid van je organisatie op het gebied van algoritmes in kaart.
     Bron: [Implementatiestrategie Digitale-Ethiek](https://overijssel.notubiz.nl/modules/1/Ingekomen%20stukken/944710) 
     
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
-
-
-## Bronnen

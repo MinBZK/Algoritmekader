@@ -44,6 +44,9 @@ Let op dat niet enkel naar de AI-verordening wordt gekeken. Ook op impactvolle a
 
 Deze stap is van groot belang, omdat dit bijvoorbeeld voor ontwikkelteams mede bepalend is waar het te ontwikkelen systeem aan moet voldoen of welke contractuele verplichtingen moeten worden gecreëerd tussen opdrachtgever en aanbieder van algoritmes.
 
+## Risico
+Als de risicogroep waar een algoritme bij hoort niet wordt bepaald is er een risico op het niet naleven van de AI-verordening wat kan leiden tot sancties of boetes. 
+
 ## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 
@@ -56,5 +59,6 @@ Deze stap is van groot belang, omdat dit bijvoorbeeld voor ontwikkelteams mede b
 [Beslishulp](https://ai-verordening-beslishulp.apps.digilab.network/)
 [Handreiking Algoritmeregister](https://www.digitaleoverheid.nl/document/handreiking-algoritmeregister/)
 
-## Voorbeeld
+## Voorbeelden
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

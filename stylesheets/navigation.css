@@ -1,4 +1,8 @@
 /* Bestaande CSS voor fonts, badges en andere componenten */
+body {
+  font-family: "ROsanswebtextregular" !important;
+  src: url("fonts/ROsanswebtextregular.woff") format('truetype');
+}
 
 /* Tabs Styling */
 .md-tabs {

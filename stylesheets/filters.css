@@ -59,7 +59,10 @@
   color: #154273 !important;
   margin: 0 4px 4px 0 !important; 
   font-style: italic;
-  white-space: nowrap;
+  max-width: calc(100% - 24px) !important; 
+  white-space: nowrap; 
+  overflow: hidden; 
+  text-overflow: ellipsis; 
 }
 
 .choices__list {

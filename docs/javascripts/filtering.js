@@ -127,6 +127,7 @@ function filterTable() {
     var selectedRoles = Array.from(select.options)
         .filter(option => option.selected)
         .map(option => option.value.toUpperCase());
+    selectedRoles = [] // DIT IS STUK
 
     var levenscyclusSelect = document.getElementById("filterLevenscyclusSelect"); // Levenscyclus filter
     var selectedLevenscyclus = Array.from(levenscyclusSelect.options)
@@ -141,7 +142,14 @@ function filterTable() {
     var table = document.getElementById("myTable");
     var tr = table ? table.getElementsByTagName("tr") : [];
 
+    var labelsInput = document.getElementById("labelsInput").value.split(",").map(item => item.trim()).filter(item => item !== "");
+
     for (var i = 1; i < tr.length; i++) { // Skip header row
+        var dataLabels = []
+        if (tr[i].hasAttribute("data-labels")) {
+            dataLabels = tr[i].getAttribute("data-labels").split(",");
+        }
+
         var td = tr[i].getElementsByTagName("td")[1];  // Maatregelen column (td[0])
         var roles = tr[i].getElementsByTagName("td")[2]; // Rollen column (td[1])
         var lc = tr[i].getElementsByTagName("td")[3];   // Levenscyclus column (td[2])
@@ -153,14 +161,15 @@ function filterTable() {
             var txtValue3 = lc.textContent || lc.innerText; // Levenscyclus value
             var txtValue4 = onderwerpen.textContent || onderwerpen.innerText; // Onderwerpen value
 
-            console.log(`Row ${i} values: `, { txtValue, txtValue2, txtValue3, txtValue4 });
+            // console.log(`Row ${i} values: `, { txtValue, txtValue2, txtValue3, txtValue4 });
 
             // Check if all selected filters are present
             var roleMatch = selectedRoles.every(role => txtValue2.toUpperCase().indexOf(role) > -1);
             var lcMatch = selectedLevenscyclus.every(lc => txtValue3.toUpperCase().indexOf(lc) > -1);
             var onderwerpMatch = selectedOnderwerpen.every(onderwerp => txtValue4.toUpperCase().indexOf(onderwerp) > -1);
+            var labelMatch = labelsInput.length === 0 || dataLabels.length === 0 || dataLabels.some(element => labelsInput.includes(element));
 
-            if (txtValue.toUpperCase().indexOf(filter) > -1 && roleMatch && lcMatch && onderwerpMatch) {
+            if (txtValue.toUpperCase().indexOf(filter) > -1 && roleMatch && lcMatch && onderwerpMatch && labelMatch) {
                 tr[i].style.display = "";
             } else {
                 tr[i].style.display = "none";

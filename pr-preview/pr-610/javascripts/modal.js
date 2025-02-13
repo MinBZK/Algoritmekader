@@ -36,7 +36,7 @@ function showModal(event, modalId) {
   } else if (modalId === "beslishulp") {
     document.getElementById("modal-content").innerHTML = "<iframe style=\"width: 100%; height: 100%; border: 0; padding: 0; margin: 0; overflow: hidden;\" src=\"../../html/beslishulp.html\"></iframe>"
     document.getElementById("modal-content-container").classList.remove("model-content-auto-size");
-    // TODO: remove monitor when new beslishulp is releases
+    // TODO: remove monitor when new beslishulp is released
     monitor.start();
   }
   document.getElementById("modal").classList.remove("display-none");

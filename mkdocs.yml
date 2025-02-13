@@ -102,6 +102,7 @@ extra_css:
   - stylesheets/footer.css
   - stylesheets/all.min.css
   - stylesheets/choices.min.css  
+  - stylesheets/modal.css
 
 extra_javascript:
   - javascripts/jquery-3.6.0.min.js
@@ -110,6 +111,7 @@ extra_javascript:
   - javascripts/tablesort.js
   - javascripts/filtering.js
   - javascripts/mermaid.min.js
+  - javascripts/modal.js
 
 plugins:
     - glightbox

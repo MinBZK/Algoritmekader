@@ -36,6 +36,8 @@ function showModal(event, modalId) {
   } else if (modalId === "beslishulp") {
     document.getElementById("modal-content").innerHTML = "<iframe style=\"width: 100%; height: 100%; border: 0; padding: 0; margin: 0; overflow: hidden;\" src=\"../../html/beslishulp.html\"></iframe>"
     document.getElementById("modal-content-container").classList.remove("model-content-auto-size");
+    // TODO: remove monitor when new beslishulp is releases
+    monitor.start();
   }
   document.getElementById("modal").classList.remove("display-none");
 }
@@ -168,7 +170,6 @@ class SessionStorageMonitor {
     if (this.timerId) {
       clearInterval(this.timerId);
       this.timerId = null;
-      console.log('Monitoring stopped');
     }
   }
 }
@@ -178,7 +179,9 @@ const monitor = new SessionStorageMonitor(
   "null",             // target value to watch for
   (value) => {
     console.log('currentquestion changed to null after having a different value');
-    // Your callback logic here
+    const jsonObject = JSON.parse(sessionStorage.getItem("labels"))
+    const labels = convertLabels(Object.values(jsonObject).flatMap(v => Array.isArray(v) ? v : [v]).filter(v => v !== "")).map(obj => obj.label)
+    updateLabels(labels);
   }
 );
 

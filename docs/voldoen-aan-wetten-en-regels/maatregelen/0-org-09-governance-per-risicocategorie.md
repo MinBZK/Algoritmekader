@@ -1,5 +1,5 @@
 ---
-title: Richt algoritmegovernance op basis van de risicoclassificatie van algoritmes
+title: Richt algoritmegovernance in op basis van de risicoclassificatie van algoritmes
 id: urn:nl:ak:mtr:org-09
 toelichting: Stem algoritmegoverance af op basis van de betreffende risicoclassifcatie van een algoritme. 
 levenscyclus:

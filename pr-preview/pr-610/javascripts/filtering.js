@@ -142,7 +142,7 @@ function filterTable() {
     var table = document.getElementById("myTable");
     var tr = table ? table.getElementsByTagName("tr") : [];
 
-    var labelsInput = document.getElementById("labelsInput").value.split(",").map(item => item.trim());
+    var labelsInput = document.getElementById("labelsInput").value.split(",").map(item => item.trim()).filter(item => item !== "");
 
     for (var i = 1; i < tr.length; i++) { // Skip header row
         var dataLabels = []
@@ -167,7 +167,7 @@ function filterTable() {
             var roleMatch = selectedRoles.every(role => txtValue2.toUpperCase().indexOf(role) > -1);
             var lcMatch = selectedLevenscyclus.every(lc => txtValue3.toUpperCase().indexOf(lc) > -1);
             var onderwerpMatch = selectedOnderwerpen.every(onderwerp => txtValue4.toUpperCase().indexOf(onderwerp) > -1);
-            var labelMatch = dataLabels.length === 0 || dataLabels.some(element => labelsInput.includes(element));
+            var labelMatch = labelsInput.length === 0 || dataLabels.some(element => labelsInput.includes(element));
 
             if (txtValue.toUpperCase().indexOf(filter) > -1 && roleMatch && lcMatch && onderwerpMatch && labelMatch) {
                 tr[i].style.display = "";

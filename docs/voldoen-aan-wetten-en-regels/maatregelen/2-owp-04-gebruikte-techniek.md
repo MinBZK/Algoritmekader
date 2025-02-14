@@ -72,7 +72,7 @@ Wanneer je geen zorgvuldige afweging maakt over de techniek die je gebruikt om h
 !!! example "Provincie Zuid-Holland: Webapplicatie Impactmonitor Brugopening"
 
 	De Provincie Zuid-Holland (PZH) maakt gebruik van een webapplicatie om brugbedieners te ondersteunen bij het optimale moment kiezen voor het openen van de brug. De applicatie voorspelt tot 21 minuten in de toekomst en houd rekening met verkeersdoorstroom en uitstoot.
-	Binnen het algoritme register hebben zij in detail uitgelegd welke technische implementaties gebruikt worden. Zij maken gebruik van _Recurring Neural Networks_ (RNNs), een specifieke vorm van Artificiële Neurale Netwerken. Deze worden getraind op tijdserie data wat in dit geval belangrijk is vanwege de afhankelijkheid van drukte op en rondom de brug.
+	In het algoritmeregister hebben zij in detail uitgelegd welke technieken gebruikt worden. Zij maken gebruik van _Recurring Neural Networks_ (RNNs), een specifieke vorm van Artificiële Neurale Netwerken. Deze worden getraind op tijdserie data wat in dit geval belangrijk is vanwege de afhankelijkheid van drukte op en rondom de brug.
 	
 	Bron: [Webapplicatie Impactmonitor Brugopening - Provincie Zuid-Holland](https://algoritmes.overheid.nl/nl/algoritme/webapplicatie-impactmonitor-brugopening-provincie-zuidholland/96895333)
 

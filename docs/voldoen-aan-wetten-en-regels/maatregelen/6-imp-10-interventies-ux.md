@@ -77,7 +77,7 @@ Een gebruikersinterface die verkeerd gebruik door gebruikers mogelijk maakt, kan
 
 !!! example "Verschillende overheden – Octobox Anonimiseren"
 
-    Verschillende overheden maken gebruik van Octobox Anonimiseren, een anonimiseringstool die (persoons)gegevens aanduid voor maskering. Octobox zoekt deze (persoons)gegevens binnen het document ongeacht de inhoud. Na deze aanduiding moet er door een vakinhoudelijk persoon gecontroleerd worden of deze gegevens inderdaad gemaskeerd moeten worden of niet. Deze kunnen goed- en afgekeurd worden en ook gewijzigd worden voor goedkeuring. Daarnaast is er de optie om handmatig informatie te maskeren om zo andere (of gemiste) informatie te maskeren. De tool is op deze manier op een intuïtieve manier te gebruiken door medewerkers.
+    Verschillende overheden maken gebruik van Octobox Anonimiseren, een anonimiseringstool die (persoons)gegevens aanduidt voor maskering. Octobox zoekt deze (persoons)gegevens binnen het document, ongeacht de inhoud. Na deze aanduiding moet er door een vakinhoudelijk persoon gecontroleerd worden of deze gegevens inderdaad gemaskeerd moeten worden of niet. Deze kunnen goed- en afgekeurd worden en ook gewijzigd worden voor goedkeuring. Daarnaast is er de optie om handmatig informatie te maskeren om zo andere (of gemiste) informatie te maskeren. De tool is op deze manier op een intuïtieve manier te gebruiken door medewerkers.
     
     Bron: [Octobox Anonimiseren](https://algoritmes.overheid.nl/nl/algoritme/octobox-anonimiseren-ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties/28793885) 
 

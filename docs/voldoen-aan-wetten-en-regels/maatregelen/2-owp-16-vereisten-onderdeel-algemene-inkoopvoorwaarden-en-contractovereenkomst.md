@@ -112,10 +112,10 @@ Door de vereisten voor een verantwoorde inzet van algoritmes niet te communicere
 
 !!! example "Gemeente Amsterdam - Modelbepalingen"
 
-	De gemeente Amsterdam heeft contractvoorwaarden voor algoritmen opgesteld waarin sommige vereisten opgenomen zijn. Hieronder vallen bijvoorbeeld aia-11 “Hoog-risico-AI-systemen zijn voorzien van een kwaliteitsbeheersysteem.” en awb-02 “Organisaties kunnen duidelijk uitleggen waarom en hoe algoritmes leiden tot een besluit”. Deze staan respectievelijk in artikel 6.2 en artikel 5.4 verder uitgewerkt. 
+	De gemeente Amsterdam heeft contractvoorwaarden voor algoritmen opgesteld waarin sommige vereisten opgenomen zijn. Hieronder vallen bijvoorbeeld [“Hoog-risico-AI-systemen zijn voorzien van een kwaliteitsbeheersysteem”](../vereisten/aia-11-systeem-voor-kwaliteitsbeheer.md) en ["Organisaties kunnen duidelijk uitleggen waarom en hoe algoritmes leiden tot een besluit”](../vereisten/awb-02-motiveringsbeginsel.md). Deze staan respectievelijk in artikel 6.2 en artikel 5.4 verder uitgewerkt. 
 	Op dit moment zijn de vereisten impliciet verwerkt in deze voorwaarden in tegenstelling tot een expliciete verwijzing. Het is goed dit explicieter te benoemen zodat de aanbieder hier volledig van op de hoogte is.
 	
-	Meer informatie over [generieke inkoopvoorwaarden die je kunt gebruiken](../hulpmiddelen/inkoopvoorwaarden.md).
+	Gebruik [generieke inkoopvoorwaarden](../hulpmiddelen/inkoopvoorwaarden.md) als template of inspiratie voor andere inkoopvoorwaarden.
 	
 	Bron: [Contractvoorwaarden voor algoritmen - Innovatie](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmes-ai/contractvoorwaarden-algoritmen/)
 

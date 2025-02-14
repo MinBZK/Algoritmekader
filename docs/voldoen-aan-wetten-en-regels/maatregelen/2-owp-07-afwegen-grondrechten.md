@@ -85,7 +85,7 @@ Het risico is dat er grondrechten, anders dan die expliciet beschermd zijn in an
 
 !!! example "Diverse organisaties  - IAMA in Actie"
 
-	In 2024 zijn door Universiteit Utrecht (UU) en Rijks ICT Gilde (RIG) een aantal IAMA-trajecten begeleid bij overheidsorganisaties. Hierbij zijn verschillende sessies geweest per organisatie om alle gedeelten van het IAMA correct te beantwoorden met behulp van de expertise van de UU- of RIG-begeleiders. Bij de sessies is een format aangehouden van 5 uur voor alle IAMA-sessies bij elkaar. In sommige gevallen bleek dit te weinig terwijl in andere gevallen dit voldoende was. Vaak bleek dat er meer tijd nodig was als er nog daadwerkelijke keuzes gemaakt moesten worden. Het is dus belangrijk om goed de tijd te nemen voor een volledig IAMA.
+	In 2023 en 2024 zijn door Universiteit Utrecht (UU) en het [Rijks ICT Gilde (RIG)](https://www.rijksorganisatieodi.nl/rijks-ict-gilde) een aantal IAMA-trajecten begeleid bij overheidsorganisaties. Hierbij zijn verschillende sessies geweest per organisatie om alle gedeelten van het IAMA te beantwoorden met behulp van de expertise van de UU- of RIG-begeleiders. In het rapport [IAMA in Actie](https://www.rijksoverheid.nl/documenten/rapporten/2024/06/20/iama-in-actie-lessons-learned-van-15-iama-trajecten-bij-nederlandse-overheidsorganisaties) worden de bevindingen van deze IAMA-pilots uitgebreid toegelicht.
 
 	Bron: [IAMA in Actie]( https://open.overheid.nl/documenten/47e00e94-be86-4071-8e6e-e3da2a537771/file)
 

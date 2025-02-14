@@ -117,8 +117,7 @@ Er kunnen geen controles of inspecties worden uitgevoerd om te beoordelen of de 
 ## Voorbeelden
 
 !!! example "Gemeente Amsterdam - Modelbepalingen"
-	Gemeente Amsterdam heeft contractvoorwaarden en toelichting geformuleerd waarin verschillende aspecten van inkoop uitgelicht worden. Een onderdeel hiervan is het uitvoeren van audits of andersoortige controles. Hierin is opgenomen hoe deze uitgevoerd worden en wat de voorwaarden zijn.
-	Er staan op dit moment niet expliciet benoemd dat een audit op vereisten geauditeerd kan worden/wordt. Het is dus goed om deze vereisten toe te voegen aan een overeenkomst waarin deze ook benoemd worden als verplichting die nageleefd moeten worden. 
+	Gemeente Amsterdam heeft contractvoorwaarden geformuleerd waarin verschillende aspecten van inkoop uitgelicht worden. Een onderdeel hiervan is het uitvoeren van audits of andersoortige controles. Hierin is opgenomen hoe deze uitgevoerd worden en wat de voorwaarden zijn.
 
 	Meer informatie over [generieke inkoopvoorwaarden die je kunt gebruiken](../hulpmiddelen/inkoopvoorwaarden.md).
   

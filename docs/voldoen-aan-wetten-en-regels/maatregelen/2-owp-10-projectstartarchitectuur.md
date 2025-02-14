@@ -54,7 +54,7 @@ Het algoritme kan niet of na verloop van tijd niet meer functioneren, doordat on
 
 !!! example "Nederlandse Overheid Referentie Architectuur – PSA format"
 	
-	Nederlandse Overheid Referentie Architectuur (NORA) is een platform voor het delen van architecten en beleidsmedewerkers in de Digitale Overheid. Hier worden verschillende onderwerpen aangesneden waaronder ook de praktische implementatie. Zij hebben dan ook zowel een format als een handleiding voor een Project Start Architectuur (PSA) online staan. 
+	Op het platform van de Nederlandse Overheid Referentie Architectuur (NORA) staan zowel een format als een handleiding voor een Project Start Architectuur (PSA). 
 	
 	Deze twee documenten zijn voor iedere organisatie te downloaden en verder uit te werken. Er wordt per hoofdstuk benoemd waar aan gedacht moet worden en hoe dit verder uitgewerkt moet worden.
 	

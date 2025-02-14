@@ -79,8 +79,8 @@ Er zullen veranderingen plaatsvinden in de gebruikscontext, de data en in het al
 ## Voorbeeld
 
 !!! example "UWV - Claim beoordelings- en borgingsysteem"
-	Om te bepalen of iemand nog kan werken en hoeveel maakt het UWV gebruik van een Claim beoordelings- en borgingsysteem (CBBS). Dit systeem bepaalt aan de hand van onder andere de beoordeling van de verzekeringsarts en de UWV-polisadministratie het arbeidsongeschiktheidspercentage. Deze waarde wordt gebruikt als basis om een geschikte baan te vinden voor het individu wat beoordeeld wordt.
-	Het UWV geeft aan CBBS iedere dag te testen om zo te kijken of het goed werkt. Daarnaast wordt er specifiek gecontroleerd na wijzigingen in bijvoorbeeld wet- en regelgeving, functies veranderen of de zwaarte van een functie veranderd. Dit evaluatiebeleid geeft dus aan wat er gecontroleerd wordt en wanneer.
+	Om te bepalen of iemand nog kan werken en hoeveel maakt het UWV gebruik van een 'Claim beoordelings- en borgingsysteem' (CBBS). Dit systeem bepaalt aan de hand van onder andere de beoordeling van de verzekeringsarts en de UWV-polisadministratie het arbeidsongeschiktheidspercentage. Deze waarde wordt gebruikt als basis om een geschikte baan te vinden voor het individu dat beoordeeld wordt.
+	Het UWV geeft aan CBBS iedere dag te testen om zo te kijken of het goed werkt. Daarnaast wordt er specifiek gecontroleerd na wijzigingen in bijvoorbeeld wet- en regelgeving, bij functieveranderingen of als de zwaarte van een functie veranderd. Dit evaluatiebeleid geeft dus aan wat er gecontroleerd wordt en wanneer.
 	
 	Bron: [Claim Beoordelings- en Borgingsysteem]( https://algoritmes.overheid.nl/nl/algoritme/claim-beoordelings-en-borgingsysteem-cbbs-uitvoeringsinstituut-werknemersverzekeringen/21447945)
 

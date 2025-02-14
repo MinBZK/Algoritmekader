@@ -82,7 +82,7 @@ Geen beschikbare bron voor deze maatregel.
 ## Voorbeelden
 !!! example "Communicatiekompas – Bouwstenen van een communicatieplan"
 
-	Vanuit de Rijksoverheid is het communicatiekompas gemaakt voor het ondersteunen van communicatieprofessionals. Hier staat onder andere het hulpmiddel “Bouwstenen van een communicatieplan” waar de losse onderwerpen die in een plan horen worden toegelicht. Hier wordt per onderwerp uitgelegd wat er bij dit onderwerp hoort en waarom dit in het communicatieplan moet staan.
+	Vanuit de Rijksoverheid is het communicatiekompas gemaakt voor het ondersteunen van communicatieprofessionals. Hier staat onder andere het hulpmiddel “Bouwstenen van een communicatieplan” waar de losse onderwerpen die in een plan horen worden toegelicht. Met een communicatieplan kunnen betrokkenen op een goede en tijdige manier worden geïnformeerd.
 
 	Bron: [Bouwstenen van een communicatieplan](https://communicatiekompas.nl/hulpmiddelen/bouwstenen-van-een-communicatieplan)  
 

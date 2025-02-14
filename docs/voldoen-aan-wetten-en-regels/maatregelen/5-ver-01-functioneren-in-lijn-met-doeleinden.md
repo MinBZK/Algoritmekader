@@ -52,8 +52,9 @@ Het algoritme functioneert niet in lijn met geformuleerde doelstellingen.
 
 !!! example "Belastingdienst – Signaal Omzetbelasting Grote Ondernemingen"
 
-	De Belastingdienst controleert aangiftes waaronder omzetbelasting voor grote ondernemingen. Dit doen ze met behulp van het algoritme Signaalmodel OB GO (SOB GO) wat een risicobeoordeling aan aangiftes geeft die hier onder vallen. Het algoritme is intern ontwikkeld en wordt ook intern onderhouden en dus gecontroleerd. Dit gebeurt onder andere aan de hand van de bedrijfsregels binnen de Belastingdienst en een kwaliteitsframework.
-	De bedrijfsregels worden jaarlijks geëvalueerd waarbij ook resultaten uit een steekproef van de aangiften worden meegenomen. Het kwaliteitsframework zijn regels en afspraken die gevolgd moeten worden bij het ontwikkelen van algoritmes, waaronder SOB GO. Dit framework wordt op vaste momenten gebruikt om te kijken of SOB GO nog steeds aan de kwaliteitseisen voldoet.
+	De Belastingdienst controleert aangiftes, waaronder omzetbelasting voor grote ondernemingen. Dit doen ze met behulp van het algoritme Signaalmodel OB GO (SOB GO), dat een risicobeoordeling geeft aan aangiftes die hieronder vallen. Het algoritme is intern ontwikkeld en wordt ook intern onderhouden en gecontroleerd. Dit gebeurt onder andere aan de hand van de bedrijfsregels binnen de Belastingdienst en een kwaliteitsframework.
+	
+	De bedrijfsregels worden jaarlijks geëvalueerd, waarbij ook resultaten uit een steekproef van de aangiften worden meegenomen. Het kwaliteitsframework bestaat uit regels en afspraken die gevolgd moeten worden bij het ontwikkelen van algoritmes, waaronder SOB GO. Dit framework wordt op vaste momenten gebruikt om te kijken of SOB GO nog steeds aan de kwaliteitseisen voldoet.
 	
 	Bron: [Signaalmodel Omzetbelasting Grote Ondernemingen (SOB GO) - Belastingdienst]( https://algoritmes.overheid.nl/nl/algoritme/signaalmodel-omzetbelasting-grote-ondernemingen-sob-go-belastingdienst/62272663)
 

@@ -186,8 +186,10 @@ Dit kan leiden tot een ongelijke behandeling van burgers met eventuele schade vo
 
 !!! example "Algorithm Audit – Addendum Vooringenomenheid voorkomen"
 
-	Algorithm Audit heeft de risicoprofilering in het Controle Uitwonendenbeurs-proces (CUB-proces) onderzocht op verzoek van Dienst Uitvoering Onderwijs (DUO). DUO heeft tussen 2010 en 2023 gebruik gemaakt van een risicoprofiel voor het tegengaan van onrechtmatig gebruik van de uitwonendenbeurs. Dit is in 2023 in opspraak geraakt en DUO heeft verzocht of Algorithm Audit hier verder onderzoek naar te doen.
-	Hieruit bleek dat er inderdaad onvoldoende statistische verband was tussen een aantal selectiecriteria. Dit is gebleken uit een kwantitatieve analyse aan de hand van verschillende onderzoeksvragen. Zij hebben hun analyses ook publiekelijk online staan op [Github](https://github.com/NGO-Algorithm-Audit/DUO-CUB), op deze manier zouden andere organisaties een soortgelijke analyse uit kunnen voeren.
+	Algorithm Audit heeft de risicoprofilering in het Controle Uitwonendenbeurs-proces (CUB-proces) onderzocht op verzoek van Dienst Uitvoering Onderwijs (DUO). DUO heeft tussen 2010 en 2023 gebruik gemaakt van een risicoprofiel voor het tegengaan van onrechtmatig gebruik van de uitwonendenbeurs. Dit is in 2023 in opspraak geraakt en DUO heeft verzocht om hier verder onderzoek naar te doen.
+	
+	Hieruit bleek dat er inderdaad onvoldoende statistisch verband was tussen een aantal selectiecriteria. Dit is gebleken uit een kwantitatieve analyse aan de hand van verschillende onderzoeksvragen. Zij hebben hun analyses ook publiekelijk online gezet op [Github](https://github.com/NGO-Algorithm-Audit/DUO-CUB), zodat andere organisaties een soortgelijke analyse kunnen uitvoeren.
+
 	
 	Bron: [Addendum Vooringenomenheid voorkomen, Algorithm Audit](https://algorithmaudit.eu/nl/algoprudence/cases/aa202402_preventing-prejudice_addendum/)
 
@@ -203,9 +205,9 @@ Dit kan leiden tot een ongelijke behandeling van burgers met eventuele schade vo
  
 !!! example "Rijks ICT Gilde – Bias toetsing 'Kort Verblijf Visa' aanvragen"
 
- 	Het Rijks ICT Gilde (RIG) heeft op verzoek van het Ministerie van Buitenlandse Zaken (BZ) een bias-toetsing uitgevoerd rondom beslissingen van bepaalde visumaanvragen. Hierbij heegt het RIG onderzoek gedaan naar welke typen bias zich voordoen en hoe deze bias verminderd kan worden.
+ 	Het Rijks ICT Gilde (RIG) heeft op verzoek van het Ministerie van Buitenlandse Zaken (BZ) een bias-toetsing uitgevoerd rondom beslissingen van bepaalde visumaanvragen. Hierbij heeft het RIG onderzoek gedaan naar welke typen bias zich voordoen en hoe deze bias verminderd kan worden.
 
- 	Zij hebben een kwantitatief onderzoek gedaan en hieruit bleek dat er aanzienlijk verschil (dus bias) op basis van nationaliteit. Daarom heeft het RIG geadviseerd om het gebruik van profielscore en risicogroepen te beëindigen. 
+ 	Zij hebben een kwantitatief onderzoek gedaan en hieruit bleek dat er aanzienlijk verschil (dus bias) was op basis van nationaliteit. Daarom heeft het RIG geadviseerd om het gebruik van profielscore en risicogroepen te beëindigen. 
 
 	Bron: [Bias toetsing 'Kort Verblijf Visa' aanvragen, Rijks ICT Gilde](https://www.rijksoverheid.nl/documenten/publicaties/2023/04/01/bias-toetsing-kort-verblijf-visa-aanvragen)
 

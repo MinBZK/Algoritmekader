@@ -64,8 +64,8 @@ Als de risicogroep waar een algoritme bij hoort niet wordt bepaald is er een ris
 
 !!! example "Provincie Zuid-Holland - Classificatie Algoritmes"
 
-	Provincie Zuid-Holland maakt gebruik van verschillende algoritmen waaronder Hoog-risico AI-systemen, Impactvolle algoritmes en overige algoritmes. Zij hebben deze gepubliceerd op het algoritme register aan de hand van de drie verschillende publicatiecategorieën. 
-	Deze drie categorieën staan ook in de handreiking voor het Algoritmeregister. Provincie Zuid-Holland heeft dan ook verschillende algoritmes gepubliceerd onder Hoog-risico AI-systeem en verschillende onder Impactvolle Algrotimes.
+	Provincie Zuid-Holland maakt gebruik van verschillende typen algoritmes waaronder hoog-risico AI-systemen, impactvolle algoritmes en overige algoritmes. Zij hebben deze gepubliceerd in het [algoritmeregister](../hulpmiddelen/algoritmeregister.md) aan de hand van de drie verschillende publicatiecategorieën. 
+	Deze drie categorieën staan ook in de handreiking voor het Algoritmeregister.
  
 	Bron: [Provincie Zuid-Holland]( https://algoritmes.overheid.nl/nl/organisatie/provincie-zuid-holland)
 

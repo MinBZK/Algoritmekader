@@ -48,7 +48,7 @@ Hieronder volgen twee voorbeelden van hoe governance effectief kan worden geïnt
 
 !!! example "Ministerie van Volksgezondheid, Welzijn en Sport  - Tool Handelingsruimte Waardevolle AI"
 
-	Het Ministerie van Volksgezondheid, Welzijn en Sport (VWS) heeft een hulpmiddel ontwikkelt voor het begeleiden van het innovatieproces: Tool Handelingsruimte Waardevolle AI. Binnen de tool wordt gebruik gemaakt van verschillende fases waarbij iedere fase een eigen doel in het proces heeft. Zodra een doel afgerond is, is er een faseovergang (gate) met een checklist voordat er naar de volgende fase gegaan kan worden. Hierbij worden verschillende eisen gesteld op het gebied van waarde, toepassing, ethiek, techniek en verantwoordelijkheid. Zodra aan alle eisen is voldaan kan de volgende fase gestart worden. Op deze manier kan bij iedere fase beoordeeld worden of er bijgestuurd moet worden en waar. Dit proces vindt plaats vanaf het begin in de probleemanalyse-fase tot de monitoring- en beheer-fase.
+	Het Ministerie van Volksgezondheid, Welzijn en Sport (VWS) heeft een hulpmiddel ontwikkeld voor het begeleiden van het innovatieproces: _Tool Handelingsruimte Waardevolle AI_. Binnen de tool wordt gebruikgemaakt van verschillende fases waarbij iedere fase een eigen doel in het proces heeft. Zodra een doel afgerond is, is er een faseovergang (gate) met een checklist voordat men naar de volgende fase kan gaan. Hierbij worden verschillende eisen gesteld op het gebied van waarde, toepassing, ethiek, techniek en verantwoordelijkheid. Zodra aan alle eisen is voldaan kan de volgende fase gestart worden. Op deze manier kan bij iedere fase beoordeeld worden of er moet worden bijgestuurd. Dit proces vindt plaats vanaf de [probleemanalyse-fase](../../levenscyclus/probleemanalyse.md) tot [monitoring- en beheer](../../levenscyclus/monitoring-en-beheer.md).
 
 	![Afbeelding](../../afbeeldingen/levenscyclus/modellevenscyclus_vws.png)
 
@@ -56,7 +56,7 @@ Hieronder volgen twee voorbeelden van hoe governance effectief kan worden geïnt
 
 !!! example "UWV - Modellevenscyclus" 
 
-	Het UWV heeft in 2021 haar modellevenscyclus toegelicht in een gepubliceerd beleidsdocument. Hierin wordt uitgelegd dat bij sommige controlepunten ook een stap terug gedaan kan worden in de cyclus als dit nodig blijkt. Bij iedere stap wordt ook een beschrijving gegeven van wat de stap inhoud. Daarnaast wordt ook toegelicht wat de noodzakelijke procedures zijn en wie hier voor verantwoordelijk is. Deze procedures worden ook grafisch toegelicht per stap in de cyclus. Hieronder is een algemeen grafische weergave te zien van de algehele modellevenscyclus bestaande uit 8 stappen.
+	Het UWV heeft in 2021 haar modellevenscyclus toegelicht in een gepubliceerd beleidsdocument. Hierin wordt uitgelegd dat bij sommige controlepunten ook een stap terug gedaan kan worden in de cyclus als dit nodig blijkt. Bij iedere stap wordt een beschrijving gegeven. Daarnaast wordt ook toegelicht wat de noodzakelijke procedures zijn en wie hiervoor verantwoordelijk is. Deze procedures worden ook grafisch toegelicht per stap in de cyclus. Hieronder is een algemeen grafische weergave te zien van de algehele modellevenscyclus bestaande uit 8 stappen.
  
     ![Afbeelding](../../afbeeldingen/levenscyclus/modellevenscyclus_uwv.png)
 

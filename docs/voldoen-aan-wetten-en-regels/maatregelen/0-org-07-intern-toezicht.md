@@ -37,11 +37,9 @@ Het toepassen van een 'three lines of defence' is slechts één aspect van het t
 
 	Het UWV maakt sinds 2012 gebruik van het Three-lines-of-defence model als onderdeel van hun governance. Zij blijven dit model verder aanscherpen binnen hun organisatie waardoor de drie lijnen concreter worden. Zo geven ze aan dat ze toewerken naar meer uniformiteit in rapporteren van risico’s uit de eerste lijn en een meer onafhankelijk oordeel over risico’s en beheersing van de tweede lijn.
 	
-	Daarnaast gaat de tweede lijn meer naar een uitdagende rol in plaats van alleen faciliterend (wat normaal volgens Schuett ook onder lijn drie valt). De derde lijn wordt niet verder toegelicht dus dit zou uitgewerkt kunnen worden.
  	
 	Bron: [Beslisnotitie vaststellen risicomanagementbeleid]( https://www.uwv.nl/overuwv/Images/24-252-beslisnotitie-vaststellen-risicomanagementbeleid.pdf)
 
-Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
 
 !!! example "Gemeente Rotterdam - Kleur Bekennen"
 

@@ -1,7 +1,7 @@
 ---
-title: Gebruik een passende licentie bij publicatie of gebruik van (open) data of algoritmes
+title: Gebruik een passende licentie bij publicatie of gebruik van (open) data
 id: urn:nl:ak:mtr:owk-11
-toelichting: Gebruik bij het publiceren of gebruiken van data of algoritmes een passende licentie die aansluit bij het beoogde doel en de bescherming van burgers. Overweeg hierbij zorgvuldig welke voorwaarden nodig zijn, zoals bronvermelding of het delen onder gelijke voorwaarden.
+toelichting: Gebruik bij het publiceren of gebruiken van data een passende licentie die aansluit bij het beoogde doel en de bescherming van burgers. Overweeg hierbij zorgvuldig welke voorwaarden nodig zijn, zoals bronvermelding of het delen onder gelijke voorwaarden.
 levenscyclus:
 - ontwikkelen
 - dataverkenning-en-datapreparatie
@@ -27,7 +27,7 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-Gebruik bij het publiceren of gebruiken van data of algoritmes een passende licentie die aansluit bij het beoogde doel en de bescherming van burgers. Overweeg hierbij zorgvuldig welke voorwaarden nodig zijn, zoals bronvermelding of het delen onder gelijke voorwaarden.
+Gebruik bij het publiceren of gebruiken van data een passende licentie die aansluit bij het beoogde doel en de bescherming van burgers. Overweeg hierbij zorgvuldig welke voorwaarden nodig zijn, zoals bronvermelding of het delen onder gelijke voorwaarden.
 
 ## Toelichting
 Het kiezen van de juiste licentie is belangrijk bij het publiceren en gebruiken van datasets en algoritmes. Dit zorgt ook voor [betere datakwaliteit (zie o.a. R1.1 uit FAIR)](3-dat-02-fair-data.md). In de huidige digitale samenleving, met name door de opkomst van generatieve AI, is het belangrijk om de balans te vinden tussen openheid en traceerbaarheid.
@@ -43,6 +43,11 @@ Voorbeelden van licenties zijn:
 - Creative Commons BY-SA: Vereist bronvermelding en het delen onder gelijke voorwaarden
 - Creative Commons BY: Vereist alleen bronvermelding
 - Publiek Domein met bronvermeldingsplicht: Voor maximale openheid met behoud van traceerbaarheid
+
+### Licenties voor software en code
+Voor software en algoritmes zijn er specifieke licenties beschikbaar die beter aansluiten bij de publiceren van broncode. [Creative Commons (CC) raadt het gebruik van CC-licenties voor software expliciet af](https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software).
+
+Voor Nederlandse overheidssoftware wordt de European Union Public License (EUPL) als standaard aanbevolen, zoals [beschreven in de bijlage van "Overwegingen bij Open tenzij en Aanpak open source"](https://open.overheid.nl/documenten/ronl-8746885c-59bd-4b0e-a86b-c6fa85d63c9a/pdf). Voor een overzicht en vergelijking van softwarelicenties kan bovendien de website [choosealicense.com geraadpleegd](https://choosealicense.com/licenses/) worden.
 
 ## Risico
 Enkele risico's bij het niet vermelden van de passende licentie:
@@ -64,9 +69,5 @@ Enkele risico's bij het niet vermelden van de passende licentie:
 - [Creative Commons licenties](https://creativecommons.org/licenses/)
 - [Open Data Handboek](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/nieuwe-technologieen-data-en-ethiek/open-data/)
 
-## Voorbeeld
-!!! example "Voorbeeld: Nationaal Archief en licenties op data"
-
-    Het [Nationaal Archief](https://www.nationaalarchief.nl/) kiest ervoor om de CC-BY-SA licentie te gaan gebruiken, om de burger te beschermen tegen oncontroleerbare mis-/desinformatie door bijvoorbeeld generatieve AI die bronvermelding     achterwege laat. Met deze CC-BY-SA licentievorm blijven we [open data](https://www.nationaalarchief.nl/onderzoeken/open-data) publiceren, maar is ‘public domain zonder voorwaarden’ / CC0 niet meer het ultieme doel. Het belangrijkste argument voor het toepassen van de CC-BY-SA licentie is dat het ervoor zorgt dat de burger de hoognodige informatie krijgt die nodig is om mis-/desinformatie te herkennen. Bijkomend voordeel van de CC-BY-SA licentie is o.a. dat die veranderd kan worden wanneer dat in de toekomst nodig zou zijn; in tegenstelling tot de onherroepelijke CC0.
-    
-    Het Nationaal Archief heeft gekozen voor deze Creative Commons licentie (die gelden in zowel auteursrecht als databankrecht en zijn goed machine-leesbaar), maar het kan ook anders. Data kan ook bijvoorbeeld gepubliceerd worden als Publiek Domein met de voorwaarde dat bronvermelding verplicht is voor alle hergebruik.
+## Voorbeelden
+Heb je een  voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

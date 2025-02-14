@@ -34,7 +34,7 @@ Bepaal voor ieder algoritme de [risicogroep en vervolgens welke vereisten daarop
 
 Bepaal ook of er sprake is van [geautomatiseerde besluitvorming of geautomatiseerde risicoselectie](../vereisten/avg-10-recht-op-niet-geautomatiseerde-besluitvorming.md). 
 
-Inventariseren van de algoritmes die gebruikt worden helpt bij:
+Inventariseren van de algoritmes die gebruikt worden, helpt bij:
 
 - Inzicht in de risico's en kansen van het gebruik van algoritmes. 
 - [Het correct registreren van de algoritmes in het Algoritmeregister](6-imp-04-publiceren-algoritmeregister.md)

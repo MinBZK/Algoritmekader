@@ -71,7 +71,6 @@ Het niet betrekken van belanghebbenden bij de ontwikkeling en het gebruik van al
 !!! example "Sociale verzekeringsbank  - Stakeholder analyse instrument"
 
 	De Sociale Verzekeringsbank (SVB) heeft een Ethisch Matrix ontwikkelt waarin gezocht kan worden naar de directe en indirecte stakeholders. Hierbij word gekeken naar de directe en indirecte belangen die geraakt kunnen worden en mogelijke effecten hiervan. Er zijn sessies georganiseerd om te bespreken wat de effecten zijn en welke afwegingen hierin gemaakt dienen te worden om op die manier de behoeften van een project samen te stellen.
-	In dit geval is het matrix gebruikt voor het bevragen van belanghebbenden binnen de organisatie, geen burgers. Voor actieve burger participatie moet hier dus mogelijk anders mee gewerkt worden.
 	
 	Bron: [Algoritmes afwegen](https://www.rathenau.nl/sites/default/files/2022-07/Algoritmes_afwegen_rapport_Rathenau_Instituut.pdf) 
 	Matrix methode: [Ethische matrix](https://husite.nl/open-ict/sdgs-bij-open-ict/sdg-toolbox/ethische-matrix/)

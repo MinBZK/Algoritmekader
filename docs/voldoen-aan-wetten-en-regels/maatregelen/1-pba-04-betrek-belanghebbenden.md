@@ -67,10 +67,25 @@ Het niet betrekken van belanghebbenden bij de ontwikkeling en het gebruik van al
   
 ## Voorbeelden
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
-Er zijn veel verschillende methoden om belanghebbenden te betrekken. Zo kan je bijvoorbeeld werken met persona’s of ‘empathy maps’ maken. Ook kan je focusgroepen houden. Denk dan bijvoorbeeld aan een burgerpanel.
 
-Andere methoden zijn: Methodologie van Waag, Civic AI lab, Stakeholder escalation ladder.
-<!-- moet nog worden aangevuld met uitleg, en linkjes -->
+!!! example "Sociale verzekeringsbank  - Stakeholder analyse instrument"
+
+	De Sociale Verzekeringsbank (SVB) heeft een Ethisch Matrix ontwikkelt waarin gezocht kan worden naar de directe en indirecte stakeholders. Hierbij word gekeken naar de directe en indirecte belangen die geraakt kunnen worden en mogelijke effecten hiervan. Er zijn sessies georganiseerd om te bespreken wat de effecten zijn en welke afwegingen hierin gemaakt dienen te worden om op die manier de behoeften van een project samen te stellen.
+	
+	Bron: [Algoritmes afwegen](https://www.rathenau.nl/sites/default/files/2022-07/Algoritmes_afwegen_rapport_Rathenau_Instituut.pdf) 
+	Matrix methode: [Ethische matrix](https://husite.nl/open-ict/sdgs-bij-open-ict/sdg-toolbox/ethische-matrix/)
+
+
+!!! example "Gemeente Amsterdam  - Amsterdamse Visie op AI"
+	
+	Gemeente Amsterdam heeft een visie op AI ontwikkelt in samenspraak met inwoners. Hierbij hebben ze het belang van de mens centraal gesteld om zo de maatschappelijke toegevoegde waarde te waarborgen. Dit is in samenspraak met onder andere inwoners, bedrijven en kennisinstellingen gedaan om zo het menselijke aspect op een verantwoordelijke manier te implementeren.
+	Bron: [Amsterdamse Visie op AI - Innovatie](https://www.amsterdam.nl/innovatie/amsterdamse-visie-ai)
+
+!!! example "Algemene methoden"
+	Er zijn veel verschillende methoden om belanghebbenden te betrekken. Zo kan je bijvoorbeeld werken met persona’s of ‘empathy maps’ maken. Ook kan je focusgroepen houden. Denk dan bijvoorbeeld aan een burgerpanel.
+	
+	Andere methoden zijn: Methodologie van Waag, Civic AI lab, Stakeholder escalation ladder.
+	<!-- moet nog worden aangevuld met uitleg, en linkjes -->
 
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
 

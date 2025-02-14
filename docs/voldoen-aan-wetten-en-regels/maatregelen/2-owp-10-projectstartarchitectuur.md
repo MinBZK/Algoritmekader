@@ -48,10 +48,23 @@ Het algoritme kan niet of na verloop van tijd niet meer functioneren, doordat on
 - [Project Startarchitectuur,NORA](https://www.noraonline.nl/wiki/PSA_(Project_Startarchitectuur))
 - [PSA Format](https://www.noraonline.nl/images/noraonline/9/96/NORA_PSA_format.odt)
 - [PSA Handleiding](https://www.noraonline.nl/images/noraonline/9/93/NORA-handleiding_voor_het_opstellen_van_een_PSA.odt)
-- Algoritmekader
 
-## Voorbeeld
 
-- [Gemeente Amsterdam - Onderzoekswaardigheid Algoritme ‘Slimme check’](https://algoritmeregister.amsterdam.nl/onderzoekswaardigheid-slimme-check-levensonderhoud) (Een tool die de medewerkers helpt om te bepalen of een aanvraag levensonderhoud onderzoekswaardig is, niet meer in gebruik!): [Start Architectuurnotitie van dit project](https://algoritmeregister.amsterdam.nl/wp-content/plugins/saidot-integratorv2/proxy.php?url=AHn%2B3x1z2imOmm0lOvAus5CVlGVVvJprgQD4cckV1WakmswgAC%2BrBXoElLUqjLFXbQD%2BDhXIfXyZ3PkucbEB8bYD8rpIdh1fkU3iEcm%2FxXU6waCLq20vSGbyXl6UawFq7XJiDRMFN%2BxNwzhI%2F95QAChRcxDzeIa8LP2W35ywKvM8I7gohjeuG9xdZFN5FnS%2FN8tUMXl%2BNJkVrIEciqiCKcbHve9wivl3VdrmOzDQbsQC5xe8HXAv37RzfMcO6eT%2FhL6u5hol%2FUReJGnL9oDr2kfcphEGX%2FSnSW1gCNSQCBn7CBdznwp1m3yE%2Fn66zz%2F0G6CtxyAtc0pASMu8mWrAqLMwzPdKnz7wcfjl3dTwTxQ%3D)
+## Voorbeelden
+
+!!! example "Nederlandse Overheid Referentie Architectuur – PSA format"
+	
+	Op het platform van de Nederlandse Overheid Referentie Architectuur (NORA) staan zowel een format als een handleiding voor een Project Start Architectuur (PSA). 
+	
+	Deze twee documenten zijn voor iedere organisatie te downloaden en verder uit te werken. Er wordt per hoofdstuk benoemd waar aan gedacht moet worden en hoe dit verder uitgewerkt moet worden.
+	
+	Bron: [PSA Format](https://www.noraonline.nl/wiki/PSA_(Project_Startarchitectuur))
+
+
+!!! example "Gemeente Amsterdam – WPI model onderzoekswaardigheid uitkeringsaanvragen"
+	
+	Gemeente Amsterdam heeft bij het ontwikkelen van een analyse algoritme gebruik gemaakt van een Architectuurnotitie, vergelijkbaar met een Project Start Architectuur (PSA). Hierin wordt toegelicht hoe dit project (het algoritme) stand houdt ten opzichte van andere projecten, belanghebbenden en belangrijke documenten (wetgeving). Naast deze toelichting wordt ook uitgelegd hoe het algoritme tot stand komt, bijvoorbeeld: wat zijn de uitgangspunten voor het ontwikkelen, welke risico’s zijn in beeld en hoe worden deze voorkomen, wat is de uiteindelijke doel architectuur, etc. 
+	
+	Bron: [Architectuurnotitie Risicomodel](https://algoritmeregister.amsterdam.nl/onderzoekswaardigheid-slimme-check-levensonderhoud/#:~:text=Architectuurnotitie%20WPI%20Risicomodel%20v1.2.pdf)
 
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

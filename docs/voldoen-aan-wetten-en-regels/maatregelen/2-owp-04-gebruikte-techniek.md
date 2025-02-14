@@ -61,4 +61,19 @@ Wanneer je geen zorgvuldige afweging maakt over de techniek die je gebruikt om h
 - [Toetsingskader Algemene Rekenkamer, 2.04, 2.17](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 
 ## Voorbeelden
+
+!!! example "Douane: Risico detectie aangiften"
+	
+ 	De douane maakt gebruik van een algoritme om te selecteren welke goederen een (extra) controle krijgen. Dit wordt gedaan op basis van aangiftegegevens van bedrijven waarmee mogelijk verhoogde risico’s worden aangegeven. In het algoritmeregister geven zij aan dat dit algoritme gebruik maakt van beslisregels gebaseerd op “if-then-else” combinaties. Zij geven aan dat gedaan wordt om zo aangiften efficiënter te kunnen behandelen en dus mogelijk sneller vrijgegeven kunnen worden.
+	
+ 	Bron: Detecteren risico’s in douaneaangiften voor naleving opiumwetontheffing - Douane
+
+
+!!! example "Provincie Zuid-Holland: Webapplicatie Impactmonitor Brugopening"
+
+	De Provincie Zuid-Holland (PZH) maakt gebruik van een webapplicatie om brugbedieners te ondersteunen bij het optimale moment kiezen voor het openen van de brug. De applicatie voorspelt tot 21 minuten in de toekomst en houd rekening met verkeersdoorstroom en uitstoot.
+	In het algoritmeregister hebben zij in detail uitgelegd welke technieken gebruikt worden. Zij maken gebruik van _Recurring Neural Networks_ (RNNs), een specifieke vorm van Artificiële Neurale Netwerken. Deze worden getraind op tijdserie data wat in dit geval belangrijk is vanwege de afhankelijkheid van drukte op en rondom de brug.
+	
+	Bron: [Webapplicatie Impactmonitor Brugopening - Provincie Zuid-Holland](https://algoritmes.overheid.nl/nl/algoritme/webapplicatie-impactmonitor-brugopening-provincie-zuidholland/96895333)
+
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

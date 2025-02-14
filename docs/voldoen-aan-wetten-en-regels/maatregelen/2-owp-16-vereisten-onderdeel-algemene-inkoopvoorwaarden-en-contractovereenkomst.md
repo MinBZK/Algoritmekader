@@ -103,16 +103,25 @@ Door de vereisten voor een verantwoorde inzet van algoritmes niet te communicere
     <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen 
-<!-- Vul hier de relevante bronnen in voor deze maatregel -->
+
 - [Onderzoekskader Algoritmes Auditdienst Rijk, SV.11](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Specificeren algemene inkoopvoorwaarden](https://www.pianoo.nl/nl/inkoopproces/fase-1-voorbereiden/specificeren/specificeren-algemene-voorwaarden)
 
 
 ## Voorbeelden
-<!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
-- [Contractvoorwaarden gemeente Amsterdam](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/contractvoorwaarden-algoritmen/)
-- [Europese Inkoopvoorwaarden Hoog Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_template_High_Risk%20NL.pdf) 
-- [Europese Inkoopvoorwaarden Laag Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_Template_NON_HIGH_RISK_NL.pdf)
 
+!!! example "Gemeente Amsterdam - Modelbepalingen"
+
+	De gemeente Amsterdam heeft contractvoorwaarden voor algoritmen opgesteld waarin sommige vereisten opgenomen zijn. Hieronder vallen bijvoorbeeld [“Hoog-risico-AI-systemen zijn voorzien van een kwaliteitsbeheersysteem”](../vereisten/aia-11-systeem-voor-kwaliteitsbeheer.md) en ["Organisaties kunnen duidelijk uitleggen waarom en hoe algoritmes leiden tot een besluit”](../vereisten/awb-02-motiveringsbeginsel.md). Deze staan respectievelijk in artikel 6.2 en artikel 5.4 verder uitgewerkt. 
+	Op dit moment zijn de vereisten impliciet verwerkt in deze voorwaarden in tegenstelling tot een expliciete verwijzing. Het is goed dit explicieter te benoemen zodat de aanbieder hier volledig van op de hoogte is.
+	
+	Gebruik [generieke inkoopvoorwaarden](../hulpmiddelen/inkoopvoorwaarden.md) als template of inspiratie voor andere inkoopvoorwaarden.
+	
+	Bron: [Contractvoorwaarden voor algoritmen - Innovatie](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmes-ai/contractvoorwaarden-algoritmen/)
+
+!!! example "Europese Inkoopvoorwaarden"
+
+	- [Europese Inkoopvoorwaarden Hoog Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_template_High_Risk%20NL.pdf) 
+	- [Europese Inkoopvoorwaarden Laag Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_Template_NON_HIGH_RISK_NL.pdf)
 
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

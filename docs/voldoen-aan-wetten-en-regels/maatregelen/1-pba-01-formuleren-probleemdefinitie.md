@@ -43,5 +43,12 @@ Zonder eenduidigheid over het op te lossen probleem is geen sturing op en verant
 
 ## Voorbeelden
 
-Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
+!!! example "Gemeente Meierijstad: Melding openbare ruimte"
+	
+	De gemeente Meierijstad maakt gebruik van een melding systeem Signalen waarin inwoners situaties zoals overlast, gevaarlijke verkeerssituaties of straatmeubulair kunnen melden. De melder moet hierbij de juiste categorie kiezen (bv overlast) maar omdat er veel categorieën waren ging dit niet altijd goed. Dit kon zorgen voor vertraging en dus langere wachttijd of meer meldingen. Tegenwoordig gebruikt de gemeente een algoritme wat de tekst van burgers analyseert en op basis daarvan een categorie bepaalt. Op deze manier hoeft de melder geen categorie meer te kiezen en wordt de vertraging verholpen.
 
+	De gemeente maakt daarnaast gebruik van menselijke controle op meldingen waarbij de categorie met minder dan 40% zekerheid ingedeeld is.
+	
+	Bron: [Meldingen openbare ruimte](https://algoritmes.overheid.nl/nl/algoritme/meldingen-openbare-ruimte-gemeente-meierijstad/26519744) 
+
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 

@@ -68,3 +68,13 @@ Adversarial AI-aanvallen kunnen leiden tot ongewenste misleiding, manipulatie of
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
+
+!!! example "Sandia: Defending against Adversarial Examples"
+    
+    Adversarial aanvallen zijn er zoals hierboven uitgelegd op verschillende manieren wat er ook voor zorgt dat per aanval een andere aanpak nodig is. Sandia, een Amerikaanse nationale veiligheidsorganisatie, heeft onderzoek gedaan naar een aantal van deze aanvallen en is met maatregelen gekomen. De meerderheid van deze maatregelen zijn redelijk technisch en kunnen het beste in context geplaatst worden aan de hand van het artikel.
+    Een maatregel daarentegen kan redelijk gemakkelijk uitgevoerd worden en dat is het analyseren van mogelijke risico’s. Sandia geeft drie categoriën aan: _defensible_, _semi-defensible_, en _indefensible_; respectievelijk verdedigbaar, semi-verdedigbaar en onverdedigbaar. Verdedigbare modellen zijn in de juiste omstandigheden goed te vertrouwen. Semi-verdedigbare modellen hebben minstens één hoog-risico grens waar op een manier omheen gewerkt kan worden. Onverdedigbare modellen geven toegang tot input en output data, vaak zijn dit real-time algoritmes of algoritmes waar de trainingsdata openbaar (toegankelijk) is.
+    In alle drie de gevallen moet voorzichtig omgegaan worden met het ontwerpen, maar in het geval van semi verdedigbaar en onverdedigbaar moet er extra [goed gemonitord worden](7-mon-07-plan-continue-monitoring.md).
+    
+    
+    Bron: [Defending against Adversarial Examples](https://doi.org/10.2172/1569514)
+

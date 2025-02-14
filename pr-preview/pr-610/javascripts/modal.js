@@ -34,10 +34,10 @@ function showModal(event, modalId) {
     loadHTML('../../html/ai-verordening-popup.html', 'modal-content')
     document.getElementById("modal-content-container").classList.add("model-content-auto-size");
   } else if (modalId === "beslishulp") {
-    document.getElementById("modal-content").innerHTML = "<iframe style=\"width: 100%; height: 100%; border: 0; padding: 0; margin: 0; overflow: hidden;\" src=\"../../html/beslishulp.html\"></iframe>"
+    document.getElementById("modal-content").innerHTML = "<iframe style=\"display: block; width: 100%; height: 100%; border: 0; padding: 0; margin: 0; overflow: hidden;\" src=\"../../html/beslishulp.html\"></iframe>"
     document.getElementById("modal-content-container").classList.remove("model-content-auto-size");
     // TODO: remove monitor when new beslishulp is released
-    monitor.start();
+    // monitor.start();
   }
   document.getElementById("modal").classList.remove("display-none");
 }
@@ -103,11 +103,11 @@ function removeLabel(event) {
   currentLabels = currentLabels.filter(v => v !== label_obj.label);
   document.getElementById('labelsInput').value = currentLabels.join(',');
   event.target.remove();
-  filterTable();
   if (currentLabels.length === 0) {
     document.getElementById("ai-act-info-with-labels").classList.add("display-none");
     document.getElementById("ai-act-info-no-labels").classList.remove("display-none");
   }
+  filterTable();
 }
 
 function updateAIActForm() {

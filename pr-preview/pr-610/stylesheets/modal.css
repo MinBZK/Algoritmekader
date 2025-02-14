@@ -1,5 +1,5 @@
 .form {
-    font-size: 18px;
+    font-size: 16px;
 }
 
 .info-label {
@@ -55,20 +55,14 @@
     border-radius: .25em;
     border-color: #154273;
     color: #154273;
-    padding-top: .9em;
-    padding-bottom: .8em;
     text-decoration: none;
 }
 
 .button:hover {
-    -webkit-font-smoothing: antialiased;
-    --swiper-theme-color: #007aff;
-    box-sizing: inherit;
     transition: color 150ms ease-in-out, outline-offset 150ms ease-in-out;
     appearance: none;
     border: 1px solid #e6e6e6;
     display: inline-block;
-    font-family: inherit;
     font-weight: 700;
     line-height: 1;
     margin: 0 .5em .5em 0;
@@ -82,16 +76,58 @@
     word-break: break-word;
     cursor: pointer;
     font-size: 1em;
-    margin-right: 0;
     border-radius: .25em;
     border-color: #154273;
-    padding-top: .9em;
-    padding-bottom: .8em;
     outline: 0;
     box-shadow: 0 0 .75em rgba(21, 66, 115, .4);
     background-color: #fff;
     color: #154273;
     text-decoration: none;
+}
+
+.button--primary {
+    display: inline-block;
+    font-weight: 700;
+    line-height: 1;
+    margin: 0 .5em .5em 0;
+    max-width: 100%;
+    padding: .75em;
+    position: relative;
+    text-align: center;
+    text-shadow: none;
+    user-select: none;
+    vertical-align: middle;
+    word-break: break-word;
+    cursor: pointer;
+    background-color: #154273;
+    border: 1px solid transparent;
+    font-size: 1em;
+    border-radius: .25em;
+    border-color: #154273;
+    color: #fff;
+}
+
+.button--primary:hover {
+    display: inline-block;
+    line-height: 1;
+    margin: 0 .5em .5em 0;
+    max-width: 100%;
+    padding: .75em;
+    position: relative;
+    text-align: center;
+    text-shadow: none;
+    user-select: none;
+    vertical-align: middle;
+    word-break: break-word;
+    cursor: pointer;
+    border: 1px solid transparent;
+    font-size: 1em;
+    border-radius: .25em;
+    border-color: #154273;
+    outline: 0;
+    box-shadow: 0 0 .75em rgba(21,66,115,.4);
+    background-color: #10345c;
+    color: #fff;
 }
 
 .input-text {
@@ -294,7 +330,7 @@
 }
 
 .modal-content {
-    overflow: scroll;
+    overflow: auto;
     position: relative;
     width: 100%;
     height: 100%;

@@ -1,5 +1,5 @@
 ---
-title: Stel vast welke betrokkenen geïnformeerd moeten worden en welke informatie zij nodig hebben. 
+title: Stel vast welke betrokkenen geïnformeerd moeten worden en welke informatie zij nodig hebben 
 id: urn:nl:ak:mtr:owp-31
 toelichting: Het is van belang dat betrokkenen worden geïnformeerd over de ontwikkeling en inzet van algoritmes binnen de organisatie. 
 vereiste:
@@ -48,7 +48,7 @@ Stel bijvoorbeeld de volgende vragen:
 
 Maak bij het vaststellen van de informatiebehoefte onderscheid tussen transparantie, [uitlegbaarheid](2-owp-33-toepassen-uitlegbaarheidstechnieken.md) en interpreteerbaarheid. Houd daarbij ook rekening met zaken die moeten worden gecommuniceerd. Denk hierbij aan het kunnen uitleggen hoe een automatisch genomen besluit tot stand is gekomen, of de mogelijkheid om niet [onderworpen te worden aan geautomatiseerde besluitvorming](../vereisten/avg-10-recht-op-niet-geautomatiseerde-besluitvorming.md).
 
-Stel een communicatieplan op over de ontwikkeling en gebruik van het algoritme. Bepaal vervolgens aan de hand van de levenscyclus wanneer, welke informatie wanneer beschikbaar moet worden gesteld. Stel vast wie verantwoordelijk is voor het opstellen of het leveren van een bijdrage aan deze informatie. In het communicatieplan kunnen verder zaken worden opgenomen als:
+Stel een communicatieplan op over de ontwikkeling en gebruik van het algoritme. Bepaal vervolgens aan de hand van de levenscyclus wanneer welke informatie beschikbaar moet worden gesteld. Stel vast wie verantwoordelijk is voor het opstellen of het leveren van een bijdrage aan deze informatie. In het communicatieplan kunnen verder zaken worden opgenomen als:
 
   - Het doel van het algoritme.
   - Mogelijkheden van het algoritme.
@@ -64,6 +64,10 @@ Stel een communicatieplan op over de ontwikkeling en gebruik van het algoritme. 
 
 Overleg regelmatig met betrokkenen en [belanghebbenden](1-pba-04-betrek-belanghebbenden.md) in hoeverre de informatieverstrekking aansluit bij de (nieuwe) behoeften.
 
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Het risico is dat partijen niet of onvolledig worden geïnformeerd over de ontwikkeling en gebruik van algoritmes en hierdoor hun rechten niet kunnen effectueren of belangen kenbaar kunnen maken.
+
 ## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 
@@ -71,13 +75,11 @@ Overleg regelmatig met betrokkenen en [belanghebbenden](1-pba-04-betrek-belanghe
 ??? expander "Bekijk alle vereisten"
 	<!-- list_vereisten_on_maatregelen_page -->
 
-## Risico 
-<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Het risico is dat partijen niet of onvolledig worden geïnformeerd over de ontwikkeling en gebruik van algoritmes, en hierdoor hun rechten niet kunnen effectueren of belangen kenbaar kunnen maken.
-
+## Bronnen 
+<!-- Vul hier de relevante bronnen in voor deze maatregel -->
+Geen beschikbare bron voor deze maatregel.
   
-## Voorbeeld
-
+## Voorbeelden
 !!! example "Communicatiekompas – Bouwstenen van een communicatieplan"
 
 	Vanuit de Rijksoverheid is het communicatiekompas gemaakt voor het ondersteunen van communicatieprofessionals. Hier staat onder andere het hulpmiddel “Bouwstenen van een communicatieplan” waar de losse onderwerpen die in een plan horen worden toegelicht. Hier wordt per onderwerp uitgelegd wat er bij dit onderwerp hoort en waarom dit in het communicatieplan moet staan.
@@ -99,7 +101,7 @@ Het risico is dat partijen niet of onvolledig worden geïnformeerd over de ontwi
 	Op deze manier wordt duidelijk toegelicht hoe het algoritme gebruikt moet worden en in welke context het werkt. Om het toegankelijk en duidelijk te maken is gekozen voor een video format.
 	
 	Bron: [Keuzehulp Internetoplichting](https://aangifte.politie.nl/iaai-preintake/)  
-
+  
 
 - [Toetsingskader Algemene Rekenkamer, 2.09, 3.13, 3.15](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Bouwstenen van een communicatieplan](https://communicatiekompas.nl/hulpmiddelen/bouwstenen-van-een-communicatieplan)
@@ -109,8 +111,4 @@ Het risico is dat partijen niet of onvolledig worden geïnformeerd over de ontwi
 - [Slimme keuzehulp aangifte internetoplichting: Ik heb iets gekocht, maar niets ontvangen](https://aangifte.politie.nl/iaai-preintake/#/)
 - [Chatbot gemeente Hillegom](https://www.hillegom.nl/chatbot)
 
-
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
-
-## Bronnen 
-<!-- Vul hier de relevante bronnen in voor deze maatregel -->

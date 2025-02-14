@@ -1,5 +1,5 @@
 ---
-title: Pas uitlegbaarheidstechnieken toe en evalueer en valideer deze.
+title: Pas uitlegbaarheidstechnieken toe en evalueer en valideer deze
 id: urn:nl:ak:mtr:owp-33
 toelichting: Uitlegbaarheidstechnieken helpen om de werking van een algoritme transparant te maken.
 vereiste:
@@ -29,7 +29,7 @@ Pas uitlegbaarheidstechnieken toe en evalueer en valideer deze.
 
 ## Toelichting
 Uitlegbaarheidstechnieken helpen om de werking van een algoritme transparant te maken.
-De keuze voor het type algoritme bepaalt hoe transparant je kunt zijn. Van rekenregels kun je namelijk precies uitleggen hoe deze tot een beslissing komen. Maar complexe AI-systemen kunnen een black box zijn. Het is dan onduidelijk hoe deze systemen beslissingen maken. 
+De keuze voor het type algoritme bepaalt hoe transparant je kunt zijn. Van rekenregels kun je namelijk precies uitleggen hoe deze tot een beslissing komen. Aan de andere kant kunnen complexe AI-systemen een black box zijn. Het is dan onduidelijk hoe deze systemen beslissingen maken. 
 
 Afhankelijk van het type algoritme zijn er uitlegbaarheidstechnieken beschikbaar om de werking en keuzes van een algoritme bloot te leggen. Er moet eerst een keuze worden gemaakt welk type algoritme geschikt is gezien de [informatiebehoefte](2-owp-31-informeer-betrokkenen.md). Het is belangrijk om samen met de betrokken partijen vast te leggen welke uitlegbaarheidstechnieken moeten worden toegepast. Bij bronnen kan informatie worden geraadpleegd die helpen bij het vinden van de juiste methodiek.
 
@@ -46,24 +46,17 @@ Vanuit veiligheidsoverwegingen kan bij specifieke algoritmes besloten worden om 
 
 ### Evaluatie en validatie
 
-Evalueer de uitlegbaarheid van het systeem op functionele, operationele, bruikbaarheids- en veiligheidsvereisten in samenwerking met betrokkenen zoals gebruikers. Valideer of de uitkomst van het algoritme begrijpelijk genoeg is voor gebruiker om hier op een verantwoorde wijze mee te werken.
+Evalueer de uitlegbaarheid van het systeem op functionele, operationele, bruikbaarheids- en veiligheidsvereisten in samenwerking met betrokkenen zoals gebruikers. Valideer of de uitkomst van het algoritme begrijpelijk genoeg is voor een gebruiker om hier op een verantwoorde wijze mee te werken.
+
+## Risico
+Als er geen rekening wordt gehouden met de uitlegbaarheid van een algoritme binnen een bepaalde context ontstaat het risico dat de output van het algoritme niet wordt begrepen of verkeerd wordt geïnterpreteerd, wat kan leiden tot onjuist gebruik.
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
 	<!-- list_vereisten_on_maatregelen_page -->
 
-## Risico
-Als er geen rekening wordt gehouden met de uitlegbaarheid van een algoritme binnen een bepaalde context, ontstaat het risico dat de output van het algoritme niet wordt begrepen of verkeerd wordt geïnterpreteerd, wat kan leiden tot onjuist gebruik.
-
-## Voorbeeld
-
-!!! example "Gemeente Amsterdam - Slimme check levensonderhoud" 
-
-	Gemeente Amsterdam heeft in een pilot gebruik gemaakt van een algoritme dat medewerkers helpt om te bepalen of een aanvraag levensonderhoud onderzoekswaardig is. De gemeente heeft ook een document waarin wordt toegelicht hoe verwerkte data gebruikt wordt. Dit is gedaan aan de hand van bijvoorbeeld een belangrijkheids-score per kenmerk. Op deze manier wordt inzichtelijk en uitlegbaar wat de invloed is van individuele kenmerken.
-	
- 	Bron: [Overzicht Verwerkte Data en Features](https://algoritmeregister.amsterdam.nl/onderzoekswaardigheid-slimme-check-levensonderhoud/#:~:text=Overzicht%20Verwerkte%20Data%20en%20Features.pdf)
-
 ## Bronnen
+
 - [Onderzoekskader Auditdienst Rijk, DM.11](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Toetsingskader Algoritmes, Algemene Rekenkamder, 2.04](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Toolkit voor implementatie](https://xaitk.org/)
@@ -75,3 +68,14 @@ Als er geen rekening wordt gehouden met de uitlegbaarheid van een algoritme binn
 - [A Survey of Privacy-Preserving Model Explanations: Privacy Risks, Attacks, and Countermeasures](https://arxiv.org/pdf/2404.00673)
 - [Towards Transparency by Design for Artificial Intelligence | Science and Engineering Ethics](https://link.springer.com/content/pdf/10.1007/s11948-020-00276-4.pdf).
 - [From Anecdotal Evidence to Quantitative Evaluation Methods: A Systematic Review on Evaluating Explainable AI](https://dl.acm.org/doi/pdf/10.1145/3583558)
+
+
+## Voorbeelden
+
+!!! example "Gemeente Amsterdam - Slimme check levensonderhoud" 
+
+	Gemeente Amsterdam heeft in een pilot gebruik gemaakt van een algoritme dat medewerkers helpt om te bepalen of een aanvraag levensonderhoud onderzoekswaardig is. De gemeente heeft ook een document waarin wordt toegelicht hoe verwerkte data gebruikt wordt. Dit is gedaan aan de hand van bijvoorbeeld een belangrijkheids-score per kenmerk. Op deze manier wordt inzichtelijk en uitlegbaar wat de invloed is van individuele kenmerken.
+	
+ 	Bron: [Overzicht Verwerkte Data en Features](https://algoritmeregister.amsterdam.nl/onderzoekswaardigheid-slimme-check-levensonderhoud/#:~:text=Overzicht%20Verwerkte%20Data%20en%20Features.pdf)
+
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 

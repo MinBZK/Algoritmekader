@@ -42,20 +42,20 @@ Maak in de ontwerpfase de volgende afwegingen:
 - **Leg de beargumenteerde keuze vast**
     Leg vast welke keuzes er gemaakt zijn en waarom deze keuzes zijn gemaakt. 
 
-## Bijbehorende vereiste(n)
-??? expander "Bekijk alle vereisten"
-    <!-- list_vereisten_on_maatregelen_page -->
-
 ## Risico
 Wanneer robuustheid niet in het ontwerp wordt meegenomen, kan er voor een model worden gekozen waar het niet mogelijk is robuustheid voldoende te waarborgen.
 Het model wordt dan ofwel ingezet met de risico’s van dien of de innovatie moet later stop gezet worden. 
+
+## Bijbehorende vereiste(n)
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 - [Kenniscentrum Data & Maatschappij, Ethisch principe 2: technische robuustheid en veiligheid](https://data-en-maatschappij.ai/publicaties/ethisch-principe-2-technische-robuustheid-en-veiligheid)
 - [Europese Commissie, Ethische richtsnoeren voor betrouwbare KI](https://digital-strategy.ec.europa.eu/nl/library/ethics-guidelines-trustworthy-ai)
 - [A. Tocchetti et al., A.I. Robustness: a Human-Centered Perspective on Technological Challenges and Opportunities](https://arxiv.org/abs/2210.08906)
 
-## Voorbeeld
+## Voorbeelden
 
-Heb jij een goed voorbeeld? Laat het ons weten!
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
 

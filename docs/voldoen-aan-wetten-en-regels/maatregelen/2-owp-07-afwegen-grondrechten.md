@@ -31,31 +31,35 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-Identificeer welke grondrechten geraakt worden door het in te zetten algoritme en maak een afweging of dit aanvaardbaar is
+Identificeer welke grondrechten geraakt worden door het in te zetten algoritme en maak een afweging of dit aanvaardbaar is.
 
 ## Toelichting 
 <!-- Geef hier een toelichting van deze maatregel -->
 Een algoritme kan invloed hebben op grondrechten. Op een aantal grondrechten kan een algoritme sneller invloed hebben, zoals recht op [persoonsgegevensbescherming](../../onderwerpen/privacy-en-gegevensbescherming.md), recht op behoorlijk bestuur en recht op [gelijke behandeling](../../onderwerpen/bias-en-non-discriminatie.md).
 Deze veelvoorkomende grondrechten krijgen op andere plekken in het Algoritmekader specifieke aandacht. 
-Er zijn echter ook grondrechten die bij minder algoritmen relevant zijn, maar desalniettemin in die gevallen zeer invloedrijk kunnen zijn. 
+Er zijn echter ook grondrechten die bij minder algoritmes relevant zijn, maar desalniettemin in die gevallen zeer invloedrijk kunnen zijn. 
 Het is van belang uiteindelijk een totale afweging te maken van alle grondrechten die (mogelijk) geraakt worden ten opzichte van de voordelen van het in te zetten algoritme. 
 Een voorbeeld van een grondrecht dat minder snel geraakt wordt is bijvoorbeeld een algoritme om hate speech te kunnen detecteren. Zo'n algoritme zal van invloed kunnen zijn op de vrijheid van meningsuiting en het recht op informatie.
 
-Doorloop in lijn met Deel 4 van het [Impact Assessment Mensenrechten en Algoritmes](../hulpmiddelen/IAMA.md) de volgende stappen:
+Doorloop in lijn met deel 4 van het [Impact Assessment Mensenrechten en Algoritmes](../hulpmiddelen/IAMA.md) de volgende stappen:
 
 1. Breng in kaart welke grondrechten geraakt kunnen worden door de inzet van het algoritme. Hiervoor kan [bijlage 1 uit het Impact Assessment Mensenrechten en Algoritmes](../hulpmiddelen/IAMA.md) gebruikt worden.
 2. Als dat het geval is, is het allereerst van belang om te controleren of hiervoor specifieke wetgeving is waar de inzet van het algoritme aan moet voldoen.
 3. Bepaal hoe zwaar de geindentificeerde grondrechten worden geraakt door het beoogde algoritme.
 4. Bepaal hoe [doeltreffend/effectief](5-ver-01-functioneren-in-lijn-met-doeleinden.md) het algoritme in de praktijk is.
 5. Bepaal of de inzet van het algoritme noodzakelijk is om het [beoogde doel](1-pba-02-formuleren-doelstelling.md) te bereiken. Zijn er alternatieven? Of zijn er mitigerende maatregelen die genomen kunnen worden waardoor grondrechten niet of minder worden geraakt en eventuele nadelige gevolgen verzacht kunnen worden?
-6. Gegeven alle voorgaande stappen, bepaal of de inzet van het algoritme en proportioneel is om het [beoogde doel](1-pba-02-formuleren-doelstelling.md) te bereiken. Wegen de voordelen op tegen de nadelen?
+6. Gegeven alle voorgaande stappen, bepaal of de inzet van het algoritme proportioneel is om het [beoogde doel](1-pba-02-formuleren-doelstelling.md) te bereiken. Wegen de voordelen op tegen de nadelen?
 
 Het is van belang voldoende [belanghebbenden te betrekken](1-pba-04-betrek-belanghebbenden.md) bij het doorlopen van deze stappen om te zorgen dat alle eventueel nadelige aspecten van het in te zetten algoritme worden meegenomen. 
-Documenteer de doorlopen stappen en leg de keuzes en afwegingen goed vast. 
+Documenteer de te doorlopen stappen en leg de keuzes en afwegingen goed vast. 
 
 !!! note "Opmerking"
 
     Zoals vermeld in de [vereiste voor beoordeling van gevolgen voor grondrechten uit de AI-verordening](../vereisten/aia-27-beoordelen-gevolgen-grondrechten.md) moeten sommige hoog-risico AI-systemen een beoordeling doen van de gevolgen voor grondrechten. Het is nog niet bekend welke vorm dit precies moet hebben.
+
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Het risico is dat er grondrechten, anders dan die expliciet beschermd zijn in andere maatregelen en vereisten, aangetast worden. 
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
@@ -63,13 +67,14 @@ Documenteer de doorlopen stappen en leg de keuzes en afwegingen goed vast.
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
-## Risico 
-<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Het risico is dat er grondrechten, anders dan die expliciet beschermd zijn in andere maatregelen en vereisten, aangetast worden.
 
-## Voorbeeld
-<!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
+## Bronnen 
+<!-- Vul hier de relevante bronnen in voor deze maatregel -->
+- [Impact Assessment Mensenrechten en Algoritmes, deel 4](../hulpmiddelen/IAMA.md)
+- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.4](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 
+
+## Voorbeelden
 
 !!! example "Gemeente Rotterdam – Evaluatierapport governance algoritmetoepassingen"
 
@@ -83,12 +88,6 @@ Het risico is dat er grondrechten, anders dan die expliciet beschermd zijn in an
 	In 2024 zijn door Universiteit Utrecht (UU) en Rijks ICT Gilde (RIG) een aantal IAMA-trajecten begeleid bij overheidsorganisaties. Hierbij zijn verschillende sessies geweest per organisatie om alle gedeelten van het IAMA correct te beantwoorden met behulp van de expertise van de UU- of RIG-begeleiders. Bij de sessies is een format aangehouden van 5 uur voor alle IAMA-sessies bij elkaar. In sommige gevallen bleek dit te weinig terwijl in andere gevallen dit voldoende was. Vaak bleek dat er meer tijd nodig was als er nog daadwerkelijke keuzes gemaakt moesten worden. Het is dus belangrijk om goed de tijd te nemen voor een volledig IAMA.
 
 	Bron: [IAMA in Actie]( https://open.overheid.nl/documenten/47e00e94-be86-4071-8e6e-e3da2a537771/file)
-
-
-## Bronnen 
-<!-- Vul hier de relevante bronnen in voor deze maatregel -->
-- [Impact Assessment Mensenrechten en Algoritmes, deel 4](../hulpmiddelen/IAMA.md)
-- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.4](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 
 
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

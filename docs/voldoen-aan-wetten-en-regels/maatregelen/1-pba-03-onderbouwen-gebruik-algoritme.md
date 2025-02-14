@@ -47,7 +47,7 @@ Het algoritme is niet het juiste middel om het probleem op te lossen. Het risico
 - [Onderzoekskader Algoritmes Auditdienst Rijk, SV.2](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Handreiking identificatie verboden AI-systemen (Powerpoint-bestand)](https://github.com/user-attachments/files/18179740/Handreiking_Uitvraag_VBSystemen.pptx)
 
-## Voorbeeld
+## Voorbeelden
 
 !!! example "Politie - HAVANK"
 	De politie maakt voor het identificeren van personen gebruik van vingerafdrukken. In Het Automatisch Vingerafdrukkensysteem Nederlandse Kollektie (HAVANK) worden vinger en handpalmafdrukken verwerkt. Het algoritme controleert of de gegeven vingerafdruk of er een andere afdruk is die overeenkomt op basis van een score. Asl de score hoger is dan een bepaalde waarde wordt dit gezien als overeenkomstig en anders niet.
@@ -55,4 +55,4 @@ Het algoritme is niet het juiste middel om het probleem op te lossen. Het risico
 	
 	Bron: [HAVANK - Politie](https://algoritmes.overheid.nl/nl/algoritme/havank-politie/84289214) 
 
-Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)  
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

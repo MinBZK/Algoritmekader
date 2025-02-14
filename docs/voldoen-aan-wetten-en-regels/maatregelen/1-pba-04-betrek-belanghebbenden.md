@@ -39,11 +39,16 @@ Bij wie liggen de voordelen en bij wie liggen de nadelen?
 Ga in gesprek met deze belanghebbenden - al dan niet vertegenwoordigd door belangenorganisaties zoals burgerrechtenorganisaties - over het te ontwerpen algoritme en de context waarin het gebruikt wordt. Zij kunnen waardevolle inzichten en wensen delen, wat kan bijdragen aan een betere werking van het algoritme. 
 
 Enkele voorbeelden hierbij zijn:
+
 - Het betrekken van burgers bij het ontwerpen van een algoritme in de ontwerpfase. 
 - Het bespreken welke definitie en metriek van _fairness_ past bij de context met de proceseigenaar en een ethicus.
 - Het betrekken van domeinexperts in de fase van dataverkenning en datapreparatie, om zo in kaart te brengen wat de data features betekenen en waar zij vandaan komen.
 - Het betrekken van eindgebruikers bij het ontwikkelen en het implementeren van het algoritme.
-- Het betrekken van belanghebbenden bij het monitoren en evalueren van het algoritme. 
+- Het betrekken van belanghebbenden bij het monitoren en evalueren van het algoritme.
+
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Het niet betrekken van belanghebbenden bij de ontwikkeling en het gebruik van algoritmes kan ertoe leiden dat belangrijke inzichten of perspectieven niet worden verwerkt en het algoritme onjuist gaat functioneren. 
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
@@ -60,11 +65,7 @@ Enkele voorbeelden hierbij zijn:
 - [Onderzoekskader Algoritmes Auditdienst Rijk, SV.10](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)      
 - [Framework for Meaningful Engagement](../hulpmiddelen/framework-meaningful-engagement.md)
   
-## Risico 
-<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Het niet betrekken van belanghebbenden bij de ontwikkeling en het gebruik van algoritmes, kan ertoe leiden dat belangrijke inzichten of perspectieven niet worden verwerkt en het algoritme onjuist gaat functioneren. 
-
-## Voorbeeld
+## Voorbeelden
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
 
 !!! example "Sociale verzekeringsbank  - Stakeholder analyse instrument"

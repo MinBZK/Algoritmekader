@@ -1,6 +1,6 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Laat de aanbieder aangeven welke mate van opleiding en ondersteuning bij de implementatie nodig is om de beoogde algoritmes verantwoord te gebruiken.  
+title: Laat de aanbieder aangeven welke mate van opleiding en ondersteuning bij de implementatie nodig is om de beoogde algoritmes verantwoord te gebruiken  
 id: urn:nl:ak:mtr:owp-26
 # geef hier een korte toelichting van deze maatregel
 toelichting: Beoordeel of de kennisoverdracht en ondersteuning van aanbieder voldoende is om voor een langere periode zelfstandig op een verantwoorde wijze gebruikt te kunnen maken van de algoritmes. 
@@ -34,19 +34,20 @@ Laat de aanbieder aangeven welke mate van kennisoverdracht (opleiding en trainin
 ## Toelichting
 Beoordeel of de kennisoverdracht en ondersteuning van aanbieder voldoende is om voor een langere periode zelfstandig op een verantwoorde wijze gebruikt te kunnen maken van de algoritmes.
 
-Laat de aanbieder aangeven op welk niveau de noodzakelijkerwijs te leveren trainingen passend is voor het beoogde gebruik, waarbij de opdrachtgever vooraf inzicht geeft in het bestaande niveau, zodat een aanbieder concreet kan zijn over eventuele verschillen tussen beiden.
+Laat de aanbieder aangeven op welk niveau de noodzakelijkerwijs te leveren trainingen passend zijn voor het beoogde gebruik, waarbij de opdrachtgever vooraf inzicht geeft in het bestaande niveau zodat een aanbieder concreet kan zijn over eventuele verschillen tussen beiden.
+
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Zonder kennisoverdracht aan de organisaties en gebruikers ontstaat het risico dat algoritmes onjuist worden toegepast of dat de output onjuist wordt geïnterpreteerd en zo fouten ontstaan bij het uitvoeren van overheidstaken.
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
-## Risico 
-<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Zonder kennisoverdracht aan de organisaties en gebruikers, ontstaat het risico's dat algoritmes onjuist worden toegepast of dat de output onjuist wordt geïnterpreteerd en zo fouten ontstaan bij het uitvoeren van overheidstaken.
-
 ## Bronnen
+Geen beschikbare bron voor deze maatregel.
 
-## Voorbeeld
+## Voorbeelden
 
-Heb jij een goed voorbeeld? Laat het ons weten!
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
 

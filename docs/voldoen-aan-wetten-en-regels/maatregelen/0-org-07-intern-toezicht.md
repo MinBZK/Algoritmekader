@@ -32,6 +32,17 @@ Schuett (2022) presenteert het three lines of defence model als volgt:
 
 Het toepassen van een 'three lines of defence' is slechts één aspect van het toepassen van algoritmegoverance. 
 
+## Risico
+Een risico van het vermijden van het three lines of defence model is dat er stappen worden overgeslagen bij het ontwikkelen van een algoritmegovernance. 
+
+## Bijbehorende vereiste(n)
+
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
+
+## Bronnen
+Geen beschikbare bron voor deze maatregel.
+
 ## Voorbeelden
 !!! example "UWV - Risicomanagementbeleid"
 
@@ -51,4 +62,5 @@ Het toepassen van een 'three lines of defence' is slechts één aspect van het t
 
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
 
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
 

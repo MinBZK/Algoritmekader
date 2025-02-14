@@ -30,6 +30,9 @@ Breng de volwassenheid van je organisatie op het gebied van algoritmes in kaart.
 -   Het is aan te raden om verantwoordelijkheden te beleggen voor het realiseren van algoritmegovernance.
 
 
+## Risico
+Als je niet een goed beeld hebt van waar de organisatie staat, is het moeilijk te peilen welke richting gekozen moet worden en kan dit leiden tot het doen van dubbel werk.
+
 ## Bijbehorende vereiste(n) { data-search-exclude }
 
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
@@ -38,11 +41,10 @@ Breng de volwassenheid van je organisatie op het gebied van algoritmes in kaart.
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
-## Risico
+## Bronnen
+Geen beschikbare bron voor deze maatregel.
 
-<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-
-## Voorbeelden van volwassenheidsmodellen
+## Voorbeelden
 
 
 !!! example "Voorbeeld: Interbestuurlijke Datastrategie - Datavolwassenheidsmodel"
@@ -92,6 +94,3 @@ Breng de volwassenheid van je organisatie op het gebied van algoritmes in kaart.
 	Bron: [Implementatiestrategie Digitale-Ethiek](https://overijssel.notubiz.nl/modules/1/Ingekomen%20stukken/944710) 
     
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
-
-
-## Bronnen

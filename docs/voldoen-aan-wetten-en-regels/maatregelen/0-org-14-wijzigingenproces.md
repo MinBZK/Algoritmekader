@@ -55,7 +55,7 @@ Als een formeel wijzigingenproces ontbreekt bestaat het risico van ongeautorisee
 - [Onderzoekskader Algoritmes Auditdienst Rijk, IB.1 t/m IB.5](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 4.07](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) 
 
-## Voorbeeld
+## Voorbeelden
 
 !!! example "Informatie Beveiligingsdienst - Aanwijzing Logging"
 	
@@ -66,3 +66,4 @@ Als een formeel wijzigingenproces ontbreekt bestaat het risico van ongeautorisee
 	Bron: [Handreiking Logging](https://www.informatiebeveiligingsdienst.nl/product/aanwijzing-logging/)
 
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
+

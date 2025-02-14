@@ -1,5 +1,5 @@
 ---
-title: Richt algoritmegovernance op basis van de risicoclassificatie van algoritmes 
+title: Richt algoritmegovernance in op basis van de risicoclassificatie van algoritmes
 id: urn:nl:ak:mtr:org-09
 toelichting: Stem algoritmegoverance af op basis van de betreffende risicoclassifcatie van een algoritme. 
 levenscyclus:
@@ -20,13 +20,13 @@ hide:
 Richt algoritmegovernance in op basis van de risicoclassificatie van algoritmes.
 
 ## Toelichting
+
 - Er is een verschil in de vereisten die van toepassing zijn op type algoritmes. Dit is mede afhankelijk van de risioclassificatie en de impact van het algoritme op betrokkenen.
 - Zo zullen op basis van de AI-verordening meer vereisten moeten worden nageleefd bij hoog-risico AI-systemen, dan voor een AI-systeem met een beperkt risico. 
 - Dit betekent dat algoritmegovernance uitgebreider moet zijn voor de risicovollere, complexere toepassingen dan voor de eenvoudige, niet-risicovolle toepassingen.
-
-- Stel daarom tijdig vast om welk type algoritme het gaat en welke vereisten hiervoor gelden. Dat draagt eraan bij dan alleen wordt gefocust op het realiseren van de vereisten waar daadwerkelijk aan moet worden voldaan. Dit zorgt ervoor dat projecten sneller kunnen worden gerealiseerd.
-- Let op dat niet enkel naar de AI-verordening wordt gekeken. Ook op impactvolle algoritmes die niet vallen onder het bereik van de AI-Verordening zijn ook vereisten van toepassing, en moet algoritmegovernance op worden toegepast.
-- Is algoritmegovernance nieuw bij jouw organisatie, dan kan het helpen om een use case met beperkt risico grondig te doorlopen om hiervan te leren.
+- [Stel daarom tijdig vast om welk type algoritme het gaat](2-owp-05-soort-algoritme.md) en welke vereisten hiervoor gelden. Dat draagt eraan bij dan alleen wordt gefocust op het realiseren van de vereisten waar daadwerkelijk aan moet worden voldaan. Dit zorgt ervoor dat projecten sneller kunnen worden gerealiseerd.
+- Let op dat niet enkel naar de AI-verordening wordt gekeken. Ook op impactvolle algoritmes die niet vallen onder het bereik van de AI-verordening zijn vereisten van toepassing, en moet algoritmegovernance op worden toegepast.
+- Is algoritmegovernance nieuw bij jouw organisatie, dan kan het helpen om een use-case met beperkt risico grondig te doorlopen om hiervan te leren.
 
 ## Risico 
 Een risico dat kan voortkomen uit het niet hanteren van de verschillende risicoclassificaties is dat er aan meer vereisten wordt voldaan dan nodig is bij sommige types algoritmes, wat kan leiden tot onnodig werk.

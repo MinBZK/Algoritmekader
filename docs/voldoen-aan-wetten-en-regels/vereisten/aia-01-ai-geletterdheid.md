@@ -1,5 +1,5 @@
 ---
-title: Personeel en gebruikers zijn voldoende AI-geletterd.
+title: Personeel en gebruikers zijn voldoende AI-geletterd
 id: urn:nl:ak:ver:aia-01
 toelichting: Aanbieders en gebruiksverantwoordelijken van AI-systemen moeten ervoor zorgen dat hun personeel en andere betrokkenen voldoende kennis hebben van AI. 
 levenscyclus: 
@@ -42,9 +42,18 @@ Het doel is om een adequaat niveau van begrip en vaardigheden te waarborgen, wat
 
 Vanaf februari 2025 treedt deze vereiste in werking. 
 
+!!! tip "Tip"
+
+    De Autoriteit Persoonsgegevens schreef een document over hoe je [aan de slag kan gaan met AI-geletterheid](https://www.autoriteitpersoonsgegevens.nl/documenten/aan-de-slag-met-ai-geletterdheid) bij jouw organisatie. 
+
+!!! tip "Tip"
+
+    Het AI-bureau van de EU heeft een aantal van de lopende best practices verzameld met als doel een [levend archief aan te leggen met voorbeelden van lopende praktijken op het gebied van AI-geletterdheid](https://digital-strategy.ec.europa.eu/en/library/living-repository-foster-learning-and-exchange-ai-literacy).
+
 ## Bronnen 
 
-[Artikel 4 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e2799-1-1)
+- [Artikel 4 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e2799-1-1)
+- [Aan de slag met AI-geletterdheid, Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/documenten/aan-de-slag-met-ai-geletterdheid)
 
 ## Van toepassing op 
 <!-- tags-ai-act -->

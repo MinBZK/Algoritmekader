@@ -25,15 +25,18 @@ Taken en verantwoordelijkheden zijn toebedeeld in de algoritmegovernance.
 - Bij het vormgeven van een doeltreffende algoritmegovernance is het beleggen van expliciete taken en verantwoordelijkheden cruciaal.
 - Het beleggen van deze taken en verantwoordelijkheden zorgt voor een actiegerichte structuur waarin duidelijkheid bestaat over wie wanneer aan zet is.
 - Denk hierbij aan het opstellen van een RACI-matrix en pas dit binnen de organisatie toe per risicoclassificatie voor algoritmes. 
-- Rollen en verantwoordelijkheden kunnen worden gekoppeld aan de vereisten en maatregelen die moeten worden gerealiseerd in de verschillende fasen van de levenscyclus van een algoritme.
+- Rollen en verantwoordelijkheden kunnen worden gekoppeld aan de [vereisten](../vereisten/index.md) en [maatregelen](../maatregelen/index.md) die moeten worden gerealiseerd in de verschillende [fasen van de levenscyclus](../../levenscyclus/over-de-levenscyclus.md) van een algoritme.
 - Organisaties zullen zelf moeten beoordelen welke taken en verantwoordelijkheden ze willen koppelen aan de beschikbare (of nieuwe) rollen binnen hun organisaties.  
 - Zie hieronder een mogelijk voorbeeld van hoe dit eruit kan zien. 
 
 ![Format](https://github.com/user-attachments/assets/3debe7b6-0c42-40f5-a366-9cc5cc90cd3e)
 
+De rollen en verantwoordelijkheden voor reguliere algoritmes en AI kunnen anders zijn dan voor generatieve AI. Waar het gebruik van reguliere algoritme en Al-toepassingen duidelijk onder de verantwoordelijkheid van het management valt, wordt er bij hulpmiddelen die gebruik maken van generatieve AI meer verantwoordelijkheid gevraagd van betrokken medewerkers. Hier wordt vaak ingezet om te zorgen voor bewustwording van verantwoord gebruik van deze technologie bij verschillende medewerkers. 
+
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
 Een risico dat kan worden gemitigeerd met behulp van deze maatregel is dat het werkproces rondom algoritmegovernance niet efficiënt is ingedeeld en bijvoorbeeld kan leiden tot dubbele werkzaamheden of overzicht verliezen.
+
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

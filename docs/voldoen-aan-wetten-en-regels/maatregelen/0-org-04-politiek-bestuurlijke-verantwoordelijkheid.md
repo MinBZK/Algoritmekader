@@ -1,5 +1,5 @@
 ---
-title: Zorg voor politiek-bestuurlijk bewustzijn, betrokkenheid en verantwoordelijkheid
+title: Zorg voor politiek-bestuurlijk bewustzijn, betrokkenheid, en verantwoordelijkheid
 id: urn:nl:ak:mtr:org-04
 toelichting: Zorg voor politiek-bestuurlijk bewustzijn, betrokkenheid en verantwoordelijkheid. Zorg dat bestuurders bewust zijn van de voor- en nadelen van de inzet van algoritmes en daarnaar kunnen handelen.
 levenscyclus:
@@ -20,14 +20,17 @@ hide:
 Zorg voor politiek-bestuurlijk bewustzijn, betrokkenheid en verantwoordelijkheid. 
 
 ## Toelichting
-- Voor een passende algoritmegovernance is politiek-bestuurlijk bewustzijn, betrokkenheid en verantwoordelijkheid essentieel. 
-- De kernvraag voor publieke organisaties bij de inzet van algoritmen is altijd: Hoe wegen we (als publieke organisatie of samenleving) de voordelen en nadelen van de inzet van algoritmen? 
-- Dit is per definitie een kwalitatieve en politieke vraag.
-- Dit gaat niet alleen over direct opbrengsten maar ook over lange termijn en indirecte effecten, de mate waarin de inzet van technologie bijdraagt aan de legitimiteit van publieke organisatie en hoe burgers met deze technologie worden bejegend. 
-- Om te zorgen voor politiek-bestuurlijke betrokkenheid kan het helpen om een [meerjarige visie/strategie rondom verantwoorde inzet](0-org-02-beleid-opstellen-inzet-algoritmes.md) te formuleren waar een communicatiestrategie richting burgers onderdeel van is.
-- Zorg ervoor dat bestuurders bewust zijn van de voor- en nadelen van de inzet van algoritmes en daarnaar kunnen handelen.
-- Dit ondersteunt teams bij het maken van de juiste overwegingen bij de ontwikkeling en gebruik van algoritmes. Het geeft ook inzicht wanneer de politiek of bestuurlijk verantwoordelijke(n) moeten worden betrokken bij het project om beslissingen te nemen, bijvoorbeeld of de mate van onbewuste vooringenomenheid (bias) binnen acceptabele grenzen ligt. 
-- Het doorlopen van een concrete casus voor de ontwikkeling en het gebruik van een algoritme, inclusief het uitvoeren van een IAMA, kan waardevolle informatie geven om een meerjarige visie of strategie op te stellen.
+Voor een passende algoritmegovernance is politiek-bestuurlijk bewustzijn, betrokkenheid en verantwoordelijkheid essentieel. 
+Het maken van verantwoorde keuzes rond de inzet van specifieke algoritmen en AI en het vinden van balans tussen voordelen en risico's, juridische vereisten en ethische principes vraagt om een bestuurlijke afweging. Daarmee is ook het opstellen van een goede governancestructuur een bestuurlijke verantwoordelijkheid. 
+Zorg ervoor dat bestuurders bewust zijn van de voor- en nadelen van de inzet van algoritmes en daarnaar kunnen handelen.
+Het opstellen van een juiste governancestructuur helpt teams bij het maken van de juiste overwegingen bij de ontwikkeling en gebruik van algoritmes. Het geeft ook inzicht wanneer de politiek of bestuurlijk verantwoordelijke(n) moeten worden betrokken bij het project om beslissingen te nemen, bijvoorbeeld of de mate van onbewuste vooringenomenheid (bias) binnen acceptabele grenzen ligt. 
+
+De kernvraag voor publieke organisaties bij de inzet van algoritmen is altijd: Hoe wegen we (als publieke organisatie of samenleving) de voordelen en nadelen van de inzet van algoritmen? 
+Dit gaat niet alleen over direct opbrengsten maar ook over lange termijn en indirecte effecten, de mate waarin de inzet van technologie bijdraagt aan de legitimiteit van publieke organisatie en hoe burgers met deze technologie worden bejegend. 
+
+Om te zorgen voor politiek-bestuurlijke betrokkenheid kan het helpen om een [meerjarige visie/strategie rondom verantwoorde inzet](0-org-02-beleid-opstellen-inzet-algoritmes.md) te formuleren waar een communicatiestrategie richting burgers onderdeel van is.
+Het doorlopen van een concrete casus voor de ontwikkeling en gebruik van een algoritme, inclusief het uitvoeren van een IAMA, kan waardevolle informatiegeven om een meerjarige visie of strategie op te stellen. 
+
 
 ## Risico 
 Het verwaarlozen van politiek-bestuurlijk bewustzijn, betrokkenheid en verantwoordelijkheid kan leiden tot een het ontwikkelen van algoritmegovernance dat op de lange termijn niet effectief inzetbaar is. 

@@ -11,7 +11,7 @@ vereiste:
 - avg-05-juistheid-en-actualiteit-van-persoonsgegevens
 - avg-11-privacy-bij-ontwerp-bij-verwerking-van-persoonsgegevens
 - avg-07-transparantie-bij-verwerken-persoonsgegevens
-- aia-35-verwerking-in-testomgeving
+- aia-33-verwerking-in-testomgeving
 - bio-01-beveiliging-informatie-en-informatiesystemen
 levenscyclus:
 - monitoring-en-beheer

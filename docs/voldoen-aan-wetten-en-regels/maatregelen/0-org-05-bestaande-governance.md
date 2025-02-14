@@ -1,5 +1,5 @@
 ---
-title: Sluit algoritmegovernance aan op bestaande governancestructuren binnen de organisatie.
+title: Sluit algoritmegovernance aan op bestaande governancestructuren binnen de organisatie
 id: urn:nl:ak:mtr:org-05
 toelichting: Onderzoek binnen de organisatie welke governancestructuren er al zijn en hoe algoritmegovernance daarop kan aansluiten. Communicatie en samenwerking tussen organisatieonderdelen is doorlopend van groot belang.
 
@@ -38,7 +38,7 @@ Deze governancestructuren kunnen waardevolle aanknopingspunten bieden voor algor
 In veel organisaties werken bijvoorbeeld privacy- en informatiebeveiliging en informatiebeheerders nauw samen van strategisch organisatieniveau tot operationeel, omdat deze onderwerpen raken aan beide domeinen. 
 Voor een verantwoorde inzet van algoritmes zullen deze expertise moeten gaan samengewerkt met andere expertise, zoals die van data science en ethiek.
 Het is van belang dat deze expertises tijdig en voldoende ruimte krijgen om samen te werken, zodat de functionele en niet functionele requirements kunnen worden gedefinieerd voor een verantwoorde inzet van algoritmes.  
-Stel vast waar deze expertise elkaar nodig hebben en waar deze zelfstandige taken en verantwoordelijkheden hebben. 
+Stel vast waar deze expertises elkaar nodig hebben en waar deze zelfstandige taken en verantwoordelijkheden hebben. 
 Voorgaande geeft inzichten om te bepalen in hoeverre algoritmegovernance, naast de bestaande governancestructuren, moet worden ingericht.
 
 De volgende vragen kunnen bedragen om bovenstaande inzichtelijk te krijgen:
@@ -47,13 +47,15 @@ De volgende vragen kunnen bedragen om bovenstaande inzichtelijk te krijgen:
 - Is er iemand intern verantwoordelijk gemaakt voor (toezicht op) algoritmes?
 - Hoe werken experts vanuit verschillende onderwerpen zoals privacy, informatiebeheer, informatiebeveiliging en data op dit moment samen als het gaat om de inzet van algoritmes?
 
+
 ### Governance van andere sectoren
 Andere sectoren hebben in veel gevallen al governancestructuren met vergelijkbare elementen. Denk aan governancestructuren uit de verzekeringssector of de bankensector. 
 
 ### Aansluiting met andere overheidsorganisaties
 Probeer aansluiting te zoeken met vergelijkbare overheidsorganisaties. 
 
-## Bronnen
+## Risico 
+Als er bij de bestaande governancestructuren geen rekening wordt gehouden met het invoeren van algoritmegovernance is er een risico dat verantwoord gebruik van algoritmes niet genoeg wordt overwogen binnen de organisatie.
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
@@ -62,8 +64,8 @@ Probeer aansluiting te zoeken met vergelijkbare overheidsorganisaties.
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
-## Risico 
-<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+## Bronnen
+Geen beschikbare bron voor deze maatregel.
 
 ## Voorbeelden
 
@@ -90,4 +92,3 @@ Probeer aansluiting te zoeken met vergelijkbare overheidsorganisaties.
 	Bron: [Handreiking gezamenlijk gebruik IAMA en Model DPIA Rijksdienst](https://www.cip-overheid.nl/media/av0dmahv/20230614-gezamenlijk-gebruik-iama-en-model-dpia-rijksdienst-v1-0.pdf)
  
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
-

@@ -36,7 +36,7 @@ hide:
 - Het is van belang dat een proces wordt ingericht waarmee periodiek de kwaliteit van algoritmes wordt geëvalueerd.
 -	Bij kwaliteit van een algoritme kan worden gedacht aan doeltreffenheid, doelmatigheid, betrouwbaarheid en accuraatheid (geschiktheid), non-discriminatie en menselijke controle.
 -	Hieronder vallen het analyseren en evalueren van ingediende klachten en incidenten.
--	Hieronder vallen ook het analyseren evalueren van besluiten door of aan de hand van het algoritmen.
+-	Hieronder vallen ook het analyseren en evalueren van besluiten door of aan de hand van het algoritme.
 - Na verloop van tijd kan de accuraatheid van machine learning modellen bijvoorbeeld wijzigen of kan het gebeuren dat bepaalde groepen (indien van toepassing) anders worden behandeld.
 - Het is van belang dat monitoringsactiviteiten worden ingericht om deze kwaliteitsaspecten tijdig te beoordelen.
 - Als er ongewenste wijzigingen plaatsvinden met betrekking tot de kwaliteit, moeten die worden geëvalueerd en zullen maatregelen moeten worden getroffen om deze te herstellen.
@@ -52,9 +52,12 @@ Zonder evaluatie van de kwaliteit van het algoritme is er geen goede sturing, be
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
+## Bronnen 
+- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.15, SV.16, SV.17 ](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 1.08](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 
 
-## Voorbeeld
+## Voorbeelden
 
 !!! example "Douane - Detecteren risico’s voor naleving vergunningsplicht"
 	
@@ -63,8 +66,3 @@ Zonder evaluatie van de kwaliteit van het algoritme is er geen goede sturing, be
 	Bron: [Detecteren risico’s voor naleving vergunningsplicht voor de uitvoer sanctiemaatregelen](https://algoritmes.overheid.nl/nl/algoritme/detecteren-risicos-voor-naleving-vergunningsplicht-voor-de-uitvoer-sanctiemaatregelen-douane/41675247#verantwoordGebruik)
 	
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
-
-
-## Bronnen 
-- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.15, SV.16, SV.17 ](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
-- [Toetsingskader Algoritmes Algemene Rekenkamer, 1.08](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)

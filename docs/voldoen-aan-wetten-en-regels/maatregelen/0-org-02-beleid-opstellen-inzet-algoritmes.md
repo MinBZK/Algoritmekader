@@ -1,5 +1,5 @@
 ---
-title: Stel beleid op voor een verantwoorde inzet van algoritmes binnen de organisatie. 
+title: Stel beleid op voor een verantwoorde inzet van algoritmes binnen de organisatie
 id: urn:nl:ak:mtr:org-02
 toelichting: 
 levenscyclus:
@@ -55,19 +55,22 @@ Een duidelijk beleid over de inzet van algoritmes helpt organisaties te voldoen 
 - Bepaal in welke gevallen het nodig is om een externe audit of validatie uit te voeren op het algoritme. 
 - Bepaal of het wenselijk is om gebruik te maken van een (externe) ethische commissie en hoe dit onderdeel kan zijn van je processen. 
 - Er is beschreven welke stappen worden gezetten in het geval dat er incidenten ontstaan rondom de inzet van algoritmes, denk hierbij aan een [discriminatieprotocol](0-org-15-discriminatieprotocol.md).
-
 - Betrek een brede groep met verschillende disciplines bij de ontwikkeling van governance. 
-
 - Dit beleidsdocument is beschikbaar en toegankelijk voor geïnteresseerden. 
+
+## Risico 
+Zonder duidelijk beleid over de inzet van algoritmes kan het gebeuren dat algoritmes worden ontwikkeld of gebruikt die niet passend zijn binnen de organisatie. 
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
-<!-- list_vereisten_on_maatregelen_page -->
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
-## Risico 
-Zonder duidelijk beleid over de inzet van algoritmes kan het gebeuren dat algoritmes worden ontwikkeld of gebruikt die niet passend zijn binnen de organisatie. 
+## Bronnen
+
+Geen beschikbare bron voor deze maatregel.
 
 ## Bronnen
 - [Onderzoekskader Auditdienst Rijk, SV.8](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
@@ -95,3 +98,5 @@ Zonder duidelijk beleid over de inzet van algoritmes kan het gebeuren dat algori
 !!! quote "Ervaring uit de praktijk"
 
     "Als je wilt starten, start klein aan de hand van een casus. Langs die casus kan je ontdekken welke stappen je moet zetten om ervoor te zorgen dat je de ethische waarde goed inricht, dat je vanuit privacy en security goed hebt ingericht en dat je ook daadwerkelijk die toegevoegde waarde voor de organisatie realiseert." 
+
+Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

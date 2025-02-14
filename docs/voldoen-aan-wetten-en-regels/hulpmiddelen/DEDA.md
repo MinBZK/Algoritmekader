@@ -7,7 +7,7 @@ vereiste:
 - awb-01-zorgvuldigheidsbeginsel
 maatregel:
 - 1-pba-03-onderbouwen-gebruik-algoritme
-- 2-owp-02-gebruikte-data
+- 2-owp-11-gebruikte-data
 levenscyclus:
 - probleemanalyse
 - ontwerp

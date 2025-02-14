@@ -33,8 +33,9 @@ Taken en verantwoordelijkheden zijn toebedeeld in de algoritmegovernance.
 
 De rollen en verantwoordelijkheden voor reguliere algoritmes en AI kunnen anders zijn dan voor generatieve AI. Waar het gebruik van reguliere algoritme en Al-toepassingen duidelijk onder de verantwoordelijkheid van het management valt, wordt er bij hulpmiddelen die gebruik maken van generatieve AI meer verantwoordelijkheid gevraagd van betrokken medewerkers. Hier wordt vaak ingezet om te zorgen voor bewustwording van verantwoord gebruik van deze technologie bij verschillende medewerkers. 
 
-## Bronnen
-- [Onderzoekskader Auditdienst Rijk, SV.9](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Een risico dat kan worden gemitigeerd met behulp van deze maatregel is dat het werkproces rondom algoritmegovernance niet efficiënt is ingedeeld en bijvoorbeeld kan leiden tot dubbele werkzaamheden of overzicht verliezen.
 
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
@@ -44,8 +45,8 @@ De rollen en verantwoordelijkheden voor reguliere algoritmes en AI kunnen anders
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
-## Risico 
-<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+## Bronnen
+- [Onderzoekskader Auditdienst Rijk, SV.9](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 
 ## Voorbeelden
 
@@ -65,4 +66,5 @@ De rollen en verantwoordelijkheden voor reguliere algoritmes en AI kunnen anders
 
     Het te regide vastleggen van functies en bijbehorende taken en verantwoordelijkheden kan nadelen hebben. Een team bij de belastingdienst (Analytische en Cognitieve Technologie | CoE Cognitieve Oplossingen) heeft ervaren dat het definieren van _werkpakketten_ in plaats van uitwerkte functies beter werkt. Alles dient belegd te zijn, maar alles op microniveau vastleggen is vaak niet te doen zonder in de praktijk te staan, en kan avenrechts werken. Wees als algoritmegovernance nog nieuw is zeker in het begin bewust dat inrichting altijd beter kan; ga grondig maar ook flexibel te werk.
 
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
 

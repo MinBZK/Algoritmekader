@@ -1,5 +1,5 @@
 ---
-title: Maak vereisten voor algoritmes onderdeel van algemene inkoopvoorwaarden en de contractovereenkomst.
+title: Maak vereisten voor algoritmes onderdeel van algemene inkoopvoorwaarden en de contractovereenkomst
 id: urn:nl:ak:mtr:owp-16
 toelichting: Door vereisten voor algoritmes onderdeel te maken van algemene inkoopvoorwaarden, is het voor aanbieders vooraf en op het moment van contractueren duidelijk waar zij aan moeten voldoen. 
 vereiste: 
@@ -84,12 +84,16 @@ hide:
 
 ## Maatregel
 <!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
-Maak vereisten voor algoritmes onderdeel van contractvoorwaarden en de contractovereeenkomst.
+Maak vereisten voor algoritmes onderdeel van contractvoorwaarden en de contractovereenkomst.
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-- Door vereisten die gelden voor algoritmes onderdeel te maken van contractvoorwaarden, is voor een aanbieder vooraf duidelijk aan welke voorwaarden zij moeten voldoen als zijn algoritmes willen aanbieden aan overheidsorganisaties.
+- Door vereisten die gelden voor algoritmes onderdeel te maken van contractvoorwaarden, is voor een aanbieder vooraf duidelijk aan welke voorwaarden zij moeten voldoen als zij algoritmes willen aanbieden aan overheidsorganisaties.
 - Het is van belang om een afweging te maken welke vereisten voor algoritmes als ['algemene contractvoorwaarden'](../hulpmiddelen/inkoopvoorwaarden.md) kunnen gelden en welke aanvullend in een contractovereenkomst moeten worden opgenomen.
+
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Door de vereisten voor een verantwoorde inzet van algoritmes niet te communiceren met aanbieders, is het voor hen (deels) onduidelijk aan welke vereisten diens algoritmes moet voldoen om te kunnen contractueren met overheidsorganisaties.
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
@@ -98,17 +102,13 @@ Maak vereisten voor algoritmes onderdeel van contractvoorwaarden en de contracto
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
-## Risico 
-<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Door de vereisten voor een verantwoorde inzet van algoritmes niet te communiceren met aanbieders, is het voor hen (deels) onduidelijk aan welke vereisten diens algoritmes moet voldoen om te kunnen contractueren met overheidsorganisaties.
-
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 - [Onderzoekskader Algoritmes Auditdienst Rijk, SV.11](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Specificeren algemene inkoopvoorwaarden](https://www.pianoo.nl/nl/inkoopproces/fase-1-voorbereiden/specificeren/specificeren-algemene-voorwaarden)
 
 
-## Voorbeeld
+## Voorbeelden
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
 - [Contractvoorwaarden gemeente Amsterdam](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/contractvoorwaarden-algoritmen/)
 - [Europese Inkoopvoorwaarden Hoog Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_template_High_Risk%20NL.pdf) 

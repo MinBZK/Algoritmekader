@@ -10,49 +10,49 @@ hide:
 
 <div class="grid cards" markdown>
 
--   [Bias en non-discriminatie](bias-en-non-discriminatie.md)
+-   [Discriminerende effecten van algoritmes](bias-en-non-discriminatie.md)
 
     ---
 
     Hulp bij het voorkomen van bias en discriminatie in algoritmes. Met aanbevelingen en hulpmiddelen zoals het toetsingskader van het College voor de Rechten van de Mens.
 
--   [Data](data.md)
+-   [Verantwoord datagebruik](data.md)
     
     ---
 
     Hulp bij het verantwoord selecteren en verwerken van data voor je algoritmes. Gebruik bijvoorbeeld de toolbox verantwoord datagebruik.
 
--   [Duurzaamheid](duurzaamheid.md)
+-   [Duurzaam werken met algoritmes](duurzaamheid.md)
     
     ---
 
     Hulp bij het maken van duurzame keuzes voor hardware en software. Bijvoorbeeld voor de aanschaf van apparaten of het energieverbruik van trainen en data-opslag.
 
--   [Governance](governance.md)
+-   [Governance van algoritmes binnen je organisatie](governance.md)
     
     ---
 
     Hulp bij het verantwoordelijk omgaan met algoritmes. Bijvoorbeeld het vastleggen van rollen en verantwoordelijkheden.
 
--   [Grondrechten](fundamentele-rechten.md)
+-   [Grondrechten beschermen in algoritmes](fundamentele-rechten.md)
     
     ---
 
     Hulp bij het beschermen van grondrechten en mensenrechten in algoritmes. Bijvoorbeeld het beoordelen van de gevolgen per grondrecht.
 
--   [Menselijke controle](menselijke-controle.md)
+-   [Menselijke controle over algoritmes](menselijke-controle.md)
     
     ---
 
     Hulp bij de controle als mens over algoritmes. Bijvoorbeeld kunnen ingrijpen bij onbetrouwbare resultaten.
 
--   [Privacy en gegevensbescherming](privacy-en-gegevensbescherming.md)
+-   [Privacy en persoonsgegevens beschermen in algoritmes](privacy-en-gegevensbescherming.md)
     
     ---
 
     Hulp bij verantwoord gebruik van gegevens voor algoritmes, zoals persoonsgegevens en privacygevoelige gegevens.
 
--   [Publieke inkoop](publieke-inkoop.md)
+-   [Inkoop van verantwoorde algoritmes](publieke-inkoop.md)
     
     ---
 
@@ -64,7 +64,7 @@ hide:
 
     Hulp bij het bewaken van de prestaties van algoritmes. En beveiliging van de systemen tegen bijvoorbeeld cyberaanvallen.
 
--   [Transparantie](transparantie.md)
+-   [Transparant zijn over algoritmes](transparantie.md)
     
     ---
 

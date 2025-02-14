@@ -56,7 +56,9 @@ Risico's worden niet (tijdig) vastgesteld en adequaat geadresseerd en behandeld.
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 1.03](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - Algoritmekader
 
-## Voorbeeld
+
+## Voorbeelden
+
 !!! example "Nationaal Cyber Security Centrum: Richtlijnen veilig software ontwikkelen"
     
     Het Nationaal Cyber Security Centrum van het Ministerie van Justitie en Veiligheid heeft een publicatie over het ontwikkelen van veilige software. Hierin staat beschreven hoe op beleidsmatig niveau beveiligingsrichtlijnen toegepast kunnen worden. Er wordt in Hoofdstuk B.03 'Risicomanagement' een duidelijk beeld geschetst van wat noodzakelijke maatregelen hiervoor zijn. 

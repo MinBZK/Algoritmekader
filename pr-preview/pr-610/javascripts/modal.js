@@ -76,7 +76,7 @@ function updateLabels(labels) {
 
   let labelsHTML = "";
   for (const label_obj of convertedLabels) {
-    labelsHTML += "<span class='info-label' onclick='removeLabel(event)'>" + label_obj.display_value + "</span>"
+    labelsHTML += "<span data-label-value='" + label_obj.label + "' class='info-label' onclick='removeLabel(event)'>" + label_obj.display_value + "</span>"
   }
   document.getElementById('ai-act-labels-container').innerHTML = labelsHTML;
 }
@@ -99,7 +99,7 @@ function getLabelsFromForm(el) {
 
 function removeLabel(event) {
   let currentLabels = document.getElementById('labelsInput').value.split(",");
-  const label_obj = labelMapper.find(event.target.textContent.trim());
+  const label_obj = labelMapper.find(event.target.getAttribute("data-label-value"));
   currentLabels = currentLabels.filter(v => v !== label_obj.label);
   document.getElementById('labelsInput').value = currentLabels.join(',');
   event.target.remove();

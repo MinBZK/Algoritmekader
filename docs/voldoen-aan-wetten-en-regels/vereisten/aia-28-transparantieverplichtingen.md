@@ -17,6 +17,15 @@ rol-ai-act:
 - aanbieder
 transparantieverplichting:
 - transparantieverplichting
+systeemrisico:
+- niet-van-toepassing
+open-source: 
+- open-source
+- geen-open-source
+- niet-van-toepassing
+uitzondering: 
+- uitzondering-van-toepassing
+- ("ai-systeem-voor-algemene-doeleinden" || "ai-systeem") && "open-source" && "geen-transparantieverplichting" && "geen-hoog-risico-ai-systeem"
 rollen:
 - projectleider
 - ontwikkelaar

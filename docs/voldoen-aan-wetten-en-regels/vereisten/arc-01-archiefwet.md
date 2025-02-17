@@ -12,6 +12,33 @@ onderwerp:
 rollen:
 - projectleider
 - ontwikkelaar
+soort-toepassing:
+- ai-model-voor-algemene-doeleinden
+- ai-systeem
+- ai-systeem-voor-algemene-doeleinden
+- impactvol-algoritme
+- niet-impactvol-algoritme
+risicogroep: 
+- hoog-risico
+- geen-hoog-risico
+- uitzondering-van-toepassing
+- niet-van-toepassing
+rol-ai-act:
+- aanbieder
+- gebruiksverantwoordelijke
+- importeur
+- distributeur
+transparantieverplichting: 
+- geen-transparantieverplichting
+- transparantieverplichting 
+systeemrisico:
+- systeemrisico
+- geen-systeemrisico
+- niet-van-toepassing
+open-source: 
+- open-source
+- geen-open-source
+- niet-van-toepassing
 hide:
 - navigation
 ---

@@ -6,6 +6,7 @@ vereiste:
 - grw-02-non-discriminatie
 - avg-01-persoonsgegevens-worden-rechtmatig-verwerkt
 - avg-04-proportionaliteit-en-subsidiariteit
+- avg-10-recht-op-niet-geautomatiseerde-besluitvorming
 levenscyclus:
 - dataverkenning-en-datapreparatie
 - verificatie-en-validatie
@@ -57,6 +58,7 @@ Indien de variabelen niet voldoende worden getoetst op geschikheid bestaat het r
 
 ## Bronnen
 - [Toetsingskader risicoprofilering – Normen tegen discriminatie op grond van ras en nationaliteit, College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/4093c026-ae41-4c1d-aa78-4ce0e205b5de)
+- [Advies geautomatiseerde besluitvorming, Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/documenten/advies-geautomatiseerde-besluitvorming)
 - [Publieke standaard profileringsalgoritme, Algorithm Audit](https://algorithmaudit.eu/nl/knowledge-platform/knowledge-base/public_standard_profiling/)
 
 ## Voorbeeld

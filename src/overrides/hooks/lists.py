@@ -66,12 +66,16 @@ def _create_table_row_2(file: File, filter_options: Dict[str, bool], current_fil
     rol_ai_act = file.page.meta.get('rol-ai-act', [])
     transparantieverplichting = file.page.meta.get('transparantieverplichting', [])
     systeemrisico = file.page.meta.get('systeemrisico', [])
-    all_labels = soort_toepassing + risicogroep + rol_ai_act + transparantieverplichting + systeemrisico
 
-    labels_data_html_attribute = ""
-    if all_labels:
-        labels_data_html_attribute = "data-labels=\"" + ",".join(all_labels) + "\""
-    # categorie = file.page.meta.get('categorie', [])
+    # create match expression for labels
+    label_match_expression = []
+    for arr in [soort_toepassing, risicogroep, rol_ai_act, transparantieverplichting, systeemrisico]:
+        if arr:
+            label_match_expression.append("(" + " || ".join(arr) + ")")
+    label_match_expression_str = " && ".join(label_match_expression) if label_match_expression else ""
+
+    data_html_attribute = "data-labels=\"" + label_match_expression_str + "\""
+    data_html_attribute += "data-uitzondering=\"" + ",".join(expr.replace('"', "'") for expr in file.page.meta.get('uitzondering', [])) + "\""
 
     rollen_chips = ''.join(_create_chip(rol, 'rol', current_file, config) for rol in rollen) if filter_options.get("rol", True) else ""
     levenscyclus_chips = ''.join(_create_chip(lc, 'levenscyclus', current_file, config) for lc in levenscyclus) if filter_options.get("levenscyclus", True) else ""
@@ -81,7 +85,7 @@ def _create_table_row_2(file: File, filter_options: Dict[str, bool], current_fil
 
     return "".join(
         [
-            f"<tr {labels_data_html_attribute}>",
+            f"<tr {data_html_attribute}>",
             f'<td><a href="{relative_link}">{vereiste_id}</a></td>' if filter_options.get("id", True) else "",
             f'<td><a href="{relative_link}">{file.page.title}</a></td>',
             # f"<td>{categorie_chips}</td>" if filter_options.get("categorie", True) else "",

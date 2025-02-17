@@ -36,8 +36,6 @@ function showModal(event, modalId) {
   } else if (modalId === "beslishulp") {
     document.getElementById("modal-content").innerHTML = "<iframe style=\"display: block; width: 100%; height: 100%; border: 0; padding: 0; margin: 0; overflow: hidden;\" src=\"../../html/beslishulp.html\"></iframe>"
     document.getElementById("modal-content-container").classList.remove("model-content-auto-size");
-    // TODO: remove monitor when new beslishulp is released
-    // monitor.start();
   }
   document.getElementById("modal").classList.remove("display-none");
 }
@@ -132,59 +130,6 @@ function appendQueryParams(params) {
   }
   window.history.replaceState(null, document.title, url.toString()); // Update URL without reload
 }
-
-class SessionStorageMonitor {
-  constructor(key, targetValue, callback, interval = 1000) {
-    this.key = key;
-    this.targetValue = targetValue;
-    this.callback = callback;
-    this.interval = interval;
-    this.timerId = null;
-    this.hasValueChanged = false;
-  }
-
-  start() {
-    // Check initial value
-    const initialValue = sessionStorage.getItem(this.key);
-
-    // If initial value matches target, we'll wait for it to change first
-    this.hasValueChanged = initialValue !== this.targetValue;
-
-    this.timerId = setInterval(() => {
-      const currentValue = sessionStorage.getItem(this.key);
-
-      // If value is different from target, mark that a change has occurred
-      if (currentValue !== this.targetValue) {
-        this.hasValueChanged = true;
-      }
-
-      // Only trigger callback if we've seen a change AND current value matches target
-      if (this.hasValueChanged && currentValue === this.targetValue) {
-        this.callback(currentValue);
-        this.stop();
-      }
-    }, this.interval);
-  }
-
-  stop() {
-    if (this.timerId) {
-      clearInterval(this.timerId);
-      this.timerId = null;
-    }
-  }
-}
-
-const monitor = new SessionStorageMonitor(
-  'currentquestion',    // key to monitor
-  "null",             // target value to watch for
-  (value) => {
-    console.log('currentquestion changed to null after having a different value');
-    const jsonObject = JSON.parse(sessionStorage.getItem("labels"))
-    const labels = convertLabels(Object.values(jsonObject).flatMap(v => Array.isArray(v) ? v : [v]).filter(v => v !== "")).map(obj => obj.label)
-    updateLabels(labels);
-  }
-);
-
 
 /**
  * Given any key, display value or list of synonyms, return an object with a label and display_value.

@@ -144,10 +144,14 @@ function filterTable() {
 
     var labelsInput = document.getElementById("labelsInput").value.split(",").map(item => item.trim()).filter(item => item !== "");
 
-    for (var i = 1; i < tr.length; i++) { // Skip header row
-        var dataLabels = []
+    for (let i = 1; i < tr.length; i++) { // Skip header row
+        var dataLabels = ""
         if (tr[i].hasAttribute("data-labels")) {
-            dataLabels = tr[i].getAttribute("data-labels").split(",");
+            dataLabels = tr[i].getAttribute("data-labels")
+        }
+        var uitzonderingExpressions = [];
+        if (tr[i].hasAttribute("data-uitzondering")) {
+            uitzonderingExpressions = tr[i].getAttribute("data-uitzondering").split(",").map(item => item.trim()).filter(item => item !== "");
         }
 
         var td = tr[i].getElementsByTagName("td")[1];  // Maatregelen column (td[0])
@@ -167,7 +171,12 @@ function filterTable() {
             var roleMatch = selectedRoles.every(role => txtValue2.toUpperCase().indexOf(role) > -1);
             var lcMatch = selectedLevenscyclus.every(lc => txtValue3.toUpperCase().indexOf(lc) > -1);
             var onderwerpMatch = selectedOnderwerpen.every(onderwerp => txtValue4.toUpperCase().indexOf(onderwerp) > -1);
-            var labelMatch = labelsInput.length === 0 || dataLabels.length === 0 || dataLabels.some(element => labelsInput.includes(element));
+            var labelMatch = dataLabels === "" || labelsInput.length === 0 || evaluateLabelExpression(dataLabels, labelsInput);
+            var uitzonderingMatch = labelsInput.length > 0 && anyExpressionMatches(uitzonderingExpressions, labelsInput);
+
+            if (uitzonderingMatch && labelMatch) {
+                labelMatch = false
+            }
 
             if (txtValue.toUpperCase().indexOf(filter) > -1 && roleMatch && lcMatch && onderwerpMatch && labelMatch) {
                 tr[i].style.display = "";
@@ -179,4 +188,36 @@ function filterTable() {
 
     // Trigger contentUpdated to reinitialize Choices.js after filtering
     document.dispatchEvent(new Event('contentUpdated'));
+}
+
+/*
+Given an expression like: ("ai-systeem-voor-algemene-doeleinden" || "ai-systeem") && "open-source" && "geen-transparantieverplichting" && "geen-hoog-risico-ai-systeem"
+and an array of labels, evaluates the expression and returns true or false.
+ */
+function evaluateLabelExpression(expression, labels) {
+    // replace the string with function calls to hasLabel so we get true / false values
+    const transformedExpression = expression.replace(/["']?([a-zA-Z0-9-_]+)["']?/g, "hasLabel('$1')");
+
+    // create the function that executes our expression
+    const functionBody =
+      'const hasLabel = (label) => labels.includes(labelMapper.find(label).label);' +
+      'return ' + transformedExpression + ';';
+
+    try {
+        return new Function('labels', functionBody)(labels);
+    } catch (error) {
+        console.error('Error evaluating expression:', error);
+        return false;
+    }
+}
+
+/**
+ * Given a list of expressions and the current labels, returns true if any expression matches with the given labels, else false
+ * @param expressions a list of expressions, like:
+ * ["uitzondering-van-toepassing", ("ai-systeem-voor-algemene-doeleinden" || "ai-systeem") && "open-source" && "geen-transparantieverplichting" && "geen-hoog-risico-ai-systeem"]
+ * @param labels the labels the test against, like ["ai-systeem","uitzondering-van-toepassing"]
+ * @returns true if any expression matches with the given labels, else false
+ */
+function anyExpressionMatches(expressions, labels) {
+    return expressions.some(expression => evaluateLabelExpression(expression, labels));
 }

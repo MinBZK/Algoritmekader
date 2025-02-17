@@ -1,12 +1,14 @@
 ---
-title: Toets het algoritme op bias
+title: Toets het algoritme op bias en voer een rechtvaardigingstoets uit
 id: urn:nl:ak:mtr:ver-03
-toelichting: Analyseer of het gebruik van het algoritme of het proces daaromheen leidt tot onwenselijke of onrechtmatige verschillen in de behandeling van individuen en/of groepen.  
+toelichting: Analyseer regelmatig of het gebruik van het algoritme of het proces daaromheen leidt tot onwenselijke of onrechtmatige verschillen in de behandeling van individuen en/of groepen.  
 vereiste:
 - grw-02-non-discriminatie
 - aia-27-beoordelen-gevolgen-grondrechten
 - grw-01-fundamentele-rechten
 - avg-10-recht-op-niet-geautomatiseerde-besluitvorming
+- aia-05-data-kwaliteitscriteria
+- aia-06-technische-documentatie
 levenscyclus:
 - ontwerp
 - verificatie-en-validatie
@@ -38,7 +40,7 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-Analyseer of het gebruik van het algoritme of het proces daaromheen leidt tot onwenselijke of onrechtmatige verschillen in de behandeling van individuen en/of groepen.  
+Analyseer regelmatig of het gebruik van het algoritme of het proces daaromheen leidt tot onwenselijke of onrechtmatige verschillen in de behandeling van individuen en/of groepen.  
 
 ## Toelichting
 Het uitvoeren van een analyse over onwenselijke of onrechtmatige verschillen bestaat grofweg uit 3 stappen:
@@ -62,22 +64,22 @@ Toetsen op direct onderscheid is in vergelijking tot toetsen op indirect ondersc
 
 :material-arrow-right: Bepaal of de inputvariabelen die gebruikt worden leiden tot een direct onderscheid op basis van godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid[^1] of burgelijke staat. 
 
-Het is niet mogelijk om een uitputtend overzicht te geven van alle selectiecriteria die mogelijk tot direct onderscheid op grond van ras of nationaliteit kunnen leiden. 
+Het is niet mogelijk om een uitputtend overzicht te geven van alle selectiecriteria die mogelijk tot direct onderscheid op één van deze gronden leiden. 
+Wel is duidelijk dat verschillende criteria verband houden met bijvoorbeeld nationaliteit of ras. Gebruik van deze factoren wordt dan gezien als direct onderscheid en is verboden. De volgende criteria duiden in ieder geval (niet limitatief) op een onderscheid op ras[^2]: huidskleur, eventueel andere geracialiseerde uiterlijke kenmerken zoals gezicht of haar, etniciteit, etnische achtergrond, allochtoon/autochtoon, migratieachtergrond, buitenlandse afkomst of nationale oorsprong, specifiek benoemde afkomst (bijv. Marokkaans, Antilliaans etc.), ‘niet-Westers’ klinkende naam, ‘Roma’ of ‘woonwagenbewoners’.
+
 Wel zijn in de jurisprudentie verschillende voorbeelden en aanknopingspunten te vinden. 
 Zo staat vast dat selectie op basis van fysieke etnische kenmerken, zoals huidskleur, direct onderscheid op grond van ras oplevert[^2].
-Een ander voorbeeld is dat onderscheid op grond van een niet-westers klinkende naam direct onderscheid op grond van afkomst (en dus ras) oplevert[^3].
+Een ander voorbeeld is dat onderscheid op grond van een niet-westers klinkende naam direct onderscheid op grond van afkomst (en dus ras) oplevert[^2].
 
 [^1]: Er is een wetsvoorstel om de term 'hetero- of homoseksuele gerichtheid' in de Algmemene wet gelijke behandeling (Awgb) te wijzigingen in 'seksuele gerichtheid'. Met deze wijziging sluit de Awgb aan bij een eerdere wijziging van artikel 1 van de Grondwet. 
 
-[^2]: Zie [Discriminatie door risicoprofielen, een mensenrechtelijk toetsingskader, College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dce)
-
-[^3]: Zie [Discriminatie door risicoprofielen, een mensenrechtelijk toetsingskader, College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dce), [College voor de Rechten van de Mens 7 juni 2021, oordeel 2021-70](https://oordelen.mensenrechten.nl/oordeel/2021-70); [College voor de Rechten van de Mens 23 april 2015, oordeel 2015-44](https://oordelen.mensenrechten.nl/oordeel/2015-44); [College voor de Rechten van de Mens 23 april 2015, oordeel 2014-0426](https://oordelen.mensenrechten.nl/oordeel/2015-43).
+[^2]: Zie voor meer informatie het [Toetsingskader Risicoprofilering](https://publicaties.mensenrechten.nl/publicatie/4093c026-ae41-4c1d-aa78-4ce0e205b5de) van het College voor de Rechten van de Mens. 
 
 #### Toetsen op indirect onderscheid
 Ook selectiecriteria die op het eerste gezicht geen enkele link lijken te hebben met een discriminatiegrond kunnen leiden tot indirect onderscheid op grond van een discriminatiegrond. 
 Enkele voorbeelden van zulke 'ogenschijnlijk neutrale' selectiecriteria die verband hebben met ras of nationaliteit zijn: postcode, hoogte van het inkomen, kenteken, familielid in het buitenland, laaggeletterdheid. 
-Indirect onderscheid is in vergelijking met direct onderscheid lastiger op te signaleren en te voorkomen. 
-Daarom is het belangrijk jouw algoritmische toepassing regelmatig te analyseren op eventueel indirect onderscheid. 
+Indirect onderscheid is in vergelijking met direct onderscheid lastiger te signaleren en te voorkomen. 
+Daarom is het belangrijk jouw algoritmische toepassing [regelmatig te analyseren](7-mon-07-plan-continue-monitoring.md) op eventueel indirect onderscheid. 
 Het toetsen op indirect onderscheid bestaat uit 5 stappen:
 
 1. **Bepaal wat de [kwetsbare groepen](2-owp-07-afwegen-grondrechten.md) zijn.**
@@ -124,10 +126,10 @@ Het is daarom van belang om duidelijk afwegingen te maken tussen privacy en het 
     Bijvoorbeeld door hierop te monitoren in de klacht- en bezwarenprocedure. 
 
 4. **Bereken de verschillen in behandeling en/of uitkomsten van het algoritme**.
-Er zijn verschillende open source softwarepakketten die je hierbij kunnen ondersteunen, zoals [fairlearn](https://fairlearn.org/), [Aequitas](https://github.com/dssg/aequitas), [fairml](https://cran.r-project.org/web/packages/fairml/index.html), [fairness](https://cran.r-project.org/web/packages/fairness/index.html) of [AI Fairness 360](https://aif360.res.ibm.com/).
+Bepaal of er sprake is van een onderscheid, en of dit significant is. Er zijn verschillende open source softwarepakketten die je hierbij kunnen ondersteunen, zoals [fairlearn](https://fairlearn.org/), [Aequitas](https://github.com/dssg/aequitas), [fairml](https://cran.r-project.org/web/packages/fairml/index.html), [fairness](https://cran.r-project.org/web/packages/fairness/index.html) of [AI Fairness 360](https://aif360.res.ibm.com/).
 
 5. **Probeer te verklaren hoe het geconstateerde onderscheid is ontstaan**.
-Als er in de vorige stap een significant onderscheid is geconstateerd, is het belangrijk om na te gaan hoe dit onderscheid is ontstaan. 
+Als er in de vorige stap een significant onderscheid is geconstateerd, is het belangrijk om na te gaan hoe en waar in het proces dit onderscheid is ontstaan. 
 Dit kan bijvoorbeeld ontstaan door:
     - een vorm van bias in de onderliggende inputdata. Je kan hierbij denken aan: 
         - historische bias: in hoeverre beschrijft de data de huidige situatie?
@@ -139,7 +141,7 @@ Dit kan bijvoorbeeld ontstaan door:
 :material-arrow-right: Wanneer duidelijker is hoe de geconstateerde bias is ontstaan, is het goed om te verkennen of er mogelijkheden zijn om dit (in de toekomst) te voorkomen. 
 
 Het is belangrijk hier [een brede groep aan belanghebbenden bij te betrekken](1-pba-04-betrek-belanghebbenden.md). 
-De oorzaken van bias komen uit de 'echte wereld', waarbij patronen in datasets historische, demografische en sociale verschillen weerspiegielen. 
+De oorzaken van bias komen in veel gevallen uit de 'echte wereld', waarbij patronen in datasets historische, demografische en sociale verschillen weerspiegielen. 
 Het verklaren en voorkomen van bias vraagt daarmee niet alleen om technische oplossingen, maar het is belangrijk de hele socio-technische omgeving waarin het algoritme wordt ingezet mee te nemen. 
 
 ### Stap 2: Voer een rechtvaardigingstoets uit
@@ -153,15 +155,17 @@ Het geconstateerde onderscheid kan in bepaalde situaties en onder bepaalde strik
 - Voor **direct onderscheid** kan er bijvoorbeeld sprake zijn van een wettelijke uitzondering die het gemaakte onderscheid toelaat. 
 - Voor **indirect onderscheid** geldt dat behalve een wettelijke uitzondering er ook een **objectieve rechtvaardiging** kan bestaan, waarmee het geconstateerde onderscheid in bepaalde gevallen toelaatbaar kan zijn. 
 
-Twee subvragen die hierbij beantwoord moeten worden zijn:
+Vier subvragen die hierbij beantwoord moeten worden zijn:
 
-- streeft het in te zetten algoritme een legitiem doel na?
-- bestaat er een redelijke relatie van evenredigheid tussen het gebruikte algoritme en de nagestreefde doelstelling?
+- Streeft het in te zetten algoritme een legitiem doel na?
+- Is het in te zetten algoritme geschikt om het doel te bereiken?
+- Is het algoritme noodzakelijk? Zijn er geen redelijke, minder bezwaarlijke alternatieven?
+- Is het algoritme alles afwegend proportioneel?
 
 Wanneer er geen rechtvaardiging is voor het gemaakte onderscheid, spreken we van een verboden direct of indirect onderscheid, ofwel discriminatie. 
 Het algoritme mag in dat geval niet gebruikt worden.
 
-Voor meer toelichting over het uitvoeren van een rechtvaardigingstoets, verwijzen we naar het rapport [Discriminatie door risicoprofielen - Een mensenrechtelijk toetsingskader](https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dce) van het College voor de Rechten van de Mens. 
+Voor meer toelichting over het uitvoeren van een rechtvaardigingstoets, verwijzen we naar het [Toetsingskader Risicoprofilering](https://publicaties.mensenrechten.nl/publicatie/4093c026-ae41-4c1d-aa78-4ce0e205b5de) van het College voor de Rechten van de Mens. 
 
 ### Stap 3: Voer een ethische wenselijkheidstoets uit
 Bepaal of het geconstateerde onderscheid uit [Stap 1](#stap-1-analyseer-of-er-sprake-is-van-bias) ethisch wenselijk is. Dit hangt samen met de algemene wenselijkheid van de inzet van het algoritme.  
@@ -217,5 +221,12 @@ Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@
 ## Bronnen
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 2.18, 2.19, 3.08, 3.09](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Onderzoekskader Algoritmes Auditdienst Rijk, DM.16, DM.17, DM.18, DM.20, DM.21, DM.22](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) 
-- [Discriminatie door risicoprofielen - Een mensenrechtelijk toetsingskader, College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dc)
+- [Toetsingskader risicoprofilering – Normen tegen discriminatie op grond van ras en nationaliteit, College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/4093c026-ae41-4c1d-aa78-4ce0e205b5de)
 - [Handreiking non-discriminatie by design](https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design)
+
+## Voorbeelden
+- [Addendum Vooringenomenheid voorkomen, Algorithm Audit](https://algorithmaudit.eu/nl/algoprudence/cases/aa202402_preventing-prejudice_addendum/) met bijbehorende data en broncode op [Github](https://github.com/NGO-Algorithm-Audit/DUO-CUB)
+- [Onderzoek misbruik uitwonendenbeurs, PricewaterhouseCoopers](https://www.rijksoverheid.nl/documenten/rapporten/2024/03/01/eindrapport-pwc-rapportage-onderzoek-misbruik-uitwonendenbeurs)
+- [Pilot Slimme Check, Gemeente Amsterdam](https://openresearch.amsterdam/nl/page/105057/eindevaluatie-pilot-slimme-check---bias-analyse-eindrapport)
+- [Bias toetsing 'Kort Verblijf Visa' aanvragen, Rijks ICT Gilde](https://www.rijksoverheid.nl/documenten/publicaties/2023/04/01/bias-toetsing-kort-verblijf-visa-aanvragen)
+- [Report on Algorithmic bias assesment, SigmaRed](https://www.rijksoverheid.nl/documenten/rapporten/2024/02/07/sigmared-report-on-algorithmic-bias-assessment)

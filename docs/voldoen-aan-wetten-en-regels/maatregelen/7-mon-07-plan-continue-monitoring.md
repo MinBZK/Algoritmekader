@@ -34,6 +34,7 @@ Voor op opstellen van het plan voor monitoring zijn de volgende stappen nodig:
 ### Bepaal waar je continu op wilt monitoren
 Denk hierbij aan:
 
+- [bias en discriminerende effecten](5-ver-03-biasanalyse.md)
 - toegankelijkheid van het model (uitvallen of haperingen)
 - foutmeldingen
 - prestaties: [werkt het model nog zoals beoogd](5-ver-01-functioneren-in-lijn-met-doeleinden.md)
@@ -75,3 +76,8 @@ Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@
 
 ## Bronnen
 - [Toetsingskader Algemene Rekenkamer, 2.14](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
+- [Toetsingskader risicoprofilering – Normen tegen discriminatie op grond van ras en nationaliteit, College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/4093c026-ae41-4c1d-aa78-4ce0e205b5de)
+## Voorbeeld
+
+Heb jij een goed voorbeeld? Laat het ons weten!
+

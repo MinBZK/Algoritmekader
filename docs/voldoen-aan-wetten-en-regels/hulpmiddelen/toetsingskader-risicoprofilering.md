@@ -7,7 +7,8 @@ vereiste:
 - grw-01-fundamentele-rechten
 - grw-02-non-discriminatie
 maatregel:
-- 5-ver-03-biasanalyse      
+- 5-ver-03-biasanalyse
+- 3-dat-02-toetsen-geschiktheid-variabelen  
 levenscyclus:
 - ontwerp
 - verificatie-en-validatie

@@ -1,11 +1,10 @@
-body{
-  font-family: "ROsanswebtextregular" !important;
-  src: url("fonts/ROsanswebtextregular.woff") format('truetype');
-}
-
 @font-face {
   font-family: "ROsanswebtextregular";
   src: url("fonts/ROsanswebtextregular.woff") format('truetype');
+}
+
+body{
+  font-family: "ROsanswebtextregular" !important;
 }
 
 .mdx-badge {

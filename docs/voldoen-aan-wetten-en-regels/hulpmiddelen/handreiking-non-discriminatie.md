@@ -20,6 +20,9 @@ maatregel:
 - 3-dat-01-datakwaliteit
 - 5-ver-03-biasanalyse
 - 6-imp-02-aselecte-steekproeven
+hide:  
+- navigation  
+- toc  
 ---
 
 <!-- tags -->

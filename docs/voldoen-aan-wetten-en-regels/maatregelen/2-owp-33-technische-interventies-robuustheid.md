@@ -1,6 +1,6 @@
 ---
 title: Identificeer en implementeer technische interventies die robuustheid vergroten
-id: urn:nl:ak:mtr:owp-34
+id: urn:nl:ak:mtr:owp-33
 toelichting: Bepaal in het ontwerp welke technische interventies bijdragen aan de robuustheid van het algoritme. Deze keuzes moeten in lijn zijn met het beoogde doel en de context. 
 vereiste:
 - aia-06-technische-documentatie

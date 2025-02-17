@@ -1,6 +1,6 @@
 ---
 title: Controleer de data op manipulatie en ongewenste afhankelijkheden
-id: urn:nl:ak:mtr:dat-11
+id: urn:nl:ak:mtr:dat-10
 toelichting: De dataset die gebruikt wordt om een model te (her)trainen moet periodiek gecontroleerd worden op manipulatie (data poisoning). Voorkom ongewenste afhankelijkheden.
 levenscyclus:
 - dataverkenning-en-datapreparatie

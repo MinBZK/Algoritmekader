@@ -1,6 +1,6 @@
 ---
 title: Pas uitlegbaarheidstechnieken toe en evalueer en valideer deze
-id: urn:nl:ak:mtr:owp-33
+id: urn:nl:ak:mtr:owp-32
 toelichting: Uitlegbaarheidstechnieken helpen om de werking van een algoritme transparant te maken.
 vereiste:
 - aia-08-transparantie-aan-gebruiksverantwoordelijken
@@ -31,7 +31,7 @@ Pas uitlegbaarheidstechnieken toe en evalueer en valideer deze.
 Uitlegbaarheidstechnieken helpen om de werking van een algoritme transparant te maken.
 De keuze voor het type algoritme bepaalt hoe transparant je kunt zijn. Van rekenregels kun je namelijk precies uitleggen hoe deze tot een beslissing komen. Aan de andere kant kunnen complexe AI-systemen een black box zijn. Het is dan onduidelijk hoe deze systemen beslissingen maken. 
 
-Afhankelijk van het type algoritme zijn er uitlegbaarheidstechnieken beschikbaar om de werking en keuzes van een algoritme bloot te leggen. Er moet eerst een keuze worden gemaakt welk type algoritme geschikt is gezien de [informatiebehoefte](2-owp-31-informeer-betrokkenen.md). Het is belangrijk om samen met de betrokken partijen vast te leggen welke uitlegbaarheidstechnieken moeten worden toegepast. Bij bronnen kan informatie worden geraadpleegd die helpen bij het vinden van de juiste methodiek.
+Afhankelijk van het type algoritme zijn er uitlegbaarheidstechnieken beschikbaar om de werking en keuzes van een algoritme bloot te leggen. Er moet eerst een keuze worden gemaakt welk type algoritme geschikt is gezien de [informatiebehoefte](2-owp-30-informeer-betrokkenen.md). Het is belangrijk om samen met de betrokken partijen vast te leggen welke uitlegbaarheidstechnieken moeten worden toegepast. Bij bronnen kan informatie worden geraadpleegd die helpen bij het vinden van de juiste methodiek.
 
 ### Gebruik uitlegbaarheid bij besluiten
 

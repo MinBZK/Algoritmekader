@@ -1,7 +1,7 @@
 ---
 # vul hier een titel in voor deze maatregel
 title: Voer een risico-analyse met de aanbieder uit op het gebied van informatiebeveiliging bij een uitbestedingstraject
-id: urn:nl:ak:mtr:owp-27
+id: urn:nl:ak:mtr:owp-26
 # geef hier een korte toelichting van deze maatregel
 toelichting: Het is van belang dat een risico-analyse op het gebied van informatiebeveiliging wordt uitgevoerd met een aanbieder van algoritmes in het geval van een uitbestedingstraject.
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel

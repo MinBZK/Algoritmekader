@@ -33,13 +33,13 @@ Dit toetsingskader is gebaseerd op nationale en internationale geldende verdrage
 Het is belangrijk om te benadrukken dat het hierbij gaat om de juridische ondergrens van het discriminatieverbod, zoals geformuleerd door internationale en nationale rechters.
 Aan de regels uit dit toetsingskader moet de overheid zich dus ten minste houden. Dit laat onverlet dat de overheid kan beslissen om strengere regels te hanteren.
 
-##### *Vervaning van het toetsingskader uit 2021*
+##### *Vervanging van het toetsingskader uit 2021*
 Het College voor de Rechten van de Mens publiceerde in 2021 het [toetsingskader Discriminatie door Risicoprofielen](https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dce). Het nieuwe toetsingskader moet gezien worden als een doorontwikkelde, geheel herziene versie die de versie uit 2021 vervangt. 
 Omdat het non-discriminatierecht bij beide toetsingskader het uitgangspunt is, zullen ook onderdelen uit het toetsingskader 2021 terugkomen in deze nieuwe versie. 
 
 ## Relevantie
 Het spreekt voor zich dat overheidsinstanties zich bij het uitvoeren van hun taken moeten onthouden van discriminatie. 
-De voorbeelden van discriminerende risicoprofilering, zoals de Kindeorpvangtoeslagaffaire of de Controle Uitwonendenbeurs bij DUO, van de laatste jaren laten zien dat handhavende instanties in de praktijk nog onvoldoende in staat zijn om discriminatie bij risicoprofilering te voorkomen.
+De voorbeelden van discriminerende risicoprofilering, zoals de Kinderopvangtoeslagaffaire of de Controle Uitwonendenbeurs bij DUO, van de laatste jaren laten zien dat handhavende instanties in de praktijk nog onvoldoende in staat zijn om discriminatie bij risicoprofilering te voorkomen.
 In dit toetsingskader wil het College verhelderen welke normen uit het verbod op discriminatie voortvloeien, specifiek op grond van ‘ras’ en nationaliteit.
 Het schetst de verplichtingen die instanties hebben bij gebruik van risicoprofilering, en welke stappen zij minimaal moeten zetten om discriminatie te voorkomen.
 

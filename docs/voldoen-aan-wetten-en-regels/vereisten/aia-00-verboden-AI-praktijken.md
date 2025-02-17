@@ -16,6 +16,20 @@ risicogroep:
 rol-ai-act:
 - aanbieder
 - gebruiksverantwoordelijke
+- importeur
+- distributeur
+transparantieverplichting: 
+- geen-transparantieverplichting
+- transparantieverplichting 
+- niet-van-toepassing
+systeemrisico:
+- systeemrisico
+- geen-systeemrisico
+- niet-van-toepassing
+open-source: 
+- open-source
+- geen-open-source
+- niet-van-toepassing
 hide:
 - navigation
 rollen:
@@ -50,6 +64,10 @@ Er zijn een tweetal uitzonderingen voor het inzetten van verbonden AI-systemen. 
 - Er is sprake van gerichte opsporing van specifieke slachtoffers, ontvoering, mensenhandel en seksuele uitbuiting van mensen, vermiste personen; of het voorkomen van bedreigingen voor het leven of de fysieke veiligheid van personen of het reageren op de huidige of voorzienbare dreiging van een terreuraanslag.
 
 Bepaal in een vroege fase en bij het [onderbouwen van het gebruik van een AI-systeem](../maatregelen/1-pba-03-onderbouwen-gebruik-algoritme.md) of de beoogde toepassing is toegestaan. 
+
+!!! tip "Richtsnoeren over verboden AI-praktijken vanuit de Europese Commissie"
+
+    De Europese Commissie heeft [richtsnoeren inzake verboden praktijken op het gebied van AI](https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-prohibited-artificial-intelligence-ai-practices-defined-ai-act), zoals gedefinieerd door de AI-verordening, gepubliceerd. Deze richtlijnen geven een overzicht van AI-praktijken die onacceptabel worden geacht vanwege hun mogelijke risico's voor Europese waarden en grondrechten.
 
 ## Bronnen 
 

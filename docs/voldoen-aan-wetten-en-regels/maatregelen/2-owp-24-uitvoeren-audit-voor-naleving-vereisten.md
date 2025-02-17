@@ -89,11 +89,15 @@ hide:
 
 ## Maatregel
 <!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
-Neem het kunnen uitvoeren van een audit over de vereiste op in contractvoorwaarden en de contractovereenkomst 
+Neem het kunnen uitvoeren van een audit over de vereiste op in contractvoorwaarden en de contractovereenkomst. 
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Het is van belang dat opdrachtgever mogelijkheden heeft om te controleren in hoeverre door aanbieder/opdrachtnemer wordt voldaan aan naleving van de contractvoorwaarden
+Het is van belang dat de opdrachtgever mogelijkheden heeft om te controleren in hoeverre door de aanbieder of opdrachtnemer wordt voldaan aan naleving van de contractvoorwaarden.
+
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Er kunnen geen controles of inspecties worden uitgevoerd om te beoordelen of de algoritmes van een aanbieder nog voldoen aan de vereisten voor een verantwoorde inzet van algoritmes. 
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
@@ -102,10 +106,6 @@ Het is van belang dat opdrachtgever mogelijkheden heeft om te controleren in hoe
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
-## Risico 
-<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Er kunnen geen controles of inspecties worden uitgevoerd om te beoordelen of de algoritmes van aanbieder nog voldoen aan de vereisten voor een verantwoorde inzet van algoritmes. 
-
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
@@ -113,7 +113,14 @@ Er kunnen geen controles of inspecties worden uitgevoerd om te beoordelen of de 
 - [Europese Inkoopvoorwaarden Hoog Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_template_High_Risk%20NL.pdf)
 - [Europese Inkoopvoorwaarden Laag Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_Template_NON_HIGH_RISK_NL.pdf)
 
-## Voorbeeld
-<!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
+
+## Voorbeelden
+
+!!! example "Gemeente Amsterdam - Modelbepalingen"
+	Gemeente Amsterdam heeft contractvoorwaarden geformuleerd waarin verschillende aspecten van inkoop uitgelicht worden. Een onderdeel hiervan is het uitvoeren van audits of andersoortige controles. Hierin is opgenomen hoe deze uitgevoerd worden en wat de voorwaarden zijn.
+
+	Meer informatie over [generieke inkoopvoorwaarden die je kunt gebruiken](../hulpmiddelen/inkoopvoorwaarden.md).
+  
+	Bron: [Contractvoorwaarden voor algoritmen - Innovatie](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmes-ai/contractvoorwaarden-algoritmen/)
 
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

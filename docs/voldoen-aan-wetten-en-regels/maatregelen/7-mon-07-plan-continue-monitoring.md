@@ -65,6 +65,15 @@ Betrek bij het opstellen van dit plan een [diverse groep van belanghebbenden](1-
 ## Risico
 Tijdens dagelijks gebruik wil je continu monitoren of het systeem nog werkt zoals beoogd. Wanneer dit niet gebeurt worden mogelijke fouten en veiligheidsrisico’s niet opgemerkt. 
 
+## Voorbeeld
+
+!!! example "Gemeente Montferland - Montferland AI"
+	De gemeente Montferland heeft een chatbot (MAI) ontwikkeld voor het beantwoorden van algemene vragen. Op deze manier is algemene informatie binnen de gemeente 24/7 bereikbaar voor haar inwoners en worden de medewerkers ontlast van de live chat. Om privacy te waarborgen wordt MAI continu via een automatisch systeem op locatie gemonitord via het controleren van de logbestanden per chat. Als in dit logbestand privacygevoelige informatie gesignaleerd wordt, wordt er direct melding van gemaakt. In dat geval wordt een mail verstuurd naar de servicedesk, systeembeheer en naar de hoofdontwikkelaar van MAI. Daarnaast wordt er een incident aangemaakt door de servicedesk en wordt het incident getoond op het grote scherm bij de systeembeheerders.
+	
+	Bron: [Mai (Montferland AI) - Gemeente Montferland](https://algoritmes.overheid.nl/nl/algoritme/mai-montferland-ai-gemeente-montferland/96671359)
+
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)  
+
 ## Bronnen
 - [Toetsingskader Algemene Rekenkamer, 2.14](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Toetsingskader risicoprofilering – Normen tegen discriminatie op grond van ras en nationaliteit, College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/4093c026-ae41-4c1d-aa78-4ce0e205b5de)

@@ -17,6 +17,18 @@ risicogroep:
 - hoog-risico-ai-systeem
 rol-ai-act:
 - gebruiksverantwoordelijke
+transparantieverplichting: 
+- geen-transparantieverplichting
+- transparantieverplichting 
+systeemrisico:
+- niet-van-toepassing
+open-source: 
+- open-source
+- geen-open-source
+- niet-van-toepassing
+uitzondering: 
+- uitzondering-van-toepassing
+
 hide:
 - navigation
 ---

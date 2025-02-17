@@ -14,6 +14,19 @@ soort-toepassing:
 - ai-model-voor-algemene-doeleinden
 rol-ai-act:
 - aanbieder
+risicogroep: 
+- niet-van-toepassing
+transparantieverplichting: 
+- niet-van-toepassing
+systeemrisico:
+- systeemrisico
+- geen-systeemrisico
+open-source: 
+- open-source
+- geen-open-source
+- niet-van-toepassing
+uitzondering: 
+- uitzondering-van-toepassing
 hide:
 - navigation
 ---

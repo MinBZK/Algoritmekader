@@ -17,6 +17,27 @@ soort-toepassing:
 rol-ai-act:
 - aanbieder
 - gebruiksverantwoordelijke
+- importeur
+- distributeur
+risicogroep:
+- hoog-risico-ai-systeem
+- geen-hoog-risico-ai-systeem
+- niet-van-toepassing
+transparantieverplichting: 
+- geen-transparantieverplichting
+- transparantieverplichting 
+- niet-van-toepassing
+systeemrisico:
+- systeemrisico
+- geen-systeemrisico
+- niet-van-toepassing
+open-source: 
+- open-source
+- geen-open-source
+- niet-van-toepassing
+uitzondering: 
+- uitzondering-van-toepassing
+- ("ai-systeem-voor-algemene-doeleinden" || "ai-systeem") && "open-source" && "geen-transparantieverplichting" && "geen-hoog-risico-ai-systeem"
 hide:
 - navigation
 ---

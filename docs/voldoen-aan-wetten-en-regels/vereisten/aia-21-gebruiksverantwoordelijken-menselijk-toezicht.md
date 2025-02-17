@@ -14,6 +14,17 @@ soort-toepassing:
 - ai-systeem-voor-algemene-doeleinden
 risicogroep:
 - hoog-risico-ai-systeem
+transparantieverplichting: 
+- geen-transparantieverplichting
+- transparantieverplichting 
+systeemrisico:
+- niet-van-toepassing
+open-source: 
+- open-source
+- geen-open-source
+- niet-van-toepassing
+uitzondering: 
+- uitzondering-van-toepassing
 rol-ai-act:
 - gebruiksverantwoordelijke
 hide:

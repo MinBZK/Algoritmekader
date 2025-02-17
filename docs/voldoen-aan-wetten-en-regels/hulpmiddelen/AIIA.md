@@ -9,18 +9,17 @@ vereiste:
 - awb-01-zorgvuldigheidsbeginsel
 maatregel:
 - 1-pba-03-onderbouwen-gebruik-algoritme
-- 2-owp-02-gebruikte-data
-- 2-owp-06-afwegen-grondrechten
+- 2-owp-11-gebruikte-data
+- 2-owp-07-afwegen-grondrechten
 - 6-imp-03-menselijke-tussenkomst
-- 6-imp-06-proces-privacyrechten
+- 6-imp-11-proces-privacyrechten
 - 7-mon-02-beveiliging-algoritme
 - 1-pba-05-wettelijke-grondslag
 - 2-owp-03-doel-verwerken-persoonsgegevens
-- 3-dat-03-persoonsgegevens-beschrijven
-- 3-dat-04-bewaartermijnen-persoonsgegevens
-- 2-owp-07-kwetsbare-groepen
+- 3-dat-03-bewaartermijnen-persoonsgegevens
+- 2-owp-08-kwetsbare-groepen
 - 6-imp-04-publiceren-algoritmeregister
-- 5-ver-02-biasanalyse
+- 5-ver-03-biasanalyse
 - 5-ver-01-functioneren-in-lijn-met-doeleinden
 - 4-owk-03-privacyrisico
 - 4-owk-01-security-by-design
@@ -47,8 +46,8 @@ hide: navigation
 ---
 
 <!-- tags -->
-[Direct naar het AIIA](https://www.rijksoverheid.nl/documenten/rapporten/2022/11/30/ai-impact-assessment-ministerie-van-infrastructuur-en-waterstaat){ .md-button }
 
+[Direct naar het AIIA](https://www.rijksoverheid.nl/documenten/rapporten/2022/11/30/ai-impact-assessment-ministerie-van-infrastructuur-en-waterstaat){ .md-button }
 
 ## Hulpmiddel
 

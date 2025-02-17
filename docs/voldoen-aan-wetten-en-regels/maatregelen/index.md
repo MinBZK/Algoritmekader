@@ -37,4 +37,4 @@ Welke maatregelen handig zijn in jouw situatie, hangt af van:
     Met één maatregel voldoe je soms aan meerdere vereisten.
 
 ## Help ons deze pagina te verbeteren
-Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/maatregelen/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).
+Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/voldoen-aan-wetten-en-regels/maatregelen/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

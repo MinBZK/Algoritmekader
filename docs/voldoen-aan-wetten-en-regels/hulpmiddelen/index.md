@@ -36,7 +36,7 @@ Staat een instrument niet in onze selectie, dan kan het nog steeds een goed inst
 - Een selectie kunnen we controleren op kwaliteit. We kunnen niet alle hulpmiddelen controleren.
 
 ## Sommige hulpmiddelen zijn verplicht
-Als een instrument verplicht is, staat dit er duidelijk bij. Een verplicht hulpmiddel is bijvoorbeeld de [Data protection impact assessment (DPIA)](https://minbzk.github.io/Algoritmekader/vereisten/dpia_verplicht_bij_hoog_risico).
+Als een instrument verplicht is, staat dit er duidelijk bij. Een verplicht hulpmiddel is bijvoorbeeld de [Data protection impact assessment (DPIA)](../vereisten/avg-13-dpia-verplicht.md).
 
 De meeste hulpmiddelen zijn niet verplicht. Bepaal zelf of je er gebruik van maakt. 
 

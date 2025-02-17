@@ -38,6 +38,7 @@
 *[in gebruik stellen]: De directe levering van een AI-systeem door de aanbieder aan de gebruiksverantwoordelijke voor het eerste gebruik of voor eigen gebruik in de Unie voor het beoogde doel
 *[indirect onderscheid]: Indien een ogenschijnlijk neutrale bepaling, maatstaf of handelwijze personen met een bepaalde godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat in vergelijking met andere personen bijzonder treft.
 *[indirecte discriminatie]:	Wanneer een ogenschijnlijk neutrale bepaling, maatstaf of handelwijze personen met een bepaald beschermd persoonskenmerk (discriminatiegrond) in vergelijking met andere personen in het bijzonder benadeelt, tenzij hiervoor een objectieve rechtvaardiging bestaat.
+*[inferentie]: Het vermogen om outputs te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die fysieke of virtuele omgevingen kunnen beïnvloeden. 
 *[inputdata]: data die in een AI-systeem worden ingevoerd of direct door een AI-systeem worden verworven en op basis waarvan het systeem een output genereert
 *[kritieke infrastructuur]:	kritieke infrastructuur zoals gedefinieerd in artikel 2, punt 4, van Richtlijn (EU) 2022/2557
 *[legaliteitsbeginsel]:	Het legaliteitsbeginsel houdt in dat alle overheidsoptreden moet berusten op een overeenstemmen met - kenbare en voldoende specifieke - algemene regels. 

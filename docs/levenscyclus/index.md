@@ -1,5 +1,5 @@
 ---
-title: Levenscyclus
+title: Levenscyclus algoritmes en AI
 summary: Hulp per fase van de levenscyclus van algoritmes, zoals probleemanalyse, ontwerpen, ontwikkelen, implementeren en ermee stoppen.
 hide:
   - toc

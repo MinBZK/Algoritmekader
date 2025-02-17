@@ -1,6 +1,6 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Bespreek de vereisten die gelden voor een verantwoorde inzet van algoritmes met aanbieders.
+title: Bespreek de vereisten die gelden voor een verantwoorde inzet van algoritmes met aanbieders
 id: urn:nl:ak:mtr:owp-15
 toelichting: Ga met een aanbieder in gesprek over in hoeverre zij invulling kunnen geven aan de vereisten die gelden voor een verantwoorde inzet van algoritmes.
 
@@ -89,7 +89,7 @@ hide:
 
 ## Maatregel
 <!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
-Bespreek de vereiste die gelden voor een verantwoorde inzet van algoritmes met een aanbieder.
+Bespreek de vereisten die gelden voor een verantwoorde inzet van algoritmes met een aanbieder.
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
@@ -97,7 +97,11 @@ Ga met een aanbieder in gesprek over in hoeverre zij invulling kunnen geven aan 
 
 Hiervoor is het van belang om te bepalen om wat voor [type algoritme het gaat en wat de bijbehorende risicoclassificatie](2-owp-05-soort-algoritme.md) is. Maak op basis daarvan inzichtelijk welke vereisten hierop van toepassing zijn. 
 
-Op basis van nieuwe of gewijzigde wet- en regelgeving of de totstandkoming van nieuwe standaard, is het denkbaar dat aanbieders van algoritmes nog niet of niet meer voldoet aan deze vereisten. Het is van belang om deze inzichten bijvoorbeeld tijdens een aanbesteding worden verkregen. Indien van toepassing, laat de aanbieder inzichtelijk maken welke stappen deze gaat zetten om hieraan te gaan voldoen. Dit is ook relevant bij reeds afgesloten contracten.
+Op basis van nieuwe of gewijzigde wet- en regelgeving of de totstandkoming van nieuwe standaarden, is het denkbaar dat aanbieders van algoritmes nog niet of niet meer voldoen aan deze vereisten. Het is van belang dat deze inzichten bijvoorbeeld tijdens een aanbesteding worden verkregen. Indien van toepassing, laat de aanbieder inzichtelijk maken welke stappen deze gaat zetten om hieraan te gaan voldoen. Dit is ook relevant bij reeds afgesloten contracten.
+
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+Door de vereisten voor een verantwoorde inzet van algoritmes niet te bespreken met aanbieders, is het voor hen (deels) onduidelijk aan welke vereisten diens algoritmes moet voldoen om te kunnen contracteren met overheidsorganisaties.
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
@@ -106,15 +110,11 @@ Op basis van nieuwe of gewijzigde wet- en regelgeving of de totstandkoming van n
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
-## Risico 
-<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Door de vereisten voor een verantwoorde inzet van algoritmes niet te bespreken met aanbieders, is het voor hen (deels) onduidelijk aan welke vereisten diens algoritmes moet voldoen om te kunnen contractueren met overheidsorganisaties.
-
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->   
+Geen beschikbare bron voor deze maatregel.
 
-
-## Voorbeeld
+## Voorbeelden
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
 
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

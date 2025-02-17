@@ -14,11 +14,11 @@ rollen:
 - beleid-en-advies
 maatregel:
 - 3-dat-08-eigenaarschap-data
-- 2-owp-16-leveren-bewijs-door-aanbieder-niet-schenden-auteursrechten
-- 2-owp-15-leveren-bewijs_voldoen-aan-vereisten-algoritme-aanbieder
-- 2-owp-13-vereisten-onderdeel-algemene-inkoopvoorwaarden-en-contractovereenkomst
-- 2-owp-23-kennisoverdracht-en-ondersteuning-aanbieder 
-- 2-owp-11-data-beschikbaarheid
+- 2-owp-19-leveren-bewijs-door-aanbieder-niet-schenden-auteursrechten
+- 2-owp-18-leveren-bewijs-voldoen-aan-vereisten-algoritme-aanbieder
+- 2-owp-16-vereisten-onderdeel-algemene-inkoopvoorwaarden-en-contractovereenkomst
+- 2-owp-26-kennisoverdracht-en-ondersteuning-aanbieder 
+- 2-owp-02-data-beschikbaarheid
 hide: navigation
 ---
 

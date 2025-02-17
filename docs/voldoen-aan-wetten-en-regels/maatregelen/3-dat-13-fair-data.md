@@ -21,10 +21,10 @@ Maak waardevolle data vindbaar, toegankelijk, interoperabel en herbruikbaar (FAI
 
 De internationale [FAIR-principes](https://www.gofair.foundation/) zijn richtlijnen voor de manier van beschrijven, opslag en publicatie van data. 
 
-- **Findable** (vindbaar): Metadata moet gemakkelijk te vinden zijn voor zowel mensen als computers.
-- **Accessible** (toegankelijk): Gebruikers moeten weten hoe toegang tot de data verkregen kan worden (autorisatie en authenticatie)
-- **Interoperable** (uitwisselbaar): Data moet meestal geïntegreerd worden met andere data en bijbehorden applicaties, opslag en processen.
-- **Reusable** (herbruikbaar): Het uiteindelijke doel van FAIR is om hergebruik van data te optimaliseren.
+- **Findable** (vindbaar): metadata moet gemakkelijk te vinden zijn voor zowel mensen als computers.
+- **Accessible** (toegankelijk): gebruikers moeten weten hoe toegang tot de data verkregen kan worden (autorisatie en authenticatie).
+- **Interoperable** (uitwisselbaar): data moet meestal geïntegreerd worden met andere data en bijbehorende applicaties, opslag en processen.
+- **Reusable** (herbruikbaar): het uiteindelijke doel van FAIR is om hergebruik van data te optimaliseren.
 
 Wanneer je voldoet aan de 15 principes is je data 'machine actionable'. Dit maakt het mogelijk dat de data effectief gebruikt kan worden voor verschillende algoritmes.
 
@@ -76,7 +76,10 @@ Er zijn 15 principes voor FAIR data geformuleerd:
 
         [PROV-DM](https://www.w3.org/TR/prov-dm/) is een conceptueel datamodel dat gebruikt kan worden voor de herkomstinformatie (provenance) van data. 
         
-- [R1.3: (Meta)data voldoet aan domein-relevante normen](https://www.gofair.foundation/r1-3) 
+- [R1.3: (Meta)data voldoet aan domein-relevante normen](https://www.gofair.foundation/r1-3)
+
+## Risico
+Data is niet gebruiksvriendelijk en het is onduidelijk hoe de data hergebruikt kan worden wat kan leiden tot inefficiënt datagebruik. 
 
 ## Vereisten { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
@@ -84,13 +87,12 @@ Er zijn 15 principes voor FAIR data geformuleerd:
 
 !!! note "Opmerking"
 
-    [Artikel 5b van de Wet hergebruik van overheidsinformatie](https://wetten.overheid.nl/jci1.3:c:BWBR0036795&hoofdstuk=III&paragraaf=3.1&artikel=5b&z=2024-06-19&g=2024-06-19) stelt dat dnderzoeksgegevens in overeenstemming met de FAIR-beginselen actief beschikbaar moeten worden gesteld voor hergebruik door een publiek gefinancierde onderzoeksorganisatie. Dit geldt voor zover:
+    [Artikel 5b van de Wet hergebruik van overheidsinformatie](https://wetten.overheid.nl/jci1.3:c:BWBR0036795&hoofdstuk=III&paragraaf=3.1&artikel=5b&z=2024-06-19&g=2024-06-19) stelt dat onderzoeksgegevens in overeenstemming met de FAIR-beginselen actief beschikbaar moeten worden gesteld voor hergebruik door een publiek gefinancierde onderzoeksorganisatie. Dit geldt voor zover:
 
-    1. die documenten zijn geproduceerd in het kader van geheel of gedeeltelijk met overheidsmiddelen gefinancierde wetenschappelijke onderzoeksactiviteiten;
-    2. die documenten openbaar zijn gemaakt via een institutionele of thematische databank als bedoeld in artikel 10, tweede lid, van de richtlijn; en
-    3. rechtmatige handelsbelangen, activiteiten inzake kennisoverdracht en reeds bestaande intellectuele eigendomsrechten zich hiertegen niet verzetten.
+    1. Die documenten zijn geproduceerd in het kader van geheel of gedeeltelijk met overheidsmiddelen gefinancierde wetenschappelijke onderzoeksactiviteiten;
+    2. Die documenten openbaar zijn gemaakt via een institutionele of thematische databank als bedoeld in artikel 10, tweede lid, van de richtlijn; en
+    3. Rechtmatige handelsbelangen, activiteiten inzake kennisoverdracht en reeds bestaande intellectuele eigendomsrechten zich hiertegen niet verzetten.
  
-
 ## Bronnen
 
 - [GO FAIR Foundation](https://www.gofair.foundation/interpretation)
@@ -98,3 +100,5 @@ Er zijn 15 principes voor FAIR data geformuleerd:
 - [Toolbox verantwoord datagebruik, 2b](https://realisatieibds.nl/page/view/ff607c02-9f09-440a-a0e7-9bbb6c7ceb09/3-data-verzamelen)
 - [NORA online](https://www.noraonline.nl/wiki/FAIR-principes)
 
+## Voorbeelden
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

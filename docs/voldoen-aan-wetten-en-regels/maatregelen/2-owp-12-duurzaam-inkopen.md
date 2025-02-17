@@ -33,7 +33,7 @@ Om software duurzaam in te kopen, kun je aanbieders beoordelen op specifieke duu
 
 - het energieverbruik van de software
 - het gebruik van hernieuwbare energiebronnen in de benodigde datacenters
-- het beperken van CO₂-uitstoot tijdens de levenscyclus van de software
+- het beperken van CO₂-uitstoot tijdens de levenscyclus van de software.
 
 Vraag om inzicht in milieuprestaties en certificeringen, zoals ISO-14001, om de toewijding van aanbieders aan duurzaamheid te toetsen.
 De ISO-14001 is een internationaal geaccepteerde standaard met eisen voor een milieumanagementsysteem.
@@ -57,6 +57,9 @@ Extra overwegingen die je kunt maken bij het aankopen van algoritmes, zoals geno
 - Pas containerisatie en virtualisatie toe.
 - Neem eisen op over opschalingsmogelijkheden.
 
+## Risico
+Zonder duurzaamheidscriteria bij het inkopen van software loop je het risico op hogere energie- en kostenlasten en beperk je de mogelijkheden om duurzaamheidsdoelstellingen te halen bij je algoritmes.
+
 ## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
 
@@ -64,12 +67,10 @@ Extra overwegingen die je kunt maken bij het aankopen van algoritmes, zoals geno
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
-## Risico
-Zonder duurzaamheidscriteria bij het inkopen van software loop je het risico op hogere energie- en kostenlasten, en beperk je de mogelijkheden om duurzaamheidsdoelstellingen te halen bij je algoritmes.
-
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 - [Handreiking: Hoe maak ik mijn inkoop van software duurzamer? (PIANOo)](https://www.pianoo.nl/nl/document/19545/handreiking-hoe-maak-ik-mijn-inkoop-van-software-duurzamer)
 
-## Voorbeeld
+## Voorbeelden
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

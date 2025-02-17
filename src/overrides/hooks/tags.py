@@ -31,24 +31,31 @@ def on_page_markdown(markdown: str, *, page: Page, config: MkDocsConfig, files: 
 
     # Replace callback
     def replace_ai_act(_: Match):
-        
         buttons = []
         for type in ["soort-toepassing", "risicogroep", "rol-ai-act", "systeemrisico", "transparantieverplichting"]:
             field = page.meta.get(type, [])
-
             if isinstance(field, str):
-                buttons.append(flag(type, field, page, files))   
+                if field != "niet-van-toepassing":  # Skip niet-van-toepassing
+                    buttons.append(flag(type, field, page, files))
             else:
                 for role in field:
+                    # Skip niet-van-toepassing
+                    if role == "niet-van-toepassing":
+                        continue
+                        
+                    # Skip if both 'X' and 'Geen X' exist
+                    if (role.startswith('geen-') and role[5:] in field) or \
+                    (not role.startswith('geen-') and f"geen-{role}" in field):
+                        continue
+                        
                     buttons.append(flag(type, role, page, files))
-        
+
         if len(buttons) == 0:
             toelichting = "Deze vereiste is waarschijnlijk van toepassing op jouw situatie. Controleer de [bronnen](#bronnen) om dit zeker te weten."
-        else: 
+        else:
             toelichting = "Deze vereiste is van toepassing voor onderstaande (combinatie van) labels. Gebruik de [beslishulp](https://ai-act-decisiontree.apps.digilab.network) voor hulp bij wat er in jouw situatie van toepassing is. <br/> <br/>"
+            buttons.insert(0, toelichting)
         
-        buttons.insert(0, toelichting)
-
         return "".join(buttons)
 
     # Find and replace all external asset URLs in current page
@@ -90,6 +97,8 @@ def flag(type: str, arg: str, page: Page, files: Files):
         return _badge_rol_ai_act(page, files, arg)
     elif  type == "transparantieverplichting":
         return _badge_transparantieverplichting(page, files, arg)
+    elif  type == "systeemrisico":
+        return _badge_systeemrisico(page, files, arg)
     return ""
 
 
@@ -194,7 +203,7 @@ def _badge_risicogroep(page: Page, files: Files, risicogroep: str):
     href_fase = _resolve_path(f"overhetalgoritmekader/risico-van-ai-systemen.md#{risicogroep}", page, files)
     return _badge(
         icon=f"[:{icon}:]({href_risicogroep} 'Risicogroep')",
-        text=f"[{risicogroep.replace('-', ' ').replace('ai', 'AI').replace('AI ', 'AI-')}]({href_fase})",
+        text=f"[{risicogroep.capitalize().replace('-', ' ').replace('ai', 'AI').replace('AI ', 'AI-')}]({href_fase})",
         color="blue",
     )
 
@@ -215,6 +224,16 @@ def _badge_transparantieverplichting(page: Page, files: Files, rol: str):
     href_transparantieverplichting = _resolve_path("overhetalgoritmekader/risico-van-ai-systemen.md#risico-op-misleiding", page, files)
     return _badge(
         icon=f"[:{icon}:]({href_transparantieverplichting} 'Transparantieverplichting AI-verordening')",
-        text=f"[{rol.capitalize()}]({href_transparantieverplichting})",
+        text=f"[{rol.capitalize().replace('-', ' ')}]({href_transparantieverplichting})",
+        color="blue",
+    )
+
+# Create badge for systeemrisico
+def _badge_systeemrisico(page: Page, files: Files, rol: str):
+    icon = "material-network" 
+    href_systeemrisico = _resolve_path("voldoen-aan-wetten-en-regels/ai-verordening.md#ai-model-voor-algemene-doeleinden", page, files)
+    return _badge(
+        icon=f"[:{icon}:]({href_systeemrisico} 'Systeemrisico AI-verordening')",
+        text=f"[{rol.capitalize().replace('-', ' ')}]({href_systeemrisico})",
         color="blue",
     )

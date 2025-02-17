@@ -29,23 +29,23 @@ De organisatie heeft volledige controle of eigenaarschap over de data. Wanneer d
 Wanneer een algoritme ontwikkeld of ingekocht wordt, is het belangrijk om [toegang tot de gebruikte data](3-dat-13-fair-data.md) goed te regelen.
 Maak bijvoorbeeld afspraken over wie ervoor zorgt dat de data:
 
-- op een centrale plek beschikbaar wordt gesteld
-- van voldoende [kwaliteit](3-dat-01-datakwaliteit.md) is
-- goed beveiligd is
+- Op een centrale plek beschikbaar wordt gesteld.
+- Van voldoende [kwaliteit](3-dat-01-datakwaliteit.md) is.
+- Goed beveiligd is.
 
 Wanneer een algoritme wordt ontwikkeld door een derde partij en dus niet wordt beheerd door de eigen organisatie, maak je duidelijke afspraken over eigenaarschap van de data. Dat geldt zowel voor de inputdata als de outputdata. 
 Zorg dat de inputdata tot je beschikking blijft, zodat resultaten altijd reproduceerbaar zijn. 
+
+## Risico
+De organisatie is afhankelijk van de data of het model afhankelijk van derden en kan daardoor reproduceerbaarheid en prestatie niet garanderen.
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
-## Risico
-De organisatie is afhankelijk voor de data of het model afhankelijk van derden en kan daardoor reproduceerbaarheid en prestatie niet garanderen.
-
 ## Bronnen
 - [Onderzoekskader Auditdienst Rijk, DM.23](https://open.overheid.nl/documenten/61b54381-d331-40ed-8fce-b2883b195f25/file)
 
-## Voorbeeld
+## Voorbeelden
 
-Heb jij een goed voorbeeld? Laat het ons weten!
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 

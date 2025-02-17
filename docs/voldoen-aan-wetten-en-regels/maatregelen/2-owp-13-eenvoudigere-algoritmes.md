@@ -34,15 +34,16 @@ Een populaire methode om complexiteit te verlagen is het *divide-and-conquer* pr
 - *Quantization* verlaagt de precisie van numerieke waarden in een model, wat opslag en rekenkracht verlaagt zonder de prestaties significant te beïnvloeden.
 - *Knowledge distillation* kan verder helpen door de kennis van een groot model over te dragen naar een kleiner, minder complex model, dat vervolgens efficiënter werkt.
 
+## Risico
+Ontwerpen zonder oog voor efficiëntie kan leiden tot energie-intensieve algoritmes die hoge kosten en milieubelasting met zich meebrengen.
+
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
-## Risico
-Ontwerpen zonder oog voor efficiëntie kan leiden tot energie-intensieve algoritmes die hoge kosten en milieubelasting met zich meebrengen.
-
 ## Bronnen
 - [What is knowledge distillation? (IBM)](https://www.ibm.com/topics/knowledge-distillation)
 
-## Voorbeeld
+## Voorbeelden
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

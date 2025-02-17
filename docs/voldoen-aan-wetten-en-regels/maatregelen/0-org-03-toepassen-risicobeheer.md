@@ -30,10 +30,10 @@ Pas risicobeheer gestructureerd toe voorafgaand en gedurende de ontwikkeling en 
   
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-- Bepaal tijdig, bijvoorbeeld in de probleemanalyse- of ontwikkelfase, om wat voor toepassing het gaat (algoritme of AI-systeem) en bepaal welke risicoclassificatie hierbij hoort.
+- Bepaal tijdig, bijvoorbeeld in de ontwerpfase om [wat voor toepassing het gaat](2-owp-05-soort-algoritme.md) (algoritme of AI-systeem) en bepaal welke risicoclassificatie hierbij hoort.
 - Bepaal op basis van de toepassing en de risicoclassificatie, welke aspecten van risicobeheer moeten worden toegepast.
-- Inventariseer tijdig, bijvoorbeeld in de probleemanalayse- of ontwikkelfase, bij betrokken experts welke beleidskaders en hulpmiddelen binnen de organisatie moeten worden ingezet om risicobeheer toe te passen.
-- Bepaal op basis van de levenscyclus van een algoritme of AI-systeem wanneer welke aspecten van risicobeheer moeten worden toegepast. 
+- Inventariseer tijdig, bijvoorbeeld in de probleemanalayse- of ontwerpfase, bij betrokken experts welke beleidskaders en hulpmiddelen binnen de organisatie moeten worden ingezet om risicobeheer toe te passen.
+- Bepaal op basis van de [levenscyclus van een algoritme of AI-systeem](0-org-08-beslismoment-levenscyclus.md) wanneer welke aspecten van risicobeheer moeten worden toegepast. 
 - Maak inzichtelijk op welke niveaus risicobeheer kan en moet worden belegd bij het ontwikkelen en gebruiken van algoritmes.
 - Daarbij gaat het om het identificeren, analyseren, evalueren (afhankelijk van de risicobereidheid), behandelen (risicoreactie, o.a. maatregelen), monitoren & beoordelen en communiceren & rapporteren van risico's.
 - Gedurende de levenscyclus van een algoritme of AI-systemen kunnen nieuwe risico's ontstaan waar mogelijk nieuwe maatregelen voor moeten worden getroffen. Het is van belang dat iteratief wordt gewerkt aan mitigerende maatregelen en dat risicobeheer periodiek wordt toegepast.
@@ -56,7 +56,9 @@ Risico's worden niet (tijdig) vastgesteld en adequaat geadresseerd en behandeld.
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 1.03](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - Algoritmekader
 
-## Voorbeeld
+
+## Voorbeelden
+
 !!! example "Nationaal Cyber Security Centrum: Richtlijnen veilig software ontwikkelen"
     
     Het Nationaal Cyber Security Centrum van het Ministerie van Justitie en Veiligheid heeft een publicatie over het ontwikkelen van veilige software. Hierin staat beschreven hoe op beleidsmatig niveau beveiligingsrichtlijnen toegepast kunnen worden. Er wordt in Hoofdstuk B.03 'Risicomanagement' een duidelijk beeld geschetst van wat noodzakelijke maatregelen hiervoor zijn. 

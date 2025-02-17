@@ -1,5 +1,5 @@
 ---
-title: Privacy en gegevensbescherming
+title: Privacy en persoonsgegevens beschermen in algoritmes
 hide: 
 - path
 ---

@@ -42,9 +42,9 @@ Beschrijf welke techniek gebruikt wordt voor de beoogde toepassing.
 
 - De precieze details kunnen in dit stadium van de levenscyclus waarschijnlijk nog niet ingevuld worden. Maak een goede eerste inschatting van de gebruikte techniek. Eventueel kan je er ook voor kiezen om verschillende technieken verder te onderzoeken. Dat betekent dat er meerdere algoritmes ontwikkeld worden (op basis van verschillende technieken), en je later een definitieve keuze maakt. 
 
-- Het is belangrijk om uiteindelijk een passend uitlegbaar algoritme te selecteren voor de context waarin het wordt toegepast. Daarin moet de afweging gemaakt worden of de technische [uitlegbaarheid](2-owp-33-toepassen-uitlegbaarheidstechnieken.md) voldoende is in de context die de inzet van het algoritme vereist. Hierbij kan ook de conclusie worden getrokken dat een simpeler, inzichtelijker algoritme de voorkeur krijgt. 
+- Het is belangrijk om uiteindelijk een passend uitlegbaar algoritme te selecteren voor de context waarin het wordt toegepast. Daarin moet de afweging gemaakt worden of de technische [uitlegbaarheid](2-owp-32-toepassen-uitlegbaarheidstechnieken.md) voldoende is in de context die de inzet van het algoritme vereist. Hierbij kan ook de conclusie worden getrokken dat een simpeler, inzichtelijker algoritme de voorkeur krijgt. 
 
-- Maak hierbij een bewuste afweging tussen [uitlegbaarheid](2-owp-33-toepassen-uitlegbaarheidstechnieken.md) en [prestaties](5-ver-02-evalueer-nauwkeurigheid.md) van het algoritme. Over het algemeen geldt dat complexere maar minder uitlegbare algoritmes nauwkeuriger zijn. 
+- Maak hierbij een bewuste afweging tussen [uitlegbaarheid](2-owp-32-toepassen-uitlegbaarheidstechnieken.md) en [prestaties](5-ver-02-evalueer-nauwkeurigheid.md) van het algoritme. Over het algemeen geldt dat complexere maar minder uitlegbare algoritmes nauwkeuriger zijn. 
 
 - Veel (statistische) modellen zijn gebaseerd op (statistische) aannames over bijvoorbeeld eigenschappen van de data. Ga na of er aan deze aannames wordt voldaan. 
 

@@ -59,7 +59,7 @@ Het niet goed pseudonimiseren, anonimiseren of aggregeren van persoonsgegevens k
 
 	De Gemeente Amsterdam maakt gebruik van een algoritme waarmee mensen op straat beter geanonimiseerd kunnen worden; Blurring as a Service. Hierbij worden persoonsgegevens zoals gezicht en andere lichaamskenmerken (biometrische persoonsgegevens) vervaagd of ‘geblurd’.
 
-	Bron: [Gemeente Amsterdam - Blurring as a Service]([https://www.amsterdam.nl/privacy/verwerkingsregister/verwerkingsregister-avg/](https://algoritmeregister.amsterdam.nl/ai-system/blurring-as-a-service/1132/))
+	Bron: [Gemeente Amsterdam - Blurring as a Service](https://algoritmeregister.amsterdam.nl/ai-system/blurring-as-a-service/1132/)
     
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
 

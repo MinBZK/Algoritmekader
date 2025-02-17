@@ -10,7 +10,7 @@ maatregel:
 - 0-org-11-gebruikersbeheer
 - 0-org-13-wachtwoordbeheer
 - 0-org-14-wijzigingenproces
-- 2-owp-36-voorkom-kwetsbaarheden-supplychain
+- 2-owp-34-voorkom-kwetsbaarheden-supplychain
 - 4-owk-01-security-by-design
 - 4-owk-04-logging
 - 4-owk-09-adversarial-aanvallen

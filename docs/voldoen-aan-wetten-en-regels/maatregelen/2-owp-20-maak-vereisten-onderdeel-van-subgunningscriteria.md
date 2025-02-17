@@ -1,7 +1,7 @@
 ---
 # vul hier een titel in voor deze maatregel
 title: Maak vereisten onderdeel van (sub)gunningscriteria bij een aanbesteding
-id: urn:nl:ak:mtr:owp-21
+id: urn:nl:ak:mtr:owp-20
 # geef hier een korte toelichting van deze maatregel
 toelichting: Door een vereiste onderdeel te maken van (sub)gunningscriteria, ontstaat een mogelijkheid voor aanbieders om zich te onderscheiden van andere aanbieders. Dit kan zorgen voor een extra stimulatie op kwaliteitsaspecten van algoritmes. 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel

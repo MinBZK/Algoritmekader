@@ -1,6 +1,6 @@
 ---
 title: Voorkom kwetsbaarheden die geïntroduceerd worden in de supply-chain van het algoritme
-id: urn:nl:ak:mtr:owp-36
+id: urn:nl:ak:mtr:owp-34
 toelichting: Het in gebruik nemen van algoritmes die door anderen zijn ontwikkeld brengt risico’s met zich mee waar je je tegen moet beschermen. Deze risico’s moeten adequaat afgedekt worden door afhankelijkheden te analyseren, afspraken te maken met leveranciers en controles uit te voeren.
 vereiste:
 - aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging

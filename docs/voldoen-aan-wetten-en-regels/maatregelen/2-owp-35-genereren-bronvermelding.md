@@ -1,6 +1,6 @@
 ---
 title: Maak gebruik van een algoritme dat bronvermelding kan genereren bij de output
-id: urn:nl:ak:mtr:owp-37
+id: urn:nl:ak:mtr:owp-35
 toelichting: Kies bij het ontwikkelen of inkopen een algoritme dat bronvermelding kan genereren bij de output, zodat een beoordeling kan worden gegeven of het algoritme naar behoren functioneert.  
 vereiste: 
 - dat-01-databankenwet

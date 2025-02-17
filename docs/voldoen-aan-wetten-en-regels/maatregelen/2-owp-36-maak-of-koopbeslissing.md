@@ -1,6 +1,6 @@
 ---
 title: Bepaal of een algoritme moet worden ontwikkeld of ingekocht
-id: urn:nl:ak:mtr:owp-38
+id: urn:nl:ak:mtr:owp-36
 toelichting: Als in de ontwerpfase duidelijk is geworden welke doelstellingen en behoeften gerealiseerd moeten worden, dan moet de vraag worden beantwoord of het beoogde algoritme moet worden gemaakt of ingekocht.
 vereiste:
 - awb-01-zorgvuldigheidsbeginsel

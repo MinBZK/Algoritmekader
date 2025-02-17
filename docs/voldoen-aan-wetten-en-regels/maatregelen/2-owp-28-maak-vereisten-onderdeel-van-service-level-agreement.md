@@ -1,7 +1,7 @@
 ---
 # vul hier een titel in voor deze maatregel
 title: Maak vereisten voor algoritmes onderdeel van de Service Level Agreement
-id: urn:nl:ak:mtr:owp-29
+id: urn:nl:ak:mtr:owp-28
 # geef hier een korte toelichting van deze maatregel
 toelichting: Onderzoek of het relevant is om vereisten voor algoritmes te specificeren in de Service Level Agreement (SLA). Met een SLA kunnen specifieke afspraken worden gemaakt over de kwaliteit van de dienstverlening van de aanbieder.
 

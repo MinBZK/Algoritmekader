@@ -1,6 +1,6 @@
 ---
 title: Stel vast welke betrokkenen geïnformeerd moeten worden en welke informatie zij nodig hebben 
-id: urn:nl:ak:mtr:owp-31
+id: urn:nl:ak:mtr:owp-30
 toelichting: Het is van belang dat betrokkenen worden geïnformeerd over de ontwikkeling en inzet van algoritmes binnen de organisatie. 
 vereiste:
 - awb-01-zorgvuldigheidsbeginsel

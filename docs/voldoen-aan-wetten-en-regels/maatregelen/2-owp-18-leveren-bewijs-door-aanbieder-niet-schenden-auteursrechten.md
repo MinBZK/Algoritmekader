@@ -1,7 +1,7 @@
 ---
 # vul hier een titel in voor deze maatregel
 title: Laat aanbieder(s) bewijs leveren dat de door hen ontwikkelde algoritmes geen inbreuk maken op de auteursrechten van derden met de trainingsdata en de output
-id: urn:nl:ak:mtr:owp-19
+id: urn:nl:ak:mtr:owp-18
 # geef hier een korte toelichting van deze maatregel
 toelichting: Maak het al dan niet kunnen leveren van bewijs door een aanbieder dat auteursrechten niet worden geschonden door de trainingsdata of output van een algoritme een vast onderdeel van de aanbesteding.
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel

@@ -1,6 +1,6 @@
 ---
 title: Pas uitlegbaarheidstechnieken toe en evalueer en valideer deze
-id: urn:nl:ak:mtr:owp-33
+id: urn:nl:ak:mtr:owp-32
 toelichting: Uitlegbaarheidstechnieken helpen om de werking van een algoritme transparant te maken.
 vereiste:
 - aia-08-transparantie-aan-gebruiksverantwoordelijken

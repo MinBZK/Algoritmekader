@@ -1,7 +1,7 @@
 ---
 # vul hier een titel in voor deze maatregel
 title: Vul technische documentatie van aanbieder aan met relevante informatie vanuit de gebruiksverantwoordelijke 
-id: urn:nl:ak:mtr:owp-23
+id: urn:nl:ak:mtr:owp-22
 # geef hier een korte toelichting van deze maatregel
 toelichting: Bespreek met het projectteam welke onderdelen van de technische documentatie (zoals genoemd in de AI-verordening) van het algoritme door wie moeten worden ingevuld. 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel

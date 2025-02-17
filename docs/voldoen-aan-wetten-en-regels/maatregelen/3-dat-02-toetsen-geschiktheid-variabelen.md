@@ -5,6 +5,7 @@ toelichting:
 vereiste:
 - grw-02-non-discriminatie
 - avg-01-persoonsgegevens-worden-rechtmatig-verwerkt
+- avg-04-proportionaliteit-en-subsidiariteit
 levenscyclus:
 - dataverkenning-en-datapreparatie
 - verificatie-en-validatie
@@ -41,7 +42,7 @@ Doorloop voor iedere potentiële indicator de volgende stappen:
 
 2. Ga na of de variabele of indicator een *inhoudelijk* verband heeft met het [beoogde doel](1-pba-02-formuleren-doelstelling.md). Een correlatie in de data is in veel gevallen niet voldoende om het gebruik te rechtvaardigen. 
 
-3. Ga na of de variabele of indicator een proxy is voor [kwetsbare groepen](2-owp-08-kwetsbare-groepen.md). Controleer bijvoorbeeld of er een correlatie bestaat tussen de variabele en nationaliteit of ras. Dit 
+3. Ga na of de variabele of indicator een proxy is voor [kwetsbare groepen](2-owp-08-kwetsbare-groepen.md). Controleer bijvoorbeeld of er een correlatie bestaat tussen de variabele en nationaliteit of ras.
 
 4. Bepaal of de [datakwaliteit](3-dat-01-datakwaliteit.md) van de variabele of indicator voldoende is. Bepaal of de beschikbare data voldoende representatief is voor het fenomeen dat bedoeld wordt.   
 

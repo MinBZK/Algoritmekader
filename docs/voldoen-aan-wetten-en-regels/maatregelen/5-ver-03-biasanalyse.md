@@ -69,7 +69,7 @@ Wel is duidelijk dat verschillende criteria verband houden met bijvoorbeeld nati
 
 Wel zijn in de jurisprudentie verschillende voorbeelden en aanknopingspunten te vinden. 
 Zo staat vast dat selectie op basis van fysieke etnische kenmerken, zoals huidskleur, direct onderscheid op grond van ras oplevert[^2].
-Een ander voorbeeld is dat onderscheid op grond van een niet-westers klinkende naam direct onderscheid op grond van afkomst (en dus ras) oplevert[^3].
+Een ander voorbeeld is dat onderscheid op grond van een niet-westers klinkende naam direct onderscheid op grond van afkomst (en dus ras) oplevert[^2].
 
 [^1]: Er is een wetsvoorstel om de term 'hetero- of homoseksuele gerichtheid' in de Algmemene wet gelijke behandeling (Awgb) te wijzigingen in 'seksuele gerichtheid'. Met deze wijziging sluit de Awgb aan bij een eerdere wijziging van artikel 1 van de Grondwet. 
 

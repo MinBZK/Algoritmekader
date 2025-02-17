@@ -25,6 +25,9 @@ risicogroep:
 - niet-van-toepassing
 rol-ai-act:
 - aanbieder
+- gebruiksverantwoordelijke
+- importeur
+- distributeur
 transparantieverplichting: 
 - geen-transparantieverplichting
 - transparantieverplichting 

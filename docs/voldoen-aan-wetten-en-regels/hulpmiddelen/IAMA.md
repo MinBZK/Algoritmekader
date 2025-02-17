@@ -41,6 +41,8 @@ Het IAMA kan op dit moment op veel politieke en internationale belangstelling re
 In zowel de Eerste als Tweede Kamer zijn hierover [moties ingediend](https://www.tweedekamer.nl/kamerstukken/moties/detail?id=2022D12329&did=2022D12329) en vragen gesteld. 
 Daarbij is het IAMA een van de weinige instrumenten in de EU die een interdisciplinaire discussie rondom (de ontwikkeling, inzet en monitoring van) algoritmes, AI en grondrechten initieert en bevordert. 
 
+Het IAMA heeft enige overlap met de AIIA. Het AIIA is echter specifiek voor AI ontwikkeld, waar het IAMA toepasbaar is op alle soorten algoritmes. 
+
 
 ## Auteur
 Het IAMA is ontwikkeld door de [Utrecht Data School](https://dataschool.nl/iama/). De auteurs van het IAMA zijn prof. mr. Janneke Gerards, dr. Mirko Tobias Schäfer, Arthur Vankan en Iris Muis, allen werkzaam aan de Universiteit Utrecht. Opdrachtgever voor de ontwikkeling is het Ministerie van Binnenlandse Zaken.

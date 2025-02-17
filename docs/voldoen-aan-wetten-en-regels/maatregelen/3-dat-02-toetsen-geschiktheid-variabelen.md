@@ -57,7 +57,7 @@ Doorloop voor iedere potentiële indicator de volgende stappen:
 Indien de variabelen niet voldoende worden getoetst op geschikheid bestaat het risico dat deze variabelen onrechtmatig worden gebruikt, of dat het gebruik van deze variabelen leidt tot nadelige effecten. Dit kan leiden tot discriminerende effecten van het algoritme. 
 
 ## Bronnen
-- [Toetsingskader risicoprofilering – Normen tegen discriminatie op grond van ras en nationaliteit, College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/4093c026-ae41-4c1d-aa78-4ce0e205b5de)
+- [Toetsingskader risicoprofilering – Normen tegen discriminatie op grond van ras en nationaliteit, College voor de Rechten van de Mens](../hulpmiddelen/toetsingskader-risicoprofilering.md)
 - [Advies geautomatiseerde besluitvorming, Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/documenten/advies-geautomatiseerde-besluitvorming)
 - [Publieke standaard profileringsalgoritme, Algorithm Audit](https://algorithmaudit.eu/nl/knowledge-platform/knowledge-base/public_standard_profiling/)
 

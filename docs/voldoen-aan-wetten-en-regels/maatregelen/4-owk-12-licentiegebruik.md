@@ -1,6 +1,6 @@
 ---
 title: Gebruik een passende licentie bij publicatie of gebruik van (open) data
-id: urn:nl:ak:mtr:owk-11
+id: urn:nl:ak:mtr:owk-12
 toelichting: Gebruik bij het publiceren of gebruiken van data een passende licentie die aansluit bij het beoogde doel en de bescherming van burgers. Overweeg hierbij zorgvuldig welke voorwaarden nodig zijn, zoals bronvermelding of het delen onder gelijke voorwaarden.
 levenscyclus:
 - ontwikkelen

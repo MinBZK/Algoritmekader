@@ -32,6 +32,8 @@ transparantieverplichting:
 - geen-transparantieverplichting
 - transparantieverplichting 
 systeemrisico:
+- systeemrisico
+- geen-systeemrisico
 - niet-van-toepassing
 open-source: 
 - open-source

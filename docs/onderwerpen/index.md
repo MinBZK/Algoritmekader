@@ -52,7 +52,7 @@ hide:
 
     Hulp bij verantwoord gebruik van gegevens voor algoritmes, zoals persoonsgegevens en privacygevoelige gegevens.
 
--   [Inkoop van verantwoorde algoritmes](publieke-inkoop.md)
+-   [Publieke inkoop van verantwoorde algoritmes](publieke-inkoop.md)
     
     ---
 

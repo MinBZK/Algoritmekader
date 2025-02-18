@@ -44,7 +44,7 @@ Er moet gezorgd worden dat er een alternatief plan is voor als het algoritme nie
 Dit proces bevat in ieder geval de volgende stappen:
 
 ### Leg vast wanneer het algoritme niet meer werkt zoals beoogd
-- Leg vast wat de [beoogde werking van het algoritme] is(1-pba-02-formuleren-doelstelling.md).
+- Leg vast wat de [beoogde werking van het algoritme](1-pba-02-formuleren-doelstelling.md) is.
 - Bepaal of [de geïmplementeerde werking overeenkomt met de vastgelegde beoogde werking](5-ver-01-functioneren-in-lijn-met-doeleinden.md) en wanneer het algoritme gestopt moet worden. Dit gebeurt tijdens een [evaluatie](7-mon-04-evaluatieplan.md) of door de [continue monitoring](7-mon-07-plan-continue-monitoring.md). 
 
 ### Zorg dat beslissingen kunnen worden herzien
@@ -86,8 +86,8 @@ Als er geen duidelijke acties zijn gedefinieerd, kan dat bijvoorbeeld leiden tot
 
 !!! example "Ministerie van Economische Zaken - Uitwijkplan"
 
-	Het ministerie van Economische zaken heeft een template voor een Disaster Recovery Plan (DRP) opgesteld. Aan de hand van dit document kunnen duidelijke handelingen en verantwoordelijkheden opgeschreven worden wanneer een algoritme stop gezet moet worden.
-	Dit DRP is vrij algemeen en heeft geen specificaties voor algoritmes in het template staan. Dit zal dus verder uitgewerkt moeten worden, maar dit DRP kan als basis dienen voor het verder uitwerken.
+	Het Ministerie van Economische zaken heeft een template voor een Disaster Recovery Plan (DRP) opgesteld. Aan de hand van dit document kunnen duidelijke handelingen en verantwoordelijkheden opgeschreven worden wanneer een algoritme stop gezet moet worden.
+	Dit DRP is vrij algemeen en heeft geen specificaties voor algoritmes in het template staan. Dit zal dus verder uitgewerkt moeten worden, maar dit DRP zou als inspiratie kunnen dienen.
 	
 	Bron: [Uitwijk- en herstelplan](https://www.digitaltrustcenter.nl/informatie-advies/uitwijk-en-herstelplan)
 

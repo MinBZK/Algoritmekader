@@ -29,7 +29,7 @@ hide:
     <ul>
       <li><a href="overhetalgoritmekader/soorten-algoritmes/">Wat is een algoritme?</a></li>
       <li><a href="levenscyclus/">Levenscyclus van algoritmes</a></li>
-       <li><a href="onderwerpen/governance/">Governance van algoritmes binnen je organisatie</a></li>
+       <li><a href="onderwerpen/governance/">Governance van je algoritmes</a></li>
         <li><a href="rollen/">Rollen</a></li>
     </ul>
     

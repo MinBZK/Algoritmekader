@@ -15,10 +15,17 @@ Overzicht van maatregelen waarmee je kunt voldoen aan de vereisten voor de overh
 ## Alle maatregelen zijn adviezen
 De maatregelen zijn niet verplicht. Het zijn adviezen uit:
 
-- Toetsingskader Algoritmes, Algemene Rekenkamer
-- Onderzoekskader algoritmes, Auditdienst Rijk
-- nationale en internationale standaarden (NEN, JTC21 en ISO)
+- [Toetsingskader Algoritmes, Algemene Rekenkamer](../hulpmiddelen/toetsingskader-algemene-rekenkamer.md)
+- [Onderzoekskader algoritmes, Auditdienst Rijk](../hulpmiddelen/onderzoekskader-adr.md)
+- nationale en internationale [standaarden](../hulpmiddelen/standaarden.md) (NEN, JTC21 en ISO)
+- andere relevante bronnen
 - onze werkgroepen
+
+!!! info "Benieuwd hoe de maatregelen samenhangen met het Onderzoekskader van de Auditdienst Rijk en het Toetsingskader van de Algemene Rekenkamer?"
+
+    Bekijk de [mapping](https://github.com/MinBZK/Algoritmekader/blob/main/relatie-ak-tot-toetsingskaders.csv) tussen de maatregelen van het Algoritmekader en de maatregelen uit het [Toetsingskader Algoritmes](../hulpmiddelen/toetsingskader-algemene-rekenkamer.md) en het [Onderzoekskader algoritmes](../hulpmiddelen/onderzoekskader-adr.md). Hierin kan je voor iedere maatregel uit één van de kaders vinden waar deze terugkomt in het Algoritmekader. Dit staat ook altijd aangegeven in de bronvermelding van de betreffende maatregel. 
+
+    [Download de mapping](https://github.com/MinBZK/Algoritmekader/blob/main/relatie-ak-tot-toetsingskaders.csv){ .md-button .md-button--primary }
 
 ### Voorbeeld
 > Onderzoek het ontwikkelde algoritme op onbewuste vooringenomenheid (discriminatie) door middel van een bias-analyse.

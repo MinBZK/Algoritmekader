@@ -62,7 +62,9 @@ function loadHTML(url, targetDivId) {
 }
 
 function convertLabels(labels) {
-  return labels.map(function (label) { return labelMapper.find(label) })
+  return labels.map(function (label) {
+    return labelMapper.find(label)
+  })
 }
 
 function updateLabels(labels) {
@@ -70,7 +72,7 @@ function updateLabels(labels) {
   document.getElementById("ai-act-info-with-labels").classList.remove("display-none");
   document.getElementById("ai-act-info-no-labels").classList.add("display-none");
   // appendQueryParams({"labels": convertedLabels.map(obj=> obj.label).join(",")});
-  document.getElementById('labelsInput').value = convertedLabels.map(obj=> obj.label).join(",");
+  document.getElementById('labelsInput').value = convertedLabels.map(obj => obj.label).join(",");
 
   let labelsHTML = "";
   for (const label_obj of convertedLabels) {
@@ -81,13 +83,19 @@ function updateLabels(labels) {
 
 function getLabelsFromForm(el) {
   const formData = new FormData(el);
-  const jsonObject = Array.from(formData.entries()).reduce((resultArray, [key, value]) => {
-    resultArray[key] = resultArray.hasOwnProperty(key) ? (Array.isArray(resultArray[key]) ? [...resultArray[key], value] : [resultArray[key], value]) : value;
-    return resultArray;
-  }, {});
-  const labels = Object.values(jsonObject).flatMap(v => Array.isArray(v) ? v : [v]).filter(v => v !== "");
+
+  const labels = [];
+  const uniqueKeys = [...new Set(formData.keys())];
+
+  for (const key of uniqueKeys) {
+    formData.getAll(key).forEach(value => {
+      if (value.trim() !== '') {
+        labels.push(`${key}-${value}`);
+      }
+    });
+  }
+
   if (labels.length > 0) {
-    console.log(labels);
     updateLabels(labels);
   } else {
     document.getElementById("ai-act-info-with-labels").classList.add("display-none");
@@ -111,15 +119,28 @@ function removeLabel(event) {
 
 function updateAIActForm() {
   let currentLabels = document.getElementById('labelsInput').value.split(",");
-  document.getElementById("ai-act-labels-form").querySelectorAll('[value]').forEach(element => {
-    if (currentLabels.includes(labelMapper.find(element.getAttribute('value')).label)) {
-      if (element.nodeName === "OPTION") {
-        element.setAttribute("selected", "selected");
-      } else {
+  document.getElementById("ai-act-labels-form").querySelectorAll("input").forEach(
+    element => {
+      let groupName = element.getAttribute("name");
+      let labelValue = element.getAttribute("value");
+      let labelWithGroup = groupName + "-" + labelValue;
+      if (currentLabels.includes(labelMapper.find(labelWithGroup).label)) {
         element.setAttribute("checked", "checked");
       }
     }
-  })
+  )
+
+  document.getElementById("ai-act-labels-form").querySelectorAll("select").forEach(
+    element => {
+      let groupName = element.getAttribute("name");
+      element.querySelectorAll("option").forEach(optionElement => {
+        let labelValue = optionElement.getAttribute("value");
+        let labelWithGroup = groupName + "-" + labelValue;
+        if (currentLabels.includes(labelMapper.find(labelWithGroup).label)) {
+          optionElement.setAttribute("selected", "selected");
+        }
+      })
+    })
 }
 
 function appendQueryParams(params) {
@@ -144,7 +165,7 @@ class ValueMapper {
   }
 
   addEntry(label, display_value, group, synonyms = []) {
-    const standardFormat = { label, group, display_value };
+    const standardFormat = {"label": group + "-" + label.toLowerCase(), group, display_value};
     this.map.set(group + "-" + label.toLowerCase(), standardFormat);
     synonyms.forEach(synonym => {
       this.map.set(group + "-" + synonym.toLowerCase(), standardFormat);
@@ -179,13 +200,13 @@ labelMapper.addEntry('uitzondering-van-toepassing', 'Uitzondering van toepassing
 labelMapper.addEntry('aanbieder', 'Aanbieder', 'rol-ai-act', []);
 labelMapper.addEntry('gebruiksverantwoordelijke', 'Gebruiksverantwoordelijke', 'rol-ai-act', [])
 labelMapper.addEntry('importeur', 'Importeur', 'rol-ai-act', []);
-labelMapper.addEntry('distributeur', 'Distributeur','rol-ai-act', []);
+labelMapper.addEntry('distributeur', 'Distributeur', 'rol-ai-act', []);
 
-labelMapper.addEntry('ai-systeem', 'AI Systeem', 'soort-toepassing', ['AI-Systeem','ai-systeem']);
+labelMapper.addEntry('ai-systeem', 'AI Systeem', 'soort-toepassing', ['AI-Systeem', 'ai-systeem']);
 labelMapper.addEntry('ai-systeem-voor-algemene-doeleinden', 'AI Systeem voor algemene doeleinden', 'soort-toepassing', ['AI-Systeem voor algemene doeleinden']);
-labelMapper.addEntry('ai-model-voor-algemene-doeleinden', 'AI model voor algemen doeleinden', 'soort-toepassing',['AI-model voor algemene doeleinden']);
+labelMapper.addEntry('ai-model-voor-algemene-doeleinden', 'AI model voor algemen doeleinden', 'soort-toepassing', ['AI-model voor algemene doeleinden']);
 labelMapper.addEntry('impactvol-algoritme', 'Impactvol algoritme', 'soort-toepassing', []);
-labelMapper.addEntry('niet-impactvol-algoritme', 'Niet-impactvol algoritme','soort-toepassing', []);
+labelMapper.addEntry('niet-impactvol-algoritme', 'Niet-impactvol algoritme', 'soort-toepassing', []);
 
 labelMapper.addEntry('transparantieverplichting', 'Transparantieverplichting', 'transparantieverplichting', []);
 labelMapper.addEntry('geen-transparantieverplichting', 'Geen transparantieverplichting', 'transparantieverplichting', []);

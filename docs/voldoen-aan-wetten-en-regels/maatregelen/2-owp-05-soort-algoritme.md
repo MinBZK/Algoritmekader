@@ -44,6 +44,8 @@ Let op dat niet enkel naar de AI-verordening wordt gekeken. Ook op impactvolle a
 
 Deze stap is van groot belang, omdat dit bijvoorbeeld voor ontwikkelteams mede bepalend is waar het te ontwikkelen systeem aan moet voldoen of welke contractuele verplichtingen moeten worden gecreëerd tussen opdrachtgever en aanbieder van algoritmes.
 
+Je kan ook de [Gids AI-verordening](https://www.rijksoverheid.nl/documenten/brochures/2024/10/16/gids-ai-verordening) gebruiken om te bepalen wat de AI-verordening betekent voor jouw organisatie of toepassing. 
+
 ## Risico
 Als de risicogroep waar een algoritme bij hoort niet wordt bepaald is er een risico op het niet naleven van de AI-verordening wat kan leiden tot sancties of boetes. 
 
@@ -56,8 +58,9 @@ Als de risicogroep waar een algoritme bij hoort niet wordt bepaald is er een ris
 
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
-[Beslishulp](https://ai-verordening-beslishulp.apps.digilab.network/)
-[Handreiking Algoritmeregister](https://www.digitaleoverheid.nl/document/handreiking-algoritmeregister/)
+- [Beslishulp AI-verordening](https://ai-verordening-beslishulp.apps.digilab.network/)
+- [Handreiking Algoritmeregister](https://www.digitaleoverheid.nl/document/handreiking-algoritmeregister/)
+- [Gids AI-verordening](https://www.rijksoverheid.nl/documenten/brochures/2024/10/16/gids-ai-verordening)
 
 ## Voorbeelden
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->

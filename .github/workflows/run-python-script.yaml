@@ -24,6 +24,11 @@ jobs:
       - name: Run Python script
         run: python script/analysis-maatregelen.py
 
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
       - name: push changes
         run: |
           git add relatie-ak-tot-toetsingskaders.csv

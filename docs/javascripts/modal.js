@@ -1,3 +1,73 @@
+function updateFieldsBasedOnType(selectedType) {
+  // Get all relevant form fields
+  const riskGroupField = document.getElementById('risk-group');
+  const transparencyField = document.getElementById('transparency-obligations');
+  const systemicRiskField = document.getElementById('systemic-risk');
+  
+  // Get their parent rows
+  const riskGroupRow = riskGroupField.closest('.form__row');
+  const transparencyRow = transparencyField.closest('.form__row');
+  const systemicRiskRow = systemicRiskField.closest('.form__row');
+
+  // First disable and reset all fields
+  [riskGroupField, transparencyField, systemicRiskField].forEach(field => {
+    field.value = '';
+    field.disabled = true;
+  });
+
+  // Make sure all rows are visible
+  [riskGroupRow, transparencyRow, systemicRiskRow].forEach(row => {
+    row.style.display = '';
+  });
+
+  // Determine which fields should be enabled based on type
+  const isAISystem = selectedType === 'ai-systeem' || selectedType === 'ai-systeem-voor-algemene-doeleinden';
+  const isAIModel = selectedType === 'ai-model-voor-algemene-doeleinden';
+
+  // Enable relevant fields based on selection
+  if (isAISystem) {
+    // For AI systems, enable risk group and transparency
+    riskGroupField.disabled = false;
+    transparencyField.disabled = false;
+    // Keep systemic risk disabled but visible
+    systemicRiskField.disabled = true;
+  } else if (isAIModel) {
+    // For AI models, only enable systemic risk
+    systemicRiskField.disabled = false;
+    // Keep others disabled but visible
+    riskGroupField.disabled = true;
+    transparencyField.disabled = true;
+  } else if (selectedType === 'impactvol-algoritme' || selectedType === 'niet-impactvol-algoritme') {
+    // For algoritmes, keep all fields disabled but visible
+    [riskGroupField, transparencyField, systemicRiskField].forEach(field => {
+      field.disabled = true;
+    });
+  }
+}
+
+// Initialize tooltips
+function initializeTooltips() {
+  const tooltips = document.querySelectorAll('.info-icon');
+  tooltips.forEach(tooltip => {
+    tooltip.addEventListener('mouseover', (e) => {
+      const tooltipText = e.target.getAttribute('title');
+      const tooltipDiv = document.createElement('div');
+      tooltipDiv.className = 'tooltip';
+      tooltipDiv.textContent = tooltipText;
+      document.body.appendChild(tooltipDiv);
+      
+      const rect = e.target.getBoundingClientRect();
+      tooltipDiv.style.top = `${rect.top - tooltipDiv.offsetHeight - 5}px`;
+      tooltipDiv.style.left = `${rect.left + (rect.width / 2) - (tooltipDiv.offsetWidth / 2)}px`;
+    });
+
+    tooltip.addEventListener('mouseout', () => {
+      const tooltips = document.querySelectorAll('.tooltip');
+      tooltips.forEach(t => t.remove());
+    });
+  });
+}
+
 function closeModal() {
   document.getElementById('modal').classList.add("display-none")
 }
@@ -71,35 +141,64 @@ function updateLabels(labels) {
   const convertedLabels = convertLabels(labels);
   document.getElementById("ai-act-info-with-labels").classList.remove("display-none");
   document.getElementById("ai-act-info-no-labels").classList.add("display-none");
-  // appendQueryParams({"labels": convertedLabels.map(obj=> obj.label).join(",")});
   document.getElementById('labelsInput').value = convertedLabels.map(obj => obj.label).join(",");
 
+  // Filter out 'niet-van-toepassing' labels and create a unique set based on display_value
+  const uniqueLabels = new Map(); // Using Map to maintain order
+  
+  convertedLabels.forEach(label_obj => {
+      // Skip 'niet-van-toepassing' labels
+      if (!label_obj.label.endsWith('-niet-van-toepassing')) {
+          // Use display_value as key to prevent duplicates
+          uniqueLabels.set(label_obj.display_value, label_obj);
+      }
+  });
+
   let labelsHTML = "";
-  for (const label_obj of convertedLabels) {
-    labelsHTML += "<span data-label-value='" + label_obj.label + "' class='info-label' onclick='removeLabel(event)'>" + label_obj.display_value + "</span>"
+  for (const label_obj of uniqueLabels.values()) {
+      labelsHTML += "<span data-label-value='" + label_obj.label + "' class='info-label' onclick='removeLabel(event)'>" + 
+                   label_obj.display_value + "</span>";
   }
+  
   document.getElementById('ai-act-labels-container').innerHTML = labelsHTML;
 }
-
 function getLabelsFromForm(el) {
   const formData = new FormData(el);
-
   const labels = [];
-  const uniqueKeys = [...new Set(formData.keys())];
-
-  for (const key of uniqueKeys) {
-    formData.getAll(key).forEach(value => {
-      if (value.trim() !== '') {
-        labels.push(`${key}-${value}`);
+  
+  // Get all select elements in the form
+  const selects = el.querySelectorAll('select');
+  
+  // Process each select
+  selects.forEach(select => {
+      const name = select.getAttribute('name');
+      // If nothing is selected, add the "niet-van-toepassing" value
+      if (!select.value) {
+          labels.push(`${name}-niet-van-toepassing`);
+      } else {
+          // Add the selected value
+          labels.push(`${name}-${select.value}`);
       }
-    });
+  });
+
+  // Process checkboxes (for roles)
+  const uniqueKeys = [...new Set(formData.keys())];
+  for (const key of uniqueKeys) {
+      // Only process non-select fields (i.e., checkboxes)
+      if (!key.endsWith('select')) {
+          formData.getAll(key).forEach(value => {
+              if (value.trim() !== '') {
+                  labels.push(`${key}-${value}`);
+              }
+          });
+      }
   }
 
   if (labels.length > 0) {
-    updateLabels(labels);
+      updateLabels(labels);
   } else {
-    document.getElementById("ai-act-info-with-labels").classList.add("display-none");
-    document.getElementById("ai-act-info-no-labels").classList.remove("display-none");
+      document.getElementById("ai-act-info-with-labels").classList.add("display-none");
+      document.getElementById("ai-act-info-no-labels").classList.remove("display-none");
   }
   closeModal();
 }

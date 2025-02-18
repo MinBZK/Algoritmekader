@@ -224,18 +224,59 @@ function evaluateLabelExpression(expression, labels) {
     if (expression === "" || labels.length === 0) {
         return false;
     }
-    // replace the string with function calls to hasLabel so we get true / false values
-    const transformedExpression = expression.replace(/["']?([a-zA-Z0-9-_]+)["']?/g, "hasLabel('$1')");
 
-    // create the function that executes our expression
-    const functionBody =
-      'const hasLabel = (label) => labels.includes(labelMapper.find(label).label);' +
-      'return ' + transformedExpression + ';';
+    // Special case for "uitzondering-van-toepassing"
+    if (expression.trim() === "uitzondering-van-toepassing") {
+        return labels.includes(labelMapper.find("risicogroep-uitzondering-van-toepassing").label);
+    }
+
+    // Split all labels into an array
+    const allLabels = expression.split('||').map(label => label.trim());
+    
+    // Group by base category
+    const categoryGroups = {};
+    allLabels.forEach(label => {
+        // Extract the main category based on known prefixes
+        let baseCategory;
+        if (label.startsWith('soort-toepassing')) baseCategory = 'soort-toepassing';
+        else if (label.startsWith('risicogroep')) baseCategory = 'risicogroep';
+        else if (label.startsWith('rol-ai-act')) baseCategory = 'rol-ai-act';
+        else if (label.startsWith('transparantieverplichting')) baseCategory = 'transparantieverplichting';
+        else if (label.startsWith('systeemrisico')) baseCategory = 'systeemrisico';
+        else if (label.startsWith('open-source')) baseCategory = 'open-source';
+        else if (label === 'uitzondering-van-toepassing') baseCategory = 'risicogroep';
+        else baseCategory = label.split('-')[0];
+        
+        if (!categoryGroups[baseCategory]) {
+            categoryGroups[baseCategory] = new Set();
+        }
+
+        // Special handling for uitzondering-van-toepassing
+        if (label === 'uitzondering-van-toepassing') {
+            categoryGroups[baseCategory].add('risicogroep-uitzondering-van-toepassing');
+        } else {
+            categoryGroups[baseCategory].add(label);
+        }
+    });
+
+    // Build expression with proper grouping
+    const groupedExpression = Object.entries(categoryGroups)
+        .map(([category, labels]) => {
+            // Convert Set to Array and create OR expression
+            const labelArray = Array.from(labels);
+            // Always use parentheses for consistency
+            return `(${labelArray.map(label => `hasLabel('${label}')`).join(' || ')})`;
+        })
+        .join(' && ');
+
+    // Create the function that executes our expression
+    const functionBody = 
+        'const hasLabel = (label) => labels.includes(labelMapper.find(label).label);' +
+        'return ' + groupedExpression + ';';
 
     try {
         return new Function('labels', functionBody)(labels);
     } catch (error) {
-        console.error('Error evaluating expression:', error);
         return false;
     }
 }

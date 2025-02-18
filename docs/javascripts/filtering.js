@@ -127,7 +127,6 @@ function filterTable() {
     var selectedRoles = Array.from(select.options)
         .filter(option => option.selected)
         .map(option => option.value.toUpperCase());
-    selectedRoles = [] // DIT IS STUK
 
     var levenscyclusSelect = document.getElementById("filterLevenscyclusSelect"); // Levenscyclus filter
     var selectedLevenscyclus = Array.from(levenscyclusSelect.options)
@@ -143,6 +142,18 @@ function filterTable() {
     var tr = table ? table.getElementsByTagName("tr") : [];
 
     var labelsInput = document.getElementById("labelsInput").value.split(",").map(item => item.trim()).filter(item => item !== "");
+
+    var labelsToFilterOn = []
+    if (labelsInput.length > 0) {
+        labelsToFilterOn.push(...labelsInput);
+        // prefill all labels that are missing, the rule is:
+        for (const [_, labels] of labelMapper.groups) {
+            let foundLabelInGroup = labelsInput.some(label => labels.has(label));
+            if (!foundLabelInGroup) {
+                labelsToFilterOn.push(...labels);
+            }
+        }
+    }
 
     for (let i = 1; i < tr.length; i++) { // Skip header row
         var dataLabels = ""
@@ -165,23 +176,38 @@ function filterTable() {
             var txtValue3 = lc.textContent || lc.innerText; // Levenscyclus value
             var txtValue4 = onderwerpen.textContent || onderwerpen.innerText; // Onderwerpen value
 
+            if (tr[i].getElementsByTagName("td")[2].querySelectorAll(".debug").length === 0) {
+                tr[i].getElementsByTagName("td")[2].innerHTML += "<div class='debug'></div>";
+            }
+            let debugDiv = tr[i].getElementsByTagName("td")[2].querySelectorAll(".debug")[0];
+
             // console.log(`Row ${i} values: `, { txtValue, txtValue2, txtValue3, txtValue4 });
 
             // Check if all selected filters are present
             var roleMatch = selectedRoles.every(role => txtValue2.toUpperCase().indexOf(role) > -1);
             var lcMatch = selectedLevenscyclus.every(lc => txtValue3.toUpperCase().indexOf(lc) > -1);
             var onderwerpMatch = selectedOnderwerpen.every(onderwerp => txtValue4.toUpperCase().indexOf(onderwerp) > -1);
-            var labelMatch = dataLabels === "" || labelsInput.length === 0 || evaluateLabelExpression(dataLabels, labelsInput);
-            var uitzonderingMatch = labelsInput.length > 0 && anyExpressionMatches(uitzonderingExpressions, labelsInput);
+            var labelMatch = dataLabels === "" || labelsToFilterOn.length === 0 || evaluateLabelExpression(dataLabels, labelsToFilterOn);
+            var uitzonderingMatch = anyExpressionMatches(uitzonderingExpressions, labelsInput);
+
+            debugDiv.innerHTML = "";
+            debugDiv.innerHTML += "Match condition: " + dataLabels + "</br></br>";
+            debugDiv.innerHTML += "Current labels: " + labelsToFilterOn + "</br>";
 
             if (uitzonderingMatch && labelMatch) {
+                tr[i].style.backgroundColor = "rgba(249, 105, 14, 0.15)";
                 labelMatch = false
+            } else if (labelMatch && dataLabels !== "") {
+                tr[i].style.backgroundColor = "rgba(0, 255, 0, 0.15)";
+            } else {
+                tr[i].style.backgroundColor = "rgba(0, 0, 255, 0.15)";
             }
 
             if (txtValue.toUpperCase().indexOf(filter) > -1 && roleMatch && lcMatch && onderwerpMatch && labelMatch) {
                 tr[i].style.display = "";
             } else {
-                tr[i].style.display = "none";
+                tr[i].style.backgroundColor = "red";
+                // tr[i].style.display = "none";
             }
         }
     }
@@ -195,6 +221,9 @@ Given an expression like: ("ai-systeem-voor-algemene-doeleinden" || "ai-systeem"
 and an array of labels, evaluates the expression and returns true or false.
  */
 function evaluateLabelExpression(expression, labels) {
+    if (expression === "" || labels.length === 0) {
+        return false;
+    }
     // replace the string with function calls to hasLabel so we get true / false values
     const transformedExpression = expression.replace(/["']?([a-zA-Z0-9-_]+)["']?/g, "hasLabel('$1')");
 

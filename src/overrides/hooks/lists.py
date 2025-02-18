@@ -61,17 +61,19 @@ def _create_table_row_2(file: File, filter_options: Dict[str, bool], current_fil
     vereiste = file.page.meta.get('vereiste', [])
     vereiste_id = file.page.meta.get('id', "")[14:] # remove the first part of the urn
     # AI act label fields
-    soort_toepassing = file.page.meta.get('soort-toepassing', [])
-    risicogroep = file.page.meta.get('risicogroep', [])
-    rol_ai_act = file.page.meta.get('rol-ai-act', [])
-    transparantieverplichting = file.page.meta.get('transparantieverplichting', [])
-    systeemrisico = file.page.meta.get('systeemrisico', [])
+    ai_act_labels = {
+        "soort-toepassing": file.page.meta.get('soort-toepassing', []),
+        "risicogroep": file.page.meta.get('risicogroep', []),
+        "rol-ai-act": file.page.meta.get('rol-ai-act', []),
+        "transparantieverplichting": file.page.meta.get('transparantieverplichting', []),
+        "systeemrisico": file.page.meta.get('systeemrisico', []),
+        "open-source": file.page.meta.get('open-source', []),
+    }
 
     # create match expression for labels
     label_match_expression = []
-    for arr in [soort_toepassing, risicogroep, rol_ai_act, transparantieverplichting, systeemrisico]:
-        if arr:
-            label_match_expression.append("(" + " || ".join(arr) + ")")
+    label_match_expression.append(" || ".join(f"{key}-{value}" for key, values in ai_act_labels.items() for value in values if values))
+    # label_match_expression.append("(" + " || ".join(labels) + ")")
     label_match_expression_str = " && ".join(label_match_expression) if label_match_expression else ""
 
     data_html_attribute = "data-labels=\"" + label_match_expression_str + "\""

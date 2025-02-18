@@ -9,27 +9,27 @@
     <div class="form__row">
         <label class="form__label" id="rol-label">Rol</label>
         <div class="input-checkbox">
-            <input type="checkbox" id="role-aanbieder" name="role" value="aanbieder" class="checkbox__input">
+            <input type="checkbox" id="role-aanbieder" name="rol-ai-act" value="aanbieder" class="checkbox__input">
             <label class="checkbox__label" for="role-aanbieder">Aanbieder</label>
         </div>
         <div class="input-checkbox">
-            <input type="checkbox" id="role-gebruiksverantwoordelijke" name="role" value="gebruiksverantwoordelijke"
+            <input type="checkbox" id="role-gebruiksverantwoordelijke" name="rol-ai-act" value="gebruiksverantwoordelijke"
                    class="checkbox__input">
             <label class="checkbox__label" for="role-gebruiksverantwoordelijke">Gebruiksverantwoordelijke</label>
         </div>
         <div class="input-checkbox">
-            <input type="checkbox" id="role-importeur" name="role" value="importeur" class="checkbox__input">
+            <input type="checkbox" id="role-importeur" name="rol-ai-act" value="importeur" class="checkbox__input">
             <label class="checkbox__label" for="role-importeur">Importeur</label>
         </div>
         <div class="input-checkbox">
-            <input type="checkbox" id="role-distributeur" name="role" value="distributeur" class="checkbox__input">
+            <input type="checkbox" id="role-distributeur" name="rol-ai-act" value="distributeur" class="checkbox__input">
             <label class="checkbox__label" for="role-distributeur">Distributeur</label>
         </div>
     </div>
 
     <div class="form__row">
         <label class="form__label" id="type-label" for="type">Type AI toepassing</label>
-        <select class="input-select" id="type" name="type">
+        <select class="input-select" id="type" name="soort-toepassing">
             <option value="" hidden="">Selecteer optie</option>
             <option value="ai-systeem">AI-systeem</option>
             <option value="ai-systeem-voor-algemene-doeleinden">AI-systeem voor algemene doeleinden</option>
@@ -43,7 +43,7 @@
     <div class="form__row">
         <label class="form__label" id="label-risk-group" for="risk-group">In welke risicogroep valt de
             applicatie?</label>
-        <select class="input-select" id="risk-group" name="risk-group">
+        <select class="input-select" id="risk-group" name="risicogroep">
             <option value="" hidden="">Selecteer optie</option>
             <option value="hoog-risico-ai-systeem">hoog-risico AI</option>
             <option value="geen-hoog-risico-ai-systeem">geen hoog-risico AI</option>
@@ -57,7 +57,7 @@
     <div class="form__row">
         <label class="form__label" id="label-transparency-obligations" for="transparency-obligations">Zijn er
             transparantieverplichtingen?</label>
-        <select class="input-select" id="transparency-obligations" name="transparency-obligations">
+        <select class="input-select" id="transparency-obligations" name="transparantieverplichting">
             <option value="" hidden="">Selecteer optie</option>
             <option value="transparantieverplichting">transparantieverplichting</option>
             <option value="geen-transparantieverplichting">geen transparantieverplichting</option>
@@ -68,7 +68,7 @@
     <div class="form__row">
         <label class="form__label" id="label-systemic-risk" for="systemic-risk">Is er sprake van een
             systeemrisico?</label>
-        <select class="input-select" id="systemic-risk" name="systemic-risk">
+        <select class="input-select" id="systemic-risk" name="systeemrisico">
             <option value="" hidden="">Selecteer optie</option>
             <option value="systeemrisico">systeemrisico</option>
             <option value="geen-systeemrisico">geen systeemrisico</option>
@@ -91,7 +91,7 @@
         <label class="form__label" id="label-conformity-assessment-body" for="conformity-assessment-body">Moet een
             conformiteitsbeoordeling worden
             uitgevoerd door een geaccrediteerde instantie?</label>
-        <select class="input-select" id="conformity-assessment-body" name="conformity-assessment_body">
+        <select class="input-select" id="conformity-assessment-body" name="beoordeling-door-derde-partij">
             <option value="" hidden="">Selecteer optie</option>
             <option value="beoordeling-door-derde-partij">beoordeling door derde partij</option>
             <option value="">niet van toepassing</option>

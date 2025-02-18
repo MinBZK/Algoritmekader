@@ -62,15 +62,17 @@ function loadHTML(url, targetDivId) {
 }
 
 function convertLabels(labels) {
-  return labels.map(function (label) { return labelMapper.find(label) })
+  return labels.map(function (label) {
+    return labelMapper.find(label)
+  })
 }
 
 function updateLabels(labels) {
   const convertedLabels = convertLabels(labels);
   document.getElementById("ai-act-info-with-labels").classList.remove("display-none");
   document.getElementById("ai-act-info-no-labels").classList.add("display-none");
-  appendQueryParams({"labels": convertedLabels.map(obj=> obj.label).join(",")});
-  document.getElementById('labelsInput').value = convertedLabels.map(obj=> obj.label).join(",");
+  // appendQueryParams({"labels": convertedLabels.map(obj=> obj.label).join(",")});
+  document.getElementById('labelsInput').value = convertedLabels.map(obj => obj.label).join(",");
 
   let labelsHTML = "";
   for (const label_obj of convertedLabels) {
@@ -81,11 +83,18 @@ function updateLabels(labels) {
 
 function getLabelsFromForm(el) {
   const formData = new FormData(el);
-  const jsonObject = Array.from(formData.entries()).reduce((resultArray, [key, value]) => {
-    resultArray[key] = resultArray.hasOwnProperty(key) ? (Array.isArray(resultArray[key]) ? [...resultArray[key], value] : [resultArray[key], value]) : value;
-    return resultArray;
-  }, {});
-  const labels = Object.values(jsonObject).flatMap(v => Array.isArray(v) ? v : [v]).filter(v => v !== "");
+
+  const labels = [];
+  const uniqueKeys = [...new Set(formData.keys())];
+
+  for (const key of uniqueKeys) {
+    formData.getAll(key).forEach(value => {
+      if (value.trim() !== '') {
+        labels.push(`${key}-${value}`);
+      }
+    });
+  }
+
   if (labels.length > 0) {
     updateLabels(labels);
   } else {
@@ -110,15 +119,28 @@ function removeLabel(event) {
 
 function updateAIActForm() {
   let currentLabels = document.getElementById('labelsInput').value.split(",");
-  document.getElementById("ai-act-labels-form").querySelectorAll('[value]').forEach(element => {
-    if (currentLabels.includes(labelMapper.find(element.getAttribute('value')).label)) {
-      if (element.nodeName === "OPTION") {
-        element.setAttribute("selected", "selected");
-      } else {
+  document.getElementById("ai-act-labels-form").querySelectorAll("input").forEach(
+    element => {
+      let groupName = element.getAttribute("name");
+      let labelValue = element.getAttribute("value");
+      let labelWithGroup = groupName + "-" + labelValue;
+      if (currentLabels.includes(labelMapper.find(labelWithGroup).label)) {
         element.setAttribute("checked", "checked");
       }
     }
-  })
+  )
+
+  document.getElementById("ai-act-labels-form").querySelectorAll("select").forEach(
+    element => {
+      let groupName = element.getAttribute("name");
+      element.querySelectorAll("option").forEach(optionElement => {
+        let labelValue = optionElement.getAttribute("value");
+        let labelWithGroup = groupName + "-" + labelValue;
+        if (currentLabels.includes(labelMapper.find(labelWithGroup).label)) {
+          optionElement.setAttribute("selected", "selected");
+        }
+      })
+    })
 }
 
 function appendQueryParams(params) {
@@ -139,16 +161,23 @@ function appendQueryParams(params) {
 class ValueMapper {
   constructor() {
     this.map = new Map();
+    this.groups = new Map();
   }
 
-  addEntry(label, display_value, synonyms = []) {
-    const standardFormat = { label, display_value };
-    this.map.set(label.toLowerCase(), standardFormat);
-    this.map.set(display_value.toLowerCase(), standardFormat);
+  addEntry(label, display_value, group, synonyms = []) {
+    const standardFormat = {"label": group + "-" + label.toLowerCase(), group, display_value};
+    this.map.set(group + "-" + label.toLowerCase(), standardFormat);
     synonyms.forEach(synonym => {
-      this.map.set(synonym.toLowerCase(), standardFormat);
+      this.map.set(group + "-" + synonym.toLowerCase(), standardFormat);
     });
+
+    if (!this.groups.has(group)) {
+      this.groups.set(group, new Set());
+    }
+
+    this.groups.get(group).add(group + "-" + label.toLowerCase());
   }
+
 
   find(value) {
     if (this.map.has(value.toLowerCase())) {
@@ -156,26 +185,40 @@ class ValueMapper {
     }
     return {"label": value, "display_value": value + " [onbekend]", "missing": true};
   }
+
 }
+
 
 // Usage example:
 const labelMapper = new ValueMapper();
 
-labelMapper.addEntry('hoog-risico-ai-systeem', 'Hoog risico AI Systeem', ['hoog-risico AI']);
-labelMapper.addEntry('gebruiksverantwoordelijke', 'Gebruiksverantwoordelijke', [])
-labelMapper.addEntry('aanbieder', 'Aanbieder', []);
-labelMapper.addEntry('importeur', 'Importeur', []);
-labelMapper.addEntry('distributeur', 'Distributeur', []);
-labelMapper.addEntry('ai-systeem', 'AI Systeem', ['AI-Systeem','ai-systeem']);
-labelMapper.addEntry('ai-model-voor-algemene-doeleinden', 'AI model voor algemen doeleinden', ['AI-model voor algemene doeleinden']);
-labelMapper.addEntry('verboden-ai', 'Verboden AI', ['Verboden AI']);
-labelMapper.addEntry('impactvol-algoritme', 'Impactvol algoritme', []);
-labelMapper.addEntry('transparantieverplichting', 'Transparantieverplichting', []);
-labelMapper.addEntry('ai-systeem-voor-algemene-doeleinden', 'AI Systeem voor algemene doeleinden', ['AI-Systeem voor algemene doeleinden']);
-labelMapper.addEntry('systeemrisico', 'Systeemrisico', []);
-labelMapper.addEntry('geen-hoog-risico-ai-systeem', 'Geen hoog-risico AI Systeem', ['geen hoog-risico AI']);
-labelMapper.addEntry('open-source', 'Open source', []);
-labelMapper.addEntry('in-gebruik', 'In gebruik', []);
+labelMapper.addEntry('hoog-risico-ai-systeem', 'Hoog risico AI Systeem', 'risicogroep', ['hoog-risico AI']);
+labelMapper.addEntry('geen-hoog-risico-ai-systeem', 'Geen hoog-risico AI Systeem', 'risicogroep', ['geen hoog-risico AI']);
+labelMapper.addEntry('verboden-ai', 'Verboden AI', 'risicogroep', ['Verboden AI']);
+labelMapper.addEntry('uitzondering-van-toepassing', 'Uitzondering van toepassing', 'risicogroep', []);
+
+labelMapper.addEntry('aanbieder', 'Aanbieder', 'rol-ai-act', []);
+labelMapper.addEntry('gebruiksverantwoordelijke', 'Gebruiksverantwoordelijke', 'rol-ai-act', [])
+labelMapper.addEntry('importeur', 'Importeur', 'rol-ai-act', []);
+labelMapper.addEntry('distributeur', 'Distributeur', 'rol-ai-act', []);
+
+labelMapper.addEntry('ai-systeem', 'AI Systeem', 'soort-toepassing', ['AI-Systeem', 'ai-systeem']);
+labelMapper.addEntry('ai-systeem-voor-algemene-doeleinden', 'AI Systeem voor algemene doeleinden', 'soort-toepassing', ['AI-Systeem voor algemene doeleinden']);
+labelMapper.addEntry('ai-model-voor-algemene-doeleinden', 'AI model voor algemen doeleinden', 'soort-toepassing', ['AI-model voor algemene doeleinden']);
+labelMapper.addEntry('impactvol-algoritme', 'Impactvol algoritme', 'soort-toepassing', []);
+labelMapper.addEntry('niet-impactvol-algoritme', 'Niet-impactvol algoritme', 'soort-toepassing', []);
+
+labelMapper.addEntry('transparantieverplichting', 'Transparantieverplichting', 'transparantieverplichting', []);
+labelMapper.addEntry('geen-transparantieverplichting', 'Geen transparantieverplichting', 'transparantieverplichting', []);
+
+labelMapper.addEntry('systeemrisico', 'Systeemrisico', 'systeemrisico', []);
+labelMapper.addEntry('geen-systeemrisico', 'Geen systeemrisico', 'systeemrisico', []);
+
+labelMapper.addEntry('open-source', 'Open source', 'open-source', []);
+labelMapper.addEntry('geen-open-source', 'Geen open source', 'open-source', []);
+
+labelMapper.addEntry('in-gebruik', 'In gebruik', 'in-gebruik', []);
+labelMapper.addEntry('beoordeling-door-derde-partij', 'Beoordeling door derde partij', 'beoordeling-door-derde-partij', []);
 
 
 window.addEventListener('message', (event) => {
@@ -185,6 +228,7 @@ window.addEventListener('message', (event) => {
     const jsonObject = JSON.parse(sessionStorage.getItem("labels"))
     const labels = convertLabels(Object.values(jsonObject).flatMap(v => Array.isArray(v) ? v : [v]).filter(v => v !== "")).map(obj => obj.label)
     updateLabels(labels);
+    filterTable();
     closeModal();
   }
 });

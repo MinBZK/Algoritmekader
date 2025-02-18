@@ -48,7 +48,6 @@ Uitvoeren risicoanalyse en formuleren mitigerende maatregelen voor privacyrisico
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
-
 ## Risico
 Privacyrisico's met de inzet van algoritmes worden niet gemitigeerd, waardoor privacyrechten van betrokkenen worden geschonden. 
 
@@ -60,4 +59,4 @@ Privacyrisico's met de inzet van algoritmes worden niet gemitigeerd, waardoor pr
 
 ## Voorbeeld
 
-Heb jij een goed voorbeeld? Laat het ons weten!
+Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

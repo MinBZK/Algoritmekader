@@ -45,9 +45,9 @@ Analyseer regelmatig of het gebruik van het algoritme of het proces daaromheen l
 ## Toelichting
 Het uitvoeren van een analyse over onwenselijke of onrechtmatige verschillen bestaat grofweg uit 3 stappen:
 
-- [Stap 1](#stap-1-analyseer-of-er-sprake-is-van-bias): Analyseer of er sprake is van bias: *systematisch verschil in behandeling van bepaalde objecten, mensen of groepen in vergelijking met anderen.*
-- [Stap 2](#stap-2-voer-een-rechtvaardigingstoets-uit): Voer een rechtvaardigingstoets uit om te bepalen of het geconstateerde verschil uit stap 1 te rechtvaardigen is. 
-- [Stap 3](#stap-3-voer-een-ethische-wenselijkheidstoets-uit): Voer een ethische wenselijkheidstoets uit om te bepalen of het geconstateerde verschil uit stap 1 ethisch wenselijk is. 
+- [Stap 1](#stap-1-analyseer-of-er-sprake-is-van-bias): analyseer of er sprake is van bias: *systematisch verschil in behandeling van bepaalde objecten, mensen of groepen in vergelijking met anderen.*
+- [Stap 2](#stap-2-voer-een-rechtvaardigingstoets-uit): voer een rechtvaardigingstoets uit om te bepalen of het geconstateerde verschil uit stap 1 te rechtvaardigen is. 
+- [Stap 3](#stap-3-voer-een-ethische-wenselijkheidstoets-uit): voer een ethische wenselijkheidstoets uit om te bepalen of het geconstateerde verschil uit stap 1 ethisch wenselijk is. 
 
 Voor alle stappen geldt dat het belangrijk is om de gemaakte keuzes en afwegingen zorgvuldig te onderbouwen en te documenteren. De 3 stappen worden hieronder verder toegelicht. 
 
@@ -107,8 +107,8 @@ Er zijn veel verschillende manieren waarop je kan kijken naar onderscheid bij he
     Maak een duidelijke prioritering van de verschillende metrieken om afwegingen te maken tussen de verschillende opvattingen van eerlijkheid. 
 
 3. **Verzamel de benodigde data die nodig is om bovenstaande groepen te bepalen.**
-Bepaal welke data benodigd is om te analyseren of er verschillen zijn tussen bepaalde groepen. 
-In veel gevallen zal data benodigd zijn die demografische en beschermde kenmerken van groepen omschrijft. 
+Bepaal welke data nodig is om te analyseren of er verschillen zijn tussen bepaalde groepen. 
+In veel gevallen zal data nodig zijn die demografische en beschermde kenmerken van groepen omschrijft. 
 Het verzamelen en verwerken van deze data kan in strijd zijn met privacy vereisten uit bijvoorbeeld de [Algemene Verordening Gegevensbescherming](../vereisten/avg-01-persoonsgegevens-worden-rechtmatig-verwerkt.md).
 Het is daarom van belang om duidelijk afwegingen te maken tussen privacy en het analyseren van bias die rekening houdt met de juridische en ethische vereisten.
 
@@ -122,21 +122,21 @@ Het is daarom van belang om duidelijk afwegingen te maken tussen privacy en het 
 
     Voor sommige groepen zal het onmogelijk zijn om te beschikken over data van voldoende kwaliteit om zorgvuldig te toetsen op bias. 
     De laaggeletterdheid van burgers of personen is bijvoorbeeld lastig meetbaar en in veel gevallen niet beschikbaar. 
-    Bepaal in zo'n situatie [of er andere mogelijkheden zijn deze groepen te helpen](2-owp-07-afwegen-grondrechten.md), of dat er andere mogelijkheden zijn om eventuele ongelijke behandeling bij deze groepen te constateren. 
+    Bepaal in zo'n situatie [of er andere mogelijkheden zijn deze groepen te helpen](2-owp-07-afwegen-grondrechten.md), of er andere mogelijkheden zijn om eventuele ongelijke behandeling bij deze groepen te constateren. 
     Bijvoorbeeld door hierop te monitoren in de klacht- en bezwarenprocedure. 
 
 4. **Bereken de verschillen in behandeling en/of uitkomsten van het algoritme**.
-Bepaal of er sprake is van een onderscheid, en of dit significant is. Er zijn verschillende open source softwarepakketten die je hierbij kunnen ondersteunen, zoals [fairlearn](https://fairlearn.org/), [Aequitas](https://github.com/dssg/aequitas), [fairml](https://cran.r-project.org/web/packages/fairml/index.html), [fairness](https://cran.r-project.org/web/packages/fairness/index.html) of [AI Fairness 360](https://aif360.res.ibm.com/).
+Bepaal of er sprake is van een onderscheid en of dit significant is. Er zijn verschillende open source softwarepakketten die je hierbij kunnen ondersteunen, zoals [fairlearn](https://fairlearn.org/), [Aequitas](https://github.com/dssg/aequitas), [fairml](https://cran.r-project.org/web/packages/fairml/index.html), [fairness](https://cran.r-project.org/web/packages/fairness/index.html) of [AI Fairness 360](https://aif360.res.ibm.com/).
 
 5. **Probeer te verklaren hoe het geconstateerde onderscheid is ontstaan**.
 Als er in de vorige stap een significant onderscheid is geconstateerd, is het belangrijk om na te gaan hoe en waar in het proces dit onderscheid is ontstaan. 
 Dit kan bijvoorbeeld ontstaan door:
-    - een vorm van bias in de onderliggende inputdata. Je kan hierbij denken aan: 
-        - historische bias: in hoeverre beschrijft de data de huidige situatie?
-        - representatie bias: is de data waarop getraind wordt representatief voor de bijbehorende populatie? Zijn trends uit de gebruikte data generaliseerbaar naar de totale populatie?
-        - meetbias: beschrijven de inputvariabelen wel wat ze moeten beschrijven? In hoeverre zijn dit benaderingen waarbij eventuele factoren worden weggelaten?
-    - een vorm van bias in het proces na afloop van het algoritme
-        - is er sprake van automatiseringsbias of bevestigingsbias in de (handmatige) beoordeling?
+    - Een vorm van bias in de onderliggende inputdata. Je kan hierbij denken aan: 
+        - Historische bias: in hoeverre beschrijft de data de huidige situatie?
+        - Representatie bias: is de data waarop getraind wordt representatief voor de bijbehorende populatie? Zijn trends uit de gebruikte data generaliseerbaar naar de totale populatie?
+        - Meetbias: beschrijven de inputvariabelen wel wat ze moeten beschrijven? In hoeverre zijn dit benaderingen waarbij eventuele factoren worden weggelaten?
+    - Een vorm van bias in het proces na afloop van het algoritme:
+        - Is er sprake van automatiseringsbias of bevestigingsbias in de (handmatige) beoordeling?
 
 :material-arrow-right: Wanneer duidelijker is hoe de geconstateerde bias is ontstaan, is het goed om te verkennen of er mogelijkheden zijn om dit (in de toekomst) te voorkomen. 
 
@@ -178,13 +178,19 @@ Bepaal [met een grote groep belanghebbenden](1-pba-04-betrek-belanghebbenden.md)
 
     De bepaling over wat eerlijk is en wat ethisch wenselijk is kan in sommige gevallen ook politiek bevonden worden. Houd hier rekening met de politiek-bestuurlijke verantwoordelijkheden en zorg indien nodig dat de [politiek-bestuurlijke verantwoordelijkhden](0-org-04-politiek-bestuurlijke-verantwoordelijkheid.md) duidelijk zijn. 
 
+## Risico
+Wanneer er geen zorgvuldige analyse naar (onwenselijke) bias is uitgevoerd bestaat het risico dat het gebruik van het algoritme discriminerende effecten met zich meebrengt. 
+Dit kan leiden tot een ongelijke behandeling van burgers met eventuele schade voor betrokkenen.
+
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
-## Risico
-Wanneer er geen zorgvuldige analyse naar (onwenselijke) bias is uitgevoerd, bestaat het risico dat het gebruik van het algoritme discriminerende effecten met zich meebrengt. 
-Dit kan leiden tot een ongelijke behandeling van burgers met eventuele schade voor betrokkenen.
+## Bronnen
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 2.18, 2.19, 3.08, 3.09](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
+- [Onderzoekskader Algoritmes Auditdienst Rijk, DM.16, DM.17, DM.18, DM.20, DM.21, DM.22](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) 
+- [Toetsingskader risicoprofilering – Normen tegen discriminatie op grond van ras en nationaliteit, College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/4093c026-ae41-4c1d-aa78-4ce0e205b5de)
+- [Handreiking non-discriminatie by design](https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design)
 
 ## Voorbeelden
 
@@ -192,7 +198,7 @@ Dit kan leiden tot een ongelijke behandeling van burgers met eventuele schade vo
 
 	Algorithm Audit heeft de risicoprofilering in het Controle Uitwonendenbeurs-proces (CUB-proces) onderzocht op verzoek van Dienst Uitvoering Onderwijs (DUO). DUO heeft tussen 2010 en 2023 gebruik gemaakt van een risicoprofiel voor het tegengaan van onrechtmatig gebruik van de uitwonendenbeurs. Dit is in 2023 in opspraak geraakt en DUO heeft verzocht om hier verder onderzoek naar te doen.
 	
-	Hieruit bleek dat er inderdaad onvoldoende statistisch verband was tussen een aantal selectiecriteria. Dit is gebleken uit een kwantitatieve analyse aan de hand van verschillende onderzoeksvragen. Zij hebben hun analyses ook publiekelijk online gezet op [Github](https://github.com/NGO-Algorithm-Audit/DUO-CUB), zodat andere organisaties een soortgelijke analyse kunnen uitvoeren.
+	Hieruit bleek dat er inderdaad onvoldoende statistisch verband was tussen een aantal selectiecriteria. Dit is gebleken uit een kwantitatieve analyse aan de hand van verschillende onderzoeksvragen. Zij hebben hun analyses ook publiekelijk online gezet op [GitHub](https://github.com/NGO-Algorithm-Audit/DUO-CUB), zodat andere organisaties een soortgelijke analyse kunnen uitvoeren.
 
 	
 	Bron: [Addendum Vooringenomenheid voorkomen, Algorithm Audit](https://algorithmaudit.eu/nl/algoprudence/cases/aa202402_preventing-prejudice_addendum/)
@@ -200,9 +206,9 @@ Dit kan leiden tot een ongelijke behandeling van burgers met eventuele schade vo
 
 !!! example "Voorbeeld: PricewaterhouseCoopers – Onderzoek misbruik uitwonendenbeurs"
 	
-	PricewaterhouseCoopers (PwC) heeft onderzoek gedaan op verzoek van het Ministerie van Onderwijs, Cultuur en Wetenschap (OCW) naar de controle op het misbruik en oneigenlijk gebruik van uitwonendenbeurs (controleproces MUB). Het gaat om de uitwonendenbeurs die Dienst Uitvoering Onderwijs (DUO) destijds onder deze naam verstrekte (tegenwoordig Controle Uitwonendenbeurs-proces (CUB-proces)). PwC heeft een kwalitatief onderzoek gedaan naar de procedures rond de opzet, validatie en evaluatie van het MUB-proces.
+	PricewaterhouseCoopers (PwC) heeft onderzoek gedaan op verzoek van het Ministerie van Onderwijs, Cultuur en Wetenschap (OCW) naar de controle op het misbruik en oneigenlijk gebruik van uitwonendenbeurs (controleproces MUB). Het gaat om de uitwonendenbeurs die de Dienst Uitvoering Onderwijs (DUO) destijds onder deze naam verstrekte (tegenwoordig Controle Uitwonendenbeurs-proces (CUB-proces)). PwC heeft een kwalitatief onderzoek gedaan naar de procedures rond de opzet, validatie en evaluatie van het MUB-proces.
 
-	Dit kwalitatieve onderzoek is uitgevoerd aan de hand van een eerder opgesteld analysekader voor onderzoek naar selectiesystemen bij andere Nederlandse overheden. Het analyse kader bestaat uit drie delen: procedures rond opzet, de gevolgen van de inrichting en omgang met risicosignalen. In het rapport van PwC staat dit in sectie 1.3.1 in meer detail uitgelegd.
+	Dit kwalitatieve onderzoek is uitgevoerd aan de hand van een eerder opgesteld analysekader voor onderzoek naar selectiesystemen bij andere Nederlandse overheden. Het analysekader bestaat uit drie delen: procedures rond opzet, de gevolgen van de inrichting en omgang met risicosignalen. In het rapport van PwC staat dit in sectie 1.3.1 in meer detail uitgelegd.
  
 	Bron: [Onderzoek misbruik uitwonendenbeurs, PricewaterhouseCoopers](https://www.rijksoverheid.nl/documenten/rapporten/2024/03/01/eindrapport-pwc-rapportage-onderzoek-misbruik-uitwonendenbeurs)
 
@@ -218,15 +224,3 @@ Dit kan leiden tot een ongelijke behandeling van burgers met eventuele schade vo
 
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)  
 
-## Bronnen
-- [Toetsingskader Algoritmes Algemene Rekenkamer, 2.18, 2.19, 3.08, 3.09](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
-- [Onderzoekskader Algoritmes Auditdienst Rijk, DM.16, DM.17, DM.18, DM.20, DM.21, DM.22](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) 
-- [Toetsingskader risicoprofilering – Normen tegen discriminatie op grond van ras en nationaliteit, College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/4093c026-ae41-4c1d-aa78-4ce0e205b5de)
-- [Handreiking non-discriminatie by design](https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design)
-
-## Voorbeelden
-- [Addendum Vooringenomenheid voorkomen, Algorithm Audit](https://algorithmaudit.eu/nl/algoprudence/cases/aa202402_preventing-prejudice_addendum/) met bijbehorende data en broncode op [Github](https://github.com/NGO-Algorithm-Audit/DUO-CUB)
-- [Onderzoek misbruik uitwonendenbeurs, PricewaterhouseCoopers](https://www.rijksoverheid.nl/documenten/rapporten/2024/03/01/eindrapport-pwc-rapportage-onderzoek-misbruik-uitwonendenbeurs)
-- [Pilot Slimme Check, Gemeente Amsterdam](https://openresearch.amsterdam/nl/page/105057/eindevaluatie-pilot-slimme-check---bias-analyse-eindrapport)
-- [Bias toetsing 'Kort Verblijf Visa' aanvragen, Rijks ICT Gilde](https://www.rijksoverheid.nl/documenten/publicaties/2023/04/01/bias-toetsing-kort-verblijf-visa-aanvragen)
-- [Report on Algorithmic bias assesment, SigmaRed](https://www.rijksoverheid.nl/documenten/rapporten/2024/02/07/sigmared-report-on-algorithmic-bias-assessment)

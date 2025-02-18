@@ -67,7 +67,7 @@ hide:
     <div class="float-box">
     <h3><b>Onderwerpen</b></h3>
     <ul>
-      <li><a href="onderwerpen/bias-en-non-discriminatie/">Discriminerende effecten van algoritmes</a></li>   
+      <li><a href="onderwerpen/bias-en-non-discriminatie/">Discriminerende effecten en ander ongewenst onderscheid door algoritmes</a></li>   
       <li><a href="onderwerpen/governance/">Governance van algoritmes binnen je organisatie</a></li>
       <li><a href="onderwerpen/publieke-inkoop/">Inkoop van verantwoorde algoritmes</a></li>
     </ul>

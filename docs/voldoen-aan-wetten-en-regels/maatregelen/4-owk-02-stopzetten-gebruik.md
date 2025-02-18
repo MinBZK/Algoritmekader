@@ -82,8 +82,7 @@ Als er geen duidelijke acties zijn gedefinieerd, kan dat bijvoorbeeld leiden tot
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 1.03](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Impact Assessment Mensenrechten en Algoritmes, 1.5](../hulpmiddelen/IAMA.md)
 
-## Voorbeeld
-<!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
+## Voorbeelden
 
 !!! example "Ministerie van Economische Zaken - Uitwijkplan"
 
@@ -93,4 +92,4 @@ Als er geen duidelijke acties zijn gedefinieerd, kan dat bijvoorbeeld leiden tot
 	Bron: [Uitwijk- en herstelplan](https://www.digitaltrustcenter.nl/informatie-advies/uitwijk-en-herstelplan)
 
 
-Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
+Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

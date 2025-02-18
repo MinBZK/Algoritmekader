@@ -35,12 +35,12 @@ def on_page_markdown(markdown: str, *, page: Page, config: MkDocsConfig, files: 
         for type in ["soort-toepassing", "risicogroep", "rol-ai-act", "systeemrisico", "transparantieverplichting"]:
             field = page.meta.get(type, [])
             if isinstance(field, str):
-                if field != "niet-van-toepassing":  # Skip niet-van-toepassing
+                if field != "niet-van-toepassing" and field!= "uitzondering-van-toepassing":  # Skip niet-van-toepassing
                     buttons.append(flag(type, field, page, files))
             else:
                 for role in field:
-                    # Skip niet-van-toepassing
-                    if role == "niet-van-toepassing":
+                    # Skip niet-van-toepassing or uitzondering-van-toepassing
+                    if role == "niet-van-toepassing" or role == "uitzondering-van-toepassing":
                         continue
                         
                     # Skip if both 'X' and 'Geen X' exist
@@ -204,7 +204,10 @@ def _badge_soort_toepassing(page: Page, files: Files, soort: str):
 def _badge_risicogroep(page: Page, files: Files, risicogroep: str):
     icon = "material-alert"
     href_risicogroep = _resolve_path("voldoen-aan-wetten-en-regels/ai-verordening.md#risicogroepen", page, files)
-    href_fase = _resolve_path(f"overhetalgoritmekader/risico-van-ai-systemen.md#{risicogroep}", page, files)
+    if risicogroep == "geen-hoog-risico-ai-systeem":
+        href_fase = _resolve_path(f"overhetalgoritmekader/risico-van-ai-systemen.md#hoog-risico-ai-systeem", page, files)
+    else:
+        href_fase = _resolve_path(f"overhetalgoritmekader/risico-van-ai-systemen.md#{risicogroep}", page, files)
     return _badge(
         icon=f"[:{icon}:]({href_risicogroep} 'Risicogroep')",
         text=f"[{risicogroep.capitalize().replace('-', ' ').replace('ai', 'AI').replace('AI ', 'AI-')}]({href_fase})",
@@ -215,7 +218,10 @@ def _badge_risicogroep(page: Page, files: Files, risicogroep: str):
 def _badge_rol_ai_act(page: Page, files: Files, rol: str):
     icon = "material-account-details"
     href_rol_ai_act = _resolve_path("voldoen-aan-wetten-en-regels/ai-verordening.md#rollen-uit-de-ai-verordening", page, files)
-    href_fase = _resolve_path(f"voldoen-aan-wetten-en-regels/ai-verordening.md#{rol}", page, files)
+    if rol == "aanbieder" or rol == "gebruiksverantwoordelijke":
+        href_fase = _resolve_path(f"voldoen-aan-wetten-en-regels/ai-verordening.md#{rol}", page, files)
+    else:
+        href_fase = _resolve_path(f"voldoen-aan-wetten-en-regels/ai-verordening.md#andere-rollen", page, files)
     return _badge(
         icon=f"[:{icon}:]({href_rol_ai_act} 'Rol AI-verordening')",
         text=f"[{rol.capitalize().replace('-', ' ')}]({href_fase})",

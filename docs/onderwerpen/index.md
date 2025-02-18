@@ -10,11 +10,11 @@ hide:
 
 <div class="grid cards" markdown>
 
--   [Discriminerende effecten van algoritmes](bias-en-non-discriminatie.md)
+-   [Ongewenst onderscheid](bias-en-non-discriminatie.md)
 
     ---
 
-    Hulp bij het voorkomen van bias en discriminatie in algoritmes. Met aanbevelingen en hulpmiddelen zoals het toetsingskader van het College voor de Rechten van de Mens.
+    Hulp bij het voorkomen van ongewenst onderscheid, bias en discriminatie bij het gebruik van algoritmes. Met aanbevelingen en hulpmiddelen zoals het toetsingskader van het College voor de Rechten van de Mens.
 
 -   [Verantwoord datagebruik](data.md)
     
@@ -52,7 +52,7 @@ hide:
 
     Hulp bij verantwoord gebruik van gegevens voor algoritmes, zoals persoonsgegevens en privacygevoelige gegevens.
 
--   [Inkoop van verantwoorde algoritmes](publieke-inkoop.md)
+-   [Publieke inkoop van verantwoorde algoritmes](publieke-inkoop.md)
     
     ---
 

@@ -48,6 +48,5 @@ Wanneer tijdens het ontwerp en de inrichting van het algoritmisch systeem niet v
 - [Onderzoekskader Algoritmes Auditdienst Rijk, IB.28](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 4.09](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 
-## Voorbeeld
-
-Heb jij een goed voorbeeld? Laat het ons weten!
+## Voorbeelden
+Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

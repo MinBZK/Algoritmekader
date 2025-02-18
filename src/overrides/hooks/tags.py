@@ -35,24 +35,21 @@ def on_page_markdown(markdown: str, *, page: Page, config: MkDocsConfig, files: 
         for type in ["soort-toepassing", "risicogroep", "rol-ai-act", "systeemrisico", "transparantieverplichting"]:
             field = page.meta.get(type, [])
             if isinstance(field, str):
-                if field != "niet-van-toepassing" and field!= "uitzondering-van-toepassing":  # Skip niet-van-toepassing
+                if field != "niet-van-toepassing" and field != "uitzondering-van-toepassing":  # Skip niet-van-toepassing and skip uitzondering van toepassing
                     buttons.append(flag(type, field, page, files))
             else:
                 for role in field:
                     # Skip niet-van-toepassing or uitzondering-van-toepassing
                     if role == "niet-van-toepassing" or role == "uitzondering-van-toepassing":
                         continue
-                        
-                    # Skip if both 'X' and 'Geen X' exist
-                    if (role.startswith('geen-') and role[5:] in field) or \
-                    (not role.startswith('geen-') and f"geen-{role}" in field):
-                        continue
-                        
+
                     buttons.append(flag(type, role, page, files))
 
-        if len(buttons) == 0:
+        # for non-aia vereisten, remove the buttons and add other toelichting 
+        if not page.meta.get('id').startswith('urn:nl:ak:ver:aia-'):
             toelichting = "Deze vereiste is waarschijnlijk van toepassing op jouw situatie. Controleer de [bronnen](#bronnen) om dit zeker te weten."
-        else:
+            buttons = toelichting
+        else: #for aia vereisten, add toelichting to the buttons
             toelichting = "Deze vereiste is van toepassing voor onderstaande (combinatie van) labels. Gebruik de [beslishulp](https://ai-act-decisiontree.apps.digilab.network) voor hulp bij wat er in jouw situatie van toepassing is. <br/> <br/>"
             buttons.insert(0, toelichting)
         

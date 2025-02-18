@@ -8,7 +8,7 @@ hide:
 
 # Algoritmekader 
 <div class="header-container">
-    <div class="subheader">Alle wetten en regels voor verantwoord gebruik van algoritmes door de overheid, met tips en hulpmiddelen. 
+    <div class="subheader">Belangrijkste wetten en regels voor verantwoord gebruik van algoritmes door de overheid, met tips en hulpmiddelen. 
     <span class="version-container">
       <span class="version-label">Versie 2.1</span>
       <div class="hover-info">
@@ -18,7 +18,7 @@ hide:
     </div>
 </div>
 
-<a href="overhetalgoritmekader/over-het-algoritmekader/" class="button md-button--secondary"> Over het algoritmekader </a> 
+<a href="overhetalgoritmekader/over-het-algoritmekader/" class="button md-button--secondary">Over het algoritmekader</a> 
 
 <div class="float-container">
 

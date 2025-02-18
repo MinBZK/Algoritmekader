@@ -1,7 +1,7 @@
 ---
 # vul hier een titel in voor deze maatregel
 title: Neem het kunnen uitvoeren van een audit over de vereiste op in contractvoorwaarden en de contractovereenkomst 
-id: urn:nl:ak:mtr:owp-24
+id: urn:nl:ak:mtr:owp-23
 # geef hier een korte toelichting van deze maatregel
 toelichting: Het is van belang dat opdrachtgever mogelijkheden heeft om te controleren in hoeverre door aanbieder/opdrachtnemer wordt voldaan aan naleving van de vereiste.  
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
@@ -113,7 +113,14 @@ Er kunnen geen controles of inspecties worden uitgevoerd om te beoordelen of de 
 - [Europese Inkoopvoorwaarden Hoog Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_template_High_Risk%20NL.pdf)
 - [Europese Inkoopvoorwaarden Laag Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_Template_NON_HIGH_RISK_NL.pdf)
 
+
 ## Voorbeelden
-<!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
+
+!!! example "Gemeente Amsterdam - Modelbepalingen"
+	Gemeente Amsterdam heeft contractvoorwaarden geformuleerd waarin verschillende aspecten van inkoop uitgelicht worden. Een onderdeel hiervan is het uitvoeren van audits of andersoortige controles. Hierin is opgenomen hoe deze uitgevoerd worden en wat de voorwaarden zijn.
+
+	Meer informatie over [generieke inkoopvoorwaarden die je kunt gebruiken](../hulpmiddelen/inkoopvoorwaarden.md).
+  
+	Bron: [Contractvoorwaarden voor algoritmen - Innovatie](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmes-ai/contractvoorwaarden-algoritmen/)
 
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

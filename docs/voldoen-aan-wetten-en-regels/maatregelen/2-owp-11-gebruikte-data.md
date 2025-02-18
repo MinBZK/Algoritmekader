@@ -33,6 +33,7 @@ Beschrijf welke data gebruikt wordt voor de beoogde toepassing.
 ## Risico
 Als er niet wordt beschreven welke data wordt gebruikt voor een toepassing wordt het risico gelopen dat bij gebruik van een algoritme er kans is op bias-vorming en mindere transparantie. 
 
+
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
@@ -41,4 +42,6 @@ Als er niet wordt beschreven welke data wordt gebruikt voor een toepassing wordt
 - [Impact Assessment Mensenrechten en Algoritmes, 2A.2.1](../hulpmiddelen/IAMA.md)
 
 ## Voorbeelden
-Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
+
+
+Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

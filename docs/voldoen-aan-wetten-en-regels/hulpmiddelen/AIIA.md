@@ -57,12 +57,17 @@ Het AIIA bestaat uit twee delen. Deel A gaat in op de afwegingen voor het gebrui
 
 Het AIIA kan toegepast worden in elke fase van ontwikkeling en inkoop van een AI-systeem, maar heeft de meeste toegevoegde waarde indien het vanaf de start van een AI-project wordt gebruikt. De gedachte is dat de diepgang en detailniveau van invullen past bij het stadium van ontwikkeling en risico’s van de applicatie. Bij een AI-idee hoeft bijvoorbeeld nog niet alles duidelijk te zijn, maar wel inzicht in waar mogelijke knelpunten liggen.
 
+Het AIIA bestaat uit:
+
+- [Het Impact Assessment in de vorm van een pdf](https://www.rijksoverheid.nl/documenten/rapporten/2022/11/30/ai-impact-assessment-ministerie-van-infrastructuur-en-waterstaat) (er is ook een [Engelse versie](https://www.government.nl/documents/publications/2023/03/02/ai-impact-assessment))
+- [Een _invultemplate_ in Word-formaat](documenten/Invultemplate-AIIA2.0.docx) dat gebruikt kan worden voor de praktische toepassing (ook hiervan is een [Engelse versie](documenten/Invultemplate-AIIA2.0-EN.docx) beschikbaar)
+
 ## Relevantie
 
 Het AIIA is praktisch ingestoken en is ontwikkeld samen met de organisatie. Hierdoor is de AIIA goed toepasbaar in verschillende trajecten. Daarnaast is de AIIA in 2024 vernieuwd (een eerste versie verscheen in 2022) waarbij de laatste versie van de AI Act en geldige wet en regelgeving geïntegreerd is, waardoor het een compleet document is geworden dat verschillende aspecten van een AI systeem behandelt.
-Het AIIA kan in elke fase van een project worden ingezet. Zoek hierbij de diepgang en het detailniveau dat past bij het stadium van ontwikkeling en de risico’s van de applicatie. Het AIIA zet je bijvoorbeeld in als quick-scan om te onderzoeken of een AI-idee toegevoegde waarde heeft. Ook kan het gebruikt worden bij het maken van een projectplan zodat alle relevante aspecten, zoals bijvoorbeeld [technische robuustheid](../../onderwerpen/technische-robuustheid-en-veiligheid.md), impact en communicatie meegenomen worden. Er is binnen het Ministerie van IenW ook een invultemplate beschikbaar.
+Het AIIA kan in elke fase van een project worden ingezet. Zoek hierbij de diepgang en het detailniveau dat past bij het stadium van ontwikkeling en de risico’s van de applicatie. Het AIIA zet je bijvoorbeeld in als quick-scan om te onderzoeken of een AI-idee toegevoegde waarde heeft. Ook kan het gebruikt worden bij het maken van een projectplan zodat alle relevante aspecten, zoals bijvoorbeeld [technische robuustheid](../../onderwerpen/technische-robuustheid-en-veiligheid.md), impact en communicatie meegenomen worden.
 
-Het AIIA heeft enige overlap met het IAMA. Het AIIA is echter specifiek voor AI ontwikkeld, waar het IAMA toepasbaar is op alle soorten algoritmes. 
+Het AIIA heeft enige overlap met het [IAMA](IAMA.md). Het AIIA is echter specifiek voor AI ontwikkeld, waar het IAMA toepasbaar is op alle soorten algoritmes. 
 
 
 ## Auteur

@@ -1,7 +1,7 @@
 ---
 # vul hier een titel in voor deze maatregel
 title: Laat de aanbieder aangeven welke mate van opleiding en ondersteuning bij de implementatie nodig is om de beoogde algoritmes verantwoord te gebruiken  
-id: urn:nl:ak:mtr:owp-26
+id: urn:nl:ak:mtr:owp-25
 # geef hier een korte toelichting van deze maatregel
 toelichting: Beoordeel of de kennisoverdracht en ondersteuning van aanbieder voldoende is om voor een langere periode zelfstandig op een verantwoorde wijze gebruikt te kunnen maken van de algoritmes. 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel

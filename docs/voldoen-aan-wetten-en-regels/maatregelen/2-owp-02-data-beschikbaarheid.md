@@ -54,7 +54,8 @@ Het zou kunnen voorkomen dat de data niet beschikbaar is en ook niet gaat worden
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
-[Towards a Systematic Understanding on the Challenges of Procuring Artificial Intelligence in the Public Sector](https://www.google.nl/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi20eiMqfmGAxXV9gIHHbnbAjkQFnoECB0QAQ&url=https%3A%2F%2Fec.europa.eu%2Fnewsroom%2Fgrowth%2Fredirection%2Fdocument%2F86850&usg=AOvVaw3rVw_SLj8yjlU-uhWQv2eQ&opi=89978449)
+- [Towards a Systematic Understanding on the Challenges of Procuring Artificial Intelligence in the Public Sector](https://www.google.nl/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi20eiMqfmGAxXV9gIHHbnbAjkQFnoECB0QAQ&url=https%3A%2F%2Fec.europa.eu%2Fnewsroom%2Fgrowth%2Fredirection%2Fdocument%2F86850&usg=AOvVaw3rVw_SLj8yjlU-uhWQv2eQ&opi=89978449)
 
 ## Voorbeelden
-Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
+Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
+

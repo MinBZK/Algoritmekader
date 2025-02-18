@@ -75,4 +75,23 @@ Een onnauwkeurig algoritme geeft de verkeerde uitkomsten waardoor situaties of m
 
 ## Voorbeeld
 
-Heb jij een goed voorbeeld? Laat het ons weten!
+!!! example "Gemeente Amsterdam – Public Eye"
+
+	De gemeente Amsterdam maakt gebruik van een algoritme – Public Eye – om te bepalen hoeveel mensen er op een afbeelding staan. Public Eye wordt gebruikt om te kunnen monitoren hoeveel voetgangers er op plekken in de stad zijn, om zo onveilige situaties en drukte goed te kunnen begeleiden.
+	
+	De gemeente geeft aan dat zij een minimum nauwkeurigheid van 70% hanteert om relevante inzichten te krijgen. In de praktijk levert Public Eye een hogere nauwkeurigheid van 90%, afgeleid van trainingsbeelden. Deze data is handmatig geannoteerd door een selecte groep werknemers die dit periodiek doet.
+	
+	Bron: [Public Eye-Amsterdam Algoritmeregister](https://algoritmeregister.amsterdam.nl/ai-system/public-eye/231/)
+
+
+!!! example "Gemeente Ede – WOZ-taxatiemodellen"
+
+	De gemeente Ede heeft een algoritme in gebruik als ondersteuning bij het bepalen (en controleren) van de WOZ-waarde van woningen. Dit wordt gedaan aan de hand van Machine Learning-modellen die op basis van onder andere woning- en locatiekenmerken, gecombineerd met markt- en verkoopconditites, de WOZ-waarde kunnen bepalen. Hierbij wordt bepaald welke kenmerken het meeste gewicht hebben voor deze bepaling.
+	
+	Om deze uitkomsten te kunnen controleren wordt er aan de hand van ratio's bekeken of het algoritme nauwkeurig werkt (zie afbeelding hieronder). Aan de hand van deze ratio's wordt gecontroleerd of het algoritme aansluit bij het marktniveau. Als de waarden van de ratio's buiten de bandbreedte liggen, wordt de WOZ-waarde aangepast of wordt deze afwijking verder verklaard.
+
+	![image](https://github.com/user-attachments/assets/8230f572-8836-40ef-9f91-ca8b1143c17a)
+
+	Bron: [WOZ-taxatiemodellen - Gemeente Ede]( https://algoritmes.overheid.nl/nl/algoritme/woztaxatiemodellen-gemeente-ede/39323486#werking)
+ 
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)  

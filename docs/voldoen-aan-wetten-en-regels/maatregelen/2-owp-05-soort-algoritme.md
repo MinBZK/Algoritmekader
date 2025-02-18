@@ -61,4 +61,13 @@ Als de risicogroep waar een algoritme bij hoort niet wordt bepaald is er een ris
 
 ## Voorbeelden
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
-Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
+
+!!! example "Provincie Zuid-Holland - Classificatie Algoritmes"
+
+	Provincie Zuid-Holland maakt gebruik van verschillende typen algoritmes waaronder hoog-risico AI-systemen, impactvolle algoritmes en overige algoritmes. Zij hebben deze gepubliceerd in het [algoritmeregister](../hulpmiddelen/algoritmeregister.md) aan de hand van de drie verschillende publicatiecategorieën. 
+	Deze drie categorieën staan ook in de handreiking voor het Algoritmeregister.
+ 
+	Bron: [Provincie Zuid-Holland]( https://algoritmes.overheid.nl/nl/organisatie/provincie-zuid-holland)
+
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)  
+

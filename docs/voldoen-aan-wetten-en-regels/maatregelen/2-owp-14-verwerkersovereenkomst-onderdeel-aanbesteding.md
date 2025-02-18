@@ -60,5 +60,11 @@ Er is sprake van een onrechtmatige verwerking van persoonsgegevens als geen verw
 
 ## Voorbeelden
 
-Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
+!!! example "Gemeente Geertruidenberg: Verwerkersovereenkomst"
 
+	De Gemeente Geertruidenberg heeft op 4 juli 2024 een aankondiging gedaan voor een opdracht over het leveren, implementeren  en onderhouden van een zaak-/archiefsysteem. Bij het creëren van de opdracht is een verwerkersovereenkomst gepubliceerd. Op deze manier is het direct onderdeel van de aanbesteding zodat de aanbieder weet wat er van hen verwacht wordt.
+	
+	Bron: [Zaak-/archiefsysteem](https://www.tenderned.nl/aankondigingen/overzicht/342065)
+
+
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)  

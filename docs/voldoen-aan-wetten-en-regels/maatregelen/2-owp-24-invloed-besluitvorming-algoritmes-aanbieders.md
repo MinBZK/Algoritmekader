@@ -1,7 +1,7 @@
 ---
 # vul hier een titel in voor deze maatregel
 title: Bepaal in een aanbesteding of algoritmes van een aanbieder bepalende invloed hebben in een besluit richting personen
-id: urn:nl:ak:mtr:owp-25
+id: urn:nl:ak:mtr:owp-24
 # geef hier een korte toelichting van deze maatregel
 toelichting: Ga na of algoritmes van een aanbieder een bepalende invloed hebben in een besluit richting personen en laat de aanbieder onderbouwen in hoeverre dit wel of niet het geval is. 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel

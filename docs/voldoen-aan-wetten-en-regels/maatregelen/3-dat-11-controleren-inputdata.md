@@ -1,6 +1,6 @@
 ---
 title: Controleer de input van gebruikers op misleiding
-id: urn:nl:ak:mtr:dat-12
+id: urn:nl:ak:mtr:dat-11
 toelichting: Controleer de inputdata van gebruikers op misleiding.
 levenscyclus:
 - dataverkenning-en-datapreparatie
@@ -61,4 +61,11 @@ Daarnaast kunnen onbewuste fouten ertoe leiden dat het model niet meer goed func
 - [Toetsingskader Algemene Rekenkamer, 2.08](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 
 ## Voorbeelden
+
+!!! example "Gemeente Montferland - Montferland AI"
+	De gemeente Montferland heeft een chatbot (MAI) ontwikkeld voor het beantwoorden van algemene vragen. Op deze manier is algemene informatie binnen de gemeente 24/7 bereikbaar voor haar inwoners en worden de medewerkers ontlast van de live chat. 
+	Omdat deze chatbot generatief is heeft gemeente Montferland ook goed gecontroleerd op gebruikers-input. Hierbij wordt er onder andere gebruik gemaakt van systeeminstructies en filter op de inhoud van input en output. Hiermee wordt zowel respectievelijk de chatbot in de basis geïnstrueerd en tijdens gebruik gecontroleerd.
+
+	Bron: [Mai (Montferland AI) - Gemeente Montferland](https://algoritmes.overheid.nl/nl/algoritme/mai-montferland-ai-gemeente-montferland/96671359)
+
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

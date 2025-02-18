@@ -16,6 +16,20 @@ risicogroep:
 rol-ai-act:
 - aanbieder
 - gebruiksverantwoordelijke
+- importeur
+- distributeur
+transparantieverplichting: 
+- geen-transparantieverplichting
+- transparantieverplichting 
+- niet-van-toepassing
+systeemrisico:
+- systeemrisico
+- geen-systeemrisico
+- niet-van-toepassing
+open-source: 
+- open-source
+- geen-open-source
+- niet-van-toepassing
 hide:
 - navigation
 rollen:

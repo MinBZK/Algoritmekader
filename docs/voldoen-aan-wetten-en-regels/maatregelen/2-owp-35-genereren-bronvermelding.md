@@ -1,6 +1,6 @@
 ---
 title: Maak gebruik van een algoritme dat bronvermelding kan genereren bij de output
-id: urn:nl:ak:mtr:owp-37
+id: urn:nl:ak:mtr:owp-35
 toelichting: Kies bij het ontwikkelen of inkopen een algoritme dat bronvermelding kan genereren bij de output, zodat een beoordeling kan worden gegeven of het algoritme naar behoren functioneert.  
 vereiste: 
 - dat-01-databankenwet
@@ -37,7 +37,7 @@ Bronvermelding is daarnaast essentieel om de output van het AI-model [inhoudelij
 
 Voor het ontwikkelen van een AI-model is bronvermelding noodzakelijk, omdat het voor ontwikkelaars de enige manier is om te kunnen controleren of het model goed werkt. Dit geldt ook voor ontwikkelaars die pre-trained modellen gebruiken. 
 
-Neem het kunnen generenen van een bronvermelding mee als een 'requirement' voor het te ontwikkelen AI-model in de ontwerpfase of maakt het onderdeel van de behoeftestelling en [specificeer deze behoefte](2-owp-28-maak-vereisten-onderdeel-van-programma-van-eisen.md) in het inkoopproces.
+Neem het kunnen generenen van een bronvermelding mee als een 'requirement' voor het te ontwikkelen AI-model in de ontwerpfase of maakt het onderdeel van de behoeftestelling en [specificeer deze behoefte](2-owp-27-maak-vereisten-onderdeel-van-programma-van-eisen.md) in het inkoopproces.
 
 ## Risico
 Het niet vermelden van een bron bij het gebruik van generatieve AI kan leiden tot sancties aangezien er niet wordt voldaan aan de AI-verordening. Hiernaast kan het voor onduidelijkheden zorgen bij het gebruik van een algoritme wat verantwoord gebruik in de weg kan zitten. 

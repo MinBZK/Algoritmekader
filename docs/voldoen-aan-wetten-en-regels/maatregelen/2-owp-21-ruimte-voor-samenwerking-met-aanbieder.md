@@ -1,6 +1,6 @@
 ---
 title: Creëer ruimte om met een aanbieder samen te gaan werken om specifieke vereisten te realiseren
-id: urn:nl:ak:mtr:owp-22
+id: urn:nl:ak:mtr:owp-21
 toelichting: Om op een betekenisvolle manier invulling te geven aan bepaalde vereisten, kan het noodzakelijk zijn dat de opdrachtgever en aanbieder (innovatief) moeten samenwerken om specifieke vereisten te realiseren. 
 vereiste: 
 - aia-01-ai-geletterdheid

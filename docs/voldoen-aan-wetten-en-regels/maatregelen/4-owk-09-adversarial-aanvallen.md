@@ -35,12 +35,12 @@ Voor de verschillende typen adversarial AI-aanvallen zijn specifieke maatregelen
 ### Poisoning aanval
 Bij een poisoning aanval wordt het AI-systeem vergiftigd doordat een aanvaller aanpassingen aan de trainingsdata doet, waardoor het AI-systeem fouten gaat maken. 
 Bijvoorbeeld een spamfilter die getraind is op gemanipuleerde data, en zo toch nog bepaalde spam e-mails doorlaat. 
-Maatregelen gericht op het [behoud van de integriteit van de trainingsdata](3-dat-11-datamanipulatie.md) kunnen hiertegen worden ingezet.
+Maatregelen gericht op het [behoud van de integriteit van de trainingsdata](3-dat-10-datamanipulatie.md) kunnen hiertegen worden ingezet.
 
 ### Input- of evasion aanval
 Bij een input- of evasion aanval voegt een aanvaller hele kleine bewerkingen toe aan een input zodat een AI-systeem wordt misleid: het trekt een foute conclusie. 
 Een voorbeeld hiervan is het plakken van een gele post-it op een stopbord, waardoor een auto met AI gebaseerde omgevingsherkenning het bord niet meer goed kan herkennen en zijn snelheid aanpast. 
-Op evasion aanvallen kan geanticipeerd worden bij het testen van de [robuustheid](2-owp-34-technische-interventies-robuustheid.md) van algoritmes. Bijvoorbeeld door als onderdeel van een [representatieve testomgeving](5-ver-04-representatieve-testomgeving.md) ook rekening te houden met moedwillig, subtiel aangepaste input.
+Op evasion aanvallen kan geanticipeerd worden bij het testen van de [robuustheid](2-owp-33-technische-interventies-robuustheid.md) van algoritmes. Bijvoorbeeld door als onderdeel van een [representatieve testomgeving](5-ver-04-representatieve-testomgeving.md) ook rekening te houden met moedwillig, subtiel aangepaste input.
 
 ### Backdoor
 Een backdoor in een algoritme geeft een aanvaller er toegang toe en/of de mogelijkheid om deze te manipuleren. 
@@ -68,3 +68,13 @@ Adversarial AI-aanvallen kunnen leiden tot ongewenste misleiding, manipulatie of
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
+
+!!! example "Sandia: Defending against Adversarial Examples"
+    
+    Adversarial aanvallen zijn er zoals hierboven uitgelegd op verschillende manieren wat er ook voor zorgt dat per aanval een andere aanpak nodig is. Sandia, een Amerikaanse nationale veiligheidsorganisatie, heeft onderzoek gedaan naar een aantal van deze aanvallen en is met maatregelen gekomen. De meerderheid van deze maatregelen zijn redelijk technisch en kunnen het beste in context geplaatst worden aan de hand van het artikel.
+    Een maatregel daarentegen kan redelijk gemakkelijk uitgevoerd worden en dat is het analyseren van mogelijke risico’s. Sandia geeft drie categoriën aan: _defensible_, _semi-defensible_, en _indefensible_; respectievelijk verdedigbaar, semi-verdedigbaar en onverdedigbaar. Verdedigbare modellen zijn in de juiste omstandigheden goed te vertrouwen. Semi-verdedigbare modellen hebben minstens één hoog-risico grens waar op een manier omheen gewerkt kan worden. Onverdedigbare modellen geven toegang tot input en output data, vaak zijn dit real-time algoritmes of algoritmes waar de trainingsdata openbaar (toegankelijk) is.
+    In alle drie de gevallen moet voorzichtig omgegaan worden met het ontwerpen, maar in het geval van semi verdedigbaar en onverdedigbaar moet er extra [goed gemonitord worden](7-mon-07-plan-continue-monitoring.md).
+    
+    
+    Bron: [Defending against Adversarial Examples](https://doi.org/10.2172/1569514)
+

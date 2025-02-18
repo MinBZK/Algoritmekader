@@ -49,5 +49,10 @@ Het algoritme is niet het juiste middel om het probleem op te lossen. Het risico
 
 ## Voorbeelden
 
-Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
+!!! example "Politie - HAVANK"
+	De politie maakt voor het identificeren van personen gebruik van vingerafdrukken. In Het Automatisch Vingerafdrukkensysteem Nederlandse Kollektie (HAVANK) worden vinger- en handpalmafdrukken verwerkt. Het algoritme controleert of de gegeven vingerafdruk met een andere afdruk overeenkomt op basis van een score.
+	Volgens de politie is het onderzoeken en vergelijken van een vingerafdruk met grote aantallen andere afdrukken onmogelijk en onuitvoerbaar. Zij geven aan dat daarom een algoritme hierbij noodzakelijk is om zo de kans op herkenning te vergroten en de kans op fouten te verkleinen.
+	
+	Bron: [HAVANK - Politie](https://algoritmes.overheid.nl/nl/algoritme/havank-politie/84289214) 
 
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

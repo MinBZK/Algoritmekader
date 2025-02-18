@@ -67,6 +67,7 @@ Het risico is dat er grondrechten, anders dan die expliciet beschermd zijn in an
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
+
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 - [Impact Assessment Mensenrechten en Algoritmes, deel 4](../hulpmiddelen/IAMA.md)
@@ -74,7 +75,19 @@ Het risico is dat er grondrechten, anders dan die expliciet beschermd zijn in an
 
 
 ## Voorbeelden
-<!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
-Hoofdstuk 4 van het [Impact Assesment Mensenrechten en Algoritmen (IAMA)](../hulpmiddelen/IAMA.md) richt zich specifiek op de grondrechten. In bijlage 1 is tevens een overzicht te vinden van mogelijk relevante grondrechten.
+
+!!! example "Gemeente Rotterdam – Evaluatierapport governance algoritmetoepassingen"
+
+	De gemeente Rotterdam maakt gebruik van het Impact Assessment Mensenrechten en Algoritmes (IAMA) na controle op hoog-risico aan de hand van de Algorithm Risk Assesment (ARA). Rotterdam gebruikt hiermee de ARA als een ‘pre-IAMA’ om daarna (waar nodig) het IAMA verder uit te werken. Zij geven aan dat het IAMA veel toegevoegde waarde heeft, zo helpt het onder andere ontwikkelaars met het onderbouwen van problemen binnen een algoritme.
+		
+	Bron: [Werken aan verantwoorde algoritmisering](https://rotterdamraad.bestuurlijkeinformatie.nl/Reports/Document/d9d3ccf6-d3da-40cc-bf95-44633d081a19?documentId=73807119-e0b5-45d1-b949-0f4725a537f4)
+
+
+!!! example "Diverse organisaties  - IAMA in Actie"
+
+	In 2023 en 2024 zijn door Universiteit Utrecht (UU) en het [Rijks ICT Gilde (RIG)](https://www.rijksorganisatieodi.nl/rijks-ict-gilde) een aantal IAMA-trajecten begeleid bij overheidsorganisaties. Hierbij zijn verschillende sessies geweest per organisatie om alle gedeelten van het IAMA te beantwoorden met behulp van de expertise van de UU- of RIG-begeleiders. In het rapport [IAMA in Actie](https://www.rijksoverheid.nl/documenten/rapporten/2024/06/20/iama-in-actie-lessons-learned-van-15-iama-trajecten-bij-nederlandse-overheidsorganisaties) worden de bevindingen van deze IAMA-pilots uitgebreid toegelicht.
+
+	Bron: [IAMA in Actie]( https://open.overheid.nl/documenten/47e00e94-be86-4071-8e6e-e3da2a537771/file)
+
 
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

@@ -1,6 +1,6 @@
 ---
 title: Maak een evaluatieplan voor tijdens het gebruik van het algoritme
-id: urn:nl:ak:mtr:mon-05
+id: urn:nl:ak:mtr:mon-04
 toelichting: Maak een evaluatieplan voor wanneer het algoritme in gebruik is. Dit plan bevat wanneer, wat en hoe er geëvalueerd dient te worden om te valideren of het model nog in lijn is met de vastgestelde doelstelling. 
 vereiste:
 - aia-03-risicobeheersysteem
@@ -76,11 +76,21 @@ Betrek bij het opstellen van dit plan een [diverse groep van belanghebbenden](1-
 ## Risico
 Er zullen veranderingen plaatsvinden in de gebruikscontext, de data en in het algoritme zelf (bijv. door bijtrainen). Wanneer niet wordt geëvalueerd tijdens het gebruik is het onbekend of het algoritme nog steeds werkt zoals beoogd en voldoet aan de acceptatiecriteria. 
 
-## Bronnen
-- [Toetsingskader Algemene Rekenkamer, 2.14](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
-- []
-
 ## Voorbeeld
 
-Heb jij een goed voorbeeld? Laat het ons weten!
+!!! example "UWV - Claim beoordelings- en borgingsysteem"
+	Om te bepalen of iemand nog kan werken en hoeveel maakt het UWV gebruik van een 'Claim beoordelings- en borgingsysteem' (CBBS). Dit systeem bepaalt aan de hand van onder andere de beoordeling van de verzekeringsarts en de UWV-polisadministratie het arbeidsongeschiktheidspercentage. Deze waarde wordt gebruikt als basis om een geschikte baan te vinden voor het individu dat beoordeeld wordt.
+	Het UWV geeft aan CBBS iedere dag te testen om zo te kijken of het goed werkt. Daarnaast wordt er specifiek gecontroleerd na wijzigingen in bijvoorbeeld wet- en regelgeving, bij functieveranderingen of als de zwaarte van een functie veranderd. Dit evaluatiebeleid geeft dus aan wat er gecontroleerd wordt en wanneer.
+	
+	Bron: [Claim Beoordelings- en Borgingsysteem]( https://algoritmes.overheid.nl/nl/algoritme/claim-beoordelings-en-borgingsysteem-cbbs-uitvoeringsinstituut-werknemersverzekeringen/21447945)
+
+	
+
+
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)  
+
+
+## Bronnen
+- [Toetsingskader Algemene Rekenkamer, 2.14](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
+
 

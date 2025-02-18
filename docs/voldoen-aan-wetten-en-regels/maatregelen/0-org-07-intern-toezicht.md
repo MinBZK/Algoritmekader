@@ -44,8 +44,23 @@ Een risico van het vermijden van het three lines of defence model is dat er stap
 Geen beschikbare bron voor deze maatregel.
 
 ## Voorbeelden
+!!! example "UWV - Risicomanagementbeleid"
 
-Onder andere de UWV en de Gemeente Rotterdam hanteren dit model met drie linies. Bij de gemeente Rotterdam zijn bijvoorbeeld de drie lijnen ingevuld via de volgende rollen en verantwoordelijkheden: “De eerste lijn bestaat uit de proceseigenaren en de operationeel verantwoordelijken. Proceseigenaren zijn verantwoordelijk voor de gehele algoritmetoepassing en de operationeel verantwoordelijken voor de ontwikkeling. De tweede lijn is de algoritme expert, die een onafhankelijke toezicht- en adviestaak heeft. De derde lijn wordt volgens de stukken die gaan over de algoritme governance vervuld door Financial audit.” (Rekenkamer Rotterdam, 2024) 
+	Het UWV maakt sinds 2012 gebruik van het Three-lines-of-defence model als onderdeel van hun governance. Zij blijven dit model verder aanscherpen binnen hun organisatie waardoor de drie lijnen concreter worden. Zo geven ze aan dat ze toewerken naar meer uniformiteit in rapporteren van risico’s uit de eerste lijn en een meer onafhankelijk oordeel over risico’s en beheersing van de tweede lijn.
+	
+ 	
+	Bron: [Beslisnotitie vaststellen risicomanagementbeleid]( https://www.uwv.nl/overuwv/Images/24-252-beslisnotitie-vaststellen-risicomanagementbeleid.pdf)
+
+
+!!! example "Gemeente Rotterdam - Kleur Bekennen"
+
+	De gemeente Rotterdam maakt gebruik van het three-lines-of-defence model voor het sturen en verantwoorden binnen de gemeente. De lijnen binnen Rotterdam werken iets anders dan het model van Schuett hierboven. De eerste lijn is namelijk verantwoordelijk van het realiseren van de gestelde doelen, de tweede lijn voor de kaders en het advies (onafhankelijk van de eerste lijn) en de derde lijn controleert of lijn een en twee correct functioneren/hebben gefunctioneerd. 
+ 
+	Zij geven ook aan wie binnen iedere lijn verantwoordelijk is. Zo zijn Proceseigenaren verantwoordelijk voor het algoritme en operationeel verantwoordelijken voor de ontwikkeling binnen de eerste lijn. In de tweede lijn is de Algoritme Expert verantwoordelijk en in de derde lijn Financial Audit.
+ 	
+	Bron: [Kleur Bekennen](https://rekenkamer.rotterdam.nl/onderzoeken/kleur-bekennen/)
+
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
 
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
 

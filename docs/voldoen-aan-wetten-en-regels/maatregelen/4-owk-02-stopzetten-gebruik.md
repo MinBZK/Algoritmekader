@@ -85,4 +85,12 @@ Als er geen duidelijke acties zijn gedefinieerd, kan dat bijvoorbeeld leiden tot
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
 
+!!! example "Ministerie van Economische Zaken - Uitwijkplan"
+
+	Het ministerie van Economische zaken heeft een template voor een Disaster Recovery Plan (DRP) opgesteld. Aan de hand van dit document kunnen duidelijke handelingen en verantwoordelijkheden opgeschreven worden wanneer een algoritme stop gezet moet worden.
+	Dit DRP is vrij algemeen en heeft geen specificaties voor algoritmes in het template staan. Dit zal dus verder uitgewerkt moeten worden, maar dit DRP kan als basis dienen voor het verder uitwerken.
+	
+	Bron: [Uitwijk- en herstelplan](https://www.digitaltrustcenter.nl/informatie-advies/uitwijk-en-herstelplan)
+
+
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

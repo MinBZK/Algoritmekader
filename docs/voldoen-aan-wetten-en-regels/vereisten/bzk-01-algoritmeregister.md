@@ -17,7 +17,7 @@ soort-toepassing:
 risicogroep: 
 - hoog-risico-ai-systeem
 - geen-hoog-risico-ai-systeem
-- uitzondering-van-toepassing
+- risicogroep-uitzondering-van-toepassing
 - verboden-ai
 rol-ai-act:
 - aanbieder

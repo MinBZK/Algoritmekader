@@ -1,3 +1,73 @@
+function updateFieldsBasedOnType(selectedType) {
+  // Get all relevant form fields
+  const riskGroupField = document.getElementById('risk-group');
+  const transparencyField = document.getElementById('transparency-obligations');
+  const systemicRiskField = document.getElementById('systemic-risk');
+
+  // Get their parent rows
+  const riskGroupRow = riskGroupField.closest('.form__row');
+  const transparencyRow = transparencyField.closest('.form__row');
+  const systemicRiskRow = systemicRiskField.closest('.form__row');
+
+  // First disable and reset all fields
+  [riskGroupField, transparencyField, systemicRiskField].forEach(field => {
+    field.value = '';
+    field.disabled = true;
+  });
+
+  // Make sure all rows are visible
+  [riskGroupRow, transparencyRow, systemicRiskRow].forEach(row => {
+    row.style.display = '';
+  });
+
+  // Determine which fields should be enabled based on type
+  const isAISystem = selectedType === 'ai-systeem' || selectedType === 'ai-systeem-voor-algemene-doeleinden';
+  const isAIModel = selectedType === 'ai-model-voor-algemene-doeleinden';
+
+  // Enable relevant fields based on selection
+  if (isAISystem) {
+    // For AI systems, enable risk group and transparency
+    riskGroupField.disabled = false;
+    transparencyField.disabled = false;
+    // Keep systemic risk disabled but visible
+    systemicRiskField.disabled = true;
+  } else if (isAIModel) {
+    // For AI models, only enable systemic risk
+    systemicRiskField.disabled = false;
+    // Keep others disabled but visible
+    riskGroupField.disabled = true;
+    transparencyField.disabled = true;
+  } else if (selectedType === 'impactvol-algoritme' || selectedType === 'niet-impactvol-algoritme') {
+    // For algoritmes, keep all fields disabled but visible
+    [riskGroupField, transparencyField, systemicRiskField].forEach(field => {
+      field.disabled = true;
+    });
+  }
+}
+
+// Initialize tooltips
+function initializeTooltips() {
+  const tooltips = document.querySelectorAll('.info-icon');
+  tooltips.forEach(tooltip => {
+    tooltip.addEventListener('mouseover', (e) => {
+      const tooltipText = e.target.getAttribute('title');
+      const tooltipDiv = document.createElement('div');
+      tooltipDiv.className = 'tooltip';
+      tooltipDiv.textContent = tooltipText;
+      document.body.appendChild(tooltipDiv);
+
+      const rect = e.target.getBoundingClientRect();
+      tooltipDiv.style.top = `${rect.top - tooltipDiv.offsetHeight - 5}px`;
+      tooltipDiv.style.left = `${rect.left + (rect.width / 2) - (tooltipDiv.offsetWidth / 2)}px`;
+    });
+
+    tooltip.addEventListener('mouseout', () => {
+      const tooltips = document.querySelectorAll('.tooltip');
+      tooltips.forEach(t => t.remove());
+    });
+  });
+}
+
 function closeModal() {
   document.getElementById('modal').classList.add("display-none")
 }
@@ -62,7 +132,9 @@ function loadHTML(url, targetDivId) {
 }
 
 function convertLabels(labels) {
-  return labels.map(function (label) { return labelMapper.find(label) })
+  return labels.map(function (label) {
+    return labelMapper.find(label)
+  })
 }
 
 function updateLabels(labels) {
@@ -70,7 +142,7 @@ function updateLabels(labels) {
   document.getElementById("ai-act-info-with-labels").classList.remove("display-none");
   document.getElementById("ai-act-info-no-labels").classList.add("display-none");
   // appendQueryParams({"labels": convertedLabels.map(obj=> obj.label).join(",")});
-  document.getElementById('labelsInput').value = convertedLabels.map(obj=> obj.label).join(",");
+  document.getElementById('labelsInput').value = convertedLabels.map(obj => obj.label).join(",");
 
   let labelsHTML = "";
   for (const label_obj of convertedLabels) {
@@ -81,13 +153,19 @@ function updateLabels(labels) {
 
 function getLabelsFromForm(el) {
   const formData = new FormData(el);
-  const jsonObject = Array.from(formData.entries()).reduce((resultArray, [key, value]) => {
-    resultArray[key] = resultArray.hasOwnProperty(key) ? (Array.isArray(resultArray[key]) ? [...resultArray[key], value] : [resultArray[key], value]) : value;
-    return resultArray;
-  }, {});
-  const labels = Object.values(jsonObject).flatMap(v => Array.isArray(v) ? v : [v]).filter(v => v !== "");
+
+  const labels = [];
+  const uniqueKeys = [...new Set(formData.keys())];
+
+  for (const key of uniqueKeys) {
+    formData.getAll(key).forEach(value => {
+      if (value.trim() !== '') {
+        labels.push(`${key}-${value}`);
+      }
+    });
+  }
+
   if (labels.length > 0) {
-    console.log(labels);
     updateLabels(labels);
   } else {
     document.getElementById("ai-act-info-with-labels").classList.add("display-none");
@@ -111,15 +189,28 @@ function removeLabel(event) {
 
 function updateAIActForm() {
   let currentLabels = document.getElementById('labelsInput').value.split(",");
-  document.getElementById("ai-act-labels-form").querySelectorAll('[value]').forEach(element => {
-    if (currentLabels.includes(labelMapper.find(element.getAttribute('value')).label)) {
-      if (element.nodeName === "OPTION") {
-        element.setAttribute("selected", "selected");
-      } else {
+  document.getElementById("ai-act-labels-form").querySelectorAll("input").forEach(
+    element => {
+      let groupName = element.getAttribute("name");
+      let labelValue = element.getAttribute("value");
+      let labelWithGroup = groupName + "-" + labelValue;
+      if (currentLabels.includes(labelMapper.find(labelWithGroup).label)) {
         element.setAttribute("checked", "checked");
       }
     }
-  })
+  )
+
+  document.getElementById("ai-act-labels-form").querySelectorAll("select").forEach(
+    element => {
+      let groupName = element.getAttribute("name");
+      element.querySelectorAll("option").forEach(optionElement => {
+        let labelValue = optionElement.getAttribute("value");
+        let labelWithGroup = groupName + "-" + labelValue;
+        if (currentLabels.includes(labelMapper.find(labelWithGroup).label)) {
+          optionElement.setAttribute("selected", "selected");
+        }
+      })
+    })
 }
 
 function appendQueryParams(params) {
@@ -144,7 +235,7 @@ class ValueMapper {
   }
 
   addEntry(label, display_value, group, synonyms = []) {
-    const standardFormat = { label, group, display_value };
+    const standardFormat = {"label": group + "-" + label.toLowerCase(), group, display_value};
     this.map.set(group + "-" + label.toLowerCase(), standardFormat);
     synonyms.forEach(synonym => {
       this.map.set(group + "-" + synonym.toLowerCase(), standardFormat);
@@ -179,19 +270,20 @@ labelMapper.addEntry('uitzondering-van-toepassing', 'Uitzondering van toepassing
 labelMapper.addEntry('aanbieder', 'Aanbieder', 'rol-ai-act', []);
 labelMapper.addEntry('gebruiksverantwoordelijke', 'Gebruiksverantwoordelijke', 'rol-ai-act', [])
 labelMapper.addEntry('importeur', 'Importeur', 'rol-ai-act', []);
-labelMapper.addEntry('distributeur', 'Distributeur','rol-ai-act', []);
+labelMapper.addEntry('distributeur', 'Distributeur', 'rol-ai-act', []);
 
-labelMapper.addEntry('ai-systeem', 'AI Systeem', 'soort-toepassing', ['AI-Systeem','ai-systeem']);
+labelMapper.addEntry('ai-systeem', 'AI Systeem', 'soort-toepassing', ['AI-Systeem', 'ai-systeem']);
 labelMapper.addEntry('ai-systeem-voor-algemene-doeleinden', 'AI Systeem voor algemene doeleinden', 'soort-toepassing', ['AI-Systeem voor algemene doeleinden']);
-labelMapper.addEntry('ai-model-voor-algemene-doeleinden', 'AI model voor algemen doeleinden', 'soort-toepassing',['AI-model voor algemene doeleinden']);
+labelMapper.addEntry('ai-model-voor-algemene-doeleinden', 'AI model voor algemen doeleinden', 'soort-toepassing', ['AI-model voor algemene doeleinden']);
 labelMapper.addEntry('impactvol-algoritme', 'Impactvol algoritme', 'soort-toepassing', []);
-labelMapper.addEntry('niet-impactvol-algoritme', 'Niet-impactvol algoritme','soort-toepassing', []);
+labelMapper.addEntry('niet-impactvol-algoritme', 'Niet-impactvol algoritme', 'soort-toepassing', []);
 
 labelMapper.addEntry('transparantieverplichting', 'Transparantieverplichting', 'transparantieverplichting', []);
 labelMapper.addEntry('geen-transparantieverplichting', 'Geen transparantieverplichting', 'transparantieverplichting', []);
 
 labelMapper.addEntry('systeemrisico', 'Systeemrisico', 'systeemrisico', []);
 labelMapper.addEntry('geen-systeemrisico', 'Geen systeemrisico', 'systeemrisico', []);
+labelMapper.addEntry('niet-van-toepassing', 'Niet van toepassing', 'systeemrisico', []);
 
 labelMapper.addEntry('open-source', 'Open source', 'open-source', []);
 labelMapper.addEntry('geen-open-source', 'Geen open source', 'open-source', []);

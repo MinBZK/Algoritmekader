@@ -21,6 +21,13 @@ jobs:
       - name: install dependencies
         run: pip install -r requirements.txt
 
-      
       - name: Run Python script
         run: python script/analysis-maatregelen.py
+
+      - name: push changes
+        run: |
+          git add relatie-ak-tot-toetsingskaders.csv
+          git commit -m "Update CSV bestand"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GIT_COMMIT_PUSH }}

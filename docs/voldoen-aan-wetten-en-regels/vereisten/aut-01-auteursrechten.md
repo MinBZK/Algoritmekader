@@ -9,6 +9,34 @@ onderwerp:
 - data
 rollen:
 - jurist
+soort-toepassing:
+- ai-model-voor-algemene-doeleinden
+- ai-systeem
+- ai-systeem-voor-algemene-doeleinden
+- impactvol-algoritme
+- niet-impactvol-algoritme
+risicogroep: 
+- hoog-risico-ai-systeem
+- geen-hoog-risico-ai-systeem
+- uitzondering-van-toepassing
+- verboden-ai
+rol-ai-act:
+- aanbieder
+- gebruiksverantwoordelijke
+- importeur
+- distributeur
+transparantieverplichting: 
+- geen-transparantieverplichting
+- transparantieverplichting 
+- niet-van-toepassing
+systeemrisico:
+- systeemrisico
+- geen-systeemrisico
+- niet-van-toepassing
+open-source: 
+- open-source
+- geen-open-source
+- niet-van-toepassing
 hide:
 - navigation
 ---

@@ -36,7 +36,7 @@ hide:
 
 ## Maatregel
 <!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
-Stel een duidelijk proces op voor situaties waarin het algoritme niet meer werkt zoals beoogd. Dit moet bevatten welke personen welke acties moeten doen en hoe er gewerkt wordt zonder het algoritme.
+Stel een duidelijk proces in voor situaties waarin het algoritme niet meer werkt zoals beoogd. Dit moet bevatten welke personen welke acties moeten doen en hoe er gewerkt wordt zonder het algoritme.
   
 ## Toelichting
 Er moet gezorgd worden dat er een alternatief plan is voor als het algoritme niet meer werkt zoals beoogd. Dit kan betekenen dat het hele systeem (tijdelijk) wordt stopgezet, dat delen van het systeem (tijdelijk) worden uitgeschakeld of dat er een alternatief systeem gebruikt wordt. 
@@ -60,7 +60,7 @@ Zorg dat door middel van het [loggen](4-owk-04-logging.md) van de juiste informa
 - Leg vast wie er binnen en buiten de organisatie geïnformeerd moeten worden. 
 - Het is van belang dat bij het ontwerp van algoritmes er rekening wordt gehouden met dat het werkproces ook zonder het algoritme kan worden uitgevoerd.
 - In het geval van risicoselectie kan er bijvoorbeeld worden teruggevallen op het enkel uitvoeren van een [aselecte steekproef](6-imp-02-aselecte-steekproeven.md) als selectieinstrument. 
-- Als blijkt dat het algoritme ongewenst functioneert, dan moeten (technische) maatregelen zijn getroffen waarmee het gebruik daadwerkelijk kan worden stopgezet. Denk hierbij aan een stopknop en [werkinstructies](6-imp-01-werkinstructies-gebruikers.md) hoe het gebruik kan worden beëindigd.
+- Als blijkt dat het algoritme ongewenst functioneert moeten (technische) maatregelen zijn getroffen waarmee het gebruik daadwerkelijk kan worden stopgezet. Denk hierbij aan een stopknop en [werkinstructies](6-imp-01-werkinstructies-gebruikers.md) hoe het gebruik kan worden beëindigd.
 - Maak aantoonbaar dat deze maatregelen zijn getroffen.
 - De proceseigenaar of een menselijk toezichthouder moet in staat zijn om het algoritme op elk moment te kunnen beëindigen.
 - Het stopzetten van het gebruik van een algoritme mag niet tot gevolg hebben dat betrokkenen niet meer kunnen achterhalen hoe besluiten tot stand zijn gekomen of dat gevolgen niet meer kunnen worden gecorrigeerd als dat noodzakelijk is. 
@@ -68,7 +68,7 @@ Zorg dat door middel van het [loggen](4-owk-04-logging.md) van de juiste informa
 Indien er sprake is van discriminerende effecten van een algoritme, kan je gebruik maken van het [discriminatieprotocol](0-org-15-discriminatieprotocol.md). 
    
 ## Risico
-Als er geen duidelijke acties zijn gedefinieerd, kan dat bijvoorbeeld leiden tot de volgende risico’s: het werkproces komt stil te liggen door een niet-werkend algoritme; er worden verkeerde beslissingen genomen doordat het algoritme nog wordt gebruikt terwijl het niet goed meer werkt, kwaadwillenden hebben langer toegang tot het algoritme en/of organisatiedata. 
+Als er geen duidelijke acties zijn gedefinieerd, kan dat bijvoorbeeld leiden tot de volgende risico’s: het werkproces komt stil te liggen door een niet-werkend algoritme, er worden verkeerde beslissingen genomen doordat het algoritme nog wordt gebruikt terwijl het niet goed meer werkt of kwaadwillenden hebben langer toegang tot het algoritme en/of organisatiedata. 
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->

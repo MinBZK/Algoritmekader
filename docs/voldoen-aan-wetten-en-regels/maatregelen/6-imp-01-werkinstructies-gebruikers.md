@@ -1,20 +1,23 @@
 ---
-title: Stel een werkinstructie op voor gebruikers.
+title: Stel een werkinstructie op voor gebruikers
 id: urn:nl:ak:mtr:imp-01
-toelichting: Stel een duidelijke werkinstructie op voor gebruikers die het algoritme gaan toepassen. 
+toelichting: Stel een duidelijke werkinstructie op voor medewerkers die gebruik maken van of in aanraking komen met het algoritme
 vereiste:
 - aia-01-ai-geletterdheid
 - awb-01-zorgvuldigheidsbeginsel
 - aia-28-transparantieverplichtingen
 - aia-09-menselijk-toezicht
+- grw-02-non-discriminatie
+- aia-21-gebruiksverantwoordelijken-menselijk-toezicht
 levenscyclus: 
 - implementatie
 onderwerp: 
 - menselijke-controle
 - transparantie
+- governance
 rollen:
 - projectleider
-- ontwikkelaar
+- beleid-en-advies
 sources:
   ARK: 3.07
   ADR: 
@@ -35,10 +38,12 @@ Stel een werkinstructie op voor gebruikers zodat zij weten hoe het algoritme cor
 ## Toelichting
 Het is belangrijk dat gebruikers een werkinstructie ontvangen met informatie over hoe zij met het algoritme kunnen en moeten werken. Hierin worden zaken beschreven als:
 
-- Op wat voor manier het algoritme ondersteunt bij het uitvoeren van (wettelijke) taken en hoe het past in de werkwijze. 
+- Op wat voor manier het algoritme ondersteunt bij het uitvoeren van (wettelijke) taken en hoe het past in de werkwijze. Maak hierbij een duidelijke keuze rondom de rol van het systeem/algoritme bij de werkwijze van medewerkers. 
 - Wat de mogelijkheden en beperkingen zijn bij het gebruik van het algoritme. Op welke manieren mag het algoritme gebruikt worden? En op welke manieren niet? Wat zijn de grenzen van toepasbaarheid? En wat zijn de voorwaarden waaronder het model gebruikt kan worden en waaronder niet?
+- Maak duidelijke werkinstructies en protocollen om te voorkomen dat beslissingen, gebaseerd op de output van het systeem, door (automation) bias worden beïnvloed.
 - Welke informatie mag er worden ingevoerd in het systeem? En welke informatie niet?
-- Wat de impact is van het gebruik van het algoritme op de samenleving en individuen (denk aan [energieverbruik](7-mon-06-meten-milieu-impact.md) of dat een besluit met rechtsgevolgen wordt genomen).
+- Wat de impact is van het gebruik van het algoritme op de samenleving en individuen (denk aan [fundamentele rechten](../../onderwerpen/fundamentele-rechten.md) en [energieverbruik](7-mon-06-meten-milieu-impact.md) of dat een besluit met rechtsgevolgen wordt genomen).
+- Zorg dat medewerkers weten waar ze eventuele problemen met het systeem kunnen melden. Bespreek regelmatig met de betrokken medewerkers welke uitdagingen of verbeteringen zij zien bij het gebruik van het systeem.
 - Wat de risico's zijn die aan het gebruik verbonden zijn. Denk aan:
 
     - verschillende vormen van [bias](../../onderwerpen/bias-en-non-discriminatie.md), zoals automation bias, 
@@ -66,6 +71,9 @@ Denk hierbij na over het eventueel bijscholen van medewerkers als het kennisnive
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 3.07](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Onderzoekskader Auditdienst Rijk, DM.3, DM.10, DM.12](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Ethics Guidelines of Trustworthy AI](https://op.europa.eu/en/publication-detail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a1)
+- [Handreiking non-discriminatie by design](https://open.overheid.nl/documenten/ronl-3f9fa69c-acf4-444d-96e1-5c48df00eb3c/pdf) 
+- [Impact Assessment Mensenrechten en Algoritmes](https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes) 
+- [Toetsingskader risicoprofilering – Normen tegen discriminatie op grond van ras en nationaliteit, College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/4093c026-ae41-4c1d-aa78-4ce0e205b5de)
 
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
@@ -85,9 +93,3 @@ Het algoritme wordt onjuist gebruikt of verkeerd geïnterpreteerd door gebruiker
 	Bron: [Handleiding Generatieve AI - Gemeente Utrecht](https://stadszaken.nl/uploads/docs/Handleiding-Generatieve-AI-Gemeente-Utrecht.pdf)
 
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
-
-
-## Bronnen 
-- [Toetsingskader Algoritmes Algemene Rekenkamer, 3.07](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
-- [Ethics Guidelines of Trustworthy AI](https://op.europa.eu/en/publication-detail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a1)
-- [Toetsingskader risicoprofilering – Normen tegen discriminatie op grond van ras en nationaliteit, College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/4093c026-ae41-4c1d-aa78-4ce0e205b5de)

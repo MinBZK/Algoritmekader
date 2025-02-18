@@ -1,105 +1,85 @@
 <form class="form" id="ai-act-labels-form" onsubmit="getLabelsFromForm(this); filterTable(); return false;">
-
+    
     <h2>Bepaal je AI-verordening profiel</h2>
     <p>
-        Vul de velden hieronder in om je AI-verordening profiel samen te stellen.<br/>Op basis
-        van deze informatie worden de relevante vereisten voor jouw AI-systeem gefilterd.
+        Vul de velden hieronder in om je AI-verordening profiel samen te stellen.<br/>
+        Op basis van deze informatie worden de relevante vereisten voor jouw AI-systeem gefilterd.
     </p>
 
     <div class="form__row">
         <label class="form__label" id="rol-label">Rol</label>
         <div class="input-checkbox">
-            <input type="checkbox" id="role-aanbieder" name="role" value="rol-ai-act-aanbieder" class="checkbox__input">
+            <input type="checkbox" id="role-aanbieder" name="rol-ai-act" value="aanbieder" class="checkbox__input">
             <label class="checkbox__label" for="role-aanbieder">Aanbieder</label>
         </div>
         <div class="input-checkbox">
-            <input type="checkbox" id="role-gebruiksverantwoordelijke" name="role" value="rol-ai-act-gebruiksverantwoordelijke"
-                   class="checkbox__input">
+            <input type="checkbox" id="role-gebruiksverantwoordelijke" name="rol-ai-act" value="gebruiksverantwoordelijke" class="checkbox__input">
             <label class="checkbox__label" for="role-gebruiksverantwoordelijke">Gebruiksverantwoordelijke</label>
         </div>
         <div class="input-checkbox">
-            <input type="checkbox" id="role-importeur" name="role" value="rol-ai-act-importeur" class="checkbox__input">
+            <input type="checkbox" id="role-importeur" name="rol-ai-act" value="importeur" class="checkbox__input">
             <label class="checkbox__label" for="role-importeur">Importeur</label>
         </div>
         <div class="input-checkbox">
-            <input type="checkbox" id="role-distributeur" name="role" value="rol-ai-act-distributeur" class="checkbox__input">
+            <input type="checkbox" id="role-distributeur" name="rol-ai-act" value="distributeur" class="checkbox__input">
             <label class="checkbox__label" for="role-distributeur">Distributeur</label>
         </div>
     </div>
 
     <div class="form__row">
-        <label class="form__label" id="type-label" for="type">Type AI toepassing</label>
-        <select class="input-select" id="type" name="type">
+        <label class="form__label" id="type-label" for="type">
+            Type AI toepassing
+            <span class="info-icon" title="Het is alleen mogelijk om het label 'impactvol' of 'geen-impactvol algoritme' te krijgen wanneer er geen sprake is van een AI-systeem of AI-model">i</span>
+        </label>
+        <select class="input-select" id="type" name="soort-toepassing" onchange="updateFieldsBasedOnType(this)">
             <option value="" hidden="">Selecteer optie</option>
             <option value="ai-systeem">AI-systeem</option>
             <option value="ai-systeem-voor-algemene-doeleinden">AI-systeem voor algemene doeleinden</option>
             <option value="ai-model-voor-algemene-doeleinden">AI-model voor algemene doeleinden</option>
-            <option value="impactvol-algoritme">impactvol algoritme</option>
-            <option value="niet-impactvol-algoritme">niet-impactvol algoritme</option>
-            <option value="geen-algoritme">geen algoritme</option>
+            <option value="impactvol-algoritme">Impactvol algoritme</option>
+            <option value="niet-impactvol-algoritme">Niet-impactvol algoritme</option>
         </select>
     </div>
 
     <div class="form__row">
-        <label class="form__label" id="label-risk-group" for="risk-group">In welke risicogroep valt de
-            applicatie?</label>
-        <select class="input-select" id="risk-group" name="risk-group">
+        <label class="form__label" id="label-risk-group" for="risk-group">
+            In welke risicogroep valt de applicatie?
+            <span class="info-icon" title="Alleen van toepassing op AI-systeem en AI-systeem voor algemene doeleinden">i</span>
+        </label>
+        <select class="input-select" id="risk-group" name="risicogroep" disabled>
             <option value="" hidden="">Selecteer optie</option>
-            <option value="hoog-risico-ai-systeem">hoog-risico AI</option>
-            <option value="geen-hoog-risico-ai-systeem">geen hoog-risico AI</option>
-            <option value="verboden-ai">verboden AI</option>
-            <option value="uitzondering-van-toepassing">uitzondering van toepassing</option>
-            <option value="niet van toepassing">niet van toepassing</option>
-        </select>
-    </div>
-
-
-    <div class="form__row">
-        <label class="form__label" id="label-transparency-obligations" for="transparency-obligations">Zijn er
-            transparantieverplichtingen?</label>
-        <select class="input-select" id="transparency-obligations" name="transparency-obligations">
-            <option value="" hidden="">Selecteer optie</option>
-            <option value="transparantieverplichting">transparantieverplichting</option>
-            <option value="geen-transparantieverplichting">geen transparantieverplichting</option>
-            <option value="">niet van toepassing</option>
+            <option value="hoog-risico-ai-systeem">Hoog-risico</option>
+            <option value="geen-hoog-risico-ai-systeem">Geen hoog-risico</option>
+            <option value="verboden-ai">Verboden AI</option>
+            <option value="uitzondering-van-toepassing">Uitzondering van toepassing</option>
         </select>
     </div>
 
     <div class="form__row">
-        <label class="form__label" id="label-systemic-risk" for="systemic-risk">Is er sprake van een
-            systeemrisico?</label>
-        <select class="input-select" id="systemic-risk" name="systemic-risk">
+        <label class="form__label" id="label-transparency-obligations" for="transparency-obligations">
+            Zijn er transparantieverplichtingen?
+            <span class="info-icon" title="Alleen van toepassing op AI-systeem en AI-systeem voor algemene doeleinden">i</span>
+        </label>
+        <select class="input-select" id="transparency-obligations" name="transparantieverplichting" disabled>
             <option value="" hidden="">Selecteer optie</option>
-            <option value="systeemrisico">systeemrisico</option>
-            <option value="geen-systeemrisico">geen systeemrisico</option>
-            <option value="">niet van toepassing</option>
-        </select>
-    </div>
-
-
-    <div class="form__row">
-        <label class="form__label" id="label-open-source" for="open-source">Is de applicatie open source?</label>
-        <select class="input-select" id="open-source" name="open-source">
-            <option value="" hidden="">Selecteer optie</option>
-            <option value="open-source">open-source</option>
-            <option value="geen-open-source">geen open-source</option>
-            <option value="">niet van toepassing</option>
+            <option value="transparantieverplichting">Transparantieverplichting</option>
+            <option value="geen-transparantieverplichting">Geen transparantieverplichting</option>
         </select>
     </div>
 
     <div class="form__row">
-        <label class="form__label" id="label-conformity-assessment-body" for="conformity-assessment-body">Moet een
-            conformiteitsbeoordeling worden
-            uitgevoerd door een geaccrediteerde instantie?</label>
-        <select class="input-select" id="conformity-assessment-body" name="conformity-assessment_body">
+        <label class="form__label" id="label-systemic-risk" for="systemic-risk">
+            Is er sprake van een systeemrisico?
+            <span class="info-icon" title="Alleen van toepassing op AI-model voor algemene doeleinden">i</span>
+        </label>
+        <select class="input-select" id="systemic-risk" name="systeemrisico" disabled>
             <option value="" hidden="">Selecteer optie</option>
-            <option value="beoordeling-door-derde-partij">beoordeling door derde partij</option>
-            <option value="">niet van toepassing</option>
+            <option value="systeemrisico">Systeemrisico</option>
+            <option value="geen-systeemrisico">Geen systeemrisico</option>
         </select>
     </div>
 
     <div class="form__row">
         <button class="button--primary" type="submit">Filter toepassen</button>
     </div>
-</form
->
+</form>

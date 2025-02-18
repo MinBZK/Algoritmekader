@@ -156,13 +156,13 @@ function filterTable() {
     }
 
     for (let i = 1; i < tr.length; i++) { // Skip header row
-        var dataLabels = ""
+        var labelMatchConditions = ""
         if (tr[i].hasAttribute("data-labels")) {
-            dataLabels = tr[i].getAttribute("data-labels")
+            labelMatchConditions = tr[i].getAttribute("data-labels")
         }
-        var uitzonderingExpressions = [];
+        var uitzonderingMatchConditions = [];
         if (tr[i].hasAttribute("data-uitzondering")) {
-            uitzonderingExpressions = tr[i].getAttribute("data-uitzondering").split(",").map(item => item.trim()).filter(item => item !== "");
+            uitzonderingMatchConditions = tr[i].getAttribute("data-uitzondering").split(",").map(item => item.trim()).filter(item => item !== "");
         }
 
         var td = tr[i].getElementsByTagName("td")[1];  // Maatregelen column (td[0])
@@ -179,35 +179,22 @@ function filterTable() {
             if (tr[i].getElementsByTagName("td")[2].querySelectorAll(".debug").length === 0) {
                 tr[i].getElementsByTagName("td")[2].innerHTML += "<div class='debug'></div>";
             }
-            let debugDiv = tr[i].getElementsByTagName("td")[2].querySelectorAll(".debug")[0];
-
-            // console.log(`Row ${i} values: `, { txtValue, txtValue2, txtValue3, txtValue4 });
 
             // Check if all selected filters are present
             var roleMatch = selectedRoles.every(role => txtValue2.toUpperCase().indexOf(role) > -1);
             var lcMatch = selectedLevenscyclus.every(lc => txtValue3.toUpperCase().indexOf(lc) > -1);
             var onderwerpMatch = selectedOnderwerpen.every(onderwerp => txtValue4.toUpperCase().indexOf(onderwerp) > -1);
-            var labelMatch = dataLabels === "" || labelsToFilterOn.length === 0 || evaluateLabelExpression(dataLabels, labelsToFilterOn);
-            var uitzonderingMatch = anyExpressionMatches(uitzonderingExpressions, labelsInput);
-
-            debugDiv.innerHTML = "";
-            debugDiv.innerHTML += "Match condition: " + dataLabels + "</br></br>";
-            debugDiv.innerHTML += "Current labels: " + labelsToFilterOn + "</br>";
+            var labelMatch = labelMatchConditions === "" || labelsToFilterOn.length === 0 || evaluateLabelExpression(labelMatchConditions, labelsToFilterOn);
+            var uitzonderingMatch = anyExpressionMatches(uitzonderingMatchConditions, labelsInput);
 
             if (uitzonderingMatch && labelMatch) {
-                tr[i].style.backgroundColor = "rgba(249, 105, 14, 0.15)";
                 labelMatch = false
-            } else if (labelMatch && dataLabels !== "") {
-                tr[i].style.backgroundColor = "rgba(0, 255, 0, 0.15)";
-            } else {
-                tr[i].style.backgroundColor = "rgba(0, 0, 255, 0.15)";
             }
 
             if (txtValue.toUpperCase().indexOf(filter) > -1 && roleMatch && lcMatch && onderwerpMatch && labelMatch) {
                 tr[i].style.display = "";
             } else {
-                tr[i].style.backgroundColor = "red";
-                // tr[i].style.display = "none";
+                tr[i].style.display = "none";
             }
         }
     }

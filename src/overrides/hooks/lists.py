@@ -72,8 +72,9 @@ def _create_table_row_2(file: File, filter_options: Dict[str, bool], current_fil
 
     # create match expression for labels
     label_match_expression = []
-    label_match_expression.append(" || ".join(f"{key}-{value}" for key, values in ai_act_labels.items() for value in values if values))
-    # label_match_expression.append("(" + " || ".join(labels) + ")")
+    for key, values in ai_act_labels.items():
+        if values:
+            label_match_expression.append("(" + " || ".join(f"{key}-{value}" for value in values) + ")" )
     label_match_expression_str = " && ".join(label_match_expression) if label_match_expression else ""
 
     data_html_attribute = "data-labels=\"" + label_match_expression_str + "\""

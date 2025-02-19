@@ -13,17 +13,21 @@ Als je de antwoorden op de vragen niet weet, <a href='#' onclick="showModal(even
         </label>
         <div class="input-checkbox">
             <input type="checkbox" id="role-aanbieder" name="rol-ai-act" value="aanbieder" class="checkbox__input">
+            <input type="checkbox" id="role-aanbieder" name="rol-ai-act" value="aanbieder" class="checkbox__input">
             <label class="checkbox__label" for="role-aanbieder">Aanbieder</label>
         </div>
         <div class="input-checkbox">
+            <input type="checkbox" id="role-gebruiksverantwoordelijke" name="rol-ai-act" value="gebruiksverantwoordelijke" class="checkbox__input">
             <input type="checkbox" id="role-gebruiksverantwoordelijke" name="rol-ai-act" value="gebruiksverantwoordelijke" class="checkbox__input">
             <label class="checkbox__label" for="role-gebruiksverantwoordelijke">Gebruiksverantwoordelijke</label>
         </div>
         <div class="input-checkbox">
             <input type="checkbox" id="role-importeur" name="rol-ai-act" value="importeur" class="checkbox__input">
+            <input type="checkbox" id="role-importeur" name="rol-ai-act" value="importeur" class="checkbox__input">
             <label class="checkbox__label" for="role-importeur">Importeur</label>
         </div>
         <div class="input-checkbox">
+            <input type="checkbox" id="role-distributeur" name="rol-ai-act" value="distributeur" class="checkbox__input">
             <input type="checkbox" id="role-distributeur" name="rol-ai-act" value="distributeur" class="checkbox__input">
             <label class="checkbox__label" for="role-distributeur">Distributeur</label>
         </div>
@@ -41,6 +45,8 @@ Als je de antwoorden op de vragen niet weet, <a href='#' onclick="showModal(even
             <option value="ai-model-voor-algemene-doeleinden">AI-model voor algemene doeleinden</option>
             <option value="impactvol-algoritme">Impactvol algoritme</option>
             <option value="niet-impactvol-algoritme">Niet-impactvol algoritme</option>
+            <option value="impactvol-algoritme">Impactvol algoritme</option>
+            <option value="niet-impactvol-algoritme">Niet-impactvol algoritme</option>
         </select>
     </div>
 
@@ -51,6 +57,10 @@ Als je de antwoorden op de vragen niet weet, <a href='#' onclick="showModal(even
         </label>
         <select class="input-select" id="risk-group" name="risicogroep" disabled>
             <option value="" hidden="">Selecteer optie</option>
+            <option value="hoog-risico-ai-systeem">Hoog-risico</option>
+            <option value="geen-hoog-risico-ai-systeem">Geen hoog-risico</option>
+            <option value="verboden-ai">Verboden AI</option>
+            <option value="uitzondering-van-toepassing">Uitzondering van toepassing</option>
             <option value="hoog-risico-ai-systeem">Hoog-risico</option>
             <option value="geen-hoog-risico-ai-systeem">Geen hoog-risico</option>
             <option value="verboden-ai">Verboden AI</option>
@@ -67,6 +77,8 @@ Als je de antwoorden op de vragen niet weet, <a href='#' onclick="showModal(even
             <option value="" hidden="">Selecteer optie</option>
             <option value="transparantieverplichting">Transparantieverplichting</option>
             <option value="geen-transparantieverplichting">Geen transparantieverplichting</option>
+            <option value="transparantieverplichting">Transparantieverplichting</option>
+            <option value="geen-transparantieverplichting">Geen transparantieverplichting</option>
         </select>
     </div>
 
@@ -79,10 +91,13 @@ Als je de antwoorden op de vragen niet weet, <a href='#' onclick="showModal(even
             <option value="" hidden="">Selecteer optie</option>
             <option value="systeemrisico">Systeemrisico</option>
             <option value="geen-systeemrisico">Geen systeemrisico</option>
+            <option value="systeemrisico">Systeemrisico</option>
+            <option value="geen-systeemrisico">Geen systeemrisico</option>
         </select>
     </div>
 
     <div class="form__row">
         <button class="button--primary" type="submit">Filter toepassen</button>
     </div>
+</form>
 </form>

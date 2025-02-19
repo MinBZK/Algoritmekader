@@ -59,6 +59,8 @@
     
       <link rel="stylesheet" href="/Algoritmekader/pr-preview/pr-631/stylesheets/choices.min.css">
     
+      <link rel="stylesheet" href="/Algoritmekader/pr-preview/pr-631/stylesheets/modal.css">
+    
     <script>__md_scope=new URL("/Algoritmekader/pr-preview/pr-631/",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -751,6 +753,14 @@
       </div>
     </div>
   </footer>
+<div id="modal" class="minbzk-modal display-none">
+  <div class="modal-underlay" onclick="closeModal()"></div>
+  <div class="modal-content-container" id="modal-content-container">
+    <div class="modal-content-close" onclick="closeModal()">&#xd7;</div>
+    <div class="modal-content" id="modal-content">
+  </div>
+  </div>
+</div>
       
     </div>
     <div class="md-dialog" data-md-component="dialog">
@@ -774,6 +784,8 @@
         <script src="/Algoritmekader/pr-preview/pr-631/javascripts/filtering.js"></script>
       
         <script src="/Algoritmekader/pr-preview/pr-631/javascripts/mermaid.min.js"></script>
+      
+        <script src="/Algoritmekader/pr-preview/pr-631/javascripts/modal.js"></script>
       
     
   </body>

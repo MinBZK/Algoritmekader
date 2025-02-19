@@ -20,6 +20,55 @@
     position: relative;
 }
 
+.info-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.2em;
+    height: 1.2em;
+    border-radius: 50%;
+    background-color: #e5f1f9;
+    color: #154273;
+    font-size: 0.8em;
+    margin-left: 0.5em;
+    cursor: help;
+    border: 1px solid #154273;
+    font-style: normal;
+    font-weight: bold;
+    vertical-align: middle;
+    transition: background-color 150ms ease-in-out;
+}
+
+.info-icon:hover {
+    background-color: #b2d7ee;
+}
+
+.tooltip {
+    position: fixed;
+    background-color: #154273;
+    color: white;
+    padding: 0.75em 1em;
+    border-radius: 0.25em;
+    font-size: 0.875em;
+    z-index: 1100;
+    max-width: 300px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    pointer-events: none;
+    font-family: "Rijksoverheid Sans", sans-serif;
+    line-height: 1.4;
+}
+
+.tooltip::after {
+    content: '';
+    position: absolute;
+    bottom: -0.4em;
+    left: 50%;
+    transform: translateX(-50%);
+    border-width: 0.4em 0.4em 0;
+    border-style: solid;
+    border-color: #154273 transparent transparent;
+}
+
 .choices__button {
     content: '\00d7';
 }
@@ -205,6 +254,23 @@
     height: 2.5em;
 }
 
+/* Disabled state for select that matches design system */
+.input-select:disabled {
+    background-color: #f8f9fa;
+    border: 1px solid #b2d7ee;
+    color: #154273;
+    cursor: not-allowed;
+    opacity: 0.5;
+    pointer-events: none;
+}
+
+.input-select:disabled:hover,
+.input-select:disabled:focus {
+    box-shadow: none;
+    outline: none;
+    border-color: #b2d7ee;
+}
+
 .input-checkbox {
     font-family: "Rijksoverheid Sans",sans-serif;
     line-height: 1.5;
@@ -222,6 +288,23 @@
     box-sizing: inherit;
     position: absolute;
     opacity: 0;
+}
+
+/* Disabled state for checkbox that matches design system */
+.checkbox__input:disabled + label {
+    opacity: 0.5;
+    cursor: not-allowed;
+    color: #154273;
+}
+
+.checkbox__input:disabled + label:before {
+    background-color: #f8f9fa;
+    border-color: #b2d7ee;
+}
+
+.checkbox__input:disabled:checked + label:before {
+    background-color: #b2d7ee !important;
+    opacity: 0.5;
 }
 
 .checkbox__label {
@@ -267,6 +350,11 @@
     margin-bottom: 1em;
     position: relative;
     clear: both;
+}
+
+/* Added hidden state for form rows */
+.form__row[aria-hidden="true"] {
+    display: none;
 }
 
 .form__label {

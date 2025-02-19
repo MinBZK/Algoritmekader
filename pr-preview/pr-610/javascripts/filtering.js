@@ -192,6 +192,7 @@ function filterTable() {
 
             debugDiv.innerHTML = "";
             debugDiv.innerHTML += "Match condition: " + labelMatchConditions + "<br/><br/>";
+            debugDiv.innerHTML += "Uitzondering condition: " + uitzonderingMatchConditions + "<br/><br/>";
             debugDiv.innerHTML += "Current labels: " + labelsToFilterOn + "<br/><br/>";
 
             if (uitzonderingMatch && labelMatch) {

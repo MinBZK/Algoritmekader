@@ -1,3 +1,73 @@
+function updateFieldsBasedOnType(selectedType) {
+  // Get all relevant form fields
+  const riskGroupField = document.getElementById('risk-group');
+  const transparencyField = document.getElementById('transparency-obligations');
+  const systemicRiskField = document.getElementById('systemic-risk');
+
+  // Get their parent rows
+  const riskGroupRow = riskGroupField.closest('.form__row');
+  const transparencyRow = transparencyField.closest('.form__row');
+  const systemicRiskRow = systemicRiskField.closest('.form__row');
+
+  // First disable and reset all fields
+  [riskGroupField, transparencyField, systemicRiskField].forEach(field => {
+    field.value = '';
+    field.disabled = true;
+  });
+
+  // Make sure all rows are visible
+  [riskGroupRow, transparencyRow, systemicRiskRow].forEach(row => {
+    row.style.display = '';
+  });
+
+  // Determine which fields should be enabled based on type
+  const isAISystem = selectedType === 'ai-systeem' || selectedType === 'ai-systeem-voor-algemene-doeleinden';
+  const isAIModel = selectedType === 'ai-model-voor-algemene-doeleinden';
+
+  // Enable relevant fields based on selection
+  if (isAISystem) {
+    // For AI systems, enable risk group and transparency
+    riskGroupField.disabled = false;
+    transparencyField.disabled = false;
+    // Keep systemic risk disabled but visible
+    systemicRiskField.disabled = true;
+  } else if (isAIModel) {
+    // For AI models, only enable systemic risk
+    systemicRiskField.disabled = false;
+    // Keep others disabled but visible
+    riskGroupField.disabled = true;
+    transparencyField.disabled = true;
+  } else if (selectedType === 'impactvol-algoritme' || selectedType === 'niet-impactvol-algoritme') {
+    // For algoritmes, keep all fields disabled but visible
+    [riskGroupField, transparencyField, systemicRiskField].forEach(field => {
+      field.disabled = true;
+    });
+  }
+}
+
+// Initialize tooltips
+function initializeTooltips() {
+  const tooltips = document.querySelectorAll('.info-icon');
+  tooltips.forEach(tooltip => {
+    tooltip.addEventListener('mouseover', (e) => {
+      const tooltipText = e.target.getAttribute('title');
+      const tooltipDiv = document.createElement('div');
+      tooltipDiv.className = 'tooltip';
+      tooltipDiv.textContent = tooltipText;
+      document.body.appendChild(tooltipDiv);
+
+      const rect = e.target.getBoundingClientRect();
+      tooltipDiv.style.top = `${rect.top - tooltipDiv.offsetHeight - 5}px`;
+      tooltipDiv.style.left = `${rect.left + (rect.width / 2) - (tooltipDiv.offsetWidth / 2)}px`;
+    });
+
+    tooltip.addEventListener('mouseout', () => {
+      const tooltips = document.querySelectorAll('.tooltip');
+      tooltips.forEach(t => t.remove());
+    });
+  });
+}
+
 function closeModal() {
   document.getElementById('modal').classList.add("display-none")
 }
@@ -213,6 +283,7 @@ labelMapper.addEntry('geen-transparantieverplichting', 'Geen transparantieverpli
 
 labelMapper.addEntry('systeemrisico', 'Systeemrisico', 'systeemrisico', []);
 labelMapper.addEntry('geen-systeemrisico', 'Geen systeemrisico', 'systeemrisico', []);
+labelMapper.addEntry('niet-van-toepassing', 'Niet van toepassing', 'systeemrisico', []);
 
 labelMapper.addEntry('open-source', 'Open source', 'open-source', []);
 labelMapper.addEntry('geen-open-source', 'Geen open source', 'open-source', []);

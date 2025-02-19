@@ -40,13 +40,13 @@ Stel vast of er periodieke momenten zijn vanuit bijvoorbeeld wetgeving, organisa
 ### Bepaal bij welke gebeurtenissen het algoritme geëvalueerd moet worden
 Wat zijn gebeurtenissen die om een nieuwe evaluatie vragen? Denk bijvoorbeeld aan momenten waarop het bijtrainen van het model noodzakelijk is, zoals:
 
-- een wijziging in de data of het algoritm
-- aangepaste wetgeving
-- andere context of tijd waarin het algoritme gebruikt wordt
-- een nieuwe werkwijze
-- het optreden van een incident-
-- gebruikersfeedback 
-- een verandering in de gebruikscontext (bijv. een situatie als COVID-19)  
+- Een wijziging in de data of het algoritme.
+- Aangepaste wetgeving.
+- Andere context of tijd waarin het algoritme gebruikt wordt.
+- Een nieuwe werkwijze.
+- Het optreden van een incident.
+- Gebruikersfeedback. 
+- Een verandering in de gebruikscontext (bijv. een situatie als COVID-19).  
 
 ### Bepaal wat er geëvalueerd moet worden
 Bepaal welke onderdelen van het algoritme geëvalueerd dienen te worden bij een periodieke controle of wanneer er een gebeurtenis plaatsvindt waardoor evaluatie wenselijk is.
@@ -59,24 +59,27 @@ Wat minimaal periodiek geëvalueerd moet worden is:
 - [bias](5-ver-03-biasanalyse.md)
 - [veiligheid](7-mon-08-test-weerbaarheid-tegen-aanvallen.md)
 - [grondrechten](2-owp-07-afwegen-grondrechten.md)
-- [privacy](4-owk-03-privacyrisico.md)
+- [privacy](4-owk-03-privacyrisico.md).
 
-Bij een evaluatie hoeft niet altijd alles weer geëvalueerd te worden. Dit hangt af van het type wijzigingen die er zijn geweest en van de aspecten die continu worden gemonitord. Leg vast wat er wanneer geëvalueerd dient te worden. 
+Bij een evaluatie hoeft niet altijd alles weer geëvalueerd te worden. Dit hangt af van het type wijzigingen die er zijn geweest en van de aspecten die continu worden gemonitored. Leg vast wat er wanneer geëvalueerd dient te worden. 
 
 ### Documenteer voor en tijdens iedere evaluatie
 Zorg dat de benodigde informatie voor de evaluatie wordt opgeslagen en beschikbaar is voor de evaluatiemomenten. Denk aan invoerwaarden, resultaten en gebruikersstatistieken. 
 
 Betrek bij het opstellen van dit plan een [diverse groep van belanghebbenden](1-pba-04-betrek-belanghebbenden.md) met o.a. ontwikkelaars, gebruikers en ethisch adviseurs. Zorg dat het evaluatieplan periodiek wordt herzien of deze nog voldoet.  
 
+## Risico
+Er zullen veranderingen plaatsvinden in de gebruikscontext, de data en in het algoritme zelf (bijv. door bijtrainen). Wanneer niet wordt geëvalueerd tijdens het gebruik is het onbekend of het algoritme nog steeds werkt zoals beoogd en voldoet aan de acceptatiecriteria. 
+
 ## Bijbehorende vereiste(n)
 
 ??? expander "Bekijk alle vereisten"
 	<!-- list_vereisten_on_maatregelen_page -->
 
-## Risico
-Er zullen veranderingen plaatsvinden in de gebruikscontext, de data en in het algoritme zelf (bijv. door bijtrainen). Wanneer niet wordt geëvalueerd tijdens het gebruik is het onbekend of het algoritme nog steeds werkt zoals beoogd en voldoet aan de acceptatiecriteria. 
+## Bronnen
+- [Toetsingskader Algemene Rekenkamer, 2.14](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 
-## Voorbeeld
+## Voorbeelden
 
 !!! example "UWV - Claim beoordelings- en borgingsysteem"
 	Om te bepalen of iemand nog kan werken en hoeveel maakt het UWV gebruik van een 'Claim beoordelings- en borgingsysteem' (CBBS). Dit systeem bepaalt aan de hand van onder andere de beoordeling van de verzekeringsarts en de UWV-polisadministratie het arbeidsongeschiktheidspercentage. Deze waarde wordt gebruikt als basis om een geschikte baan te vinden voor het individu dat beoordeeld wordt.
@@ -84,13 +87,5 @@ Er zullen veranderingen plaatsvinden in de gebruikscontext, de data en in het al
 	
 	Bron: [Claim Beoordelings- en Borgingsysteem]( https://algoritmes.overheid.nl/nl/algoritme/claim-beoordelings-en-borgingsysteem-cbbs-uitvoeringsinstituut-werknemersverzekeringen/21447945)
 
-	
-
-
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)  
-
-
-## Bronnen
-- [Toetsingskader Algemene Rekenkamer, 2.14](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
-
 

@@ -1,5 +1,5 @@
 ---
-title: Persoonsgegevens zijn juist en actueel.
+title: Persoonsgegevens zijn juist en actueel
 id: urn:nl:ak:ver:avg-05
 toelichting: De te verwerken persoonsgegevens zijn juist, nauwkeurig en worden zo nodig geactualiseerd of gewist.
 levenscyclus:

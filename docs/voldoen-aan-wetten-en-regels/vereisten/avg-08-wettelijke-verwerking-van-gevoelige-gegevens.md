@@ -1,5 +1,5 @@
 ---
-title: Gevoelige persoonsgegevens worden alleen gebruikt als hiervoor een wettelijke uitzondering geldt.
+title: Gevoelige persoonsgegevens worden alleen gebruikt als hiervoor een wettelijke uitzondering geldt
 id: urn:nl:ak:ver:avg-08
 toelichting: Bijzondere categorieën van persoonsgegevens mogen alleen worden verwerkt op basis van een wettelijke uitzondering.
 levenscyclus:

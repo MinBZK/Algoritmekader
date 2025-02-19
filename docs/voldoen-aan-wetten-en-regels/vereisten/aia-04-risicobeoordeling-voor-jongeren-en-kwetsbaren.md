@@ -1,5 +1,5 @@
 ---
-title: Hoog-risico-AI-systemen vormen geen risico voor kwetsbare groepen zoals kinderen.
+title: Hoog-risico-AI-systemen vormen geen risico voor kwetsbare groepen zoals kinderen
 id: urn:nl:ak:ver:aia-04
 toelichting: Bij het doorlopen, het periodieke systematische toetsen en actualiseren van het risicosysteem nemen aanbieders in overweging of het beoogde doel van het AI-systeem negatieve effecten zal hebben op personen jonger dan 18 jaar of andere kwetsbare groepen.
 levenscyclus:

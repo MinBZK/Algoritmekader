@@ -1,5 +1,5 @@
 ---
-title: AI-testomgevingen die persoonsgegevens verwerken, voldoen aan strenge voorwaarden.
+title: AI-testomgevingen die persoonsgegevens verwerken, voldoen aan strenge voorwaarden
 id: urn:nl:ak:ver:aia-33
 toelichting: Rechtmatig voor andere doeleinden verzamelde persoonsgegevens mogen uitsluitend in de AI-testomgeving voor regelgeving worden verwerkt ten behoeve van het ontwikkelen, trainen en testen van bepaalde AI-systemen en indien aan alle voorwaarden van art. 57 is voldaan.
 levenscyclus:

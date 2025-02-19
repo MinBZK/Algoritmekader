@@ -1,5 +1,5 @@
 ---
-title: Hoog-risico-AI-systemen zijn getest.
+title: Hoog-risico-AI-systemen zijn getest
 id: urn:nl:ak:ver:aia-38
 toelichting: AI-systemen met een hoog risico worden getest met het oog op het vaststellen van passende en gerichte risicobeheersmaatregelen.
 levenscyclus:

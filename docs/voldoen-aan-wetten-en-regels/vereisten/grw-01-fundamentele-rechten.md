@@ -1,5 +1,5 @@
 ---
-title: Algoritmes schenden geen grondrechten of mensenrechten.
+title: Algoritmes schenden geen grondrechten of mensenrechten
 id: urn:nl:ak:ver:grw-01
 toelichting: Fundamentele vrijheden, mensenrechten en grondrechten worden beschermd bij de inzet van algoritmes.
 levenscyclus:

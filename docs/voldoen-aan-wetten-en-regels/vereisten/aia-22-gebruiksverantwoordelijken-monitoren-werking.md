@@ -1,5 +1,5 @@
 ---
-title: De werking van hoog-risico-AI-systemen wordt gemonitord.
+title: De werking van hoog-risico-AI-systemen wordt gemonitord
 id: urn:nl:ak:ver:aia-22
 toelichting: Gebruiksverantwoordelijken monitoren de werking van het AI-systeem met een hoog risico op basis van de gebruiksaanwijzingen en stellen in voorkomend geval de aanbieders in kennis overeenkomstig artikel 72 AI Verordening
 levenscyclus:

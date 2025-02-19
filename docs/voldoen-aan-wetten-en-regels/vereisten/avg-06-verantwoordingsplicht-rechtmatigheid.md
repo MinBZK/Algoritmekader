@@ -1,5 +1,5 @@
 ---
-title: Organisaties kunnen bewijzen dat zij persoonsgegevens op de juiste manier verwerken.
+title: Organisaties kunnen bewijzen dat zij persoonsgegevens op de juiste manier verwerken
 id: urn:nl:ak:ver:avg-06
 toelichting: Bij het verwerken van persoonsgegevens voor algoritmes moeten de verantwoordelijken kunnen aantonen dat de verwerking rechtmatig is.
 levenscyclus: 

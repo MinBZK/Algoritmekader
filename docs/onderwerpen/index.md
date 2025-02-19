@@ -10,7 +10,7 @@ hide:
 
 <div class="grid cards" markdown>
 
--   [Ongewenst onderscheid](bias-en-non-discriminatie.md)
+-   [Discriminerende effecten en ander ongewenst onderscheid door algoritmes](bias-en-non-discriminatie.md)
 
     ---
 

@@ -1,23 +1,21 @@
-function updateFieldsBasedOnType(selectedType) {
+function setSelectedValue(el, val) {
+  const option = Array.from(el.options).find(opt => opt.value === val);
+  if (option) {
+    option.selected = true;
+  }
+}
+
+function updateFieldsBasedOnType(selectedTypeElement) {
+  const selectedType = selectedTypeElement.value;
+
   // Get all relevant form fields
   const riskGroupField = document.getElementById('risk-group');
   const transparencyField = document.getElementById('transparency-obligations');
   const systemicRiskField = document.getElementById('systemic-risk');
 
-  // Get their parent rows
-  const riskGroupRow = riskGroupField.closest('.form__row');
-  const transparencyRow = transparencyField.closest('.form__row');
-  const systemicRiskRow = systemicRiskField.closest('.form__row');
-
-  // First disable and reset all fields
+  // First disable all fields
   [riskGroupField, transparencyField, systemicRiskField].forEach(field => {
-    field.value = '';
     field.disabled = true;
-  });
-
-  // Make sure all rows are visible
-  [riskGroupRow, transparencyRow, systemicRiskRow].forEach(row => {
-    row.style.display = '';
   });
 
   // Determine which fields should be enabled based on type
@@ -29,18 +27,21 @@ function updateFieldsBasedOnType(selectedType) {
     // For AI systems, enable risk group and transparency
     riskGroupField.disabled = false;
     transparencyField.disabled = false;
-    // Keep systemic risk disabled but visible
     systemicRiskField.disabled = true;
+    setSelectedValue(systemicRiskField, "");
   } else if (isAIModel) {
     // For AI models, only enable systemic risk
     systemicRiskField.disabled = false;
     // Keep others disabled but visible
     riskGroupField.disabled = true;
+    setSelectedValue(riskGroupField, "");
     transparencyField.disabled = true;
+    setSelectedValue(transparencyField, "");
   } else if (selectedType === 'impactvol-algoritme' || selectedType === 'niet-impactvol-algoritme') {
     // For algoritmes, keep all fields disabled but visible
     [riskGroupField, transparencyField, systemicRiskField].forEach(field => {
       field.disabled = true;
+      setSelectedValue(field, "");
     });
   }
 }
@@ -100,6 +101,7 @@ function showModal(event, modalId) {
   if (modalId === "ai-act-labels") {
     onDynamicContentLoaded(document.getElementById("modal-content"), (cb) => {
       updateAIActForm();
+      updateFieldsBasedOnType(document.getElementById("type"));
     });
     loadHTML('../../html/ai-verordening-popup.html', 'modal-content')
     document.getElementById("modal-content-container").classList.add("model-content-auto-size");
@@ -132,9 +134,7 @@ function loadHTML(url, targetDivId) {
 }
 
 function convertLabels(labels) {
-  return labels.map(function (label) {
-    return labelMapper.find(label)
-  })
+  return labels.map(label => labelMapper.find(label))
 }
 
 function updateLabels(labels) {
@@ -238,7 +238,7 @@ class ValueMapper {
     const standardFormat = {"label": group + "-" + label.toLowerCase(), group, display_value};
     this.map.set(group + "-" + label.toLowerCase(), standardFormat);
     synonyms.forEach(synonym => {
-      this.map.set(group + "-" + synonym.toLowerCase(), standardFormat);
+      this.map.set(synonym.toLowerCase(), standardFormat);
     });
 
     if (!this.groups.has(group)) {
@@ -262,43 +262,49 @@ class ValueMapper {
 // Usage example:
 const labelMapper = new ValueMapper();
 
-labelMapper.addEntry('hoog-risico-ai-systeem', 'Hoog risico AI Systeem', 'risicogroep', ['hoog-risico AI']);
-labelMapper.addEntry('geen-hoog-risico-ai-systeem', 'Geen hoog-risico AI Systeem', 'risicogroep', ['geen hoog-risico AI']);
-labelMapper.addEntry('verboden-ai', 'Verboden AI', 'risicogroep', ['Verboden AI']);
-labelMapper.addEntry('uitzondering-van-toepassing', 'Uitzondering van toepassing', 'risicogroep', []);
+labelMapper.addEntry('hoog-risico-ai-systeem', 'Hoog risico AI Systeem', 'risicogroep', ['Risicogroep-hoog-risico AI']);
+labelMapper.addEntry('geen-hoog-risico-ai-systeem', 'Geen hoog-risico AI Systeem', 'risicogroep', ['Risicogroep-geen hoog-risico AI']);
+labelMapper.addEntry('verboden-ai', 'Verboden AI', 'risicogroep', ['Risicogroep-Verboden AI']);
+labelMapper.addEntry('uitzondering-van-toepassing', 'Uitzondering van toepassing', 'risicogroep', ["Risicogroep-uitzondering van toepassing"]);
 
-labelMapper.addEntry('aanbieder', 'Aanbieder', 'rol-ai-act', []);
-labelMapper.addEntry('gebruiksverantwoordelijke', 'Gebruiksverantwoordelijke', 'rol-ai-act', [])
-labelMapper.addEntry('importeur', 'Importeur', 'rol-ai-act', []);
-labelMapper.addEntry('distributeur', 'Distributeur', 'rol-ai-act', []);
+labelMapper.addEntry('aanbieder', 'Aanbieder', 'rol-ai-act', ["Rol-aanbieder"]);
+labelMapper.addEntry('gebruiksverantwoordelijke', 'Gebruiksverantwoordelijke', 'rol-ai-act', ["Rol-gebruiksverantwoordelijke"])
+labelMapper.addEntry('importeur', 'Importeur', 'rol-ai-act', ["Rol-importeur"]);
+labelMapper.addEntry('distributeur', 'Distributeur', 'rol-ai-act', ["Rol-distributeur"]);
 
-labelMapper.addEntry('ai-systeem', 'AI Systeem', 'soort-toepassing', ['AI-Systeem', 'ai-systeem']);
-labelMapper.addEntry('ai-systeem-voor-algemene-doeleinden', 'AI Systeem voor algemene doeleinden', 'soort-toepassing', ['AI-Systeem voor algemene doeleinden']);
-labelMapper.addEntry('ai-model-voor-algemene-doeleinden', 'AI model voor algemen doeleinden', 'soort-toepassing', ['AI-model voor algemene doeleinden']);
-labelMapper.addEntry('impactvol-algoritme', 'Impactvol algoritme', 'soort-toepassing', []);
-labelMapper.addEntry('niet-impactvol-algoritme', 'Niet-impactvol algoritme', 'soort-toepassing', []);
+labelMapper.addEntry('ai-systeem', 'AI Systeem', 'soort-toepassing', ['Soort toepassing-AI-Systeem']);
+labelMapper.addEntry('ai-systeem-voor-algemene-doeleinden', 'AI Systeem voor algemene doeleinden', 'soort-toepassing', ['Soort toepassing-AI-Systeem voor algemene doeleinden']);
+labelMapper.addEntry('ai-model-voor-algemene-doeleinden', 'AI model voor algemen doeleinden', 'soort-toepassing', ['Soort toepassing-AI-model voor algemene doeleinden']);
+labelMapper.addEntry('impactvol-algoritme', 'Impactvol algoritme', 'soort-toepassing', ["Soort toepassing-impactvol-algoritme"]);
+labelMapper.addEntry('niet-impactvol-algoritme', 'Niet-impactvol algoritme', 'soort-toepassing', ["Soort toepassing-niet-impactvol algoritme"]);
 
-labelMapper.addEntry('transparantieverplichting', 'Transparantieverplichting', 'transparantieverplichting', []);
-labelMapper.addEntry('geen-transparantieverplichting', 'Geen transparantieverplichting', 'transparantieverplichting', []);
+labelMapper.addEntry('transparantieverplichting', 'Transparantieverplichting', 'transparantieverplichting', ["Transparantieverplichting-transparantieverplichting"]);
+labelMapper.addEntry('geen-transparantieverplichting', 'Geen transparantieverplichting', 'transparantieverplichting', ["Transparantieverplichting-geen transparantieverplichting"]);
+labelMapper.addEntry('niet-van-toepassing', 'Niet van toepassing', 'transparantieverplichting', ["Transparantieverplichting-niet van toepassing"]);
 
-labelMapper.addEntry('systeemrisico', 'Systeemrisico', 'systeemrisico', []);
-labelMapper.addEntry('geen-systeemrisico', 'Geen systeemrisico', 'systeemrisico', []);
-labelMapper.addEntry('niet-van-toepassing', 'Niet van toepassing', 'systeemrisico', []);
+labelMapper.addEntry('systeemrisico', 'Systeemrisico', 'systeemrisico', ["Systeemrisico-systeemrisico"]);
+labelMapper.addEntry('geen-systeemrisico', 'Geen systeemrisico', 'systeemrisico', ["Systeemrisico-geen systeemrisico"]);
+labelMapper.addEntry('niet-van-toepassing', 'Niet van toepassing', 'systeemrisico', ["Systeemrisico-niet van toepassing"]);
 
-labelMapper.addEntry('open-source', 'Open source', 'open-source', []);
-labelMapper.addEntry('geen-open-source', 'Geen open source', 'open-source', []);
+labelMapper.addEntry('open-source', 'Open source', 'open-source', ["Open source-open-source"]);
+labelMapper.addEntry('geen-open-source', 'Geen open source', 'open-source', ["Open source-geen open-source"]);
+labelMapper.addEntry('niet-van-toepassing', 'Niet van toepassing', 'open-source', ["Open source-niet van toepassing"]);
 
-labelMapper.addEntry('in-gebruik', 'In gebruik', 'in-gebruik', []);
-labelMapper.addEntry('beoordeling-door-derde-partij', 'Beoordeling door derde partij', 'beoordeling-door-derde-partij', []);
+labelMapper.addEntry('in-gebruik', 'In gebruik', 'operationeel', ["Operationeel-in gebruik"]);
+labelMapper.addEntry('in-ontwikkeling', 'In ontwikkeling', 'operationeel', ["Operationeel-in ontwikkeling"]);
 
+labelMapper.addEntry('beoordeling-door-derde-partij', 'Beoordeling door derde partij', 'conformiteitsbeoordelingsinstantie', ["Conformiteitsbeoordelingsinstantie-beoordeling door derde partij"]);
+labelMapper.addEntry('niet-van-toepassing', 'Niet van toepassing', 'conformiteitsbeoordelingsinstantie', ["Conformiteitsbeoordelingsinstantie-niet van toepassing"]);
 
 window.addEventListener('message', (event) => {
   if (event.data.event === 'beslishulp-done') {
     // Handle the event
     console.log('Received beslishulp-done:', event.data.value);
-    const jsonObject = JSON.parse(sessionStorage.getItem("labels"))
-    const labels = convertLabels(Object.values(jsonObject).flatMap(v => Array.isArray(v) ? v : [v]).filter(v => v !== "")).map(obj => obj.label)
-    updateLabels(labels);
+    const jsonObject = JSON.parse(sessionStorage.getItem("labelsbysubcategory"))
+    const beslishulpLabels = Object.entries(jsonObject).flatMap(([key, values]) =>
+      values.map(value => `${key}-${value}`)
+    )
+    updateLabels(beslishulpLabels);
     filterTable();
     closeModal();
   }

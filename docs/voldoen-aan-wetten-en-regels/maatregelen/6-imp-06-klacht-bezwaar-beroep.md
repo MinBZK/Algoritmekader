@@ -1,5 +1,5 @@
 ---
-title: Richt een proces in zodat burgers of andere belanghebbenden een klacht, bezwaar of beroep kunnen indienen over het gebruik van het algoritme en monitor dit proces.
+title: Richt een proces in zodat burgers of andere belanghebbenden een klacht, bezwaar of beroep kunnen indienen over het gebruik van het algoritme en monitor dit proces
 id: urn:nl:ak:mtr:imp-07
 toelichting: Richt een proces in zodat burgers of andere belanghebbenden een klacht, bezwaar of beroep kunnen indienen over het gebruik van het algoritme. Zorg voor goede monitoring van dit proces zodat het projectteam op de hoogte is van klachten, bezwaren en beroepen over het systeem. 
 vereiste:
@@ -36,6 +36,7 @@ Richt een proces in zodat burgers of andere belanghebbenden een klacht, bezwaar 
     <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
+Een risico van het niet gebruik maken van een proces voor het indienen van klachten, bezwaren of beroepen is dat dit kan leiden tot het niet overzichtelijk hebben van eventuele problemen bij het functioneren van een algoritme, en hierdoor niet de correcte maatregelen kunnen nemen. 
 
 ## Bronnen
 - [Onderzoekskader Auditdienst Rijk, SV.17, PRI.9](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
@@ -44,7 +45,7 @@ Richt een proces in zodat burgers of andere belanghebbenden een klacht, bezwaar 
 - [Intern onderzoek controle uitwonendenbeurs, DUO](https://open.overheid.nl/documenten/dpc-486d1370ee92580b07ae27198a636c73fc28b87d/pdf)
 - [Toetsingskader risicoprofilering – Normen tegen discriminatie op grond van ras en nationaliteit, College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/4093c026-ae41-4c1d-aa78-4ce0e205b5de)
 
-## Voorbeeld
+## Voorbeelden
 !!! example "UWV: Klacht, melding en bezwaar"
     
     Het UWV heeft een losse pagina met uitleg over wanneer het beste een klacht, melding of bezwaar gemaakt kan worden. 

@@ -176,12 +176,20 @@ function filterTable() {
             var txtValue3 = lc.textContent || lc.innerText; // Levenscyclus value
             var txtValue4 = onderwerpen.textContent || onderwerpen.innerText; // Onderwerpen value
 
+            if (tr[i].getElementsByTagName("td")[2].querySelectorAll(".debug").length === 0) {
+                tr[i].getElementsByTagName("td")[2].innerHTML += "<div class='debug'></div>";
+            }
+
             // Check if all selected filters are present
             var roleMatch = selectedRoles.every(role => txtValue2.toUpperCase().indexOf(role) > -1);
             var lcMatch = selectedLevenscyclus.every(lc => txtValue3.toUpperCase().indexOf(lc) > -1);
             var onderwerpMatch = selectedOnderwerpen.every(onderwerp => txtValue4.toUpperCase().indexOf(onderwerp) > -1);
             var labelMatch = labelMatchConditions === "" || labelsToFilterOn.length === 0 || evaluateLabelExpression(labelMatchConditions, labelsToFilterOn);
             var uitzonderingMatch = anyExpressionMatches(uitzonderingMatchConditions, labelsInput);
+
+            if (uitzonderingMatch && labelMatch) {
+                labelMatch = false
+            }
 
             if (txtValue.toUpperCase().indexOf(filter) > -1 && roleMatch && lcMatch && onderwerpMatch && labelMatch) {
                 tr[i].style.display = "";

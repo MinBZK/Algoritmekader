@@ -144,4 +144,4 @@ with open("relatie-ak-tot-toetsingskaders.csv", "w") as file:
     writer.writerow(header)
 
     for name, value in matrix_dict.items():
-        writer.writerow([*name, final_dict[name], *list(value.values())])  
+        writer.writerow([*name, sorted(final_dict[name]), *list(value.values())])  

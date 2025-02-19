@@ -48,10 +48,10 @@ Het is belangrijk dat gebruikers een werkinstructie ontvangen met informatie ove
 
     - verschillende vormen van [bias](../../onderwerpen/bias-en-non-discriminatie.md), zoals automation bias, 
     - foutieve beslissingen
-    - veiligheidsrisico's
+    - veiligheidsrisico's.
 
 - Welke maatregelen zijn getroffen om deze risico's te beperken (bijv. [bias analyse](5-ver-03-biasanalyse.md), ['stopknop' ingebouwd](4-owk-02-stopzetten-gebruik.md), transparantie over de output).
-- Hoe de output van het algoritme moet worden geïnterpreteerd, en hoe het algoritme tot deze beslissing is gekomen. Zorg dat de output op een eenduidige manier kan worden geïnterpreteerd. 
+- Hoe de output van het algoritme moet worden geïnterpreteerd en hoe het algoritme tot deze beslissing is gekomen. Zorg dat de output op een eenduidige manier kan worden geïnterpreteerd. 
 - Hoe het werkproces kan worden uitgevoerd, zonder ondersteuning van het algoritme.
 - Hoe kan je weten dat het systeem niet (meer) goed werkt? 
 - Welke protocollen er zijn als incidenten zich voordoen.
@@ -59,6 +59,11 @@ Het is belangrijk dat gebruikers een werkinstructie ontvangen met informatie ove
 - Welke waarschuwingen het systeem kan en zou moeten geven op basis van [continue monitoring](7-mon-07-plan-continue-monitoring.md). Hoe er omgegaan moet worden bij deze waarschuwingen. 
 	
 Denk hierbij na over het eventueel bijscholen van medewerkers als het kennisniveau nog onvoldoende is om de werkinstructies goed te begrijpen. 
+
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+
+Het algoritme wordt onjuist gebruikt of verkeerd geïnterpreteerd door gebruikers waardoor onjuiste belissingen of besluiten worden genomen. Als gebruikers niet weten hoe ze veilig moeten werken, kunnen ze (onbewust) toegang bieden aan kwaadwillenden. 
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
@@ -75,17 +80,12 @@ Denk hierbij na over het eventueel bijscholen van medewerkers als het kennisnive
 - [Impact Assessment Mensenrechten en Algoritmes](https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes) 
 - [Toetsingskader risicoprofilering – Normen tegen discriminatie op grond van ras en nationaliteit, College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/4093c026-ae41-4c1d-aa78-4ce0e205b5de)
 
-## Risico 
-<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-
-Het algoritme wordt onjuist gebruikt of verkeerd geïnterpreteerd door gebruikers, waardoor onjuiste belissingen of besluiten worden genomen. Als gebruikers niet weten hoe ze veilig moeten werken, kunnen ze (onbewust) toegang bieden aan kwaadwillenden. 
-
-## Voorbeeld
+## Voorbeelden
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
 !!! example "Gemeente Utrecht: Handleiding Generatieve AI"
 
  
-	De gemeente Utrecht heeft in April 2024 een handleiding gepubliceerd voor Generatieve AI (GenAI), bijvoorbeeld ChatGPT. Hierin wordt uitgelegd hoe het systeem gebruikt kan worden, om zo medewerkers uit te leggen welke risico’s vastzitten aan het gebruik van GenAI. Daarnaast wordt benoemd hoe de beslissingen rondom deze handleiding tot stand zijn gekomen. 
+	De gemeente Utrecht heeft in April 2024 een handleiding gepubliceerd voor Generatieve AI (GenAI), bijvoorbeeld ChatGPT. Hierin wordt uitgelegd hoe het systeem gebruikt kan worden om zo medewerkers uit te leggen welke risico’s vastzitten aan het gebruik van GenAI. Daarnaast wordt benoemd hoe de beslissingen rondom deze handleiding tot stand zijn gekomen. 
 
 	Deze handleiding is breed opgesteld en zal dus voor een specifiek algoritme binnen een organisatie aangepast moeten worden. De opzet voor een handleiding staat al en kan ter inspiratie gebruikt worden voor andere handleidingen.
 

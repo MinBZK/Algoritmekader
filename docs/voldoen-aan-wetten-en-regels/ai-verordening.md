@@ -107,12 +107,17 @@ In de [tijdlijn AI-verordening](tijdlijn-ai-verordening.md) vind je alle vereist
 
 * Nationale toezichthouders: houden toezicht op de meeste bepalingen en kunnen straffen opleggen (nog in oprichting in Nederland)
 * [AI-bureau](https://digital-strategy.ec.europa.eu/nl/policies/ai-office): houdt toezicht op de bepalingen voor modellen voor algemene doeleinden
-* [AI-board](https://digital-strategy.ec.europa.eu/en/policies/ai-board)): Europese raad voor artificiële intelligentie
+* [AI-board](https://digital-strategy.ec.europa.eu/en/policies/ai-board): Europese raad voor artificiële intelligentie
 * Wetenschappelijk panel: advies van wetenschappers
 * Adviesforum: advies van belanghebbenden
 
-## Beslishulp AI-verordening
+## Hulp bij de AI-verordening
+
+### Beslishulp AI-verordening
 Met de [beslishulp AI-verordening](https://ai-verordening-beslishulp.apps.digilab.network/) bepaal je snel en gemakkelijk of jouw AI-product onder de AI-verordening valt. En wat je dan moet doen.
+
+### AI-Gids Rijksoverheid
+Wil je de regels uit de AI-verordening overzichtelijk bekijken? De Rijksoverheid schreef de [Gids AI-verordening](https://www.rijksoverheid.nl/documenten/brochures/2024/10/16/gids-ai-verordening). Dit document zet deze regels helder op een rij en gaat ook dieper in op de mogelijke implicaties van de wet voor het gebruik en de ontwikkeling van AI binnen jouw organisatie.
 
 ## Help ons deze pagina te verbeteren
 Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/issues/new/choose) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

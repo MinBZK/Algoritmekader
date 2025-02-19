@@ -1,15 +1,15 @@
 ---
-title: Ongewenst onderscheid bij het gebruik van algoritmes
+title: Discriminerende effecten en ander ongewenst onderscheid bij het gebruik van algoritmes
 hide: 
 - path
 ---
 
-# Ongewenst onderscheid bij het gebruik van algoritmes
+# Discriminerende effecten en ander ongewenst onderscheid bij het gebruik van algoritmes
 
 Wie algoritmes ontwikkelt of gebruikt, moet ongewenst onderscheid en eventuele discriminerende effecten hiervan voorkomen. Want met algoritmes kun je makkelijk discrimineren, ook al is dat niet de bedoeling. Let daarom steeds op ‘bias’. Dit zijn vooroordelen of fouten in je algoritme of aanpak.
 
 ## Wat is ongewenst onderscheid?
-Algoritmes kunnen leiden tot ongewenst onderscheid als je mensen of groepen ongelijk behandelt in gelijke situaties. 
+Algoritmes kunnen leiden tot ongewenst onderscheid als je mensen of (andere) groepen ongelijk behandelt in gelijke situaties. 
 
 Een camera met gezichtsherkenning herkent bijvoorbeeld geen vrouwen van kleur. Of een computerprogramma selecteert vooral mensen met een laag inkomen als risicogroep voor fraude.
 
@@ -18,10 +18,11 @@ Dit onderscheid kan op twee manieren ontstaan:
 - Direct onderscheid: Het algoritme gebruikt een [discriminatiegrond](https://www.mensenrechten.nl/mensenrechten-voor-jou/discriminatie-en-gelijke-behandeling/wat-is-discriminatie) als variabele, zoals geloof, politieke voorkeur, ras, nationaliteit, geslacht, handicap, burgerlijke staat, vermogen of leeftijd.
 - Indirect onderscheid: Het algoritme lijkt neutraal of eerlijk. Maar later blijkt dat bepaalde mensen op een andere manier worden behandeld door hun geloof, politieke of seksuele voorkeur, ras, geslacht, of burgerlijke staat. 
 
+Direct en indirect onderscheid is in veel gevallen niet toegestaan. Ongewenst onderscheid kan leiden tot discrimerende effecten van een algoritme. 
 
 !!! tip "Tip"
     
-    Heeft je algoritme een discriminerend effect, dan moet je zo snel mogelijk [stoppen met het algoritme](../levenscyclus/uitfaseren.md). Gebruik bijvoorbeeld het [discriminatieprotocol](https://minbzk.github.io/discriminatieprotocol/) van het ministerie van Binnenlandse Zaken.
+    Maakt je algoritme een ongewenst onderscheid of is er sprake van discrimerende effecten van je algoritme? Dan moet je zo snel mogelijk [stoppen met het algoritme](../levenscyclus/uitfaseren.md). Gebruik bijvoorbeeld het [discriminatieprotocol](https://minbzk.github.io/discriminatieprotocol/) van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ### Uitzondering
 Een direct of indirect onderscheid is niet altijd verboden volgens [Artikel 2 Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=1&artikel=1&z=2020-01-01&g=2020-01-01). In bepaalde situaties en onder bepaalde strenge voorwaarden mag je zo’n onderscheid wel maken. 
@@ -37,6 +38,10 @@ Het is erg moeilijk om discriminerende effecten te voorkomen. Discriminatiegrond
 
 ## Profilering
 Veel organisaties gebruiken risicoprofilering als hulpmiddel om regels te handhaven. Dit gebruik van risicoprofilering kan leiden tot discriminerende effecten. Het gebruik van risicoprofilering vraagt om een zorgvuldige aanpak om nadelige effecten te voorkomen. Om organisaties hier mee te helpen, heeft het College voor de Rechten van de Mens een gedetailleerd [toetsingskader voor risicoprofilering](https://publicaties.mensenrechten.nl/publicatie/4093c026-ae41-4c1d-aa78-4ce0e205b5de) ontwikkeld om discriminatie op grond van ras en nationaliteit te voorkomen. 
+
+!!! tip "Tip"
+
+    Meer weten over dit onderwerp? Of wil je dat collega's meer weten over dit onderwerp? Volg de [e-learning non-discriminatie in algoritmes en data](https://www.it-academieoverheid.nl/actueel/nieuws/2024/10/29/nieuwe-radio-e-learning-non-discriminatie), ontwikkeld door het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. 
 
 ## Herken bias
 Bias herkennen is een belangrijke stap in het voorkomen van discriminerende effecten van algoritmes.

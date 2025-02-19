@@ -1,6 +1,6 @@
 ---
 title: Neem technische interventies op in de gebruikersinterface om verkeerd gebruik te voorkomen
-id: urn:nl:ak:mtr:imp-10
+id: urn:nl:ak:mtr:imp-09
 toelichting: Zorg voor een gebruikersinterface die robuust gebruik stimuleert en verkeerd gebruik voorkomt. Voorkom verwarring over hoe een applicatie waarin het algoritme verwerkt zit gebruikt moet worden. 
 levenscyclus:
 - implementatie

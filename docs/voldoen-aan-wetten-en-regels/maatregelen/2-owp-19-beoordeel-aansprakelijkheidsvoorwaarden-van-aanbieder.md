@@ -1,7 +1,7 @@
 ---
 # vul hier een titel in voor deze maatregel
 title: Aansprakelijkheidsvoorwaarden van een aanbieder worden beoordeeld in de aanbesteding 
-id: urn:nl:ak:mtr:owp-20
+id: urn:nl:ak:mtr:owp-19
 # geef hier een korte toelichting van deze maatregel
 toelichting: Maak de aansprakelijkheidsvoorwaarden die een aanbieder stelt ten aanzien van auteursrechten een vast onderdeel om te beoordelen in de aanbesteding. 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel

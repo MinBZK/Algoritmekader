@@ -22,7 +22,7 @@ sources:
   ARK: 
   - 3.03
   - 3.06
-  - 3.10
+  - '3.10'
 hide:
 - navigation
 - toc

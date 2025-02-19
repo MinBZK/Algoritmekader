@@ -1,10 +1,7 @@
 ---
-# vul hier een titel in voor deze maatregel
-title: Neem het kunnen uitvoeren van een audit over de vereiste op in contractvoorwaarden en de contractovereenkomst 
-id: urn:nl:ak:mtr:owp-24
-# geef hier een korte toelichting van deze maatregel
-toelichting: Het is van belang dat opdrachtgever mogelijkheden heeft om te controleren in hoeverre door aanbieder/opdrachtnemer wordt voldaan aan naleving van de vereiste.  
-# vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
+title: Creëer ruimte om met een aanbieder samen te gaan werken om specifieke vereisten te realiseren
+id: urn:nl:ak:mtr:owp-21
+toelichting: Om op een betekenisvolle manier invulling te geven aan bepaalde vereisten, kan het noodzakelijk zijn dat de opdrachtgever en aanbieder (innovatief) moeten samenwerken om specifieke vereisten te realiseren. 
 vereiste: 
 - aia-01-ai-geletterdheid
 - aia-02-documentatie-beoordeling-niet-hoog-risico-ai
@@ -65,20 +62,17 @@ vereiste:
 - dat-01-databankenwet
 - grw-01-fundamentele-rechten
 - grw-02-non-discriminatie
-
-# vul hier de fasen van de levenscyclus in die horen bij deze maatregel
+  
 levenscyclus: 
 - ontwerp
+- ontwikkelen
 
-# vul hier de bouwblokken in die horen bij deze maatregel
 onderwerp: 
 - publieke-inkoop
 
-# vul hier de rollen in die betrokken zijn bij deze maatregel
 rollen:
 - projectleider
-- beleid-en-advies
-  
+
 hide:
 - navigation
 - toc
@@ -89,15 +83,18 @@ hide:
 
 ## Maatregel
 <!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
-Neem het kunnen uitvoeren van een audit over de vereiste op in contractvoorwaarden en de contractovereenkomst. 
+Creëer ruimte om met een aanbieder samen te gaan werken om specifieke vereisten te realiseren.
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Het is van belang dat de opdrachtgever mogelijkheden heeft om te controleren in hoeverre door de aanbieder of opdrachtnemer wordt voldaan aan naleving van de contractvoorwaarden.
+- Om op een betekenisvolle manier invulling te geven aan bepaalde vereisten, kan het noodzakelijk zijn dat opdrachtgever en aanbieder (innovatief) moeten gaan samenwerken. Op basis van nieuwe wet- en regelgeving (bv. AI-Verordening) of geharmoniseerde standaarden kunnen aanbieders mogelijk nog niet voldoen aan nieuwe vereisten. Het kan ook onduidelijk zijn hoe moet worden voldaan aan vereisten nu de technologie zich snel ontwikkelt of dat de specifieke omstandigheden van het beoogde gebruik vragen om een samenspel tussen opdrachtgever en aanbieder.
+
+- Bij een verantwoorde inzet van algoritmes kan het bij vereisten zoals [non-discriminatie](../../onderwerpen/bias-en-non-discriminatie.md), [transparantie](../../onderwerpen/transparantie.md), [menselijke controle](../../onderwerpen/menselijke-controle.md) en [grondrechten](../../onderwerpen/fundamentele-rechten.md) van belang zijn om samen te onderzoeken hoe hier invulling aan moet worden gegeven. Het is belangrijk om bij de behoeftestelling al te verkennen om welke onderwerpen dit mogelijk van toepassing is. Bij een marktverkenning of informatiesessie kan worden verkend hoe aanbieders ervoor staan. Op basis hiervan kan worden beoordeeld in hoeverre bijvoorbeeld in een aanbesteding contractuele ruimte moet worden gecreëerd voor opdrachtgever en aanbieder om hieraan te werken. 
 
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Er kunnen geen controles of inspecties worden uitgevoerd om te beoordelen of de algoritmes van een aanbieder nog voldoen aan de vereisten voor een verantwoorde inzet van algoritmes. 
+Door niet te kunnen samenwerken aan vereisten kan de situatie ontstaan dat uiteindelijk niet op een betekenisvolle manier wordt voldaan aan deze vereisten voor een verantwoorde inzet van algoritmes.
+Gebrek aan samenwerking kan leiden tot onvermogen om de benodigde vereisten voldoende in de praktijk te garanderen. Ook is het belangrijk dat de verantwoordelijke goed genoeg begrijpt hoe het algoritme werkt en welke keuzes er gemaakt zijn tijdens het ontwerp, omdat alleen dan goed beoordeeld kan worden welke vereisten zijn voldaan en welke risico’s nog niet of minder goed zijn afgedekt. 
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
@@ -109,18 +106,10 @@ Er kunnen geen controles of inspecties worden uitgevoerd om te beoordelen of de 
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
-- [Contractvoorwaarden gemeente Amsterdam](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/contractvoorwaarden-algoritmen/)
-- [Europese Inkoopvoorwaarden Hoog Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_template_High_Risk%20NL.pdf)
-- [Europese Inkoopvoorwaarden Laag Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_Template_NON_HIGH_RISK_NL.pdf)
+- [Ruimte voor Innovatie in het contract](https://www.pianoo.nl/sites/default/files/media/documents/Inspiratiebundel-Ruimte-voor-innovatie-in-het-contract-juni2020.pdf)
+- [Aanbesteding Ethische Beeldinwinning en Objectherkenning Openbare Ruimte](https://s2c.mercell.com/today/34506?type=planning)
 
-
-## Voorbeelden
-
-!!! example "Gemeente Amsterdam - Modelbepalingen"
-	Gemeente Amsterdam heeft contractvoorwaarden geformuleerd waarin verschillende aspecten van inkoop uitgelicht worden. Een onderdeel hiervan is het uitvoeren van audits of andersoortige controles. Hierin is opgenomen hoe deze uitgevoerd worden en wat de voorwaarden zijn.
-
-	Meer informatie over [generieke inkoopvoorwaarden die je kunt gebruiken](../hulpmiddelen/inkoopvoorwaarden.md).
-  
-	Bron: [Contractvoorwaarden voor algoritmen - Innovatie](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmes-ai/contractvoorwaarden-algoritmen/)
+## Voorbeeld
+<!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
 
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

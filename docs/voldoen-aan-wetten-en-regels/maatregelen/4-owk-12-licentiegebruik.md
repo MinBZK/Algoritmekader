@@ -30,32 +30,32 @@ hide:
 Gebruik bij het publiceren of gebruiken van data een passende licentie die aansluit bij het beoogde doel en de bescherming van burgers. Overweeg hierbij zorgvuldig welke voorwaarden nodig zijn, zoals bronvermelding of het delen onder gelijke voorwaarden.
 
 ## Toelichting
-Het kiezen van de juiste licentie is belangrijk bij het publiceren en gebruiken van datasets en algoritmes. Dit zorgt ook voor [betere datakwaliteit (zie o.a. R1.1 uit FAIR)](3-dat-02-fair-data.md). In de huidige digitale samenleving, met name door de opkomst van generatieve AI, is het belangrijk om de balans te vinden tussen openheid en traceerbaarheid.
+Het kiezen van de juiste licentie is belangrijk bij het publiceren en gebruiken van datasets en algoritmes. Dit zorgt voor [betere datakwaliteit (zie o.a. R1.1 uit FAIR)](3-dat-02-fair-data.md). In de huidige digitale samenleving, met name door de opkomst van generatieve AI, is het belangrijk om de balans te vinden tussen openheid en traceerbaarheid.
 Overweeg bij het kiezen van een licentie de volgende aspecten:
 
-- Bronvermelding: Wil je gebruikers van bijvoorbeeld de dataset verplichten om de oorspronkelijke bron te vermelden?
-- Share-alike: Wil je gebruikers verplichten om *afgeleide werken* van hetgeen zij gebruiken, onder dezelfde voorwaarden / licentie te delen?
-- Commercieel gebruik: Bepaal of en onder welke voorwaarden commercieel gebruik is toegestaan.
-- Herroepbaarheid: Houd rekening met toekomstige aanpassingen van de licentie.
+- Bronvermelding: wil je gebruikers van bijvoorbeeld de dataset verplichten om de oorspronkelijke bron te vermelden?
+- Share-alike: wil je gebruikers verplichten om *afgeleide werken* van hetgeen zij gebruiken, onder dezelfde voorwaarden / licentie te delen?
+- Commercieel gebruik: bepaal of en onder welke voorwaarden commercieel gebruik is toegestaan.
+- Herroepbaarheid: houd rekening met toekomstige aanpassingen van de licentie.
 
 Voorbeelden van licenties zijn:
 
-- Creative Commons BY-SA: Vereist bronvermelding en het delen onder gelijke voorwaarden
-- Creative Commons BY: Vereist alleen bronvermelding
-- Publiek Domein met bronvermeldingsplicht: Voor maximale openheid met behoud van traceerbaarheid
+- Creative Commons BY-SA: vereist bronvermelding en het delen onder gelijke voorwaarden.
+- Creative Commons BY: vereist alleen bronvermelding.
+- Publiek Domein met bronvermeldingsplicht: voor maximale openheid met behoud van traceerbaarheid.
 
 ### Licenties voor software en code
-Voor software en algoritmes zijn er specifieke licenties beschikbaar die beter aansluiten bij de publiceren van broncode. [Creative Commons (CC) raadt het gebruik van CC-licenties voor software expliciet af](https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software).
+Voor software en algoritmes zijn er specifieke licenties beschikbaar die beter aansluiten bij het publiceren van broncode. [Creative Commons (CC) raadt het gebruik van CC-licenties voor software expliciet af](https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software).
 
 Voor Nederlandse overheidssoftware wordt de European Union Public License (EUPL) als standaard aanbevolen, zoals [beschreven in de bijlage van "Overwegingen bij Open tenzij en Aanpak open source"](https://open.overheid.nl/documenten/ronl-8746885c-59bd-4b0e-a86b-c6fa85d63c9a/pdf). Voor een overzicht en vergelijking van softwarelicenties kan bovendien de website [choosealicense.com geraadpleegd](https://choosealicense.com/licenses/) worden.
 
 ## Risico
 Enkele risico's bij het niet vermelden van de passende licentie:
 
-- Onduidelijke licentievoorwaarden kunnen leiden tot onbedoeld gebruik van de dataset
-- Te restrictieve licenties kunnen hergebruik onnodig beperken
-- Te open licenties (zoals CC0) kunnen leiden tot oncontroleerbare mis- en desinformatie
-- Onherroepelijke licenties bieden geen flexibiliteit voor toekomstige aanpassingen
+- Onduidelijke licentievoorwaarden kunnen leiden tot onbedoeld gebruik van de dataset.
+- Te restrictieve licenties kunnen hergebruik onnodig beperken.
+- Te open licenties (zoals CC0) kunnen leiden tot oncontroleerbare mis- en desinformatie.
+- Onherroepelijke licenties bieden geen flexibiliteit voor toekomstige aanpassingen.
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"

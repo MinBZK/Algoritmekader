@@ -29,17 +29,18 @@ Het trainen van AI, vooral generatieve AI-modellen, vergt aanzienlijke energie e
 ### Slimme data- en trainingsoptimalisatie
 Niet alle beschikbare data dragen bij aan de modelprestaties. Door een dataselectiestrategie toe te passen, [gebruik je enkel relevante datasets (dataminimalisatie)](3-dat-09-dataminimalisatie.md), wat zorgt voor minder intensieve rekenbelasting tijdens het trainingsproces. Daarnaast kan slimme caching helpen om repetitieve data-opvragingen te beperken, wat bijdraagt aan een lagere energievraag. Bovendien kun je hertrainingscycli van AI beperken door enkel updates te doen wanneer nieuwe data dit echt vereist. Dit voorkomt overbodige trainingscycli en bespaart energie.
 
+## Risico
+Zonder energie-efficiënte methoden kan AI-training leiden tot hoge operationele kosten en een aanzienlijke ecologische impact, met name door overmatig gebruik van rekenkracht en energie-intensieve hardware.
+
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
-
-## Risico
-Zonder energie-efficiënte methoden kan AI-training leiden tot hoge operationele kosten en een aanzienlijke ecologische impact, met name door overmatig gebruik van rekenkracht en energie-intensieve hardware.
 
 ## Bronnen
 - [How to Make Generative AI Greener - Harvard Business Review](https://hbr.org/2023/07/how-to-make-generative-ai-greener)
 - [GreenOps: 4 Tips om AI-training duurzamer te maken - AG Connect](https://www.agconnect.nl/partner/leafcloud/greenops-4-tips-om-ai-training-duurzamer-te-maken)
 - [Duurzame kunstmatige intelligentie - TU Delft](https://www.tudelft.nl/en/stories/articles/sustainable-artificial-intelligence-from-chatgpt-to-green-ai)
 
-## Voorbeeld
+## Voorbeelden
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
+Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

@@ -33,8 +33,8 @@ Uitvoeren van aselecte steekproeven als aanvulling wanneer gebruik gemaakt wordt
 Aselecte steekproeven kunnen een waardevolle toevoeging zijn bij risicogestuurde selectie.
 
 Het toevoegen van aselecte steekproeven maakt het mogelijk om over tijd te beoordelen of het algoritme nog voldoende effectief is.
-Populaties veranderen immers over tijd. Een selectie die het meest effectief was bij ingebruikname, kan over tijd dat niet meer zijn.
-Door alleen risicogestuurd te selecteren, wordt dit niet inzichtelijk, omdat bepaalde groepen zelden tot nooit gecontroleerd worden.
+Populaties veranderen immers over tijd. Een selectie die het meest effectief was bij ingebruikname kan over tijd dat niet meer zijn.
+Door alleen risicogestuurd te selecteren wordt dit niet inzichtelijk, omdat bepaalde groepen zelden tot nooit gecontroleerd worden.
 Door de aanvullende mogelijkheid van monitoring, kan over tijd beoordeeld worden of er nog steeds sprake is van de meest proportionele vorm.
 Als dat niet zo is, kan bijvoorbeeld gekozen worden voor aanpassing van de risicogestuurde selectie of overgaan op volledig aselect.
 
@@ -42,7 +42,7 @@ De maatregel gaat daarmee niet direct discriminatie tegen, omdat er sprake kan z
 Een lagere effectiviteit maakt het echter lastiger het gemaakte onderscheid te rechtvaardigen.
 
 Het gebruik van een aselecte steekproef is in veel gevallen essentieel om het systeem te kunnen toetsen op vooringenomenheid. 
-Een aselecte steekproef geeft ook inzicht in heel deel van de populatie dat doorgaans niet geselecteerd en behandeld wordt door het betreffende risicogestuurde algoritme. 
+Een aselecte steekproef geeft ook inzicht in een deel van de populatie dat doorgaans niet geselecteerd en behandeld wordt door het betreffende risicogestuurde algoritme. 
 Dit maakt het mogelijk om te toetsen of er sprake is van een over- of ondervertegenwoordiging van bepaalde groepen, of om te bepalen of bepaalde typen fouten vaker gemaakt worden in bepaalde groepen.
 
 Bij AI-systemen die verder leren op basis van verkregen data kan daarnaast sprake zijn van een reinforcing feedbackloop, omdat zij geen representatieve data krijgen.
@@ -53,15 +53,21 @@ Daardoor wordt beperkt dat een behandelaar met tunnelvisie een zaak bekijkt.
 De behandelaar weet immers dat er tussen de selecties zaken zitten waar niet sprake is van verhoogd risico.
 Op die manier kan automation bias beperkt te worden.
 Niet in alle gevallen zal dit mogelijk zijn, omdat de behandelaar ook uit andere aangeleverde gegevens kan halen op basis waarvan een casus geselecteerd is.
-Het is dan belang om op andere wijze de tunnelvisie tegen te gaan.
+Het is dan van belang om op andere wijze de tunnelvisie tegen te gaan.
 
 De precieze inzet van aselecte steekproeven zal afhangen van de context.
 Zo verschilt het per context hoeveel zaken aselect geselecteerd moeten worden.
 Bepaal welke groepen er precies vergeleken dienen te worden en bepaal aan de hand daarvan een passende steekproefgrootte zodanig dat er gesproken kan worden over statistische significantie. 
 
-In sommige gevallen zal de impact van een selectie ook dusdanig zijn, dat het zich niet leent voor aselecte steekproef.
+In sommige gevallen zal de impact van een selectie ook dusdanig zijn dat het zich niet leent voor aselecte steekproef.
 Zo kan een aselecte steekproef wel de basis zijn voor bureauonderzoek, maar mogelijk niet als enige basis voor een huisbezoek.
 Deze belangenenafweging moet per context gemaakt worden.
+
+## Risico 
+<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
+* Historical bias
+* Representation bias
+* Automation bias en Reinforcing Feedback Loop
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
@@ -70,18 +76,17 @@ Deze belangenenafweging moet per context gemaakt worden.
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
+## Bronnen 
+<!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
-## Risico 
-<!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-* Historical bias
-* Representation bias
-* Automation bias en Reinforcing Feedback Loop
+[Rapportage Algoritmerisico's Nederland voorjaar 2024 (pp. 36-41)](https://www.autoriteitpersoonsgegevens.nl/documenten/rapportage-ai-algoritmerisicos-nederland-ran-voorjaar-2024)
 
-## Voorbeeld
+
+## Voorbeelden
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
 !!! example "Algorithm Audit: analyse Controle Uitwonendenbeurs"
  
-	Algorithm Audit heeft de risicoprofilering in het Controle Uitwonendenbeurs-proces (CUB-proces) onderzocht op verzoek van Dienst Uitvoering Onderwijs (DUO). DUO heeft tussen 2010 en 2023 gebruik gemaakt van een risicoprofiel voor het tegengaan van onrechtmatig gebruik van de uitwonendenbeurs. Dit is in 2023 in opspraak geraakt en DUO heeft Algorithm Audit verzocht hier verder onderzoek naar te doen. 
+	Stichting Algorithm Audit heeft de risicoprofilering in het Controle Uitwonendenbeurs-proces (CUB-proces) onderzocht op verzoek van Dienst Uitvoering Onderwijs (DUO). DUO heeft tussen 2010 en 2023 gebruik gemaakt van een risicoprofiel voor het tegengaan van onrechtmatig gebruik van de uitwonendenbeurs. Dit is in 2023 in opspraak geraakt en DUO heeft Algorithm Audit verzocht hier verder onderzoek naar te doen. 
     Tijdens de kwantitatieve analyse heeft Algorithm Audit gewerkt aan de hand van aselecte steekproeven. Aan de hand van deze data hebben ze verschillende deelvragen beantwoord en blijkt dat tussen een aantal selectiecriteria onvoldoende statistisch verband gebleken is. Door middel van de aselecte steekproef blijkt hierdoor dat de selectie(criteria) aangepast moet(en) worden.
 
 
@@ -101,7 +106,3 @@ Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@
 
 
 
-## Bronnen 
-<!-- Vul hier de relevante bronnen in voor deze maatregel -->
-
-[Rapportage Algoritmerisico's Nederland voorjaar 2024 (pp. 36-41)](https://www.autoriteitpersoonsgegevens.nl/documenten/rapportage-ai-algoritmerisicos-nederland-ran-voorjaar-2024)

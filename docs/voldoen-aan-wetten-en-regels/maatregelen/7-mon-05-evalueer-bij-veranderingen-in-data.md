@@ -38,20 +38,25 @@ Dat kan komen doordat de context waarin het algoritme wordt gebruikt verandert, 
 Het te laat opmerken van zo'n verandering kan grote gevolgen hebben. 
 Daarom is het belangrijk om regelmatig te controleren en evalueren of:
 
-- de data van [voldoende kwaliteit is voor de beoogde toepassing](3-dat-01-datakwaliteit.md)
-- of het algoritme nog [presteert in lijn met de vastgestelde doelen](5-ver-01-functioneren-in-lijn-met-doeleinden.md)
-- de gegevens op de juiste en volledige manier worden verwerkt. 
+- De data van [voldoende kwaliteit is voor de beoogde toepassing](3-dat-01-datakwaliteit.md).
+- Het algoritme nog [presteert in lijn met de vastgestelde doelen](5-ver-01-functioneren-in-lijn-met-doeleinden.md).
+- De gegevens op de juiste en volledige manier worden verwerkt. 
 
-Zeker wanneer er gebruikt wordt gemaakt van informatie van derden, is het belangrijk om regelmatig te controleren of er veranderingen in de data zijn. Goede monitoring op datakwaliteit zorgt ervoor dat je voldoende controle hebt over de kwaliteit van de data, zelfs als je hiervoor afhankelijk bent van andere partijen. 
+Zeker wanneer er gebruikt wordt gemaakt van informatie van derden is het belangrijk om regelmatig te controleren of er veranderingen in de data zijn. Goede monitoring op datakwaliteit zorgt ervoor dat je voldoende controle hebt over de kwaliteit van de data, zelfs als je hiervoor afhankelijk bent van andere partijen. 
+
+## Risico
+Door veranderingen in de data presteert het model niet meer zoals verwacht.
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
-## Risico
-Door veranderingen in de data presteert het model niet meer zoals verwacht.
+## Bronnen
+- [Onderzoekskader Auditdienst Rijk, DM.8](https://open.overheid.nl/documenten/61b54381-d331-40ed-8fce-b2883b195f25/file)
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 1.02, 1.08, 2.06, 2.08, 2.13](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
+- Norm: ["Information technology - Artificial intelligence - Data life cycle framework"](https://www.nen.nl/nen-en-iso-iec-8183-2024-en-325716)
 
-## Voorbeeld
+## Voorbeelden
 
 !!! example "Gemeente Den Haag: Quality-Bot"
 	De gemeente Den Haag maakt gebruik van een datakwaliteit algoritme: Quality-Bot (Q-Bot). Dit algoritme controleert bestaande en nieuwe patronen in de data om zo de bronhouder nieuwe inzichten te kunnen geven in de data. Op deze manier kan datakwaliteit ingeschat worden en kunnen fouten worden ontdekt. 
@@ -61,7 +66,3 @@ Door veranderingen in de data presteert het model niet meer zoals verwacht.
 
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)  
 
-## Bronnen
-- [Onderzoekskader Auditdienst Rijk, DM.8](https://open.overheid.nl/documenten/61b54381-d331-40ed-8fce-b2883b195f25/file)
-- [Toetsingskader Algoritmes Algemene Rekenkamer, 1.02, 1.08, 2.06, 2.08, 2.13](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
-- Norm: ["Information technology - Artificial intelligence - Data life cycle framework"](https://www.nen.nl/nen-en-iso-iec-8183-2024-en-325716)

@@ -27,7 +27,7 @@
     
     
       
-        <title>Doe aselecte steekproeven om algoritmes met 'risicogestuurde selectie’ te controleren - Algoritmekader 2.0</title>
+        <title>Doe aselecte steekproeven om algoritmes met 'risicogestuurde selectie’ te controleren - Algoritmekader 2.1</title>
       
     
     
@@ -113,7 +113,7 @@
 
 <header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
-    <a href="../../.." title="Algoritmekader 2.0" class="md-header__button md-logo" aria-label="Algoritmekader 2.0" data-md-component="logo">
+    <a href="../../.." title="Algoritmekader 2.1" class="md-header__button md-logo" aria-label="Algoritmekader 2.1" data-md-component="logo">
       
   <img src="../../../assets/logo.svg" alt="logo">
 
@@ -126,7 +126,7 @@
       <div class="md-header__ellipsis">
         <div class="md-header__topic">
           <span class="md-ellipsis">
-            Algoritmekader 2.0
+            Algoritmekader 2.1
           </span>
         </div>
         <div class="md-header__topic" data-md-component="header-topic">
@@ -352,12 +352,12 @@
 
 <nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigatie" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="../../.." title="Algoritmekader 2.0" class="md-nav__button md-logo" aria-label="Algoritmekader 2.0" data-md-component="logo">
+    <a href="../../.." title="Algoritmekader 2.1" class="md-nav__button md-logo" aria-label="Algoritmekader 2.1" data-md-component="logo">
       
   <img src="../../../assets/logo.svg" alt="logo">
 
     </a>
-    Algoritmekader 2.0
+    Algoritmekader 2.1
   </label>
   
     <div class="md-nav__source">
@@ -743,17 +743,6 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#bijbehorende-vereisten" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Bijbehorende vereiste(n)
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#risico" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -765,10 +754,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#voorbeeld" class="md-nav__link">
+  <a href="#bijbehorende-vereisten" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Voorbeeld
+        Bijbehorende vereiste(n)
       
     </span>
   </a>
@@ -780,6 +769,17 @@
     <span class="md-ellipsis">
       
         Bronnen
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#voorbeelden" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Voorbeelden
       
     </span>
   </a>
@@ -867,14 +867,14 @@
 <!-- Geef hier een toelichting van deze maatregel -->
 <p>Aselecte steekproeven kunnen een waardevolle toevoeging zijn bij risicogestuurde selectie.</p>
 <p>Het toevoegen van aselecte steekproeven maakt het mogelijk om over tijd te beoordelen of het algoritme nog voldoende effectief is.
-Populaties veranderen immers over tijd. Een selectie die het meest effectief was bij ingebruikname, kan over tijd dat niet meer zijn.
-Door alleen risicogestuurd te selecteren, wordt dit niet inzichtelijk, omdat bepaalde groepen zelden tot nooit gecontroleerd worden.
+Populaties veranderen immers over tijd. Een selectie die het meest effectief was bij ingebruikname kan over tijd dat niet meer zijn.
+Door alleen risicogestuurd te selecteren wordt dit niet inzichtelijk, omdat bepaalde groepen zelden tot nooit gecontroleerd worden.
 Door de aanvullende mogelijkheid van monitoring, kan over tijd beoordeeld worden of er nog steeds sprake is van de meest proportionele vorm.
 Als dat niet zo is, kan bijvoorbeeld gekozen worden voor aanpassing van de risicogestuurde selectie of overgaan op volledig aselect.</p>
 <p>De maatregel gaat daarmee niet direct discriminatie tegen, omdat er sprake kan zijn van discriminatie ongeacht de effectiviteit van de risicogestuurde selectie.
 Een lagere effectiviteit maakt het echter lastiger het gemaakte onderscheid te rechtvaardigen.</p>
 <p>Het gebruik van een aselecte steekproef is in veel gevallen essentieel om het systeem te kunnen toetsen op vooringenomenheid. 
-Een aselecte steekproef geeft ook inzicht in heel deel van de populatie dat doorgaans niet geselecteerd en behandeld wordt door het betreffende risicogestuurde algoritme. 
+Een aselecte steekproef geeft ook inzicht in een deel van de populatie dat doorgaans niet geselecteerd en behandeld wordt door het betreffende risicogestuurde algoritme. 
 Dit maakt het mogelijk om te toetsen of er sprake is van een over- of ondervertegenwoordiging van bepaalde groepen, of om te bepalen of bepaalde typen fouten vaker gemaakt worden in bepaalde groepen.</p>
 <p>Bij AI-systemen die verder leren op basis van verkregen data kan daarnaast sprake zijn van een reinforcing feedbackloop, omdat zij geen representatieve data krijgen.
 Het toevoegen van aselecte steekproeven kan deze feedbackloop doorbreken.</p>
@@ -883,21 +883,13 @@ Daardoor wordt beperkt dat een behandelaar met tunnelvisie een zaak bekijkt.
 De behandelaar weet immers dat er tussen de selecties zaken zitten waar niet sprake is van verhoogd risico.
 Op die manier kan automation bias beperkt te worden.
 Niet in alle gevallen zal dit mogelijk zijn, omdat de behandelaar ook uit andere aangeleverde gegevens kan halen op basis waarvan een casus geselecteerd is.
-Het is dan belang om op andere wijze de tunnelvisie tegen te gaan.</p>
+Het is dan van belang om op andere wijze de tunnelvisie tegen te gaan.</p>
 <p>De precieze inzet van aselecte steekproeven zal afhangen van de context.
 Zo verschilt het per context hoeveel zaken aselect geselecteerd moeten worden.
 Bepaal welke groepen er precies vergeleken dienen te worden en bepaal aan de hand daarvan een passende steekproefgrootte zodanig dat er gesproken kan worden over statistische significantie. </p>
-<p>In sommige gevallen zal de impact van een selectie ook dusdanig zijn, dat het zich niet leent voor aselecte steekproef.
+<p>In sommige gevallen zal de impact van een selectie ook dusdanig zijn dat het zich niet leent voor aselecte steekproef.
 Zo kan een aselecte steekproef wel de basis zijn voor bureauonderzoek, maar mogelijk niet als enige basis voor een huisbezoek.
 Deze belangenenafweging moet per context gemaakt worden.</p>
-<h2 id="bijbehorende-vereisten">Bijbehorende vereiste(n)</h2>
-<!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
-
-<!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
-<details class="expander">
-<summary>Bekijk alle vereisten</summary>
-<table><thead><tr><th>Vereiste</th></tr></thead><tbody><tr><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-589/voldoen-aan-wetten-en-regels/vereisten/aia-27-beoordelen-gevolgen-grondrechten/">aia-27 - Hoog-risico-AI-systemen voor publieke taken worden beoordeeld op gevolgen voor grondrechten</a></td></tr><tr><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-589/voldoen-aan-wetten-en-regels/vereisten/grw-02-non-discriminatie/">grw-02 - Algoritmes discrimineren niet.</a></td></tr><tr><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-589/voldoen-aan-wetten-en-regels/vereisten/aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging/">aia-10 - Hoog-risico-AI-systemen zijn voldoende nauwkeurig, robuust en cyberveilig.</a></td></tr></tbody></table>
-</details>
 <h2 id="risico">Risico</h2>
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
 <ul>
@@ -905,11 +897,23 @@ Deze belangenenafweging moet per context gemaakt worden.</p>
 <li>Representation bias</li>
 <li>Automation bias en Reinforcing Feedback Loop</li>
 </ul>
-<h2 id="voorbeeld">Voorbeeld</h2>
+<h2 id="bijbehorende-vereisten">Bijbehorende vereiste(n)</h2>
+<!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
+
+<!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
+<details class="expander">
+<summary>Bekijk alle vereisten</summary>
+<table><thead><tr><th>Vereiste</th></tr></thead><tbody><tr><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-589/voldoen-aan-wetten-en-regels/vereisten/aia-27-beoordelen-gevolgen-grondrechten/">aia-27 - Hoog-risico-AI-systemen voor publieke taken worden beoordeeld op gevolgen voor grondrechten</a></td></tr><tr><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-589/voldoen-aan-wetten-en-regels/vereisten/grw-02-non-discriminatie/">grw-02 - Algoritmes discrimineren niet</a></td></tr><tr><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-589/voldoen-aan-wetten-en-regels/vereisten/aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging/">aia-10 - Hoog-risico-AI-systemen zijn voldoende nauwkeurig, robuust en cyberveilig</a></td></tr></tbody></table>
+</details>
+<h2 id="bronnen">Bronnen</h2>
+<!-- Vul hier de relevante bronnen in voor deze maatregel -->
+
+<p><a href="https://www.autoriteitpersoonsgegevens.nl/documenten/rapportage-ai-algoritmerisicos-nederland-ran-voorjaar-2024">Rapportage Algoritmerisico's Nederland voorjaar 2024 (pp. 36-41)</a></p>
+<h2 id="voorbeelden">Voorbeelden</h2>
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
 <div class="admonition example">
 <p class="admonition-title">Algorithm Audit: analyse Controle Uitwonendenbeurs</p>
-<p>Algorithm Audit heeft de risicoprofilering in het Controle Uitwonendenbeurs-proces (CUB-proces) onderzocht op verzoek van Dienst Uitvoering Onderwijs (DUO). DUO heeft tussen 2010 en 2023 gebruik gemaakt van een risicoprofiel voor het tegengaan van onrechtmatig gebruik van de uitwonendenbeurs. Dit is in 2023 in opspraak geraakt en DUO heeft Algorithm Audit verzocht hier verder onderzoek naar te doen. 
+<p>Stichting Algorithm Audit heeft de risicoprofilering in het Controle Uitwonendenbeurs-proces (CUB-proces) onderzocht op verzoek van Dienst Uitvoering Onderwijs (DUO). DUO heeft tussen 2010 en 2023 gebruik gemaakt van een risicoprofiel voor het tegengaan van onrechtmatig gebruik van de uitwonendenbeurs. Dit is in 2023 in opspraak geraakt en DUO heeft Algorithm Audit verzocht hier verder onderzoek naar te doen. 
 Tijdens de kwantitatieve analyse heeft Algorithm Audit gewerkt aan de hand van aselecte steekproeven. Aan de hand van deze data hebben ze verschillende deelvragen beantwoord en blijkt dat tussen een aantal selectiecriteria onvoldoende statistisch verband gebleken is. Door middel van de aselecte steekproef blijkt hierdoor dat de selectie(criteria) aangepast moet(en) worden.</p>
 <p>Bron: <a href="https://algorithmaudit.eu/nl/algoprudence/cases/aa202401_preventing-prejudice/">Algorithm Audit: analyse Controle Uitwonendenbeurs</a></p>
 </div>
@@ -921,10 +925,6 @@ Daarnaast wordt het algoritme gecontroleerd aan de hand van een steekproef. Op d
 Bron: [Rijksdienst voor Ondernemend Nederland: Risicocontrole Subsidieaanvragen](https://algoritmes.overheid.nl/nl/algoritme/risicocontrole-sde-subsidieaanvragen-rijksdienst-voor-ondernemend-nederland/51892728#verantwoordGebruik)
 </code></pre>
 <p>Heb je een ander voorbeeld of best practice, laat het ons weten via <a href="mailto:algoritmes@minbzk.nl">algoritmes@minbzk.nl</a></p>
-<h2 id="bronnen">Bronnen</h2>
-<!-- Vul hier de relevante bronnen in voor deze maatregel -->
-
-<p><a href="https://www.autoriteitpersoonsgegevens.nl/documenten/rapportage-ai-algoritmerisicos-nederland-ran-voorjaar-2024">Rapportage Algoritmerisico's Nederland voorjaar 2024 (pp. 36-41)</a></p>
 
 
 
@@ -947,7 +947,7 @@ Bron: [Rijksdienst voor Ondernemend Nederland: Risicocontrole Subsidieaanvragen]
     <span class="md-icon" title="Laatst geüpdatet">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">22 januari 2025</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">19 februari 2025</span>
   </span>
 
     

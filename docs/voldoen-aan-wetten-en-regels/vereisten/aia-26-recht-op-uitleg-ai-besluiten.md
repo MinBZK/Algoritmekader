@@ -29,7 +29,7 @@ open-source:
 - geen-open-source
 - niet-van-toepassing
 uitzondering: 
-- uitzondering-van-toepassing
+- risicogroep-uitzondering-van-toepassing
 hide:
 - navigation
 ---

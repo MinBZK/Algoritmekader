@@ -41,7 +41,7 @@ hide:
 
     Belangrijkste deadlines uit de AI-verordening met de vereisten waaraan je moet voldoen.    
 
--   [__<a href='#' onclick="showModal(event, 'beslishulp');">Beslishulp AI-verordening</a>__](vereisten/index.md)
+-   [__Beslishulp AI-verordening__](https://ai-act-decisiontree.apps.digilab.network)
 
     ---
 

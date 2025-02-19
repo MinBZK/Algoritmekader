@@ -45,9 +45,9 @@ Doorloop voor iedere potentiële indicator de volgende stappen:
 
 3. Bepaal of de [datakwaliteit](3-dat-01-datakwaliteit.md) van de variabele of indicator voldoende is. Bepaal of de beschikbare data voldoende representatief is voor het fenomeen dat bedoeld wordt.   
 
-4. Ga na of de variabele of indicator een *inhoudelijk* verband heeft met het [beoogde doel](1-pba-02-formuleren-doelstelling.md). Naast een statistisch verband kan ook een inhoudelijk verband bijdragen om het gebruik van de indicator te rechtvaardigen. 
+4. Ga na of de variabele of indicator een *statistisch* verband heeft met het [beoogde doel](1-pba-02-formuleren-doelstelling.md). Maak hiervoor gebruik van een [aselecte steekproef](6-imp-02-aselecte-steekproeven.md) uit de relevante populatie om de hypothese dat de variabele verband heeft met het beoogde doel statistisch te toetsen. Toets of dit verband significant is.
 
-5. Ga na of de variabele of indicator een *statistisch* verband heeft met het [beoogde doel](1-pba-02-formuleren-doelstelling.md). Maak hiervoor gebruik van een [aselecte steekproef](6-imp-02-aselecte-steekproeven.md) uit de relevante populatie om de hypothese dat de variabele verband heeft met het beoogde doel statistisch te toetsen. Toets of dit verband significant is. 
+5. Ga na of de variabele of indicator een *inhoudelijk* verband heeft met het [beoogde doel](1-pba-02-formuleren-doelstelling.md). Naast een statistisch verband kan ook een inhoudelijk verband bijdragen om het gebruik van de indicator te rechtvaardigen. 
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"

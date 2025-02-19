@@ -55,7 +55,7 @@ Symbolische AI is meestal ook een AI-systeem. Symbolische AI leert op basis van 
 
 !!! tip "Tip"
 
-    De Europese Commissie publiceerde in februari 2025 [extra guidance over de definitie van een AI-systeem](https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-ai-system-definition-facilitate-first-ai-acts-rules-application). De richtlijnen over de definitie van het AI-systeem geven uitleg over de praktische toepassing van het wettelijke concept, zoals verankerd in de AI-verordening. 
+    De Europese Commissie publiceerde in februari 2025 [extra guidance over de definitie van een AI-systeem](https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-ai-system-definition-facilitate-first-ai-acts-rules-application). De richtlijnen over de definitie van een AI-systeem geven uitleg over de praktische toepassing van het wettelijke concept, zoals verankerd in de AI-verordening. 
 
 ### AI-model voor algemene doeleinden
 Een AI-model voor algemene doeleinden (GPAI):

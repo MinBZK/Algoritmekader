@@ -61,10 +61,10 @@ Er zijn verschillende manieren om menselijke tussenkomst in te richten, afhankel
 
 #### 1. Human in the loop
 Bij dit model speelt de mens een actieve rol in elke fase van het algoritme. Deze variant geeft de meeste controle en invloed, maar kan leiden tot vertraagde of minder efficiënte besluitvorming, vooral bij real-time of zeer complexe taken waarbij snelheid cruciaal is.
-Een voorbeeld van toepassen van Human-in-the-loop is het nakijken en beoordelen van de output van een algoritme door een mens, telkens voordat een beslissing wordt genomen. Het verwerken van data gebeurt alleen in opdracht van de mens en verder neemt het algoritme of AI model geen autonome beslissingen. 
+Een voorbeeld van toepassen van human-in-the-loop is het nakijken en beoordelen van de output van een algoritme door een mens, telkens voordat een beslissing wordt genomen. Het verwerken van data gebeurt alleen in opdracht van de mens en verder neemt het algoritme of AI model geen autonome beslissingen. 
 
 #### 2. Human on the loop
-Hier behoudt de mens toezicht en kan ingrijpen wanneer dat nodig is, om te garanderen dat een model veilig en ethisch opereert. Dit model biedt daardoor een balans tussen autonome besluitvorming en menselijke controle. Het is vooral nuttig in situaties waarin afwijkende keuzes of acties van het algoritme grote gevolgen kunnen hebben. De menselijke operator houdt de werking van het algoritme in de gaten en staat klaar om in te grijpen of beslissingen terug te draaien wanneer nodig.
+Hier behoudt de mens toezicht en kan ingrijpen wanneer dat nodig is om te garanderen dat een model veilig en ethisch opereert. Dit model biedt daardoor een balans tussen autonome besluitvorming en menselijke controle. Het is vooral nuttig in situaties waarin afwijkende keuzes of acties van het algoritme grote gevolgen kunnen hebben. De menselijke operator houdt de werking van het algoritme in de gaten en staat klaar om in te grijpen of beslissingen terug te draaien wanneer nodig.
 
 #### 3. Human above the loop
 In dit model houdt de mens toezicht op een hoger niveau, met een focus op strategische en ethische keuzes, in plaats van dat de menselijke operator zich bezighoudt met directe operationele beslissingen. Dit stelt de mens in staat in te grijpen wanneer kritieke morele, juridische of sociale zorgen ontstaan om het model op de langere termijn bij te sturen.  De menselijke tussenkomst is gericht op het bepalen van beleid en de richtlijnen voor algoritmes. Het gaat daarbij niet alleen over het definiëren van operationele procedures maar ook het maken van bepaalde ethische overwegingen, het zorgen voor naleving van regelgeving en het overwegen van de implicaties van de inzet van algoritmes op de lange termijn. 
@@ -81,8 +81,22 @@ Het niet inrichten van passende menselijke controle leidt tot onverantwoorde inz
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
+## Bronnen
 
-## Voorbeeld
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 3.11](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
+- [Menselijke tussenkomst | Algoritmes | Algemene Rekenkamer](https://www.rekenkamer.nl/onderwerpen/algoritmes/toetsingskader/ethiek/menselijke-tussenkomst)
+- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.5, SV.6](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) 
+- [Advies over geautomatiseerde selectietechniek Pels Rijcken, p.9](https://open.overheid.nl/documenten/6b5b5d5b-fdc1-4333-a11e-f89d3627a0f5/file)
+- [Recht op een menselijke blik bij besluiten | Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/privacyrechten-avg/recht-op-een-menselijke-blik-bij-besluiten#:~:text=Reactie%20op%20verzoek-,Geautomatiseerd%20besluit,noemen%20dit%20een%20geautomatiseerd%20besluit.)
+- Kamerstukken IT 2017-2018, 34 851, nr. (MvT UAVG), p. 120-121
+- [Ethics guidelines for trustworthy AI | Shaping Europe’s digital future](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai), deel (64)
+- ["Towards Digital Life: Een toekomstvisie op AI anno 2032" - TNO, 2022](https://publications.tno.nl/publication/34640024/a05DMs/TNO-2022-visiestuk.pdf)
+- [Algoritmes afwegen | Rathenau Instituut](https://www.rathenau.nl/nl/digitalisering/algoritmes-afwegen)
+-	[Managing supplier delivery reliability risk under limited information: Foundations for a human-in-the-loop DSS - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0167923612002886)
+-	[Human control of AI systems: from supervision to teaming | AI and Ethics (springer.com)](https://link.springer.com/article/10.1007/s43681-024-00489-4)
+-	[Zijn er beperkingen op het gebruik van geautomatiseerde besluitvorming? - Europese Commissie](https://commission.europa.eu/law/law-topic/data-protection/rules-business-and-organisations/dealing-citizens/are-there-restrictions-use-automated-decision-making_nl#:~:text=Example-,Antwoord,is%20of%20hen%20aanzienlijk%20be%C3%AFnvloedt.)
+
+## Voorbeelden
 
 !!! example "Hof van Justitie van de Europese Unie: Prejudiciële verwijzing"
  
@@ -101,20 +115,7 @@ Het niet inrichten van passende menselijke controle leidt tot onverantwoorde inz
 
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)  
 
-## Bronnen
 
-- [Toetsingskader Algoritmes Algemene Rekenkamer, 3.11](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
-- [Menselijke tussenkomst | Algoritmes | Algemene Rekenkamer](https://www.rekenkamer.nl/onderwerpen/algoritmes/toetsingskader/ethiek/menselijke-tussenkomst)
-- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.5, SV.6](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) 
-- [Advies over geautomatiseerde selectietechniek Pels Rijcken, p.9](https://open.overheid.nl/documenten/6b5b5d5b-fdc1-4333-a11e-f89d3627a0f5/file)
-- [Recht op een menselijke blik bij besluiten | Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/privacyrechten-avg/recht-op-een-menselijke-blik-bij-besluiten#:~:text=Reactie%20op%20verzoek-,Geautomatiseerd%20besluit,noemen%20dit%20een%20geautomatiseerd%20besluit.)
-- Kamerstukken IT 2017-2018, 34 851, nr. (MvT UAVG), p. 120-121
-- [Ethics guidelines for trustworthy AI | Shaping Europe’s digital future](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai), deel (64)
-- ["Towards Digital Life: Een toekomstvisie op AI anno 2032" - TNO, 2022](https://publications.tno.nl/publication/34640024/a05DMs/TNO-2022-visiestuk.pdf)
-- [Algoritmes afwegen | Rathenau Instituut](https://www.rathenau.nl/nl/digitalisering/algoritmes-afwegen)
--	[Managing supplier delivery reliability risk under limited information: Foundations for a human-in-the-loop DSS - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0167923612002886)
--	[Human control of AI systems: from supervision to teaming | AI and Ethics (springer.com)](https://link.springer.com/article/10.1007/s43681-024-00489-4)
--	[Zijn er beperkingen op het gebruik van geautomatiseerde besluitvorming? - Europese Commissie](https://commission.europa.eu/law/law-topic/data-protection/rules-business-and-organisations/dealing-citizens/are-there-restrictions-use-automated-decision-making_nl#:~:text=Example-,Antwoord,is%20of%20hen%20aanzienlijk%20be%C3%AFnvloedt.)
 
 
 

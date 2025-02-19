@@ -27,11 +27,11 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-Richt een proces in waarmee beveiligingsincidenten m.b.t. algoritmes en data zo spoedig mogelijk worden opgelost.
+Richt een proces in waarmee beveiligingsincidenten met betrekking tot algoritmes en data zo spoedig mogelijk worden opgelost.
 
 
 ## Toelichting
-Er zijn procedures aanwezig die borgen dat beveiligingsincidenten m.b.t. algoritmes en data zo spoedig mogelijk, afhankelijk van de kwalificatie van het incident, worden opgepakt.
+Er zijn procedures aanwezig die borgen dat beveiligingsincidenten met betrekking tot algoritmes en data zo spoedig mogelijk, afhankelijk van de kwalificatie van het incident, worden opgepakt.
 
 
 ## Risico
@@ -41,9 +41,14 @@ Te late reactie op incidenten kan ervoor zorgen dat de BIV (beschikbaarheid, int
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
+## Bronnen
+
+- [Baseline Informatiebeveiliging Overheid, BIO 12.3.1.1, 12.3.1.4, 12.3.1.5](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/)
+- [Onderzoekskader Algoritmes Auditdienst Rijk, IB.30](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 4.06](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 
 
-## Voorbeeld
+## Voorbeelden
 
 !!! example "Voorbeeld: Ministerie van Economische Zaken - Uitwijk- en herstelplan"
 	
@@ -64,8 +69,3 @@ Te late reactie op incidenten kan ervoor zorgen dat de BIV (beschikbaarheid, int
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
 
 
-## Bronnen
-
-- [Baseline Informatiebeveiliging Overheid, BIO 12.3.1.1, 12.3.1.4, 12.3.1.5](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/)
-- [Onderzoekskader Algoritmes Auditdienst Rijk, IB.30](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
-- [Toetsingskader Algoritmes Algemene Rekenkamer, 4.06](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)

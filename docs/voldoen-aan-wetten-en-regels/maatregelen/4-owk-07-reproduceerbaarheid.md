@@ -37,13 +37,13 @@ Om te zorgen voor reproduceerbaarheid van de uitkomsten, kan je de volgende stap
 3. [Test of het algoritme het gewenste niveau van reproduceerbaarheid heeft](#test-of-het-algoritme-het-gewenste-niveau-van-reproduceerbaarheid-heeft)
 
 ### Bepaal welke mate van reproduceerbaarheid nodig is
-Afhankelijk van de toepassing moeten de resultaten van het algoritme te precies reproduceren zijn. 
+Afhankelijk van de toepassing moeten de resultaten van het algoritme precies te reproduceren zijn. 
 Wanneer er gebruik wordt gemaakt van generatieve AI hoeft de output niet altijd exact hetzelfde te zijn. 
 
 ### Implementeer verschillende stappen die bijdragen aan reproduceerbaarheid
 Om te zorgen dat uitkomsten reproduceerbaar zijn, implementeer je het volgende in je processen en systemen:
 
-- Zorg voor versiebeheer op de code en de bijbehorende systemen. Dit geldt zowel tijdens ontwikkeling als tijdens operatie. Tools als [Github](https://github.com/) of [Gitlab](https://about.gitlab.com/) kunnen ondersteunen bij versiebeheer van code. 
+- Zorg voor versiebeheer op de code en de bijbehorende systemen. Dit geldt zowel tijdens ontwikkeling als tijdens operatie. Tools als [GitHub](https://github.com/) of [GitLab](https://about.gitlab.com/) kunnen ondersteunen bij versiebeheer van code. 
 - Zorg dat de data (trainings- en testdata) kan worden gereproduceerd. Maak gebruik van versiebeheer op de data, maak backups van de data, sla snapshots van de data op en maak gebruik van timestamps. 
 - Documenteer wijzigingen aan het algoritme of de systemen daaromheen.
 - Beheer afhankelijkheden van software bibliotheken en de beschikbare versies. Verschillende versies van veelgebruikte open-source software bibliotheken kunnen leiden tot verschillende resultaten. Gebruik bijvoorbeeld tools als [Docker](https://www.docker.com/) om deze versies te beheren.  
@@ -53,9 +53,9 @@ Om te zorgen dat uitkomsten reproduceerbaar zijn, implementeer je het volgende i
 ### Test of het algoritme het gewenste niveau van reproduceerbaarheid heeft
 Het is belangrijk om het algoritme te testen op de mate van reproduceerbaarheid. Dit kan je doen door:
 
-- experimenten meerdere keren te herhalen. 
-- te testen of kan worden achterhaald hoe een bepaald resultaat tot stand is gekomen. Is het duidelijk welke data is gebruikt, en welke versie van het algoritme is gebruikt? Test of het resultaat op basis van deze informatie opnieuw kan worden gegenereerd.
-- Rekening te houden met willekeur in het systeem. Dit is bijvoorbeeld relevant wanneer er gebruikt wordt gemaakt van *seeds* en/of *random number generators*. Experimenteer wat de invloed is van verschillende seeds op de uitkomsten, en analyseer of het systeem dezelfde resultaten geeft voor een vaste seed. Indien van belang, documenteer de seed die er gebruikt wordt. 
+- Experimenten meerdere keren te herhalen. 
+- Te testen of kan worden achterhaald hoe een bepaald resultaat tot stand is gekomen. Is het duidelijk welke data is gebruikt, en welke versie van het algoritme is gebruikt? Test of het resultaat op basis van deze informatie opnieuw kan worden gegenereerd.
+- Rekening te houden met willekeur in het systeem. Dit is bijvoorbeeld relevant wanneer er gebruikt wordt gemaakt van *seeds* en/ of *random number generators*. Experimenteer wat de invloed is van verschillende seeds op de uitkomsten, en analyseer of het systeem dezelfde resultaten geeft voor een vaste seed. Indien van belang, documenteer de seed die gebruikt wordt. 
 - Test of een versie van het algoritme opnieuw gereconstrueerd kan worden op basis van de gedocumenteerde informatie: 
 
     - trainingsdata
@@ -65,16 +65,16 @@ Het is belangrijk om het algoritme te testen op de mate van reproduceerbaarheid.
 
 - Indien er gebruik wordt gemaakt van generatieve AI kan er getest worden wat de uitkomsten zijn voor dezelfde of heel vergelijkbare prompts. 
 
-## Bijbehorende vereiste(n)
-??? expander "Bekijk alle vereisten"
-    <!-- list_vereisten_on_maatregelen_page -->
-
 ## Risico
 Wanneer uitkomsten niet herhaald kunnen worden, kan er niet worden gegarandeerd dat vergelijkbare casussen tot vergelijkbare uitkomsten komen. 
 Dit maakt de uitkomsten van het algoritme mogelijk oneerlijk. 
 Wanneer een herhaald experiment niet tot dezelfde uitkomsten leidt, kan het experiment niet vertrouwd worden. 
 Als uitkomsten niet herleid kunnen worden, kan er geen uitleg worden gegeven waarom een bepaalde beslissing tot stand is gekomen. 
 Hierdoor kan geen verantwoording worden geboden. 
+
+## Bijbehorende vereiste(n)
+??? expander "Bekijk alle vereisten"
+    <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
 - [Onderzoekskader Auditdienst Rijk, DM.14](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
@@ -84,7 +84,7 @@ Hierdoor kan geen verantwoording worden geboden.
 - [Odd Erik Gundersen, et al., Do machine learning platforms provide out-of-the-box reproducibility?](https://www.sciencedirect.com/science/article/pii/S0167739X21002090)
 - [Odd Erik Gundersen, et al., State of the Art: Reproducibility in Artificial Intelligence ](https://ojs.aaai.org/index.php/AAAI/article/view/11503)
 
-## Voorbeeld
+## Voorbeelden
 
 !!! example "Dienst Toeslagen: Populatiebepaling Kindregeling"
 

@@ -1,7 +1,7 @@
 ---
-title: Zorg dat er (gevoelige) informatie niet kan lekken op basis van de output van het algoritme.
+title: Zorg dat (gevoelige) informatie niet kan lekken op basis van de output van het algoritme
 id: urn:nl:ak:mtr:owk-10
-toelichting: Zorg dat er (gevoelige) informatie niet kan lekken op basis van de output van het algoritme. Limiteer daarom de hoeveelheid informatie in de uitkomst.
+toelichting: Zorg dat (gevoelige) informatie niet kan lekken op basis van de output van het algoritme. Limiteer daarom de hoeveelheid informatie in de uitkomst.
 levenscyclus:
 - ontwikkelen
 - implementatie
@@ -25,22 +25,22 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-Zorg dat er (gevoelige) informatie niet kan lekken op basis van de output van het algoritme.
+Zorg dat (gevoelige) informatie niet kan lekken op basis van de output van het algoritme.
 
 ## Toelichting
 Een aanvaller kan aan de hand van de uitkomsten van een model proberen om bepaalde eigenschappen over het model of de dataset te achterhalen. In de [brochure van de AIVD](https://www.aivd.nl/documenten/publicaties/2023/02/15/ai-systemen-ontwikkel-ze-veilig) wordt specifiek gewaarschuwd voor “*model engineering*”, “*model inversion*” en “*inference*” aanvallen.
 
-- **Model engineering** refereert aan aanvallen die als bedoeling hebben om te achterhalen hoe het model werkt. Dit kan bijvoorbeeld als doel hebben om intellectueel eigendom te stelen of om effectiever zwakheden in het model te kunnen onderzoeken.
+- **Model engineering** refereert naar aanvallen die als bedoeling hebben om te achterhalen hoe het model werkt. Dit kan bijvoorbeeld als doel hebben om intellectueel eigendom te stelen of om effectiever zwakheden in het model te kunnen onderzoeken.
 
 - **Model inversion** beschrijft aanvallen waarbij het doel is om de trainingsdata te reconstrueren. Dit kan wederom interessant zijn voor het stelen van intellectueel eigendom, maar ook het achterhalen van privé gegevens als het bijvoorbeeld om een medische dataset gaat.
 
-- **Inference** aanvallen zijn ook gericht op het achterhalen van informatie over de trainingsdata. In tegenstelling tot model inversion, is het doel niet om de gehele trainingsdata terug te krijgen, maar specifieke informatie. Zo kan het doel bijvoorbeeld zijn om te achterhalen of een bepaald persoon onderdeel was van de trainingsdata of kan met een deel van de informatie over een persoon geprobeerd worden om missende informatie te achterhalen. Dit type aanvallen is vaak makkelijker uit te voeren van een volledige model inversion.
+- **Inference** aanvallen zijn ook gericht op het achterhalen van informatie over de trainingsdata. In tegenstelling tot model inversion is het doel niet om de gehele trainingsdata terug te krijgen, maar specifieke informatie. Zo kan het doel bijvoorbeeld zijn om te achterhalen of een bepaald persoon onderdeel was van de trainingsdata of kan met een deel van de informatie over een persoon geprobeerd worden om missende informatie te achterhalen. Dit type aanvallen is vaak makkelijker uit te voeren van een volledige model inversion.
 
 ### Technieken voor voorkomen van lekken
 
 ### Statistical Disclosure Control
 Statistical Disclosure Control (SDC) is een veelgebruikte techniek om ervoor te zorgen dat er geen gevoelige informatie lekt uit de uitkomst van een datagedreven onderzoek.
-Alhoewel SDC vooral gericht is om traditionele data-analyses kan het ook gebruikt worden in de context van algoritmes. 
+Alhoewel SDC vooral gericht is op traditionele data-analyses kan het ook gebruikt worden in de context van algoritmes. 
 Er zijn verschillende voorbeelden hoe SDC kan worden toegevoegd aan een AI-systeem, zoals [The SACRO-ML package](https://arxiv.org/abs/2212.01233).
 
 ### k-anonimity
@@ -59,12 +59,12 @@ Zo is een veelgebruikte techniek voor inference aanvallen om te kijken hoe 'zeke
 Een beslissing met hoge zekerheid duidt er in veel gevallen op dat de input inderdaad in de trainingsdata zat. 
 Ook het gebruik van explainable AI kan leiden tot extra veiligheidsrisico’s. Zo kan een uitleg gebaseerd op een tegenvoorbeeld makkelijk informatie over een persoon lekken als deze het tegenvoorbeeld is. In 2024 is er [een overzicht van bekende gevaren van specifieke uitlegbaarheidstechnieken](https://arxiv.org/abs/2404.00673).
 
+## Risico
+Als een gebruiker teveel informatie te zien krijgt kan dit bijvoorbeeld leiden tot het lekken van trainingsdata of eigenschappen van het algoritme.
+
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
-
-## Risico
-Als een gebruiker teveel informatie te zien krijgt kan dit bijvoorbeeld leiden tot het lekken van trainingsdata of eigenschappen van het algoritme.
 
 ## Bronnen
 - [Smith, et al., Safe machine learning model release from Trusted Research Environments: The SACRO-ML package](https://arxiv.org/abs/2212.01233)
@@ -72,5 +72,6 @@ Als een gebruiker teveel informatie te zien krijgt kan dit bijvoorbeeld leiden t
 - [Dwork, et al., Differential privacy](https://dl.acm.org/doi/10.1007/11787006_1)
 - [Nguyen, et al., A Survey of Privacy-Preserving Model Explanations: Privacy Risks, Attacks, and Countermeasures](https://arxiv.org/abs/2404.00673)
 
-## Voorbeeld
-<!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
+## Voorbeelden
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
+

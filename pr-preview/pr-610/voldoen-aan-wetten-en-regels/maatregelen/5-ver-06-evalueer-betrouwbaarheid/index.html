@@ -27,7 +27,7 @@
     
     
       
-        <title>Evalueer de betrouwbaarheid van het algoritme - Algoritmekader 2.0</title>
+        <title>Evalueer de betrouwbaarheid van het algoritme - Algoritmekader 2.1</title>
       
     
     
@@ -115,7 +115,7 @@
 
 <header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
-    <a href="../../.." title="Algoritmekader 2.0" class="md-header__button md-logo" aria-label="Algoritmekader 2.0" data-md-component="logo">
+    <a href="../../.." title="Algoritmekader 2.1" class="md-header__button md-logo" aria-label="Algoritmekader 2.1" data-md-component="logo">
       
   <img src="../../../assets/logo.svg" alt="logo">
 
@@ -128,7 +128,7 @@
       <div class="md-header__ellipsis">
         <div class="md-header__topic">
           <span class="md-ellipsis">
-            Algoritmekader 2.0
+            Algoritmekader 2.1
           </span>
         </div>
         <div class="md-header__topic" data-md-component="header-topic">
@@ -354,12 +354,12 @@
 
 <nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigatie" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="../../.." title="Algoritmekader 2.0" class="md-nav__button md-logo" aria-label="Algoritmekader 2.0" data-md-component="logo">
+    <a href="../../.." title="Algoritmekader 2.1" class="md-nav__button md-logo" aria-label="Algoritmekader 2.1" data-md-component="logo">
       
   <img src="../../../assets/logo.svg" alt="logo">
 
     </a>
-    Algoritmekader 2.0
+    Algoritmekader 2.1
   </label>
   
     <div class="md-nav__source">
@@ -817,10 +817,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#bijbehorende-vereisten" class="md-nav__link">
+  <a href="#risico" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Bijbehorende vereiste(n)
+        Risico
       
     </span>
   </a>
@@ -828,10 +828,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#risico" class="md-nav__link">
+  <a href="#bijbehorende-vereisten" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Risico
+        Bijbehorende vereiste(n)
       
     </span>
   </a>
@@ -850,10 +850,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#voorbeeld" class="md-nav__link">
+  <a href="#voorbeelden" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Voorbeeld
+        Voorbeelden
       
     </span>
   </a>
@@ -938,14 +938,14 @@
 <p>Evalueer de betrouwbaarheid van het algoritme door het algoritme te testen op verschillende input en in verschillende situaties. </p>
 <h2 id="toelichting">Toelichting</h2>
 <p>De betrouwbaarheid van een algoritme omschrijft of het algoritme in staat is om onder verschillende omstandigheden en met alle mogelijke input tot een correcte uitkomst te komen. 
-In sommige gevallen is het wenselijk om duidelijk aan te geven wat de onzekerheid is van een uitkomst, of dat het juiste antwoord niet bepaald kan worden of er kans is op fouten.  </p>
+In sommige gevallen is het wenselijk om duidelijk aan te geven wat de onzekerheid is van een uitkomst, dat het juiste antwoord niet bepaald kan worden of dat er kans is op fouten.  </p>
 <p>Om de betrouwbaarheid te evalueren kan je de volgende stappen doorlopen:</p>
 <ol>
-<li><a href="#bepaal-methodes-en-metrieken">Bepaal methodes en metrieken</a></li>
-<li><a href="#zorg-voor-een-representatieve-testset">Zorg voor een representatieve testset</a></li>
-<li><a href="#bepaal-welke-mate-van-betrouwbaarheid-noodzakelijk-is">Bepaal welke mate van betrouwbaarheid noodzakelijk is</a></li>
-<li><a href="#bepaal-interventies-voor-als-het-restrisico-hoger-is-dan-acceptabel">Bepaal interventies voor als het restrisico hoger is dan acceptabel</a></li>
-<li><a href="#zorg-en-controleer-of-de-betrouwbaarheid-van-een-uitkomst-wordt-meegegeven-in-de-output">Zorg en controleer of de betrouwbaarheid van een uitkomst wordt meegegeven in de output</a></li>
+<li><a href="#bepaal-methodes-en-metrieken">Bepaal methodes en metrieken</a>.</li>
+<li><a href="#zorg-voor-een-representatieve-testset">Zorg voor een representatieve testset</a>.</li>
+<li><a href="#bepaal-welke-mate-van-betrouwbaarheid-noodzakelijk-is">Bepaal welke mate van betrouwbaarheid noodzakelijk is</a>.</li>
+<li><a href="#bepaal-interventies-voor-als-het-restrisico-hoger-is-dan-acceptabel">Bepaal interventies voor als het restrisico hoger is dan acceptabel</a>.</li>
+<li><a href="#zorg-en-controleer-of-de-betrouwbaarheid-van-een-uitkomst-wordt-meegegeven-in-de-output">Zorg en controleer of de betrouwbaarheid van een uitkomst wordt meegegeven in de output</a>.</li>
 </ol>
 <h3 id="bepaal-methodes-en-metrieken">Bepaal methodes en metrieken</h3>
 <p>Bepaal met welke methodes je betrouwbaarheid wil evalueren en welke metrieken je daarvoor wilt gebruiken.
@@ -954,13 +954,13 @@ Het testen van betrouwbaarheid kan bijvoorbeeld door precisie of recall te meten
 <div class="admonition info">
 <p class="admonition-title">Methodes om te testen op betrouwbaarheid</p>
 <p>Afhankelijk van het type algoritme zijn er verschillende methodes om betrouwbaarheid te testen. 
-In de literatuur gaat het ook wel over generalisatie wanneer we spreken over het correct presteren op nieuwe of minder voorkomende inputs en omstandigheden. 
+In de literatuur gaat het ook over generalisatie wanneer we spreken over het correct presteren op nieuwe of minder voorkomende inputs en omstandigheden. 
 Hieronder enkele voorbeelden van methoden die gebruikt kunnen worden:</p>
 <ul>
 <li>De <em>monkey test</em> is een manier om voor willekeurige, invalide of onverwachte inputs de werking van het algoritme te testen. Het idee is om een onvoorspelbare gebruiker (of een script) willekeurige acties te laten uitvoeren om te kijken hoe het systeem erop reageert. </li>
-<li>Door een <em>out-of-sample test</em> kan worden getest hoe een machinelearning algoritme presteert bij een dataset verdeling die niet in de training is meegegeven. </li>
+<li>Door een <em>out-of-sample test</em> kan worden getest hoe een machine-learning algoritme presteert bij een dataset verdeling die niet in de training is meegegeven. </li>
 <li>Door <em>stresstesten</em> test je de prestatie van het algoritme onder extreme omstandigheden of ruis in de data. </li>
-<li>Met synthetische data kunnen goed uitlegbare en controleerbare distributieshifts worden gesimuleerd, om te testen of het algoritme in een onbekende situatie, waar geen data van bruikbaar of beschikbaar is, presteert. </li>
+<li>Met synthetische data kunnen goed uitlegbare en controleerbare distributieshifts worden gesimuleerd om te testen of het algoritme in een onbekende situatie, waar geen data van bruikbaar of beschikbaar is, presteert. </li>
 <li>De <a href="https://data-en-maatschappij.ai/tools/ai-blindspots-2.0">AI Blindspots kaartenset</a> kan helpen om risico’s voor betrouwbaarheid (en specifiek <a href="../../../onderwerpen/bias-en-non-discriminatie/">bias</a>) te identificeren. </li>
 </ul>
 </div>
@@ -972,7 +972,7 @@ Onderzoek of er specifieke situaties of omstandigheden zijn waarvan bekend is da
 </details>
 <details class="example">
 <summary>Voorbeeld</summary>
-<p>De verdeling van de <abbr title="data die in een AI-systeem worden ingevoerd of direct door een AI-systeem worden verworven en op basis waarvan het systeem een output genereert">inputdata</abbr> kan invloed hebben op de prestaties van een machinelearning algoritme (distributieshift). Test hoe het algoritme presteert onder andere verdelingen van de <abbr title="data die in een AI-systeem worden ingevoerd of direct door een AI-systeem worden verworven en op basis waarvan het systeem een output genereert">inputdata</abbr>. </p>
+<p>De verdeling van de <abbr title="data die in een AI-systeem worden ingevoerd of direct door een AI-systeem worden verworven en op basis waarvan het systeem een output genereert">inputdata</abbr> kan invloed hebben op de prestaties van een machine-learning algoritme (distributieshift). Test hoe het algoritme presteert onder andere verdelingen van de <abbr title="data die in een AI-systeem worden ingevoerd of direct door een AI-systeem worden verworven en op basis waarvan het systeem een output genereert">inputdata</abbr>. </p>
 </details>
 <h3 id="zorg-voor-een-representatieve-testset">Zorg voor een representatieve testset</h3>
 <p>Zorg dat er een <a href="../5-ver-04-representatieve-testomgeving/">representatieve testset</a> beschikbaar is waarin het algoritme kan worden getest in verschillende scenario's. Test het algoritme in verschillende omstandigheden:</p>
@@ -987,7 +987,7 @@ Onderzoek of er specifieke situaties of omstandigheden zijn waarvan bekend is da
 <ul>
 <li>Bedenk onder welke variaties het systeem betrouwbaar moet werken en hoe goed het moet kunnen werken onder rand- of uitzonderlijke gevallen. </li>
 <li>Afhankelijk van de toepassing moeten resultaten altijd dezelfde uitkomst geven of niet (<a href="../4-owk-07-reproduceerbaarheid/">reproduceerbaarheid</a>). In het geval van generatieve AI hoeft het antwoord bijvoorbeeld niet altijd exact hetzelfde te zijn. </li>
-<li>Heb hierbij aandacht voor de afweging tussen <a href="../5-ver-02-evalueer-nauwkeurigheid/">nauwkeurigheid</a> en betrouwbaarheid. Een model met hoge nauwkeurigheid op de testset kan vaak slechter generaliseren naar situaties net buiten de test set (overfitting). </li>
+<li>Houd hierbij aandacht voor de afweging tussen <a href="../5-ver-02-evalueer-nauwkeurigheid/">nauwkeurigheid</a> en betrouwbaarheid. Een model met hoge nauwkeurigheid op de testset kan vaak slechter generaliseren naar situaties net buiten de test set (overfitting). </li>
 </ul>
 <h3 id="bepaal-interventies-voor-als-het-restrisico-hoger-is-dan-acceptabel">Bepaal interventies voor als het restrisico hoger is dan acceptabel</h3>
 <p>Bepaal wat er moet gebeuren wanneer de betrouwbaarheid niet voldoende is. Hiervoor zijn verschillende mogelijkheden:</p>
@@ -1008,17 +1008,17 @@ Onderzoek of er specifieke situaties of omstandigheden zijn waarvan bekend is da
 <h3 id="zorg-en-controleer-of-de-betrouwbaarheid-van-een-uitkomst-wordt-meegegeven-in-de-output">Zorg en controleer of de betrouwbaarheid van een uitkomst wordt meegegeven in de output</h3>
 <p>Voorspellingen of uitkomsten van een algoritme kunnen onzeker zijn. Zorg dat de (on)zekerheid van een uitkomst wordt meegegeven in de output van een algoritme. 
 Dat kan bijvoorbeeld door een foutmarge mee te geven. 
-In veel gevallen kan het wenselijk zijn dat het systeem aangeeft wanneer een uitkomst te onzeker is, of soms zelfs geen antwoord geeft vanwege de onzekerheid. 
+In veel gevallen kan het wenselijk zijn dat het systeem aangeeft wanneer een uitkomst te onzeker is of soms zelfs geen antwoord geeft vanwege de onzekerheid. 
 Dit kan bijdragen aan het vertrouwen in het algoritme. </p>
 <h3 id="zorg-voor-continue-monitoring-op-betrouwbaarheid">Zorg voor continue monitoring op betrouwbaarheid</h3>
-<p>Zorg dat het algoritme continu wordt <a href="../../../levenscyclus/monitoring-en-beheer/">gemonitord</a> op de betrouwbaarheid en de prestaties van het systeem. Maak gebruik van periodieke updates en <a href="../3-dat-01-datakwaliteit/">valideer regelmatig de kwaliteit van de gebruikte data</a>. </p>
+<p>Zorg dat het algoritme continu wordt <a href="../../../levenscyclus/monitoring-en-beheer/">gemonitored</a> op de betrouwbaarheid en de prestaties van het systeem. Maak gebruik van periodieke updates en <a href="../3-dat-01-datakwaliteit/">valideer regelmatig de kwaliteit van de gebruikte data</a>. </p>
+<h2 id="risico">Risico</h2>
+<p>Een onbetrouwbaar algoritme kan in een nieuwe of onverwachte situatie de verkeerde uitkomsten geven. </p>
 <h2 id="bijbehorende-vereisten">Bijbehorende vereiste(n)</h2>
 <details class="expander">
 <summary>Bekijk alle vereisten</summary>
-<table><thead><tr><th>Vereiste</th></tr></thead><tbody><tr><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-610/voldoen-aan-wetten-en-regels/vereisten/aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging/">aia-10 - Hoog-risico-AI-systemen zijn voldoende nauwkeurig, robuust en cyberveilig.</a></td></tr></tbody></table>
+<table><thead><tr><th>Vereiste</th></tr></thead><tbody><tr><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-610/voldoen-aan-wetten-en-regels/vereisten/aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging/">aia-10 - Hoog-risico-AI-systemen zijn voldoende nauwkeurig, robuust en cyberveilig</a></td></tr></tbody></table>
 </details>
-<h2 id="risico">Risico</h2>
-<p>Een onbetrouwbaar algoritme kan in een nieuwe of onverwachte situatie de verkeerde uitkomsten geven. </p>
 <h2 id="bronnen">Bronnen</h2>
 <ul>
 <li><a href="https://arxiv.org/abs/2110.01167">Bo Li, et al., Trustworthy AI: From Principles to Practices</a></li>
@@ -1027,8 +1027,8 @@ Dit kan bijdragen aan het vertrouwen in het algoritme. </p>
 <li><a href="https://data-en-maatschappij.ai/tools/ai-blindspots-2.0">Kenniscentrum Data &amp; Maatschappij - Tool: AI Blindspots 2.0</a></li>
 <li><a href="https://ieeexplore.ieee.org/abstract/document/9847099">Kaiyang Zhou, et al., Domain Generalization: A Survey</a></li>
 </ul>
-<h2 id="voorbeeld">Voorbeeld</h2>
-<p>Heb jij een goed voorbeeld? Laat het ons weten!</p>
+<h2 id="voorbeelden">Voorbeelden</h2>
+<p>Heb je een ander voorbeeld of best practice, laat het ons weten via <a href="mailto:algoritmes@minbzk.nl">algoritmes@minbzk.nl</a></p>
 
 
 
@@ -1051,7 +1051,7 @@ Dit kan bijdragen aan het vertrouwen in het algoritme. </p>
     <span class="md-icon" title="Laatst geüpdatet">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">22 januari 2025</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">19 februari 2025</span>
   </span>
 
     

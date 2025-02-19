@@ -425,7 +425,7 @@
 
 .modal-content-close {
     position: absolute;
-    right: 20px;
+    right: 30px;
     top: 10px;
     z-index: 1000;
     cursor: pointer;

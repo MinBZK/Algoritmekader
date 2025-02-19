@@ -1,5 +1,5 @@
 ---
-title: Controleer regelmatig of een algoritme voldoende weerbaar is tegen bekende aanvallen.
+title: Controleer regelmatig of een algoritme voldoende weerbaar is tegen bekende aanvallen
 id: urn:nl:ak:mtr:mon-08
 toelichting: Controleer regelmatig of je algoritme bestand is tegen aanvallen. 
 levenscyclus:
@@ -43,14 +43,17 @@ Dit kan bijvoorbeeld met behulp van de open-source ontwikkelde [Adversarial Robu
 Het is lastig in te schatten met wat voor aanvallen er rekening gehouden moet worden voor een AI-systeem. 
 Hiervoor heeft OWASP een [top 10 opgesteld van security risico’s van LLM’s](https://owasp.org/www-project-top-10-for-large-language-model-applications/). Veel risico's zijn waarschijnlijk ook van toepassing op andere soorten AI-systemen.
 
+## Risico
+Als niet periodiek getest wordt of een algoritme nog bestand is tegen aanvallen, wordt de kans groter dat een aanvaller succesvol is.
+
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
-
-## Risico
-Als niet periodiek getest wordt of een algoritme nog bestand is tegen aanvallen, wordt de kans groter dat een aanvaller succesvol is.
 
 ## Bronnen
 - [Nightfall, AI Model Red Teaming](https://www.nightfall.ai/ai-security-101/ai-model-red-teaming)
 - [IBM, Adversarial Robustness Toolbox](https://research.ibm.com/projects/adversarial-robustness-toolbox)
 - [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
+
+## Voorbeelden
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

@@ -1,5 +1,5 @@
 ---
-title: Er is beleid opgesteld ter naleving van auteursrechten en naburige rechten door aanbieders van AI-modellen voor algemene doeleinden.
+title: Er is beleid opgesteld ter naleving van auteursrechten en naburige rechten door aanbieders van AI-modellen voor algemene doeleinden
 id: urn:nl:ak:ver:aia-39
 toelichting: Aanbieders van AI-modellen voor algemene doeleinden stellen beleid op ter naleving van het Unierecht inzake auteursrechten en naburige rechten en dan met name ter vaststelling en naleving, onder meer door middel van geavanceerde technologieën, van een op grond van artikel 4, lid 3, van Richtlijn (EU) 2019/790 tot uitdrukking gebracht voorbehoud van rechten.
 levenscyclus:

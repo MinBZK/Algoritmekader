@@ -33,7 +33,7 @@ Als deze keuze vervolgens als feedback ook weer wordt doorgevoerd in het systeem
 
 Werk bijvoorbeeld aan de hand van [User Centered Design principes](https://www.interaction-design.org/literature/topics/user-centered-design) om de gebruiker centraal te stellen. 
 
-## Evaluatie
+### Evaluatie
 Breng risico’s in kaart door het goed testen van het systeem in een praktijksetting. Evalueer hier het gedrag van de gebruiker in het grotere systeem.  
 
 Onderdelen hiervan zijn:
@@ -46,33 +46,37 @@ Als er bijvoorbeeld een controle gedaan moet worden over de uitkomst van het alg
 Clicks, scrollen, of het gebruik van het algoritme op zich (in plaats van zelf tot een beslissing komen) horen bij het gedrag van de gebruiker. 
 Dit kan inzicht geven of het systeem correct wordt gebruikt, maar ook waar gebruikers mogelijk juist blijven hangen. 
 
-### Feedback mechanismes 
+#### Feedback mechanismes 
 - Zijn er manieren waarop de gebruiker feedback kan geven over de uitkomsten wanneer deze naar vermoeden niet kloppen?
 - Zijn er manieren waarop de gebruiker om hulp kan vragen en wat voor vragen zijn dit?
 - Op wat voor manier worden errors in het systeem doorgegeven aan de gebruiker? 
 
-### Transparantie en uitlegbaarheid
+#### Transparantie en uitlegbaarheid
 Een correct gebruik begint bij een [duidelijke instructie en inzicht hoe een algoritme werkt](6-imp-01-werkinstructies-gebruikers.md) en hoe daar mee om te gaan. 
 Evalueer of de gebruikte methodes hiervoor hun doel bereiken.
 
-### Toegankelijkheid
+#### Toegankelijkheid
 Het is belangrijk om te controleren of het algoritme toegankelijk in gebruik is voor iedereen, inclusief personen met een beperking. 
 
-### Beveiliging en controle
-Het onjuist gebruik waarvoor specifiek gedrag opgemerkt kan worden bij bovenstaande evaluaties moet worden gemonitord.
+#### Beveiliging en controle
+Het onjuist gebruik waarvoor specifiek gedrag opgemerkt kan worden bij bovenstaande evaluaties moet worden gemonitored.
 Vervolgens kunnen er beveiligingen (denk aan een melding ‘weet je het zeker?’) ingebouwd worden als zulk gedrag wordt geregistreerd. 
 Kijk vervolgens of deze interventies effectief zijn om fouten te voorkomen. 
 
+## Risico
+Een gebruikersinterface die verkeerd gebruik door gebruikers mogelijk maakt, kan ervoor zorgen dat gebruikers verkeerde invoerwaarden geven, zich niet aan de beoogde werkwijze houden of per ongeluk toegang geven aan kwaadwillenden.
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
-## Risico
-Een gebruikersinterface die verkeerd gebruik door gebruikers mogelijk maakt, kan ervoor zorgen dat gebruikers verkeerde invoerwaarden geven, zich niet aan de beoogde werkwijze houden of per ongeluk toegang geven aan kwaadwillenden.
+## Bronnen
+- [Valid Useful User Experience Measurement ](https://www.academia.edu/28475349/Valid_Useful_User_Experience_Measurement)
+- [7 fundamental user experience (UX) design principles all designers should know (2024) - UX Design Institute](https://www.uxdesigninstitute.com/blog/ux-design-principles/)
+- [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/)
+- [User Centered Design (UCD)](https://www.interaction-design.org/literature/topics/user-centered-design)
 
-
-## Voorbeeld
+## Voorbeelden
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
 
 !!! example "Verschillende overheden – Octobox Anonimiseren"
@@ -102,10 +106,4 @@ Een gebruikersinterface die verkeerd gebruik door gebruikers mogelijk maakt, kan
 
 
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)  
-
-## Bronnen
-- [Valid Useful User Experience Measurement ](https://www.academia.edu/28475349/Valid_Useful_User_Experience_Measurement)
-- [7 fundamental user experience (UX) design principles all designers should know (2024) - UX Design Institute](https://www.uxdesigninstitute.com/blog/ux-design-principles/)
-- [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/)
-- [User Centered Design (UCD)](https://www.interaction-design.org/literature/topics/user-centered-design)
 

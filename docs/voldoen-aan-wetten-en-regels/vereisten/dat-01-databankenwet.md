@@ -1,5 +1,5 @@
 ---
-title: Databanken worden alleen gebruikt met toestemming van de databank-producent.
+title: Databanken worden alleen gebruikt met toestemming van de databank-producent
 id: urn:nl:ak:ver:dat-01
 toelichting: Het is verboden om zonder goedkeuring van de producent een databanken op te vragen en/of te hergebruiken.
 levenscyclus:

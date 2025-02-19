@@ -1,5 +1,5 @@
 ---
-title: Hoog-risico-AI-systemen worden gebruikt volgens de gebruiksaanwijzing. 
+title: Hoog-risico-AI-systemen worden gebruikt volgens de gebruiksaanwijzing
 id: urn:nl:ak:ver:aia-20
 toelichting: Gebruiksverantwoordelijken van AI-systemen met een hoog risico nemen passende technische en organisatorische maatregelen om te waarborgen dat zij dergelijke systemen gebruiken in overeenstemming met de gebruiksaanwijzingen die bij de systemen zijn gevoegd.
 levenscyclus:

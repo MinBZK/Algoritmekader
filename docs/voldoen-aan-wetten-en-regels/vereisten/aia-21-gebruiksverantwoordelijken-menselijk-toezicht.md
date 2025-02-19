@@ -1,5 +1,5 @@
 ---
-title: Menselijk toezicht van hoog-risico-AI-systemen wordt uitgevoerd door mensen met voldoende kennis en mogelijkheden.
+title: Menselijk toezicht van hoog-risico-AI-systemen wordt uitgevoerd door mensen met voldoende kennis en mogelijkheden
 id: urn:nl:ak:ver:aia-21
 toelichting: Gebruiksverantwoordelijken dragen het menselijk toezicht over een hoog risico AI-systeem op aan natuurlijke personen die over de nodige bekwaamheid, opleiding en autoriteit beschikken en de nodige ondersteuning krijgen.
 levenscyclus:

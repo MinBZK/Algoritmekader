@@ -1,5 +1,5 @@
 ---
-title: Auteursrechten zijn beschermd.
+title: Auteursrechten zijn beschermd
 id: urn:nl:ak:ver:aut-01
 toelichting: Bij het ontwikkelen, testen en gebruiken van algoritmes mag geen inbreuk gemaakt worden op auteursrechten en naburige rechten. 
 levenscyclus: 

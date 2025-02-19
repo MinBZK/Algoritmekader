@@ -44,13 +44,12 @@ Uitvoeren risicoanalyse en formuleren mitigerende maatregelen voor privacyrisico
 - Als er een noodzaak is om na verloop van tijd meer persoonsgegevens te verwerken of om andere verwerkingen uit te voeren, zal opnieuw een beoordeling moeten plaatsvinden of er privacyrisico's ontstaan en hoe deze kunnen worden gemitigeerd. Gedurende de levenscyclus van het algoritme moet aandacht blijven voor het uitvoeren van de risicoanalyse voor privacyrisico's.
 - Bij hoge risico's voor het verwerken van persoonsgegevens is een voorafgaande raadpleging bij de Autoriteit Persoonsgegevens onder artikel 36 AVG verplicht. Bepaal of raadpleging noodzakelijk is. 
 
+## Risico
+Privacyrisico's met de inzet van algoritmes worden niet gemitigeerd, waardoor privacyrechten van betrokkenen worden geschonden. 
+
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
-
-
-## Risico
-Privacyrisico's met de inzet van algoritmes worden niet gemitigeerd, waardoor privacyrechten van betrokkenen worden geschonden. 
 
 ## Bronnen
 - [Onderzoekskader Algoritmes Auditdienst Rijk, PRI.2, PRI.3, PRI.10](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
@@ -58,6 +57,6 @@ Privacyrisico's met de inzet van algoritmes worden niet gemitigeerd, waardoor pr
 - [Besluit inzake lijst van verwerkingen van persoonsgegevens waarvoor een gegevensbeschermingseffectbeoordeling (DPIA) verplicht is, Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/uploads/imported/stcrt-2019-64418.pdf)
 - [Model DPIA Rijksdienst](https://www.kcbr.nl/sites/default/files/2023-09/Model%20DPIA%20Rijksdienst%20v3.0.pdf)
 
-## Voorbeeld
+## Voorbeelden
 
-Heb jij een goed voorbeeld? Laat het ons weten!
+Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

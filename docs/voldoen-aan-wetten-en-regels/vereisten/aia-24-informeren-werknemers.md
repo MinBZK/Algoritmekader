@@ -1,5 +1,5 @@
 ---
-title: Werknemers weten dat hun organisatie een hoog-risico AI-systeem gebruikt.
+title: Werknemers weten dat hun organisatie een hoog-risico AI-systeem gebruikt
 id: urn:nl:ak:ver:aia-24
 toelichting: Voordat een AI-systeem met een hoog risico op de werkplek in gebruik wordt gesteld of wordt gebruikt, delen gebruiksverantwoordelijken die werkgever zijn werknemersvertegenwoordigers en de betrokken werknemers mee dat zij zullen worden onderworpen aan het gebruik van het AI-systeem met een hoog risico.
 levenscyclus:

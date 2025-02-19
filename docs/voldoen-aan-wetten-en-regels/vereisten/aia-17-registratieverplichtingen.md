@@ -1,5 +1,5 @@
 ---
-title: Hoog-risico-AI-systemen zijn geregistreerd in de EU-databank.
+title: Hoog-risico-AI-systemen zijn geregistreerd in de EU-databank
 id: urn:nl:ak:ver:aia-17
 toelichting: Aanbieders van AI-systemen met een hoog risico registeren het systeem in de EU-databank voorafgaand aan ingebruikname van het AI-systeem. 
 levenscyclus:

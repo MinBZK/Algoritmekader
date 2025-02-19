@@ -40,23 +40,23 @@ Stel regelmatig vast dat wetgeving en (lokaal) beleid correct is vertaald naar d
 - Er is een multidisciplinaire samenwerking nodig tussen de proceseigenaar, gebruikers, juristen, informatieanalisten en ontwikkelaar om deze vertaling zorgvuldig en doorlopend te maken.
 - Voorafgaand aan het (laten) ontwikkelen van een algoritme moet dit zijn uitgevoerd.
 - De toegepaste 'business rules' en de verwerkte data voor de uitvoering van het te ondersteunen werkproces met algoritmes moeten worden onderzocht en beoordeeld.
-- Diepgaande procesanalyses (Bv. BPMN niveau Analytisch) en procesbeschrijvingen kunnen hierbij ondersteunen. 
+- Diepgaande procesanalyses (bijv. BPMN niveau Analytisch) en procesbeschrijvingen kunnen hierbij ondersteunen. 
 - Als blijkt dat een werkproces niet (meer) conform (gewijzigde) wetgeving of beleid wordt uitgevoerd, dan moet worden beoordeeld of de verworven data of welke deel van de data geschikt is voor het ontwikkelen een algoritme.
 - Het is dan raadzaam om de uitvoering van het betreffende werkproces en de werking van onderliggende systemen eerst te 'herstellen' en om hiermee een nieuw datafundament te creëeren (eerst een groot aantal zaken behandelen) die later als trainingsdata kan worden gebruikt. 
-  
+
+## Risico
+Een beslissing of besluit wordt niet conform wetgeving genomen en is daarmee onrechtmatig als er geen goede vertaling wordt gemaakt van wetgeving naar het algoritme. 
+
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
-## Risico
-Een beslissing of besluit wordt niet conform wetgeving genomen en is daarmee onrechtmatig, als geen goede vertaling wordt gemaakt van wetgeving naar het algoritme. 
-
-## Bron
+## Bronnen
 - [Wetsanalyse](https://wendbarewetsuitvoering.pleio.nl/page/view/918f9a63-4383-410e-b526-4b8fb67b1c40/het-boek-wetsanalyse)
 - [Onderzoekskader Auditdienst Rijk, DM.15](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 2.05](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 
-## Voorbeeld
+## Voorbeelden
 
 !!! example "Belastingdienst – Handleiding Wetsanalyse in de praktijk"
 	

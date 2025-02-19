@@ -1,5 +1,5 @@
 ---
-title: AI-systemen worden zo ontworpen en gebruikt, dat mensen begrijpen wanneer zij met een AI-systeem communiceren en welke content gemaakt is door een AI-systeem.
+title: AI-systemen worden zo ontworpen en gebruikt, dat mensen begrijpen wanneer zij met een AI-systeem communiceren en welke content gemaakt is door een AI-systeem
 id: urn:nl:ak:ver:aia-28
 toelichting: Aanbieders van AI-systemen zorgen dat AI-sytemen zodanig worden ontworpen en ontwikkeld dat de betrokken natuurlijke personen worden geïnformeerd dat zij interacteren met een AI-systeem. 
 levenscyclus:

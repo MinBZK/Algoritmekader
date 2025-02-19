@@ -1,5 +1,5 @@
 ---
-title: Als AI-modellen voor algemene doeleinden met systeemrisico’s ernstige incidenten veroorzaken, wordt dit gedocumenteerd en gerapporteerd.
+title: Als AI-modellen voor algemene doeleinden met systeemrisico’s ernstige incidenten veroorzaken, wordt dit gedocumenteerd en gerapporteerd
 id: urn:nl:ak:ver:aia-31
 toelichting: Aanbieders van AI-modellen voor algemene doeleinden met een systeemrisico moeten relevante informatie over ernstige incidenten en mogelijke corrigerende maatregelen bijhouden, documenteren en onverwijld rapporteren aan het AI bureau en, in voorkomend geval, aan de nationale bevoegde autoriteiten.
 levenscyclus:

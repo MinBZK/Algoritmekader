@@ -1,5 +1,5 @@
 ---
-title: Hoog-risico-AI-systemen zijn voorzien van een kwaliteitsbeheersysteem.
+title: Hoog-risico-AI-systemen zijn voorzien van een kwaliteitsbeheersysteem
 id: urn:nl:ak:ver:aia-11
 toelichting: Aanbieders van AI-systemen met een hoog risico voorzien in een systeem voor kwaliteitsbeheer dat de naleving van de AI-verordening waarborgt. 
 levenscyclus:

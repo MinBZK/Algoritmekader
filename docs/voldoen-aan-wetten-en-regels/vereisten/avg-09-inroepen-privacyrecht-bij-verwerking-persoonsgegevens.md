@@ -1,5 +1,5 @@
 ---
-title: Betrokkenen kunnen een beroep doen op hun privacyrechten.
+title: Betrokkenen kunnen een beroep doen op hun privacyrechten
 id: urn:nl:ak:ver:avg-09
 toelichting: Het kunnen uitoefenen van privacyrechten is essentieel voor het beschermen van de privacy van individuen, het waarborgen van transparantie en controle uitvoeren over persoonsgegevens.
 levenscyclus:

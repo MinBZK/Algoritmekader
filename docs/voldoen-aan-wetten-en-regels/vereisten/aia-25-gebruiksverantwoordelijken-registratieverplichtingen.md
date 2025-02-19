@@ -1,5 +1,5 @@
 ---
-title: Gebruiksverantwoordelijken controleren de registratie van het hoog-risico AI-systeem in de EU-databank.
+title: Gebruiksverantwoordelijken controleren de registratie van het hoog-risico AI-systeem in de EU-databank
 id: urn:nl:ak:ver:aia-25
 toelichting: Gebruiksverantwoordelijken van AI-systemen met een hoog risico die de hoedanigheid van overheidsinstanties of instellingen, organen of instanties van de Unie hebben, leven de in artikel 49 bedoelde registratieverplichtingen na. 
 

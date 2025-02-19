@@ -103,10 +103,10 @@ function showModal(event, modalId) {
       updateAIActForm();
       updateFieldsBasedOnType(document.getElementById("type"));
     });
-    loadHTML('/Algoritmekader/html/ai-verordening-popup.html', 'modal-content')
+    loadHTML('html/ai-verordening-popup.html', 'modal-content')
     document.getElementById("modal-content-container").classList.add("model-content-auto-size");
   } else if (modalId === "beslishulp") {
-    document.getElementById("modal-content").innerHTML = "<iframe style=\"display: block; width: 100%; height: 100%; border: 0; padding: 0; margin: 0; overflow: hidden;\" src=\"/Algoritmekader/html/beslishulp.html\"></iframe>"
+    document.getElementById("modal-content").innerHTML = "<iframe style=\"display: block; width: 100%; height: 100%; border: 0; padding: 0; margin: 0; overflow: hidden;\" src=\"html/beslishulp.html\"></iframe>"
     document.getElementById("modal-content-container").classList.remove("model-content-auto-size");
   }
   document.getElementById("modal").classList.remove("display-none");

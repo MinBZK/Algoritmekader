@@ -40,7 +40,7 @@ Veel organisaties gebruiken risicoprofilering als hulpmiddel om regels te handha
 
 !!! tip "Tip"
 
-    Meer weten over dit onderwerp? Of wil je dat collega's meer weten over dit onderwerp? Volg de [e-learning non-discriminatie in algoritmes en data](https://www.it-academieoverheid.nl/actueel/nieuws/2024/10/29/nieuwe-radio-e-learning-non-discriminatie), ontwikkeld door Het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. 
+    Meer weten over dit onderwerp? Of wil je dat collega's meer weten over dit onderwerp? Volg de [e-learning non-discriminatie in algoritmes en data](https://www.it-academieoverheid.nl/actueel/nieuws/2024/10/29/nieuwe-radio-e-learning-non-discriminatie), ontwikkeld door het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. 
 
 ## Herken bias
 Bias herkennen is een belangrijke stap in het voorkomen van discriminerende effecten van algoritmes.

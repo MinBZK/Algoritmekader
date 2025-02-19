@@ -9,7 +9,7 @@ hide:
 Wie algoritmes ontwikkelt of gebruikt, moet ongewenst onderscheid en eventuele discriminerende effecten hiervan voorkomen. Want met algoritmes kun je makkelijk discrimineren, ook al is dat niet de bedoeling. Let daarom steeds op ‘bias’. Dit zijn vooroordelen of fouten in je algoritme of aanpak.
 
 ## Wat is ongewenst onderscheid?
-Algoritmes kunnen leiden tot ongewenst onderscheid als je mensen of groepen ongelijk behandelt in gelijke situaties. 
+Algoritmes kunnen leiden tot ongewenst onderscheid als je mensen of (andere) groepen ongelijk behandelt in gelijke situaties. 
 
 Een camera met gezichtsherkenning herkent bijvoorbeeld geen vrouwen van kleur. Of een computerprogramma selecteert vooral mensen met een laag inkomen als risicogroep voor fraude.
 
@@ -17,6 +17,8 @@ Dit onderscheid kan op twee manieren ontstaan:
 
 - Direct onderscheid: Het algoritme gebruikt een [discriminatiegrond](https://www.mensenrechten.nl/mensenrechten-voor-jou/discriminatie-en-gelijke-behandeling/wat-is-discriminatie) als variabele, zoals geloof, politieke voorkeur, ras, nationaliteit, geslacht, handicap, burgerlijke staat, vermogen of leeftijd.
 - Indirect onderscheid: Het algoritme lijkt neutraal of eerlijk. Maar later blijkt dat bepaalde mensen op een andere manier worden behandeld door hun geloof, politieke of seksuele voorkeur, ras, geslacht, of burgerlijke staat. 
+
+Direct en indirect onderscheid is in veel gevallen niet toegestaan. Ongewenst onderscheid kan leiden tot discrimerende effecten van een algoritme. 
 
 !!! tip "Tip"
     

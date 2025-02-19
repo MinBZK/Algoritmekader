@@ -133,19 +133,20 @@ function loadHTML(url, targetDivId) {
     });
 }
 
-function convertLabels(labels) {
-  return labels.map(label => labelMapper.find(label))
-}
 
 function updateLabels(labels) {
-  const convertedLabels = convertLabels(labels);
+  const allLabels = labels.map(label => labelMapper.find(label));
+  // ignore groups not used by AK at the moment
+  const ignoreGroups = ["conformiteitsbeoordelingsinstantie", "operationeel"]
+  const appliedLabels = allLabels.filter(labelObj => !ignoreGroups.includes(labelObj.group)).filter(labelObj => !labelObj.label.includes("niet-van-toepassing"))
+
   document.getElementById("ai-act-info-with-labels").classList.remove("display-none");
   document.getElementById("ai-act-info-no-labels").classList.add("display-none");
   // appendQueryParams({"labels": convertedLabels.map(obj=> obj.label).join(",")});
-  document.getElementById('labelsInput').value = convertedLabels.map(obj => obj.label).join(",");
+  document.getElementById('labelsInput').value = appliedLabels.map(obj => obj.label).join(",");
 
   let labelsHTML = "";
-  for (const label_obj of convertedLabels) {
+  for (const label_obj of appliedLabels) {
     labelsHTML += "<span data-label-value='" + label_obj.label + "' class='info-label' onclick='removeLabel(event)'>" + label_obj.display_value + "</span>"
   }
   document.getElementById('ai-act-labels-container').innerHTML = labelsHTML;
@@ -224,9 +225,9 @@ function appendQueryParams(params) {
 }
 
 /**
- * Given any key, display value or list of synonyms, return an object with a label and display_value.
- * Used to map between different input for labels, but always get the right combination.
- * Defaults to the given value of the mapping is not found.
+ * Given a label or list of synonyms, return an object with a label and display_value.
+ * Labels are combined with the given group. Synonyms must provide their own full synonym, including group name is applicable.
+ * Defaults to the given value of the mapping if not found.
  */
 class ValueMapper {
   constructor() {
@@ -236,7 +237,8 @@ class ValueMapper {
 
   addEntry(label, display_value, group, synonyms = []) {
     const standardFormat = {"label": group + "-" + label.toLowerCase(), group, display_value};
-    this.map.set(group + "-" + label.toLowerCase(), standardFormat);
+    const AKFilter = group + "-" + label.toLowerCase();
+    this.map.set(AKFilter, standardFormat);
     synonyms.forEach(synonym => {
       this.map.set(synonym.toLowerCase(), standardFormat);
     });
@@ -245,7 +247,7 @@ class ValueMapper {
       this.groups.set(group, new Set());
     }
 
-    this.groups.get(group).add(group + "-" + label.toLowerCase());
+    this.groups.get(group).add(AKFilter);
   }
 
 
@@ -253,7 +255,7 @@ class ValueMapper {
     if (this.map.has(value.toLowerCase())) {
       return this.map.get(value.toLowerCase());
     }
-    return {"label": value, "display_value": value + " [onbekend]", "missing": true};
+    return {"label": value, group: "onbekend", "display_value": value + " [onbekend]", "missing": true};
   }
 
 }
@@ -266,6 +268,7 @@ labelMapper.addEntry('hoog-risico-ai-systeem', 'Hoog risico AI Systeem', 'risico
 labelMapper.addEntry('geen-hoog-risico-ai-systeem', 'Geen hoog-risico AI Systeem', 'risicogroep', ['Risicogroep-geen hoog-risico AI']);
 labelMapper.addEntry('verboden-ai', 'Verboden AI', 'risicogroep', ['Risicogroep-Verboden AI']);
 labelMapper.addEntry('uitzondering-van-toepassing', 'Uitzondering van toepassing', 'risicogroep', ["Risicogroep-uitzondering van toepassing"]);
+labelMapper.addEntry('niet-van-toepassing', 'Niet van toepassing', 'risicogroep', ["Risicogroep-niet van toepassing"]);
 
 labelMapper.addEntry('aanbieder', 'Aanbieder', 'rol-ai-act', ["Rol-aanbieder"]);
 labelMapper.addEntry('gebruiksverantwoordelijke', 'Gebruiksverantwoordelijke', 'rol-ai-act', ["Rol-gebruiksverantwoordelijke"])
@@ -275,7 +278,7 @@ labelMapper.addEntry('distributeur', 'Distributeur', 'rol-ai-act', ["Rol-distrib
 labelMapper.addEntry('ai-systeem', 'AI Systeem', 'soort-toepassing', ['Soort toepassing-AI-Systeem']);
 labelMapper.addEntry('ai-systeem-voor-algemene-doeleinden', 'AI Systeem voor algemene doeleinden', 'soort-toepassing', ['Soort toepassing-AI-Systeem voor algemene doeleinden']);
 labelMapper.addEntry('ai-model-voor-algemene-doeleinden', 'AI model voor algemen doeleinden', 'soort-toepassing', ['Soort toepassing-AI-model voor algemene doeleinden']);
-labelMapper.addEntry('impactvol-algoritme', 'Impactvol algoritme', 'soort-toepassing', ["Soort toepassing-impactvol-algoritme"]);
+labelMapper.addEntry('impactvol-algoritme', 'Impactvol algoritme', 'soort-toepassing', ["Soort toepassing-impactvol algoritme"]);
 labelMapper.addEntry('niet-impactvol-algoritme', 'Niet-impactvol algoritme', 'soort-toepassing', ["Soort toepassing-niet-impactvol algoritme"]);
 
 labelMapper.addEntry('transparantieverplichting', 'Transparantieverplichting', 'transparantieverplichting', ["Transparantieverplichting-transparantieverplichting"]);

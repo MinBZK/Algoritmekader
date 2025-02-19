@@ -176,13 +176,6 @@ function filterTable() {
             var txtValue3 = lc.textContent || lc.innerText; // Levenscyclus value
             var txtValue4 = onderwerpen.textContent || onderwerpen.innerText; // Onderwerpen value
 
-            if (tr[i].getElementsByTagName("td")[2].querySelectorAll(".debug").length === 0) {
-                tr[i].getElementsByTagName("td")[2].innerHTML += "<div class='debug'></div>";
-            }
-            let debugDiv = tr[i].getElementsByTagName("td")[2].querySelectorAll(".debug")[0];
-
-            // console.log(`Row ${i} values: `, { txtValue, txtValue2, txtValue3, txtValue4 });
-
             // Check if all selected filters are present
             var roleMatch = selectedRoles.every(role => txtValue2.toUpperCase().indexOf(role) > -1);
             var lcMatch = selectedLevenscyclus.every(lc => txtValue3.toUpperCase().indexOf(lc) > -1);
@@ -190,25 +183,10 @@ function filterTable() {
             var labelMatch = labelMatchConditions === "" || labelsToFilterOn.length === 0 || evaluateLabelExpression(labelMatchConditions, labelsToFilterOn);
             var uitzonderingMatch = anyExpressionMatches(uitzonderingMatchConditions, labelsInput);
 
-            debugDiv.innerHTML = "";
-            debugDiv.innerHTML += "Match condition: " + labelMatchConditions + "<br/><br/>";
-            debugDiv.innerHTML += "Uitzondering condition: " + uitzonderingMatchConditions + "<br/><br/>";
-            debugDiv.innerHTML += "Current labels: " + labelsToFilterOn + "<br/><br/>";
-
-            if (uitzonderingMatch && labelMatch) {
-                tr[i].style.backgroundColor = "rgba(249, 105, 14, 0.15)";
-                labelMatch = false
-            } else if (labelMatch && labelMatchConditions !== "" && labelsToFilterOn.length > 0) {
-                tr[i].style.backgroundColor = "rgba(0, 255, 0, 0.15)";
-            } else {
-                tr[i].style.backgroundColor = "rgba(0, 0, 255, 0.15)";
-            }
-
             if (txtValue.toUpperCase().indexOf(filter) > -1 && roleMatch && lcMatch && onderwerpMatch && labelMatch) {
                 tr[i].style.display = "";
             } else {
-                tr[i].style.backgroundColor = "red";
-                // tr[i].style.display = "none";
+                tr[i].style.display = "none";
             }
         }
     }

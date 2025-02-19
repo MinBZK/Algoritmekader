@@ -60,11 +60,11 @@ Geen beschikbare bron voor deze maatregel.
 	 
 	Het in 2023 gepubliceerde ‘AI ethics maturity model' door Krijger, Thuis, de Ruiter, Ligthart & Broekman gebruikt zes categorieën om volwassenheid op verschillende niveaus in kaart te brengen. Dit model focust zich met name op het ethische aspect van volwassenheid met als categorieën: _awareness & culture_, _policy_, _governance_, _communication & training_, _development process_ en _tooling_. Er zijn vijf verschillende niveaus waar iedere categorie onder kan vallen om zo volwassenheid aan te geven.
 	
-	Bron: [The AI ethics maturity model]( https://link.springer.com/article/10.1007/s43681-022-00228-7) 
+	Bron: [The AI ethics maturity model](https://link.springer.com/article/10.1007/s43681-022-00228-7)
 
 
 
- !!! example "Voorbeeld: MITRE - AI Maturity Model en Organizational Assessment Tool"
+!!! example "Voorbeeld: MITRE - AI Maturity Model en Organizational Assessment Tool"
 	
 	MITRE is een Amerikaanse non-profitorganisatie en enigzins vergelijkbaar met het Nederlandse TNO. Zij hebben een AI Maturity Model en de bijbehorende Organizational Assessment Tool ontwikkeld. Dit volwassenheidsmodel onderscheidt een zestal pijlers in de AI volwassenheid van een organisatie en daarbij een vijftal volwassenheidsniveaus.  In dit document wordt ook toegelicht hoe een organisatie van een niveau naar het volgende kan ontwikkelen. Daarnaast wordt dit ook op individuele pijlers uitgelegd.
 	
@@ -74,7 +74,7 @@ Geen beschikbare bron voor deze maatregel.
 
 
 
- !!! example "Voorbeeld: Rijksorganisatie voor Ontwikkeling, Digitalisering en Innovatie - Innovatie Maturity Scan"
+!!! example "Voorbeeld: Rijksorganisatie voor Ontwikkeling, Digitalisering en Innovatie - Innovatie Maturity Scan"
  
 	De Rijksorganisatie voor Ontwikkeling, Digitalisering en Innovatie (ODI) heeft een Innovatie Maturity Scan gemaakt om de innovatievolwassenheid van een organisatie te meten. Omdat het gebruik van algoritmes vaak gezien wordt als vorm van innovatie is dit ook een interessant model om naar te kijken.
 	
@@ -85,7 +85,7 @@ Geen beschikbare bron voor deze maatregel.
 
 
 
- !!! example "Practice: Provincie Overijsel - Implementatiestrategie Digitale-Ethiek"
+!!! example "Practice: Provincie Overijsel - Implementatiestrategie Digitale-Ethiek"
 	
 	Provincie Overijsel heeft in hun implementiestrategie Digitale Ethiek verschillende zaken opgenomen, waaronder een volwassenheidsmodel. Hierin focussen zij zich op het toekomstbestendig maken van de provincie met de notie dat het hoogste niveau voor hen op dit moment te hoog gegrepen is. Zij geven zo dus duidelijk aan welke niveaus zij haalbaar achten en geven concrete voorbeelden over hoe zij dit aan willen pakken.
 	

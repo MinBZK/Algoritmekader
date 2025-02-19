@@ -38,6 +38,10 @@ Het is erg moeilijk om discriminerende effecten te voorkomen. Discriminatiegrond
 ## Profilering
 Veel organisaties gebruiken risicoprofilering als hulpmiddel om regels te handhaven. Dit gebruik van risicoprofilering kan leiden tot discriminerende effecten. Het gebruik van risicoprofilering vraagt om een zorgvuldige aanpak om nadelige effecten te voorkomen. Om organisaties hier mee te helpen, heeft het College voor de Rechten van de Mens een gedetailleerd [toetsingskader voor risicoprofilering](https://publicaties.mensenrechten.nl/publicatie/4093c026-ae41-4c1d-aa78-4ce0e205b5de) ontwikkeld om discriminatie op grond van ras en nationaliteit te voorkomen. 
 
+!!! tip "Tip"
+
+    Meer weten over dit onderwerp? Of wil je dat collega's meer weten over dit onderwerp? Volg de [e-learning non-discriminatie in algoritmes en data](https://www.it-academieoverheid.nl/actueel/nieuws/2024/10/29/nieuwe-radio-e-learning-non-discriminatie), ontwikkeld door het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. 
+
 ## Herken bias
 Bias herkennen is een belangrijke stap in het voorkomen van discriminerende effecten van algoritmes.
 

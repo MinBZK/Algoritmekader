@@ -3,7 +3,7 @@ function updateFieldsBasedOnType(selectedType) {
   const riskGroupField = document.getElementById('risk-group');
   const transparencyField = document.getElementById('transparency-obligations');
   const systemicRiskField = document.getElementById('systemic-risk');
-  
+
   // Get their parent rows
   const riskGroupRow = riskGroupField.closest('.form__row');
   const transparencyRow = transparencyField.closest('.form__row');
@@ -55,7 +55,7 @@ function initializeTooltips() {
       tooltipDiv.className = 'tooltip';
       tooltipDiv.textContent = tooltipText;
       document.body.appendChild(tooltipDiv);
-      
+
       const rect = e.target.getBoundingClientRect();
       tooltipDiv.style.top = `${rect.top - tooltipDiv.offsetHeight - 5}px`;
       tooltipDiv.style.left = `${rect.left + (rect.width / 2) - (tooltipDiv.offsetWidth / 2)}px`;
@@ -141,18 +141,8 @@ function updateLabels(labels) {
   const convertedLabels = convertLabels(labels);
   document.getElementById("ai-act-info-with-labels").classList.remove("display-none");
   document.getElementById("ai-act-info-no-labels").classList.add("display-none");
+  // appendQueryParams({"labels": convertedLabels.map(obj=> obj.label).join(",")});
   document.getElementById('labelsInput').value = convertedLabels.map(obj => obj.label).join(",");
-
-  // Filter out 'niet-van-toepassing' labels and create a unique set based on display_value
-  const uniqueLabels = new Map(); // Using Map to maintain order
-  
-  convertedLabels.forEach(label_obj => {
-      // Skip 'niet-van-toepassing' labels
-      if (!label_obj.label.endsWith('-niet-van-toepassing')) {
-          // Use display_value as key to prevent duplicates
-          uniqueLabels.set(label_obj.display_value, label_obj);
-      }
-  });
 
   let labelsHTML = "";
   for (const label_obj of uniqueLabels.values()) {
@@ -164,38 +154,20 @@ function updateLabels(labels) {
 }
 function getLabelsFromForm(el) {
   const formData = new FormData(el);
-  const labels = [];
-  
-  // Get all select elements in the form
-  const selects = el.querySelectorAll('select');
-  
-  // Process each select
-  selects.forEach(select => {
-      const name = select.getAttribute('name');
-      // If nothing is selected, add the "niet-van-toepassing" value
-      if (!select.value) {
-          labels.push(`${name}-niet-van-toepassing`);
-      } else {
-          // Add the selected value
-          labels.push(`${name}-${select.value}`);
-      }
-  });
 
-  // Process checkboxes (for roles)
+  const labels = [];
   const uniqueKeys = [...new Set(formData.keys())];
+
   for (const key of uniqueKeys) {
-      // Only process non-select fields (i.e., checkboxes)
-      if (!key.endsWith('select')) {
-          formData.getAll(key).forEach(value => {
-              if (value.trim() !== '') {
-                  labels.push(`${key}-${value}`);
-              }
-          });
+    formData.getAll(key).forEach(value => {
+      if (value.trim() !== '') {
+        labels.push(`${key}-${value}`);
       }
+    });
   }
 
   if (labels.length > 0) {
-      updateLabels(labels);
+    updateLabels(labels);
   } else {
       document.getElementById("ai-act-info-with-labels").classList.add("display-none");
       document.getElementById("ai-act-info-no-labels").classList.remove("display-none");
@@ -312,6 +284,7 @@ labelMapper.addEntry('geen-transparantieverplichting', 'Geen transparantieverpli
 
 labelMapper.addEntry('systeemrisico', 'Systeemrisico', 'systeemrisico', []);
 labelMapper.addEntry('geen-systeemrisico', 'Geen systeemrisico', 'systeemrisico', []);
+labelMapper.addEntry('niet-van-toepassing', 'Niet van toepassing', 'systeemrisico', []);
 
 labelMapper.addEntry('open-source', 'Open source', 'open-source', []);
 labelMapper.addEntry('geen-open-source', 'Geen open source', 'open-source', []);

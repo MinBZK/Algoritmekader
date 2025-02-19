@@ -36,8 +36,8 @@ open-source:
 - geen-open-source
 - niet-van-toepassing
 uitzondering: 
-- uitzondering-van-toepassing
-- ("ai-systeem-voor-algemene-doeleinden" || "ai-systeem") && "open-source" && "geen-transparantieverplichting" && "geen-hoog-risico-ai-systeem"
+- risicogroep-uitzondering-van-toepassing
+- ("soort-toepassing-ai-systeem-voor-algemene-doeleinden" || "soort-toepassing-ai-systeem") && "open-source-open-source" && "transparantieverplichting-geen-transparantieverplichting" && "risicogroep-geen-hoog-risico-ai-systeem"
 hide:
 - navigation
 ---

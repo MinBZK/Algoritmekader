@@ -40,11 +40,16 @@ Dit is mede afhankelijk van de bijbehorende [risicogroepen](../ai-verordening.md
 
 Gebruik de [beslishulp](https://ai-verordening-beslishulp.apps.digilab.network/) om de risicobepaling van jouw toepassing te bepalen.
 
-Let op dat niet enkel naar de AI-verordening wordt gekeken. Ook op impactvolle algoritmes die niet vallen onder het bereik van de AI-Verordening zijn vereisten van toepassing. Zie hiervoor de [Handreiking Algoritmeregister](https://www.digitaleoverheid.nl/wp-content/uploads/sites/8/2023/12/Handreiking-Algoritmeregister-versie-1.0.pdf). 
+Let op dat niet enkel naar de AI-verordening wordt gekeken. Ook op impactvolle algoritmes die niet vallen onder het bereik van de AI-verordening zijn vereisten van toepassing. Zie hiervoor de [Handreiking Algoritmeregister](https://www.digitaleoverheid.nl/wp-content/uploads/sites/8/2023/12/Handreiking-Algoritmeregister-versie-1.0.pdf). 
 
 Deze stap is van groot belang, omdat dit bijvoorbeeld voor ontwikkelteams mede bepalend is waar het te ontwikkelen systeem aan moet voldoen of welke contractuele verplichtingen moeten worden gecreëerd tussen opdrachtgever en aanbieder van algoritmes.
 
 Je kan ook de [Gids AI-verordening](https://www.rijksoverheid.nl/documenten/brochures/2024/10/16/gids-ai-verordening) gebruiken om te bepalen wat de AI-verordening betekent voor jouw organisatie of toepassing. 
+
+!!! tip "Tip"
+
+    De Europese Commissie publiceerde in februari 2025 [extra guidance over de definitie van een AI-systeem](https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-ai-system-definition-facilitate-first-ai-acts-rules-application). De richtlijnen over de definitie van het AI-systeem geven uitleg over de praktische toepassing van het wettelijke concept, zoals verankerd in de AI-verordening. 
+
 
 ## Risico
 Als de risicogroep waar een algoritme bij hoort niet wordt bepaald is er een risico op het niet naleven van de AI-verordening wat kan leiden tot sancties of boetes. 
@@ -61,7 +66,8 @@ Als de risicogroep waar een algoritme bij hoort niet wordt bepaald is er een ris
 - [Beslishulp AI-verordening](https://ai-verordening-beslishulp.apps.digilab.network/)
 - [Handreiking Algoritmeregister](https://www.digitaleoverheid.nl/document/handreiking-algoritmeregister/)
 - [Gids AI-verordening](https://www.rijksoverheid.nl/documenten/brochures/2024/10/16/gids-ai-verordening)
-
+- [Guidelines on the definition of an artificial intelligence system, Europese Commissie](https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-ai-system-definition-facilitate-first-ai-acts-rules-application)
+  
 ## Voorbeelden
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
 

@@ -41,11 +41,11 @@ Doorloop voor iedere potentiële indicator de volgende stappen:
     - De [Algemene Wet Gelijke Behandeling](https://wetten.overheid.nl/BWBR0006502/2020-01-01) verbiedt het directe onderscheid op basis van verschillende kenmerken die bijvoorbeeld relatie hebben met ras of nationaliteit.
     - De [Algemene Verordening Gegevensbescherming](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/avg-algemeen/de-avg-in-het-kort) verbiedt het onrechtmatig verwerking van persoonsgegevens. 
 
-2. Ga na of de variabele of indicator een *inhoudelijk* verband heeft met het [beoogde doel](1-pba-02-formuleren-doelstelling.md). Een correlatie in de data is in veel gevallen niet voldoende om het gebruik te rechtvaardigen. 
+2. Ga na of de variabele of indicator een proxy is voor [kwetsbare groepen](2-owp-08-kwetsbare-groepen.md). Controleer bijvoorbeeld of er een correlatie bestaat tussen de variabele en nationaliteit of ras, of maak gebruik van bestaande (wetenschappelijke) inzichten uit bijvoorbeeld openbare data. Wanneer je data wilt verwerken om deze proxy's te onderzoeken, houdt dan rekening met geldende wet- en regelgeving. Het verzamelen en verwerken van data over kwetsbare groepen kan in strijd zijn met privacy vereisten uit bijvoorbeeld de Algemene Verordening Gegevensbescherming. Het is daarom van belang om duidelijk afwegingen te maken tussen privacy en het analyseren van proxy's die rekening houdt met de juridische en ethische vereisten.
 
-3. Ga na of de variabele of indicator een proxy is voor [kwetsbare groepen](2-owp-08-kwetsbare-groepen.md). Controleer bijvoorbeeld of er een correlatie bestaat tussen de variabele en nationaliteit of ras.
+3. Bepaal of de [datakwaliteit](3-dat-01-datakwaliteit.md) van de variabele of indicator voldoende is. Bepaal of de beschikbare data voldoende representatief is voor het fenomeen dat bedoeld wordt.   
 
-4. Bepaal of de [datakwaliteit](3-dat-01-datakwaliteit.md) van de variabele of indicator voldoende is. Bepaal of de beschikbare data voldoende representatief is voor het fenomeen dat bedoeld wordt.   
+4. Ga na of de variabele of indicator een *inhoudelijk* verband heeft met het [beoogde doel](1-pba-02-formuleren-doelstelling.md). Naast een statistisch verband kan ook een inhoudelijk verband bijdragen om het gebruik van de indicator te rechtvaardigen. 
 
 5. Ga na of de variabele of indicator een *statistisch* verband heeft met het [beoogde doel](1-pba-02-formuleren-doelstelling.md). Maak hiervoor gebruik van een [aselecte steekproef](6-imp-02-aselecte-steekproeven.md) uit de relevante populatie om de hypothese dat de variabele verband heeft met het beoogde doel statistisch te toetsen. Toets of dit verband significant is. 
 
@@ -59,8 +59,7 @@ Indien de variabelen niet voldoende worden getoetst op geschikheid bestaat het r
 ## Bronnen
 - [Toetsingskader risicoprofilering – Normen tegen discriminatie op grond van ras en nationaliteit, College voor de Rechten van de Mens](../hulpmiddelen/toetsingskader-risicoprofilering.md)
 - [Advies geautomatiseerde besluitvorming, Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/documenten/advies-geautomatiseerde-besluitvorming)
-- [Publieke standaard profileringsalgoritme, Algorithm Audit](https://algorithmaudit.eu/nl/knowledge-platform/knowledge-base/public_standard_profiling/)
-
+  
 ## Voorbeeld
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
 

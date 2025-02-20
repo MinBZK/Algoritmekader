@@ -2,13 +2,20 @@
 .filter-container {
   display: flex;
   flex-wrap: wrap;
-  gap: 16px; 
+  gap: 16px;
   max-width: 100%;
   box-sizing: border-box;
-  align-items: flex-start; 
+  align-items: flex-start;
   justify-content: flex-start;
 }
 
+.filter-container.info {
+  display: none; /* Hidden by default */
+}
+
+.filter-container.info:has(> *:not([type="hidden"])) {
+  display: flex; /* Show only when there are visible filter elements */
+}
 /* Style each filter item */
 .filter-item {
   flex: 0 1 250px; 

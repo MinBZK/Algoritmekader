@@ -41,7 +41,7 @@ hide:
 
     Belangrijkste deadlines uit de AI-verordening met de vereisten waaraan je moet voldoen.    
 
--   [**__<a href="vereisten/index.html" onclick="showModalWithRedirect(event, 'beslishulp', 'vereisten/index.html');">Beslishulp AI-verordening</a>__**](vereisten/index.html)
+-   [**__<a href="vereisten/index.html" onclick="showModalWithRedirect(event, 'beslishulp', 'vereisten/index.html');">Beslishulp AI-verordening</a>__**](vereisten/index.md)
 
     ---
 

@@ -163,7 +163,6 @@ function loadHTML(url, targetDivId) {
     });
 }
 
-
 function updateLabels(labels) {
   const allLabels = labels.map(label => labelMapper.find(label));
   // ignore groups not used by AK at the moment
@@ -369,3 +368,4 @@ document.addEventListener('DOMContentLoaded', () => {
       }
   }
 });
+

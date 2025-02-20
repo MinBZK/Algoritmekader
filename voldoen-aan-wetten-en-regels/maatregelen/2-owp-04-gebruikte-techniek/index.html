@@ -23,15 +23,15 @@
       
       
       <link rel="icon" href="../../../assets/favicon.ico">
-      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.1+insiders-4.53.15">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.4+insiders-4.53.15">
     
     
       
-        <title>Beschrijf welke techniek gebruikt wordt voor de beoogde toepassing - Algoritmekader 2.0</title>
+        <title>Beschrijf welke techniek gebruikt wordt voor de beoogde toepassing - Algoritmekader 2.1</title>
       
     
     
-      <link rel="stylesheet" href="../../../assets/stylesheets/main.6f50c755.min.css">
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.f15084e1.min.css">
       
         
         <link rel="stylesheet" href="../../../assets/stylesheets/palette.ab4e12ef.min.css">
@@ -61,9 +61,11 @@
     
       <link rel="stylesheet" href="../../../stylesheets/footer.css">
     
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+      <link rel="stylesheet" href="../../../stylesheets/all.min.css">
     
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/choices.js/public/assets/styles/choices.min.css">
+      <link rel="stylesheet" href="../../../stylesheets/choices.min.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/modal.css">
     
     <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
@@ -113,7 +115,7 @@
 
 <header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
-    <a href="../../.." title="Algoritmekader 2.0" class="md-header__button md-logo" aria-label="Algoritmekader 2.0" data-md-component="logo">
+    <a href="../../.." title="Algoritmekader 2.1" class="md-header__button md-logo" aria-label="Algoritmekader 2.1" data-md-component="logo">
       
   <img src="../../../assets/logo.svg" alt="logo">
 
@@ -126,7 +128,7 @@
       <div class="md-header__ellipsis">
         <div class="md-header__topic">
           <span class="md-ellipsis">
-            Algoritmekader 2.0
+            Algoritmekader 2.1
           </span>
         </div>
         <div class="md-header__topic" data-md-component="header-topic">
@@ -352,12 +354,12 @@
 
 <nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigatie" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="../../.." title="Algoritmekader 2.0" class="md-nav__button md-logo" aria-label="Algoritmekader 2.0" data-md-component="logo">
+    <a href="../../.." title="Algoritmekader 2.1" class="md-nav__button md-logo" aria-label="Algoritmekader 2.1" data-md-component="logo">
       
   <img src="../../../assets/logo.svg" alt="logo">
 
     </a>
-    Algoritmekader 2.0
+    Algoritmekader 2.1
   </label>
   
     <div class="md-nav__source">
@@ -385,6 +387,8 @@
       
         
           
+        
+      
         
       
         
@@ -502,6 +506,8 @@
       
         
           
+        
+      
         
       
         
@@ -645,6 +651,10 @@
           
         
       
+        
+      
+        
+      
     
     
       
@@ -735,17 +745,6 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#voorbeeld" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Voorbeeld
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#risico" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -772,6 +771,17 @@
     <span class="md-ellipsis">
       
         Bronnen
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#voorbeelden" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Voorbeelden
       
     </span>
   </a>
@@ -868,7 +878,7 @@
 <p>Beschrijf vervolgens ook:</p>
 <ul>
 <li>waarom er voor dit type algoritme wordt gekozen</li>
-<li>wat de alternatieven zijn en waarom die minder passend zijn?</li>
+<li>wat de alternatieven zijn en waarom die minder passend zijn</li>
 <li>waarom dit algoritme het meest geschikt is om het <a href="../1-pba-02-formuleren-doelstelling/">beoogde doel</a> van het algoritme te bereiken. </li>
 </ul>
 </li>
@@ -876,18 +886,41 @@
 <p>De precieze details kunnen in dit stadium van de levenscyclus waarschijnlijk nog niet ingevuld worden. Maak een goede eerste inschatting van de gebruikte techniek. Eventueel kan je er ook voor kiezen om verschillende technieken verder te onderzoeken. Dat betekent dat er meerdere algoritmes ontwikkeld worden (op basis van verschillende technieken), en je later een definitieve keuze maakt. </p>
 </li>
 <li>
-<p>Het is belangrijk om uiteindelijk een passend uitlegbaar algoritme te selecteren voor de context waarin het wordt toegepast. Daarin moet de afweging gemaakt worden of de technische <a href="../2-owp-33-toepassen-uitlegbaarheidstechnieken/">uitlegbaarheid</a> voldoende is in de context die de inzet van het algoritme vereist. Hierbij kan ook de conclusie worden getrokken dat een simpeler, inzichtelijker algoritme de voorkeur krijgt. </p>
+<p>Het is belangrijk om uiteindelijk een passend uitlegbaar algoritme te selecteren voor de context waarin het wordt toegepast. Daarin moet de afweging gemaakt worden of de technische <a href="../2-owp-32-toepassen-uitlegbaarheidstechnieken/">uitlegbaarheid</a> voldoende is in de context die de inzet van het algoritme vereist. Hierbij kan ook de conclusie worden getrokken dat een simpeler, inzichtelijker algoritme de voorkeur krijgt. </p>
+</li>
+<li>
+<p>Maak hierbij een bewuste afweging tussen <a href="../2-owp-32-toepassen-uitlegbaarheidstechnieken/">uitlegbaarheid</a> en <a href="../5-ver-02-evalueer-nauwkeurigheid/">prestaties</a> van het algoritme. Over het algemeen geldt dat complexere maar minder uitlegbare algoritmes nauwkeuriger zijn. </p>
+</li>
+<li>
+<p>Veel (statistische) modellen zijn gebaseerd op (statistische) aannames over bijvoorbeeld eigenschappen van de data. Ga na of er aan deze aannames wordt voldaan. </p>
 </li>
 </ul>
-<h2 id="voorbeeld">Voorbeeld</h2>
 <h2 id="risico">Risico</h2>
+<p>Wanneer je geen zorgvuldige afweging maakt over de techniek die je gebruikt om het doel te bereiken, dan is het niet duidelijk of de meest geschikte techniek wordt gebruikt. Mogelijk zijn er passendere oplossingen om het doel te bereiken. </p>
 <h2 id="bijbehorende-vereisten">Bijbehorende vereiste(n)</h2>
 <details class="expander">
 <summary>Bekijk alle vereisten</summary>
-<table><thead><tr><th>Vereiste</th></tr></thead><tbody><tr><td><a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/awb-01-zorgvuldigheidsbeginsel/">awb-01 - Organisaties die algoritmes gebruiken voor publieke taken nemen besluiten zorgvuldig.</a></td></tr><tr><td><a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/aia-06-technische-documentatie/">aia-06 - Hoog-risico-AI-systemen zijn voorzien van voldoende technische documentatie.</a></td></tr><tr><td><a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging/">aia-10 - Hoog-risico-AI-systemen zijn voldoende nauwkeurig, robuust en cyberveilig.</a></td></tr></tbody></table>
+<table><thead><tr><th>Vereiste</th></tr></thead><tbody><tr><td><a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/awb-01-zorgvuldigheidsbeginsel/">awb-01 - Organisaties die algoritmes gebruiken voor publieke taken nemen besluiten zorgvuldig</a></td></tr><tr><td><a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/aia-06-technische-documentatie/">aia-06 - Hoog-risico-AI-systemen zijn voorzien van voldoende technische documentatie</a></td></tr><tr><td><a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging/">aia-10 - Hoog-risico-AI-systemen zijn voldoende nauwkeurig, robuust en cyberveilig</a></td></tr></tbody></table>
 </details>
 <h2 id="bronnen">Bronnen</h2>
-<p><a href="../../hulpmiddelen/IAMA/">Impact Assessment Mensenrechten en Algoritmes, 2A.1, 2B.1</a></p>
+<ul>
+<li><a href="../../hulpmiddelen/IAMA/">Impact Assessment Mensenrechten en Algoritmes, 2A.1, 2B.1</a></li>
+<li><a href="https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023">Onderzoekskader Auditdienst Rijk, DM.2</a></li>
+<li><a href="https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag">Toetsingskader Algemene Rekenkamer, 2.04, 2.17</a></li>
+</ul>
+<h2 id="voorbeelden">Voorbeelden</h2>
+<div class="admonition example">
+<p class="admonition-title">Douane: Risico detectie aangiften</p>
+<p>De douane maakt gebruik van een algoritme om te selecteren welke goederen een (extra) controle krijgen. Dit wordt gedaan op basis van aangiftegegevens van bedrijven waarmee mogelijk verhoogde risico’s worden aangegeven. In het algoritmeregister geven zij aan dat dit algoritme gebruik maakt van beslisregels gebaseerd op “if-then-else” combinaties. Zij geven aan dat gedaan wordt om zo aangiften efficiënter te kunnen behandelen en dus mogelijk sneller vrijgegeven kunnen worden.</p>
+<p>Bron: Detecteren risico’s in douaneaangiften voor naleving opiumwetontheffing - Douane</p>
+</div>
+<div class="admonition example">
+<p class="admonition-title">Provincie Zuid-Holland: Webapplicatie Impactmonitor Brugopening</p>
+<p>De Provincie Zuid-Holland (PZH) maakt gebruik van een webapplicatie om brugbedieners te ondersteunen bij het optimale moment kiezen voor het openen van de brug. De applicatie voorspelt tot 21 minuten in de toekomst en houd rekening met verkeersdoorstroom en uitstoot.
+In het algoritmeregister hebben zij in detail uitgelegd welke technieken gebruikt worden. Zij maken gebruik van <em>Recurring Neural Networks</em> (RNNs), een specifieke vorm van Artificiële Neurale Netwerken. Deze worden getraind op tijdserie data wat in dit geval belangrijk is vanwege de afhankelijkheid van drukte op en rondom de brug.</p>
+<p>Bron: <a href="https://algoritmes.overheid.nl/nl/algoritme/webapplicatie-impactmonitor-brugopening-provincie-zuidholland/96895333">Webapplicatie Impactmonitor Brugopening - Provincie Zuid-Holland</a></p>
+</div>
+<p>Heb je een ander voorbeeld of best practice, laat het ons weten via <a href="mailto:algoritmes@minbzk.nl">algoritmes@minbzk.nl</a></p>
 
 
 
@@ -910,7 +943,7 @@
     <span class="md-icon" title="Laatst geüpdatet">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">19 december 2024</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">17 februari 2025</span>
   </span>
 
     
@@ -962,9 +995,9 @@
       <!-- Right Section: Links in Columns -->
       <div class="md-footer__links">
         <div class="md-footer__column">
-          <a href="/Algoritmekader/overhetalgoritmekader/">Over het Algoritmekader</a>
+          <a href="/Algoritmekader/overhetalgoritmekader/over-het-algoritmekader/">Over het Algoritmekader</a>
           <a href="/Algoritmekader/overhetalgoritmekader/CONTRIBUTING/">Meedoen</a>
-          <a href="#">Contact</a>
+          <a href="/Algoritmekader/overhetalgoritmekader/CONTRIBUTING/">Contact</a>
           <a href="#">Privacy</a>
         </div>
         <div class="md-footer__column">
@@ -977,6 +1010,14 @@
       </div>
     </div>
   </footer>
+<div id="modal" class="minbzk-modal display-none">
+  <div class="modal-underlay" onclick="closeModal()"></div>
+  <div class="modal-content-container" id="modal-content-container">
+    <div class="modal-content-close" onclick="closeModal()">&#xd7;</div>
+    <div class="modal-content" id="modal-content">
+  </div>
+  </div>
+</div>
       
     </div>
     <div class="md-dialog" data-md-component="dialog">
@@ -987,19 +1028,21 @@
     <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.indexes", "navigation.tabs", "navigation.tabs.sticky", "navigation.top", "navigation.tracking", "navigation.instant", "navigation.footer", "navigation.prune", "navigation.path", "search.highlight", "search.suggest", "content.tooltips", "content.tabs.link"], "search": "../../../assets/javascripts/workers/search.c7c1ca2c.min.js", "translations": {"clipboard.copied": "Gekopieerd naar klembord", "clipboard.copy": "Kopi\u00ebren naar klembord", "search.result.more.one": "1 extra overeenkomst op deze pagina", "search.result.more.other": "# extra overeenkomsten op deze pagina", "search.result.none": "Geen overeenkomende documenten", "search.result.one": "1 overeenkomende document", "search.result.other": "# overeenkomende documenten", "search.result.placeholder": "Typ om te beginnen met zoeken", "search.result.term.missing": "Ontbreekt", "select.version": "Selecteer versie"}}</script>
     
     
-      <script src="../../../assets/javascripts/bundle.66941efb.min.js"></script>
+      <script src="../../../assets/javascripts/bundle.5a789024.min.js"></script>
       
-        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script src="../../../javascripts/jquery-3.6.0.min.js"></script>
       
-        <script src="https://cdn.jsdelivr.net/npm/choices.js/public/assets/scripts/choices.min.js"></script>
+        <script src="../../../javascripts/choices.min.js"></script>
       
-        <script src="https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js"></script>
+        <script src="../../../javascripts/tablesort.min.js"></script>
       
         <script src="../../../javascripts/tablesort.js"></script>
       
         <script src="../../../javascripts/filtering.js"></script>
       
-        <script src="https://unpkg.com/mermaid@10.9.1/dist/mermaid.min.js"></script>
+        <script src="../../../javascripts/mermaid.min.js"></script>
+      
+        <script src="../../../javascripts/modal.js"></script>
       
     
   <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});

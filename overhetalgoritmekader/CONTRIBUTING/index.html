@@ -23,15 +23,15 @@
       
       
       <link rel="icon" href="../../assets/favicon.ico">
-      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.1+insiders-4.53.15">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.4+insiders-4.53.15">
     
     
       
-        <title>Bijdragen aan het Algoritmekader - Algoritmekader 2.0</title>
+        <title>Bijdragen aan het Algoritmekader - Algoritmekader 2.1</title>
       
     
     
-      <link rel="stylesheet" href="../../assets/stylesheets/main.6f50c755.min.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/main.f15084e1.min.css">
       
         
         <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
@@ -61,9 +61,11 @@
     
       <link rel="stylesheet" href="../../stylesheets/footer.css">
     
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+      <link rel="stylesheet" href="../../stylesheets/all.min.css">
     
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/choices.js/public/assets/styles/choices.min.css">
+      <link rel="stylesheet" href="../../stylesheets/choices.min.css">
+    
+      <link rel="stylesheet" href="../../stylesheets/modal.css">
     
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
@@ -113,7 +115,7 @@
 
 <header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
-    <a href="../.." title="Algoritmekader 2.0" class="md-header__button md-logo" aria-label="Algoritmekader 2.0" data-md-component="logo">
+    <a href="../.." title="Algoritmekader 2.1" class="md-header__button md-logo" aria-label="Algoritmekader 2.1" data-md-component="logo">
       
   <img src="../../assets/logo.svg" alt="logo">
 
@@ -126,7 +128,7 @@
       <div class="md-header__ellipsis">
         <div class="md-header__topic">
           <span class="md-ellipsis">
-            Algoritmekader 2.0
+            Algoritmekader 2.1
           </span>
         </div>
         <div class="md-header__topic" data-md-component="header-topic">
@@ -352,12 +354,12 @@
 
 <nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigatie" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="../.." title="Algoritmekader 2.0" class="md-nav__button md-logo" aria-label="Algoritmekader 2.0" data-md-component="logo">
+    <a href="../.." title="Algoritmekader 2.1" class="md-nav__button md-logo" aria-label="Algoritmekader 2.1" data-md-component="logo">
       
   <img src="../../assets/logo.svg" alt="logo">
 
     </a>
-    Algoritmekader 2.0
+    Algoritmekader 2.1
   </label>
   
     <div class="md-nav__source">
@@ -385,6 +387,8 @@
       
         
           
+        
+      
         
       
         
@@ -502,6 +506,8 @@
       
         
           
+        
+      
         
       
         
@@ -643,6 +649,10 @@
       
         
           
+        
+      
+        
+      
         
       
     
@@ -1128,9 +1138,9 @@ Indien je een nieuwe pagina wilt toevoegen, is het vaak nodig deze wijziging ook
       <!-- Right Section: Links in Columns -->
       <div class="md-footer__links">
         <div class="md-footer__column">
-          <a href="/Algoritmekader/overhetalgoritmekader/">Over het Algoritmekader</a>
+          <a href="/Algoritmekader/overhetalgoritmekader/over-het-algoritmekader/">Over het Algoritmekader</a>
           <a href="/Algoritmekader/overhetalgoritmekader/CONTRIBUTING/">Meedoen</a>
-          <a href="#">Contact</a>
+          <a href="/Algoritmekader/overhetalgoritmekader/CONTRIBUTING/">Contact</a>
           <a href="#">Privacy</a>
         </div>
         <div class="md-footer__column">
@@ -1143,6 +1153,14 @@ Indien je een nieuwe pagina wilt toevoegen, is het vaak nodig deze wijziging ook
       </div>
     </div>
   </footer>
+<div id="modal" class="minbzk-modal display-none">
+  <div class="modal-underlay" onclick="closeModal()"></div>
+  <div class="modal-content-container" id="modal-content-container">
+    <div class="modal-content-close" onclick="closeModal()">&#xd7;</div>
+    <div class="modal-content" id="modal-content">
+  </div>
+  </div>
+</div>
       
     </div>
     <div class="md-dialog" data-md-component="dialog">
@@ -1153,19 +1171,21 @@ Indien je een nieuwe pagina wilt toevoegen, is het vaak nodig deze wijziging ook
     <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.indexes", "navigation.tabs", "navigation.tabs.sticky", "navigation.top", "navigation.tracking", "navigation.instant", "navigation.footer", "navigation.prune", "navigation.path", "search.highlight", "search.suggest", "content.tooltips", "content.tabs.link"], "search": "../../assets/javascripts/workers/search.c7c1ca2c.min.js", "translations": {"clipboard.copied": "Gekopieerd naar klembord", "clipboard.copy": "Kopi\u00ebren naar klembord", "search.result.more.one": "1 extra overeenkomst op deze pagina", "search.result.more.other": "# extra overeenkomsten op deze pagina", "search.result.none": "Geen overeenkomende documenten", "search.result.one": "1 overeenkomende document", "search.result.other": "# overeenkomende documenten", "search.result.placeholder": "Typ om te beginnen met zoeken", "search.result.term.missing": "Ontbreekt", "select.version": "Selecteer versie"}}</script>
     
     
-      <script src="../../assets/javascripts/bundle.66941efb.min.js"></script>
+      <script src="../../assets/javascripts/bundle.5a789024.min.js"></script>
       
-        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script src="../../javascripts/jquery-3.6.0.min.js"></script>
       
-        <script src="https://cdn.jsdelivr.net/npm/choices.js/public/assets/scripts/choices.min.js"></script>
+        <script src="../../javascripts/choices.min.js"></script>
       
-        <script src="https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js"></script>
+        <script src="../../javascripts/tablesort.min.js"></script>
       
         <script src="../../javascripts/tablesort.js"></script>
       
         <script src="../../javascripts/filtering.js"></script>
       
-        <script src="https://unpkg.com/mermaid@10.9.1/dist/mermaid.min.js"></script>
+        <script src="../../javascripts/mermaid.min.js"></script>
+      
+        <script src="../../javascripts/modal.js"></script>
       
     
   <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});

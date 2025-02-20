@@ -23,15 +23,15 @@
       
       
       <link rel="icon" href="../../../assets/favicon.ico">
-      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.1+insiders-4.53.15">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.4+insiders-4.53.15">
     
     
       
-        <title>Evalueer de nauwkeurigheid van het algoritme - Algoritmekader 2.0</title>
+        <title>Evalueer de nauwkeurigheid van het algoritme - Algoritmekader 2.1</title>
       
     
     
-      <link rel="stylesheet" href="../../../assets/stylesheets/main.6f50c755.min.css">
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.f15084e1.min.css">
       
         
         <link rel="stylesheet" href="../../../assets/stylesheets/palette.ab4e12ef.min.css">
@@ -61,9 +61,11 @@
     
       <link rel="stylesheet" href="../../../stylesheets/footer.css">
     
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+      <link rel="stylesheet" href="../../../stylesheets/all.min.css">
     
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/choices.js/public/assets/styles/choices.min.css">
+      <link rel="stylesheet" href="../../../stylesheets/choices.min.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/modal.css">
     
     <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
@@ -113,7 +115,7 @@
 
 <header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
-    <a href="../../.." title="Algoritmekader 2.0" class="md-header__button md-logo" aria-label="Algoritmekader 2.0" data-md-component="logo">
+    <a href="../../.." title="Algoritmekader 2.1" class="md-header__button md-logo" aria-label="Algoritmekader 2.1" data-md-component="logo">
       
   <img src="../../../assets/logo.svg" alt="logo">
 
@@ -126,7 +128,7 @@
       <div class="md-header__ellipsis">
         <div class="md-header__topic">
           <span class="md-ellipsis">
-            Algoritmekader 2.0
+            Algoritmekader 2.1
           </span>
         </div>
         <div class="md-header__topic" data-md-component="header-topic">
@@ -352,12 +354,12 @@
 
 <nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigatie" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="../../.." title="Algoritmekader 2.0" class="md-nav__button md-logo" aria-label="Algoritmekader 2.0" data-md-component="logo">
+    <a href="../../.." title="Algoritmekader 2.1" class="md-nav__button md-logo" aria-label="Algoritmekader 2.1" data-md-component="logo">
       
   <img src="../../../assets/logo.svg" alt="logo">
 
     </a>
-    Algoritmekader 2.0
+    Algoritmekader 2.1
   </label>
   
     <div class="md-nav__source">
@@ -385,6 +387,8 @@
       
         
           
+        
+      
         
       
         
@@ -502,6 +506,8 @@
       
         
           
+        
+      
         
       
         
@@ -645,6 +651,10 @@
           
         
       
+        
+      
+        
+      
     
     
       
@@ -752,10 +762,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#bijbehorende-vereisten" class="md-nav__link">
+  <a href="#risico" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Bijbehorende vereiste(n)
+        Risico
       
     </span>
   </a>
@@ -763,10 +773,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#risico" class="md-nav__link">
+  <a href="#bijbehorende-vereisten" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Risico
+        Bijbehorende vereiste(n)
       
     </span>
   </a>
@@ -785,10 +795,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#voorbeeld" class="md-nav__link">
+  <a href="#voorbeelden" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Voorbeeld
+        Voorbeelden
       
     </span>
   </a>
@@ -880,7 +890,7 @@
 <li>
 <p>Bepaal welke foutmarge acceptabel is:</p>
 <ul>
-<li>Bepaal hoe vaak het algoritme een bepaalde fout maken. Houd rekening met verschillende fouten die gemaakt kunnen worden, zoals <em>false positives</em> en <em>false negatives</em>. Welke fouten zijn erger om te maken? </li>
+<li>Bepaal hoe vaak het algoritme een bepaalde fout maakt. Houd rekening met verschillende fouten die gemaakt kunnen worden, zoals <em>false positives</em> en <em>false negatives</em>. Welke fouten zijn erger om te maken? </li>
 <li>De foutmarge is afhankelijk van <a href="../2-owp-06-impactanalyse/">welke schade wordt veroorzaakt</a> bij onnauwkeurige of foutieve voorspellingen.</li>
 <li>Heb hierbij aandacht voor de afweging tussen nauwkeurigheid en <a href="../5-ver-06-evalueer-betrouwbaarheid/">betrouwbaarheid</a>. Een model met hoge nauwkeurigheid op de testset kan vaak slechter generaliseren naar situaties net buiten de test set (overfitting).</li>
 <li>
@@ -889,12 +899,12 @@
 <li>
 <p>Wanneer de nauwkeurigheid niet voldoende is tijdens de ontwikkelfase kan er besloten worden door te ontwikkelen, andere maatregelen te treffen (bijvoorbeeld in <a href="../../../onderwerpen/menselijke-controle/">menselijke interventies</a>) om het restrisico acceptabel te maken of door <a href="../../../levenscyclus/uitfaseren/">te stoppen met de ontwikkeling van het systeem</a>. </p>
 </li>
-<li>Wanneer monitoring aangeeft dat de nauwkeurigheid onvoldoende is, moet er een passende afweging worden gemaakt om het systeem te verbeteren, dan wel over te gaan op het <a href="../4-owk-02-stopzetten-gebruik/">stoppen van het systeem</a>.</li>
+<li>Wanneer monitoring aangeeft dat de nauwkeurigheid onvoldoende is, moet er een passende afweging worden gemaakt om het systeem te verbeteren dan wel over te gaan op het <a href="../4-owk-02-stopzetten-gebruik/">stoppen van het systeem</a>.</li>
 </ul>
 </li>
 </ul>
 <h3 id="metrieken">Metrieken</h3>
-<p>Afhankelijk van het type algoritme zijn er verschillende metrieken waarmee je de nauwkeurigheid kan meten. Veelgebruikte metrieken zijn:</p>
+<p>Afhankelijk van het type algoritme zijn er verschillende metrieken waarmee je de nauwkeurigheid kan meten. Veelgebruikte metrieken/methoden zijn:</p>
 <ul>
 <li>accuraatheid <em>(accuracy)</em></li>
 <li>precisie <em>(precision)</em></li>
@@ -902,19 +912,37 @@
 <li><em>F1-score</em></li>
 <li><em>mean-squared-error</em></li>
 <li><em>mean-absolute-error</em></li>
+<li><em>ROC-curve</em></li>
 </ul>
-<p>In verschillende omgevingen en onder verschillende datasets moeten de relevante metrieken voor jouw toepassing worden geëvalueerd.</p>
-<h2 id="bijbehorende-vereisten">Bijbehorende vereiste(n)</h2>
-<table><thead><tr><th>Vereiste</th></tr></thead><tbody><tr><td><a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/aia-06-technische-documentatie/">aia-06 - Hoog-risico-AI-systemen zijn voorzien van voldoende technische documentatie.</a></td></tr><tr><td><a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging/">aia-10 - Hoog-risico-AI-systemen zijn voldoende nauwkeurig, robuust en cyberveilig.</a></td></tr><tr><td><a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/awb-01-zorgvuldigheidsbeginsel/">awb-01 - Organisaties die algoritmes gebruiken voor publieke taken nemen besluiten zorgvuldig.</a></td></tr></tbody></table>
-
+<p>Leg vast welke keuze je maakt voor bepaalde metrieken en waarom. In verschillende omgevingen en onder verschillende datasets moeten de relevante metrieken voor jouw toepassing worden geëvalueerd.</p>
 <h2 id="risico">Risico</h2>
 <p>Een onnauwkeurig algoritme geeft de verkeerde uitkomsten waardoor situaties of mogelijk personen verkeerd beoordeeld kunnen worden. </p>
+<h2 id="bijbehorende-vereisten">Bijbehorende vereiste(n)</h2>
+<details class="expander">
+<summary>Bekijk alle vereisten</summary>
+<table><thead><tr><th>Vereiste</th></tr></thead><tbody><tr><td><a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/aia-06-technische-documentatie/">aia-06 - Hoog-risico-AI-systemen zijn voorzien van voldoende technische documentatie</a></td></tr><tr><td><a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging/">aia-10 - Hoog-risico-AI-systemen zijn voldoende nauwkeurig, robuust en cyberveilig</a></td></tr><tr><td><a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/awb-01-zorgvuldigheidsbeginsel/">awb-01 - Organisaties die algoritmes gebruiken voor publieke taken nemen besluiten zorgvuldig</a></td></tr></tbody></table>
+</details>
 <h2 id="bronnen">Bronnen</h2>
 <ul>
 <li><a href="https://digital-strategy.ec.europa.eu/nl/library/ethics-guidelines-trustworthy-ai">Europese Commissie, Ethische richtsnoeren voor betrouwbare KI</a></li>
+<li><a href="https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag">Toetingskader Algemene Rekenkamer, 2.03</a></li>
+<li><a href="https://open.overheid.nl/documenten/61b54381-d331-40ed-8fce-b2883b195f25/file">Onderzoekskader Auditdienst Rijk, DM.1, DM.4</a></li>
 </ul>
-<h2 id="voorbeeld">Voorbeeld</h2>
-<p>Heb jij een goed voorbeeld? Laat het ons weten!</p>
+<h2 id="voorbeelden">Voorbeelden</h2>
+<div class="admonition example">
+<p class="admonition-title">Gemeente Amsterdam – Public Eye</p>
+<p>De gemeente Amsterdam maakt gebruik van een algoritme – Public Eye – om te bepalen hoeveel mensen er op een afbeelding staan. Public Eye wordt gebruikt om te kunnen monitoren hoeveel voetgangers er op plekken in de stad zijn, om zo onveilige situaties en drukte goed te kunnen begeleiden.</p>
+<p>De gemeente geeft aan dat zij een minimum nauwkeurigheid van 70% hanteert om relevante inzichten te krijgen. In de praktijk levert Public Eye een hogere nauwkeurigheid van 90%, afgeleid van trainingsbeelden. Deze data is handmatig geannoteerd door een selecte groep werknemers die dit periodiek doet.</p>
+<p>Bron: <a href="https://algoritmeregister.amsterdam.nl/ai-system/public-eye/231/">Public Eye-Amsterdam Algoritmeregister</a></p>
+</div>
+<div class="admonition example">
+<p class="admonition-title">Gemeente Ede – WOZ-taxatiemodellen</p>
+<p>De gemeente Ede heeft een algoritme in gebruik als ondersteuning bij het bepalen (en controleren) van de WOZ-waarde van woningen. Dit wordt gedaan aan de hand van machine-learning modellen die op basis van onder andere woning- en locatiekenmerken, gecombineerd met markt- en verkoopconditites, de WOZ-waarde kunnen bepalen. Hierbij wordt bepaald welke kenmerken het meeste gewicht hebben voor deze bepaling.</p>
+<p>Om deze uitkomsten te kunnen controleren wordt er aan de hand van ratio's bekeken of het algoritme nauwkeurig werkt (zie afbeelding hieronder). Aan de hand van deze ratio's wordt gecontroleerd of het algoritme aansluit bij het marktniveau. Als de waarden van de ratio's buiten de bandbreedte liggen, wordt de WOZ-waarde aangepast of wordt deze afwijking verder verklaard.</p>
+<p><a class="glightbox" href="https://github.com/user-attachments/assets/8230f572-8836-40ef-9f91-ca8b1143c17a" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="image" src="https://github.com/user-attachments/assets/8230f572-8836-40ef-9f91-ca8b1143c17a" /></a></p>
+<p>Bron: <a href="https://algoritmes.overheid.nl/nl/algoritme/woztaxatiemodellen-gemeente-ede/39323486#werking">WOZ-taxatiemodellen - Gemeente Ede</a></p>
+</div>
+<p>Heb je een ander voorbeeld of best practice, laat het ons weten via <a href="mailto:algoritmes@minbzk.nl">algoritmes@minbzk.nl</a>  </p>
 
 
 
@@ -937,7 +965,7 @@
     <span class="md-icon" title="Laatst geüpdatet">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">19 december 2024</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">19 februari 2025</span>
   </span>
 
     
@@ -989,9 +1017,9 @@
       <!-- Right Section: Links in Columns -->
       <div class="md-footer__links">
         <div class="md-footer__column">
-          <a href="/Algoritmekader/overhetalgoritmekader/">Over het Algoritmekader</a>
+          <a href="/Algoritmekader/overhetalgoritmekader/over-het-algoritmekader/">Over het Algoritmekader</a>
           <a href="/Algoritmekader/overhetalgoritmekader/CONTRIBUTING/">Meedoen</a>
-          <a href="#">Contact</a>
+          <a href="/Algoritmekader/overhetalgoritmekader/CONTRIBUTING/">Contact</a>
           <a href="#">Privacy</a>
         </div>
         <div class="md-footer__column">
@@ -1004,6 +1032,14 @@
       </div>
     </div>
   </footer>
+<div id="modal" class="minbzk-modal display-none">
+  <div class="modal-underlay" onclick="closeModal()"></div>
+  <div class="modal-content-container" id="modal-content-container">
+    <div class="modal-content-close" onclick="closeModal()">&#xd7;</div>
+    <div class="modal-content" id="modal-content">
+  </div>
+  </div>
+</div>
       
     </div>
     <div class="md-dialog" data-md-component="dialog">
@@ -1014,19 +1050,21 @@
     <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.indexes", "navigation.tabs", "navigation.tabs.sticky", "navigation.top", "navigation.tracking", "navigation.instant", "navigation.footer", "navigation.prune", "navigation.path", "search.highlight", "search.suggest", "content.tooltips", "content.tabs.link"], "search": "../../../assets/javascripts/workers/search.c7c1ca2c.min.js", "translations": {"clipboard.copied": "Gekopieerd naar klembord", "clipboard.copy": "Kopi\u00ebren naar klembord", "search.result.more.one": "1 extra overeenkomst op deze pagina", "search.result.more.other": "# extra overeenkomsten op deze pagina", "search.result.none": "Geen overeenkomende documenten", "search.result.one": "1 overeenkomende document", "search.result.other": "# overeenkomende documenten", "search.result.placeholder": "Typ om te beginnen met zoeken", "search.result.term.missing": "Ontbreekt", "select.version": "Selecteer versie"}}</script>
     
     
-      <script src="../../../assets/javascripts/bundle.66941efb.min.js"></script>
+      <script src="../../../assets/javascripts/bundle.5a789024.min.js"></script>
       
-        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script src="../../../javascripts/jquery-3.6.0.min.js"></script>
       
-        <script src="https://cdn.jsdelivr.net/npm/choices.js/public/assets/scripts/choices.min.js"></script>
+        <script src="../../../javascripts/choices.min.js"></script>
       
-        <script src="https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js"></script>
+        <script src="../../../javascripts/tablesort.min.js"></script>
       
         <script src="../../../javascripts/tablesort.js"></script>
       
         <script src="../../../javascripts/filtering.js"></script>
       
-        <script src="https://unpkg.com/mermaid@10.9.1/dist/mermaid.min.js"></script>
+        <script src="../../../javascripts/mermaid.min.js"></script>
+      
+        <script src="../../../javascripts/modal.js"></script>
       
     
   <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});

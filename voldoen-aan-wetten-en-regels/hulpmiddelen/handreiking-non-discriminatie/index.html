@@ -23,15 +23,15 @@
       
       
       <link rel="icon" href="../../../assets/favicon.ico">
-      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.1+insiders-4.53.15">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.4+insiders-4.53.15">
     
     
       
-        <title>Handreiking non-discriminatie by design - Algoritmekader 2.0</title>
+        <title>Handreiking non-discriminatie by design - Algoritmekader 2.1</title>
       
     
     
-      <link rel="stylesheet" href="../../../assets/stylesheets/main.6f50c755.min.css">
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.f15084e1.min.css">
       
         
         <link rel="stylesheet" href="../../../assets/stylesheets/palette.ab4e12ef.min.css">
@@ -61,9 +61,11 @@
     
       <link rel="stylesheet" href="../../../stylesheets/footer.css">
     
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+      <link rel="stylesheet" href="../../../stylesheets/all.min.css">
     
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/choices.js/public/assets/styles/choices.min.css">
+      <link rel="stylesheet" href="../../../stylesheets/choices.min.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/modal.css">
     
     <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
@@ -113,7 +115,7 @@
 
 <header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
-    <a href="../../.." title="Algoritmekader 2.0" class="md-header__button md-logo" aria-label="Algoritmekader 2.0" data-md-component="logo">
+    <a href="../../.." title="Algoritmekader 2.1" class="md-header__button md-logo" aria-label="Algoritmekader 2.1" data-md-component="logo">
       
   <img src="../../../assets/logo.svg" alt="logo">
 
@@ -126,7 +128,7 @@
       <div class="md-header__ellipsis">
         <div class="md-header__topic">
           <span class="md-ellipsis">
-            Algoritmekader 2.0
+            Algoritmekader 2.1
           </span>
         </div>
         <div class="md-header__topic" data-md-component="header-topic">
@@ -339,7 +341,9 @@
           
             
               
-              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" hidden>
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
                     
@@ -350,12 +354,12 @@
 
 <nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigatie" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="../../.." title="Algoritmekader 2.0" class="md-nav__button md-logo" aria-label="Algoritmekader 2.0" data-md-component="logo">
+    <a href="../../.." title="Algoritmekader 2.1" class="md-nav__button md-logo" aria-label="Algoritmekader 2.1" data-md-component="logo">
       
   <img src="../../../assets/logo.svg" alt="logo">
 
     </a>
-    Algoritmekader 2.0
+    Algoritmekader 2.1
   </label>
   
     <div class="md-nav__source">
@@ -383,6 +387,8 @@
       
         
           
+        
+      
         
       
         
@@ -500,6 +506,8 @@
       
         
           
+        
+      
         
       
         
@@ -643,6 +651,10 @@
           
         
       
+        
+      
+        
+      
     
     
       
@@ -692,7 +704,9 @@
             
             
               
-              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" hidden>
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
                     
@@ -765,10 +779,10 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#relatie-tot-toetsingskader-risicoprofielen-van-college-voor-de-rechten-van-de-mens" class="md-nav__link">
+  <a href="#relatie-tot-toetsingskader-risicoprofilering-van-het-college-voor-de-rechten-van-de-mens" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Relatie tot Toetsingskader Risicoprofielen van College voor de Rechten van de Mens
+        Relatie tot Toetsingskader Risicoprofilering van het College voor de Rechten van de Mens
       
     </span>
   </a>
@@ -837,6 +851,8 @@
               
                 
 
+  
+
 
 
 
@@ -885,6 +901,8 @@
               <article class="md-content__inner md-typeset">
                 
                   
+  
+
 
 
   
@@ -916,19 +934,19 @@ Daarnaast kan deze handreiking dienen voor opdrachtgevers van AI-systemen, ofwel
 <p>Zij geven aan dat het IAMA wordt gezien als instrument voor het nagaan van de impact van grondrechten in algemenere zin, waar de Handreiking zich specifiek richt op discriminatie. De handreiking bevat dan weer meer praktische voorbeelden die kunnen helpen bij begrip en afwegingen, waar de IAMA wat abstracter is.</p>
 <h3 id="relatie-tot-het-fairness-handbook">Relatie tot het Fairness Handbook</h3>
 <p>Over het <a href="../fairness-handbook/">Fairness Handbook</a> werd in het rapport aangegeven dat het een technischere uitwerking bevat dan de Handreiking. Het Handbook biedt wellicht meer houvast voor iemand die analyses maakt om inzicht te geven in de prestaties van het algoritme met het oog op ‘fairness’ en ‘bias’. Dit komt doordat het Handbook meer details geeft over de technische stappen die nodig zijn om te komen tot bepaalde analyses.</p>
-<h3 id="relatie-tot-toetsingskader-risicoprofielen-van-college-voor-de-rechten-van-de-mens">Relatie tot Toetsingskader Risicoprofielen van College voor de Rechten van de Mens</h3>
-<p>Ook het <a href="https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dce">toetsingskader voor discriminatie door risicoprofielen van het College voor de Rechten van de Mens</a> kan worden gebruikt om te bepalen of er discriminatie plaatsvindt. Dit kader is afkomstig uit 2021 en er wordt gewerkt aan een nieuwe versie, die waarschijnlijk eind 2024 zal verschijnen. De verschillende stappen die daarin gebruikt worden om te bepalen of een risicoprofiel tot discriminatie leidt op grond van ras of nationaliteit, zijn zeer relevant. Daarvoor hebben zij <a href="https://publicaties.mensenrechten.nl/file/6ac9f9ec-c837-23b1-0032-5c2e684db188.pdf">een beslisboom ontwikkeld</a>.</p>
+<h3 id="relatie-tot-toetsingskader-risicoprofilering-van-het-college-voor-de-rechten-van-de-mens">Relatie tot Toetsingskader Risicoprofilering van het College voor de Rechten van de Mens</h3>
+<p>Ook het <a href="../toetsingskader-risicoprofilering/">toetsingskader Risicoprofilering College voor de Rechten van de Mens</a> kan worden gebruikt om te bepalen of er discriminatie plaatsvindt. De verschillende stappen die daarin gebruikt worden om te bepalen of een risicoprofiel leidt tot onderscheid op grond van ras of nationaliteit, zijn zeer relevant. </p>
 <h2 id="bijbehorende-vereisten">Bijbehorende vereisten</h2>
-<table><thead><tr><th>Vereiste</th></tr></thead><tbody><tr><td><a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/grw-01-fundamentele-rechten/">grw-01 - Algoritmes schenden geen grondrechten of mensenrechten.</a></td></tr><tr><td><a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/grw-02-non-discriminatie/">grw-02 - Algoritmes discrimineren niet.</a></td></tr><tr><td><a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/aia-04-risicobeoordeling-voor-jongeren-en-kwetsbaren/">aia-04 - Hoog-risico-AI-systemen vormen geen risico voor kwetsbare groepen zoals kinderen.</a></td></tr></tbody></table>
+<table><thead><tr><th>Vereiste</th></tr></thead><tbody><tr><td><a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/grw-01-fundamentele-rechten/">grw-01 - Algoritmes schenden geen grondrechten of mensenrechten</a></td></tr><tr><td><a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/grw-02-non-discriminatie/">grw-02 - Algoritmes discrimineren niet</a></td></tr><tr><td><a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/aia-04-risicobeoordeling-voor-jongeren-en-kwetsbaren/">aia-04 - Hoog-risico-AI-systemen vormen geen risico voor kwetsbare groepen zoals kinderen</a></td></tr></tbody></table>
 
 <h2 id="bijbehorende-maatregelen">Bijbehorende maatregelen</h2>
-<table><thead><tr><th>Maatregel</th></tr></thead><tbody><tr><td><a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/3-dat-01-datakwaliteit/">dat-01 - Controleer de datakwaliteit</a></td></tr><tr><td>5-ver-02-biasanalyse</td></tr><tr><td><a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/6-imp-02-aselecte-steekproeven/">imp-02 - Doe aselecte steekproeven om algoritmes met 'risicogestuurde selectie’ te controleren</a></td></tr></tbody></table>
+<table><thead><tr><th>Maatregel</th></tr></thead><tbody><tr><td><a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/3-dat-01-datakwaliteit/">dat-01 - Controleer de datakwaliteit</a></td></tr><tr><td><a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/5-ver-03-biasanalyse/">ver-03 - Toets het algoritme op bias en voer een rechtvaardigingstoets uit</a></td></tr><tr><td><a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/6-imp-02-aselecte-steekproeven/">imp-02 - Doe aselecte steekproeven om algoritmes met 'risicogestuurde selectie’ te controleren</a></td></tr></tbody></table>
 
 <h2 id="bronnen">Bronnen</h2>
 <ul>
 <li><a href="https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design">Handreiking non-discriminatie by design</a></li>
 <li><a href="https://open.overheid.nl/documenten/7052294a-e70a-4084-88da-d09ae5f202cb/file">Onderzoeksrapport Bekendheid, toepasbaarheid en toegevoegde waarde handreiking 'non-discriminatie by design'</a></li>
-<li><a href="https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dce">Toetsingskader voor discriminatie door risicoprofielen van het College voor de Rechten van de Mens (2021)</a></li>
+<li><a href="https://publicaties.mensenrechten.nl/publicatie/4093c026-ae41-4c1d-aa78-4ce0e205b5de">Toetsingskader Risicoprofilering, College voor de Rechten van de Mens</a></li>
 </ul>
 <h2 id="voorbeeld">Voorbeeld</h2>
 <p>Heb jij een goed voorbeeld van het gebruik van de Handreiking non-discriminatie by design op het gebied van algoritmen? Laat het ons weten!</p>
@@ -954,7 +972,7 @@ Daarnaast kan deze handreiking dienen voor opdrachtgevers van AI-systemen, ofwel
     <span class="md-icon" title="Laatst geüpdatet">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">19 december 2024</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">20 februari 2025</span>
   </span>
 
     
@@ -973,6 +991,8 @@ Daarnaast kan deze handreiking dienen voor opdrachtgevers van AI-systemen, ofwel
   </aside>
 
 
+
+  
 
 
 
@@ -1004,9 +1024,9 @@ Daarnaast kan deze handreiking dienen voor opdrachtgevers van AI-systemen, ofwel
       <!-- Right Section: Links in Columns -->
       <div class="md-footer__links">
         <div class="md-footer__column">
-          <a href="/Algoritmekader/overhetalgoritmekader/">Over het Algoritmekader</a>
+          <a href="/Algoritmekader/overhetalgoritmekader/over-het-algoritmekader/">Over het Algoritmekader</a>
           <a href="/Algoritmekader/overhetalgoritmekader/CONTRIBUTING/">Meedoen</a>
-          <a href="#">Contact</a>
+          <a href="/Algoritmekader/overhetalgoritmekader/CONTRIBUTING/">Contact</a>
           <a href="#">Privacy</a>
         </div>
         <div class="md-footer__column">
@@ -1019,6 +1039,14 @@ Daarnaast kan deze handreiking dienen voor opdrachtgevers van AI-systemen, ofwel
       </div>
     </div>
   </footer>
+<div id="modal" class="minbzk-modal display-none">
+  <div class="modal-underlay" onclick="closeModal()"></div>
+  <div class="modal-content-container" id="modal-content-container">
+    <div class="modal-content-close" onclick="closeModal()">&#xd7;</div>
+    <div class="modal-content" id="modal-content">
+  </div>
+  </div>
+</div>
       
     </div>
     <div class="md-dialog" data-md-component="dialog">
@@ -1029,19 +1057,21 @@ Daarnaast kan deze handreiking dienen voor opdrachtgevers van AI-systemen, ofwel
     <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.indexes", "navigation.tabs", "navigation.tabs.sticky", "navigation.top", "navigation.tracking", "navigation.instant", "navigation.footer", "navigation.prune", "navigation.path", "search.highlight", "search.suggest", "content.tooltips", "content.tabs.link"], "search": "../../../assets/javascripts/workers/search.c7c1ca2c.min.js", "translations": {"clipboard.copied": "Gekopieerd naar klembord", "clipboard.copy": "Kopi\u00ebren naar klembord", "search.result.more.one": "1 extra overeenkomst op deze pagina", "search.result.more.other": "# extra overeenkomsten op deze pagina", "search.result.none": "Geen overeenkomende documenten", "search.result.one": "1 overeenkomende document", "search.result.other": "# overeenkomende documenten", "search.result.placeholder": "Typ om te beginnen met zoeken", "search.result.term.missing": "Ontbreekt", "select.version": "Selecteer versie"}}</script>
     
     
-      <script src="../../../assets/javascripts/bundle.66941efb.min.js"></script>
+      <script src="../../../assets/javascripts/bundle.5a789024.min.js"></script>
       
-        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script src="../../../javascripts/jquery-3.6.0.min.js"></script>
       
-        <script src="https://cdn.jsdelivr.net/npm/choices.js/public/assets/scripts/choices.min.js"></script>
+        <script src="../../../javascripts/choices.min.js"></script>
       
-        <script src="https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js"></script>
+        <script src="../../../javascripts/tablesort.min.js"></script>
       
         <script src="../../../javascripts/tablesort.js"></script>
       
         <script src="../../../javascripts/filtering.js"></script>
       
-        <script src="https://unpkg.com/mermaid@10.9.1/dist/mermaid.min.js"></script>
+        <script src="../../../javascripts/mermaid.min.js"></script>
+      
+        <script src="../../../javascripts/modal.js"></script>
       
     
   <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});

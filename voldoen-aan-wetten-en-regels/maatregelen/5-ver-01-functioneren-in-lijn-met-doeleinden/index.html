@@ -13,7 +13,7 @@
         <link rel="canonical" href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/5-ver-01-functioneren-in-lijn-met-doeleinden/">
       
       
-        <link rel="prev" href="../4-owk-10-voorkom-lekken-op-basis-van-output/">
+        <link rel="prev" href="../4-owk-12-licentiegebruik/">
       
       
         <link rel="next" href="../5-ver-02-evalueer-nauwkeurigheid/">
@@ -23,15 +23,15 @@
       
       
       <link rel="icon" href="../../../assets/favicon.ico">
-      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.1+insiders-4.53.15">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.4+insiders-4.53.15">
     
     
       
-        <title>Controleer regelmatig of het algoritme werkt zoals het bedoeld is - Algoritmekader 2.0</title>
+        <title>Controleer regelmatig of het algoritme werkt zoals het bedoeld is - Algoritmekader 2.1</title>
       
     
     
-      <link rel="stylesheet" href="../../../assets/stylesheets/main.6f50c755.min.css">
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.f15084e1.min.css">
       
         
         <link rel="stylesheet" href="../../../assets/stylesheets/palette.ab4e12ef.min.css">
@@ -61,9 +61,11 @@
     
       <link rel="stylesheet" href="../../../stylesheets/footer.css">
     
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+      <link rel="stylesheet" href="../../../stylesheets/all.min.css">
     
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/choices.js/public/assets/styles/choices.min.css">
+      <link rel="stylesheet" href="../../../stylesheets/choices.min.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/modal.css">
     
     <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
@@ -113,7 +115,7 @@
 
 <header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
-    <a href="../../.." title="Algoritmekader 2.0" class="md-header__button md-logo" aria-label="Algoritmekader 2.0" data-md-component="logo">
+    <a href="../../.." title="Algoritmekader 2.1" class="md-header__button md-logo" aria-label="Algoritmekader 2.1" data-md-component="logo">
       
   <img src="../../../assets/logo.svg" alt="logo">
 
@@ -126,7 +128,7 @@
       <div class="md-header__ellipsis">
         <div class="md-header__topic">
           <span class="md-ellipsis">
-            Algoritmekader 2.0
+            Algoritmekader 2.1
           </span>
         </div>
         <div class="md-header__topic" data-md-component="header-topic">
@@ -352,12 +354,12 @@
 
 <nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigatie" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="../../.." title="Algoritmekader 2.0" class="md-nav__button md-logo" aria-label="Algoritmekader 2.0" data-md-component="logo">
+    <a href="../../.." title="Algoritmekader 2.1" class="md-nav__button md-logo" aria-label="Algoritmekader 2.1" data-md-component="logo">
       
   <img src="../../../assets/logo.svg" alt="logo">
 
     </a>
-    Algoritmekader 2.0
+    Algoritmekader 2.1
   </label>
   
     <div class="md-nav__source">
@@ -385,6 +387,8 @@
       
         
           
+        
+      
         
       
         
@@ -502,6 +506,8 @@
       
         
           
+        
+      
         
       
         
@@ -645,6 +651,10 @@
           
         
       
+        
+      
+        
+      
     
     
       
@@ -735,10 +745,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#bijbehorende-vereisten" class="md-nav__link">
+  <a href="#risico" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Bijbehorende vereiste(n)
+        Risico
       
     </span>
   </a>
@@ -746,10 +756,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#risico" class="md-nav__link">
+  <a href="#bijbehorende-vereisten" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Risico
+        Bijbehorende vereiste(n)
       
     </span>
   </a>
@@ -768,10 +778,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#voorbeeld" class="md-nav__link">
+  <a href="#voorbeelden" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Voorbeeld
+        Voorbeelden
       
     </span>
   </a>
@@ -856,30 +866,36 @@
 <p>Stel vast dat het algoritme voortdurend functioneert in lijn met de <a href="../1-pba-02-formuleren-doelstelling/">vastgestelde doelstelling</a>. </p>
 <h2 id="toelichting">Toelichting</h2>
 <ul>
-<li>Vertaal de <a href="../1-pba-02-formuleren-doelstelling/">vastgestelde doelstelling</a> naar functionele eisen voor het algoritme. Werk het vastgestelde doel uit in een beschrijving in logische taal/pseudo code of documentatie die handvatten biedt aan de ontwikkelaar. </li>
+<li>Vertaal de <a href="../1-pba-02-formuleren-doelstelling/">vastgestelde doelstelling</a> naar functionele eisen voor het algoritme. Werk het vastgestelde doel uit in een beschrijving in logische taal/ pseudo code of documentatie die handvatten biedt aan de ontwikkelaar. </li>
 <li>Monitor de mate waarin aan deze eisen wordt voldaan door het algoritme. </li>
 <li>Bepaal en leg vast hoe eventuele parameters, business rules en indicatoren bepaald worden. Zorg dat dit breed wordt afgestemd in de organisatie (ontwikkelteam, opdrachtgevers en beheer).</li>
 <li>Houd hier rekening met eventuele <a href="../../../onderwerpen/bias-en-non-discriminatie/#bias-in-statistiek-en-berekeningen">(statistische) bias</a>: meten we daadwerkelijk wat we denken te meten? </li>
 <li>Wanneer het algoritme meerdere doelen dient, is het belangrijk ook te evalueren op meerdere functionele eisen. </li>
 <li>Wanneer er sprake is van een (handmatige) behandeling, bepaal dan wanneer deze behandeling als 'succesvol' gezien kan worden. </li>
 </ul>
-<h2 id="bijbehorende-vereisten">Bijbehorende vereiste(n)</h2>
-<details class="expander">
-<summary>Bekijk alle vereisten</summary>
-<table><thead><tr><th>Vereiste</th></tr></thead><tbody><tr><td><a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/awb-01-zorgvuldigheidsbeginsel/">awb-01 - Organisaties die algoritmes gebruiken voor publieke taken nemen besluiten zorgvuldig.</a></td></tr><tr><td><a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging/">aia-10 - Hoog-risico-AI-systemen zijn voldoende nauwkeurig, robuust en cyberveilig.</a></td></tr></tbody></table>
-</details>
 <h2 id="risico">Risico</h2>
 <p>Het algoritme functioneert niet in lijn met geformuleerde doelstellingen. </p>
 <!-- iets toevoegen over scope creep -->
 
+<h2 id="bijbehorende-vereisten">Bijbehorende vereiste(n)</h2>
+<details class="expander">
+<summary>Bekijk alle vereisten</summary>
+<table><thead><tr><th>Vereiste</th></tr></thead><tbody><tr><td><a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/awb-01-zorgvuldigheidsbeginsel/">awb-01 - Organisaties die algoritmes gebruiken voor publieke taken nemen besluiten zorgvuldig</a></td></tr><tr><td><a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging/">aia-10 - Hoog-risico-AI-systemen zijn voldoende nauwkeurig, robuust en cyberveilig</a></td></tr></tbody></table>
+</details>
 <h2 id="bronnen">Bronnen</h2>
 <ul>
 <li><a href="https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag">Toetsingskader Algoritmes Algemene Rekenkamer, 2.01, 2.07</a> </li>
 <li><a href="https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes">Impact Assessment Mensenrechten en Algoritmes, 1</a>          </li>
 <li><a href="https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023">Onderzoekskader Algoritmes Auditdienst Rijk, DM.1, DM.4</a>                   </li>
 </ul>
-<h2 id="voorbeeld">Voorbeeld</h2>
-<p>Heb jij een goed voorbeeld? Laat het ons weten!</p>
+<h2 id="voorbeelden">Voorbeelden</h2>
+<div class="admonition example">
+<p class="admonition-title">Belastingdienst – Signaal Omzetbelasting Grote Ondernemingen</p>
+<p>De Belastingdienst controleert aangiftes, waaronder omzetbelasting voor grote ondernemingen. Dit doen ze met behulp van het algoritme Signaalmodel OB GO (SOB GO), dat een risicobeoordeling geeft aan aangiftes die hieronder vallen. Het algoritme is intern ontwikkeld en wordt ook intern onderhouden en gecontroleerd. Dit gebeurt onder andere aan de hand van de bedrijfsregels binnen de Belastingdienst en een kwaliteitsframework.</p>
+<p>De bedrijfsregels worden jaarlijks geëvalueerd, waarbij ook resultaten uit een steekproef van de aangiften worden meegenomen. Het kwaliteitsframework bestaat uit regels en afspraken die gevolgd moeten worden bij het ontwikkelen van algoritmes, waaronder SOB GO. Dit framework wordt op vaste momenten gebruikt om te kijken of SOB GO nog steeds aan de kwaliteitseisen voldoet.</p>
+<p>Bron: <a href="https://algoritmes.overheid.nl/nl/algoritme/signaalmodel-omzetbelasting-grote-ondernemingen-sob-go-belastingdienst/62272663">Signaalmodel Omzetbelasting Grote Ondernemingen (SOB GO) - Belastingdienst</a></p>
+</div>
+<p>Heb je een ander voorbeeld of best practice, laat het ons weten via <a href="mailto:algoritmes@minbzk.nl">algoritmes@minbzk.nl</a>  </p>
 
 
 
@@ -902,7 +918,7 @@
     <span class="md-icon" title="Laatst geüpdatet">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">19 december 2024</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">19 februari 2025</span>
   </span>
 
     
@@ -954,9 +970,9 @@
       <!-- Right Section: Links in Columns -->
       <div class="md-footer__links">
         <div class="md-footer__column">
-          <a href="/Algoritmekader/overhetalgoritmekader/">Over het Algoritmekader</a>
+          <a href="/Algoritmekader/overhetalgoritmekader/over-het-algoritmekader/">Over het Algoritmekader</a>
           <a href="/Algoritmekader/overhetalgoritmekader/CONTRIBUTING/">Meedoen</a>
-          <a href="#">Contact</a>
+          <a href="/Algoritmekader/overhetalgoritmekader/CONTRIBUTING/">Contact</a>
           <a href="#">Privacy</a>
         </div>
         <div class="md-footer__column">
@@ -969,6 +985,14 @@
       </div>
     </div>
   </footer>
+<div id="modal" class="minbzk-modal display-none">
+  <div class="modal-underlay" onclick="closeModal()"></div>
+  <div class="modal-content-container" id="modal-content-container">
+    <div class="modal-content-close" onclick="closeModal()">&#xd7;</div>
+    <div class="modal-content" id="modal-content">
+  </div>
+  </div>
+</div>
       
     </div>
     <div class="md-dialog" data-md-component="dialog">
@@ -979,19 +1003,21 @@
     <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.indexes", "navigation.tabs", "navigation.tabs.sticky", "navigation.top", "navigation.tracking", "navigation.instant", "navigation.footer", "navigation.prune", "navigation.path", "search.highlight", "search.suggest", "content.tooltips", "content.tabs.link"], "search": "../../../assets/javascripts/workers/search.c7c1ca2c.min.js", "translations": {"clipboard.copied": "Gekopieerd naar klembord", "clipboard.copy": "Kopi\u00ebren naar klembord", "search.result.more.one": "1 extra overeenkomst op deze pagina", "search.result.more.other": "# extra overeenkomsten op deze pagina", "search.result.none": "Geen overeenkomende documenten", "search.result.one": "1 overeenkomende document", "search.result.other": "# overeenkomende documenten", "search.result.placeholder": "Typ om te beginnen met zoeken", "search.result.term.missing": "Ontbreekt", "select.version": "Selecteer versie"}}</script>
     
     
-      <script src="../../../assets/javascripts/bundle.66941efb.min.js"></script>
+      <script src="../../../assets/javascripts/bundle.5a789024.min.js"></script>
       
-        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script src="../../../javascripts/jquery-3.6.0.min.js"></script>
       
-        <script src="https://cdn.jsdelivr.net/npm/choices.js/public/assets/scripts/choices.min.js"></script>
+        <script src="../../../javascripts/choices.min.js"></script>
       
-        <script src="https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js"></script>
+        <script src="../../../javascripts/tablesort.min.js"></script>
       
         <script src="../../../javascripts/tablesort.js"></script>
       
         <script src="../../../javascripts/filtering.js"></script>
       
-        <script src="https://unpkg.com/mermaid@10.9.1/dist/mermaid.min.js"></script>
+        <script src="../../../javascripts/mermaid.min.js"></script>
+      
+        <script src="../../../javascripts/modal.js"></script>
       
     
   <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});

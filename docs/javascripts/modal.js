@@ -139,19 +139,56 @@ function loadHTML(url, targetDivId) {
 }
 
 function updateLabels(labels) {
-  const allLabels = labels.map(label => labelMapper.find(label));
-  // ignore groups not used by AK at the moment
-  const ignoreGroups = ["conformiteitsbeoordelingsinstantie", "operationeel"]
-  const appliedLabels = allLabels.filter(labelObj => !ignoreGroups.includes(labelObj.group)).filter(labelObj => !labelObj.label.includes("niet-van-toepassing"))
+  console.log('Received labels:', labels);
+  
+  // Define patterns to exclude
+  const excludePatterns = [
+    'niet van toepassing',
+    'onbekend'
+  ];
 
+  // Filter out labels based on dynamic exclusion patterns
+  const filteredLabels = labels.filter(label => {
+    const labelObj = labelMapper.find(label);
+    
+    // Check if any exclude pattern matches the label or display value
+    const shouldExclude = excludePatterns.some(pattern => 
+      labelObj.label.toLowerCase().includes(pattern.toLowerCase()) ||
+      labelObj.display_value.toLowerCase().includes(pattern.toLowerCase())
+    );
+
+    return !shouldExclude;
+  });
+
+  // If no meaningful labels remain, hide labels section
+  if (filteredLabels.length === 0) {
+    document.getElementById("ai-act-info-with-labels").classList.add("display-none");
+    document.getElementById("ai-act-info-no-labels").classList.remove("display-none");
+    document.getElementById('labelsInput').value = '';
+    document.getElementById('ai-act-labels-container').innerHTML = '';
+    return;
+  }
+
+  // Convert filtered labels to label objects
+  const allLabels = filteredLabels.map(label => labelMapper.find(label));
+  
+  // Ignore groups not used by AK at the moment
+  const ignoreGroups = ["conformiteitsbeoordelingsinstantie", "operationeel"];
+  const appliedLabels = allLabels.filter(labelObj => 
+    !ignoreGroups.includes(labelObj.group)
+  );
+
+  // Show labels section
   document.getElementById("ai-act-info-with-labels").classList.remove("display-none");
   document.getElementById("ai-act-info-no-labels").classList.add("display-none");
-  // appendQueryParams({"labels": convertedLabels.map(obj=> obj.label).join(",")});
+  
+  // Update labels input
   document.getElementById('labelsInput').value = appliedLabels.map(obj => obj.label).join(",");
 
+  // Generate labels HTML
   let labelsHTML = "";
   for (const label_obj of appliedLabels) {
-    labelsHTML += "<span data-label-value='" + label_obj.label + "' class='info-label' onclick='removeLabel(event)'>" + label_obj.display_value + "</span>"
+    labelsHTML += "<span data-label-value='" + label_obj.label + "' class='info-label' onclick='removeLabel(event)'>" + label_obj.display_value + "</span>";
   }
   document.getElementById('ai-act-labels-container').innerHTML = labelsHTML;
 }
@@ -284,6 +321,7 @@ labelMapper.addEntry('ai-systeem-voor-algemene-doeleinden', 'AI Systeem voor alg
 labelMapper.addEntry('ai-model-voor-algemene-doeleinden', 'AI model voor algemen doeleinden', 'soort-toepassing', ['Soort toepassing-AI-model voor algemene doeleinden']);
 labelMapper.addEntry('impactvol-algoritme', 'Impactvol algoritme', 'soort-toepassing', ["Soort toepassing-impactvol algoritme"]);
 labelMapper.addEntry('niet-impactvol-algoritme', 'Niet-impactvol algoritme', 'soort-toepassing', ["Soort toepassing-niet-impactvol algoritme"]);
+labelMapper.addEntry('geen-algoritme', 'Geen algoritme', 'soort-toepassing', ["Soort toepassing-geen algoritme"]);
 
 labelMapper.addEntry('transparantieverplichting', 'Transparantieverplichting', 'transparantieverplichting', ["Transparantieverplichting-transparantieverplichting"]);
 labelMapper.addEntry('geen-transparantieverplichting', 'Geen transparantieverplichting', 'transparantieverplichting', ["Transparantieverplichting-geen transparantieverplichting"]);
@@ -306,37 +344,27 @@ labelMapper.addEntry('niet-van-toepassing', 'Niet van toepassing', 'conformiteit
 // Add the message event listener
 window.addEventListener('message', (event) => {
   if (event.data.event === 'beslishulp-done') {
-      console.log('Received beslishulp-done:', event.data.value);
-      
-      const redirectUrl = sessionStorage.getItem('pendingRedirect');
-      if (redirectUrl) {
-          // Store labels for processing after redirect
-          const jsonObject = JSON.parse(sessionStorage.getItem("labelsbysubcategory"));
-          if (jsonObject) {
-              sessionStorage.setItem('pendingLabels', JSON.stringify(jsonObject));
-          }
-          
-          closeModal();
-          sessionStorage.removeItem('pendingRedirect');
-          window.location.href = redirectUrl;
-      } else {
-          // Direct modal case - handle labels immediately
-          const jsonObject = JSON.parse(sessionStorage.getItem("labelsbysubcategory"));
-          if (jsonObject) {
-              // Clear existing labels first
-              document.getElementById('ai-act-info-with-labels').classList.add('display-none');
-              document.getElementById('ai-act-info-no-labels').classList.remove('display-none');
-              document.getElementById('ai-act-labels-container').innerHTML = '';
-              document.getElementById('labelsInput').value = '';
-              
-              // Convert and update labels
-              const beslishulpLabels = Object.entries(jsonObject).flatMap(([key, values]) =>
-                  values.map(value => `${key}-${value}`)
-              );
-              updateLabels(beslishulpLabels);
-          }
-          closeModal();
-      }
+    console.log('Received beslishulp-done:', event.data.value);
+    
+    const redirectUrl = sessionStorage.getItem('pendingRedirect');
+    const jsonObject = JSON.parse(sessionStorage.getItem("labelsbysubcategory"));
+
+    if (redirectUrl && jsonObject) {
+      // Store labels for processing after redirect
+      sessionStorage.setItem('pendingLabels', JSON.stringify(jsonObject));
+      sessionStorage.setItem('showModalAfterRedirect', 'true');
+      closeModal();
+      sessionStorage.removeItem('pendingRedirect');
+      window.location.href = redirectUrl;
+    } else if (jsonObject) {
+      // Direct modal case - handle labels immediately
+      const beslishulpLabels = Object.entries(jsonObject).flatMap(([key, values]) =>
+        values.map(value => `${key}-${value}`)
+      );
+      updateLabels(beslishulpLabels);
+      filterTable();
+      closeModal();
+    }
   }
 });
 
@@ -344,30 +372,23 @@ document.addEventListener('DOMContentLoaded', () => {
   // Check if we should show modal
   const shouldShowModal = sessionStorage.getItem('showModalAfterRedirect');
   if (shouldShowModal) {
-      sessionStorage.removeItem('showModalAfterRedirect');
-      showModal(new Event('click'), 'beslishulp');
+    sessionStorage.removeItem('showModalAfterRedirect');
+    showModal(new Event('click'), 'beslishulp');
   }
 
   // Check for and process any pending labels
   const pendingLabels = sessionStorage.getItem('pendingLabels');
   if (pendingLabels) {
-      try {
-          const jsonObject = JSON.parse(pendingLabels);
-          const beslishulpLabels = Object.entries(jsonObject).flatMap(([key, values]) =>
-              values.map(value => `${key}-${value}`)
-          );
-          // Clear existing labels first
-          document.getElementById('ai-act-info-with-labels').classList.add('display-none');
-          document.getElementById('ai-act-info-no-labels').classList.remove('display-none');
-          document.getElementById('ai-act-labels-container').innerHTML = '';
-          document.getElementById('labelsInput').value = '';
-          
-          updateLabels(beslishulpLabels);
-          filterTable();
-          sessionStorage.removeItem('pendingLabels'); // Clean up
-      } catch (error) {
-          console.error('Error processing pending labels:', error);
-      }
+    try {
+      const jsonObject = JSON.parse(pendingLabels);
+      const beslishulpLabels = Object.entries(jsonObject).flatMap(([key, values]) =>
+        values.map(value => `${key}-${value}`)
+      );
+      updateLabels(beslishulpLabels);
+      filterTable();
+      sessionStorage.removeItem('pendingLabels'); // Clean up
+    } catch (error) {
+      console.error('Error processing pending labels:', error);
+    }
   }
 });
-

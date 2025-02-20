@@ -66,7 +66,6 @@ Een risico dat kan worden gemitigeerd met behulp van deze maatregel is dat het w
 
 	Bron: Analytische en Cognitieve Technologie | CoE Cognitieve Oplossingen
 
-Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
 
 !!! example "Verschillende organisaties  - Three lines of defence"
 
@@ -75,4 +74,4 @@ Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@
     Meer informatie over het implementeren van het three-lines-of-defence model is te vinden onder ["Richt een algoritmegovernance in met three lines of defence"](0-org-07-intern-toezicht.md)
 
 
-Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) .

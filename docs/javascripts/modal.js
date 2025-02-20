@@ -95,6 +95,33 @@ function onDynamicContentLoaded(targetDiv, callback) {
   return () => observer.disconnect();
 }
 
+function getBasePath() {
+  const path = window.location.pathname;
+  const isLocal = window.location.hostname === "127.0.0.1" || window.location.hostname === "localhost";
+  const isPRPreview = path.includes('/pr-preview/');
+  
+  if (isLocal) {
+      return '/Algoritmekader';
+  } else if (isPRPreview) {
+      // Get everything up to where the HTML files are located
+      return path.split('/html/')[0];
+  } else {
+      // Production
+      return '/Algoritmekader';
+  }
+}
+
+function showModalWithRedirect(event, modalId, redirectUrl) {
+  event.preventDefault();
+  event.stopPropagation();
+  
+  // Store the redirect URL for later use
+  sessionStorage.setItem('pendingRedirect', redirectUrl);
+  
+  // Call your existing showModal function
+  showModal(event, modalId);
+}
+
 function showModal(event, modalId) {
   event.preventDefault();
   event.stopPropagation();
@@ -105,11 +132,13 @@ function showModal(event, modalId) {
           updateAIActForm();
           updateFieldsBasedOnType(document.getElementById("type"));
       });
-      loadHTML('../../html/ai-verordening-popup.html', 'modal-content')
+      loadHTML(`${basePath}/html/ai-verordening-popup.html`, 'modal-content')
       document.getElementById("modal-content-container").classList.add("model-content-auto-size");
   } else if (modalId === "beslishulp") {
-    document.getElementById("modal-content").innerHTML = "<iframe style=\"display: block; width: 100%; height: 100%; border: 0; padding: 0; margin: 0; overflow: hidden;\" src=\"../../html/beslishulp.html\"></iframe>"
-    document.getElementById("modal-content-container").classList.remove("model-content-auto-size");
+      document.getElementById("modal-content").innerHTML = `<iframe 
+          style="display: block; width: 100%; height: 100%; border: 0; padding: 0; margin: 0; overflow: hidden;" 
+          src="${basePath}/html/beslishulp.html"></iframe>`
+      document.getElementById("modal-content-container").classList.remove("model-content-auto-size");
   }
   document.getElementById("modal").classList.remove("display-none");
 }
@@ -301,16 +330,43 @@ labelMapper.addEntry('in-ontwikkeling', 'In ontwikkeling', 'operationeel', ["Ope
 labelMapper.addEntry('beoordeling-door-derde-partij', 'Beoordeling door derde partij', 'conformiteitsbeoordelingsinstantie', ["Conformiteitsbeoordelingsinstantie-beoordeling door derde partij"]);
 labelMapper.addEntry('niet-van-toepassing', 'Niet van toepassing', 'conformiteitsbeoordelingsinstantie', ["Conformiteitsbeoordelingsinstantie-niet van toepassing"]);
 
+// Add the message event listener
 window.addEventListener('message', (event) => {
   if (event.data.event === 'beslishulp-done') {
-    // Handle the event
-    console.log('Received beslishulp-done:', event.data.value);
-    const jsonObject = JSON.parse(sessionStorage.getItem("labelsbysubcategory"))
-    const beslishulpLabels = Object.entries(jsonObject).flatMap(([key, values]) =>
-      values.map(value => `${key}-${value}`)
-    )
-    updateLabels(beslishulpLabels);
-    filterTable();
-    closeModal();
+      console.log('Received beslishulp-done:', event.data.value);
+      
+      // Store any labels for processing after redirect
+      const jsonObject = JSON.parse(sessionStorage.getItem("labelsbysubcategory"));
+      if (jsonObject) {
+          sessionStorage.setItem('pendingLabels', JSON.stringify(jsonObject));
+      }
+      
+      closeModal();
+
+      // Perform the redirect
+      const redirectUrl = sessionStorage.getItem('pendingRedirect');
+      if (redirectUrl) {
+          sessionStorage.removeItem('pendingRedirect');
+          window.location.href = redirectUrl;
+      }
+  }
+});
+
+// Add this to the page that receives the redirect
+document.addEventListener('DOMContentLoaded', () => {
+  // Check for and process any pending labels
+  const pendingLabels = sessionStorage.getItem('pendingLabels');
+  if (pendingLabels) {
+      try {
+          const jsonObject = JSON.parse(pendingLabels);
+          const beslishulpLabels = Object.entries(jsonObject).flatMap(([key, values]) =>
+              values.map(value => `${key}-${value}`)
+          );
+          updateLabels(beslishulpLabels);
+          filterTable();
+          sessionStorage.removeItem('pendingLabels'); // Clean up
+      } catch (error) {
+          console.error('Error processing pending labels:', error);
+      }
   }
 });

@@ -157,7 +157,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
 
         return "".join(filters)
 
-    def replace_content(match: Match, content_type: str):
+    def replace_content(match: Match, content_type: str, current_file: File):
         params = match.groups()[0].strip() if match.groups()[0] else ""
         split_params = params.split() if params else []
         filter_criteria = split_params[0] if split_params else ""
@@ -171,9 +171,10 @@ def on_env(env, config: MkDocsConfig, files: Files):
             "rol": True,
             "levenscyclus": True,
             "onderwerp": True,
-            # "categorie": False,
+            "ai-act-labels": False  # Default to False
         }
 
+        # Process filter tags
         for tag in split_params:
             if tag.startswith("no-"):
                 filter_name = tag[3:]
@@ -199,8 +200,12 @@ def on_env(env, config: MkDocsConfig, files: Files):
             ):
                 list.append(file)
 
-        if content_type == "vereisten":
+        # Only enable ai-act-labels if we're on the main vereisten page AND this is a vereisten list
+        if (current_file.src_path == "voldoen-aan-wetten-en-regels/vereisten/index.md" and 
+            content_type == "vereisten"):
             filter_options["ai-act-labels"] = True
+        else:
+            filter_options["ai-act-labels"] = False
 
         filters = generate_filters(content_type, list, filter_options)
 
@@ -213,18 +218,17 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 '<th role="columnheader">id</th>' if filter_options["id"] else '',
                 f'<th role="columnheader">{content_type.capitalize()}</th>',
                 '<th role="columnheader">Rollen</th>' if filter_options["rol"] else '',
-                # '<th role="columnheader">Categorie</th>' if filter_options["categorie"] else '',
                 '<th role="columnheader">Levenscyclus</th>' if filter_options["levenscyclus"] else '',
                 '<th role="columnheader">Onderwerpen</th>' if filter_options["onderwerp"] else '',
                 "</tr>",
                 "</thead>",
                 "<tbody>",
-                *[_create_table_row_2(item, filter_options, file, config) for item in list],
+                *[_create_table_row_2(item, filter_options, current_file, config) for item in list],
                 "</tbody>",
                 "</table>",
             ]
         )
-        
+
         return result
 
     # NEW FUNCTION: To generate the Vereisten for a specific maatregel
@@ -333,24 +337,24 @@ def on_env(env, config: MkDocsConfig, files: Files):
             if "hulpmiddelen" in file.src_path:
                 replace_maatregelen_content(file)
 
-            # Replacing for existing placeholders
+            # Pass the current file to replace_content
             file.page.content = re.sub(
                 r"<!-- list_vereisten(.*?) -->",
-                lambda match: replace_content(match, "vereisten"),
+                lambda match: replace_content(match, "vereisten", file),
                 file.page.content,
                 flags=re.I | re.M,
             )
 
             file.page.content = re.sub(
                 r"<!-- list_maatregelen(.*?) -->",
-                lambda match: replace_content(match, "maatregelen"),
+                lambda match: replace_content(match, "maatregelen", file),
                 file.page.content,
                 flags=re.I | re.M,
             )
 
             file.page.content = re.sub(
                 r"<!-- list_hulpmiddelen(.*?) -->",
-                lambda match: replace_content(match, "hulpmiddelen"),
+                lambda match: replace_content(match, "hulpmiddelen", file),
                 file.page.content,
                 flags=re.I | re.M,
             )

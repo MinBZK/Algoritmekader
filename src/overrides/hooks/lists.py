@@ -60,6 +60,7 @@ def _create_table_row_2(file: File, filter_options: Dict[str, bool], current_fil
     onderwerpen = file.page.meta.get('onderwerp', [])
     vereiste = file.page.meta.get('vereiste', [])
     vereiste_id = file.page.meta.get('id', "")[14:] # remove the first part of the urn
+
     # AI act label fields
     ai_act_labels = {
         "soort-toepassing": file.page.meta.get('soort-toepassing', []),
@@ -145,13 +146,15 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 filters.append('</select>')
                 filters.append('</div>')
 
-        filters.append("<div id='ai-act-labels-info'>")
-        filters.append("<div id='ai-act-info-no-labels'><strong><a href='#' onclick=\"showModal(event, 'ai-act-labels');\">Kies je AI-verordeningprofiel</a> of <a href='#' onclick=\"showModal(event, 'beslishulp');\">gebruik de beslishulp AI-verordening</a> om vereisten te filteren.</strong></div>")
-        filters.append("<div id='ai-act-info-with-labels' class='display-none'>Jouw AI-verordening profiel: <span id='ai-act-labels-container'></span> <a href='#' onclick=\"showModal(event, 'ai-act-labels');\">Wijzig je profiel</a> of <a href='#' onclick=\"showModal(event, 'beslishulp');\">open de beslishulp</a>.</div>")
-        filters.append("</div>")
+        if filter_options.get("ai-act-labels", False):
+            filters.append("<div id='ai-act-labels-info'>")
+            filters.append("<div id='ai-act-info-no-labels'><strong><a href='#' onclick=\"showModal(event, 'ai-act-labels');\">Kies je AI-verordeningprofiel</a> of <a href='#' onclick=\"showModal(event, 'beslishulp');\">gebruik de beslishulp AI-verordening</a> om vereisten te filteren.</strong></div>")
+            filters.append("<div id='ai-act-info-with-labels' class='display-none'>Jouw AI-verordening profiel: <span id='ai-act-labels-container'></span> <a href='#' onclick=\"showModal(event, 'ai-act-labels');\">Wijzig je profiel</a> of <a href='#' onclick=\"showModal(event, 'beslishulp');\">open de beslishulp</a>.</div>")
+            filters.append("</div>")
 
         filters.append("</form>")
         filters.append('</div>')
+
         return "".join(filters)
 
     def replace_content(match: Match, content_type: str):
@@ -195,6 +198,9 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 for type, value in type_value_bundle
             ):
                 list.append(file)
+
+        if content_type == "vereisten":
+            filter_options["ai-act-labels"] = True
 
         filters = generate_filters(content_type, list, filter_options)
 

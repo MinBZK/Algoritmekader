@@ -4,7 +4,7 @@ id: urn:nl:ak:mtr:org-00
 toelichting: Inventariseer de algoritmes die binnen jouw organisatie worden gebruikt en houd dit overzicht actueel
 vereiste: 
 - aia-00-verboden-AI-praktijken
-- aia-02-documentatie-beoordeling-niet-hoog-risico
+- aia-02-documentatie-beoordeling-niet-hoog-risico-ai
 - aia-03-risicobeheersysteem
 - bzk-01-algoritmeregister
 - avg-10-recht-op-niet-geautomatiseerde-besluitvorming

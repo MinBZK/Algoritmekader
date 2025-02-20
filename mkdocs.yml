@@ -104,6 +104,10 @@ extra_css:
   - stylesheets/choices.min.css  
   - stylesheets/modal.css
 
+extra_html:
+  - html/ai-verordening-popup.html
+  - html/beslishulp.html
+
 extra_javascript:
   - javascripts/jquery-3.6.0.min.js
   - javascripts/choices.min.js 

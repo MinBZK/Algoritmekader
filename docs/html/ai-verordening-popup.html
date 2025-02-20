@@ -2,12 +2,15 @@
     
     <h2>Bepaal je AI-verordening profiel</h2>
     <p>
-        Vul de velden hieronder in om je AI-verordening profiel samen te stellen.<br/>
-        Op basis van deze informatie worden de relevante vereisten voor jouw AI-systeem gefilterd.
+        Vul de velden hieronder in om je AI-verordeningprofiel samen te stellen.<br/>
+        Op basis van deze informatie worden de relevante vereisten voor jouw toepassing gefilterd.<br/>
+        Als je de antwoorden op de vragen niet weet, <a href='#' onclick="showModal(event, 'beslishulp');">gebruik de beslishulp</a> om hier achter te komen.
     </p>
 
     <div class="form__row">
-        <label class="form__label" id="rol-label">Rol</label>
+        <label class="form__label" id="rol-label">Welke rol is voor jou van toepassing?
+            <span class="info-icon" title="Geef aan of je handelt als aanbieder, gebruiksverantwoordelijke, importeur en/of distributeur van jouw toepassing, zoals gedefinieerd in de AI-verordening.">i</span>
+        </label>
         <div class="input-checkbox">
             <input type="checkbox" id="role-aanbieder" name="rol-ai-act" value="aanbieder" class="checkbox__input">
             <label class="checkbox__label" for="role-aanbieder">Aanbieder</label>
@@ -28,8 +31,8 @@
 
     <div class="form__row">
         <label class="form__label" id="type-label" for="type">
-            Type AI toepassing
-            <span class="info-icon" title="Het is alleen mogelijk om het label 'impactvol' of 'geen-impactvol algoritme' te krijgen wanneer er geen sprake is van een AI-systeem of AI-model">i</span>
+            Wat is het type toepassing? 
+            <span class="info-icon" title="Selecteer welke type jouw toepassing is. Let op: ook als de AI-verordening niet van toepassing is, kan het nog steeds gaan om een (impactvol) algoritme.">i</span>
         </label>
         <select class="input-select" id="type" name="soort-toepassing" onchange="updateFieldsBasedOnType(this)">
             <option value="" hidden="">Selecteer optie</option>
@@ -43,8 +46,8 @@
 
     <div class="form__row">
         <label class="form__label" id="label-risk-group" for="risk-group">
-            In welke risicogroep valt de applicatie?
-            <span class="info-icon" title="Alleen van toepassing op AI-systeem en AI-systeem voor algemene doeleinden">i</span>
+            In welke risicogroep valt de toepassing?
+            <span class="info-icon" title="De risicogroep verwijst naar de classificatie van een AI-systeem op basis van de mate van risico, zoals vastgelegd in de AI-verordening.">i</span>
         </label>
         <select class="input-select" id="risk-group" name="risicogroep" disabled>
             <option value="" hidden="">Selecteer optie</option>
@@ -58,7 +61,7 @@
     <div class="form__row">
         <label class="form__label" id="label-transparency-obligations" for="transparency-obligations">
             Zijn er transparantieverplichtingen?
-            <span class="info-icon" title="Alleen van toepassing op AI-systeem en AI-systeem voor algemene doeleinden">i</span>
+            <span class="info-icon" title="De transparantieverplichtingen in de AI-verordening zijn regels die bepalen hoe duidelijk en begrijpelijk informatie over een AI-systeem moet worden gedeeld met gebruikers en andere betrokkenen.">i</span>
         </label>
         <select class="input-select" id="transparency-obligations" name="transparantieverplichting" disabled>
             <option value="" hidden="">Selecteer optie</option>
@@ -70,7 +73,7 @@
     <div class="form__row">
         <label class="form__label" id="label-systemic-risk" for="systemic-risk">
             Is er sprake van een systeemrisico?
-            <span class="info-icon" title="Alleen van toepassing op AI-model voor algemene doeleinden">i</span>
+            <span class="info-icon" title="Het systeemrisico verwijst naar de potentiële gevaren of negatieve gevolgen die kunnen ontstaan door het gebruik van een AI-model voor algemene doeleinden, afhankelijk van de mate waarin het systeem betrouwbaar, transparant en veilig is, zoals gedefinieerd in de AI-verordening.">i</span>
         </label>
         <select class="input-select" id="systemic-risk" name="systeemrisico" disabled>
             <option value="" hidden="">Selecteer optie</option>

@@ -46,29 +46,6 @@ function updateFieldsBasedOnType(selectedTypeElement) {
   }
 }
 
-// Initialize tooltips
-function initializeTooltips() {
-  const tooltips = document.querySelectorAll('.info-icon');
-  tooltips.forEach(tooltip => {
-    tooltip.addEventListener('mouseover', (e) => {
-      const tooltipText = e.target.getAttribute('title');
-      const tooltipDiv = document.createElement('div');
-      tooltipDiv.className = 'tooltip';
-      tooltipDiv.textContent = tooltipText;
-      document.body.appendChild(tooltipDiv);
-
-      const rect = e.target.getBoundingClientRect();
-      tooltipDiv.style.top = `${rect.top - tooltipDiv.offsetHeight - 5}px`;
-      tooltipDiv.style.left = `${rect.left + (rect.width / 2) - (tooltipDiv.offsetWidth / 2)}px`;
-    });
-
-    tooltip.addEventListener('mouseout', () => {
-      const tooltips = document.querySelectorAll('.tooltip');
-      tooltips.forEach(t => t.remove());
-    });
-  });
-}
-
 function closeModal() {
   document.getElementById('modal').classList.add("display-none")
 }
@@ -95,19 +72,47 @@ function onDynamicContentLoaded(targetDiv, callback) {
   return () => observer.disconnect();
 }
 
+function getBasePath() {
+  const path = window.location.pathname;
+  const isLocal = window.location.hostname === "127.0.0.1" || window.location.hostname === "localhost";
+  const isPRPreview = path.includes('/pr-preview/');
+  
+  if (isLocal) {
+    return '/Algoritmekader';
+  } else if (isPRPreview) {
+    // Extract everything up to and including the PR number
+    const prMatch = path.match(/(\/Algoritmekader\/pr-preview\/pr-\d+)/);
+    return prMatch ? prMatch[1] : '/Algoritmekader';
+  } else {
+    // Production
+    return '/Algoritmekader';
+  }
+}
+
+// Function to handle the redirect
+function redirectThenShowModal(event, targetUrl) {
+  event.preventDefault();
+  sessionStorage.setItem('showModalAfterRedirect', 'true');
+  window.location.href = targetUrl;
+}
+
 function showModal(event, modalId) {
   event.preventDefault();
   event.stopPropagation();
+  const basePath = getBasePath();
+  
   if (modalId === "ai-act-labels") {
-    onDynamicContentLoaded(document.getElementById("modal-content"), (cb) => {
-      updateAIActForm();
-      updateFieldsBasedOnType(document.getElementById("type"));
-    });
-    loadHTML('../../html/ai-verordening-popup.html', 'modal-content')
-    document.getElementById("modal-content-container").classList.add("model-content-auto-size");
+      onDynamicContentLoaded(document.getElementById("modal-content"), (cb) => {
+          updateAIActForm();
+          updateFieldsBasedOnType(document.getElementById("type"));
+      });
+      loadHTML(`${basePath}/html/ai-verordening-popup.html`, 'modal-content')
+      document.getElementById("modal-content-container").classList.add("model-content-auto-size");
   } else if (modalId === "beslishulp") {
-    document.getElementById("modal-content").innerHTML = "<iframe style=\"display: block; width: 100%; height: 100%; border: 0; padding: 0; margin: 0; overflow: hidden;\" src=\"../../html/beslishulp.html\"></iframe>"
-    document.getElementById("modal-content-container").classList.remove("model-content-auto-size");
+      document.getElementById("modal-content").innerHTML = `<iframe 
+          style="display: block; width: 100%; height: 100%; border: 0; padding: 0; margin: 0; overflow: hidden;" 
+          src="${basePath}/html/beslishulp.html"></iframe>`
+      document.getElementById("modal-content-container").classList.remove("model-content-auto-size");
   }
   document.getElementById("modal").classList.remove("display-none");
 }
@@ -132,7 +137,6 @@ function loadHTML(url, targetDivId) {
       console.error("Error loading HTML:", error); // Handle fetch errors
     });
 }
-
 
 function updateLabels(labels) {
   const allLabels = labels.map(label => labelMapper.find(label));
@@ -299,16 +303,71 @@ labelMapper.addEntry('in-ontwikkeling', 'In ontwikkeling', 'operationeel', ["Ope
 labelMapper.addEntry('beoordeling-door-derde-partij', 'Beoordeling door derde partij', 'conformiteitsbeoordelingsinstantie', ["Conformiteitsbeoordelingsinstantie-beoordeling door derde partij"]);
 labelMapper.addEntry('niet-van-toepassing', 'Niet van toepassing', 'conformiteitsbeoordelingsinstantie', ["Conformiteitsbeoordelingsinstantie-niet van toepassing"]);
 
+// Add the message event listener
 window.addEventListener('message', (event) => {
   if (event.data.event === 'beslishulp-done') {
-    // Handle the event
-    console.log('Received beslishulp-done:', event.data.value);
-    const jsonObject = JSON.parse(sessionStorage.getItem("labelsbysubcategory"))
-    const beslishulpLabels = Object.entries(jsonObject).flatMap(([key, values]) =>
-      values.map(value => `${key}-${value}`)
-    )
-    updateLabels(beslishulpLabels);
-    filterTable();
-    closeModal();
+      console.log('Received beslishulp-done:', event.data.value);
+      
+      const redirectUrl = sessionStorage.getItem('pendingRedirect');
+      if (redirectUrl) {
+          // Store labels for processing after redirect
+          const jsonObject = JSON.parse(sessionStorage.getItem("labelsbysubcategory"));
+          if (jsonObject) {
+              sessionStorage.setItem('pendingLabels', JSON.stringify(jsonObject));
+          }
+          
+          closeModal();
+          sessionStorage.removeItem('pendingRedirect');
+          window.location.href = redirectUrl;
+      } else {
+          // Direct modal case - handle labels immediately
+          const jsonObject = JSON.parse(sessionStorage.getItem("labelsbysubcategory"));
+          if (jsonObject) {
+              // Clear existing labels first
+              document.getElementById('ai-act-info-with-labels').classList.add('display-none');
+              document.getElementById('ai-act-info-no-labels').classList.remove('display-none');
+              document.getElementById('ai-act-labels-container').innerHTML = '';
+              document.getElementById('labelsInput').value = '';
+              
+              // Convert and update labels
+              const beslishulpLabels = Object.entries(jsonObject).flatMap(([key, values]) =>
+                  values.map(value => `${key}-${value}`)
+              );
+              updateLabels(beslishulpLabels);
+          }
+          closeModal();
+      }
   }
 });
+
+document.addEventListener('DOMContentLoaded', () => {
+  // Check if we should show modal
+  const shouldShowModal = sessionStorage.getItem('showModalAfterRedirect');
+  if (shouldShowModal) {
+      sessionStorage.removeItem('showModalAfterRedirect');
+      showModal(new Event('click'), 'beslishulp');
+  }
+
+  // Check for and process any pending labels
+  const pendingLabels = sessionStorage.getItem('pendingLabels');
+  if (pendingLabels) {
+      try {
+          const jsonObject = JSON.parse(pendingLabels);
+          const beslishulpLabels = Object.entries(jsonObject).flatMap(([key, values]) =>
+              values.map(value => `${key}-${value}`)
+          );
+          // Clear existing labels first
+          document.getElementById('ai-act-info-with-labels').classList.add('display-none');
+          document.getElementById('ai-act-info-no-labels').classList.remove('display-none');
+          document.getElementById('ai-act-labels-container').innerHTML = '';
+          document.getElementById('labelsInput').value = '';
+          
+          updateLabels(beslishulpLabels);
+          filterTable();
+          sessionStorage.removeItem('pendingLabels'); // Clean up
+      } catch (error) {
+          console.error('Error processing pending labels:', error);
+      }
+  }
+});
+

@@ -24,12 +24,10 @@ Het Algoritmekader is een website van het Ministerie van Binnenlandse Zaken en K
 - belangrijke hulpmiddelen, zoals de [IAMA](https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes) (Impact Assessment Mensenrechten en Algoritmes)
 - adviezen en ervaringen van experts, zoals wetenschappers
 
-## Versie 2.0
-Versie 2.0 is de definitieve, betrouwbare versie van het Algoritmekader. Deze versie verscheen op 19 december 2024. 
+## Versie 2.1
+Versie 2.1 is de nieuwste, betrouwbare versie van het Algoritmekader. Deze versie verscheen op 20 februari 2025 en bevat de laatste updates en aanpassingen.
 
-We updaten de informatie op deze website regelmatig. Ongeveer elke maand verschijnt er een nieuwe versie.
-
-Tot eind 2024 was deze website een bètaversie. De eerste versie van het Algoritmekader was een rapport: [Implementatiekader 'Verantwoorde inzet van algoritmen'](https://www.rijksoverheid.nl/documenten/rapporten/2023/06/30/implementatiekader-verantwoorde-inzet-van-algoritmen). Door het verder ontwikkelen van dit rapport ontstond de website Algoritmekader. 
+Tot 19 december 2024 was deze website een bètaversie. De eerste versie van het Algoritmekader was een rapport: [Implementatiekader 'Verantwoorde inzet van algoritmen'](https://www.rijksoverheid.nl/documenten/rapporten/2023/06/30/implementatiekader-verantwoorde-inzet-van-algoritmen). Door het verder ontwikkelen van dit rapport ontstond de website Algoritmekader. 
 
 ## Iedereen mag meedenken
 De informatie in het Algoritmekader komt open source tot stand. Dat betekent dat iedereen kan meekijken en zijn mening mag geven, of een voorstel mag doen:

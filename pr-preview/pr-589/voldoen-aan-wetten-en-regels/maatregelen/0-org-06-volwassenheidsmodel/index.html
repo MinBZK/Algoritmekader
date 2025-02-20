@@ -65,6 +65,8 @@
     
       <link rel="stylesheet" href="../../../stylesheets/choices.min.css">
     
+      <link rel="stylesheet" href="../../../stylesheets/modal.css">
+    
     <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -1006,6 +1008,14 @@ Bron: [Implementatiestrategie Digitale-Ethiek](https://overijssel.notubiz.nl/mod
       </div>
     </div>
   </footer>
+<div id="modal" class="minbzk-modal display-none">
+  <div class="modal-underlay" onclick="closeModal()"></div>
+  <div class="modal-content-container" id="modal-content-container">
+    <div class="modal-content-close" onclick="closeModal()">&#xd7;</div>
+    <div class="modal-content" id="modal-content">
+  </div>
+  </div>
+</div>
       
     </div>
     <div class="md-dialog" data-md-component="dialog">
@@ -1029,6 +1039,8 @@ Bron: [Implementatiestrategie Digitale-Ethiek](https://overijssel.notubiz.nl/mod
         <script src="../../../javascripts/filtering.js"></script>
       
         <script src="../../../javascripts/mermaid.min.js"></script>
+      
+        <script src="../../../javascripts/modal.js"></script>
       
     
   <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});

@@ -89,17 +89,6 @@ function getBasePath() {
   }
 }
 
-// function showModalWithRedirect(event, modalId, redirectUrl) {
-//   event.preventDefault();
-//   event.stopPropagation();
-  
-//   // Store the redirect URL for later use
-//   sessionStorage.setItem('pendingRedirect', redirectUrl);
-  
-//   // Call your existing showModal function
-//   showModal(event, modalId);
-// }
-
 // Function to handle the redirect
 function redirectThenShowModal(event, targetUrl) {
   event.preventDefault();

@@ -101,13 +101,14 @@ function getBasePath() {
   const isPRPreview = path.includes('/pr-preview/');
   
   if (isLocal) {
-      return '/Algoritmekader';
+    return '/Algoritmekader';
   } else if (isPRPreview) {
-      // Get everything up to where the HTML files are located
-      return path.split('/html/')[0];
+    // Extract everything up to and including the PR number
+    const prMatch = path.match(/(\/Algoritmekader\/pr-preview\/pr-\d+)/);
+    return prMatch ? prMatch[1] : '/Algoritmekader';
   } else {
-      // Production
-      return '/Algoritmekader';
+    // Production
+    return '/Algoritmekader';
   }
 }
 

@@ -53,9 +53,6 @@ Betrokkenen hebben geen controle over hun persoonsgegevens doordat ze geen beroe
 	
 	Bron: [Formulier Privacyverzoek - Ministerie van Algemene Zaken](https://www.rijksoverheid.nl/ministeries/ministerie-van-algemene-zaken/privacy/privacy-verzoekenformulier-az)
 
-Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
+- [Privacyverzoek Gemeente Amsterdam](https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/Privacy.aspx/fPrivacyVerzoek)
 
-
-<!-- [Privacyverzoek Gemeente Amsterdam](https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/Privacy.aspx/fPrivacyVerzoek) -->
-
-Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

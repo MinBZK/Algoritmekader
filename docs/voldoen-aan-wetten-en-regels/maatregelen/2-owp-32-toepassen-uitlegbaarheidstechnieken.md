@@ -37,8 +37,8 @@ Afhankelijk van het type algoritme zijn er uitlegbaarheidstechnieken beschikbaar
 
 Onderzoek hoe uitlegbaarheidstechnieken kunnen bijdragen aan het motiveren van besluiten. Dit kan bijvoorbeeld door:
 	
-	- De output van het algoritme te koppelen aan het zaakdossier, met een toelichting op de interpretatie van die output.
-	- De output of een samenvatting hiervan op te nemen in de beschikking.
+- De output van het algoritme te koppelen aan het zaakdossier, met een toelichting op de interpretatie van die output.
+- De output of een samenvatting hiervan op te nemen in de beschikking.
  
 ### Beperkingen en veiligheid
 
@@ -78,4 +78,4 @@ Als er geen rekening wordt gehouden met de uitlegbaarheid van een algoritme binn
 	
  	Bron: [Overzicht Verwerkte Data en Features](https://algoritmeregister.amsterdam.nl/onderzoekswaardigheid-slimme-check-levensonderhoud/#:~:text=Overzicht%20Verwerkte%20Data%20en%20Features.pdf)
 
-Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

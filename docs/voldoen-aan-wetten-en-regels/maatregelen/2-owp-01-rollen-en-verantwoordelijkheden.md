@@ -90,7 +90,7 @@ De sturing en verantwoording is ontoereikend of niet geborgd, waardoor er onvold
 	Bron: [Algoritmelevenscyclus - UWV], pagina 12( https://www.uwv.nl/overuwv/Images/bijlage-4-beslissing-op-bezwaar-op-wob-verzoek-software-en-algoritmes.pdf) 
 
 !!! example "Proceseigenaar"
-  De proceseigenaar wordt vaak verantwoordelijk gehouden voor eventuele gevolgen van het gebruik van het algoritme. Deze maatregel zorgt ervoor dat de proceseigenaar niet alle verantwoordelijkheid draagt, omdat dit vaak niet realistisch is. Met deze maatregel kunnen er heldere afspraken over de verschillende verantwoordlijkheden worden gemaakt. Hierdoor wordt het draagvlak groter, zonder ten koste te gaan van de duidelijkheid over rollen en verantwoordelijkheden. 
+	De proceseigenaar wordt vaak verantwoordelijk gehouden voor eventuele gevolgen van het gebruik van het algoritme. Deze maatregel zorgt ervoor dat de proceseigenaar niet alle verantwoordelijkheid draagt, omdat dit vaak niet realistisch is. Met deze maatregel kunnen er heldere afspraken over de verschillende verantwoordlijkheden worden gemaakt. Hierdoor wordt het draagvlak groter, zonder ten koste te gaan van de duidelijkheid over rollen en verantwoordelijkheden. 
   
 
-Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

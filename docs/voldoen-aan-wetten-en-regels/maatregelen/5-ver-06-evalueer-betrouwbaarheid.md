@@ -53,11 +53,11 @@ Het testen van betrouwbaarheid kan bijvoorbeeld door precisie of recall te meten
 Pas de methodes en metrieken aan op de ontwerpkeuzes, zoals de context waarin het algoritme gebruikt wordt en het [soort algoritme](2-owp-05-soort-algoritme.md). 
 Onderzoek of er specifieke situaties of omstandigheden zijn waarvan bekend is dat deze kunnen variëren. 
 
-??? example "Voorbeeld"
+!!! example "Voorbeeld"
 
     Analyseer welke veranderingen of wisselingen in de [inputdata](2-owp-11-gebruikte-data.md) er kunnen plaatsvinden. Bijvoorbeeld door economische schommelingen of door veranderingen in gebruikersgedrag. Test of het algoritme goed blijft presteren onder deze omstandigheden. 
 
-??? example "Voorbeeld"
+!!! example "Voorbeeld"
 
     De verdeling van de inputdata kan invloed hebben op de prestaties van een machine-learning algoritme (distributieshift). Test hoe het algoritme presteert onder andere verdelingen van de inputdata. 
 
@@ -113,5 +113,4 @@ Een onbetrouwbaar algoritme kan in een nieuwe of onverwachte situatie de verkeer
 
 ## Voorbeelden
 
-Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
-
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

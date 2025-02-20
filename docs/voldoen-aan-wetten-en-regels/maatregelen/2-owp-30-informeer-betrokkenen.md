@@ -77,7 +77,9 @@ Het risico is dat partijen niet of onvolledig worden geïnformeerd over de ontwi
 
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
-Geen beschikbare bron voor deze maatregel.
+
+- [Toetsingskader Algemene Rekenkamer, 2.09, 3.13, 3.15](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
+
   
 ## Voorbeelden
 !!! example "Communicatiekompas – Bouwstenen van een communicatieplan"
@@ -103,7 +105,6 @@ Geen beschikbare bron voor deze maatregel.
 	Bron: [Keuzehulp Internetoplichting](https://aangifte.politie.nl/iaai-preintake/)  
   
 
-- [Toetsingskader Algemene Rekenkamer, 2.09, 3.13, 3.15](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Bouwstenen van een communicatieplan](https://communicatiekompas.nl/hulpmiddelen/bouwstenen-van-een-communicatieplan)
 - [WMO voorspelmodel](https://wmovoorspelmodel.vng.nl/)
 - [Handreiking WMO voorspelmodel](https://wmovoorspelmodel.vng.nl/Handreiking%20Wmo%20Voorspelmodel%20juli%202024.pdf)

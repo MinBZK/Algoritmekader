@@ -14,6 +14,8 @@ hide:
 - toc
 ---
 
+<!-- tags -->
+
 ## Maatregel
 
 Richt een algoritmegovernance in met three lines of defence.
@@ -60,7 +62,4 @@ Geen beschikbare bron voor deze maatregel.
  	
 	Bron: [Kleur Bekennen](https://rekenkamer.rotterdam.nl/onderzoeken/kleur-bekennen/)
 
-Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
-
-Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
-
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

@@ -46,19 +46,12 @@ Daarbij is het relevant om te beoordelen in hoeverre er is voldaan aan geharmoni
 Er wordt gecontracteerd met een aanbieder die niet voldoet aan de vereisten voor een verantwoorde inzet van algoritmes. 
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
-<!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
-
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen 
-<!-- Vul hier de relevante bronnen in voor deze maatregel -->     
 Geen beschikbare bron voor deze maatregel.
 
 ## Voorbeelden
-<!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
-Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
-
-
-  
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

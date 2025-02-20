@@ -112,7 +112,7 @@ Er is niet gespecificeerd en daarmee achteraf niet afdwingbaar dat algoritmes aa
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
-[Hoe specificeer ik mijn vraag?](https://www.pianoo.nl/nl/inkopen-het-kort/hoe-zit-het-inkoopproces-elkaar/hoe-specificeer-ik-mijn-vraag)
+- [Hoe specificeer ik mijn vraag? (PIANOo - Inkopen in het kort](https://www.pianoo.nl/nl/inkopen-het-kort/hoe-zit-het-inkoopproces-elkaar/hoe-specificeer-ik-mijn-vraag)
 
 ## Voorbeelden
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->

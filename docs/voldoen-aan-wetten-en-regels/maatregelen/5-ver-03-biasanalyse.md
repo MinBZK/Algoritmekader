@@ -126,7 +126,7 @@ Het is daarom van belang om duidelijk afwegingen te maken tussen privacy en het 
     Bijvoorbeeld door hierop te monitoren in de klacht- en bezwarenprocedure. 
 
 4. **Bereken de verschillen in behandeling en/of uitkomsten van het algoritme**.
-Bepaal of er sprake is van een onderscheid en of dit significant is. Er zijn verschillende open source softwarepakketten die je hierbij kunnen ondersteunen, zoals [fairlearn](https://fairlearn.org/), [Aequitas](https://github.com/dssg/aequitas), [fairml](https://cran.r-project.org/web/packages/fairml/index.html), [fairness](https://cran.r-project.org/web/packages/fairness/index.html) of [AI Fairness 360](https://aif360.res.ibm.com/).
+Bepaal of er sprake is van een onderscheid en of dit significant is. Er zijn verschillende open source softwarepakketten die je hierbij kunnen ondersteunen, zoals [fairlearn](https://fairlearn.org/), [Aequitas](https://github.com/dssg/aequitas), [fairml](https://cran.r-project.org/web/packages/fairml/index.html), [fairness](https://cran.r-project.org/web/packages/fairness/index.html) of [AI Fairness 360](https://github.com/Trusted-AI/AIF360).
 
 5. **Probeer te verklaren hoe het geconstateerde onderscheid is ontstaan**.
 Als er in de vorige stap een significant onderscheid is geconstateerd, is het belangrijk om na te gaan hoe en waar in het proces dit onderscheid is ontstaan. 

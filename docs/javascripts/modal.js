@@ -112,15 +112,22 @@ function getBasePath() {
   }
 }
 
-function showModalWithRedirect(event, modalId, redirectUrl) {
+// function showModalWithRedirect(event, modalId, redirectUrl) {
+//   event.preventDefault();
+//   event.stopPropagation();
+  
+//   // Store the redirect URL for later use
+//   sessionStorage.setItem('pendingRedirect', redirectUrl);
+  
+//   // Call your existing showModal function
+//   showModal(event, modalId);
+// }
+
+// Function to handle the redirect
+function redirectThenShowModal(event, targetUrl) {
   event.preventDefault();
-  event.stopPropagation();
-  
-  // Store the redirect URL for later use
-  sessionStorage.setItem('pendingRedirect', redirectUrl);
-  
-  // Call your existing showModal function
-  showModal(event, modalId);
+  sessionStorage.setItem('showModalAfterRedirect', 'true');
+  window.location.href = targetUrl;
 }
 
 function showModal(event, modalId) {
@@ -354,6 +361,13 @@ window.addEventListener('message', (event) => {
 
 // Add this to the page that receives the redirect
 document.addEventListener('DOMContentLoaded', () => {
+  // Check if we should show modal
+  const shouldShowModal = sessionStorage.getItem('showModalAfterRedirect');
+  if (shouldShowModal) {
+      sessionStorage.removeItem('showModalAfterRedirect');
+      showModal(new Event('click'), 'beslishulp');
+  }
+
   // Check for and process any pending labels
   const pendingLabels = sessionStorage.getItem('pendingLabels');
   if (pendingLabels) {

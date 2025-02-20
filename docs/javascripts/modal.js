@@ -308,24 +308,38 @@ window.addEventListener('message', (event) => {
   if (event.data.event === 'beslishulp-done') {
       console.log('Received beslishulp-done:', event.data.value);
       
-      // Store any labels for processing after redirect
-      const jsonObject = JSON.parse(sessionStorage.getItem("labelsbysubcategory"));
-      if (jsonObject) {
-          sessionStorage.setItem('pendingLabels', JSON.stringify(jsonObject));
-      }
-      
-      closeModal();
-
-      // Perform the redirect
       const redirectUrl = sessionStorage.getItem('pendingRedirect');
       if (redirectUrl) {
+          // Store labels for processing after redirect
+          const jsonObject = JSON.parse(sessionStorage.getItem("labelsbysubcategory"));
+          if (jsonObject) {
+              sessionStorage.setItem('pendingLabels', JSON.stringify(jsonObject));
+          }
+          
+          closeModal();
           sessionStorage.removeItem('pendingRedirect');
           window.location.href = redirectUrl;
+      } else {
+          // Direct modal case - handle labels immediately
+          const jsonObject = JSON.parse(sessionStorage.getItem("labelsbysubcategory"));
+          if (jsonObject) {
+              // Clear existing labels first
+              document.getElementById('ai-act-info-with-labels').classList.add('display-none');
+              document.getElementById('ai-act-info-no-labels').classList.remove('display-none');
+              document.getElementById('ai-act-labels-container').innerHTML = '';
+              document.getElementById('labelsInput').value = '';
+              
+              // Convert and update labels
+              const beslishulpLabels = Object.entries(jsonObject).flatMap(([key, values]) =>
+                  values.map(value => `${key}-${value}`)
+              );
+              updateLabels(beslishulpLabels);
+          }
+          closeModal();
       }
   }
 });
 
-// Add this to the page that receives the redirect
 document.addEventListener('DOMContentLoaded', () => {
   // Check if we should show modal
   const shouldShowModal = sessionStorage.getItem('showModalAfterRedirect');
@@ -342,6 +356,12 @@ document.addEventListener('DOMContentLoaded', () => {
           const beslishulpLabels = Object.entries(jsonObject).flatMap(([key, values]) =>
               values.map(value => `${key}-${value}`)
           );
+          // Clear existing labels first
+          document.getElementById('ai-act-info-with-labels').classList.add('display-none');
+          document.getElementById('ai-act-info-no-labels').classList.remove('display-none');
+          document.getElementById('ai-act-labels-container').innerHTML = '';
+          document.getElementById('labelsInput').value = '';
+          
           updateLabels(beslishulpLabels);
           filterTable();
           sessionStorage.removeItem('pendingLabels'); // Clean up

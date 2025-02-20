@@ -46,29 +46,6 @@ function updateFieldsBasedOnType(selectedTypeElement) {
   }
 }
 
-// Initialize tooltips
-function initializeTooltips() {
-  const tooltips = document.querySelectorAll('.info-icon');
-  tooltips.forEach(tooltip => {
-    tooltip.addEventListener('mouseover', (e) => {
-      const tooltipText = e.target.getAttribute('title');
-      const tooltipDiv = document.createElement('div');
-      tooltipDiv.className = 'tooltip';
-      tooltipDiv.textContent = tooltipText;
-      document.body.appendChild(tooltipDiv);
-
-      const rect = e.target.getBoundingClientRect();
-      tooltipDiv.style.top = `${rect.top - tooltipDiv.offsetHeight - 5}px`;
-      tooltipDiv.style.left = `${rect.left + (rect.width / 2) - (tooltipDiv.offsetWidth / 2)}px`;
-    });
-
-    tooltip.addEventListener('mouseout', () => {
-      const tooltips = document.querySelectorAll('.tooltip');
-      tooltips.forEach(t => t.remove());
-    });
-  });
-}
-
 function closeModal() {
   document.getElementById('modal').classList.add("display-none")
 }

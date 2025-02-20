@@ -224,7 +224,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 "</table>",
             ]
         )
-
+        
         return result
 
     # NEW FUNCTION: To generate the Vereisten for a specific maatregel

@@ -186,10 +186,6 @@ def _badge_soort_toepassing(page: Page, files: Files, soort: str):
         href_fase = _resolve_path("voldoen-aan-wetten-en-regels/ai-verordening.md#ai-model-voor-algemene-doeleinden", page, files)
     elif soort == "ai-model-voor-algemene-doeleinden":
         href_fase = _resolve_path("voldoen-aan-wetten-en-regels/ai-verordening.md#ai-model-voor-algemene-doeleinden", page, files)
-    elif soort == "impactvol-algoritme":
-         href_fase = _resolve_path("overhetalgoritmekader/impact-van-algoritmes.md", page, files)
-    elif soort == "geen-impactvol-algoritme":
-         href_fase = _resolve_path("overhetalgoritmekader/impact-van-algoritmes.md", page, files)
       
     return _badge(
         icon=f"[:{icon}:]({href_soort_toepassing} 'Soort toepassing')",

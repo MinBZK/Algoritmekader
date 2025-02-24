@@ -37,12 +37,6 @@ function updateFieldsBasedOnType(selectedTypeElement) {
     setSelectedValue(riskGroupField, "");
     transparencyField.disabled = true;
     setSelectedValue(transparencyField, "");
-  } else if (selectedType === 'impactvol-algoritme' || selectedType === 'niet-impactvol-algoritme') {
-    // For algoritmes, keep all fields disabled but visible
-    [riskGroupField, transparencyField, systemicRiskField].forEach(field => {
-      field.disabled = true;
-      setSelectedValue(field, "");
-    });
   }
 }
 
@@ -319,8 +313,6 @@ labelMapper.addEntry('distributeur', 'Distributeur', 'rol-ai-act', ["Rol-distrib
 labelMapper.addEntry('ai-systeem', 'AI Systeem', 'soort-toepassing', ['Soort toepassing-AI-Systeem']);
 labelMapper.addEntry('ai-systeem-voor-algemene-doeleinden', 'AI Systeem voor algemene doeleinden', 'soort-toepassing', ['Soort toepassing-AI-Systeem voor algemene doeleinden']);
 labelMapper.addEntry('ai-model-voor-algemene-doeleinden', 'AI model voor algemene doeleinden', 'soort-toepassing', ['Soort toepassing-AI-model voor algemene doeleinden']);
-labelMapper.addEntry('impactvol-algoritme', 'Impactvol algoritme', 'soort-toepassing', ["Soort toepassing-impactvol algoritme"]);
-labelMapper.addEntry('niet-impactvol-algoritme', 'Niet-impactvol algoritme', 'soort-toepassing', ["Soort toepassing-niet-impactvol algoritme"]);
 labelMapper.addEntry('geen-algoritme', 'Geen algoritme', 'soort-toepassing', ["Soort toepassing-geen algoritme"]);
 
 labelMapper.addEntry('transparantieverplichting', 'Transparantieverplichting', 'transparantieverplichting', ["Transparantieverplichting-transparantieverplichting"]);

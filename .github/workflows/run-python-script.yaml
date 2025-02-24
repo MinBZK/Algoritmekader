@@ -1,4 +1,4 @@
-name: Run python script
+name: Perform CSV Update
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
 
 jobs:
   run-python-script:
-    if: false # disabled, script updates too often
+    if: github.event.pull_request.merged == true && github.event.pull_request.base.ref == 'main'
     runs-on: ubuntu-latest
     
     steps:
@@ -26,13 +26,16 @@ jobs:
       - name: Run Python script
         run: python script/analysis-maatregelen.py
 
-      - name: Configure Git
+      - name: Check for changed CSV file
+        id: git-check
+        run: |
+          echo "changes=$(git status --porcelain relatie-ak-tot-toetsingskaders.csv | wc -l | tr -d ' ')" >> $GITHUB_OUTPUT
+
+      - name: Commit and push new CSV file
+        if: ${{ steps.git-check.outputs.changes != '0' }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: push changes
-        run: |
           git add relatie-ak-tot-toetsingskaders.csv
           git commit -m "Update CSV bestand"
           git push

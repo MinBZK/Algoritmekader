@@ -67,6 +67,7 @@ search:
 | objectieve rechtvaardiging | Van een objectieve rechtvaardiging voor onderscheid is sprake wanneer onderscheid een legitiem doel nastreeft en er een redelijke relatie van evenredigheid bestaat tussen het gemaakte onderscheid en het nagestreefde doel. | 
 | op de markt aanbieden | Het in het kader van een handelsactiviteit, al dan niet tegen betaling, verstrekken van een AI-systeem of een AI-model voor algemene doeleinden met het oog op distributie of gebruik op de markt van de Unie. | 
 | operator | Een aanbieder, productfabrikant, gebruiksverantwoordelijke, gemachtigde, importeur of distributeur. | 
+| open-source | Open source toepassingen omvatten modellen, software, gegevens, tools en processen die onder een vrije licentie worden vrijgegeven, zodat gebruikers deze vrij kunnen gebruiken, aanpassen en verspreiden, met transparantie over parameters, gebruiksinformatie en respect voor de licentievoorwaarden. |
 | prestaties van een AI-systeem | Het vermogen van een AI-systeem om het beoogde doel te verwezenlijken. | 
 | plan voor testen onder reële omstandigheden | Een document waarin de doelstellingen, methode, geografische reikwijdte, betrokken personen, duur, monitoring, organisatie en wijze van uitvoering van een test onder reële omstandigheden worden omschreven. | 
 | proceseigenaar | De proceseigenaar is verantwoordelijk voor de kwaliteit van het proces en de vastlegging daarvan in een processchema. | 

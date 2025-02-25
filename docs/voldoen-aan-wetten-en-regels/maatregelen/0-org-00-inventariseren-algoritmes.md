@@ -53,4 +53,4 @@ Inventariseren van de algoritmes die gebruikt worden, helpt bij:
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
 
-Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).
+Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

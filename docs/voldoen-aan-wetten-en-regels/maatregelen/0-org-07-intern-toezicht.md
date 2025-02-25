@@ -18,7 +18,7 @@ hide:
 
 ## Maatregel
 
-Richt een algoritmegovernance in met three lines of defence.
+Richt een algoritmegovernance in met tree lines of defence.
 
 ## Toelichting
 

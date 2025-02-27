@@ -1,7 +1,7 @@
 ---
 # Dit template dient als voorbeeld voor een MAATREGEL in het Algoritmekader.
 # Meer over de onderdelen van deze broncode en de voorwaarden waar die aan moeten voldoen, lees je in de documentatie:
-# github.com/MinBZK/Algoritmekader/wiki/Onderdelen-van-het-Algoritmekader
+# https://github.com/MinBZK/Algoritmekader/wiki/Onderdelen-van-het-Algoritmekader
 
 title: Hier staat de titel, die in 1 zin de maatregel beschrijft.
 
@@ -31,10 +31,15 @@ vereiste:
 - aia-05-data-kwaliteitscriteria
 # LET OP: dit zijn nu nog voorbeelden van 3 vereisten, vervang dit dus met de namen van de vereisten waar deze maatregel bij hoort
 
-# 
+# Bij maatregelen geven we bronnen mee in de metadata. Dit betreft alleen de bronnen uit: Toetsingskader van de Algemene Rekenkamer en Onderzoekskader van de Auditdienst Rijk
+# Op basis van de informatie over deze bronnen in de metatdata, wordt er automatisch een mapping gemaakt tussen deze twee toetsingskaders en het Algoritmekader.
+# We verwijzen als volgt naar deze bronnen (kijk voor de betreffende maatregelen en hun code in de betreffende 2 toetsingskaders. Dit is een voorbeeld):
 sources:
-  ADR: PRI.11
-  ARK: 3.17
+  ADR:
+  - PRI.11
+  ARK:
+  - 3.17
+
 
 # het volgende laten staan, dit is nodig voor de styling van de website:
 hide:

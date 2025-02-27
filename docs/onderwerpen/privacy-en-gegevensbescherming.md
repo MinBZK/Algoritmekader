@@ -31,7 +31,7 @@ De persoonsgegevens die overblijven, gebruik je zo minimaal mogelijk. Hoe minima
 * [Pseudonimiseren](https://www.autoriteitpersoonsgegevens.nl/themas/beveiliging/beveiliging-van-persoonsgegevens/gegevens-pseudonimiseren): data moeilijker herleidbaar maken naar personen
 * Aggregeren: data zoveel mogelijk combineren of samenvoegen tot 1 waarde, zoals een totaal of gemiddelde
 
-!!! "tip" Tip
+!!! tip "Tip"
 
     Leg de keuzes die je maakt duidelijk uit. Zo voorkom je fouten op de werkvloer. Persoonsgegevens die zijn verzameld voor doel A mogen bijvoorbeeld alleen onder specifieke voorwaarden voor doel B gebruiken.
 

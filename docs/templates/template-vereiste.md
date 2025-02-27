@@ -1,59 +1,42 @@
 ---
-# Dit template dient als voorbeeld voor een vereiste in het Algoritmekader
-# Meer over de onderdelen van deze broncode en de voorwaarden waar die aan moeten voldoen, lees je in de documentatie
-# github.com/MinBZK/Algoritmekader/wiki/Onderdelen-van-het-Algoritmekader
-
-title: Hier staat de titel, die in 1 zin de regel/wet/verplichting/gewenste situatie beschrijft.
-
-# deze unieke code moet aan enkele voorwaarden voldoen, let goed op!
-id: urn:nl:ak:ver:aia-00
-
-toelichting: Hier staat in enkele zinnen uitgelegd wat de regel inhoudt. Maximaal 40 woorden.
-
-# pas deze tags aan om de vereiste aan de goede fases uit de levenscyclus te koppelen
+title: Iedereen kan openbare informatie over algoritmes vinden of aanvragen
+id: urn:nl:ak:ver:woo-01
+toelichting: Een bestuursorgaan draagt er zorg voor dat de documenten die het ontvangt, vervaardigt of anderszins onder zich heeft, zich in goede, geordende en toegankelijke staat bevinden. Een bestuursorgaan draagt er zoveel mogelijk zorg voor dat de informatie die het overeenkomstig deze wet verstrekt, actueel, nauwkeurig en vergelijkbaar is.
 levenscyclus:
-- ontwerp
-- implementatie
-
-# pas deze tags aan om de vereiste aan de goede onderwerpen te koppelen
+- organisatieverantwoordelijkheden
 onderwerp:
-- governance
 - transparantie
-
-# pas deze tags aan om de vereiste aan de goede rollen te koppelen
 rollen:
+- jurist
 - projectleider
-
-# pas deze tags aan om de vereiste aan de goede labels uit de AI Verordening te koppelen. Let op: alle mogelijke tags zijn in dit voorbeeld ingevuld. Gebruik alleen wat geldt. Lees hier meer over in de documentatie
-# github.com/MinBZK/Algoritmekader/wiki/Onderdelen-van-het-Algoritmekader
 soort-toepassing:
+- ai-model-voor-algemene-doeleinden
 - ai-systeem
 - ai-systeem-voor-algemene-doeleinden
-- ai-model-voor-algemene-doeleinden
-risicogroep:
+- impactvol-algoritme
+- niet-impactvol-algoritme
+risicogroep: 
 - hoog-risico-ai-systeem
 - geen-hoog-risico-ai-systeem
 - uitzondering-van-toepassing
-- verboden-ai-systeem
+- verboden-ai
 rol-ai-act:
 - aanbieder
 - gebruiksverantwoordelijke
 - importeur
 - distributeur
+transparantieverplichting: 
+- geen-transparantieverplichting
+- transparantieverplichting 
+- niet-van-toepassing
 systeemrisico:
 - systeemrisico
 - geen-systeemrisico
 - niet-van-toepassing
-transparantieverplichting:
-- transparantieverplichting
-- geen-transparantieverplichting
-- niet-van-toepassing
-open-source:
+open-source: 
 - open-source
 - geen-open-source
 - niet-van-toepassing
-
-# het volgende laten staan, dit is nodig voor de styling van de website
 hide:
 - navigation
 ---

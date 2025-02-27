@@ -1,7 +1,7 @@
 ---
 # Dit template dient als voorbeeld voor een VEREISTE in het Algoritmekader.
 # Meer over de onderdelen van deze broncode en de voorwaarden waar die aan moeten voldoen, lees je in de documentatie:
-# github.com/MinBZK/Algoritmekader/wiki/Onderdelen-van-het-Algoritmekader
+# https://github.com/MinBZK/Algoritmekader/wiki/Onderdelen-van-het-Algoritmekader
 
 title: Hier staat de titel, die in 1 zin de regel/wet/verplichting/gewenste situatie beschrijft.
 

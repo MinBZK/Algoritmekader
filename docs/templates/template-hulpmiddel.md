@@ -48,16 +48,21 @@ hide:
 - toc
 ---
 
+<!-- Onderstaande comment met "tags" laten staan, dit is nodig voor het functioneren van de website -->
 <!-- tags -->
 
 <!-- onderstaande zorgt voor een duidelijke button die direct naar het externe hulpmiddel leidt. Vul hier dus de url in van het betreffende rapport, impact assessment, of ander hulpmiddel: -->
 [Direct naar het hulpmiddel](url){ .button .md-button--secondary }
 
+
+
 ## Hulpmiddel
 a
 
+
 ## Relevantie
 a
+
 
 ## Auteur
 a
@@ -73,6 +78,7 @@ Hier staan in dat geval dan de bronnen van het hulpmiddel. -->
 ## Bijbehorende vereisten { data-search-exclude }
 
 <!-- list_vereisten_on_maatregelen_page -->
+
 
 ## Bijbehorende maatregelen
 

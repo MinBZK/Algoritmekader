@@ -2,9 +2,9 @@
 
 # These owners will be the default owners for everything in
 # the repo. Unless a later match takes precedence,
-# @ruthkoole and @maureenhermeling will be requested for
+# @robbertbos and @uittenbroekrobbert will be requested for
 # review when someone opens a pull request.
-* @robbertbos @uittenbroekrobbert 
+* @robbertbos @uittenbroekrobbert
 /docs/ @ruthkoole @Maureenhermeling
 
 # Order is important; the last matching pattern takes the most

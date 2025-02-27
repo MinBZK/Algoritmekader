@@ -57,15 +57,13 @@ hide:
 
 
 ## Hulpmiddel
-a
-
+Hier staat uitleg over wat voor hulpmiddel dit is, en hoe het gebruikt kan worden. Hoe zit het impact assessment, rapport, handreiking, etc. in elkaar? Uit welke onderdelen bestaat het?
 
 ## Relevantie
-a
-
+Beschrijf hier de specifieke relevantie van dit hulpmiddel voor overheidsorganisaties die bezig zijn met algoritmes.
 
 ## Auteur
-a
+Beschrijf hier kort wie de auteur is van dit hulpmiddel, en in wiens opdracht dit hulpmiddel is ontwikkeld.
 
 
 ## Bronnen

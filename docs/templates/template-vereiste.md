@@ -1,9 +1,6 @@
-<!--
-Dit template dient als voorbeeld voor een vereiste in het Algoritmekader. Meer over de onderdelen van deze broncode en de voorwaarden waar die aan moeten voldoen, lees je in de documentatie:
-https://github.com/MinBZK/Algoritmekader/wiki/Onderdelen-van-het-Algoritmekader
--->
-
 ---
+<!-- Dit template dient als voorbeeld voor een vereiste in het Algoritmekader. Meer over de onderdelen van deze broncode en de voorwaarden waar die aan moeten voldoen, lees je in de documentatie: https://github.com/MinBZK/Algoritmekader/wiki/Onderdelen-van-het-Algoritmekader -->
+
 title: Hier staat de titel, die in 1 zin de regel/wet/verplichting/gewenste situatie beschrijft.
 
 id: urn:nl:ak:ver:aia-00 <!-- deze unieke code moet aan enkele voorwaarden voldoen, let goed op! -->
@@ -24,10 +21,7 @@ onderwerp:
 rollen:
 - projectleider
 
-<!-- pas deze tags aan om de vereiste aan de goede labels uit de AI Verordening te koppelen.
-Let op: alle mogelijke tags zijn in dit voorbeeld ingevuld. Gebruik alleen wat geldt.
-Lees hier meer over in de documentatie: https://github.com/MinBZK/Algoritmekader/wiki/Onderdelen-van-het-Algoritmekader
--->
+<!-- pas deze tags aan om de vereiste aan de goede labels uit de AI Verordening te koppelen. Let op: alle mogelijke tags zijn in dit voorbeeld ingevuld. Gebruik alleen wat geldt. Lees hier meer over in de documentatie: https://github.com/MinBZK/Algoritmekader/wiki/Onderdelen-van-het-Algoritmekader -->
 soort-toepassing:
 - ai-systeem
 - ai-systeem-voor-algemene-doeleinden
@@ -80,10 +74,7 @@ Hoe moet die regel geïnterpreteerd worden?
 - [Artikel 12345, Voorbeeldwet](www.url van wetsartikel.nl)
 
 ## Van toepassing op 
-<!--
-Onderstaande titel Van toepassing op, en de code met tags-ai-act laten staan, dit is nodig voor het functioneren van de website.
-Hier komen de goede labels te staan, afhankelijk van wat er in de metadata is aangegeven bij de verschillende AI-Verordening labels / profielen (zie hierboven).
--->
+<!-- Onderstaande titel Van toepassing op, en de code met tags-ai-act laten staan, dit is nodig voor het functioneren van de website. Hier komen de goede labels te staan, afhankelijk van wat er in de metadata is aangegeven bij de verschillende AI-Verordening labels / profielen (zie hierboven). -->
 <!-- tags-ai-act -->
 
 ## Risico
@@ -91,10 +82,7 @@ Hier staat uitgelegd, in één alinea, wat het risico is als deze vereiste níet
 
 
 ## Maatregelen { data-search-exclude }
-<!-- Onderstaande tag met list_maatregelen is nodig voor het juist laten zien van een lijstje met de bijbehorende maatregelen bij deze vereiste. In maatregelbestanden wordt aangegeven bij welke vereisten die maatregel hoort.
-LET OP: pas wel de code van de vereiste aan, zodat de góede maatregelen worden gebruikt.
-Waar hieronder dus nog aia-02-documentatie-beoordeling-niet-hoog-risico-ai staat, maak daarvan de bestandsnaam van de vereiste die je nu aan het aanpassen/toevoegen bent (exclusief de bestandsuitgang .md).
--->
+<!-- Onderstaande tag met list_maatregelen is nodig voor het juist laten zien van een lijstje met de bijbehorende maatregelen bij deze vereiste. In maatregelbestanden wordt aangegeven bij welke vereisten die maatregel hoort. LET OP: pas wel de code van de vereiste aan, zodat de góede maatregelen worden gebruikt. Waar hieronder dus nog aia-02-documentatie-beoordeling-niet-hoog-risico-ai staat, maak daarvan de bestandsnaam van de vereiste die je nu aan het aanpassen/toevoegen bent (exclusief de bestandsuitgang .md). -->
 
 <!-- list_maatregelen vereiste/aia-02-documentatie-beoordeling-niet-hoog-risico-ai no-search no-onderwerp no-rol no-levenscyclus -->
 

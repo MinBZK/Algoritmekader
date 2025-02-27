@@ -1,27 +1,31 @@
 ---
-<!-- Dit template dient als voorbeeld voor een vereiste in het Algoritmekader. Meer over de onderdelen van deze broncode en de voorwaarden waar die aan moeten voldoen, lees je in de documentatie: https://github.com/MinBZK/Algoritmekader/wiki/Onderdelen-van-het-Algoritmekader -->
+# Dit template dient als voorbeeld voor een vereiste in het Algoritmekader.
+# Meer over de onderdelen van deze broncode en de voorwaarden waar die aan moeten voldoen, lees je in de documentatie:
+# https://github.com/MinBZK/Algoritmekader/wiki/Onderdelen-van-het-Algoritmekader
 
 title: Hier staat de titel, die in 1 zin de regel/wet/verplichting/gewenste situatie beschrijft.
 
-id: urn:nl:ak:ver:aia-00 <!-- deze unieke code moet aan enkele voorwaarden voldoen, let goed op! -->
+# deze unieke code moet aan enkele voorwaarden voldoen, let goed op!
+id: urn:nl:ak:ver:aia-00
 
 toelichting: Hier staat in enkele zinnen uitgelegd wat de regel inhoudt. Maximaal 40 woorden.
 
-<!-- pas deze tags aan om de vereiste aan de goede fases uit de levenscyclus te koppelen: -->
+# pas deze tags aan om de vereiste aan de goede fases uit de levenscyclus te koppelen:
 levenscyclus:
 - ontwerp
 - implementatie
 
-<!-- pas deze tags aan om de vereiste aan de goede onderwerpen te koppelen: -->
+# pas deze tags aan om de vereiste aan de goede onderwerpen te koppelen:
 onderwerp:
 - governance
 - transparantie
 
-<!-- pas deze tags aan om de vereiste aan de goede rollen te koppelen: -->
+# pas deze tags aan om de vereiste aan de goede rollen te koppelen:
 rollen:
 - projectleider
 
-<!-- pas deze tags aan om de vereiste aan de goede labels uit de AI Verordening te koppelen. Let op: alle mogelijke tags zijn in dit voorbeeld ingevuld. Gebruik alleen wat geldt. Lees hier meer over in de documentatie: https://github.com/MinBZK/Algoritmekader/wiki/Onderdelen-van-het-Algoritmekader -->
+# pas deze tags aan om de vereiste aan de goede labels uit de AI Verordening te koppelen. Let op: alle mogelijke tags zijn in dit voorbeeld ingevuld. Gebruik alleen wat geldt. Lees hier meer over in de documentatie:
+# https://github.com/MinBZK/Algoritmekader/wiki/Onderdelen-van-het-Algoritmekader
 soort-toepassing:
 - ai-systeem
 - ai-systeem-voor-algemene-doeleinden
@@ -49,7 +53,7 @@ open-source:
 - geen-open-source
 - niet-van-toepassing
 
-<!-- het volgende laten staan, dit is nodig voor de styling van de website -->
+# het volgende laten staan, dit is nodig voor de styling van de website
 hide:
 - navigation
 ---

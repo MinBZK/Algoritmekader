@@ -2,8 +2,9 @@
 # Dit template dient als voorbeeld voor een HULPMIDDEL in het Algoritmekader.
 # Meer over de onderdelen van deze broncode en de voorwaarden waar die aan moeten voldoen, lees je in de documentatie:
 # https://github.com/MinBZK/Algoritmekader/wiki/Onderdelen-van-het-Algoritmekader
+# let op!  Geen punt (.) achter de titel! 
 
-title: Hier staat de titel, die in 1 zin het hulpmiddel beschrijft.
+title: Hier staat de titel, die in 1 zin het hulpmiddel beschrijft
 
 # deze unieke code moet aan enkele voorwaarden voldoen, let goed op!
 id: urn:nl:ak:mtr:owp-00
@@ -13,6 +14,11 @@ toelichting: Hier staat in maximaal enkele zinnen uitgelegd wat dit hulpmiddel i
 # Vul een categorie in waar dit hulpmiddel onder valt. Je kunt kiezen uit: 
 categorie:
 - toetsingskader
+- handreiking
+- impact-assessment
+- register
+- template
+- standaard
 
 # pas deze tags aan om de vereiste aan de goede fases uit de levenscyclus te koppelen:
 levenscyclus:
@@ -53,8 +59,6 @@ hide:
 
 <!-- onderstaande zorgt voor een duidelijke button die direct naar het externe hulpmiddel leidt. Vul hier dus de url in van het betreffende rapport, impact assessment, of ander hulpmiddel: -->
 [Direct naar het hulpmiddel](url){ .button .md-button--secondary }
-
-
 
 ## Hulpmiddel
 Hier staat uitleg over wat voor hulpmiddel dit is, en hoe het gebruikt kan worden. Hoe zit het impact assessment, rapport, handreiking, etc. in elkaar? Uit welke onderdelen bestaat het?

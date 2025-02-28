@@ -2,7 +2,7 @@
 title: Standaarden
 toelichting: Standaarden zijn afspraken die worden vastgelegd om ervoor te zorgen dat producten, processen of diensten voldoen aan specifieke eisen op het gebied van kwaliteit, veiligheid en prestaties. Europese _geharmoniseerde standaarden_ zijn essentieel voor de AI-Verordening.
 categorie: 
-- standaarden
+- standaard
 vereiste:
 - aia-03-risicobeheersysteem
 - aia-05-data-kwaliteitscriteria

@@ -51,7 +51,7 @@
 *[operator]: een aanbieder, productfabrikant, gebruiksverantwoordelijke, gemachtigde, importeur of distributeur
 *[prestaties van een AI-systeem]: het vermogen van een AI-systeem om het beoogde doel te verwezenlijken
 *[plan voor testen onder reële omstandigheden]: een document waarin de doelstellingen, methode, geografische reikwijdte, betrokken personen, duur, monitoring, organisatie en wijze van uitvoering van een test onder reële omstandigheden worden omschreven
-*[open-source]: Open source toepassingen omvatten modellen, software, gegevens, tools en processen die onder een vrije licentie worden vrijgegeven, zodat gebruikers deze vrij kunnen gebruiken, aanpassen en verspreiden, met transparantie over parameters, gebruiksinformatie en respect voor de licentievoorwaarden.
+*[open-source]: Open source is een manier van werken waarbij de makers de broncode, documentatie en ontwerp openbaar beschikbaar stellen onder een opensourcelicentie. Hierdoor kan iedereen de software bekijken, kopiëren, aanpassen of delen. Mensen kunnen voorstellen doen voor verbeteringen of toevoegingen.
 *[proceseigenaar]:	De proceseigenaar is verantwoordelijk voor de kwaliteit van het proces en de vastlegging daarvan in een processchema
 *[proefpersoon]: In het kader van tests onder reële omstandigheden: een natuurlijk persoon die deelneemt aan een test onder reële omstandigheden
 *[publieke inkoop]:	De verwerving van werken, leveringen of diensten door een overheid of publieke organisatie, van de markt of een andere externe instantie, terwijl zij tegelijkertijd publieke waarde creëren en waarborgen vanuit het perspectief van de eigen organisatie.

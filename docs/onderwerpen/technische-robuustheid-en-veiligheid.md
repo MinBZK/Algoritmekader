@@ -55,7 +55,7 @@ Bereid de controles voor tijdens de levenscyclusfases [probleemanalyse](../leven
 Ontwikkel je het algoritme zelf, controleer dan tijdens de ontwikkeling al wat er gebeurt in de verschillende situaties die je verwacht. Experimenteer met nieuwe combinaties van de inputdata en gebruik verschillende representatieve test-sets.
 
 ### Controles uitvoeren
-Voer de controles uit tijdens de [ontwikkelfas](../levenscyclus/ontwikkelen.md)e en de [verificatie- en validatiefase](../levenscyclus/verificatie-en-validatie.md). Test het algoritme goed. Evalueer hoe robuust en veilig het algoritme is. Verbeter het algoritme waar nodig. En monitor goed welke data het algoritme gebruikt, zodat je veranderingen in die data snel signaleert. Maak een noodplan voor als blijkt dat het algoritme niet meer werkt zoals het bedoeld was.
+Voer de controles uit tijdens de [ontwikkelfase](../levenscyclus/ontwikkelen.md) en de [verificatie- en validatiefase](../levenscyclus/verificatie-en-validatie.md). Test het algoritme goed. Evalueer hoe robuust en veilig het algoritme is. Verbeter het algoritme waar nodig. En monitor goed welke data het algoritme gebruikt, zodat je veranderingen in die data snel signaleert. Maak een noodplan voor als blijkt dat het algoritme niet meer werkt zoals het bedoeld was.
 
 Blijf regelmatig controleren tijdens de fases [implementatie](../levenscyclus/implementatie.md) en [monitoring en beheer](../levenscyclus/monitoring-en-beheer.md). Dit zijn de fases waarin je het algoritme gebruikt. Presteert het algoritme niet goed, los het probleem dan op of [stop het gebruik](../levenscyclus/uitfaseren.md). 
 

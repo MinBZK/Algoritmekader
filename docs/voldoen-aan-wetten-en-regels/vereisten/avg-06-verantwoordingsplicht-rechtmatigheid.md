@@ -12,8 +12,6 @@ soort-toepassing:
 - ai-model-voor-algemene-doeleinden
 - ai-systeem
 - ai-systeem-voor-algemene-doeleinden
-- impactvol-algoritme
-- niet-impactvol-algoritme
 risicogroep: 
 - hoog-risico-ai-systeem
 - geen-hoog-risico-ai-systeem

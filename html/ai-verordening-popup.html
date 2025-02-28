@@ -32,15 +32,13 @@
     <div class="form__row">
         <label class="form__label" id="type-label" for="type">
             Wat is het type toepassing? 
-            <span class="info-icon" title="Selecteer welke type jouw toepassing is. Let op: ook als de AI-verordening niet van toepassing is, kan het nog steeds gaan om een (impactvol) algoritme.">i</span>
+            <span class="info-icon" title="Selecteer jouw type toepassing volgens de AI-verordening.">i</span>
         </label>
         <select class="input-select" id="type" name="soort-toepassing" onchange="updateFieldsBasedOnType(this)">
             <option value="" hidden="">Selecteer optie</option>
             <option value="ai-systeem">AI-systeem</option>
             <option value="ai-systeem-voor-algemene-doeleinden">AI-systeem voor algemene doeleinden</option>
             <option value="ai-model-voor-algemene-doeleinden">AI-model voor algemene doeleinden</option>
-            <option value="impactvol-algoritme">Impactvol algoritme</option>
-            <option value="niet-impactvol-algoritme">Niet-impactvol algoritme</option>
         </select>
     </div>
 

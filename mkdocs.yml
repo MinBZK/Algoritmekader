@@ -122,6 +122,8 @@ plugins:
     - search
     - git-revision-date-localized:
         enable_creation_date: true
+        timezone: Europe/Amsterdam
+        locale: nl
     - awesome-pages:
         collapse_single_pages: true
 

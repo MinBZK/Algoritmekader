@@ -7,6 +7,12 @@ body{
   font-family: "ROsanswebtextregular" !important;
 }
 
+.md-top:hover {
+  color: var(--md-default-fg-color--light);
+  background-color: var(--md-accent-bg-color);
+  box-shadow: var(--md-shadow-z3);
+}
+
 .mdx-badge {
   font-size: .85em;
   display: inline-block;

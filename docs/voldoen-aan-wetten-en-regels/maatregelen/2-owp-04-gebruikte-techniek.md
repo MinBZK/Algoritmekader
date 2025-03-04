@@ -76,4 +76,4 @@ Wanneer je geen zorgvuldige afweging maakt over de techniek die je gebruikt om h
 	
 	Bron: [Webapplicatie Impactmonitor Brugopening - Provincie Zuid-Holland](https://algoritmes.overheid.nl/nl/algoritme/webapplicatie-impactmonitor-brugopening-provincie-zuidholland/96895333)
 
-Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

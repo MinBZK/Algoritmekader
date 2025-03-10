@@ -58,7 +58,7 @@ Het algoritme kan niet of na verloop van tijd niet meer functioneren, doordat on
 	
 	Deze twee documenten zijn voor iedere organisatie te downloaden en verder uit te werken. Er wordt per hoofdstuk benoemd waar aan gedacht moet worden en hoe dit verder uitgewerkt moet worden.
 	
-	Bron: [PSA Format](https://www.noraonline.nl/wiki/PSA_(Project_Startarchitectuur))
+	Bron: [PSA(Project Startarchitectuur)](https://www.noraonline.nl/wiki/PSA_(Project_Startarchitectuur))
 
 
 !!! example "Gemeente Amsterdam – WPI model onderzoekswaardigheid uitkeringsaanvragen"

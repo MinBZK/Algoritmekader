@@ -52,7 +52,7 @@ De impact van het algoritme op de besluitvorming en op personen, doelgroepen en/
 - [Onderzoekskader Algoritmes Auditdienst Rijk, SV.4, DM.16](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Advies Dienst Toeslagen (Kamerstukken II 2023/24, 31066-1374)](https://www.rijksoverheid.nl/documenten/publicaties/2023/09/01/bijlage-3-advies-dienst-toeslagen)
 - [Impact Assessment Mensenrechten en Algoritmes, 4.1](https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes)
-- [Handreiking non-discriminatie by design, 1.7 en 1.8 en 1.15](https://open.overheid.nl/documenten/ronl-3f9fa69c-acf4-444d-96e1-5c48df00eb3c/pdf)
+- [Handreiking non-discriminatie by design, 1.7 en 1.8 en 1.15](https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design)
 
 
 ## Voorbeelden

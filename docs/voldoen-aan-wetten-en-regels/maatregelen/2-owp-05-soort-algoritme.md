@@ -40,7 +40,7 @@ Dit is mede afhankelijk van de bijbehorende [risicogroepen](../ai-verordening.md
 
 Gebruik de [beslishulp](https://ai-verordening-beslishulp.apps.digilab.network/) om de risicobepaling van jouw toepassing te bepalen.
 
-Let op dat niet enkel naar de AI-verordening wordt gekeken. Ook op impactvolle algoritmes die niet vallen onder het bereik van de AI-verordening zijn vereisten van toepassing. Zie hiervoor de [Handreiking Algoritmeregister](https://www.digitaleoverheid.nl/wp-content/uploads/sites/8/2023/12/Handreiking-Algoritmeregister-versie-1.0.pdf). 
+Let op dat niet enkel naar de AI-verordening wordt gekeken. Ook op impactvolle algoritmes die niet vallen onder het bereik van de AI-verordening zijn vereisten van toepassing. Zie hiervoor de [Handreiking Algoritmeregister](https://www.digitaleoverheid.nl/document/handreiking-algoritmeregister/). 
 
 Deze stap is van groot belang, omdat dit bijvoorbeeld voor ontwikkelteams mede bepalend is waar het te ontwikkelen systeem aan moet voldoen of welke contractuele verplichtingen moeten worden gecreëerd tussen opdrachtgever en aanbieder van algoritmes.
 

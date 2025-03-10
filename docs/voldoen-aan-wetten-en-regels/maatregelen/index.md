@@ -23,9 +23,9 @@ De maatregelen zijn niet verplicht. Het zijn adviezen uit:
 
 !!! info "Benieuwd hoe de maatregelen samenhangen met het Onderzoekskader van de Auditdienst Rijk en het Toetsingskader van de Algemene Rekenkamer?"
 
-    Bekijk de [mapping](https://github.com/MinBZK/Algoritmekader/blob/main/relatie-ak-tot-toetsingskaders.csv) tussen de maatregelen van het Algoritmekader en de maatregelen uit het [Toetsingskader Algoritmes](../hulpmiddelen/toetsingskader-algemene-rekenkamer.md) en het [Onderzoekskader algoritmes](../hulpmiddelen/onderzoekskader-adr.md). Hierin kan je voor iedere maatregel uit één van de kaders vinden waar deze terugkomt in het Algoritmekader. Dit staat ook altijd aangegeven in de bronvermelding van de betreffende maatregel. 
+    Bekijk de zogenaamde 'mapping' tussen de maatregelen uit het Algoritmekader, het [Toetsingskader Algoritmes](../hulpmiddelen/toetsingskader-algemene-rekenkamer.md) en het [Onderzoekskader algoritmes](../hulpmiddelen/onderzoekskader-adr.md). Hierin zie je waar elke maatregel uit deze kaders terugkomt in het Algoritmekader. Dit staat ook altijd aangegeven in de bronvermelding van de betreffende maatregel. 
 
-    [Download de mapping](https://github.com/MinBZK/Algoritmekader/blob/main/relatie-ak-tot-toetsingskaders.csv){ .md-button .md-button--primary }
+    [Download mapping](https://github.com/MinBZK/Algoritmekader/blob/main/relatie-ak-tot-toetsingskaders.csv){ .md-button .md-button--primary }
 
 ### Voorbeeld
 > Onderzoek het ontwikkelde algoritme op onbewuste vooringenomenheid (discriminatie) door middel van een bias-analyse.

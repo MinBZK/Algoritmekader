@@ -50,7 +50,7 @@ Het is vastgesteld beleid dat overheidsinstellingen, tenzij er uitsluitingsgrond
 Er wordt gewerkt aan wetgeving om dit bij wet verplicht te stellen.
 
 ## Bronnen (bestaand beleid)
-- [Handreiking Algoritmeregister](https://www.digitaleoverheid.nl/wp-content/uploads/sites/8/2023/12/Handreiking-Algoritmeregister-versie-1.0.pdf)
+- [Handreiking Algoritmeregister](https://www.digitaleoverheid.nl/document/handreiking-algoritmeregister/)
 - [Geactualiseerde Werkagenda Waardengedreven Digitaliseren 2024](https://open.overheid.nl/documenten/8fb16ed3-0946-49d5-bf1a-96724f1762d6/file)
 - Kamerbrieven
 

@@ -46,8 +46,8 @@ Het algoritme kan niet of na verloop van tijd niet meer functioneren, doordat on
 ## Bronnen
 
 - [Project Startarchitectuur,NORA](https://www.noraonline.nl/wiki/PSA_(Project_Startarchitectuur))
-- [PSA Format](https://www.noraonline.nl/images/noraonline/9/96/NORA_PSA_format.odt)
-- [PSA Handleiding](https://www.noraonline.nl/images/noraonline/9/93/NORA-handleiding_voor_het_opstellen_van_een_PSA.odt)
+- [PSA Format](https://www.noraonline.nl/wiki/Webversie_PSA_Format)
+- [PSA Handleiding](https://www.noraonline.nl/wiki/Webversie_PSA_Handleiding)
 
 
 ## Voorbeelden

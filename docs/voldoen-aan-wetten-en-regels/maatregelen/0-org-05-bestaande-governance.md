@@ -89,6 +89,6 @@ Geen beschikbare bron voor deze maatregel.
 
  	In deze handreiking wordt toegelicht wat de overeenkomsten en verschillen tussen het IAMA en DPIA zijn. Daarnaast wordt aangegeven hoe deze instrumenten gecombineerd kunnen worden. Het doel is om zo deze instrumenten op een efficiënte en gebruikersvriendelijke manier samen te kunnen gebruiken.
 
-	Bron: [Handreiking gezamenlijk gebruik IAMA en Model DPIA Rijksdienst](https://www.cip-overheid.nl/media/av0dmahv/20230614-gezamenlijk-gebruik-iama-en-model-dpia-rijksdienst-v1-0.pdf)
+	Bron: [Handreiking gezamenlijk gebruik IAMA en Model DPIA Rijksdienst](https://www.cip-overheid.nl/producten-en-diensten/producten?product=Handreiking+gebruik+IAMA+samen+met+Model+DPIA+Rijksdienst)
  
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 

@@ -32,7 +32,7 @@ Zoek aansluiting met bestaande governance binnen je organsatie, zoals:
 - IT governance
 - [datagovernance](../../onderwerpen/data.md#goed-databeheer-datagovernance-en-datamanagement)
 - informatiebeveiliging zoals governance rondom de [NIS2 richtlijn](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/nis2-richtlijn/)
-- [privacygovernance](https://www.cip-overheid.nl/media/eeqkauey/20200814-handleiding-privacy-governance-v3_2.pdf)
+- [privacygovernance](https://www.cip-overheid.nl/producten-en-diensten/handleiding-borging-van-privacy-in-organisaties)
 
 Deze governancestructuren kunnen waardevolle aanknopingspunten bieden voor algoritmegovernance, omdat hierin vaak al duidelijke afspraken zijn gemaakt en processen zijn geschreven om bijvoorbeeld risico's zo goed mogelijk te managen.
 In veel organisaties werken bijvoorbeeld privacy- en informatiebeveiliging en informatiebeheerders nauw samen van strategisch organisatieniveau tot operationeel, omdat deze onderwerpen raken aan beide domeinen. 

@@ -29,23 +29,23 @@ hide: navigation
 Voorbeelden of templates van inkoopvoorwaarden (ook wel modelcontractbepalingen genoemd) helpen om een contract op te stellen dat een organisatie in staat stelt veilige en verantwoorde algoritmen of AI-systemen in te kopen.
 Organisaties kunnen deze voorwaarden of bepalingen opnemen wanneer zij een contract afsluiten met een leverancier van een algoritme of algoritmisch systeem. 
 Zij kunnen dan bijvoorbeeld beperkingen opnemen om onaanvaardbare risico's van AI te vermijden, of bepaalde voorwaarden waaraan een algoritme juist moet voldoen. 
-Ook kunnen zij bepaalde [voorwaarden op basis van de vereisten](../maatregelen/2-owp-16-vereisten-onderdeel-algemene-inkoopvoorwaarden-en-contractovereenkomst.md) opnemen in het Algoritmekader.
+Ook kunnen zij bepaalde [voorwaarden op basis van de vereisten in het Algoritmekader](../maatregelen/2-owp-16-vereisten-onderdeel-algemene-inkoopvoorwaarden-en-contractovereenkomst.md) opnemen.
 
 ### Europese Commissie
 De Europese Commissie biedt [Europese modelcontractbepalingen voor AI](https://public-buyers-community.ec.europa.eu/communities/procurement-ai/resources/updated-eu-ai-model-contractual-clauses) met een hoog-risicoprofiel en een laag-risicoprofiel. Hiermee kunnen aanbestedende organisaties specifieke clausules opnemen in hun overeenkomst. Op deze manier maken zij afspraken die in lijn zijn met de Europese AI-verordening.
 
 ### Gemeente Amsterdam
-De Europese modelcontractbepalingen voor AI zijn gebaseerd op onder andere de modelbepalingen die de Gemeente Amsterdam al eerder opstelde. Deze dienen als voorbeeld voor andere gemeenten die algoritmische toepassingen willen inkopen.
+De Europese modelcontractbepalingen voor AI zijn gebaseerd op onder andere de modelbepalingen die de Gemeente Amsterdam eerder opstelde. Deze dienen als voorbeeld voor andere gemeenten die algoritmische toepassingen willen inkopen.
 
 ### AI-module bij ARBIT-2022
-De [AI-module bij de ARBIT](https://www.pianoo.nl/nl/regelgeving/voorwaarden/rijksoverheid/algemene-rijksinkoopvoorwaarden-bij-it-overeenkomsten-arbit) is gebaseerd op de Europese modelcontractbepalingen voor AI. Via een verwijzing in de gebruikte modelovereenkomst kan de AI-module onderdeel uitmaken van een onder de ARBIT te sluiten overeenkomst.
+De AI-module bij de [ARBIT](https://www.pianoo.nl/nl/regelgeving/voorwaarden/rijksoverheid/algemene-rijksinkoopvoorwaarden-bij-it-overeenkomsten-arbit) (Algemene Rijksinkoopvoorwaarden bij IT‑overeenkomsten) is gebaseerd op de Europese modelcontractbepalingen voor AI. Via een verwijzing in de gebruikte modelovereenkomst kan de AI-module onderdeel uitmaken van een onder de ARBIT te sluiten overeenkomst.
 
-De [Algemene Rijksinkoopvoorwaarden bij IT‑overeenkomsten (ARBIT)](https://www.pianoo.nl/nl/regelgeving/voorwaarden/rijksoverheid/algemene-rijksinkoopvoorwaarden-bij-it-overeenkomsten-arbit) zijn bedoeld voor kleine en middelgrote IT-inkopen door de overheid.
+De ARBIT zijn bedoeld voor kleine en middelgrote IT-inkopen door de overheid.
 
 
 ## Relevantie
 
-Steeds meer organisaties kopen algoritmische toepassingen in die veel impact hebben op gebruikers of beslissingen. Het is daarom van belang dat aanbestedende overheidsorganisaties afspraken maken met leveranciers, zodat de werking van de algoritmische toepassing transparant is en op een veilige en verantwoorde manier gebruikt wordt. Verschillende organisaties hebben daarom (voorbeeld-)contractvoorwaarden voor het inkopen van AI-systemen beschikbaar gesteld. Denk aan de Europese Commissie en de Gemeente Amsterdam.
+Steeds meer organisaties kopen algoritmische toepassingen in die veel impact hebben op gebruikers of beslissingen. Het is daarom van belang dat aanbestedende overheidsorganisaties afspraken maken met leveranciers, zodat zij transparant zijn over de werking van de algoritmische toepassing en dit op een veilige en verantwoorde manier gebruiken. Verschillende organisaties stellen daarom (voorbeeld)contractvoorwaarden voor het inkopen van AI-systemen beschikbaar. Denk aan de Europese Commissie en de Gemeente Amsterdam.
 
 
 ## Bijbehorende vereisten { data-search-exclude }

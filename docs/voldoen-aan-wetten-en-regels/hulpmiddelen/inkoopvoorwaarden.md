@@ -26,10 +26,10 @@ hide: navigation
 
 ## Hulpmiddel
 
-Voorbeelden of templates van inkoopvoorwaarden helpen om een contract op te stellen dat een organisatie in staat stelt veilige en verantwoorde algoritmen of AI-systemen in te kopen. Deze worden ook wel eens modelcontractbepalingen genoemd.
-Deze voorwaarden of bepalingen kunnen opgenomen worden wanneer er een contract wordt afgesloten met een leverancier van een algoritme of algoritmisch systeem. 
-Er kunnen dan bijvoorbeeld beperkingen gelden om onaanvaardbare risico's van AI te vermijden, of bepaalde voorwaarden gesteld worden waaraan een algoritme juist moet voldoen. 
-Ook kunnen bepaalde [voorwaarden worden opgenomen op basis van de vereisten](../maatregelen/2-owp-16-vereisten-onderdeel-algemene-inkoopvoorwaarden-en-contractovereenkomst.md) in het Algoritmekader.
+Voorbeelden of templates van inkoopvoorwaarden (ook wel modelcontractbepalingen genoemd) helpen om een contract op te stellen dat een organisatie in staat stelt veilige en verantwoorde algoritmen of AI-systemen in te kopen.
+Organisaties kunnen deze voorwaarden of bepalingen opnemen wanneer zij een contract afsluiten met een leverancier van een algoritme of algoritmisch systeem. 
+Zij kunnen dan bijvoorbeeld beperkingen opnemen om onaanvaardbare risico's van AI te vermijden, of bepaalde voorwaarden waaraan een algoritme juist moet voldoen. 
+Ook kunnen zij bepaalde [voorwaarden op basis van de vereisten](../maatregelen/2-owp-16-vereisten-onderdeel-algemene-inkoopvoorwaarden-en-contractovereenkomst.md) opnemen in het Algoritmekader.
 
 ### Europese Commissie
 De Europese Commissie biedt [Europese modelcontractbepalingen voor AI](https://public-buyers-community.ec.europa.eu/communities/procurement-ai/resources/updated-eu-ai-model-contractual-clauses) met een hoog-risicoprofiel en een laag-risicoprofiel. Hiermee kunnen aanbestedende organisaties specifieke clausules opnemen in hun overeenkomst. Op deze manier maken zij afspraken die in lijn zijn met de Europese AI-verordening.

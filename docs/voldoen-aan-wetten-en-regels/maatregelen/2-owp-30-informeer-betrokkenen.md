@@ -107,7 +107,7 @@ Het risico is dat partijen niet of onvolledig worden geïnformeerd over de ontwi
 
 - [Bouwstenen van een communicatieplan](https://communicatiekompas.nl/hulpmiddelen/bouwstenen-van-een-communicatieplan)
 - [WMO voorspelmodel](https://wmovoorspelmodel.vng.nl/)
-- [Handreiking WMO voorspelmodel](https://wmovoorspelmodel.vng.nl/Handreiking%20Wmo%20Voorspelmodel%20juli%202024.pdf)
+- [Handreiking Wmo Voorspelmodel, juli 2024](https://vng.nl/projecten/wmo-voorspelmodel)
 - [Maatwerkscan UWV](https://www.uwv.nl/nl/over-uwv/organisatie/algoritmeregister-uwv/maatwerkscan)
 - [Slimme keuzehulp aangifte internetoplichting: Ik heb iets gekocht, maar niets ontvangen](https://aangifte.politie.nl/iaai-preintake/#/)
 - [Chatbot gemeente Hillegom](https://www.hillegom.nl/chatbot)

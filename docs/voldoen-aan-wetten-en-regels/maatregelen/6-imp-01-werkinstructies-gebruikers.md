@@ -90,6 +90,6 @@ Het algoritme wordt onjuist gebruikt of verkeerd geïnterpreteerd door gebruiker
 	Deze handleiding is breed opgesteld en zal dus voor een specifiek algoritme binnen een organisatie aangepast moeten worden. De opzet voor een handleiding staat al en kan ter inspiratie gebruikt worden voor andere handleidingen.
 
 	
-	Bron: [Handleiding Generatieve AI - Gemeente Utrecht](https://stadszaken.nl/uploads/docs/Handleiding-Generatieve-AI-Gemeente-Utrecht.pdf)
+	Bron: [Handleiding Generatieve AI - Gemeente Utrecht](https://kennisnetwerkdata.pleio.nl/groups/view/f6ad627e-001b-4053-8413-2e65aa8b63e4/kennisbank-data-en-samenleving/wiki/view/041884ee-fd28-4697-ac4f-1d2241bf8fa0/gebruikshandleiding-generatieve-ai-van-de-gemeente-utrecht)
 
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

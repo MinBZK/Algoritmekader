@@ -72,7 +72,7 @@ In dit model houdt de mens toezicht op een hoger niveau, met een focus op strate
 #### 4. Human before the loop
 Hier maakt de mens vooraf ethische en morele afwegingen die in het algoritme zelf worden ingebouwd. Hoewel het model in productie autonoom opereert, zal de menselijke input gedurende de ontwikkeling ervoor zorgen dat het model ook in complexe situaties volgens de juiste (ethische) afwegingen keuzes en acties onderneemt.
 
-Dit model is essentieel in situaties waar menselijk ingrijpen tijdens de uitvoering niet mogelijk is (wanneer er bijvoorbeeld weinig of helemaal geen tijd is om als mens te interveniëren), maar waar ethische keuzes cruciaal blijven. Denk aan bestrijding van zeemijnen of situaties met zelfrijdende auto’s in onvoorspelbare verkeerssituaties (bron: [Towards Digital Life: Een toekomstvisie op AI anno 2032, TNO](https://www.tno.nl/nl/visie-ai-2032/)). Deze variant kan ook worden ingezet voor situaties waarin wel nog menselijk ingrijpen mogelijk is. 
+Dit model is essentieel in situaties waar menselijk ingrijpen tijdens de uitvoering niet mogelijk is (wanneer er bijvoorbeeld weinig of helemaal geen tijd is om als mens te interveniëren), maar waar ethische keuzes cruciaal blijven. Denk aan bestrijding van zeemijnen of situaties met zelfrijdende auto’s in onvoorspelbare verkeerssituaties (bron: Towards Digital Life: Een toekomstvisie op AI anno 2032). Deze variant kan ook worden ingezet voor situaties waarin wel nog menselijk ingrijpen mogelijk is. 
 
 ## Risico
 Het niet inrichten van passende menselijke controle leidt tot onverantwoorde inzet van algoritmen en het niet voldoen aan wettelijke vereisten. 

@@ -58,7 +58,7 @@ AI-systemen met een hoog risico die al aan een conformiteitsbeoordelingsprocedur
 ## Bronnen
 
 - [Artikel 16(f), AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#cpt_III.sct_3)
-- [Artikel 43, AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5074-1-1)
+- [Artikel 43, AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#art_43)
 - [Artikel 76, AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=OJ:L_202401689#art_76)
 - [Bijlage VI, AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e38-133-1)
 - [Bijlage VII, AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e38-134-1)

@@ -43,27 +43,27 @@ Het verwaarlozen van politiek-bestuurlijk bewustzijn, betrokkenheid en verantwoo
     <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
-[Kleur bekennen - vervolgonderzoek algoritmes](https://rekenkamer.rotterdam.nl/onderzoeken/kleur-bekennen/)
+[Kleur bekennen - vervolgonderzoek naar algoritmes, Rekenkamer Rotterdam](https://rekenkamer.rotterdam.nl/onderzoeken/kleur-bekennen/)
 
 ## Voorbeelden
 !!! example "Voorbeeld gemeente Rotterdam"
 
-    Één van de belangrijkste hoofdconclusies van het rapport [Kleur Bekennen](https://rekenkamer.rotterdam.nl/wp-content/uploads/2024/05/RO2205-kleur-bekennen-vervolgonderzoek-algoritmes-rekenkamer-rotterdam.pdf) van de gemeente Rotterdam, opgesteld door de Algemene Rekenkamer, onderstreept het belang van actief bestuur binnen algoritme- en AI-governance: 
+    Één van de belangrijkste hoofdconclusies uit het rapport [Kleur bekennen](https://rekenkamer.rotterdam.nl/onderzoeken/kleur-bekennen/) onderstreept het belang van actief bestuur binnen algoritme- en AI-governance: 
     
     > "Het ontbreekt aan een politiek-bestuurlijk kader dat duidelijk maakt welke normen en principes leidend zijn bij de ontwikkeling en het gebruik van algoritmes. Dit heeft als effect dat belangrijke besluit over bijvoorbeeld wenselijkheid, haalbaarheid, transparantie en bias bij de ambtelijke organisatie komen te liggen. Deze besluiten vragen om een politieke afweging".
 
-    De algoritmegovernance van de [Gemeente Rotterdam](https://rekenkamer.rotterdam.nl/wp-content/uploads/2024/05/RO2205-kleur-bekennen-vervolgonderzoek-algoritmes-rekenkamer-rotterdam.pdf) bestaat uit de volgende onderdelen: 
+    De algoritmegovernance van de Gemeente Rotterdam bestaat uit een: 
     
-    1. een visie op de inzet van algoritmes;
-    2. instrumentarium voor risicobeheersing dat onder andere bestaat uit een risico-assessment en een mensenrechtenassessment; 
-    3. een uiteenzetting van rollen en verantwoordelijkheden en; 
-    4. een omschrijving van de verantwoordelijkheden voor controle en advies.
+    - visie op de inzet van algoritmes
+    - instrumentarium voor risicobeheersing dat onder andere bestaat uit een risico-assessment en een mensenrechtenassessment
+    - uiteenzetting van rollen en verantwoordelijkheden
+    - omschrijving van de verantwoordelijkheden voor controle en advies
 
     Deze stappen volgen kan helpen bij het inrichten van een algoritmegovernance.
 
 !!! example "Visie op algoritmische systemen Dienst Toeslagen"
 
-    De Dienst Toeslagen heeft een [Visie op algoritmische systemen](https://www.rijksoverheid.nl/documenten/rapporten/2024/12/20/visie-op-algoritmische-systemen) opgesteld.  Deze visie beschrijft hoe Dienst Toeslagen algoritmische systemen wil inzetten, hoe dat te bereiken en welke kansen en welke randvoorwaarden nodig zijn voor een verantwoorde inzet. De visie bevat een vertaling van de missie, visie en kernwaarden van Dienst Toeslagen naar de context van algoritmische systemen. 
+    De Dienst Toeslagen heeft een [Visie op algoritmische systemen](https://www.rijksoverheid.nl/documenten/rapporten/2024/12/20/visie-op-algoritmische-systemen) opgesteld. Deze visie beschrijft hoe Dienst Toeslagen algoritmische systemen wil inzetten, hoe dat te bereiken en welke kansen en welke randvoorwaarden nodig zijn voor een verantwoorde inzet. De visie bevat een vertaling van de missie, visie en kernwaarden van Dienst Toeslagen naar de context van algoritmische systemen. 
 
 !!! example "Amsterdamse Visie op AI"
 

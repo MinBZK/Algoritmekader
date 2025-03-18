@@ -43,7 +43,7 @@ Het verwaarlozen van politiek-bestuurlijk bewustzijn, betrokkenheid en verantwoo
     <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
-[Kleur bekennen - vervolgonderzoek naar algoritmes, Rekenkamer Rotterdam](https://rekenkamer.rotterdam.nl/onderzoeken/kleur-bekennen/)
+[Kleur bekennen, Rekenkamer Rotterdam](https://rekenkamer.rotterdam.nl/onderzoeken/kleur-bekennen/)
 
 ## Voorbeelden
 !!! example "Voorbeeld gemeente Rotterdam"

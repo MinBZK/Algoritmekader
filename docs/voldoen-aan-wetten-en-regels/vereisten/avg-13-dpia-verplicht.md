@@ -75,7 +75,7 @@ Gebruiksverantwoordelijken van AI-systemen met een hoog risico gebruiken die inf
 - [Artikel 35 Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679)
 - [Artikel 26, lid 9, AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#art_26) 
 - [Besluit lijst verwerkingen persoonsgegevens waarvoor een gegevensbeschermingseffectbeoordeling (DPIA) verplicht is, Autoriteit Persoonsgegevens](https://wetten.overheid.nl/BWBR0042812/2019-11-27)
-- [Data protection impact assessment (DPIA) Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/praktisch-avg/data-protection-impact-assessment-dpia#:~:text=Een%20DPIA%20is%20een%20instrument,Algemene%20verordening%20gegevensbescherming%20(AVG)%3B)
+- [Data protection impact assessment (DPIA), Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/praktisch-avg/data-protection-impact-assessment-dpia)
 
 ## Van toepassing op 
 <!-- tags-ai-act --> 

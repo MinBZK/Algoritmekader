@@ -57,11 +57,11 @@ AI-systemen met een hoog risico die al aan een conformiteitsbeoordelingsprocedur
 
 ## Bronnen
 
-- [Artikel 16(f) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3823-1-1)
-- [Artikel 43 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5074-1-1)
-- [Artikel 76 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=OJ:L_202401689)
-- [Bijlage VI Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e38-133-1)
-- [Bijlage VII Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e38-134-1)
+- [Artikel 16(f), AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3823-1-1)
+- [Artikel 43, AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5074-1-1)
+- [Artikel 76, AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=OJ:L_202401689#art_76)
+- [Bijlage VI, AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e38-133-1)
+- [Bijlage VII, AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e38-134-1)
 - [Hoe werkt het allemaal in de praktijk voor aanbieders van AI-systemen met een hoog risico](https://digital-strategy.ec.europa.eu/nl/policies/regulatory-framework-ai)
 
 ## Van toepassing op 

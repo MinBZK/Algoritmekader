@@ -59,8 +59,6 @@ Ook de gegenereerde output van algoritmes mag geen inbreuk maken op deze rechten
 - [Artikel 13 Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=5&artikel=13&z=2022-10-01&g=2022-10-01)
 - [Artikel 15n jo. 15o Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15n&z=2022-10-01&g=2022-10-01)
 - [Artikel 3 en 4, DSM-auteursrechtrichtlijn](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32019L0790#art_3)
-- [Artikel 4 (3) Richtlijn inzake auteursrechten en naburige rechten in de digitale eengemaakte markt en tot wijziging van 
-Richtlijnen 96/9/EG en 2001/29/EG](https://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=CELEX:32019L0790)
 
 ## Van toepassing op 
 <!-- tags-ai-act --> 

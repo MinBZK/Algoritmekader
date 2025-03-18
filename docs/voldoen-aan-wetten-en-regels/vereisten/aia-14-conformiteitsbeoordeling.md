@@ -62,7 +62,7 @@ AI-systemen met een hoog risico die al aan een conformiteitsbeoordelingsprocedur
 - [Artikel 76, AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=OJ:L_202401689#art_76)
 - [Bijlage VI, AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#anx_VI)
 - [Bijlage VII, AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#anx_VII)
-- [Hoe werkt het allemaal in de praktijk voor aanbieders van AI-systemen met een hoog risico](https://digital-strategy.ec.europa.eu/nl/policies/regulatory-framework-ai)
+- [AI-wet](https://digital-strategy.ec.europa.eu/nl/policies/regulatory-framework-ai)
 
 ## Van toepassing op 
 <!-- tags-ai-act -->

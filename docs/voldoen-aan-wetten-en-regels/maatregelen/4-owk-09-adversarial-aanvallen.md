@@ -63,7 +63,7 @@ Adversarial AI-aanvallen kunnen leiden tot ongewenste misleiding, manipulatie of
     <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
-- [TNO, Adversarial AI in het cyberdomein](https://publications.tno.nl/publication/34640579/Mf1Fda/TNO-2023-R10292.pdf)
+- [Adversarial AI in het cyberdomein, TNO](https://www.tno.nl/nl/newsroom/2023/02/technieken-cyberaanvallen-ai/)
 - [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 
 ## Voorbeelden

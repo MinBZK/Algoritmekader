@@ -80,7 +80,7 @@ Door onjuiste training van het model presteert het model in de praktijk minder g
 
 ## Bronnen
 
-- [Onderzoekskader Auditdienst Rijk, DM.5, DM.6](https://open.overheid.nl/documenten/61b54381-d331-40ed-8fce-b2883b195f25/file)
+- [Onderzoekskader algoritmes, Auditdienst Rijk, DM.5, DM.6](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/onderzoekskader-adr/)
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 2.15, 2.21](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) 
 
 

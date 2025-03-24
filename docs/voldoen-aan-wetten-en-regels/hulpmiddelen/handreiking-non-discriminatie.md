@@ -73,7 +73,7 @@ Ook het [toetsingskader Risicoprofilering College voor de Rechten van de Mens](t
 ## Bronnen
 
 - [Handreiking non-discriminatie by design](https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design)
-- [Onderzoeksrapport Bekendheid, toepasbaarheid en toegevoegde waarde handreiking 'non-discriminatie by design'](https://open.overheid.nl/documenten/7052294a-e70a-4084-88da-d09ae5f202cb/file)
+- [Onderzoeksrapport Bekendheid, toepasbaarheid en toegevoegde waarde handreiking 'non-discriminatie by design'](https://www.rijksoverheid.nl/documenten/rapporten/2023/06/26/onderzoeksrapport-bekendheid-en-toepasbaarheid-en-toegevoegde-waarde-handreiking-non-discriminatie-by-design)
 - [Toetsingskader Risicoprofilering, College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/4093c026-ae41-4c1d-aa78-4ce0e205b5de)
   
 ## Voorbeeld

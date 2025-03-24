@@ -19,7 +19,7 @@ hide: navigation
 
 <!-- tags -->
 
-[Direct naar het Onderzoekskader Algoritmes](https://open.overheid.nl/documenten/61b54381-d331-40ed-8fce-b2883b195f25/file){ .button .md-button--secondary }
+[Direct naar Onderzoekskader algoritmes](https://www.auditdienstrijk.nl/kennis-delen/documenten/publicaties/2023/11/7/onderzoekskader-algoritmes-auditdienst-rijk-2023){ .button .md-button--secondary }
 
 ## Hulpmiddel
 

@@ -56,7 +56,7 @@ en evidence opgenomen per beheersmaatregel.
 Het onderzoekskader is ontwikkeld met behulp van nationale en internationale richtlijnen en
 kaders, rapporten en instrumenten, zoals de [Ethics guidelines for trustworthy AI](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai) van de Europese
 Commissie (EC), [Impact Assessment voor Mensenrechten bij de inzet van Algoritmes (IAMA)](IAMA.md), de
-[richtlijnen van het ministerie van JenV](https://open.overheid.nl/documenten/ronl-1411e45f-b822-49fa-9895-2d76e663787b/pdf), het [DPIA](DPIA.md) model Rijksoverheid (gebaseerd op o.a. AVG) en
+['Richtlijnen voor het toepassen van algoritmen door overheden en publieksvoorlichting over data-analyses' van het ministerie van JenV](https://www.rijksoverheid.nl/documenten/richtlijnen/2021/09/24/richtlijnen-voor-het-toepassen-van-algoritmen-door-overheden-en-publieksvoorlichting-over-data-analyses), het [DPIA](DPIA.md) model Rijksoverheid (gebaseerd op o.a. AVG) en
 de Guiding Principles Trustworthy AI Investigations van NOREA (beroepsvereniging IT-auditors
 Nederland). De bron van de betreffende risico’s en beheersmaatregelen is tevens opgenomen.
 

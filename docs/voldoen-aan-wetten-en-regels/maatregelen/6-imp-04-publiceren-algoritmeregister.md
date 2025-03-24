@@ -61,12 +61,9 @@ Betrokkenen zijn niet op de hoogte dat hun persoonsgegevens worden verwerkt met 
 
 
 ## Voorbeelden
-!!! example "Jury Rapport: Best Beschreven Algoritme"
+!!! example "Best Beschreven Algoritme Award"
  
-    In december 2023 is het juryrapport van Best Beschreven Algoritme binnen het Algoritmeregister bekendgemaakt.  Van de 13 genomineerde algoritmes is een top 4 opgesteld waar [uiteindelijk een winnaar uitgekomen is](https://www.digitaleoverheid.nl/nieuws/groningen-wint-best-beschreven-algoritme-award/); Gemeente Groningen: Eerste Hulp bij Geldzaken. 
-    
-    Het algoritme heeft een heldere omschrijving rondom de technische en ethische aspecten. Daarnaast geeft het een volledig beeld voor burgers over de inzet en het gebruik van het algoritme. Dit wordt gedaan aan de hand van verwijzingen naar externe pagina’s voor meer uitleg.
+    Het algoritme 'Eerste Hulp bij Geldzaken' van de gemeente Groningen was is het [best beschreven algoritme van 2023](https://www.digitaleoverheid.nl/nieuws/groningen-wint-best-beschreven-algoritme-award/) in het Algoritmeregister. Volgens de jury zijn de technische en ethische aspecten helder beschreven. En burgers krijgen een volledig beeld over de manier waarop de gemeente het algoritme inzet en gebruikt. Hierbij verwijst de gemeente naar externe pagina’s voor meer uitleg.
            
-    Bron: [Jury Rapport Best Beschreven Algoritme](https://aienalgoritmes.pleio.nl/attachment/entity/ea60f239-dcaf-4eb0-9661-c2e7ffb633ea)
 
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 

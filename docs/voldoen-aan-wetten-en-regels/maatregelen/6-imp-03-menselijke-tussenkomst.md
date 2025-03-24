@@ -46,7 +46,7 @@ Betekenisvolle menselijke controle houdt in dat:
 - Het toezicht wordt uitgevoerd door iemand die bevoegd en bekwaam is om een beslissing of besluit te wijzigen.
 - Automatische aanbevelingen niet klakkeloos worden overgenomen. Bijvoorbeeld: een systeem dat standaard een suggestie accepteert door een enkele klik voldoet hier niet aan.
 - De vormen van menselijke tussenkomst al in een vroeg stadium, bijvoorbeeld in de ontwerpfase, worden vastgesteld op basis van risicoanalyses.
-- Gebruikers voldoende kennis, tijd en verantwoordelijkheid hebben om weloverwogen beslissingen te nemen over het functioneren van algoritmes. Dit betekent ook dat externe factoren, zoals tijdsdruk of onvoldoende informatie, de beoordeling van de output niet mogen beïnvloeden. (zie ook het [onderzoekskader van de ADR, SV.6](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023))
+- Gebruikers voldoende kennis, tijd en verantwoordelijkheid hebben om weloverwogen beslissingen te nemen over het functioneren van algoritmes. Dit betekent ook dat externe factoren, zoals tijdsdruk of onvoldoende informatie, de beoordeling van de output niet mogen beïnvloeden. (zie ook het [Onderzoekskader algoritmes, Auditdienst Rijk, SV.6](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/onderzoekskader-adr))
 
 Soms is menselijke tussenkomst minder relevant, zoals bij ‘gebonden bevoegdheden’. Hierbij is weinig tot geen ruimte om een beslissing of besluit aan te passen. Voorbeelden zijn:
 
@@ -86,7 +86,7 @@ Het niet inrichten van passende menselijke controle leidt tot onverantwoorde inz
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 3.11](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Menselijke tussenkomst | Algoritmes | Algemene Rekenkamer](https://www.rekenkamer.nl/onderwerpen/algoritmes/toetsingskader/ethiek/menselijke-tussenkomst)
 - [Onderzoekskader Algoritmes Auditdienst Rijk, SV.5, SV.6](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) 
-- [Advies over geautomatiseerde selectietechniek Pels Rijcken, p.9](https://open.overheid.nl/documenten/6b5b5d5b-fdc1-4333-a11e-f89d3627a0f5/file)
+- [Advies landsadvocaat over geautomatiseerde selectietechnieken, p.9](https://www.rijksoverheid.nl/documenten/rapporten/2024/03/13/bijlage-2-advies-landsadvocaat-over-geautomatiseerde-selectietechniek)
 - [Recht op een menselijke blik bij besluiten | Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/privacyrechten-avg/recht-op-een-menselijke-blik-bij-besluiten#:~:text=Reactie%20op%20verzoek-,Geautomatiseerd%20besluit,noemen%20dit%20een%20geautomatiseerd%20besluit.)
 - Kamerstukken IT 2017-2018, 34 851, nr. (MvT UAVG), p. 120-121
 - [Ethics guidelines for trustworthy AI | Shaping Europe’s digital future](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai), deel (64)

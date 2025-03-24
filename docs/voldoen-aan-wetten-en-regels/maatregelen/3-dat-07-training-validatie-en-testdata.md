@@ -45,7 +45,7 @@ Verdeel je dataset in drie delen:
 
     De validatieset fungeert als een onafhankelijke, onbevooroordeelde dataset voor het vergelijken van de prestaties van verschillende algoritmes die zijn getraind op de trainingset.
 
-    Verschillende modellen kunnen getraind worden op de trainingset. Zo kan je bijvoorbeeld variëren in de (hyper)parameters of de inputvariabelen. Dit leidt tot verschillende varianten van het model. Om de prestaties van de verschillende modellen te vergelijken, moeten we een nieuwe dataset gebruiken: de validatieset. Zou je hiervoor de trainingset gebruiken, kan dat leiden tot [overfitting](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html), omdat het model te specifiek afgestemd is op 1 dataset. Het model kan dan niet voldoende generaliseren voor nieuwe situaties.
+    Verschillende modellen kunnen getraind worden op de trainingset. Zo kan je bijvoorbeeld variëren in de (hyper)parameters of de inputvariabelen. Dit leidt tot verschillende varianten van het model. Om de prestaties van de verschillende modellen te vergelijken, moeten we een nieuwe dataset gebruiken: de validatieset. Zou je hiervoor de trainingset gebruiken, kan dat leiden tot [overfitting](https://www.statlearning.com), omdat het model te specifiek afgestemd is op 1 dataset. Het model kan dan niet voldoende generaliseren voor nieuwe situaties.
 
 4. **De testset**
 
@@ -69,7 +69,7 @@ Afhankelijk van de hoeveelheid beschikbare data en de context maak je hierin een
 
 ### K-fold cross validation
 
-Naast dat je de datasets willekeurig kan verdelen in drie delen (aselect), kan je ook meer geavanceerde technieken gebruiken. Een robuuste en veelgebruikte techniek is [k-fold cross validation](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html), waarbij het model *k* keer wordt getraind op verschillende delen van de data. 
+Naast dat je de datasets willekeurig kan verdelen in drie delen (aselect), kan je ook meer geavanceerde technieken gebruiken. Een robuuste en veelgebruikte techniek is [k-fold cross validation](https://www.statlearning.com), waarbij het model *k* keer wordt getraind op verschillende delen van de data. 
 
 ## Risico
 Door onjuiste training van het model presteert het model in de praktijk minder goed dan bij de tests. Als training-, validatie- en testdata door elkaar lopen ("data leakage"), kan dit leiden tot overfitting waardoor het model beter lijkt te presteren dan in werkelijkheid het geval is.

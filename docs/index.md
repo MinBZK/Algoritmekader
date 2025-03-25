@@ -23,7 +23,7 @@ hide:
 <div class="float-container">
 
  <div class="float-child styled-list">
-    <img src="afbeeldingen/rollen.jpg" alt="Afbeelding 2" class="block-image">
+    <img src="afbeeldingen/rollen.jpg" alt=" " class="block-image">
     <div class="float-box">
     <h3><b>Starten met algoritmes of AI</b></h3>
     <ul>
@@ -37,7 +37,7 @@ hide:
   </div>
 
   <div class="float-child styled-list">
-    <img src="afbeeldingen/wetten-en-regels.jpg" alt="Vrouwe Justitia" class="block-image">
+    <img src="afbeeldingen/wetten-en-regels.jpg" alt=" " class="block-image">
     <div class="float-box">
     <h3><b>Waar je aan moet voldoen en hoe</b></h3>
     <ul>
@@ -50,7 +50,7 @@ hide:
   </div>
 
  <div class="float-child styled-list">
-    <img src="afbeeldingen/eu.jpeg" alt="Vlaggen europese unie" class="block-image">
+    <img src="afbeeldingen/eu.jpeg" alt=" " class="block-image">
     <div class="float-box">
     <h3><b>Europese AI-verordening</b></h3>
     <ul>
@@ -63,7 +63,7 @@ hide:
   </div>
 
   <div class="float-child styled-list">
-    <img src="afbeeldingen/onderwerpen.jpg" alt="Afbeelding 3" class="block-image">
+    <img src="afbeeldingen/onderwerpen.jpg" alt=" " class="block-image">
     <div class="float-box">
     <h3><b>Onderwerpen</b></h3>
     <ul>

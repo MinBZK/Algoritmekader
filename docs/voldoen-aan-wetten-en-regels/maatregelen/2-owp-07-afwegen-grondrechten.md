@@ -87,7 +87,5 @@ Het risico is dat er grondrechten, anders dan die expliciet beschermd zijn in an
 
 	In 2023 en 2024 zijn door Universiteit Utrecht (UU) en het [Rijks ICT Gilde (RIG)](https://www.rijksorganisatieodi.nl/rijks-ict-gilde) een aantal IAMA-trajecten begeleid bij overheidsorganisaties. Hierbij zijn verschillende sessies geweest per organisatie om alle gedeelten van het IAMA te beantwoorden met behulp van de expertise van de UU- of RIG-begeleiders. In het rapport [IAMA in Actie](https://www.rijksoverheid.nl/documenten/rapporten/2024/06/20/iama-in-actie-lessons-learned-van-15-iama-trajecten-bij-nederlandse-overheidsorganisaties) worden de bevindingen van deze IAMA-pilots uitgebreid toegelicht.
 
-	Bron: [IAMA in Actie]( https://open.overheid.nl/documenten/47e00e94-be86-4071-8e6e-e3da2a537771/file)
-
 
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

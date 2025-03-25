@@ -106,7 +106,7 @@ Volledig geautomatiseerde vaststelling van een publiekrechtelijk besluit zoals e
 - [Artikel 40 Uitvoeringswet AVG](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=4&artikel=40&z=2021-07-01&g=2021-07-01) 
 - [Artikel 1:3 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=1&titeldeel=1.1&artikel=1:3&z=2024-05-01&g=2024-05-01)
 - [Advies landsadvocaat over geautomatiseerde selectietechnieken](https://www.rijksoverheid.nl/documenten/rapporten/2024/03/13/bijlage-2-advies-landsadvocaat-over-geautomatiseerde-selectietechniek)
-- [Advies artikel 22 AVG en geautomatiseerde selectie-instrumenten](https://www.autoriteitpersoonsgegevens.nl/system/files?file=2024-10/Advies%20geautomatiseerde%20besluitvorming%20artikel%2022%20AVG.pdf)
+- [Advies artikel 22 AVG en geautomatiseerde selectie-instrumenten](https://www.rijksoverheid.nl/documenten/publicaties/2024/10/10/advies-artikel-22-avg-en-geautomatiseerde-selectie-instrumenten)
 - [Kamerbrief met kabinetsreactie AP-advies over geautomatiseerde selectie-instrumenten]([Kamerbrief met kabinetsreactie AP-advies over geautomatiseerde selectie-instrumenten0](https://www.rijksoverheid.nl/documenten/kamerstukken/2024/12/03/kabinetsreacties-ap-advies-inzake-geautomatiseerde-selectie-instrumenten)
 
 ## Van toepassing op 

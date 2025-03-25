@@ -106,7 +106,7 @@ Gebrek aan samenwerking kan leiden tot onvermogen om de benodigde vereisten vold
 ## Bronnen 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
-- [Ruimte voor Innovatie in het contract](https://www.pianoo.nl/sites/default/files/media/documents/Inspiratiebundel-Ruimte-voor-innovatie-in-het-contract-juni2020.pdf)
+- [Inspiratiebundel: Ruimte voor innovatie in het contract, PIANOo](https://www.pianoo.nl/nl/document/18247/inspiratiebundel-ruimte-voor-innovatie-het-contract)
 - [Aanbesteding Ethische Beeldinwinning en Objectherkenning Openbare Ruimte](https://s2c.mercell.com/today/34506?type=planning)
 
 ## Voorbeeld

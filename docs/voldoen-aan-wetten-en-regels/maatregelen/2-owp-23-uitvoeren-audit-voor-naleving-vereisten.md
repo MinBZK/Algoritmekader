@@ -110,8 +110,7 @@ Er kunnen geen controles of inspecties worden uitgevoerd om te beoordelen of de 
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
 - [Contractvoorwaarden gemeente Amsterdam](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/contractvoorwaarden-algoritmen/)
-- [Europese Inkoopvoorwaarden Hoog Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_template_High_Risk%20NL.pdf)
-- [Europese Inkoopvoorwaarden Laag Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_Template_NON_HIGH_RISK_NL.pdf)
+- [Europese modelcontractbepalingen voor laag- en hoog-risico-AI](https://public-buyers-community.ec.europa.eu/communities/procurement-ai/resources/updated-eu-ai-model-contractual-clauses)
 
 
 ## Voorbeelden

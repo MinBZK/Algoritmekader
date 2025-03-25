@@ -47,8 +47,8 @@ Inventariseren van de algoritmes die gebruikt worden, helpt bij:
     <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen 
-- [Handreiking identificatie verboden AI-systemen (Powerpoint-bestand)](https://github.com/user-attachments/files/18179666/Handreiking_Uitvraag_VBSystemen.pptx)
-- [Handreiking Algoritmeregister](https://www.digitaleoverheid.nl/wp-content/uploads/sites/8/2023/12/Handreiking-Algoritmeregister-versie-1.0.pdf)
+- [Handreiking identificatie verboden AI-systemen (.pptx, 9MB)](https://github.com/user-attachments/files/18179666/Handreiking_Uitvraag_VBSystemen.pptx)
+- [Handreiking Algoritmeregister](https://www.digitaleoverheid.nl/document/handreiking-algoritmeregister/)
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->

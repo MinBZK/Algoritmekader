@@ -79,7 +79,11 @@ Het risico is dat partijen niet of onvolledig worden geïnformeerd over de ontwi
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
 - [Toetsingskader Algemene Rekenkamer, 2.09, 3.13, 3.15](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
-
+- [Bouwstenen van een communicatieplan](https://communicatiekompas.nl/hulpmiddelen/bouwstenen-van-een-communicatieplan)
+- [Wmo Voorspelmodel met handreiking](https://wmovoorspelmodel.vng.nl/)
+- [Maatwerkscan UWV](https://www.uwv.nl/nl/over-uwv/organisatie/algoritmeregister-uwv/maatwerkscan)
+- [Slimme keuzehulp aangifte internetoplichting: Ik heb iets gekocht, maar niets ontvangen](https://aangifte.politie.nl/iaai-preintake/#/)
+- [Chatbot gemeente Hillegom](https://www.hillegom.nl/chatbot)
   
 ## Voorbeelden
 !!! example "Communicatiekompas – Bouwstenen van een communicatieplan"
@@ -91,7 +95,7 @@ Het risico is dat partijen niet of onvolledig worden geïnformeerd over de ontwi
 
 !!! example "Vereniging van Nederlandse Gemeenten –  Wmo voorspelmodel"
 	
- 	De Vereniging van Nederlandse Gemeenten (VNG) heeft een Wet maatschappelijke ondersteuning (Wmo) voorspel model online staan. Dit model dient als ondersteuning voor gemeenten om een beter inzicht te krijgen in de toekomst om zo op het gebied van beleid, financiën en inkooptrajecten betere verwachtingen te kunnen doen voor Wmo-voorzieningen. 
+ 	De Vereniging van Nederlandse Gemeenten (VNG) bied een zogenaamd voorspelmodel van de Wet maatschappelijke ondersteuning (Wmo). Hiermee kunnen gemeenten een beter inzicht krijgen in de toekomst om zo op het gebied van beleid, financiën en inkooptrajecten betere verwachtingen te kunnen doen voor Wmo-voorzieningen. 
 	Dit model is publiekelijk toegankelijk en heeft een uitleg waar ook een uitgebreide toelichting staat. In de uitleg wordt toelichting gegeven over onder andere het doel, de mogelijkheden en de beperkingen. Daarnaast wordt in de uitgebreide toelichting verder uitgelegd hoe de data en het model stap voor stap gebruikt kunnen worden. Op deze manier worden minder ervaren gebruikers meegenomen in het proces.
 
 	Bron: [Wmo voorspelmodel (toelichting via “Colofon & uitleg”)](https://wmovoorspelmodel.vng.nl/)  
@@ -104,12 +108,5 @@ Het risico is dat partijen niet of onvolledig worden geïnformeerd over de ontwi
 	
 	Bron: [Keuzehulp Internetoplichting](https://aangifte.politie.nl/iaai-preintake/)  
   
-
-- [Bouwstenen van een communicatieplan](https://communicatiekompas.nl/hulpmiddelen/bouwstenen-van-een-communicatieplan)
-- [WMO voorspelmodel](https://wmovoorspelmodel.vng.nl/)
-- [Handreiking WMO voorspelmodel](https://wmovoorspelmodel.vng.nl/Handreiking%20Wmo%20Voorspelmodel%20juli%202024.pdf)
-- [Maatwerkscan UWV](https://www.uwv.nl/nl/over-uwv/organisatie/algoritmeregister-uwv/maatwerkscan)
-- [Slimme keuzehulp aangifte internetoplichting: Ik heb iets gekocht, maar niets ontvangen](https://aangifte.politie.nl/iaai-preintake/#/)
-- [Chatbot gemeente Hillegom](https://www.hillegom.nl/chatbot)
 
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

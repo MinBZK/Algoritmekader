@@ -60,7 +60,7 @@ Het AIIA kan toegepast worden in elke fase van ontwikkeling en inkoop van een AI
 Het AIIA bestaat uit:
 
 - [AI Impact Assessment](https://www.rijksoverheid.nl/documenten/rapporten/2022/11/30/ai-impact-assessment-ministerie-van-infrastructuur-en-waterstaat) (Nederlandse en Engelse versie)
-- [Invultemplate-AIIA2.0.docx (46 KB)](documenten/Invultemplate-AIIA2.0.docx) (Nederlands) of [Invultemplate-AIIA2.0-EN.docx (45 KB)](documenten/Invultemplate-AIIA2.0-EN.docx) (Engels)
+- [Invultemplate Nederlands (docx, 46 KB)](documenten/Invultemplate-AIIA2.0.docx) of [Invultemplate Engels (docx, 45 KB)](documenten/Invultemplate-AIIA2.0-EN.docx)
 
 ## Relevantie
 

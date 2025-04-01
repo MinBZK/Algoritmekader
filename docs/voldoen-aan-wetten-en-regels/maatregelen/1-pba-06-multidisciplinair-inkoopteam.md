@@ -34,6 +34,7 @@ Stel een multidisciplinair team samen bij het ontwikkelen of inkopen van algorit
 - Wanneer het gaat om het ontwikkelen of inkopen van algoritmes, is een multidisciplinair team wenselijk. Zo'n team brengt relevante kennis en ervaring samen om de behoeften en specificaties helder te krijgen. Afhankelijk van de aard en complexiteit van het algoritme kunnen de rollen binnen dit team variëren.
 - Naast een interne opdrachtgever, materiedeskundige en gebruiker kun je voor het ontwikkelen van algoritmes denken aan een data-engineer, data scientist, IT-architect, ethicus, data- en privacy-officer. Bij een overheidsopdracht gericht op de inkoop van een algoritme, horen daar nog een (aanbestedings)jurist en inkoper bij. Afhankelijk van de complexiteit van de oplossing zijn meer of minder disciplines en dus te beleggen verantwoordelijkheden binnen het team wenselijk.
 - Een multidisciplinair team kan ondersteunen bij het [formuleren van de probleemstelling](1-pba-01-formuleren-probleemdefinitie.md) of [formuleren van de doelstellingen](1-pba-02-formuleren-doelstelling.md) van een project, verkennen van de mogelijke oplossingsrichtingen en het vertalen van de gewenste oplossingsrichting naar de concrete behoefte.
+- Betrek ook altijd een of meerdere leidinggevenden, en zorg dat zij de context en impact van het algoritme begrijpen.
 
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->

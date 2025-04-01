@@ -43,7 +43,7 @@ Een duidelijk beleid over de inzet van algoritmes helpt organisaties te voldoen 
     - Een intern registratiesysteem, bijvoorbeeld voor het registreren van laag risico of niet-impactvolle algoritmes zodat deze informatie voor medewerkers beschikbaar is.
     - In welke gevallen een [(openbaar) besluit](6-imp-08-politiek-bestuurlijk-besluit.md) wordt genomen door het bestuur over de inzet van een algoritme. 
 
-- Of algoritmes zelf worden ontwikkeld, of dat algoritmes of systemen worden [ingekocht](../../onderwerpen/publieke-inkoop.md). Dit vraagt om een andere governacnestructuur en aanpak. 
+- Of algoritmes zelf worden ontwikkeld, of dat algoritmes of systemen worden [ingekocht](../../onderwerpen/publieke-inkoop.md). Dit vraagt om een andere governancestructuur en aanpak. 
 
 - Er is beschreven welke informatie over welke typen algoritmes wordt gecommuniceerd met betrokkenen bij de ontwikkeling of gebruik ervan door de organisatie. 
 - Stel dit beleid op voor zowel:

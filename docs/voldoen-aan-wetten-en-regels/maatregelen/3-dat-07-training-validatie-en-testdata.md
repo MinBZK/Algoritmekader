@@ -39,15 +39,15 @@ Verdeel je dataset in drie delen:
 
     De [kwaliteit](3-dat-01-datakwaliteit.md) van deze dataset moet goed zijn en zo representatief mogelijk van de doelpopulatie. Eventuele [bias](../../onderwerpen/bias-en-non-discriminatie.md#herken-bias) of vooroordelen in deze dataset kunnen door het trainen in het model sluipen.
 
-   Let bij het samenstellen van de traningset op dat de data waarop het model gebaseerd is, niet beschikbaar is voordat de uitkomsten zijn geobserveerd. Met andere woorden, zorg ervoor de de voorspellingen geen onderdeel kunnen zijn van de inputvariabelen. 
+    Let bij het samenstellen van de traningset op dat de data waarop het model gebaseerd is, niet beschikbaar is voordat de uitkomsten zijn geobserveerd. Met andere woorden, zorg ervoor de de voorspellingen geen onderdeel kunnen zijn van de inputvariabelen. 
 
-3. **De validatieset**
+2. **De validatieset**
 
     De validatieset fungeert als een onafhankelijke, onbevooroordeelde dataset voor het vergelijken van de prestaties van verschillende algoritmes die zijn getraind op de trainingset.
 
     Verschillende modellen kunnen getraind worden op de trainingset. Zo kan je bijvoorbeeld variëren in de (hyper)parameters of de inputvariabelen. Dit leidt tot verschillende varianten van het model. Om de prestaties van de verschillende modellen te vergelijken, moeten we een nieuwe dataset gebruiken: de validatieset. Zou je hiervoor de trainingset gebruiken, kan dat leiden tot [overfitting](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html), omdat het model te specifiek afgestemd is op 1 dataset. Het model kan dan niet voldoende generaliseren voor nieuwe situaties.
 
-4. **De testset**
+3. **De testset**
 
     Nadat er met behulp van de validatieset een keuze is gemaakt voor een passend model en bijbehorende (hyper)parameters, moet je het model nog testen op nieuwe data. Dit geeft een beeld van de werkelijke prestaties van het model in nieuwe omstandigheden. 
 

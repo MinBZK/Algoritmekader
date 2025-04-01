@@ -9,7 +9,7 @@ In deze fase wordt het algoritme in de praktijk gebracht en duurzaam geïntegree
 In de praktijk worden veelal eerst een pilot uitgevoerd voor een afgebakende periode of over een beperkt aan zaken. 
 In deze situatie, een pilot, wordt tijdelijk productiedata verwerkt. 
 Dit vraagt om een goede samenwerking tussen het ontwikkelteam en de gebruikers van het algoritme. 
-Niet alleen de prestaties van het algoritme worden nogmaals gevalideerd, maar bijvoorbeeld ook of de output zodanig wordt gepresenteerd dat gebruikers hiermee kunnen werken. 
+Niet alleen de prestaties van het algoritme worden nogmaals gevalideerd, maar bijvoorbeeld ook of de output makkelijk machine leesbaar te verwerken zijn. Denk daarbij aan bestandsformaten verplicht gesteld door Forum Standaardisatie zoals CSV, JSON, XML, maar ook aan REST-API's. Op die manier kan de presentatie gescheiden worden van de logica.
 Na deze pilot wordt onderzocht in hoeverre het algoritme presteert conform wens en verwachting. 
 Er kan worden gekozen om het algoritme eerst nog door te ontwikkelen op basis van de bevindingen, uit te faseren of om de oplossing structureel onderdeel te maken van de bedrijfsvoering door het te implementeren. 
 

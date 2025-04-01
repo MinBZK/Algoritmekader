@@ -40,13 +40,13 @@ De Europese contractvoorwaarden voor AI zijn gebaseerd op onder andere de modelb
 ### AI-module bij ARBIT-2022
 [De AI-module bij de ARBIT](https://www.pianoo.nl/nl/regelgeving/voorwaarden/rijksoverheid/algemene-rijksinkoopvoorwaarden-bij-it-overeenkomsten-arbit) is gebaseerd op het gepubliceerd model van de Europese Commissie dat hierboven beschreven wordt. Via een verwijzing in de gebruikte modelovereenkomst kan de AI-module onderdeel gaan uitmaken van een onder de ARBIT te sluiten overeenkomst.
 
-De ARBIT zijn de Algemene Rijksinkoopvoorwaarden bij IT‑overeenkomsten (ARBIT) en zijn bedoeld voor kleine en middelgrote IT-inkopen door de overheid. [Lees meer hierover op de website van PIANOo](https://www.pianoo.nl/nl/regelgeving/voorwaarden/rijksoverheid/algemene-rijksinkoopvoorwaarden-bij-it-overeenkomsten-arbit#:~:text=Rijksoverheid-,Algemene%20Rijksinkoopvoorwaarden%20bij%20IT%E2%80%91overeenkomsten%20(ARBIT),IT%2Dinkopen%20door%20de%20overheid.).
+De ARBIT zijn de Algemene Rijksinkoopvoorwaarden bij IT-overeenkomsten (ARBIT) en zijn bedoeld voor kleine en middelgrote IT-inkopen door de overheid. [Lees meer hierover op de website van PIANOo](https://www.pianoo.nl/nl/regelgeving/voorwaarden/rijksoverheid/algemene-rijksinkoopvoorwaarden-bij-it-overeenkomsten-arbit#:~:text=Rijksoverheid-,Algemene%20Rijksinkoopvoorwaarden%20bij%20IT%E2%80%91overeenkomsten%20(ARBIT),IT%2Dinkopen%20door%20de%20overheid.).
 
+Verder is er de [Leidraad voor inkopen en ontwikkelen algoritmes in IT-toepassingen](https://www.pianoo.nl/sites/default/files/media/documents/2025-01/Leidraad-CoP-Digitale-innovaties-jan2025.pdf) vanuit PIANOo die allerlei handvatten biedt.
 
 ## Relevantie
 
 Steeds meer organisaties kopen algoritmische toepassingen in die veel impact hebben op gebruikers of beslissingen. Het is daarom van belang dat aanbestedende overheidsorganisaties afspraken maken met leveranciers, zodat de werking van de algoritmische toepassing transparant is en op een veilige en verantwoorde manier gebruikt wordt. Verschillende organisaties hebben daarom (voorbeeld-)contractvoorwaarden voor het inkopen van AI-systemen beschikbaar gesteld. Denk aan de Europese Commissie en de Gemeente Amsterdam.
-
 
 ## Bijbehorende vereisten { data-search-exclude }
 

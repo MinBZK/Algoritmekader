@@ -13,12 +13,12 @@ Een technisch robuust en veilig algoritme presteert onder elke omstandigheid zoa
 Een robuust algoritme is:
 
 * Nauwkeurig: Het algoritme geeft de juiste uitkomst voor het gewenste doel, of meldt dat de uitkomst onzeker is.
-* Betrouwbaar: Ook in nieuwe of onverwachte situaties geeft het algoritme de juiste uitkomst.
-* Reproduceerbaar: In dezelfde situaties vertoont het algoritme hetzelfde gedrag.
+* Validiteit: Ook in nieuwe of onverwachte situaties geeft het algoritme de juiste uitkomst.
+* Betrouwbaarheid: In dezelfde situaties vertoont het algoritme hetzelfde gedrag.
 
 Een algoritme is veilig onder deze omstandigheden:
 
-* Geautoriseerde toegang: Alleen personen en systemen met toestemming kunnen het algoritme gebruiken of beheren.
+* Geautoriseerde toegang: Alleen personen en systemen met toestemming kunnen het algoritme gebruiken, beheren of ontwikkelen.
 * Confidentieel: Het algoritme kan geen vertrouwelijke of gevoelige informatie lekken door aanvallen.
 * Integer: Kwaadwillenden kunnen nergens in de levenscyclus van het algoritme onbedoeld de controle van het model overnemen.
 * Beschikbaar: Je kunt op elk moment het algoritme gebruiken waarvoor het bedoeld is. Gaat dit toch fout, dan ontstaat er geen grote schade.
@@ -41,8 +41,10 @@ Voorkom dat medewerkers op de verkeerde manier werken met het algoritme. Zij moe
 * Maak duidelijke afspraken over werkprocessen ([governance](governance.md)).
 * Stuur gebruikers in het juiste gebruik via interactie en technische verbeteringen in het ontwerp.
 
+Vraag jezelf kritisch af of je een algoritme dat niet betekenisvol gecontroleerd kan worden wel in wil zetten.
+
 ## Controleer regelmatig
-Begin zo vroeg mogelijk met regelmatige controles van de uitkomst en werking van het algoritme. In de praktijk verandert de omgeving en de situatie waarin het algoritme wordt gebruikt. Controleer daarom regelmatig of het algoritme nog werkt zoals het is bedoeld. 
+Begin zo vroeg mogelijk met regelmatige controles van de uitkomst en werking van het algoritme. In de praktijk verandert de omgeving en de situatie waarin het algoritme wordt gebruikt. Controleer daarom regelmatig of het algoritme nog werkt zoals het is bedoeld. Laat deze controles ook steeksproef gewijs door mensen uitvoeren.
 
 ### Voorbeeld
 Een algoritme leest kentekens tijdens parkeercontroles. Het herkent de juiste letters en cijfers op elk kenteken. Ook als het bord een andere kleur heeft, op een andere plek zit of vies is. Het algoritme is nauwkeurig en dus robuust.
@@ -53,6 +55,8 @@ Een algoritme berekent het risico op fraude door mensen. Maar bij personen uit d
 Bereid de controles voor tijdens de levenscyclusfases [probleemanalyse](../levenscyclus/probleemanalyse.md), [ontwerp](../levenscyclus/ontwerp.md) en [dataverkenning en datapreparatie](../levenscyclus/dataverkenning-en-datapreparatie.md). Onderzoek de situatie waarin je organisatie het algoritme gaat gebruiken: Wat zijn de risico’s? Welke onderdelen van het algoritme moet je evalueren? Analyseer de kwaliteit en variatie van de data. Bedenk maatregelen waarmee je de risico’s zoveel mogelijk voorkomt. En bedenk met welke methode je de controles gaat evalueren. 
 
 Ontwikkel je het algoritme zelf, controleer dan tijdens de ontwikkeling al wat er gebeurt in de verschillende situaties die je verwacht. Experimenteer met nieuwe combinaties van de inputdata en gebruik verschillende representatieve test-sets.
+
+In het kenteken voorbeeld is vrij makkelijk te controleren of de output van het algoritme overeenkomt met de foto die van het kenteken is gemaakt.
 
 ### Controles uitvoeren
 Voer de controles uit tijdens de [ontwikkelfase](../levenscyclus/ontwikkelen.md) en de [verificatie- en validatiefase](../levenscyclus/verificatie-en-validatie.md). Test het algoritme goed. Evalueer hoe robuust en veilig het algoritme is. Verbeter het algoritme waar nodig. En monitor goed welke data het algoritme gebruikt, zodat je veranderingen in die data snel signaleert. Maak een noodplan voor als blijkt dat het algoritme niet meer werkt zoals het bedoeld was.

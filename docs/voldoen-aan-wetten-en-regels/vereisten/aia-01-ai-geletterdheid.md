@@ -70,7 +70,7 @@ Vanaf februari 2025 treedt deze vereiste in werking.
 
 !!! tip "Tip"
 
-    Op de website van de Rijksacademie voor Digitalisering en Informatisering Overheid vind je een [aantal links naar e-learnings en webinars over het gebruik van AI en generatieve AI](https://www.it-academieoverheid.nl/onderwerpen/a/artificiele-intelligentie). Zeker voor eindgebruikers die nog niet zo veel weten van AI bieden deze een goede basisopleiding.
+    Op de website van de Rijksacademie voor Digitalisering en Informatisering Overheid (RADIO) vind je een [aantal links naar e-learnings en webinars over het gebruik van AI en generatieve AI](https://www.it-academieoverheid.nl/onderwerpen/a/artificiele-intelligentie). Zeker voor eindgebruikers die nog niet zo veel weten van AI bieden deze een goede basisopleiding.
 
 ## Bronnen 
 

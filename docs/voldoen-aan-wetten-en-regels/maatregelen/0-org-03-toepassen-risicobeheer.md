@@ -43,7 +43,7 @@ Let op! Sommige maatregelen in het Algoritmekader gaan dieper in op het uitvoere
 ## Generatieve AI
 Bij het gebruik van generatieve AI is het van extra belang dat risico's gedekt worden.
 - Breng de veiligheidsrisico's van generatieve AI-toepassingen systematisch in kaart, bijvoorbeeld door middel van de [OWASP Risk Rating Methodology](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology).
-- Verzeker je ervan dat je door ontwikkeling of gebruik van generatieve AI [niet discrimineert](https://minbzk.github.io/Algoritmekader/onderwerpen/bias-en-non-discriminatie/). Stel een protocol op als discriminatie toch optreedt. Hierbij kun je gebruik maken van een [discriminatieprotocol opgesteld door het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties](https://minbzk.github.io/discriminatieprotocol/).
+- Verzeker je ervan dat je door ontwikkeling of gebruik van generatieve AI [niet discrimineert](https://minbzk.github.io/Algoritmekader/onderwerpen/bias-en-non-discriminatie/). [Stel een protocol op als discriminatie toch optreedt](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/0-org-15-discriminatieprotocol/).
 - Zorg ervoor dat je een eindverantwoordelijke aanstelt op het kruisingsgebied tussen cybersecurity en generatieve AI, en een eindverantwoordelijke voor privacy en generatieve AI. Stel ook een ondersteunende rol aan, bij wie medewerkers terecht kunnen voor vragen over generatieve AI.
 - Maak het mogelijk om [incidenten te rapporteren](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/aia-31-ai-modellen-algemene-doeleinden-systeemrisico-ernstige-incidenten).
    
@@ -62,7 +62,6 @@ Risico's worden niet (tijdig) vastgesteld en adequaat geadresseerd en behandeld.
 - [Onderzoekskader Algoritmes Auditdienst Rijk, SV.13 ](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 1.03](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [OWASP Risk Rating Methodology](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology)
-- [discriminatieprotocol opgesteld door het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties](https://minbzk.github.io/discriminatieprotocol/)
 
 ## Voorbeelden
 

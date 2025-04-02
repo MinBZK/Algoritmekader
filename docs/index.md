@@ -8,7 +8,7 @@ hide:
 
 # Algoritmekader 
 <div class="header-container">
-    <div class="subheader">Belangrijkste wetten en regels voor verantwoord gebruik van algoritmes door de overheid, met tips en hulpmiddelen. 
+    <div class="subheader">Belangrijkste wetten en regels voor verantwoord gebruik van overheidsalgoritmes, met tips en hulpmiddelen. 
     <span class="version-container">
       <span class="version-label">Versie 2.1</span>
       <div class="hover-info">
@@ -25,12 +25,11 @@ hide:
  <div class="float-child styled-list">
     <img src="afbeeldingen/rollen.jpg" alt="Afbeelding 2" class="block-image">
     <div class="float-box">
-    <h3><b>Starten met algoritmes of AI</b></h3>
+    <h3><b>Soorten algoritmes en AI</b></h3>
     <ul>
-      <li><a href="overhetalgoritmekader/soorten-algoritmes/">Wat is een algoritme?</a></li>
-      <li><a href="levenscyclus/">Levenscyclus van algoritmes</a></li>
-       <li><a href="onderwerpen/governance/">Governance van je algoritmes</a></li>
-        <li><a href="rollen/">Rollen</a></li>
+      <li><a href="soorten-algoritmes-en-ai/wat-is-een-algoritme/">Wat is een algoritme?</a></li>
+      <li><a href="soorten-algoritmes-en-ai/generatieve-ai/">Generatieve AI</a></li>
+       <li><a href="soorten-algoritmes-en-ai/risico-van-ai-systemen/">Risico van AI-systemen</a></li>
     </ul>
     
   </div>
@@ -39,11 +38,11 @@ hide:
   <div class="float-child styled-list">
     <img src="afbeeldingen/wetten-en-regels.jpg" alt="Vrouwe Justitia" class="block-image">
     <div class="float-box">
-    <h3><b>Waar je aan moet voldoen en hoe</b></h3>
+    <h3><b>Voldoen aan wetten en regels</b></h3>
     <ul>
-      <li><a href="voldoen-aan-wetten-en-regels/vereisten/">Overzicht vereisten voor de overheid, inclusief AI-verordening</a></li>
-      <li><a href="voldoen-aan-wetten-en-regels/maatregelen/">Overzicht aanbevolen maatregelen</a></li>
-      <li><a href="voldoen-aan-wetten-en-regels/hulpmiddelen/">Overzicht hulpmiddelen</a></li>
+      <li><a href="voldoen-aan-wetten-en-regels/vereisten/">Vereisten, inclusief AI-verordening</a></li>
+      <li><a href="voldoen-aan-wetten-en-regels/maatregelen/">Overzicht Aanbevolen maatregelen</a></li>
+      <li><a href="voldoen-aan-wetten-en-regels/hulpmiddelen/">Hulpmiddelen</a></li>
     </ul>
       
     </div>
@@ -67,9 +66,9 @@ hide:
     <div class="float-box">
     <h3><b>Onderwerpen</b></h3>
     <ul>
-      <li><a href="onderwerpen/bias-en-non-discriminatie/">Discriminerende effecten en ander ongewenst onderscheid door algoritmes</a></li>   
-      <li><a href="onderwerpen/privacy-en-gegevensbescherming/">Privacy en persoonsgegevens beschermen</a></li>
-      <li><a href="onderwerpen/publieke-inkoop/">Inkoop van verantwoorde algoritmes</a></li>
+      <li><a href="onderwerpen/bias-en-non-discriminatie/">Discriminatie</a></li>   
+      <li><a href="onderwerpen/privacy-en-gegevensbescherming/">Privacy en persoonsgegevens</a></li>
+      <li><a href="onderwerpen/publieke-inkoop/">Publieke inkoop</a></li>
     </ul>
     <a href="onderwerpen/" class="show-more"><b>Alle onderwerpen</b></a>
       

@@ -11,8 +11,7 @@ Inventariseren van de algoritmes die gebruikt worden, helpt bij:
 - [Het correct registreren van de algoritmes in het Algoritmeregister](6-imp-04-publiceren-algoritmeregister.md)
 - Het opzetten van een goede [algoritmegovernance](../../onderwerpen/governance.md). 
 ",,"['urn:nl:ak:ver:aia-00', 'urn:nl:ak:ver:aia-02', 'urn:nl:ak:ver:aia-03', 'urn:nl:ak:ver:bzk-01', 'urn:nl:ak:ver:avg-10']",,https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/0-org-00-inventariseren-algoritmes/index.html
-urn:nl:ak:mtr:org-01,Bepaal of er genoeg experts beschikbaar zijn,"
-Bepaal welke expertise en capaciteit noodzakelijk is voor het ontwikkelen, inkopen en gebruiken van algoritmes en stel vast of er voldoende expertise en capaciteit beschikbaar is.
+urn:nl:ak:mtr:org-01,Bepaal of er genoeg experts beschikbaar zijn,"Bepaal welke expertise en capaciteit noodzakelijk is voor het ontwikkelen, inkopen en gebruiken van algoritmes en stel vast of er voldoende expertise en capaciteit beschikbaar is.
   ",['governance'],['organisatieverantwoordelijkheden'],"['projectleider', 'beleid-en-advies']","- Bepaal welke expertise en capaciteit binnen de organisatie noodzakelijk is voor het ontwikkelen, inkopen en gebruiken van algoritmes.
 - Dit is sterk afhankelijk van de specifieke toepassing en de inzichten die voortkomen uit risicoanalyses. Hoe complexer en risicovoller de toepassing, des te meer expertise en capaciteit noodzakelijk is. 
 - Indien is vastgesteld dat er onvoldoende expertise aanwezig is, investeer dan in [bewustwording en voldoende opleidingen](0-org-16-bewustwording-en-opleiding.md) over de kansen en risico's van algoritmes en AI. 
@@ -24,8 +23,7 @@ Bepaal welke expertise en capaciteit noodzakelijk is voor het ontwikkelen, inkop
 ","Zonder voldoende expertise en capaciteit kan het zijn dat het ontwikkelen, inkopen, en gebruiken van algoritmes niet goed verloopt binnen de organisatie doordat de middelen hiervoor ontbreken. 
 
 ","['urn:nl:ak:ver:awb-01', 'urn:nl:ak:ver:aia-21', 'urn:nl:ak:ver:aia-01']",,https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/0-org-01-benodigde-expertise-en-capaciteit/index.html
-urn:nl:ak:mtr:org-02,Stel beleid op voor een verantwoorde inzet van algoritmes binnen de organisatie,"
-Stel beleid op voor een verantwoorde inzet van algoritmes binnen de organisatie. 
+urn:nl:ak:mtr:org-02,Stel beleid op voor een verantwoorde inzet van algoritmes binnen de organisatie,"Stel beleid op voor een verantwoorde inzet van algoritmes binnen de organisatie. 
 ","['governance', 'transparantie']",['organisatieverantwoordelijkheden'],['beleid-en-advies'],"Een duidelijk beleid over de inzet van algoritmes helpt organisaties te voldoen aan de vereisten voor het verantwoord gebruik ervan. Hierin worden zaken beschreven als:
 
 - Hoe de inzet van algoritmes gaat bijdragen aan het realiseren van de organisatiedoelstellingen. 
@@ -63,8 +61,7 @@ Stel beleid op voor een verantwoorde inzet van algoritmes binnen de organisatie.
 ",['urn:nl:ak:ver:awb-01'],"
 Geen beschikbare bron voor deze maatregel.
 ",https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/0-org-02-beleid-opstellen-inzet-algoritmes/index.html
-urn:nl:ak:mtr:org-03,Maak een plan voor het omgaan met risico’s,"
-Pas risicobeheer gestructureerd toe voorafgaand en gedurende de ontwikkeling en gebruik van algoritmes.
+urn:nl:ak:mtr:org-03,Maak een plan voor het omgaan met risico’s,"Pas risicobeheer gestructureerd toe voorafgaand en gedurende de ontwikkeling en gebruik van algoritmes.
   ",['governance'],['organisatieverantwoordelijkheden'],"['projectleider', 'beleid-en-advies']","- Bepaal tijdig, bijvoorbeeld in de ontwerpfase om [wat voor toepassing het gaat](2-owp-05-soort-algoritme.md) (algoritme of AI-systeem) en bepaal welke risicoclassificatie hierbij hoort.
 - Bepaal op basis van de toepassing en de risicoclassificatie, welke aspecten van risicobeheer moeten worden toegepast.
 - Inventariseer tijdig, bijvoorbeeld in de probleemanalayse- of ontwerpfase, bij betrokken experts welke beleidskaders en hulpmiddelen binnen de organisatie moeten worden ingezet om risicobeheer toe te passen.
@@ -91,8 +88,7 @@ Het doorlopen van een concrete casus voor de ontwikkeling en gebruik van een alg
 ","Het verwaarlozen van politiek-bestuurlijk bewustzijn, betrokkenheid en verantwoordelijkheid kan leiden tot een het ontwikkelen van algoritmegovernance dat op de lange termijn niet effectief inzetbaar is. 
 ",[],"[Kleur bekennen - vervolgonderzoek algoritmes](https://rekenkamer.rotterdam.nl/onderzoeken/kleur-bekennen/)
 ",https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/0-org-04-politiek-bestuurlijke-verantwoordelijkheid/index.html
-urn:nl:ak:mtr:org-05,Sluit algoritmegovernance aan op bestaande governancestructuren binnen de organisatie,"
-Sluit algoritmegovernance aan op bestaande governancestructuren binnen de organisatie.
+urn:nl:ak:mtr:org-05,Sluit algoritmegovernance aan op bestaande governancestructuren binnen de organisatie,"Sluit algoritmegovernance aan op bestaande governancestructuren binnen de organisatie.
 ",['governance'],['organisatieverantwoordelijkheden'],"['projectleider', 'beleid-en-advies']","Zoek bij het opstellen van een algoritmegovernance van een organisatie aansluiting en samenwerking met huidige governancestructuren. Dit kan op drie manieren: aansluiting bij bestaande governance binnen je organisatie, governance van andere sectoren en governance van andere overheidsorganisaties. 
 
 ### Aansluiting met bestaande governancestructuren binnen je eigen organisatie
@@ -125,8 +121,7 @@ Probeer aansluiting te zoeken met vergelijkbare overheidsorganisaties.
 ","Als er bij de bestaande governancestructuren geen rekening wordt gehouden met het invoeren van algoritmegovernance is er een risico dat verantwoord gebruik van algoritmes niet genoeg wordt overwogen binnen de organisatie.
 ",[],"Geen beschikbare bron voor deze maatregel.
 ",https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/0-org-05-bestaande-governance/index.html
-urn:nl:ak:mtr:org-06,Gebruik een algoritme volwassenheidsmodel om te weten waar de organisatie staat,"
-Breng de volwassenheid van je organisatie op het gebied van algoritmes in kaart.
+urn:nl:ak:mtr:org-06,Gebruik een algoritme volwassenheidsmodel om te weten waar de organisatie staat,"Breng de volwassenheid van je organisatie op het gebied van algoritmes in kaart.
 ",['governance'],['organisatieverantwoordelijkheden'],"['projectleider', 'beleid-en-advies']","-   Om tot een passende algoritmegovernance voor een organisatie te komen, moet eerst worden vastgesteld wat op dit moment al is ingericht binnen een organisatie op het gebied van algoritmes.
 -   Hiervoor kan een volwassenheidsmodel worden toegepast.
 -   Op basis hiervan kunnen vervolgstappen worden gedefinieerd, zodat je een handelingsperspectief hebt om je organisatie te organiseren. Ook kunnen deze uitkomsten helpen bewustzijn over de uitdagingen te vergroten.
@@ -137,8 +132,7 @@ Breng de volwassenheid van je organisatie op het gebied van algoritmes in kaart.
 ","Als je niet een goed beeld hebt van waar de organisatie staat, is het moeilijk te peilen welke richting gekozen moet worden en kan dit leiden tot het doen van dubbel werk.
 ",[],"Geen beschikbare bron voor deze maatregel.
 ",https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/0-org-06-volwassenheidsmodel/index.html
-urn:nl:ak:mtr:org-07,Richt een algoritmegovernance in met three lines of defence,"
-Richt een algoritmegovernance in met three lines of defence.
+urn:nl:ak:mtr:org-07,Richt een algoritmegovernance in met three lines of defence,"Richt een algoritmegovernance in met three lines of defence.
 ",['governance'],['organisatieverantwoordelijkheden'],"['projectleider', 'beleid-en-advies']","Een inrichting van algoritmegovernance die vaak wordt toegepast is het three lines of defence model:
 
 - De eerste linie gaat over eigenaarschap, ontwikkeling, gebruik en risicobeheersing van algoritmes.
@@ -153,8 +147,7 @@ Het toepassen van een 'three lines of defence' is slechts één aspect van het t
 ","Een risico van het vermijden van het three lines of defence model is dat er stappen worden overgeslagen bij het ontwikkelen van een algoritmegovernance. 
 ",[],"Geen beschikbare bron voor deze maatregel.
 ",https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/0-org-07-intern-toezicht/index.html
-urn:nl:ak:mtr:org-08,Richt vaste beslismomenten en controlepunten in in de algoritmelevenscyclus,"
-Richt vaste beslismomenten en controlepunten in in de algoritmelevenscyclus.
+urn:nl:ak:mtr:org-08,Richt vaste beslismomenten en controlepunten in in de algoritmelevenscyclus,"Richt vaste beslismomenten en controlepunten in in de algoritmelevenscyclus.
 ",['governance'],['organisatieverantwoordelijkheden'],"['projectleider', 'beleid-en-advies']","- Algoritmegovernance kan op de levenscyclus aansluiten door 'gates' of controlepunten in te voeren. Deze gates bevatten belangrijke mijlpalen om te beoordelen of de juiste taken zijn uitgevoerd, of ethische afwegingen zijn gemaakt, of documentatie heeft plaatsgevonden en of akkoord is ingewonnen (go/no-go moment) bij de verantwoordelijke(n) om naar de volgende fase te mogen. 
 - Het is belangrijk om te weten dat toepassing van deze ‘gates’ niet altijd hetzelfde is. Dit kan namelijk verschillen afhankelijk van het type algoritme. 
 - Een hoog-risico-AI systeem moet aan meer vereisten voldoen dan een niet impactvol algoritme. Een hoog-risico AI-systeem moet daarom binnen de gates worden getoetst op meer onderdelen dan een niet impactvol algoritme.
@@ -174,8 +167,7 @@ urn:nl:ak:mtr:org-09,Richt algoritmegovernance in op basis van de risicoclassifi
 ","Een risico dat kan voortkomen uit het niet hanteren van de verschillende risicoclassificaties is dat er aan meer vereisten wordt voldaan dan nodig is bij sommige types algoritmes, wat kan leiden tot onnodig werk.
 ",[],"Geen beschikbare bron voor deze maatregel.
 ",https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/0-org-09-governance-per-risicocategorie/index.html
-urn:nl:ak:mtr:org-10,Taken en verantwoordelijkheden zijn toebedeeld in de algoritmegovernance,"
-Taken en verantwoordelijkheden zijn toebedeeld in de algoritmegovernance.
+urn:nl:ak:mtr:org-10,Taken en verantwoordelijkheden zijn toebedeeld in de algoritmegovernance,"Taken en verantwoordelijkheden zijn toebedeeld in de algoritmegovernance.
 ",['governance'],['organisatieverantwoordelijkheden'],"['projectleider', 'beleid-en-advies']","- Bij het vormgeven van een doeltreffende algoritmegovernance is het beleggen van expliciete taken en verantwoordelijkheden cruciaal.
 - Het beleggen van deze taken en verantwoordelijkheden zorgt voor een actiegerichte structuur waarin duidelijkheid bestaat over wie wanneer aan zet is.
 - Denk hierbij aan het opstellen van een RACI-matrix en pas dit binnen de organisatie toe per risicoclassificatie voor algoritmes. 
@@ -190,8 +182,7 @@ De rollen en verantwoordelijkheden voor reguliere algoritmes en AI kunnen anders
 
 ",[],"- [Onderzoekskader Auditdienst Rijk, SV.9](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 ",https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/0-org-10-inrichten-taken-en-verantwoordelijkheden-algoritmegovernance/index.html
-urn:nl:ak:mtr:org-11,Maak afspraken over het beheer van gebruikers,"
-Richt gebruikersbeheer in, waarmee bepaald wordt wie toegang heeft tot wat, en wat er bijvoorbeeld gebeurt bij indiensttreding, functiewijziging en uitdiensttreding.
+urn:nl:ak:mtr:org-11,Maak afspraken over het beheer van gebruikers,"Richt gebruikersbeheer in, waarmee bepaald wordt wie toegang heeft tot wat, en wat er bijvoorbeeld gebeurt bij indiensttreding, functiewijziging en uitdiensttreding.
 ","['technische-robuustheid-en-veiligheid', 'governance']",['organisatieverantwoordelijkheden'],"['projectleider', 'beleid-en-advies']","Gebruikersbeheer zorgt ervoor dat accounts en autorisaties beheerst worden aangevraagd, geautoriseerd, gewijzigd en ingetrokken bij indiensttreding, functiewijziging en uitdiensttreding. Ook wordt functievermenging voorkomen bij toegang en gebruik van het algoritme, de data of de uitkomsten van een algoritme.
 
 Bij het inrichten van gebruikersbeheer moeten aan de volgende elementen worden gedacht:
@@ -234,8 +225,7 @@ urn:nl:ak:mtr:org-12,Controleer en verbeter regelmatig de kwaliteit van het algo
 Let op! Sommige maatregelen in het Algoritmekader gaan dieper in op het uitvoeren van risicoanalyses. 
    ","Zonder evaluatie van de kwaliteit van het algoritme is er geen goede sturing, beheersing en verantwoording mogelijk als er ongewenste wijzigingen plaatsvinden in het algoritme of AI-systeem. 
 ","['urn:nl:ak:ver:aia-11', 'urn:nl:ak:ver:aia-27']",,https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/0-org-12-periodieke-evaluatie-kwaliteit/index.html
-urn:nl:ak:mtr:org-13,Maak afspraken over het beheer van wachtwoorden,"
-Richt wachtwoordbeheer in, waarmee bepaald wordt hoe wachtwoorden worden opgeslagen, wanneer wijzigingen moeten plaatsvinden en waaraan wachtwoorden moeten voldoen. Hiermee wordt de toegang tot bijvoorbeeld ontwikkelomgevingen geregeld op een veilige manier.
+urn:nl:ak:mtr:org-13,Maak afspraken over het beheer van wachtwoorden,"Richt wachtwoordbeheer in, waarmee bepaald wordt hoe wachtwoorden worden opgeslagen, wanneer wijzigingen moeten plaatsvinden en waaraan wachtwoorden moeten voldoen. Hiermee wordt de toegang tot bijvoorbeeld ontwikkelomgevingen geregeld op een veilige manier.
 
 ","['technische-robuustheid-en-veiligheid', 'governance']",['organisatieverantwoordelijkheden'],"['projectleider', 'ontwikkelaar']","Bij het inrichten van wachtwoordbeheer moeten de volgende zaken worden toegepast:
 
@@ -252,8 +242,7 @@ Richt wachtwoordbeheer in, waarmee bepaald wordt hoe wachtwoorden worden opgesla
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 4.03](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [NIST 5.1.1.2](https://pages.nist.gov/800-63-3/sp800-63b.html#sec5)
 ",https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/0-org-13-wachtwoordbeheer/index.html
-urn:nl:ak:mtr:org-14,Maak afspraken over het wijzigen van de code,"
-Richt een wijzigingenproces in, waarmee bepaald wordt hoe codewijzigingen plaatsvinden.
+urn:nl:ak:mtr:org-14,Maak afspraken over het wijzigen van de code,"Richt een wijzigingenproces in, waarmee bepaald wordt hoe codewijzigingen plaatsvinden.
 
 ","['technische-robuustheid-en-veiligheid', 'governance']",['organisatieverantwoordelijkheden'],"['projectleider', 'ontwikkelaar']","Bij het inrichten van een proces om wijzigingen aan de code te mogen aanbrengen, kunnen aan de volgende elementen worden gedacht:
 
@@ -357,8 +346,7 @@ Zonder eenduidigheid over het op te lossen probleem is geen sturing op en verant
 - [Impact Assessment Mensenrechten en Algoritmes, 1.01](https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes)
 - [Onderzoekskader Algoritmes Auditdienst Rijk, SV.1](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 ",https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/1-pba-01-formuleren-probleemdefinitie/index.html
-urn:nl:ak:mtr:pba-02,Beschrijf het doel van het algoritme,"
-Het doel en de eventuele subdoelen van het algoritme moeten zo specifiek mogelijk zijn geformuleerd, en waar mogelijk gekwantificeerd. 
+urn:nl:ak:mtr:pba-02,Beschrijf het doel van het algoritme,"Het doel en de eventuele subdoelen van het algoritme moeten zo specifiek mogelijk zijn geformuleerd, en waar mogelijk gekwantificeerd. 
 Maak de consequenties van het algoritme specifiek en zorg dat het doel van het algoritme formeel is vastgesteld en vastgelegd. 
 ","['governance', 'transparantie']",['probleemanalyse'],['projectleider'],"- Het doel van de inzet van een algoritme dient zo concreet en specifiek mogelijk gedefinieerd te worden. 
 Indien er meerdere doelen zijn, is het belangrijk om een zekere rangorde te maken: wat zijn de belangrijkste doelen? En waarom?
@@ -395,8 +383,7 @@ Documenteer de onderbouwing waarom een algoritme een betere oplossing zou bieden
 - [Onderzoekskader Algoritmes Auditdienst Rijk, SV.2](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Handreiking identificatie verboden AI-systemen (Powerpoint-bestand)](https://github.com/user-attachments/files/18179740/Handreiking_Uitvraag_VBSystemen.pptx)
 ",https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/1-pba-03-onderbouwen-gebruik-algoritme/index.html
-urn:nl:ak:mtr:pba-04,Overleg regelmatig met belanghebbenden,"
-Breng in kaart welke belanghebbenden er zijn en betrek hen op verschillende momenten in de levenscyclus.
+urn:nl:ak:mtr:pba-04,Overleg regelmatig met belanghebbenden,"Breng in kaart welke belanghebbenden er zijn en betrek hen op verschillende momenten in de levenscyclus.
 ","['governance', 'fundamentele-rechten']","['probleemanalyse', 'ontwerp', 'implementatie']",['projectleider'],"Het betrekken van belanghebbenden is van belang in bijna alle fasen van de levenscyclus.
 Belanghebbenden zijn onder meer eindgebruikers, mensen en rechtspersonen die door het algoritme geraakt kunnen worden en vertegenwoordigende organisaties.
 
@@ -457,16 +444,14 @@ Werk specifieke, gevoelige activiteiten nader uit in concrete taken en verantwoo
 
 ","De sturing en verantwoording is ontoereikend of niet geborgd, waardoor er onvoldoende betrokkenheid of capaciteit is van verantwoordelijken. Ook kan er dan onvoldoende deskundigheid in de organisatie zijn, wat de kans vergroot op fouten en ongewenste effecten. Zonder het vaststellen van rollen en verantwoordelijkheden kan er geen effectieve sturing plaatsvinden op partijen die betrokken zijn bij het ontwikkelen of gebruiken van algoritmes.
 ","['urn:nl:ak:ver:avg-06', 'urn:nl:ak:ver:awb-01']",,https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/2-owp-01-rollen-en-verantwoordelijkheden/index.html
-urn:nl:ak:mtr:owp-02,"Voer voorafgaand aan een project een data beschikbaarheid, kwaliteit- en toegankelijkheidsanalayse uit","
-Voer voorafgaand aan een project een data beschikbaarheids- en [datakwaliteitsanalayse](3-dat-01-datakwaliteit.md) uit.
+urn:nl:ak:mtr:owp-02,"Voer voorafgaand aan een project een data beschikbaarheid, kwaliteit- en toegankelijkheidsanalayse uit","Voer voorafgaand aan een project een data beschikbaarheids- en [datakwaliteitsanalayse](3-dat-01-datakwaliteit.md) uit.
 ","['publieke-inkoop', 'data']",['ontwerp'],"['projectleider', 'beleid-en-advies']","- Het is van belang om voorafgaand aan een project vast te stellen of de data die noodzakelijk is om een algoritme te ontwikkelen of te kunnen gebruiken beschikbaar is, gaat worden en of de data van voldoende [kwaliteit](3-dat-01-datakwaliteit.md) is.
 - Er moet worden onderzocht of en hoe data vanuit de eigen organisatie, die van een eventuele externe aanbieder of elders beschikbaar kan worden gesteld, kan worden opgeslagen en of goedkeuring kan worden gegeven voor het verwerken van de data.
 - De infrastructuur van de eigen organisatie en/of die van een eventuele externe aanbieder moet van voldoende niveau zijn om de beoogde verwerkingen uit te kunnen voeren.
 - Een dergelijke analyse levert inzichten op welke problemen er eventueel op dit vlak kunnen ontstaan en geeft input voor de verdere ontwikkeling of (in geval van inkoop) de behoeftestelling.
 ","Het zou kunnen voorkomen dat de data niet beschikbaar is en ook niet gaat worden. Dit betekent dat een algoritme ook niet goed gemaakt of gebruikt kan worden. Ook is het belangrijk om te checken of de data beschikbaar blijft als dat nodig is voor het functioneren van het algoritme (bijv. voor het bijleren). Ook bestaat er een risico dat als de data van onvoldoende kwaliteit is, het algoritme niet goed gaat werken. Wanneer niet vooraf bepaald is of de data beschikbaar is en van voldoende kwaliteit is, kan het gebeuren dat er wel een algoritme gemaakt wordt door een derde partij, maar deze vervolgens niet gebruikt kan worden binnen de organisatie. 
 ",['urn:nl:ak:ver:aia-05'],,https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/2-owp-02-data-beschikbaarheid/index.html
-urn:nl:ak:mtr:owp-03,Beschrijf voor welk doel het algoritme persoonsgegevens gebruikt en waarom dit mag,"
-Het doel voor het verwerken van persoonsgegevens met een algoritme is welbepaald en omschreven.
+urn:nl:ak:mtr:owp-03,Beschrijf voor welk doel het algoritme persoonsgegevens gebruikt en waarom dit mag,"Het doel voor het verwerken van persoonsgegevens met een algoritme is welbepaald en omschreven.
 ",['privacy-en-gegevensbescherming'],"['ontwerp', 'dataverkenning-en-datapreparatie', 'ontwikkelen', 'verificatie-en-validatie', 'implementatie']","['projectleider', 'jurist']","Persoonsgegevens mogen alleen worden verwerkt voor een ‘welbepaald, uitdrukkelijk omschreven en gerechtvaardigd’ doel. De wettelijke grondslag voor de verwerking van de persoonsgegevens moet zijn beschreven.
 
 De verwerking van persoonsgevens voor het ontwikkelen en gebruiken van een algoritme moet verenigbaar zijn met het oorspronkelijke verwerkingsdoel (doelbinding). Eventuele verdere (subsidiaire) verwerkingen, zoals het verwerken van persoonsgegevens voor een onderzoek naar onbewuste vooringenomenheid, moeten uitdrukkelijk worden omschreven.
@@ -507,8 +492,7 @@ urn:nl:ak:mtr:owp-04,Beschrijf welke techniek gebruikt wordt voor de beoogde toe
 - Veel (statistische) modellen zijn gebaseerd op (statistische) aannames over bijvoorbeeld eigenschappen van de data. Ga na of er aan deze aannames wordt voldaan. 
 ","Wanneer je geen zorgvuldige afweging maakt over de techniek die je gebruikt om het doel te bereiken, dan is het niet duidelijk of de meest geschikte techniek wordt gebruikt. Mogelijk zijn er passendere oplossingen om het doel te bereiken. 
 ","['urn:nl:ak:ver:awb-01', 'urn:nl:ak:ver:aia-06', 'urn:nl:ak:ver:aia-10']",,https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/2-owp-04-gebruikte-techniek/index.html
-urn:nl:ak:mtr:owp-05,Stel vast in welke risicogroep het algoritme valt en bepaal vervolgens welke vereisten van toepassing zijn.,"
-Stel vast in welke risicogroep het algoritme valt en bepaal vervolgens welke vereisten van toepassing zijn.
+urn:nl:ak:mtr:owp-05,Stel vast in welke risicogroep het algoritme valt en bepaal vervolgens welke vereisten van toepassing zijn.,"Stel vast in welke risicogroep het algoritme valt en bepaal vervolgens welke vereisten van toepassing zijn.
 ","['publieke-inkoop', 'governance']","['ontwerp', 'ontwikkelen']","['projectleider', 'beleid-en-advies']","Het verschilt per type algoritme welke vereisten hierop van toepassing is en waar een aanbieder of gebruiksverantwoordelijke aan moet voldoen. 
 
 Dit is mede afhankelijk van de bijbehorende [risicogroepen](../ai-verordening.md#risicogroepen), de [gebruikte techiek](2-owp-04-gebruikte-techniek.md) en of je het algoritme [ontwikkelt of slechts gebruikt](../ai-verordening.md#rollen-uit-de-ai-verordening).  
@@ -602,8 +586,7 @@ Bepaal vervolgens of er groepen zijn waarbij de impact van het algoritme dermate
 - [Handreiking non-discriminatie by design, 1.7 en 1.8 en 1.15](https://open.overheid.nl/documenten/ronl-3f9fa69c-acf4-444d-96e1-5c48df00eb3c/pdf)
 
 ",https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/2-owp-08-kwetsbare-groepen/index.html
-urn:nl:ak:mtr:owp-09,Bepaal welke documenten voor hoe lang gearchiveerd moeten worden,"
-Stel vast welke documenten, (samengesteld geheel van) data, informatie van of in het algoritme gelden als ""archiefbescheiden"" in de zin van [artikel 1c Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=I&artikel=1&z=2024-06-19&g=2024-06-19) en documenteer daarvan een overzicht, bij voorkeur vastgesteld door een daartoe bevoegde. Bepaal de bijbehorende bewaartermijnen vast voor de archiefbescheiden.
+urn:nl:ak:mtr:owp-09,Bepaal welke documenten voor hoe lang gearchiveerd moeten worden,"Stel vast welke documenten, (samengesteld geheel van) data, informatie van of in het algoritme gelden als ""archiefbescheiden"" in de zin van [artikel 1c Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=I&artikel=1&z=2024-06-19&g=2024-06-19) en documenteer daarvan een overzicht, bij voorkeur vastgesteld door een daartoe bevoegde. Bepaal de bijbehorende bewaartermijnen vast voor de archiefbescheiden.
 
 ",['transparantie'],"['ontwerp', 'ontwikkelen']","['ontwikkelaar', 'projectleider', 'jurist']","- Bij archiefbescheiden kan worden gedacht aan de broncode, trainings- en testdata, (technische) documentatie en de output. 
 - Deze archiefbescheiden moeten voor een bepaalde tijd worden bewaard (de bewaartermijn).
@@ -621,8 +604,7 @@ transparantie en openheid (uitgangspunt zou 'open, tenzij' moeten zijn).
 - [Toetsingskader Algemene Rekenkamer 4.06](https://www.rekenkamer.nl/onderwerpen/algoritmes-digitaal-toetsingskader) 
 - [Onderzoekskader Auditdienst Rijk, DM.13](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) 
 ",https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/2-owp-09-archiveren-documenten/index.html
-urn:nl:ak:mtr:owp-10,Maak een Project Startarchitectuur (PSA) voor de ontwikkeling of inkoop van algoritmes,"
-Voer een Project Startarchitectuur (PSA) uit als algoritmes worden ontwikkeld of ingekocht.
+urn:nl:ak:mtr:owp-10,Maak een Project Startarchitectuur (PSA) voor de ontwikkeling of inkoop van algoritmes,"Voer een Project Startarchitectuur (PSA) uit als algoritmes worden ontwikkeld of ingekocht.
 ",['technische-robuustheid-en-veiligheid'],"['ontwerp', 'ontwikkelen', 'verificatie-en-validatie', 'implementatie']","['projectleider', 'beleid-en-advies']","- Een Project Startarchitectuur (PSA) is een hulpmiddel dat bij een project wordt ingezet om veranderingen van A naar B beter te faciliteren.
 - De PSA richt zich daarbij op de kaders die op een project van toepassing zijn en wat de oplossing bijdraagt aan het realiseren van de gewenste, toekomstige architectuur, wat de implicaties zullen zijn voor bestaande voorzieningen en waar het project zal afwijken van bestaande beelden.
 - Met de PSA wordt een concreet en doelgericht ICT-architectuurkader opgesteld, waarbinnen het project moet worden uitgevoerd. 
@@ -645,8 +627,7 @@ urn:nl:ak:mtr:owp-11,Beschrijf welke data gebruikt wordt voor de beoogde toepass
 ","Als er niet wordt beschreven welke data wordt gebruikt voor een toepassing wordt het risico gelopen dat bij gebruik van een algoritme er kans is op bias-vorming en mindere transparantie. 
 
 ",['urn:nl:ak:ver:aia-05'],,https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/2-owp-11-gebruikte-data/index.html
-urn:nl:ak:mtr:owp-12,Koop duurzaam algoritmes in,"
-Kies softwareoplossingen van aanbieders die duurzaamheid bevorderen, en stel heldere eisen aan energieverbruik, hernieuwbare energiebronnen en transparantie over de milieuprestaties van software.
+urn:nl:ak:mtr:owp-12,Koop duurzaam algoritmes in,"Kies softwareoplossingen van aanbieders die duurzaamheid bevorderen, en stel heldere eisen aan energieverbruik, hernieuwbare energiebronnen en transparantie over de milieuprestaties van software.
 ","['publieke-inkoop', 'duurzaamheid']",['ontwerp'],"['projectleider', 'beleid-en-advies']","Door software duurzaam in te kopen, kun je als organisatie al vroeg in het ontwikkelproces bijdragen aan de verduurzaming van je algoritmes. Kies daarom softwareoplossingen van aanbieders die maatschappelijk verantwoord ondernemen (MVI) en energie-efficiëntie vooropstellen.
 
 ### Duurzaamheidscriteria en selectie van aanbieders
@@ -682,8 +663,7 @@ Een populaire methode om complexiteit te verlagen is het *divide-and-conquer* pr
 ","Ontwerpen zonder oog voor efficiëntie kan leiden tot energie-intensieve algoritmes die hoge kosten en milieubelasting met zich meebrengen.
 ",[],"- [What is knowledge distillation? (IBM)](https://www.ibm.com/topics/knowledge-distillation)
 ",https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/2-owp-13-eenvoudigere-algoritmes/index.html
-urn:nl:ak:mtr:owp-14,Maak het opstellen van een verwerkersovereenkomst onderdeel van de aanbesteding als persoonsgegevens worden verwerkt,"
-Het opstellen van een verwerkersovereenkomst met aanbieder is onderdeel van de aanbesteding als persoonsgegevens worden verwerkt of noodzakelijk zijn voor het trainen of genereren van output door algoritmes van de aanbieder.
+urn:nl:ak:mtr:owp-14,Maak het opstellen van een verwerkersovereenkomst onderdeel van de aanbesteding als persoonsgegevens worden verwerkt,"Het opstellen van een verwerkersovereenkomst met aanbieder is onderdeel van de aanbesteding als persoonsgegevens worden verwerkt of noodzakelijk zijn voor het trainen of genereren van output door algoritmes van de aanbieder.
 ","['publieke-inkoop', 'privacy-en-gegevensbescherming']","['ontwerp', 'monitoring-en-beheer']","['projectleider', 'beleid-en-advies']","Een verwerkersovereenkomst moet worden opgesteld als persoonsgegevens worden verwerkt voor het trainen of het genereren van output door algoritmes van de aanbieder. Met een verwerkersovereenkomst worden een aantal afspraken schriftelijk vastgelegd het bij de verwerking van persoonsgegevens. Het gaat om de volgende zaken:
 
 - Algemene beschrijving. Een omschrijving van het onderwerp, de duur, de aard en het doel van de verwerking, het soort persoonsgegevens, de categorieën van betrokkenen en uw rechten en verplichtingen als verwerkingsverantwoordelijke.
@@ -708,8 +688,7 @@ Het opstellen van een verwerkersovereenkomst met aanbieder is onderdeel van de a
 - [Verwerkersovereenkomst](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/avg-algemeen/verwerkersovereenkomst)
 
 ",https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/2-owp-14-verwerkersovereenkomst-onderdeel-aanbesteding/index.html
-urn:nl:ak:mtr:owp-15,Bespreek de vereisten die gelden voor een verantwoorde inzet van algoritmes met aanbieders,"
-Bespreek de vereisten die gelden voor een verantwoorde inzet van algoritmes met een aanbieder.
+urn:nl:ak:mtr:owp-15,Bespreek de vereisten die gelden voor een verantwoorde inzet van algoritmes met aanbieders,"Bespreek de vereisten die gelden voor een verantwoorde inzet van algoritmes met een aanbieder.
 ",['publieke-inkoop'],"['ontwerp', 'ontwikkelen']",['projectleider'],"Ga met een aanbieder in gesprek over in hoeverre zij invulling kunnen geven aan de vereisten die gelden voor een verantwoorde inzet van algoritmes. Dit kan worden gedaan bijvoorbeeld bij een informatiesessie met aanbieders voorafgaand aan een aanbesteding. 
 
 Hiervoor is het van belang om te bepalen om wat voor [type algoritme het gaat en wat de bijbehorende risicoclassificatie](2-owp-05-soort-algoritme.md) is. Maak op basis daarvan inzichtelijk welke vereisten hierop van toepassing zijn. 
@@ -717,21 +696,18 @@ Hiervoor is het van belang om te bepalen om wat voor [type algoritme het gaat en
 Op basis van nieuwe of gewijzigde wet- en regelgeving of de totstandkoming van nieuwe standaarden, is het denkbaar dat aanbieders van algoritmes nog niet of niet meer voldoen aan deze vereisten. Het is van belang dat deze inzichten bijvoorbeeld tijdens een aanbesteding worden verkregen. Indien van toepassing, laat de aanbieder inzichtelijk maken welke stappen deze gaat zetten om hieraan te gaan voldoen. Dit is ook relevant bij reeds afgesloten contracten.
 ","Door de vereisten voor een verantwoorde inzet van algoritmes niet te bespreken met aanbieders, is het voor hen (deels) onduidelijk aan welke vereisten diens algoritmes moet voldoen om te kunnen contracteren met overheidsorganisaties.
 ","['urn:nl:ak:ver:aia-01', 'urn:nl:ak:ver:aia-02', 'urn:nl:ak:ver:aia-03', 'urn:nl:ak:ver:aia-04', 'urn:nl:ak:ver:aia-05', 'urn:nl:ak:ver:aia-06', 'urn:nl:ak:ver:aia-07', 'urn:nl:ak:ver:aia-08', 'urn:nl:ak:ver:aia-09', 'urn:nl:ak:ver:aia-10', 'urn:nl:ak:ver:aia-11', 'urn:nl:ak:ver:aia-12', 'urn:nl:ak:ver:aia-13', 'urn:nl:ak:ver:aia-14', 'urn:nl:ak:ver:aia-15', 'urn:nl:ak:ver:aia-16', 'urn:nl:ak:ver:aia-17', 'urn:nl:ak:ver:aia-18', 'urn:nl:ak:ver:aia-19', 'urn:nl:ak:ver:aia-20', 'urn:nl:ak:ver:aia-21', 'urn:nl:ak:ver:aia-22', 'urn:nl:ak:ver:aia-23', 'urn:nl:ak:ver:aia-24', 'urn:nl:ak:ver:aia-25', 'urn:nl:ak:ver:aia-26', 'urn:nl:ak:ver:aia-27', 'urn:nl:ak:ver:aia-28', 'urn:nl:ak:ver:aia-29', 'urn:nl:ak:ver:aia-30', 'urn:nl:ak:ver:aia-31', 'urn:nl:ak:ver:aia-32', 'urn:nl:ak:ver:aia-33', 'urn:nl:ak:ver:aia-34', 'urn:nl:ak:ver:aia-35', 'urn:nl:ak:ver:aia-36', 'urn:nl:ak:ver:aia-37', 'urn:nl:ak:ver:arc-01', 'urn:nl:ak:ver:aut-01', 'urn:nl:ak:ver:avg-01', 'urn:nl:ak:ver:avg-02', 'urn:nl:ak:ver:avg-03', 'urn:nl:ak:ver:avg-04', 'urn:nl:ak:ver:avg-05', 'urn:nl:ak:ver:avg-06', 'urn:nl:ak:ver:avg-07', 'urn:nl:ak:ver:avg-08', 'urn:nl:ak:ver:avg-09', 'urn:nl:ak:ver:avg-10', 'urn:nl:ak:ver:avg-11', 'urn:nl:ak:ver:avg-12', 'urn:nl:ak:ver:avg-13', 'urn:nl:ak:ver:awb-01', 'urn:nl:ak:ver:awb-02', 'urn:nl:ak:ver:bio-01', 'urn:nl:ak:ver:bzk-01', 'urn:nl:ak:ver:dat-01', 'urn:nl:ak:ver:grw-01', 'urn:nl:ak:ver:grw-02']",,https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/2-owp-15-bespreek-vereisten-met-aanbieders/index.html
-urn:nl:ak:mtr:owp-16,Maak vereisten voor algoritmes onderdeel van algemene inkoopvoorwaarden en de contractovereenkomst,"
-Maak vereisten voor algoritmes onderdeel van contractvoorwaarden en de contractovereenkomst.
+urn:nl:ak:mtr:owp-16,Maak vereisten voor algoritmes onderdeel van algemene inkoopvoorwaarden en de contractovereenkomst,"Maak vereisten voor algoritmes onderdeel van contractvoorwaarden en de contractovereenkomst.
 ","['publieke-inkoop', 'transparantie']",['ontwerp'],"['projectleider', 'beleid-en-advies']","- Door vereisten die gelden voor algoritmes onderdeel te maken van contractvoorwaarden, is voor een aanbieder vooraf duidelijk aan welke voorwaarden zij moeten voldoen als zij algoritmes willen aanbieden aan overheidsorganisaties.
 - Het is van belang om een afweging te maken welke vereisten voor algoritmes als ['algemene contractvoorwaarden'](../hulpmiddelen/inkoopvoorwaarden.md) kunnen gelden en welke aanvullend in een contractovereenkomst moeten worden opgenomen.
 ","Door de vereisten voor een verantwoorde inzet van algoritmes niet te communiceren met aanbieders, is het voor hen (deels) onduidelijk aan welke vereisten diens algoritmes moet voldoen om te kunnen contractueren met overheidsorganisaties.
 ","['urn:nl:ak:ver:aia-01', 'urn:nl:ak:ver:aia-02', 'urn:nl:ak:ver:aia-03', 'urn:nl:ak:ver:aia-04', 'urn:nl:ak:ver:aia-05', 'urn:nl:ak:ver:aia-06', 'urn:nl:ak:ver:aia-07', 'urn:nl:ak:ver:aia-08', 'urn:nl:ak:ver:aia-09', 'urn:nl:ak:ver:aia-10', 'urn:nl:ak:ver:aia-11', 'urn:nl:ak:ver:aia-12', 'urn:nl:ak:ver:aia-13', 'urn:nl:ak:ver:aia-14', 'urn:nl:ak:ver:aia-15', 'urn:nl:ak:ver:aia-16', 'urn:nl:ak:ver:aia-17', 'urn:nl:ak:ver:aia-18', 'urn:nl:ak:ver:aia-19', 'urn:nl:ak:ver:aia-20', 'urn:nl:ak:ver:aia-21', 'urn:nl:ak:ver:aia-22', 'urn:nl:ak:ver:aia-23', 'urn:nl:ak:ver:aia-24', 'urn:nl:ak:ver:aia-25', 'urn:nl:ak:ver:aia-26', 'urn:nl:ak:ver:aia-27', 'urn:nl:ak:ver:aia-28', 'urn:nl:ak:ver:aia-29', 'urn:nl:ak:ver:aia-30', 'urn:nl:ak:ver:aia-31', 'urn:nl:ak:ver:aia-32', 'urn:nl:ak:ver:aia-33', 'urn:nl:ak:ver:aia-34', 'urn:nl:ak:ver:aia-35', 'urn:nl:ak:ver:aia-36', 'urn:nl:ak:ver:aia-37', 'urn:nl:ak:ver:arc-01', 'urn:nl:ak:ver:aut-01', 'urn:nl:ak:ver:avg-01', 'urn:nl:ak:ver:avg-02', 'urn:nl:ak:ver:avg-03', 'urn:nl:ak:ver:avg-04', 'urn:nl:ak:ver:avg-05', 'urn:nl:ak:ver:avg-06', 'urn:nl:ak:ver:avg-07', 'urn:nl:ak:ver:avg-08', 'urn:nl:ak:ver:avg-09', 'urn:nl:ak:ver:avg-10', 'urn:nl:ak:ver:avg-11', 'urn:nl:ak:ver:avg-12', 'urn:nl:ak:ver:avg-13', 'urn:nl:ak:ver:awb-01', 'urn:nl:ak:ver:awb-02', 'urn:nl:ak:ver:bio-01', 'urn:nl:ak:ver:bzk-01', 'urn:nl:ak:ver:dat-01', 'urn:nl:ak:ver:grw-01', 'urn:nl:ak:ver:grw-02']",,https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/2-owp-16-vereisten-onderdeel-algemene-inkoopvoorwaarden-en-contractovereenkomst/index.html
-urn:nl:ak:mtr:owp-17,Maak het leveren van bewijs voor het voldoen aan de vereisten voor algoritmes onderdeel van de beoordeling van een inschrijving,"
- Maak het leveren van bewijs voor het voldoen aan de vereiste onderdeel van de beoordeling van een inschrijving.
+urn:nl:ak:mtr:owp-17,Maak het leveren van bewijs voor het voldoen aan de vereisten voor algoritmes onderdeel van de beoordeling van een inschrijving," Maak het leveren van bewijs voor het voldoen aan de vereiste onderdeel van de beoordeling van een inschrijving.
 ",['publieke-inkoop'],['ontwerp'],"['projectleider', 'beleid-en-advies']","Het leveren van bewijs door aanbieder dat de ontwikkelde algoritmes voldoen aan de vereisten draagt bij aan het kunnen beoordelen of een aanbieder geschikt is om mee te contracteren. Bij het leveren van bewijs kan worden gedacht aan het overhandigen van bijvoorbeeld een certificaat of een EU-conformiteitsverklaring voor hoog risico AI-systemen. 
 
 Daarbij is het relevant om te beoordelen in hoeverre er is voldaan aan geharmoniseerde standaarden. Deze standaarden zijn momenteel in ontwikkeling. In de (nabije) toekomst zal dit naar verwachting op een vergelijkbare manier kunnen worden benaderd als bij het moeten leveren van een NEN-ISO 27001 certificaat (voldoen aan informatiebeveiligingsvereisten) door een leverancier.  
 ","Er wordt gecontracteerd met een aanbieder die niet voldoet aan de vereisten voor een verantwoorde inzet van algoritmes. 
 ","['urn:nl:ak:ver:aia-14', 'urn:nl:ak:ver:aia-15', 'urn:nl:ak:ver:aia-16']",,https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/2-owp-17-leveren-bewijs-voldoen-aan-vereisten-algoritme-aanbieder/index.html
-urn:nl:ak:mtr:owp-18,Laat aanbieder(s) bewijs leveren dat de door hen ontwikkelde algoritmes geen inbreuk maken op de auteursrechten van derden met de trainingsdata en de output,"
-Maak het al dan niet kunnen leveren van bewijs door een aanbieder dat auteursrechten niet worden geschonden met de trainingsdata en output van diens algoritme van bijvoorbeeld een aanbesteding.
+urn:nl:ak:mtr:owp-18,Laat aanbieder(s) bewijs leveren dat de door hen ontwikkelde algoritmes geen inbreuk maken op de auteursrechten van derden met de trainingsdata en de output,"Maak het al dan niet kunnen leveren van bewijs door een aanbieder dat auteursrechten niet worden geschonden met de trainingsdata en output van diens algoritme van bijvoorbeeld een aanbesteding.
 ","['publieke-inkoop', 'data']","['dataverkenning-en-datapreparatie', 'verificatie-en-validatie']","['projectleider', 'beleid-en-advies']","### Trainingsdata
 - Algoritmes worden veelal getraind aan de hand van een omvangrijke hoeveelheid data. Wanneer grote hoeveelheden data, bijvoorbeeld door deze te scrapen van internet, worden gebruikt is het zeer aannemelijk (of: nagenoeg zeker) dat zich onder de gescrapete inhoud (ook) veel auteursrechtelijk beschermde werken bevinden, zoals bijvoorbeeld e-books en afbeeldingen. De gebruikte auteursrechtelijke werken kunnen soms bijvoorbeeld uit illegale bron verkregen zijn, en ook los daarvan zijn rechthebbenden veelal niet op de hoogte van het feit dat hun auteursrechtelijke werken voor de ontwikkeling van een algoritme of AI gebruikt worden.
 
@@ -752,8 +728,7 @@ Neem in de conceptovereenkomst op dat de aanbieder garandeert dat auteursrechten
 - [Advies Landsadvocaat Pels Rijcken over het gebruik van generatieve AI-tools door medewerkers van de Staat](https://www.rijksoverheid.nl/documenten/brieven/2023/10/10/1-advies-landsadvocaat-pels-rijcken)
 - ARVODI (24.7) en ARBIT (art 8.5 & 8.6)
 ",https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/2-owp-18-leveren-bewijs-door-aanbieder-niet-schenden-auteursrechten/index.html
-urn:nl:ak:mtr:owp-19,Aansprakelijkheidsvoorwaarden van een aanbieder worden beoordeeld in de aanbesteding,"
-Maak de aansprakelijkheidsvoorwaarden die een aanbieder stelt ten aanzien van auteursrechten een vast onderdeel om te beoordelen in de aanbesteding.
+urn:nl:ak:mtr:owp-19,Aansprakelijkheidsvoorwaarden van een aanbieder worden beoordeeld in de aanbesteding,"Maak de aansprakelijkheidsvoorwaarden die een aanbieder stelt ten aanzien van auteursrechten een vast onderdeel om te beoordelen in de aanbesteding.
 ",['publieke-inkoop'],"['ontwerp', 'implementatie']","['jurist', 'beleid-en-advies']","- Eindgebruikers van algoritmes kunnen er niet altijd op vertrouwen, of (eenvoudig) nagaan, of datgene wat zij door middel van een algoritme laten genereren, inbreuk maakt op rechten van anderen. Het is onwenselijk dat een eindgebruiker aansprakelijk wordt gesteld voor het maken van een inbreuk op rechten van derden, als deze gebruik maakt van algoritmes die worden aangeboden door aanbieders. Organisaties moeten daarom afspraken hierover maken met aanbieders.
 
 - Hoe groot de kans is dat eindgebruikers vanwege het gebruik van algoritmes aansprakelijk worden gesteld, is nog onduidelijk. Er zijn wel voorbeelden waarbij eindgebruikers voor een eventuele inbreuk aansprakelijk kunnen worden gesteld.
@@ -766,24 +741,21 @@ Maak de aansprakelijkheidsvoorwaarden die een aanbieder stelt ten aanzien van au
 [Advies Landsadvocaat Pels Rijcken over het gebruik van generatieve AI-tools door medewerkers van de Staat](https://open.overheid.nl/documenten/16d72572-da6b-422c-8cf8-cdc95a523093/file)
 
 ",https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/2-owp-19-beoordeel-aansprakelijkheidsvoorwaarden-van-aanbieder/index.html
-urn:nl:ak:mtr:owp-20,Maak vereisten onderdeel van (sub)gunningscriteria bij een aanbesteding,"
-Maak vereisten onderdeel van (sub)gunningscriteria bij een aanbesteding.
+urn:nl:ak:mtr:owp-20,Maak vereisten onderdeel van (sub)gunningscriteria bij een aanbesteding,"Maak vereisten onderdeel van (sub)gunningscriteria bij een aanbesteding.
 ",['publieke-inkoop'],['ontwerp'],['ontwikkelaar'],"- Door een vereiste onderdeel te maken van (sub)gunningscriteria, ontstaat een mogelijkheid voor aanbieders om zich te onderscheiden van andere aanbieders.
 - Dit kan zorgen voor een extra stimulatie op kwaliteitsaspecten van algoritmes.
 - In de context van algoritmes is dit in het bijzonder relevant, bijvoorbeeld in relatie tot vereisten als non-discriminatie, het eerbiedigen van fundamentele rechten of het verbod op schenden auteursrechten. 
 - Door vereisten te vertalen naar (sub)gunningscriteria, kan een inhoudelijke beoordeling worden gemaakt in hoeverre een aanbieder voldoet aan deze vereisten.
 ","Een risico van vereisten geen onderdeel te maken van (sub)gunningscriteria is dat bepaalde vereisten worden overgeslagen of gemist, wat kan leiden tot het niet voldoen aan deze vereisten. 
 ","['urn:nl:ak:ver:aia-03', 'urn:nl:ak:ver:aia-04', 'urn:nl:ak:ver:aia-05', 'urn:nl:ak:ver:aia-08', 'urn:nl:ak:ver:aia-09', 'urn:nl:ak:ver:aia-18', 'urn:nl:ak:ver:aia-19', 'urn:nl:ak:ver:aia-20', 'urn:nl:ak:ver:aia-21', 'urn:nl:ak:ver:aia-22', 'urn:nl:ak:ver:aia-24', 'urn:nl:ak:ver:aia-26', 'urn:nl:ak:ver:aia-27', 'urn:nl:ak:ver:aia-28', 'urn:nl:ak:ver:aia-30', 'urn:nl:ak:ver:aia-33', 'urn:nl:ak:ver:aia-34', 'urn:nl:ak:ver:arc-01', 'urn:nl:ak:ver:aut-01', 'urn:nl:ak:ver:avg-03', 'urn:nl:ak:ver:avg-04', 'urn:nl:ak:ver:avg-07', 'urn:nl:ak:ver:avg-09', 'urn:nl:ak:ver:avg-10', 'urn:nl:ak:ver:avg-11', 'urn:nl:ak:ver:awb-01', 'urn:nl:ak:ver:awb-02', 'urn:nl:ak:ver:dat-01', 'urn:nl:ak:ver:grw-01', 'urn:nl:ak:ver:grw-02']",,https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/2-owp-20-maak-vereisten-onderdeel-van-subgunningscriteria/index.html
-urn:nl:ak:mtr:owp-21,Creëer ruimte om met een aanbieder samen te gaan werken om specifieke vereisten te realiseren,"
-Creëer ruimte om met een aanbieder samen te gaan werken om specifieke vereisten te realiseren.
+urn:nl:ak:mtr:owp-21,Creëer ruimte om met een aanbieder samen te gaan werken om specifieke vereisten te realiseren,"Creëer ruimte om met een aanbieder samen te gaan werken om specifieke vereisten te realiseren.
 ",['publieke-inkoop'],"['ontwerp', 'ontwikkelen']",['projectleider'],"- Om op een betekenisvolle manier invulling te geven aan bepaalde vereisten, kan het noodzakelijk zijn dat opdrachtgever en aanbieder (innovatief) moeten gaan samenwerken. Op basis van nieuwe wet- en regelgeving (bv. AI-Verordening) of geharmoniseerde standaarden kunnen aanbieders mogelijk nog niet voldoen aan nieuwe vereisten. Het kan ook onduidelijk zijn hoe moet worden voldaan aan vereisten nu de technologie zich snel ontwikkelt of dat de specifieke omstandigheden van het beoogde gebruik vragen om een samenspel tussen opdrachtgever en aanbieder.
 
 - Bij een verantwoorde inzet van algoritmes kan het bij vereisten zoals [non-discriminatie](../../onderwerpen/bias-en-non-discriminatie.md), [transparantie](../../onderwerpen/transparantie.md), [menselijke controle](../../onderwerpen/menselijke-controle.md) en [grondrechten](../../onderwerpen/fundamentele-rechten.md) van belang zijn om samen te onderzoeken hoe hier invulling aan moet worden gegeven. Het is belangrijk om bij de behoeftestelling al te verkennen om welke onderwerpen dit mogelijk van toepassing is. Bij een marktverkenning of informatiesessie kan worden verkend hoe aanbieders ervoor staan. Op basis hiervan kan worden beoordeeld in hoeverre bijvoorbeeld in een aanbesteding contractuele ruimte moet worden gecreëerd voor opdrachtgever en aanbieder om hieraan te werken. 
 ","Door niet te kunnen samenwerken aan vereisten kan de situatie ontstaan dat uiteindelijk niet op een betekenisvolle manier wordt voldaan aan deze vereisten voor een verantwoorde inzet van algoritmes.
 Gebrek aan samenwerking kan leiden tot onvermogen om de benodigde vereisten voldoende in de praktijk te garanderen. Ook is het belangrijk dat de verantwoordelijke goed genoeg begrijpt hoe het algoritme werkt en welke keuzes er gemaakt zijn tijdens het ontwerp, omdat alleen dan goed beoordeeld kan worden welke vereisten zijn voldaan en welke risico’s nog niet of minder goed zijn afgedekt. 
 ","['urn:nl:ak:ver:aia-01', 'urn:nl:ak:ver:aia-02', 'urn:nl:ak:ver:aia-03', 'urn:nl:ak:ver:aia-04', 'urn:nl:ak:ver:aia-05', 'urn:nl:ak:ver:aia-06', 'urn:nl:ak:ver:aia-07', 'urn:nl:ak:ver:aia-08', 'urn:nl:ak:ver:aia-09', 'urn:nl:ak:ver:aia-10', 'urn:nl:ak:ver:aia-11', 'urn:nl:ak:ver:aia-12', 'urn:nl:ak:ver:aia-13', 'urn:nl:ak:ver:aia-14', 'urn:nl:ak:ver:aia-15', 'urn:nl:ak:ver:aia-16', 'urn:nl:ak:ver:aia-17', 'urn:nl:ak:ver:aia-18', 'urn:nl:ak:ver:aia-19', 'urn:nl:ak:ver:aia-20', 'urn:nl:ak:ver:aia-21', 'urn:nl:ak:ver:aia-22', 'urn:nl:ak:ver:aia-23', 'urn:nl:ak:ver:aia-24', 'urn:nl:ak:ver:aia-25', 'urn:nl:ak:ver:aia-26', 'urn:nl:ak:ver:aia-27', 'urn:nl:ak:ver:aia-28', 'urn:nl:ak:ver:aia-29', 'urn:nl:ak:ver:aia-30', 'urn:nl:ak:ver:aia-31', 'urn:nl:ak:ver:aia-32', 'urn:nl:ak:ver:aia-33', 'urn:nl:ak:ver:aia-34', 'urn:nl:ak:ver:aia-35', 'urn:nl:ak:ver:aia-36', 'urn:nl:ak:ver:aia-37', 'urn:nl:ak:ver:arc-01', 'urn:nl:ak:ver:aut-01', 'urn:nl:ak:ver:avg-01', 'urn:nl:ak:ver:avg-02', 'urn:nl:ak:ver:avg-03', 'urn:nl:ak:ver:avg-04', 'urn:nl:ak:ver:avg-05', 'urn:nl:ak:ver:avg-06', 'urn:nl:ak:ver:avg-07', 'urn:nl:ak:ver:avg-08', 'urn:nl:ak:ver:avg-09', 'urn:nl:ak:ver:avg-10', 'urn:nl:ak:ver:avg-11', 'urn:nl:ak:ver:avg-12', 'urn:nl:ak:ver:avg-13', 'urn:nl:ak:ver:awb-01', 'urn:nl:ak:ver:awb-02', 'urn:nl:ak:ver:bio-01', 'urn:nl:ak:ver:bzk-01', 'urn:nl:ak:ver:dat-01', 'urn:nl:ak:ver:grw-01', 'urn:nl:ak:ver:grw-02']",,https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/2-owp-21-ruimte-voor-samenwerking-met-aanbieder/index.html
-urn:nl:ak:mtr:owp-22,Vul technische documentatie van aanbieder aan met relevante informatie vanuit de gebruiksverantwoordelijke,"
-Vul technische documentatie van de aanbieder aan met relevante informatie vanuit de gebruiksverantwoordelijke, zodat alle relevante onderdelen van het algoritme zijn beschreven.
+urn:nl:ak:mtr:owp-22,Vul technische documentatie van aanbieder aan met relevante informatie vanuit de gebruiksverantwoordelijke,"Vul technische documentatie van de aanbieder aan met relevante informatie vanuit de gebruiksverantwoordelijke, zodat alle relevante onderdelen van het algoritme zijn beschreven.
 ","['publieke-inkoop', 'transparantie']",['ontwerp'],"['projectleider', 'beleid-en-advies', 'ontwikkelaar']","- Het is van belang dat duidelijke afspraken worden gemaakt over het opstellen, aanvullen en actueel houden van technische documentatie van algoritmes. Bij het inkopen van algoritmes moet hier rekening mee worden gehouden. De aanbieder zal een belangrijk deel van de technische documentatie moeten aanleveren, maar bij gebruik door de gebruiksverantwoordelijke zal deze informatie moeten worden aangevuld. 
 
 - Bespreek met het projectteam welke onderdelen van de technische documentatie, als genoemd in de Bijlage 4 AI-verordening, van het AI-systeem door welke partij (aanbieder of gebruiksverantwoordelijke) moeten worden ingevuld of aangevuld. 
@@ -793,8 +765,7 @@ Vul technische documentatie van de aanbieder aan met relevante informatie vanuit
 ","['urn:nl:ak:ver:aia-02', 'urn:nl:ak:ver:aia-06', 'urn:nl:ak:ver:aia-08', 'urn:nl:ak:ver:aia-28', 'urn:nl:ak:ver:avg-07', 'urn:nl:ak:ver:awb-01', 'urn:nl:ak:ver:awb-02']","Geen beschikbare bron voor deze maatregel.
 
 ",https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/2-owp-22-vaststellen-aanleveren-informatie-technische-documentatie/index.html
-urn:nl:ak:mtr:owp-23,Neem het kunnen uitvoeren van een audit over de vereiste op in contractvoorwaarden en de contractovereenkomst,"
-Neem het kunnen uitvoeren van een audit over de vereiste op in contractvoorwaarden en de contractovereenkomst. 
+urn:nl:ak:mtr:owp-23,Neem het kunnen uitvoeren van een audit over de vereiste op in contractvoorwaarden en de contractovereenkomst,"Neem het kunnen uitvoeren van een audit over de vereiste op in contractvoorwaarden en de contractovereenkomst. 
 ",['publieke-inkoop'],['ontwerp'],"['projectleider', 'beleid-en-advies']","Het is van belang dat de opdrachtgever mogelijkheden heeft om te controleren in hoeverre door de aanbieder of opdrachtnemer wordt voldaan aan naleving van de contractvoorwaarden.
 ","Er kunnen geen controles of inspecties worden uitgevoerd om te beoordelen of de algoritmes van een aanbieder nog voldoen aan de vereisten voor een verantwoorde inzet van algoritmes. 
 ","['urn:nl:ak:ver:aia-01', 'urn:nl:ak:ver:aia-02', 'urn:nl:ak:ver:aia-03', 'urn:nl:ak:ver:aia-04', 'urn:nl:ak:ver:aia-05', 'urn:nl:ak:ver:aia-06', 'urn:nl:ak:ver:aia-07', 'urn:nl:ak:ver:aia-08', 'urn:nl:ak:ver:aia-09', 'urn:nl:ak:ver:aia-10', 'urn:nl:ak:ver:aia-11', 'urn:nl:ak:ver:aia-12', 'urn:nl:ak:ver:aia-13', 'urn:nl:ak:ver:aia-14', 'urn:nl:ak:ver:aia-15', 'urn:nl:ak:ver:aia-16', 'urn:nl:ak:ver:aia-17', 'urn:nl:ak:ver:aia-18', 'urn:nl:ak:ver:aia-19', 'urn:nl:ak:ver:aia-20', 'urn:nl:ak:ver:aia-21', 'urn:nl:ak:ver:aia-22', 'urn:nl:ak:ver:aia-23', 'urn:nl:ak:ver:aia-24', 'urn:nl:ak:ver:aia-25', 'urn:nl:ak:ver:aia-26', 'urn:nl:ak:ver:aia-27', 'urn:nl:ak:ver:aia-28', 'urn:nl:ak:ver:aia-29', 'urn:nl:ak:ver:aia-30', 'urn:nl:ak:ver:aia-31', 'urn:nl:ak:ver:aia-32', 'urn:nl:ak:ver:aia-33', 'urn:nl:ak:ver:aia-34', 'urn:nl:ak:ver:aia-35', 'urn:nl:ak:ver:aia-36', 'urn:nl:ak:ver:aia-37', 'urn:nl:ak:ver:arc-01', 'urn:nl:ak:ver:aut-01', 'urn:nl:ak:ver:avg-01', 'urn:nl:ak:ver:avg-02', 'urn:nl:ak:ver:avg-03', 'urn:nl:ak:ver:avg-04', 'urn:nl:ak:ver:avg-05', 'urn:nl:ak:ver:avg-06', 'urn:nl:ak:ver:avg-07', 'urn:nl:ak:ver:avg-08', 'urn:nl:ak:ver:avg-09', 'urn:nl:ak:ver:avg-10', 'urn:nl:ak:ver:avg-11', 'urn:nl:ak:ver:avg-12', 'urn:nl:ak:ver:avg-13', 'urn:nl:ak:ver:awb-01', 'urn:nl:ak:ver:awb-02', 'urn:nl:ak:ver:bio-01', 'urn:nl:ak:ver:bzk-01', 'urn:nl:ak:ver:dat-01', 'urn:nl:ak:ver:grw-01', 'urn:nl:ak:ver:grw-02']",,https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/2-owp-23-uitvoeren-audit-voor-naleving-vereisten/index.html
@@ -808,8 +779,7 @@ urn:nl:ak:mtr:owp-24,Bepaal in een aanbesteding of algoritmes van een aanbieder 
 ","['urn:nl:ak:ver:avg-10', 'urn:nl:ak:ver:awb-01', 'urn:nl:ak:ver:awb-02']","- [Onderzoekskader Auditdienst Rijk, PRI.10](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Toetingskader Algemene Rekenkamer, 2.10](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 ",https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/2-owp-24-invloed-besluitvorming-algoritmes-aanbieders/index.html
-urn:nl:ak:mtr:owp-25,Laat de aanbieder aangeven welke mate van opleiding en ondersteuning bij de implementatie nodig is om de beoogde algoritmes verantwoord te gebruiken,"
-Laat de aanbieder aangeven welke mate van kennisoverdracht (opleiding en training) en ondersteuning bij de organisatorische implementatie nodig is om de beoogde algoritmes verantwoord te kunnen gebruiken. 
+urn:nl:ak:mtr:owp-25,Laat de aanbieder aangeven welke mate van opleiding en ondersteuning bij de implementatie nodig is om de beoogde algoritmes verantwoord te gebruiken,"Laat de aanbieder aangeven welke mate van kennisoverdracht (opleiding en training) en ondersteuning bij de organisatorische implementatie nodig is om de beoogde algoritmes verantwoord te kunnen gebruiken. 
 ",['publieke-inkoop'],['ontwerp'],"['projectleider', 'beleid-en-advies', 'ontwikkelaar']","Beoordeel of de kennisoverdracht en ondersteuning van aanbieder voldoende is om voor een langere periode zelfstandig op een verantwoorde wijze gebruikt te kunnen maken van de algoritmes.
 
 Laat de aanbieder aangeven op welk niveau de noodzakelijkerwijs te leveren trainingen passend zijn voor het beoogde gebruik, waarbij de opdrachtgever vooraf inzicht geeft in het bestaande niveau zodat een aanbieder concreet kan zijn over eventuele verschillen tussen beiden.
@@ -825,30 +795,26 @@ urn:nl:ak:mtr:owp-26,Voer een risico-analyse met de aanbieder uit op het gebied 
 - [Baseline Informatiebeveiliging Overheid, BIO 15.1.1.1](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/)
 - [Onderzoekskader Algoritmes Auditdienst Rijk, IB.29](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 ",https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/2-owp-26-risico-analyse-informatiebeveiliging-leverancier/index.html
-urn:nl:ak:mtr:owp-27,Maak vereisten onderdeel van het programma van eisen bij een aanbesteding,"
-Maak vereisten onderdeel van het programma van eisen bij een aanbesteding.
+urn:nl:ak:mtr:owp-27,Maak vereisten onderdeel van het programma van eisen bij een aanbesteding,"Maak vereisten onderdeel van het programma van eisen bij een aanbesteding.
 ",['publieke-inkoop'],['ontwerp'],"['projectleider', 'beleid-en-advies', 'ontwikkelaar']","- Door vereisten onderdeel te maken van het programma van eisen bij een aanbesteding is het voor aanbieders duidelijk aan welke specifieke eisen een oplossing moet voldoen.
 - Op basis hiervan kan een aanbieder een zo goed mogelijke aanbieding doen.
 - Afhankelijk van de behoeftestelling kan het relevant zijn om bepaalde vereisten te verfijnen in het Programma van Eisen (PvE) en aan te geven wanneer hieraan voldaan is, bijvoorbeeld met betrekking tot de transparantievereiste. Bepaal met het inkoopteam bij welke vereisten dit noodzakelijk is. 
 ","Er is niet gespecificeerd en daarmee achteraf niet afdwingbaar dat algoritmes aan bepaalde vereisten moeten voldoen die van belang zijn voor de betreffende overheidsorganisatie. 
 ","['urn:nl:ak:ver:aia-01', 'urn:nl:ak:ver:aia-02', 'urn:nl:ak:ver:aia-03', 'urn:nl:ak:ver:aia-04', 'urn:nl:ak:ver:aia-05', 'urn:nl:ak:ver:aia-06', 'urn:nl:ak:ver:aia-07', 'urn:nl:ak:ver:aia-08', 'urn:nl:ak:ver:aia-09', 'urn:nl:ak:ver:aia-10', 'urn:nl:ak:ver:aia-11', 'urn:nl:ak:ver:aia-12', 'urn:nl:ak:ver:aia-13', 'urn:nl:ak:ver:aia-14', 'urn:nl:ak:ver:aia-15', 'urn:nl:ak:ver:aia-16', 'urn:nl:ak:ver:aia-17', 'urn:nl:ak:ver:aia-18', 'urn:nl:ak:ver:aia-19', 'urn:nl:ak:ver:aia-20', 'urn:nl:ak:ver:aia-21', 'urn:nl:ak:ver:aia-22', 'urn:nl:ak:ver:aia-23', 'urn:nl:ak:ver:aia-24', 'urn:nl:ak:ver:aia-25', 'urn:nl:ak:ver:aia-26', 'urn:nl:ak:ver:aia-27', 'urn:nl:ak:ver:aia-28', 'urn:nl:ak:ver:aia-29', 'urn:nl:ak:ver:aia-30', 'urn:nl:ak:ver:aia-31', 'urn:nl:ak:ver:aia-32', 'urn:nl:ak:ver:aia-33', 'urn:nl:ak:ver:aia-34', 'urn:nl:ak:ver:aia-35', 'urn:nl:ak:ver:aia-36', 'urn:nl:ak:ver:aia-37', 'urn:nl:ak:ver:arc-01', 'urn:nl:ak:ver:aut-01', 'urn:nl:ak:ver:avg-01', 'urn:nl:ak:ver:avg-02', 'urn:nl:ak:ver:avg-03', 'urn:nl:ak:ver:avg-04', 'urn:nl:ak:ver:avg-05', 'urn:nl:ak:ver:avg-06', 'urn:nl:ak:ver:avg-07', 'urn:nl:ak:ver:avg-08', 'urn:nl:ak:ver:avg-09', 'urn:nl:ak:ver:avg-10', 'urn:nl:ak:ver:avg-11', 'urn:nl:ak:ver:avg-12', 'urn:nl:ak:ver:avg-13', 'urn:nl:ak:ver:awb-01', 'urn:nl:ak:ver:awb-02', 'urn:nl:ak:ver:bio-01', 'urn:nl:ak:ver:bzk-01', 'urn:nl:ak:ver:dat-01', 'urn:nl:ak:ver:grw-01', 'urn:nl:ak:ver:grw-02']",,https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/2-owp-27-maak-vereisten-onderdeel-van-programma-van-eisen/index.html
-urn:nl:ak:mtr:owp-28,Maak vereisten voor algoritmes onderdeel van de Service Level Agreement,"
-Maak de vereiste onderdeel van Service Level Agreement (SLA).
+urn:nl:ak:mtr:owp-28,Maak vereisten voor algoritmes onderdeel van de Service Level Agreement,"Maak de vereiste onderdeel van Service Level Agreement (SLA).
 ",['publieke-inkoop'],['ontwerp'],"['projectleider', 'beleid-en-advies', 'ontwikkelaar']","- Met een SLA kunnen specifieke afspraken worden gemaakt over de kwaliteit van de dienstverlening van de aanbieder.
 - Hierbij kan worden gedacht aan onderwerpen als incidentmanagement, servicemanagement, verantwoordelijkheden matrix, hersteltijd, prestatiecriteria, reproduceerbaarheid, versiebeheer van de gebruikte algoritmes en informatiebeveiliging.
 - Onderzoek met het inkoopteam welke vereiste voor een verantwoorde inzet van algoritmes onderdeel moeten worden gemaakt van de Service Level Agreement. 
 - Laat de aanbieder aangeven welke vormen van onderhoud aan de betreffende algoritmes nodig zijn en de snelheid waarmee signalen vanuit gebruik, ongeacht de bron, kunnen worden verwerkt in het systeem en welke expertise hiervoor beschikbaar is. 
 ","Zonder concrete afspraken te maken in de SLA ontstaat het risico dat aloritmes (tijdelijk) of te langdurig niet kunnen worden gebruikt, onjuist fuctioneren of dat er geen verantwoording over de output kan worden afgelegd.
 ","['urn:nl:ak:ver:aia-03', 'urn:nl:ak:ver:aia-05', 'urn:nl:ak:ver:aia-07', 'urn:nl:ak:ver:aia-09', 'urn:nl:ak:ver:aia-11', 'urn:nl:ak:ver:aia-18', 'urn:nl:ak:ver:aia-19', 'urn:nl:ak:ver:aia-28', 'urn:nl:ak:ver:aia-34', 'urn:nl:ak:ver:aia-35', 'urn:nl:ak:ver:aia-34', 'urn:nl:ak:ver:bio-01', 'urn:nl:ak:ver:avg-07', 'urn:nl:ak:ver:avg-12', 'urn:nl:ak:ver:woo-01']",,https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/2-owp-28-maak-vereisten-onderdeel-van-service-level-agreement/index.html
-urn:nl:ak:mtr:owp-29,Maak (contractuele) afspraken over data en artefacten met een aanbieder,"
-Maak (contractuele) afspraken met de aanbieder wie eigenaar is van de data en artefacten die ontstaan bij het gebruik van algoritmes.
+urn:nl:ak:mtr:owp-29,Maak (contractuele) afspraken over data en artefacten met een aanbieder,"Maak (contractuele) afspraken met de aanbieder wie eigenaar is van de data en artefacten die ontstaan bij het gebruik van algoritmes.
 ",['publieke-inkoop'],"['ontwerp', 'implementatie']",['jurist'],"Hier kan worden gedacht aan (initiële) trainingsdatasets, outputdata (richting gebruikers) en nieuwe trainingsdata (vanuit gebruikers). 
 ","Een risico dat kan ontstaan is dat er onduidelijkheid is over wie de verantwoordelijk heeft voor bepaalde aspecten van het gebruik van een algoritme.
 ","['urn:nl:ak:ver:aut-01', 'urn:nl:ak:ver:dat-01', 'urn:nl:ak:ver:aia-05', 'urn:nl:ak:ver:avg-01']","
 Geen bron beschikbaar voor deze maatregel.
 ",https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/2-owp-29-contractuele-afspraken-data-en-artefacten/index.html
-urn:nl:ak:mtr:owp-30,Stel vast welke betrokkenen geïnformeerd moeten worden en welke informatie zij nodig hebben,"
-Stel vast welke betrokkenen geïnformeerd moeten worden over de ontwikkeling en het gebruik van algoritmes en welke informatie zij hierover nodig hebben.
+urn:nl:ak:mtr:owp-30,Stel vast welke betrokkenen geïnformeerd moeten worden en welke informatie zij nodig hebben,"Stel vast welke betrokkenen geïnformeerd moeten worden over de ontwikkeling en het gebruik van algoritmes en welke informatie zij hierover nodig hebben.
 ",['transparantie'],"['ontwerp', 'ontwikkelen']","['projectleider', 'beleid-en-advies']","Welke informatie over algoritmes relevant is, verschilt per partij. Het is van belang om deze partijen in beeld te brengen en vast te stellen welke informatie voor hen relevant is. Raadpleeg hierbij vastgestelde [beleidskaders](0-org-02-beleid-opstellen-inzet-algoritmes.md), waarin is beschreven welke informatie in welke gevallen moet worden gecommuniceerd.
 
 Stel bijvoorbeeld de volgende vragen:
@@ -880,8 +846,7 @@ Stel een communicatieplan op over de ontwikkeling en gebruik van het algoritme. 
 Overleg regelmatig met betrokkenen en [belanghebbenden](1-pba-04-betrek-belanghebbenden.md) in hoeverre de informatieverstrekking aansluit bij de (nieuwe) behoeften.
 ","Het risico is dat partijen niet of onvolledig worden geïnformeerd over de ontwikkeling en gebruik van algoritmes en hierdoor hun rechten niet kunnen effectueren of belangen kenbaar kunnen maken.
 ","['urn:nl:ak:ver:awb-01', 'urn:nl:ak:ver:aia-08', 'urn:nl:ak:ver:aia-28', 'urn:nl:ak:ver:avg-10']",,https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/2-owp-30-informeer-betrokkenen/index.html
-urn:nl:ak:mtr:owp-31,"Pas vastgestelde interne beleidskaders toe en maak aantoonbaar dat deze zijn nageleefd bij het ontwikkelen, inkopen en gebruiken van algoritmes","
-Pas vastgestelde interne beleidskaders toe en maak aantoonbaar dat deze zijn nageleefd bij het ontwikkelen, inkopen en gebruiken van algoritmes.
+urn:nl:ak:mtr:owp-31,"Pas vastgestelde interne beleidskaders toe en maak aantoonbaar dat deze zijn nageleefd bij het ontwikkelen, inkopen en gebruiken van algoritmes","Pas vastgestelde interne beleidskaders toe en maak aantoonbaar dat deze zijn nageleefd bij het ontwikkelen, inkopen en gebruiken van algoritmes.
 ","['governance', 'transparantie']",['organisatieverantwoordelijkheden'],"['projectleider', 'beleid-en-advies']","- Vastgestelde (interne) beleidskaders, zoals [specifiek beleid voor de inzet van algoritmes](0-org-02-beleid-opstellen-inzet-algoritmes.md), moeten worden toegepast bij het ontwikkelen, inkopen of gebruiken van algoritmes.
 - Het is van belang dat tijdig, bijvoorbeeld in de [probleemanalyse fase](../../levenscyclus/probleemanalyse.md), inzichtelijk wordt gemaakt welke interne beleidskaders moeten worden toegepast.
 - Hierbij kan worden gedacht aan definities die moeten worden gehanteerd, het naleven van inkoopbeleid, strategisch beleid volgen met betrekking tot het mogen inzetten van algoritmes binnen de organisaties of het doorlopen van processen en protocollen die moeten worden toegepast.
@@ -1065,8 +1030,7 @@ Doorloop voor iedere potentiële indicator de volgende stappen:
 ","['urn:nl:ak:ver:grw-02', 'urn:nl:ak:ver:avg-01', 'urn:nl:ak:ver:avg-04', 'urn:nl:ak:ver:avg-10']","- [Toetsingskader risicoprofilering – Normen tegen discriminatie op grond van ras en nationaliteit, College voor de Rechten van de Mens](../hulpmiddelen/toetsingskader-risicoprofilering.md)
 - [Advies geautomatiseerde besluitvorming, Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/documenten/advies-geautomatiseerde-besluitvorming)
   ",https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/3-dat-02-toetsen-geschiktheid-variabelen/index.html
-urn:nl:ak:mtr:dat-03,Geef data zoals persoonsgegevens een bewaartermijn met een vernietigingsprocedure,"
-Bepaal de bewaartermijnen en richt een vernietigingsprocesdure in voor de verwerkte (persoons)gegevens.
+urn:nl:ak:mtr:dat-03,Geef data zoals persoonsgegevens een bewaartermijn met een vernietigingsprocedure,"Bepaal de bewaartermijnen en richt een vernietigingsprocesdure in voor de verwerkte (persoons)gegevens.
 ","['technische-robuustheid-en-veiligheid', 'privacy-en-gegevensbescherming']","['ontwikkelen', 'monitoring-en-beheer']","['jurist', 'projectleider']","- (Persoons)gegevens die het algoritme verwerkt worden niet langer bewaard dan voor de verwezenlijking van de 
 verwerkingsdoeleinden noodzakelijk is.
 - Beschrijf de bewaartermijnen voor de gegevens, bijvoorbeeld in een DPIA.
@@ -1080,8 +1044,7 @@ verwerkingsdoeleinden noodzakelijk is.
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 3.17](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 
 ",https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/3-dat-03-bewaartermijnen-persoonsgegevens/index.html
-urn:nl:ak:mtr:dat-04,"Bescherm persoonsgegevens door data te anonimiseren, pseudonimiseren of te aggregeren","
-Pas maatregelen toe als pseudonimiseren, anonimiseren of aggregeren van persoonsgegevens toe bij het verwerken van de data. 
+urn:nl:ak:mtr:dat-04,"Bescherm persoonsgegevens door data te anonimiseren, pseudonimiseren of te aggregeren","Pas maatregelen toe als pseudonimiseren, anonimiseren of aggregeren van persoonsgegevens toe bij het verwerken van de data. 
 ",['privacy-en-gegevensbescherming'],"['dataverkenning-en-datapreparatie', 'ontwikkelen']","['ontwikkelaar', 'jurist']","- Als is vastgesteld welke persoonsgegevens mogen worden verwerkt voor het ontwikkelen en gebruiken van algoritmes, moet worden nagegaan of er maatregelen kunnen worden getroffen om deze te beschermen.
 - Het algoritme verwerkt niet meer persoonsgegevens dan noodzakelijk; de verwerkte gegevens zijn proportioneel en substantieel.
 - Hierbij kan worden gedacht aan het pseudonomiseren, anonimiseren of aggregeren van persoonsgegevens.
@@ -1090,8 +1053,7 @@ Pas maatregelen toe als pseudonimiseren, anonimiseren of aggregeren van persoons
 ","['urn:nl:ak:ver:avg-03', 'urn:nl:ak:ver:avg-12']","- [Onderzoekskader Auditdienst Rijk, PRI.5](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 2.20, 3.06](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 ",https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/3-dat-04-pseudonimiseren-anonimiseren/index.html
-urn:nl:ak:mtr:dat-05,Controleer de auteursrechten van eigen data,"
-Controleer of eventueel door de eigen organisatie verstrekte data binnen of buiten auteursrechten vallen.
+urn:nl:ak:mtr:dat-05,Controleer de auteursrechten van eigen data,"Controleer of eventueel door de eigen organisatie verstrekte data binnen of buiten auteursrechten vallen.
 Bij voorkeur blijven de data eigendom van de (verstrekkende) overheidsorganisatie.
 ",['data'],"['ontwerp', 'dataverkenning-en-datapreparatie']",['jurist'],"Het is van belang om te controleren of de te verwerken data waar overheidsorganisaties zelf over beschikken rechtmatig zijn verkregen en geen inbreuken maken op auteursrechten.
 Hier kan worden gedacht aan data die is gescraped van het internet en zou kunnen worden gebruikt voor de ontwikkeling van een algoritme.
@@ -1226,8 +1188,7 @@ Daarnaast kunnen onbewuste fouten ertoe leiden dat het model niet meer goed func
 - [Onderzoekskader Auditdienst Rijk, DM.9](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Toetsingskader Algemene Rekenkamer, 2.08](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 ",https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/3-dat-11-controleren-inputdata/index.html
-urn:nl:ak:mtr:dat-12,"Maak waardevolle data vindbaar, toegankelijk, interoperabel en herbruikbaar (FAIR) binnen en buiten de eigen organisatie","
-Maak waardevolle data vindbaar, toegankelijk, interoperabel en herbruikbaar (FAIR) binnen en buiten de eigen organisatie.
+urn:nl:ak:mtr:dat-12,"Maak waardevolle data vindbaar, toegankelijk, interoperabel en herbruikbaar (FAIR) binnen en buiten de eigen organisatie","Maak waardevolle data vindbaar, toegankelijk, interoperabel en herbruikbaar (FAIR) binnen en buiten de eigen organisatie.
 ",['data'],['dataverkenning-en-datapreparatie'],['ontwikkelaar'],"De internationale [FAIR-principes](https://www.gofair.foundation/) zijn richtlijnen voor de manier van beschrijven, opslag en publicatie van data. 
 
 - **Findable** (vindbaar): metadata moet gemakkelijk te vinden zijn voor zowel mensen als computers.
@@ -1293,8 +1254,7 @@ Er zijn 15 principes voor FAIR data geformuleerd:
 - [Toolbox verantwoord datagebruik, 2b](https://realisatieibds.nl/page/view/ff607c02-9f09-440a-a0e7-9bbb6c7ceb09/3-data-verzamelen)
 - [NORA online](https://www.noraonline.nl/wiki/FAIR-principes)
 ",https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/3-dat-12-fair-data/index.html
-urn:nl:ak:mtr:owk-01,Ontwerp en ontwikkel het algoritme volgens de principes van ‘security by design’,"
-Hanteer principes van ‘security by design’ (informatiebeveiligingsmaatregelen) als uitgangspunten bij de ontwikkeling van het algoritme.
+urn:nl:ak:mtr:owk-01,Ontwerp en ontwikkel het algoritme volgens de principes van ‘security by design’,"Hanteer principes van ‘security by design’ (informatiebeveiligingsmaatregelen) als uitgangspunten bij de ontwikkeling van het algoritme.
 Stel vast welke principes horen bij security by design en welke relevant zijn voor het ontwerp of de ontwikkeling van het algoritme.
 Mogelijke documenten waarin deze principes kunnen worden opgenomen zijn het security beleid of ontwikkelbeleid. Bij het bepalen en vaststellen van de juiste principes kunnen interviews met de ontwikkelaar en software-architecten helpen.
 ",['technische-robuustheid-en-veiligheid'],['ontwikkelen'],"['projectleider', 'ontwikkelaar']","Security by design is gehanteerd en terug te zien als uitgangspunt. (BIO 14.2.1.1) 
@@ -1307,8 +1267,7 @@ Security by design benadrukt het belang van het in een vroeg stadium integreren 
 - [Onderzoekskader Algoritmes Auditdienst Rijk, IB.28](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 4.09](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 ",https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/4-owk-01-security-by-design/index.html
-urn:nl:ak:mtr:owk-02,Maak een noodplan voor het stoppen van het algoritme,"
-Stel een duidelijk proces in voor situaties waarin het algoritme niet meer werkt zoals beoogd. Dit moet bevatten welke personen welke acties moeten doen en hoe er gewerkt wordt zonder het algoritme.
+urn:nl:ak:mtr:owk-02,Maak een noodplan voor het stoppen van het algoritme,"Stel een duidelijk proces in voor situaties waarin het algoritme niet meer werkt zoals beoogd. Dit moet bevatten welke personen welke acties moeten doen en hoe er gewerkt wordt zonder het algoritme.
   ","['governance', 'menselijke-controle', 'technische-robuustheid-en-veiligheid']","['ontwikkelen', 'implementatie']","['projectleider', 'ontwikkelaar']","Er moet gezorgd worden dat er een alternatief plan is voor als het algoritme niet meer werkt zoals beoogd. Dit kan betekenen dat het hele systeem (tijdelijk) wordt stopgezet, dat delen van het systeem (tijdelijk) worden uitgeschakeld of dat er een alternatief systeem gebruikt wordt. 
 
 Dit proces bevat in ieder geval de volgende stappen:
@@ -2036,8 +1995,7 @@ Dit model is essentieel in situaties waar menselijk ingrijpen tijdens de uitvoer
 -	[Human control of AI systems: from supervision to teaming | AI and Ethics (springer.com)](https://link.springer.com/article/10.1007/s43681-024-00489-4)
 -	[Zijn er beperkingen op het gebruik van geautomatiseerde besluitvorming? - Europese Commissie](https://commission.europa.eu/law/law-topic/data-protection/rules-business-and-organisations/dealing-citizens/are-there-restrictions-use-automated-decision-making_nl#:~:text=Example-,Antwoord,is%20of%20hen%20aanzienlijk%20be%C3%AFnvloedt.)
 ",https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/6-imp-03-menselijke-tussenkomst/index.html
-urn:nl:ak:mtr:imp-04,Publiceer impactvolle algoritmes en hoog-risico AI-systemen in het Algoritmeregister,"
-Publiceer het algoritme  in het [Nederlandse Algoritmeregister](../hulpmiddelen/algoritmeregister.md).  
+urn:nl:ak:mtr:imp-04,Publiceer impactvolle algoritmes en hoog-risico AI-systemen in het Algoritmeregister,"Publiceer het algoritme  in het [Nederlandse Algoritmeregister](../hulpmiddelen/algoritmeregister.md).  
 ",['transparantie'],"['implementatie', 'monitoring-en-beheer']","['projectleider', 'beleid-en-advies']","- De regering wil dat de overheid algoritmes verantwoord gebruikt. Mensen moeten erop kunnen vertrouwen dat algoritmes voldoen aan de waarden en normen van de samenleving.
 - Wanneer de overheid open is over algoritmes en hun toepassing kunnen burgers, organisaties en media haar kritisch volgen.
 - Impactvolle algoritmes en hoog-risico AI-systemen moeten daarom worden gepubliceerd in het Algoritmeregister.
@@ -2054,8 +2012,7 @@ Publiceer het algoritme  in het [Nederlandse Algoritmeregister](../hulpmiddelen/
 - [Onderzoekskader Algoritmes Auditdienst Rijk, SV.14, PRI.8](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) 
 
 ",https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/6-imp-04-publiceren-algoritmeregister/index.html
-urn:nl:ak:mtr:imp-05,Vermeld het gebruik van persoonsgegevens in een privacyverklaring,"
- Neem het gebruik van een algoritme op in de privacyverklaring als hierbij persoonsgegevens worden verwerkt.  
+urn:nl:ak:mtr:imp-05,Vermeld het gebruik van persoonsgegevens in een privacyverklaring," Neem het gebruik van een algoritme op in de privacyverklaring als hierbij persoonsgegevens worden verwerkt.  
 ","['privacy-en-gegevensbescherming', 'transparantie']",['implementatie'],"['projectleider', 'jurist']","- Door in een privacyverklaring te vermelden welke persoonsgegevens worden verwerkt voor het gebruik van een algoritme wordt een betrokkene geïnformeerd over de verwerking van diens persoonsgegevens.
 - Een privacyverklaring kan op organistieniveau worden opgesteld en ook voor specifieke verwerkingen.
 - In een privacyverklaring wordt in ieder geval het volgende opgenomen:
@@ -2090,8 +2047,7 @@ urn:nl:ak:mtr:imp-06,"Richt een proces in zodat burgers of andere belanghebbende
 - [Intern onderzoek controle uitwonendenbeurs, DUO](https://open.overheid.nl/documenten/dpc-486d1370ee92580b07ae27198a636c73fc28b87d/pdf)
 - [Toetsingskader risicoprofilering – Normen tegen discriminatie op grond van ras en nationaliteit, College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/4093c026-ae41-4c1d-aa78-4ce0e205b5de)
 ",https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/6-imp-06-klacht-bezwaar-beroep/index.html
-urn:nl:ak:mtr:imp-07,Vermeld het gebruik van persoonsgegevens in het verwerkingsregister,"
- Neem de ontwikkeling en gebruik van een algoritme op in het verwerkingsregister als persoonsgegevens worden verwerkt.  
+urn:nl:ak:mtr:imp-07,Vermeld het gebruik van persoonsgegevens in het verwerkingsregister," Neem de ontwikkeling en gebruik van een algoritme op in het verwerkingsregister als persoonsgegevens worden verwerkt.  
 ","['transparantie', 'privacy-en-gegevensbescherming']",['implementatie'],"['projectleider', 'jurist']","- Door in het verwerkingsregister te vermelden welke persoonsgegevens worden verwerkt voor het gebruik van een algoritme wordt een betrokkene geïnformeerd over de verwerking van diens persoonsgegevens.
 - Hiermee is ook voor de organisatie intern inzichtelijk welke persoonsgegevens voor welke toepassingen worden verwerkt.
 - Het is van belang dat vanaf het moment dat persoonsgegevens worden verwerkt, meteen een vermelding hiervan wordt gemaakt in het verwerkingsregister.
@@ -2157,8 +2113,7 @@ Kijk vervolgens of deze interventies effectief zijn om fouten te voorkomen.
 - [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/)
 - [User Centered Design (UCD)](https://www.interaction-design.org/literature/topics/user-centered-design)
 ",https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/6-imp-09-interventies-ux/index.html
-urn:nl:ak:mtr:imp-10,Spreek af hoe de organisatie omgaat met privacy-verzoeken,"
-Richt een proces in waarmee betrokkenen hun privacyrechten kunnen inroepen als algoritmes worden ontwikkeld of gebruikt.
+urn:nl:ak:mtr:imp-10,Spreek af hoe de organisatie omgaat met privacy-verzoeken,"Richt een proces in waarmee betrokkenen hun privacyrechten kunnen inroepen als algoritmes worden ontwikkeld of gebruikt.
 ","['privacy-en-gegevensbescherming', 'governance', 'data']","['organisatieverantwoordelijkheden', 'ontwikkelen']","['projectleider', 'beleid-en-advies', 'jurist']","- Betrokkenen moeten hun persoonsgegevens kunnen inzien, rectificeren, laten verwijderen of het gebruik ervan beperken bij het toepassen van algoritmes.
 - Betrokkenen moeten hun verzoek kunnen indienen bij de betreffende organisatie. Denk hierbij aan het inrichten van een privacyloket.
 - Er zullen afspraken moeten worden gemaakt door servicemanagement om in te richten hoe deze verzoeken effectief kunnen worden behandeld door bijvoorbeeld het ontwikkel- of beheerteam (aanbieder).
@@ -2166,8 +2121,7 @@ Richt een proces in waarmee betrokkenen hun privacyrechten kunnen inroepen als a
 ","Betrokkenen hebben geen controle over hun persoonsgegevens doordat ze geen beroep kunnen doen op hun privacyrechten. 
 ",['urn:nl:ak:ver:avg-09'],"[Onderzoekskader Algoritmes Auditdienst Rijk, PRI.9](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) 
 ",https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/6-imp-10-proces-privacyrechten/index.html
-urn:nl:ak:mtr:mon-01,Maak back-ups van algoritmes,"
-Back-up kopieën van informatie, software en systeemafbeeldingen dienen regelmatig te worden gemaakt en getest. Idealiter gebeurt dit in overeenstemming met een afgesproken back-up beleid.
+urn:nl:ak:mtr:mon-01,Maak back-ups van algoritmes,"Back-up kopieën van informatie, software en systeemafbeeldingen dienen regelmatig te worden gemaakt en getest. Idealiter gebeurt dit in overeenstemming met een afgesproken back-up beleid.
 Maak back-ups van de omgeving van het algoritme en zorg ervoor dat het algoritme en de data hersteld kunnen worden.
 ",['technische-robuustheid-en-veiligheid'],"['ontwikkelen', 'monitoring-en-beheer']","['ontwikkelaar', 'beleid-en-advies']","Er is een back-up beleid waarin de eisen voor het bewaren en beschermen zijn gedefinieerd en vastgesteld. Dit beleid moet vervolgens worden vertaald naar (technische) maatregelen om het kunnen maken van back-ups te realiseren.
 ","Als er geen regelmatige back-ups worden gemaakt en de restore-procedure niet regelmatig wordt getest, bestaat het risico dat er geen hersteloptie is en er een mogelijkheid van gegevensverlies is.

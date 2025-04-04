@@ -39,13 +39,13 @@ with open("algoritmekader-maatregelen.csv", "w") as file:
 
             # Extract sections from Markdown content
             sections = {
-                "Maatregel": re.search(r"## Maatregel\n(.*?)(?=\n## |\n<!--)", content, re.DOTALL),
+                "Maatregel": re.search(r"## Maatregel\s*\n(.*?)(?=\n## |\n<!--)", content, re.DOTALL),
                 "Toelichting": re.search(r"## Toelichting\s*\n(.*?)(?=\n## |\n<!--)", content, re.DOTALL),
                 "Bronnen": re.search(r"## Bronnen\n(.*?)(?=\n## |\n<!--)", content, re.DOTALL),
                 "Risico": re.search(r"## Risico\s*\n(.*?)(?=\n##)", content, re.DOTALL),
                 "Maatregelen": re.search(r"## Maatregelen.*\n(.*?)$", content, re.DOTALL),
             }
-            
+
             explanation_text = sections["Toelichting"].group(1) if sections["Toelichting"] else ""
             description_text = sections["Maatregel"].group(1) if sections["Maatregel"] else ""
             risico_text = sections["Risico"].group(1) if sections["Risico"] else ""

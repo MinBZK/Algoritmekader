@@ -22,7 +22,7 @@ Naast de vereisten en aanbevelingen die voor alle AI-toepassingen gelden zijn er
 ## Vereisten
 * [Bestaande wetgeving wordt gevolgd](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/) (zoals de AI-verordening, de AVG en de Grondwet).
 * Het doel om generatieve AI in te zetten is duidelijk geformuleerd.
-* De generatieve AI-toepassing is verantwoord en veilig bevonden door middel van een [risico-analyse](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/0-org-03-toepassen-risicobeheer/) (bijvoorbeeld een [DPIA](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/DPIA/) of [IAMA](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/IAMA/). Dit geldt in het bijzonder wanneer er persoonsgegevens verwerkt worden.
+* De generatieve AI-toepassing is verantwoord en veilig bevonden door middel van een [risico-analyse](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/0-org-03-toepassen-risicobeheer/) (bijvoorbeeld een [DPIA](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/DPIA/) of [IAMA](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/IAMA/)). Dit geldt in het bijzonder wanneer er persoonsgegevens verwerkt worden.
 * De inzet van generatieve AI is ingebed in het beleid.
 * De juiste rollen zijn betrokken bij de besluitvorming over generatieve AI-inzet.
 * De data die wordt gebruikt in de generatieve AI-toepassing is volledig, recent en kwalitatief goed.

@@ -6,7 +6,7 @@ summary: Toelichting over generatieve AI bij de overheid en waar je rekening mee
 Generatieve AI biedt veel kansen, maar ook valkuilen. Overheden mogen werken met generatieve AI, zolang zij deze op een verantwoorde manier ontwikkelen, inkopen en gebruiken. Datzelfde geldt voor ingehuurde externe partijen die gebruik maken van generatieve AI.
 
 ## Wat is generatieve AI?
-Generatieve AI is een vorm van kunstmatige intelligentie. Je gebruikt prompts, opdrachten in natuurlijke taal aan de applicatie, om content te genereren. De output hiervan is dan bijvoorbeeld tekst, beeld of computercode. Generatieve AI valt onder de AI-modellen voor algemene doeleinden (general purpose AI, oftewel GPAI). Dat wil zeggen dat ze voor meerdere toepassingen gebruikt kunnen worden.
+Generatieve AI is een vorm van kunstmatige intelligentie. Je gebruikt prompts, opdrachten in natuurlijke taal aan de applicatie, om content te genereren. De output hiervan is dan bijvoorbeeld tekst, beeld of computercode. Generatieve AI valt onder de AI-modellen voor algemene doeleinden (_general purpose AI_, oftewel GPAI). Dat wil zeggen dat ze voor meerdere toepassingen gebruikt kunnen worden.
 
 Meestal draaien generatieve AI-toepassingen op _large language models_ (LLMs). Dit houdt in dat de applicatie getraind is op grote hoeveelheden data, waaruit het heeft ‘geleerd’ om patronen en structuren te herkennen. Op basis van die patronen voorspelt het getrainde model het meest logische volgende element in bijvoorbeeld een zin. AI-chatbots, zoals ChatGPT, Gemini en Microsoft CoPilot, genereren hierdoor lopende zinnen en alinea’s. Deze antwoorden zijn niet altijd betrouwbaar. Geeft een chatbot onjuiste informatie, dan heet dit ‘hallucineren.’
 

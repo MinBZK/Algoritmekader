@@ -8,7 +8,7 @@ hide:
 Bij de verificatie en validatie van het algoritme dient bepaald te worden of het algoritme gebouwd is volgens de (technische) specificaties en voldoet aan de beoogde doelstellingen. 
 Hiervoor moeten technische, maar ook organisatorische maatregelen worden getroffen.  
 
-Bij verificatie kan worden gedacht aan het (laten) controleren of het algoritme voldoet aan de (technische) specificaties, bijvoorbeeld door een interne of externe audit of in de toekomst een conformiteitsbeoordeling voor hoog risico AI-systemen. 
+Bij verificatie kan worden gedacht aan het (laten) controleren of het algoritme voldoet aan de (technische) specificaties, validiteit en betrouwbaarheid, bijvoorbeeld door een interne of externe audit of in de toekomst een conformiteitsbeoordeling voor hoog risico AI-systemen.
 Hiermee kan (onafhankelijk) worden vastgesteld of het systeem voldoet aan de vereisten die organisaties daaraan stellen. 
 Op basis van bevindingen uit een audit of conformiteitsbeoordeling, is het denkbaar dat het ontwikkelteam nog bepaalde maatregelen moet treffen om te voldoen aan de specificaties. 
 

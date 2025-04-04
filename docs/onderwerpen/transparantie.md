@@ -6,11 +6,10 @@ hide:
 
 # Transparant zijn over algoritmes
 
-Overheden moeten transparant zijn over hun algoritmes. Dit betekent dat je duidelijke informatie geeft over de algoritmes die je ontwikkelt of gebruikt.
+Overheden moeten transparant zijn over hun algoritmes. Dit betekent dat je duidelijke informatie geeft over de algoritmes die je ontwikkelt of gebruikt. Conform de inspanningsverplichting uit de Wet open overheid en Wet hergebruik overheidsinformatie dien je ook de broncode van algoritmes open source te publiceren.
 
 ## Wanneer ben je transparant?
 Je draagt bij aan transparantie over algoritmes als je duidelijk uitlegt:
-
 
 * dat je algoritmes ontwikkelt of gebruikt
 * voor welk doel je deze algoritmes ontwikkelt of gebruikt
@@ -40,11 +39,13 @@ Hoe je transparantie organiseert, hangt af van:
 
 Onderzoek goed welk [soort algoritme](../overhetalgoritmekader/soorten-algoritmes.md) je gebruikt of wil gebruiken. Hoe groter de impact en het risico, hoe strenger de vereisten.
 
-De keuze voor het soort algoritme bepaalt ook hoe transparant je kunt zijn. Van rekenregels kun je namelijk precies uitleggen hoe deze tot een beslissing komen. Maar complexe AI-systemen zijn vaak een black box: niemand weet precies hoe deze systemen beslissingen maken. Volledige transparantie is dan niet mogelijk. In dat geval moet je de werking zo goed mogelijk onderzoeken. Probeer bijvoorbeeld in elk geval ernstige gevolgen zoals [discriminatie](bias-en-non-discriminatie.md) te voorkomen. 
+De keuze voor het soort algoritme bepaalt ook hoe transparant je kunt zijn. Van rekenregels kun je namelijk precies uitleggen hoe deze tot een beslissing komen. Maar complexe AI-systemen zijn vaak een black box: niemand weet precies hoe deze systemen beslissingen maken. Volledige transparantie is dan niet mogelijk. In dat geval moet je goed overwegen of dit soort algoritmes wel passend zijn bij het doel. De inzet van algoritme moet namelijk geen doel op zich worden. Probeer bijvoorbeeld in elk geval ernstige gevolgen zoals [discriminatie](bias-en-non-discriminatie.md) te voorkomen door de werking van het algoritme zo goed als mogelijk te onderzoeken.
 
 !!! tip "Tip"
 
-    Rekenregels zijn makkelijker uit te leggen dan AI-systemen. Als een rekenregel voldoende is voor het bereiken van je doel, dan is het ook makkelijker om transparant te zijn.
+    Rekenregels zijn makkelijker uit te leggen dan AI-systemen. Als een rekenregel voldoende is voor het bereiken van je doel, dan zou daarvoor gekozen moeten worden. Het is dan ook makkelijker om transparant te zijn.
+
+Of je broncode van het algoritme moet publiceren hangt af van de absolute en relatieve uitzonderingsgronden uit de Wet open overheid. Wanneer het algoritme als geheel onder een van de uitzonderingsgronden valt, dan moet alsnog onderzocht worden welke delen van het algoritme wel gepubliceerd kunnen worden of welke delen zwartgelakt moeten worden. Meer informatie over het (open source) publiceren van broncode is te vinden op [Opensourcewerken.nl](https://www.opensourcewerken.nl).
 
 ## Betrokken partijen
 Stem je informatie af op de betrokken partij. Zo moeten gebruikers de uitkomst van het algoritme voldoende begrijpen voor het nemen van onderbouwde beslissingen. En belanghebbenden zoals burgers moeten weten dat zij te maken hebben met een algoritme. Zij moeten snel en makkelijk kunnen vinden wat hun rechten zijn en hoe zij in beroep kunnen gaan. 

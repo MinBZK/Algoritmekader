@@ -20,7 +20,7 @@ Als overheid moet je hier goed op letten. Doe dit zo vroeg mogelijk in de [leven
 ## Rechtmatig persoonsgegevens gebruiken
 Als je persoonsgegevens gebruikt voor algoritmes, moet je rekening houden met wetgeving, zoals de Algemene Verordening Gegevensbescherming (AVG) en de Auteurswet. De belangrijkste regels zijn:
 
-* Gebruik alleen persoonsgegevens die je mag gebruiken voor het doel van je algoritme: je hebt toestemming van de eigenaar, of het mag volgens de wet.
+* Gebruik alleen persoonsgegevens voor je algoritme als daar een concrete grondslag voor aanwezig is en zorg daarbovenop eventueel nog voor toestemming van de eigenaar.
 * Gebruik zo min mogelijk persoonsgegevens om dit doel bereiken. 
 
 Je organisatie moet aantoonbaar de verwerking beperken tot de persoonsgegevens die noodzakelijk zijn voor een duidelijk bepaald doel. Dit kan lastig zijn. Want welke gegevens zijn bijvoorbeeld nodig als je vooraf niet weet welke verbanden het algoritme legt?

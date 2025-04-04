@@ -34,10 +34,11 @@ Je kunt op verschillende manieren controle houden over de prestaties van een alg
 * Technische controle: Controle uitoefenen op het algoritme zelf. Je bepaalt bijvoorbeeld dat een AI-systeem alleen mag 'bijleren’ wanneer de data voldoet aan bepaalde voorwaarden voor sociale representativiteit.
 * Contextuele controle: Controle van de omgeving van het algoritme. Je verbiedt bijvoorbeeld dat je organisatie het algoritme gebruikt in situaties met een hoog risico op schade.
 * Controle door kennis: Je probeert de werking en risico’s van je algoritmes zo goed mogelijk te begrijpen. Gaat het om een AI-systeem, dan heb je ook [voldoende kennis over AI](../voldoen-aan-wetten-en-regels/vereisten/aia-01-ai-geletterdheid.md) nodig.
+* Steekproef controle: Door steeksproefgewijs de resultaten van het algoritme te reproduceren weet je of het algoritme nog altijd functioneert zoals bedoeld. Idealiter zijn deze steekproeven geautomatiseerd met zogenoemde unittests.
 
-Wanneer en hoe je controle uitoefent, hangt af van het [soort algoritme en risico](../overhetalgoritmekader/soorten-algoritmes.md), de [levenscyclusfase](../levenscyclus/index.md) van je project en je [expertise](../rollen/index.md). 
+Wanneer en hoe je controle uitoefent, hangt af van het [soort algoritme en risico](../overhetalgoritmekader/soorten-algoritmes.md) en de [levenscyclusfase](../levenscyclus/index.md) van je project. Daarnaast is het belangrijk dat per maatregel de juiste [expertise](../rollen/index.md) is aangehaakt.
 
-Bepaal in elk geval zo vroeg mogelijk wie in welke levenscyclusfase verantwoordelijk is voor menselijke controle. En [beschrijf dit in een RACI-matrix of VERI-matrix](../voldoen-aan-wetten-en-regels/maatregelen/2-owp-01-rollen-en-verantwoordelijkheden.md). Want menselijke controle is nodig in verschillende fases, door verschillende mensen. Er is nooit 1 persoon verantwoordelijk voor de totale controle. 
+Bepaal in elk geval zo vroeg mogelijk wie in welke levenscyclusfase verantwoordelijk is voor menselijke controle. En [beschrijf dit in een RACI-matrix of VERI-matrix](../voldoen-aan-wetten-en-regels/maatregelen/2-owp-01-rollen-en-verantwoordelijkheden.md). Want menselijke controle is nodig in verschillende fases, door verschillende mensen. Er is nooit 1 persoon verantwoordelijk voor de totale controle. Organiseer daarnaast periodiek kritische denkkracht over de inzet van het algoritme, om te voorkomen dat de inzet van controles de legitimatie worden voor de inzet van het algoritme. Blijf ook investeren in expertise die het mogelijk maakt om ook zonder algoritme te kunnen blijven werken.
 
 Tijdens het gebruik kun je menselijke controle op de volgende manieren uitoefenen:
 

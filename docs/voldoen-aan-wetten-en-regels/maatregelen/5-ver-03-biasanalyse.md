@@ -100,7 +100,7 @@ Er zijn veel verschillende manieren waarop je kan kijken naar onderscheid bij he
 
     De verschillende maten/metrieken waarop gekeken kan worden naar onderscheid, worden in de (wetenschappelijke) literatuur ook wel *fairness metrieken* genoemd. 
     Veel van deze metrieken kunnen op basis van de confusion matrix berekend worden. 
-    Een hulpmiddel om de meest passende metrieken te kiezen in jouw situatie is de [Fairness tree](https://openresearch.amsterdam/en/media/inline/2022/7/14/fairness_handbook.pdf). 
+    Een hulpmiddel om de meest passende metrieken te kiezen in jouw situatie is de [Fairness tree](https://openresearch.amsterdam/nl/page/87589/the-fairness-handbook). 
 
     Door te denken vanuit verschillende perspectieven, zullen er in de praktijk meerdere metrieken van belang zijn. 
     Het kan echter voorkomen dat deze metrieken elkaar tegenspreken. 

@@ -57,7 +57,7 @@ Hiervan is sprake wanneer een ogenschijnlijk neutrale bepaling, maatstaf of hand
 ## Bronnen 
 - [Artikel 1 Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=1&z=2023-02-22&g=2023-02-22) 
 - [Artikel 14 Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, Rome, 04-11-1950](https://wetten.overheid.nl/jci1.3:c:BWBV0001000&titeldeel=I&artikel=14&z=2021-08-01&g=2021-08-01)
-- [Artikel 21 Handvest van de Grondrechten van de Europese Unie](https://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=CELEX:12012P/TXT)
+- [Artikel 21, Handvest van de grondrechten van de Europese Unie](https://eur-lex.europa.eu/legal-content/NL/ALL/?uri=CELEX:C2012/326/02) 
 - [Artikel 1 Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=1&artikel=1&z=2020-01-01&g=2020-01-01) 
 - [Artikel 1 Protocol nr. 12 bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, Rome, 04-11-2000](https://wetten.overheid.nl/jci1.3:c:BWBV0001676&artikel=1&z=2005-04-01&g=2005-04-01) 
 - [Artikel 9 Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679) 

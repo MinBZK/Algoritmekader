@@ -44,7 +44,7 @@ De organisatie is afhankelijk van de data of het model afhankelijk van derden en
     <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
-- [Onderzoekskader Auditdienst Rijk, DM.23](https://open.overheid.nl/documenten/61b54381-d331-40ed-8fce-b2883b195f25/file)
+- [Onderzoekskader algoritmes, Auditdienst Rijk, DM.23](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/onderzoekskader-adr/)
 
 ## Voorbeelden
 

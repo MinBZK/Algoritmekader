@@ -27,9 +27,9 @@ hide:
     <div class="float-box">
     <h3><b>Soorten algoritmes en AI</b></h3>
     <ul>
-      <li><a href="soorten-algoritmes-en-ai/wat-is-een-algoritme/">Wat is een algoritme?</a></li>
-      <li><a href="soorten-algoritmes-en-ai/generatieve-ai/">Generatieve AI</a></li>
-       <li><a href="soorten-algoritmes-en-ai/risico-van-ai-systemen/">Risico van AI-systemen</a></li>
+      <li><a href="overhetalgoritmekader/wat-is-een-algoritme/">Wat is een algoritme?</a></li>
+      <li><a href="overhetalgoritmekader/generatieve-ai/">Generatieve AI</a></li>
+       <li><a href="overhetalgoritmekader/risico-van-ai-systemen/">Risico van AI-systemen</a></li>
     </ul>
     
   </div>

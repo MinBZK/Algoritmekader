@@ -30,10 +30,11 @@ Naast de vereisten en aanbevelingen die voor alle AI-toepassingen gelden zijn er
 * Er is altijd een menselijke tussenkomst bij de inzet van generatieve AI ('human-in-the-loop'). Besluiten worden niet puur en alleen op basis van de output van generatieve AI genomen.
 * In het kader van [AI-geletterdheid](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/aia-01-ai-geletterdheid/) zijn medewerkers [voldoende geïnformeerd over en opgeleid in](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/0-org-16-bewustwording-en-opleiding/) het verantwoord gebruiken van generatieve AI.
 * Er worden géén generatieve AI-toepassingen gebruikt die online voor iedereen toegankelijk zijn, zoals ChatGPT.
+* Wanneer externe partijen diensten leveren aan de overheid en daarbij overheidsgegevens verwerken in generatieve AI, gelden deze vereisten en richtlijnen ook voor hen. Voorbeeld: adviesbureau Bereschot neemt interviews af met overheidsmedewerkers en gebruikt generatieve AI om deze te transcriberen en samen te vatten.
 
 ## Aanbevolen maatregelen
 * Het inkopen van generatieve AI-toepassingen heeft wat meer haken en ogen dan 'gewone' AI. Stel hiervoor goede [inkoopvoorwaarden](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/inkoopvoorwaarden/) op.
-* Werk bij voorkeur met een open-sourcetoepassing of -model.
+* Werk bij voorkeur met een open-sourcetoepassing of -model. Meer informatie hierover vind je op [de website van het Open Source Initiative](https://opensource.org/ai/open-source-ai-definition).
 * Gebruik bij voorkeur een generatieve AI-toepassing die binnen Europa is ontwikkeld en wordt beheerd. Deze zijn vaak beter ingesteld op de Nederlandse taal en maken ons minder afhankelijk van niet-EU-landen.
 * Onderzoek van tevoren welk model de beste resultaten oplevert. Voor specialistische of complexe onderwerpen kan dat bijvoorbeeld een kleiner model zijn.
 * Gebruik generatieve AI niet om foto's, video's en voice-overs te genereren, zeker niet wanneer deze publiekelijk gedeeld worden.
@@ -42,6 +43,7 @@ Naast de vereisten en aanbevelingen die voor alle AI-toepassingen gelden zijn er
 ## Bronnen
 * [Overheidsbreed standpunt voor de inzet van generatieve AI](link-nog-toevoegen)
 * [Overheidsbrede handreiking generatieve AI](link-nog-toevoegen)
+* [Open Source Initiative](https://opensource.org/ai/open-source-ai-definition)
 
 ## Help ons deze pagina te verbeteren
 Deel je idee, suggestie of opmerking [via GitHub](https://github.com/MinBZK/Algoritmekader/issues/new/choose) of mail ons via algoritmes@minbzk.nl.

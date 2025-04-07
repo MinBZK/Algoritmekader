@@ -63,7 +63,10 @@ Het is belangrijk om het algoritme te testen op de mate van reproduceerbaarheid.
     - versies van gebruikte software (softwarebibliotheken)
     - etc.
 
-- Indien er gebruik wordt gemaakt van generatieve AI kan er getest worden wat de uitkomsten zijn voor dezelfde of heel vergelijkbare prompts. 
+### Generatieve AI
+Bij generatieve AI is het vaak lastiger om de reproduceerbaarheid te testen. Je kunt het volgende doen om dit risico te beperken:
+- Maak gebruik van open-sourceapplicaties of -modellen. Deze modellen bieden meer inzicht op het gebied van transparantie. Let wel op dat deze transparantie niet ten koste mag gaan van de veiligheid.
+- Test wat de uitkomsten zijn voor dezelfde of heel vergelijkbare prompts, en controleer of deze exact of nagenoeg hetzelfde zijn.
 
 ## Risico
 Wanneer uitkomsten niet herhaald kunnen worden, kan er niet worden gegarandeerd dat vergelijkbare casussen tot vergelijkbare uitkomsten komen. 

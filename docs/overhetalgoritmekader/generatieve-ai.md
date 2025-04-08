@@ -34,7 +34,7 @@ Naast de vereisten en aanbevelingen die voor alle AI-toepassingen gelden zijn er
 
 ## Aanbevolen maatregelen
 * Het inkopen van generatieve AI-toepassingen heeft wat meer haken en ogen dan 'gewone' AI. Stel hiervoor goede [inkoopvoorwaarden](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/inkoopvoorwaarden/) op.
-* Werk bij voorkeur met een open-sourcetoepassing of -model. Meer informatie hierover vind je op [de website van het Open Source Initiative](https://opensource.org/ai/open-source-ai-definition).
+* Werk bij voorkeur met een open toepassing of model, waar mogelijk ook met een open source-toepassing of model. Meer informatie hierover vind je op [de website van het Open Source Initiative](https://opensource.org/ai/open-source-ai-definition).
 * Gebruik bij voorkeur een generatieve AI-toepassing die binnen Europa is ontwikkeld en wordt beheerd. Deze zijn vaak beter ingesteld op de Nederlandse taal en maken ons minder afhankelijk van niet-EU-landen.
 * Onderzoek van tevoren welk model de beste resultaten oplevert. Voor specialistische of complexe onderwerpen kan dat bijvoorbeeld een kleiner model zijn.
 * Gebruik generatieve AI niet om foto's, video's en voice-overs te genereren, zeker niet wanneer deze publiekelijk gedeeld worden.

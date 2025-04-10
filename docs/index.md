@@ -12,13 +12,13 @@ hide:
     <span class="version-container">
       <span class="version-label">Versie 2.1</span>
       <div class="hover-info">
-        <p>Deze website is in ontwikkeling. Alle versies ontstaan op een open manier. <a href="overhetalgoritmekader/CONTRIBUTING/">Iedereen mag opmerkingen of suggesties geven.</a></p>
+        <p>Deze website is in ontwikkeling. Alle versies ontstaan op een open manier. <a href="soorten-algoritmes-en-ai/CONTRIBUTING/">Iedereen mag opmerkingen of suggesties geven.</a></p>
       </div>
     </span>
     </div>
 </div>
 
-<a href="overhetalgoritmekader/over-het-algoritmekader/" class="button md-button--secondary">Over het algoritmekader</a> 
+<a href="soorten-algoritmes-en-ai/over-het-algoritmekader/" class="button md-button--secondary">Over het algoritmekader</a> 
 
 <div class="float-container">
 

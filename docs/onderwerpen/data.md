@@ -5,7 +5,7 @@ hide:
 - path
 ---
 # Verantwoord datagebruik
-Overheden moeten verantwoord omgaan met de data die hun algoritmes gebruiken. De data moet voldoen aan regels voor bijvoorbeeld privacy. De kwaliteit van de data moet goed zijn. En overheden moeten deze gegevens goed beheren. Anders is het algoritme niet betrouwbaar.  
+Overheden moeten verantwoord omgaan met de data die hun algoritmes gebruiken. De data moet voldoen aan regels voor bijvoorbeeld privacy. De kwaliteit van de data moet goed zijn. En overheden moeten deze gegevens goed beheren. Anders is het algoritme niet betrouwbaar (zijn de resultaten onder dezelfde omstandigheden hetzelfde) en valide (doet het algoritme wat het beoogd te doen).
 
 ## Wat is verantwoord datagebruik?
 Verantwoord datagebruik betekent:
@@ -20,11 +20,11 @@ Net als organisaties mogen algoritmes niet zomaar gegevens verzamelen en gebruik
 Andere belangrijke regels gaan over privacy. Zo mag je algoritme alleen de minimale persoonsgegevens gebruiken die nodig zijn om het doel te bereiken. Technieken om dit te doen zijn:
 
 * Anonimiseren: data zoveel mogelijk anoniem maken
-* [Pseudonimiseren](https://www.autoriteitpersoonsgegevens.nl/themas/beveiliging/beveiliging-van-persoonsgegevens/gegevens-pseudonimiseren): data moeilijker herleidbaar maken naar personen
+* [Pseudonimiseren](https://www.autoriteitpersoonsgegevens.nl/themas/beveiliging/beveiliging-van-persoonsgegevens/gegevens-pseudonimiseren): data moeilijker herleidbaar maken (veelal in geval van persoonsgegevens)
 * Aggregeren: data zoveel mogelijk combineren of samenvoegen tot 1 waarde, zoals een totaal of gemiddelde 
 
 ### Goede datakwaliteit
-Hoe slechter de datakwaliteit, hoe onbetrouwbaarder de uitkomsten van je algoritme. 
+Goede datakwaliteit is in het geval van het trainen of ontwikkelen van een algoritme belangrijk zodat het algoritme een zo hoog mogelijke validiteit krijgt. Bij het gebruik van een zelflerend algoritme kan slechte datakwaliteit de validiteit van het algoritme verlagen. Met rekenregels met een hoge validiteit kan slechte datakwaliteit juist aangetoond worden en heeft de datakwaliteit geen invloed op de algoritme zelf. Denk bij dat laatste aan fraude opsporende algoritmes.
 
 Je bepaalt en controleert zelf de [kwaliteit van je dataset](../voldoen-aan-wetten-en-regels/maatregelen/3-dat-01-datakwaliteit.md). Check bijvoorbeeld of alle gegevens juist, compleet en actueel zijn. En herken [bias in je data](bias-en-non-discriminatie.md).
 
@@ -45,13 +45,15 @@ Hoe goed je organisatie data beheert, check je met [datavolwassenheidsmodellen](
 ## Belang van verantwoord datagebruik
 Algoritmes kunnen veel schade veroorzaken in de maatschappij als ze de verkeerde gegevens gebruiken.
 
-Met verantwoord datagebruik voorkom je:
+Met verantwoord datagebruik verklein je de kans op:
 
 * verkeerde beslissingen doordat je algoritme resultaten baseert op data van slechte kwaliteit
 * discriminerende effecten van algoritmes doordat je data bias bevat
 * lekken van privacygevoelige informatie, zoals persoonsgegevens
 * gebruik van data die niet rechtenvrij zijn, zoals teksten met auteursrechten
 * dat resultaten niet te reproduceren zijn, doordat de data niet goed is opgeslagen
+
+Waarbij voor de kwaliteit van het algoritme datakwaliteit hand in hand gaat met kwalitatief programmeerwerk.
 
 ### Bescherming van cruciale infrastructuurdata
 Niet alleen persoonsgegevens, maar ook gegevens over de Nederlandse infrastructuur vragen om verantwoord datagebruik. Dit omvat zowel fysieke infrastructuur, zoals wegen, bruggen, tunnels en energievoorzieningen, als digitale infrastructuur, zoals datakabels en datacentra.

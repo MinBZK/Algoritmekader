@@ -61,12 +61,12 @@ Als er geen rekening wordt gehouden met de uitlegbaarheid van een algoritme binn
 - [Toetsingskader Algoritmes, Algemene Rekenkamder, 2.04](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Toolkit voor implementatie](https://xaitk.org/)
 - [An introduction to explainable AI with Shapley values](https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html)
-- [Paper over (de evaluatie van) toolkits](https://www.ijcai.org/proceedings/2023/0747.pdf)
+- [Benchmarking eXplainable AI - A Survey on Available Toolkits and Open Challenges](https://www.ijcai.org/proceedings/2023/747)
 - [UXAI: Design Strategy](https://www.uxai.design/design-strategy)
 - [Overzicht (evaluatie van) metrieken XAI](https://dl.acm.org/doi/pdf/10.1145/3583558)
 - [Part 2: Explaining AI in practice | ICO](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/explaining-decisions-made-with-artificial-intelligence/part-2-explaining-ai-in-practice/)
-- [A Survey of Privacy-Preserving Model Explanations: Privacy Risks, Attacks, and Countermeasures](https://arxiv.org/pdf/2404.00673)
-- [Towards Transparency by Design for Artificial Intelligence | Science and Engineering Ethics](https://link.springer.com/content/pdf/10.1007/s11948-020-00276-4.pdf).
+- [A Survey of Privacy-Preserving Model Explanations: Privacy Risks, Attacks, and Countermeasures](https://arxiv.org/abs/2404.00673)
+- [Towards Transparency by Design for Artificial Intelligence, Science and Engineering Ethics](https://link.springer.com/article/10.1007/s11948-020-00276-4)
 - [From Anecdotal Evidence to Quantitative Evaluation Methods: A Systematic Review on Evaluating Explainable AI](https://dl.acm.org/doi/pdf/10.1145/3583558)
 
 

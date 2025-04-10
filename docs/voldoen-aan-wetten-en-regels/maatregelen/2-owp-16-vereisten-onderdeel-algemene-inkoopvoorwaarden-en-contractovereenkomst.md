@@ -121,7 +121,6 @@ Door de vereisten voor een verantwoorde inzet van algoritmes niet te communicere
 
 !!! example "Europese Inkoopvoorwaarden"
 
-	- [Europese modelcontractbepalingen voor laag- en hoog-risico-AI](https://public-buyers-community.ec.europa.eu/communities/procurement-ai/resources/updated-eu-ai-model-contractual-clauses)
-f)
+  De Europese Commissie biedt [Europese modelcontractbepalingen voor laag- en hoog-risico-AI](https://public-buyers-community.ec.europa.eu/communities/procurement-ai/resources/updated-eu-ai-model-contractual-clauses).
 
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

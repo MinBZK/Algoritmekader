@@ -45,9 +45,9 @@ Het algoritme kan niet of na verloop van tijd niet meer functioneren, doordat on
 
 ## Bronnen
 
-- [Project Startarchitectuur,NORA](https://www.noraonline.nl/wiki/PSA_(Project_Startarchitectuur))
-- [PSA Format](https://www.noraonline.nl/images/noraonline/9/96/NORA_PSA_format.odt)
-- [PSA Handleiding](https://www.noraonline.nl/images/noraonline/9/93/NORA-handleiding_voor_het_opstellen_van_een_PSA.odt)
+- [Project Startarchitectuur, NORA](https://www.noraonline.nl/wiki/PSA_(Project_Startarchitectuur))
+- [PSA Format](https://www.noraonline.nl/wiki/Webversie_PSA_Format)
+- [PSA Handleiding](https://www.noraonline.nl/wiki/Webversie_PSA_Handleiding)
 
 
 ## Voorbeelden
@@ -58,13 +58,13 @@ Het algoritme kan niet of na verloop van tijd niet meer functioneren, doordat on
 	
 	Deze twee documenten zijn voor iedere organisatie te downloaden en verder uit te werken. Er wordt per hoofdstuk benoemd waar aan gedacht moet worden en hoe dit verder uitgewerkt moet worden.
 	
-	Bron: [PSA Format](https://www.noraonline.nl/wiki/PSA_(Project_Startarchitectuur))
+	Bron: [PSA(Project Startarchitectuur)](https://www.noraonline.nl/wiki/PSA_(Project_Startarchitectuur))
 
 
 !!! example "Gemeente Amsterdam – WPI model onderzoekswaardigheid uitkeringsaanvragen"
 	
 	Gemeente Amsterdam heeft bij het ontwikkelen van een analyse algoritme gebruik gemaakt van een Architectuurnotitie, vergelijkbaar met een Project Start Architectuur (PSA). Hierin wordt toegelicht hoe dit project (het algoritme) stand houdt ten opzichte van andere projecten, belanghebbenden en belangrijke documenten (wetgeving). Naast deze toelichting wordt ook uitgelegd hoe het algoritme tot stand komt, bijvoorbeeld: wat zijn de uitgangspunten voor het ontwikkelen, welke risico’s zijn in beeld en hoe worden deze voorkomen, wat is de uiteindelijke doel architectuur, etc. 
 	
-	Bron: [Architectuurnotitie Risicomodel](https://algoritmeregister.amsterdam.nl/onderzoekswaardigheid-slimme-check-levensonderhoud/#:~:text=Architectuurnotitie%20WPI%20Risicomodel%20v1.2.pdf)
+	Bron: [Architectuurnotitie Risicomodel](https://algoritmes.overheid.nl/nl/algoritme/onderzoekswaardigheid-slimme-check-levensonderhoud-gemeente-amsterdam/95794697)
 
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

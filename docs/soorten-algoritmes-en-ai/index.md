@@ -1,5 +1,5 @@
 ---
-title: Basiskennis algoritmes en AI
+title: Soorten algoritmes en AI
 summary:
 hide:
   - toc
@@ -9,7 +9,7 @@ hide:
 <div style="margin-top:32px;" class="grid cards" markdown>
 
 
--   [__Soorten algoritmes__](soorten-algoritmes.md)
+-   [__Wat is een algoritme?__](wat-is-een-algoritme.md)
     
     ---
 

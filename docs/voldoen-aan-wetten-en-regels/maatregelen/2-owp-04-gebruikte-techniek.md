@@ -31,8 +31,8 @@ Beschrijf welke techniek gebruikt wordt voor de beoogde toepassing.
 - Beschrijf wat voor soort algoritme er gebruikt gaat worden voor de beoogde toepassing. 
 - Bepaal of je gebruik wilt maken van een:
 
-    - [zelflerend algoritme](../../soorten-algoritmes-en-ai/soorten-algoritmes.md#zelflerende-algoritmes)
-    - niet-zelflerend algoritme zoals een algoritme gebaseerd op [rekenregels](../../soorten-algoritmes-en-ai/soorten-algoritmes.md#rekenregels)
+    - [zelflerend algoritme](../../soorten-algoritmes-en-ai/wat-is-een-algoritme.md#zelflerende-algoritmes)
+    - niet-zelflerend algoritme zoals een algoritme gebaseerd op [rekenregels](../../soorten-algoritmes-en-ai/wat-is-een-algoritme.md#rekenregels)
 
 - Beschrijf vervolgens ook:
     

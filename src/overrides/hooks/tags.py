@@ -178,7 +178,7 @@ def _badge_onderwerp(page: Page, files: Files, blok: str):
 # Create badge for soort-toepassing
 def _badge_soort_toepassing(page: Page, files: Files, soort: str):
     icon = "material-graph"
-    href_soort_toepassing = _resolve_path("soorten-algoritmes-en-ai/soorten-algoritmes.md", page, files)
+    href_soort_toepassing = _resolve_path("soorten-algoritmes-en-ai/wat-is-een-algoritme.md", page, files)
     href_fase = href_soort_toepassing
     if soort == "ai-systeem":
         href_fase = _resolve_path("voldoen-aan-wetten-en-regels/ai-verordening.md#ai-systeem", page, files)

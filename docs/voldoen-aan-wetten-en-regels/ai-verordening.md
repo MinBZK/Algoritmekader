@@ -36,13 +36,13 @@ Bestaande regels zoals de Algemene verordening gegevensbescherming (AVG) en de A
 ## Definitie AI-systeem
 De AI-verordening geldt voor AI-systemen. 
 
-Een [rekenregel](../soorten-algoritmes-en-ai/soorten-algoritmes.md) is op zichzelf geen AI-systeem of AI-model. Rekenregels kunnen hier wel onderdeel van zijn.
+Een [rekenregel](../soorten-algoritmes-en-ai/wat-is-een-algoritme.md) is op zichzelf geen AI-systeem of AI-model. Rekenregels kunnen hier wel onderdeel van zijn.
 
 ### AI-systeem
 Een AI-systeem is volgens de AI-verordening:
 '(…) een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na de uitrol aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen.'
  
-Hieronder vallen systemen die kunstmatig intelligent zijn door [zelflerende technieken](../soorten-algoritmes-en-ai/soorten-algoritmes.md) zoals:
+Hieronder vallen systemen die kunstmatig intelligent zijn door [zelflerende technieken](../soorten-algoritmes-en-ai/wat-is-een-algoritme.md) zoals:
 
 * supervised learning
 * unsupervised learning

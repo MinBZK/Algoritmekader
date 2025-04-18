@@ -1,0 +1,135 @@
+#!/usr/bin/env python3
+"""
+Script om te valideren dat alle levenscyclus-waarden in maatregelen en vereisten
+overeenkomen met toegestane waarden gedefinieerd in het Algoritmekader
+
+Gebruik: python validate_lifecycles.py
+"""
+
+import os
+import sys
+import yaml
+import re
+from pathlib import Path
+
+# Configuratie - aangepast voor Algoritmekader repository structuur
+MEASURES_DIR = 'docs/voldoen-aan-wetten-en-regels/maatregelen'
+REQUIREMENTS_DIR = 'docs/voldoen-aan-wetten-en-regels/vereisten'
+CONFIG_FILE = 'config/lifecycles.yml'  # Aangenomen locatie van levenscyclus-definities
+VALID_FILE_EXTENSIONS = ['.md']
+
+# Standaard geldige levenscyclus-waarden in het Algoritmekader
+# Als het CONFIG_FILE niet gevonden wordt, worden deze waarden gebruikt als fallback
+DEFAULT_VALID_LIFECYCLES = [
+    'organisatieverantwoordelijkheden',
+    'plan',
+    'bouw',
+    'gebruik',
+    'evalueer'
+]
+
+# Initialiseren met standaard levenscyclus-waarden
+valid_lifecycles = DEFAULT_VALID_LIFECYCLES
+has_errors = False
+
+def load_valid_lifecycles():
+    """
+    Laad geldige levenscyclus-waarden uit configuratiebestand
+    """
+    global valid_lifecycles
+    
+    try:
+        if os.path.exists(CONFIG_FILE):
+            with open(CONFIG_FILE, 'r', encoding='utf-8') as file:
+                config = yaml.safe_load(file)
+                
+                if config and isinstance(config.get('lifecycles'), list):
+                    valid_lifecycles = config['lifecycles']
+                    print(f"Geladen: {len(valid_lifecycles)} geldige levenscyclus-waarden uit config")
+                else:
+                    print(f"Waarschuwing: Kon geen lifecycles lijst vinden in {CONFIG_FILE}")
+        else:
+            print(f"Waarschuwing: Config bestand {CONFIG_FILE} niet gevonden, standaard levenscycli worden gebruikt: {', '.join(valid_lifecycles)}")
+    except Exception as error:
+        print(f"Fout bij het laden van levenscyclus-config: {error}")
+        print(f"Standaard levenscycli worden gebruikt: {', '.join(valid_lifecycles)}")
+
+def extract_lifecycle(file_path):
+    """
+    Extraheer levenscyclus-waarde(n) uit een Markdown bestand met frontmatter
+    """
+    with open(file_path, 'r', encoding='utf-8') as file:
+        content = file.read()
+    
+    file_ext = os.path.splitext(file_path)[1].lower()
+    
+    if file_ext == '.md':
+        # Voor Markdown bestanden, zoek levenscyclus in frontmatter
+        frontmatter_match = re.search(r'^---\n([\s\S]*?)\n---', content)
+        if frontmatter_match:
+            try:
+                frontmatter = yaml.safe_load(frontmatter_match.group(1))
+                # In Algoritmekader heet het 'levenscyclus' en kan het een array zijn
+                return frontmatter.get('levenscyclus')
+            except Exception as error:
+                print(f"Fout bij het parsen van frontmatter in {file_path}: {error}")
+                global has_errors
+                has_errors = True
+                return None
+    
+    return None
+
+def scan_directory(directory):
+    """
+    Scan directory recursief voor bestanden met levenscyclus-waarden
+    """
+    if not os.path.exists(directory):
+        print(f"Waarschuwing: Directory niet gevonden: {directory}")
+        return
+    
+    for root, _, files in os.walk(directory):
+        for filename in files:
+            # Sla index.md bestanden over
+            if filename == 'index.md':
+                continue
+                
+            file_path = os.path.join(root, filename)
+            file_ext = os.path.splitext(filename)[1].lower()
+            
+            if file_ext in VALID_FILE_EXTENSIONS:
+                lifecycle = extract_lifecycle(file_path)
+                
+                if lifecycle:
+                    # Verwerk zowel enkele waarden als arrays met levenscyclus-waarden
+                    lifecycles = lifecycle if isinstance(lifecycle, list) else [lifecycle]
+                    
+                    for lc in lifecycles:
+                        if lc not in valid_lifecycles:
+                            print(f"ERROR: Ongeldige levenscyclus-waarde \"{lc}\" in {file_path}")
+                            print(f"  Geldige waarden zijn: {', '.join(valid_lifecycles)}")
+                            global has_errors
+                            has_errors = True
+                else:
+                    print(f"Waarschuwing: Geen levenscyclus-waarde gevonden in {file_path}")
+
+# Hoofdprogramma
+def main():
+    print('Levenscyclus-waarden controleren...')
+    
+    # Laad geldige levenscyclus-waarden
+    load_valid_lifecycles()
+    
+    # Controleer maatregelen en vereisten directories
+    scan_directory(MEASURES_DIR)
+    scan_directory(REQUIREMENTS_DIR)
+    
+    # Rapporteer resultaten
+    if has_errors:
+        print('\nValidatie mislukt: Ongeldige levenscyclus-waarden gevonden')
+        sys.exit(1)
+    else:
+        print('\nSucces! Alle levenscyclus-waarden zijn geldig.')
+        sys.exit(0)
+
+if __name__ == "__main__":
+    main()

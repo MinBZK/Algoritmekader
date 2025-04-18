@@ -36,6 +36,8 @@ Maak de consequenties van het algoritme specifiek en zorg dat het doel van het a
 Indien er meerdere doelen zijn, is het belangrijk om een zekere rangorde te maken: wat zijn de belangrijkste doelen? En waarom?
 Welke doelen zijn subdoelen, waarvoor het minder belangrijk is om deze te realiseren?
 
+- Vertrek vanuit de uitdaging of probleemsituatie, niet vanuit een oplossing ('AI gebruiken omwille van het AI gebruiken').
+
 - Indien mogelijk, dienen de doelstellingen gekwantificeerd te worden (SMART).
 
 - Probeer vast te stellen wat de doelpopulatie is, zodat in een later stadium data kan worden gezocht dat [representatief is daarvoor, wat bijdraagt aan de datakwaliteit](3-dat-01-datakwaliteit.md) van een algoritme.

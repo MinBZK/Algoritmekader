@@ -47,7 +47,7 @@ Voorbeelden van licenties zijn:
 ### Licenties voor software en code
 Voor software en algoritmes zijn er specifieke licenties beschikbaar die beter aansluiten bij het publiceren van broncode. [Creative Commons (CC) raadt het gebruik van CC-licenties voor software expliciet af](https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software).
 
-Voor Nederlandse overheidssoftware wordt de European Union Public License (EUPL) als standaard aanbevolen, zoals [beschreven in de bijlage van "Overwegingen bij Open tenzij en Aanpak open source"](https://open.overheid.nl/documenten/ronl-8746885c-59bd-4b0e-a86b-c6fa85d63c9a/pdf). Voor een overzicht en vergelijking van softwarelicenties kan bovendien de website [choosealicense.com geraadpleegd](https://choosealicense.com/licenses/) worden.
+Voor Nederlandse overheidssoftware wordt de European Union Public License (EUPL) als standaard aanbevolen, zoals beschreven in [Overwegingen bij Open tenzij en Aanpak open source](https://www.rijksoverheid.nl/documenten/publicaties/2020/04/17/overwegingen-bij-open-tenzij-en-aanpak-open-source). Voor een overzicht en vergelijking van softwarelicenties kan bovendien de website [choosealicense.com geraadpleegd](https://choosealicense.com/licenses/) worden.
 
 ## Risico
 Enkele risico's bij het niet vermelden van de passende licentie:

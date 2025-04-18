@@ -1,18 +1,10 @@
 ---
-title: Soorten algoritmes
+title: Wat is een algoritme?
 summary: Uitleg van de verschillende soorten algoritmes waar je mee kunt werken.
 ---
 
-# Soorten algoritmes
-Om te voldoen aan de vereisten, moet je weten met welk soort algoritme je werkt. Gaat het om simpele rekenregels of een AI-systeem?
-
-## Wanneer is het een algoritme?
-Met een algoritme bedoelen we een set regels en instructies die een computer uitvoert, met 1 of meer van deze doelen:
-
-* problemen oplossen
-* vragen beantwoorden
-* taken of processen uitvoeren
-* besluiten nemen
+# Wat is een algoritme?
+Met een algoritme bedoelen we een set regels en instructies die een computer uitvoert, met als doel: problemen oplossen, vragen beantwoorden, taken of processen uitvoeren en/of besluiten nemen. Dit kunnen simpele rekenregels zijn. Of zelflerende algoritmes en AI-systemen.
 
 ## Rekenregels
 Rekenregels (ook wel: regelgebaseerde algoritmes) zijn de meest eenvoudige algoritmes. Dit zijn door mensen bedachte regels die het computersysteem precies moet opvolgen: als x gebeurt, dan doe je y.

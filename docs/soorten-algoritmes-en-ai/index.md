@@ -1,5 +1,5 @@
 ---
-title: Basiskennis algoritmes en AI
+title: Soorten algoritmes en AI
 summary:
 hide:
   - toc
@@ -9,7 +9,7 @@ hide:
 <div style="margin-top:32px;" class="grid cards" markdown>
 
 
--   [__Soorten algoritmes__](soorten-algoritmes.md)
+-   [__Wat is een algoritme?__](wat-is-een-algoritme.md)
     
     ---
 
@@ -26,6 +26,12 @@ hide:
     ---
 
     Impactvolle algoritmes registreer je in het Algoritmeregister.
+
+-   [__Generatieve AI__](generatieve-ai.md)
+    
+    ---
+
+    Overheden mogen werken met generatieve AI, zolang zij deze op een verantwoorde manier ontwikkelen, inkopen en gebruiken.
 
 -   [__Woordenlijst__](definities.md)
 

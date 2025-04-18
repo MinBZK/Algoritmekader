@@ -16,16 +16,16 @@ soort-toepassing:
 - ai-systeem-voor-algemene-doeleinden
 risicogroep:
 - hoog-risico-ai-systeem
-transparantieverplichting: 
+transparantieverplichting:
 - geen-transparantieverplichting
-- transparantieverplichting 
+- transparantieverplichting
 systeemrisico:
 - niet-van-toepassing
-open-source: 
+open-source:
 - open-source
 - geen-open-source
 - niet-van-toepassing
-uitzondering: 
+uitzondering:
 - risicogroep-uitzondering-van-toepassing
 rol-ai-act:
 - aanbieder
@@ -49,7 +49,7 @@ Er moet een grondige risicoanalyse plaatsvinden en worden vertaald naar mitigere
 
 [Artikel 9(9) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3241-1-1)
 
-## Van toepassing op 
+## Van toepassing op
 <!-- tags-ai-act -->
 
 

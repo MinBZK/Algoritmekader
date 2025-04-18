@@ -23,7 +23,7 @@ De maatregelen zijn niet verplicht. Het zijn adviezen uit:
 
 !!! info "Benieuwd hoe de maatregelen samenhangen met het Onderzoekskader van de Auditdienst Rijk en het Toetsingskader van de Algemene Rekenkamer?"
 
-    Bekijk de zogenaamde 'mapping' tussen de maatregelen uit het Algoritmekader, het [Toetsingskader Algoritmes](../hulpmiddelen/toetsingskader-algemene-rekenkamer.md) en het [Onderzoekskader algoritmes](../hulpmiddelen/onderzoekskader-adr.md). Hierin zie je waar elke maatregel uit deze kaders terugkomt in het Algoritmekader. Dit staat ook altijd aangegeven in de bronvermelding van de betreffende maatregel. 
+    Bekijk de zogenaamde 'mapping' tussen de maatregelen uit het Algoritmekader, het [Toetsingskader Algoritmes](../hulpmiddelen/toetsingskader-algemene-rekenkamer.md) en het [Onderzoekskader algoritmes](../hulpmiddelen/onderzoekskader-adr.md). Hierin zie je waar elke maatregel uit deze kaders terugkomt in het Algoritmekader. Dit staat ook altijd aangegeven in de bronvermelding van de betreffende maatregel.
 
     [Download mapping](https://github.com/MinBZK/Algoritmekader/blob/main/relatie-ak-tot-toetsingskaders.csv){ .md-button .md-button--primary }
 
@@ -31,7 +31,7 @@ De maatregelen zijn niet verplicht. Het zijn adviezen uit:
 > Onderzoek het ontwikkelde algoritme op onbewuste vooringenomenheid (discriminatie) door middel van een bias-analyse.
 
 Deze maatregel helpt om te voldoen aan de vereiste om niet te discrimineren. Maar deze maatregel is niet verplicht. Je organisatie mag ook eigen maatregelen nemen. Zolang je uiteindelijk maar voldoet aan de vereiste.
-    
+
 ## Aantal maatregelen verschilt per situatie
 Welke maatregelen handig zijn in jouw situatie, hangt af van:
 

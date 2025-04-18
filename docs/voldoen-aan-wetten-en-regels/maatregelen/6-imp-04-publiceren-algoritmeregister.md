@@ -16,10 +16,10 @@ rollen:
 - projectleider
 - beleid-en-advies
 sources:
-  ADR: 
+  ADR:
   - SV.14
   - PRI.8
-  ARK: 
+  ARK:
   - 2.11
   - 3.12
   - 3.14
@@ -33,7 +33,7 @@ hide:
 
 ## Maatregel
 
-Publiceer het algoritme  in het [Nederlandse Algoritmeregister](../hulpmiddelen/algoritmeregister.md).  
+Publiceer het algoritme  in het [Nederlandse Algoritmeregister](../hulpmiddelen/algoritmeregister.md).
 
 ## Toelichting
 - De regering wil dat de overheid algoritmes verantwoord gebruikt. Mensen moeten erop kunnen vertrouwen dat algoritmes voldoen aan de waarden en normen van de samenleving.
@@ -42,12 +42,12 @@ Publiceer het algoritme  in het [Nederlandse Algoritmeregister](../hulpmiddelen/
 - In het Algoritmeregister moet uitleg zijn over hoe algoritmes of het proces wat hiermee wordt ondersteund werkt.
 - Er is een [Handreiking Algoritmeregister](https://www.digitaleoverheid.nl/document/handreiking-algoritmeregister/) opgesteld met informatie over het publiceren van algoritmes in het Algoritmeregister.
 - De [Algoritmeregister Publicatiestandaard](https://regels.overheid.nl/standaarden/algoritmeregister-publicatiestandaard) kan overheidsorganisaties ondersteunen bij het helpen invullen van het Algoritmeregister.
-- Sommige overheidsorganisaties publiceren hun algoritmes ook in een eigen Algoritmeregister, zodat burgers dit makkelijker kunnen vinden. Bijvoorbeeld het [Algoritmeregister van de Gemeente Rotterdam](https://algoritmeregister.rotterdam.nl/p/Onzealgoritmes), het [Algoritmeregister van de Gemeente Amsterdam](https://algoritmeregister.amsterdam.nl/) of het [Algoritmeregister van het UWV](https://www.uwv.nl/nl/over-uwv/organisatie/algoritmeregister-uwv). 
-- Zorg na publicatie dat de informatie in het Algoritmeregister up-to-date blijft en indien nodig regelmatig wordt aangepast. 
-- Eventueel kan je meer informatie over het algoritme openbaar beschikbaar stellen. Bijvoorbeeld door het publiceren van de modelcode op een site zoals GitHub of GitLab. 
+- Sommige overheidsorganisaties publiceren hun algoritmes ook in een eigen Algoritmeregister, zodat burgers dit makkelijker kunnen vinden. Bijvoorbeeld het [Algoritmeregister van de Gemeente Rotterdam](https://algoritmeregister.rotterdam.nl/p/Onzealgoritmes), het [Algoritmeregister van de Gemeente Amsterdam](https://algoritmeregister.amsterdam.nl/) of het [Algoritmeregister van het UWV](https://www.uwv.nl/nl/over-uwv/organisatie/algoritmeregister-uwv).
+- Zorg na publicatie dat de informatie in het Algoritmeregister up-to-date blijft en indien nodig regelmatig wordt aangepast.
+- Eventueel kan je meer informatie over het algoritme openbaar beschikbaar stellen. Bijvoorbeeld door het publiceren van de modelcode op een site zoals GitHub of GitLab.
 
 ## Risico
-Betrokkenen zijn niet op de hoogte dat hun persoonsgegevens worden verwerkt met een algoritme, waardoor zij hier geen controle over hebben. 
+Betrokkenen zijn niet op de hoogte dat hun persoonsgegevens worden verwerkt met een algoritme, waardoor zij hier geen controle over hebben.
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
@@ -56,14 +56,14 @@ Betrokkenen zijn niet op de hoogte dat hun persoonsgegevens worden verwerkt met 
 ## Bronnen
 - [Handreiking Algoritmeregister](https://www.digitaleoverheid.nl/document/handreiking-algoritmeregister/)
 - [Algoritmeregister Publicatiestandaard](https://regels.overheid.nl/standaarden/algoritmeregister-publicatiestandaard)
-- [Toetsingskader Algoritmes Algemene Rekenkamer, 2.11, 3.12, 3.14, 3.16](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) 
-- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.14, PRI.8](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) 
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 2.11, 3.12, 3.14, 3.16](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
+- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.14, PRI.8](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 
 
 ## Voorbeelden
 !!! example "Best Beschreven Algoritme Award"
- 
-Het algoritme 'Eerste Hulp bij Geldzaken' van de gemeente Groningen is het [best beschreven algoritme van 2023](https://www.digitaleoverheid.nl/nieuws/groningen-wint-best-beschreven-algoritme-award/) in het Algoritmeregister. Volgens de jury zijn de technische en ethische aspecten helder beschreven. En burgers krijgen een volledig beeld over de manier waarop de gemeente het algoritme inzet en gebruikt. Hierbij verwijst de gemeente naar externe pagina’s voor meer uitleg.
-           
 
-Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
+Het algoritme 'Eerste Hulp bij Geldzaken' van de gemeente Groningen is het [best beschreven algoritme van 2023](https://www.digitaleoverheid.nl/nieuws/groningen-wint-best-beschreven-algoritme-award/) in het Algoritmeregister. Volgens de jury zijn de technische en ethische aspecten helder beschreven. En burgers krijgen een volledig beeld over de manier waarop de gemeente het algoritme inzet en gebruikt. Hierbij verwijst de gemeente naar externe pagina’s voor meer uitleg.
+
+
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

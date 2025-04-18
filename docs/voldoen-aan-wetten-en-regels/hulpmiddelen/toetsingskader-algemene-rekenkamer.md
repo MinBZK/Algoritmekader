@@ -1,8 +1,8 @@
 ---
-title: Toetsingskader Algoritmes Algemene Rekenkamer 
+title: Toetsingskader Algoritmes Algemene Rekenkamer
 toelichting: Het toetsingskader voor algoritmes is een praktisch instrument waarmee (overheids)organisaties kunnen toetsen of algoritmes voldoen aan bepaalde kwaliteitscriteria én of de risico’s voldoende in beeld zijn en/of worden beperkt.
-categorie: 
-- toetsingskader 
+categorie:
+- toetsingskader
 vereiste:
 - avg-01-persoonsgegevens-worden-rechtmatig-verwerkt
 - avg-02-beperkte-bewaartermijn-van-persoonsgegevens
@@ -17,7 +17,7 @@ levenscyclus:
 - monitoring-en-beheer
 - verificatie-en-validatie
 onderwerp:
-- governance  
+- governance
 rollen:
 - projectleider
 - beleid-en-advies
@@ -42,7 +42,7 @@ Het digitale toetsingskader 'Aandacht voor algoritmes' is ontwikkeld vanwege de 
 Dit onderzoekskader is erg overkoepelend (net als het [onderzoekskader van de ADR](onderzoekskader-adr.md)). Er zijn dan ook veel maatregelen in het Algoritmekader gebaseerd op maatregelen die in het kader van de Algemene Rekenkamer staan. [Bekijk alle maatregelen van het Algoritmekader hier](../maatregelen/index.md).
 
 ## Auteur
-Het Toetsingskader Algoritmes is ontwikkeld door de Algemene Rekenkamer 
+Het Toetsingskader Algoritmes is ontwikkeld door de Algemene Rekenkamer
 
 ## Bijbehorende vereisten { data-search-exclude }
 

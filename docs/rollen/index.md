@@ -19,10 +19,10 @@ hide:
 
 
 -   [__Jurist__](jurist.md)
-    
+
     ---
 
-    Juristen zorgen ervoor dat de organisatie bij het ontwikkelen en gebruiken van algoritmes voldoet aan de wettelijke verplichtingen en beginselen van behoorlijk bestuur. Bijvoorbeeld een privacy-jurist, compliance-officer of functionaris gegevensbescherming (FG). 
+    Juristen zorgen ervoor dat de organisatie bij het ontwikkelen en gebruiken van algoritmes voldoet aan de wettelijke verplichtingen en beginselen van behoorlijk bestuur. Bijvoorbeeld een privacy-jurist, compliance-officer of functionaris gegevensbescherming (FG).
 
 -   [__Ontwikkelaar__](ontwikkelaar.md)
 

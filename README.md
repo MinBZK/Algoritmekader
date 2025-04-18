@@ -54,6 +54,37 @@ betaalde versie mogelijk te maken, zit in `requirements.txt` de publiek toegange
 [mkdocs-material](https://pypi.org/project/mkdocs-material/) Python package met beperkte functionaliteit. In deze versie
 werken de navigatie broodkruimels niet.
 
+
+## Validatie Tools
+
+In de map `.github/scripts` vind je scripts die de consistentie van het Algoritmekader controleren:
+
+- `validate_urn_uniqueness.py`: Controleert of alle URNs uniek zijn
+- `validate_lifecycles.py`: Controleert of levenscyclus-waarden geldig zijn
+- `validate_file_prefix_urn.py`: Controleert of bestandsnamen overeenkomen met URNs
+
+### Gebruik
+
+Bij pull requests worden deze validaties automatisch uitgevoerd via GitHub Actions. Je kunt ze ook lokaal draaien:
+
+```bash
+# Installeer benodigde dependencies
+pip install pyyaml
+
+# Voer alle validaties uit
+python .github/scripts/run_all_validations.py
+```
+
+De scripts controleren:
+- Dat er geen dubbele URNs zijn (bijvoorbeeld `urn:nl:ak:mtr:org-02`)
+- Dat alle levenscyclus-waarden geldig zijn (zoals `organisatieverantwoordelijkheden`, `ontwikkelen`)
+- Dat bestandsnamen consistent zijn met hun URNs
+
+Index bestanden (`index.md`) worden automatisch overgeslagen en bestandsnamen met numerieke voorvoegsels (zoals `0-org-01-...`) worden correct herkend.
+
+Voor meer details, zie de README in de `.github/scripts` map.
+
+
 ## Vragen?
 
 Maak een [Issue](https://github.com/MinBZK/Algoritmekader/issues) aan op GitHub. Of stuur een e-mail naar

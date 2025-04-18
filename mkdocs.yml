@@ -30,12 +30,12 @@ theme:
         annotation: fontawesome/solid/circle-info
 
 nav:
-    - Basiskennis algoritmes en AI:
-         - overhetalgoritmekader/index.md 
-         - overhetalgoritmekader/soorten-algoritmes.md
-         - overhetalgoritmekader/risico-van-ai-systemen.md
-         - overhetalgoritmekader/impact-van-algoritmes.md
-         - overhetalgoritmekader/definities.md
+    - Soorten algoritmes en AI:
+         - soorten-algoritmes-en-ai/index.md 
+         - soorten-algoritmes-en-ai/wat-is-een-algoritme.md
+         - soorten-algoritmes-en-ai/risico-van-ai-systemen.md
+         - soorten-algoritmes-en-ai/impact-van-algoritmes.md
+         - soorten-algoritmes-en-ai/definities.md
     - Onderwerpen:
         # - Overzicht: onderwerpen/index.md
         - ... | onderwerpen/*.md

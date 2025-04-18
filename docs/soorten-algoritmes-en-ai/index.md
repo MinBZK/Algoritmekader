@@ -27,6 +27,12 @@ hide:
 
     Impactvolle algoritmes registreer je in het Algoritmeregister.
 
+-   [__Generatieve AI__](generatieve-ai.md)
+    
+    ---
+
+    Overheden mogen werken met generatieve AI, zolang zij deze op een verantwoorde manier ontwikkelen, inkopen en gebruiken.
+
 -   [__Woordenlijst__](definities.md)
 
     ---

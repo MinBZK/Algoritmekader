@@ -38,7 +38,7 @@ Hoe je transparantie organiseert, hangt af van:
 * de doelgroep die je wil bereiken
 * de [levenscyclus-fase](../levenscyclus/index.md) van je algoritme
 
-Onderzoek goed welk [soort algoritme](../overhetalgoritmekader/soorten-algoritmes.md) je gebruikt of wil gebruiken. Hoe groter de impact en het risico, hoe strenger de vereisten.
+Onderzoek goed welk [soort algoritme](../soorten-algoritmes-en-ai/wat-is-een-algoritme.md) je gebruikt of wil gebruiken. Hoe groter de impact en het risico, hoe strenger de vereisten.
 
 De keuze voor het soort algoritme bepaalt ook hoe transparant je kunt zijn. Van rekenregels kun je namelijk precies uitleggen hoe deze tot een beslissing komen.
 

@@ -12,13 +12,13 @@ hide:
     <span class="version-container">
       <span class="version-label">Versie 2.1</span>
       <div class="hover-info">
-        <p>Deze website is in ontwikkeling. Alle versies ontstaan op een open manier. <a href="overhetalgoritmekader/CONTRIBUTING/">Iedereen mag opmerkingen of suggesties geven.</a></p>
+        <p>Deze website is in ontwikkeling. Alle versies ontstaan op een open manier. <a href="soorten-algoritmes-en-ai/CONTRIBUTING/">Iedereen mag opmerkingen of suggesties geven.</a></p>
       </div>
     </span>
     </div>
 </div>
 
-<a href="overhetalgoritmekader/over-het-algoritmekader/" class="button md-button--secondary">Over het algoritmekader</a> 
+<a href="soorten-algoritmes-en-ai/over-het-algoritmekader/" class="button md-button--secondary">Over het algoritmekader</a> 
 
 <div class="float-container">
 
@@ -27,9 +27,9 @@ hide:
     <div class="float-box">
     <h3><b>Soorten algoritmes en AI</b></h3>
     <ul>
-      <li><a href="overhetalgoritmekader/wat-is-een-algoritme/">Wat is een algoritme?</a></li>
-      <li><a href="overhetalgoritmekader/generatieve-ai/">Generatieve AI</a></li>
-       <li><a href="overhetalgoritmekader/risico-van-ai-systemen/">Risico van AI-systemen</a></li>
+      <li><a href="soorten-algoritmes-en-ai/wat-is-een-algoritme/">Wat is een algoritme?</a></li>
+      <li><a href="soorten-algoritmes-en-ai/generatieve-ai/">Generatieve AI</a></li>
+       <li><a href="soorten-algoritmes-en-ai/risico-van-ai-systemen/">Risico van AI-systemen</a></li>
     </ul>
     
   </div>

@@ -36,7 +36,7 @@ De persoonsgegevens die overblijven, gebruik je zo minimaal mogelijk. Hoe minima
     Leg de keuzes die je maakt duidelijk uit. Zo voorkom je fouten op de werkvloer. Persoonsgegevens die zijn verzameld voor doel A mogen bijvoorbeeld alleen onder specifieke voorwaarden voor doel B gebruiken.
 
 ## Belang van privacy en persoonsgegevens beschermen
-Algoritmes die persoonsgegevens verwerken, kunnen snel de privacy schenden van grote groepen mensen. Vooral [impactvolle algoritmes](../overhetalgoritmekader/impact-van-algoritmes.md) kunnen veel schade veroorzaken in de maatschappij.
+Algoritmes die persoonsgegevens verwerken, kunnen snel de privacy schenden van grote groepen mensen. Vooral [impactvolle algoritmes](../soorten-algoritmes-en-ai/impact-van-algoritmes.md) kunnen veel schade veroorzaken in de maatschappij.
 
 Wanneer je de privacy en persoonsgegevens van mensen goed beschermt, verlaag je de kans op:
 

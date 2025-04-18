@@ -178,7 +178,7 @@ def _badge_onderwerp(page: Page, files: Files, blok: str):
 # Create badge for soort-toepassing
 def _badge_soort_toepassing(page: Page, files: Files, soort: str):
     icon = "material-graph"
-    href_soort_toepassing = _resolve_path("overhetalgoritmekader/soorten-algoritmes.md", page, files)
+    href_soort_toepassing = _resolve_path("soorten-algoritmes-en-ai/wat-is-een-algoritme.md", page, files)
     href_fase = href_soort_toepassing
     if soort == "ai-systeem":
         href_fase = _resolve_path("voldoen-aan-wetten-en-regels/ai-verordening.md#ai-systeem", page, files)
@@ -198,9 +198,9 @@ def _badge_risicogroep(page: Page, files: Files, risicogroep: str):
     icon = "material-alert"
     href_risicogroep = _resolve_path("voldoen-aan-wetten-en-regels/ai-verordening.md#risicogroepen", page, files)
     if risicogroep == "geen-hoog-risico-ai-systeem":
-        href_fase = _resolve_path(f"overhetalgoritmekader/risico-van-ai-systemen.md#hoog-risico-ai-systeem", page, files)
+        href_fase = _resolve_path(f"soorten-algoritmes-en-ai/risico-van-ai-systemen.md#hoog-risico-ai-systeem", page, files)
     else:
-        href_fase = _resolve_path(f"overhetalgoritmekader/risico-van-ai-systemen.md#{risicogroep}", page, files)
+        href_fase = _resolve_path(f"soorten-algoritmes-en-ai/risico-van-ai-systemen.md#{risicogroep}", page, files)
     return _badge(
         icon=f"[:{icon}:]({href_risicogroep} 'Risicogroep')",
         text=f"[{risicogroep.capitalize().replace('-', ' ').replace('ai', 'AI').replace('AI ', 'AI-')}]({href_fase})",
@@ -224,7 +224,7 @@ def _badge_rol_ai_act(page: Page, files: Files, rol: str):
 # Create badge for transparantieverplichting
 def _badge_transparantieverplichting(page: Page, files: Files, rol: str):
     icon = "material-magnify"
-    href_transparantieverplichting = _resolve_path("overhetalgoritmekader/risico-van-ai-systemen.md#risico-op-misleiding", page, files)
+    href_transparantieverplichting = _resolve_path("soorten-algoritmes-en-ai/risico-van-ai-systemen.md#risico-op-misleiding", page, files)
     return _badge(
         icon=f"[:{icon}:]({href_transparantieverplichting} 'Transparantieverplichting AI-verordening')",
         text=f"[{rol.capitalize().replace('-', ' ')}]({href_transparantieverplichting})",

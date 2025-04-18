@@ -83,7 +83,7 @@ Hierdoor kan geen verantwoording worden geboden.
 - [Onderzoekskader Auditdienst Rijk, DM.14](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [MLOps Principles: Reproducability](https://ml-ops.org/content/mlops-principles#reproducibility)
 - [Ministerie van Infrastructuur en Waterstaat, AI Impact Assessment](https://www.rijksoverheid.nl/documenten/rapporten/2022/11/30/ai-impact-assessment-ministerie-van-infrastructuur-en-waterstaat)
-- [Harald Semmelrock, et al., Reproducibility in Machine Learning-Driven Research](https://arxiv.org/pdf/2307.10320)
+- [Harald Semmelrock, et al., Reproducibility in Machine Learning-Driven Research](https://arxiv.org/abs/2307.10320)
 - [Odd Erik Gundersen, et al., Do machine learning platforms provide out-of-the-box reproducibility?](https://www.sciencedirect.com/science/article/pii/S0167739X21002090)
 - [Odd Erik Gundersen, et al., State of the Art: Reproducibility in Artificial Intelligence ](https://ojs.aaai.org/index.php/AAAI/article/view/11503)
 

@@ -35,7 +35,7 @@ Het is belangrijk om te benadrukken dat het hierbij gaat om de juridische onderg
 Aan de regels uit dit toetsingskader moet de overheid zich dus ten minste houden. Dit laat onverlet dat de overheid kan beslissen om strengere regels te hanteren.
 
 ##### *Vervanging van het toetsingskader uit 2021*
-Het College voor de Rechten van de Mens publiceerde in 2021 het [toetsingskader Discriminatie door Risicoprofielen](https://publicaties.mensenrechten.nl/publicatie/61a734e65d726f72c45f9dce). Het nieuwe toetsingskader moet gezien worden als een doorontwikkelde, geheel herziene versie die de versie uit 2021 vervangt. 
+Het College voor de Rechten van de Mens publiceerde in 2021 het 'toetsingskader Discriminatie door Risicoprofielen'. Het nieuwe toetsingskader moet gezien worden als een doorontwikkelde, geheel herziene versie die de versie uit 2021 vervangt. 
 Omdat het non-discriminatierecht bij beide toetsingskader het uitgangspunt is, zullen ook onderdelen uit het toetsingskader 2021 terugkomen in deze nieuwe versie. 
 
 ## Relevantie

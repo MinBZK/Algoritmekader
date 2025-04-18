@@ -38,7 +38,7 @@ Als organisatie moet je zelf bepalen of de gegevensverwerking een hoog privacyri
 En je dus een DPIA moet uitvoeren. 
 De volgende criteria kunnen hierbij helpen:
 
-*  Wat er in de [Algemene verordening gegevensbescherming (AVG)](https://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=CELEX:32016R0679#page=53) staat over wanneer je een DPIA moet uitvoeren.
+*  Wat er in de [Algemene verordening gegevensbescherming (AVG)](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32016R0679) staat over wanneer je een DPIA moet uitvoeren.
 *  De[ lijst van de Autoriteit Persoonsgegevens (AP)](https://www.autoriteitpersoonsgegevens.nl/documenten/lijst-verplichte-dpia) met soorten verwerkingen waarvoor je een DPIA moet uitvoeren.
 *  De [9 criteria voor een DPIA van de Europese privacytoezichthouders](https://autoriteitpersoonsgegevens.nl/themas/basis-avg/praktisch-avg/data-protection-impact-assessment-dpia#wat-zijn-de-criteria-van-de-europese-privacytoezichthouders-6668).
 

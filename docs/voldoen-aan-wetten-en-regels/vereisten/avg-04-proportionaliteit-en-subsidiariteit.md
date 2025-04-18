@@ -64,7 +64,7 @@ Het is van belang om deze principes te hanteren om te bepalen of en in [welke vo
 - [Artikel 5(1)(c) Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679) 
 - [Overweging 170 Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679) 
 - [Artikel 5(4) Verdrag betreffende de Europese Unie, Maastricht, 07-02-1992](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&titeldeel=I&artikel=5&z=2013-07-01&g=2013-07-01) |
-- [Artikel 52 Handvest van de Grondrechten van de Europese Unie](https://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=CELEX:12012P/TXT) 
+- [Artikel 52, Handvest van de grondrechten van de Europese Unie](https://eur-lex.europa.eu/legal-content/NL/ALL/?uri=CELEX:C2012/326/02) 
 - [Protocol betreffende de toepassing van de beginselen van subsidiariteit en evenredigheid Verdrag betreffende de Europese Unie, Maastricht, 07-02-1992](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=1&z=2013-07-01&g=2013-07-01) 
 - [Artikel 1.10, 1.13 en 1.16 Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=1&hoofdstuk=1.2&afdeling=1.2.2&artikel=1.10&z=2022-03-02&g=2022-03-02) 
 

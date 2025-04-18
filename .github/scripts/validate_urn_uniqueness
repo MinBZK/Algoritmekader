@@ -55,6 +55,10 @@ def scan_directory(directory):
     
     for root, _, files in os.walk(directory):
         for filename in files:
+            # Sla index.md bestanden over
+            if filename == 'index.md':
+                continue
+                
             file_path = os.path.join(root, filename)
             file_ext = os.path.splitext(filename)[1].lower()
             

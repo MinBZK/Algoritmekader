@@ -13,9 +13,9 @@ from pathlib import Path
 # Script configuratie
 SCRIPTS_DIR = os.path.dirname(os.path.abspath(__file__))
 VALIDATION_SCRIPTS = [
-    'validate_urn_uniqueness.py',
-    'validate_lifecycles.py',
-    'validate_file_prefix_urn.py'
+    'validate_urn_uniqueness',
+    'validate_lifecycles',
+    'validate_file_prefix_urn'
 ]
 
 def run_script(script_path):

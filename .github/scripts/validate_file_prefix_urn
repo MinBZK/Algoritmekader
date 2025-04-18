@@ -60,6 +60,7 @@ def get_identifier_from_urn(urn):
 def validate_file_prefix(file_path, urn):
     """
     Controleer of bestandsnaam de juiste prefix heeft op basis van URN
+    Ondersteunt ook numerieke voorvoegsels (zoals 0-, 1-, 2-) voor maatregelen
     """
     file_name = os.path.basename(file_path)
     identifier = get_identifier_from_urn(urn)
@@ -68,13 +69,18 @@ def validate_file_prefix(file_path, urn):
         print(f"ERROR: Kan identifier niet extraheren uit URN \"{urn}\" in {file_path}")
         return False
     
-    # Bestand moet beginnen met de identifier gevolgd door een koppelteken
-    # bijv. "org-02-beschrijving-van-maatregel.md"
-    expected_prefix = f"{identifier}-"
-    if not file_name.startswith(expected_prefix):
+    # Voor het Algoritmekader kunnen bestanden beginnen met een optioneel numeriek voorvoegsel 
+    # zoals "0-", "1-", "2-" gevolgd door de identifier en een koppelteken
+    # bijv. "0-org-02-beschrijving-van-maatregel.md" of "org-02-beschrijving-van-maatregel.md"
+    
+    # Reguliere expressie patroon voor: optioneel cijfer gevolgd door koppelteken, 
+    # dan de exacte identifier, dan een koppelteken
+    pattern = fr"^(?:\d+-)?{re.escape(identifier)}-"
+    
+    if not re.search(pattern, file_name):
         print(f"ERROR: Bestandsprefix komt niet overeen in {file_path}")
         print(f"  URN: {urn}")
-        print(f"  Verwachte bestandsnaam start met: {expected_prefix}")
+        print(f"  Verwacht bestandsnaampatroon: [optioneel cijfer-]{identifier}-...")
         print(f"  Werkelijke bestandsnaam: {file_name}")
         return False
     
@@ -93,6 +99,10 @@ def scan_directory(directory):
     
     for root, _, files in os.walk(directory):
         for filename in files:
+            # Sla index.md bestanden over
+            if filename == 'index.md':
+                continue
+                
             file_path = os.path.join(root, filename)
             file_ext = os.path.splitext(filename)[1].lower()
             

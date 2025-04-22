@@ -10,16 +10,14 @@ Generatieve AI is een vorm van kunstmatige intelligentie. Je gebruikt prompts, o
 
 Meestal draaien generatieve AI-toepassingen op <span lang="en">_large language models_</span> (LLMs). Dit houdt in dat de applicatie getraind is op grote hoeveelheden data, waaruit het heeft ‘geleerd’ om patronen en structuren te herkennen. Op basis van die patronen voorspelt het getrainde model het meest logische volgende element in bijvoorbeeld een zin. AI-chatbots, zoals ChatGPT, Gemini en Microsoft CoPilot, genereren hierdoor lopende zinnen en alinea’s. Deze antwoorden zijn niet altijd betrouwbaar. Geeft een chatbot onjuiste informatie, dan heet dit ‘hallucineren.’
 
-## De overheid en generatieve AI
-De overheid heeft [één standpunt voor het gebruik van generatieve AI](link-nog-toevoegen) opgesteld. Dat is van toepassing op alle overheidsorganisaties, dus niet alleen de Rijksoverheid.
+## Verantwoord gebruik door de overheid
+De overheid heeft [één standpunt voor het gebruik van generatieve AI](link-nog-toevoegen) opgesteld. Dit standpunt geldt voor alle overheidsorganisaties.
 
 Generatieve AI biedt veel kansen. De overheid stimuleert overheidsorganisaties om deze technologie te gebruiken bij het zoeken naar nieuwe oplossingen voor problemen. Bijvoorbeeld als hulpmiddel voor brainstormen, softwareontwikkeling en tekstbewerking.
 
 Het is van belang dat generatieve AI op een juiste en verantwoorde manier wordt ingezet. De burger moet betrouwbare informatie krijgen en mag niet onrechtmatig worden behandeld wanneer de overheid generatieve AI inzet. Wees je bewust van de beperkingen en valkuilen van generatieve AI. Anders kan het vertrouwen van de burger worden geschaad.
 
-Naast de vereisten en aanbevelingen die voor alle AI-toepassingen gelden zijn er een aantal zaken waar je bij generatieve AI specifiek rekening mee moet houden. Deze pagina geeft een overzicht van de belangrijkste. De [Overheidsbrede handreiking generatieve AI](link-nog-toevoegen) gaat hier dieper op in. Het Algoritmekader biedt handvatten om deze zaken in de praktijk uit te werken.
-
-## Vereisten
+## Belangrijkste plichten voor overheden die generatieve AI gebruiken
 * [Bestaande wetgeving wordt gevolgd](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/) (zoals de AI-verordening, de AVG en de Grondwet).
 * Het doel om generatieve AI in te zetten is duidelijk geformuleerd.
 * De generatieve AI-toepassing is verantwoord en veilig bevonden door middel van een [risico-analyse](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/0-org-03-toepassen-risicobeheer/) (bijvoorbeeld een [DPIA](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/DPIA/) of [IAMA](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/IAMA/)). Dit geldt in het bijzonder wanneer er persoonsgegevens verwerkt worden.
@@ -32,7 +30,7 @@ Naast de vereisten en aanbevelingen die voor alle AI-toepassingen gelden zijn er
 * Er worden géén generatieve AI-toepassingen gebruikt die online voor iedereen toegankelijk zijn, zoals ChatGPT.
 * Wanneer externe partijen diensten leveren aan de overheid en daarbij overheidsgegevens verwerken in generatieve AI, gelden deze vereisten en richtlijnen ook voor hen. Voorbeeld: adviesbureau Bereschot neemt interviews af met overheidsmedewerkers en gebruikt generatieve AI om deze te transcriberen en samen te vatten.
 
-## Aanbevolen maatregelen
+## Verdere tips
 * Het inkopen van generatieve AI-toepassingen heeft wat meer haken en ogen dan 'gewone' AI. Stel hiervoor goede [inkoopvoorwaarden](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/inkoopvoorwaarden/) op.
 * Werk bij voorkeur met een open toepassing of model, waar mogelijk ook met een open source-toepassing of model. Meer informatie hierover vind je op [de website van het Open Source Initiative](https://opensource.org/ai/open-source-ai-definition).
 * Gebruik bij voorkeur een generatieve AI-toepassing die binnen Europa is ontwikkeld en wordt beheerd. Deze zijn vaak beter ingesteld op de Nederlandse taal en maken ons minder afhankelijk van niet-EU-landen.

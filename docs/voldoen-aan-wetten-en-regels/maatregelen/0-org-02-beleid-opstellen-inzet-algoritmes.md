@@ -43,7 +43,7 @@ Een duidelijk beleid over de inzet van algoritmes helpt organisaties te voldoen 
     - Een intern registratiesysteem, bijvoorbeeld voor het registreren van laag risico of niet-impactvolle algoritmes zodat deze informatie voor medewerkers beschikbaar is.
     - In welke gevallen een [(openbaar) besluit](6-imp-08-politiek-bestuurlijk-besluit.md) wordt genomen door het bestuur over de inzet van een algoritme. 
 
-- Of algoritmes zelf worden ontwikkeld, of dat algoritmes of systemen worden [ingekocht](../../onderwerpen/publieke-inkoop.md). Dit vraagt om een andere governacnestructuur en aanpak. 
+- Of algoritmes zelf worden ontwikkeld, of dat algoritmes of systemen worden [ingekocht](../../onderwerpen/publieke-inkoop.md). Dit vraagt om een andere governancestructuur en aanpak. 
 
 - Er is beschreven welke informatie over welke typen algoritmes wordt gecommuniceerd met betrokkenen bij de ontwikkeling of gebruik ervan door de organisatie. 
 - Stel dit beleid op voor zowel:
@@ -69,11 +69,8 @@ Zonder duidelijk beleid over de inzet van algoritmes kan het gebeuren dat algori
     <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
-
-Geen beschikbare bron voor deze maatregel.
-
-## Bronnen
 - [Onderzoekskader Auditdienst Rijk, SV.8](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [IPO Whitepaper ChatGPT, overwegingen voor verantwoord gebruik](https://www.ipo.nl/media/5u4gjtr5/ipo-whitepaper-verkenning-chatgpt.pdf)
 
 ## Voorbeelden
 

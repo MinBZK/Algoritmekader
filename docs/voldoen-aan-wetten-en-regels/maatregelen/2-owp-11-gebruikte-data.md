@@ -28,10 +28,16 @@ Beschrijf welke data gebruikt wordt voor de beoogde toepassing.
 - Leg na het uitvoeren van een [beschikbaarheids-](2-owp-02-data-beschikbaarheid.md), [kwaliteits-](3-dat-01-datakwaliteit.md) en toegankelijkheidsanalyse vast welke data wordt verwerkt voor het ontwikkelen en gebruiken van het algoritme.
 - Beschrijf daarbij om wat voor gegevens het gaat en uit welke bron deze komen.
 - Bepaal of het is [toegestaan om deze data](2-owp-03-doel-verwerken-persoonsgegevens.md) te verwerken.
-- Het is denkbaar dat het onderzoek van de kwaliteit van de data in een latere fase in de levenscyclus pas grondig kan worden uitgevoerd. 
+- Het is denkbaar dat het onderzoek van de kwaliteit van de data in een latere fase in de levenscyclus pas grondig kan worden uitgevoerd.
+
+## Generatieve AI
+Bij generatieve AI kan er sprake zijn van een model dat verder getraind wordt door ingegeven data.
+
+- Bepaal of het model verder getraind zal worden, en zo ja, met welke data.
+- Beschrijf of deze data wordt opgeslagen, wie toegang heeft, en hoe de integriteit hiervan wordt gewaarborgd.
 
 ## Risico
-Als er niet wordt beschreven welke data wordt gebruikt voor een toepassing wordt het risico gelopen dat bij gebruik van een algoritme er kans is op bias-vorming en mindere transparantie. 
+Als er niet wordt beschreven welke data wordt gebruikt voor een toepassing wordt het risico gelopen dat bij gebruik van een algoritme er kans is op bias-vorming en mindere transparantie. Bij generatieve AI kan er ook sprake zijn van data die ongewenst wordt verwerkt in de AI-toepassing.
 
 
 ## Bijbehorende vereiste(n) { data-search-exclude }

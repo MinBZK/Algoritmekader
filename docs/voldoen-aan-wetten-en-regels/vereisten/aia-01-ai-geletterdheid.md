@@ -68,6 +68,10 @@ Vanaf februari 2025 treedt deze vereiste in werking.
 
     Het AI-bureau van de EU heeft een aantal van de lopende best practices verzameld met als doel een [levend archief aan te leggen met voorbeelden van lopende praktijken op het gebied van AI-geletterdheid](https://digital-strategy.ec.europa.eu/en/library/living-repository-foster-learning-and-exchange-ai-literacy).
 
+!!! tip "Tip"
+
+    Op de website van de Rijksacademie voor Digitalisering en Informatisering Overheid (RADIO) vind je een [aantal links naar e-learnings en webinars over het gebruik van AI en generatieve AI](https://www.it-academieoverheid.nl/onderwerpen/a/artificiele-intelligentie). Zeker voor eindgebruikers die nog niet zo veel weten van AI bieden deze een goede basisopleiding.
+
 ## Bronnen 
 
 - [Artikel 4 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e2799-1-1)

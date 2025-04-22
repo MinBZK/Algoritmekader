@@ -32,6 +32,7 @@ Beschrijf welke data gebruikt wordt voor de beoogde toepassing.
 
 ## Generatieve AI
 Bij generatieve AI kan er sprake zijn van een model dat verder getraind wordt door ingegeven data.
+
 - Bepaal of het model verder getraind zal worden, en zo ja, met welke data.
 - Beschrijf of deze data wordt opgeslagen, wie toegang heeft, en hoe de integriteit hiervan wordt gewaarborgd.
 

@@ -50,6 +50,7 @@ Steeds meer organisaties kopen algoritmische toepassingen in die veel impact heb
 ## Generatieve AI
 
 Let bij het inkopen van generatieve AI specifiek op de volgende zaken.
+
 - Verken mogelijkheden van lokale of Europese dienstverleners van generatieve AI. Deze voldoen vaak eerder aan onze (Europese) veiligheidsstandaarden dan niet-Europese dienstverleners. Dit voorkomt ook _vendor lock-in_, i.e. dat je vastzit aan een aanbieder omdat de kosten van wisselen te hoog zijn.
 - Niet alle taalmodellen kunnen even goed omgaan met de Nederlandse taal. Europese initiatieven, zoals [EuroLLM](https://sites.google.com/view/eurollm/home) en [OpenGPT-X Teuken-modellen](https://www.iais.fraunhofer.de/en/business-areas/speech-technologies/conversational-ai/opengpt-x.html), besteden extra aandacht aan Europese talen.
 - Maak afspraken over de toegang tot en het gebruik, de opslag en logging van gegevens. Doe dit vanuit de datastrategie van je organisatie. Zorg ervoor dat de leverancier de dienst actief monitort op dit gebied en zorg voor controle over eigen data.

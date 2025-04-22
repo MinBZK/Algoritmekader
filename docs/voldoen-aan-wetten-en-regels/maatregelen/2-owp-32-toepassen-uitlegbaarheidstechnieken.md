@@ -39,6 +39,10 @@ Onderzoek hoe uitlegbaarheidstechnieken kunnen bijdragen aan het motiveren van b
 	
 - De output van het algoritme te koppelen aan het zaakdossier, met een toelichting op de interpretatie van die output.
 - De output of een samenvatting hiervan op te nemen in de beschikking.
+
+### Generatieve AI
+
+Bij gebruik van generatieve AI is het haast onmogelijk om direct uitlegbaar te maken hoe een uitkomst tot stand is gekomen. Om toch (deels) uitleg te kunnen geven over de werking van een generatief AI-model kun je uitleg verschaffen over de capaciteiten, beperkingen en trainingsdata van het AI-model. Daarnaast is het verstanding om te onderzoeken wat de risico's zijn als de uitkomsten van een generatief AI-systeem niet uitgelegd kunnen worden.
  
 ### Beperkingen en veiligheid
 

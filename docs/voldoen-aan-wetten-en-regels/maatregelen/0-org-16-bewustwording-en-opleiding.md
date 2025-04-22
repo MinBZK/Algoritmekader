@@ -42,6 +42,7 @@ Maak een meerjarig actieplan om toe te werken naar een volwassen niveau van AI-g
 
 ### Relevante opleidingen
 - [E-learning Non-discriminatie in algoritmes en data](https://www.it-academieoverheid.nl/actueel/nieuws/2024/10/29/nieuwe-radio-e-learning-non-discriminatie)
+- [Basistrainingen AI en generatieve AI via RADIO](https://www.it-academieoverheid.nl/onderwerpen/a/artificiele-intelligentie)
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->

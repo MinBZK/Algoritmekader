@@ -29,7 +29,7 @@ hide:
     <ul>
       <li><a href="soorten-algoritmes-en-ai/wat-is-een-algoritme/">Wat is een algoritme?</a></li>
       <li><a href="soorten-algoritmes-en-ai/generatieve-ai/">Generatieve AI</a></li>
-       <li><a href="soorten-algoritmes-en-ai/risico-van-ai-systemen/">Risico van AI-systemen</a></li>
+      <li><a href="soorten-algoritmes-en-ai/risico-van-ai-systemen/">Risico van AI-systemen</a></li>
     </ul>
     
   </div>

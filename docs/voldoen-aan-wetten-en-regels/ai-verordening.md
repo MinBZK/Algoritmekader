@@ -6,7 +6,7 @@ hide: navigation
 
 
 # AI-verordening in het kort
-In de EU-verordening staan de Europese regels voor het verantwoord ontwikkelen en gebruiken van AI. Sommige AI-systemen zijn verboden vanaf 2 februari 2025. Andere AI-systemen moeten op zijn laatst in 2026 of 2030 voldoen aan bepaalde vereisten.
+In de AI-verordening staan de Europese regels voor het verantwoord ontwikkelen en gebruiken van AI. Sommige AI-systemen zijn verboden vanaf 2 februari 2025. Andere AI-systemen moeten op zijn laatst in 2026 of 2030 voldoen aan bepaalde vereisten.
 
 [Verordening (EU) 2024/1689 (AI-verordening)](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689)
 
@@ -19,7 +19,7 @@ De AI-verordening geldt in deze 3 situaties samen:
 * Dit doe je namens een overheid, bedrijf of andere organisatie.
 * Je organisatie is gevestigd in een EU-land.
 
-Het maakt niet uit waar je AI-producten ontwikkelt. Ontwikkel je buiten de EU, maar is je organisatie gevestigd in een EU-land? Dan geldt de EU-verordening.
+Het maakt niet uit waar je AI-producten ontwikkelt. Ontwikkel je buiten de EU, maar is je organisatie gevestigd in een EU-land? Dan geldt de AI-verordening.
   
 
 ## Verantwoord gebruik van AI

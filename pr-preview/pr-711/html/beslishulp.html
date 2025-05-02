@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Beslishulp</title>
+</head>
+<body>
+  <div id="app">
+    <script
+      data-showCloseOnEndMsg="Resultaten overnemen en afsluiten"
+      data-showCloseOnEnd="true"
+      data-showExplanationField="true"
+      data-showExportPDF="true"
+      data-fontPath="/Algoritmekader/assets/"
+      src="https://github.com/MinBZK/ai-verordening-beslishulp/releases/download/v.1.2.6/index.js">
+    </script>
+  </div>
+  
+  <script>
+    // Global click handler to catch all button clicks
+    document.addEventListener('click', function(event) {
+      // Check if the clicked element or any of its parents is our target button
+      var element = event.target;
+      while (element && element !== document) {
+        if (element.tagName === 'BUTTON' && 
+            element.textContent && 
+            element.textContent.includes('Resultaten overnemen en afsluiten')) {
+          
+          console.log('Button click detected, sending beslishulp-closing message');
+          
+          // Always try to grab the latest labels data
+          try {
+            var labelData = JSON.parse(sessionStorage.getItem("labelsbysubcategory"));
+            if (labelData) {
+              // Store this in a standardized location that won't be affected by timing issues
+              sessionStorage.setItem('beslishulp_closing_data', JSON.stringify(labelData));
+            }
+          } catch (e) {
+            console.error('Error storing label data:', e);
+          }
+          
+          // Send message to parent
+          if (window.parent) {
+            window.parent.postMessage({
+              event: 'beslishulp-closing',
+              hasLabels: !!labelData
+            }, '*');
+          }
+          
+          break;
+        }
+        element = element.parentElement;
+      }
+    }, true); // Use capture phase to ensure we catch the event early
+  </script>
+</body>
+</html>

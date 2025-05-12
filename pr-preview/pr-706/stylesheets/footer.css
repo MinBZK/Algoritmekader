@@ -1,0 +1,67 @@
+.md-footer {
+    background-color: #e6f3fb; /* Light blue background */
+    padding: 20px;
+    border-top: 6px solid #B2D7EE;
+  }
+  
+  .md-footer__inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.md-footer__links {
+    display: flex;
+    flex: 2;
+    max-width: 600px; /* Beperkt de breedte van de rechtersectie */
+    justify-content: flex-start;
+}
+  /* Left Section */
+  .md-footer__notice {
+    flex: 1;
+    color: #154273; /* Dark blue for readability */
+    font-size: 1.3em;
+  }
+  
+  .md-footer__column {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    min-width: 150px;
+    margin-left: auto;
+  }
+  
+  .md-footer__column a {
+    color: #154273; /* Darker link color */
+    text-decoration: underline;
+    font-size: 1.3em;
+    position: relative; /* Nodig voor positionering van de chevron */
+  }
+
+.md-footer__column a::before {
+    content: "›"; /* Unicode-karakter voor een chevron */
+    margin-right: 6px; /* Ruimte tussen de tekst en de chevron */
+    color: #154273; /* Matcht met de linkkleur */
+    display: inline-block;
+    transition: transform 0.2s ease; /* Animatie voor hover */
+}
+  
+  .md-footer__column a:hover, td:hover {
+    color: #316fb3;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .md-footer__inner {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+    
+    .md-footer__links {
+      flex-direction: column;
+      align-items: center;
+    }
+  }

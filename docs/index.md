@@ -12,13 +12,13 @@ hide:
     <span class="version-container">
       <span class="version-label">Versie 2.2</span>
       <div class="hover-info">
-        <p>Deze website is in ontwikkeling. Alle versies ontstaan op een open manier. <a href="soorten-algoritmes-en-ai/CONTRIBUTING/">Iedereen mag opmerkingen of suggesties geven.</a></p>
+        <p>Deze website is in ontwikkeling. Alle versies ontstaan op een open manier. <a href="{{ base_url }}/over-het-algoritmekader/CONTRIBUTING/">Iedereen mag opmerkingen of suggesties geven.</a></p>
       </div>
     </span>
     </div>
 </div>
 
-<a href="soorten-algoritmes-en-ai/over-het-algoritmekader/" class="button md-button--secondary">Over het algoritmekader</a> 
+<a href="{{ base_url }}/over-het-algoritmekader/over-het-algoritmekader/" class="button md-button--secondary">Over het algoritmekader</a> 
 
 <div class="float-container">
 

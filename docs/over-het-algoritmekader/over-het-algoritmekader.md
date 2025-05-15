@@ -33,8 +33,8 @@ Tot 19 december 2024 was deze website een bètaversie. De eerste versie van het 
 De informatie in het Algoritmekader komt open source tot stand. Dat betekent dat iedereen kan meekijken en zijn mening mag geven, of een voorstel mag doen:
 
 - Geef je [vraag of wijziging](CONTRIBUTING.md) door.
-- Sluit je aan bij een [werkgroep](https://algoritmes.pleio.nl/).
-- Doe mee aan een [(online) vergadering](https://algoritmes.pleio.nl/events) zoals onze demo na een nieuwe release van het Algoritmekader.
+- Sluit je aan bij een [werkgroep](https://aienalgoritmes.pleio.nl/).
+- Doe mee aan een [(online) vergadering](https://aienalgoritmes.pleio.nl/events) zoals onze demo na een nieuwe release van het Algoritmekader.
 
 ## Nieuwsbrief
 Via onze maandelijkse [Nieuwsbrief Algoritmes](https://algoritmeregister.email-provider.eu/memberforms/subscribe/standalone/form/?a=1pjwwoyxrs&l=vdfr1sbovb) blijf je op de hoogte over de ontwikkelingen van het Algoritmekader.

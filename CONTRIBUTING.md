@@ -8,18 +8,18 @@ hide:
 Allereerst, bedankt dat je de tijd hebt genomen om een bijdrage te leveren! ❤️
 
 We waarderen alle soorten bijdragen enorm. Zie die [Inhoudsopgave](#inhoudsopgave) voor verschillende manieren waarop je kan bijdragen aan het Algoritmekader.
-Zorg ervoor dat je de relevante hoofdstukken even leest voordat je een bijdrage levert.  
+Zorg ervoor dat je de relevante hoofdstukken even leest voordat je een bijdrage levert.
 Het zal het voor het team van het Algoritmekader een stuk makkelijker maken en de ervaring voor alle betrokkenen soepeler laten verlopen.
 We kijken uit naar alle bijdragen! 🎉
 
 > ## Opmerking
 > Werken in Github is voor het team Algoritmekader nieuw en experimenteel.
-> Dit vraagt voor ons om een aangepaste werkwijze en hier is bepaalde expertise voor nodig. 
-> Het begin is gemaakt en het team Algoritmekader is nog lerende om hier optimaal invulling aan te geven. 
-> Hierdoor kan het iets langer duren voordat er wordt gereageerd op suggesties of toevoegingen. 
+> Dit vraagt voor ons om een aangepaste werkwijze en hier is bepaalde expertise voor nodig.
+> Het begin is gemaakt en het team Algoritmekader is nog lerende om hier optimaal invulling aan te geven.
+> Hierdoor kan het iets langer duren voordat er wordt gereageerd op suggesties of toevoegingen.
 > We werken aan een duidelijk proces om hier goed mee om te gaan (deze guidelines zijn daar een voorbeeld van).
-> Daarnaast werken we niet aan alle bouwblokken tegelijk. Deze worden één voor één opgepakt. 
-> Aanbevelingen over onderwerpen die later op de planning staan kunnen daardoor ook iets langer duren om te verwerken, en worden mogelijk pas verwerkt wanneer dit bouwblok wordt uitgewerkt.  
+> Daarnaast werken we niet aan alle bouwblokken tegelijk. Deze worden één voor één opgepakt.
+> Aanbevelingen over onderwerpen die later op de planning staan kunnen daardoor ook iets langer duren om te verwerken, en worden mogelijk pas verwerkt wanneer dit bouwblok wordt uitgewerkt.
 
 ## Inhoudsopgave
 
@@ -62,7 +62,7 @@ Er zijn verschillende manieren waarop je kan bijdragen. Zie hieronder de mogelij
 Voor sommige bouwblokken wordt er gewerkt met werkgroepen, om de informatie verder uit te werken. Deelname aan een werkgroep kost tijd. Werkgroepen komen regelmatig bij elkaar, en tussendoor worden bepaalde zaken uitgewerkt door werkgroepleden. Wil je op één van de onderwerpen meewerken? Stuur dan een bericht naar **[algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)**.
 
 ### Neem deel aan een sprint review / klankbord / demo
-Het team van het algoritmekader werkt in sprints van ongeveer 3 weken. Daarin werken we toe naar de volgende release van het Algoritmekader. Ongeveer eens in de 6 weken vindt er een nieuwe release plaats. Wanneer er een release is, wordt deze altijd toegelicht en gepresenteerd in een open online review / demo. Deze kan je vrijblijvend volgen. Zo blijf je op de hoogte en kun je een bijdrage leveren. [Bekijk de agenda op Algoritmes Pleio](https://algoritmes.pleio.nl/events) voor de komende bijeenkomsten. 
+Het team van het algoritmekader werkt in sprints van ongeveer 3 weken. Daarin werken we toe naar de volgende release van het Algoritmekader. Ongeveer eens in de 6 weken vindt er een nieuwe release plaats. Wanneer er een release is, wordt deze altijd toegelicht en gepresenteerd in een open online review / demo. Deze kan je vrijblijvend volgen. Zo blijf je op de hoogte en kun je een bijdrage leveren. [Bekijk de agenda op AI en Algoritmes Pleio](https://aienalgoritmes.pleio.nl/events) voor de komende bijeenkomsten. 
 
 ## Ik wil een fout of bug melden
 Heb je een foutje gevonden in het Algoritmekader? Dan kan je deze melden door een [Issue](https://github.com/MinBZK/Algoritmekader/issues) aan te maken. 

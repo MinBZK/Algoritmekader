@@ -13,10 +13,10 @@ levenscyclus:
 onderwerp:
 - data
 - bias-en-non-discriminatie
+- privacy-en-gegevensbescherming
 rollen:
 - ontwikkelaar
 - beleid-en-advies
-- privacy-en-gegevensbescherming
 sources:
 hide:
 - navigation

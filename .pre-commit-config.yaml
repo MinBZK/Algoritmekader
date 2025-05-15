@@ -22,7 +22,7 @@ repos:
     -   id: algoritmekader-validaties
         name: Algoritmekader validaties
         description: Voert alle validatiescripts uit voor het Algoritmekader
-        entry: python .github/scripts/run_all_validations.py
+        entry: python script/validation/run_all_validations.py
         language: python
         pass_filenames: false
         always_run: true

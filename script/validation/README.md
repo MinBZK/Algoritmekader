@@ -30,13 +30,13 @@ Nu zullen alle validaties automatisch worden uitgevoerd wanneer je een `git comm
 Je kunt alle validaties ook handmatig uitvoeren:
 
 ```
-python run_all_validations.py
+python script/validation/run_all_validations.py
 ```
 
 Of een individueel validatiescript uitvoeren:
 
 ```
-python validate_all_labels.py
+python script/validation/validate_all_labels.py
 ```
 
 ## Uitbreiden van de validaties

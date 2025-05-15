@@ -57,7 +57,7 @@ werken de navigatie broodkruimels niet.
 
 ## Validatie Tools
 
-In de map `.github/scripts` vind je scripts die de consistentie van het Algoritmekader controleren:
+In de map `.scripts/validation/` vind je scripts die de consistentie van het Algoritmekader controleren:
 
 - `validate_urn_uniqueness.py`: Controleert of alle URNs uniek zijn
 - `validate_lifecycles.py`: Controleert of levenscyclus-waarden geldig zijn

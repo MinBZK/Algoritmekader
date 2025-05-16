@@ -40,8 +40,25 @@ function updateFieldsBasedOnType(selectedTypeElement) {
   }
 }
 
-function closeModal() {
-  document.getElementById('modal').classList.add("display-none")
+/**
+ * Closes the modal and handles redirection if needed
+ * @param {boolean} shouldRedirect - Whether to check for and perform a redirect
+ */
+function closeModal(shouldRedirect = false) {
+  document.getElementById('modal').classList.add("display-none");
+  
+  // Handle redirect if needed
+  if (shouldRedirect) {
+    const redirectUrl = sessionStorage.getItem('pendingRedirect');
+    if (redirectUrl) {
+      sessionStorage.removeItem('pendingRedirect');
+    }
+  }
+}
+
+// Function to store redirect URL without immediate redirection
+function storeRedirectUrl(targetUrl) {
+  sessionStorage.setItem('pendingRedirect', targetUrl);
 }
 
 function onDynamicContentLoaded(targetDiv, callback) {
@@ -83,16 +100,34 @@ function getBasePath() {
   }
 }
 
-// Function to handle the redirect
+// Keep this for backward compatibility
 function redirectThenShowModal(event, targetUrl) {
-  event.preventDefault();
-  sessionStorage.setItem('showModalAfterRedirect', 'true');
-  window.location.href = targetUrl;
+  showBeslishulpWithRedirect(event, targetUrl);
 }
 
-function showModal(event, modalId) {
+/**
+ * Shows a modal with planned redirection after closing
+ * @param {Event} event - The event that triggered the modal
+ * @param {string} modalId - The ID of the modal to show (e.g., 'beslishulp', 'ai-act-labels')
+ * @param {string} redirectUrl - The URL to redirect to after closing
+ */
+function showModalWithRedirect(event, modalId, redirectUrl) {
   event.preventDefault();
-  event.stopPropagation();
+  sessionStorage.setItem('pendingRedirect', redirectUrl);
+  showModal(event, modalId);
+}
+
+/**
+ * Shows a modal without any redirection behavior
+ * @param {Event} event - The event that triggered the modal
+ * @param {string} modalId - The ID of the modal to show (e.g., 'beslishulp', 'ai-act-labels')
+ */
+function showModal(event, modalId) {
+  if (event) {
+    event.preventDefault();
+    event.stopPropagation();
+  }
+  
   const basePath = getBasePath();
   
   if (modalId === "ai-act-labels") {
@@ -333,33 +368,122 @@ labelMapper.addEntry('in-ontwikkeling', 'In ontwikkeling', 'operationeel', ["Ope
 labelMapper.addEntry('beoordeling-door-derde-partij', 'Beoordeling door derde partij', 'conformiteitsbeoordelingsinstantie', ["Conformiteitsbeoordelingsinstantie-beoordeling door derde partij"]);
 labelMapper.addEntry('niet-van-toepassing', 'Niet van toepassing', 'conformiteitsbeoordelingsinstantie', ["Conformiteitsbeoordelingsinstantie-niet van toepassing"]);
 
-// Add the message event listener
-window.addEventListener('message', (event) => {
-  if (event.data.event === 'beslishulp-done') {
-    console.log('Received beslishulp-done:', event.data.value);
+// Simplified message handler that doesn't rely on intermediate flags
+// Window message handler for beslishulp-closing event
+window.addEventListener('message', function(event) {
+  // Validate event data
+  if (!event.data || !event.data.event) return;
+  
+  // Handle beslishulp closing
+  if (event.data.event === 'beslishulp-closing') {
+    console.log('Received beslishulp-closing event');
     
-    const redirectUrl = sessionStorage.getItem('pendingRedirect');
-    const jsonObject = JSON.parse(sessionStorage.getItem("labelsbysubcategory"));
-
-    if (redirectUrl && jsonObject) {
-      // Store labels for processing after redirect
-      sessionStorage.setItem('pendingLabels', JSON.stringify(jsonObject));
-      sessionStorage.setItem('showModalAfterRedirect', 'true');
-      closeModal();
-      sessionStorage.removeItem('pendingRedirect');
-      window.location.href = redirectUrl;
-    } else if (jsonObject) {
-      // Direct modal case - handle labels immediately
-      const beslishulpLabels = Object.entries(jsonObject).flatMap(([key, values]) =>
-        values.map(value => `${key}-${value}`)
-      );
-      updateLabels(beslishulpLabels);
-      filterTable();
-      closeModal();
+    try {
+      // Get the redirect URL if it exists
+      var redirectUrl = sessionStorage.getItem('pendingRedirect');
+      
+      // Try multiple sources for the labels data
+      var jsonObject = null;
+      
+      // First check the standardized location where beslishulp.html stored the data
+      try {
+        var storedClosingData = sessionStorage.getItem('beslishulp_closing_data');
+        if (storedClosingData) {
+          jsonObject = JSON.parse(storedClosingData);
+        }
+      } catch (e) {
+        console.error('Error parsing closing data:', e);
+      }
+      
+      // Fall back to labelsbysubcategory if needed
+      if (!jsonObject) {
+        try {
+          var labelsData = sessionStorage.getItem("labelsbysubcategory");
+          if (labelsData) {
+            jsonObject = JSON.parse(labelsData);
+          }
+        } catch (e) {
+          console.error('Error parsing labelsbysubcategory:', e);
+        }
+      }
+      
+      console.log('Processing closing with state:', { 
+        hasRedirectUrl: !!redirectUrl, 
+        hasLabels: !!jsonObject 
+      });
+      
+      // Process based on available data
+      if (jsonObject) {
+        if (redirectUrl) {
+          // Store labels for after redirect
+          sessionStorage.setItem('pendingLabels', JSON.stringify(jsonObject));
+          sessionStorage.setItem('showModalAfterRedirect', 'true');
+          
+          // Do not remove pendingRedirect until after the redirect has been executed
+          // This line was causing the issue:
+          // sessionStorage.removeItem('pendingRedirect');
+          
+          // Clean up
+          sessionStorage.removeItem('beslishulp_closing_data');
+          
+          // Close and redirect - ensure this function handles the redirect properly
+          console.log('Closing with redirect to:', redirectUrl);
+          closeModal(true);
+        } else {
+          // Apply labels immediately
+          console.log('Applying labels immediately');
+          
+        try {
+          // Convert the labels to the format expected by updateLabels
+          var beslishulpLabels = Object.entries(jsonObject).flatMap(function(entry) {
+            var key = entry[0];
+            var values = entry[1];
+            return values.map(function(value) {
+              return key + "-" + value;
+            });
+          });
+          
+          // Apply the labels
+          updateLabels(beslishulpLabels);
+          
+          // Apply filters if the function exists
+          if (typeof filterTable === 'function') {
+            filterTable();
+          }
+        } catch (e) {
+          console.error('Error applying labels:', e);
+        }
+        
+        // Clean up
+        sessionStorage.removeItem('beslishulp_closing_data');
+        
+        // Close modal
+        closeModal(false);
+      }
+    } else {
+      // No labels found, just close (and redirect if needed)
+      console.log('No labels found, just closing modal');
+      closeModal(redirectUrl ? true : false);
+      
+      // Clean up redirect URL - but only after redirection has been executed
+      // if (redirectUrl) {
+      //   sessionStorage.removeItem('pendingRedirect');
+      // }
+    }
+    } catch (e) {
+      console.error('Error handling beslishulp-closing:', e);
+      
+      // Attempt to close the modal anyway
+      try {
+        closeModal(false);
+      } catch (e2) {
+        console.error('Error closing modal:', e2);
+      }
     }
   }
 });
 
+      
 document.addEventListener('DOMContentLoaded', () => {
   // Check if we should show modal
   const shouldShowModal = sessionStorage.getItem('showModalAfterRedirect');

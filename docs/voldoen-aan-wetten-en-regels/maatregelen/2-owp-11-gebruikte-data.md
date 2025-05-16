@@ -1,10 +1,10 @@
 ---
 title: Beschrijf welke data gebruikt wordt voor de beoogde toepassing
 id: urn:nl:ak:mtr:owp-11
-toelichting: Beschrijf welke data gebruikt wordt voor de beoogde toepassing. 
-vereiste: 
+toelichting: Beschrijf welke data gebruikt wordt voor de beoogde toepassing.
+vereiste:
 - aia-05-data-kwaliteitscriteria
-levenscyclus: 
+levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
 onderwerp:
@@ -21,9 +21,9 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-Beschrijf welke data gebruikt wordt voor de beoogde toepassing. 
+Beschrijf welke data gebruikt wordt voor de beoogde toepassing.
 
-## Toelichting 
+## Toelichting
 - Maak in een vroege fase van de ontwikkeling een inschatting van welke data er gebruikt gaat worden voor het algoritme.
 - Leg na het uitvoeren van een [beschikbaarheids-](2-owp-02-data-beschikbaarheid.md), [kwaliteits-](3-dat-01-datakwaliteit.md) en toegankelijkheidsanalyse vast welke data wordt verwerkt voor het ontwikkelen en gebruiken van het algoritme.
 - Beschrijf daarbij om wat voor gegevens het gaat en uit welke bron deze komen.
@@ -44,7 +44,7 @@ Als er niet wordt beschreven welke data wordt gebruikt voor een toepassing wordt
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
-## Bronnen 
+## Bronnen
 - [Impact Assessment Mensenrechten en Algoritmes, 2A.2.1](../hulpmiddelen/IAMA.md)
 
 ## Voorbeelden

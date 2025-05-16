@@ -13,17 +13,17 @@ soort-toepassing:
 - ai-model-voor-algemene-doeleinden
 rol-ai-act:
 - aanbieder
-risicogroep: 
+risicogroep:
 - niet-van-toepassing
 systeemrisico:
 - systeemrisico
-transparantieverplichting: 
+transparantieverplichting:
 - niet-van-toepassing
-open-source: 
+open-source:
 - open-source
 - geen-open-source
 - niet-van-toepassing
-uitzondering: 
+uitzondering:
 - risicogroep-uitzondering-van-toepassing
 hide:
 - navigation
@@ -47,7 +47,7 @@ Het doel is om de integriteit en veiligheid van het model en de infrastructuur t
 
 [AIVD - AI-systemen: ontwikkel ze veilig](https://www.aivd.nl/actueel/nieuws/2023/02/15/ai-systemen-ontwikkel-ze-veilig)
 
-## Van toepassing op 
+## Van toepassing op
 <!-- tags-ai-act -->
 
 ## Risico

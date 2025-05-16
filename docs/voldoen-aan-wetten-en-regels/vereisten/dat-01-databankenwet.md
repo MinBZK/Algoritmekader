@@ -12,7 +12,7 @@ soort-toepassing:
 - ai-model-voor-algemene-doeleinden
 - ai-systeem
 - ai-systeem-voor-algemene-doeleinden
-risicogroep: 
+risicogroep:
 - hoog-risico-ai-systeem
 - geen-hoog-risico-ai-systeem
 - uitzondering-van-toepassing
@@ -22,15 +22,15 @@ rol-ai-act:
 - gebruiksverantwoordelijke
 - importeur
 - distributeur
-transparantieverplichting: 
+transparantieverplichting:
 - geen-transparantieverplichting
-- transparantieverplichting 
+- transparantieverplichting
 - niet-van-toepassing
 systeemrisico:
 - systeemrisico
 - geen-systeemrisico
 - niet-van-toepassing
-open-source: 
+open-source:
 - open-source
 - geen-open-source
 - niet-van-toepassing
@@ -48,7 +48,7 @@ Degene die een substantiële financiële en professionele investering heeft verr
 
 Bij verkrijgen gaat het om "het verzamelen van de werken, gegevens of andere zelfstandige elementen die tezamen de inhoud van de databank vormen".
 Dit recht bestaat naast het recht op bescherming van de originele keuze of rangschikking van de inhoud van databanken (auteurswet).
- 
+
 Voor het ontwikkelen van algoritme is data nodig. De data die hiervoor wordt gebruikt mag niet ongeoorloofd zijn verkregen uit een databank.
 
 ## Bronnen
@@ -57,12 +57,12 @@ Voor het ontwikkelen van algoritme is data nodig. De data die hiervoor wordt geb
 - [Artikel 7 Databankrichtlijn](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:31996L0009)
 - [Overwegingen 39 - 41 Databankrichtlijn](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:31996L0009)
 
-## Van toepassing op 
+## Van toepassing op
 <!-- tags-ai-act -->
 
 ## Risico
 Als een ontwikkelaar onbevoegd gebruik heeft gemaakt van data uit een databank bij de ontwikkeling van algoritmes, wordt het databankenrecht geschonden van de eigenaar.
 De eigenaar van de databank kan bijvoorbeeld ontrekking van de data uit het handelsverkeer, vernietiging en onbruikbaarmaking  eisen, wat vergaande gevolgen kan hebben voor het gebruik kunnen maken van de algoritmische toepassing of AI-systeem.
- 
+
 ## Maatregelen { data-search-exclude }
 <!-- list_maatregelen vereiste/dat-01-databankenwet no-search no-onderwerp no-rol no-levenscyclus -->

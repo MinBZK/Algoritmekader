@@ -1,16 +1,16 @@
 ---
 title: Verantwoord datagebruik
-summary: 
-hide: 
+summary:
+hide:
 - path
 ---
 # Verantwoord datagebruik
-Overheden moeten verantwoord omgaan met de data die hun algoritmes gebruiken. De data moet voldoen aan regels voor bijvoorbeeld privacy. De kwaliteit van de data moet goed zijn. En overheden moeten deze gegevens goed beheren. Anders is het algoritme niet betrouwbaar.  
+Overheden moeten verantwoord omgaan met de data die hun algoritmes gebruiken. De data moet voldoen aan regels voor bijvoorbeeld privacy. De kwaliteit van de data moet goed zijn. En overheden moeten deze gegevens goed beheren. Anders is het algoritme niet betrouwbaar.
 
 ## Wat is verantwoord datagebruik?
 Verantwoord datagebruik betekent:
 
-* Rechtmatig gebruik van gegevens 
+* Rechtmatig gebruik van gegevens
 * Goede datakwaliteit
 * Goed databeheer
 
@@ -21,26 +21,26 @@ Andere belangrijke regels gaan over privacy. Zo mag je algoritme alleen de minim
 
 * Anonimiseren: data zoveel mogelijk anoniem maken
 * [Pseudonimiseren](https://www.autoriteitpersoonsgegevens.nl/themas/beveiliging/beveiliging-van-persoonsgegevens/gegevens-pseudonimiseren): data moeilijker herleidbaar maken naar personen
-* Aggregeren: data zoveel mogelijk combineren of samenvoegen tot 1 waarde, zoals een totaal of gemiddelde 
+* Aggregeren: data zoveel mogelijk combineren of samenvoegen tot 1 waarde, zoals een totaal of gemiddelde
 
 ### Goede datakwaliteit
-Hoe slechter de datakwaliteit, hoe onbetrouwbaarder de uitkomsten van je algoritme. 
+Hoe slechter de datakwaliteit, hoe onbetrouwbaarder de uitkomsten van je algoritme.
 
 Je bepaalt en controleert zelf de [kwaliteit van je dataset](../voldoen-aan-wetten-en-regels/maatregelen/3-dat-01-datakwaliteit.md). Check bijvoorbeeld of alle gegevens juist, compleet en actueel zijn. En herken [bias in je data](bias-en-non-discriminatie.md).
 
 ### Goed databeheer: datagovernance en datamanagement
 Goed databeheer betekent dat je organisatie duidelijke afspraken maakt over het:
 
-* opslaan en verwerken van data 
-* gebruik van data: welke data mag je waarvoor gebruiken? 
+* opslaan en verwerken van data
+* gebruik van data: welke data mag je waarvoor gebruiken?
 * beveiligen van data
 * bewaken van de datakwaliteit, zoals het actueel houden van de gegevens
 * eigenaarschap van data, bijvoorbeeld de partij die het algoritme ontwikkelt
 * documenteren en labelen van data (metadata)
 
-Leg de processen en afspraken hierover vast in de [datagovernance](https://realisatieibds.nl/page/view/f51c90d3-c33d-4826-83d2-7381c0b14aba/8-data-governance) van je organisatie. In een datamanagementstrategie beschrijf je hoe je organisatie data verzamelt, ordent en gebruikt. Zo kan je organisatie optimaal gebruikmaken van data. 
+Leg de processen en afspraken hierover vast in de [datagovernance](https://realisatieibds.nl/page/view/f51c90d3-c33d-4826-83d2-7381c0b14aba/8-data-governance) van je organisatie. In een datamanagementstrategie beschrijf je hoe je organisatie data verzamelt, ordent en gebruikt. Zo kan je organisatie optimaal gebruikmaken van data.
 
-Hoe goed je organisatie data beheert, check je met [datavolwassenheidsmodellen](https://realisatieibds.nl/page/view/ad94d97c-4d48-443c-aedd-235b2d0ca8b6/wegwijzer-volwassenheidsmodellen) uit de Toolbox verantwoord datagebruik van de Interbestuurlijke Datastrategie (IBDS). Of gebruik de [beslishulp datavolwassenheid](https://realisatieibds.nl/groups/view/c23ab74c-adb4-424e-917d-773a37968efe/kenniscentrum-van-de-ibds/wiki/view/2447d2a8-6c48-468d-9739-00772688853f/beslishulp-datavolwassenheid). 
+Hoe goed je organisatie data beheert, check je met [datavolwassenheidsmodellen](https://realisatieibds.nl/page/view/ad94d97c-4d48-443c-aedd-235b2d0ca8b6/wegwijzer-volwassenheidsmodellen) uit de Toolbox verantwoord datagebruik van de Interbestuurlijke Datastrategie (IBDS). Of gebruik de [beslishulp datavolwassenheid](https://realisatieibds.nl/groups/view/c23ab74c-adb4-424e-917d-773a37968efe/kenniscentrum-van-de-ibds/wiki/view/2447d2a8-6c48-468d-9739-00772688853f/beslishulp-datavolwassenheid).
 
 ## Belang van verantwoord datagebruik
 Algoritmes kunnen veel schade veroorzaken in de maatschappij als ze de verkeerde gegevens gebruiken.

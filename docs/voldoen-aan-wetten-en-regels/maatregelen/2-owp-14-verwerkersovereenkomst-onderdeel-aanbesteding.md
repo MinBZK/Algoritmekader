@@ -1,7 +1,7 @@
 ---
 title: Maak het opstellen van een verwerkersovereenkomst onderdeel van de aanbesteding als persoonsgegevens worden verwerkt
 id: urn:nl:ak:mtr:owp-14
-toelichting: Als een overheidsorganisatie een algoritme van een aanbieder wilt gebruiken die persoonsgegevens verwerkt voor bijvoorbeeld het trainen of genereren van output, dan moet een verwerkersovereenkomst met de aanbieder worden opgesteld. 
+toelichting: Als een overheidsorganisatie een algoritme van een aanbieder wilt gebruiken die persoonsgegevens verwerkt voor bijvoorbeeld het trainen of genereren van output, dan moet een verwerkersovereenkomst met de aanbieder worden opgesteld.
 vereiste:
 - avg-13-dpia-verplicht
 levenscyclus:
@@ -45,9 +45,9 @@ Een verwerkersovereenkomst moet worden opgesteld als persoonsgegevens worden ver
 
 - Audits. De verwerker werkt mee aan uw audits of die van een derde partij. En stelt alle relevante informatie beschikbaar om te kunnen controleren of de verwerker zich houdt aan de hierboven genoemde verplichtingen (artikel 28 AVG).
 
-## Risico 
+## Risico
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Er is sprake van een onrechtmatige verwerking van persoonsgegevens als geen verwerkersovereenkomst is opgesteld tussen de verwerker en de verwerkingsverantwoordelijke. 
+Er is sprake van een onrechtmatige verwerking van persoonsgegevens als geen verwerkersovereenkomst is opgesteld tussen de verwerker en de verwerkingsverantwoordelijke.
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
@@ -63,7 +63,7 @@ Er is sprake van een onrechtmatige verwerking van persoonsgegevens als geen verw
 !!! example "Gemeente Geertruidenberg: Verwerkersovereenkomst"
 
 	De Gemeente Geertruidenberg heeft op 4 juli 2024 een aankondiging gedaan voor een opdracht over het leveren, implementeren  en onderhouden van een zaak-/archiefsysteem. Bij het creëren van de opdracht is een verwerkersovereenkomst gepubliceerd. Op deze manier is het direct onderdeel van de aanbesteding zodat de aanbieder weet wat er van hen verwacht wordt.
-	
+
 	Bron: [Zaak-/archiefsysteem](https://www.tenderned.nl/aankondigingen/overzicht/342065)
 
 

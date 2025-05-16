@@ -1,9 +1,9 @@
 ---
 title: Framework for Meaningful Engagement
-toelichting: Het Framework for Meaningful Engagement ondersteunt organisaties bij menselijk toezicht tijdens het ontwikkelen van algoritmes.  
+toelichting: Het Framework for Meaningful Engagement ondersteunt organisaties bij menselijk toezicht tijdens het ontwikkelen van algoritmes.
 categorie:
 - handreiking
-levenscyclus:  
+levenscyclus:
 - probleemanalyse
 - ontwerp
 onderwerp:
@@ -28,9 +28,9 @@ maatregel:
 - 1-pba-03-onderbouwen-gebruik-algoritme
 - 1-pba-04-betrek-belanghebbenden
 - 0-org-01-benodigde-expertise-en-capaciteit
-hide:  
-- navigation  
-- toc  
+hide:
+- navigation
+- toc
 
 ---
 

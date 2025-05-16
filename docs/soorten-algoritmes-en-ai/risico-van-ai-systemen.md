@@ -36,7 +36,7 @@ In deze risicogroep vallen AI-systemen die je gebruikt als veiligheidsonderdeel 
 * auto-industrie
 * luchtvaartindustrie
 
-Zie [AI-verordening, bijlage I](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#d1e38-124-1). 
+Zie [AI-verordening, bijlage I](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#d1e38-124-1).
 
 ### Gebruik voor bepaalde diensten of processen
 Dit zijn AI-systemen die je gebruikt voor:
@@ -53,7 +53,7 @@ Dit zijn AI-systemen die je gebruikt voor:
 Zie [AI-verordening, bijlage III](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#d1e38-127-1).
 
 ## Verboden AI
-Deze risicogroep bestaat uit soorten AI-praktijken die volgens de AI-verordening verboden zijn. 
+Deze risicogroep bestaat uit soorten AI-praktijken die volgens de AI-verordening verboden zijn.
 
 Dit zijn AI-systemen die:
 

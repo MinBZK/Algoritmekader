@@ -70,7 +70,7 @@ function getBasePath() {
   const path = window.location.pathname;
   const isLocal = window.location.hostname === "127.0.0.1" || window.location.hostname === "localhost";
   const isPRPreview = path.includes('/pr-preview/');
-  
+
   if (isLocal) {
     return '/Algoritmekader';
   } else if (isPRPreview) {
@@ -94,7 +94,7 @@ function showModal(event, modalId) {
   event.preventDefault();
   event.stopPropagation();
   const basePath = getBasePath();
-  
+
   if (modalId === "ai-act-labels") {
       onDynamicContentLoaded(document.getElementById("modal-content"), (cb) => {
           updateAIActForm();
@@ -103,8 +103,8 @@ function showModal(event, modalId) {
       loadHTML(`${basePath}/html/ai-verordening-popup.html`, 'modal-content')
       document.getElementById("modal-content-container").classList.add("model-content-auto-size");
   } else if (modalId === "beslishulp") {
-      document.getElementById("modal-content").innerHTML = `<iframe 
-          style="display: block; width: 100%; height: 100%; border: 0; padding: 0; margin: 0; overflow: hidden;" 
+      document.getElementById("modal-content").innerHTML = `<iframe
+          style="display: block; width: 100%; height: 100%; border: 0; padding: 0; margin: 0; overflow: hidden;"
           src="${basePath}/html/beslishulp.html"></iframe>`
       document.getElementById("modal-content-container").classList.remove("model-content-auto-size");
   }
@@ -134,7 +134,7 @@ function loadHTML(url, targetDivId) {
 
 function updateLabels(labels) {
   console.log('Received labels:', labels);
-  
+
   // Define patterns to exclude
   const excludePatterns = [
     'niet van toepassing',
@@ -144,9 +144,9 @@ function updateLabels(labels) {
   // Filter out labels based on dynamic exclusion patterns
   const filteredLabels = labels.filter(label => {
     const labelObj = labelMapper.find(label);
-    
+
     // Check if any exclude pattern matches the label or display value
-    const shouldExclude = excludePatterns.some(pattern => 
+    const shouldExclude = excludePatterns.some(pattern =>
       labelObj.label.toLowerCase().includes(pattern.toLowerCase()) ||
       labelObj.display_value.toLowerCase().includes(pattern.toLowerCase())
     );
@@ -165,17 +165,17 @@ function updateLabels(labels) {
 
   // Convert filtered labels to label objects
   const allLabels = filteredLabels.map(label => labelMapper.find(label));
-  
+
   // Ignore groups not used by AK at the moment
   const ignoreGroups = ["conformiteitsbeoordelingsinstantie", "operationeel"];
-  const appliedLabels = allLabels.filter(labelObj => 
+  const appliedLabels = allLabels.filter(labelObj =>
     !ignoreGroups.includes(labelObj.group)
   );
 
   // Show labels section
   document.getElementById("ai-act-info-with-labels").classList.remove("display-none");
   document.getElementById("ai-act-info-no-labels").classList.add("display-none");
-  
+
   // Update labels input
   document.getElementById('labelsInput').value = appliedLabels.map(obj => obj.label).join(",");
 
@@ -337,7 +337,7 @@ labelMapper.addEntry('niet-van-toepassing', 'Niet van toepassing', 'conformiteit
 window.addEventListener('message', (event) => {
   if (event.data.event === 'beslishulp-done') {
     console.log('Received beslishulp-done:', event.data.value);
-    
+
     const redirectUrl = sessionStorage.getItem('pendingRedirect');
     const jsonObject = JSON.parse(sessionStorage.getItem("labelsbysubcategory"));
 

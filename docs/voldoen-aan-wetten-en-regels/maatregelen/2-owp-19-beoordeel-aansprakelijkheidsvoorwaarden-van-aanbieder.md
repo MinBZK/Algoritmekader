@@ -1,9 +1,9 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Aansprakelijkheidsvoorwaarden van een aanbieder worden beoordeeld in de aanbesteding 
+title: Aansprakelijkheidsvoorwaarden van een aanbieder worden beoordeeld in de aanbesteding
 id: urn:nl:ak:mtr:owp-19
 # geef hier een korte toelichting van deze maatregel
-toelichting: Maak de aansprakelijkheidsvoorwaarden die een aanbieder stelt ten aanzien van auteursrechten een vast onderdeel om te beoordelen in de aanbesteding. 
+toelichting: Maak de aansprakelijkheidsvoorwaarden die een aanbieder stelt ten aanzien van auteursrechten een vast onderdeel om te beoordelen in de aanbesteding.
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste:
 - aut-01-auteursrechten
@@ -18,7 +18,7 @@ onderwerp:
 rollen:
 - jurist
 - beleid-en-advies
-  
+
 hide:
 - navigation
 - toc
@@ -40,9 +40,9 @@ Maak de aansprakelijkheidsvoorwaarden die een aanbieder stelt ten aanzien van au
 
 - Het is daarom van belang om een beoordeling te maken in hoeverre de aansprakelijkheidsvoorwaarden van de aanbieder passend zijn. Maak een jurist onderdeel van de beoordeling.
 
-## Risico 
+## Risico
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Er wordt gecontracteerd met een aanbieder die ongewenste aansprakelijkheidsvoorwaarden hanteert. 
+Er wordt gecontracteerd met een aanbieder die ongewenste aansprakelijkheidsvoorwaarden hanteert.
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
@@ -56,4 +56,3 @@ Er wordt gecontracteerd met een aanbieder die ongewenste aansprakelijkheidsvoorw
 ## Voorbeelden
 
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
-

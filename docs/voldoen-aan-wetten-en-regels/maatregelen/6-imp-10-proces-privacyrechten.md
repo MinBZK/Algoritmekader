@@ -1,7 +1,7 @@
 ---
 title: Spreek af hoe de organisatie omgaat met privacy-verzoeken
 id: urn:nl:ak:mtr:imp-10
-toelichting: Betrokkenen kunnen hun persoonsgegevens inzien, rectificeren, laten verwijderen of het gebruik ervan beperken bij het toepassen van algoritmes.  
+toelichting: Betrokkenen kunnen hun persoonsgegevens inzien, rectificeren, laten verwijderen of het gebruik ervan beperken bij het toepassen van algoritmes.
 vereiste:
 - avg-09-inroepen-privacyrecht-bij-verwerking-persoonsgegevens
 levenscyclus:
@@ -36,21 +36,21 @@ Richt een proces in waarmee betrokkenen hun privacyrechten kunnen inroepen als a
 - Bij het inrichten van servicemanagement moet zijn nagedacht over hoe een verzoek tot het inzien, rectificeren, verwijderen of beperken van de verwerking van persoonsgegevens op een betekenisvolle manier kan of moet worden behandeld.
 
 ## Risico
-Betrokkenen hebben geen controle over hun persoonsgegevens doordat ze geen beroep kunnen doen op hun privacyrechten. 
+Betrokkenen hebben geen controle over hun persoonsgegevens doordat ze geen beroep kunnen doen op hun privacyrechten.
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
-[Onderzoekskader Algoritmes Auditdienst Rijk, PRI.9](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023) 
+[Onderzoekskader Algoritmes Auditdienst Rijk, PRI.9](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 
 ## Voorbeelden
 
 !!! example "Ministerie van Algemene Zaken: Privacyverzoek"
- 
-	Het Ministerie van Algemene Zaken (AZ) heeft een online formulier waar burgers een privacyverzoek kunnen doen. Dit kan zowel via post als digitaal. Op deze pagina staat ook uitgelegd welke gegevens nodig zijn voor een (correcte) aanvraag. Daarnaast wordt vermeld hoe de gegevens verwerkt worden en hoe lang deze bewaard blijven voor de aanvraag. Als laatste wordt ook aangegeven bij wie men terecht kan voor vragen of klachten. 
-	
+
+	Het Ministerie van Algemene Zaken (AZ) heeft een online formulier waar burgers een privacyverzoek kunnen doen. Dit kan zowel via post als digitaal. Op deze pagina staat ook uitgelegd welke gegevens nodig zijn voor een (correcte) aanvraag. Daarnaast wordt vermeld hoe de gegevens verwerkt worden en hoe lang deze bewaard blijven voor de aanvraag. Als laatste wordt ook aangegeven bij wie men terecht kan voor vragen of klachten.
+
 	Bron: [Formulier Privacyverzoek - Ministerie van Algemene Zaken](https://www.rijksoverheid.nl/ministeries/ministerie-van-algemene-zaken/privacy/privacy-verzoekenformulier-az)
 
 - [Privacyverzoek Gemeente Amsterdam](https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/Privacy.aspx/fPrivacyVerzoek)

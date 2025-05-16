@@ -1,6 +1,6 @@
 ---
 title: Transparant zijn over algoritmes
-hide: 
+hide:
 - path
 ---
 
@@ -49,7 +49,7 @@ Complexe AI-systemen, vaak met generatieve AI, zijn echter al snel een black box
     Rekenregels zijn makkelijker uit te leggen dan AI-systemen. Als een rekenregel voldoende is voor het bereiken van je doel, dan is het ook makkelijker om transparant te zijn.
 
 ## Betrokken partijen
-Stem je informatie af op de betrokken partij. Zo moeten gebruikers de uitkomst van het algoritme voldoende begrijpen voor het nemen van onderbouwde beslissingen. En belanghebbenden zoals burgers moeten weten dat zij te maken hebben met een algoritme. Zij moeten snel en makkelijk kunnen vinden wat hun rechten zijn en hoe zij in beroep kunnen gaan. 
+Stem je informatie af op de betrokken partij. Zo moeten gebruikers de uitkomst van het algoritme voldoende begrijpen voor het nemen van onderbouwde beslissingen. En belanghebbenden zoals burgers moeten weten dat zij te maken hebben met een algoritme. Zij moeten snel en makkelijk kunnen vinden wat hun rechten zijn en hoe zij in beroep kunnen gaan.
 
 | Doelgroep | Informeer bijvoorbeeld over | Geef de informatie bijvoorbeeld via: |
 |----------:|-----------------------------|--------------------------------------|

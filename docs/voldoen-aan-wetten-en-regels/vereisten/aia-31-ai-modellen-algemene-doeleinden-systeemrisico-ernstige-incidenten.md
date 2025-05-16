@@ -13,17 +13,17 @@ soort-toepassing:
 - ai-model-voor-algemene-doeleinden
 rol-ai-act:
 - aanbieder
-risicogroep: 
+risicogroep:
 - niet-van-toepassing
 systeemrisico:
 - systeemrisico
-transparantieverplichting: 
+transparantieverplichting:
 - niet-van-toepassing
-open-source: 
+open-source:
 - open-source
 - geen-open-source
 - niet-van-toepassing
-uitzondering: 
+uitzondering:
 - risicogroep-uitzondering-van-toepassing
 hide:
 - navigation
@@ -45,7 +45,7 @@ Dit vereiste is een aanvulling op de in artikel 53 AI-verordening genoemde verpl
 ## Bronnen
 [Artikel 55(1c) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5730-1-1)
 
-## Van toepassing op 
+## Van toepassing op
 <!-- tags-ai-act -->
 
 ## Risico

@@ -15,16 +15,16 @@ soort-toepassing:
 - ai-systeem-voor-algemene-doeleinden
 risicogroep:
 - hoog-risico-ai-systeem
-transparantieverplichting: 
+transparantieverplichting:
 - geen-transparantieverplichting
-- transparantieverplichting 
+- transparantieverplichting
 systeemrisico:
 - niet-van-toepassing
-open-source: 
+open-source:
 - open-source
 - geen-open-source
 - niet-van-toepassing
-uitzondering: 
+uitzondering:
 - risicogroep-uitzondering-van-toepassing
 rol-ai-act:
 - aanbieder
@@ -39,7 +39,7 @@ Aanbieders van AI-systemen met een hoog risico zorgen ervoor dat voor het AI-sys
 
 ## Toelichting
 
-Conformiteitsbeoordelingen dragen bij aan het kunnen vertrouwen op de kwaliteit van producten en diensten. Aanbieders van AI-systemen met een hoog risico moeten ervoor zorgen dat de conformiteitsbeoordelingsprocedure wordt uitgevoerd vóórdat het systeem op de markt wordt gebracht of in gebruik wordt genomen. Hiervoor moet worden beoordeeld of het ontwikkelde hoog risico AI-systeem voldoet aan de vereisten die gelden voor deze systemen. Denk hierbij aan de vereisten van risicobeheer, technische documentatie, data en datagovernance en transparantie en informatieverstrekking aan gebruiksverantwoordelijken (Afdeling 2, AI-Verordening).  
+Conformiteitsbeoordelingen dragen bij aan het kunnen vertrouwen op de kwaliteit van producten en diensten. Aanbieders van AI-systemen met een hoog risico moeten ervoor zorgen dat de conformiteitsbeoordelingsprocedure wordt uitgevoerd vóórdat het systeem op de markt wordt gebracht of in gebruik wordt genomen. Hiervoor moet worden beoordeeld of het ontwikkelde hoog risico AI-systeem voldoet aan de vereisten die gelden voor deze systemen. Denk hierbij aan de vereisten van risicobeheer, technische documentatie, data en datagovernance en transparantie en informatieverstrekking aan gebruiksverantwoordelijken (Afdeling 2, AI-Verordening).
 
 Een conformiteitbeoordeling kan in de meeste gevallen worden uitgevoerd door middel van een interne controle (als bedoeld in [bijlage VI van de AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#anx_VI)).
 
@@ -48,7 +48,7 @@ In sommige gevallen dient de conformiteitsbeoordeling uitgevoerd te worden door 
 - Hoog-risico AI-systemen die veiligheidscomponent zijn van een producten die al worden gereguleerd via bestaande productregulering (Afdeling A van bijlage I).
 - Hoog-risico AI-systemen die gebruik maken van biometrie (bijlage III punt 1). Let op! Indien het AI-systeem is bedoeld om door rechtshandhavingsinstanties, immigratie- of asielautoriteiten of door instellingen, organen of instanties van de Unie in gebruik te worden gesteld, dienst de conformiteitsbeoordeling uitgevoerd te worden door de markttoezichtautoriteit.
 
-Volg voor het uitvoeren van de conformiteitsbeoordeling de procedures die zijn voorgeschreven in de AI-verordening. Dit betekent dat er een [conformiteitsverklaring](aia-15-eu-conformiteitsverklaring.md) opgesteld moet worden en de procedures uit [bijlage VI](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#anx_VI) en [bijlage VII](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#anx_VII) gevolgd dienen te worden. 
+Volg voor het uitvoeren van de conformiteitsbeoordeling de procedures die zijn voorgeschreven in de AI-verordening. Dit betekent dat er een [conformiteitsverklaring](aia-15-eu-conformiteitsverklaring.md) opgesteld moet worden en de procedures uit [bijlage VI](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#anx_VI) en [bijlage VII](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#anx_VII) gevolgd dienen te worden.
 
 AI-systemen met een hoog risico die al aan een conformiteitsbeoordelingsprocedure zijn onderworpen, ondergaan een nieuwe conformiteitsbeoordelingsprocedure telkens wanneer zij substantieel zijn gewijzigd, ongeacht of het gewijzigde systeem bedoeld is om verder te worden gedistribueerd of door de huidige gebruiksverantwoordelijke gebruikt blijft worden.
 
@@ -64,7 +64,7 @@ AI-systemen met een hoog risico die al aan een conformiteitsbeoordelingsprocedur
 - [Bijlage VII, AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#anx_VII)
 - [AI-wet](https://digital-strategy.ec.europa.eu/nl/policies/regulatory-framework-ai)
 
-## Van toepassing op 
+## Van toepassing op
 <!-- tags-ai-act -->
 
 ## Risico

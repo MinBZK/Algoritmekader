@@ -51,11 +51,11 @@ Te late reactie op incidenten kan ervoor zorgen dat de BIV (beschikbaarheid, int
 ## Voorbeelden
 
 !!! example "Voorbeeld: Ministerie van Economische Zaken - Uitwijk- en herstelplan"
-	
+
 	Het Ministerie van Economische zaken heeft een template voor een Disaster Recovery Plan (DRP) opgesteld. Aan de hand van dit document kunnen duidelijke handelingen en verantwoordelijkheden opgeschreven worden voor wanneer een algoritme stopgezet moet worden.
-	
+
 	Dit DRP is vrij algemeen en heeft geen specificaties voor algoritmes in het template staan. Dit zal dus verder uitgewerkt moeten worden, maar dit DRP kan als basis dienen voor het verder uitwerken.
-	
+
 	Bron: [Uitwijk- en herstelplan](https://www.digitaltrustcenter.nl/informatie-advies/uitwijk-en-herstelplan)
 
 !!! example "Voorbeeld: Netwerk Informatiebeveiliging en Privacy - Incident Management"
@@ -63,9 +63,7 @@ Te late reactie op incidenten kan ervoor zorgen dat de BIV (beschikbaarheid, int
 	Het Netwerk Informatiebeveiliging en Privacy (IBP) voor primair en voortgezet onderwijs heeft een template voor incidentmanagementbeleid, het incidentmanagementproces en een beveiligingsincident stappenplan & logboek. In het procestemplate staat onder andere een procesflow, een beschrijving van alle processtappen en een communicatieplan.
 
 	Deze documenten zijn specifiek voor primair en voortgezet onderwijs maar zijn gemakkelijk aan te passen.
- 
+
 	Bron: [Incidentmanagement](https://aanpakibp.kennisnet.nl/incidentmanagement/#tools-en-voorbeelddocumenten)
 
-Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
-
-
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

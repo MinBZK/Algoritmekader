@@ -2,9 +2,9 @@
 title: Computersystemen zijn voldoende beveiligd tegen ongelukken en cyberaanvallen
 id: urn:nl:ak:ver:bio-01
 toelichting: Informatie en informatiesystemen moeten op de juiste manier worden beveiligd.
-levenscyclus: 
+levenscyclus:
 - organisatieverantwoordelijkheden
-onderwerp: 
+onderwerp:
 - technische-robuustheid-en-veiligheid
 rollen:
 - beleid-en-advies
@@ -13,7 +13,7 @@ soort-toepassing:
 - ai-model-voor-algemene-doeleinden
 - ai-systeem
 - ai-systeem-voor-algemene-doeleinden
-risicogroep: 
+risicogroep:
 - hoog-risico-ai-systeem
 - geen-hoog-risico-ai-systeem
 - uitzondering-van-toepassing
@@ -23,15 +23,15 @@ rol-ai-act:
 - gebruiksverantwoordelijke
 - importeur
 - distributeur
-transparantieverplichting: 
+transparantieverplichting:
 - geen-transparantieverplichting
-- transparantieverplichting 
+- transparantieverplichting
 - niet-van-toepassing
 systeemrisico:
 - systeemrisico
 - geen-systeemrisico
 - niet-van-toepassing
-open-source: 
+open-source:
 - open-source
 - geen-open-source
 - niet-van-toepassing
@@ -44,7 +44,7 @@ hide:
 ## Vereiste
 Informatie en informatiesystemen moeten op de juiste manier worden beveiligd.
 
-## Toelichting 
+## Toelichting
 Informatiebeveiliging is het proces van vaststellen van de vereiste beveiliging van informatiesystemen in termen van vertrouwelijkheid, beschikbaarheid en integriteit alsmede het treffen, onderhouden en controleren van een samenhangend pakket van bijbehorende maatregelen.
 
 In Nederland is besloten dat overheidsinstellingen de Baseline Informatiebeveiliging Overheid (BIO) dienen toe te passen over hun informatie en informatiesystemen.
@@ -52,15 +52,15 @@ De BIO beoogt de beveiliging van informatie(systemen) bij alle bestuurslagen en 
 
 Algoritmes en hun output kunnen onderdeel worden van de informatie en informatiesystemen waar de BIO op van toepassing is. Het is van belang om algoritmische toepassingen en AI-systemen op de juiste manier te beveiligen.
 
-## Bronnen 
-- [Baseline Informatiebeveiliging Overheid](https://www.bio-overheid.nl/category/producten?product=BIO) 
+## Bronnen
+- [Baseline Informatiebeveiliging Overheid](https://www.bio-overheid.nl/category/producten?product=BIO)
 - [Besluit voorschrift informatiebeveiliging rijksdienst 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022141&z=2007-07-01&g=2007-07-01)
 
-## Van toepassing op 
-<!-- tags-ai-act --> 
+## Van toepassing op
+<!-- tags-ai-act -->
 
-## Risico 
+## Risico
 Er kunnen risico's ontstaan zoals ongeautoriseerde toegang, vernietiging, verlies, wijziging of niet-toegestane verwerking van gegevens als de informatie en informatiesystemen onvoldoende zijn beveiligd.
 
-## Maatregelen { data-search-exclude } 
+## Maatregelen { data-search-exclude }
 <!-- list_maatregelen vereiste/bio-01-beveiliging-informatie-en-informatiesystemen no-search no-onderwerp no-rol no-levenscyclus -->

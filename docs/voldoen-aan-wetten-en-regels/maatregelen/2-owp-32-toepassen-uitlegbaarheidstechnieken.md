@@ -29,24 +29,24 @@ Pas uitlegbaarheidstechnieken toe en evalueer en valideer deze.
 
 ## Toelichting
 Uitlegbaarheidstechnieken helpen om de werking van een algoritme transparant te maken.
-De keuze voor het type algoritme bepaalt hoe transparant je kunt zijn. Van rekenregels kun je namelijk precies uitleggen hoe deze tot een beslissing komen. Aan de andere kant kunnen complexe AI-systemen een black box zijn. Het is dan onduidelijk hoe deze systemen beslissingen maken. 
+De keuze voor het type algoritme bepaalt hoe transparant je kunt zijn. Van rekenregels kun je namelijk precies uitleggen hoe deze tot een beslissing komen. Aan de andere kant kunnen complexe AI-systemen een black box zijn. Het is dan onduidelijk hoe deze systemen beslissingen maken.
 
 Afhankelijk van het type algoritme zijn er uitlegbaarheidstechnieken beschikbaar om de werking en keuzes van een algoritme bloot te leggen. Er moet eerst een keuze worden gemaakt welk type algoritme geschikt is gezien de [informatiebehoefte](2-owp-30-informeer-betrokkenen.md). Het is belangrijk om samen met de betrokken partijen vast te leggen welke uitlegbaarheidstechnieken moeten worden toegepast. Bij bronnen kan informatie worden geraadpleegd die helpen bij het vinden van de juiste methodiek.
 
 ### Gebruik uitlegbaarheid bij besluiten
 
 Onderzoek hoe uitlegbaarheidstechnieken kunnen bijdragen aan het motiveren van besluiten. Dit kan bijvoorbeeld door:
-	
+
 - De output van het algoritme te koppelen aan het zaakdossier, met een toelichting op de interpretatie van die output.
 - De output of een samenvatting hiervan op te nemen in de beschikking.
 
 ### Generatieve AI
 
 Bij gebruik van generatieve AI is het haast onmogelijk om direct uitlegbaar te maken hoe een uitkomst tot stand is gekomen. Om toch (deels) uitleg te kunnen geven over de werking van een generatief AI-model kun je uitleg verschaffen over de capaciteiten, beperkingen en trainingsdata van het AI-model. Daarnaast is het verstanding om te onderzoeken wat de risico's zijn als de uitkomsten van een generatief AI-systeem niet uitgelegd kunnen worden.
- 
+
 ### Beperkingen en veiligheid
 
-Vanuit veiligheidsoverwegingen kan bij specifieke algoritmes besloten worden om bepaalde informatie over de werking van een algoritme niet aan iedereen vrij te geven. Denk hierbij aan de beperkingen die de [Wet Open Overheid](../vereisten/woo-01-recht-op-toegang-tot-publieke-informatie.md) oplegt. Houd ook rekening met mogelijke risico’s op aanvallen die kunnen ontstaan door het gebruik van uitlegbaarheidstechnieken, zoals omschreven in: A Survey of Privacy-Preserving Model Explanations: Privacy Risks, Attacks, and Countermeasures. 
+Vanuit veiligheidsoverwegingen kan bij specifieke algoritmes besloten worden om bepaalde informatie over de werking van een algoritme niet aan iedereen vrij te geven. Denk hierbij aan de beperkingen die de [Wet Open Overheid](../vereisten/woo-01-recht-op-toegang-tot-publieke-informatie.md) oplegt. Houd ook rekening met mogelijke risico’s op aanvallen die kunnen ontstaan door het gebruik van uitlegbaarheidstechnieken, zoals omschreven in: A Survey of Privacy-Preserving Model Explanations: Privacy Risks, Attacks, and Countermeasures.
 
 ### Evaluatie en validatie
 
@@ -76,10 +76,10 @@ Als er geen rekening wordt gehouden met de uitlegbaarheid van een algoritme binn
 
 ## Voorbeelden
 
-!!! example "Gemeente Amsterdam - Slimme check levensonderhoud" 
+!!! example "Gemeente Amsterdam - Slimme check levensonderhoud"
 
 	Gemeente Amsterdam heeft in een pilot gebruik gemaakt van een algoritme dat medewerkers helpt om te bepalen of een aanvraag levensonderhoud onderzoekswaardig is. De gemeente heeft ook een document waarin wordt toegelicht hoe verwerkte data gebruikt wordt. Dit is gedaan aan de hand van bijvoorbeeld een belangrijkheids-score per kenmerk. Op deze manier wordt inzichtelijk en uitlegbaar wat de invloed is van individuele kenmerken.
-	
+
  	Bron: [Overzicht Verwerkte Data en Features](https://algoritmeregister.amsterdam.nl/onderzoekswaardigheid-slimme-check-levensonderhoud/#:~:text=Overzicht%20Verwerkte%20Data%20en%20Features.pdf)
 
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

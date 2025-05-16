@@ -6,9 +6,9 @@ hide:
 ---
 
 # Jurist
-Juristen verantwoorden algoritmes vanuit een juridisch perspectief. Zij zorgen ervoor dat de ontwikkeling en het gebruik van algoritmes voldoet aan wettelijke verplichtingen, zoals de Algemene Verordening Gegevensbescherming (AVG) en de beginselen van behoorlijk bestuur. 
+Juristen verantwoorden algoritmes vanuit een juridisch perspectief. Zij zorgen ervoor dat de ontwikkeling en het gebruik van algoritmes voldoet aan wettelijke verplichtingen, zoals de Algemene Verordening Gegevensbescherming (AVG) en de beginselen van behoorlijk bestuur.
 
-Zij signaleren en mitigeren mogelijke juridische risico’s op het gebied van bijvoorbeeld bias, transparantieverplichtingen of aansprakelijkheid. 
+Zij signaleren en mitigeren mogelijke juridische risico’s op het gebied van bijvoorbeeld bias, transparantieverplichtingen of aansprakelijkheid.
 
 Juristen kunnen vroeg in het proces helpen om juridische problemen te voorkomen en zorgen voor een rechtmatige implementatie van algoritmes.
 

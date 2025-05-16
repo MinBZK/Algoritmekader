@@ -1,12 +1,12 @@
 ---
 title: Grondrechten beschermen in algoritmes
-hide: 
+hide:
 - path
 ---
 
 # Grondrechten beschermen in algoritmes
 Als overheid moet je de grondrechten van burgers beschermen. Dit geldt ook als je algoritmes gebruikt voor publieke taken.
- 
+
 ## Wat is het beschermen van grondrechten in algoritmes?
 Dit betekent dat je tijdens het ontwikkelen en gebruiken van algoritmes rekening houdt met de fundamentele rechten van de mens:
 

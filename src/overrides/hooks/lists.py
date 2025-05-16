@@ -241,6 +241,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
             "<table>",
             "<thead>",
             "<tr>",
+            "<th>ID</th>",
             "<th>Vereiste</th>",
             "</tr>",
             "</thead>",
@@ -255,7 +256,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 vereiste_title = vereiste_file.page.meta.get("title", vereiste)  # Fallback to vereiste name if no title
                 vereiste_link = posixpath.join(config.site_url or "/", vereiste_file.url)
                 vereisten_table.append(
-                    f'<tr><td><a href="{vereiste_link}">{vereiste_id} - {vereiste_title}</a></td></tr>')
+                    f'<tr><td><a href="{vereiste_link}">{vereiste_id}</a></td><td><a href="{vereiste_link}">{vereiste_title}</a></td></tr>')
             else:
                 vereisten_table.append(f'<tr><td>{vereiste}</td></tr>')  # No link if the file is not found
 
@@ -273,12 +274,12 @@ def on_env(env, config: MkDocsConfig, files: Files):
             "<table>",
             "<thead>",
             "<tr>",
+            "<th>ID</th>",
             "<th>Maatregel</th>",
             "</tr>",
             "</thead>",
             "<tbody>",
         ]
-
         for maatregel in maatregelen:
             maatregel_file = find_file_by_name(maatregel, "maatregelen", files)
             if maatregel_file:
@@ -287,7 +288,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 maatregel_title = maatregel_file.page.meta.get("title", maatregel)  # Fallback to maatregel name if no title
                 maatregel_link = posixpath.join(config.site_url or "/", maatregel_file.url)
                 maatregelen_table.append(
-                    f'<tr><td><a href="{maatregel_link}">{maatregel_id} - {maatregel_title}</a></td></tr>')
+                    f'<tr><td><a href="{maatregel_link}">{maatregel_id}</a></td><td><a href="{maatregel_link}">{maatregel_title}</a></td></tr>')
             else:
                 maatregelen_table.append(f'<tr><td>{maatregel}</td></tr>')  # No link if the file is not found
 

@@ -14,15 +14,15 @@ Om algoritmes op een verantwoorde manier te gebruiken, zul je op de juiste momen
 ## Fases van de levenscyclus
 
 <ol start="0">
-  <li> <a href="../organisatieverantwoordelijkheden/">Organisatieverantwoordelijkheden</a></li>
-  <li> <a href="../probleemanalyse/">Probleemanalyse</a></li>
-  <li> <a href="../ontwerp/">Ontwerp</a></li>
-  <li> <a href="../dataverkenning-en-datapreparatie/">Dataverkenning en datapreparatie</a></li>
-  <li> <a href="../ontwikkelen/">Ontwikkelen</a></li>
-  <li> <a href="../verificatie-en-validatie/">Verificatie en validatie</a></li>
-  <li> <a href="../implementatie/">Implementeren</a></li>
-  <li> <a href="../monitoring-en-beheer/">Monitoring en beheer</a></li>
-  <li> <a href="../uitfaseren/">Uitfaseren</a></li>
+  <li> <a href="{{ base_url }}/levenscyclus/organisatieverantwoordelijkheden/">Organisatieverantwoordelijkheden</a></li>
+  <li> <a href="{{ base_url }}/levenscyclus/probleemanalyse/">Probleemanalyse</a></li>
+  <li> <a href="{{ base_url }}/levenscyclus/ontwerp/">Ontwerp</a></li>
+  <li> <a href="{{ base_url }}/levenscyclus/dataverkenning-en-datapreparatie/">Dataverkenning en datapreparatie</a></li>
+  <li> <a href="{{ base_url }}/levenscyclus/ontwikkelen/">Ontwikkelen</a></li>
+  <li> <a href="{{ base_url }}/levenscyclus/verificatie-en-validatie/">Verificatie en validatie</a></li>
+  <li> <a href="{{ base_url }}/levenscyclus/implementatie/">Implementeren</a></li>
+  <li> <a href="{{ base_url }}/levenscyclus/monitoring-en-beheer/">Monitoring en beheer</a></li>
+  <li> <a href="{{ base_url }}/levenscyclus/uitfaseren/">Uitfaseren</a></li>
 </ol>
 
 ## Systeemniveau en organisatieniveau

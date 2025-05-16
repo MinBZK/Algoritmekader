@@ -19,7 +19,7 @@ hide: navigation
 
 <!-- tags -->
 
-[Direct naar het Algoritmeregister](https://algoritmes.overheid.nl/nl){ .md-button }
+[Direct naar het Algoritmeregister](https://algoritmes.overheid.nl/nl){ .button .md-button--secondary }
 ## Hulpmiddel
 
 De regering wil dat de overheid algoritmes verantwoord gebruikt. 

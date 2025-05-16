@@ -18,7 +18,9 @@ hide:
     </div>
 </div>
 
-<a href="soorten-algoritmes-en-ai/over-het-algoritmekader/" class="button md-button--secondary">Over het algoritmekader</a>
+
+<a href="{{ base_url }}/over-het-algoritmekader/over-het-algoritmekader/" class="button md-button--secondary">Over het algoritmekader</a>
+
 
 <div class="float-container">
 

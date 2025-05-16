@@ -361,6 +361,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
                     config.site_url or "/", vereiste_file.url
                 )
                 vereisten_table.append(
+
                     f'<tr><td><a href="{vereiste_link}">{vereiste_id}</a></td><td><a href="{vereiste_link}">{vereiste_title}</a></td></tr>')
             else:
                 vereisten_table.append(

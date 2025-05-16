@@ -10,7 +10,7 @@ maatregel:
 - 1-pba-03-onderbouwen-gebruik-algoritme
 - 2-owp-07-afwegen-grondrechten
 - 6-imp-03-menselijke-tussenkomst
-- 6-imp-11-proces-privacyrechten
+- 6-imp-10-proces-privacyrechten
 - 7-mon-02-beveiliging-algoritme
 - 1-pba-05-wettelijke-grondslag
 - 2-owp-03-doel-verwerken-persoonsgegevens

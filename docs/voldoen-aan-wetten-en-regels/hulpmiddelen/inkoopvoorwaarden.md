@@ -1,7 +1,7 @@
 ---
 title: Inkoopvoorwaarden
 toelichting: Goede inkoopvoorwaarden kunnen helpen om een contract op te stellen dat een organisatie helpt om veilige en verantwoorde algoritmen of AI-systemen in te kopen.
-categorie: 
+categorie:
 - template
 levenscyclus:
 - probleemanalyse
@@ -17,7 +17,7 @@ maatregel:
 - 2-owp-16-vereisten-onderdeel-algemene-inkoopvoorwaarden-en-contractovereenkomst
 - 2-owp-17-leveren-bewijs-voldoen-aan-vereisten-algoritme-aanbieder
 - 2-owp-18-leveren-bewijs-door-aanbieder-niet-schenden-auteursrechten
-- 2-owp-25-kennisoverdracht-en-ondersteuning-aanbieder 
+- 2-owp-25-kennisoverdracht-en-ondersteuning-aanbieder
 - 2-owp-02-data-beschikbaarheid
 hide: navigation
 ---
@@ -27,8 +27,8 @@ hide: navigation
 ## Hulpmiddel
 
 Voorbeelden of templates van inkoopvoorwaarden (ook wel modelcontractbepalingen genoemd) helpen om een contract op te stellen dat een organisatie in staat stelt veilige en verantwoorde algoritmen of AI-systemen in te kopen.
-Organisaties kunnen deze voorwaarden of bepalingen opnemen wanneer zij een contract afsluiten met een leverancier van een algoritme of algoritmisch systeem. 
-Zij kunnen dan bijvoorbeeld beperkingen opnemen om onaanvaardbare risico's van AI te vermijden, of bepaalde voorwaarden waaraan een algoritme juist moet voldoen. 
+Organisaties kunnen deze voorwaarden of bepalingen opnemen wanneer zij een contract afsluiten met een leverancier van een algoritme of algoritmisch systeem.
+Zij kunnen dan bijvoorbeeld beperkingen opnemen om onaanvaardbare risico's van AI te vermijden, of bepaalde voorwaarden waaraan een algoritme juist moet voldoen.
 Ook kunnen zij bepaalde [voorwaarden op basis van de vereisten in het Algoritmekader](../maatregelen/2-owp-16-vereisten-onderdeel-algemene-inkoopvoorwaarden-en-contractovereenkomst.md) opnemen.
 
 ### Europese Commissie

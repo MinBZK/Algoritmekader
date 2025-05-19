@@ -105,7 +105,7 @@ tbody tr td a:hover {
 
 .float-container a {
   color: #154273;
-  text-align: left; 
+  text-align: left;
   text-decoration: underline;
 }
 
@@ -123,13 +123,13 @@ tbody tr td a:hover {
 .md-typeset .admonition.simple,
 .md-typeset details.simple {
   border-color: rgb(5, 80, 141);
-  text-align: left; 
+  text-align: left;
 }
 
 .md-typeset .simple > .admonition-title,
 .md-typeset .simple > summary {
   background-color: rgba(185, 185, 185, 0.1);
-  text-align: left; 
+  text-align: left;
 }
 
 .md-typeset .simple > .admonition-title::before,

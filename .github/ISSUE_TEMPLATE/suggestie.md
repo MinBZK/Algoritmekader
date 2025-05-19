@@ -10,4 +10,3 @@ assignees: ''
 Omschrijving.
 
 ## Leg uit waarom dit een goede toevoeging is aan het Algoritmekader
-

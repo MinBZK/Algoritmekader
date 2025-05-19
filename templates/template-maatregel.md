@@ -2,7 +2,7 @@
 # Dit template dient als voorbeeld voor een MAATREGEL in het Algoritmekader.
 # Meer over de onderdelen van deze broncode en de voorwaarden waar die aan moeten voldoen, lees je in de documentatie:
 # https://github.com/MinBZK/Algoritmekader/wiki/Onderdelen-van-het-Algoritmekader
-# let op!  Geen punt (.) achter de titel! 
+# let op!  Geen punt (.) achter de titel!
 
 title: Hier staat de titel, die in 1 zin de maatregel beschrijft
 
@@ -26,7 +26,7 @@ rollen:
 - projectleider
 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel (minus de bestandsuitgang '.md'):
-vereiste: 
+vereiste:
 - aia-03-risicobeheersysteem
 - aia-04-risicobeoordeling-voor-jongeren-en-kwetsbaren
 - aia-05-data-kwaliteitscriteria
@@ -61,12 +61,12 @@ Dit kan vaak hetzelfde zijn als de title of toelichting die je hierboven in de m
 ## Toelichting
 Hier staat in enkele alinea's meer uitgelegd over de maatregel.
 
-Wat is het advies dat een organisatie krijgt? 
+Wat is het advies dat een organisatie krijgt?
 
 Beschrijf dit zo nauwkeurig mogelijk.
 
 
-## Risico 
+## Risico
 Hier staat uitgelegd, in één alinea, wat het risico is als deze maatregel níet wordt geïmplementeerd.
 
 
@@ -86,16 +86,16 @@ Hier staat uitgelegd, in één alinea, wat het risico is als deze maatregel níe
 
 ## Voorbeelden
 
-!!! example "Voorbeeld 1: Naam van Voorbeeld of Organisatie" 
+!!! example "Voorbeeld 1: Naam van Voorbeeld of Organisatie"
 	Hier staat meer beschreven over het voorbeeld. Bijvoorbeeld iets wat in een rapport of artikel van een organisatie stond over de implementatie van een specifieke maatregel of advies dat zeer gerelateerd is aan deze maatregel in het Algoritmekader.
 
        Elke alinea bínnen dit voorbeeld heeft een extra inspringing. Verander dit niet, want dan gaat het niet goed met de opmaal van het voorbeeld-blok.
 
 
-!!! example "Voorbeeld 2: Naam van Voorbeeld of Organisatie" 
+!!! example "Voorbeeld 2: Naam van Voorbeeld of Organisatie"
 	Hier staat meer beschreven over het voorbeeld. Bijvoorbeeld iets wat in een rapport of artikel van een organisatie stond over de implementatie van een specifieke maatregel of advies dat zeer gerelateerd is aan deze maatregel in het Algoritmekader.
 
        Elke alinea bínnen dit voorbeeld heeft een extra inspringing. Verander dit niet, want dan gaat het niet goed met de opmaal van het voorbeeld-blok.
 
- 
+
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

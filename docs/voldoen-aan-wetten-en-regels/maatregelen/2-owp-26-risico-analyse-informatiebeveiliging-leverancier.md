@@ -12,7 +12,7 @@ vereiste:
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
 levenscyclus:
 - ontwerp
-# vul hier de bouwblokken in die horen bij deze maatregel  
+# vul hier de bouwblokken in die horen bij deze maatregel
 onderwerp:
 - technische-robuustheid-en-veiligheid
 - publieke-inkoop
@@ -37,9 +37,9 @@ Voer een risico-analyse met de aanbieder uit op het gebied van informatiebeveili
 - Bespreek de informatiebeveiligingseisen met de aanbieder die verband houden met de beschikbaarheid, integriteit en vertrouwelijkheid van de informatie en de informatiesystemen.
 - Bepaal of er, gezien de restrisico's, aanvullende beveiligingsmaatregelen (door de aanbieder of opdrachtgever) moeten worden getroffen om deze te beschermen.
 
-## Risico 
+## Risico
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Er is onvoldoende zicht op risico's op het gebied van informatiebeveiliging als gebruik wordt gemaakt van algoritmes van aanbieders. 
+Er is onvoldoende zicht op risico's op het gebied van informatiebeveiliging als gebruik wordt gemaakt van algoritmes van aanbieders.
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
@@ -52,4 +52,4 @@ Er is onvoldoende zicht op risico's op het gebied van informatiebeveiliging als 
 
 ## Voorbeelden
 
-Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

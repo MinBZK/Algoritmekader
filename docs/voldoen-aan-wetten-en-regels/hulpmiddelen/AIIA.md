@@ -1,7 +1,7 @@
 ---
 title: AI Impact Assessment (AIIA)
-toelichting: Het AIIA is een praktisch hulpmiddel en begeleidt het denkproces, met als doel de verantwoording, kwaliteit en reproduceerbaarheid van AI-inzet te vergroten. 
-categorie: 
+toelichting: Het AIIA is een praktisch hulpmiddel en begeleidt het denkproces, met als doel de verantwoording, kwaliteit en reproduceerbaarheid van AI-inzet te vergroten.
+categorie:
 - handreiking
 - impact-assessment
 vereiste:
@@ -30,18 +30,18 @@ levenscyclus:
 - monitoring-en-beheer
 - ontwikkelen
 onderwerp:
-- privacy-en-gegevensbescherming 
-- duurzaamheid 
-- fundamentele-rechten 
-- technische-robuustheid-en-veiligheid 
-- transparantie 
-- menselijke-controle 
-- data 
+- privacy-en-gegevensbescherming
+- duurzaamheid
+- fundamentele-rechten
+- technische-robuustheid-en-veiligheid
+- transparantie
+- menselijke-controle
+- data
 rollen:
-- jurist 
-- ontwikkelaar 
-- projectleider 
-- beleid-en-advies 
+- jurist
+- ontwikkelaar
+- projectleider
+- beleid-en-advies
 hide: navigation
 ---
 
@@ -67,12 +67,12 @@ Het AIIA bestaat uit:
 Het AIIA is praktisch ingestoken en is ontwikkeld samen met de organisatie. Hierdoor is de AIIA goed toepasbaar in verschillende trajecten. Daarnaast is de AIIA in 2024 vernieuwd (een eerste versie verscheen in 2022) waarbij de laatste versie van de AI Act en geldige wet en regelgeving geïntegreerd is, waardoor het een compleet document is geworden dat verschillende aspecten van een AI systeem behandelt.
 Het AIIA kan in elke fase van een project worden ingezet. Zoek hierbij de diepgang en het detailniveau dat past bij het stadium van ontwikkeling en de risico’s van de applicatie. Het AIIA zet je bijvoorbeeld in als quick-scan om te onderzoeken of een AI-idee toegevoegde waarde heeft. Ook kan het gebruikt worden bij het maken van een projectplan zodat alle relevante aspecten, zoals bijvoorbeeld [technische robuustheid](../../onderwerpen/technische-robuustheid-en-veiligheid.md), impact en communicatie meegenomen worden.
 
-Het AIIA heeft enige overlap met het [IAMA](IAMA.md). Het AIIA is echter specifiek voor AI ontwikkeld, waar het IAMA toepasbaar is op alle soorten algoritmes. 
+Het AIIA heeft enige overlap met het [IAMA](IAMA.md). Het AIIA is echter specifiek voor AI ontwikkeld, waar het IAMA toepasbaar is op alle soorten algoritmes.
 
 
 ## Auteur
 
-Het AIIA is ontwikkeld door het Ministerie van Infratsructuur en Waterstaat (IenW). Het is opgesteld in nauwe samenwerking met de datalabs van de Inspectie Leefomgeving en transport en Rijkswaterstaat. Het is een verplicht instrument binnen het Ministerie van IenW, maar wordt inmiddels ook breder gebruikt. 
+Het AIIA is ontwikkeld door het Ministerie van Infratsructuur en Waterstaat (IenW). Het is opgesteld in nauwe samenwerking met de datalabs van de Inspectie Leefomgeving en transport en Rijkswaterstaat. Het is een verplicht instrument binnen het Ministerie van IenW, maar wordt inmiddels ook breder gebruikt.
 
 ## Bijbehorende vereisten { data-search-exclude }
 

@@ -2,7 +2,7 @@
 # Dit template dient als voorbeeld voor een HULPMIDDEL in het Algoritmekader.
 # Meer over de onderdelen van deze broncode en de voorwaarden waar die aan moeten voldoen, lees je in de documentatie:
 # https://github.com/MinBZK/Algoritmekader/wiki/Onderdelen-van-het-Algoritmekader
-# let op!  Geen punt (.) achter de titel! 
+# let op!  Geen punt (.) achter de titel!
 
 title: Hier staat de titel, die in 1 zin het hulpmiddel beschrijft
 
@@ -11,7 +11,7 @@ id: urn:nl:ak:mtr:owp-00
 
 toelichting: Hier staat in maximaal enkele zinnen uitgelegd wat dit hulpmiddel inhoudt. Maximaal 40 woorden.
 
-# Vul een categorie in waar dit hulpmiddel onder valt. Je kunt kiezen uit: 
+# Vul een categorie in waar dit hulpmiddel onder valt. Je kunt kiezen uit:
 categorie:
 - toetsingskader
 - handreiking
@@ -35,7 +35,7 @@ rollen:
 - projectleider
 
 # vul hier de bestandsnamen in van de vereisten die horen bij dit hulpmiddel (minus de bestandsuitgang '.md'):
-vereiste: 
+vereiste:
 - aia-03-risicobeheersysteem
 - aia-04-risicobeoordeling-voor-jongeren-en-kwetsbaren
 - aia-05-data-kwaliteitscriteria
@@ -85,4 +85,3 @@ Hier staan in dat geval dan de bronnen van het hulpmiddel. -->
 ## Bijbehorende maatregelen
 
 <!-- list_maatregelen_on_hulpmiddelen_page -->
-

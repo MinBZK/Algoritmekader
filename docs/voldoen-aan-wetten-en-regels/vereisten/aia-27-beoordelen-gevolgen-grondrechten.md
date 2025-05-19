@@ -17,16 +17,16 @@ risicogroep:
 - hoog-risico-ai-systeem
 rol-ai-act:
 - gebruiksverantwoordelijke
-transparantieverplichting: 
+transparantieverplichting:
 - geen-transparantieverplichting
-- transparantieverplichting 
+- transparantieverplichting
 systeemrisico:
 - niet-van-toepassing
-open-source: 
+open-source:
 - open-source
 - geen-open-source
 - niet-van-toepassing
-uitzondering: 
+uitzondering:
 - risicogroep-uitzondering-van-toepassing
 
 hide:
@@ -54,7 +54,7 @@ Het doel is om de bescherming van grondrechten te waarborgen bij het gebruik van
 - [Bijlage III, onderdeel 2 en 5, AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#anx_III)
 - [Impact Assessment Mensenrechten en Algoritmes (IAMA)](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/IAMA)
 
-## Van toepassing op 
+## Van toepassing op
 <!-- tags-ai-act -->
 
 

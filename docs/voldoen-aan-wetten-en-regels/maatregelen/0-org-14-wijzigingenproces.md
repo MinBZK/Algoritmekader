@@ -53,17 +53,16 @@ Als een formeel wijzigingenproces ontbreekt bestaat het risico van ongeautorisee
 
 - [Baseline Informatiebeveiliging Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/)
 - [Onderzoekskader Algoritmes Auditdienst Rijk, IB.1 t/m IB.5](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
-- [Toetsingskader Algoritmes Algemene Rekenkamer, 4.07](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag) 
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 4.07](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 
 ## Voorbeelden
 
 !!! example "Informatie Beveiligingsdienst - Aanwijzing Logging"
-	
+
 	De informatie beveiligingsdienst (IBD) heeft een handreiking gepubliceerd rondom logging-beleid en -procedures. Hierin wordt onder andere uitgelegd wat voor soorten logbestanden er zijn, voor wie deze belangrijk zijn en wat er in een log moet staan. Daarnaast wordt toegelicht hoe logging gecontroleerd kan/moet worden.
 
 	Dit document kan een goede basis vormen voor het beginnen met log bestanden maken. Zo staan er in dit document verschillende bijlagen zoals een template voor logging-beleid en verschillende infographics die het logging-proces en de controles visualiseren voor de lezer.
-	
+
 	Bron: [Handreiking Logging](https://www.informatiebeveiligingsdienst.nl/product/aanwijzing-logging/)
 
-Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
-
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

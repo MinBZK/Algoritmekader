@@ -1,8 +1,8 @@
 ---
-title: Onderzoekskader algoritmes Auditdienst Rijk 2023 
+title: Onderzoekskader algoritmes Auditdienst Rijk 2023
 toelichting: De Auditdienst Rijk heeft een praktisch onderzoekskader ontwikkeld om de beheersing van algoritmes in kaart te brengen. Het kader geeft inzicht in de risico’s die algoritmes met zich meebrengen en met welke maatregelen deze risico’s beheerst (kunnen) worden.
-categorie: 
-- toetsingskader 
+categorie:
+- toetsingskader
 vereiste:
 - aia-06-technische-documentatie
 levenscyclus:
@@ -19,13 +19,13 @@ hide: navigation
 
 <!-- tags -->
 
-[Direct naar Onderzoekskader algoritmes](https://www.auditdienstrijk.nl/kennis-delen/documenten/publicaties/2023/11/7/onderzoekskader-algoritmes-auditdienst-rijk-2023){ .button .md-button--secondary }
+[Direct naar Onderzoekskader algoritmes](https://www.auditdienstrijk.nl/documenten/2023/11/7/onderzoekskader-algoritmes-auditdienst-rijk-2023){ .button .md-button--secondary }
 
 ## Hulpmiddel
 
 Dit onderzoekskader is een instrument om de beheersing van algoritmes in kaart te brengen.
 Het geeft inzicht in de risico’s die algoritmes met zich meebrengen en met welke maatregelen deze
-risico’s beheerst (kunnen) worden. 
+risico’s beheerst (kunnen) worden.
 
 Het onderzoekskader is in eerste instantie bedoeld als instrument voor auditors om de beheersing
 en werking van algoritmes binnen overheidsorganisaties te onderzoeken, maar is ook bruikbaar
@@ -37,7 +37,7 @@ toepasbaar op regelgebaseerde algoritmes. Het kader is ook bruikbaar voor andere
 en kan bij verschillende fases van de levenscyclus van een algoritme worden ingezet. Mogelijk zijn
 niet alle thema’s relevant gezien de context van het algoritme. De opdrachtgever en auditor(s)
 dienen daarom voorafgaand aan een onderzoek te analyseren en te bepalen welke thema’s en
-onderwerpen worden onderzocht. Het onderzoekskader is ingedeeld in 4 thema’s: 
+onderwerpen worden onderzocht. Het onderzoekskader is ingedeeld in 4 thema’s:
 
 - Sturing en Verantwoording
 - Privacy
@@ -63,7 +63,7 @@ Nederland). De bron van de betreffende risico’s en beheersmaatregelen is teven
 Dit onderzoekskader is erg overkoepelend (net als het [toetsingskader van de Algemene Rekenkamer](toetsingskader-algemene-rekenkamer.md)). Er zijn dan ook veel maatregelen in het Algoritmekader gebaseerd op maatregelen die in het kader van de ADR staan. [Bekijk alle maatregelen van het Algoritmekader hier](../maatregelen/index.md).
 
 ## Auteur
-Het Onderzoekskader Algoritmes is ontwikkeld door de Auditdienst Rijk  
+Het Onderzoekskader Algoritmes is ontwikkeld door de Auditdienst Rijk
 
 ## Bijbehorende vereisten { data-search-exclude }
 

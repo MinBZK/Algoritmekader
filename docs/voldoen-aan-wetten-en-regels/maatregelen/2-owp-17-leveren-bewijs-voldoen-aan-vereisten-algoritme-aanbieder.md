@@ -5,17 +5,17 @@ id: urn:nl:ak:mtr:owp-17
 # geef hier een korte toelichting van deze maatregel
 toelichting: Het leveren van bewijs door een aanbieder dat deze voldoet aan de vereisten voor algoritmes draagt bij aan het kunnen beoordelen of een aanbieder geschikt is om mee te contractueren.
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
-vereiste: 
+vereiste:
 - aia-14-conformiteitsbeoordeling
 - aia-15-eu-conformiteitsverklaring
 - aia-16-ce-markering
 
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
-levenscyclus: 
+levenscyclus:
 - ontwerp
-  
+
 # vul hier de bouwblokken in die horen bij deze maatregel
-onderwerp: 
+onderwerp:
 - publieke-inkoop
 
 # vul hier de rollen in die betrokken zijn bij deze maatregel
@@ -37,20 +37,20 @@ hide:
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Het leveren van bewijs door aanbieder dat de ontwikkelde algoritmes voldoen aan de vereisten draagt bij aan het kunnen beoordelen of een aanbieder geschikt is om mee te contracteren. Bij het leveren van bewijs kan worden gedacht aan het overhandigen van bijvoorbeeld een certificaat of een EU-conformiteitsverklaring voor hoog risico AI-systemen. 
+Het leveren van bewijs door aanbieder dat de ontwikkelde algoritmes voldoen aan de vereisten draagt bij aan het kunnen beoordelen of een aanbieder geschikt is om mee te contracteren. Bij het leveren van bewijs kan worden gedacht aan het overhandigen van bijvoorbeeld een certificaat of een EU-conformiteitsverklaring voor hoog risico AI-systemen.
 
-Daarbij is het relevant om te beoordelen in hoeverre er is voldaan aan geharmoniseerde standaarden. Deze standaarden zijn momenteel in ontwikkeling. In de (nabije) toekomst zal dit naar verwachting op een vergelijkbare manier kunnen worden benaderd als bij het moeten leveren van een NEN-ISO 27001 certificaat (voldoen aan informatiebeveiligingsvereisten) door een leverancier.  
+Daarbij is het relevant om te beoordelen in hoeverre er is voldaan aan geharmoniseerde standaarden. Deze standaarden zijn momenteel in ontwikkeling. In de (nabije) toekomst zal dit naar verwachting op een vergelijkbare manier kunnen worden benaderd als bij het moeten leveren van een NEN-ISO 27001 certificaat (voldoen aan informatiebeveiligingsvereisten) door een leverancier.
 
-## Risico 
+## Risico
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Er wordt gecontracteerd met een aanbieder die niet voldoet aan de vereisten voor een verantwoorde inzet van algoritmes. 
+Er wordt gecontracteerd met een aanbieder die niet voldoet aan de vereisten voor een verantwoorde inzet van algoritmes.
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Let op! onderstaande regel met 'list_vereisten_on_maatregelen_page' niet weghalen! Deze maakt automatisch een lijst van bijbehorende verseisten op basis van de metadata  -->
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
-## Bronnen 
+## Bronnen
 Geen beschikbare bron voor deze maatregel.
 
 ## Voorbeelden

@@ -1,7 +1,7 @@
 ---
 title: Organisaties zijn transparant over het verwerken van persoonsgegevens
 id: urn:nl:ak:ver:avg-07
-toelichting: De verwerking van persoonsgegevens moet transparant zijn. 
+toelichting: De verwerking van persoonsgegevens moet transparant zijn.
 levenscyclus:
 - implementatie
 - monitoring-en-beheer
@@ -15,7 +15,7 @@ soort-toepassing:
 - ai-model-voor-algemene-doeleinden
 - ai-systeem
 - ai-systeem-voor-algemene-doeleinden
-risicogroep: 
+risicogroep:
 - hoog-risico-ai-systeem
 - geen-hoog-risico-ai-systeem
 - uitzondering-van-toepassing
@@ -25,15 +25,15 @@ rol-ai-act:
 - gebruiksverantwoordelijke
 - importeur
 - distributeur
-transparantieverplichting: 
+transparantieverplichting:
 - geen-transparantieverplichting
-- transparantieverplichting 
+- transparantieverplichting
 - niet-van-toepassing
 systeemrisico:
 - systeemrisico
 - geen-systeemrisico
 - niet-van-toepassing
-open-source: 
+open-source:
 - open-source
 - geen-open-source
 - niet-van-toepassing
@@ -63,14 +63,14 @@ Als persoonsgegevens worden verwerkt ten behoeve van het ontwikkelen of gebruike
 - [Artikel 14 Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679#d1e2347-1-1)
 - [Overweging 58 Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679#d1e40-1-1)
 
-## Van toepassing op 
+## Van toepassing op
 <!-- tags-ai-act -->
 
 
 ## Risico
 
 Rechten van betrokken worden geschonden als er geen sprake is van transparantie over de verwerkingen van de persoonsgegevens.
- 
+
 ## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/avg-07-transparantie-bij-verwerken-persoonsgegevens no-search no-onderwerp no-rol no-levenscyclus -->

@@ -40,23 +40,23 @@ Een aanvaller kan aan de hand van de uitkomsten van een model proberen om bepaal
 
 ### Statistical Disclosure Control
 Statistical Disclosure Control (SDC) is een veelgebruikte techniek om ervoor te zorgen dat er geen gevoelige informatie lekt uit de uitkomst van een datagedreven onderzoek.
-Alhoewel SDC vooral gericht is op traditionele data-analyses kan het ook gebruikt worden in de context van algoritmes. 
+Alhoewel SDC vooral gericht is op traditionele data-analyses kan het ook gebruikt worden in de context van algoritmes.
 Er zijn verschillende voorbeelden hoe SDC kan worden toegevoegd aan een AI-systeem, zoals [The SACRO-ML package](https://arxiv.org/abs/2212.01233).
 
 ### k-anonimity
-Daarnaast bestaan er ook nieuwere technieken die kunnen helpen bij het onherkenbaar maken van mogelijk gevoelige informatie in de outputs van algoritmes. Zo zijn er technieken gebaseerd op het generaliseren van data om individuen onherkenbaar te maken, zoals [k-anonimity](https://dl.acm.org/doi/10.1142/s0218488502001648). 
+Daarnaast bestaan er ook nieuwere technieken die kunnen helpen bij het onherkenbaar maken van mogelijk gevoelige informatie in de outputs van algoritmes. Zo zijn er technieken gebaseerd op het generaliseren van data om individuen onherkenbaar te maken, zoals [k-anonimity](https://dl.acm.org/doi/10.1142/s0218488502001648).
 
 ### Differential privacy
 Ook bestaan er technieken die ruis toevoegen aan de uitkomst, met wiskundige garanties van de veiligheid. De meest populaire techniek voor het toevoegen van ruis is [differential privacy](https://dl.acm.org/doi/10.1007/11787006_1).
 
 ### Rate limiting
-De hierboven benoemde oplossingen focussen op het beveiligen van één output van het algoritme. Veel aanvallen berusten echter ook op het veelvuldig aanroepen van een algoritme. Een andere oplossing die dit tegen kan gaan is het limiteren van het aantal interacties dat een gebruiker mag hebben met een algoritme, ook wel bekend als *rate limiting*. 
+De hierboven benoemde oplossingen focussen op het beveiligen van één output van het algoritme. Veel aanvallen berusten echter ook op het veelvuldig aanroepen van een algoritme. Een andere oplossing die dit tegen kan gaan is het limiteren van het aantal interacties dat een gebruiker mag hebben met een algoritme, ook wel bekend als *rate limiting*.
 
 ## Transparantie vs veiligheidsrisico
-Tot slot moet er ook afgewogen worden op welke manier [transparantie](../../onderwerpen/transparantie.md) van het algoritme leidt tot extra veiligheidsrisico’s. 
-Intuïtief kan een aanvaller makkelijker dingen te weten komen over een algoritme als er informatie gepresenteerd wordt over waarom bijvoorbeeld een AI-systeem een bepaalde keuze maakt. 
-Zo is een veelgebruikte techniek voor inference aanvallen om te kijken hoe 'zeker' een model is voor een bepaalde input. 
-Een beslissing met hoge zekerheid duidt er in veel gevallen op dat de input inderdaad in de trainingsdata zat. 
+Tot slot moet er ook afgewogen worden op welke manier [transparantie](../../onderwerpen/transparantie.md) van het algoritme leidt tot extra veiligheidsrisico’s.
+Intuïtief kan een aanvaller makkelijker dingen te weten komen over een algoritme als er informatie gepresenteerd wordt over waarom bijvoorbeeld een AI-systeem een bepaalde keuze maakt.
+Zo is een veelgebruikte techniek voor inference aanvallen om te kijken hoe 'zeker' een model is voor een bepaalde input.
+Een beslissing met hoge zekerheid duidt er in veel gevallen op dat de input inderdaad in de trainingsdata zat.
 Ook het gebruik van explainable AI kan leiden tot extra veiligheidsrisico’s. Zo kan een uitleg gebaseerd op een tegenvoorbeeld makkelijk informatie over een persoon lekken als deze het tegenvoorbeeld is. In 2024 is er [een overzicht van bekende gevaren van specifieke uitlegbaarheidstechnieken](https://arxiv.org/abs/2404.00673).
 
 ## Risico
@@ -74,4 +74,3 @@ Als een gebruiker teveel informatie te zien krijgt kan dit bijvoorbeeld leiden t
 
 ## Voorbeelden
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
-

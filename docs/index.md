@@ -6,9 +6,9 @@ hide:
   - toc
 ---
 
-# Algoritmekader 
+# Algoritmekader
 <div class="header-container">
-    <div class="subheader">Belangrijkste wetten en regels voor verantwoord gebruik van overheidsalgoritmes, met tips en hulpmiddelen. 
+    <div class="subheader">Belangrijkste wetten en regels voor verantwoord gebruik van overheidsalgoritmes, met tips en hulpmiddelen.
     <span class="version-container">
       <span class="version-label">Versie 2.2</span>
       <div class="hover-info">
@@ -18,7 +18,9 @@ hide:
     </div>
 </div>
 
-<a href="{{ base_url }}/over-het-algoritmekader/over-het-algoritmekader/" class="button md-button--secondary">Over het algoritmekader</a> 
+
+<a href="{{ base_url }}/over-het-algoritmekader/over-het-algoritmekader/" class="button md-button--secondary">Over het algoritmekader</a>
+
 
 <div class="float-container">
 
@@ -31,7 +33,7 @@ hide:
       <li><a href="soorten-algoritmes-en-ai/generatieve-ai/">Generatieve AI</a></li>
       <li><a href="soorten-algoritmes-en-ai/risico-van-ai-systemen/">Risico van AI-systemen</a></li>
     </ul>
-    
+
   </div>
   </div>
 
@@ -44,7 +46,7 @@ hide:
       <li><a href="voldoen-aan-wetten-en-regels/maatregelen/">Overzicht Aanbevolen maatregelen</a></li>
       <li><a href="voldoen-aan-wetten-en-regels/hulpmiddelen/">Hulpmiddelen</a></li>
     </ul>
-      
+
     </div>
   </div>
 
@@ -66,12 +68,12 @@ hide:
     <div class="float-box">
     <h3><b>Onderwerpen</b></h3>
     <ul>
-      <li><a href="onderwerpen/bias-en-non-discriminatie/">Discriminatie</a></li>   
+      <li><a href="onderwerpen/bias-en-non-discriminatie/">Discriminatie</a></li>
       <li><a href="onderwerpen/privacy-en-gegevensbescherming/">Privacy en persoonsgegevens</a></li>
       <li><a href="onderwerpen/publieke-inkoop/">Publieke inkoop</a></li>
     </ul>
     <a href="onderwerpen/" class="show-more"><b>Alle onderwerpen</b></a>
-      
+
   </div>
   </div>
 

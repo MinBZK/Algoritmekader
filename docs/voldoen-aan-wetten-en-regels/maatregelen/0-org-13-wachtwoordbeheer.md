@@ -13,7 +13,7 @@ rollen:
 - projectleider
 - ontwikkelaar
 sources:
-  ADR: 
+  ADR:
   - IB.6
   - IB.7
   - IB.8

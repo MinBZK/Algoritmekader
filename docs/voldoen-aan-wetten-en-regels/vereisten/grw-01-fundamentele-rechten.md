@@ -16,7 +16,7 @@ soort-toepassing:
 - ai-model-voor-algemene-doeleinden
 - ai-systeem
 - ai-systeem-voor-algemene-doeleinden
-risicogroep: 
+risicogroep:
 - hoog-risico-ai-systeem
 - geen-hoog-risico-ai-systeem
 - uitzondering-van-toepassing
@@ -26,15 +26,15 @@ rol-ai-act:
 - gebruiksverantwoordelijke
 - importeur
 - distributeur
-transparantieverplichting: 
+transparantieverplichting:
 - geen-transparantieverplichting
-- transparantieverplichting 
+- transparantieverplichting
 - niet-van-toepassing
 systeemrisico:
 - systeemrisico
 - geen-systeemrisico
 - niet-van-toepassing
-open-source: 
+open-source:
 - open-source
 - geen-open-source
 - niet-van-toepassing
@@ -71,11 +71,11 @@ Het is daarom belangrijk om [tijdig te onderzoeken of er sprake is of kan zijn v
 - Internationaal Verdrag voor de Rechten van Mensen met een Handicap (VN-verdrag Handicap)
 - [Artikel 27 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e4433-1-1)
 
-## Van toepassing op 
+## Van toepassing op
 <!-- tags-ai-act -->
 
 ## Risico
-Grondrechten kunnen worden geraakt door de inzet van algoritmes met eventuele schadelijke gevolgen voor betrokkenen. 
+Grondrechten kunnen worden geraakt door de inzet van algoritmes met eventuele schadelijke gevolgen voor betrokkenen.
 
 ## Maatregelen { data-search-exclude }
 <!-- list_maatregelen vereiste/grw-01-fundamentele-rechten no-search no-onderwerp no-rol no-levenscyclus -->

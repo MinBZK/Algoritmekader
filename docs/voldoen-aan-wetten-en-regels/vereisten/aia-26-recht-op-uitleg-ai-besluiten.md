@@ -19,16 +19,16 @@ risicogroep:
 - hoog-risico-ai-systeem
 rol-ai-act:
 - gebruiksverantwoordelijke
-transparantieverplichting: 
+transparantieverplichting:
 - geen-transparantieverplichting
-- transparantieverplichting 
+- transparantieverplichting
 systeemrisico:
 - niet-van-toepassing
-open-source: 
+open-source:
 - open-source
 - geen-open-source
 - niet-van-toepassing
-uitzondering: 
+uitzondering:
 - risicogroep-uitzondering-van-toepassing
 hide:
 - navigation
@@ -53,7 +53,7 @@ Dit vereiste geldt bijvoorbeeld niet als het gaat om AI-systemen die bedoeld zij
 - [Artikel 26(11) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e4350-1-1)
 - [Bijlage III Verordening Artificiële Intelligentie]()
 
-## Van toepassing op 
+## Van toepassing op
 <!-- tags-ai-act -->
 
 ## Risico

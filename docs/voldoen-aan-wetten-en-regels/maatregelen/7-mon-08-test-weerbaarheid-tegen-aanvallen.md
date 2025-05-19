@@ -1,7 +1,7 @@
 ---
 title: Controleer regelmatig of een algoritme voldoende weerbaar is tegen bekende aanvallen
 id: urn:nl:ak:mtr:mon-08
-toelichting: Controleer regelmatig of je algoritme bestand is tegen aanvallen. 
+toelichting: Controleer regelmatig of je algoritme bestand is tegen aanvallen.
 levenscyclus:
 - ontwikkelen
 - verificatie-en-validatie
@@ -26,21 +26,21 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-Controleer regelmatig of je algoritme bestand is tegen aanvallen. 
+Controleer regelmatig of je algoritme bestand is tegen aanvallen.
 
 ## Toelichting
-Veel algoritmes veranderen in de loop van tijd. 
+Veel algoritmes veranderen in de loop van tijd.
 Daarom is het belangrijk om periodiek te blijven testen of de ingebouwde defensiemechanismen goed werken.
-In traditionele cyber security wordt hiervoor de term [*red teaming*](https://www.nightfall.ai/ai-security-101/ai-model-red-teaming) of *pentesting* gebruikt. 
+In traditionele cyber security wordt hiervoor de term [*red teaming*](https://www.nightfall.ai/ai-security-101/ai-model-red-teaming) of *pentesting* gebruikt.
 
 ### Pentesting
-Met pentesting wordt in feite een interactie tussen een aanvaller en het algoritme nagebootst.  
-Verschillende bedrijven die gespecialiseerd zijn in traditionele pentesting van IT systemen bieden nu ook specifiek pentesting van AI aan. 
-Indien er voldoende kennis aanwezig is, is het mogelijk  dit zelf te implementeren. 
+Met pentesting wordt in feite een interactie tussen een aanvaller en het algoritme nagebootst.
+Verschillende bedrijven die gespecialiseerd zijn in traditionele pentesting van IT systemen bieden nu ook specifiek pentesting van AI aan.
+Indien er voldoende kennis aanwezig is, is het mogelijk  dit zelf te implementeren.
 Dit kan bijvoorbeeld met behulp van de open-source ontwikkelde [Adversarial Robustness Toolbox (ART)](https://research.ibm.com/projects/adversarial-robustness-toolbox) ontwikkeld door IBM (en nu in beheer door de Linux Foundation).
 
 ### Top-10 security risico’s van LLM’s
-Het is lastig in te schatten met wat voor aanvallen er rekening gehouden moet worden voor een AI-systeem. 
+Het is lastig in te schatten met wat voor aanvallen er rekening gehouden moet worden voor een AI-systeem.
 Hiervoor heeft OWASP een [top 10 opgesteld van security risico’s van LLM’s](https://owasp.org/www-project-top-10-for-large-language-model-applications/). Veel risico's zijn waarschijnlijk ook van toepassing op andere soorten AI-systemen.
 
 ## Risico

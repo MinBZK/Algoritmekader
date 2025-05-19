@@ -1,7 +1,7 @@
 ---
 title: Controleer de auteursrechten van eigen data
 id: urn:nl:ak:mtr:dat-05
-toelichting: Controleer of eventueel door de eigen organisatie verstrekte data binnen of buiten auteursrechten vallen. Bij voorkeur blijven de data eigendom van de (verstrekkende) overheidsorganisatie. 
+toelichting: Controleer of eventueel door de eigen organisatie verstrekte data binnen of buiten auteursrechten vallen. Bij voorkeur blijven de data eigendom van de (verstrekkende) overheidsorganisatie.
 vereiste:
 - aut-01-auteursrechten
 levenscyclus:
@@ -33,7 +33,7 @@ Hier kan worden gedacht aan data die is gescraped van het internet en zou kunnen
     <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
-Onrechtmatig gebruik van data dat niet toegeëigend is aan de organisatie die de data gebruikt voor ontwikkeling van algoritmes. 
+Onrechtmatig gebruik van data dat niet toegeëigend is aan de organisatie die de data gebruikt voor ontwikkeling van algoritmes.
 
 ## Bronnen
 - [Onderzoekskader Auditdienst Rijk, SV.11](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
@@ -41,4 +41,3 @@ Onrechtmatig gebruik van data dat niet toegeëigend is aan de organisatie die de
 ## Voorbeelden
 
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
-

@@ -15,7 +15,7 @@ hide:
     ---
 
     De levenscyclus helpt je te bepalen wat je wanneer moet doen. Hoe ziet dit eruit in een plaatje? En waarom 8 fasen?
-   
+
 
 -  [__Fase 0: Organisatieverantwoordelijkheden__](organisatieverantwoordelijkheden.md)
 
@@ -24,7 +24,7 @@ hide:
     Voordat je start met de ontwikkeling of het gebruik van een algoritme, zul je moeten zorgen dat je organisatie voldoende ingericht is om algoritmes te gebruiken of te ontwikkelen.
 
 -   [__Fase 1: Probleemanalyse__](probleemanalyse.md)
-    
+
     ---
 
     In deze fase wordt het probleem en de doelstellingen van een opdrachtgever geanalyseerd en beschreven.

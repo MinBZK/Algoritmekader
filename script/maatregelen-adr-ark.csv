@@ -28,7 +28,7 @@ PRI.7;De persoonsgegevens en bijzondere en strafrechtelijke persoonsgegevens die
 PRI.8;De betrokkenen zijn geïnformeerd over de verwerking van persoonsgegevens door het algoritme en de verwachte gevolgen.;Onderzoekskader Auditdienst Rijk
 PRI.9;Een proces om gehoor te geven aan de rechten van betrokkenen is aanwezig en ingeregeld.;Onderzoekskader Auditdienst Rijk
 PRI.10;Het algoritme betreft geen uitsluitend op geautomatiseerde verwerking, waaronder profilering, gebaseerd besluit waaraan voor de betrokkene juridische of anderszins aanmerkelijke gevolgen zijn verbonden.;Onderzoekskader Auditdienst Rijk
-PRI.11;"De persoonsgegevens die het algoritme verwerkt worden niet langer bewaard dan voor de verwezenlijking van de 
+PRI.11;"De persoonsgegevens die het algoritme verwerkt worden niet langer bewaard dan voor de verwezenlijking van de
 verwerkingsdoeleinden noodzakelijk is. Zij worden tijdig vernietigd conform procedure.";Onderzoekskader Auditdienst Rijk
 DM.1;De doelstelling van het algoritme is concreet uitgewerkt tot functionele eisen voor het algoritme. De mate waarin aan deze eisen is voldaan is bepaald.;Onderzoekskader Auditdienst Rijk
 DM.2;De keuze voor het model en de hyperparameters zijn beargumenteerd en vastgelegd.;Onderzoekskader Auditdienst Rijk

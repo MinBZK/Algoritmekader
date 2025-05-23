@@ -462,26 +462,3 @@
     animation-duration: 150ms;
     animation-timing-function: ease;
 }
-
-/* Responsive adjustments for smaller screens */
-@media (max-width: 768px) {
-    .modal-content-container {
-        width: 95%;
-        height: 90%;
-        margin-top: 2vh;
-    }
-
-    .model-content-auto-size {
-        max-width: 95% !important;
-        max-height: 95vh !important;
-    }
-}
-
-@media (max-width: 480px) {
-    .modal-content-container {
-        width: 98%;
-        height: 95%;
-        margin-top: 1vh;
-        padding: 0.5em;
-    }
-}

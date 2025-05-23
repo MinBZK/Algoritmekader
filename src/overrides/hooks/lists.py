@@ -123,6 +123,7 @@ def _create_table_row_2(
         if filter_options.get("onderwerp", True)
         else ""
     )
+    # Worden op dit moment niet gebruikt
     # vereiste_chips = (
     #     "".join(
     #         _create_chip(vereiste, "vereiste", current_file, config)
@@ -361,8 +362,8 @@ def on_env(env, config: MkDocsConfig, files: Files):
                     config.site_url or "/", vereiste_file.url
                 )
                 vereisten_table.append(
-
-                    f'<tr><td><a href="{vereiste_link}">{vereiste_id}</a></td><td><a href="{vereiste_link}">{vereiste_title}</a></td></tr>')
+                    f'<tr><td><a href="{vereiste_link}">{vereiste_id}</a></td><td><a href="{vereiste_link}">{vereiste_title}</a></td></tr>'
+                )
             else:
                 vereisten_table.append(
                     f"<tr><td>{vereiste}</td></tr>"
@@ -402,7 +403,8 @@ def on_env(env, config: MkDocsConfig, files: Files):
                     config.site_url or "/", maatregel_file.url
                 )
                 maatregelen_table.append(
-                    f'<tr><td><a href="{maatregel_link}">{maatregel_id}</a></td><td><a href="{maatregel_link}">{maatregel_title}</a></td></tr>')
+                    f'<tr><td><a href="{maatregel_link}">{maatregel_id}</a></td><td><a href="{maatregel_link}">{maatregel_title}</a></td></tr>'
+                )
             else:
                 maatregelen_table.append(
                     f"<tr><td>{maatregel}</td></tr>"

@@ -47,7 +47,7 @@ Geen beschikbare bron voor deze maatregel.
 
     Bron: [Gids AI-verordening](https://www.rijksoverheid.nl/documenten/brochures/2024/10/16/gids-ai-verordening)
 
-    Wil je meer hulp bij het vinden van de regels die specifiek voor jou gelden, gebruik dan ook de [Beslishulp AI-Verordening](https://ai-verordening-beslishulp.apps.digilab.network/).
+    Wil je meer hulp bij het vinden van de regels die specifiek voor jou gelden, gebruik dan ook de <a href="#" onclick="showModal(event, 'beslishulp AI-verordening', {redirectUrl: 'voldoen-aan-wetten-en-regels/vereisten/'});">beslishulp AI-verordening</a>.
 
 
 !!! example "Gemeente Rotterdam: Processchema governance"

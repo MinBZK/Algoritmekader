@@ -83,14 +83,6 @@ function getBasePath() {
   }
 }
 
-// Function to handle the redirect to vereisten page
-function redirectThenShowModal(event, targetUrl) {
-  event.preventDefault();
-  sessionStorage.setItem('showModalAfterRedirect', 'true');
-  sessionStorage.setItem('pendingRedirect', targetUrl);
-  window.location.href = targetUrl;
-}
-
 // Enhanced showModal function to support redirect functionality
 function showModal(event, modalId, options = {}) {
   event.preventDefault();
@@ -109,7 +101,7 @@ function showModal(event, modalId, options = {}) {
       });
       loadHTML(`${basePath}/html/ai-verordening-popup.html`, 'modal-content')
       document.getElementById("modal-content-container").classList.add("model-content-auto-size");
-  } else if (modalId === "beslishulp") {
+  } else if (modalId === "beslishulp AI-verordening") {
       document.getElementById("modal-content").innerHTML = `<iframe
           style="display: block; width: 100%; height: 100%; border: 0; padding: 0; margin: 0; overflow: hidden;"
           src="${basePath}/html/beslishulp.html"></iframe>`

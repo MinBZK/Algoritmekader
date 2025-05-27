@@ -169,7 +169,7 @@ Lijst van gebruikte bronnen, standaarden, en aanvullende documentatie
 - 'AI Act and the future standards - webinar' (11 december 2024). Het webinar kan [hier worden teruggekeken. Hier zijn ook de presentaties en Q&A's over standaarden te vinden](https://www.ds.dk/en/news/2024/ai-act-and-the-future-standards).
 
 ## Beslishulp AI-verordening
-Met de [beslishulp AI-verordening](https://ai-verordening-beslishulp.apps.digilab.network/) bepaal je snel en gemakkelijk of jouw AI-product onder de AI-verordening valt. En wat je dan moet doen.
+Met de <a href="#" onclick="showModal(event, 'beslishulp AI-verordening', {redirectUrl: 'voldoen-aan-wetten-en-regels/vereisten/'});">beslishulp AI-verordening</a> bepaal je snel en gemakkelijk of jouw AI-product onder de AI-verordening valt. En wat je dan moet doen.
 
 ## Help ons deze pagina te verbeteren
 Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/issues/new/choose) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

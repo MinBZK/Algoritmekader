@@ -19,6 +19,7 @@ Met voorgaande handelingen wordt het fundament gelegd om het algoritme te kunnen
 In de praktijk zal bijvoorbeeld het analyseren van de data niet stoppen na deze fase, maar terugkerend zijn in alle fasen die volgen.
 Als de verzamelde data van voldoende kwaliteit is en de vereiste maatregelen zijn getroffen, dan kan worden gestart met het ontwikkelen van het algoritme.
 
+Zorg dat je tijdens de ontwikkeling van het algoritme ook een testdataset mee ontwikkelt. Het doel van deze testdataset is het valideren van de aannamens die je had tijdens de ontwikkeling van het algoritme. Door ook de testdataset met de broncode van het algoritme mee te publiceren wordt het inzichtelijker wat het algoritme beoogd te doen.
 
 ## Vereisten { data-search-exclude }
 

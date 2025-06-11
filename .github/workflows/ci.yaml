@@ -21,7 +21,11 @@ jobs:
           cache: 'pip'
 
       - name: Install dependencies
-        run: pip install pytest pyyaml
+        run: |
+          pip install pytest pyyaml
+          pip install playwright pytest-playwright
+      - name: Install Playwright browsers
+        run: playwright install chromium
 
       - name: Run tests
         run: pytest tests/

@@ -2,6 +2,7 @@
 title: Vereisten voor de overheid
 summary: Overzicht van vereisten voor overheden die algoritmes of AI ontwikkelen of gebruiken.
 id: 0
+allow_excel_export: true
 hide:
   - navigation
   - toc
@@ -9,7 +10,6 @@ hide:
 # Vereisten voor de overheid
 Overzicht van de belangrijkste vereisten voor overheden die algoritmes of AI-systemen ontwikkelen of gebruiken.
 
-## Overzicht vereisten { data-search-exclude }
 
 <!-- list_vereisten -->
 

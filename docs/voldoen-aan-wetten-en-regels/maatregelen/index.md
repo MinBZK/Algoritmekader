@@ -1,5 +1,6 @@
 ---
 title: Aanbevolen maatregelen
+allow_excel_export: true
 hide:
   - navigation
   - toc
@@ -8,7 +9,6 @@ hide:
 # Aanbevolen maatregelen
 Overzicht van maatregelen waarmee je kunt voldoen aan de vereisten voor de overheid. Deze maatregelen zijn niet verplicht. Andere maatregelen zijn ook mogelijk.
 
-## Overzicht maatregelen { data-search-exclude }
 
 <!-- list_maatregelen -->
 

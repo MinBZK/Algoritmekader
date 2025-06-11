@@ -1,18 +1,10 @@
 ---
-title: Soorten algoritmes
+title: Wat is een algoritme?
 summary: Uitleg van de verschillende soorten algoritmes waar je mee kunt werken.
 ---
 
-# Soorten algoritmes
-Om te voldoen aan de vereisten, moet je weten met welk soort algoritme je werkt. Gaat het om simpele rekenregels of een AI-systeem?
-
-## Wanneer is het een algoritme?
-Met een algoritme bedoelen we een set regels en instructies die een computer uitvoert, met 1 of meer van deze doelen:
-
-* problemen oplossen
-* vragen beantwoorden
-* taken of processen uitvoeren
-* besluiten nemen
+# Wat is een algoritme?
+Met een algoritme bedoelen we een set regels en instructies die een computer uitvoert, met als doel: problemen oplossen, vragen beantwoorden, taken of processen uitvoeren en/of besluiten nemen. Dit kunnen simpele rekenregels zijn. Of zelflerende algoritmes en AI-systemen.
 
 ## Rekenregels
 Rekenregels (ook wel: regelgebaseerde algoritmes) zijn de meest eenvoudige algoritmes. Dit zijn door mensen bedachte regels die het computersysteem precies moet opvolgen: als x gebeurt, dan doe je y.
@@ -22,16 +14,16 @@ Rekenregels:
 * zijn expliciet geprogrammeerd en bedacht door mensen
 * bestaan uit vaste stappen om een taak uit te voeren
 
-Rekenregels zijn niet kunstmatig intelligent (AI). Rekenregels kunnen wel onderdeel zijn van een AI-systeem. 
+Rekenregels zijn niet kunstmatig intelligent (AI). Rekenregels kunnen wel onderdeel zijn van een AI-systeem.
 
 ### Voorbeelden
 
 * Eenvoudige chatbots die burgers advies geven op basis van door mensen bedachte beslisbomen.
-* [Ondersteuning berekening uitkering](https://algoritmes.overheid.nl/nl/algoritme/ondersteuning-berekening-uitkering-gemeente-den-haag/86652588) dat adviseert over uitkeringen, op basis van door mensen bedachte beslisbomen. 
+* [Ondersteuning berekening uitkering](https://algoritmes.overheid.nl/nl/algoritme/ondersteuning-berekening-uitkering-gemeente-den-haag/86652588) dat adviseert over uitkeringen, op basis van door mensen bedachte beslisbomen.
 * [Prestatiemonitor](https://algoritmes.overheid.nl/nl/algoritme/prestatiemonitor-inspectie-van-het-onderwijs-ocw/79978718) dat risicoscores berekent van scholen, op basis van door mensen bedachte regels.
 
 ## Zelflerende algoritmes
-Zelflerende algoritmes zijn algoritmes die zichzelf trainen. Dit proces heet machinelearning. Hierdoor leren computers van data, zonder dat mensen dit precies zo programmeren. Ze zoeken bijvoorbeeld naar patronen of doen voorspellingen. Dit is een veel voorkomende vorm van AI. 
+Zelflerende algoritmes zijn algoritmes die zichzelf trainen. Dit proces heet machinelearning. Hierdoor leren computers van data, zonder dat mensen dit precies zo programmeren. Ze zoeken bijvoorbeeld naar patronen of doen voorspellingen. Dit is een veel voorkomende vorm van AI.
 
 Zelflerende technieken zijn in elk geval:
 

@@ -1,7 +1,7 @@
 ---
 title: Logs van hoog-risico-AI-systemen worden zes maanden bewaard door de aanbieder
 id: urn:nl:ak:ver:aia-13
-toelichting: Aanbieders van AI-systemen met een hoog risico bewaren de in artikel 12, lid 1, bedoelde logs die automatisch worden gegenereerd door hun AI-systemen met een hoog risico voor zover dergelijke logs onder hun controle vallen. 
+toelichting: Aanbieders van AI-systemen met een hoog risico bewaren de in artikel 12, lid 1, bedoelde logs die automatisch worden gegenereerd door hun AI-systemen met een hoog risico voor zover dergelijke logs onder hun controle vallen.
 levenscyclus:
 - ontwerp
 - monitoring-en-beheer
@@ -15,16 +15,16 @@ soort-toepassing:
 - ai-systeem-voor-algemene-doeleinden
 risicogroep:
 - hoog-risico-ai-systeem
-transparantieverplichting: 
+transparantieverplichting:
 - geen-transparantieverplichting
-- transparantieverplichting 
+- transparantieverplichting
 systeemrisico:
 - niet-van-toepassing
-open-source: 
+open-source:
 - open-source
 - geen-open-source
 - niet-van-toepassing
-uitzondering: 
+uitzondering:
 - risicogroep-uitzondering-van-toepassing
 rol-ai-act:
 - aanbieder
@@ -48,7 +48,7 @@ Deze logs moeten ten minste zes maanden worden bewaard, tenzij anders bepaald do
 - [Artikel 16(e) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3823-1-1)
 - [Artikel 12(1) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3495-1-1)
 
-## Van toepassing op 
+## Van toepassing op
 <!-- tags-ai-act -->
 
 ## Risico

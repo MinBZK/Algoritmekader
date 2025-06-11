@@ -6,7 +6,7 @@ id: urn:nl:ak:mtr:owp-27
 toelichting: Door vereisten onderdeel te maken van het programma van eisen bij een aanbesteding, is het voor aanbieders duidelijk aan welke specifieke eisen een oplossing moet voldoen. Op basis hiervan kan een aanbieder een zo goed mogelijke aanbieding doen.
 
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
-vereiste: 
+vereiste:
 - aia-01-ai-geletterdheid
 - aia-02-documentatie-beoordeling-niet-hoog-risico-ai
 - aia-03-risicobeheersysteem
@@ -68,18 +68,18 @@ vereiste:
 - grw-02-non-discriminatie
 
 # vul hier de fasen van de levenscyclus in die horen bij deze maatregel
-levenscyclus: 
+levenscyclus:
 - ontwerp
 
 # vul hier de bouwblokken in die horen bij deze maatregel
-onderwerp: 
+onderwerp:
 - publieke-inkoop
 # geef hier aan welke rollen bij deze maatregelen betrokken kunnen zijn
 rollen:
 - projectleider
 - beleid-en-advies
 - ontwikkelaar
-  
+
 hide:
 - navigation
 - toc
@@ -96,11 +96,11 @@ Maak vereisten onderdeel van het programma van eisen bij een aanbesteding.
 <!-- Geef hier een toelichting van deze maatregel -->
 - Door vereisten onderdeel te maken van het programma van eisen bij een aanbesteding is het voor aanbieders duidelijk aan welke specifieke eisen een oplossing moet voldoen.
 - Op basis hiervan kan een aanbieder een zo goed mogelijke aanbieding doen.
-- Afhankelijk van de behoeftestelling kan het relevant zijn om bepaalde vereisten te verfijnen in het Programma van Eisen (PvE) en aan te geven wanneer hieraan voldaan is, bijvoorbeeld met betrekking tot de transparantievereiste. Bepaal met het inkoopteam bij welke vereisten dit noodzakelijk is. 
+- Afhankelijk van de behoeftestelling kan het relevant zijn om bepaalde vereisten te verfijnen in het Programma van Eisen (PvE) en aan te geven wanneer hieraan voldaan is, bijvoorbeeld met betrekking tot de transparantievereiste. Bepaal met het inkoopteam bij welke vereisten dit noodzakelijk is.
 
-## Risico 
+## Risico
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Er is niet gespecificeerd en daarmee achteraf niet afdwingbaar dat algoritmes aan bepaalde vereisten moeten voldoen die van belang zijn voor de betreffende overheidsorganisatie. 
+Er is niet gespecificeerd en daarmee achteraf niet afdwingbaar dat algoritmes aan bepaalde vereisten moeten voldoen die van belang zijn voor de betreffende overheidsorganisatie.
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
@@ -109,11 +109,11 @@ Er is niet gespecificeerd en daarmee achteraf niet afdwingbaar dat algoritmes aa
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
-## Bronnen 
+## Bronnen
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
 - [Hoe specificeer ik mijn vraag? (PIANOo - Inkopen in het kort](https://www.pianoo.nl/nl/inkopen-het-kort/hoe-zit-het-inkoopproces-elkaar/hoe-specificeer-ik-mijn-vraag)
 
 ## Voorbeelden
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
-Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

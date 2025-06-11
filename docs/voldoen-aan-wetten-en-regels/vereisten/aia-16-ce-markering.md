@@ -13,16 +13,16 @@ soort-toepassing:
 - ai-systeem-voor-algemene-doeleinden
 risicogroep:
 - hoog-risico-ai-systeem
-transparantieverplichting: 
+transparantieverplichting:
 - geen-transparantieverplichting
-- transparantieverplichting 
+- transparantieverplichting
 systeemrisico:
 - niet-van-toepassing
-open-source: 
+open-source:
 - open-source
 - geen-open-source
 - niet-van-toepassing
-uitzondering: 
+uitzondering:
 - risicogroep-uitzondering-van-toepassing
 rol-ai-act:
 - aanbieder
@@ -41,7 +41,7 @@ Aanbieders van AI-systemen met een hoog risico moeten een CE-markering toevoegen
 
 Op AI-systemen met een hoog risico die in een product zijn geïntegreerd moet een fysieke CE-markering worden aangebracht, die kan worden aangevuld met een digitale CE-markering.
 
-Voor AI-systemen met een hoog risico die alleen digitaal worden verstrekt, moet een digitale CE-markering worden gebruikt. 
+Voor AI-systemen met een hoog risico die alleen digitaal worden verstrekt, moet een digitale CE-markering worden gebruikt.
 
 De lidstaten mogen het in de handel brengen en het in gebruik stellen van AI-systemen met een hoog risico die aan de in de AI-verordening vastgelegde eisen voldoen en waarop de CE-markering is aangebracht, niet op ongerechtvaardigde wijze belemmeren.
 
@@ -50,8 +50,8 @@ De lidstaten mogen het in de handel brengen en het in gebruik stellen van AI-sys
 - [Artikel 16(h) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3823-1-1)
 - [Artikel 48 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5327-1-1)
 - [Overweging 129 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3823-1-1)
-  
-## Van toepassing op 
+
+## Van toepassing op
 <!-- tags-ai-act -->
 
 ## Risico

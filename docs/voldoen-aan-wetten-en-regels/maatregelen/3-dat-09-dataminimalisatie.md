@@ -5,18 +5,18 @@ toelichting: Houd datasets beperkt tot het noodzakelijke en voldoende specifiek 
 levenscyclus:
 - dataverkenning-en-datapreparatie
 - ontwikkelen
-onderwerp:  
-- data  
+onderwerp:
+- data
 - duurzaamheid
-rollen:  
+rollen:
 - ontwikkelaar
 - projectleider
 sources:
   ADR: PRI.5
   ARK: '2.20'
-hide:  
-- navigation  
-- toc  
+hide:
+- navigation
+- toc
 ---
 
 <!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->
@@ -40,7 +40,7 @@ Zonder dataminimalisatie loopt je organisatie het risico op onnodig hoge energie
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
-    
+
 ## Bronnen
 - [Onderzoekskader Auditdienst Rijk, PRI.5](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 2.20](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
@@ -52,8 +52,7 @@ Zonder dataminimalisatie loopt je organisatie het risico op onnodig hoge energie
 
     De Basisregistratie Personen (BRP) heeft in 2023 een experiment uitgevoerd rondom dataminimalisatie. BRP-gegevens zoals naam en geslacht werden vertaald naar direct bruikbare informatie zoals aanschrijfnaam. Op deze manier werd informatie op een efficiëntere manier doorgegeven.
     Het experiment van BRP is een indirecte vorm van energie-efficiëntie omdat er minder (onnodige) data verstrekt wordt aan de aanvrager. Hierdoor hoeft de aanvrager minder data op te slaan en te verwerken.
-        
+
     Bron: [Experimentbesluit BRP dataminimalisatie](https://www.internetconsultatie.nl/experimentbesluitbrp/b1)
 
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
-

@@ -14,22 +14,22 @@ Om algoritmes op een verantwoorde manier te gebruiken, zul je op de juiste momen
 ## Fases van de levenscyclus
 
 <ol start="0">
-  <li> <a href="../organisatieverantwoordelijkheden/">Organisatieverantwoordelijkheden</a></li>
-  <li> <a href="../probleemanalyse/">Probleemanalyse</a></li>
-  <li> <a href="../ontwerp/">Ontwerp</a></li>
-  <li> <a href="../dataverkenning-en-datapreparatie/">Dataverkenning en datapreparatie</a></li>
-  <li> <a href="../ontwikkelen/">Ontwikkelen</a></li>
-  <li> <a href="../verificatie-en-validatie/">Verificatie en validatie</a></li>
-  <li> <a href="../implementatie/">Implementeren</a></li>
-  <li> <a href="../monitoring-en-beheer/">Monitoring en beheer</a></li>
-  <li> <a href="../uitfaseren/">Uitfaseren</a></li>
+  <li> <a href="{{ base_url }}/levenscyclus/organisatieverantwoordelijkheden/">Organisatieverantwoordelijkheden</a></li>
+  <li> <a href="{{ base_url }}/levenscyclus/probleemanalyse/">Probleemanalyse</a></li>
+  <li> <a href="{{ base_url }}/levenscyclus/ontwerp/">Ontwerp</a></li>
+  <li> <a href="{{ base_url }}/levenscyclus/dataverkenning-en-datapreparatie/">Dataverkenning en datapreparatie</a></li>
+  <li> <a href="{{ base_url }}/levenscyclus/ontwikkelen/">Ontwikkelen</a></li>
+  <li> <a href="{{ base_url }}/levenscyclus/verificatie-en-validatie/">Verificatie en validatie</a></li>
+  <li> <a href="{{ base_url }}/levenscyclus/implementatie/">Implementeren</a></li>
+  <li> <a href="{{ base_url }}/levenscyclus/monitoring-en-beheer/">Monitoring en beheer</a></li>
+  <li> <a href="{{ base_url }}/levenscyclus/uitfaseren/">Uitfaseren</a></li>
 </ol>
 
 ## Systeemniveau en organisatieniveau
-De levenscyclus kent 2 verschillende niveau's: 
+De levenscyclus kent 2 verschillende niveau's:
 
 - **organisatieniveau**: Sommige vereisten zijn algemeen en vragen om een organisatiebrede aanpak. Dit gaat bijvoorbeeld om passende processen en risicomanagment in je organisatie. Of het creëeren van bewustzijn en kennis binnen je organisatie. In het ideale geval besteed je hier al aandacht aan voordat je begint met de ontwikkeling of het gebruik van algoritmes. Bij deze fase horen maatregelen die je niet voor ieder systeem opnieuw zal hoeven te bekijken.
-- **systeemniveau**: Sommige vereisten voor verantwoorde inzet van algoritmes zul je bij ieder algoritme weer opnieuw aandacht moeten geven. Dat geldt bijvoorbeeld voor het beschermen van grondrechten. 
+- **systeemniveau**: Sommige vereisten voor verantwoorde inzet van algoritmes zul je bij ieder algoritme weer opnieuw aandacht moeten geven. Dat geldt bijvoorbeeld voor het beschermen van grondrechten.
 
 ///
 

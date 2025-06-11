@@ -1,11 +1,11 @@
 ---
 title: Auteursrechten zijn beschermd
 id: urn:nl:ak:ver:aut-01
-toelichting: Bij het ontwikkelen, testen en gebruiken van algoritmes mag geen inbreuk gemaakt worden op auteursrechten en naburige rechten. 
-levenscyclus: 
+toelichting: Bij het ontwikkelen, testen en gebruiken van algoritmes mag geen inbreuk gemaakt worden op auteursrechten en naburige rechten.
+levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
-onderwerp: 
+onderwerp:
 - data
 rollen:
 - jurist
@@ -13,7 +13,7 @@ soort-toepassing:
 - ai-model-voor-algemene-doeleinden
 - ai-systeem
 - ai-systeem-voor-algemene-doeleinden
-risicogroep: 
+risicogroep:
 - hoog-risico-ai-systeem
 - geen-hoog-risico-ai-systeem
 - uitzondering-van-toepassing
@@ -23,15 +23,15 @@ rol-ai-act:
 - gebruiksverantwoordelijke
 - importeur
 - distributeur
-transparantieverplichting: 
+transparantieverplichting:
 - geen-transparantieverplichting
-- transparantieverplichting 
+- transparantieverplichting
 - niet-van-toepassing
 systeemrisico:
 - systeemrisico
 - geen-systeemrisico
 - niet-van-toepassing
-open-source: 
+open-source:
 - open-source
 - geen-open-source
 - niet-van-toepassing
@@ -44,33 +44,31 @@ hide:
 
 Auteursrechten en naburige rechten mogen niet geschonden worden bij het ontwikkelen, testen en gebruiken van algoritmes.
 
-## Toelichting 
+## Toelichting
 
 Bepaalde type algoritmes worden ontwikkeld op basis van grote hoeveelheden data.
 Deze data wordt gebruikt voor het trainen en testen van algoritmes.
 Het gebruiken van deze data mag geen inbreuk maken op auteursrechten van diegene die deze rechten heeft.
 Ook de gegenereerde output van algoritmes mag geen inbreuk maken op deze rechten.
 
-## Bronnen 
+## Bronnen
 
-- [Artikel 1 Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=1&artikel=1&z=2022-10-01&g=2022-10-01) 
+- [Artikel 1 Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=1&artikel=1&z=2022-10-01&g=2022-10-01)
 - [Artikel 4-9 Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=2&z=2022-10-01&g=2022-10-01)
 - [Artikel 10 Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=3&artikel=10&z=2022-10-01&g=2022-10-01)
 - [Artikel 13 Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=5&artikel=13&z=2022-10-01&g=2022-10-01)
 - [Artikel 15n jo. 15o Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=I&paragraaf=6&artikel=15n&z=2022-10-01&g=2022-10-01)
-- [Artikel 3 en 4 van de DSM-richtlijn (EU 2019/790)](https://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=CELEX:32019L0790&from=PL)
-- [Artikel 4 (3) Richtlijn inzake auteursrechten en naburige rechten in de digitale eengemaakte markt en tot wijziging van 
-Richtlijnen 96/9/EG en 2001/29/EG](https://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=CELEX:32019L0790)
+- [Artikel 3 en 4, DSM-auteursrechtrichtlijn](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32019L0790#art_3)
 
-## Van toepassing op 
-<!-- tags-ai-act --> 
+## Van toepassing op
+<!-- tags-ai-act -->
 
 
-## Risico 
+## Risico
 
 Het niet voldoen aan het auteursrecht of naburige rechten kan leiden tot onrechtmatig gebruik van auteursrechtelijk beschermde inhoud, wat kan resulteren in mogelijke juridische geschillen, boetes en schadevergoedingen voor inbreuk op het auteursrecht.
 Bovendien kan het niet naleven van het auteursrecht het vertrouwen van gebruikers en belanghebbenden ondermijnen, wat kan leiden tot reputatieschade en gebrek aan vertrouwen.
 
-## Maatregelen { data-search-exclude } 
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/aut-01-auteursrechten no-search no-onderwerp no-rol no-levenscyclus -->

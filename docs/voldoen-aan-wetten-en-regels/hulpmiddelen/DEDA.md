@@ -1,8 +1,8 @@
 ---
-title: De Ethische Data Assistent 
+title: De Ethische Data Assistent
 toelichting: De Ethische Data Assistent (DEDA) helpt data-analisten, projectmanagers en beleidsmakers om samen ethische problemen in dataprojecten, datamanagement en databeleid te herkennen.
-categorie: 
-- handreiking 
+categorie:
+- handreiking
 vereiste:
 - awb-01-zorgvuldigheidsbeginsel
 maatregel:
@@ -42,7 +42,7 @@ DEDA stimuleert interdisciplinaire samenwerking en helpt beleidsmakers, juristen
 Dit draagt bij aan zorgvuldige en rechtvaardige datagedreven oplossingen binnen de publieke sector. DEDA draagt bij aan [transparantie](../../onderwerpen/transparantie.md) en uitlegbaarheid van datagebruik, essentieel voor publiek vertrouwen.
 
 ## Auteur
-DEDA is ontwikkeld door de Data School van de Universiteit Utrecht. DEDA is in nauwe samenwerking met data-analisten ontwikkeld. Inmiddels is DEDA een wijdverspreid instrument, waar de Utrecht Data School ook trainingen en begeleiding bij geeft. [Via deze link](https://deda.dataschool.nl/workshop/) is meer informatie te vinden. 
+DEDA is ontwikkeld door de Data School van de Universiteit Utrecht. DEDA is in nauwe samenwerking met data-analisten ontwikkeld. Inmiddels is DEDA een wijdverspreid instrument, waar de Utrecht Data School ook trainingen en begeleiding bij geeft. [Via deze link](https://deda.dataschool.nl/workshop/) is meer informatie te vinden.
 
 ## Bijbehorende vereisten { data-search-exclude }
 

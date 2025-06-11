@@ -123,16 +123,6 @@ def _create_table_row_2(
         if filter_options.get("onderwerp", True)
         else ""
     )
-    # Worden op dit moment niet gebruikt
-    # vereiste_chips = (
-    #     "".join(
-    #         _create_chip(vereiste, "vereiste", current_file, config)
-    #         for vereiste in vereiste
-    #     )
-    #     if filter_options.get("vereiste", True)
-    #     else ""
-    # )
-    # categorie_chips = ', '.join(cat for cat in categorie) if filter_options.get("categorie", True) else ""
 
     return "".join(
         [
@@ -154,10 +144,18 @@ def _create_table_row_2(
     )
 
 
+def should_show_export(current_file: File) -> bool:
+    """Bepaalt of export functionaliteit getoond moet worden op basis van metadata van pagina"""
+    return current_file.page.meta.get("allow_excel_export", False)
+
+
 # Define the on_env function and other utility functions
 def on_env(env, config: MkDocsConfig, files: Files):
     def generate_filters(
-        content_type: str, list: List[File], filter_options: Dict[str, bool]
+        content_type: str,
+        list: List[File],
+        filter_options: Dict[str, bool],
+        current_file: File,
     ):
         filters = []
         filters.append('<form autocomplete="off" onsubmit="return false;">')
@@ -243,6 +241,29 @@ def on_env(env, config: MkDocsConfig, files: Files):
         filters.append("</form>")
         filters.append("</div>")
 
+        # Conditional excel export
+        if should_show_export(current_file) and content_type in [
+            "vereisten",
+            "maatregelen",
+        ]:
+            export_function = f"export{content_type.capitalize()}"
+            filters.extend(
+                [
+                    '<div id="export-excel">',
+                    '<div style="display: flex; align-items: center; gap: 20px;">',
+                    "<div>",
+                    f'Er zijn <strong><span id="total-count">{len(list)}</span></strong> resultaten gevonden',
+                    "</div>",
+                    "<div>",
+                    f'<button id="export-btn" onclick="{export_function}()" class="button md-button--secondary">',
+                    '<i class="material-icons">file_download</i> Exporteer resultaten',
+                    "</button>",
+                    "</div>",
+                    "</div>",
+                    "</div>",
+                ]
+            )
+
         return "".join(filters)
 
     def replace_content(match: Match, content_type: str, current_file: File):
@@ -300,7 +321,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
         else:
             filter_options["ai-act-labels"] = False
 
-        filters = generate_filters(content_type, list, filter_options)
+        filters = generate_filters(content_type, list, filter_options, current_file)
 
         result = "".join(
             [

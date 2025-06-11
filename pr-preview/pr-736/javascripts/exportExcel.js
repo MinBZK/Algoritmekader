@@ -120,8 +120,8 @@ function exportMaatregelen() {
         XLSX.utils.book_append_sheet(wb, ws, "Maatregelen");
         
         // Download file with timestamp
-        const timestamp = new Date().toISOString().slice(0, 16).replace('T', '_').replace(':', '-');
-        XLSX.writeFile(wb, `maatregelen-gefilterd_${timestamp}.xlsx`);
+        const timestamp = new Date().toISOString().slice(0, 10);
+        XLSX.writeFile(wb, `Algoritmekader_maatregelen_${timestamp}.xlsx`);
         
         console.log(`Exported ${exportData.length - 1} total maatregelen to Excel with ${activeFilters.length} filters applied`);
         

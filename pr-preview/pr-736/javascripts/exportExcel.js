@@ -46,6 +46,7 @@ function exportVereisten() {
 
 function exportTable(config) {
     const button = document.getElementById(config.buttonId);
+    const originalButtonText = button ? button.textContent : '';
     
     try {
         setButtonState(button, true, 'Exporteren...');
@@ -73,7 +74,7 @@ function exportTable(config) {
         console.error('Excel export error:', error);
         alert(`Excel export mislukt: ${error.message}`);
     } finally {
-        setButtonState(button, false, 'Export naar Excel');
+        setButtonState(button, false, originalButtonText);
     }
 }
 

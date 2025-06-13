@@ -8,7 +8,12 @@ hide:
 # Aanbevolen maatregelen
 Overzicht van maatregelen waarmee je kunt voldoen aan de vereisten voor de overheid. Deze maatregelen zijn niet verplicht. Andere maatregelen zijn ook mogelijk.
 
-## Overzicht maatregelen { data-search-exclude }
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+    <h2 style="margin: 0;" data-search-exclude>Overzicht maatregelen</h2>
+    <button id="export-btn" onclick="exportMaatregelen()" class="button md-button--secondary">
+        Exporteer (gefilterde) maatregelen naar Excel
+    </button>
+</div>
 
 <!-- list_maatregelen -->
 

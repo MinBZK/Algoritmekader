@@ -9,7 +9,12 @@ hide:
 # Vereisten voor de overheid
 Overzicht van de belangrijkste vereisten voor overheden die algoritmes of AI-systemen ontwikkelen of gebruiken.
 
-## Overzicht vereisten { data-search-exclude }
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+    <h2 style="margin: 0;" data-search-exclude>Overzicht vereisten</h2>
+    <button id="export-btn" onclick="exportVereisten()" class="button md-button--secondary">
+        Exporteer (gefilterde) vereisten naar Excel
+    </button>
+</div>
 
 <!-- list_vereisten -->
 

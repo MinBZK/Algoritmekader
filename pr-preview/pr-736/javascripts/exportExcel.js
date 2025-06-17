@@ -16,12 +16,7 @@ const CONFIG = {
         { id: 'filterSelect', type: 'rollen' },
         { id: 'filterLevenscyclusSelect', type: 'levenscyclus' },
         { id: 'filterOnderwerpSelect', type: 'onderwerp' }
-    ],
-    columnMappings: {
-        'rollen': ['rollen', 'rol'],
-        'levenscyclus': ['levenscyclus', 'lifecycle'],
-        'onderwerp': ['onderwerp', 'subject', 'onderwerpen']
-    }
+    ]
 };
 
 const MAATREGELEN_CONFIG = {
@@ -158,7 +153,7 @@ function createWorkbook(exportData, activeFilters, config) {
         // Hide filtered rows
         if (activeFilters.length > 0) {
             for (let rowIndex = 1; rowIndex < exportData.length; rowIndex++) {
-                if (shouldHideRow(exportData[rowIndex], exportData[0], activeFilters, config)) {
+                if (shouldHideRow(exportData[rowIndex], exportData[0], activeFilters)) {
                     if (!ws['!rows']) ws['!rows'] = [];
                     ws['!rows'][rowIndex] = { hidden: true };
                 }
@@ -170,9 +165,9 @@ function createWorkbook(exportData, activeFilters, config) {
     return wb;
 }
 
-function shouldHideRow(row, headers, activeFilters, config) {
+function shouldHideRow(row, headers, activeFilters) {
     return activeFilters.some(filter => {
-        const searchTerms = config.columnMappings[filter.type] || [filter.type];
+        const searchTerms = [filter.type];
         const colIndex = searchTerms.reduce((index, term) => {
             if (index !== -1) return index;
             return headers.findIndex(header => 

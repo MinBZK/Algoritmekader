@@ -18,25 +18,25 @@ Generatieve AI biedt veel kansen. De overheid stimuleert overheidsorganisaties o
 Het is van belang dat generatieve AI op een juiste en verantwoorde manier wordt ingezet. De burger moet betrouwbare informatie krijgen en mag niet onrechtmatig worden behandeld wanneer de overheid generatieve AI inzet. Wees je bewust van de beperkingen en valkuilen van generatieve AI. Anders kan het vertrouwen van de burger worden geschaad.
 
 ## Belangrijkste plichten voor overheden die generatieve AI gebruiken
-* [Bestaande wetgeving wordt gevolgd](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/) (zoals de AI-verordening, de AVG en de Grondwet).
+* [Bestaande wetgeving wordt gevolgd](/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/) (zoals de AI-verordening, de AVG en de Grondwet).
 * Het doel om generatieve AI in te zetten is duidelijk geformuleerd.
-* De generatieve AI-toepassing is verantwoord en veilig bevonden door middel van een [risico-analyse](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/0-org-03-toepassen-risicobeheer/) (bijvoorbeeld een [DPIA](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/DPIA/) of [IAMA](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/IAMA/)). Dit geldt in het bijzonder wanneer er persoonsgegevens verwerkt worden.
+* De generatieve AI-toepassing is verantwoord en veilig bevonden door middel van een [risico-analyse](/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/0-org-03-toepassen-risicobeheer/) (bijvoorbeeld een [DPIA](/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/DPIA/) of [IAMA](/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/IAMA/)). Dit geldt in het bijzonder wanneer er persoonsgegevens verwerkt worden.
 * De inzet van generatieve AI is ingebed in het beleid.
 * De juiste rollen zijn betrokken bij de besluitvorming over generatieve AI-inzet.
 * De data die wordt gebruikt in de generatieve AI-toepassing is volledig, recent en kwalitatief goed.
-* Er zijn specifieke afspraken gemaakt bij het inkopen van generatieve AI-modellen en/of -toepassingen over onder andere [datadeling, dataretentie en het hertrainen van modellen](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/2-owp-11-gebruikte-data/).
+* Er zijn specifieke afspraken gemaakt bij het inkopen van generatieve AI-modellen en/of -toepassingen over onder andere [datadeling, dataretentie en het hertrainen van modellen](/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/2-owp-11-gebruikte-data/).
 * Er is altijd een menselijke tussenkomst bij de inzet van generatieve AI (<span lang="en">_'human-in-the-loop'_</span>). Besluiten worden niet puur en alleen op basis van de output van generatieve AI genomen.
-* In het kader van [AI-geletterdheid](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/aia-01-ai-geletterdheid/) zijn medewerkers [voldoende geïnformeerd over en opgeleid in](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/0-org-16-bewustwording-en-opleiding/) het verantwoord gebruiken van generatieve AI.
+* In het kader van [AI-geletterdheid](/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/aia-01-ai-geletterdheid/) zijn medewerkers [voldoende geïnformeerd over en opgeleid in](/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/0-org-16-bewustwording-en-opleiding/) het verantwoord gebruiken van generatieve AI.
 * Er worden géén generatieve AI-toepassingen gebruikt die online voor iedereen toegankelijk zijn, zoals ChatGPT.
 * Wanneer externe partijen diensten leveren aan de overheid en daarbij overheidsgegevens verwerken in generatieve AI, gelden deze vereisten en richtlijnen ook voor hen. Voorbeeld: adviesbureau Bereschot neemt interviews af met overheidsmedewerkers en gebruikt generatieve AI om deze te transcriberen en samen te vatten.
 
 ## Verdere tips
-* Het inkopen van generatieve AI-toepassingen heeft wat meer haken en ogen dan 'gewone' AI. Stel hiervoor goede [inkoopvoorwaarden](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/inkoopvoorwaarden/) op.
+* Het inkopen van generatieve AI-toepassingen heeft wat meer haken en ogen dan 'gewone' AI. Stel hiervoor goede [inkoopvoorwaarden](/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/inkoopvoorwaarden/) op.
 * Werk bij voorkeur met een open toepassing of model, waar mogelijk ook met een open source-toepassing of model. Meer informatie hierover vind je op [de website van het Open Source Initiative](https://opensource.org/ai/open-source-ai-definition).
 * Gebruik bij voorkeur een generatieve AI-toepassing die binnen Europa is ontwikkeld en wordt beheerd. Deze zijn vaak beter ingesteld op de Nederlandse taal en maken ons minder afhankelijk van niet-EU-landen.
 * Onderzoek van tevoren welk model de beste resultaten oplevert. Voor specialistische of complexe onderwerpen kan dat bijvoorbeeld een kleiner model zijn.
 * Gebruik generatieve AI niet om foto's, video's en voice-overs te genereren, zeker niet wanneer deze publiekelijk gedeeld worden.
-* Houd er rekening mee dat je organisatie, wanneer je een AI-model voor algemene doeleinden gebruikt, te maken krijgt met vereisten uit de [AI-verordening](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/ai-verordening/). Bekijk de [tijdlijn met vereisten](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/tijdlijn-ai-verordening/).
+* Houd er rekening mee dat je organisatie, wanneer je een AI-model voor algemene doeleinden gebruikt, te maken krijgt met vereisten uit de [AI-verordening](Algoritmekader/voldoen-aan-wetten-en-regels/ai-verordening/). Bekijk de [tijdlijn met vereisten](/Algoritmekader/voldoen-aan-wetten-en-regels/tijdlijn-ai-verordening/).
 
 ## Bronnen
 * [Overheidsbreed standpunt voor de inzet van generatieve AI](https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/het-overheidsbrede-standpunt-voor-de-inzet-van-generatieve-ai)

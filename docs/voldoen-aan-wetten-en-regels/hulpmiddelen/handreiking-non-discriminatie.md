@@ -27,7 +27,7 @@ hide:
 
 <!-- tags -->
 
-[Direct naar de Handreiking non-discriminatie by design](https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design){ .button .md-button--secondary }
+[Direct naar de Handreiking non-discriminatie by design](https://www.rijksoverheid.nl/documenten/rapporten/2022/12/05/handreiking-non-discriminatie-artificial-intelligence-ai){ .button .md-button--secondary }
 
 ## Hulpmiddel
 
@@ -72,7 +72,7 @@ Ook het [toetsingskader Risicoprofilering College voor de Rechten van de Mens](t
 
 ## Bronnen
 
-- [Handreiking non-discriminatie by design](https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design)
+- [Handreiking non-discriminatie by design](https://www.rijksoverheid.nl/documenten/rapporten/2022/12/05/handreiking-non-discriminatie-artificial-intelligence-ai)
 - [Onderzoeksrapport Bekendheid, toepasbaarheid en toegevoegde waarde handreiking 'non-discriminatie by design'](https://www.rijksoverheid.nl/documenten/rapporten/2023/06/26/onderzoeksrapport-bekendheid-en-toepasbaarheid-en-toegevoegde-waarde-handreiking-non-discriminatie-by-design)
 - [Toetsingskader Risicoprofilering, College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/4093c026-ae41-4c1d-aa78-4ce0e205b5de)
 

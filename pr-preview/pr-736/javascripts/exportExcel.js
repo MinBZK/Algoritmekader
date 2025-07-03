@@ -42,7 +42,7 @@ function exportVereisten() {
 
 function exportTable(config) {
     const button = document.getElementById(config.buttonId);
-    const originalButtonText = button ? button.textContent : '';
+    const originalButtonHTML = button ? button.innerHTML : '';
 
     try {
         setButtonState(button, true, 'Exporteren...');
@@ -70,7 +70,7 @@ function exportTable(config) {
         console.error('Excel export error:', error);
         alert(`Excel export mislukt: ${error.message}`);
     } finally {
-        setButtonState(button, false, originalButtonText);
+        restoreButtonState(button, originalButtonHTML);
     }
 }
 
@@ -193,7 +193,18 @@ function getCurrentFilters(config) {
 function setButtonState(button, disabled, text) {
     if (button) {
         button.disabled = disabled;
-        button.textContent = text;
+        
+        // Show loading state with icon
+        if (disabled) {
+            button.innerHTML = '<i class="material-icons">hourglass_empty</i> ' + text;
+        }
+    }
+}
+
+function restoreButtonState(button, originalHTML) {
+    if (button) {
+        button.disabled = false;
+        button.innerHTML = originalHTML;
     }
 }
 

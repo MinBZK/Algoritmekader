@@ -173,20 +173,44 @@ function applyFiltersToWorksheet(ws, exportData, activeFilters) {
     if (exportData.length <= 1 || activeFilters.length === 0) return;
     
     const headers = exportData[0];
-    const filterConfig = {};
+    const rowsToHide = [];
     
-    activeFilters.forEach(filter => {
-        const columnIndex = findColumnIndex(headers, filter.type);
-        if (columnIndex !== -1) {
-            if (!filterConfig[columnIndex]) {
-                filterConfig[columnIndex] = [];
+    // Check each data row against active filters
+    for (let rowIndex = 1; rowIndex < exportData.length; rowIndex++) {
+        const row = exportData[rowIndex];
+        let shouldHideRow = false;
+        
+        activeFilters.forEach(filter => {
+            const columnIndex = findColumnIndex(headers, filter.type);
+            if (columnIndex !== -1) {
+                const cellValue = row[columnIndex]?.toString().toLowerCase() || '';
+                const filterValue = filter.value.toLowerCase();
+                
+                // For text search, check if cell contains the filter value
+                if (filter.type === 'zoeken') {
+                    if (!cellValue.includes(filterValue)) {
+                        shouldHideRow = true;
+                    }
+                } else {
+                    // For dropdown filters, check if cell contains or matches the filter value
+                    if (!cellValue.includes(filterValue)) {
+                        shouldHideRow = true;
+                    }
+                }
             }
-            filterConfig[columnIndex].push(filter.value);
+        });
+        
+        if (shouldHideRow) {
+            rowsToHide.push(rowIndex);
         }
-    });
+    }
     
-    if (Object.keys(filterConfig).length > 0) {
-        ws['!autofilter'].filterDatabase = filterConfig;
+    // Hide rows by setting row height to 0
+    if (rowsToHide.length > 0) {
+        ws['!rows'] = ws['!rows'] || [];
+        rowsToHide.forEach(rowIndex => {
+            ws['!rows'][rowIndex] = { hidden: true };
+        });
     }
 }
 

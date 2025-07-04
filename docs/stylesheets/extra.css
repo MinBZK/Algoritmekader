@@ -49,8 +49,13 @@ p, h1, h2, h3, h4, h5, h6 {
   color: #154273;
 }
 
-h1 {
-  color: #154273;
+.md-typeset h3 {
+  font-size: 1em;
+  margin-block-end:0
+}
+
+.md-typeset hr {
+  margin: 1em 0;
 }
 
 /* Stijlen voor de tabel */
@@ -146,7 +151,7 @@ tbody tr td a:hover {
 }
 
 .info-section h2 {
-  font-size: 1.5em;
+  font-size: .8em;
   color: #154273;
   margin: 0 0 10px;
   text-align: left; /* Ensure left alignment */

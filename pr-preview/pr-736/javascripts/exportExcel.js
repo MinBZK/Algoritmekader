@@ -1,5 +1,4 @@
-// Export (filtered) table to excel for maatregelen and vereisten
-// Requires SheetJS library
+// Export tables to Excel with filtering support
 const EXPORT_CONFIG = {
     MIN_COL_WIDTH: 10,
     MAX_COL_WIDTH: 50,
@@ -7,8 +6,7 @@ const EXPORT_CONFIG = {
     MULTI_VALUE_SEPARATOR: '; '
 };
 
-// Shared configuration for both export types
-const CONFIG = {
+const BASE_CONFIG = {
     tableId: 'myTable',
     buttonId: 'export-btn',
     multiValueColumns: ['rollen', 'levenscyclus', 'onderwerp'],
@@ -21,13 +19,13 @@ const CONFIG = {
 };
 
 const MAATREGELEN_CONFIG = {
-    ...CONFIG,
+    ...BASE_CONFIG,
     filename: 'Algoritmekader_maatregelen',
     sheetName: 'Maatregelen'
 };
 
 const VEREISTEN_CONFIG = {
-    ...CONFIG,
+    ...BASE_CONFIG,
     filename: 'Algoritmekader_vereisten',
     sheetName: 'Vereisten'
 };
@@ -46,16 +44,9 @@ function exportTable(config) {
 
     try {
         setButtonState(button, true, 'Exporteren...');
-
-        if (typeof XLSX === 'undefined') {
-            throw new Error('SheetJS library niet geladen');
-        }
+        validateRequirements(config);
 
         const table = document.getElementById(config.tableId);
-        if (!table) {
-            throw new Error(`Tabel '${config.tableId}' niet gevonden`);
-        }
-
         const exportData = extractTableData(table, config);
         const activeFilters = getCurrentFilters(config);
         const workbook = createWorkbook(exportData, activeFilters, config);
@@ -63,8 +54,6 @@ function exportTable(config) {
         const timestamp = new Date().toISOString().slice(0, 10);
         const filename = `${config.filename}_${timestamp}.xlsx`;
         XLSX.writeFile(workbook, filename);
-
-        console.log(`Exported ${exportData.length - 1} ${config.sheetName.toLowerCase()} with ${activeFilters.length} filters`);
 
     } catch (error) {
         console.error('Excel export error:', error);
@@ -74,40 +63,51 @@ function exportTable(config) {
     }
 }
 
+function validateRequirements(config) {
+    if (typeof XLSX === 'undefined') {
+        throw new Error('SheetJS library niet geladen');
+    }
+    
+    const table = document.getElementById(config.tableId);
+    if (!table) {
+        throw new Error(`Tabel '${config.tableId}' niet gevonden`);
+    }
+}
+
 function extractTableData(table, config) {
     const rows = table.getElementsByTagName("tr");
-
+    
     if (rows.length === 0) {
         throw new Error('Geen data om te exporteren');
     }
 
     const exportData = [];
-
-    // Extract headers
-    const headerCells = rows[0].getElementsByTagName("th");
-    const headers = Array.from(headerCells).map(cell => cleanText(cell.textContent));
+    const headers = extractHeaders(rows[0]);
     exportData.push(headers);
 
-    // Extract data rows
     for (let i = 1; i < rows.length; i++) {
         const row = rows[i];
-
-        // Skip hidden rows
-        if (row.style.display === 'none' || row.hidden) {
-            continue;
-        }
-
-        const cells = row.getElementsByTagName("td");
-        const rowData = Array.from(cells).map((cell, colIndex) => {
-            const text = getCleanCellText(cell);
-            return isMultiValueColumn(headers[colIndex], config)
-                ? cleanMultiValueField(text)
-                : text;
-        });
+        const rowData = extractRowData(row, headers, config);
         exportData.push(rowData);
     }
 
     return exportData;
+}
+
+function extractHeaders(headerRow) {
+    const headerCells = headerRow.getElementsByTagName("th");
+    return Array.from(headerCells).map(cell => cleanText(cell.textContent));
+}
+
+
+function extractRowData(row, headers, config) {
+    const cells = row.getElementsByTagName("td");
+    return Array.from(cells).map((cell, colIndex) => {
+        const text = getCleanCellText(cell);
+        return isMultiValueColumn(headers[colIndex], config)
+            ? cleanMultiValueField(text)
+            : text;
+    });
 }
 
 function getCleanCellText(cell) {
@@ -137,7 +137,15 @@ function createWorkbook(exportData, activeFilters, config) {
     const wb = XLSX.utils.book_new();
     const ws = XLSX.utils.aoa_to_sheet(exportData);
 
-    // Set column widths
+    setColumnWidths(ws, exportData);
+    setAutoFilter(ws, exportData);
+    applyFiltersToWorksheet(ws, exportData, activeFilters);
+
+    XLSX.utils.book_append_sheet(wb, ws, config.sheetName);
+    return wb;
+}
+
+function setColumnWidths(ws, exportData) {
     const colWidths = [];
     exportData.forEach(row => {
         row.forEach((cell, colIndex) => {
@@ -149,8 +157,9 @@ function createWorkbook(exportData, activeFilters, config) {
         });
     });
     ws['!cols'] = colWidths.map(width => ({ width }));
+}
 
-    // Apply autofilter
+function setAutoFilter(ws, exportData) {
     if (exportData.length > 1) {
         const range = XLSX.utils.encode_range({
             s: { c: 0, r: 0 },
@@ -158,9 +167,34 @@ function createWorkbook(exportData, activeFilters, config) {
         });
         ws['!autofilter'] = { ref: range };
     }
+}
 
-    XLSX.utils.book_append_sheet(wb, ws, config.sheetName);
-    return wb;
+function applyFiltersToWorksheet(ws, exportData, activeFilters) {
+    if (exportData.length <= 1 || activeFilters.length === 0) return;
+    
+    const headers = exportData[0];
+    const filterConfig = {};
+    
+    activeFilters.forEach(filter => {
+        const columnIndex = findColumnIndex(headers, filter.type);
+        if (columnIndex !== -1) {
+            if (!filterConfig[columnIndex]) {
+                filterConfig[columnIndex] = [];
+            }
+            filterConfig[columnIndex].push(filter.value);
+        }
+    });
+    
+    if (Object.keys(filterConfig).length > 0) {
+        ws['!autofilter'].filterDatabase = filterConfig;
+    }
+}
+
+function findColumnIndex(headers, filterType) {
+    return headers.findIndex(header => {
+        const lowerHeader = header.toLowerCase();
+        return lowerHeader.includes(filterType.toLowerCase());
+    });
 }
 
 function getCurrentFilters(config) {
@@ -168,33 +202,26 @@ function getCurrentFilters(config) {
         const element = document.getElementById(filterConfig.id);
         if (!element) return [];
 
-        if (element.tagName.toLowerCase() === 'input') {
-            // For text input (search)
-            const value = element.value.trim();
-            if (value) {
-                console.log(`Search filter found: "${value}"`); // DEBUG
-                return [{ type: filterConfig.type, value: value }];
-            }
-            return [];
-        } else {
-            // For select elements (dropdown filters)
-            const selected = Array.from(element.options)
-                .filter(option => option.selected && option.value)
-                .map(option => ({ type: filterConfig.type, value: option.text }));
-
-            if (selected.length > 0) {
-                console.log(`Dropdown filter found for ${filterConfig.type}:`, selected); // DEBUG
-            }
-            return selected;
-        }
+        return element.tagName.toLowerCase() === 'input'
+            ? getInputFilter(element, filterConfig)
+            : getSelectFilter(element, filterConfig);
     });
+}
+
+function getInputFilter(element, filterConfig) {
+    const value = element.value.trim();
+    return value ? [{ type: filterConfig.type, value }] : [];
+}
+
+function getSelectFilter(element, filterConfig) {
+    return Array.from(element.options)
+        .filter(option => option.selected && option.value)
+        .map(option => ({ type: filterConfig.type, value: option.text }));
 }
 
 function setButtonState(button, disabled, text) {
     if (button) {
         button.disabled = disabled;
-        
-        // Show loading state with icon
         if (disabled) {
             button.innerHTML = '<i class="material-icons">hourglass_empty</i> ' + text;
         }
@@ -208,6 +235,6 @@ function restoreButtonState(button, originalHTML) {
     }
 }
 
-// Make functions globally available
+// Export functions globally
 window.exportMaatregelen = exportMaatregelen;
 window.exportVereisten = exportVereisten;

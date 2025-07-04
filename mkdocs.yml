@@ -104,6 +104,7 @@ extra_css:
   - stylesheets/all.min.css
   - stylesheets/choices.min.css
   - stylesheets/modal.css
+  - https://fonts.googleapis.com/icon?family=Material+Icons
 
 extra_html:
   - html/ai-verordening-popup.html
@@ -111,6 +112,8 @@ extra_html:
 
 extra_javascript:
   - javascripts/jquery-3.6.0.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js
+  - javascripts/exportExcel.js
   - javascripts/choices.min.js
   - javascripts/tablesort.min.js
   - javascripts/tablesort.js

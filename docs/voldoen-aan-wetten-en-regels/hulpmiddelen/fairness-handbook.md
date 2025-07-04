@@ -20,6 +20,8 @@ maatregel:
 - 5-ver-03-biasanalyse
 - 6-imp-02-aselecte-steekproeven
 hide: navigation
+version: "1.0.0"
+version_date: "2025-07-04"
 ---
 
 <!-- tags -->

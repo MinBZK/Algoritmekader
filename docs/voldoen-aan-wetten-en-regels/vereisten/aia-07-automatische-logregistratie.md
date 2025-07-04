@@ -30,6 +30,8 @@ hide:
 rollen:
 - ontwikkelaar
 - projectleider
+version: "1.0.0"
+version_date: "2025-07-04"
 ---
 
 <!-- let op! Deze vereiste geldt altijd omdat je volgens de AVG en de BIO ook moet loggen -->

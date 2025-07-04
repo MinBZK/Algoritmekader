@@ -27,6 +27,8 @@ uitzondering:
 - risicogroep-uitzondering-van-toepassing
 hide:
 - navigation
+version: "1.0.0"
+version_date: "2025-07-04"
 ---
 
 <!-- tags -->

@@ -25,6 +25,8 @@ sources:
   ADR: SV.4
 hide:
 - navigation
+version: "1.0.0"
+version_date: "2025-07-04"
 ---
 
 <!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->

@@ -23,6 +23,8 @@ sources:
   - DM.4
 hide:
 - navigation
+version: "1.0.0"
+version_date: "2025-07-04"
 ---
 
 <!-- tags -->

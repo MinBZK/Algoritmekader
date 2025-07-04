@@ -20,6 +20,8 @@ maatregel:
 - 2-owp-25-kennisoverdracht-en-ondersteuning-aanbieder
 - 2-owp-02-data-beschikbaarheid
 hide: navigation
+version: "1.0.0"
+version_date: "2025-07-04"
 ---
 
 <!-- tags -->

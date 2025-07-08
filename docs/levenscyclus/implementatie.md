@@ -6,7 +6,7 @@ hide:
 
 # Fase 6: Implementatie
 In deze fase wordt het algoritme in de praktijk gebracht en duurzaam geïntegreerd in het bedrijfsproces.
-In de praktijk worden veelal eerst een pilot uitgevoerd voor een afgebakende periode of over een beperkt aan zaken.
+In de praktijk wordt veelal eerst een pilot uitgevoerd voor een afgebakende periode of over een beperkt aantal zaken.
 In deze situatie, een pilot, wordt tijdelijk productiedata verwerkt.
 Dit vraagt om een goede samenwerking tussen het ontwikkelteam en de gebruikers van het algoritme.
 Niet alleen de prestaties van het algoritme worden nogmaals gevalideerd, maar bijvoorbeeld ook of de output zodanig wordt gepresenteerd dat gebruikers hiermee kunnen werken.
@@ -17,7 +17,7 @@ Als een besluit wordt genomen om de oplossing te implementeren, dan is het van b
 Service- en incidentmanagement moet volledig worden geoperationaliseerd, zodat gebruikers kunnen worden geholpen bij vragen of incidenten.
 Een kenmerkend element van deze fase is dat vanaf nu betrokkenen onderhevig zijn aan de werking van het algoritme.
 Beslissingen en besluiten komen nu bijvoorbeeld mede of geheel door de werking van het algoritme tot stand.
-Waar passend, bijvoorbeeld bij impactvolle of hoog risico AI-systemen wordt dit duidelijk gecommuniceerd naar betrokken, voordat de oplossing volledig is geïmplementeerd.
+Waar passend, bijvoorbeeld bij impactvolle of hoog risico AI-systemen wordt dit duidelijk gecommuniceerd naar betrokkenen, voordat de oplossing volledig is geïmplementeerd.
 
 
 ## Vereisten { data-search-exclude }

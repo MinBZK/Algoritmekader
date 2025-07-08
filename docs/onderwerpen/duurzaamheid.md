@@ -37,4 +37,4 @@ Vooral complexe AI-systemen zoals Large Language Models (LLM’s) verbruiken vee
 
 
 ## Help ons deze pagina te verbeteren
-Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/onderwerpen/duurzaamheid/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).
+Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/onderwerpen/duurzaamheid.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

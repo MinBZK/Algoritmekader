@@ -20,7 +20,7 @@ Het is net als in de ontwerpfase belangrijk dat een multidisciplinair team beoor
 In het geval van impactvolle algoritmen of hoog risico AI-systemen, is het raadzaam om een onafhankelijke commissie of partij te betrekken die een advies geeft over de werking van het algoritme of AI-systeem.
 
 In praktijk zal vaak na validatie weer worden teruggegaan naar de ontwikkelfase om prestaties van het model te verbeteren voorafgaand aan implementatie van de oplossing.
-Het is ook denkbaar dat het algoritme onvoldoende aansluit bij de doelstellingen en het gebruik ervan moet wordt beëindigd.
+Het is ook denkbaar dat het algoritme onvoldoende aansluit bij de doelstellingen en het gebruik ervan moet worden beëindigd.
 Een andere conclusie kan zijn dat het presteert conform verwachting en naar de implementatiefase kan worden gegaan.
 
 ## Vereisten { data-search-exclude }

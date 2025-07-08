@@ -11,7 +11,7 @@ In deze fase wordt onderzocht of het ontwikkelen van een algoritme een geschikt 
 Dat hangt van verschillende zaken af.
 
 Hierbij kan worden gedacht aan de middelen (capaciteit en financiële middelen) die nodig zijn om algoritmen op een verantwoorde wijze te ontwikkelen, de complexiteit van de oplossing, het in beeld brengen van de verwachte risico's (hoog over), een eerste beeld krijgen bij wat voor data nodig zijn en het in kaart brengen en beleggen van de verschillende verantwoordelijkheden.
-Daarnaast is het van belang om het beleid met betrekking tot de inzet van algoritme een organisatie te raadplegen.
+Daarnaast is het van belang om het beleid met betrekking tot de inzet van algoritmes in een organisatie te raadplegen.
 
 Er zal een conclusie moeten volgen of de ontwikkeling van een algoritme passend is.
 Deze fase wordt doorgaans afgerond met een akkoord van de (gemandateerd) verantwoordelijk(en)/opdrachtgever om een algoritme te ontwikkelen.

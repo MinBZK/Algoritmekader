@@ -109,6 +109,7 @@ Als je aanbieder bent van een product met daarin een hoog-risico-AI-systeem, moe
 * [aia-27 Hoog-risico-AI-systemen voor publieke taken worden beoordeeld op gevolgen voor grondrechten](vereisten/aia-27-beoordelen-gevolgen-grondrechten.md)
 * [aia-28 AI-systemen worden zo ontworpen en gebruikt, dat mensen begrijpen wanneer zij met een AI-systeem communiceren en welke content gemaakt is door een AI-systeem](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/aia-28-transparantieverplichtingen/)
 
+
 Wat betekent dit voor jouw organisatie? Gebruik de [beslishulp AI-verordening](https://ai-verordening-beslishulp.apps.digilab.network/).
 
 ## 2 augustus 2030: Bestaande hoog-risico-AI-systemen voldoen aan vereisten

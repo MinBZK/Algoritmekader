@@ -60,7 +60,7 @@ Het is daarom belangrijk om [tijdig te onderzoeken of er sprake is of kan zijn v
 ## Bronnen
 
 - [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=1&z=2023-02-22&g=2023-02-22)
-- Europees Verdragvoor de Rechten van de Mens (EVRM)
+- Europees Verdrag voor de Rechten van de Mens (EVRM)
 - Handvest van de grondrechten van de Europese Unie
 - Universele Verklaring van de Rechten van de Mens (UVRM)
 - Internationaal Statuut van de Rechten van de Mens

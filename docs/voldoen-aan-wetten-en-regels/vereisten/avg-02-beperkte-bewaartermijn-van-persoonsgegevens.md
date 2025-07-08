@@ -15,7 +15,7 @@ soort-toepassing:
 - ai-model-voor-algemene-doeleinden
 - ai-systeem
 - ai-systeem-voor-algemene-doeleinden
-risicogroep: 
+risicogroep:
 - hoog-risico-ai-systeem
 - geen-hoog-risico-ai-systeem
 - uitzondering-van-toepassing
@@ -25,15 +25,15 @@ rol-ai-act:
 - gebruiksverantwoordelijke
 - importeur
 - distributeur
-transparantieverplichting: 
+transparantieverplichting:
 - geen-transparantieverplichting
-- transparantieverplichting 
+- transparantieverplichting
 - niet-van-toepassing
 systeemrisico:
 - systeemrisico
 - geen-systeemrisico
 - niet-van-toepassing
-open-source: 
+open-source:
 - open-source
 - geen-open-source
 - niet-van-toepassing
@@ -55,13 +55,13 @@ Dit vereist dat ervoor wordt gezorgd dat de opslagperiode van de persoonsgegeven
 Het beginsel van opslagbeperking betekent dat persoonsgegevens moeten worden bewaard in een vorm die het mogelijk maakt om de betrokkenen niet langer te identificeren dan voor de realisering van de doeleinden waarvoor de persoonsgegevens worden verwerkt.
 
 In de context van algoritmes is het belangrijk dat, wanneer persoonsgegevens worden verwerkt, er onderzocht wordt op welke manieren identificatie van betrokkenen tegen kan worden gegaan.
-Hierbij kan worden gedacht aan maatregelen als het pseudonomiseren, anonimiseren en aggregeren van de persoonsgegevens. 
+Hierbij kan worden gedacht aan maatregelen als het pseudonomiseren, anonimiseren en aggregeren van de persoonsgegevens.
 
 ## Bronnen
 
 [Artikel 5 lid 1 onder de AVG](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679#d1e1802-1-1)
 
-## Van toepassing op 
+## Van toepassing op
 <!-- tags-ai-act -->
 
 

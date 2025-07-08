@@ -1,14 +1,14 @@
 ---
 title: Gebruik duurzame datacenters
 id: urn:nl:ak:mtr:dat-06
-toelichting: Maak gebruik van datacenters die gebruikmaken van duurzame energiebronnen en energie-efficiënte technologieën voor de opslag en verwerking van data.  
+toelichting: Maak gebruik van datacenters die gebruikmaken van duurzame energiebronnen en energie-efficiënte technologieën voor de opslag en verwerking van data.
 levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
 - ontwikkelen
 - implementatie
 - monitoring-en-beheer
-onderwerp: 
+onderwerp:
 - duurzaamheid
 rollen:
 - ontwikkelaar
@@ -51,10 +51,10 @@ Door geen gebruik te maken van duurzame datacenters loop je het risico op een ho
 
 ## Voorbeelden
 !!! example "Groep Gegevensbescherming: Artikel 20 (WP 216)"
-    
+
     De Rijksdienst voor Ondernemend Nederland (RvO) heeft een jaarlijks verplichte rapportage van datacentra die meer dan 500 Kilowatt gebruiken. Hiervoor moeten de datacentra een vragenlijst invullen met onder andere informatie over hernieuwbare energie. Een soortgelijke vragenlijst kan ook naar partijen gestuurd worden waar mee wordt samengewerkt.
     Dit voorbeeld valt onder een wettelijke verplichting en zal dus ook een groot aantal vragen bevatten die niet direct relevant zijn. Daarnaast staan hier geen voorbeelden in om direct een duurzaam datacentrum te vinden.
-    
+
     Bron: [Rapportageplicht energie-efficiëntie datacentra](https://www.rvo.nl/onderwerpen/energiebesparingsplicht/eed-auditplicht/rapportageplicht-datacentra)
-    
+
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

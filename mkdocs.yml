@@ -2,7 +2,7 @@
 site_name: Algoritmekader 2.2
 site_description: Het Algoritmekader van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
-theme: 
+theme:
     name: material
     custom_dir: src/overrides
     language: nl
@@ -10,7 +10,7 @@ theme:
         primary: custom
     logo: assets/logo.svg
     favicon: assets/favicon.ico
-    font: false 
+    font: false
     features:
         - navigation.indexes
         - navigation.tabs
@@ -31,16 +31,17 @@ theme:
 
 nav:
     - Soorten algoritmes en AI:
-         - soorten-algoritmes-en-ai/index.md 
+         - soorten-algoritmes-en-ai/index.md
          - soorten-algoritmes-en-ai/wat-is-een-algoritme.md
          - soorten-algoritmes-en-ai/risico-van-ai-systemen.md
          - soorten-algoritmes-en-ai/impact-van-algoritmes.md
+         - soorten-algoritmes-en-ai/generatieve-ai.md
          - soorten-algoritmes-en-ai/definities.md
     - Onderwerpen:
         # - Overzicht: onderwerpen/index.md
         - ... | onderwerpen/*.md
     - Levenscyclus:
-        - levenscyclus/index.md 
+        - levenscyclus/index.md
         - levenscyclus/over-de-levenscyclus.md
         - levenscyclus/organisatieverantwoordelijkheden.md
         - levenscyclus/probleemanalyse.md
@@ -62,7 +63,7 @@ nav:
         - Tijdlijn AI-verordening: voldoen-aan-wetten-en-regels/tijdlijn-ai-verordening.md
 
 # Extra opties
-markdown_extensions: 
+markdown_extensions:
     - pymdownx.tabbed:
         alternate_style: true
     - pymdownx.superfences:
@@ -90,9 +91,9 @@ markdown_extensions:
     - pymdownx.blocks.html
 
 # Extra opties voor footer
-extra: 
+extra:
     social:
-        - icon: fontawesome/brands/github 
+        - icon: fontawesome/brands/github
           link: https://github.com/MinBZK/Algoritmekader
 
 extra_css:
@@ -101,7 +102,7 @@ extra_css:
   - stylesheets/extra.css
   - stylesheets/footer.css
   - stylesheets/all.min.css
-  - stylesheets/choices.min.css  
+  - stylesheets/choices.min.css
   - stylesheets/modal.css
 
 extra_html:
@@ -110,7 +111,7 @@ extra_html:
 
 extra_javascript:
   - javascripts/jquery-3.6.0.min.js
-  - javascripts/choices.min.js 
+  - javascripts/choices.min.js
   - javascripts/tablesort.min.js
   - javascripts/tablesort.js
   - javascripts/filtering.js

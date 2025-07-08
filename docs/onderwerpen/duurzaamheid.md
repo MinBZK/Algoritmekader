@@ -1,11 +1,11 @@
 ---
 title: Duurzaam werken met algoritmes
-hide: 
+hide:
 - path
 ---
 
 # Duurzaam werken met algoritmes
-Overheden moeten duurzaam werken met hun ICT, zoals algoritmes. Dit betekent dat je algoritmes inkoopt, ontwikkelt en gebruikt op een manier die vriendelijk is voor mens en milieu. 
+Overheden moeten duurzaam werken met hun ICT, zoals algoritmes. Dit betekent dat je algoritmes inkoopt, ontwikkelt en gebruikt op een manier die vriendelijk is voor mens en milieu.
 
 ## Wat is duurzaam werken met algoritmes?
 Je werkt duurzaam met algoritmes als je tijdens de hele [levenscyclus](../levenscyclus/index.md) keuzes maakt die passen bij de [duurzame en sociale doelen van de overheid](https://www.denkdoeduurzaam.nl/doelen):
@@ -24,7 +24,7 @@ Om bij te dragen aan deze doelen, kies je bijvoorbeeld voor:
 
 ## Belang van duurzaam werken
 Algoritmes kunnen veel impact hebben op het milieu. De rekenkracht die algoritmes nodig hebben op computers kost elektriciteit. En de datacenters die nodig zijn voor het opslaan van data, verbruiken veel energie, water en grondstoffen.
-Vooral complexe AI-systemen zoals Large Language Models (LLM’s) verbruiken veel energie door training en gebruik en door opslag van grote datasets in datacenters. 
+Vooral complexe AI-systemen zoals Large Language Models (LLM’s) verbruiken veel energie door training en gebruik en door opslag van grote datasets in datacenters.
 
 ## Vereisten { data-search-exclude }
 
@@ -37,4 +37,4 @@ Vooral complexe AI-systemen zoals Large Language Models (LLM’s) verbruiken vee
 
 
 ## Help ons deze pagina te verbeteren
-Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/onderwerpen/duurzaamheid/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).
+Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/onderwerpen/duurzaamheid.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

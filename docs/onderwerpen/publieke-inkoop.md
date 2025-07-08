@@ -71,6 +71,7 @@ Afhankelijk van de behoeftestelling en het benodigde algoritme, moet worden bepa
 ## Bronnen
 * [Inkoopproces PIANOo](https://www.pianoo.nl/nl/inkoopproces), expertisecentrum aanbesteden van het ministerie van Economische Zaken
 * [Community of Practice Digitale Innovaties](https://www.pianoo.nl/nl/themas/innovatie/netwerken/community-practice-digitale-innovaties), PIANOo
+* [Leidraad voor het kopen of laten ontwikkelen van algoritmes en AI](https://www.pianoo.nl/nl/actueel/nieuws/nieuw-leidraad-voor-inkopen-en-ontwikkelen-algoritmes-it-toepassingen), Community of Practice Digitale Innovaties, PIANOo
 
 ## Help ons deze pagina te verbeteren
 Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/issues/new/choose) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

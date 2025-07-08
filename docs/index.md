@@ -25,7 +25,7 @@ hide:
 <div class="float-container">
 
  <div class="float-child styled-list">
-    <img src="afbeeldingen/rollen.jpg" alt="Een groep mensen overlegt in een vergaderruimte." class="block-image">
+    <img src="afbeeldingen/rollen.jpg" alt=" " class="block-image">
     <div class="float-box">
     <h3><b>Soorten algoritmes en AI</b></h3>
     <ul>
@@ -38,7 +38,7 @@ hide:
   </div>
 
   <div class="float-child styled-list">
-    <img src="afbeeldingen/wetten-en-regels.jpg" alt="Standbeeld van Vrouwe Justitia met een weegschaal en zwaard." class="block-image">
+    <img src="afbeeldingen/wetten-en-regels.jpg" alt=" " class="block-image">
     <div class="float-box">
     <h3><b>Voldoen aan wetten en regels</b></h3>
     <ul>
@@ -51,7 +51,7 @@ hide:
   </div>
 
  <div class="float-child styled-list">
-    <img src="afbeeldingen/eu.jpeg" alt="Binnenzijde van een gebouw met rijen vlaggen van EU-lidstaten." class="block-image">
+    <img src="afbeeldingen/eu.jpeg" alt=" " class="block-image">
     <div class="float-box">
     <h3><b>Europese AI-verordening</b></h3>
     <ul>
@@ -64,7 +64,7 @@ hide:
   </div>
 
   <div class="float-child styled-list">
-    <img src="afbeeldingen/onderwerpen.jpg" alt="Persoon typt op een toetsenbord met meerdere computerschermen waarop code zichtbaar is." class="block-image">
+    <img src="afbeeldingen/onderwerpen.jpg" alt=" " class="block-image">
     <div class="float-box">
     <h3><b>Onderwerpen</b></h3>
     <ul>

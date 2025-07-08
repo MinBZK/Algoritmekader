@@ -256,7 +256,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
                     "</div>",
                     "<div>",
                     f'<button id="export-btn" onclick="{export_function}()" class="button md-button--secondary">',
-                    '<i class="material-icons">file_download</i> Exporteer resultaten',
+                    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="width: 24px; height: 24px; vertical-align: middle; fill: #154271"><path d="M12 15l-5-5h3V4h4v6h3l-5 5z"/></svg> Exporteer <span id="content_type">' + content_type + '</span> naar excel',
                     "</button>",
                     "</div>",
                     "</div>",

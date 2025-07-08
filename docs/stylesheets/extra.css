@@ -621,6 +621,7 @@ background-color: #B2D7EE;
   background-color: #01689B;
   color: #FFFFFF;
   border-color: #01689B;
+  box-shadow: 0 0 8px 2px rgba(0,0,0,0);
   text-decoration: none;
 }
 
@@ -631,12 +632,16 @@ background-color: #B2D7EE;
   text-decoration: none;
   font-size: 16px;
   font-weight: 700;
-  box-shadow: 0 0 8px 2px rgba(0,0,0,0);
-  transition: color 150ms ease-in-out, box-shadow 150ms ease-in-out;
+  box-shadow: 0 0 8px 2px rgba(255, 255, 255, 0);
 }
 
 .md-typeset .md-button--secondary:hover {
+  background-color: #ffffff;
   color: #154271;
+  border: 1px solid #154271;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 700;
   box-shadow: 0 0 8px 2px rgba(21, 66, 113, 0.6);
 }
 

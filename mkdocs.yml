@@ -104,7 +104,6 @@ extra_css:
   - stylesheets/all.min.css
   - stylesheets/choices.min.css
   - stylesheets/modal.css
-  - https://fonts.googleapis.com/icon?family=Material+Icons
 
 extra_html:
   - html/ai-verordening-popup.html

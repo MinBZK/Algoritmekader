@@ -82,6 +82,12 @@ Volgens deze definitie gaat het om een verwerking door een computersysteem waarb
 
 De gevoeligheid is dat nog niet is vastgesteld dat, in dit voorbeeld, de betreffende natuurlijke persoon ook daadwerkelijk misbruik heeft gemaakt van bepaalde voorzieningen. Als daar wel automatisch gevolgen aan worden verbonden, ontstaat het risico op een onrechtmatige behandeling van een natuurlijk persoon.
 
+!!! example "Algorithm Audit - Publieke standaard 'Betekenisvolle menselijke tussenkomst risicoprofileringsalgoritmes'"
+
+    Algorithm Audit heeft een stappenplan gemaakt dat je kunt raadplegen om te voorkomen dat je profileringsalgoritmes volledig geautomatiseerd en zonder menselijke tussenkomst zijn.
+
+    Bron: [Algorithm Audit - Publieke standaard 'Betekenisvolle menselijke tussenkomst risicoprofileringsalgoritmes'](https://algorithmaudit.eu/nl/knowledge-platform/knowledge-base/public_standard_meaningful_human_intervention/)
+
 #### Besluit
 
 In deze context moet het begrip 'besluit' worden gehanteerd zoals dit is bedoeld in artikel 22 AVG. Het begrip 'besluit' krijgt in de AVG een ruimere betekenis dan het geval is in artikel 1:3 Algemene wet bestuursrecht (Awb). In de Algemene wet bestuursrecht moet er sprake zijn van een 'rechtsgevolg', maar onder het besluitbegrip van de AVG kunnen ook situaties vallen waarin een individu ‘slechts’ feitelijke gevolgen ervaart als een besluit wordt genomen. Daarmee biedt de AVG dus bescherming voor meerdere situaties.
@@ -107,7 +113,8 @@ Volledig geautomatiseerde vaststelling van een publiekrechtelijk besluit zoals e
 - [Artikel 1:3 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=1&titeldeel=1.1&artikel=1:3&z=2024-05-01&g=2024-05-01)
 - [Advies landsadvocaat over geautomatiseerde selectietechnieken](https://www.rijksoverheid.nl/documenten/rapporten/2024/03/13/bijlage-2-advies-landsadvocaat-over-geautomatiseerde-selectietechniek)
 - [Advies artikel 22 AVG en geautomatiseerde selectie-instrumenten](https://www.rijksoverheid.nl/documenten/publicaties/2024/10/10/advies-artikel-22-avg-en-geautomatiseerde-selectie-instrumenten)
-- [Kamerbrief met kabinetsreactie AP-advies over geautomatiseerde selectie-instrumenten]([Kamerbrief met kabinetsreactie AP-advies over geautomatiseerde selectie-instrumenten0](https://www.rijksoverheid.nl/documenten/kamerstukken/2024/12/03/kabinetsreacties-ap-advies-inzake-geautomatiseerde-selectie-instrumenten)
+- [Kamerbrief met kabinetsreactie AP-advies over geautomatiseerde selectie-instrumenten](https://www.rijksoverheid.nl/documenten/kamerstukken/2024/12/03/kabinetsreacties-ap-advies-inzake-geautomatiseerde-selectie-instrumenten)
+- [Algorithm Audit - Publieke standaard 'Betekenisvolle menselijke tussenkomst risicoprofileringsalgoritmes](https://algorithmaudit.eu/nl/knowledge-platform/knowledge-base/public_standard_meaningful_human_intervention)
 
 ## Van toepassing op
 <!-- tags-ai-act -->

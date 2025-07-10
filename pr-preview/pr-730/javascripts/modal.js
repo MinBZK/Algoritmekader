@@ -91,7 +91,9 @@ function showModal(event, modalId, options = {}) {
 
   // Store redirect URL if provided
   if (options.redirectUrl) {
-    sessionStorage.setItem('pendingRedirect', options.redirectUrl);
+    // If redirectUrl is relative, make it absolute with basePath
+    const redirectUrl = options.redirectUrl.startsWith('/') ? options.redirectUrl : `${basePath}/${options.redirectUrl}`;
+    sessionStorage.setItem('pendingRedirect', redirectUrl);
   }
 
   if (modalId === "ai-act-labels") {

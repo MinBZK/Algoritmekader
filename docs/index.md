@@ -18,16 +18,15 @@ hide:
     </div>
 </div>
 
-
 <a href="over-het-algoritmekader/over-het-algoritmekader/" class="button md-button--secondary">Over het algoritmekader</a>
 
 
 <div class="float-container">
 
  <div class="float-child styled-list">
-    <img src="afbeeldingen/rollen.jpg" alt=" " class="block-image">
+    <a href="soorten-algoritmes-en-ai/"><img src="afbeeldingen/rollen.jpg" alt=" " class="block-image"></a>
     <div class="float-box">
-    <h3><b>Soorten algoritmes en AI</b></h3>
+    <h3><b><a href="soorten-algoritmes-en-ai/">Soorten algoritmes en AI</a></b></h3>
     <ul>
       <li><a href="soorten-algoritmes-en-ai/wat-is-een-algoritme/">Wat is een algoritme?</a></li>
       <li><a href="soorten-algoritmes-en-ai/generatieve-ai/">Generatieve AI</a></li>
@@ -38,9 +37,9 @@ hide:
   </div>
 
   <div class="float-child styled-list">
-    <img src="afbeeldingen/wetten-en-regels.jpg" alt=" " class="block-image">
+    <a href="voldoen-aan-wetten-en-regels/"><img src="afbeeldingen/wetten-en-regels.jpg" alt=" " class="block-image"></a>
     <div class="float-box">
-    <h3><b>Voldoen aan wetten en regels</b></h3>
+    <h3><b><a href="voldoen-aan-wetten-en-regels/">Voldoen aan wetten en regels</a></b></h3>
     <ul>
       <li><a href="voldoen-aan-wetten-en-regels/vereisten/">Vereisten, inclusief AI-verordening</a></li>
       <li><a href="voldoen-aan-wetten-en-regels/maatregelen/">Overzicht Aanbevolen maatregelen</a></li>
@@ -51,9 +50,9 @@ hide:
   </div>
 
  <div class="float-child styled-list">
-    <img src="afbeeldingen/eu.jpeg" alt=" " class="block-image">
+    <a href="voldoen-aan-wetten-en-regels/ai-verordening/"><img src="afbeeldingen/eu.jpeg" alt=" " class="block-image"></a>
     <div class="float-box">
-    <h3><b>Europese AI-verordening</b></h3>
+    <h3><b><a href="voldoen-aan-wetten-en-regels/ai-verordening/">Europese AI-verordening</a></b></h3>
     <ul>
       <li><a href="voldoen-aan-wetten-en-regels/tijdlijn-ai-verordening/">Tijdlijn: alle deadlines op een rij</a></li>
       <li><a href="voldoen-aan-wetten-en-regels/ai-verordening/">AI-verordening in het kort</a></li>
@@ -64,15 +63,14 @@ hide:
   </div>
 
   <div class="float-child styled-list">
-    <img src="afbeeldingen/onderwerpen.jpg" alt=" " class="block-image">
+    <a href="onderwerpen/"><img src="afbeeldingen/onderwerpen.jpg" alt=" " class="block-image"></a>
     <div class="float-box">
-    <h3><b>Onderwerpen</b></h3>
+    <h3><b><a href="onderwerpen/">Onderwerpen</a></b></h3>
     <ul>
       <li><a href="onderwerpen/bias-en-non-discriminatie/">Discriminatie</a></li>
       <li><a href="onderwerpen/privacy-en-gegevensbescherming/">Privacy en persoonsgegevens</a></li>
       <li><a href="onderwerpen/publieke-inkoop/">Publieke inkoop</a></li>
     </ul>
-    <a href="onderwerpen/" class="show-more"><b>Alle onderwerpen</b></a>
 
   </div>
   </div>

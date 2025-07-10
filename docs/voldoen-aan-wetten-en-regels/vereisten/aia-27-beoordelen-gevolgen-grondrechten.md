@@ -52,7 +52,7 @@ Het doel is om de bescherming van grondrechten te waarborgen bij het gebruik van
 - [Artikel 27, lid 1, AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#art_27)
 - [Artikel 6, lid 2, AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#art_6)
 - [Bijlage III, onderdeel 2 en 5, AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#anx_III)
-- [Impact Assessment Mensenrechten en Algoritmes (IAMA)](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/IAMA)
+- [Impact Assessment Mensenrechten en Algoritmes (IAMA)](/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/IAMA)
 
 ## Van toepassing op
 <!-- tags-ai-act -->

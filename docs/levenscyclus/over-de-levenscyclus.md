@@ -1,6 +1,6 @@
 ---
 title: Over de levenscyclus
-summary: De levenscyclus helpt je om te bepalen wat je wanneer moet doen. Hoe zit dit eruit in een plaatje? En waarom 8 fasen?
+summary: De levenscyclus helpt je om te bepalen wat je wanneer moet doen. Hoe ziet dit eruit in een plaatje? En waarom 8 fasen?
 hide:
   - toc
 ---
@@ -28,7 +28,7 @@ Om algoritmes op een verantwoorde manier te gebruiken, zul je op de juiste momen
 ## Systeemniveau en organisatieniveau
 De levenscyclus kent 2 verschillende niveau's:
 
-- **organisatieniveau**: Sommige vereisten zijn algemeen en vragen om een organisatiebrede aanpak. Dit gaat bijvoorbeeld om passende processen en risicomanagment in je organisatie. Of het creëeren van bewustzijn en kennis binnen je organisatie. In het ideale geval besteed je hier al aandacht aan voordat je begint met de ontwikkeling of het gebruik van algoritmes. Bij deze fase horen maatregelen die je niet voor ieder systeem opnieuw zal hoeven te bekijken.
+- **organisatieniveau**: Sommige vereisten zijn algemeen en vragen om een organisatiebrede aanpak. Dit gaat bijvoorbeeld om passende processen en risicomanagment in je organisatie. Of het creëren van bewustzijn en kennis binnen je organisatie. In het ideale geval besteed je hier al aandacht aan voordat je begint met de ontwikkeling of het gebruik van algoritmes. Bij deze fase horen maatregelen die je niet voor ieder systeem opnieuw zal hoeven te bekijken.
 - **systeemniveau**: Sommige vereisten voor verantwoorde inzet van algoritmes zul je bij ieder algoritme weer opnieuw aandacht moeten geven. Dat geldt bijvoorbeeld voor het beschermen van grondrechten.
 
 ///
@@ -68,7 +68,7 @@ De levenscyclus kent 2 verschillende niveau's:
       style 6 color:#fff, fill:#1975d2, stroke:#1975d2, text-decoration:underline;
       style 7 color:#fff, fill:#1975d2, stroke:#1975d2, text-decoration:underline;
       style 8 color:#fff, fill:#1975d2, stroke:#1975d2, text-decoration:underline;
-      style organisatieniveau fill:transparant
+      style organisatieniveau fill:transparent
 ```
 ///
 

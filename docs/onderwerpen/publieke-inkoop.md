@@ -29,7 +29,7 @@ Beantwoord in elk geval de volgende vragen:
 * Om wat voor type algoritme gaat het?
 * Hoe risicovol is de inzet van het beoogde type algoritme?
 * Welke verantwoordelijkheden zijn er wie is hiervoor verantwoordelijk? Een leverancier of een de opdrachtgever zelf?
-* Welke publiek waarden worden geraakt met het inzet van het algoritme?
+* Welke publieke waarden worden geraakt met de inzet van het algoritme?
 * Welke expertise moet de opdrachtgever zelf organiseren om algoritmes verantwoord te kunnen gebruiken? De levenscyclus kan hier waardevolle inzichten voor geven.
 * Zijn er specifieke standaarden voor algoritmes die moeten worden gehanteerd? Denk hierbij aan de ISO27001.
 
@@ -51,7 +51,7 @@ Als leveranciers, bijvoorbeeld bij een aanbesteding, hun inschrijving hebben ing
 
 Stel een beoordelingsteam samen waarin voldoende kennis over algoritmes aanwezig is.
 
-Er wordt vervolgens een leverancier geselecteerd waarmee een contract wordt opgesteld. Het is van belang dat goed wordt nagedacht hoe het contractbeheer wordt vormgegeven en welke verantwoordelijkheden er blijven bestaan voor de opdrachtnemen.
+Er wordt vervolgens een leverancier geselecteerd waarmee een contract wordt opgesteld. Het is van belang dat goed wordt nagedacht hoe het contractbeheer wordt vormgegeven en welke verantwoordelijkheden er blijven bestaan voor de opdrachtgever.
 
 
 ## Vereisten { data-search-exclude }
@@ -71,6 +71,7 @@ Afhankelijk van de behoeftestelling en het benodigde algoritme, moet worden bepa
 ## Bronnen
 * [Inkoopproces PIANOo](https://www.pianoo.nl/nl/inkoopproces), expertisecentrum aanbesteden van het ministerie van Economische Zaken
 * [Community of Practice Digitale Innovaties](https://www.pianoo.nl/nl/themas/innovatie/netwerken/community-practice-digitale-innovaties), PIANOo
+* [Leidraad voor het kopen of laten ontwikkelen van algoritmes en AI](https://www.pianoo.nl/nl/actueel/nieuws/nieuw-leidraad-voor-inkopen-en-ontwikkelen-algoritmes-it-toepassingen), Community of Practice Digitale Innovaties, PIANOo
 
 ## Help ons deze pagina te verbeteren
 Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/issues/new/choose) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

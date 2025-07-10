@@ -172,4 +172,4 @@ Houd daarom rekening met bias tijdens het ontwikkelen, inkopen en gebruiken van 
 <!-- list_hulpmiddelen onderwerp/bias-en-non-discriminatie no-search no-onderwerp no-rol no-levenscyclus no-id -->
 
 ## Help ons deze pagina te verbeteren
-Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/rollen/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).
+Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/onderwerpen/bias-en-non-discriminatie.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

@@ -63,4 +63,4 @@ Na het bepalen van de manier van controleren, bepaal je de manier waarop je feed
 <!-- list_hulpmiddelen onderwerp/menselijke-controle no-search no-onderwerp no-rol no-levenscyclus no-id -->
 
 ## Help ons deze pagina te verbeteren
-Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/onderwerpen/menselijke-controle/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).
+Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/onderwerpen/menselijke-controle.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

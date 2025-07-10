@@ -47,7 +47,7 @@ Het verschil tussen de twee versies is dat het Algoritmekader gebruik maakt van 
 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/). De insiders versie is een gesponsorde versie en
 bevat een aantal extra functionaliteiten. Hoewel deze versie onder een open source licentie beschikbaar is, vragen de
 ontwikkelaars van Material for MkDocs in de aanvullende
-[fair use policity](https://squidfunk.github.io/mkdocs-material/insiders/license/#fair-use-policy) om het niet publiek
+[fair use policy](https://squidfunk.github.io/mkdocs-material/insiders/license/#fair-use-policy) om het niet publiek
 te delen. Wij realiseren ons dat hierdoor niet iedereen de versie van het Algoritmekader, inclusief alle
 functionaliteiten, op een eigen omgeving kan draaien. Om lokaal testen van mensen die geen toegang hebben tot de
 betaalde versie mogelijk te maken, zit in `requirements.txt` de publiek toegangelijke

@@ -123,6 +123,7 @@ def _create_table_row_2(
         if filter_options.get("onderwerp", True)
         else ""
     )
+    # Worden op dit moment niet gebruikt
     # vereiste_chips = (
     #     "".join(
     #         _create_chip(vereiste, "vereiste", current_file, config)
@@ -232,10 +233,10 @@ def on_env(env, config: MkDocsConfig, files: Files):
         if filter_options.get("ai-act-labels", False):
             filters.append("<div id='ai-act-labels-info'>")
             filters.append(
-                "<div id='ai-act-info-no-labels'><strong><a href='#' onclick=\"showModal(event, 'ai-act-labels');\">Kies je AI-verordeningprofiel</a> of <a href='#' onclick=\"showModal(event, 'beslishulp');\">gebruik de beslishulp AI-verordening</a> om vereisten te filteren.</strong></div>"
+                "<div id='ai-act-info-no-labels'><strong><a href='#' onclick=\"showModal(event, 'ai-act-labels');\">Kies je AI-verordeningprofiel</a> of <a href='#' onclick=\"showModal(event, 'beslishulp AI-verordening');\">gebruik de beslishulp AI-verordening</a> om vereisten te filteren.</strong></div>"
             )
             filters.append(
-                "<div id='ai-act-info-with-labels' class='display-none'>Jouw AI-verordening profiel: <span id='ai-act-labels-container'></span> <a href='#' onclick=\"showModal(event, 'ai-act-labels');\">Wijzig je profiel</a> of <a href='#' onclick=\"showModal(event, 'beslishulp');\">open de beslishulp</a>.</div>"
+                "<div id='ai-act-info-with-labels' class='display-none'>Jouw AI-verordening profiel: <span id='ai-act-labels-container'></span> <a href='#' onclick=\"showModal(event, 'ai-act-labels');\">Wijzig je profiel</a> of <a href='#' onclick=\"showModal(event, 'beslishulp AI-verordening');\">open de beslishulp AI-verordening</a>.</div>"
             )
             filters.append("</div>")
 
@@ -361,8 +362,8 @@ def on_env(env, config: MkDocsConfig, files: Files):
                     config.site_url or "/", vereiste_file.url
                 )
                 vereisten_table.append(
-
-                    f'<tr><td><a href="{vereiste_link}">{vereiste_id}</a></td><td><a href="{vereiste_link}">{vereiste_title}</a></td></tr>')
+                    f'<tr><td><a href="{vereiste_link}">{vereiste_id}</a></td><td><a href="{vereiste_link}">{vereiste_title}</a></td></tr>'
+                )
             else:
                 vereisten_table.append(
                     f"<tr><td>{vereiste}</td></tr>"
@@ -402,7 +403,8 @@ def on_env(env, config: MkDocsConfig, files: Files):
                     config.site_url or "/", maatregel_file.url
                 )
                 maatregelen_table.append(
-                    f'<tr><td><a href="{maatregel_link}">{maatregel_id}</a></td><td><a href="{maatregel_link}">{maatregel_title}</a></td></tr>')
+                    f'<tr><td><a href="{maatregel_link}">{maatregel_id}</a></td><td><a href="{maatregel_link}">{maatregel_title}</a></td></tr>'
+                )
             else:
                 maatregelen_table.append(
                     f"<tr><td>{maatregel}</td></tr>"

@@ -83,17 +83,18 @@ function getBasePath() {
   }
 }
 
-// Function to handle the redirect
-function redirectThenShowModal(event, targetUrl) {
-  event.preventDefault();
-  sessionStorage.setItem('showModalAfterRedirect', 'true');
-  window.location.href = targetUrl;
-}
-
-function showModal(event, modalId) {
+// Enhanced showModal function to support redirect functionality
+function showModal(event, modalId, options = {}) {
   event.preventDefault();
   event.stopPropagation();
   const basePath = getBasePath();
+
+  // Store redirect URL if provided
+  if (options.redirectUrl) {
+    // If redirectUrl is relative, make it absolute with basePath
+    const redirectUrl = options.redirectUrl.startsWith('/') ? options.redirectUrl : `${basePath}/${options.redirectUrl}`;
+    sessionStorage.setItem('pendingRedirect', redirectUrl);
+  }
 
   if (modalId === "ai-act-labels") {
       onDynamicContentLoaded(document.getElementById("modal-content"), (cb) => {
@@ -102,7 +103,7 @@ function showModal(event, modalId) {
       });
       loadHTML(`${basePath}/html/ai-verordening-popup.html`, 'modal-content')
       document.getElementById("modal-content-container").classList.add("model-content-auto-size");
-  } else if (modalId === "beslishulp") {
+  } else if (modalId === "beslishulp AI-verordening") {
       document.getElementById("modal-content").innerHTML = `<iframe
           style="display: block; width: 100%; height: 100%; border: 0; padding: 0; margin: 0; overflow: hidden;"
           src="${basePath}/html/beslishulp.html"></iframe>`
@@ -333,7 +334,7 @@ labelMapper.addEntry('in-ontwikkeling', 'In ontwikkeling', 'operationeel', ["Ope
 labelMapper.addEntry('beoordeling-door-derde-partij', 'Beoordeling door derde partij', 'conformiteitsbeoordelingsinstantie', ["Conformiteitsbeoordelingsinstantie-beoordeling door derde partij"]);
 labelMapper.addEntry('niet-van-toepassing', 'Niet van toepassing', 'conformiteitsbeoordelingsinstantie', ["Conformiteitsbeoordelingsinstantie-niet van toepassing"]);
 
-// Add the message event listener
+// Enhanced message event listener for beslishulp-done event
 window.addEventListener('message', (event) => {
   if (event.data.event === 'beslishulp-done') {
     console.log('Received beslishulp-done:', event.data.value);
@@ -344,10 +345,15 @@ window.addEventListener('message', (event) => {
     if (redirectUrl && jsonObject) {
       // Store labels for processing after redirect
       sessionStorage.setItem('pendingLabels', JSON.stringify(jsonObject));
-      sessionStorage.setItem('showModalAfterRedirect', 'true');
-      closeModal();
       sessionStorage.removeItem('pendingRedirect');
-      window.location.href = redirectUrl;
+
+      // Close modal first, then redirect
+      closeModal();
+
+      // Small delay to ensure modal closes before redirect
+      setTimeout(() => {
+        window.location.href = redirectUrl;
+      }, 100);
     } else if (jsonObject) {
       // Direct modal case - handle labels immediately
       const beslishulpLabels = Object.entries(jsonObject).flatMap(([key, values]) =>
@@ -361,14 +367,7 @@ window.addEventListener('message', (event) => {
 });
 
 document.addEventListener('DOMContentLoaded', () => {
-  // Check if we should show modal
-  const shouldShowModal = sessionStorage.getItem('showModalAfterRedirect');
-  if (shouldShowModal) {
-    sessionStorage.removeItem('showModalAfterRedirect');
-    showModal(new Event('click'), 'beslishulp');
-  }
-
-  // Check for and process any pending labels
+  // Check for and process any pending labels (no modal needed)
   const pendingLabels = sessionStorage.getItem('pendingLabels');
   if (pendingLabels) {
     try {

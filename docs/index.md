@@ -56,7 +56,7 @@ hide:
     <ul>
       <li><a href="voldoen-aan-wetten-en-regels/tijdlijn-ai-verordening/">Tijdlijn: alle deadlines op een rij</a></li>
       <li><a href="voldoen-aan-wetten-en-regels/ai-verordening/">AI-verordening in het kort</a></li>
-      <li><a href="https://ai-verordening-beslishulp.apps.digilab.network/">Beslishulp AI-verordening</a></li>
+      <li><a href="#" onclick="showModal(event, 'beslishulp AI-verordening', {redirectUrl: 'voldoen-aan-wetten-en-regels/vereisten/'});">Beslishulp AI-verordening</a></li>
     </ul>
 
   </div>

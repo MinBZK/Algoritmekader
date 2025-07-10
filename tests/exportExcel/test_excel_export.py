@@ -67,10 +67,11 @@ def test_export_with_no_filters_includes_all_rows(browser_page: Page):
     # then - alle 3 data rijen + header moeten geëxporteerd zijn
     exported_data = browser_page.evaluate("window.capturedExportData")
     assert len(exported_data) == 5  # filterrij + header + 3 rows
-    assert exported_data[0] == ["ID", "Naam", "Rollen"]
-    assert exported_data[1][0] == "1"
-    assert exported_data[2][0] == "2"
-    assert exported_data[3][0] == "3"
+    assert exported_data[0] == ["Geen filters toegepast", "", ""]
+    assert exported_data[1] == ["ID", "Naam", "Rollen"]
+    assert exported_data[2][0] == "1"
+    assert exported_data[3][0] == "2"
+    assert exported_data[4][0] == "3"
 
 
 def test_export_with_filter_only_includes_matching_rows(browser_page: Page):

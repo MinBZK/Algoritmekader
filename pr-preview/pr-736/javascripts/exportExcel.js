@@ -38,6 +38,15 @@ function exportVereisten() {
     exportTable(VEREISTEN_CONFIG);
 }
 
+function getActiveFiltersString(activeFilters) {
+    if (!activeFilters || activeFilters.length === 0) return 'Geen filters toegepast';
+    return 'Filters toegepast: ' + activeFilters.map(f => `${capitalize(f.type)} = ${f.value}`).join('; ');
+}
+
+function capitalize(str) {
+    return str.charAt(0).toUpperCase() + str.slice(1);
+}
+
 function exportTable(config) {
     const button = document.getElementById(config.buttonId);
     const originalButtonHTML = button ? button.innerHTML : '';
@@ -47,8 +56,8 @@ function exportTable(config) {
         validateRequirements(config);
 
         const table = document.getElementById(config.tableId);
-        const exportData = extractTableData(table, config);
         const activeFilters = getCurrentFilters(config);
+        const exportData = extractTableData(table, config, activeFilters);
         const workbook = createWorkbook(exportData, activeFilters, config);
 
         const timestamp = new Date().toISOString().slice(0, 10);
@@ -74,7 +83,7 @@ function validateRequirements(config) {
     }
 }
 
-function extractTableData(table, config) {
+function extractTableData(table, config, activeFilters) {
     const rows = table.getElementsByTagName("tr");
     
     if (rows.length === 0) {
@@ -83,10 +92,21 @@ function extractTableData(table, config) {
 
     const exportData = [];
     const headers = extractHeaders(rows[0]);
+    // Voeg filterrij toe
+    const filterRow = [getActiveFiltersString(activeFilters)];
+    while (filterRow.length < headers.length) filterRow.push('');
+    exportData.push(filterRow);
     exportData.push(headers);
 
+    // Only export visible rows (after filtering)
     for (let i = 1; i < rows.length; i++) {
         const row = rows[i];
+        
+        // Skip rows that are hidden by CSS (filtered out)
+        if (row.style.display === 'none') {
+            continue;
+        }
+        
         const rowData = extractRowData(row, headers, config);
         exportData.push(rowData);
     }
@@ -139,7 +159,23 @@ function createWorkbook(exportData, activeFilters, config) {
 
     setColumnWidths(ws, exportData);
     setAutoFilter(ws, exportData);
-    applyFiltersToWorksheet(ws, exportData, activeFilters);
+
+    // Geef de filterrij (eerste rij) een achtergrondkleur Oranje-300 (#F6D4B3)
+    const filterRowIndex = 0;
+    const numCols = exportData[0].length;
+    for (let col = 0; col < numCols; col++) {
+        const cellAddress = XLSX.utils.encode_cell({ c: col, r: filterRowIndex });
+        if (!ws[cellAddress]) continue;
+        ws[cellAddress].s = {
+            fill: {
+                patternType: "solid",
+                fgColor: { rgb: "F6D4B3" }
+            },
+            font: {
+                bold: true
+            }
+        };
+    }
 
     XLSX.utils.book_append_sheet(wb, ws, config.sheetName);
     return wb;
@@ -167,58 +203,6 @@ function setAutoFilter(ws, exportData) {
         });
         ws['!autofilter'] = { ref: range };
     }
-}
-
-function applyFiltersToWorksheet(ws, exportData, activeFilters) {
-    if (exportData.length <= 1 || activeFilters.length === 0) return;
-    
-    const headers = exportData[0];
-    const rowsToHide = [];
-    
-    // Check each data row against active filters
-    for (let rowIndex = 1; rowIndex < exportData.length; rowIndex++) {
-        const row = exportData[rowIndex];
-        let shouldHideRow = false;
-        
-        activeFilters.forEach(filter => {
-            const columnIndex = findColumnIndex(headers, filter.type);
-            if (columnIndex !== -1) {
-                const cellValue = row[columnIndex]?.toString().toLowerCase() || '';
-                const filterValue = filter.value.toLowerCase();
-                
-                // For text search, check if cell contains the filter value
-                if (filter.type === 'zoeken') {
-                    if (!cellValue.includes(filterValue)) {
-                        shouldHideRow = true;
-                    }
-                } else {
-                    // For dropdown filters, check if cell contains or matches the filter value
-                    if (!cellValue.includes(filterValue)) {
-                        shouldHideRow = true;
-                    }
-                }
-            }
-        });
-        
-        if (shouldHideRow) {
-            rowsToHide.push(rowIndex);
-        }
-    }
-    
-    // Hide rows by setting row height to 0
-    if (rowsToHide.length > 0) {
-        ws['!rows'] = ws['!rows'] || [];
-        rowsToHide.forEach(rowIndex => {
-            ws['!rows'][rowIndex] = { hidden: true };
-        });
-    }
-}
-
-function findColumnIndex(headers, filterType) {
-    return headers.findIndex(header => {
-        const lowerHeader = header.toLowerCase();
-        return lowerHeader.includes(filterType.toLowerCase());
-    });
 }
 
 function getCurrentFilters(config) {

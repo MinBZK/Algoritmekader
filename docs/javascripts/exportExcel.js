@@ -76,7 +76,7 @@ function validateRequirements(config) {
     if (typeof XLSX === 'undefined') {
         throw new Error('SheetJS library niet geladen');
     }
-    
+
     const table = document.getElementById(config.tableId);
     if (!table) {
         throw new Error(`Tabel '${config.tableId}' niet gevonden`);
@@ -85,14 +85,14 @@ function validateRequirements(config) {
 
 function extractTableData(table, config, activeFilters) {
     const rows = table.getElementsByTagName("tr");
-    
+
     if (rows.length === 0) {
         throw new Error('Geen data om te exporteren');
     }
 
     const exportData = [];
     const headers = extractHeaders(rows[0]);
-    // Voeg filterrij toe
+    // Voeg filterrij toe als eerste rij (alleen eerste cel gevuld)
     const filterRow = [getActiveFiltersString(activeFilters)];
     while (filterRow.length < headers.length) filterRow.push('');
     exportData.push(filterRow);
@@ -101,12 +101,9 @@ function extractTableData(table, config, activeFilters) {
     // Only export visible rows (after filtering)
     for (let i = 1; i < rows.length; i++) {
         const row = rows[i];
-        
-        // Skip rows that are hidden by CSS (filtered out)
-        if (row.style.display === 'none') {
-            continue;
-        }
-        
+        // Sla filterrijen in de HTML-tabel over (voor de zekerheid)
+        if (row.classList && row.classList.contains('filter-row')) continue;
+        if (row.style.display === 'none') continue;
         const rowData = extractRowData(row, headers, config);
         exportData.push(rowData);
     }
@@ -196,10 +193,11 @@ function setColumnWidths(ws, exportData) {
 }
 
 function setAutoFilter(ws, exportData) {
-    if (exportData.length > 1) {
+    if (exportData.length > 2) {
+        // Zet autofilter op de header-rij (tweede rij, dus r:1)
         const range = XLSX.utils.encode_range({
-            s: { c: 0, r: 0 },
-            e: { c: exportData[0].length - 1, r: exportData.length - 1 }
+            s: { c: 0, r: 1 },
+            e: { c: exportData[1].length - 1, r: exportData.length - 1 }
         });
         ws['!autofilter'] = { ref: range };
     }

@@ -110,7 +110,9 @@ def test_export_with_filter_only_includes_matching_rows(browser_page: Page):
     # then - alleen rijen 1 en 3 (die data-scientist bevatten) + header
     exported_data = browser_page.evaluate("window.capturedExportData")
     # Pas eventueel het aantal rijen aan afhankelijk van het filterresultaat
-    assert len(exported_data) == 5  # filterrij + header + 3 rows (of minder als je filtert)
+    assert (
+        len(exported_data) == 5
+    )  # filterrij + header + 3 rows (of minder als je filtert)
 
     # Check dat er workbook met filters wordt aangemaakt
     workbook_created = browser_page.evaluate(

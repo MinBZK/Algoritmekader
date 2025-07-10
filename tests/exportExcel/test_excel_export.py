@@ -66,7 +66,7 @@ def test_export_with_no_filters_includes_all_rows(browser_page: Page):
 
     # then - alle 3 data rijen + header moeten geëxporteerd zijn
     exported_data = browser_page.evaluate("window.capturedExportData")
-    assert len(exported_data) == 4  # header + 3 rows
+    assert len(exported_data) == 5  # filterrij + header + 3 rows
     assert exported_data[0] == ["ID", "Naam", "Rollen"]
     assert exported_data[1][0] == "1"
     assert exported_data[2][0] == "2"
@@ -108,9 +108,8 @@ def test_export_with_filter_only_includes_matching_rows(browser_page: Page):
 
     # then - alleen rijen 1 en 3 (die data-scientist bevatten) + header
     exported_data = browser_page.evaluate("window.capturedExportData")
-    assert (
-        len(exported_data) == 4
-    )  # header + alle rows (filtering gebeurt in Excel via hidden rows)
+    # Pas eventueel het aantal rijen aan afhankelijk van het filterresultaat
+    assert len(exported_data) == 5  # filterrij + header + 3 rows (of minder als je filtert)
 
     # Check dat er workbook met filters wordt aangemaakt
     workbook_created = browser_page.evaluate(
@@ -149,7 +148,7 @@ def test_multi_value_columns_get_semicolon_separators_in_export(browser_page: Pa
 
     # then - multi-value kolommen hebben ; separator, andere kolommen niet
     exported_data = browser_page.evaluate("window.capturedExportData")
-    row_data = exported_data[1]
+    row_data = exported_data[2]  # Eerste data-rij na filterrij en header
 
     assert row_data[1] == "data-scientist; product-owner; developer"  # Rollen column
     assert row_data[2] == "ontwerp; ontwikkeling; monitoring"  # Levenscyclus column

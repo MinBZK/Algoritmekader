@@ -2,6 +2,8 @@
 title: Hulpmiddelen
 summary: Overzicht van de aanbevolen hulpmiddelen voor overheden die algoritmes of AI ontwikkelen of gebruiken. De hulpmiddelen helpen om te voldoen aan de vereisten.
 hide: navigation
+version: "1.0.0"
+version_date: "2025-07-04"
 ---
 
 # Hulpmiddelen

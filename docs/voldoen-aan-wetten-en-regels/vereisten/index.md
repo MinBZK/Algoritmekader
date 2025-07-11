@@ -5,6 +5,8 @@ id: 0
 hide:
   - navigation
   - toc
+version: "1.0.0"
+version_date: "2025-07-04"
 ---
 # Vereisten voor de overheid
 Overzicht van de belangrijkste vereisten voor overheden die algoritmes of AI-systemen ontwikkelen of gebruiken.

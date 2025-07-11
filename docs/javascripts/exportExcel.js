@@ -38,6 +38,14 @@ function exportVereisten() {
     exportTable(VEREISTEN_CONFIG, 'ods');
 }
 
+function exportMaatregelenODS() {
+    exportTable(MAATREGELEN_CONFIG, 'ods');
+}
+
+function exportVereistenODS() {
+    exportTable(VEREISTEN_CONFIG, 'ods');
+}
+
 function getActiveFiltersString(activeFilters) {
     if (!activeFilters || activeFilters.length === 0) return 'Geen filters toegepast';
     return 'Dit zijn gefilterde maatregelen uit het Algoritmekader, geselecteerd op basis van de volgende filters: ' + activeFilters.map(f => `${capitalize(f.type)} = ${f.value}`).join('; ');
@@ -63,9 +71,7 @@ function exportTable(config, format = 'xlsx') {
         const timestamp = new Date().toISOString().slice(0, 10);
         const extension = format === 'ods' ? 'ods' : 'xlsx';
         const filename = `${config.filename}_${timestamp}.${extension}`;
-        
-        const writeOptions = format === 'ods' ? { bookType: 'ods' } : { bookType: 'xlsx' };
-        XLSX.writeFile(workbook, filename, writeOptions);
+        XLSX.writeFile(workbook, filename, { bookType: format });
 
     } catch (error) {
         console.error('Excel export error:', error);
@@ -97,7 +103,7 @@ function extractTableData(table, config, activeFilters) {
     const headers = extractHeaders(rows[0]);
     
     // Voeg instructierij toe
-    const instructionRow = ["💡 Tip: Selecteer de header-rij en klik op Data → Standaard Filter of AutoFilter om kolommen te filteren"];
+    const instructionRow = ["📊 Deze data is geformatteerd als tabel met ingebouwde filters - gebruik de dropdown pijltjes in de headers"];
     while (instructionRow.length < headers.length) instructionRow.push('');
     exportData.push(instructionRow);
     
@@ -168,9 +174,14 @@ function createWorkbook(exportData, activeFilters, config, format = 'xlsx') {
     const ws = XLSX.utils.aoa_to_sheet(exportData);
 
     setColumnWidths(ws, exportData);
-    setAutoFilter(ws, exportData, format); // Pass format to setAutoFilter
+    
+    if (format === 'ods') {
+        setAdvancedFilter(ws, exportData, config);
+    } else {
+        setTableStructure(ws, exportData, config);
+    }
 
-    // Merge de instructierij (eerste rij) over alle kolommen
+    // Merge en style de instructierij (eerste rij)
     const numCols = exportData[0].length;
     if (numCols > 1) {
         if (!ws['!merges']) ws['!merges'] = [];
@@ -186,11 +197,11 @@ function createWorkbook(exportData, activeFilters, config, format = 'xlsx') {
         ws[instructionCellAddress].s = {
             fill: {
                 patternType: "solid",
-                fgColor: { rgb: "E6F7FF" } // Light blue
+                fgColor: { rgb: "E8F5E8" } // Light green
             },
             font: {
                 italic: true,
-                color: { rgb: "0066CC" }
+                color: { rgb: "2E7D32" }
             },
             alignment: {
                 horizontal: "left",
@@ -218,7 +229,7 @@ function createWorkbook(exportData, activeFilters, config, format = 'xlsx') {
             ws[filterCellAddress].s = {
                 fill: {
                     patternType: "solid",
-                    fgColor: { rgb: "F6D4B3" } // Orange
+                    fgColor: { rgb: "FFF3E0" } // Light orange
                 },
                 font: {
                     bold: true
@@ -249,7 +260,7 @@ function setColumnWidths(ws, exportData) {
     ws['!cols'] = colWidths.map(width => ({ width }));
 }
 
-function setAutoFilter(ws, exportData, format = 'xlsx') {
+function setTableStructure(ws, exportData, config) {
     if (exportData.length > 1) {
         // Bepaal de header-rij index
         // Rij 0 = instructies, rij 1 = filters (als actief), laatste rij voor data = headers
@@ -260,14 +271,35 @@ function setAutoFilter(ws, exportData, format = 'xlsx') {
             headerRowIndex = 2; // instructie + filter + header
         }
         
-        // Stel autofilter in voor alle formats
-        const range = XLSX.utils.encode_range({
+        // Definieer het tabel bereik
+        const tableRange = XLSX.utils.encode_range({
             s: { c: 0, r: headerRowIndex },
             e: { c: exportData[headerRowIndex].length - 1, r: exportData.length - 1 }
         });
-        ws['!autofilter'] = { ref: range };
         
-        // Voeg header styling toe voor betere zichtbaarheid
+        // Maak een echte Excel tabel structuur
+        if (!ws['!tables']) ws['!tables'] = [];
+        
+        const tableName = `Tabel_${config.sheetName}`;
+        ws['!tables'].push({
+            name: tableName,
+            ref: tableRange,
+            headerRowCount: 1,
+            showRowStripes: true,
+            showColumnStripes: false,
+            showFilterButton: true,
+            showFirstColumn: false,
+            showLastColumn: false,
+            columns: exportData[headerRowIndex].map((header, index) => ({
+                name: header || `Column${index + 1}`,
+                totalsRowFunction: null
+            }))
+        });
+        
+        // Voeg ook autofilter toe als fallback
+        ws['!autofilter'] = { ref: tableRange };
+        
+        // Style de header rij
         for (let col = 0; col < exportData[headerRowIndex].length; col++) {
             const cellAddress = XLSX.utils.encode_cell({ c: col, r: headerRowIndex });
             if (!ws[cellAddress]) {
@@ -277,10 +309,67 @@ function setAutoFilter(ws, exportData, format = 'xlsx') {
                 ws[cellAddress].s = {};
             }
             ws[cellAddress].s.font = { bold: true };
+            ws[cellAddress].s.fill = {
+                patternType: "solid",
+                fgColor: { rgb: "D9E2F3" } // Light blue header
+            };
         }
     }
 }
 
+function setAdvancedFilter(ws, exportData, config) {
+    if (exportData.length > 1) {
+        // Bepaal de header-rij index
+        let headerRowIndex = 1; // Start met instructie + header (geen filters)
+        
+        // Check of er een filterrij is (bevat 'filters' in de tekst)
+        if (exportData[1] && exportData[1][0] && exportData[1][0].includes('filters')) {
+            headerRowIndex = 2; // instructie + filter + header
+        }
+        
+        // Definieer het data bereik voor Advanced Filter
+        const dataRange = XLSX.utils.encode_range({
+            s: { c: 0, r: headerRowIndex },
+            e: { c: exportData[headerRowIndex].length - 1, r: exportData.length - 1 }
+        });
+        
+        // Maak criteria range boven de data (voor Advanced Filter)
+        const criteriaStartRow = Math.max(0, headerRowIndex - 1);
+        const criteriaRange = XLSX.utils.encode_range({
+            s: { c: 0, r: criteriaStartRow },
+            e: { c: exportData[headerRowIndex].length - 1, r: headerRowIndex }
+        });
+        
+        // Voeg database range informatie toe (ODS specifiek)
+        if (!ws['!dbranges']) ws['!dbranges'] = [];
+        ws['!dbranges'].push({
+            name: `Database_${config.sheetName}`,
+            ref: dataRange,
+            hasHeader: true,
+            criteriaRange: criteriaRange,
+            filterType: 'advanced'
+        });
+        
+        // Voeg standaard autofilter toe als fallback
+        ws['!autofilter'] = { ref: dataRange };
+        
+        // Style de header rij
+        for (let col = 0; col < exportData[headerRowIndex].length; col++) {
+            const cellAddress = XLSX.utils.encode_cell({ c: col, r: headerRowIndex });
+            if (!ws[cellAddress]) {
+                ws[cellAddress] = { v: exportData[headerRowIndex][col], t: 's' };
+            }
+            if (!ws[cellAddress].s) {
+                ws[cellAddress].s = {};
+            }
+            ws[cellAddress].s.font = { bold: true };
+            ws[cellAddress].s.fill = {
+                patternType: "solid",
+                fgColor: { rgb: "E8F5E8" } // Light green voor ODS
+            };
+        }
+    }
+}
 
 function getCurrentFilters(config) {
     return config.filters.flatMap(filterConfig => {
@@ -323,3 +412,5 @@ function restoreButtonState(button, originalHTML) {
 // Export functions globally
 window.exportMaatregelen = exportMaatregelen;
 window.exportVereisten = exportVereisten;
+window.exportMaatregelenODS = exportMaatregelenODS;
+window.exportVereistenODS = exportVereistenODS;

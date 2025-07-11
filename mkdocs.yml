@@ -59,8 +59,10 @@ nav:
         - Vereisten: voldoen-aan-wetten-en-regels/vereisten/index.md
         - Maatregelen: voldoen-aan-wetten-en-regels/maatregelen/index.md
         - Hulpmiddelen: voldoen-aan-wetten-en-regels/hulpmiddelen/index.md
-        - AI-verordening in het kort: voldoen-aan-wetten-en-regels/ai-verordening.md
-        - Tijdlijn AI-verordening: voldoen-aan-wetten-en-regels/tijdlijn-ai-verordening.md
+    - AI-verordening:
+        - Overzicht: ai-verordening/index.md
+        - AI-verordening in het kort: ai-verordening/ai-verordening-in-het-kort.md
+        - Tijdlijn AI-verordening: ai-verordening/tijdlijn-ai-verordening.md
 
 # Extra opties
 markdown_extensions:

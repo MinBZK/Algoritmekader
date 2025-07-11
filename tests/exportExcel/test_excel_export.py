@@ -51,6 +51,7 @@ def test_export_with_no_filters_includes_all_rows(browser_page: Page):
             <select id="filterLevenscyclusSelect" multiple></select>
             <select id="filterOnderwerpSelect" multiple></select>
             <button id="export-btn">Export</button>
+            <span id="content_type">maatregelen</span>
 
             <table id="myTable">
                 <tr><th>ID</th><th>Naam</th><th>Rollen</th></tr>
@@ -62,16 +63,15 @@ def test_export_with_no_filters_includes_all_rows(browser_page: Page):
     """)
 
     # when - export zonder filters
-    browser_page.evaluate("exportMaatregelen()")
+    browser_page.evaluate("exportODS()")
 
-    # then - alle 3 data rijen + header moeten geëxporteerd zijn
+    # then - alle 3 data rijen + header moeten geëxporteerd zijn (geen filterrij, geen instructie)
     exported_data = browser_page.evaluate("window.capturedExportData")
-    assert len(exported_data) == 5  # filterrij + header + 3 rows
-    assert exported_data[0] == ["Geen filters toegepast", "", ""]
-    assert exported_data[1] == ["ID", "Naam", "Rollen"]
-    assert exported_data[2][0] == "1"
-    assert exported_data[3][0] == "2"
-    assert exported_data[4][0] == "3"
+    assert len(exported_data) == 4  # header + 3 rows (geen filterrij, geen instructie)
+    assert exported_data[0] == ["ID", "Naam", "Rollen"]  # header row
+    assert exported_data[1][0] == "1"
+    assert exported_data[2][0] == "2"
+    assert exported_data[3][0] == "3"
 
 
 def test_export_with_filter_only_includes_matching_rows(browser_page: Page):
@@ -94,6 +94,7 @@ def test_export_with_filter_only_includes_matching_rows(browser_page: Page):
             <select id="filterLevenscyclusSelect" multiple></select>
             <select id="filterOnderwerpSelect" multiple></select>
             <button id="export-btn">Export</button>
+            <span id="content_type">maatregelen</span>
 
             <table id="myTable">
                 <tr><th>ID</th><th>Naam</th><th>Rollen</th></tr>
@@ -105,14 +106,13 @@ def test_export_with_filter_only_includes_matching_rows(browser_page: Page):
     """)
 
     # when - export met filter
-    browser_page.evaluate("exportMaatregelen()")
+    browser_page.evaluate("exportODS()")
 
-    # then - alleen rijen 1 en 3 (die data-scientist bevatten) + header
+    # then - alleen zichtbare rijen + filter rij + header
     exported_data = browser_page.evaluate("window.capturedExportData")
-    # Pas eventueel het aantal rijen aan afhankelijk van het filterresultaat
-    assert (
-        len(exported_data) == 5
-    )  # filterrij + header + 3 rows (of minder als je filtert)
+    assert len(exported_data) == 5  # filter row + header + 3 rows (alleen zichtbare)
+    assert "gefilterde maatregelen" in exported_data[0][0]  # filter row
+    assert exported_data[1] == ["ID", "Naam", "Rollen"]  # header row
 
     # Check dat er workbook met filters wordt aangemaakt
     workbook_created = browser_page.evaluate(
@@ -138,6 +138,7 @@ def test_multi_value_columns_get_semicolon_separators_in_export(browser_page: Pa
             <select id="filterLevenscyclusSelect" multiple></select>
             <select id="filterOnderwerpSelect" multiple></select>
             <button id="export-btn">Export</button>
+            <span id="content_type">maatregelen</span>
 
             <table id="myTable">
                 <tr><th>ID</th><th>Rollen</th><th>Levenscyclus</th><th>Beschrijving</th></tr>
@@ -147,11 +148,11 @@ def test_multi_value_columns_get_semicolon_separators_in_export(browser_page: Pa
     """)
 
     # when
-    browser_page.evaluate("exportMaatregelen()")
+    browser_page.evaluate("exportODS()")
 
     # then - multi-value kolommen hebben ; separator, andere kolommen niet
     exported_data = browser_page.evaluate("window.capturedExportData")
-    row_data = exported_data[2]  # Eerste data-rij na filterrij en header
+    row_data = exported_data[1]  # Eerste data-rij na header (geen filterrij)
 
     assert row_data[1] == "data-scientist; product-owner; developer"  # Rollen column
     assert row_data[2] == "ontwerp; ontwikkeling; monitoring"  # Levenscyclus column
@@ -174,21 +175,25 @@ def test_maatregelen_vs_vereisten_export_different_filenames(browser_page: Page)
             <select id="filterLevenscyclusSelect" multiple></select>
             <select id="filterOnderwerpSelect" multiple></select>
             <button id="export-btn">Export</button>
+            <span id="content_type">maatregelen</span>
             <table id="myTable"><tr><th>Test</th></tr><tr><td>Data</td></tr></table>
         `;
     """)
 
-    # when
-    browser_page.evaluate("exportMaatregelen()")
-    browser_page.evaluate("exportVereisten()")
+    # when - test both maatregelen and vereisten
+    browser_page.evaluate("exportODS()")
+    browser_page.evaluate("""
+        document.getElementById('content_type').textContent = 'vereisten';
+        exportODS();
+    """)
 
     # then
     filenames = browser_page.evaluate("window.exportedFilenames")
     assert len(filenames) == 2
     assert "maatregelen" in filenames[0].lower()
     assert "vereisten" in filenames[1].lower()
-    assert filenames[0].endswith(".xlsx")
-    assert filenames[1].endswith(".xlsx")
+    assert filenames[0].endswith(".ods")
+    assert filenames[1].endswith(".ods")
 
 
 def test_export_fails_gracefully_when_table_missing(browser_page: Page):
@@ -199,13 +204,65 @@ def test_export_fails_gracefully_when_table_missing(browser_page: Page):
         window.originalAlert = alert;
         alert = (msg) => window.alertMessages.push(msg);
 
-        document.body.innerHTML = '<button id="export-btn">Export</button>';
+        document.body.innerHTML = '<button id="export-btn">Export</button><span id="content_type">maatregelen</span>';
     """)
 
     # when
-    browser_page.evaluate("exportMaatregelen()")
+    browser_page.evaluate("exportODS()")
 
     # then - error message, geen crash
     alerts = browser_page.evaluate("window.alertMessages")
     assert len(alerts) > 0
     assert any("niet gevonden" in alert.lower() for alert in alerts)
+
+
+def test_ods_export_with_filters_creates_proper_autofilter(browser_page: Page):
+    """Test: ODS export met filters heeft correct autofilter en styling"""
+    # given
+    browser_page.evaluate("""
+        window.capturedWorksheet = null;
+        window.capturedWriteOptions = null;
+        
+        XLSX.utils.aoa_to_sheet = (data) => {
+            const ws = { '!cols': [], '!autofilter': null, '!merges': [] };
+            // Simulate worksheet creation
+            return ws;
+        };
+        
+        XLSX.utils.book_append_sheet = (wb, ws, name) => {
+            window.capturedWorksheet = ws;
+        };
+        
+        XLSX.writeFile = (workbook, filename, options) => {
+            window.capturedWriteOptions = options;
+        };
+
+        document.body.innerHTML = `
+            <select id="filterSelect" multiple>
+                <option value="data-scientist" selected>Data Scientist</option>
+            </select>
+            <select id="filterLevenscyclusSelect" multiple></select>
+            <select id="filterOnderwerpSelect" multiple></select>
+            <button id="export-btn">Export</button>
+            <span id="content_type">maatregelen</span>
+
+            <table id="myTable">
+                <tr><th>ID</th><th>Naam</th><th>Rollen</th></tr>
+                <tr><td>1</td><td>Voor Data Scientist</td><td>data-scientist</td></tr>
+                <tr><td>2</td><td>Voor Jurist</td><td>jurist</td></tr>
+            </table>
+        `;
+    """)
+
+    # when
+    browser_page.evaluate("exportODS()")
+
+    # then - verify ODS-specific options are used
+    write_options = browser_page.evaluate("window.capturedWriteOptions")
+    assert write_options is not None
+    assert write_options.get('bookType') == 'ods'
+    
+    # Verify worksheet has autofilter
+    worksheet = browser_page.evaluate("window.capturedWorksheet")
+    assert worksheet is not None
+    assert '!autofilter' in worksheet

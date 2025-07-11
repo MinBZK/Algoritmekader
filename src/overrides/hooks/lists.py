@@ -247,24 +247,26 @@ def on_env(env, config: MkDocsConfig, files: Files):
             "maatregelen",
         ]:
             export_function = f"export{content_type.capitalize()}"
-            filters.extend(
-                [
-                    '<div id="export-excel">',
-                    '<div style="display: flex; align-items: center; gap: 20px;">',
-                    "<div>",
-                    f'Er zijn <strong><span id="total-count">{len(list)}</span></strong> resultaten gevonden',
-                    "</div>",
-                    "<div>",
-                    f'<button id="export-btn" onclick="{export_function}()" class="button md-button--secondary">',
-                    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="width: 24px; height: 24px; vertical-align: middle; fill: #154271"><path d="M5,20h14a1,1 0 0,0 1-1v-2h-2v2H6v-2H4v2A1,1 0 0,0 5,20M19,9h-4V3H9v6H5l7,7l7-7z"/></svg> Exporteer <span id="content_type">'
-                    + content_type
-                    + "</span> naar excel",
-                    "</button>",
-                    "</div>",
-                    "</div>",
-                    "</div>",
-                ]
-            )
+            filters.extend([
+                '<div id="export-excel">',
+                '<div style="display: flex; align-items: center; gap: 20px;">',
+                '<div>',
+                f'Er zijn <strong><span id="total-count">{len(list)}</span></strong> resultaten gevonden',
+                '</div>',
+                '<div>',
+                '<div class="export-dropdown-container" style="position: relative; display: inline-block;">',
+                '<button id="export-btn" onclick="toggleExportDropdown()" class="button md-button--secondary">',
+                '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="width: 24px; height: 24px; vertical-align: middle; fill: #154271"><path d="M5,20h14a1,1 0 0,0 1-1v-2h-2v2H6v-2H4v2A1,1 0 0,0 5,20M19,9h-4V3H9v6H5l7,7l7-7z"/></svg> Exporteer <span id="content_type">' + content_type + '</span>',
+                '</button>',
+                '<div id="export-dropdown" class="export-dropdown" style="display: none; position: absolute; background: white; border: 1px solid #ccc; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); width: 100%; z-index: 10000; font-family: ROsanswebtextregular, Arial, sans-serif; top: 100%; left: 0; margin-top: -1px;">',
+                '<div onclick="exportExcel()" style="padding: 12px 16px; cursor: pointer; border-bottom: 1px solid #eee; color: #154273; font-size: 14px; font-family: ROsanswebtextregular, Arial, sans-serif;" onmouseover="this.style.backgroundColor=\'#f5f5f5\'" onmouseout="this.style.backgroundColor=\'white\'">Excel (XLSX)</div>',
+                '<div onclick="exportODS()" style="padding: 12px 16px; cursor: pointer; color: #154273; font-size: 14px; font-family: ROsanswebtextregular, Arial, sans-serif;" onmouseover="this.style.backgroundColor=\'#f5f5f5\'" onmouseout="this.style.backgroundColor=\'white\'">OpenDocument Spreadsheet (ODS)</div>',
+                '</div>',
+                '</div>',
+                '</div>',
+                '</div>',
+                '</div>'
+            ])
 
         return "".join(filters)
 

@@ -112,6 +112,7 @@ extra_html:
 extra_javascript:
   - javascripts/jquery-3.6.0.min.js
   - https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js
   - javascripts/exportExcel.js
   - javascripts/choices.min.js
   - javascripts/tablesort.min.js
@@ -127,6 +128,7 @@ plugins:
         enable_creation_date: true
         timezone: Europe/Amsterdam
         locale: nl
+        enabled: !ENV [MKDOCS_ENABLE_GIT_DATES, true]
     - awesome-pages:
         collapse_single_pages: true
 

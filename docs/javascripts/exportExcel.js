@@ -30,24 +30,112 @@ const VEREISTEN_CONFIG = {
     sheetName: 'Vereisten'
 };
 
-function exportMaatregelen() {
-    exportTable(MAATREGELEN_CONFIG);
+function toggleExportDropdown() {
+    const dropdown = document.getElementById('export-dropdown');
+    if (dropdown) {
+        if (dropdown.style.display === 'none' || dropdown.style.display === '') {
+            dropdown.style.display = 'block';
+            dropdown.style.width = document.getElementById('export-btn').offsetWidth + 'px';
+            // Add click outside listener to close dropdown
+            setTimeout(() => {
+                document.addEventListener('click', function closeDropdown(e) {
+                    if (!dropdown.contains(e.target) && !document.getElementById('export-btn').contains(e.target)) {
+                        dropdown.style.display = 'none';
+                        document.removeEventListener('click', closeDropdown);
+                    }
+                });
+            }, 100);
+        } else {
+            dropdown.style.display = 'none';
+        }
+    }
 }
 
-function exportVereisten() {
-    exportTable(VEREISTEN_CONFIG);
+function exportExcel() {
+    const dropdown = document.getElementById('export-dropdown');
+    if (dropdown) dropdown.style.display = 'none';
+    
+    // Determine which config to use based on the content type in the page
+    const contentTypeElement = document.getElementById('content_type');
+    const contentType = contentTypeElement ? contentTypeElement.textContent.toLowerCase() : '';
+    
+    if (contentType === 'maatregelen') {
+        exportToExcel(MAATREGELEN_CONFIG);
+    } else if (contentType === 'vereisten') {
+        exportToExcel(VEREISTEN_CONFIG);
+    }
+}
+
+function exportODS() {
+    const dropdown = document.getElementById('export-dropdown');
+    if (dropdown) dropdown.style.display = 'none';
+    
+    // Determine which config to use based on the content type in the page
+    const contentTypeElement = document.getElementById('content_type');
+    const contentType = contentTypeElement ? contentTypeElement.textContent.toLowerCase() : '';
+    
+    if (contentType === 'maatregelen') {
+        exportToODS(MAATREGELEN_CONFIG);
+    } else if (contentType === 'vereisten') {
+        exportToODS(VEREISTEN_CONFIG);
+    }
 }
 
 function getActiveFiltersString(activeFilters) {
     if (!activeFilters || activeFilters.length === 0) return 'Geen filters toegepast';
-    return 'Filters toegepast: ' + activeFilters.map(f => `${capitalize(f.type)} = ${f.value}`).join('; ');
+    return 'Dit zijn gefilterde maatregelen uit het Algoritmekader, geselecteerd op basis van de volgende filters: ' + activeFilters.map(f => `${capitalize(f.type)} = ${f.value}`).join('; ') + '\n';
 }
 
 function capitalize(str) {
     return str.charAt(0).toUpperCase() + str.slice(1);
 }
 
-function exportTable(config) {
+
+function exportToExcel(config) {
+    console.log('exportToExcel called with config:', config);
+    
+    const button = document.getElementById(config.buttonId);
+    const originalButtonHTML = button ? button.innerHTML : '';
+    console.log('Button found:', button);
+
+    try {
+        console.log('Setting button state...');
+        setButtonState(button, true, 'Exporteren...');
+        
+        console.log('Validating requirements...');
+        validateRequirements(config);
+
+        console.log('Getting table and filters...');
+        const table = document.getElementById(config.tableId);
+        const activeFilters = getCurrentFilters(config);
+        console.log('Table:', table, 'Active filters:', activeFilters);
+        
+        console.log('Extracting table data for Excel...');
+        const exportData = extractTableDataForExcel(table, config, activeFilters);
+        console.log('Export data:', exportData);
+        
+        console.log('Creating workbook...');
+        const workbook = createWorkbook(exportData, activeFilters, config, 'xlsx');
+        console.log('Workbook created:', workbook);
+
+        const timestamp = new Date().toISOString().slice(0, 10);
+        const filename = `${config.filename}_${timestamp}.xlsx`;
+        console.log('Filename:', filename);
+        
+        console.log('Writing file...');
+        XLSX.writeFile(workbook, filename, { bookType: 'xlsx' });
+        console.log('File written successfully');
+
+    } catch (error) {
+        console.error('Excel export error:', error);
+        alert(`Excel export mislukt: ${error.message}`);
+    } finally {
+        console.log('Restoring button state...');
+        restoreButtonState(button, originalButtonHTML);
+    }
+}
+
+function exportToODS(config) {
     const button = document.getElementById(config.buttonId);
     const originalButtonHTML = button ? button.innerHTML : '';
 
@@ -57,16 +145,17 @@ function exportTable(config) {
 
         const table = document.getElementById(config.tableId);
         const activeFilters = getCurrentFilters(config);
-        const exportData = extractTableData(table, config, activeFilters);
-        const workbook = createWorkbook(exportData, activeFilters, config);
+        const exportData = extractTableDataForODS(table, config, activeFilters);
+        const workbook = createWorkbook(exportData, activeFilters, config, 'ods');
 
         const timestamp = new Date().toISOString().slice(0, 10);
-        const filename = `${config.filename}_${timestamp}.xlsx`;
-        XLSX.writeFile(workbook, filename);
+        const filename = `${config.filename}_${timestamp}.ods`;
+        
+        XLSX.writeFile(workbook, filename, { bookType: 'ods' });
 
     } catch (error) {
-        console.error('Excel export error:', error);
-        alert(`Excel export mislukt: ${error.message}`);
+        console.error('ODS export error:', error);
+        alert(`ODS export mislukt: ${error.message}`);
     } finally {
         restoreButtonState(button, originalButtonHTML);
     }
@@ -83,7 +172,7 @@ function validateRequirements(config) {
     }
 }
 
-function extractTableData(table, config, activeFilters) {
+function extractTableDataForExcel(table, config, activeFilters) {
     const rows = table.getElementsByTagName("tr");
 
     if (rows.length === 0) {
@@ -92,16 +181,52 @@ function extractTableData(table, config, activeFilters) {
 
     const exportData = [];
     const headers = extractHeaders(rows[0]);
-    // Voeg filterrij toe als eerste rij (alleen eerste cel gevuld)
-    const filterRow = [getActiveFiltersString(activeFilters)];
-    while (filterRow.length < headers.length) filterRow.push('');
-    exportData.push(filterRow);
+    
+    // Voeg filterrij toe alleen als er filters actief zijn
+    const hasActiveFilters = activeFilters && activeFilters.length > 0;
+    if (hasActiveFilters) {
+        const filterRow = [getActiveFiltersString(activeFilters)];
+        while (filterRow.length < headers.length) filterRow.push('');
+        exportData.push(filterRow);
+    }
+    
     exportData.push(headers);
 
     // Only export visible rows (after filtering)
     for (let i = 1; i < rows.length; i++) {
         const row = rows[i];
-        // Sla filterrijen in de HTML-tabel over (voor de zekerheid)
+        if (row.classList && row.classList.contains('filter-row')) continue;
+        if (row.style.display === 'none') continue;
+        const rowData = extractRowData(row, headers, config);
+        exportData.push(rowData);
+    }
+
+    return exportData;
+}
+
+function extractTableDataForODS(table, config, activeFilters) {
+    const rows = table.getElementsByTagName("tr");
+
+    if (rows.length === 0) {
+        throw new Error('Geen data om te exporteren');
+    }
+
+    const exportData = [];
+    const headers = extractHeaders(rows[0]);
+    
+    // Voeg filterrij toe alleen als er filters actief zijn
+    const hasActiveFilters = activeFilters && activeFilters.length > 0;
+    if (hasActiveFilters) {
+        const filterRow = [getActiveFiltersString(activeFilters)];
+        while (filterRow.length < headers.length) filterRow.push('');
+        exportData.push(filterRow);
+    }
+    
+    exportData.push(headers);
+
+    // Only export visible rows (after filtering)
+    for (let i = 1; i < rows.length; i++) {
+        const row = rows[i];
         if (row.classList && row.classList.contains('filter-row')) continue;
         if (row.style.display === 'none') continue;
         const rowData = extractRowData(row, headers, config);
@@ -150,28 +275,87 @@ function cleanMultiValueField(text) {
         .replace(/[;,]\s*[;,]/g, EXPORT_CONFIG.MULTI_VALUE_SEPARATOR);
 }
 
-function createWorkbook(exportData, activeFilters, config) {
+function createWorkbook(exportData, activeFilters, config, format = 'xlsx') {
     const wb = XLSX.utils.book_new();
     const ws = XLSX.utils.aoa_to_sheet(exportData);
 
     setColumnWidths(ws, exportData);
-    setAutoFilter(ws, exportData);
+    setAutoFilter(ws, exportData, format);
 
-    // Geef de filterrij (eerste rij) een achtergrondkleur Oranje-300 (#F6D4B3)
-    const filterRowIndex = 0;
+    // Styling en merging alleen voor ODS (met instructies)
     const numCols = exportData[0].length;
-    for (let col = 0; col < numCols; col++) {
-        const cellAddress = XLSX.utils.encode_cell({ c: col, r: filterRowIndex });
-        if (!ws[cellAddress]) continue;
-        ws[cellAddress].s = {
-            fill: {
-                patternType: "solid",
-                fgColor: { rgb: "F6D4B3" }
-            },
-            font: {
-                bold: true
+    if (format === 'ods' && exportData[0][0] && exportData[0][0].includes('Tip:')) {
+        if (!ws['!merges']) ws['!merges'] = [];
+        
+        // Merge de instructierij (eerste rij) over alle kolommen
+        if (numCols > 1) {
+            ws['!merges'].push({
+                s: { c: 0, r: 0 },
+                e: { c: numCols - 1, r: 0 }
+            });
+        }
+        
+        // Style voor instructierij
+        const instructionCellAddress = XLSX.utils.encode_cell({ c: 0, r: 0 });
+        if (ws[instructionCellAddress]) {
+            ws[instructionCellAddress].s = {
+                fill: {
+                    patternType: "solid",
+                    fgColor: { rgb: "E6F7FF" } // Light blue
+                },
+                font: {
+                    italic: true,
+                    color: { rgb: "0066CC" }
+                },
+                alignment: {
+                    horizontal: "left",
+                    vertical: "center"
+                }
+            };
+        }
+    }
+    
+    // Als er filters actief zijn, style de filterrij
+    const hasActiveFilters = activeFilters && activeFilters.length > 0;
+    if (hasActiveFilters) {
+        // Zoek de filterrij
+        let filterRowIndex = -1;
+        for (let i = 0; i < exportData.length; i++) {
+            if (exportData[i][0] && exportData[i][0].includes('filters')) {
+                filterRowIndex = i;
+                break;
             }
-        };
+        }
+        
+        if (filterRowIndex !== -1) {
+            if (!ws['!merges']) ws['!merges'] = [];
+            
+            // Merge de filterrij over alle kolommen
+            if (numCols > 1) {
+                ws['!merges'].push({
+                    s: { c: 0, r: filterRowIndex },
+                    e: { c: numCols - 1, r: filterRowIndex }
+                });
+            }
+            
+            // Style voor filterrij
+            const filterCellAddress = XLSX.utils.encode_cell({ c: 0, r: filterRowIndex });
+            if (ws[filterCellAddress]) {
+                ws[filterCellAddress].s = {
+                    fill: {
+                        patternType: "solid",
+                        fgColor: { rgb: "F6D4B3" } // Orange
+                    },
+                    font: {
+                        bold: true
+                    },
+                    alignment: {
+                        horizontal: "left",
+                        vertical: "center"
+                    }
+                };
+            }
+        }
     }
 
     XLSX.utils.book_append_sheet(wb, ws, config.sheetName);
@@ -192,16 +376,51 @@ function setColumnWidths(ws, exportData) {
     ws['!cols'] = colWidths.map(width => ({ width }));
 }
 
-function setAutoFilter(ws, exportData) {
-    if (exportData.length > 2) {
-        // Zet autofilter op de header-rij (tweede rij, dus r:1)
+function setAutoFilter(ws, exportData, format = 'xlsx') {
+    if (exportData.length > 1 && format === 'xlsx') {
+        // Bepaal de header-rij index
+        let headerRowIndex = 0; // Start met eerste rij
+        
+        // Check of er een filterrij is (bevat 'filters' in de tekst)
+        if (exportData[0] && exportData[0][0] && exportData[0][0].includes('filters')) {
+            headerRowIndex = 1; // filter + header
+        }
+        
+        // Stel autofilter in alleen voor Excel
         const range = XLSX.utils.encode_range({
-            s: { c: 0, r: 1 },
-            e: { c: exportData[1].length - 1, r: exportData.length - 1 }
+            s: { c: 0, r: headerRowIndex },
+            e: { c: exportData[headerRowIndex].length - 1, r: exportData.length - 1 }
         });
         ws['!autofilter'] = { ref: range };
     }
+    
+    // Voeg header styling toe voor alle formats
+    if (exportData.length > 1) {
+        let headerRowIndex = 0;
+        
+        // Zoek de header rij (eerste rij die niet met "Tip:" of "filters" begint)
+        for (let i = 0; i < exportData.length; i++) {
+            const firstCell = exportData[i][0];
+            if (firstCell && !firstCell.includes('Tip:') && !firstCell.includes('filters')) {
+                headerRowIndex = i;
+                break;
+            }
+        }
+        
+        // Style headers
+        for (let col = 0; col < exportData[headerRowIndex].length; col++) {
+            const cellAddress = XLSX.utils.encode_cell({ c: col, r: headerRowIndex });
+            if (!ws[cellAddress]) {
+                ws[cellAddress] = { v: exportData[headerRowIndex][col], t: 's' };
+            }
+            if (!ws[cellAddress].s) {
+                ws[cellAddress].s = {};
+            }
+            ws[cellAddress].s.font = { bold: true };
+        }
+    }
 }
+
 
 function getCurrentFilters(config) {
     return config.filters.flatMap(filterConfig => {
@@ -242,5 +461,6 @@ function restoreButtonState(button, originalHTML) {
 }
 
 // Export functions globally
-window.exportMaatregelen = exportMaatregelen;
-window.exportVereisten = exportVereisten;
+window.toggleExportDropdown = toggleExportDropdown;
+window.exportExcel = exportExcel;
+window.exportODS = exportODS;

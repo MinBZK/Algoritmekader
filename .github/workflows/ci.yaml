@@ -21,7 +21,9 @@ jobs:
           cache: 'pip'
 
       - name: Install dependencies
-        run: pip install pytest pyyaml
+        run: pip install -r requirements.txt
+      - name: Install Playwright browsers
+        run: playwright install chromium
 
       - name: Run tests
         run: pytest tests/
@@ -39,7 +41,7 @@ jobs:
           cache: 'pip'
 
       - name: Install dependencies
-        run: pip install pyyaml
+        run: pip install -r requirements.txt
 
       - name: Run validations
         run: python script/validation/run_all_validations.py

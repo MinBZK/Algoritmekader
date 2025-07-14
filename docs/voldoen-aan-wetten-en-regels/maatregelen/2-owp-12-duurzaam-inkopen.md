@@ -45,9 +45,12 @@ Stel bij het inkopen duidelijke eisen aan duurzaamheidscriteria, zoals het gebru
 Om naleving van duurzame doelstellingen te stimuleren, kun je een bonus-malusregeling inzetten. Aanbieders ontvangen een bonus wanneer zij duurzame doelstellingen halen, en kunnen worden aangesproken als beloofde duurzaamheidsnormen niet worden behaald. Monitoring via jaarlijkse rapportages helpt om de voortgang van de duurzaamheidsdoelen te evalueren en, indien nodig, bij te sturen.
 
 ## Extra overwegingen
-Extra overwegingen die je kunt maken bij het aankopen van algoritmes, zoals genoemd in de [handreiking 'Hoe maak ik mijn inkoop van software duurzamer?' van PIANOo](https://www.pianoo.nl/nl/document/19545/handreiking-hoe-maak-ik-mijn-inkoop-van-software-duurzamer):
+Extra overwegingen die je kunt maken bij het aankopen van algoritmes, zoals genoemd in de [handreiking 'Hoe maak ik mijn inkoop van software duurzamer?' van PIANOo](https://www.pianoo.nl/nl/document/19545/handreiking-hoe-maak-ik-mijn-inkoop-van-software-duurzamer) en het [eindrapport 'Generatieve AI en duurzaamheid' van de Universiteit Utrecht](https://www.rijksoverheid.nl/documenten/rapporten/2025/01/31/eindrapport-generatieve-ai-en-duurzaamheid):
 
 - Ga na of je de software wel echt moet inkopen.
+- Maak waar mogelijk gebruik van al bestaande modellen of fine-tune deze.
+- Onderzoek of je gebruik kunt maken van een AI-toepassing die bij een andere overheidsorganisatie in beheer is.
+- Gebruik alleen een groot model als dit veel toegevoegde waarde heeft.
 - Probeer zoveel mogelijk uit te vragen in een SaaS-oplossing.
 - Vraag een oplossing in een Cloud-omgeving.
 - Ga na of ‘serverless’ ook een oplossing is.
@@ -56,6 +59,7 @@ Extra overwegingen die je kunt maken bij het aankopen van algoritmes, zoals geno
 - Open standaarden zijn een vorm van duurzaamheid.
 - Pas containerisatie en virtualisatie toe.
 - Neem eisen op over opschalingsmogelijkheden.
+- Vraag de afdrukcijfers op.
 
 ## Risico
 Zonder duurzaamheidscriteria bij het inkopen van software loop je het risico op hogere energie- en kostenlasten en beperk je de mogelijkheden om duurzaamheidsdoelstellingen te halen bij je algoritmes.
@@ -70,6 +74,7 @@ Zonder duurzaamheidscriteria bij het inkopen van software loop je het risico op 
 ## Bronnen
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 - [Handreiking: Hoe maak ik mijn inkoop van software duurzamer? (PIANOo)](https://www.pianoo.nl/nl/document/19545/handreiking-hoe-maak-ik-mijn-inkoop-van-software-duurzamer)
+- [Eindrapport 'Generatieve AI en duurzaamheid' (Universiteit Utrecht)](https://www.rijksoverheid.nl/documenten/rapporten/2025/01/31/eindrapport-generatieve-ai-en-duurzaamheid)
 
 ## Voorbeelden
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->

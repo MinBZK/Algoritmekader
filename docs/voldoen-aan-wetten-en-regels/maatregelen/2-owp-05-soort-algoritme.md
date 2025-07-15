@@ -38,7 +38,7 @@ Het verschilt per type algoritme welke vereisten hierop van toepassing is en waa
 
 Dit is mede afhankelijk van de bijbehorende [risicogroepen](../ai-verordening.md#risicogroepen), de [gebruikte techiek](2-owp-04-gebruikte-techniek.md) en of je het algoritme [ontwikkelt of slechts gebruikt](../ai-verordening.md#rollen-uit-de-ai-verordening).
 
-Gebruik de [beslishulp](https://ai-verordening-beslishulp.apps.digilab.network/) om de risicobepaling van jouw toepassing te bepalen.
+Gebruik de <a href="#" onclick="showModal(event, 'beslishulp AI-verordening', {redirectUrl: 'voldoen-aan-wetten-en-regels/vereisten/'});">beslishulp AI-verordening</a> om de risicobepaling van jouw toepassing te bepalen.
 
 Let op dat niet enkel naar de AI-verordening wordt gekeken. Ook op impactvolle algoritmes die niet vallen onder het bereik van de AI-verordening zijn vereisten van toepassing. Zie hiervoor de [Handreiking Algoritmeregister](https://www.digitaleoverheid.nl/document/handreiking-algoritmeregister/).
 
@@ -63,7 +63,7 @@ Als de risicogroep waar een algoritme bij hoort niet wordt bepaald is er een ris
 
 ## Bronnen
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
-- [Beslishulp AI-verordening](https://ai-verordening-beslishulp.apps.digilab.network/)
+-  [<a href="#" onclick="showModal(event, 'beslishulp AI-verordening', {redirectUrl: 'voldoen-aan-wetten-en-regels/vereisten/'});">Beslishulp AI-verordening</a>](../vereisten/index.md)
 - [Handreiking Algoritmeregister](https://www.digitaleoverheid.nl/document/handreiking-algoritmeregister/)
 - [Gids AI-verordening](https://www.rijksoverheid.nl/documenten/brochures/2024/10/16/gids-ai-verordening)
 - [Guidelines on the definition of an artificial intelligence system, Europese Commissie](https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-ai-system-definition-facilitate-first-ai-acts-rules-application)

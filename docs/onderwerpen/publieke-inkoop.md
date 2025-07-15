@@ -56,7 +56,7 @@ Er wordt vervolgens een leverancier geselecteerd waarmee een contract wordt opge
 
 ## Vereisten { data-search-exclude }
 
-Afhankelijk van de behoeftestelling en het benodigde algoritme, moet worden bepaald welke vereisten hierop van toepassing zijn. Voor zover het gaat om de AI-systemen waarop de AI-Verordening van toepassing is, kan de [beslishulp AI-verordening](https://ai-act-decisiontree.apps.digilab.network/) worden geraadpleegd.
+Afhankelijk van de behoeftestelling en het benodigde algoritme, moet worden bepaald welke vereisten hierop van toepassing zijn. Voor zover het gaat om de AI-systemen waarop de AI-Verordening van toepassing is, kan de <a href="#" onclick="showModal(event, 'beslishulp AI-verordening', {redirectUrl: 'voldoen-aan-wetten-en-regels/vereisten/'});">beslishulp AI-verordening</a> worden geraadpleegd.
 
 ## Aanbevolen maatregelen { data-search-exclude }
 

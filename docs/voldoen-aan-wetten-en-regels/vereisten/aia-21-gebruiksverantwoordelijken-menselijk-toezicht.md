@@ -14,16 +14,16 @@ soort-toepassing:
 - ai-systeem-voor-algemene-doeleinden
 risicogroep:
 - hoog-risico-ai-systeem
-transparantieverplichting: 
+transparantieverplichting:
 - geen-transparantieverplichting
-- transparantieverplichting 
+- transparantieverplichting
 systeemrisico:
 - niet-van-toepassing
-open-source: 
+open-source:
 - open-source
 - geen-open-source
 - niet-van-toepassing
-uitzondering: 
+uitzondering:
 - risicogroep-uitzondering-van-toepassing
 rol-ai-act:
 - gebruiksverantwoordelijke
@@ -41,7 +41,7 @@ Gebruiksverantwoordelijken dragen het menselijk toezicht over een hoog risico AI
 Het is van belang dat natuurlijke personen die het menselijk toezicht moeten uitvoeren over het AI-systeem met een hoog risico, daarvoor over de nodige bekwaamheid, opleiding en autoriteit beschikt.
 Daarbij kan het van belang zijn dat deze natuurlijke personen ondersteuning krijgen bij het uitvoeren van deze taak.
 
-De gebruiksaanwijzing bij een hoog risico AI-systeem hoort informatie te bevatten over kenmerken, mogelijkheden en beperkingen van de prestaties van het AI-systeem bevatten. Deze informatie is relevant om te bepalen welke taken onder het bereik van menselijk toezicht kunnen worden gebracht. 
+De gebruiksaanwijzing bij een hoog risico AI-systeem hoort informatie te bevatten over kenmerken, mogelijkheden en beperkingen van de prestaties van het AI-systeem bevatten. Deze informatie is relevant om te bepalen welke taken onder het bereik van menselijk toezicht kunnen worden gebracht.
 
 Deze informatie bestaat onder andere uit een beschrijving:
 - welke handelingen van de gebruiksverantwoordelijke van invloed kunnen zijn op het gedrag en de prestaties van het systeem,
@@ -55,15 +55,15 @@ Deze informatie bestaat onder andere uit een beschrijving:
 - [Artikel 26(2) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e4350-1-1)
 - [Artikel 27(1 sub e) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3906-1-1)
 - [Bijlage IV (2 sub e en 3) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3906-1-1)
-  
-## Van toepassing op 
+
+## Van toepassing op
 <!-- tags-ai-act -->
 
 
 ## Risico
 
 Als de natuurlijke toezichthouder geen effectief toezicht kan houden op het hoog risico AI-systeem, kunnen ongewenste, negatieve effecten onstaan voor betrokkenen en de organisatie.
- 
+
 
 ## Maatregelen { data-search-exclude }
 

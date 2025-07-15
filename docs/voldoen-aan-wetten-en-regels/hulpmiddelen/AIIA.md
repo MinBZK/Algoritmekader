@@ -1,7 +1,7 @@
 ---
 title: AI Impact Assessment (AIIA)
-toelichting: Het AIIA is een praktisch hulpmiddel en begeleidt het denkproces, met als doel de verantwoording, kwaliteit en reproduceerbaarheid van AI-inzet te vergroten. 
-categorie: 
+toelichting: Het AIIA is een praktisch hulpmiddel en begeleidt het denkproces, met als doel de verantwoording, kwaliteit en reproduceerbaarheid van AI-inzet te vergroten.
+categorie:
 - handreiking
 - impact-assessment
 vereiste:
@@ -12,7 +12,7 @@ maatregel:
 - 2-owp-11-gebruikte-data
 - 2-owp-07-afwegen-grondrechten
 - 6-imp-03-menselijke-tussenkomst
-- 6-imp-11-proces-privacyrechten
+- 6-imp-10-proces-privacyrechten
 - 7-mon-02-beveiliging-algoritme
 - 1-pba-05-wettelijke-grondslag
 - 2-owp-03-doel-verwerken-persoonsgegevens
@@ -30,24 +30,24 @@ levenscyclus:
 - monitoring-en-beheer
 - ontwikkelen
 onderwerp:
-- privacy-en-gegevensbescherming 
-- duurzaamheid 
-- fundamentele-rechten 
-- technische-robuustheid-en-veiligheid 
-- transparantie 
-- menselijke-controle 
-- data 
+- privacy-en-gegevensbescherming
+- duurzaamheid
+- fundamentele-rechten
+- technische-robuustheid-en-veiligheid
+- transparantie
+- menselijke-controle
+- data
 rollen:
-- jurist 
-- ontwikkelaar 
-- projectleider 
-- beleid-en-advies 
+- jurist
+- ontwikkelaar
+- projectleider
+- beleid-en-advies
 hide: navigation
 ---
 
 <!-- tags -->
 
-[Direct naar het AIIA](https://www.rijksoverheid.nl/documenten/rapporten/2022/11/30/ai-impact-assessment-ministerie-van-infrastructuur-en-waterstaat){ .md-button }
+[Direct naar het AIIA](https://www.rijksoverheid.nl/documenten/rapporten/2022/11/30/ai-impact-assessment-ministerie-van-infrastructuur-en-waterstaat){ .button .md-button--secondary }
 
 ## Hulpmiddel
 
@@ -59,20 +59,20 @@ Het AIIA kan toegepast worden in elke fase van ontwikkeling en inkoop van een AI
 
 Het AIIA bestaat uit:
 
-- [Het Impact Assessment in de vorm van een pdf](https://www.rijksoverheid.nl/documenten/rapporten/2022/11/30/ai-impact-assessment-ministerie-van-infrastructuur-en-waterstaat) (er is ook een [Engelse versie](https://www.government.nl/documents/publications/2023/03/02/ai-impact-assessment))
-- [Een _invultemplate_ in Word-formaat](documenten/Invultemplate-AIIA2.0.docx) dat gebruikt kan worden voor de praktische toepassing (ook hiervan is een [Engelse versie](documenten/Invultemplate-AIIA2.0-EN.docx) beschikbaar)
+- [AI Impact Assessment](https://www.rijksoverheid.nl/documenten/rapporten/2022/11/30/ai-impact-assessment-ministerie-van-infrastructuur-en-waterstaat) (Nederlandse en Engelse versie)
+- [Invultemplate Nederlands (docx, 46 KB)](documenten/Invultemplate-AIIA2.0.docx) of [Invultemplate Engels (docx, 45 KB)](documenten/Invultemplate-AIIA2.0-EN.docx)
 
 ## Relevantie
 
 Het AIIA is praktisch ingestoken en is ontwikkeld samen met de organisatie. Hierdoor is de AIIA goed toepasbaar in verschillende trajecten. Daarnaast is de AIIA in 2024 vernieuwd (een eerste versie verscheen in 2022) waarbij de laatste versie van de AI Act en geldige wet en regelgeving geïntegreerd is, waardoor het een compleet document is geworden dat verschillende aspecten van een AI systeem behandelt.
 Het AIIA kan in elke fase van een project worden ingezet. Zoek hierbij de diepgang en het detailniveau dat past bij het stadium van ontwikkeling en de risico’s van de applicatie. Het AIIA zet je bijvoorbeeld in als quick-scan om te onderzoeken of een AI-idee toegevoegde waarde heeft. Ook kan het gebruikt worden bij het maken van een projectplan zodat alle relevante aspecten, zoals bijvoorbeeld [technische robuustheid](../../onderwerpen/technische-robuustheid-en-veiligheid.md), impact en communicatie meegenomen worden.
 
-Het AIIA heeft enige overlap met het [IAMA](IAMA.md). Het AIIA is echter specifiek voor AI ontwikkeld, waar het IAMA toepasbaar is op alle soorten algoritmes. 
+Het AIIA heeft enige overlap met het [IAMA](IAMA.md). Het AIIA is echter specifiek voor AI ontwikkeld, waar het IAMA toepasbaar is op alle soorten algoritmes.
 
 
 ## Auteur
 
-Het AIIA is ontwikkeld door het Ministerie van Infratsructuur en Waterstaat (IenW). Het is opgesteld in nauwe samenwerking met de datalabs van de Inspectie Leefomgeving en transport en Rijkswaterstaat. Het is een verplicht instrument binnen het Ministerie van IenW, maar wordt inmiddels ook breder gebruikt. 
+Het AIIA is ontwikkeld door het Ministerie van Infratsructuur en Waterstaat (IenW). Het is opgesteld in nauwe samenwerking met de datalabs van de Inspectie Leefomgeving en transport en Rijkswaterstaat. Het is een verplicht instrument binnen het Ministerie van IenW, maar wordt inmiddels ook breder gebruikt.
 
 ## Bijbehorende vereisten { data-search-exclude }
 

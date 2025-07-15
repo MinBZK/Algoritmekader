@@ -14,16 +14,16 @@ risicogroep:
 - hoog-risico-ai-systeem
 rol-ai-act:
 - aanbieder
-transparantieverplichting: 
+transparantieverplichting:
 - geen-transparantieverplichting
-- transparantieverplichting 
+- transparantieverplichting
 systeemrisico:
 - niet-van-toepassing
-open-source: 
+open-source:
 - open-source
 - geen-open-source
 - niet-van-toepassing
-uitzondering: 
+uitzondering:
 - risicogroep-uitzondering-van-toepassing
 hide:
 - navigation
@@ -46,11 +46,11 @@ AI-systemen met een hoog risico zijn ontworpen met functionaliteiten die gebeurt
 
 Deze logs bieden een traceerbaarheidsmechanisme waarmee gebruiksverantwoordelijken en autoriteiten incidenten en fouten kunnen analyseren, naleving kunnen controleren en mogelijke risico's kunnen identificeren en aanpakken.
 
-Het doel van deze registratie is om de transparantie en verantwoordingsplicht van AI-systemen te vergroten, waardoor het beheer van risico's en incidenten verbetert. Voor AI-systemen met een hoog-risico voorziet de loggingcapaciteit ten minste in: 
+Het doel van deze registratie is om de transparantie en verantwoordingsplicht van AI-systemen te vergroten, waardoor het beheer van risico's en incidenten verbetert. Voor AI-systemen met een hoog-risico voorziet de loggingcapaciteit ten minste in:
 
-1. de registratie van de duur van elk gebruik van het systeem; 
-2. de referentiedatabank aan de hand waarvan de inputdata zijn gecontroleerd door het systeem; 
-3. de inputdata ten aanzien waarvan de zoekopdracht een match heeft opgeleverd; 
+1. de registratie van de duur van elk gebruik van het systeem;
+2. de referentiedatabank aan de hand waarvan de inputdata zijn gecontroleerd door het systeem;
+3. de inputdata ten aanzien waarvan de zoekopdracht een match heeft opgeleverd;
 4. de identificatie van natuurlijke personen die betrokken zijn bij de verificatie van de resultaten. Specifiek voor gebruiksverantwoordelijken
 
 Voor AI-systemen die door bestuursorganen worden gebruikt of AI-systmen die persoonsgegevens verwerken leveren de BIO en AVG vergelijkbare verplichingen op die ook van toepassing zijn op AI-systemen die niet gezien worden als een AI-systeem met hoog risico. Daarbij komen nog verplichtingen om de logs doorlopend of periodiek te monitoren op incidenten.
@@ -62,7 +62,7 @@ Voor AI-systemen die door bestuursorganen worden gebruikt of AI-systmen die pers
 - [Hoofdstuk 12.4 Baseline Informatiebeveiliging Overheid ](https://www.bio-overheid.nl/media/13kduqsi/bio-versie-104zv_def.pdf)
 - [Artikel 5 en 32 Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679)
 
-## Van toepassing op 
+## Van toepassing op
 <!-- tags-ai-act -->
 
 ## Risico

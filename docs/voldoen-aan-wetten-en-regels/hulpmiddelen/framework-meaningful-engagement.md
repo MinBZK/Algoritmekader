@@ -1,9 +1,9 @@
 ---
 title: Framework for Meaningful Engagement
-toelichting: Het Framework for Meaningful Engagement ondersteunt organisaties bij menselijk toezicht tijdens het ontwikkelen van algoritmes.  
+toelichting: Het Framework for Meaningful Engagement ondersteunt organisaties bij menselijk toezicht tijdens het ontwikkelen van algoritmes.
 categorie:
 - handreiking
-levenscyclus:  
+levenscyclus:
 - probleemanalyse
 - ontwerp
 onderwerp:
@@ -28,9 +28,9 @@ maatregel:
 - 1-pba-03-onderbouwen-gebruik-algoritme
 - 1-pba-04-betrek-belanghebbenden
 - 0-org-01-benodigde-expertise-en-capaciteit
-hide:  
-- navigation  
-- toc  
+hide:
+- navigation
+- toc
 
 ---
 
@@ -55,7 +55,7 @@ Voor overheden biedt dit framework handvatten om transparanter te zijn over de o
 
 ## Auteurs en ontwikkeling
 Het framework is ontwikkeld door de European Center for Not-for-Profit Law Stichting (ECNL) en SocietyInside, als onderdeel van de Deense Tech for Democracy Initiative. De totstandkoming vond plaats via een consultatieproces met bijdragen van meer dan 150 individuen en organisaties wereldwijd, waaronder belanghebbenden uit het maatschappelijk middenveld, bedrijfsleven en overheden.
-Het framework bouwt voort op de [VN-richtlijnen voor bedrijfs- en mensenrechten](https://www.ohchr.org/sites/default/files/documents/publications/guidingprinciplesbusinesshr_en.pdf).
+Het framework bouwt voort op de [VN-richtlijnen voor bedrijfs- en mensenrechten](https://www.ohchr.org/en/publications/reference-publications/guiding-principles-business-and-human-rights).
 
 ## Bijbehorende vereisten { data-search-exclude }
 <!-- list_vereisten_on_maatregelen_page -->

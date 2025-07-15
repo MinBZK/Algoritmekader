@@ -1,8 +1,8 @@
 ---
 title: Maak vereisten voor algoritmes onderdeel van algemene inkoopvoorwaarden en de contractovereenkomst
 id: urn:nl:ak:mtr:owp-16
-toelichting: Door vereisten voor algoritmes onderdeel te maken van algemene inkoopvoorwaarden, is het voor aanbieders vooraf en op het moment van contractueren duidelijk waar zij aan moeten voldoen. 
-vereiste: 
+toelichting: Door vereisten voor algoritmes onderdeel te maken van algemene inkoopvoorwaarden, is het voor aanbieders vooraf en op het moment van contractueren duidelijk waar zij aan moeten voldoen.
+vereiste:
 - aia-01-ai-geletterdheid
 - aia-02-documentatie-beoordeling-niet-hoog-risico-ai
 - aia-03-risicobeheersysteem
@@ -63,10 +63,10 @@ vereiste:
 - grw-01-fundamentele-rechten
 - grw-02-non-discriminatie
 
-levenscyclus: 
+levenscyclus:
 - ontwerp
 
-onderwerp: 
+onderwerp:
 - publieke-inkoop
 - transparantie
 rollen:
@@ -91,7 +91,7 @@ Maak vereisten voor algoritmes onderdeel van contractvoorwaarden en de contracto
 - Door vereisten die gelden voor algoritmes onderdeel te maken van contractvoorwaarden, is voor een aanbieder vooraf duidelijk aan welke voorwaarden zij moeten voldoen als zij algoritmes willen aanbieden aan overheidsorganisaties.
 - Het is van belang om een afweging te maken welke vereisten voor algoritmes als ['algemene contractvoorwaarden'](../hulpmiddelen/inkoopvoorwaarden.md) kunnen gelden en welke aanvullend in een contractovereenkomst moeten worden opgenomen.
 
-## Risico 
+## Risico
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
 Door de vereisten voor een verantwoorde inzet van algoritmes niet te communiceren met aanbieders, is het voor hen (deels) onduidelijk aan welke vereisten diens algoritmes moet voldoen om te kunnen contractueren met overheidsorganisaties.
 
@@ -102,7 +102,7 @@ Door de vereisten voor een verantwoorde inzet van algoritmes niet te communicere
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
-## Bronnen 
+## Bronnen
 
 - [Onderzoekskader Algoritmes Auditdienst Rijk, SV.11](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Specificeren algemene inkoopvoorwaarden](https://www.pianoo.nl/nl/inkoopproces/fase-1-voorbereiden/specificeren/specificeren-algemene-voorwaarden)
@@ -112,16 +112,15 @@ Door de vereisten voor een verantwoorde inzet van algoritmes niet te communicere
 
 !!! example "Gemeente Amsterdam - Modelbepalingen"
 
-	De gemeente Amsterdam heeft contractvoorwaarden voor algoritmen opgesteld waarin sommige vereisten opgenomen zijn. Hieronder vallen bijvoorbeeld [“Hoog-risico-AI-systemen zijn voorzien van een kwaliteitsbeheersysteem”](../vereisten/aia-11-systeem-voor-kwaliteitsbeheer.md) en ["Organisaties kunnen duidelijk uitleggen waarom en hoe algoritmes leiden tot een besluit”](../vereisten/awb-02-motiveringsbeginsel.md). Deze staan respectievelijk in artikel 6.2 en artikel 5.4 verder uitgewerkt. 
+	De gemeente Amsterdam heeft contractvoorwaarden voor algoritmen opgesteld waarin sommige vereisten opgenomen zijn. Hieronder vallen bijvoorbeeld [“Hoog-risico-AI-systemen zijn voorzien van een kwaliteitsbeheersysteem”](../vereisten/aia-11-systeem-voor-kwaliteitsbeheer.md) en ["Organisaties kunnen duidelijk uitleggen waarom en hoe algoritmes leiden tot een besluit”](../vereisten/awb-02-motiveringsbeginsel.md). Deze staan respectievelijk in artikel 6.2 en artikel 5.4 verder uitgewerkt.
 	Op dit moment zijn de vereisten impliciet verwerkt in deze voorwaarden in tegenstelling tot een expliciete verwijzing. Het is goed dit explicieter te benoemen zodat de aanbieder hier volledig van op de hoogte is.
-	
+
 	Gebruik [generieke inkoopvoorwaarden](../hulpmiddelen/inkoopvoorwaarden.md) als template of inspiratie voor andere inkoopvoorwaarden.
-	
+
 	Bron: [Contractvoorwaarden voor algoritmen - Innovatie](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmes-ai/contractvoorwaarden-algoritmen/)
 
 !!! example "Europese Inkoopvoorwaarden"
 
-	- [Europese Inkoopvoorwaarden Hoog Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_template_High_Risk%20NL.pdf) 
-	- [Europese Inkoopvoorwaarden Laag Risico](https://public-buyers-community.ec.europa.eu/sites/default/files/2023-10/AI_Procurement_Clauses_Template_NON_HIGH_RISK_NL.pdf)
+  De Europese Commissie biedt [Europese modelcontractbepalingen voor laag- en hoog-risico-AI](https://public-buyers-community.ec.europa.eu/communities/procurement-ai/resources/updated-eu-ai-model-contractual-clauses).
 
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

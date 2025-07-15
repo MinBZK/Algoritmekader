@@ -6,7 +6,7 @@ hide: navigation
 
 
 # AI-verordening in het kort
-In de EU-verordening staan de Europese regels voor het verantwoord ontwikkelen en gebruiken van AI. Sommige AI-systemen zijn verboden vanaf 2 februari 2025. Andere AI-systemen moeten op zijn laatst in 2026 of 2030 voldoen aan bepaalde vereisten.
+In de AI-verordening staan de Europese regels voor het verantwoord ontwikkelen en gebruiken van AI. Sommige AI-systemen zijn verboden vanaf 2 februari 2025. Andere AI-systemen moeten op zijn laatst in 2026 of 2030 voldoen aan bepaalde vereisten.
 
 [Verordening (EU) 2024/1689 (AI-verordening)](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689)
 
@@ -19,8 +19,8 @@ De AI-verordening geldt in deze 3 situaties samen:
 * Dit doe je namens een overheid, bedrijf of andere organisatie.
 * Je organisatie is gevestigd in een EU-land.
 
-Het maakt niet uit waar je AI-producten ontwikkelt. Ontwikkel je buiten de EU, maar is je organisatie gevestigd in een EU-land? Dan geldt de EU-verordening.
-  
+Het maakt niet uit waar je AI-producten ontwikkelt. Ontwikkel je buiten de EU, maar is je organisatie gevestigd in een EU-land? Dan geldt de AI-verordening.
+
 
 ## Verantwoord gebruik van AI
 Het doel van de AI-verordening is om verantwoord gebruik van AI te stimuleren in de hele EU. Daarom gelden in alle EU-landen dezelfde regels voor het:
@@ -28,21 +28,21 @@ Het doel van de AI-verordening is om verantwoord gebruik van AI te stimuleren in
 * verkleinen van risico’s voor de gezondheid, veiligheid en grondrechten van mensen
 * beschermen van de democratie, de rechtsstaat en het milieu
 
-Het gaat dan om risico’s zoals [misleiding](../onderwerpen/transparantie.md) en [discriminatie](../onderwerpen/bias-en-non-discriminatie.md) door AI-systemen. 
+Het gaat dan om risico’s zoals [misleiding](../onderwerpen/transparantie.md) en [discriminatie](../onderwerpen/bias-en-non-discriminatie.md) door AI-systemen.
 
 Bestaande regels zoals de Algemene verordening gegevensbescherming (AVG) en de Algemene wet bestuursrecht (Awb) beschermen maar voor een deel tegen deze risico’s. Zij gelden niet speciaal voor AI. Daarom vult de AI-verordening deze regels aan.
 
 
 ## Definitie AI-systeem
-De AI-verordening geldt voor AI-systemen. 
+De AI-verordening geldt voor AI-systemen.
 
-Een [rekenregel](../overhetalgoritmekader/soorten-algoritmes.md) is op zichzelf geen AI-systeem of AI-model. Rekenregels kunnen hier wel onderdeel van zijn.
+Een [rekenregel](../soorten-algoritmes-en-ai/wat-is-een-algoritme.md) is op zichzelf geen AI-systeem of AI-model. Rekenregels kunnen hier wel onderdeel van zijn.
 
 ### AI-systeem
 Een AI-systeem is volgens de AI-verordening:
 '(…) een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na de uitrol aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen.'
- 
-Hieronder vallen systemen die kunstmatig intelligent zijn door [zelflerende technieken](../overhetalgoritmekader/soorten-algoritmes.md) zoals:
+
+Hieronder vallen systemen die kunstmatig intelligent zijn door [zelflerende technieken](../soorten-algoritmes-en-ai/wat-is-een-algoritme.md) zoals:
 
 * supervised learning
 * unsupervised learning
@@ -51,11 +51,11 @@ Hieronder vallen systemen die kunstmatig intelligent zijn door [zelflerende tech
 
 Onder AI-systemen vallen ook systemen die gebruik maken van op logica en kennis gebaseerde benaderingen (<span lang="en">_knowledge and logic-based approaches_</span>) die leren, redeneren of modelleren mogelijk maken.
 
-Symbolische AI is meestal ook een AI-systeem. Symbolische AI leert op basis van symbolen en concepten. Een expertsysteem bepaalt bijvoorbeeld op basis van kennis van menselijke experts of iemand een verzekering krijgt of niet. Niet-symbolische AI leert op basis van numerieke data. Dit zijn meetbare data zoals uren, temperatuur en centimeters. 
+Symbolische AI is meestal ook een AI-systeem. Symbolische AI leert op basis van symbolen en concepten. Een expertsysteem bepaalt bijvoorbeeld op basis van kennis van menselijke experts of iemand een verzekering krijgt of niet. Niet-symbolische AI leert op basis van numerieke data. Dit zijn meetbare data zoals uren, temperatuur en centimeters.
 
 !!! tip "Tip"
 
-    De Europese Commissie publiceerde in februari 2025 [extra guidance over de definitie van een AI-systeem](https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-ai-system-definition-facilitate-first-ai-acts-rules-application). De richtlijnen over de definitie van een AI-systeem geven uitleg over de praktische toepassing van het wettelijke concept, zoals verankerd in de AI-verordening. 
+    De Europese Commissie publiceerde in februari 2025 [extra guidance over de definitie van een AI-systeem](https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-ai-system-definition-facilitate-first-ai-acts-rules-application). De richtlijnen over de definitie van een AI-systeem geven uitleg over de praktische toepassing van het wettelijke concept, zoals verankerd in de AI-verordening.
 
 ### AI-model voor algemene doeleinden
 Een AI-model voor algemene doeleinden (GPAI):
@@ -65,22 +65,22 @@ Een AI-model voor algemene doeleinden (GPAI):
 * traint zichzelf op basis van grote hoeveelheden data
 * kan content maken zoals teksten, audio en video
 
-Een AI-systeem dat is gebaseerd op een AI-model voor algemene doeleinden, noemen we een *AI-systeem voor algemene doeleinden*. 
+Een AI-systeem dat is gebaseerd op een AI-model voor algemene doeleinden, noemen we een *AI-systeem voor algemene doeleinden*.
 
 ## Risicogroepen
-De AI-verordening deelt AI-systemen op in 3 [risicogroepen](../overhetalgoritmekader/risico-van-ai-systemen.md). Hoe groter het risico voor de samenleving, hoe strenger de regels uit de AI-verordening. Het hangt ervan af waarvoor je dit AI-systeem gebruikt:
+De AI-verordening deelt AI-systemen op in 3 [risicogroepen](../soorten-algoritmes-en-ai/risico-van-ai-systemen.md). Hoe groter het risico voor de samenleving, hoe strenger de regels uit de AI-verordening. Het hangt ervan af waarvoor je dit AI-systeem gebruikt:
 
-* [Risico op misleiding](../overhetalgoritmekader/risico-van-ai-systemen.md#risico-op-misleiding)
-* [Hoog-risico-AI-systemen](../overhetalgoritmekader/risico-van-ai-systemen.md#hoog-risico-ai-systeem)
-* [Verboden AI](../overhetalgoritmekader/risico-van-ai-systemen.md#verboden-ai)
+* [Risico op misleiding](../soorten-algoritmes-en-ai/risico-van-ai-systemen.md#risico-op-misleiding)
+* [Hoog-risico-AI-systemen](../soorten-algoritmes-en-ai/risico-van-ai-systemen.md#hoog-risico-ai-systeem)
+* [Verboden AI](../soorten-algoritmes-en-ai/risico-van-ai-systemen.md#verboden-ai)
 
 ## Rollen uit de AI-verordening
-De AI-verordening geldt zowel voor ontwikkelaars van AI-systemen als voor organisaties en bedrijven die AI-systemen gebruiken. Afhankelijk van jouw rol bij het AI-systeem gelden er verschillende verplichtingen. De meeste verplichtingen gelden voor de ontwikkelaars van AI-systemen. 
+De AI-verordening geldt zowel voor ontwikkelaars van AI-systemen als voor organisaties en bedrijven die AI-systemen gebruiken. Afhankelijk van jouw rol bij het AI-systeem gelden er verschillende verplichtingen. De meeste verplichtingen gelden voor de ontwikkelaars van AI-systemen.
 
-De belangrijkste begrippen die de AI-verordening hiervoor gebruikt zijn: aanbieder en gebruiksverantwoordelijke. 
+De belangrijkste begrippen die de AI-verordening hiervoor gebruikt zijn: aanbieder en gebruiksverantwoordelijke.
 
 ### Aanbieder
-Dit is de organisatie die het AI-systeem ontwikkelt.  
+Dit is de organisatie die het AI-systeem ontwikkelt.
 
 !!! warning "Let op!"
 
@@ -91,10 +91,10 @@ Dit is de organisatie die het AI-systeem onder eigen verantwoordelijkheid gebrui
 
 !!! note "Opmerking"
 
-    Als je het AI-systeem dat je gebruikt ook zelf hebt ontwikkeld, dan ben je zowel aanbieder als gebruiksverantwoordelijke. 
+    Als je het AI-systeem dat je gebruikt ook zelf hebt ontwikkeld, dan ben je zowel aanbieder als gebruiksverantwoordelijke.
 
 ### Andere rollen
-De AI-verordening definieert ook andere rollen zoals importeur, distributeur of gemachtigde. Deze zijn voor overheden meestal niet van toepassing. 
+De AI-verordening definieert ook andere rollen zoals importeur, distributeur of gemachtigde. Deze zijn voor overheden meestal niet van toepassing.
 
 ## Tijdlijn
 De AI-verordening trad in werking op 1 augustus 2024 en gaat stap voor stap gelden:
@@ -118,7 +118,7 @@ In de [tijdlijn AI-verordening](tijdlijn-ai-verordening.md) vind je alle vereist
 ## Hulp bij de AI-verordening
 
 ### Beslishulp AI-verordening
-Met de [beslishulp AI-verordening](https://ai-verordening-beslishulp.apps.digilab.network/) bepaal je snel en gemakkelijk of jouw AI-product onder de AI-verordening valt. En wat je dan moet doen.
+Met de <a href="#" onclick="showModal(event, 'beslishulp AI-verordening', {redirectUrl: 'voldoen-aan-wetten-en-regels/vereisten/'});">beslishulp AI-verordening</a> bepaal je snel en gemakkelijk of jouw AI-product onder de AI-verordening valt. En wat je dan moet doen.
 
 ### AI-Gids Rijksoverheid
 Wil je de regels uit de AI-verordening overzichtelijk bekijken? De Rijksoverheid schreef de [Gids AI-verordening](https://www.rijksoverheid.nl/documenten/brochures/2024/10/16/gids-ai-verordening). Dit document zet deze regels helder op een rij en gaat ook dieper in op de mogelijke implicaties van de wet voor het gebruik en de ontwikkeling van AI binnen jouw organisatie.

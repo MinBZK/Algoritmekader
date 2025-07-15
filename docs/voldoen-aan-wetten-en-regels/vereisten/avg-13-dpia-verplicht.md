@@ -1,14 +1,14 @@
 ---
 title: Een gegevensbeschermingseffectbeoordeling (DPIA) is verplicht, indien een verwerking van persoonsgegevens waarschijnlijk een hoog risico inhoudt voor de rechten en vrijheden van natuurlijke personen
 id: urn:nl:ak:ver:avg-13
-toelichting: Een Data Protection Impact Assessment (DPIA) is verplicht, indien een verwerking van persoonsgegevens waarschijnlijk een hoog risico inhoudt voor de rechten en vrijheden van natuurlijke personen. 
-status_vereiste: 
+toelichting: Een Data Protection Impact Assessment (DPIA) is verplicht, indien een verwerking van persoonsgegevens waarschijnlijk een hoog risico inhoudt voor de rechten en vrijheden van natuurlijke personen.
+status_vereiste:
  - geldend
-levenscyclus: 
+levenscyclus:
 - ontwerp
 - dataverkenning-en-datapreparatie
 - verificatie-en-validatie
-onderwerp: 
+onderwerp:
 - privacy-en-gegevensbescherming
 rollen:
 - jurist
@@ -17,7 +17,7 @@ soort-toepassing:
 - ai-model-voor-algemene-doeleinden
 - ai-systeem
 - ai-systeem-voor-algemene-doeleinden
-risicogroep: 
+risicogroep:
 - hoog-risico-ai-systeem
 - geen-hoog-risico-ai-systeem
 - uitzondering-van-toepassing
@@ -27,15 +27,15 @@ rol-ai-act:
 - gebruiksverantwoordelijke
 - importeur
 - distributeur
-transparantieverplichting: 
+transparantieverplichting:
 - geen-transparantieverplichting
-- transparantieverplichting 
+- transparantieverplichting
 - niet-van-toepassing
 systeemrisico:
 - systeemrisico
 - geen-systeemrisico
 - niet-van-toepassing
-open-source: 
+open-source:
 - open-source
 - geen-open-source
 - niet-van-toepassing
@@ -48,10 +48,10 @@ hide:
 ## Vereiste
 Een [gegevensbeschermingseffectbeoordeling (DPIA)](../hulpmiddelen/DPIA.md) is verplicht, indien een verwerking van persoonsgegevens waarschijnlijk een hoog risico inhoudt voor de rechten en vrijheden van natuurlijke personen.
 
-## Toelichting 
-Een Gegevensbeschermingseffectbeoordeling (GEB) of [Data Protection Impact Assessment (DPIA)](../hulpmiddelen/DPIA.md) is verplicht wanneer de verwerking van persoonsgegevens waarschijnlijk een hoog risico met zich meebrengt voor de rechten en vrijheden van natuurlijke personen. 
+## Toelichting
+Een Gegevensbeschermingseffectbeoordeling (GEB) of [Data Protection Impact Assessment (DPIA)](../hulpmiddelen/DPIA.md) is verplicht wanneer de verwerking van persoonsgegevens waarschijnlijk een hoog risico met zich meebrengt voor de rechten en vrijheden van natuurlijke personen.
 
-Deze beoordeling identificeert en beperkt potentiële risico's en zorgt ervoor dat passende maatregelen worden genomen om de privacy van individuen te beschermen. 
+Deze beoordeling identificeert en beperkt potentiële risico's en zorgt ervoor dat passende maatregelen worden genomen om de privacy van individuen te beschermen.
 
 Deze verplichting draagt bij aan een zorgvuldige en verantwoorde omgang met persoonsgegevens in algoritmes, waardoor de privacy van individuen wordt gewaarborgd.
 
@@ -67,27 +67,27 @@ Let op: de DPIA verplichting is niet gebaseerd op de hoog-risico criteria uit de
  8. Innovatief gebruik of innovatieve toepassing van nieuwe technologische of organisatorische oplossingen
  9. de situatie waarin als gevolg van de verwerking zelf "betrokkenen [...] een recht niet kunnen uitoefenen of geen beroep kunnen doen op een dienst of een overeenkomst";
 
-Het is mogelijk dat algoritmes die niet aan één of meer van deze eigenschappen voldoen toch voor een potentieel hoog risico zorgen. 
+Het is mogelijk dat algoritmes die niet aan één of meer van deze eigenschappen voldoen toch voor een potentieel hoog risico zorgen.
 
-Gebruiksverantwoordelijken van AI-systemen met een hoog risico gebruiken die informatie op grond van artikel 13 AI Verordening om hun verplichting na te komen om een gegevensbeschermingseffectbeoordeling uit te voeren. 
+Gebruiksverantwoordelijken van AI-systemen met een hoog risico gebruiken die informatie op grond van artikel 13 AI Verordening om hun verplichting na te komen om een gegevensbeschermingseffectbeoordeling uit te voeren.
 
-## Bronnen 
+## Bronnen
 - [Artikel 35 Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679)
-- [Artikel 26(9) Verordening Artificiële Intelligentie](https://www.europarl.europa.eu/doceo/document/TA-9-2024-0138-FNL-COR01_NL.pdf) 
+- [Artikel 26, lid 9, AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#art_26)
 - [Besluit lijst verwerkingen persoonsgegevens waarvoor een gegevensbeschermingseffectbeoordeling (DPIA) verplicht is, Autoriteit Persoonsgegevens](https://wetten.overheid.nl/BWBR0042812/2019-11-27)
-- [Data protection impact assessment (DPIA) Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/praktisch-avg/data-protection-impact-assessment-dpia#:~:text=Een%20DPIA%20is%20een%20instrument,Algemene%20verordening%20gegevensbescherming%20(AVG)%3B)
+- [Data protection impact assessment (DPIA), Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/praktisch-avg/data-protection-impact-assessment-dpia)
 
-## Van toepassing op 
-<!-- tags-ai-act --> 
+## Van toepassing op
+<!-- tags-ai-act -->
 
-## Risico 
+## Risico
 Het niet evalueren van de impact van het verwerking van persoonsgegevens in algoritmes kan resulteren in het niet onderkennen van de bijbehorende risico's  en het niet op tijd te mitigieren van deze risico's.
 Dit kan leiden tot potentiële schendingen van de rechten en vrijheden van betrokkenen en een onrechtmatige verwerking.
 
-## Maatregelen { data-search-exclude } 
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/avg-13-dpia-verplicht no-search no-onderwerp no-rol no-levenscyclus -->
 
-## Hulpmiddelen 
+## Hulpmiddelen
 
 <!-- list_hulpmiddelen vereiste/avg-13-dpia-verplicht no-search no-onderwerp no-rol no-levenscyclus no-id -->

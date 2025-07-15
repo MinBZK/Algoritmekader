@@ -2,9 +2,9 @@
 title: Koop duurzaam algoritmes in
 id: urn:nl:ak:mtr:owp-12
 toelichting: Kies softwareoplossingen van aanbieders die duurzaamheid bevorderen, en stel heldere eisen aan energieverbruik, hernieuwbare energiebronnen en transparantie over de milieuprestaties van software.
-levenscyclus: 
+levenscyclus:
 - ontwerp
-onderwerp: 
+onderwerp:
 - publieke-inkoop
 - duurzaamheid
 rollen:
@@ -67,7 +67,7 @@ Zonder duurzaamheidscriteria bij het inkopen van software loop je het risico op 
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->
 
-## Bronnen 
+## Bronnen
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 - [Handreiking: Hoe maak ik mijn inkoop van software duurzamer? (PIANOo)](https://www.pianoo.nl/nl/document/19545/handreiking-hoe-maak-ik-mijn-inkoop-van-software-duurzamer)
 

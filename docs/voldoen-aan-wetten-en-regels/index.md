@@ -18,7 +18,7 @@ hide:
 
 
 -   [__Aanbevolen maatregelen__](maatregelen/index.md)
-    
+
     ---
 
     Maatregelen waarmee je kunt voldoen aan de vereisten voor overheden. Deze maatregelen zijn niet verplicht.
@@ -39,9 +39,9 @@ hide:
 
     ---
 
-    Belangrijkste deadlines uit de AI-verordening met de vereisten waaraan je moet voldoen.    
+    Belangrijkste deadlines uit de AI-verordening met de vereisten waaraan je moet voldoen.
 
--   [**__<a href="vereisten/index.html" onclick="redirectThenShowModal(event, 'vereisten/index.html');">Beslishulp AI-verordening</a>__**](vereisten/index.md)
+-  [**__<a href="#" onclick="showModal(event, 'beslishulp AI-verordening', {redirectUrl: 'voldoen-aan-wetten-en-regels/vereisten/'});">Beslishulp AI-verordening</a>__**](vereisten/index.md)
 
     ---
 

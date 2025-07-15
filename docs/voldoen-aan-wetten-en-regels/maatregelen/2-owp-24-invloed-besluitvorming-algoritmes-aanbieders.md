@@ -3,7 +3,7 @@
 title: Bepaal in een aanbesteding of algoritmes van een aanbieder bepalende invloed hebben in een besluit richting personen
 id: urn:nl:ak:mtr:owp-24
 # geef hier een korte toelichting van deze maatregel
-toelichting: Ga na of algoritmes van een aanbieder een bepalende invloed hebben in een besluit richting personen en laat de aanbieder onderbouwen in hoeverre dit wel of niet het geval is. 
+toelichting: Ga na of algoritmes van een aanbieder een bepalende invloed hebben in een besluit richting personen en laat de aanbieder onderbouwen in hoeverre dit wel of niet het geval is.
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste:
 - avg-10-recht-op-niet-geautomatiseerde-besluitvorming
@@ -34,15 +34,15 @@ hide:
 Ga na of algoritmes van een aanbieder een bepalende invloed hebben in een besluit richting personen en laat de aanbieder onderbouwen in hoeverre dit wel of niet het geval is.
 
 ## Toelichting
-- Als overheidsorganisaties algoritmes willen gebruiken van aanbieders, dan zal bijvoorbeeld tijdens een aanbestedingsproces moeten worden beoordeeld in hoeverre deze algoritmes invloed hebben op besluitvormingprocessen van deze organisaties. Algoritmes kunnen namelijk gebruikers ondersteunen bij de totstandkoming van besluiten, maar ook de besluitvorming van gebruikers overnemen. De mate van [menselijke tussenkomst](../../onderwerpen/menselijke-controle.md) speelt daarbij een belangrijk rol. 
+- Als overheidsorganisaties algoritmes willen gebruiken van aanbieders, dan zal bijvoorbeeld tijdens een aanbestedingsproces moeten worden beoordeeld in hoeverre deze algoritmes invloed hebben op besluitvormingprocessen van deze organisaties. Algoritmes kunnen namelijk gebruikers ondersteunen bij de totstandkoming van besluiten, maar ook de besluitvorming van gebruikers overnemen. De mate van [menselijke tussenkomst](../../onderwerpen/menselijke-controle.md) speelt daarbij een belangrijk rol.
 
 - Een opdrachtgever moet zelf bepalen welke algoritmes, gezien de specifieke context, wenselijk en toegestaan zijn. Vervolgens moet worden beoordeeld of de algoritmes die worden aangeboden door de aanbieder daarbij aansluiten.
 
-- Tijdens het aanbestedingsproces moeten daarom inzichten worden verkregen hoe de algoritmes van aanbieders functioneren om tot een beoordeling te kunnen komen. Laat de aanbieder dit toelichten. 
+- Tijdens het aanbestedingsproces moeten daarom inzichten worden verkregen hoe de algoritmes van aanbieders functioneren om tot een beoordeling te kunnen komen. Laat de aanbieder dit toelichten.
 
-## Risico 
+## Risico
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Algoritmes van aanbieders nemen besluitvormende taken over, zonder dat daar zicht op is of dat dit is beoordeeld.  
+Algoritmes van aanbieders nemen besluitvormende taken over, zonder dat daar zicht op is of dat dit is beoordeeld.
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
@@ -54,5 +54,4 @@ Algoritmes van aanbieders nemen besluitvormende taken over, zonder dat daar zich
 
 ## Voorbeelden
 
-Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
-
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

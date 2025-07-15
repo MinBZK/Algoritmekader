@@ -1,10 +1,10 @@
 <form class="form" id="ai-act-labels-form" onsubmit="getLabelsFromForm(this); filterTable(); return false;">
-    
+
     <h2>Bepaal je AI-verordening profiel</h2>
     <p>
         Vul de velden hieronder in om je AI-verordeningprofiel samen te stellen.<br/>
         Op basis van deze informatie worden de relevante vereisten voor jouw toepassing gefilterd.<br/>
-        Als je de antwoorden op de vragen niet weet, <a href='#' onclick="showModal(event, 'beslishulp');">gebruik de beslishulp</a> om hier achter te komen.
+        Als je de antwoorden op de vragen niet weet, <a href='#' onclick="showModal(event, 'beslishulp AI-verordening');">gebruik de beslishulp AI-verordening</a> om hier achter te komen.
     </p>
 
     <div class="form__row">
@@ -31,7 +31,7 @@
 
     <div class="form__row">
         <label class="form__label" id="type-label" for="type">
-            Wat is het type toepassing? 
+            Wat is het type toepassing?
             <span class="info-icon" title="Selecteer jouw type toepassing volgens de AI-verordening.">i</span>
         </label>
         <select class="input-select" id="type" name="soort-toepassing" onchange="updateFieldsBasedOnType(this)">

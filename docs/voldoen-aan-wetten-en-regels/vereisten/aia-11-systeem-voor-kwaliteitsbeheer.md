@@ -1,7 +1,7 @@
 ---
 title: Hoog-risico-AI-systemen zijn voorzien van een kwaliteitsbeheersysteem
 id: urn:nl:ak:ver:aia-11
-toelichting: Aanbieders van AI-systemen met een hoog risico voorzien in een systeem voor kwaliteitsbeheer dat de naleving van de AI-verordening waarborgt. 
+toelichting: Aanbieders van AI-systemen met een hoog risico voorzien in een systeem voor kwaliteitsbeheer dat de naleving van de AI-verordening waarborgt.
 levenscyclus:
 - organisatieverantwoordelijkheden
 onderwerp:
@@ -13,16 +13,16 @@ risicogroep:
 - hoog-risico-ai-systeem
 rol-ai-act:
 - aanbieder
-transparantieverplichting: 
+transparantieverplichting:
 - geen-transparantieverplichting
-- transparantieverplichting 
+- transparantieverplichting
 systeemrisico:
 - niet-van-toepassing
-open-source: 
+open-source:
 - open-source
 - geen-open-source
 - niet-van-toepassing
-uitzondering: 
+uitzondering:
 - risicogroep-uitzondering-van-toepassing
 hide:
 - navigation
@@ -59,8 +59,8 @@ Overheidsinstanties die AI-systemen met een hoog risico in gebruik stellen voor 
 - [Artikel 17 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3906-1-1)
 - [Artikel 16(c) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3823-1-1)
 - [Overweging 81 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3906-1-1)
-  
-## Van toepassing op 
+
+## Van toepassing op
 <!-- tags-ai-act -->
 
 

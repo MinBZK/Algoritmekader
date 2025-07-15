@@ -18,19 +18,19 @@ risicogroep:
 - hoog-risico-ai-systeem
 - geen-hoog-risico-ai-systeem
 - niet-van-toepassing
-transparantieverplichting: 
+transparantieverplichting:
 - geen-transparantieverplichting
-- transparantieverplichting 
+- transparantieverplichting
 - niet-van-toepassing
 systeemrisico:
 - systeemrisico
 - geen-systeemrisico
 - niet-van-toepassing
-open-source: 
+open-source:
 - open-source
 - geen-open-source
 - niet-van-toepassing
-uitzondering: 
+uitzondering:
 - risicogroep-uitzondering-van-toepassing
 - ("soort-toepassing-ai-systeem-voor-algemene-doeleinden" || "soort-toepassing-ai-systeem") && "open-source-open-source" && "transparantieverplichting-geen-transparantieverplichting" && "risicogroep-geen-hoog-risico-ai-systeem"
 hide:

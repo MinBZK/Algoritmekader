@@ -6,9 +6,9 @@ hide:
 ---
 
 # Projectleider
-Projectleiders spelen de hoofdrol in het realiseren van een verantwoorde en effectieve inzet van algoritmes binnen de organisatie. Zij verbinden de benodigde expertises en waarborgen alle stappen van het ontwikkelproces. Zo zorgen zij ervoor dat de organisatie het ontwikkelproces verantwoord en volgens de gestelde kaders uitvoert. 
+Projectleiders spelen de hoofdrol in het realiseren van een verantwoorde en effectieve inzet van algoritmes binnen de organisatie. Zij verbinden de benodigde expertises en waarborgen alle stappen van het ontwikkelproces. Zo zorgen zij ervoor dat de organisatie het ontwikkelproces verantwoord en volgens de gestelde kaders uitvoert.
 
-Projectmanagers maken afspraken over de vereisten waar de organisatie aan moet voldoen. En zij prioriteren maatregelen die hiervoor nodig zijn. Zij houden contact met opdrachtgevers en verantwoordelijken over de projectdoelen en risico’s. 
+Projectmanagers maken afspraken over de vereisten waar de organisatie aan moet voldoen. En zij prioriteren maatregelen die hiervoor nodig zijn. Zij houden contact met opdrachtgevers en verantwoordelijken over de projectdoelen en risico’s.
 
 ## Belangrijke taken van een projectleider
 

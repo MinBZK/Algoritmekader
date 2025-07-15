@@ -24,7 +24,7 @@ hide:
 <div class="float-container">
 
  <div class="float-child styled-list">
-    <a href="soorten-algoritmes-en-ai/"><img src="afbeeldingen/rollen.jpg" alt=" " class="block-image"></a>
+    <a href="soorten-algoritmes-en-ai/"><img src="afbeeldingen/rollen.jpg" alt=" "></a>
     <div class="float-box">
     <h3><b><a href="soorten-algoritmes-en-ai/">Soorten algoritmes en AI</a></b></h3>
     <ul>

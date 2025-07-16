@@ -35,6 +35,7 @@ function toggleExportDropdown() {
     if (dropdown) {
         if (dropdown.style.display === 'none' || dropdown.style.display === '') {
             dropdown.style.display = 'block';
+            dropdown.style.width = document.getElementById('export-btn').offsetWidth + 'px';
             // Add click outside listener to close dropdown
             setTimeout(() => {
                 document.addEventListener('click', function closeDropdown(e) {

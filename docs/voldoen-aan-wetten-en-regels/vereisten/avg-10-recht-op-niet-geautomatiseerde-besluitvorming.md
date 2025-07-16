@@ -113,7 +113,7 @@ De Autoriteit Persoonsgegevens (AP) heeft in [een advies over artikel 22 AVG en 
 - [Autoriteit Persoonsgegevens - Advies geautomatiseerde besluitvorming](https://www.autoriteitpersoonsgegevens.nl/documenten/advies-geautomatiseerde-besluitvorming)
 
 ## Van toepassing op
-Deze vereiste geldt voor algoritmische toepassingen die een rol spelen in de besluitvorming van bestuursorganen. Bekijk de [bronnen](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/awb-02-motiveringsbeginsel/index.html#bronnen) om te controleren of dit zo is.
+Deze vereiste geldt voor algoritmische toepassingen die een rol spelen in de besluitvorming van bestuursorganen. Bekijk de [bronnen](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/avg-10-recht-op-niet-geautomatiseerde-besluitvorming/index.html#bronnen) om te controleren of dit zo is.
 
 ## Risico
 

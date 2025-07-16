@@ -30,22 +30,54 @@ const VEREISTEN_CONFIG = {
     sheetName: 'Vereisten'
 };
 
-function exportMaatregelen(event) {
-    console.log('exportMaatregelen called - should show dropdown');
-    if (event) {
-        event.preventDefault();
-        event.stopPropagation();
+function toggleExportDropdown() {
+    const dropdown = document.getElementById('export-dropdown');
+    if (dropdown) {
+        if (dropdown.style.display === 'none' || dropdown.style.display === '') {
+            dropdown.style.display = 'block';
+            // Add click outside listener to close dropdown
+            setTimeout(() => {
+                document.addEventListener('click', function closeDropdown(e) {
+                    if (!dropdown.contains(e.target) && !document.getElementById('export-btn').contains(e.target)) {
+                        dropdown.style.display = 'none';
+                        document.removeEventListener('click', closeDropdown);
+                    }
+                });
+            }, 100);
+        } else {
+            dropdown.style.display = 'none';
+        }
     }
-    showExportDropdown(MAATREGELEN_CONFIG);
 }
 
-function exportVereisten(event) {
-    console.log('exportVereisten called - should show dropdown');
-    if (event) {
-        event.preventDefault();
-        event.stopPropagation();
+function exportExcel() {
+    const dropdown = document.getElementById('export-dropdown');
+    if (dropdown) dropdown.style.display = 'none';
+    
+    // Determine which config to use based on the content type in the page
+    const contentTypeElement = document.getElementById('content_type');
+    const contentType = contentTypeElement ? contentTypeElement.textContent.toLowerCase() : '';
+    
+    if (contentType === 'maatregelen') {
+        exportToExcel(MAATREGELEN_CONFIG);
+    } else if (contentType === 'vereisten') {
+        exportToExcel(VEREISTEN_CONFIG);
     }
-    showExportDropdown(VEREISTEN_CONFIG);
+}
+
+function exportODS() {
+    const dropdown = document.getElementById('export-dropdown');
+    if (dropdown) dropdown.style.display = 'none';
+    
+    // Determine which config to use based on the content type in the page
+    const contentTypeElement = document.getElementById('content_type');
+    const contentType = contentTypeElement ? contentTypeElement.textContent.toLowerCase() : '';
+    
+    if (contentType === 'maatregelen') {
+        exportToODS(MAATREGELEN_CONFIG);
+    } else if (contentType === 'vereisten') {
+        exportToODS(VEREISTEN_CONFIG);
+    }
 }
 
 function getActiveFiltersString(activeFilters) {
@@ -57,121 +89,6 @@ function capitalize(str) {
     return str.charAt(0).toUpperCase() + str.slice(1);
 }
 
-function showExportDropdown(config) {
-    console.log('showExportDropdown called with config:', config);
-    
-    const button = document.getElementById(config.buttonId);
-    console.log('Button found:', button);
-    
-    if (!button) {
-        console.error('Button not found with ID:', config.buttonId);
-        return;
-    }
-    
-    // Verwijder bestaande dropdown
-    const existingDropdown = document.getElementById('export-dropdown');
-    if (existingDropdown) {
-        console.log('Removing existing dropdown');
-        existingDropdown.remove();
-        return;
-    }
-    
-    console.log('Creating dropdown');
-    
-    // Creëer dropdown
-    const dropdown = document.createElement('div');
-    dropdown.id = 'export-dropdown';
-    dropdown.style.cssText = `
-        position: fixed;
-        background: white;
-        border: 1px solid #ccc;
-        border-radius: 4px;
-        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-        min-width: 200px;
-        z-index: 10000;
-        font-family: "ROsanswebtextregular", Arial, sans-serif;
-    `;
-    
-    // Positioneer dropdown
-    const buttonRect = button.getBoundingClientRect();
-    console.log('Button rect:', buttonRect);
-    
-    dropdown.style.left = `${buttonRect.left}px`;
-    dropdown.style.top = `${buttonRect.bottom + 4}px`;
-    
-    console.log('Dropdown position:', dropdown.style.left, dropdown.style.top);
-    
-    dropdown.innerHTML = `
-        <div id="export-excel" style="
-            padding: 12px 16px;
-            cursor: pointer;
-            border-bottom: 1px solid #eee;
-            color: #154273;
-            font-size: 14px;
-        " onmouseover="this.style.backgroundColor='#f5f5f5';" 
-           onmouseout="this.style.backgroundColor='white';">
-            Excel (XLSX)
-        </div>
-        <div id="export-ods" style="
-            padding: 12px 16px;
-            cursor: pointer;
-            color: #154273;
-            font-size: 14px;
-        " onmouseover="this.style.backgroundColor='#f5f5f5';" 
-           onmouseout="this.style.backgroundColor='white';">
-            OpenDocument Spreadsheet (ODS) 
-        </div>
-    `;
-    
-    console.log('Adding dropdown to body');
-    document.body.appendChild(dropdown);
-    
-    console.log('Dropdown added, checking if visible');
-    console.log('Dropdown element:', dropdown);
-    
-    // Voorkom dat de button click event de dropdown meteen sluit
-    dropdown.onclick = (e) => {
-        e.stopPropagation();
-    };
-    
-    // Wacht even voordat we event listeners toevoegen
-    setTimeout(() => {
-        console.log('Adding event listeners to dropdown items');
-        
-        // Event listeners
-        const excelOption = document.getElementById('export-excel');
-        const odsOption = document.getElementById('export-ods');
-        
-        if (excelOption) {
-            excelOption.onclick = (e) => {
-                e.preventDefault();
-                e.stopPropagation();
-                console.log('Excel export clicked');
-                console.log('Calling exportToExcel with config:', config);
-                dropdown.remove();
-                exportToExcel(config);
-            };
-        }
-        
-        if (odsOption) {
-            odsOption.onclick = (e) => {
-                e.preventDefault();
-                e.stopPropagation();
-                console.log('ODS export clicked');
-                dropdown.remove();
-                exportToODS(config);
-            };
-        }
-        
-        // Sluit dropdown bij klik elders
-        document.addEventListener('click', function closeDropdown(e) {
-            if (!dropdown.contains(e.target) && e.target !== button) {
-                dropdown.remove();
-                document.removeEventListener('click', closeDropdown);
-            }
-        });
-    }, 200);
-}
 
 function exportToExcel(config) {
     console.log('exportToExcel called with config:', config);
@@ -548,5 +465,6 @@ function restoreButtonState(button, originalHTML) {
 }
 
 // Export functions globally
-window.exportMaatregelen = exportMaatregelen;
-window.exportVereisten = exportVereisten;
+window.toggleExportDropdown = toggleExportDropdown;
+window.exportExcel = exportExcel;
+window.exportODS = exportODS;

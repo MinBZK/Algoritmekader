@@ -82,7 +82,7 @@ function exportODS() {
 
 function getActiveFiltersString(activeFilters) {
     if (!activeFilters || activeFilters.length === 0) return 'Geen filters toegepast';
-    return 'Dit zijn gefilterde maatregelen uit het Algoritmekader, geselecteerd op basis van de volgende filters: ' + activeFilters.map(f => `${capitalize(f.type)} = ${f.value}`).join('; ');
+    return 'Dit zijn gefilterde maatregelen uit het Algoritmekader, geselecteerd op basis van de volgende filters: ' + activeFilters.map(f => `${capitalize(f.type)} = ${f.value}`).join('; ') + '\n';
 }
 
 function capitalize(str) {
@@ -212,11 +212,6 @@ function extractTableDataForODS(table, config, activeFilters) {
 
     const exportData = [];
     const headers = extractHeaders(rows[0]);
-    
-    // Voeg instructierij toe voor ODS
-    const instructionRow = ["Tip: Selecteer de header-rij en klik op Data → Standaard Filter of AutoFilter om kolommen te filteren"];
-    while (instructionRow.length < headers.length) instructionRow.push('');
-    exportData.push(instructionRow);
     
     // Voeg filterrij toe alleen als er filters actief zijn
     const hasActiveFilters = activeFilters && activeFilters.length > 0;

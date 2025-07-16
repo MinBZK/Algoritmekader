@@ -39,7 +39,7 @@ Richt een proces in zodat burgers of andere belanghebbenden een klacht, bezwaar 
 Een risico van het niet gebruik maken van een proces voor het indienen van klachten, bezwaren of beroepen is dat dit kan leiden tot het niet overzichtelijk hebben van eventuele problemen bij het functioneren van een algoritme, en hierdoor niet de correcte maatregelen kunnen nemen.
 
 ## Bronnen
-- [Onderzoekskader algoritmes, Auditdienst Rijk, SV.17 en PRI.9](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/onderzoekskader-adr)
+- [Onderzoekskader algoritmes, Auditdienst Rijk, SV.17 en PRI.9](/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/onderzoekskader-adr)
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 1.08](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Onderzoek misbruik uitwonendenbeurs, PricewaterhouseCoopers](https://www.rijksoverheid.nl/documenten/rapporten/2024/03/01/eindrapport-pwc-rapportage-onderzoek-misbruik-uitwonendenbeurs)
 - [Intern onderzoek controle uitwonendenbeurs, DUO](https://www.rijksoverheid.nl/documenten/rapporten/2024/03/01/intern-onderzoeksrapport-controle-uitwonendenbeurs-duo)

@@ -59,9 +59,9 @@ Als je aanbieder en/of gebruiksverantwoordelijke bent van een hoog-risico-AI-sys
 * [aia-23 Logs voor hoog-risico-AI-systemen worden bewaard door de gebruiksverantwoordelijke](vereisten/aia-23-gebruiksverantwoordelijken-bewaren-logs.md)
 * [aia-24 Werknemers weten dat hun organisatie een hoog-risico-AI-systeem gebruikt](vereisten/aia-24-informeren-werknemers.md)
 * [aia-25 Gebruiksverantwoordelijken controleren de registratie van het hoog-risico-AI-systeem in de EU-databank](vereisten/aia-25-gebruiksverantwoordelijken-registratieverplichtingen.md)
-* [aia-26 Mensen over wie besluiten worden genomen door hoog-risico-AI-systemen, krijgen op verzoek informatie over deze besluiten](vereisten/aia-26-transparantieverplichtingen.md)
+* [aia-26 Mensen over wie besluiten worden genomen door hoog-risico-AI-systemen, krijgen op verzoek informatie over deze besluiten](vereisten/aia-26-recht-op-uitleg-ai-besluiten.md)
 * [aia-27 Hoog-risico-AI-systemen voor publieke taken worden beoordeeld op gevolgen voor grondrechten](vereisten/aia-27-beoordelen-gevolgen-grondrechten.md)
-* [aia-28 AI-systemen worden zo ontworpen en gebruikt, dat mensen begrijpen wanneer zij met een AI-systeem communiceren en welke content gemaakt is door een AI-systeem](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/aia-28-transparantieverplichtingen/)
+* [aia-28 AI-systemen worden zo ontworpen en gebruikt, dat mensen begrijpen wanneer zij met een AI-systeem communiceren en welke content gemaakt is door een AI-systeem](/vereisten/aia-28-transparantieverplichtingen/)
 
 Wat betekent dit voor jouw organisatie? Gebruik de <a href="#" onclick="showModal(event, 'beslishulp AI-verordening', {redirectUrl: 'voldoen-aan-wetten-en-regels/vereisten/'});">Beslishulp AI-verordening</a>.
 
@@ -105,9 +105,9 @@ Als je aanbieder bent van een product met daarin een hoog-risico-AI-systeem, moe
 * [aia-23 Logs voor hoog-risico-AI-systemen worden bewaard door de gebruiksverantwoordelijke](vereisten/aia-23-gebruiksverantwoordelijken-bewaren-logs.md)
 * [aia-24 Werknemers weten dat hun organisatie een hoog-risico-AI-systeem gebruikt](vereisten/aia-24-informeren-werknemers.md)
 * [aia-25 Gebruiksverantwoordelijken controleren de registratie van het hoog-risico-AI-systeem in de EU-databank](vereisten/aia-25-gebruiksverantwoordelijken-registratieverplichtingen.md)
-* [aia-26 Mensen over wie besluiten worden genomen door hoog-risico-AI-systemen, krijgen op verzoek informatie over deze besluiten](vereisten/aia-26-transparantieverplichtingen.md)
+* [aia-26 Mensen over wie besluiten worden genomen door hoog-risico-AI-systemen, krijgen op verzoek informatie over deze besluiten](vereisten/aia-26-recht-op-uitleg-ai-besluiten.md)
 * [aia-27 Hoog-risico-AI-systemen voor publieke taken worden beoordeeld op gevolgen voor grondrechten](vereisten/aia-27-beoordelen-gevolgen-grondrechten.md)
-* [aia-28 AI-systemen worden zo ontworpen en gebruikt, dat mensen begrijpen wanneer zij met een AI-systeem communiceren en welke content gemaakt is door een AI-systeem](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/aia-28-transparantieverplichtingen/)
+* [aia-28 AI-systemen worden zo ontworpen en gebruikt, dat mensen begrijpen wanneer zij met een AI-systeem communiceren en welke content gemaakt is door een AI-systeem](/vereisten/aia-28-transparantieverplichtingen/)
 
 
 Wat betekent dit voor jouw organisatie? Gebruik de <a href="#" onclick="showModal(event, 'beslishulp AI-verordening', {redirectUrl: 'voldoen-aan-wetten-en-regels/vereisten/'});">Beslishulp AI-verordening</a>.
@@ -148,9 +148,9 @@ Als je aanbieder of gebruiksverantwoordelijke bent van een hoog-risico-AI-systee
 * [aia-23 Logs voor hoog-risico-AI-systemen worden bewaard door de gebruiksverantwoordelijke](vereisten/aia-23-gebruiksverantwoordelijken-bewaren-logs.md)
 * [aia-24 Werknemers weten dat hun organisatie een hoog-risico-AI-systeem gebruikt](vereisten/aia-24-informeren-werknemers.md)
 * [aia-25 Gebruiksverantwoordelijken controleren de registratie van het hoog-risico-AI-systeem in de EU-databank](vereisten/aia-25-gebruiksverantwoordelijken-registratieverplichtingen.md)
-* [aia-26 Mensen over wie besluiten worden genomen door hoog-risico-AI-systemen, krijgen op verzoek informatie over deze besluiten](vereisten/aia-26-transparantieverplichtingen.md)
+* [aia-26 Mensen over wie besluiten worden genomen door hoog-risico-AI-systemen, krijgen op verzoek informatie over deze besluiten](vereisten/aia-26-recht-op-uitleg-ai-besluiten.md)
 * [aia-27 Hoog-risico-AI-systemen voor publieke taken worden beoordeeld op gevolgen voor grondrechten](vereisten/aia-27-beoordelen-gevolgen-grondrechten.md)
-* [aia-28 AI-systemen worden zo ontworpen en gebruikt, dat mensen begrijpen wanneer zij met een AI-systeem communiceren en welke content gemaakt is door een AI-systeem](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/aia-28-transparantieverplichtingen/)
+* [aia-28 AI-systemen worden zo ontworpen en gebruikt, dat mensen begrijpen wanneer zij met een AI-systeem communiceren en welke content gemaakt is door een AI-systeem](/vereisten/aia-28-transparantieverplichtingen/)
 
 Geldt dit voor jouw organisatie? Gebruik de <a href="#" onclick="showModal(event, 'beslishulp AI-verordening', {redirectUrl: 'voldoen-aan-wetten-en-regels/vereisten/'});">Beslishulp AI-verordening</a>.
 

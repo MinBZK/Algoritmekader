@@ -43,7 +43,7 @@ Met een AI-systeem bedoelen we een systeem dat kunstmatig intelligent is volgens
 
 !!! tip "Tip"
 
-    Twijfel je of je algoritme onderdeel is van een AI-systeem? Raadpleeg een expert. Of beschouw het systeem voor de zekerheid als een AI-systeem.
+    Twijfel je of je algoritme onderdeel is van een AI-systeem? Volg de [handreiking Identificatie AI-systemen AI-verordening](https://aienalgoritmes.pleio.nl/wiki/view/6e0e62ea-b3bc-4a95-8ba7-59672e9ffd0d/ai-verordening-hulpmiddelen-implementatie). Komt u er niet uit? Raadpleeg een expert. Of beschouw het systeem voor de zekerheid als een AI-systeem.
 
 ## Help ons deze pagina te verbeteren
 Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/issues/new/choose) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

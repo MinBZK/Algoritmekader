@@ -62,6 +62,10 @@ Vanaf februari 2025 treedt deze vereiste in werking.
 
 !!! tip "Tip"
 
+    De Rijksoverheid heeft [een one-pager](https://aienalgoritmes.pleio.nl/wiki/view/6e0e62ea-b3bc-4a95-8ba7-59672e9ffd0d/ai-verordening-hulpmiddelen-implementatie) gemaakt om snel een overzicht te krijgen van wat AI-geletterdheid inhoudt.
+
+!!! tip "Tip"
+
     De Autoriteit Persoonsgegevens schreef een document over hoe je [aan de slag kan gaan met AI-geletterheid](https://www.autoriteitpersoonsgegevens.nl/documenten/aan-de-slag-met-ai-geletterdheid) bij jouw organisatie.
 
 !!! tip "Tip"
@@ -75,7 +79,10 @@ Vanaf februari 2025 treedt deze vereiste in werking.
 ## Bronnen
 
 - [Artikel 4 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e2799-1-1)
+- [One-pager AI-geletterdheid](https://aienalgoritmes.pleio.nl/wiki/view/6e0e62ea-b3bc-4a95-8ba7-59672e9ffd0d/ai-verordening-hulpmiddelen-implementatie)
 - [Aan de slag met AI-geletterdheid, Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/documenten/aan-de-slag-met-ai-geletterdheid)
+- [Living repository to foster learning and exchange on AI literacy - Europese Unie](https://digital-strategy.ec.europa.eu/en/library/living-repository-foster-learning-and-exchange-ai-literacy)
+- [Verschillende e-learnings - RADIO](https://www.it-academieoverheid.nl/onderwerpen/a/artificiele-intelligentie)
 
 ## Van toepassing op
 <!-- tags-ai-act -->

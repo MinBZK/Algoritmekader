@@ -356,18 +356,6 @@ function setAutoFilter(ws, exportData, format = 'xlsx') {
                 break;
             }
         }
-
-        // Style headers
-        for (let col = 0; col < exportData[headerRowIndex].length; col++) {
-            const cellAddress = XLSX.utils.encode_cell({ c: col, r: headerRowIndex });
-            if (!ws[cellAddress]) {
-                ws[cellAddress] = { v: exportData[headerRowIndex][col], t: 's' };
-            }
-            if (!ws[cellAddress].s) {
-                ws[cellAddress].s = {};
-            }
-            ws[cellAddress].s.font = { bold: true };
-        }
     }
 }
 

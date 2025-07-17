@@ -50,12 +50,12 @@ hide:
   </div>
 
  <div class="float-child styled-list">
-    <a href="voldoen-aan-wetten-en-regels/ai-verordening/"><img src="afbeeldingen/eu.jpeg" alt=" " class="block-image"></a>
+    <a href="ai-verordening/"><img src="afbeeldingen/eu.jpeg" alt=" " class="block-image"></a>
     <div class="float-box">
-    <h3><b><a href="voldoen-aan-wetten-en-regels/ai-verordening/">Europese AI-verordening</a></b></h3>
+    <h3><b><a href="ai-verordening/">Europese AI-verordening</a></b></h3>
     <ul>
-      <li><a href="voldoen-aan-wetten-en-regels/tijdlijn-ai-verordening/">Tijdlijn: alle deadlines op een rij</a></li>
-      <li><a href="voldoen-aan-wetten-en-regels/ai-verordening/">AI-verordening in het kort</a></li>
+      <li><a href="ai-verordening/tijdlijn-ai-verordening/">Tijdlijn: alle deadlines op een rij</a></li>
+      <li><a href="ai-verordening/ai-verordening-in-het-kort/">AI-verordening in het kort</a></li>
       <li><a href="#" onclick="showModal(event, 'beslishulp AI-verordening', {redirectUrl: 'voldoen-aan-wetten-en-regels/vereisten/'});">Beslishulp AI-verordening</a></li>
     </ul>
 

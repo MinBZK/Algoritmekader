@@ -36,7 +36,7 @@ Het is van belang dat generatieve AI op een juiste en verantwoorde manier wordt 
 * Gebruik bij voorkeur een generatieve AI-toepassing die binnen Europa is ontwikkeld en wordt beheerd. Deze zijn vaak beter ingesteld op de Nederlandse taal en maken ons minder afhankelijk van niet-EU-landen.
 * Onderzoek van tevoren welk model de beste resultaten oplevert. Voor specialistische of complexe onderwerpen kan dat bijvoorbeeld een kleiner model zijn.
 * Gebruik generatieve AI niet om foto's, video's en voice-overs te genereren, zeker niet wanneer deze publiekelijk gedeeld worden.
-* Houd er rekening mee dat je organisatie, wanneer je een AI-model voor algemene doeleinden gebruikt, te maken krijgt met vereisten uit de [AI-verordening](Algoritmekader/voldoen-aan-wetten-en-regels/ai-verordening/). Bekijk de [tijdlijn met vereisten](/Algoritmekader/voldoen-aan-wetten-en-regels/tijdlijn-ai-verordening/).
+* Houd er rekening mee dat je organisatie, wanneer je een AI-model voor algemene doeleinden gebruikt, te maken krijgt met vereisten uit de [AI-verordening](../ai-verordening/ai-verordening-in-het-kort.md). Bekijk de [tijdlijn met vereisten](../ai-verordening/tijdlijn-ai-verordening.md).
 
 ## Bronnen
 * [Overheidsbreed standpunt voor de inzet van generatieve AI](https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/het-overheidsbrede-standpunt-voor-de-inzet-van-generatieve-ai)

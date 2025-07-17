@@ -123,5 +123,13 @@ Met de [beslishulp AI-verordening](https://ai-verordening-beslishulp.apps.digila
 ### AI-Gids Rijksoverheid
 Wil je de regels uit de AI-verordening overzichtelijk bekijken? De Rijksoverheid schreef de [Gids AI-verordening](https://www.rijksoverheid.nl/documenten/brochures/2024/10/16/gids-ai-verordening). Dit document zet deze regels helder op een rij en gaat ook dieper in op de mogelijke implicaties van de wet voor het gebruik en de ontwikkeling van AI binnen jouw organisatie.
 
+### Hulpmiddelen implementatie AI-verordening
+De Rijksoverheid ontwikkelt voortdurend [instrumenten en hulpmiddelen om bij de implementatie van de AI-verordening te ondersteunen](https://aienalgoritmes.pleio.nl/wiki/view/6e0e62ea-b3bc-4a95-8ba7-59672e9ffd0d/ai-verordening-hulpmiddelen-implementatie). Op dit moment vindt u via deze link:
+* Een handreiking om te bepalen of iets een AI-systeem is volgens de AI-verordening
+* Een factsheet over de AI-verordening voor bestuurders
+* Een factsheet over AI-geletterdheid
+
+Verder vindt u op verschillende pagina's van dit Algoritmekader links naar allerlei instrumenten die op verscheidene plekken worden ontwikkeld.
+
 ## Help ons deze pagina te verbeteren
 Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/issues/new/choose) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

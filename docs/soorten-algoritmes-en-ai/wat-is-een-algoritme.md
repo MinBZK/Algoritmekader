@@ -14,7 +14,7 @@ Rekenregels:
 * zijn expliciet geprogrammeerd en bedacht door mensen
 * bestaan uit vaste stappen om een taak uit te voeren
 
-Rekenregels zijn niet kunstmatig intelligent (AI). Rekenregels kunnen wel onderdeel zijn van een AI-systeem.
+Het bevatten van rekenregels maakt van een systeem geen AI. Rekenregels kunnen wel onderdeel zijn van een AI-systeem.
 
 ### Voorbeelden
 
@@ -33,7 +33,7 @@ Zelflerende technieken zijn in elk geval:
 * **Deep learning**: Supervised, unsupervised of reinforcement learning gecombineerd met diepe neurale netwerken. Dit zijn kunstmatige neurale netwerken met veel verschillende lagen. Hierdoor kun je nog ingewikkeldere problemen oplossen. Voorbeeld: [Geautomatiseerde gezichtsvergelijking bij het RNI-inschrijfproces](https://algoritmes.overheid.nl/nl/algoritme/geautomatiseerde-gezichtsvergelijking-bij-het-rniinschrijfproces-rijksdienst-voor-identiteitsgegevens/18814864).
 
 ## AI-systeem
-Met een AI-systeem bedoelen we een systeem dat kunstmatig intelligent is volgens de [Europese AI-verordening](../voldoen-aan-wetten-en-regels/ai-verordening.md#ai-systeem). Dit zijn in elk geval systemen die gebruik maken van:
+Met een AI-systeem bedoelen we een systeem dat kunstmatig intelligent is volgens de [Europese AI-verordening](../voldoen-aan-wetten-en-regels/ai-verordening.md#ai-systeem). Je systeem zal in de meeste gevallen onder de definitie van AI-systeem vallen als gebruik wordt gemaakt van:
 
 * supervised learning
 * unsupervised learning

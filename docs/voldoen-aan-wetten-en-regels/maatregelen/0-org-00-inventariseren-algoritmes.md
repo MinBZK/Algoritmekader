@@ -30,7 +30,7 @@ Inventariseer de algoritmes die binnen jouw organisatie worden gebruikt en houd 
 
 ## Toelichting
 Om grip te krijgen op het gebruik van algoritmes binnen jouw organisatie, heb je allereest overzicht nodig van de algoritmes die in jouw organisatie gebruikt worden. Zorg dat je dit overzicht regelmatig actualiseert.
-Bepaal voor ieder algoritme de [risicogroep en vervolgens welke vereisten daarop van toepassing zijn](2-owp-05-soort-algoritme.md). Hiervoor kan je gebruik maken van de [beslishulp AI-verordening](https://ai-verordening-beslishulp.apps.digilab.network/).
+Bepaal voor ieder algoritme de [risicogroep en vervolgens welke vereisten daarop van toepassing zijn](2-owp-05-soort-algoritme.md). Hiervoor kan je gebruik maken van de <a href="#" onclick="showModal(event, 'beslishulp AI-verordening', {redirectUrl: 'voldoen-aan-wetten-en-regels/vereisten/'});">beslishulp AI-verordening</a>.
 
 Bepaal ook of er sprake is van [geautomatiseerde besluitvorming of geautomatiseerde risicoselectie](../vereisten/avg-10-recht-op-niet-geautomatiseerde-besluitvorming.md).
 

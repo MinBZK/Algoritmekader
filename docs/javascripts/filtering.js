@@ -201,6 +201,7 @@ function filterTable() {
 
     // Trigger contentUpdated to reinitialize Choices.js after filtering
     document.dispatchEvent(new Event('contentUpdated'));
+    updateFilterCount();
 }
 
 /*
@@ -236,4 +237,18 @@ function evaluateLabelExpression(expression, labels) {
  */
 function anyExpressionMatches(expressions, labels) {
     return expressions.some(expression => evaluateLabelExpression(expression, labels));
+}
+
+function updateFilterCount() {
+    const table = document.getElementById('myTable');
+    if (!table) return;
+
+    const visibleRows = Array.from(table.querySelectorAll('tbody tr')).filter(row =>
+        row.style.display !== 'none'
+    ).length;
+
+    const countElement = document.getElementById('total-count');
+    if (countElement) {
+        countElement.textContent = visibleRows;
+    }
 }

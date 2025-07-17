@@ -27,7 +27,7 @@ hide:
 Ontwerp en train het algoritme om bestand te zijn tegen adversarial aanvallen.
 
 ## Toelichting
-De impact van een adversarial AI-aanval hangt af van de [mate van autonomie](../../ai-verordening/ai-verordening-in-het-kort.md#ai-systeem) waarmee een algoritme wordt ingezet.
+De impact van een adversarial AI-aanval hangt af van de [mate van autonomie](../../../ai-verordening/ai-verordening-in-het-kort/#ai-systeem) waarmee een algoritme wordt ingezet.
 Een algemene impact-beperkende maatregel is daarom om menselijke gebruikers duidelijke instructies mee te geven om de uitkomsten van de algoritmes te controleren.
 
 Voor de verschillende types adversarial AI-aanvallen zijn specifieke maatregelen mogelijk:

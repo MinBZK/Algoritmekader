@@ -11,13 +11,13 @@ hide:
 <div style="margin-top:32px;" class="grid cards" markdown>
 
 
--   ### [AI-verordening in het kort](ai-verordening-in-het-kort.md)
+-   ### [AI-verordening in het kort](ai-verordening-in-het-kort/)
 
     ---
 
     De Europese regels voor het verantwoord ontwikkelen en gebruiken van AI.
 
--   ### [Tijdlijn AI-verordening](tijdlijn-ai-verordening.md)
+-   ### [Tijdlijn AI-verordening](tijdlijn-ai-verordening/)
 
     ---
 

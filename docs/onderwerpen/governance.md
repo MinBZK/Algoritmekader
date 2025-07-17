@@ -57,6 +57,10 @@ Houd in elk geval rekening met:
 
     Zorg dat iemand verantwoordelijk is voor algoritme-governance. En betrek stakeholders.
 
+!!! tip "Governancekader VNG"
+
+    De VNG is bezig met het ontwikkelen voor een Governancekader voor het implementeren van AI en algoritmes. Werk je bij een gemeente? Je kunt [het VNG-Governancekader](https://aigovernance.vng.nl/) alvast raadplegen. Deze is nog in ontwikkeling.
+
 ## Vereisten
 
 <!-- list_vereisten onderwerp/governance no-search no-onderwerp no-rol no-levenscyclus -->

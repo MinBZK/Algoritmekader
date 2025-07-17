@@ -30,7 +30,7 @@ hide:
 Gebruik bij het publiceren of gebruiken van data een passende licentie die aansluit bij het beoogde doel en de bescherming van burgers. Overweeg hierbij zorgvuldig welke voorwaarden nodig zijn, zoals bronvermelding of het delen onder gelijke voorwaarden.
 
 ## Toelichting
-Het kiezen van de juiste licentie is belangrijk bij het publiceren en gebruiken van datasets en algoritmes. Dit zorgt voor [betere datakwaliteit (zie o.a. R1.1 uit FAIR)](/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/3-dat-12-fair-data/). In de huidige digitale samenleving, met name door de opkomst van generatieve AI, is het belangrijk om de balans te vinden tussen openheid en traceerbaarheid.
+Het kiezen van de juiste licentie is belangrijk bij het publiceren en gebruiken van datasets en algoritmes. Dit zorgt voor [betere datakwaliteit (zie o.a. R1.1 uit FAIR)](3-dat-12-fair-data.md). In de huidige digitale samenleving, met name door de opkomst van generatieve AI, is het belangrijk om de balans te vinden tussen openheid en traceerbaarheid.
 Overweeg bij het kiezen van een licentie de volgende aspecten:
 
 - Bronvermelding: wil je gebruikers van bijvoorbeeld de dataset verplichten om de oorspronkelijke bron te vermelden?

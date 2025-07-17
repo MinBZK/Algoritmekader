@@ -206,17 +206,17 @@ def _badge_soort_toepassing(page: Page, files: Files, soort: str):
     href_fase = href_soort_toepassing
     if soort == "ai-systeem":
         href_fase = _resolve_path(
-            "voldoen-aan-wetten-en-regels/ai-verordening.md#ai-systeem", page, files
+            "ai-verordening/ai-verordening-in-het-kort.md#ai-systeem", page, files
         )
     elif soort == "ai-systeem-voor-algemene-doeleinden":
         href_fase = _resolve_path(
-            "voldoen-aan-wetten-en-regels/ai-verordening.md#ai-model-voor-algemene-doeleinden",
+            "ai-verordening/ai-verordening-in-het-kort.md#ai-model-voor-algemene-doeleinden",
             page,
             files,
         )
     elif soort == "ai-model-voor-algemene-doeleinden":
         href_fase = _resolve_path(
-            "voldoen-aan-wetten-en-regels/ai-verordening.md#ai-model-voor-algemene-doeleinden",
+            "ai-verordening/ai-verordening-in-het-kort.md#ai-model-voor-algemene-doeleinden",
             page,
             files,
         )
@@ -232,7 +232,7 @@ def _badge_soort_toepassing(page: Page, files: Files, soort: str):
 def _badge_risicogroep(page: Page, files: Files, risicogroep: str):
     icon = "material-alert"
     href_risicogroep = _resolve_path(
-        "voldoen-aan-wetten-en-regels/ai-verordening.md#risicogroepen", page, files
+        "ai-verordening/ai-verordening-in-het-kort.md#risicogroepen", page, files
     )
     if risicogroep == "geen-hoog-risico-ai-systeem":
         href_fase = _resolve_path(
@@ -257,17 +257,17 @@ def _badge_risicogroep(page: Page, files: Files, risicogroep: str):
 def _badge_rol_ai_act(page: Page, files: Files, rol: str):
     icon = "material-account-details"
     href_rol_ai_act = _resolve_path(
-        "voldoen-aan-wetten-en-regels/ai-verordening.md#rollen-uit-de-ai-verordening",
+        "ai-verordening/ai-verordening-in-het-kort.md#rollen-uit-de-ai-verordening",
         page,
         files,
     )
     if rol == "aanbieder" or rol == "gebruiksverantwoordelijke":
         href_fase = _resolve_path(
-            f"voldoen-aan-wetten-en-regels/ai-verordening.md#{rol}", page, files
+            f"ai-verordening/ai-verordening-in-het-kort.md#{rol}", page, files
         )
     else:
         href_fase = _resolve_path(
-            "voldoen-aan-wetten-en-regels/ai-verordening.md#andere-rollen", page, files
+            "ai-verordening/ai-verordening-in-het-kort.md#andere-rollen", page, files
         )
     return _badge(
         icon=f"[:{icon}:]({href_rol_ai_act} 'Rol AI-verordening')",
@@ -295,7 +295,7 @@ def _badge_transparantieverplichting(page: Page, files: Files, rol: str):
 def _badge_systeemrisico(page: Page, files: Files, rol: str):
     icon = "material-network"
     href_systeemrisico = _resolve_path(
-        "voldoen-aan-wetten-en-regels/ai-verordening.md#ai-model-voor-algemene-doeleinden",
+        "ai-verordening/ai-verordening-in-het-kort.md#ai-model-voor-algemene-doeleinden",
         page,
         files,
     )

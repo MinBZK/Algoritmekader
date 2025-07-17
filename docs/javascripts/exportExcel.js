@@ -54,11 +54,11 @@ function toggleExportDropdown() {
 function exportExcel() {
     const dropdown = document.getElementById('export-dropdown');
     if (dropdown) dropdown.style.display = 'none';
-    
+
     // Determine which config to use based on the content type in the page
     const contentTypeElement = document.getElementById('content_type');
     const contentType = contentTypeElement ? contentTypeElement.textContent.toLowerCase() : '';
-    
+
     if (contentType === 'maatregelen') {
         exportToExcel(MAATREGELEN_CONFIG);
     } else if (contentType === 'vereisten') {
@@ -69,11 +69,11 @@ function exportExcel() {
 function exportODS() {
     const dropdown = document.getElementById('export-dropdown');
     if (dropdown) dropdown.style.display = 'none';
-    
+
     // Determine which config to use based on the content type in the page
     const contentTypeElement = document.getElementById('content_type');
     const contentType = contentTypeElement ? contentTypeElement.textContent.toLowerCase() : '';
-    
+
     if (contentType === 'maatregelen') {
         exportToODS(MAATREGELEN_CONFIG);
     } else if (contentType === 'vereisten') {
@@ -93,7 +93,7 @@ function capitalize(str) {
 
 function exportToExcel(config) {
     console.log('exportToExcel called with config:', config);
-    
+
     const button = document.getElementById(config.buttonId);
     const originalButtonHTML = button ? button.innerHTML : '';
     console.log('Button found:', button);
@@ -101,7 +101,7 @@ function exportToExcel(config) {
     try {
         console.log('Setting button state...');
         setButtonState(button, true, 'Exporteren...');
-        
+
         console.log('Validating requirements...');
         validateRequirements(config);
 
@@ -109,11 +109,11 @@ function exportToExcel(config) {
         const table = document.getElementById(config.tableId);
         const activeFilters = getCurrentFilters(config);
         console.log('Table:', table, 'Active filters:', activeFilters);
-        
+
         console.log('Extracting table data for Excel...');
         const exportData = extractTableDataForExcel(table, config, activeFilters);
         console.log('Export data:', exportData);
-        
+
         console.log('Creating workbook...');
         const workbook = createWorkbook(exportData, activeFilters, config, 'xlsx');
         console.log('Workbook created:', workbook);
@@ -121,7 +121,7 @@ function exportToExcel(config) {
         const timestamp = new Date().toISOString().slice(0, 10);
         const filename = `${config.filename}_${timestamp}.xlsx`;
         console.log('Filename:', filename);
-        
+
         console.log('Writing file...');
         XLSX.writeFile(workbook, filename, { bookType: 'xlsx' });
         console.log('File written successfully');
@@ -150,7 +150,7 @@ function exportToODS(config) {
 
         const timestamp = new Date().toISOString().slice(0, 10);
         const filename = `${config.filename}_${timestamp}.ods`;
-        
+
         XLSX.writeFile(workbook, filename, { bookType: 'ods' });
 
     } catch (error) {
@@ -181,15 +181,15 @@ function extractTableDataForExcel(table, config, activeFilters) {
 
     const exportData = [];
     const headers = extractHeaders(rows[0]);
-    
-    // Voeg filterrij toe alleen als er filters actief zijn
+
+    // Add filterrow is active filters are present
     const hasActiveFilters = activeFilters && activeFilters.length > 0;
     if (hasActiveFilters) {
         const filterRow = [getActiveFiltersString(activeFilters)];
         while (filterRow.length < headers.length) filterRow.push('');
         exportData.push(filterRow);
     }
-    
+
     exportData.push(headers);
 
     // Only export visible rows (after filtering)
@@ -213,15 +213,15 @@ function extractTableDataForODS(table, config, activeFilters) {
 
     const exportData = [];
     const headers = extractHeaders(rows[0]);
-    
-    // Voeg filterrij toe alleen als er filters actief zijn
+
+    // Add filterrow if filters are active
     const hasActiveFilters = activeFilters && activeFilters.length > 0;
     if (hasActiveFilters) {
         const filterRow = [getActiveFiltersString(activeFilters)];
         while (filterRow.length < headers.length) filterRow.push('');
         exportData.push(filterRow);
     }
-    
+
     exportData.push(headers);
 
     // Only export visible rows (after filtering)
@@ -281,44 +281,12 @@ function createWorkbook(exportData, activeFilters, config, format = 'xlsx') {
 
     setColumnWidths(ws, exportData);
     setAutoFilter(ws, exportData, format);
-
-    // Styling en merging alleen voor ODS (met instructies)
     const numCols = exportData[0].length;
-    if (format === 'ods' && exportData[0][0] && exportData[0][0].includes('Tip:')) {
-        if (!ws['!merges']) ws['!merges'] = [];
-        
-        // Merge de instructierij (eerste rij) over alle kolommen
-        if (numCols > 1) {
-            ws['!merges'].push({
-                s: { c: 0, r: 0 },
-                e: { c: numCols - 1, r: 0 }
-            });
-        }
-        
-        // Style voor instructierij
-        const instructionCellAddress = XLSX.utils.encode_cell({ c: 0, r: 0 });
-        if (ws[instructionCellAddress]) {
-            ws[instructionCellAddress].s = {
-                fill: {
-                    patternType: "solid",
-                    fgColor: { rgb: "E6F7FF" } // Light blue
-                },
-                font: {
-                    italic: true,
-                    color: { rgb: "0066CC" }
-                },
-                alignment: {
-                    horizontal: "left",
-                    vertical: "center"
-                }
-            };
-        }
-    }
-    
-    // Als er filters actief zijn, style de filterrij
+
+    // If filterrow is active, merge it
     const hasActiveFilters = activeFilters && activeFilters.length > 0;
     if (hasActiveFilters) {
-        // Zoek de filterrij
+        // Search for filterrow
         let filterRowIndex = -1;
         for (let i = 0; i < exportData.length; i++) {
             if (exportData[i][0] && exportData[i][0].includes('filters')) {
@@ -326,34 +294,16 @@ function createWorkbook(exportData, activeFilters, config, format = 'xlsx') {
                 break;
             }
         }
-        
+
         if (filterRowIndex !== -1) {
             if (!ws['!merges']) ws['!merges'] = [];
-            
-            // Merge de filterrij over alle kolommen
+
+            // Merge filterrow over all columns
             if (numCols > 1) {
                 ws['!merges'].push({
                     s: { c: 0, r: filterRowIndex },
                     e: { c: numCols - 1, r: filterRowIndex }
                 });
-            }
-            
-            // Style voor filterrij
-            const filterCellAddress = XLSX.utils.encode_cell({ c: 0, r: filterRowIndex });
-            if (ws[filterCellAddress]) {
-                ws[filterCellAddress].s = {
-                    fill: {
-                        patternType: "solid",
-                        fgColor: { rgb: "F6D4B3" } // Orange
-                    },
-                    font: {
-                        bold: true
-                    },
-                    alignment: {
-                        horizontal: "left",
-                        vertical: "center"
-                    }
-                };
             }
         }
     }
@@ -378,45 +328,33 @@ function setColumnWidths(ws, exportData) {
 
 function setAutoFilter(ws, exportData, format = 'xlsx') {
     if (exportData.length > 1 && format === 'xlsx') {
-        // Bepaal de header-rij index
+        // Assess the header row index
         let headerRowIndex = 0; // Start met eerste rij
-        
-        // Check of er een filterrij is (bevat 'filters' in de tekst)
+
+        // Check whether the first row is a filter row
         if (exportData[0] && exportData[0][0] && exportData[0][0].includes('filters')) {
             headerRowIndex = 1; // filter + header
         }
-        
-        // Stel autofilter in alleen voor Excel
+
+        // Apply autofilter for excel
         const range = XLSX.utils.encode_range({
             s: { c: 0, r: headerRowIndex },
             e: { c: exportData[headerRowIndex].length - 1, r: exportData.length - 1 }
         });
         ws['!autofilter'] = { ref: range };
     }
-    
-    // Voeg header styling toe voor alle formats
+
+    // Add header styling for all formats
     if (exportData.length > 1) {
         let headerRowIndex = 0;
-        
-        // Zoek de header rij (eerste rij die niet met "Tip:" of "filters" begint)
+
+        // Search headers row
         for (let i = 0; i < exportData.length; i++) {
             const firstCell = exportData[i][0];
             if (firstCell && !firstCell.includes('Tip:') && !firstCell.includes('filters')) {
                 headerRowIndex = i;
                 break;
             }
-        }
-        
-        // Style headers
-        for (let col = 0; col < exportData[headerRowIndex].length; col++) {
-            const cellAddress = XLSX.utils.encode_cell({ c: col, r: headerRowIndex });
-            if (!ws[cellAddress]) {
-                ws[cellAddress] = { v: exportData[headerRowIndex][col], t: 's' };
-            }
-            if (!ws[cellAddress].s) {
-                ws[cellAddress].s = {};
-            }
-            ws[cellAddress].s.font = { bold: true };
         }
     }
 }

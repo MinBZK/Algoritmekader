@@ -36,7 +36,7 @@ Dit zijn afspraken over het beheer en de totstandkoming van de algoritmes zelf, 
 - procedures voor klachten of vragen
 
 ## Belang van algoritme-governance
-Zonder governance verlies je grip op het inkopen, ontwikkelen, gebruiken en uitfaseren van algoritmes en AI. Dit vergroot het risico op overtredingen van wetten en regels zoals de [AI-verordening](../voldoen-aan-wetten-en-regels/ai-verordening.md), Grondwet, Algemene Verordening Gegevensbescherming (AVG) en Auteurswet.
+Zonder governance verlies je grip op het inkopen, ontwikkelen, gebruiken en uitfaseren van algoritmes en AI. Dit vergroot het risico op overtredingen van wetten en regels zoals de [AI-verordening](../../ai-verordening/), Grondwet, Algemene Verordening Gegevensbescherming (AVG) en Auteurswet.
 
 Goede governance van algoritmes helpt bij het:
 

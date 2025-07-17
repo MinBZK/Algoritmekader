@@ -222,17 +222,17 @@ def test_ods_export_with_filters_creates_proper_autofilter(browser_page: Page):
     browser_page.evaluate("""
         window.capturedWorksheet = null;
         window.capturedWriteOptions = null;
-        
+
         XLSX.utils.aoa_to_sheet = (data) => {
             const ws = { '!cols': [], '!autofilter': null, '!merges': [] };
             // Simulate worksheet creation
             return ws;
         };
-        
+
         XLSX.utils.book_append_sheet = (wb, ws, name) => {
             window.capturedWorksheet = ws;
         };
-        
+
         XLSX.writeFile = (workbook, filename, options) => {
             window.capturedWriteOptions = options;
         };
@@ -260,9 +260,9 @@ def test_ods_export_with_filters_creates_proper_autofilter(browser_page: Page):
     # then - verify ODS-specific options are used
     write_options = browser_page.evaluate("window.capturedWriteOptions")
     assert write_options is not None
-    assert write_options.get('bookType') == 'ods'
-    
+    assert write_options.get("bookType") == "ods"
+
     # Verify worksheet has autofilter
     worksheet = browser_page.evaluate("window.capturedWorksheet")
     assert worksheet is not None
-    assert '!autofilter' in worksheet
+    assert "!autofilter" in worksheet

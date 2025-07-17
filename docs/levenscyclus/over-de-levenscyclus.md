@@ -14,15 +14,15 @@ Om algoritmes op een verantwoorde manier te gebruiken, zul je op de juiste momen
 ## Fases van de levenscyclus
 
 <ol start="0">
-  <li> <a href="/Algoritmekader/levenscyclus/organisatieverantwoordelijkheden/">Organisatieverantwoordelijkheden</a></li>
-  <li> <a href="/Algoritmekader/levenscyclus/probleemanalyse/">Probleemanalyse</a></li>
-  <li> <a href="/Algoritmekader/levenscyclus/ontwerp/">Ontwerp</a></li>
-  <li> <a href="/Algoritmekader/levenscyclus/dataverkenning-en-datapreparatie/">Dataverkenning en datapreparatie</a></li>
-  <li> <a href="/Algoritmekader/levenscyclus/ontwikkelen/">Ontwikkelen</a></li>
-  <li> <a href="/Algoritmekader/levenscyclus/verificatie-en-validatie/">Verificatie en validatie</a></li>
-  <li> <a href="/Algoritmekader/levenscyclus/implementatie/">Implementeren</a></li>
-  <li> <a href="/Algoritmekader/levenscyclus/monitoring-en-beheer/">Monitoring en beheer</a></li>
-  <li> <a href="/Algoritmekader/levenscyclus/uitfaseren/">Uitfaseren</a></li>
+  <li> <a href="organisatieverantwoordelijkheden.md">Organisatieverantwoordelijkheden</a></li>
+  <li> <a href="probleemanalyse.md">Probleemanalyse</a></li>
+  <li> <a href="ontwerp.md">Ontwerp</a></li>
+  <li> <a href="dataverkenning-en-datapreparatie.md">Dataverkenning en datapreparatie</a></li>
+  <li> <a href="ontwikkelen.md">Ontwikkelen</a></li>
+  <li> <a href="verificatie-en-validatie.md">Verificatie en validatie</a></li>
+  <li> <a href="implementatie.md">Implementeren</a></li>
+  <li> <a href="monitoring-en-beheer.md">Monitoring en beheer</a></li>
+  <li> <a href="uitfaseren.md">Uitfaseren</a></li>
 </ol>
 
 ## Systeemniveau en organisatieniveau

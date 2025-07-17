@@ -113,7 +113,7 @@ Dit maakt het mogelijk om de wijzigingen die zijn gedaan in een pull-request al 
 We werken met [Markdown](https://www.markdownguide.org/basic-syntax/) bestanden.
 Dit is bestandsformaat voor platte tekstbestanden en wordt door veel verschillende tools ondersteund. Dit maakt het eenvoudig om versiebeheer op het Algoritmekader toe te passen.
 
-Daarnaast maken gebruik van [mkdocs](https://www.mkdocs.org/) en [material for mkdocs](https://squidfunk.github.io/mkdocs-material/) om de informatie op een interactieve wijze inzichtelijk te maken op de website van [het Algoritmekader](/Algoritmekader/).
+Daarnaast maken gebruik van [mkdocs](https://www.mkdocs.org/) en [material for mkdocs](https://squidfunk.github.io/mkdocs-material/) om de informatie op een interactieve wijze inzichtelijk te maken op de website van [het Algoritmekader](../index.md).
 
 ### Wil je een nieuwe pagina aanmaken?
 In het [mkdocs.yml](https://github.com/MinBZK/Algoritmekader/blob/main/mkdocs.yml) bestand staan de settings voor deze website.

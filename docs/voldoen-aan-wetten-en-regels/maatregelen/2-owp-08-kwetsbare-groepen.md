@@ -35,7 +35,7 @@ Bepaal vervolgens of er groepen zijn waarbij de impact van het algoritme dermate
     - Worden de gegevens veilig en vertrouwelijk behandeld; welke gevolgen zou een datalek hebben voor groepen of categorieën personen?
     - Worden data gedeeld met andere partijen en wat is het gevaar dat die misbruik maken van de data met negatieve gevolgen voor groepen of categorieën personen?
 - Houd hierbij ook rekening met de impact van het in te zetten algoritme op de samenleving (vanuit sociaal, democratisch en milieu/ecologisch perspectief).
-- Om de impact op groepen te bepalen, kan het handig zijn een mensenrechtentoets zoals het [Impact Assessment Mensenrechten en Algoritmes](/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/IAMA) toe te passen.
+- Om de impact op groepen te bepalen, kan het handig zijn een mensenrechtentoets zoals het [Impact Assessment Mensenrechten en Algoritmes](../hulpmiddelen/IAMA.md) toe te passen.
 - Bepaal of er maatregelen genomen kunnen worden om de geïdentificeerde groepen extra bescherming te bieden. Hierbij kan men denken aan de volgende aspecten: Kan de (extra) administratieve druk voor bepaalde groepen worden weggenomen? Worden resultaten van het algoritme naast de resultaten van een expert gelegd? Is het wenselijk om een proces in te richten waarbij zowel algoritme als een expert een uitkomst geven? Kunnen we de betreffende groep extra hulp aanbieden? Is het wenselijk bij negatieve uitkomsten een vier-ogen-principe toe te passen?
 - De impact van het algoritme op de groepen die geïdentificeerd worden in deze stap, kunnen mogelijk onderzocht worden in een [biasanalyse](5-ver-03-biasanalyse.md). Daarbij kan geïdentificeerd worden of bepaalde groepen over- of ondervertegenwoordigd zijn in selecties, of dat het algoritme andere of meer fouten maakt voor bepaalde groepen.
 - Merk op dat het onmogelijk is om de risico's voor alle specifieke groepen af te vangen. Hierbij kan het helpen om te focussen op de meest kwetsbare groepen.
@@ -49,10 +49,10 @@ De impact van het algoritme op de besluitvorming en op personen, doelgroepen en/
 
 ## Bronnen
 
-- [Onderzoekskader algoritmes, Auditdienst Rijk, SV.4 en DM.16](/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/onderzoekskader-adr/)
+- [Onderzoekskader algoritmes, Auditdienst Rijk, SV.4 en DM.16](../hulpmiddelen/onderzoekskader-adr.md)
 - [Advies Dienst Toeslagen (Kamerstukken II 2023/24, 31066-1374)](https://www.rijksoverheid.nl/documenten/publicaties/2023/09/01/bijlage-3-advies-dienst-toeslagen)
-- [Impact Assessment Mensenrechten en Algoritmes, 4.1](/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/IAMA)
-- [Handreiking non-discriminatie by design, 1.7, 1.8 en 1.15](/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/handreiking-non-discriminatie)
+- [Impact Assessment Mensenrechten en Algoritmes, 4.1](../hulpmiddelen/IAMA.md)
+- [Handreiking non-discriminatie by design, 1.7, 1.8 en 1.15](../hulpmiddelen/handreiking-non-discriminatie.md)
 
 
 ## Voorbeelden

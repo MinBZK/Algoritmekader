@@ -12,13 +12,13 @@ hide:
     <span class="version-container">
       <span class="version-label">Versie 2.2</span>
       <div class="hover-info">
-        <p>Deze website is in ontwikkeling. Alle versies ontstaan op een open manier. <a href="over-het-algoritmekader/CONTRIBUTING/">Iedereen mag opmerkingen of suggesties geven.</a></p>
+        <p>Deze website is in ontwikkeling. Alle versies ontstaan op een open manier. <a href="over-het-algoritmekader/CONTRIBUTING.md">Iedereen mag opmerkingen of suggesties geven.</a></p>
       </div>
     </span>
     </div>
 </div>
 
-<a href="over-het-algoritmekader/over-het-algoritmekader/" class="button md-button--secondary">Over het algoritmekader</a>
+<a href="over-het-algoritmekader/over-het-algoritmekader.md" class="button md-button--secondary">Over het algoritmekader</a>
 
 
 <div class="float-container">
@@ -28,9 +28,9 @@ hide:
     <div class="float-box">
     <h3><b><a href="soorten-algoritmes-en-ai/">Soorten algoritmes en AI</a></b></h3>
     <ul>
-      <li><a href="soorten-algoritmes-en-ai/wat-is-een-algoritme/">Wat is een algoritme?</a></li>
-      <li><a href="soorten-algoritmes-en-ai/generatieve-ai/">Generatieve AI</a></li>
-      <li><a href="soorten-algoritmes-en-ai/risico-van-ai-systemen/">Risico van AI-systemen</a></li>
+      <li><a href="soorten-algoritmes-en-ai/wat-is-een-algoritme.md">Wat is een algoritme?</a></li>
+      <li><a href="soorten-algoritmes-en-ai/generatieve-ai.md">Generatieve AI</a></li>
+      <li><a href="soorten-algoritmes-en-ai/risico-van-ai-systemen.md">Risico van AI-systemen</a></li>
     </ul>
 
   </div>
@@ -54,9 +54,9 @@ hide:
     <div class="float-box">
     <h3><b><a href="ai-verordening/">Europese AI-verordening</a></b></h3>
     <ul>
-      <li><a href="ai-verordening/tijdlijn-ai-verordening/">Tijdlijn: alle deadlines op een rij</a></li>
-      <li><a href="ai-verordening/ai-verordening-in-het-kort/">AI-verordening in het kort</a></li>
-      <li><a href="#" onclick="showModal(event, 'beslishulp AI-verordening', {redirectUrl: 'voldoen-aan-wetten-en-regels/vereisten/'});">Beslishulp AI-verordening</a></li>
+      <li><a href="ai-verordening/tijdlijn-ai-verordening.md">Tijdlijn: alle deadlines op een rij</a></li>
+      <li><a href="ai-verordening/ai-verordening-in-het-kort.md">AI-verordening in het kort</a></li>
+      <li><a href="javascript:void(0)" onclick="showModal(event, 'beslishulp AI-verordening', {redirectUrl: 'voldoen-aan-wetten-en-regels/vereisten/'});">Beslishulp AI-verordening</a></li>
     </ul>
 
   </div>
@@ -67,9 +67,9 @@ hide:
     <div class="float-box">
     <h3><b><a href="onderwerpen/">Onderwerpen</a></b></h3>
     <ul>
-      <li><a href="onderwerpen/bias-en-non-discriminatie/">Discriminatie</a></li>
-      <li><a href="onderwerpen/privacy-en-gegevensbescherming/">Privacy en persoonsgegevens</a></li>
-      <li><a href="onderwerpen/publieke-inkoop/">Publieke inkoop</a></li>
+      <li><a href="onderwerpen/bias-en-non-discriminatie.md">Discriminatie</a></li>
+      <li><a href="onderwerpen/privacy-en-gegevensbescherming.md">Privacy en persoonsgegevens</a></li>
+      <li><a href="onderwerpen/publieke-inkoop.md">Publieke inkoop</a></li>
     </ul>
 
   </div>

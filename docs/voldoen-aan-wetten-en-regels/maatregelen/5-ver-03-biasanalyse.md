@@ -193,7 +193,7 @@ Dit kan leiden tot een ongelijke behandeling van burgers met eventuele schade vo
 - [Onderzoekskader Algoritmes Auditdienst Rijk, DM.16, DM.17, DM.18, DM.20, DM.21, DM.22](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Toetsingskader risicoprofilering – Normen tegen discriminatie op grond van ras en nationaliteit, College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/4093c026-ae41-4c1d-aa78-4ce0e205b5de)
 - [AP-advies geautomatiseerde besluitvorming](https://www.autoriteitpersoonsgegevens.nl/documenten/advies-geautomatiseerde-besluitvorming)
-- [Handreiking non-discriminatie by design](/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/handreiking-non-discriminatie)
+- [Handreiking non-discriminatie by design](../hulpmiddelen/handreiking-non-discriminatie.md)
 
 ## Voorbeelden
 

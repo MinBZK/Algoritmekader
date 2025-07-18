@@ -36,7 +36,7 @@ Stel vast in welke risicogroep het algoritme valt en bepaal vervolgens welke ver
 <!-- Geef hier een toelichting van deze maatregel -->
 Het verschilt per type algoritme welke vereisten hierop van toepassing is en waar een aanbieder of gebruiksverantwoordelijke aan moet voldoen.
 
-Dit is mede afhankelijk van de bijbehorende [risicogroepen](../ai-verordening.md#risicogroepen), de [gebruikte techiek](2-owp-04-gebruikte-techniek.md) en of je het algoritme [ontwikkelt of slechts gebruikt](../ai-verordening.md#rollen-uit-de-ai-verordening).
+Dit is mede afhankelijk van de bijbehorende [risicogroepen](../../../ai-verordening/ai-verordening-in-het-kort/#risicogroepen), de [gebruikte techiek](../../maatregelen/2-owp-04-gebruikte-techniek/) en of je het algoritme [ontwikkelt of slechts gebruikt](../../../ai-verordening/ai-verordening-in-het-kort/#rollen-uit-de-ai-verordening).
 
 Gebruik de <a href="#" onclick="showModal(event, 'beslishulp AI-verordening', {redirectUrl: 'voldoen-aan-wetten-en-regels/vereisten/'});">beslishulp AI-verordening</a> om de risicobepaling van jouw toepassing te bepalen.
 

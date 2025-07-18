@@ -18,10 +18,10 @@
 }
 /* Style each filter item */
 .filter-item {
-  flex: 0 1 250px; 
+  flex: 0 1 250px;
   margin: 0;
-  padding: 0; 
-  box-sizing: border-box; 
+  padding: 0;
+  box-sizing: border-box;
   min-height: 48px !important;
 }
 
@@ -31,31 +31,31 @@
 #filterLevenscyclusSelect {
   border: 2px solid #154273;
   border-radius: 4px;
-  padding: 12px; 
+  padding: 12px;
   box-sizing: border-box;
   outline: none;
   font-size: 16px;
-  font-family: "ROsanswebtextregular", sans-serif; 
-  width: 100%; 
-  min-width: 250px; 
+  font-family: "ROsanswebtextregular", sans-serif;
+  width: 100%;
+  min-width: 250px;
   width: 260px;
   min-height: 48px;
-  text-align: left; 
+  text-align: left;
 }
 
 /* Focus style for input fields */
 #filterInput:focus {
   border-color: #1c5ba7;
-  box-shadow: 0 0 4px rgba(28, 91, 167, 0.5); 
+  box-shadow: 0 0 4px rgba(28, 91, 167, 0.5);
 }
 
 /* Label styling */
 .filter-item label {
   display: block;
-  margin-bottom: 8px; 
+  margin-bottom: 8px;
   font-weight: bold;
-  color: #154273; 
-  font-family: "ROsanswebtextregular", sans-serif; 
+  color: #154273;
+  font-family: "ROsanswebtextregular", sans-serif;
 }
 
 /* Custom styles for selected items (the "chips") */
@@ -64,7 +64,7 @@
   border-radius: 5px !important;
   background-color: #ffffff !important;
   color: #154273 !important;
-  margin: 0 4px 4px 0 !important; 
+  margin: 0 4px 4px 0 !important;
   font-style: italic;
   white-space: nowrap;
 }
@@ -88,11 +88,11 @@
   font-size: 14px;
   overflow: hidden;
   border: none !important;
-  text-align: left; 
+  text-align: left;
 }
 
 /* Custom CSS for the Choices.js close button with a cross icon */
-.choices[data-type*=select-multiple] .choices__button, 
+.choices[data-type*=select-multiple] .choices__button,
 .choices[data-type*=text] .choices__button {
   position: relative;
   display: inline-block;
@@ -100,7 +100,7 @@
   padding-left: 16px;
   border: none !important;
   background-image: url("data:image/svg+xml;charset=utf-8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path fill='%23154373' d='M18 6.41L16.59 5 12 9.59 7.41 5 6 6.41 10.59 11 6 15.59 7.41 17 12 12.41 16.59 17 18 15.59 13.41 11 18 6.41z'/></svg>") !important;
-  background-size: 16px !important; 
+  background-size: 16px !important;
   background-repeat: no-repeat;
   line-height: 1;
   opacity: .75;
@@ -108,7 +108,7 @@
 }
 
 /* Hover state for the cross, if you want to change color on hover */
-.choices[data-type*=select-multiple] .choices__button:hover, 
+.choices[data-type*=select-multiple] .choices__button:hover,
 .choices[data-type*=text] .choices__button:hover {
   background-image: url("data:image/svg+xml;charset=utf-8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path fill='%2320427a' d='M18 6.41L16.59 5 12 9.59 7.41 5 6 6.41 10.59 11 6 15.59 7.41 17 12 12.41 16.59 17 18 15.59 13.41 11 18 6.41z'/></svg>") !important;
   background-size: 16px;
@@ -124,12 +124,12 @@
   background-color: #ffffff !important;
   font-size: 16px !important;
   margin-bottom: 0px !important;
-  text-align: left; 
+  text-align: left;
 }
 
 .choices__input--cloned {
   margin-bottom: 0px !important;
-  text-align: left; 
+  text-align: left;
 }
 
 /* Hide Klik om te selecteren */

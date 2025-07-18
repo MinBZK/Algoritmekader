@@ -414,6 +414,8 @@
 .model-content-auto-size {
     width: auto !important;
     height: auto !important;
+    max-width: 1200px !important;
+    max-height: 90vh !important;
 }
 
 .modal-content {
@@ -441,9 +443,10 @@
 
     transition: height 0.3s ease, width 0.3s ease;
 
-    /* Sizing for visible dialog */
-    width: 80%;
-    height: 80%;
+    /* Increased modal size from 80% to 90% width and height */
+    width: 90%;
+    height: 85%;
+    max-width: 1400px;
 
     /* Display properties for visible dialog */
     border: solid 1px #999;

@@ -59,8 +59,10 @@ nav:
         - Vereisten: voldoen-aan-wetten-en-regels/vereisten/index.md
         - Maatregelen: voldoen-aan-wetten-en-regels/maatregelen/index.md
         - Hulpmiddelen: voldoen-aan-wetten-en-regels/hulpmiddelen/index.md
-        - AI-verordening in het kort: voldoen-aan-wetten-en-regels/ai-verordening.md
-        - Tijdlijn AI-verordening: voldoen-aan-wetten-en-regels/tijdlijn-ai-verordening.md
+    - AI-verordening:
+        - Overzicht: ai-verordening/index.md
+        - AI-verordening in het kort: ai-verordening/ai-verordening-in-het-kort.md
+        - Tijdlijn AI-verordening: ai-verordening/tijdlijn-ai-verordening.md
 
 # Extra opties
 markdown_extensions:
@@ -111,6 +113,9 @@ extra_html:
 
 extra_javascript:
   - javascripts/jquery-3.6.0.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js
+  - javascripts/exportExcel.js
   - javascripts/choices.min.js
   - javascripts/tablesort.min.js
   - javascripts/tablesort.js
@@ -125,6 +130,7 @@ plugins:
         enable_creation_date: true
         timezone: Europe/Amsterdam
         locale: nl
+        enabled: !ENV [MKDOCS_ENABLE_GIT_DATES, true]
     - awesome-pages:
         collapse_single_pages: true
 

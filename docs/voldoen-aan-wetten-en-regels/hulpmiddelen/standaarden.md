@@ -53,7 +53,7 @@ hide: navigation
 ## Wat zijn standaarden?
 Standaarden zijn afspraken die worden vastgelegd om ervoor te zorgen dat producten, processen of diensten voldoen aan specifieke eisen op het gebied van kwaliteit, veiligheid en prestaties. Sommige standaarden worden ontwikkeld door standaardisatieorganisaties, meestal op initiatief van belanghebbenden die een behoefte aan een bepaalde standaard zien bij of na het ontwikkelen van Europese regelgeving, zoals de Europese Commissie. _Normen_ zijn standaarden die door standaardisatieorganisaties worden gemaakt, zoals ISO of CEN/CENELEC, of NEN.
 
-Standaarden zijn er op allerlei gebieden. Momenteel speelt de ontwikkeling van standaarden voor de Europese [AI-verordening](../ai-verordening.md) een belangrijke rol voor de betrouwbare ontwikkeling en gebruik van AI. Vandaar dat deze pagina focust op _standaarden voor AI_.
+Standaarden zijn er op allerlei gebieden. Momenteel speelt de ontwikkeling van standaarden voor de Europese [AI-verordening](../../../ai-verordening/ai-verordening-in-het-kort/) een belangrijke rol voor de betrouwbare ontwikkeling en gebruik van AI. Vandaar dat deze pagina focust op _standaarden voor AI_.
 
 Europese _geharmoniseerde standaarden_ zijn essentieel voor de AI-Verordening, omdat ze juridische zekerheid verschaffen. Geharmoniseerde standaarden zijn er bijvoorbeeld al voor speelgoed, elektrische apparaten, medische hulpmiddelen, en straks dus ook voor hoog risico AI-systemen. Als het over standaarden voor de AI-verordening gaat, gaat het dus om _geharmoniseerde standaarden_.
 
@@ -169,7 +169,7 @@ Lijst van gebruikte bronnen, standaarden, en aanvullende documentatie
 - 'AI Act and the future standards - webinar' (11 december 2024). Het webinar kan [hier worden teruggekeken. Hier zijn ook de presentaties en Q&A's over standaarden te vinden](https://www.ds.dk/en/news/2024/ai-act-and-the-future-standards).
 
 ## Beslishulp AI-verordening
-Met de [beslishulp AI-verordening](https://ai-verordening-beslishulp.apps.digilab.network/) bepaal je snel en gemakkelijk of jouw AI-product onder de AI-verordening valt. En wat je dan moet doen.
+Met de <a href="#" onclick="showModal(event, 'beslishulp AI-verordening', {redirectUrl: 'voldoen-aan-wetten-en-regels/vereisten/'});">beslishulp AI-verordening</a> bepaal je snel en gemakkelijk of jouw AI-product onder de AI-verordening valt. En wat je dan moet doen.
 
 ## Help ons deze pagina te verbeteren
 Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/issues/new/choose) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

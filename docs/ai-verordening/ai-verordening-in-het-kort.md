@@ -105,7 +105,7 @@ De AI-verordening trad in werking op 1 augustus 2024 en gaat stap voor stap geld
 * 2 augustus 2027: Vereisten voor hoog-risico-AI-systemen in producten
 * 2 augustus 2030: Vereisten voor overige hoog-risico-systemen
 
-In de [tijdlijn AI-verordening](tijdlijn-ai-verordening.md) vind je alle vereisten per deadline.
+In de [tijdlijn AI-verordening](../tijdlijn-ai-verordening/) vind je alle vereisten per deadline.
 
 ## Toezicht en implementatie
 
@@ -118,7 +118,7 @@ In de [tijdlijn AI-verordening](tijdlijn-ai-verordening.md) vind je alle vereist
 ## Hulp bij de AI-verordening
 
 ### Beslishulp AI-verordening
-Met de [beslishulp AI-verordening](https://ai-verordening-beslishulp.apps.digilab.network/) bepaal je snel en gemakkelijk of jouw AI-product onder de AI-verordening valt. En wat je dan moet doen.
+Met de <a href="#" onclick="showModal(event, 'beslishulp AI-verordening', {redirectUrl: 'voldoen-aan-wetten-en-regels/vereisten/'});">beslishulp AI-verordening</a> bepaal je snel en gemakkelijk of jouw AI-product onder de AI-verordening valt. En wat je dan moet doen.
 
 ### AI-Gids Rijksoverheid
 Wil je de regels uit de AI-verordening overzichtelijk bekijken? De Rijksoverheid schreef de [Gids AI-verordening](https://www.rijksoverheid.nl/documenten/brochures/2024/10/16/gids-ai-verordening). Dit document zet deze regels helder op een rij en gaat ook dieper in op de mogelijke implicaties van de wet voor het gebruik en de ontwikkeling van AI binnen jouw organisatie.

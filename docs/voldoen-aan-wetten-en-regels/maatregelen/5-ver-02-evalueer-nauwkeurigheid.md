@@ -71,7 +71,7 @@ Een onnauwkeurig algoritme geeft de verkeerde uitkomsten waardoor situaties of m
 ## Bronnen
 - [Europese Commissie, Ethische richtsnoeren voor betrouwbare KI](https://digital-strategy.ec.europa.eu/nl/library/ethics-guidelines-trustworthy-ai)
 - [Toetingskader Algemene Rekenkamer, 2.03](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
-- [Onderzoekskader algoritmes, Auditdienst Rijk, DM.1 en DM.4](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/onderzoekskader-adr/)
+- [Onderzoekskader algoritmes, Auditdienst Rijk, DM.1 en DM.4](../hulpmiddelen/onderzoekskader-adr.md)
 
 ## Voorbeelden
 

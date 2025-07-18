@@ -44,9 +44,9 @@ Let op! Sommige maatregelen in het Algoritmekader gaan dieper in op het uitvoere
 Bij het gebruik van generatieve AI is het van extra belang dat risico's gedekt worden.
 
 - Breng de veiligheidsrisico's van generatieve AI-toepassingen systematisch in kaart, bijvoorbeeld door middel van de [OWASP Risk Rating Methodology](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology).
-- Verzeker je ervan dat je door ontwikkeling of gebruik van generatieve AI [niet discrimineert](https://minbzk.github.io/Algoritmekader/onderwerpen/bias-en-non-discriminatie/). [Stel een protocol op voor situaties waar discriminatie toch optreedt](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/0-org-15-discriminatieprotocol/).
+- Verzeker je ervan dat je door ontwikkeling of gebruik van generatieve AI [niet discrimineert](../../onderwerpen/bias-en-non-discriminatie.md). [Stel een protocol op voor situaties waar discriminatie toch optreedt](0-org-15-discriminatieprotocol.md).
 - Zorg ervoor dat je een eindverantwoordelijke aanstelt op het kruisingsgebied tussen cybersecurity en generatieve AI, en een eindverantwoordelijke voor privacy en generatieve AI. Stel ook een ondersteunende rol aan, bij wie medewerkers terecht kunnen voor vragen over generatieve AI.
-- Maak het mogelijk om [incidenten te rapporteren](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/aia-31-ai-modellen-algemene-doeleinden-systeemrisico-ernstige-incidenten).
+- Maak het mogelijk om [incidenten te rapporteren](../vereisten/aia-31-ai-modellen-algemene-doeleinden-systeemrisico-ernstige-incidenten.md).
 
 ## Risico
 Risico's worden niet (tijdig) vastgesteld en adequaat geadresseerd en behandeld.

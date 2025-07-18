@@ -49,7 +49,7 @@ Het is vastgesteld beleid dat overheidsinstellingen, tenzij er uitsluitingsgrond
 
 De Autoriteit Persoonsgegevens heeft [handvatten](https://www.autoriteitpersoonsgegevens.nl/actueel/algoritmeregistratie-in-nederland-moet-beter) gepubliceerd om je te helpen bij het opzetten en invullen van registraties in het Algoritmeregister.
 
-## Bronnen (bestaand beleid)
+## Bronnen
 - [Handreiking Algoritmeregister](https://www.digitaleoverheid.nl/document/handreiking-algoritmeregister/)
 - [Geactualiseerde Werkagenda Waardengedreven Digitaliseren 2024](https://www.rijksoverheid.nl/documenten/rapporten/2023/12/22/geactualiseerde-werkagenda-waardengedreven-digitaliseren-voor-2024)
 - [Autoriteit Persoonsgegevens - Aan de slag met algoritmeregistratie: handvatten voor organisaties](https://www.autoriteitpersoonsgegevens.nl/actueel/algoritmeregistratie-in-nederland-moet-beter)

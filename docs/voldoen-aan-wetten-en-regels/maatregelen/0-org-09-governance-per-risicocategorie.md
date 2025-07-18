@@ -42,12 +42,12 @@ Geen beschikbare bron voor deze maatregel.
 
 !!! example "Rijksoverheid: Gids AI-verordening"
 
-    De Rijksoverheid heeft een gids opgesteld over de AI-verordening. Hierin worden 4 stappen toegelicht: Risico, AI, Rol en Verplichtingen. Om te identificeren welke AI-systemen of algoritmes hoog-risico zijn, is het aan te raden om deze gids te bekijken. Meer informatie over de AI-verordening is ook te vinden op ["AI-verordening in het kort"](../ai-verordening.md)
+    De Rijksoverheid heeft een gids opgesteld over de AI-verordening. Hierin worden 4 stappen toegelicht: Risico, AI, Rol en Verplichtingen. Om te identificeren welke AI-systemen of algoritmes hoog-risico zijn, is het aan te raden om deze gids te bekijken. Meer informatie over de AI-verordening is ook te vinden op ["AI-verordening in het kort"](../../../ai-verordening/ai-verordening-in-het-kort/)
     Naast de classificatie vermeldt deze gids vanaf pagina 11 aan welke verplichtingen een aanbieder en gebruiksverantwoordelijke moeten voldoen voor hoog-risico-AI, AI voor algemene doeleinden, generatieve AI en chatbots, maar niet voor overige AI.
 
     Bron: [Gids AI-verordening](https://www.rijksoverheid.nl/documenten/brochures/2024/10/16/gids-ai-verordening)
 
-    Wil je meer hulp bij het vinden van de regels die specifiek voor jou gelden, gebruik dan ook de [Beslishulp AI-Verordening](https://ai-verordening-beslishulp.apps.digilab.network/).
+    Wil je meer hulp bij het vinden van de regels die specifiek voor jou gelden, gebruik dan ook de <a href="#" onclick="showModal(event, 'beslishulp AI-verordening', {redirectUrl: 'voldoen-aan-wetten-en-regels/vereisten/'});">beslishulp AI-verordening</a>.
 
 
 !!! example "Gemeente Rotterdam: Processchema governance"

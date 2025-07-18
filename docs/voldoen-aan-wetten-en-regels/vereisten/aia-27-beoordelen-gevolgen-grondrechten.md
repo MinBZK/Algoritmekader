@@ -49,10 +49,10 @@ Het doel is om de bescherming van grondrechten te waarborgen bij het gebruik van
 
 ## Bronnen
 
-- [Artikel 27(1) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e4433-1-1)
-- [Artikel 6.2 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e2986-1-1)
-- [Bijlage III.2 en III.5 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e38-127-1)
-- [Impact Assessment Mensenrechten en Algoritmes](https://www.government.nl/documents/reports/2022/03/31/impact-assessment-fundamental-rights-and-algorithms)
+- [Artikel 27, lid 1, AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#art_27)
+- [Artikel 6, lid 2, AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#art_6)
+- [Bijlage III, onderdeel 2 en 5, AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#anx_III)
+- [Impact Assessment Mensenrechten en Algoritmes (IAMA)](../hulpmiddelen/IAMA.md)
 
 ## Van toepassing op
 <!-- tags-ai-act -->

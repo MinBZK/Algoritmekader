@@ -10,7 +10,7 @@ hide:
 <div class="header-container">
     <div class="subheader">Belangrijkste wetten en regels voor verantwoord gebruik van overheidsalgoritmes, met tips en hulpmiddelen.
     <span class="version-container">
-      <span class="version-label">Versie 2.2</span>
+      <span class="version-label">Versie 2.3</span>
       <div class="hover-info">
         <p>Deze website is in ontwikkeling. Alle versies ontstaan op een open manier. <a href="over-het-algoritmekader/CONTRIBUTING/">Iedereen mag opmerkingen of suggesties geven.</a></p>
       </div>

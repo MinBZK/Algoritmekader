@@ -54,6 +54,7 @@ Zonder structurele monitoring van de milieu-impact kan de organisatie onbewust b
 - [Coalitie Duurzame Digitalisering - Digital Product Passport](https://coalitieduurzamedigitalisering.nl/nieuws/digital-product-passport-samen-aan-de-slag/)
 - [Onderzoekskader Algoritmes Auditdienst Rijk, DM.24](../hulpmiddelen/onderzoekskader-adr.md)
 - [Ethische richtsnoeren voor betrouwbare KI, Hoofdstuk II 1.6: Maatschappelijk en milieuwelzijn](https://digital-strategy.ec.europa.eu/nl/library/ethics-guidelines-trustworthy-ai)
+- [Eindrapport 'Generatieve AI en duurzaamheid' (Universiteit Utrecht)](https://www.rijksoverheid.nl/documenten/rapporten/2025/01/31/eindrapport-generatieve-ai-en-duurzaamheid)
 
 ## Voorbeelden
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

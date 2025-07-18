@@ -37,7 +37,7 @@ Discriminatie is verboden volgens [Artikel 1 van de Nederlandse Grondwet](https:
 Het is erg moeilijk om discriminerende effecten te voorkomen. Discriminatiegronden weglaten als variabele in je algoritme is niet genoeg. Want discriminatie ontstaat ook indirect, door bias.
 
 ## Profilering
-Veel organisaties gebruiken risicoprofilering als hulpmiddel om regels te handhaven. Dit gebruik van risicoprofilering kan leiden tot discriminerende effecten. Het gebruik van risicoprofilering vraagt om een zorgvuldige aanpak om nadelige effecten te voorkomen. Om organisaties hier mee te helpen, heeft het College voor de Rechten van de Mens een gedetailleerd [toetsingskader voor risicoprofilering](https://publicaties.mensenrechten.nl/publicatie/4093c026-ae41-4c1d-aa78-4ce0e205b5de) ontwikkeld om discriminatie op grond van ras en nationaliteit te voorkomen.
+Veel organisaties gebruiken risicoprofilering als hulpmiddel om regels te handhaven. Dit gebruik van risicoprofilering kan leiden tot discriminerende effecten. Het gebruik van risicoprofilering vraagt om een zorgvuldige aanpak om nadelige effecten te voorkomen. Om organisaties hier mee te helpen, heeft het College voor de Rechten van de Mens een gedetailleerd [toetsingskader voor risicoprofilering](https://publicaties.mensenrechten.nl/publicatie/4093c026-ae41-4c1d-aa78-4ce0e205b5de) ontwikkeld om discriminatie op grond van ras en nationaliteit te voorkomen. Daarnaast kun je gebruik maken van de [Publieke standaard profileringsalgoritmes](https://algorithmaudit.eu/nl/knowledge-platform/knowledge-base/public_standard_profiling/), gepubliceerd door Algorithm Audit.
 
 !!! tip "Tip"
 

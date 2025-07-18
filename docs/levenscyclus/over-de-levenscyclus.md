@@ -28,8 +28,8 @@ Om algoritmes op een verantwoorde manier te gebruiken, zul je op de juiste momen
 ## Systeemniveau en organisatieniveau
 De levenscyclus kent 2 verschillende niveau's:
 
-- **organisatieniveau**: Sommige vereisten zijn algemeen en vragen om een organisatiebrede aanpak. Dit gaat bijvoorbeeld om passende processen en risicomanagment in je organisatie. Of het creëren van bewustzijn en kennis binnen je organisatie. In het ideale geval besteed je hier al aandacht aan voordat je begint met de ontwikkeling of het gebruik van algoritmes. Bij deze fase horen maatregelen die je niet voor ieder systeem opnieuw zal hoeven te bekijken.
-- **systeemniveau**: Sommige vereisten voor verantwoorde inzet van algoritmes zul je bij ieder algoritme weer opnieuw aandacht moeten geven. Dat geldt bijvoorbeeld voor het beschermen van grondrechten.
+- **organisatieniveau (proces)**: Sommige vereisten zijn algemeen en vragen om een organisatiebrede aanpak. Dit gaat bijvoorbeeld om passende processen en risicomanagment in je organisatie. Of het creëren van bewustzijn en kennis binnen je organisatie. In het ideale geval besteed je hier al aandacht aan voordat je begint met de ontwikkeling of het gebruik van algoritmes. Bij deze fase horen maatregelen die je niet voor ieder systeem opnieuw zal hoeven te bekijken.
+- **systeemniveau (toepassing)**: Sommige vereisten voor verantwoorde inzet van algoritmes zul je bij ieder algoritme weer opnieuw aandacht moeten geven. Dat geldt bijvoorbeeld voor het beschermen van grondrechten.
 
 ///
 

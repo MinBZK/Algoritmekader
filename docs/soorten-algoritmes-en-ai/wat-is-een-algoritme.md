@@ -14,7 +14,7 @@ Rekenregels:
 * zijn expliciet geprogrammeerd en bedacht door mensen
 * bestaan uit vaste stappen om een taak uit te voeren
 
-Rekenregels zijn niet kunstmatig intelligent (AI). Rekenregels kunnen wel onderdeel zijn van een AI-systeem.
+Het bevatten van rekenregels maakt van een systeem geen AI. Rekenregels kunnen wel onderdeel zijn van een AI-systeem.
 
 ### Voorbeelden
 
@@ -33,7 +33,7 @@ Zelflerende technieken zijn in elk geval:
 * **Deep learning**: Supervised, unsupervised of reinforcement learning gecombineerd met diepe neurale netwerken. Dit zijn kunstmatige neurale netwerken met veel verschillende lagen. Hierdoor kun je nog ingewikkeldere problemen oplossen. Voorbeeld: [Geautomatiseerde gezichtsvergelijking bij het RNI-inschrijfproces](https://algoritmes.overheid.nl/nl/algoritme/oorg10103/18814864/geautomatiseerde-gezichtsvergelijking-bij-het-rniinschrijfproces).
 
 ## AI-systeem
-Met een AI-systeem bedoelen we een systeem dat kunstmatig intelligent is volgens de [Europese AI-verordening](../../ai-verordening/ai-verordening-in-het-kort/#ai-systeem). Dit zijn in elk geval systemen die gebruik maken van:
+Met een AI-systeem bedoelen we een systeem dat kunstmatig intelligent is volgens de [Europese AI-verordening](../voldoen-aan-wetten-en-regels/ai-verordening.md#ai-systeem). Je systeem zal in de meeste gevallen onder de definitie van AI-systeem vallen als gebruik wordt gemaakt van:
 
 * supervised learning
 * unsupervised learning
@@ -43,7 +43,7 @@ Met een AI-systeem bedoelen we een systeem dat kunstmatig intelligent is volgens
 
 !!! tip "Tip"
 
-    Twijfel je of je algoritme onderdeel is van een AI-systeem? Raadpleeg een expert. Of beschouw het systeem voor de zekerheid als een AI-systeem.
+    Twijfel je of je algoritme onderdeel is van een AI-systeem? Volg de [handreiking Identificatie AI-systemen AI-verordening](https://aienalgoritmes.pleio.nl/wiki/view/6e0e62ea-b3bc-4a95-8ba7-59672e9ffd0d/ai-verordening-hulpmiddelen-implementatie). Kom je er niet uit? Raadpleeg een expert. Of beschouw het systeem voor de zekerheid als een AI-systeem.
 
 ## Help ons deze pagina te verbeteren
 Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/issues/new/choose) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

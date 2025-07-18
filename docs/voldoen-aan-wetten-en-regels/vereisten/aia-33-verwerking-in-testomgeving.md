@@ -50,7 +50,7 @@ AI-testomgevingen die persoonsgegevens verwerken, voldoen aan strenge voorwaarde
 
 ## Toelichting
 
-De rechtmatige verwerking van persoonsgegevens voor andere doeleinden voor het ontwikkelen, trainen en testen van AI-modellen is mogelijk, maar het moet voldoen aan strikte voorwaarden die zijn opgenomen in artikel 57 AI-Verordening. Hiervoor is een AI-testomgeving noodzakelijk, waarin maatregelen of kunnen worden getroffen om de data veilig te verwerken.
+De rechtmatige verwerking van persoonsgegevens voor andere doeleinden voor het ontwikkelen, trainen en testen van AI-modellen is mogelijk, maar het moet voldoen aan strikte voorwaarden die zijn opgenomen in artikel 57 AI-Verordening. Hiervoor is een AI-testomgeving (ook wel <i>regulatory sandbox</i> genoemd) noodzakelijk, waarin maatregelen of kunnen worden getroffen om de data veilig te verwerken.
 
 Persoonsgegevens die in de testomgeving worden aangemaakt mogen niet buiten de testomgeving worden gedeeld en logbestanden worden bijgehouden voor de duur van de deelname aan de testomgeving.
 

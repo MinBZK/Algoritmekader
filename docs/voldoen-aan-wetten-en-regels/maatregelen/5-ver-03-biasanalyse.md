@@ -43,6 +43,8 @@ hide:
 Analyseer regelmatig of het gebruik van het algoritme of het proces daaromheen leidt tot onwenselijke of onrechtmatige verschillen in de behandeling van individuen en/of groepen.
 
 ## Toelichting
+Deze maatregel dekt (een gedeelte van) een eis die vanuit het [advies vanuit de Autoriteit Persoonsgegevens (AP) over geautomatiseerde besluitvorming](https://www.autoriteitpersoonsgegevens.nl/documenten/advies-geautomatiseerde-besluitvorming) wordt gesteld, namelijk dat het risico op discriminatoire verwerkingen is onderzocht en ondervangen.
+
 Het uitvoeren van een analyse over onwenselijke of onrechtmatige verschillen bestaat grofweg uit 3 stappen:
 
 - [Stap 1](#stap-1-analyseer-of-er-sprake-is-van-bias): analyseer of er sprake is van bias: *systematisch verschil in behandeling van bepaalde objecten, mensen of groepen in vergelijking met anderen.*
@@ -190,7 +192,8 @@ Dit kan leiden tot een ongelijke behandeling van burgers met eventuele schade vo
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 2.18, 2.19, 3.08, 3.09](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Onderzoekskader Algoritmes Auditdienst Rijk, DM.16, DM.17, DM.18, DM.20, DM.21, DM.22](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Toetsingskader risicoprofilering – Normen tegen discriminatie op grond van ras en nationaliteit, College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/4093c026-ae41-4c1d-aa78-4ce0e205b5de)
-- [Handreiking non-discriminatie by design](https://www.rijksoverheid.nl/documenten/rapporten/2021/06/10/handreiking-non-discriminatie-by-design)
+- [AP-advies geautomatiseerde besluitvorming](https://www.autoriteitpersoonsgegevens.nl/documenten/advies-geautomatiseerde-besluitvorming)
+- [Handreiking non-discriminatie by design](../hulpmiddelen/handreiking-non-discriminatie.md)
 
 ## Voorbeelden
 

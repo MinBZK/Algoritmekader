@@ -1,5 +1,5 @@
 ---
-title: Besluiten die levens kunnen beïnvloeden, zijn niet volledig geautomatiseerd
+title: Besluiten met rechtsgevolgen of aanmerkelijke effecten zijn niet volledig geautomatiseerd
 id: urn:nl:ak:ver:avg-10
 toelichting: Betrokkenen hebben het recht om niet onderworpen te worden aan een enkel op geautomatiseerde verwerking, waaronder proflering, gebaseerd besluit, wanneer dit rechtsgevolgen heeft voor hen of het hen anderszins in aanzienlijke mate treft.
 status_vereiste:
@@ -46,7 +46,7 @@ hide:
 
 ## Vereiste
 
-Betrokkenen hebben het recht om niet onderworpen te worden aan een enkel op geautomatiseerde verwerking, waaronder proflering, gebaseerd besluit, wanneer dit rechtsgevolgen heeft voor hen of het hen anderszins in aanzienlijke mate treft. Dit verbod geldt niet indien de geautomatiseerde individuele besluitvorming, anders dan op basis van profilering, noodzakelijk is om te voldoen aan een wettelijke verplichting die op de verwerkingsverantwoordelijke rust of noodzakelijk is voor de vervulling van een taak van algemeen belang.
+Betrokkenen hebben op grond van artikel 22 van de AVG het recht om niet onderworpen te worden an een uitsluitend op geautomatiseerde verwerking, waaronder proflering, gebaseerd besluit waaraan voor hen rechtsgevolgen zijn verbonden of dat hen anderszins in aanmerkelijke mate treft. Dit verbod geldt niet indien de geautomatiseerde individuele besluitvorming, anders dan op basis van profilering, noodzakelijk is om te voldoen aan een wettelijke verplichting die op de verwerkingsverantwoordelijke rust of noodzakelijk is voor de vervulling van een taak van algemeen belang.
 
 ## Toelichting
 
@@ -56,9 +56,9 @@ Hiervoor moeten gegevens worden verwerkt om te kunnen bepalen of een burger hier
 
 Soms wordt het proces voor het nemen van een **besluit** volledig geautomatiseerd ingericht. Denk hierbij aan het opleggen van een boete voor een snelheidsovertreding. Hierdoor kan in korte tijd en op een efficiënte wijze, een grote hoeveelheid besluiten worden genomen.
 
-Het geautomatiseerd verwerken van gegevens voor de totstandkoming van een besluit brengt risico's met zich mee. Zeker als hierbij persoonsgegevens van individuen worden verwerkt en er sprake is van profilering. Hierdoor ontstaat bijvoorbeeld het risico op discriminatie. Daarom is in art. 22 AVG het recht voor betrokkenen gecreëerd om niet te worden onderworpen aan een uitsluitend op geautomatiseerde verwerking, waaronder profilering, gebaseerd besluit.
+Het geautomatiseerd verwerken van gegevens voor de totstandkoming van een besluit brengt risico's met zich mee. Zeker als hierbij persoonsgegevens van individuen worden verwerkt en er sprake is van profilering. Hierdoor ontstaat bijvoorbeeld het risico op discriminatie. Daarom is in art. 22 AVG het recht voor betrokkenen vastgelegd om niet te worden onderworpen aan een uitsluitend op geautomatiseerde verwerking, waaronder profilering, gebaseerd besluit.
 
-Dit verbod geldt voor besluiten die **'rechtsgevolgen'** hebben voor een betrokkene, bijvoorbeeld een burger die een boete ontvangt voor de snelheidsovertreding, of hem anderzijds in **aanmerkelijke mate treft**. Het besluit mag in die gevallen niet geautomatiseerd worden genomen. Een individu moet namelijk kunnen rekenen op voldoende 'menselijke tussenkomst' bij de beoordeling van belangrijke beslissingen die deze persoon treffen.
+Dit verbod geldt voor besluiten die **'rechtsgevolgen'** hebben voor een betrokkene, bijvoorbeeld een burger die een boete ontvangt voor de snelheidsovertreding, of hem anderzijds in **aanmerkelijke mate treft**. Het besluit mag in die gevallen niet geautomatiseerd worden genomen. Een individu heeft namelijk recht op voldoende 'menselijke tussenkomst' bij de beoordeling van belangrijke beslissingen die deze persoon treffen.
 
 Bij het geautomatiseerd uitvoeren van processen dient altijd te worden voldaan aan de voorwaarden uit wetgeving, waaronder in het bijzonder de Algemene Verordening Gegevensbescherming (AVG) en de Algemene wet bestuursrecht(Awb). Bestuursorganen dienen dan ook te handelen conform de algemene beginselen van behoorlijk bestuur. Dit samenstel van regels moet de rechten van betrokkenen borgen.
 
@@ -66,19 +66,19 @@ Bij het geautomatiseerd uitvoeren van processen dient altijd te worden voldaan a
 
 De Nederlandse wetgever heeft in artikel 40 lid 1 UAVG gebruik gemaakt van de mogelijkheid een uitzondering te maken op het verbod van art. 22 lid 1 AVG. In Nederland is geautomatiseerde besluitvorming toegestaan, als het gaat om besluitvorming waarbij menselijke tussenkomst geen toegevoegde waarde heeft.
 
-Dit is het geval als er sprake is van een gebonden karakter waarbij weinig of geen beoordelingsruimte is waarin tot een andere conclusie kan worden gekomen. Hierbij kan worden gedacht aan het toekennen van kinderbijslag of de hoogte van het recht op studiefinanciering. Deze uitzondering geldt niet voor 'profilering', tenzij er specifieke (sectorale) wetgeving het verbod opheft.
+Dit is het geval als er sprake is van een gebonden bevoegdheid waarbij weinig of geen beoordelingsruimte is waarin tot een andere conclusie kan worden gekomen. Hierbij kan worden gedacht aan het toekennen van kinderbijslag of de hoogte van het recht op studiefinanciering. Deze uitzondering geldt niet voor 'profilering', tenzij er specifieke (sectorale) wetgeving het verbod opheft.
 
 Om deze uitzondering toe te kunnen passen, moet er op grond van artikel 22 AVG een 'passende maatregel' in de vorm van wetgeving zijn die personen voldoende bescherming biedt. In Nederland moet de Algemene wet bestuursrecht deze bescherming aan burgers bieden als bestuursorganen besluiten nemen. De Awb bevat vereisten en algemene beginselen waaraan besluitvorming moet voldoen.
 
-Bij het toepassen van geautomatiseerde besluitvorming, moet aan de hand van een DPIA wordt vastgesteld of er bij toepassing van de Awb daadwerkelijk voldoende bescherming wordt geboden. Een verwerkersverantwoordelijke zal dus, naast het toepassen van vereisten uit de AVG en specifieke (sectorale) wetgeving, beginselen uit de Awb moeten vertalen naar concrete maatregelen om geautomatiseerde besluitvorming op een rechtmatige wijze toe te passen. Hierbij kan worden gedacht aan het toepassen van [motiveringsbeginsel](awb-02-motiveringsbeginsel.md) of het [zorgvuldigheidsbeginsel](awb-01-zorgvuldigheidsbeginsel.md).
+Bij het toepassen van geautomatiseerde besluitvorming, moet aan de hand van een DPIA wordt vastgesteld of er bij toepassing van de Awb daadwerkelijk voldoende bescherming wordt geboden. Een verwerkingsverantwoordelijke zal dus, naast het toepassen van vereisten uit de AVG en specifieke (sectorale) wetgeving, beginselen uit de Awb moeten vertalen naar concrete maatregelen om geautomatiseerde besluitvorming op een rechtmatige wijze toe te passen. Hierbij kan worden gedacht aan het toepassen van [motiveringsbeginsel](awb-02-motiveringsbeginsel.md) en het [zorgvuldigheidsbeginsel](awb-01-zorgvuldigheidsbeginsel.md).
 
 ### Begrippen
 
 #### Profilering
 
-Profilering is bijzonder gevoelig. Bij profilering gaat het om elke vorm van een geautomatiseerde verwerking van persoonsgegevens, waarbij aan de hand van persoonsgegevens bepaalde persoonlijke aspecten van een natuurlijke persoon worden geëvalueerd. Daarbij gaat het voornamelijk om het analyseren of verspellen van zaken als beroepsprestaties, economische situatie, gezondheid, persoonlijke voorkeuren, interesses, betrouwbaarheid, gedrag, locatie of een verplaatsingen.
+Profilering is bijzonder gevoelig. Bij profilering gaat het om elke vorm van een geautomatiseerde verwerking van persoonsgegevens, waarbij aan de hand van persoonsgegevens bepaalde persoonlijke aspecten van een natuurlijke persoon worden geëvalueerd. Daarbij gaat het voornamelijk om het analyseren of voorspellen van zaken als beroepsprestaties, economische situatie, gezondheid, persoonlijke voorkeuren, interesses, betrouwbaarheid, gedrag, locatie of een verplaatsingen.
 
-Volgens deze definitie gaat het om een verwerking door een computersysteem waarbij het systeem algemene aanname(s) toegepast in een concreet geval. Dit doet het door een individu, met gebruikmaking van diens persoonsgegevens, in te delen in een categorie(profiel). Een dergelijk categorie(profiel) wordt vaak in verband gebracht met bepaalde risico's, bijvoorbeeld het risico op het misbruiken van bepaalde publieke voorzieningen.
+Volgens deze definitie gaat het om een verwerking door een computersysteem waarbij het systeem algemene aanname(s) toegepast in een concreet geval. Dit doet het door een individu, met gebruikmaking van diens persoonsgegevens, in te delen in een categorie (profiel). Een dergelijk categorie (profiel) wordt vaak in verband gebracht met bepaalde risico's, bijvoorbeeld het risico op het misbruiken van bepaalde publieke voorzieningen.
 
 De gevoeligheid is dat nog niet is vastgesteld dat, in dit voorbeeld, de betreffende natuurlijke persoon ook daadwerkelijk misbruik heeft gemaakt van bepaalde voorzieningen. Als daar wel automatisch gevolgen aan worden verbonden, ontstaat het risico op een onrechtmatige behandeling van een natuurlijk persoon.
 
@@ -100,6 +100,8 @@ Dit vraagt per geval om een analyse welke 'keuzes' van het systeem welke gevolge
 
 Volledig geautomatiseerde vaststelling van een publiekrechtelijk besluit zoals een aanslag, een boete of een vergunning heeft rechtsgevolgen. Een beslissing dat een bepaalde aanvraag in aanmerking komt voor handmatige controle heeft op zichzelf geen rechtsgevolg - de rechtspositie van de betrokkene wijzigt (nog) niet. Wel moet beoordeeld worden of de betrokkene door dat besluit anderszins (dus feitelijk) in aanmerkelijke mate wordt getroffen.
 
+De Autoriteit Persoonsgegevens (AP) heeft in [een advies over artikel 22 AVG en geautomatiseerde selectie-instrumenten](https://www.autoriteitpersoonsgegevens.nl/documenten/advies-geautomatiseerde-besluitvorming) toegelicht dat geautomatiseerde risicoselectie niet kwalificeert als geautomatiseerde besluitvorming indien de risicoselectie alleen gebruikt wordt om te beoordelen of acties jegens betrokkene nodig zijn, zoals navraag doen of informatie verzamelen, en eventuele rechtsgevolgen of aanmerkelijke effecten voor betrokkene pas tot stand komen na betekenisvolle menselijke tussenkomst. Een beslissing om iemand wel of niet te controleren op mogelijke fraude heeft op zichzelf immers nog geen rechtsgevolgen voor de burger en een voorzienbare reguliere controle zal een burger doorgaans niet in aanmerkelijke mate treffen. De AP adviseert dat bestuursorganen bij de inzet van geautomatiseerde risicoselectie moeten waarborgen dat eventuele gevolgen voor betrokkenen van de risicoselectie pas intreden na betekenisvolle menselijke tussenkomst en dat de risicoselectie niet automatisch andere aanmerkelijke effecten heeft.
+
 ## Bronnen
 
 - [Artikel 22 Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679)
@@ -108,10 +110,10 @@ Volledig geautomatiseerde vaststelling van een publiekrechtelijk besluit zoals e
 - [Advies landsadvocaat over geautomatiseerde selectietechnieken](https://www.rijksoverheid.nl/documenten/rapporten/2024/03/13/bijlage-2-advies-landsadvocaat-over-geautomatiseerde-selectietechniek)
 - [Advies artikel 22 AVG en geautomatiseerde selectie-instrumenten](https://www.rijksoverheid.nl/documenten/publicaties/2024/10/10/advies-artikel-22-avg-en-geautomatiseerde-selectie-instrumenten)
 - [Kamerbrief met kabinetsreactie AP-advies over geautomatiseerde selectie-instrumenten]([Kamerbrief met kabinetsreactie AP-advies over geautomatiseerde selectie-instrumenten0](https://www.rijksoverheid.nl/documenten/kamerstukken/2024/12/03/kabinetsreacties-ap-advies-inzake-geautomatiseerde-selectie-instrumenten)
+- [Autoriteit Persoonsgegevens - Advies geautomatiseerde besluitvorming](https://www.autoriteitpersoonsgegevens.nl/documenten/advies-geautomatiseerde-besluitvorming)
 
 ## Van toepassing op
-<!-- tags-ai-act -->
-
+Deze vereiste geldt voor algoritmische toepassingen die een rol spelen in de besluitvorming van bestuursorganen. Bekijk de [bronnen](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/avg-10-recht-op-niet-geautomatiseerde-besluitvorming/index.html#bronnen) om te controleren of dit zo is.
 
 ## Risico
 

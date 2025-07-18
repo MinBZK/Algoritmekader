@@ -30,6 +30,8 @@ Uitvoeren van aselecte steekproeven als aanvulling wanneer gebruik gemaakt wordt
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
+Deze maatregel dekt (een gedeelte van) een eis die vanuit het [advies vanuit de Autoriteit Persoonsgegevens (AP) over geautomatiseerde besluitvorming](https://www.autoriteitpersoonsgegevens.nl/documenten/advies-geautomatiseerde-besluitvorming) wordt gesteld, namelijk dat het risico op discriminatoire verwerkingen is onderzocht en ondervangen.
+
 Aselecte steekproeven kunnen een waardevolle toevoeging zijn bij risicogestuurde selectie.
 
 Het toevoegen van aselecte steekproeven maakt het mogelijk om over tijd te beoordelen of het algoritme nog voldoende effectief is.
@@ -79,7 +81,8 @@ Deze belangenenafweging moet per context gemaakt worden.
 ## Bronnen
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
-[Rapportage Algoritmerisico's Nederland voorjaar 2024 (pp. 36-41)](https://www.autoriteitpersoonsgegevens.nl/documenten/rapportage-ai-algoritmerisicos-nederland-ran-voorjaar-2024)
+- [Rapportage Algoritmerisico's Nederland voorjaar 2024 (pp. 36-41)](https://www.autoriteitpersoonsgegevens.nl/documenten/rapportage-ai-algoritmerisicos-nederland-ran-voorjaar-2024)
+- [AP-advies geautomatiseerde besluitvorming](https://www.autoriteitpersoonsgegevens.nl/documenten/advies-geautomatiseerde-besluitvorming)
 
 
 ## Voorbeelden

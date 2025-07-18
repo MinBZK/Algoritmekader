@@ -123,16 +123,6 @@ def _create_table_row_2(
         if filter_options.get("onderwerp", True)
         else ""
     )
-    # Worden op dit moment niet gebruikt
-    # vereiste_chips = (
-    #     "".join(
-    #         _create_chip(vereiste, "vereiste", current_file, config)
-    #         for vereiste in vereiste
-    #     )
-    #     if filter_options.get("vereiste", True)
-    #     else ""
-    # )
-    # categorie_chips = ', '.join(cat for cat in categorie) if filter_options.get("categorie", True) else ""
 
     return "".join(
         [
@@ -154,10 +144,18 @@ def _create_table_row_2(
     )
 
 
+def should_show_export(current_file: File) -> bool:
+    """Bepaalt of export functionaliteit getoond moet worden op basis van metadata van pagina"""
+    return current_file.page.meta.get("allow_excel_export", False)
+
+
 # Define the on_env function and other utility functions
 def on_env(env, config: MkDocsConfig, files: Files):
     def generate_filters(
-        content_type: str, list: List[File], filter_options: Dict[str, bool]
+        content_type: str,
+        list: List[File],
+        filter_options: Dict[str, bool],
+        current_file: File,
     ):
         filters = []
         filters.append('<form autocomplete="off" onsubmit="return false;">')
@@ -243,6 +241,37 @@ def on_env(env, config: MkDocsConfig, files: Files):
         filters.append("</form>")
         filters.append("</div>")
 
+        # Conditional excel export
+        if should_show_export(current_file) and content_type in [
+            "vereisten",
+            "maatregelen",
+        ]:
+            filters.extend(
+                [
+                    '<div id="export-excel">',
+                    '<div style="display: flex; align-items: center; gap: 20px;">',
+                    "<div>",
+                    f'Er zijn <strong><span id="total-count">{len(list)}</span></strong> resultaten gevonden',
+                    "</div>",
+                    "<div>",
+                    '<div class="export-dropdown-container" style="position: relative; display: inline-block;">',
+                    '<button id="export-btn" onclick="toggleExportDropdown()" class="button md-button--secondary">',
+                    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="width: 24px; height: 24px; vertical-align: middle; fill: #154271"><path d="M5,20h14a1,1 0 0,0 1-1v-2h-2v2H6v-2H4v2A1,1 0 0,0 5,20M19,9h-4V3H9v6H5l7,7l7-7z"/></svg> Exporteer <span id="content_type">'
+                    + content_type
+                    + "</span>",
+                    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="width: 24px; height: 24px; vertical-align: middle; fill: #154271"><path d="M7 10l5 5 5-5" stroke="#154271" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>'
+                    "</button>",
+                    '<div id="export-dropdown" class="export-dropdown" style="display: none; position: absolute; background: white; border: 1px solid #ccc; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); width: 100%; z-index: 10000; font-family: ROsanswebtextregular, Arial, sans-serif; top: calc(100% - 1px); left: 0;">',
+                    '<div onclick="exportExcel()" style="padding: 12px 16px; cursor: pointer; border-bottom: 1px solid #eee; color: #154273; font-size: 14px; font-family: ROsanswebtextregular, Arial, sans-serif;" onmouseover="this.style.backgroundColor=\'#f5f5f5\'" onmouseout="this.style.backgroundColor=\'white\'">Excel (XLSX)</div>',
+                    '<div onclick="exportODS()" style="padding: 12px 16px; cursor: pointer; color: #154273; font-size: 14px; font-family: ROsanswebtextregular, Arial, sans-serif;" onmouseover="this.style.backgroundColor=\'#f5f5f5\'" onmouseout="this.style.backgroundColor=\'white\'">OpenDocument Spreadsheet (ODS)</div>',
+                    "</div>",
+                    "</div>",
+                    "</div>",
+                    "</div>",
+                    "</div>",
+                ]
+            )
+
         return "".join(filters)
 
     def replace_content(match: Match, content_type: str, current_file: File):
@@ -300,11 +329,11 @@ def on_env(env, config: MkDocsConfig, files: Files):
         else:
             filter_options["ai-act-labels"] = False
 
-        filters = generate_filters(content_type, list, filter_options)
+        filters = generate_filters(content_type, list, filter_options, current_file)
 
         result = "".join(
             [
-                filters,
+                filters,  # Zinnetje en filtervelden/export-knop boven de tabel
                 "<table id='myTable'>",
                 "<thead>",
                 "<tr>",

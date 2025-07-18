@@ -28,6 +28,8 @@ hide:
 Toets en analyseer of de inputvariabelen of risicoindicatoren geschikt zijn voor de beoogde toepassing.
 
 ## Toelichting
+Deze maatregel dekt (een gedeelte van) een eis die vanuit het [advies vanuit de Autoriteit Persoonsgegevens (AP) over geautomatiseerde besluitvorming](https://www.autoriteitpersoonsgegevens.nl/documenten/advies-geautomatiseerde-besluitvorming) wordt gesteld, namelijk dat het risico op discriminatoire verwerkingen is onderzocht en ondervangen.
+
 Analyseer welke variabelen en risicoindicatoren geschikt en wenselijk zijn om te gebruiken als inputdata voor het beoogde algoritme.
 
 !!! note "Opmerking"
@@ -58,7 +60,7 @@ Indien de variabelen niet voldoende worden getoetst op geschikheid bestaat het r
 
 ## Bronnen
 - [Toetsingskader risicoprofilering – Normen tegen discriminatie op grond van ras en nationaliteit, College voor de Rechten van de Mens](../hulpmiddelen/toetsingskader-risicoprofilering.md)
-- [Advies geautomatiseerde besluitvorming, Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/documenten/advies-geautomatiseerde-besluitvorming)
+- [AP-advies geautomatiseerde besluitvorming](https://www.autoriteitpersoonsgegevens.nl/documenten/advies-geautomatiseerde-besluitvorming)
 
 ## Voorbeeld
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

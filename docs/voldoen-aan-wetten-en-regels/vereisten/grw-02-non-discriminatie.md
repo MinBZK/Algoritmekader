@@ -62,9 +62,12 @@ Hiervan is sprake wanneer een ogenschijnlijk neutrale bepaling, maatstaf of hand
 - [Artikel 1 Protocol nr. 12 bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, Rome, 04-11-2000](https://wetten.overheid.nl/jci1.3:c:BWBV0001676&artikel=1&z=2005-04-01&g=2005-04-01)
 - [Artikel 9 Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679)
 - [Artikel 2:4 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=2&afdeling=2.1&artikel=2:4&z=2024-05-01&g=2024-05-01)
+- [Advies artikel 22 AVG en geautomatiseerde selectie-instrumenten - Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/documenten/advies-geautomatiseerde-besluitvorming)
 
 ## Van toepassing op
 <!-- tags-ai-act -->
+
+De Autoriteit Persoonsgegevens (AP) en het College voor de Rechten van de Mens wijzen erop dat algoritmen voor risicoprofilering of risicoselectie getoetst moeten worden op mogelijke discriminatie. De AP stelt in een advies over de inzet van geautomatiseerde risicoselectie bij de behandeling van aanvragen of toezicht dat zulke algoritmen zonder specifieke wettelijke voorziening slechts toegepast mogen worden onder bepaalde voorwaarden. Twee van die voorwaarden zijn dat het risico op discriminatoire verwerkingen is onderzocht en ondervangen, en dat periodiek wordt onderzocht of zich desalniettemin discriminatoire verwerkingen voordoen.
 
 ## Risico
 Het risico bestaat dat het model onwenselijke systematische afwijkingen creëert voor specifieke personen, groepen of andere eenheden, wat kan duiden op directe of indirecte discriminerende effecten van het algoritme.

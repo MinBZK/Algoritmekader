@@ -15,7 +15,7 @@ Tijdens de pilot test je de:
 * prestaties van het algoritme of AI-systeem, door deze opnieuw te [valideren](https://minbzk.github.io/Algoritmekader/levenscyclus/verificatie-en-validatie/)
 * output (resultaten): kunnen gebruikers hier bijvoorbeeld mee werken?
 
-Na de pilot concludeer je of het algoritme of AI-systeem presteert volgens de wensen en verwachtingen. En je besluit of het nodig is om terug te gaan naar te [ontwikkelen](https://minbzk.github.io/Algoritmekader/levenscyclus/ontwikkelen/), om te stoppen en [uit te faseren](https://minbzk.github.io/Algoritmekader/levenscyclus/uitfaseren/) of om verder te implementeren.
+Na de pilot concludeer je of het algoritme of AI-systeem presteert volgens de wensen en verwachtingen. En je besluit of het nodig is om terug te gaan naar het [ontwikkelen](https://minbzk.github.io/Algoritmekader/levenscyclus/ontwikkelen/), om te stoppen en [uit te faseren](https://minbzk.github.io/Algoritmekader/levenscyclus/uitfaseren/) of om verder te implementeren.
 
 ## Implementeren
 Vóór implementatie regel je in elk geval het volgende:

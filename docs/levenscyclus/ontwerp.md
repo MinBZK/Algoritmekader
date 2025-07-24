@@ -5,30 +5,66 @@ hide:
 ---
 
 # Fase 2: Ontwerp
-In de ontwerpfase wordt het conceptuele ontwerp van het algoritme uitgedacht.
-Het is van belang om belangrijke uitgangspunten en beleid, zoals doelarchitectuur en de datastrategie, van de betreffende organisatie meteen te verwerken in het ontwerp en dat het applicatielandschap en de databronnen in beeld wordt gebracht.
-In deze fase worden doorgaans veel werkzaamheden verzet, zoals business- en informatieanalyse, om een goed beeld te krijgen hoe aan de beoogde doelstellingen kan worden voldaan met een passende oplossing.
+In de ontwerpfase schets je ontwerpen voor het algoritme of AI-systeem. Elk ontwerp is een mogelijke oplossing voor het probleem en sluit aan bij de doelen van de opdrachtgever.
 
-Het is goed denkbaar dat meerdere ontwerpen in deze fase tot stand komen voor het te ontwikkelen algoritme.
-Het is van belang om deze ontwerpen te toetsen bij bijvoorbeeld de proceseigenaar, opdrachtgever en gebruiker, maar ook bij informatiebeveiligingsadviseurs, privacy officers, informatiebeheerders, architecten of een ethicus.
-Deze experts kunnen vanuit hun vakgebied een eerste toets doen in hoeverre het ontwerp haalbaar of gewenst is, aansluit bij de gebruikersbehoefte, aan welke vereisten moet worden voldaan of dat er risicoanalyses moeten worden uitgevoerd en een onafhankelijke commissies moet worden betrokken.
+## Taken ontwerpfase
+In deze fase verzet je meestal veel werk om duidelijk te krijgen wat voor oplossing past bij de doelen van de opdrachtgever. Belangrijke taken zijn:
 
-Met deze input kan het ontwerp worden verbeterd en vraagstukken over bijvoorbeeld governance en risicomanagement verder worden uitgewerkt.
-In deze fase kan ook een eerste stap worden gezet om de vereisten te vertalen naar concrete maatregelen, te structureren en te beleggen bij de betrokken experts.
-Als bijvoorbeeld is vastgesteld dat persoonsgegevens noodzakelijkerwijs moeten worden verwerkt en hier een grondslag voor is, dan is het van belang dat voorafgaand aan de dataverkenning en datapreparatie fase voldoende (technische) maatregelen zijn getroffen om de data veilig te verwerken in de beoogde (ontwikkel)omgeving.
+* verwerken van beleid en belangrijke uitgangspunten van de opdrachtgever, zoals doelarchitectuur en datastrategie
+* bestaande applicaties en databronnen op een rij zetten
+* uitvoeren van een businessanalyse en informatieanalyse
 
-Daarnaast dient er in de ontwerpfase ook aandacht besteed te worden aan de succesfactoren van een algoritme.
-Het is belangrijk om in een multidisciplinaire setting te bepalen hoe het algoritme in de praktijk geëvalueerd kan worden en wanneer we kunnen spreken van een rechtvaardig succes.
-Hierbij dient er ook te worden nagedacht over evaluatiemethoden om na te gaan of het algoritme voldoet aan bijvoorbeeld het vereiste van non-discriminatie.
+## Toetsen en verbeteren
+Ontwerpen laat je controleren door een multidisciplinair team. Dit zijn bijvoorbeeld medewerkers in de volgende [rollen](https://minbzk.github.io/Algoritmekader/rollen/):
 
-Nadat een besluit is genomen over het definitieve ontwerp van het algoritme, kan worden gestart met het inrichten van de ontwikkelomgeving (indien nodig), de dataverkenning, datapreparatie.
-Dit besluit betekent dat een akkoord wordt gegeven voor het type algoritme en de beoogde werking.
+* proceseigenaar
+* opdrachtgever
+* gebruiker
+* informatiebeveiligingsadviseur
+* privacy-officer
+* informatiebeheerder
+* architect
+* ethicus
 
-## Vereisten { data-search-exclude }
+Dit soort experts kunnen vanuit hun vakgebied een eerste toets doen:
+
+* Is het ontwerp haalbaar en gewenst?
+* Sluit het ontwerp aan op de behoeftes van gebruikers?
+* Aan welke eisen moet het ontwerp voldoen?
+* Zijn er bepaalde risicoanalyses nodig?
+* Zijn er onafhankelijke commissies nodig?
+
+Op basis van deze informatie verbeter je het ontwerp en werk je vraagstukken uit zoals [algoritmegovernance](https://minbzk.github.io/Algoritmekader/onderwerpen/governance/) en risicomanagement.
+
+## Maatregelen bepalen
+In de ontwerpfase kun je ook starten met het:
+
+* vertalen van vereisten naar concrete maatregelen
+* structureren van deze maatregelen
+* aanwijzen van experts die verantwoordelijk zijn voor deze maatregelen
+
+!!! tip "Tip"
+
+    Maatregelen voor het [veilig verwerken van persoonsgegevens](https://minbzk.github.io/Algoritmekader/onderwerpen/privacy-en-gegevensbescherming/) neem je tijdens de ontwerpfase. Daarna ben je te laat.
+
+## Succesfactoren bepalen
+Besteed aandacht aan de succesfactoren van het algoritme of AI-systeem. Bepaal in elk geval met een multidisciplinair team:
+
+* hoe je het algoritme of AI-systeem evalueert
+* met welke methoden je nagaat of het voldoet aan alle vereisten zoals [non-discriminatie](https://minbzk.github.io/Algoritmekader/onderwerpen/bias-en-non-discriminatie/)
+* wat een 'rechtvaardig succes' is
+
+## Definitief ontwerp
+Uiteindelijk concludeer je welk type algoritme of AI-systeem passend is. En hoe dit zou moeten werken. Hiervoor vraag je akkoord van de opdrachtgever of (gemandateerd) verantwoordelijke. 
+Heeft het ontwerp nog aanpassingen nodig, dan doorloop je opnieuw de fase van [probleemanalyse](https://minbzk.github.io/Algoritmekader/levenscyclus/probleemanalyse/).
+
+Kiest de organisatie een definitief ontwerp, dan ga je verder met [dataverkenning en datapreparatie](https://minbzk.github.io/Algoritmekader/levenscyclus/dataverkenning-en-datapreparatie/).
+
+## Vereisten ontwerpfase { data-search-exclude }
 
 <!-- list_vereisten levenscyclus/ontwerp no-rol no-levenscyclus no-search no-onderwerp -->
 
-## Maatregelen { data-search-exclude }
+## Aanbevolen maatregelen ontwerpfase { data-search-exclude }
 
 <!-- list_maatregelen levenscyclus/ontwerp no-rol no-levenscyclus no-search no-onderwerp -->
 

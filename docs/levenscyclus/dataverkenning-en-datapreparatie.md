@@ -4,27 +4,30 @@ hide:
 - toc
 ---
 # Fase 3: Dataverkenning en datapreparatie
-In deze fase worden relevante datasets geïdentificeerd en wanneer nodig wordt nieuwe data verzameld.
-In deze fase zal ook de ontwikkelomgeving (verder) worden ingericht indien nodig.
-Het is van belang dat voorafgaand aan verzameling is vastgesteld dat de benodigde data mag worden verwerkt en dat de juiste maatregelen worden getroffen, zodra de data kan worden verwerkt.
-Denk hierbij aan het anonimiseren, pseudonimiseren of aggregeren van persoonsgegevens.
-De data zullen vervolgens worden opgeschoond, geanalyseerd en voorbereid voor verdere verwerking.
+In deze fase verzamel en analyseer je de data die nodig zijn voor het ontwikkelen van het algoritme of AI-systeem. Je voert een dataverkenning uit, waarin je onderzoekt welke datasets geschikt zijn. Via datapreparatie maak je deze gegevens bruikbaar.
 
-Het is van belang dat dataverzameling op de juiste manier gebeurt, en dat datasets die gebruikt gaan worden van goede kwaliteit zijn.
-In deze fase is het van belang om de datakwaliteit en eventuele bias in de dataset te onderzoeken.
-Indien er risico's optreden door bijvoorbeeld missende data of niet representatieve data, is het belangrijk om te kijken wat voor effecten dit heeft op het oorspronkelijke ontwerp van het algoritme.
-Dit kan betekenen dat nieuwe keuzes moeten worden gemaakt in het ontwerp en eventueel eerst deze fase van ontwerp (deels) opnieuw moet worden doorlopen.
+## Belangrijke stappen
+Het proces van data onderzoeken en voorbereiden bestaat in elk geval uit deze stappen:
 
-Met voorgaande handelingen wordt het fundament gelegd om het algoritme te kunnen ontwikkelen.
-In de praktijk zal bijvoorbeeld het analyseren van de data niet stoppen na deze fase, maar terugkerend zijn in alle fasen die volgen.
-Als de verzamelde data van voldoende kwaliteit is en de vereiste maatregelen zijn getroffen, dan kan worden gestart met het ontwikkelen van het algoritme.
+1. vaststellen welke data geschikt en beschikbaar zijn
+2. onderzoeken [hoe je deze data rechtmatig gebruikt](https://minbzk.github.io/Algoritmekader/onderwerpen/data/)
+3. verzamelen van de data
+4. opschonen van de data
+5. analyseren van de [datakwaliteit](https://minbzk.github.io/Algoritmekader/onderwerpen/data/)
 
+Ontstaan er risico's door bijvoorbeeld [bias in de dataset](https://minbzk.github.io/Algoritmekader/onderwerpen/bias-en-non-discriminatie/), missende data of niet-representatieve data, dan onderzoek je het effect op het ontwerp van je algoritme of AI-systeem. Mogelijk moet je het [ontwerp aanpassen](https://minbzk.github.io/Algoritmekader/levenscyclus/ontwerp/).
 
-## Vereisten { data-search-exclude }
+Is je data van voldoende kwaliteit en ga je hier rechtmatig mee om, dan kun je het algoritme of AI-systeem (laten) [ontwikkelen](https://minbzk.github.io/Algoritmekader/levenscyclus/ontwikkelen/).
+
+!!! tip "Tip"
+
+    Vanaf deze fase blijf je de data analyseren, ook in alle volgende fases.
+
+## Vereisten dataverkenning en datapreparatie { data-search-exclude }
 
 <!-- list_vereisten levenscyclus/dataverkenning-en-datapreparatie no-rol no-levenscyclus no-search no-onderwerp -->
 
-## Aanbevolen maatregelen { data-search-exclude }
+## Aanbevolen maatregelen dataverkenning en datapreparatie { data-search-exclude }
 
 <!-- list_maatregelen levenscyclus/dataverkenning-en-datapreparatie no-rol no-levenscyclus no-search no-onderwerp -->
 

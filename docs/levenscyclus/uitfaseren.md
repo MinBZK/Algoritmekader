@@ -5,27 +5,35 @@ hide:
 ---
 
 # Fase 8: Uitfaseren
-Als wordt besloten dat het algoritme niet langer nodig is of wordt vervangen door een wezenlijk andere versie, wordt het gearchiveerd en uitgefaseerd.
-Hiermee wordt ervoor gezorgd dat later kan worden gereconstrueerd hoe het algoritme heeft gefunctioneerd en dat gebruikers er geen gebruik meer van kunnen maken.
+In deze fase stop je met het algoritme of AI-systeem. Dit proces heet uitfaseren. Je verwijdert het algoritme of AI-systeem en alle trainingsdata. En je archiveert belangrijke informatie.
 
-Archiveren betekent dat documentatie en eventuele relevante artefacten (zoals logbestanden en de parameters van het model) worden bewaard voor een bepaalde periode.
-Het gaat daarbij ook om informatie over het algoritme, bijvoorbeeld het besluit en onderbouwing waarom het niet meer wordt gebruikt en waarom het in het verleden wel gebruikt werd.
-Archiveren is niet enkel relevant aan het einde van de levenscyclus, maar is ook gedurende het gebruik van het algoritme van belang.
-Er moet tijdig worden vastgesteld welke versies van een model moeten worden gearchiveerd, bijvoorbeeld al tijdens de ontwerpfase.
+## Stoppen met algoritmes of AI
+Je start met uitfaseren wanneer je besluit om te stoppen met een algoritme of AI-systeem. Redenen zijn bijvoorbeeld:
 
-Bij AI-systemen is er in praktijk vaak sprake van hertrainen op nieuwe data, wat het model anders maakt en andere voorspellingen kan doen geven.
-Ook meer eenvoudige algoritmes kunnen gedurende de tijd veranderen en andere voorspellingen geven, bijvoorbeeld door veranderende data of veranderende rekenregels.
-Er moet worden vastgesteld welke versies van een model moeten worden gearchiveerd.
+* Je bent ontevreden over de werking.
+* Het algoritme of AI-systeem is niet langer nodig.
+* Je vervangt het door een totaal andere of nieuwe versie.
 
-Bij uitfaseren wordt het algoritme verwijderd uit de productieomgeving en, na archivering, wordt de trainingsdata uit de ontwikkelomgeving verwijderd.
-Het algoritme is hiermee niet meer te gebruiken door gebruikers.
-Gebruikers moeten hier vooraf over worden geïnformeerd en waar passend, bijvoorbeeld bij impactvolle of hoog risico AI-systemen, worden betrokkenen geïnformeerd over het beëindigen van het gebruik.
+Tijdens de uitfaseerfase zorg je ervoor dat gebruikers het algoritme of AI-systeem niet meer kunnen gebruiken. En je zorgt ervoor dat de organisatie de werking kan reconstrueren. Dit doe je in 4 stappen:
 
-## Vereisten { data-search-exclude }
+1. Informeer gebruikers dat het algoritme of AI-systeem wordt uitgefaseerd. Bij sommige gevoelige impactvolle algoritmes en hoog-risico-AI-systemen kan het ook nuttig zijn om andere betrokkenen te informeren.
+2. Archiveer belangrijke informatie.
+3. Verwijder het algoritme of AI-systeem uit de productieomgeving.
+4. Verwijder de trainingsdata uit de ontwikkelomgeving.
+
+## Archiveren
+Archiveren zorgt ervoor dat je later terug kunt vinden hoe het algoritme werkte en waar het voor werd gebruikt. Je volgt de Archiefwet en bewaart belangrijke stukken voor een bepaalde periode:
+
+* informatie óver het algoritme of AI-systeem, zoals stukken over de doelstelling en ontwikkeling en het besluit om te gaan uitfaseren
+* gegevens (artefacten) die de werking van het algoritme of AI-systeem beschrijven, zoals logbestanden en parameters
+
+Let erop dat de werking van je algoritme of AI-systeem kan veranderen door aanpassingen in de data of rekenregels, of door het opnieuw trainen met nieuwe data. Geef daarom duidelijk aan welke versie je archiveert. Tijdens de [ontwerpfase](https://minbzk.github.io/Algoritmekader/levenscyclus/ontwerp/) heb je hier als het goed is al aandacht aan besteed.
+
+## Vereisten voor uitfasering { data-search-exclude }
 
 <!-- list_vereisten levenscyclus/uitfaseren no-rol no-levenscyclus no-search no-onderwerp -->
 
-## Aanbevolen maatregelen { data-search-exclude }
+## Aanbevolen maatregelen voor uitfasering { data-search-exclude }
 
 <!-- list_maatregelen levenscyclus/uitfaseren no-rol no-levenscyclus no-search no-onderwerp -->
 

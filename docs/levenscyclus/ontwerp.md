@@ -60,6 +60,10 @@ Heeft het ontwerp nog aanpassingen nodig, dan doorloop je opnieuw de fase van [p
 
 Kiest de organisatie een definitief ontwerp, dan ga je verder met [dataverkenning en datapreparatie](https://minbzk.github.io/Algoritmekader/levenscyclus/dataverkenning-en-datapreparatie/).
 
+!!! tip "Tip"
+
+    Denk alvast na over welke versie of versies van het algoritme of AI-systeem je wil archiveren. Door aanpassingen in de data of rekenregels, of door het opnieuw trainen met nieuwe data, kan een algoritme of AI-systeem namelijk veranderen. Als je hier nu al aandacht aan besteed, bespaar je achteraf bij het [uitfaseren](https://minbzk.github.io/Algoritmekader/levenscyclus/uitfaseren/) een hoop uitzoekwerk.
+
 ## Vereisten ontwerpfase { data-search-exclude }
 
 <!-- list_vereisten levenscyclus/ontwerp no-rol no-levenscyclus no-search no-onderwerp -->

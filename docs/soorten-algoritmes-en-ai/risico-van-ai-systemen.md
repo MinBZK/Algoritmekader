@@ -69,7 +69,7 @@ Dit zijn AI-systemen die:
 Zie [AI-verordening, artikel 5](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#d1e2816-1-1).
 
 ## Voldoen aan de AI-verordening
-Als je AI-systeem onder een risicogroep valt, moet je voldoen aan vereisten uit de [AI-verordening](../../ai-verordening/). Bekijk de [tijdlijn met vereisten](../../ai-verordening/tijdlijn-ai-verordening/) of gebruik de <a href="#" onclick="showModal(event, 'beslishulp AI-verordening', {redirectUrl: 'voldoen-aan-wetten-en-regels/vereisten/'});">beslishulp AI-verordening</a>.
+Als je AI-systeem onder een risicogroep valt, moet je voldoen aan vereisten uit de [AI-verordening](../ai-verordening/index.md). Bekijk de [tijdlijn met vereisten](../ai-verordening/tijdlijn-ai-verordening.md) of gebruik de <a href="#" onclick="showModal(event, 'beslishulp AI-verordening', {redirectUrl: 'voldoen-aan-wetten-en-regels/vereisten/'});">beslishulp AI-verordening</a>.
 
 ## Help ons deze pagina te verbeteren
 Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/issues/new/choose) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

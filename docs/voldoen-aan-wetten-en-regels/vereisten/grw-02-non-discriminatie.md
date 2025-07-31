@@ -52,7 +52,7 @@ Overheidsinstanties moeten zich bij het uitvoeren van hun taken onthouden van di
 Wanneer er algoritmes worden gebruikt om selecties te maken van burgers, dienen we te streven naar een gelijke behandeling van personen of groepen ten opzichte van andere personen in een vergelijkbare situatie.
 
 Hierbij is het belangrijk te beseffen dat discriminatie ook op indirecte wijze kan ontstaan.
-Hiervan is sprake wanneer een ogenschijnlijk neutrale bepaling, maatstaf of handelwijze personen met een beschermd persoonskenmerk in vergelijking met andere personen in het bijzonder benadeelt, tenzij hiervoor een objectieve rechtvaardiging bestaat. 
+Hiervan is sprake wanneer een ogenschijnlijk neutrale bepaling, maatstaf of handelwijze personen met een beschermd persoonskenmerk in vergelijking met andere personen in het bijzonder benadeelt, tenzij hiervoor een objectieve rechtvaardiging bestaat.
 
 ## Bronnen
 - [Artikel 1 Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=1&z=2023-02-22&g=2023-02-22)

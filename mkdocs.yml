@@ -38,7 +38,7 @@ nav:
          - soorten-algoritmes-en-ai/generatieve-ai.md
          - soorten-algoritmes-en-ai/definities.md
     - Onderwerpen:
-        # - Overzicht: onderwerpen/index.md
+        - onderwerpen/index.md
         - ... | onderwerpen/*.md
     - Levenscyclus:
         - levenscyclus/index.md
@@ -53,6 +53,7 @@ nav:
         - levenscyclus/monitoring-en-beheer.md
         - levenscyclus/uitfaseren.md
     - Rollen:
+        - rollen/index.md
         - ... | rollen/*.md
     - Voldoen aan wetten en regels:
         - Overzicht: voldoen-aan-wetten-en-regels/index.md
@@ -137,6 +138,7 @@ plugins:
 hooks:
     - src/overrides/hooks/tags.py
     - src/overrides/hooks/lists.py
+    - src/overrides/hooks/definities.py
 
 # Link naar GitHub repo
 repo_url: https://github.com/MinBZK/Algoritmekader

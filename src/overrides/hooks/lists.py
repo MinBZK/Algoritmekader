@@ -95,7 +95,7 @@ def _render_rol_filter(file_list: List[File], filter_options: Dict[str, bool]) -
     filter_html = [
         '<div class="filter-item filter-item--roles">',
         f'<label for="{filter_id}">Rollen</label>',
-        f'<select id="{filter_id}" class="js-example-basic-multiple filter-item__select" name="states[]" multiple="multiple" data-placeholder="Selecteer rollen" data-filter-column="rol">',
+        f'<select id="{filter_id}" class="js-example-basic-multiple filter-item__select" name="states[]" multiple="multiple" data-placeholder="" data-filter-column="rol">',
     ]
     filter_html.extend(f'<option value="{rol}">{rol}</option>' for rol in rollen)
     filter_html.extend(['</select>', '</div>'])
@@ -112,7 +112,7 @@ def _render_levenscyclus_filter(file_list: List[File], filter_options: Dict[str,
     filter_html = [
         '<div class="filter-item filter-item--levenscyclus">',
         f'<label for="{filter_id}">Levenscyclus</label>',
-        f'<select id="{filter_id}" class="js-example-basic-multiple filter-item__select" name="states[]" multiple="multiple" data-placeholder="Selecteer fases" data-filter-column="levenscyclus">',
+        f'<select id="{filter_id}" class="js-example-basic-multiple filter-item__select" name="states[]" multiple="multiple" data-placeholder="" data-filter-column="levenscyclus">',
     ]
     filter_html.extend(f'<option value="{lc}">{lc}</option>' for lc in levenscyclus)
     filter_html.extend(['</select>', '</div>'])
@@ -129,7 +129,7 @@ def _render_onderwerp_filter(file_list: List[File], filter_options: Dict[str, bo
     filter_html = [
         '<div class="filter-item filter-item--onderwerp">',
         f'<label for="{filter_id}">Onderwerpen</label>',
-        f'<select id="{filter_id}" class="js-example-basic-multiple filter-item__select" name="subjects[]" multiple="multiple" data-placeholder="Selecteer onderwerpen" data-filter-column="onderwerp">',
+        f'<select id="{filter_id}" class="js-example-basic-multiple filter-item__select" name="subjects[]" multiple="multiple" data-placeholder="" data-filter-column="onderwerp">',
     ]
     filter_html.extend(f'<option value="{onderwerp}">{onderwerp}</option>' for onderwerp in onderwerpen)
     filter_html.extend(['</select>', '</div>'])
@@ -170,7 +170,7 @@ def _render_wetcode_filter(file_list: List[File], filter_options: Dict[str, bool
     filter_html = [
         '<div class="filter-item filter-item--wetcode">',
         f'<label for="{filter_id}">Wetgeving</label>',
-        f'<select id="{filter_id}" class="js-example-basic-multiple filter-item__select" name="wetcodes[]" multiple="multiple" data-placeholder="Selecteer wetgeving" data-filter-column="wetcode">',
+        f'<select id="{filter_id}" class="js-example-basic-multiple filter-item__select" name="wetcodes[]" multiple="multiple" data-placeholder="" data-filter-column="wetcode">',
     ]
     
     for code in sorted_codes:
@@ -216,6 +216,14 @@ def get_column_config() -> List[ColumnConfig]:
     Either remove the ColumnConfig entry or set default_enabled=False
     
     CURRENT COLUMN CONFIGURATION:
+    
+    DEFAULT (MAATREGELEN):
+    1. Title - De naam van de maatregel (geen filter)
+    2. Rollen - Toont rollen chips + filter  
+    3. Levenscyclus - Toont levenscyclus chips + filter
+    4. Onderwerpen - Toont onderwerp chips + filter
+    
+    VEREISTEN:
     1. Title - De naam van de vereiste (geen filter)
     2. Wetgeving - Toont wet-code (AIA, AVG, etc.) met tooltip voor volledige naam + filter
     3. Rollen - Toont rollen chips + filter  
@@ -252,6 +260,22 @@ def get_column_config() -> List[ColumnConfig]:
     - render_cell: function to render table cell content
     - render_filter: optional function to render filter UI (None = no filter)
     - default_enabled: whether column is shown by default (True/False)
+    """
+    return [
+        ColumnConfig("title", "Title", _render_title_cell),
+        ColumnConfig("rol", "Rollen", _render_rol_cell, _render_rol_filter),
+        ColumnConfig("levenscyclus", "Levenscyclus", _render_levenscyclus_cell, _render_levenscyclus_filter),
+        ColumnConfig("onderwerp", "Onderwerpen", _render_onderwerp_cell, _render_onderwerp_filter),
+    ]
+
+
+def get_vereisten_column_config() -> List[ColumnConfig]:
+    """
+    COLUMN CONFIGURATION FOR VEREISTEN TABLE
+    ========================================
+    
+    Vereisten tables include the wetcode column to show legislation references.
+    This configuration is used specifically for vereisten tables.
     """
     return [
         ColumnConfig("title", "Title", _render_title_cell),
@@ -318,7 +342,11 @@ def _create_table_row_2(
     column_config: Optional[List[ColumnConfig]] = None,
 ) -> str:
     if column_config is None:
-        column_config = get_column_config()
+        # Determine content type from file path to use correct column config
+        if "vereisten/" in file.src_path:
+            column_config = get_vereisten_column_config()
+        else:
+            column_config = get_column_config()
 
     # AI act label fields for data attributes
     ai_act_labels = {
@@ -376,11 +404,17 @@ def on_env(env, config: MkDocsConfig, files: Files):
         column_config: Optional[List[ColumnConfig]] = None,
     ):
         if column_config is None:
-            column_config = get_column_config()
+            column_config = get_vereisten_column_config() if content_type == "vereisten" else get_column_config()
             
         filters = []
         filters.append('<form autocomplete="off" onsubmit="return false;">')
-        filters.append('<div class="filter-container info">')
+        
+        # Add special class for vereisten to enable compact layout
+        container_class = "filter-container info"
+        if content_type == "vereisten":
+            container_class += " vereisten-filters"
+        
+        filters.append(f'<div class="{container_class}">')
 
         filters.append('<input type="hidden" id="labelsInput"></input>')
 
@@ -398,8 +432,9 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 filter_html = column.render_filter(list, filter_options)
                 filters.extend(filter_html)
 
+        # AI-act labels info inside the filter container (blauwe box)
         if filter_options.get("ai-act-labels", False):
-            filters.append("<div id='ai-act-labels-info'>")
+            filters.append("<div id='ai-act-labels-info' style='margin-top: 12px; padding-top: 12px; border-top: 1px solid #e5e7eb;'>")
             filters.append(
                 "<div id='ai-act-info-no-labels'><strong><a href='#' onclick=\"showModal(event, 'ai-act-labels');\">Kies je AI-verordeningprofiel</a> of <a href='#' onclick=\"showModal(event, 'beslishulp AI-verordening');\">gebruik de beslishulp AI-verordening</a> om vereisten te filteren.</strong></div>"
             )
@@ -408,8 +443,8 @@ def on_env(env, config: MkDocsConfig, files: Files):
             )
             filters.append("</div>")
 
-        filters.append("</form>")
         filters.append("</div>")
+        filters.append("</form>")
 
         # Conditional excel export
         if should_show_export(current_file) and content_type in [
@@ -454,7 +489,8 @@ def on_env(env, config: MkDocsConfig, files: Files):
         ]
 
         # Generate filter_options dynamically based on column configuration
-        column_config = get_column_config()
+        # Use different column config based on content type
+        column_config = get_vereisten_column_config() if content_type == "vereisten" else get_column_config()
         filter_options = {
             "search": True,
             "ai-act-labels": False,  # Default to False

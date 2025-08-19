@@ -17,8 +17,9 @@
 *[capaciteiten met een grote impact]: Capaciteiten die overeenkomen met of groter zijn dan de capaciteiten die worden opgetekend bij de meest geavanceerde AI-modellen voor algemene doeleinden.
 *[CE-markering]: Een markering waarmee een aanbieder aangeeft dat een AI-systeem in overeenstemming is met de voorschriften van hoofdstuk III, afdeling 2, en andere toepasselijke harmonisatiewetgeving van de Unie, die in het aanbrengen ervan voorzien.
 *[conformiteitsbeoordeling]: Het proces waarbij de naleving wordt aangetoond van de voorschriften van hoofdstuk III, afdeling 2 van de AI-Verordening in verband met een AI-systeem met een hoog risico.
+*[DAT]: Databankenwet.
 *[deepfake]: Door AI gegenereerd of gemanipuleerd beeld-, audio- of videomateriaal dat een gelijkenis vertoont met bestaande personen, voorwerpen, plaatsen, entiteiten of gebeurtenissen, en door een persoon ten onrechte voor authentiek of waarheidsgetrouw zou worden aangezien.
-*[direct onderscheid]: Indien een persoon op een andere wijze wordt behandeld dan een ander in een vergelijkbare situatie wordt, is of zou worden behandeld, op grond van godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat.
+*[direct onderscheid]: Indien een persoon op een andere wijze wordt behandeld dan een ander in een vergelijkbare situatie wordt, is of zou worden behandeld, op grond van godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid or burgerlijke staat.
 *[directe discriminatie]: De ongelijke behandeling van een persoon of groep personen ten opzichte van andere personen in een vergelijkbare situatie, op grond van een beschermd persoonskenmerk (discriminatiegrond).
 *[discriminatiegrond]: Beschermde persoonskenmerken op basis waarvan het maken van onderscheid tussen personen verboden is. Bijvoorbeeld: ras, nationaliteit, religie, geslacht, seksuele gerichtheid, handicap of chronische ziekte.
 *[distributeur]: Een andere natuurlijke persoon of rechtspersoon in de toeleveringsketen dan de aanbieder of de importeur, die een AI-systeem in de Unie op de markt aanbiedt.
@@ -76,13 +77,21 @@
 *[veiligheidscomponent]: Een component van een product of systeem die een veiligheidsfunctie voor dat product of systeem vervult of waarvan het falen of gebrekkig functioneren de gezondheid en veiligheid van personen of eigendom in gevaar brengt.
 *[verwerker]: Een .. rechtspersoon, een overheidsinstantie, een dienst of een ander orgaan die/dat ten behoeve van de verwerkingsverantwoordelijke persoonsgegevens verwerkt.
 *[verwerkersverantwoordelijke]: Een rechtspersoon of overheidsinstantie die, alleen of samen met anderen, het doel van en de middelen voor de verwerking van persoonsgegevens vaststelt.
+*[WOO]: Wet open overheid.
 *[zwevendekommabewerking of floating-point operation (FLOP)]: Elke wiskundige bewerking of toewijzing met zwevendekommagetallen, die een subset vormen van de reële getallen die gewoonlijk op computers worden gerepresenteerd door een geheel getal met een vaste precisie, geschaald door een gehele exponent van een vaste basis.
-*[AI-systeem]: Een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen.
+*[AIA]: AI-verordening.
+*[AI-systeem]: Een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen or beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen.
 *[algoritme]: Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden.
+*[ARC]: Archiefwet.
+*[AUT]: Auteursrecht.
 *[AVG]: Algemene Verordening Gegevensbescherming.
+*[AWB]: Algemene wet bestuursrecht.
 *[Awb]: Algemene wet bestuursrecht.
 *[Besluit (Awb)]: Een schriftelijke beslissing van een bestuursorgaan, inhoudende een publiekrechtelijke rechtshandeling.
+*[BIO]: Baseline Informatiebeveiliging Overheid.
+*[BZK]: BZK/Algoritmeregister.
 *[governance]: Governance gaat over de inrichting van een organisatie en daar bijbehorende processen, regels, gebruiken en bijbehorende verantwoordelijkheden.
+*[GRW]: Grondwet.
 *[profilering]: Elke vorm van geautomatiseerde verwerking van persoonsgegevens waarbij aan de hand van persoonsgegevens bepaalde persoonlijke aspecten van een natuurlijke persoon worden geëvalueerd, met name met de bedoeling zijn beroepsprestaties, economische situatie, gezondheid, persoonlijke voorkeuren, interesses, betrouwbaarheid, gedrag, locatie of verplaatsingen te analyseren of te voorspellen. Het gaat om een verwerking door een individu met gebruikmaking van diens persoonsgegevens in te delen in een categorie (profiel), vaak in verband met aan dat profiel toegedichte risico's.
 *[rechtsgevolg]: Een verandering in het geheel van de rechten, aanspraken, bevoegdheden en verplichtingen van één of meer natuurlijke personen of rechtspersonen.
 *[risico]: De combinatie van de kans op schade en de ernst van die schade.

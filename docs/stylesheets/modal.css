@@ -81,7 +81,7 @@
 }
 
 .info {
-    background-color: #e5f1f9;
+    /* background-color: #e5f1f9; - removed, now handled by wrapper */
     padding: 1em;
     margin-bottom: 1em;
 }

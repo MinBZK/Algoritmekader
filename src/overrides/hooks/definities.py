@@ -27,6 +27,14 @@ def on_pre_build(config: MkDocsConfig) -> None:
         print(f"Warning: {begrippenlijst_path} not found")
         return
 
+    # Check if regeneration is needed (source is newer than target or target doesn't exist)
+    if os.path.exists(definities_path):
+        source_mtime = os.path.getmtime(begrippenlijst_path)
+        target_mtime = os.path.getmtime(definities_path)
+        if source_mtime <= target_mtime:
+            # Target is up to date, no need to regenerate
+            return
+
     try:
         # Read begrippenlijst.md
         with open(begrippenlijst_path, "r", encoding="utf-8") as f:

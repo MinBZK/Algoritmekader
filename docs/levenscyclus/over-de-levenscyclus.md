@@ -13,15 +13,17 @@ Om algoritmes op een verantwoorde manier te gebruiken, zul je op de juiste momen
 
 ## Fases van de levenscyclus
 
-0. [Organisatieverantwoordelijkheden](organisatieverantwoordelijkheden.md)
-1. [Probleemanalyse](probleemanalyse.md)
-2. [Ontwerp](ontwerp.md)
-3. [Dataverkenning en datapreparatie](dataverkenning-en-datapreparatie.md)
-4. [Ontwikkelen](ontwikkelen.md)
-5. [Verificatie en validatie](verificatie-en-validatie.md)
-6. [Implementeren](implementatie.md)
-7. [Monitoring en beheer](monitoring-en-beheer.md)
-8. [Uitfaseren](uitfaseren.md)
+<ol start="0">
+<li value="0"><a href="../organisatieverantwoordelijkheden">Organisatieverantwoordelijkheden</a></li>
+<li><a href="../probleemanalyse">Probleemanalyse</a></li>
+<li><a href="../ontwerp">Ontwerp</a></li>
+<li><a href="../dataverkenning-en-datapreparatie">Dataverkenning en datapreparatie</a></li>
+<li><a href="../ontwikkelen">Ontwikkelen</a></li>
+<li><a href="../verificatie-en-validatie">Verificatie en validatie</a></li>
+<li><a href="../implementatie">Implementeren</a></li>
+<li><a href="../monitoring-en-beheer">Monitoring en beheer</a></li>
+<li><a href="../uitfaseren">Uitfaseren</a></li>
+</ol>
 
 ## Systeemniveau en organisatieniveau
 De levenscyclus kent 2 verschillende niveau's:

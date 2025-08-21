@@ -5,7 +5,7 @@
 This system makes table filters **completely flexible** and **configuration-driven**. No more hardcoded column orders, element IDs, or JavaScript modifications when you want to:
 
 - ✅ Change column order
-- ✅ Add new columns  
+- ✅ Add new columns
 - ✅ Remove columns
 - ✅ Add new filter types
 - ✅ Modify filter behavior
@@ -44,7 +44,7 @@ Just reorder entries in `get_column_config()`:
 ```python
 return [
     ColumnConfig("title", "Title", _render_title_cell),           # Now first
-    ColumnConfig("onderwerp", "Onderwerpen", _render_onderwerp_cell, _render_onderwerp_filter), # Now second  
+    ColumnConfig("onderwerp", "Onderwerpen", _render_onderwerp_cell, _render_onderwerp_filter), # Now second
     ColumnConfig("rol", "Rollen", _render_rol_cell, _render_rol_filter),                        # Now third
     ColumnConfig("levenscyclus", "Levenscyclus", _render_levenscyclus_cell, _render_levenscyclus_filter),
 ]
@@ -67,7 +67,7 @@ def _render_priority_filter(file_list: List[File], filter_options: Dict[str, boo
     priorities = sorted(set(p for file in file_list for p in file.page.meta.get("priority", [])))
     if not priorities:
         return []
-    
+
     filter_id = "filter-priority"
     filter_html = [
         '<div class="filter-item">',
@@ -115,7 +115,7 @@ if filter_options.get("special-filter", False):
 ```python
 ColumnConfig(
     key="unique_id",           # Used in filter_options and data-filter-column
-    title="Display Name",      # Column header text  
+    title="Display Name",      # Column header text
     render_cell=function,      # Function to render cell content
     render_filter=function,    # Optional: Function to render filter UI
     default_enabled=True       # Whether shown by default
@@ -145,7 +145,7 @@ ColumnConfig(
 ## 🐛 Troubleshooting
 
 ### Problem: Filters not working
-**Check:** 
+**Check:**
 - Column key matches between `ColumnConfig` and `data-filter-column`
 - JavaScript console for mapping errors
 - HTML contains `data-column-mapping` attribute
@@ -178,18 +178,18 @@ def get_column_config(content_type: str = None) -> List[ColumnConfig]:
         ColumnConfig("title", "Title", _render_title_cell),
         ColumnConfig("rol", "Rollen", _render_rol_cell, _render_rol_filter),
     ]
-    
+
     # Add special column only for vereisten
     if content_type == "vereisten":
         columns.append(ColumnConfig("compliance", "Compliance", _render_compliance_cell))
-    
+
     return columns
 ```
 
 ### Performance Considerations
 
 - Column mapping is cached in JavaScript
-- Filter elements are discovered once on initialization  
+- Filter elements are discovered once on initialization
 - No DOM queries during actual filtering (uses cached references)
 
 ## 📋 Migration Notes

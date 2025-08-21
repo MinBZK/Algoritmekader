@@ -1,12 +1,12 @@
 /**
  * FLEXIBLE FILTERING SYSTEM
  * =========================
- * 
+ *
  * This JavaScript automatically adapts to column configuration changes in Python.
  * It reads column mapping from data-attributes and creates flexible filtering.
- * 
+ *
  * NO HARDCODED COLUMN INDICES OR ELEMENT IDS!
- * 
+ *
  * How it works:
  * 1. Python injects column mapping via data-column-mapping attribute
  * 2. JavaScript reads this mapping to know which columns exist and their positions
@@ -33,25 +33,25 @@ document$.subscribe(function () {
  */
 function initializeFlexibleFiltering() {
     console.log("Initializing flexible filtering system...");
-    
+
     // Step 1: Read column mapping from Python-generated data
     if (!readColumnMapping()) {
         console.warn("No column mapping found, filtering not available");
         return;
     }
-    
+
     // Step 2: Initialize filter elements
     initializeFilterElements();
-    
+
     // Step 3: Apply any special ordering (e.g., levenscyclus)
     applySpecialOrdering();
-    
+
     // Step 4: Initialize Choices.js for multi-select filters
     initializeChoices();
-    
+
     // Step 5: Attach event listeners
     attachFilterListeners();
-    
+
     console.log("Flexible filtering system initialized:", {
         columnMapping,
         filterElements
@@ -67,13 +67,13 @@ function readColumnMapping() {
         console.warn("Table container not found");
         return false;
     }
-    
+
     const mappingData = container.getAttribute('data-column-mapping');
     if (!mappingData) {
         console.warn("Column mapping data not found");
         return false;
     }
-    
+
     try {
         columnMapping = JSON.parse(mappingData);
         console.log("Column mapping loaded:", columnMapping);
@@ -89,10 +89,10 @@ function readColumnMapping() {
  */
 function initializeFilterElements() {
     filterElements = {};
-    
+
     // Find all filter elements by their data-filter-column attribute
     const filters = document.querySelectorAll('[data-filter-column]');
-    
+
     filters.forEach(element => {
         const columnKey = element.getAttribute('data-filter-column');
         if (columnKey && columnMapping[columnKey]) {
@@ -103,7 +103,7 @@ function initializeFilterElements() {
             console.log(`Registered filter for column '${columnKey}' at index ${columnMapping[columnKey].index}`);
         }
     });
-    
+
     // Also register search input if it exists
     const searchInput = document.getElementById('filterInput');
     if (searchInput) {
@@ -129,7 +129,7 @@ function applySpecialOrdering() {
  */
 function setLevenscyclusOrder(selectElement) {
     if (!selectElement) return;
-    
+
     // Define the desired order for levenscyclus items
     const desiredOrder = [
         'organisatieverantwoordelijkheden',
@@ -208,7 +208,7 @@ function attachFilterListeners() {
     Object.keys(filterElements).forEach(columnKey => {
         const filterInfo = filterElements[columnKey];
         const element = filterInfo.element;
-        
+
         if (element) {
             // Use 'input' for text inputs and 'change' for selects
             const eventType = element.tagName.toLowerCase() === 'input' ? 'input' : 'change';
@@ -221,7 +221,7 @@ function attachFilterListeners() {
 /**
  * FLEXIBLE FILTERING FUNCTION
  * ============================
- * 
+ *
  * This function automatically adapts to any column configuration.
  * No more hardcoded column indices!
  */
@@ -242,11 +242,11 @@ function filterTable() {
 
     // Collect all filter values
     const filterValues = {};
-    
+
     Object.keys(filterElements).forEach(columnKey => {
         const filterInfo = filterElements[columnKey];
         const element = filterInfo.element;
-        
+
         if (element) {
             if (element.tagName.toLowerCase() === 'input') {
                 // Text search
@@ -265,12 +265,12 @@ function filterTable() {
     // Get labels for AI Act filtering (if exists)
     const labelsInput = document.getElementById("labelsInput");
     let labelsToFilterOn = [];
-    
+
     if (labelsInput) {
         const labelsInputValues = labelsInput.value.split(",")
             .map(item => item.trim())
             .filter(item => item !== "");
-        
+
         if (labelsInputValues.length > 0) {
             labelsToFilterOn.push(...labelsInputValues);
             // Apply label mapper logic if available
@@ -289,16 +289,16 @@ function filterTable() {
     for (let i = 1; i < rows.length; i++) { // Skip header row
         const row = rows[i];
         const cells = row.getElementsByTagName("td");
-        
+
         let showRow = true;
-        
+
         // Check each filter
         Object.keys(filterValues).forEach(columnKey => {
             if (!showRow) return; // Already hidden
-            
+
             const filterValue = filterValues[columnKey];
             const columnIndex = filterElements[columnKey].columnIndex;
-            
+
             if (columnKey === 'search') {
                 // Search across all visible columns
                 if (filterValue) {
@@ -306,7 +306,7 @@ function filterTable() {
                         .map(cell => cell.textContent || cell.innerText)
                         .join(' ')
                         .toUpperCase();
-                    
+
                     if (allText.indexOf(filterValue) === -1) {
                         showRow = false;
                     }
@@ -314,7 +314,7 @@ function filterTable() {
             } else if (columnIndex !== null && columnIndex < cells.length) {
                 // Filter specific column
                 const cellText = (cells[columnIndex].textContent || cells[columnIndex].innerText).toUpperCase();
-                
+
                 if (Array.isArray(filterValue)) {
                     // Multi-select: all selected values must be present in the cell
                     if (filterValue.length > 0) {
@@ -340,11 +340,11 @@ function filterTable() {
                 .map(item => item.trim())
                 .filter(item => item !== "");
 
-            let labelMatch = labelMatchConditions === "" || 
-                            (typeof evaluateLabelExpression !== 'undefined' && 
+            let labelMatch = labelMatchConditions === "" ||
+                            (typeof evaluateLabelExpression !== 'undefined' &&
                              evaluateLabelExpression(labelMatchConditions, labelsToFilterOn));
-            
-            let uitzonderingMatch = typeof anyExpressionMatches !== 'undefined' && 
+
+            let uitzonderingMatch = typeof anyExpressionMatches !== 'undefined' &&
                                    anyExpressionMatches(uitzonderingMatchConditions, labelsToFilterOn);
 
             if (uitzonderingMatch && labelMatch) {

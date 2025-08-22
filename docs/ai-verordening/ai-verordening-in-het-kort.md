@@ -125,6 +125,7 @@ Wil je de regels uit de AI-verordening overzichtelijk bekijken? De Rijksoverheid
 
 ### Hulpmiddelen implementatie AI-verordening
 De Rijksoverheid ontwikkelt voortdurend [instrumenten en hulpmiddelen om bij de implementatie van de AI-verordening te ondersteunen](https://aienalgoritmes.pleio.nl/wiki/view/6e0e62ea-b3bc-4a95-8ba7-59672e9ffd0d/ai-verordening-hulpmiddelen-implementatie). Op dit moment vindt u via deze link:
+
 * Een handreiking om te bepalen of iets een AI-systeem is volgens de AI-verordening
 * Een factsheet over de AI-verordening voor bestuurders
 * Een factsheet over AI-geletterdheid

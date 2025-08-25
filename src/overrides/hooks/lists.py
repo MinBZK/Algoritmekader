@@ -74,8 +74,8 @@ def _render_wetcode_cell(file: File, config: MkDocsConfig, current_file: File) -
     wet_code = vereiste_id.split("-")[0] if vereiste_id else ""
     wet_code_upper = wet_code.upper()
 
-    # Keep these as abbreviations
-    keep_abbreviated = {"AVG", "BIO", "BZK", "WOO"}
+    # Keep these as abbreviations with hover
+    keep_abbreviated = {"AVG", "BIO", "BZK", "WOO", "AWB"}
 
     abbreviations = _load_abbreviations(config)
 
@@ -85,8 +85,8 @@ def _render_wetcode_cell(file: File, config: MkDocsConfig, current_file: File) -
             # Show abbreviation with tooltip
             return f'<td><abbr title="{definition}">{wet_code_upper}</abbr></td>'
         else:
-            # Show full name with tooltip showing abbreviation
-            return f'<td><abbr title="{wet_code_upper}">{definition}</abbr></td>'
+            # Show full name without hover
+            return f"<td>{definition}</td>"
     else:
         return f"<td>{wet_code_upper}</td>"
 

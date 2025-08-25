@@ -76,7 +76,7 @@ Hoe moet die regel geïnterpreteerd worden?
 ## Bronnen
 <!-- Hier staan, als lijstje, de bronnen van de vereiste. Liefst worden hier de exacte artikelen genoemd uit de betreffende wet, inclusief een link naar de wet. -->
 - (denk aan de extra enter vóór en na een lijstje met koppeltekens).
-- [Artikel 12345, Voorbeeldwet](www.url van wetsartikel.nl)
+- [Artikel 12345, Voorbeeldwet](url van wetsartikel)
 
 ## Van toepassing op
 <!-- Onderstaande titel Van toepassing op, en de code met tags-ai-act laten staan, dit is nodig voor het functioneren van de website. Hier komen de goede labels te staan, afhankelijk van wat er in de metadata is aangegeven bij de verschillende AI-Verordening labels / profielen (zie hierboven). -->

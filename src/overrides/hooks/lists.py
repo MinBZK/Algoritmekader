@@ -233,11 +233,20 @@ def _render_wetcode_filter(
         f'<select id="{filter_id}" class="js-example-basic-multiple filter-item__select" name="wetcodes[]" multiple="multiple" data-placeholder="" data-filter-column="wetcode">',
     ]
 
+    # Show these as full names only (no abbreviation prefix)
+    show_full_name_only = {"aia", "grw"}
+    
     for code in sorted_codes:
         display_name = wet_mapping.get(code, code.upper())
-        filter_html.append(
-            f'<option value="{code.upper()}">{code.upper()} - {display_name}</option>'
-        )
+        
+        if code in show_full_name_only:
+            # Show only full name, no abbreviation
+            filter_html.append(f'<option value="{code.upper()}">{display_name}</option>')
+        else:
+            # Show abbreviation + full name for all others
+            filter_html.append(
+                f'<option value="{code.upper()}">{code.upper()} - {display_name}</option>'
+            )
 
     filter_html.extend(["</select>", "</div>"])
     return filter_html

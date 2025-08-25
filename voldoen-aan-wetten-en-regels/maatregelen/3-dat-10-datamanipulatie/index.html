@@ -236,13 +236,6 @@
   
     
     
-      
-  
-  
-  
-  
-    
-    
       <li class="md-tabs__item">
         <a href="../../../onderwerpen/" class="md-tabs__link">
           
@@ -254,9 +247,6 @@
 
         </a>
       </li>
-    
-  
-
     
   
 
@@ -290,13 +280,6 @@
   
     
     
-      
-  
-  
-  
-  
-    
-    
       <li class="md-tabs__item">
         <a href="../../../rollen/" class="md-tabs__link">
           
@@ -308,9 +291,6 @@
 
         </a>
       </li>
-    
-  
-
     
   
 
@@ -486,6 +466,10 @@
     
       
         
+          
+        
+      
+        
       
     
     
@@ -502,10 +486,6 @@
     <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
       
         
-  
-  
-  
-    
   
   
   
@@ -528,8 +508,6 @@
         <span class="md-nav__icon md-icon"></span>
       
     </a>
-  
-
   
 
       
@@ -624,6 +602,10 @@
     
       
         
+          
+        
+      
+        
       
     
     
@@ -640,10 +622,6 @@
     <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
       
         
-  
-  
-  
-    
   
   
   
@@ -666,8 +644,6 @@
         <span class="md-nav__icon md-icon"></span>
       
     </a>
-  
-
   
 
       
@@ -991,13 +967,13 @@
 <p>Manipulatie van data wordt een “data poisoning” aanval genoemd <sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup> <sup id="fnref:2"><a class="footnote-ref" href="#fn:2">2</a></sup> <sup id="fnref:3"><a class="footnote-ref" href="#fn:3">3</a></sup>. Een kwaadwillende kan op verschillende manieren te werk gaan:</p>
 <ul>
 <li>Bewust verkeerde informatie aan de dataset toevoegen. Dit is bijvoorbeeld mogelijk door als aanvaller zelf een foutieve dataset beschikbaar te stellen. Controleer daarom goed of een afgenomen dataset de kenmerken heeft die je verwacht. Daarnaast kun je ook nog verifiëren of bijvoorbeeld het proces waarmee de dataset vergaard is op de juiste manier is uitgevoerd. Tot slot is het verstandig om te voorkomen dat de dataset afhankelijk is van een enkele bron.</li>
-<li>Een aanvaller kan een bestaande dataset aanpassen, door bijvoorbeeld labels om te draaien. In dit geval moet een aanvaller toegang krijgen tot de locatie van de dataset. Bescherming hiertegen begint met algemene beveiligingsmaatregelen, bijvoorbeeld zoals beschreven in de <a href="../../hulpmiddelen/BIO/">BIO</a>. Daarnaast moet er ook gekeken worden naar het voorkomen van een insider aanval. Dit kan door selectief te zijn in het verlenen van toegang tot de locatie van de data en bijvoorbeeld het toepassen van een vier-ogen principe.</li>
+<li>Een aanvaller kan een bestaande dataset aanpassen, door bijvoorbeeld labels om te draaien. In dit geval moet een aanvaller toegang krijgen tot de locatie van de dataset. Bescherming hiertegen begint met algemene beveiligingsmaatregelen, bijvoorbeeld zoals beschreven in de <a href="../../hulpmiddelen/BIO/"><abbr title="Baseline Informatiebeveiliging Overheid.">BIO</abbr></a>. Daarnaast moet er ook gekeken worden naar het voorkomen van een insider aanval. Dit kan door selectief te zijn in het verlenen van toegang tot de locatie van de data en bijvoorbeeld het toepassen van een vier-ogen principe.</li>
 <li>In lijn met het aanpassen van de dataset kan een aanvaller ook een deel van de dataset verwijderen. Dit is naar verwachting makkelijker te realiseren dan het selectief aanpassen van de data. Door bijvoorbeeld alle data over een bepaalde groep personen uit de dataset te verwijderen functioneert het model minder goed voor die groep. Controleer daarom of de dataset waarmee uiteindelijk getraind wordt precies hetzelfde is als de origineel bedoelde data. Dit kan bijvoorbeeld door middel van een handtekening die geverifieerd moet worden.</li>
 </ul>
-<p>Op deze manieren kan een aanvaller een model slecht laten functioneren, of alleen fouten laten maken op specifiek gekozen invoerwaarden. Een aanvaller kan de <abbr title="data die worden gebruikt voor het trainen van een AI-systeem door de leerbare parameters hiervan aan te passen">trainingsdata</abbr> zo beïnvloeden dat nummerborden met een stip altijd foutief gelezen worden, waardoor criminelen kentekencontroles kunnen ontwijken. In dit geval wordt ook wel gesproken over een <a href="../4-owk-09-adversarial-aanvallen/#backdoor">“backdoor” aanval</a>.</p>
+<p>Op deze manieren kan een aanvaller een model slecht laten functioneren, of alleen fouten laten maken op specifiek gekozen invoerwaarden. Een aanvaller kan de <abbr title="Data die worden gebruikt voor het trainen van een AI-systeem door de leerbare parameters hiervan aan te passen.">trainingsdata</abbr> zo beïnvloeden dat nummerborden met een stip altijd foutief gelezen worden, waardoor criminelen kentekencontroles kunnen ontwijken. In dit geval wordt ook wel gesproken over een <a href="../4-owk-09-adversarial-aanvallen/#backdoor">“backdoor” aanval</a>.</p>
 <h3 id="adversarial-training">Adversarial training</h3>
-<p>Daarnaast kan het principe van <a href="https://arxiv.org/abs/1611.01236">adversarial training</a> worden toegepast door zelf bewust foutieve invoerwaarden aan de <abbr title="data die worden gebruikt voor het trainen van een AI-systeem door de leerbare parameters hiervan aan te passen">trainingsdata</abbr> toe te voegen.
-Door een algoritme hierop te laten trainen kan deze beter bestand gemaakt worden tegen aanvallen tijdens het gebruik.</p>
+<p>Daarnaast kan het principe van <a href="https://arxiv.org/abs/1611.01236">adversarial training</a> worden toegepast door zelf bewust foutieve invoerwaarden aan de <abbr title="Data die worden gebruikt voor het trainen van een AI-systeem door de leerbare parameters hiervan aan te passen.">trainingsdata</abbr> toe te voegen.
+Door een <abbr title="Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden.">algoritme</abbr> hierop te laten trainen kan deze beter bestand gemaakt worden tegen aanvallen tijdens het gebruik.</p>
 <h2 id="risico">Risico</h2>
 <p>Een aanvaller kan proberen om de trainingset te manipuleren om het uiteindelijke model doelbewust fouten te laten maken. Dit kan leiden tot verkeerde antwoorden, vooroordelen of zelfs kwetsbaarheden in het model.</p>
 <h2 id="bijbehorende-vereisten">Bijbehorende vereiste(n)</h2>

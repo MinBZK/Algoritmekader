@@ -273,7 +273,7 @@
 
 /* Fix excessive right padding in dropdown items */
 @media (min-width: 640px) {
-    .choices__list--dropdown .choices__item--selectable[data-select-text], 
+    .choices__list--dropdown .choices__item--selectable[data-select-text],
     .choices__list[aria-expanded] .choices__item--selectable[data-select-text] {
         padding-right: 20px !important;
     }

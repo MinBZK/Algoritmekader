@@ -43,11 +43,11 @@
     margin-bottom: 0 !important;
     padding-right: 0;
   }
-  
+
   .filter-container.vereisten-filters .filter-item:last-child {
     margin-right: 0 !important;
   }
-  
+
   /* Force spacing on all filter elements including Choices.js */
   .filter-container.vereisten-filters .filter-item:not(:last-child) {
     margin-right: 8px !important;
@@ -65,18 +65,18 @@
   .filter-container.vereisten-filters {
     gap: 10px;
   }
-  
+
   .filter-container.vereisten-filters .filter-item {
     flex: 1 1 0;
     min-width: 180px;
     max-width: none;
     margin-right: 10px !important;
   }
-  
+
   .filter-container.vereisten-filters .filter-item:not(:last-child) {
     margin-right: 10px !important;
   }
-  
+
   .filter-container.vereisten-filters .filter-item #filterInput,
   .filter-container.vereisten-filters .filter-item .choices {
     width: 100%;
@@ -90,22 +90,22 @@
     gap: 12px;
     flex-wrap: nowrap;
   }
-  
+
   .filter-container.vereisten-filters .filter-item {
     flex: 1 1 0;
     min-width: 200px;
     margin-right: 12px !important;
     margin-bottom: 0 !important;
   }
-  
+
   .filter-container.vereisten-filters .filter-item:last-child {
     margin-right: 0 !important;
   }
-  
+
   .filter-container.vereisten-filters .filter-item:not(:last-child) {
     margin-right: 12px !important;
   }
-  
+
   .filter-container.vereisten-filters .filter-item #filterInput,
   .filter-container.vereisten-filters .filter-item .choices {
     width: 100%;

@@ -241,13 +241,15 @@ def _render_wetcode_filter(
 
         if code in real_abbreviations:
             # Show abbreviation + full name for real abbreviations
+            # Use abbreviation as value since that's what's displayed in table
             filter_html.append(
                 f'<option value="{code.upper()}">{code.upper()} - {display_name}</option>'
             )
         else:
             # Show only full name for everything else (matches table display)
+            # Use display_name as value since that's what's displayed in table
             filter_html.append(
-                f'<option value="{code.upper()}">{display_name}</option>'
+                f'<option value="{display_name}">{display_name}</option>'
             )
 
     filter_html.extend(["</select>", "</div>"])

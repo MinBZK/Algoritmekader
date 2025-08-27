@@ -8,6 +8,7 @@ from re import Match
 
 # Cache for abbreviations to avoid reading file multiple times
 _abbreviations_cache = None
+_current_config = None
 
 
 def _load_abbreviations(config: MkDocsConfig) -> Dict[str, str]:
@@ -201,6 +202,8 @@ def _render_wetcode_filter(
     file_list: List[File], filter_options: Dict[str, bool]
 ) -> List[str]:
     """Generate filter options for wet-code column"""
+    global _current_config
+    
     wet_codes = set()
     for file in file_list:
         vereiste_id = file.page.meta.get("id", "")[14:]
@@ -233,22 +236,30 @@ def _render_wetcode_filter(
         f'<select id="{filter_id}" class="js-example-basic-multiple filter-item__select" name="wetcodes[]" multiple="multiple" data-placeholder="" data-filter-column="wetcode">',
     ]
 
-    # Only show real abbreviations that are kept abbreviated in table cells
-    real_abbreviations = {"avg", "bio", "bzk", "woo", "awb"}
+    if _current_config:
+        abbreviations = _load_abbreviations(_current_config)
+    else:
+        abbreviations = {}
+        
+    keep_abbreviated = {"AVG", "BIO", "BZK", "WOO", "AWB"}
 
     for code in sorted_codes:
-        display_name = wet_mapping.get(code, code.upper())
-
-        if code in real_abbreviations:
-            # Show abbreviation + full name for real abbreviations
-            filter_html.append(
-                f'<option value="{code.upper()}">{code.upper()} - {display_name}</option>'
-            )
+        wet_code_upper = code.upper()
+        display_name = wet_mapping.get(code, wet_code_upper)
+        
+        if wet_code_upper in abbreviations and wet_code_upper in keep_abbreviated:
+            table_display = wet_code_upper
+            filter_display = wet_code_upper
+        elif wet_code_upper in abbreviations:
+            table_display = abbreviations[wet_code_upper]
+            filter_display = abbreviations[wet_code_upper]
         else:
-            # Show only full name for everything else (matches table display)
-            filter_html.append(
-                f'<option value="{code.upper()}">{display_name}</option>'
-            )
+            table_display = display_name
+            filter_display = display_name
+            
+        filter_html.append(
+            f'<option value="{table_display}">{filter_display}</option>'
+        )
 
     filter_html.extend(["</select>", "</div>"])
     return filter_html
@@ -407,6 +418,8 @@ def should_show_export(current_file: File) -> bool:
 
 # Define the on_env function and other utility functions
 def on_env(env, config: MkDocsConfig, files: Files):
+    global _current_config
+    _current_config = config
     def generate_filters(
         content_type: str,
         list: List[File],

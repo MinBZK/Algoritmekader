@@ -1,7 +1,7 @@
 ---
-title: Richt de juiste menselijke controle in van het algoritme
+title: Richt bij besluitvorming betekenisvolle menselijke tussenkomst in
 id: urn:nl:ak:mtr:imp-03
-toelichting: Als algoritmes worden ingezet om te ondersteunen bij het nemen van beslissingen en besluiten door overheidsorganisaties, kan het noodzakelijk zijn om menselijke tussenkomst in te richten om foutieve output te signaleren en te corrigeren.
+toelichting: Als algoritmes worden ingezet om te ondersteunen bij het nemen van beslissingen en besluiten door overheidsorganisaties, kan het noodzakelijk zijn om betekenisvolle menselijke tussenkomst in te richten om foutieve output te signaleren en te corrigeren.
 vereiste:
 - avg-10-recht-op-niet-geautomatiseerde-besluitvorming
 - grw-01-fundamentele-rechten
@@ -32,50 +32,48 @@ hide:
 
 <!-- tags -->
 ## Maatregel
-Richt (technische) controlemechanismen in voor menselijke tussenkomst (of: menselijke controle) waarmee de output van een algoritme kan worden gecontroleerd.
-
+Richt controle op algoritmes zó in dat voldaan wordt aan de vereiste van menselijke tussenkomst in de zin van artikel 22 van de Algemene Verordening Gegevensbescherming (AVG).
 
 ## Toelichting
+Bij situaties waar de AVG van toepassing is, is het op grond van artikel 22 van de AVG verboden om volledig geautomatiseerd besluiten te nemen die [rechtsgevolgen of aanmerkelijke effecten hebben](../vereisten/avg-10-recht-op-niet-geautomatiseerde-besluitvorming.md). Er zijn uitzonderingen op dit verbod, zoals het bestaan van een wettelijke grondslag voor dergelijke besluitvorming. Het is van belang dat de menselijke tussenkomst daadwerkelijk ‘betekenisvol’ is. De AVG beschrijft niet hoe betekenisvolle menselijke tussenkomst eruit moet zien. In het SCHUFA-arrest van 7 december 2023 heeft het Hof van Justitie wel bepaald dat er in ieder geval geen sprake is van betekenisvolle menselijke tussenkomst als een bepaalde output van het gebruikte algoritme zo goed als altijd leidt tot een bepaald besluit, ook wanneer dat besluit wel nog door een natuurlijk persoon genomen wordt.
 
-Algoritmes ondersteunen vaak beslissingen en besluitvorming van overheidsorganisaties. Deze beslissingen of besluiten kunnen betrokkenen in [aanmerkelijke mate raken of zelfs rechtsgevolgen](../vereisten/avg-10-recht-op-niet-geautomatiseerde-besluitvorming.md) hebben. Omdat algoritmes niet foutloos zijn, is het belangrijk dat een mens controleert wat een algoritme doet en, waar nodig, corrigeert. Dit proces heet 'menselijke tussenkomst' en moet betekenisvol zijn, niet slechts symbolisch.
+De publicatie ['Handvatten betekenisvolle menselijke tussenkomst' van de Autoriteit Persoonsgegevens (AP)](https://www.autoriteitpersoonsgegevens.nl/actueel/betekenisvolle-menselijke-tussenkomst-bij-algoritmische-besluitvorming) geeft de volgende richtlijnen voor het inrichten van betekenisvolle menselijke tussenkomst:
 
-Het inrichten, monitoren en evalueren van menselijke controle is cruciaal om te voorkomen dat algoritmes negatieve effecten veroorzaken of de menselijke autonomie ondermijnen.
+### Mens
+De AP geeft aan dat de mens eigenschappen heeft die algoritmes niet hebben. Om die eigenschappen betekenisvol tot uiting te laten komen, zijn de volgende onderdelen belangrijk:
 
-Betekenisvolle menselijke controle houdt in dat:
+- Beoordelaars moeten alle relevante factoren kunnen betrekken.
+- Beoordelaars moeten hun eigen menselijk inzicht kunnen inzetten.
+- Beoordelaars moeten voldoende bekwaam zijn om het algoritme, de output en de totstandkoming van het besluit te beoordelen.
 
-- Het toezicht wordt uitgevoerd door iemand die bevoegd en bekwaam is om een beslissing of besluit te wijzigen.
-- Automatische aanbevelingen niet klakkeloos worden overgenomen. Bijvoorbeeld: een systeem dat standaard een suggestie accepteert door een enkele klik voldoet hier niet aan.
-- De vormen van menselijke tussenkomst al in een vroeg stadium, bijvoorbeeld in de ontwerpfase, worden vastgesteld op basis van risicoanalyses.
-- Gebruikers voldoende kennis, tijd en verantwoordelijkheid hebben om weloverwogen beslissingen te nemen over het functioneren van algoritmes. Dit betekent ook dat externe factoren, zoals tijdsdruk of onvoldoende informatie, de beoordeling van de output niet mogen beïnvloeden. (zie ook het [Onderzoekskader algoritmes, Auditdienst Rijk, SV.6](../hulpmiddelen/onderzoekskader-adr.md))
+### Technologie en ontwerp
+De AP waarschuwt dat niet alleen de mens invloed moet kunnen uitoefenen, maar dat de technologie ook de mens kan beïnvloeden. Zo kan bijvoorbeeld <i>automation bias</i> optreden, waarbij mensen de prestaties en nauwkeurigheid van algoritmes overschatten. Zo wordt te snel de output van het algoritme zonder kritische blik gevolgd. Aan de andere kant kan ook <i>algorithmic aversion</i> ontstaan, waarbij juist sprake is van een onderschatting van dezelfde eigenschappen van het algoritme. Dit heeft als risico dat menselijke bias in de besluitvorming wordt geïntroduceerd. Om de technologie zo in te richten dat menselijke tussenkomst op betekenisvolle wijze mogelijk blijft, zijn de volgende onderdelen belangrijk.
 
-Soms is menselijke tussenkomst minder relevant, zoals bij ‘gebonden bevoegdheden’. Hierbij is weinig tot geen ruimte om een beslissing of besluit aan te passen. Voorbeelden zijn:
+- De interface moet zo worden ontworpen en vormgegeven dat neutraliteit wordt gewaarborgd en betekenisvolle tussenkomst wordt gestimuleerd.
+- De beoordelaar moet de data kunnen zien die relevant zijn bij de beoordeling, zonder dat dit onoverzichtelijk wordt.
+- De beoordelaar moet de data in een relevante context kunnen zien.
+- De beoordelaar moet de data in een zo neutraal mogelijke volgorde te zien krijgen.
+- De wijze van beoordelen moet op een gevarieerde wijze plaatsvinden om te voorkomen dat het routinematig wordt en daarmee zijn functie verliest.
 
-- Het opleggen van verkeersboetes onder de Wet administratiefrechtelijke handhaving verkeersvoorschriften (Wahv).
-- Het automatisch aanpassen van studiefinanciering op basis van inkomenswijzigingen.
+### Proces
+De AP geeft aan dat de betekenis van menselijke tussenkomst beïnvloed kan worden door het proces daaromheen. Om het proces rond de menselijke tussenkomst zo in te richten dat deze optimaal betekenisvol is, zijn de volgende onderdelen belangrijk.
 
-Om menselijke tussenkomst goed te organiseren, zijn technische en organisatorische maatregelen nodig. Dit geldt ook wanneer een externe aanbieder de algoritmes levert. In dat geval moet de verantwoordelijke organisatie (gebruiksverantwoordelijke) samen met de aanbieder bepalen hoe menselijke tussenkomst zinvol kan worden ingericht.
+- Het moment binnen de besluitvorming waarop de menselijke tussenkomst plaatsvindt moet passend zijn bij het besluit en de werking van het algoritme. Het kan nodig zijn dat de menselijke tussenkomst op meerdere momenten plaatsvindt.
+- Beoordelaars moeten voldoende tijd krijgen om beslissingen te maken.
+- Beoordelaars moeten bevoegdheid hebben om tegen het algoritme in te gaan en zich vrij voelen dat ook daadwerkelijk te doen.
+- Beoordelaars moeten voldoende ondersteuning hebben bij het nemen van beslissingen.
 
-### Inrichten van menselijke controle
+### Governance
+De AP noemt dat binnen een organisatie het belang van betekenisvolle menselijke tussenkomst moet worden onderschreven en dat de organisatie steeds verantwoordelijkheid moet blijven nemen voor de inzet van algoritmes en de daarvoor noodzakelijke inrichting van de menselijke tussenkomst. Om te waarborgen dat binnen een organisatie de juiste personen daarvoor verantwoordelijk blijven, zijn de volgende onderdelen belangrijk.
 
-Er zijn verschillende manieren om menselijke tussenkomst in te richten, afhankelijk van de specifieke toepassing van een algoritme. Hieronder worden vier mogelijkheden beschreven die kunnen worden ingezet, los of in combinatie:
+- De organisatie legt haar beleid over betekenisvolle menselijke tussenkomst vast in procedures.
+- De organisatie traint en instrueert beoordelaars voldoende om hun rol te kunnen vervullen.
+- De verantwoordelijke toetst en monitort het proces en de gebruikte algoritmes en voert wijzigingen door bij blijkende onvoldoende betekenisvolle menselijke tussenkomst.
 
-#### 1. Human in the loop
-Bij dit model speelt de mens een actieve rol in elke fase van het algoritme. Deze variant geeft de meeste controle en invloed, maar kan leiden tot vertraagde of minder efficiënte besluitvorming, vooral bij real-time of zeer complexe taken waarbij snelheid cruciaal is.
-Een voorbeeld van toepassen van human-in-the-loop is het nakijken en beoordelen van de output van een algoritme door een mens, telkens voordat een beslissing wordt genomen. Het verwerken van data gebeurt alleen in opdracht van de mens en verder neemt het algoritme of AI model geen autonome beslissingen.
-
-#### 2. Human on the loop
-Hier behoudt de mens toezicht en kan ingrijpen wanneer dat nodig is om te garanderen dat een model veilig en ethisch opereert. Dit model biedt daardoor een balans tussen autonome besluitvorming en menselijke controle. Het is vooral nuttig in situaties waarin afwijkende keuzes of acties van het algoritme grote gevolgen kunnen hebben. De menselijke operator houdt de werking van het algoritme in de gaten en staat klaar om in te grijpen of beslissingen terug te draaien wanneer nodig.
-
-#### 3. Human above the loop
-In dit model houdt de mens toezicht op een hoger niveau, met een focus op strategische en ethische keuzes, in plaats van dat de menselijke operator zich bezighoudt met directe operationele beslissingen. Dit stelt de mens in staat in te grijpen wanneer kritieke morele, juridische of sociale zorgen ontstaan om het model op de langere termijn bij te sturen.  De menselijke tussenkomst is gericht op het bepalen van beleid en de richtlijnen voor algoritmes. Het gaat daarbij niet alleen over het definiëren van operationele procedures maar ook het maken van bepaalde ethische overwegingen, het zorgen voor naleving van regelgeving en het overwegen van de implicaties van de inzet van algoritmes op de lange termijn.
-
-#### 4. Human before the loop
-Hier maakt de mens vooraf ethische en morele afwegingen die in het algoritme zelf worden ingebouwd. Hoewel het model in productie autonoom opereert, zal de menselijke input gedurende de ontwikkeling ervoor zorgen dat het model ook in complexe situaties volgens de juiste (ethische) afwegingen keuzes en acties onderneemt.
-
-Dit model is essentieel in situaties waar menselijk ingrijpen tijdens de uitvoering niet mogelijk is (wanneer er bijvoorbeeld weinig of helemaal geen tijd is om als mens te interveniëren), maar waar ethische keuzes cruciaal blijven. Denk aan bestrijding van zeemijnen of situaties met zelfrijdende auto’s in onvoorspelbare verkeerssituaties (bron: [Towards Digital Life: Een toekomstvisie op AI anno 2032, TNO](https://www.tno.nl/nl/visie-ai-2032/)). Deze variant kan ook worden ingezet voor situaties waarin wel nog menselijk ingrijpen mogelijk is.
+De AP heeft in de publicatie ['Handvatten betekenisvolle menselijke tussenkomst'](https://www.autoriteitpersoonsgegevens.nl/actueel/betekenisvolle-menselijke-tussenkomst-bij-algoritmische-besluitvorming) een groot aantal vragen opgenomen die verantwoordelijken zich dienen te stellen bij de inrichting van betekenisvolle menselijke tussenkomst ter invulling van de hierboven omschreven onderdelen. Het is raadzaam die handvatten te gebruiken.
 
 ## Risico
-Het niet inrichten van passende menselijke controle leidt tot onverantwoorde inzet van algoritmen en het niet voldoen aan wettelijke vereisten.
+Wanneer algoritmen een rol spelen in besluitvormingsprocessen met rechtsgevolgen of andere aanmerkelijke effecten voor betrokkene en hierbij geen betekenisvolle menselijke tussenkomst is ingericht, dan kan dit kwalificeren als volledig geautomatiseerde besluitvorming die in strijd is met het verbod van artikel 22 van de AVG. Ook kan de kwaliteit van de besluitvorming lager zijn zonder betekenisvolle menselijke tussenkomst.
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
@@ -83,6 +81,7 @@ Het niet inrichten van passende menselijke controle leidt tot onverantwoorde inz
 
 ## Bronnen
 
+- [Autoriteit Persoonsgegevens - 'Handvatten betekenisvolle menselijke tussenkomst'](https://www.autoriteitpersoonsgegevens.nl/actueel/betekenisvolle-menselijke-tussenkomst-bij-algoritmische-besluitvorming)
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 3.11](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Menselijke tussenkomst | Algoritmes | Algemene Rekenkamer](https://www.rekenkamer.nl/onderwerpen/algoritmes/toetsingskader/ethiek/menselijke-tussenkomst)
 - [Onderzoekskader Algoritmes Auditdienst Rijk, SV.5, SV.6](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
@@ -100,17 +99,15 @@ Het niet inrichten van passende menselijke controle leidt tot onverantwoorde inz
 
 !!! example "Hof van Justitie van de Europese Unie: Prejudiciële verwijzing"
 
-    In 2021 heeft een burger SCHUFA (een Duits bedrijf wat kredietwaardigheid informatie deelt met derden) aangeklaagd naar aanleiding van een niet ingewilligd verzoek tot inzage en wissing van diens persoonsgegevens. De reden hiervoor kwam door een afwijzing van ondersteuning op basis van geautomatiseerde individuele besluitvorming. Zij maakten geen gebruik van betekenisvolle menselijke controle en dus is SCHUFA verantwoordelijk gehouden.
+    In 2021 heeft een burger SCHUFA (een Duits bedrijf wat kredietwaardigheid informatie deelt met derden) aangeklaagd naar aanleiding van een niet ingewilligd verzoek tot inzage en wissing van diens persoonsgegevens. De reden hiervoor kwam door een afwijzing van ondersteuning op basis van geautomatiseerde individuele besluitvorming. Het Hof van Justitie oordeelde dat, zoals bij de kredietscores van SCHUFA het geval was, er geen sprake is van betekenisvolle menselijke tussenkomst als de uitkomsten van het gebruikte algoritme zo goed als altijd leiden tot een bepaalde uitkomst voor de betrokkene.
 
 	Bron: [HvJEU december 2023, ECLI:EU:C:2023:957 (SCHUFA Scoring)](https://eur-lex.europa.eu/legal-content/nl/TXT/?uri=CELEX:62021CJ0634)
 
 
-!!! example "Rijksdienst voor Ondernemend Nederland: Risicocontrole Subsidieaanvragen"
+!!! example "Rijksdienst voor Ondernemend Nederland: Risicocontrole SDE++ Subsidieaanvragen"
 
-    De Rijksdienst voor Ondernemend Nederland (RVO) maakt gebruik van een algoritme bij het behandelen van subsidieaanvragen. Hierbij wordt bij iedere aanvraag een risico-indicatie gemaakt op basis van een aantal regels. Als er volgens het algoritme geen risico’s zijn wordt de aanvraag automatisch aangemaakt, zo niet wordt de aanvraag nog beoordeeld door een adviseur.
+    De Rijksdienst voor Ondernemend Nederland (RVO) maakt gebruik van een algoritme bij het behandelen van subsidieaanvragen. Per ronde komen er duizenden aanvragen binnen. Het algoritme geeft elke aanvraag een risico-indicatie. Elke aanvraag met een risico-indicatie wordt beoordeeld door een adviseur. De adviseur bekijkt het onderdeel met een risico-indicatie. Als de aanvraag niet volledig is of als de informatie niet voldoende is, dan kan de aanvrager de kans krijgen om extra informatie aan te leveren of iets uit te leggen. Het algoritme zorgt nooit voor een directe afwijzing. Aanvragen voor ingewikkelde technieken of aanvragen boven een bepaald bedrag worden altijd helemaal door een adviseur beoordeeld en niet alleen op het onderdeel met een risico.
 
-    Daarnaast worden aanvragen met ingewikkelde technieken of boven een bepaald bedrag altijd door een adviseur beoordeeld. Op deze manier is er sprake van betekenisvolle [menselijke controle](../../onderwerpen/menselijke-controle.md).
-
-	Bron: [Rijksdienst voor Ondernemend Nederland: Risicocontrole Subsidieaanvragen](https://algoritmes.overheid.nl/nl/algoritme/risicocontrole-sde-subsidieaanvragen-rijksdienst-voor-ondernemend-nederland/51892728#verantwoordGebruik)
+	Bron: [Rijksdienst voor Ondernemend Nederland: Risicocontrole SDE++ Subsidieaanvragen](https://algoritmes.overheid.nl/nl/algoritme/oorg10005/51892728/risicocontrole-sde-subsidieaanvragen#verantwoordGebruik)
 
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)  

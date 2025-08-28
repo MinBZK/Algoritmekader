@@ -51,11 +51,14 @@ Het zorgvuldigheidsvereiste eist dat een besluit met de nodige zorgvuldigheid wo
 Dit vraagt onder meer om een zorgvuldig onderzoek naar informatie, feiten, een zorgvuldige beslissingsprocedure en een deugdelijke besluitvorming.
 
 Dit betekent dat bij de ontwikkeling en gebruik van algoritmes informatie moet worden vastgelegd  over het algoritme. Hierbij kan worden gedacht aan:
+
 - Dat het [doel en eventuele subdoelen](../maatregelen/1-pba-01-formuleren-probleemdefinitie.md) van het algoritme of AI-systeem helder zijn gedefinieerd, ook in relatie tot het maatschappelijke resultaat (outcome).
-- Een bewuste afweging afmaken en vaststellen of het algoritme het [juiste middel is om het probleem](../maatregelen/1-pba-01-formuleren-probleemdefinitie.md) op doelmatige en doeltreffende wijze op te lossen.
+- Een bewuste afweging maken en vaststellen of het algoritme het [juiste middel is om het probleem](../maatregelen/1-pba-01-formuleren-probleemdefinitie.md) op doelmatige en doeltreffende wijze op te lossen.
 - Dat de werking van het algoritme is onderzocht en is vastgesteld dat dit [passend is](../maatregelen/5-ver-01-functioneren-in-lijn-met-doeleinden.md) om te gebruiken in een besluitvormingsproces.
+- Dat de output van het algoritme kritisch geëvalueerd wordt door natuurlijke personen en, zo nodig, niet bij de besluitvorming betrokken wordt.
 
 ## Bronnen
+- [Afdeling 3.1 Algemene wet bestuursrecht](https://wetten.overheid.nl/BWBR0005537/2025-07-01#Hoofdstuk3_Afdeling3.1)
 - [Afdeling 3.2 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.2&z=2024-05-01&g=2024-05-01)
 - [Afdeling 3.4 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3&afdeling=3.4&z=2024-05-01&g=2024-05-01)
 - [Advies artikel 22 AVG en geautomatiseerde selectie-instrumenten](https://www.rijksoverheid.nl/documenten/publicaties/2024/10/10/advies-artikel-22-avg-en-geautomatiseerde-selectie-instrumenten)
@@ -64,8 +67,9 @@ Dit betekent dat bij de ontwikkeling en gebruik van algoritmes informatie moet w
 <!-- tags-ai-act -->
 
 ## Risico
-De werking van het algoritmes sluit niet of onvoldoende aan bij de juridische en ethische grenzen van de te ondersteunen wettelijke taak.
-Hierdoor kunnen ongewenste gevolgen ontstaan zoals een onjuist of onzorgvuldig genomen besluit.
+De werking van het algoritme sluit niet of onvoldoende aan bij de juridische en ethische grenzen van de te ondersteunen wettelijke taak.
+
+Hierdoor kunnen ongewenste gevolgen ontstaan zoals een onjuist of onzorgvuldig genomen besluit. Het gevolg daarvan is dat burgers tegen het besluit bezwaar en/of beroep in zullen moeten stellen om hun rechten te effectueren.
 
 ## Maatregelen { data-search-exclude }
 

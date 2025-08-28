@@ -233,22 +233,22 @@ def _render_wetcode_filter(
         f'<select id="{filter_id}" class="js-example-basic-multiple filter-item__select" name="wetcodes[]" multiple="multiple" data-placeholder="" data-filter-column="wetcode">',
     ]
 
-    # Only show real abbreviations that are kept abbreviated in table cells
-    real_abbreviations = {"avg", "bio", "bzk", "woo", "awb"}
+    keep_abbreviated = {"AVG", "BIO", "BZK", "WOO", "AWB"}
 
     for code in sorted_codes:
-        display_name = wet_mapping.get(code, code.upper())
-
-        if code in real_abbreviations:
-            # Show abbreviation + full name for real abbreviations
-            filter_html.append(
-                f'<option value="{code.upper()}">{code.upper()} - {display_name}</option>'
-            )
+        wet_code_upper = code.upper()
+        display_name = wet_mapping.get(code, wet_code_upper)
+        
+        if wet_code_upper in keep_abbreviated:
+            table_display = wet_code_upper
+            filter_display = wet_code_upper
         else:
-            # Show only full name for everything else (matches table display)
-            filter_html.append(
-                f'<option value="{code.upper()}">{display_name}</option>'
-            )
+            table_display = display_name
+            filter_display = display_name
+            
+        filter_html.append(
+            f'<option value="{table_display}">{filter_display}</option>'
+        )
 
     filter_html.extend(["</select>", "</div>"])
     return filter_html

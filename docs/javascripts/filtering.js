@@ -316,10 +316,10 @@ function filterTable() {
                 const cellText = (cells[columnIndex].textContent || cells[columnIndex].innerText).toUpperCase();
 
                 if (Array.isArray(filterValue)) {
-                    // Multi-select: all selected values must be present in the cell
+                    // Multi-select: any selected value must be present in the cell (OR logic)
                     if (filterValue.length > 0) {
-                        const hasAllValues = filterValue.every(value => cellText.indexOf(value) > -1);
-                        if (!hasAllValues) {
+                        const hasAnyValue = filterValue.some(value => cellText.indexOf(value) > -1);
+                        if (!hasAnyValue) {
                             showRow = false;
                         }
                     }

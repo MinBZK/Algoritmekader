@@ -33,10 +33,18 @@ hide:
 
     Overheden mogen werken met generatieve AI, zolang zij deze op een verantwoorde manier ontwikkelen, inkopen en gebruiken.
 
+-   ### [Geautomatiseerde risicoselectie](geatomatiseerde-risicoselectie.md)
+
+    ---
+
+    VOEG UITLEG TOE
+
 -   ### [Woordenlijst](definities.md)
 
     ---
 
     Uitleg van begrippen die je vaak tegenkomt op deze website.
+
+
 
 </div>

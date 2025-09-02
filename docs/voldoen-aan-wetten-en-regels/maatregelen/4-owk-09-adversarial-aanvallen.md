@@ -18,6 +18,8 @@ vereiste:
 hide:
 - navigation
 - toc
+version: "e33a2081"
+version_date: "2025-08-26"
 ---
 
 <!-- Let op! onderstaande regel met 'tags' niet weghalen! Deze maakt automatisch de knopjes op basis van de metadata  -->

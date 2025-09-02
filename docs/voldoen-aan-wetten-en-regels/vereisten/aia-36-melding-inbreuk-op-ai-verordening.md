@@ -40,7 +40,7 @@ uitzondering:
 - ("soort-toepassing-ai-systeem-voor-algemene-doeleinden" || "soort-toepassing-ai-systeem") && "open-source-open-source" && "transparantieverplichting-geen-transparantieverplichting" && "risicogroep-geen-hoog-risico-ai-systeem"
 hide:
 - navigation
-version: "1.0.0"
+version: "92559128"
 version_date: "2025-07-04"
 ---
 

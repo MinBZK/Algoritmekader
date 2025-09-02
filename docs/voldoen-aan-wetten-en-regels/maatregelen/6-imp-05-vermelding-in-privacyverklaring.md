@@ -19,8 +19,8 @@ sources:
 hide:
 - navigation
 - toc
-version: "1.0.0"
-version_date: "2025-07-04"
+version: "e33a2081"
+version_date: "2025-08-26"
 ---
 
 <!-- tags -->

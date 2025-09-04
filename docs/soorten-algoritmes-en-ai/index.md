@@ -37,7 +37,7 @@ hide:
 
     ---
 
-    VOEG UITLEG TOE
+    Algoritmen met geautomatiseerde risicoselectie zijn gevoelig en vereisen speciale aandacht.
 
 -   ### [Woordenlijst](definities.md)
 

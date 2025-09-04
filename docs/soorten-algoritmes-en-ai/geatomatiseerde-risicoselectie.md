@@ -8,21 +8,21 @@ Geautomatiseerde risicoselectie helpt overheden om gerichter dossiers in beeld t
 
 Het gehanteerde algoritme kan een eenvoudige geprogrammeerde beslisboom zijn, een geavanceerd statistisch model of een AI-systeem. Geautomatiseerde risicoselectie kan ook deels handmatig plaatsvinden, bijvoorbeeld in het geval dat na de geautomatiseerde risicoselectie een medewerker op basis van bepaalde criteria nader bekijkt welke dossiers in aanmerking komen voor behandeling.
 
-## Kaders, begrippen en definities
+### Kaders, begrippen en definities
 Risicoselectie wordt ook wel risicoprofilering genoemd. Er bestaan verschillende relevante kaders. Overheden moeten er in alle gevallen voor zorgen dat de inzet van risicoselectie in lijn is met het recht op non-discriminatie. Het College voor de Rechten van de Mens heeft het [‘Toetsingskader risicoprofilering’](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/toetsingskader-risicoprofilering/) opgesteld ter voorkoming van discriminatie op grond van ras en nationaliteit. Wanneer persoonsgegevens worden verwerkt is (ook) de AVG van toepassing. De Autoriteit Persoonsgegevens (AP) heeft [in een advies](https://www.autoriteitpersoonsgegevens.nl/documenten/advies-geautomatiseerde-besluitvorming) geduid hoe geautomatiseerde risicoselectie zich verhoudt tot de AVG, met name het verbod op volledig geautomatiseerde besluitvorming.
 
 De AP beschrijft geautomatiseerde risicoselectie als een specifieke toepassing van profilering in de zin van de AVG in de context van publieke dienstverlening. De AVG definieert profilering als een geautomatiseerde verwerking waarbij aan de hand van persoonsgegevens bepaalde persoonlijke aspecten van een natuurlijke persoon worden geëvalueerd, met name met de bedoeling om te analyseren of voorspellen.
 
 De AP licht toe dat een indeling van dossiers op basis van bepaalde kenmerken op zichzelf nog niet kwalificeert als profilering maar dat dit afhangt van het doel: er moet bij de selectie of categorisering sprake zijn van een zekere beoordeling van een persoon of dossier. Het College hanteert iets andere definities van profilering en risicoprofilering dan de AVG en de AP, omdat zijn toetsingskader zich toespitst op risicoselectie in de context van opsporings- of controlebevoegdheden.
 
-# Verantwoord gebruik door de overheid
+## Verantwoord gebruik door de overheid
 Risicoselectie helpt overheden om de beschikbare capaciteit voor publieke dienstverlening gerichter in te zetten, maar het kent ook risico’s. Doordat risicoselectie altijd onderscheid maakt, is er een risico op het schenden van het recht op non-discriminatie. Wanneer de risicoselectie is gebaseerd op persoonsgegevens moeten overheden aandacht hebben voor het recht op privacy en het recht op bescherming van persoonsgegevens.
 
 Het is op grond van de AVG niet toegestaan om op basis van profilering volledig geautomatiseerd besluiten te nemen die rechtsgevolgen of aanmerkelijke effecten hebben voor natuurlijke personen. Daar is een [specifieke wettelijke grondslag](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/1-pba-05-wettelijke-grondslag/) voor nodig. Wanneer deze ontbreekt kan geautomatiseerde risicoselectie enkel gebruikt worden om te beoordelen of acties jegens betrokkene nodig zijn, zoals navraag doen of informatie verzamelen. Eventuele rechtsgevolgen of aanmerkelijke effecten voor betrokkenen mogen pas tot stand komen na [betekenisvolle menselijke tussenkomst](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/6-imp-03-menselijke-tussenkomst/). Het delen of bewaren van risicoselecties voor andere doeleinden zal al snel aanmerkelijke effecten tot gevolg hebben.
 
 Het spreekt voor zich dat geautomatiseerde risicoselectie alleen kan worden ingezet indien dit in lijn is met wettelijke vereisten en [de grondrechten gerespecteerd worden](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/2-owp-07-afwegen-grondrechten/). De hierboven genoemde kaders van de Autoriteit Persoonsgegevens en het College voor de Rechten van de Mens helpen om hieraan te voldoen. Daarnaast hebben de Eerste Kamer en Tweede Kamer verzocht om een aantal aanvullende waarborgen. Deze pagina geeft een overzicht van de belangrijkste plichten en aanvullende richtlijnen voor verantwoord gebruik van geautomatiseerde risicoselectie door overheden.
 
-# Belangrijkste plichten voor overheden die geautomatiseerde risicoselectie gebruiken
+## Belangrijkste plichten voor overheden die geautomatiseerde risicoselectie gebruiken
 
 * [Voldoe aan bestaande wetgeving](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/) (zoals de Grondwet, anti-discriminatiewetgeving, de AVG en de AI-verordening).
 * Wanneer voor geautomatiseerde risicoselectie persoonsgegevens worden verwerkt, is sprake van een hoog-risicoverwerking (evaluatie of scoretoekenning). [Het uitvoeren van een DPIA is verplicht.](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/avg-13-dpia-verplicht/)
@@ -39,7 +39,7 @@ Het spreekt voor zich dat geautomatiseerde risicoselectie alleen kan worden inge
 * Indien geautomatiseerde risicoselectie een rol speelde voorafgaand aan of in de voorbereidende fase van een Awb-besluit, moet dit uiterlijk in het besluit aan betrokkene [kenbaar worden gemaakt](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/awb-02-motiveringsbeginsel/index.html).
 * Wanneer een AI-systeem wordt ingezet voor geautomatiseerde risicoselectie, kan sprake zijn van een hoog-risico AI-systeem onder de AI-verordening. In dat geval gelden extra vereisten, zoals het uitvoeren van een mensenrechtenimpactassessment. Gebruik de [beslishulp AI-verordening](https://minbzk.github.io/Algoritmekader/ai-verordening/) om te bepalen wat er in jouw situatie van toepassing is.
 
-# Aanvullende richtlijnen voor overheden die geautomatiseerde risicoselectie gebruiken
+## Aanvullende richtlijnen voor overheden die geautomatiseerde risicoselectie gebruiken
 
 * Ook indien geen sprake is van een hoog-risico AI-systeem, is het sterk aanbevolen om een mensenrechtenimpactassessment (bijvoorbeeld [het IAMA](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/IAMA/index.html) uit te voeren en deze periodiek te herhalen en publiceren. Neem indien nodig preventieve en mitigerende maatregelen.
 * Het uitgangspunt is dat geautomatiseerde risicoselectie-algoritmen worden gepubliceerd in [het Algoritmeregister](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/bzk-01-algoritmeregister/index.html). Als deze algoritmen niet in categorie A (hoog-risico AI) vallen, vallen ze in categorie B (impactvolle algoritmen). Er kunnen redenen zijn om het algoritme of de gehanteerde criteria niet of slechts gedeeltelijk te publiceren; raadpleeg de handreiking. Licht in het register toe hoe wordt voldaan aan de wettelijke vereisten en de waarborgen voor geautomatiseerde risicoselectie zoals geadviseerd door de AP.
@@ -93,7 +93,7 @@ Het spreekt voor zich dat geautomatiseerde risicoselectie alleen kan worden inge
 
 * Stel een [discriminatieprotocol](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/0-org-15-discriminatieprotocol/) vast voor de situatie dat er (een vermoeden van) discriminatie door een algoritme is geconstateerd en pas dit wanneer nodig toe.
 
-# Bronnen
+## Bronnen
 
 * [Toetsingskader risicoprofilering – Normen tegen discriminatie op grond van ras en nationaliteit, College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/4093c026-ae41-4c1d-aa78-4ce0e205b5de)
 * [Autoriteit Persoonsgegevens, advies artikel 22 AVG en geautomatiseerde selectietechnieken, 2024](https://www.autoriteitpersoonsgegevens.nl/documenten/advies-geautomatiseerde-besluitvorming)
@@ -103,5 +103,5 @@ Het spreekt voor zich dat geautomatiseerde risicoselectie alleen kan worden inge
 * [Impact Assessment Mensenrechten en Algoritmes](https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes)
 * [Handreiking non-discriminatie by design](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/handreiking-non-discriminatie/)
 
-# Help ons deze pagina te verbeteren
+## Help ons deze pagina te verbeteren
 Deel je idee, suggestie of opmerking [via GitHub](https://github.com/MinBZK/Algoritmekader/issues/new/choose) of mail ons via algoritmes@minbzk.nl.

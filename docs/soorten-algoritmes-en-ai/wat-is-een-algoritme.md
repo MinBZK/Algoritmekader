@@ -33,13 +33,16 @@ Zelflerende technieken zijn in elk geval:
 * **Deep learning**: Supervised, unsupervised of reinforcement learning gecombineerd met diepe neurale netwerken. Dit zijn kunstmatige neurale netwerken met veel verschillende lagen. Hierdoor kun je nog ingewikkeldere problemen oplossen. Voorbeeld: [Geautomatiseerde gezichtsvergelijking bij het RNI-inschrijfproces](https://algoritmes.overheid.nl/nl/algoritme/oorg10103/18814864/geautomatiseerde-gezichtsvergelijking-bij-het-rniinschrijfproces).
 
 ## AI-systeem
-Met een AI-systeem bedoelen we een systeem dat kunstmatig intelligent is volgens de [Europese AI-verordening](../ai-verordening/ai-verordening-in-het-kort.md#ai-systeem). Je systeem zal in de meeste gevallen onder de definitie van AI-systeem vallen als gebruik wordt gemaakt van:
+Met een AI-systeem bedoelen we een systeem dat kunstmatig intelligent is volgens de [Europese AI-verordening](../ai-verordening/ai-verordening-in-het-kort.md#ai-systeem). Een belangrijk kenmerk van AI-systemen is hun inferentievermogen. Dat betekent dat een AI-systeem dat op een bepaalde manier is getraind een voorspelling, aanbeveling of ander resultaat kan genereren op basis van nieuwe data die geen onderdeel uitmaakten van de trainingsdata.
+
+Je systeem zal in de meeste gevallen onder de definitie van AI-systeem vallen als gebruik wordt gemaakt van:
 
 * supervised learning
 * unsupervised learning
 * reinforcement learning
 * deep learning
 
+Als je systeem alleen nauwkeurige regels volgt ('als dit, dan dat') die rechtstreeks terug te herleiden zijn op bestaande wet- en regelgeving, dan is er geen sprake van een AI-systeem.
 
 !!! tip "Tip"
 

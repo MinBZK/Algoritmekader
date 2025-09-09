@@ -9,7 +9,7 @@ Overzicht van aanbevolen hulpmiddelen voor het verantwoord ontwikkelen, gebruike
 
 ## Overzicht hulpmiddelen
 
-<!-- list_hulpmiddelen no-search no-onderwerp no-rol no-levenscyclus no-onderwerp no-id -->
+<!-- list_hulpmiddelen no-id -->
 
 ## Richtlijnen en andere hulpmiddelen
 

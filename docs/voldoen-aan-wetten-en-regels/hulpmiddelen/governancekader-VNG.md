@@ -20,16 +20,18 @@ rollen:
 - jurist
 - ontwikkelaar
 - beleid-en-advies
-vereiste:
-- aia-03-risicobeheersysteem
-- aia-04-risicobeoordeling-voor-jongeren-en-kwetsbaren
-- aia-05-data-kwaliteitscriteria
-# LET OP: dit zijn nu nog voorbeelden van 3 vereisten, vervang dit dus met de namen van de vereisten waar dit hulpmiddel bij hoort
 maatregel:
+- 0-org-02-beleid-opstellen-inzet-algoritmes
+- 0-org-03-toepassen-risicobeheer
+- 0-org-05-bestaande-governance
+- 0-org-09-governance-per-risicocategorie
+- 1-pba-01-formuleren-probleemdefinitie
 - 1-pba-03-onderbouwen-gebruik-algoritme
+- 2-owp-01-rollen-en-verantwoordelijkheden
 - 2-owp-07-afwegen-grondrechten
+- 2-owp-16-vereisten-onderdeel-algemene-inkoopvoorwaarden-en-contractovereenkomst
+- 2-owp-36-maak-of-koopbeslissing
 - 6-imp-03-menselijke-tussenkomst
-# LET OP: dit zijn nu nog voorbeelden van 3 maatregelen, vervang dit dus met de namen van de vereisten waar dit hulpmiddel bij hoort
 hide:
 - navigation
 - toc
@@ -56,19 +58,12 @@ De filterfunctie geeft relevante kenniskaarten per rol of combinatie van rollen 
 Het governancekader AI en algoritmen biedt houvast, structuur en inspiratie voor de verantwoorde inzet van AI en algoritmen door gemeenten. Het kader is een levend, lerend product, ontwikkeld en getoetst in samenwerking met diverse gemeenten. Ook andere overheidsorganisaties kunnen het kader gebruiken als houvast of ter inspiratie.
 
 ## Auteur
-VNG
 <!-- Beschrijf hier kort wie de auteur is van dit hulpmiddel, en in wiens opdracht dit hulpmiddel is ontwikkeld. -->
 Het governancekader AI en algoritmen is ontwikkeld door de Vereniging van Nederlandse Gemeenten (VNG) in samenwerking met de gemeenten Utrecht, Veenendaal, Amersfoort en Arnhem, de Gemeenschappelijke regeling Holland Rijnland en de werkgroep van de VNG-community AI en algoritmen.
 
 ## Bronnen
 <!-- Eventueel. Niet verplicht op een hulpmiddel pagina, aangezien er bovenaan al een button naar het hulpmiddel zelf staat. Als er meer bronnen zijn gebruikt, voeg dan hier het kopje Bronnen en een lijstje toe.
 Hier staan in dat geval dan de bronnen van het hulpmiddel. -->
-
-
-## Bijbehorende vereisten { data-search-exclude }
-
-<!-- list_vereisten_on_maatregelen_page -->
-
 
 ## Bijbehorende maatregelen
 

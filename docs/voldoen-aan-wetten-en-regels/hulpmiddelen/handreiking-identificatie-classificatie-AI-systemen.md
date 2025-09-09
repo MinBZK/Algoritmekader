@@ -1,7 +1,6 @@
 ---
 title: Handreiking inventarisatie, identificatie en classificatie AI-systemen
-toelichting: Dit document bevat concrete handvatten voor het
-inventariseren, identificeren en classificeren van AI-systemen.
+toelichting: Dit document bevat concrete handvatten voor het inventariseren, identificeren en classificeren van AI-systemen.
 categorie:
 - handreiking
 vereiste:

@@ -40,9 +40,8 @@ Je systeem zal in de meeste gevallen onder de definitie van AI-systeem vallen al
 * supervised learning
 * unsupervised learning
 * reinforcement learning
-* deep learning
 
-Als je systeem alleen nauwkeurige regels volgt ('als dit, dan dat') die rechtstreeks terug te herleiden zijn op bestaande wet- en regelgeving, dan is er geen sprake van een AI-systeem.
+Als je systeem alleen nauwkeurige regels volgt ('als dit, dan dat') die rechtstreeks terug te herleiden zijn op bestaande wet- en regelgeving en die zonder machine learning tot stand zijn gekomen, dan is er geen sprake van een AI-systeem.
 
 !!! tip "Tip"
 

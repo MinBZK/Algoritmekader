@@ -38,7 +38,7 @@ Deze handreiking ondersteunt de impactanalyse voor de AI-verordening. Dit docume
 Deze handvatten helpen de gebruiker bij het invullen van de impactanalyse en het bepalen van de toepasselijke vereisten.
 
 ### Kan ik 100% op dit document vertrouwen?
-Hoewel deze informatie zorgvuldig is opgesteld kunnen er bepaalde nuances zijn verloren, gebruik deze handreiking daarom altijd samen met de officiële tekst van de AI-verordening.
+Hoewel deze informatie zorgvuldig is opgesteld kunnen er bepaalde nuances zijn verloren, gebruik deze handreiking daarom altijd samen met [de officiële tekst van de AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689).
 
 ## Hulpmiddelen bij de AI-verordening
 

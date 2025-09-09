@@ -29,7 +29,7 @@ Dit document geeft een gedetailleerd overzicht van de gefaseerde inwerkingtredin
 Voor een toegankelijke maar minder gedetailleerde versie, bekijk deze [tijdlijn op het Algoritmekader](../../ai-verordening/tijdlijn-ai-verordening.md).
 
 ### Kan ik 100% op dit document vertrouwen?
-Hoewel deze informatie zorgvuldig is opgesteld kunnen er bepaalde nuances zijn verloren, gebruik deze handreiking daarom altijd samen met de officiële tekst van de AI-verordening.
+Hoewel deze informatie zorgvuldig is opgesteld kunnen er bepaalde nuances zijn verloren, gebruik deze handreiking daarom altijd samen met [de officiële tekst van de AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689).
 De interpretatie van definities en bepalingen in de AI-verordening is nog in ontwikkeling, het is daarom waarschijnlijk dat een deel van de in dit document gegeven informatie in de loop van de tijd niet meer volledig of actueel is.
 
 ## Hulpmiddelen bij de AI-verordening

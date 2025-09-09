@@ -12,6 +12,9 @@ vereiste:
 maatregel:
 - 6-imp-04-publiceren-algoritmeregister
 - 0-org-09-governance-per-risicocategorie
+- 0-org-00-inventariseren-algoritmes
+- 2-owp-05-soort-algoritme
+- 5-ver-05-vertaling-wetgeving-naar-systeem
 levenscyclus:
 - organisatieverantwoordelijkheden
 - probleemanalyse

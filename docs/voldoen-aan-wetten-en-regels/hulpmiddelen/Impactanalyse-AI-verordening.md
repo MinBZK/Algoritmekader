@@ -7,6 +7,10 @@ vereiste:
 - 
 maatregel:
 - 0-org-00-inventariseren-algoritmes
+- 0-org-02-beleid-opstellen-inzet-algoritmes
+- 0-org-03-toepassen-risicobeheer
+- 0-org-10-inrichten-taken-en-verantwoordelijkheden-algoritmegovernance
+- 5-ver-05-vertaling-wetgeving-naar-systeem
 levenscyclus:
 - organisatieverantwoordelijkheden
 - probleemanalyse

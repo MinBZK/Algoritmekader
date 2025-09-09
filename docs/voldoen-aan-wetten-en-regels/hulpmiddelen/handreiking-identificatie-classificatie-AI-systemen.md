@@ -28,7 +28,7 @@ hide: navigation
 
 <!-- tags -->
 
-[Download hier de handreiking](/documenten/AI-verordening_Handreiking_AI-systemen.pdf){ .button .md-button--secondary }
+[Download hier de handreiking](documenten/AI-verordening_Handreiking_AI-systemen.pdf){ .button .md-button--secondary }
 ## Hulpmiddel
 
 Deze handreiking ondersteunt de impactanalyse voor de AI-verordening. Dit document bevat concrete handvatten voor het inventariseren, identificeren en classificeren van AI-systemen. 

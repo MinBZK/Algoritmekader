@@ -37,9 +37,13 @@ Deze handvatten helpen de gebruiker bij het invullen van de impactanalyse en het
 ### Kan ik 100% op dit document vertrouwen?
 Hoewel deze informatie zorgvuldig is opgesteld kunnen er bepaalde nuances zijn verloren, gebruik deze handreiking daarom altijd samen met de officiële tekst van de AI-verordening.
 
+## Hulpmiddelen bij de AI-verordening
 
-## Auteur
+### Auteur
 Dit document is ontwikkeld door de directie CIO Rijk (Ministerie van Binnenlandse Zaken en Koninkrijksrelaties) met adviseurs van het Rijks ICT Gilde en de interdepartementale werkgroep ‘Rijksbrede implementatie AI-verordening’ in opdracht van de CDO-raad.
+
+### Implementatie AI-verordening
+De Rijksoverheid ontwikkelt voortdurend instrumenten en hulpmiddelen om de implementatie van de AI-verordening te ondersteunen. Onder [Hulpmiddelen](index.md) zijn meer van deze instrumenten te vinden, en [hier kun je meer lezen over de AI-verordening](../../ai-verordening/index.md).
 
 ## Bijbehorende vereisten { data-search-exclude }
 

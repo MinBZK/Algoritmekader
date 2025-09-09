@@ -1,0 +1,1416 @@
+
+<!doctype html>
+<html lang="nl" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Het Algoritmekader van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties">
+      
+      
+      
+        <link rel="canonical" href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/levenscyclus/ontwikkelen/">
+      
+      
+        <link rel="prev" href="../dataverkenning-en-datapreparatie/">
+      
+      
+        <link rel="next" href="../verificatie-en-validatie/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/favicon.ico">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.15+insiders-4.53.16">
+    
+    
+      
+        <title>Fase 4, ontwikkelen - Algoritmekader 2.2</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.8cce3a28.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+  
+  
+  
+  
+  <style>:root{--md-annotation-icon:url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%20512%20512%22%3E%3C%21--%21%20Font%20Awesome%20Free%206.7.2%20by%20%40fontawesome%20-%20https%3A//fontawesome.com%20License%20-%20https%3A//fontawesome.com/license/free%20%28Icons%3A%20CC%20BY%204.0%2C%20Fonts%3A%20SIL%20OFL%201.1%2C%20Code%3A%20MIT%20License%29%20Copyright%202024%20Fonticons%2C%20Inc.--%3E%3Cpath%20d%3D%22M256%20512a256%20256%200%201%200%200-512%20256%20256%200%201%200%200%20512m-40-176h24v-64h-24c-13.3%200-24-10.7-24-24s10.7-24%2024-24h48c13.3%200%2024%2010.7%2024%2024v88h8c13.3%200%2024%2010.7%2024%2024s-10.7%2024-24%2024h-80c-13.3%200-24-10.7-24-24s10.7-24%2024-24m40-208a32%2032%200%201%201%200%2064%2032%2032%200%201%201%200-64%22/%3E%3C/svg%3E');}</style>
+
+
+    
+    
+      
+    
+    
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/navigation.css">
+    
+      <link rel="stylesheet" href="../../stylesheets/filters.css">
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+      <link rel="stylesheet" href="../../stylesheets/footer.css">
+    
+      <link rel="stylesheet" href="../../stylesheets/all.min.css">
+    
+      <link rel="stylesheet" href="../../stylesheets/choices.min.css">
+    
+      <link rel="stylesheet" href="../../stylesheets/modal.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+   <link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../../assets/javascripts/glightbox.min.js"></script></head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#fase-4-ontwikkelen" class="md-skip">
+          Ga naar inhoud
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Algoritmekader 2.2" class="md-header__button md-logo" aria-label="Algoritmekader 2.2" data-md-component="logo">
+      <img src="../../assets/logo.svg" alt="Home Algoritmekader" />
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Algoritmekader 2.2
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Fase 4, ontwikkelen
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Zoeken" placeholder="Zoeken" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Zoeken">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Leegmaken" aria-label="Leegmaken" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Zoeken initialiseren
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/MinBZK/Algoritmekader" title="Ga naar repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../soorten-algoritmes-en-ai/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Soorten algoritmes en AI
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../onderwerpen/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Onderwerpen
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Levenscyclus
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../rollen/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Rollen
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../voldoen-aan-wetten-en-regels/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Voldoen aan wetten en regels
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../ai-verordening/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  AI-verordening
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigatie" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Algoritmekader 2.2" class="md-nav__button md-logo" aria-label="Algoritmekader 2.2" data-md-component="logo">
+      <img src="../../assets/logo.svg" alt="Home Algoritmekader" />
+    </a>
+    Algoritmekader 2.2
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/MinBZK/Algoritmekader" title="Ga naar repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../soorten-algoritmes-en-ai/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Soorten algoritmes en AI
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../onderwerpen/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Onderwerpen
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Levenscyclus
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3" id="__nav_3_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Levenscyclus
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../over-de-levenscyclus/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Over de levenscyclus
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../organisatieverantwoordelijkheden/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fase 0, organisatieverantwoordelijkheden
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../probleemanalyse/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fase 1, probleemanalyse
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ontwerp/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fase 2, ontwerp
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../dataverkenning-en-datapreparatie/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fase 3, dataverkenning en datapreparatie
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fase 4, ontwikkelen
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fase 4, ontwikkelen
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Inhoudsopgave">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhoudsopgave
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#vereisten" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Vereisten
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#aanbevolen-maatregelen" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Aanbevolen maatregelen
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#help-ons-deze-pagina-te-verbeteren" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Help ons deze pagina te verbeteren
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verificatie-en-validatie/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fase 5, verificatie en validatie
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../implementatie/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fase 6, implementatie
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../monitoring-en-beheer/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fase 7, monitoring en beheer
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../uitfaseren/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fase 8, uitfaseren
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../rollen/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rollen
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../voldoen-aan-wetten-en-regels/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Voldoen aan wetten en regels
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../ai-verordening/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    AI-verordening
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" hidden>
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Inhoudsopgave">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhoudsopgave
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#vereisten" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Vereisten
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#aanbevolen-maatregelen" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Aanbevolen maatregelen
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#help-ons-deze-pagina-te-verbeteren" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Help ons deze pagina te verbeteren
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+  
+
+
+
+
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+  
+
+
+
+  
+  
+
+
+<h1 id="fase-4-ontwikkelen">Fase 4: Ontwikkelen</h1>
+<p>Dit is de fase waarin het <abbr title="Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden.">algoritme</abbr> wordt ontwikkeld door het ontwikkelteam.
+Als het gaat om AI-systemen, omvat deze fase het trainen van modellen met behulp van de voorbereide gegevens.
+Als het gaat om algoritmes op basis van rekenregels, betreft dit het implementeren van deze rekenregels in de (ontwikkelomgeving van de) systemen.</p>
+<p>Het <abbr title="Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden.">algoritme</abbr> technisch correct ontwikkelen, inclusief het kunnen begrijpen van de beperkingen ervan, vraagt om een samenspel van expertise vanuit verschillende disciplines.
+Denk hierbij aan de <abbr title="De proceseigenaar is verantwoordelijk voor de kwaliteit van het proces en de vastlegging daarvan in een processchema.">proceseigenaar</abbr>, domeinexperts van het te ondersteunen werkproces, data scientists, data engineer, (privacy)juristen, beleidsmedewerkers en een ethicus.
+Een voorbeeld hiervan is het beoordelen van de zogenaamde inputvariabelen of rekenregels (die voor een groot deel bepalen hoe een <abbr title="Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden.">algoritme</abbr> functioneert) van een machine learning model of <abbr title="Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden.">algoritme</abbr>.
+Deze rollen zijn bijzonder waardevol bij het beoordelen of deze variabelen of rekenregels juridisch zijn toegestaan, ethisch wenselijk zijn, technisch gezien- voldoende significant zijn en of deze van toegevoegde waarde zijn voor gebruikers.
+Dit multidisciplinaire team kan tijdens de ontwikkeling continu bijsturen, zodat het <abbr title="Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden.">algoritme</abbr> op een verantwoorde wijze functioneert en aansluit bij de beoogde doelstellingen.</p>
+<p>In deze fase is niet alleen het ontwikkelen van een <abbr title="Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden.">algoritme</abbr>, maar ook het documenteren van belangrijke afwegingen en het opstellen van technische documentatie van groot belang.
+Daarnaast zullen tal van (technische) maatregelen moeten worden getroffen zoals de verdere beveiliging van het informatiesysteem of bij de ontsluiting van de output naar gebruikers, het automatische genereren van logs en het inrichten van service en incidentmanagementprocedures.</p>
+<h2 id="vereisten">Vereisten</h2>
+<div class="filter-wrapper vereisten-wrapper" style="background-color: #e6f3fb; padding: 16px; border-radius: 8px; margin-bottom: 16px;"><form autocomplete="off" onsubmit="return false;"><div class="filter-container info vereisten-filters"><input type="hidden" id="labelsInput"></input><div class="filter-item filter-item--wetcode"><label for="filter-wetcode">Wetgeving</label><select id="filter-wetcode" class="js-example-basic-multiple filter-item__select" name="wetcodes[]" multiple="multiple" data-placeholder="" data-filter-column="wetcode"><option value="AI-verordening">AI-verordening</option><option value="AVG">AVG</option><option value="AWB">AWB</option><option value="Archiefwet">Archiefwet</option><option value="Grondwet">Grondwet</option></select></div></div></form></div><div id="table-container" data-column-mapping='{"title": {"index": 0, "filterable": false}, "wetcode": {"index": 1, "filterable": true}}'><table id='myTable'><thead><tr><th role="columnheader">Vereisten</th><th role="columnheader">Wetgeving</th></tr></thead><tbody><tr data-labels="(soort-toepassing-ai-systeem || soort-toepassing-ai-systeem-voor-algemene-doeleinden) && (risicogroep-hoog-risico-ai-systeem) && (rol-ai-act-aanbieder) && (transparantieverplichting-geen-transparantieverplichting || transparantieverplichting-transparantieverplichting) && (systeemrisico-niet-van-toepassing) && (open-source-open-source || open-source-geen-open-source || open-source-niet-van-toepassing)"data-uitzondering="risicogroep-uitzondering-van-toepassing"><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/vereisten/aia-06-technische-documentatie/index.html">Hoog-risico-AI-systemen zijn voorzien van voldoende technische documentatie</a></td><td>AI-verordening</td></tr><tr data-labels="(soort-toepassing-ai-systeem || soort-toepassing-ai-systeem-voor-algemene-doeleinden) && (risicogroep-hoog-risico-ai-systeem) && (rol-ai-act-aanbieder) && (transparantieverplichting-geen-transparantieverplichting || transparantieverplichting-transparantieverplichting) && (systeemrisico-niet-van-toepassing) && (open-source-open-source || open-source-geen-open-source || open-source-niet-van-toepassing)"data-uitzondering="risicogroep-uitzondering-van-toepassing"><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/vereisten/aia-07-automatische-logregistratie/index.html">Hoog-risico-AI-systemen loggen automatisch bepaalde gegevens</a></td><td>AI-verordening</td></tr><tr data-labels="(soort-toepassing-ai-systeem || soort-toepassing-ai-systeem-voor-algemene-doeleinden) && (risicogroep-hoog-risico-ai-systeem) && (rol-ai-act-aanbieder) && (transparantieverplichting-geen-transparantieverplichting || transparantieverplichting-transparantieverplichting) && (systeemrisico-niet-van-toepassing) && (open-source-open-source || open-source-geen-open-source || open-source-niet-van-toepassing)"data-uitzondering="risicogroep-uitzondering-van-toepassing"><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/vereisten/aia-08-transparantie-aan-gebruiksverantwoordelijken/index.html">Hoog-risico-AI-systemen zijn op een transparante manier ontwikkeld en ontworpen</a></td><td>AI-verordening</td></tr><tr data-labels="(soort-toepassing-ai-systeem || soort-toepassing-ai-systeem-voor-algemene-doeleinden) && (risicogroep-hoog-risico-ai-systeem) && (rol-ai-act-aanbieder) && (transparantieverplichting-geen-transparantieverplichting || transparantieverplichting-transparantieverplichting) && (systeemrisico-niet-van-toepassing) && (open-source-open-source || open-source-geen-open-source || open-source-niet-van-toepassing)"data-uitzondering="risicogroep-uitzondering-van-toepassing"><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/vereisten/aia-09-menselijk-toezicht/index.html">Hoog-risico-AI-systemen staan onder menselijk toezicht</a></td><td>AI-verordening</td></tr><tr data-labels="(soort-toepassing-ai-systeem || soort-toepassing-ai-systeem-voor-algemene-doeleinden) && (risicogroep-hoog-risico-ai-systeem) && (rol-ai-act-aanbieder) && (transparantieverplichting-geen-transparantieverplichting || transparantieverplichting-transparantieverplichting) && (systeemrisico-niet-van-toepassing) && (open-source-open-source || open-source-geen-open-source || open-source-niet-van-toepassing)"data-uitzondering="risicogroep-uitzondering-van-toepassing"><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/vereisten/aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging/index.html">Hoog-risico-AI-systemen zijn voldoende nauwkeurig, robuust en cyberveilig</a></td><td>AI-verordening</td></tr><tr data-labels="(soort-toepassing-ai-systeem || soort-toepassing-ai-systeem-voor-algemene-doeleinden) && (risicogroep-hoog-risico-ai-systeem) && (rol-ai-act-gebruiksverantwoordelijke) && (transparantieverplichting-geen-transparantieverplichting || transparantieverplichting-transparantieverplichting) && (systeemrisico-niet-van-toepassing) && (open-source-open-source || open-source-geen-open-source || open-source-niet-van-toepassing)"data-uitzondering="risicogroep-uitzondering-van-toepassing"><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/vereisten/aia-23-gebruiksverantwoordelijken-bewaren-logs/index.html">Logs voor hoog-risico-AI-systemen worden bewaard door de gebruiksverantwoordelijke</a></td><td>AI-verordening</td></tr><tr data-labels="(soort-toepassing-ai-systeem || soort-toepassing-ai-systeem-voor-algemene-doeleinden) && (risicogroep-hoog-risico-ai-systeem || risicogroep-geen-hoog-risico-ai-systeem) && (rol-ai-act-aanbieder) && (transparantieverplichting-transparantieverplichting) && (systeemrisico-niet-van-toepassing) && (open-source-open-source || open-source-geen-open-source || open-source-niet-van-toepassing)"data-uitzondering="risicogroep-uitzondering-van-toepassing,('soort-toepassing-ai-systeem-voor-algemene-doeleinden' || 'soort-toepassing-ai-systeem') && 'open-source-open-source' && 'transparantieverplichting-geen-transparantieverplichting' && 'risicogroep-geen-hoog-risico-ai-systeem'"><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/vereisten/aia-28-transparantieverplichtingen/index.html">AI-systemen worden zo ontworpen en gebruikt, dat mensen begrijpen wanneer zij met een AI-systeem communiceren en welke content gemaakt is door een AI-systeem</a></td><td>AI-verordening</td></tr><tr data-labels="(soort-toepassing-ai-model-voor-algemene-doeleinden) && (risicogroep-niet-van-toepassing) && (rol-ai-act-aanbieder) && (transparantieverplichting-niet-van-toepassing) && (systeemrisico-systeemrisico || systeemrisico-geen-systeemrisico) && (open-source-open-source || open-source-geen-open-source || open-source-niet-van-toepassing)"data-uitzondering="risicogroep-uitzondering-van-toepassing"><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/vereisten/aia-29-ai-modellen-algemene-doeleinden/index.html">AI-modellen voor algemene doeleinden zijn voorzien van voldoende technische documentatie en informatie</a></td><td>AI-verordening</td></tr><tr data-labels="(soort-toepassing-ai-model-voor-algemene-doeleinden) && (risicogroep-niet-van-toepassing) && (rol-ai-act-aanbieder) && (transparantieverplichting-niet-van-toepassing) && (systeemrisico-systeemrisico) && (open-source-open-source || open-source-geen-open-source || open-source-niet-van-toepassing)"data-uitzondering="risicogroep-uitzondering-van-toepassing"><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/vereisten/aia-32-ai-modellen-algemene-doeleinden-systeemrisico-cyberbeveiliging/index.html">AI-modellen voor algemene doeleinden met systeemrisico’s zijn voldoende beveiligd tegen cyberaanvallen</a></td><td>AI-verordening</td></tr><tr data-labels="(soort-toepassing-ai-model-voor-algemene-doeleinden || soort-toepassing-ai-systeem || soort-toepassing-ai-systeem-voor-algemene-doeleinden) && (risicogroep-niet-van-toepassing || risicogroep-hoog-risico-ai-systeem || risicogroep-geen-hoog-risico-ai-systeem) && (rol-ai-act-aanbieder || rol-ai-act-gebruiksverantwoordelijke) && (transparantieverplichting-geen-transparantieverplichting || transparantieverplichting-transparantieverplichting || transparantieverplichting-niet-van-toepassing) && (systeemrisico-systeemrisico || systeemrisico-geen-systeemrisico || systeemrisico-niet-van-toepassing) && (open-source-open-source || open-source-geen-open-source || open-source-niet-van-toepassing)"data-uitzondering="risicogroep-uitzondering-van-toepassing,('soort-toepassing-ai-systeem-voor-algemene-doeleinden' || 'soort-toepassing-ai-systeem') && 'open-source-open-source' && 'transparantieverplichting-geen-transparantieverplichting' && 'risicogroep-geen-hoog-risico-ai-systeem'"><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/vereisten/aia-33-verwerking-in-testomgeving/index.html">AI-testomgevingen die persoonsgegevens verwerken, voldoen aan strenge voorwaarden</a></td><td>AI-verordening</td></tr><tr data-labels="(soort-toepassing-ai-systeem || soort-toepassing-ai-systeem-voor-algemene-doeleinden) && (risicogroep-hoog-risico-ai-systeem) && (rol-ai-act-aanbieder) && (transparantieverplichting-geen-transparantieverplichting || transparantieverplichting-transparantieverplichting) && (systeemrisico-niet-van-toepassing) && (open-source-open-source || open-source-geen-open-source || open-source-niet-van-toepassing)"data-uitzondering="risicogroep-uitzondering-van-toepassing"><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/vereisten/aia-38-testen/index.html">Hoog-risico-AI-systemen zijn getest</a></td><td>AI-verordening</td></tr><tr data-labels="(soort-toepassing-ai-model-voor-algemene-doeleinden) && (risicogroep-niet-van-toepassing) && (rol-ai-act-aanbieder) && (transparantieverplichting-geen-transparantieverplichting || transparantieverplichting-transparantieverplichting) && (systeemrisico-niet-van-toepassing) && (open-source-open-source || open-source-geen-open-source || open-source-niet-van-toepassing)"data-uitzondering="risicogroep-uitzondering-van-toepassing"><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/vereisten/aia-39-beleid-naleven-auteurs-en-naburige-rechten/index.html">Er is beleid opgesteld ter naleving van auteursrechten en naburige rechten door aanbieders van AI-modellen voor algemene doeleinden</a></td><td>AI-verordening</td></tr><tr data-labels="(soort-toepassing-ai-model-voor-algemene-doeleinden || soort-toepassing-ai-systeem || soort-toepassing-ai-systeem-voor-algemene-doeleinden) && (risicogroep-hoog-risico-ai-systeem || risicogroep-geen-hoog-risico-ai-systeem || risicogroep-uitzondering-van-toepassing || risicogroep-verboden-ai) && (rol-ai-act-aanbieder || rol-ai-act-gebruiksverantwoordelijke || rol-ai-act-importeur || rol-ai-act-distributeur) && (transparantieverplichting-geen-transparantieverplichting || transparantieverplichting-transparantieverplichting) && (systeemrisico-systeemrisico || systeemrisico-geen-systeemrisico || systeemrisico-niet-van-toepassing) && (open-source-open-source || open-source-geen-open-source || open-source-niet-van-toepassing)"data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/vereisten/arc-01-archiefwet/index.html">Informatie over algoritmes wordt in goede, geordende en toegankelijke staat gebracht, bewaard en vernietigd wanneer nodig</a></td><td>Archiefwet</td></tr><tr data-labels="(soort-toepassing-ai-model-voor-algemene-doeleinden || soort-toepassing-ai-systeem || soort-toepassing-ai-systeem-voor-algemene-doeleinden) && (risicogroep-hoog-risico-ai-systeem || risicogroep-geen-hoog-risico-ai-systeem || risicogroep-uitzondering-van-toepassing || risicogroep-verboden-ai) && (rol-ai-act-aanbieder || rol-ai-act-gebruiksverantwoordelijke || rol-ai-act-importeur || rol-ai-act-distributeur) && (transparantieverplichting-geen-transparantieverplichting || transparantieverplichting-transparantieverplichting || transparantieverplichting-niet-van-toepassing) && (systeemrisico-systeemrisico || systeemrisico-geen-systeemrisico || systeemrisico-niet-van-toepassing) && (open-source-open-source || open-source-geen-open-source || open-source-niet-van-toepassing)"data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/vereisten/avg-03-minimale-verwerking-van-persoonsgegevens/index.html">Persoonsgegevens worden zo min mogelijk verwerkt</a></td><td><abbr title="Algemene Verordening Gegevensbescherming">AVG</abbr></td></tr><tr data-labels="(soort-toepassing-ai-model-voor-algemene-doeleinden || soort-toepassing-ai-systeem || soort-toepassing-ai-systeem-voor-algemene-doeleinden) && (risicogroep-hoog-risico-ai-systeem || risicogroep-geen-hoog-risico-ai-systeem || risicogroep-uitzondering-van-toepassing || risicogroep-verboden-ai) && (rol-ai-act-aanbieder || rol-ai-act-gebruiksverantwoordelijke || rol-ai-act-importeur || rol-ai-act-distributeur) && (transparantieverplichting-geen-transparantieverplichting || transparantieverplichting-transparantieverplichting || transparantieverplichting-niet-van-toepassing) && (systeemrisico-systeemrisico || systeemrisico-geen-systeemrisico || systeemrisico-niet-van-toepassing) && (open-source-open-source || open-source-geen-open-source || open-source-niet-van-toepassing)"data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/vereisten/avg-09-inroepen-privacyrecht-bij-verwerking-persoonsgegevens/index.html">Betrokkenen kunnen een beroep doen op hun privacyrechten</a></td><td><abbr title="Algemene Verordening Gegevensbescherming">AVG</abbr></td></tr><tr data-labels="(soort-toepassing-ai-model-voor-algemene-doeleinden || soort-toepassing-ai-systeem || soort-toepassing-ai-systeem-voor-algemene-doeleinden) && (risicogroep-hoog-risico-ai-systeem || risicogroep-geen-hoog-risico-ai-systeem || risicogroep-uitzondering-van-toepassing || risicogroep-verboden-ai) && (rol-ai-act-aanbieder || rol-ai-act-gebruiksverantwoordelijke || rol-ai-act-importeur || rol-ai-act-distributeur) && (transparantieverplichting-geen-transparantieverplichting || transparantieverplichting-transparantieverplichting || transparantieverplichting-niet-van-toepassing) && (systeemrisico-systeemrisico || systeemrisico-geen-systeemrisico || systeemrisico-niet-van-toepassing) && (open-source-open-source || open-source-geen-open-source || open-source-niet-van-toepassing)"data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/vereisten/awb-01-zorgvuldigheidsbeginsel/index.html">Organisaties die algoritmes gebruiken voor publieke taken nemen besluiten zorgvuldig</a></td><td><abbr title="Algemene wet bestuursrecht">AWB</abbr></td></tr><tr data-labels="(soort-toepassing-ai-model-voor-algemene-doeleinden || soort-toepassing-ai-systeem || soort-toepassing-ai-systeem-voor-algemene-doeleinden) && (risicogroep-hoog-risico-ai-systeem || risicogroep-geen-hoog-risico-ai-systeem || risicogroep-uitzondering-van-toepassing || risicogroep-verboden-ai) && (rol-ai-act-aanbieder || rol-ai-act-gebruiksverantwoordelijke || rol-ai-act-importeur || rol-ai-act-distributeur) && (transparantieverplichting-geen-transparantieverplichting || transparantieverplichting-transparantieverplichting || transparantieverplichting-niet-van-toepassing) && (systeemrisico-systeemrisico || systeemrisico-geen-systeemrisico || systeemrisico-niet-van-toepassing) && (open-source-open-source || open-source-geen-open-source || open-source-niet-van-toepassing)"data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/vereisten/grw-02-non-discriminatie/index.html">Algoritmes discrimineren niet</a></td><td>Grondwet</td></tr></tbody></table></div>
+
+<h2 id="aanbevolen-maatregelen">Aanbevolen maatregelen</h2>
+<div class="filter-wrapper" style="background-color: #e6f3fb; padding: 16px; border-radius: 8px; margin-bottom: 16px;"><form autocomplete="off" onsubmit="return false;"><div class="filter-container info"><input type="hidden" id="labelsInput"></input></div></form></div><div id="table-container" data-column-mapping='{"title": {"index": 0, "filterable": false}}'><table id='myTable'><thead><tr><th role="columnheader">Maatregelen</th></tr></thead><tbody><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/2-owp-03-doel-verwerken-persoonsgegevens/index.html">Beschrijf voor welk doel het algoritme persoonsgegevens gebruikt en waarom dit mag</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/2-owp-05-soort-algoritme/index.html">Stel vast in welke risicogroep het algoritme valt en bepaal vervolgens welke vereisten van toepassing zijn.</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/2-owp-09-archiveren-documenten/index.html">Bepaal welke documenten voor hoe lang gearchiveerd moeten worden</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/2-owp-10-projectstartarchitectuur/index.html">Maak een Project Startarchitectuur (PSA) voor de ontwikkeling of inkoop van algoritmes</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/2-owp-13-eenvoudigere-algoritmes/index.html">Ontwerp algoritmes zo eenvoudig mogelijk</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/2-owp-15-bespreek-vereisten-met-aanbieders/index.html">Bespreek de vereisten die gelden voor een verantwoorde inzet van algoritmes met aanbieders</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/2-owp-21-ruimte-voor-samenwerking-met-aanbieder/index.html">Creëer ruimte om met een aanbieder samen te gaan werken om specifieke vereisten te realiseren</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/2-owp-30-informeer-betrokkenen/index.html">Stel vast welke betrokkenen geïnformeerd moeten worden en welke informatie zij nodig hebben</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/2-owp-33-technische-interventies-robuustheid/index.html">Identificeer en implementeer technische interventies die robuustheid vergroten</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/3-dat-03-bewaartermijnen-persoonsgegevens/index.html">Geef data zoals persoonsgegevens een bewaartermijn met een vernietigingsprocedure</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/3-dat-04-pseudonimiseren-anonimiseren/index.html">Bescherm persoonsgegevens door data te anonimiseren, pseudonimiseren of te aggregeren</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/3-dat-06-duurzame-datacenters/index.html">Gebruik duurzame datacenters</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/3-dat-07-training-validatie-en-testdata/index.html">Gebruik bij machine learning technieken gescheiden train-, test- en validatiedata en houd rekening met underfitting en overfitting</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/3-dat-09-dataminimalisatie/index.html">Beperk de omvang van datasets voor energie-efficiëntie</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/4-owk-01-security-by-design/index.html">Ontwerp en ontwikkel het algoritme volgens de principes van ‘security by design’</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/4-owk-02-stopzetten-gebruik/index.html">Maak een noodplan voor het stoppen van het algoritme</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/4-owk-03-privacyrisico/index.html">Analyseer de privacy-risico’s en neem maatregelen om deze risico’s laag te houden</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/4-owk-04-logging/index.html">Maak logbestanden waarin staat wie wanneer toegang had tot de data en de code</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/4-owk-05-energiezuinige-programmeermethoden/index.html">Kies energiezuinige programmeermethoden</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/4-owk-06-optimaliseer-AI-training/index.html">Optimaliseer AI-trainingsprocessen voor energie-efficiëntie</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/4-owk-07-reproduceerbaarheid/index.html">Zorg voor reproduceerbaarheid van de uitkomsten</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/4-owk-08-feedbackloops/index.html">Bepaal welke feedbackloops van invloed zijn op het algoritme</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/4-owk-09-adversarial-aanvallen/index.html">Ontwerp en train het algoritme om bestand te zijn tegen (cyber)aanvallen</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/4-owk-10-voorkom-lekken-op-basis-van-output/index.html">Zorg dat (gevoelige) informatie niet kan lekken op basis van de output van het algoritme</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/4-owk-11-documenteer-parameters/index.html">Documenteer en beargumenteer de keuze voor gebruikte modellen en parameters</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/4-owk-12-licentiegebruik/index.html">Gebruik een passende licentie bij publicatie of gebruik van (open) data</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/5-ver-01-functioneren-in-lijn-met-doeleinden/index.html">Controleer regelmatig of het algoritme werkt zoals het bedoeld is</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/5-ver-02-evalueer-nauwkeurigheid/index.html">Evalueer de nauwkeurigheid van het algoritme</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/5-ver-06-evalueer-betrouwbaarheid/index.html">Evalueer de betrouwbaarheid van het algoritme</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/6-imp-09-interventies-ux/index.html">Neem technische interventies op in de gebruikersinterface om verkeerd gebruik te voorkomen</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/6-imp-10-proces-privacyrechten/index.html">Spreek af hoe de organisatie omgaat met privacy-verzoeken</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/7-mon-01-backups-maken/index.html">Maak back-ups van algoritmes</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/7-mon-02-beveiliging-algoritme/index.html">Beveilig de software</a></td></tr><tr data-labels=""data-uitzondering=""><td><a href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-787/voldoen-aan-wetten-en-regels/maatregelen/7-mon-08-test-weerbaarheid-tegen-aanvallen/index.html">Controleer regelmatig of een algoritme voldoende weerbaar is tegen bekende aanvallen</a></td></tr></tbody></table></div>
+
+<h2 id="help-ons-deze-pagina-te-verbeteren">Help ons deze pagina te verbeteren</h2>
+<p>Deel je idee, suggestie of opmerking via <a href="https://github.com/MinBZK/Algoritmekader/issues/new/choose">GitHub</a> of mail ons via <a href="mailto:algoritmes@minbzk.nl">algoritmes@minbzk.nl</a>.</p>
+
+
+
+
+
+
+
+  
+    
+  
+  
+    
+  
+
+
+  <aside class="md-source-file">
+    
+      
+  <span class="md-source-file__fact">
+    <span class="md-icon" title="Laatst geüpdatet">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
+    </span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="19 mei 2025 09:09:51 CEST">19 mei 2025</span>
+  </span>
+
+    
+    
+      
+  <span class="md-source-file__fact">
+    <span class="md-icon" title="Gecreëerd">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.47 15.08 11 13V7h1.5v5.25l3.08 1.83c-.41.28-.79.62-1.11 1m-1.39 4.84c-.36.05-.71.08-1.08.08-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8c0 .37-.03.72-.08 1.08.69.1 1.33.32 1.92.64.1-.56.16-1.13.16-1.72 0-5.5-4.5-10-10-10S2 6.5 2 12s4.47 10 10 10c.59 0 1.16-.06 1.72-.16-.32-.59-.54-1.23-.64-1.92M18 15v3h-3v2h3v3h2v-3h3v-2h-3v-3z"/></svg>
+    </span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="9 januari 2024 10:47:32 CET">9 januari 2024</span>
+  </span>
+
+    
+    
+    
+  </aside>
+
+
+
+  
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Terug naar boven
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+    <div class="md-footer__inner">
+      <!-- Left Section: Notice Text + Timestamp -->
+      <div class="md-footer__notice">
+        <p><b>Deze website is in ontwikkeling. De informatie verandert vaak. Wil je <a href="../../over-het-algoritmekader/CONTRIBUTING/">meehelpen?</a></b></p>
+        <div class="md-footer__timestamp">
+          
+          
+            <!-- mkdocs-git-revision-date-localized-plugin -->
+            
+              Deze pagina is voor het laatst geüpdatet op: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="19 mei 2025 09:09:51 CEST">19 mei 2025</span>
+            <!-- mkdocs-git-revision-date-plugin -->
+            
+          
+        </div>
+      </div>
+      <!-- Right Section: Links in Columns -->
+      <div class="md-footer__links">
+        <div class="md-footer__column">
+          <a href="../../over-het-algoritmekader/over-het-algoritmekader">Over het Algoritmekader</a>
+          <a href="../../over-het-algoritmekader/CONTRIBUTING/">Meedoen</a>
+          <a href="../../over-het-algoritmekader/CONTRIBUTING/#ik-heb-een-vraag">Contact</a>
+        </div>
+        <div class="md-footer__column">
+          <a href="https://overheid.nl/">Overheid.nl</a>
+          <a href="https://www.rijksoverheid.nl/">Rijksoverheid.nl</a>
+          <a href="https://www.digitaleoverheid.nl/">Digitale Overheid</a>
+          <a href="https://data.overheid.nl/">Data.overheid.nl</a>
+          <a href="https://aienalgoritmes.pleio.nl/">aienalgoritmes.pleio.nl</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+<div id="modal" class="minbzk-modal display-none">
+  <div class="modal-underlay" onclick="closeModal()"></div>
+  <div class="modal-content-container" id="modal-content-container">
+    <div class="modal-content-close" onclick="closeModal()">×</div>
+    <div class="modal-content" id="modal-content">
+  </div>
+  </div>
+</div>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.indexes", "navigation.tabs", "navigation.tabs.sticky", "navigation.top", "navigation.tracking", "navigation.instant", "navigation.footer", "navigation.prune", "navigation.path", "search.highlight", "search.suggest", "content.tooltips", "content.tabs.link"], "search": "../../assets/javascripts/workers/search.ad38c271.min.js", "tags": null, "translations": {"clipboard.copied": "Gekopieerd naar klembord", "clipboard.copy": "Kopi\u00ebren naar klembord", "search.result.more.one": "1 extra overeenkomst op deze pagina", "search.result.more.other": "# extra overeenkomsten op deze pagina", "search.result.none": "Geen overeenkomende documenten", "search.result.one": "1 overeenkomende document", "search.result.other": "# overeenkomende documenten", "search.result.placeholder": "Typ om te beginnen met zoeken", "search.result.term.missing": "Ontbreekt", "select.version": "Selecteer versie"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.b66b2b78.min.js"></script>
+      
+        <script src="../../javascripts/jquery-3.6.0.min.js"></script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+      
+        <script src="../../javascripts/exportExcel.js"></script>
+      
+        <script src="../../javascripts/choices.min.js"></script>
+      
+        <script src="../../javascripts/tablesort.min.js"></script>
+      
+        <script src="../../javascripts/tablesort.js"></script>
+      
+        <script src="../../javascripts/filtering.js"></script>
+      
+        <script src="../../javascripts/mermaid.min.js"></script>
+      
+        <script src="../../javascripts/modal.js"></script>
+      
+    
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
+</html>

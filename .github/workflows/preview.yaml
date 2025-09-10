@@ -31,7 +31,7 @@ jobs:
         run: |
           echo "site_url: https://minbzk.github.io/Algoritmekader/pr-preview/pr-${{github.event.number}}" >> mkdocs.yml
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         if: github.event.action != 'closed'
         with:
           python-version: 3.x

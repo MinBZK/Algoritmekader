@@ -436,59 +436,70 @@ def on_env(env, config: MkDocsConfig, files: Files):
 
         filters = []
 
-        # Add wrapper div with blue background around entire filter section
-        wrapper_class = "filter-wrapper"
-        if content_type == "vereisten":
-            wrapper_class += " vereisten-wrapper"
-
-        filters.append(
-            f'<div class="{wrapper_class}" style="background-color: #e6f3fb; padding: 16px; border-radius: 8px; margin-bottom: 16px;">'
+        # Check if any filters are actually enabled
+        has_search = filter_options.get("search", False)
+        has_column_filters = any(
+            filter_options.get(column.key, column.default_enabled)
+            and column.render_filter
+            for column in column_config
         )
+        has_ai_act_labels = filter_options.get("ai-act-labels", False)
+        has_filters = has_search or has_column_filters or has_ai_act_labels
 
-        filters.append('<form autocomplete="off" onsubmit="return false;">')
+        # Only add wrapper div with blue background if there are actual filters
+        if has_filters:
+            wrapper_class = "filter-wrapper"
+            if content_type == "vereisten":
+                wrapper_class += " vereisten-wrapper"
 
-        # Add special class for vereisten to enable compact layout
-        container_class = "filter-container info"
-        if content_type == "vereisten":
-            container_class += " vereisten-filters"
-
-        filters.append(f'<div class="{container_class}">')
-
-        filters.append('<input type="hidden" id="labelsInput"></input>')
-
-        if filter_options.get("search", True):
-            filters.append('<div class="filter-item filter-item--search">')
-            filters.append('<label for="filterInput">Zoeken</label>')
             filters.append(
-                f'<input type="text" id="filterInput" class="filter-item__input" onkeyup="filterTable()" placeholder="Zoek op {content_type}">'
+                f'<div class="{wrapper_class}" style="background-color: #e6f3fb; padding: 16px; border-radius: 8px; margin-bottom: 16px;">'
             )
+
+            filters.append('<form autocomplete="off" onsubmit="return false;">')
+
+            # Add special class for vereisten to enable compact layout
+            container_class = "filter-container info"
+            if content_type == "vereisten":
+                container_class += " vereisten-filters"
+
+            filters.append(f'<div class="{container_class}">')
+
+            filters.append('<input type="hidden" id="labelsInput"></input>')
+
+            if filter_options.get("search", True):
+                filters.append('<div class="filter-item filter-item--search">')
+                filters.append('<label for="filterInput">Zoeken</label>')
+                filters.append(
+                    f'<input type="text" id="filterInput" class="filter-item__input" onkeyup="filterTable()" placeholder="Zoek op {content_type}">'
+                )
+                filters.append("</div>")
+
+            # Generate filters dynamically based on column configuration
+            for column in column_config:
+                if (
+                    filter_options.get(column.key, column.default_enabled)
+                    and column.render_filter
+                ):
+                    filter_html = column.render_filter(list, filter_options)
+                    filters.extend(filter_html)
+
             filters.append("</div>")
+            filters.append("</form>")
 
-        # Generate filters dynamically based on column configuration
-        for column in column_config:
-            if (
-                filter_options.get(column.key, column.default_enabled)
-                and column.render_filter
-            ):
-                filter_html = column.render_filter(list, filter_options)
-                filters.extend(filter_html)
+            # AI-act labels info as separate div below the filter container
+            if filter_options.get("ai-act-labels", False):
+                filters.append("<div id='ai-act-labels-info' style='margin-top: 12px;'>")
+                filters.append(
+                    "<div id='ai-act-info-no-labels'><strong><a href='#' onclick=\"showModal(event, 'ai-act-labels');\">Kies je AI-verordeningprofiel</a> of <a href='#' onclick=\"showModal(event, 'beslishulp AI-verordening');\">gebruik de beslishulp AI-verordening</a> om vereisten te filteren.</strong></div>"
+                )
+                filters.append(
+                    "<div id='ai-act-info-with-labels' class='display-none'>Jouw AI-verordening profiel: <span id='ai-act-labels-container'></span> <a href='#' onclick=\"showModal(event, 'ai-act-labels');\">Wijzig je profiel</a> of <a href='#' onclick=\"showModal(event, 'beslishulp AI-verordening');\">open de beslishulp AI-verordening</a>.</div>"
+                )
+                filters.append("</div>")
 
-        filters.append("</div>")
-        filters.append("</form>")
-
-        # AI-act labels info as separate div below the filter container
-        if filter_options.get("ai-act-labels", False):
-            filters.append("<div id='ai-act-labels-info' style='margin-top: 12px;'>")
-            filters.append(
-                "<div id='ai-act-info-no-labels'><strong><a href='#' onclick=\"showModal(event, 'ai-act-labels');\">Kies je AI-verordeningprofiel</a> of <a href='#' onclick=\"showModal(event, 'beslishulp AI-verordening');\">gebruik de beslishulp AI-verordening</a> om vereisten te filteren.</strong></div>"
-            )
-            filters.append(
-                "<div id='ai-act-info-with-labels' class='display-none'>Jouw AI-verordening profiel: <span id='ai-act-labels-container'></span> <a href='#' onclick=\"showModal(event, 'ai-act-labels');\">Wijzig je profiel</a> of <a href='#' onclick=\"showModal(event, 'beslishulp AI-verordening');\">open de beslishulp AI-verordening</a>.</div>"
-            )
+            # Close the wrapper div
             filters.append("</div>")
-
-        # Close the wrapper div
-        filters.append("</div>")
 
         # Conditional excel export
         if should_show_export(current_file) and content_type in [

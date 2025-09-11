@@ -8,6 +8,7 @@ levenscyclus:
 - verificatie-en-validatie
 onderwerp:
 - fundamentele-rechten
+- menselijke-controle
 rollen:
 - projectleider
 - beleid-en-advies

@@ -132,13 +132,25 @@ Wil je de regels uit de AI-verordening overzichtelijk bekijken? Het Ministerie v
 
 ### Hulpmiddelen implementatie AI-verordening
 
-De Rijksoverheid ontwikkelt voortdurend instrumenten en hulpmiddelen om bij de implementatie van de AI-verordening te ondersteunen. Deze zijn te vinden onder de [Hulpmiddelen](../voldoen-aan-wetten-en-regels/hulpmiddelen/index.md) op het Algoritmekader.
+De Rijksoverheid ontwikkelt voortdurend instrumenten en hulpmiddelen om bij de implementatie van de AI-verordening te ondersteunen. 
+
+Hulpmiddelen op gebied van duiding van de AI-verordening:
+
+| Titel | Beschrijving |
+|---|---|
+| [Factsheet AI-verordening voor bestuurders](../voldoen-aan-wetten-en-regels/hulpmiddelen/factsheet-AI-verordening-bestuurders.md) | Deze factsheet is bedoelt voor bestuurders om snel inzicht te krijgen in de belangrijkste aspecten van de AI-verordening. |
+| [Impactanalyse AI-verordening](../voldoen-aan-wetten-en-regels/hulpmiddelen/Impactanalyse-AI-verordening.md) | De impactanalyse AI-verordening is een hulpmiddel bij de implementatie van de AI-verordening. Het geeft een overzicht van de vereisten in het licht van mogelijk reeds bestaande governance, maatregelen, etc. Het doel van de impactanalyse is om een betere inschatting te kunnen maken van de benodigde acties bij de implementatie voor alle soorten overheidsorganisaties. Om dit doel te kunnen behalen is gekozen voor generieke termen, de gebruiker moet deze zelf vertalen naar de eigen context. |
+| [Roadmap inwerkingtreding AI-verordening](../voldoen-aan-wetten-en-regels/hulpmiddelen/roadmap-inwerkingtreding-AI-verordening.md) | Dit document geeft een gedetailleerd overzicht van de gefaseerde inwerkingtreding van de AI-verordening. Voor een toegankelijke webpagina-versie (maar minder gedetailleerd), bekijk [deze tijdlijn](tijdlijn-ai-verordening.md). |
+
+Hulpmiddelen op gebied van AI-geletterdheid:
 
 | Titel | Beschrijving |
 |---|---|
 | Factsheet AI-verordening voor bestuurders | aaa |
 | a | aaa |
 | a | aaa |
+
+Al deze hulpmiddelen zijn ook te vinden onder de [Hulpmiddelen](../voldoen-aan-wetten-en-regels/hulpmiddelen/index.md) op het Algoritmekader.
 
 Deze hulpmiddelen voor de implementatie van de AI-verordening zijn ontwikkeld door de directie CIO Rijk (Ministerie van Binnenlandse Zaken en Koninkrijksrelaties) met adviseurs van het Rijks ICT Gilde en de interdepartementale werkgroep ‘Rijksbrede implementatie AI-verordening’ in opdracht van de CDO-raad.
 

@@ -10,5 +10,5 @@ pandas==2.3.2
 playwright==1.55.0
 pymdown-extensions==10.16.1
 pytest==8.4.2
-pytest-playwright==0.7.0
+pytest-playwright==0.7.1
 PyYAML==6.0.2

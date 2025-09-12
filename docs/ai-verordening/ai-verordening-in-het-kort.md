@@ -146,9 +146,11 @@ Hulpmiddelen op gebied van AI-geletterdheid:
 
 | Titel | Beschrijving |
 |---|---|
-| Factsheet AI-verordening voor bestuurders | aaa |
-| a | aaa |
-| a | aaa |
+| [Wettelijke vereisten AI-geletterdheid](../voldoen-aan-wetten-en-regels/hulpmiddelen/wettelijke-vereisten-AI-geletterdheid.md) | Deze factsheet zet uiteen wat de eisen op het gebied van AI-geletterdheid in de AI-verordening inhouden. |
+| [Blauwdruk AI-geletterdheidsprogramma](../voldoen-aan-wetten-en-regels/hulpmiddelen/wettelijke-vereisten-AI-geletterdheid.md) | Deze blauwdruk is opgesteld om als template te fungeren voor een AI-geletterdheidsprogramma waarmee voldaan kan worden aan de vereisten voor AI-geletterdheid uit de AI-verordening. |
+| [AI-Geletterdheid Self-assessment](../voldoen-aan-wetten-en-regels/hulpmiddelen/AI-Geletterdheid-self-assessment.md) | Met deze self-assessment kan men nagaan welk niveau AI-geletterdheid nodig is, en wat men kan doen om daar te komen. |
+| [Factsheet AI-geletterdheid voor bestuurders](../voldoen-aan-wetten-en-regels/hulpmiddelen/factsheet-AI-geletterdheid-bestuurders.md) | Deze factsheet is bedoelt voor bestuurders om snel inzicht te krijgen in de AI-geletterdheidvereisten die de AI-verordening introduceert. |
+| [AI-Geletterdheid Self-assessment](../voldoen-aan-wetten-en-regels/factsheet-AI-geletterdheid-inkopers.md) | Deze factsheet is bedoelt voor inkopers om snel inzicht te krijgen in de AI-geletterdheidvereisten die de AI-verordening introduceert. |
 
 Al deze hulpmiddelen zijn ook te vinden onder de [Hulpmiddelen](../voldoen-aan-wetten-en-regels/hulpmiddelen/index.md) op het Algoritmekader.
 

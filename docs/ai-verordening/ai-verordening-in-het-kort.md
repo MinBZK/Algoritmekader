@@ -39,6 +39,7 @@ De AI-verordening geldt voor AI-systemen.
 Een [rekenregel](../soorten-algoritmes-en-ai/wat-is-een-algoritme.md) is op zichzelf geen AI-systeem of AI-model. Rekenregels kunnen hier wel onderdeel van zijn.
 
 ### AI-systeem
+
 Een AI-systeem is volgens de AI-verordening:
 '(…) een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na de uitrol aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen.'
 
@@ -58,6 +59,7 @@ Symbolische AI is meestal ook een AI-systeem. Symbolische AI leert op basis van 
     De Europese Commissie publiceerde in februari 2025 [extra guidance over de definitie van een AI-systeem](https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-ai-system-definition-facilitate-first-ai-acts-rules-application). De richtlijnen over de definitie van een AI-systeem geven uitleg over de praktische toepassing van het wettelijke concept, zoals verankerd in de AI-verordening.
 
 ### AI-model voor algemene doeleinden
+
 Een AI-model voor algemene doeleinden (GPAI):
 
 * is onderdeel van AI-systemen zoals ChatGPT of Microsoft Copilot
@@ -80,6 +82,7 @@ De AI-verordening geldt zowel voor ontwikkelaars van AI-systemen als voor organi
 De belangrijkste begrippen die de AI-verordening hiervoor gebruikt zijn: aanbieder en gebruiksverantwoordelijke.
 
 ### Aanbieder
+
 Dit is de organisatie die het AI-systeem ontwikkelt.
 
 !!! warning "Let op!"
@@ -87,6 +90,7 @@ Dit is de organisatie die het AI-systeem ontwikkelt.
     Je bent ook een aanbieder als je een AI-systeem laat ontwikkelen en het systeem in de handel brengt of in gebruik stelt onder de eigen naam of merk. Of wanneer je een substantiele wijziging aanbrengt in het AI-systeem dat al in gebruik is genomen. Lees meer in [Overweging 84](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#rct_1) van de AI-verordening.
 
 ### Gebruiksverantwoordelijke
+
 Dit is de organisatie die het AI-systeem onder eigen verantwoordelijkheid gebruikt.
 
 !!! note "Opmerking"
@@ -94,6 +98,7 @@ Dit is de organisatie die het AI-systeem onder eigen verantwoordelijkheid gebrui
     Als je het AI-systeem dat je gebruikt ook zelf hebt ontwikkeld, dan ben je zowel aanbieder als gebruiksverantwoordelijke.
 
 ### Andere rollen
+
 De AI-verordening definieert ook andere rollen zoals importeur, distributeur of gemachtigde. Deze zijn voor overheden meestal niet van toepassing.
 
 ## Tijdlijn
@@ -118,18 +123,38 @@ In de [tijdlijn AI-verordening](tijdlijn-ai-verordening.md) vind je alle vereist
 ## Hulp bij de AI-verordening
 
 ### Beslishulp AI-verordening
+
 Met de <a href="#" onclick="showModal(event, 'beslishulp AI-verordening', {redirectUrl: 'voldoen-aan-wetten-en-regels/vereisten/'});">beslishulp AI-verordening</a> bepaal je snel en gemakkelijk of jouw AI-product onder de AI-verordening valt. En wat je dan moet doen.
 
-### AI-Gids Rijksoverheid
-Wil je de regels uit de AI-verordening overzichtelijk bekijken? De Rijksoverheid schreef de [Gids AI-verordening](https://www.rijksoverheid.nl/documenten/brochures/2024/10/16/gids-ai-verordening). Dit document zet deze regels helder op een rij en gaat ook dieper in op de mogelijke implicaties van de wet voor het gebruik en de ontwikkeling van AI binnen jouw organisatie.
+### Gids AI-verordening
+
+Wil je de regels uit de AI-verordening overzichtelijk bekijken? Het Ministerie van Economische Zaken schreef de [Gids AI-verordening](https://www.rijksoverheid.nl/ministeries/ministerie-van-economische-zaken/documenten/brochures/2024/10/16/gids-ai-verordening). Dit document zet deze regels helder op een rij en gaat ook dieper in op de mogelijke implicaties van de wet voor het gebruik en de ontwikkeling van AI binnen jouw organisatie.
 
 ### Hulpmiddelen implementatie AI-verordening
-De Rijksoverheid ontwikkelt voortdurend [instrumenten en hulpmiddelen om bij de implementatie van de AI-verordening te ondersteunen](https://aienalgoritmes.pleio.nl/wiki/view/6e0e62ea-b3bc-4a95-8ba7-59672e9ffd0d/ai-verordening-hulpmiddelen-implementatie). Op dit moment vindt u via deze link:
-* Een handreiking om te bepalen of iets een AI-systeem is volgens de AI-verordening
-* Een factsheet over de AI-verordening voor bestuurders
-* Een factsheet over AI-geletterdheid
 
-Verder vindt u op verschillende pagina's van dit Algoritmekader links naar allerlei instrumenten die op verscheidene plekken worden ontwikkeld.
+De Rijksoverheid ontwikkelt voortdurend instrumenten en hulpmiddelen om bij de implementatie van de AI-verordening te ondersteunen. 
+
+Hulpmiddelen op gebied van duiding van de AI-verordening:
+
+| Titel | Beschrijving |
+|---|---|
+| [Factsheet AI-verordening voor bestuurders](../voldoen-aan-wetten-en-regels/hulpmiddelen/factsheet-AI-verordening-bestuurders.md) | Deze factsheet is bedoelt voor bestuurders om snel inzicht te krijgen in de belangrijkste aspecten van de AI-verordening. |
+| [Impactanalyse AI-verordening](../voldoen-aan-wetten-en-regels/hulpmiddelen/Impactanalyse-AI-verordening.md) | De impactanalyse AI-verordening is een hulpmiddel bij de implementatie van de AI-verordening. Het geeft een overzicht van de vereisten in het licht van mogelijk reeds bestaande governance, maatregelen, etc. Het doel van de impactanalyse is om een betere inschatting te kunnen maken van de benodigde acties bij de implementatie voor alle soorten overheidsorganisaties. Om dit doel te kunnen behalen is gekozen voor generieke termen, de gebruiker moet deze zelf vertalen naar de eigen context. |
+| [Roadmap inwerkingtreding AI-verordening](../voldoen-aan-wetten-en-regels/hulpmiddelen/roadmap-inwerkingtreding-AI-verordening.md) | Dit document geeft een gedetailleerd overzicht van de gefaseerde inwerkingtreding van de AI-verordening. Voor een toegankelijke webpagina-versie (maar minder gedetailleerd), bekijk [deze tijdlijn](tijdlijn-ai-verordening.md). |
+
+Hulpmiddelen op gebied van AI-geletterdheid:
+
+| Titel | Beschrijving |
+|---|---|
+| [Wettelijke vereisten AI-geletterdheid](../voldoen-aan-wetten-en-regels/hulpmiddelen/wettelijke-vereisten-AI-geletterdheid.md) | Deze factsheet zet uiteen wat de eisen op het gebied van AI-geletterdheid in de AI-verordening inhouden. |
+| [Blauwdruk AI-geletterdheidsprogramma](../voldoen-aan-wetten-en-regels/hulpmiddelen/wettelijke-vereisten-AI-geletterdheid.md) | Deze blauwdruk is opgesteld om als template te fungeren voor een AI-geletterdheidsprogramma waarmee voldaan kan worden aan de vereisten voor AI-geletterdheid uit de AI-verordening. |
+| [AI-Geletterdheid Self-assessment](../voldoen-aan-wetten-en-regels/hulpmiddelen/AI-Geletterdheid-self-assessment.md) | Met deze self-assessment kan men nagaan welk niveau AI-geletterdheid nodig is, en wat men kan doen om daar te komen. |
+| [Factsheet AI-geletterdheid voor bestuurders](../voldoen-aan-wetten-en-regels/hulpmiddelen/factsheet-AI-geletterdheid-bestuurders.md) | Deze factsheet is bedoelt voor bestuurders om snel inzicht te krijgen in de AI-geletterdheidvereisten die de AI-verordening introduceert. |
+| [Factsheet AI-geletterdheid voor inkopers](../voldoen-aan-wetten-en-regels/hulpmiddelen/factsheet-AI-geletterdheid-inkopers.md) | Deze factsheet is bedoelt voor inkopers om snel inzicht te krijgen in de AI-geletterdheidvereisten die de AI-verordening introduceert. |
+
+Al deze hulpmiddelen zijn ook te vinden onder de [Hulpmiddelen](../voldoen-aan-wetten-en-regels/hulpmiddelen/index.md) op het Algoritmekader.
+
+Deze hulpmiddelen voor de implementatie van de AI-verordening zijn ontwikkeld door de directie CIO Rijk (Ministerie van Binnenlandse Zaken en Koninkrijksrelaties) met adviseurs van het Rijks ICT Gilde en de interdepartementale werkgroep ‘Rijksbrede implementatie AI-verordening’ in opdracht van de CDO-raad.
 
 ## Help ons deze pagina te verbeteren
 Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/issues/new/choose) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

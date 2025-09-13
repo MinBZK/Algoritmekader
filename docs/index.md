@@ -42,7 +42,7 @@ hide:
     <h3><b><a href="voldoen-aan-wetten-en-regels/">Voldoen aan wetten en regels</a></b></h3>
     <ul>
       <li><a href="voldoen-aan-wetten-en-regels/vereisten/">Vereisten, inclusief AI-verordening</a></li>
-      <li><a href="voldoen-aan-wetten-en-regels/maatregelen/">Overzicht Aanbevolen maatregelen</a></li>
+      <li><a href="voldoen-aan-wetten-en-regels/maatregelen/">Overzicht aanbevolen maatregelen</a></li>
       <li><a href="voldoen-aan-wetten-en-regels/hulpmiddelen/">Hulpmiddelen</a></li>
     </ul>
 

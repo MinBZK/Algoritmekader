@@ -1,5 +1,5 @@
 ---
-title: Geautomiseerde risicoselectie 
+title: Geautomatiseerde risicoselectie 
 summary: Algoritmen met geautomatiseerde risicoselectie zijn gevoelig en vereisen speciale aandacht. 
 ---
 

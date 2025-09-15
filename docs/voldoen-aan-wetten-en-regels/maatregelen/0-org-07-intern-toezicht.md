@@ -1,7 +1,7 @@
 ---
-title: Richt een algoritmegovernance in met three lines of defence
+title: Richt een algoritmegovernance in op basis van het Three Lines-model
 id: urn:nl:ak:mtr:org-07
-toelichting: Richt een algoritmegovernance in met three lines of defence
+toelichting: Richt een algoritmegovernance in op basis van het Three Lines-model
 levenscyclus:
 - organisatieverantwoordelijkheden
 onderwerp:
@@ -18,19 +18,17 @@ hide:
 
 ## Maatregel
 
-Richt een algoritmegovernance in met three lines of defence.
+Richt een algoritmegovernance in op basis van het Three Lines-model.
 
 ## Toelichting
 
-Een inrichting van algoritmegovernance die vaak wordt toegepast is het three lines of defence model:
+Een inrichting van algoritmegovernance die vaak wordt toegepast is het Three Lines-model:
 
 - De eerste linie gaat over eigenaarschap, ontwikkeling, gebruik en risicobeheersing van algoritmes.
-- De tweede linie identificeert, beoordeelt en rapporteert over risico’s en het uitgevoerde gebruik algoritmes.
+- De tweede linie identificeert, beoordeelt en rapporteert over risico’s en het uitgevoerde gebruik van algoritmes.
 - De derde verdedigingslinie controleert de werking van de governance en betreft interne advisering en toetsing.
 
-Schuett (2022) presenteert het three lines of defence model als volgt:
-
-![Three Lines of Defence Model](https://github.com/user-attachments/assets/4974f07d-9810-44e0-a0bb-56f1b1061732)
+Meer informatie over het inrichten van een Three Lines-model vind je in [de handreiking van het Institute of Global Auditors (IIA)](https://www.theiia.org/globalassets/documents/resources/the-iias-three-lines-model-an-update-of-the-three-lines-of-defense-july-2020/three-lines-model-updated-dutch.pdf).
 
 Het toepassen van een 'three lines of defence' is slechts één aspect van het toepassen van algoritmegoverance.
 
@@ -43,7 +41,8 @@ Een risico van het vermijden van het three lines of defence model is dat er stap
     <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
-Geen beschikbare bron voor deze maatregel.
+
+- [Institute of Global Auditors (IIA) - Handreiking Three Lines Model (Nederlands)](https://www.theiia.org/globalassets/documents/resources/the-iias-three-lines-model-an-update-of-the-three-lines-of-defense-july-2020/three-lines-model-updated-dutch.pdf).
 
 ## Voorbeelden
 !!! example "UWV - Risicomanagementbeleid"

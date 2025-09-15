@@ -48,7 +48,8 @@ Hieronder vallen systemen die kunstmatig intelligent zijn door [zelflerende tech
 * supervised learning
 * unsupervised learning
 * reinforcement learning (bekrachtiginsleren)
-* deep learning
+
+In combinatie met deze zelflerende technieken kan ook gebruik gemaakt worden van deep learning.
 
 Onder AI-systemen vallen ook systemen die gebruik maken van op logica en kennis gebaseerde benaderingen (<span lang="en">_knowledge and logic-based approaches_</span>) die leren, redeneren of modelleren mogelijk maken.
 

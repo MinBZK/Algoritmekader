@@ -28,6 +28,7 @@ Taken en verantwoordelijkheden zijn toebedeeld in de algoritmegovernance.
 - Rollen en verantwoordelijkheden kunnen worden gekoppeld aan de [vereisten](../vereisten/index.md) en [maatregelen](../maatregelen/index.md) die moeten worden gerealiseerd in de verschillende [fasen van de levenscyclus](../../levenscyclus/over-de-levenscyclus.md) van een algoritme.
 - Organisaties zullen zelf moeten beoordelen welke taken en verantwoordelijkheden ze willen koppelen aan de beschikbare (of nieuwe) rollen binnen hun organisaties.
 - Zie hieronder een mogelijk voorbeeld van hoe dit eruit kan zien.
+- Bij zeer complexe processen waarbij ondersteunende rollen nodig zijn, kun je ook de uitgebreidere RASCI-matrix gebruiken, waarbij de toegevoegde S staat voor Supportive.
 
 ![Format](https://github.com/user-attachments/assets/3debe7b6-0c42-40f5-a366-9cc5cc90cd3e)
 
@@ -67,11 +68,11 @@ Een risico dat kan worden gemitigeerd met behulp van deze maatregel is dat het w
 	Bron: Analytische en Cognitieve Technologie | CoE Cognitieve Oplossingen
 
 
-!!! example "Verschillende organisaties  - Three lines of defence"
+!!! example "Verschillende organisaties  - Three-lines-model"
 
-	Er zijn verschillende organisaties waaronder het UWV en gemeente Rotterdam die gebruik maken van het three-lines-of-defence model. Dit model geeft aan dat er drie niveaus zijn van verantwoordelijkheid voor een effectieve governance. De eerste lijn gaat vaak over de directe acties, de tweede lijn over het ondersteunen van de eerste lijn en de derde lijn over het controleren van lijn een en twee.
+	Er zijn verschillende organisaties waaronder het UWV en gemeente Rotterdam die gebruik maken van het three-lines-model. Dit model geeft aan dat er drie niveaus zijn van verantwoordelijkheid voor een effectieve governance. De eerste lijn gaat vaak over de directe acties, de tweede lijn over het ondersteunen van de eerste lijn en de derde lijn over het controleren van lijn een en twee.
 
-    Meer informatie over het implementeren van het three-lines-of-defence model is te vinden onder ["Richt een algoritmegovernance in met three lines of defence"](0-org-07-intern-toezicht.md)
+    Meer informatie over het implementeren van het three-lines-model is te vinden onder ["Richt een algoritmegovernance in met three lines of defence"](0-org-07-intern-toezicht.md)
 
 
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) .

@@ -38,7 +38,7 @@ De Europese Commissie biedt [Europese modelcontractbepalingen voor laag- en hoog
 De Europese modelcontractbepalingen voor AI zijn gebaseerd op onder andere de modelbepalingen die de Gemeente Amsterdam eerder opstelde. Deze dienen als voorbeeld voor andere gemeenten die algoritmische toepassingen willen inkopen.
 
 ### AI-module bij ARBIT-2022
-De AI-module bij de [ARBIT](https://www.pianoo.nl/nl/regelgeving/voorwaarden/rijksoverheid/algemene-rijksinkoopvoorwaarden-bij-it-overeenkomsten-arbit) (Algemene Rijksinkoopvoorwaarden bij IT‑overeenkomsten) is gebaseerd op de Europese modelcontractbepalingen voor AI. Via een verwijzing in de gebruikte modelovereenkomst kan de AI-module onderdeel uitmaken van een onder de ARBIT te sluiten overeenkomst.
+De AI-module bij de [ARBIT](https://www.pianoo.nl/nl/regelgeving/voorwaarden/rijksoverheid/algemene-rijksinkoopvoorwaarden-bij-it-overeenkomsten-arbit) (Algemene Rijksinkoopvoorwaarden bij IT‑overeenkomsten) is gebaseerd op de Europese modelcontractbepalingen voor AI. Via een verwijzing in de gebruikte modelovereenkomst kan de AI-module onderdeel uitmaken van een onder de ARBIT te sluiten overeenkomst. In de [Leidraad voor inkopen en ontwikkelen algoritmes in IT-toepassingen](https://www.pianoo.nl/sites/default/files/media/documents/2025-01/Leidraad-CoP-Digitale-innovaties-jan2025.pdf) vanuit PIANOo vind je handvatten om je op weg te helpen.
 
 De ARBIT zijn bedoeld voor kleine en middelgrote IT-inkopen door de overheid.
 
@@ -73,6 +73,7 @@ Let bij het inkopen van generatieve AI specifiek op de volgende zaken.
 - [Modelbepalingen voor gemeenten voor verantwoord gebruik van Algoritmische toepassingen](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmen-ai/contractvoorwaarden-algoritmen/)
 - [Contractvoorwaarden voor het inkopen van artificiële intelligentie (AI)](https://www.pianoo.nl/nl/document/21644/contractvoorwaarden-voor-het-inkopen-van-artificiele-intelligentie-ai)
 - [AI-module bij de modelovereenkomst ARBIT-2022](https://www.pianoo.nl/nl/regelgeving/voorwaarden/rijksoverheid/algemene-rijksinkoopvoorwaarden-bij-it-overeenkomsten-arbit)
+- [Leidraad voor inkopen en ontwikkelen algoritmes in IT-toepassingen](https://www.pianoo.nl/sites/default/files/media/documents/2025-01/Leidraad-CoP-Digitale-innovaties-jan2025.pdf)
 - [EuroLLM](https://sites.google.com/view/eurollm/home)
 - [OpenGPT-X Teuken-modellen](https://www.iais.fraunhofer.de/en/business-areas/speech-technologies/conversational-ai/opengpt-x.html)
 - [Holistic Foundation of Language Models](https://crfm.stanford.edu/helm/classic/latest/)

@@ -37,11 +37,13 @@ Het is van belang dat generatieve AI op een juiste en verantwoorde manier wordt 
 * Onderzoek van tevoren welk model de beste resultaten oplevert. Voor specialistische of complexe onderwerpen kan dat bijvoorbeeld een kleiner model zijn.
 * Gebruik generatieve AI niet om foto's, video's en voice-overs te genereren, zeker niet wanneer deze publiekelijk gedeeld worden.
 * Houd er rekening mee dat je organisatie, wanneer je een AI-model voor algemene doeleinden gebruikt, te maken krijgt met vereisten uit de [AI-verordening](../ai-verordening/ai-verordening-in-het-kort.md). Bekijk de [tijdlijn met vereisten](../ai-verordening/tijdlijn-ai-verordening.md).
+* Als je bij een Rijkskennisinstituut werkt, kun je ook gebruik maken van het [RKI-kader voor generatieve AI](../assets/documents/Kader-verantwoord-gebruik-generatieveAI-RKIs.pdf) (PDF) om je wat meer praktische handvatten te geven.
 
 ## Bronnen
 * [Overheidsbreed standpunt voor de inzet van generatieve AI](https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/het-overheidsbrede-standpunt-voor-de-inzet-van-generatieve-ai)
 * [Overheidsbrede handreiking generatieve AI](https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/overheidsbrede-handreiking-generatieve-ai)
 * [Open Source Initiative](https://opensource.org/ai/open-source-ai-definition)
+* [RKI-kader voor generatieve AI](../assets/documents/Kader-verantwoord-gebruik-generatieveAI-RKIs.pdf) (PDF)
 
 ## Help ons deze pagina te verbeteren
 Deel je idee, suggestie of opmerking [via GitHub](https://github.com/MinBZK/Algoritmekader/issues/new/choose) of mail ons via algoritmes@minbzk.nl.

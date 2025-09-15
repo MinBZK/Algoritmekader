@@ -5,21 +5,29 @@ hide:
 ---
 
 # Fase 7: Monitoring en beheer
-Het algoritme wordt in deze fase voortdurend gemonitord om ervoor te zorgen dat het blijft presteren zoals verwacht en kan worden gebruikt door gebruikers.
-Eventuele afwijkingen of degradatie van prestaties worden gesignaleerd en er worden maatregelen getroffen om dit te herstellen.
-Dit is van belang vanuit een technisch perspectief (presteert het model nog wel waar het voor ontworpen is), maar ook vanuit een juridische en ethische blik (functioneert het model nog wel rechtmatig en zijn er geen onvoorziene nadelige effecten op mens en maatschappij).
-Hierbij dient ook voortdurend gemonitord te worden of de omstandigheden waarin het algoritme wordt gebruikt veranderlijk zijn, en of daar op geanticipeerd moet worden.
-Dit kan bijvoorbeeld spelen bij veranderende data of bij het uitvoeren van nieuw beleid of wet- en regelgeving in het werkproces dat wordt ondersteund met het algoritme.
+In deze fase monitor en beheer je het algoritme of AI-systeem. Dit betekent dat je steeds controleert of het nog presteert zoals verwacht. En of gebruikers ermee kunnen werken. Presteert het algoritme of AI-systeem niet of minder goed, dan los je dit probleem op.
 
-Het is van belang dat beheer wordt uitgevoerd over het algoritme, zodat de (gehele) oplossing operationeel blijft.
-Een wijziging in onderliggende systemen kan er bijvoorbeeld voor zorgen dat het algoritme niet meer wordt voorzien van de noodzakelijk data om de benodigde output te genereren.
-Het beheerteam zorgt ervoor dat dergelijke situaties worden voorkomen of opgelost. Er kunnen ook incidenten worden gemeld door gebruikers die worden opgelost door het beheerteam.
+## Monitoren
+Tijdens het monitoren van het algoritme of AI-systeem let je in elk geval op de volgende punten:
 
-## Vereisten { data-search-exclude }
+* Technisch: Doet het nog waarvoor het is ontworpen? Oftewel: is het [technisch robuust](https://minbzk.github.io/Algoritmekader/onderwerpen/technische-robuustheid-en-veiligheid/)?
+* Juridisch: Werkt het nog op een rechtmatige manier?
+* Ethisch: Heeft het geen onverwacht nadelig effect op bepaalde mensen of de maatschappij?
+* Zijn de omstandigheden nog hetzelfde waarin de organisatie het gebruikt? Data kan bijvoorbeeld veranderen. Of het werkproces zelf verandert door nieuw beleid of nieuwe wet- en regelgeving.
+
+Als blijkt dat het algoritme of AI-systeem niet meer goed functioneert, neem je passende maatregelen.
+
+## Beheren
+Het is nodig om het algoritme of AI-systeem te beheren om het in de lucht en goed werkend te houden. Het beheerteam zorgt ervoor dat het algoritme of AI-systeem altijd klaar is voor gebruik. Dit team:
+
+* voorkomt storingen, zoals het wegvallen van data door wijzigingen in andere systemen
+* lost problemen op, zoals meldingen van gebruikers
+
+## Vereisten monitoring en beheer { data-search-exclude }
 
 <!-- list_vereisten levenscyclus/monitoring-en-beheer no-rol no-levenscyclus no-search no-onderwerp -->
 
-## Aanbevolen maatregelen { data-search-exclude }
+## Aanbevolen maatregelen monitoring en beheer { data-search-exclude }
 
 <!-- list_maatregelen levenscyclus/monitoring-en-beheer no-rol no-levenscyclus no-search no-onderwerp -->
 

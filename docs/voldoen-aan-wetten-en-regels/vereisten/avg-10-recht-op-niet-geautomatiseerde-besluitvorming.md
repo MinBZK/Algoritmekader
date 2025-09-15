@@ -9,6 +9,7 @@ levenscyclus:
 - implementatie
 onderwerp:
 - privacy-en-gegevensbescherming
+- menselijke-controle
 rollen:
 - projectleider
 - beleid-en-advies

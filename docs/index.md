@@ -10,7 +10,7 @@ hide:
 <div class="header-container">
     <div class="subheader">Belangrijkste wetten en regels voor verantwoord gebruik van overheidsalgoritmes, met tips en hulpmiddelen.
     <span class="version-container">
-      <span class="version-label">Versie 2.3</span>
+      <span class="version-label">Versie 2.4</span>
       <div class="hover-info">
         <p>Deze website is in ontwikkeling. Alle versies ontstaan op een open manier. <a href="over-het-algoritmekader/CONTRIBUTING/">Iedereen mag opmerkingen of suggesties geven.</a></p>
       </div>
@@ -42,7 +42,7 @@ hide:
     <h3><b><a href="voldoen-aan-wetten-en-regels/">Voldoen aan wetten en regels</a></b></h3>
     <ul>
       <li><a href="voldoen-aan-wetten-en-regels/vereisten/">Vereisten, inclusief AI-verordening</a></li>
-      <li><a href="voldoen-aan-wetten-en-regels/maatregelen/">Overzicht Aanbevolen maatregelen</a></li>
+      <li><a href="voldoen-aan-wetten-en-regels/maatregelen/">Overzicht aanbevolen maatregelen</a></li>
       <li><a href="voldoen-aan-wetten-en-regels/hulpmiddelen/">Hulpmiddelen</a></li>
     </ul>
 

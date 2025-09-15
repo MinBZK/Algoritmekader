@@ -24,7 +24,7 @@ hide: navigation
 
 [Download hier de Factsheet AI-verordening voor bestuurders](documenten/AI-Verordening_Factsheet_Bestuurders.pdf){ .button .md-button--secondary }
 ## Hulpmiddel
-Deze factsheet is bedoelt voor bestuurders om snel inzicht te krijgen in de belangrijkste aspecten van de AI-verordening. 
+Deze factsheet is bedoelt voor bestuurders om snel inzicht te krijgen in de belangrijkste aspecten van de AI-verordening.
 
 ### Kan ik 100% op dit document vertrouwen?
 Hoewel deze informatie zorgvuldig is opgesteld kunnen er bepaalde nuances zijn verloren, gebruik deze handreiking daarom altijd samen met [de officiële tekst van de AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689).

@@ -1,6 +1,6 @@
 ---
 title: Governancekader AI en algoritmen voor en door gemeenten
-toelichting: Dit kader helpt gemeenten om AI en algoritmen op een ethische, veilige en transparante manier in te kopen, te ontwikkelen, beheren en implementeren. Hierdoor worden risico's, zoals privacyschending, discriminatie en kansenongelijkheid, geminimaliseerd. Dit draagt bij aan het vertrouwen van in deze digitale middelen van bijvoorbeeld de gemeenteraad, medewerkers, regelgevers en inwoners.  
+toelichting: Dit kader helpt gemeenten om AI en algoritmen op een ethische, veilige en transparante manier in te kopen, te ontwikkelen, beheren en implementeren. Hierdoor worden risico's, zoals privacyschending, discriminatie en kansenongelijkheid, geminimaliseerd. Dit draagt bij aan het vertrouwen van in deze digitale middelen van bijvoorbeeld de gemeenteraad, medewerkers, regelgevers en inwoners.
 categorie:
 - handreiking
 - register
@@ -10,7 +10,7 @@ levenscyclus:
 - ontwerp
 - ontwikkelen
 - verificatie-en-validatie
-- implementatie 
+- implementatie
 - monitoring-en-beheer
 - uitfaseren
 onderwerp:

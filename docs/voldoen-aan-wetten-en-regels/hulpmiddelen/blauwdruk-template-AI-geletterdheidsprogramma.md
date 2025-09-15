@@ -25,12 +25,12 @@ hide: navigation
 [Download hier de Blauwdruk AI-geletterdheidsprogramma](documenten/AI-Verordening_Blauwdruk_Geletterdheidsprogramma.pdf){ .button .md-button--secondary }
 
 ## Hulpmiddel
-Deze blauwdruk is opgesteld om als template te fungeren voor een AI-geletterdheidsprogramma waarmee voldaan kan worden aan de vereisten voor AI-geletterdheid uit de AI-verordening. 
+Deze blauwdruk is opgesteld om als template te fungeren voor een AI-geletterdheidsprogramma waarmee voldaan kan worden aan de vereisten voor AI-geletterdheid uit de AI-verordening.
 
 Omdat de opgave om aan AI-geletterdheid te voldoen sterk afhankelijk is van de omvang en het soort organisatie, en de mate waarin AI-systemen worden gebruikt is bij het opstellen van deze blauwdruk gekozen voor zo algemeen mogelijke beschrijvingen.
 
-Deze blauwdruk is daarom bedoeld om vertaald te worden naar een plan van aanpak door en voor uw eigen organisatie. 
-Hierbij zijn niet alleen de omvang van de organisatie en AI-systemen die in gebruik zijn relevant. 
+Deze blauwdruk is daarom bedoeld om vertaald te worden naar een plan van aanpak door en voor uw eigen organisatie.
+Hierbij zijn niet alleen de omvang van de organisatie en AI-systemen die in gebruik zijn relevant.
 Ook bestaande governance in het digitale domein, trainings- en opleidingsinitiatieven, en ander beleid, strategieën, en initiatieven die gerelateerd zijn aan AI en awareness/training zijn relevant om te betrekken bij het opstellen van een AI-geletterdheidsprogramma voor uw organisatie.
 
 De Autoriteit Persoonsgegevens heeft ook een document dat helpt bij de stappen die men kan zetten op het gebied van AI-geletterdheid, getiteld ['Aan de slag met AI-geletterdheid
@@ -38,7 +38,7 @@ De Autoriteit Persoonsgegevens heeft ook een document dat helpt bij de stappen d
 
 
 ### AI-geletterdheid
-Al-geletterdheid moet betrokkenen in staat stellen om onderbouwde beslissingen te kunnen maken met betrekking tot Al-systemen. 
+Al-geletterdheid moet betrokkenen in staat stellen om onderbouwde beslissingen te kunnen maken met betrekking tot Al-systemen.
 Afhankelijk van iemands rol en het toepassingsgebied van het Al-systeem, bestaat een toereikend niveau van Al-geletterdheid uit inzicht in:
 
 - De correcte toepassing van technische elementen tijdens de ontwikkeling van Al-systemen.

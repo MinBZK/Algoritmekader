@@ -1,10 +1,10 @@
 ---
 title: Impactanalyse AI-verordening
-toelichting: De impactanalyse AI-verordening is een hulpmiddel bij de implementatie van de AI-verordening. Het geeft een overzicht van de vereisten in het licht van mogelijk reeds bestaande governance, maatregelen, etc. 
+toelichting: De impactanalyse AI-verordening is een hulpmiddel bij de implementatie van de AI-verordening. Het geeft een overzicht van de vereisten in het licht van mogelijk reeds bestaande governance, maatregelen, etc.
 categorie:
 - impact-assessment
 vereiste:
-- 
+-
 maatregel:
 - 0-org-00-inventariseren-algoritmes
 - 0-org-02-beleid-opstellen-inzet-algoritmes
@@ -26,10 +26,10 @@ hide: navigation
 
 [Download hier de Impactanalyse AI-verordening (.xlsx)](documenten/AI-verordening_Impact_Analyse.xlsx){ .button .md-button--secondary }
 ## Hulpmiddel
-De impactanalyse AI-verordening is een hulpmiddel bij de implementatie van de AI-verordening. 
-Het geeft een overzicht van de vereisten in het licht van mogelijk reeds bestaande governance, maatregelen, etc. 
-Het doel van de impactanalyse is om een betere inschatting te kunnen maken van de benodigde acties bij de implementatie voor alle soorten overheidsorganisaties. 
-Om dit doel te kunnen behalen is gekozen voor generieke termen, de gebruiker moet deze zelf vertalen naar de eigen context. 
+De impactanalyse AI-verordening is een hulpmiddel bij de implementatie van de AI-verordening.
+Het geeft een overzicht van de vereisten in het licht van mogelijk reeds bestaande governance, maatregelen, etc.
+Het doel van de impactanalyse is om een betere inschatting te kunnen maken van de benodigde acties bij de implementatie voor alle soorten overheidsorganisaties.
+Om dit doel te kunnen behalen is gekozen voor generieke termen, de gebruiker moet deze zelf vertalen naar de eigen context.
 
 ### Kan ik 100% op dit document vertrouwen?
 Hoewel deze informatie zorgvuldig is opgesteld kunnen er bepaalde nuances zijn verloren, gebruik deze handreiking daarom altijd samen met [de officiële tekst van de AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689).

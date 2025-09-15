@@ -203,7 +203,7 @@ def _render_wetcode_filter(
 ) -> List[str]:
     """Generate filter options for wet-code column"""
     global _current_config
-    
+
     wet_codes = set()
     for file in file_list:
         vereiste_id = file.page.meta.get("id", "")[14:]
@@ -240,13 +240,13 @@ def _render_wetcode_filter(
         abbreviations = _load_abbreviations(_current_config)
     else:
         abbreviations = {}
-        
+
     keep_abbreviated = {"AVG", "BIO", "BZK", "WOO", "AWB"}
 
     for code in sorted_codes:
         wet_code_upper = code.upper()
         display_name = wet_mapping.get(code, wet_code_upper)
-        
+
         if wet_code_upper in abbreviations and wet_code_upper in keep_abbreviated:
             table_display = wet_code_upper
             filter_display = wet_code_upper
@@ -256,10 +256,8 @@ def _render_wetcode_filter(
         else:
             table_display = display_name
             filter_display = display_name
-            
-        filter_html.append(
-            f'<option value="{table_display}">{filter_display}</option>'
-        )
+
+        filter_html.append(f'<option value="{table_display}">{filter_display}</option>')
 
     filter_html.extend(["</select>", "</div>"])
     return filter_html
@@ -420,6 +418,7 @@ def should_show_export(current_file: File) -> bool:
 def on_env(env, config: MkDocsConfig, files: Files):
     global _current_config
     _current_config = config
+
     def generate_filters(
         content_type: str,
         list: List[File],
@@ -489,7 +488,9 @@ def on_env(env, config: MkDocsConfig, files: Files):
 
             # AI-act labels info as separate div below the filter container
             if filter_options.get("ai-act-labels", False):
-                filters.append("<div id='ai-act-labels-info' style='margin-top: 12px;'>")
+                filters.append(
+                    "<div id='ai-act-labels-info' style='margin-top: 12px;'>"
+                )
                 filters.append(
                     "<div id='ai-act-info-no-labels'><strong><a href='#' onclick=\"showModal(event, 'ai-act-labels');\">Kies je AI-verordeningprofiel</a> of <a href='#' onclick=\"showModal(event, 'beslishulp AI-verordening');\">gebruik de beslishulp AI-verordening</a> om vereisten te filteren.</strong></div>"
                 )

@@ -4,7 +4,7 @@ toelichting: Dit document geeft een gedetailleerd overzicht van de gefaseerde in
 categorie:
 - roadmap
 vereiste:
-- 
+-
 maatregel:
 - 0-org-00-inventariseren-algoritmes
 - 0-org-02-beleid-opstellen-inzet-algoritmes
@@ -25,7 +25,7 @@ hide: navigation
 
 [Download hier de Roadmap inwerkingtreding AI-verordening (.xlsx)](documenten/AI_Verordening_Roadmap_Inwerkingtreding.pdf){ .button .md-button--secondary }
 ## Hulpmiddel
-Dit document geeft een gedetailleerd overzicht van de gefaseerde inwerkingtreding van de AI-verordening. 
+Dit document geeft een gedetailleerd overzicht van de gefaseerde inwerkingtreding van de AI-verordening.
 Voor een toegankelijke webpagina-versie (maar minder gedetailleerd), bekijk deze [tijdlijn op het Algoritmekader](../../ai-verordening/tijdlijn-ai-verordening.md).
 
 ### Kan ik 100% op dit document vertrouwen?

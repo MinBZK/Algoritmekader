@@ -133,7 +133,7 @@ Wil je de regels uit de AI-verordening overzichtelijk bekijken? Het Ministerie v
 
 ### Hulpmiddelen implementatie AI-verordening
 
-De Rijksoverheid ontwikkelt voortdurend instrumenten en hulpmiddelen om bij de implementatie van de AI-verordening te ondersteunen. 
+De Rijksoverheid ontwikkelt voortdurend instrumenten en hulpmiddelen om bij de implementatie van de AI-verordening te ondersteunen.
 
 Hulpmiddelen op gebied van duiding van de AI-verordening:
 

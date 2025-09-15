@@ -1,6 +1,6 @@
 ---
 title: Menselijke controle over algoritmes
-hide: 
+hide:
 - path
 ---
 
@@ -11,12 +11,12 @@ Algoritmes van de overheid moeten onder controle blijven van mensen. Presteert h
 Menselijke controle over een algoritme of AI-systeem betekent dat mensen invloed hebben op de uitkomsten. Mensen moeten het ontwerp van het algoritme kunnen aanpassen. En mensen moeten het algoritme kunnen stoppen. Zo kun je op tijd ingrijpen als er iets fout gaat.
 
 ## Belang van menselijke controle
-Algoritmes kunnen schade veroorzaken in de maatschappij. Gebruik je een algoritme voor een publieke taak, dan moet je dit continu op een of andere manier controleren. 
+Algoritmes kunnen schade veroorzaken in de maatschappij. Gebruik je een algoritme voor een publieke taak, dan moet je dit continu op een of andere manier controleren.
 
 ### Ontwerp
-Tijdens het ontwerp van een algoritme of AI-systeem controleer je bijvoorbeeld of het algoritme op de juiste manier ‘getraind’ wordt. Maakt het bijvoorbeeld gebruik van een goede dataset, zonder bias, die representatief is voor de samenleving? En je controleert of het algoritme bepaalde groepen niet benadeelt. 
+Tijdens het ontwerp van een algoritme of AI-systeem controleer je bijvoorbeeld of het algoritme op de juiste manier ‘getraind’ wordt. Maakt het bijvoorbeeld gebruik van een goede dataset, zonder bias, die representatief is voor de samenleving? En je controleert of het algoritme bepaalde groepen niet benadeelt.
 
-Voordat je een algoritme gaat gebruiken, is het belangrijk om [het doel te bepalen](../voldoen-aan-wetten-en-regels/maatregelen/1-pba-02-formuleren-doelstelling.md). 
+Voordat je een algoritme gaat gebruiken, is het belangrijk om [het doel te bepalen](../voldoen-aan-wetten-en-regels/maatregelen/1-pba-02-formuleren-doelstelling.md).
 
 ### Gebruik
 Tijdens het gebruik van een algoritme is menselijke controle belangrijk omdat de werking verandert in de loop der tijd:
@@ -26,7 +26,7 @@ Tijdens het gebruik van een algoritme is menselijke controle belangrijk omdat de
 - Nieuwe mogelijkheden ontstaan door technologische ontwikkelingen. Zo maken leerlingen en studenten massaal gebruik van large language modellen (LLM’s) zoals ChatGPT.
 
 ### Mensen
-Er is maatschappelijke consensus dat alleen natuurlijke personen in staat zijn om een goede (ethische) afweging te maken over wanneer en welke controle nodig is. Menselijke controle kan je dus niet automatiseren. Mensen mogen zich hierbij wel laten helpen door computers of andere technologie. 
+Er is maatschappelijke consensus dat alleen natuurlijke personen in staat zijn om een goede (ethische) afweging te maken over wanneer en welke controle nodig is. Menselijke controle kan je dus niet automatiseren. Mensen mogen zich hierbij wel laten helpen door computers of andere technologie.
 
 ## Aanpak menselijke controle
 Je kunt op verschillende manieren controle houden over de prestaties van een algoritme:
@@ -35,9 +35,9 @@ Je kunt op verschillende manieren controle houden over de prestaties van een alg
 * Contextuele controle: Controle van de omgeving van het algoritme. Je verbiedt bijvoorbeeld dat je organisatie het algoritme gebruikt in situaties met een hoog risico op schade.
 * Controle door kennis: Je probeert de werking en risico’s van je algoritmes zo goed mogelijk te begrijpen. Gaat het om een AI-systeem, dan heb je ook [voldoende kennis over AI](../voldoen-aan-wetten-en-regels/vereisten/aia-01-ai-geletterdheid.md) nodig.
 
-Wanneer en hoe je controle uitoefent, hangt af van het [soort algoritme en risico](../overhetalgoritmekader/soorten-algoritmes.md), de [levenscyclusfase](../levenscyclus/index.md) van je project en je [expertise](../rollen/index.md). 
+Wanneer en hoe je controle uitoefent, hangt af van het [soort algoritme en risico](../soorten-algoritmes-en-ai/wat-is-een-algoritme.md), de [levenscyclusfase](../levenscyclus/index.md) van je project en je [expertise](../rollen/index.md).
 
-Bepaal in elk geval zo vroeg mogelijk wie in welke levenscyclusfase verantwoordelijk is voor menselijke controle. En [beschrijf dit in een RACI-matrix of VERI-matrix](../voldoen-aan-wetten-en-regels/maatregelen/2-owp-01-rollen-en-verantwoordelijkheden.md). Want menselijke controle is nodig in verschillende fases, door verschillende mensen. Er is nooit 1 persoon verantwoordelijk voor de totale controle. 
+Bepaal in elk geval zo vroeg mogelijk wie in welke levenscyclusfase verantwoordelijk is voor menselijke controle. En [beschrijf dit in een RACI-matrix of VERI-matrix](../voldoen-aan-wetten-en-regels/maatregelen/2-owp-01-rollen-en-verantwoordelijkheden.md). Want menselijke controle is nodig in verschillende fases, door verschillende mensen. Er is nooit 1 persoon verantwoordelijk voor de totale controle.
 
 Tijdens het gebruik kun je menselijke controle op de volgende manieren uitoefenen:
 
@@ -63,4 +63,4 @@ Na het bepalen van de manier van controleren, bepaal je de manier waarop je feed
 <!-- list_hulpmiddelen onderwerp/menselijke-controle no-search no-onderwerp no-rol no-levenscyclus no-id -->
 
 ## Help ons deze pagina te verbeteren
-Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/onderwerpen/menselijke-controle/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).
+Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/onderwerpen/menselijke-controle.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

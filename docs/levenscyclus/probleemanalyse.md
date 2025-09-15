@@ -1,27 +1,35 @@
---- 
+---
 title: Fase 1, probleemanalyse
 hide:
 - toc
 ---
 
 # Fase 1: Probleemanalyse
-In deze fase wordt het probleem en de doelstellingen van een opdrachtgever geanalyseerd en beschreven. 
-Er wordt bijvoorbeeld onderzocht welke publieke taak moet worden ondersteund en welke publieke waarden daarbij moeten worden beschermd of juist gerealiseerd. 
-In deze fase wordt onderzocht of het ontwikkelen van een algoritme een geschikt middel is om het doel te realiseren en het probleem op te lossen.
-Dat hangt van verschillende zaken af. 
+In deze fase maak je een analyse van het probleem en de doelstellingen van de opdrachtgever. En je onderzoekt of een algoritme of AI-systeem een geschikte oplossing is.
 
-Hierbij kan worden gedacht aan de middelen (capaciteit en financiële middelen) die nodig zijn om algoritmen op een verantwoorde wijze te ontwikkelen, de complexiteit van de oplossing, het in beeld brengen van de verwachte risico's (hoog over), een eerste beeld krijgen bij wat voor data nodig zijn en het in kaart brengen en beleggen van de verschillende verantwoordelijkheden. 
-Daarnaast is het van belang om het beleid met betrekking tot de inzet van algoritme een organisatie te raadplegen.  
+## Aanpak probleemanalyse
+Eerst onderzoek je het doel en het probleem van de opdrachtgever, bijvoorbeeld:
 
-Er zal een conclusie moeten volgen of de ontwikkeling van een algoritme passend is. 
-Deze fase wordt doorgaans afgerond met een akkoord van de (gemandateerd) verantwoordelijk(en)/opdrachtgever om een algoritme te ontwikkelen. 
-Een vastgestelde business case of plan van aanpak vormen veelal de basis om de ontwerpfase te starten met de benodigde experts. 
+* welke publieke taak het algoritme of AI-systeem moet ondersteunen
+* welke publieke waarden je daarbij moet beschermen of bereiken
 
-## Vereisten { data-search-exclude }
+Daarna onderzoek je of een algoritme of AI-systeem een geschikte manier is om het doel van de opdrachtgever te bereiken en het probleem op te lossen. Dit hangt van af van bijvoorbeeld:
+* kosten van het verantwoord ontwikkelen van algoritmes en AI
+* aantal medewerkers dat nodig is voor het verantwoord ontwikkelen van algoritmes en AI
+* complexiteit van de oplossing
+* verwachte risico's
+* soort data dat nodig is
+* wie welke verantwoordelijkheid krijgt
+* beleid van de opdrachtgever over het gebruik van algoritmes en AI
+
+Uiteindelijk concludeer je of het ontwikkelen of inkopen van een algoritme of AI-systeem wel of niet passend is. Meestal vraag je hiervoor akkoord van de opdrachtgever of de (gemandateerd) verantwoordelijke. 
+Kiest de opdrachtgever voor het ontwikkelen van een algoritme of AI-systeem, dan ga je verder met het [ontwerp](https://minbzk.github.io/Algoritmekader/levenscyclus/ontwerp/).
+
+## Vereisten probleemanalyse { data-search-exclude }
 
 <!-- list_vereisten levenscyclus/probleemanalyse no-rol no-levenscyclus no-search no-onderwerp -->
 
-## Aanbevolen maatregelen { data-search-exclude }
+## Aanbevolen maatregelen probleemanalyse { data-search-exclude }
 
 <!-- list_maatregelen levenscyclus/probleemanalyse no-rol no-levenscyclus no-search no-onderwerp -->
 

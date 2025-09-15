@@ -12,20 +12,20 @@ rollen:
 - projectleider
 soort-toepassing:
 - ai-model-voor-algemene-doeleinden
-risicogroep: 
+risicogroep:
 - niet-van-toepassing
 rol-ai-act:
 - aanbieder
-transparantieverplichting: 
+transparantieverplichting:
 - geen-transparantieverplichting
-- transparantieverplichting 
+- transparantieverplichting
 systeemrisico:
 - niet-van-toepassing
-open-source: 
+open-source:
 - open-source
 - geen-open-source
 - niet-van-toepassing
-uitzondering: 
+uitzondering:
 - risicogroep-uitzondering-van-toepassing
 hide:
 - navigation
@@ -39,7 +39,7 @@ Er is beleid opgesteld ter naleving van auteursrechten en naburige rechten door 
 ## Toelichting
 Aanbieders van AI-modellen voor algemene doeleinden stellen beleid op ter naleving van het Unierecht inzake auteursrechten en naburige rechten en dan met name ter vaststelling en naleving, onder meer door middel van geavanceerde technologieën, van een op grond van artikel 4, lid 3, van Richtlijn (EU) 2019/790 tot uitdrukking gebracht voorbehoud van rechten.
 
-Hiervoor dient de rechthebbende van materialen die auteursrechtelijk zijn beschermd een uitdrukkelijk voorbehoud te hebben gemaakt voor het verder gebruik van deze materialen. 
+Hiervoor dient de rechthebbende van materialen die auteursrechtelijk zijn beschermd een uitdrukkelijk voorbehoud te hebben gemaakt voor het verder gebruik van deze materialen.
 
 Deze eis geldt ongeacht de jurisdictie waarin de auteursrechtelijke relevante handelingen plaatsvinden die helpen bij het trainen van die AI-modellen voor algemene doeleienden.
 
@@ -47,21 +47,21 @@ Alleen op deze manier kan gezorgd worden voor een gelijk speelveld voor aanbiede
 
 Voor een grotere transparantie ten aanzien van de bij de pre-training en training van AI-modellen voor algemene doeleinden gebruikte data, met inbegrip van door het auteursrecht beschermde tekst en data, is het passend dat aanbieders van dergelijke modellen een voldoende gedetailleerde samenvatting maken en publiceren van de voor de training van het AI-model voor algemene doeleinden gebruikte content.
 
-Zo kan er bijvoorbeeld een opsomming worden gegeven van de belangrijkste gegevensverzamelingen of -reeksen waarmee het model is getraind, zoals grote particuliere of openbare databanken of gegevensarchieven, en kan een uitleg in de vorm van een relaas worden gegeven over andere gebruikte gegevensbronnen. 
+Zo kan er bijvoorbeeld een opsomming worden gegeven van de belangrijkste gegevensverzamelingen of -reeksen waarmee het model is getraind, zoals grote particuliere of openbare databanken of gegevensarchieven, en kan een uitleg in de vorm van een relaas worden gegeven over andere gebruikte gegevensbronnen.
 
 Het AI-bureau moet kunnen controleren of de aanbieder aan deze eisen voldoet, zonder evenwel geval voor geval de trainingsdata te controleren of te beoordelen qua naleving van het auteursrecht.
 
 ## Bronnen
 [Artikel 53(1 sub c) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5576-1-1)
 
-[Artikel 4(3) Richtlijn inzake auteursrechten en naburige rechten in de digitale eengemaakte markt en tot wijziging van Richtlijnen (96/9/EG en 2001/29/EG)](https://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=CELEX:32019L0790). 
+[Artikel 4, lid 3, DSM-auteursrechtrichtlijn](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32019L0790#art_4).
 
-## Van toepassing op 
+## Van toepassing op
 <!-- tags-ai-act -->
 
 ## Risico
 
-Door het niet voeren van een beleid voor het naleven van auteursrechten en naburige rechten, ontstaat het risico dat met het ontwikkeling, trainen en testen van AI-modellen een inbreuk wordt gemaakt op deze rechten. 
+Door het niet voeren van een beleid voor het naleven van auteursrechten en naburige rechten, ontstaat het risico dat met het ontwikkeling, trainen en testen van AI-modellen een inbreuk wordt gemaakt op deze rechten.
 
 ## Maatregelen { data-search-exclude }
 

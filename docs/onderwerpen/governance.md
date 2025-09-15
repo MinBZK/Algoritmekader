@@ -1,7 +1,7 @@
 ---
 title: Governance van algoritmes binnen je organisatie
 summary: Governance gaat over de inrichting van een organisatie en daar bijbehorende processen en verantwoordelijkheden.
-hide: 
+hide:
 - path
 ---
 
@@ -11,7 +11,7 @@ Zorg voor effectieve governance van je algoritmes. Dit is het beleid van je orga
 ## Wat is governance van algoritmes binnen je organisatie?
 Algoritme-governance is de manier waarop je organisatie omgaat met algoritmes en AI-systemen. Algoritme-governance beschrijft een systeem van regels, werkwijzen, processen en technologische hulpmiddelen die worden gebruikt om ervoor te zorgen dat het gebruik van algoritmes door een organisatie in overeenstemming is met de strategieën, doelstellingen en waarden van de organisatie[^1]. En dat je voldoet aan wettelijke vereisten en ethische principes.
 
-[^1]: Vrij vertaald van de definitie van AI-governance gedefinieerd door [Mäntymäki, M., Minkkinen, M., Birkstedt, T. et al. Defining organizational AI governance. AI Ethics 2, 603–609 (2022).](https://doi.org/10.1007/s43681-022-00143-x)
+[^1]: Vrij vertaald van de definitie van AI-governance gedefinieerd door [Mäntymäki, M., Minkkinen, M., Birkstedt, T. et al. Defining organizational AI governance. AI Ethics 2, 603–609 (2022).](https://link.springer.com/article/10.1007/s43681-022-00143-x)
 
 Belangrijke aandachtspunten zijn:
 
@@ -36,7 +36,7 @@ Dit zijn afspraken over het beheer en de totstandkoming van de algoritmes zelf, 
 - procedures voor klachten of vragen
 
 ## Belang van algoritme-governance
-Zonder governance verlies je grip op het inkopen, ontwikkelen, gebruiken en uitfaseren van algoritmes en AI. Dit vergroot het risico op overtredingen van wetten en regels zoals de [AI-verordening](../voldoen-aan-wetten-en-regels/ai-verordening.md), Grondwet, Algemene Verordening Gegevensbescherming (AVG) en Auteurswet. 
+Zonder governance verlies je grip op het inkopen, ontwikkelen, gebruiken en uitfaseren van algoritmes en AI. Dit vergroot het risico op overtredingen van wetten en regels zoals de [AI-verordening](../ai-verordening/index.md), Grondwet, Algemene Verordening Gegevensbescherming (AVG) en Auteurswet.
 
 Goede governance van algoritmes helpt bij het:
 
@@ -45,7 +45,7 @@ Goede governance van algoritmes helpt bij het:
 - ontwikkelen en implementeren van algoritmetoepassingen
 
 ## Aanpak algoritme-governance
-Algoritme-governance bepaal je zelf als organisatie. 
+Algoritme-governance bepaal je zelf als organisatie.
 
 Houd in elk geval rekening met:
 
@@ -53,9 +53,13 @@ Houd in elk geval rekening met:
 - [levenscyclus van algoritmes](../levenscyclus/index.md): waar je per fase op moet letten
 - [zoek aansluiting met bestaande governancestructuren](../voldoen-aan-wetten-en-regels/maatregelen/0-org-05-bestaande-governance.md)
 
-!!! tip "Tip" 
+!!! tip "Tip"
 
     Zorg dat iemand verantwoordelijk is voor algoritme-governance. En betrek stakeholders.
+
+!!! tip "Governancekader VNG"
+
+    Werk je bij een gemeente? Je kunt [het VNG-Governancekader](https://aigovernance.vng.nl/) alvast raadplegen. Hierop vind je diverse hulpmiddelen die te maken hebben met AI-governance. Dit Governancekader is nog in ontwikkeling.
 
 ## Vereisten
 

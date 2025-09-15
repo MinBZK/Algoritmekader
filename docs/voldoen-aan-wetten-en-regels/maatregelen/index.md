@@ -1,5 +1,6 @@
 ---
 title: Aanbevolen maatregelen
+allow_excel_export: true
 hide:
   - navigation
   - toc
@@ -8,7 +9,6 @@ hide:
 # Aanbevolen maatregelen
 Overzicht van maatregelen waarmee je kunt voldoen aan de vereisten voor de overheid. Deze maatregelen zijn niet verplicht. Andere maatregelen zijn ook mogelijk.
 
-## Overzicht maatregelen { data-search-exclude }
 
 <!-- list_maatregelen -->
 
@@ -23,15 +23,15 @@ De maatregelen zijn niet verplicht. Het zijn adviezen uit:
 
 !!! info "Benieuwd hoe de maatregelen samenhangen met het Onderzoekskader van de Auditdienst Rijk en het Toetsingskader van de Algemene Rekenkamer?"
 
-    Bekijk de [mapping](https://github.com/MinBZK/Algoritmekader/blob/main/relatie-ak-tot-toetsingskaders.csv) tussen de maatregelen van het Algoritmekader en de maatregelen uit het [Toetsingskader Algoritmes](../hulpmiddelen/toetsingskader-algemene-rekenkamer.md) en het [Onderzoekskader algoritmes](../hulpmiddelen/onderzoekskader-adr.md). Hierin kan je voor iedere maatregel uit één van de kaders vinden waar deze terugkomt in het Algoritmekader. Dit staat ook altijd aangegeven in de bronvermelding van de betreffende maatregel. 
+    Bekijk de zogenaamde 'mapping' tussen de maatregelen uit het Algoritmekader, het [Toetsingskader Algoritmes](../hulpmiddelen/toetsingskader-algemene-rekenkamer.md) en het [Onderzoekskader algoritmes](../hulpmiddelen/onderzoekskader-adr.md). Hierin zie je waar elke maatregel uit deze kaders terugkomt in het Algoritmekader. Dit staat ook altijd aangegeven in de bronvermelding van de betreffende maatregel.
 
-    [Download de mapping](https://github.com/MinBZK/Algoritmekader/blob/main/relatie-ak-tot-toetsingskaders.csv){ .md-button .md-button--primary }
+    [Download mapping](https://github.com/MinBZK/Algoritmekader/blob/main/relatie-ak-tot-toetsingskaders.csv){ .md-button .md-button--primary }
 
 ### Voorbeeld
 > Onderzoek het ontwikkelde algoritme op onbewuste vooringenomenheid (discriminatie) door middel van een bias-analyse.
 
 Deze maatregel helpt om te voldoen aan de vereiste om niet te discrimineren. Maar deze maatregel is niet verplicht. Je organisatie mag ook eigen maatregelen nemen. Zolang je uiteindelijk maar voldoet aan de vereiste.
-    
+
 ## Aantal maatregelen verschilt per situatie
 Welke maatregelen handig zijn in jouw situatie, hangt af van:
 

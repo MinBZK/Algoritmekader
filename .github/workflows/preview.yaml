@@ -5,7 +5,7 @@ on:
       - opened
       - reopened
       - synchronize
-      - closed    
+      - closed
 
 concurrency: preview-${{ github.ref }}
 
@@ -14,7 +14,7 @@ jobs:
     name: deploy PR
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
@@ -25,31 +25,31 @@ jobs:
 
       - name: inject version
         run: |
-          sed -i 's/development/${{ steps.get_commit_hash.outputs.commit_hash }}/g' docs/version.md      
+          sed -i 's/development/${{ steps.get_commit_hash.outputs.commit_hash }}/g' docs/version.md
 
       - name: Add url
         run: |
           echo "site_url: https://minbzk.github.io/Algoritmekader/pr-preview/pr-${{github.event.number}}" >> mkdocs.yml
 
-      - uses: actions/setup-python@v5
-        if: github.event.action != 'closed' 
+      - uses: actions/setup-python@v6
+        if: github.event.action != 'closed'
         with:
           python-version: 3.x
           cache: 'pip'
 
       - name: install dependencies
-        if: github.event.action != 'closed' 
+        if: github.event.action != 'closed'
         run: |
           git config --global url."https://github-actions:${{ secrets.MATERIAL_INSIDERS_TOKEN }}@github".insteadOf ssh://git@github
           pip install -r requirements-prod.txt
 
       - name: build preview
-        if: github.event.action != 'closed' 
+        if: github.event.action != 'closed'
         run: mkdocs build
 
       - uses: actions/upload-artifact@v4
-        if: github.event.action != 'closed' 
-        with: 
+        if: github.event.action != 'closed'
+        with:
           name: AlgoritmeKaderWebsite-${{github.event.number}}
           path: ./site/
 

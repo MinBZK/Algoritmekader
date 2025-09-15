@@ -2,7 +2,7 @@
 # Dit template dient als voorbeeld voor een VEREISTE in het Algoritmekader.
 # Meer over de onderdelen van deze broncode en de voorwaarden waar die aan moeten voldoen, lees je in de documentatie:
 # https://github.com/MinBZK/Algoritmekader/wiki/Onderdelen-van-het-Algoritmekader
-# let op!  Geen punt (.) achter de titel! 
+# let op!  Geen punt (.) achter de titel!
 
 title: Hier staat de titel, die in 1 zin de regel/wet/verplichting/gewenste situatie beschrijft
 
@@ -76,9 +76,9 @@ Hoe moet die regel geïnterpreteerd worden?
 ## Bronnen
 <!-- Hier staan, als lijstje, de bronnen van de vereiste. Liefst worden hier de exacte artikelen genoemd uit de betreffende wet, inclusief een link naar de wet. -->
 - (denk aan de extra enter vóór en na een lijstje met koppeltekens).
-- [Artikel 12345, Voorbeeldwet](www.url van wetsartikel.nl)
+- [Artikel 12345, Voorbeeldwet](url van wetsartikel)
 
-## Van toepassing op 
+## Van toepassing op
 <!-- Onderstaande titel Van toepassing op, en de code met tags-ai-act laten staan, dit is nodig voor het functioneren van de website. Hier komen de goede labels te staan, afhankelijk van wat er in de metadata is aangegeven bij de verschillende AI-Verordening labels / profielen (zie hierboven). -->
 <!-- tags-ai-act -->
 
@@ -90,5 +90,3 @@ Hier staat uitgelegd, in één alinea, wat het risico is als deze vereiste níet
 <!-- Onderstaande tag met list_maatregelen is nodig voor het juist laten zien van een lijstje met de bijbehorende maatregelen bij deze vereiste. In maatregelbestanden wordt aangegeven bij welke vereisten die maatregel hoort. LET OP: pas wel de code van de vereiste aan, zodat de góede maatregelen worden gebruikt. Waar hieronder dus nog aia-02-documentatie-beoordeling-niet-hoog-risico-ai staat, maak daarvan de bestandsnaam van de vereiste die je nu aan het aanpassen/toevoegen bent (exclusief de bestandsuitgang .md). -->
 
 <!-- list_maatregelen vereiste/aia-02-documentatie-beoordeling-niet-hoog-risico-ai no-search no-onderwerp no-rol no-levenscyclus -->
-
-

@@ -16,16 +16,16 @@ risicogroep:
 - hoog-risico-ai-systeem
 rol-ai-act:
 - aanbieder
-transparantieverplichting: 
+transparantieverplichting:
 - geen-transparantieverplichting
-- transparantieverplichting 
+- transparantieverplichting
 systeemrisico:
 - niet-van-toepassing
-open-source: 
+open-source:
 - open-source
 - geen-open-source
 - niet-van-toepassing
-uitzondering: 
+uitzondering:
 - risicogroep-uitzondering-van-toepassing
 hide:
 - navigation
@@ -43,9 +43,9 @@ Hoog-risico-AI-systemen zijn getest.
 AI-systemen met een hoog risico worden getest met het oog op het vaststellen van passende en gerichte risicobeheersmaatregelen.
 De tests zorgen ervoor dat AI-systemen met een hoog risico consistent presteren ten aanzien van het doel ervan en in overeenstemming zijn met de geldende eisen.
 
-Het testen van AI-systemen met een hoog risico vindt, zoals passend, in de loop van het ontwikkelproces plaats en in ieder geval voordat het systeem in de handel wordt gebracht of in gebruik is gesteld. 
+Het testen van AI-systemen met een hoog risico vindt, zoals passend, in de loop van het ontwikkelproces plaats en in ieder geval voordat het systeem in de handel wordt gebracht of in gebruik is gesteld.
 
-Er wordt getest aan de hand van vooraf vastgestelde beoordelingsmaatstaven en probabilistische drempels die passend zijn voor het beoogde doel van het AI-systeem met een hoog risico. De procedures voor testen zijn onderdeel van het [kwaliteitsbeheer](aia-11-systeem-voor-kwaliteitsbeheer.md). 
+Er wordt getest aan de hand van vooraf vastgestelde beoordelingsmaatstaven en probabilistische drempels die passend zijn voor het beoogde doel van het AI-systeem met een hoog risico. De procedures voor testen zijn onderdeel van het [kwaliteitsbeheer](aia-11-systeem-voor-kwaliteitsbeheer.md).
 
 Bij het verwerken van persoonsgegevens voor het ontwikkelen, trainen en testen van een AI-systeem in een AI-testomgeving, wordt een volledige en gedetailleerde beschrijving van het testproces en de testresultaten onderdeel van de technische documentatie.
 
@@ -89,12 +89,12 @@ k. de voorspellingen, aanbevelingen of beslissingen van het AI-systeem kunnen da
 
 [Overweging 138 - 141 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3906-1-1)
 
-## Van toepassing op 
+## Van toepassing op
 <!-- tags-ai-act -->
 
 ## Risico
-Zonder het testen van een AI-systeem, ontstaat het risico dat het AI-systeem inconsistent gaat presteren ten aanzien van het doel. 
+Zonder het testen van een AI-systeem, ontstaat het risico dat het AI-systeem inconsistent gaat presteren ten aanzien van het doel.
 
 ## Maatregelen
-	
+
 <!-- list_maatregelen vereiste/aia-38-testen no-search no-onderwerp no-rol no-levenscyclus -->

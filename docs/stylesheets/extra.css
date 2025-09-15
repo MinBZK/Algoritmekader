@@ -49,8 +49,14 @@ p, h1, h2, h3, h4, h5, h6 {
   color: #154273;
 }
 
-h1 {
-  color: #154273;
+.md-typeset h3 {
+  font-size: 1.2em;
+  margin-block-end:0;
+  font-weight: 500;
+}
+
+.md-typeset hr {
+  margin: 1em 0;
 }
 
 /* Stijlen voor de tabel */
@@ -105,7 +111,7 @@ tbody tr td a:hover {
 
 .float-container a {
   color: #154273;
-  text-align: left; 
+  text-align: left;
   text-decoration: underline;
 }
 
@@ -123,13 +129,13 @@ tbody tr td a:hover {
 .md-typeset .admonition.simple,
 .md-typeset details.simple {
   border-color: rgb(5, 80, 141);
-  text-align: left; 
+  text-align: left;
 }
 
 .md-typeset .simple > .admonition-title,
 .md-typeset .simple > summary {
   background-color: rgba(185, 185, 185, 0.1);
-  text-align: left; 
+  text-align: left;
 }
 
 .md-typeset .simple > .admonition-title::before,
@@ -146,7 +152,7 @@ tbody tr td a:hover {
 }
 
 .info-section h2 {
-  font-size: 1.5em;
+  font-size: .8em;
   color: #154273;
   margin: 0 0 10px;
   text-align: left; /* Ensure left alignment */
@@ -621,6 +627,7 @@ background-color: #B2D7EE;
   background-color: #01689B;
   color: #FFFFFF;
   border-color: #01689B;
+  box-shadow: 0 0 8px 2px rgba(0,0,0,0);
   text-decoration: none;
 }
 
@@ -631,13 +638,22 @@ background-color: #B2D7EE;
   text-decoration: none;
   font-size: 16px;
   font-weight: 700;
-  transition: color 150ms ease-in-out, box-shadow 150ms ease-in-out;
-
+  box-shadow: 0 0 8px 2px rgba(255, 255, 255, 0);
 }
 
 .md-typeset .md-button--secondary:hover {
+  background-color: #ffffff;
   color: #154271;
-  box-shadow: 0 0 8px 2px rgba(21, 66, 113, 0.6); /* Glow effect */
+  border: 1px solid #154271;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 700;
+  box-shadow: 0 0 8px 2px rgba(21, 66, 113, 0.6);
+}
+
+.md-typeset .md-button--secondary .material-icons {
+  vertical-align: middle;
+  font-size: 16px;
 }
 
 :root {

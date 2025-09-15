@@ -2,7 +2,7 @@
 title: Hoog-risico-AI-systemen zijn voorzien van voldoende technische documentatie
 id: urn:nl:ak:ver:aia-06
 toelichting: De technische documentatie van een AI-systeem met een hoog risico wordt opgesteld voordat dit systeem in de handel wordt gebracht of in gebruik wordt gesteld, en wordt geactualiseerd.
-levenscyclus: 
+levenscyclus:
 - dataverkenning-en-datapreparatie
 - ontwikkelen
 - verificatie-en-validatie
@@ -16,16 +16,16 @@ soort-toepassing:
 - ai-systeem-voor-algemene-doeleinden
 risicogroep:
 - hoog-risico-ai-systeem
-transparantieverplichting: 
+transparantieverplichting:
 - geen-transparantieverplichting
-- transparantieverplichting 
+- transparantieverplichting
 systeemrisico:
 - niet-van-toepassing
-open-source: 
+open-source:
 - open-source
 - geen-open-source
 - niet-van-toepassing
-uitzondering: 
+uitzondering:
 - risicogroep-uitzondering-van-toepassing
 rol-ai-act:
 - aanbieder
@@ -38,11 +38,11 @@ hide:
 
 Hoog-risico-AI-systemen zijn voorzien van voldoende technische documentatie.
 
-## Toelichting 
+## Toelichting
 
 De technische documentatie van een AI-systeem met een hoog risico wordt voorafgaand aan het in de handel brengen of in gebruik nemen opgesteld en regelmatig bijgewerkt.
 
-Deze documentatie moet duidelijk aantonen dat het systeem voldoet aan de vereisten van AI-Verordening (afdeling 2), zodat nationale autoriteiten en aangemelde instanties de naleving kunnen beoordelen. Daarvoor moet de informatie op een heldere en begrijpelijke wijze zijn opgesteld. 
+Deze documentatie moet duidelijk aantonen dat het systeem voldoet aan de vereisten van AI-Verordening (afdeling 2), zodat nationale autoriteiten en aangemelde instanties de naleving kunnen beoordelen. Daarvoor moet de informatie op een heldere en begrijpelijke wijze zijn opgesteld.
 
 De documentatie bevat ten minste de elementen zoals uiteengezet in bijlage IV AI-Verordening:
 
@@ -58,16 +58,16 @@ De documentatie bevat ten minste de elementen zoals uiteengezet in bijlage IV AI
 
 De documentatie kan opgevraagd worden door een bevoegde autoriteit met een met redenen omkleed verzoek, zoals toegelicht in artikel 21 van de AI-verordening.
 
-## Bronnen 
+## Bronnen
 
 - [Artikel 11 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3472-1-1)
 - [Bijlage IV Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e38-130-1)
 
-## Van toepassing op 
-<!-- tags-ai-act --> 
+## Van toepassing op
+<!-- tags-ai-act -->
 
 
-## Risico 
+## Risico
 
 Het ontbreken van de benodigde informatie over de algoritmische toepassing of AI-systeem kan ertoe leiden dat de technische functionering onduidelijk is.
 Dat kan tot problemen leiden bij de verantwoording, controle, beheer en conformiteit met regelgeving.
@@ -76,6 +76,6 @@ Dat kan tot problemen leiden bij de verantwoording, controle, beheer en conformi
 
 - [Gemeente Amsterdam - Onderzoekswaardigheid Algoritme ‘Slimme check’.](https://algoritmeregister.amsterdam.nl/onderzoekswaardigheid-slimme-check-levensonderhoud) (Een tool die de medewerkers helpt om te bepalen of een aanvraag levensonderhoud onderzoekswaardig is, niet meer in gebruik!): [Technische documentatie](https://algoritmeregister.amsterdam.nl/wp-content/plugins/saidot-integratorv2/proxy.php?url=P1c2E359y68SOmognA619o9tSTZPTJBsuAeVyceDdziFqCFpy1jBySAFMdGkM7ZSB7BYxwEyjCiSbTyh2Ttp9Bq3GLs4K0TVs2WlJQ7wigQGZxPTt%2BqfoDCXrP8yalTikxMq27OWaMwomYK8K%2BQmLYVma2a2fHSqmRRnOWIiWxn4ZSoo%2FC0bay8kAT43CNX4U062eZgy9O3%2FTyx90ajh6Gtg%2FLgPPbARffQjQs%2F2mmNK3MZnEpl8jVDlLqqD00gdnOkN3A0T4fdti%2FR2HfOpelj%2F%2BSM4PfzLy49BTPHlyHDX87JSEltqgW4RjlcVE6sg).
 
-## Maatregelen { data-search-exclude } 
+## Maatregelen { data-search-exclude }
 
 <!-- list_maatregelen vereiste/aia-06-technische-documentatie no-search no-onderwerp no-rol no-levenscyclus -->

@@ -40,7 +40,7 @@ Wanneer de milieu-impact (in bepaalde mate) inzichtelijk is, kan er een milieu-i
 
 ### Periodieke monitoring
 Probeer ook periodieke monitoringsrapporten op te stellen waarin de milieu-impact van algoritmes wordt bijgehouden.
-Hiermee vergroot je de duurzaamheid door [tijdig verbeteringen te signaleren en door te voeren](../../levenscyclus/monitoring-en-beheer.md). Hierbij kan ook een onderscheid worden gemaakt in de impact tijdens de trainingsfase van het algoritme en de gebruiksfase. 
+Hiermee vergroot je de duurzaamheid door [tijdig verbeteringen te signaleren en door te voeren](../../levenscyclus/monitoring-en-beheer.md). Hierbij kan ook een onderscheid worden gemaakt in de impact tijdens de trainingsfase van het algoritme en de gebruiksfase.
 
 ## Risico
 Wanneer in de ontwerpfase niet wordt nagedacht over milieu-impact kan onbewust voor een algoritme of model worden gekozen dat meer energie verbruikt (en wellicht hogere kosten met zich mee brengt) dan een model dat misschien even goed presteert voor het [gekozen doel](1-pba-02-formuleren-doelstelling.md).
@@ -52,8 +52,9 @@ Zonder structurele monitoring van de milieu-impact kan de organisatie onbewust b
 
 ## Bronnen
 - [Coalitie Duurzame Digitalisering - Digital Product Passport](https://coalitieduurzamedigitalisering.nl/nieuws/digital-product-passport-samen-aan-de-slag/)
-- [Onderzoekskader Algoritmes Auditdienst Rijk, DM.24](https://open.overheid.nl/documenten/61b54381-d331-40ed-8fce-b2883b195f25/file)
+- [Onderzoekskader Algoritmes Auditdienst Rijk, DM.24](../hulpmiddelen/onderzoekskader-adr.md)
 - [Ethische richtsnoeren voor betrouwbare KI, Hoofdstuk II 1.6: Maatschappelijk en milieuwelzijn](https://digital-strategy.ec.europa.eu/nl/library/ethics-guidelines-trustworthy-ai)
+- [Eindrapport 'Generatieve AI en duurzaamheid' (Universiteit Utrecht)](https://www.rijksoverheid.nl/documenten/rapporten/2025/01/31/eindrapport-generatieve-ai-en-duurzaamheid)
 
 ## Voorbeelden
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

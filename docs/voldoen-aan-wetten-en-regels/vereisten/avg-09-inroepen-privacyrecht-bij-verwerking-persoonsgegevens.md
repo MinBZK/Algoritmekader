@@ -14,7 +14,7 @@ soort-toepassing:
 - ai-model-voor-algemene-doeleinden
 - ai-systeem
 - ai-systeem-voor-algemene-doeleinden
-risicogroep: 
+risicogroep:
 - hoog-risico-ai-systeem
 - geen-hoog-risico-ai-systeem
 - uitzondering-van-toepassing
@@ -24,15 +24,15 @@ rol-ai-act:
 - gebruiksverantwoordelijke
 - importeur
 - distributeur
-transparantieverplichting: 
+transparantieverplichting:
 - geen-transparantieverplichting
-- transparantieverplichting 
+- transparantieverplichting
 - niet-van-toepassing
 systeemrisico:
 - systeemrisico
 - geen-systeemrisico
 - niet-van-toepassing
-open-source: 
+open-source:
 - open-source
 - geen-open-source
 - niet-van-toepassing
@@ -59,7 +59,7 @@ Als persoonsgegevens worden verwerkt voor het ontwikkelen en gebruiken van algor
 
 [Artikel 15 - 21 Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679#d1e2505-1-1)
 
-## Van toepassing op 
+## Van toepassing op
 <!-- tags-ai-act -->
 
 

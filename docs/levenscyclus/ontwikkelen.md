@@ -1,28 +1,46 @@
---- 
+---
 title: Fase 4, ontwikkelen
 hide:
 - toc
 ---
 
 # Fase 4: Ontwikkelen
-Dit is de fase waarin het algoritme wordt ontwikkeld door het ontwikkelteam. 
-Als het gaat om AI-systemen, omvat deze fase het trainen van modellen met behulp van de voorbereide gegevens.
-Als het gaat om algoritmes op basis van rekenregels, betreft dit het implementeren van deze rekenregels in de (ontwikkelomgeving van de) systemen.  
+In de ontwikkelfase bouw je het algoritme of AI-systeem samen met  een multidisciplinair team. Gaat het om rekenregels, dan implementeer je deze in een ontwikkelomgeving of systeem. Gaat het om een AI-systeem, dan train je het model met de juiste datasets.
 
-Het algoritme technisch correct ontwikkelen, inclusief het kunnen begrijpen van de beperkingen ervan, vraagt om een samenspel van expertise vanuit verschillende disciplines. 
-Denk hierbij aan de proceseigenaar, domeinexperts van het te ondersteunen werkproces, data scientists, data engineer, (privacy)juristen, beleidsmedewerkers en een ethicus. 
-Een voorbeeld hiervan is het beoordelen van de zogenaamde inputvariabelen of rekenregels (die voor een groot deel bepalen hoe een algoritme functioneert) van een machine learning model of algoritme. 
-Deze rollen zijn bijzonder waardevol bij het beoordelen of deze variabelen of rekenregels juridisch zijn toegestaan, ethisch wenselijk zijn, technisch gezien- voldoende significant zijn en of deze van toegevoegde waarde zijn voor gebruikers. 
-Dit multidisciplinaire team kan tijdens de ontwikkeling continu bijsturen, zodat het algoritme op een verantwoorde wijze functioneert en aansluit bij de beoogde doelstellingen.  
+## Taken ontwikkelfase
+De belangrijkste taken in deze fase zijn:
 
-In deze fase is niet alleen het ontwikkelen van een algoritme, maar ook het documenteren van belangrijke afwegingen en het opstellen van technische documentatie van groot belang. 
-Daarnaast zullen tal van (technische) maatregelen moeten worden getroffen zoals de verdere beveiliging van het informatiesysteem of bij de ontsluiting van de output naar gebruikers, het automatische genereren van logs en het inrichten van service en incidentmanagementprocedures.  
+* ontwikkelen van het algoritme of AI-systeem, inclusief modellen trainen met [goed voorbereide data](https://minbzk.github.io/Algoritmekader/levenscyclus/dataverkenning-en-datapreparatie/)
+* documenteren van technische informatie en belangrijke keuzes
+* [controleren van de uitkomst en werking](https://minbzk.github.io/Algoritmekader/onderwerpen/technische-robuustheid-en-veiligheid/#controleer-regelmatig) van het algoritme of AI-systeem
+* [beveiligen van het informatiesysteem](https://minbzk.github.io/Algoritmekader/onderwerpen/technische-robuustheid-en-veiligheid/#bescherm-algoritmes-tegen-aanvallen-en-bedreigingen)
+* [maatregelen](https://minbzk.github.io/Algoritmekader/levenscyclus/ontwikkelen/#aanbevolen-maatregelen) nemen voor bijvoorbeeld het verantwoord ontsluiten van output naar gebruikers, het automatisch genereren van logs en het inrichten van service- en incidentmanagementprocedures
 
-## Vereisten { data-search-exclude }
+## Rollen en verantwoordelijkheden
+Alleen een multidisciplinair team kan algoritmes en AI-systemen technisch correct ontwikkelen en de beperkingen ervan begrijpen. Zo’n team bestaat uit medewerkers in verschillende [rollen](https://minbzk.github.io/Algoritmekader/rollen/), zoals een:
+
+* proceseigenaar
+* domeinspecialist
+* beleidsmedewerker
+* data-scientist
+* data-engineer
+* privacy-jurist
+* ethicus
+
+Hoe goed een algoritme of AI-systeem werkt, leid je vooral af uit de rekenregels van het algoritme en de inputvariabelen van het machinelearning-model. Goede rekenregels en inputvariabelen zijn:
+
+* juridisch toegestaan
+* ethisch wenselijk
+* technisch gezien voldoende significant
+* zinvol voor gebruikers
+
+Het multidisciplinaire team beoordeelt dit en stuurt steeds bij. Zo ontwikkel je samen een verantwoord algoritme of AI-systeem dat past bij het [afgesproken doel](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/1-pba-02-formuleren-doelstelling/).
+
+## Vereisten ontwikkelfase { data-search-exclude }
 
 <!-- list_vereisten levenscyclus/ontwikkelen no-rol no-levenscyclus no-search no-onderwerp -->
 
-## Aanbevolen maatregelen { data-search-exclude }
+## Aanbevolen maatregelen ontwikkelfase { data-search-exclude }
 
 <!-- list_maatregelen levenscyclus/ontwikkelen no-rol no-levenscyclus no-search no-onderwerp -->
 

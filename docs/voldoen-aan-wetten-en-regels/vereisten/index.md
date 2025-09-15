@@ -2,14 +2,14 @@
 title: Vereisten voor de overheid
 summary: Overzicht van vereisten voor overheden die algoritmes of AI ontwikkelen of gebruiken.
 id: 0
+allow_excel_export: true
 hide:
   - navigation
   - toc
 ---
 # Vereisten voor de overheid
-Overzicht van de belangrijkste vereisten voor overheden die algoritmes of AI-systemen ontwikkelen of gebruiken. 
+Overzicht van de belangrijkste vereisten voor overheden die algoritmes of AI-systemen ontwikkelen of gebruiken.
 
-## Overzicht vereisten { data-search-exclude }
 
 <!-- list_vereisten -->
 
@@ -19,7 +19,7 @@ De vereisten zijn gebaseerd op de wetten en regels voor het uitvoeren van wettel
 - AI-verordening
 - Algemene verordening gegevensbescherming (AVG)
 - Algemene wet bestuursrecht (Awb)
-- Algemene wet gelijke behandeling (Awgb) 
+- Algemene wet gelijke behandeling (Awgb)
 - Auteurswet
 - Baseline Informatiebeveiliging Overheid (BIO)
 - Grondwet
@@ -28,7 +28,7 @@ Bij elke vereiste staat de bron er duidelijk bij.
 
 !!! warning "Let op!"
 
-    Het Algoritmekader biedt een overzicht van de belangrijkste vereisten. Dit is niet volledig. Sectorspecifieke wetgeving is bijvoorbeeld niet meegenomen. Hierdoor kan het zijn dat er meer regelgeving van geldt voor jouw toepassing. 
+    Het Algoritmekader biedt een overzicht van de belangrijkste vereisten. Dit is niet volledig. Sectorspecifieke wetgeving is bijvoorbeeld niet meegenomen. Hierdoor kan het zijn dat er meer regelgeving van geldt voor jouw toepassing.
 
 ## Aantal vereisten verschilt per situatie
 Welke vereisten gelden voor jouw organisatie, hangt af van:

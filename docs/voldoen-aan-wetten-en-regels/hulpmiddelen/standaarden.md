@@ -1,7 +1,7 @@
 ---
 title: Standaarden
 toelichting: Standaarden zijn afspraken die worden vastgelegd om ervoor te zorgen dat producten, processen of diensten voldoen aan specifieke eisen op het gebied van kwaliteit, veiligheid en prestaties. Europese _geharmoniseerde standaarden_ zijn essentieel voor de AI-Verordening.
-categorie: 
+categorie:
 - standaard
 vereiste:
 - aia-03-risicobeheersysteem
@@ -53,7 +53,7 @@ hide: navigation
 ## Wat zijn standaarden?
 Standaarden zijn afspraken die worden vastgelegd om ervoor te zorgen dat producten, processen of diensten voldoen aan specifieke eisen op het gebied van kwaliteit, veiligheid en prestaties. Sommige standaarden worden ontwikkeld door standaardisatieorganisaties, meestal op initiatief van belanghebbenden die een behoefte aan een bepaalde standaard zien bij of na het ontwikkelen van Europese regelgeving, zoals de Europese Commissie. _Normen_ zijn standaarden die door standaardisatieorganisaties worden gemaakt, zoals ISO of CEN/CENELEC, of NEN.
 
-Standaarden zijn er op allerlei gebieden. Momenteel speelt de ontwikkeling van standaarden voor de Europese [AI-verordening](../ai-verordening.md) een belangrijke rol voor de betrouwbare ontwikkeling en gebruik van AI. Vandaar dat deze pagina focust op _standaarden voor AI_.
+Standaarden zijn er op allerlei gebieden. Momenteel speelt de ontwikkeling van standaarden voor de Europese [AI-verordening](../../ai-verordening/ai-verordening-in-het-kort.md) een belangrijke rol voor de betrouwbare ontwikkeling en gebruik van AI. Vandaar dat deze pagina focust op _standaarden voor AI_.
 
 Europese _geharmoniseerde standaarden_ zijn essentieel voor de AI-Verordening, omdat ze juridische zekerheid verschaffen. Geharmoniseerde standaarden zijn er bijvoorbeeld al voor speelgoed, elektrische apparaten, medische hulpmiddelen, en straks dus ook voor hoog risico AI-systemen. Als het over standaarden voor de AI-verordening gaat, gaat het dus om _geharmoniseerde standaarden_.
 
@@ -113,16 +113,16 @@ Op dit moment zijn er verschillende Technische Rapporten, Technische Specificati
 
 
 ??? expander "Uitleg over gebruikte termen"
-    
+
     Er zijn verschillende soorten standaarden, zoals normen, Technische Rapporten (TR) en Technische Specificaties (TS).
 
     - Normen zijn standaarden die door standaardisatieorganisaties worden gemaakt, zoals ISO of CEN/CENELEC, of NEN.
     - Geharmoniseerde normen zijn standaarden gemaakt door Europese standaardisatieorganisaties in opdracht van de Europese Commissie om de implementatie van Europese richtlijnen of verordeningen eenvoudiger te maken. De meeste normen zijn geen geharmoniseerde normen en worden níet in opdracht van de Europese Commissie gemaakt.
     - Technische Rapporten (TR) hebben een meer informatief karakter. Een TR wordt gebruikt om informatie te delen die niet geschikt is voor een norm, bijvoorbeeld gegevens uit onderzoeken of enquêtes. Een TR is vaak de opmaat voor het opstellen van een norm.
     - Technische Specificaties (TS) zijn normatief, en bieden voorlopige specificaties, vooral voor technologieën in ontwikkeling. Een TS kan in een later stadium worden omgezet in een volledige norm als er voldoende consensus voor is.
-    
+
     Zowel een Technisch Rapport als een Technische Specificatie bieden dus ondersteuning in situaties waar nog geen norm bestaat of waar consensus nog niet is bereikt. Dus een TS of TR kan ook zeker interessante informatie bevatten voor organisaties, maar ze hebben niet de status of juridische binding van een norm.
-    
+
     Er is een onderscheid tussen internationale normen (ISO), Europese normen (EN) en Nederlandse normen (NEN). De NEN onderscheidt ook [verschillende typen afspraken](https://www.nen.nl/verschillende-typen-afspraken), zoals Nederlandse praktijkrichtlijn (NPR) of Nederlandse voornorm (NVN).
 
 
@@ -130,12 +130,12 @@ Voor een compleet overzicht van _internationaal_ gepubliceerde standaarden die r
 
 ## Wat moeten Nederlandse overheidsorganisaties doen?
 
-Nederlandse overheidsorganisaties kunnen standaarden gebruiken als praktische hulpmiddelen om te voldoen aan de eisen van de AI-verordening. 
+Nederlandse overheidsorganisaties kunnen standaarden gebruiken als praktische hulpmiddelen om te voldoen aan de eisen van de AI-verordening.
 
 Hoe gebruik je standaarden?
 
 1. Kies de juiste standaarden: Begin met het identificeren van relevante standaarden en het begrijpen hoe deze toegepast kunnen worden. Focus op geharmoniseerde Europese normen die aansluiten bij de AI-verordening, en wanneer die er nog niet zijn, kies standaarden die aansluiten bij de onderwerpen uit de AI-verordening, door te kijken naar de lijst van 10 onderwerpen waarvoor een standaardisatieverzoek ligt (zie hierboven).
-3. Pas standaarden toe in de praktijk: Gebruik standaarden als richtlijnen om technische processen en organisatorische maatregelen in te richten, zoals het waarborgen van datakwaliteit, transparantie en betrouwbaarheid van AI-systemen​. Stel de afdeling inkoop op de hoogte van de ontwikkeling, zodat zij hierop kunnen anticiperen als hoog-risico-AI-systemen moet worden [ingekocht](../../onderwerpen/publieke-inkoop.md). 
+3. Pas standaarden toe in de praktijk: Gebruik standaarden als richtlijnen om technische processen en organisatorische maatregelen in te richten, zoals het waarborgen van datakwaliteit, transparantie en betrouwbaarheid van AI-systemen​. Stel de afdeling inkoop op de hoogte van de ontwikkeling, zodat zij hierop kunnen anticiperen als hoog-risico-AI-systemen moet worden [ingekocht](../../onderwerpen/publieke-inkoop.md).
 4. Blijf op de hoogte: Volg de ontwikkelingen binnen JTC 21 en houd bij welke internationale standaarden worden opgenomen in het Europese normalisatieproces.
 Door standaarden actief te gebruiken, kunnen overheidsorganisaties hun AI-systemen veiliger en betrouwbaarder maken en tegelijkertijd voldoen aan de wettelijke vereisten van de AI-verordening.
 
@@ -169,7 +169,7 @@ Lijst van gebruikte bronnen, standaarden, en aanvullende documentatie
 - 'AI Act and the future standards - webinar' (11 december 2024). Het webinar kan [hier worden teruggekeken. Hier zijn ook de presentaties en Q&A's over standaarden te vinden](https://www.ds.dk/en/news/2024/ai-act-and-the-future-standards).
 
 ## Beslishulp AI-verordening
-Met de [beslishulp AI-verordening](https://ai-verordening-beslishulp.apps.digilab.network/) bepaal je snel en gemakkelijk of jouw AI-product onder de AI-verordening valt. En wat je dan moet doen.
+Met de <a href="#" onclick="showModal(event, 'beslishulp AI-verordening', {redirectUrl: 'voldoen-aan-wetten-en-regels/vereisten/'});">beslishulp AI-verordening</a> bepaal je snel en gemakkelijk of jouw AI-product onder de AI-verordening valt. En wat je dan moet doen.
 
 ## Help ons deze pagina te verbeteren
 Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/issues/new/choose) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

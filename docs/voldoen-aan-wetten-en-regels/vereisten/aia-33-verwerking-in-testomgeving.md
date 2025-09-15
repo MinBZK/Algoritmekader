@@ -20,23 +20,23 @@ soort-toepassing:
 rol-ai-act:
 - aanbieder
 - gebruiksverantwoordelijke
-risicogroep: 
+risicogroep:
 - niet-van-toepassing
 - hoog-risico-ai-systeem
 - geen-hoog-risico-ai-systeem
-transparantieverplichting: 
+transparantieverplichting:
 - geen-transparantieverplichting
-- transparantieverplichting 
+- transparantieverplichting
 - niet-van-toepassing
 systeemrisico:
 - systeemrisico
 - geen-systeemrisico
 - niet-van-toepassing
-open-source: 
+open-source:
 - open-source
 - geen-open-source
 - niet-van-toepassing
-uitzondering: 
+uitzondering:
 - risicogroep-uitzondering-van-toepassing
 - ("soort-toepassing-ai-systeem-voor-algemene-doeleinden" || "soort-toepassing-ai-systeem") && "open-source-open-source" && "transparantieverplichting-geen-transparantieverplichting" && "risicogroep-geen-hoog-risico-ai-systeem"
 hide:
@@ -50,16 +50,16 @@ AI-testomgevingen die persoonsgegevens verwerken, voldoen aan strenge voorwaarde
 
 ## Toelichting
 
-De rechtmatige verwerking van persoonsgegevens voor andere doeleinden voor het ontwikkelen, trainen en testen van AI-modellen is mogelijk, maar het moet voldoen aan strikte voorwaarden die zijn opgenomen in artikel 57 AI-Verordening. Hiervoor is een AI-testomgeving noodzakelijk, waarin maatregelen of kunnen worden getroffen om de data veilig te verwerken. 
+De rechtmatige verwerking van persoonsgegevens voor andere doeleinden voor het ontwikkelen, trainen en testen van AI-modellen is mogelijk, maar het moet voldoen aan strikte voorwaarden die zijn opgenomen in artikel 57 AI-Verordening. Hiervoor is een AI-testomgeving (ook wel <i>regulatory sandbox</i> genoemd) noodzakelijk, waarin maatregelen of kunnen worden getroffen om de data veilig te verwerken.
 
-Persoonsgegevens die in de testomgeving worden aangemaakt mogen niet buiten de testomgeving worden gedeeld en logbestanden worden bijgehouden voor de duur van de deelname aan de testomgeving.
+Persoonsgegevens die in de testomgeving worden aangemaakt mogen niet buiten de testomgeving worden gedeeld en logbestanden worden bijgehouden voor de duur van de deelname aan de testomgeving. Wanneer in de testomgeving een LLM-model wordt (bij)getraind met privacygevoelige data mag dit model bovendien niet worden gebruikt in een niet-vertrouwelijke omgeving, omdat de trainingsdata, inclusief de persoonsgegevens, door het model zijn opgeslagen.
 
 Voor toepassingen voor het verder verwerken van gegevens kan worden gedacht aan het ontwikkelen van een AI-systeem zodat een overheidsinstantie of een andere natuurlijke of rechtspersoon een aanzienlijk openbaar belang kan waarborgen, bijvoorbeeld op het gebied van kwaliteit van milieu, duurzaamheid, openbare veiligheid en gezondheid.
 
 ## Bronnen
 - [Artikel 57 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5884-1-1)
 
-## Van toepassing op 
+## Van toepassing op
 <!-- tags-ai-act -->
 
 

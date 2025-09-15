@@ -33,8 +33,8 @@ Maak bijvoorbeeld afspraken over wie ervoor zorgt dat de data:
 - Van voldoende [kwaliteit](3-dat-01-datakwaliteit.md) is.
 - Goed beveiligd is.
 
-Wanneer een algoritme wordt ontwikkeld door een derde partij en dus niet wordt beheerd door de eigen organisatie, maak je duidelijke afspraken over eigenaarschap van de data. Dat geldt zowel voor de inputdata als de outputdata. 
-Zorg dat de inputdata tot je beschikking blijft, zodat resultaten altijd reproduceerbaar zijn. 
+Wanneer een algoritme wordt ontwikkeld door een derde partij en dus niet wordt beheerd door de eigen organisatie, maak je duidelijke afspraken over eigenaarschap van de data. Dat geldt zowel voor de inputdata als de outputdata.
+Zorg dat de inputdata tot je beschikking blijft, zodat resultaten altijd reproduceerbaar zijn.
 
 ## Risico
 De organisatie is afhankelijk van de data of het model afhankelijk van derden en kan daardoor reproduceerbaarheid en prestatie niet garanderen.
@@ -44,8 +44,8 @@ De organisatie is afhankelijk van de data of het model afhankelijk van derden en
     <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
-- [Onderzoekskader Auditdienst Rijk, DM.23](https://open.overheid.nl/documenten/61b54381-d331-40ed-8fce-b2883b195f25/file)
+- [Onderzoekskader algoritmes, Auditdienst Rijk, DM.23](../hulpmiddelen/onderzoekskader-adr.md)
 
 ## Voorbeelden
 
-Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

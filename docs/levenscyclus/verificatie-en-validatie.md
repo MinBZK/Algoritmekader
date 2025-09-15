@@ -1,33 +1,47 @@
---- 
+---
 title: Fase 5, verificatie en validatie
 hide:
 - toc
 ---
 
 # Fase 5: Verificatie en validatie
-Bij de verificatie en validatie van het algoritme dient bepaald te worden of het algoritme gebouwd is volgens de (technische) specificaties en voldoet aan de beoogde doelstellingen. 
-Hiervoor moeten technische, maar ook organisatorische maatregelen worden getroffen.  
+In deze fase beoordeel en verbeter je het algoritme of AI-systeem. Je start een verificatieproces waarin je alle specificaties controleert. En je start een validatieproces waarin je de afgesproken doelen naloopt. Je neemt maatregelen als dat nodig is.
 
-Bij verificatie kan worden gedacht aan het (laten) controleren of het algoritme voldoet aan de (technische) specificaties, bijvoorbeeld door een interne of externe audit of in de toekomst een conformiteitsbeoordeling voor hoog risico AI-systemen. 
-Hiermee kan (onafhankelijk) worden vastgesteld of het systeem voldoet aan de vereisten die organisaties daaraan stellen. 
-Op basis van bevindingen uit een audit of conformiteitsbeoordeling, is het denkbaar dat het ontwikkelteam nog bepaalde maatregelen moet treffen om te voldoen aan de specificaties. 
+## Taken verificatie
+Tijdens het verificatieproces controleer je of het algoritme of AI-systeem voldoet aan alle specificaties. Hiermee stel je vast of alle eigenschappen uit de [ontwerpfase](https://minbzk.github.io/Algoritmekader/levenscyclus/ontwerp/) daadwerkelijk technisch worden bereikt.
 
-Bij het valideren van een algoritme moet worden bepaald of het goed genoeg presteert en of het geschikt is voor het beoogde doel van het systeem. 
-Wanneer het een AI-systeem betreft, is het belangrijk dat dit gevalideerd wordt op nieuwe, niet eerder geziene data. 
-Het valideren betreft het iteratief evalueren van de nauwkeurigheid en prestaties van het systeem. 
-Daarnaast is het ook belangrijk om te valideren of het algoritme gelijke prestaties toont voor verschillende groepen en om te testen hoe het algoritme presteert in uitzonderlijke gevallen. 
-Het is net als in de ontwerpfase belangrijk dat een multidisciplinair team beoordeelt of de werking passend en bijvoorbeeld non-discriminatoir is. 
-In het geval van impactvolle algoritmen of hoog risico AI-systemen, is het raadzaam om een onafhankelijke commissie of partij te betrekken die een advies geeft over de werking van het algoritme of AI-systeem.  
+Zo’n controle voer je bijvoorbeeld uit via een:
 
-In praktijk zal vaak na validatie weer worden teruggegaan naar de ontwikkelfase om prestaties van het model te verbeteren voorafgaand aan implementatie van de oplossing. 
-Het is ook denkbaar dat het algoritme onvoldoende aansluit bij de doelstellingen en het gebruik ervan moet wordt beëindigd. 
-Een andere conclusie kan zijn dat het presteert conform verwachting en naar de implementatiefase kan worden gegaan.  
+* interne audit
+* externe audit
+* [conformiteitsbeoordeling voor hoog risico-AI-systemen](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/aia-14-conformiteitsbeoordeling/index.html)
 
-## Vereisten { data-search-exclude }
+Misschien moet je [maatregelen](https://minbzk.github.io/Algoritmekader/levenscyclus/verificatie-en-validatie/#aanbevolen-maatregelen) nemen op basis van de conclusies.
+
+## Taken validatie
+Tijdens het validatieproces bepaalt een [multidisciplinair team](https://minbzk.github.io/Algoritmekader/rollen/) of het algoritme of AI-systeem:
+
+* goed genoeg presteert
+* geschikt is voor het doel van het systeem
+
+Hiervoor gebruik je nieuwe data, die het systeem nog niet kent.
+
+Het multidisciplinaire team evalueert de nauwkeurigheid en prestaties van het algoritme of AI-systeem steeds opnieuw:
+
+* Presteert het gelijk voor verschillende groepen? Of maakt het een [ongewenst onderscheid](https://minbzk.github.io/Algoritmekader/onderwerpen/bias-en-non-discriminatie/)?
+* Presteert het ook goed bij uitzonderlijke gevallen en in abnormale situaties?
+
+Laat [impactvolle algoritmen](https://minbzk.github.io/Algoritmekader/soorten-algoritmes-en-ai/impact-van-algoritmes/) en [hoog-risico-AI-systemen](https://minbzk.github.io/Algoritmekader/soorten-algoritmes-en-ai/risico-van-ai-systemen/#hoog-risico-ai-systeem) valideren door een onafhankelijke commissie of partij die advies kan geven over de werking.
+
+Blijkt het model niet goed of ongeschikt, dan doorloop je opnieuw de [ontwikkelfase](https://minbzk.github.io/Algoritmekader/levenscyclus/ontwikkelen/) om de prestaties te verbeteren. Of je stopt ermee en gaat het model [uitfaseren](https://minbzk.github.io/Algoritmekader/levenscyclus/uitfaseren/).
+
+Presteert het model volgens verwachting, dan kun je het gaan [implementeren](https://minbzk.github.io/Algoritmekader/levenscyclus/implementatie/).
+
+## Vereisten voor verificatie en validatie { data-search-exclude }
 
 <!-- list_vereisten levenscyclus/verificatie-en-validatie no-rol no-levenscyclus no-search no-onderwerp -->
 
-## Aanbevolen maatregelen { data-search-exclude }
+## Aanbevolen maatregelen voor verificatie en validatie { data-search-exclude }
 
 <!-- list_maatregelen levenscyclus/verificatie-en-validatie no-rol no-levenscyclus no-search no-onderwerp -->
 

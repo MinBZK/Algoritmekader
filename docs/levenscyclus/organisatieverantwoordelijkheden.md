@@ -1,19 +1,24 @@
---- 
+---
 title: Fase 0, organisatieverantwoordelijkheden
 hide:
 - toc
 ---
 
 # Fase 0: Organisatieverantwoordelijkheden
-Voordat je start met de ontwikkeling of het gebruik van een algoritme, zul je moeten zorgen dat je organisatie voldoende ingericht is om algoritmes te gebruiken of te ontwikkelen. 
-In deze fase beschrijven we de randvoorwaarden die je als organisatie moet hebben om aan de slag te gaan. Dit zijn aspecten die je in het ideale geval al regelt voordat je begint aan het gebruik van algoritmes.
-Het zijn ook taken die je voortdurend aandacht zal moeten geven, maar die je niet voor ieder algorite opnieuw hoeft te organiseren. 
+In deze fase bereid je de organisatie voor op het verantwoord ontwikkelen en gebruiken van algoritmen en AI. Een deel van deze verantwoordelijkheden regel je liefst voordat je van start gaat.
 
-## Vereisten { data-search-exclude }
+## Belangrijkste taken fase 0
+Als organisatie die algoritmes ontwikkelt of gebruikt, heb je veel verantwoordelijkheden. Je moet voldoen aan allerlei [vereisten](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/). En hiervoor moet je passende [maatregelen](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/) nemen.
+Een deel van deze verantwoordelijkheden regel je het beste vooraf. Dit zijn de vereisten en maatregelen die gelden voor alle algoritmes, op elk moment van de levenscyclus:
+
+* zaken die je liefst regelt voordat je begint met het gebruik van algoritmes
+* dagelijkse taken die je vooraf in 1 keer organiseert voor alle algoritmes
+
+## Vereisten die je vooraf regelt { data-search-exclude }
 
 <!-- list_vereisten levenscyclus/organisatieverantwoordelijkheden no-rol no-levenscyclus no-search no-onderwerp -->
 
-## Aanbevolen maatregelen { data-search-exclude }
+## Aanbevolen maatregelen die je vooraf regelt { data-search-exclude }
 
 <!-- list_maatregelen levenscyclus/organisatieverantwoordelijkheden no-rol no-levenscyclus no-search no-onderwerp -->
 

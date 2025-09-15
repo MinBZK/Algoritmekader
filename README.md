@@ -47,12 +47,43 @@ Het verschil tussen de twee versies is dat het Algoritmekader gebruik maakt van 
 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/). De insiders versie is een gesponsorde versie en
 bevat een aantal extra functionaliteiten. Hoewel deze versie onder een open source licentie beschikbaar is, vragen de
 ontwikkelaars van Material for MkDocs in de aanvullende
-[fair use policity](https://squidfunk.github.io/mkdocs-material/insiders/license/#fair-use-policy) om het niet publiek
+[fair use policy](https://squidfunk.github.io/mkdocs-material/insiders/license/#fair-use-policy) om het niet publiek
 te delen. Wij realiseren ons dat hierdoor niet iedereen de versie van het Algoritmekader, inclusief alle
 functionaliteiten, op een eigen omgeving kan draaien. Om lokaal testen van mensen die geen toegang hebben tot de
 betaalde versie mogelijk te maken, zit in `requirements.txt` de publiek toegangelijke
 [mkdocs-material](https://pypi.org/project/mkdocs-material/) Python package met beperkte functionaliteit. In deze versie
 werken de navigatie broodkruimels niet.
+
+
+## Validatie Tools
+
+In de map `scripts/validation/` vind je scripts die de consistentie van het Algoritmekader controleren:
+
+- `validate_urn_uniqueness.py`: Controleert of alle URNs uniek zijn
+- `validate_lifecycles.py`: Controleert of levenscyclus-waarden geldig zijn
+- `validate_file_prefix_urn.py`: Controleert of bestandsnamen overeenkomen met URNs
+
+### Gebruik
+
+Bij pull requests worden deze validaties automatisch uitgevoerd via GitHub Actions. Je kunt ze ook lokaal draaien:
+
+```bash
+# Installeer benodigde dependencies
+pip install pyyaml
+
+# Voer alle validaties uit
+python .github/scripts/run_all_validations.py
+```
+
+De scripts controleren:
+- Dat er geen dubbele URNs zijn (bijvoorbeeld `urn:nl:ak:mtr:org-02`)
+- Dat alle levenscyclus-waarden geldig zijn (zoals `organisatieverantwoordelijkheden`, `ontwikkelen`)
+- Dat bestandsnamen consistent zijn met hun URNs
+
+Index bestanden (`index.md`) worden automatisch overgeslagen en bestandsnamen met numerieke voorvoegsels (zoals `0-org-01-...`) worden correct herkend.
+
+Voor meer details, zie de README in de `.github/scripts` map.
+
 
 ## Vragen?
 

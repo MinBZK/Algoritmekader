@@ -1,7 +1,7 @@
 ---
 title: Als een hoog-risico-AI-systeem niet voldoet aan de AI-verordening, grijpt de aanbieder in
 id: urn:nl:ak:ver:aia-18
-toelichting: Aanbieders van AI-systemen met een hoog risico die van mening zijn of redenen hebben om aan te nemen dat een door hen in de handel gebracht of in gebruik gesteld AI systeem met een hoog risico niet in overeenstemming is met de AI-verordening, nemen onmiddellijk de nodige corrigerende maatregelen om dat systeem naargelang het geval in overeenstemming te brengen, uit de handel te nemen, te deactiveren of terug te roepen. 
+toelichting: Aanbieders van AI-systemen met een hoog risico die van mening zijn of redenen hebben om aan te nemen dat een door hen in de handel gebracht of in gebruik gesteld AI systeem met een hoog risico niet in overeenstemming is met de AI-verordening, nemen onmiddellijk de nodige corrigerende maatregelen om dat systeem naargelang het geval in overeenstemming te brengen, uit de handel te nemen, te deactiveren of terug te roepen.
 levenscyclus:
 - organisatieverantwoordelijkheden
 - monitoring-en-beheer
@@ -15,16 +15,16 @@ risicogroep:
 - hoog-risico-ai-systeem
 rol-ai-act:
 - aanbieder
-transparantieverplichting: 
+transparantieverplichting:
 - geen-transparantieverplichting
-- transparantieverplichting 
+- transparantieverplichting
 systeemrisico:
 - niet-van-toepassing
-open-source: 
+open-source:
 - open-source
 - geen-open-source
 - niet-van-toepassing
-uitzondering: 
+uitzondering:
 - risicogroep-uitzondering-van-toepassing
 hide:
 - navigation
@@ -43,7 +43,7 @@ Aanbieders van AI-systemen met een hoog risico die constateren dat hun systeem n
 
 Ze moeten ook alle relevante partijen, zoals distributeurs, gebruiksverantwoordelijken en importeurs, op de hoogte stellen van deze maatregelen.
 
-Over AI-modellen voor algemene doeleinden met een systeemrisico wordt relevante informatie over ernstige incidenten en mogelijke corrigerende maatregelen bijgehouden, gedocumenteerd en onverwijld gerapporteerd aan het AI-bureau en, in voorkomende gevallen, aan de nationale bevoegde autoriteiten. 
+Over AI-modellen voor algemene doeleinden met een systeemrisico wordt relevante informatie over ernstige incidenten en mogelijke corrigerende maatregelen bijgehouden, gedocumenteerd en onverwijld gerapporteerd aan het AI-bureau en, in voorkomende gevallen, aan de nationale bevoegde autoriteiten.
 
 
 ## Bronnen
@@ -51,7 +51,7 @@ Over AI-modellen voor algemene doeleinden met een systeemrisico wordt relevante 
 - [Artikel 16(j) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3823-1-1)
 - [Artikel 55 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3906-1-1)
 
-## Van toepassing op 
+## Van toepassing op
 <!-- tags-ai-act -->
 
 

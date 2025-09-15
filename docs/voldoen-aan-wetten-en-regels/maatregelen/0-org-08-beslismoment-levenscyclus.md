@@ -23,11 +23,11 @@ hide:
 Richt vaste beslismomenten en controlepunten in in de algoritmelevenscyclus.
 
 ## Toelichting
-- Algoritmegovernance kan op de levenscyclus aansluiten door 'gates' of controlepunten in te voeren. Deze gates bevatten belangrijke mijlpalen om te beoordelen of de juiste taken zijn uitgevoerd, of ethische afwegingen zijn gemaakt, of documentatie heeft plaatsgevonden en of akkoord is ingewonnen (go/no-go moment) bij de verantwoordelijke(n) om naar de volgende fase te mogen. 
-- Het is belangrijk om te weten dat toepassing van deze ‘gates’ niet altijd hetzelfde is. Dit kan namelijk verschillen afhankelijk van het type algoritme. 
+- Algoritmegovernance kan op de levenscyclus aansluiten door 'gates' of controlepunten in te voeren. Deze gates bevatten belangrijke mijlpalen om te beoordelen of de juiste taken zijn uitgevoerd, of ethische afwegingen zijn gemaakt, of documentatie heeft plaatsgevonden en of akkoord is ingewonnen (go/no-go moment) bij de verantwoordelijke(n) om naar de volgende fase te mogen.
+- Het is belangrijk om te weten dat toepassing van deze ‘gates’ niet altijd hetzelfde is. Dit kan namelijk verschillen afhankelijk van het type algoritme.
 - Een hoog-risico-AI systeem moet aan meer vereisten voldoen dan een niet impactvol algoritme. Een hoog-risico AI-systeem moet daarom binnen de gates worden getoetst op meer onderdelen dan een niet impactvol algoritme.
 
-## Risico 
+## Risico
 Als er geen controlepunten aanwezig zijn in de levenscyclus van een algoritmegovernance kan het moeilijk zijn om te traceren waar sommige problemen ontstaan en kunnen simpele wijzigingen in het proces over het hoofd worden gezien.
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
@@ -38,7 +38,7 @@ Als er geen controlepunten aanwezig zijn in de levenscyclus van een algoritmegov
 
 ## Bronnen
 - [Hulpmiddel handelingsruimte waardevolle AI in de zorg](https://nlaic.com/wp-content/uploads/2022/06/04a)
-- [Hulpmiddel-Handelingsruimte-Waardevolle-AI-voor-gezondheid-en-zorg.pdf](https://nlaic.com/wp-content/uploads/2022/08/NLAIC_AI-Lifecycle-management-in-de-zorg-samenvatting_V1.2.pdf)
+- [AI lifecycle management in de zorg, Nederlandse AI Coalitie](https://nlaic.com/toepassingsgebieden/samenvatting-life-cycle-management/)
 - UWV Beleidsdocument model risico management, Modellevenscyclus (blz 21), 29 september 2021
 - [Toetsingskader Algemene Rekenkamer, 1.07](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
 
@@ -52,14 +52,14 @@ Hieronder volgen twee voorbeelden van hoe governance effectief kan worden geïnt
 
 	![Afbeelding](../../afbeeldingen/levenscyclus/modellevenscyclus_vws.png)
 
-	Bron: [Hulpmiddel Handelingsruimte Waardevolle AI voor gezondheid en zorg] (https://nlaic.com/download/04a-hulpmiddel-handelingsruimte-waardevolle-ai-voor-gezondheid-en-zorg/) 
+	Bron: [Hulpmiddel Handelingsruimte Waardevolle AI voor gezondheid en zorg] (https://nlaic.com/download/04a-hulpmiddel-handelingsruimte-waardevolle-ai-voor-gezondheid-en-zorg/)
 
-!!! example "UWV - Modellevenscyclus" 
+!!! example "UWV - Modellevenscyclus"
 
 	Het UWV heeft in 2021 haar modellevenscyclus toegelicht in een gepubliceerd beleidsdocument. Hierin wordt uitgelegd dat bij sommige controlepunten ook een stap terug gedaan kan worden in de cyclus als dit nodig blijkt. Bij iedere stap wordt een beschrijving gegeven. Daarnaast wordt ook toegelicht wat de noodzakelijke procedures zijn en wie hiervoor verantwoordelijk is. Deze procedures worden ook grafisch toegelicht per stap in de cyclus. Hieronder is een algemeen grafische weergave te zien van de algehele modellevenscyclus bestaande uit 8 stappen.
- 
+
     ![Afbeelding](../../afbeeldingen/levenscyclus/modellevenscyclus_uwv.png)
 
- 	Bron: [Algoritmelevenscyclus – UWV, pagina 21]( https://www.uwv.nl/overuwv/Images/bijlage-4-beslissing-op-bezwaar-op-wob-verzoek-software-en-algoritmes.pdf) 
+ 	Bron: [Algoritmelevenscyclus – UWV, pagina 21]( https://www.uwv.nl/overuwv/Images/bijlage-4-beslissing-op-bezwaar-op-wob-verzoek-software-en-algoritmes.pdf)
 
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

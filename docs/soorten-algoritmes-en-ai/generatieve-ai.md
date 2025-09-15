@@ -2,6 +2,7 @@
 title: Generatieve AI
 summary: Toelichting over generatieve AI bij de overheid en waar je rekening mee moet houden.
 ---
+
 # Generatieve AI
 Generatieve AI biedt veel kansen, maar ook valkuilen. Overheden mogen werken met generatieve AI, zolang zij deze op een verantwoorde manier ontwikkelen, inkopen en gebruiken. Om dit te doen, zijn er een aantal dingen om rekening mee te houden.
 

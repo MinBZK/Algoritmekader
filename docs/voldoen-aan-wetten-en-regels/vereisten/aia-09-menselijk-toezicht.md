@@ -17,16 +17,16 @@ risicogroep:
 - hoog-risico-ai-systeem
 rol-ai-act:
 - aanbieder
-transparantieverplichting: 
+transparantieverplichting:
 - geen-transparantieverplichting
-- transparantieverplichting 
+- transparantieverplichting
 systeemrisico:
 - niet-van-toepassing
-open-source: 
+open-source:
 - open-source
 - geen-open-source
 - niet-van-toepassing
-uitzondering: 
+uitzondering:
 - risicogroep-uitzondering-van-toepassing
 hide:
 - navigation
@@ -35,7 +35,7 @@ hide:
 <!-- tags -->
 ## Vereiste
 
-Hoog-risico-AI-systemen staan onder menselijk toezicht. 
+Hoog-risico-AI-systemen staan onder menselijk toezicht.
 
 ## Toelichting
 
@@ -65,7 +65,7 @@ In het geval van een hoog risico systeem als bedoeld in bijlage III, punt 1, a  
 ## Bronnen
 [Artikel 14 verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3669-1-1)
 
-## Van toepassing op 
+## Van toepassing op
 <!-- tags-ai-act -->
 
 ## Risico

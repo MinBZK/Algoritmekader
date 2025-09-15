@@ -1,7 +1,7 @@
 ---
 title: Klokkenluiders kunnen veilig melden dat een organisatie zich niet houdt aan de AI-verordening
 id: urn:nl:ak:ver:aia-36
-toelichting: Inbreuken op de AI-Verordening moeten gemeld kunnen worden en melders moeten dit op een veilige en vertrouwelijke manier kunnen doen, zoals beschreven in Richtlijn (EU) 2019/1937. 
+toelichting: Inbreuken op de AI-Verordening moeten gemeld kunnen worden en melders moeten dit op een veilige en vertrouwelijke manier kunnen doen, zoals beschreven in Richtlijn (EU) 2019/1937.
 levenscyclus:
 - organisatieverantwoordelijkheden
 - monitoring-en-beheer
@@ -23,19 +23,19 @@ risicogroep:
 - hoog-risico-ai-systeem
 - geen-hoog-risico-ai-systeem
 - niet-van-toepassing
-transparantieverplichting: 
+transparantieverplichting:
 - geen-transparantieverplichting
-- transparantieverplichting 
+- transparantieverplichting
 - niet-van-toepassing
 systeemrisico:
 - systeemrisico
 - geen-systeemrisico
 - niet-van-toepassing
-open-source: 
+open-source:
 - open-source
 - geen-open-source
 - niet-van-toepassing
-uitzondering: 
+uitzondering:
 - risicogroep-uitzondering-van-toepassing
 - ("soort-toepassing-ai-systeem-voor-algemene-doeleinden" || "soort-toepassing-ai-systeem") && "open-source-open-source" && "transparantieverplichting-geen-transparantieverplichting" && "risicogroep-geen-hoog-risico-ai-systeem"
 hide:
@@ -56,7 +56,7 @@ De richtlijn biedt een kader voor het veilig en vertrouwelijk melden van schendi
 ## Bronnen
 [Artikel 87 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e7782-1-1)
 
-## Van toepassing op 
+## Van toepassing op
 <!-- tags-ai-act -->
 
 ## Risico

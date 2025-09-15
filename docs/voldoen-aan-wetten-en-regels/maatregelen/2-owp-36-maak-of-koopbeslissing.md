@@ -11,7 +11,7 @@ onderwerp:
 rollen:
 - projectleider
 sources:
-  
+
 hide:
 - navigation
 - toc
@@ -41,7 +41,7 @@ Met een grondige analyse kan worden voorkomen dat bijvoorbeeld een algoritme dat
 
 ## Risico
 Al ontwikkelde algoritmes die aansluiten bij de behoeftestelling worden onnodig opnieuw ontwikkeld of het zelfstandig ontwikkelen is verkeerd ingeschat waardoor de ontwikkeling te duur of onbeheersbaar wordt.
- 
+
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
     <!-- list_vereisten_on_maatregelen_page -->

@@ -1,5 +1,5 @@
 ---
-title: Klachtrecht voor aanbieders verder in AI-waardeketen
+title: Aanbieders van AI-systemen kunnen een klacht indienen over de aanbieder van hun AI-model
 id: urn:nl:ak:ver:aia-37
 toelichting: Aanbieders verder in de AI-waardeketen hebben het recht een klacht in te dienen wegens inbreuk op de AI verordening bij het AI-bureau.
 levenscyclus:
@@ -18,19 +18,19 @@ risicogroep:
 - hoog-risico-ai-systeem
 - geen-hoog-risico-ai-systeem
 - niet-van-toepassing
-transparantieverplichting: 
+transparantieverplichting:
 - geen-transparantieverplichting
-- transparantieverplichting 
+- transparantieverplichting
 - niet-van-toepassing
 systeemrisico:
 - systeemrisico
 - geen-systeemrisico
 - niet-van-toepassing
-open-source: 
+open-source:
 - open-source
 - geen-open-source
 - niet-van-toepassing
-uitzondering: 
+uitzondering:
 - risicogroep-uitzondering-van-toepassing
 - ("soort-toepassing-ai-systeem-voor-algemene-doeleinden" || "soort-toepassing-ai-systeem") && "open-source-open-source" && "transparantieverplichting-geen-transparantieverplichting" && "risicogroep-geen-hoog-risico-ai-systeem"
 hide:

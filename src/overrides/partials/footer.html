@@ -1,24 +1,34 @@
 <footer class="md-footer">
     <div class="md-footer__inner">
-      <!-- Left Section: Notice Text -->
+      <!-- Left Section: Notice Text + Timestamp -->
       <div class="md-footer__notice">
-        <p>Let op: deze website is in ontwikkeling. De informatie verandert vaak. Wil je <a href="/Algoritmekader/overhetalgoritmekader/CONTRIBUTING/">meehelpen?</a></p>
+        <p><b>Deze website is in ontwikkeling. De informatie verandert vaak. Wil je <a href="{{ base_url }}/over-het-algoritmekader/CONTRIBUTING/">meehelpen?</a></b></p>
+        <div class="md-footer__timestamp">
+          {% import "partials/language.html" as lang with context %}
+          {% if page and page.meta %}
+            <!-- mkdocs-git-revision-date-localized-plugin -->
+            {% if page.meta.git_revision_date_localized %}
+              Deze pagina is voor het laatst geüpdatet op: {{ page.meta.git_revision_date_localized }}
+            <!-- mkdocs-git-revision-date-plugin -->
+            {% elif page.meta.revision_date %}
+              Deze pagina is voor het laatst geüpdatet op: {{ page.meta.revision_date }}
+            {% endif %}
+          {% endif %}
+        </div>
       </div>
-  
       <!-- Right Section: Links in Columns -->
       <div class="md-footer__links">
         <div class="md-footer__column">
-          <a href="/Algoritmekader/overhetalgoritmekader/over-het-algoritmekader/">Over het Algoritmekader</a>
-          <a href="/Algoritmekader/overhetalgoritmekader/CONTRIBUTING/">Meedoen</a>
-          <a href="/Algoritmekader/overhetalgoritmekader/CONTRIBUTING/">Contact</a>
-          <a href="#">Privacy</a>
+          <a href="{{ base_url }}/over-het-algoritmekader/over-het-algoritmekader">Over het Algoritmekader</a>
+          <a href="{{ base_url }}/over-het-algoritmekader/CONTRIBUTING/">Meedoen</a>
+          <a href="{{ base_url }}/over-het-algoritmekader/CONTRIBUTING/#ik-heb-een-vraag">Contact</a>
         </div>
         <div class="md-footer__column">
           <a href="https://overheid.nl/">Overheid.nl</a>
           <a href="https://www.rijksoverheid.nl/">Rijksoverheid.nl</a>
           <a href="https://www.digitaleoverheid.nl/">Digitale Overheid</a>
           <a href="https://data.overheid.nl/">Data.overheid.nl</a>
-          <a href="https://algoritmes.pleio.nl/">Algoritmes.pleio.nl</a>
+          <a href="https://aienalgoritmes.pleio.nl/">aienalgoritmes.pleio.nl</a>
         </div>
       </div>
     </div>
@@ -26,7 +36,7 @@
 <div id="modal" class="minbzk-modal display-none">
   <div class="modal-underlay" onclick="closeModal()"></div>
   <div class="modal-content-container" id="modal-content-container">
-    <div class="modal-content-close" onclick="closeModal()">&#xd7;</div>
+    <div class="modal-content-close" onclick="closeModal()">×</div>
     <div class="modal-content" id="modal-content">
   </div>
   </div>

@@ -25,20 +25,20 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-Het in gebruik nemen van algoritmes die door anderen zijn ontwikkeld brengt risico’s met zich mee waar je je tegen moet beschermen. 
+Het in gebruik nemen van algoritmes die door anderen zijn ontwikkeld brengt risico’s met zich mee waar je je tegen moet beschermen.
 Deze risico’s moeten adequaat afgedekt worden door afhankelijkheden te analyseren en afspraken te maken met leveranciers en controles uit te voeren.
 
 ## Toelichting
-Veel algoritmes zullen niet zelf ontwikkeld worden, maar bijvoorbeeld compleet [ingekocht](../../onderwerpen/publieke-inkoop.md) worden of op een externe server getraind worden. 
-Redenen om dit te doen zijn het reeds beschikbaar zijn van een voorgetraind algoritme of bijvoorbeeld een gebrek aan technische kennis, een gebrek aan voldoende trainingsdata en een gebrek aan rekenkracht binnen de eigen organisatie. 
+Veel algoritmes zullen niet zelf ontwikkeld worden, maar bijvoorbeeld compleet [ingekocht](../../onderwerpen/publieke-inkoop.md) worden of op een externe server getraind worden.
+Redenen om dit te doen zijn het reeds beschikbaar zijn van een voorgetraind algoritme of bijvoorbeeld een gebrek aan technische kennis, een gebrek aan voldoende trainingsdata en een gebrek aan rekenkracht binnen de eigen organisatie.
 
-Echter is het een stuk lastiger om deze modellen te beschermen tegen aanvallen zoals [backdoors] omdat er geen (directe) controle is op het correct uitvoeren van een trainingsproces. 
+Echter is het een stuk lastiger om deze modellen te beschermen tegen aanvallen zoals [backdoors] omdat er geen (directe) controle is op het correct uitvoeren van een trainingsproces.
 
-Een eerste stap is om in kaart te brengen welke afhankelijkheden er zijn en te onderzoeken of deze beheersbaar zijn. 
-Er moeten duidelijke afspraken gemaakt worden met leveranciers, bijvoorbeeld in de vorm van een [Service Level Agreement (SLA)](2-owp-28-maak-vereisten-onderdeel-van-service-level-agreement.md). 
+Een eerste stap is om in kaart te brengen welke afhankelijkheden er zijn en te onderzoeken of deze beheersbaar zijn.
+Er moeten duidelijke afspraken gemaakt worden met leveranciers, bijvoorbeeld in de vorm van een [Service Level Agreement (SLA)](2-owp-28-maak-vereisten-onderdeel-van-service-level-agreement.md).
 Op deze manier kan bijvoorbeeld afgesproken worden wie er verantwoordelijk is voor bijvoorbeeld het correct trainen en functioneren van het algoritme en hoe incidenten afgehandeld moeten worden.
 
-Tot slot kunnen extra maatregelen genomen worden om te verifiëren dat het model inderdaad functioneert zoals afgesproken. Zo kunnen er formele methodes gebruikt worden om het algoritme te verifiëren en kan het gedrag van het algoritme getest worden tegen bekende, foutieve invoerwaarden. 
+Tot slot kunnen extra maatregelen genomen worden om te verifiëren dat het model inderdaad functioneert zoals afgesproken. Zo kunnen er formele methodes gebruikt worden om het algoritme te verifiëren en kan het gedrag van het algoritme getest worden tegen bekende, foutieve invoerwaarden.
 
 ## Risico
 Als onvoldoende duidelijk is hoe een algoritme werkt en tot stand is gekomen kan deze onverwachts gedrag vertonen tijdens het gebruik.
@@ -53,4 +53,4 @@ Als onvoldoende duidelijk is hoe een algoritme werkt en tot stand is gekomen kan
 
 ## Voorbeelden
 
-Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

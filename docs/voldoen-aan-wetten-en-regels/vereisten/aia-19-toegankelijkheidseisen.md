@@ -14,16 +14,16 @@ risicogroep:
 - hoog-risico-ai-systeem
 rol-ai-act:
 - aanbieder
-transparantieverplichting: 
+transparantieverplichting:
 - geen-transparantieverplichting
-- transparantieverplichting 
+- transparantieverplichting
 systeemrisico:
 - niet-van-toepassing
-open-source: 
+open-source:
 - open-source
 - geen-open-source
 - niet-van-toepassing
-uitzondering: 
+uitzondering:
 - risicogroep-uitzondering-van-toepassing
 hide:
 - navigation
@@ -39,7 +39,7 @@ Aanbieders van AI-systemen met een hoog risico zorgen ervoor dat het AI-systeem 
 
 ## Toelichting
 
-Gezien het toenemende belang en gebruik van AI-systemen moet de toepassing van universele ontwerpbeginselen op alle nieuwe technologieën en diensten zorgen voor volledige en gelijke toegang voor iedereen die mogelijk gevolgen ondervindt van of gebruikmaakt van AI-technologieën, met inbegrip van personen met een handicap, op een manier waarbij ten volle rekening wordt gehouden met hun inherente waardigheid en diversiteit. 
+Gezien het toenemende belang en gebruik van AI-systemen moet de toepassing van universele ontwerpbeginselen op alle nieuwe technologieën en diensten zorgen voor volledige en gelijke toegang voor iedereen die mogelijk gevolgen ondervindt van of gebruikmaakt van AI-technologieën, met inbegrip van personen met een handicap, op een manier waarbij ten volle rekening wordt gehouden met hun inherente waardigheid en diversiteit.
 
 Aanbieders van AI-systemen met een hoog risico moeten daarom ervoor zorgen dat hun systeem toegankelijk is volgens de EU-richtlijnen 2016/2102 en 2019/882 en deze eisen onderdeel maken van het ontwerp. De nodige maatregelen moeten daarom zo goed mogelijk in het ontwerp van AI-systemen met een hoog risico worden geïntegreerd.
 
@@ -55,7 +55,7 @@ Richtlijn 2019/882 strekt ertoe een bijdrage te leveren tot het goed functionere
 - EU-richtlijn 2016/2102
 - EU-richtlijn 2019/882
 
-## Van toepassing op 
+## Van toepassing op
 <!-- tags-ai-act -->
 
 

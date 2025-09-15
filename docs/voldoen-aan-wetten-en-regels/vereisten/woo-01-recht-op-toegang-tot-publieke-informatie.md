@@ -13,7 +13,7 @@ soort-toepassing:
 - ai-model-voor-algemene-doeleinden
 - ai-systeem
 - ai-systeem-voor-algemene-doeleinden
-risicogroep: 
+risicogroep:
 - hoog-risico-ai-systeem
 - geen-hoog-risico-ai-systeem
 - uitzondering-van-toepassing
@@ -23,15 +23,15 @@ rol-ai-act:
 - gebruiksverantwoordelijke
 - importeur
 - distributeur
-transparantieverplichting: 
+transparantieverplichting:
 - geen-transparantieverplichting
-- transparantieverplichting 
+- transparantieverplichting
 - niet-van-toepassing
 systeemrisico:
 - systeemrisico
 - geen-systeemrisico
 - niet-van-toepassing
-open-source: 
+open-source:
 - open-source
 - geen-open-source
 - niet-van-toepassing
@@ -65,7 +65,7 @@ Dit moet worden bekeken in het licht van wat 'actief' moet worden geopenbaard, d
 - [Artikel 4.1 Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=4&artikel=4.1&z=2024-08-01&g=2024-08-01)
 - [Artikel 5 Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=4&artikel=4.1&z=2024-08-01&g=2024-08-01)
 
-## Van toepassing op 
+## Van toepassing op
 <!-- tags-ai-act -->
 
 

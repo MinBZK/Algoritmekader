@@ -1,0 +1,25 @@
+{
+    "ignorePatterns": [
+      {
+        "pattern": "^https://dl\\.acm\\.org/"
+      },
+      {
+        "pattern": "^https://www\\.sciencedirect\\.com/"
+      },
+      {
+        "pattern": "^https://www\\.mdpi\\.com/"
+      }
+    ],
+    "httpHeaders": [
+      {
+        "urls": ["https://www.amsterdam.nl/", "https://www.rijksoverheid.nl/", "https://eur-lex.europa.eu/"],
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+        }
+      }
+    ],
+    "retryOn429": true,
+    "retryCount": 3,
+    "fallbackRetryDelay": "2000ms",
+    "aliveStatusCodes": [200, 206, 302, 403]
+  }

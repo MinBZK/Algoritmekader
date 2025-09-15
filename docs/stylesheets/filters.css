@@ -16,13 +16,101 @@
 .filter-container.info:has(> *:not([type="hidden"])) {
   display: flex; /* Show only when there are visible filter elements */
 }
+
 /* Style each filter item */
 .filter-item {
-  flex: 0 1 250px; 
+  flex: 0 1 250px;
   margin: 0;
-  padding: 0; 
-  box-sizing: border-box; 
+  padding: 0;
+  box-sizing: border-box;
   min-height: 48px !important;
+}
+
+/* More compact filters for vereisten pages with wetcode column */
+/* Use a class-based approach that can be set by JavaScript */
+@media (min-width: 768px) {
+  .filter-container.vereisten-filters {
+    gap: 8px;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+  }
+
+  .filter-container.vereisten-filters .filter-item {
+    flex: 1 1 auto;
+    min-width: 200px;
+    max-width: 280px;
+    margin-right: 8px !important;
+    margin-bottom: 0 !important;
+    padding-right: 0;
+  }
+
+  .filter-container.vereisten-filters .filter-item:last-child {
+    margin-right: 0 !important;
+  }
+
+  /* Force spacing on all filter elements including Choices.js */
+  .filter-container.vereisten-filters .filter-item:not(:last-child) {
+    margin-right: 8px !important;
+  }
+
+  .filter-container.vereisten-filters .filter-item #filterInput,
+  .filter-container.vereisten-filters .filter-item .choices {
+    width: 100%;
+    min-width: 200px;
+  }
+}
+
+/* For desktop screens - optimize space usage */
+@media (min-width: 1024px) {
+  .filter-container.vereisten-filters {
+    gap: 10px;
+  }
+
+  .filter-container.vereisten-filters .filter-item {
+    flex: 1 1 0;
+    min-width: 180px;
+    max-width: none;
+    margin-right: 10px !important;
+  }
+
+  .filter-container.vereisten-filters .filter-item:not(:last-child) {
+    margin-right: 10px !important;
+  }
+
+  .filter-container.vereisten-filters .filter-item #filterInput,
+  .filter-container.vereisten-filters .filter-item .choices {
+    width: 100%;
+    min-width: 180px;
+  }
+}
+
+/* For very wide screens - all filters on one row */
+@media (min-width: 1400px) {
+  .filter-container.vereisten-filters {
+    gap: 12px;
+    flex-wrap: nowrap;
+  }
+
+  .filter-container.vereisten-filters .filter-item {
+    flex: 1 1 0;
+    min-width: 200px;
+    margin-right: 12px !important;
+    margin-bottom: 0 !important;
+  }
+
+  .filter-container.vereisten-filters .filter-item:last-child {
+    margin-right: 0 !important;
+  }
+
+  .filter-container.vereisten-filters .filter-item:not(:last-child) {
+    margin-right: 12px !important;
+  }
+
+  .filter-container.vereisten-filters .filter-item #filterInput,
+  .filter-container.vereisten-filters .filter-item .choices {
+    width: 100%;
+    min-width: 200px;
+  }
 }
 
 /* Input and select fields */
@@ -31,31 +119,31 @@
 #filterLevenscyclusSelect {
   border: 2px solid #154273;
   border-radius: 4px;
-  padding: 12px; 
+  padding: 12px;
   box-sizing: border-box;
   outline: none;
   font-size: 16px;
-  font-family: "ROsanswebtextregular", sans-serif; 
-  width: 100%; 
-  min-width: 250px; 
+  font-family: "ROsanswebtextregular", sans-serif;
+  width: 100%;
+  min-width: 250px;
   width: 260px;
   min-height: 48px;
-  text-align: left; 
+  text-align: left;
 }
 
 /* Focus style for input fields */
 #filterInput:focus {
   border-color: #1c5ba7;
-  box-shadow: 0 0 4px rgba(28, 91, 167, 0.5); 
+  box-shadow: 0 0 4px rgba(28, 91, 167, 0.5);
 }
 
 /* Label styling */
 .filter-item label {
   display: block;
-  margin-bottom: 8px; 
+  margin-bottom: 8px;
   font-weight: bold;
-  color: #154273; 
-  font-family: "ROsanswebtextregular", sans-serif; 
+  color: #154273;
+  font-family: "ROsanswebtextregular", sans-serif;
 }
 
 /* Custom styles for selected items (the "chips") */
@@ -64,7 +152,7 @@
   border-radius: 5px !important;
   background-color: #ffffff !important;
   color: #154273 !important;
-  margin: 0 4px 4px 0 !important; 
+  margin: 0 4px 4px 0 !important;
   font-style: italic;
   white-space: nowrap;
 }
@@ -80,6 +168,48 @@
   width: 260px !important;
   border: 2px solid #154273;
   border-radius: 5px;
+  position: relative;
+}
+
+/* Override the base Choices.js width for vereisten filters */
+.filter-container.vereisten-filters .choices {
+  width: 100% !important;
+  min-width: 200px !important;
+  max-width: 280px !important;
+}
+
+@media (min-width: 1024px) {
+  .filter-container.vereisten-filters .choices {
+    width: 100% !important;
+    min-width: 180px !important;
+    max-width: none !important;
+  }
+}
+
+@media (min-width: 1400px) {
+  .filter-container.vereisten-filters .choices {
+    width: 100% !important;
+    min-width: 200px !important;
+    max-width: none !important;
+  }
+}
+
+/* Ensure dropdown is visible */
+.choices__list--dropdown {
+  z-index: 1000 !important;
+  position: absolute !important;
+}
+
+/* For vereisten filters, ensure dropdowns work properly */
+.filter-container.vereisten-filters .choices {
+  position: relative;
+  z-index: auto;
+}
+
+.filter-container.vereisten-filters .choices__list--dropdown {
+  z-index: 1000 !important;
+  position: absolute !important;
+  width: 100% !important;
 }
 
 .choices__inner {
@@ -88,11 +218,11 @@
   font-size: 14px;
   overflow: hidden;
   border: none !important;
-  text-align: left; 
+  text-align: left;
 }
 
 /* Custom CSS for the Choices.js close button with a cross icon */
-.choices[data-type*=select-multiple] .choices__button, 
+.choices[data-type*=select-multiple] .choices__button,
 .choices[data-type*=text] .choices__button {
   position: relative;
   display: inline-block;
@@ -100,7 +230,7 @@
   padding-left: 16px;
   border: none !important;
   background-image: url("data:image/svg+xml;charset=utf-8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path fill='%23154373' d='M18 6.41L16.59 5 12 9.59 7.41 5 6 6.41 10.59 11 6 15.59 7.41 17 12 12.41 16.59 17 18 15.59 13.41 11 18 6.41z'/></svg>") !important;
-  background-size: 16px !important; 
+  background-size: 16px !important;
   background-repeat: no-repeat;
   line-height: 1;
   opacity: .75;
@@ -108,7 +238,7 @@
 }
 
 /* Hover state for the cross, if you want to change color on hover */
-.choices[data-type*=select-multiple] .choices__button:hover, 
+.choices[data-type*=select-multiple] .choices__button:hover,
 .choices[data-type*=text] .choices__button:hover {
   background-image: url("data:image/svg+xml;charset=utf-8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path fill='%2320427a' d='M18 6.41L16.59 5 12 9.59 7.41 5 6 6.41 10.59 11 6 15.59 7.41 17 12 12.41 16.59 17 18 15.59 13.41 11 18 6.41z'/></svg>") !important;
   background-size: 16px;
@@ -124,12 +254,12 @@
   background-color: #ffffff !important;
   font-size: 16px !important;
   margin-bottom: 0px !important;
-  text-align: left; 
+  text-align: left;
 }
 
 .choices__input--cloned {
   margin-bottom: 0px !important;
-  text-align: left; 
+  text-align: left;
 }
 
 /* Hide Klik om te selecteren */
@@ -139,4 +269,12 @@
 
 .mdx-badge{
   text-decoration: none;
+}
+
+/* Fix excessive right padding in dropdown items */
+@media (min-width: 640px) {
+    .choices__list--dropdown .choices__item--selectable[data-select-text],
+    .choices__list[aria-expanded] .choices__item--selectable[data-select-text] {
+        padding-right: 20px !important;
+    }
 }

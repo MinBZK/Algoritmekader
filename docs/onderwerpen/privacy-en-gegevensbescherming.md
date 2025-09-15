@@ -1,12 +1,12 @@
 ---
 title: Privacy en persoonsgegevens beschermen in algoritmes
-hide: 
+hide:
 - path
 ---
 
 # Privacy en persoonsgegevens beschermen in algoritmes
 Overheden die algoritmes gebruiken, moeten de persoonsgegevens van burgers beschermen. Hiervan gebruik je niet meer dan nodig is. En je beveiligt deze gegevens goed.
- 
+
 ## Wat is het beschermen van privacy en persoonsgegevens in algoritmes?
 Overheidsalgoritmes mogen persoonsgegevens gebruiken als hier een grondslag voor is, bijvoorbeeld omdat de verwerking wordt voorgeschreven in specifieke wetgeving of wanneer de verwerking noodzakelijk is voor een specifieke wettelijke taak. En wanneer je netjes omgaat met hun persoonsgegevens.
 Dit betekent:
@@ -21,7 +21,7 @@ Als overheid moet je hier goed op letten. Doe dit zo vroeg mogelijk in de [leven
 Als je persoonsgegevens gebruikt voor algoritmes, moet je rekening houden met wetgeving, zoals de Algemene Verordening Gegevensbescherming (AVG) en de Auteurswet. De belangrijkste regels zijn:
 
 * Gebruik alleen persoonsgegevens die je mag gebruiken voor het doel van je algoritme: je hebt toestemming van de eigenaar, of het mag volgens de wet.
-* Gebruik zo min mogelijk persoonsgegevens om dit doel bereiken. 
+* Gebruik zo min mogelijk persoonsgegevens om dit doel bereiken.
 
 Je organisatie moet aantoonbaar de verwerking beperken tot de persoonsgegevens die noodzakelijk zijn voor een duidelijk bepaald doel. Dit kan lastig zijn. Want welke gegevens zijn bijvoorbeeld nodig als je vooraf niet weet welke verbanden het algoritme legt?
 
@@ -36,7 +36,7 @@ De persoonsgegevens die overblijven, gebruik je zo minimaal mogelijk. Hoe minima
     Leg de keuzes die je maakt duidelijk uit. Zo voorkom je fouten op de werkvloer. Persoonsgegevens die zijn verzameld voor doel A mogen bijvoorbeeld alleen onder specifieke voorwaarden voor doel B gebruiken.
 
 ## Belang van privacy en persoonsgegevens beschermen
-Algoritmes die persoonsgegevens verwerken, kunnen snel de privacy schenden van grote groepen mensen. Vooral [impactvolle algoritmes](../overhetalgoritmekader/impact-van-algoritmes.md) kunnen veel schade veroorzaken in de maatschappij.
+Algoritmes die persoonsgegevens verwerken, kunnen snel de privacy schenden van grote groepen mensen. Vooral [impactvolle algoritmes](../soorten-algoritmes-en-ai/impact-van-algoritmes.md) kunnen veel schade veroorzaken in de maatschappij.
 
 Wanneer je de privacy en persoonsgegevens van mensen goed beschermt, verlaag je de kans op:
 
@@ -45,7 +45,7 @@ Wanneer je de privacy en persoonsgegevens van mensen goed beschermt, verlaag je 
 * Lekken van persoonsgegevens.
 
 Persoonsgegevens helemaal niet gebruiken, is onmogelijk. Voor sommige taken kunnen overheden niet meer zonder algoritmes, bijvoorbeeld voor het beoordelen van grote aantallen aanvragen voor subsidies of vergunningen. Hiervoor zijn persoonsgegevens nodig zoals iemands naam, adres of bepaalde kenmerken.
- 
+
 ## Vereisten { data-search-exclude }
 
 <!-- list_vereisten onderwerp/privacy-en-gegevensbescherming no-search no-onderwerp no-rol no-levenscyclus -->

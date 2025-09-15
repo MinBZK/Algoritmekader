@@ -13,17 +13,17 @@ soort-toepassing:
 - ai-model-voor-algemene-doeleinden
 rol-ai-act:
 - aanbieder
-risicogroep: 
+risicogroep:
 - niet-van-toepassing
 systeemrisico:
 - systeemrisico
-transparantieverplichting: 
+transparantieverplichting:
 - niet-van-toepassing
-open-source: 
+open-source:
 - open-source
 - geen-open-source
 - niet-van-toepassing
-uitzondering: 
+uitzondering:
 - risicogroep-uitzondering-van-toepassing
 hide:
 - navigation
@@ -43,7 +43,11 @@ Het doel is om de integriteit en veiligheid van het model en de infrastructuur t
 ## Bronnen
 [Artikel 55(1d) Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e5730-1-1)
 
-## Van toepassing op 
+[OWASP - top 10 meest kritieke kwetsbaarheden in generatieve AI-systemen](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
+
+[AIVD - AI-systemen: ontwikkel ze veilig](https://www.aivd.nl/actueel/nieuws/2023/02/15/ai-systemen-ontwikkel-ze-veilig)
+
+## Van toepassing op
 <!-- tags-ai-act -->
 
 ## Risico

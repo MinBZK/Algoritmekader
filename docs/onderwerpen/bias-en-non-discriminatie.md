@@ -1,6 +1,6 @@
 ---
 title: Discriminerende effecten en ander ongewenst onderscheid bij het gebruik van algoritmes
-hide: 
+hide:
 - path
 ---
 
@@ -9,39 +9,39 @@ hide:
 Wie algoritmes ontwikkelt of gebruikt, moet ongewenst onderscheid en eventuele discriminerende effecten hiervan voorkomen. Want met algoritmes kun je makkelijk discrimineren, ook al is dat niet de bedoeling. Let daarom steeds op ‘bias’. Dit zijn vooroordelen of fouten in je algoritme of aanpak.
 
 ## Wat is ongewenst onderscheid?
-Algoritmes kunnen leiden tot ongewenst onderscheid als je mensen of (andere) groepen ongelijk behandelt in gelijke situaties. 
+Algoritmes kunnen leiden tot ongewenst onderscheid als je mensen of (andere) groepen ongelijk behandelt in gelijke situaties.
 
 Een camera met gezichtsherkenning herkent bijvoorbeeld geen vrouwen van kleur. Of een computerprogramma selecteert vooral mensen met een laag inkomen als risicogroep voor fraude.
 
 Dit onderscheid kan op twee manieren ontstaan:
 
 - Direct onderscheid: Het algoritme gebruikt een [discriminatiegrond](https://www.mensenrechten.nl/mensenrechten-voor-jou/discriminatie-en-gelijke-behandeling/wat-is-discriminatie) als variabele, zoals geloof, politieke voorkeur, ras, nationaliteit, geslacht, handicap, burgerlijke staat, vermogen of leeftijd.
-- Indirect onderscheid: Het algoritme lijkt neutraal of eerlijk. Maar later blijkt dat bepaalde mensen op een andere manier worden behandeld door hun geloof, politieke of seksuele voorkeur, ras, geslacht, of burgerlijke staat. 
+- Indirect onderscheid: Het algoritme lijkt neutraal of eerlijk. Maar later blijkt dat bepaalde mensen op een andere manier worden behandeld door hun geloof, politieke of seksuele voorkeur, ras, geslacht, of burgerlijke staat.
 
-Direct en indirect onderscheid is in veel gevallen niet toegestaan. Ongewenst onderscheid kan leiden tot discrimerende effecten van een algoritme. 
+Direct en indirect onderscheid is in veel gevallen niet toegestaan. Ongewenst onderscheid kan leiden tot discrimerende effecten van een algoritme.
 
 !!! tip "Tip"
-    
+
     Maakt je algoritme een ongewenst onderscheid of is er sprake van discrimerende effecten van je algoritme? Dan moet je zo snel mogelijk [stoppen met het algoritme](../levenscyclus/uitfaseren.md). Gebruik bijvoorbeeld het [discriminatieprotocol](https://minbzk.github.io/discriminatieprotocol/) van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ### Uitzondering
-Een direct of indirect onderscheid is niet altijd verboden volgens [Artikel 2 Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=1&artikel=1&z=2020-01-01&g=2020-01-01). In bepaalde situaties en onder bepaalde strenge voorwaarden mag je zo’n onderscheid wel maken. 
+Een direct of indirect onderscheid is niet altijd verboden volgens [Artikel 2 Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=1&artikel=1&z=2020-01-01&g=2020-01-01). In bepaalde situaties en onder bepaalde strenge voorwaarden mag je zo’n onderscheid wel maken.
 
-Direct onderscheid maken mag bijvoorbeeld als hiervoor een uitzondering staat in de wet. Zo mag je in situaties waar het gaat om moederschap of zwangerschap onderscheid maken op basis van geslacht. 
+Direct onderscheid maken mag bijvoorbeeld als hiervoor een uitzondering staat in de wet. Zo mag je in situaties waar het gaat om moederschap of zwangerschap onderscheid maken op basis van geslacht.
 
 Indirect onderscheid maken mag niet, tenzij hiervoor een wettelijke uitzondering geldt. Of je hebt een goede reden (objectieve rechtvaardiging). Selecteert je algoritme bijvoorbeeld alleen vrouwen voor een vacature, dan moet je hier een objectieve rechtvaardiging voor hebben. En het algoritme moet passend en noodzakelijk zijn om een doel te bereiken dat wettelijk is toegestaan. Anders is het discriminatie.
 
 ## Belang van discriminerende effecten voorkomen
-Discriminatie is verboden volgens [Artikel 1 van de Nederlandse Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=1&z=2023-02-22&g=2023-02-22). En algoritmes kunnen snel een discriminerend effect hebben op grote groepen mensen. Vooral [impactvolle algoritmes](../overhetalgoritmekader/impact-van-algoritmes.md) kunnen veel schade veroorzaken in de maatschappij door discriminatie.
+Discriminatie is verboden volgens [Artikel 1 van de Nederlandse Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=1&z=2023-02-22&g=2023-02-22). En algoritmes kunnen snel een discriminerend effect hebben op grote groepen mensen. Vooral [impactvolle algoritmes](../soorten-algoritmes-en-ai/impact-van-algoritmes.md) kunnen veel schade veroorzaken in de maatschappij door discriminatie.
 
 Het is erg moeilijk om discriminerende effecten te voorkomen. Discriminatiegronden weglaten als variabele in je algoritme is niet genoeg. Want discriminatie ontstaat ook indirect, door bias.
 
 ## Profilering
-Veel organisaties gebruiken risicoprofilering als hulpmiddel om regels te handhaven. Dit gebruik van risicoprofilering kan leiden tot discriminerende effecten. Het gebruik van risicoprofilering vraagt om een zorgvuldige aanpak om nadelige effecten te voorkomen. Om organisaties hier mee te helpen, heeft het College voor de Rechten van de Mens een gedetailleerd [toetsingskader voor risicoprofilering](https://publicaties.mensenrechten.nl/publicatie/4093c026-ae41-4c1d-aa78-4ce0e205b5de) ontwikkeld om discriminatie op grond van ras en nationaliteit te voorkomen. 
+Veel organisaties gebruiken risicoprofilering als hulpmiddel om regels te handhaven. Dit gebruik van risicoprofilering kan leiden tot discriminerende effecten. Het gebruik van risicoprofilering vraagt om een zorgvuldige aanpak om nadelige effecten te voorkomen. Om organisaties hier mee te helpen, heeft het College voor de Rechten van de Mens een gedetailleerd [toetsingskader voor risicoprofilering](https://publicaties.mensenrechten.nl/publicatie/4093c026-ae41-4c1d-aa78-4ce0e205b5de) ontwikkeld om discriminatie op grond van ras en nationaliteit te voorkomen. Daarnaast kun je gebruik maken van de [Publieke standaard profileringsalgoritmes](https://algorithmaudit.eu/nl/knowledge-platform/knowledge-base/public_standard_profiling/), gepubliceerd door Algorithm Audit.
 
 !!! tip "Tip"
 
-    Meer weten over dit onderwerp? Of wil je dat collega's meer weten over dit onderwerp? Volg de [e-learning non-discriminatie in algoritmes en data](https://www.it-academieoverheid.nl/actueel/nieuws/2024/10/29/nieuwe-radio-e-learning-non-discriminatie), ontwikkeld door het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. 
+    Meer weten over dit onderwerp? Of wil je dat collega's meer weten over dit onderwerp? Volg de [e-learning non-discriminatie in algoritmes en data](https://www.it-academieoverheid.nl/actueel/nieuws/2024/10/29/nieuwe-radio-e-learning-non-discriminatie), ontwikkeld door het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ## Herken bias
 Bias herkennen is een belangrijke stap in het voorkomen van discriminerende effecten van algoritmes.
@@ -68,19 +68,19 @@ Voorbeelden:
 
     Je algoritme maakt een verkeerde schatting of benadering van kenmerken of labels. Dit komt doordat het de ene variabele gebruikt om een andere variabele te voorspellen of te benaderen (proxy). En hierbij laat het belangrijke informatie weg, of het voegt onbelangrijke informatie (ruis) toe.
 
-    Een algoritme maakt bijvoorbeeld een verkeerde schatting van het risico op overlijden aan longontsteking in het ziekenhuis. Het algoritme leert namelijk uit de data dat dit risico lager is voor astmapatiënten. Maar dit komt niet door hun astma. Het algoritme laat weg dat astmapatiënten met longontsteking direct naar de intensive care gaan. En mensen zonder astma niet.  
+    Een algoritme maakt bijvoorbeeld een verkeerde schatting van het risico op overlijden aan longontsteking in het ziekenhuis. Het algoritme leert namelijk uit de data dat dit risico lager is voor astmapatiënten. Maar dit komt niet door hun astma. Het algoritme laat weg dat astmapatiënten met longontsteking direct naar de intensive care gaan. En mensen zonder astma niet.
 
 ??? expander "Versterkingsbias (amplification bias)"
 
     Je algoritme versterkt een patroon uit de trainingsdata.
 
-    Een algoritme dat mensen en hun acties herkent, voorspelt bijvoorbeeld 5 keer zo vaak de combinatie ‘vrouw’ en ‘koken’. Terwijl deze combinatie in de trainingsdata maar 2 keer zo vaak voorkomt. 
+    Een algoritme dat mensen en hun acties herkent, voorspelt bijvoorbeeld 5 keer zo vaak de combinatie ‘vrouw’ en ‘koken’. Terwijl deze combinatie in de trainingsdata maar 2 keer zo vaak voorkomt.
 
 ??? expander "Evaluatie-bias (evaluation bias)"
 
-    Je algoritme trekt verkeerde conclusies omdat de evaluatiedata niet kloppen, of niet compleet zijn. 
+    Je algoritme trekt verkeerde conclusies omdat de evaluatiedata niet kloppen, of niet compleet zijn.
 
-    Een algoritme voor gezichtsherkenning herkent bijvoorbeeld vrouwen van kleur niet goed, omdat deze vrouwen te weinig voorkomen in de dataset voor evaluatie. 
+    Een algoritme voor gezichtsherkenning herkent bijvoorbeeld vrouwen van kleur niet goed, omdat deze vrouwen te weinig voorkomen in de dataset voor evaluatie.
 
 ??? expander "Representatie-bias (representation bias)"
 
@@ -89,9 +89,9 @@ Voorbeelden:
     Een algoritme beoordeelt bijvoorbeeld de populariteit van treinstations onder reizigers op basis van hun smartphone-gebruik. Maar deze groep is niet representatief, omdat oudere reizigers vaak minder gebruik maken van smartphones.
 
 ### Bias in systemen en processen
-Dit is vooringenomenheid die vaak in de loop der tijd is ontstaan in de samenleving of je organisatie. Deze vooringenomenheid werkt door in processen of systemen, of wordt soms versterkt door algoritmes. Dit gebeurt vaak niet bewust. 
+Dit is vooringenomenheid die vaak in de loop der tijd is ontstaan in de samenleving of je organisatie. Deze vooringenomenheid werkt door in processen of systemen, of wordt soms versterkt door algoritmes. Dit gebeurt vaak niet bewust.
 
-Systemische bias heet ook wel: institutionele vooringenomenheid. Dit betekent dat vooroordelen vaak horen bij de cultuur en samenleving. Die vooroordelen zitten daardoor ook in veel datasets, en kunnen zo versterkt worden door je algoritme. 
+Systemische bias heet ook wel: institutionele vooringenomenheid. Dit betekent dat vooroordelen vaak horen bij de cultuur en samenleving. Die vooroordelen zitten daardoor ook in veel datasets, en kunnen zo versterkt worden door je algoritme.
 
 Voorbeelden:
 
@@ -128,7 +128,7 @@ Voorbeelden:
 
     Mensen maken een denkfout omdat zij de voorkeur geven aan adviezen van automatische besluitvormingssystemen. Zelfs als uit andere informatie blijkt dat deze adviezen niet kloppen.
 
-    Wanneer behandelaren handmatig controleren of een uitkering van een burger klopt, hebben zij vaak de neiging om de beslissing te volgen van het algoritme. 
+    Wanneer behandelaren handmatig controleren of een uitkering van een burger klopt, hebben zij vaak de neiging om de beslissing te volgen van het algoritme.
 
 ??? expander "Cognitieve bias"
 
@@ -144,7 +144,7 @@ Voorbeelden:
 
 ??? expander "Implementatie-bias"
 
-    Een algoritme wordt op een andere manier gebruikt dan hoe het bedoeld is en waarvoor het ontwikkeld is. Dit komt vaak voor wanneer een algoritme wordt gebruikt als beslishulp voor mensen. Deze vorm van bias is een menselijke denkfout in de vorm dat gebruikers niet op dezelfde of goede manier omgaan met adviezen. 
+    Een algoritme wordt op een andere manier gebruikt dan hoe het bedoeld is en waarvoor het ontwikkeld is. Dit komt vaak voor wanneer een algoritme wordt gebruikt als beslishulp voor mensen. Deze vorm van bias is een menselijke denkfout in de vorm dat gebruikers niet op dezelfde of goede manier omgaan met adviezen.
 
     Een wet over bijvoorbeeld immigratie wordt ingevoerd en er wordt een algoritme ontwikkeld om te onderzoeken wat de gevolgen hiervan zijn. Dit algoritme is dan ook bedoeld om voor bepaalde groepen mensen te kijken wat de gevolgen zijn. Het algoritme wordt ook gebruikt bij het toekennen van staatsburgerschap aan de hand van de gevolgen. Dit is niet zoals het systeem bedoeld is en dus kunnen er incomplete antwoorden of resultaten uitkomen.
 
@@ -152,13 +152,13 @@ Voorbeelden:
 
     Mensen hebben de neiging om voorkeur te geven aan dingen, mensen of observaties die door een bepaalde selectie zijn gekomen. Naar de gevallen die buiten de selecties vallen wordt vaak niet of minder gekeken. Dit kan leiden tot een zichzelf versterkend proces.  Zo worden bijvoorbeeld modellen die werken verbeterd, maar wordt niet gekeken waarom de andere modellen niet werken.
 
-    Om fraudeherkenning te vergemakkelijken wordt bijvoorbeeld een model getraind op data van personen/huishoudens die eerder zijn gecontroleerd op mogelijke fraude. Hiermee wordt een groot gedeelte personen/huishoudens niet meegenomen in de trainingsdata, omdat deze groep niet eerder gecontroleerd is.  
+    Om fraudeherkenning te vergemakkelijken wordt bijvoorbeeld een model getraind op data van personen/huishoudens die eerder zijn gecontroleerd op mogelijke fraude. Hiermee wordt een groot gedeelte personen/huishoudens niet meegenomen in de trainingsdata, omdat deze groep niet eerder gecontroleerd is.
 
 ## Let altijd op discriminerende effecten
-Het risico op bias en discriminatie blijft altijd bestaan. Je kunt dit niet in 1 keer wegnemen. 
+Het risico op bias en discriminatie blijft altijd bestaan. Je kunt dit niet in 1 keer wegnemen.
 
 Houd daarom rekening met bias tijdens het ontwikkelen, inkopen en gebruiken van algoritmes. En controleer voortdurend of je algoritmes en je aanpak nog eerlijk en rechtvaardig zijn. Let hierop in alle fasen van de [levenscyclus](../levenscyclus/index.md) van het algoritme.
-    
+
 ## Vereisten { data-search-exclude }
 
 <!-- list_vereisten onderwerp/bias-en-non-discriminatie no-search no-onderwerp no-rol no-levenscyclus -->
@@ -172,4 +172,4 @@ Houd daarom rekening met bias tijdens het ontwikkelen, inkopen en gebruiken van 
 <!-- list_hulpmiddelen onderwerp/bias-en-non-discriminatie no-search no-onderwerp no-rol no-levenscyclus no-id -->
 
 ## Help ons deze pagina te verbeteren
-Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/rollen/index.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).
+Deel je idee, suggestie of opmerking via [GitHub](https://github.com/MinBZK/Algoritmekader/edit/main/docs/onderwerpen/bias-en-non-discriminatie.md) of mail ons via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl).

@@ -1,6 +1,6 @@
 ---
 title: Transparant zijn over algoritmes
-hide: 
+hide:
 - path
 ---
 
@@ -38,16 +38,18 @@ Hoe je transparantie organiseert, hangt af van:
 * de doelgroep die je wil bereiken
 * de [levenscyclus-fase](../levenscyclus/index.md) van je algoritme
 
-Onderzoek goed welk [soort algoritme](../overhetalgoritmekader/soorten-algoritmes.md) je gebruikt of wil gebruiken. Hoe groter de impact en het risico, hoe strenger de vereisten.
+Onderzoek goed welk [soort algoritme](../soorten-algoritmes-en-ai/wat-is-een-algoritme.md) je gebruikt of wil gebruiken. Hoe groter de impact en het risico, hoe strenger de vereisten.
 
-De keuze voor het soort algoritme bepaalt ook hoe transparant je kunt zijn. Van rekenregels kun je namelijk precies uitleggen hoe deze tot een beslissing komen. Maar complexe AI-systemen zijn vaak een black box: niemand weet precies hoe deze systemen beslissingen maken. Volledige transparantie is dan niet mogelijk. In dat geval moet je de werking zo goed mogelijk onderzoeken. Probeer bijvoorbeeld in elk geval ernstige gevolgen zoals [discriminatie](bias-en-non-discriminatie.md) te voorkomen. 
+De keuze voor het soort algoritme bepaalt ook hoe transparant je kunt zijn. Van rekenregels kun je namelijk precies uitleggen hoe deze tot een beslissing komen.
+
+Complexe AI-systemen, vaak met generatieve AI, zijn echter al snel een black box: niemand weet precies hoe deze systemen beslissingen maken. Volledige transparantie is dan niet mogelijk. In dat geval moet je de werking zo goed mogelijk onderzoeken. Probeer in elk geval ernstige gevolgen zoals [discriminatie](bias-en-non-discriminatie.md) te voorkomen. Wees ook zo transparant mogelijk over de datasets die worden gebruikt om het model te trainen en bied een duidelijke documentatie van het systeem aan.
 
 !!! tip "Tip"
 
     Rekenregels zijn makkelijker uit te leggen dan AI-systemen. Als een rekenregel voldoende is voor het bereiken van je doel, dan is het ook makkelijker om transparant te zijn.
 
 ## Betrokken partijen
-Stem je informatie af op de betrokken partij. Zo moeten gebruikers de uitkomst van het algoritme voldoende begrijpen voor het nemen van onderbouwde beslissingen. En belanghebbenden zoals burgers moeten weten dat zij te maken hebben met een algoritme. Zij moeten snel en makkelijk kunnen vinden wat hun rechten zijn en hoe zij in beroep kunnen gaan. 
+Stem je informatie af op de betrokken partij. Zo moeten gebruikers de uitkomst van het algoritme voldoende begrijpen voor het nemen van onderbouwde beslissingen. En belanghebbenden zoals burgers moeten weten dat zij te maken hebben met een algoritme. Zij moeten snel en makkelijk kunnen vinden wat hun rechten zijn en hoe zij in beroep kunnen gaan.
 
 | Doelgroep | Informeer bijvoorbeeld over | Geef de informatie bijvoorbeeld via: |
 |----------:|-----------------------------|--------------------------------------|

@@ -15,16 +15,16 @@ risicogroep:
 - hoog-risico-ai-systeem
 rol-ai-act:
 - gebruiksverantwoordelijke
-transparantieverplichting: 
+transparantieverplichting:
 - geen-transparantieverplichting
-- transparantieverplichting 
+- transparantieverplichting
 systeemrisico:
 - niet-van-toepassing
-open-source: 
+open-source:
 - open-source
 - geen-open-source
 - niet-van-toepassing
-uitzondering: 
+uitzondering:
 - risicogroep-uitzondering-van-toepassing
 hide:
 - navigation
@@ -40,8 +40,8 @@ De werking van hoog-risico-AI-systemen wordt gemonitord.
 Gebruiksverantwoordelijken monitoren de werking van het AI-systeem met een hoog risico op basis van de gebruiksaanwijzingen en stellen in voorkomend geval de aanbieders in kennis overeenkomstig artikel 72 AI Verordening.
 
 Dit is van belang om passende maatregelen te kunnen treffen als het systeem onbedoeld anders gaat functioneren.
- 
-Als gebruiksverantwoordelijken redenen hebben om aan te nemen dat het gebruik overeenkomstig de gebruiksaanwijzingen ertoe kan leiden dat dat AI-systeem een risico vormt in de zin van artikel 79, lid 1, stellen zij de aanbieder of distributeur en de betreffende markttoezichtautoriteit hiervan zonder onnodige vertraging in kennis en onderbreken zij het gebruik van dat systeem. 
+
+Als gebruiksverantwoordelijken redenen hebben om aan te nemen dat het gebruik overeenkomstig de gebruiksaanwijzingen ertoe kan leiden dat dat AI-systeem een risico vormt in de zin van artikel 79, lid 1, stellen zij de aanbieder of distributeur en de betreffende markttoezichtautoriteit hiervan zonder onnodige vertraging in kennis en onderbreken zij het gebruik van dat systeem.
 
 Wanneer gebruiksverantwoordelijke een ernstig incident vaststellen, stellen zij ook onmiddellijk eerst de aanbieder hiervan in kennis, en vervolgens de importeur of distributeur en de betreffende markttoezichtautoriteiten van dat incident.
 
@@ -57,7 +57,7 @@ Voor gebruiksverantwoordelijke die in de hoedanigheid van financiële instelling
 
 [Artikel 73 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3906-1-1).
 
-## Van toepassing op 
+## Van toepassing op
 <!-- tags-ai-act -->
 
 

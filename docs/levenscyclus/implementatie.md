@@ -1,30 +1,37 @@
---- 
+---
 title: Fase 6, implementatie
 hide:
 - toc
 ---
 
 # Fase 6: Implementatie
-In deze fase wordt het algoritme in de praktijk gebracht en duurzaam geïntegreerd in het bedrijfsproces. 
-In de praktijk worden veelal eerst een pilot uitgevoerd voor een afgebakende periode of over een beperkt aan zaken. 
-In deze situatie, een pilot, wordt tijdelijk productiedata verwerkt. 
-Dit vraagt om een goede samenwerking tussen het ontwikkelteam en de gebruikers van het algoritme. 
-Niet alleen de prestaties van het algoritme worden nogmaals gevalideerd, maar bijvoorbeeld ook of de output zodanig wordt gepresenteerd dat gebruikers hiermee kunnen werken. 
-Na deze pilot wordt onderzocht in hoeverre het algoritme presteert conform wens en verwachting. 
-Er kan worden gekozen om het algoritme eerst nog door te ontwikkelen op basis van de bevindingen, uit te faseren of om de oplossing structureel onderdeel te maken van de bedrijfsvoering door het te implementeren. 
+In deze fase implementeer je het algoritme of AI-systeem in de organisatie. Vanaf dan kunnen medewerkers ermee werken. Meestal begin je met een pilot of test, voordat je het echt implementeert.
 
-Als een besluit wordt genomen om de oplossing te implementeren, dan is het van belang dat gebruikers goed begrijpen hoe de resultaten van het algoritme moeten worden geïnterpreteerd, dat de rest-risico's bekend zijn, de verantwoordelijkheden belegd zijn en dat er duidelijke werkinstructies zijn over het gebruik van het algoritme.
-Service- en incidentmanagement moet volledig worden geoperationaliseerd, zodat gebruikers kunnen worden geholpen bij vragen of incidenten. 
-Een kenmerkend element van deze fase is dat vanaf nu betrokkenen onderhevig zijn aan de werking van het algoritme. 
-Beslissingen en besluiten komen nu bijvoorbeeld mede of geheel door de werking van het algoritme tot stand. 
-Waar passend, bijvoorbeeld bij impactvolle of hoog risico AI-systemen wordt dit duidelijk gecommuniceerd naar betrokken, voordat de oplossing volledig is geïmplementeerd.  
+## Pilot uitvoeren
+Als je het algoritme of AI-systeem nog test voor implementatie, verwerk je tijdelijk data. Hiervoor moeten je ontwikkelteam en de groep gebruikers die testen goede afspraken maken, over het gebruik van het algoritme of AI-systeem tijdens de pilot.
 
+Tijdens de pilot test je de:
 
-## Vereisten { data-search-exclude }
+* prestaties van het algoritme of AI-systeem, door deze opnieuw te [valideren](https://minbzk.github.io/Algoritmekader/levenscyclus/verificatie-en-validatie/)
+* output (resultaten): kunnen gebruikers hier bijvoorbeeld mee werken?
+
+Na de pilot concludeer je of het algoritme of AI-systeem presteert volgens de wensen en verwachtingen. En je besluit of het nodig is om terug te gaan naar het [ontwikkelen](https://minbzk.github.io/Algoritmekader/levenscyclus/ontwikkelen/), om te stoppen en [uit te faseren](https://minbzk.github.io/Algoritmekader/levenscyclus/uitfaseren/) of om verder te implementeren.
+
+## Implementeren
+Vóór implementatie regel je in elk geval het volgende:
+
+* Gebruikers begrijpen hoe zij de output (resultaten) moeten interpreteren.
+* Gebruikers hebben toegang tot duidelijke werkinstructies.
+* Voor het oplossen van vragen en incidenten heeft de organisatie een goede werkwijze.
+* Het is duidelijk wie waarvoor verantwoordelijk is.
+* De organisatie kent de restrisico’s: risico’s die overblijven nadat je maatregelen neemt.
+* Betrokkenen zijn geïnformeerd. Dit is verplicht bij het in gebruik nemen van een impactvol algoritme of hoog-risico-AI-systeem.
+
+## Vereisten implementatiefase { data-search-exclude }
 
 <!-- list_vereisten levenscyclus/implementatie no-rol no-levenscyclus no-search no-onderwerp -->
 
-## Aanbevolen maatregelen { data-search-exclude }
+## Aanbevolen maatregelen implementatiefase { data-search-exclude }
 
 <!-- list_maatregelen levenscyclus/implementatie no-rol no-levenscyclus no-search no-onderwerp  -->
 

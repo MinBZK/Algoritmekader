@@ -13,7 +13,7 @@ rollen:
 - projectleider
 - beleid-en-advies
 sources:
-  ADR: 
+  ADR:
   - IB.10
   - IB.11
   - IB.12
@@ -22,7 +22,7 @@ sources:
   - IB.15
   - IB.16
   - IB.17
-  ARK: 
+  ARK:
   - 4.01
   - 4.02
   - 4.04

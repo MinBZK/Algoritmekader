@@ -8,8 +8,7 @@ assignees: ''
 ---
 
 **Beschrijf de fout**
-Leg uit wat de fout of bug is die je gevonden hebt. 
+Leg uit wat de fout of bug is die je gevonden hebt.
 
 **Screenshots**
-Voeg eventueel een screenshot toe. 
-
+Voeg eventueel een screenshot toe.

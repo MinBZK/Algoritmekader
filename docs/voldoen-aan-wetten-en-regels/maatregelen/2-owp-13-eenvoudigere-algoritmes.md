@@ -1,7 +1,7 @@
 ---
-title: Ontwerp algoritmes zo eenvoudig mogelijk  
+title: Ontwerp algoritmes zo eenvoudig mogelijk
 id: urn:nl:ak:mtr:owp-13
-toelichting: Ontwerp algoritmes gericht op eenvoud en efficiëntie, zodat het energieverbruik en de benodigde rekenkracht tijdens gebruik minimaal blijven.  
+toelichting: Ontwerp algoritmes gericht op eenvoud en efficiëntie, zodat het energieverbruik en de benodigde rekenkracht tijdens gebruik minimaal blijven.
 levenscyclus:
 - ontwerp
 - ontwikkelen

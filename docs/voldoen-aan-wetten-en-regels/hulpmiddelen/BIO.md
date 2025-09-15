@@ -1,8 +1,8 @@
 ---
 title: Baseline Informatiebeveiliging Overheid (BIO)
 toelichting: De Baseline Informatiebeveiliging Overheid (BIO) is het basisnormenkader voor informatiebeveiliging binnen alle overheidslagen (Rijk, gemeenten, provincies en waterschappen). Had voorheen iedere overheidslaag zijn eigen baseline, nu is er met gezamenlijke inspanning 1 BIO voor de gehele overheid.
-categorie: 
-- handreiking 
+categorie:
+- handreiking
 vereiste:
 - aia-10-nauwkeurigheid-robuustheid-cyberbeveiliging
 - bio-01-beveiliging-informatie-en-informatiesystemen

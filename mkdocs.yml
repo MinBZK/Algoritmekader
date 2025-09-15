@@ -1,8 +1,8 @@
 # Existing mkdocs.yml content
-site_name: Algoritmekader 2.1
+site_name: Algoritmekader 2.2
 site_description: Het Algoritmekader van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
-theme: 
+theme:
     name: material
     custom_dir: src/overrides
     language: nl
@@ -10,7 +10,7 @@ theme:
         primary: custom
     logo: assets/logo.svg
     favicon: assets/favicon.ico
-    font: false 
+    font: false
     features:
         - navigation.indexes
         - navigation.tabs
@@ -30,17 +30,19 @@ theme:
         annotation: fontawesome/solid/circle-info
 
 nav:
-    - Basiskennis algoritmes en AI:
-         - overhetalgoritmekader/index.md 
-         - overhetalgoritmekader/soorten-algoritmes.md
-         - overhetalgoritmekader/risico-van-ai-systemen.md
-         - overhetalgoritmekader/impact-van-algoritmes.md
-         - overhetalgoritmekader/definities.md
+    - Soorten algoritmes en AI:
+         - soorten-algoritmes-en-ai/index.md
+         - soorten-algoritmes-en-ai/wat-is-een-algoritme.md
+         - soorten-algoritmes-en-ai/risico-van-ai-systemen.md
+         - soorten-algoritmes-en-ai/impact-van-algoritmes.md
+         - soorten-algoritmes-en-ai/generatieve-ai.md
+         - soorten-algoritmes-en-ai/geatomatiseerde-risicoselectie.md
+         - soorten-algoritmes-en-ai/definities.md
     - Onderwerpen:
-        # - Overzicht: onderwerpen/index.md
+        - onderwerpen/index.md
         - ... | onderwerpen/*.md
     - Levenscyclus:
-        - levenscyclus/index.md 
+        - levenscyclus/index.md
         - levenscyclus/over-de-levenscyclus.md
         - levenscyclus/organisatieverantwoordelijkheden.md
         - levenscyclus/probleemanalyse.md
@@ -52,17 +54,20 @@ nav:
         - levenscyclus/monitoring-en-beheer.md
         - levenscyclus/uitfaseren.md
     - Rollen:
+        - rollen/index.md
         - ... | rollen/*.md
     - Voldoen aan wetten en regels:
         - Overzicht: voldoen-aan-wetten-en-regels/index.md
         - Vereisten: voldoen-aan-wetten-en-regels/vereisten/index.md
         - Maatregelen: voldoen-aan-wetten-en-regels/maatregelen/index.md
         - Hulpmiddelen: voldoen-aan-wetten-en-regels/hulpmiddelen/index.md
-        - AI-verordening in het kort: voldoen-aan-wetten-en-regels/ai-verordening.md
-        - Tijdlijn AI-verordening: voldoen-aan-wetten-en-regels/tijdlijn-ai-verordening.md
+    - AI-verordening:
+        - Overzicht: ai-verordening/index.md
+        - AI-verordening in het kort: ai-verordening/ai-verordening-in-het-kort.md
+        - Tijdlijn AI-verordening: ai-verordening/tijdlijn-ai-verordening.md
 
 # Extra opties
-markdown_extensions: 
+markdown_extensions:
     - pymdownx.tabbed:
         alternate_style: true
     - pymdownx.superfences:
@@ -90,9 +95,9 @@ markdown_extensions:
     - pymdownx.blocks.html
 
 # Extra opties voor footer
-extra: 
+extra:
     social:
-        - icon: fontawesome/brands/github 
+        - icon: fontawesome/brands/github
           link: https://github.com/MinBZK/Algoritmekader
 
 extra_css:
@@ -101,7 +106,7 @@ extra_css:
   - stylesheets/extra.css
   - stylesheets/footer.css
   - stylesheets/all.min.css
-  - stylesheets/choices.min.css  
+  - stylesheets/choices.min.css
   - stylesheets/modal.css
 
 extra_html:
@@ -110,7 +115,10 @@ extra_html:
 
 extra_javascript:
   - javascripts/jquery-3.6.0.min.js
-  - javascripts/choices.min.js 
+  - https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js
+  - javascripts/exportExcel.js
+  - javascripts/choices.min.js
   - javascripts/tablesort.min.js
   - javascripts/tablesort.js
   - javascripts/filtering.js
@@ -124,12 +132,14 @@ plugins:
         enable_creation_date: true
         timezone: Europe/Amsterdam
         locale: nl
+        enabled: !ENV [MKDOCS_ENABLE_GIT_DATES, true]
     - awesome-pages:
         collapse_single_pages: true
 
 hooks:
     - src/overrides/hooks/tags.py
     - src/overrides/hooks/lists.py
+    - src/overrides/hooks/definities.py
 
 # Link naar GitHub repo
 repo_url: https://github.com/MinBZK/Algoritmekader

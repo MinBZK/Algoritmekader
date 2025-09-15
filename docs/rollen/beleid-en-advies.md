@@ -1,13 +1,13 @@
 ---
-title: Beleid en advies
+title: Beleids- en adviesprofessional
 hide:
   - toc
   - path
 ---
-# Beleid en advies
-Professionals op het gebied van beleid en advies zorgen ervoor dat de organisatie algoritmes verantwoord en in lijn met beleidsdoelen ontwikkelt en inzet. 
+# Beleids- en adviesprofessional
+Professionals op het gebied van beleid en advies zorgen ervoor dat de organisatie algoritmes verantwoord en in lijn met beleidsdoelen ontwikkelt en inzet.
 
-Zij dragen bij aan impact-assessments, risicobeoordelingen en [beleidsplannen over algoritmes](../voldoen-aan-wetten-en-regels/maatregelen/0-org-02-beleid-opstellen-inzet-algoritmes.md). En zij helpen bij het signaleren en mitigeren van potentiële risico’s, zoals onbedoelde [bias](../onderwerpen/bias-en-non-discriminatie.md) of risico's op het gebied van [privacy](../onderwerpen/privacy-en-gegevensbescherming.md). 
+Zij dragen bij aan impact-assessments, risicobeoordelingen en [beleidsplannen over algoritmes](../voldoen-aan-wetten-en-regels/maatregelen/0-org-02-beleid-opstellen-inzet-algoritmes.md). En zij helpen bij het signaleren en mitigeren van potentiële risico’s, zoals onbedoelde [bias](../onderwerpen/bias-en-non-discriminatie.md) of risico's op het gebied van [privacy](../onderwerpen/privacy-en-gegevensbescherming.md).
 
 Door hun brede blik en specialistische kennis ondersteunen zij adviseurs bij het opstellen en vertalen van beleidskaders naar concrete maatregelen en adviezen. Zij vormen zo een verbindende factor tussen de technische, organisatorische en bestuurlijke aspecten van algoritmeontwikkeling.
 

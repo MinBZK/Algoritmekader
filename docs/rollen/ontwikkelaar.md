@@ -6,11 +6,11 @@ hide:
 ---
 
 # Ontwikkelaar
-Ontwikkelaars zijn de technische experts die ervoor zorgen dat algoritmes voldoen aan technische en ethische standaarden. Zij passen methodes toe om te waarborgen dat ai-modellen duurzaam, eerlijk en transparant zijn. Vaak zijn zij verantwoordelijk voor het testen en optimaliseren van algoritmes en voor het implementeren van maatregelen om privacy en persoonsgegevens te beschermen.
+Ontwikkelaars zijn de technische experts die ervoor zorgen dat algoritmes voldoen aan technische en ethische standaarden. Zij passen methodes toe om te waarborgen dat AI-modellen duurzaam, eerlijk en transparant zijn. Vaak zijn zij verantwoordelijk voor het testen en optimaliseren van algoritmes en voor het implementeren van maatregelen om privacy en persoonsgegevens te beschermen.
 
 ## Belangrijke taken van een ontwikkelaar
 
-* analyseert, ontwikkelt en implementeert algoritmes en ai-modellen
+* analyseert, ontwikkelt en implementeert algoritmes en AI-modellen
 * verzorgt de technische kant van de algoritmeontwikkeling, inclusief programmeren, opschonen van data, data-analyse en het ontwerpen van informatieprocessen
 
 ## Ontwikkelaars zijn bijvoorbeeld

@@ -1,15 +1,15 @@
 ---
 # vul hier een titel in voor deze maatregel
-title: Vul technische documentatie van aanbieder aan met relevante informatie vanuit de gebruiksverantwoordelijke 
+title: Vul technische documentatie van aanbieder aan met relevante informatie vanuit de gebruiksverantwoordelijke
 id: urn:nl:ak:mtr:owp-22
 # geef hier een korte toelichting van deze maatregel
-toelichting: Bespreek met het projectteam welke onderdelen van de technische documentatie (zoals genoemd in de AI-verordening) van het algoritme door wie moeten worden ingevuld. 
+toelichting: Bespreek met het projectteam welke onderdelen van de technische documentatie (zoals genoemd in de AI-verordening) van het algoritme door wie moeten worden ingevuld.
 # vul hier de bestandsnamen in van de vereisten die horen bij deze maatregel
 vereiste:
 - aia-02-documentatie-beoordeling-niet-hoog-risico-ai
 - aia-06-technische-documentatie
 - aia-08-transparantie-aan-gebruiksverantwoordelijken
-- aia-28-transparantieverplichtingen 
+- aia-28-transparantieverplichtingen
 - avg-07-transparantie-bij-verwerken-persoonsgegevens
 - awb-01-zorgvuldigheidsbeginsel
 - awb-02-motiveringsbeginsel
@@ -41,15 +41,15 @@ Vul technische documentatie van de aanbieder aan met relevante informatie vanuit
 
 ## Toelichting
 
-- Het is van belang dat duidelijke afspraken worden gemaakt over het opstellen, aanvullen en actueel houden van technische documentatie van algoritmes. Bij het inkopen van algoritmes moet hier rekening mee worden gehouden. De aanbieder zal een belangrijk deel van de technische documentatie moeten aanleveren, maar bij gebruik door de gebruiksverantwoordelijke zal deze informatie moeten worden aangevuld. 
+- Het is van belang dat duidelijke afspraken worden gemaakt over het opstellen, aanvullen en actueel houden van technische documentatie van algoritmes. Bij het inkopen van algoritmes moet hier rekening mee worden gehouden. De aanbieder zal een belangrijk deel van de technische documentatie moeten aanleveren, maar bij gebruik door de gebruiksverantwoordelijke zal deze informatie moeten worden aangevuld.
 
-- Bespreek met het projectteam welke onderdelen van de technische documentatie, als genoemd in de Bijlage 4 AI-verordening, van het AI-systeem door welke partij (aanbieder of gebruiksverantwoordelijke) moeten worden ingevuld of aangevuld. 
+- Bespreek met het projectteam welke onderdelen van de technische documentatie, als genoemd in de Bijlage 4 AI-verordening, van het AI-systeem door welke partij (aanbieder of gebruiksverantwoordelijke) moeten worden ingevuld of aangevuld.
 
-- Hierbij is het van belang dat de documentatie aansluit bij de verschillende gebruikers van het systeem, waarbij rekening wordt gehouden met verschillende toepassingen of versies. Bespreek met het projectteam welke onderdelen van de technische documentatie voor AI-systemen, als genoemd in de Bijlage 4 AI-verordening, door welke partij (aanbieder of gebruiksverantwoordelijke) moeten worden ingevuld of aangevuld. 
+- Hierbij is het van belang dat de documentatie aansluit bij de verschillende gebruikers van het systeem, waarbij rekening wordt gehouden met verschillende toepassingen of versies. Bespreek met het projectteam welke onderdelen van de technische documentatie voor AI-systemen, als genoemd in de Bijlage 4 AI-verordening, door welke partij (aanbieder of gebruiksverantwoordelijke) moeten worden ingevuld of aangevuld.
 
-## Risico 
+## Risico
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Door de technische documentatie niet volledig op te stellen, is niet geheel transparant hoe het algoritme functioneert en kan daar geen verantwoording voor worden afgelegd.   
+Door de technische documentatie niet volledig op te stellen, is niet geheel transparant hoe het algoritme functioneert en kan daar geen verantwoording voor worden afgelegd.
 
 ## Bijbehorende vereiste(n) { data-search-exclude }
 ??? expander "Bekijk alle vereisten"
@@ -61,5 +61,4 @@ Geen beschikbare bron voor deze maatregel.
 
 ## Voorbeelden
 
-Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl) 
-
+Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

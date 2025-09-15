@@ -31,7 +31,9 @@ Het multidisciplinaire team evalueert de nauwkeurigheid en prestaties van het al
 * Presteert het gelijk voor verschillende groepen? Of maakt het een [ongewenst onderscheid](https://minbzk.github.io/Algoritmekader/onderwerpen/bias-en-non-discriminatie/)?
 * Presteert het ook goed bij uitzonderlijke gevallen en in abnormale situaties?
 
-Laat [impactvolle algoritmen](https://minbzk.github.io/Algoritmekader/soorten-algoritmes-en-ai/impact-van-algoritmes/) en [hoog-risico-AI-systemen](https://minbzk.github.io/Algoritmekader/soorten-algoritmes-en-ai/risico-van-ai-systemen/#hoog-risico-ai-systeem) valideren door een onafhankelijke commissie of partij die advies kan geven over de werking.
+Bij verificatie kan worden gedacht aan het (laten) controleren of het algoritme voldoet aan de (technische) specificaties, validiteit en betrouwbaarheid, bijvoorbeeld door een interne of externe audit of in de toekomst een conformiteitsbeoordeling voor hoog risico AI-systemen.
+Hiermee kan (onafhankelijk) worden vastgesteld of het systeem voldoet aan de vereisten die organisaties daaraan stellen. 
+Op basis van bevindingen uit een audit of conformiteitsbeoordeling, is het denkbaar dat het ontwikkelteam nog bepaalde maatregelen moet treffen om te voldoen aan de specificaties. 
 
 Blijkt het model niet goed of ongeschikt, dan doorloop je opnieuw de [ontwikkelfase](https://minbzk.github.io/Algoritmekader/levenscyclus/ontwikkelen/) om de prestaties te verbeteren. Of je stopt ermee en gaat het model [uitfaseren](https://minbzk.github.io/Algoritmekader/levenscyclus/uitfaseren/).
 

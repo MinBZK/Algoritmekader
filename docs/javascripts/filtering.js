@@ -219,6 +219,27 @@ function attachFilterListeners() {
 }
 
 /**
+ * Label expression evaluation functions for AI Act filtering
+ */
+function evaluateLabelExpression(expression, labels) {
+    if (!expression?.trim()) return true;
+    
+    // Replace each label with true/false based on presence in labels array
+    const labelPattern = /[a-zA-Z0-9-]+/g;
+    const evalExpr = expression.replace(labelPattern, match => labels.includes(match));
+    
+    try {
+        return Function('return ' + evalExpr)();
+    } catch {
+        return false;
+    }
+}
+
+function anyExpressionMatches(expressions, labels) {
+    return expressions?.some(expr => evaluateLabelExpression(expr.trim(), labels)) || false;
+}
+
+/**
  * FLEXIBLE FILTERING FUNCTION
  * ============================
  *

@@ -25,7 +25,7 @@ Wie handig is met computercode of contentmanagementsystemen kan meewerken aan de
 Als je inhoud (‘content’) aanbiedt of plaatst, ga je akkoord met het volgende:
 - Je hebt 100% van de inhoud zelf geschreven.
 - Je beschikt zelf over de auteursrechten op de inhoud.
-- Je houdt je aan de gedragscode: de [Contributor Convenant Code of Conduct](https://github.com/MinBZK/Algoritmekader?tab=coc-ov-file#readme).
+- Je houdt je aan de gedragscode: de [Contributor Covenant Code of Conduct](https://github.com/MinBZK/Algoritmekader?tab=coc-ov-file#readme).
 
 Je hebt een [GitHub-account](https://github.com/signup) nodig om te reageren en aanpassingen te doen.
 

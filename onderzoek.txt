@@ -1,0 +1,995 @@
+WCAG 2.1 A/AA Toegankelijkheidsonderzoek – Algoritmekader
+A. Informatie over de opdracht
+Onderzoeker: Ruben Rouwhof – Rijks ICT Gilde
+Datum: .......................................................
+Opdrachtgever: Afdeling D – Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
+Norm: WCAG 2.1 A en AA
+Soort onderzoek: Volledig onderzoek
+Versie: 0.1
+B. Informatie over het onderzoek
+Evaluatiemethode: WCAG-E
+Scope: https://minbzk.github.io/Algoritmekader/
+Steekproef:
+https://minbzk.github.io/Algoritmekader/
+https://minbzk.github.io/Algoritmekader/soorten-algoritmes-en-ai/
+https://minbzk.github.io/Algoritmekader/soorten-algoritmes-en-ai/risico-van-ai-systemen/
+https://minbzk.github.io/Algoritmekader/onderwerpen/
+https://minbzk.github.io/Algoritmekader/onderwerpen/privacy-en-gegevensbescherming/
+https://minbzk.github.io/Algoritmekader/levenscyclus/ontwikkelen/
+https://minbzk.github.io/Algoritmekader/rollen/beleid-en-advies/
+https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/
+https://ai-verordening-beslishulp.apps.digilab.network/
+Gebruikte browsers/software: Google Chrome, Microsoft Edge, Firefox
+C. Informatie over de getoetste website of app
+Basisniveau toegankelijkheidsondersteuning: Alle gangbare browsers en hulpapparatuur.
+Technologieën: MkDocs + Material for MkDocs, HTML, CSS, JavaScript, jQuery, Mermaid.js, Choices.js, Tablesort.js, maatwerk scripts.
+Vormgeving volgens NL Design System (NLDS).
+Gebruik van WAI-ARIA waar relevant. Geen SMIL, PDF of embedded media.
+Documentatie technieken: https://www.w3.org/WAI/WCAG21/Techniques/
+ 
+
+Nr. 	 Succescriterium 	Niveau 	 Score
+1.1.1 	 Niet-tekstuele content 	 A 	 Voldoet niet
+1.2.1 	 Louter-geluid en louter-videobeeld 	 A 	 n.v.t
+1.2.2 	 Ondertitels 	 A 	 n.v.t
+1.2.3 	 Audiodescriptie of media-alternatief 	 A 	 n.v.t
+1.2.4 	 Ondertitels (live) 	 AA 	 n.v.t
+1.2.5 	 Audiodescriptie (vooraf opgenomen) 	 AA 	 n.v.t
+1.3.1 	 Info en relaties 	 A 	 
+1.3.2 	 Betekenisvolle volgorde 	 A 	 
+1.3.3 	 Zintuiglijke eigenschappen 	 A 	 n.v.t
+1.3.4 	 Weergavestand 	 AA 	 
+1.3.5 	 Identificeer het doel van de input 	 AA 	 
+1.4.1 	 Gebruik van kleur 	 A 	 
+1.4.2 	 Geluidsbediening 	 A 	 
+1.4.3 	 Contrast (minimum) 	 AA 	 
+1.4.4 	 Herschalen van tekst 	 AA 	 
+1.4.5 	 Afbeeldingen van tekst 	 AA 	 
+1.4.10 	 Reflow 	 AA 	 
+1.4.11 	 Contrast van niet-tekstuele content 	 AA 	 
+1.4.12 	 Tekstafstand 	 AA 	 
+1.4.13 	 Content bij hover of focus 	 AA 	 
+2.1.1 	 Toetsenbord 	 A 	 
+2.1.2 	 Geen toetsenbordval 	 A 	 
+2.1.4 	 Enkel teken sneltoetsen 	 A 	 
+2.2.1 	 Timing aanpasbaar 	 A 	 
+2.2.2 	 Pauzeren, stoppen, verbergen 	 A 	 
+2.3.1 	 Drie flitsen of beneden drempelwaarde 	 A 	 
+2.4.1 	 Blokken omzeilen 	 A 	 
+2.4.2 	 Paginatitel 	 A 	 
+2.4.3 	 Focus volgorde 	 A 	 
+2.4.4 	 Linkdoel (in context) 	 A 	 
+2.4.5 	 Meerdere manieren 	 AA 	 
+2.4.6 	 Koppen en labels 	 AA 	 
+2.4.7 	 Focus zichtbaar 	 AA 	 
+3.1.1 	 Taal van de pagina 	 A 	 
+3.1.2 	 Taal van onderdelen 	 AA 	 
+3.2.1 	 Bij focus 	 A 	 
+3.2.2 	 Bij input 	 A 	 
+3.2.3 	 Consistente navigatie 	 AA 	 
+3.2.4 	 Consistente identificatie 	 AA 	 
+3.3.1 	 Foutidentificatie 	 A 	 
+3.3.2 	 Labels of instructies 	 A 	 
+3.3.3 	 Foutsuggestie 	 AA 	 
+3.3.4 	 Foutpreventie (wettelijk, financieel, gegevens) 	 AA 	 
+4.1.1 	 Parsen 	 A 	 
+4.1.2 	 Naam, rol, waarde 	 A 	 
+4.1.3 	 Statusberichten 	 AA 	
+
+
+ 
+
+Principe 1: Waarneembaar
+Informatie en componenten van de gebruikersinterface moeten toonbaar zijn op een voor gebruikers waarneembare wijze.
+ 
+Richtlijn 1.1: Tekstalternatieven
+Lever tekstalternatieven voor alle niet-tekstuele content, zodat die veranderd kan worden in andere vormen die mensen nodig hebben, zoals grote letters, braille, spraak, symbolen of eenvoudiger taal.
+1.1.1 Niet-tekstuele content (A)
+Eis
+Alle niet-tekstuele content die aan de gebruiker wordt gepresenteerd, heeft een tekstalternatief dat hetzelfde doel dient.
+Resultaat
+Voldoet niet
+Bevindingen
+•	Functionele iconen in de GitHub-widget (navigatiebalk) hebben geen tekstalternatief.
+•	Afbeeldingen op de homepage hebben bewust geen alt-teksten (niet-functioneel), maar sommige functionele iconen missen alternatieven.
+•	In tabellen (bij rollen, levenscyclus en onderwerpen) staan functionele iconen zonder beschrijving.
+•	Exportknoppen (“Exporteer maatregelen” en “Exporteer vereisten”) gebruiken iconen zonder tekstalternatief.
+•	Infographics zoals GMT_GM_RACI.png, MITRE_Maturity-Model-Overview.png en modellevenscyclus.png zijn niet digitaal toegankelijk.
+Aanpak voor verbetering
+•	Infographics toegankelijk maken via tekstuele beschrijving of aparte pagina.
+•	Informatie die via kleur wordt overgebracht ook op een andere manier zichtbaar maken.
+•	Infographics schaalbaar maken voor mobiel.
+ 
+Links
+https://www.gemmaonline.nl/images/gemma/c/cf/GMT_GM_RACI.png.
+Zie maatregel owp-01 en maatregel org-10.
+https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/images/MITRE_Maturity-Model-Overview_0.png.
+Zie maatregel org-06.
+https://minbzk.github.io/Algoritmekader/afbeeldingen/levenscyclus/modellevenscyclus_uwv.png.
+Zie maatregel org-08.
+https://minbzk.github.io/Algoritmekader/afbeeldingen/levenscyclus/modellevenscyclus_vws.png.
+Zie maatregel org-08.
+https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/images/ai-geletterdheid-ap.png.
+Zie maatregel org-16.
+https://minbzk.github.io/Algoritmekader/afbeeldingen/rotterdam_risico_classificatie_governance.png.
+Zie maatregel org-09.
+https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/images/ai-geletterdheid-ap.png.
+Zie maatregel org-16.
+
+ 
+Richtlijn 1.2: Op tijd gebaseerde media
+Lever alternatieven voor op tijd gebaseerde media.
+
+1.2.1 Louter-geluid en louter-videobeeld (vooraf opgenomen) (A)
+Resultaat
+Niet van toepassing
+
+1.2.2 Ondertitels (vooraf opgenomen) (A)
+Resultaat
+Niet van toepassing
+
+1.2.3 Audiodescriptie of media-alternatief (vooraf opgenomen) (A)
+
+Resultaat
+Niet van toepassing
+
+1.2.4 Ondertitels (live) (AA)
+Resultaat
+Niet van toepassing
+
+1.2.5 Audiodescriptie (vooraf opgenomen) (AA)
+Resultaat
+Niet van toepassing
+ 
+Richtlijn 1.3: Aanpassing
+Creëer content die op verschillende manieren kan worden gepresenteerd zonder dat informatie of structuur verloren gaat.
+
+1.3.1 Info en relaties (A)
+Resultaat
+Voldoet niet
+Bevindingen
+•	Tabellen voor hulpmiddelen, maatregelen en vereisten zijn niet correct gemarkeerd en daardoor slecht leesbaar voor screenreaders.
+•	Sortingfunctionaliteit in tabellen (zoals op /hulpmiddelen/AIIA/index.html#relevantie) is alleen zichtbaar bij hover en niet bruikbaar via toetsenbord.
+
+1.3.2 Betekenisvolle volgorde (A)
+Resultaat
+Niet voldaan
+Bevindingen
+•	Navigatiebalk (met name GitHub-widget) verliest bruikbaarheid zonder CSS.
+•	Tekstcontent blijft grotendeels bruikbaar.
+
+1.3.3 Zintuiglijke eigenschappen (A)
+Resultaat
+Voldoet
+
+1.3.4 Weergavestand (AA)
+Resultaat
+Voldoet
+
+1.3.5 Identificeer het doel van de input (AA)
+Resultaat
+Voldoet
+
+Bevindingen
+•	Geen formulieren met persoonlijke data aanwezig.
+ 
+Richtlijn 1.4: Onderscheidbaar
+Maak het gebruikers gemakkelijker om content te zien en te horen, inclusief scheiding van voorgrond en achtergrond.
+
+1.4.1 Gebruik van kleur (A)
+Resultaat
+Voldoet
+
+1.4.2 Geluidsbediening (A)
+Resultaat
+Niet van toepassing
+
+1.4.3 Contrast (minimum) (AA)
+Resultaat
+Voldoet niet
+
+Bevindingen
+•	Contrastproblemen bij kleine teksten in het logo en labels in de levenscyclus.
+•	Sommige afbeeldingen en iconen voldoen niet aan de vereiste 4,5:1.
+
+1.4.4 Herschalen van tekst (AA)
+Resultaat
+Voldoet
+
+1.4.5 Afbeeldingen van tekst (AA)
+Resultaat
+Voldoet niet
+
+Bevindingen
+•	Zie 1.1.1: meerdere afbeeldingen worden gebruikt als tekst, zonder toegankelijk alternatief.
+
+1.4.10 Reflow (AA)
+Resultaat
+Voldoet niet
+
+Bevindingen
+•	Tabellen en afbeeldingen schalen niet naar 320px breedte.
+•	Horizontaal scrollen is noodzakelijk.
+
+1.4.11 Contrast van niet-tekstuele content (AA)
+
+Resultaat
+Voldoet niet
+
+Bevindingen
+•	Contrastproblemen bij iconen, knoppen en formuliervelden.
+
+1.4.12 Tekstafstand (AA)
+
+Resultaat
+Nog in te vullen
+
+Bevindingen
+•	Aanbeveling: gebruik rem-eenheden i.p.v. pixels.
+
+1.4.13 Content bij hover of focus (AA)
+
+Resultaat
+Voldoet niet
+
+Bevindingen
+•	Definities in de begrippenlijst verdwijnen alleen door muisbeweging, niet via toetsenbord.
+•	Tooltips zijn niet toegankelijk met toetsenbordnavigatie.
+ 
+ 
+WCAG-succescriterium 2.1.1 Toetsenbord
+ Niveau A
+In het kort
+Doel
+Elke actie is uit te voeren met een toetsenbord.
+Wat te doen
+Acties die je kunt uitvoeren met een aanwijzer kunnen ook met een toetsenbord.
+Waarom het belangrijk is
+Veel mensen zijn afhankelijk van bediening met het toetsenbord, onder andere mensen die blind zijn of een beperkte mobiliteit hebben.
+
+Resultaat:
+Voldoet niet
+
+Bevindingen:
+Exporteer knop niet toegankelijk
+Navigatiebar verspringt in focus
+Hover voor betekenis niet toegankelijk 
+ 
+WCAG-succescriterium 2.1.2 Geen toetsenbordval
+ Niveau A
+In het kort
+Doel
+Bezoekers die een toetsenbord gebruiken komen niet vast te zitten.
+Wat te doen
+Zorg ervoor dat bezoekers altijd weg kunnen navigeren van onderdelen.
+Waarom het belangrijk is
+Mensen die leunen op toetsenbordgebruik kunnen vaak niet op een andere manier navigeren.
+
+Resultaat
+Voldoet
+
+Bevindingen
+Nergens vast gelopen
+ 
+WCAG-succescriterium 2.1.4 Enkel teken sneltoetsen
+ Niveau A
+In het kort
+Doel
+Verminder onbedoeld gebruik van sneltoetsen.
+Wat te doen
+Zorg ervoor dat sneltoetsen uitgeschakeld of aangepast kunnen worden.
+Waarom het belangrijk is
+Sneltoetsen met één teken zijn makkelijk onbedoeld te activeren, vooral met spraakbediening.
+
+Resultaat
+Voldoet
+
+Bevindingen
+Geen sneltoetsen gebruikt
+
+ 
+WCAG-succescriterium 2.2.1 Timing aanpasbaar
+ Niveau A
+In het kort
+Doel
+Bezoekers hebben de tijd om taken af te ronden.
+
+Wat te doen
+Laat bezoekers tijdslimieten uitzetten of aanpassen.
+
+Waarom het belangrijk is
+Mensen met beperkingen kunnen meer tijd nodig hebben om taken af te ronden.
+
+Resultaat
+Voldoet
+
+Bevindingen
+Zit geen tijdslimiet aan taken.
+ 
+WCAG-succescriterium 2.2.2 Pauzeren, stoppen, verbergen
+ Niveau A
+In het kort
+Doel
+Minder bezoekers worden afgeleid door inhoud die vernieuwt of beweegt.
+Wat te doen
+Geef gebruikers controle over inhoud die verandert.
+Waarom het belangrijk is
+Mensen met cognitieve beperkingen kunnen afgeleid raken.
+Resultaat
+Voldoet
+
+Bevindingen
+Er is geen inhoud is automatisch verandert of beweegt.
+ 
+WCAG-succescriterium 2.2.3 Geen timing
+ Niveau AAA
+
+Resultaat:
+Buiten beschouwing gelaten
+
+WCAG-succescriterium 2.2.4 Onderbrekingen
+ Niveau AAA
+Resultaat:
+Buiten beschouwing gelaten
+
+WCAG-succescriterium 2.2.5 Herauthentisering
+ Niveau AAA
+
+Resultaat:
+Buiten beschouwing gelaten
+
+WCAG-succescriterium 2.2.6 Time-outs
+ Niveau AAA
+Resultaat:
+Buiten beschouwing gelaten
+
+WCAG-succescriterium 2.3.1 Drie flitsen of beneden drempelwaarde
+ Niveau A
+Uitleg
+Maximaal drie flitsen in een seconde.
+Let op: Dit succescriterium kan een bezoeker verhinderen om een pagina te gebruiken. Het is niet mogelijk om een alternatief aan te bieden. Meer informatie hierover is te vinden op de W3-pagina Conformiteitseis 5: Non-interferentie.
+Zorg ervoor dat een website geen onderdelen bevat met meer dan drie flitsen binnen één seconde. Het tonen van meer dan drie flitsen binnen één seconde kan een epileptische aanval veroorzaken bij gebruikers die hiervoor gevoelig zijn. Dit geldt voor alle onderdelen van de website, zoals animaties, video's en de overgang tussen pagina's.
+
+Resultaat
+Voldoet
+
+Bevindingen
+Geen flitsen kunnen ontdekken
+ 
+WCAG-succescriterium 2.3.2 Drie flitsen
+ Niveau AAA
+
+Resultaat:
+Buiten beschouwing gelaten
+
+WCAG-succescriterium 2.3.3 Animatie uit interacties
+ Niveau AAA
+Resultaat:
+Buiten beschouwing gelaten
+
+WCAG-succescriterium 2.4.1 Blokken omzeilen
+ Niveau A
+
+Resultaat:
+Voldoet niet
+
+Bevindingen
+Er zijn af en toe skiplinks toegevoegd zoals ‘ga naar inhoud’. Maar dit is niet consequent toegepast
+WCAG-succescriterium 2.4.2 Paginatitel
+ Niveau A
+Uitleg
+Webpagina's hebben titels die het onderwerp of doel beschrijven.
+Bij het uitlezen van een webpagina lezen screenreaders deze tekst als eerste voor, waardoor screenreadergebruikers direct weten op welke pagina ze zich bevinden. Het wordt ook de naam van het venster of tabblad, en de naamsuggestie bij het opslaan van de pagina als bladwijzer. Daarom is het belangrijk dat de titel goed de inhoud van de pagina beschrijft.
+Voor een tekstpagina is de titel vaak een combinatie van de hoofdkop, een scheidingsteken en de sitenaam. Bijvoorbeeld: 'Waar kan ik grofvuil inleveren? - Gemeente Voorbeeld'.
+Deze titels staan in de <head> sectie van de HTML-code, in het element <title>.
+Maak deze tekst eenduidig en beschrijvend, zodat je weet welke pagina van welke website je bezoekt. Ook informatie over foutmeldingen en zoekresultaten hoort in de titel thuis.
+Deze tekst staat in de browser-tab, waardoor je makkelijk kunt herkennen welke website er onder welke tab staat. Begin daarom niet met de sitenaam, maar met het onderwerp. Anders lijken alle titels op elkaar wanneer je maar een deel van de tekst ziet in de tab.
+Voorbeelden van goede titels:
+	'Gemeente Voorbeeld', voor de voorpagina.
+	'Contact - Gemeente Voorbeeld', voor de contactpagina.
+	'12 zoekresultaten voor rijbewijs - Gemeente Voorbeeld', voor de zoekpagina.
+	'Stap 2 van 3: Uw gegevens - Rijbewijs verlengen - Gemeente Voorbeeld', voor een meerstappenformulier.
+	'2 foutmeldingen - Uw vraag - Gemeente Voorbeeld', voor een formulier met foutmeldingen.
+
+Resultaat
+Voldoet
+
+Bevindingen
+Hier heeft @Corinne aan gewerkt. Op “onderwerpen” na
+
+WCAG-succescriterium 2.4.3 Focus volgorde
+ Niveau A
+Uitleg
+Wanneer een toetsenbordgebruiker binnen de webpagina navigeert, bijvoorbeeld met de Tab-toets, moet de tabvolgorde logisch en voorspelbaar zijn.
+De visuele focusvolgorde moet betekenisvol zijn.
+Een voorspelbare focus volgorde is belangrijk voor toetsenbordgebruikers. Zij kunnen dan bijvoorbeeld makkelijker binnen een pagina links of buttons ontdekken of een formulier invullen.
+Zorg ervoor dat de natuurlijke tabvolgorde bij de verschillende resoluties, schermbreedtes en oriëntaties logisch blijft.
+Met het tabindex attribuut kan de volgorde ook specifiek worden ingesteld per element, maar dat raden we af, omdat je dan voor elk element op de pagina zo'n tabindex zou moeten zetten, en het is bijna onmogelijk dat goed te doen, zeker bij verschillende resoluties, schermbreedtes en oriëntaties.
+Voor een Nederlandstalige website is leesvolgorde van links naar rechts en van boven naar beneden. Zorg er dan voor dat ook de tabvolgorde van links naar rechts en van boven naar beneden is. Voor bijvoorbeeld Hebreeuws of Arabisch kan deze volgorde anders zijn. Laat de tabvolgorde die van de taalinstelling en leesrichting volgen.
+
+Resultaat:
+Voldoet niet
+
+Bevindingen
+De focus begint niet altiljd op zelfde plek.
+https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/ springt focus direct naar eerste filter
+
+https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/0-org-04-politiek-bestuurlijke-verantwoordelijkheid/index.html Bgint met skiplink
+
+https://minbzk.github.io/Algoritmekader/rollen/ Begint in navigatie
+
+https://minbzk.github.io/Algoritmekader/ Begint in global search
+ 
+WCAG-succescriterium 2.4.4 Linkdoel (in context)
+ Niveau A
+Uitleg
+De linktekst vertelt eenduidig aan de gebruiker waar de link naar toe gaat (het linkdoel).
+Wat is een linktekst? Het is de tekst die zichtbaar is, maar ook de tekst die aan een gebruiker van hulpsoftware wordt voorgelezen.
+Wat is het linkdoel? De locatie waar de link naartoe gaat. Bijvoorbeeld de contactpagina, een nieuwsbericht, een andere website of een download van een document.
+Wat betekent In context? Het doel van de link kan ook door omringende content worden aangegeven. Dit moet dan wel ook voor gebruikers van hulpmiddelen duidelijk zijn, bijvoorbeeld door aanvullende tekst of een afbeelding naast de link. Dit laatste is onderwerp van veel discussie. Het beste is om altijd goed in de linktekst zelf te vertellen want het doel is.
+
+Resultaat
+Voldoet niet
+
+Bevindingen
+Niet alle linkdoelen zijn duidelijk. Bijvoorbeeld:
+Verboden AI is uitgefaseerd – Waar uitgefaseerd een verbastering is van uitfaseren. Niet duidelijk dat je naar die pagina gaat. 
+
+Op pagina https://minbzk.github.io/Algoritmekader/ai-verordening/ Is niet duidelijk dat er een nieuw modal open als je op “beslishulp AI-verordering” klikt. Niet in lijn met andere blokken. 
+
+Niet duidelijk wanneer er een externe bron op nieuw tab wordt geopend. Zoals bij 
+Bronnen
+•	Onderzoekskader Auditdienst Rijk, SV.8
+•	IPO Whitepaper ChatGPT, overwegingen voor verantwoord gebruik
+
+WCAG-succescriterium 2.4.5 Meerdere manieren
+ Niveau AA
+In het kort
+Doel
+Gebruiker kunnen op meerdere manier bij inhoud komen.
+Wat te doen
+Zorg voor minstens 2 manieren om bij dezelfde inhoud te komen.
+Waarom het belangrijk is
+Niet iedereen kan op dezelfde manier naar inhoud navigeren.
+
+Resultaat
+Voldoet
+
+Bevindingen
+Alles is via navigatie en via global search te vinden
+
+WCAG-succescriterium 2.4.6 Koppen en labels
+ Niveau AA
+Uitleg
+Koppen en labels beschrijven het onderwerp of het doel van de inhoud. Dit succescriterium gaat over duidelijkheid. Wat is de opzet van de pagina, waar gaat een tekst over, wat moet je invullen?
+Alle gebruikers hebben hier baat bij. Zeker als gebruikers de pagina snel scannen om te zoeken wat ze willen weten. Duidelijke labels helpen een gebruiker een formulier makkelijker in te vullen.
+Resultaat:
+
+
+WCAG-succescriterium 2.4.7 Focus zichtbaar
+ Niveau AA
+Uitleg
+Zorg dat het goed zichtbaar is welk element de toetsenbordfocus heeft, wanneer je door de website navigeert met een toetsenbord of vergelijkbare bediening. Dit kan bijvoorbeeld door het gebruik van een focusring (outline).
+
+Resultaat 
+Voldoet niet
+
+Bevindingen
+Niet alle input/filters hebben een duidelijk en consistente focus state. 				
+
+WCAG-succescriterium 2.4.8 Locatie
+ Niveau AAA
+Belangrijk: Het is volgens de Nederlandse wetgeving niet verplicht om aan dit AAA-succescriterium te voldoen.
+Weten waar je volgens de wet aan moet voldoen? Ga dan naar wat is verplicht van DigiToegankelijk.
+Uitleg
+Laat gebruikers weten waar ze zich precies bevinden binnen een website.
+Dit is voor iedereen fijn, maar speciaal ook voor mensen met een cognitieve beperking. Ook bezoekers die via een zoekmachine en niet via de homepagina binnenkomen begrijpen dan waar ze zich bevinden.
+Dit kan via bijvoorbeeld:
+	Een broodkruimelpad.
+	Het aangeven van de huidige pagina in een menu.
+	Een sitemap.
+Resultaat
+Niet van toepassing
+
+WCAG-succescriterium 2.4.9 Linkdoel (alleen link)
+ Niveau AAA
+Belangrijk: Het is volgens de Nederlandse wetgeving niet verplicht om aan dit AAA-succescriterium te voldoen.
+Weten waar je volgens de wet aan moet voldoen? Ga dan naar wat is verplicht van DigiToegankelijk.
+Uitleg
+Maak duidelijk waar een link naartoe gaat. Zorg dat de linktekst op zichzelf het doel duidelijk beschrijft. Behalve als het doel voor iedere gebruiker niet echt duidelijk is. Bijvoorbeeld de linktekst 'Appels groeien aan de boom'. Dit beschrijft niet echt naar welke informatie de link verwijst.
+De linktekst is de tekst die zichtbaar is, maar ook de tekst die aan een gebruiker van hulpsoftware wordt voorgelezen. Gebruikers van screenreaders kunnen een lijst van alle links op een pagina oproepen en zo snel door de website navigeren, maar dan moeten de linkteksten wel onderscheidbaar zijn. De linktekst 'Klik hier' geeft dan onvoldoende informatie.
+Zorg ervoor dat linkteksten zo duidelijk moet zijn dat ze bruikbaar zijn zelfs als je de rest van de pagina weghaalt en alleen links overhoudt.
+De zichtbare linktekst kan verschillen van de tekst die wordt voorgelezen aan een screenreadergebruiker, maar zorg ervoor dat beide het doel van de link duidelijk omschrijven.
+Uitgebreide informatie over goede linkteksten staat bij WCAG-succescriterium 2.4.4 Linkdoel (in context).
+Resultaat:
+Niet van toepasing
+
+WCAG-succescriterium 2.4.10 Paragraafkoppen
+ Niveau AAA
+Belangrijk: Het is volgens de Nederlandse wetgeving niet verplicht om aan dit AAA-succescriterium te voldoen.
+Weten waar je volgens de wet aan moet voldoen? Ga dan naar wat is verplicht van DigiToegankelijk.
+Uitleg
+Gebruik koppen om de content te structureren. Aan de hand van de koppenstructuur geef je een goede indruk van de inhoud. Het is dan niet nodig de hele tekst te lezen om te vinden wat je zoekt.
+Een paragraaf is gedefinieerd als een 'op zichzelf staand gedeelte van geschreven content die gaat over één of meer gerelateerde onderwerpen of ideeën'. Dit succescriterium gaat alleen over de indeling en aanduiding de inhoud. Dit kan tekst zijn, maar ook een tabel, lijst of bijvoorbeeld een grafiek.
+De naam is ‘paragraaf’ in dit succescriterium is een vertaling van het Engelse ‘section’, het woord paragraaf slaat in deze context dus niet op het HTML-element <p> alleen.
+De gebruikelijke manier om een paragraafkop aan te geven is met een HTML-kopje, van h1 tot en met h6.
+HTML-koppen vormen de ruggengraat van de inhoud van een pagina. Een goede koppenstructuur is nuttig voor verschillende soorten gebruikers:
+	Ziende lezers kunnen 'koppensnellen' om snel informatie te vinden, de pagina via visueel duidelijk onderscheidbare koppen scannen op de gezochte informatie.
+	Gebruikers van screenreaders kunnen een lijst van koppen opvragen en zo beslissen welke informatie te gaan lezen.
+	Zoekmachines begrijpen de inhoud van een webpagina beter, als deze is opgedeeld via een semantische koppenstructuur en kunnen zo de inhoud beter indexeren.
+Let op: Dit succescriterium gaat over het beschrijven van lopende tekst en niet over het labelen van componenten zoals formuliervelden, buttons en tabellen, die vallen onder WCAG-succescriterium 4.1.2 Naam, rol, waarde. WCAG-succescriterium 2.4.6 Koppen en labels gaat specifiek over de tekst van koppen.
+Resultaat:
+Niet van toepassing
+
+WCAG-succescriterium 2.4.11 Focus niet bedekt (minimum)
+ Niveau AA
+In het kort
+Doel
+Houd een gefocussed onderdeel zichtbaar.
+Wat te doen
+Zorg ervoor dat een onderdeel met toetsenbordfocus minstens deels zichtbaar is.
+Waarom het belangrijk is
+Wat toetsenbordfocus heeft moet zichtbaar zijn voor mensen die een toetsenbord gebruiken.
+Resultaat:
+Voldoet
+
+Bevindingen:
+Alles blijft leesbaar wanneer toetsenbord focus actief is. 
+
+WCAG-succescriterium 2.4.12 Focus niet bedekt (uitgebreid)
+ Niveau AAA
+Belangrijk: Het is volgens de Nederlandse wetgeving niet verplicht om aan dit AAA-succescriterium te voldoen.
+Weten waar je volgens de wet aan moet voldoen? Ga dan naar wat is verplicht van DigiToegankelijk.
+Uitleg
+Zorg ervoor dat een element dat de toetsenbordfocus heeft volledig zichtbaar is en niet bedekt is door andere inhoud.
+Dit is belangrijk voor gebruikers van alleen een toetsenbord of van spraakbesturing.
+
+Resultaat:
+Niet van toepassing
+ 
+WCAG-succescriterium 2.4.13 Focusweergave
+ Niveau AAA
+Belangrijk: Het is volgens de Nederlandse wetgeving niet verplicht om aan dit AAA-succescriterium te voldoen.
+Weten waar je volgens de wet aan moet voldoen? Ga dan naar wat is verplicht van DigiToegankelijk.
+Let op: Voor NL Design System houden de richtlijnen van WCAG 2.2 AA aan, maar we willen we ook voldoen aan dit WCAG-succescriterium 2.4.13 Focusweergave, niveau AAA.
+Het intact laten van de standaard outline die door een browser wordt geleverd is voldoende voor het WCAG-succescriterium 2.4.7 Focus zichtbaar. Maar in de praktijk is deze standaard outline niet altijd duidelijk genoeg. Elke browser hanteert een eigen stijl voor de outline. Hierdoor kun je niet op de standaard browser-outline vertrouwen voor een consistente, goed zichtbare focus.
+
+Resultaat:
+Niet van toepassing
+ 
+WCAG-succescriterium 3.1.1 Taal van de pagina
+ Niveau A
+Uitleg
+Geef de menselijke taal waarin de tekst van een webpagina is geschreven aan. Dit kan door in het html-element het attribuut lang mee te geven met als waarde de taal.
+Bijvoorbeeld <html lang="nl"> voor een pagina met Nederlandse tekst.
+Met het lang-attribuut vertel je aan een screenreader in welke taal de tekst van de pagina staat. Dan wordt deze tekst goed voorgelezen.
+Of de software deze aangegeven taal ook echt goed voorleest, is ervan afhankelijk of deze taal beschikbaar is op de computer van de gebruiker.
+Deze waarde is als volgt samengesteld: Twee (kleine) letters voor de taalgroep uit de ISO 639-1 standaard en, optioneel, een koppelteken, met daarna twee of drie letters voor de variatie of regio van de taal in hoofdletters.
+De code voor taalgroep is verplicht, de regio-code is optioneel.
+Resultaat:
+Voldoet
+
+Bevindingen: 
+Taal wordt in body meegegeven
+
+ 
+WCAG-succescriterium 3.1.2 Taal van onderdelen
+ Niveau AA
+Uitleg
+Geef wisseling van de taal aan waarin de tekst van elke passage of zin is geschreven. Als er in de tekst woorden of zinnen voorkomen in een andere taal dan die van de webpagina, brengt markering van die taal hulpmiddelen op de hoogte. Dit kan door in het HTML-element waarbinnen deze tekst staat het attribuut lang mee te geven.
+Dan wordt tekst in die andere taal correct uitgesproken en daardoor beter te begrijpen voor gebruikers die de website laten voorlezen, bijvoorbeeld door screenreaders.
+Er is een uitzondering voor eigennamen, technische termen, woorden in een onbekende taal, en woorden of zinsdelen die deel uitmaken van het jargon van de omliggende tekst.
+Met het lang-attribuut breng je over welke taal (een deel van) je tekst heeft. Dan kunnen hulptechnologieën als screenreaders of vertaalsoftware daarop handelen. In het geval van screenreaders bijvoorbeeld door de tekst met de juiste stem voor te lezen.
+Of de juiste stem ook echt wordt gebruikt is afhankelijk van de instellingen van de gebruikte screenreader.
+Resultaat
+Voldoet
+
+Bevindingen
+Wordt zoveel mogelijk correct gedaan zoals:
+Meestal draaien generatieve AI-toepassingen op <span lang="en">_large language models_</span> (LLMs).
+
+* _<span lang="en">Human in the loop</span>_: Een mens moet de acties starten van het algoritme. Het werkt niet uit zichzelf.
+* _<span lang="en">Human on the loop</span>_: Mensen kunnen acties stoppen van het algoritme.
+
+
+ 
+WCAG-succescriterium 3.1.3 Ongebruikelijke woorden
+ Niveau AAA
+Belangrijk: Het is volgens de Nederlandse wetgeving niet verplicht om aan dit AAA-succescriterium te voldoen.
+Weten waar je volgens de wet aan moet voldoen? Ga dan naar wat is verplicht van DigiToegankelijk.
+Uitleg
+Voeg uitleg toe over ongebruikelijke woorden of zinsdelen en over woorden die op een ongebruikelijke manier worden gebruikt. Dit geldt ook voor vakjargon en uitdrukkingen die niet letterlijk kunnen worden begrepen zoals idioom en spreekwoorden.
+Dit is fijn voor lezers:
+	voor wie Nederlands niet de moedertaal is;
+	met een cognitieve beperking die uitdrukkingen en spreekwoorden niet begrijpen omdat ze tekst letterlijk nemen.
+	die de woorden in vakjargon niet kennen.
+Bied links naar de uitleg aan of verduidelijk woorden in de tekst zelf.
+
+Resultaat
+Niet van toepassing
+ 
+WCAG-succescriterium 3.1.4 Afkortingen
+ Niveau AAA
+Belangrijk: Het is volgens de Nederlandse wetgeving niet verplicht om aan dit AAA-succescriterium te voldoen.
+Weten waar je volgens de wet aan moet voldoen? Ga dan naar wat is verplicht van DigiToegankelijk.
+Uitleg
+Leg afkortingen uit. Zo help je alle gebruikers die de afkorting niet kennen.
+Het makkelijkste is om bij de eerste vermelding de afkorting volledig uit te schrijven, met daarachter de afkorting tussen haakjes.
+Bijvoorbeeld: 'De gemeente geeft ondersteuning thuis via de Wet maatschappelijke ondersteuning (Wmo)'. In de rest van de tekst op die pagina kun je gewoon Wmo gebruiken. Doe dit op elke afzonderlijke pagina opnieuw.
+Resultaat:
+Niet van toepassing
+ 
+WCAG-succescriterium 3.1.5 Leesniveau
+ Niveau AAA
+Belangrijk: Het is volgens de Nederlandse wetgeving niet verplicht om aan dit AAA-succescriterium te voldoen.
+Weten waar je volgens de wet aan moet voldoen? Ga dan naar wat is verplicht van DigiToegankelijk.
+Uitleg
+Zorg ervoor dat teksten begrijpelijk zijn voor een lezer uit de tweede klas van het middelbaar onderwijs. Als de tekst moeilijker is, bied dan ook een eenvoudig leesbare versie van de tekst aan als alternatief.
+Dit is fijn voor gebruikers die moeite hebben met lezen of van wie de tekst niet hun moedertaal is.
+
+Resultaat
+Niet van toepassing
+ 
+WCAG-succescriterium 3.1.6 Uitspraak
+ Niveau AAA
+Belangrijk: Het is volgens de Nederlandse wetgeving niet verplicht om aan dit AAA-succescriterium te voldoen.
+Weten waar je volgens de wet aan moet voldoen? Ga dan naar wat is verplicht van DigiToegankelijk.
+Uitleg
+Als de betekenis van de woorden in de context dubbelzinnig is zonder kennis van de uitspraak, geef dan aan hoe deze woorden uitgesproken worden. Zo voorkom je misverstanden bij het lezen van de tekst.
+Dit is van belang voor lezers:
+	voor wie de taal van de tekst niet hun moedertaal is;
+	met een cognitieve beperking, die de tekst letterlijk nemen;
+	gebruikers van screenreaders die misschien de dubbelzinnig woorden in de verkeerde uitspraak voorgelezen krijgen.
+Hiervoor zijn verschillende technieken, maar het makkelijkste is om dubbelzinnig woorden in informatieve teksten te vermijden.
+Resultaat:
+Niet van toepassing
+ 
+WCAG-succescriterium 3.2.1 Bij focus
+ Niveau A
+Uitleg
+Verras een gebruiker niet als die een interactief element focus geeft. Maak functionaliteit voorspelbaar en daardoor goed te begrijpen.
+Als een gebruiker een component focus geeft met het toetsenbord of door erop te klikken met de muis, zorg dan dat die actie niet automatisch een contextwijziging veroorzaakt.
+Bij een contextwijziging verandert onverwacht de indeling, informatie, toetsenbordfocus of functionaliteit. Bijvoorbeeld door het direct versturen van een formulier na het kiezen van een select-optie, waarna de gebruiker naar een andere pagina wordt doorgestuurd.
+Let op: Als er onverwacht een dialog opent met bijvoorbeeld een advertentie of oproep om je aan te melden voor de nieuwsbrief, valt dit niet onder dit succescriterium. Dit omdat het openen niet het gevolg is van een actie van de gebruiker, maar door de website zelf wordt gestart.
+Ook een onverwachte actie wanneer een gebruiker met de muis over een element gaat, valt niet onder dit succescriterium. Bijvoorbeeld door het openen van een modal als een gebruiker alleen over een button hovert en het geen focus geeft.
+Resultaat:
+Voldoet
+
+Bevindingen
+Er zijn geen onverwachte interacties gevonden
+ 
+WCAG-succescriterium 3.2.2 Bij input
+ Niveau A
+Uitleg
+Verras een gebruiker niet, maar maak functionaliteit voorspelbaar en daardoor goed te begrijpen.
+Als een gebruiker een formuliercomponent of -optie selecteert of een invoerveld invult met het toetsenbord of met de muis, veroorzaakt dit niet automatisch een contextwijziging.
+Bij een contextwijziging verandert onverwacht de indeling, informatie of functionaliteit. Bijvoorbeeld door het direct versturen van een formulier na het kiezen van een select-optie, waarna de gebruiker naar een andere pagina wordt doorgestuurd.
+Let op: een verandering van context is niet hetzelfde als verandering van content. Direct aanpassen van de zoekresultaten, waarbij de gebruiker op dezelfde pagina blijft, valt niet onder dit succescriterium.
+
+Resultaat:
+Voldoet
+
+Bevindingen
+Er zijn geen onverwachte interacties gevonden
+
+ 
+WCAG-succescriterium 3.2.3 Consistente navigatie
+ Niveau AA
+In het kort
+Doel
+Navigatie is meer voorspelbaar.
+Wat te doen
+Geef delen van de navigatie overal dezelfde volgorde.
+Waarom het belangrijk is
+Voorspelbare inhoud is extra belangrijk voor mensen met beperkingen.
+
+Resultaat:
+Voldoet
+Vaste volgorde
+Nav boven consistent
+Subpaginas links
+Pagina headers/parts rechts
+ 
+WCAG-succescriterium 3.2.4 Consistente identificatie
+ Niveau AA
+In het kort
+Doel
+Acties zijn meer voorspelbaar.
+Wat te doen
+Zorg dat functies die herhalen hetzelfde te herkennen zijn.
+Waarom het belangrijk is
+Herhaalde herkenning is extra belangrijk voor mensen met een beperking.
+
+Resultaat
+Voldoet
+
+Bevindingen
+Door het gebruik van iconen, buttons te beperken zijn acties voorspelbaar
+
+Chrevron wordt gebruikt als iets naar beneden uitklapt 
+Zoals met exporteer button of expander
+ 
+WCAG-succescriterium 3.2.5 Verandering op verzoek
+ Niveau AAA
+Belangrijk: Het is volgens de Nederlandse wetgeving niet verplicht om aan dit AAA-succescriterium te voldoen.
+Weten waar je volgens de wet aan moet voldoen? Ga dan naar wat is verplicht van DigiToegankelijk.
+Uitleg
+Geef gebruikers volledige controle over veranderingen in de content. Of bied de mogelijkheid automatische veranderingen uit te zetten.
+Veranderingen van content zijn bijvoorbeeld het aanpassen van de zoekresultaten na het selecteren van een checkbox in een filter. Voeg in dat geval een "Pas het filter toe"-button toe.
+Dit is van belang voor gebruikers die de veranderingen niet goed opmerken omdat ze zijn ingezoomd, of voor gebruikers met een cognitieve beperking, die moeite hebben te begrijpen dat er meteen content aangepast wordt.
+Dit succescriterium gaat dus een stap verder dan het WCAG-succescriterium 3.2.1 Bij input, door te vereisen dat gebruikers altijd zelf veranderingen van de context initiëren.
+
+Resultaat:
+Niet van toepassing
+ 
+WCAG-succescriterium 3.2.6 Consistente hulp
+ Niveau A
+In het kort
+Doel
+Maak het gemakkelijker hulp en ondersteuning te vinden.
+Wat te doen
+Plaats hulp op dezelfde plek wanneer deze op meerdere pagina's beschikbaar is.
+Waarom het belangrijk is
+Mensen kunnen makkelijker hulp vinden als het op dezelfde plek beschikbaar is.
+Uitleg
+Hulp moet op elke pagina binnen de website op dezelfde plek terugkomen.
+Denk hierbij aan:
+	Contactgegevens of een link naar de contactpagina, met bijvoorbeeld een telefoonnummer en e-mailadres.
+	Andere manieren van contact opnemen zoals de mogelijkheid tot chatten, een contactformulier of links naar social media.
+	Zelfhulpopties, zoals een pagina met veelgestelde vragen.
+	Een volledig geautomatiseerde manier van contact zoals een chat.
+Zijn deze opties beschikbaar, zorg er dan voor dat deze consistent terugkomen. Bijvoorbeeld in de footer-navigatie, boven in de header of in het hoofdmenu. Dan is het voor gebruikers makkelijker om hulp te vinden en te vragen.
+
+Resultaat
+Voldoet
+
+Bevindingen
+Contact informatie in footer altijd zichtbaar en toegankelijk. Contact via github ook altijd zichtbaar en toegankelijke via top navigatie.
+
+WCAG-succescriterium 3.3.1 Foutidentificatie
+ Niveau A
+Uitleg
+Laat een gebruiker weten als er fouten zijn bij het invullen van een formulier. Vertel duidelijk en toegankelijk wanneer een formulierveld niet, of niet goed is ingevuld.
+Resultaat
+Voldoet
+
+Bevindingen
+Wordt geen gebruikt gemaakt van formulieren, behalve in beslishulp. Daar zijn foutmeldingen beschikbaar en duidelijk
+ 
+WCAG-succescriterium 3.3.2 Labels of instructies
+ Niveau A
+In het kort
+Doel
+Gebruikers weten wat ze in moeten voeren.
+Wat te doen
+Geef een label of uitleg bij invoer.
+Waarom het belangrijk is
+Iedereen, vooral mensen met cognitieve beperkingen, weet waar men aan toe is.
+Uitleg
+Geef invoervelden een label of uitleg.
+Als er ergens invoer nodig is, is het voor iedereen prettig om te weten wat er verwacht wordt. Labels en uitleg helpen daarbij. Een label betekent in deze context dat er iets zichtbaar is, zoals tekst of een icoon, waardoor je als bezoeker weet wat het doel is. Denk aan:
+	Voornaam
+	Plaatsnaam
+	Wachtwoord
+	Telefoonnummer
+	Een vergrootglas-icoon bij een zoekfunctie
+Het label moet voor iedereen duidelijk genoeg zijn.
+Een uitleg (een instructie) vertelt meer over wat er verwacht wordt van de invoer, zoals de manier van spellen of schrijven. Denk aan:
+	een nieuw wachtwoord dat lang genoeg moet zijn
+	wel of geen spatie tussen de letters en cijfers van een postcode
+	de manier waarop een datum geschreven moet worden
+Als de invoer aan bepaalde eisen moet voldoen, is het een goed idee om een uitleg toe te voegen.
+Resultaat:
+Voldoet
+
+Bevindingen
+Filters hebben label met naam filter
+Zoekbalk heeft instructie “typ om te beginnen met zoeken”
+
+WCAG-succescriterium 3.3.3 Foutsuggestie
+ Niveau AA
+Uitleg
+Laat een gebruiker op een toegankelijke manier weten hoe een formulierveld goed in te vullen. Geef hiervoor hints, suggesties en voorbeelden.
+Uitzonderingen hierop zijn bijvoorbeeld wachtwoorden, examenvragen of vragen waarvan het niet mogelijk is te weten hoe de fout te corrigeren.
+Resultaat
+Voldoet
+
+Bevindingen
+Wordt geen gebruikt gemaakt van formulieren, behalve in beslishulp. Daar zijn foutmeldingen beschikbaar en duidelijk
+ 
+CAG-succescriterium 3.3.4 Foutpreventie (wettelijk, financieel, gegevens)
+ Niveau AA
+Uitleg
+Wanneer een gebruiker een formulier invult met juridische, financiële of persoonlijke gegevens, zorg er dan voor dat gebruiker de ingevulde gegevens kan controleren en corrigeren.
+Bied ten minste één van de volgende opties aan:
+	Omkeerbaar: Geef de gebruiker de mogelijkheid om de inzending of transactie terug te draaien.
+	Gecontroleerd: Controleer tijdens het invullen de gegevens op invoerfouten en geef de gebruiker de mogelijkheid de gegevens te verbeteren.
+	Bevestigd: Geef de gebruiker, voor inzending, de mogelijkheid om de ingevulde gegevens te beoordelen, te bevestigen en te verbeteren.
+Resultaat
+Voldoet
+
+Bevindingen
+Wordt geen gebruikt gemaakt van formulieren, behalve in beslishulp. Daar wordt niet om uridische, financiële of persoonlijke gegevens gevraagd
+ 
+WCAG-succescriterium 3.3.5 Hulp
+ Niveau AAA
+Belangrijk: Het is volgens de Nederlandse wetgeving niet verplicht om aan dit AAA-succescriterium te voldoen.
+Weten waar je volgens de wet aan moet voldoen? Ga dan naar wat is verplicht van DigiToegankelijk.
+Uitleg
+Help fouten te voorkomen. Bied de gebruiker zo goed mogelijk hulp aan bij de taak waar deze mee bezig is.
+Dit is fijn voor iedereen, maar speciaal van belang voor gebruikers die niet zo vaardig zijn op het web en ook voor mensen met een cognitieve beperking.
+Geef bijvoorbeeld:
+	een duidelijke description bij een invoerveld;
+	een link naar een uitgebreide uitleg;
+	een link op een vaste plek op elke pagina naar contactgegevens, waar een gebruiker om hulp kan vragen.
+
+Resultaat
+Niet van toepassing
+ 
+WCAG-succescriterium 3.3.6 Foutpreventie (alle)
+ Niveau AAA
+Belangrijk: Het is volgens de Nederlandse wetgeving niet verplicht om aan dit AAA-succescriterium te voldoen.
+Weten waar je volgens de wet aan moet voldoen? Ga dan naar wat is verplicht van DigiToegankelijk.
+Uitleg
+Wanneer een gebruiker een formulier invult zorg er dan voor dat gebruiker de ingevulde gegevens kan controleren en corrigeren.
+Bied ten minste één van de volgende opties aan:
+	Omkeerbaar: Geef de gebruiker de mogelijkheid om de inzending of transactie terug te draaien.
+	Gecontroleerd: Controleer tijdens het invullen de gegevens op invoerfouten en geef de gebruiker de mogelijkheid de gegevens te verbeteren.
+	Bevestigd: Geef de gebruiker, voor inzending, de mogelijkheid om de ingevulde gegevens te beoordelen, te bevestigen en te verbeteren.
+Dit komt overeen met WCAG Succescriterium 3.3.4 Foutpreventie (wettelijk, financieel, gegevens), maar nu geldt het voor alle formulieren.
+Resultaat
+Niet van toepassing
+ 
+WCAG-succescriterium 3.3.7 Overbodige invoer
+ Niveau A
+In het kort
+Doel
+Maak het gemakkelijker om een proces van meerdere stappen te doorlopen.
+Wat te doen
+Vraag geen dubbele informatie in dezelfde sessie.
+Waarom het belangrijk is
+Mensen met cognitieve beperkingen kunnen moeite hebben met het onthouden van eerdere invoer.
+Resultaat
+Voldoet 
+
+Bevindingen
+Wordt geen gebruikt gemaakt van formulieren, behalve in beslishulp.
+ 
+WCAG-succescriterium 3.3.8 Toegankelijke authenticatie (minimum)
+ Niveau AA
+In het kort
+Doel
+Maak inloggen mogelijk met minder mentale inspanning.
+Wat te doen
+Dwing mensen niet iets op te lossen, te onthouden of uit te schrijven.
+Waarom het belangrijk is
+Sommige mensen met cognitieve beperkingen kunnen geen puzzels oplossen, een wachtwoord of gebruikersnaam onthouden, of eenmalige toegangscodes herhalen.
+Resultaat
+Voldoet
+
+Bevindingen
+Er vindt geen authenticatie plaats 
+ 
+WCAG-succescriterium 3.3.9 Toegankelijke authenticatie (uitgebreid)
+ Niveau AAA
+Belangrijk: Het is volgens de Nederlandse wetgeving niet verplicht om aan dit AAA-succescriterium te voldoen.
+Weten waar je volgens de wet aan moet voldoen? Ga dan naar wat is verplicht van DigiToegankelijk.
+Uitleg
+Maak inloggen makkelijk. Zorg dat inloggen niet afhankelijk is van een cognitieve functietest. Dus vermijd het onthouden van een wachtwoord, herkennen van afbeeldingen of van vervormde letters in bijvoorbeeld CAPTCHA's.
+Het onthouden van een wachtwoord of het oplossen van een puzzel is bij geen enkele stap van een authenticatie proces verplicht, behalve in de volgende gevallen:
+	Er is een alternatief, zoals de optie om een mail met een login-link te ontvangen.
+	Er is een manier beschikbaar om de gebruiker te helpen, zoals een 'wachtwoord vergeten' optie.
+Een zeer toegankelijke manier van inloggen is bijvoorbeeld het gebruik van een Passkey zoals een vingerafdruk of USB-beveiligingssleutel.
+Dit succescriterium gaat dus een stap verder dan WCAG-succescriterium 3.3.8 Toegankelijke authenticatie (minimum), waarbij het herkennen van objecten of niet-tekstuele content wel is toegestaan.
+Resultaat:
+Niet van toepassing
+ 
+WCAG-succescriterium 4.1.1 Parsen
+ Vervallen
+Let op: De werkgroep die WCAG maakt heeft 4.1.1 de afgelopen jaren besproken en vastgesteld dat dit criterium tegenwoordig niet meer relevant is, omdat browsers en hulptechnologieën intussen zijn verbeterd (zie de WCAG FAQ). Het criterium is misschien in jouw situatie niet meer van toepassing. In WCAG-versie 2.2 is het helemaal verwijderd. In versie 2.1 is een opmerking toegevoegd dat content in HTML of XML automatisch aan het criterium voldoet. Zie ook: Wat is verplicht?.
+
+WCAG-succescriterium 4.1.2 Naam, rol, waarde
+ Niveau A
+Uitleg
+Geef interactieve elementen zoals buttons, links en formuliervelden een toegankelijke naam en een bijpassende rol. Geef daarnaast, afhankelijk van de functionaliteit, het element een toestand (state), eigenschappen en een waarde mee.
+Waarom is dit nodig? Gebruikers van een screenreader krijgen deze informatie voorgelezen en weten zo hoe een interactief element te bedienen en wat de huidige waarde of status is. Een goede toegankelijke naam is ook belangrijk bij stembesturing. De gebruiker kan een interactief element activeren (aanklikken) door deze naam uit te spreken.
+Deze informatie kun je ook terugvinden in de zogenaamde accessibility tree. Naast een 'DOM tree' maken browsers ook een 'accessibility tree' van een webpagina. Hulpmiddelen gebruiken deze gegevens.
+Let op: Bij het gebruik van HTML is de rol al gedefinieerd en hoef je geen rol toe te voegen.
+De regel is om de rol van een element niet aan te passen, maar er zijn uitzonderingen. Sommige roles voegen informatie toe en vervangen niet de functie. De oorspronkelijke functionaliteit blijft dan intact.
+
+Resultaat
+ 
+WCAG-succescriterium 4.1.3 Statusberichten
+ Niveau AA
+Uitleg
+Je kunt updates met belangrijke informatie met de gebruiker delen via een statusbericht. Als dit bericht bij verschijnen geen toetsenbordfocus krijgt, zorg er dan voor dat gebruikers die de melding niet zien, deze informatie toch meekrijgen.
+Het doel van dit succescriterium is om gebruikers te informeren over statusberichten, zonder onverwacht hun werk te onderbreken door bijvoorbeeld de focus te verplaatsen.
+Onder een statusbericht verstaan we: een dynamische verandering in inhoud die informatie aan de gebruiker geeft over het succes of de resultaten van een actie, over de wachttoestand van een applicatie, over de voortgang van een proces of over foutmeldingen.
+Resultaat
+Voldoet
+Bevindingen
+Er zijn geen status berichten 
+Management Summary
+Dit rapport presenteert de resultaten van een WCAG 2.1 A/AA-toegankelijkheidsonderzoek voor de website Algoritmekader (https://minbzk.github.io/Algoritmekader/). Het onderzoek is uitgevoerd door Ruben Rouwhof (Rijks ICT Gilde) in opdracht van het Ministerie van BZK.
+Belangrijkste bevinding: de website voldoet op veel onderdelen aan WCAG 2.1, maar er zijn structurele knelpunten rond niet-tekstuele content, toetsenbordtoegankelijkheid, contrast, focusvolgorde en linkdoelen. Deze tekortkomingen beperken de toegankelijkheid voor gebruikers met visuele of motorische beperkingen en vormen een risico voor wettelijke naleving.
+Aanbevolen vervolgstappen:
+• Voeg tekstalternatieven toe bij iconen en infographics.
+• Verbeter kleurcontrast en zorg voor consistente focus-indicatoren.
+• Maak alle interacties en navigatie volledig bruikbaar met het toetsenbord.
+• Pas de tab- en focusvolgorde aan zodat deze logisch en voorspelbaar is.
+• Zorg voor duidelijke en consistente linkdoelen.
+• Maak tabellen en afbeeldingen schaalbaar en bruikbaar bij 320px breedte (reflow).
+• Veranker skiplinks consequent en zorg voor toegankelijke tooltips.
+Door het doorvoeren van deze verbeteringen wordt de website beter bruikbaar voor alle gebruikers, en wordt voldaan aan de wettelijke verplichtingen rond digitale toegankelijkheid.
+
+D. Technische analyse van de codebase
+
+Technische implementatie
+De Algoritmekader website is gebouwd met:
+- MkDocs Material theme als statische site generator
+- Nederlandse lokalisatie en custom CSS (Rijks huisstijl)
+- JavaScript interactie voor filtering, modals en tabelfunctionaliteiten
+- Material Icons en custom iconen voor UI-elementen
+- Choices.js voor multi-select functionaliteit
+
+Code-niveau toegankelijkheidsbevindingen:
+
+HTML Semantiek (docs/site/index.html):
+✓ Correcte doctype en lang attribuut (html lang="nl")
+✓ ARIA labels aanwezig voor navigatie (aria-label="Header", aria-label="Zoeken")
+✓ Skip link aanwezig: <a href="#algoritmekader" class="md-skip">Ga naar inhoud</a>
+⚠️ Lege alt-attributen gevonden: alt=" " op homepage-afbeeldingen (rollen.jpg, wetten-en-regels.jpg, eu.jpeg, onderwerpen.jpg)
+⚠️ Geen ARIA-labels op exportknoppen en functionele iconen
+
+CSS Analyse (docs/stylesheets/extra.css):
+⚠️ Kleurcontrast problemen geïdentificeerd:
+- Primaire kleur #154273 (donkerblauw) gebruikt voor tekst 
+- Hover states: #316fb3 vs wit mogelijk onvoldoende contrast
+- Label kleuren #475569 op #F1F5F9 achtergrond
+✓ Focus states gedefinieerd voor buttons (.md-button:hover)
+⚠️ Geen duidelijke focus indicators voor alle interactieve elementen
+✓ Rem/em units gebruikt waar mogelijk
+
+JavaScript Toegankelijkheid (docs/javascripts/filtering.js):
+✓ Event listeners voor zowel 'input' als 'change' events
+✓ Keyboard accessible filtering via normale HTML form controls
+✓ ARIA-compatible met screenreaders door gebruik native HTML elements
+⚠️ Choices.js implementatie heeft custom accessibility configuratie nodig:
+- noResultsText: 'Geen resultaten'
+- noChoicesText: 'Geen keuzes beschikbaar' 
+- itemSelectText: 'Klik om te selecteren'
+⚠️ Focus management bij dynamische content updates ontbreekt
+
+Specifieke code-fixes nodig:
+1. Alt-teksten: Wijzig alt=" " naar beschrijvende teksten zoals alt="Navigatie naar soorten algoritmes en AI"
+2. Focus states: Toevoegen van consistente focus indicators in CSS (:focus-visible)
+3. ARIA-labels: Toevoegen op exportknoppen en functionele iconen
+4. Keyboard navigation: Focus management bij modal/tooltip interacties
+5. Skiplinks: Consequent toepassen op alle pagina's
+
+E. Aanbevelingen voor ontwikkelteam
+
+Prioriteit 1 (Kritiek - rechtstreekse WCAG-schendingen):
+- Alle alt=" " vervangen door betekenisvolle alternatieven
+- Focus indicators toevoegen voor alle interactieve elementen
+- Contrast verhogen naar minimaal 4.5:1 ratio
+- Skiplinks op alle pagina's implementeren
+
+Prioriteit 2 (Belangrijk - verbetert gebruikerservaring):
+- ARIA-labels toevoegen op alle knoppen en iconen
+- Focus management bij dynamische content
+- Keyboard accessibility testen en verbeteren
+- Responsive design voor 320px viewport
+
+Prioriteit 3 (Gewenst - structurele verbeteringen):
+- Geautomatiseerde accessibility testing in CI/CD pipeline
+- Toegankelijkheidsdocumentatie voor ontwikkelaars
+- Periodieke accessibility audits
+ 
+Conclusie & Aanbevelingen
+Het Algoritmekader is een inhoudelijk waardevolle website, maar de toegankelijkheid laat op meerdere punten te wensen over. Belangrijkste verbeterpunten liggen in het consequent toepassen van WCAG-basiseisen zoals alternatieve teksten, toetsenbordbediening, contrast en duidelijke navigatiestructuren.
+Aanbevolen is om een toegankelijkheidsactieplan op te stellen met korte- en langetermijnmaatregelen:
+• **Korte termijn:** toevoegen alt-teksten, contrastfixes, focus-states herstellen, linkdoelen verduidelijken.
+• **Middellange termijn:** herzien van tabellen en interactieve elementen zodat deze voldoen aan WCAG.
+• **Lange termijn:** structureel opnemen van toegankelijkheid in beheer- en ontwikkelprocessen, inclusief testautomatisering en gebruikersonderzoek.
+Met deze aanpak kan het ministerie niet alleen voldoen aan de wettelijke eisen, maar ook een inclusieve en toegankelijke digitale overheid realiseren.

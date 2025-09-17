@@ -179,6 +179,11 @@ function updateLabels(labels) {
 
   // Update labels input
   document.getElementById('labelsInput').value = appliedLabels.map(obj => obj.label).join(",");
+  
+  // Trigger filtering after updating labels
+  if (typeof filterTable === 'function') {
+    filterTable();
+  }
 
   // Generate labels HTML
   let labelsHTML = "";

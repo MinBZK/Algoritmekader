@@ -223,13 +223,26 @@ function attachFilterListeners() {
  */
 function evaluateLabelExpression(expression, labels) {
     if (!expression?.trim()) return true;
-    
-    // Replace each label with true/false based on presence in labels array
-    const labelPattern = /[a-zA-Z0-9-]+/g;
-    const evalExpr = expression.replace(labelPattern, match => labels.includes(match));
+    if (!labels || labels.length === 0) return false;
     
     try {
-        return Function('return ' + evalExpr)();
+        // Parse the expression and check if user's labels satisfy the AND/OR logic
+        // Split by && (all parts must be satisfied)
+        const andParts = expression.split('&&').map(part => part.trim());
+        
+        return andParts.every(andPart => {
+            // Remove outer parentheses if present
+            const cleanPart = andPart.replace(/^\(|\)$/g, '').trim();
+            
+            // Split by || (any of these can be satisfied)
+            const orParts = cleanPart.split('||').map(part => part.trim());
+            
+            // Check if any of the OR parts is satisfied by user's labels
+            return orParts.some(orPart => {
+                const cleanLabel = orPart.replace(/['"]/g, '').trim();
+                return labels.includes(cleanLabel);
+            });
+        });
     } catch {
         return false;
     }

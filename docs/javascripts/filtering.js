@@ -219,6 +219,40 @@ function attachFilterListeners() {
 }
 
 /**
+ * Label expression evaluation functions for AI Act filtering
+ */
+function evaluateLabelExpression(expression, labels) {
+    if (!expression?.trim()) return true;
+    if (!labels || labels.length === 0) return false;
+    
+    try {
+        // Parse the expression and check if user's labels satisfy the AND/OR logic
+        // Split by && (all parts must be satisfied)
+        const andParts = expression.split('&&').map(part => part.trim());
+        
+        return andParts.every(andPart => {
+            // Remove outer parentheses if present
+            const cleanPart = andPart.replace(/^\(|\)$/g, '').trim();
+            
+            // Split by || (any of these can be satisfied)
+            const orParts = cleanPart.split('||').map(part => part.trim());
+            
+            // Check if any of the OR parts is satisfied by user's labels
+            return orParts.some(orPart => {
+                const cleanLabel = orPart.replace(/['"]/g, '').trim();
+                return labels.includes(cleanLabel);
+            });
+        });
+    } catch {
+        return false;
+    }
+}
+
+function anyExpressionMatches(expressions, labels) {
+    return expressions?.some(expr => evaluateLabelExpression(expr.trim(), labels)) || false;
+}
+
+/**
  * FLEXIBLE FILTERING FUNCTION
  * ============================
  *

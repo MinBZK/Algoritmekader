@@ -219,6 +219,55 @@ function attachFilterListeners() {
 }
 
 /**
+ * Evaluates a label expression against a list of selected labels using labelMapper (oude logica)
+ * @param {string} expression - Boolean expression like "(rol-ai-act-aanbieder || rol-ai-act-gebruiksverantwoordelijke) && (risicogroep-hoog-risico-ai-systeem)"
+ * @param {Array} selectedLabels - Array of selected label strings
+ * @returns {boolean} - True if the expression matches
+ */
+function evaluateLabelExpression(expression, selectedLabels) {
+    if (!expression || expression.trim() === '') {
+        return false; // oude logica: lege expressie matcht niks
+    }
+
+    try {
+        // Transformeer labels in de expressie naar hasLabel functie
+        const transformedExpression = expression.replace(/["']?([a-zA-Z0-9-_]+)["']?/g, "hasLabel('$1')");
+
+        // Maak de functie die geëvalueerd wordt
+        const functionBody = `
+            const hasLabel = (label) => {
+                // Controleer of een van de geselecteerde labels overeenkomt via labelMapper
+                for (const selLabel of selectedLabels) {
+                    const mappedLabel = labelMapper.find(selLabel)?.label;
+                    if (mappedLabel && mappedLabel === label) return true;
+                }
+                return false;
+            };
+            return ${transformedExpression};
+        `;
+
+        return new Function('selectedLabels', functionBody)(selectedLabels);
+    } catch (error) {
+        console.error('Error evaluating label expression (oude logica):', error, 'Expression:', expression);
+        return false;
+    }
+}
+
+/**
+ * Checks if any of the given expressions match the selected labels (oude logica)
+ * @param {Array} expressions - Array of expression strings
+ * @param {Array} selectedLabels - Array of selected label strings
+ * @returns {boolean} - True if any expression matches
+ */
+function anyExpressionMatches(expressions, selectedLabels) {
+    if (!expressions || expressions.length === 0) return false;
+
+    return expressions.some(expression =>
+        evaluateLabelExpression(expression, selectedLabels)
+    );
+}
+
+/**
  * FLEXIBLE FILTERING FUNCTION
  * ============================
  *
@@ -260,8 +309,6 @@ function filterTable() {
         }
     });
 
-    console.log("Filter values:", filterValues);
-
     // Get labels for AI Act filtering (if exists)
     const labelsInput = document.getElementById("labelsInput");
     let labelsToFilterOn = [];
@@ -282,6 +329,26 @@ function filterTable() {
                     }
                 }
             }
+        }
+    }
+    
+    // Fix missing labels for AI-models for general purposes
+    const hasAiModel = labelsToFilterOn.includes('soort-toepassing-ai-model-voor-algemene-doeleinden');
+    const hasSysteemrisico = labelsToFilterOn.includes('systeemrisico-systeemrisico');
+    
+    if (hasAiModel && hasSysteemrisico) {
+        // Add missing "niet-van-toepassing" labels
+        if (!labelsToFilterOn.includes('risicogroep-niet-van-toepassing')) {
+            labelsToFilterOn.push('risicogroep-niet-van-toepassing');
+        }
+        if (!labelsToFilterOn.includes('transparantieverplichting-niet-van-toepassing')) {
+            labelsToFilterOn.push('transparantieverplichting-niet-van-toepassing');
+        }
+        
+        // Remove exception label that incorrectly blocks relevant requirements
+        const exceptionIndex = labelsToFilterOn.indexOf('risicogroep-uitzondering-van-toepassing');
+        if (exceptionIndex > -1) {
+            labelsToFilterOn.splice(exceptionIndex, 1);
         }
     }
 
@@ -335,21 +402,9 @@ function filterTable() {
         // AI Act label filtering (if applicable)
         if (showRow && labelsToFilterOn.length > 0) {
             const labelMatchConditions = row.getAttribute("data-labels") || "";
-            const uitzonderingMatchConditions = (row.getAttribute("data-uitzondering") || "")
-                .split(",")
-                .map(item => item.trim())
-                .filter(item => item !== "");
-
             let labelMatch = labelMatchConditions === "" ||
                             (typeof evaluateLabelExpression !== 'undefined' &&
                              evaluateLabelExpression(labelMatchConditions, labelsToFilterOn));
-
-            let uitzonderingMatch = typeof anyExpressionMatches !== 'undefined' &&
-                                   anyExpressionMatches(uitzonderingMatchConditions, labelsToFilterOn);
-
-            if (uitzonderingMatch && labelMatch) {
-                labelMatch = false;
-            }
 
             if (!labelMatch) {
                 showRow = false;

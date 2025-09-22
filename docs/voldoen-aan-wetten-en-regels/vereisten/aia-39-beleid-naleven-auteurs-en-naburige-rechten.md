@@ -17,10 +17,10 @@ risicogroep:
 rol-ai-act:
 - aanbieder
 transparantieverplichting:
-- geen-transparantieverplichting
-- transparantieverplichting
-systeemrisico:
 - niet-van-toepassing
+systeemrisico:
+- systeemrisico
+- geen-systeemrisico
 open-source:
 - open-source
 - geen-open-source

@@ -55,7 +55,7 @@ Besteed aandacht aan de succesfactoren van het algoritme of AI-systeem. Bepaal i
 * wat een 'rechtvaardig succes' is
 
 ## Definitief ontwerp
-Uiteindelijk concludeer je welk type algoritme of AI-systeem passend is. En hoe dit zou moeten werken. Hiervoor vraag je akkoord van de opdrachtgever of (gemandateerd) verantwoordelijke. 
+Uiteindelijk concludeer je welk type algoritme of AI-systeem passend is. En hoe dit zou moeten werken. Hiervoor vraag je akkoord van de opdrachtgever of (gemandateerd) verantwoordelijke.
 Heeft het ontwerp nog aanpassingen nodig, dan doorloop je opnieuw de fase van [probleemanalyse](https://minbzk.github.io/Algoritmekader/levenscyclus/probleemanalyse/).
 
 Kiest de organisatie een definitief ontwerp, dan ga je verder met [dataverkenning en datapreparatie](https://minbzk.github.io/Algoritmekader/levenscyclus/dataverkenning-en-datapreparatie/).

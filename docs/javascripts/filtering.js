@@ -219,38 +219,52 @@ function attachFilterListeners() {
 }
 
 /**
- * Label expression evaluation functions for AI Act filtering
+ * Evaluates a label expression against a list of selected labels using labelMapper (oude logica)
+ * @param {string} expression - Boolean expression like "(rol-ai-act-aanbieder || rol-ai-act-gebruiksverantwoordelijke) && (risicogroep-hoog-risico-ai-systeem)"
+ * @param {Array} selectedLabels - Array of selected label strings
+ * @returns {boolean} - True if the expression matches
  */
-function evaluateLabelExpression(expression, labels) {
-    if (!expression?.trim()) return true;
-    if (!labels || labels.length === 0) return false;
-    
+function evaluateLabelExpression(expression, selectedLabels) {
+    if (!expression || expression.trim() === '') {
+        return false; // oude logica: lege expressie matcht niks
+    }
+
     try {
-        // Parse the expression and check if user's labels satisfy the AND/OR logic
-        // Split by && (all parts must be satisfied)
-        const andParts = expression.split('&&').map(part => part.trim());
-        
-        // Check if all AND parts are satisfied
-        return andParts.every(andPart => {
-            // Remove outer parentheses if present
-            const cleanPart = andPart.replace(/^\(|\)$/g, '').trim();
-            
-            // Split by || (any of these can be satisfied)
-            const orParts = cleanPart.split('||').map(part => part.trim());
-            
-            // Check if any of the OR parts is satisfied by user's labels
-            return orParts.some(orPart => {
-                const cleanLabel = orPart.replace(/['"]/g, '').trim();
-                return labels.includes(cleanLabel);
-            });
-        });
-    } catch {
+        // Transformeer labels in de expressie naar hasLabel functie
+        const transformedExpression = expression.replace(/["']?([a-zA-Z0-9-_]+)["']?/g, "hasLabel('$1')");
+
+        // Maak de functie die geëvalueerd wordt
+        const functionBody = `
+            const hasLabel = (label) => {
+                // Controleer of een van de geselecteerde labels overeenkomt via labelMapper
+                for (const selLabel of selectedLabels) {
+                    const mappedLabel = labelMapper.find(selLabel)?.label;
+                    if (mappedLabel && mappedLabel === label) return true;
+                }
+                return false;
+            };
+            return ${transformedExpression};
+        `;
+
+        return new Function('selectedLabels', functionBody)(selectedLabels);
+    } catch (error) {
+        console.error('Error evaluating label expression (oude logica):', error, 'Expression:', expression);
         return false;
     }
 }
 
-function anyExpressionMatches(expressions, labels) {
-    return expressions?.some(expr => evaluateLabelExpression(expr.trim(), labels)) || false;
+/**
+ * Checks if any of the given expressions match the selected labels (oude logica)
+ * @param {Array} expressions - Array of expression strings
+ * @param {Array} selectedLabels - Array of selected label strings
+ * @returns {boolean} - True if any expression matches
+ */
+function anyExpressionMatches(expressions, selectedLabels) {
+    if (!expressions || expressions.length === 0) return false;
+
+    return expressions.some(expression =>
+        evaluateLabelExpression(expression, selectedLabels)
+    );
 }
 
 /**
@@ -388,21 +402,9 @@ function filterTable() {
         // AI Act label filtering (if applicable)
         if (showRow && labelsToFilterOn.length > 0) {
             const labelMatchConditions = row.getAttribute("data-labels") || "";
-            const uitzonderingMatchConditions = (row.getAttribute("data-uitzondering") || "")
-                .split(",")
-                .map(item => item.trim())
-                .filter(item => item !== "");
-
             let labelMatch = labelMatchConditions === "" ||
                             (typeof evaluateLabelExpression !== 'undefined' &&
                              evaluateLabelExpression(labelMatchConditions, labelsToFilterOn));
-
-            let uitzonderingMatch = typeof anyExpressionMatches !== 'undefined' &&
-                                   anyExpressionMatches(uitzonderingMatchConditions, labelsToFilterOn);
-
-            if (uitzonderingMatch && labelMatch) {
-                labelMatch = false;
-            }
 
             if (!labelMatch) {
                 showRow = false;

@@ -25,7 +25,7 @@ Andere belangrijke regels gaan over privacy. Zo mag je algoritme alleen de minim
 
 * Anonimiseren: data zoveel mogelijk anoniem maken
 * [Pseudonimiseren](https://www.autoriteitpersoonsgegevens.nl/themas/beveiliging/beveiliging-van-persoonsgegevens/gegevens-pseudonimiseren): data moeilijker herleidbaar maken (meestal in geval van persoonsgegevens)
-* Aggregeren: data zoveel mogelijk combineren of samenvoegen tot 1 waarde, zoals een totaal of gemiddelde 
+* Aggregeren: data zoveel mogelijk combineren of samenvoegen tot 1 waarde, zoals een totaal of gemiddelde
 
 ### Goede datakwaliteit
 Goede datakwaliteit is in het geval van het trainen of ontwikkelen van een algoritme belangrijk zodat het algoritme een zo hoog mogelijke validiteit krijgt. Bij het gebruik van een zelflerend algoritme kan slechte datakwaliteit de validiteit van het algoritme verlagen. Met rekenregels met een hoge validiteit kan slechte datakwaliteit juist aangetoond worden en heeft de datakwaliteit geen invloed op de algoritme zelf.

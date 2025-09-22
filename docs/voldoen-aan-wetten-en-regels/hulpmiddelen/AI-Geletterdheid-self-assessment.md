@@ -27,11 +27,11 @@ hide: navigation
 [Download hier de AI-Geletterdheid Self-assessment (.xlsx)](documenten/AIG self-assessment v4.xlsx){ .button .md-button--secondary }
 
 ## Hulpmiddel
-Om op een verantwoorde manier om te gaan met Artificial Intelligence (AI)-systemen, is een bepaald niveau van AI-geletterdheid belangrijk. Zo [stelt Artikel 4 van de AI-Verordening](wettelijke-vereisten-AI-geletterdheid.md) dat binnen een organisatie waar gewerkt wordt met AI-systemen, iedereen een bepaalde mate van AI-geletterd is, afhankelijk van de context. 
+Om op een verantwoorde manier om te gaan met Artificial Intelligence (AI)-systemen, is een bepaald niveau van AI-geletterdheid belangrijk. Zo [stelt Artikel 4 van de AI-Verordening](wettelijke-vereisten-AI-geletterdheid.md) dat binnen een organisatie waar gewerkt wordt met AI-systemen, iedereen een bepaalde mate van AI-geletterd is, afhankelijk van de context.
 
-Verschillende mensen hebben verschillende niveaus van AI kennis nodig om binnen hun rol onderbouwde beslissingen te kunnen maken met betrekking tot AI-systemen. 
-Binnen de Rijksoverheid zijn kerncompetenties vastgesteld die sturing bieden in wat deze nodige kennis op verschillende niveaus inhoudt. 
-Deze self-assessment is ontwikkeld om na te gaan of je al op het voor jou benodigde niveau zit, en wat je kunt doen om daar te komen. 
+Verschillende mensen hebben verschillende niveaus van AI kennis nodig om binnen hun rol onderbouwde beslissingen te kunnen maken met betrekking tot AI-systemen.
+Binnen de Rijksoverheid zijn kerncompetenties vastgesteld die sturing bieden in wat deze nodige kennis op verschillende niveaus inhoudt.
+Deze self-assessment is ontwikkeld om na te gaan of je al op het voor jou benodigde niveau zit, en wat je kunt doen om daar te komen.
 Denk in dat geval aan opleidingen of e-learning modules, maar dit is uit te breiden met generiekere adviezen of verwijzingen naar relevante wetteksten of documenten.
 
 ### Werking
@@ -46,7 +46,7 @@ Deze self-assessment is modulair. De gekoppelde cursussen die worden aanbevolen,
 
 
 ### AI-geletterdheid
-Al-geletterdheid moet betrokkenen in staat stellen om onderbouwde beslissingen te kunnen maken met betrekking tot Al-systemen. 
+Al-geletterdheid moet betrokkenen in staat stellen om onderbouwde beslissingen te kunnen maken met betrekking tot Al-systemen.
 Afhankelijk van iemands rol en het toepassingsgebied van het Al-systeem, bestaat een toereikend niveau van Al-geletterdheid uit inzicht in:
 
 - De correcte toepassing van technische elementen tijdens de ontwikkeling van Al-systemen.
@@ -55,7 +55,7 @@ Afhankelijk van iemands rol en het toepassingsgebied van het Al-systeem, bestaat
 - De impact van Al-besluiten op natuurlijke personen.
 - De kennis die nodig is om naleving en handhaving van de Al-verordening mogelijk te maken.
 
-Bekijk de [wettelijke vereisten voor AI-gelleterdheid hier](wettelijke-vereisten-AI-geletterdheid.md). 
+Bekijk de [wettelijke vereisten voor AI-gelleterdheid hier](wettelijke-vereisten-AI-geletterdheid.md).
 Bekijk ook de factsheets voor [bestuurders](factsheet-AI-geletterdheid-bestuurders.md) of [inkopers](factsheet-AI-geletterdheid-inkopers.md), met meer informatie over AI-geletterdheid specifiek voor deze rollen.
 
 ### Kan ik 100% op dit document vertrouwen?

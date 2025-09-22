@@ -30,7 +30,7 @@ hide: navigation
 Deze factsheet zet uiteen wat de eisen op het gebied van AI-geletterdheid in de AI-verordening inhouden.
 
 ### AI-geletterdheid
-Al-geletterdheid moet betrokkenen in staat stellen om onderbouwde beslissingen te kunnen maken met betrekking tot Al-systemen. 
+Al-geletterdheid moet betrokkenen in staat stellen om onderbouwde beslissingen te kunnen maken met betrekking tot Al-systemen.
 Afhankelijk van iemands rol en het toepassingsgebied van het Al-systeem, bestaat een toereikend niveau van Al-geletterdheid uit inzicht in:
 
 - De correcte toepassing van technische elementen tijdens de ontwikkeling van Al-systemen.

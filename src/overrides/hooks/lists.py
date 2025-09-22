@@ -393,7 +393,7 @@ def _create_table_row_2(
         " && ".join(label_match_expression) if label_match_expression else ""
     )
 
-    data_html_attribute = 'data-labels="' + label_match_expression_str + '"'
+    data_html_attribute = 'data-labels="' + label_match_expression_str + '" '
     data_html_attribute += (
         'data-uitzondering="'
         + ",".join(

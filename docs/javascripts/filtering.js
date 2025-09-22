@@ -230,6 +230,7 @@ function evaluateLabelExpression(expression, labels) {
         // Split by && (all parts must be satisfied)
         const andParts = expression.split('&&').map(part => part.trim());
         
+        // Check if all AND parts are satisfied
         return andParts.every(andPart => {
             // Remove outer parentheses if present
             const cleanPart = andPart.replace(/^\(|\)$/g, '').trim();
@@ -294,8 +295,6 @@ function filterTable() {
         }
     });
 
-    console.log("Filter values:", filterValues);
-
     // Get labels for AI Act filtering (if exists)
     const labelsInput = document.getElementById("labelsInput");
     let labelsToFilterOn = [];
@@ -316,6 +315,26 @@ function filterTable() {
                     }
                 }
             }
+        }
+    }
+    
+    // Fix missing labels for AI-models for general purposes
+    const hasAiModel = labelsToFilterOn.includes('soort-toepassing-ai-model-voor-algemene-doeleinden');
+    const hasSysteemrisico = labelsToFilterOn.includes('systeemrisico-systeemrisico');
+    
+    if (hasAiModel && hasSysteemrisico) {
+        // Add missing "niet-van-toepassing" labels
+        if (!labelsToFilterOn.includes('risicogroep-niet-van-toepassing')) {
+            labelsToFilterOn.push('risicogroep-niet-van-toepassing');
+        }
+        if (!labelsToFilterOn.includes('transparantieverplichting-niet-van-toepassing')) {
+            labelsToFilterOn.push('transparantieverplichting-niet-van-toepassing');
+        }
+        
+        // Remove exception label that incorrectly blocks relevant requirements
+        const exceptionIndex = labelsToFilterOn.indexOf('risicogroep-uitzondering-van-toepassing');
+        if (exceptionIndex > -1) {
+            labelsToFilterOn.splice(exceptionIndex, 1);
         }
     }
 

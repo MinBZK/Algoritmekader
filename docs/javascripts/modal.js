@@ -178,7 +178,11 @@ function updateLabels(labels) {
   document.getElementById("ai-act-info-no-labels").classList.add("display-none");
 
   // Update labels input
-  document.getElementById('labelsInput').value = appliedLabels.map(obj => obj.label).join(",");
+  const labelsToSet = appliedLabels.map(obj => obj.label).join(",");
+  const labelsInputElement = document.getElementById('labelsInput');
+  if (labelsInputElement) {
+    labelsInputElement.value = labelsToSet;
+  }
   
   // Trigger filtering after updating labels
   if (typeof filterTable === 'function') {

@@ -56,6 +56,14 @@ Bias ontstaat bijvoorbeeld in:
 - systemen en processen in bijvoorbeeld de samenleving of je organisatie (systemische bias)
 - het menselijk denken (menselijke bias)
 
+## Ben transparant over het ontstaan van een dataset
+
+Een zelf-lerend algoritme wordt getrained aan de hand van trainingsdata. Algoritmes in zijn algemeenheid kunnen gevalideerd worden aan de hand van testdata. Het beschrijven op basis van welke criteria die datasets zijn samengesteld geeft inzicht in de bias die mogelijk *by-design* in de data is geslopen. Deze beschrijving draagt bij aan de auditing trail van de totstandkoming van het algoritme.
+
+Voorbeeld. Je legt een dataset aan voor inwoners van Nederland. Je beschrijft dat je daarvoor data hebt ingeladen uit de 342 Nederlandse gemeenten (per 1 januari 2024). Een oplettende lezer kan vervolgens zien dat daar de 3 bijzondere gemeenten Bonaire, Sint-Eustatius en Saba niet bij zitten.
+
+Afhankelijk van het doel van het algoritme kan de afwezigheid van bepaalde type data tot een ongewenste bias leiden. Hoe completer de beschrijving is hoe makkelijker het voor derden is om de bias te zien of te beoordelen. Als in dit voorbeeld expliciet zou zijn gemaakt dat er bewust voor is gekozen om de 3 bijzondere gemeenten niet mee te nemen, dan is het voor derden duidelijk dat de afwezigheid ervan geen bias hoeft te zijn.
+
 ### Bias in statistiek en berekeningen
 Dit zijn fouten in de:
 

@@ -84,47 +84,6 @@ Door deze verbeteringen wordt de website volledig WCAG 2.1 A/AA compliant en bet
 - **2.4.7 Focus zichtbaar:**  
   Inconsistente focus states bij filters
 
-## F. Aanbevelingen voor ontwikkelteam
-
-### Prioriteit 1 (Kritiek):
-
-- **Alt-teksten herstellen:**  
-  Alle alt=" " vervangen door betekenisvolle alternatieven
-
-- **Focus indicators:**  
-  Toevoegen (:focus-visible in CSS)
-
-- **Keyboard toegankelijkheid:**  
-  Exportknoppen keyboard accessible maken
-
-- **Skiplinks:**  
-  Op alle pagina's implementeren
-
-### Prioriteit 2 (Belangrijk):
-
-- **Kleurcontrast:**  
-  Verhogen naar 4.5:1 ratio
-
-- **ARIA-labels:**  
-  Toevoegen op alle knoppen/iconen
-
-- **Focus management:**  
-  Bij modal/tooltip interacties
-
-- **Responsive design:**  
-  Voor 320px viewport
-
-### Prioriteit 3 (Gewenst):
-
-- **Automatisering:**  
-  Geautomatiseerde accessibility testing in CI/CD
-
-- **Documentatie:**  
-  Toegankelijkheidsdocumentatie voor ontwikkelaars
-
-- **Monitoring:**  
-  Periodieke accessibility audits
-
 ## G. Overzicht WCAG Succescriteria
 
 | Nr. | Succescriterium | Niveau | Status |

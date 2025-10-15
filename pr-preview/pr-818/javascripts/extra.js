@@ -8,49 +8,13 @@ document$.subscribe(function() {
 
     // Attach event listeners to the filters for table filtering
     attachFilterListeners();
-    
-    // Initialize skiplink functionality after navigation
-    initializeSkiplinks();
 
     // Reinitialize Choices.js when content is dynamically updated
     document.addEventListener('contentUpdated', function() {
         initializeChoices();
         attachFilterListeners(); // Re-attach listeners after content updates
-        initializeSkiplinks(); // Re-initialize skiplinks after content updates
     });
 });
-
-// Track if user is using keyboard navigation
-let isKeyboardUser = false;
-document.addEventListener('keydown', function(e) {
-    if (e.key === 'Tab') {
-        isKeyboardUser = true;
-    }
-});
-
-document.addEventListener('mousedown', function() {
-    isKeyboardUser = false;
-});
-
-
-
-// Also catch location changes for SPA navigation
-if (typeof location$ !== 'undefined') {
-    location$.subscribe(function() {
-        setTimeout(() => {
-            initializeSkiplinks();
-            // Only focus skiplink if user was using keyboard
-            if (isKeyboardUser) {
-                setTimeout(() => {
-                    const skiplink = document.querySelector('.custom-skiplink');
-                    if (skiplink) {
-                        skiplink.focus();
-                    }
-                }, 50);
-            }
-        }, 100);
-    });
-}
 
 // Function to initialize Choices.js for multi-select filters
 function initializeChoices() {
@@ -207,126 +171,4 @@ function filterTable() {
 
     // Trigger contentUpdated to reinitialize Choices.js after filtering
     document.dispatchEvent(new Event('contentUpdated'));
-}
-
-// Function to initialize skiplink functionality after page navigation
-function initializeSkiplinks() {
-    // Always create our own skiplink to ensure it works after SPA navigation
-    createSkiplink();
-}
-
-// Create a skiplink if none exists
-function createSkiplink() {
-    // Remove any existing custom skiplinks first
-    const existingCustom = document.querySelector('.custom-skiplink');
-    if (existingCustom) {
-        existingCustom.remove();
-    }
-    
-    const skiplink = document.createElement('a');
-    skiplink.href = '#main-content';
-    skiplink.textContent = 'Ga naar inhoud';
-    skiplink.className = 'custom-skiplink';
-    skiplink.style.cssText = `
-        position: fixed !important;
-        top: -50px !important;
-        left: 10px !important;
-        z-index: 9999 !important;
-        color: white !important;
-        background: #007bc7 !important;
-        padding: 10px 20px !important;
-        text-decoration: none !important;
-        border-radius: 4px !important;
-        transition: top 0.3s !important;
-        font-weight: bold !important;
-        font-size: 14px !important;
-        border: 2px solid white !important;
-    `;
-    
-    // Show on focus
-    skiplink.addEventListener('focus', function() {
-        this.style.top = '10px !important';
-    });
-    
-    skiplink.addEventListener('blur', function() {
-        this.style.top = '-50px !important';
-    });
-    
-    // Add click handler
-    skiplink.addEventListener('click', handleSkiplinkClick);
-    
-    // Insert at beginning of body
-    document.body.insertBefore(skiplink, document.body.firstChild);
-    
-    // Make sure it's the first tab stop
-    skiplink.tabIndex = 1;
-    
-}
-
-// Handle skiplink clicks with proper focus management
-function handleSkiplinkClick(event) {
-    event.preventDefault();
-    
-    let href = this.getAttribute('href');
-    
-    // Extract fragment from full URL if needed
-    if (href.includes('#')) {
-        href = '#' + href.split('#')[1];
-    }
-    
-    const targetId = href.substring(1); // Remove the #
-    
-    // Try to find the target element
-    let targetElement = document.getElementById(targetId);
-    
-    // If target not found, try common main content selectors
-    if (!targetElement) {
-        const fallbackSelectors = [
-            '.md-content__inner',
-            '.md-content', 
-            'main',
-            '[role="main"]',
-            '.md-main__inner',
-            'h1'
-        ];
-        
-        for (const selector of fallbackSelectors) {
-            targetElement = document.querySelector(selector);
-            if (targetElement) break;
-        }
-    }
-    
-    if (targetElement) {
-        // Make element focusable if it isn't already
-        if (!targetElement.hasAttribute('tabindex')) {
-            targetElement.setAttribute('tabindex', '-1');
-        }
-        
-        // Focus the target element
-        targetElement.focus();
-        
-        // Scroll to the element smoothly
-        targetElement.scrollIntoView({ 
-            behavior: 'smooth', 
-            block: 'start' 
-        });
-        
-        // Optional: Add visual indication that focus has moved
-        targetElement.style.outline = '2px solid #007bc7';
-        targetElement.style.outlineOffset = '2px';
-        
-        // Remove outline after a short delay
-        setTimeout(() => {
-            targetElement.style.outline = '';
-            targetElement.style.outlineOffset = '';
-        }, 1500);
-        
-    } else {
-        
-        // Fallback: scroll to top of content area
-        const contentArea = document.querySelector('.md-content') || document.querySelector('main');
-        if (contentArea) {
-            contentArea.scrollIntoView({ behavior: 'smooth', block: 'start' });
-        }
-    }
 }

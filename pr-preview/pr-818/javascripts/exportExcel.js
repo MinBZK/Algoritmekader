@@ -34,20 +34,13 @@ function toggleExportDropdown() {
     const dropdown = document.getElementById('export-dropdown');
     const button = document.getElementById('export-btn');
     
-    if (dropdown && button) {
-        const isOpen = dropdown.style.display === 'block';
-        
-        if (!isOpen) {
+    if (dropdown) {
+        if (dropdown.style.display === 'none' || dropdown.style.display === '') {
             dropdown.style.display = 'block';
             dropdown.style.width = button.offsetWidth + 'px';
-            button.setAttribute('aria-expanded', 'true');
             
-            // Prepare menu items for keyboard navigation
-            const allMenuItems = dropdown.querySelectorAll('[role="menuitem"]');
-            allMenuItems.forEach(item => item.setAttribute('tabindex', '-1'));
-            if (allMenuItems.length > 0) {
-                allMenuItems[0].setAttribute('tabindex', '0');
-            }
+            // Update ARIA state
+            button.setAttribute('aria-expanded', 'true');
             
             // Add click outside listener to close dropdown
             setTimeout(() => {
@@ -64,23 +57,9 @@ function toggleExportDropdown() {
     }
 }
 
-function closeExportDropdown() {
-    const dropdown = document.getElementById('export-dropdown');
-    const button = document.getElementById('export-btn');
-    
-    if (dropdown && button) {
-        // Reset all menu items to tabindex="-1"
-        const menuItems = dropdown.querySelectorAll('[role="menuitem"]');
-        menuItems.forEach(item => item.setAttribute('tabindex', '-1'));
-        
-        dropdown.style.display = 'none';
-        button.setAttribute('aria-expanded', 'false');
-        button.focus();
-    }
-}
-
 function exportExcel() {
-    closeExportDropdown();
+    const dropdown = document.getElementById('export-dropdown');
+    if (dropdown) dropdown.style.display = 'none';
 
     // Determine which config to use based on the content type in the page
     const contentTypeElement = document.getElementById('content_type');
@@ -94,7 +73,8 @@ function exportExcel() {
 }
 
 function exportODS() {
-    closeExportDropdown();
+    const dropdown = document.getElementById('export-dropdown');
+    if (dropdown) dropdown.style.display = 'none';
 
     // Determine which config to use based on the content type in the page
     const contentTypeElement = document.getElementById('content_type');
@@ -424,55 +404,49 @@ function restoreButtonState(button, originalHTML) {
     }
 }
 
-// Keyboard event handlers
+// Keyboard navigation for export dropdown
 function handleExportKeydown(event) {
     const dropdown = document.getElementById('export-dropdown');
-    const isOpen = dropdown && dropdown.style.display === 'block';
     
     if (event.key === 'Enter' || event.key === ' ') {
         event.preventDefault();
-        if (!isOpen) {
-            toggleExportDropdown();
-            // Focus first menu item after opening
-            setTimeout(() => {
-                const firstMenuItem = dropdown.querySelector('[role="menuitem"][tabindex="0"]');
-                if (firstMenuItem) {
-                    firstMenuItem.focus();
-                }
-            }, 50);
-        }
-    } else if (event.key === 'Escape') {
-        event.preventDefault();
-        if (isOpen) {
-            closeExportDropdown();
-        }
-    } else if (event.key === 'ArrowDown') {
-        event.preventDefault();
-        if (!isOpen) {
-            toggleExportDropdown();
-            // After opening, focus first menu item
-            setTimeout(() => {
-                const firstMenuItem = dropdown.querySelector('[role="menuitem"][tabindex="0"]');
-                if (firstMenuItem) {
-                    firstMenuItem.focus();
-                }
-            }, 50);
-        } else {
-            // Focus first menu item if dropdown is already open
-            const firstMenuItem = dropdown.querySelector('[role="menuitem"][tabindex="0"]');
-            if (firstMenuItem) {
-                firstMenuItem.focus();
+        toggleExportDropdown();
+        
+        // If dropdown was opened, focus the first menu item
+        if (dropdown && dropdown.style.display === 'block') {
+            const firstButton = dropdown.querySelector('button[role="menuitem"]');
+            if (firstButton) {
+                firstButton.tabIndex = 0;
+                firstButton.focus();
             }
         }
+    } else if (event.key === 'Escape') {
+        closeExportDropdown();
     }
 }
 
 function handleDropdownKeydown(event, exportType) {
     const dropdown = document.getElementById('export-dropdown');
-    const menuItems = dropdown ? dropdown.querySelectorAll('[role="menuitem"]') : [];
-    const currentIndex = Array.from(menuItems).indexOf(event.target);
+    const menuItems = dropdown ? Array.from(dropdown.querySelectorAll('button[role="menuitem"]')) : [];
+    const currentIndex = menuItems.findIndex(item => item === event.target);
     
     switch (event.key) {
+        case 'ArrowDown':
+            event.preventDefault();
+            const nextIndex = (currentIndex + 1) % menuItems.length;
+            menuItems[currentIndex].tabIndex = -1;
+            menuItems[nextIndex].tabIndex = 0;
+            menuItems[nextIndex].focus();
+            break;
+            
+        case 'ArrowUp':
+            event.preventDefault();
+            const prevIndex = currentIndex === 0 ? menuItems.length - 1 : currentIndex - 1;
+            menuItems[currentIndex].tabIndex = -1;
+            menuItems[prevIndex].tabIndex = 0;
+            menuItems[prevIndex].focus();
+            break;
+            
         case 'Enter':
         case ' ':
             event.preventDefault();
@@ -483,44 +457,36 @@ function handleDropdownKeydown(event, exportType) {
             }
             break;
             
-        case 'ArrowDown':
-            event.preventDefault();
-            const nextIndex = Math.min(currentIndex + 1, menuItems.length - 1);
-            if (menuItems[nextIndex]) {
-                // Update tabindex for proper focus management
-                event.target.setAttribute('tabindex', '-1');
-                menuItems[nextIndex].setAttribute('tabindex', '0');
-                menuItems[nextIndex].focus();
-            }
-            break;
-            
-        case 'ArrowUp':
-            event.preventDefault();
-            const prevIndex = Math.max(currentIndex - 1, 0);
-            if (menuItems[prevIndex]) {
-                // Update tabindex for proper focus management
-                event.target.setAttribute('tabindex', '-1');
-                menuItems[prevIndex].setAttribute('tabindex', '0');
-                menuItems[prevIndex].focus();
-            }
-            break;
-            
         case 'Escape':
             event.preventDefault();
             closeExportDropdown();
+            document.getElementById('export-btn').focus();
             break;
-            
-        case 'Tab':
-            // Allow default tab behavior to move focus away
-            closeExportDropdown();
-            break;
+    }
+}
+
+function closeExportDropdown() {
+    const dropdown = document.getElementById('export-dropdown');
+    const button = document.getElementById('export-btn');
+    
+    if (dropdown) {
+        dropdown.style.display = 'none';
+        
+        // Reset all menu item tab indexes
+        const menuItems = dropdown.querySelectorAll('button[role="menuitem"]');
+        menuItems.forEach(item => item.tabIndex = -1);
+    }
+    
+    // Update ARIA state
+    if (button) {
+        button.setAttribute('aria-expanded', 'false');
     }
 }
 
 // Export functions globally
 window.toggleExportDropdown = toggleExportDropdown;
-window.closeExportDropdown = closeExportDropdown;
-window.handleExportKeydown = handleExportKeydown;
-window.handleDropdownKeydown = handleDropdownKeydown;
 window.exportExcel = exportExcel;
 window.exportODS = exportODS;
+window.handleExportKeydown = handleExportKeydown;
+window.handleDropdownKeydown = handleDropdownKeydown;
+window.closeExportDropdown = closeExportDropdown;

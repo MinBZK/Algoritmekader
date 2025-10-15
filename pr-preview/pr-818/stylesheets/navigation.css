@@ -7,19 +7,6 @@
   border-bottom: 6px solid #B2D7EE;
 }
 
-/* Prevent MkDocs Material from scrolling when tabs get focus */
-@media (prefers-reduced-motion: no-preference) {
-  .md-tabs__link:focus {
-    scroll-behavior: auto;
-  }
-}
-
-/* Alternative: disable smooth scrolling for tabs completely */
-.md-tabs * {
-  scroll-behavior: auto !important;
-}
-
-
 .md-tabs .md-grid {
   background-color: #007bc7;
   color: white;
@@ -85,8 +72,6 @@ h1{
   background-color: #B2D7EE !important; /* Achtergrondkleur bij hover op het hele tab-item */
   color: #154273 !important;
 }
-
-
 /* Active tab styling - only for actually active pages, not focus */
 .md-tabs .md-tabs__list .md-tabs__item--active .md-tabs__link {
   color: #154273 !important; /* Active color */
@@ -187,3 +172,8 @@ h1{
   }
 }
 
+.md-main__inner {
+  display: flex;
+  height: 100%;
+  margin-top: 0;
+}

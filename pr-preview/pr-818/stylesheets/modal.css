@@ -69,6 +69,32 @@
     border-color: #154273 transparent transparent;
 }
 
+/* Accessible tooltips for abbreviations */
+abbr[title] {
+    cursor: help;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+abbr[title]:hover::after,
+abbr[title]:focus::after {
+    content: attr(title);
+    position: absolute;
+    background-color: #154273;
+    color: white;
+    padding: 0.5em 0.75em;
+    border-radius: 0.25em;
+    font-size: 0.875em;
+    z-index: 1100;
+    max-width: 300px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    font-family: "Rijksoverheid Sans", sans-serif;
+    line-height: 1.4;
+    margin-top: 1.5em;
+    margin-left: 0.5em;
+    white-space: nowrap;
+}
+
 .choices__button {
     content: '\00d7';
 }

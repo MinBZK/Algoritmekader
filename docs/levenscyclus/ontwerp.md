@@ -62,7 +62,7 @@ Kiest de organisatie een definitief ontwerp, dan ga je verder met [dataverkennin
 
 !!! tip "Tip"
 
-    Denk alvast na over welke versie of versies van het algoritme of AI-systeem je wil archiveren. Door aanpassingen in de data of rekenregels, of door het opnieuw trainen met nieuwe data, kan een algoritme of AI-systeem namelijk veranderen. Als je hier nu al aandacht aan besteed, bespaar je achteraf bij het [uitfaseren](https://minbzk.github.io/Algoritmekader/levenscyclus/uitfaseren/) een hoop uitzoekwerk.
+    Denk alvast na over welke versie of versies van het algoritme of AI-systeem je wil archiveren. Door aanpassingen in de data of rekenregels, of door het opnieuw trainen met nieuwe data, kan een algoritme of AI-systeem namelijk veranderen. Als je hier nu al aandacht aan besteedt, bespaar je achteraf bij het [uitfaseren](https://minbzk.github.io/Algoritmekader/levenscyclus/uitfaseren/) een hoop uitzoekwerk.
 
 ## Vereisten ontwerpfase { data-search-exclude }
 

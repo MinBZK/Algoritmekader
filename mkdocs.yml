@@ -14,7 +14,6 @@ theme:
     features:
         - navigation.indexes
         - navigation.tabs
-        - navigation.tabs.sticky
         - navigation.top
         - navigation.tracking
         - navigation.instant
@@ -36,7 +35,6 @@ nav:
          - soorten-algoritmes-en-ai/risico-van-ai-systemen.md
          - soorten-algoritmes-en-ai/impact-van-algoritmes.md
          - soorten-algoritmes-en-ai/generatieve-ai.md
-         - soorten-algoritmes-en-ai/geautomatiseerde-risicoselectie.md
          - soorten-algoritmes-en-ai/definities.md
     - Onderwerpen:
         - onderwerpen/index.md
@@ -124,6 +122,7 @@ extra_javascript:
   - javascripts/filtering.js
   - javascripts/mermaid.min.js
   - javascripts/modal.js
+  - javascripts/extra.js
 
 plugins:
     - glightbox

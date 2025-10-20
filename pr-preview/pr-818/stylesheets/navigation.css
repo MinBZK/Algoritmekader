@@ -56,7 +56,7 @@ h1{
   background-color: #B2D7EE !important;
 }
 
-/* Apply color and background on hover only */
+/* Apply color and background on both link and item on hover */
 .md-tabs__item:hover,
 .md-tabs__item:hover .md-tabs__link,
 .md-tabs__link:hover {
@@ -69,9 +69,10 @@ h1{
 }
 
 .md-tabs__item:hover {
-  background-color: #B2D7EE !important; /* Achtergrondkleur bij hover op het hele tab-item */
+  background-color: #B2D7EE !important;
   color: #154273 !important;
 }
+
 /* Active tab styling - only for actually active pages, not focus */
 .md-tabs .md-tabs__list .md-tabs__item--active .md-tabs__link {
   color: #154273 !important; /* Active color */

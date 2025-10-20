@@ -39,8 +39,36 @@
     transition: background-color 150ms ease-in-out;
 }
 
-.info-icon:hover {
+.info-icon:hover,
+.info-icon:focus {
     background-color: #b2d7ee;
+    outline: 2px solid #154273;
+    outline-offset: 2px;
+}
+
+/* Tooltip for info-icon elements */
+.info-icon[title]:hover::after,
+.info-icon[title]:focus::after {
+    content: attr(title);
+    position: absolute;
+    background-color: #154273;
+    color: white;
+    padding: 0.75em 1em;
+    border-radius: 0.25em;
+    font-size: 0.875em;
+    z-index: 1100;
+    max-width: 300px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    font-family: "Rijksoverheid Sans", sans-serif;
+    line-height: 1.4;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 0.5em;
+    white-space: normal;
+    /* Ensure tooltip doesn't interfere with navigation */
+    pointer-events: none;
+    font-weight: normal;
 }
 
 .tooltip {
@@ -69,15 +97,28 @@
     border-color: #154273 transparent transparent;
 }
 
-/* Accessible tooltips for abbreviations */
-abbr[title] {
+/* Accessible tooltips for all elements with title attributes */
+[title][tabindex="0"] {
     cursor: help;
+    position: relative;
+    outline-offset: 2px;
+}
+
+/* Special styling for abbreviations */
+abbr[title] {
     text-decoration: underline;
     text-decoration-style: dotted;
 }
 
-abbr[title]:hover::after,
-abbr[title]:focus::after {
+/* Focus states for all tooltip elements */
+[title][tabindex="0"]:focus {
+    outline: 2px solid #154273;
+    outline-offset: 2px;
+}
+
+/* Tooltip display for all elements with title */
+[title][tabindex="0"]:hover::after,
+[title][tabindex="0"]:focus::after {
     content: attr(title);
     position: absolute;
     background-color: #154273;
@@ -90,11 +131,20 @@ abbr[title]:focus::after {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
     font-family: "Rijksoverheid Sans", sans-serif;
     line-height: 1.4;
-    margin-top: 1.5em;
-    margin-left: 0.5em;
-    white-space: nowrap;
+    top: 100%;
+    left: 0;
+    margin-top: 0.5em;
+    white-space: normal;
+    /* Ensure tooltip doesn't interfere with navigation */
+    pointer-events: none;
+    font-weight: normal;
 }
 
+/* Special positioning for abbreviations */
+abbr[title][tabindex="0"]:hover::after,
+abbr[title][tabindex="0"]:focus::after {
+    white-space: nowrap;
+}
 .choices__button {
     content: '\00d7';
 }

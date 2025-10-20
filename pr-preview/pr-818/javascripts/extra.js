@@ -15,6 +15,10 @@
     // Handle MkDocs Material SPA navigation
     if (typeof document$ !== 'undefined') {
         document$.subscribe(function() {
+            // Reset focus to document body to ensure skiplink is first tab stop
+            document.body.setAttribute('tabindex', '-1');
+            document.body.focus();
+            
             // Small delay to ensure DOM is ready
             setTimeout(initialize, 100);
         });
@@ -78,9 +82,9 @@
     }
 
     function makeElementAccessibleGlobal(element) {
-        // Ensure tabindex is set
+        // Remove from tab order to avoid interfering with skiplink navigation
         if (!element.hasAttribute('tabindex')) {
-            element.setAttribute('tabindex', '0');
+            element.setAttribute('tabindex', '-1');
         }
         
         // Add keyboard event listeners for better accessibility

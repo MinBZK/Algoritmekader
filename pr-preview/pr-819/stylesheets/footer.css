@@ -31,7 +31,7 @@
   .md-footer__column a {
     color: #154273; /* Darker link color */
     text-decoration: underline;
-    font-size: 1.3em;
+    font-size: 1.7em;
     position: relative; /* Nodig voor positionering van de chevron */
   }
 

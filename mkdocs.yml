@@ -140,6 +140,7 @@ hooks:
     - src/overrides/hooks/tags.py
     - src/overrides/hooks/lists.py
     - src/overrides/hooks/definities.py
+    - src/overrides/hooks/security_txt.py
 
 # Link naar GitHub repo
 repo_url: https://github.com/MinBZK/Algoritmekader

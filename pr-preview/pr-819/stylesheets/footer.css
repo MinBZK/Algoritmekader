@@ -47,6 +47,28 @@
     color: #316fb3;
   }
 
+.is-external-link-icon {
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='15' aria-hidden='true'%3E%3Cpath fill='none' stroke='%23154273' stroke-linecap='round' d='M13.5 14.5v-5m-3-9h5m0 0v5m0-5-7 6m-3-5h-5m0 0v13m0 0h13'/%3E%3C/svg%3E") !important;
+  background-position: right center;
+  background-repeat: no-repeat;
+  background-size: 13px 12px;
+  padding-right: 1.25em !important;
+  text-decoration: underline !important;
+  display: inline !important;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
   /* Responsive Design */
   @media (max-width: 768px) {
     .md-footer__inner {

@@ -126,24 +126,47 @@ def _resolve_path(path: str, page: Page, files: Files):
 
 
 def _resolve(file: File, page: Page):
-    # Ensure file and page.file are valid objects with src_uri
+    # Ensure file and page.file are valid objects
     if not file or not page.file:
         print(
             f"Error: Invalid file or page when resolving. file={file}, page.file={page.file}"
         )
         return ""
 
-    path = posixpath.relpath(file.src_uri, page.file.src_uri)
-    return posixpath.sep.join(path.split(posixpath.sep)[1:])
+    # Use URL instead of src_uri to get the correct HTML path
+    if hasattr(file, 'url') and hasattr(page.file, 'url'):
+        # Calculate relative path from current page to target file
+        current_dir = posixpath.dirname(page.file.url)
+        target_url = file.url
+        
+        # Calculate relative path
+        if current_dir == "":
+            return target_url
+        else:
+            # Get relative path from current directory to target
+            return posixpath.relpath(target_url, current_dir)
+    else:
+        # Fallback to old method
+        path = posixpath.relpath(file.src_uri, page.file.src_uri)
+        return posixpath.sep.join(path.split(posixpath.sep)[1:])
 
 
-# Create badge
+# Create badge - keep original system but remove icon link, keep text link
 def _badge(icon: str, text: str = "", type: str = "", color: str = "blue"):
     classes = f"mdx-badge mdx-badge--{type}" if type else "mdx-badge"
+    
+    # Extract just the icon name without the link
+    icon_content = icon
+    if icon.startswith("[:") and "](" in icon:
+        # Parse [:icon-name:](href 'title') format and extract just the icon name
+        parts = icon[2:].split(":](",1)
+        if len(parts) >= 1:
+            icon_content = f":{parts[0]}:"
+    
     return "".join(
         [
             f'<span class="{classes}" data-md-color-accent="{color}">',
-            *([f'<span class="mdx-badge__icon">{icon}</span>'] if icon else []),
+            *([f'<span class="mdx-badge__icon">{icon_content}</span>'] if icon else []),
             *([f'<span class="mdx-badge__text">{text}</span>'] if text else []),
             "</span>",
         ]

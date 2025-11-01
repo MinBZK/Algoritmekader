@@ -1,0 +1,1127 @@
+<!DOCTYPE html><html lang="nl" class="no-js"><head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Het Algoritmekader van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties">
+      
+      
+      
+        <link rel="canonical" href="https://minbzk.github.io/Algoritmekader/pr-preview/pr-821/soorten-algoritmes-en-ai/geautomatiseerde-risicoselectie/">
+      
+      
+        <link rel="prev" href="../definities/">
+      
+      
+        <link rel="next" href="../generatieve-ai/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/favicon.ico">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.15+insiders-4.53.16">
+    
+    
+      
+        <title>Geautomatiseerde risicoselectie - Algoritmekader 2.2</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.8cce3a28.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+  
+  
+  
+  
+  <style>:root{--md-annotation-icon:url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%20512%20512%22%3E%3C%21--%21%20Font%20Awesome%20Free%206.7.2%20by%20%40fontawesome%20-%20https%3A//fontawesome.com%20License%20-%20https%3A//fontawesome.com/license/free%20%28Icons%3A%20CC%20BY%204.0%2C%20Fonts%3A%20SIL%20OFL%201.1%2C%20Code%3A%20MIT%20License%29%20Copyright%202024%20Fonticons%2C%20Inc.--%3E%3Cpath%20d%3D%22M256%20512a256%20256%200%201%200%200-512%20256%20256%200%201%200%200%20512m-40-176h24v-64h-24c-13.3%200-24-10.7-24-24s10.7-24%2024-24h48c13.3%200%2024%2010.7%2024%2024v88h8c13.3%200%2024%2010.7%2024%2024s-10.7%2024-24%2024h-80c-13.3%200-24-10.7-24-24s10.7-24%2024-24m40-208a32%2032%200%201%201%200%2064%2032%2032%200%201%201%200-64%22/%3E%3C/svg%3E');}</style>
+
+
+    
+    
+      
+    
+    
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/navigation.css">
+    
+      <link rel="stylesheet" href="../../stylesheets/filters.css">
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+      <link rel="stylesheet" href="../../stylesheets/footer.css">
+    
+      <link rel="stylesheet" href="../../stylesheets/all.min.css">
+    
+      <link rel="stylesheet" href="../../stylesheets/choices.min.css">
+    
+      <link rel="stylesheet" href="../../stylesheets/modal.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  <link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"><script src="../../assets/javascripts/glightbox.min.js"></script><style id="glightbox-style">
+            html.glightbox-open { overflow: initial; height: 100%; }
+            .gslide-title { margin-top: 0px; user-select: text; }
+            .gslide-desc { color: #666; user-select: text; }
+            .gslide-image img { background: white; }
+            .gscrollbar-fixer { padding-right: 15px; }
+            .gdesc-inner { font-size: 0.75rem; }
+            body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color); }
+            body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color); }
+            body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color); }
+        </style></head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#wat-is-geautomatiseerde-risicoselectie" class="md-skip">
+          Ga naar inhoud
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Algoritmekader 2.2" class="md-header__button md-logo" aria-label="Algoritmekader 2.2" data-md-component="logo">
+      <img src="../../assets/logo.svg" alt="Home Algoritmekader">
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"></path></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Algoritmekader 2.2
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Geautomatiseerde risicoselectie
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"></path></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Zoeken" placeholder="Zoeken" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"></path></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"></path></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Zoeken">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Leegmaken" aria-label="Leegmaken" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Zoeken initialiseren
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/MinBZK/Algoritmekader" title="Ga naar repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"></path></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Soorten algoritmes en AI
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../onderwerpen/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Onderwerpen
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../levenscyclus/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Levenscyclus
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../rollen/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Rollen
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../voldoen-aan-wetten-en-regels/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Voldoen aan wetten en regels
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../ai-verordening/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  AI-verordening
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigatie" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Algoritmekader 2.2" class="md-nav__button md-logo" aria-label="Algoritmekader 2.2" data-md-component="logo">
+      <img src="../../assets/logo.svg" alt="Home Algoritmekader">
+    </a>
+    Algoritmekader 2.2
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/MinBZK/Algoritmekader" title="Ga naar repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"></path></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Soorten algoritmes en AI
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../onderwerpen/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Onderwerpen
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../levenscyclus/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Levenscyclus
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../rollen/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rollen
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../voldoen-aan-wetten-en-regels/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Voldoen aan wetten en regels
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../ai-verordening/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    AI-verordening
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Inhoudsopgave">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhoudsopgave
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#kaders-begrippen-en-definities" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Kaders, begrippen en definities
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#verantwoord-gebruik-door-de-overheid" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Verantwoord gebruik door de overheid
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#belangrijkste-plichten-voor-overheden-die-geautomatiseerde-risicoselectie-gebruiken" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Belangrijkste plichten voor overheden die geautomatiseerde risicoselectie gebruiken
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#aanvullende-richtlijnen-voor-overheden-die-geautomatiseerde-risicoselectie-gebruiken" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Aanvullende richtlijnen voor overheden die geautomatiseerde risicoselectie gebruiken
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bronnen" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bronnen
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#help-ons-deze-pagina-te-verbeteren" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Help ons deze pagina te verbeteren
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+
+
+
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+<h1 id="wat-is-geautomatiseerde-risicoselectie">Wat is geautomatiseerde risicoselectie?</h1>
+<p>Geautomatiseerde risicoselectie helpt overheden om gerichter dossiers in beeld te brengen die extra aandacht nodig hebben, bijvoorbeeld voor het aanbieden van ondersteuning aan burgers bij aanvragen, het vroegtijdig corrigeren van fouten of het detecteren van misbruik of fraude met voorzieningen. Bij risicoselectie staat centraal dat algemene aannames worden toegepast op concrete gevallen. Op basis van criteria of ‘profielen’ worden dossiers ingedeeld in categorieën, waaraan vervolgens bepaalde handelingen worden gekoppeld, bijvoorbeeld de beslissing om een dossier wel of niet nader te bekijken. Risicoselectie kan gebaseerd zijn op een enkel criterium of op een set van criteria.</p>
+<p>Het gehanteerde <abbr title="Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden.">algoritme</abbr> kan een eenvoudige geprogrammeerde beslisboom zijn, een geavanceerd statistisch model of een <abbr title="Een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen or beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen.">AI-systeem</abbr>. Geautomatiseerde risicoselectie kan ook deels handmatig plaatsvinden, bijvoorbeeld in het geval dat na de geautomatiseerde risicoselectie een medewerker op basis van bepaalde criteria nader bekijkt welke dossiers in aanmerking komen voor behandeling.</p>
+<h2 id="kaders-begrippen-en-definities">Kaders, begrippen en definities</h2>
+<p>Risicoselectie wordt ook wel risicoprofilering genoemd. Er bestaan verschillende relevante kaders. Overheden moeten er in alle gevallen voor zorgen dat de inzet van risicoselectie in lijn is met het recht op non-discriminatie. Het College voor de Rechten van de Mens heeft het <a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/toetsingskader-risicoprofilering/">‘Toetsingskader risicoprofilering’</a> opgesteld ter voorkoming van discriminatie op grond van ras en nationaliteit. Wanneer persoonsgegevens worden verwerkt is (ook) de <abbr title="Algemene Verordening Gegevensbescherming.">AVG</abbr> van toepassing. De Autoriteit Persoonsgegevens (AP) heeft <a href="https://www.autoriteitpersoonsgegevens.nl/documenten/advies-geautomatiseerde-besluitvorming">in een advies</a> geduid hoe geautomatiseerde risicoselectie zich verhoudt tot de <abbr title="Algemene Verordening Gegevensbescherming.">AVG</abbr>, met name het verbod op volledig geautomatiseerde besluitvorming.</p>
+<p>De AP beschrijft geautomatiseerde risicoselectie als een specifieke toepassing van <abbr title="Elke vorm van geautomatiseerde verwerking van persoonsgegevens waarbij aan de hand van persoonsgegevens bepaalde persoonlijke aspecten van een natuurlijke persoon worden geëvalueerd, met name met de bedoeling zijn beroepsprestaties, economische situatie, gezondheid, persoonlijke voorkeuren, interesses, betrouwbaarheid, gedrag, locatie of verplaatsingen te analyseren of te voorspellen. Het gaat om een verwerking door een individu met gebruikmaking van diens persoonsgegevens in te delen in een categorie (profiel), vaak in verband met aan dat profiel toegedichte risico's.">profilering</abbr> in de zin van de <abbr title="Algemene Verordening Gegevensbescherming.">AVG</abbr> in de context van publieke dienstverlening. De <abbr title="Algemene Verordening Gegevensbescherming.">AVG</abbr> definieert <abbr title="Elke vorm van geautomatiseerde verwerking van persoonsgegevens waarbij aan de hand van persoonsgegevens bepaalde persoonlijke aspecten van een natuurlijke persoon worden geëvalueerd, met name met de bedoeling zijn beroepsprestaties, economische situatie, gezondheid, persoonlijke voorkeuren, interesses, betrouwbaarheid, gedrag, locatie of verplaatsingen te analyseren of te voorspellen. Het gaat om een verwerking door een individu met gebruikmaking van diens persoonsgegevens in te delen in een categorie (profiel), vaak in verband met aan dat profiel toegedichte risico's.">profilering</abbr> als een geautomatiseerde verwerking waarbij aan de hand van persoonsgegevens bepaalde persoonlijke aspecten van een natuurlijke persoon worden geëvalueerd, met name met de bedoeling om te analyseren of voorspellen.</p>
+<p>De AP licht toe dat een indeling van dossiers op basis van bepaalde kenmerken op zichzelf nog niet kwalificeert als <abbr title="Elke vorm van geautomatiseerde verwerking van persoonsgegevens waarbij aan de hand van persoonsgegevens bepaalde persoonlijke aspecten van een natuurlijke persoon worden geëvalueerd, met name met de bedoeling zijn beroepsprestaties, economische situatie, gezondheid, persoonlijke voorkeuren, interesses, betrouwbaarheid, gedrag, locatie of verplaatsingen te analyseren of te voorspellen. Het gaat om een verwerking door een individu met gebruikmaking van diens persoonsgegevens in te delen in een categorie (profiel), vaak in verband met aan dat profiel toegedichte risico's.">profilering</abbr> maar dat dit afhangt van het doel: er moet bij de selectie of categorisering sprake zijn van een zekere beoordeling van een persoon of dossier. Het College hanteert iets andere definities van <abbr title="Elke vorm van geautomatiseerde verwerking van persoonsgegevens waarbij aan de hand van persoonsgegevens bepaalde persoonlijke aspecten van een natuurlijke persoon worden geëvalueerd, met name met de bedoeling zijn beroepsprestaties, economische situatie, gezondheid, persoonlijke voorkeuren, interesses, betrouwbaarheid, gedrag, locatie of verplaatsingen te analyseren of te voorspellen. Het gaat om een verwerking door een individu met gebruikmaking van diens persoonsgegevens in te delen in een categorie (profiel), vaak in verband met aan dat profiel toegedichte risico's.">profilering</abbr> en risicoprofilering dan de <abbr title="Algemene Verordening Gegevensbescherming.">AVG</abbr> en de AP, omdat zijn toetsingskader zich toespitst op risicoselectie in de context van opsporings- of controlebevoegdheden.</p>
+<h2 id="verantwoord-gebruik-door-de-overheid">Verantwoord gebruik door de overheid</h2>
+<p>Risicoselectie helpt overheden om de beschikbare capaciteit voor publieke dienstverlening gerichter in te zetten, maar het kent ook <abbr title="De combinatie van de kans op schade en de ernst van die schade.">risico</abbr>’s. Doordat risicoselectie altijd onderscheid maakt, is er een <abbr title="De combinatie van de kans op schade en de ernst van die schade.">risico</abbr> op het schenden van het recht op non-discriminatie. Wanneer de risicoselectie is gebaseerd op persoonsgegevens moeten overheden aandacht hebben voor het recht op privacy en het recht op bescherming van persoonsgegevens.</p>
+<p>Het is op grond van de <abbr title="Algemene Verordening Gegevensbescherming.">AVG</abbr> niet toegestaan om op basis van <abbr title="Elke vorm van geautomatiseerde verwerking van persoonsgegevens waarbij aan de hand van persoonsgegevens bepaalde persoonlijke aspecten van een natuurlijke persoon worden geëvalueerd, met name met de bedoeling zijn beroepsprestaties, economische situatie, gezondheid, persoonlijke voorkeuren, interesses, betrouwbaarheid, gedrag, locatie of verplaatsingen te analyseren of te voorspellen. Het gaat om een verwerking door een individu met gebruikmaking van diens persoonsgegevens in te delen in een categorie (profiel), vaak in verband met aan dat profiel toegedichte risico's.">profilering</abbr> volledig geautomatiseerd besluiten te nemen die rechtsgevolgen of aanmerkelijke effecten hebben voor natuurlijke personen. Daar is een <a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/1-pba-05-wettelijke-grondslag/">specifieke wettelijke grondslag</a> voor nodig. Wanneer deze ontbreekt kan geautomatiseerde risicoselectie enkel gebruikt worden om te beoordelen of acties jegens betrokkene nodig zijn, zoals navraag doen of informatie verzamelen. Eventuele rechtsgevolgen of aanmerkelijke effecten voor betrokkenen mogen pas tot stand komen na <a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/6-imp-03-menselijke-tussenkomst/">betekenisvolle menselijke tussenkomst</a>. Het delen of bewaren van risicoselecties voor andere doeleinden zal al snel aanmerkelijke effecten tot gevolg hebben.</p>
+<p>Het spreekt voor zich dat geautomatiseerde risicoselectie alleen kan worden ingezet indien dit in lijn is met wettelijke vereisten en <a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/2-owp-07-afwegen-grondrechten/">de grondrechten gerespecteerd worden</a>. De hierboven genoemde kaders van de Autoriteit Persoonsgegevens en het College voor de Rechten van de Mens helpen om hieraan te voldoen. Daarnaast hebben de Eerste Kamer en Tweede Kamer verzocht om een aantal aanvullende waarborgen. Deze pagina geeft een overzicht van de belangrijkste plichten en aanvullende richtlijnen voor verantwoord gebruik van geautomatiseerde risicoselectie door overheden.</p>
+<h2 id="belangrijkste-plichten-voor-overheden-die-geautomatiseerde-risicoselectie-gebruiken">Belangrijkste plichten voor overheden die geautomatiseerde risicoselectie gebruiken</h2>
+<ul>
+<li><a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/">Voldoe aan bestaande wetgeving</a> (zoals de Grondwet, anti-discriminatiewetgeving, de <abbr title="Algemene Verordening Gegevensbescherming.">AVG</abbr> en de AI-verordening).</li>
+<li>Wanneer voor geautomatiseerde risicoselectie persoonsgegevens worden verwerkt, is sprake van een hoog-risicoverwerking (evaluatie of scoretoekenning). <a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/avg-13-dpia-verplicht/">Het uitvoeren van een DPIA is verplicht.</a></li>
+<li>De verwerking van persoonsgegevens moet <a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/avg-07-transparantie-bij-verwerken-persoonsgegevens/">transparant</a> zijn: vermeld dit in de <a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/6-imp-05-vermelding-in-privacyverklaring/">privacyverklaring</a> en het <a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/6-imp-07-vermelding-in-verwerkingsregister/">verwerkingsregister</a> van je organisatie.</li>
+</ul>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>De <abbr title="Algemene Verordening Gegevensbescherming.">AVG</abbr> verplicht organisaties om personen te informeren over de verwerking van persoonsgegevens. De AP <a href="https://autoriteitpersoonsgegevens.nl/themas/basis-avg/privacyrechten-avg/recht-op-informatie#voor-organisaties-informatieplicht-avg">adviseert</a> om dit te doen in een online privacyverklaring. Op de website van de AP staat welke informatie in de privacyverklaring moet staan. Informatie over verwerkingen voor geautomatiseerde risicoselectie kunnen bijvoorbeeld op de volgende wijze worden vermeld:</p>
+<p><i>[Organisatie] verwerkt persoonsgegevens voor geautomatiseerde risicoselectie. Het doel van de geautomatiseerde risicoselectie is [invullen]. De wettelijke grondslag om hiervoor persoonsgegevens te verwerken is [invullen]. Geautomatiseerde risicoselectie wordt alleen gebruikt om dossiers of aanvragen te selecteren die extra aandacht nodig hebben van een medewerker. Eventuele besluiten worden altijd genomen door een medewerker.</i></p>
+</div>
+<ul>
+<li>Het <abbr title="De combinatie van de kans op schade en de ernst van die schade.">risico</abbr> op <a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/grw-02-non-discriminatie/index.html">discriminatie</a> moet voorafgaand aan de inzet worden onderzocht en ondervangen en na ingebruikname periodiek worden onderzocht. Het gebruik van ‘ras’ (huidskleur, etniciteit en nationale of etnische herkomst) als selectiecriterium is altijd verboden bij risicoselectie ten behoeve van gerichte controle op normovertreding.</li>
+<li>Eventuele rechtsgevolgen of andere aanmerkelijke effecten mogen pas intreden na <a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/6-imp-03-menselijke-tussenkomst/">betekenisvolle menselijke tussenkomst</a> tussen de selectie van een dossier als <abbr title="De combinatie van de kans op schade en de ernst van die schade.">risico</abbr> en een eventueel besluit. Raadpleeg de handvatten die de AP heeft opgesteld.</li>
+<li>Indien geautomatiseerde risicoselectie een rol speelde voorafgaand aan of in de voorbereidende fase van een <abbr title="Algemene wet bestuursrecht.">Awb</abbr>-besluit, moet dit uiterlijk in het besluit aan betrokkene <a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/awb-02-motiveringsbeginsel/index.html">kenbaar worden gemaakt</a>.</li>
+<li>Wanneer een <abbr title="Een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen or beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen.">AI-systeem</abbr> wordt ingezet voor geautomatiseerde risicoselectie, kan sprake zijn van een hoog-<abbr title="De combinatie van de kans op schade en de ernst van die schade.">risico</abbr> <abbr title="Een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen or beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen.">AI-systeem</abbr> onder de AI-verordening. In dat geval gelden extra vereisten, zoals het uitvoeren van een mensenrechtenimpactassessment. Gebruik de <a href="https://minbzk.github.io/Algoritmekader/ai-verordening/">beslishulp AI-verordening</a> om te bepalen wat er in jouw situatie van toepassing is.</li>
+</ul>
+<h2 id="aanvullende-richtlijnen-voor-overheden-die-geautomatiseerde-risicoselectie-gebruiken">Aanvullende richtlijnen voor overheden die geautomatiseerde risicoselectie gebruiken</h2>
+<ul>
+<li>Ook indien geen sprake is van een hoog-<abbr title="De combinatie van de kans op schade en de ernst van die schade.">risico</abbr> <abbr title="Een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen or beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen.">AI-systeem</abbr>, is het sterk aanbevolen om een mensenrechtenimpactassessment (bijvoorbeeld <a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/IAMA/index.html">het IAMA</a> uit te voeren en deze periodiek te herhalen en publiceren. Neem indien nodig preventieve en mitigerende maatregelen.</li>
+<li>Het uitgangspunt is dat geautomatiseerde risicoselectie-algoritmen worden gepubliceerd in <a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/bzk-01-algoritmeregister/index.html">het Algoritmeregister</a>. Als deze algoritmen niet in categorie A (hoog-<abbr title="De combinatie van de kans op schade en de ernst van die schade.">risico</abbr> AI) vallen, vallen ze in categorie B (impactvolle algoritmen). Er kunnen redenen zijn om het <abbr title="Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden.">algoritme</abbr> of de gehanteerde criteria niet of slechts gedeeltelijk te publiceren; raadpleeg de handreiking. Licht in het register toe hoe wordt voldaan aan de wettelijke vereisten en de waarborgen voor geautomatiseerde risicoselectie zoals geadviseerd door de AP.</li>
+</ul>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>Geef in het Algoritmeregister bij de volgende velden aan hoe de inzet van geautomatiseerde risicoselectie voldoet aan de wettelijke vereisten en de waarborgen:</p>
+<ul>
+<li>Wettelijke basis: noem de wettelijke grondslag voor het doel waarvoor de geautomatiseerde risicoselectie wordt gebruikt en voor verwerking van de (persoons)gegevens.</li>
+<li>Risicobeheer: beschrijf in elk geval hoe de <abbr title="De combinatie van de kans op schade en de ernst van die schade.">risico</abbr>’s op discriminatie zijn onderzocht en ondervangen.</li>
+<li>Menselijke tussenkomst: beschrijf hoe de uitkomsten door een mens gebruikt worden en hoe betekenisvolle menselijke tussenkomst tussen de risicoselectie en eventuele besluitvorming met rechtsgevolgen of aanmerkelijke effecten is gewaarborgd.</li>
+<li>Impacttoetsen: geef aan dat een IAMA en, indien van toepassing, een DPIA zijn uitgevoerd en voeg een link toe naar de documenten.</li>
+</ul>
+</div>
+<ul>
+<li>Documenteer bij de inzet van geautomatiseerde risicoselectie de onderliggende besluitvorming over en verantwoording van het doel en de ontwikkeling van het model, de verantwoording van de gebruikte data en selectiecriteria, en de wijze waarop de waarborgen worden getroffen.</li>
+<li>Gebruik naast geautomatiseerde risicoselectie ook aselecte steekproeven om dossiers te selecteren. Dit helpt om tunnelvisie en een zelfversterkende feedbackloop tegen te gaan.</li>
+</ul>
+<div class="admonition example">
+<p class="admonition-title">Voorbeeld: RDI - Metrologie KDW</p>
+<p>Door mogelijke statistische patronen in historische inspecties kan het <abbr title="Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden.">algoritme</abbr> bias vertonen in <abbr title="De combinatie van de kans op schade en de ernst van die schade.">risico</abbr>-inschattingen, omdat een groot deel van de gegevens gebruikt voor training afkomstig zijn van deze historische inspecties. Om dit <abbr title="De combinatie van de kans op schade en de ernst van die schade.">risico</abbr> te mitigeren zijn een aantal maatregelen geïmplementeerd, waaronder: 50% van alle inspecties worden uitgevoerd op basis van willekeur, dus niet op basis van het <abbr title="Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden.">algoritme</abbr>.</p>
+<p>Bron: <a href="https://algoritmes.overheid.nl/nl/algoritme/oorg10219/24546355/metrologie-kw#verantwoordGebruik">Algoritmeregister - Metrologie KDW</a></p>
+</div>
+<div class="admonition example">
+<p class="admonition-title">Voorbeeld: Inspectie Onderwijs - Prestatiemonitor</p>
+<p>Omdat instellingen met hogere risicoscores vaker onderzocht worden, kan verkeerde risicoschatting ook blijven doorwerken (tunnelvisie). Daarom zijn we sinds september 2023 gestart met onderzoeken op locatie bij willekeurig geselecteerde onderwijsinstellingen. Hiermee kunnen we de kwaliteit van risicoschatting nog beter evalueren. Willekeurige selectie helpt namelijk bij het voorkomen van tunnelvisie.</p>
+<p>Bron: <a href="https://algoritmes.overheid.nl/nl/algoritme/oorg12355/79978718/prestatiemonitor#verantwoordGebruik">Algoritmeregister - Prestatiemonitor</a></p>
+</div>
+<ul>
+<li>Zorg ervoor dat de risicoselectie geen invloed heeft op de inhoudelijke beoordeling van een dossier. De risicoselectie is een aanleiding voor verdere behandeling, maar zegt op zichzelf niets over een individuele casus. Neem maatregelen om bias, vooringenomenheid en tunnelvisie tegen te gaan.</li>
+</ul>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>Een <abbr title="Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden.">algoritme</abbr> kan de menselijke beoordelaar beïnvloeden, onder meer wanneer mensen te veel vertrouwen op de output van een <abbr title="Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden.">algoritme</abbr> (automation bias). De AP heeft handvatten opgesteld voor betekenisvolle menselijke tussenkomst, onder meer om automation bias tegen te gaan, zoals:
+* Zorg ervoor dat dossiers via verschillende routes aan medewerkers worden voorgelegd, zowel op basis van risicoselectie als op basis van een aselecte steekproef.
+* Een mogelijkheid is om medewerkers dossiers ‘blind’ te laten beoordelen, waarbij de medewerker geen kennis heeft van de wijze waarop een dossier is geselecteerd voor behandeling (risicoselectie of willekeurig). Een nadeel hiervan is dat de medewerker de risicoselectie zelf niet kan controleren. In hoeverre dit een optie is hangt af van het proces waarvoor de risicoselectie wordt ingezet.
+* Indien ‘blinde’ beoordeling niet mogelijk of onwenselijk is, dan is het zaak om goed na te denken over de manier waarop de risicoselectie aan de medewerker wordt gepresenteerd. Zorg voor een neutrale interface, bedenk of het noodzakelijk is om een score of risicocategorie te presenteren en stimuleer eigen onderzoek van de medewerker. Test wat het effect is van de verschillende manieren waarop de informatie aan medewerkers wordt voorgelegd en overweeg wat de beste optie is. Blijf mogelijke automation bias na invoering van de risicoselectie monitoren.</p>
+<p>Bron: <a href="https://autoriteitpersoonsgegevens.nl/documenten/handvatten-betekenisvolle-menselijke-tussenkomst">AP handvatten, hoofdstuk 2 'Technologie en ontwerp'</a></p>
+</div>
+<div class="admonition example">
+<p class="admonition-title">Voorbeeld van blind beoordelen: UWV - risicoscan verwijtbare werkeloosheid</p>
+<p>Uit de risicoscan komt een selectie van signalen die medewerkers verder onderzoeken. Aan deze selectie wordt altijd een aantal (30%) willekeurig gekozen WW-aanvragen toegevoegd. De medewerker weet dus niet of een signaal uit de risicoscan komt of uit de aanvragen die willekeurig zijn toegevoegd. Zo zorgen we ervoor dat medewerkers niet worden beïnvloed en kritisch blijven op situaties die zij moeten onderzoeken.</p>
+<p>Bron: <a href="https://algoritmes.overheid.nl/nl/algoritme/zb000117/15759870/risicoscan-verwijtbare-werkloosheid#verantwoordGebruik">Algoritmeregister - Risicoscan verwijtbare werkeloosheid</a></p>
+</div>
+<div class="admonition example">
+<p class="admonition-title">Voorbeeld van blind beoordelen: CIBG - selectiemodel BIG herregistratie</p>
+<p>Een zorgverlener die de BIG herregistratie aanvraagt, hoeft deze aanvraag niet altijd met bewijsstukken te onderbouwen. Er wordt een willekeurige en gerichte steekproef uitgevoerd. Bij de gerichte steekproef zet het BIG-register een <abbr title="Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden.">algoritme</abbr> in. Het is voor de medewerkers die de bewijsstukken beoordelen niet inzichtelijk of de betreffende aanvraag in de willekeurige of gerichte selectie is gevallen. Dit om te voorkomen dat zij onbewust worden beïnvloed door deze informatie.</p>
+<p>Bron: <a href="https://algoritmes.overheid.nl/nl/algoritme/oorg10112/59917797/selectiemodel-big-herregistratie#verantwoordGebruik">Algoritmeregister - Selectiemodel BIG herregistratie</a></p>
+</div>
+<ul>
+<li>Stel een <a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/0-org-15-discriminatieprotocol/">discriminatieprotocol</a> vast voor de situatie dat er (een vermoeden van) discriminatie door een <abbr title="Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden.">algoritme</abbr> is geconstateerd en pas dit wanneer nodig toe.</li>
+</ul>
+<h2 id="bronnen">Bronnen</h2>
+<ul>
+<li><a href="https://publicaties.mensenrechten.nl/publicatie/4093c026-ae41-4c1d-aa78-4ce0e205b5de">Toetsingskader risicoprofilering – Normen tegen discriminatie op grond van ras en nationaliteit, College voor de Rechten van de Mens</a></li>
+<li><a href="https://www.autoriteitpersoonsgegevens.nl/documenten/advies-geautomatiseerde-besluitvorming">Autoriteit Persoonsgegevens, advies artikel 22 <abbr title="Algemene Verordening Gegevensbescherming.">AVG</abbr> en geautomatiseerde selectietechnieken, 2024</a></li>
+<li><a href="https://www.autoriteitpersoonsgegevens.nl/documenten/rapportage-ai-algoritmerisicos-nederland-ran-voorjaar-2024">Autoriteit Persoonsgegevens, Rapportage AI- en algoritmerisico’s Nederland (RAN), zomer 2024, hoofdstuk 4</a></li>
+<li><a href="https://autoriteitpersoonsgegevens.nl/documenten/handvatten-betekenisvolle-menselijke-tussenkomst">Autoriteit Persoonsgegevens, 2025, Handvatten betekenisvolle menselijke tussenkomst</a></li>
+<li><a href="https://www.rijksoverheid.nl/documenten/kamerstukken/2024/12/03/kabinetsreacties-ap-advies-inzake-geautomatiseerde-selectie-instrumenten">Kabinetsreactie AP-advies over artikel 22 <abbr title="Algemene Verordening Gegevensbescherming.">AVG</abbr> en geautomatiseerde selectie-instrumenten</a></li>
+<li><a href="https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes">Impact Assessment Mensenrechten en Algoritmes</a></li>
+<li><a href="https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/handreiking-non-discriminatie/">Handreiking non-discriminatie by design</a></li>
+</ul>
+<h2 id="help-ons-deze-pagina-te-verbeteren">Help ons deze pagina te verbeteren</h2>
+<p>Deel je idee, suggestie of opmerking <a href="https://github.com/MinBZK/Algoritmekader/issues/new/choose">via GitHub</a> of mail ons via algoritmes@minbzk.nl.</p>
+
+
+
+
+
+
+
+  
+    
+  
+  
+    
+  
+
+
+  <aside class="md-source-file">
+    
+      
+  <span class="md-source-file__fact">
+    <span class="md-icon" title="Laatst geüpdatet">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"></path></svg>
+    </span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="22 september 2025 17:06:24 CEST">22 september 2025</span>
+  </span>
+
+    
+    
+      
+  <span class="md-source-file__fact">
+    <span class="md-icon" title="Gecreëerd">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.47 15.08 11 13V7h1.5v5.25l3.08 1.83c-.41.28-.79.62-1.11 1m-1.39 4.84c-.36.05-.71.08-1.08.08-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8c0 .37-.03.72-.08 1.08.69.1 1.33.32 1.92.64.1-.56.16-1.13.16-1.72 0-5.5-4.5-10-10-10S2 6.5 2 12s4.47 10 10 10c.59 0 1.16-.06 1.72-.16-.32-.59-.54-1.23-.64-1.92M18 15v3h-3v2h3v3h2v-3h3v-2h-3v-3z"></path></svg>
+    </span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="15 september 2025 14:20:30 CEST">15 september 2025</span>
+  </span>
+
+    
+    
+    
+  </aside>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"></path></svg>
+  Terug naar boven
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+    <div class="md-footer__inner">
+      <div class="md-footer__column">
+      </div>
+      <div class="md-footer__column">
+
+      </div>
+      <!-- Column 1: Internal Links -->
+      <div class="md-footer__column">
+        <a href="../../over-het-algoritmekader/CONTRIBUTING/#ik-heb-een-vraag">Contact</a>
+        <a href="../../over-het-algoritmekader/over-het-algoritmekader">Over het Algoritmekader</a>
+        <a href="../../over-het-algoritmekader/veelgestelde-vragen">Veelgestelde vragen</a>
+        <a href="../../over-het-algoritmekader/sitemap">Sitemap</a>
+      </div>
+      <!-- Column 2: Policy Pages -->
+      <div class="md-footer__column">
+        <a href="../../over-het-algoritmekader/privacy">Privacy</a>
+        <a href="../../over-het-algoritmekader/cookies">Cookies</a>
+        <a href="../../over-het-algoritmekader/copyright">Copyright</a>
+        <a href="../../over-het-algoritmekader/toegankelijkheid">Toegankelijkheid</a>
+        <a href="../../over-het-algoritmekader/kwetsbaarheid-melden">Kwetsbaarheid melden</a>
+        <a class="is-external-link-icon" href="https://github.com/MinBZK/Algoritmekader/releases" target="_blank"><span class="visually-hidden">Link naar externe pagina</span>Releasenotes op Github</a>
+      </div>
+      <!-- Column 3: External Government Links -->
+      <div class="md-footer__column">
+        <a class="is-external-link-icon" href="https://overheid.nl/" target="_blank"><span class="visually-hidden">Link naar externe pagina</span>Overheid.nl</a>
+        <a class="is-external-link-icon" href="https://www.rijksoverheid.nl/" target="_blank"><span class="visually-hidden">Link naar externe pagina</span>Rijksoverheid.nl</a>
+        <a class="is-external-link-icon" href="https://www.digitaleoverheid.nl/" target="_blank"><span class="visually-hidden">Link naar externe pagina</span>Digitale Overheid</a>
+        <a class="is-external-link-icon" href="https://data.overheid.nl/" target="_blank"><span class="visually-hidden">Link naar externe pagina</span>Data.overheid.nl</a>
+        <a class="is-external-link-icon" href="https://aienalgoritmes.pleio.nl/" target="_blank"><span class="visually-hidden">Link naar externe pagina</span>aienalgoritmes.pleio.nl</a>
+      </div>
+    </div>
+  </footer>
+<div id="modal" class="minbzk-modal display-none">
+  <div class="modal-underlay" onclick="closeModal()"></div>
+  <div class="modal-content-container" id="modal-content-container">
+    <div class="modal-content-close" onclick="closeModal()">×</div>
+    <div class="modal-content" id="modal-content">
+  </div>
+  </div>
+</div>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.indexes", "navigation.tabs", "navigation.top", "navigation.tracking", "navigation.instant", "navigation.footer", "navigation.prune", "navigation.path", "search.highlight", "search.suggest", "content.tooltips", "content.tabs.link"], "search": "../../assets/javascripts/workers/search.ad38c271.min.js", "tags": null, "translations": {"clipboard.copied": "Gekopieerd naar klembord", "clipboard.copy": "Kopi\u00ebren naar klembord", "search.result.more.one": "1 extra overeenkomst op deze pagina", "search.result.more.other": "# extra overeenkomsten op deze pagina", "search.result.none": "Geen overeenkomende documenten", "search.result.one": "1 overeenkomende document", "search.result.other": "# overeenkomende documenten", "search.result.placeholder": "Typ om te beginnen met zoeken", "search.result.term.missing": "Ontbreekt", "select.version": "Selecteer versie"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.b66b2b78.min.js"></script>
+      
+        <script src="../../javascripts/jquery-3.6.0.min.js"></script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+      
+        <script src="../../javascripts/exportExcel.js"></script>
+      
+        <script src="../../javascripts/choices.min.js"></script>
+      
+        <script src="../../javascripts/tablesort.min.js"></script>
+      
+        <script src="../../javascripts/tablesort.js"></script>
+      
+        <script src="../../javascripts/filtering.js"></script>
+      
+        <script src="../../javascripts/mermaid.min.js"></script>
+      
+        <script src="../../javascripts/modal.js"></script>
+      
+        <script src="../../javascripts/extra.js"></script>
+      
+    
+  
+<script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(()=>{ lightbox.reload(); });
+</script></body></html>

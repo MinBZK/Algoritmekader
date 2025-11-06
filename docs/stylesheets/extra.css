@@ -126,6 +126,7 @@ tbody tr td a:hover {
   --md-accent-fg-color: #316fb3!important;
 }
 
+
 .md-typeset .admonition.simple,
 .md-typeset details.simple {
   border-color: rgb(5, 80, 141);
@@ -456,8 +457,8 @@ padding-bottom: 8px;
 
 .md-typeset h1{
   margin: 0.6em 0 .4em 0;
-  font-size: 2.8em;
-  font-weight: 600;
+  font-size: 2.2em;
+  font-weight: 700;
   line-height: 1em;
 }
 

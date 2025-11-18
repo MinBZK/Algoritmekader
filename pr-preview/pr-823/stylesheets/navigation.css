@@ -134,7 +134,7 @@ h1{
 .md-search__input{
   background: #fff;
   color: #154273;
-  border: 1px solid #154273;
+  border: 1px solid white;
   border-radius: 2px;
   outline: none;
 }

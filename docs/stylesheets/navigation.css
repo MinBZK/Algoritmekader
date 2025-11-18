@@ -244,8 +244,8 @@ h1{
   }
 }
 
-/* Force hide navigation tabs at 800px and below */
-@media screen and (max-width: 800px) {
+/* Force hide navigation tabs at 600px and below */
+@media screen and (max-width: 600px) {
   .md-tabs {
     display: none !important;
     visibility: hidden !important;
@@ -261,8 +261,8 @@ h1{
   }
 }
 
-/* Hide logo only at 800px and below */
-@media screen and (max-width: 800px) {
+/* Hide logo only at 600px and below */
+@media screen and (max-width: 600px) {
   .md-header__button.md-logo {
     display: none !important;
   }

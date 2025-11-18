@@ -271,8 +271,8 @@ h1{
   }
 }
 
-/* Hide hamburger menu above 600px */
-@media screen and (min-width: 601px) {
+/* Hide hamburger menu above 1280px */
+@media screen and (min-width: 1281px) {
   .md-header__button.md-icon--menu {
     display: none !important;
   }

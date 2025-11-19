@@ -1,13 +1,24 @@
-/* Bestaande CSS voor fonts, badges en andere componenten */
+/* Updated to match Algoritmeregister styling and design patterns */
 
-/* Tabs Styling */
+:root {
+  /* Algoritmeregister color scheme */
+  --primary-blue: #154273;
+  --light-blue: #b2d7ee;
+  --neutral-gray: #e6e6e6;
+  --dark-gray: #333;
+  --text-color: #154273;
+  --white: #fff;
+}
+
+/* Tabs Styling - Updated to match Algoritmeregister */
 .md-tabs {
-  background-color: #007bc7;
-  color: white !important;
-  border-bottom: 6px solid #B2D7EE;
+  background-color: var(--primary-blue);
+  color: var(--white) !important;
+  border-bottom: 6px solid var(--light-blue);
   min-height: 40px;
   display: flex;
   position: static;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
 .md-tabs__list {
@@ -32,8 +43,8 @@
 }
 
 .md-tabs .md-grid {
-  background-color: #007bc7;
-  color: white;
+  background-color: var(--primary-blue);
+  color: var(--white);
   margin-left: auto;
   margin-right: auto;
   padding-left: 1.2rem;
@@ -42,7 +53,7 @@
 }
 
 .md-tabs__item--active {
-  background-color: #B2D7EE;
+  background-color: var(--light-blue);
 }
 
 .md-tabs__link {
@@ -98,7 +109,7 @@ h1{
 /* Ensure hover effect is applied to the link itself */
 .md-tabs__list .md-tabs__item .md-tabs__link:hover {
   color: #154273 !important; /* Same color as active */
-  background-color: #B2D7EE !important;
+  background-color: #b2d7ee !important;
 }
 
 /* Apply color and background on both link and item on hover */
@@ -106,7 +117,7 @@ h1{
 .md-tabs__item:hover .md-tabs__link,
 .md-tabs__link:hover {
   color: #154273 !important; /* Set text color to blue */
-  background-color: #B2D7EE !important; /* Set background color to light blue */
+  background-color: #b2d7ee !important; /* Set background color to light blue */
 }
 
 .md-tabs__item:hover .md-tabs__link {
@@ -114,14 +125,14 @@ h1{
 }
 
 .md-tabs__item:hover {
-  background-color: #B2D7EE !important;
+  background-color: #b2d7ee !important;
   color: #154273 !important;
 }
 
 /* Active tab styling - only for actually active pages, not focus */
 .md-tabs .md-tabs__list .md-tabs__item--active .md-tabs__link {
   color: #154273 !important; /* Active color */
-  background-color: #B2D7EE !important; /* Active background */
+  background-color: #b2d7ee !important; /* Active background */
 }
 
 /* Only override text color on focus, let browser handle outline */

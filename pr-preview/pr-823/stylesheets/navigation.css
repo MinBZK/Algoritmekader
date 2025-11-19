@@ -293,18 +293,25 @@ h1{
   }
 }
 
-/* Hide hamburger menu above 800px - High specificity override */
+/* NUCLEAR CSS - Hide hamburger menu above 800px with maximum specificity */
 @media screen and (min-width: 801px) {
-  .md-header .md-header__inner .md-header__button[for="__drawer"] {
+  html body .md-container .md-header .md-header__inner .md-header__button[for="__drawer"],
+  html body .md-container .md-header .md-header__inner .md-header__button.md-icon--menu,
+  html body .md-container .md-header .md-header__inner .md-nav__button,
+  html body .md-container .md-header .md-header__inner button[for="__drawer"],
+  html body .md-container .md-header button,
+  html body .md-header button[type="button"] {
     display: none !important;
     visibility: hidden !important;
     opacity: 0 !important;
     pointer-events: none !important;
-  }
-  .md-header .md-header__inner .md-header__button.md-icon--menu {
-    display: none !important;
-    visibility: hidden !important;
-    opacity: 0 !important;
+    position: absolute !important;
+    left: -9999px !important;
+    top: -9999px !important;
+    width: 0 !important;
+    height: 0 !important;
+    overflow: hidden !important;
+    clip: rect(0,0,0,0) !important;
   }
 }
 

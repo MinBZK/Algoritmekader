@@ -264,8 +264,8 @@ h1{
   }
 }
 
-/* Keep logo visible until exactly 600px */
-@media screen and (min-width: 601px) {
+/* Keep logo visible until exactly 800px */
+@media screen and (min-width: 801px) {
   .md-header__button.md-logo {
     display: inline-block !important;
   }
@@ -282,8 +282,8 @@ h1{
   }
 }
 
-/* Hide logo only at 600px and below */
-@media screen and (max-width: 600px) {
+/* Hide logo only at 800px and below */
+@media screen and (max-width: 800px) {
   .md-header__button.md-logo {
     display: none !important;
   }

@@ -1,13 +1,19 @@
 /* Updated to match Algoritmeregister styling and design patterns */
 
 :root {
-  /* Algoritmeregister color scheme */
-  --primary-blue: #154273;
+  /* Algoritmeregister color scheme - CORRECTED */
+  --primary-blue: #007bc7;
+  --dark-blue: #154273;
   --light-blue: #b2d7ee;
-  --neutral-gray: #e6e6e6;
+  --bg-light-blue: #e5f1f9;
+  --bg-very-light-blue: #f2f8fc;
+  --neutral-gray: #f3f3f3;
   --dark-gray: #333;
+  --muted-gray: #555;
   --text-color: #154273;
   --white: #fff;
+  --orange-accent: #e17000;
+  --green-accent: #39870c;
 }
 
 /* Tabs Styling - Updated to match Algoritmeregister */
@@ -116,8 +122,8 @@ h1{
 .md-tabs__item:hover,
 .md-tabs__item:hover .md-tabs__link,
 .md-tabs__link:hover {
-  color: #154273 !important; /* Set text color to blue */
-  background-color: #b2d7ee !important; /* Set background color to light blue */
+  color: var(--dark-blue) !important; /* Set text color to blue */
+  background-color: var(--light-blue) !important; /* Set background color to light blue */
 }
 
 .md-tabs__item:hover .md-tabs__link {

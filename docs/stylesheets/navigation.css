@@ -1,5 +1,10 @@
 /* Updated to match Algoritmeregister styling and design patterns */
 
+/* Adjust root font size to match Algoritmeregister visual scale */
+html {
+  font-size: 14px; /* Smaller than default 16px to make rem values appear smaller */
+}
+
 :root {
   /* Algoritmeregister color scheme - CORRECTED */
   --primary-blue: #007bc7;
@@ -68,7 +73,7 @@
   opacity: 100%;
   padding: 0rem 0.15rem;
   margin: auto 0;
-  font-size: 0.875rem;
+  font-size: 1.125rem;
   white-space: nowrap;
   line-height: 44px;
   height: 44px;

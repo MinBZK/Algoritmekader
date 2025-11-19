@@ -167,6 +167,48 @@ h1{
   color: #154273;
 }
 
+/* Search responsive behavior - consistent with 800px breakpoint */
+@media screen and (max-width: 800px) {
+  .md-search {
+    order: -1; /* Move search to beginning on mobile */
+  }
+  
+  .md-search__form {
+    background-color: transparent;
+    border-radius: 0;
+    box-shadow: none;
+  }
+  
+  .md-search__input {
+    background: transparent;
+    border: none;
+    border-radius: 0;
+    color: inherit;
+    font-size: .9rem;
+    padding: 0 2.2rem 0 3.6rem;
+    width: 100%;
+  }
+  
+  .md-search__input::placeholder {
+    color: inherit;
+    opacity: 0.7;
+  }
+}
+
+@media screen and (min-width: 801px) {
+  .md-search__input {
+    background: #fff;
+    color: #154273;
+    border: 1px solid white;
+    border-radius: 2px;
+  }
+  
+  .md-search__input::placeholder {
+    color: transparent;
+    opacity: 0;
+  }
+}
+
 .md-typeset a {
   color: #154273;
 }

@@ -40,7 +40,8 @@ jobs:
       - name: install dependencies
         if: github.event.action != 'closed'
         run: |
-          pip install -r requirements.txt
+          git config --global url."https://github-actions:${{ secrets.MATERIAL_INSIDERS_TOKEN }}@github".insteadOf ssh://git@github
+          pip install -r requirements-prod.txt
           
       - name: Log package versions
         if: github.event.action != 'closed'

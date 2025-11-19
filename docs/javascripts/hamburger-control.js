@@ -1,20 +1,32 @@
 // Force hide hamburger menu above 800px - Aggressive override for Material Insiders
 function controlHamburgerMenu() {
     function findAndHideHamburger() {
-        const hamburgers = document.querySelectorAll('.md-header__button[for="__drawer"], .md-header__button.md-icon--menu, .md-nav__button');
+        // Even more aggressive selector search
+        const selectors = [
+            '.md-header__button[for="__drawer"]',
+            '.md-header__button.md-icon--menu', 
+            '.md-nav__button',
+            'button[for="__drawer"]',
+            '[data-md-component="navigation"]',
+            '.md-header__button[type="button"]',
+            '.md-header button'
+        ];
+        
+        const hamburgers = document.querySelectorAll(selectors.join(', '));
         
         hamburgers.forEach(hamburger => {
             if (window.innerWidth > 800) {
-                hamburger.style.setProperty('display', 'none', 'important');
-                hamburger.style.setProperty('visibility', 'hidden', 'important');
-                hamburger.style.setProperty('opacity', '0', 'important');
-                hamburger.style.setProperty('pointer-events', 'none', 'important');
-                console.log('Hamburger forcefully hidden:', hamburger.className);
+                // Nuclear option - remove all possible CSS
+                hamburger.style.cssText = 'display: none !important; visibility: hidden !important; opacity: 0 !important; pointer-events: none !important; position: absolute !important; left: -9999px !important;';
+                hamburger.setAttribute('hidden', 'true');
+                hamburger.setAttribute('aria-hidden', 'true');
+                hamburger.disabled = true;
+                console.log('Hamburger NUKED:', hamburger.className, hamburger.tagName);
             } else {
-                hamburger.style.removeProperty('display');
-                hamburger.style.removeProperty('visibility');  
-                hamburger.style.removeProperty('opacity');
-                hamburger.style.removeProperty('pointer-events');
+                hamburger.style.cssText = '';
+                hamburger.removeAttribute('hidden');
+                hamburger.removeAttribute('aria-hidden');
+                hamburger.disabled = false;
                 console.log('Hamburger restored:', hamburger.className);
             }
         });
@@ -28,8 +40,8 @@ function controlHamburgerMenu() {
     // Listen for resize events
     window.addEventListener('resize', findAndHideHamburger);
     
-    // Force check every 500ms to override any dynamic changes from Material Insiders
-    const forceInterval = setInterval(findAndHideHamburger, 500);
+    // Force check every 100ms to override any dynamic changes from Material Insiders
+    const forceInterval = setInterval(findAndHideHamburger, 100);
     
     // Also watch for DOM mutations
     if (typeof MutationObserver !== 'undefined') {

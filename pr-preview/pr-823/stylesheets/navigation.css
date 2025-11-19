@@ -199,13 +199,13 @@ h1{
   color: #154273;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 600px) {
   .md-nav--primary .md-nav__item--active>.md-nav__link {
       color: #154273;
   }
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 600px) {
   .md-nav--primary .md-nav__title {
       background-color: #fff;
       color: #154273;
@@ -225,7 +225,7 @@ h1{
 }
 
 /* Force navigation to scroll with content */
-@media screen and (min-width: 801px) {
+@media screen and (min-width: 601px) {
   .md-tabs {
     position: static !important;
     z-index: auto !important;
@@ -244,8 +244,18 @@ h1{
   }
 }
 
-/* Force hide navigation tabs at 800px and below */
-@media screen and (max-width: 800px) {
+/* Force show navigation tabs above 600px */
+@media screen and (min-width: 601px) {
+  .md-tabs {
+    display: flex !important;
+    visibility: visible !important;
+    height: auto !important;
+    opacity: 1 !important;
+  }
+}
+
+/* Force hide navigation tabs at 600px and below */
+@media screen and (max-width: 600px) {
   .md-tabs {
     display: none !important;
     visibility: hidden !important;
@@ -254,15 +264,26 @@ h1{
   }
 }
 
-/* Keep logo visible until exactly 800px */
-@media screen and (min-width: 801px) {
+/* Keep logo visible until exactly 600px */
+@media screen and (min-width: 601px) {
   .md-header__button.md-logo {
     display: inline-block !important;
   }
 }
 
-/* Hide logo only at 800px and below */
-@media screen and (max-width: 800px) {
+/* Hide hamburger menu above 1280px */
+@media screen and (min-width: 1281px) {
+  .md-header__button[for="__drawer"] {
+    display: none !important;
+    visibility: hidden !important;
+  }
+  .md-header__button.md-icon--menu {
+    display: none !important;
+  }
+}
+
+/* Hide logo only at 600px and below */
+@media screen and (max-width: 600px) {
   .md-header__button.md-logo {
     display: none !important;
   }

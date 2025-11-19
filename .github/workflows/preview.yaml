@@ -41,10 +41,19 @@ jobs:
         if: github.event.action != 'closed'
         run: |
           pip install -r requirements.txt
+          
+      - name: Log package versions
+        if: github.event.action != 'closed'
+        run: |
+          echo "=== Installed package versions ==="
+          pip show mkdocs-material
+          pip list | grep mkdocs
 
       - name: build preview
         if: github.event.action != 'closed'
-        run: mkdocs build
+        run: |
+          mkdocs build
+          echo "<!-- mkdocs-material version: $(pip show mkdocs-material | grep Version) -->" >> ./site/index.html
 
       - uses: actions/upload-artifact@v5
         if: github.event.action != 'closed'

@@ -5,6 +5,11 @@ html {
   font-size: 14px; /* Smaller than default 16px to make rem values appear smaller */
 }
 
+/* Body font size to match Algoritmeregister */
+body {
+  font-size: 1.125rem;
+}
+
 :root {
   /* Algoritmeregister color scheme - CORRECTED */
   --primary-blue: #007bc7;

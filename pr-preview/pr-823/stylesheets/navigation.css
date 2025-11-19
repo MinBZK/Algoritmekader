@@ -271,14 +271,18 @@ h1{
   }
 }
 
-/* Hide hamburger menu above 800px */
+/* Hide hamburger menu above 800px - High specificity override */
 @media screen and (min-width: 801px) {
-  .md-header__button[for="__drawer"] {
+  .md-header .md-header__inner .md-header__button[for="__drawer"] {
     display: none !important;
     visibility: hidden !important;
+    opacity: 0 !important;
+    pointer-events: none !important;
   }
-  .md-header__button.md-icon--menu {
+  .md-header .md-header__inner .md-header__button.md-icon--menu {
     display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
   }
 }
 

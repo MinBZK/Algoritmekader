@@ -49,6 +49,9 @@ jobs:
           echo "=== Installed package versions ==="
           pip show mkdocs-material
           pip list | grep mkdocs
+          echo "=== Git info for Material fork ==="
+          cd $(python -c "import mkdocs_material; print(mkdocs_material.__path__[0])")/../ 
+          if [ -d ".git" ]; then git log --oneline -5; fi
 
       - name: build preview
         if: github.event.action != 'closed'

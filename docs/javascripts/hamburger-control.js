@@ -4,10 +4,13 @@ function controlHamburgerMenu() {
     if (!hamburger) return;
     
     function checkScreenSize() {
+        console.log('Screen width:', window.innerWidth, 'Device pixel ratio:', window.devicePixelRatio);
         if (window.innerWidth > 1280) {
             hamburger.style.display = 'none';
+            console.log('Hamburger hidden');
         } else {
             hamburger.style.display = '';
+            console.log('Hamburger visible');
         }
     }
     

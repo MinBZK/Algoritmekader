@@ -34,10 +34,11 @@
 .md-tabs .md-grid {
   background-color: #007bc7;
   color: white;
-  margin-left: 0;
+  margin-left: auto;
   margin-right: auto;
   padding-left: 1.2rem;
   padding-right: 1.2rem;
+  max-width: var(--md-main-max-width, 61rem);
 }
 
 .md-tabs__item--active {
@@ -175,6 +176,18 @@ h1{
 
 /* Search always uses mobile-style positioning */
 
+/* Align navigation tabs container with main content layout */
+.md-tabs {
+  width: 100%;
+}
+
+.md-tabs .md-grid {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  box-sizing: border-box;
+}
+
 .md-typeset a {
   color: #154273;
 }
@@ -249,6 +262,7 @@ h1{
   .md-tabs .md-grid {
     padding-left: 1rem;
     padding-right: 1rem;
+    max-width: none;
   }
 }
 

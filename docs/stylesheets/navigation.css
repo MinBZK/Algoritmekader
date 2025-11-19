@@ -273,6 +273,10 @@ h1{
 
 /* Hide hamburger menu above 1280px */
 @media screen and (min-width: 1281px) {
+  .md-header__button[for="__drawer"] {
+    display: none !important;
+    visibility: hidden !important;
+  }
   .md-header__button.md-icon--menu {
     display: none !important;
   }

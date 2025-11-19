@@ -124,6 +124,7 @@ extra_javascript:
   - javascripts/mermaid.min.js
   - javascripts/modal.js
   - javascripts/extra.js
+  - javascripts/hamburger-control.js
 
 plugins:
     - glightbox

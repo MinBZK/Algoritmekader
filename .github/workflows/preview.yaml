@@ -34,7 +34,7 @@ jobs:
       - uses: actions/setup-python@v6
         if: github.event.action != 'closed'
         with:
-          python-version: 3.x
+          python-version: '3.11'
           cache: 'pip'
 
       - name: install dependencies
@@ -42,10 +42,22 @@ jobs:
         run: |
           git config --global url."https://github-actions:${{ secrets.MATERIAL_INSIDERS_TOKEN }}@github".insteadOf ssh://git@github
           pip install -r requirements-prod.txt
+          
+      - name: Log package versions
+        if: github.event.action != 'closed'
+        run: |
+          echo "=== Installed package versions ==="
+          pip show mkdocs-material
+          pip list | grep mkdocs
+          echo "=== Git info for Material fork ==="
+          cd $(python -c "import mkdocs_material; print(mkdocs_material.__path__[0])")/../ 
+          if [ -d ".git" ]; then git log --oneline -5; fi
 
       - name: build preview
         if: github.event.action != 'closed'
-        run: mkdocs build
+        run: |
+          mkdocs build
+          echo "<!-- mkdocs-material version: $(pip show mkdocs-material | grep Version) -->" >> ./site/index.html
 
       - uses: actions/upload-artifact@v5
         if: github.event.action != 'closed'

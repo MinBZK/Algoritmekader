@@ -189,7 +189,7 @@ h1{
   font-weight: 700;
 }
 
-@media screen and (max-width: 59.9844em) {
+@media screen and (max-width: 50em) {
   .md-nav__source {
       background-color: #FFF;
   }
@@ -225,7 +225,7 @@ h1{
 }
 
 /* Force navigation to scroll with content */
-@media screen and (min-width: 601px) {
+@media screen and (min-width: 801px) {
   .md-tabs {
     position: static !important;
     z-index: auto !important;
@@ -237,7 +237,7 @@ h1{
 }
 
 /* Responsive navigation padding to match main content */
-@media screen and (max-width: 76.1875em) {
+@media screen and (max-width: 50em) {
   .md-tabs .md-grid {
     padding-left: 1rem;
     padding-right: 1rem;

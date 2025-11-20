@@ -38,11 +38,11 @@
 ??? expander "Hoe is het Algoritmekader opgebouwd?"
 
     De rode draad door het Algoritmekader zijn de **[wettelijke vereisten](../voldoen-aan-wetten-en-regels/vereisten/index.md)**. Dit is met name de AI-verordening, maar ook wetten als de Algemene wet bestuursrecht (Awb), de Algemene Verordening Gegevensbescherming (AVG) en de Wet open overheid (Woo) raken aan AI en algoritmes.
-    
+
     Om aan die wettelijke vereisten te voldoen worden **[maatregelen](../voldoen-aan-wetten-en-regels/maatregelen/index.md)** voorgesteld.
-    
+
     En om die maatregelen in de praktijk te brengen worden ook **[hulpmiddelen](../voldoen-aan-wetten-en-regels/hulpmiddelen/index.md)** gegeven.
-    
+
     Daarnaast is het Algoritmekader opgebouwd rond drie pijlers:
 
     - **[Rollen](../rollen/index.md)** - Vier verschillende rollen met elk hun verantwoordelijkheden

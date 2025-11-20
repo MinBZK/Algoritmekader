@@ -33,15 +33,15 @@ const VEREISTEN_CONFIG = {
 function toggleExportDropdown() {
     const dropdown = document.getElementById('export-dropdown');
     const button = document.getElementById('export-btn');
-    
+
     if (dropdown) {
         if (dropdown.style.display === 'none' || dropdown.style.display === '') {
             dropdown.style.display = 'block';
             dropdown.style.width = button.offsetWidth + 'px';
-            
+
             // Update ARIA state
             button.setAttribute('aria-expanded', 'true');
-            
+
             // Add click outside listener to close dropdown
             setTimeout(() => {
                 document.addEventListener('click', function closeDropdown(e) {
@@ -407,11 +407,11 @@ function restoreButtonState(button, originalHTML) {
 // Keyboard navigation for export dropdown
 function handleExportKeydown(event) {
     const dropdown = document.getElementById('export-dropdown');
-    
+
     if (event.key === 'Enter' || event.key === ' ') {
         event.preventDefault();
         toggleExportDropdown();
-        
+
         // If dropdown was opened, focus the first menu item
         if (dropdown && dropdown.style.display === 'block') {
             const firstButton = dropdown.querySelector('button[role="menuitem"]');
@@ -429,7 +429,7 @@ function handleDropdownKeydown(event, exportType) {
     const dropdown = document.getElementById('export-dropdown');
     const menuItems = dropdown ? Array.from(dropdown.querySelectorAll('button[role="menuitem"]')) : [];
     const currentIndex = menuItems.findIndex(item => item === event.target);
-    
+
     switch (event.key) {
         case 'ArrowDown':
             event.preventDefault();
@@ -438,7 +438,7 @@ function handleDropdownKeydown(event, exportType) {
             menuItems[nextIndex].tabIndex = 0;
             menuItems[nextIndex].focus();
             break;
-            
+
         case 'ArrowUp':
             event.preventDefault();
             const prevIndex = currentIndex === 0 ? menuItems.length - 1 : currentIndex - 1;
@@ -446,7 +446,7 @@ function handleDropdownKeydown(event, exportType) {
             menuItems[prevIndex].tabIndex = 0;
             menuItems[prevIndex].focus();
             break;
-            
+
         case 'Enter':
         case ' ':
             event.preventDefault();
@@ -456,7 +456,7 @@ function handleDropdownKeydown(event, exportType) {
                 exportODS();
             }
             break;
-            
+
         case 'Escape':
             event.preventDefault();
             closeExportDropdown();
@@ -468,15 +468,15 @@ function handleDropdownKeydown(event, exportType) {
 function closeExportDropdown() {
     const dropdown = document.getElementById('export-dropdown');
     const button = document.getElementById('export-btn');
-    
+
     if (dropdown) {
         dropdown.style.display = 'none';
-        
+
         // Reset all menu item tab indexes
         const menuItems = dropdown.querySelectorAll('button[role="menuitem"]');
         menuItems.forEach(item => item.tabIndex = -1);
     }
-    
+
     // Update ARIA state
     if (button) {
         button.setAttribute('aria-expanded', 'false');

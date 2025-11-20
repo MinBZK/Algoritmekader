@@ -6,7 +6,7 @@
             new Tablesort(table)
         })
     }
-    
+
     if (document.readyState === 'loading') {
         document.addEventListener('DOMContentLoaded', initializeTablesort);
     } else {

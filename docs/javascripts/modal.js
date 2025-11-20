@@ -100,7 +100,7 @@ function showModal(event, modalId, options = {}) {
       onDynamicContentLoaded(document.getElementById("modal-content"), (cb) => {
           updateAIActForm();
           updateFieldsBasedOnType(document.getElementById("type"));
-          
+
           // Trigger global tooltip reinitialization for modal content
           if (typeof initializeAccessibleAbbreviations === 'function') {
             initializeAccessibleAbbreviations();
@@ -113,7 +113,7 @@ function showModal(event, modalId, options = {}) {
           style="display: block; width: 100%; height: 100%; border: 0; padding: 0; margin: 0; overflow: hidden;"
           src="${basePath}/html/beslishulp.html"></iframe>`
       document.getElementById("modal-content-container").classList.remove("model-content-auto-size");
-      
+
       // Try to inject accessibility improvements into the iframe
       setTimeout(function() {
         const iframe = document.getElementById('beslishulp-iframe');
@@ -121,7 +121,7 @@ function showModal(event, modalId, options = {}) {
           injectIframeAccessibility(iframe);
         }
       }, 100);
-      
+
       // Also try after a longer delay for dynamic content
       setTimeout(function() {
         const iframe = document.getElementById('beslishulp-iframe');
@@ -131,7 +131,7 @@ function showModal(event, modalId, options = {}) {
       }, 2000);
   }
   document.getElementById("modal").classList.remove("display-none");
-  
+
   // Initialize focus trap for modal
   initializeFocusTrap();
 }
@@ -413,22 +413,22 @@ function initializeInfoIconTooltips() {
     initializeAccessibleAbbreviations();
     return;
   }
-  
+
   // Fallback: Handle .info-icon elements in modal only
   const modal = document.getElementById('modal-content');
   if (!modal) return;
-  
+
   const infoIcons = modal.querySelectorAll('.info-icon[title]');
   infoIcons.forEach(function(icon) {
     makeElementAccessible(icon);
   });
-  
+
   // Handle abbr elements in modal
   const abbreviations = modal.querySelectorAll('abbr[title]');
   abbreviations.forEach(function(abbr) {
     makeElementAccessible(abbr);
   });
-  
+
   // Handle any other elements with title attributes in modal
   const allTitledElements = modal.querySelectorAll('[title]:not(.info-icon):not(abbr)');
   allTitledElements.forEach(function(element) {
@@ -444,13 +444,13 @@ function makeElementAccessible(element) {
     makeElementAccessibleGlobal(element);
     return;
   }
-  
+
   // Fallback implementation
   // Ensure tabindex is set for keyboard accessibility
   if (!element.hasAttribute('tabindex')) {
     element.setAttribute('tabindex', '0');
   }
-  
+
   // Add keyboard event listeners
   element.addEventListener('keydown', function(event) {
     // Show tooltip on Enter or Space
@@ -460,14 +460,14 @@ function makeElementAccessible(element) {
       this.focus();
     }
   });
-  
+
   // Add ARIA label for screen readers
   const title = element.getAttribute('title');
   if (title && !element.hasAttribute('aria-label')) {
     const prefix = element.classList.contains('info-icon') ? 'Info: ' : 'Definitie: ';
     element.setAttribute('aria-label', prefix + title);
   }
-  
+
   // Add role button for better screen reader experience
   if (!element.hasAttribute('role') && !element.closest('button') && !element.closest('a')) {
     element.setAttribute('role', 'button');
@@ -481,22 +481,22 @@ function injectIframeAccessibility(iframe) {
     const tryInject = function() {
       try {
         const iframeDoc = iframe.contentDocument || iframe.contentWindow.document;
-        
+
         if (!iframeDoc || !iframeDoc.body) {
           return false;
         }
-        
+
         // Make aiv-definition elements keyboard accessible
         const definitionElements = iframeDoc.querySelectorAll('.aiv-definition');
         let tooltipCount = 0;
-        
+
         definitionElements.forEach(function(element) {
           if (!element.hasAttribute('tabindex')) {
             element.setAttribute('tabindex', '0');
             element.setAttribute('role', 'button');
             element.setAttribute('aria-label', 'Definitie: ' + element.textContent.trim());
             tooltipCount++;
-            
+
             // Keyboard support
             element.addEventListener('keydown', function(event) {
               if (event.key === 'Enter' || event.key === ' ') {
@@ -506,7 +506,7 @@ function injectIframeAccessibility(iframe) {
             });
           }
         });
-        
+
         // Add CSS for accessible tooltips in iframe
         if (tooltipCount > 0) {
           const style = iframeDoc.createElement('style');
@@ -517,12 +517,12 @@ function injectIframeAccessibility(iframe) {
               cursor: help;
               outline-offset: 2px;
             }
-            
+
             .aiv-definition[tabindex="0"]:focus {
               outline: 2px solid #154273;
               outline-offset: 2px;
             }
-            
+
             /* Show the nested definition text on hover AND focus - this is the original tooltip! */
             .aiv-definition:hover .aiv-definition-text,
             .aiv-definition[tabindex="0"]:focus .aiv-definition-text {
@@ -533,7 +533,7 @@ function injectIframeAccessibility(iframe) {
           `;
           iframeDoc.head.appendChild(style);
         }
-        
+
         // Set up MutationObserver to watch for dynamic content changes
         const observer = new MutationObserver(function(mutations) {
           let shouldRetry = false;
@@ -541,9 +541,9 @@ function injectIframeAccessibility(iframe) {
             if (mutation.type === 'childList' && mutation.addedNodes.length > 0) {
               Array.from(mutation.addedNodes).forEach(function(node) {
                 if (node.nodeType === Node.ELEMENT_NODE) {
-                  const hasAivDefinition = node.classList?.contains('aiv-definition') || 
+                  const hasAivDefinition = node.classList?.contains('aiv-definition') ||
                                          node.querySelector?.('.aiv-definition');
-                  
+
                   if (hasAivDefinition) {
                     shouldRetry = true;
                   }
@@ -551,24 +551,24 @@ function injectIframeAccessibility(iframe) {
               });
             }
           });
-          
+
           if (shouldRetry) {
             setTimeout(tryInject, 100);
           }
         });
-        
+
         // Start observing
         observer.observe(iframeDoc.body, {
           childList: true,
           subtree: true
         });
-        
+
         return true;
       } catch (error) {
         return false;
       }
     };
-    
+
     // Try immediately
     if (!tryInject()) {
       // If failed, try again after iframe loads
@@ -579,7 +579,7 @@ function injectIframeAccessibility(iframe) {
         setTimeout(tryInject, 5000);
       };
     }
-    
+
   } catch (error) {
     // Silent fail for cross-origin issues
   }
@@ -593,14 +593,14 @@ const observer = new MutationObserver(function(mutations) {
   mutations.forEach(function(mutation) {
     if (mutation.type === 'childList' && mutation.addedNodes.length > 0) {
       // Check if info-icon elements were added
-      const hasInfoIcons = Array.from(mutation.addedNodes).some(node => 
-        node.nodeType === Node.ELEMENT_NODE && 
+      const hasInfoIcons = Array.from(mutation.addedNodes).some(node =>
+        node.nodeType === Node.ELEMENT_NODE &&
         (node.classList?.contains('info-icon') || node.querySelector?.('.info-icon'))
       );
       if (hasInfoIcons) {
         initializeInfoIconTooltips();
       }
-      
+
       // Update focus trap if it's active and modal content changed
       if (focusTrapActive) {
         setTimeout(updateFocusableElements, 100);
@@ -626,19 +626,19 @@ function initializeFocusTrap() {
   if (!modal || modal.classList.contains('display-none')) {
     return;
   }
-  
+
   focusTrapActive = true;
-  
+
   // Get all focusable elements within the modal
   updateFocusableElements();
-  
+
   // Focus the first focusable element
   setTimeout(function() {
     if (firstFocusableElement) {
       firstFocusableElement.focus();
     }
   }, 100);
-  
+
   // Add event listeners
   document.addEventListener('keydown', handleFocusTrap);
   modal.addEventListener('keydown', handleModalKeydown);
@@ -647,7 +647,7 @@ function initializeFocusTrap() {
 function updateFocusableElements() {
   const modal = document.getElementById('modal');
   if (!modal) return;
-  
+
   // Get all focusable elements including all possible tooltips
   const focusableSelectors = [
     'button:not([disabled])',
@@ -658,11 +658,11 @@ function updateFocusableElements() {
     '[tabindex]:not([tabindex="-1"])',
     'iframe',
     'abbr[title]',
-    '.info-icon[title]', 
+    '.info-icon[title]',
     '[title]',
     '[data-md-tooltip]'
   ].join(',');
-  
+
   // Only search within the modal for focus trap
   focusableElements = Array.from(modal.querySelectorAll(focusableSelectors))
     .filter(element => {
@@ -684,40 +684,40 @@ function updateFocusableElements() {
       if (position & Node.DOCUMENT_POSITION_PRECEDING) return 1;
       return 0;
     });
-  
+
   // Find the first meaningful focusable element (skip "Hulp nodig?" button)
   let meaningfulFirstElement = focusableElements.find(element => {
     // Skip elements that are just helper tooltips or "Hulp nodig?" button
     const isHelpButton = element.textContent?.trim().toLowerCase().includes('hulp nodig');
-    const isTooltipOnly = element.hasAttribute('title') && 
+    const isTooltipOnly = element.hasAttribute('title') &&
                           !element.matches('button, input, select, textarea, a[href]');
     return !isHelpButton && !isTooltipOnly;
   });
-  
+
   firstFocusableElement = meaningfulFirstElement || focusableElements[0];
   lastFocusableElement = focusableElements[focusableElements.length - 1];
-  
+
 }
 
 function handleFocusTrap(event) {
   if (!focusTrapActive || event.key !== 'Tab') {
     return;
   }
-  
+
   const modal = document.getElementById('modal');
   if (!modal || modal.classList.contains('display-none')) {
     disableFocusTrap();
     return;
   }
-  
+
   // Update focusable elements in case modal content changed
   updateFocusableElements();
-  
+
   if (focusableElements.length === 0) {
     event.preventDefault();
     return;
   }
-  
+
   // Check if we're tabbing forward or backward
   if (event.shiftKey) {
     // Shift + Tab (backward)
@@ -743,7 +743,7 @@ function handleModalKeydown(event) {
 function disableFocusTrap() {
   focusTrapActive = false;
   document.removeEventListener('keydown', handleFocusTrap);
-  
+
   const modal = document.getElementById('modal');
   if (modal) {
     modal.removeEventListener('keydown', handleModalKeydown);

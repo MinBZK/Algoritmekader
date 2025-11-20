@@ -203,7 +203,7 @@ def _render_wetcode_filter(
 ) -> List[str]:
     """Generate filter options for wet-code column"""
     global _current_config
-    
+
     wet_codes = set()
     for file in file_list:
         vereiste_id = file.page.meta.get("id", "")[14:]
@@ -240,13 +240,13 @@ def _render_wetcode_filter(
         abbreviations = _load_abbreviations(_current_config)
     else:
         abbreviations = {}
-        
+
     keep_abbreviated = {"AVG", "BIO", "BZK", "WOO", "AWB"}
 
     for code in sorted_codes:
         wet_code_upper = code.upper()
         display_name = wet_mapping.get(code, wet_code_upper)
-        
+
         if wet_code_upper in abbreviations and wet_code_upper in keep_abbreviated:
             table_display = wet_code_upper
             filter_display = wet_code_upper
@@ -256,10 +256,8 @@ def _render_wetcode_filter(
         else:
             table_display = display_name
             filter_display = display_name
-            
-        filter_html.append(
-            f'<option value="{table_display}">{filter_display}</option>'
-        )
+
+        filter_html.append(f'<option value="{table_display}">{filter_display}</option>')
 
     filter_html.extend(["</select>", "</div>"])
     return filter_html
@@ -420,6 +418,7 @@ def should_show_export(current_file: File) -> bool:
 def on_env(env, config: MkDocsConfig, files: Files):
     global _current_config
     _current_config = config
+
     def generate_filters(
         content_type: str,
         list: List[File],
@@ -504,7 +503,9 @@ def on_env(env, config: MkDocsConfig, files: Files):
                     "</div>",
                     "<div>",
                     '<div class="export-dropdown-container" style="position: relative; display: inline-block;">',
-                    '<button id="export-btn" onclick="toggleExportDropdown()" onkeydown="handleExportKeydown(event)" class="button md-button--secondary" aria-haspopup="true" aria-expanded="false" aria-label="Exporteer ' + content_type + ' - dropdown menu">',
+                    '<button id="export-btn" onclick="toggleExportDropdown()" onkeydown="handleExportKeydown(event)" class="button md-button--secondary" aria-haspopup="true" aria-expanded="false" aria-label="Exporteer '
+                    + content_type
+                    + ' - dropdown menu">',
                     '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="width: 24px; height: 24px; vertical-align: middle; fill: #154271"><path d="M5,20h14a1,1 0 0,0 1-1v-2h-2v2H6v-2H4v2A1,1 0 0,0 5,20M19,9h-4V3H9v6H5l7,7l7-7z"/></svg> Exporteer <span id="content_type">'
                     + content_type
                     + "</span>",

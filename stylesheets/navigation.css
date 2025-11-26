@@ -20,10 +20,6 @@
   text-decoration:none;
   color: #FFFFFF;
   opacity: 100%;
-  display: block;      /* Maakt de <a> een blok-element */
-  width: 100%;         /* Vul de volledige breedte van de <li> */
-  height: 100%;        /* Vul de volledige hoogte van de <li> */
-  text-align: center;  /* Optioneel, zorgt dat tekst gecentreerd blijft */
 }
 
 /* Header Styling */
@@ -73,19 +69,22 @@ h1{
 }
 
 .md-tabs__item:hover {
-  background-color: #B2D7EE; /* Achtergrondkleur bij hover op het hele tab-item */
-  color: #154273 !important;
-}
-
-/* Apply hover effect to the tab item */
-.md-tabs__item:hover {
   background-color: #B2D7EE !important;
   color: #154273 !important;
 }
-/* Active tab styling */
+
+/* Active tab styling - only for actually active pages, not focus */
 .md-tabs .md-tabs__list .md-tabs__item--active .md-tabs__link {
   color: #154273 !important; /* Active color */
   background-color: #B2D7EE !important; /* Active background */
+}
+
+/* Only override text color on focus, let browser handle outline */
+.md-tabs__link:focus {
+  color: #FFFFFF !important; /* Keep white text on focus */
+  /* Remove any existing focus overrides */
+  outline: revert !important;
+  box-shadow: revert !important;
 }
 
 .md-search__input{

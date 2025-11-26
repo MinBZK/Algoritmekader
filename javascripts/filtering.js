@@ -18,15 +18,32 @@
 let columnMapping = {};
 let filterElements = {};
 
-// Wait for MkDocs Material content loading events
-document$.subscribe(function () {
-    initializeFlexibleFiltering();
+// Initialize on DOM ready without interfering with MkDocs Material skiplink
+(function() {
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initializeFlexibleFiltering);
+    } else {
+        initializeFlexibleFiltering();
+    }
 
     // Reinitialize when content is dynamically updated
     document.addEventListener('contentUpdated', function () {
         initializeFlexibleFiltering();
     });
-});
+
+    // Handle MkDocs Material SPA navigation
+    if (typeof document$ !== 'undefined') {
+        document$.subscribe(function() {
+            // Small delay to ensure DOM is ready
+            setTimeout(initializeFlexibleFiltering, 100);
+        });
+    }
+
+    // Additional fallback for navigation events
+    window.addEventListener('popstate', function() {
+        setTimeout(initializeFlexibleFiltering, 100);
+    });
+})();
 
 /**
  * Main initialization function
@@ -331,11 +348,11 @@ function filterTable() {
             }
         }
     }
-    
+
     // Fix missing labels for AI-models for general purposes
     const hasAiModel = labelsToFilterOn.includes('soort-toepassing-ai-model-voor-algemene-doeleinden');
     const hasSysteemrisico = labelsToFilterOn.includes('systeemrisico-systeemrisico');
-    
+
     if (hasAiModel && hasSysteemrisico) {
         // Add missing "niet-van-toepassing" labels
         if (!labelsToFilterOn.includes('risicogroep-niet-van-toepassing')) {
@@ -344,7 +361,7 @@ function filterTable() {
         if (!labelsToFilterOn.includes('transparantieverplichting-niet-van-toepassing')) {
             labelsToFilterOn.push('transparantieverplichting-niet-van-toepassing');
         }
-        
+
         // Remove exception label that incorrectly blocks relevant requirements
         const exceptionIndex = labelsToFilterOn.indexOf('risicogroep-uitzondering-van-toepassing');
         if (exceptionIndex > -1) {

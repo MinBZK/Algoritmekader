@@ -419,9 +419,7 @@ abbr[title] {
 }
 
 /* Fix breadcrumb font size - keep normal */
-.md-nav--secondary,
-.md-nav--secondary .md-nav__title,
-.md-nav--secondary .md-nav__link {
+.md-ellipsis {
   font-size: 0.875rem !important; /* Reset to normal breadcrumb size */
 }
 

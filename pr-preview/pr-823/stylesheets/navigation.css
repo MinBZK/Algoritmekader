@@ -442,7 +442,7 @@ abbr[data-tooltip]:focus::after {
   color: white;
   padding: 4px 8px; /* Reduced padding from 8px 12px */
   border-radius: 4px;
-  font-size: 14px !important;
+  font-size: 11px !important; /* Much smaller font size */
   font-weight: normal;
   white-space: nowrap;
   z-index: 1000;

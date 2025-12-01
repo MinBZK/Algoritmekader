@@ -220,6 +220,7 @@ button:focus, .md-header__button:focus {
 }
 
 /* Focus states for definition tooltips and elements with title attributes */
+abbr[data-tooltip]:focus,
 abbr[title]:focus,
 [title]:focus,
 .md-typeset abbr:focus {
@@ -231,6 +232,7 @@ abbr[title]:focus,
 }
 
 /* Ensure tooltip elements are keyboard accessible and show focus states */
+abbr[data-tooltip],
 abbr[title],
 [title]:not(img):not(.md-header__button):not(.md-nav__button):not(.md-search__button) {
   cursor: help;
@@ -240,6 +242,8 @@ abbr[title],
 }
 
 /* Enhanced hover and focus states for better visibility */
+abbr[data-tooltip]:hover,
+abbr[data-tooltip]:focus,
 abbr[title]:hover,
 abbr[title]:focus,
 [title]:not(img):not(.md-header__button):not(.md-nav__button):not(.md-search__button):hover,
@@ -261,15 +265,15 @@ abbr[title][tabindex]:focus {
 }
 
 /* Specific styling for MkDocs abbreviations from begrippenlijst */
-.md-typeset abbr[title] {
+.md-typeset abbr[data-tooltip] {
   border-bottom: 1px dotted #154273 !important;
   text-decoration: none !important;
   cursor: help !important;
   position: relative;
 }
 
-.md-typeset abbr[title]:hover,
-.md-typeset abbr[title]:focus {
+.md-typeset abbr[data-tooltip]:hover,
+.md-typeset abbr[data-tooltip]:focus {
   background-color: rgba(21, 66, 115, 0.15) !important;
   border-bottom: 2px solid #154273 !important;
   border-radius: 2px;
@@ -415,12 +419,12 @@ abbr[title] {
 }
 
 /* Custom tooltip implementation to replace browser tooltips */
-abbr[title] {
+abbr[data-tooltip] {
   position: relative;
   cursor: help;
 }
 
-/* Hide the default browser tooltip and show custom one */
+/* Show custom tooltip on hover */
 abbr[data-tooltip]:hover::after {
   content: attr(data-tooltip);
   position: absolute;

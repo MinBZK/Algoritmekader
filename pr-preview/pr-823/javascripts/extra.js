@@ -116,16 +116,11 @@
     function setupCustomTooltip(element) {
         let originalTitle = element.getAttribute('title');
         
-        // Store original title and remove it to prevent native tooltip
+        // Store original title in data attribute for CSS to use
         element.setAttribute('data-tooltip', originalTitle);
         
-        element.addEventListener('mouseenter', function() {
-            this.removeAttribute('title');
-        });
-        
-        element.addEventListener('mouseleave', function() {
-            this.setAttribute('title', originalTitle);
-        });
+        // Remove title immediately to prevent native tooltip
+        element.removeAttribute('title');
     }
 
     // Make functions globally available

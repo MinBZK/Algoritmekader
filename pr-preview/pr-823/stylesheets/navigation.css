@@ -440,14 +440,14 @@ abbr[data-tooltip]:focus::after {
   transform: translateX(-50%);
   background-color: rgba(0, 0, 0, 0.9);
   color: white;
-  padding: 8px 12px;
+  padding: 4px 8px; /* Reduced padding from 8px 12px */
   border-radius: 4px;
   font-size: 14px !important;
   font-weight: normal;
   white-space: nowrap;
   z-index: 1000;
   pointer-events: none;
-  margin-bottom: 8px;
+  margin-bottom: 4px; /* Reduced margin from 8px */
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
 }
 

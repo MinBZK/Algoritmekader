@@ -116,6 +116,44 @@ td {
   min-width: 150px;
 }
 
+/* WCAG AA: Responsive tables for 320px viewport */
+@media (max-width: 320px) {
+  table, thead, tbody, th, td, tr {
+    display: block !important;
+  }
+  
+  thead tr {
+    position: absolute !important;
+    top: -9999px !important;
+    left: -9999px !important;
+  }
+  
+  tr {
+    border: 1px solid #B9C7D5 !important;
+    margin-bottom: 10px !important;
+    padding: 10px !important;
+    border-radius: 4px;
+  }
+  
+  td {
+    border: none !important;
+    position: relative !important;
+    padding-left: 50% !important;
+    min-width: auto !important;
+  }
+  
+  td:before {
+    content: attr(data-label) ": " !important;
+    position: absolute !important;
+    left: 6px !important;
+    width: 45% !important;
+    padding-right: 10px !important;
+    white-space: nowrap !important;
+    font-weight: bold !important;
+    color: #475569 !important;
+  }
+}
+
 tr {
   border-bottom: 1px solid #B9C7D5; /* Ondergrens van de rijen */
   font-size: 16px;
@@ -725,6 +763,30 @@ font-size: 0.875rem !important;
 @media (max-width: 800px) and (min-width: 601px) {
   .responsive-grid-3 {
     grid-template-columns: 1fr 1fr !important;
+  }
+}
+
+/* WCAG AA: Make images scalable for 320px viewport */
+@media (max-width: 320px) {
+  img, 
+  .block-image,
+  .md-header__button.md-logo img {
+    max-width: 100% !important;
+    height: auto !important;
+    width: auto !important;
+  }
+  
+  /* Ensure grid cards stack properly on very small screens */
+  .grid.cards {
+    grid-template-columns: 1fr !important;
+    gap: 8px !important;
+  }
+  
+  /* Reduce padding for very small screens */
+  .float-child,
+  .float-child-white {
+    min-height: auto !important;
+    padding: 12px !important;
   }
 }
 

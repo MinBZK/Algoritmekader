@@ -36,6 +36,29 @@
   outline-offset: 2px;
 }
 
+/* WCAG AA: Improve contrast for logo and interactive elements */
+.md-header__button.md-logo {
+  padding: 4px;
+  border-radius: 4px;
+}
+
+.md-header__button.md-logo:focus {
+  outline: 3px solid #154273 !important;
+  outline-offset: 2px !important;
+  background-color: rgba(21, 66, 115, 0.1) !important;
+}
+
+/* Ensure sufficient contrast for interactive elements */
+button, .md-button {
+  border: 1px solid transparent;
+}
+
+button:focus, .md-button:focus {
+  outline: 2px solid #154273 !important;
+  outline-offset: 2px !important;
+  background-color: rgba(21, 66, 115, 0.1) !important;
+}
+
 /* Adjust root font size for better tooltip readability */
 html {
   font-size: 16px; /* Larger root size for better browser tooltips */

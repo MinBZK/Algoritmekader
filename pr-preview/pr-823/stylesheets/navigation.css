@@ -413,15 +413,16 @@ a[target="_blank"]:focus,
   line-height: 1.4 !important;
 }
 
-/* Force tooltip text to be bigger by targeting the elements directly */
+/* Keep abbreviation text at normal size - only tooltip should be bigger */
 abbr[title] {
-  font-size: 1rem !important;
+  font-size: inherit !important;
 }
 
 /* Custom tooltip implementation to replace browser tooltips */
 abbr[data-tooltip] {
   position: relative;
   cursor: help;
+  font-size: inherit !important; /* Keep abbreviation text at normal size */
 }
 
 /* Show custom tooltip on hover and focus */

@@ -26,6 +26,16 @@
   background-color: #0066a3;
 }
 
+/* Make main content focusable for skip link */
+#main-content {
+  outline: none;
+}
+
+#main-content:focus {
+  outline: 2px solid #154273;
+  outline-offset: 2px;
+}
+
 /* Adjust root font size for better tooltip readability */
 html {
   font-size: 16px; /* Larger root size for better browser tooltips */

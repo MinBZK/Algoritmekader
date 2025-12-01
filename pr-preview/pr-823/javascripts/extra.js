@@ -15,9 +15,16 @@
     // Handle MkDocs Material SPA navigation
     if (typeof document$ !== 'undefined') {
         document$.subscribe(function() {
-            // Reset focus to document body to ensure skiplink is first tab stop
-            document.body.setAttribute('tabindex', '-1');
-            document.body.focus();
+            // Only reset focus if it's not already on a specific element (like main-content)
+            const focusedElement = document.activeElement;
+            const isMainContent = focusedElement && focusedElement.id === 'main-content';
+            const isSkipLink = focusedElement && focusedElement.classList.contains('skip-link');
+            
+            if (!isMainContent && !isSkipLink) {
+                // Reset focus to document body to ensure skiplink is first tab stop
+                document.body.setAttribute('tabindex', '-1');
+                document.body.focus();
+            }
 
             // Small delay to ensure DOM is ready
             setTimeout(initialize, 100);

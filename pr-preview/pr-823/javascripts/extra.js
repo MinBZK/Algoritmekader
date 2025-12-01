@@ -82,9 +82,9 @@
     }
 
     function makeElementAccessibleGlobal(element) {
-        // Remove from tab order to avoid interfering with skiplink navigation
+        // Make accessible with tab order to ensure keyboard navigation
         if (!element.hasAttribute('tabindex')) {
-            element.setAttribute('tabindex', '-1');
+            element.setAttribute('tabindex', '0');
         }
 
         // Add keyboard event listeners for better accessibility

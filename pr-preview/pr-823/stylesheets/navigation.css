@@ -1,5 +1,31 @@
 /* Updated to match Algoritmeregister styling and design patterns */
 
+/* Skip Link for Accessibility */
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 6px;
+  background-color: #154273;
+  color: white;
+  padding: 8px;
+  text-decoration: none;
+  border-radius: 0 0 4px 4px;
+  z-index: 1000;
+  font-weight: bold;
+  font-size: 0.9rem;
+  transition: top 0.3s ease;
+}
+
+.skip-link:focus {
+  top: 0;
+  outline: 2px solid white;
+  outline-offset: 2px;
+}
+
+.skip-link:hover {
+  background-color: #0066a3;
+}
+
 /* Adjust root font size to match Algoritmeregister visual scale */
 html {
   font-size: 14px; /* Smaller than default 16px to make rem values appear smaller */
@@ -123,25 +149,30 @@ h1{
   display: none;
 }
 
-/* Ensure hover effect is applied to the link itself */
-.md-tabs__list .md-tabs__item .md-tabs__link:hover {
+/* Ensure hover and focus effects are applied to the link itself */
+.md-tabs__list .md-tabs__item .md-tabs__link:hover,
+.md-tabs__list .md-tabs__item .md-tabs__link:focus {
   color: #154273 !important; /* Same color as active */
   background-color: #b2d7ee !important;
 }
 
-/* Apply color and background on both link and item on hover */
+/* Apply color and background on both link and item on hover and focus */
 .md-tabs__item:hover,
 .md-tabs__item:hover .md-tabs__link,
-.md-tabs__link:hover {
+.md-tabs__link:hover,
+.md-tabs__item:focus-within,
+.md-tabs__item:focus-within .md-tabs__link {
   color: var(--dark-blue) !important; /* Set text color to blue */
   background-color: var(--light-blue) !important; /* Set background color to light blue */
 }
 
-.md-tabs__item:hover .md-tabs__link {
+.md-tabs__item:hover .md-tabs__link,
+.md-tabs__item:focus-within .md-tabs__link {
   color: #154273 !important; /* Zorgt ervoor dat de link blauw blijft als je over het tab-item zweeft */
 }
 
-.md-tabs__item:hover {
+.md-tabs__item:hover,
+.md-tabs__item:focus-within {
   background-color: #b2d7ee !important;
   color: #154273 !important;
 }
@@ -152,12 +183,154 @@ h1{
   background-color: #b2d7ee !important; /* Active background */
 }
 
-/* Only override text color on focus, let browser handle outline */
+/* Enhanced focus states for accessibility */
 .md-tabs__link:focus {
   color: #FFFFFF !important; /* Keep white text on focus */
-  /* Remove any existing focus overrides */
-  outline: revert !important;
-  box-shadow: revert !important;
+  outline: 3px solid #FFFFFF !important;
+  outline-offset: -3px !important;
+  background-color: rgba(255, 255, 255, 0.2) !important;
+}
+
+/* Focus states for search */
+.md-search__input:focus {
+  outline: 2px solid #154273 !important;
+  outline-offset: 2px !important;
+  border-color: #154273 !important;
+}
+
+/* Focus states for navigation links */
+.md-nav__link:focus {
+  outline: 2px solid #154273 !important;
+  outline-offset: 2px !important;
+  background-color: rgba(21, 66, 115, 0.1) !important;
+}
+
+/* Focus states for buttons */
+button:focus, .md-header__button:focus {
+  outline: 2px solid #154273 !important;
+  outline-offset: 2px !important;
+}
+
+/* Focus states for links in content */
+.md-content a:focus {
+  outline: 2px solid #154273 !important;
+  outline-offset: 2px !important;
+  background-color: rgba(21, 66, 115, 0.1) !important;
+}
+
+/* Focus states for definition tooltips and elements with title attributes */
+abbr[title]:focus,
+[title]:focus,
+.md-typeset abbr:focus {
+  outline: 2px solid #154273 !important;
+  outline-offset: 2px !important;
+  background-color: rgba(21, 66, 115, 0.15) !important;
+  position: relative;
+  z-index: 1;
+}
+
+/* Ensure tooltip elements are keyboard accessible and show focus states */
+abbr[title],
+[title]:not(img):not(.md-header__button):not(.md-nav__button):not(.md-search__button) {
+  cursor: help;
+  border-bottom: 1px dotted #154273;
+  text-decoration: none;
+  position: relative;
+}
+
+/* Enhanced hover and focus states for better visibility */
+abbr[title]:hover,
+abbr[title]:focus,
+[title]:not(img):not(.md-header__button):not(.md-nav__button):not(.md-search__button):hover,
+[title]:not(img):not(.md-header__button):not(.md-nav__button):not(.md-search__button):focus {
+  background-color: rgba(21, 66, 115, 0.15) !important;
+  border-bottom: 2px solid #154273 !important;
+  border-radius: 2px;
+  color: #154273 !important;
+}
+
+/* Stronger focus indicators for keyboard users */
+[title][tabindex="0"]:focus,
+[title][tabindex]:focus,
+abbr[title][tabindex="0"]:focus,
+abbr[title][tabindex]:focus {
+  outline: 3px solid #154273 !important;
+  outline-offset: 1px !important;
+  background-color: rgba(21, 66, 115, 0.2) !important;
+}
+
+/* Specific styling for MkDocs abbreviations from begrippenlijst */
+.md-typeset abbr[title] {
+  border-bottom: 1px dotted #154273 !important;
+  text-decoration: none !important;
+  cursor: help !important;
+  position: relative;
+}
+
+.md-typeset abbr[title]:hover,
+.md-typeset abbr[title]:focus {
+  background-color: rgba(21, 66, 115, 0.15) !important;
+  border-bottom: 2px solid #154273 !important;
+  border-radius: 2px;
+  color: #154273 !important;
+  outline: 2px solid #154273 !important;
+  outline-offset: 2px !important;
+}
+
+/* Also target general elements with title attribute in md-typeset */
+.md-typeset [title]:not(img):not(button):not(.md-header__button):not(.md-nav__button) {
+  border-bottom: 1px dotted #154273;
+  cursor: help;
+  position: relative;
+}
+
+.md-typeset [title]:not(img):not(button):not(.md-header__button):not(.md-nav__button):hover,
+.md-typeset [title]:not(img):not(button):not(.md-header__button):not(.md-nav__button):focus {
+  background-color: rgba(21, 66, 115, 0.15) !important;
+  border-bottom: 2px solid #154273 !important;
+  border-radius: 2px;
+  color: #154273 !important;
+  outline: 2px solid #154273 !important;
+  outline-offset: 2px !important;
+}
+
+/* External links and GitHub links styling */
+a[href*="github.com"]:focus,
+a[href*="GitHub"]:focus,
+a[target="_blank"]:focus,
+.is-external-link-icon:focus {
+  outline: 2px solid #154273 !important;
+  outline-offset: 2px !important;
+  background-color: rgba(21, 66, 115, 0.1) !important;
+  border-radius: 2px;
+}
+
+/* Fix filter tag styling for better visibility */
+.choices__list--multiple .choices__item {
+  background-color: #154273 !important;
+  border: 1px solid #123456 !important;
+  color: white !important;
+  font-weight: 500 !important;
+  padding: 6px 12px !important;
+  border-radius: 4px !important;
+  margin-bottom: 4px !important;
+}
+
+.choices__list--multiple .choices__item.is-highlighted {
+  background-color: #0066a3 !important;
+  border: 1px solid #004d7a !important;
+}
+
+/* Fix filter input styling */
+.choices__inner {
+  background-color: white !important;
+  border: 1px solid #ccc !important;
+  min-height: 44px !important;
+}
+
+.choices__input {
+  background-color: transparent !important;
+  color: #154273 !important;
 }
 
 .md-search__input{

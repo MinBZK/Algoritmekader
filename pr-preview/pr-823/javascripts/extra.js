@@ -60,10 +60,11 @@
 
     // Function to initialize accessible abbreviations and tooltips
     function initializeAccessibleAbbreviations() {
-        // Handle abbreviations
+        // Handle abbreviations with custom tooltips
         const abbreviations = document.querySelectorAll('abbr[title]');
         abbreviations.forEach(function(abbr) {
             makeElementAccessibleGlobal(abbr);
+            setupCustomTooltip(abbr);
         });
 
         // Handle ALL elements with title attributes (including MkDocs tooltips)
@@ -111,9 +112,26 @@
         }
     }
 
+    // Function to setup custom tooltips
+    function setupCustomTooltip(element) {
+        let originalTitle = element.getAttribute('title');
+        
+        // Store original title and remove it to prevent native tooltip
+        element.setAttribute('data-tooltip', originalTitle);
+        
+        element.addEventListener('mouseenter', function() {
+            this.removeAttribute('title');
+        });
+        
+        element.addEventListener('mouseleave', function() {
+            this.setAttribute('title', originalTitle);
+        });
+    }
+
     // Make functions globally available
     window.initializeAccessibleAbbreviations = initializeAccessibleAbbreviations;
     window.makeElementAccessibleGlobal = makeElementAccessibleGlobal;
+    window.setupCustomTooltip = setupCustomTooltip;
 
     // Add a MutationObserver to catch dynamically added content
     const tooltipObserver = new MutationObserver(function(mutations) {

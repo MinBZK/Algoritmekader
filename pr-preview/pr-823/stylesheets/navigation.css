@@ -414,11 +414,49 @@ abbr[title] {
   font-size: 1rem !important;
 }
 
-/* Try to make browser tooltips larger using transform scale */
-abbr[title]:hover,
-[title]:hover {
-  transform: scale(1.1);
-  transform-origin: center bottom;
+/* Custom tooltip implementation to replace browser tooltips */
+abbr[title] {
+  position: relative;
+  cursor: help;
+}
+
+/* Hide the default browser tooltip and show custom one */
+abbr[data-tooltip]:hover::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: rgba(0, 0, 0, 0.9);
+  color: white;
+  padding: 8px 12px;
+  border-radius: 4px;
+  font-size: 14px !important;
+  font-weight: normal;
+  white-space: nowrap;
+  z-index: 1000;
+  pointer-events: none;
+  margin-bottom: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Arrow for custom tooltip */
+abbr[data-tooltip]:hover::before {
+  content: "";
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 6px solid transparent;
+  border-top-color: rgba(0, 0, 0, 0.9);
+  margin-bottom: 2px;
+  z-index: 1001;
+  pointer-events: none;
+}
+
+/* Hide the native tooltip by removing title on hover and restoring on mouse leave */
+abbr[data-tooltip]:hover {
+  /* Custom tooltip replaces native one */
 }
 
 .md-nav__title{

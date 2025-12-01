@@ -349,27 +349,19 @@ a[target="_blank"]:focus,
 }
 
 .md-search__input{
-  background: transparent;
-  border: none;
-  border-radius: 0;
-  color: inherit;
-  font-size: .9rem;
-  padding: 0 2.2rem 0 3.6rem;
-  width: 100%;
-  outline: none;
+  background: #fff;
+  color: #154273;
+  border: #154273 solid 1px;
+  border-radius: 5px;
 }
 
 .md-search__form{
-  background-color: transparent;
-  border-radius: 4px;
-  box-shadow: none;
   color: #154273;
-  border: 1px solid #ccc;
 }
 
 .md-search__input::placeholder {
-  color: inherit;
-  opacity: 0.7;
+  color: #333333; /* Set your desired color */
+  opacity: 1; /* Ensures the color appears as expected */
   font-size: .8rem;
   font-family: "ROsanswebtextregular" !important;
 }

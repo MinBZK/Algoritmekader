@@ -461,7 +461,7 @@ padding-bottom: 8px;
 
 .md-typeset, td {
   line-height: 1.3;
-  font-size: 1rem;
+  font-size: 0.875rem; /* Adjusted for 16px root: (14px / 16px) * 1rem */
 }
 
 .md-typeset ol li, .md-typeset ul li {
@@ -609,18 +609,18 @@ li.md-source__fact.md-source__fact--version{
 
 .md-typeset .admonition.tip, .md-typeset details.tip{
 border-color: #B2D7EE;
-font-size: 1rem !important;
+font-size: 0.875rem !important;
 }
 
 .md-typeset .tip>.admonition-title, .md-typeset .tip>summary{
 background-color: #B2D7EE;
-font-size: 1rem !important;
+font-size: 0.875rem !important;
 }
 
 .md-typeset .admonition, .md-typeset details{
   border: .075rem solid #B2D7EE;
   border-radius: .2rem;
-  font-size: 1rem !important;
+  font-size: 0.875rem !important;
   color: #154271;
   display: flow-root;
   margin: 1.5625em 0;

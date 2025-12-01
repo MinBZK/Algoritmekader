@@ -26,14 +26,14 @@
   background-color: #0066a3;
 }
 
-/* Adjust root font size to match Algoritmeregister visual scale */
+/* Adjust root font size for better tooltip readability */
 html {
-  font-size: 16px; /* Default font size for better tooltip readability */
+  font-size: 16px; /* Larger root size for better browser tooltips */
 }
 
-/* Body font size to match Algoritmeregister */
+/* Body font size adjusted to compensate for larger root size */
 body {
-  font-size: 1.125rem;
+  font-size: 0.984375rem; /* (14px / 16px) * 1.125rem = same visual size */
 }
 
 :root {
@@ -104,7 +104,7 @@ body {
   opacity: 100%;
   padding: 0rem 0.15rem;
   margin: auto 0;
-  font-size: 1rem;
+  font-size: 0.875rem;
   white-space: nowrap;
   line-height: 44px;
   height: 44px;
@@ -411,7 +411,14 @@ a[target="_blank"]:focus,
 
 /* Force tooltip text to be bigger by targeting the elements directly */
 abbr[title] {
-  font-size: 1.2rem !important;
+  font-size: 1rem !important;
+}
+
+/* Try to make browser tooltips larger using transform scale */
+abbr[title]:hover,
+[title]:hover {
+  transform: scale(1.1);
+  transform-origin: center bottom;
 }
 
 .md-nav__title{

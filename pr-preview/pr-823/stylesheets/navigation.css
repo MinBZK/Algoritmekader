@@ -418,6 +418,13 @@ abbr[title] {
   font-size: inherit !important;
 }
 
+/* Fix breadcrumb font size - keep normal */
+.md-nav--secondary,
+.md-nav--secondary .md-nav__title,
+.md-nav--secondary .md-nav__link {
+  font-size: 0.875rem !important; /* Reset to normal breadcrumb size */
+}
+
 /* Custom tooltip implementation to replace browser tooltips */
 abbr[data-tooltip] {
   position: relative;

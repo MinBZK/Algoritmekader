@@ -424,8 +424,9 @@ abbr[data-tooltip] {
   cursor: help;
 }
 
-/* Show custom tooltip on hover */
-abbr[data-tooltip]:hover::after {
+/* Show custom tooltip on hover and focus */
+abbr[data-tooltip]:hover::after,
+abbr[data-tooltip]:focus::after {
   content: attr(data-tooltip);
   position: absolute;
   bottom: 100%;
@@ -444,8 +445,9 @@ abbr[data-tooltip]:hover::after {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
 }
 
-/* Arrow for custom tooltip */
-abbr[data-tooltip]:hover::before {
+/* Arrow for custom tooltip on hover and focus */
+abbr[data-tooltip]:hover::before,
+abbr[data-tooltip]:focus::before {
   content: "";
   position: absolute;
   bottom: 100%;

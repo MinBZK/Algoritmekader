@@ -609,18 +609,20 @@ li.md-source__fact.md-source__fact--version{
 
 .md-typeset .admonition.tip, .md-typeset details.tip{
 border-color: #B2D7EE;
+font-size: 1rem !important;
 }
 
 .md-typeset .tip>.admonition-title, .md-typeset .tip>summary{
 background-color: #B2D7EE;
+font-size: 1rem !important;
 }
 
 .md-typeset .admonition, .md-typeset details{
   border: .075rem solid #B2D7EE;
   border-radius: .2rem;
+  font-size: 1rem !important;
   color: #154271;
   display: flow-root;
-  font-size: .64rem;
   margin: 1.5625em 0;
   padding: 0 .6rem;
   page-break-inside: avoid;

@@ -205,6 +205,7 @@ h1{
   background-color: rgba(21, 66, 115, 0.1) !important;
 }
 
+
 /* Focus states for buttons */
 button:focus, .md-header__button:focus {
   outline: 2px solid #154273 !important;
@@ -236,6 +237,7 @@ abbr[title],
   border-bottom: 1px dotted #154273;
   text-decoration: none;
   position: relative;
+  font-size: 1rem !important;
 }
 
 /* Enhanced hover and focus states for better visibility */
@@ -265,6 +267,7 @@ abbr[title][tabindex]:focus {
   text-decoration: none !important;
   cursor: help !important;
   position: relative;
+  font-size: 1rem !important;
 }
 
 .md-typeset abbr[title]:hover,
@@ -282,6 +285,7 @@ abbr[title][tabindex]:focus {
   border-bottom: 1px dotted #154273;
   cursor: help;
   position: relative;
+  font-size: 1rem !important;
 }
 
 .md-typeset [title]:not(img):not(button):not(.md-header__button):not(.md-nav__button):hover,
@@ -400,6 +404,12 @@ a[target="_blank"]:focus,
 
 :root {
   --md-typeset-a-color: #154273;
+}
+
+/* Navigation font size override */
+.md-nav {
+  font-size: 1rem !important;
+  line-height: 1.4 !important;
 }
 
 .md-nav__title{

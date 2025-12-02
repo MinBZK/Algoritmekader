@@ -376,6 +376,7 @@ a[target="_blank"]:focus,
   color: #154273;
   border: #154273 solid 1px;
   border-radius: 5px;
+  font-size: 1rem; /* Ensure search input uses full size regardless of body font-size */
 }
 
 .md-search__form{

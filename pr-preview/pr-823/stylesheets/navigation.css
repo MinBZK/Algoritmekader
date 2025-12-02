@@ -398,12 +398,50 @@ a[target="_blank"]:focus,
   color: #154273;
 }
 
-
-.md-header__source{
-  color: #154273;
+.md-search__overlay{
+  background-color: rgba(0, 0, 0, 0.6);
 }
 
-.md-search__overlay{
+.md-search__output {
+  background-color: white;
+  border-radius: 4px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  max-height: 75vh;
+  overflow-y: auto;
+}
+
+.md-search-result {
+  border-bottom: 1px solid #e5e7eb;
+  padding: 12px;
+}
+
+.md-search-result__title {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #154273;
+  text-decoration: none;
+  line-height: 1.4;
+  margin-bottom: 4px;
+  display: block;
+}
+
+.md-search-result__title:hover {
+  color: #0066a3;
+}
+
+.md-search-result__article {
+  font-size: 0.875rem;
+  color: #6b7280;
+  margin-bottom: 4px;
+}
+
+.md-search-result__text {
+  font-size: 0.875rem;
+  color: #4b5563;
+  line-height: 1.4;
+}
+
+.md-header__source{
   color: #154273;
 }
 

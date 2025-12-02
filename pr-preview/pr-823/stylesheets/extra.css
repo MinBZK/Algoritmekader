@@ -749,6 +749,14 @@ font-size: 0.875rem !important;
   text-decoration: none;
 }
 
+/* Homepage grid h2 styling */
+.responsive-grid-2 h2,
+.responsive-grid-3 h2 {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+  font-weight: 700 !important;
+}
+
 /* Responsive grid layouts */
 @media (max-width: 600px) {
   .responsive-grid-2 {

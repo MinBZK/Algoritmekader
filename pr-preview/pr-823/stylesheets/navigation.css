@@ -561,14 +561,14 @@ abbr[data-tooltip]:focus::after {
   bottom: 100%;
   left: 50%;
   transform: translateX(-50%);
-  background-color: rgba(0, 0, 0, 0.9);
+  background-color: rgba(255, 0, 0, 0.9); /* RED background to force visible change */
   color: white;
-  padding: 4px 8px; /* Reduced padding from 8px 12px */
+  padding: 8px 12px; /* More padding for better readability */
   border-radius: 4px;
-  font-size: 0.984375rem !important; /* Same as body text size */
+  font-size: 16px !important; /* Much larger, readable font size */
   font-weight: normal;
-  white-space: normal; /* Allow text wrapping */
-  max-width: 800px; /* Much wider tooltip */
+  white-space: nowrap; /* PREVENT wrapping to make tooltip as wide as needed */
+  max-width: none; /* NO max-width limit */
   z-index: 9999; /* Higher z-index to appear above everything */
   pointer-events: none;
   margin-bottom: 4px; /* Reduced margin from 8px */

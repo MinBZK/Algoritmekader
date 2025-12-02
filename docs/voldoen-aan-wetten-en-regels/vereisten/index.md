@@ -37,7 +37,7 @@ Welke vereisten gelden voor jouw organisatie, hangt af van:
 - de risicoclassificatie van het algoritme dat je gebruikt
 - je rol: ben je ontwikkelaar of alleen gebruiker van het algoritme?
 
-### Voorbeeld
+## Voorbeeld
 > Impactvolle algoritmes en AI-systemen worden gepubliceerd in het Nederlandse algoritmeregister.
 
 Deze vereiste geldt alleen voor impactvolle algoritmes en hoog-risico-AI-systemen. Een niet-impactvolle rekenregel hoef je niet te registreren.

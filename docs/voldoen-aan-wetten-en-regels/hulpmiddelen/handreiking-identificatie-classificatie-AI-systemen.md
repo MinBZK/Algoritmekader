@@ -37,16 +37,16 @@ hide: navigation
 Deze handreiking ondersteunt de impactanalyse voor de AI-verordening. Dit document bevat concrete handvatten voor het inventariseren, identificeren en classificeren van AI-systemen.
 Deze handvatten helpen de gebruiker bij het invullen van de impactanalyse en het bepalen van de toepasselijke vereisten.
 
-### Kan ik 100% op dit document vertrouwen?
+## Kan ik 100% op dit document vertrouwen?
 Hoewel deze informatie zorgvuldig is opgesteld kunnen er bepaalde nuances zijn verloren, gebruik deze handreiking daarom altijd samen met [de officiële tekst van de AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689).
 De interpretatie van definities en bepalingen in de AI-verordening is nog in ontwikkeling, het is daarom mogelijk dat een deel van de in dit document gegeven informatie in de loop van de tijd niet meer volledig of actueel is.
 
 ## Hulpmiddelen bij de AI-verordening
 
-### Auteur
+## Auteur
 Dit document is ontwikkeld door de directie CIO Rijk (Ministerie van Binnenlandse Zaken en Koninkrijksrelaties) met adviseurs van het Rijks ICT Gilde en de interdepartementale werkgroep ‘Rijksbrede implementatie AI-verordening’ in opdracht van de CDO-raad.
 
-### Implementatie AI-verordening
+## Implementatie AI-verordening
 De Rijksoverheid ontwikkelt voortdurend instrumenten en hulpmiddelen om de implementatie van de AI-verordening te ondersteunen. Onder [Hulpmiddelen](index.md) zijn meer van deze instrumenten te vinden, en [hier kun je meer lezen over de AI-verordening](../../ai-verordening/index.md).
 
 ## Bijbehorende vereisten { data-search-exclude }

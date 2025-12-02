@@ -39,14 +39,14 @@ Bij situaties waar de AVG van toepassing is, is het op grond van artikel 22 van 
 
 De publicatie ['Handvatten betekenisvolle menselijke tussenkomst' van de Autoriteit Persoonsgegevens (AP)](https://www.autoriteitpersoonsgegevens.nl/actueel/betekenisvolle-menselijke-tussenkomst-bij-algoritmische-besluitvorming) geeft de volgende richtlijnen voor het inrichten van betekenisvolle menselijke tussenkomst:
 
-### Mens
+## Mens
 De AP geeft aan dat de mens eigenschappen heeft die algoritmes niet hebben. Om die eigenschappen betekenisvol tot uiting te laten komen, zijn de volgende onderdelen belangrijk:
 
 - Beoordelaars moeten alle relevante factoren kunnen betrekken.
 - Beoordelaars moeten hun eigen menselijk inzicht kunnen inzetten.
 - Beoordelaars moeten voldoende bekwaam zijn om het algoritme, de output en de totstandkoming van het besluit te beoordelen.
 
-### Technologie en ontwerp
+## Technologie en ontwerp
 De AP waarschuwt dat niet alleen de mens invloed moet kunnen uitoefenen, maar dat de technologie ook de mens kan beïnvloeden. Zo kan bijvoorbeeld <i>automation bias</i> optreden, waarbij mensen de prestaties en nauwkeurigheid van algoritmes overschatten. Zo wordt te snel de output van het algoritme zonder kritische blik gevolgd. Aan de andere kant kan ook <i>algorithmic aversion</i> ontstaan, waarbij juist sprake is van een onderschatting van dezelfde eigenschappen van het algoritme. Dit heeft als risico dat menselijke bias in de besluitvorming wordt geïntroduceerd. Om de technologie zo in te richten dat menselijke tussenkomst op betekenisvolle wijze mogelijk blijft, zijn de volgende onderdelen belangrijk.
 
 - De interface moet zo worden ontworpen en vormgegeven dat neutraliteit wordt gewaarborgd en betekenisvolle tussenkomst wordt gestimuleerd.
@@ -55,7 +55,7 @@ De AP waarschuwt dat niet alleen de mens invloed moet kunnen uitoefenen, maar da
 - De beoordelaar moet de data in een zo neutraal mogelijke volgorde te zien krijgen.
 - De wijze van beoordelen moet op een gevarieerde wijze plaatsvinden om te voorkomen dat het routinematig wordt en daarmee zijn functie verliest.
 
-### Proces
+## Proces
 De AP geeft aan dat de betekenis van menselijke tussenkomst beïnvloed kan worden door het proces daaromheen. Om het proces rond de menselijke tussenkomst zo in te richten dat deze optimaal betekenisvol is, zijn de volgende onderdelen belangrijk.
 
 - Het moment binnen de besluitvorming waarop de menselijke tussenkomst plaatsvindt moet passend zijn bij het besluit en de werking van het algoritme. Het kan nodig zijn dat de menselijke tussenkomst op meerdere momenten plaatsvindt.
@@ -63,7 +63,7 @@ De AP geeft aan dat de betekenis van menselijke tussenkomst beïnvloed kan worde
 - Beoordelaars moeten bevoegdheid hebben om tegen het algoritme in te gaan en zich vrij voelen dat ook daadwerkelijk te doen.
 - Beoordelaars moeten voldoende ondersteuning hebben bij het nemen van beslissingen.
 
-### Governance
+## Governance
 De AP noemt dat binnen een organisatie het belang van betekenisvolle menselijke tussenkomst moet worden onderschreven en dat de organisatie steeds verantwoordelijkheid moet blijven nemen voor de inzet van algoritmes en de daarvoor noodzakelijke inrichting van de menselijke tussenkomst. Om te waarborgen dat binnen een organisatie de juiste personen daarvoor verantwoordelijk blijven, zijn de volgende onderdelen belangrijk.
 
 - De organisatie legt haar beleid over betekenisvolle menselijke tussenkomst vast in procedures.

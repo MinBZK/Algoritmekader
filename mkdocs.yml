@@ -1,5 +1,5 @@
 # Existing mkdocs.yml content
-site_name: Algoritmekader 2.2
+site_name: Algoritmekader
 site_description: Het Algoritmekader van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
 theme:
@@ -14,6 +14,7 @@ theme:
     features:
         - navigation.indexes
         - navigation.tabs
+        - navigation.tabs.sticky
         - navigation.top
         - navigation.tracking
         - navigation.instant
@@ -123,6 +124,7 @@ extra_javascript:
   - javascripts/mermaid.min.js
   - javascripts/modal.js
   - javascripts/extra.js
+  - javascripts/hamburger-control.js
 
 plugins:
     - glightbox
@@ -142,6 +144,5 @@ hooks:
     - src/overrides/hooks/security_txt.py
 
 # Link naar GitHub repo
-repo_url: https://github.com/MinBZK/Algoritmekader
 site_url: https://minbzk.github.io/Algoritmekader/
 edit_uri: edit/main/docs/

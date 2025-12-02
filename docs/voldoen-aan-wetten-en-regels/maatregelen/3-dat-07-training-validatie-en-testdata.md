@@ -53,7 +53,7 @@ Verdeel je dataset in drie delen:
 
     Let op dat je pas naar deze resultaten kijkt als laatste stap. Inzichten uit deze testdataset mogen niet worden meegenomen in de ontwikkeling, omdat dit kan leiden tot overfitting. Het model zal dan in productie mogelijk minder goed presteren.
 
-### Grootte van de drie datasets
+## Grootte van de drie datasets
 
 Er is geen optimale verdeling van de drie datsets. Veelvoorkomende verhoudingen om data te splitten zijn:
 
@@ -67,7 +67,7 @@ Afhankelijk van de hoeveelheid beschikbare data en de context maak je hierin een
 - Hoe minder validatie- en testdata je gebruikt, hoe groter de variatie en de onzekerheid in de verwachte prestaties van het algoritme.
 - Hoe complexer het model en hoe meer (hyper)parameters er zijn om te optimaliseren, hoe groter de validatieset moet zijn om het model met optimale presetaties te vinden. Wanneer er weinig hyperparameters zijn, is een relatief kleine validatieset vaak voldoende.
 
-### K-fold cross validation
+## K-fold cross validation
 
 Naast dat je de datasets willekeurig kan verdelen in drie delen (aselect), kan je ook meer geavanceerde technieken gebruiken. Een robuuste en veelgebruikte techniek is [k-fold cross validation](https://www.statlearning.com), waarbij het model *k* keer wordt getraind op verschillende delen van de data.
 

@@ -50,12 +50,12 @@ Deze matrix kan in verdere fases helpen wanneer belanghebbenden betrokken moeten
 Een RACI-matrix/VERI-matrix is een passend middel om de verantwoordelijkheden (Responsible/Verantwoordelijk, Accountable/Eindverantwoordelijk, Consulted/Geraadpleegd, Informed/Geïnfomeerd) te bepalen.
 Werk specifieke, gevoelige activiteiten nader uit in concrete taken en verantwoordelijkheden, bijvoorbeeld welke stappen moeten worden gezet om data veilig te leveren ten behoeve van een onderzoek naar onbewuste vooringenomenheid.
 
-### Vaststellen van rollen en verantwoordelijkheden
+## Vaststellen van rollen en verantwoordelijkheden
 - Laat de rollen en verantwoordelijkheden vaststellen door de verantwoordelijke(n). Het doel van vaststelling is dat de verantwoordelijke(n) de verantwoordelijkheid neemt en actief een keuze maakt om het algoritme te (laten) ontwikkelen of gebruiken op de beoogde wijze en met de bijbehorende verantwoordelijkheden. Met het vaststellen worden afspraken geformaliseerd.
 - Vaststelling van de verantwoordelijkheden kan plaatsvinden door beleidsdocumenten, werkinstructies, verwerkersovereenkomst of een PIA/DPIA, mits de verantwoordelijkheden voldoende duidelijk zijn beschreven.
 - Gedurende de levenscyclus kan het voorkomen dat rollen en verantwoordelijkheden opnieuw moet worden beschreven en vastgesteld.
 
-### Verwerking van persoonsgegevens
+## Verwerking van persoonsgegevens
 - Bij het verwerken van persoonsgegevens moet worden vastgelegd wie de (gezamelijke) verwerkingsverantwoordelijken zijn en wie de verwerkers. Uit deze vaststelling van de rolverdeling volgen onder de AVG verschillende rechten en plichten.
 - Bij de ontwikkeling en gebruiken van algoritmes is het denkbaar dat de noodzaak voor het verwerken van persoonsgegevens wijzigt en dat meer of andere verwerkingen moeten plaatsvinden. Het is van belang dat wederom wordt beoordeeld wat dit betekent voor de bijbehorende verantwoordelijkheden. Als er sprake is van een wezenlijke wijziging ten opzichte van de al vastgestelde situatie, bijvoorbeeld doordat er meer persoonsgegevens worden verwerkt door een andere partij, dan zal de verwerkingsverantwoordelijke opnieuw tot vaststelling moeten overgaan om de afspraken te formaliseren.
 

@@ -565,13 +565,16 @@ abbr[data-tooltip]:focus::after {
   color: white;
   padding: 4px 8px; /* Reduced padding from 8px 12px */
   border-radius: 4px;
-  font-size: 11px !important; /* Much smaller font size */
+  font-size: 0.984375rem !important; /* Same as body text size */
   font-weight: normal;
-  white-space: nowrap;
-  z-index: 1000;
+  white-space: normal; /* Allow text wrapping */
+  max-width: 800px; /* Much wider tooltip */
+  z-index: 9999; /* Higher z-index to appear above everything */
   pointer-events: none;
   margin-bottom: 4px; /* Reduced margin from 8px */
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  line-height: 1.3; /* Better line spacing for wrapped text */
+  text-align: center;
 }
 
 /* Arrow for custom tooltip on hover and focus */

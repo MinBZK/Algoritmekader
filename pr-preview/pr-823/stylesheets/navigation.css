@@ -568,8 +568,8 @@ abbr[data-tooltip]:focus::after {
   font-size: 14px !important; /* Smaller, more readable font */
   font-weight: normal !important;
   white-space: normal !important;
-  max-width: 50vw !important; /* 50% of viewport width */
-  min-width: 300px !important; /* Minimum width to prevent too narrow */
+  max-width: 70vw !important; /* 70% of viewport width */
+  min-width: 400px !important; /* Bredere minimum width */
   z-index: 99999 !important; /* Super high z-index */
   pointer-events: none !important;
   margin-bottom: 8px !important;

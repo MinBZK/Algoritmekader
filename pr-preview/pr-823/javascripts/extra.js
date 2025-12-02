@@ -157,11 +157,27 @@
         });
     }
 
+    // Function to clear search highlights from content
+    function clearSearchHighlights() {
+        // Remove MkDocs Material search highlights
+        const highlights = document.querySelectorAll('mark[data-md-highlight]');
+        highlights.forEach(function(mark) {
+            // Replace the mark element with its text content
+            const parent = mark.parentNode;
+            const textNode = document.createTextNode(mark.textContent);
+            parent.replaceChild(textNode, mark);
+            
+            // Normalize the parent to merge adjacent text nodes
+            parent.normalize();
+        });
+    }
+
     // Make functions globally available
     window.initializeAccessibleAbbreviations = initializeAccessibleAbbreviations;
     window.makeElementAccessibleGlobal = makeElementAccessibleGlobal;
     window.setupCustomTooltip = setupCustomTooltip;
     window.fixSearchResultSemantics = fixSearchResultSemantics;
+    window.clearSearchHighlights = clearSearchHighlights;
 
     // Add a MutationObserver to catch dynamically added content
     const tooltipObserver = new MutationObserver(function(mutations) {
@@ -209,5 +225,16 @@
             childList: true,
             subtree: true
         });
+
+        // Listen for search input changes - only clear when field becomes empty
+        const searchInput = document.querySelector('.md-search__input');
+        if (searchInput) {
+            searchInput.addEventListener('input', function() {
+                // Clear highlights when search field becomes empty
+                if (this.value.trim() === '') {
+                    setTimeout(clearSearchHighlights, 100);
+                }
+            });
+        }
     });
 })();

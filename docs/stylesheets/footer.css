@@ -1,37 +1,40 @@
 .md-footer {
     background-color: #e6f3fb; /* Light blue background */
     padding: 20px;
-    border-top: 6px solid #B2D7EE;
+    border-top: 10px solid #B2D7EE;
   }
 
   .md-footer__inner {
     max-width: 1200px;
     margin: 0 auto;
+    padding: 0 1rem;
     display: flex;
-    gap: 40px;
+    gap: 20px;
     justify-content: space-between;
     align-items: flex-start;
+    flex-wrap: wrap;
 }
   /* Column 1: Notice Section */
   .md-footer__notice {
     flex: 1 1 auto;
     color: #154273; /* Dark blue for readability */
-    font-size: 1.3em;
+    font-size: 0.9em;
   }
 
   /* Columns 2, 3 & 4: Link Columns */
   .md-footer__column {
     display: flex;
     flex-direction: column;
-    gap: 10px;
-    min-width: 180px;
+    gap: 5px;
+    min-width: 150px;
     flex: 0 1 auto;
+    line-height: 1.2;
   }
 
   .md-footer__column a {
     color: #154273; /* Darker link color */
     text-decoration: underline;
-    font-size: 1.5em;
+    font-size: 0.875em;
     position: relative; /* Nodig voor positionering van de chevron */
   }
 
@@ -80,5 +83,19 @@
 
     .md-footer__column {
       align-items: center;
+      min-width: auto;
+      width: 100%;
+    }
+  }
+
+  /* Additional responsive breakpoint for tablets and smaller screens */
+  @media (max-width: 1024px) {
+    .md-footer__inner {
+      gap: 15px;
+    }
+
+    .md-footer__column {
+      min-width: 120px;
+      flex: 1;
     }
   }

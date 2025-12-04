@@ -33,22 +33,22 @@ De keuze voor het type algoritme bepaalt hoe transparant je kunt zijn. Van reken
 
 Afhankelijk van het type algoritme zijn er uitlegbaarheidstechnieken beschikbaar om de werking en keuzes van een algoritme bloot te leggen. Er moet eerst een keuze worden gemaakt welk type algoritme geschikt is gezien de [informatiebehoefte](2-owp-30-informeer-betrokkenen.md). Het is belangrijk om samen met de betrokken partijen vast te leggen welke uitlegbaarheidstechnieken moeten worden toegepast. Bij bronnen kan informatie worden geraadpleegd die helpen bij het vinden van de juiste methodiek.
 
-### Gebruik uitlegbaarheid bij besluiten
+## Gebruik uitlegbaarheid bij besluiten
 
 Onderzoek hoe uitlegbaarheidstechnieken kunnen bijdragen aan het motiveren van besluiten. Dit kan bijvoorbeeld door:
 
 - De output van het algoritme te koppelen aan het zaakdossier, met een toelichting op de interpretatie van die output.
 - De output of een samenvatting hiervan op te nemen in de beschikking.
 
-### Generatieve AI
+## Generatieve AI
 
 Bij gebruik van generatieve AI is het haast onmogelijk om direct uitlegbaar te maken hoe een uitkomst tot stand is gekomen. Om toch (deels) uitleg te kunnen geven over de werking van een generatief AI-model kun je uitleg verschaffen over de capaciteiten, beperkingen en trainingsdata van het AI-model. Daarnaast is het verstanding om te onderzoeken wat de risico's zijn als de uitkomsten van een generatief AI-systeem niet uitgelegd kunnen worden.
 
-### Beperkingen en veiligheid
+## Beperkingen en veiligheid
 
 Vanuit veiligheidsoverwegingen kan bij specifieke algoritmes besloten worden om bepaalde informatie over de werking van een algoritme niet aan iedereen vrij te geven. Denk hierbij aan de beperkingen die de [Wet Open Overheid](../vereisten/woo-01-recht-op-toegang-tot-publieke-informatie.md) oplegt. Houd ook rekening met mogelijke risico’s op aanvallen die kunnen ontstaan door het gebruik van uitlegbaarheidstechnieken, zoals omschreven in: A Survey of Privacy-Preserving Model Explanations: Privacy Risks, Attacks, and Countermeasures.
 
-### Evaluatie en validatie
+## Evaluatie en validatie
 
 Evalueer de uitlegbaarheid van het systeem op functionele, operationele, bruikbaarheids- en veiligheidsvereisten in samenwerking met betrokkenen zoals gebruikers. Valideer of de uitkomst van het algoritme begrijpelijk genoeg is voor een gebruiker om hier op een verantwoorde wijze mee te werken.
 

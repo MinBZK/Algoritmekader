@@ -10,14 +10,22 @@
     function initialize() {
         initializeChoices();
         initializeAccessibleAbbreviations();
+        fixSearchResultSemantics();
     }
 
     // Handle MkDocs Material SPA navigation
     if (typeof document$ !== 'undefined') {
         document$.subscribe(function() {
-            // Reset focus to document body to ensure skiplink is first tab stop
-            document.body.setAttribute('tabindex', '-1');
-            document.body.focus();
+            // Only reset focus if it's not already on a specific element (like main-content)
+            const focusedElement = document.activeElement;
+            const isMainContent = focusedElement && focusedElement.id === 'main-content';
+            const isSkipLink = focusedElement && focusedElement.classList.contains('skip-link');
+            
+            if (!isMainContent && !isSkipLink) {
+                // Reset focus to document body to ensure skiplink is first tab stop
+                document.body.setAttribute('tabindex', '-1');
+                document.body.focus();
+            }
 
             // Small delay to ensure DOM is ready
             setTimeout(initialize, 100);
@@ -60,10 +68,11 @@
 
     // Function to initialize accessible abbreviations and tooltips
     function initializeAccessibleAbbreviations() {
-        // Handle abbreviations
+        // Handle abbreviations with custom tooltips
         const abbreviations = document.querySelectorAll('abbr[title]');
         abbreviations.forEach(function(abbr) {
             makeElementAccessibleGlobal(abbr);
+            setupCustomTooltip(abbr);
         });
 
         // Handle ALL elements with title attributes (including MkDocs tooltips)
@@ -82,9 +91,9 @@
     }
 
     function makeElementAccessibleGlobal(element) {
-        // Remove from tab order to avoid interfering with skiplink navigation
+        // Make accessible with tab order to ensure keyboard navigation
         if (!element.hasAttribute('tabindex')) {
-            element.setAttribute('tabindex', '-1');
+            element.setAttribute('tabindex', '0');
         }
 
         // Add keyboard event listeners for better accessibility
@@ -111,13 +120,69 @@
         }
     }
 
+    // Function to setup custom tooltips
+    function setupCustomTooltip(element) {
+        let originalTitle = element.getAttribute('title');
+        
+        // Store original title in data attribute for CSS to use
+        element.setAttribute('data-tooltip', originalTitle);
+        
+        // Remove title immediately to prevent native tooltip
+        element.removeAttribute('title');
+    }
+
+    // Function to fix search result semantic structure 
+    // Converts h1 tags in search results to h2 for proper semantic hierarchy
+    function fixSearchResultSemantics() {
+        // Find all search result h1 tags within the search output area
+        const searchResults = document.querySelectorAll('.md-search-result h1, .md-search-result__title');
+        
+        searchResults.forEach(function(h1Element) {
+            // Only convert h1 tags, not other elements with md-search-result__title class
+            if (h1Element.tagName.toLowerCase() === 'h1') {
+                // Create a new h2 element
+                const h2Element = document.createElement('h2');
+                
+                // Copy all attributes from h1 to h2
+                Array.from(h1Element.attributes).forEach(function(attr) {
+                    h2Element.setAttribute(attr.name, attr.value);
+                });
+                
+                // Copy all content from h1 to h2
+                h2Element.innerHTML = h1Element.innerHTML;
+                
+                // Replace h1 with h2 in the DOM
+                h1Element.parentNode.replaceChild(h2Element, h1Element);
+            }
+        });
+    }
+
+    // Function to clear search highlights from content
+    function clearSearchHighlights() {
+        // Remove MkDocs Material search highlights
+        const highlights = document.querySelectorAll('mark[data-md-highlight]');
+        highlights.forEach(function(mark) {
+            // Replace the mark element with its text content
+            const parent = mark.parentNode;
+            const textNode = document.createTextNode(mark.textContent);
+            parent.replaceChild(textNode, mark);
+            
+            // Normalize the parent to merge adjacent text nodes
+            parent.normalize();
+        });
+    }
+
     // Make functions globally available
     window.initializeAccessibleAbbreviations = initializeAccessibleAbbreviations;
     window.makeElementAccessibleGlobal = makeElementAccessibleGlobal;
+    window.setupCustomTooltip = setupCustomTooltip;
+    window.fixSearchResultSemantics = fixSearchResultSemantics;
+    window.clearSearchHighlights = clearSearchHighlights;
 
     // Add a MutationObserver to catch dynamically added content
     const tooltipObserver = new MutationObserver(function(mutations) {
-        let shouldReinit = false;
+        let shouldReinitTooltips = false;
+        let shouldFixSemantics = false;
 
         mutations.forEach(function(mutation) {
             if (mutation.type === 'childList' && mutation.addedNodes.length > 0) {
@@ -128,15 +193,28 @@
                         const hasChildrenWithTitle = node.querySelectorAll && node.querySelectorAll('[title]').length > 0;
 
                         if (hasTitle || hasChildrenWithTitle) {
-                            shouldReinit = true;
+                            shouldReinitTooltips = true;
+                        }
+
+                        // Check if the added node contains search results
+                        const isSearchResult = node.classList && node.classList.contains('md-search-result');
+                        const hasSearchResults = node.querySelectorAll && node.querySelectorAll('.md-search-result').length > 0;
+                        const hasH1InSearch = node.querySelectorAll && node.querySelectorAll('.md-search-result h1').length > 0;
+
+                        if (isSearchResult || hasSearchResults || hasH1InSearch) {
+                            shouldFixSemantics = true;
                         }
                     }
                 });
             }
         });
 
-        if (shouldReinit) {
+        if (shouldReinitTooltips) {
             setTimeout(initializeAccessibleAbbreviations, 100);
+        }
+
+        if (shouldFixSemantics) {
+            setTimeout(fixSearchResultSemantics, 50); // Run faster for better UX
         }
     });
 
@@ -147,5 +225,16 @@
             childList: true,
             subtree: true
         });
+
+        // Listen for search input changes - only clear when field becomes empty
+        const searchInput = document.querySelector('.md-search__input');
+        if (searchInput) {
+            searchInput.addEventListener('input', function() {
+                // Clear highlights when search field becomes empty
+                if (this.value.trim() === '') {
+                    setTimeout(clearSearchHighlights, 100);
+                }
+            });
+        }
     });
 })();

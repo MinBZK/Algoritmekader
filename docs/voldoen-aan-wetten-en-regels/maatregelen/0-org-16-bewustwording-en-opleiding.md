@@ -40,7 +40,7 @@ Maak een meerjarig actieplan om toe te werken naar een volwassen niveau van AI-g
 
 ![stappenplan meerjarenplan AI-geletterdheid](images/ai-geletterdheid-ap.png)
 
-### Relevante opleidingen
+## Relevante opleidingen
 - [E-learning Non-discriminatie in algoritmes en data](https://www.it-academieoverheid.nl/actueel/nieuws/2024/10/29/nieuwe-radio-e-learning-non-discriminatie)
 - [Basistrainingen AI en generatieve AI via RADIO](https://www.it-academieoverheid.nl/onderwerpen/a/artificiele-intelligentie)
 

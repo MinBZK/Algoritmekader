@@ -47,7 +47,7 @@ Voor het evalueren van de nauwkeurigheid zijn de volgende stappen essentieel:
     - Wanneer de nauwkeurigheid niet voldoende is tijdens de ontwikkelfase kan er besloten worden door te ontwikkelen, andere maatregelen te treffen (bijvoorbeeld in [menselijke interventies](../../onderwerpen/menselijke-controle.md)) om het restrisico acceptabel te maken of door [te stoppen met de ontwikkeling van het systeem](../../levenscyclus/uitfaseren.md).
     - Wanneer monitoring aangeeft dat de nauwkeurigheid onvoldoende is, moet er een passende afweging worden gemaakt om het systeem te verbeteren dan wel over te gaan op het [stoppen van het systeem](4-owk-02-stopzetten-gebruik.md).
 
-### Metrieken
+## Metrieken
 Afhankelijk van het type algoritme zijn er verschillende metrieken waarmee je de nauwkeurigheid kan meten. Veelgebruikte metrieken/methoden zijn:
 
 - accuraatheid *(accuracy)*

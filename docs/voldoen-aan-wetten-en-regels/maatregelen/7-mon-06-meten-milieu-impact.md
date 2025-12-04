@@ -29,16 +29,16 @@ Inventariseer en monitor de milieu-impact van algoritmes (bijvoorbeeld door het 
 
 Tref bijvoorbeeld de volgende maatregelen, wanneer je de milieu-impact van algoritmes gaat inventariseren of monitoren:
 
-### Digital Product Passports
+## Digital Product Passports
 De milieu-impact van algoritmes kan worden gemeten en geoptimaliseerd door een [Digital Product Passport (DPP)](https://coalitieduurzamedigitalisering.nl/nieuws/digital-product-passport-samen-aan-de-slag/) te overwegen.
 DPP's bieden een platform voor duurzame rapportage door middel van real-time informatie over onder andere CO₂-uitstoot, herkomst en energiegebruik, wat kan helpen om de ecologische voetafdruk van een algoritme transparant te maken.
 Door deze gegevens structureel te verzamelen en te delen, kunnen gebruikers en bedrijven inzicht krijgen in de duurzaamheidsprestaties.
 De milieu-impact van verschillende algoritmes/ modellen kan een rol spelen bij het kiezen van een model in de ontwerpfase. Ook kan het ervoor zorgen dat je later kiest om een ander model te gebruiken of ervoor kiest om het gebruik van een model of systeem zelfs te beëindigen.
 
-### Milieu-impact assessments
+## Milieu-impact assessments
 Wanneer de milieu-impact (in bepaalde mate) inzichtelijk is, kan er een milieu-impact assessment worden gedaan. Ga na of je organisatie er een heeft of overweeg deze te ontwikkelen.
 
-### Periodieke monitoring
+## Periodieke monitoring
 Probeer ook periodieke monitoringsrapporten op te stellen waarin de milieu-impact van algoritmes wordt bijgehouden.
 Hiermee vergroot je de duurzaamheid door [tijdig verbeteringen te signaleren en door te voeren](../../levenscyclus/monitoring-en-beheer.md). Hierbij kan ook een onderscheid worden gemaakt in de impact tijdens de trainingsfase van het algoritme en de gebruiksfase.
 

@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  <!-- Skip link CSS is in navigation.css -->
+{% endblock %}
+
+{% block container %}
+  <!-- Skip link for accessibility -->
+  <a href="#main-content" class="skip-link">Ga naar hoofdinhoud</a>
+  {{ super() }}
+{% endblock %}
+
+{% block main %}
+  <!-- Add ID to main content for skip link target -->
+  <main id="main-content" class="md-main" data-md-component="main" tabindex="-1">
+    <div class="md-main__inner md-grid">
+      {% block content %}{{ super() }}{% endblock %}
+    </div>
+  </main>
+{% endblock %}

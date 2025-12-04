@@ -63,7 +63,7 @@ Dit verbod geldt voor besluiten die **'rechtsgevolgen'** hebben voor een betrokk
 
 Bij het geautomatiseerd uitvoeren van processen dient altijd te worden voldaan aan de voorwaarden uit wetgeving, waaronder in het bijzonder de Algemene Verordening Gegevensbescherming (AVG) en de Algemene wet bestuursrecht(Awb). Bestuursorganen dienen dan ook te handelen conform de algemene beginselen van behoorlijk bestuur. Dit samenstel van regels moet de rechten van betrokkenen borgen.
 
-### Algemene eisen aan geautomatiseerde besluitvorming door overheden
+## Algemene eisen aan geautomatiseerde besluitvorming door overheden
 
 De Nederlandse wetgever heeft in artikel 40 lid 1 UAVG gebruik gemaakt van de mogelijkheid een uitzondering te maken op het verbod van art. 22 lid 1 AVG. In Nederland is geautomatiseerde besluitvorming toegestaan, als het gaat om besluitvorming waarbij menselijke tussenkomst geen toegevoegde waarde heeft.
 
@@ -73,7 +73,7 @@ Om deze uitzondering toe te kunnen passen, moet er op grond van artikel 22 AVG e
 
 Bij het toepassen van geautomatiseerde besluitvorming, moet aan de hand van een DPIA wordt vastgesteld of er bij toepassing van de Awb daadwerkelijk voldoende bescherming wordt geboden. Een verwerkingsverantwoordelijke zal dus, naast het toepassen van vereisten uit de AVG en specifieke (sectorale) wetgeving, beginselen uit de Awb moeten vertalen naar concrete maatregelen om geautomatiseerde besluitvorming op een rechtmatige wijze toe te passen. Hierbij kan worden gedacht aan het toepassen van [motiveringsbeginsel](awb-02-motiveringsbeginsel.md) en het [zorgvuldigheidsbeginsel](awb-01-zorgvuldigheidsbeginsel.md).
 
-### Begrippen
+## Begrippen
 
 #### Profilering
 

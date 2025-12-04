@@ -44,17 +44,17 @@ Voorkom dat medewerkers op de verkeerde manier werken met het algoritme. Zij moe
 ## Controleer regelmatig
 Begin zo vroeg mogelijk met regelmatige controles van de uitkomst en werking van het algoritme. In de praktijk verandert de omgeving en de situatie waarin het algoritme wordt gebruikt. Controleer daarom regelmatig of het algoritme nog werkt zoals het is bedoeld.
 
-### Voorbeeld
+## Voorbeeld
 Een algoritme leest kentekens tijdens parkeercontroles. Het herkent de juiste letters en cijfers op elk kenteken. Ook als het bord een andere kleur heeft, op een andere plek zit of vies is. Het algoritme is nauwkeurig en dus robuust.
 
 Een algoritme berekent het risico op fraude door mensen. Maar bij personen uit dezelfde groep geeft het algoritme de ene keer als uitkomst ‘hoog risico’ en de andere keer ‘geen risico’. De uitkomst is niet reproduceerbaar. Hierdoor is het algoritme niet robuust.
 
-### Controles voorbereiden
+## Controles voorbereiden
 Bereid de controles voor tijdens de levenscyclusfases [probleemanalyse](../levenscyclus/probleemanalyse.md), [ontwerp](../levenscyclus/ontwerp.md) en [dataverkenning en datapreparatie](../levenscyclus/dataverkenning-en-datapreparatie.md). Onderzoek de situatie waarin je organisatie het algoritme gaat gebruiken: Wat zijn de risico’s? Welke onderdelen van het algoritme moet je evalueren? Analyseer de kwaliteit en variatie van de data. Bedenk maatregelen waarmee je de risico’s zoveel mogelijk voorkomt. En bedenk met welke methode je de controles gaat evalueren.
 
 Ontwikkel je het algoritme zelf, controleer dan tijdens de ontwikkeling al wat er gebeurt in de verschillende situaties die je verwacht. Experimenteer met nieuwe combinaties van de inputdata en gebruik verschillende representatieve test-sets.
 
-### Controles uitvoeren
+## Controles uitvoeren
 Voer de controles uit tijdens de [ontwikkelfase](../levenscyclus/ontwikkelen.md) en de [verificatie- en validatiefase](../levenscyclus/verificatie-en-validatie.md). Test het algoritme goed. Evalueer hoe robuust en veilig het algoritme is. Verbeter het algoritme waar nodig. En monitor goed welke data het algoritme gebruikt, zodat je veranderingen in die data snel signaleert. Maak een noodplan voor als blijkt dat het algoritme niet meer werkt zoals het bedoeld was.
 
 Blijf regelmatig controleren tijdens de fases [implementatie](../levenscyclus/implementatie.md) en [monitoring en beheer](../levenscyclus/monitoring-en-beheer.md). Dit zijn de fases waarin je het algoritme gebruikt. Presteert het algoritme niet goed, los het probleem dan op of [stop het gebruik](../levenscyclus/uitfaseren.md).

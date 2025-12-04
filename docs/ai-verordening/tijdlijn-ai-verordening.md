@@ -26,7 +26,7 @@ Als je aanbieder bent van een AI-model voor algemene doeleinden, moet je vóór 
 ## 2 augustus 2026: Nieuwe hoog-risico-AI-systemen voldoen aan vereisten
 Als je aanbieder en/of gebruiksverantwoordelijke bent van een hoog-risico-AI-systeem dat op de markt komt op of na 2 augustus 2026, moet je vóór 2 augustus 2026 voldoen aan de volgende vereisten uit de AI-verordening:
 
-### Aanbieder
+## Aanbieder
 
 * [aia-02 Beoordeling als ‘niet-hoog-risico-AI-systeem’ is gedocumenteerd](../voldoen-aan-wetten-en-regels/vereisten/aia-02-documentatie-beoordeling-niet-hoog-risico-ai.md)
 * [aia-03 Hoog-risico-AI-systemen zijn voorzien van een risicobeheersysteem](../voldoen-aan-wetten-en-regels/vereisten/aia-03-risicobeheersysteem.md)
@@ -51,7 +51,7 @@ Als je aanbieder en/of gebruiksverantwoordelijke bent van een hoog-risico-AI-sys
 * [aia-36 Klokkenluiders kunnen veilig melden dat een organisatie zich niet houdt aan de AI-verordening](../voldoen-aan-wetten-en-regels/vereisten/aia-36-melding-inbreuk-op-ai-verordening.md)
 * [aia-37 Klachtrecht aanbieders verder in waardeketen](../voldoen-aan-wetten-en-regels/vereisten/aia-37-recht-klacht-indienen-bij-ai-bureau.md)
 
-### Gebruiksverantwoordelijke
+## Gebruiksverantwoordelijke
 
 * [aia-20 Hoog-risico-AI-systemen worden gebruikt volgens de gebruiksaanwijzing](../voldoen-aan-wetten-en-regels/vereisten/aia-20-gebruiksverantwoordelijken-maatregelen.md)
 * [aia-21 Menselijke controle van hoog-risico-AI-systemen wordt uitgevoerd door mensen met voldoende kennis en mogelijkheden](../voldoen-aan-wetten-en-regels/vereisten/aia-21-gebruiksverantwoordelijken-menselijk-toezicht.md)
@@ -65,14 +65,14 @@ Als je aanbieder en/of gebruiksverantwoordelijke bent van een hoog-risico-AI-sys
 
 Wat betekent dit voor jouw organisatie? Gebruik de <a href="#" onclick="showModal(event, 'beslishulp AI-verordening', {redirectUrl: 'voldoen-aan-wetten-en-regels/../voldoen-aan-wetten-en-regels/vereisten/'});">Beslishulp AI-verordening</a>.
 
-### Uitzondering
+## Uitzondering
 Een uitzondering geldt voor hoog-risico-AI-systemen die op 2 augustus 2026 al in gebruik zijn bij overheidsorganisaties. Deze systemen hoeven pas in 2030 te voldoen aan de vereisten uit de AI-verordening.
 Zie [AI-verordening, artikel 26 en artikel 27](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#art_26).
 
 ## 2 augustus 2027: Hoog-risico-systemen in producten voldoen aan vereisten
 Als je aanbieder bent van een product met daarin een hoog-risico-AI-systeem, moet je vóór 2 augustus 2027 voldoen aan de volgende vereisten uit de AI-verordening:
 
-### Aanbieder
+## Aanbieder
 
 * [aia-02 Beoordeling als ‘niet-hoog-risico-AI-systeem’ is gedocumenteerd](../voldoen-aan-wetten-en-regels/vereisten/aia-02-documentatie-beoordeling-niet-hoog-risico-ai.md)
 * [aia-03 Hoog-risico-AI-systemen zijn voorzien van een risicobeheersysteem](../voldoen-aan-wetten-en-regels/vereisten/aia-03-risicobeheersysteem.md)
@@ -97,7 +97,7 @@ Als je aanbieder bent van een product met daarin een hoog-risico-AI-systeem, moe
 * [aia-36 Klokkenluiders kunnen veilig melden dat een organisatie zich niet houdt aan de AI-verordening](../voldoen-aan-wetten-en-regels/vereisten/aia-36-melding-inbreuk-op-ai-verordening.md)
 * [aia-37 Klachtrecht aanbieders verder in waardeketen](../voldoen-aan-wetten-en-regels/vereisten/aia-37-recht-klacht-indienen-bij-ai-bureau.md)
 
-### Gebruiksverantwoordelijke
+## Gebruiksverantwoordelijke
 
 * [aia-20 Hoog-risico-AI-systemen worden gebruikt volgens de gebruiksaanwijzing](../voldoen-aan-wetten-en-regels/vereisten/aia-20-gebruiksverantwoordelijken-maatregelen.md)
 * [aia-21 Menselijke controle van hoog-risico-AI-systemen wordt uitgevoerd door mensen met voldoende kennis en mogelijkheden](../voldoen-aan-wetten-en-regels/vereisten/aia-21-gebruiksverantwoordelijken-menselijk-toezicht.md)
@@ -115,7 +115,7 @@ Wat betekent dit voor jouw organisatie? Gebruik de <a href="#" onclick="showModa
 ## 2 augustus 2030: Bestaande hoog-risico-AI-systemen voldoen aan vereisten
 Als je aanbieder of gebruiksverantwoordelijke bent van een hoog-risico-AI-systeem dat vóór 2 augustus 2026 in gebruik is genomen, moet je vóór 2 augustus 2030 voldoen aan de volgende vereisten uit de AI-verordening:
 
-### Aanbieder
+## Aanbieder
 
 * [aia-02 Beoordeling als ‘niet-hoog-risico-AI-systeem’ is gedocumenteerd](../voldoen-aan-wetten-en-regels/vereisten/aia-02-documentatie-beoordeling-niet-hoog-risico-ai.md)
 * [aia-03 Hoog-risico-AI-systemen zijn voorzien van een risicobeheersysteem](../voldoen-aan-wetten-en-regels/vereisten/aia-03-risicobeheersysteem.md)
@@ -140,7 +140,7 @@ Als je aanbieder of gebruiksverantwoordelijke bent van een hoog-risico-AI-systee
 * [aia-36 Klokkenluiders kunnen veilig melden dat een organisatie zich niet houdt aan de AI-verordening](../voldoen-aan-wetten-en-regels/vereisten/aia-36-melding-inbreuk-op-ai-verordening.md)
 * [aia-37 Klachtrecht aanbieders verder in waardeketen](../voldoen-aan-wetten-en-regels/vereisten/aia-37-recht-klacht-indienen-bij-ai-bureau.md)
 
-### Gebruiksverantwoordelijke
+## Gebruiksverantwoordelijke
 
 * [aia-20 Hoog-risico-AI-systemen worden gebruikt volgens de gebruiksaanwijzing](../voldoen-aan-wetten-en-regels/vereisten/aia-20-gebruiksverantwoordelijken-maatregelen.md)
 * [aia-21 Menselijke controle van hoog-risico-AI-systemen wordt uitgevoerd door mensen met voldoende kennis en mogelijkheden](../voldoen-aan-wetten-en-regels/vereisten/aia-21-gebruiksverantwoordelijken-menselijk-toezicht.md)

@@ -19,7 +19,7 @@ Zie [AI-verordening, hoofdstuk IV](https://eur-lex.europa.eu/legal-content/NL/TX
 ## Hoog-risico-AI-systeem
 In deze risicogroep vallen AI-systemen die je gebruikt als veiligheidsonderdeel van bepaalde producten, of voor bepaalde diensten of processen.
 
-### Gebruik als veiligheidsonderdeel
+## Gebruik als veiligheidsonderdeel
 'Gebruiken als veiligheidsonderdeel' betekent dat je AI-systeem een belangrijke rol speelt in de veiligheid van een product. En dit product valt onder de harmonisatiewetgeving van de EU, zoals:
 
 * machines
@@ -38,7 +38,7 @@ In deze risicogroep vallen AI-systemen die je gebruikt als veiligheidsonderdeel 
 
 Zie [AI-verordening, bijlage I](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#d1e38-124-1).
 
-### Gebruik voor bepaalde diensten of processen
+## Gebruik voor bepaalde diensten of processen
 Dit zijn AI-systemen die je gebruikt voor:
 
 * __Biometrie__, zoals het herkennen of indelen van mensen op basis van hun vingerafdruk, gezicht of andere lichamelijke kenmerken.

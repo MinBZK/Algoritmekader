@@ -434,93 +434,99 @@ def on_env(env, config: MkDocsConfig, files: Files):
             )
 
         filters = []
+        column_filters_html = []
 
-        # Add wrapper div with blue background around entire filter section
-        wrapper_class = "filter-wrapper"
-        if content_type == "vereisten":
-            wrapper_class += " vereisten-wrapper"
-
-        filters.append(
-            f'<div class="{wrapper_class}" style="background-color: #e6f3fb; padding: 16px; border-radius: 8px; margin-bottom: 16px;">'
-        )
-
-        filters.append('<form autocomplete="off" onsubmit="return false;">')
-
-        # Add special class for vereisten to enable compact layout
-        container_class = "filter-container info"
-        if content_type == "vereisten":
-            container_class += " vereisten-filters"
-
-        filters.append(f'<div class="{container_class}">')
-
-        filters.append('<input type="hidden" id="labelsInput"></input>')
-
-        if filter_options.get("search", True):
-            filters.append('<div class="filter-item filter-item--search">')
-            filters.append('<label for="filterInput">Zoeken</label>')
-            filters.append(
-                f'<input type="text" id="filterInput" class="filter-item__input" onkeyup="filterTable()" placeholder="Zoek op {content_type}">'
-            )
-            filters.append("</div>")
-
-        # Generate filters dynamically based on column configuration
+        # Generate column filters first to check if any produce output
         for column in column_config:
             if (
                 filter_options.get(column.key, column.default_enabled)
                 and column.render_filter
             ):
                 filter_html = column.render_filter(list, filter_options)
-                filters.extend(filter_html)
+                if filter_html:  # Only add if filter produces output
+                    column_filters_html.extend(filter_html)
 
-        filters.append("</div>")
-        filters.append("</form>")
+        # Check if there are any filters to display
+        has_search = filter_options.get("search", True)
+        has_column_filters = len(column_filters_html) > 0
+        has_ai_act_labels = filter_options.get("ai-act-labels", False)
+        has_export = should_show_export(current_file) and content_type in ["vereisten", "maatregelen"]
+        has_any_filters = has_search or has_column_filters or has_ai_act_labels
 
-        # AI-act labels info as separate div below the filter container
-        if filter_options.get("ai-act-labels", False):
-            filters.append("<div id='ai-act-labels-info' style='margin-top: 12px;'>")
+        # Only add wrapper div if there are actually filters to show
+        if has_any_filters:
+            wrapper_class = "filter-wrapper"
             filters.append(
-                "<div id='ai-act-info-no-labels'><strong><a href='#' onclick=\"showModal(event, 'ai-act-labels');\">Kies je AI-verordeningprofiel</a> of <a href='#' onclick=\"showModal(event, 'beslishulp AI-verordening');\">gebruik de beslishulp AI-verordening</a> om vereisten te filteren.</strong></div>"
+            f'<div class="{wrapper_class}" style="background-color: #e6f3fb; padding: 16px; border-radius: 8px; margin-bottom: 16px;">'
             )
-            filters.append(
-                "<div id='ai-act-info-with-labels' class='display-none'>Jouw AI-verordening profiel: <span id='ai-act-labels-container'></span> <a href='#' onclick=\"showModal(event, 'ai-act-labels');\">Wijzig je profiel</a> of <a href='#' onclick=\"showModal(event, 'beslishulp AI-verordening');\">open de beslishulp AI-verordening</a>.</div>"
-            )
+
+            filters.append('<form autocomplete="off" onsubmit="return false;">')
+
+            # Add special class for vereisten to enable compact layout
+            container_class = "filter-container info"
+            if content_type == "vereisten":
+                container_class += " vereisten-filters"
+
+            filters.append(f'<div class="{container_class}">')
+
+            filters.append('<input type="hidden" id="labelsInput"></input>')
+
+            if has_search:
+                filters.append('<div class="filter-item filter-item--search">')
+                filters.append('<label for="filterInput">Zoeken</label>')
+                filters.append(
+                    f'<input type="text" id="filterInput" class="filter-item__input" onkeyup="filterTable()" placeholder="Zoek op {content_type}">'
+                )
+                filters.append("</div>")
+
+            # Add pre-generated column filters
+            filters.extend(column_filters_html)
+
+            filters.append("</div>")
+            filters.append("</form>")
+
+            # AI-act labels info as separate div below the filter container
+            if has_ai_act_labels:
+                filters.append("<div id='ai-act-labels-info' style='margin-top: 12px;'>")
+                filters.append(
+                    "<div id='ai-act-info-no-labels'><strong><a href='#' onclick=\"showModal(event, 'ai-act-labels');\">Kies je AI-verordeningprofiel</a> of <a href='#' onclick=\"showModal(event, 'beslishulp AI-verordening');\">gebruik de beslishulp AI-verordening</a> om vereisten te filteren.</strong></div>"
+                )
+                filters.append(
+                    "<div id='ai-act-info-with-labels' class='display-none'>Jouw AI-verordening profiel: <span id='ai-act-labels-container'></span> <a href='#' onclick=\"showModal(event, 'ai-act-labels');\">Wijzig je profiel</a> of <a href='#' onclick=\"showModal(event, 'beslishulp AI-verordening');\">open de beslishulp AI-verordening</a>.</div>"
+                )
+                filters.append("</div>")
+
+            # Close the filter div
             filters.append("</div>")
 
-        # Close the wrapper div
-        filters.append("</div>")
-
-        # Conditional excel export
-        if should_show_export(current_file) and content_type in [
-            "vereisten",
-            "maatregelen",
-        ]:
-            filters.extend(
-                [
-                    '<div id="export-excel">',
-                    '<div style="display: flex; align-items: center; gap: 20px;">',
-                    "<div>",
-                    f'Er zijn <strong><span id="total-count">{len(list)}</span></strong> resultaten gevonden',
-                    "</div>",
-                    "<div>",
-                    '<div class="export-dropdown-container" style="position: relative; display: inline-block;">',
-                    '<button id="export-btn" onclick="toggleExportDropdown()" onkeydown="handleExportKeydown(event)" class="button md-button--secondary" aria-haspopup="true" aria-expanded="false" aria-label="Exporteer '
-                    + content_type
-                    + ' - dropdown menu">',
-                    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="width: 24px; height: 24px; vertical-align: middle; fill: #154271"><path d="M5,20h14a1,1 0 0,0 1-1v-2h-2v2H6v-2H4v2A1,1 0 0,0 5,20M19,9h-4V3H9v6H5l7,7l7-7z"/></svg> Exporteer <span id="content_type">'
-                    + content_type
-                    + "</span>",
-                    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="width: 24px; height: 24px; vertical-align: middle; fill: #154271"><path d="M7 10l5 5 5-5" stroke="#154271" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>'
-                    "</button>",
-                    '<div id="export-dropdown" class="export-dropdown" style="display: none; position: absolute; background: white; border: 1px solid #ccc; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); width: 100%; z-index: 10000; font-family: ROsanswebtextregular, Arial, sans-serif; top: calc(100% - 1px); left: 0;">',
-                    '<button onclick="exportExcel()" onkeydown="handleDropdownKeydown(event, \'excel\')" tabindex="-1" role="menuitem" style="padding: 12px 16px; cursor: pointer; border-bottom: 1px solid #eee; color: #154273; font-size: 14px; font-family: ROsanswebtextregular, Arial, sans-serif; background: none; border: none; width: 100%; text-align: left;" onmouseover="this.style.backgroundColor=\'#f5f5f5\'" onmouseout="this.style.backgroundColor=\'white\'">Excel (XLSX)</button>',
-                    '<button onclick="exportODS()" onkeydown="handleDropdownKeydown(event, \'ods\')" tabindex="-1" role="menuitem" style="padding: 12px 16px; cursor: pointer; color: #154273; font-size: 14px; font-family: ROsanswebtextregular, Arial, sans-serif; background: none; border: none; width: 100%; text-align: left;" onmouseover="this.style.backgroundColor=\'#f5f5f5\'" onmouseout="this.style.backgroundColor=\'white\'">OpenDocument Spreadsheet (ODS)</button>',
-                    "</div>",
-                    "</div>",
-                    "</div>",
-                    "</div>",
-                    "</div>",
-                ]
-            )
+            if has_export:
+                filters.extend(
+                    [
+                        '<div id="export-excel">',
+                        '<div style="display: flex; align-items: center; gap: 20px;">',
+                        "<div>",
+                        f'Er zijn <strong><span id="total-count">{len(list)}</span></strong> resultaten gevonden',
+                        "</div>",
+                        "<div>",
+                        '<div class="export-dropdown-container" style="position: relative; display: inline-block;">',
+                        '<button id="export-btn" onclick="toggleExportDropdown()" onkeydown="handleExportKeydown(event)" class="button md-button--secondary" aria-haspopup="true" aria-expanded="false" aria-label="Exporteer '
+                        + content_type
+                        + ' - dropdown menu">',
+                        '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="width: 24px; height: 24px; vertical-align: middle; fill: #154271"><path d="M5,20h14a1,1 0 0,0 1-1v-2h-2v2H6v-2H4v2A1,1 0 0,0 5,20M19,9h-4V3H9v6H5l7,7l7-7z"/></svg> Exporteer <span id="content_type">'
+                        + content_type
+                        + "</span>",
+                        '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="width: 24px; height: 24px; vertical-align: middle; fill: #154271"><path d="M7 10l5 5 5-5" stroke="#154271" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>'
+                        "</button>",
+                        '<div id="export-dropdown" class="export-dropdown" style="display: none; position: absolute; background: white; border: 1px solid #ccc; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); width: 100%; z-index: 10000; font-family: ROsanswebtextregular, Arial, sans-serif; top: calc(100% - 1px); left: 0;">',
+                        '<button onclick="exportExcel()" onkeydown="handleDropdownKeydown(event, \'excel\')" tabindex="-1" role="menuitem" style="padding: 12px 16px; cursor: pointer; border-bottom: 1px solid #eee; color: #154273; font-size: 14px; font-family: ROsanswebtextregular, Arial, sans-serif; background: none; border: none; width: 100%; text-align: left;" onmouseover="this.style.backgroundColor=\'#f5f5f5\'" onmouseout="this.style.backgroundColor=\'white\'">Excel (XLSX)</button>',
+                        '<button onclick="exportODS()" onkeydown="handleDropdownKeydown(event, \'ods\')" tabindex="-1" role="menuitem" style="padding: 12px 16px; cursor: pointer; color: #154273; font-size: 14px; font-family: ROsanswebtextregular, Arial, sans-serif; background: none; border: none; width: 100%; text-align: left;" onmouseover="this.style.backgroundColor=\'#f5f5f5\'" onmouseout="this.style.backgroundColor=\'white\'">OpenDocument Spreadsheet (ODS)</button>',
+                        "</div>",
+                        "</div>",
+                        "</div>",
+                        "</div>",
+                        "</div>",
+                    ]
+                )
 
         return "".join(filters)
 

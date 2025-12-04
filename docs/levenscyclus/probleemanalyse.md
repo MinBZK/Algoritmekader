@@ -23,7 +23,7 @@ Daarna onderzoek je of een algoritme of AI-systeem een geschikte manier is om he
 * beleid van de opdrachtgever over het gebruik van algoritmes en AI
 
 Uiteindelijk concludeer je of het ontwikkelen of inkopen van een algoritme of AI-systeem wel of niet passend is. Meestal vraag je hiervoor akkoord van de opdrachtgever of de (gemandateerd) verantwoordelijke.
-Kiest de opdrachtgever voor het ontwikkelen van een algoritme of AI-systeem, dan ga je verder met het [ontwerp](https://minbzk.github.io/Algoritmekader/levenscyclus/ontwerp/).
+Kiest de opdrachtgever voor het ontwikkelen van een algoritme of AI-systeem, dan ga je verder met het [ontwerp](./ontwerp.md).
 
 ## Vereisten probleemanalyse { data-search-exclude }
 

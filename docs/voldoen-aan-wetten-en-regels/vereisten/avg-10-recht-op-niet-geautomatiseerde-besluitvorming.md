@@ -120,7 +120,7 @@ De Autoriteit Persoonsgegevens (AP) heeft in [een advies over artikel 22 AVG en 
 - [Autoriteit Persoonsgegevens - Betekenisvolle menselijke tussenkomst bij algoritmische besluitvorming](https://www.autoriteitpersoonsgegevens.nl/actueel/betekenisvolle-menselijke-tussenkomst-bij-algoritmische-besluitvorming)
 
 ## Van toepassing op
-Deze vereiste geldt voor algoritmische toepassingen die een rol spelen in de besluitvorming van bestuursorganen. Bekijk de [bronnen](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/avg-10-recht-op-niet-geautomatiseerde-besluitvorming/index.html#bronnen) om te controleren of dit zo is.
+Deze vereiste geldt voor algoritmische toepassingen die een rol spelen in de besluitvorming van bestuursorganen. Bekijk de [bronnen](#bronnen) om te controleren of dit zo is.
 
 ## Risico
 

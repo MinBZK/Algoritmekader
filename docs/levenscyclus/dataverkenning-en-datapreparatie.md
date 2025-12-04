@@ -10,14 +10,14 @@ In deze fase verzamel en analyseer je de data die nodig zijn voor het ontwikkele
 Het proces van data onderzoeken en voorbereiden bestaat in elk geval uit deze stappen:
 
 1. vaststellen welke data geschikt en beschikbaar zijn
-2. onderzoeken [hoe je deze data rechtmatig gebruikt](https://minbzk.github.io/Algoritmekader/onderwerpen/data/)
+2. onderzoeken [hoe je deze data rechtmatig gebruikt](../onderwerpen/data.md)
 3. verzamelen van de data
 4. opschonen van de data
-5. analyseren van de [datakwaliteit](https://minbzk.github.io/Algoritmekader/onderwerpen/data/)
+5. analyseren van de [datakwaliteit](../onderwerpen/data.md)
 
-Ontstaan er risico's door bijvoorbeeld [bias in de dataset](https://minbzk.github.io/Algoritmekader/onderwerpen/bias-en-non-discriminatie/), missende data of niet-representatieve data, dan onderzoek je het effect op het ontwerp van je algoritme of AI-systeem. Mogelijk moet je het [ontwerp aanpassen](https://minbzk.github.io/Algoritmekader/levenscyclus/ontwerp/).
+Ontstaan er risico's door bijvoorbeeld [bias in de dataset](../onderwerpen/bias-en-non-discriminatie.md), missende data of niet-representatieve data, dan onderzoek je het effect op het ontwerp van je algoritme of AI-systeem. Mogelijk moet je het [ontwerp aanpassen](./ontwerp.md).
 
-Is je data van voldoende kwaliteit en ga je hier rechtmatig mee om, dan kun je het algoritme of AI-systeem (laten) [ontwikkelen](https://minbzk.github.io/Algoritmekader/levenscyclus/ontwikkelen/).
+Is je data van voldoende kwaliteit en ga je hier rechtmatig mee om, dan kun je het algoritme of AI-systeem (laten) [ontwikkelen](./ontwikkelen.md).
 
 !!! tip "Tip"
 

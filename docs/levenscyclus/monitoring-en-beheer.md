@@ -10,7 +10,7 @@ In deze fase monitor en beheer je het algoritme of AI-systeem. Dit betekent dat 
 ## Monitoren
 Tijdens het monitoren van het algoritme of AI-systeem let je in elk geval op de volgende punten:
 
-* Technisch: Doet het nog waarvoor het is ontworpen? Oftewel: is het [technisch robuust](https://minbzk.github.io/Algoritmekader/onderwerpen/technische-robuustheid-en-veiligheid/)?
+* Technisch: Doet het nog waarvoor het is ontworpen? Oftewel: is het [technisch robuust](../onderwerpen/technische-robuustheid-en-veiligheid.md)?
 * Juridisch: Werkt het nog op een rechtmatige manier?
 * Ethisch: Heeft het geen onverwacht nadelig effect op bepaalde mensen of de maatschappij?
 * Zijn de omstandigheden nog hetzelfde waarin de organisatie het gebruikt? Data kan bijvoorbeeld veranderen. Of het werkproces zelf verandert door nieuw beleid of nieuwe wet- en regelgeving.

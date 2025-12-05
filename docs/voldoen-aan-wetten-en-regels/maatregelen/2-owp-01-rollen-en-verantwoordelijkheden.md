@@ -79,7 +79,7 @@ De sturing en verantwoording is ontoereikend of niet geborgd, waardoor er onvold
 	Bij Gemeentelijke Model Architectuur (GEMMA) wordt aangegeven dat een RACI matrix rollen en verantwoordelijkheden goed weergeeft en onderscheidt. Het RACI matrix is een afkorting voor  Responsible (Verantwoordelijk), Accountable (Eindverantwoordelijk), Consulted (Raadplegen) en Informed (Informeren). In deze matrix staan horizontaal de rollen en staan verticaal de taken/producten waar een rol verantwoordelijk voor is.
 	Dit matrix geeft veel verschillende rollen weer die in het beste geval voor verschillende functionarissen zijn. GEMMA geeft ook aan dat in kleinere organisaties (kleinere gemeenten) dit niet altijd mogelijk is. Het is dus belangrijk om te weten dat dit verschillend is per gemeente en afhankelijk van de [volwassenheid](0-org-06-volwassenheidsmodel.md) van inrichting van gegevensmanagement.
 
-	![Voorbeeld invulling RACI matrix](https://www.gemmaonline.nl/images/gemma/c/cf/GMT_GM_RACI.png)
+	![Screenshot van een RACI-matrix waarin in een tabel staat aangegeven welke rol of rollen verantwoordelijk zijn voor een taak of product. Het bestand waaruit het screenshot is genomen is te downloaden op de website van GEMMA. Bij de bron vind je een link naar het bestand.](https://www.gemmaonline.nl/images/gemma/c/cf/GMT_GM_RACI.png)
 
 	Bron: [RACI matrix](https://www.gemmaonline.nl/wiki/Bestand:RACI_GM-BIG-AVG-ENSIA_v1_0.xlsx.zip)
 

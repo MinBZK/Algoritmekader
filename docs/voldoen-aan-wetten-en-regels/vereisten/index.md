@@ -6,6 +6,8 @@ allow_excel_export: true
 hide:
   - navigation
   - toc
+version: "e33a2081"
+version_date: "2025-08-26"
 ---
 # Vereisten voor de overheid
 Overzicht van de belangrijkste vereisten voor overheden die algoritmes of AI-systemen ontwikkelen of gebruiken.

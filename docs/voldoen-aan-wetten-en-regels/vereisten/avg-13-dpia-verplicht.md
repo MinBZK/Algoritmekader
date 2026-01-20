@@ -41,6 +41,8 @@ open-source:
 - niet-van-toepassing
 hide:
 - navigation
+version: "92559128"
+version_date: "2025-07-04"
 ---
 
 <!-- tags -->

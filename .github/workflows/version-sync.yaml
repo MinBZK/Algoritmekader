@@ -1,0 +1,50 @@
+name: Sync Document Versions
+
+on:
+  push:
+    branches: [main]
+    paths: ['docs/voldoen-aan-wetten-en-regels/**/*.md']
+
+permissions:
+  contents: write
+
+jobs:
+  version-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0  # Full history needed for git log
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+          cache: 'pip'
+
+      - name: Configure git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Sync document versions
+        run: |
+          cd docs/voldoen-aan-wetten-en-regels
+          python version_helper.py sync --all
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --quiet docs/voldoen-aan-wetten-en-regels/ || echo "changes=true" >> $GITHUB_OUTPUT
+
+      - name: Commit version updates
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          git add docs/voldoen-aan-wetten-en-regels/
+          git commit -m "Auto-update document versions [skip ci]"
+          git push

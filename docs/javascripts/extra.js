@@ -20,7 +20,7 @@
             const focusedElement = document.activeElement;
             const isMainContent = focusedElement && focusedElement.id === 'main-content';
             const isSkipLink = focusedElement && focusedElement.classList.contains('skip-link');
-            
+
             if (!isMainContent && !isSkipLink) {
                 // Reset focus to document body to ensure skiplink is first tab stop
                 document.body.setAttribute('tabindex', '-1');
@@ -123,34 +123,34 @@
     // Function to setup custom tooltips
     function setupCustomTooltip(element) {
         let originalTitle = element.getAttribute('title');
-        
+
         // Store original title in data attribute for CSS to use
         element.setAttribute('data-tooltip', originalTitle);
-        
+
         // Remove title immediately to prevent native tooltip
         element.removeAttribute('title');
     }
 
-    // Function to fix search result semantic structure 
+    // Function to fix search result semantic structure
     // Converts h1 tags in search results to h2 for proper semantic hierarchy
     function fixSearchResultSemantics() {
         // Find all search result h1 tags within the search output area
         const searchResults = document.querySelectorAll('.md-search-result h1, .md-search-result__title');
-        
+
         searchResults.forEach(function(h1Element) {
             // Only convert h1 tags, not other elements with md-search-result__title class
             if (h1Element.tagName.toLowerCase() === 'h1') {
                 // Create a new h2 element
                 const h2Element = document.createElement('h2');
-                
+
                 // Copy all attributes from h1 to h2
                 Array.from(h1Element.attributes).forEach(function(attr) {
                     h2Element.setAttribute(attr.name, attr.value);
                 });
-                
+
                 // Copy all content from h1 to h2
                 h2Element.innerHTML = h1Element.innerHTML;
-                
+
                 // Replace h1 with h2 in the DOM
                 h1Element.parentNode.replaceChild(h2Element, h1Element);
             }
@@ -166,7 +166,7 @@
             const parent = mark.parentNode;
             const textNode = document.createTextNode(mark.textContent);
             parent.replaceChild(textNode, mark);
-            
+
             // Normalize the parent to merge adjacent text nodes
             parent.normalize();
         });

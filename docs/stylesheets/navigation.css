@@ -650,7 +650,7 @@ abbr[data-tooltip]:hover {
     position: static !important;
     z-index: auto !important;
   }
-  
+
   .md-main {
     margin-top: 0 !important;
   }
@@ -720,4 +720,3 @@ abbr[data-tooltip]:hover {
     display: none !important;
   }
 }
-

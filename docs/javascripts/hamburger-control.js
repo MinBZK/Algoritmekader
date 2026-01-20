@@ -4,16 +4,16 @@ function controlHamburgerMenu() {
         // Even more aggressive selector search
         const selectors = [
             '.md-header__button[for="__drawer"]',
-            '.md-header__button.md-icon--menu', 
+            '.md-header__button.md-icon--menu',
             '.md-nav__button',
             'button[for="__drawer"]',
             '[data-md-component="navigation"]',
             '.md-header__button[type="button"]',
             '.md-header button'
         ];
-        
+
         const hamburgers = document.querySelectorAll(selectors.join(', '));
-        
+
         hamburgers.forEach(hamburger => {
             if (window.innerWidth > 800) {
                 // Nuclear option - remove all possible CSS
@@ -30,25 +30,25 @@ function controlHamburgerMenu() {
                 console.log('Hamburger restored:', hamburger.className);
             }
         });
-        
+
         console.log('Screen width check:', window.innerWidth, 'Found hamburgers:', hamburgers.length);
     }
-    
+
     // Initial check
     findAndHideHamburger();
-    
+
     // Listen for resize events
     window.addEventListener('resize', findAndHideHamburger);
-    
+
     // Force check every 100ms to override any dynamic changes from Material Insiders
     const forceInterval = setInterval(findAndHideHamburger, 100);
-    
+
     // Also watch for DOM mutations
     if (typeof MutationObserver !== 'undefined') {
         const observer = new MutationObserver(findAndHideHamburger);
         observer.observe(document.body, { childList: true, subtree: true });
     }
-    
+
     // Clear interval after 10 seconds to avoid performance impact
     setTimeout(() => clearInterval(forceInterval), 10000);
 }

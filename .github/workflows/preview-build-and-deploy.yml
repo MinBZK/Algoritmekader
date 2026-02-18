@@ -113,6 +113,7 @@ jobs:
           comment-on-pr: ${{ github.event_name == 'pull_request' }}
           qr-code: ${{ github.event_name == 'pull_request' }}
           wait-for-ready: true
+          health-endpoint: /kader/
 
   cleanup-preview:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'

@@ -38,7 +38,7 @@ mkdocs serve
 Bouw en draai het Algoritmekader als container:
 
 ```bash
-podman build -t algoritmekader -f Containerfile .
+podman build -t algoritmekader -f container/Containerfile .
 podman run -p 8080:8080 algoritmekader
 ```
 

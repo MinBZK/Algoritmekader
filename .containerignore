@@ -17,7 +17,7 @@ templates/
 mlc_config.json
 package.json
 package-lock.json
-Containerfile
+container/Containerfile
 .containerignore
 README.md
 CONTRIBUTING.md

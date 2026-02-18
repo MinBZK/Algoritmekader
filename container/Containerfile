@@ -1,0 +1,28 @@
+FROM python:3.14-slim AS builder
+
+RUN apt-get update && apt-get install -y --no-install-recommends git \
+    && rm -rf /var/lib/apt/lists/*
+
+WORKDIR /app
+
+COPY requirements.txt ./
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY . .
+
+ARG SITE_URL=http://localhost:8080/
+RUN sed -i "s|^site_url:.*|site_url: ${SITE_URL}|" mkdocs.yml
+
+ARG VERSION
+RUN if [ -n "$VERSION" ]; then \
+      sed -i "s/development/${VERSION}/g" docs/version.md; \
+    fi
+
+RUN mkdocs build
+
+FROM nginxinc/nginx-unprivileged:stable-alpine-slim
+COPY --from=builder /app/site /usr/share/nginx/html
+COPY container/nginx.conf /etc/nginx/nginx.conf
+COPY container/default.conf /etc/nginx/conf.d/default.conf
+
+EXPOSE 8080

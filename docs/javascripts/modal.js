@@ -67,20 +67,13 @@ function onDynamicContentLoaded(targetDiv, callback) {
 }
 
 function getBasePath() {
-  const path = window.location.pathname;
-  const isLocal = window.location.hostname === "127.0.0.1" || window.location.hostname === "localhost";
-  const isPRPreview = path.includes('/pr-preview/');
-
-  if (isLocal) {
-    return '/Algoritmekader';
-  } else if (isPRPreview) {
-    // Extract everything up to and including the PR number
-    const prMatch = path.match(/(\/Algoritmekader\/pr-preview\/pr-\d+)/);
-    return prMatch ? prMatch[1] : '/Algoritmekader';
-  } else {
-    // Production
-    return '/Algoritmekader';
+  // Use the base element that MkDocs generates, which respects site_url
+  const baseEl = document.querySelector('base');
+  if (baseEl && baseEl.href) {
+    return new URL(baseEl.href).pathname.replace(/\/$/, '');
   }
+  // Fallback: root
+  return '';
 }
 
 // Enhanced showModal function to support redirect functionality

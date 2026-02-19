@@ -49,8 +49,6 @@ let filterElements = {};
  * Main initialization function
  */
 function initializeFlexibleFiltering() {
-    console.log("Initializing flexible filtering system...");
-
     // Step 1: Read column mapping from Python-generated data
     if (!readColumnMapping()) {
         console.warn("No column mapping found, filtering not available");
@@ -68,11 +66,6 @@ function initializeFlexibleFiltering() {
 
     // Step 5: Attach event listeners
     attachFilterListeners();
-
-    console.log("Flexible filtering system initialized:", {
-        columnMapping,
-        filterElements
-    });
 }
 
 /**
@@ -93,7 +86,6 @@ function readColumnMapping() {
 
     try {
         columnMapping = JSON.parse(mappingData);
-        console.log("Column mapping loaded:", columnMapping);
         return true;
     } catch (error) {
         console.error("Failed to parse column mapping:", error);
@@ -117,7 +109,6 @@ function initializeFilterElements() {
                 element: element,
                 columnIndex: columnMapping[columnKey].index
             };
-            console.log(`Registered filter for column '${columnKey}' at index ${columnMapping[columnKey].index}`);
         }
     });
 
@@ -230,7 +221,6 @@ function attachFilterListeners() {
             // Use 'input' for text inputs and 'change' for selects
             const eventType = element.tagName.toLowerCase() === 'input' ? 'input' : 'change';
             element.addEventListener(eventType, filterTable);
-            console.log(`Attached ${eventType} listener to ${columnKey} filter`);
         }
     });
 }
@@ -292,8 +282,6 @@ function anyExpressionMatches(expressions, selectedLabels) {
  * No more hardcoded column indices!
  */
 function filterTable() {
-    console.log("filterTable called with flexible system");
-
     const table = document.getElementById("myTable");
     if (!table) {
         console.warn("Table not found");

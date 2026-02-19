@@ -98,45 +98,27 @@ function capitalize(str) {
 
 
 function exportToExcel(config) {
-    console.log('exportToExcel called with config:', config);
-
     const button = document.getElementById(config.buttonId);
     const originalButtonHTML = button ? button.innerHTML : '';
-    console.log('Button found:', button);
 
     try {
-        console.log('Setting button state...');
         setButtonState(button, true, 'Exporteren...');
-
-        console.log('Validating requirements...');
         validateRequirements(config);
 
-        console.log('Getting table and filters...');
         const table = document.getElementById(config.tableId);
         const activeFilters = getCurrentFilters(config);
-        console.log('Table:', table, 'Active filters:', activeFilters);
-
-        console.log('Extracting table data for Excel...');
         const exportData = extractTableDataForExcel(table, config, activeFilters);
-        console.log('Export data:', exportData);
-
-        console.log('Creating workbook...');
         const workbook = createWorkbook(exportData, activeFilters, config, 'xlsx');
-        console.log('Workbook created:', workbook);
 
         const timestamp = new Date().toISOString().slice(0, 10);
         const filename = `${config.filename}_${timestamp}.xlsx`;
-        console.log('Filename:', filename);
 
-        console.log('Writing file...');
         XLSX.writeFile(workbook, filename, { bookType: 'xlsx' });
-        console.log('File written successfully');
 
     } catch (error) {
         console.error('Excel export error:', error);
         alert(`Excel export mislukt: ${error.message}`);
     } finally {
-        console.log('Restoring button state...');
         restoreButtonState(button, originalButtonHTML);
     }
 }

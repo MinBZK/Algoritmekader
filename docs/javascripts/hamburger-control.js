@@ -21,17 +21,13 @@ function controlHamburgerMenu() {
                 hamburger.setAttribute('hidden', 'true');
                 hamburger.setAttribute('aria-hidden', 'true');
                 hamburger.disabled = true;
-                console.log('Hamburger NUKED:', hamburger.className, hamburger.tagName);
             } else {
                 hamburger.style.cssText = '';
                 hamburger.removeAttribute('hidden');
                 hamburger.removeAttribute('aria-hidden');
                 hamburger.disabled = false;
-                console.log('Hamburger restored:', hamburger.className);
             }
         });
-        
-        console.log('Screen width check:', window.innerWidth, 'Found hamburgers:', hamburgers.length);
     }
     
     // Initial check

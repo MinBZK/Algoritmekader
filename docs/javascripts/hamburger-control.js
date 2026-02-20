@@ -1,4 +1,4 @@
-// Force hide hamburger menu above 800px - Aggressive override for Material Insiders
+// Force hide hamburger menu above 800px
 function controlHamburgerMenu() {
     function findAndHideHamburger() {
         // Even more aggressive selector search
@@ -36,7 +36,7 @@ function controlHamburgerMenu() {
     // Listen for resize events
     window.addEventListener('resize', findAndHideHamburger);
 
-    // Force check every 100ms to override any dynamic changes from Material Insiders
+    // Force check every 100ms to override any dynamic changes
     const forceInterval = setInterval(findAndHideHamburger, 100);
 
     // Also watch for DOM mutations

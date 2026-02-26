@@ -1,0 +1,44 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+# Domeinen van de Rijksoverheid kunnen met een 302 redirect verwijzen naar
+# het centrale bestand op https://www.ncsc.nl/.well-known/security.txt
+# omdat het NCSC het centrale meldpunt is voor kwetsbaarheden en incidenten
+# voor de Rijksoverheid
+#
+# Dutch central government domains can redirect to the central file located
+# at https://www.ncsc.nl/.well-known/security.txt with a 302 redirect,
+# because NCSC-NL is the central point of contact for vulnerabilities and
+# incidents for the Dutch central government.
+
+Expires: 2027-01-31T22:59:00.000Z
+Canonical: https://minbzk.github.io/Algoritmekader/.well-known/security.txt
+
+Policy: https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd
+Policy: https://www.ncsc.nl/en/cvd-report-form
+
+Contact: https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd
+Contact: https://www.ncsc.nl/en/cvd-report-form
+Contact: mailto:security@ncsc.nl
+Encryption: https://www.ncsc.nl/pgp.txt
+Preferred-Languages: nl, en
+
+Acknowledgments: https://www.ncsc.nl/wall-of-fame
+Hiring: https://www.werkenvoornederland.nl
+CSAF: https://advisories.ncsc.nl/.well-known/csaf/provider-metadata.json
+
+-----BEGIN PGP SIGNATURE-----
+Version: Encryption Desktop 10.5.1 (Build 1389)
+Charset: utf-8
+
+wsDVAwUBaWDKt4LqVqC9GYRhAQpUiQwAtpYTcMp0uLZIS880fcwQqDpa3aPnRV27
+io4MUE8fvY9m2VxVcSNvNyhTfTMPP6yOeh0dJDVEblnO5EhBrRsPutVWs7fOLlWG
+745JYorUmBgDn6RD6X7gcJ9EdhBCDLozmVchky+7xrGmiUbDnkKArQjr+hJqP140
++JCZT1ovVRkojwoVTAXXksroGEPg8AtjR915vCl0lRKMcFBq5M9jYADmb5SIXyaS
+fERG7bg+mu84YggW+JjorkMtkefBQ/pVZgdlNqDchrM2nK73y5lIaXeES0eDCLy0
+Vc7K/aiTGubUI2vqcEYqFsr0vpxzKR6A0aTPMnv4s2Cgmxdx8GNOiESBwuI5ht5b
+iKC4bQGPZVy1cZhJWSxTGiXK4aV/w+4dWxcO0OObo//++2w5JXXRF5A0d12Lzu3c
+YKD3cnPylkdSqTJlCLThgANyQnq746Ih+aLdFgcE2GcnpYNpfLb5ofcbjc9VO5ch
+t96mkI8viP/FfODZMatYfC51jfO8FsgK
+=hCvn
+-----END PGP SIGNATURE-----

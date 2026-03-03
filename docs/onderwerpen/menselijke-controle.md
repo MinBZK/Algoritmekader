@@ -37,19 +37,19 @@ Wanneer en hoe je controle uitoefent, hangt af van het [soort algoritme en risic
 
 Tijdens de ontwikkeling en het gebruik kun je menselijke controle op de volgende manieren uitoefenen:
 
-1. _<span lang="en">Human in the loop</span>_
+_<span lang="en">Human in the loop</span>_
 
 Bij dit model speelt de mens een actieve rol in elke fase van het algoritme. Deze variant geeft de meeste controle en invloed, maar kan leiden tot vertraagde of minder efficiënte besluitvorming, vooral bij real-time of zeer complexe taken waarbij snelheid cruciaal is. Een voorbeeld van toepassen van human-in-the-loop is het nakijken en beoordelen van de output van een algoritme door een mens, telkens voordat een beslissing wordt genomen. Het verwerken van data gebeurt alleen in opdracht van de mens en het algoritme of AI-model neemt geen autonome beslissingen.
 
-2. _<span lang="en">Human on the loop</span>_
+_<span lang="en">Human on the loop</span>_
 
 Hier behoudt de mens toezicht en kan ingrijpen wanneer dat nodig is om te garanderen dat een model veilig en ethisch opereert. Dit model biedt daardoor een balans tussen autonome besluitvorming en menselijke controle. Het is vooral nuttig in situaties waarin afwijkende keuzes of acties van het algoritme grote gevolgen kunnen hebben. De menselijke operator houdt de werking van het algoritme in de gaten en staat klaar om in te grijpen of beslissingen terug te draaien wanneer nodig.
 
-3. _<span lang="en">Human above the loop</span>_
+_<span lang="en">Human above the loop</span>_
 
 In dit model houdt de mens toezicht op een hoger niveau, met een focus op strategische en ethische keuzes, in plaats van dat de menselijke operator zich bezighoudt met directe operationele beslissingen. Dit stelt de mens in staat in te grijpen wanneer kritieke morele, juridische of sociale zorgen ontstaan om het model op de langere termijn bij te sturen. De menselijke tussenkomst is gericht op het bepalen van beleid en de richtlijnen voor algoritmes. Het gaat daarbij niet alleen over het definiëren van operationele procedures maar ook het maken van bepaalde ethische overwegingen, het zorgen voor naleving van regelgeving en het overwegen van de implicaties van de inzet van algoritmes op de lange termijn.
 
-4. _<span lang="en">Human before the loop</span>_
+_<span lang="en">Human before the loop</span>_
 
 Hier maakt de mens vooraf ethische en morele afwegingen die in het algoritme zelf worden ingebouwd. Hoewel het model in productie autonoom opereert, zal de menselijke input gedurende de ontwikkeling ervoor zorgen dat het model ook in complexe situaties volgens de juiste (ethische)afwegingen keuzes en acties onderneemt.
 

@@ -12,7 +12,7 @@ Generatieve AI is een vorm van kunstmatige intelligentie. Je gebruikt prompts, o
 Meestal draaien generatieve AI-toepassingen op <span lang="en">_large language models_</span> (LLMs). Dit houdt in dat de applicatie getraind is op grote hoeveelheden data, waaruit het heeft 'geleerd' om patronen en structuren te herkennen. Op basis van die patronen voorspelt het getrainde model het meest logische volgende element in bijvoorbeeld een zin. AI-chatbots, zoals ChatGPT, Gemini en Microsoft CoPilot, genereren hierdoor lopende zinnen en alinea's. Deze antwoorden zijn niet altijd betrouwbaar. Geeft een chatbot onjuiste informatie, dan heet dit 'hallucineren.'
 
 ## Verantwoord gebruik door de overheid
-De overheid heeft [één standpunt voor het gebruik van generatieve AI](https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/het-overheidsbrede-standpunt-voor-de-inzet-van-generatieve-ai) opgesteld. Dit standpunt geldt voor alle overheidsorganisaties.
+De overheid heeft [één standpunt voor het gebruik van generatieve AI](https://www.rijksoverheid.nl/documenten/rapporten/2025/04/16/het-overheidsbrede-standpunt-voor-de-inzet-van-generatieve-ai) opgesteld. Dit standpunt geldt voor alle overheidsorganisaties.
 
 Generatieve AI biedt veel kansen. De overheid stimuleert overheidsorganisaties om deze technologie te gebruiken bij het zoeken naar nieuwe oplossingen voor problemen. Bijvoorbeeld als hulpmiddel voor brainstormen, softwareontwikkeling en tekstbewerking.
 
@@ -41,7 +41,7 @@ Het is van belang dat generatieve AI op een juiste en verantwoorde manier wordt 
 * Als je bij een Rijkskennisinstituut werkt, kun je ook gebruik maken van het [RKI-kader voor generatieve AI](../assets/documents/Kader-verantwoord-gebruik-generatieveAI-RKIs.pdf) (PDF) om je wat meer praktische handvatten te geven.
 
 ## Bronnen
-* [Overheidsbreed standpunt voor de inzet van generatieve AI](https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/het-overheidsbrede-standpunt-voor-de-inzet-van-generatieve-ai)
+* [Overheidsbreed standpunt voor de inzet van generatieve AI](https://www.rijksoverheid.nl/documenten/rapporten/2025/04/16/het-overheidsbrede-standpunt-voor-de-inzet-van-generatieve-ai)
 * [Overheidsbrede handreiking generatieve AI](https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/overheidsbrede-handreiking-generatieve-ai)
 * [Open Source Initiative](https://opensource.org/ai/open-source-ai-definition)
 * [RKI-kader voor generatieve AI](../assets/documents/Kader-verantwoord-gebruik-generatieveAI-RKIs.pdf) (PDF)

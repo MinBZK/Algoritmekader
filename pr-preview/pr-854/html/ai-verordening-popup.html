@@ -1,0 +1,86 @@
+<form class="form" id="ai-act-labels-form" onsubmit="getLabelsFromForm(this); filterTable(); return false;">
+
+    <h2>Bepaal je AI-verordening profiel</h2>
+    <p>
+        Vul de velden hieronder in om je AI-verordeningprofiel samen te stellen.<br/>
+        Op basis van deze informatie worden de relevante vereisten voor jouw toepassing gefilterd.<br/>
+        Als je de antwoorden op de vragen niet weet, <a href='#' onclick="showModal(event, 'beslishulp AI-verordening');">gebruik de beslishulp AI-verordening</a> om hier achter te komen.
+    </p>
+
+    <div class="form__row">
+        <label class="form__label" id="rol-label">Welke rol is voor jou van toepassing?
+            <span class="info-icon" title="Geef aan of je handelt als aanbieder, gebruiksverantwoordelijke, importeur en/of distributeur van jouw toepassing, zoals gedefinieerd in de AI-verordening." tabindex="0">i</span>
+        </label>
+        <div class="input-checkbox">
+            <input type="checkbox" id="role-aanbieder" name="rol-ai-act" value="aanbieder" class="checkbox__input">
+            <label class="checkbox__label" for="role-aanbieder">Aanbieder</label>
+        </div>
+        <div class="input-checkbox">
+            <input type="checkbox" id="role-gebruiksverantwoordelijke" name="rol-ai-act" value="gebruiksverantwoordelijke" class="checkbox__input">
+            <label class="checkbox__label" for="role-gebruiksverantwoordelijke">Gebruiksverantwoordelijke</label>
+        </div>
+        <div class="input-checkbox">
+            <input type="checkbox" id="role-importeur" name="rol-ai-act" value="importeur" class="checkbox__input">
+            <label class="checkbox__label" for="role-importeur">Importeur</label>
+        </div>
+        <div class="input-checkbox">
+            <input type="checkbox" id="role-distributeur" name="rol-ai-act" value="distributeur" class="checkbox__input">
+            <label class="checkbox__label" for="role-distributeur">Distributeur</label>
+        </div>
+    </div>
+
+    <div class="form__row">
+        <label class="form__label" id="type-label" for="type">
+            Wat is het type toepassing?
+            <span class="info-icon" title="Selecteer jouw type toepassing volgens de AI-verordening." tabindex="0">i</span>
+        </label>
+        <select class="input-select" id="type" name="soort-toepassing" onchange="updateFieldsBasedOnType(this)">
+            <option value="" hidden="">Selecteer optie</option>
+            <option value="ai-systeem">AI-systeem</option>
+            <option value="ai-systeem-voor-algemene-doeleinden">AI-systeem voor algemene doeleinden</option>
+            <option value="ai-model-voor-algemene-doeleinden">AI-model voor algemene doeleinden</option>
+        </select>
+    </div>
+
+    <div class="form__row">
+        <label class="form__label" id="label-risk-group" for="risk-group">
+            In welke risicogroep valt de toepassing?
+            <span class="info-icon" title="De risicogroep verwijst naar de classificatie van een AI-systeem op basis van de mate van risico, zoals vastgelegd in de AI-verordening." tabindex="0">i</span>
+        </label>
+        <select class="input-select" id="risk-group" name="risicogroep" disabled>
+            <option value="" hidden="">Selecteer optie</option>
+            <option value="hoog-risico-ai-systeem">Hoog-risico</option>
+            <option value="geen-hoog-risico-ai-systeem">Geen hoog-risico</option>
+            <option value="verboden-ai">Verboden AI</option>
+            <option value="uitzondering-van-toepassing">Uitzondering van toepassing</option>
+        </select>
+    </div>
+
+    <div class="form__row">
+        <label class="form__label" id="label-transparency-obligations" for="transparency-obligations">
+            Zijn er transparantieverplichtingen?
+            <span class="info-icon" title="De transparantieverplichtingen in de AI-verordening zijn regels die bepalen hoe duidelijk en begrijpelijk informatie over een AI-systeem moet worden gedeeld met gebruikers en andere betrokkenen." tabindex="0">i</span>
+        </label>
+        <select class="input-select" id="transparency-obligations" name="transparantieverplichting" disabled>
+            <option value="" hidden="">Selecteer optie</option>
+            <option value="transparantieverplichting">Transparantieverplichting</option>
+            <option value="geen-transparantieverplichting">Geen transparantieverplichting</option>
+        </select>
+    </div>
+
+    <div class="form__row">
+        <label class="form__label" id="label-systemic-risk" for="systemic-risk">
+            Is er sprake van een systeemrisico?
+            <span class="info-icon" title="Het systeemrisico verwijst naar de potentiële gevaren of negatieve gevolgen die kunnen ontstaan door het gebruik van een AI-model voor algemene doeleinden, afhankelijk van de mate waarin het systeem betrouwbaar, transparant en veilig is, zoals gedefinieerd in de AI-verordening." tabindex="0">i</span>
+        </label>
+        <select class="input-select" id="systemic-risk" name="systeemrisico" disabled>
+            <option value="" hidden="">Selecteer optie</option>
+            <option value="systeemrisico">Systeemrisico</option>
+            <option value="geen-systeemrisico">Geen systeemrisico</option>
+        </select>
+    </div>
+
+    <div class="form__row">
+        <button class="button--primary" type="submit">Filter toepassen</button>
+    </div>
+</form>

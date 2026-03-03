@@ -8,7 +8,7 @@ hide:
 In deze fase bereid je de organisatie voor op het verantwoord ontwikkelen en gebruiken van algoritmen en AI. Een deel van deze verantwoordelijkheden regel je liefst voordat je van start gaat.
 
 ## Belangrijkste taken fase 0
-Als organisatie die algoritmes ontwikkelt of gebruikt, heb je veel verantwoordelijkheden. Je moet voldoen aan allerlei [vereisten](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/). En hiervoor moet je passende [maatregelen](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/) nemen.
+Als organisatie die algoritmes ontwikkelt of gebruikt, heb je veel verantwoordelijkheden. Je moet voldoen aan allerlei [vereisten](../voldoen-aan-wetten-en-regels/vereisten/index.md). En hiervoor moet je passende [maatregelen](../voldoen-aan-wetten-en-regels/maatregelen/index.md) nemen.
 Een deel van deze verantwoordelijkheden regel je het beste vooraf. Dit zijn de vereisten en maatregelen die gelden voor alle algoritmes, op elk moment van de levenscyclus:
 
 * zaken die je liefst regelt voordat je begint met het gebruik van algoritmes

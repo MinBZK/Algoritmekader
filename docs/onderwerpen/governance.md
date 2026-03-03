@@ -20,7 +20,7 @@ Belangrijke aandachtspunten zijn:
 
 Deze afspraken maak je op 2 niveaus:
 
-### Organisatieniveau
+## Organisatieniveau
 Hoe de organisatie met algoritmes in het algemeen omgaat, bijvoorbeeld:
 
 - richtlijnen en gedragscode voor medewerkers
@@ -28,7 +28,7 @@ Hoe de organisatie met algoritmes in het algemeen omgaat, bijvoorbeeld:
 - werkwijze
 - teamleden en hun verantwoordelijkheden, zoals chief data officers en algoritmefunctionarissen
 
-### Toepassingsniveau
+## Toepassingsniveau
 Dit zijn afspraken over het beheer en de totstandkoming van de algoritmes zelf, bijvoorbeeld:
 
 - multidisciplinair ontwikkelen

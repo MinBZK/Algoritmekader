@@ -32,26 +32,26 @@ Een algemene impact-beperkende maatregel is daarom om menselijke gebruikers duid
 
 Voor de verschillende types adversarial AI-aanvallen zijn specifieke maatregelen mogelijk:
 
-### Poisoning aanval
+## Poisoning aanval
 Bij een poisoning aanval wordt het AI-systeem vergiftigd doordat een aanvaller aanpassingen aan de trainingsdata doet, waardoor het AI-systeem fouten gaat maken.
 Bijvoorbeeld een spamfilter die getraind is op gemanipuleerde data en zo bepaalde spam e-mails doorlaat.
 Maatregelen gericht op het [behoud van de integriteit van de trainingsdata](3-dat-10-datamanipulatie.md) kunnen hiertegen worden ingezet.
 
-### Input- of evasion aanval
+## Input- of evasion aanval
 Bij een input- of evasion aanval voegt een aanvaller hele kleine bewerkingen toe aan input zodat een AI-systeem wordt misleid: het trekt een foute conclusie.
 Een voorbeeld hiervan is het plakken van een gele post-it op een stopbord, waardoor een auto met AI gebaseerde omgevingsherkenning het bord niet meer goed kan herkennen en zijn snelheid aanpast.
 Op evasion aanvallen kan geanticipeerd worden bij het testen van de [robuustheid](2-owp-33-technische-interventies-robuustheid.md) van algoritmes. Bijvoorbeeld door als onderdeel van een [representatieve testomgeving](5-ver-04-representatieve-testomgeving.md) ook rekening te houden met moedwillig, subtiel aangepaste input.
 
-### Backdoor
+## Backdoor
 Een backdoor in een algoritme geeft een aanvaller toegang en/ of de mogelijkheid om deze te manipuleren.
 Een voorbeeld hiervan is een nummerbord herkenningsalgoritme dat tijdens de ontwikkelfase van een backdoor voorzien is van een aanvaller, waardoor via een speciale toevoeging aan een nummerbord deze niet meer herkend wordt.
 Maatregelen gericht op controle van verwerking van trainingsdata, gebruik van ontwikkeltools en halffabricaten en het trainingsproces beperken de mogelijkheid om aanvallers backdoors te laten injecteren.
 
-### Model stealing
+## Model stealing
 Bij *model stealing* of *model reverse engineering* brengt een aanvaller in kaart hoe een algoritme in elkaar zit.
 Hierdoor kan een aanvaller het algoritme voor andere doeleinden misbruiken, zoals het vinden van kwetsbaarheden of van *evasion tactieken* voor het algoritme.
 
-### Inversion of inference aanval
+## Inversion of inference aanval
 Met *inversion of inference* aanvallen kan een aanvaller achterhalen wat voor (mogelijk vertrouwelijke) trainingsdata is gebruikt.
 Zo kunnen gevoelige informatie worden blootgelegd, waaronder privacygevoelige gegevens en intellectueel eigendom.
 

@@ -10,14 +10,14 @@ In de ontwikkelfase bouw je het algoritme of AI-systeem samen met  een multidisc
 ## Taken ontwikkelfase
 De belangrijkste taken in deze fase zijn:
 
-* ontwikkelen van het algoritme of AI-systeem, inclusief modellen trainen met [goed voorbereide data](https://minbzk.github.io/Algoritmekader/levenscyclus/dataverkenning-en-datapreparatie/)
+* ontwikkelen van het algoritme of AI-systeem, inclusief modellen trainen met [goed voorbereide data](./dataverkenning-en-datapreparatie.md)
 * documenteren van technische informatie en belangrijke keuzes
-* [controleren van de uitkomst en werking](https://minbzk.github.io/Algoritmekader/onderwerpen/technische-robuustheid-en-veiligheid/#controleer-regelmatig) van het algoritme of AI-systeem
-* [beveiligen van het informatiesysteem](https://minbzk.github.io/Algoritmekader/onderwerpen/technische-robuustheid-en-veiligheid/#bescherm-algoritmes-tegen-aanvallen-en-bedreigingen)
-* [maatregelen](https://minbzk.github.io/Algoritmekader/levenscyclus/ontwikkelen/#aanbevolen-maatregelen) nemen voor bijvoorbeeld het verantwoord ontsluiten van output naar gebruikers, het automatisch genereren van logs en het inrichten van service- en incidentmanagementprocedures
+* [controleren van de uitkomst en werking](../onderwerpen/technische-robuustheid-en-veiligheid.md#controleer-regelmatig) van het algoritme of AI-systeem
+* [beveiligen van het informatiesysteem](../onderwerpen/technische-robuustheid-en-veiligheid.md#bescherm-algoritmes-tegen-aanvallen-en-bedreigingen)
+* [maatregelen](#aanbevolen-maatregelen) nemen voor bijvoorbeeld het verantwoord ontsluiten van output naar gebruikers, het automatisch genereren van logs en het inrichten van service- en incidentmanagementprocedures
 
 ## Rollen en verantwoordelijkheden
-Alleen een multidisciplinair team kan algoritmes en AI-systemen technisch correct ontwikkelen en de beperkingen ervan begrijpen. Zo’n team bestaat uit medewerkers in verschillende [rollen](https://minbzk.github.io/Algoritmekader/rollen/), zoals een:
+Alleen een multidisciplinair team kan algoritmes en AI-systemen technisch correct ontwikkelen en de beperkingen ervan begrijpen. Zo'n team bestaat uit medewerkers in verschillende [rollen](../rollen/index.md), zoals een:
 
 * proceseigenaar
 * domeinspecialist
@@ -34,7 +34,7 @@ Hoe goed een algoritme of AI-systeem werkt, leid je vooral af uit de rekenregels
 * technisch gezien voldoende significant
 * zinvol voor gebruikers
 
-Het multidisciplinaire team beoordeelt dit en stuurt steeds bij. Zo ontwikkel je samen een verantwoord algoritme of AI-systeem dat past bij het [afgesproken doel](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/maatregelen/1-pba-02-formuleren-doelstelling/).
+Het multidisciplinaire team beoordeelt dit en stuurt steeds bij. Zo ontwikkel je samen een verantwoord algoritme of AI-systeem dat past bij het [afgesproken doel](../voldoen-aan-wetten-en-regels/maatregelen/1-pba-02-formuleren-doelstelling.md).
 
 ## Vereisten ontwikkelfase { data-search-exclude }
 

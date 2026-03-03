@@ -18,22 +18,37 @@
 let columnMapping = {};
 let filterElements = {};
 
-// Wait for MkDocs Material content loading events
-document$.subscribe(function () {
-    initializeFlexibleFiltering();
+// Initialize on DOM ready without interfering with MkDocs Material skiplink
+(function() {
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initializeFlexibleFiltering);
+    } else {
+        initializeFlexibleFiltering();
+    }
 
     // Reinitialize when content is dynamically updated
     document.addEventListener('contentUpdated', function () {
         initializeFlexibleFiltering();
     });
-});
+
+    // Handle MkDocs Material SPA navigation
+    if (typeof document$ !== 'undefined') {
+        document$.subscribe(function() {
+            // Small delay to ensure DOM is ready
+            setTimeout(initializeFlexibleFiltering, 100);
+        });
+    }
+
+    // Additional fallback for navigation events
+    window.addEventListener('popstate', function() {
+        setTimeout(initializeFlexibleFiltering, 100);
+    });
+})();
 
 /**
  * Main initialization function
  */
 function initializeFlexibleFiltering() {
-    console.log("Initializing flexible filtering system...");
-
     // Step 1: Read column mapping from Python-generated data
     if (!readColumnMapping()) {
         console.warn("No column mapping found, filtering not available");
@@ -51,11 +66,6 @@ function initializeFlexibleFiltering() {
 
     // Step 5: Attach event listeners
     attachFilterListeners();
-
-    console.log("Flexible filtering system initialized:", {
-        columnMapping,
-        filterElements
-    });
 }
 
 /**
@@ -76,7 +86,6 @@ function readColumnMapping() {
 
     try {
         columnMapping = JSON.parse(mappingData);
-        console.log("Column mapping loaded:", columnMapping);
         return true;
     } catch (error) {
         console.error("Failed to parse column mapping:", error);
@@ -100,7 +109,6 @@ function initializeFilterElements() {
                 element: element,
                 columnIndex: columnMapping[columnKey].index
             };
-            console.log(`Registered filter for column '${columnKey}' at index ${columnMapping[columnKey].index}`);
         }
     });
 
@@ -213,7 +221,6 @@ function attachFilterListeners() {
             // Use 'input' for text inputs and 'change' for selects
             const eventType = element.tagName.toLowerCase() === 'input' ? 'input' : 'change';
             element.addEventListener(eventType, filterTable);
-            console.log(`Attached ${eventType} listener to ${columnKey} filter`);
         }
     });
 }
@@ -275,8 +282,6 @@ function anyExpressionMatches(expressions, selectedLabels) {
  * No more hardcoded column indices!
  */
 function filterTable() {
-    console.log("filterTable called with flexible system");
-
     const table = document.getElementById("myTable");
     if (!table) {
         console.warn("Table not found");
@@ -331,11 +336,11 @@ function filterTable() {
             }
         }
     }
-    
+
     // Fix missing labels for AI-models for general purposes
     const hasAiModel = labelsToFilterOn.includes('soort-toepassing-ai-model-voor-algemene-doeleinden');
     const hasSysteemrisico = labelsToFilterOn.includes('systeemrisico-systeemrisico');
-    
+
     if (hasAiModel && hasSysteemrisico) {
         // Add missing "niet-van-toepassing" labels
         if (!labelsToFilterOn.includes('risicogroep-niet-van-toepassing')) {
@@ -344,7 +349,7 @@ function filterTable() {
         if (!labelsToFilterOn.includes('transparantieverplichting-niet-van-toepassing')) {
             labelsToFilterOn.push('transparantieverplichting-niet-van-toepassing');
         }
-        
+
         // Remove exception label that incorrectly blocks relevant requirements
         const exceptionIndex = labelsToFilterOn.indexOf('risicogroep-uitzondering-van-toepassing');
         if (exceptionIndex > -1) {

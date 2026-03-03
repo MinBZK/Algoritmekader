@@ -38,7 +38,7 @@ De AI-verordening geldt voor AI-systemen.
 
 Een [rekenregel](../soorten-algoritmes-en-ai/wat-is-een-algoritme.md) is op zichzelf geen AI-systeem of AI-model. Rekenregels kunnen hier wel onderdeel van zijn.
 
-### AI-systeem
+## AI-systeem
 
 Een AI-systeem is volgens de AI-verordening:
 '(…) een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na de uitrol aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen.'
@@ -59,7 +59,7 @@ Symbolische AI is meestal ook een AI-systeem. Symbolische AI leert op basis van 
 
     De Europese Commissie publiceerde in februari 2025 [extra guidance over de definitie van een AI-systeem](https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-ai-system-definition-facilitate-first-ai-acts-rules-application). De richtlijnen over de definitie van een AI-systeem geven uitleg over de praktische toepassing van het wettelijke concept, zoals verankerd in de AI-verordening.
 
-### AI-model voor algemene doeleinden
+## AI-model voor algemene doeleinden
 
 Een AI-model voor algemene doeleinden (GPAI):
 
@@ -82,7 +82,7 @@ De AI-verordening geldt zowel voor ontwikkelaars van AI-systemen als voor organi
 
 De belangrijkste begrippen die de AI-verordening hiervoor gebruikt zijn: aanbieder en gebruiksverantwoordelijke.
 
-### Aanbieder
+## Aanbieder
 
 Dit is de organisatie die het AI-systeem ontwikkelt.
 
@@ -90,7 +90,7 @@ Dit is de organisatie die het AI-systeem ontwikkelt.
 
     Je bent ook een aanbieder als je een AI-systeem laat ontwikkelen en het systeem in de handel brengt of in gebruik stelt onder de eigen naam of merk. Of wanneer je een substantiele wijziging aanbrengt in het AI-systeem dat al in gebruik is genomen. Lees meer in [Overweging 84](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#rct_1) van de AI-verordening.
 
-### Gebruiksverantwoordelijke
+## Gebruiksverantwoordelijke
 
 Dit is de organisatie die het AI-systeem onder eigen verantwoordelijkheid gebruikt.
 
@@ -98,7 +98,7 @@ Dit is de organisatie die het AI-systeem onder eigen verantwoordelijkheid gebrui
 
     Als je het AI-systeem dat je gebruikt ook zelf hebt ontwikkeld, dan ben je zowel aanbieder als gebruiksverantwoordelijke.
 
-### Andere rollen
+## Andere rollen
 
 De AI-verordening definieert ook andere rollen zoals importeur, distributeur of gemachtigde. Deze zijn voor overheden meestal niet van toepassing.
 
@@ -123,15 +123,15 @@ In de [tijdlijn AI-verordening](tijdlijn-ai-verordening.md) vind je alle vereist
 
 ## Hulp bij de AI-verordening
 
-### Beslishulp AI-verordening
+## Beslishulp AI-verordening
 
 Met de <a href="#" onclick="showModal(event, 'beslishulp AI-verordening', {redirectUrl: 'voldoen-aan-wetten-en-regels/vereisten/'});">beslishulp AI-verordening</a> bepaal je snel en gemakkelijk of jouw AI-product onder de AI-verordening valt. En wat je dan moet doen.
 
-### Gids AI-verordening
+## Gids AI-verordening
 
 Wil je de regels uit de AI-verordening overzichtelijk bekijken? Het Ministerie van Economische Zaken schreef de [Gids AI-verordening](https://www.rijksoverheid.nl/ministeries/ministerie-van-economische-zaken/documenten/brochures/2024/10/16/gids-ai-verordening). Dit document zet deze regels helder op een rij en gaat ook dieper in op de mogelijke implicaties van de wet voor het gebruik en de ontwikkeling van AI binnen jouw organisatie.
 
-### Hulpmiddelen implementatie AI-verordening
+## Hulpmiddelen implementatie AI-verordening
 
 De Rijksoverheid ontwikkelt voortdurend instrumenten en hulpmiddelen om bij de implementatie van de AI-verordening te ondersteunen.
 

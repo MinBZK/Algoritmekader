@@ -39,20 +39,20 @@ Maak het al dan niet kunnen leveren van bewijs door een aanbieder dat auteursrec
 
 ## Toelichting
 
-### Trainingsdata
+## Trainingsdata
 - Algoritmes worden veelal getraind aan de hand van een omvangrijke hoeveelheid data. Wanneer grote hoeveelheden data, bijvoorbeeld door deze te scrapen van internet, worden gebruikt is het zeer aannemelijk (of: nagenoeg zeker) dat zich onder de gescrapete inhoud (ook) veel auteursrechtelijk beschermde werken bevinden, zoals bijvoorbeeld e-books en afbeeldingen. De gebruikte auteursrechtelijke werken kunnen soms bijvoorbeeld uit illegale bron verkregen zijn, en ook los daarvan zijn rechthebbenden veelal niet op de hoogte van het feit dat hun auteursrechtelijke werken voor de ontwikkeling van een algoritme of AI gebruikt worden.
 
 - Onder auteursrechtjuristen wordt aangenomen dat het gebruik van auteursrechtelijk beschermde werken ter training van algoritmes (waarschijnlijk) als kopiëren geldt: een handeling die de rechthebbende kan verbieden. Dat betekent dat aanbieders van algoritmes het gebruik van auteursrechtelijk beschermd materiaal in de inputfase steeds moeten kunnen legitimeren op grond van (a) toestemming van de rechthebbende(n) of (b) een in de wet neergelegde exceptie op het auteursrechtelijke verveelvoudigingsrecht.
 
 - Laat de aanbieder(s) uitleggen en (aantoonbaar) onderbouwen op welke manier de trainingsdata is verkregen en of dit rechtmatig was. Laat de aanbieders(s) ook aantonen welke maatregelen er zijn getroffen om dit te voorkomen en ga hier eventueel over in gesprek. Maak een jurist onderdeel van de beoordeling hiervan.
 
-### Output
+## Output
 Laat de aanbieder(s) uitleggen en (aantoonbaar) onderbouwen op welke manier de trainingsdata is verkregen en of dit rechtmatig was. Laat de aanbieders(s) ook aantonen welke maatregelen er zijn getroffen om dit te voorkomen. Maak een jurist onderdeel van de beoordeling hiervan. Overweeg om een bronvermelding te laten opnemen.
 
-### Risicomanagement
+## Risicomanagement
 Het is van belang dat de (rest)risico's inzichtelijk zijn gemaakt als er sprake is van een (potentiële) schending van auteursrechten. Laat een aanbieder deze risico's inzichtelijk maken, zodat aanbieder en gebruiksverantwoordelijke maatregelen kunnen treffen en handelen als dit nodig is. Beoordeel of deze rest(risico's) acceptabel zijn.
 
-### Contractovereenkomst
+## Contractovereenkomst
 Neem in de conceptovereenkomst op dat de aanbieder garandeert dat auteursrechten niet worden geschonden met de trainingsdata of output van het algoritme en dat aanbieder dit gedurende de ontwikkeling en levensduur actief bewaakt.
 
 ## Risico

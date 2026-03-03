@@ -34,10 +34,10 @@ Voor het opstellen van het evaluatieplan zijn de volgende stappen nodig:
 2. [Bepaal bij welke gebeurtenissen het algoritme geëvalueerd moet worden](#bepaal-bij-welke-gebeurtenissen-het-algoritme-geevalueerd-moet-worden)
 3. [Bepaal wat er geëvalueerd moet worden](#bepaal-wat-er-geevalueerd-moet-worden)
 
-### Bepaal of periodieke controle noodzakelijk is
+## Bepaal of periodieke controle noodzakelijk is
 Stel vast of er periodieke momenten zijn vanuit bijvoorbeeld wetgeving, organisatiebeleid of risicomanagement waarop het wenselijk is dat het algoritme geëvalueerd wordt.
 
-### Bepaal bij welke gebeurtenissen het algoritme geëvalueerd moet worden
+## Bepaal bij welke gebeurtenissen het algoritme geëvalueerd moet worden
 Wat zijn gebeurtenissen die om een nieuwe evaluatie vragen? Denk bijvoorbeeld aan momenten waarop het bijtrainen van het model noodzakelijk is, zoals:
 
 - Een wijziging in de data of het algoritme.
@@ -48,7 +48,7 @@ Wat zijn gebeurtenissen die om een nieuwe evaluatie vragen? Denk bijvoorbeeld aa
 - Gebruikersfeedback.
 - Een verandering in de gebruikscontext (bijv. een situatie als COVID-19).
 
-### Bepaal wat er geëvalueerd moet worden
+## Bepaal wat er geëvalueerd moet worden
 Bepaal welke onderdelen van het algoritme geëvalueerd dienen te worden bij een periodieke controle of wanneer er een gebeurtenis plaatsvindt waardoor evaluatie wenselijk is.
 
 Wat minimaal periodiek geëvalueerd moet worden is:
@@ -63,7 +63,7 @@ Wat minimaal periodiek geëvalueerd moet worden is:
 
 Bij een evaluatie hoeft niet altijd alles weer geëvalueerd te worden. Dit hangt af van het type wijzigingen die er zijn geweest en van de aspecten die continu worden gemonitored. Leg vast wat er wanneer geëvalueerd dient te worden.
 
-### Documenteer voor en tijdens iedere evaluatie
+## Documenteer voor en tijdens iedere evaluatie
 Zorg dat de benodigde informatie voor de evaluatie wordt opgeslagen en beschikbaar is voor de evaluatiemomenten. Denk aan invoerwaarden, resultaten en gebruikersstatistieken.
 
 Betrek bij het opstellen van dit plan een [diverse groep van belanghebbenden](1-pba-04-betrek-belanghebbenden.md) met o.a. ontwikkelaars, gebruikers en ethisch adviseurs. Zorg dat het evaluatieplan periodiek wordt herzien of deze nog voldoet.

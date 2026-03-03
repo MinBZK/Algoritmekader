@@ -2,11 +2,12 @@
 .filter-container {
   display: flex;
   flex-wrap: wrap;
-  gap: 16px;
+  gap: 12px;
   max-width: 100%;
   box-sizing: border-box;
   align-items: flex-start;
   justify-content: flex-start;
+  padding: 16px;
 }
 
 .filter-container.info {
@@ -19,99 +20,14 @@
 
 /* Style each filter item */
 .filter-item {
-  flex: 0 1 250px;
+  flex: 1 1 250px;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   min-height: 48px !important;
+  max-width: calc(45% - 6px);
 }
 
-/* More compact filters for vereisten pages with wetcode column */
-/* Use a class-based approach that can be set by JavaScript */
-@media (min-width: 768px) {
-  .filter-container.vereisten-filters {
-    gap: 8px;
-    flex-wrap: wrap;
-    justify-content: flex-start;
-  }
-
-  .filter-container.vereisten-filters .filter-item {
-    flex: 1 1 auto;
-    min-width: 200px;
-    max-width: 280px;
-    margin-right: 8px !important;
-    margin-bottom: 0 !important;
-    padding-right: 0;
-  }
-
-  .filter-container.vereisten-filters .filter-item:last-child {
-    margin-right: 0 !important;
-  }
-
-  /* Force spacing on all filter elements including Choices.js */
-  .filter-container.vereisten-filters .filter-item:not(:last-child) {
-    margin-right: 8px !important;
-  }
-
-  .filter-container.vereisten-filters .filter-item #filterInput,
-  .filter-container.vereisten-filters .filter-item .choices {
-    width: 100%;
-    min-width: 200px;
-  }
-}
-
-/* For desktop screens - optimize space usage */
-@media (min-width: 1024px) {
-  .filter-container.vereisten-filters {
-    gap: 10px;
-  }
-
-  .filter-container.vereisten-filters .filter-item {
-    flex: 1 1 0;
-    min-width: 180px;
-    max-width: none;
-    margin-right: 10px !important;
-  }
-
-  .filter-container.vereisten-filters .filter-item:not(:last-child) {
-    margin-right: 10px !important;
-  }
-
-  .filter-container.vereisten-filters .filter-item #filterInput,
-  .filter-container.vereisten-filters .filter-item .choices {
-    width: 100%;
-    min-width: 180px;
-  }
-}
-
-/* For very wide screens - all filters on one row */
-@media (min-width: 1400px) {
-  .filter-container.vereisten-filters {
-    gap: 12px;
-    flex-wrap: nowrap;
-  }
-
-  .filter-container.vereisten-filters .filter-item {
-    flex: 1 1 0;
-    min-width: 200px;
-    margin-right: 12px !important;
-    margin-bottom: 0 !important;
-  }
-
-  .filter-container.vereisten-filters .filter-item:last-child {
-    margin-right: 0 !important;
-  }
-
-  .filter-container.vereisten-filters .filter-item:not(:last-child) {
-    margin-right: 12px !important;
-  }
-
-  .filter-container.vereisten-filters .filter-item #filterInput,
-  .filter-container.vereisten-filters .filter-item .choices {
-    width: 100%;
-    min-width: 200px;
-  }
-}
 
 /* Input and select fields */
 #filterInput,
@@ -171,45 +87,10 @@
   position: relative;
 }
 
-/* Override the base Choices.js width for vereisten filters */
-.filter-container.vereisten-filters .choices {
-  width: 100% !important;
-  min-width: 200px !important;
-  max-width: 280px !important;
-}
-
-@media (min-width: 1024px) {
-  .filter-container.vereisten-filters .choices {
-    width: 100% !important;
-    min-width: 180px !important;
-    max-width: none !important;
-  }
-}
-
-@media (min-width: 1400px) {
-  .filter-container.vereisten-filters .choices {
-    width: 100% !important;
-    min-width: 200px !important;
-    max-width: none !important;
-  }
-}
-
 /* Ensure dropdown is visible */
 .choices__list--dropdown {
   z-index: 1000 !important;
   position: absolute !important;
-}
-
-/* For vereisten filters, ensure dropdowns work properly */
-.filter-container.vereisten-filters .choices {
-  position: relative;
-  z-index: auto;
-}
-
-.filter-container.vereisten-filters .choices__list--dropdown {
-  z-index: 1000 !important;
-  position: absolute !important;
-  width: 100% !important;
 }
 
 .choices__inner {

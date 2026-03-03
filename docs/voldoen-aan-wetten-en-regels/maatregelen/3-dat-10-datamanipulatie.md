@@ -37,7 +37,7 @@ Manipulatie van data wordt een “data poisoning” aanval genoemd [^1] [^2] [^3
 
 Op deze manieren kan een aanvaller een model slecht laten functioneren, of alleen fouten laten maken op specifiek gekozen invoerwaarden. Een aanvaller kan de trainingsdata zo beïnvloeden dat nummerborden met een stip altijd foutief gelezen worden, waardoor criminelen kentekencontroles kunnen ontwijken. In dit geval wordt ook wel gesproken over een [“backdoor” aanval](4-owk-09-adversarial-aanvallen.md#backdoor).
 
-### Adversarial training
+## Adversarial training
 Daarnaast kan het principe van [adversarial training](https://arxiv.org/abs/1611.01236) worden toegepast door zelf bewust foutieve invoerwaarden aan de trainingsdata toe te voegen.
 Door een algoritme hierop te laten trainen kan deze beter bestand gemaakt worden tegen aanvallen tijdens het gebruik.
 

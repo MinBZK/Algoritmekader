@@ -50,12 +50,12 @@ Deze matrix kan in verdere fases helpen wanneer belanghebbenden betrokken moeten
 Een RACI-matrix/VERI-matrix is een passend middel om de verantwoordelijkheden (Responsible/Verantwoordelijk, Accountable/Eindverantwoordelijk, Consulted/Geraadpleegd, Informed/Geïnfomeerd) te bepalen.
 Werk specifieke, gevoelige activiteiten nader uit in concrete taken en verantwoordelijkheden, bijvoorbeeld welke stappen moeten worden gezet om data veilig te leveren ten behoeve van een onderzoek naar onbewuste vooringenomenheid.
 
-### Vaststellen van rollen en verantwoordelijkheden
+## Vaststellen van rollen en verantwoordelijkheden
 - Laat de rollen en verantwoordelijkheden vaststellen door de verantwoordelijke(n). Het doel van vaststelling is dat de verantwoordelijke(n) de verantwoordelijkheid neemt en actief een keuze maakt om het algoritme te (laten) ontwikkelen of gebruiken op de beoogde wijze en met de bijbehorende verantwoordelijkheden. Met het vaststellen worden afspraken geformaliseerd.
 - Vaststelling van de verantwoordelijkheden kan plaatsvinden door beleidsdocumenten, werkinstructies, verwerkersovereenkomst of een PIA/DPIA, mits de verantwoordelijkheden voldoende duidelijk zijn beschreven.
 - Gedurende de levenscyclus kan het voorkomen dat rollen en verantwoordelijkheden opnieuw moet worden beschreven en vastgesteld.
 
-### Verwerking van persoonsgegevens
+## Verwerking van persoonsgegevens
 - Bij het verwerken van persoonsgegevens moet worden vastgelegd wie de (gezamelijke) verwerkingsverantwoordelijken zijn en wie de verwerkers. Uit deze vaststelling van de rolverdeling volgen onder de AVG verschillende rechten en plichten.
 - Bij de ontwikkeling en gebruiken van algoritmes is het denkbaar dat de noodzaak voor het verwerken van persoonsgegevens wijzigt en dat meer of andere verwerkingen moeten plaatsvinden. Het is van belang dat wederom wordt beoordeeld wat dit betekent voor de bijbehorende verantwoordelijkheden. Als er sprake is van een wezenlijke wijziging ten opzichte van de al vastgestelde situatie, bijvoorbeeld doordat er meer persoonsgegevens worden verwerkt door een andere partij, dan zal de verwerkingsverantwoordelijke opnieuw tot vaststelling moeten overgaan om de afspraken te formaliseren.
 
@@ -79,7 +79,7 @@ De sturing en verantwoording is ontoereikend of niet geborgd, waardoor er onvold
 	Bij Gemeentelijke Model Architectuur (GEMMA) wordt aangegeven dat een RACI matrix rollen en verantwoordelijkheden goed weergeeft en onderscheidt. Het RACI matrix is een afkorting voor  Responsible (Verantwoordelijk), Accountable (Eindverantwoordelijk), Consulted (Raadplegen) en Informed (Informeren). In deze matrix staan horizontaal de rollen en staan verticaal de taken/producten waar een rol verantwoordelijk voor is.
 	Dit matrix geeft veel verschillende rollen weer die in het beste geval voor verschillende functionarissen zijn. GEMMA geeft ook aan dat in kleinere organisaties (kleinere gemeenten) dit niet altijd mogelijk is. Het is dus belangrijk om te weten dat dit verschillend is per gemeente en afhankelijk van de [volwassenheid](0-org-06-volwassenheidsmodel.md) van inrichting van gegevensmanagement.
 
-	![Voorbeeld invulling RACI matrix](https://www.gemmaonline.nl/images/gemma/c/cf/GMT_GM_RACI.png)
+	![Screenshot van een RACI-matrix waarin in een tabel staat aangegeven welke rol of rollen verantwoordelijk zijn voor een taak of product. Het bestand waaruit het screenshot is genomen is te downloaden op de website van GEMMA. Bij de bron vind je een link naar het bestand.](https://www.gemmaonline.nl/images/gemma/c/cf/GMT_GM_RACI.png)
 
 	Bron: [RACI matrix](https://www.gemmaonline.nl/wiki/Bestand:RACI_GM-BIG-AVG-ENSIA_v1_0.xlsx.zip)
 

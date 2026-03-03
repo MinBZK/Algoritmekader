@@ -31,7 +31,7 @@ Daarnaast bevat het plan in welke situaties er actie moet worden ondernomen, en 
 
 Voor het opstellen van het plan voor monitoring zijn de volgende stappen nodig:
 
-### Bepaal waar je continu op wilt monitoren
+## Bepaal waar je continu op wilt monitoren
 Denk hierbij aan:
 
 - [Bias en discriminerende effecten](5-ver-03-biasanalyse.md).
@@ -41,17 +41,17 @@ Denk hierbij aan:
 - [Datakwaliteit](3-dat-01-datakwaliteit.md) en data drift (de data die in het systeem wordt ingevoerd kan veranderen over tijd).
 - Invoerwaarden (probeert een gebruiker het systeem te manipuleren).
 
-### Bepaal hoe je het gaat meten en welke informatie je hiervoor nodig hebt
+## Bepaal hoe je het gaat meten en welke informatie je hiervoor nodig hebt
 Welke metrieken worden er gebruikt om de vastgelegde aspecten te meten?
 Welke informatie moet er opgeslagen worden om deze metrieken te kunnen meten? Analyseer ook of er aspecten zijn die niet met metrieken gemeten kunnen worden en hoe je die aspecten kan monitoren.
 
-### Bepaal de grenswaarden: bij welke overschrijding moet er actie worden genomen?
+## Bepaal de grenswaarden: bij welke overschrijding moet er actie worden genomen?
 Voor een effectieve monitoring is het van belang dat duidelijk is wanneer er actie moet worden ondernomen op de resultaten. Leg vast voor elk van de aspecten die gemonitored worden bij welke waarden er actie moet worden genomen. Hiervoor is het noodzakelijk om een duidelijke omschrijving te hebben wat de beoogde werking van het systeem is. Het is ook mogelijk om meerdere waarden per monitor te bepalen, waarbij bij een eerste overschrijding alleen een waarschuwing wordt gegeven en bij een tweede bij het algoritme bijvoorbeeld wordt overgegaan tot het [noodplan](4-owk-02-stopzetten-gebruik.md).
 
-### Bepaal welke acties genomen moeten worden bij een overschrijding
+## Bepaal welke acties genomen moeten worden bij een overschrijding
 Je legt hier in eerste instantie vast of het algoritme moet worden stopgezet, beperkt moet worden in de inzet of in gebruik kan blijven. Ten tweede bepaal je wat voor andere acties er moeten worden genomen, bijvoorbeeld of er een nieuwe uitgebreide evaluatie moet plaatsvinden, moet het algoritme worden bijgewerkt, moet er nieuwe data verzameld worden, moet de beveiliging verbeterd worden of moet er worden overgestapt op plan B.
 
-### Leg vast hoe en aan wie er een waarschuwing wordt gegeven wanneer een waarde wordt overschreden
+## Leg vast hoe en aan wie er een waarschuwing wordt gegeven wanneer een waarde wordt overschreden
 Om effectief te kunnen ingrijpen is het van belang dat wordt vastgelegd in het monitoringsplan op welke manier er een waarschuwing wordt gegeven, aan wie deze waarschuwing wordt gegeven en welke informatie deze persoon nodig heeft. Bepaal bijvoorbeeld ook of een systeem automatisch wordt uitgeschakeld of dat een mens die keuze moet maken.
 
 Betrek bij het opstellen van dit plan een [diverse groep van belanghebbenden](1-pba-04-betrek-belanghebbenden.md) met onder andere ontwikkelaars, gebruikers en ethisch adviseurs. Zorg dat het evaluatieplan periodiek wordt herzien of deze nog voldoet.

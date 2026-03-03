@@ -34,7 +34,7 @@ Het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties heeft een [discrimi
 
 Een discriminatieprotocol kan de volgende stappen bevatten:
 
-### Stap 1: Vermoeden van onrechtmatigheid
+## Stap 1: Vermoeden van onrechtmatigheid
 
 Een vermoeden van bevooroordeeldheid of discriminatie kan vanuit verschillende partijen gemeld worden.
 Signalen hiervoor kunnen worden ontvangen vanuit de interne organisatie, bijvoorbeeld door de betrokken ontwikkelaars, gebruikers of beheerders, of door externe partijen, zoals belanghebbenden, toezichthouder of journalisten.
@@ -43,7 +43,7 @@ Signalen hiervoor kunnen worden ontvangen vanuit de interne organisatie, bijvoor
   - Indien er sprake is van zo'n vermoeden, zorg je dat bijvoorbeeld de uitvoerend directeur, de interne toezichthouder en/of de CIO en CDO hierover worden geïnformeerd.
   - Maak met de verantwoordelijken een afweging of het betreffende systeem in werking kan blijven of dat bijvoorbeeld [het noodplan voor het stopzetten van het algoritme](4-owk-02-stopzetten-gebruik.md) (tijdelijk) in gang moet worden gezet.
 
-### Stap 2: Inzicht en overzicht
+## Stap 2: Inzicht en overzicht
 
 Het is van belang om inzicht en overzicht te krijgen over de oorzaak en de gevolgen van eventuele discriminerende effecten van het algoritme.
 Daarvoor kan worden gedacht aan het uitvoeren van een bias analyse.
@@ -55,7 +55,7 @@ Daarvoor kan worden gedacht aan het uitvoeren van een bias analyse.
   - Trek een conclusie of er sprake is van discriminatie, of een sterk vermoeden van discriminatie.
   - Onderzoek en analyseer waarom de genomen maatregelen om discriminatie tegen te gaan, zoals het [uitvoeren van een biasanalyse](5-ver-03-biasanalyse.md) onvoldoende hebben gewerkt. Bekijk hoe de werkwijzen in de organisatie verbeterd kunnen worden zodat dit in de toekomst voorkomen kan worden.
 
-### Stap 3: Beperken schade
+## Stap 3: Beperken schade
 
 Bepaal welke mitigerende maatregelen er genomen moeten worden. Als er in het onderzoek is vastgesteld dat er sprake is van discriminatie, dan moet het betreffende systeem worden stopgezet. Hierbij kan je denken aan:
 
@@ -63,7 +63,7 @@ Bepaal welke mitigerende maatregelen er genomen moeten worden. Als er in het ond
    - Aanpassingen in het algoritme, de werkinstructies of de bijbehorende processen.
    - Indien het algoritme essentieel is in de uitvoer kan er sprake zijn van een een proportionaliteitsvraagstuk. In dat geval moet er worden bezien wat de alternatieven zijn, en of er delen van het systeem kunnen worden uitgeschakeld.
 
-### Stap 4: Melden en informeren
+## Stap 4: Melden en informeren
 
 De conclusies van de eerdere stappen moeten, indien nodig, worden gemeld bij de betreffende instanties. De eventuele gedupeerde burgers dienen te worden geïnformeerd over de gevolgen.
 
@@ -77,7 +77,7 @@ De conclusies van de eerdere stappen moeten, indien nodig, worden gemeld bij de 
        - waar mensen terecht kunnen met vragen
        - op de hoogte zijn van het proces rondom de afhandeling van de schade.
 
-### Stap 5: Registratie en afhandeling
+## Stap 5: Registratie en afhandeling
 
   - Registreer het algoritme in het [algoritmeregister](https://algoritmes.overheid.nl/nl), indien dat nog niet gebeurd is.
   - Zorg voor goede klachtenafhandeling en herstelprocedures.

@@ -1,5 +1,5 @@
 # Existing mkdocs.yml content
-site_name: Algoritmekader 2.2
+site_name: Algoritmekader
 site_description: Het Algoritmekader van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
 theme:
@@ -36,7 +36,6 @@ nav:
          - soorten-algoritmes-en-ai/risico-van-ai-systemen.md
          - soorten-algoritmes-en-ai/impact-van-algoritmes.md
          - soorten-algoritmes-en-ai/generatieve-ai.md
-         - soorten-algoritmes-en-ai/geautomatiseerde-risicoselectie.md
          - soorten-algoritmes-en-ai/definities.md
     - Onderwerpen:
         - onderwerpen/index.md
@@ -124,6 +123,8 @@ extra_javascript:
   - javascripts/filtering.js
   - javascripts/mermaid.min.js
   - javascripts/modal.js
+  - javascripts/extra.js
+  - javascripts/hamburger-control.js
 
 plugins:
     - glightbox
@@ -140,8 +141,8 @@ hooks:
     - src/overrides/hooks/tags.py
     - src/overrides/hooks/lists.py
     - src/overrides/hooks/definities.py
+    - src/overrides/hooks/security_txt.py
 
 # Link naar GitHub repo
-repo_url: https://github.com/MinBZK/Algoritmekader
 site_url: https://minbzk.github.io/Algoritmekader/
 edit_uri: edit/main/docs/

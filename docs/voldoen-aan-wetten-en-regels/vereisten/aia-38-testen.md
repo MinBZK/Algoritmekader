@@ -49,7 +49,7 @@ Er wordt getest aan de hand van vooraf vastgestelde beoordelingsmaatstaven en pr
 
 Bij het verwerken van persoonsgegevens voor het ontwikkelen, trainen en testen van een AI-systeem in een AI-testomgeving, wordt een volledige en gedetailleerde beschrijving van het testproces en de testresultaten onderdeel van de technische documentatie.
 
-### Testen van AI-systemen met een hoog risico onder reële omstandigheden buiten AI-testomgevingen
+## Testen van AI-systemen met een hoog risico onder reële omstandigheden buiten AI-testomgevingen
 AI-systemen met een hoog risico kunnen onder reële omstandigheden buiten AI-testomgevingen voor regelgeving worden getest door aanbieders of potentiële aanbieders van in bijlage III vermelde AI-systemen met een hoog risico in overeenstemming met dit artikel en het in dit artikel bedoelde plan voor tests onder reële omstandigheden, onverminderd de verbodsbepalingen krachtens artikel 5 AI-Verordening.
 
 Aanbieders of potentiële aanbieders kunnen zelf of in samenwerking met een of meer gebruiksverantwoordelijken of potentiële gebruiksverantwoordelijken onder reële omstandigheden tests uitvoeren op in bijlage III bedoelde AI-systemen met een hoog risico op elk moment vóór het in de handel brengen of in gebruik nemen van het AI-systeem.

@@ -27,7 +27,7 @@ De maatregelen zijn niet verplicht. Het zijn adviezen uit:
 
     [Download mapping](https://github.com/MinBZK/Algoritmekader/blob/main/relatie-ak-tot-toetsingskaders.csv){ .md-button .md-button--primary }
 
-### Voorbeeld
+## Voorbeeld
 > Onderzoek het ontwikkelde algoritme op onbewuste vooringenomenheid (discriminatie) door middel van een bias-analyse.
 
 Deze maatregel helpt om te voldoen aan de vereiste om niet te discrimineren. Maar deze maatregel is niet verplicht. Je organisatie mag ook eigen maatregelen nemen. Zolang je uiteindelijk maar voldoet aan de vereiste.

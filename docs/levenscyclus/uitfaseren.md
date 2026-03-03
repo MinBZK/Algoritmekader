@@ -27,7 +27,7 @@ Archiveren zorgt ervoor dat je later terug kunt vinden hoe het algoritme werkte 
 * informatie óver het algoritme of AI-systeem, zoals stukken over de doelstelling en ontwikkeling en het besluit om te gaan uitfaseren
 * gegevens (artefacten) die de werking van het algoritme of AI-systeem beschrijven, zoals logbestanden en parameters
 
-Let erop dat de werking van je algoritme of AI-systeem kan veranderen door aanpassingen in de data of rekenregels, of door het opnieuw trainen met nieuwe data. Geef daarom duidelijk aan welke versie je archiveert. Tijdens de [ontwerpfase](https://minbzk.github.io/Algoritmekader/levenscyclus/ontwerp/) heb je hier als het goed is al aandacht aan besteed.
+Let erop dat de werking van je algoritme of AI-systeem kan veranderen door aanpassingen in de data of rekenregels, of door het opnieuw trainen met nieuwe data. Geef daarom duidelijk aan welke versie je archiveert. Tijdens de [ontwerpfase](./ontwerp.md) heb je hier als het goed is al aandacht aan besteed.
 
 ## Vereisten voor uitfasering { data-search-exclude }
 

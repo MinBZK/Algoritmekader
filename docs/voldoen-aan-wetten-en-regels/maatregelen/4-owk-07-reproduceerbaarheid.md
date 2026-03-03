@@ -36,11 +36,11 @@ Om te zorgen voor reproduceerbaarheid van de uitkomsten, kan je de volgende stap
 2. [Implementeer verschillende stappen die bijdragen aan reproduceerbaarheid](#implementeer-verschillende-stappen-die-bijdragen-aan-reproduceerbaarheid)
 3. [Test of het algoritme het gewenste niveau van reproduceerbaarheid heeft](#test-of-het-algoritme-het-gewenste-niveau-van-reproduceerbaarheid-heeft)
 
-### Bepaal welke mate van reproduceerbaarheid nodig is
+## Bepaal welke mate van reproduceerbaarheid nodig is
 Afhankelijk van de toepassing moeten de resultaten van het algoritme precies te reproduceren zijn.
 Wanneer er gebruik wordt gemaakt van generatieve AI hoeft de output niet altijd exact hetzelfde te zijn.
 
-### Implementeer verschillende stappen die bijdragen aan reproduceerbaarheid
+## Implementeer verschillende stappen die bijdragen aan reproduceerbaarheid
 Om te zorgen dat uitkomsten reproduceerbaar zijn, implementeer je het volgende in je processen en systemen:
 
 - Zorg voor versiebeheer op de code en de bijbehorende systemen. Dit geldt zowel tijdens ontwikkeling als tijdens operatie. Tools als [GitHub](https://github.com/) of [GitLab](https://about.gitlab.com/) kunnen ondersteunen bij versiebeheer van code.
@@ -50,7 +50,7 @@ Om te zorgen dat uitkomsten reproduceerbaar zijn, implementeer je het volgende i
 - Logging van tussenresultaten, eindresultaten, parameters en andere benodigde informatie.
 - Houd de documentatie compleet en compact.
 
-### Test of het algoritme het gewenste niveau van reproduceerbaarheid heeft
+## Test of het algoritme het gewenste niveau van reproduceerbaarheid heeft
 Het is belangrijk om het algoritme te testen op de mate van reproduceerbaarheid. Dit kan je doen door:
 
 - Experimenten meerdere keren te herhalen.
@@ -63,7 +63,7 @@ Het is belangrijk om het algoritme te testen op de mate van reproduceerbaarheid.
     - versies van gebruikte software (softwarebibliotheken)
     - etc.
 
-### Generatieve AI
+## Generatieve AI
 Bij generatieve AI is het vaak lastiger om de reproduceerbaarheid te testen. Je kunt het volgende doen om dit risico te beperken:
 
 - Maak gebruik van open applicaties of modellen, waar mogelijk open source-applicaties en -modellen. Deze bieden meer inzicht op het gebied van transparantie. Let wel op dat deze transparantie niet ten koste mag gaan van de veiligheid.

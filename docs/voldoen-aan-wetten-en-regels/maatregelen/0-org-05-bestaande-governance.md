@@ -26,7 +26,7 @@ Sluit algoritmegovernance aan op bestaande governancestructuren binnen de organi
 ## Toelichting
 Zoek bij het opstellen van een algoritmegovernance van een organisatie aansluiting en samenwerking met huidige governancestructuren. Dit kan op drie manieren: aansluiting bij bestaande governance binnen je organisatie, governance van andere sectoren en governance van andere overheidsorganisaties.
 
-### Aansluiting met bestaande governancestructuren binnen je eigen organisatie
+## Aansluiting met bestaande governancestructuren binnen je eigen organisatie
 Zoek aansluiting met bestaande governance binnen je organsatie, zoals:
 
 - IT governance
@@ -48,10 +48,10 @@ De volgende vragen kunnen bedragen om bovenstaande inzichtelijk te krijgen:
 - Hoe werken experts vanuit verschillende onderwerpen zoals privacy, informatiebeheer, informatiebeveiliging en data op dit moment samen als het gaat om de inzet van algoritmes?
 
 
-### Governance van andere sectoren
+## Governance van andere sectoren
 Andere sectoren hebben in veel gevallen al governancestructuren met vergelijkbare elementen. Denk aan governancestructuren uit de verzekeringssector of de bankensector.
 
-### Aansluiting met andere overheidsorganisaties
+## Aansluiting met andere overheidsorganisaties
 Probeer aansluiting te zoeken met vergelijkbare overheidsorganisaties.
 
 ## Risico

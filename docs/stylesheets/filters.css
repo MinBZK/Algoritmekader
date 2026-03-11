@@ -40,7 +40,6 @@
   outline: none;
   font-size: 16px;
   font-family: "ROsanswebtextregular", sans-serif;
-  width: 100%;
   min-width: 250px;
   width: 260px;
   min-height: 48px;
@@ -148,9 +147,6 @@
   content: none !important;
 }
 
-.mdx-badge{
-  text-decoration: none;
-}
 
 /* Fix excessive right padding in dropdown items */
 @media (min-width: 640px) {

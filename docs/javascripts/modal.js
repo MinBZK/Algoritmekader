@@ -41,7 +41,8 @@ function updateFieldsBasedOnType(selectedTypeElement) {
 }
 
 function closeModal() {
-  document.getElementById('modal').classList.add("display-none")
+  disableFocusTrap();
+  document.getElementById('modal').classList.add("display-none");
 }
 
 function onDynamicContentLoaded(targetDiv, callback) {
@@ -750,17 +751,3 @@ function disableFocusTrap() {
   }
 }
 
-// Update closeModal function to disable focus trap
-const originalCloseModal = window.closeModal;
-window.closeModal = function() {
-  disableFocusTrap();
-  if (originalCloseModal) {
-    originalCloseModal();
-  } else {
-    // Fallback close functionality
-    const modal = document.getElementById('modal');
-    if (modal) {
-      modal.classList.add('display-none');
-    }
-  }
-};

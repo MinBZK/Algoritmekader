@@ -5,7 +5,7 @@
   position: absolute;
   top: -40px;
   left: 6px;
-  background-color: #154273;
+  background-color: var(--dark-blue);
   color: white;
   padding: 8px;
   text-decoration: none;
@@ -32,7 +32,7 @@
 }
 
 #main-content:focus {
-  outline: 2px solid #154273;
+  outline: 2px solid var(--dark-blue);
   outline-offset: 2px;
 }
 
@@ -43,7 +43,7 @@
 }
 
 .md-header__button.md-logo:focus {
-  outline: 3px solid #154273 !important;
+  outline: 3px solid var(--dark-blue) !important;
   outline-offset: 2px !important;
   background-color: rgba(21, 66, 115, 0.1) !important;
 }
@@ -53,8 +53,8 @@ button, .md-button {
   border: 1px solid transparent;
 }
 
-button:focus, .md-button:focus {
-  outline: 2px solid #154273 !important;
+button:focus, .md-button:focus, .md-header__button:focus {
+  outline: 2px solid var(--dark-blue) !important;
   outline-offset: 2px !important;
   background-color: rgba(21, 66, 115, 0.1) !important;
 }
@@ -94,6 +94,7 @@ body {
   display: flex;
   position: static;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  width: 100%;
 }
 
 .md-tabs__list {
@@ -125,6 +126,10 @@ body {
   padding-left: 1.2rem;
   padding-right: 1.2rem;
   max-width: var(--md-main-max-width, 61rem);
+  display: flex;
+  align-items: center;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .md-tabs__item--active {
@@ -153,7 +158,7 @@ body {
 }
 
 h1{
-  color: #154273 !important;
+  color: var(--dark-blue) !important;
   font-weight: 900 !important;
 }
 
@@ -182,38 +187,21 @@ h1{
   display: none;
 }
 
-/* Ensure hover and focus effects are applied to the link itself */
-.md-tabs__list .md-tabs__item .md-tabs__link:hover,
-.md-tabs__list .md-tabs__item .md-tabs__link:focus {
-  color: #154273 !important; /* Same color as active */
-  background-color: #b2d7ee !important;
-}
-
-/* Apply color and background on both link and item on hover and focus */
+/* Tab hover and focus effects */
 .md-tabs__item:hover,
-.md-tabs__item:hover .md-tabs__link,
-.md-tabs__link:hover,
 .md-tabs__item:focus-within,
-.md-tabs__item:focus-within .md-tabs__link {
-  color: var(--dark-blue) !important; /* Set text color to blue */
-  background-color: var(--light-blue) !important; /* Set background color to light blue */
-}
-
 .md-tabs__item:hover .md-tabs__link,
-.md-tabs__item:focus-within .md-tabs__link {
-  color: #154273 !important; /* Zorgt ervoor dat de link blauw blijft als je over het tab-item zweeft */
-}
-
-.md-tabs__item:hover,
-.md-tabs__item:focus-within {
-  background-color: #b2d7ee !important;
-  color: #154273 !important;
+.md-tabs__item:focus-within .md-tabs__link,
+.md-tabs__link:hover,
+.md-tabs__link:focus {
+  color: var(--dark-blue) !important;
+  background-color: var(--light-blue) !important;
 }
 
 /* Active tab styling - only for actually active pages, not focus */
 .md-tabs .md-tabs__list .md-tabs__item--active .md-tabs__link {
-  color: #154273 !important; /* Active color */
-  background-color: #b2d7ee !important; /* Active background */
+  color: var(--dark-blue) !important;
+  background-color: var(--light-blue) !important;
 }
 
 /* Enhanced focus states for accessibility */
@@ -226,28 +214,22 @@ h1{
 
 /* Focus states for search */
 .md-search__input:focus {
-  outline: 2px solid #154273 !important;
+  outline: 2px solid var(--dark-blue) !important;
   outline-offset: 2px !important;
-  border-color: #154273 !important;
+  border-color: var(--dark-blue) !important;
 }
 
 /* Focus states for navigation links */
 .md-nav__link:focus {
-  outline: 2px solid #154273 !important;
+  outline: 2px solid var(--dark-blue) !important;
   outline-offset: 2px !important;
   background-color: rgba(21, 66, 115, 0.1) !important;
 }
 
 
-/* Focus states for buttons */
-button:focus, .md-header__button:focus {
-  outline: 2px solid #154273 !important;
-  outline-offset: 2px !important;
-}
-
 /* Focus states for links in content */
 .md-content a:focus {
-  outline: 2px solid #154273 !important;
+  outline: 2px solid var(--dark-blue) !important;
   outline-offset: 2px !important;
   background-color: rgba(21, 66, 115, 0.1) !important;
 }
@@ -257,7 +239,7 @@ abbr[data-tooltip]:focus,
 abbr[title]:focus,
 [title]:focus,
 .md-typeset abbr:focus {
-  outline: 2px solid #154273 !important;
+  outline: 2px solid var(--dark-blue) !important;
   outline-offset: 2px !important;
   background-color: rgba(21, 66, 115, 0.15) !important;
   position: relative;
@@ -269,7 +251,7 @@ abbr[data-tooltip],
 abbr[title],
 [title]:not(img):not(.md-header__button):not(.md-nav__button):not(.md-search__button) {
   cursor: help;
-  border-bottom: 1px dotted #154273;
+  border-bottom: 1px dotted var(--dark-blue);
   text-decoration: none;
   position: relative;
 }
@@ -282,9 +264,9 @@ abbr[title]:focus,
 [title]:not(img):not(.md-header__button):not(.md-nav__button):not(.md-search__button):hover,
 [title]:not(img):not(.md-header__button):not(.md-nav__button):not(.md-search__button):focus {
   background-color: rgba(21, 66, 115, 0.15) !important;
-  border-bottom: 2px solid #154273 !important;
+  border-bottom: 2px solid var(--dark-blue) !important;
   border-radius: 2px;
-  color: #154273 !important;
+  color: var(--dark-blue) !important;
 }
 
 /* Stronger focus indicators for keyboard users */
@@ -292,14 +274,14 @@ abbr[title]:focus,
 [title][tabindex]:focus,
 abbr[title][tabindex="0"]:focus,
 abbr[title][tabindex]:focus {
-  outline: 3px solid #154273 !important;
+  outline: 3px solid var(--dark-blue) !important;
   outline-offset: 1px !important;
   background-color: rgba(21, 66, 115, 0.2) !important;
 }
 
 /* Specific styling for MkDocs abbreviations from begrippenlijst */
 .md-typeset abbr[data-tooltip] {
-  border-bottom: 1px dotted #154273 !important;
+  border-bottom: 1px dotted var(--dark-blue) !important;
   text-decoration: none !important;
   cursor: help !important;
   position: relative;
@@ -308,16 +290,16 @@ abbr[title][tabindex]:focus {
 .md-typeset abbr[data-tooltip]:hover,
 .md-typeset abbr[data-tooltip]:focus {
   background-color: rgba(21, 66, 115, 0.15) !important;
-  border-bottom: 2px solid #154273 !important;
+  border-bottom: 2px solid var(--dark-blue) !important;
   border-radius: 2px;
-  color: #154273 !important;
-  outline: 2px solid #154273 !important;
+  color: var(--dark-blue) !important;
+  outline: 2px solid var(--dark-blue) !important;
   outline-offset: 2px !important;
 }
 
 /* Also target general elements with title attribute in md-typeset */
 .md-typeset [title]:not(img):not(button):not(.md-header__button):not(.md-nav__button) {
-  border-bottom: 1px dotted #154273;
+  border-bottom: 1px dotted var(--dark-blue);
   cursor: help;
   position: relative;
 }
@@ -325,10 +307,10 @@ abbr[title][tabindex]:focus {
 .md-typeset [title]:not(img):not(button):not(.md-header__button):not(.md-nav__button):hover,
 .md-typeset [title]:not(img):not(button):not(.md-header__button):not(.md-nav__button):focus {
   background-color: rgba(21, 66, 115, 0.15) !important;
-  border-bottom: 2px solid #154273 !important;
+  border-bottom: 2px solid var(--dark-blue) !important;
   border-radius: 2px;
-  color: #154273 !important;
-  outline: 2px solid #154273 !important;
+  color: var(--dark-blue) !important;
+  outline: 2px solid var(--dark-blue) !important;
   outline-offset: 2px !important;
 }
 
@@ -337,7 +319,7 @@ a[href*="github.com"]:focus,
 a[href*="GitHub"]:focus,
 a[target="_blank"]:focus,
 .is-external-link-icon:focus {
-  outline: 2px solid #154273 !important;
+  outline: 2px solid var(--dark-blue) !important;
   outline-offset: 2px !important;
   background-color: rgba(21, 66, 115, 0.1) !important;
   border-radius: 2px;
@@ -345,7 +327,7 @@ a[target="_blank"]:focus,
 
 /* Fix filter tag styling for better visibility */
 .choices__list--multiple .choices__item {
-  background-color: #154273 !important;
+  background-color: var(--dark-blue) !important;
   border: 1px solid #123456 !important;
   color: white !important;
   font-weight: 500 !important;
@@ -368,13 +350,13 @@ a[target="_blank"]:focus,
 
 .choices__input {
   background-color: transparent !important;
-  color: #154273 !important;
+  color: var(--dark-blue) !important;
 }
 
 .md-search__input{
   background: #fff !important;
-  color: #154273 !important;
-  border: #154273 solid 1px !important;
+  color: var(--dark-blue) !important;
+  border: var(--dark-blue) solid 1px !important;
   border-radius: 5px !important;
   font-size: 1rem !important;
   padding: 8px 12px 8px 40px !important; /* Left padding for icon space */
@@ -384,18 +366,18 @@ a[target="_blank"]:focus,
 }
 
 .md-search__form{
-  color: #154273;
+  color: var(--dark-blue);
 }
 
 .md-search__input::placeholder {
-  color: #333333; /* Set your desired color */
+  color: var(--dark-gray); /* Set your desired color */
   opacity: 1; /* Ensures the color appears as expected */
   font-size: 1rem !important; /* Larger placeholder text */
   font-family: "ROsanswebtextregular" !important;
 }
 
 .md-search__input+.md-search__icon{
-  color: #333333;
+  color: var(--dark-gray);
   width: 18px !important;
   height: 18px !important;
   position: absolute !important;
@@ -405,7 +387,7 @@ a[target="_blank"]:focus,
 }
 
 .md-search__suggest{
-  color: #154273;
+  color: var(--dark-blue);
 }
 
 .md-search__overlay{
@@ -428,47 +410,47 @@ a[target="_blank"]:focus,
 .md-search-result__title,
 .md-search-result h1,
 .md-search-result h2 {
-  font-size: 1rem !important;
-  font-weight: 600 !important;
-  color: #154273 !important;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--dark-blue);
   text-decoration: none;
-  line-height: 1.4 !important;
-  margin: 4px 0 4px 0 !important;
-  padding: 0 !important;
+  line-height: 1.4;
+  margin: 4px 0 4px 0;
+  padding: 0;
   display: block;
-  background: none !important;
-  border: none !important;
-  pointer-events: auto !important;
-  cursor: pointer !important;
+  background: none;
+  border: none;
+  pointer-events: auto;
+  cursor: pointer;
 }
 
 .md-search-result__title:hover,
 .md-search-result h1:hover,
 .md-search-result h2:hover {
-  color: #0066a3 !important;
+  color: #0066a3;
 }
 
 .md-search-result__article {
   font-size: 0.984375rem;
-  color: #154273;
+  color: var(--dark-blue);
   margin-bottom: 4px;
-  text-decoration: none !important;
-  pointer-events: none !important;
-  cursor: default !important;
+  text-decoration: none;
+  pointer-events: none;
+  cursor: default;
 }
 
 .md-search-result__text {
   font-size: 0.984375rem;
-  color: #154273;
+  color: var(--dark-blue);
   line-height: 1.4;
 }
 
 .md-search-result__meta {
   background-color: var(--md-default-fg-color--lightest);
-  color: #154273 !important;
-  font-size: 0.984375rem !important;
-  line-height: 1.4 !important;
-  padding: 16px 12px 8px 12px !important;
+  color: var(--dark-blue);
+  font-size: 0.984375rem;
+  line-height: 1.4;
+  padding: 16px 12px 8px 12px;
   scroll-snap-align: start;
 }
 
@@ -477,53 +459,41 @@ a[target="_blank"]:focus,
 .md-search-result a,
 .md-search-result__text a,
 .md-search-result__article a {
-  font-size: 0.984375rem !important;
-  line-height: 1.4 !important;
-  margin: 0 !important;
-  color: #154273 !important;
-  text-decoration: none !important;
-  pointer-events: none !important;
-  cursor: default !important;
+  font-size: 0.984375rem;
+  line-height: 1.4;
+  margin: 0;
+  color: var(--dark-blue);
+  text-decoration: none;
+  pointer-events: none;
+  cursor: default;
 }
 
 .md-search-result__more,
 .md-search-result__more div,
 .md-search-result__more summary {
-  font-size: 0.984375rem !important;
-  line-height: 1.4 !important;
-  color: #154273 !important;
-  pointer-events: none !important;
-  cursor: default !important;
+  font-size: 0.984375rem;
+  line-height: 1.4;
+  color: var(--dark-blue);
+  pointer-events: none;
+  cursor: default;
 }
 
 .md-search-result__more details {
-  pointer-events: none !important;
+  pointer-events: none;
 }
 
 .md-header__source{
-  color: #154273;
+  color: var(--dark-blue);
 }
 
 /* Search always uses mobile-style positioning */
 
-/* Align navigation tabs container with main content layout */
-.md-tabs {
-  width: 100%;
-}
-
-.md-tabs .md-grid {
-  display: flex;
-  align-items: center;
-  width: 100%;
-  box-sizing: border-box;
-}
-
 .md-typeset a {
-  color: #154273;
+  color: var(--dark-blue);
 }
 
 .md-ellipsis{
-  color: #154273;
+  color: var(--dark-blue);
 }
 
 :root {
@@ -594,13 +564,8 @@ abbr[data-tooltip]:focus::before {
   pointer-events: none;
 }
 
-/* Hide the native tooltip by removing title on hover and restoring on mouse leave */
-abbr[data-tooltip]:hover {
-  /* Custom tooltip replaces native one */
-}
-
 .md-nav__title{
-  color: #154273;
+  color: var(--dark-blue);
 }
 
 .md-nav--primary .md-nav__title[for=__drawer] {
@@ -616,19 +581,19 @@ abbr[data-tooltip]:hover {
 }
 
 .md-source__repository .md-source__repository--active{
-  color: #154273;
+  color: var(--dark-blue);
 }
 
 @media screen and (max-width: 800px) {
   .md-nav--primary .md-nav__item--active>.md-nav__link {
-      color: #154273;
+      color: var(--dark-blue);
   }
 }
 
 @media screen and (max-width: 800px) {
   .md-nav--primary .md-nav__title {
       background-color: #fff;
-      color: #154273;
+      color: var(--dark-blue);
       cursor: pointer;
       height: 5.6rem;
       line-height: 2.4rem;
@@ -692,25 +657,11 @@ abbr[data-tooltip]:hover {
   }
 }
 
-/* NUCLEAR CSS - Hide hamburger menu above 800px with maximum specificity */
+/* Hide default hamburger menu above 800px */
 @media screen and (min-width: 801px) {
-  html body .md-container .md-header .md-header__inner .md-header__button[for="__drawer"],
-  html body .md-container .md-header .md-header__inner .md-header__button.md-icon--menu,
-  html body .md-container .md-header .md-header__inner .md-nav__button,
-  html body .md-container .md-header .md-header__inner button[for="__drawer"],
-  html body .md-container .md-header button,
-  html body .md-header button[type="button"] {
+  label[for="__drawer"]:not(.mobile-menu-button),
+  .md-header__button[for="__drawer"] {
     display: none !important;
-    visibility: hidden !important;
-    opacity: 0 !important;
-    pointer-events: none !important;
-    position: absolute !important;
-    left: -9999px !important;
-    top: -9999px !important;
-    width: 0 !important;
-    height: 0 !important;
-    overflow: hidden !important;
-    clip: rect(0,0,0,0) !important;
   }
 }
 

@@ -1,10 +1,14 @@
 from typing import List, Dict, Callable, Optional
+import json
+import logging
 import posixpath
 import re
 import os
 from mkdocs.config.defaults import MkDocsConfig
 from mkdocs.structure.files import File, Files
 from re import Match
+
+log = logging.getLogger("mkdocs.hooks.lists")
 
 # Cache for abbreviations to avoid reading file multiple times
 _abbreviations_cache = None
@@ -42,7 +46,7 @@ def _load_abbreviations(config: MkDocsConfig) -> Dict[str, str]:
                 _abbreviations_cache = abbreviations
                 return abbreviations
             except Exception as e:
-                print(f"Error loading abbreviations: {e}")
+                log.error("Error loading abbreviations: %s", e, exc_info=True)
                 break
 
     _abbreviations_cache = {}
@@ -421,7 +425,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
 
     def generate_filters(
         content_type: str,
-        list: List[File],
+        item_list: List[File],
         filter_options: Dict[str, bool],
         current_file: File,
         column_config: Optional[List[ColumnConfig]] = None,
@@ -442,7 +446,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 filter_options.get(column.key, column.default_enabled)
                 and column.render_filter
             ):
-                filter_html = column.render_filter(list, filter_options)
+                filter_html = column.render_filter(item_list, filter_options)
                 if filter_html:  # Only add if filter produces output
                     column_filters_html.extend(filter_html)
 
@@ -455,9 +459,9 @@ def on_env(env, config: MkDocsConfig, files: Files):
 
         # Only add wrapper div if there are actually filters to show
         if has_any_filters:
-            wrapper_class = "filter-wrapper"
+            wrapper_class = "filter-wrapper filter-container"
             filters.append(
-            f'<div class="{wrapper_class}" style="background-color: #e6f3fb; padding: 16px; border-radius: 8px; margin-bottom: 16px;">'
+            f'<div class="{wrapper_class}">'
             )
 
             filters.append('<form autocomplete="off" onsubmit="return false;">')
@@ -503,23 +507,23 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 filters.extend(
                     [
                         '<div id="export-excel">',
-                        '<div style="display: flex; align-items: center; gap: 20px;">',
+                        '<div class="filter-actions">',
                         "<div>",
-                        f'Er zijn <strong><span id="total-count">{len(list)}</span></strong> resultaten gevonden',
+                        f'Er zijn <strong><span id="total-count">{len(item_list)}</span></strong> resultaten gevonden',
                         "</div>",
                         "<div>",
-                        '<div class="export-dropdown-container" style="position: relative; display: inline-block;">',
-                        '<button id="export-btn" onclick="toggleExportDropdown()" onkeydown="handleExportKeydown(event)" class="button md-button--secondary" aria-haspopup="true" aria-expanded="false" aria-label="Exporteer '
+                        '<div class="export-dropdown-container">',
+                        '<button id="export-btn" data-action="toggle-export-dropdown" class="button md-button--secondary" aria-haspopup="true" aria-expanded="false" aria-label="Exporteer '
                         + content_type
                         + ' - dropdown menu">',
-                        '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="width: 24px; height: 24px; vertical-align: middle; fill: #154271"><path d="M5,20h14a1,1 0 0,0 1-1v-2h-2v2H6v-2H4v2A1,1 0 0,0 5,20M19,9h-4V3H9v6H5l7,7l7-7z"/></svg> Exporteer <span id="content_type">'
+                        '<i class="fa-solid fa-download"></i> Exporteer <span id="content_type">'
                         + content_type
-                        + "</span>",
-                        '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="width: 24px; height: 24px; vertical-align: middle; fill: #154271"><path d="M7 10l5 5 5-5" stroke="#154271" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>'
+                        + "</span> ",
+                        '<i class="fa-solid fa-chevron-down"></i>'
                         "</button>",
-                        '<div id="export-dropdown" class="export-dropdown" style="display: none; position: absolute; background: white; border: 1px solid #ccc; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); width: 100%; z-index: 10000; font-family: ROsanswebtextregular, Arial, sans-serif; top: calc(100% - 1px); left: 0;">',
-                        '<button onclick="exportExcel()" onkeydown="handleDropdownKeydown(event, \'excel\')" tabindex="-1" role="menuitem" style="padding: 12px 16px; cursor: pointer; border-bottom: 1px solid #eee; color: #154273; font-size: 14px; font-family: ROsanswebtextregular, Arial, sans-serif; background: none; border: none; width: 100%; text-align: left;" onmouseover="this.style.backgroundColor=\'#f5f5f5\'" onmouseout="this.style.backgroundColor=\'white\'">Excel (XLSX)</button>',
-                        '<button onclick="exportODS()" onkeydown="handleDropdownKeydown(event, \'ods\')" tabindex="-1" role="menuitem" style="padding: 12px 16px; cursor: pointer; color: #154273; font-size: 14px; font-family: ROsanswebtextregular, Arial, sans-serif; background: none; border: none; width: 100%; text-align: left;" onmouseover="this.style.backgroundColor=\'#f5f5f5\'" onmouseout="this.style.backgroundColor=\'white\'">OpenDocument Spreadsheet (ODS)</button>',
+                        '<div id="export-dropdown" class="export-dropdown">',
+                        '<button data-action="export-excel" data-export-type="excel" tabindex="-1" role="menuitem" class="export-dropdown-item">Excel (XLSX)</button>',
+                        '<button data-action="export-ods" data-export-type="ods" tabindex="-1" role="menuitem" class="export-dropdown-item">OpenDocument Spreadsheet (ODS)</button>',
                         "</div>",
                         "</div>",
                         "</div>",
@@ -566,7 +570,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 if filter_name in filter_options:
                     filter_options[filter_name] = True
 
-        list: List[File] = []
+        item_list: List[File] = []
         for file in files:
             if not file.src_path.startswith(
                 f"voldoen-aan-wetten-en-regels/{content_type}/"
@@ -578,10 +582,10 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 continue
 
             if not type_value_bundle or all(
-                value in file.page.meta.get(type, [])
-                for type, value in type_value_bundle
+                value in file.page.meta.get(filter_type, [])
+                for filter_type, value in type_value_bundle
             ):
-                list.append(file)
+                item_list.append(file)
 
         # Only enable ai-act-labels if we're on the main vereisten page AND this is a vereisten list
         if (
@@ -593,7 +597,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
             filter_options["ai-act-labels"] = False
 
         filters = generate_filters(
-            content_type, list, filter_options, current_file, column_config
+            content_type, item_list, filter_options, current_file, column_config
         )
 
         # Generate table headers dynamically based on column configuration
@@ -619,8 +623,6 @@ def on_env(env, config: MkDocsConfig, files: Files):
             for idx, col in enumerate(enabled_columns)
         }
 
-        import json
-
         column_mapping_json = json.dumps(column_mapping)
 
         result = "".join(
@@ -638,7 +640,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
                     _create_table_row_2(
                         item, filter_options, current_file, config, column_config
                     )
-                    for item in list
+                    for item in item_list
                 ],
                 "</tbody>",
                 "</table>",
@@ -648,112 +650,65 @@ def on_env(env, config: MkDocsConfig, files: Files):
 
         return result
 
-    # NEW FUNCTION: To generate the Vereisten for a specific maatregel
-    def generate_vereisten_for_maatregel(file: File) -> str:
-        vereisten = file.page.meta.get("vereiste", [])
-        if not vereisten:
-            return "<p>Geen vereisten beschikbaar voor deze maatregel.</p>"
+    def generate_related_items_table(file: File, meta_key: str, headers: List[str], content_type: str) -> str:
+        """Generic function to generate a related items table (vereisten or maatregelen)."""
+        items = file.page.meta.get(meta_key, [])
+        if not items:
+            return f"<p>Geen {headers[1].lower()} beschikbaar.</p>"
 
-        vereisten_table = [
+        table_rows = [
             "<table>",
             "<thead>",
             "<tr>",
-            "<th>ID</th>",
-            "<th>Vereiste</th>",
+            f"<th>{headers[0]}</th>",
+            f"<th>{headers[1]}</th>",
             "</tr>",
             "</thead>",
             "<tbody>",
         ]
 
-        for vereiste in vereisten:
-            vereiste_file = find_file_by_name(vereiste, "vereisten", files)
-            if vereiste_file:
-                # Retrieve the title from the vereiste file's metadata
-                vereiste_id = vereiste_file.page.meta.get("id", "")[
-                    14:
-                ]  # remove the first part of the urn
-                vereiste_title = vereiste_file.page.meta.get(
-                    "title", vereiste
-                )  # Fallback to vereiste name if no title
-                vereiste_link = posixpath.join(
-                    config.site_url or "/", vereiste_file.url
-                )
-                vereisten_table.append(
-                    f'<tr><td><a href="{vereiste_link}">{vereiste_id}</a></td><td><a href="{vereiste_link}">{vereiste_title}</a></td></tr>'
+        for item_name in items:
+            matched_file = find_file_by_name(item_name, content_type, files)
+            if matched_file:
+                item_id = matched_file.page.meta.get("id", "")[14:]  # remove the first part of the urn
+                item_title = matched_file.page.meta.get("title", item_name)  # Fallback to name if no title
+                item_link = posixpath.join(config.site_url or "/", matched_file.url)
+                table_rows.append(
+                    f'<tr><td><a href="{item_link}">{item_id}</a></td><td><a href="{item_link}">{item_title}</a></td></tr>'
                 )
             else:
-                vereisten_table.append(
-                    f"<tr><td>{vereiste}</td></tr>"
+                table_rows.append(
+                    f"<tr><td>{item_name}</td></tr>"
                 )  # No link if the file is not found
 
-        vereisten_table.append("</tbody></table>")
+        table_rows.append("</tbody></table>")
 
-        return "".join(vereisten_table)
+        return "".join(table_rows)
 
-    # NEW FUNCTION: To generate the Maatregelen for a specific Hulpmiddel
-    def generate_maatregelen_for_hulpmiddel(file: File) -> str:
-        maatregelen = file.page.meta.get("maatregel", [])
-        if not maatregelen:
-            return "<p>Geen maatregelen beschikbaar voor dit hulpmiddel.</p>"
-
-        maatregelen_table = [
-            "<table>",
-            "<thead>",
-            "<tr>",
-            "<th>ID</th>",
-            "<th>Maatregel</th>",
-            "</tr>",
-            "</thead>",
-            "<tbody>",
-        ]
-        for maatregel in maatregelen:
-            maatregel_file = find_file_by_name(maatregel, "maatregelen", files)
-            if maatregel_file:
-                # Retrieve the title from the maatregel file's metadata
-                maatregel_id = maatregel_file.page.meta.get("id", "")[
-                    14:
-                ]  # remove the first part of the urn
-                maatregel_title = maatregel_file.page.meta.get(
-                    "title", maatregel
-                )  # Fallback to maatregel name if no title
-                maatregel_link = posixpath.join(
-                    config.site_url or "/", maatregel_file.url
-                )
-                maatregelen_table.append(
-                    f'<tr><td><a href="{maatregel_link}">{maatregel_id}</a></td><td><a href="{maatregel_link}">{maatregel_title}</a></td></tr>'
-                )
-            else:
-                maatregelen_table.append(
-                    f"<tr><td>{maatregel}</td></tr>"
-                )  # No link if the file is not found
-
-        maatregelen_table.append("</tbody></table>")
-
-        return "".join(maatregelen_table)
+    # Build a file index for fast lookups by (content_type, basename)
+    _file_index: Dict[tuple, File] = {}
+    for f in files:
+        if f.src_path.startswith("voldoen-aan-wetten-en-regels/"):
+            parts = f.src_path.split("/")
+            if len(parts) >= 3:
+                idx_content_type = parts[1]
+                basename = posixpath.splitext(posixpath.basename(f.src_path))[0]
+                _file_index[(idx_content_type, basename)] = f
 
     def find_file_by_name(name: str, content_type: str, files: Files) -> File:
-        for file in files:
-            file_name = posixpath.splitext(posixpath.basename(file.src_path))[0]
-            if (
-                file.src_path.startswith(
-                    f"voldoen-aan-wetten-en-regels/{content_type}/"
-                )
-                and file_name == name
-            ):
-                return file
-        return None
+        return _file_index.get((content_type, name))
 
     def replace_vereisten_content(file: File):
         file.page.content = re.sub(
             r"<!-- list_vereisten_on_maatregelen_page -->",
-            lambda match: generate_vereisten_for_maatregel(file),
+            lambda match: generate_related_items_table(file, "vereiste", ["ID", "Vereiste"], "vereisten"),
             file.page.content,
         )
 
     def replace_maatregelen_content(file: File):
         file.page.content = re.sub(
             r"<!-- list_maatregelen_on_hulpmiddelen_page -->",
-            lambda match: generate_maatregelen_for_hulpmiddel(file),
+            lambda match: generate_related_items_table(file, "maatregel", ["ID", "Maatregel"], "maatregelen"),
             file.page.content,
         )
 
@@ -768,7 +723,7 @@ def on_env(env, config: MkDocsConfig, files: Files):
             else:
                 continue
 
-        print("Processing file", file.src_path)
+        log.debug("Processing file %s", file.src_path)
 
         try:
             if "maatregelen" in file.src_path or "hulpmiddelen" in file.src_path:
@@ -799,4 +754,4 @@ def on_env(env, config: MkDocsConfig, files: Files):
                 flags=re.I | re.M,
             )
         except Exception as e:
-            print(e)
+            log.error("Error processing file %s: %s", file.src_path, e, exc_info=True)

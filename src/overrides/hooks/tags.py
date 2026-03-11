@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import logging
 import posixpath
 import re
 
@@ -7,6 +8,61 @@ from mkdocs.config.defaults import MkDocsConfig
 from mkdocs.structure.files import File, Files
 from mkdocs.structure.pages import Page
 from re import Match
+
+log = logging.getLogger("mkdocs.hooks.tags")
+
+# -----------------------------------------------------------------------------
+# Badge configuration
+# -----------------------------------------------------------------------------
+
+# For simple badge types that follow the pattern:
+#   icon_path = "{category}/index.md"
+#   text_path = "{category}/{value}.md"
+#   text = value.capitalize().replace('-', ' ')
+BADGE_CONFIG = {
+    "levenscyclus": {
+        "icon": "material-reload",
+        "color": "indigo",
+        "icon_path": "levenscyclus/index.md",
+        "text_path": "levenscyclus/{value}.md",
+        "title": "Levencyclus",
+    },
+    "rollen": {
+        "icon": "material-account",
+        "color": "deep-orange",
+        "icon_path": "rollen/index.md",
+        "text_path": "rollen/{value}.md",
+        "title": "Rollen",
+    },
+    "onderwerp": {
+        "icon": "material-lightbulb",
+        "color": "teal",
+        "icon_path": "onderwerpen/index.md",
+        "text_path": "onderwerpen/{value}.md",
+        "title": "Onderwerp",
+    },
+    "transparantieverplichting": {
+        "icon": "material-magnify",
+        "color": "blue",
+        "icon_path": "soorten-algoritmes-en-ai/risico-van-ai-systemen.md#risico-op-misleiding",
+        "text_path": "soorten-algoritmes-en-ai/risico-van-ai-systemen.md#risico-op-misleiding",
+        "title": "Transparantieverplichting AI-verordening",
+    },
+    "systeemrisico": {
+        "icon": "material-network",
+        "color": "blue",
+        "icon_path": "ai-verordening/ai-verordening-in-het-kort.md#ai-model-voor-algemene-doeleinden",
+        "text_path": "ai-verordening/ai-verordening-in-het-kort.md#ai-model-voor-algemene-doeleinden",
+        "title": "Systeemrisico AI-verordening",
+    },
+}
+
+# Special text path mappings for soort-toepassing
+_SOORT_TOEPASSING_PATHS = {
+    "ai-systeem": "ai-verordening/ai-verordening-in-het-kort.md#ai-systeem",
+    "ai-systeem-voor-algemene-doeleinden": "ai-verordening/ai-verordening-in-het-kort.md#ai-model-voor-algemene-doeleinden",
+    "ai-model-voor-algemene-doeleinden": "ai-verordening/ai-verordening-in-het-kort.md#ai-model-voor-algemene-doeleinden",
+}
 
 # -----------------------------------------------------------------------------
 # Hooks
@@ -18,34 +74,34 @@ def on_page_markdown(markdown: str, *, page: Page, config: MkDocsConfig, files: 
     # Replace callback
     def replace(_: Match):
         buttons = []
-        for type in ["id", "levenscyclus", "rollen", "onderwerp"]:
-            field = page.meta.get(type, [])
+        for tag_type in ["id", "levenscyclus", "rollen", "onderwerp"]:
+            field = page.meta.get(tag_type, [])
 
             if isinstance(field, str):
-                buttons.append(flag(type, field, page, files))
+                buttons.append(flag(tag_type, field, page, files))
             else:
                 for role in field:
-                    buttons.append(flag(type, role, page, files))
+                    buttons.append(flag(tag_type, role, page, files))
 
         return "".join(buttons)
 
     # Replace callback
     def replace_ai_act(_: Match):
         buttons = []
-        for type in [
+        for tag_type in [
             "soort-toepassing",
             "risicogroep",
             "rol-ai-act",
             "systeemrisico",
             "transparantieverplichting",
         ]:
-            field = page.meta.get(type, [])
+            field = page.meta.get(tag_type, [])
             if isinstance(field, str):
                 if (
                     field != "niet-van-toepassing"
                     and field != "uitzondering-van-toepassing"
                 ):  # Skip niet-van-toepassing and skip uitzondering van toepassing
-                    buttons.append(flag(type, field, page, files))
+                    buttons.append(flag(tag_type, field, page, files))
             else:
                 for role in field:
                     # Skip niet-van-toepassing or uitzondering-van-toepassing
@@ -55,10 +111,11 @@ def on_page_markdown(markdown: str, *, page: Page, config: MkDocsConfig, files: 
                     ):
                         continue
 
-                    buttons.append(flag(type, role, page, files))
+                    buttons.append(flag(tag_type, role, page, files))
 
         # for non-aia vereisten, remove the buttons and add other toelichting
-        if not page.meta.get("id").startswith("urn:nl:ak:ver:aia-"):
+        page_id = page.meta.get("id")
+        if not page_id or not page_id.startswith("urn:nl:ak:ver:aia-"):
             toelichting = "Deze vereiste geldt waarschijnlijk voor jouw algoritmische toepassingen. Bekijk de [bronnen](#bronnen) om te controleren of dit zo is."
             buttons = toelichting
         else:  # for aia vereisten, add toelichting to the buttons
@@ -90,26 +147,42 @@ def on_page_markdown(markdown: str, *, page: Page, config: MkDocsConfig, files: 
 # -----------------------------------------------------------------------------
 
 
-# Create a flag of a specific type
-def flag(type: str, arg: str, page: Page, files: Files):
-    if type == "id":
+def _badge_generic(tag_type: str, value: str, page: Page, files: Files) -> str:
+    """Generate a badge from the BADGE_CONFIG dictionary."""
+    cfg = BADGE_CONFIG.get(tag_type)
+    if not cfg:
+        return ""
+    icon = cfg["icon"]
+    color = cfg["color"]
+    title = cfg["title"]
+    icon_path = cfg["icon_path"]
+    text_path = cfg["text_path"].format(value=value)
+
+    href_icon = _resolve_path(icon_path, page, files)
+    href_text = _resolve_path(text_path, page, files)
+    display_text = value.capitalize().replace("-", " ")
+    return _badge(
+        icon=f"[:{icon}:]({href_icon} '{title}')",
+        text=f"[{display_text}]({href_text})",
+        color=color,
+    )
+
+
+# Create a flag of a specific tag_type
+def flag(tag_type: str, arg: str, page: Page, files: Files):
+    # Handle types in BADGE_CONFIG with the generic approach
+    if tag_type in BADGE_CONFIG:
+        return _badge_generic(tag_type, arg, page, files)
+
+    # Handle special types that need custom logic
+    if tag_type == "id":
         return _badge_id(page, files, arg)
-    elif type == "levenscyclus":
-        return _badge_levenscyclus(page, files, arg)
-    elif type == "rollen":
-        return _badge_rollen(page, files, arg)
-    elif type == "onderwerp":
-        return _badge_onderwerp(page, files, arg)
-    elif type == "soort-toepassing":
+    elif tag_type == "soort-toepassing":
         return _badge_soort_toepassing(page, files, arg)
-    elif type == "risicogroep":
+    elif tag_type == "risicogroep":
         return _badge_risicogroep(page, files, arg)
-    elif type == "rol-ai-act":
+    elif tag_type == "rol-ai-act":
         return _badge_rol_ai_act(page, files, arg)
-    elif type == "transparantieverplichting":
-        return _badge_transparantieverplichting(page, files, arg)
-    elif type == "systeemrisico":
-        return _badge_systeemrisico(page, files, arg)
     return ""
 
 
@@ -128,8 +201,10 @@ def _resolve_path(path: str, page: Page, files: Files):
 def _resolve(file: File, page: Page):
     # Ensure file and page.file are valid objects
     if not file or not page.file:
-        print(
-            f"Error: Invalid file or page when resolving. file={file}, page.file={page.file}"
+        log.warning(
+            "Invalid file or page when resolving. file=%s, page.file=%s",
+            file,
+            page.file,
         )
         return ""
 
@@ -152,8 +227,8 @@ def _resolve(file: File, page: Page):
 
 
 # Create badge - keep original system but remove icon link, keep text link
-def _badge(icon: str, text: str = "", type: str = "", color: str = "blue"):
-    classes = f"mdx-badge mdx-badge--{type}" if type else "mdx-badge"
+def _badge(icon: str, text: str = "", tag_type: str = "", color: str = "blue"):
+    classes = f"mdx-badge mdx-badge--{tag_type}" if tag_type else "mdx-badge"
 
     # Extract just the icon name without the link
     icon_content = icon
@@ -184,42 +259,6 @@ def _badge_id(page: Page, files: Files, phase: str):
     )
 
 
-# Create badge for levenscyclus
-def _badge_levenscyclus(page: Page, files: Files, phase: str):
-    icon = "material-reload"
-    href_levenscyclus = _resolve_path("levenscyclus/index.md", page, files)
-    href_fase = _resolve_path(f"levenscyclus/{phase}.md", page, files)
-    return _badge(
-        icon=f"[:{icon}:]({href_levenscyclus} 'Levencyclus')",
-        text=f"[{phase.capitalize().replace('-', ' ')}]({href_fase})",
-        color="indigo",
-    )
-
-
-# Create badge for rollen
-def _badge_rollen(page: Page, files: Files, rol: str):
-    icon = "material-account"
-    href_rol = _resolve_path("rollen/index.md", page, files)
-    href_fase = _resolve_path(f"rollen/{rol}.md", page, files)
-    return _badge(
-        icon=f"[:{icon}:]({href_rol} 'Rollen')",
-        text=f"[{rol.capitalize().replace('-', ' ')}]({href_fase})",
-        color="deep-orange",
-    )
-
-
-# Create badge for onderwerp
-def _badge_onderwerp(page: Page, files: Files, blok: str):
-    icon = "material-lightbulb"
-    href_onderwerp = _resolve_path("onderwerpen/index.md", page, files)
-    href_fase = _resolve_path(f"onderwerpen/{blok}.md", page, files)
-    return _badge(
-        icon=f"[:{icon}:]({href_onderwerp} 'Onderwerp')",
-        text=f"[{blok.capitalize().replace('-', ' ')}]({href_fase})",
-        color="teal",
-    )
-
-
 # Create badge for soort-toepassing
 def _badge_soort_toepassing(page: Page, files: Files, soort: str):
     icon = "material-graph"
@@ -227,22 +266,8 @@ def _badge_soort_toepassing(page: Page, files: Files, soort: str):
         "soorten-algoritmes-en-ai/wat-is-een-algoritme.md", page, files
     )
     href_fase = href_soort_toepassing
-    if soort == "ai-systeem":
-        href_fase = _resolve_path(
-            "ai-verordening/ai-verordening-in-het-kort.md#ai-systeem", page, files
-        )
-    elif soort == "ai-systeem-voor-algemene-doeleinden":
-        href_fase = _resolve_path(
-            "ai-verordening/ai-verordening-in-het-kort.md#ai-model-voor-algemene-doeleinden",
-            page,
-            files,
-        )
-    elif soort == "ai-model-voor-algemene-doeleinden":
-        href_fase = _resolve_path(
-            "ai-verordening/ai-verordening-in-het-kort.md#ai-model-voor-algemene-doeleinden",
-            page,
-            files,
-        )
+    if soort in _SOORT_TOEPASSING_PATHS:
+        href_fase = _resolve_path(_SOORT_TOEPASSING_PATHS[soort], page, files)
 
     return _badge(
         icon=f"[:{icon}:]({href_soort_toepassing} 'Soort toepassing')",
@@ -295,35 +320,5 @@ def _badge_rol_ai_act(page: Page, files: Files, rol: str):
     return _badge(
         icon=f"[:{icon}:]({href_rol_ai_act} 'Rol AI-verordening')",
         text=f"[{rol.capitalize().replace('-', ' ')}]({href_fase})",
-        color="blue",
-    )
-
-
-# Create badge for transparantieverplichting
-def _badge_transparantieverplichting(page: Page, files: Files, rol: str):
-    icon = "material-magnify"
-    href_transparantieverplichting = _resolve_path(
-        "soorten-algoritmes-en-ai/risico-van-ai-systemen.md#risico-op-misleiding",
-        page,
-        files,
-    )
-    return _badge(
-        icon=f"[:{icon}:]({href_transparantieverplichting} 'Transparantieverplichting AI-verordening')",
-        text=f"[{rol.capitalize().replace('-', ' ')}]({href_transparantieverplichting})",
-        color="blue",
-    )
-
-
-# Create badge for systeemrisico
-def _badge_systeemrisico(page: Page, files: Files, rol: str):
-    icon = "material-network"
-    href_systeemrisico = _resolve_path(
-        "ai-verordening/ai-verordening-in-het-kort.md#ai-model-voor-algemene-doeleinden",
-        page,
-        files,
-    )
-    return _badge(
-        icon=f"[:{icon}:]({href_systeemrisico} 'Systeemrisico AI-verordening')",
-        text=f"[{rol.capitalize().replace('-', ' ')}]({href_systeemrisico})",
         color="blue",
     )

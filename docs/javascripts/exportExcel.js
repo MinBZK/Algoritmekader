@@ -97,9 +97,10 @@ function capitalize(str) {
 }
 
 
-function exportToExcel(config) {
+function exportToFormat(config, format) {
     const button = document.getElementById(config.buttonId);
     const originalButtonHTML = button ? button.innerHTML : '';
+    const formatLabel = format.toUpperCase();
 
     try {
         setButtonState(button, true, 'Exporteren...');
@@ -107,47 +108,24 @@ function exportToExcel(config) {
 
         const table = document.getElementById(config.tableId);
         const activeFilters = getCurrentFilters(config);
-        const exportData = extractTableDataForExcel(table, config, activeFilters);
-        const workbook = createWorkbook(exportData, activeFilters, config, 'xlsx');
+        const exportData = extractTableData(table, config, activeFilters);
+        const workbook = createWorkbook(exportData, activeFilters, config, format);
 
         const timestamp = new Date().toISOString().slice(0, 10);
-        const filename = `${config.filename}_${timestamp}.xlsx`;
+        const filename = `${config.filename}_${timestamp}.${format}`;
 
-        XLSX.writeFile(workbook, filename, { bookType: 'xlsx' });
+        XLSX.writeFile(workbook, filename, { bookType: format });
 
     } catch (error) {
-        console.error('Excel export error:', error);
-        alert(`Excel export mislukt: ${error.message}`);
+        console.error(`${formatLabel} export error:`, error);
+        alert(`${formatLabel} export mislukt: ${error.message}`);
     } finally {
         restoreButtonState(button, originalButtonHTML);
     }
 }
 
-function exportToODS(config) {
-    const button = document.getElementById(config.buttonId);
-    const originalButtonHTML = button ? button.innerHTML : '';
-
-    try {
-        setButtonState(button, true, 'Exporteren...');
-        validateRequirements(config);
-
-        const table = document.getElementById(config.tableId);
-        const activeFilters = getCurrentFilters(config);
-        const exportData = extractTableDataForODS(table, config, activeFilters);
-        const workbook = createWorkbook(exportData, activeFilters, config, 'ods');
-
-        const timestamp = new Date().toISOString().slice(0, 10);
-        const filename = `${config.filename}_${timestamp}.ods`;
-
-        XLSX.writeFile(workbook, filename, { bookType: 'ods' });
-
-    } catch (error) {
-        console.error('ODS export error:', error);
-        alert(`ODS export mislukt: ${error.message}`);
-    } finally {
-        restoreButtonState(button, originalButtonHTML);
-    }
-}
+function exportToExcel(config) { exportToFormat(config, 'xlsx'); }
+function exportToODS(config) { exportToFormat(config, 'ods'); }
 
 function validateRequirements(config) {
     if (typeof XLSX === 'undefined') {
@@ -160,39 +138,7 @@ function validateRequirements(config) {
     }
 }
 
-function extractTableDataForExcel(table, config, activeFilters) {
-    const rows = table.getElementsByTagName("tr");
-
-    if (rows.length === 0) {
-        throw new Error('Geen data om te exporteren');
-    }
-
-    const exportData = [];
-    const headers = extractHeaders(rows[0]);
-
-    // Add filterrow is active filters are present
-    const hasActiveFilters = activeFilters && activeFilters.length > 0;
-    if (hasActiveFilters) {
-        const filterRow = [getActiveFiltersString(activeFilters)];
-        while (filterRow.length < headers.length) filterRow.push('');
-        exportData.push(filterRow);
-    }
-
-    exportData.push(headers);
-
-    // Only export visible rows (after filtering)
-    for (let i = 1; i < rows.length; i++) {
-        const row = rows[i];
-        if (row.classList && row.classList.contains('filter-row')) continue;
-        if (row.style.display === 'none') continue;
-        const rowData = extractRowData(row, headers, config);
-        exportData.push(rowData);
-    }
-
-    return exportData;
-}
-
-function extractTableDataForODS(table, config, activeFilters) {
+function extractTableData(table, config, activeFilters) {
     const rows = table.getElementsByTagName("tr");
 
     if (rows.length === 0) {
@@ -464,6 +410,23 @@ function closeExportDropdown() {
         button.setAttribute('aria-expanded', 'false');
     }
 }
+
+// Event delegation for data-action attributes
+document.addEventListener('click', function(e) {
+    var target = e.target;
+    var action = target.getAttribute('data-action') || (target.closest && target.closest('[data-action]') ? target.closest('[data-action]').getAttribute('data-action') : null);
+    if (action === 'export-excel') exportExcel();
+    if (action === 'export-ods') exportODS();
+    if (action === 'toggle-export-dropdown') toggleExportDropdown();
+});
+
+document.addEventListener('keydown', function(e) {
+    var target = e.target;
+    var action = target.getAttribute('data-action') || (target.closest && target.closest('[data-action]') ? target.closest('[data-action]').getAttribute('data-action') : null);
+    if (action === 'toggle-export-dropdown') handleExportKeydown(e);
+    var exportType = target.getAttribute('data-export-type');
+    if (exportType) handleDropdownKeydown(e, exportType);
+});
 
 // Export functions globally
 window.toggleExportDropdown = toggleExportDropdown;

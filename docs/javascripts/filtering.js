@@ -237,23 +237,62 @@ function evaluateLabelExpression(expression, selectedLabels) {
     }
 
     try {
-        // Transformeer labels in de expressie naar hasLabel functie
-        const transformedExpression = expression.replace(/["']?([a-zA-Z0-9-_]+)["']?/g, "hasLabel('$1')");
+        // Helper: check if a label is present in selectedLabels via labelMapper
+        var hasLabel = function(label) {
+            for (var i = 0; i < selectedLabels.length; i++) {
+                var mappedLabel = labelMapper.find(selectedLabels[i]);
+                if (mappedLabel && mappedLabel.label === label) return true;
+            }
+            return false;
+        };
 
-        // Maak de functie die geëvalueerd wordt
-        const functionBody = `
-            const hasLabel = (label) => {
-                // Controleer of een van de geselecteerde labels overeenkomt via labelMapper
-                for (const selLabel of selectedLabels) {
-                    const mappedLabel = labelMapper.find(selLabel)?.label;
-                    if (mappedLabel && mappedLabel === label) return true;
-                }
-                return false;
-            };
-            return ${transformedExpression};
-        `;
+        // Tokenize the expression into parentheses, operators, and label identifiers
+        var tokens = expression.match(/\(|\)|&&|\|\||!|[a-zA-Z0-9_-]+/g) || [];
+        var pos = 0;
 
-        return new Function('selectedLabels', functionBody)(selectedLabels);
+        function peek() { return tokens[pos]; }
+        function consume() { return tokens[pos++]; }
+
+        function parseOr() {
+            var left = parseAnd();
+            while (peek() === '||') {
+                consume();
+                var right = parseAnd();
+                left = left || right;
+            }
+            return left;
+        }
+
+        function parseAnd() {
+            var left = parseNot();
+            while (peek() === '&&') {
+                consume();
+                var right = parseNot();
+                left = left && right;
+            }
+            return left;
+        }
+
+        function parseNot() {
+            if (peek() === '!') {
+                consume();
+                return !parsePrimary();
+            }
+            return parsePrimary();
+        }
+
+        function parsePrimary() {
+            if (peek() === '(') {
+                consume(); // consume '('
+                var result = parseOr();
+                consume(); // consume ')'
+                return result;
+            }
+            var label = consume();
+            return hasLabel(label);
+        }
+
+        return parseOr();
     } catch (error) {
         console.error('Error evaluating label expression (oude logica):', error, 'Expression:', expression);
         return false;

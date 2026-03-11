@@ -46,7 +46,7 @@
     transition: transform 0.2s ease; /* Animatie voor hover */
 }
 
-  .md-footer__column a:hover, td:hover {
+  .md-footer__column a:hover {
     color: #316fb3;
   }
 

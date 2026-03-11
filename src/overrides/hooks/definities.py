@@ -5,8 +5,6 @@ MkDocs hook to automatically generate the definitions page from begrippenlijst.m
 import os
 import re
 from mkdocs.config.defaults import MkDocsConfig
-from mkdocs.structure.files import Files
-from mkdocs.structure.pages import Page
 
 
 def on_pre_build(config: MkDocsConfig) -> None:
@@ -88,19 +86,3 @@ search:
 
     except Exception as e:
         print(f"Error generating definitions.md: {e}")
-
-
-def on_files(files: Files, config: MkDocsConfig) -> Files:
-    """
-    Called after files are collected but before they are processed
-    """
-    return files
-
-
-def on_page_markdown(
-    markdown: str, page: Page, config: MkDocsConfig, files: Files
-) -> str:
-    """
-    Called for each page after markdown is loaded but before it's converted to HTML
-    """
-    return markdown

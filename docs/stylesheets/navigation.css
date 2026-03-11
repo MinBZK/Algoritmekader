@@ -64,9 +64,9 @@ html {
   font-size: 16px; /* Larger root size for better browser tooltips */
 }
 
-/* Body font size adjusted to compensate for larger root size */
+/* Body font size to match Algoritmeregister */
 body {
-  font-size: 0.984375rem; /* (14px / 16px) * 1.125rem = same visual size */
+  font-size: 1.125rem;
 }
 
 :root {
@@ -89,8 +89,8 @@ body {
 .md-tabs {
   background-color: var(--primary-blue);
   color: var(--white) !important;
-  border-bottom: 6px solid var(--light-blue);
-  min-height: 44px;
+  border-bottom: 10px solid var(--light-blue);
+  min-height: 52px;
   display: flex;
   position: static;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
@@ -112,7 +112,7 @@ body {
 .md-tabs__item {
   flex-shrink: 0;
   min-width: auto;
-  height: 44px;
+  height: 52px;
   display: flex;
   align-items: center;
 }
@@ -137,10 +137,10 @@ body {
   opacity: 100%;
   padding: 0rem 0.15rem;
   margin: auto 0;
-  font-size: 0.875rem;
+  font-size: 1.125rem;
   white-space: nowrap;
-  line-height: 44px;
-  height: 44px;
+  line-height: 52px;
+  height: 52px;
   display: flex;
   box-sizing: border-box;
 }
@@ -158,7 +158,7 @@ h1{
 }
 
 .md-header__inner {
-  height: 60px;
+  height: 80px;
 }
 
 .md-header--shadow {
@@ -166,7 +166,7 @@ h1{
 }
 
 .md-header__button.md-logo img {
-  height: 55px; /* Adjust to the desired height */
+  height: 65px; /* Adjust to the desired height */
   width: auto; /* Keeps the aspect ratio */
 }
 
@@ -391,7 +391,7 @@ a[target="_blank"]:focus,
   color: #333333; /* Set your desired color */
   opacity: 1; /* Ensures the color appears as expected */
   font-size: 1rem !important; /* Larger placeholder text */
-  font-family: "ROsanswebtextregular" !important;
+  font-family: "RijksSansWeb", "ROsanswebtextregular", sans-serif !important;
 }
 
 .md-search__input+.md-search__icon{
@@ -692,12 +692,21 @@ abbr[data-tooltip]:hover {
   }
 }
 
-/* NUCLEAR CSS - Hide hamburger menu above 800px with maximum specificity */
+/* Hide default MkDocs hamburger menu - always hidden, replaced by custom mobile-menu-button */
+html body .md-container .md-header .md-header__inner .md-header__button[for="__drawer"],
+html body .md-container .md-header .md-header__inner .md-header__button.md-icon--menu,
+html body .md-container .md-header .md-header__inner .md-nav__button,
+html body .md-container .md-header .md-header__inner button[for="__drawer"],
+html body .md-header label[for="__drawer"]:not(.mobile-menu-button) {
+  display: none !important;
+  visibility: hidden !important;
+  width: 0 !important;
+  height: 0 !important;
+  overflow: hidden !important;
+}
+
+/* Also hide non-menu buttons above 800px */
 @media screen and (min-width: 801px) {
-  html body .md-container .md-header .md-header__inner .md-header__button[for="__drawer"],
-  html body .md-container .md-header .md-header__inner .md-header__button.md-icon--menu,
-  html body .md-container .md-header .md-header__inner .md-nav__button,
-  html body .md-container .md-header .md-header__inner button[for="__drawer"],
   html body .md-container .md-header button,
   html body .md-header button[type="button"] {
     display: none !important;
@@ -714,9 +723,65 @@ abbr[data-tooltip]:hover {
   }
 }
 
-/* Hide logo only at 800px and below */
+/* Hide search on mobile, keep logo visible */
 @media screen and (max-width: 800px) {
   .md-header__button.md-logo {
+    display: inline-block !important;
+  }
+
+  .md-search,
+  .md-header__button.md-icon--search,
+  .md-header__button.md-icon,
+  .md-header [data-md-component="search"] {
+    display: none !important;
+  }
+
+  .md-header {
+    border-bottom: .6em solid var(--light-blue);
+  }
+}
+
+/* Custom mobile menu button - styled like Algoritmeregister */
+/* Uses a visible label for __drawer positioned in the header */
+@media screen and (max-width: 800px) {
+  .md-header__inner {
+    position: relative;
+  }
+
+  .mobile-menu-button {
+    display: flex !important;
+    align-items: center;
+    gap: 8px;
+    background-color: var(--white);
+    color: var(--dark-blue);
+    border: 1px solid var(--dark-blue);
+    border-radius: 0.25em;
+    padding: 0.9em 1em 0.8em 1em;
+    font-family: "RijksSansWeb", "ROsanswebtextregular", sans-serif;
+    font-size: 1.125rem;
+    font-weight: 700;
+    cursor: pointer;
+    position: absolute;
+    right: 16px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .mobile-menu-button:hover,
+  .mobile-menu-button:focus {
+    background-color: var(--bg-light-blue);
+    outline: 2px solid var(--dark-blue);
+    outline-offset: 2px;
+  }
+
+  .mobile-menu-icon {
+    font-size: 1.25rem;
+    line-height: 1;
+  }
+}
+
+@media screen and (min-width: 801px) {
+  .mobile-menu-button {
     display: none !important;
   }
 }

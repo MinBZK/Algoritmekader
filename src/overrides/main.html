@@ -11,6 +11,25 @@
   {{ super() }}
 {% endblock %}
 
+{% block header %}
+  {{ super() }}
+  <script>
+    // Inject mobile menu button into the header
+    (function() {
+      var headerInner = document.querySelector('.md-header__inner');
+      if (headerInner) {
+        var btn = document.createElement('label');
+        btn.className = 'mobile-menu-button';
+        btn.setAttribute('for', '__drawer');
+        btn.setAttribute('tabindex', '0');
+        btn.setAttribute('aria-label', 'Menu openen');
+        btn.innerHTML = '<span class="mobile-menu-icon">&#9776;</span><span class="mobile-menu-text">Menu</span>';
+        headerInner.appendChild(btn);
+      }
+    })();
+  </script>
+{% endblock %}
+
 {% block main %}
   <!-- Add ID to main content for skip link target -->
   <main id="main-content" class="md-main" data-md-component="main" tabindex="-1">

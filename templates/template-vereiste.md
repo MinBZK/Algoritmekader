@@ -57,6 +57,8 @@ open-source:
 # het volgende laten staan, dit is nodig voor de styling van de website
 hide:
 - navigation
+version: "development"
+version_date: "development"
 ---
 
 <!-- Onderstaande comment met "tags" laten staan, dit is nodig voor het functioneren van de website -->

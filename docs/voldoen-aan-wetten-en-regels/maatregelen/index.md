@@ -4,6 +4,8 @@ allow_excel_export: true
 hide:
   - navigation
   - toc
+version: "e33a2081"
+version_date: "2025-08-26"
 ---
 
 # Aanbevolen maatregelen

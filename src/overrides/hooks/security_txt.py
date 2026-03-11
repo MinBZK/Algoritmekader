@@ -11,7 +11,7 @@ This hook:
 import os
 import urllib.request
 import urllib.error
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from mkdocs.config.defaults import MkDocsConfig
 
 
@@ -87,7 +87,7 @@ def _fetch_ncsc_security_txt(url: str, canonical_url: str) -> str:
 
         return "\n".join(updated_lines)
 
-    except (urllib.error.URLError, urllib.error.HTTPError, Exception) as e:
+    except Exception as e:
         print(f"  Error fetching NCSC security.txt: {e}")
         return ""
 
@@ -100,7 +100,7 @@ def _generate_fallback_security_txt(canonical_url: str) -> str:
         The fallback security.txt content.
     """
     # Set expiry to 1 year from now
-    expires_date = (datetime.utcnow() + timedelta(days=365)).strftime(
+    expires_date = (datetime.now(timezone.utc) + timedelta(days=365)).strftime(
         "%Y-%m-%dT%H:%M:%SZ"
     )
 

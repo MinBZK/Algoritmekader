@@ -42,30 +42,6 @@
         initialize();
     });
 
-    // Function to initialize Choices.js for multi-select filters
-    function initializeChoices() {
-        const elements = document.querySelectorAll('.js-example-basic-multiple');
-
-        elements.forEach(function(element) {
-            // Check if Choices.js is already initialized
-            if (!element.choicesInstance) {
-                const choices = new Choices(element, {
-                    removeItemButton: true,
-                    placeholder: true,
-                    searchEnabled: true,
-                    noResultsText: 'Geen resultaten',
-                    noChoicesText: 'Geen keuzes beschikbaar',
-                    itemSelectText: 'Klik om te selecteren',
-                    resetScrollPosition: false
-                });
-
-                // Store the Choices.js instance to avoid re-initialization
-                element.choicesInstance = choices;
-            }
-        });
-    }
-
-
     // Function to initialize accessible abbreviations and tooltips
     function initializeAccessibleAbbreviations() {
         // Handle abbreviations with custom tooltips

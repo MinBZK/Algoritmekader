@@ -121,27 +121,27 @@ td {
   table, thead, tbody, th, td, tr {
     display: block !important;
   }
-  
+
   thead tr {
     position: absolute !important;
     top: -9999px !important;
     left: -9999px !important;
   }
-  
+
   tr {
     border: 1px solid #B9C7D5 !important;
     margin-bottom: 10px !important;
     padding: 10px !important;
     border-radius: 4px;
   }
-  
+
   td {
     border: none !important;
     position: relative !important;
     padding-left: 50% !important;
     min-width: auto !important;
   }
-  
+
   td:before {
     content: attr(data-label) ": " !important;
     position: absolute !important;
@@ -762,7 +762,7 @@ font-size: 0.875rem !important;
   .responsive-grid-2 {
     grid-template-columns: 1fr !important;
   }
-  
+
   .responsive-grid-3 {
     grid-template-columns: 1fr !important;
   }
@@ -776,20 +776,20 @@ font-size: 0.875rem !important;
 
 /* WCAG AA: Make images scalable for 320px viewport */
 @media (max-width: 320px) {
-  img, 
+  img,
   .block-image,
   .md-header__button.md-logo img {
     max-width: 100% !important;
     height: auto !important;
     width: auto !important;
   }
-  
+
   /* Ensure grid cards stack properly on very small screens */
   .grid.cards {
     grid-template-columns: 1fr !important;
     gap: 8px !important;
   }
-  
+
   /* Reduce padding for very small screens */
   .float-child,
   .float-child-white {

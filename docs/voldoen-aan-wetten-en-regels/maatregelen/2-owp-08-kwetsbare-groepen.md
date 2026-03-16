@@ -18,6 +18,8 @@ sources:
 hide:
 - navigation
 - toc
+version: "e33a2081"
+version_date: "2025-08-26"
 ---
 
 <!-- tags -->

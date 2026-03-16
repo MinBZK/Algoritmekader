@@ -52,6 +52,8 @@ maatregel:
 hide:
 - navigation
 - toc
+version: "development"
+version_date: "development"
 ---
 
 <!-- Onderstaande comment met "tags" laten staan, dit is nodig voor het functioneren van de website -->

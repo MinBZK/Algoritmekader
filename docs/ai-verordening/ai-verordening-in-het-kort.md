@@ -2,6 +2,8 @@
 title: AI-verordening in het kort
 summary: Korte uitleg van de Europese AI-verordening voor verantwoorde AI
 hide: navigation
+version: "1.0.0"
+version_date: "2025-07-04"
 ---
 
 

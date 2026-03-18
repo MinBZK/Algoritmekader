@@ -60,17 +60,17 @@ Europese _geharmoniseerde standaarden_ zijn essentieel voor de AI-Verordening, o
 ## Waarom zijn standaarden belangrijk voor de AI-verordening?
 Wanneer AI-systemen worden ontworpen of gebruikt, bieden standaarden praktische richtlijnen en technische kaders (praktische meerwaarde) waarmee compliance aantoonbaar kan worden gemaakt (juridische meerwaarde).
 
-### Juridische waarde van standaarden
+## Juridische waarde van standaarden
 Als een organisatie zich houdt aan de bij de wet behorende _geharmoniseerde Europese normen_, wordt aangenomen dat er wordt voldaan aan de essentiële eisen voor hoog-risico AI-systemen in de AI-verordening (_Presumption of Conformity_), ofwel, een vermoeden van conformiteit. Dit betekent dat het AI-systeem wordt beschouwd als conform de wettelijke vereisten voor hoog-risico AI-systemen, wat zorgt voor juridische zekerheid en eenvoudiger toezicht​. Let wel: dit geldt voor de vereisten voor hoog-risico systemen waar een standardisation-request (SR) voor uitstaat; Artikel 4 ([AI-geletterdheid](../vereisten/aia-01-ai-geletterdheid.md)) valt bijvoorbeeld buiten deze scope omdat daar geen SR voor ligt.
 
 De geharmoniseerde normen zijn niet wettelijk verplicht, maar dankzij de _presumption of conformity_ bieden ze organisaties wel juridische duidelijkheid. Organisaties mogen er voor kiezen om de geharmoniseerde norm níet te implementeren in de eigen organisatie, maar moeten dan onderbouwen dat hun eigen werkwijze op adequate wijze invulling geeft aan de essentiële eisen. Dit kost tijd en geld, en er is schaarse expertise voor nodig. Het geeft bovendien juridische onzekerheid. De verwachting is dat verreweg de meeste organisaties daarom de geharmoniseerde normen zullen volgen.
 
-### Praktische waarde van standaarden
+## Praktische waarde van standaarden
 Geharmoniseerde normen hebben daarnaast een duidelijke praktische waarde. Ze vertalen abstracte wettelijke verplichtingen uit de AI-verordening naar concrete technische en organisatorische eisen, bijvoorbeeld op het gebied van risicomanagement en kwaliteitsmanagement, maar ook voor [duurzaamheid](../../onderwerpen/duurzaamheid.md) en [transparantie](../../onderwerpen/transparantie.md)​. Er zullen standaarden ontwikkeld worden voor de AI-verordening op het gebied van [verschillende fases in de algoritme-levenscyclus](../../levenscyclus/index.md). Zo helpen standaarden organisaties dus bij het ontwikkelen, inkopen en implementeren van betrouwbare AI-systemen.
 
 ## Een overzicht van belangrijke standaarden
 
-### Normen die worden ontwikkeld voor de AI-verordening
+## Normen die worden ontwikkeld voor de AI-verordening
 Er is een standaardisatieverzoek gedaan door de Europese Commissie op 10 specifieke wettelijke vereisten in de AI-Verordening die gaan over belangrijke aspecten van AI. Deze aspecten vind je ook terug in de verschillende [onderwerpen](../../onderwerpen/publieke-inkoop.md), [vereisten](../vereisten/index.md) en [maatregelen](../maatregelen/index.md) die in het Algoritmekader terugkomen.
 
 1. Risicomanagement
@@ -97,7 +97,7 @@ Wat in deze 10 standaardisatieverzoeken nog niet terugkomt, maar wel in het Algo
 - _TR 18145 'Environmentally sustainable Artificial Intelligence'_ is een technisch rapport (TR). Het is nu "under approval".
 - Werkgroep JTC 21 heeft een "preliminary work item" genaamd _'Guidelines and metrics for the Environmental Impact of Artificial Intelligence Systems and Services'_ wat nog aan werk onderhevig is.
 
-### Welke standaarden, rapporten en specificaties zijn er al?
+## Welke standaarden, rapporten en specificaties zijn er al?
 Op dit moment zijn er verschillende Technische Rapporten, Technische Specificaties en Normen (onder de tabel kun je meer informatie vinden over deze termen) die al van belang zijn voor AI. In onderstaande tabel worden er enkele uitgelicht. Ben je opzoek naar meer, kijk dan eens op de [AI Standards Hub](https://aistandardshub.org) van het Verenigd Koninkrijk, of op [NEN Connect](https://connect.nen.nl).
 
 | Norm                          | Titel                                                                                         | Status                      |

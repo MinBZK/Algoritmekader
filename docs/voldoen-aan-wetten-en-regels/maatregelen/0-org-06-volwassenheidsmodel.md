@@ -68,7 +68,7 @@ Geen beschikbare bron voor deze maatregel.
 
 	MITRE is een Amerikaanse non-profitorganisatie en enigzins vergelijkbaar met het Nederlandse TNO. Zij hebben een AI Maturity Model en de bijbehorende Organizational Assessment Tool ontwikkeld. Dit volwassenheidsmodel onderscheidt een zestal pijlers in de AI volwassenheid van een organisatie en daarbij een vijftal volwassenheidsniveaus.  In dit document wordt ook toegelicht hoe een organisatie van een niveau naar het volgende kan ontwikkelen. Daarnaast wordt dit ook op individuele pijlers uitgelegd.
 
-	[![MITRE AI Maturity Model](images/MITRE_Maturity-Model-Overview_0.png)](https://www.mitre.org/news-insights/publication/mitre-ai-maturity-model-and-organizational-assessment-tool-guide)
+	[![Een overzicht van het MITRE-model waarin van links naar rechts in kolommen worden genoemd: <lang=en>Ethical, Equitable and Responsible Use, Strategy and Resources, Organization, Technology Enablers, Data, Performance and Application</lang=en>. Elke kolom wordt op de verticale as gemeten op een niveau van 1 tot 5. Zo kan een organisatie zien op welk volwassenheidsniveau zij zich bevinden op verschillende vlakken.](images/MITRE_Maturity-Model-Overview_0.png)]
 
 	Bron: [MITRE AI Maturity Model](https://www.mitre.org/news-insights/publication/mitre-ai-maturity-model-and-organizational-assessment-tool-guide)
 

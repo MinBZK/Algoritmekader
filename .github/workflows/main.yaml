@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
         with:
           fetch-depth: 0
 
@@ -29,8 +29,6 @@ jobs:
           cache: 'pip'
 
       - name: install dependencies
-        run: |
-          git config --global url."https://github-actions:${{ secrets.MATERIAL_INSIDERS_TOKEN }}@github".insteadOf ssh://git@github
-          pip install -r requirements-prod.txt
+        run: pip install -r requirements.txt
 
       - run: mkdocs gh-deploy --force

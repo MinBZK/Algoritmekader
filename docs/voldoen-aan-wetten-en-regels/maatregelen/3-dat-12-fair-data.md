@@ -30,7 +30,7 @@ Wanneer je voldoet aan de 15 principes is je data 'machine actionable'. Dit maak
 
 FAIR data betekent niet per definitie dat data open data is. Juist ook voor (privacy) gevoelige data (gesloten data) kan het heel zinvol zijn om te voldoen aan de principes voor FAIR data, om juist daarmee specifieke geautoriseerde toegang tot gevoelige data mogelijk te kunnen maken.
 
-### 15 principes voor FAIR data
+## 15 principes voor FAIR data
 
 Er zijn 15 principes voor FAIR data geformuleerd:
 

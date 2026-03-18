@@ -32,14 +32,13 @@ def on_post_build(config: MkDocsConfig) -> None:
 
     # Try to fetch NCSC security.txt
     security_txt_content = _fetch_ncsc_security_txt(
-        ncsc_security_txt_url,
-        canonical_url
+        ncsc_security_txt_url, canonical_url
     )
 
     if security_txt_content:
-        print(f"✓ Successfully fetched and deployed security.txt from NCSC")
+        print("Successfully fetched and deployed security.txt from NCSC")
     else:
-        print(f"⚠ Failed to fetch NCSC security.txt, using fallback")
+        print("Failed to fetch NCSC security.txt, using fallback")
         security_txt_content = _generate_fallback_security_txt(canonical_url)
 
     # Write security.txt to the built site
@@ -101,7 +100,9 @@ def _generate_fallback_security_txt(canonical_url: str) -> str:
         The fallback security.txt content.
     """
     # Set expiry to 1 year from now
-    expires_date = (datetime.utcnow() + timedelta(days=365)).strftime("%Y-%m-%dT%H:%M:%SZ")
+    expires_date = (datetime.utcnow() + timedelta(days=365)).strftime(
+        "%Y-%m-%dT%H:%M:%SZ"
+    )
 
     return f"""# This is a fallback security.txt file.
 # It was generated because the NCSC security.txt could not be fetched during the build.

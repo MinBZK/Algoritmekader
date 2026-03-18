@@ -38,11 +38,11 @@
 ??? expander "Hoe is het Algoritmekader opgebouwd?"
 
     De rode draad door het Algoritmekader zijn de **[wettelijke vereisten](../voldoen-aan-wetten-en-regels/vereisten/index.md)**. Dit is met name de AI-verordening, maar ook wetten als de Algemene wet bestuursrecht (Awb), de Algemene Verordening Gegevensbescherming (AVG) en de Wet open overheid (Woo) raken aan AI en algoritmes.
-    
+
     Om aan die wettelijke vereisten te voldoen worden **[maatregelen](../voldoen-aan-wetten-en-regels/maatregelen/index.md)** voorgesteld.
-    
+
     En om die maatregelen in de praktijk te brengen worden ook **[hulpmiddelen](../voldoen-aan-wetten-en-regels/hulpmiddelen/index.md)** gegeven.
-    
+
     Daarnaast is het Algoritmekader opgebouwd rond drie pijlers:
 
     - **[Rollen](../rollen/index.md)** - Vier verschillende rollen met elk hun verantwoordelijkheden
@@ -59,7 +59,7 @@
 
     Ja! Het team achter het Algoritmekader houdt het veld in de gaten. Nieuwe ontwikkelingen worden regelmatig in het Algoritmekader verwerkt. Denk aan nieuw beleid vanuit de Rijksoverheid of andere overheden, ontwikkelingen vanuit de Europese Unie of nieuwe instrumenten die worden ontwikkeld. In de praktijk leidt dit tot vier à vijf nieuwe inhoudelijke [i]releases[/i] per jaar. Technische fouten worden daarnaast ook opgelost als deze gesignaleerd worden.
 
-    Heb je zelf een aanvulling op of opmerking over het kader? Je kunt altijd [contact met ons opnemen](https://minbzk.github.io/Algoritmekader/over-het-algoritmekader/CONTRIBUTING/#ik-heb-een-vraag).
+    Heb je zelf een aanvulling op of opmerking over het kader? Je kunt altijd [contact met ons opnemen](./CONTRIBUTING.md#ik-heb-een-vraag).
 
 ## B - Gebruik van het Algoritmekader
 
@@ -103,13 +103,13 @@
 
     De minimale vereisten hangen af van het risiconiveau van het algoritme. Voor alle algoritmes geldt dat je:
 
-    - Weet onder welke [risicocategorie](https://minbzk.github.io/Algoritmekader/soorten-algoritmes-en-ai/risico-van-ai-systemen/) het algoritme valt
+    - Weet onder welke [risicocategorie](../soorten-algoritmes-en-ai/risico-van-ai-systemen.md) het algoritme valt
     - Weet wat het algoritme doet
     - Risico's identificeert
     - Menselijk toezicht waarborgt
     - Transparant communiceert over het gebruik
 
-    Voor algoritmes met hogere risico's gelden aanvullende vereisten, zoals regelmatige controles en impact assessments. Doorloop de [beslishulp](https://minbzk.github.io/Algoritmekader/ai-verordening/) om erachter te komen of je algoritme onder een hoog risico valt.
+    Voor algoritmes met hogere risico's gelden aanvullende vereisten, zoals regelmatige controles en impact assessments. Doorloop de [beslishulp](../ai-verordening/index.md) om erachter te komen of je algoritme onder een hoog risico valt.
 
 ## C - Informatie en ondersteuning
 

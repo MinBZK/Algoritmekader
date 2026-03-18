@@ -30,7 +30,7 @@ Maak gebruik van datacenters die gebruik maken van duurzame energiebronnen en en
 Door data op te slaan en algoritmes te laten draaien in datacenters die hernieuwbare energiebronnen inzetten en bijvoorbeeld de ontstane restwarmte recyclen, kan je de ecologische voetafdruk van de algoritmes aanzienlijk verkleinen.
 Datacenters die zich op duurzaamheid richten, verlagen de CO₂-uitstoot van hun infrastructuur en bieden mogelijk duurzaamheidsrapportages. Let bij het kiezen van een aanbieder op mogelijke greenwashing; dit gebeurt wanneer bedrijven beweren groen te zijn zonder dit met concrete maatregelen te onderbouwen.
 
-### Technologieën voor energie-efficiënte datacenters
+## Technologieën voor energie-efficiënte datacenters
 Om datacenters energie-efficiënt te maken, zijn er verschillende benaderingen:
 
 - **Gebruik van groene energiebronnen**: kies voor datacenters/aanbieders die hernieuwbare energie gebruiken. Maak bijvoorbeeld afspraken over [een doel, zoals een DCie-score van minimaal 50%](https://www.denkdoeduurzaam.nl/themas/ict/doelen), gewogen over een heel jaar. De DCie score van elk Overheids Datacenter (ODC) [kun je hier bekijken](https://rijksictdashboard.nl/duurzaamheid).

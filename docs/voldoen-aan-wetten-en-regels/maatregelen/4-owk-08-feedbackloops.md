@@ -42,7 +42,7 @@ Er zijn verschillende vormen van feedbackloops:
 
 - *Machine-learning model feedbackloop*: wanneer nieuwe data die beschikbaar komt is beïnvloed door de beslissing van het algoritme zelf en deze data wordt gebruikt om een machine-learning model mee te (her)trainen. Een ander voorbeeld is wanneer alleen data wordt gebruikt van de personen die daadwerkelijk subsidie ontvangen om het algoritme op te (her)trainen. De groep die geen subsidie ontvangt ontbreekt dan in de dataset.
 
-### Adversarial feedbackloops
+## Adversarial feedbackloops
 Soms kunnen feedbackloops opzettelijk ingezet worden als ‘aanval’ op het systeem.
 Dit hoeft niet per se vijandig te zijn, maar het kan gaan om het opzettelijk reageren op of aanpassen van de beslissingen die uit een algoritme volgen.
 Bijvoorbeeld wanneer mensen liegen bij het invullen van een vragenlijst van de GGD wanneer ze een soa-test willen doen, omdat ze weten dat ze dan gekwalificeerd worden voor een gratis test [^1].
@@ -51,7 +51,7 @@ Deze feedbackloops wil je het liefste voorzien en mitigeren.
 
 [^1]: Zie https://nos.nl/op3/artikel/2143511-soa-sjoemelaars-liegen-voor-gratis-test
 
-### Monitoring en ophalen informatie
+## Monitoring en ophalen informatie
 Feedbackloops kunnen ook een positieve werking hebben op het algoritme. Het is verstandig om feedback op te halen om in te zien wat de reactie is van mensen op (beslissingen van) een algoritme.
 Dit kan bijvoorbeeld door gebruikers of belanghebbende burgers vragenlijsten te laten invullen met vragen over hun gedrag en de ontwikkelingen hierin te monitoren.
 Daarnaast kan het ophalen van ervaringen met het algoritme worden gebruikt voor doorontwikkeling en verbetering van het algoritme waarbij de gewenste en ongewenste effecten meegenomen worden.

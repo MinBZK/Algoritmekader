@@ -40,7 +40,7 @@ Veel programmeertalen en software bibliotheken bieden standaard oplossingen voor
 In de context van algoritmes is het raadzaam om ook nog specifieker te monitoren wat voor inputs er gegeven worden aan bijvoorbeeld een AI-systeem.
 Zo kan het herhaaldelijk gebruiken van dezelfde input waarden met minimale aanpassingen wijzen op een poging tot een model engineering of een model inversion aanval.
 
-### Generatieve AI
+## Generatieve AI
 In het specifieke geval van generatieve AI moet er rekening gehouden worden met [*prompt injection attacks*](https://www.ibm.com/topics/prompt-injection).
 Dit zijn aanvallen waarbij aanvallers een kwaadaardige opdracht dusdanig verhullen dat standaard checks het niet doorhebben en het model bijvoorbeeld gemanipuleerd wordt om desinformatie te verspreiden, gevoelige data te lekken of zelfs kwaadaardige software uit te voeren.
 Op dit moment is nog weinig bekend over hoe dit over het algemeen effectief gemodereerd kan worden.

@@ -25,7 +25,7 @@ Energiezuinig programmeren maakt het mogelijk om de voetafdruk van algoritmes te
 
 Dit geldt zeker voor generatieve AI, dat veel rekenkracht vereist. Je kunt modellen zo (laten) ontwikkelen dat ze kunnen draaien op apparaten die niet veel energie verbruiken, zoals microcontrollers. Dit in tegenstelling tot een GPU, die veel energie verbruikt.
 
-### Technieken voor energiezuinige softwareontwikkeling
+## Technieken voor energiezuinige softwareontwikkeling
 1. **Lean coding en minimalisatie van code bloat**
    Lean coding richt zich op het gebruik van alleen de benodigde code zonder overbodige complexiteit of libraries, wat resulteert in lagere energieconsumptie. Door “code bloat” te vermijden, zorg je ervoor dat het algoritme minder verwerkingskracht en geheugen verbruikt.
 

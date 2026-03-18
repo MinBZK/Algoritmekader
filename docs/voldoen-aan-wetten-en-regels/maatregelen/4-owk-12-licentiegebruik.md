@@ -44,7 +44,7 @@ Voorbeelden van licenties zijn:
 - Creative Commons BY: vereist alleen bronvermelding.
 - Publiek Domein met bronvermeldingsplicht: voor maximale openheid met behoud van traceerbaarheid.
 
-### Licenties voor software en code
+## Licenties voor software en code
 Voor software en algoritmes zijn er specifieke licenties beschikbaar die beter aansluiten bij het publiceren van broncode. [Creative Commons (CC) raadt het gebruik van CC-licenties voor software expliciet af](https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software).
 
 Voor Nederlandse overheidssoftware wordt de European Union Public License (EUPL) als standaard aanbevolen, zoals beschreven in [Overwegingen bij Open tenzij en Aanpak open source](https://www.rijksoverheid.nl/documenten/publicaties/2020/04/17/overwegingen-bij-open-tenzij-en-aanpak-open-source). Voor een overzicht en vergelijking van softwarelicenties kan bovendien de website [choosealicense.com geraadpleegd](https://choosealicense.com/licenses/) worden.

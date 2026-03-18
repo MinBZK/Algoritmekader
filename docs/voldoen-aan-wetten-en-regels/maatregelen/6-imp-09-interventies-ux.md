@@ -33,7 +33,7 @@ Als deze keuze vervolgens als feedback ook weer wordt doorgevoerd in het systeem
 
 Werk bijvoorbeeld aan de hand van [User Centered Design principes](https://www.interaction-design.org/literature/topics/user-centered-design) om de gebruiker centraal te stellen.
 
-### Evaluatie
+## Evaluatie
 Breng risico’s in kaart door het goed testen van het systeem in een praktijksetting. Evalueer hier het gedrag van de gebruiker in het grotere systeem.
 
 Onderdelen hiervan zijn:

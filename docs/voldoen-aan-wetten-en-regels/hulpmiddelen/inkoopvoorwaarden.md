@@ -31,13 +31,13 @@ Organisaties kunnen deze voorwaarden of bepalingen opnemen wanneer zij een contr
 Zij kunnen dan bijvoorbeeld beperkingen opnemen om onaanvaardbare risico's van AI te vermijden, of bepaalde voorwaarden waaraan een algoritme juist moet voldoen.
 Ook kunnen zij bepaalde [voorwaarden op basis van de vereisten in het Algoritmekader](../maatregelen/2-owp-16-vereisten-onderdeel-algemene-inkoopvoorwaarden-en-contractovereenkomst.md) opnemen.
 
-### Europese Commissie
+## Europese Commissie
 De Europese Commissie biedt [Europese modelcontractbepalingen voor laag- en hoog-risico-AI](https://public-buyers-community.ec.europa.eu/communities/procurement-ai/resources/updated-eu-ai-model-contractual-clauses). Hiermee kunnen aanbestedende organisaties specifieke clausules opnemen in hun overeenkomst. Op deze manier maken zij afspraken die in lijn zijn met de Europese AI-verordening.
 
-### Gemeente Amsterdam
+## Gemeente Amsterdam
 De Europese modelcontractbepalingen voor AI zijn gebaseerd op onder andere de modelbepalingen die de Gemeente Amsterdam eerder opstelde. Deze dienen als voorbeeld voor andere gemeenten die algoritmische toepassingen willen inkopen.
 
-### AI-module bij ARBIT-2022
+## AI-module bij ARBIT-2022
 De AI-module bij de [ARBIT](https://www.pianoo.nl/nl/regelgeving/voorwaarden/rijksoverheid/algemene-rijksinkoopvoorwaarden-bij-it-overeenkomsten-arbit) (Algemene Rijksinkoopvoorwaarden bij IT‑overeenkomsten) is gebaseerd op de Europese modelcontractbepalingen voor AI. Via een verwijzing in de gebruikte modelovereenkomst kan de AI-module onderdeel uitmaken van een onder de ARBIT te sluiten overeenkomst. In de [Leidraad voor inkopen en ontwikkelen algoritmes in IT-toepassingen](https://www.pianoo.nl/sites/default/files/media/documents/2025-01/Leidraad-CoP-Digitale-innovaties-jan2025.pdf) vanuit PIANOo vind je handvatten om je op weg te helpen.
 
 De ARBIT zijn bedoeld voor kleine en middelgrote IT-inkopen door de overheid.

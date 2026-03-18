@@ -16,7 +16,7 @@ Rekenregels:
 
 Het bevatten van rekenregels maakt van een systeem geen AI. Rekenregels kunnen wel onderdeel zijn van een AI-systeem.
 
-### Voorbeelden
+## Voorbeelden
 
 * Eenvoudige chatbots die burgers advies geven op basis van door mensen bedachte beslisbomen.
 * [Ondersteuning berekening uitkering](https://algoritmes.overheid.nl/nl/algoritme/gm0518/86652588/ondersteuning-berekening-uitkering) dat adviseert over uitkeringen, op basis van door mensen bedachte beslisbomen.

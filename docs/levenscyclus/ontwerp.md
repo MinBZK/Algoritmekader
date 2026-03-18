@@ -15,7 +15,7 @@ In deze fase verzet je meestal veel werk om duidelijk te krijgen wat voor oploss
 * uitvoeren van een businessanalyse en informatieanalyse
 
 ## Toetsen en verbeteren
-Ontwerpen laat je controleren door een multidisciplinair team. Dit zijn bijvoorbeeld medewerkers in de volgende [rollen](https://minbzk.github.io/Algoritmekader/rollen/):
+Ontwerpen laat je controleren door een multidisciplinair team. Dit zijn bijvoorbeeld medewerkers in de volgende [rollen](../rollen/index.md):
 
 * proceseigenaar
 * opdrachtgever
@@ -34,7 +34,7 @@ Dit soort experts kunnen vanuit hun vakgebied een eerste toets doen:
 * Zijn er bepaalde risicoanalyses nodig?
 * Zijn er onafhankelijke commissies nodig?
 
-Op basis van deze informatie verbeter je het ontwerp en werk je vraagstukken uit zoals [algoritmegovernance](https://minbzk.github.io/Algoritmekader/onderwerpen/governance/) en risicomanagement.
+Op basis van deze informatie verbeter je het ontwerp en werk je vraagstukken uit zoals [algoritmegovernance](../onderwerpen/governance.md) en risicomanagement.
 
 ## Maatregelen bepalen
 In de ontwerpfase kun je ook starten met het:
@@ -45,24 +45,24 @@ In de ontwerpfase kun je ook starten met het:
 
 !!! tip "Tip"
 
-    Maatregelen voor het [veilig verwerken van persoonsgegevens](https://minbzk.github.io/Algoritmekader/onderwerpen/privacy-en-gegevensbescherming/) neem je tijdens de ontwerpfase. Daarna ben je te laat.
+    Maatregelen voor het [veilig verwerken van persoonsgegevens](../onderwerpen/privacy-en-gegevensbescherming.md) neem je tijdens de ontwerpfase. Daarna ben je te laat.
 
 ## Succesfactoren bepalen
 Besteed aandacht aan de succesfactoren van het algoritme of AI-systeem. Bepaal in elk geval met een multidisciplinair team:
 
 * hoe je het algoritme of AI-systeem evalueert
-* met welke methoden je nagaat of het voldoet aan alle vereisten zoals [non-discriminatie](https://minbzk.github.io/Algoritmekader/onderwerpen/bias-en-non-discriminatie/)
+* met welke methoden je nagaat of het voldoet aan alle vereisten zoals [non-discriminatie](../onderwerpen/bias-en-non-discriminatie.md)
 * wat een 'rechtvaardig succes' is
 
 ## Definitief ontwerp
 Uiteindelijk concludeer je welk type algoritme of AI-systeem passend is. En hoe dit zou moeten werken. Hiervoor vraag je akkoord van de opdrachtgever of (gemandateerd) verantwoordelijke.
-Heeft het ontwerp nog aanpassingen nodig, dan doorloop je opnieuw de fase van [probleemanalyse](https://minbzk.github.io/Algoritmekader/levenscyclus/probleemanalyse/).
+Heeft het ontwerp nog aanpassingen nodig, dan doorloop je opnieuw de fase van [probleemanalyse](./probleemanalyse.md).
 
-Kiest de organisatie een definitief ontwerp, dan ga je verder met [dataverkenning en datapreparatie](https://minbzk.github.io/Algoritmekader/levenscyclus/dataverkenning-en-datapreparatie/).
+Kiest de organisatie een definitief ontwerp, dan ga je verder met [dataverkenning en datapreparatie](./dataverkenning-en-datapreparatie.md).
 
 !!! tip "Tip"
 
-    Denk alvast na over welke versie of versies van het algoritme of AI-systeem je wil archiveren. Door aanpassingen in de data of rekenregels, of door het opnieuw trainen met nieuwe data, kan een algoritme of AI-systeem namelijk veranderen. Als je hier nu al aandacht aan besteed, bespaar je achteraf bij het [uitfaseren](https://minbzk.github.io/Algoritmekader/levenscyclus/uitfaseren/) een hoop uitzoekwerk.
+    Denk alvast na over welke versie of versies van het algoritme of AI-systeem je wil archiveren. Door aanpassingen in de data of rekenregels, of door het opnieuw trainen met nieuwe data, kan een algoritme of AI-systeem namelijk veranderen. Als je hier nu al aandacht aan besteed, bespaar je achteraf bij het [uitfaseren](./uitfaseren.md) een hoop uitzoekwerk.
 
 ## Vereisten ontwerpfase { data-search-exclude }
 

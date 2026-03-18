@@ -43,18 +43,18 @@ Er moet gezorgd worden dat er een alternatief plan is voor als het algoritme nie
 
 Dit proces bevat in ieder geval de volgende stappen:
 
-### Leg vast wanneer het algoritme niet meer werkt zoals beoogd
+## Leg vast wanneer het algoritme niet meer werkt zoals beoogd
 - Leg vast wat de [beoogde werking van het algoritme](1-pba-02-formuleren-doelstelling.md) is.
 - Bepaal of [de geïmplementeerde werking overeenkomt met de vastgelegde beoogde werking](5-ver-01-functioneren-in-lijn-met-doeleinden.md) en wanneer het algoritme gestopt moet worden. Dit gebeurt tijdens een [evaluatie](7-mon-04-evaluatieplan.md) of door de [continue monitoring](7-mon-07-plan-continue-monitoring.md).
 
-### Zorg dat beslissingen kunnen worden herzien
+## Zorg dat beslissingen kunnen worden herzien
 - Leg vast hoe het mogelijk is na te gaan op welk moment het algoritme stopte met werken zoals beoogd.
 Wanneer de melding vanuit continue monitoring komt is het vaak duidelijk wanneer deze waarde wordt overschreden.
 Bij vaste evaluatiemomenten moet dit worden herleid.
 Zorg dat door middel van het [loggen](4-owk-04-logging.md) van de juiste informatie het mogelijk is te herleiden wanneer het algoritme stopte met werken zoals beoogd.
 - Zorg dat beslissingen die zijn genomen vanaf het moment dat het algoritme stopte met werken zoals beoogd kunnen worden herzien. Indien het algoritme niet direct is gestopt zodra het niet meer werkte zoals beoogd, moet er opnieuw gekeken worden naar de beslissingen die daarna zijn genomen. Leg vast op welke manier deze beslissingen herzien worden.
 
-### Leg vast wat de vervolgacties zijn
+## Leg vast wat de vervolgacties zijn
 - Leg in een proces vast hoe het gebruik van het algoritme moet worden stopgezet.
 - Leg vast hoe er gewerkt worden zonder het algoritme en wat de impact daarvan is op het werkproces.
 - Leg vast wie er binnen en buiten de organisatie geïnformeerd moeten worden.

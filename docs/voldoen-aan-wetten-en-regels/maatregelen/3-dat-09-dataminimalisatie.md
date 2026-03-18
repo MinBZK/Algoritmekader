@@ -29,7 +29,7 @@ Houd datasets beperkt tot het noodzakelijke en voldoende specifiek om onnodige e
 Hoe meer je bewaart, hoe meer ruimte dat kost om op te slaan. Bovendien verbruikt elk apparaat dat nodig is om data op te slaan stroom. Dat heeft grote invloed op de CO₂-uitstoot van een datacentrum.
 Grote datasets brengen daarom hoge energie- en opslagkosten met zich mee. Door de dataset bewust te beperken tot relevante gegevens, kun je ook de energie-efficiëntie van algoritmes aanzienlijk verbeteren. Vooral bij de ontwikkeling van AI-systemen kan het verminderen van data bijdragen aan lagere energiebehoeften en CO₂-uitstoot.
 
-### Technieken voor dataminimalisatie
+## Technieken voor dataminimalisatie
 - **Slimme selectie van trainingdata**: Gebruik methoden die irrelevante data uit de dataset filteren, zoals dataselectie-algoritmes en sampling-technieken. Door te focussen op relevante data, beperk je de omvang zonder de prestaties van het model te beïnvloeden.
 - **Verwijderen van redundante en dubbele data**: Deduplicatie van data minimaliseert onnodige verwerkingskracht. Door alleen unieke en relevante gegevens op te slaan, wordt de opslagbehoefte verder beperkt.
 - **Opschonen en archiveren van verouderde data**: [Regelmatige archivering](2-owp-09-archiveren-documenten.md) of verwijdering van verouderde data in je dataset zorgt voor een verminderde voetafdruk en verhoogt ook de efficiëntie.

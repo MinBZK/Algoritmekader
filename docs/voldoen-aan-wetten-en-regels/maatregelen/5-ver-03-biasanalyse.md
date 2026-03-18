@@ -57,7 +57,7 @@ Voor alle stappen geldt dat het belangrijk is om de gemaakte keuzes en afweginge
 
     Deze maatregel is in ieder geval van toepassing op natuurlijke personen. Voor andere rechtspersonen zoals bedrijven kan dit ook van toepassing zijn. Denk bijvoorbeeld aan een gelijke behandeling tussen eenmanszaken en grotere bedrijven.
 
-### Stap 1: Analyseer of er sprake is van bias
+## Stap 1: Analyseer of er sprake is van bias
 In deze stap is het doel om te bepalen in welke mate er sprake is van een systematisch verschil in behandeling van bepaalde objecten, mensen of groepen in vergelijking met anderen.
 Dit verschil kan zowel op een [directe als een indirecte manier](../../onderwerpen/bias-en-non-discriminatie.md#herken-bias) ontstaan.
 
@@ -146,7 +146,7 @@ Het is belangrijk hier [een brede groep aan belanghebbenden bij te betrekken](1-
 De oorzaken van bias komen in veel gevallen uit de 'echte wereld', waarbij patronen in datasets historische, demografische en sociale verschillen weerspiegielen.
 Het verklaren en voorkomen van bias vraagt daarmee niet alleen om technische oplossingen, maar het is belangrijk de hele socio-technische omgeving waarin het algoritme wordt ingezet mee te nemen.
 
-### Stap 2: Voer een rechtvaardigingstoets uit
+## Stap 2: Voer een rechtvaardigingstoets uit
 Wanneer er in [Stap 1](#stap-1-analyseer-of-er-sprake-is-van-bias) is geconstateerd dat er sprake is van een onderscheid, dient de volgende vraag beantwoord te worden:
 
 > Valt dit onderscheid te rechtvaardigen?
@@ -169,7 +169,7 @@ Het algoritme mag in dat geval niet gebruikt worden.
 
 Voor meer toelichting over het uitvoeren van een rechtvaardigingstoets, verwijzen we naar het [Toetsingskader Risicoprofilering](https://publicaties.mensenrechten.nl/publicatie/4093c026-ae41-4c1d-aa78-4ce0e205b5de) van het College voor de Rechten van de Mens.
 
-### Stap 3: Voer een ethische wenselijkheidstoets uit
+## Stap 3: Voer een ethische wenselijkheidstoets uit
 Bepaal of het geconstateerde onderscheid uit [Stap 1](#stap-1-analyseer-of-er-sprake-is-van-bias) ethisch wenselijk is. Dit hangt samen met de algemene wenselijkheid van de inzet van het algoritme.
 <!-- link toevoegen -->
 

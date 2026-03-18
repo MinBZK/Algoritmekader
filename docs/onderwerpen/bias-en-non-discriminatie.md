@@ -24,7 +24,7 @@ Direct en indirect onderscheid is in veel gevallen niet toegestaan. Ongewenst on
 
     Maakt je algoritme een ongewenst onderscheid of is er sprake van discrimerende effecten van je algoritme? Dan moet je zo snel mogelijk [stoppen met het algoritme](../levenscyclus/uitfaseren.md). Gebruik bijvoorbeeld het [discriminatieprotocol](https://minbzk.github.io/discriminatieprotocol/) van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-### Uitzondering
+## Uitzondering
 Een direct of indirect onderscheid is niet altijd verboden volgens [Artikel 2 Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=1&artikel=1&z=2020-01-01&g=2020-01-01). In bepaalde situaties en onder bepaalde strenge voorwaarden mag je zo’n onderscheid wel maken.
 
 Direct onderscheid maken mag bijvoorbeeld als hiervoor een uitzondering staat in de wet. Zo mag je in situaties waar het gaat om moederschap of zwangerschap onderscheid maken op basis van geslacht.
@@ -56,7 +56,7 @@ Bias ontstaat bijvoorbeeld in:
 - systemen en processen in bijvoorbeeld de samenleving of je organisatie (systemische bias)
 - het menselijk denken (menselijke bias)
 
-### Bias in statistiek en berekeningen
+## Bias in statistiek en berekeningen
 Dit zijn fouten in de:
 
 - kwaliteit van de data
@@ -88,7 +88,7 @@ Voorbeelden:
 
     Een algoritme beoordeelt bijvoorbeeld de populariteit van treinstations onder reizigers op basis van hun smartphone-gebruik. Maar deze groep is niet representatief, omdat oudere reizigers vaak minder gebruik maken van smartphones.
 
-### Bias in systemen en processen
+## Bias in systemen en processen
 Dit is vooringenomenheid die vaak in de loop der tijd is ontstaan in de samenleving of je organisatie. Deze vooringenomenheid werkt door in processen of systemen, of wordt soms versterkt door algoritmes. Dit gebeurt vaak niet bewust.
 
 Systemische bias heet ook wel: institutionele vooringenomenheid. Dit betekent dat vooroordelen vaak horen bij de cultuur en samenleving. Die vooroordelen zitten daardoor ook in veel datasets, en kunnen zo versterkt worden door je algoritme.
@@ -113,7 +113,7 @@ Voorbeelden:
 
     Een algoritme dat teksten maakt, geeft bijvoorbeeld ‘verpleegster’ als vrouwelijke vorm van ‘dokter’. Dit komt omdat het stereotype dokter in die samenleving een man is.
 
-### Bias in menselijk denken
+## Bias in menselijk denken
 Dit zijn vooroordelen in het menselijk denken die steeds (systematisch) invloed hebben op de manier waarop iemand iets ziet, hoort, ruikt, proeft of voelt.
 
 Menselijke bias kan invloed hebben op de:

@@ -67,7 +67,7 @@ De Autoriteit Persoonsgegevens stelt in [een advies over de inzet van geautomati
 - [Advies artikel 22 AVG en geautomatiseerde selectie-instrumenten - Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/documenten/advies-geautomatiseerde-besluitvorming)
 
 ## Van toepassing op
-Deze vereiste geldt voor algoritmische toepassingen waarbij persoonsgegevens worden verwerkt. Bekijk de [bronnen](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/vereisten/avg-07-transparantie-bij-verwerken-persoonsgegevens/index.html#bronnen) om te controleren of dit zo is.
+Deze vereiste geldt voor algoritmische toepassingen waarbij persoonsgegevens worden verwerkt. Bekijk de [bronnen](#bronnen) om te controleren of dit zo is.
 
 
 ## Risico

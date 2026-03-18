@@ -36,20 +36,20 @@ Een aanvaller kan aan de hand van de uitkomsten van een model proberen om bepaal
 
 - **Inference** aanvallen zijn ook gericht op het achterhalen van informatie over de trainingsdata. In tegenstelling tot model inversion is het doel niet om de gehele trainingsdata terug te krijgen, maar specifieke informatie. Zo kan het doel bijvoorbeeld zijn om te achterhalen of een bepaald persoon onderdeel was van de trainingsdata of kan met een deel van de informatie over een persoon geprobeerd worden om missende informatie te achterhalen. Dit type aanvallen is vaak makkelijker uit te voeren van een volledige model inversion.
 
-### Technieken voor voorkomen van lekken
+## Technieken voor voorkomen van lekken
 
-### Statistical Disclosure Control
+## Statistical Disclosure Control
 Statistical Disclosure Control (SDC) is een veelgebruikte techniek om ervoor te zorgen dat er geen gevoelige informatie lekt uit de uitkomst van een datagedreven onderzoek.
 Alhoewel SDC vooral gericht is op traditionele data-analyses kan het ook gebruikt worden in de context van algoritmes.
 Er zijn verschillende voorbeelden hoe SDC kan worden toegevoegd aan een AI-systeem, zoals [The SACRO-ML package](https://arxiv.org/abs/2212.01233).
 
-### k-anonimity
+## k-anonimity
 Daarnaast bestaan er ook nieuwere technieken die kunnen helpen bij het onherkenbaar maken van mogelijk gevoelige informatie in de outputs van algoritmes. Zo zijn er technieken gebaseerd op het generaliseren van data om individuen onherkenbaar te maken, zoals [k-anonimity](https://dl.acm.org/doi/10.1142/s0218488502001648).
 
-### Differential privacy
+## Differential privacy
 Ook bestaan er technieken die ruis toevoegen aan de uitkomst, met wiskundige garanties van de veiligheid. De meest populaire techniek voor het toevoegen van ruis is [differential privacy](https://dl.acm.org/doi/10.1007/11787006_1).
 
-### Rate limiting
+## Rate limiting
 De hierboven benoemde oplossingen focussen op het beveiligen van één output van het algoritme. Veel aanvallen berusten echter ook op het veelvuldig aanroepen van een algoritme. Een andere oplossing die dit tegen kan gaan is het limiteren van het aantal interacties dat een gebruiker mag hebben met een algoritme, ook wel bekend als *rate limiting*.
 
 ## Transparantie vs veiligheidsrisico

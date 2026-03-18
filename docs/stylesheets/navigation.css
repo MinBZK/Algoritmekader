@@ -124,7 +124,7 @@ body {
   margin-right: auto;
   padding-left: 1.2rem;
   padding-right: 1.2rem;
-  max-width: var(--md-main-max-width, 61rem);
+  max-width: 1375px;
 }
 
 .md-tabs__item--active {
@@ -165,17 +165,53 @@ h1{
   box-shadow: none;
 }
 
-.md-header__button.md-logo img {
-  height: 65px; /* Adjust to the desired height */
-  width: auto; /* Keeps the aspect ratio */
-}
-
 .md-header__button.md-logo {
-  pointer-events: auto; /* Enable hover and click */
+  pointer-events: auto;
+  padding: 0;
 }
 
 .md-header__button.md-logo:hover {
   background-color: transparent !important;
+}
+
+/* Site logo with icon + subtitle like Algoritmeregister */
+.site-logo {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  padding: 8px 0;
+}
+
+.site-logo__icon {
+  width: 180px;
+  height: auto;
+}
+
+.md-header__button.md-logo img,
+.md-header__button.md-logo .site-logo__icon {
+  width: 180px !important;
+  max-width: none !important;
+  height: auto !important;
+}
+
+.md-header__button.md-logo {
+  max-width: none !important;
+  width: auto !important;
+}
+
+.site-logo {
+  align-items: flex-start;
+}
+
+.site-logo__subtitle {
+  padding-left: 0;
+}
+
+.site-logo__subtitle {
+  font-family: "RijksSansWeb", sans-serif;
+  font-size: .8em;
+  color: var(--dark-blue);
+  margin-top: 2px;
 }
 
 .md-header__topic {
@@ -642,6 +678,22 @@ abbr[data-tooltip]:hover {
   display: flex;
   height: 100%;
   margin-top: 0;
+}
+
+/* Content width to match Algoritmeregister (74em) */
+.md-grid {
+  max-width: 74em;
+  margin: 0 auto;
+  padding: 0 1em;
+}
+
+/* Navigation bar spans wider than content */
+.md-tabs {
+  max-width: none;
+}
+
+.md-tabs .md-grid {
+  max-width: 1375px;
 }
 
 /* Force navigation to scroll with content */

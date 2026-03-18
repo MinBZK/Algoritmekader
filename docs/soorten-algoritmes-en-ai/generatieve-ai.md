@@ -42,7 +42,11 @@ Het is van belang dat generatieve AI op een juiste en verantwoorde manier wordt 
 
 ## Bronnen
 * [Overheidsbreed standpunt voor de inzet van generatieve AI](https://www.rijksoverheid.nl/documenten/rapporten/2025/04/16/het-overheidsbrede-standpunt-voor-de-inzet-van-generatieve-ai)
+<<<<<<< release-v2.4.4/klein
 * [Overheidsbrede handreiking generatieve AI](https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/overheidsbrede-handreiking-generatieve-ai)
+=======
+* [Overheidsbrede handreiking generatieve AI](https://www.rijksoverheid.nl/documenten/rapporten/2025/04/16/overheidsbrede-handreiking-generatieve-ai)
+>>>>>>> main
 * [Open Source Initiative](https://opensource.org/ai/open-source-ai-definition)
 * [RKI-kader voor generatieve AI](../assets/documents/Kader-verantwoord-gebruik-generatieveAI-RKIs.pdf) (PDF)
 

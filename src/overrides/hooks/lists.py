@@ -450,14 +450,17 @@ def on_env(env, config: MkDocsConfig, files: Files):
         has_search = filter_options.get("search", True)
         has_column_filters = len(column_filters_html) > 0
         has_ai_act_labels = filter_options.get("ai-act-labels", False)
-        has_export = should_show_export(current_file) and content_type in ["vereisten", "maatregelen"]
+        has_export = should_show_export(current_file) and content_type in [
+            "vereisten",
+            "maatregelen",
+        ]
         has_any_filters = has_search or has_column_filters or has_ai_act_labels
 
         # Only add wrapper div if there are actually filters to show
         if has_any_filters:
             wrapper_class = "filter-wrapper"
             filters.append(
-            f'<div class="{wrapper_class}" style="background-color: #e6f3fb; padding: 16px; border-radius: 8px; margin-bottom: 16px;">'
+                f'<div class="{wrapper_class}" style="background-color: #e6f3fb; padding: 16px; border-radius: 8px; margin-bottom: 16px;">'
             )
 
             filters.append('<form autocomplete="off" onsubmit="return false;">')
@@ -487,7 +490,9 @@ def on_env(env, config: MkDocsConfig, files: Files):
 
             # AI-act labels info as separate div below the filter container
             if has_ai_act_labels:
-                filters.append("<div id='ai-act-labels-info' style='margin-top: 12px;'>")
+                filters.append(
+                    "<div id='ai-act-labels-info' style='margin-top: 12px;'>"
+                )
                 filters.append(
                     "<div id='ai-act-info-no-labels'><strong><a href='#' onclick=\"showModal(event, 'ai-act-labels');\">Kies je AI-verordeningprofiel</a> of <a href='#' onclick=\"showModal(event, 'beslishulp AI-verordening');\">gebruik de beslishulp AI-verordening</a> om vereisten te filteren.</strong></div>"
                 )

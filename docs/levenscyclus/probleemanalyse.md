@@ -14,6 +14,7 @@ Eerst onderzoek je het doel en het probleem van de opdrachtgever, bijvoorbeeld:
 * welke publieke waarden je daarbij moet beschermen of bereiken
 
 Daarna onderzoek je of een algoritme of AI-systeem een geschikte manier is om het doel van de opdrachtgever te bereiken en het probleem op te lossen. Dit hangt van af van bijvoorbeeld:
+
 * kosten van het verantwoord ontwikkelen van algoritmes en AI
 * aantal medewerkers dat nodig is voor het verantwoord ontwikkelen van algoritmes en AI
 * complexiteit van de oplossing

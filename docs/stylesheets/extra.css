@@ -5,13 +5,27 @@
 
 @font-face {
   font-family: "RijksSansWeb";
+  src: url("fonts/RijksSansWeb-Regular.woff2") format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "RijksSansWeb";
   src: url("../assets/RijksSansWeb-Bold.woff2") format('woff2');
   font-weight: bold;
   font-style: normal;
 }
 
+@font-face {
+  font-family: "RijksSansWeb";
+  src: url("../assets/RijksSansWeb-Italic.woff2") format('woff2');
+  font-weight: normal;
+  font-style: italic;
+}
+
 body{
-  font-family: "ROsanswebtextregular" !important;
+  font-family: "RijksSansWeb", "ROsanswebtextregular", sans-serif !important;
 }
 
 .md-top:hover {
@@ -49,7 +63,30 @@ body{
 }
 
 .md-typeset .grid {
-  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  grid-template-columns: repeat(3, 1fr);
+  background-color: #fff;
+  padding: 0;
+  gap: 6px !important;
+  border: none;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.md-typeset .grid > .card,
+.md-typeset .grid.cards > li,
+.md-typeset .grid.cards > ul > li {
+  background-color: #fff;
+  border: 2px solid #e5f1f9;
+  box-shadow: none;
+}
+
+.md-typeset .grid > .card:hover,
+.md-typeset .grid.cards > li:hover,
+.md-typeset .grid.cards > ul > li:hover,
+.md-typeset .grid.cards > :is(ul, ol) > li:hover {
+  box-shadow: none !important;
+  border-color: #e5f1f9 !important;
+  transform: none !important;
 }
 
 p, h1, h2, h3, h4, h5, h6 {
@@ -65,15 +102,15 @@ h1 {
 }
 
 .md-typeset h2 {
-  font-size: 1.2em;
+  font-size: 1.1em;
   margin-block-end:0;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .md-typeset h3 {
-  font-size: 1.1em;
+  font-size: 1em;
   margin-block-end:0;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .md-typeset hr {
@@ -104,7 +141,7 @@ th {
   padding: 12px;
   text-align: left;
   font-size: 16px;
-  font-family: "ROsanswebtextregular", sans-serif; /* Custom font */
+  font-family: "RijksSansWeb", "ROsanswebtextregular", sans-serif; /* Custom font */
   font-weight: 400;
 }
 
@@ -112,7 +149,7 @@ td {
   padding: 12px;
   text-align: left;
   border: none; /* Geen randen */
-  font-family: "ROsanswebtextregular", sans-serif; /* Custom font */
+  font-family: "RijksSansWeb", "ROsanswebtextregular", sans-serif; /* Custom font */
   min-width: 150px;
 }
 
@@ -174,10 +211,7 @@ tbody tr td a:hover {
   text-decoration: underline;
 }
 
-/* Grid Styling */
-.md-typeset .grid {
-  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
-}
+/* Grid Styling - merged with rule above */
 
 /* Admonition Styling */
 :root {
@@ -231,7 +265,7 @@ tbody tr td a:hover {
 
 .float-container {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Responsive columns */
+  grid-template-columns: repeat(3, 1fr); /* 3 columns */
   gap: 16px; /* Space between the boxes */
   padding-bottom: 32px;
   padding-top: 16px;
@@ -247,8 +281,9 @@ padding-bottom: 8px;
   background-color: #e5f1f9;
   display: flex;
   flex-direction: column;
-  justify-content: flex-start; /* Push the content and the "Bekijk alle" link to the bottom */
-  min-height: 300px; /* Set a minimum height for uniform containers */
+  justify-content: flex-start;
+  min-height: 200px;
+  padding: 12px;
 }
 
 .float-child-white {
@@ -261,7 +296,7 @@ padding-bottom: 8px;
 }
 
 .float-box{
-  margin: -12px 24px 24px 24px;
+  margin: -12px 16px 16px 16px;
 }
 
 .styled-list ul {
@@ -406,7 +441,7 @@ padding-bottom: 8px;
 
 /* Grid Styling */
 .md-typeset .grid {
-  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  grid-template-columns: repeat(3, 1fr);
   text-align: left;
 }
 
@@ -504,8 +539,8 @@ padding-bottom: 8px;
 }
 
 .md-typeset, td {
-  line-height: 1.3;
-  font-size: 0.875rem; /* Adjusted for 16px root: (14px / 16px) * 1rem */
+  line-height: 1.5;
+  font-size: 1.125rem;
 }
 
 .md-typeset ol li, .md-typeset ul li {
@@ -814,5 +849,5 @@ input[type="text"]::placeholder {
   color: #154273;
   font-style: italic;
   font-size: 0.9rem;
-  font-family: "ROsanswebtextregular", sans-serif;
+  font-family: "RijksSansWeb", "ROsanswebtextregular", sans-serif;
 }

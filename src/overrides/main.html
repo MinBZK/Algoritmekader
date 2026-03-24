@@ -5,10 +5,31 @@
   <!-- Skip link CSS is in navigation.css -->
 {% endblock %}
 
+
 {% block container %}
   <!-- Skip link for accessibility -->
   <a href="#main-content" class="skip-link">Ga naar hoofdinhoud</a>
   {{ super() }}
+{% endblock %}
+
+{% block header %}
+  {{ super() }}
+  <script>
+    (function() {
+      // Inject mobile menu button
+      var headerInner = document.querySelector('.md-header__inner');
+      if (headerInner) {
+        var btn = document.createElement('label');
+        btn.className = 'mobile-menu-button';
+        btn.setAttribute('for', '__drawer');
+        btn.setAttribute('tabindex', '0');
+        btn.setAttribute('aria-label', 'Menu openen');
+        btn.innerHTML = '<span class="mobile-menu-icon">&#9776;</span><span class="mobile-menu-text">Menu</span>';
+        headerInner.appendChild(btn);
+      }
+
+    })();
+  </script>
 {% endblock %}
 
 {% block main %}

@@ -16,7 +16,10 @@
         "pattern": "^url$"
       },
       {
-        "pattern": "^#$"
+        "pattern": "^(?!https?://)"
+      },
+      {
+        "pattern": "^https://connect\\.nen\\.nl"
       }
     ],
     "httpHeaders": [

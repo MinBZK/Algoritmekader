@@ -687,7 +687,7 @@ abbr[data-tooltip]:hover {
     position: static !important;
     z-index: auto !important;
   }
-  
+
   .md-main {
     margin-top: 0 !important;
   }
@@ -822,4 +822,3 @@ html body .md-header label[for="__drawer"]:not(.mobile-menu-button) {
     display: none !important;
   }
 }
-

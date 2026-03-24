@@ -58,7 +58,7 @@ Wanneer je geen zorgvuldige afweging maakt over de techniek die je gebruikt om h
 ## Bronnen
 - [Impact Assessment Mensenrechten en Algoritmes, 2A.1, 2B.1](../hulpmiddelen/IAMA.md)
 - [Onderzoekskader Auditdienst Rijk, DM.2](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
-- [Toetsingskader Algemene Rekenkamer, 2.04, 2.17](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
+- [Toetsingskader Algemene Rekenkamer, 2.04, 2.17](https://www.rekenkamer.nl/documenten/2024/05/15/het-toetsingskader-aan-de-slag)
 
 ## Voorbeelden
 

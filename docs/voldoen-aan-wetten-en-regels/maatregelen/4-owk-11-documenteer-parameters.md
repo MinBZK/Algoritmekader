@@ -54,7 +54,7 @@ Wanneer keuzes niet goed worden gedocumenteerd en onderbouwd is later niet te he
 
 ## Bronnen
 - [Onderzoekskader Auditdienst Rijk, DM.2](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
-- [Toetinskader Algemene Rekenkamer, 2.02, 2.03, 2.16, 2.17](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
+- [Toetinskader Algemene Rekenkamer, 2.02, 2.03, 2.16, 2.17](https://www.rekenkamer.nl/documenten/2024/05/15/het-toetsingskader-aan-de-slag)
 
 ## Voorbeelden
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

@@ -60,7 +60,7 @@ Het niet betrekken van belanghebbenden bij de ontwikkeling en het gebruik van al
 ## Bronnen
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
-- [Toetsingskader Algemene Rekenkamer 2.12](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
+- [Toetsingskader Algemene Rekenkamer 2.12](https://www.rekenkamer.nl/documenten/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Ethics Guidelines for Trustworthy AI](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai)
 - [Onderzoekskader Algoritmes Auditdienst Rijk, SV.10](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Framework for Meaningful Engagement](../hulpmiddelen/framework-meaningful-engagement.md)

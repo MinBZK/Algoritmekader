@@ -56,14 +56,14 @@ Betrokkenen zijn niet op de hoogte dat hun persoonsgegevens worden verwerkt met 
 ## Bronnen
 - [Handreiking Algoritmeregister](https://www.digitaleoverheid.nl/document/handreiking-algoritmeregister/)
 - [Algoritmeregister Publicatiestandaard](https://regels.overheid.nl/standaarden/algoritmeregister-publicatiestandaard)
-- [Toetsingskader Algoritmes Algemene Rekenkamer, 2.11, 3.12, 3.14, 3.16](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 2.11, 3.12, 3.14, 3.16](https://www.rekenkamer.nl/documenten/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Onderzoekskader Algoritmes Auditdienst Rijk, SV.14, PRI.8](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 
 
 ## Voorbeelden
 !!! example "Best Beschreven Algoritme Award"
 
-Het algoritme 'Eerste Hulp bij Geldzaken' van de gemeente Groningen is het [best beschreven algoritme van 2023](https://www.digitaleoverheid.nl/nieuws/groningen-wint-best-beschreven-algoritme-award/) in het Algoritmeregister. Volgens de jury zijn de technische en ethische aspecten helder beschreven. En burgers krijgen een volledig beeld over de manier waarop de gemeente het algoritme inzet en gebruikt. Hierbij verwijst de gemeente naar externe pagina’s voor meer uitleg.
+Het algoritme 'Eerste Hulp bij Geldzaken' van de gemeente Groningen is het [best beschreven algoritme van 2023](https://www.gemeente.nu/bedrijfsvoering/ai/meerderheid-gemeenten-publiceert-geen-risico-algoritmes/) in het Algoritmeregister. Volgens de jury zijn de technische en ethische aspecten helder beschreven. En burgers krijgen een volledig beeld over de manier waarop de gemeente het algoritme inzet en gebruikt. Hierbij verwijst de gemeente naar externe pagina’s voor meer uitleg.
 
 
 Heb je een ander voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)

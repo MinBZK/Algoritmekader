@@ -21,11 +21,11 @@ Het Algoritmekader is een website van het Ministerie van Binnenlandse Zaken en K
 
 - alle wetten en regels, zoals de [AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX%3A32024R1689&qid=1723226664277) en de [Algemene wet bestuursrecht](https://wetten.overheid.nl/BWBR0005537/2022-11-01/1)
 
-- belangrijke hulpmiddelen, zoals het [IAMA](https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes) (Impact Assessment Mensenrechten en Algoritmes)
+- belangrijke hulpmiddelen, zoals het [IAMA](https://www.rijksoverheid.nl/documenten/rapporten/2026/02/16/impact-assessment-mensenrechten-en-algoritmes) (Impact Assessment Mensenrechten en Algoritmes)
 - adviezen en ervaringen van experts, zoals wetenschappers
 
-## Versie 2.4
-Versie 2.4 is de nieuwste, betrouwbare versie van het Algoritmekader. Deze versie verscheen op 15 september 2025 en bevat de laatste updates en aanpassingen.
+## Versie 2.5
+Versie 2.5 is de nieuwste, betrouwbare versie van het Algoritmekader. Deze versie verscheen op 24 maart 2026 en bevat de laatste updates en aanpassingen.
 
 Tot 19 december 2024 was deze website een bètaversie. De eerste versie van het Algoritmekader was een rapport: [Implementatiekader 'Verantwoorde inzet van algoritmen'](https://www.rijksoverheid.nl/documenten/rapporten/2023/06/30/implementatiekader-verantwoorde-inzet-van-algoritmen). Door het verder ontwikkelen van dit rapport ontstond de website Algoritmekader.
 

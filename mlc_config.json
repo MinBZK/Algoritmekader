@@ -20,6 +20,9 @@
       },
       {
         "pattern": "^https://connect\\.nen\\.nl"
+      },
+      {
+        "pattern": "^https://www\\.go-fair\\.org"
       }
     ],
     "httpHeaders": [

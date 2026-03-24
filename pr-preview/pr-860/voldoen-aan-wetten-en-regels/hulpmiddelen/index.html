@@ -110,6 +110,7 @@
     </div>
     
     
+  
       
 
   
@@ -117,7 +118,10 @@
 <header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
     <a href="../.." title="Algoritmekader" class="md-header__button md-logo" aria-label="Algoritmekader" data-md-component="logo">
-      <img src="../../assets/logo.svg" alt="Home Algoritmekader">
+      <div class="site-logo">
+  <img src="../../assets/logo-icon.svg" alt="Home Algoritmekader" class="site-logo__icon">
+  <span class="site-logo__subtitle">Het Algoritmekader</span>
+</div>
     </a>
     <label class="md-header__button md-icon" for="__drawer">
       
@@ -195,6 +199,25 @@
 <nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
   <div class="md-grid">
     <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
       
         
   
@@ -337,6 +360,23 @@
   
 </header>
     
+  <script>
+    (function() {
+      // Inject mobile menu button
+      var headerInner = document.querySelector('.md-header__inner');
+      if (headerInner) {
+        var btn = document.createElement('label');
+        btn.className = 'mobile-menu-button';
+        btn.setAttribute('for', '__drawer');
+        btn.setAttribute('tabindex', '0');
+        btn.setAttribute('aria-label', 'Menu openen');
+        btn.innerHTML = '<span class="mobile-menu-icon">&#9776;</span><span class="mobile-menu-text">Menu</span>';
+        headerInner.appendChild(btn);
+      }
+
+    })();
+  </script>
+
     <div class="md-container" data-md-component="container">
       
       
@@ -361,12 +401,42 @@
 <nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigatie" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
     <a href="../.." title="Algoritmekader" class="md-nav__button md-logo" aria-label="Algoritmekader" data-md-component="logo">
-      <img src="../../assets/logo.svg" alt="Home Algoritmekader">
+      <div class="site-logo">
+  <img src="../../assets/logo-icon.svg" alt="Home Algoritmekader" class="site-logo__icon">
+  <span class="site-logo__subtitle">Het Algoritmekader</span>
+</div>
     </a>
     Algoritmekader
   </label>
   
   <ul class="md-nav__list" data-md-scrollfix="">
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
     
       
       
@@ -667,7 +737,7 @@
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" checked="">
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" checked="">
         
           
           <div class="md-nav__link md-nav__container">
@@ -689,14 +759,14 @@
             </a>
             
               
-              <label class="md-nav__link " for="__nav_5" id="__nav_5_label" tabindex="">
+              <label class="md-nav__link " for="__nav_6" id="__nav_6_label" tabindex="">
                 <span class="md-nav__icon md-icon"></span>
               </label>
             
           </div>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="true">
-          <label class="md-nav__title" for="__nav_5">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_6">
             <span class="md-nav__icon md-icon"></span>
             
   
@@ -1065,6 +1135,48 @@
 
 
 
+  
+
+
+  <nav class="md-path" aria-label="Navigatie">
+    <ol class="md-path__list">
+      
+        
+  
+  
+    <li class="md-path__item">
+      <a href="../.." class="md-path__link">
+        
+  <span class="md-ellipsis">
+    Home
+  </span>
+
+      </a>
+    </li>
+  
+
+      
+      
+        
+  
+  
+    
+    
+      <li class="md-path__item">
+        <a href="../" class="md-path__link">
+          
+  <span class="md-ellipsis">
+    Voldoen aan wetten en regels
+  </span>
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ol>
+  </nav>
 
               
               <article class="md-content__inner md-typeset">

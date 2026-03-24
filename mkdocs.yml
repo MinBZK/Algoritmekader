@@ -30,6 +30,7 @@ theme:
         annotation: fontawesome/solid/circle-info
 
 nav:
+    - Home: index.md
     - Soorten algoritmes en AI:
          - soorten-algoritmes-en-ai/index.md
          - soorten-algoritmes-en-ai/wat-is-een-algoritme.md

@@ -69,7 +69,7 @@ De sturing en verantwoording is ontoereikend of niet geborgd, waardoor er onvold
 
 ## Bronnen
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
-- [Toetsingskader Algoritmes Algemene Rekenkamer, 1.06, 3.02](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 1.06, 3.02](https://www.rekenkamer.nl/documenten/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Onderzoekskader Algoritmes Auditdienst Rijk, SV.9, SV.19, PRI.1](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 
 ## Voorbeelden

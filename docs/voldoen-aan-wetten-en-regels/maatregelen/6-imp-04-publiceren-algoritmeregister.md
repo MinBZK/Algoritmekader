@@ -56,7 +56,7 @@ Betrokkenen zijn niet op de hoogte dat hun persoonsgegevens worden verwerkt met 
 ## Bronnen
 - [Handreiking Algoritmeregister](https://www.digitaleoverheid.nl/document/handreiking-algoritmeregister/)
 - [Algoritmeregister Publicatiestandaard](https://regels.overheid.nl/standaarden/algoritmeregister-publicatiestandaard)
-- [Toetsingskader Algoritmes Algemene Rekenkamer, 2.11, 3.12, 3.14, 3.16](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 2.11, 3.12, 3.14, 3.16](https://www.rekenkamer.nl/documenten/2024/05/15/het-toetsingskader-aan-de-slag)
 - [Onderzoekskader Algoritmes Auditdienst Rijk, SV.14, PRI.8](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 
 

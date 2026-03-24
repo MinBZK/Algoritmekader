@@ -8,6 +8,15 @@
       },
       {
         "pattern": "^https://www\\.mdpi\\.com/"
+      },
+      {
+        "pattern": "^https://wetten\\.overheid\\.nl/"
+      },
+      {
+        "pattern": "^url$"
+      },
+      {
+        "pattern": "^#$"
       }
     ],
     "httpHeaders": [
@@ -18,8 +27,9 @@
         }
       }
     ],
+    "ignoreRelative": true,
     "retryOn429": true,
     "retryCount": 3,
     "fallbackRetryDelay": "2000ms",
-    "aliveStatusCodes": [200, 206, 302, 403]
+    "aliveStatusCodes": [200, 202, 206, 302, 403]
   }

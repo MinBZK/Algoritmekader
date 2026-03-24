@@ -43,7 +43,7 @@ Het niet goed pseudonimiseren, anonimiseren of aggregeren van persoonsgegevens k
 
 ## Bronnen
 - [Onderzoekskader Auditdienst Rijk, PRI.5](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
-- [Toetsingskader Algoritmes Algemene Rekenkamer, 2.20, 3.06](https://www.rekenkamer.nl/onderwerpen/algoritmes/documenten/publicaties/2024/05/15/het-toetsingskader-aan-de-slag)
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 2.20, 3.06](https://www.rekenkamer.nl/documenten/2024/05/15/het-toetsingskader-aan-de-slag)
 
 ## Voorbeelden
 

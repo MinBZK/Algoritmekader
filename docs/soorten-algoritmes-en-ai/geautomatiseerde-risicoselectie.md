@@ -100,7 +100,7 @@ Het spreekt voor zich dat geautomatiseerde risicoselectie alleen kan worden inge
 * [Autoriteit Persoonsgegevens, Rapportage AI- en algoritmerisico’s Nederland (RAN), zomer 2024, hoofdstuk 4](https://www.autoriteitpersoonsgegevens.nl/documenten/rapportage-ai-algoritmerisicos-nederland-ran-voorjaar-2024)
 * [Autoriteit Persoonsgegevens, 2025, Handvatten betekenisvolle menselijke tussenkomst](https://autoriteitpersoonsgegevens.nl/documenten/handvatten-betekenisvolle-menselijke-tussenkomst)
 * [Kabinetsreactie AP-advies over artikel 22 AVG en geautomatiseerde selectie-instrumenten](https://www.rijksoverheid.nl/documenten/kamerstukken/2024/12/03/kabinetsreacties-ap-advies-inzake-geautomatiseerde-selectie-instrumenten)
-* [Impact Assessment Mensenrechten en Algoritmes](https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes)
+* [Impact Assessment Mensenrechten en Algoritmes](https://www.rijksoverheid.nl/documenten/rapporten/2026/02/16/impact-assessment-mensenrechten-en-algoritmes)
 * [Handreiking non-discriminatie by design](../voldoen-aan-wetten-en-regels/hulpmiddelen/handreiking-non-discriminatie.md)
 
 ## Help ons deze pagina te verbeteren

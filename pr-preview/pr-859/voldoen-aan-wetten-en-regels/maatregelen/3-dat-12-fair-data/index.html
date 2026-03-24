@@ -359,8 +359,8 @@
 </header>
     
   <script>
-    // Inject mobile menu button into the header
     (function() {
+      // Inject mobile menu button
       var headerInner = document.querySelector('.md-header__inner');
       if (headerInner) {
         var btn = document.createElement('label');
@@ -371,6 +371,7 @@
         btn.innerHTML = '<span class="mobile-menu-icon">&#9776;</span><span class="mobile-menu-text">Menu</span>';
         headerInner.appendChild(btn);
       }
+
     })();
   </script>
 

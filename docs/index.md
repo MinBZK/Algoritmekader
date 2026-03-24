@@ -8,9 +8,9 @@ hide:
 
 # Het Algoritmekader
 
-<div class="announcement-banner" id="announcement-banner" style="background-color: #E2EDDB; padding: 16px 24px; margin-bottom: 24px; position: relative; border-left: 4px solid #39870C;">
-  <p style="margin: 0;">Op 24 maart is versie 2.5 van het Algoritmekader gelanceerd. De website ziet er wat anders uit, omdat deze beter aansluit bij andere Rijksoverheidswebsites. De inhoud is niet gewijzigd, dus je kunt het Algoritmekader gewoon blijven gebruiken zoals je gewend bent.</p>
-  <button onclick="this.parentElement.style.display='none'" style="position: absolute; right: 8px; top: 8px; background: none; border: none; font-size: 1.2rem; cursor: pointer; color: #39870C;" aria-label="Sluiten">&times;</button>
+<div class="announcement-banner" id="announcement-banner" style="background-color: #E2EDDB; padding: 16px 40px 16px 24px; margin-bottom: 24px; border-left: 4px solid #39870C; display: flex; align-items: flex-start; gap: 12px;">
+  <p style="margin: 0; flex: 1;">Op 24 maart is versie 2.5 van het Algoritmekader gelanceerd. De website ziet er wat anders uit, omdat deze beter aansluit bij andere Rijksoverheidswebsites. De inhoud is niet gewijzigd, dus je kunt het Algoritmekader gewoon blijven gebruiken zoals je gewend bent.</p>
+  <button onclick="this.parentElement.style.display='none'" style="background: none; border: none; font-size: 1.2rem; cursor: pointer; color: #39870C; flex-shrink: 0;" aria-label="Sluiten">&times;</button>
 </div>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 40px;" class="responsive-grid-2">

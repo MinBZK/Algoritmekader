@@ -1,48 +1,5 @@
 /* Updated to match Algoritmeregister styling and design patterns */
 
-/* Announcement banner */
-.announcement-banner {
-  position: sticky;
-  top: 0;
-  z-index: 10000;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background-color: var(--dark-blue);
-  color: #fff;
-  padding: 12px 48px 12px 24px;
-  font-size: 0.95rem;
-  line-height: 1.5;
-}
-
-.announcement-banner__content {
-  max-width: 1136px;
-  margin: 0 auto;
-}
-
-.announcement-banner__content p {
-  margin: 0;
-  color: #fff;
-}
-
-.announcement-banner__close {
-  position: absolute;
-  right: 16px;
-  top: 50%;
-  transform: translateY(-50%);
-  background: none;
-  border: none;
-  color: #fff;
-  font-size: 1.5rem;
-  cursor: pointer;
-  padding: 4px 8px;
-  line-height: 1;
-}
-
-.announcement-banner__close:hover {
-  opacity: 0.7;
-}
-
 /* Skip Link for Accessibility */
 .skip-link {
   position: absolute;
@@ -469,8 +426,10 @@ a[target="_blank"]:focus,
   color: #154273;
 }
 
-.md-search__overlay{
-  background-color: rgba(0, 0, 0, 0.6);
+/* Announcement banner stays behind search */
+.announcement-banner {
+  position: relative;
+  z-index: 0;
 }
 
 .md-search__output {

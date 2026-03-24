@@ -11,7 +11,7 @@ vereiste:
 maatregel:
 - 0-org-00-inventariseren-algoritmes
 - 0-org-12-periodieke-evaluatie-kwaliteit
-- 1-pba-02-formuleren-doelstelling 
+- 1-pba-02-formuleren-doelstelling
 - 2-owp-06-impactanalyse
 - 5-ver-01-functioneren-in-lijn-met-doeleinden
 - 5-ver-02-evalueer-nauwkeurigheid

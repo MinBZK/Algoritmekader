@@ -263,10 +263,10 @@ tbody tr td a:hover {
   text-align: left;
 }
 
-.float-container {
+.md-typeset .float-container {
   display: grid;
-  grid-template-columns: repeat(3, 1fr); /* 3 columns */
-  gap: 16px; /* Space between the boxes */
+  grid-template-columns: repeat(4, 1fr) !important;
+  gap: 16px;
   padding-bottom: 32px;
   padding-top: 16px;
 }

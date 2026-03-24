@@ -1,5 +1,5 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
+Hash: SHA512
 
 # Domeinen van de Rijksoverheid kunnen met een 302 redirect verwijzen naar
 # het centrale bestand op https://www.ncsc.nl/.well-known/security.txt
@@ -11,14 +11,14 @@ Hash: SHA256
 # because NCSC-NL is the central point of contact for vulnerabilities and
 # incidents for the Dutch central government.
 
-Expires: 2026-01-31T22:59:00.000Z
+Expires: 2027-01-31T22:59:00.000Z
 Canonical: https://minbzk.github.io/Algoritmekader/.well-known/security.txt
 
-Policy: https://www.ncsc.nl/contact/kwetsbaarheid-melden
-Policy: https://english.ncsc.nl/contact/reporting-a-vulnerability-cvd
+Policy: https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd
+Policy: https://www.ncsc.nl/en/cvd-report-form
 
-Contact: https://www.ncsc.nl/contact/kwetsbaarheid-melden
-Contact: https://english.ncsc.nl/contact/reporting-a-vulnerability-cvd
+Contact: https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd
+Contact: https://www.ncsc.nl/en/cvd-report-form
 Contact: mailto:security@ncsc.nl
 Encryption: https://www.ncsc.nl/pgp.txt
 Preferred-Languages: nl, en
@@ -28,16 +28,17 @@ Hiring: https://www.werkenvoornederland.nl
 CSAF: https://advisories.ncsc.nl/.well-known/csaf/provider-metadata.json
 
 -----BEGIN PGP SIGNATURE-----
+Version: Encryption Desktop 10.5.1 (Build 1389)
+Charset: utf-8
 
-iQGzBAEBCAAdFiEEj9lz1UkzuNhtLOX5ytTOqyR+cF8FAmd8/PEACgkQytTOqyR+
-cF8QDgv/c2YnWsb8JWfrol7tjOiiJhpxx70EDKx4eDK55kY/4XrbzkpM9PBnaKCC
-W2dxJutt5tPRtzsb7Ds7b5vS2IZfIjnoJ9h4r2I1AfeWFbP3rkh+omXbX8VLZ0OC
-5jWveqJ+nSINZRcwCKN4ag2k2+CevSrteCcVr4Xi3lFalsUNgqeow1NJ1bZD7mOm
-itguOxMad+BQl8eaJKLOGDBoGDpnH7EepZM+5f9nwQIdRXAbIGF9M+rqkm8qlmGc
-X3ySWI+iZ5MBQ8QkZi9CiXxw0nkbSz2M2jVDURKCZBbLNd+LYO7VuKki5BZiBnZf
-QOXAxr6+gj7+WLZQu2gFkRbz5muke61XZK6s2ep+j+DmSWT48uk7opzu2PHkq6Xd
-XCrNCIH12+EypdSRzJr4a//kXxI10/9l6o36zoWfgzK6XgJIZgcfBXvj4s/HY2KR
-EOkLfDcH0VmTM0yzWGruUZuWM/q39MafnacaAQPvT139f2T1xwjGkX9bHJXv79ab
-VqDL0ddd
-=mZcn
+wsDVAwUBaWDKt4LqVqC9GYRhAQpUiQwAtpYTcMp0uLZIS880fcwQqDpa3aPnRV27
+io4MUE8fvY9m2VxVcSNvNyhTfTMPP6yOeh0dJDVEblnO5EhBrRsPutVWs7fOLlWG
+745JYorUmBgDn6RD6X7gcJ9EdhBCDLozmVchky+7xrGmiUbDnkKArQjr+hJqP140
++JCZT1ovVRkojwoVTAXXksroGEPg8AtjR915vCl0lRKMcFBq5M9jYADmb5SIXyaS
+fERG7bg+mu84YggW+JjorkMtkefBQ/pVZgdlNqDchrM2nK73y5lIaXeES0eDCLy0
+Vc7K/aiTGubUI2vqcEYqFsr0vpxzKR6A0aTPMnv4s2Cgmxdx8GNOiESBwuI5ht5b
+iKC4bQGPZVy1cZhJWSxTGiXK4aV/w+4dWxcO0OObo//++2w5JXXRF5A0d12Lzu3c
+YKD3cnPylkdSqTJlCLThgANyQnq746Ih+aLdFgcE2GcnpYNpfLb5ofcbjc9VO5ch
+t96mkI8viP/FfODZMatYfC51jfO8FsgK
+=hCvn
 -----END PGP SIGNATURE-----

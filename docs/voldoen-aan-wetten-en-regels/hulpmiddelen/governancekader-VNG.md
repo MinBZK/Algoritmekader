@@ -48,10 +48,12 @@ hide:
 Het governancekader AI en algoritmen is een interactieve website, ontwikkeld voor en door gemeenten. Het governancekader geeft inzicht in welke rollen er nodig zijn en welke processtappen doorlopen worden om AI en algoritmen op een bewuste en verantwoorde manier in de organisatie in te zetten; zowel voor gemeenten die net beginnen met AI en algoritmen, als voor gemeenten die al ervaren zijn met de inzet ervan. Ook andere overheidsorganisaties kunnen het kader gebruiken als houvast of ter inspiratie. Veel van de instrumenten, definities en kaders zijn landelijk of overheidsbreed. Het governancekader bevat verschillende onderdelen, waaronder:
 
 * <b>De kennisbank</b>: Hier vind je informatie over instrumenten en kaders die gebruikt worden door gemeenten bij de verantwoorde inzet van AI & algoritmen.
-* <b>Rollen</b>: Hier krijg je inzicht in welke rollen, taken en verantwoordelijkheden een aandeel hebben in de verantwoorde inzet van AI in de gemeentelijke organisatie.
-* <b>Processtappen</b>: Hier vind je de processtappen die doorlopen kunnen worden wanneer je gebruik wil gaan maken van AI of algoritmen in jouw gemeente of wilt (laten) ontwikkelen intern of door een leverancier.
+* <b>Rollen</b>: Hier krijg je inzicht in welke rollen een aandeel hebben in de verantwoorde inzet van AI in de gemeentelijke organisatie.
+* <b>Processtappen</b>: Hier vind je de processtappen die doorlopen kunnen worden wanneer je gebruik wil gaan maken van AI of algoritmen in jouw gemeente of wilt (laten) ontwikkelen, intern of door een leverancier.
 
 De filterfunctie geeft relevante kenniskaarten per rol of combinatie van rollen weer, zodat de hoeveelheid informatie relevant en behapbaar is voor de gebruiker.
+
+Je kunt dit kader toepassen voor je eigen projecten en organisatie. Na het aanmaken van een gratis account kun je eigen projecten en projectteams aanmaken, rollen toewijzen en collega’s uitnodigen om samen de processtappen te doorlopen. Je voortgang wordt automatisch opgeslagen en je kunt een PDF-rapport downloaden voor documentatiedoeleinden.
 
 ## Relevantie
 <!-- Beschrijf hier de specifieke relevantie van dit hulpmiddel voor overheidsorganisaties die bezig zijn met algoritmes. -->

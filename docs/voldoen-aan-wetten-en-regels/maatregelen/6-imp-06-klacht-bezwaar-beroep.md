@@ -40,7 +40,7 @@ Een risico van het niet gebruik maken van een proces voor het indienen van klach
 
 ## Bronnen
 - [Onderzoekskader algoritmes, Auditdienst Rijk, SV.17 en PRI.9](../hulpmiddelen/onderzoekskader-adr.md)
-- [Toetsingskader Algoritmes Algemene Rekenkamer, 1.08](https://www.rekenkamer.nl/documenten/2024/05/15/het-toetsingskader-aan-de-slag)
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 1.08](https://www.rekenkamer.nl/documenten/2026/03/30/het-toetsingskader-aan-de-slag)
 - [Onderzoek misbruik uitwonendenbeurs, PricewaterhouseCoopers](https://www.rijksoverheid.nl/documenten/rapporten/2024/03/01/eindrapport-pwc-rapportage-onderzoek-misbruik-uitwonendenbeurs)
 - [Intern onderzoek controle uitwonendenbeurs, DUO](https://www.rijksoverheid.nl/documenten/rapporten/2024/03/01/intern-onderzoeksrapport-controle-uitwonendenbeurs-duo)
 - [Toetsingskader risicoprofilering – Normen tegen discriminatie op grond van ras en nationaliteit, College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/4093c026-ae41-4c1d-aa78-4ce0e205b5de)

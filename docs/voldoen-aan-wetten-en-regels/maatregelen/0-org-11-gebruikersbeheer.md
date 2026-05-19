@@ -75,7 +75,7 @@ Er bestaan meerdere risico's wanneer er geen gebruikersbeheer is:
 
 - [Baseline Informatiebeveiliging Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/)
 - [Onderzoekskader Algoritmes Auditdienst Rijk, IB.10 t/m IB.17](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
-- [Toetsingskader Algoritmes Algemene Rekenkamer, 4.01, 4.02, 4.04, 4.05](https://www.rekenkamer.nl/documenten/2024/05/15/het-toetsingskader-aan-de-slag)
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 4.01, 4.02, 4.04, 4.05](https://www.rekenkamer.nl/documenten/2026/03/30/het-toetsingskader-aan-de-slag)
 
 ## Voorbeelden
 

@@ -50,7 +50,7 @@ Algoritmes van aanbieders nemen besluitvormende taken over, zonder dat daar zich
 
 ## Bronnen
 - [Onderzoekskader Auditdienst Rijk, PRI.10](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
-- [Toetingskader Algemene Rekenkamer, 2.10](https://www.rekenkamer.nl/documenten/2024/05/15/het-toetsingskader-aan-de-slag)
+- [Toetingskader Algemene Rekenkamer, 2.10](https://www.rekenkamer.nl/documenten/2026/03/30/het-toetsingskader-aan-de-slag)
 
 ## Voorbeelden
 

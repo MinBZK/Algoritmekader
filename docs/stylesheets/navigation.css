@@ -822,3 +822,48 @@ html body .md-header label[for="__drawer"]:not(.mobile-menu-button) {
     display: none !important;
   }
 }
+
+/* Custom mobile menu button - styled like Algoritmeregister */
+/* Uses a visible label for __drawer positioned in the header */
+@media screen and (max-width: 800px) {
+  .md-header__inner {
+    position: relative;
+  }
+
+  .mobile-menu-button {
+    display: flex !important;
+    align-items: center;
+    gap: 8px;
+    background-color: var(--white);
+    color: var(--dark-blue);
+    border: 1px solid var(--dark-blue);
+    border-radius: 0.25em;
+    padding: 0.9em 1em 0.8em 1em;
+    font-family: "RijksSansWeb", "ROsanswebtextregular", sans-serif;
+    font-size: 1.125rem;
+    font-weight: 700;
+    cursor: pointer;
+    position: absolute;
+    right: 16px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .mobile-menu-button:hover,
+  .mobile-menu-button:focus {
+    background-color: var(--bg-light-blue);
+    outline: 2px solid var(--dark-blue);
+    outline-offset: 2px;
+  }
+
+  .mobile-menu-icon {
+    font-size: 1.25rem;
+    line-height: 1;
+  }
+}
+
+@media screen and (min-width: 801px) {
+  .mobile-menu-button {
+    display: none !important;
+  }
+}

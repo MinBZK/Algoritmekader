@@ -53,7 +53,7 @@ Maak een meerjarig actieplan om toe te werken naar een volwassen niveau van AI-g
 ## Bronnen
 - [Aan de slag met AI-geletterdheid, Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/documenten/aan-de-slag-met-ai-geletterdheid)
 - [Onderzoekskader Algoritmes Auditdienst Rijk, SV.12](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
-- [Toetsingskader Algoritmes Algemene Rekenkamer, 1.04](https://www.rekenkamer.nl/documenten/2024/05/15/het-toetsingskader-aan-de-slag)
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 1.04](https://www.rekenkamer.nl/documenten/2026/03/30/het-toetsingskader-aan-de-slag)
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->

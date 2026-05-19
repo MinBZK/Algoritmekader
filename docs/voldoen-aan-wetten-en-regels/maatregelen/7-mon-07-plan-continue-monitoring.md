@@ -65,7 +65,7 @@ Tijdens dagelijks gebruik wil je continu monitoren of het systeem nog werkt zoal
 	<!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
-- [Toetsingskader Algemene Rekenkamer, 2.14](https://www.rekenkamer.nl/documenten/2024/05/15/het-toetsingskader-aan-de-slag)
+- [Toetsingskader Algemene Rekenkamer, 2.14](https://www.rekenkamer.nl/documenten/2026/03/30/het-toetsingskader-aan-de-slag)
 - [Toetsingskader risicoprofilering – Normen tegen discriminatie op grond van ras en nationaliteit, College voor de Rechten van de Mens](https://publicaties.mensenrechten.nl/publicatie/4093c026-ae41-4c1d-aa78-4ce0e205b5de)
 
 ## Voorbeelden

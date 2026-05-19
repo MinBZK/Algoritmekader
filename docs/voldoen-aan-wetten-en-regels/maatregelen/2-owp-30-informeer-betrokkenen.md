@@ -78,7 +78,7 @@ Het risico is dat partijen niet of onvolledig worden geïnformeerd over de ontwi
 ## Bronnen
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
-- [Toetsingskader Algemene Rekenkamer, 2.09, 3.13, 3.15](https://www.rekenkamer.nl/documenten/2024/05/15/het-toetsingskader-aan-de-slag)
+- [Toetsingskader Algemene Rekenkamer, 2.09, 3.13, 3.15](https://www.rekenkamer.nl/documenten/2026/03/30/het-toetsingskader-aan-de-slag)
 - [Bouwstenen van een communicatieplan](https://communicatiekompas.nl/hulpmiddelen/bouwstenen-van-een-communicatieplan)
 - [Wmo Voorspelmodel met handreiking](https://wmovoorspelmodel.vng.nl/)
 - [Maatwerkscan UWV](https://www.uwv.nl/nl/over-uwv/organisatie/algoritmeregister-uwv/maatwerkscan)

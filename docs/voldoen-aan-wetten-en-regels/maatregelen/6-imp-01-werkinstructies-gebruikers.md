@@ -73,7 +73,7 @@ Het algoritme wordt onjuist gebruikt of verkeerd geïnterpreteerd door gebruiker
 ## Bronnen
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
 
-- [Toetsingskader Algoritmes Algemene Rekenkamer, 3.07](https://www.rekenkamer.nl/documenten/2024/05/15/het-toetsingskader-aan-de-slag)
+- [Toetsingskader Algoritmes Algemene Rekenkamer, 3.07](https://www.rekenkamer.nl/documenten/2026/03/30/het-toetsingskader-aan-de-slag)
 - [Onderzoekskader algoritmes, Auditdienst Rijk, DM.3, DM.10 en DM.12](../hulpmiddelen/onderzoekskader-adr.md)
 - [Ethics Guidelines of Trustworthy AI](https://op.europa.eu/en/publication-detail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a1)
 - [Handreiking non-discriminatie by design](../hulpmiddelen/handreiking-non-discriminatie.md)

@@ -24,7 +24,7 @@ hide:
     Belangrijkste deadlines uit de AI-verordening met de vereisten waaraan je moet voldoen.
 
 
--   ## <a onclick="showModal(event, 'beslishulp AI-verordening', {redirectUrl: '../voldoen-aan-wetten-en-regels/vereisten/'})" onkeydown="if(event.key === 'Enter' || event.key === ' ') { event.preventDefault(); showModal(event, 'beslishulp AI-verordening', {redirectUrl: '../voldoen-aan-wetten-en-regels/vereisten/'}); }" href="../voldoen-aan-wetten-en-regels/vereisten/index.md">Beslishulp AI-verordening</a>
+-   ## <a onclick="showModal(event, 'beslishulp AI-verordening', {redirectUrl: 'voldoen-aan-wetten-en-regels/vereisten/'})" onkeydown="if(event.key === 'Enter' || event.key === ' ') { event.preventDefault(); showModal(event, 'beslishulp AI-verordening', {redirectUrl: 'voldoen-aan-wetten-en-regels/vereisten/'}); }" href="../voldoen-aan-wetten-en-regels/vereisten/index.md">Beslishulp AI-verordening</a>
 
     ---
 

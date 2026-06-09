@@ -61,7 +61,7 @@ Doelstellingen zijn in dat geval moeilijk bespreekbaar.
 
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 1.01, 1.02](https://www.rekenkamer.nl/documenten/2026/03/30/het-toetsingskader-aan-de-slag)
 - [Impact Assessment Mensenrechten en Algoritmes, 1.2](https://www.rijksoverheid.nl/documenten/rapporten/2026/02/16/impact-assessment-mensenrechten-en-algoritmes)
-- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.3, DM.7](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.3, DM.7](https://www.rijksoverheid.nl/documenten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 
 
 ## Voorbeelden

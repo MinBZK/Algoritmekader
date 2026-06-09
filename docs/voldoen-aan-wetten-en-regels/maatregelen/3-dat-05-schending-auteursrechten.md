@@ -36,7 +36,7 @@ Hier kan worden gedacht aan data die is gescraped van het internet en zou kunnen
 Onrechtmatig gebruik van data dat niet toegeëigend is aan de organisatie die de data gebruikt voor ontwikkeling van algoritmes.
 
 ## Bronnen
-- [Onderzoekskader Auditdienst Rijk, SV.11](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [Onderzoekskader Auditdienst Rijk, SV.11](https://www.rijksoverheid.nl/documenten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 
 ## Voorbeelden
 

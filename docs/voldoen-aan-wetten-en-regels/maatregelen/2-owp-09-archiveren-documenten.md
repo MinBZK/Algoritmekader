@@ -53,7 +53,7 @@ Bij het niet vaststellen van de archeifbescheiden loop je als organisatie het ri
 ## Bronnen
 - [Rekenen en rekenschap, essay over algoritmes en de Archiefwet, Inspectie Overheidsinformatie en Erfgoed](https://www.inspectie-oe.nl/publicaties/publicatie/2021/01/21/rekenen-en-rekenschap)
 - [Toetsingskader Algemene Rekenkamer 4.06](https://www.rekenkamer.nl/onderwerpen/algoritmes/toetsingskader)
-- [Onderzoekskader Auditdienst Rijk, DM.13](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [Onderzoekskader Auditdienst Rijk, DM.13](https://www.rijksoverheid.nl/documenten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 
 ## Voorbeelden
 

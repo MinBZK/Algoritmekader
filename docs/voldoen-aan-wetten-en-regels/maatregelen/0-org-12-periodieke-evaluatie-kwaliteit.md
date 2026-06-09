@@ -53,7 +53,7 @@ Zonder evaluatie van de kwaliteit van het algoritme is er geen goede sturing, be
     <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
-- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.15, SV.16, SV.17 ](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.15, SV.16, SV.17 ](https://www.rijksoverheid.nl/documenten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 1.08](https://www.rekenkamer.nl/documenten/2026/03/30/het-toetsingskader-aan-de-slag)
 
 

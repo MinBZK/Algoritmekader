@@ -50,7 +50,7 @@ Zonder voldoende expertise en capaciteit kan het zijn dat het ontwikkelen, inkop
     <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
-- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.12](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.12](https://www.rijksoverheid.nl/documenten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 1.04](https://www.rekenkamer.nl/documenten/2026/03/30/het-toetsingskader-aan-de-slag)
 - [Competencies and governance practices for AI in the public sector. Zie hoofdstuk 4](https://op.europa.eu/en/publication-detail/-/publication/949913fa-aae4-11ef-acb1-01aa75ed71a1/language-en)
 

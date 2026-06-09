@@ -61,7 +61,7 @@ Als er geen rekening wordt gehouden met de uitlegbaarheid van een algoritme binn
 
 ## Bronnen
 
-- [Onderzoekskader Auditdienst Rijk, DM.11](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [Onderzoekskader Auditdienst Rijk, DM.11](https://www.rijksoverheid.nl/documenten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Toetsingskader Algoritmes, Algemene Rekenkamder, 2.04](https://www.rekenkamer.nl/documenten/2026/03/30/het-toetsingskader-aan-de-slag)
 - [Toolkit voor implementatie](https://xaitk.org/)
 - [An introduction to explainable AI with Shapley values](https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html)

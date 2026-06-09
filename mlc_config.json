@@ -23,6 +23,9 @@
       },
       {
         "pattern": "^https://www\\.go-fair\\.org"
+      },
+      {
+        "pattern": "^https://www\\.rijksoverheid\\.nl/documenten/brieven/2023/10/10/1-advies-landsadvocaat-pels-rijcken"
       }
     ],
     "httpHeaders": [

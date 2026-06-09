@@ -57,7 +57,7 @@ Daarnaast kunnen onbewuste fouten ertoe leiden dat het model niet meer goed func
 
 ## Bronnen
 - [IBM, What is a prompt injection attack?](https://www.ibm.com/topics/prompt-injection)
-- [Onderzoekskader Auditdienst Rijk, DM.9](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [Onderzoekskader Auditdienst Rijk, DM.9](https://www.rijksoverheid.nl/documenten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Toetsingskader Algemene Rekenkamer, 2.08](https://www.rekenkamer.nl/documenten/2026/03/30/het-toetsingskader-aan-de-slag)
 
 ## Voorbeelden

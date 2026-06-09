@@ -60,7 +60,7 @@ Risico's worden niet (tijdig) vastgesteld en adequaat geadresseerd en behandeld.
 
 ## Bronnen
 <!-- Vul hier de relevante bronnen in voor deze maatregel -->
-- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.13 ](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.13 ](https://www.rijksoverheid.nl/documenten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Toetsingskader Algoritmes Algemene Rekenkamer, 1.03](https://www.rekenkamer.nl/documenten/2026/03/30/het-toetsingskader-aan-de-slag)
 - [OWASP Risk Rating Methodology](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology)
 

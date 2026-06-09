@@ -55,7 +55,7 @@ De in te zetten algoritmes voldoen niet aan vastgestelde beleidskaders.
 
 ## Bronnen
 
-- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.8](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.8](https://www.rijksoverheid.nl/documenten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 
 ## Voorbeelden
 

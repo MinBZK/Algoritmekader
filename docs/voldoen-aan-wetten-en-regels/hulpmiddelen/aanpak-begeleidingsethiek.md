@@ -59,7 +59,7 @@ Op de [site](https://begeleidingsethiek.nl/) staan voorbeelden, filmpjes. In de 
 
 ## Relevantie
 <!-- Beschrijf hier de specifieke relevantie van dit hulpmiddel voor overheidsorganisaties die bezig zijn met algoritmes. -->
-De aanpak wordt zowel ingezet in de ontwikkelingsfase als in de implementatiefase. Het geeft zowel een ethische reflectie als een volgende stap in het innovatie-implementatieproces. Zowel inhoudelijk als qua betrokkenheid en draagvlak. De Aanpak begeleidingsethiek is regelmatig ingezet door gemeentes, provincies uitvoeringsorganisaties en departementen. De [verslagen](https://begeleidingsethiek.nl/cases/) worden (bij toestemming) gedeeld, zodat gezamenlijk leren plaats kan vinden. 
+De aanpak wordt zowel ingezet in de ontwikkelingsfase als in de implementatiefase. Het geeft zowel een ethische reflectie als een volgende stap in het innovatie-implementatieproces. Zowel inhoudelijk als qua betrokkenheid en draagvlak. De Aanpak begeleidingsethiek is regelmatig ingezet door gemeentes, provincies uitvoeringsorganisaties en departementen. De [verslagen](https://begeleidingsethiek.nl/cases/) worden (bij toestemming) gedeeld, zodat gezamenlijk leren plaats kan vinden.
 
 Ook zijn er thema-sessies georganiseerd waar meerdere sessies over hetzelfde thema zijn gehouden. De afgelopen jaren zijn door het ministerie van Binnenlandse Zaken en Koninkrijksrelaties rond een tiental thema’s sessies met de aanpak begeleidingsethiek gehouden gevolgd door een werkconferentie en de conclusies/interviews/filmpjes/scenario’s. Een voorbeeld hiervan is op [het thema AI-agents](https://begeleidingsethiek.nl/nieuws/toekomstscenarios-ai-agents/).
 

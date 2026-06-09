@@ -81,7 +81,7 @@ Hierdoor kan geen verantwoording worden geboden.
     <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
-- [Onderzoekskader Auditdienst Rijk, DM.14](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [Onderzoekskader Auditdienst Rijk, DM.14](https://www.rijksoverheid.nl/documenten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [MLOps Principles: Reproducability](https://ml-ops.org/content/mlops-principles#reproducibility)
 - [Ministerie van Infrastructuur en Waterstaat, AI Impact Assessment](https://www.rijksoverheid.nl/documenten/rapporten/2022/11/30/ai-impact-assessment-ministerie-van-infrastructuur-en-waterstaat)
 - [Harald Semmelrock, et al., Reproducibility in Machine Learning-Driven Research](https://arxiv.org/abs/2307.10320)

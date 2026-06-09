@@ -37,8 +37,8 @@ Als er geen controlepunten aanwezig zijn in de levenscyclus van een algoritmegov
     <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
-- [Hulpmiddel handelingsruimte waardevolle AI in de zorg](https://nlaic.com/wp-content/uploads/2022/06/04a)
-- [AI lifecycle management in de zorg, Nederlandse AI Coalitie](https://nlaic.com/toepassingsgebieden/samenvatting-life-cycle-management/)
+- [Hulpmiddel handelingsruimte waardevolle AI in de zorg](https://www.datavoorgezondheid.nl/documenten/2021/07/15/hulpmiddel-handelingsruimte-waardevolle-ai-voor-gezondheid)
+- AI lifecycle management in de zorg, Nederlandse AI Coalitie
 - UWV Beleidsdocument model risico management, Modellevenscyclus (blz 21), 29 september 2021
 - [Toetsingskader Algemene Rekenkamer, 1.07](https://www.rekenkamer.nl/documenten/2026/03/30/het-toetsingskader-aan-de-slag)
 

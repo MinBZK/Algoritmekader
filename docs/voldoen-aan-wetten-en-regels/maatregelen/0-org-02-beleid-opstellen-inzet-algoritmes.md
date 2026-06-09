@@ -69,7 +69,7 @@ Zonder duidelijk beleid over de inzet van algoritmes kan het gebeuren dat algori
     <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
-- [Onderzoekskader Auditdienst Rijk, SV.8](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [Onderzoekskader Auditdienst Rijk, SV.8](https://www.rijksoverheid.nl/documenten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [IPO Whitepaper ChatGPT, overwegingen voor verantwoord gebruik](https://www.ipo.nl/wp-content/uploads/sites/5/2025/08/Ipo-whitepaper-verkenning-chatgpt.pdf)
 
 ## Voorbeelden

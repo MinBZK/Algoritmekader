@@ -59,7 +59,7 @@ Houd in elk geval rekening met:
 
 !!! tip "Governancekader VNG"
 
-    Werk je bij een gemeente? Je kunt [het VNG-Governancekader](https://aigovernance.vng.nl/) alvast raadplegen. Hierop vind je diverse hulpmiddelen die te maken hebben met AI-governance. Dit Governancekader is nog in ontwikkeling.
+    Werk je bij een gemeente? Je kunt [het VNG-Governancekader AI en algoritmen](https://aigovernance.vng.nl/) raadplegen en toepassen. Hier vind je informatie en praktische instrumenten die te maken hebben met AI-governance. Ook kun je eigen projecten aanmaken en de processtappen doorlopen met jouw projectteam.
 
 ## Vereisten
 

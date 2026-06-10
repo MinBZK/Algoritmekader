@@ -26,26 +26,26 @@ hide: navigation
 
 <!-- tags -->
 
-[Direct naar het IAMA](https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes){ .button .md-button--secondary }
+[Direct naar het IAMA](https://www.rijksoverheid.nl/documenten/rapporten/2026/02/16/impact-assessment-mensenrechten-en-algoritmes){ .button .md-button--secondary }
 
 ## Hulpmiddel
-Het Impact Assessment voor Mensenrechten bij de inzet van Algoritmes (IAMA) is een instrument voor overheidsorganen om een interdisciplinaire dialoog en besluitvorming te faciliteren bij de ontwikkeling en inzet van algoritmische systemen.
-Het IAMA stelt een reeks vragen die moeten worden besproken en beantwoord om een zorgvuldige afweging van de inzet van algoritmen te waarborgen.
-Dit proces is onderverdeeld in drie fasen: voorbereiding, input en throughput, en output en toezicht, waarbij steeds aandacht wordt besteed aan het vierde onderdeel van het IAMA: de impact op mensenrechten.
-Het IAMA fungeert als naslagwerk voor de besluitvorming en is gekoppeld aan andere relevante richtlijnen en instrumenten, zoals de [gegevensbeschermingseffectbeoordeling (ook wel DPIA)](../vereisten/avg-13-dpia-verplicht.md).
-Hierdoor biedt het een overkoepelend kader dat helpt om algoritmen verantwoord te implementeren en mogelijke risico’s, zoals inbreuken op grondrechten, te identificeren en te mitigeren.
+Het Impact Assessment Mensenrechten en Algoritmes (IAMA) is een instrument voor overheidsorganen dat een interdisciplinaire dialoog faciliteert en besluitvorming ondersteunt bij de ontwikkeling en inzet van algoritmische systemen. Het IAMA is toepasbaar op zowel AI-systemen als andere algoritmen. Het instrument richt zich vooral op de impact op grondrechten, maar biedt ook ruimte om andere relevante aandachtspunten vroegtijdig en gestructureerd in kaart te brengen. Zo helpt het om risico’s tijdig en zorgvuldig te beoordelen voordat een algoritme wordt ingezet. Het IAMA fungeert als naslagwerk voor de besluitvorming.
 
+In februari 2026 is het IAMA geactualiseerd. De nieuwe versie sluit beter aan op praktijkervaringen binnen de overheid en op de AI-verordening. De actualisatie is gebaseerd op gebruikersfeedback en maakt het instrument overzichtelijker en beter toepasbaar. Tevens is er een apart [toelichtingsdocument](https://www.rijksoverheid.nl/documenten/rapporten/2026/02/16/toelichtingsdocument-impact-assessment-mensenrechten-en-algoritmes) aan toegevoegd.
+
+Het IAMA wordt in het bijzonder aanbevolen voor hoog-risico AI-systemen en impactvolle algoritmen.
 
 ## Relevantie
-Het IAMA kan op dit moment op veel politieke en internationale belangstelling rekenen.
-In zowel de Eerste als Tweede Kamer zijn hierover [moties ingediend](https://www.tweedekamer.nl/kamerstukken/moties/detail?id=2022D12329&did=2022D12329) en vragen gesteld.
-Daarbij is het IAMA een van de weinige instrumenten in de EU die een interdisciplinaire discussie rondom (de ontwikkeling, inzet en monitoring van) algoritmes, AI en grondrechten initieert en bevordert.
+Het IAMA staat zowel nationaal als Europees in de belangstelling. In zowel de Eerste als Tweede Kamer zijn hierover moties ingediend en Kamervragen gesteld.
 
-Het IAMA heeft enige overlap met de AIIA. Het AIIA is echter specifiek voor AI ontwikkeld, waar het IAMA toepasbaar is op alle soorten algoritmes.
+Met de inwerkingtreding van de AI-verordening in 2024 is het belang van impactanalyses verder toegenomen. Het IAMA ondersteunt overheidsorganisaties bij de nationale implementatie van deze regelgeving.
 
+Het IAMA heeft enige overlap met het Rijksmodel DPIA. Een DPIA richt zich op hoog-risico verwerkingen van persoonsgegevens. BZK heeft [een handreiking](https://www.cip-overheid.nl/producten-en-diensten/handreiking-gebruik-iama-samen-met-model-dpia-rijksdienst) opgesteld voor het gezamenlijk gebruik van het Rijksmodel DPIA en IAMA.
+
+Het IAMA heeft ook enige overlap met het AIIA (AI Impact Assessment). Het AIIA is ontwikkeld door het ministerie van Infrastructuur en Waterstaat en richt zich specifiek op AI-systemen, terwijl het IAMA breder toepasbaar is op alle vormen van algoritmegebruik binnen de overheid.
 
 ## Auteur
-Het IAMA is ontwikkeld door de [Utrecht Data School](https://dataschool.nl/iama/). De auteurs van het IAMA zijn prof. mr. Janneke Gerards, dr. Mirko Tobias Schäfer, Arthur Vankan en Iris Muis, allen werkzaam aan de Universiteit Utrecht. Opdrachtgever voor de ontwikkeling is het Ministerie van Binnenlandse Zaken.
+Het IAMA is in 2021 ontwikkeld door de [Utrecht Data School](https://dataschool.nl/iama/). Opdrachtgever voor de ontwikkeling is het Ministerie van Binnenlandse Zaken.
 
 ## Bijbehorende vereisten { data-search-exclude }
 
@@ -56,11 +56,12 @@ Het IAMA is ontwikkeld door de [Utrecht Data School](https://dataschool.nl/iama/
 <!-- list_maatregelen_on_hulpmiddelen_page -->
 
 ## Bronnen
-[Impact Assessment Mensenrechten en Algoritmes](https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes)
+- [Impact Assessment Mensenrechten en Algoritmes](https://www.rijksoverheid.nl/documenten/rapporten/2026/02/16/impact-assessment-mensenrechten-en-algoritmes)
+- [Toelichtingsdocument Impact Assessment Mensenrechten en Algoritmes](https://www.rijksoverheid.nl/documenten/rapporten/2026/02/16/toelichtingsdocument-impact-assessment-mensenrechten-en-algoritmes)
+- [Handreiking gebruik IAMA samen met Model DPIA Rijksdienst](https://www.cip-overheid.nl/producten-en-diensten/handreiking-gebruik-iama-samen-met-model-dpia-rijksdienst)
 
 ## Voorbeeld
 
 Benieuwd naar ervaringen in de praktijk? Bekijk het rapport [IAMA in Actie](https://www.rijksoverheid.nl/documenten/rapporten/2024/06/20/iama-in-actie-lessons-learned-van-15-iama-trajecten-bij-nederlandse-overheidsorganisaties) voor de lessons learned van 15 IAMA-trajecten bij Nederlandse overheidsorganisaties.
-
 
 Heb jij een goed voorbeeld? Laat het ons weten!

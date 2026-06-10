@@ -48,7 +48,7 @@ Er is onvoldoende zicht op risico's op het gebied van informatiebeveiliging als 
 ## Bronnen
 
 - [Baseline Informatiebeveiliging Overheid, BIO 15.1.1.1](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/)
-- [Onderzoekskader Algoritmes Auditdienst Rijk, IB.29](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [Onderzoekskader Algoritmes Auditdienst Rijk, IB.29](https://www.rijksoverheid.nl/documenten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 
 ## Voorbeelden
 

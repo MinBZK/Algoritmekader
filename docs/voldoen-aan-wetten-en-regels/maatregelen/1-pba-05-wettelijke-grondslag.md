@@ -39,7 +39,7 @@ Het algoritme en beoogde besluiten voldoen niet aan wet- en regelgeving en inter
     <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
-- [Onderzoekskader Auditdienst Rijk, SV.7, PRI.6](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [Onderzoekskader Auditdienst Rijk, SV.7, PRI.6](https://www.rijksoverheid.nl/documenten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 - [Impact Assessment Mensenrechten en Algoritmes, 1.4](../hulpmiddelen/IAMA.md)
 
 ## Voorbeelden

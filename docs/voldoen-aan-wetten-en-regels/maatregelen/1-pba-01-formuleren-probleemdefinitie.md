@@ -38,8 +38,8 @@ Zonder eenduidigheid over het op te lossen probleem is geen sturing op en verant
 
 ## Bronnen
 
-- [Impact Assessment Mensenrechten en Algoritmes, 1.01](https://www.rijksoverheid.nl/documenten/rapporten/2021/02/25/impact-assessment-mensenrechten-en-algoritmes)
-- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.1](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+- [Impact Assessment Mensenrechten en Algoritmes, 1.01](https://www.rijksoverheid.nl/documenten/rapporten/2026/02/16/impact-assessment-mensenrechten-en-algoritmes)
+- [Onderzoekskader Algoritmes Auditdienst Rijk, SV.1](https://www.rijksoverheid.nl/documenten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 
 ## Voorbeelden
 

@@ -84,8 +84,11 @@ function showModal(event, modalId, options = {}) {
 
   // Store redirect URL if provided
   if (options.redirectUrl) {
-    // If redirectUrl is relative, make it absolute with basePath
-    const redirectUrl = options.redirectUrl.startsWith('/') ? options.redirectUrl : `${basePath}/${options.redirectUrl}`;
+    // redirectUrl is relative to the site root (basePath). Strip any leading
+    // ./ or ../ segments so the path can't escape the project root and send
+    // users off-site (e.g. a GitHub Pages 404 outside /Algoritmekader/).
+    const relativeUrl = options.redirectUrl.replace(/^(?:\.\.?\/)+/, '');
+    const redirectUrl = options.redirectUrl.startsWith('/') ? options.redirectUrl : `${basePath}/${relativeUrl}`;
     sessionStorage.setItem('pendingRedirect', redirectUrl);
   }
 

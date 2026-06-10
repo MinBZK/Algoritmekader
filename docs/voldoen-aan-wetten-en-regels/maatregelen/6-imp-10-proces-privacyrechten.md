@@ -43,7 +43,7 @@ Betrokkenen hebben geen controle over hun persoonsgegevens doordat ze geen beroe
     <!-- list_vereisten_on_maatregelen_page -->
 
 ## Bronnen
-[Onderzoekskader Algoritmes Auditdienst Rijk, PRI.9](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
+[Onderzoekskader Algoritmes Auditdienst Rijk, PRI.9](https://www.rijksoverheid.nl/documenten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
 
 ## Voorbeelden
 

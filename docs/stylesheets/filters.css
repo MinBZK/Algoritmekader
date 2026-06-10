@@ -2,7 +2,7 @@
 .filter-container {
   display: flex;
   flex-wrap: wrap;
-  gap: 12px;
+  gap: 20px !important;
   max-width: 100%;
   box-sizing: border-box;
   align-items: flex-start;
@@ -20,12 +20,12 @@
 
 /* Style each filter item */
 .filter-item {
-  flex: 1 1 250px;
+  flex: 1 1 0;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   min-height: 48px !important;
-  max-width: calc(45% - 6px);
+  min-width: 0;
 }
 
 
@@ -41,8 +41,6 @@
   font-size: 16px;
   font-family: "ROsanswebtextregular", sans-serif;
   width: 100%;
-  min-width: 250px;
-  width: 260px;
   min-height: 48px;
   text-align: left;
 }
@@ -81,7 +79,7 @@
   padding: 0 !important;
   background-color: #ffffff;
   min-height: 44px !important;
-  width: 260px !important;
+  width: 100% !important;
   border: 2px solid #154273;
   border-radius: 5px;
   position: relative;

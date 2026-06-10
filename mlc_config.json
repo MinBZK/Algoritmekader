@@ -8,6 +8,24 @@
       },
       {
         "pattern": "^https://www\\.mdpi\\.com/"
+      },
+      {
+        "pattern": "^https://wetten\\.overheid\\.nl/"
+      },
+      {
+        "pattern": "^url$"
+      },
+      {
+        "pattern": "^(?!https?://)"
+      },
+      {
+        "pattern": "^https://connect\\.nen\\.nl"
+      },
+      {
+        "pattern": "^https://www\\.go-fair\\.org"
+      },
+      {
+        "pattern": "^https://www\\.rijksoverheid\\.nl/documenten/brieven/2023/10/10/1-advies-landsadvocaat-pels-rijcken"
       }
     ],
     "httpHeaders": [
@@ -18,8 +36,9 @@
         }
       }
     ],
+    "ignoreRelative": true,
     "retryOn429": true,
     "retryCount": 3,
     "fallbackRetryDelay": "2000ms",
-    "aliveStatusCodes": [200, 206, 302, 403]
+    "aliveStatusCodes": [200, 202, 206, 302, 403]
   }

@@ -22,19 +22,27 @@ Dat kan op verschillende manieren. Zie onze
 
 ### Lokaal ontwikkelen
 
-Het Algoritmekader project kan lokaal met behulp van [Python](https://www.python.org/) worden gedraaid. Installeer
-hiervoor de benodigde packages in een [virtual environment](https://docs.python.org/3/library/venv.html):
+Het Algoritmekader project kan lokaal worden gedraaid met [Python](https://www.python.org/) of met een container.
+
+#### Met Python
+
+Installeer de benodigde packages in een [virtual environment](https://docs.python.org/3/library/venv.html):
 
 ```bash
 pip install -r requirements.txt
-```
-
-Vervolgens kun je een preview van het Algoritmekader bekijken:
-
-```bash
 mkdocs serve
 ```
 
+#### Met Podman/Docker
+
+Bouw en draai het Algoritmekader als container:
+
+```bash
+podman build -t algoritmekader -f container/Containerfile .
+podman run -p 8080:8080 algoritmekader
+```
+
+Open vervolgens [http://localhost:8080](http://localhost:8080).
 
 ## Validatie Tools
 

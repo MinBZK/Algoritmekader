@@ -8,8 +8,6 @@ updates:
       time: "10:00"
       timezone: "Europe/Amsterdam"
     open-pull-requests-limit: 5
-    reviewers:
-      - "ruthkoole"
     groups:
       all-github-actions:
         patterns:
@@ -23,8 +21,6 @@ updates:
       time: "10:00"
       timezone: "Europe/Amsterdam"
     open-pull-requests-limit: 5
-    reviewers:
-      - "ruthkoole"
     groups:
       all-pip-packages:
         patterns:

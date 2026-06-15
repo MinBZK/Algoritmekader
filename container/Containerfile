@@ -10,8 +10,11 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-ARG SITE_URL=http://localhost:8080/
-RUN sed -i "s|^site_url:.*|site_url: ${SITE_URL}|" mkdocs.yml
+# Build with a fixed placeholder site_url. The real public origin and path
+# prefix are injected at runtime by nginx (see container/default.conf.template),
+# so a single image is environment-agnostic: build once, deploy under any
+# host/path via the $SITE_URL runtime env.
+RUN sed -i "s|^site_url:.*|site_url: https://ak-runtime-host.invalid/ak-runtime-base/|" mkdocs.yml
 
 ARG VERSION
 RUN if [ -n "$VERSION" ]; then \
@@ -20,9 +23,23 @@ RUN if [ -n "$VERSION" ]; then \
 
 RUN mkdocs build
 
+# sitemap.xml.gz is pre-compressed and cannot be rewritten by sub_filter at
+# runtime; drop it so only the (rewritable) sitemap.xml is served.
+RUN rm -f site/sitemap.xml.gz
+
 FROM nginxinc/nginx-unprivileged:stable-alpine-slim
 COPY --from=builder /app/site /usr/share/nginx/html
 COPY container/nginx.conf /etc/nginx/nginx.conf
-COPY container/default.conf /etc/nginx/conf.d/default.conf
+COPY container/default.conf.template /etc/nginx/templates/default.conf.template
+COPY container/docker-entrypoint.d/10-derive-site-url.envsh /docker-entrypoint.d/10-derive-site-url.envsh
+
+# Optional runtime config: the full public base URL the site is served under,
+# e.g. https://algoritmes.overheid.nl/kader. Unset => served at the domain root.
+ENV SITE_URL=""
+# Render the config template into the writable tmpfs so the image runs on a
+# read-only root filesystem (OpenShift restricted-v2), and only substitute our
+# own variables (leave nginx's $uri/$request_filename untouched).
+ENV NGINX_ENVSUBST_OUTPUT_DIR=/tmp
+ENV NGINX_ENVSUBST_FILTER="^(SITE_ORIGIN|BASE_PATH)$"
 
 EXPOSE 8080

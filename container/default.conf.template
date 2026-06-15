@@ -15,6 +15,20 @@ server {
     add_header Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com https://github.com https://release-assets.githubusercontent.com; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self' data:;" always;
     add_header Strict-Transport-Security "max-age=31536000" always;
 
+    # Runtime origin/base-path injection. The site is built with a fixed
+    # placeholder site_url (https://ak-runtime-host.invalid/ak-runtime-base/);
+    # at startup envsubst fills ${SITE_ORIGIN} and ${BASE_PATH} (derived from
+    # $SITE_URL, see docker-entrypoint.d/10-derive-site-url.envsh) into the rules
+    # below and sub_filter rewrites the placeholder in every response:
+    #   - host   -> canonical / og:url / sitemap absolute URLs
+    #   - prefix -> 404-page assets, window.AK_BASE_PATH (modal.js), URL paths
+    # With SITE_URL unset both are empty and the site serves at the domain root.
+    # text/html is always filtered by default; add the sitemap's XML types.
+    sub_filter_once off;
+    sub_filter_types application/xml text/xml;
+    sub_filter 'https://ak-runtime-host.invalid' '${SITE_ORIGIN}';
+    sub_filter '/ak-runtime-base' '${BASE_PATH}';
+
     location /.well-known/security.txt {
         return 302 https://www.ncsc.nl/.well-known/security.txt;
     }

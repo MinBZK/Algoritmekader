@@ -1,0 +1,25 @@
+# Derive SITE_ORIGIN (scheme://host) and BASE_PATH (path prefix) from the
+# optional SITE_URL env, so the nginx template can inject them at runtime via
+# envsubst + sub_filter. Sourced (.envsh) by the nginx entrypoint before the
+# envsubst step runs, so the exported values are visible to it.
+#
+#   SITE_URL=https://algoritmes.overheid.nl/kader
+#     -> SITE_ORIGIN=https://algoritmes.overheid.nl   BASE_PATH=/kader
+#   SITE_URL unset/empty
+#     -> SITE_ORIGIN=                                  BASE_PATH=          (root)
+
+SITE_URL="${SITE_URL:-}"
+
+case "$SITE_URL" in
+    *://*)
+        SITE_ORIGIN="$(printf '%s' "$SITE_URL" | sed -E 's#^([a-zA-Z][a-zA-Z0-9+.-]*://[^/]+).*#\1#')"
+        BASE_PATH="$(printf '%s' "$SITE_URL" | sed -E 's#^[a-zA-Z][a-zA-Z0-9+.-]*://[^/]+##; s#/+$##')"
+        ;;
+    *)
+        # No scheme://host: treat the whole value as a path prefix (or empty).
+        SITE_ORIGIN=""
+        BASE_PATH="$(printf '%s' "$SITE_URL" | sed -E 's#/+$##')"
+        ;;
+esac
+
+export SITE_ORIGIN BASE_PATH

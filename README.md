@@ -44,6 +44,15 @@ podman run -p 8080:8080 algoritmekader
 
 Open vervolgens [http://localhost:8080](http://localhost:8080).
 
+De image is omgevings-onafhankelijk: zonder configuratie draait hij op het
+root-pad. Draait de site onder een subpad of op een eigen domein, geef dan de
+publieke basis-URL mee via de optionele `SITE_URL`-env (deze stuurt zowel de
+interne links/beslishulp als `canonical`/`sitemap`):
+
+```bash
+podman run -e SITE_URL=https://algoritmes.overheid.nl/kader -p 8080:8080 algoritmekader
+```
+
 ## Validatie Tools
 
 In de map `scripts/validation/` vind je scripts die de consistentie van het Algoritmekader controleren:

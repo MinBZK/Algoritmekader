@@ -51,8 +51,11 @@ jobs:
           push: true
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
+          # The image is environment-agnostic: the public base URL is injected at
+          # runtime via the SITE_URL env (set in the ZAD deployment config to
+          # https://algoritmes.overheid.nl/kader), not baked at build time.
+          # See container/default.conf.template.
           build-args: |
-            SITE_URL=https://algoritmes.overheid.nl/kader/
             VERSION=${{ github.ref_name }}
           cache-from: type=gha
           cache-to: type=gha,mode=max

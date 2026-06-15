@@ -1,19 +1,14 @@
 server {
     listen 8080;
-    server_name localhost;
+    server_name _;
     root /usr/share/nginx/html;
     index index.html;
 
+    # Redirects (e.g. trailing slash) are relative, so the upstream /kader prefix
+    # is preserved by the browser instead of being dropped.
     absolute_redirect off;
 
-    error_page 404 /404.html;
-
-    add_header X-Content-Type-Options "nosniff" always;
-    add_header X-Frame-Options "SAMEORIGIN" always;
-    add_header Referrer-Policy "strict-origin-when-cross-origin" always;
-    add_header Permissions-Policy "geolocation=(), microphone=(), camera=()" always;
-    add_header Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com https://github.com https://release-assets.githubusercontent.com; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self' data:;" always;
-    add_header Strict-Transport-Security "max-age=31536000" always;
+    include /etc/nginx/security-headers.conf;
 
     # Runtime origin/base-path injection. The site is built with a fixed
     # placeholder site_url (https://ak-runtime-host.invalid/ak-runtime-base/);
@@ -23,20 +18,40 @@ server {
     #   - host   -> canonical / og:url / sitemap absolute URLs
     #   - prefix -> 404-page assets, window.AK_BASE_PATH (modal.js), URL paths
     # With SITE_URL unset both are empty and the site serves at the domain root.
-    # text/html is always filtered by default; add the sitemap's XML types.
+    # (text/html is filtered by default; add the sitemap's XML types.)
     sub_filter_once off;
     sub_filter_types application/xml text/xml;
     sub_filter 'https://ak-runtime-host.invalid' '${SITE_ORIGIN}';
     sub_filter '/ak-runtime-base' '${BASE_PATH}';
 
-    location /.well-known/security.txt {
+    # Static site: only GET/HEAD are valid.
+    if ($request_method !~ ^(GET|HEAD)$) {
+        return 405;
+    }
+
+    # Never serve dotfiles (.git, .env, .htaccess, ...); .well-known stays reachable.
+    location ~ /\.(?!well-known) {
+        return 404;
+    }
+
+    location = /.well-known/security.txt {
         return 302 https://www.ncsc.nl/.well-known/security.txt;
     }
 
+    error_page 404 /404.html;
+
     location / {
+        # Redirect directory URLs to a trailing slash so MkDocs' page-relative
+        # asset paths resolve correctly (absolute_redirect off keeps the prefix).
         if (-d $request_filename) {
             rewrite ^(.+[^/])$ $1/ permanent;
         }
         try_files $uri $uri/ =404;
+    }
+
+    location ~* \.(js|css|png|jpg|jpeg|gif|ico|svg|webp|woff|woff2)$ {
+        # Re-include headers: any add_header in a location drops inherited ones.
+        include /etc/nginx/security-headers.conf;
+        add_header Cache-Control "public, max-age=31536000, immutable" always;
     }
 }

@@ -25,3 +25,16 @@ updates:
       all-pip-packages:
         patterns:
           - "*"
+
+  - package-ecosystem: "docker"
+    directory: "/container"
+    schedule:
+      interval: "weekly"
+      day: "friday"
+      time: "10:00"
+      timezone: "Europe/Amsterdam"
+    open-pull-requests-limit: 5
+    groups:
+      all-docker-images:
+        patterns:
+          - "*"

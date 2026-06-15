@@ -3,6 +3,10 @@
 {% block extrahead %}
   {{ super() }}
   <!-- Skip link CSS is in navigation.css -->
+  <!-- Absolute URL prefix the site is served under (derived from site_url in
+       hooks/base_path.py). Used by modal.js to load HTML fragments / the
+       beslishulp iframe correctly on any deployment (root, /kader, /Algoritmekader). -->
+  <script>window.AK_BASE_PATH = {{ config.extra.base_path | tojson }};</script>
 {% endblock %}
 
 

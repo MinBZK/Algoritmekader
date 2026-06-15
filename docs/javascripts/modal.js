@@ -67,13 +67,11 @@ function onDynamicContentLoaded(targetDiv, callback) {
 }
 
 function getBasePath() {
-  // Use the base element that MkDocs generates, which respects site_url
-  const baseEl = document.querySelector('base');
-  if (baseEl && baseEl.href) {
-    return new URL(baseEl.href).pathname.replace(/\/$/, '');
-  }
-  // Fallback: root
-  return '';
+  // Absolute URL prefix the site is served under (e.g. "/kader",
+  // "/Algoritmekader", or "" at the domain root). Injected at build time from
+  // site_url by the theme (main.html + hooks/base_path.py), so it is correct on
+  // every deployment and stable under Material's instant navigation.
+  return window.AK_BASE_PATH || '';
 }
 
 // Enhanced showModal function to support redirect functionality

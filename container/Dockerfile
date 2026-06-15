@@ -45,6 +45,6 @@ ENV SITE_URL=""
 # read-only root filesystem (OpenShift restricted-v2), and only substitute our
 # own variables (leave nginx's $uri/$request_filename untouched).
 ENV NGINX_ENVSUBST_OUTPUT_DIR=/tmp
-ENV NGINX_ENVSUBST_FILTER="^(SITE_ORIGIN|BASE_PATH)$"
+ENV NGINX_ENVSUBST_FILTER="^(SITE_ORIGIN|BASE_PATH|BARE_PREFIX_REDIRECT)$"
 
 EXPOSE 8080

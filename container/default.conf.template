@@ -1,23 +1,20 @@
 server {
     listen 8080;
     server_name _;
-    root /usr/share/nginx/html;
-    index index.html;
 
-    # Redirects (e.g. trailing slash) are relative, so the upstream /kader prefix
-    # is preserved by the browser instead of being dropped.
+    # Redirects are relative so the prefix is preserved by the browser.
     absolute_redirect off;
+    index index.html;
 
     include /etc/nginx/security-headers.conf;
 
     # Runtime origin/base-path injection. The site is built with a fixed
     # placeholder site_url (https://ak-runtime-host.invalid/ak-runtime-base/);
     # at startup envsubst fills ${SITE_ORIGIN} and ${BASE_PATH} (derived from
-    # $SITE_URL, see docker-entrypoint.d/10-derive-site-url.envsh) into the rules
-    # below and sub_filter rewrites the placeholder in every response:
+    # $SITE_URL, see docker-entrypoint.d/10-derive-site-url.envsh) and sub_filter
+    # rewrites the placeholder in every response:
     #   - host   -> canonical / og:url / sitemap absolute URLs
     #   - prefix -> 404-page assets, window.AK_BASE_PATH (modal.js), URL paths
-    # With SITE_URL unset both are empty and the site serves at the domain root.
     # (text/html is filtered by default; add the sitemap's XML types.)
     sub_filter_once off;
     sub_filter_types application/xml text/xml;
@@ -29,29 +26,36 @@ server {
         return 405;
     }
 
-    # Never serve dotfiles (.git, .env, .htaccess, ...); .well-known stays reachable.
-    location ~ /\.(?!well-known) {
-        return 404;
-    }
+    error_page 404 ${BASE_PATH}/404.html;
 
-    location = /.well-known/security.txt {
-        return 302 https://www.ncsc.nl/.well-known/security.txt;
-    }
+    # Bare prefix -> trailing slash (empty when served at the domain root).
+    # The reverse proxy must forward the base path UNSTRIPPED (OpenShift route
+    # with pathType: Prefix and no rewrite-target), so the container sees and
+    # owns the full /<base>/... path and every redirect keeps the prefix.
+    ${BARE_PREFIX_REDIRECT}
 
-    error_page 404 /404.html;
+    # Serve the site under the (optional) base path. With BASE_PATH empty this is
+    # "location /" (domain root); otherwise e.g. "location /kader/". The browser's
+    # full path (incl. prefix) stays in $uri, so directory redirects keep it.
+    location ${BASE_PATH}/ {
+        alias /usr/share/nginx/html/;
 
-    location / {
-        # Redirect directory URLs to a trailing slash so MkDocs' page-relative
-        # asset paths resolve correctly (absolute_redirect off keeps the prefix).
-        if (-d $request_filename) {
-            rewrite ^(.+[^/])$ $1/ permanent;
+        # Never serve dotfiles (.git, .env, ...); .well-known stays reachable.
+        location ~ /\.(?!well-known) {
+            return 404;
         }
-        try_files $uri $uri/ =404;
-    }
 
-    location ~* \.(js|css|png|jpg|jpeg|gif|ico|svg|webp|woff|woff2)$ {
-        # Re-include headers: any add_header in a location drops inherited ones.
-        include /etc/nginx/security-headers.conf;
-        add_header Cache-Control "public, max-age=31536000, immutable" always;
+        location = ${BASE_PATH}/.well-known/security.txt {
+            return 302 https://www.ncsc.nl/.well-known/security.txt;
+        }
+
+        # Redirect directory URLs to a trailing slash so MkDocs' page-relative
+        # asset paths resolve correctly. $uri carries the full prefixed path, so
+        # the redirect target keeps the prefix.
+        if (-d $request_filename) {
+            rewrite ^(.*[^/])$ $1/ permanent;
+        }
+
+        try_files $uri $uri/ =404;
     }
 }

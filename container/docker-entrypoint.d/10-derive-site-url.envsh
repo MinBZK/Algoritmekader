@@ -22,4 +22,13 @@ case "$SITE_URL" in
         ;;
 esac
 
-export SITE_ORIGIN BASE_PATH
+# Bare-prefix redirect (only when serving under a non-empty prefix); injected
+# into the server block. "location = /kader { return 301 /kader/; }" so a request
+# to the prefix without a trailing slash lands on the directory form.
+if [ -n "$BASE_PATH" ]; then
+    BARE_PREFIX_REDIRECT="location = ${BASE_PATH} { return 301 ${BASE_PATH}/; }"
+else
+    BARE_PREFIX_REDIRECT=""
+fi
+
+export SITE_ORIGIN BASE_PATH BARE_PREFIX_REDIRECT

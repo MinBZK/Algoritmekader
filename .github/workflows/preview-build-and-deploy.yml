@@ -25,7 +25,13 @@ env:
 
 jobs:
   build:
-    if: github.event.action != 'closed'
+    # Skip closed-PR events (handled by cleanup-preview below) and never build/
+    # deploy previews for bot-authored (e.g. Dependabot) or draft PRs. On push to
+    # main the pull_request context is empty, so those checks pass and main builds.
+    if: >-
+      github.event.action != 'closed'
+      && github.event.pull_request.user.type != 'Bot'
+      && github.event.pull_request.draft != true
     runs-on: ubuntu-latest
     permissions:
       contents: read

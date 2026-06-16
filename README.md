@@ -44,14 +44,28 @@ podman run -p 8080:8080 algoritmekader
 
 Open vervolgens [http://localhost:8080](http://localhost:8080).
 
-De image is omgevings-onafhankelijk: zonder configuratie draait hij op het
-root-pad. Draait de site onder een subpad of op een eigen domein, geef dan de
-publieke basis-URL mee via de optionele `SITE_URL`-env (deze stuurt zowel de
-interne links/beslishulp als `canonical`/`sitemap`):
+De image draait non-root op poort 8080 en is read-only-rootfs-compatibel.
+
+#### Onder een subpad of eigen domein draaien
+
+Zonder configuratie draait de image op de root (`/`). Met de optionele env
+`SITE_URL` geef je de publieke basis-URL op; dat stuurt de interne links, de
+beslishulp en de `canonical`/`sitemap`:
 
 ```bash
+# root (default)
+podman run -p 8080:8080 algoritmekader
+
+# onder een subpad / eigen domein
 podman run -e SITE_URL=https://algoritmes.overheid.nl/kader -p 8080:8080 algoritmekader
 ```
+
+Je mag ook alleen een pad geven (`SITE_URL=/kader`); leeg of `/` is de root.
+
+> **Gebruik je een reverse proxy op een subpad?** Stuur het pad dan
+> **ongewijzigd** door naar de container — strip het prefix niet. De container
+> serveert het subpad zelf, dus `SITE_URL` en het doorgestuurde pad moeten
+> hetzelfde prefix hebben.
 
 ## Validatie Tools
 

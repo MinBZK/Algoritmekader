@@ -146,7 +146,13 @@ jobs:
           TAG_PREFIX: pr-${{ github.event.pull_request.number }}-
         run: |
           echo "Deleting container images with tag prefix: $TAG_PREFIX"
+          # GHCR stores package names lowercased (docker/metadata-action lowercases
+          # on push), and the packages API path is case-sensitive. github.event.
+          # repository.name keeps the repo casing ("Algoritmekader"), so lowercase
+          # it to match the actual package ("algoritmekader/preview") -- otherwise
+          # the query 404s, is swallowed by 2>/dev/null, and images leak.
           CONTAINER_NAME="${{ github.event.repository.name }}/preview"
+          CONTAINER_NAME="${CONTAINER_NAME,,}"
           ENCODED_NAME=$(printf '%s' "$CONTAINER_NAME" | jq -sRr @uri)
           VERSIONS=$(gh api "orgs/$CONTAINER_ORG/packages/container/$ENCODED_NAME/versions" 2>/dev/null | \
             jq -r --arg prefix "$TAG_PREFIX" '.[] | select(.metadata.container.tags[]? | startswith($prefix)) | .id')

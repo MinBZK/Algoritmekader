@@ -1,8 +1,8 @@
 # Algoritmekader-container
 
 De statische Algoritmekader-site in een container, op basis van een non-root
-nginx-image. Je bouwt de image één keer en draait dezelfde image op de root van
-een domein of onder een subpad; dat regel je met `SITE_URL`.
+nginx-image. Met `SITE_URL` bepaal je of de site op de root van een domein draait
+of onder een subpad.
 
 Verder:
 
@@ -10,7 +10,19 @@ Verder:
 * De container zet zelf de security-headers (HSTS, CSP, X-Frame-Options enzovoort). Voeg die niet nog een keer toe in de proxy.
 * TLS termineert vóór de container; de container praat alleen HTTP op 8080.
 
-## Bouwen
+## Image ophalen of bouwen
+
+De release-image wordt op een versie-tag (`v*`) gepubliceerd naar GitHub
+Container Registry:
+
+```bash
+docker pull ghcr.io/minbzk/algoritmekader:<versie>
+```
+
+Previews van pull requests en main staan apart in
+`ghcr.io/minbzk/algoritmekader/preview`; die zijn niet bedoeld voor productie.
+
+Zelf bouwen kan ook:
 
 ```bash
 docker build -t algoritmekader -f container/Dockerfile .   # vanuit de repo-root
@@ -25,6 +37,9 @@ docker run -p 8080:8080 algoritmekader                      # http://localhost:8
 # onder een subpad of eigen domein
 docker run -e SITE_URL=https://algoritmes.overheid.nl/kader -p 8080:8080 algoritmekader
 ```
+
+Heb je de image uit GHCR getrokken, gebruik dan `ghcr.io/minbzk/algoritmekader:<versie>`
+in plaats van `algoritmekader`.
 
 ## SITE_URL
 

@@ -31,7 +31,7 @@ RUN rm -f site/sitemap.xml.gz
 # pinned by tag + digest. Inherits the nginx-unprivileged entrypoint, so the
 # envsubst-on-templates + .envsh mechanism still works. We ship our own
 # nginx.conf / security-headers.conf / server template on top.
-FROM ghcr.io/rijksictgilde/nginx-base:2026.06.17@sha256:529cb9e17264ce479d19b408530d2e33b217225d60e9fd320257aed0cdbfa377
+FROM ghcr.io/rijksictgilde/nginx-base:2026.06.19@sha256:cb582aec8a0527d314150cb6111f457851d0956282f990b094202ff933a7c233
 COPY --from=builder /app/site /usr/share/nginx/html
 COPY container/nginx.conf /etc/nginx/nginx.conf
 COPY container/security-headers.conf /etc/nginx/security-headers.conf

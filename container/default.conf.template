@@ -26,6 +26,20 @@ server {
         return 405;
     }
 
+    # Probe endpoints at a fixed root path (prefix-independent), unlogged.
+    # Static nginx: live == ready, so both return a static 200.
+    location = /healthz {
+        access_log off;
+        default_type text/plain;
+        return 200 "ok\n";
+    }
+
+    location = /readyz {
+        access_log off;
+        default_type text/plain;
+        return 200 "ok\n";
+    }
+
     error_page 404 ${BASE_PATH}/404.html;
 
     # Bare prefix -> trailing slash (empty when served at the domain root).

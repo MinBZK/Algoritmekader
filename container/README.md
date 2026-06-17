@@ -7,8 +7,16 @@ of onder een subpad.
 Verder:
 
 * Draait non-root op poort 8080 en werkt met een read-only root filesystem (alleen `/tmp` is schrijfbaar).
-* De container zet zelf de security-headers (HSTS, CSP, X-Frame-Options enzovoort). Voeg die niet nog een keer toe in de proxy.
-* TLS termineert vóór de container; de container praat alleen HTTP op 8080.
+* De container zet zelf deze security-headers:
+    * `Content-Security-Policy`
+    * `Strict-Transport-Security`
+    * `X-Content-Type-Options`
+    * `X-Frame-Options`
+    * `Referrer-Policy`
+    * `Permissions-Policy`
+    * `Cross-Origin-Opener-Policy`
+    * `Cross-Origin-Resource-Policy`
+    * `X-Permitted-Cross-Domain-Policies`
 
 ## Image ophalen of bouwen
 

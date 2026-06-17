@@ -1,12 +1,14 @@
 # Algoritmekader-container
 
-Statische Algoritmekader-site, geserveerd door een geharde nginx. Eén image,
-omgevings-onafhankelijk: build één keer, draai op de root of onder een subpad via
-`SITE_URL`.
+De statische Algoritmekader-site in een container, op basis van een non-root
+nginx-image. Je bouwt de image één keer en draait dezelfde image op de root van
+een domein of onder een subpad; dat regel je met `SITE_URL`.
 
-- Non-root, poort **8080**, read-only-rootfs-compatibel (alleen `/tmp` schrijfbaar).
-- Zet zelf alle security-headers (HSTS, CSP, X-Frame-Options, …) — niet dubbel toevoegen.
-- TLS termineert upstream; de container doet alleen HTTP op 8080.
+Verder:
+
+* Draait non-root op poort 8080 en werkt met een read-only root filesystem (alleen `/tmp` is schrijfbaar).
+* De container zet zelf de security-headers (HSTS, CSP, X-Frame-Options enzovoort). Voeg die niet nog een keer toe in de proxy.
+* TLS termineert vóór de container; de container praat alleen HTTP op 8080.
 
 ## Bouwen
 
@@ -17,36 +19,38 @@ docker build -t algoritmekader -f container/Dockerfile .   # vanuit de repo-root
 ## Draaien
 
 ```bash
-# root (default)
-docker run -p 8080:8080 algoritmekader                      # -> http://localhost:8080
+# op de root van het domein (standaard)
+docker run -p 8080:8080 algoritmekader                      # http://localhost:8080
 
-# onder een subpad / eigen domein
+# onder een subpad of eigen domein
 docker run -e SITE_URL=https://algoritmes.overheid.nl/kader -p 8080:8080 algoritmekader
 ```
 
-### `SITE_URL`
+## SITE_URL
 
-Optioneel. Leeg of `/` = root. De waarde stuurt twee dingen:
+`SITE_URL` is optioneel. Laat je hem leeg (of `/`), dan draait de site op de root
+van het domein. De waarde bepaalt twee dingen:
 
-- **host** (`https://algoritmes.overheid.nl`) → absolute `canonical` / `og:url` / `sitemap`.
-- **pad** (`/kader`) → interne links, assets en routing.
+* De host (`https://algoritmes.overheid.nl`) wordt gebruikt voor de absolute `canonical`, `og:url` en `sitemap`.
+* Het pad (`/kader`) wordt gebruikt voor de interne links, de assets en de routing.
 
-Een volledig URL is de aanrader voor productie (correcte canonical/sitemap). Alleen
-een pad mag ook (`SITE_URL=/kader`); dan worden de absolute URL's host-loos.
+Voor productie geef je het volledige URL op, dan kloppen de canonical en de
+sitemap. Alleen een pad mag ook (`SITE_URL=/kader`), maar dan missen die absolute
+URL's de host.
 
-## Reverse proxy / ingress
+## Reverse proxy of ingress
 
-De container serveert het subpad **zelf**. Stuur het pad daarom **ongestript**
-door — `pathType: Prefix`, géén `rewrite-target`. `SITE_URL` en het doorgestuurde
-prefix moeten gelijk zijn.
+De container serveert het subpad zelf. Stuur het pad daarom ongestript door naar
+de container: `pathType: Prefix`, zonder `rewrite-target`. Het pad dat je
+doorstuurt en `SITE_URL` moeten hetzelfde prefix hebben.
 
-| Publieke request | Container ontvangt (poort 8080) |
+| Publieke request | Wat de container krijgt (poort 8080) |
 |---|---|
 | `…/kader/` | `GET /kader/` |
 | `…/kader/onderwerpen/` | `GET /kader/onderwerpen/` |
 
 ```yaml
-# Kubernetes nginx-ingress — geen rewrite
+# Kubernetes nginx-ingress, zonder rewrite
 spec:
   rules:
     - host: algoritmes.overheid.nl
@@ -59,7 +63,9 @@ spec:
 
 ## Health checks
 
-Vaste paden op de root (los van het prefix), niet gelogd. Statische nginx: live == ready.
+`/healthz` en `/readyz` zitten op een vast pad op de root van het domein, los van
+het prefix, en worden niet gelogd. Voor een statische nginx is live hetzelfde als
+ready, dus beide geven simpelweg een 200 terug.
 
 ```yaml
 livenessProbe:

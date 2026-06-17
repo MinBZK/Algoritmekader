@@ -17,8 +17,8 @@ Het Algoritmekader kun je bekijken op
 
 ## De image draaien of deployen
 
-Het Algoritmekader is ook als container beschikbaar (geharde nginx, non-root,
-poort 8080). Voor build, run, reverse proxy/ingress, health checks, security en
+Het Algoritmekader is ook als container beschikbaar (non-root nginx-image, poort
+8080). Voor build, run, reverse proxy/ingress, health checks, security en
 `SITE_URL`: zie [`container/README.md`](container/README.md).
 
 ## Hoe kun je bijdragen?

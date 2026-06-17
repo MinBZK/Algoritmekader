@@ -15,6 +15,12 @@ Deze bestanden worden inzichtelijk gemaakt met behulp van [MkDocs](https://www.m
 Het Algoritmekader kun je bekijken op
 [https://minbzk.github.io/Algoritmekader](https://minbzk.github.io/Algoritmekader/).
 
+## De image draaien of deployen
+
+Het Algoritmekader is ook als container beschikbaar (non-root nginx-image, poort
+8080). Voor build, run, reverse proxy/ingress, health checks, security en
+`SITE_URL`: zie [`container/README.md`](container/README.md).
+
 ## Hoe kun je bijdragen?
 
 Dat kan op verschillende manieren. Zie onze
@@ -22,19 +28,48 @@ Dat kan op verschillende manieren. Zie onze
 
 ### Lokaal ontwikkelen
 
-Het Algoritmekader project kan lokaal met behulp van [Python](https://www.python.org/) worden gedraaid. Installeer
-hiervoor de benodigde packages in een [virtual environment](https://docs.python.org/3/library/venv.html):
+Het Algoritmekader project kan lokaal worden gedraaid met [Python](https://www.python.org/) of met een container.
+
+#### Met Python
+
+Installeer de benodigde packages in een [virtual environment](https://docs.python.org/3/library/venv.html):
 
 ```bash
 pip install -r requirements.txt
-```
-
-Vervolgens kun je een preview van het Algoritmekader bekijken:
-
-```bash
 mkdocs serve
 ```
 
+#### Met Podman/Docker
+
+Bouw en draai het Algoritmekader als container:
+
+```bash
+podman build -t algoritmekader -f container/Dockerfile .
+podman run -p 8080:8080 algoritmekader
+```
+
+Open vervolgens [http://localhost:8080](http://localhost:8080).
+
+De image draait non-root op poort 8080 en is read-only-rootfs-compatibel.
+
+#### Onder een subpad of eigen domein draaien
+
+Zonder configuratie draait de image op de root (`/`). Met de optionele env
+`SITE_URL` geef je de publieke basis-URL op; dat stuurt de interne links, de
+beslishulp en de `canonical`/`sitemap`:
+
+```bash
+# root (default)
+podman run -p 8080:8080 algoritmekader
+
+# onder een subpad / eigen domein
+podman run -e SITE_URL=https://algoritmes.overheid.nl/kader -p 8080:8080 algoritmekader
+```
+
+Je mag ook alleen een pad geven (`SITE_URL=/kader`); leeg of `/` is de root.
+
+Voor het deployen van de image (reverse proxy / ingress, health checks, security,
+`SITE_URL`): zie [`container/README.md`](container/README.md).
 
 ## Validatie Tools
 

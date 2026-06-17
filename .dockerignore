@@ -1,0 +1,23 @@
+# Exclude ONLY untracked / generated paths from the build context.
+#
+# Do NOT exclude git-tracked files (or .git): mkdocs build runs the
+# git-revision-date-localized plugin, which computes commit timestamps across
+# the whole repository and asserts that every tracked file is present on disk.
+# Excluding a tracked file breaks the build.
+
+# Large / generated, never needed for the build
+.venv/
+site/
+tmp-site/
+node_modules/
+
+# Local tooling / editor / OS cruft (untracked)
+.claude/
+.vscode/
+.idea/
+.DS_Store
+
+# Python caches (untracked)
+__pycache__/
+**/__pycache__/
+*.pyc

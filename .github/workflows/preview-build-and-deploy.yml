@@ -1,0 +1,172 @@
+name: Preview build and deploy
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+    types:
+      - opened
+      - reopened
+      - synchronize
+      - closed
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+env:
+  REGISTRY: ghcr.io
+  IMAGE_NAME: ${{ github.repository }}/preview
+  ZAD_PROJECT_ID: algor-1ha
+  ZAD_COMPONENT: component-2
+
+jobs:
+  build:
+    # Skip closed-PR events (handled by cleanup-preview below) and never build/
+    # deploy previews for bot-authored (e.g. Dependabot) or draft PRs. On push to
+    # main the pull_request context is empty, so those checks pass and main builds.
+    if: >-
+      github.event.action != 'closed'
+      && github.event.pull_request.user.type != 'Bot'
+      && github.event.pull_request.draft != true
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+    outputs:
+      image: ${{ steps.meta.outputs.tags }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Get version
+        id: version
+        run: |
+          echo "version=$(git describe --tags 2>/dev/null || echo 'development')" >> "$GITHUB_OUTPUT"
+
+      # Only the image tag prefix is derived here. The deployment URL is not
+      # constructed by hand (no hardcoded cluster domain): the ZAD deploy action
+      # returns it as steps.deploy.outputs.url and posts it on the PR itself.
+      - name: Determine image tag prefix
+        id: deployment
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            echo "tag_prefix=pr-${{ github.event.pull_request.number }}-" >> "$GITHUB_OUTPUT"
+          else
+            echo "tag_prefix=main-" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v4
+
+      - name: Log in to Container Registry
+        uses: docker/login-action@v4
+        with:
+          registry: ${{ env.REGISTRY }}
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Extract metadata
+        id: meta
+        uses: docker/metadata-action@v6
+        with:
+          images: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
+          tags: |
+            type=sha,format=short,prefix=${{ steps.deployment.outputs.tag_prefix }}
+
+      - name: Build and push container image
+        uses: docker/build-push-action@v7
+        with:
+          context: .
+          file: ./container/Dockerfile
+          push: true
+          tags: ${{ steps.meta.outputs.tags }}
+          labels: ${{ steps.meta.outputs.labels }}
+          # The image is environment-agnostic: the public base URL is injected at
+          # runtime via the SITE_URL env (set in the ZAD deployment config), not
+          # baked at build time. See container/default.conf.template.
+          build-args: |
+            VERSION=${{ steps.version.outputs.version }}
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
+
+  deploy-preview:
+    if: github.event.action != 'closed'
+    runs-on: ubuntu-latest
+    permissions:
+      deployments: write
+      pull-requests: write
+    needs: build
+    environment:
+      name: ${{ github.event_name == 'pull_request' && format('pr{0}', github.event.pull_request.number) || 'main' }}
+      url: ${{ steps.deploy.outputs.url }}
+    steps:
+      - name: Deploy to ZAD
+        id: deploy
+        uses: RijksICTGilde/zad-actions/deploy@v4
+        with:
+          api-key: ${{ secrets.ZAD_API_KEY }}
+          project-id: ${{ env.ZAD_PROJECT_ID }}
+          deployment-name: ${{ github.event_name == 'pull_request' && format('pr{0}', github.event.pull_request.number) || 'main' }}
+          component: ${{ env.ZAD_COMPONENT }}
+          image: ${{ needs.build.outputs.image }}
+          comment-on-pr: ${{ github.event_name == 'pull_request' }}
+          qr-code: ${{ github.event_name == 'pull_request' }}
+          wait-for-ready: true
+          path-suffix: /kader/
+
+  cleanup-preview:
+    if: github.event_name == 'pull_request' && github.event.action == 'closed'
+    runs-on: ubuntu-latest
+    permissions:
+      deployments: write
+      packages: write
+      pull-requests: write
+    steps:
+      - name: Cleanup ZAD deployment
+        uses: RijksICTGilde/zad-actions/cleanup@v4
+        with:
+          api-key: ${{ secrets.ZAD_API_KEY }}
+          project-id: ${{ env.ZAD_PROJECT_ID }}
+          deployment-name: pr${{ github.event.pull_request.number }}
+          delete-github-env: true
+          delete-github-deployments: true
+          delete-pr-comment: true
+
+      - name: Delete container images for this PR
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+          CONTAINER_ORG: ${{ github.repository_owner }}
+          TAG_PREFIX: pr-${{ github.event.pull_request.number }}-
+        run: |
+          echo "Deleting container images with tag prefix: $TAG_PREFIX"
+          # GHCR stores package names lowercased (docker/metadata-action lowercases
+          # on push), and the packages API path is case-sensitive. github.event.
+          # repository.name keeps the repo casing ("Algoritmekader"), so lowercase
+          # it to match the actual package ("algoritmekader/preview") -- otherwise
+          # the query 404s, is swallowed by 2>/dev/null, and images leak.
+          CONTAINER_NAME="${{ github.event.repository.name }}/preview"
+          CONTAINER_NAME="${CONTAINER_NAME,,}"
+          ENCODED_NAME=$(printf '%s' "$CONTAINER_NAME" | jq -sRr @uri)
+          VERSIONS=$(gh api "orgs/$CONTAINER_ORG/packages/container/$ENCODED_NAME/versions" 2>/dev/null | \
+            jq -r --arg prefix "$TAG_PREFIX" '.[] | select(.metadata.container.tags[]? | startswith($prefix)) | .id')
+          if [ -z "$VERSIONS" ]; then
+            echo "No versions found with tag prefix: $TAG_PREFIX (may already be deleted)"
+            exit 0
+          fi
+          DELETED_COUNT=0
+          for VERSION_ID in $VERSIONS; do
+            if gh api "orgs/$CONTAINER_ORG/packages/container/$ENCODED_NAME/versions/$VERSION_ID" -X DELETE 2>/dev/null; then
+              echo "Deleted version: $VERSION_ID"
+              DELETED_COUNT=$((DELETED_COUNT + 1))
+            else
+              echo "Failed to delete version: $VERSION_ID"
+            fi
+          done
+          echo "Deleted $DELETED_COUNT container version(s) for PR ${{ github.event.pull_request.number }}"

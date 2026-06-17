@@ -143,6 +143,7 @@ hooks:
     - src/overrides/hooks/lists.py
     - src/overrides/hooks/definities.py
     - src/overrides/hooks/security_txt.py
+    - src/overrides/hooks/base_path.py
 
 # Link naar GitHub repo
 site_url: https://minbzk.github.io/Algoritmekader/

@@ -67,20 +67,11 @@ function onDynamicContentLoaded(targetDiv, callback) {
 }
 
 function getBasePath() {
-  const path = window.location.pathname;
-  const isLocal = window.location.hostname === "127.0.0.1" || window.location.hostname === "localhost";
-  const isPRPreview = path.includes('/pr-preview/');
-
-  if (isLocal) {
-    return '/Algoritmekader';
-  } else if (isPRPreview) {
-    // Extract everything up to and including the PR number
-    const prMatch = path.match(/(\/Algoritmekader\/pr-preview\/pr-\d+)/);
-    return prMatch ? prMatch[1] : '/Algoritmekader';
-  } else {
-    // Production
-    return '/Algoritmekader';
-  }
+  // Absolute URL prefix the site is served under (e.g. "/kader",
+  // "/Algoritmekader", or "" at the domain root). Injected at build time from
+  // site_url by the theme (main.html + hooks/base_path.py), so it is correct on
+  // every deployment and stable under Material's instant navigation.
+  return window.AK_BASE_PATH || '';
 }
 
 // Enhanced showModal function to support redirect functionality

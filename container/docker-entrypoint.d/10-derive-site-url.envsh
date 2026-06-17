@@ -1,0 +1,34 @@
+# Derive SITE_ORIGIN (scheme://host) and BASE_PATH (path prefix) from the
+# optional SITE_URL env, so the nginx template can inject them at runtime via
+# envsubst + sub_filter. Sourced (.envsh) by the nginx entrypoint before the
+# envsubst step runs, so the exported values are visible to it.
+#
+#   SITE_URL=https://algoritmes.overheid.nl/kader
+#     -> SITE_ORIGIN=https://algoritmes.overheid.nl   BASE_PATH=/kader
+#   SITE_URL unset/empty
+#     -> SITE_ORIGIN=                                  BASE_PATH=          (root)
+
+SITE_URL="${SITE_URL:-}"
+
+case "$SITE_URL" in
+    *://*)
+        SITE_ORIGIN="$(printf '%s' "$SITE_URL" | sed -E 's#^([a-zA-Z][a-zA-Z0-9+.-]*://[^/]+).*#\1#')"
+        BASE_PATH="$(printf '%s' "$SITE_URL" | sed -E 's#^[a-zA-Z][a-zA-Z0-9+.-]*://[^/]+##; s#/+$##')"
+        ;;
+    *)
+        # No scheme://host: treat the whole value as a path prefix (or empty).
+        SITE_ORIGIN=""
+        BASE_PATH="$(printf '%s' "$SITE_URL" | sed -E 's#/+$##')"
+        ;;
+esac
+
+# Bare-prefix redirect (only when serving under a non-empty prefix); injected
+# into the server block. "location = /kader { return 301 /kader/; }" so a request
+# to the prefix without a trailing slash lands on the directory form.
+if [ -n "$BASE_PATH" ]; then
+    BARE_PREFIX_REDIRECT="location = ${BASE_PATH} { return 301 ${BASE_PATH}/; }"
+else
+    BARE_PREFIX_REDIRECT=""
+fi
+
+export SITE_ORIGIN BASE_PATH BARE_PREFIX_REDIRECT

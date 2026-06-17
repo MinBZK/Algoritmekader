@@ -62,10 +62,8 @@ podman run -e SITE_URL=https://algoritmes.overheid.nl/kader -p 8080:8080 algorit
 
 Je mag ook alleen een pad geven (`SITE_URL=/kader`); leeg of `/` is de root.
 
-> **Gebruik je een reverse proxy op een subpad?** Stuur het pad dan
-> **ongewijzigd** door naar de container — strip het prefix niet. De container
-> serveert het subpad zelf, dus `SITE_URL` en het doorgestuurde pad moeten
-> hetzelfde prefix hebben.
+Voor het deployen van de image (reverse proxy / ingress, health checks, security,
+`SITE_URL`): zie [`container/README.md`](container/README.md).
 
 ## Validatie Tools
 

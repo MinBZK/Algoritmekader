@@ -15,6 +15,12 @@ Deze bestanden worden inzichtelijk gemaakt met behulp van [MkDocs](https://www.m
 Het Algoritmekader kun je bekijken op
 [https://minbzk.github.io/Algoritmekader](https://minbzk.github.io/Algoritmekader/).
 
+## De image draaien of deployen
+
+Het Algoritmekader is ook als container beschikbaar (geharde nginx, non-root,
+poort 8080). Voor build, run, reverse proxy/ingress, health checks, security en
+`SITE_URL`: zie [`container/README.md`](container/README.md).
+
 ## Hoe kun je bijdragen?
 
 Dat kan op verschillende manieren. Zie onze

@@ -58,6 +58,8 @@ De AI-kennisplicht betekent bijvoorbeeld dat een HR-medewerker moet begrijpen da
 
 Het doel is om een adequaat niveau van begrip en vaardigheden te waarborgen, wat bijdraagt aan een verantwoord gebruik van AI en het minimaliseren van risico's.
 
+Deze vereiste vraagt sinds een aanpassing in het AI-Omnibuspakket van juli 2026 niet om garantie van een specifiek niveau van AI-geletterdheid van een individu. Ook wordt sindsdien een inspanning vereist van lidstaten om AI-geletterdheid bij organisaties te faciliteren. De Europese Commissie zal hiervoor ondersteunend materiaal aanbieden.
+
 Vanaf februari 2025 treedt deze vereiste in werking.
 
 !!! tip "Tip"

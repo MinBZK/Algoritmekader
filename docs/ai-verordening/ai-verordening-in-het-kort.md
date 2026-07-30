@@ -107,9 +107,14 @@ De AI-verordening trad in werking op 1 augustus 2024 en gaat stap voor stap geld
 
 * 2 februari 2025: Vereisten over verboden AI en AI-geletterdheid
 * 2 augustus 2025: Vereisten voor modellen voor algemene doeleinden (GPAI)
+* 2 december 2027: Vereisten voor nieuwe hoog-risico-AI-systemen
+* 2 augustus 2028: Vereisten voor hoog-risico-AI-systemen in producten
+* 2 augustus 2030: Vereisten voor overige hoog-risico-systemen
+
+Op 27 juli 2026 is het AI-omnibuspakket in werking getreden. Hiermee zijn sommige deadlines naar achteren geschoven. Eerder waren deze:
+
 * 2 augustus 2026: Vereisten voor nieuwe hoog-risico-AI-systemen
 * 2 augustus 2027: Vereisten voor hoog-risico-AI-systemen in producten
-* 2 augustus 2030: Vereisten voor overige hoog-risico-systemen
 
 In de [tijdlijn AI-verordening](tijdlijn-ai-verordening.md) vind je alle vereisten per deadline.
 

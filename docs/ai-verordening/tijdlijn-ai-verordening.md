@@ -68,7 +68,7 @@ NB: eerder stond deze deadline op 2 augustus 2026. In het AI-omnibuspakket is de
 Wat betekent dit voor jouw organisatie? Gebruik de <a href="#" onclick="showModal(event, 'beslishulp AI-verordening', {redirectUrl: 'voldoen-aan-wetten-en-regels/vereisten/'});">Beslishulp AI-verordening</a>.
 
 ## Uitzondering
-Een uitzondering geldt voor hoog-risico-AI-systemen die op 2 augustus 2026 al in gebruik zijn bij overheidsorganisaties. Deze systemen hoeven pas in 2030 te voldoen aan de vereisten uit de AI-verordening.
+Een uitzondering geldt voor hoog-risico-AI-systemen die op 2 december 2027 al in gebruik zijn bij overheidsorganisaties. Deze systemen hoeven pas in 2030 te voldoen aan de vereisten uit de AI-verordening.
 Zie [AI-verordening, artikel 26 en artikel 27](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#art_26).
 
 ## 2 augustus 2028: Hoog-risico-systemen in producten voldoen aan vereisten

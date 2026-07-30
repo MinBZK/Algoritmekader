@@ -43,13 +43,16 @@ Voordat een AI-systeem met een hoog risico als bedoeld in artikel 6, lid 2 AI-ve
 
 Publieke instellingen of particuliere entiteiten die openbare diensten leveren, en operators van bepaalde AI-systemen, moeten dus een beoordeling uitvoeren van de impact op de grondrechten die het gebruik ervan kan hebben.
 
-Deze evaluatie is bedoeld om potentiële risico's te identificeren die kunnen voortvloeien uit het gebruik van dergelijke systemen en om passende maatregelen te nemen om deze risico's te beheersen.
+Deze evaluatie is bedoeld om potentiële risico's te identificeren die kunnen voortvloeien uit het gebruik van dergelijke systemen en om passende maatregelen te nemen om deze risico's te beheersen. In deze evaluatie zijn mogelijke kruisverwijzingen naar een Data Protection Impact Assessment (DPIA) toegestaan.
 
 Het doel is om de bescherming van grondrechten te waarborgen bij het gebruik van AI-systemen met een hoog risico, met name in sectoren waar deze systemen cruciale diensten leveren aan het publiek.
+
+De AI Office werkt aan een sjabloon om organisaties te begeleiden bij het voldoen aan deze eis.
 
 ## Bronnen
 
 - [Artikel 27, lid 1, AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#art_27)
+- [Aanvulling op artikel 27, AI-omnibuspakket](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32026R1744)
 - [Artikel 6, lid 2, AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#art_6)
 - [Bijlage III, onderdeel 2 en 5, AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#anx_III)
 - [Impact Assessment Mensenrechten en Algoritmes (IAMA)](../hulpmiddelen/IAMA.md)

@@ -55,11 +55,13 @@ Cyberbeveiliging is cruciaal om te waarborgen dat AI-systemen bestand zijn tegen
 
 Bij cyberaanvallen tegen AI-systemen kunnen AI-specifieke activa worden gebruikt, zoals trainingsdatasets (bv. datavervuiling) of getrainde modellen (bv. vijandige aanvallen of membership inference), of kwetsbaarheden in de digitale activa van het AI-systeem of de onderliggende ICT-infrastructuur worden benut.
 
-Om te zorgen voor een niveau van cyberbeveiliging dat aansluit op de risico’s, moeten aanbieders van AI-systemen met een hoog risico passende maatregelen zoals veiligheidscontroles nemen, waarbij ook rekening wordt gehouden met de onderliggende ICT infrastructuur.
+Om te zorgen voor een niveau van cyberbeveiliging dat aansluit op de risico’s, moeten aanbieders van AI-systemen met een hoog risico passende maatregelen zoals veiligheidscontroles nemen, waarbij ook rekening wordt gehouden met de onderliggende ICT infrastructuur. Als je voldoet aan artikel 12, lid 1 van de Cyberweerbaarheidsverordening, voldoe je ook aan de cyberbeveiligingseisen die vanuit de AI-verordening worden gesteld.
 
 ## Bronnen
 
-[Artikel 15 Verordening Artificiële Intelligentie](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3752-1-1)
+- [Artikel 15 AI-verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202401689#d1e3752-1-1)
+- [Aanvulling op artikel 15 AI-verordening, AI-omnibuspakket](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32026R1744)
+- [Artikel 12, lid 1 Cyberweerbaarheidsverordening](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R2847)
 
 ## Van toepassing op
 <!-- tags-ai-act -->

@@ -25,7 +25,7 @@ hide: navigation
 [Download hier de Factsheet AI-geletterdheid voor bestuurders](documenten/AI-Verordening_Geletterdheid_Factsheet_Bestuurders.pdf){ .button .md-button--secondary }
 
 ## Hulpmiddel
-Deze factsheet is bedoelt voor bestuurders om snel inzicht te krijgen in de AI-geletterdheidvereisten die de AI-verordening introduceert.
+Deze factsheet is bedoeld voor bestuurders om snel inzicht te krijgen in de AI-geletterdheidvereisten die de AI-verordening introduceert.
 
 ## AI-geletterdheid
 Al-geletterdheid moet betrokkenen in staat stellen om onderbouwde beslissingen te kunnen maken met betrekking tot Al-systemen.

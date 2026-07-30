@@ -39,7 +39,7 @@ hide: navigation
 [Download hier de Factsheet AI-geletterdheid voor inkopers](documenten/AI-Verordening_Geletterdheid_Factsheet_Inkopers.pdf){ .button .md-button--secondary }
 
 ## Hulpmiddel
-Deze factsheet is bedoelt voor inkopers om snel inzicht te krijgen in de AI-geletterdheidvereisten die de AI-verordening introduceert.
+Deze factsheet is bedoeld voor inkopers om snel inzicht te krijgen in de AI-geletterdheidvereisten die de AI-verordening introduceert.
 
 ## AI-geletterdheid
 Al-geletterdheid moet betrokkenen in staat stellen om onderbouwde beslissingen te kunnen maken met betrekking tot Al-systemen.

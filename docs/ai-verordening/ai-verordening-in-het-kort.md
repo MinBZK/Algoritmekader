@@ -147,6 +147,7 @@ Hulpmiddelen op gebied van duiding van de AI-verordening:
 | [Factsheet AI-verordening voor bestuurders](../voldoen-aan-wetten-en-regels/hulpmiddelen/factsheet-AI-verordening-bestuurders.md) | Deze factsheet is bedoelt voor bestuurders om snel inzicht te krijgen in de belangrijkste aspecten van de AI-verordening. |
 | [Impactanalyse AI-verordening](../voldoen-aan-wetten-en-regels/hulpmiddelen/Impactanalyse-AI-verordening.md) | De impactanalyse AI-verordening is een hulpmiddel bij de implementatie van de AI-verordening. Het geeft een overzicht van de vereisten in het licht van mogelijk reeds bestaande governance, maatregelen, etc. Het doel van de impactanalyse is om een betere inschatting te kunnen maken van de benodigde acties bij de implementatie voor alle soorten overheidsorganisaties. Om dit doel te kunnen behalen is gekozen voor generieke termen, de gebruiker moet deze zelf vertalen naar de eigen context. |
 | [Roadmap inwerkingtreding AI-verordening](../voldoen-aan-wetten-en-regels/hulpmiddelen/roadmap-inwerkingtreding-AI-verordening.md) | Dit document geeft een gedetailleerd overzicht van de gefaseerde inwerkingtreding van de AI-verordening. Voor een toegankelijke webpagina-versie (maar minder gedetailleerd), bekijk [deze tijdlijn](tijdlijn-ai-verordening.md). |
+| [Veelgestelde vragen compliance generatieve AI](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/genAI-compliance-FAQ/index.html) | Deze handreiking is bedoeld voor verantwoordelijken voor de naleving van de vereisten uit de AI-verordening als het gaat over generatieve AI, of het helpen vaststellen welke eisen uit de AI-verordening gelden voor de inzet van een GenAI AI-systeem. |
 
 Hulpmiddelen op gebied van AI-geletterdheid:
 
@@ -157,7 +158,6 @@ Hulpmiddelen op gebied van AI-geletterdheid:
 | [AI-Geletterdheid Self-assessment](../voldoen-aan-wetten-en-regels/hulpmiddelen/AI-Geletterdheid-self-assessment.md) | Met deze self-assessment kan men nagaan welk niveau AI-geletterdheid nodig is, en wat men kan doen om daar te komen. |
 | [Factsheet AI-geletterdheid voor bestuurders](../voldoen-aan-wetten-en-regels/hulpmiddelen/factsheet-AI-geletterdheid-bestuurders.md) | Deze factsheet is bedoeld voor bestuurders om snel inzicht te krijgen in de AI-geletterdheidvereisten die de AI-verordening introduceert. |
 | [Factsheet AI-geletterdheid voor inkopers](../voldoen-aan-wetten-en-regels/hulpmiddelen/factsheet-AI-geletterdheid-inkopers.md) | Deze factsheet is bedoeld voor inkopers om snel inzicht te krijgen in de AI-geletterdheidvereisten die de AI-verordening introduceert. |
-| [Veelgestelde vragen compliance generatieve AI](https://minbzk.github.io/Algoritmekader/voldoen-aan-wetten-en-regels/hulpmiddelen/genAI-compliance-FAQ/index.html) | Deze handreiking is bedoeld voor verantwoordelijken voor de naleving van de vereisten uit de AI-verordening als het gaat over generatieve AI, of het helpen vaststellen welke eisen uit de AI-verordening gelden voor de inzet van een GenAI AI-systeem. |
 
 Al deze hulpmiddelen zijn ook te vinden onder de [Hulpmiddelen](../voldoen-aan-wetten-en-regels/hulpmiddelen/index.md) op het Algoritmekader.
 

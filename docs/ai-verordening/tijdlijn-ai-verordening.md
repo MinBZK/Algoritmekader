@@ -23,8 +23,8 @@ Als je aanbieder bent van een AI-model voor algemene doeleinden, moet je vóór 
 * [aia-31 Als AI-modellen voor algemene doeleinden met systeemrisico’s ernstige incidenten veroorzaken, wordt dit gedocumenteerd en gerapporteerd](../voldoen-aan-wetten-en-regels/vereisten/aia-31-ai-modellen-algemene-doeleinden-systeemrisico-ernstige-incidenten.md)
 * [aia-32 AI-modellen voor algemene doeleinden met systeemrisico’s zijn voldoende beveiligd tegen cyberaanvallen](../voldoen-aan-wetten-en-regels/vereisten/aia-32-ai-modellen-algemene-doeleinden-systeemrisico-cyberbeveiliging.md)
 
-## 2 augustus 2026: Nieuwe hoog-risico-AI-systemen voldoen aan vereisten
-Als je aanbieder en/of gebruiksverantwoordelijke bent van een hoog-risico-AI-systeem dat op de markt komt op of na 2 augustus 2026, moet je vóór 2 augustus 2026 voldoen aan de volgende vereisten uit de AI-verordening:
+## 2 december 2027: Nieuwe hoog-risico-AI-systemen voldoen aan vereisten
+Als je aanbieder en/of gebruiksverantwoordelijke bent van een hoog-risico-AI-systeem dat op de markt komt op of na 2 december 2027, moet je vóór 2 december 2027 voldoen aan de volgende vereisten uit de AI-verordening:
 
 ## Aanbieder
 
@@ -62,15 +62,17 @@ Als je aanbieder en/of gebruiksverantwoordelijke bent van een hoog-risico-AI-sys
 * [aia-26 Mensen over wie besluiten worden genomen door hoog-risico-AI-systemen, krijgen op verzoek informatie over deze besluiten](../voldoen-aan-wetten-en-regels/vereisten/aia-26-recht-op-uitleg-ai-besluiten.md)
 * [aia-27 Hoog-risico-AI-systemen voor publieke taken worden beoordeeld op gevolgen voor grondrechten](../voldoen-aan-wetten-en-regels/vereisten/aia-27-beoordelen-gevolgen-grondrechten.md)
 * [aia-28 AI-systemen worden zo ontworpen en gebruikt, dat mensen begrijpen wanneer zij met een AI-systeem communiceren en welke content gemaakt is door een AI-systeem](../voldoen-aan-wetten-en-regels/vereisten/aia-28-transparantieverplichtingen.md)
+
+NB: eerder stond deze deadline op 2 augustus 2026. In het AI-omnibuspakket is deze echter naar achteren geschoven.
 
 Wat betekent dit voor jouw organisatie? Gebruik de <a href="#" onclick="showModal(event, 'beslishulp AI-verordening', {redirectUrl: 'voldoen-aan-wetten-en-regels/vereisten/'});">Beslishulp AI-verordening</a>.
 
 ## Uitzondering
-Een uitzondering geldt voor hoog-risico-AI-systemen die op 2 augustus 2026 al in gebruik zijn bij overheidsorganisaties. Deze systemen hoeven pas in 2030 te voldoen aan de vereisten uit de AI-verordening.
+Een uitzondering geldt voor hoog-risico-AI-systemen die op 2 december 2027 al in gebruik zijn bij overheidsorganisaties. Deze systemen hoeven pas in 2030 te voldoen aan de vereisten uit de AI-verordening.
 Zie [AI-verordening, artikel 26 en artikel 27](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689#art_26).
 
-## 2 augustus 2027: Hoog-risico-systemen in producten voldoen aan vereisten
-Als je aanbieder bent van een product met daarin een hoog-risico-AI-systeem, moet je vóór 2 augustus 2027 voldoen aan de volgende vereisten uit de AI-verordening:
+## 2 augustus 2028: Hoog-risico-systemen in producten voldoen aan vereisten
+Als je aanbieder bent van een product met daarin een hoog-risico-AI-systeem, moet je vóór 2 augustus 2028 voldoen aan de volgende vereisten uit de AI-verordening:
 
 ## Aanbieder
 
@@ -109,6 +111,7 @@ Als je aanbieder bent van een product met daarin een hoog-risico-AI-systeem, moe
 * [aia-27 Hoog-risico-AI-systemen voor publieke taken worden beoordeeld op gevolgen voor grondrechten](../voldoen-aan-wetten-en-regels/vereisten/aia-27-beoordelen-gevolgen-grondrechten.md)
 * [aia-28 AI-systemen worden zo ontworpen en gebruikt, dat mensen begrijpen wanneer zij met een AI-systeem communiceren en welke content gemaakt is door een AI-systeem](../voldoen-aan-wetten-en-regels/vereisten/aia-28-transparantieverplichtingen.md)
 
+NB: eerder stond deze deadline op 2 augustus 2027. In het AI-omnibuspakket is deze echter naar achteren geschoven.
 
 Wat betekent dit voor jouw organisatie? Gebruik de <a href="#" onclick="showModal(event, 'beslishulp AI-verordening', {redirectUrl: 'voldoen-aan-wetten-en-regels/vereisten/'});">Beslishulp AI-verordening</a>.
 

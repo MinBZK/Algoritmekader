@@ -31,7 +31,13 @@ RUN rm -f site/sitemap.xml.gz
 # pinned by tag + digest. Inherits the nginx-unprivileged entrypoint, so the
 # envsubst-on-templates + .envsh mechanism still works. We ship our own
 # nginx.conf / security-headers.conf / server template on top.
-FROM ghcr.io/rijksictgilde/nginx-base:2026.06.17@sha256:529cb9e17264ce479d19b408530d2e33b217225d60e9fd320257aed0cdbfa377
+#
+# Let op: upstream bewaart maar ~30 datum-tags (~5 weken). Een pin die ouder
+# is verdwijnt uit het register en de build faalt dan met "not found" -- niet
+# met een waarschuwing. Dependabot (ecosystem "docker", directory /container)
+# ververst dit wekelijks, maar pas zodra dit bestand op de default branch
+# staat; Dependabot kijkt niet naar feature branches.
+FROM ghcr.io/rijksictgilde/nginx-base:2026.07.29@sha256:2b40227d90e8b1072c31585f31ff50baddf34579da294dd6f1e785c385bbead0
 COPY --from=builder /app/site /usr/share/nginx/html
 COPY container/nginx.conf /etc/nginx/nginx.conf
 COPY container/security-headers.conf /etc/nginx/security-headers.conf

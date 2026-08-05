@@ -9,10 +9,16 @@ labelMapper. Staat de combinatie daar niet in, dan krijgt het label het
 achtervoegsel "[onbekend]" en filtert updateLabels() het weg -- de dimensie
 verdwijnt dan geruisloos uit het filter.
 
-Zo brak het filteren toen de beslishulp in v1.2.15 de subcategorie "Rol"
-hernoemde naar "Verantwoordelijkheid": modal.js kende alleen nog "Rol-aanbieder".
-Deze tests vergelijken de gepinde beslishulp-bundle met de mapping in modal.js,
-zodat zo'n hernoeming bij de volgende versiebump direct opvalt.
+Zo brak het filteren toen de beslishulp de subcategorie "Rol" hernoemde naar
+"Verantwoordelijkheid": modal.js kende alleen nog "Rol-aanbieder", waardoor de
+rol-dimensie niets meer deed.
+
+De kern van deze tests is test_modal_kent_elke_uitkomst_van_de_beslishulp: die
+leidt uit de gepinde bundle af welke *combinaties* van subcategorie en
+antwoordlabel de beslishulp daadwerkelijk kan opleveren, en controleert dat
+modal.js ze allemaal kent. Losse controles op subcategorie en antwoordlabel zijn
+niet genoeg -- die blijven groen als beide namen wel ergens in de mapping
+voorkomen maar niet in die combinatie.
 """
 
 import json
@@ -29,6 +35,10 @@ MODAL_JS = REPO_ROOT / "docs/javascripts/modal.js"
 
 DOWNLOAD_ATTEMPTS = 3
 DOWNLOAD_TIMEOUT = 60
+
+# De beslishulp-bundle is geminificeerd; welke quotestijl de minifier kiest
+# verschilt per versie (v1.2.24 gebruikt backticks).
+Q = r"['\"`]"
 
 
 # --------------------------------------------------------------------------
@@ -109,19 +119,74 @@ def subcategories(bundle: str) -> set[str]:
     return keys
 
 
-def answer_labels(bundle: str) -> set[str]:
-    """Alle antwoordlabels die de beslishulp aan een subcategorie kan toekennen.
+def question_subcategories(bundle: str) -> dict[str, str]:
+    """De categorielijst van de beslishulp: questionId -> subcategorie."""
+    pairs = re.findall(
+        rf"questionId:{Q}([^'\"`]+){Q},category:{Q}[^'\"`]*{Q},subcategory:{Q}([^'\"`]+){Q}",
+        bundle,
+    )
+    assert pairs, "geen questionId/subcategory-lijst gevonden in de beslishulp-bundle"
+    return dict(pairs)
 
-    Staan in de vragenlijst als labels:[`aanbieder`,...]. De gebruikte
-    quotestijl verschilt per minifier-versie, vandaar beide varianten.
+
+def resolve_subcategory(question_id: str, by_question: dict[str, str]) -> str | None:
+    """De subcategorie die de beslishulp bij een vraag zoekt.
+
+    Spiegelt de lookup in de bundle: die probeert achtereenvolgens "1", "1.4" en
+    "1.4.1" en houdt de langste treffer over. Vraag 1.4.1 staat dus niet zelf in
+    de lijst maar erft "Soort toepassing" van 1.4.
     """
-    labels: set[str] = set()
-    for array in re.findall(r"labels:\[([^\]]*)\]", bundle):
-        labels.update(re.findall(r"[`\"']([^`\"']+)[`\"']", array))
+    parts = question_id.split(".")
+    found = by_question.get(parts[0])
+    for depth in (2, 3):
+        if len(parts) >= depth:
+            deeper = by_question.get(".".join(parts[:depth]))
+            if deeper is not None:
+                found = deeper
+    return found
 
-    labels.discard("nader te bepalen")
-    assert labels, "geen antwoordlabels gevonden in de beslishulp-bundle"
-    return labels
+
+def outcome_pairs(bundle: str) -> set[tuple[str, str]]:
+    """Alle (subcategorie, antwoordlabel) combinaties die de beslishulp oplevert.
+
+    De bundle koppelt een antwoordlabel aan een subcategorie via de vraag waar
+    het antwoord bij hoort (addLabelBySubCategory(label, subcategory)). We lopen
+    de bundle daarom op volgorde af en hangen elke labels:[...] aan de laatst
+    geziene questionId.
+    """
+    by_question = question_subcategories(bundle)
+
+    events: list[tuple[int, str, str]] = []
+    # `nextQuestionId` matcht hier niet op: dat heeft een hoofdletter Q.
+    for match in re.finditer(rf"(?<![A-Za-z])questionId:{Q}([^'\"`]+){Q}", bundle):
+        events.append((match.start(), "vraag", match.group(1)))
+    for match in re.finditer(r"labels:\[([^\]]*)\]", bundle):
+        events.append((match.start(), "labels", match.group(1)))
+    events.sort()
+
+    pairs: set[tuple[str, str]] = set()
+    current: str | None = None
+    for _, kind, value in events:
+        if kind == "vraag":
+            current = value
+            continue
+        if current is None:
+            continue
+        subcategory = resolve_subcategory(current, by_question)
+        if subcategory is None or subcategory == "Conclusie":
+            continue
+        for label in re.findall(rf"{Q}([^'\"`]+){Q}", value):
+            pairs.add((subcategory, label))
+
+    assert pairs, "geen antwoordlabels gevonden in de beslishulp-bundle"
+
+    # Bij de conclusie zet de beslishulp elke subcategorie die niet aan bod kwam
+    # van "nader te bepalen" op "niet van toepassing" (updateLabelsAtConclusion),
+    # dus die combinatie kan voor iedere subcategorie voorbijkomen.
+    for subcategory in subcategories(bundle):
+        pairs.add((subcategory, "niet van toepassing"))
+
+    return pairs
 
 
 # --------------------------------------------------------------------------
@@ -129,49 +194,31 @@ def answer_labels(bundle: str) -> set[str]:
 # --------------------------------------------------------------------------
 
 
-def test_modal_kent_elke_subcategorie_van_de_beslishulp(beslishulp_bundle: str):
-    """Elke subcategorie moet als voorvoegsel in de mapping voorkomen.
+def test_modal_kent_elke_uitkomst_van_de_beslishulp(beslishulp_bundle: str):
+    """Elke combinatie die de beslishulp kan opleveren moet modal.js kennen.
 
-    Vangt hernoemingen als "Rol" -> "Verantwoordelijkheid": zonder passend
-    voorvoegsel valt de hele dimensie uit het vereistenfilter.
+    Dit is de test die de "Rol" -> "Verantwoordelijkheid" hernoeming vangt: niet
+    of beide namen ergens voorkomen, maar of "<subcategorie>-<antwoord>" precies
+    zo in labelMapper staat. Zo niet, dan valt die filterdimensie stil weg.
     """
     synonyms = modal_synonyms()
 
     missing = sorted(
-        subcategory
-        for subcategory in subcategories(beslishulp_bundle)
-        if not any(key.startswith(f"{subcategory.lower()}-") for key in synonyms)
+        f"{subcategory}-{label}"
+        for subcategory, label in outcome_pairs(beslishulp_bundle)
+        if f"{subcategory}-{label}".lower() not in synonyms
     )
 
     assert not missing, (
-        f"modal.js kent geen mapping voor subcategorie(en) {missing} van "
-        f"{beslishulp_url()}. Voeg synoniemen '<subcategorie>-<antwoord>' toe aan "
-        f"labelMapper in {MODAL_JS.relative_to(REPO_ROOT)}."
-    )
-
-
-def test_modal_kent_elk_antwoordlabel_van_de_beslishulp(beslishulp_bundle: str):
-    """Elk antwoordlabel moet als achtervoegsel in de mapping voorkomen.
-
-    Vangt hernoemde antwoorden, bijvoorbeeld "hoog-risico AI" -> iets anders.
-    """
-    synonyms = modal_synonyms()
-
-    missing = sorted(
-        label
-        for label in answer_labels(beslishulp_bundle)
-        if not any(key.endswith(f"-{label.lower()}") for key in synonyms)
-    )
-
-    assert not missing, (
-        f"modal.js kent geen mapping voor antwoordlabel(s) {missing} van "
-        f"{beslishulp_url()}. Vul de bijbehorende synoniemen aan in labelMapper in "
-        f"{MODAL_JS.relative_to(REPO_ROOT)}."
+        f"modal.js kent deze uitkomst(en) van {beslishulp_url()} niet: {missing}. "
+        f"Voeg ze als synoniem toe aan labelMapper in "
+        f"{MODAL_JS.relative_to(REPO_ROOT)}, anders krijgen ze '[onbekend]' en "
+        f"filtert die dimensie niet meer mee."
     )
 
 
 def test_uitkomst_van_de_beslishulp_levert_alle_filterlabels_op():
-    """Een volledige beslishulp-uitkomst moet op alle zes filterdimensies mappen.
+    """Een volledige beslishulp-uitkomst moet op alle filterdimensies mappen.
 
     Offline regressietest voor de bug waarbij de rol-dimensie wegviel: hier
     staat letterlijk wat de beslishulp oplevert en wat het filter ervan moet
@@ -207,10 +254,42 @@ def test_uitkomst_van_de_beslishulp_levert_alle_filterlabels_op():
     )
 
 
+def test_elke_subcategorie_kent_niet_van_toepassing():
+    """"niet van toepassing" moet voor elke subcategorie gemapt zijn.
+
+    Bij de conclusie krijgt elke subcategorie die niet aan bod kwam deze waarde.
+    updateLabels() filtert hem daarna weg op display_value, maar zonder mapping
+    komt hij eerst als onbekend label langs en waarschuwt find() bij elke
+    doorloop van de beslishulp.
+    """
+    synonyms = modal_synonyms()
+
+    documented = {
+        "Verantwoordelijkheid",
+        "Operationeel",
+        "Soort toepassing",
+        "Risicogroep",
+        "Conformiteitsbeoordelingsinstantie",
+        "Systeemrisico",
+        "Transparantieverplichting",
+        "Open source",
+    }
+
+    missing = sorted(
+        subcategory
+        for subcategory in documented
+        if f"{subcategory}-niet van toepassing".lower() not in synonyms
+    )
+
+    assert not missing, (
+        f"modal.js mist '<subcategorie>-niet van toepassing' voor {missing}."
+    )
+
+
 def test_beslishulp_uitkomst_dekt_de_gedocumenteerde_subcategorieen(
     beslishulp_bundle: str,
 ):
-    """De regressietest hierboven moet de echte subcategorieen blijven gebruiken."""
+    """De offline tests hierboven moeten de echte subcategorieen blijven gebruiken."""
     documented = {
         "Verantwoordelijkheid",
         "Operationeel",

@@ -308,6 +308,11 @@ class ValueMapper {
     if (this.map.has(value.toLowerCase())) {
       return this.map.get(value.toLowerCase());
     }
+    // Een onbekend label wordt verderop door updateLabels() weggefilterd op
+    // "[onbekend]". Dat is bedoeld gedrag, maar zonder waarschuwing verdwijnt
+    // een hele filterdimensie ongemerkt zodra de beslishulp een subcategorie of
+    // antwoord hernoemt. Zie tests/modal/test_beslishulp_contract.py.
+    console.warn(`labelMapper: onbekend label "${value}"; dit label filtert niet mee.`);
     return {"label": value, group: "onbekend", "display_value": value + " [onbekend]", "missing": true};
   }
 
@@ -323,10 +328,13 @@ labelMapper.addEntry('verboden-ai', 'Verboden AI', 'risicogroep', ['Risicogroep-
 labelMapper.addEntry('uitzondering-van-toepassing', 'Uitzondering van toepassing', 'risicogroep', ["Risicogroep-uitzondering van toepassing"]);
 labelMapper.addEntry('niet-van-toepassing', 'Niet van toepassing', 'risicogroep', ["Risicogroep-niet van toepassing"]);
 
-labelMapper.addEntry('aanbieder', 'Aanbieder', 'rol-ai-act', ["Rol-aanbieder"]);
-labelMapper.addEntry('gebruiksverantwoordelijke', 'Gebruiksverantwoordelijke', 'rol-ai-act', ["Rol-gebruiksverantwoordelijke"])
-labelMapper.addEntry('importeur', 'Importeur', 'rol-ai-act', ["Rol-importeur"]);
-labelMapper.addEntry('distributeur', 'Distributeur', 'rol-ai-act', ["Rol-distributeur"]);
+// De beslishulp hernoemde de subcategorie "Rol" naar "Verantwoordelijkheid" in
+// v1.2.15. Beide blijven staan: oude naam voor sessionStorage die nog van een
+// eerdere versie komt, nieuwe naam voor de huidige beslishulp.
+labelMapper.addEntry('aanbieder', 'Aanbieder', 'rol-ai-act', ["Rol-aanbieder", "Verantwoordelijkheid-aanbieder"]);
+labelMapper.addEntry('gebruiksverantwoordelijke', 'Gebruiksverantwoordelijke', 'rol-ai-act', ["Rol-gebruiksverantwoordelijke", "Verantwoordelijkheid-gebruiksverantwoordelijke"])
+labelMapper.addEntry('importeur', 'Importeur', 'rol-ai-act', ["Rol-importeur", "Verantwoordelijkheid-importeur"]);
+labelMapper.addEntry('distributeur', 'Distributeur', 'rol-ai-act', ["Rol-distributeur", "Verantwoordelijkheid-distributeur"]);
 
 labelMapper.addEntry('ai-systeem', 'AI Systeem', 'soort-toepassing', ['Soort toepassing-AI-Systeem']);
 labelMapper.addEntry('ai-systeem-voor-algemene-doeleinden', 'AI Systeem voor algemene doeleinden', 'soort-toepassing', ['Soort toepassing-AI-Systeem voor algemene doeleinden']);

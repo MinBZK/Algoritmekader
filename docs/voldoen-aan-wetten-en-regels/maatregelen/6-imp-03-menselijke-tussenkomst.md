@@ -93,7 +93,7 @@ Wanneer algoritmen een rol spelen in besluitvormingsprocessen met rechtsgevolgen
 - [Algoritmes afwegen | Rathenau Instituut](https://www.rathenau.nl/nl/digitalisering/algoritmes-afwegen)
 -	[Managing supplier delivery reliability risk under limited information: Foundations for a human-in-the-loop DSS - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0167923612002886)
 -	[Human control of AI systems: from supervision to teaming | AI and Ethics (springer.com)](https://link.springer.com/article/10.1007/s43681-024-00489-4)
--	[Zijn er beperkingen op het gebruik van geautomatiseerde besluitvorming? - Europese Commissie](https://commission.europa.eu/law/law-topic/data-protection/rules-business-and-organisations/dealing-citizens/are-there-restrictions-use-automated-decision-making_nl#:~:text=Example-,Antwoord,is%20of%20hen%20aanzienlijk%20be%C3%AFnvloedt.)
+-	[Zijn er beperkingen op het gebruik van geautomatiseerde besluitvorming? - Europese Commissie](https://commission.europa.eu/law/law-topic/data-protection/information-business-and-organisations/dealing-requests-individuals_en)
 
 ## Voorbeelden
 

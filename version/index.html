@@ -72,6 +72,10 @@
     
   
   <!-- Skip link CSS is in navigation.css -->
+  <!-- Absolute URL prefix the site is served under (derived from site_url in
+       hooks/base_path.py). Used by modal.js to load HTML fragments / the
+       beslishulp iframe correctly on any deployment (root, /kader, /Algoritmekader). -->
+  <script>window.AK_BASE_PATH = "/Algoritmekader";</script>
 
   <link href="../assets/stylesheets/glightbox.min.css" rel="stylesheet"><script src="../assets/javascripts/glightbox.min.js"></script><style id="glightbox-style">
             html.glightbox-open { overflow: initial; height: 100%; }
@@ -899,7 +903,7 @@
 
 <h2 id="-">---</h2>
 <h1 id="huidige-versie">Huidige versie</h1>
-<p>v2.5.1</p>
+<p>v2.5.2</p>
 
 
 

@@ -37,7 +37,7 @@ RUN rm -f site/sitemap.xml.gz
 # met een waarschuwing. Dependabot (ecosystem "docker", directory /container)
 # ververst dit wekelijks, maar pas zodra dit bestand op de default branch
 # staat; Dependabot kijkt niet naar feature branches.
-FROM ghcr.io/rijksictgilde/nginx-base:2026.07.29@sha256:2b40227d90e8b1072c31585f31ff50baddf34579da294dd6f1e785c385bbead0
+FROM ghcr.io/rijksictgilde/nginx-base:2026.08.3@sha256:590c80d7eea748545ecdb9454898720e50d7a2b3356791213dab92943d91e5d7
 COPY --from=builder /app/site /usr/share/nginx/html
 COPY container/nginx.conf /etc/nginx/nginx.conf
 COPY container/security-headers.conf /etc/nginx/security-headers.conf

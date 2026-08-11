@@ -16,6 +16,7 @@ onderwerp:
 rollen:
 - ontwikkelaar
 - projectleider
+- beleid-en-advies
 sources:
   ARK: 2.03
   ADR:
@@ -37,10 +38,13 @@ Voor het evalueren van de nauwkeurigheid zijn de volgende stappen essentieel:
 
 - Bepaal met welke methoden en [metriek(en)](#metrieken) je de nauwkeurigheid wilt gaan meten. Pas dit aan op de [ontwerpkeuzes](../../levenscyclus/ontwerp.md), [het beoogde doel](1-pba-02-formuleren-doelstelling.md) en [de bepaalde risico’s](2-owp-06-impactanalyse.md).
 - [Controleer of de data volledig en actueel is](3-dat-01-datakwaliteit.md) om de metrieken te kunnen meten.
+- Evalueer de nauwkeurigheid op gegevens die niet zijn gebruikt om het algoritme te trainen en leg vast op welke gegevens en onder welke omstandigheden de gemeten prestaties gelden.
+- Evalueer de nauwkeurigheid opnieuw wanneer het algoritme in een andere context wordt ingezet, bijvoorbeeld voor een andere doelgroep, regio of uitvoeringsorganisatie.
 - Bepaal welke foutmarge acceptabel is:
 
     - Bepaal hoe vaak het algoritme een bepaalde fout maakt. Houd rekening met verschillende fouten die gemaakt kunnen worden, zoals *false positives* en *false negatives*. Welke fouten zijn erger om te maken?
     - De foutmarge is afhankelijk van [welke schade wordt veroorzaakt](2-owp-06-impactanalyse.md) bij onnauwkeurige of foutieve voorspellingen.
+    - Leg de acceptatie van de foutmarge vast als expliciet besluit: welke verhouding tussen verschillende fouten is geaccepteerd, op grond van welke cijfers, wie daarvoor eindverantwoordelijk (*Accountable*) is en wanneer het besluit opnieuw wordt beoordeeld. Beleg deze verantwoordelijkheid conform [org-10](0-org-10-inrichten-taken-en-verantwoordelijkheden-algoritmegovernance.md).
     - Heb hierbij aandacht voor de afweging tussen nauwkeurigheid en [betrouwbaarheid](5-ver-06-evalueer-betrouwbaarheid.md). Een model met hoge nauwkeurigheid op de testset kan vaak slechter generaliseren naar situaties net buiten de test set (overfitting).
     - Bepaal interventies voor als het restrisico hoger is dan acceptabel.
 
@@ -57,6 +61,11 @@ Afhankelijk van het type algoritme zijn er verschillende metrieken waarmee je de
 - *mean-squared-error*
 - *mean-absolute-error*
 - *ROC-curve*
+- kalibratie, bijvoorbeeld met een betrouwbaarheidsdiagram en aanvullend een probabilistische prestatiemaat zoals de *Brier score*
+
+Wanneer een numerieke modelscore als kans wordt geïnterpreteerd of wordt gebruikt om beslisdrempels te bepalen, beoordeel dan ook de kalibratie van de voorspellingen. Kalibratie laat zien of voorspelde kansen overeenkomen met waargenomen frequenties.
+
+Let bij zeldzame uitkomsten op met accuraatheid als zelfstandige maatstaf. Als een positieve uitkomst slechts 1 op de 1.000 keer voorkomt, behaalt een algoritme dat altijd 'nee' voorspelt 99,9% accuraatheid zonder één positief geval correct te identificeren.
 
 Leg vast welke keuze je maakt voor bepaalde metrieken en waarom. In verschillende omgevingen en onder verschillende datasets moeten de relevante metrieken voor jouw toepassing worden geëvalueerd.
 

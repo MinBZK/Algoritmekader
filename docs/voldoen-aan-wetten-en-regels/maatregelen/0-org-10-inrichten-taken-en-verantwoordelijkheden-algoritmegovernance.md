@@ -26,6 +26,7 @@ Taken en verantwoordelijkheden zijn toebedeeld in de algoritmegovernance.
 - Het beleggen van deze taken en verantwoordelijkheden zorgt voor een actiegerichte structuur waarin duidelijkheid bestaat over wie wanneer aan zet is.
 - Denk hierbij aan het opstellen van een RACI-matrix en pas dit binnen de organisatie toe per risicoclassificatie voor algoritmes.
 - Rollen en verantwoordelijkheden kunnen worden gekoppeld aan de [vereisten](../vereisten/index.md) en [maatregelen](../maatregelen/index.md) die moeten worden gerealiseerd in de verschillende [fasen van de levenscyclus](../../levenscyclus/over-de-levenscyclus.md) van een algoritme.
+- Beleg expliciet wie eindverantwoordelijk (*Accountable*) is voor het accepteren van de foutmarge van een algoritme en voor het periodiek herbeoordelen van die afweging. Leg deze verantwoordelijkheid vast in samenhang met de evaluatie van nauwkeurigheid in [ver-02](5-ver-02-evalueer-nauwkeurigheid.md).
 - Organisaties zullen zelf moeten beoordelen welke taken en verantwoordelijkheden ze willen koppelen aan de beschikbare (of nieuwe) rollen binnen hun organisaties.
 - Zie hieronder een mogelijk voorbeeld van hoe dit eruit kan zien.
 - Bij zeer complexe processen waarbij ondersteunende rollen nodig zijn, kun je ook de uitgebreidere RASCI-matrix gebruiken, waarbij de toegevoegde S staat voor Supportive.

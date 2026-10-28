@@ -13,7 +13,7 @@ Deze bestanden worden inzichtelijk gemaakt met behulp van [MkDocs](https://www.m
 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
 Het Algoritmekader kun je bekijken op
-[https://minbzk.github.io/Algoritmekader](https://minbzk.github.io/Algoritmekader/).
+[https://algoritmes.overheid.nl/nl/algoritmekader](https://algoritmes.overheid.nl/nl/algoritmekader).
 
 ## De image draaien of deployen
 

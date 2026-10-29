@@ -308,6 +308,11 @@ class ValueMapper {
     if (this.map.has(value.toLowerCase())) {
       return this.map.get(value.toLowerCase());
     }
+    // Een onbekend label wordt verderop door updateLabels() weggefilterd op
+    // "[onbekend]". Dat is bedoeld gedrag, maar zonder waarschuwing verdwijnt
+    // een hele filterdimensie ongemerkt zodra de beslishulp een subcategorie of
+    // antwoord hernoemt. Zie tests/modal/test_beslishulp_contract.py.
+    console.warn(`labelMapper: onbekend label "${value}"; dit label filtert niet mee.`);
     return {"label": value, group: "onbekend", "display_value": value + " [onbekend]", "missing": true};
   }
 
@@ -317,21 +322,30 @@ class ValueMapper {
 // Usage example:
 const labelMapper = new ValueMapper();
 
+// Elke subcategorie heeft een 'niet-van-toepassing'-entry: de beslishulp zet bij
+// de conclusie iedere subcategorie die niet aan bod kwam op "niet van toepassing".
+// updateLabels() filtert die daarna weg op display_value, maar zonder entry komen
+// ze eerst als onbekend label langs en waarschuwt find() bij elke doorloop.
 labelMapper.addEntry('hoog-risico-ai-systeem', 'Hoog risico AI Systeem', 'risicogroep', ['Risicogroep-hoog-risico AI']);
 labelMapper.addEntry('geen-hoog-risico-ai-systeem', 'Geen hoog-risico AI Systeem', 'risicogroep', ['Risicogroep-geen hoog-risico AI']);
 labelMapper.addEntry('verboden-ai', 'Verboden AI', 'risicogroep', ['Risicogroep-Verboden AI']);
 labelMapper.addEntry('uitzondering-van-toepassing', 'Uitzondering van toepassing', 'risicogroep', ["Risicogroep-uitzondering van toepassing"]);
 labelMapper.addEntry('niet-van-toepassing', 'Niet van toepassing', 'risicogroep', ["Risicogroep-niet van toepassing"]);
 
-labelMapper.addEntry('aanbieder', 'Aanbieder', 'rol-ai-act', ["Rol-aanbieder"]);
-labelMapper.addEntry('gebruiksverantwoordelijke', 'Gebruiksverantwoordelijke', 'rol-ai-act', ["Rol-gebruiksverantwoordelijke"])
-labelMapper.addEntry('importeur', 'Importeur', 'rol-ai-act', ["Rol-importeur"]);
-labelMapper.addEntry('distributeur', 'Distributeur', 'rol-ai-act', ["Rol-distributeur"]);
+// De beslishulp hernoemde de subcategorie "Rol" naar "Verantwoordelijkheid" in
+// v1.2.15. Beide blijven staan: oude naam voor sessionStorage die nog van een
+// eerdere versie komt, nieuwe naam voor de huidige beslishulp.
+labelMapper.addEntry('aanbieder', 'Aanbieder', 'rol-ai-act', ["Rol-aanbieder", "Verantwoordelijkheid-aanbieder"]);
+labelMapper.addEntry('gebruiksverantwoordelijke', 'Gebruiksverantwoordelijke', 'rol-ai-act', ["Rol-gebruiksverantwoordelijke", "Verantwoordelijkheid-gebruiksverantwoordelijke"])
+labelMapper.addEntry('importeur', 'Importeur', 'rol-ai-act', ["Rol-importeur", "Verantwoordelijkheid-importeur"]);
+labelMapper.addEntry('distributeur', 'Distributeur', 'rol-ai-act', ["Rol-distributeur", "Verantwoordelijkheid-distributeur"]);
+labelMapper.addEntry('niet-van-toepassing', 'Niet van toepassing', 'rol-ai-act', ["Rol-niet van toepassing", "Verantwoordelijkheid-niet van toepassing"]);
 
 labelMapper.addEntry('ai-systeem', 'AI Systeem', 'soort-toepassing', ['Soort toepassing-AI-Systeem']);
 labelMapper.addEntry('ai-systeem-voor-algemene-doeleinden', 'AI Systeem voor algemene doeleinden', 'soort-toepassing', ['Soort toepassing-AI-Systeem voor algemene doeleinden']);
 labelMapper.addEntry('ai-model-voor-algemene-doeleinden', 'AI model voor algemene doeleinden', 'soort-toepassing', ['Soort toepassing-AI-model voor algemene doeleinden']);
 labelMapper.addEntry('geen-algoritme', 'Geen algoritme', 'soort-toepassing', ["Soort toepassing-geen algoritme"]);
+labelMapper.addEntry('niet-van-toepassing', 'Niet van toepassing', 'soort-toepassing', ["Soort toepassing-niet van toepassing"]);
 
 labelMapper.addEntry('transparantieverplichting', 'Transparantieverplichting', 'transparantieverplichting', ["Transparantieverplichting-transparantieverplichting"]);
 labelMapper.addEntry('geen-transparantieverplichting', 'Geen transparantieverplichting', 'transparantieverplichting', ["Transparantieverplichting-geen transparantieverplichting"]);
@@ -347,6 +361,7 @@ labelMapper.addEntry('niet-van-toepassing', 'Niet van toepassing', 'open-source'
 
 labelMapper.addEntry('in-gebruik', 'In gebruik', 'operationeel', ["Operationeel-in gebruik"]);
 labelMapper.addEntry('in-ontwikkeling', 'In ontwikkeling', 'operationeel', ["Operationeel-in ontwikkeling"]);
+labelMapper.addEntry('niet-van-toepassing', 'Niet van toepassing', 'operationeel', ["Operationeel-niet van toepassing"]);
 
 labelMapper.addEntry('beoordeling-door-derde-partij', 'Beoordeling door derde partij', 'conformiteitsbeoordelingsinstantie', ["Conformiteitsbeoordelingsinstantie-beoordeling door derde partij"]);
 labelMapper.addEntry('niet-van-toepassing', 'Niet van toepassing', 'conformiteitsbeoordelingsinstantie', ["Conformiteitsbeoordelingsinstantie-niet van toepassing"]);
